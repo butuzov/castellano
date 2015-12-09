@@ -1,0 +1,89 @@
+{
+	"source" : "http:\/\/www.spanishdict.com\/conjugate\/pagar",
+	"word" : "pagar",
+	"infinitivo" : "pagar",
+	"translation" : "to pay",
+	"gerundio" : [ "pagando" ],
+	"participio" : [ "pagado", "pago" ],
+	"tenses" : {
+		"3" : [
+			[ "pago" ],
+			[ "pagas" ],
+			[ "paga" ],
+			[ "pagamos" ],
+			[ "pagáis" ],
+			[ "pagan" ]
+		],
+		"4" : [
+			[ "pagué" ],
+			[ "pagaste" ],
+			[ "pagó" ],
+			[ "pagamos" ],
+			[ "pagasteis" ],
+			[ "pagaron" ]
+		],
+		"5" : [
+			[ "pagaba" ],
+			[ "pagabas" ],
+			[ "pagaba" ],
+			[ "pagábamos" ],
+			[ "pagabais" ],
+			[ "pagaban" ]
+		],
+		"6" : [
+			[ "pagaría" ],
+			[ "pagarías" ],
+			[ "pagaría" ],
+			[ "pagaríamos" ],
+			[ "pagaríais" ],
+			[ "pagarían" ]
+		],
+		"7" : [
+			[ "pagaré" ],
+			[ "pagarás" ],
+			[ "pagará" ],
+			[ "pagaremos" ],
+			[ "pagaréis" ],
+			[ "pagarán" ]
+		],
+		"8" : [
+			[ "pague" ],
+			[ "pagues" ],
+			[ "pague" ],
+			[ "paguemos" ],
+			[ "paguéis" ],
+			[ "paguen" ]
+		],
+		"9" : [
+			[ "pagara" ],
+			[ "pagaras" ],
+			[ "pagara" ],
+			[ "pagáramos" ],
+			[ "pagarais" ],
+			[ "pagaran" ]
+		],
+		"10" : [
+			[ "pagase" ],
+			[ "pagases" ],
+			[ "pagase" ],
+			[ "pagásemos" ],
+			[ "pagaseis" ],
+			[ "pagasen" ]
+		],
+		"11" : [
+			[ "pagare" ],
+			[ "pagares" ],
+			[ "pagare" ],
+			[ "pagáremos" ],
+			[ "pagareis" ],
+			[ "pagaren" ]
+		],
+		"12" : {
+			"1" : [ "paga" ],
+			"2" : [ "pague" ],
+			"3" : [ "paguemos" ],
+			"4" : [ "pagad" ],
+			"5" : [ "paguen" ]
+		}
+	}
+}

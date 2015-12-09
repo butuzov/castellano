@@ -1,0 +1,89 @@
+{
+	"source" : "http:\/\/www.spanishdict.com\/conjugate\/estar",
+	"word" : "estar",
+	"infinitivo" : "estar",
+	"translation" : "to be, to stay",
+	"gerundio" : [ "estando" ],
+	"participio" : [ "estado" ],
+	"tenses" : {
+		"3" : [
+			[ "estoy" ],
+			[ "estás" ],
+			[ "está" ],
+			[ "estamos" ],
+			[ "estáis" ],
+			[ "están" ]
+		],
+		"4" : [
+			[ "estuve" ],
+			[ "estuviste" ],
+			[ "estuvo" ],
+			[ "estuvimos" ],
+			[ "estuvisteis" ],
+			[ "estuvieron" ]
+		],
+		"5" : [
+			[ "estaba" ],
+			[ "estabas" ],
+			[ "estaba" ],
+			[ "estábamos" ],
+			[ "estabais" ],
+			[ "estaban" ]
+		],
+		"6" : [
+			[ "estaría" ],
+			[ "estarías" ],
+			[ "estaría" ],
+			[ "estaríamos" ],
+			[ "estaríais" ],
+			[ "estarían" ]
+		],
+		"7" : [
+			[ "estaré" ],
+			[ "estarás" ],
+			[ "estará" ],
+			[ "estaremos" ],
+			[ "estaréis" ],
+			[ "estarán" ]
+		],
+		"8" : [
+			[ "esté" ],
+			[ "estés" ],
+			[ "esté" ],
+			[ "estemos" ],
+			[ "estéis" ],
+			[ "estén" ]
+		],
+		"9" : [
+			[ "estuviera" ],
+			[ "estuvieras" ],
+			[ "estuviera" ],
+			[ "estuviéramos" ],
+			[ "estuvierais" ],
+			[ "estuvieran" ]
+		],
+		"10" : [
+			[ "estuviese" ],
+			[ "estuvieses" ],
+			[ "estuviese" ],
+			[ "estuviésemos" ],
+			[ "estuvieseis" ],
+			[ "estuviesen" ]
+		],
+		"11" : [
+			[ "estuviere" ],
+			[ "estuvieres" ],
+			[ "estuviere" ],
+			[ "estuviéremos" ],
+			[ "estuviereis" ],
+			[ "estuvieren" ]
+		],
+		"12" : {
+			"1" : [ "está" ],
+			"2" : [ "esté" ],
+			"3" : [ "estemos" ],
+			"4" : [ "estad" ],
+			"5" : [ "estén" ]
+		}
+	}
+}

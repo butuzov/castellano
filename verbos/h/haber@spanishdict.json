@@ -1,0 +1,89 @@
+{
+	"source" : "http:\/\/www.spanishdict.com\/conjugate\/haber",
+	"word" : "haber",
+	"infinitivo" : "haber",
+	"translation" : "have",
+	"gerundio" : [ "habiendo" ],
+	"participio" : [ "habido" ],
+	"tenses" : {
+		"3" : [
+			[ "he" ],
+			[ "has" ],
+			[ "ha", "hay" ],
+			[ "hemos" ],
+			[ "habéis" ],
+			[ "han" ]
+		],
+		"4" : [
+			[ "hube" ],
+			[ "hubiste" ],
+			[ "hubo" ],
+			[ "hubimos" ],
+			[ "hubisteis" ],
+			[ "hubieron" ]
+		],
+		"5" : [
+			[ "había" ],
+			[ "habías" ],
+			[ "había" ],
+			[ "habíamos" ],
+			[ "habíais" ],
+			[ "habían" ]
+		],
+		"6" : [
+			[ "habría" ],
+			[ "habrías" ],
+			[ "habría" ],
+			[ "habríamos" ],
+			[ "habríais" ],
+			[ "habrían" ]
+		],
+		"7" : [
+			[ "habré" ],
+			[ "habrás" ],
+			[ "habrá" ],
+			[ "habremos" ],
+			[ "habréis" ],
+			[ "habrán" ]
+		],
+		"8" : [
+			[ "haya" ],
+			[ "hayas" ],
+			[ "haya" ],
+			[ "hayamos" ],
+			[ "hayáis" ],
+			[ "hayan" ]
+		],
+		"9" : [
+			[ "hubiera" ],
+			[ "hubieras" ],
+			[ "hubiera" ],
+			[ "hubiéramos" ],
+			[ "hubierais" ],
+			[ "hubieran" ]
+		],
+		"10" : [
+			[ "hubiese" ],
+			[ "hubieses" ],
+			[ "hubiese" ],
+			[ "hubiésemos" ],
+			[ "hubieseis" ],
+			[ "hubiesen" ]
+		],
+		"11" : [
+			[ "hubiere" ],
+			[ "hubieres" ],
+			[ "hubiere" ],
+			[ "hubiéremos" ],
+			[ "hubiereis" ],
+			[ "hubieren" ]
+		],
+		"12" : {
+			"1" : [ "he" ],
+			"2" : [ "haya" ],
+			"3" : [ "hayamos" ],
+			"4" : [ "habed" ],
+			"5" : [ "hayan" ]
+		}
+	}
+}

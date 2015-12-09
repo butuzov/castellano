@@ -1,0 +1,89 @@
+{
+	"source" : "http:\/\/www.spanishdict.com\/conjugate\/nacer",
+	"word" : "nacer",
+	"infinitivo" : "nacer",
+	"translation" : "to be born",
+	"gerundio" : [ "naciendo" ],
+	"participio" : [ "nacido", "nato" ],
+	"tenses" : {
+		"3" : [
+			[ "nazco" ],
+			[ "naces" ],
+			[ "nace" ],
+			[ "nacemos" ],
+			[ "nacéis" ],
+			[ "nacen" ]
+		],
+		"4" : [
+			[ "nací" ],
+			[ "naciste" ],
+			[ "nació" ],
+			[ "nacimos" ],
+			[ "nacisteis" ],
+			[ "nacieron" ]
+		],
+		"5" : [
+			[ "nacía" ],
+			[ "nacías" ],
+			[ "nacía" ],
+			[ "nacíamos" ],
+			[ "nacíais" ],
+			[ "nacían" ]
+		],
+		"6" : [
+			[ "nacería" ],
+			[ "nacerías" ],
+			[ "nacería" ],
+			[ "naceríamos" ],
+			[ "naceríais" ],
+			[ "nacerían" ]
+		],
+		"7" : [
+			[ "naceré" ],
+			[ "nacerás" ],
+			[ "nacerá" ],
+			[ "naceremos" ],
+			[ "naceréis" ],
+			[ "nacerán" ]
+		],
+		"8" : [
+			[ "nazca" ],
+			[ "nazcas" ],
+			[ "nazca" ],
+			[ "nazcamos" ],
+			[ "nazcáis" ],
+			[ "nazcan" ]
+		],
+		"9" : [
+			[ "naciera" ],
+			[ "nacieras" ],
+			[ "naciera" ],
+			[ "naciéramos" ],
+			[ "nacierais" ],
+			[ "nacieran" ]
+		],
+		"10" : [
+			[ "naciese" ],
+			[ "nacieses" ],
+			[ "naciese" ],
+			[ "naciésemos" ],
+			[ "nacieseis" ],
+			[ "naciesen" ]
+		],
+		"11" : [
+			[ "naciere" ],
+			[ "nacieres" ],
+			[ "naciere" ],
+			[ "naciéremos" ],
+			[ "naciereis" ],
+			[ "nacieren" ]
+		],
+		"12" : {
+			"1" : [ "nace" ],
+			"2" : [ "nazca" ],
+			"3" : [ "nazcamos" ],
+			"4" : [ "naced" ],
+			"5" : [ "nazcan" ]
+		}
+	}
+}

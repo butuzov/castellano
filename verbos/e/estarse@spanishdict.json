@@ -1,0 +1,89 @@
+{
+	"source" : "http:\/\/www.spanishdict.com\/conjugate\/estarse",
+	"word" : "estarse",
+	"infinitivo" : "estar",
+	"translation" : "to stay",
+	"gerundio" : [ "estando" ],
+	"participio" : [ "estado" ],
+	"tenses" : {
+		"3" : [
+			[ "me estoy" ],
+			[ "te estás" ],
+			[ "se está" ],
+			[ "nos estamos" ],
+			[ "os estáis" ],
+			[ "se están" ]
+		],
+		"4" : [
+			[ "me estuve" ],
+			[ "te estuviste" ],
+			[ "se estuvo" ],
+			[ "nos estuvimos" ],
+			[ "os estuvisteis" ],
+			[ "se estuvieron" ]
+		],
+		"5" : [
+			[ "me estaba" ],
+			[ "te estabas" ],
+			[ "se estaba" ],
+			[ "nos estábamos" ],
+			[ "os estabais" ],
+			[ "se estaban" ]
+		],
+		"6" : [
+			[ "me estaría" ],
+			[ "te estarías" ],
+			[ "se estaría" ],
+			[ "nos estaríamos" ],
+			[ "os estaríais" ],
+			[ "se estarían" ]
+		],
+		"7" : [
+			[ "me estaré" ],
+			[ "te estarás" ],
+			[ "se estará" ],
+			[ "nos estaremos" ],
+			[ "os estaréis" ],
+			[ "se estarán" ]
+		],
+		"8" : [
+			[ "me esté" ],
+			[ "te estés" ],
+			[ "se esté" ],
+			[ "nos estemos" ],
+			[ "os estéis" ],
+			[ "se estén" ]
+		],
+		"9" : [
+			[ "me estuviera" ],
+			[ "te estuvieras" ],
+			[ "se estuviera" ],
+			[ "nos estuviéramos" ],
+			[ "os estuvierais" ],
+			[ "se estuvieran" ]
+		],
+		"10" : [
+			[ "me estuviese" ],
+			[ "te estuvieses" ],
+			[ "se estuviese" ],
+			[ "nos estuviésemos" ],
+			[ "os estuvieseis" ],
+			[ "se estuviesen" ]
+		],
+		"11" : [
+			[ "me estuviere" ],
+			[ "te estuvieres" ],
+			[ "se estuviere" ],
+			[ "nos estuviéremos" ],
+			[ "os estuviereis" ],
+			[ "se estuvieren" ]
+		],
+		"12" : {
+			"1" : [ "está" ],
+			"2" : [ "esté" ],
+			"3" : [ "estemos" ],
+			"4" : [ "estad" ],
+			"5" : [ "estén" ]
+		}
+	}
+}

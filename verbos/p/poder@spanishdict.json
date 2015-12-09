@@ -1,0 +1,89 @@
+{
+	"source" : "http:\/\/www.spanishdict.com\/conjugate\/poder",
+	"word" : "poder",
+	"infinitivo" : "poder",
+	"translation" : "to be able to",
+	"gerundio" : [ "pudiendo" ],
+	"participio" : [ "podido" ],
+	"tenses" : {
+		"3" : [
+			[ "puedo" ],
+			[ "puedes" ],
+			[ "puede" ],
+			[ "podemos" ],
+			[ "podéis" ],
+			[ "pueden" ]
+		],
+		"4" : [
+			[ "pude" ],
+			[ "pudiste" ],
+			[ "pudo" ],
+			[ "pudimos" ],
+			[ "pudisteis" ],
+			[ "pudieron" ]
+		],
+		"5" : [
+			[ "podía" ],
+			[ "podías" ],
+			[ "podía" ],
+			[ "podíamos" ],
+			[ "podíais" ],
+			[ "podían" ]
+		],
+		"6" : [
+			[ "podría" ],
+			[ "podrías" ],
+			[ "podría" ],
+			[ "podríamos" ],
+			[ "podríais" ],
+			[ "podrían" ]
+		],
+		"7" : [
+			[ "podré" ],
+			[ "podrás" ],
+			[ "podrá" ],
+			[ "podremos" ],
+			[ "podréis" ],
+			[ "podrán" ]
+		],
+		"8" : [
+			[ "pueda" ],
+			[ "puedas" ],
+			[ "pueda" ],
+			[ "podamos" ],
+			[ "podáis" ],
+			[ "puedan" ]
+		],
+		"9" : [
+			[ "pudiera" ],
+			[ "pudieras" ],
+			[ "pudiera" ],
+			[ "pudiéramos" ],
+			[ "pudierais" ],
+			[ "pudieran" ]
+		],
+		"10" : [
+			[ "pudiese" ],
+			[ "pudieses" ],
+			[ "pudiese" ],
+			[ "pudiésemos" ],
+			[ "pudieseis" ],
+			[ "pudiesen" ]
+		],
+		"11" : [
+			[ "pudiere" ],
+			[ "pudieres" ],
+			[ "pudiere" ],
+			[ "pudiéremos" ],
+			[ "pudiereis" ],
+			[ "pudieren" ]
+		],
+		"12" : {
+			"1" : [ "puede" ],
+			"2" : [ "pueda" ],
+			"3" : [ "podamos" ],
+			"4" : [ "poded" ],
+			"5" : [ "puedan" ]
+		}
+	}
+}

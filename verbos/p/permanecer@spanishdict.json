@@ -1,0 +1,89 @@
+{
+	"source" : "http:\/\/www.spanishdict.com\/conjugate\/permanecer",
+	"word" : "permanecer",
+	"infinitivo" : "permanecer",
+	"translation" : "to stay",
+	"gerundio" : [ "permaneciendo" ],
+	"participio" : [ "permanecido" ],
+	"tenses" : {
+		"3" : [
+			[ "permanezco" ],
+			[ "permaneces" ],
+			[ "permanece" ],
+			[ "permanecemos" ],
+			[ "permanecéis" ],
+			[ "permanecen" ]
+		],
+		"4" : [
+			[ "permanecí" ],
+			[ "permaneciste" ],
+			[ "permaneció" ],
+			[ "permanecimos" ],
+			[ "permanecisteis" ],
+			[ "permanecieron" ]
+		],
+		"5" : [
+			[ "permanecía" ],
+			[ "permanecías" ],
+			[ "permanecía" ],
+			[ "permanecíamos" ],
+			[ "permanecíais" ],
+			[ "permanecían" ]
+		],
+		"6" : [
+			[ "permanecería" ],
+			[ "permanecerías" ],
+			[ "permanecería" ],
+			[ "permaneceríamos" ],
+			[ "permaneceríais" ],
+			[ "permanecerían" ]
+		],
+		"7" : [
+			[ "permaneceré" ],
+			[ "permanecerás" ],
+			[ "permanecerá" ],
+			[ "permaneceremos" ],
+			[ "permaneceréis" ],
+			[ "permanecerán" ]
+		],
+		"8" : [
+			[ "permanezca" ],
+			[ "permanezcas" ],
+			[ "permanezca" ],
+			[ "permanezcamos" ],
+			[ "permanezcáis" ],
+			[ "permanezcan" ]
+		],
+		"9" : [
+			[ "permaneciera" ],
+			[ "permanecieras" ],
+			[ "permaneciera" ],
+			[ "permaneciéramos" ],
+			[ "permanecierais" ],
+			[ "permanecieran" ]
+		],
+		"10" : [
+			[ "permaneciese" ],
+			[ "permanecieses" ],
+			[ "permaneciese" ],
+			[ "permaneciésemos" ],
+			[ "permanecieseis" ],
+			[ "permaneciesen" ]
+		],
+		"11" : [
+			[ "permaneciere" ],
+			[ "permanecieres" ],
+			[ "permaneciere" ],
+			[ "permaneciéremos" ],
+			[ "permaneciereis" ],
+			[ "permanecieren" ]
+		],
+		"12" : {
+			"1" : [ "permanece" ],
+			"2" : [ "permanezca" ],
+			"3" : [ "permanezcamos" ],
+			"4" : [ "permaneced" ],
+			"5" : [ "permanezcan" ]
+		}
+	}
+}

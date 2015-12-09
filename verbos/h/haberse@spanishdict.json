@@ -1,0 +1,89 @@
+{
+	"source" : "http:\/\/www.spanishdict.com\/conjugate\/haberse",
+	"word" : "haberse",
+	"infinitivo" : "haber",
+	"translation" : "have",
+	"gerundio" : [ "habiendo" ],
+	"participio" : [ "habido" ],
+	"tenses" : {
+		"3" : [
+			[ "me he" ],
+			[ "te has" ],
+			[ "se ha", "hay" ],
+			[ "nos hemos" ],
+			[ "os habéis" ],
+			[ "se han" ]
+		],
+		"4" : [
+			[ "me hube" ],
+			[ "te hubiste" ],
+			[ "se hubo" ],
+			[ "nos hubimos" ],
+			[ "os hubisteis" ],
+			[ "se hubieron" ]
+		],
+		"5" : [
+			[ "me había" ],
+			[ "te habías" ],
+			[ "se había" ],
+			[ "nos habíamos" ],
+			[ "os habíais" ],
+			[ "se habían" ]
+		],
+		"6" : [
+			[ "me habría" ],
+			[ "te habrías" ],
+			[ "se habría" ],
+			[ "nos habríamos" ],
+			[ "os habríais" ],
+			[ "se habrían" ]
+		],
+		"7" : [
+			[ "me habré" ],
+			[ "te habrás" ],
+			[ "se habrá" ],
+			[ "nos habremos" ],
+			[ "os habréis" ],
+			[ "se habrán" ]
+		],
+		"8" : [
+			[ "me haya" ],
+			[ "te hayas" ],
+			[ "se haya" ],
+			[ "nos hayamos" ],
+			[ "os hayáis" ],
+			[ "se hayan" ]
+		],
+		"9" : [
+			[ "me hubiera" ],
+			[ "te hubieras" ],
+			[ "se hubiera" ],
+			[ "nos hubiéramos" ],
+			[ "os hubierais" ],
+			[ "se hubieran" ]
+		],
+		"10" : [
+			[ "me hubiese" ],
+			[ "te hubieses" ],
+			[ "se hubiese" ],
+			[ "nos hubiésemos" ],
+			[ "os hubieseis" ],
+			[ "se hubiesen" ]
+		],
+		"11" : [
+			[ "me hubiere" ],
+			[ "te hubieres" ],
+			[ "se hubiere" ],
+			[ "nos hubiéremos" ],
+			[ "os hubiereis" ],
+			[ "se hubieren" ]
+		],
+		"12" : {
+			"1" : [ "he" ],
+			"2" : [ "haya" ],
+			"3" : [ "hayamos" ],
+			"4" : [ "habed" ],
+			"5" : [ "hayan" ]
+		}
+	}
+}
