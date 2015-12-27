@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=indicar",
+	"word" : "indicar",
+	"infinitivo" : "indicar",
+	"participio" : [ "indicado" ],
+	"gerundio" : [ "indicando" ],
+	"tenses" : {
+		"3" : [
+			[ "indico" ],
+			[ "indicas", "indicás" ],
+			[ "indica" ],
+			[ "indicamos" ],
+			[ "indicáis", "indican" ],
+			[ "indican" ]
+		],
+		"4" : [
+			[ "indiqué" ],
+			[ "indicaste" ],
+			[ "indicó" ],
+			[ "indicamos" ],
+			[ "indicasteis", "indicaron" ],
+			[ "indicaron" ]
+		],
+		"5" : [
+			[ "indicaba" ],
+			[ "indicabas" ],
+			[ "indicaba" ],
+			[ "indicábamos" ],
+			[ "indicabais", "indicaban" ],
+			[ "indicaban" ]
+		],
+		"6" : [
+			[ "indicaría" ],
+			[ "indicarías" ],
+			[ "indicaría" ],
+			[ "indicaríamos" ],
+			[ "indicaríais", "indicarían" ],
+			[ "indicarían" ]
+		],
+		"7" : [
+			[ "indicaré" ],
+			[ "indicarás" ],
+			[ "indicará" ],
+			[ "indicaremos" ],
+			[ "indicaréis", "indicarán" ],
+			[ "indicarán" ]
+		],
+		"8" : [
+			[ "indique" ],
+			[ "indiques" ],
+			[ "indique" ],
+			[ "indiquemos" ],
+			[ "indiquéis", "indiquen" ],
+			[ "indiquen" ]
+		],
+		"9" : [
+			[ "indicara" ],
+			[ "indicaras" ],
+			[ "indicara" ],
+			[ "indicáramos" ],
+			[ "indicarais", "indicaran" ],
+			[ "indicaran" ]
+		],
+		"10" : [
+			[ "indicase" ],
+			[ "indicases" ],
+			[ "indicase" ],
+			[ "indicásemos" ],
+			[ "indicaseis", "indicasen" ],
+			[ "indicasen" ]
+		],
+		"11" : [
+			[ "indicare" ],
+			[ "indicares" ],
+			[ "indicare" ],
+			[ "indicáremos" ],
+			[ "indicareis", "indicaren" ],
+			[ "indicaren" ]
+		],
+		"12" : {
+			"1" : [ "indica" ],
+			"2" : [ "indique" ],
+			"3" : [ "indiquemos" ],
+			"4" : [ "indicad" ],
+			"5" : [ "indiquen" ]
+		}
+	}
+}

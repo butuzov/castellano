@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dosificar",
+	"word" : "dosificar",
+	"infinitivo" : "dosificar",
+	"participio" : [ "dosificado" ],
+	"gerundio" : [ "dosificando" ],
+	"tenses" : {
+		"3" : [
+			[ "dosifico" ],
+			[ "dosificas", "dosificás" ],
+			[ "dosifica" ],
+			[ "dosificamos" ],
+			[ "dosificáis", "dosifican" ],
+			[ "dosifican" ]
+		],
+		"4" : [
+			[ "dosifiqué" ],
+			[ "dosificaste" ],
+			[ "dosificó" ],
+			[ "dosificamos" ],
+			[ "dosificasteis", "dosificaron" ],
+			[ "dosificaron" ]
+		],
+		"5" : [
+			[ "dosificaba" ],
+			[ "dosificabas" ],
+			[ "dosificaba" ],
+			[ "dosificábamos" ],
+			[ "dosificabais", "dosificaban" ],
+			[ "dosificaban" ]
+		],
+		"6" : [
+			[ "dosificaría" ],
+			[ "dosificarías" ],
+			[ "dosificaría" ],
+			[ "dosificaríamos" ],
+			[ "dosificaríais", "dosificarían" ],
+			[ "dosificarían" ]
+		],
+		"7" : [
+			[ "dosificaré" ],
+			[ "dosificarás" ],
+			[ "dosificará" ],
+			[ "dosificaremos" ],
+			[ "dosificaréis", "dosificarán" ],
+			[ "dosificarán" ]
+		],
+		"8" : [
+			[ "dosifique" ],
+			[ "dosifiques" ],
+			[ "dosifique" ],
+			[ "dosifiquemos" ],
+			[ "dosifiquéis", "dosifiquen" ],
+			[ "dosifiquen" ]
+		],
+		"9" : [
+			[ "dosificara" ],
+			[ "dosificaras" ],
+			[ "dosificara" ],
+			[ "dosificáramos" ],
+			[ "dosificarais", "dosificaran" ],
+			[ "dosificaran" ]
+		],
+		"10" : [
+			[ "dosificase" ],
+			[ "dosificases" ],
+			[ "dosificase" ],
+			[ "dosificásemos" ],
+			[ "dosificaseis", "dosificasen" ],
+			[ "dosificasen" ]
+		],
+		"11" : [
+			[ "dosificare" ],
+			[ "dosificares" ],
+			[ "dosificare" ],
+			[ "dosificáremos" ],
+			[ "dosificareis", "dosificaren" ],
+			[ "dosificaren" ]
+		],
+		"12" : {
+			"1" : [ "dosifica" ],
+			"2" : [ "dosifique" ],
+			"3" : [ "dosifiquemos" ],
+			"4" : [ "dosificad" ],
+			"5" : [ "dosifiquen" ]
+		}
+	}
+}

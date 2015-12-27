@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desconchar",
+	"word" : "desconchar",
+	"infinitivo" : "desconchar",
+	"participio" : [ "desconchado" ],
+	"gerundio" : [ "desconchando" ],
+	"tenses" : {
+		"3" : [
+			[ "desconcho" ],
+			[ "desconchas", "desconchás" ],
+			[ "desconcha" ],
+			[ "desconchamos" ],
+			[ "desconcháis", "desconchan" ],
+			[ "desconchan" ]
+		],
+		"4" : [
+			[ "desconché" ],
+			[ "desconchaste" ],
+			[ "desconchó" ],
+			[ "desconchamos" ],
+			[ "desconchasteis", "desconcharon" ],
+			[ "desconcharon" ]
+		],
+		"5" : [
+			[ "desconchaba" ],
+			[ "desconchabas" ],
+			[ "desconchaba" ],
+			[ "desconchábamos" ],
+			[ "desconchabais", "desconchaban" ],
+			[ "desconchaban" ]
+		],
+		"6" : [
+			[ "desconcharía" ],
+			[ "desconcharías" ],
+			[ "desconcharía" ],
+			[ "desconcharíamos" ],
+			[ "desconcharíais", "desconcharían" ],
+			[ "desconcharían" ]
+		],
+		"7" : [
+			[ "desconcharé" ],
+			[ "desconcharás" ],
+			[ "desconchará" ],
+			[ "desconcharemos" ],
+			[ "desconcharéis", "desconcharán" ],
+			[ "desconcharán" ]
+		],
+		"8" : [
+			[ "desconche" ],
+			[ "desconches" ],
+			[ "desconche" ],
+			[ "desconchemos" ],
+			[ "desconchéis", "desconchen" ],
+			[ "desconchen" ]
+		],
+		"9" : [
+			[ "desconchara" ],
+			[ "desconcharas" ],
+			[ "desconchara" ],
+			[ "desconcháramos" ],
+			[ "desconcharais", "desconcharan" ],
+			[ "desconcharan" ]
+		],
+		"10" : [
+			[ "desconchase" ],
+			[ "desconchases" ],
+			[ "desconchase" ],
+			[ "desconchásemos" ],
+			[ "desconchaseis", "desconchasen" ],
+			[ "desconchasen" ]
+		],
+		"11" : [
+			[ "desconchare" ],
+			[ "desconchares" ],
+			[ "desconchare" ],
+			[ "desconcháremos" ],
+			[ "desconchareis", "desconcharen" ],
+			[ "desconcharen" ]
+		],
+		"12" : {
+			"1" : [ "desconcha" ],
+			"2" : [ "desconche" ],
+			"3" : [ "desconchemos" ],
+			"4" : [ "desconchad" ],
+			"5" : [ "desconchen" ]
+		}
+	}
+}

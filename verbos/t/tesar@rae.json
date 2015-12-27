@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tesar",
+	"word" : "tesar",
+	"infinitivo" : "tesar",
+	"participio" : [ "tesado" ],
+	"gerundio" : [ "tesando" ],
+	"tenses" : {
+		"3" : [
+			[ "teso" ],
+			[ "tesas", "tesás" ],
+			[ "tesa" ],
+			[ "tesamos" ],
+			[ "tesáis", "tesan" ],
+			[ "tesan" ]
+		],
+		"4" : [
+			[ "tesé" ],
+			[ "tesaste" ],
+			[ "tesó" ],
+			[ "tesamos" ],
+			[ "tesasteis", "tesaron" ],
+			[ "tesaron" ]
+		],
+		"5" : [
+			[ "tesaba" ],
+			[ "tesabas" ],
+			[ "tesaba" ],
+			[ "tesábamos" ],
+			[ "tesabais", "tesaban" ],
+			[ "tesaban" ]
+		],
+		"6" : [
+			[ "tesaría" ],
+			[ "tesarías" ],
+			[ "tesaría" ],
+			[ "tesaríamos" ],
+			[ "tesaríais", "tesarían" ],
+			[ "tesarían" ]
+		],
+		"7" : [
+			[ "tesaré" ],
+			[ "tesarás" ],
+			[ "tesará" ],
+			[ "tesaremos" ],
+			[ "tesaréis", "tesarán" ],
+			[ "tesarán" ]
+		],
+		"8" : [
+			[ "tese" ],
+			[ "teses" ],
+			[ "tese" ],
+			[ "tesemos" ],
+			[ "teséis", "tesen" ],
+			[ "tesen" ]
+		],
+		"9" : [
+			[ "tesara" ],
+			[ "tesaras" ],
+			[ "tesara" ],
+			[ "tesáramos" ],
+			[ "tesarais", "tesaran" ],
+			[ "tesaran" ]
+		],
+		"10" : [
+			[ "tesase" ],
+			[ "tesases" ],
+			[ "tesase" ],
+			[ "tesásemos" ],
+			[ "tesaseis", "tesasen" ],
+			[ "tesasen" ]
+		],
+		"11" : [
+			[ "tesare" ],
+			[ "tesares" ],
+			[ "tesare" ],
+			[ "tesáremos" ],
+			[ "tesareis", "tesaren" ],
+			[ "tesaren" ]
+		],
+		"12" : {
+			"1" : [ "tesa" ],
+			"2" : [ "tese" ],
+			"3" : [ "tesemos" ],
+			"4" : [ "tesad" ],
+			"5" : [ "tesen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=protestar",
+	"word" : "protestar",
+	"infinitivo" : "protestar",
+	"participio" : [ "protestado" ],
+	"gerundio" : [ "protestando" ],
+	"tenses" : {
+		"3" : [
+			[ "protesto" ],
+			[ "protestas", "protestás" ],
+			[ "protesta" ],
+			[ "protestamos" ],
+			[ "protestáis", "protestan" ],
+			[ "protestan" ]
+		],
+		"4" : [
+			[ "protesté" ],
+			[ "protestaste" ],
+			[ "protestó" ],
+			[ "protestamos" ],
+			[ "protestasteis", "protestaron" ],
+			[ "protestaron" ]
+		],
+		"5" : [
+			[ "protestaba" ],
+			[ "protestabas" ],
+			[ "protestaba" ],
+			[ "protestábamos" ],
+			[ "protestabais", "protestaban" ],
+			[ "protestaban" ]
+		],
+		"6" : [
+			[ "protestaría" ],
+			[ "protestarías" ],
+			[ "protestaría" ],
+			[ "protestaríamos" ],
+			[ "protestaríais", "protestarían" ],
+			[ "protestarían" ]
+		],
+		"7" : [
+			[ "protestaré" ],
+			[ "protestarás" ],
+			[ "protestará" ],
+			[ "protestaremos" ],
+			[ "protestaréis", "protestarán" ],
+			[ "protestarán" ]
+		],
+		"8" : [
+			[ "proteste" ],
+			[ "protestes" ],
+			[ "proteste" ],
+			[ "protestemos" ],
+			[ "protestéis", "protesten" ],
+			[ "protesten" ]
+		],
+		"9" : [
+			[ "protestara" ],
+			[ "protestaras" ],
+			[ "protestara" ],
+			[ "protestáramos" ],
+			[ "protestarais", "protestaran" ],
+			[ "protestaran" ]
+		],
+		"10" : [
+			[ "protestase" ],
+			[ "protestases" ],
+			[ "protestase" ],
+			[ "protestásemos" ],
+			[ "protestaseis", "protestasen" ],
+			[ "protestasen" ]
+		],
+		"11" : [
+			[ "protestare" ],
+			[ "protestares" ],
+			[ "protestare" ],
+			[ "protestáremos" ],
+			[ "protestareis", "protestaren" ],
+			[ "protestaren" ]
+		],
+		"12" : {
+			"1" : [ "protesta" ],
+			"2" : [ "proteste" ],
+			"3" : [ "protestemos" ],
+			"4" : [ "protestad" ],
+			"5" : [ "protesten" ]
+		}
+	}
+}

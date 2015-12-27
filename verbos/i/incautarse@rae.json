@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incautarse",
+	"word" : "incautarse",
+	"infinitivo" : "incautarse",
+	"participio" : [ "incautado" ],
+	"gerundio" : [ "incautándome", "incautándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me incauto" ],
+			[ "te incautas", "te incautás" ],
+			[ "se incauta" ],
+			[ "nos incautamos" ],
+			[ "os incautáis", "se incautan" ],
+			[ "se incautan" ]
+		],
+		"4" : [
+			[ "me incauté" ],
+			[ "te incautaste" ],
+			[ "se incautó" ],
+			[ "nos incautamos" ],
+			[ "os incautasteis", "se incautaron" ],
+			[ "se incautaron" ]
+		],
+		"5" : [
+			[ "me incautaba" ],
+			[ "te incautabas" ],
+			[ "se incautaba" ],
+			[ "nos incautábamos" ],
+			[ "os incautabais", "se incautaban" ],
+			[ "se incautaban" ]
+		],
+		"6" : [
+			[ "me incautaría" ],
+			[ "te incautarías" ],
+			[ "se incautaría" ],
+			[ "nos incautaríamos" ],
+			[ "os incautaríais", "se incautarían" ],
+			[ "se incautarían" ]
+		],
+		"7" : [
+			[ "me incautaré" ],
+			[ "te incautarás" ],
+			[ "se incautará" ],
+			[ "nos incautaremos" ],
+			[ "os incautaréis", "se incautarán" ],
+			[ "se incautarán" ]
+		],
+		"8" : [
+			[ "me incaute" ],
+			[ "te incautes" ],
+			[ "se incaute" ],
+			[ "nos incautemos" ],
+			[ "os incautéis", "se incauten" ],
+			[ "se incauten" ]
+		],
+		"9" : [
+			[ "me incautara" ],
+			[ "te incautaras" ],
+			[ "se incautara" ],
+			[ "nos incautáramos" ],
+			[ "os incautarais", "se incautaran" ],
+			[ "se incautaran" ]
+		],
+		"10" : [
+			[ "me incautase" ],
+			[ "te incautases" ],
+			[ "se incautase" ],
+			[ "nos incautásemos" ],
+			[ "os incautaseis", "se incautasen" ],
+			[ "se incautasen" ]
+		],
+		"11" : [
+			[ "me incautare" ],
+			[ "te incautares" ],
+			[ "se incautare" ],
+			[ "nos incautáremos" ],
+			[ "os incautareis", "se incautaren" ],
+			[ "se incautaren" ]
+		],
+		"12" : {
+			"1" : [ "incáutate" ],
+			"2" : [ "incaute" ],
+			"3" : [ "incautemos" ],
+			"4" : [ "incautaos" ],
+			"5" : [ "incáutense" ]
+		}
+	}
+}

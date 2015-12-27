@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=privatizar",
+	"word" : "privatizar",
+	"infinitivo" : "privatizar",
+	"participio" : [ "privatizado" ],
+	"gerundio" : [ "privatizando" ],
+	"tenses" : {
+		"3" : [
+			[ "privatizo" ],
+			[ "privatizas", "privatizás" ],
+			[ "privatiza" ],
+			[ "privatizamos" ],
+			[ "privatizáis", "privatizan" ],
+			[ "privatizan" ]
+		],
+		"4" : [
+			[ "privaticé" ],
+			[ "privatizaste" ],
+			[ "privatizó" ],
+			[ "privatizamos" ],
+			[ "privatizasteis", "privatizaron" ],
+			[ "privatizaron" ]
+		],
+		"5" : [
+			[ "privatizaba" ],
+			[ "privatizabas" ],
+			[ "privatizaba" ],
+			[ "privatizábamos" ],
+			[ "privatizabais", "privatizaban" ],
+			[ "privatizaban" ]
+		],
+		"6" : [
+			[ "privatizaría" ],
+			[ "privatizarías" ],
+			[ "privatizaría" ],
+			[ "privatizaríamos" ],
+			[ "privatizaríais", "privatizarían" ],
+			[ "privatizarían" ]
+		],
+		"7" : [
+			[ "privatizaré" ],
+			[ "privatizarás" ],
+			[ "privatizará" ],
+			[ "privatizaremos" ],
+			[ "privatizaréis", "privatizarán" ],
+			[ "privatizarán" ]
+		],
+		"8" : [
+			[ "privatice" ],
+			[ "privatices" ],
+			[ "privatice" ],
+			[ "privaticemos" ],
+			[ "privaticéis", "privaticen" ],
+			[ "privaticen" ]
+		],
+		"9" : [
+			[ "privatizara" ],
+			[ "privatizaras" ],
+			[ "privatizara" ],
+			[ "privatizáramos" ],
+			[ "privatizarais", "privatizaran" ],
+			[ "privatizaran" ]
+		],
+		"10" : [
+			[ "privatizase" ],
+			[ "privatizases" ],
+			[ "privatizase" ],
+			[ "privatizásemos" ],
+			[ "privatizaseis", "privatizasen" ],
+			[ "privatizasen" ]
+		],
+		"11" : [
+			[ "privatizare" ],
+			[ "privatizares" ],
+			[ "privatizare" ],
+			[ "privatizáremos" ],
+			[ "privatizareis", "privatizaren" ],
+			[ "privatizaren" ]
+		],
+		"12" : {
+			"1" : [ "privatiza" ],
+			"2" : [ "privatice" ],
+			"3" : [ "privaticemos" ],
+			"4" : [ "privatizad" ],
+			"5" : [ "privaticen" ]
+		}
+	}
+}

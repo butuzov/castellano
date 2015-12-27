@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cuerpear",
+	"word" : "cuerpear",
+	"infinitivo" : "cuerpear",
+	"participio" : [ "cuerpeado" ],
+	"gerundio" : [ "cuerpeando" ],
+	"tenses" : {
+		"3" : [
+			[ "cuerpeo" ],
+			[ "cuerpeas", "cuerpeás" ],
+			[ "cuerpea" ],
+			[ "cuerpeamos" ],
+			[ "cuerpeáis", "cuerpean" ],
+			[ "cuerpean" ]
+		],
+		"4" : [
+			[ "cuerpeé" ],
+			[ "cuerpeaste" ],
+			[ "cuerpeó" ],
+			[ "cuerpeamos" ],
+			[ "cuerpeasteis", "cuerpearon" ],
+			[ "cuerpearon" ]
+		],
+		"5" : [
+			[ "cuerpeaba" ],
+			[ "cuerpeabas" ],
+			[ "cuerpeaba" ],
+			[ "cuerpeábamos" ],
+			[ "cuerpeabais", "cuerpeaban" ],
+			[ "cuerpeaban" ]
+		],
+		"6" : [
+			[ "cuerpearía" ],
+			[ "cuerpearías" ],
+			[ "cuerpearía" ],
+			[ "cuerpearíamos" ],
+			[ "cuerpearíais", "cuerpearían" ],
+			[ "cuerpearían" ]
+		],
+		"7" : [
+			[ "cuerpearé" ],
+			[ "cuerpearás" ],
+			[ "cuerpeará" ],
+			[ "cuerpearemos" ],
+			[ "cuerpearéis", "cuerpearán" ],
+			[ "cuerpearán" ]
+		],
+		"8" : [
+			[ "cuerpee" ],
+			[ "cuerpees" ],
+			[ "cuerpee" ],
+			[ "cuerpeemos" ],
+			[ "cuerpeéis", "cuerpeen" ],
+			[ "cuerpeen" ]
+		],
+		"9" : [
+			[ "cuerpeara" ],
+			[ "cuerpearas" ],
+			[ "cuerpeara" ],
+			[ "cuerpeáramos" ],
+			[ "cuerpearais", "cuerpearan" ],
+			[ "cuerpearan" ]
+		],
+		"10" : [
+			[ "cuerpease" ],
+			[ "cuerpeases" ],
+			[ "cuerpease" ],
+			[ "cuerpeásemos" ],
+			[ "cuerpeaseis", "cuerpeasen" ],
+			[ "cuerpeasen" ]
+		],
+		"11" : [
+			[ "cuerpeare" ],
+			[ "cuerpeares" ],
+			[ "cuerpeare" ],
+			[ "cuerpeáremos" ],
+			[ "cuerpeareis", "cuerpearen" ],
+			[ "cuerpearen" ]
+		],
+		"12" : {
+			"1" : [ "cuerpea" ],
+			"2" : [ "cuerpee" ],
+			"3" : [ "cuerpeemos" ],
+			"4" : [ "cuerpead" ],
+			"5" : [ "cuerpeen" ]
+		}
+	}
+}

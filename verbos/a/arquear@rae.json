@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arquear",
+	"word" : "arquear",
+	"infinitivo" : "arquear",
+	"participio" : [ "arqueado" ],
+	"gerundio" : [ "arqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "arqueo" ],
+			[ "arqueas", "arqueás" ],
+			[ "arquea" ],
+			[ "arqueamos" ],
+			[ "arqueáis", "arquean" ],
+			[ "arquean" ]
+		],
+		"4" : [
+			[ "arqueé" ],
+			[ "arqueaste" ],
+			[ "arqueó" ],
+			[ "arqueamos" ],
+			[ "arqueasteis", "arquearon" ],
+			[ "arquearon" ]
+		],
+		"5" : [
+			[ "arqueaba" ],
+			[ "arqueabas" ],
+			[ "arqueaba" ],
+			[ "arqueábamos" ],
+			[ "arqueabais", "arqueaban" ],
+			[ "arqueaban" ]
+		],
+		"6" : [
+			[ "arquearía" ],
+			[ "arquearías" ],
+			[ "arquearía" ],
+			[ "arquearíamos" ],
+			[ "arquearíais", "arquearían" ],
+			[ "arquearían" ]
+		],
+		"7" : [
+			[ "arquearé" ],
+			[ "arquearás" ],
+			[ "arqueará" ],
+			[ "arquearemos" ],
+			[ "arquearéis", "arquearán" ],
+			[ "arquearán" ]
+		],
+		"8" : [
+			[ "arquee" ],
+			[ "arquees" ],
+			[ "arquee" ],
+			[ "arqueemos" ],
+			[ "arqueéis", "arqueen" ],
+			[ "arqueen" ]
+		],
+		"9" : [
+			[ "arqueara" ],
+			[ "arquearas" ],
+			[ "arqueara" ],
+			[ "arqueáramos" ],
+			[ "arquearais", "arquearan" ],
+			[ "arquearan" ]
+		],
+		"10" : [
+			[ "arquease" ],
+			[ "arqueases" ],
+			[ "arquease" ],
+			[ "arqueásemos" ],
+			[ "arqueaseis", "arqueasen" ],
+			[ "arqueasen" ]
+		],
+		"11" : [
+			[ "arqueare" ],
+			[ "arqueares" ],
+			[ "arqueare" ],
+			[ "arqueáremos" ],
+			[ "arqueareis", "arquearen" ],
+			[ "arquearen" ]
+		],
+		"12" : {
+			"1" : [ "arquea" ],
+			"2" : [ "arquee" ],
+			"3" : [ "arqueemos" ],
+			"4" : [ "arquead" ],
+			"5" : [ "arqueen" ]
+		}
+	}
+}

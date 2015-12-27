@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=morrear",
+	"word" : "morrear",
+	"infinitivo" : "morrear",
+	"participio" : [ "morreado" ],
+	"gerundio" : [ "morreando" ],
+	"tenses" : {
+		"3" : [
+			[ "morreo" ],
+			[ "morreas", "morreás" ],
+			[ "morrea" ],
+			[ "morreamos" ],
+			[ "morreáis", "morrean" ],
+			[ "morrean" ]
+		],
+		"4" : [
+			[ "morreé" ],
+			[ "morreaste" ],
+			[ "morreó" ],
+			[ "morreamos" ],
+			[ "morreasteis", "morrearon" ],
+			[ "morrearon" ]
+		],
+		"5" : [
+			[ "morreaba" ],
+			[ "morreabas" ],
+			[ "morreaba" ],
+			[ "morreábamos" ],
+			[ "morreabais", "morreaban" ],
+			[ "morreaban" ]
+		],
+		"6" : [
+			[ "morrearía" ],
+			[ "morrearías" ],
+			[ "morrearía" ],
+			[ "morrearíamos" ],
+			[ "morrearíais", "morrearían" ],
+			[ "morrearían" ]
+		],
+		"7" : [
+			[ "morrearé" ],
+			[ "morrearás" ],
+			[ "morreará" ],
+			[ "morrearemos" ],
+			[ "morrearéis", "morrearán" ],
+			[ "morrearán" ]
+		],
+		"8" : [
+			[ "morree" ],
+			[ "morrees" ],
+			[ "morree" ],
+			[ "morreemos" ],
+			[ "morreéis", "morreen" ],
+			[ "morreen" ]
+		],
+		"9" : [
+			[ "morreara" ],
+			[ "morrearas" ],
+			[ "morreara" ],
+			[ "morreáramos" ],
+			[ "morrearais", "morrearan" ],
+			[ "morrearan" ]
+		],
+		"10" : [
+			[ "morrease" ],
+			[ "morreases" ],
+			[ "morrease" ],
+			[ "morreásemos" ],
+			[ "morreaseis", "morreasen" ],
+			[ "morreasen" ]
+		],
+		"11" : [
+			[ "morreare" ],
+			[ "morreares" ],
+			[ "morreare" ],
+			[ "morreáremos" ],
+			[ "morreareis", "morrearen" ],
+			[ "morrearen" ]
+		],
+		"12" : {
+			"1" : [ "morrea" ],
+			"2" : [ "morree" ],
+			"3" : [ "morreemos" ],
+			"4" : [ "morread" ],
+			"5" : [ "morreen" ]
+		}
+	}
+}

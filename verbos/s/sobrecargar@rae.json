@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sobrecargar",
+	"word" : "sobrecargar",
+	"infinitivo" : "sobrecargar",
+	"participio" : [ "sobrecargado" ],
+	"gerundio" : [ "sobrecargando" ],
+	"tenses" : {
+		"3" : [
+			[ "sobrecargo" ],
+			[ "sobrecargas", "sobrecargás" ],
+			[ "sobrecarga" ],
+			[ "sobrecargamos" ],
+			[ "sobrecargáis", "sobrecargan" ],
+			[ "sobrecargan" ]
+		],
+		"4" : [
+			[ "sobrecargué" ],
+			[ "sobrecargaste" ],
+			[ "sobrecargó" ],
+			[ "sobrecargamos" ],
+			[ "sobrecargasteis", "sobrecargaron" ],
+			[ "sobrecargaron" ]
+		],
+		"5" : [
+			[ "sobrecargaba" ],
+			[ "sobrecargabas" ],
+			[ "sobrecargaba" ],
+			[ "sobrecargábamos" ],
+			[ "sobrecargabais", "sobrecargaban" ],
+			[ "sobrecargaban" ]
+		],
+		"6" : [
+			[ "sobrecargaría" ],
+			[ "sobrecargarías" ],
+			[ "sobrecargaría" ],
+			[ "sobrecargaríamos" ],
+			[ "sobrecargaríais", "sobrecargarían" ],
+			[ "sobrecargarían" ]
+		],
+		"7" : [
+			[ "sobrecargaré" ],
+			[ "sobrecargarás" ],
+			[ "sobrecargará" ],
+			[ "sobrecargaremos" ],
+			[ "sobrecargaréis", "sobrecargarán" ],
+			[ "sobrecargarán" ]
+		],
+		"8" : [
+			[ "sobrecargue" ],
+			[ "sobrecargues" ],
+			[ "sobrecargue" ],
+			[ "sobrecarguemos" ],
+			[ "sobrecarguéis", "sobrecarguen" ],
+			[ "sobrecarguen" ]
+		],
+		"9" : [
+			[ "sobrecargara" ],
+			[ "sobrecargaras" ],
+			[ "sobrecargara" ],
+			[ "sobrecargáramos" ],
+			[ "sobrecargarais", "sobrecargaran" ],
+			[ "sobrecargaran" ]
+		],
+		"10" : [
+			[ "sobrecargase" ],
+			[ "sobrecargases" ],
+			[ "sobrecargase" ],
+			[ "sobrecargásemos" ],
+			[ "sobrecargaseis", "sobrecargasen" ],
+			[ "sobrecargasen" ]
+		],
+		"11" : [
+			[ "sobrecargare" ],
+			[ "sobrecargares" ],
+			[ "sobrecargare" ],
+			[ "sobrecargáremos" ],
+			[ "sobrecargareis", "sobrecargaren" ],
+			[ "sobrecargaren" ]
+		],
+		"12" : {
+			"1" : [ "sobrecarga" ],
+			"2" : [ "sobrecargue" ],
+			"3" : [ "sobrecarguemos" ],
+			"4" : [ "sobrecargad" ],
+			"5" : [ "sobrecarguen" ]
+		}
+	}
+}

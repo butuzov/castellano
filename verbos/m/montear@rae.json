@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=montear",
+	"word" : "montear",
+	"infinitivo" : "montear",
+	"participio" : [ "monteado" ],
+	"gerundio" : [ "monteando" ],
+	"tenses" : {
+		"3" : [
+			[ "monteo" ],
+			[ "monteas", "monteás" ],
+			[ "montea" ],
+			[ "monteamos" ],
+			[ "monteáis", "montean" ],
+			[ "montean" ]
+		],
+		"4" : [
+			[ "monteé" ],
+			[ "monteaste" ],
+			[ "monteó" ],
+			[ "monteamos" ],
+			[ "monteasteis", "montearon" ],
+			[ "montearon" ]
+		],
+		"5" : [
+			[ "monteaba" ],
+			[ "monteabas" ],
+			[ "monteaba" ],
+			[ "monteábamos" ],
+			[ "monteabais", "monteaban" ],
+			[ "monteaban" ]
+		],
+		"6" : [
+			[ "montearía" ],
+			[ "montearías" ],
+			[ "montearía" ],
+			[ "montearíamos" ],
+			[ "montearíais", "montearían" ],
+			[ "montearían" ]
+		],
+		"7" : [
+			[ "montearé" ],
+			[ "montearás" ],
+			[ "monteará" ],
+			[ "montearemos" ],
+			[ "montearéis", "montearán" ],
+			[ "montearán" ]
+		],
+		"8" : [
+			[ "montee" ],
+			[ "montees" ],
+			[ "montee" ],
+			[ "monteemos" ],
+			[ "monteéis", "monteen" ],
+			[ "monteen" ]
+		],
+		"9" : [
+			[ "monteara" ],
+			[ "montearas" ],
+			[ "monteara" ],
+			[ "monteáramos" ],
+			[ "montearais", "montearan" ],
+			[ "montearan" ]
+		],
+		"10" : [
+			[ "montease" ],
+			[ "monteases" ],
+			[ "montease" ],
+			[ "monteásemos" ],
+			[ "monteaseis", "monteasen" ],
+			[ "monteasen" ]
+		],
+		"11" : [
+			[ "monteare" ],
+			[ "monteares" ],
+			[ "monteare" ],
+			[ "monteáremos" ],
+			[ "monteareis", "montearen" ],
+			[ "montearen" ]
+		],
+		"12" : {
+			"1" : [ "montea" ],
+			"2" : [ "montee" ],
+			"3" : [ "monteemos" ],
+			"4" : [ "montead" ],
+			"5" : [ "monteen" ]
+		}
+	}
+}

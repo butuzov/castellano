@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aquerenciarse",
+	"word" : "aquerenciarse",
+	"infinitivo" : "aquerenciarse",
+	"participio" : [ "aquerenciado" ],
+	"gerundio" : [ "aquerenciándome", "aquerenciándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me aquerencio" ],
+			[ "te aquerencias", "te aquerenciás" ],
+			[ "se aquerencia" ],
+			[ "nos aquerenciamos" ],
+			[ "os aquerenciáis", "se aquerencian" ],
+			[ "se aquerencian" ]
+		],
+		"4" : [
+			[ "me aquerencié" ],
+			[ "te aquerenciaste" ],
+			[ "se aquerenció" ],
+			[ "nos aquerenciamos" ],
+			[ "os aquerenciasteis", "se aquerenciaron" ],
+			[ "se aquerenciaron" ]
+		],
+		"5" : [
+			[ "me aquerenciaba" ],
+			[ "te aquerenciabas" ],
+			[ "se aquerenciaba" ],
+			[ "nos aquerenciábamos" ],
+			[ "os aquerenciabais", "se aquerenciaban" ],
+			[ "se aquerenciaban" ]
+		],
+		"6" : [
+			[ "me aquerenciaría" ],
+			[ "te aquerenciarías" ],
+			[ "se aquerenciaría" ],
+			[ "nos aquerenciaríamos" ],
+			[ "os aquerenciaríais", "se aquerenciarían" ],
+			[ "se aquerenciarían" ]
+		],
+		"7" : [
+			[ "me aquerenciaré" ],
+			[ "te aquerenciarás" ],
+			[ "se aquerenciará" ],
+			[ "nos aquerenciaremos" ],
+			[ "os aquerenciaréis", "se aquerenciarán" ],
+			[ "se aquerenciarán" ]
+		],
+		"8" : [
+			[ "me aquerencie" ],
+			[ "te aquerencies" ],
+			[ "se aquerencie" ],
+			[ "nos aquerenciemos" ],
+			[ "os aquerenciéis", "se aquerencien" ],
+			[ "se aquerencien" ]
+		],
+		"9" : [
+			[ "me aquerenciara" ],
+			[ "te aquerenciaras" ],
+			[ "se aquerenciara" ],
+			[ "nos aquerenciáramos" ],
+			[ "os aquerenciarais", "se aquerenciaran" ],
+			[ "se aquerenciaran" ]
+		],
+		"10" : [
+			[ "me aquerenciase" ],
+			[ "te aquerenciases" ],
+			[ "se aquerenciase" ],
+			[ "nos aquerenciásemos" ],
+			[ "os aquerenciaseis", "se aquerenciasen" ],
+			[ "se aquerenciasen" ]
+		],
+		"11" : [
+			[ "me aquerenciare" ],
+			[ "te aquerenciares" ],
+			[ "se aquerenciare" ],
+			[ "nos aquerenciáremos" ],
+			[ "os aquerenciareis", "se aquerenciaren" ],
+			[ "se aquerenciaren" ]
+		],
+		"12" : {
+			"1" : [ "aquerénciate" ],
+			"2" : [ "aquerencie" ],
+			"3" : [ "aquerenciemos" ],
+			"4" : [ "aquerenciaos" ],
+			"5" : [ "aquerénciense" ]
+		}
+	}
+}

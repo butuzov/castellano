@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=premeditar",
+	"word" : "premeditar",
+	"infinitivo" : "premeditar",
+	"participio" : [ "premeditado" ],
+	"gerundio" : [ "premeditando" ],
+	"tenses" : {
+		"3" : [
+			[ "premedito" ],
+			[ "premeditas", "premeditás" ],
+			[ "premedita" ],
+			[ "premeditamos" ],
+			[ "premeditáis", "premeditan" ],
+			[ "premeditan" ]
+		],
+		"4" : [
+			[ "premedité" ],
+			[ "premeditaste" ],
+			[ "premeditó" ],
+			[ "premeditamos" ],
+			[ "premeditasteis", "premeditaron" ],
+			[ "premeditaron" ]
+		],
+		"5" : [
+			[ "premeditaba" ],
+			[ "premeditabas" ],
+			[ "premeditaba" ],
+			[ "premeditábamos" ],
+			[ "premeditabais", "premeditaban" ],
+			[ "premeditaban" ]
+		],
+		"6" : [
+			[ "premeditaría" ],
+			[ "premeditarías" ],
+			[ "premeditaría" ],
+			[ "premeditaríamos" ],
+			[ "premeditaríais", "premeditarían" ],
+			[ "premeditarían" ]
+		],
+		"7" : [
+			[ "premeditaré" ],
+			[ "premeditarás" ],
+			[ "premeditará" ],
+			[ "premeditaremos" ],
+			[ "premeditaréis", "premeditarán" ],
+			[ "premeditarán" ]
+		],
+		"8" : [
+			[ "premedite" ],
+			[ "premedites" ],
+			[ "premedite" ],
+			[ "premeditemos" ],
+			[ "premeditéis", "premediten" ],
+			[ "premediten" ]
+		],
+		"9" : [
+			[ "premeditara" ],
+			[ "premeditaras" ],
+			[ "premeditara" ],
+			[ "premeditáramos" ],
+			[ "premeditarais", "premeditaran" ],
+			[ "premeditaran" ]
+		],
+		"10" : [
+			[ "premeditase" ],
+			[ "premeditases" ],
+			[ "premeditase" ],
+			[ "premeditásemos" ],
+			[ "premeditaseis", "premeditasen" ],
+			[ "premeditasen" ]
+		],
+		"11" : [
+			[ "premeditare" ],
+			[ "premeditares" ],
+			[ "premeditare" ],
+			[ "premeditáremos" ],
+			[ "premeditareis", "premeditaren" ],
+			[ "premeditaren" ]
+		],
+		"12" : {
+			"1" : [ "premedita" ],
+			"2" : [ "premedite" ],
+			"3" : [ "premeditemos" ],
+			"4" : [ "premeditad" ],
+			"5" : [ "premediten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desleír",
+	"word" : "desleír",
+	"infinitivo" : "desleír",
+	"participio" : [ "desleído" ],
+	"gerundio" : [ "desliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "deslío" ],
+			[ "deslíes", "desleís" ],
+			[ "deslíe" ],
+			[ "desleímos" ],
+			[ "desleís", "deslíen" ],
+			[ "deslíen" ]
+		],
+		"4" : [
+			[ "desleí" ],
+			[ "desleíste" ],
+			[ "deslió" ],
+			[ "desleímos" ],
+			[ "desleísteis", "deslieron" ],
+			[ "deslieron" ]
+		],
+		"5" : [
+			[ "desleía" ],
+			[ "desleías" ],
+			[ "desleía" ],
+			[ "desleíamos" ],
+			[ "desleíais", "desleían" ],
+			[ "desleían" ]
+		],
+		"6" : [
+			[ "desleiría" ],
+			[ "desleirías" ],
+			[ "desleiría" ],
+			[ "desleiríamos" ],
+			[ "desleiríais", "desleirían" ],
+			[ "desleirían" ]
+		],
+		"7" : [
+			[ "desleiré" ],
+			[ "desleirás" ],
+			[ "desleirá" ],
+			[ "desleiremos" ],
+			[ "desleiréis", "desleirán" ],
+			[ "desleirán" ]
+		],
+		"8" : [
+			[ "deslía" ],
+			[ "deslías" ],
+			[ "deslía" ],
+			[ "desliamos" ],
+			[ "desliáis", "deslían" ],
+			[ "deslían" ]
+		],
+		"9" : [
+			[ "desliera" ],
+			[ "deslieras" ],
+			[ "desliera" ],
+			[ "desliéramos" ],
+			[ "deslierais", "deslieran" ],
+			[ "deslieran" ]
+		],
+		"10" : [
+			[ "desliese" ],
+			[ "deslieses" ],
+			[ "desliese" ],
+			[ "desliésemos" ],
+			[ "deslieseis", "desliesen" ],
+			[ "desliesen" ]
+		],
+		"11" : [
+			[ "desliere" ],
+			[ "deslieres" ],
+			[ "desliere" ],
+			[ "desliéremos" ],
+			[ "desliereis", "deslieren" ],
+			[ "deslieren" ]
+		],
+		"12" : {
+			"1" : [ "deslíe" ],
+			"2" : [ "deslía" ],
+			"3" : [ "desliamos" ],
+			"4" : [ "desleíd" ],
+			"5" : [ "deslían" ]
+		}
+	}
+}

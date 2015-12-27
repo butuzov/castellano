@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=residir",
+	"word" : "residir",
+	"infinitivo" : "residir",
+	"participio" : [ "residido" ],
+	"gerundio" : [ "residiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "resido" ],
+			[ "resides", "residís" ],
+			[ "reside" ],
+			[ "residimos" ],
+			[ "residís", "residen" ],
+			[ "residen" ]
+		],
+		"4" : [
+			[ "residí" ],
+			[ "residiste" ],
+			[ "residió" ],
+			[ "residimos" ],
+			[ "residisteis", "residieron" ],
+			[ "residieron" ]
+		],
+		"5" : [
+			[ "residía" ],
+			[ "residías" ],
+			[ "residía" ],
+			[ "residíamos" ],
+			[ "residíais", "residían" ],
+			[ "residían" ]
+		],
+		"6" : [
+			[ "residiría" ],
+			[ "residirías" ],
+			[ "residiría" ],
+			[ "residiríamos" ],
+			[ "residiríais", "residirían" ],
+			[ "residirían" ]
+		],
+		"7" : [
+			[ "residiré" ],
+			[ "residirás" ],
+			[ "residirá" ],
+			[ "residiremos" ],
+			[ "residiréis", "residirán" ],
+			[ "residirán" ]
+		],
+		"8" : [
+			[ "resida" ],
+			[ "residas" ],
+			[ "resida" ],
+			[ "residamos" ],
+			[ "residáis", "residan" ],
+			[ "residan" ]
+		],
+		"9" : [
+			[ "residiera" ],
+			[ "residieras" ],
+			[ "residiera" ],
+			[ "residiéramos" ],
+			[ "residierais", "residieran" ],
+			[ "residieran" ]
+		],
+		"10" : [
+			[ "residiese" ],
+			[ "residieses" ],
+			[ "residiese" ],
+			[ "residiésemos" ],
+			[ "residieseis", "residiesen" ],
+			[ "residiesen" ]
+		],
+		"11" : [
+			[ "residiere" ],
+			[ "residieres" ],
+			[ "residiere" ],
+			[ "residiéremos" ],
+			[ "residiereis", "residieren" ],
+			[ "residieren" ]
+		],
+		"12" : {
+			"1" : [ "reside" ],
+			"2" : [ "resida" ],
+			"3" : [ "residamos" ],
+			"4" : [ "residid" ],
+			"5" : [ "residan" ]
+		}
+	}
+}

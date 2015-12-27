@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=traspirar",
+	"word" : "traspirar",
+	"infinitivo" : "traspirar",
+	"participio" : [ "traspirado" ],
+	"gerundio" : [ "traspirando" ],
+	"tenses" : {
+		"3" : [
+			[ "traspiro" ],
+			[ "traspiras", "traspirás" ],
+			[ "traspira" ],
+			[ "traspiramos" ],
+			[ "traspiráis", "traspiran" ],
+			[ "traspiran" ]
+		],
+		"4" : [
+			[ "traspiré" ],
+			[ "traspiraste" ],
+			[ "traspiró" ],
+			[ "traspiramos" ],
+			[ "traspirasteis", "traspiraron" ],
+			[ "traspiraron" ]
+		],
+		"5" : [
+			[ "traspiraba" ],
+			[ "traspirabas" ],
+			[ "traspiraba" ],
+			[ "traspirábamos" ],
+			[ "traspirabais", "traspiraban" ],
+			[ "traspiraban" ]
+		],
+		"6" : [
+			[ "traspiraría" ],
+			[ "traspirarías" ],
+			[ "traspiraría" ],
+			[ "traspiraríamos" ],
+			[ "traspiraríais", "traspirarían" ],
+			[ "traspirarían" ]
+		],
+		"7" : [
+			[ "traspiraré" ],
+			[ "traspirarás" ],
+			[ "traspirará" ],
+			[ "traspiraremos" ],
+			[ "traspiraréis", "traspirarán" ],
+			[ "traspirarán" ]
+		],
+		"8" : [
+			[ "traspire" ],
+			[ "traspires" ],
+			[ "traspire" ],
+			[ "traspiremos" ],
+			[ "traspiréis", "traspiren" ],
+			[ "traspiren" ]
+		],
+		"9" : [
+			[ "traspirara" ],
+			[ "traspiraras" ],
+			[ "traspirara" ],
+			[ "traspiráramos" ],
+			[ "traspirarais", "traspiraran" ],
+			[ "traspiraran" ]
+		],
+		"10" : [
+			[ "traspirase" ],
+			[ "traspirases" ],
+			[ "traspirase" ],
+			[ "traspirásemos" ],
+			[ "traspiraseis", "traspirasen" ],
+			[ "traspirasen" ]
+		],
+		"11" : [
+			[ "traspirare" ],
+			[ "traspirares" ],
+			[ "traspirare" ],
+			[ "traspiráremos" ],
+			[ "traspirareis", "traspiraren" ],
+			[ "traspiraren" ]
+		],
+		"12" : {
+			"1" : [ "traspira" ],
+			"2" : [ "traspire" ],
+			"3" : [ "traspiremos" ],
+			"4" : [ "traspirad" ],
+			"5" : [ "traspiren" ]
+		}
+	}
+}

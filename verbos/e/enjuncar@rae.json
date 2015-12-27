@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enjuncar",
+	"word" : "enjuncar",
+	"infinitivo" : "enjuncar",
+	"participio" : [ "enjuncado" ],
+	"gerundio" : [ "enjuncando" ],
+	"tenses" : {
+		"3" : [
+			[ "enjunco" ],
+			[ "enjuncas", "enjuncás" ],
+			[ "enjunca" ],
+			[ "enjuncamos" ],
+			[ "enjuncáis", "enjuncan" ],
+			[ "enjuncan" ]
+		],
+		"4" : [
+			[ "enjunqué" ],
+			[ "enjuncaste" ],
+			[ "enjuncó" ],
+			[ "enjuncamos" ],
+			[ "enjuncasteis", "enjuncaron" ],
+			[ "enjuncaron" ]
+		],
+		"5" : [
+			[ "enjuncaba" ],
+			[ "enjuncabas" ],
+			[ "enjuncaba" ],
+			[ "enjuncábamos" ],
+			[ "enjuncabais", "enjuncaban" ],
+			[ "enjuncaban" ]
+		],
+		"6" : [
+			[ "enjuncaría" ],
+			[ "enjuncarías" ],
+			[ "enjuncaría" ],
+			[ "enjuncaríamos" ],
+			[ "enjuncaríais", "enjuncarían" ],
+			[ "enjuncarían" ]
+		],
+		"7" : [
+			[ "enjuncaré" ],
+			[ "enjuncarás" ],
+			[ "enjuncará" ],
+			[ "enjuncaremos" ],
+			[ "enjuncaréis", "enjuncarán" ],
+			[ "enjuncarán" ]
+		],
+		"8" : [
+			[ "enjunque" ],
+			[ "enjunques" ],
+			[ "enjunque" ],
+			[ "enjunquemos" ],
+			[ "enjunquéis", "enjunquen" ],
+			[ "enjunquen" ]
+		],
+		"9" : [
+			[ "enjuncara" ],
+			[ "enjuncaras" ],
+			[ "enjuncara" ],
+			[ "enjuncáramos" ],
+			[ "enjuncarais", "enjuncaran" ],
+			[ "enjuncaran" ]
+		],
+		"10" : [
+			[ "enjuncase" ],
+			[ "enjuncases" ],
+			[ "enjuncase" ],
+			[ "enjuncásemos" ],
+			[ "enjuncaseis", "enjuncasen" ],
+			[ "enjuncasen" ]
+		],
+		"11" : [
+			[ "enjuncare" ],
+			[ "enjuncares" ],
+			[ "enjuncare" ],
+			[ "enjuncáremos" ],
+			[ "enjuncareis", "enjuncaren" ],
+			[ "enjuncaren" ]
+		],
+		"12" : {
+			"1" : [ "enjunca" ],
+			"2" : [ "enjunque" ],
+			"3" : [ "enjunquemos" ],
+			"4" : [ "enjuncad" ],
+			"5" : [ "enjunquen" ]
+		}
+	}
+}

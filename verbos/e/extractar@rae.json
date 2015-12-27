@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=extractar",
+	"word" : "extractar",
+	"infinitivo" : "extractar",
+	"participio" : [ "extractado" ],
+	"gerundio" : [ "extractando" ],
+	"tenses" : {
+		"3" : [
+			[ "extracto" ],
+			[ "extractas", "extractás" ],
+			[ "extracta" ],
+			[ "extractamos" ],
+			[ "extractáis", "extractan" ],
+			[ "extractan" ]
+		],
+		"4" : [
+			[ "extracté" ],
+			[ "extractaste" ],
+			[ "extractó" ],
+			[ "extractamos" ],
+			[ "extractasteis", "extractaron" ],
+			[ "extractaron" ]
+		],
+		"5" : [
+			[ "extractaba" ],
+			[ "extractabas" ],
+			[ "extractaba" ],
+			[ "extractábamos" ],
+			[ "extractabais", "extractaban" ],
+			[ "extractaban" ]
+		],
+		"6" : [
+			[ "extractaría" ],
+			[ "extractarías" ],
+			[ "extractaría" ],
+			[ "extractaríamos" ],
+			[ "extractaríais", "extractarían" ],
+			[ "extractarían" ]
+		],
+		"7" : [
+			[ "extractaré" ],
+			[ "extractarás" ],
+			[ "extractará" ],
+			[ "extractaremos" ],
+			[ "extractaréis", "extractarán" ],
+			[ "extractarán" ]
+		],
+		"8" : [
+			[ "extracte" ],
+			[ "extractes" ],
+			[ "extracte" ],
+			[ "extractemos" ],
+			[ "extractéis", "extracten" ],
+			[ "extracten" ]
+		],
+		"9" : [
+			[ "extractara" ],
+			[ "extractaras" ],
+			[ "extractara" ],
+			[ "extractáramos" ],
+			[ "extractarais", "extractaran" ],
+			[ "extractaran" ]
+		],
+		"10" : [
+			[ "extractase" ],
+			[ "extractases" ],
+			[ "extractase" ],
+			[ "extractásemos" ],
+			[ "extractaseis", "extractasen" ],
+			[ "extractasen" ]
+		],
+		"11" : [
+			[ "extractare" ],
+			[ "extractares" ],
+			[ "extractare" ],
+			[ "extractáremos" ],
+			[ "extractareis", "extractaren" ],
+			[ "extractaren" ]
+		],
+		"12" : {
+			"1" : [ "extracta" ],
+			"2" : [ "extracte" ],
+			"3" : [ "extractemos" ],
+			"4" : [ "extractad" ],
+			"5" : [ "extracten" ]
+		}
+	}
+}

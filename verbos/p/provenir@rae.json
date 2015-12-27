@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=provenir",
+	"word" : "provenir",
+	"infinitivo" : "provenir",
+	"participio" : [ "provenido" ],
+	"gerundio" : [ "proviniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "provengo" ],
+			[ "provienes", "provenís" ],
+			[ "proviene" ],
+			[ "provenimos" ],
+			[ "provenís", "provienen" ],
+			[ "provienen" ]
+		],
+		"4" : [
+			[ "provine" ],
+			[ "proviniste" ],
+			[ "provino" ],
+			[ "provinimos" ],
+			[ "provinisteis", "provinieron" ],
+			[ "provinieron" ]
+		],
+		"5" : [
+			[ "provenía" ],
+			[ "provenías" ],
+			[ "provenía" ],
+			[ "proveníamos" ],
+			[ "proveníais", "provenían" ],
+			[ "provenían" ]
+		],
+		"6" : [
+			[ "provendría" ],
+			[ "provendrías" ],
+			[ "provendría" ],
+			[ "provendríamos" ],
+			[ "provendríais", "provendrían" ],
+			[ "provendrían" ]
+		],
+		"7" : [
+			[ "provendré" ],
+			[ "provendrás" ],
+			[ "provendrá" ],
+			[ "provendremos" ],
+			[ "provendréis", "provendrán" ],
+			[ "provendrán" ]
+		],
+		"8" : [
+			[ "provenga" ],
+			[ "provengas" ],
+			[ "provenga" ],
+			[ "provengamos" ],
+			[ "provengáis", "provengan" ],
+			[ "provengan" ]
+		],
+		"9" : [
+			[ "proviniera" ],
+			[ "provinieras" ],
+			[ "proviniera" ],
+			[ "proviniéramos" ],
+			[ "provinierais", "provinieran" ],
+			[ "provinieran" ]
+		],
+		"10" : [
+			[ "proviniese" ],
+			[ "provinieses" ],
+			[ "proviniese" ],
+			[ "proviniésemos" ],
+			[ "provinieseis", "proviniesen" ],
+			[ "proviniesen" ]
+		],
+		"11" : [
+			[ "proviniere" ],
+			[ "provinieres" ],
+			[ "proviniere" ],
+			[ "proviniéremos" ],
+			[ "proviniereis", "provinieren" ],
+			[ "provinieren" ]
+		],
+		"12" : {
+			"1" : [ "provén" ],
+			"2" : [ "provenga" ],
+			"3" : [ "provengamos" ],
+			"4" : [ "provenid" ],
+			"5" : [ "provengan" ]
+		}
+	}
+}

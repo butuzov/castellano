@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hospitalizar",
+	"word" : "hospitalizar",
+	"infinitivo" : "hospitalizar",
+	"participio" : [ "hospitalizado" ],
+	"gerundio" : [ "hospitalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "hospitalizo" ],
+			[ "hospitalizas", "hospitalizás" ],
+			[ "hospitaliza" ],
+			[ "hospitalizamos" ],
+			[ "hospitalizáis", "hospitalizan" ],
+			[ "hospitalizan" ]
+		],
+		"4" : [
+			[ "hospitalicé" ],
+			[ "hospitalizaste" ],
+			[ "hospitalizó" ],
+			[ "hospitalizamos" ],
+			[ "hospitalizasteis", "hospitalizaron" ],
+			[ "hospitalizaron" ]
+		],
+		"5" : [
+			[ "hospitalizaba" ],
+			[ "hospitalizabas" ],
+			[ "hospitalizaba" ],
+			[ "hospitalizábamos" ],
+			[ "hospitalizabais", "hospitalizaban" ],
+			[ "hospitalizaban" ]
+		],
+		"6" : [
+			[ "hospitalizaría" ],
+			[ "hospitalizarías" ],
+			[ "hospitalizaría" ],
+			[ "hospitalizaríamos" ],
+			[ "hospitalizaríais", "hospitalizarían" ],
+			[ "hospitalizarían" ]
+		],
+		"7" : [
+			[ "hospitalizaré" ],
+			[ "hospitalizarás" ],
+			[ "hospitalizará" ],
+			[ "hospitalizaremos" ],
+			[ "hospitalizaréis", "hospitalizarán" ],
+			[ "hospitalizarán" ]
+		],
+		"8" : [
+			[ "hospitalice" ],
+			[ "hospitalices" ],
+			[ "hospitalice" ],
+			[ "hospitalicemos" ],
+			[ "hospitalicéis", "hospitalicen" ],
+			[ "hospitalicen" ]
+		],
+		"9" : [
+			[ "hospitalizara" ],
+			[ "hospitalizaras" ],
+			[ "hospitalizara" ],
+			[ "hospitalizáramos" ],
+			[ "hospitalizarais", "hospitalizaran" ],
+			[ "hospitalizaran" ]
+		],
+		"10" : [
+			[ "hospitalizase" ],
+			[ "hospitalizases" ],
+			[ "hospitalizase" ],
+			[ "hospitalizásemos" ],
+			[ "hospitalizaseis", "hospitalizasen" ],
+			[ "hospitalizasen" ]
+		],
+		"11" : [
+			[ "hospitalizare" ],
+			[ "hospitalizares" ],
+			[ "hospitalizare" ],
+			[ "hospitalizáremos" ],
+			[ "hospitalizareis", "hospitalizaren" ],
+			[ "hospitalizaren" ]
+		],
+		"12" : {
+			"1" : [ "hospitaliza" ],
+			"2" : [ "hospitalice" ],
+			"3" : [ "hospitalicemos" ],
+			"4" : [ "hospitalizad" ],
+			"5" : [ "hospitalicen" ]
+		}
+	}
+}

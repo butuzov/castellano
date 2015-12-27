@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vacilar",
+	"word" : "vacilar",
+	"infinitivo" : "vacilar",
+	"participio" : [ "vacilado" ],
+	"gerundio" : [ "vacilando" ],
+	"tenses" : {
+		"3" : [
+			[ "vacilo" ],
+			[ "vacilas", "vacilás" ],
+			[ "vacila" ],
+			[ "vacilamos" ],
+			[ "vaciláis", "vacilan" ],
+			[ "vacilan" ]
+		],
+		"4" : [
+			[ "vacilé" ],
+			[ "vacilaste" ],
+			[ "vaciló" ],
+			[ "vacilamos" ],
+			[ "vacilasteis", "vacilaron" ],
+			[ "vacilaron" ]
+		],
+		"5" : [
+			[ "vacilaba" ],
+			[ "vacilabas" ],
+			[ "vacilaba" ],
+			[ "vacilábamos" ],
+			[ "vacilabais", "vacilaban" ],
+			[ "vacilaban" ]
+		],
+		"6" : [
+			[ "vacilaría" ],
+			[ "vacilarías" ],
+			[ "vacilaría" ],
+			[ "vacilaríamos" ],
+			[ "vacilaríais", "vacilarían" ],
+			[ "vacilarían" ]
+		],
+		"7" : [
+			[ "vacilaré" ],
+			[ "vacilarás" ],
+			[ "vacilará" ],
+			[ "vacilaremos" ],
+			[ "vacilaréis", "vacilarán" ],
+			[ "vacilarán" ]
+		],
+		"8" : [
+			[ "vacile" ],
+			[ "vaciles" ],
+			[ "vacile" ],
+			[ "vacilemos" ],
+			[ "vaciléis", "vacilen" ],
+			[ "vacilen" ]
+		],
+		"9" : [
+			[ "vacilara" ],
+			[ "vacilaras" ],
+			[ "vacilara" ],
+			[ "vaciláramos" ],
+			[ "vacilarais", "vacilaran" ],
+			[ "vacilaran" ]
+		],
+		"10" : [
+			[ "vacilase" ],
+			[ "vacilases" ],
+			[ "vacilase" ],
+			[ "vacilásemos" ],
+			[ "vacilaseis", "vacilasen" ],
+			[ "vacilasen" ]
+		],
+		"11" : [
+			[ "vacilare" ],
+			[ "vacilares" ],
+			[ "vacilare" ],
+			[ "vaciláremos" ],
+			[ "vacilareis", "vacilaren" ],
+			[ "vacilaren" ]
+		],
+		"12" : {
+			"1" : [ "vacila" ],
+			"2" : [ "vacile" ],
+			"3" : [ "vacilemos" ],
+			"4" : [ "vacilad" ],
+			"5" : [ "vacilen" ]
+		}
+	}
+}

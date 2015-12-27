@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reducir",
+	"word" : "reducir",
+	"infinitivo" : "reducir",
+	"participio" : [ "reducido" ],
+	"gerundio" : [ "reduciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reduzco" ],
+			[ "reduces", "reducís" ],
+			[ "reduce" ],
+			[ "reducimos" ],
+			[ "reducís", "reducen" ],
+			[ "reducen" ]
+		],
+		"4" : [
+			[ "reduje" ],
+			[ "redujiste" ],
+			[ "redujo" ],
+			[ "redujimos" ],
+			[ "redujisteis", "redujeron" ],
+			[ "redujeron" ]
+		],
+		"5" : [
+			[ "reducía" ],
+			[ "reducías" ],
+			[ "reducía" ],
+			[ "reducíamos" ],
+			[ "reducíais", "reducían" ],
+			[ "reducían" ]
+		],
+		"6" : [
+			[ "reduciría" ],
+			[ "reducirías" ],
+			[ "reduciría" ],
+			[ "reduciríamos" ],
+			[ "reduciríais", "reducirían" ],
+			[ "reducirían" ]
+		],
+		"7" : [
+			[ "reduciré" ],
+			[ "reducirás" ],
+			[ "reducirá" ],
+			[ "reduciremos" ],
+			[ "reduciréis", "reducirán" ],
+			[ "reducirán" ]
+		],
+		"8" : [
+			[ "reduzca" ],
+			[ "reduzcas" ],
+			[ "reduzca" ],
+			[ "reduzcamos" ],
+			[ "reduzcáis", "reduzcan" ],
+			[ "reduzcan" ]
+		],
+		"9" : [
+			[ "redujera" ],
+			[ "redujeras" ],
+			[ "redujera" ],
+			[ "redujéramos" ],
+			[ "redujerais", "redujeran" ],
+			[ "redujeran" ]
+		],
+		"10" : [
+			[ "redujese" ],
+			[ "redujeses" ],
+			[ "redujese" ],
+			[ "redujésemos" ],
+			[ "redujeseis", "redujesen" ],
+			[ "redujesen" ]
+		],
+		"11" : [
+			[ "redujere" ],
+			[ "redujeres" ],
+			[ "redujere" ],
+			[ "redujéremos" ],
+			[ "redujereis", "redujeren" ],
+			[ "redujeren" ]
+		],
+		"12" : {
+			"1" : [ "reduce" ],
+			"2" : [ "reduzca" ],
+			"3" : [ "reduzcamos" ],
+			"4" : [ "reducid" ],
+			"5" : [ "reduzcan" ]
+		}
+	}
+}

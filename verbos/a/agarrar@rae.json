@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agarrar",
+	"word" : "agarrar",
+	"infinitivo" : "agarrar",
+	"participio" : [ "agarrado" ],
+	"gerundio" : [ "agarrando" ],
+	"tenses" : {
+		"3" : [
+			[ "agarro" ],
+			[ "agarras", "agarrás" ],
+			[ "agarra" ],
+			[ "agarramos" ],
+			[ "agarráis", "agarran" ],
+			[ "agarran" ]
+		],
+		"4" : [
+			[ "agarré" ],
+			[ "agarraste" ],
+			[ "agarró" ],
+			[ "agarramos" ],
+			[ "agarrasteis", "agarraron" ],
+			[ "agarraron" ]
+		],
+		"5" : [
+			[ "agarraba" ],
+			[ "agarrabas" ],
+			[ "agarraba" ],
+			[ "agarrábamos" ],
+			[ "agarrabais", "agarraban" ],
+			[ "agarraban" ]
+		],
+		"6" : [
+			[ "agarraría" ],
+			[ "agarrarías" ],
+			[ "agarraría" ],
+			[ "agarraríamos" ],
+			[ "agarraríais", "agarrarían" ],
+			[ "agarrarían" ]
+		],
+		"7" : [
+			[ "agarraré" ],
+			[ "agarrarás" ],
+			[ "agarrará" ],
+			[ "agarraremos" ],
+			[ "agarraréis", "agarrarán" ],
+			[ "agarrarán" ]
+		],
+		"8" : [
+			[ "agarre" ],
+			[ "agarres" ],
+			[ "agarre" ],
+			[ "agarremos" ],
+			[ "agarréis", "agarren" ],
+			[ "agarren" ]
+		],
+		"9" : [
+			[ "agarrara" ],
+			[ "agarraras" ],
+			[ "agarrara" ],
+			[ "agarráramos" ],
+			[ "agarrarais", "agarraran" ],
+			[ "agarraran" ]
+		],
+		"10" : [
+			[ "agarrase" ],
+			[ "agarrases" ],
+			[ "agarrase" ],
+			[ "agarrásemos" ],
+			[ "agarraseis", "agarrasen" ],
+			[ "agarrasen" ]
+		],
+		"11" : [
+			[ "agarrare" ],
+			[ "agarrares" ],
+			[ "agarrare" ],
+			[ "agarráremos" ],
+			[ "agarrareis", "agarraren" ],
+			[ "agarraren" ]
+		],
+		"12" : {
+			"1" : [ "agarra" ],
+			"2" : [ "agarre" ],
+			"3" : [ "agarremos" ],
+			"4" : [ "agarrad" ],
+			"5" : [ "agarren" ]
+		}
+	}
+}

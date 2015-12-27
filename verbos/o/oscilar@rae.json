@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=oscilar",
+	"word" : "oscilar",
+	"infinitivo" : "oscilar",
+	"participio" : [ "oscilado" ],
+	"gerundio" : [ "oscilando" ],
+	"tenses" : {
+		"3" : [
+			[ "oscilo" ],
+			[ "oscilas", "oscilás" ],
+			[ "oscila" ],
+			[ "oscilamos" ],
+			[ "osciláis", "oscilan" ],
+			[ "oscilan" ]
+		],
+		"4" : [
+			[ "oscilé" ],
+			[ "oscilaste" ],
+			[ "osciló" ],
+			[ "oscilamos" ],
+			[ "oscilasteis", "oscilaron" ],
+			[ "oscilaron" ]
+		],
+		"5" : [
+			[ "oscilaba" ],
+			[ "oscilabas" ],
+			[ "oscilaba" ],
+			[ "oscilábamos" ],
+			[ "oscilabais", "oscilaban" ],
+			[ "oscilaban" ]
+		],
+		"6" : [
+			[ "oscilaría" ],
+			[ "oscilarías" ],
+			[ "oscilaría" ],
+			[ "oscilaríamos" ],
+			[ "oscilaríais", "oscilarían" ],
+			[ "oscilarían" ]
+		],
+		"7" : [
+			[ "oscilaré" ],
+			[ "oscilarás" ],
+			[ "oscilará" ],
+			[ "oscilaremos" ],
+			[ "oscilaréis", "oscilarán" ],
+			[ "oscilarán" ]
+		],
+		"8" : [
+			[ "oscile" ],
+			[ "osciles" ],
+			[ "oscile" ],
+			[ "oscilemos" ],
+			[ "osciléis", "oscilen" ],
+			[ "oscilen" ]
+		],
+		"9" : [
+			[ "oscilara" ],
+			[ "oscilaras" ],
+			[ "oscilara" ],
+			[ "osciláramos" ],
+			[ "oscilarais", "oscilaran" ],
+			[ "oscilaran" ]
+		],
+		"10" : [
+			[ "oscilase" ],
+			[ "oscilases" ],
+			[ "oscilase" ],
+			[ "oscilásemos" ],
+			[ "oscilaseis", "oscilasen" ],
+			[ "oscilasen" ]
+		],
+		"11" : [
+			[ "oscilare" ],
+			[ "oscilares" ],
+			[ "oscilare" ],
+			[ "osciláremos" ],
+			[ "oscilareis", "oscilaren" ],
+			[ "oscilaren" ]
+		],
+		"12" : {
+			"1" : [ "oscila" ],
+			"2" : [ "oscile" ],
+			"3" : [ "oscilemos" ],
+			"4" : [ "oscilad" ],
+			"5" : [ "oscilen" ]
+		}
+	}
+}

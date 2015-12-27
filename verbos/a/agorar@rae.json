@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agorar",
+	"word" : "agorar",
+	"infinitivo" : "agorar",
+	"participio" : [ "agorado" ],
+	"gerundio" : [ "agorando" ],
+	"tenses" : {
+		"3" : [
+			[ "agüero" ],
+			[ "agüeras", "agorás" ],
+			[ "agüera" ],
+			[ "agoramos" ],
+			[ "agoráis", "agüeran" ],
+			[ "agüeran" ]
+		],
+		"4" : [
+			[ "agoré" ],
+			[ "agoraste" ],
+			[ "agoró" ],
+			[ "agoramos" ],
+			[ "agorasteis", "agoraron" ],
+			[ "agoraron" ]
+		],
+		"5" : [
+			[ "agoraba" ],
+			[ "agorabas" ],
+			[ "agoraba" ],
+			[ "agorábamos" ],
+			[ "agorabais", "agoraban" ],
+			[ "agoraban" ]
+		],
+		"6" : [
+			[ "agoraría" ],
+			[ "agorarías" ],
+			[ "agoraría" ],
+			[ "agoraríamos" ],
+			[ "agoraríais", "agorarían" ],
+			[ "agorarían" ]
+		],
+		"7" : [
+			[ "agoraré" ],
+			[ "agorarás" ],
+			[ "agorará" ],
+			[ "agoraremos" ],
+			[ "agoraréis", "agorarán" ],
+			[ "agorarán" ]
+		],
+		"8" : [
+			[ "agüere" ],
+			[ "agüeres" ],
+			[ "agüere" ],
+			[ "agoremos" ],
+			[ "agoréis", "agüeren" ],
+			[ "agüeren" ]
+		],
+		"9" : [
+			[ "agorara" ],
+			[ "agoraras" ],
+			[ "agorara" ],
+			[ "agoráramos" ],
+			[ "agorarais", "agoraran" ],
+			[ "agoraran" ]
+		],
+		"10" : [
+			[ "agorase" ],
+			[ "agorases" ],
+			[ "agorase" ],
+			[ "agorásemos" ],
+			[ "agoraseis", "agorasen" ],
+			[ "agorasen" ]
+		],
+		"11" : [
+			[ "agorare" ],
+			[ "agorares" ],
+			[ "agorare" ],
+			[ "agoráremos" ],
+			[ "agorareis", "agoraren" ],
+			[ "agoraren" ]
+		],
+		"12" : {
+			"1" : [ "agüera" ],
+			"2" : [ "agüere" ],
+			"3" : [ "agoremos" ],
+			"4" : [ "agorad" ],
+			"5" : [ "agüeren" ]
+		}
+	}
+}

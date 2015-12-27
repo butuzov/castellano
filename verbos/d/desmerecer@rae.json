@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmerecer",
+	"word" : "desmerecer",
+	"infinitivo" : "desmerecer",
+	"participio" : [ "desmerecido" ],
+	"gerundio" : [ "desmereciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desmerezco" ],
+			[ "desmereces", "desmerecés" ],
+			[ "desmerece" ],
+			[ "desmerecemos" ],
+			[ "desmerecéis", "desmerecen" ],
+			[ "desmerecen" ]
+		],
+		"4" : [
+			[ "desmerecí" ],
+			[ "desmereciste" ],
+			[ "desmereció" ],
+			[ "desmerecimos" ],
+			[ "desmerecisteis", "desmerecieron" ],
+			[ "desmerecieron" ]
+		],
+		"5" : [
+			[ "desmerecía" ],
+			[ "desmerecías" ],
+			[ "desmerecía" ],
+			[ "desmerecíamos" ],
+			[ "desmerecíais", "desmerecían" ],
+			[ "desmerecían" ]
+		],
+		"6" : [
+			[ "desmerecería" ],
+			[ "desmerecerías" ],
+			[ "desmerecería" ],
+			[ "desmereceríamos" ],
+			[ "desmereceríais", "desmerecerían" ],
+			[ "desmerecerían" ]
+		],
+		"7" : [
+			[ "desmereceré" ],
+			[ "desmerecerás" ],
+			[ "desmerecerá" ],
+			[ "desmereceremos" ],
+			[ "desmereceréis", "desmerecerán" ],
+			[ "desmerecerán" ]
+		],
+		"8" : [
+			[ "desmerezca" ],
+			[ "desmerezcas" ],
+			[ "desmerezca" ],
+			[ "desmerezcamos" ],
+			[ "desmerezcáis", "desmerezcan" ],
+			[ "desmerezcan" ]
+		],
+		"9" : [
+			[ "desmereciera" ],
+			[ "desmerecieras" ],
+			[ "desmereciera" ],
+			[ "desmereciéramos" ],
+			[ "desmerecierais", "desmerecieran" ],
+			[ "desmerecieran" ]
+		],
+		"10" : [
+			[ "desmereciese" ],
+			[ "desmerecieses" ],
+			[ "desmereciese" ],
+			[ "desmereciésemos" ],
+			[ "desmerecieseis", "desmereciesen" ],
+			[ "desmereciesen" ]
+		],
+		"11" : [
+			[ "desmereciere" ],
+			[ "desmerecieres" ],
+			[ "desmereciere" ],
+			[ "desmereciéremos" ],
+			[ "desmereciereis", "desmerecieren" ],
+			[ "desmerecieren" ]
+		],
+		"12" : {
+			"1" : [ "desmerece" ],
+			"2" : [ "desmerezca" ],
+			"3" : [ "desmerezcamos" ],
+			"4" : [ "desmereced" ],
+			"5" : [ "desmerezcan" ]
+		}
+	}
+}

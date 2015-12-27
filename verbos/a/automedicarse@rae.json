@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=automedicarse",
+	"word" : "automedicarse",
+	"infinitivo" : "automedicarse",
+	"participio" : [ "automedicado" ],
+	"gerundio" : [ "automedicándome", "automedicándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me automedico" ],
+			[ "te automedicas", "te automedicás" ],
+			[ "se automedica" ],
+			[ "nos automedicamos" ],
+			[ "os automedicáis", "se automedican" ],
+			[ "se automedican" ]
+		],
+		"4" : [
+			[ "me automediqué" ],
+			[ "te automedicaste" ],
+			[ "se automedicó" ],
+			[ "nos automedicamos" ],
+			[ "os automedicasteis", "se automedicaron" ],
+			[ "se automedicaron" ]
+		],
+		"5" : [
+			[ "me automedicaba" ],
+			[ "te automedicabas" ],
+			[ "se automedicaba" ],
+			[ "nos automedicábamos" ],
+			[ "os automedicabais", "se automedicaban" ],
+			[ "se automedicaban" ]
+		],
+		"6" : [
+			[ "me automedicaría" ],
+			[ "te automedicarías" ],
+			[ "se automedicaría" ],
+			[ "nos automedicaríamos" ],
+			[ "os automedicaríais", "se automedicarían" ],
+			[ "se automedicarían" ]
+		],
+		"7" : [
+			[ "me automedicaré" ],
+			[ "te automedicarás" ],
+			[ "se automedicará" ],
+			[ "nos automedicaremos" ],
+			[ "os automedicaréis", "se automedicarán" ],
+			[ "se automedicarán" ]
+		],
+		"8" : [
+			[ "me automedique" ],
+			[ "te automediques" ],
+			[ "se automedique" ],
+			[ "nos automediquemos" ],
+			[ "os automediquéis", "se automediquen" ],
+			[ "se automediquen" ]
+		],
+		"9" : [
+			[ "me automedicara" ],
+			[ "te automedicaras" ],
+			[ "se automedicara" ],
+			[ "nos automedicáramos" ],
+			[ "os automedicarais", "se automedicaran" ],
+			[ "se automedicaran" ]
+		],
+		"10" : [
+			[ "me automedicase" ],
+			[ "te automedicases" ],
+			[ "se automedicase" ],
+			[ "nos automedicásemos" ],
+			[ "os automedicaseis", "se automedicasen" ],
+			[ "se automedicasen" ]
+		],
+		"11" : [
+			[ "me automedicare" ],
+			[ "te automedicares" ],
+			[ "se automedicare" ],
+			[ "nos automedicáremos" ],
+			[ "os automedicareis", "se automedicaren" ],
+			[ "se automedicaren" ]
+		],
+		"12" : {
+			"1" : [ "automedícate" ],
+			"2" : [ "automedique" ],
+			"3" : [ "automediquemos" ],
+			"4" : [ "automedicaos" ],
+			"5" : [ "automedíquense" ]
+		}
+	}
+}

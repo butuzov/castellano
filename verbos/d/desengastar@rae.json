@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desengastar",
+	"word" : "desengastar",
+	"infinitivo" : "desengastar",
+	"participio" : [ "desengastado" ],
+	"gerundio" : [ "desengastando" ],
+	"tenses" : {
+		"3" : [
+			[ "desengasto" ],
+			[ "desengastas", "desengastás" ],
+			[ "desengasta" ],
+			[ "desengastamos" ],
+			[ "desengastáis", "desengastan" ],
+			[ "desengastan" ]
+		],
+		"4" : [
+			[ "desengasté" ],
+			[ "desengastaste" ],
+			[ "desengastó" ],
+			[ "desengastamos" ],
+			[ "desengastasteis", "desengastaron" ],
+			[ "desengastaron" ]
+		],
+		"5" : [
+			[ "desengastaba" ],
+			[ "desengastabas" ],
+			[ "desengastaba" ],
+			[ "desengastábamos" ],
+			[ "desengastabais", "desengastaban" ],
+			[ "desengastaban" ]
+		],
+		"6" : [
+			[ "desengastaría" ],
+			[ "desengastarías" ],
+			[ "desengastaría" ],
+			[ "desengastaríamos" ],
+			[ "desengastaríais", "desengastarían" ],
+			[ "desengastarían" ]
+		],
+		"7" : [
+			[ "desengastaré" ],
+			[ "desengastarás" ],
+			[ "desengastará" ],
+			[ "desengastaremos" ],
+			[ "desengastaréis", "desengastarán" ],
+			[ "desengastarán" ]
+		],
+		"8" : [
+			[ "desengaste" ],
+			[ "desengastes" ],
+			[ "desengaste" ],
+			[ "desengastemos" ],
+			[ "desengastéis", "desengasten" ],
+			[ "desengasten" ]
+		],
+		"9" : [
+			[ "desengastara" ],
+			[ "desengastaras" ],
+			[ "desengastara" ],
+			[ "desengastáramos" ],
+			[ "desengastarais", "desengastaran" ],
+			[ "desengastaran" ]
+		],
+		"10" : [
+			[ "desengastase" ],
+			[ "desengastases" ],
+			[ "desengastase" ],
+			[ "desengastásemos" ],
+			[ "desengastaseis", "desengastasen" ],
+			[ "desengastasen" ]
+		],
+		"11" : [
+			[ "desengastare" ],
+			[ "desengastares" ],
+			[ "desengastare" ],
+			[ "desengastáremos" ],
+			[ "desengastareis", "desengastaren" ],
+			[ "desengastaren" ]
+		],
+		"12" : {
+			"1" : [ "desengasta" ],
+			"2" : [ "desengaste" ],
+			"3" : [ "desengastemos" ],
+			"4" : [ "desengastad" ],
+			"5" : [ "desengasten" ]
+		}
+	}
+}

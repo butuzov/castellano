@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desovar",
+	"word" : "desovar",
+	"infinitivo" : "desovar",
+	"participio" : [ "desovado" ],
+	"gerundio" : [ "desovando" ],
+	"tenses" : {
+		"3" : [
+			[ "desovo" ],
+			[ "desovas", "desovás" ],
+			[ "desova" ],
+			[ "desovamos" ],
+			[ "desováis", "desovan" ],
+			[ "desovan" ]
+		],
+		"4" : [
+			[ "desové" ],
+			[ "desovaste" ],
+			[ "desovó" ],
+			[ "desovamos" ],
+			[ "desovasteis", "desovaron" ],
+			[ "desovaron" ]
+		],
+		"5" : [
+			[ "desovaba" ],
+			[ "desovabas" ],
+			[ "desovaba" ],
+			[ "desovábamos" ],
+			[ "desovabais", "desovaban" ],
+			[ "desovaban" ]
+		],
+		"6" : [
+			[ "desovaría" ],
+			[ "desovarías" ],
+			[ "desovaría" ],
+			[ "desovaríamos" ],
+			[ "desovaríais", "desovarían" ],
+			[ "desovarían" ]
+		],
+		"7" : [
+			[ "desovaré" ],
+			[ "desovarás" ],
+			[ "desovará" ],
+			[ "desovaremos" ],
+			[ "desovaréis", "desovarán" ],
+			[ "desovarán" ]
+		],
+		"8" : [
+			[ "desove" ],
+			[ "desoves" ],
+			[ "desove" ],
+			[ "desovemos" ],
+			[ "desovéis", "desoven" ],
+			[ "desoven" ]
+		],
+		"9" : [
+			[ "desovara" ],
+			[ "desovaras" ],
+			[ "desovara" ],
+			[ "desováramos" ],
+			[ "desovarais", "desovaran" ],
+			[ "desovaran" ]
+		],
+		"10" : [
+			[ "desovase" ],
+			[ "desovases" ],
+			[ "desovase" ],
+			[ "desovásemos" ],
+			[ "desovaseis", "desovasen" ],
+			[ "desovasen" ]
+		],
+		"11" : [
+			[ "desovare" ],
+			[ "desovares" ],
+			[ "desovare" ],
+			[ "desováremos" ],
+			[ "desovareis", "desovaren" ],
+			[ "desovaren" ]
+		],
+		"12" : {
+			"1" : [ "desova" ],
+			"2" : [ "desove" ],
+			"3" : [ "desovemos" ],
+			"4" : [ "desovad" ],
+			"5" : [ "desoven" ]
+		}
+	}
+}

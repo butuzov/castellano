@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sustentar",
+	"word" : "sustentar",
+	"infinitivo" : "sustentar",
+	"participio" : [ "sustentado" ],
+	"gerundio" : [ "sustentando" ],
+	"tenses" : {
+		"3" : [
+			[ "sustento" ],
+			[ "sustentas", "sustentás" ],
+			[ "sustenta" ],
+			[ "sustentamos" ],
+			[ "sustentáis", "sustentan" ],
+			[ "sustentan" ]
+		],
+		"4" : [
+			[ "sustenté" ],
+			[ "sustentaste" ],
+			[ "sustentó" ],
+			[ "sustentamos" ],
+			[ "sustentasteis", "sustentaron" ],
+			[ "sustentaron" ]
+		],
+		"5" : [
+			[ "sustentaba" ],
+			[ "sustentabas" ],
+			[ "sustentaba" ],
+			[ "sustentábamos" ],
+			[ "sustentabais", "sustentaban" ],
+			[ "sustentaban" ]
+		],
+		"6" : [
+			[ "sustentaría" ],
+			[ "sustentarías" ],
+			[ "sustentaría" ],
+			[ "sustentaríamos" ],
+			[ "sustentaríais", "sustentarían" ],
+			[ "sustentarían" ]
+		],
+		"7" : [
+			[ "sustentaré" ],
+			[ "sustentarás" ],
+			[ "sustentará" ],
+			[ "sustentaremos" ],
+			[ "sustentaréis", "sustentarán" ],
+			[ "sustentarán" ]
+		],
+		"8" : [
+			[ "sustente" ],
+			[ "sustentes" ],
+			[ "sustente" ],
+			[ "sustentemos" ],
+			[ "sustentéis", "sustenten" ],
+			[ "sustenten" ]
+		],
+		"9" : [
+			[ "sustentara" ],
+			[ "sustentaras" ],
+			[ "sustentara" ],
+			[ "sustentáramos" ],
+			[ "sustentarais", "sustentaran" ],
+			[ "sustentaran" ]
+		],
+		"10" : [
+			[ "sustentase" ],
+			[ "sustentases" ],
+			[ "sustentase" ],
+			[ "sustentásemos" ],
+			[ "sustentaseis", "sustentasen" ],
+			[ "sustentasen" ]
+		],
+		"11" : [
+			[ "sustentare" ],
+			[ "sustentares" ],
+			[ "sustentare" ],
+			[ "sustentáremos" ],
+			[ "sustentareis", "sustentaren" ],
+			[ "sustentaren" ]
+		],
+		"12" : {
+			"1" : [ "sustenta" ],
+			"2" : [ "sustente" ],
+			"3" : [ "sustentemos" ],
+			"4" : [ "sustentad" ],
+			"5" : [ "sustenten" ]
+		}
+	}
+}

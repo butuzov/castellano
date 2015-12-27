@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=afollar",
+	"word" : "afollar",
+	"infinitivo" : "afollar",
+	"participio" : [ "afollado" ],
+	"gerundio" : [ "afollando" ],
+	"tenses" : {
+		"3" : [
+			[ "afuello" ],
+			[ "afuellas", "afollás" ],
+			[ "afuella" ],
+			[ "afollamos" ],
+			[ "afolláis", "afuellan" ],
+			[ "afuellan" ]
+		],
+		"4" : [
+			[ "afollé" ],
+			[ "afollaste" ],
+			[ "afolló" ],
+			[ "afollamos" ],
+			[ "afollasteis", "afollaron" ],
+			[ "afollaron" ]
+		],
+		"5" : [
+			[ "afollaba" ],
+			[ "afollabas" ],
+			[ "afollaba" ],
+			[ "afollábamos" ],
+			[ "afollabais", "afollaban" ],
+			[ "afollaban" ]
+		],
+		"6" : [
+			[ "afollaría" ],
+			[ "afollarías" ],
+			[ "afollaría" ],
+			[ "afollaríamos" ],
+			[ "afollaríais", "afollarían" ],
+			[ "afollarían" ]
+		],
+		"7" : [
+			[ "afollaré" ],
+			[ "afollarás" ],
+			[ "afollará" ],
+			[ "afollaremos" ],
+			[ "afollaréis", "afollarán" ],
+			[ "afollarán" ]
+		],
+		"8" : [
+			[ "afuelle" ],
+			[ "afuelles" ],
+			[ "afuelle" ],
+			[ "afollemos" ],
+			[ "afolléis", "afuellen" ],
+			[ "afuellen" ]
+		],
+		"9" : [
+			[ "afollara" ],
+			[ "afollaras" ],
+			[ "afollara" ],
+			[ "afolláramos" ],
+			[ "afollarais", "afollaran" ],
+			[ "afollaran" ]
+		],
+		"10" : [
+			[ "afollase" ],
+			[ "afollases" ],
+			[ "afollase" ],
+			[ "afollásemos" ],
+			[ "afollaseis", "afollasen" ],
+			[ "afollasen" ]
+		],
+		"11" : [
+			[ "afollare" ],
+			[ "afollares" ],
+			[ "afollare" ],
+			[ "afolláremos" ],
+			[ "afollareis", "afollaren" ],
+			[ "afollaren" ]
+		],
+		"12" : {
+			"1" : [ "afuella" ],
+			"2" : [ "afuelle" ],
+			"3" : [ "afollemos" ],
+			"4" : [ "afollad" ],
+			"5" : [ "afuellen" ]
+		}
+	}
+}

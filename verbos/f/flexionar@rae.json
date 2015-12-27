@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=flexionar",
+	"word" : "flexionar",
+	"infinitivo" : "flexionar",
+	"participio" : [ "flexionado" ],
+	"gerundio" : [ "flexionando" ],
+	"tenses" : {
+		"3" : [
+			[ "flexiono" ],
+			[ "flexionas", "flexionás" ],
+			[ "flexiona" ],
+			[ "flexionamos" ],
+			[ "flexionáis", "flexionan" ],
+			[ "flexionan" ]
+		],
+		"4" : [
+			[ "flexioné" ],
+			[ "flexionaste" ],
+			[ "flexionó" ],
+			[ "flexionamos" ],
+			[ "flexionasteis", "flexionaron" ],
+			[ "flexionaron" ]
+		],
+		"5" : [
+			[ "flexionaba" ],
+			[ "flexionabas" ],
+			[ "flexionaba" ],
+			[ "flexionábamos" ],
+			[ "flexionabais", "flexionaban" ],
+			[ "flexionaban" ]
+		],
+		"6" : [
+			[ "flexionaría" ],
+			[ "flexionarías" ],
+			[ "flexionaría" ],
+			[ "flexionaríamos" ],
+			[ "flexionaríais", "flexionarían" ],
+			[ "flexionarían" ]
+		],
+		"7" : [
+			[ "flexionaré" ],
+			[ "flexionarás" ],
+			[ "flexionará" ],
+			[ "flexionaremos" ],
+			[ "flexionaréis", "flexionarán" ],
+			[ "flexionarán" ]
+		],
+		"8" : [
+			[ "flexione" ],
+			[ "flexiones" ],
+			[ "flexione" ],
+			[ "flexionemos" ],
+			[ "flexionéis", "flexionen" ],
+			[ "flexionen" ]
+		],
+		"9" : [
+			[ "flexionara" ],
+			[ "flexionaras" ],
+			[ "flexionara" ],
+			[ "flexionáramos" ],
+			[ "flexionarais", "flexionaran" ],
+			[ "flexionaran" ]
+		],
+		"10" : [
+			[ "flexionase" ],
+			[ "flexionases" ],
+			[ "flexionase" ],
+			[ "flexionásemos" ],
+			[ "flexionaseis", "flexionasen" ],
+			[ "flexionasen" ]
+		],
+		"11" : [
+			[ "flexionare" ],
+			[ "flexionares" ],
+			[ "flexionare" ],
+			[ "flexionáremos" ],
+			[ "flexionareis", "flexionaren" ],
+			[ "flexionaren" ]
+		],
+		"12" : {
+			"1" : [ "flexiona" ],
+			"2" : [ "flexione" ],
+			"3" : [ "flexionemos" ],
+			"4" : [ "flexionad" ],
+			"5" : [ "flexionen" ]
+		}
+	}
+}

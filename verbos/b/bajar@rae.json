@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bajar",
+	"word" : "bajar",
+	"infinitivo" : "bajar",
+	"participio" : [ "bajado" ],
+	"gerundio" : [ "bajando" ],
+	"tenses" : {
+		"3" : [
+			[ "bajo" ],
+			[ "bajas", "bajás" ],
+			[ "baja" ],
+			[ "bajamos" ],
+			[ "bajáis", "bajan" ],
+			[ "bajan" ]
+		],
+		"4" : [
+			[ "bajé" ],
+			[ "bajaste" ],
+			[ "bajó" ],
+			[ "bajamos" ],
+			[ "bajasteis", "bajaron" ],
+			[ "bajaron" ]
+		],
+		"5" : [
+			[ "bajaba" ],
+			[ "bajabas" ],
+			[ "bajaba" ],
+			[ "bajábamos" ],
+			[ "bajabais", "bajaban" ],
+			[ "bajaban" ]
+		],
+		"6" : [
+			[ "bajaría" ],
+			[ "bajarías" ],
+			[ "bajaría" ],
+			[ "bajaríamos" ],
+			[ "bajaríais", "bajarían" ],
+			[ "bajarían" ]
+		],
+		"7" : [
+			[ "bajaré" ],
+			[ "bajarás" ],
+			[ "bajará" ],
+			[ "bajaremos" ],
+			[ "bajaréis", "bajarán" ],
+			[ "bajarán" ]
+		],
+		"8" : [
+			[ "baje" ],
+			[ "bajes" ],
+			[ "baje" ],
+			[ "bajemos" ],
+			[ "bajéis", "bajen" ],
+			[ "bajen" ]
+		],
+		"9" : [
+			[ "bajara" ],
+			[ "bajaras" ],
+			[ "bajara" ],
+			[ "bajáramos" ],
+			[ "bajarais", "bajaran" ],
+			[ "bajaran" ]
+		],
+		"10" : [
+			[ "bajase" ],
+			[ "bajases" ],
+			[ "bajase" ],
+			[ "bajásemos" ],
+			[ "bajaseis", "bajasen" ],
+			[ "bajasen" ]
+		],
+		"11" : [
+			[ "bajare" ],
+			[ "bajares" ],
+			[ "bajare" ],
+			[ "bajáremos" ],
+			[ "bajareis", "bajaren" ],
+			[ "bajaren" ]
+		],
+		"12" : {
+			"1" : [ "baja" ],
+			"2" : [ "baje" ],
+			"3" : [ "bajemos" ],
+			"4" : [ "bajad" ],
+			"5" : [ "bajen" ]
+		}
+	}
+}

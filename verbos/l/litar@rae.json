@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=litar",
+	"word" : "litar",
+	"infinitivo" : "litar",
+	"participio" : [ "litado" ],
+	"gerundio" : [ "litando" ],
+	"tenses" : {
+		"3" : [
+			[ "lito" ],
+			[ "litas", "litás" ],
+			[ "lita" ],
+			[ "litamos" ],
+			[ "litáis", "litan" ],
+			[ "litan" ]
+		],
+		"4" : [
+			[ "lité" ],
+			[ "litaste" ],
+			[ "litó" ],
+			[ "litamos" ],
+			[ "litasteis", "litaron" ],
+			[ "litaron" ]
+		],
+		"5" : [
+			[ "litaba" ],
+			[ "litabas" ],
+			[ "litaba" ],
+			[ "litábamos" ],
+			[ "litabais", "litaban" ],
+			[ "litaban" ]
+		],
+		"6" : [
+			[ "litaría" ],
+			[ "litarías" ],
+			[ "litaría" ],
+			[ "litaríamos" ],
+			[ "litaríais", "litarían" ],
+			[ "litarían" ]
+		],
+		"7" : [
+			[ "litaré" ],
+			[ "litarás" ],
+			[ "litará" ],
+			[ "litaremos" ],
+			[ "litaréis", "litarán" ],
+			[ "litarán" ]
+		],
+		"8" : [
+			[ "lite" ],
+			[ "lites" ],
+			[ "lite" ],
+			[ "litemos" ],
+			[ "litéis", "liten" ],
+			[ "liten" ]
+		],
+		"9" : [
+			[ "litara" ],
+			[ "litaras" ],
+			[ "litara" ],
+			[ "litáramos" ],
+			[ "litarais", "litaran" ],
+			[ "litaran" ]
+		],
+		"10" : [
+			[ "litase" ],
+			[ "litases" ],
+			[ "litase" ],
+			[ "litásemos" ],
+			[ "litaseis", "litasen" ],
+			[ "litasen" ]
+		],
+		"11" : [
+			[ "litare" ],
+			[ "litares" ],
+			[ "litare" ],
+			[ "litáremos" ],
+			[ "litareis", "litaren" ],
+			[ "litaren" ]
+		],
+		"12" : {
+			"1" : [ "lita" ],
+			"2" : [ "lite" ],
+			"3" : [ "litemos" ],
+			"4" : [ "litad" ],
+			"5" : [ "liten" ]
+		}
+	}
+}

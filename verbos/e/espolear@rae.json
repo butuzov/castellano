@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=espolear",
+	"word" : "espolear",
+	"infinitivo" : "espolear",
+	"participio" : [ "espoleado" ],
+	"gerundio" : [ "espoleando" ],
+	"tenses" : {
+		"3" : [
+			[ "espoleo" ],
+			[ "espoleas", "espoleás" ],
+			[ "espolea" ],
+			[ "espoleamos" ],
+			[ "espoleáis", "espolean" ],
+			[ "espolean" ]
+		],
+		"4" : [
+			[ "espoleé" ],
+			[ "espoleaste" ],
+			[ "espoleó" ],
+			[ "espoleamos" ],
+			[ "espoleasteis", "espolearon" ],
+			[ "espolearon" ]
+		],
+		"5" : [
+			[ "espoleaba" ],
+			[ "espoleabas" ],
+			[ "espoleaba" ],
+			[ "espoleábamos" ],
+			[ "espoleabais", "espoleaban" ],
+			[ "espoleaban" ]
+		],
+		"6" : [
+			[ "espolearía" ],
+			[ "espolearías" ],
+			[ "espolearía" ],
+			[ "espolearíamos" ],
+			[ "espolearíais", "espolearían" ],
+			[ "espolearían" ]
+		],
+		"7" : [
+			[ "espolearé" ],
+			[ "espolearás" ],
+			[ "espoleará" ],
+			[ "espolearemos" ],
+			[ "espolearéis", "espolearán" ],
+			[ "espolearán" ]
+		],
+		"8" : [
+			[ "espolee" ],
+			[ "espolees" ],
+			[ "espolee" ],
+			[ "espoleemos" ],
+			[ "espoleéis", "espoleen" ],
+			[ "espoleen" ]
+		],
+		"9" : [
+			[ "espoleara" ],
+			[ "espolearas" ],
+			[ "espoleara" ],
+			[ "espoleáramos" ],
+			[ "espolearais", "espolearan" ],
+			[ "espolearan" ]
+		],
+		"10" : [
+			[ "espolease" ],
+			[ "espoleases" ],
+			[ "espolease" ],
+			[ "espoleásemos" ],
+			[ "espoleaseis", "espoleasen" ],
+			[ "espoleasen" ]
+		],
+		"11" : [
+			[ "espoleare" ],
+			[ "espoleares" ],
+			[ "espoleare" ],
+			[ "espoleáremos" ],
+			[ "espoleareis", "espolearen" ],
+			[ "espolearen" ]
+		],
+		"12" : {
+			"1" : [ "espolea" ],
+			"2" : [ "espolee" ],
+			"3" : [ "espoleemos" ],
+			"4" : [ "espolead" ],
+			"5" : [ "espoleen" ]
+		}
+	}
+}

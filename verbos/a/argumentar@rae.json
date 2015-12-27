@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=argumentar",
+	"word" : "argumentar",
+	"infinitivo" : "argumentar",
+	"participio" : [ "argumentado" ],
+	"gerundio" : [ "argumentando" ],
+	"tenses" : {
+		"3" : [
+			[ "argumento" ],
+			[ "argumentas", "argumentás" ],
+			[ "argumenta" ],
+			[ "argumentamos" ],
+			[ "argumentáis", "argumentan" ],
+			[ "argumentan" ]
+		],
+		"4" : [
+			[ "argumenté" ],
+			[ "argumentaste" ],
+			[ "argumentó" ],
+			[ "argumentamos" ],
+			[ "argumentasteis", "argumentaron" ],
+			[ "argumentaron" ]
+		],
+		"5" : [
+			[ "argumentaba" ],
+			[ "argumentabas" ],
+			[ "argumentaba" ],
+			[ "argumentábamos" ],
+			[ "argumentabais", "argumentaban" ],
+			[ "argumentaban" ]
+		],
+		"6" : [
+			[ "argumentaría" ],
+			[ "argumentarías" ],
+			[ "argumentaría" ],
+			[ "argumentaríamos" ],
+			[ "argumentaríais", "argumentarían" ],
+			[ "argumentarían" ]
+		],
+		"7" : [
+			[ "argumentaré" ],
+			[ "argumentarás" ],
+			[ "argumentará" ],
+			[ "argumentaremos" ],
+			[ "argumentaréis", "argumentarán" ],
+			[ "argumentarán" ]
+		],
+		"8" : [
+			[ "argumente" ],
+			[ "argumentes" ],
+			[ "argumente" ],
+			[ "argumentemos" ],
+			[ "argumentéis", "argumenten" ],
+			[ "argumenten" ]
+		],
+		"9" : [
+			[ "argumentara" ],
+			[ "argumentaras" ],
+			[ "argumentara" ],
+			[ "argumentáramos" ],
+			[ "argumentarais", "argumentaran" ],
+			[ "argumentaran" ]
+		],
+		"10" : [
+			[ "argumentase" ],
+			[ "argumentases" ],
+			[ "argumentase" ],
+			[ "argumentásemos" ],
+			[ "argumentaseis", "argumentasen" ],
+			[ "argumentasen" ]
+		],
+		"11" : [
+			[ "argumentare" ],
+			[ "argumentares" ],
+			[ "argumentare" ],
+			[ "argumentáremos" ],
+			[ "argumentareis", "argumentaren" ],
+			[ "argumentaren" ]
+		],
+		"12" : {
+			"1" : [ "argumenta" ],
+			"2" : [ "argumente" ],
+			"3" : [ "argumentemos" ],
+			"4" : [ "argumentad" ],
+			"5" : [ "argumenten" ]
+		}
+	}
+}

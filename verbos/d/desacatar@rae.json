@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desacatar",
+	"word" : "desacatar",
+	"infinitivo" : "desacatar",
+	"participio" : [ "desacatado" ],
+	"gerundio" : [ "desacatando" ],
+	"tenses" : {
+		"3" : [
+			[ "desacato" ],
+			[ "desacatas", "desacatás" ],
+			[ "desacata" ],
+			[ "desacatamos" ],
+			[ "desacatáis", "desacatan" ],
+			[ "desacatan" ]
+		],
+		"4" : [
+			[ "desacaté" ],
+			[ "desacataste" ],
+			[ "desacató" ],
+			[ "desacatamos" ],
+			[ "desacatasteis", "desacataron" ],
+			[ "desacataron" ]
+		],
+		"5" : [
+			[ "desacataba" ],
+			[ "desacatabas" ],
+			[ "desacataba" ],
+			[ "desacatábamos" ],
+			[ "desacatabais", "desacataban" ],
+			[ "desacataban" ]
+		],
+		"6" : [
+			[ "desacataría" ],
+			[ "desacatarías" ],
+			[ "desacataría" ],
+			[ "desacataríamos" ],
+			[ "desacataríais", "desacatarían" ],
+			[ "desacatarían" ]
+		],
+		"7" : [
+			[ "desacataré" ],
+			[ "desacatarás" ],
+			[ "desacatará" ],
+			[ "desacataremos" ],
+			[ "desacataréis", "desacatarán" ],
+			[ "desacatarán" ]
+		],
+		"8" : [
+			[ "desacate" ],
+			[ "desacates" ],
+			[ "desacate" ],
+			[ "desacatemos" ],
+			[ "desacatéis", "desacaten" ],
+			[ "desacaten" ]
+		],
+		"9" : [
+			[ "desacatara" ],
+			[ "desacataras" ],
+			[ "desacatara" ],
+			[ "desacatáramos" ],
+			[ "desacatarais", "desacataran" ],
+			[ "desacataran" ]
+		],
+		"10" : [
+			[ "desacatase" ],
+			[ "desacatases" ],
+			[ "desacatase" ],
+			[ "desacatásemos" ],
+			[ "desacataseis", "desacatasen" ],
+			[ "desacatasen" ]
+		],
+		"11" : [
+			[ "desacatare" ],
+			[ "desacatares" ],
+			[ "desacatare" ],
+			[ "desacatáremos" ],
+			[ "desacatareis", "desacataren" ],
+			[ "desacataren" ]
+		],
+		"12" : {
+			"1" : [ "desacata" ],
+			"2" : [ "desacate" ],
+			"3" : [ "desacatemos" ],
+			"4" : [ "desacatad" ],
+			"5" : [ "desacaten" ]
+		}
+	}
+}

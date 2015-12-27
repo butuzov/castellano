@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=circular",
+	"word" : "circular",
+	"infinitivo" : "circular",
+	"participio" : [ "circulado" ],
+	"gerundio" : [ "circulando" ],
+	"tenses" : {
+		"3" : [
+			[ "circulo" ],
+			[ "circulas", "circulás" ],
+			[ "circula" ],
+			[ "circulamos" ],
+			[ "circuláis", "circulan" ],
+			[ "circulan" ]
+		],
+		"4" : [
+			[ "circulé" ],
+			[ "circulaste" ],
+			[ "circuló" ],
+			[ "circulamos" ],
+			[ "circulasteis", "circularon" ],
+			[ "circularon" ]
+		],
+		"5" : [
+			[ "circulaba" ],
+			[ "circulabas" ],
+			[ "circulaba" ],
+			[ "circulábamos" ],
+			[ "circulabais", "circulaban" ],
+			[ "circulaban" ]
+		],
+		"6" : [
+			[ "circularía" ],
+			[ "circularías" ],
+			[ "circularía" ],
+			[ "circularíamos" ],
+			[ "circularíais", "circularían" ],
+			[ "circularían" ]
+		],
+		"7" : [
+			[ "circularé" ],
+			[ "circularás" ],
+			[ "circulará" ],
+			[ "circularemos" ],
+			[ "circularéis", "circularán" ],
+			[ "circularán" ]
+		],
+		"8" : [
+			[ "circule" ],
+			[ "circules" ],
+			[ "circule" ],
+			[ "circulemos" ],
+			[ "circuléis", "circulen" ],
+			[ "circulen" ]
+		],
+		"9" : [
+			[ "circulara" ],
+			[ "circularas" ],
+			[ "circulara" ],
+			[ "circuláramos" ],
+			[ "circularais", "circularan" ],
+			[ "circularan" ]
+		],
+		"10" : [
+			[ "circulase" ],
+			[ "circulases" ],
+			[ "circulase" ],
+			[ "circulásemos" ],
+			[ "circulaseis", "circulasen" ],
+			[ "circulasen" ]
+		],
+		"11" : [
+			[ "circulare" ],
+			[ "circulares" ],
+			[ "circulare" ],
+			[ "circuláremos" ],
+			[ "circulareis", "circularen" ],
+			[ "circularen" ]
+		],
+		"12" : {
+			"1" : [ "circula" ],
+			"2" : [ "circule" ],
+			"3" : [ "circulemos" ],
+			"4" : [ "circulad" ],
+			"5" : [ "circulen" ]
+		}
+	}
+}

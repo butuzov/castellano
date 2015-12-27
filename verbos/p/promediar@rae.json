@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=promediar",
+	"word" : "promediar",
+	"infinitivo" : "promediar",
+	"participio" : [ "promediado" ],
+	"gerundio" : [ "promediando" ],
+	"tenses" : {
+		"3" : [
+			[ "promedio" ],
+			[ "promedias", "promediás" ],
+			[ "promedia" ],
+			[ "promediamos" ],
+			[ "promediáis", "promedian" ],
+			[ "promedian" ]
+		],
+		"4" : [
+			[ "promedié" ],
+			[ "promediaste" ],
+			[ "promedió" ],
+			[ "promediamos" ],
+			[ "promediasteis", "promediaron" ],
+			[ "promediaron" ]
+		],
+		"5" : [
+			[ "promediaba" ],
+			[ "promediabas" ],
+			[ "promediaba" ],
+			[ "promediábamos" ],
+			[ "promediabais", "promediaban" ],
+			[ "promediaban" ]
+		],
+		"6" : [
+			[ "promediaría" ],
+			[ "promediarías" ],
+			[ "promediaría" ],
+			[ "promediaríamos" ],
+			[ "promediaríais", "promediarían" ],
+			[ "promediarían" ]
+		],
+		"7" : [
+			[ "promediaré" ],
+			[ "promediarás" ],
+			[ "promediará" ],
+			[ "promediaremos" ],
+			[ "promediaréis", "promediarán" ],
+			[ "promediarán" ]
+		],
+		"8" : [
+			[ "promedie" ],
+			[ "promedies" ],
+			[ "promedie" ],
+			[ "promediemos" ],
+			[ "promediéis", "promedien" ],
+			[ "promedien" ]
+		],
+		"9" : [
+			[ "promediara" ],
+			[ "promediaras" ],
+			[ "promediara" ],
+			[ "promediáramos" ],
+			[ "promediarais", "promediaran" ],
+			[ "promediaran" ]
+		],
+		"10" : [
+			[ "promediase" ],
+			[ "promediases" ],
+			[ "promediase" ],
+			[ "promediásemos" ],
+			[ "promediaseis", "promediasen" ],
+			[ "promediasen" ]
+		],
+		"11" : [
+			[ "promediare" ],
+			[ "promediares" ],
+			[ "promediare" ],
+			[ "promediáremos" ],
+			[ "promediareis", "promediaren" ],
+			[ "promediaren" ]
+		],
+		"12" : {
+			"1" : [ "promedia" ],
+			"2" : [ "promedie" ],
+			"3" : [ "promediemos" ],
+			"4" : [ "promediad" ],
+			"5" : [ "promedien" ]
+		}
+	}
+}

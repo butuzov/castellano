@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=regalar",
+	"word" : "regalar",
+	"infinitivo" : "regalar",
+	"participio" : [ "regalado" ],
+	"gerundio" : [ "regalando" ],
+	"tenses" : {
+		"3" : [
+			[ "regalo" ],
+			[ "regalas", "regalás" ],
+			[ "regala" ],
+			[ "regalamos" ],
+			[ "regaláis", "regalan" ],
+			[ "regalan" ]
+		],
+		"4" : [
+			[ "regalé" ],
+			[ "regalaste" ],
+			[ "regaló" ],
+			[ "regalamos" ],
+			[ "regalasteis", "regalaron" ],
+			[ "regalaron" ]
+		],
+		"5" : [
+			[ "regalaba" ],
+			[ "regalabas" ],
+			[ "regalaba" ],
+			[ "regalábamos" ],
+			[ "regalabais", "regalaban" ],
+			[ "regalaban" ]
+		],
+		"6" : [
+			[ "regalaría" ],
+			[ "regalarías" ],
+			[ "regalaría" ],
+			[ "regalaríamos" ],
+			[ "regalaríais", "regalarían" ],
+			[ "regalarían" ]
+		],
+		"7" : [
+			[ "regalaré" ],
+			[ "regalarás" ],
+			[ "regalará" ],
+			[ "regalaremos" ],
+			[ "regalaréis", "regalarán" ],
+			[ "regalarán" ]
+		],
+		"8" : [
+			[ "regale" ],
+			[ "regales" ],
+			[ "regale" ],
+			[ "regalemos" ],
+			[ "regaléis", "regalen" ],
+			[ "regalen" ]
+		],
+		"9" : [
+			[ "regalara" ],
+			[ "regalaras" ],
+			[ "regalara" ],
+			[ "regaláramos" ],
+			[ "regalarais", "regalaran" ],
+			[ "regalaran" ]
+		],
+		"10" : [
+			[ "regalase" ],
+			[ "regalases" ],
+			[ "regalase" ],
+			[ "regalásemos" ],
+			[ "regalaseis", "regalasen" ],
+			[ "regalasen" ]
+		],
+		"11" : [
+			[ "regalare" ],
+			[ "regalares" ],
+			[ "regalare" ],
+			[ "regaláremos" ],
+			[ "regalareis", "regalaren" ],
+			[ "regalaren" ]
+		],
+		"12" : {
+			"1" : [ "regala" ],
+			"2" : [ "regale" ],
+			"3" : [ "regalemos" ],
+			"4" : [ "regalad" ],
+			"5" : [ "regalen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tramar",
+	"word" : "tramar",
+	"infinitivo" : "tramar",
+	"participio" : [ "tramado" ],
+	"gerundio" : [ "tramando" ],
+	"tenses" : {
+		"3" : [
+			[ "tramo" ],
+			[ "tramas", "tramás" ],
+			[ "trama" ],
+			[ "tramamos" ],
+			[ "tramáis", "traman" ],
+			[ "traman" ]
+		],
+		"4" : [
+			[ "tramé" ],
+			[ "tramaste" ],
+			[ "tramó" ],
+			[ "tramamos" ],
+			[ "tramasteis", "tramaron" ],
+			[ "tramaron" ]
+		],
+		"5" : [
+			[ "tramaba" ],
+			[ "tramabas" ],
+			[ "tramaba" ],
+			[ "tramábamos" ],
+			[ "tramabais", "tramaban" ],
+			[ "tramaban" ]
+		],
+		"6" : [
+			[ "tramaría" ],
+			[ "tramarías" ],
+			[ "tramaría" ],
+			[ "tramaríamos" ],
+			[ "tramaríais", "tramarían" ],
+			[ "tramarían" ]
+		],
+		"7" : [
+			[ "tramaré" ],
+			[ "tramarás" ],
+			[ "tramará" ],
+			[ "tramaremos" ],
+			[ "tramaréis", "tramarán" ],
+			[ "tramarán" ]
+		],
+		"8" : [
+			[ "trame" ],
+			[ "trames" ],
+			[ "trame" ],
+			[ "tramemos" ],
+			[ "traméis", "tramen" ],
+			[ "tramen" ]
+		],
+		"9" : [
+			[ "tramara" ],
+			[ "tramaras" ],
+			[ "tramara" ],
+			[ "tramáramos" ],
+			[ "tramarais", "tramaran" ],
+			[ "tramaran" ]
+		],
+		"10" : [
+			[ "tramase" ],
+			[ "tramases" ],
+			[ "tramase" ],
+			[ "tramásemos" ],
+			[ "tramaseis", "tramasen" ],
+			[ "tramasen" ]
+		],
+		"11" : [
+			[ "tramare" ],
+			[ "tramares" ],
+			[ "tramare" ],
+			[ "tramáremos" ],
+			[ "tramareis", "tramaren" ],
+			[ "tramaren" ]
+		],
+		"12" : {
+			"1" : [ "trama" ],
+			"2" : [ "trame" ],
+			"3" : [ "tramemos" ],
+			"4" : [ "tramad" ],
+			"5" : [ "tramen" ]
+		}
+	}
+}

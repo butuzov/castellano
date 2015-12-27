@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mencionar",
+	"word" : "mencionar",
+	"infinitivo" : "mencionar",
+	"participio" : [ "mencionado" ],
+	"gerundio" : [ "mencionando" ],
+	"tenses" : {
+		"3" : [
+			[ "menciono" ],
+			[ "mencionas", "mencionás" ],
+			[ "menciona" ],
+			[ "mencionamos" ],
+			[ "mencionáis", "mencionan" ],
+			[ "mencionan" ]
+		],
+		"4" : [
+			[ "mencioné" ],
+			[ "mencionaste" ],
+			[ "mencionó" ],
+			[ "mencionamos" ],
+			[ "mencionasteis", "mencionaron" ],
+			[ "mencionaron" ]
+		],
+		"5" : [
+			[ "mencionaba" ],
+			[ "mencionabas" ],
+			[ "mencionaba" ],
+			[ "mencionábamos" ],
+			[ "mencionabais", "mencionaban" ],
+			[ "mencionaban" ]
+		],
+		"6" : [
+			[ "mencionaría" ],
+			[ "mencionarías" ],
+			[ "mencionaría" ],
+			[ "mencionaríamos" ],
+			[ "mencionaríais", "mencionarían" ],
+			[ "mencionarían" ]
+		],
+		"7" : [
+			[ "mencionaré" ],
+			[ "mencionarás" ],
+			[ "mencionará" ],
+			[ "mencionaremos" ],
+			[ "mencionaréis", "mencionarán" ],
+			[ "mencionarán" ]
+		],
+		"8" : [
+			[ "mencione" ],
+			[ "menciones" ],
+			[ "mencione" ],
+			[ "mencionemos" ],
+			[ "mencionéis", "mencionen" ],
+			[ "mencionen" ]
+		],
+		"9" : [
+			[ "mencionara" ],
+			[ "mencionaras" ],
+			[ "mencionara" ],
+			[ "mencionáramos" ],
+			[ "mencionarais", "mencionaran" ],
+			[ "mencionaran" ]
+		],
+		"10" : [
+			[ "mencionase" ],
+			[ "mencionases" ],
+			[ "mencionase" ],
+			[ "mencionásemos" ],
+			[ "mencionaseis", "mencionasen" ],
+			[ "mencionasen" ]
+		],
+		"11" : [
+			[ "mencionare" ],
+			[ "mencionares" ],
+			[ "mencionare" ],
+			[ "mencionáremos" ],
+			[ "mencionareis", "mencionaren" ],
+			[ "mencionaren" ]
+		],
+		"12" : {
+			"1" : [ "menciona" ],
+			"2" : [ "mencione" ],
+			"3" : [ "mencionemos" ],
+			"4" : [ "mencionad" ],
+			"5" : [ "mencionen" ]
+		}
+	}
+}

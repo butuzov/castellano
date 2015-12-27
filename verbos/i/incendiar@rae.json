@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incendiar",
+	"word" : "incendiar",
+	"infinitivo" : "incendiar",
+	"participio" : [ "incendiado" ],
+	"gerundio" : [ "incendiando" ],
+	"tenses" : {
+		"3" : [
+			[ "incendio" ],
+			[ "incendias", "incendiás" ],
+			[ "incendia" ],
+			[ "incendiamos" ],
+			[ "incendiáis", "incendian" ],
+			[ "incendian" ]
+		],
+		"4" : [
+			[ "incendié" ],
+			[ "incendiaste" ],
+			[ "incendió" ],
+			[ "incendiamos" ],
+			[ "incendiasteis", "incendiaron" ],
+			[ "incendiaron" ]
+		],
+		"5" : [
+			[ "incendiaba" ],
+			[ "incendiabas" ],
+			[ "incendiaba" ],
+			[ "incendiábamos" ],
+			[ "incendiabais", "incendiaban" ],
+			[ "incendiaban" ]
+		],
+		"6" : [
+			[ "incendiaría" ],
+			[ "incendiarías" ],
+			[ "incendiaría" ],
+			[ "incendiaríamos" ],
+			[ "incendiaríais", "incendiarían" ],
+			[ "incendiarían" ]
+		],
+		"7" : [
+			[ "incendiaré" ],
+			[ "incendiarás" ],
+			[ "incendiará" ],
+			[ "incendiaremos" ],
+			[ "incendiaréis", "incendiarán" ],
+			[ "incendiarán" ]
+		],
+		"8" : [
+			[ "incendie" ],
+			[ "incendies" ],
+			[ "incendie" ],
+			[ "incendiemos" ],
+			[ "incendiéis", "incendien" ],
+			[ "incendien" ]
+		],
+		"9" : [
+			[ "incendiara" ],
+			[ "incendiaras" ],
+			[ "incendiara" ],
+			[ "incendiáramos" ],
+			[ "incendiarais", "incendiaran" ],
+			[ "incendiaran" ]
+		],
+		"10" : [
+			[ "incendiase" ],
+			[ "incendiases" ],
+			[ "incendiase" ],
+			[ "incendiásemos" ],
+			[ "incendiaseis", "incendiasen" ],
+			[ "incendiasen" ]
+		],
+		"11" : [
+			[ "incendiare" ],
+			[ "incendiares" ],
+			[ "incendiare" ],
+			[ "incendiáremos" ],
+			[ "incendiareis", "incendiaren" ],
+			[ "incendiaren" ]
+		],
+		"12" : {
+			"1" : [ "incendia" ],
+			"2" : [ "incendie" ],
+			"3" : [ "incendiemos" ],
+			"4" : [ "incendiad" ],
+			"5" : [ "incendien" ]
+		}
+	}
+}

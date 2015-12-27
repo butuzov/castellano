@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rotar",
+	"word" : "rotar",
+	"infinitivo" : "rotar",
+	"participio" : [ "rotado" ],
+	"gerundio" : [ "rotando" ],
+	"tenses" : {
+		"3" : [
+			[ "roto" ],
+			[ "rotas", "rotás" ],
+			[ "rota" ],
+			[ "rotamos" ],
+			[ "rotáis", "rotan" ],
+			[ "rotan" ]
+		],
+		"4" : [
+			[ "roté" ],
+			[ "rotaste" ],
+			[ "rotó" ],
+			[ "rotamos" ],
+			[ "rotasteis", "rotaron" ],
+			[ "rotaron" ]
+		],
+		"5" : [
+			[ "rotaba" ],
+			[ "rotabas" ],
+			[ "rotaba" ],
+			[ "rotábamos" ],
+			[ "rotabais", "rotaban" ],
+			[ "rotaban" ]
+		],
+		"6" : [
+			[ "rotaría" ],
+			[ "rotarías" ],
+			[ "rotaría" ],
+			[ "rotaríamos" ],
+			[ "rotaríais", "rotarían" ],
+			[ "rotarían" ]
+		],
+		"7" : [
+			[ "rotaré" ],
+			[ "rotarás" ],
+			[ "rotará" ],
+			[ "rotaremos" ],
+			[ "rotaréis", "rotarán" ],
+			[ "rotarán" ]
+		],
+		"8" : [
+			[ "rote" ],
+			[ "rotes" ],
+			[ "rote" ],
+			[ "rotemos" ],
+			[ "rotéis", "roten" ],
+			[ "roten" ]
+		],
+		"9" : [
+			[ "rotara" ],
+			[ "rotaras" ],
+			[ "rotara" ],
+			[ "rotáramos" ],
+			[ "rotarais", "rotaran" ],
+			[ "rotaran" ]
+		],
+		"10" : [
+			[ "rotase" ],
+			[ "rotases" ],
+			[ "rotase" ],
+			[ "rotásemos" ],
+			[ "rotaseis", "rotasen" ],
+			[ "rotasen" ]
+		],
+		"11" : [
+			[ "rotare" ],
+			[ "rotares" ],
+			[ "rotare" ],
+			[ "rotáremos" ],
+			[ "rotareis", "rotaren" ],
+			[ "rotaren" ]
+		],
+		"12" : {
+			"1" : [ "rota" ],
+			"2" : [ "rote" ],
+			"3" : [ "rotemos" ],
+			"4" : [ "rotad" ],
+			"5" : [ "roten" ]
+		}
+	}
+}

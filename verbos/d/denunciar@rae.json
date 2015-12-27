@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=denunciar",
+	"word" : "denunciar",
+	"infinitivo" : "denunciar",
+	"participio" : [ "denunciado" ],
+	"gerundio" : [ "denunciando" ],
+	"tenses" : {
+		"3" : [
+			[ "denuncio" ],
+			[ "denuncias", "denunciás" ],
+			[ "denuncia" ],
+			[ "denunciamos" ],
+			[ "denunciáis", "denuncian" ],
+			[ "denuncian" ]
+		],
+		"4" : [
+			[ "denuncié" ],
+			[ "denunciaste" ],
+			[ "denunció" ],
+			[ "denunciamos" ],
+			[ "denunciasteis", "denunciaron" ],
+			[ "denunciaron" ]
+		],
+		"5" : [
+			[ "denunciaba" ],
+			[ "denunciabas" ],
+			[ "denunciaba" ],
+			[ "denunciábamos" ],
+			[ "denunciabais", "denunciaban" ],
+			[ "denunciaban" ]
+		],
+		"6" : [
+			[ "denunciaría" ],
+			[ "denunciarías" ],
+			[ "denunciaría" ],
+			[ "denunciaríamos" ],
+			[ "denunciaríais", "denunciarían" ],
+			[ "denunciarían" ]
+		],
+		"7" : [
+			[ "denunciaré" ],
+			[ "denunciarás" ],
+			[ "denunciará" ],
+			[ "denunciaremos" ],
+			[ "denunciaréis", "denunciarán" ],
+			[ "denunciarán" ]
+		],
+		"8" : [
+			[ "denuncie" ],
+			[ "denuncies" ],
+			[ "denuncie" ],
+			[ "denunciemos" ],
+			[ "denunciéis", "denuncien" ],
+			[ "denuncien" ]
+		],
+		"9" : [
+			[ "denunciara" ],
+			[ "denunciaras" ],
+			[ "denunciara" ],
+			[ "denunciáramos" ],
+			[ "denunciarais", "denunciaran" ],
+			[ "denunciaran" ]
+		],
+		"10" : [
+			[ "denunciase" ],
+			[ "denunciases" ],
+			[ "denunciase" ],
+			[ "denunciásemos" ],
+			[ "denunciaseis", "denunciasen" ],
+			[ "denunciasen" ]
+		],
+		"11" : [
+			[ "denunciare" ],
+			[ "denunciares" ],
+			[ "denunciare" ],
+			[ "denunciáremos" ],
+			[ "denunciareis", "denunciaren" ],
+			[ "denunciaren" ]
+		],
+		"12" : {
+			"1" : [ "denuncia" ],
+			"2" : [ "denuncie" ],
+			"3" : [ "denunciemos" ],
+			"4" : [ "denunciad" ],
+			"5" : [ "denuncien" ]
+		}
+	}
+}

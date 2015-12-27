@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aunar",
+	"word" : "aunar",
+	"infinitivo" : "aunar",
+	"participio" : [ "aunado" ],
+	"gerundio" : [ "aunando" ],
+	"tenses" : {
+		"3" : [
+			[ "aúno" ],
+			[ "aúnas", "aunás" ],
+			[ "aúna" ],
+			[ "aunamos" ],
+			[ "aunáis", "aúnan" ],
+			[ "aúnan" ]
+		],
+		"4" : [
+			[ "auné" ],
+			[ "aunaste" ],
+			[ "aunó" ],
+			[ "aunamos" ],
+			[ "aunasteis", "aunaron" ],
+			[ "aunaron" ]
+		],
+		"5" : [
+			[ "aunaba" ],
+			[ "aunabas" ],
+			[ "aunaba" ],
+			[ "aunábamos" ],
+			[ "aunabais", "aunaban" ],
+			[ "aunaban" ]
+		],
+		"6" : [
+			[ "aunaría" ],
+			[ "aunarías" ],
+			[ "aunaría" ],
+			[ "aunaríamos" ],
+			[ "aunaríais", "aunarían" ],
+			[ "aunarían" ]
+		],
+		"7" : [
+			[ "aunaré" ],
+			[ "aunarás" ],
+			[ "aunará" ],
+			[ "aunaremos" ],
+			[ "aunaréis", "aunarán" ],
+			[ "aunarán" ]
+		],
+		"8" : [
+			[ "aúne" ],
+			[ "aúnes" ],
+			[ "aúne" ],
+			[ "aunemos" ],
+			[ "aunéis", "aúnen" ],
+			[ "aúnen" ]
+		],
+		"9" : [
+			[ "aunara" ],
+			[ "aunaras" ],
+			[ "aunara" ],
+			[ "aunáramos" ],
+			[ "aunarais", "aunaran" ],
+			[ "aunaran" ]
+		],
+		"10" : [
+			[ "aunase" ],
+			[ "aunases" ],
+			[ "aunase" ],
+			[ "aunásemos" ],
+			[ "aunaseis", "aunasen" ],
+			[ "aunasen" ]
+		],
+		"11" : [
+			[ "aunare" ],
+			[ "aunares" ],
+			[ "aunare" ],
+			[ "aunáremos" ],
+			[ "aunareis", "aunaren" ],
+			[ "aunaren" ]
+		],
+		"12" : {
+			"1" : [ "aúna" ],
+			"2" : [ "aúne" ],
+			"3" : [ "aunemos" ],
+			"4" : [ "aunad" ],
+			"5" : [ "aúnen" ]
+		}
+	}
+}

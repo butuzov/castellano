@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abrir",
+	"word" : "abrir",
+	"infinitivo" : "abrir",
+	"participio" : [ "abierto" ],
+	"gerundio" : [ "abriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "abro" ],
+			[ "abres", "abrís" ],
+			[ "abre" ],
+			[ "abrimos" ],
+			[ "abrís", "abren" ],
+			[ "abren" ]
+		],
+		"4" : [
+			[ "abrí" ],
+			[ "abriste" ],
+			[ "abrió" ],
+			[ "abrimos" ],
+			[ "abristeis", "abrieron" ],
+			[ "abrieron" ]
+		],
+		"5" : [
+			[ "abría" ],
+			[ "abrías" ],
+			[ "abría" ],
+			[ "abríamos" ],
+			[ "abríais", "abrían" ],
+			[ "abrían" ]
+		],
+		"6" : [
+			[ "abriría" ],
+			[ "abrirías" ],
+			[ "abriría" ],
+			[ "abriríamos" ],
+			[ "abriríais", "abrirían" ],
+			[ "abrirían" ]
+		],
+		"7" : [
+			[ "abriré" ],
+			[ "abrirás" ],
+			[ "abrirá" ],
+			[ "abriremos" ],
+			[ "abriréis", "abrirán" ],
+			[ "abrirán" ]
+		],
+		"8" : [
+			[ "abra" ],
+			[ "abras" ],
+			[ "abra" ],
+			[ "abramos" ],
+			[ "abráis", "abran" ],
+			[ "abran" ]
+		],
+		"9" : [
+			[ "abriera" ],
+			[ "abrieras" ],
+			[ "abriera" ],
+			[ "abriéramos" ],
+			[ "abrierais", "abrieran" ],
+			[ "abrieran" ]
+		],
+		"10" : [
+			[ "abriese" ],
+			[ "abrieses" ],
+			[ "abriese" ],
+			[ "abriésemos" ],
+			[ "abrieseis", "abriesen" ],
+			[ "abriesen" ]
+		],
+		"11" : [
+			[ "abriere" ],
+			[ "abrieres" ],
+			[ "abriere" ],
+			[ "abriéremos" ],
+			[ "abriereis", "abrieren" ],
+			[ "abrieren" ]
+		],
+		"12" : {
+			"1" : [ "abre" ],
+			"2" : [ "abra" ],
+			"3" : [ "abramos" ],
+			"4" : [ "abrid" ],
+			"5" : [ "abran" ]
+		}
+	}
+}

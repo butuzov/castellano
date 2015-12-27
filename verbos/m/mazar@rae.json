@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mazar",
+	"word" : "mazar",
+	"infinitivo" : "mazar",
+	"participio" : [ "mazado" ],
+	"gerundio" : [ "mazando" ],
+	"tenses" : {
+		"3" : [
+			[ "mazo" ],
+			[ "mazas", "mazás" ],
+			[ "maza" ],
+			[ "mazamos" ],
+			[ "mazáis", "mazan" ],
+			[ "mazan" ]
+		],
+		"4" : [
+			[ "macé" ],
+			[ "mazaste" ],
+			[ "mazó" ],
+			[ "mazamos" ],
+			[ "mazasteis", "mazaron" ],
+			[ "mazaron" ]
+		],
+		"5" : [
+			[ "mazaba" ],
+			[ "mazabas" ],
+			[ "mazaba" ],
+			[ "mazábamos" ],
+			[ "mazabais", "mazaban" ],
+			[ "mazaban" ]
+		],
+		"6" : [
+			[ "mazaría" ],
+			[ "mazarías" ],
+			[ "mazaría" ],
+			[ "mazaríamos" ],
+			[ "mazaríais", "mazarían" ],
+			[ "mazarían" ]
+		],
+		"7" : [
+			[ "mazaré" ],
+			[ "mazarás" ],
+			[ "mazará" ],
+			[ "mazaremos" ],
+			[ "mazaréis", "mazarán" ],
+			[ "mazarán" ]
+		],
+		"8" : [
+			[ "mace" ],
+			[ "maces" ],
+			[ "mace" ],
+			[ "macemos" ],
+			[ "macéis", "macen" ],
+			[ "macen" ]
+		],
+		"9" : [
+			[ "mazara" ],
+			[ "mazaras" ],
+			[ "mazara" ],
+			[ "mazáramos" ],
+			[ "mazarais", "mazaran" ],
+			[ "mazaran" ]
+		],
+		"10" : [
+			[ "mazase" ],
+			[ "mazases" ],
+			[ "mazase" ],
+			[ "mazásemos" ],
+			[ "mazaseis", "mazasen" ],
+			[ "mazasen" ]
+		],
+		"11" : [
+			[ "mazare" ],
+			[ "mazares" ],
+			[ "mazare" ],
+			[ "mazáremos" ],
+			[ "mazareis", "mazaren" ],
+			[ "mazaren" ]
+		],
+		"12" : {
+			"1" : [ "maza" ],
+			"2" : [ "mace" ],
+			"3" : [ "macemos" ],
+			"4" : [ "mazad" ],
+			"5" : [ "macen" ]
+		}
+	}
+}

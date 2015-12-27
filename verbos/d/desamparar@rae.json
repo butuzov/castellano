@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desamparar",
+	"word" : "desamparar",
+	"infinitivo" : "desamparar",
+	"participio" : [ "desamparado" ],
+	"gerundio" : [ "desamparando" ],
+	"tenses" : {
+		"3" : [
+			[ "desamparo" ],
+			[ "desamparas", "desamparás" ],
+			[ "desampara" ],
+			[ "desamparamos" ],
+			[ "desamparáis", "desamparan" ],
+			[ "desamparan" ]
+		],
+		"4" : [
+			[ "desamparé" ],
+			[ "desamparaste" ],
+			[ "desamparó" ],
+			[ "desamparamos" ],
+			[ "desamparasteis", "desampararon" ],
+			[ "desampararon" ]
+		],
+		"5" : [
+			[ "desamparaba" ],
+			[ "desamparabas" ],
+			[ "desamparaba" ],
+			[ "desamparábamos" ],
+			[ "desamparabais", "desamparaban" ],
+			[ "desamparaban" ]
+		],
+		"6" : [
+			[ "desampararía" ],
+			[ "desampararías" ],
+			[ "desampararía" ],
+			[ "desampararíamos" ],
+			[ "desampararíais", "desampararían" ],
+			[ "desampararían" ]
+		],
+		"7" : [
+			[ "desampararé" ],
+			[ "desampararás" ],
+			[ "desamparará" ],
+			[ "desampararemos" ],
+			[ "desampararéis", "desampararán" ],
+			[ "desampararán" ]
+		],
+		"8" : [
+			[ "desampare" ],
+			[ "desampares" ],
+			[ "desampare" ],
+			[ "desamparemos" ],
+			[ "desamparéis", "desamparen" ],
+			[ "desamparen" ]
+		],
+		"9" : [
+			[ "desamparara" ],
+			[ "desampararas" ],
+			[ "desamparara" ],
+			[ "desamparáramos" ],
+			[ "desampararais", "desampararan" ],
+			[ "desampararan" ]
+		],
+		"10" : [
+			[ "desamparase" ],
+			[ "desamparases" ],
+			[ "desamparase" ],
+			[ "desamparásemos" ],
+			[ "desamparaseis", "desamparasen" ],
+			[ "desamparasen" ]
+		],
+		"11" : [
+			[ "desamparare" ],
+			[ "desamparares" ],
+			[ "desamparare" ],
+			[ "desamparáremos" ],
+			[ "desamparareis", "desampararen" ],
+			[ "desampararen" ]
+		],
+		"12" : {
+			"1" : [ "desampara" ],
+			"2" : [ "desampare" ],
+			"3" : [ "desamparemos" ],
+			"4" : [ "desamparad" ],
+			"5" : [ "desamparen" ]
+		}
+	}
+}

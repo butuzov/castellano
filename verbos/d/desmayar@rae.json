@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmayar",
+	"word" : "desmayar",
+	"infinitivo" : "desmayar",
+	"participio" : [ "desmayado" ],
+	"gerundio" : [ "desmayando" ],
+	"tenses" : {
+		"3" : [
+			[ "desmayo" ],
+			[ "desmayas", "desmayás" ],
+			[ "desmaya" ],
+			[ "desmayamos" ],
+			[ "desmayáis", "desmayan" ],
+			[ "desmayan" ]
+		],
+		"4" : [
+			[ "desmayé" ],
+			[ "desmayaste" ],
+			[ "desmayó" ],
+			[ "desmayamos" ],
+			[ "desmayasteis", "desmayaron" ],
+			[ "desmayaron" ]
+		],
+		"5" : [
+			[ "desmayaba" ],
+			[ "desmayabas" ],
+			[ "desmayaba" ],
+			[ "desmayábamos" ],
+			[ "desmayabais", "desmayaban" ],
+			[ "desmayaban" ]
+		],
+		"6" : [
+			[ "desmayaría" ],
+			[ "desmayarías" ],
+			[ "desmayaría" ],
+			[ "desmayaríamos" ],
+			[ "desmayaríais", "desmayarían" ],
+			[ "desmayarían" ]
+		],
+		"7" : [
+			[ "desmayaré" ],
+			[ "desmayarás" ],
+			[ "desmayará" ],
+			[ "desmayaremos" ],
+			[ "desmayaréis", "desmayarán" ],
+			[ "desmayarán" ]
+		],
+		"8" : [
+			[ "desmaye" ],
+			[ "desmayes" ],
+			[ "desmaye" ],
+			[ "desmayemos" ],
+			[ "desmayéis", "desmayen" ],
+			[ "desmayen" ]
+		],
+		"9" : [
+			[ "desmayara" ],
+			[ "desmayaras" ],
+			[ "desmayara" ],
+			[ "desmayáramos" ],
+			[ "desmayarais", "desmayaran" ],
+			[ "desmayaran" ]
+		],
+		"10" : [
+			[ "desmayase" ],
+			[ "desmayases" ],
+			[ "desmayase" ],
+			[ "desmayásemos" ],
+			[ "desmayaseis", "desmayasen" ],
+			[ "desmayasen" ]
+		],
+		"11" : [
+			[ "desmayare" ],
+			[ "desmayares" ],
+			[ "desmayare" ],
+			[ "desmayáremos" ],
+			[ "desmayareis", "desmayaren" ],
+			[ "desmayaren" ]
+		],
+		"12" : {
+			"1" : [ "desmaya" ],
+			"2" : [ "desmaye" ],
+			"3" : [ "desmayemos" ],
+			"4" : [ "desmayad" ],
+			"5" : [ "desmayen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=diluir",
+	"word" : "diluir",
+	"infinitivo" : "diluir",
+	"participio" : [ "diluido" ],
+	"gerundio" : [ "diluyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "diluyo" ],
+			[ "diluyes", "diluís" ],
+			[ "diluye" ],
+			[ "diluimos" ],
+			[ "diluís", "diluyen" ],
+			[ "diluyen" ]
+		],
+		"4" : [
+			[ "diluí" ],
+			[ "diluiste" ],
+			[ "diluyó" ],
+			[ "diluimos" ],
+			[ "diluisteis", "diluyeron" ],
+			[ "diluyeron" ]
+		],
+		"5" : [
+			[ "diluía" ],
+			[ "diluías" ],
+			[ "diluía" ],
+			[ "diluíamos" ],
+			[ "diluíais", "diluían" ],
+			[ "diluían" ]
+		],
+		"6" : [
+			[ "diluiría" ],
+			[ "diluirías" ],
+			[ "diluiría" ],
+			[ "diluiríamos" ],
+			[ "diluiríais", "diluirían" ],
+			[ "diluirían" ]
+		],
+		"7" : [
+			[ "diluiré" ],
+			[ "diluirás" ],
+			[ "diluirá" ],
+			[ "diluiremos" ],
+			[ "diluiréis", "diluirán" ],
+			[ "diluirán" ]
+		],
+		"8" : [
+			[ "diluya" ],
+			[ "diluyas" ],
+			[ "diluya" ],
+			[ "diluyamos" ],
+			[ "diluyáis", "diluyan" ],
+			[ "diluyan" ]
+		],
+		"9" : [
+			[ "diluyera" ],
+			[ "diluyeras" ],
+			[ "diluyera" ],
+			[ "diluyéramos" ],
+			[ "diluyerais", "diluyeran" ],
+			[ "diluyeran" ]
+		],
+		"10" : [
+			[ "diluyese" ],
+			[ "diluyeses" ],
+			[ "diluyese" ],
+			[ "diluyésemos" ],
+			[ "diluyeseis", "diluyesen" ],
+			[ "diluyesen" ]
+		],
+		"11" : [
+			[ "diluyere" ],
+			[ "diluyeres" ],
+			[ "diluyere" ],
+			[ "diluyéremos" ],
+			[ "diluyereis", "diluyeren" ],
+			[ "diluyeren" ]
+		],
+		"12" : {
+			"1" : [ "diluye" ],
+			"2" : [ "diluya" ],
+			"3" : [ "diluyamos" ],
+			"4" : [ "diluid" ],
+			"5" : [ "diluyan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fortalecer",
+	"word" : "fortalecer",
+	"infinitivo" : "fortalecer",
+	"participio" : [ "fortalecido" ],
+	"gerundio" : [ "fortaleciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "fortalezco" ],
+			[ "fortaleces", "fortalecés" ],
+			[ "fortalece" ],
+			[ "fortalecemos" ],
+			[ "fortalecéis", "fortalecen" ],
+			[ "fortalecen" ]
+		],
+		"4" : [
+			[ "fortalecí" ],
+			[ "fortaleciste" ],
+			[ "fortaleció" ],
+			[ "fortalecimos" ],
+			[ "fortalecisteis", "fortalecieron" ],
+			[ "fortalecieron" ]
+		],
+		"5" : [
+			[ "fortalecía" ],
+			[ "fortalecías" ],
+			[ "fortalecía" ],
+			[ "fortalecíamos" ],
+			[ "fortalecíais", "fortalecían" ],
+			[ "fortalecían" ]
+		],
+		"6" : [
+			[ "fortalecería" ],
+			[ "fortalecerías" ],
+			[ "fortalecería" ],
+			[ "fortaleceríamos" ],
+			[ "fortaleceríais", "fortalecerían" ],
+			[ "fortalecerían" ]
+		],
+		"7" : [
+			[ "fortaleceré" ],
+			[ "fortalecerás" ],
+			[ "fortalecerá" ],
+			[ "fortaleceremos" ],
+			[ "fortaleceréis", "fortalecerán" ],
+			[ "fortalecerán" ]
+		],
+		"8" : [
+			[ "fortalezca" ],
+			[ "fortalezcas" ],
+			[ "fortalezca" ],
+			[ "fortalezcamos" ],
+			[ "fortalezcáis", "fortalezcan" ],
+			[ "fortalezcan" ]
+		],
+		"9" : [
+			[ "fortaleciera" ],
+			[ "fortalecieras" ],
+			[ "fortaleciera" ],
+			[ "fortaleciéramos" ],
+			[ "fortalecierais", "fortalecieran" ],
+			[ "fortalecieran" ]
+		],
+		"10" : [
+			[ "fortaleciese" ],
+			[ "fortalecieses" ],
+			[ "fortaleciese" ],
+			[ "fortaleciésemos" ],
+			[ "fortalecieseis", "fortaleciesen" ],
+			[ "fortaleciesen" ]
+		],
+		"11" : [
+			[ "fortaleciere" ],
+			[ "fortalecieres" ],
+			[ "fortaleciere" ],
+			[ "fortaleciéremos" ],
+			[ "fortaleciereis", "fortalecieren" ],
+			[ "fortalecieren" ]
+		],
+		"12" : {
+			"1" : [ "fortalece" ],
+			"2" : [ "fortalezca" ],
+			"3" : [ "fortalezcamos" ],
+			"4" : [ "fortaleced" ],
+			"5" : [ "fortalezcan" ]
+		}
+	}
+}

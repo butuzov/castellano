@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dentar",
+	"word" : "dentar",
+	"infinitivo" : "dentar",
+	"participio" : [ "dentado" ],
+	"gerundio" : [ "dentando" ],
+	"tenses" : {
+		"3" : [
+			[ "diento" ],
+			[ "dientas", "dentás" ],
+			[ "dienta" ],
+			[ "dentamos" ],
+			[ "dentáis", "dientan" ],
+			[ "dientan" ]
+		],
+		"4" : [
+			[ "denté" ],
+			[ "dentaste" ],
+			[ "dentó" ],
+			[ "dentamos" ],
+			[ "dentasteis", "dentaron" ],
+			[ "dentaron" ]
+		],
+		"5" : [
+			[ "dentaba" ],
+			[ "dentabas" ],
+			[ "dentaba" ],
+			[ "dentábamos" ],
+			[ "dentabais", "dentaban" ],
+			[ "dentaban" ]
+		],
+		"6" : [
+			[ "dentaría" ],
+			[ "dentarías" ],
+			[ "dentaría" ],
+			[ "dentaríamos" ],
+			[ "dentaríais", "dentarían" ],
+			[ "dentarían" ]
+		],
+		"7" : [
+			[ "dentaré" ],
+			[ "dentarás" ],
+			[ "dentará" ],
+			[ "dentaremos" ],
+			[ "dentaréis", "dentarán" ],
+			[ "dentarán" ]
+		],
+		"8" : [
+			[ "diente" ],
+			[ "dientes" ],
+			[ "diente" ],
+			[ "dentemos" ],
+			[ "dentéis", "dienten" ],
+			[ "dienten" ]
+		],
+		"9" : [
+			[ "dentara" ],
+			[ "dentaras" ],
+			[ "dentara" ],
+			[ "dentáramos" ],
+			[ "dentarais", "dentaran" ],
+			[ "dentaran" ]
+		],
+		"10" : [
+			[ "dentase" ],
+			[ "dentases" ],
+			[ "dentase" ],
+			[ "dentásemos" ],
+			[ "dentaseis", "dentasen" ],
+			[ "dentasen" ]
+		],
+		"11" : [
+			[ "dentare" ],
+			[ "dentares" ],
+			[ "dentare" ],
+			[ "dentáremos" ],
+			[ "dentareis", "dentaren" ],
+			[ "dentaren" ]
+		],
+		"12" : {
+			"1" : [ "dienta" ],
+			"2" : [ "diente" ],
+			"3" : [ "dentemos" ],
+			"4" : [ "dentad" ],
+			"5" : [ "dienten" ]
+		}
+	}
+}

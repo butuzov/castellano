@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fufar",
+	"word" : "fufar",
+	"infinitivo" : "fufar",
+	"participio" : [ "fufado" ],
+	"gerundio" : [ "fufando" ],
+	"tenses" : {
+		"3" : [
+			[ "fufo" ],
+			[ "fufas", "fufás" ],
+			[ "fufa" ],
+			[ "fufamos" ],
+			[ "fufáis", "fufan" ],
+			[ "fufan" ]
+		],
+		"4" : [
+			[ "fufé" ],
+			[ "fufaste" ],
+			[ "fufó" ],
+			[ "fufamos" ],
+			[ "fufasteis", "fufaron" ],
+			[ "fufaron" ]
+		],
+		"5" : [
+			[ "fufaba" ],
+			[ "fufabas" ],
+			[ "fufaba" ],
+			[ "fufábamos" ],
+			[ "fufabais", "fufaban" ],
+			[ "fufaban" ]
+		],
+		"6" : [
+			[ "fufaría" ],
+			[ "fufarías" ],
+			[ "fufaría" ],
+			[ "fufaríamos" ],
+			[ "fufaríais", "fufarían" ],
+			[ "fufarían" ]
+		],
+		"7" : [
+			[ "fufaré" ],
+			[ "fufarás" ],
+			[ "fufará" ],
+			[ "fufaremos" ],
+			[ "fufaréis", "fufarán" ],
+			[ "fufarán" ]
+		],
+		"8" : [
+			[ "fufe" ],
+			[ "fufes" ],
+			[ "fufe" ],
+			[ "fufemos" ],
+			[ "fuféis", "fufen" ],
+			[ "fufen" ]
+		],
+		"9" : [
+			[ "fufara" ],
+			[ "fufaras" ],
+			[ "fufara" ],
+			[ "fufáramos" ],
+			[ "fufarais", "fufaran" ],
+			[ "fufaran" ]
+		],
+		"10" : [
+			[ "fufase" ],
+			[ "fufases" ],
+			[ "fufase" ],
+			[ "fufásemos" ],
+			[ "fufaseis", "fufasen" ],
+			[ "fufasen" ]
+		],
+		"11" : [
+			[ "fufare" ],
+			[ "fufares" ],
+			[ "fufare" ],
+			[ "fufáremos" ],
+			[ "fufareis", "fufaren" ],
+			[ "fufaren" ]
+		],
+		"12" : {
+			"1" : [ "fufa" ],
+			"2" : [ "fufe" ],
+			"3" : [ "fufemos" ],
+			"4" : [ "fufad" ],
+			"5" : [ "fufen" ]
+		}
+	}
+}

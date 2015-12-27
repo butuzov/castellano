@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dormir",
+	"word" : "dormir",
+	"infinitivo" : "dormir",
+	"participio" : [ "dormido" ],
+	"gerundio" : [ "durmiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "duermo" ],
+			[ "duermes", "dormís" ],
+			[ "duerme" ],
+			[ "dormimos" ],
+			[ "dormís", "duermen" ],
+			[ "duermen" ]
+		],
+		"4" : [
+			[ "dormí" ],
+			[ "dormiste" ],
+			[ "durmió" ],
+			[ "dormimos" ],
+			[ "dormisteis", "durmieron" ],
+			[ "durmieron" ]
+		],
+		"5" : [
+			[ "dormía" ],
+			[ "dormías" ],
+			[ "dormía" ],
+			[ "dormíamos" ],
+			[ "dormíais", "dormían" ],
+			[ "dormían" ]
+		],
+		"6" : [
+			[ "dormiría" ],
+			[ "dormirías" ],
+			[ "dormiría" ],
+			[ "dormiríamos" ],
+			[ "dormiríais", "dormirían" ],
+			[ "dormirían" ]
+		],
+		"7" : [
+			[ "dormiré" ],
+			[ "dormirás" ],
+			[ "dormirá" ],
+			[ "dormiremos" ],
+			[ "dormiréis", "dormirán" ],
+			[ "dormirán" ]
+		],
+		"8" : [
+			[ "duerma" ],
+			[ "duermas" ],
+			[ "duerma" ],
+			[ "durmamos" ],
+			[ "durmáis", "duerman" ],
+			[ "duerman" ]
+		],
+		"9" : [
+			[ "durmiera" ],
+			[ "durmieras" ],
+			[ "durmiera" ],
+			[ "durmiéramos" ],
+			[ "durmierais", "durmieran" ],
+			[ "durmieran" ]
+		],
+		"10" : [
+			[ "durmiese" ],
+			[ "durmieses" ],
+			[ "durmiese" ],
+			[ "durmiésemos" ],
+			[ "durmieseis", "durmiesen" ],
+			[ "durmiesen" ]
+		],
+		"11" : [
+			[ "durmiere" ],
+			[ "durmieres" ],
+			[ "durmiere" ],
+			[ "durmiéremos" ],
+			[ "durmiereis", "durmieren" ],
+			[ "durmieren" ]
+		],
+		"12" : {
+			"1" : [ "duerme" ],
+			"2" : [ "duerma" ],
+			"3" : [ "durmamos" ],
+			"4" : [ "dormid" ],
+			"5" : [ "duerman" ]
+		}
+	}
+}

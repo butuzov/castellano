@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anexionar",
+	"word" : "anexionar",
+	"infinitivo" : "anexionar",
+	"participio" : [ "anexionado" ],
+	"gerundio" : [ "anexionando" ],
+	"tenses" : {
+		"3" : [
+			[ "anexiono" ],
+			[ "anexionas", "anexionás" ],
+			[ "anexiona" ],
+			[ "anexionamos" ],
+			[ "anexionáis", "anexionan" ],
+			[ "anexionan" ]
+		],
+		"4" : [
+			[ "anexioné" ],
+			[ "anexionaste" ],
+			[ "anexionó" ],
+			[ "anexionamos" ],
+			[ "anexionasteis", "anexionaron" ],
+			[ "anexionaron" ]
+		],
+		"5" : [
+			[ "anexionaba" ],
+			[ "anexionabas" ],
+			[ "anexionaba" ],
+			[ "anexionábamos" ],
+			[ "anexionabais", "anexionaban" ],
+			[ "anexionaban" ]
+		],
+		"6" : [
+			[ "anexionaría" ],
+			[ "anexionarías" ],
+			[ "anexionaría" ],
+			[ "anexionaríamos" ],
+			[ "anexionaríais", "anexionarían" ],
+			[ "anexionarían" ]
+		],
+		"7" : [
+			[ "anexionaré" ],
+			[ "anexionarás" ],
+			[ "anexionará" ],
+			[ "anexionaremos" ],
+			[ "anexionaréis", "anexionarán" ],
+			[ "anexionarán" ]
+		],
+		"8" : [
+			[ "anexione" ],
+			[ "anexiones" ],
+			[ "anexione" ],
+			[ "anexionemos" ],
+			[ "anexionéis", "anexionen" ],
+			[ "anexionen" ]
+		],
+		"9" : [
+			[ "anexionara" ],
+			[ "anexionaras" ],
+			[ "anexionara" ],
+			[ "anexionáramos" ],
+			[ "anexionarais", "anexionaran" ],
+			[ "anexionaran" ]
+		],
+		"10" : [
+			[ "anexionase" ],
+			[ "anexionases" ],
+			[ "anexionase" ],
+			[ "anexionásemos" ],
+			[ "anexionaseis", "anexionasen" ],
+			[ "anexionasen" ]
+		],
+		"11" : [
+			[ "anexionare" ],
+			[ "anexionares" ],
+			[ "anexionare" ],
+			[ "anexionáremos" ],
+			[ "anexionareis", "anexionaren" ],
+			[ "anexionaren" ]
+		],
+		"12" : {
+			"1" : [ "anexiona" ],
+			"2" : [ "anexione" ],
+			"3" : [ "anexionemos" ],
+			"4" : [ "anexionad" ],
+			"5" : [ "anexionen" ]
+		}
+	}
+}

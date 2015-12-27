@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=educir",
+	"word" : "educir",
+	"infinitivo" : "educir",
+	"participio" : [ "educido" ],
+	"gerundio" : [ "educiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "eduzco" ],
+			[ "educes", "educís" ],
+			[ "educe" ],
+			[ "educimos" ],
+			[ "educís", "educen" ],
+			[ "educen" ]
+		],
+		"4" : [
+			[ "eduje" ],
+			[ "edujiste" ],
+			[ "edujo" ],
+			[ "edujimos" ],
+			[ "edujisteis", "edujeron" ],
+			[ "edujeron" ]
+		],
+		"5" : [
+			[ "educía" ],
+			[ "educías" ],
+			[ "educía" ],
+			[ "educíamos" ],
+			[ "educíais", "educían" ],
+			[ "educían" ]
+		],
+		"6" : [
+			[ "educiría" ],
+			[ "educirías" ],
+			[ "educiría" ],
+			[ "educiríamos" ],
+			[ "educiríais", "educirían" ],
+			[ "educirían" ]
+		],
+		"7" : [
+			[ "educiré" ],
+			[ "educirás" ],
+			[ "educirá" ],
+			[ "educiremos" ],
+			[ "educiréis", "educirán" ],
+			[ "educirán" ]
+		],
+		"8" : [
+			[ "eduzca" ],
+			[ "eduzcas" ],
+			[ "eduzca" ],
+			[ "eduzcamos" ],
+			[ "eduzcáis", "eduzcan" ],
+			[ "eduzcan" ]
+		],
+		"9" : [
+			[ "edujera" ],
+			[ "edujeras" ],
+			[ "edujera" ],
+			[ "edujéramos" ],
+			[ "edujerais", "edujeran" ],
+			[ "edujeran" ]
+		],
+		"10" : [
+			[ "edujese" ],
+			[ "edujeses" ],
+			[ "edujese" ],
+			[ "edujésemos" ],
+			[ "edujeseis", "edujesen" ],
+			[ "edujesen" ]
+		],
+		"11" : [
+			[ "edujere" ],
+			[ "edujeres" ],
+			[ "edujere" ],
+			[ "edujéremos" ],
+			[ "edujereis", "edujeren" ],
+			[ "edujeren" ]
+		],
+		"12" : {
+			"1" : [ "educe" ],
+			"2" : [ "eduzca" ],
+			"3" : [ "eduzcamos" ],
+			"4" : [ "educid" ],
+			"5" : [ "eduzcan" ]
+		}
+	}
+}

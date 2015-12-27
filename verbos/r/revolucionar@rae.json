@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=revolucionar",
+	"word" : "revolucionar",
+	"infinitivo" : "revolucionar",
+	"participio" : [ "revolucionado" ],
+	"gerundio" : [ "revolucionando" ],
+	"tenses" : {
+		"3" : [
+			[ "revoluciono" ],
+			[ "revolucionas", "revolucionás" ],
+			[ "revoluciona" ],
+			[ "revolucionamos" ],
+			[ "revolucionáis", "revolucionan" ],
+			[ "revolucionan" ]
+		],
+		"4" : [
+			[ "revolucioné" ],
+			[ "revolucionaste" ],
+			[ "revolucionó" ],
+			[ "revolucionamos" ],
+			[ "revolucionasteis", "revolucionaron" ],
+			[ "revolucionaron" ]
+		],
+		"5" : [
+			[ "revolucionaba" ],
+			[ "revolucionabas" ],
+			[ "revolucionaba" ],
+			[ "revolucionábamos" ],
+			[ "revolucionabais", "revolucionaban" ],
+			[ "revolucionaban" ]
+		],
+		"6" : [
+			[ "revolucionaría" ],
+			[ "revolucionarías" ],
+			[ "revolucionaría" ],
+			[ "revolucionaríamos" ],
+			[ "revolucionaríais", "revolucionarían" ],
+			[ "revolucionarían" ]
+		],
+		"7" : [
+			[ "revolucionaré" ],
+			[ "revolucionarás" ],
+			[ "revolucionará" ],
+			[ "revolucionaremos" ],
+			[ "revolucionaréis", "revolucionarán" ],
+			[ "revolucionarán" ]
+		],
+		"8" : [
+			[ "revolucione" ],
+			[ "revoluciones" ],
+			[ "revolucione" ],
+			[ "revolucionemos" ],
+			[ "revolucionéis", "revolucionen" ],
+			[ "revolucionen" ]
+		],
+		"9" : [
+			[ "revolucionara" ],
+			[ "revolucionaras" ],
+			[ "revolucionara" ],
+			[ "revolucionáramos" ],
+			[ "revolucionarais", "revolucionaran" ],
+			[ "revolucionaran" ]
+		],
+		"10" : [
+			[ "revolucionase" ],
+			[ "revolucionases" ],
+			[ "revolucionase" ],
+			[ "revolucionásemos" ],
+			[ "revolucionaseis", "revolucionasen" ],
+			[ "revolucionasen" ]
+		],
+		"11" : [
+			[ "revolucionare" ],
+			[ "revolucionares" ],
+			[ "revolucionare" ],
+			[ "revolucionáremos" ],
+			[ "revolucionareis", "revolucionaren" ],
+			[ "revolucionaren" ]
+		],
+		"12" : {
+			"1" : [ "revoluciona" ],
+			"2" : [ "revolucione" ],
+			"3" : [ "revolucionemos" ],
+			"4" : [ "revolucionad" ],
+			"5" : [ "revolucionen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empinar",
+	"word" : "empinar",
+	"infinitivo" : "empinar",
+	"participio" : [ "empinado" ],
+	"gerundio" : [ "empinando" ],
+	"tenses" : {
+		"3" : [
+			[ "empino" ],
+			[ "empinas", "empinás" ],
+			[ "empina" ],
+			[ "empinamos" ],
+			[ "empináis", "empinan" ],
+			[ "empinan" ]
+		],
+		"4" : [
+			[ "empiné" ],
+			[ "empinaste" ],
+			[ "empinó" ],
+			[ "empinamos" ],
+			[ "empinasteis", "empinaron" ],
+			[ "empinaron" ]
+		],
+		"5" : [
+			[ "empinaba" ],
+			[ "empinabas" ],
+			[ "empinaba" ],
+			[ "empinábamos" ],
+			[ "empinabais", "empinaban" ],
+			[ "empinaban" ]
+		],
+		"6" : [
+			[ "empinaría" ],
+			[ "empinarías" ],
+			[ "empinaría" ],
+			[ "empinaríamos" ],
+			[ "empinaríais", "empinarían" ],
+			[ "empinarían" ]
+		],
+		"7" : [
+			[ "empinaré" ],
+			[ "empinarás" ],
+			[ "empinará" ],
+			[ "empinaremos" ],
+			[ "empinaréis", "empinarán" ],
+			[ "empinarán" ]
+		],
+		"8" : [
+			[ "empine" ],
+			[ "empines" ],
+			[ "empine" ],
+			[ "empinemos" ],
+			[ "empinéis", "empinen" ],
+			[ "empinen" ]
+		],
+		"9" : [
+			[ "empinara" ],
+			[ "empinaras" ],
+			[ "empinara" ],
+			[ "empináramos" ],
+			[ "empinarais", "empinaran" ],
+			[ "empinaran" ]
+		],
+		"10" : [
+			[ "empinase" ],
+			[ "empinases" ],
+			[ "empinase" ],
+			[ "empinásemos" ],
+			[ "empinaseis", "empinasen" ],
+			[ "empinasen" ]
+		],
+		"11" : [
+			[ "empinare" ],
+			[ "empinares" ],
+			[ "empinare" ],
+			[ "empináremos" ],
+			[ "empinareis", "empinaren" ],
+			[ "empinaren" ]
+		],
+		"12" : {
+			"1" : [ "empina" ],
+			"2" : [ "empine" ],
+			"3" : [ "empinemos" ],
+			"4" : [ "empinad" ],
+			"5" : [ "empinen" ]
+		}
+	}
+}

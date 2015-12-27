@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=coser",
+	"word" : "coser",
+	"infinitivo" : "coser",
+	"participio" : [ "cosido" ],
+	"gerundio" : [ "cosiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "coso" ],
+			[ "coses", "cosés" ],
+			[ "cose" ],
+			[ "cosemos" ],
+			[ "coséis", "cosen" ],
+			[ "cosen" ]
+		],
+		"4" : [
+			[ "cosí" ],
+			[ "cosiste" ],
+			[ "cosió" ],
+			[ "cosimos" ],
+			[ "cosisteis", "cosieron" ],
+			[ "cosieron" ]
+		],
+		"5" : [
+			[ "cosía" ],
+			[ "cosías" ],
+			[ "cosía" ],
+			[ "cosíamos" ],
+			[ "cosíais", "cosían" ],
+			[ "cosían" ]
+		],
+		"6" : [
+			[ "cosería" ],
+			[ "coserías" ],
+			[ "cosería" ],
+			[ "coseríamos" ],
+			[ "coseríais", "coserían" ],
+			[ "coserían" ]
+		],
+		"7" : [
+			[ "coseré" ],
+			[ "coserás" ],
+			[ "coserá" ],
+			[ "coseremos" ],
+			[ "coseréis", "coserán" ],
+			[ "coserán" ]
+		],
+		"8" : [
+			[ "cosa" ],
+			[ "cosas" ],
+			[ "cosa" ],
+			[ "cosamos" ],
+			[ "cosáis", "cosan" ],
+			[ "cosan" ]
+		],
+		"9" : [
+			[ "cosiera" ],
+			[ "cosieras" ],
+			[ "cosiera" ],
+			[ "cosiéramos" ],
+			[ "cosierais", "cosieran" ],
+			[ "cosieran" ]
+		],
+		"10" : [
+			[ "cosiese" ],
+			[ "cosieses" ],
+			[ "cosiese" ],
+			[ "cosiésemos" ],
+			[ "cosieseis", "cosiesen" ],
+			[ "cosiesen" ]
+		],
+		"11" : [
+			[ "cosiere" ],
+			[ "cosieres" ],
+			[ "cosiere" ],
+			[ "cosiéremos" ],
+			[ "cosiereis", "cosieren" ],
+			[ "cosieren" ]
+		],
+		"12" : {
+			"1" : [ "cose" ],
+			"2" : [ "cosa" ],
+			"3" : [ "cosamos" ],
+			"4" : [ "cosed" ],
+			"5" : [ "cosan" ]
+		}
+	}
+}

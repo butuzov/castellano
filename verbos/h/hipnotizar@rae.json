@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hipnotizar",
+	"word" : "hipnotizar",
+	"infinitivo" : "hipnotizar",
+	"participio" : [ "hipnotizado" ],
+	"gerundio" : [ "hipnotizando" ],
+	"tenses" : {
+		"3" : [
+			[ "hipnotizo" ],
+			[ "hipnotizas", "hipnotizás" ],
+			[ "hipnotiza" ],
+			[ "hipnotizamos" ],
+			[ "hipnotizáis", "hipnotizan" ],
+			[ "hipnotizan" ]
+		],
+		"4" : [
+			[ "hipnoticé" ],
+			[ "hipnotizaste" ],
+			[ "hipnotizó" ],
+			[ "hipnotizamos" ],
+			[ "hipnotizasteis", "hipnotizaron" ],
+			[ "hipnotizaron" ]
+		],
+		"5" : [
+			[ "hipnotizaba" ],
+			[ "hipnotizabas" ],
+			[ "hipnotizaba" ],
+			[ "hipnotizábamos" ],
+			[ "hipnotizabais", "hipnotizaban" ],
+			[ "hipnotizaban" ]
+		],
+		"6" : [
+			[ "hipnotizaría" ],
+			[ "hipnotizarías" ],
+			[ "hipnotizaría" ],
+			[ "hipnotizaríamos" ],
+			[ "hipnotizaríais", "hipnotizarían" ],
+			[ "hipnotizarían" ]
+		],
+		"7" : [
+			[ "hipnotizaré" ],
+			[ "hipnotizarás" ],
+			[ "hipnotizará" ],
+			[ "hipnotizaremos" ],
+			[ "hipnotizaréis", "hipnotizarán" ],
+			[ "hipnotizarán" ]
+		],
+		"8" : [
+			[ "hipnotice" ],
+			[ "hipnotices" ],
+			[ "hipnotice" ],
+			[ "hipnoticemos" ],
+			[ "hipnoticéis", "hipnoticen" ],
+			[ "hipnoticen" ]
+		],
+		"9" : [
+			[ "hipnotizara" ],
+			[ "hipnotizaras" ],
+			[ "hipnotizara" ],
+			[ "hipnotizáramos" ],
+			[ "hipnotizarais", "hipnotizaran" ],
+			[ "hipnotizaran" ]
+		],
+		"10" : [
+			[ "hipnotizase" ],
+			[ "hipnotizases" ],
+			[ "hipnotizase" ],
+			[ "hipnotizásemos" ],
+			[ "hipnotizaseis", "hipnotizasen" ],
+			[ "hipnotizasen" ]
+		],
+		"11" : [
+			[ "hipnotizare" ],
+			[ "hipnotizares" ],
+			[ "hipnotizare" ],
+			[ "hipnotizáremos" ],
+			[ "hipnotizareis", "hipnotizaren" ],
+			[ "hipnotizaren" ]
+		],
+		"12" : {
+			"1" : [ "hipnotiza" ],
+			"2" : [ "hipnotice" ],
+			"3" : [ "hipnoticemos" ],
+			"4" : [ "hipnotizad" ],
+			"5" : [ "hipnoticen" ]
+		}
+	}
+}

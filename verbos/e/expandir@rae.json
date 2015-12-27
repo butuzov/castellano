@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=expandir",
+	"word" : "expandir",
+	"infinitivo" : "expandir",
+	"participio" : [ "expandido" ],
+	"gerundio" : [ "expandiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "expando" ],
+			[ "expandes", "expandís" ],
+			[ "expande" ],
+			[ "expandimos" ],
+			[ "expandís", "expanden" ],
+			[ "expanden" ]
+		],
+		"4" : [
+			[ "expandí" ],
+			[ "expandiste" ],
+			[ "expandió" ],
+			[ "expandimos" ],
+			[ "expandisteis", "expandieron" ],
+			[ "expandieron" ]
+		],
+		"5" : [
+			[ "expandía" ],
+			[ "expandías" ],
+			[ "expandía" ],
+			[ "expandíamos" ],
+			[ "expandíais", "expandían" ],
+			[ "expandían" ]
+		],
+		"6" : [
+			[ "expandiría" ],
+			[ "expandirías" ],
+			[ "expandiría" ],
+			[ "expandiríamos" ],
+			[ "expandiríais", "expandirían" ],
+			[ "expandirían" ]
+		],
+		"7" : [
+			[ "expandiré" ],
+			[ "expandirás" ],
+			[ "expandirá" ],
+			[ "expandiremos" ],
+			[ "expandiréis", "expandirán" ],
+			[ "expandirán" ]
+		],
+		"8" : [
+			[ "expanda" ],
+			[ "expandas" ],
+			[ "expanda" ],
+			[ "expandamos" ],
+			[ "expandáis", "expandan" ],
+			[ "expandan" ]
+		],
+		"9" : [
+			[ "expandiera" ],
+			[ "expandieras" ],
+			[ "expandiera" ],
+			[ "expandiéramos" ],
+			[ "expandierais", "expandieran" ],
+			[ "expandieran" ]
+		],
+		"10" : [
+			[ "expandiese" ],
+			[ "expandieses" ],
+			[ "expandiese" ],
+			[ "expandiésemos" ],
+			[ "expandieseis", "expandiesen" ],
+			[ "expandiesen" ]
+		],
+		"11" : [
+			[ "expandiere" ],
+			[ "expandieres" ],
+			[ "expandiere" ],
+			[ "expandiéremos" ],
+			[ "expandiereis", "expandieren" ],
+			[ "expandieren" ]
+		],
+		"12" : {
+			"1" : [ "expande" ],
+			"2" : [ "expanda" ],
+			"3" : [ "expandamos" ],
+			"4" : [ "expandid" ],
+			"5" : [ "expandan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atestar",
+	"word" : "atestar",
+	"infinitivo" : "atestar",
+	"participio" : [ "atestado" ],
+	"gerundio" : [ "atestando" ],
+	"tenses" : {
+		"3" : [
+			[ "atiesto" ],
+			[ "atiestas", "atestás" ],
+			[ "atiesta" ],
+			[ "atestamos" ],
+			[ "atestáis", "atiestan" ],
+			[ "atiestan" ]
+		],
+		"4" : [
+			[ "atesté" ],
+			[ "atestaste" ],
+			[ "atestó" ],
+			[ "atestamos" ],
+			[ "atestasteis", "atestaron" ],
+			[ "atestaron" ]
+		],
+		"5" : [
+			[ "atestaba" ],
+			[ "atestabas" ],
+			[ "atestaba" ],
+			[ "atestábamos" ],
+			[ "atestabais", "atestaban" ],
+			[ "atestaban" ]
+		],
+		"6" : [
+			[ "atestaría" ],
+			[ "atestarías" ],
+			[ "atestaría" ],
+			[ "atestaríamos" ],
+			[ "atestaríais", "atestarían" ],
+			[ "atestarían" ]
+		],
+		"7" : [
+			[ "atestaré" ],
+			[ "atestarás" ],
+			[ "atestará" ],
+			[ "atestaremos" ],
+			[ "atestaréis", "atestarán" ],
+			[ "atestarán" ]
+		],
+		"8" : [
+			[ "atieste" ],
+			[ "atiestes" ],
+			[ "atieste" ],
+			[ "atestemos" ],
+			[ "atestéis", "atiesten" ],
+			[ "atiesten" ]
+		],
+		"9" : [
+			[ "atestara" ],
+			[ "atestaras" ],
+			[ "atestara" ],
+			[ "atestáramos" ],
+			[ "atestarais", "atestaran" ],
+			[ "atestaran" ]
+		],
+		"10" : [
+			[ "atestase" ],
+			[ "atestases" ],
+			[ "atestase" ],
+			[ "atestásemos" ],
+			[ "atestaseis", "atestasen" ],
+			[ "atestasen" ]
+		],
+		"11" : [
+			[ "atestare" ],
+			[ "atestares" ],
+			[ "atestare" ],
+			[ "atestáremos" ],
+			[ "atestareis", "atestaren" ],
+			[ "atestaren" ]
+		],
+		"12" : {
+			"1" : [ "atiesta" ],
+			"2" : [ "atieste" ],
+			"3" : [ "atestemos" ],
+			"4" : [ "atestad" ],
+			"5" : [ "atiesten" ]
+		}
+	}
+}

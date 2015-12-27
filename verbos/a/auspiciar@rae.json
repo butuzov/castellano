@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=auspiciar",
+	"word" : "auspiciar",
+	"infinitivo" : "auspiciar",
+	"participio" : [ "auspiciado" ],
+	"gerundio" : [ "auspiciando" ],
+	"tenses" : {
+		"3" : [
+			[ "auspicio" ],
+			[ "auspicias", "auspiciás" ],
+			[ "auspicia" ],
+			[ "auspiciamos" ],
+			[ "auspiciáis", "auspician" ],
+			[ "auspician" ]
+		],
+		"4" : [
+			[ "auspicié" ],
+			[ "auspiciaste" ],
+			[ "auspició" ],
+			[ "auspiciamos" ],
+			[ "auspiciasteis", "auspiciaron" ],
+			[ "auspiciaron" ]
+		],
+		"5" : [
+			[ "auspiciaba" ],
+			[ "auspiciabas" ],
+			[ "auspiciaba" ],
+			[ "auspiciábamos" ],
+			[ "auspiciabais", "auspiciaban" ],
+			[ "auspiciaban" ]
+		],
+		"6" : [
+			[ "auspiciaría" ],
+			[ "auspiciarías" ],
+			[ "auspiciaría" ],
+			[ "auspiciaríamos" ],
+			[ "auspiciaríais", "auspiciarían" ],
+			[ "auspiciarían" ]
+		],
+		"7" : [
+			[ "auspiciaré" ],
+			[ "auspiciarás" ],
+			[ "auspiciará" ],
+			[ "auspiciaremos" ],
+			[ "auspiciaréis", "auspiciarán" ],
+			[ "auspiciarán" ]
+		],
+		"8" : [
+			[ "auspicie" ],
+			[ "auspicies" ],
+			[ "auspicie" ],
+			[ "auspiciemos" ],
+			[ "auspiciéis", "auspicien" ],
+			[ "auspicien" ]
+		],
+		"9" : [
+			[ "auspiciara" ],
+			[ "auspiciaras" ],
+			[ "auspiciara" ],
+			[ "auspiciáramos" ],
+			[ "auspiciarais", "auspiciaran" ],
+			[ "auspiciaran" ]
+		],
+		"10" : [
+			[ "auspiciase" ],
+			[ "auspiciases" ],
+			[ "auspiciase" ],
+			[ "auspiciásemos" ],
+			[ "auspiciaseis", "auspiciasen" ],
+			[ "auspiciasen" ]
+		],
+		"11" : [
+			[ "auspiciare" ],
+			[ "auspiciares" ],
+			[ "auspiciare" ],
+			[ "auspiciáremos" ],
+			[ "auspiciareis", "auspiciaren" ],
+			[ "auspiciaren" ]
+		],
+		"12" : {
+			"1" : [ "auspicia" ],
+			"2" : [ "auspicie" ],
+			"3" : [ "auspiciemos" ],
+			"4" : [ "auspiciad" ],
+			"5" : [ "auspicien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=caler",
+	"word" : "caler",
+	"infinitivo" : "caler",
+	"participio" : [ "calido" ],
+	"gerundio" : [ "caliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "calo" ],
+			[ "cales", "calés" ],
+			[ "cale" ],
+			[ "calemos" ],
+			[ "caléis", "calen" ],
+			[ "calen" ]
+		],
+		"4" : [
+			[ "calí" ],
+			[ "caliste" ],
+			[ "calió" ],
+			[ "calimos" ],
+			[ "calisteis", "calieron" ],
+			[ "calieron" ]
+		],
+		"5" : [
+			[ "calía" ],
+			[ "calías" ],
+			[ "calía" ],
+			[ "calíamos" ],
+			[ "calíais", "calían" ],
+			[ "calían" ]
+		],
+		"6" : [
+			[ "caldría" ],
+			[ "caldrías" ],
+			[ "caldría" ],
+			[ "caldríamos" ],
+			[ "caldríais", "caldrían" ],
+			[ "caldrían" ]
+		],
+		"7" : [
+			[ "caldré" ],
+			[ "caldrás" ],
+			[ "caldrá" ],
+			[ "caldremos" ],
+			[ "caldréis", "caldrán" ],
+			[ "caldrán" ]
+		],
+		"8" : [
+			[ "cala" ],
+			[ "calas" ],
+			[ "cala" ],
+			[ "calamos" ],
+			[ "caláis", "calan" ],
+			[ "calan" ]
+		],
+		"9" : [
+			[ "caliera" ],
+			[ "calieras" ],
+			[ "caliera" ],
+			[ "caliéramos" ],
+			[ "calierais", "calieran" ],
+			[ "calieran" ]
+		],
+		"10" : [
+			[ "caliese" ],
+			[ "calieses" ],
+			[ "caliese" ],
+			[ "caliésemos" ],
+			[ "calieseis", "caliesen" ],
+			[ "caliesen" ]
+		],
+		"11" : [
+			[ "caliere" ],
+			[ "calieres" ],
+			[ "caliere" ],
+			[ "caliéremos" ],
+			[ "caliereis", "calieren" ],
+			[ "calieren" ]
+		],
+		"12" : {
+			"1" : [ "cale" ],
+			"2" : [ "cala" ],
+			"3" : [ "calamos" ],
+			"4" : [ "caled" ],
+			"5" : [ "calan" ]
+		}
+	}
+}

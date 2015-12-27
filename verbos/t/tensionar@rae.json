@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tensionar",
+	"word" : "tensionar",
+	"infinitivo" : "tensionar",
+	"participio" : [ "tensionado" ],
+	"gerundio" : [ "tensionando" ],
+	"tenses" : {
+		"3" : [
+			[ "tensiono" ],
+			[ "tensionas", "tensionás" ],
+			[ "tensiona" ],
+			[ "tensionamos" ],
+			[ "tensionáis", "tensionan" ],
+			[ "tensionan" ]
+		],
+		"4" : [
+			[ "tensioné" ],
+			[ "tensionaste" ],
+			[ "tensionó" ],
+			[ "tensionamos" ],
+			[ "tensionasteis", "tensionaron" ],
+			[ "tensionaron" ]
+		],
+		"5" : [
+			[ "tensionaba" ],
+			[ "tensionabas" ],
+			[ "tensionaba" ],
+			[ "tensionábamos" ],
+			[ "tensionabais", "tensionaban" ],
+			[ "tensionaban" ]
+		],
+		"6" : [
+			[ "tensionaría" ],
+			[ "tensionarías" ],
+			[ "tensionaría" ],
+			[ "tensionaríamos" ],
+			[ "tensionaríais", "tensionarían" ],
+			[ "tensionarían" ]
+		],
+		"7" : [
+			[ "tensionaré" ],
+			[ "tensionarás" ],
+			[ "tensionará" ],
+			[ "tensionaremos" ],
+			[ "tensionaréis", "tensionarán" ],
+			[ "tensionarán" ]
+		],
+		"8" : [
+			[ "tensione" ],
+			[ "tensiones" ],
+			[ "tensione" ],
+			[ "tensionemos" ],
+			[ "tensionéis", "tensionen" ],
+			[ "tensionen" ]
+		],
+		"9" : [
+			[ "tensionara" ],
+			[ "tensionaras" ],
+			[ "tensionara" ],
+			[ "tensionáramos" ],
+			[ "tensionarais", "tensionaran" ],
+			[ "tensionaran" ]
+		],
+		"10" : [
+			[ "tensionase" ],
+			[ "tensionases" ],
+			[ "tensionase" ],
+			[ "tensionásemos" ],
+			[ "tensionaseis", "tensionasen" ],
+			[ "tensionasen" ]
+		],
+		"11" : [
+			[ "tensionare" ],
+			[ "tensionares" ],
+			[ "tensionare" ],
+			[ "tensionáremos" ],
+			[ "tensionareis", "tensionaren" ],
+			[ "tensionaren" ]
+		],
+		"12" : {
+			"1" : [ "tensiona" ],
+			"2" : [ "tensione" ],
+			"3" : [ "tensionemos" ],
+			"4" : [ "tensionad" ],
+			"5" : [ "tensionen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=transar",
+	"word" : "transar",
+	"infinitivo" : "transar",
+	"participio" : [ "transado" ],
+	"gerundio" : [ "transando" ],
+	"tenses" : {
+		"3" : [
+			[ "transo" ],
+			[ "transas", "transás" ],
+			[ "transa" ],
+			[ "transamos" ],
+			[ "transáis", "transan" ],
+			[ "transan" ]
+		],
+		"4" : [
+			[ "transé" ],
+			[ "transaste" ],
+			[ "transó" ],
+			[ "transamos" ],
+			[ "transasteis", "transaron" ],
+			[ "transaron" ]
+		],
+		"5" : [
+			[ "transaba" ],
+			[ "transabas" ],
+			[ "transaba" ],
+			[ "transábamos" ],
+			[ "transabais", "transaban" ],
+			[ "transaban" ]
+		],
+		"6" : [
+			[ "transaría" ],
+			[ "transarías" ],
+			[ "transaría" ],
+			[ "transaríamos" ],
+			[ "transaríais", "transarían" ],
+			[ "transarían" ]
+		],
+		"7" : [
+			[ "transaré" ],
+			[ "transarás" ],
+			[ "transará" ],
+			[ "transaremos" ],
+			[ "transaréis", "transarán" ],
+			[ "transarán" ]
+		],
+		"8" : [
+			[ "transe" ],
+			[ "transes" ],
+			[ "transe" ],
+			[ "transemos" ],
+			[ "transéis", "transen" ],
+			[ "transen" ]
+		],
+		"9" : [
+			[ "transara" ],
+			[ "transaras" ],
+			[ "transara" ],
+			[ "transáramos" ],
+			[ "transarais", "transaran" ],
+			[ "transaran" ]
+		],
+		"10" : [
+			[ "transase" ],
+			[ "transases" ],
+			[ "transase" ],
+			[ "transásemos" ],
+			[ "transaseis", "transasen" ],
+			[ "transasen" ]
+		],
+		"11" : [
+			[ "transare" ],
+			[ "transares" ],
+			[ "transare" ],
+			[ "transáremos" ],
+			[ "transareis", "transaren" ],
+			[ "transaren" ]
+		],
+		"12" : {
+			"1" : [ "transa" ],
+			"2" : [ "transe" ],
+			"3" : [ "transemos" ],
+			"4" : [ "transad" ],
+			"5" : [ "transen" ]
+		}
+	}
+}

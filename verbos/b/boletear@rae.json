@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=boletear",
+	"word" : "boletear",
+	"infinitivo" : "boletear",
+	"participio" : [ "boleteado" ],
+	"gerundio" : [ "boleteando" ],
+	"tenses" : {
+		"3" : [
+			[ "boleteo" ],
+			[ "boleteas", "boleteás" ],
+			[ "boletea" ],
+			[ "boleteamos" ],
+			[ "boleteáis", "boletean" ],
+			[ "boletean" ]
+		],
+		"4" : [
+			[ "boleteé" ],
+			[ "boleteaste" ],
+			[ "boleteó" ],
+			[ "boleteamos" ],
+			[ "boleteasteis", "boletearon" ],
+			[ "boletearon" ]
+		],
+		"5" : [
+			[ "boleteaba" ],
+			[ "boleteabas" ],
+			[ "boleteaba" ],
+			[ "boleteábamos" ],
+			[ "boleteabais", "boleteaban" ],
+			[ "boleteaban" ]
+		],
+		"6" : [
+			[ "boletearía" ],
+			[ "boletearías" ],
+			[ "boletearía" ],
+			[ "boletearíamos" ],
+			[ "boletearíais", "boletearían" ],
+			[ "boletearían" ]
+		],
+		"7" : [
+			[ "boletearé" ],
+			[ "boletearás" ],
+			[ "boleteará" ],
+			[ "boletearemos" ],
+			[ "boletearéis", "boletearán" ],
+			[ "boletearán" ]
+		],
+		"8" : [
+			[ "boletee" ],
+			[ "boletees" ],
+			[ "boletee" ],
+			[ "boleteemos" ],
+			[ "boleteéis", "boleteen" ],
+			[ "boleteen" ]
+		],
+		"9" : [
+			[ "boleteara" ],
+			[ "boletearas" ],
+			[ "boleteara" ],
+			[ "boleteáramos" ],
+			[ "boletearais", "boletearan" ],
+			[ "boletearan" ]
+		],
+		"10" : [
+			[ "boletease" ],
+			[ "boleteases" ],
+			[ "boletease" ],
+			[ "boleteásemos" ],
+			[ "boleteaseis", "boleteasen" ],
+			[ "boleteasen" ]
+		],
+		"11" : [
+			[ "boleteare" ],
+			[ "boleteares" ],
+			[ "boleteare" ],
+			[ "boleteáremos" ],
+			[ "boleteareis", "boletearen" ],
+			[ "boletearen" ]
+		],
+		"12" : {
+			"1" : [ "boletea" ],
+			"2" : [ "boletee" ],
+			"3" : [ "boleteemos" ],
+			"4" : [ "boletead" ],
+			"5" : [ "boleteen" ]
+		}
+	}
+}

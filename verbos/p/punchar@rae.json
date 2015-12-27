@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=punchar",
+	"word" : "punchar",
+	"infinitivo" : "punchar",
+	"participio" : [ "punchado" ],
+	"gerundio" : [ "punchando" ],
+	"tenses" : {
+		"3" : [
+			[ "puncho" ],
+			[ "punchas", "punchás" ],
+			[ "puncha" ],
+			[ "punchamos" ],
+			[ "puncháis", "punchan" ],
+			[ "punchan" ]
+		],
+		"4" : [
+			[ "punché" ],
+			[ "punchaste" ],
+			[ "punchó" ],
+			[ "punchamos" ],
+			[ "punchasteis", "puncharon" ],
+			[ "puncharon" ]
+		],
+		"5" : [
+			[ "punchaba" ],
+			[ "punchabas" ],
+			[ "punchaba" ],
+			[ "punchábamos" ],
+			[ "punchabais", "punchaban" ],
+			[ "punchaban" ]
+		],
+		"6" : [
+			[ "puncharía" ],
+			[ "puncharías" ],
+			[ "puncharía" ],
+			[ "puncharíamos" ],
+			[ "puncharíais", "puncharían" ],
+			[ "puncharían" ]
+		],
+		"7" : [
+			[ "puncharé" ],
+			[ "puncharás" ],
+			[ "punchará" ],
+			[ "puncharemos" ],
+			[ "puncharéis", "puncharán" ],
+			[ "puncharán" ]
+		],
+		"8" : [
+			[ "punche" ],
+			[ "punches" ],
+			[ "punche" ],
+			[ "punchemos" ],
+			[ "punchéis", "punchen" ],
+			[ "punchen" ]
+		],
+		"9" : [
+			[ "punchara" ],
+			[ "puncharas" ],
+			[ "punchara" ],
+			[ "puncháramos" ],
+			[ "puncharais", "puncharan" ],
+			[ "puncharan" ]
+		],
+		"10" : [
+			[ "punchase" ],
+			[ "punchases" ],
+			[ "punchase" ],
+			[ "punchásemos" ],
+			[ "punchaseis", "punchasen" ],
+			[ "punchasen" ]
+		],
+		"11" : [
+			[ "punchare" ],
+			[ "punchares" ],
+			[ "punchare" ],
+			[ "puncháremos" ],
+			[ "punchareis", "puncharen" ],
+			[ "puncharen" ]
+		],
+		"12" : {
+			"1" : [ "puncha" ],
+			"2" : [ "punche" ],
+			"3" : [ "punchemos" ],
+			"4" : [ "punchad" ],
+			"5" : [ "punchen" ]
+		}
+	}
+}

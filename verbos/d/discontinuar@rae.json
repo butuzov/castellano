@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=discontinuar",
+	"word" : "discontinuar",
+	"infinitivo" : "discontinuar",
+	"participio" : [ "discontinuado" ],
+	"gerundio" : [ "discontinuando" ],
+	"tenses" : {
+		"3" : [
+			[ "discontinúo" ],
+			[ "discontinúas", "discontinuás" ],
+			[ "discontinúa" ],
+			[ "discontinuamos" ],
+			[ "discontinuáis", "discontinúan" ],
+			[ "discontinúan" ]
+		],
+		"4" : [
+			[ "discontinué" ],
+			[ "discontinuaste" ],
+			[ "discontinuó" ],
+			[ "discontinuamos" ],
+			[ "discontinuasteis", "discontinuaron" ],
+			[ "discontinuaron" ]
+		],
+		"5" : [
+			[ "discontinuaba" ],
+			[ "discontinuabas" ],
+			[ "discontinuaba" ],
+			[ "discontinuábamos" ],
+			[ "discontinuabais", "discontinuaban" ],
+			[ "discontinuaban" ]
+		],
+		"6" : [
+			[ "discontinuaría" ],
+			[ "discontinuarías" ],
+			[ "discontinuaría" ],
+			[ "discontinuaríamos" ],
+			[ "discontinuaríais", "discontinuarían" ],
+			[ "discontinuarían" ]
+		],
+		"7" : [
+			[ "discontinuaré" ],
+			[ "discontinuarás" ],
+			[ "discontinuará" ],
+			[ "discontinuaremos" ],
+			[ "discontinuaréis", "discontinuarán" ],
+			[ "discontinuarán" ]
+		],
+		"8" : [
+			[ "discontinúe" ],
+			[ "discontinúes" ],
+			[ "discontinúe" ],
+			[ "discontinuemos" ],
+			[ "discontinuéis", "discontinúen" ],
+			[ "discontinúen" ]
+		],
+		"9" : [
+			[ "discontinuara" ],
+			[ "discontinuaras" ],
+			[ "discontinuara" ],
+			[ "discontinuáramos" ],
+			[ "discontinuarais", "discontinuaran" ],
+			[ "discontinuaran" ]
+		],
+		"10" : [
+			[ "discontinuase" ],
+			[ "discontinuases" ],
+			[ "discontinuase" ],
+			[ "discontinuásemos" ],
+			[ "discontinuaseis", "discontinuasen" ],
+			[ "discontinuasen" ]
+		],
+		"11" : [
+			[ "discontinuare" ],
+			[ "discontinuares" ],
+			[ "discontinuare" ],
+			[ "discontinuáremos" ],
+			[ "discontinuareis", "discontinuaren" ],
+			[ "discontinuaren" ]
+		],
+		"12" : {
+			"1" : [ "discontinúa" ],
+			"2" : [ "discontinúe" ],
+			"3" : [ "discontinuemos" ],
+			"4" : [ "discontinuad" ],
+			"5" : [ "discontinúen" ]
+		}
+	}
+}

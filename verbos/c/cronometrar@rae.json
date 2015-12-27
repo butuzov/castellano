@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cronometrar",
+	"word" : "cronometrar",
+	"infinitivo" : "cronometrar",
+	"participio" : [ "cronometrado" ],
+	"gerundio" : [ "cronometrando" ],
+	"tenses" : {
+		"3" : [
+			[ "cronometro" ],
+			[ "cronometras", "cronometrás" ],
+			[ "cronometra" ],
+			[ "cronometramos" ],
+			[ "cronometráis", "cronometran" ],
+			[ "cronometran" ]
+		],
+		"4" : [
+			[ "cronometré" ],
+			[ "cronometraste" ],
+			[ "cronometró" ],
+			[ "cronometramos" ],
+			[ "cronometrasteis", "cronometraron" ],
+			[ "cronometraron" ]
+		],
+		"5" : [
+			[ "cronometraba" ],
+			[ "cronometrabas" ],
+			[ "cronometraba" ],
+			[ "cronometrábamos" ],
+			[ "cronometrabais", "cronometraban" ],
+			[ "cronometraban" ]
+		],
+		"6" : [
+			[ "cronometraría" ],
+			[ "cronometrarías" ],
+			[ "cronometraría" ],
+			[ "cronometraríamos" ],
+			[ "cronometraríais", "cronometrarían" ],
+			[ "cronometrarían" ]
+		],
+		"7" : [
+			[ "cronometraré" ],
+			[ "cronometrarás" ],
+			[ "cronometrará" ],
+			[ "cronometraremos" ],
+			[ "cronometraréis", "cronometrarán" ],
+			[ "cronometrarán" ]
+		],
+		"8" : [
+			[ "cronometre" ],
+			[ "cronometres" ],
+			[ "cronometre" ],
+			[ "cronometremos" ],
+			[ "cronometréis", "cronometren" ],
+			[ "cronometren" ]
+		],
+		"9" : [
+			[ "cronometrara" ],
+			[ "cronometraras" ],
+			[ "cronometrara" ],
+			[ "cronometráramos" ],
+			[ "cronometrarais", "cronometraran" ],
+			[ "cronometraran" ]
+		],
+		"10" : [
+			[ "cronometrase" ],
+			[ "cronometrases" ],
+			[ "cronometrase" ],
+			[ "cronometrásemos" ],
+			[ "cronometraseis", "cronometrasen" ],
+			[ "cronometrasen" ]
+		],
+		"11" : [
+			[ "cronometrare" ],
+			[ "cronometrares" ],
+			[ "cronometrare" ],
+			[ "cronometráremos" ],
+			[ "cronometrareis", "cronometraren" ],
+			[ "cronometraren" ]
+		],
+		"12" : {
+			"1" : [ "cronometra" ],
+			"2" : [ "cronometre" ],
+			"3" : [ "cronometremos" ],
+			"4" : [ "cronometrad" ],
+			"5" : [ "cronometren" ]
+		}
+	}
+}

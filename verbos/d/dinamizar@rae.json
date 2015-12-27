@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dinamizar",
+	"word" : "dinamizar",
+	"infinitivo" : "dinamizar",
+	"participio" : [ "dinamizado" ],
+	"gerundio" : [ "dinamizando" ],
+	"tenses" : {
+		"3" : [
+			[ "dinamizo" ],
+			[ "dinamizas", "dinamizás" ],
+			[ "dinamiza" ],
+			[ "dinamizamos" ],
+			[ "dinamizáis", "dinamizan" ],
+			[ "dinamizan" ]
+		],
+		"4" : [
+			[ "dinamicé" ],
+			[ "dinamizaste" ],
+			[ "dinamizó" ],
+			[ "dinamizamos" ],
+			[ "dinamizasteis", "dinamizaron" ],
+			[ "dinamizaron" ]
+		],
+		"5" : [
+			[ "dinamizaba" ],
+			[ "dinamizabas" ],
+			[ "dinamizaba" ],
+			[ "dinamizábamos" ],
+			[ "dinamizabais", "dinamizaban" ],
+			[ "dinamizaban" ]
+		],
+		"6" : [
+			[ "dinamizaría" ],
+			[ "dinamizarías" ],
+			[ "dinamizaría" ],
+			[ "dinamizaríamos" ],
+			[ "dinamizaríais", "dinamizarían" ],
+			[ "dinamizarían" ]
+		],
+		"7" : [
+			[ "dinamizaré" ],
+			[ "dinamizarás" ],
+			[ "dinamizará" ],
+			[ "dinamizaremos" ],
+			[ "dinamizaréis", "dinamizarán" ],
+			[ "dinamizarán" ]
+		],
+		"8" : [
+			[ "dinamice" ],
+			[ "dinamices" ],
+			[ "dinamice" ],
+			[ "dinamicemos" ],
+			[ "dinamicéis", "dinamicen" ],
+			[ "dinamicen" ]
+		],
+		"9" : [
+			[ "dinamizara" ],
+			[ "dinamizaras" ],
+			[ "dinamizara" ],
+			[ "dinamizáramos" ],
+			[ "dinamizarais", "dinamizaran" ],
+			[ "dinamizaran" ]
+		],
+		"10" : [
+			[ "dinamizase" ],
+			[ "dinamizases" ],
+			[ "dinamizase" ],
+			[ "dinamizásemos" ],
+			[ "dinamizaseis", "dinamizasen" ],
+			[ "dinamizasen" ]
+		],
+		"11" : [
+			[ "dinamizare" ],
+			[ "dinamizares" ],
+			[ "dinamizare" ],
+			[ "dinamizáremos" ],
+			[ "dinamizareis", "dinamizaren" ],
+			[ "dinamizaren" ]
+		],
+		"12" : {
+			"1" : [ "dinamiza" ],
+			"2" : [ "dinamice" ],
+			"3" : [ "dinamicemos" ],
+			"4" : [ "dinamizad" ],
+			"5" : [ "dinamicen" ]
+		}
+	}
+}

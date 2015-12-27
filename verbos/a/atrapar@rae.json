@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atrapar",
+	"word" : "atrapar",
+	"infinitivo" : "atrapar",
+	"participio" : [ "atrapado" ],
+	"gerundio" : [ "atrapando" ],
+	"tenses" : {
+		"3" : [
+			[ "atrapo" ],
+			[ "atrapas", "atrapás" ],
+			[ "atrapa" ],
+			[ "atrapamos" ],
+			[ "atrapáis", "atrapan" ],
+			[ "atrapan" ]
+		],
+		"4" : [
+			[ "atrapé" ],
+			[ "atrapaste" ],
+			[ "atrapó" ],
+			[ "atrapamos" ],
+			[ "atrapasteis", "atraparon" ],
+			[ "atraparon" ]
+		],
+		"5" : [
+			[ "atrapaba" ],
+			[ "atrapabas" ],
+			[ "atrapaba" ],
+			[ "atrapábamos" ],
+			[ "atrapabais", "atrapaban" ],
+			[ "atrapaban" ]
+		],
+		"6" : [
+			[ "atraparía" ],
+			[ "atraparías" ],
+			[ "atraparía" ],
+			[ "atraparíamos" ],
+			[ "atraparíais", "atraparían" ],
+			[ "atraparían" ]
+		],
+		"7" : [
+			[ "atraparé" ],
+			[ "atraparás" ],
+			[ "atrapará" ],
+			[ "atraparemos" ],
+			[ "atraparéis", "atraparán" ],
+			[ "atraparán" ]
+		],
+		"8" : [
+			[ "atrape" ],
+			[ "atrapes" ],
+			[ "atrape" ],
+			[ "atrapemos" ],
+			[ "atrapéis", "atrapen" ],
+			[ "atrapen" ]
+		],
+		"9" : [
+			[ "atrapara" ],
+			[ "atraparas" ],
+			[ "atrapara" ],
+			[ "atrapáramos" ],
+			[ "atraparais", "atraparan" ],
+			[ "atraparan" ]
+		],
+		"10" : [
+			[ "atrapase" ],
+			[ "atrapases" ],
+			[ "atrapase" ],
+			[ "atrapásemos" ],
+			[ "atrapaseis", "atrapasen" ],
+			[ "atrapasen" ]
+		],
+		"11" : [
+			[ "atrapare" ],
+			[ "atrapares" ],
+			[ "atrapare" ],
+			[ "atrapáremos" ],
+			[ "atrapareis", "atraparen" ],
+			[ "atraparen" ]
+		],
+		"12" : {
+			"1" : [ "atrapa" ],
+			"2" : [ "atrape" ],
+			"3" : [ "atrapemos" ],
+			"4" : [ "atrapad" ],
+			"5" : [ "atrapen" ]
+		}
+	}
+}

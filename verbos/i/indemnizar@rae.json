@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=indemnizar",
+	"word" : "indemnizar",
+	"infinitivo" : "indemnizar",
+	"participio" : [ "indemnizado" ],
+	"gerundio" : [ "indemnizando" ],
+	"tenses" : {
+		"3" : [
+			[ "indemnizo" ],
+			[ "indemnizas", "indemnizás" ],
+			[ "indemniza" ],
+			[ "indemnizamos" ],
+			[ "indemnizáis", "indemnizan" ],
+			[ "indemnizan" ]
+		],
+		"4" : [
+			[ "indemnicé" ],
+			[ "indemnizaste" ],
+			[ "indemnizó" ],
+			[ "indemnizamos" ],
+			[ "indemnizasteis", "indemnizaron" ],
+			[ "indemnizaron" ]
+		],
+		"5" : [
+			[ "indemnizaba" ],
+			[ "indemnizabas" ],
+			[ "indemnizaba" ],
+			[ "indemnizábamos" ],
+			[ "indemnizabais", "indemnizaban" ],
+			[ "indemnizaban" ]
+		],
+		"6" : [
+			[ "indemnizaría" ],
+			[ "indemnizarías" ],
+			[ "indemnizaría" ],
+			[ "indemnizaríamos" ],
+			[ "indemnizaríais", "indemnizarían" ],
+			[ "indemnizarían" ]
+		],
+		"7" : [
+			[ "indemnizaré" ],
+			[ "indemnizarás" ],
+			[ "indemnizará" ],
+			[ "indemnizaremos" ],
+			[ "indemnizaréis", "indemnizarán" ],
+			[ "indemnizarán" ]
+		],
+		"8" : [
+			[ "indemnice" ],
+			[ "indemnices" ],
+			[ "indemnice" ],
+			[ "indemnicemos" ],
+			[ "indemnicéis", "indemnicen" ],
+			[ "indemnicen" ]
+		],
+		"9" : [
+			[ "indemnizara" ],
+			[ "indemnizaras" ],
+			[ "indemnizara" ],
+			[ "indemnizáramos" ],
+			[ "indemnizarais", "indemnizaran" ],
+			[ "indemnizaran" ]
+		],
+		"10" : [
+			[ "indemnizase" ],
+			[ "indemnizases" ],
+			[ "indemnizase" ],
+			[ "indemnizásemos" ],
+			[ "indemnizaseis", "indemnizasen" ],
+			[ "indemnizasen" ]
+		],
+		"11" : [
+			[ "indemnizare" ],
+			[ "indemnizares" ],
+			[ "indemnizare" ],
+			[ "indemnizáremos" ],
+			[ "indemnizareis", "indemnizaren" ],
+			[ "indemnizaren" ]
+		],
+		"12" : {
+			"1" : [ "indemniza" ],
+			"2" : [ "indemnice" ],
+			"3" : [ "indemnicemos" ],
+			"4" : [ "indemnizad" ],
+			"5" : [ "indemnicen" ]
+		}
+	}
+}

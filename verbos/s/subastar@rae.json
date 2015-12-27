@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=subastar",
+	"word" : "subastar",
+	"infinitivo" : "subastar",
+	"participio" : [ "subastado" ],
+	"gerundio" : [ "subastando" ],
+	"tenses" : {
+		"3" : [
+			[ "subasto" ],
+			[ "subastas", "subastás" ],
+			[ "subasta" ],
+			[ "subastamos" ],
+			[ "subastáis", "subastan" ],
+			[ "subastan" ]
+		],
+		"4" : [
+			[ "subasté" ],
+			[ "subastaste" ],
+			[ "subastó" ],
+			[ "subastamos" ],
+			[ "subastasteis", "subastaron" ],
+			[ "subastaron" ]
+		],
+		"5" : [
+			[ "subastaba" ],
+			[ "subastabas" ],
+			[ "subastaba" ],
+			[ "subastábamos" ],
+			[ "subastabais", "subastaban" ],
+			[ "subastaban" ]
+		],
+		"6" : [
+			[ "subastaría" ],
+			[ "subastarías" ],
+			[ "subastaría" ],
+			[ "subastaríamos" ],
+			[ "subastaríais", "subastarían" ],
+			[ "subastarían" ]
+		],
+		"7" : [
+			[ "subastaré" ],
+			[ "subastarás" ],
+			[ "subastará" ],
+			[ "subastaremos" ],
+			[ "subastaréis", "subastarán" ],
+			[ "subastarán" ]
+		],
+		"8" : [
+			[ "subaste" ],
+			[ "subastes" ],
+			[ "subaste" ],
+			[ "subastemos" ],
+			[ "subastéis", "subasten" ],
+			[ "subasten" ]
+		],
+		"9" : [
+			[ "subastara" ],
+			[ "subastaras" ],
+			[ "subastara" ],
+			[ "subastáramos" ],
+			[ "subastarais", "subastaran" ],
+			[ "subastaran" ]
+		],
+		"10" : [
+			[ "subastase" ],
+			[ "subastases" ],
+			[ "subastase" ],
+			[ "subastásemos" ],
+			[ "subastaseis", "subastasen" ],
+			[ "subastasen" ]
+		],
+		"11" : [
+			[ "subastare" ],
+			[ "subastares" ],
+			[ "subastare" ],
+			[ "subastáremos" ],
+			[ "subastareis", "subastaren" ],
+			[ "subastaren" ]
+		],
+		"12" : {
+			"1" : [ "subasta" ],
+			"2" : [ "subaste" ],
+			"3" : [ "subastemos" ],
+			"4" : [ "subastad" ],
+			"5" : [ "subasten" ]
+		}
+	}
+}

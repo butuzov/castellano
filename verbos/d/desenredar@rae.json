@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desenredar",
+	"word" : "desenredar",
+	"infinitivo" : "desenredar",
+	"participio" : [ "desenredado" ],
+	"gerundio" : [ "desenredando" ],
+	"tenses" : {
+		"3" : [
+			[ "desenredo" ],
+			[ "desenredas", "desenredás" ],
+			[ "desenreda" ],
+			[ "desenredamos" ],
+			[ "desenredáis", "desenredan" ],
+			[ "desenredan" ]
+		],
+		"4" : [
+			[ "desenredé" ],
+			[ "desenredaste" ],
+			[ "desenredó" ],
+			[ "desenredamos" ],
+			[ "desenredasteis", "desenredaron" ],
+			[ "desenredaron" ]
+		],
+		"5" : [
+			[ "desenredaba" ],
+			[ "desenredabas" ],
+			[ "desenredaba" ],
+			[ "desenredábamos" ],
+			[ "desenredabais", "desenredaban" ],
+			[ "desenredaban" ]
+		],
+		"6" : [
+			[ "desenredaría" ],
+			[ "desenredarías" ],
+			[ "desenredaría" ],
+			[ "desenredaríamos" ],
+			[ "desenredaríais", "desenredarían" ],
+			[ "desenredarían" ]
+		],
+		"7" : [
+			[ "desenredaré" ],
+			[ "desenredarás" ],
+			[ "desenredará" ],
+			[ "desenredaremos" ],
+			[ "desenredaréis", "desenredarán" ],
+			[ "desenredarán" ]
+		],
+		"8" : [
+			[ "desenrede" ],
+			[ "desenredes" ],
+			[ "desenrede" ],
+			[ "desenredemos" ],
+			[ "desenredéis", "desenreden" ],
+			[ "desenreden" ]
+		],
+		"9" : [
+			[ "desenredara" ],
+			[ "desenredaras" ],
+			[ "desenredara" ],
+			[ "desenredáramos" ],
+			[ "desenredarais", "desenredaran" ],
+			[ "desenredaran" ]
+		],
+		"10" : [
+			[ "desenredase" ],
+			[ "desenredases" ],
+			[ "desenredase" ],
+			[ "desenredásemos" ],
+			[ "desenredaseis", "desenredasen" ],
+			[ "desenredasen" ]
+		],
+		"11" : [
+			[ "desenredare" ],
+			[ "desenredares" ],
+			[ "desenredare" ],
+			[ "desenredáremos" ],
+			[ "desenredareis", "desenredaren" ],
+			[ "desenredaren" ]
+		],
+		"12" : {
+			"1" : [ "desenreda" ],
+			"2" : [ "desenrede" ],
+			"3" : [ "desenredemos" ],
+			"4" : [ "desenredad" ],
+			"5" : [ "desenreden" ]
+		}
+	}
+}

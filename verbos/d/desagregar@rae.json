@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desagregar",
+	"word" : "desagregar",
+	"infinitivo" : "desagregar",
+	"participio" : [ "desagregado" ],
+	"gerundio" : [ "desagregando" ],
+	"tenses" : {
+		"3" : [
+			[ "desagrego" ],
+			[ "desagregas", "desagregás" ],
+			[ "desagrega" ],
+			[ "desagregamos" ],
+			[ "desagregáis", "desagregan" ],
+			[ "desagregan" ]
+		],
+		"4" : [
+			[ "desagregué" ],
+			[ "desagregaste" ],
+			[ "desagregó" ],
+			[ "desagregamos" ],
+			[ "desagregasteis", "desagregaron" ],
+			[ "desagregaron" ]
+		],
+		"5" : [
+			[ "desagregaba" ],
+			[ "desagregabas" ],
+			[ "desagregaba" ],
+			[ "desagregábamos" ],
+			[ "desagregabais", "desagregaban" ],
+			[ "desagregaban" ]
+		],
+		"6" : [
+			[ "desagregaría" ],
+			[ "desagregarías" ],
+			[ "desagregaría" ],
+			[ "desagregaríamos" ],
+			[ "desagregaríais", "desagregarían" ],
+			[ "desagregarían" ]
+		],
+		"7" : [
+			[ "desagregaré" ],
+			[ "desagregarás" ],
+			[ "desagregará" ],
+			[ "desagregaremos" ],
+			[ "desagregaréis", "desagregarán" ],
+			[ "desagregarán" ]
+		],
+		"8" : [
+			[ "desagregue" ],
+			[ "desagregues" ],
+			[ "desagregue" ],
+			[ "desagreguemos" ],
+			[ "desagreguéis", "desagreguen" ],
+			[ "desagreguen" ]
+		],
+		"9" : [
+			[ "desagregara" ],
+			[ "desagregaras" ],
+			[ "desagregara" ],
+			[ "desagregáramos" ],
+			[ "desagregarais", "desagregaran" ],
+			[ "desagregaran" ]
+		],
+		"10" : [
+			[ "desagregase" ],
+			[ "desagregases" ],
+			[ "desagregase" ],
+			[ "desagregásemos" ],
+			[ "desagregaseis", "desagregasen" ],
+			[ "desagregasen" ]
+		],
+		"11" : [
+			[ "desagregare" ],
+			[ "desagregares" ],
+			[ "desagregare" ],
+			[ "desagregáremos" ],
+			[ "desagregareis", "desagregaren" ],
+			[ "desagregaren" ]
+		],
+		"12" : {
+			"1" : [ "desagrega" ],
+			"2" : [ "desagregue" ],
+			"3" : [ "desagreguemos" ],
+			"4" : [ "desagregad" ],
+			"5" : [ "desagreguen" ]
+		}
+	}
+}

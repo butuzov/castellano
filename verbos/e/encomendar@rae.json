@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encomendar",
+	"word" : "encomendar",
+	"infinitivo" : "encomendar",
+	"participio" : [ "encomendado" ],
+	"gerundio" : [ "encomendando" ],
+	"tenses" : {
+		"3" : [
+			[ "encomiendo" ],
+			[ "encomiendas", "encomendás" ],
+			[ "encomienda" ],
+			[ "encomendamos" ],
+			[ "encomendáis", "encomiendan" ],
+			[ "encomiendan" ]
+		],
+		"4" : [
+			[ "encomendé" ],
+			[ "encomendaste" ],
+			[ "encomendó" ],
+			[ "encomendamos" ],
+			[ "encomendasteis", "encomendaron" ],
+			[ "encomendaron" ]
+		],
+		"5" : [
+			[ "encomendaba" ],
+			[ "encomendabas" ],
+			[ "encomendaba" ],
+			[ "encomendábamos" ],
+			[ "encomendabais", "encomendaban" ],
+			[ "encomendaban" ]
+		],
+		"6" : [
+			[ "encomendaría" ],
+			[ "encomendarías" ],
+			[ "encomendaría" ],
+			[ "encomendaríamos" ],
+			[ "encomendaríais", "encomendarían" ],
+			[ "encomendarían" ]
+		],
+		"7" : [
+			[ "encomendaré" ],
+			[ "encomendarás" ],
+			[ "encomendará" ],
+			[ "encomendaremos" ],
+			[ "encomendaréis", "encomendarán" ],
+			[ "encomendarán" ]
+		],
+		"8" : [
+			[ "encomiende" ],
+			[ "encomiendes" ],
+			[ "encomiende" ],
+			[ "encomendemos" ],
+			[ "encomendéis", "encomienden" ],
+			[ "encomienden" ]
+		],
+		"9" : [
+			[ "encomendara" ],
+			[ "encomendaras" ],
+			[ "encomendara" ],
+			[ "encomendáramos" ],
+			[ "encomendarais", "encomendaran" ],
+			[ "encomendaran" ]
+		],
+		"10" : [
+			[ "encomendase" ],
+			[ "encomendases" ],
+			[ "encomendase" ],
+			[ "encomendásemos" ],
+			[ "encomendaseis", "encomendasen" ],
+			[ "encomendasen" ]
+		],
+		"11" : [
+			[ "encomendare" ],
+			[ "encomendares" ],
+			[ "encomendare" ],
+			[ "encomendáremos" ],
+			[ "encomendareis", "encomendaren" ],
+			[ "encomendaren" ]
+		],
+		"12" : {
+			"1" : [ "encomienda" ],
+			"2" : [ "encomiende" ],
+			"3" : [ "encomendemos" ],
+			"4" : [ "encomendad" ],
+			"5" : [ "encomienden" ]
+		}
+	}
+}

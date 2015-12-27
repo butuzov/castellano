@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alcanzar",
+	"word" : "alcanzar",
+	"infinitivo" : "alcanzar",
+	"participio" : [ "alcanzado" ],
+	"gerundio" : [ "alcanzando" ],
+	"tenses" : {
+		"3" : [
+			[ "alcanzo" ],
+			[ "alcanzas", "alcanzás" ],
+			[ "alcanza" ],
+			[ "alcanzamos" ],
+			[ "alcanzáis", "alcanzan" ],
+			[ "alcanzan" ]
+		],
+		"4" : [
+			[ "alcancé" ],
+			[ "alcanzaste" ],
+			[ "alcanzó" ],
+			[ "alcanzamos" ],
+			[ "alcanzasteis", "alcanzaron" ],
+			[ "alcanzaron" ]
+		],
+		"5" : [
+			[ "alcanzaba" ],
+			[ "alcanzabas" ],
+			[ "alcanzaba" ],
+			[ "alcanzábamos" ],
+			[ "alcanzabais", "alcanzaban" ],
+			[ "alcanzaban" ]
+		],
+		"6" : [
+			[ "alcanzaría" ],
+			[ "alcanzarías" ],
+			[ "alcanzaría" ],
+			[ "alcanzaríamos" ],
+			[ "alcanzaríais", "alcanzarían" ],
+			[ "alcanzarían" ]
+		],
+		"7" : [
+			[ "alcanzaré" ],
+			[ "alcanzarás" ],
+			[ "alcanzará" ],
+			[ "alcanzaremos" ],
+			[ "alcanzaréis", "alcanzarán" ],
+			[ "alcanzarán" ]
+		],
+		"8" : [
+			[ "alcance" ],
+			[ "alcances" ],
+			[ "alcance" ],
+			[ "alcancemos" ],
+			[ "alcancéis", "alcancen" ],
+			[ "alcancen" ]
+		],
+		"9" : [
+			[ "alcanzara" ],
+			[ "alcanzaras" ],
+			[ "alcanzara" ],
+			[ "alcanzáramos" ],
+			[ "alcanzarais", "alcanzaran" ],
+			[ "alcanzaran" ]
+		],
+		"10" : [
+			[ "alcanzase" ],
+			[ "alcanzases" ],
+			[ "alcanzase" ],
+			[ "alcanzásemos" ],
+			[ "alcanzaseis", "alcanzasen" ],
+			[ "alcanzasen" ]
+		],
+		"11" : [
+			[ "alcanzare" ],
+			[ "alcanzares" ],
+			[ "alcanzare" ],
+			[ "alcanzáremos" ],
+			[ "alcanzareis", "alcanzaren" ],
+			[ "alcanzaren" ]
+		],
+		"12" : {
+			"1" : [ "alcanza" ],
+			"2" : [ "alcance" ],
+			"3" : [ "alcancemos" ],
+			"4" : [ "alcanzad" ],
+			"5" : [ "alcancen" ]
+		}
+	}
+}

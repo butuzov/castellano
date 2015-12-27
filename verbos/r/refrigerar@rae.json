@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=refrigerar",
+	"word" : "refrigerar",
+	"infinitivo" : "refrigerar",
+	"participio" : [ "refrigerado" ],
+	"gerundio" : [ "refrigerando" ],
+	"tenses" : {
+		"3" : [
+			[ "refrigero" ],
+			[ "refrigeras", "refrigerás" ],
+			[ "refrigera" ],
+			[ "refrigeramos" ],
+			[ "refrigeráis", "refrigeran" ],
+			[ "refrigeran" ]
+		],
+		"4" : [
+			[ "refrigeré" ],
+			[ "refrigeraste" ],
+			[ "refrigeró" ],
+			[ "refrigeramos" ],
+			[ "refrigerasteis", "refrigeraron" ],
+			[ "refrigeraron" ]
+		],
+		"5" : [
+			[ "refrigeraba" ],
+			[ "refrigerabas" ],
+			[ "refrigeraba" ],
+			[ "refrigerábamos" ],
+			[ "refrigerabais", "refrigeraban" ],
+			[ "refrigeraban" ]
+		],
+		"6" : [
+			[ "refrigeraría" ],
+			[ "refrigerarías" ],
+			[ "refrigeraría" ],
+			[ "refrigeraríamos" ],
+			[ "refrigeraríais", "refrigerarían" ],
+			[ "refrigerarían" ]
+		],
+		"7" : [
+			[ "refrigeraré" ],
+			[ "refrigerarás" ],
+			[ "refrigerará" ],
+			[ "refrigeraremos" ],
+			[ "refrigeraréis", "refrigerarán" ],
+			[ "refrigerarán" ]
+		],
+		"8" : [
+			[ "refrigere" ],
+			[ "refrigeres" ],
+			[ "refrigere" ],
+			[ "refrigeremos" ],
+			[ "refrigeréis", "refrigeren" ],
+			[ "refrigeren" ]
+		],
+		"9" : [
+			[ "refrigerara" ],
+			[ "refrigeraras" ],
+			[ "refrigerara" ],
+			[ "refrigeráramos" ],
+			[ "refrigerarais", "refrigeraran" ],
+			[ "refrigeraran" ]
+		],
+		"10" : [
+			[ "refrigerase" ],
+			[ "refrigerases" ],
+			[ "refrigerase" ],
+			[ "refrigerásemos" ],
+			[ "refrigeraseis", "refrigerasen" ],
+			[ "refrigerasen" ]
+		],
+		"11" : [
+			[ "refrigerare" ],
+			[ "refrigerares" ],
+			[ "refrigerare" ],
+			[ "refrigeráremos" ],
+			[ "refrigerareis", "refrigeraren" ],
+			[ "refrigeraren" ]
+		],
+		"12" : {
+			"1" : [ "refrigera" ],
+			"2" : [ "refrigere" ],
+			"3" : [ "refrigeremos" ],
+			"4" : [ "refrigerad" ],
+			"5" : [ "refrigeren" ]
+		}
+	}
+}

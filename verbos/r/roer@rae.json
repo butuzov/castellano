@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=roer",
+	"word" : "roer",
+	"infinitivo" : "roer",
+	"participio" : [ "roído" ],
+	"gerundio" : [ "royendo" ],
+	"tenses" : {
+		"3" : [
+			[ "roo", "roigo", "royo" ],
+			[ "roes", "roés" ],
+			[ "roe" ],
+			[ "roemos" ],
+			[ "roéis", "roen" ],
+			[ "roen" ]
+		],
+		"4" : [
+			[ "roí" ],
+			[ "roíste" ],
+			[ "royó" ],
+			[ "roímos" ],
+			[ "roísteis", "royeron" ],
+			[ "royeron" ]
+		],
+		"5" : [
+			[ "roía" ],
+			[ "roías" ],
+			[ "roía" ],
+			[ "roíamos" ],
+			[ "roíais", "roían" ],
+			[ "roían" ]
+		],
+		"6" : [
+			[ "roería" ],
+			[ "roerías" ],
+			[ "roería" ],
+			[ "roeríamos" ],
+			[ "roeríais", "roerían" ],
+			[ "roerían" ]
+		],
+		"7" : [
+			[ "roeré" ],
+			[ "roerás" ],
+			[ "roerá" ],
+			[ "roeremos" ],
+			[ "roeréis", "roerán" ],
+			[ "roerán" ]
+		],
+		"8" : [
+			[ "roa", "roiga", "roya" ],
+			[ "roas", "roigas", "royas" ],
+			[ "roa", "roiga" ],
+			[ "roamos", "roigamos" ],
+			[ "roáis", "roigáis", "royáis", "roan", "roigan" ],
+			[ "roan", "roigan", "royan" ]
+		],
+		"9" : [
+			[ "royera" ],
+			[ "royeras" ],
+			[ "royera" ],
+			[ "royéramos" ],
+			[ "royerais", "royeran" ],
+			[ "royeran" ]
+		],
+		"10" : [
+			[ "royese" ],
+			[ "royeses" ],
+			[ "royese" ],
+			[ "royésemos" ],
+			[ "royeseis", "royesen" ],
+			[ "royesen" ]
+		],
+		"11" : [
+			[ "royere" ],
+			[ "royeres" ],
+			[ "royere" ],
+			[ "royéremos" ],
+			[ "royereis", "royeren" ],
+			[ "royeren" ]
+		],
+		"12" : {
+			"1" : [ "roe" ],
+			"2" : [ "roa", "roiga" ],
+			"3" : [ "roamos", "roigamos" ],
+			"4" : [ "roed" ],
+			"5" : [ "roan", "roigan" ]
+		}
+	}
+}

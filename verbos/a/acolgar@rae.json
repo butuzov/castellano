@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acolgar",
+	"word" : "acolgar",
+	"infinitivo" : "acolgar",
+	"participio" : [ "acolgado" ],
+	"gerundio" : [ "acolgando" ],
+	"tenses" : {
+		"3" : [
+			[ "acuelgo" ],
+			[ "acuelgas", "acolgás" ],
+			[ "acuelga" ],
+			[ "acolgamos" ],
+			[ "acolgáis", "acuelgan" ],
+			[ "acuelgan" ]
+		],
+		"4" : [
+			[ "acolgué" ],
+			[ "acolgaste" ],
+			[ "acolgó" ],
+			[ "acolgamos" ],
+			[ "acolgasteis", "acolgaron" ],
+			[ "acolgaron" ]
+		],
+		"5" : [
+			[ "acolgaba" ],
+			[ "acolgabas" ],
+			[ "acolgaba" ],
+			[ "acolgábamos" ],
+			[ "acolgabais", "acolgaban" ],
+			[ "acolgaban" ]
+		],
+		"6" : [
+			[ "acolgaría" ],
+			[ "acolgarías" ],
+			[ "acolgaría" ],
+			[ "acolgaríamos" ],
+			[ "acolgaríais", "acolgarían" ],
+			[ "acolgarían" ]
+		],
+		"7" : [
+			[ "acolgaré" ],
+			[ "acolgarás" ],
+			[ "acolgará" ],
+			[ "acolgaremos" ],
+			[ "acolgaréis", "acolgarán" ],
+			[ "acolgarán" ]
+		],
+		"8" : [
+			[ "acuelgue" ],
+			[ "acuelgues" ],
+			[ "acuelgue" ],
+			[ "acolguemos" ],
+			[ "acolguéis", "acuelguen" ],
+			[ "acuelguen" ]
+		],
+		"9" : [
+			[ "acolgara" ],
+			[ "acolgaras" ],
+			[ "acolgara" ],
+			[ "acolgáramos" ],
+			[ "acolgarais", "acolgaran" ],
+			[ "acolgaran" ]
+		],
+		"10" : [
+			[ "acolgase" ],
+			[ "acolgases" ],
+			[ "acolgase" ],
+			[ "acolgásemos" ],
+			[ "acolgaseis", "acolgasen" ],
+			[ "acolgasen" ]
+		],
+		"11" : [
+			[ "acolgare" ],
+			[ "acolgares" ],
+			[ "acolgare" ],
+			[ "acolgáremos" ],
+			[ "acolgareis", "acolgaren" ],
+			[ "acolgaren" ]
+		],
+		"12" : {
+			"1" : [ "acuelga" ],
+			"2" : [ "acuelgue" ],
+			"3" : [ "acolguemos" ],
+			"4" : [ "acolgad" ],
+			"5" : [ "acuelguen" ]
+		}
+	}
+}

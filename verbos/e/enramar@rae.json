@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enramar",
+	"word" : "enramar",
+	"infinitivo" : "enramar",
+	"participio" : [ "enramado" ],
+	"gerundio" : [ "enramando" ],
+	"tenses" : {
+		"3" : [
+			[ "enramo" ],
+			[ "enramas", "enramás" ],
+			[ "enrama" ],
+			[ "enramamos" ],
+			[ "enramáis", "enraman" ],
+			[ "enraman" ]
+		],
+		"4" : [
+			[ "enramé" ],
+			[ "enramaste" ],
+			[ "enramó" ],
+			[ "enramamos" ],
+			[ "enramasteis", "enramaron" ],
+			[ "enramaron" ]
+		],
+		"5" : [
+			[ "enramaba" ],
+			[ "enramabas" ],
+			[ "enramaba" ],
+			[ "enramábamos" ],
+			[ "enramabais", "enramaban" ],
+			[ "enramaban" ]
+		],
+		"6" : [
+			[ "enramaría" ],
+			[ "enramarías" ],
+			[ "enramaría" ],
+			[ "enramaríamos" ],
+			[ "enramaríais", "enramarían" ],
+			[ "enramarían" ]
+		],
+		"7" : [
+			[ "enramaré" ],
+			[ "enramarás" ],
+			[ "enramará" ],
+			[ "enramaremos" ],
+			[ "enramaréis", "enramarán" ],
+			[ "enramarán" ]
+		],
+		"8" : [
+			[ "enrame" ],
+			[ "enrames" ],
+			[ "enrame" ],
+			[ "enramemos" ],
+			[ "enraméis", "enramen" ],
+			[ "enramen" ]
+		],
+		"9" : [
+			[ "enramara" ],
+			[ "enramaras" ],
+			[ "enramara" ],
+			[ "enramáramos" ],
+			[ "enramarais", "enramaran" ],
+			[ "enramaran" ]
+		],
+		"10" : [
+			[ "enramase" ],
+			[ "enramases" ],
+			[ "enramase" ],
+			[ "enramásemos" ],
+			[ "enramaseis", "enramasen" ],
+			[ "enramasen" ]
+		],
+		"11" : [
+			[ "enramare" ],
+			[ "enramares" ],
+			[ "enramare" ],
+			[ "enramáremos" ],
+			[ "enramareis", "enramaren" ],
+			[ "enramaren" ]
+		],
+		"12" : {
+			"1" : [ "enrama" ],
+			"2" : [ "enrame" ],
+			"3" : [ "enramemos" ],
+			"4" : [ "enramad" ],
+			"5" : [ "enramen" ]
+		}
+	}
+}

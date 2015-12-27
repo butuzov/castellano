@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=transigir",
+	"word" : "transigir",
+	"infinitivo" : "transigir",
+	"participio" : [ "transigido" ],
+	"gerundio" : [ "transigiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "transijo" ],
+			[ "transiges", "transigís" ],
+			[ "transige" ],
+			[ "transigimos" ],
+			[ "transigís", "transigen" ],
+			[ "transigen" ]
+		],
+		"4" : [
+			[ "transigí" ],
+			[ "transigiste" ],
+			[ "transigió" ],
+			[ "transigimos" ],
+			[ "transigisteis", "transigieron" ],
+			[ "transigieron" ]
+		],
+		"5" : [
+			[ "transigía" ],
+			[ "transigías" ],
+			[ "transigía" ],
+			[ "transigíamos" ],
+			[ "transigíais", "transigían" ],
+			[ "transigían" ]
+		],
+		"6" : [
+			[ "transigiría" ],
+			[ "transigirías" ],
+			[ "transigiría" ],
+			[ "transigiríamos" ],
+			[ "transigiríais", "transigirían" ],
+			[ "transigirían" ]
+		],
+		"7" : [
+			[ "transigiré" ],
+			[ "transigirás" ],
+			[ "transigirá" ],
+			[ "transigiremos" ],
+			[ "transigiréis", "transigirán" ],
+			[ "transigirán" ]
+		],
+		"8" : [
+			[ "transija" ],
+			[ "transijas" ],
+			[ "transija" ],
+			[ "transijamos" ],
+			[ "transijáis", "transijan" ],
+			[ "transijan" ]
+		],
+		"9" : [
+			[ "transigiera" ],
+			[ "transigieras" ],
+			[ "transigiera" ],
+			[ "transigiéramos" ],
+			[ "transigierais", "transigieran" ],
+			[ "transigieran" ]
+		],
+		"10" : [
+			[ "transigiese" ],
+			[ "transigieses" ],
+			[ "transigiese" ],
+			[ "transigiésemos" ],
+			[ "transigieseis", "transigiesen" ],
+			[ "transigiesen" ]
+		],
+		"11" : [
+			[ "transigiere" ],
+			[ "transigieres" ],
+			[ "transigiere" ],
+			[ "transigiéremos" ],
+			[ "transigiereis", "transigieren" ],
+			[ "transigieren" ]
+		],
+		"12" : {
+			"1" : [ "transige" ],
+			"2" : [ "transija" ],
+			"3" : [ "transijamos" ],
+			"4" : [ "transigid" ],
+			"5" : [ "transijan" ]
+		}
+	}
+}

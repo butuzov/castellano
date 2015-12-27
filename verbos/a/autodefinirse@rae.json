@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=autodefinirse",
+	"word" : "autodefinirse",
+	"infinitivo" : "autodefinirse",
+	"participio" : [ "autodefinido" ],
+	"gerundio" : [ "autodefiniéndome", "autodefiniéndote" ],
+	"tenses" : {
+		"3" : [
+			[ "me autodefino" ],
+			[ "te autodefines", "te autodefinís" ],
+			[ "se autodefine" ],
+			[ "nos autodefinimos" ],
+			[ "os autodefinís", "se autodefinen" ],
+			[ "se autodefinen" ]
+		],
+		"4" : [
+			[ "me autodefiní" ],
+			[ "te autodefiniste" ],
+			[ "se autodefinió" ],
+			[ "nos autodefinimos" ],
+			[ "os autodefinisteis", "se autodefinieron" ],
+			[ "se autodefinieron" ]
+		],
+		"5" : [
+			[ "me autodefinía" ],
+			[ "te autodefinías" ],
+			[ "se autodefinía" ],
+			[ "nos autodefiníamos" ],
+			[ "os autodefiníais", "se autodefinían" ],
+			[ "se autodefinían" ]
+		],
+		"6" : [
+			[ "me autodefiniría" ],
+			[ "te autodefinirías" ],
+			[ "se autodefiniría" ],
+			[ "nos autodefiniríamos" ],
+			[ "os autodefiniríais", "se autodefinirían" ],
+			[ "se autodefinirían" ]
+		],
+		"7" : [
+			[ "me autodefiniré" ],
+			[ "te autodefinirás" ],
+			[ "se autodefinirá" ],
+			[ "nos autodefiniremos" ],
+			[ "os autodefiniréis", "se autodefinirán" ],
+			[ "se autodefinirán" ]
+		],
+		"8" : [
+			[ "me autodefina" ],
+			[ "te autodefinas" ],
+			[ "se autodefina" ],
+			[ "nos autodefinamos" ],
+			[ "os autodefináis", "se autodefinan" ],
+			[ "se autodefinan" ]
+		],
+		"9" : [
+			[ "me autodefiniera" ],
+			[ "te autodefinieras" ],
+			[ "se autodefiniera" ],
+			[ "nos autodefiniéramos" ],
+			[ "os autodefinierais", "se autodefinieran" ],
+			[ "se autodefinieran" ]
+		],
+		"10" : [
+			[ "me autodefiniese" ],
+			[ "te autodefinieses" ],
+			[ "se autodefiniese" ],
+			[ "nos autodefiniésemos" ],
+			[ "os autodefinieseis", "se autodefiniesen" ],
+			[ "se autodefiniesen" ]
+		],
+		"11" : [
+			[ "me autodefiniere" ],
+			[ "te autodefinieres" ],
+			[ "se autodefiniere" ],
+			[ "nos autodefiniéremos" ],
+			[ "os autodefiniereis", "se autodefinieren" ],
+			[ "se autodefinieren" ]
+		],
+		"12" : {
+			"1" : [ "autodefínete" ],
+			"2" : [ "autodefina" ],
+			"3" : [ "autodefinamos" ],
+			"4" : [ "autodefiníos" ],
+			"5" : [ "autodefínanse" ]
+		}
+	}
+}

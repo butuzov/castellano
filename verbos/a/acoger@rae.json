@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acoger",
+	"word" : "acoger",
+	"infinitivo" : "acoger",
+	"participio" : [ "acogido" ],
+	"gerundio" : [ "acogiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "acojo" ],
+			[ "acoges", "acogés" ],
+			[ "acoge" ],
+			[ "acogemos" ],
+			[ "acogéis", "acogen" ],
+			[ "acogen" ]
+		],
+		"4" : [
+			[ "acogí" ],
+			[ "acogiste" ],
+			[ "acogió" ],
+			[ "acogimos" ],
+			[ "acogisteis", "acogieron" ],
+			[ "acogieron" ]
+		],
+		"5" : [
+			[ "acogía" ],
+			[ "acogías" ],
+			[ "acogía" ],
+			[ "acogíamos" ],
+			[ "acogíais", "acogían" ],
+			[ "acogían" ]
+		],
+		"6" : [
+			[ "acogería" ],
+			[ "acogerías" ],
+			[ "acogería" ],
+			[ "acogeríamos" ],
+			[ "acogeríais", "acogerían" ],
+			[ "acogerían" ]
+		],
+		"7" : [
+			[ "acogeré" ],
+			[ "acogerás" ],
+			[ "acogerá" ],
+			[ "acogeremos" ],
+			[ "acogeréis", "acogerán" ],
+			[ "acogerán" ]
+		],
+		"8" : [
+			[ "acoja" ],
+			[ "acojas" ],
+			[ "acoja" ],
+			[ "acojamos" ],
+			[ "acojáis", "acojan" ],
+			[ "acojan" ]
+		],
+		"9" : [
+			[ "acogiera" ],
+			[ "acogieras" ],
+			[ "acogiera" ],
+			[ "acogiéramos" ],
+			[ "acogierais", "acogieran" ],
+			[ "acogieran" ]
+		],
+		"10" : [
+			[ "acogiese" ],
+			[ "acogieses" ],
+			[ "acogiese" ],
+			[ "acogiésemos" ],
+			[ "acogieseis", "acogiesen" ],
+			[ "acogiesen" ]
+		],
+		"11" : [
+			[ "acogiere" ],
+			[ "acogieres" ],
+			[ "acogiere" ],
+			[ "acogiéremos" ],
+			[ "acogiereis", "acogieren" ],
+			[ "acogieren" ]
+		],
+		"12" : {
+			"1" : [ "acoge" ],
+			"2" : [ "acoja" ],
+			"3" : [ "acojamos" ],
+			"4" : [ "acoged" ],
+			"5" : [ "acojan" ]
+		}
+	}
+}

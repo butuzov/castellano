@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vomitar",
+	"word" : "vomitar",
+	"infinitivo" : "vomitar",
+	"participio" : [ "vomitado" ],
+	"gerundio" : [ "vomitando" ],
+	"tenses" : {
+		"3" : [
+			[ "vomito" ],
+			[ "vomitas", "vomitás" ],
+			[ "vomita" ],
+			[ "vomitamos" ],
+			[ "vomitáis", "vomitan" ],
+			[ "vomitan" ]
+		],
+		"4" : [
+			[ "vomité" ],
+			[ "vomitaste" ],
+			[ "vomitó" ],
+			[ "vomitamos" ],
+			[ "vomitasteis", "vomitaron" ],
+			[ "vomitaron" ]
+		],
+		"5" : [
+			[ "vomitaba" ],
+			[ "vomitabas" ],
+			[ "vomitaba" ],
+			[ "vomitábamos" ],
+			[ "vomitabais", "vomitaban" ],
+			[ "vomitaban" ]
+		],
+		"6" : [
+			[ "vomitaría" ],
+			[ "vomitarías" ],
+			[ "vomitaría" ],
+			[ "vomitaríamos" ],
+			[ "vomitaríais", "vomitarían" ],
+			[ "vomitarían" ]
+		],
+		"7" : [
+			[ "vomitaré" ],
+			[ "vomitarás" ],
+			[ "vomitará" ],
+			[ "vomitaremos" ],
+			[ "vomitaréis", "vomitarán" ],
+			[ "vomitarán" ]
+		],
+		"8" : [
+			[ "vomite" ],
+			[ "vomites" ],
+			[ "vomite" ],
+			[ "vomitemos" ],
+			[ "vomitéis", "vomiten" ],
+			[ "vomiten" ]
+		],
+		"9" : [
+			[ "vomitara" ],
+			[ "vomitaras" ],
+			[ "vomitara" ],
+			[ "vomitáramos" ],
+			[ "vomitarais", "vomitaran" ],
+			[ "vomitaran" ]
+		],
+		"10" : [
+			[ "vomitase" ],
+			[ "vomitases" ],
+			[ "vomitase" ],
+			[ "vomitásemos" ],
+			[ "vomitaseis", "vomitasen" ],
+			[ "vomitasen" ]
+		],
+		"11" : [
+			[ "vomitare" ],
+			[ "vomitares" ],
+			[ "vomitare" ],
+			[ "vomitáremos" ],
+			[ "vomitareis", "vomitaren" ],
+			[ "vomitaren" ]
+		],
+		"12" : {
+			"1" : [ "vomita" ],
+			"2" : [ "vomite" ],
+			"3" : [ "vomitemos" ],
+			"4" : [ "vomitad" ],
+			"5" : [ "vomiten" ]
+		}
+	}
+}

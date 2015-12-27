@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enfriar",
+	"word" : "enfriar",
+	"infinitivo" : "enfriar",
+	"participio" : [ "enfriado" ],
+	"gerundio" : [ "enfriando" ],
+	"tenses" : {
+		"3" : [
+			[ "enfrío" ],
+			[ "enfrías", "enfriás" ],
+			[ "enfría" ],
+			[ "enfriamos" ],
+			[ "enfriáis", "enfrían" ],
+			[ "enfrían" ]
+		],
+		"4" : [
+			[ "enfrié" ],
+			[ "enfriaste" ],
+			[ "enfrió" ],
+			[ "enfriamos" ],
+			[ "enfriasteis", "enfriaron" ],
+			[ "enfriaron" ]
+		],
+		"5" : [
+			[ "enfriaba" ],
+			[ "enfriabas" ],
+			[ "enfriaba" ],
+			[ "enfriábamos" ],
+			[ "enfriabais", "enfriaban" ],
+			[ "enfriaban" ]
+		],
+		"6" : [
+			[ "enfriaría" ],
+			[ "enfriarías" ],
+			[ "enfriaría" ],
+			[ "enfriaríamos" ],
+			[ "enfriaríais", "enfriarían" ],
+			[ "enfriarían" ]
+		],
+		"7" : [
+			[ "enfriaré" ],
+			[ "enfriarás" ],
+			[ "enfriará" ],
+			[ "enfriaremos" ],
+			[ "enfriaréis", "enfriarán" ],
+			[ "enfriarán" ]
+		],
+		"8" : [
+			[ "enfríe" ],
+			[ "enfríes" ],
+			[ "enfríe" ],
+			[ "enfriemos" ],
+			[ "enfriéis", "enfríen" ],
+			[ "enfríen" ]
+		],
+		"9" : [
+			[ "enfriara" ],
+			[ "enfriaras" ],
+			[ "enfriara" ],
+			[ "enfriáramos" ],
+			[ "enfriarais", "enfriaran" ],
+			[ "enfriaran" ]
+		],
+		"10" : [
+			[ "enfriase" ],
+			[ "enfriases" ],
+			[ "enfriase" ],
+			[ "enfriásemos" ],
+			[ "enfriaseis", "enfriasen" ],
+			[ "enfriasen" ]
+		],
+		"11" : [
+			[ "enfriare" ],
+			[ "enfriares" ],
+			[ "enfriare" ],
+			[ "enfriáremos" ],
+			[ "enfriareis", "enfriaren" ],
+			[ "enfriaren" ]
+		],
+		"12" : {
+			"1" : [ "enfría" ],
+			"2" : [ "enfríe" ],
+			"3" : [ "enfriemos" ],
+			"4" : [ "enfriad" ],
+			"5" : [ "enfríen" ]
+		}
+	}
+}

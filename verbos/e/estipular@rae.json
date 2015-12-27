@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estipular",
+	"word" : "estipular",
+	"infinitivo" : "estipular",
+	"participio" : [ "estipulado" ],
+	"gerundio" : [ "estipulando" ],
+	"tenses" : {
+		"3" : [
+			[ "estipulo" ],
+			[ "estipulas", "estipulás" ],
+			[ "estipula" ],
+			[ "estipulamos" ],
+			[ "estipuláis", "estipulan" ],
+			[ "estipulan" ]
+		],
+		"4" : [
+			[ "estipulé" ],
+			[ "estipulaste" ],
+			[ "estipuló" ],
+			[ "estipulamos" ],
+			[ "estipulasteis", "estipularon" ],
+			[ "estipularon" ]
+		],
+		"5" : [
+			[ "estipulaba" ],
+			[ "estipulabas" ],
+			[ "estipulaba" ],
+			[ "estipulábamos" ],
+			[ "estipulabais", "estipulaban" ],
+			[ "estipulaban" ]
+		],
+		"6" : [
+			[ "estipularía" ],
+			[ "estipularías" ],
+			[ "estipularía" ],
+			[ "estipularíamos" ],
+			[ "estipularíais", "estipularían" ],
+			[ "estipularían" ]
+		],
+		"7" : [
+			[ "estipularé" ],
+			[ "estipularás" ],
+			[ "estipulará" ],
+			[ "estipularemos" ],
+			[ "estipularéis", "estipularán" ],
+			[ "estipularán" ]
+		],
+		"8" : [
+			[ "estipule" ],
+			[ "estipules" ],
+			[ "estipule" ],
+			[ "estipulemos" ],
+			[ "estipuléis", "estipulen" ],
+			[ "estipulen" ]
+		],
+		"9" : [
+			[ "estipulara" ],
+			[ "estipularas" ],
+			[ "estipulara" ],
+			[ "estipuláramos" ],
+			[ "estipularais", "estipularan" ],
+			[ "estipularan" ]
+		],
+		"10" : [
+			[ "estipulase" ],
+			[ "estipulases" ],
+			[ "estipulase" ],
+			[ "estipulásemos" ],
+			[ "estipulaseis", "estipulasen" ],
+			[ "estipulasen" ]
+		],
+		"11" : [
+			[ "estipulare" ],
+			[ "estipulares" ],
+			[ "estipulare" ],
+			[ "estipuláremos" ],
+			[ "estipulareis", "estipularen" ],
+			[ "estipularen" ]
+		],
+		"12" : {
+			"1" : [ "estipula" ],
+			"2" : [ "estipule" ],
+			"3" : [ "estipulemos" ],
+			"4" : [ "estipulad" ],
+			"5" : [ "estipulen" ]
+		}
+	}
+}

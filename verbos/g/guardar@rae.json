@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=guardar",
+	"word" : "guardar",
+	"infinitivo" : "guardar",
+	"participio" : [ "guardado" ],
+	"gerundio" : [ "guardando" ],
+	"tenses" : {
+		"3" : [
+			[ "guardo" ],
+			[ "guardas", "guardás" ],
+			[ "guarda" ],
+			[ "guardamos" ],
+			[ "guardáis", "guardan" ],
+			[ "guardan" ]
+		],
+		"4" : [
+			[ "guardé" ],
+			[ "guardaste" ],
+			[ "guardó" ],
+			[ "guardamos" ],
+			[ "guardasteis", "guardaron" ],
+			[ "guardaron" ]
+		],
+		"5" : [
+			[ "guardaba" ],
+			[ "guardabas" ],
+			[ "guardaba" ],
+			[ "guardábamos" ],
+			[ "guardabais", "guardaban" ],
+			[ "guardaban" ]
+		],
+		"6" : [
+			[ "guardaría" ],
+			[ "guardarías" ],
+			[ "guardaría" ],
+			[ "guardaríamos" ],
+			[ "guardaríais", "guardarían" ],
+			[ "guardarían" ]
+		],
+		"7" : [
+			[ "guardaré" ],
+			[ "guardarás" ],
+			[ "guardará" ],
+			[ "guardaremos" ],
+			[ "guardaréis", "guardarán" ],
+			[ "guardarán" ]
+		],
+		"8" : [
+			[ "guarde" ],
+			[ "guardes" ],
+			[ "guarde" ],
+			[ "guardemos" ],
+			[ "guardéis", "guarden" ],
+			[ "guarden" ]
+		],
+		"9" : [
+			[ "guardara" ],
+			[ "guardaras" ],
+			[ "guardara" ],
+			[ "guardáramos" ],
+			[ "guardarais", "guardaran" ],
+			[ "guardaran" ]
+		],
+		"10" : [
+			[ "guardase" ],
+			[ "guardases" ],
+			[ "guardase" ],
+			[ "guardásemos" ],
+			[ "guardaseis", "guardasen" ],
+			[ "guardasen" ]
+		],
+		"11" : [
+			[ "guardare" ],
+			[ "guardares" ],
+			[ "guardare" ],
+			[ "guardáremos" ],
+			[ "guardareis", "guardaren" ],
+			[ "guardaren" ]
+		],
+		"12" : {
+			"1" : [ "guarda" ],
+			"2" : [ "guarde" ],
+			"3" : [ "guardemos" ],
+			"4" : [ "guardad" ],
+			"5" : [ "guarden" ]
+		}
+	}
+}

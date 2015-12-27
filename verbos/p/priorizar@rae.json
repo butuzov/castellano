@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=priorizar",
+	"word" : "priorizar",
+	"infinitivo" : "priorizar",
+	"participio" : [ "priorizado" ],
+	"gerundio" : [ "priorizando" ],
+	"tenses" : {
+		"3" : [
+			[ "priorizo" ],
+			[ "priorizas", "priorizás" ],
+			[ "prioriza" ],
+			[ "priorizamos" ],
+			[ "priorizáis", "priorizan" ],
+			[ "priorizan" ]
+		],
+		"4" : [
+			[ "prioricé" ],
+			[ "priorizaste" ],
+			[ "priorizó" ],
+			[ "priorizamos" ],
+			[ "priorizasteis", "priorizaron" ],
+			[ "priorizaron" ]
+		],
+		"5" : [
+			[ "priorizaba" ],
+			[ "priorizabas" ],
+			[ "priorizaba" ],
+			[ "priorizábamos" ],
+			[ "priorizabais", "priorizaban" ],
+			[ "priorizaban" ]
+		],
+		"6" : [
+			[ "priorizaría" ],
+			[ "priorizarías" ],
+			[ "priorizaría" ],
+			[ "priorizaríamos" ],
+			[ "priorizaríais", "priorizarían" ],
+			[ "priorizarían" ]
+		],
+		"7" : [
+			[ "priorizaré" ],
+			[ "priorizarás" ],
+			[ "priorizará" ],
+			[ "priorizaremos" ],
+			[ "priorizaréis", "priorizarán" ],
+			[ "priorizarán" ]
+		],
+		"8" : [
+			[ "priorice" ],
+			[ "priorices" ],
+			[ "priorice" ],
+			[ "prioricemos" ],
+			[ "prioricéis", "prioricen" ],
+			[ "prioricen" ]
+		],
+		"9" : [
+			[ "priorizara" ],
+			[ "priorizaras" ],
+			[ "priorizara" ],
+			[ "priorizáramos" ],
+			[ "priorizarais", "priorizaran" ],
+			[ "priorizaran" ]
+		],
+		"10" : [
+			[ "priorizase" ],
+			[ "priorizases" ],
+			[ "priorizase" ],
+			[ "priorizásemos" ],
+			[ "priorizaseis", "priorizasen" ],
+			[ "priorizasen" ]
+		],
+		"11" : [
+			[ "priorizare" ],
+			[ "priorizares" ],
+			[ "priorizare" ],
+			[ "priorizáremos" ],
+			[ "priorizareis", "priorizaren" ],
+			[ "priorizaren" ]
+		],
+		"12" : {
+			"1" : [ "prioriza" ],
+			"2" : [ "priorice" ],
+			"3" : [ "prioricemos" ],
+			"4" : [ "priorizad" ],
+			"5" : [ "prioricen" ]
+		}
+	}
+}

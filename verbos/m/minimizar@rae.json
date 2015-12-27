@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=minimizar",
+	"word" : "minimizar",
+	"infinitivo" : "minimizar",
+	"participio" : [ "minimizado" ],
+	"gerundio" : [ "minimizando" ],
+	"tenses" : {
+		"3" : [
+			[ "minimizo" ],
+			[ "minimizas", "minimizás" ],
+			[ "minimiza" ],
+			[ "minimizamos" ],
+			[ "minimizáis", "minimizan" ],
+			[ "minimizan" ]
+		],
+		"4" : [
+			[ "minimicé" ],
+			[ "minimizaste" ],
+			[ "minimizó" ],
+			[ "minimizamos" ],
+			[ "minimizasteis", "minimizaron" ],
+			[ "minimizaron" ]
+		],
+		"5" : [
+			[ "minimizaba" ],
+			[ "minimizabas" ],
+			[ "minimizaba" ],
+			[ "minimizábamos" ],
+			[ "minimizabais", "minimizaban" ],
+			[ "minimizaban" ]
+		],
+		"6" : [
+			[ "minimizaría" ],
+			[ "minimizarías" ],
+			[ "minimizaría" ],
+			[ "minimizaríamos" ],
+			[ "minimizaríais", "minimizarían" ],
+			[ "minimizarían" ]
+		],
+		"7" : [
+			[ "minimizaré" ],
+			[ "minimizarás" ],
+			[ "minimizará" ],
+			[ "minimizaremos" ],
+			[ "minimizaréis", "minimizarán" ],
+			[ "minimizarán" ]
+		],
+		"8" : [
+			[ "minimice" ],
+			[ "minimices" ],
+			[ "minimice" ],
+			[ "minimicemos" ],
+			[ "minimicéis", "minimicen" ],
+			[ "minimicen" ]
+		],
+		"9" : [
+			[ "minimizara" ],
+			[ "minimizaras" ],
+			[ "minimizara" ],
+			[ "minimizáramos" ],
+			[ "minimizarais", "minimizaran" ],
+			[ "minimizaran" ]
+		],
+		"10" : [
+			[ "minimizase" ],
+			[ "minimizases" ],
+			[ "minimizase" ],
+			[ "minimizásemos" ],
+			[ "minimizaseis", "minimizasen" ],
+			[ "minimizasen" ]
+		],
+		"11" : [
+			[ "minimizare" ],
+			[ "minimizares" ],
+			[ "minimizare" ],
+			[ "minimizáremos" ],
+			[ "minimizareis", "minimizaren" ],
+			[ "minimizaren" ]
+		],
+		"12" : {
+			"1" : [ "minimiza" ],
+			"2" : [ "minimice" ],
+			"3" : [ "minimicemos" ],
+			"4" : [ "minimizad" ],
+			"5" : [ "minimicen" ]
+		}
+	}
+}

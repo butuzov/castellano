@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=expiar",
+	"word" : "expiar",
+	"infinitivo" : "expiar",
+	"participio" : [ "expiado" ],
+	"gerundio" : [ "expiando" ],
+	"tenses" : {
+		"3" : [
+			[ "expío" ],
+			[ "expías", "expiás" ],
+			[ "expía" ],
+			[ "expiamos" ],
+			[ "expiáis", "expían" ],
+			[ "expían" ]
+		],
+		"4" : [
+			[ "expié" ],
+			[ "expiaste" ],
+			[ "expió" ],
+			[ "expiamos" ],
+			[ "expiasteis", "expiaron" ],
+			[ "expiaron" ]
+		],
+		"5" : [
+			[ "expiaba" ],
+			[ "expiabas" ],
+			[ "expiaba" ],
+			[ "expiábamos" ],
+			[ "expiabais", "expiaban" ],
+			[ "expiaban" ]
+		],
+		"6" : [
+			[ "expiaría" ],
+			[ "expiarías" ],
+			[ "expiaría" ],
+			[ "expiaríamos" ],
+			[ "expiaríais", "expiarían" ],
+			[ "expiarían" ]
+		],
+		"7" : [
+			[ "expiaré" ],
+			[ "expiarás" ],
+			[ "expiará" ],
+			[ "expiaremos" ],
+			[ "expiaréis", "expiarán" ],
+			[ "expiarán" ]
+		],
+		"8" : [
+			[ "expíe" ],
+			[ "expíes" ],
+			[ "expíe" ],
+			[ "expiemos" ],
+			[ "expiéis", "expíen" ],
+			[ "expíen" ]
+		],
+		"9" : [
+			[ "expiara" ],
+			[ "expiaras" ],
+			[ "expiara" ],
+			[ "expiáramos" ],
+			[ "expiarais", "expiaran" ],
+			[ "expiaran" ]
+		],
+		"10" : [
+			[ "expiase" ],
+			[ "expiases" ],
+			[ "expiase" ],
+			[ "expiásemos" ],
+			[ "expiaseis", "expiasen" ],
+			[ "expiasen" ]
+		],
+		"11" : [
+			[ "expiare" ],
+			[ "expiares" ],
+			[ "expiare" ],
+			[ "expiáremos" ],
+			[ "expiareis", "expiaren" ],
+			[ "expiaren" ]
+		],
+		"12" : {
+			"1" : [ "expía" ],
+			"2" : [ "expíe" ],
+			"3" : [ "expiemos" ],
+			"4" : [ "expiad" ],
+			"5" : [ "expíen" ]
+		}
+	}
+}

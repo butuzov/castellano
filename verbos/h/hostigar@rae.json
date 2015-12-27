@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hostigar",
+	"word" : "hostigar",
+	"infinitivo" : "hostigar",
+	"participio" : [ "hostigado" ],
+	"gerundio" : [ "hostigando" ],
+	"tenses" : {
+		"3" : [
+			[ "hostigo" ],
+			[ "hostigas", "hostigás" ],
+			[ "hostiga" ],
+			[ "hostigamos" ],
+			[ "hostigáis", "hostigan" ],
+			[ "hostigan" ]
+		],
+		"4" : [
+			[ "hostigué" ],
+			[ "hostigaste" ],
+			[ "hostigó" ],
+			[ "hostigamos" ],
+			[ "hostigasteis", "hostigaron" ],
+			[ "hostigaron" ]
+		],
+		"5" : [
+			[ "hostigaba" ],
+			[ "hostigabas" ],
+			[ "hostigaba" ],
+			[ "hostigábamos" ],
+			[ "hostigabais", "hostigaban" ],
+			[ "hostigaban" ]
+		],
+		"6" : [
+			[ "hostigaría" ],
+			[ "hostigarías" ],
+			[ "hostigaría" ],
+			[ "hostigaríamos" ],
+			[ "hostigaríais", "hostigarían" ],
+			[ "hostigarían" ]
+		],
+		"7" : [
+			[ "hostigaré" ],
+			[ "hostigarás" ],
+			[ "hostigará" ],
+			[ "hostigaremos" ],
+			[ "hostigaréis", "hostigarán" ],
+			[ "hostigarán" ]
+		],
+		"8" : [
+			[ "hostigue" ],
+			[ "hostigues" ],
+			[ "hostigue" ],
+			[ "hostiguemos" ],
+			[ "hostiguéis", "hostiguen" ],
+			[ "hostiguen" ]
+		],
+		"9" : [
+			[ "hostigara" ],
+			[ "hostigaras" ],
+			[ "hostigara" ],
+			[ "hostigáramos" ],
+			[ "hostigarais", "hostigaran" ],
+			[ "hostigaran" ]
+		],
+		"10" : [
+			[ "hostigase" ],
+			[ "hostigases" ],
+			[ "hostigase" ],
+			[ "hostigásemos" ],
+			[ "hostigaseis", "hostigasen" ],
+			[ "hostigasen" ]
+		],
+		"11" : [
+			[ "hostigare" ],
+			[ "hostigares" ],
+			[ "hostigare" ],
+			[ "hostigáremos" ],
+			[ "hostigareis", "hostigaren" ],
+			[ "hostigaren" ]
+		],
+		"12" : {
+			"1" : [ "hostiga" ],
+			"2" : [ "hostigue" ],
+			"3" : [ "hostiguemos" ],
+			"4" : [ "hostigad" ],
+			"5" : [ "hostiguen" ]
+		}
+	}
+}

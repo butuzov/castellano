@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=manufacturar",
+	"word" : "manufacturar",
+	"infinitivo" : "manufacturar",
+	"participio" : [ "manufacturado" ],
+	"gerundio" : [ "manufacturando" ],
+	"tenses" : {
+		"3" : [
+			[ "manufacturo" ],
+			[ "manufacturas", "manufacturás" ],
+			[ "manufactura" ],
+			[ "manufacturamos" ],
+			[ "manufacturáis", "manufacturan" ],
+			[ "manufacturan" ]
+		],
+		"4" : [
+			[ "manufacturé" ],
+			[ "manufacturaste" ],
+			[ "manufacturó" ],
+			[ "manufacturamos" ],
+			[ "manufacturasteis", "manufacturaron" ],
+			[ "manufacturaron" ]
+		],
+		"5" : [
+			[ "manufacturaba" ],
+			[ "manufacturabas" ],
+			[ "manufacturaba" ],
+			[ "manufacturábamos" ],
+			[ "manufacturabais", "manufacturaban" ],
+			[ "manufacturaban" ]
+		],
+		"6" : [
+			[ "manufacturaría" ],
+			[ "manufacturarías" ],
+			[ "manufacturaría" ],
+			[ "manufacturaríamos" ],
+			[ "manufacturaríais", "manufacturarían" ],
+			[ "manufacturarían" ]
+		],
+		"7" : [
+			[ "manufacturaré" ],
+			[ "manufacturarás" ],
+			[ "manufacturará" ],
+			[ "manufacturaremos" ],
+			[ "manufacturaréis", "manufacturarán" ],
+			[ "manufacturarán" ]
+		],
+		"8" : [
+			[ "manufacture" ],
+			[ "manufactures" ],
+			[ "manufacture" ],
+			[ "manufacturemos" ],
+			[ "manufacturéis", "manufacturen" ],
+			[ "manufacturen" ]
+		],
+		"9" : [
+			[ "manufacturara" ],
+			[ "manufacturaras" ],
+			[ "manufacturara" ],
+			[ "manufacturáramos" ],
+			[ "manufacturarais", "manufacturaran" ],
+			[ "manufacturaran" ]
+		],
+		"10" : [
+			[ "manufacturase" ],
+			[ "manufacturases" ],
+			[ "manufacturase" ],
+			[ "manufacturásemos" ],
+			[ "manufacturaseis", "manufacturasen" ],
+			[ "manufacturasen" ]
+		],
+		"11" : [
+			[ "manufacturare" ],
+			[ "manufacturares" ],
+			[ "manufacturare" ],
+			[ "manufacturáremos" ],
+			[ "manufacturareis", "manufacturaren" ],
+			[ "manufacturaren" ]
+		],
+		"12" : {
+			"1" : [ "manufactura" ],
+			"2" : [ "manufacture" ],
+			"3" : [ "manufacturemos" ],
+			"4" : [ "manufacturad" ],
+			"5" : [ "manufacturen" ]
+		}
+	}
+}

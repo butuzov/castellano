@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rojear",
+	"word" : "rojear",
+	"infinitivo" : "rojear",
+	"participio" : [ "rojeado" ],
+	"gerundio" : [ "rojeando" ],
+	"tenses" : {
+		"3" : [
+			[ "rojeo" ],
+			[ "rojeas", "rojeás" ],
+			[ "rojea" ],
+			[ "rojeamos" ],
+			[ "rojeáis", "rojean" ],
+			[ "rojean" ]
+		],
+		"4" : [
+			[ "rojeé" ],
+			[ "rojeaste" ],
+			[ "rojeó" ],
+			[ "rojeamos" ],
+			[ "rojeasteis", "rojearon" ],
+			[ "rojearon" ]
+		],
+		"5" : [
+			[ "rojeaba" ],
+			[ "rojeabas" ],
+			[ "rojeaba" ],
+			[ "rojeábamos" ],
+			[ "rojeabais", "rojeaban" ],
+			[ "rojeaban" ]
+		],
+		"6" : [
+			[ "rojearía" ],
+			[ "rojearías" ],
+			[ "rojearía" ],
+			[ "rojearíamos" ],
+			[ "rojearíais", "rojearían" ],
+			[ "rojearían" ]
+		],
+		"7" : [
+			[ "rojearé" ],
+			[ "rojearás" ],
+			[ "rojeará" ],
+			[ "rojearemos" ],
+			[ "rojearéis", "rojearán" ],
+			[ "rojearán" ]
+		],
+		"8" : [
+			[ "rojee" ],
+			[ "rojees" ],
+			[ "rojee" ],
+			[ "rojeemos" ],
+			[ "rojeéis", "rojeen" ],
+			[ "rojeen" ]
+		],
+		"9" : [
+			[ "rojeara" ],
+			[ "rojearas" ],
+			[ "rojeara" ],
+			[ "rojeáramos" ],
+			[ "rojearais", "rojearan" ],
+			[ "rojearan" ]
+		],
+		"10" : [
+			[ "rojease" ],
+			[ "rojeases" ],
+			[ "rojease" ],
+			[ "rojeásemos" ],
+			[ "rojeaseis", "rojeasen" ],
+			[ "rojeasen" ]
+		],
+		"11" : [
+			[ "rojeare" ],
+			[ "rojeares" ],
+			[ "rojeare" ],
+			[ "rojeáremos" ],
+			[ "rojeareis", "rojearen" ],
+			[ "rojearen" ]
+		],
+		"12" : {
+			"1" : [ "rojea" ],
+			"2" : [ "rojee" ],
+			"3" : [ "rojeemos" ],
+			"4" : [ "rojead" ],
+			"5" : [ "rojeen" ]
+		}
+	}
+}

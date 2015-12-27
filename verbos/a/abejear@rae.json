@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abejear",
+	"word" : "abejear",
+	"infinitivo" : "abejear",
+	"participio" : [ "abejeado" ],
+	"gerundio" : [ "abejeando" ],
+	"tenses" : {
+		"3" : [
+			[ "abejeo" ],
+			[ "abejeas", "abejeás" ],
+			[ "abejea" ],
+			[ "abejeamos" ],
+			[ "abejeáis", "abejean" ],
+			[ "abejean" ]
+		],
+		"4" : [
+			[ "abejeé" ],
+			[ "abejeaste" ],
+			[ "abejeó" ],
+			[ "abejeamos" ],
+			[ "abejeasteis", "abejearon" ],
+			[ "abejearon" ]
+		],
+		"5" : [
+			[ "abejeaba" ],
+			[ "abejeabas" ],
+			[ "abejeaba" ],
+			[ "abejeábamos" ],
+			[ "abejeabais", "abejeaban" ],
+			[ "abejeaban" ]
+		],
+		"6" : [
+			[ "abejearía" ],
+			[ "abejearías" ],
+			[ "abejearía" ],
+			[ "abejearíamos" ],
+			[ "abejearíais", "abejearían" ],
+			[ "abejearían" ]
+		],
+		"7" : [
+			[ "abejearé" ],
+			[ "abejearás" ],
+			[ "abejeará" ],
+			[ "abejearemos" ],
+			[ "abejearéis", "abejearán" ],
+			[ "abejearán" ]
+		],
+		"8" : [
+			[ "abejee" ],
+			[ "abejees" ],
+			[ "abejee" ],
+			[ "abejeemos" ],
+			[ "abejeéis", "abejeen" ],
+			[ "abejeen" ]
+		],
+		"9" : [
+			[ "abejeara" ],
+			[ "abejearas" ],
+			[ "abejeara" ],
+			[ "abejeáramos" ],
+			[ "abejearais", "abejearan" ],
+			[ "abejearan" ]
+		],
+		"10" : [
+			[ "abejease" ],
+			[ "abejeases" ],
+			[ "abejease" ],
+			[ "abejeásemos" ],
+			[ "abejeaseis", "abejeasen" ],
+			[ "abejeasen" ]
+		],
+		"11" : [
+			[ "abejeare" ],
+			[ "abejeares" ],
+			[ "abejeare" ],
+			[ "abejeáremos" ],
+			[ "abejeareis", "abejearen" ],
+			[ "abejearen" ]
+		],
+		"12" : {
+			"1" : [ "abejea" ],
+			"2" : [ "abejee" ],
+			"3" : [ "abejeemos" ],
+			"4" : [ "abejead" ],
+			"5" : [ "abejeen" ]
+		}
+	}
+}

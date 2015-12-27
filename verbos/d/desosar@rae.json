@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desosar",
+	"word" : "desosar",
+	"infinitivo" : "desosar",
+	"participio" : [ "desosado" ],
+	"gerundio" : [ "desosando" ],
+	"tenses" : {
+		"3" : [
+			[ "deshueso" ],
+			[ "deshuesas", "desosás" ],
+			[ "deshuesa" ],
+			[ "desosamos" ],
+			[ "desosáis", "deshuesan" ],
+			[ "deshuesan" ]
+		],
+		"4" : [
+			[ "desosé" ],
+			[ "desosaste" ],
+			[ "desosó" ],
+			[ "desosamos" ],
+			[ "desosasteis", "desosaron" ],
+			[ "desosaron" ]
+		],
+		"5" : [
+			[ "desosaba" ],
+			[ "desosabas" ],
+			[ "desosaba" ],
+			[ "desosábamos" ],
+			[ "desosabais", "desosaban" ],
+			[ "desosaban" ]
+		],
+		"6" : [
+			[ "desosaría" ],
+			[ "desosarías" ],
+			[ "desosaría" ],
+			[ "desosaríamos" ],
+			[ "desosaríais", "desosarían" ],
+			[ "desosarían" ]
+		],
+		"7" : [
+			[ "desosaré" ],
+			[ "desosarás" ],
+			[ "desosará" ],
+			[ "desosaremos" ],
+			[ "desosaréis", "desosarán" ],
+			[ "desosarán" ]
+		],
+		"8" : [
+			[ "deshuese" ],
+			[ "deshueses" ],
+			[ "deshuese" ],
+			[ "desosemos" ],
+			[ "desoséis", "deshuesen" ],
+			[ "deshuesen" ]
+		],
+		"9" : [
+			[ "desosara" ],
+			[ "desosaras" ],
+			[ "desosara" ],
+			[ "desosáramos" ],
+			[ "desosarais", "desosaran" ],
+			[ "desosaran" ]
+		],
+		"10" : [
+			[ "desosase" ],
+			[ "desosases" ],
+			[ "desosase" ],
+			[ "desosásemos" ],
+			[ "desosaseis", "desosasen" ],
+			[ "desosasen" ]
+		],
+		"11" : [
+			[ "desosare" ],
+			[ "desosares" ],
+			[ "desosare" ],
+			[ "desosáremos" ],
+			[ "desosareis", "desosaren" ],
+			[ "desosaren" ]
+		],
+		"12" : {
+			"1" : [ "deshuesa" ],
+			"2" : [ "deshuese" ],
+			"3" : [ "desosemos" ],
+			"4" : [ "desosad" ],
+			"5" : [ "deshuesen" ]
+		}
+	}
+}

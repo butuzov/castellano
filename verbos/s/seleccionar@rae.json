@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=seleccionar",
+	"word" : "seleccionar",
+	"infinitivo" : "seleccionar",
+	"participio" : [ "seleccionado" ],
+	"gerundio" : [ "seleccionando" ],
+	"tenses" : {
+		"3" : [
+			[ "selecciono" ],
+			[ "seleccionas", "seleccionás" ],
+			[ "selecciona" ],
+			[ "seleccionamos" ],
+			[ "seleccionáis", "seleccionan" ],
+			[ "seleccionan" ]
+		],
+		"4" : [
+			[ "seleccioné" ],
+			[ "seleccionaste" ],
+			[ "seleccionó" ],
+			[ "seleccionamos" ],
+			[ "seleccionasteis", "seleccionaron" ],
+			[ "seleccionaron" ]
+		],
+		"5" : [
+			[ "seleccionaba" ],
+			[ "seleccionabas" ],
+			[ "seleccionaba" ],
+			[ "seleccionábamos" ],
+			[ "seleccionabais", "seleccionaban" ],
+			[ "seleccionaban" ]
+		],
+		"6" : [
+			[ "seleccionaría" ],
+			[ "seleccionarías" ],
+			[ "seleccionaría" ],
+			[ "seleccionaríamos" ],
+			[ "seleccionaríais", "seleccionarían" ],
+			[ "seleccionarían" ]
+		],
+		"7" : [
+			[ "seleccionaré" ],
+			[ "seleccionarás" ],
+			[ "seleccionará" ],
+			[ "seleccionaremos" ],
+			[ "seleccionaréis", "seleccionarán" ],
+			[ "seleccionarán" ]
+		],
+		"8" : [
+			[ "seleccione" ],
+			[ "selecciones" ],
+			[ "seleccione" ],
+			[ "seleccionemos" ],
+			[ "seleccionéis", "seleccionen" ],
+			[ "seleccionen" ]
+		],
+		"9" : [
+			[ "seleccionara" ],
+			[ "seleccionaras" ],
+			[ "seleccionara" ],
+			[ "seleccionáramos" ],
+			[ "seleccionarais", "seleccionaran" ],
+			[ "seleccionaran" ]
+		],
+		"10" : [
+			[ "seleccionase" ],
+			[ "seleccionases" ],
+			[ "seleccionase" ],
+			[ "seleccionásemos" ],
+			[ "seleccionaseis", "seleccionasen" ],
+			[ "seleccionasen" ]
+		],
+		"11" : [
+			[ "seleccionare" ],
+			[ "seleccionares" ],
+			[ "seleccionare" ],
+			[ "seleccionáremos" ],
+			[ "seleccionareis", "seleccionaren" ],
+			[ "seleccionaren" ]
+		],
+		"12" : {
+			"1" : [ "selecciona" ],
+			"2" : [ "seleccione" ],
+			"3" : [ "seleccionemos" ],
+			"4" : [ "seleccionad" ],
+			"5" : [ "seleccionen" ]
+		}
+	}
+}

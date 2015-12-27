@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arengar",
+	"word" : "arengar",
+	"infinitivo" : "arengar",
+	"participio" : [ "arengado" ],
+	"gerundio" : [ "arengando" ],
+	"tenses" : {
+		"3" : [
+			[ "arengo" ],
+			[ "arengas", "arengás" ],
+			[ "arenga" ],
+			[ "arengamos" ],
+			[ "arengáis", "arengan" ],
+			[ "arengan" ]
+		],
+		"4" : [
+			[ "arengué" ],
+			[ "arengaste" ],
+			[ "arengó" ],
+			[ "arengamos" ],
+			[ "arengasteis", "arengaron" ],
+			[ "arengaron" ]
+		],
+		"5" : [
+			[ "arengaba" ],
+			[ "arengabas" ],
+			[ "arengaba" ],
+			[ "arengábamos" ],
+			[ "arengabais", "arengaban" ],
+			[ "arengaban" ]
+		],
+		"6" : [
+			[ "arengaría" ],
+			[ "arengarías" ],
+			[ "arengaría" ],
+			[ "arengaríamos" ],
+			[ "arengaríais", "arengarían" ],
+			[ "arengarían" ]
+		],
+		"7" : [
+			[ "arengaré" ],
+			[ "arengarás" ],
+			[ "arengará" ],
+			[ "arengaremos" ],
+			[ "arengaréis", "arengarán" ],
+			[ "arengarán" ]
+		],
+		"8" : [
+			[ "arengue" ],
+			[ "arengues" ],
+			[ "arengue" ],
+			[ "arenguemos" ],
+			[ "arenguéis", "arenguen" ],
+			[ "arenguen" ]
+		],
+		"9" : [
+			[ "arengara" ],
+			[ "arengaras" ],
+			[ "arengara" ],
+			[ "arengáramos" ],
+			[ "arengarais", "arengaran" ],
+			[ "arengaran" ]
+		],
+		"10" : [
+			[ "arengase" ],
+			[ "arengases" ],
+			[ "arengase" ],
+			[ "arengásemos" ],
+			[ "arengaseis", "arengasen" ],
+			[ "arengasen" ]
+		],
+		"11" : [
+			[ "arengare" ],
+			[ "arengares" ],
+			[ "arengare" ],
+			[ "arengáremos" ],
+			[ "arengareis", "arengaren" ],
+			[ "arengaren" ]
+		],
+		"12" : {
+			"1" : [ "arenga" ],
+			"2" : [ "arengue" ],
+			"3" : [ "arenguemos" ],
+			"4" : [ "arengad" ],
+			"5" : [ "arenguen" ]
+		}
+	}
+}

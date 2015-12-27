@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enlazar",
+	"word" : "enlazar",
+	"infinitivo" : "enlazar",
+	"participio" : [ "enlazado" ],
+	"gerundio" : [ "enlazando" ],
+	"tenses" : {
+		"3" : [
+			[ "enlazo" ],
+			[ "enlazas", "enlazás" ],
+			[ "enlaza" ],
+			[ "enlazamos" ],
+			[ "enlazáis", "enlazan" ],
+			[ "enlazan" ]
+		],
+		"4" : [
+			[ "enlacé" ],
+			[ "enlazaste" ],
+			[ "enlazó" ],
+			[ "enlazamos" ],
+			[ "enlazasteis", "enlazaron" ],
+			[ "enlazaron" ]
+		],
+		"5" : [
+			[ "enlazaba" ],
+			[ "enlazabas" ],
+			[ "enlazaba" ],
+			[ "enlazábamos" ],
+			[ "enlazabais", "enlazaban" ],
+			[ "enlazaban" ]
+		],
+		"6" : [
+			[ "enlazaría" ],
+			[ "enlazarías" ],
+			[ "enlazaría" ],
+			[ "enlazaríamos" ],
+			[ "enlazaríais", "enlazarían" ],
+			[ "enlazarían" ]
+		],
+		"7" : [
+			[ "enlazaré" ],
+			[ "enlazarás" ],
+			[ "enlazará" ],
+			[ "enlazaremos" ],
+			[ "enlazaréis", "enlazarán" ],
+			[ "enlazarán" ]
+		],
+		"8" : [
+			[ "enlace" ],
+			[ "enlaces" ],
+			[ "enlace" ],
+			[ "enlacemos" ],
+			[ "enlacéis", "enlacen" ],
+			[ "enlacen" ]
+		],
+		"9" : [
+			[ "enlazara" ],
+			[ "enlazaras" ],
+			[ "enlazara" ],
+			[ "enlazáramos" ],
+			[ "enlazarais", "enlazaran" ],
+			[ "enlazaran" ]
+		],
+		"10" : [
+			[ "enlazase" ],
+			[ "enlazases" ],
+			[ "enlazase" ],
+			[ "enlazásemos" ],
+			[ "enlazaseis", "enlazasen" ],
+			[ "enlazasen" ]
+		],
+		"11" : [
+			[ "enlazare" ],
+			[ "enlazares" ],
+			[ "enlazare" ],
+			[ "enlazáremos" ],
+			[ "enlazareis", "enlazaren" ],
+			[ "enlazaren" ]
+		],
+		"12" : {
+			"1" : [ "enlaza" ],
+			"2" : [ "enlace" ],
+			"3" : [ "enlacemos" ],
+			"4" : [ "enlazad" ],
+			"5" : [ "enlacen" ]
+		}
+	}
+}

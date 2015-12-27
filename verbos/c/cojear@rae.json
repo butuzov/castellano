@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cojear",
+	"word" : "cojear",
+	"infinitivo" : "cojear",
+	"participio" : [ "cojeado" ],
+	"gerundio" : [ "cojeando" ],
+	"tenses" : {
+		"3" : [
+			[ "cojeo" ],
+			[ "cojeas", "cojeás" ],
+			[ "cojea" ],
+			[ "cojeamos" ],
+			[ "cojeáis", "cojean" ],
+			[ "cojean" ]
+		],
+		"4" : [
+			[ "cojeé" ],
+			[ "cojeaste" ],
+			[ "cojeó" ],
+			[ "cojeamos" ],
+			[ "cojeasteis", "cojearon" ],
+			[ "cojearon" ]
+		],
+		"5" : [
+			[ "cojeaba" ],
+			[ "cojeabas" ],
+			[ "cojeaba" ],
+			[ "cojeábamos" ],
+			[ "cojeabais", "cojeaban" ],
+			[ "cojeaban" ]
+		],
+		"6" : [
+			[ "cojearía" ],
+			[ "cojearías" ],
+			[ "cojearía" ],
+			[ "cojearíamos" ],
+			[ "cojearíais", "cojearían" ],
+			[ "cojearían" ]
+		],
+		"7" : [
+			[ "cojearé" ],
+			[ "cojearás" ],
+			[ "cojeará" ],
+			[ "cojearemos" ],
+			[ "cojearéis", "cojearán" ],
+			[ "cojearán" ]
+		],
+		"8" : [
+			[ "cojee" ],
+			[ "cojees" ],
+			[ "cojee" ],
+			[ "cojeemos" ],
+			[ "cojeéis", "cojeen" ],
+			[ "cojeen" ]
+		],
+		"9" : [
+			[ "cojeara" ],
+			[ "cojearas" ],
+			[ "cojeara" ],
+			[ "cojeáramos" ],
+			[ "cojearais", "cojearan" ],
+			[ "cojearan" ]
+		],
+		"10" : [
+			[ "cojease" ],
+			[ "cojeases" ],
+			[ "cojease" ],
+			[ "cojeásemos" ],
+			[ "cojeaseis", "cojeasen" ],
+			[ "cojeasen" ]
+		],
+		"11" : [
+			[ "cojeare" ],
+			[ "cojeares" ],
+			[ "cojeare" ],
+			[ "cojeáremos" ],
+			[ "cojeareis", "cojearen" ],
+			[ "cojearen" ]
+		],
+		"12" : {
+			"1" : [ "cojea" ],
+			"2" : [ "cojee" ],
+			"3" : [ "cojeemos" ],
+			"4" : [ "cojead" ],
+			"5" : [ "cojeen" ]
+		}
+	}
+}

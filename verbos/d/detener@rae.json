@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=detener",
+	"word" : "detener",
+	"infinitivo" : "detener",
+	"participio" : [ "detenido" ],
+	"gerundio" : [ "deteniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "detengo" ],
+			[ "detienes", "detenés" ],
+			[ "detiene" ],
+			[ "detenemos" ],
+			[ "detenéis", "detienen" ],
+			[ "detienen" ]
+		],
+		"4" : [
+			[ "detuve" ],
+			[ "detuviste" ],
+			[ "detuvo" ],
+			[ "detuvimos" ],
+			[ "detuvisteis", "detuvieron" ],
+			[ "detuvieron" ]
+		],
+		"5" : [
+			[ "detenía" ],
+			[ "detenías" ],
+			[ "detenía" ],
+			[ "deteníamos" ],
+			[ "deteníais", "detenían" ],
+			[ "detenían" ]
+		],
+		"6" : [
+			[ "detendría" ],
+			[ "detendrías" ],
+			[ "detendría" ],
+			[ "detendríamos" ],
+			[ "detendríais", "detendrían" ],
+			[ "detendrían" ]
+		],
+		"7" : [
+			[ "detendré" ],
+			[ "detendrás" ],
+			[ "detendrá" ],
+			[ "detendremos" ],
+			[ "detendréis", "detendrán" ],
+			[ "detendrán" ]
+		],
+		"8" : [
+			[ "detenga" ],
+			[ "detengas" ],
+			[ "detenga" ],
+			[ "detengamos" ],
+			[ "detengáis", "detengan" ],
+			[ "detengan" ]
+		],
+		"9" : [
+			[ "detuviera" ],
+			[ "detuvieras" ],
+			[ "detuviera" ],
+			[ "detuviéramos" ],
+			[ "detuvierais", "detuvieran" ],
+			[ "detuvieran" ]
+		],
+		"10" : [
+			[ "detuviese" ],
+			[ "detuvieses" ],
+			[ "detuviese" ],
+			[ "detuviésemos" ],
+			[ "detuvieseis", "detuviesen" ],
+			[ "detuviesen" ]
+		],
+		"11" : [
+			[ "detuviere" ],
+			[ "detuvieres" ],
+			[ "detuviere" ],
+			[ "detuviéremos" ],
+			[ "detuviereis", "detuvieren" ],
+			[ "detuvieren" ]
+		],
+		"12" : {
+			"1" : [ "detén" ],
+			"2" : [ "detenga" ],
+			"3" : [ "detengamos" ],
+			"4" : [ "detened" ],
+			"5" : [ "detengan" ]
+		}
+	}
+}

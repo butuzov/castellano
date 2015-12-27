@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gallar",
+	"word" : "gallar",
+	"infinitivo" : "gallar",
+	"participio" : [ "gallado" ],
+	"gerundio" : [ "gallando" ],
+	"tenses" : {
+		"3" : [
+			[ "gallo" ],
+			[ "gallas", "gallás" ],
+			[ "galla" ],
+			[ "gallamos" ],
+			[ "galláis", "gallan" ],
+			[ "gallan" ]
+		],
+		"4" : [
+			[ "gallé" ],
+			[ "gallaste" ],
+			[ "galló" ],
+			[ "gallamos" ],
+			[ "gallasteis", "gallaron" ],
+			[ "gallaron" ]
+		],
+		"5" : [
+			[ "gallaba" ],
+			[ "gallabas" ],
+			[ "gallaba" ],
+			[ "gallábamos" ],
+			[ "gallabais", "gallaban" ],
+			[ "gallaban" ]
+		],
+		"6" : [
+			[ "gallaría" ],
+			[ "gallarías" ],
+			[ "gallaría" ],
+			[ "gallaríamos" ],
+			[ "gallaríais", "gallarían" ],
+			[ "gallarían" ]
+		],
+		"7" : [
+			[ "gallaré" ],
+			[ "gallarás" ],
+			[ "gallará" ],
+			[ "gallaremos" ],
+			[ "gallaréis", "gallarán" ],
+			[ "gallarán" ]
+		],
+		"8" : [
+			[ "galle" ],
+			[ "galles" ],
+			[ "galle" ],
+			[ "gallemos" ],
+			[ "galléis", "gallen" ],
+			[ "gallen" ]
+		],
+		"9" : [
+			[ "gallara" ],
+			[ "gallaras" ],
+			[ "gallara" ],
+			[ "galláramos" ],
+			[ "gallarais", "gallaran" ],
+			[ "gallaran" ]
+		],
+		"10" : [
+			[ "gallase" ],
+			[ "gallases" ],
+			[ "gallase" ],
+			[ "gallásemos" ],
+			[ "gallaseis", "gallasen" ],
+			[ "gallasen" ]
+		],
+		"11" : [
+			[ "gallare" ],
+			[ "gallares" ],
+			[ "gallare" ],
+			[ "galláremos" ],
+			[ "gallareis", "gallaren" ],
+			[ "gallaren" ]
+		],
+		"12" : {
+			"1" : [ "galla" ],
+			"2" : [ "galle" ],
+			"3" : [ "gallemos" ],
+			"4" : [ "gallad" ],
+			"5" : [ "gallen" ]
+		}
+	}
+}

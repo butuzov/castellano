@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apoderar",
+	"word" : "apoderar",
+	"infinitivo" : "apoderar",
+	"participio" : [ "apoderado" ],
+	"gerundio" : [ "apoderando" ],
+	"tenses" : {
+		"3" : [
+			[ "apodero" ],
+			[ "apoderas", "apoderás" ],
+			[ "apodera" ],
+			[ "apoderamos" ],
+			[ "apoderáis", "apoderan" ],
+			[ "apoderan" ]
+		],
+		"4" : [
+			[ "apoderé" ],
+			[ "apoderaste" ],
+			[ "apoderó" ],
+			[ "apoderamos" ],
+			[ "apoderasteis", "apoderaron" ],
+			[ "apoderaron" ]
+		],
+		"5" : [
+			[ "apoderaba" ],
+			[ "apoderabas" ],
+			[ "apoderaba" ],
+			[ "apoderábamos" ],
+			[ "apoderabais", "apoderaban" ],
+			[ "apoderaban" ]
+		],
+		"6" : [
+			[ "apoderaría" ],
+			[ "apoderarías" ],
+			[ "apoderaría" ],
+			[ "apoderaríamos" ],
+			[ "apoderaríais", "apoderarían" ],
+			[ "apoderarían" ]
+		],
+		"7" : [
+			[ "apoderaré" ],
+			[ "apoderarás" ],
+			[ "apoderará" ],
+			[ "apoderaremos" ],
+			[ "apoderaréis", "apoderarán" ],
+			[ "apoderarán" ]
+		],
+		"8" : [
+			[ "apodere" ],
+			[ "apoderes" ],
+			[ "apodere" ],
+			[ "apoderemos" ],
+			[ "apoderéis", "apoderen" ],
+			[ "apoderen" ]
+		],
+		"9" : [
+			[ "apoderara" ],
+			[ "apoderaras" ],
+			[ "apoderara" ],
+			[ "apoderáramos" ],
+			[ "apoderarais", "apoderaran" ],
+			[ "apoderaran" ]
+		],
+		"10" : [
+			[ "apoderase" ],
+			[ "apoderases" ],
+			[ "apoderase" ],
+			[ "apoderásemos" ],
+			[ "apoderaseis", "apoderasen" ],
+			[ "apoderasen" ]
+		],
+		"11" : [
+			[ "apoderare" ],
+			[ "apoderares" ],
+			[ "apoderare" ],
+			[ "apoderáremos" ],
+			[ "apoderareis", "apoderaren" ],
+			[ "apoderaren" ]
+		],
+		"12" : {
+			"1" : [ "apodera" ],
+			"2" : [ "apodere" ],
+			"3" : [ "apoderemos" ],
+			"4" : [ "apoderad" ],
+			"5" : [ "apoderen" ]
+		}
+	}
+}

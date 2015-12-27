@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=saludar",
+	"word" : "saludar",
+	"infinitivo" : "saludar",
+	"participio" : [ "saludado" ],
+	"gerundio" : [ "saludando" ],
+	"tenses" : {
+		"3" : [
+			[ "saludo" ],
+			[ "saludas", "saludás" ],
+			[ "saluda" ],
+			[ "saludamos" ],
+			[ "saludáis", "saludan" ],
+			[ "saludan" ]
+		],
+		"4" : [
+			[ "saludé" ],
+			[ "saludaste" ],
+			[ "saludó" ],
+			[ "saludamos" ],
+			[ "saludasteis", "saludaron" ],
+			[ "saludaron" ]
+		],
+		"5" : [
+			[ "saludaba" ],
+			[ "saludabas" ],
+			[ "saludaba" ],
+			[ "saludábamos" ],
+			[ "saludabais", "saludaban" ],
+			[ "saludaban" ]
+		],
+		"6" : [
+			[ "saludaría" ],
+			[ "saludarías" ],
+			[ "saludaría" ],
+			[ "saludaríamos" ],
+			[ "saludaríais", "saludarían" ],
+			[ "saludarían" ]
+		],
+		"7" : [
+			[ "saludaré" ],
+			[ "saludarás" ],
+			[ "saludará" ],
+			[ "saludaremos" ],
+			[ "saludaréis", "saludarán" ],
+			[ "saludarán" ]
+		],
+		"8" : [
+			[ "salude" ],
+			[ "saludes" ],
+			[ "salude" ],
+			[ "saludemos" ],
+			[ "saludéis", "saluden" ],
+			[ "saluden" ]
+		],
+		"9" : [
+			[ "saludara" ],
+			[ "saludaras" ],
+			[ "saludara" ],
+			[ "saludáramos" ],
+			[ "saludarais", "saludaran" ],
+			[ "saludaran" ]
+		],
+		"10" : [
+			[ "saludase" ],
+			[ "saludases" ],
+			[ "saludase" ],
+			[ "saludásemos" ],
+			[ "saludaseis", "saludasen" ],
+			[ "saludasen" ]
+		],
+		"11" : [
+			[ "saludare" ],
+			[ "saludares" ],
+			[ "saludare" ],
+			[ "saludáremos" ],
+			[ "saludareis", "saludaren" ],
+			[ "saludaren" ]
+		],
+		"12" : {
+			"1" : [ "saluda" ],
+			"2" : [ "salude" ],
+			"3" : [ "saludemos" ],
+			"4" : [ "saludad" ],
+			"5" : [ "saluden" ]
+		}
+	}
+}

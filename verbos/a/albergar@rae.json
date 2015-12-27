@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=albergar",
+	"word" : "albergar",
+	"infinitivo" : "albergar",
+	"participio" : [ "albergado" ],
+	"gerundio" : [ "albergando" ],
+	"tenses" : {
+		"3" : [
+			[ "albergo" ],
+			[ "albergas", "albergás" ],
+			[ "alberga" ],
+			[ "albergamos" ],
+			[ "albergáis", "albergan" ],
+			[ "albergan" ]
+		],
+		"4" : [
+			[ "albergué" ],
+			[ "albergaste" ],
+			[ "albergó" ],
+			[ "albergamos" ],
+			[ "albergasteis", "albergaron" ],
+			[ "albergaron" ]
+		],
+		"5" : [
+			[ "albergaba" ],
+			[ "albergabas" ],
+			[ "albergaba" ],
+			[ "albergábamos" ],
+			[ "albergabais", "albergaban" ],
+			[ "albergaban" ]
+		],
+		"6" : [
+			[ "albergaría" ],
+			[ "albergarías" ],
+			[ "albergaría" ],
+			[ "albergaríamos" ],
+			[ "albergaríais", "albergarían" ],
+			[ "albergarían" ]
+		],
+		"7" : [
+			[ "albergaré" ],
+			[ "albergarás" ],
+			[ "albergará" ],
+			[ "albergaremos" ],
+			[ "albergaréis", "albergarán" ],
+			[ "albergarán" ]
+		],
+		"8" : [
+			[ "albergue" ],
+			[ "albergues" ],
+			[ "albergue" ],
+			[ "alberguemos" ],
+			[ "alberguéis", "alberguen" ],
+			[ "alberguen" ]
+		],
+		"9" : [
+			[ "albergara" ],
+			[ "albergaras" ],
+			[ "albergara" ],
+			[ "albergáramos" ],
+			[ "albergarais", "albergaran" ],
+			[ "albergaran" ]
+		],
+		"10" : [
+			[ "albergase" ],
+			[ "albergases" ],
+			[ "albergase" ],
+			[ "albergásemos" ],
+			[ "albergaseis", "albergasen" ],
+			[ "albergasen" ]
+		],
+		"11" : [
+			[ "albergare" ],
+			[ "albergares" ],
+			[ "albergare" ],
+			[ "albergáremos" ],
+			[ "albergareis", "albergaren" ],
+			[ "albergaren" ]
+		],
+		"12" : {
+			"1" : [ "alberga" ],
+			"2" : [ "albergue" ],
+			"3" : [ "alberguemos" ],
+			"4" : [ "albergad" ],
+			"5" : [ "alberguen" ]
+		}
+	}
+}

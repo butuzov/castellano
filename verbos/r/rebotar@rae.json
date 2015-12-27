@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rebotar",
+	"word" : "rebotar",
+	"infinitivo" : "rebotar",
+	"participio" : [ "rebotado" ],
+	"gerundio" : [ "rebotando" ],
+	"tenses" : {
+		"3" : [
+			[ "reboto" ],
+			[ "rebotas", "rebotás" ],
+			[ "rebota" ],
+			[ "rebotamos" ],
+			[ "rebotáis", "rebotan" ],
+			[ "rebotan" ]
+		],
+		"4" : [
+			[ "reboté" ],
+			[ "rebotaste" ],
+			[ "rebotó" ],
+			[ "rebotamos" ],
+			[ "rebotasteis", "rebotaron" ],
+			[ "rebotaron" ]
+		],
+		"5" : [
+			[ "rebotaba" ],
+			[ "rebotabas" ],
+			[ "rebotaba" ],
+			[ "rebotábamos" ],
+			[ "rebotabais", "rebotaban" ],
+			[ "rebotaban" ]
+		],
+		"6" : [
+			[ "rebotaría" ],
+			[ "rebotarías" ],
+			[ "rebotaría" ],
+			[ "rebotaríamos" ],
+			[ "rebotaríais", "rebotarían" ],
+			[ "rebotarían" ]
+		],
+		"7" : [
+			[ "rebotaré" ],
+			[ "rebotarás" ],
+			[ "rebotará" ],
+			[ "rebotaremos" ],
+			[ "rebotaréis", "rebotarán" ],
+			[ "rebotarán" ]
+		],
+		"8" : [
+			[ "rebote" ],
+			[ "rebotes" ],
+			[ "rebote" ],
+			[ "rebotemos" ],
+			[ "rebotéis", "reboten" ],
+			[ "reboten" ]
+		],
+		"9" : [
+			[ "rebotara" ],
+			[ "rebotaras" ],
+			[ "rebotara" ],
+			[ "rebotáramos" ],
+			[ "rebotarais", "rebotaran" ],
+			[ "rebotaran" ]
+		],
+		"10" : [
+			[ "rebotase" ],
+			[ "rebotases" ],
+			[ "rebotase" ],
+			[ "rebotásemos" ],
+			[ "rebotaseis", "rebotasen" ],
+			[ "rebotasen" ]
+		],
+		"11" : [
+			[ "rebotare" ],
+			[ "rebotares" ],
+			[ "rebotare" ],
+			[ "rebotáremos" ],
+			[ "rebotareis", "rebotaren" ],
+			[ "rebotaren" ]
+		],
+		"12" : {
+			"1" : [ "rebota" ],
+			"2" : [ "rebote" ],
+			"3" : [ "rebotemos" ],
+			"4" : [ "rebotad" ],
+			"5" : [ "reboten" ]
+		}
+	}
+}

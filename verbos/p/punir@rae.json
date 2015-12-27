@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=punir",
+	"word" : "punir",
+	"infinitivo" : "punir",
+	"participio" : [ "punido" ],
+	"gerundio" : [ "puniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "puno" ],
+			[ "punes", "punís" ],
+			[ "pune" ],
+			[ "punimos" ],
+			[ "punís", "punen" ],
+			[ "punen" ]
+		],
+		"4" : [
+			[ "puní" ],
+			[ "puniste" ],
+			[ "punió" ],
+			[ "punimos" ],
+			[ "punisteis", "punieron" ],
+			[ "punieron" ]
+		],
+		"5" : [
+			[ "punía" ],
+			[ "punías" ],
+			[ "punía" ],
+			[ "puníamos" ],
+			[ "puníais", "punían" ],
+			[ "punían" ]
+		],
+		"6" : [
+			[ "puniría" ],
+			[ "punirías" ],
+			[ "puniría" ],
+			[ "puniríamos" ],
+			[ "puniríais", "punirían" ],
+			[ "punirían" ]
+		],
+		"7" : [
+			[ "puniré" ],
+			[ "punirás" ],
+			[ "punirá" ],
+			[ "puniremos" ],
+			[ "puniréis", "punirán" ],
+			[ "punirán" ]
+		],
+		"8" : [
+			[ "puna" ],
+			[ "punas" ],
+			[ "puna" ],
+			[ "punamos" ],
+			[ "punáis", "punan" ],
+			[ "punan" ]
+		],
+		"9" : [
+			[ "puniera" ],
+			[ "punieras" ],
+			[ "puniera" ],
+			[ "puniéramos" ],
+			[ "punierais", "punieran" ],
+			[ "punieran" ]
+		],
+		"10" : [
+			[ "puniese" ],
+			[ "punieses" ],
+			[ "puniese" ],
+			[ "puniésemos" ],
+			[ "punieseis", "puniesen" ],
+			[ "puniesen" ]
+		],
+		"11" : [
+			[ "puniere" ],
+			[ "punieres" ],
+			[ "puniere" ],
+			[ "puniéremos" ],
+			[ "puniereis", "punieren" ],
+			[ "punieren" ]
+		],
+		"12" : {
+			"1" : [ "pune" ],
+			"2" : [ "puna" ],
+			"3" : [ "punamos" ],
+			"4" : [ "punid" ],
+			"5" : [ "punan" ]
+		}
+	}
+}

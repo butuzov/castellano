@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gambetear",
+	"word" : "gambetear",
+	"infinitivo" : "gambetear",
+	"participio" : [ "gambeteado" ],
+	"gerundio" : [ "gambeteando" ],
+	"tenses" : {
+		"3" : [
+			[ "gambeteo" ],
+			[ "gambeteas", "gambeteás" ],
+			[ "gambetea" ],
+			[ "gambeteamos" ],
+			[ "gambeteáis", "gambetean" ],
+			[ "gambetean" ]
+		],
+		"4" : [
+			[ "gambeteé" ],
+			[ "gambeteaste" ],
+			[ "gambeteó" ],
+			[ "gambeteamos" ],
+			[ "gambeteasteis", "gambetearon" ],
+			[ "gambetearon" ]
+		],
+		"5" : [
+			[ "gambeteaba" ],
+			[ "gambeteabas" ],
+			[ "gambeteaba" ],
+			[ "gambeteábamos" ],
+			[ "gambeteabais", "gambeteaban" ],
+			[ "gambeteaban" ]
+		],
+		"6" : [
+			[ "gambetearía" ],
+			[ "gambetearías" ],
+			[ "gambetearía" ],
+			[ "gambetearíamos" ],
+			[ "gambetearíais", "gambetearían" ],
+			[ "gambetearían" ]
+		],
+		"7" : [
+			[ "gambetearé" ],
+			[ "gambetearás" ],
+			[ "gambeteará" ],
+			[ "gambetearemos" ],
+			[ "gambetearéis", "gambetearán" ],
+			[ "gambetearán" ]
+		],
+		"8" : [
+			[ "gambetee" ],
+			[ "gambetees" ],
+			[ "gambetee" ],
+			[ "gambeteemos" ],
+			[ "gambeteéis", "gambeteen" ],
+			[ "gambeteen" ]
+		],
+		"9" : [
+			[ "gambeteara" ],
+			[ "gambetearas" ],
+			[ "gambeteara" ],
+			[ "gambeteáramos" ],
+			[ "gambetearais", "gambetearan" ],
+			[ "gambetearan" ]
+		],
+		"10" : [
+			[ "gambetease" ],
+			[ "gambeteases" ],
+			[ "gambetease" ],
+			[ "gambeteásemos" ],
+			[ "gambeteaseis", "gambeteasen" ],
+			[ "gambeteasen" ]
+		],
+		"11" : [
+			[ "gambeteare" ],
+			[ "gambeteares" ],
+			[ "gambeteare" ],
+			[ "gambeteáremos" ],
+			[ "gambeteareis", "gambetearen" ],
+			[ "gambetearen" ]
+		],
+		"12" : {
+			"1" : [ "gambetea" ],
+			"2" : [ "gambetee" ],
+			"3" : [ "gambeteemos" ],
+			"4" : [ "gambetead" ],
+			"5" : [ "gambeteen" ]
+		}
+	}
+}

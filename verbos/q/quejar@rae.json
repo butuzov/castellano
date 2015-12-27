@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=quejar",
+	"word" : "quejar",
+	"infinitivo" : "quejar",
+	"participio" : [ "quejado" ],
+	"gerundio" : [ "quejando" ],
+	"tenses" : {
+		"3" : [
+			[ "quejo" ],
+			[ "quejas", "quejás" ],
+			[ "queja" ],
+			[ "quejamos" ],
+			[ "quejáis", "quejan" ],
+			[ "quejan" ]
+		],
+		"4" : [
+			[ "quejé" ],
+			[ "quejaste" ],
+			[ "quejó" ],
+			[ "quejamos" ],
+			[ "quejasteis", "quejaron" ],
+			[ "quejaron" ]
+		],
+		"5" : [
+			[ "quejaba" ],
+			[ "quejabas" ],
+			[ "quejaba" ],
+			[ "quejábamos" ],
+			[ "quejabais", "quejaban" ],
+			[ "quejaban" ]
+		],
+		"6" : [
+			[ "quejaría" ],
+			[ "quejarías" ],
+			[ "quejaría" ],
+			[ "quejaríamos" ],
+			[ "quejaríais", "quejarían" ],
+			[ "quejarían" ]
+		],
+		"7" : [
+			[ "quejaré" ],
+			[ "quejarás" ],
+			[ "quejará" ],
+			[ "quejaremos" ],
+			[ "quejaréis", "quejarán" ],
+			[ "quejarán" ]
+		],
+		"8" : [
+			[ "queje" ],
+			[ "quejes" ],
+			[ "queje" ],
+			[ "quejemos" ],
+			[ "quejéis", "quejen" ],
+			[ "quejen" ]
+		],
+		"9" : [
+			[ "quejara" ],
+			[ "quejaras" ],
+			[ "quejara" ],
+			[ "quejáramos" ],
+			[ "quejarais", "quejaran" ],
+			[ "quejaran" ]
+		],
+		"10" : [
+			[ "quejase" ],
+			[ "quejases" ],
+			[ "quejase" ],
+			[ "quejásemos" ],
+			[ "quejaseis", "quejasen" ],
+			[ "quejasen" ]
+		],
+		"11" : [
+			[ "quejare" ],
+			[ "quejares" ],
+			[ "quejare" ],
+			[ "quejáremos" ],
+			[ "quejareis", "quejaren" ],
+			[ "quejaren" ]
+		],
+		"12" : {
+			"1" : [ "queja" ],
+			"2" : [ "queje" ],
+			"3" : [ "quejemos" ],
+			"4" : [ "quejad" ],
+			"5" : [ "quejen" ]
+		}
+	}
+}

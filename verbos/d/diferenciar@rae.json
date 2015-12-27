@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=diferenciar",
+	"word" : "diferenciar",
+	"infinitivo" : "diferenciar",
+	"participio" : [ "diferenciado" ],
+	"gerundio" : [ "diferenciando" ],
+	"tenses" : {
+		"3" : [
+			[ "diferencio" ],
+			[ "diferencias", "diferenciás" ],
+			[ "diferencia" ],
+			[ "diferenciamos" ],
+			[ "diferenciáis", "diferencian" ],
+			[ "diferencian" ]
+		],
+		"4" : [
+			[ "diferencié" ],
+			[ "diferenciaste" ],
+			[ "diferenció" ],
+			[ "diferenciamos" ],
+			[ "diferenciasteis", "diferenciaron" ],
+			[ "diferenciaron" ]
+		],
+		"5" : [
+			[ "diferenciaba" ],
+			[ "diferenciabas" ],
+			[ "diferenciaba" ],
+			[ "diferenciábamos" ],
+			[ "diferenciabais", "diferenciaban" ],
+			[ "diferenciaban" ]
+		],
+		"6" : [
+			[ "diferenciaría" ],
+			[ "diferenciarías" ],
+			[ "diferenciaría" ],
+			[ "diferenciaríamos" ],
+			[ "diferenciaríais", "diferenciarían" ],
+			[ "diferenciarían" ]
+		],
+		"7" : [
+			[ "diferenciaré" ],
+			[ "diferenciarás" ],
+			[ "diferenciará" ],
+			[ "diferenciaremos" ],
+			[ "diferenciaréis", "diferenciarán" ],
+			[ "diferenciarán" ]
+		],
+		"8" : [
+			[ "diferencie" ],
+			[ "diferencies" ],
+			[ "diferencie" ],
+			[ "diferenciemos" ],
+			[ "diferenciéis", "diferencien" ],
+			[ "diferencien" ]
+		],
+		"9" : [
+			[ "diferenciara" ],
+			[ "diferenciaras" ],
+			[ "diferenciara" ],
+			[ "diferenciáramos" ],
+			[ "diferenciarais", "diferenciaran" ],
+			[ "diferenciaran" ]
+		],
+		"10" : [
+			[ "diferenciase" ],
+			[ "diferenciases" ],
+			[ "diferenciase" ],
+			[ "diferenciásemos" ],
+			[ "diferenciaseis", "diferenciasen" ],
+			[ "diferenciasen" ]
+		],
+		"11" : [
+			[ "diferenciare" ],
+			[ "diferenciares" ],
+			[ "diferenciare" ],
+			[ "diferenciáremos" ],
+			[ "diferenciareis", "diferenciaren" ],
+			[ "diferenciaren" ]
+		],
+		"12" : {
+			"1" : [ "diferencia" ],
+			"2" : [ "diferencie" ],
+			"3" : [ "diferenciemos" ],
+			"4" : [ "diferenciad" ],
+			"5" : [ "diferencien" ]
+		}
+	}
+}

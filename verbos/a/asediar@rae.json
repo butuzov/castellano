@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asediar",
+	"word" : "asediar",
+	"infinitivo" : "asediar",
+	"participio" : [ "asediado" ],
+	"gerundio" : [ "asediando" ],
+	"tenses" : {
+		"3" : [
+			[ "asedio" ],
+			[ "asedias", "asediás" ],
+			[ "asedia" ],
+			[ "asediamos" ],
+			[ "asediáis", "asedian" ],
+			[ "asedian" ]
+		],
+		"4" : [
+			[ "asedié" ],
+			[ "asediaste" ],
+			[ "asedió" ],
+			[ "asediamos" ],
+			[ "asediasteis", "asediaron" ],
+			[ "asediaron" ]
+		],
+		"5" : [
+			[ "asediaba" ],
+			[ "asediabas" ],
+			[ "asediaba" ],
+			[ "asediábamos" ],
+			[ "asediabais", "asediaban" ],
+			[ "asediaban" ]
+		],
+		"6" : [
+			[ "asediaría" ],
+			[ "asediarías" ],
+			[ "asediaría" ],
+			[ "asediaríamos" ],
+			[ "asediaríais", "asediarían" ],
+			[ "asediarían" ]
+		],
+		"7" : [
+			[ "asediaré" ],
+			[ "asediarás" ],
+			[ "asediará" ],
+			[ "asediaremos" ],
+			[ "asediaréis", "asediarán" ],
+			[ "asediarán" ]
+		],
+		"8" : [
+			[ "asedie" ],
+			[ "asedies" ],
+			[ "asedie" ],
+			[ "asediemos" ],
+			[ "asediéis", "asedien" ],
+			[ "asedien" ]
+		],
+		"9" : [
+			[ "asediara" ],
+			[ "asediaras" ],
+			[ "asediara" ],
+			[ "asediáramos" ],
+			[ "asediarais", "asediaran" ],
+			[ "asediaran" ]
+		],
+		"10" : [
+			[ "asediase" ],
+			[ "asediases" ],
+			[ "asediase" ],
+			[ "asediásemos" ],
+			[ "asediaseis", "asediasen" ],
+			[ "asediasen" ]
+		],
+		"11" : [
+			[ "asediare" ],
+			[ "asediares" ],
+			[ "asediare" ],
+			[ "asediáremos" ],
+			[ "asediareis", "asediaren" ],
+			[ "asediaren" ]
+		],
+		"12" : {
+			"1" : [ "asedia" ],
+			"2" : [ "asedie" ],
+			"3" : [ "asediemos" ],
+			"4" : [ "asediad" ],
+			"5" : [ "asedien" ]
+		}
+	}
+}

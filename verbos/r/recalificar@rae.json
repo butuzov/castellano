@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recalificar",
+	"word" : "recalificar",
+	"infinitivo" : "recalificar",
+	"participio" : [ "recalificado" ],
+	"gerundio" : [ "recalificando" ],
+	"tenses" : {
+		"3" : [
+			[ "recalifico" ],
+			[ "recalificas", "recalificás" ],
+			[ "recalifica" ],
+			[ "recalificamos" ],
+			[ "recalificáis", "recalifican" ],
+			[ "recalifican" ]
+		],
+		"4" : [
+			[ "recalifiqué" ],
+			[ "recalificaste" ],
+			[ "recalificó" ],
+			[ "recalificamos" ],
+			[ "recalificasteis", "recalificaron" ],
+			[ "recalificaron" ]
+		],
+		"5" : [
+			[ "recalificaba" ],
+			[ "recalificabas" ],
+			[ "recalificaba" ],
+			[ "recalificábamos" ],
+			[ "recalificabais", "recalificaban" ],
+			[ "recalificaban" ]
+		],
+		"6" : [
+			[ "recalificaría" ],
+			[ "recalificarías" ],
+			[ "recalificaría" ],
+			[ "recalificaríamos" ],
+			[ "recalificaríais", "recalificarían" ],
+			[ "recalificarían" ]
+		],
+		"7" : [
+			[ "recalificaré" ],
+			[ "recalificarás" ],
+			[ "recalificará" ],
+			[ "recalificaremos" ],
+			[ "recalificaréis", "recalificarán" ],
+			[ "recalificarán" ]
+		],
+		"8" : [
+			[ "recalifique" ],
+			[ "recalifiques" ],
+			[ "recalifique" ],
+			[ "recalifiquemos" ],
+			[ "recalifiquéis", "recalifiquen" ],
+			[ "recalifiquen" ]
+		],
+		"9" : [
+			[ "recalificara" ],
+			[ "recalificaras" ],
+			[ "recalificara" ],
+			[ "recalificáramos" ],
+			[ "recalificarais", "recalificaran" ],
+			[ "recalificaran" ]
+		],
+		"10" : [
+			[ "recalificase" ],
+			[ "recalificases" ],
+			[ "recalificase" ],
+			[ "recalificásemos" ],
+			[ "recalificaseis", "recalificasen" ],
+			[ "recalificasen" ]
+		],
+		"11" : [
+			[ "recalificare" ],
+			[ "recalificares" ],
+			[ "recalificare" ],
+			[ "recalificáremos" ],
+			[ "recalificareis", "recalificaren" ],
+			[ "recalificaren" ]
+		],
+		"12" : {
+			"1" : [ "recalifica" ],
+			"2" : [ "recalifique" ],
+			"3" : [ "recalifiquemos" ],
+			"4" : [ "recalificad" ],
+			"5" : [ "recalifiquen" ]
+		}
+	}
+}

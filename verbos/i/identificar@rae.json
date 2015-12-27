@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=identificar",
+	"word" : "identificar",
+	"infinitivo" : "identificar",
+	"participio" : [ "identificado" ],
+	"gerundio" : [ "identificando" ],
+	"tenses" : {
+		"3" : [
+			[ "identifico" ],
+			[ "identificas", "identificás" ],
+			[ "identifica" ],
+			[ "identificamos" ],
+			[ "identificáis", "identifican" ],
+			[ "identifican" ]
+		],
+		"4" : [
+			[ "identifiqué" ],
+			[ "identificaste" ],
+			[ "identificó" ],
+			[ "identificamos" ],
+			[ "identificasteis", "identificaron" ],
+			[ "identificaron" ]
+		],
+		"5" : [
+			[ "identificaba" ],
+			[ "identificabas" ],
+			[ "identificaba" ],
+			[ "identificábamos" ],
+			[ "identificabais", "identificaban" ],
+			[ "identificaban" ]
+		],
+		"6" : [
+			[ "identificaría" ],
+			[ "identificarías" ],
+			[ "identificaría" ],
+			[ "identificaríamos" ],
+			[ "identificaríais", "identificarían" ],
+			[ "identificarían" ]
+		],
+		"7" : [
+			[ "identificaré" ],
+			[ "identificarás" ],
+			[ "identificará" ],
+			[ "identificaremos" ],
+			[ "identificaréis", "identificarán" ],
+			[ "identificarán" ]
+		],
+		"8" : [
+			[ "identifique" ],
+			[ "identifiques" ],
+			[ "identifique" ],
+			[ "identifiquemos" ],
+			[ "identifiquéis", "identifiquen" ],
+			[ "identifiquen" ]
+		],
+		"9" : [
+			[ "identificara" ],
+			[ "identificaras" ],
+			[ "identificara" ],
+			[ "identificáramos" ],
+			[ "identificarais", "identificaran" ],
+			[ "identificaran" ]
+		],
+		"10" : [
+			[ "identificase" ],
+			[ "identificases" ],
+			[ "identificase" ],
+			[ "identificásemos" ],
+			[ "identificaseis", "identificasen" ],
+			[ "identificasen" ]
+		],
+		"11" : [
+			[ "identificare" ],
+			[ "identificares" ],
+			[ "identificare" ],
+			[ "identificáremos" ],
+			[ "identificareis", "identificaren" ],
+			[ "identificaren" ]
+		],
+		"12" : {
+			"1" : [ "identifica" ],
+			"2" : [ "identifique" ],
+			"3" : [ "identifiquemos" ],
+			"4" : [ "identificad" ],
+			"5" : [ "identifiquen" ]
+		}
+	}
+}

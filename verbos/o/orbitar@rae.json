@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=orbitar",
+	"word" : "orbitar",
+	"infinitivo" : "orbitar",
+	"participio" : [ "orbitado" ],
+	"gerundio" : [ "orbitando" ],
+	"tenses" : {
+		"3" : [
+			[ "orbito" ],
+			[ "orbitas", "orbitás" ],
+			[ "orbita" ],
+			[ "orbitamos" ],
+			[ "orbitáis", "orbitan" ],
+			[ "orbitan" ]
+		],
+		"4" : [
+			[ "orbité" ],
+			[ "orbitaste" ],
+			[ "orbitó" ],
+			[ "orbitamos" ],
+			[ "orbitasteis", "orbitaron" ],
+			[ "orbitaron" ]
+		],
+		"5" : [
+			[ "orbitaba" ],
+			[ "orbitabas" ],
+			[ "orbitaba" ],
+			[ "orbitábamos" ],
+			[ "orbitabais", "orbitaban" ],
+			[ "orbitaban" ]
+		],
+		"6" : [
+			[ "orbitaría" ],
+			[ "orbitarías" ],
+			[ "orbitaría" ],
+			[ "orbitaríamos" ],
+			[ "orbitaríais", "orbitarían" ],
+			[ "orbitarían" ]
+		],
+		"7" : [
+			[ "orbitaré" ],
+			[ "orbitarás" ],
+			[ "orbitará" ],
+			[ "orbitaremos" ],
+			[ "orbitaréis", "orbitarán" ],
+			[ "orbitarán" ]
+		],
+		"8" : [
+			[ "orbite" ],
+			[ "orbites" ],
+			[ "orbite" ],
+			[ "orbitemos" ],
+			[ "orbitéis", "orbiten" ],
+			[ "orbiten" ]
+		],
+		"9" : [
+			[ "orbitara" ],
+			[ "orbitaras" ],
+			[ "orbitara" ],
+			[ "orbitáramos" ],
+			[ "orbitarais", "orbitaran" ],
+			[ "orbitaran" ]
+		],
+		"10" : [
+			[ "orbitase" ],
+			[ "orbitases" ],
+			[ "orbitase" ],
+			[ "orbitásemos" ],
+			[ "orbitaseis", "orbitasen" ],
+			[ "orbitasen" ]
+		],
+		"11" : [
+			[ "orbitare" ],
+			[ "orbitares" ],
+			[ "orbitare" ],
+			[ "orbitáremos" ],
+			[ "orbitareis", "orbitaren" ],
+			[ "orbitaren" ]
+		],
+		"12" : {
+			"1" : [ "orbita" ],
+			"2" : [ "orbite" ],
+			"3" : [ "orbitemos" ],
+			"4" : [ "orbitad" ],
+			"5" : [ "orbiten" ]
+		}
+	}
+}

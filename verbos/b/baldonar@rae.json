@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=baldonar",
+	"word" : "baldonar",
+	"infinitivo" : "baldonar",
+	"participio" : [ "baldonado" ],
+	"gerundio" : [ "baldonando" ],
+	"tenses" : {
+		"3" : [
+			[ "baldono" ],
+			[ "baldonas", "baldonás" ],
+			[ "baldona" ],
+			[ "baldonamos" ],
+			[ "baldonáis", "baldonan" ],
+			[ "baldonan" ]
+		],
+		"4" : [
+			[ "baldoné" ],
+			[ "baldonaste" ],
+			[ "baldonó" ],
+			[ "baldonamos" ],
+			[ "baldonasteis", "baldonaron" ],
+			[ "baldonaron" ]
+		],
+		"5" : [
+			[ "baldonaba" ],
+			[ "baldonabas" ],
+			[ "baldonaba" ],
+			[ "baldonábamos" ],
+			[ "baldonabais", "baldonaban" ],
+			[ "baldonaban" ]
+		],
+		"6" : [
+			[ "baldonaría" ],
+			[ "baldonarías" ],
+			[ "baldonaría" ],
+			[ "baldonaríamos" ],
+			[ "baldonaríais", "baldonarían" ],
+			[ "baldonarían" ]
+		],
+		"7" : [
+			[ "baldonaré" ],
+			[ "baldonarás" ],
+			[ "baldonará" ],
+			[ "baldonaremos" ],
+			[ "baldonaréis", "baldonarán" ],
+			[ "baldonarán" ]
+		],
+		"8" : [
+			[ "baldone" ],
+			[ "baldones" ],
+			[ "baldone" ],
+			[ "baldonemos" ],
+			[ "baldonéis", "baldonen" ],
+			[ "baldonen" ]
+		],
+		"9" : [
+			[ "baldonara" ],
+			[ "baldonaras" ],
+			[ "baldonara" ],
+			[ "baldonáramos" ],
+			[ "baldonarais", "baldonaran" ],
+			[ "baldonaran" ]
+		],
+		"10" : [
+			[ "baldonase" ],
+			[ "baldonases" ],
+			[ "baldonase" ],
+			[ "baldonásemos" ],
+			[ "baldonaseis", "baldonasen" ],
+			[ "baldonasen" ]
+		],
+		"11" : [
+			[ "baldonare" ],
+			[ "baldonares" ],
+			[ "baldonare" ],
+			[ "baldonáremos" ],
+			[ "baldonareis", "baldonaren" ],
+			[ "baldonaren" ]
+		],
+		"12" : {
+			"1" : [ "baldona" ],
+			"2" : [ "baldone" ],
+			"3" : [ "baldonemos" ],
+			"4" : [ "baldonad" ],
+			"5" : [ "baldonen" ]
+		}
+	}
+}

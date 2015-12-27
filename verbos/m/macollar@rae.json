@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=macollar",
+	"word" : "macollar",
+	"infinitivo" : "macollar",
+	"participio" : [ "macollado" ],
+	"gerundio" : [ "macollando" ],
+	"tenses" : {
+		"3" : [
+			[ "macollo" ],
+			[ "macollas", "macollás" ],
+			[ "macolla" ],
+			[ "macollamos" ],
+			[ "macolláis", "macollan" ],
+			[ "macollan" ]
+		],
+		"4" : [
+			[ "macollé" ],
+			[ "macollaste" ],
+			[ "macolló" ],
+			[ "macollamos" ],
+			[ "macollasteis", "macollaron" ],
+			[ "macollaron" ]
+		],
+		"5" : [
+			[ "macollaba" ],
+			[ "macollabas" ],
+			[ "macollaba" ],
+			[ "macollábamos" ],
+			[ "macollabais", "macollaban" ],
+			[ "macollaban" ]
+		],
+		"6" : [
+			[ "macollaría" ],
+			[ "macollarías" ],
+			[ "macollaría" ],
+			[ "macollaríamos" ],
+			[ "macollaríais", "macollarían" ],
+			[ "macollarían" ]
+		],
+		"7" : [
+			[ "macollaré" ],
+			[ "macollarás" ],
+			[ "macollará" ],
+			[ "macollaremos" ],
+			[ "macollaréis", "macollarán" ],
+			[ "macollarán" ]
+		],
+		"8" : [
+			[ "macolle" ],
+			[ "macolles" ],
+			[ "macolle" ],
+			[ "macollemos" ],
+			[ "macolléis", "macollen" ],
+			[ "macollen" ]
+		],
+		"9" : [
+			[ "macollara" ],
+			[ "macollaras" ],
+			[ "macollara" ],
+			[ "macolláramos" ],
+			[ "macollarais", "macollaran" ],
+			[ "macollaran" ]
+		],
+		"10" : [
+			[ "macollase" ],
+			[ "macollases" ],
+			[ "macollase" ],
+			[ "macollásemos" ],
+			[ "macollaseis", "macollasen" ],
+			[ "macollasen" ]
+		],
+		"11" : [
+			[ "macollare" ],
+			[ "macollares" ],
+			[ "macollare" ],
+			[ "macolláremos" ],
+			[ "macollareis", "macollaren" ],
+			[ "macollaren" ]
+		],
+		"12" : {
+			"1" : [ "macolla" ],
+			"2" : [ "macolle" ],
+			"3" : [ "macollemos" ],
+			"4" : [ "macollad" ],
+			"5" : [ "macollen" ]
+		}
+	}
+}

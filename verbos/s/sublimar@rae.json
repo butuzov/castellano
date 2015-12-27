@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sublimar",
+	"word" : "sublimar",
+	"infinitivo" : "sublimar",
+	"participio" : [ "sublimado" ],
+	"gerundio" : [ "sublimando" ],
+	"tenses" : {
+		"3" : [
+			[ "sublimo" ],
+			[ "sublimas", "sublimás" ],
+			[ "sublima" ],
+			[ "sublimamos" ],
+			[ "sublimáis", "subliman" ],
+			[ "subliman" ]
+		],
+		"4" : [
+			[ "sublimé" ],
+			[ "sublimaste" ],
+			[ "sublimó" ],
+			[ "sublimamos" ],
+			[ "sublimasteis", "sublimaron" ],
+			[ "sublimaron" ]
+		],
+		"5" : [
+			[ "sublimaba" ],
+			[ "sublimabas" ],
+			[ "sublimaba" ],
+			[ "sublimábamos" ],
+			[ "sublimabais", "sublimaban" ],
+			[ "sublimaban" ]
+		],
+		"6" : [
+			[ "sublimaría" ],
+			[ "sublimarías" ],
+			[ "sublimaría" ],
+			[ "sublimaríamos" ],
+			[ "sublimaríais", "sublimarían" ],
+			[ "sublimarían" ]
+		],
+		"7" : [
+			[ "sublimaré" ],
+			[ "sublimarás" ],
+			[ "sublimará" ],
+			[ "sublimaremos" ],
+			[ "sublimaréis", "sublimarán" ],
+			[ "sublimarán" ]
+		],
+		"8" : [
+			[ "sublime" ],
+			[ "sublimes" ],
+			[ "sublime" ],
+			[ "sublimemos" ],
+			[ "subliméis", "sublimen" ],
+			[ "sublimen" ]
+		],
+		"9" : [
+			[ "sublimara" ],
+			[ "sublimaras" ],
+			[ "sublimara" ],
+			[ "sublimáramos" ],
+			[ "sublimarais", "sublimaran" ],
+			[ "sublimaran" ]
+		],
+		"10" : [
+			[ "sublimase" ],
+			[ "sublimases" ],
+			[ "sublimase" ],
+			[ "sublimásemos" ],
+			[ "sublimaseis", "sublimasen" ],
+			[ "sublimasen" ]
+		],
+		"11" : [
+			[ "sublimare" ],
+			[ "sublimares" ],
+			[ "sublimare" ],
+			[ "sublimáremos" ],
+			[ "sublimareis", "sublimaren" ],
+			[ "sublimaren" ]
+		],
+		"12" : {
+			"1" : [ "sublima" ],
+			"2" : [ "sublime" ],
+			"3" : [ "sublimemos" ],
+			"4" : [ "sublimad" ],
+			"5" : [ "sublimen" ]
+		}
+	}
+}

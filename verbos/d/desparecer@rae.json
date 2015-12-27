@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desparecer",
+	"word" : "desparecer",
+	"infinitivo" : "desparecer",
+	"participio" : [ "desparecido" ],
+	"gerundio" : [ "despareciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desparezco" ],
+			[ "despareces", "desparecés" ],
+			[ "desparece" ],
+			[ "desparecemos" ],
+			[ "desparecéis", "desparecen" ],
+			[ "desparecen" ]
+		],
+		"4" : [
+			[ "desparecí" ],
+			[ "despareciste" ],
+			[ "despareció" ],
+			[ "desparecimos" ],
+			[ "desparecisteis", "desparecieron" ],
+			[ "desparecieron" ]
+		],
+		"5" : [
+			[ "desparecía" ],
+			[ "desparecías" ],
+			[ "desparecía" ],
+			[ "desparecíamos" ],
+			[ "desparecíais", "desparecían" ],
+			[ "desparecían" ]
+		],
+		"6" : [
+			[ "desparecería" ],
+			[ "desparecerías" ],
+			[ "desparecería" ],
+			[ "despareceríamos" ],
+			[ "despareceríais", "desparecerían" ],
+			[ "desparecerían" ]
+		],
+		"7" : [
+			[ "despareceré" ],
+			[ "desparecerás" ],
+			[ "desparecerá" ],
+			[ "despareceremos" ],
+			[ "despareceréis", "desparecerán" ],
+			[ "desparecerán" ]
+		],
+		"8" : [
+			[ "desparezca" ],
+			[ "desparezcas" ],
+			[ "desparezca" ],
+			[ "desparezcamos" ],
+			[ "desparezcáis", "desparezcan" ],
+			[ "desparezcan" ]
+		],
+		"9" : [
+			[ "despareciera" ],
+			[ "desparecieras" ],
+			[ "despareciera" ],
+			[ "despareciéramos" ],
+			[ "desparecierais", "desparecieran" ],
+			[ "desparecieran" ]
+		],
+		"10" : [
+			[ "despareciese" ],
+			[ "desparecieses" ],
+			[ "despareciese" ],
+			[ "despareciésemos" ],
+			[ "desparecieseis", "despareciesen" ],
+			[ "despareciesen" ]
+		],
+		"11" : [
+			[ "despareciere" ],
+			[ "desparecieres" ],
+			[ "despareciere" ],
+			[ "despareciéremos" ],
+			[ "despareciereis", "desparecieren" ],
+			[ "desparecieren" ]
+		],
+		"12" : {
+			"1" : [ "desparece" ],
+			"2" : [ "desparezca" ],
+			"3" : [ "desparezcamos" ],
+			"4" : [ "despareced" ],
+			"5" : [ "desparezcan" ]
+		}
+	}
+}

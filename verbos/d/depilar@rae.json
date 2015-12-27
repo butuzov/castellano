@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=depilar",
+	"word" : "depilar",
+	"infinitivo" : "depilar",
+	"participio" : [ "depilado" ],
+	"gerundio" : [ "depilando" ],
+	"tenses" : {
+		"3" : [
+			[ "depilo" ],
+			[ "depilas", "depilás" ],
+			[ "depila" ],
+			[ "depilamos" ],
+			[ "depiláis", "depilan" ],
+			[ "depilan" ]
+		],
+		"4" : [
+			[ "depilé" ],
+			[ "depilaste" ],
+			[ "depiló" ],
+			[ "depilamos" ],
+			[ "depilasteis", "depilaron" ],
+			[ "depilaron" ]
+		],
+		"5" : [
+			[ "depilaba" ],
+			[ "depilabas" ],
+			[ "depilaba" ],
+			[ "depilábamos" ],
+			[ "depilabais", "depilaban" ],
+			[ "depilaban" ]
+		],
+		"6" : [
+			[ "depilaría" ],
+			[ "depilarías" ],
+			[ "depilaría" ],
+			[ "depilaríamos" ],
+			[ "depilaríais", "depilarían" ],
+			[ "depilarían" ]
+		],
+		"7" : [
+			[ "depilaré" ],
+			[ "depilarás" ],
+			[ "depilará" ],
+			[ "depilaremos" ],
+			[ "depilaréis", "depilarán" ],
+			[ "depilarán" ]
+		],
+		"8" : [
+			[ "depile" ],
+			[ "depiles" ],
+			[ "depile" ],
+			[ "depilemos" ],
+			[ "depiléis", "depilen" ],
+			[ "depilen" ]
+		],
+		"9" : [
+			[ "depilara" ],
+			[ "depilaras" ],
+			[ "depilara" ],
+			[ "depiláramos" ],
+			[ "depilarais", "depilaran" ],
+			[ "depilaran" ]
+		],
+		"10" : [
+			[ "depilase" ],
+			[ "depilases" ],
+			[ "depilase" ],
+			[ "depilásemos" ],
+			[ "depilaseis", "depilasen" ],
+			[ "depilasen" ]
+		],
+		"11" : [
+			[ "depilare" ],
+			[ "depilares" ],
+			[ "depilare" ],
+			[ "depiláremos" ],
+			[ "depilareis", "depilaren" ],
+			[ "depilaren" ]
+		],
+		"12" : {
+			"1" : [ "depila" ],
+			"2" : [ "depile" ],
+			"3" : [ "depilemos" ],
+			"4" : [ "depilad" ],
+			"5" : [ "depilen" ]
+		}
+	}
+}

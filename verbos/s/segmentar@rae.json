@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=segmentar",
+	"word" : "segmentar",
+	"infinitivo" : "segmentar",
+	"participio" : [ "segmentado" ],
+	"gerundio" : [ "segmentando" ],
+	"tenses" : {
+		"3" : [
+			[ "segmento" ],
+			[ "segmentas", "segmentás" ],
+			[ "segmenta" ],
+			[ "segmentamos" ],
+			[ "segmentáis", "segmentan" ],
+			[ "segmentan" ]
+		],
+		"4" : [
+			[ "segmenté" ],
+			[ "segmentaste" ],
+			[ "segmentó" ],
+			[ "segmentamos" ],
+			[ "segmentasteis", "segmentaron" ],
+			[ "segmentaron" ]
+		],
+		"5" : [
+			[ "segmentaba" ],
+			[ "segmentabas" ],
+			[ "segmentaba" ],
+			[ "segmentábamos" ],
+			[ "segmentabais", "segmentaban" ],
+			[ "segmentaban" ]
+		],
+		"6" : [
+			[ "segmentaría" ],
+			[ "segmentarías" ],
+			[ "segmentaría" ],
+			[ "segmentaríamos" ],
+			[ "segmentaríais", "segmentarían" ],
+			[ "segmentarían" ]
+		],
+		"7" : [
+			[ "segmentaré" ],
+			[ "segmentarás" ],
+			[ "segmentará" ],
+			[ "segmentaremos" ],
+			[ "segmentaréis", "segmentarán" ],
+			[ "segmentarán" ]
+		],
+		"8" : [
+			[ "segmente" ],
+			[ "segmentes" ],
+			[ "segmente" ],
+			[ "segmentemos" ],
+			[ "segmentéis", "segmenten" ],
+			[ "segmenten" ]
+		],
+		"9" : [
+			[ "segmentara" ],
+			[ "segmentaras" ],
+			[ "segmentara" ],
+			[ "segmentáramos" ],
+			[ "segmentarais", "segmentaran" ],
+			[ "segmentaran" ]
+		],
+		"10" : [
+			[ "segmentase" ],
+			[ "segmentases" ],
+			[ "segmentase" ],
+			[ "segmentásemos" ],
+			[ "segmentaseis", "segmentasen" ],
+			[ "segmentasen" ]
+		],
+		"11" : [
+			[ "segmentare" ],
+			[ "segmentares" ],
+			[ "segmentare" ],
+			[ "segmentáremos" ],
+			[ "segmentareis", "segmentaren" ],
+			[ "segmentaren" ]
+		],
+		"12" : {
+			"1" : [ "segmenta" ],
+			"2" : [ "segmente" ],
+			"3" : [ "segmentemos" ],
+			"4" : [ "segmentad" ],
+			"5" : [ "segmenten" ]
+		}
+	}
+}

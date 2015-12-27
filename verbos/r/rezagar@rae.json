@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rezagar",
+	"word" : "rezagar",
+	"infinitivo" : "rezagar",
+	"participio" : [ "rezagado" ],
+	"gerundio" : [ "rezagando" ],
+	"tenses" : {
+		"3" : [
+			[ "rezago" ],
+			[ "rezagas", "rezagás" ],
+			[ "rezaga" ],
+			[ "rezagamos" ],
+			[ "rezagáis", "rezagan" ],
+			[ "rezagan" ]
+		],
+		"4" : [
+			[ "rezagué" ],
+			[ "rezagaste" ],
+			[ "rezagó" ],
+			[ "rezagamos" ],
+			[ "rezagasteis", "rezagaron" ],
+			[ "rezagaron" ]
+		],
+		"5" : [
+			[ "rezagaba" ],
+			[ "rezagabas" ],
+			[ "rezagaba" ],
+			[ "rezagábamos" ],
+			[ "rezagabais", "rezagaban" ],
+			[ "rezagaban" ]
+		],
+		"6" : [
+			[ "rezagaría" ],
+			[ "rezagarías" ],
+			[ "rezagaría" ],
+			[ "rezagaríamos" ],
+			[ "rezagaríais", "rezagarían" ],
+			[ "rezagarían" ]
+		],
+		"7" : [
+			[ "rezagaré" ],
+			[ "rezagarás" ],
+			[ "rezagará" ],
+			[ "rezagaremos" ],
+			[ "rezagaréis", "rezagarán" ],
+			[ "rezagarán" ]
+		],
+		"8" : [
+			[ "rezague" ],
+			[ "rezagues" ],
+			[ "rezague" ],
+			[ "rezaguemos" ],
+			[ "rezaguéis", "rezaguen" ],
+			[ "rezaguen" ]
+		],
+		"9" : [
+			[ "rezagara" ],
+			[ "rezagaras" ],
+			[ "rezagara" ],
+			[ "rezagáramos" ],
+			[ "rezagarais", "rezagaran" ],
+			[ "rezagaran" ]
+		],
+		"10" : [
+			[ "rezagase" ],
+			[ "rezagases" ],
+			[ "rezagase" ],
+			[ "rezagásemos" ],
+			[ "rezagaseis", "rezagasen" ],
+			[ "rezagasen" ]
+		],
+		"11" : [
+			[ "rezagare" ],
+			[ "rezagares" ],
+			[ "rezagare" ],
+			[ "rezagáremos" ],
+			[ "rezagareis", "rezagaren" ],
+			[ "rezagaren" ]
+		],
+		"12" : {
+			"1" : [ "rezaga" ],
+			"2" : [ "rezague" ],
+			"3" : [ "rezaguemos" ],
+			"4" : [ "rezagad" ],
+			"5" : [ "rezaguen" ]
+		}
+	}
+}

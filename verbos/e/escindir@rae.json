@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escindir",
+	"word" : "escindir",
+	"infinitivo" : "escindir",
+	"participio" : [ "escindido" ],
+	"gerundio" : [ "escindiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "escindo" ],
+			[ "escindes", "escindís" ],
+			[ "escinde" ],
+			[ "escindimos" ],
+			[ "escindís", "escinden" ],
+			[ "escinden" ]
+		],
+		"4" : [
+			[ "escindí" ],
+			[ "escindiste" ],
+			[ "escindió" ],
+			[ "escindimos" ],
+			[ "escindisteis", "escindieron" ],
+			[ "escindieron" ]
+		],
+		"5" : [
+			[ "escindía" ],
+			[ "escindías" ],
+			[ "escindía" ],
+			[ "escindíamos" ],
+			[ "escindíais", "escindían" ],
+			[ "escindían" ]
+		],
+		"6" : [
+			[ "escindiría" ],
+			[ "escindirías" ],
+			[ "escindiría" ],
+			[ "escindiríamos" ],
+			[ "escindiríais", "escindirían" ],
+			[ "escindirían" ]
+		],
+		"7" : [
+			[ "escindiré" ],
+			[ "escindirás" ],
+			[ "escindirá" ],
+			[ "escindiremos" ],
+			[ "escindiréis", "escindirán" ],
+			[ "escindirán" ]
+		],
+		"8" : [
+			[ "escinda" ],
+			[ "escindas" ],
+			[ "escinda" ],
+			[ "escindamos" ],
+			[ "escindáis", "escindan" ],
+			[ "escindan" ]
+		],
+		"9" : [
+			[ "escindiera" ],
+			[ "escindieras" ],
+			[ "escindiera" ],
+			[ "escindiéramos" ],
+			[ "escindierais", "escindieran" ],
+			[ "escindieran" ]
+		],
+		"10" : [
+			[ "escindiese" ],
+			[ "escindieses" ],
+			[ "escindiese" ],
+			[ "escindiésemos" ],
+			[ "escindieseis", "escindiesen" ],
+			[ "escindiesen" ]
+		],
+		"11" : [
+			[ "escindiere" ],
+			[ "escindieres" ],
+			[ "escindiere" ],
+			[ "escindiéremos" ],
+			[ "escindiereis", "escindieren" ],
+			[ "escindieren" ]
+		],
+		"12" : {
+			"1" : [ "escinde" ],
+			"2" : [ "escinda" ],
+			"3" : [ "escindamos" ],
+			"4" : [ "escindid" ],
+			"5" : [ "escindan" ]
+		}
+	}
+}

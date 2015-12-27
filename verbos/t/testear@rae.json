@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=testear",
+	"word" : "testear",
+	"infinitivo" : "testear",
+	"participio" : [ "testeado" ],
+	"gerundio" : [ "testeando" ],
+	"tenses" : {
+		"3" : [
+			[ "testeo" ],
+			[ "testeas", "testeás" ],
+			[ "testea" ],
+			[ "testeamos" ],
+			[ "testeáis", "testean" ],
+			[ "testean" ]
+		],
+		"4" : [
+			[ "testeé" ],
+			[ "testeaste" ],
+			[ "testeó" ],
+			[ "testeamos" ],
+			[ "testeasteis", "testearon" ],
+			[ "testearon" ]
+		],
+		"5" : [
+			[ "testeaba" ],
+			[ "testeabas" ],
+			[ "testeaba" ],
+			[ "testeábamos" ],
+			[ "testeabais", "testeaban" ],
+			[ "testeaban" ]
+		],
+		"6" : [
+			[ "testearía" ],
+			[ "testearías" ],
+			[ "testearía" ],
+			[ "testearíamos" ],
+			[ "testearíais", "testearían" ],
+			[ "testearían" ]
+		],
+		"7" : [
+			[ "testearé" ],
+			[ "testearás" ],
+			[ "testeará" ],
+			[ "testearemos" ],
+			[ "testearéis", "testearán" ],
+			[ "testearán" ]
+		],
+		"8" : [
+			[ "testee" ],
+			[ "testees" ],
+			[ "testee" ],
+			[ "testeemos" ],
+			[ "testeéis", "testeen" ],
+			[ "testeen" ]
+		],
+		"9" : [
+			[ "testeara" ],
+			[ "testearas" ],
+			[ "testeara" ],
+			[ "testeáramos" ],
+			[ "testearais", "testearan" ],
+			[ "testearan" ]
+		],
+		"10" : [
+			[ "testease" ],
+			[ "testeases" ],
+			[ "testease" ],
+			[ "testeásemos" ],
+			[ "testeaseis", "testeasen" ],
+			[ "testeasen" ]
+		],
+		"11" : [
+			[ "testeare" ],
+			[ "testeares" ],
+			[ "testeare" ],
+			[ "testeáremos" ],
+			[ "testeareis", "testearen" ],
+			[ "testearen" ]
+		],
+		"12" : {
+			"1" : [ "testea" ],
+			"2" : [ "testee" ],
+			"3" : [ "testeemos" ],
+			"4" : [ "testead" ],
+			"5" : [ "testeen" ]
+		}
+	}
+}

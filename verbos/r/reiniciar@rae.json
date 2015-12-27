@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reiniciar",
+	"word" : "reiniciar",
+	"infinitivo" : "reiniciar",
+	"participio" : [ "reiniciado" ],
+	"gerundio" : [ "reiniciando" ],
+	"tenses" : {
+		"3" : [
+			[ "reinicio" ],
+			[ "reinicias", "reiniciás" ],
+			[ "reinicia" ],
+			[ "reiniciamos" ],
+			[ "reiniciáis", "reinician" ],
+			[ "reinician" ]
+		],
+		"4" : [
+			[ "reinicié" ],
+			[ "reiniciaste" ],
+			[ "reinició" ],
+			[ "reiniciamos" ],
+			[ "reiniciasteis", "reiniciaron" ],
+			[ "reiniciaron" ]
+		],
+		"5" : [
+			[ "reiniciaba" ],
+			[ "reiniciabas" ],
+			[ "reiniciaba" ],
+			[ "reiniciábamos" ],
+			[ "reiniciabais", "reiniciaban" ],
+			[ "reiniciaban" ]
+		],
+		"6" : [
+			[ "reiniciaría" ],
+			[ "reiniciarías" ],
+			[ "reiniciaría" ],
+			[ "reiniciaríamos" ],
+			[ "reiniciaríais", "reiniciarían" ],
+			[ "reiniciarían" ]
+		],
+		"7" : [
+			[ "reiniciaré" ],
+			[ "reiniciarás" ],
+			[ "reiniciará" ],
+			[ "reiniciaremos" ],
+			[ "reiniciaréis", "reiniciarán" ],
+			[ "reiniciarán" ]
+		],
+		"8" : [
+			[ "reinicie" ],
+			[ "reinicies" ],
+			[ "reinicie" ],
+			[ "reiniciemos" ],
+			[ "reiniciéis", "reinicien" ],
+			[ "reinicien" ]
+		],
+		"9" : [
+			[ "reiniciara" ],
+			[ "reiniciaras" ],
+			[ "reiniciara" ],
+			[ "reiniciáramos" ],
+			[ "reiniciarais", "reiniciaran" ],
+			[ "reiniciaran" ]
+		],
+		"10" : [
+			[ "reiniciase" ],
+			[ "reiniciases" ],
+			[ "reiniciase" ],
+			[ "reiniciásemos" ],
+			[ "reiniciaseis", "reiniciasen" ],
+			[ "reiniciasen" ]
+		],
+		"11" : [
+			[ "reiniciare" ],
+			[ "reiniciares" ],
+			[ "reiniciare" ],
+			[ "reiniciáremos" ],
+			[ "reiniciareis", "reiniciaren" ],
+			[ "reiniciaren" ]
+		],
+		"12" : {
+			"1" : [ "reinicia" ],
+			"2" : [ "reinicie" ],
+			"3" : [ "reiniciemos" ],
+			"4" : [ "reiniciad" ],
+			"5" : [ "reinicien" ]
+		}
+	}
+}

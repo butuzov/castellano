@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=explorar",
+	"word" : "explorar",
+	"infinitivo" : "explorar",
+	"participio" : [ "explorado" ],
+	"gerundio" : [ "explorando" ],
+	"tenses" : {
+		"3" : [
+			[ "exploro" ],
+			[ "exploras", "explorás" ],
+			[ "explora" ],
+			[ "exploramos" ],
+			[ "exploráis", "exploran" ],
+			[ "exploran" ]
+		],
+		"4" : [
+			[ "exploré" ],
+			[ "exploraste" ],
+			[ "exploró" ],
+			[ "exploramos" ],
+			[ "explorasteis", "exploraron" ],
+			[ "exploraron" ]
+		],
+		"5" : [
+			[ "exploraba" ],
+			[ "explorabas" ],
+			[ "exploraba" ],
+			[ "explorábamos" ],
+			[ "explorabais", "exploraban" ],
+			[ "exploraban" ]
+		],
+		"6" : [
+			[ "exploraría" ],
+			[ "explorarías" ],
+			[ "exploraría" ],
+			[ "exploraríamos" ],
+			[ "exploraríais", "explorarían" ],
+			[ "explorarían" ]
+		],
+		"7" : [
+			[ "exploraré" ],
+			[ "explorarás" ],
+			[ "explorará" ],
+			[ "exploraremos" ],
+			[ "exploraréis", "explorarán" ],
+			[ "explorarán" ]
+		],
+		"8" : [
+			[ "explore" ],
+			[ "explores" ],
+			[ "explore" ],
+			[ "exploremos" ],
+			[ "exploréis", "exploren" ],
+			[ "exploren" ]
+		],
+		"9" : [
+			[ "explorara" ],
+			[ "exploraras" ],
+			[ "explorara" ],
+			[ "exploráramos" ],
+			[ "explorarais", "exploraran" ],
+			[ "exploraran" ]
+		],
+		"10" : [
+			[ "explorase" ],
+			[ "explorases" ],
+			[ "explorase" ],
+			[ "explorásemos" ],
+			[ "exploraseis", "explorasen" ],
+			[ "explorasen" ]
+		],
+		"11" : [
+			[ "explorare" ],
+			[ "explorares" ],
+			[ "explorare" ],
+			[ "exploráremos" ],
+			[ "explorareis", "exploraren" ],
+			[ "exploraren" ]
+		],
+		"12" : {
+			"1" : [ "explora" ],
+			"2" : [ "explore" ],
+			"3" : [ "exploremos" ],
+			"4" : [ "explorad" ],
+			"5" : [ "exploren" ]
+		}
+	}
+}

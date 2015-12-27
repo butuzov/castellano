@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sancochar",
+	"word" : "sancochar",
+	"infinitivo" : "sancochar",
+	"participio" : [ "sancochado" ],
+	"gerundio" : [ "sancochando" ],
+	"tenses" : {
+		"3" : [
+			[ "sancocho" ],
+			[ "sancochas", "sancochás" ],
+			[ "sancocha" ],
+			[ "sancochamos" ],
+			[ "sancocháis", "sancochan" ],
+			[ "sancochan" ]
+		],
+		"4" : [
+			[ "sancoché" ],
+			[ "sancochaste" ],
+			[ "sancochó" ],
+			[ "sancochamos" ],
+			[ "sancochasteis", "sancocharon" ],
+			[ "sancocharon" ]
+		],
+		"5" : [
+			[ "sancochaba" ],
+			[ "sancochabas" ],
+			[ "sancochaba" ],
+			[ "sancochábamos" ],
+			[ "sancochabais", "sancochaban" ],
+			[ "sancochaban" ]
+		],
+		"6" : [
+			[ "sancocharía" ],
+			[ "sancocharías" ],
+			[ "sancocharía" ],
+			[ "sancocharíamos" ],
+			[ "sancocharíais", "sancocharían" ],
+			[ "sancocharían" ]
+		],
+		"7" : [
+			[ "sancocharé" ],
+			[ "sancocharás" ],
+			[ "sancochará" ],
+			[ "sancocharemos" ],
+			[ "sancocharéis", "sancocharán" ],
+			[ "sancocharán" ]
+		],
+		"8" : [
+			[ "sancoche" ],
+			[ "sancoches" ],
+			[ "sancoche" ],
+			[ "sancochemos" ],
+			[ "sancochéis", "sancochen" ],
+			[ "sancochen" ]
+		],
+		"9" : [
+			[ "sancochara" ],
+			[ "sancocharas" ],
+			[ "sancochara" ],
+			[ "sancocháramos" ],
+			[ "sancocharais", "sancocharan" ],
+			[ "sancocharan" ]
+		],
+		"10" : [
+			[ "sancochase" ],
+			[ "sancochases" ],
+			[ "sancochase" ],
+			[ "sancochásemos" ],
+			[ "sancochaseis", "sancochasen" ],
+			[ "sancochasen" ]
+		],
+		"11" : [
+			[ "sancochare" ],
+			[ "sancochares" ],
+			[ "sancochare" ],
+			[ "sancocháremos" ],
+			[ "sancochareis", "sancocharen" ],
+			[ "sancocharen" ]
+		],
+		"12" : {
+			"1" : [ "sancocha" ],
+			"2" : [ "sancoche" ],
+			"3" : [ "sancochemos" ],
+			"4" : [ "sancochad" ],
+			"5" : [ "sancochen" ]
+		}
+	}
+}

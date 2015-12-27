@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anudar",
+	"word" : "anudar",
+	"infinitivo" : "anudar",
+	"participio" : [ "anudado" ],
+	"gerundio" : [ "anudando" ],
+	"tenses" : {
+		"3" : [
+			[ "anudo" ],
+			[ "anudas", "anudás" ],
+			[ "anuda" ],
+			[ "anudamos" ],
+			[ "anudáis", "anudan" ],
+			[ "anudan" ]
+		],
+		"4" : [
+			[ "anudé" ],
+			[ "anudaste" ],
+			[ "anudó" ],
+			[ "anudamos" ],
+			[ "anudasteis", "anudaron" ],
+			[ "anudaron" ]
+		],
+		"5" : [
+			[ "anudaba" ],
+			[ "anudabas" ],
+			[ "anudaba" ],
+			[ "anudábamos" ],
+			[ "anudabais", "anudaban" ],
+			[ "anudaban" ]
+		],
+		"6" : [
+			[ "anudaría" ],
+			[ "anudarías" ],
+			[ "anudaría" ],
+			[ "anudaríamos" ],
+			[ "anudaríais", "anudarían" ],
+			[ "anudarían" ]
+		],
+		"7" : [
+			[ "anudaré" ],
+			[ "anudarás" ],
+			[ "anudará" ],
+			[ "anudaremos" ],
+			[ "anudaréis", "anudarán" ],
+			[ "anudarán" ]
+		],
+		"8" : [
+			[ "anude" ],
+			[ "anudes" ],
+			[ "anude" ],
+			[ "anudemos" ],
+			[ "anudéis", "anuden" ],
+			[ "anuden" ]
+		],
+		"9" : [
+			[ "anudara" ],
+			[ "anudaras" ],
+			[ "anudara" ],
+			[ "anudáramos" ],
+			[ "anudarais", "anudaran" ],
+			[ "anudaran" ]
+		],
+		"10" : [
+			[ "anudase" ],
+			[ "anudases" ],
+			[ "anudase" ],
+			[ "anudásemos" ],
+			[ "anudaseis", "anudasen" ],
+			[ "anudasen" ]
+		],
+		"11" : [
+			[ "anudare" ],
+			[ "anudares" ],
+			[ "anudare" ],
+			[ "anudáremos" ],
+			[ "anudareis", "anudaren" ],
+			[ "anudaren" ]
+		],
+		"12" : {
+			"1" : [ "anuda" ],
+			"2" : [ "anude" ],
+			"3" : [ "anudemos" ],
+			"4" : [ "anudad" ],
+			"5" : [ "anuden" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=expeler",
+	"word" : "expeler",
+	"infinitivo" : "expeler",
+	"participio" : [ "expelido" ],
+	"gerundio" : [ "expeliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "expelo" ],
+			[ "expeles", "expelés" ],
+			[ "expele" ],
+			[ "expelemos" ],
+			[ "expeléis", "expelen" ],
+			[ "expelen" ]
+		],
+		"4" : [
+			[ "expelí" ],
+			[ "expeliste" ],
+			[ "expelió" ],
+			[ "expelimos" ],
+			[ "expelisteis", "expelieron" ],
+			[ "expelieron" ]
+		],
+		"5" : [
+			[ "expelía" ],
+			[ "expelías" ],
+			[ "expelía" ],
+			[ "expelíamos" ],
+			[ "expelíais", "expelían" ],
+			[ "expelían" ]
+		],
+		"6" : [
+			[ "expelería" ],
+			[ "expelerías" ],
+			[ "expelería" ],
+			[ "expeleríamos" ],
+			[ "expeleríais", "expelerían" ],
+			[ "expelerían" ]
+		],
+		"7" : [
+			[ "expeleré" ],
+			[ "expelerás" ],
+			[ "expelerá" ],
+			[ "expeleremos" ],
+			[ "expeleréis", "expelerán" ],
+			[ "expelerán" ]
+		],
+		"8" : [
+			[ "expela" ],
+			[ "expelas" ],
+			[ "expela" ],
+			[ "expelamos" ],
+			[ "expeláis", "expelan" ],
+			[ "expelan" ]
+		],
+		"9" : [
+			[ "expeliera" ],
+			[ "expelieras" ],
+			[ "expeliera" ],
+			[ "expeliéramos" ],
+			[ "expelierais", "expelieran" ],
+			[ "expelieran" ]
+		],
+		"10" : [
+			[ "expeliese" ],
+			[ "expelieses" ],
+			[ "expeliese" ],
+			[ "expeliésemos" ],
+			[ "expelieseis", "expeliesen" ],
+			[ "expeliesen" ]
+		],
+		"11" : [
+			[ "expeliere" ],
+			[ "expelieres" ],
+			[ "expeliere" ],
+			[ "expeliéremos" ],
+			[ "expeliereis", "expelieren" ],
+			[ "expelieren" ]
+		],
+		"12" : {
+			"1" : [ "expele" ],
+			"2" : [ "expela" ],
+			"3" : [ "expelamos" ],
+			"4" : [ "expeled" ],
+			"5" : [ "expelan" ]
+		}
+	}
+}

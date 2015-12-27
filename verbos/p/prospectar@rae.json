@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prospectar",
+	"word" : "prospectar",
+	"infinitivo" : "prospectar",
+	"participio" : [ "prospectado" ],
+	"gerundio" : [ "prospectando" ],
+	"tenses" : {
+		"3" : [
+			[ "prospecto" ],
+			[ "prospectas", "prospectás" ],
+			[ "prospecta" ],
+			[ "prospectamos" ],
+			[ "prospectáis", "prospectan" ],
+			[ "prospectan" ]
+		],
+		"4" : [
+			[ "prospecté" ],
+			[ "prospectaste" ],
+			[ "prospectó" ],
+			[ "prospectamos" ],
+			[ "prospectasteis", "prospectaron" ],
+			[ "prospectaron" ]
+		],
+		"5" : [
+			[ "prospectaba" ],
+			[ "prospectabas" ],
+			[ "prospectaba" ],
+			[ "prospectábamos" ],
+			[ "prospectabais", "prospectaban" ],
+			[ "prospectaban" ]
+		],
+		"6" : [
+			[ "prospectaría" ],
+			[ "prospectarías" ],
+			[ "prospectaría" ],
+			[ "prospectaríamos" ],
+			[ "prospectaríais", "prospectarían" ],
+			[ "prospectarían" ]
+		],
+		"7" : [
+			[ "prospectaré" ],
+			[ "prospectarás" ],
+			[ "prospectará" ],
+			[ "prospectaremos" ],
+			[ "prospectaréis", "prospectarán" ],
+			[ "prospectarán" ]
+		],
+		"8" : [
+			[ "prospecte" ],
+			[ "prospectes" ],
+			[ "prospecte" ],
+			[ "prospectemos" ],
+			[ "prospectéis", "prospecten" ],
+			[ "prospecten" ]
+		],
+		"9" : [
+			[ "prospectara" ],
+			[ "prospectaras" ],
+			[ "prospectara" ],
+			[ "prospectáramos" ],
+			[ "prospectarais", "prospectaran" ],
+			[ "prospectaran" ]
+		],
+		"10" : [
+			[ "prospectase" ],
+			[ "prospectases" ],
+			[ "prospectase" ],
+			[ "prospectásemos" ],
+			[ "prospectaseis", "prospectasen" ],
+			[ "prospectasen" ]
+		],
+		"11" : [
+			[ "prospectare" ],
+			[ "prospectares" ],
+			[ "prospectare" ],
+			[ "prospectáremos" ],
+			[ "prospectareis", "prospectaren" ],
+			[ "prospectaren" ]
+		],
+		"12" : {
+			"1" : [ "prospecta" ],
+			"2" : [ "prospecte" ],
+			"3" : [ "prospectemos" ],
+			"4" : [ "prospectad" ],
+			"5" : [ "prospecten" ]
+		}
+	}
+}

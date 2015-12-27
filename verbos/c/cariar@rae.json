@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cariar",
+	"word" : "cariar",
+	"infinitivo" : "cariar",
+	"participio" : [ "cariado" ],
+	"gerundio" : [ "cariando" ],
+	"tenses" : {
+		"3" : [
+			[ "carío" ],
+			[ "carías", "cariás" ],
+			[ "caría" ],
+			[ "cariamos" ],
+			[ "cariáis", "carían" ],
+			[ "carían" ]
+		],
+		"4" : [
+			[ "carié" ],
+			[ "cariaste" ],
+			[ "carió" ],
+			[ "cariamos" ],
+			[ "cariasteis", "cariaron" ],
+			[ "cariaron" ]
+		],
+		"5" : [
+			[ "cariaba" ],
+			[ "cariabas" ],
+			[ "cariaba" ],
+			[ "cariábamos" ],
+			[ "cariabais", "cariaban" ],
+			[ "cariaban" ]
+		],
+		"6" : [
+			[ "cariaría" ],
+			[ "cariarías" ],
+			[ "cariaría" ],
+			[ "cariaríamos" ],
+			[ "cariaríais", "cariarían" ],
+			[ "cariarían" ]
+		],
+		"7" : [
+			[ "cariaré" ],
+			[ "cariarás" ],
+			[ "cariará" ],
+			[ "cariaremos" ],
+			[ "cariaréis", "cariarán" ],
+			[ "cariarán" ]
+		],
+		"8" : [
+			[ "caríe" ],
+			[ "caríes" ],
+			[ "caríe" ],
+			[ "cariemos" ],
+			[ "cariéis", "caríen" ],
+			[ "caríen" ]
+		],
+		"9" : [
+			[ "cariara" ],
+			[ "cariaras" ],
+			[ "cariara" ],
+			[ "cariáramos" ],
+			[ "cariarais", "cariaran" ],
+			[ "cariaran" ]
+		],
+		"10" : [
+			[ "cariase" ],
+			[ "cariases" ],
+			[ "cariase" ],
+			[ "cariásemos" ],
+			[ "cariaseis", "cariasen" ],
+			[ "cariasen" ]
+		],
+		"11" : [
+			[ "cariare" ],
+			[ "cariares" ],
+			[ "cariare" ],
+			[ "cariáremos" ],
+			[ "cariareis", "cariaren" ],
+			[ "cariaren" ]
+		],
+		"12" : {
+			"1" : [ "caría" ],
+			"2" : [ "caríe" ],
+			"3" : [ "cariemos" ],
+			"4" : [ "cariad" ],
+			"5" : [ "caríen" ]
+		}
+	}
+}

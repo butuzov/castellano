@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desviar",
+	"word" : "desviar",
+	"infinitivo" : "desviar",
+	"participio" : [ "desviado" ],
+	"gerundio" : [ "desviando" ],
+	"tenses" : {
+		"3" : [
+			[ "desvío" ],
+			[ "desvías", "desviás" ],
+			[ "desvía" ],
+			[ "desviamos" ],
+			[ "desviáis", "desvían" ],
+			[ "desvían" ]
+		],
+		"4" : [
+			[ "desvié" ],
+			[ "desviaste" ],
+			[ "desvió" ],
+			[ "desviamos" ],
+			[ "desviasteis", "desviaron" ],
+			[ "desviaron" ]
+		],
+		"5" : [
+			[ "desviaba" ],
+			[ "desviabas" ],
+			[ "desviaba" ],
+			[ "desviábamos" ],
+			[ "desviabais", "desviaban" ],
+			[ "desviaban" ]
+		],
+		"6" : [
+			[ "desviaría" ],
+			[ "desviarías" ],
+			[ "desviaría" ],
+			[ "desviaríamos" ],
+			[ "desviaríais", "desviarían" ],
+			[ "desviarían" ]
+		],
+		"7" : [
+			[ "desviaré" ],
+			[ "desviarás" ],
+			[ "desviará" ],
+			[ "desviaremos" ],
+			[ "desviaréis", "desviarán" ],
+			[ "desviarán" ]
+		],
+		"8" : [
+			[ "desvíe" ],
+			[ "desvíes" ],
+			[ "desvíe" ],
+			[ "desviemos" ],
+			[ "desviéis", "desvíen" ],
+			[ "desvíen" ]
+		],
+		"9" : [
+			[ "desviara" ],
+			[ "desviaras" ],
+			[ "desviara" ],
+			[ "desviáramos" ],
+			[ "desviarais", "desviaran" ],
+			[ "desviaran" ]
+		],
+		"10" : [
+			[ "desviase" ],
+			[ "desviases" ],
+			[ "desviase" ],
+			[ "desviásemos" ],
+			[ "desviaseis", "desviasen" ],
+			[ "desviasen" ]
+		],
+		"11" : [
+			[ "desviare" ],
+			[ "desviares" ],
+			[ "desviare" ],
+			[ "desviáremos" ],
+			[ "desviareis", "desviaren" ],
+			[ "desviaren" ]
+		],
+		"12" : {
+			"1" : [ "desvía" ],
+			"2" : [ "desvíe" ],
+			"3" : [ "desviemos" ],
+			"4" : [ "desviad" ],
+			"5" : [ "desvíen" ]
+		}
+	}
+}

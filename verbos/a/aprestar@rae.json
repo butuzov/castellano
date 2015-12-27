@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aprestar",
+	"word" : "aprestar",
+	"infinitivo" : "aprestar",
+	"participio" : [ "aprestado" ],
+	"gerundio" : [ "aprestando" ],
+	"tenses" : {
+		"3" : [
+			[ "apresto" ],
+			[ "aprestas", "aprestás" ],
+			[ "apresta" ],
+			[ "aprestamos" ],
+			[ "aprestáis", "aprestan" ],
+			[ "aprestan" ]
+		],
+		"4" : [
+			[ "apresté" ],
+			[ "aprestaste" ],
+			[ "aprestó" ],
+			[ "aprestamos" ],
+			[ "aprestasteis", "aprestaron" ],
+			[ "aprestaron" ]
+		],
+		"5" : [
+			[ "aprestaba" ],
+			[ "aprestabas" ],
+			[ "aprestaba" ],
+			[ "aprestábamos" ],
+			[ "aprestabais", "aprestaban" ],
+			[ "aprestaban" ]
+		],
+		"6" : [
+			[ "aprestaría" ],
+			[ "aprestarías" ],
+			[ "aprestaría" ],
+			[ "aprestaríamos" ],
+			[ "aprestaríais", "aprestarían" ],
+			[ "aprestarían" ]
+		],
+		"7" : [
+			[ "aprestaré" ],
+			[ "aprestarás" ],
+			[ "aprestará" ],
+			[ "aprestaremos" ],
+			[ "aprestaréis", "aprestarán" ],
+			[ "aprestarán" ]
+		],
+		"8" : [
+			[ "apreste" ],
+			[ "aprestes" ],
+			[ "apreste" ],
+			[ "aprestemos" ],
+			[ "aprestéis", "apresten" ],
+			[ "apresten" ]
+		],
+		"9" : [
+			[ "aprestara" ],
+			[ "aprestaras" ],
+			[ "aprestara" ],
+			[ "aprestáramos" ],
+			[ "aprestarais", "aprestaran" ],
+			[ "aprestaran" ]
+		],
+		"10" : [
+			[ "aprestase" ],
+			[ "aprestases" ],
+			[ "aprestase" ],
+			[ "aprestásemos" ],
+			[ "aprestaseis", "aprestasen" ],
+			[ "aprestasen" ]
+		],
+		"11" : [
+			[ "aprestare" ],
+			[ "aprestares" ],
+			[ "aprestare" ],
+			[ "aprestáremos" ],
+			[ "aprestareis", "aprestaren" ],
+			[ "aprestaren" ]
+		],
+		"12" : {
+			"1" : [ "apresta" ],
+			"2" : [ "apreste" ],
+			"3" : [ "aprestemos" ],
+			"4" : [ "aprestad" ],
+			"5" : [ "apresten" ]
+		}
+	}
+}

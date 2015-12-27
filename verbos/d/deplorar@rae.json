@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deplorar",
+	"word" : "deplorar",
+	"infinitivo" : "deplorar",
+	"participio" : [ "deplorado" ],
+	"gerundio" : [ "deplorando" ],
+	"tenses" : {
+		"3" : [
+			[ "deploro" ],
+			[ "deploras", "deplorás" ],
+			[ "deplora" ],
+			[ "deploramos" ],
+			[ "deploráis", "deploran" ],
+			[ "deploran" ]
+		],
+		"4" : [
+			[ "deploré" ],
+			[ "deploraste" ],
+			[ "deploró" ],
+			[ "deploramos" ],
+			[ "deplorasteis", "deploraron" ],
+			[ "deploraron" ]
+		],
+		"5" : [
+			[ "deploraba" ],
+			[ "deplorabas" ],
+			[ "deploraba" ],
+			[ "deplorábamos" ],
+			[ "deplorabais", "deploraban" ],
+			[ "deploraban" ]
+		],
+		"6" : [
+			[ "deploraría" ],
+			[ "deplorarías" ],
+			[ "deploraría" ],
+			[ "deploraríamos" ],
+			[ "deploraríais", "deplorarían" ],
+			[ "deplorarían" ]
+		],
+		"7" : [
+			[ "deploraré" ],
+			[ "deplorarás" ],
+			[ "deplorará" ],
+			[ "deploraremos" ],
+			[ "deploraréis", "deplorarán" ],
+			[ "deplorarán" ]
+		],
+		"8" : [
+			[ "deplore" ],
+			[ "deplores" ],
+			[ "deplore" ],
+			[ "deploremos" ],
+			[ "deploréis", "deploren" ],
+			[ "deploren" ]
+		],
+		"9" : [
+			[ "deplorara" ],
+			[ "deploraras" ],
+			[ "deplorara" ],
+			[ "deploráramos" ],
+			[ "deplorarais", "deploraran" ],
+			[ "deploraran" ]
+		],
+		"10" : [
+			[ "deplorase" ],
+			[ "deplorases" ],
+			[ "deplorase" ],
+			[ "deplorásemos" ],
+			[ "deploraseis", "deplorasen" ],
+			[ "deplorasen" ]
+		],
+		"11" : [
+			[ "deplorare" ],
+			[ "deplorares" ],
+			[ "deplorare" ],
+			[ "deploráremos" ],
+			[ "deplorareis", "deploraren" ],
+			[ "deploraren" ]
+		],
+		"12" : {
+			"1" : [ "deplora" ],
+			"2" : [ "deplore" ],
+			"3" : [ "deploremos" ],
+			"4" : [ "deplorad" ],
+			"5" : [ "deploren" ]
+		}
+	}
+}

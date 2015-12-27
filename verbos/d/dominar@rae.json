@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dominar",
+	"word" : "dominar",
+	"infinitivo" : "dominar",
+	"participio" : [ "dominado" ],
+	"gerundio" : [ "dominando" ],
+	"tenses" : {
+		"3" : [
+			[ "domino" ],
+			[ "dominas", "dominás" ],
+			[ "domina" ],
+			[ "dominamos" ],
+			[ "domináis", "dominan" ],
+			[ "dominan" ]
+		],
+		"4" : [
+			[ "dominé" ],
+			[ "dominaste" ],
+			[ "dominó" ],
+			[ "dominamos" ],
+			[ "dominasteis", "dominaron" ],
+			[ "dominaron" ]
+		],
+		"5" : [
+			[ "dominaba" ],
+			[ "dominabas" ],
+			[ "dominaba" ],
+			[ "dominábamos" ],
+			[ "dominabais", "dominaban" ],
+			[ "dominaban" ]
+		],
+		"6" : [
+			[ "dominaría" ],
+			[ "dominarías" ],
+			[ "dominaría" ],
+			[ "dominaríamos" ],
+			[ "dominaríais", "dominarían" ],
+			[ "dominarían" ]
+		],
+		"7" : [
+			[ "dominaré" ],
+			[ "dominarás" ],
+			[ "dominará" ],
+			[ "dominaremos" ],
+			[ "dominaréis", "dominarán" ],
+			[ "dominarán" ]
+		],
+		"8" : [
+			[ "domine" ],
+			[ "domines" ],
+			[ "domine" ],
+			[ "dominemos" ],
+			[ "dominéis", "dominen" ],
+			[ "dominen" ]
+		],
+		"9" : [
+			[ "dominara" ],
+			[ "dominaras" ],
+			[ "dominara" ],
+			[ "domináramos" ],
+			[ "dominarais", "dominaran" ],
+			[ "dominaran" ]
+		],
+		"10" : [
+			[ "dominase" ],
+			[ "dominases" ],
+			[ "dominase" ],
+			[ "dominásemos" ],
+			[ "dominaseis", "dominasen" ],
+			[ "dominasen" ]
+		],
+		"11" : [
+			[ "dominare" ],
+			[ "dominares" ],
+			[ "dominare" ],
+			[ "domináremos" ],
+			[ "dominareis", "dominaren" ],
+			[ "dominaren" ]
+		],
+		"12" : {
+			"1" : [ "domina" ],
+			"2" : [ "domine" ],
+			"3" : [ "dominemos" ],
+			"4" : [ "dominad" ],
+			"5" : [ "dominen" ]
+		}
+	}
+}

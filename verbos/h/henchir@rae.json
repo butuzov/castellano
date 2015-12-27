@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=henchir",
+	"word" : "henchir",
+	"infinitivo" : "henchir",
+	"participio" : [ "henchido" ],
+	"gerundio" : [ "hinchiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "hincho" ],
+			[ "hinches", "henchís" ],
+			[ "hinche" ],
+			[ "henchimos" ],
+			[ "henchís", "hinchen" ],
+			[ "hinchen" ]
+		],
+		"4" : [
+			[ "henchí" ],
+			[ "henchiste" ],
+			[ "hinchió" ],
+			[ "henchimos" ],
+			[ "henchisteis", "hinchieron" ],
+			[ "hinchieron" ]
+		],
+		"5" : [
+			[ "henchía" ],
+			[ "henchías" ],
+			[ "henchía" ],
+			[ "henchíamos" ],
+			[ "henchíais", "henchían" ],
+			[ "henchían" ]
+		],
+		"6" : [
+			[ "henchiría" ],
+			[ "henchirías" ],
+			[ "henchiría" ],
+			[ "henchiríamos" ],
+			[ "henchiríais", "henchirían" ],
+			[ "henchirían" ]
+		],
+		"7" : [
+			[ "henchiré" ],
+			[ "henchirás" ],
+			[ "henchirá" ],
+			[ "henchiremos" ],
+			[ "henchiréis", "henchirán" ],
+			[ "henchirán" ]
+		],
+		"8" : [
+			[ "hincha" ],
+			[ "hinchas" ],
+			[ "hincha" ],
+			[ "hinchamos" ],
+			[ "hincháis", "hinchan" ],
+			[ "hinchan" ]
+		],
+		"9" : [
+			[ "hinchiera" ],
+			[ "hinchieras" ],
+			[ "hinchiera" ],
+			[ "hinchiéramos" ],
+			[ "hinchierais", "hinchieran" ],
+			[ "hinchieran" ]
+		],
+		"10" : [
+			[ "hinchiese" ],
+			[ "hinchieses" ],
+			[ "hinchiese" ],
+			[ "hinchiésemos" ],
+			[ "hinchieseis", "hinchiesen" ],
+			[ "hinchiesen" ]
+		],
+		"11" : [
+			[ "hinchiere" ],
+			[ "hinchieres" ],
+			[ "hinchiere" ],
+			[ "hinchiéremos" ],
+			[ "hinchiereis", "hinchieren" ],
+			[ "hinchieren" ]
+		],
+		"12" : {
+			"1" : [ "hinche" ],
+			"2" : [ "hincha" ],
+			"3" : [ "hinchamos" ],
+			"4" : [ "henchid" ],
+			"5" : [ "hinchan" ]
+		}
+	}
+}

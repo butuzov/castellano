@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=envolver",
+	"word" : "envolver",
+	"infinitivo" : "envolver",
+	"participio" : [ "envuelto" ],
+	"gerundio" : [ "envolviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "envuelvo" ],
+			[ "envuelves", "envolvés" ],
+			[ "envuelve" ],
+			[ "envolvemos" ],
+			[ "envolvéis", "envuelven" ],
+			[ "envuelven" ]
+		],
+		"4" : [
+			[ "envolví" ],
+			[ "envolviste" ],
+			[ "envolvió" ],
+			[ "envolvimos" ],
+			[ "envolvisteis", "envolvieron" ],
+			[ "envolvieron" ]
+		],
+		"5" : [
+			[ "envolvía" ],
+			[ "envolvías" ],
+			[ "envolvía" ],
+			[ "envolvíamos" ],
+			[ "envolvíais", "envolvían" ],
+			[ "envolvían" ]
+		],
+		"6" : [
+			[ "envolvería" ],
+			[ "envolverías" ],
+			[ "envolvería" ],
+			[ "envolveríamos" ],
+			[ "envolveríais", "envolverían" ],
+			[ "envolverían" ]
+		],
+		"7" : [
+			[ "envolveré" ],
+			[ "envolverás" ],
+			[ "envolverá" ],
+			[ "envolveremos" ],
+			[ "envolveréis", "envolverán" ],
+			[ "envolverán" ]
+		],
+		"8" : [
+			[ "envuelva" ],
+			[ "envuelvas" ],
+			[ "envuelva" ],
+			[ "envolvamos" ],
+			[ "envolváis", "envuelvan" ],
+			[ "envuelvan" ]
+		],
+		"9" : [
+			[ "envolviera" ],
+			[ "envolvieras" ],
+			[ "envolviera" ],
+			[ "envolviéramos" ],
+			[ "envolvierais", "envolvieran" ],
+			[ "envolvieran" ]
+		],
+		"10" : [
+			[ "envolviese" ],
+			[ "envolvieses" ],
+			[ "envolviese" ],
+			[ "envolviésemos" ],
+			[ "envolvieseis", "envolviesen" ],
+			[ "envolviesen" ]
+		],
+		"11" : [
+			[ "envolviere" ],
+			[ "envolvieres" ],
+			[ "envolviere" ],
+			[ "envolviéremos" ],
+			[ "envolviereis", "envolvieren" ],
+			[ "envolvieren" ]
+		],
+		"12" : {
+			"1" : [ "envuelve" ],
+			"2" : [ "envuelva" ],
+			"3" : [ "envolvamos" ],
+			"4" : [ "envolved" ],
+			"5" : [ "envuelvan" ]
+		}
+	}
+}

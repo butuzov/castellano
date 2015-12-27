@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=destapar",
+	"word" : "destapar",
+	"infinitivo" : "destapar",
+	"participio" : [ "destapado" ],
+	"gerundio" : [ "destapando" ],
+	"tenses" : {
+		"3" : [
+			[ "destapo" ],
+			[ "destapas", "destapás" ],
+			[ "destapa" ],
+			[ "destapamos" ],
+			[ "destapáis", "destapan" ],
+			[ "destapan" ]
+		],
+		"4" : [
+			[ "destapé" ],
+			[ "destapaste" ],
+			[ "destapó" ],
+			[ "destapamos" ],
+			[ "destapasteis", "destaparon" ],
+			[ "destaparon" ]
+		],
+		"5" : [
+			[ "destapaba" ],
+			[ "destapabas" ],
+			[ "destapaba" ],
+			[ "destapábamos" ],
+			[ "destapabais", "destapaban" ],
+			[ "destapaban" ]
+		],
+		"6" : [
+			[ "destaparía" ],
+			[ "destaparías" ],
+			[ "destaparía" ],
+			[ "destaparíamos" ],
+			[ "destaparíais", "destaparían" ],
+			[ "destaparían" ]
+		],
+		"7" : [
+			[ "destaparé" ],
+			[ "destaparás" ],
+			[ "destapará" ],
+			[ "destaparemos" ],
+			[ "destaparéis", "destaparán" ],
+			[ "destaparán" ]
+		],
+		"8" : [
+			[ "destape" ],
+			[ "destapes" ],
+			[ "destape" ],
+			[ "destapemos" ],
+			[ "destapéis", "destapen" ],
+			[ "destapen" ]
+		],
+		"9" : [
+			[ "destapara" ],
+			[ "destaparas" ],
+			[ "destapara" ],
+			[ "destapáramos" ],
+			[ "destaparais", "destaparan" ],
+			[ "destaparan" ]
+		],
+		"10" : [
+			[ "destapase" ],
+			[ "destapases" ],
+			[ "destapase" ],
+			[ "destapásemos" ],
+			[ "destapaseis", "destapasen" ],
+			[ "destapasen" ]
+		],
+		"11" : [
+			[ "destapare" ],
+			[ "destapares" ],
+			[ "destapare" ],
+			[ "destapáremos" ],
+			[ "destapareis", "destaparen" ],
+			[ "destaparen" ]
+		],
+		"12" : {
+			"1" : [ "destapa" ],
+			"2" : [ "destape" ],
+			"3" : [ "destapemos" ],
+			"4" : [ "destapad" ],
+			"5" : [ "destapen" ]
+		}
+	}
+}

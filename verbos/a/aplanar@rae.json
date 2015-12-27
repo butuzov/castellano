@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aplanar",
+	"word" : "aplanar",
+	"infinitivo" : "aplanar",
+	"participio" : [ "aplanado" ],
+	"gerundio" : [ "aplanando" ],
+	"tenses" : {
+		"3" : [
+			[ "aplano" ],
+			[ "aplanas", "aplanás" ],
+			[ "aplana" ],
+			[ "aplanamos" ],
+			[ "aplanáis", "aplanan" ],
+			[ "aplanan" ]
+		],
+		"4" : [
+			[ "aplané" ],
+			[ "aplanaste" ],
+			[ "aplanó" ],
+			[ "aplanamos" ],
+			[ "aplanasteis", "aplanaron" ],
+			[ "aplanaron" ]
+		],
+		"5" : [
+			[ "aplanaba" ],
+			[ "aplanabas" ],
+			[ "aplanaba" ],
+			[ "aplanábamos" ],
+			[ "aplanabais", "aplanaban" ],
+			[ "aplanaban" ]
+		],
+		"6" : [
+			[ "aplanaría" ],
+			[ "aplanarías" ],
+			[ "aplanaría" ],
+			[ "aplanaríamos" ],
+			[ "aplanaríais", "aplanarían" ],
+			[ "aplanarían" ]
+		],
+		"7" : [
+			[ "aplanaré" ],
+			[ "aplanarás" ],
+			[ "aplanará" ],
+			[ "aplanaremos" ],
+			[ "aplanaréis", "aplanarán" ],
+			[ "aplanarán" ]
+		],
+		"8" : [
+			[ "aplane" ],
+			[ "aplanes" ],
+			[ "aplane" ],
+			[ "aplanemos" ],
+			[ "aplanéis", "aplanen" ],
+			[ "aplanen" ]
+		],
+		"9" : [
+			[ "aplanara" ],
+			[ "aplanaras" ],
+			[ "aplanara" ],
+			[ "aplanáramos" ],
+			[ "aplanarais", "aplanaran" ],
+			[ "aplanaran" ]
+		],
+		"10" : [
+			[ "aplanase" ],
+			[ "aplanases" ],
+			[ "aplanase" ],
+			[ "aplanásemos" ],
+			[ "aplanaseis", "aplanasen" ],
+			[ "aplanasen" ]
+		],
+		"11" : [
+			[ "aplanare" ],
+			[ "aplanares" ],
+			[ "aplanare" ],
+			[ "aplanáremos" ],
+			[ "aplanareis", "aplanaren" ],
+			[ "aplanaren" ]
+		],
+		"12" : {
+			"1" : [ "aplana" ],
+			"2" : [ "aplane" ],
+			"3" : [ "aplanemos" ],
+			"4" : [ "aplanad" ],
+			"5" : [ "aplanen" ]
+		}
+	}
+}

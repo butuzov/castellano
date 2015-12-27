@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esquilmar",
+	"word" : "esquilmar",
+	"infinitivo" : "esquilmar",
+	"participio" : [ "esquilmado" ],
+	"gerundio" : [ "esquilmando" ],
+	"tenses" : {
+		"3" : [
+			[ "esquilmo" ],
+			[ "esquilmas", "esquilmás" ],
+			[ "esquilma" ],
+			[ "esquilmamos" ],
+			[ "esquilmáis", "esquilman" ],
+			[ "esquilman" ]
+		],
+		"4" : [
+			[ "esquilmé" ],
+			[ "esquilmaste" ],
+			[ "esquilmó" ],
+			[ "esquilmamos" ],
+			[ "esquilmasteis", "esquilmaron" ],
+			[ "esquilmaron" ]
+		],
+		"5" : [
+			[ "esquilmaba" ],
+			[ "esquilmabas" ],
+			[ "esquilmaba" ],
+			[ "esquilmábamos" ],
+			[ "esquilmabais", "esquilmaban" ],
+			[ "esquilmaban" ]
+		],
+		"6" : [
+			[ "esquilmaría" ],
+			[ "esquilmarías" ],
+			[ "esquilmaría" ],
+			[ "esquilmaríamos" ],
+			[ "esquilmaríais", "esquilmarían" ],
+			[ "esquilmarían" ]
+		],
+		"7" : [
+			[ "esquilmaré" ],
+			[ "esquilmarás" ],
+			[ "esquilmará" ],
+			[ "esquilmaremos" ],
+			[ "esquilmaréis", "esquilmarán" ],
+			[ "esquilmarán" ]
+		],
+		"8" : [
+			[ "esquilme" ],
+			[ "esquilmes" ],
+			[ "esquilme" ],
+			[ "esquilmemos" ],
+			[ "esquilméis", "esquilmen" ],
+			[ "esquilmen" ]
+		],
+		"9" : [
+			[ "esquilmara" ],
+			[ "esquilmaras" ],
+			[ "esquilmara" ],
+			[ "esquilmáramos" ],
+			[ "esquilmarais", "esquilmaran" ],
+			[ "esquilmaran" ]
+		],
+		"10" : [
+			[ "esquilmase" ],
+			[ "esquilmases" ],
+			[ "esquilmase" ],
+			[ "esquilmásemos" ],
+			[ "esquilmaseis", "esquilmasen" ],
+			[ "esquilmasen" ]
+		],
+		"11" : [
+			[ "esquilmare" ],
+			[ "esquilmares" ],
+			[ "esquilmare" ],
+			[ "esquilmáremos" ],
+			[ "esquilmareis", "esquilmaren" ],
+			[ "esquilmaren" ]
+		],
+		"12" : {
+			"1" : [ "esquilma" ],
+			"2" : [ "esquilme" ],
+			"3" : [ "esquilmemos" ],
+			"4" : [ "esquilmad" ],
+			"5" : [ "esquilmen" ]
+		}
+	}
+}

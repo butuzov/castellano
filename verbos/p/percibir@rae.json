@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=percibir",
+	"word" : "percibir",
+	"infinitivo" : "percibir",
+	"participio" : [ "percibido" ],
+	"gerundio" : [ "percibiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "percibo" ],
+			[ "percibes", "percibís" ],
+			[ "percibe" ],
+			[ "percibimos" ],
+			[ "percibís", "perciben" ],
+			[ "perciben" ]
+		],
+		"4" : [
+			[ "percibí" ],
+			[ "percibiste" ],
+			[ "percibió" ],
+			[ "percibimos" ],
+			[ "percibisteis", "percibieron" ],
+			[ "percibieron" ]
+		],
+		"5" : [
+			[ "percibía" ],
+			[ "percibías" ],
+			[ "percibía" ],
+			[ "percibíamos" ],
+			[ "percibíais", "percibían" ],
+			[ "percibían" ]
+		],
+		"6" : [
+			[ "percibiría" ],
+			[ "percibirías" ],
+			[ "percibiría" ],
+			[ "percibiríamos" ],
+			[ "percibiríais", "percibirían" ],
+			[ "percibirían" ]
+		],
+		"7" : [
+			[ "percibiré" ],
+			[ "percibirás" ],
+			[ "percibirá" ],
+			[ "percibiremos" ],
+			[ "percibiréis", "percibirán" ],
+			[ "percibirán" ]
+		],
+		"8" : [
+			[ "perciba" ],
+			[ "percibas" ],
+			[ "perciba" ],
+			[ "percibamos" ],
+			[ "percibáis", "perciban" ],
+			[ "perciban" ]
+		],
+		"9" : [
+			[ "percibiera" ],
+			[ "percibieras" ],
+			[ "percibiera" ],
+			[ "percibiéramos" ],
+			[ "percibierais", "percibieran" ],
+			[ "percibieran" ]
+		],
+		"10" : [
+			[ "percibiese" ],
+			[ "percibieses" ],
+			[ "percibiese" ],
+			[ "percibiésemos" ],
+			[ "percibieseis", "percibiesen" ],
+			[ "percibiesen" ]
+		],
+		"11" : [
+			[ "percibiere" ],
+			[ "percibieres" ],
+			[ "percibiere" ],
+			[ "percibiéremos" ],
+			[ "percibiereis", "percibieren" ],
+			[ "percibieren" ]
+		],
+		"12" : {
+			"1" : [ "percibe" ],
+			"2" : [ "perciba" ],
+			"3" : [ "percibamos" ],
+			"4" : [ "percibid" ],
+			"5" : [ "perciban" ]
+		}
+	}
+}

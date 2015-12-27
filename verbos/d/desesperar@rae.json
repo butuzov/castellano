@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desesperar",
+	"word" : "desesperar",
+	"infinitivo" : "desesperar",
+	"participio" : [ "desesperado" ],
+	"gerundio" : [ "desesperando" ],
+	"tenses" : {
+		"3" : [
+			[ "desespero" ],
+			[ "desesperas", "desesperás" ],
+			[ "desespera" ],
+			[ "desesperamos" ],
+			[ "desesperáis", "desesperan" ],
+			[ "desesperan" ]
+		],
+		"4" : [
+			[ "desesperé" ],
+			[ "desesperaste" ],
+			[ "desesperó" ],
+			[ "desesperamos" ],
+			[ "desesperasteis", "desesperaron" ],
+			[ "desesperaron" ]
+		],
+		"5" : [
+			[ "desesperaba" ],
+			[ "desesperabas" ],
+			[ "desesperaba" ],
+			[ "desesperábamos" ],
+			[ "desesperabais", "desesperaban" ],
+			[ "desesperaban" ]
+		],
+		"6" : [
+			[ "desesperaría" ],
+			[ "desesperarías" ],
+			[ "desesperaría" ],
+			[ "desesperaríamos" ],
+			[ "desesperaríais", "desesperarían" ],
+			[ "desesperarían" ]
+		],
+		"7" : [
+			[ "desesperaré" ],
+			[ "desesperarás" ],
+			[ "desesperará" ],
+			[ "desesperaremos" ],
+			[ "desesperaréis", "desesperarán" ],
+			[ "desesperarán" ]
+		],
+		"8" : [
+			[ "desespere" ],
+			[ "desesperes" ],
+			[ "desespere" ],
+			[ "desesperemos" ],
+			[ "desesperéis", "desesperen" ],
+			[ "desesperen" ]
+		],
+		"9" : [
+			[ "desesperara" ],
+			[ "desesperaras" ],
+			[ "desesperara" ],
+			[ "desesperáramos" ],
+			[ "desesperarais", "desesperaran" ],
+			[ "desesperaran" ]
+		],
+		"10" : [
+			[ "desesperase" ],
+			[ "desesperases" ],
+			[ "desesperase" ],
+			[ "desesperásemos" ],
+			[ "desesperaseis", "desesperasen" ],
+			[ "desesperasen" ]
+		],
+		"11" : [
+			[ "desesperare" ],
+			[ "desesperares" ],
+			[ "desesperare" ],
+			[ "desesperáremos" ],
+			[ "desesperareis", "desesperaren" ],
+			[ "desesperaren" ]
+		],
+		"12" : {
+			"1" : [ "desespera" ],
+			"2" : [ "desespere" ],
+			"3" : [ "desesperemos" ],
+			"4" : [ "desesperad" ],
+			"5" : [ "desesperen" ]
+		}
+	}
+}

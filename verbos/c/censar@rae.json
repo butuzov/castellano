@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=censar",
+	"word" : "censar",
+	"infinitivo" : "censar",
+	"participio" : [ "censado" ],
+	"gerundio" : [ "censando" ],
+	"tenses" : {
+		"3" : [
+			[ "censo" ],
+			[ "censas", "censás" ],
+			[ "censa" ],
+			[ "censamos" ],
+			[ "censáis", "censan" ],
+			[ "censan" ]
+		],
+		"4" : [
+			[ "censé" ],
+			[ "censaste" ],
+			[ "censó" ],
+			[ "censamos" ],
+			[ "censasteis", "censaron" ],
+			[ "censaron" ]
+		],
+		"5" : [
+			[ "censaba" ],
+			[ "censabas" ],
+			[ "censaba" ],
+			[ "censábamos" ],
+			[ "censabais", "censaban" ],
+			[ "censaban" ]
+		],
+		"6" : [
+			[ "censaría" ],
+			[ "censarías" ],
+			[ "censaría" ],
+			[ "censaríamos" ],
+			[ "censaríais", "censarían" ],
+			[ "censarían" ]
+		],
+		"7" : [
+			[ "censaré" ],
+			[ "censarás" ],
+			[ "censará" ],
+			[ "censaremos" ],
+			[ "censaréis", "censarán" ],
+			[ "censarán" ]
+		],
+		"8" : [
+			[ "cense" ],
+			[ "censes" ],
+			[ "cense" ],
+			[ "censemos" ],
+			[ "censéis", "censen" ],
+			[ "censen" ]
+		],
+		"9" : [
+			[ "censara" ],
+			[ "censaras" ],
+			[ "censara" ],
+			[ "censáramos" ],
+			[ "censarais", "censaran" ],
+			[ "censaran" ]
+		],
+		"10" : [
+			[ "censase" ],
+			[ "censases" ],
+			[ "censase" ],
+			[ "censásemos" ],
+			[ "censaseis", "censasen" ],
+			[ "censasen" ]
+		],
+		"11" : [
+			[ "censare" ],
+			[ "censares" ],
+			[ "censare" ],
+			[ "censáremos" ],
+			[ "censareis", "censaren" ],
+			[ "censaren" ]
+		],
+		"12" : {
+			"1" : [ "censa" ],
+			"2" : [ "cense" ],
+			"3" : [ "censemos" ],
+			"4" : [ "censad" ],
+			"5" : [ "censen" ]
+		}
+	}
+}

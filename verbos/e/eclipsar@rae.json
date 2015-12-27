@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=eclipsar",
+	"word" : "eclipsar",
+	"infinitivo" : "eclipsar",
+	"participio" : [ "eclipsado" ],
+	"gerundio" : [ "eclipsando" ],
+	"tenses" : {
+		"3" : [
+			[ "eclipso" ],
+			[ "eclipsas", "eclipsás" ],
+			[ "eclipsa" ],
+			[ "eclipsamos" ],
+			[ "eclipsáis", "eclipsan" ],
+			[ "eclipsan" ]
+		],
+		"4" : [
+			[ "eclipsé" ],
+			[ "eclipsaste" ],
+			[ "eclipsó" ],
+			[ "eclipsamos" ],
+			[ "eclipsasteis", "eclipsaron" ],
+			[ "eclipsaron" ]
+		],
+		"5" : [
+			[ "eclipsaba" ],
+			[ "eclipsabas" ],
+			[ "eclipsaba" ],
+			[ "eclipsábamos" ],
+			[ "eclipsabais", "eclipsaban" ],
+			[ "eclipsaban" ]
+		],
+		"6" : [
+			[ "eclipsaría" ],
+			[ "eclipsarías" ],
+			[ "eclipsaría" ],
+			[ "eclipsaríamos" ],
+			[ "eclipsaríais", "eclipsarían" ],
+			[ "eclipsarían" ]
+		],
+		"7" : [
+			[ "eclipsaré" ],
+			[ "eclipsarás" ],
+			[ "eclipsará" ],
+			[ "eclipsaremos" ],
+			[ "eclipsaréis", "eclipsarán" ],
+			[ "eclipsarán" ]
+		],
+		"8" : [
+			[ "eclipse" ],
+			[ "eclipses" ],
+			[ "eclipse" ],
+			[ "eclipsemos" ],
+			[ "eclipséis", "eclipsen" ],
+			[ "eclipsen" ]
+		],
+		"9" : [
+			[ "eclipsara" ],
+			[ "eclipsaras" ],
+			[ "eclipsara" ],
+			[ "eclipsáramos" ],
+			[ "eclipsarais", "eclipsaran" ],
+			[ "eclipsaran" ]
+		],
+		"10" : [
+			[ "eclipsase" ],
+			[ "eclipsases" ],
+			[ "eclipsase" ],
+			[ "eclipsásemos" ],
+			[ "eclipsaseis", "eclipsasen" ],
+			[ "eclipsasen" ]
+		],
+		"11" : [
+			[ "eclipsare" ],
+			[ "eclipsares" ],
+			[ "eclipsare" ],
+			[ "eclipsáremos" ],
+			[ "eclipsareis", "eclipsaren" ],
+			[ "eclipsaren" ]
+		],
+		"12" : {
+			"1" : [ "eclipsa" ],
+			"2" : [ "eclipse" ],
+			"3" : [ "eclipsemos" ],
+			"4" : [ "eclipsad" ],
+			"5" : [ "eclipsen" ]
+		}
+	}
+}

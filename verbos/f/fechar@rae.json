@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fechar",
+	"word" : "fechar",
+	"infinitivo" : "fechar",
+	"participio" : [ "fechado" ],
+	"gerundio" : [ "fechando" ],
+	"tenses" : {
+		"3" : [
+			[ "fecho" ],
+			[ "fechas", "fechás" ],
+			[ "fecha" ],
+			[ "fechamos" ],
+			[ "fecháis", "fechan" ],
+			[ "fechan" ]
+		],
+		"4" : [
+			[ "feché" ],
+			[ "fechaste" ],
+			[ "fechó" ],
+			[ "fechamos" ],
+			[ "fechasteis", "fecharon" ],
+			[ "fecharon" ]
+		],
+		"5" : [
+			[ "fechaba" ],
+			[ "fechabas" ],
+			[ "fechaba" ],
+			[ "fechábamos" ],
+			[ "fechabais", "fechaban" ],
+			[ "fechaban" ]
+		],
+		"6" : [
+			[ "fecharía" ],
+			[ "fecharías" ],
+			[ "fecharía" ],
+			[ "fecharíamos" ],
+			[ "fecharíais", "fecharían" ],
+			[ "fecharían" ]
+		],
+		"7" : [
+			[ "fecharé" ],
+			[ "fecharás" ],
+			[ "fechará" ],
+			[ "fecharemos" ],
+			[ "fecharéis", "fecharán" ],
+			[ "fecharán" ]
+		],
+		"8" : [
+			[ "feche" ],
+			[ "feches" ],
+			[ "feche" ],
+			[ "fechemos" ],
+			[ "fechéis", "fechen" ],
+			[ "fechen" ]
+		],
+		"9" : [
+			[ "fechara" ],
+			[ "fecharas" ],
+			[ "fechara" ],
+			[ "fecháramos" ],
+			[ "fecharais", "fecharan" ],
+			[ "fecharan" ]
+		],
+		"10" : [
+			[ "fechase" ],
+			[ "fechases" ],
+			[ "fechase" ],
+			[ "fechásemos" ],
+			[ "fechaseis", "fechasen" ],
+			[ "fechasen" ]
+		],
+		"11" : [
+			[ "fechare" ],
+			[ "fechares" ],
+			[ "fechare" ],
+			[ "fecháremos" ],
+			[ "fechareis", "fecharen" ],
+			[ "fecharen" ]
+		],
+		"12" : {
+			"1" : [ "fecha" ],
+			"2" : [ "feche" ],
+			"3" : [ "fechemos" ],
+			"4" : [ "fechad" ],
+			"5" : [ "fechen" ]
+		}
+	}
+}

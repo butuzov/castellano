@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tumbar",
+	"word" : "tumbar",
+	"infinitivo" : "tumbar",
+	"participio" : [ "tumbado" ],
+	"gerundio" : [ "tumbando" ],
+	"tenses" : {
+		"3" : [
+			[ "tumbo" ],
+			[ "tumbas", "tumbás" ],
+			[ "tumba" ],
+			[ "tumbamos" ],
+			[ "tumbáis", "tumban" ],
+			[ "tumban" ]
+		],
+		"4" : [
+			[ "tumbé" ],
+			[ "tumbaste" ],
+			[ "tumbó" ],
+			[ "tumbamos" ],
+			[ "tumbasteis", "tumbaron" ],
+			[ "tumbaron" ]
+		],
+		"5" : [
+			[ "tumbaba" ],
+			[ "tumbabas" ],
+			[ "tumbaba" ],
+			[ "tumbábamos" ],
+			[ "tumbabais", "tumbaban" ],
+			[ "tumbaban" ]
+		],
+		"6" : [
+			[ "tumbaría" ],
+			[ "tumbarías" ],
+			[ "tumbaría" ],
+			[ "tumbaríamos" ],
+			[ "tumbaríais", "tumbarían" ],
+			[ "tumbarían" ]
+		],
+		"7" : [
+			[ "tumbaré" ],
+			[ "tumbarás" ],
+			[ "tumbará" ],
+			[ "tumbaremos" ],
+			[ "tumbaréis", "tumbarán" ],
+			[ "tumbarán" ]
+		],
+		"8" : [
+			[ "tumbe" ],
+			[ "tumbes" ],
+			[ "tumbe" ],
+			[ "tumbemos" ],
+			[ "tumbéis", "tumben" ],
+			[ "tumben" ]
+		],
+		"9" : [
+			[ "tumbara" ],
+			[ "tumbaras" ],
+			[ "tumbara" ],
+			[ "tumbáramos" ],
+			[ "tumbarais", "tumbaran" ],
+			[ "tumbaran" ]
+		],
+		"10" : [
+			[ "tumbase" ],
+			[ "tumbases" ],
+			[ "tumbase" ],
+			[ "tumbásemos" ],
+			[ "tumbaseis", "tumbasen" ],
+			[ "tumbasen" ]
+		],
+		"11" : [
+			[ "tumbare" ],
+			[ "tumbares" ],
+			[ "tumbare" ],
+			[ "tumbáremos" ],
+			[ "tumbareis", "tumbaren" ],
+			[ "tumbaren" ]
+		],
+		"12" : {
+			"1" : [ "tumba" ],
+			"2" : [ "tumbe" ],
+			"3" : [ "tumbemos" ],
+			"4" : [ "tumbad" ],
+			"5" : [ "tumben" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=calumniar",
+	"word" : "calumniar",
+	"infinitivo" : "calumniar",
+	"participio" : [ "calumniado" ],
+	"gerundio" : [ "calumniando" ],
+	"tenses" : {
+		"3" : [
+			[ "calumnio" ],
+			[ "calumnias", "calumniás" ],
+			[ "calumnia" ],
+			[ "calumniamos" ],
+			[ "calumniáis", "calumnian" ],
+			[ "calumnian" ]
+		],
+		"4" : [
+			[ "calumnié" ],
+			[ "calumniaste" ],
+			[ "calumnió" ],
+			[ "calumniamos" ],
+			[ "calumniasteis", "calumniaron" ],
+			[ "calumniaron" ]
+		],
+		"5" : [
+			[ "calumniaba" ],
+			[ "calumniabas" ],
+			[ "calumniaba" ],
+			[ "calumniábamos" ],
+			[ "calumniabais", "calumniaban" ],
+			[ "calumniaban" ]
+		],
+		"6" : [
+			[ "calumniaría" ],
+			[ "calumniarías" ],
+			[ "calumniaría" ],
+			[ "calumniaríamos" ],
+			[ "calumniaríais", "calumniarían" ],
+			[ "calumniarían" ]
+		],
+		"7" : [
+			[ "calumniaré" ],
+			[ "calumniarás" ],
+			[ "calumniará" ],
+			[ "calumniaremos" ],
+			[ "calumniaréis", "calumniarán" ],
+			[ "calumniarán" ]
+		],
+		"8" : [
+			[ "calumnie" ],
+			[ "calumnies" ],
+			[ "calumnie" ],
+			[ "calumniemos" ],
+			[ "calumniéis", "calumnien" ],
+			[ "calumnien" ]
+		],
+		"9" : [
+			[ "calumniara" ],
+			[ "calumniaras" ],
+			[ "calumniara" ],
+			[ "calumniáramos" ],
+			[ "calumniarais", "calumniaran" ],
+			[ "calumniaran" ]
+		],
+		"10" : [
+			[ "calumniase" ],
+			[ "calumniases" ],
+			[ "calumniase" ],
+			[ "calumniásemos" ],
+			[ "calumniaseis", "calumniasen" ],
+			[ "calumniasen" ]
+		],
+		"11" : [
+			[ "calumniare" ],
+			[ "calumniares" ],
+			[ "calumniare" ],
+			[ "calumniáremos" ],
+			[ "calumniareis", "calumniaren" ],
+			[ "calumniaren" ]
+		],
+		"12" : {
+			"1" : [ "calumnia" ],
+			"2" : [ "calumnie" ],
+			"3" : [ "calumniemos" ],
+			"4" : [ "calumniad" ],
+			"5" : [ "calumnien" ]
+		}
+	}
+}

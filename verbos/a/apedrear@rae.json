@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apedrear",
+	"word" : "apedrear",
+	"infinitivo" : "apedrear",
+	"participio" : [ "apedreado" ],
+	"gerundio" : [ "apedreando" ],
+	"tenses" : {
+		"3" : [
+			[ "apedreo" ],
+			[ "apedreas", "apedreás" ],
+			[ "apedrea" ],
+			[ "apedreamos" ],
+			[ "apedreáis", "apedrean" ],
+			[ "apedrean" ]
+		],
+		"4" : [
+			[ "apedreé" ],
+			[ "apedreaste" ],
+			[ "apedreó" ],
+			[ "apedreamos" ],
+			[ "apedreasteis", "apedrearon" ],
+			[ "apedrearon" ]
+		],
+		"5" : [
+			[ "apedreaba" ],
+			[ "apedreabas" ],
+			[ "apedreaba" ],
+			[ "apedreábamos" ],
+			[ "apedreabais", "apedreaban" ],
+			[ "apedreaban" ]
+		],
+		"6" : [
+			[ "apedrearía" ],
+			[ "apedrearías" ],
+			[ "apedrearía" ],
+			[ "apedrearíamos" ],
+			[ "apedrearíais", "apedrearían" ],
+			[ "apedrearían" ]
+		],
+		"7" : [
+			[ "apedrearé" ],
+			[ "apedrearás" ],
+			[ "apedreará" ],
+			[ "apedrearemos" ],
+			[ "apedrearéis", "apedrearán" ],
+			[ "apedrearán" ]
+		],
+		"8" : [
+			[ "apedree" ],
+			[ "apedrees" ],
+			[ "apedree" ],
+			[ "apedreemos" ],
+			[ "apedreéis", "apedreen" ],
+			[ "apedreen" ]
+		],
+		"9" : [
+			[ "apedreara" ],
+			[ "apedrearas" ],
+			[ "apedreara" ],
+			[ "apedreáramos" ],
+			[ "apedrearais", "apedrearan" ],
+			[ "apedrearan" ]
+		],
+		"10" : [
+			[ "apedrease" ],
+			[ "apedreases" ],
+			[ "apedrease" ],
+			[ "apedreásemos" ],
+			[ "apedreaseis", "apedreasen" ],
+			[ "apedreasen" ]
+		],
+		"11" : [
+			[ "apedreare" ],
+			[ "apedreares" ],
+			[ "apedreare" ],
+			[ "apedreáremos" ],
+			[ "apedreareis", "apedrearen" ],
+			[ "apedrearen" ]
+		],
+		"12" : {
+			"1" : [ "apedrea" ],
+			"2" : [ "apedree" ],
+			"3" : [ "apedreemos" ],
+			"4" : [ "apedread" ],
+			"5" : [ "apedreen" ]
+		}
+	}
+}

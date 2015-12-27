@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=carburar",
+	"word" : "carburar",
+	"infinitivo" : "carburar",
+	"participio" : [ "carburado" ],
+	"gerundio" : [ "carburando" ],
+	"tenses" : {
+		"3" : [
+			[ "carburo" ],
+			[ "carburas", "carburás" ],
+			[ "carbura" ],
+			[ "carburamos" ],
+			[ "carburáis", "carburan" ],
+			[ "carburan" ]
+		],
+		"4" : [
+			[ "carburé" ],
+			[ "carburaste" ],
+			[ "carburó" ],
+			[ "carburamos" ],
+			[ "carburasteis", "carburaron" ],
+			[ "carburaron" ]
+		],
+		"5" : [
+			[ "carburaba" ],
+			[ "carburabas" ],
+			[ "carburaba" ],
+			[ "carburábamos" ],
+			[ "carburabais", "carburaban" ],
+			[ "carburaban" ]
+		],
+		"6" : [
+			[ "carburaría" ],
+			[ "carburarías" ],
+			[ "carburaría" ],
+			[ "carburaríamos" ],
+			[ "carburaríais", "carburarían" ],
+			[ "carburarían" ]
+		],
+		"7" : [
+			[ "carburaré" ],
+			[ "carburarás" ],
+			[ "carburará" ],
+			[ "carburaremos" ],
+			[ "carburaréis", "carburarán" ],
+			[ "carburarán" ]
+		],
+		"8" : [
+			[ "carbure" ],
+			[ "carbures" ],
+			[ "carbure" ],
+			[ "carburemos" ],
+			[ "carburéis", "carburen" ],
+			[ "carburen" ]
+		],
+		"9" : [
+			[ "carburara" ],
+			[ "carburaras" ],
+			[ "carburara" ],
+			[ "carburáramos" ],
+			[ "carburarais", "carburaran" ],
+			[ "carburaran" ]
+		],
+		"10" : [
+			[ "carburase" ],
+			[ "carburases" ],
+			[ "carburase" ],
+			[ "carburásemos" ],
+			[ "carburaseis", "carburasen" ],
+			[ "carburasen" ]
+		],
+		"11" : [
+			[ "carburare" ],
+			[ "carburares" ],
+			[ "carburare" ],
+			[ "carburáremos" ],
+			[ "carburareis", "carburaren" ],
+			[ "carburaren" ]
+		],
+		"12" : {
+			"1" : [ "carbura" ],
+			"2" : [ "carbure" ],
+			"3" : [ "carburemos" ],
+			"4" : [ "carburad" ],
+			"5" : [ "carburen" ]
+		}
+	}
+}

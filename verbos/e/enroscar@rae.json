@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enroscar",
+	"word" : "enroscar",
+	"infinitivo" : "enroscar",
+	"participio" : [ "enroscado" ],
+	"gerundio" : [ "enroscando" ],
+	"tenses" : {
+		"3" : [
+			[ "enrosco" ],
+			[ "enroscas", "enroscás" ],
+			[ "enrosca" ],
+			[ "enroscamos" ],
+			[ "enroscáis", "enroscan" ],
+			[ "enroscan" ]
+		],
+		"4" : [
+			[ "enrosqué" ],
+			[ "enroscaste" ],
+			[ "enroscó" ],
+			[ "enroscamos" ],
+			[ "enroscasteis", "enroscaron" ],
+			[ "enroscaron" ]
+		],
+		"5" : [
+			[ "enroscaba" ],
+			[ "enroscabas" ],
+			[ "enroscaba" ],
+			[ "enroscábamos" ],
+			[ "enroscabais", "enroscaban" ],
+			[ "enroscaban" ]
+		],
+		"6" : [
+			[ "enroscaría" ],
+			[ "enroscarías" ],
+			[ "enroscaría" ],
+			[ "enroscaríamos" ],
+			[ "enroscaríais", "enroscarían" ],
+			[ "enroscarían" ]
+		],
+		"7" : [
+			[ "enroscaré" ],
+			[ "enroscarás" ],
+			[ "enroscará" ],
+			[ "enroscaremos" ],
+			[ "enroscaréis", "enroscarán" ],
+			[ "enroscarán" ]
+		],
+		"8" : [
+			[ "enrosque" ],
+			[ "enrosques" ],
+			[ "enrosque" ],
+			[ "enrosquemos" ],
+			[ "enrosquéis", "enrosquen" ],
+			[ "enrosquen" ]
+		],
+		"9" : [
+			[ "enroscara" ],
+			[ "enroscaras" ],
+			[ "enroscara" ],
+			[ "enroscáramos" ],
+			[ "enroscarais", "enroscaran" ],
+			[ "enroscaran" ]
+		],
+		"10" : [
+			[ "enroscase" ],
+			[ "enroscases" ],
+			[ "enroscase" ],
+			[ "enroscásemos" ],
+			[ "enroscaseis", "enroscasen" ],
+			[ "enroscasen" ]
+		],
+		"11" : [
+			[ "enroscare" ],
+			[ "enroscares" ],
+			[ "enroscare" ],
+			[ "enroscáremos" ],
+			[ "enroscareis", "enroscaren" ],
+			[ "enroscaren" ]
+		],
+		"12" : {
+			"1" : [ "enrosca" ],
+			"2" : [ "enrosque" ],
+			"3" : [ "enrosquemos" ],
+			"4" : [ "enroscad" ],
+			"5" : [ "enrosquen" ]
+		}
+	}
+}

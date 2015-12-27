@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rebasar",
+	"word" : "rebasar",
+	"infinitivo" : "rebasar",
+	"participio" : [ "rebasado" ],
+	"gerundio" : [ "rebasando" ],
+	"tenses" : {
+		"3" : [
+			[ "rebaso" ],
+			[ "rebasas", "rebasás" ],
+			[ "rebasa" ],
+			[ "rebasamos" ],
+			[ "rebasáis", "rebasan" ],
+			[ "rebasan" ]
+		],
+		"4" : [
+			[ "rebasé" ],
+			[ "rebasaste" ],
+			[ "rebasó" ],
+			[ "rebasamos" ],
+			[ "rebasasteis", "rebasaron" ],
+			[ "rebasaron" ]
+		],
+		"5" : [
+			[ "rebasaba" ],
+			[ "rebasabas" ],
+			[ "rebasaba" ],
+			[ "rebasábamos" ],
+			[ "rebasabais", "rebasaban" ],
+			[ "rebasaban" ]
+		],
+		"6" : [
+			[ "rebasaría" ],
+			[ "rebasarías" ],
+			[ "rebasaría" ],
+			[ "rebasaríamos" ],
+			[ "rebasaríais", "rebasarían" ],
+			[ "rebasarían" ]
+		],
+		"7" : [
+			[ "rebasaré" ],
+			[ "rebasarás" ],
+			[ "rebasará" ],
+			[ "rebasaremos" ],
+			[ "rebasaréis", "rebasarán" ],
+			[ "rebasarán" ]
+		],
+		"8" : [
+			[ "rebase" ],
+			[ "rebases" ],
+			[ "rebase" ],
+			[ "rebasemos" ],
+			[ "rebaséis", "rebasen" ],
+			[ "rebasen" ]
+		],
+		"9" : [
+			[ "rebasara" ],
+			[ "rebasaras" ],
+			[ "rebasara" ],
+			[ "rebasáramos" ],
+			[ "rebasarais", "rebasaran" ],
+			[ "rebasaran" ]
+		],
+		"10" : [
+			[ "rebasase" ],
+			[ "rebasases" ],
+			[ "rebasase" ],
+			[ "rebasásemos" ],
+			[ "rebasaseis", "rebasasen" ],
+			[ "rebasasen" ]
+		],
+		"11" : [
+			[ "rebasare" ],
+			[ "rebasares" ],
+			[ "rebasare" ],
+			[ "rebasáremos" ],
+			[ "rebasareis", "rebasaren" ],
+			[ "rebasaren" ]
+		],
+		"12" : {
+			"1" : [ "rebasa" ],
+			"2" : [ "rebase" ],
+			"3" : [ "rebasemos" ],
+			"4" : [ "rebasad" ],
+			"5" : [ "rebasen" ]
+		}
+	}
+}

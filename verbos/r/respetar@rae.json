@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=respetar",
+	"word" : "respetar",
+	"infinitivo" : "respetar",
+	"participio" : [ "respetado" ],
+	"gerundio" : [ "respetando" ],
+	"tenses" : {
+		"3" : [
+			[ "respeto" ],
+			[ "respetas", "respetás" ],
+			[ "respeta" ],
+			[ "respetamos" ],
+			[ "respetáis", "respetan" ],
+			[ "respetan" ]
+		],
+		"4" : [
+			[ "respeté" ],
+			[ "respetaste" ],
+			[ "respetó" ],
+			[ "respetamos" ],
+			[ "respetasteis", "respetaron" ],
+			[ "respetaron" ]
+		],
+		"5" : [
+			[ "respetaba" ],
+			[ "respetabas" ],
+			[ "respetaba" ],
+			[ "respetábamos" ],
+			[ "respetabais", "respetaban" ],
+			[ "respetaban" ]
+		],
+		"6" : [
+			[ "respetaría" ],
+			[ "respetarías" ],
+			[ "respetaría" ],
+			[ "respetaríamos" ],
+			[ "respetaríais", "respetarían" ],
+			[ "respetarían" ]
+		],
+		"7" : [
+			[ "respetaré" ],
+			[ "respetarás" ],
+			[ "respetará" ],
+			[ "respetaremos" ],
+			[ "respetaréis", "respetarán" ],
+			[ "respetarán" ]
+		],
+		"8" : [
+			[ "respete" ],
+			[ "respetes" ],
+			[ "respete" ],
+			[ "respetemos" ],
+			[ "respetéis", "respeten" ],
+			[ "respeten" ]
+		],
+		"9" : [
+			[ "respetara" ],
+			[ "respetaras" ],
+			[ "respetara" ],
+			[ "respetáramos" ],
+			[ "respetarais", "respetaran" ],
+			[ "respetaran" ]
+		],
+		"10" : [
+			[ "respetase" ],
+			[ "respetases" ],
+			[ "respetase" ],
+			[ "respetásemos" ],
+			[ "respetaseis", "respetasen" ],
+			[ "respetasen" ]
+		],
+		"11" : [
+			[ "respetare" ],
+			[ "respetares" ],
+			[ "respetare" ],
+			[ "respetáremos" ],
+			[ "respetareis", "respetaren" ],
+			[ "respetaren" ]
+		],
+		"12" : {
+			"1" : [ "respeta" ],
+			"2" : [ "respete" ],
+			"3" : [ "respetemos" ],
+			"4" : [ "respetad" ],
+			"5" : [ "respeten" ]
+		}
+	}
+}

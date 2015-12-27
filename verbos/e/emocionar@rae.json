@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emocionar",
+	"word" : "emocionar",
+	"infinitivo" : "emocionar",
+	"participio" : [ "emocionado" ],
+	"gerundio" : [ "emocionando" ],
+	"tenses" : {
+		"3" : [
+			[ "emociono" ],
+			[ "emocionas", "emocionás" ],
+			[ "emociona" ],
+			[ "emocionamos" ],
+			[ "emocionáis", "emocionan" ],
+			[ "emocionan" ]
+		],
+		"4" : [
+			[ "emocioné" ],
+			[ "emocionaste" ],
+			[ "emocionó" ],
+			[ "emocionamos" ],
+			[ "emocionasteis", "emocionaron" ],
+			[ "emocionaron" ]
+		],
+		"5" : [
+			[ "emocionaba" ],
+			[ "emocionabas" ],
+			[ "emocionaba" ],
+			[ "emocionábamos" ],
+			[ "emocionabais", "emocionaban" ],
+			[ "emocionaban" ]
+		],
+		"6" : [
+			[ "emocionaría" ],
+			[ "emocionarías" ],
+			[ "emocionaría" ],
+			[ "emocionaríamos" ],
+			[ "emocionaríais", "emocionarían" ],
+			[ "emocionarían" ]
+		],
+		"7" : [
+			[ "emocionaré" ],
+			[ "emocionarás" ],
+			[ "emocionará" ],
+			[ "emocionaremos" ],
+			[ "emocionaréis", "emocionarán" ],
+			[ "emocionarán" ]
+		],
+		"8" : [
+			[ "emocione" ],
+			[ "emociones" ],
+			[ "emocione" ],
+			[ "emocionemos" ],
+			[ "emocionéis", "emocionen" ],
+			[ "emocionen" ]
+		],
+		"9" : [
+			[ "emocionara" ],
+			[ "emocionaras" ],
+			[ "emocionara" ],
+			[ "emocionáramos" ],
+			[ "emocionarais", "emocionaran" ],
+			[ "emocionaran" ]
+		],
+		"10" : [
+			[ "emocionase" ],
+			[ "emocionases" ],
+			[ "emocionase" ],
+			[ "emocionásemos" ],
+			[ "emocionaseis", "emocionasen" ],
+			[ "emocionasen" ]
+		],
+		"11" : [
+			[ "emocionare" ],
+			[ "emocionares" ],
+			[ "emocionare" ],
+			[ "emocionáremos" ],
+			[ "emocionareis", "emocionaren" ],
+			[ "emocionaren" ]
+		],
+		"12" : {
+			"1" : [ "emociona" ],
+			"2" : [ "emocione" ],
+			"3" : [ "emocionemos" ],
+			"4" : [ "emocionad" ],
+			"5" : [ "emocionen" ]
+		}
+	}
+}

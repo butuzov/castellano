@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=buscar",
+	"word" : "buscar",
+	"infinitivo" : "buscar",
+	"participio" : [ "buscado" ],
+	"gerundio" : [ "buscando" ],
+	"tenses" : {
+		"3" : [
+			[ "busco" ],
+			[ "buscas", "buscás" ],
+			[ "busca" ],
+			[ "buscamos" ],
+			[ "buscáis", "buscan" ],
+			[ "buscan" ]
+		],
+		"4" : [
+			[ "busqué" ],
+			[ "buscaste" ],
+			[ "buscó" ],
+			[ "buscamos" ],
+			[ "buscasteis", "buscaron" ],
+			[ "buscaron" ]
+		],
+		"5" : [
+			[ "buscaba" ],
+			[ "buscabas" ],
+			[ "buscaba" ],
+			[ "buscábamos" ],
+			[ "buscabais", "buscaban" ],
+			[ "buscaban" ]
+		],
+		"6" : [
+			[ "buscaría" ],
+			[ "buscarías" ],
+			[ "buscaría" ],
+			[ "buscaríamos" ],
+			[ "buscaríais", "buscarían" ],
+			[ "buscarían" ]
+		],
+		"7" : [
+			[ "buscaré" ],
+			[ "buscarás" ],
+			[ "buscará" ],
+			[ "buscaremos" ],
+			[ "buscaréis", "buscarán" ],
+			[ "buscarán" ]
+		],
+		"8" : [
+			[ "busque" ],
+			[ "busques" ],
+			[ "busque" ],
+			[ "busquemos" ],
+			[ "busquéis", "busquen" ],
+			[ "busquen" ]
+		],
+		"9" : [
+			[ "buscara" ],
+			[ "buscaras" ],
+			[ "buscara" ],
+			[ "buscáramos" ],
+			[ "buscarais", "buscaran" ],
+			[ "buscaran" ]
+		],
+		"10" : [
+			[ "buscase" ],
+			[ "buscases" ],
+			[ "buscase" ],
+			[ "buscásemos" ],
+			[ "buscaseis", "buscasen" ],
+			[ "buscasen" ]
+		],
+		"11" : [
+			[ "buscare" ],
+			[ "buscares" ],
+			[ "buscare" ],
+			[ "buscáremos" ],
+			[ "buscareis", "buscaren" ],
+			[ "buscaren" ]
+		],
+		"12" : {
+			"1" : [ "busca" ],
+			"2" : [ "busque" ],
+			"3" : [ "busquemos" ],
+			"4" : [ "buscad" ],
+			"5" : [ "busquen" ]
+		}
+	}
+}

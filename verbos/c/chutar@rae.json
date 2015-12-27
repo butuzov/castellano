@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chutar",
+	"word" : "chutar",
+	"infinitivo" : "chutar",
+	"participio" : [ "chutado" ],
+	"gerundio" : [ "chutando" ],
+	"tenses" : {
+		"3" : [
+			[ "chuto" ],
+			[ "chutas", "chutás" ],
+			[ "chuta" ],
+			[ "chutamos" ],
+			[ "chutáis", "chutan" ],
+			[ "chutan" ]
+		],
+		"4" : [
+			[ "chuté" ],
+			[ "chutaste" ],
+			[ "chutó" ],
+			[ "chutamos" ],
+			[ "chutasteis", "chutaron" ],
+			[ "chutaron" ]
+		],
+		"5" : [
+			[ "chutaba" ],
+			[ "chutabas" ],
+			[ "chutaba" ],
+			[ "chutábamos" ],
+			[ "chutabais", "chutaban" ],
+			[ "chutaban" ]
+		],
+		"6" : [
+			[ "chutaría" ],
+			[ "chutarías" ],
+			[ "chutaría" ],
+			[ "chutaríamos" ],
+			[ "chutaríais", "chutarían" ],
+			[ "chutarían" ]
+		],
+		"7" : [
+			[ "chutaré" ],
+			[ "chutarás" ],
+			[ "chutará" ],
+			[ "chutaremos" ],
+			[ "chutaréis", "chutarán" ],
+			[ "chutarán" ]
+		],
+		"8" : [
+			[ "chute" ],
+			[ "chutes" ],
+			[ "chute" ],
+			[ "chutemos" ],
+			[ "chutéis", "chuten" ],
+			[ "chuten" ]
+		],
+		"9" : [
+			[ "chutara" ],
+			[ "chutaras" ],
+			[ "chutara" ],
+			[ "chutáramos" ],
+			[ "chutarais", "chutaran" ],
+			[ "chutaran" ]
+		],
+		"10" : [
+			[ "chutase" ],
+			[ "chutases" ],
+			[ "chutase" ],
+			[ "chutásemos" ],
+			[ "chutaseis", "chutasen" ],
+			[ "chutasen" ]
+		],
+		"11" : [
+			[ "chutare" ],
+			[ "chutares" ],
+			[ "chutare" ],
+			[ "chutáremos" ],
+			[ "chutareis", "chutaren" ],
+			[ "chutaren" ]
+		],
+		"12" : {
+			"1" : [ "chuta" ],
+			"2" : [ "chute" ],
+			"3" : [ "chutemos" ],
+			"4" : [ "chutad" ],
+			"5" : [ "chuten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estabilizar",
+	"word" : "estabilizar",
+	"infinitivo" : "estabilizar",
+	"participio" : [ "estabilizado" ],
+	"gerundio" : [ "estabilizando" ],
+	"tenses" : {
+		"3" : [
+			[ "estabilizo" ],
+			[ "estabilizas", "estabilizás" ],
+			[ "estabiliza" ],
+			[ "estabilizamos" ],
+			[ "estabilizáis", "estabilizan" ],
+			[ "estabilizan" ]
+		],
+		"4" : [
+			[ "estabilicé" ],
+			[ "estabilizaste" ],
+			[ "estabilizó" ],
+			[ "estabilizamos" ],
+			[ "estabilizasteis", "estabilizaron" ],
+			[ "estabilizaron" ]
+		],
+		"5" : [
+			[ "estabilizaba" ],
+			[ "estabilizabas" ],
+			[ "estabilizaba" ],
+			[ "estabilizábamos" ],
+			[ "estabilizabais", "estabilizaban" ],
+			[ "estabilizaban" ]
+		],
+		"6" : [
+			[ "estabilizaría" ],
+			[ "estabilizarías" ],
+			[ "estabilizaría" ],
+			[ "estabilizaríamos" ],
+			[ "estabilizaríais", "estabilizarían" ],
+			[ "estabilizarían" ]
+		],
+		"7" : [
+			[ "estabilizaré" ],
+			[ "estabilizarás" ],
+			[ "estabilizará" ],
+			[ "estabilizaremos" ],
+			[ "estabilizaréis", "estabilizarán" ],
+			[ "estabilizarán" ]
+		],
+		"8" : [
+			[ "estabilice" ],
+			[ "estabilices" ],
+			[ "estabilice" ],
+			[ "estabilicemos" ],
+			[ "estabilicéis", "estabilicen" ],
+			[ "estabilicen" ]
+		],
+		"9" : [
+			[ "estabilizara" ],
+			[ "estabilizaras" ],
+			[ "estabilizara" ],
+			[ "estabilizáramos" ],
+			[ "estabilizarais", "estabilizaran" ],
+			[ "estabilizaran" ]
+		],
+		"10" : [
+			[ "estabilizase" ],
+			[ "estabilizases" ],
+			[ "estabilizase" ],
+			[ "estabilizásemos" ],
+			[ "estabilizaseis", "estabilizasen" ],
+			[ "estabilizasen" ]
+		],
+		"11" : [
+			[ "estabilizare" ],
+			[ "estabilizares" ],
+			[ "estabilizare" ],
+			[ "estabilizáremos" ],
+			[ "estabilizareis", "estabilizaren" ],
+			[ "estabilizaren" ]
+		],
+		"12" : {
+			"1" : [ "estabiliza" ],
+			"2" : [ "estabilice" ],
+			"3" : [ "estabilicemos" ],
+			"4" : [ "estabilizad" ],
+			"5" : [ "estabilicen" ]
+		}
+	}
+}

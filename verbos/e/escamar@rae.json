@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escamar",
+	"word" : "escamar",
+	"infinitivo" : "escamar",
+	"participio" : [ "escamado" ],
+	"gerundio" : [ "escamando" ],
+	"tenses" : {
+		"3" : [
+			[ "escamo" ],
+			[ "escamas", "escamás" ],
+			[ "escama" ],
+			[ "escamamos" ],
+			[ "escamáis", "escaman" ],
+			[ "escaman" ]
+		],
+		"4" : [
+			[ "escamé" ],
+			[ "escamaste" ],
+			[ "escamó" ],
+			[ "escamamos" ],
+			[ "escamasteis", "escamaron" ],
+			[ "escamaron" ]
+		],
+		"5" : [
+			[ "escamaba" ],
+			[ "escamabas" ],
+			[ "escamaba" ],
+			[ "escamábamos" ],
+			[ "escamabais", "escamaban" ],
+			[ "escamaban" ]
+		],
+		"6" : [
+			[ "escamaría" ],
+			[ "escamarías" ],
+			[ "escamaría" ],
+			[ "escamaríamos" ],
+			[ "escamaríais", "escamarían" ],
+			[ "escamarían" ]
+		],
+		"7" : [
+			[ "escamaré" ],
+			[ "escamarás" ],
+			[ "escamará" ],
+			[ "escamaremos" ],
+			[ "escamaréis", "escamarán" ],
+			[ "escamarán" ]
+		],
+		"8" : [
+			[ "escame" ],
+			[ "escames" ],
+			[ "escame" ],
+			[ "escamemos" ],
+			[ "escaméis", "escamen" ],
+			[ "escamen" ]
+		],
+		"9" : [
+			[ "escamara" ],
+			[ "escamaras" ],
+			[ "escamara" ],
+			[ "escamáramos" ],
+			[ "escamarais", "escamaran" ],
+			[ "escamaran" ]
+		],
+		"10" : [
+			[ "escamase" ],
+			[ "escamases" ],
+			[ "escamase" ],
+			[ "escamásemos" ],
+			[ "escamaseis", "escamasen" ],
+			[ "escamasen" ]
+		],
+		"11" : [
+			[ "escamare" ],
+			[ "escamares" ],
+			[ "escamare" ],
+			[ "escamáremos" ],
+			[ "escamareis", "escamaren" ],
+			[ "escamaren" ]
+		],
+		"12" : {
+			"1" : [ "escama" ],
+			"2" : [ "escame" ],
+			"3" : [ "escamemos" ],
+			"4" : [ "escamad" ],
+			"5" : [ "escamen" ]
+		}
+	}
+}

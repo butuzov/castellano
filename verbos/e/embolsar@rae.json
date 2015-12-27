@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embolsar",
+	"word" : "embolsar",
+	"infinitivo" : "embolsar",
+	"participio" : [ "embolsado" ],
+	"gerundio" : [ "embolsando" ],
+	"tenses" : {
+		"3" : [
+			[ "embolso" ],
+			[ "embolsas", "embolsás" ],
+			[ "embolsa" ],
+			[ "embolsamos" ],
+			[ "embolsáis", "embolsan" ],
+			[ "embolsan" ]
+		],
+		"4" : [
+			[ "embolsé" ],
+			[ "embolsaste" ],
+			[ "embolsó" ],
+			[ "embolsamos" ],
+			[ "embolsasteis", "embolsaron" ],
+			[ "embolsaron" ]
+		],
+		"5" : [
+			[ "embolsaba" ],
+			[ "embolsabas" ],
+			[ "embolsaba" ],
+			[ "embolsábamos" ],
+			[ "embolsabais", "embolsaban" ],
+			[ "embolsaban" ]
+		],
+		"6" : [
+			[ "embolsaría" ],
+			[ "embolsarías" ],
+			[ "embolsaría" ],
+			[ "embolsaríamos" ],
+			[ "embolsaríais", "embolsarían" ],
+			[ "embolsarían" ]
+		],
+		"7" : [
+			[ "embolsaré" ],
+			[ "embolsarás" ],
+			[ "embolsará" ],
+			[ "embolsaremos" ],
+			[ "embolsaréis", "embolsarán" ],
+			[ "embolsarán" ]
+		],
+		"8" : [
+			[ "embolse" ],
+			[ "embolses" ],
+			[ "embolse" ],
+			[ "embolsemos" ],
+			[ "embolséis", "embolsen" ],
+			[ "embolsen" ]
+		],
+		"9" : [
+			[ "embolsara" ],
+			[ "embolsaras" ],
+			[ "embolsara" ],
+			[ "embolsáramos" ],
+			[ "embolsarais", "embolsaran" ],
+			[ "embolsaran" ]
+		],
+		"10" : [
+			[ "embolsase" ],
+			[ "embolsases" ],
+			[ "embolsase" ],
+			[ "embolsásemos" ],
+			[ "embolsaseis", "embolsasen" ],
+			[ "embolsasen" ]
+		],
+		"11" : [
+			[ "embolsare" ],
+			[ "embolsares" ],
+			[ "embolsare" ],
+			[ "embolsáremos" ],
+			[ "embolsareis", "embolsaren" ],
+			[ "embolsaren" ]
+		],
+		"12" : {
+			"1" : [ "embolsa" ],
+			"2" : [ "embolse" ],
+			"3" : [ "embolsemos" ],
+			"4" : [ "embolsad" ],
+			"5" : [ "embolsen" ]
+		}
+	}
+}

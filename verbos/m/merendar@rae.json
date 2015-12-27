@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=merendar",
+	"word" : "merendar",
+	"infinitivo" : "merendar",
+	"participio" : [ "merendado" ],
+	"gerundio" : [ "merendando" ],
+	"tenses" : {
+		"3" : [
+			[ "meriendo" ],
+			[ "meriendas", "merendás" ],
+			[ "merienda" ],
+			[ "merendamos" ],
+			[ "merendáis", "meriendan" ],
+			[ "meriendan" ]
+		],
+		"4" : [
+			[ "merendé" ],
+			[ "merendaste" ],
+			[ "merendó" ],
+			[ "merendamos" ],
+			[ "merendasteis", "merendaron" ],
+			[ "merendaron" ]
+		],
+		"5" : [
+			[ "merendaba" ],
+			[ "merendabas" ],
+			[ "merendaba" ],
+			[ "merendábamos" ],
+			[ "merendabais", "merendaban" ],
+			[ "merendaban" ]
+		],
+		"6" : [
+			[ "merendaría" ],
+			[ "merendarías" ],
+			[ "merendaría" ],
+			[ "merendaríamos" ],
+			[ "merendaríais", "merendarían" ],
+			[ "merendarían" ]
+		],
+		"7" : [
+			[ "merendaré" ],
+			[ "merendarás" ],
+			[ "merendará" ],
+			[ "merendaremos" ],
+			[ "merendaréis", "merendarán" ],
+			[ "merendarán" ]
+		],
+		"8" : [
+			[ "meriende" ],
+			[ "meriendes" ],
+			[ "meriende" ],
+			[ "merendemos" ],
+			[ "merendéis", "merienden" ],
+			[ "merienden" ]
+		],
+		"9" : [
+			[ "merendara" ],
+			[ "merendaras" ],
+			[ "merendara" ],
+			[ "merendáramos" ],
+			[ "merendarais", "merendaran" ],
+			[ "merendaran" ]
+		],
+		"10" : [
+			[ "merendase" ],
+			[ "merendases" ],
+			[ "merendase" ],
+			[ "merendásemos" ],
+			[ "merendaseis", "merendasen" ],
+			[ "merendasen" ]
+		],
+		"11" : [
+			[ "merendare" ],
+			[ "merendares" ],
+			[ "merendare" ],
+			[ "merendáremos" ],
+			[ "merendareis", "merendaren" ],
+			[ "merendaren" ]
+		],
+		"12" : {
+			"1" : [ "merienda" ],
+			"2" : [ "meriende" ],
+			"3" : [ "merendemos" ],
+			"4" : [ "merendad" ],
+			"5" : [ "merienden" ]
+		}
+	}
+}

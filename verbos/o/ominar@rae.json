@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ominar",
+	"word" : "ominar",
+	"infinitivo" : "ominar",
+	"participio" : [ "ominado" ],
+	"gerundio" : [ "ominando" ],
+	"tenses" : {
+		"3" : [
+			[ "omino" ],
+			[ "ominas", "ominás" ],
+			[ "omina" ],
+			[ "ominamos" ],
+			[ "omináis", "ominan" ],
+			[ "ominan" ]
+		],
+		"4" : [
+			[ "ominé" ],
+			[ "ominaste" ],
+			[ "ominó" ],
+			[ "ominamos" ],
+			[ "ominasteis", "ominaron" ],
+			[ "ominaron" ]
+		],
+		"5" : [
+			[ "ominaba" ],
+			[ "ominabas" ],
+			[ "ominaba" ],
+			[ "ominábamos" ],
+			[ "ominabais", "ominaban" ],
+			[ "ominaban" ]
+		],
+		"6" : [
+			[ "ominaría" ],
+			[ "ominarías" ],
+			[ "ominaría" ],
+			[ "ominaríamos" ],
+			[ "ominaríais", "ominarían" ],
+			[ "ominarían" ]
+		],
+		"7" : [
+			[ "ominaré" ],
+			[ "ominarás" ],
+			[ "ominará" ],
+			[ "ominaremos" ],
+			[ "ominaréis", "ominarán" ],
+			[ "ominarán" ]
+		],
+		"8" : [
+			[ "omine" ],
+			[ "omines" ],
+			[ "omine" ],
+			[ "ominemos" ],
+			[ "ominéis", "ominen" ],
+			[ "ominen" ]
+		],
+		"9" : [
+			[ "ominara" ],
+			[ "ominaras" ],
+			[ "ominara" ],
+			[ "omináramos" ],
+			[ "ominarais", "ominaran" ],
+			[ "ominaran" ]
+		],
+		"10" : [
+			[ "ominase" ],
+			[ "ominases" ],
+			[ "ominase" ],
+			[ "ominásemos" ],
+			[ "ominaseis", "ominasen" ],
+			[ "ominasen" ]
+		],
+		"11" : [
+			[ "ominare" ],
+			[ "ominares" ],
+			[ "ominare" ],
+			[ "omináremos" ],
+			[ "ominareis", "ominaren" ],
+			[ "ominaren" ]
+		],
+		"12" : {
+			"1" : [ "omina" ],
+			"2" : [ "omine" ],
+			"3" : [ "ominemos" ],
+			"4" : [ "ominad" ],
+			"5" : [ "ominen" ]
+		}
+	}
+}

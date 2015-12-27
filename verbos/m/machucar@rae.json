@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=machucar",
+	"word" : "machucar",
+	"infinitivo" : "machucar",
+	"participio" : [ "machucado" ],
+	"gerundio" : [ "machucando" ],
+	"tenses" : {
+		"3" : [
+			[ "machuco" ],
+			[ "machucas", "machucás" ],
+			[ "machuca" ],
+			[ "machucamos" ],
+			[ "machucáis", "machucan" ],
+			[ "machucan" ]
+		],
+		"4" : [
+			[ "machuqué" ],
+			[ "machucaste" ],
+			[ "machucó" ],
+			[ "machucamos" ],
+			[ "machucasteis", "machucaron" ],
+			[ "machucaron" ]
+		],
+		"5" : [
+			[ "machucaba" ],
+			[ "machucabas" ],
+			[ "machucaba" ],
+			[ "machucábamos" ],
+			[ "machucabais", "machucaban" ],
+			[ "machucaban" ]
+		],
+		"6" : [
+			[ "machucaría" ],
+			[ "machucarías" ],
+			[ "machucaría" ],
+			[ "machucaríamos" ],
+			[ "machucaríais", "machucarían" ],
+			[ "machucarían" ]
+		],
+		"7" : [
+			[ "machucaré" ],
+			[ "machucarás" ],
+			[ "machucará" ],
+			[ "machucaremos" ],
+			[ "machucaréis", "machucarán" ],
+			[ "machucarán" ]
+		],
+		"8" : [
+			[ "machuque" ],
+			[ "machuques" ],
+			[ "machuque" ],
+			[ "machuquemos" ],
+			[ "machuquéis", "machuquen" ],
+			[ "machuquen" ]
+		],
+		"9" : [
+			[ "machucara" ],
+			[ "machucaras" ],
+			[ "machucara" ],
+			[ "machucáramos" ],
+			[ "machucarais", "machucaran" ],
+			[ "machucaran" ]
+		],
+		"10" : [
+			[ "machucase" ],
+			[ "machucases" ],
+			[ "machucase" ],
+			[ "machucásemos" ],
+			[ "machucaseis", "machucasen" ],
+			[ "machucasen" ]
+		],
+		"11" : [
+			[ "machucare" ],
+			[ "machucares" ],
+			[ "machucare" ],
+			[ "machucáremos" ],
+			[ "machucareis", "machucaren" ],
+			[ "machucaren" ]
+		],
+		"12" : {
+			"1" : [ "machuca" ],
+			"2" : [ "machuque" ],
+			"3" : [ "machuquemos" ],
+			"4" : [ "machucad" ],
+			"5" : [ "machuquen" ]
+		}
+	}
+}

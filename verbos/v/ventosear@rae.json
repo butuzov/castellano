@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ventosear",
+	"word" : "ventosear",
+	"infinitivo" : "ventosear",
+	"participio" : [ "ventoseado" ],
+	"gerundio" : [ "ventoseando" ],
+	"tenses" : {
+		"3" : [
+			[ "ventoseo" ],
+			[ "ventoseas", "ventoseás" ],
+			[ "ventosea" ],
+			[ "ventoseamos" ],
+			[ "ventoseáis", "ventosean" ],
+			[ "ventosean" ]
+		],
+		"4" : [
+			[ "ventoseé" ],
+			[ "ventoseaste" ],
+			[ "ventoseó" ],
+			[ "ventoseamos" ],
+			[ "ventoseasteis", "ventosearon" ],
+			[ "ventosearon" ]
+		],
+		"5" : [
+			[ "ventoseaba" ],
+			[ "ventoseabas" ],
+			[ "ventoseaba" ],
+			[ "ventoseábamos" ],
+			[ "ventoseabais", "ventoseaban" ],
+			[ "ventoseaban" ]
+		],
+		"6" : [
+			[ "ventosearía" ],
+			[ "ventosearías" ],
+			[ "ventosearía" ],
+			[ "ventosearíamos" ],
+			[ "ventosearíais", "ventosearían" ],
+			[ "ventosearían" ]
+		],
+		"7" : [
+			[ "ventosearé" ],
+			[ "ventosearás" ],
+			[ "ventoseará" ],
+			[ "ventosearemos" ],
+			[ "ventosearéis", "ventosearán" ],
+			[ "ventosearán" ]
+		],
+		"8" : [
+			[ "ventosee" ],
+			[ "ventosees" ],
+			[ "ventosee" ],
+			[ "ventoseemos" ],
+			[ "ventoseéis", "ventoseen" ],
+			[ "ventoseen" ]
+		],
+		"9" : [
+			[ "ventoseara" ],
+			[ "ventosearas" ],
+			[ "ventoseara" ],
+			[ "ventoseáramos" ],
+			[ "ventosearais", "ventosearan" ],
+			[ "ventosearan" ]
+		],
+		"10" : [
+			[ "ventosease" ],
+			[ "ventoseases" ],
+			[ "ventosease" ],
+			[ "ventoseásemos" ],
+			[ "ventoseaseis", "ventoseasen" ],
+			[ "ventoseasen" ]
+		],
+		"11" : [
+			[ "ventoseare" ],
+			[ "ventoseares" ],
+			[ "ventoseare" ],
+			[ "ventoseáremos" ],
+			[ "ventoseareis", "ventosearen" ],
+			[ "ventosearen" ]
+		],
+		"12" : {
+			"1" : [ "ventosea" ],
+			"2" : [ "ventosee" ],
+			"3" : [ "ventoseemos" ],
+			"4" : [ "ventosead" ],
+			"5" : [ "ventoseen" ]
+		}
+	}
+}

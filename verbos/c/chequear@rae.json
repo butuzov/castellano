@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chequear",
+	"word" : "chequear",
+	"infinitivo" : "chequear",
+	"participio" : [ "chequeado" ],
+	"gerundio" : [ "chequeando" ],
+	"tenses" : {
+		"3" : [
+			[ "chequeo" ],
+			[ "chequeas", "chequeás" ],
+			[ "chequea" ],
+			[ "chequeamos" ],
+			[ "chequeáis", "chequean" ],
+			[ "chequean" ]
+		],
+		"4" : [
+			[ "chequeé" ],
+			[ "chequeaste" ],
+			[ "chequeó" ],
+			[ "chequeamos" ],
+			[ "chequeasteis", "chequearon" ],
+			[ "chequearon" ]
+		],
+		"5" : [
+			[ "chequeaba" ],
+			[ "chequeabas" ],
+			[ "chequeaba" ],
+			[ "chequeábamos" ],
+			[ "chequeabais", "chequeaban" ],
+			[ "chequeaban" ]
+		],
+		"6" : [
+			[ "chequearía" ],
+			[ "chequearías" ],
+			[ "chequearía" ],
+			[ "chequearíamos" ],
+			[ "chequearíais", "chequearían" ],
+			[ "chequearían" ]
+		],
+		"7" : [
+			[ "chequearé" ],
+			[ "chequearás" ],
+			[ "chequeará" ],
+			[ "chequearemos" ],
+			[ "chequearéis", "chequearán" ],
+			[ "chequearán" ]
+		],
+		"8" : [
+			[ "chequee" ],
+			[ "chequees" ],
+			[ "chequee" ],
+			[ "chequeemos" ],
+			[ "chequeéis", "chequeen" ],
+			[ "chequeen" ]
+		],
+		"9" : [
+			[ "chequeara" ],
+			[ "chequearas" ],
+			[ "chequeara" ],
+			[ "chequeáramos" ],
+			[ "chequearais", "chequearan" ],
+			[ "chequearan" ]
+		],
+		"10" : [
+			[ "chequease" ],
+			[ "chequeases" ],
+			[ "chequease" ],
+			[ "chequeásemos" ],
+			[ "chequeaseis", "chequeasen" ],
+			[ "chequeasen" ]
+		],
+		"11" : [
+			[ "chequeare" ],
+			[ "chequeares" ],
+			[ "chequeare" ],
+			[ "chequeáremos" ],
+			[ "chequeareis", "chequearen" ],
+			[ "chequearen" ]
+		],
+		"12" : {
+			"1" : [ "chequea" ],
+			"2" : [ "chequee" ],
+			"3" : [ "chequeemos" ],
+			"4" : [ "chequead" ],
+			"5" : [ "chequeen" ]
+		}
+	}
+}

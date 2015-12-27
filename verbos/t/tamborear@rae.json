@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tamborear",
+	"word" : "tamborear",
+	"infinitivo" : "tamborear",
+	"participio" : [ "tamboreado" ],
+	"gerundio" : [ "tamboreando" ],
+	"tenses" : {
+		"3" : [
+			[ "tamboreo" ],
+			[ "tamboreas", "tamboreás" ],
+			[ "tamborea" ],
+			[ "tamboreamos" ],
+			[ "tamboreáis", "tamborean" ],
+			[ "tamborean" ]
+		],
+		"4" : [
+			[ "tamboreé" ],
+			[ "tamboreaste" ],
+			[ "tamboreó" ],
+			[ "tamboreamos" ],
+			[ "tamboreasteis", "tamborearon" ],
+			[ "tamborearon" ]
+		],
+		"5" : [
+			[ "tamboreaba" ],
+			[ "tamboreabas" ],
+			[ "tamboreaba" ],
+			[ "tamboreábamos" ],
+			[ "tamboreabais", "tamboreaban" ],
+			[ "tamboreaban" ]
+		],
+		"6" : [
+			[ "tamborearía" ],
+			[ "tamborearías" ],
+			[ "tamborearía" ],
+			[ "tamborearíamos" ],
+			[ "tamborearíais", "tamborearían" ],
+			[ "tamborearían" ]
+		],
+		"7" : [
+			[ "tamborearé" ],
+			[ "tamborearás" ],
+			[ "tamboreará" ],
+			[ "tamborearemos" ],
+			[ "tamborearéis", "tamborearán" ],
+			[ "tamborearán" ]
+		],
+		"8" : [
+			[ "tamboree" ],
+			[ "tamborees" ],
+			[ "tamboree" ],
+			[ "tamboreemos" ],
+			[ "tamboreéis", "tamboreen" ],
+			[ "tamboreen" ]
+		],
+		"9" : [
+			[ "tamboreara" ],
+			[ "tamborearas" ],
+			[ "tamboreara" ],
+			[ "tamboreáramos" ],
+			[ "tamborearais", "tamborearan" ],
+			[ "tamborearan" ]
+		],
+		"10" : [
+			[ "tamborease" ],
+			[ "tamboreases" ],
+			[ "tamborease" ],
+			[ "tamboreásemos" ],
+			[ "tamboreaseis", "tamboreasen" ],
+			[ "tamboreasen" ]
+		],
+		"11" : [
+			[ "tamboreare" ],
+			[ "tamboreares" ],
+			[ "tamboreare" ],
+			[ "tamboreáremos" ],
+			[ "tamboreareis", "tamborearen" ],
+			[ "tamborearen" ]
+		],
+		"12" : {
+			"1" : [ "tamborea" ],
+			"2" : [ "tamboree" ],
+			"3" : [ "tamboreemos" ],
+			"4" : [ "tamboread" ],
+			"5" : [ "tamboreen" ]
+		}
+	}
+}

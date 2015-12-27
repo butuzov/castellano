@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=subvertir",
+	"word" : "subvertir",
+	"infinitivo" : "subvertir",
+	"participio" : [ "subvertido" ],
+	"gerundio" : [ "subvirtiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "subvierto" ],
+			[ "subviertes", "subvertís" ],
+			[ "subvierte" ],
+			[ "subvertimos" ],
+			[ "subvertís", "subvierten" ],
+			[ "subvierten" ]
+		],
+		"4" : [
+			[ "subvertí" ],
+			[ "subvertiste" ],
+			[ "subvirtió" ],
+			[ "subvertimos" ],
+			[ "subvertisteis", "subvirtieron" ],
+			[ "subvirtieron" ]
+		],
+		"5" : [
+			[ "subvertía" ],
+			[ "subvertías" ],
+			[ "subvertía" ],
+			[ "subvertíamos" ],
+			[ "subvertíais", "subvertían" ],
+			[ "subvertían" ]
+		],
+		"6" : [
+			[ "subvertiría" ],
+			[ "subvertirías" ],
+			[ "subvertiría" ],
+			[ "subvertiríamos" ],
+			[ "subvertiríais", "subvertirían" ],
+			[ "subvertirían" ]
+		],
+		"7" : [
+			[ "subvertiré" ],
+			[ "subvertirás" ],
+			[ "subvertirá" ],
+			[ "subvertiremos" ],
+			[ "subvertiréis", "subvertirán" ],
+			[ "subvertirán" ]
+		],
+		"8" : [
+			[ "subvierta" ],
+			[ "subviertas" ],
+			[ "subvierta" ],
+			[ "subvirtamos" ],
+			[ "subvirtáis", "subviertan" ],
+			[ "subviertan" ]
+		],
+		"9" : [
+			[ "subvirtiera" ],
+			[ "subvirtieras" ],
+			[ "subvirtiera" ],
+			[ "subvirtiéramos" ],
+			[ "subvirtierais", "subvirtieran" ],
+			[ "subvirtieran" ]
+		],
+		"10" : [
+			[ "subvirtiese" ],
+			[ "subvirtieses" ],
+			[ "subvirtiese" ],
+			[ "subvirtiésemos" ],
+			[ "subvirtieseis", "subvirtiesen" ],
+			[ "subvirtiesen" ]
+		],
+		"11" : [
+			[ "subvirtiere" ],
+			[ "subvirtieres" ],
+			[ "subvirtiere" ],
+			[ "subvirtiéremos" ],
+			[ "subvirtiereis", "subvirtieren" ],
+			[ "subvirtieren" ]
+		],
+		"12" : {
+			"1" : [ "subvierte" ],
+			"2" : [ "subvierta" ],
+			"3" : [ "subvirtamos" ],
+			"4" : [ "subvertid" ],
+			"5" : [ "subviertan" ]
+		}
+	}
+}

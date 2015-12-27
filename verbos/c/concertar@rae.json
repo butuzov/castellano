@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=concertar",
+	"word" : "concertar",
+	"infinitivo" : "concertar",
+	"participio" : [ "concertado" ],
+	"gerundio" : [ "concertando" ],
+	"tenses" : {
+		"3" : [
+			[ "concierto" ],
+			[ "conciertas", "concertás" ],
+			[ "concierta" ],
+			[ "concertamos" ],
+			[ "concertáis", "conciertan" ],
+			[ "conciertan" ]
+		],
+		"4" : [
+			[ "concerté" ],
+			[ "concertaste" ],
+			[ "concertó" ],
+			[ "concertamos" ],
+			[ "concertasteis", "concertaron" ],
+			[ "concertaron" ]
+		],
+		"5" : [
+			[ "concertaba" ],
+			[ "concertabas" ],
+			[ "concertaba" ],
+			[ "concertábamos" ],
+			[ "concertabais", "concertaban" ],
+			[ "concertaban" ]
+		],
+		"6" : [
+			[ "concertaría" ],
+			[ "concertarías" ],
+			[ "concertaría" ],
+			[ "concertaríamos" ],
+			[ "concertaríais", "concertarían" ],
+			[ "concertarían" ]
+		],
+		"7" : [
+			[ "concertaré" ],
+			[ "concertarás" ],
+			[ "concertará" ],
+			[ "concertaremos" ],
+			[ "concertaréis", "concertarán" ],
+			[ "concertarán" ]
+		],
+		"8" : [
+			[ "concierte" ],
+			[ "conciertes" ],
+			[ "concierte" ],
+			[ "concertemos" ],
+			[ "concertéis", "concierten" ],
+			[ "concierten" ]
+		],
+		"9" : [
+			[ "concertara" ],
+			[ "concertaras" ],
+			[ "concertara" ],
+			[ "concertáramos" ],
+			[ "concertarais", "concertaran" ],
+			[ "concertaran" ]
+		],
+		"10" : [
+			[ "concertase" ],
+			[ "concertases" ],
+			[ "concertase" ],
+			[ "concertásemos" ],
+			[ "concertaseis", "concertasen" ],
+			[ "concertasen" ]
+		],
+		"11" : [
+			[ "concertare" ],
+			[ "concertares" ],
+			[ "concertare" ],
+			[ "concertáremos" ],
+			[ "concertareis", "concertaren" ],
+			[ "concertaren" ]
+		],
+		"12" : {
+			"1" : [ "concierta" ],
+			"2" : [ "concierte" ],
+			"3" : [ "concertemos" ],
+			"4" : [ "concertad" ],
+			"5" : [ "concierten" ]
+		}
+	}
+}

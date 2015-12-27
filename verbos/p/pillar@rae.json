@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pillar",
+	"word" : "pillar",
+	"infinitivo" : "pillar",
+	"participio" : [ "pillado" ],
+	"gerundio" : [ "pillando" ],
+	"tenses" : {
+		"3" : [
+			[ "pillo" ],
+			[ "pillas", "pillás" ],
+			[ "pilla" ],
+			[ "pillamos" ],
+			[ "pilláis", "pillan" ],
+			[ "pillan" ]
+		],
+		"4" : [
+			[ "pillé" ],
+			[ "pillaste" ],
+			[ "pilló" ],
+			[ "pillamos" ],
+			[ "pillasteis", "pillaron" ],
+			[ "pillaron" ]
+		],
+		"5" : [
+			[ "pillaba" ],
+			[ "pillabas" ],
+			[ "pillaba" ],
+			[ "pillábamos" ],
+			[ "pillabais", "pillaban" ],
+			[ "pillaban" ]
+		],
+		"6" : [
+			[ "pillaría" ],
+			[ "pillarías" ],
+			[ "pillaría" ],
+			[ "pillaríamos" ],
+			[ "pillaríais", "pillarían" ],
+			[ "pillarían" ]
+		],
+		"7" : [
+			[ "pillaré" ],
+			[ "pillarás" ],
+			[ "pillará" ],
+			[ "pillaremos" ],
+			[ "pillaréis", "pillarán" ],
+			[ "pillarán" ]
+		],
+		"8" : [
+			[ "pille" ],
+			[ "pilles" ],
+			[ "pille" ],
+			[ "pillemos" ],
+			[ "pilléis", "pillen" ],
+			[ "pillen" ]
+		],
+		"9" : [
+			[ "pillara" ],
+			[ "pillaras" ],
+			[ "pillara" ],
+			[ "pilláramos" ],
+			[ "pillarais", "pillaran" ],
+			[ "pillaran" ]
+		],
+		"10" : [
+			[ "pillase" ],
+			[ "pillases" ],
+			[ "pillase" ],
+			[ "pillásemos" ],
+			[ "pillaseis", "pillasen" ],
+			[ "pillasen" ]
+		],
+		"11" : [
+			[ "pillare" ],
+			[ "pillares" ],
+			[ "pillare" ],
+			[ "pilláremos" ],
+			[ "pillareis", "pillaren" ],
+			[ "pillaren" ]
+		],
+		"12" : {
+			"1" : [ "pilla" ],
+			"2" : [ "pille" ],
+			"3" : [ "pillemos" ],
+			"4" : [ "pillad" ],
+			"5" : [ "pillen" ]
+		}
+	}
+}

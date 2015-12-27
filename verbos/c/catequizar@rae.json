@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=catequizar",
+	"word" : "catequizar",
+	"infinitivo" : "catequizar",
+	"participio" : [ "catequizado" ],
+	"gerundio" : [ "catequizando" ],
+	"tenses" : {
+		"3" : [
+			[ "catequizo" ],
+			[ "catequizas", "catequizás" ],
+			[ "catequiza" ],
+			[ "catequizamos" ],
+			[ "catequizáis", "catequizan" ],
+			[ "catequizan" ]
+		],
+		"4" : [
+			[ "catequicé" ],
+			[ "catequizaste" ],
+			[ "catequizó" ],
+			[ "catequizamos" ],
+			[ "catequizasteis", "catequizaron" ],
+			[ "catequizaron" ]
+		],
+		"5" : [
+			[ "catequizaba" ],
+			[ "catequizabas" ],
+			[ "catequizaba" ],
+			[ "catequizábamos" ],
+			[ "catequizabais", "catequizaban" ],
+			[ "catequizaban" ]
+		],
+		"6" : [
+			[ "catequizaría" ],
+			[ "catequizarías" ],
+			[ "catequizaría" ],
+			[ "catequizaríamos" ],
+			[ "catequizaríais", "catequizarían" ],
+			[ "catequizarían" ]
+		],
+		"7" : [
+			[ "catequizaré" ],
+			[ "catequizarás" ],
+			[ "catequizará" ],
+			[ "catequizaremos" ],
+			[ "catequizaréis", "catequizarán" ],
+			[ "catequizarán" ]
+		],
+		"8" : [
+			[ "catequice" ],
+			[ "catequices" ],
+			[ "catequice" ],
+			[ "catequicemos" ],
+			[ "catequicéis", "catequicen" ],
+			[ "catequicen" ]
+		],
+		"9" : [
+			[ "catequizara" ],
+			[ "catequizaras" ],
+			[ "catequizara" ],
+			[ "catequizáramos" ],
+			[ "catequizarais", "catequizaran" ],
+			[ "catequizaran" ]
+		],
+		"10" : [
+			[ "catequizase" ],
+			[ "catequizases" ],
+			[ "catequizase" ],
+			[ "catequizásemos" ],
+			[ "catequizaseis", "catequizasen" ],
+			[ "catequizasen" ]
+		],
+		"11" : [
+			[ "catequizare" ],
+			[ "catequizares" ],
+			[ "catequizare" ],
+			[ "catequizáremos" ],
+			[ "catequizareis", "catequizaren" ],
+			[ "catequizaren" ]
+		],
+		"12" : {
+			"1" : [ "catequiza" ],
+			"2" : [ "catequice" ],
+			"3" : [ "catequicemos" ],
+			"4" : [ "catequizad" ],
+			"5" : [ "catequicen" ]
+		}
+	}
+}

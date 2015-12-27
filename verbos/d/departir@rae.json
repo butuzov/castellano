@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=departir",
+	"word" : "departir",
+	"infinitivo" : "departir",
+	"participio" : [ "departido" ],
+	"gerundio" : [ "departiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "departo" ],
+			[ "departes", "departís" ],
+			[ "departe" ],
+			[ "departimos" ],
+			[ "departís", "departen" ],
+			[ "departen" ]
+		],
+		"4" : [
+			[ "departí" ],
+			[ "departiste" ],
+			[ "departió" ],
+			[ "departimos" ],
+			[ "departisteis", "departieron" ],
+			[ "departieron" ]
+		],
+		"5" : [
+			[ "departía" ],
+			[ "departías" ],
+			[ "departía" ],
+			[ "departíamos" ],
+			[ "departíais", "departían" ],
+			[ "departían" ]
+		],
+		"6" : [
+			[ "departiría" ],
+			[ "departirías" ],
+			[ "departiría" ],
+			[ "departiríamos" ],
+			[ "departiríais", "departirían" ],
+			[ "departirían" ]
+		],
+		"7" : [
+			[ "departiré" ],
+			[ "departirás" ],
+			[ "departirá" ],
+			[ "departiremos" ],
+			[ "departiréis", "departirán" ],
+			[ "departirán" ]
+		],
+		"8" : [
+			[ "departa" ],
+			[ "departas" ],
+			[ "departa" ],
+			[ "departamos" ],
+			[ "departáis", "departan" ],
+			[ "departan" ]
+		],
+		"9" : [
+			[ "departiera" ],
+			[ "departieras" ],
+			[ "departiera" ],
+			[ "departiéramos" ],
+			[ "departierais", "departieran" ],
+			[ "departieran" ]
+		],
+		"10" : [
+			[ "departiese" ],
+			[ "departieses" ],
+			[ "departiese" ],
+			[ "departiésemos" ],
+			[ "departieseis", "departiesen" ],
+			[ "departiesen" ]
+		],
+		"11" : [
+			[ "departiere" ],
+			[ "departieres" ],
+			[ "departiere" ],
+			[ "departiéremos" ],
+			[ "departiereis", "departieren" ],
+			[ "departieren" ]
+		],
+		"12" : {
+			"1" : [ "departe" ],
+			"2" : [ "departa" ],
+			"3" : [ "departamos" ],
+			"4" : [ "departid" ],
+			"5" : [ "departan" ]
+		}
+	}
+}

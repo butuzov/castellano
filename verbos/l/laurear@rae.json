@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=laurear",
+	"word" : "laurear",
+	"infinitivo" : "laurear",
+	"participio" : [ "laureado" ],
+	"gerundio" : [ "laureando" ],
+	"tenses" : {
+		"3" : [
+			[ "laureo" ],
+			[ "laureas", "laureás" ],
+			[ "laurea" ],
+			[ "laureamos" ],
+			[ "laureáis", "laurean" ],
+			[ "laurean" ]
+		],
+		"4" : [
+			[ "laureé" ],
+			[ "laureaste" ],
+			[ "laureó" ],
+			[ "laureamos" ],
+			[ "laureasteis", "laurearon" ],
+			[ "laurearon" ]
+		],
+		"5" : [
+			[ "laureaba" ],
+			[ "laureabas" ],
+			[ "laureaba" ],
+			[ "laureábamos" ],
+			[ "laureabais", "laureaban" ],
+			[ "laureaban" ]
+		],
+		"6" : [
+			[ "laurearía" ],
+			[ "laurearías" ],
+			[ "laurearía" ],
+			[ "laurearíamos" ],
+			[ "laurearíais", "laurearían" ],
+			[ "laurearían" ]
+		],
+		"7" : [
+			[ "laurearé" ],
+			[ "laurearás" ],
+			[ "laureará" ],
+			[ "laurearemos" ],
+			[ "laurearéis", "laurearán" ],
+			[ "laurearán" ]
+		],
+		"8" : [
+			[ "lauree" ],
+			[ "laurees" ],
+			[ "lauree" ],
+			[ "laureemos" ],
+			[ "laureéis", "laureen" ],
+			[ "laureen" ]
+		],
+		"9" : [
+			[ "laureara" ],
+			[ "laurearas" ],
+			[ "laureara" ],
+			[ "laureáramos" ],
+			[ "laurearais", "laurearan" ],
+			[ "laurearan" ]
+		],
+		"10" : [
+			[ "laurease" ],
+			[ "laureases" ],
+			[ "laurease" ],
+			[ "laureásemos" ],
+			[ "laureaseis", "laureasen" ],
+			[ "laureasen" ]
+		],
+		"11" : [
+			[ "laureare" ],
+			[ "laureares" ],
+			[ "laureare" ],
+			[ "laureáremos" ],
+			[ "laureareis", "laurearen" ],
+			[ "laurearen" ]
+		],
+		"12" : {
+			"1" : [ "laurea" ],
+			"2" : [ "lauree" ],
+			"3" : [ "laureemos" ],
+			"4" : [ "lauread" ],
+			"5" : [ "laureen" ]
+		}
+	}
+}

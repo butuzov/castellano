@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrepentirse",
+	"word" : "arrepentirse",
+	"infinitivo" : "arrepentirse",
+	"participio" : [ "arrepentido" ],
+	"gerundio" : [ "arrepintiéndome", "arrepintiéndote" ],
+	"tenses" : {
+		"3" : [
+			[ "me arrepiento" ],
+			[ "te arrepientes", "te arrepentís" ],
+			[ "se arrepiente" ],
+			[ "nos arrepentimos" ],
+			[ "os arrepentís", "se arrepienten" ],
+			[ "se arrepienten" ]
+		],
+		"4" : [
+			[ "me arrepentí" ],
+			[ "te arrepentiste" ],
+			[ "se arrepintió" ],
+			[ "nos arrepentimos" ],
+			[ "os arrepentisteis", "se arrepintieron" ],
+			[ "se arrepintieron" ]
+		],
+		"5" : [
+			[ "me arrepentía" ],
+			[ "te arrepentías" ],
+			[ "se arrepentía" ],
+			[ "nos arrepentíamos" ],
+			[ "os arrepentíais", "se arrepentían" ],
+			[ "se arrepentían" ]
+		],
+		"6" : [
+			[ "me arrepentiría" ],
+			[ "te arrepentirías" ],
+			[ "se arrepentiría" ],
+			[ "nos arrepentiríamos" ],
+			[ "os arrepentiríais", "se arrepentirían" ],
+			[ "se arrepentirían" ]
+		],
+		"7" : [
+			[ "me arrepentiré" ],
+			[ "te arrepentirás" ],
+			[ "se arrepentirá" ],
+			[ "nos arrepentiremos" ],
+			[ "os arrepentiréis", "se arrepentirán" ],
+			[ "se arrepentirán" ]
+		],
+		"8" : [
+			[ "me arrepienta" ],
+			[ "te arrepientas" ],
+			[ "se arrepienta" ],
+			[ "nos arrepintamos" ],
+			[ "os arrepintáis", "se arrepientan" ],
+			[ "se arrepientan" ]
+		],
+		"9" : [
+			[ "me arrepintiera" ],
+			[ "te arrepintieras" ],
+			[ "se arrepintiera" ],
+			[ "nos arrepintiéramos" ],
+			[ "os arrepintierais", "se arrepintieran" ],
+			[ "se arrepintieran" ]
+		],
+		"10" : [
+			[ "me arrepintiese" ],
+			[ "te arrepintieses" ],
+			[ "se arrepintiese" ],
+			[ "nos arrepintiésemos" ],
+			[ "os arrepintieseis", "se arrepintiesen" ],
+			[ "se arrepintiesen" ]
+		],
+		"11" : [
+			[ "me arrepintiere" ],
+			[ "te arrepintieres" ],
+			[ "se arrepintiere" ],
+			[ "nos arrepintiéremos" ],
+			[ "os arrepintiereis", "se arrepintieren" ],
+			[ "se arrepintieren" ]
+		],
+		"12" : {
+			"1" : [ "arrepiéntete" ],
+			"2" : [ "arrepienta" ],
+			"3" : [ "arrepintamos" ],
+			"4" : [ "arrepentíos" ],
+			"5" : [ "arrepiéntanse" ]
+		}
+	}
+}

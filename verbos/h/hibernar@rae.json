@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hibernar",
+	"word" : "hibernar",
+	"infinitivo" : "hibernar",
+	"participio" : [ "hibernado" ],
+	"gerundio" : [ "hibernando" ],
+	"tenses" : {
+		"3" : [
+			[ "hibierno", "hiberno" ],
+			[ "hibiernas", "hibernas", "hibernás" ],
+			[ "hibierna", "hiberna" ],
+			[ "hibernamos" ],
+			[ "hibernáis", "hibiernan", "hibernan" ],
+			[ "hibiernan", "hibernan" ]
+		],
+		"4" : [
+			[ "hiberné" ],
+			[ "hibernaste" ],
+			[ "hibernó" ],
+			[ "hibernamos" ],
+			[ "hibernasteis", "hibernaron" ],
+			[ "hibernaron" ]
+		],
+		"5" : [
+			[ "hibernaba" ],
+			[ "hibernabas" ],
+			[ "hibernaba" ],
+			[ "hibernábamos" ],
+			[ "hibernabais", "hibernaban" ],
+			[ "hibernaban" ]
+		],
+		"6" : [
+			[ "hibernaría" ],
+			[ "hibernarías" ],
+			[ "hibernaría" ],
+			[ "hibernaríamos" ],
+			[ "hibernaríais", "hibernarían" ],
+			[ "hibernarían" ]
+		],
+		"7" : [
+			[ "hibernaré" ],
+			[ "hibernarás" ],
+			[ "hibernará" ],
+			[ "hibernaremos" ],
+			[ "hibernaréis", "hibernarán" ],
+			[ "hibernarán" ]
+		],
+		"8" : [
+			[ "hibierne", "hiberne" ],
+			[ "hibiernes", "hibernes" ],
+			[ "hibierne", "hiberne" ],
+			[ "hibernemos" ],
+			[ "hibernéis", "hibiernen", "hibernen" ],
+			[ "hibiernen", "hibernen" ]
+		],
+		"9" : [
+			[ "hibernara" ],
+			[ "hibernaras" ],
+			[ "hibernara" ],
+			[ "hibernáramos" ],
+			[ "hibernarais", "hibernaran" ],
+			[ "hibernaran" ]
+		],
+		"10" : [
+			[ "hibernase" ],
+			[ "hibernases" ],
+			[ "hibernase" ],
+			[ "hibernásemos" ],
+			[ "hibernaseis", "hibernasen" ],
+			[ "hibernasen" ]
+		],
+		"11" : [
+			[ "hibernare" ],
+			[ "hibernares" ],
+			[ "hibernare" ],
+			[ "hibernáremos" ],
+			[ "hibernareis", "hibernaren" ],
+			[ "hibernaren" ]
+		],
+		"12" : {
+			"1" : [ "hibierna", "hiberna" ],
+			"2" : [ "hibierne", "hiberne" ],
+			"3" : [ "hibernemos" ],
+			"4" : [ "hibernad" ],
+			"5" : [ "hibiernen", "hibernen" ]
+		}
+	}
+}

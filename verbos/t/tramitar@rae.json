@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tramitar",
+	"word" : "tramitar",
+	"infinitivo" : "tramitar",
+	"participio" : [ "tramitado" ],
+	"gerundio" : [ "tramitando" ],
+	"tenses" : {
+		"3" : [
+			[ "tramito" ],
+			[ "tramitas", "tramitás" ],
+			[ "tramita" ],
+			[ "tramitamos" ],
+			[ "tramitáis", "tramitan" ],
+			[ "tramitan" ]
+		],
+		"4" : [
+			[ "tramité" ],
+			[ "tramitaste" ],
+			[ "tramitó" ],
+			[ "tramitamos" ],
+			[ "tramitasteis", "tramitaron" ],
+			[ "tramitaron" ]
+		],
+		"5" : [
+			[ "tramitaba" ],
+			[ "tramitabas" ],
+			[ "tramitaba" ],
+			[ "tramitábamos" ],
+			[ "tramitabais", "tramitaban" ],
+			[ "tramitaban" ]
+		],
+		"6" : [
+			[ "tramitaría" ],
+			[ "tramitarías" ],
+			[ "tramitaría" ],
+			[ "tramitaríamos" ],
+			[ "tramitaríais", "tramitarían" ],
+			[ "tramitarían" ]
+		],
+		"7" : [
+			[ "tramitaré" ],
+			[ "tramitarás" ],
+			[ "tramitará" ],
+			[ "tramitaremos" ],
+			[ "tramitaréis", "tramitarán" ],
+			[ "tramitarán" ]
+		],
+		"8" : [
+			[ "tramite" ],
+			[ "tramites" ],
+			[ "tramite" ],
+			[ "tramitemos" ],
+			[ "tramitéis", "tramiten" ],
+			[ "tramiten" ]
+		],
+		"9" : [
+			[ "tramitara" ],
+			[ "tramitaras" ],
+			[ "tramitara" ],
+			[ "tramitáramos" ],
+			[ "tramitarais", "tramitaran" ],
+			[ "tramitaran" ]
+		],
+		"10" : [
+			[ "tramitase" ],
+			[ "tramitases" ],
+			[ "tramitase" ],
+			[ "tramitásemos" ],
+			[ "tramitaseis", "tramitasen" ],
+			[ "tramitasen" ]
+		],
+		"11" : [
+			[ "tramitare" ],
+			[ "tramitares" ],
+			[ "tramitare" ],
+			[ "tramitáremos" ],
+			[ "tramitareis", "tramitaren" ],
+			[ "tramitaren" ]
+		],
+		"12" : {
+			"1" : [ "tramita" ],
+			"2" : [ "tramite" ],
+			"3" : [ "tramitemos" ],
+			"4" : [ "tramitad" ],
+			"5" : [ "tramiten" ]
+		}
+	}
+}

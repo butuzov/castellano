@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escullir",
+	"word" : "escullir",
+	"infinitivo" : "escullir",
+	"participio" : [ "escullido" ],
+	"gerundio" : [ "escullendo" ],
+	"tenses" : {
+		"3" : [
+			[ "escullo" ],
+			[ "esculles", "escullís" ],
+			[ "esculle" ],
+			[ "escullimos" ],
+			[ "escullís", "escullen" ],
+			[ "escullen" ]
+		],
+		"4" : [
+			[ "escullí" ],
+			[ "esculliste" ],
+			[ "esculló" ],
+			[ "escullimos" ],
+			[ "escullisteis", "esculleron" ],
+			[ "esculleron" ]
+		],
+		"5" : [
+			[ "escullía" ],
+			[ "escullías" ],
+			[ "escullía" ],
+			[ "escullíamos" ],
+			[ "escullíais", "escullían" ],
+			[ "escullían" ]
+		],
+		"6" : [
+			[ "esculliría" ],
+			[ "escullirías" ],
+			[ "esculliría" ],
+			[ "esculliríamos" ],
+			[ "esculliríais", "escullirían" ],
+			[ "escullirían" ]
+		],
+		"7" : [
+			[ "esculliré" ],
+			[ "escullirás" ],
+			[ "escullirá" ],
+			[ "esculliremos" ],
+			[ "esculliréis", "escullirán" ],
+			[ "escullirán" ]
+		],
+		"8" : [
+			[ "esculla" ],
+			[ "escullas" ],
+			[ "esculla" ],
+			[ "escullamos" ],
+			[ "esculláis", "escullan" ],
+			[ "escullan" ]
+		],
+		"9" : [
+			[ "escullera" ],
+			[ "esculleras" ],
+			[ "escullera" ],
+			[ "esculléramos" ],
+			[ "escullerais", "esculleran" ],
+			[ "esculleran" ]
+		],
+		"10" : [
+			[ "escullese" ],
+			[ "esculleses" ],
+			[ "escullese" ],
+			[ "escullésemos" ],
+			[ "esculleseis", "escullesen" ],
+			[ "escullesen" ]
+		],
+		"11" : [
+			[ "escullere" ],
+			[ "esculleres" ],
+			[ "escullere" ],
+			[ "esculléremos" ],
+			[ "escullereis", "esculleren" ],
+			[ "esculleren" ]
+		],
+		"12" : {
+			"1" : [ "esculle" ],
+			"2" : [ "esculla" ],
+			"3" : [ "escullamos" ],
+			"4" : [ "escullid" ],
+			"5" : [ "escullan" ]
+		}
+	}
+}

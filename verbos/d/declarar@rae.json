@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=declarar",
+	"word" : "declarar",
+	"infinitivo" : "declarar",
+	"participio" : [ "declarado" ],
+	"gerundio" : [ "declarando" ],
+	"tenses" : {
+		"3" : [
+			[ "declaro" ],
+			[ "declaras", "declarás" ],
+			[ "declara" ],
+			[ "declaramos" ],
+			[ "declaráis", "declaran" ],
+			[ "declaran" ]
+		],
+		"4" : [
+			[ "declaré" ],
+			[ "declaraste" ],
+			[ "declaró" ],
+			[ "declaramos" ],
+			[ "declarasteis", "declararon" ],
+			[ "declararon" ]
+		],
+		"5" : [
+			[ "declaraba" ],
+			[ "declarabas" ],
+			[ "declaraba" ],
+			[ "declarábamos" ],
+			[ "declarabais", "declaraban" ],
+			[ "declaraban" ]
+		],
+		"6" : [
+			[ "declararía" ],
+			[ "declararías" ],
+			[ "declararía" ],
+			[ "declararíamos" ],
+			[ "declararíais", "declararían" ],
+			[ "declararían" ]
+		],
+		"7" : [
+			[ "declararé" ],
+			[ "declararás" ],
+			[ "declarará" ],
+			[ "declararemos" ],
+			[ "declararéis", "declararán" ],
+			[ "declararán" ]
+		],
+		"8" : [
+			[ "declare" ],
+			[ "declares" ],
+			[ "declare" ],
+			[ "declaremos" ],
+			[ "declaréis", "declaren" ],
+			[ "declaren" ]
+		],
+		"9" : [
+			[ "declarara" ],
+			[ "declararas" ],
+			[ "declarara" ],
+			[ "declaráramos" ],
+			[ "declararais", "declararan" ],
+			[ "declararan" ]
+		],
+		"10" : [
+			[ "declarase" ],
+			[ "declarases" ],
+			[ "declarase" ],
+			[ "declarásemos" ],
+			[ "declaraseis", "declarasen" ],
+			[ "declarasen" ]
+		],
+		"11" : [
+			[ "declarare" ],
+			[ "declarares" ],
+			[ "declarare" ],
+			[ "declaráremos" ],
+			[ "declarareis", "declararen" ],
+			[ "declararen" ]
+		],
+		"12" : {
+			"1" : [ "declara" ],
+			"2" : [ "declare" ],
+			"3" : [ "declaremos" ],
+			"4" : [ "declarad" ],
+			"5" : [ "declaren" ]
+		}
+	}
+}

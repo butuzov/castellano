@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=distraer",
+	"word" : "distraer",
+	"infinitivo" : "distraer",
+	"participio" : [ "distraído" ],
+	"gerundio" : [ "distrayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "distraigo" ],
+			[ "distraes", "distraés" ],
+			[ "distrae" ],
+			[ "distraemos" ],
+			[ "distraéis", "distraen" ],
+			[ "distraen" ]
+		],
+		"4" : [
+			[ "distraje" ],
+			[ "distrajiste" ],
+			[ "distrajo" ],
+			[ "distrajimos" ],
+			[ "distrajisteis", "distrajeron" ],
+			[ "distrajeron" ]
+		],
+		"5" : [
+			[ "distraía" ],
+			[ "distraías" ],
+			[ "distraía" ],
+			[ "distraíamos" ],
+			[ "distraíais", "distraían" ],
+			[ "distraían" ]
+		],
+		"6" : [
+			[ "distraería" ],
+			[ "distraerías" ],
+			[ "distraería" ],
+			[ "distraeríamos" ],
+			[ "distraeríais", "distraerían" ],
+			[ "distraerían" ]
+		],
+		"7" : [
+			[ "distraeré" ],
+			[ "distraerás" ],
+			[ "distraerá" ],
+			[ "distraeremos" ],
+			[ "distraeréis", "distraerán" ],
+			[ "distraerán" ]
+		],
+		"8" : [
+			[ "distraiga" ],
+			[ "distraigas" ],
+			[ "distraiga" ],
+			[ "distraigamos" ],
+			[ "distraigáis", "distraigan" ],
+			[ "distraigan" ]
+		],
+		"9" : [
+			[ "distrajera" ],
+			[ "distrajeras" ],
+			[ "distrajera" ],
+			[ "distrajéramos" ],
+			[ "distrajerais", "distrajeran" ],
+			[ "distrajeran" ]
+		],
+		"10" : [
+			[ "distrajese" ],
+			[ "distrajeses" ],
+			[ "distrajese" ],
+			[ "distrajésemos" ],
+			[ "distrajeseis", "distrajesen" ],
+			[ "distrajesen" ]
+		],
+		"11" : [
+			[ "distrajere" ],
+			[ "distrajeres" ],
+			[ "distrajere" ],
+			[ "distrajéremos" ],
+			[ "distrajereis", "distrajeren" ],
+			[ "distrajeren" ]
+		],
+		"12" : {
+			"1" : [ "distrae" ],
+			"2" : [ "distraiga" ],
+			"3" : [ "distraigamos" ],
+			"4" : [ "distraed" ],
+			"5" : [ "distraigan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encarecer",
+	"word" : "encarecer",
+	"infinitivo" : "encarecer",
+	"participio" : [ "encarecido" ],
+	"gerundio" : [ "encareciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "encarezco" ],
+			[ "encareces", "encarecés" ],
+			[ "encarece" ],
+			[ "encarecemos" ],
+			[ "encarecéis", "encarecen" ],
+			[ "encarecen" ]
+		],
+		"4" : [
+			[ "encarecí" ],
+			[ "encareciste" ],
+			[ "encareció" ],
+			[ "encarecimos" ],
+			[ "encarecisteis", "encarecieron" ],
+			[ "encarecieron" ]
+		],
+		"5" : [
+			[ "encarecía" ],
+			[ "encarecías" ],
+			[ "encarecía" ],
+			[ "encarecíamos" ],
+			[ "encarecíais", "encarecían" ],
+			[ "encarecían" ]
+		],
+		"6" : [
+			[ "encarecería" ],
+			[ "encarecerías" ],
+			[ "encarecería" ],
+			[ "encareceríamos" ],
+			[ "encareceríais", "encarecerían" ],
+			[ "encarecerían" ]
+		],
+		"7" : [
+			[ "encareceré" ],
+			[ "encarecerás" ],
+			[ "encarecerá" ],
+			[ "encareceremos" ],
+			[ "encareceréis", "encarecerán" ],
+			[ "encarecerán" ]
+		],
+		"8" : [
+			[ "encarezca" ],
+			[ "encarezcas" ],
+			[ "encarezca" ],
+			[ "encarezcamos" ],
+			[ "encarezcáis", "encarezcan" ],
+			[ "encarezcan" ]
+		],
+		"9" : [
+			[ "encareciera" ],
+			[ "encarecieras" ],
+			[ "encareciera" ],
+			[ "encareciéramos" ],
+			[ "encarecierais", "encarecieran" ],
+			[ "encarecieran" ]
+		],
+		"10" : [
+			[ "encareciese" ],
+			[ "encarecieses" ],
+			[ "encareciese" ],
+			[ "encareciésemos" ],
+			[ "encarecieseis", "encareciesen" ],
+			[ "encareciesen" ]
+		],
+		"11" : [
+			[ "encareciere" ],
+			[ "encarecieres" ],
+			[ "encareciere" ],
+			[ "encareciéremos" ],
+			[ "encareciereis", "encarecieren" ],
+			[ "encarecieren" ]
+		],
+		"12" : {
+			"1" : [ "encarece" ],
+			"2" : [ "encarezca" ],
+			"3" : [ "encarezcamos" ],
+			"4" : [ "encareced" ],
+			"5" : [ "encarezcan" ]
+		}
+	}
+}

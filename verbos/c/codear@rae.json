@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=codear",
+	"word" : "codear",
+	"infinitivo" : "codear",
+	"participio" : [ "codeado" ],
+	"gerundio" : [ "codeando" ],
+	"tenses" : {
+		"3" : [
+			[ "codeo" ],
+			[ "codeas", "codeás" ],
+			[ "codea" ],
+			[ "codeamos" ],
+			[ "codeáis", "codean" ],
+			[ "codean" ]
+		],
+		"4" : [
+			[ "codeé" ],
+			[ "codeaste" ],
+			[ "codeó" ],
+			[ "codeamos" ],
+			[ "codeasteis", "codearon" ],
+			[ "codearon" ]
+		],
+		"5" : [
+			[ "codeaba" ],
+			[ "codeabas" ],
+			[ "codeaba" ],
+			[ "codeábamos" ],
+			[ "codeabais", "codeaban" ],
+			[ "codeaban" ]
+		],
+		"6" : [
+			[ "codearía" ],
+			[ "codearías" ],
+			[ "codearía" ],
+			[ "codearíamos" ],
+			[ "codearíais", "codearían" ],
+			[ "codearían" ]
+		],
+		"7" : [
+			[ "codearé" ],
+			[ "codearás" ],
+			[ "codeará" ],
+			[ "codearemos" ],
+			[ "codearéis", "codearán" ],
+			[ "codearán" ]
+		],
+		"8" : [
+			[ "codee" ],
+			[ "codees" ],
+			[ "codee" ],
+			[ "codeemos" ],
+			[ "codeéis", "codeen" ],
+			[ "codeen" ]
+		],
+		"9" : [
+			[ "codeara" ],
+			[ "codearas" ],
+			[ "codeara" ],
+			[ "codeáramos" ],
+			[ "codearais", "codearan" ],
+			[ "codearan" ]
+		],
+		"10" : [
+			[ "codease" ],
+			[ "codeases" ],
+			[ "codease" ],
+			[ "codeásemos" ],
+			[ "codeaseis", "codeasen" ],
+			[ "codeasen" ]
+		],
+		"11" : [
+			[ "codeare" ],
+			[ "codeares" ],
+			[ "codeare" ],
+			[ "codeáremos" ],
+			[ "codeareis", "codearen" ],
+			[ "codearen" ]
+		],
+		"12" : {
+			"1" : [ "codea" ],
+			"2" : [ "codee" ],
+			"3" : [ "codeemos" ],
+			"4" : [ "codead" ],
+			"5" : [ "codeen" ]
+		}
+	}
+}

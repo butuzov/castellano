@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enunciar",
+	"word" : "enunciar",
+	"infinitivo" : "enunciar",
+	"participio" : [ "enunciado" ],
+	"gerundio" : [ "enunciando" ],
+	"tenses" : {
+		"3" : [
+			[ "enuncio" ],
+			[ "enuncias", "enunciás" ],
+			[ "enuncia" ],
+			[ "enunciamos" ],
+			[ "enunciáis", "enuncian" ],
+			[ "enuncian" ]
+		],
+		"4" : [
+			[ "enuncié" ],
+			[ "enunciaste" ],
+			[ "enunció" ],
+			[ "enunciamos" ],
+			[ "enunciasteis", "enunciaron" ],
+			[ "enunciaron" ]
+		],
+		"5" : [
+			[ "enunciaba" ],
+			[ "enunciabas" ],
+			[ "enunciaba" ],
+			[ "enunciábamos" ],
+			[ "enunciabais", "enunciaban" ],
+			[ "enunciaban" ]
+		],
+		"6" : [
+			[ "enunciaría" ],
+			[ "enunciarías" ],
+			[ "enunciaría" ],
+			[ "enunciaríamos" ],
+			[ "enunciaríais", "enunciarían" ],
+			[ "enunciarían" ]
+		],
+		"7" : [
+			[ "enunciaré" ],
+			[ "enunciarás" ],
+			[ "enunciará" ],
+			[ "enunciaremos" ],
+			[ "enunciaréis", "enunciarán" ],
+			[ "enunciarán" ]
+		],
+		"8" : [
+			[ "enuncie" ],
+			[ "enuncies" ],
+			[ "enuncie" ],
+			[ "enunciemos" ],
+			[ "enunciéis", "enuncien" ],
+			[ "enuncien" ]
+		],
+		"9" : [
+			[ "enunciara" ],
+			[ "enunciaras" ],
+			[ "enunciara" ],
+			[ "enunciáramos" ],
+			[ "enunciarais", "enunciaran" ],
+			[ "enunciaran" ]
+		],
+		"10" : [
+			[ "enunciase" ],
+			[ "enunciases" ],
+			[ "enunciase" ],
+			[ "enunciásemos" ],
+			[ "enunciaseis", "enunciasen" ],
+			[ "enunciasen" ]
+		],
+		"11" : [
+			[ "enunciare" ],
+			[ "enunciares" ],
+			[ "enunciare" ],
+			[ "enunciáremos" ],
+			[ "enunciareis", "enunciaren" ],
+			[ "enunciaren" ]
+		],
+		"12" : {
+			"1" : [ "enuncia" ],
+			"2" : [ "enuncie" ],
+			"3" : [ "enunciemos" ],
+			"4" : [ "enunciad" ],
+			"5" : [ "enuncien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=consumir",
+	"word" : "consumir",
+	"infinitivo" : "consumir",
+	"participio" : [ "consumido" ],
+	"gerundio" : [ "consumiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "consumo" ],
+			[ "consumes", "consumís" ],
+			[ "consume" ],
+			[ "consumimos" ],
+			[ "consumís", "consumen" ],
+			[ "consumen" ]
+		],
+		"4" : [
+			[ "consumí" ],
+			[ "consumiste" ],
+			[ "consumió" ],
+			[ "consumimos" ],
+			[ "consumisteis", "consumieron" ],
+			[ "consumieron" ]
+		],
+		"5" : [
+			[ "consumía" ],
+			[ "consumías" ],
+			[ "consumía" ],
+			[ "consumíamos" ],
+			[ "consumíais", "consumían" ],
+			[ "consumían" ]
+		],
+		"6" : [
+			[ "consumiría" ],
+			[ "consumirías" ],
+			[ "consumiría" ],
+			[ "consumiríamos" ],
+			[ "consumiríais", "consumirían" ],
+			[ "consumirían" ]
+		],
+		"7" : [
+			[ "consumiré" ],
+			[ "consumirás" ],
+			[ "consumirá" ],
+			[ "consumiremos" ],
+			[ "consumiréis", "consumirán" ],
+			[ "consumirán" ]
+		],
+		"8" : [
+			[ "consuma" ],
+			[ "consumas" ],
+			[ "consuma" ],
+			[ "consumamos" ],
+			[ "consumáis", "consuman" ],
+			[ "consuman" ]
+		],
+		"9" : [
+			[ "consumiera" ],
+			[ "consumieras" ],
+			[ "consumiera" ],
+			[ "consumiéramos" ],
+			[ "consumierais", "consumieran" ],
+			[ "consumieran" ]
+		],
+		"10" : [
+			[ "consumiese" ],
+			[ "consumieses" ],
+			[ "consumiese" ],
+			[ "consumiésemos" ],
+			[ "consumieseis", "consumiesen" ],
+			[ "consumiesen" ]
+		],
+		"11" : [
+			[ "consumiere" ],
+			[ "consumieres" ],
+			[ "consumiere" ],
+			[ "consumiéremos" ],
+			[ "consumiereis", "consumieren" ],
+			[ "consumieren" ]
+		],
+		"12" : {
+			"1" : [ "consume" ],
+			"2" : [ "consuma" ],
+			"3" : [ "consumamos" ],
+			"4" : [ "consumid" ],
+			"5" : [ "consuman" ]
+		}
+	}
+}

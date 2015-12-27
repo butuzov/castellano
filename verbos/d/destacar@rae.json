@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=destacar",
+	"word" : "destacar",
+	"infinitivo" : "destacar",
+	"participio" : [ "destacado" ],
+	"gerundio" : [ "destacando" ],
+	"tenses" : {
+		"3" : [
+			[ "destaco" ],
+			[ "destacas", "destacás" ],
+			[ "destaca" ],
+			[ "destacamos" ],
+			[ "destacáis", "destacan" ],
+			[ "destacan" ]
+		],
+		"4" : [
+			[ "destaqué" ],
+			[ "destacaste" ],
+			[ "destacó" ],
+			[ "destacamos" ],
+			[ "destacasteis", "destacaron" ],
+			[ "destacaron" ]
+		],
+		"5" : [
+			[ "destacaba" ],
+			[ "destacabas" ],
+			[ "destacaba" ],
+			[ "destacábamos" ],
+			[ "destacabais", "destacaban" ],
+			[ "destacaban" ]
+		],
+		"6" : [
+			[ "destacaría" ],
+			[ "destacarías" ],
+			[ "destacaría" ],
+			[ "destacaríamos" ],
+			[ "destacaríais", "destacarían" ],
+			[ "destacarían" ]
+		],
+		"7" : [
+			[ "destacaré" ],
+			[ "destacarás" ],
+			[ "destacará" ],
+			[ "destacaremos" ],
+			[ "destacaréis", "destacarán" ],
+			[ "destacarán" ]
+		],
+		"8" : [
+			[ "destaque" ],
+			[ "destaques" ],
+			[ "destaque" ],
+			[ "destaquemos" ],
+			[ "destaquéis", "destaquen" ],
+			[ "destaquen" ]
+		],
+		"9" : [
+			[ "destacara" ],
+			[ "destacaras" ],
+			[ "destacara" ],
+			[ "destacáramos" ],
+			[ "destacarais", "destacaran" ],
+			[ "destacaran" ]
+		],
+		"10" : [
+			[ "destacase" ],
+			[ "destacases" ],
+			[ "destacase" ],
+			[ "destacásemos" ],
+			[ "destacaseis", "destacasen" ],
+			[ "destacasen" ]
+		],
+		"11" : [
+			[ "destacare" ],
+			[ "destacares" ],
+			[ "destacare" ],
+			[ "destacáremos" ],
+			[ "destacareis", "destacaren" ],
+			[ "destacaren" ]
+		],
+		"12" : {
+			"1" : [ "destaca" ],
+			"2" : [ "destaque" ],
+			"3" : [ "destaquemos" ],
+			"4" : [ "destacad" ],
+			"5" : [ "destaquen" ]
+		}
+	}
+}

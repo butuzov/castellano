@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tajar",
+	"word" : "tajar",
+	"infinitivo" : "tajar",
+	"participio" : [ "tajado" ],
+	"gerundio" : [ "tajando" ],
+	"tenses" : {
+		"3" : [
+			[ "tajo" ],
+			[ "tajas", "tajás" ],
+			[ "taja" ],
+			[ "tajamos" ],
+			[ "tajáis", "tajan" ],
+			[ "tajan" ]
+		],
+		"4" : [
+			[ "tajé" ],
+			[ "tajaste" ],
+			[ "tajó" ],
+			[ "tajamos" ],
+			[ "tajasteis", "tajaron" ],
+			[ "tajaron" ]
+		],
+		"5" : [
+			[ "tajaba" ],
+			[ "tajabas" ],
+			[ "tajaba" ],
+			[ "tajábamos" ],
+			[ "tajabais", "tajaban" ],
+			[ "tajaban" ]
+		],
+		"6" : [
+			[ "tajaría" ],
+			[ "tajarías" ],
+			[ "tajaría" ],
+			[ "tajaríamos" ],
+			[ "tajaríais", "tajarían" ],
+			[ "tajarían" ]
+		],
+		"7" : [
+			[ "tajaré" ],
+			[ "tajarás" ],
+			[ "tajará" ],
+			[ "tajaremos" ],
+			[ "tajaréis", "tajarán" ],
+			[ "tajarán" ]
+		],
+		"8" : [
+			[ "taje" ],
+			[ "tajes" ],
+			[ "taje" ],
+			[ "tajemos" ],
+			[ "tajéis", "tajen" ],
+			[ "tajen" ]
+		],
+		"9" : [
+			[ "tajara" ],
+			[ "tajaras" ],
+			[ "tajara" ],
+			[ "tajáramos" ],
+			[ "tajarais", "tajaran" ],
+			[ "tajaran" ]
+		],
+		"10" : [
+			[ "tajase" ],
+			[ "tajases" ],
+			[ "tajase" ],
+			[ "tajásemos" ],
+			[ "tajaseis", "tajasen" ],
+			[ "tajasen" ]
+		],
+		"11" : [
+			[ "tajare" ],
+			[ "tajares" ],
+			[ "tajare" ],
+			[ "tajáremos" ],
+			[ "tajareis", "tajaren" ],
+			[ "tajaren" ]
+		],
+		"12" : {
+			"1" : [ "taja" ],
+			"2" : [ "taje" ],
+			"3" : [ "tajemos" ],
+			"4" : [ "tajad" ],
+			"5" : [ "tajen" ]
+		}
+	}
+}

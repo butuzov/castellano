@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=haber",
+	"word" : "haber",
+	"infinitivo" : "haber",
+	"participio" : [ "habido" ],
+	"gerundio" : [ "habiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "he" ],
+			[ "has" ],
+			[ "ha", "hay" ],
+			[ "hemos" ],
+			[ "habéis", "han" ],
+			[ "han" ]
+		],
+		"4" : [
+			[ "hube" ],
+			[ "hubiste" ],
+			[ "hubo" ],
+			[ "hubimos" ],
+			[ "hubisteis", "hubieron" ],
+			[ "hubieron" ]
+		],
+		"5" : [
+			[ "había" ],
+			[ "habías" ],
+			[ "había" ],
+			[ "habíamos" ],
+			[ "habíais", "habían" ],
+			[ "habían" ]
+		],
+		"6" : [
+			[ "habría" ],
+			[ "habrías" ],
+			[ "habría" ],
+			[ "habríamos" ],
+			[ "habríais", "habrían" ],
+			[ "habrían" ]
+		],
+		"7" : [
+			[ "habré" ],
+			[ "habrás" ],
+			[ "habrá" ],
+			[ "habremos" ],
+			[ "habréis", "habrán" ],
+			[ "habrán" ]
+		],
+		"8" : [
+			[ "haya" ],
+			[ "hayas" ],
+			[ "haya" ],
+			[ "hayamos" ],
+			[ "hayáis", "hayan" ],
+			[ "hayan" ]
+		],
+		"9" : [
+			[ "hubiera" ],
+			[ "hubieras" ],
+			[ "hubiera" ],
+			[ "hubiéramos" ],
+			[ "hubierais", "hubieran" ],
+			[ "hubieran" ]
+		],
+		"10" : [
+			[ "hubiese" ],
+			[ "hubieses" ],
+			[ "hubiese" ],
+			[ "hubiésemos" ],
+			[ "hubieseis", "hubiesen" ],
+			[ "hubiesen" ]
+		],
+		"11" : [
+			[ "hubiere" ],
+			[ "hubieres" ],
+			[ "hubiere" ],
+			[ "hubiéremos" ],
+			[ "hubiereis", "hubieren" ],
+			[ "hubieren" ]
+		],
+		"12" : {
+			"1" : [ "he" ],
+			"2" : [ "haya" ],
+			"3" : [ "hayamos" ],
+			"4" : [ null ],
+			"5" : [ null ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=granar",
+	"word" : "granar",
+	"infinitivo" : "granar",
+	"participio" : [ "granado" ],
+	"gerundio" : [ "granando" ],
+	"tenses" : {
+		"3" : [
+			[ "grano" ],
+			[ "granas", "granás" ],
+			[ "grana" ],
+			[ "granamos" ],
+			[ "granáis", "granan" ],
+			[ "granan" ]
+		],
+		"4" : [
+			[ "grané" ],
+			[ "granaste" ],
+			[ "granó" ],
+			[ "granamos" ],
+			[ "granasteis", "granaron" ],
+			[ "granaron" ]
+		],
+		"5" : [
+			[ "granaba" ],
+			[ "granabas" ],
+			[ "granaba" ],
+			[ "granábamos" ],
+			[ "granabais", "granaban" ],
+			[ "granaban" ]
+		],
+		"6" : [
+			[ "granaría" ],
+			[ "granarías" ],
+			[ "granaría" ],
+			[ "granaríamos" ],
+			[ "granaríais", "granarían" ],
+			[ "granarían" ]
+		],
+		"7" : [
+			[ "granaré" ],
+			[ "granarás" ],
+			[ "granará" ],
+			[ "granaremos" ],
+			[ "granaréis", "granarán" ],
+			[ "granarán" ]
+		],
+		"8" : [
+			[ "grane" ],
+			[ "granes" ],
+			[ "grane" ],
+			[ "granemos" ],
+			[ "granéis", "granen" ],
+			[ "granen" ]
+		],
+		"9" : [
+			[ "granara" ],
+			[ "granaras" ],
+			[ "granara" ],
+			[ "granáramos" ],
+			[ "granarais", "granaran" ],
+			[ "granaran" ]
+		],
+		"10" : [
+			[ "granase" ],
+			[ "granases" ],
+			[ "granase" ],
+			[ "granásemos" ],
+			[ "granaseis", "granasen" ],
+			[ "granasen" ]
+		],
+		"11" : [
+			[ "granare" ],
+			[ "granares" ],
+			[ "granare" ],
+			[ "granáremos" ],
+			[ "granareis", "granaren" ],
+			[ "granaren" ]
+		],
+		"12" : {
+			"1" : [ "grana" ],
+			"2" : [ "grane" ],
+			"3" : [ "granemos" ],
+			"4" : [ "granad" ],
+			"5" : [ "granen" ]
+		}
+	}
+}

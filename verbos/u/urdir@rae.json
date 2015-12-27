@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=urdir",
+	"word" : "urdir",
+	"infinitivo" : "urdir",
+	"participio" : [ "urdido" ],
+	"gerundio" : [ "urdiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "urdo" ],
+			[ "urdes", "urdís" ],
+			[ "urde" ],
+			[ "urdimos" ],
+			[ "urdís", "urden" ],
+			[ "urden" ]
+		],
+		"4" : [
+			[ "urdí" ],
+			[ "urdiste" ],
+			[ "urdió" ],
+			[ "urdimos" ],
+			[ "urdisteis", "urdieron" ],
+			[ "urdieron" ]
+		],
+		"5" : [
+			[ "urdía" ],
+			[ "urdías" ],
+			[ "urdía" ],
+			[ "urdíamos" ],
+			[ "urdíais", "urdían" ],
+			[ "urdían" ]
+		],
+		"6" : [
+			[ "urdiría" ],
+			[ "urdirías" ],
+			[ "urdiría" ],
+			[ "urdiríamos" ],
+			[ "urdiríais", "urdirían" ],
+			[ "urdirían" ]
+		],
+		"7" : [
+			[ "urdiré" ],
+			[ "urdirás" ],
+			[ "urdirá" ],
+			[ "urdiremos" ],
+			[ "urdiréis", "urdirán" ],
+			[ "urdirán" ]
+		],
+		"8" : [
+			[ "urda" ],
+			[ "urdas" ],
+			[ "urda" ],
+			[ "urdamos" ],
+			[ "urdáis", "urdan" ],
+			[ "urdan" ]
+		],
+		"9" : [
+			[ "urdiera" ],
+			[ "urdieras" ],
+			[ "urdiera" ],
+			[ "urdiéramos" ],
+			[ "urdierais", "urdieran" ],
+			[ "urdieran" ]
+		],
+		"10" : [
+			[ "urdiese" ],
+			[ "urdieses" ],
+			[ "urdiese" ],
+			[ "urdiésemos" ],
+			[ "urdieseis", "urdiesen" ],
+			[ "urdiesen" ]
+		],
+		"11" : [
+			[ "urdiere" ],
+			[ "urdieres" ],
+			[ "urdiere" ],
+			[ "urdiéremos" ],
+			[ "urdiereis", "urdieren" ],
+			[ "urdieren" ]
+		],
+		"12" : {
+			"1" : [ "urde" ],
+			"2" : [ "urda" ],
+			"3" : [ "urdamos" ],
+			"4" : [ "urdid" ],
+			"5" : [ "urdan" ]
+		}
+	}
+}

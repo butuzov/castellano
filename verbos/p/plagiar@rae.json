@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=plagiar",
+	"word" : "plagiar",
+	"infinitivo" : "plagiar",
+	"participio" : [ "plagiado" ],
+	"gerundio" : [ "plagiando" ],
+	"tenses" : {
+		"3" : [
+			[ "plagio" ],
+			[ "plagias", "plagiás" ],
+			[ "plagia" ],
+			[ "plagiamos" ],
+			[ "plagiáis", "plagian" ],
+			[ "plagian" ]
+		],
+		"4" : [
+			[ "plagié" ],
+			[ "plagiaste" ],
+			[ "plagió" ],
+			[ "plagiamos" ],
+			[ "plagiasteis", "plagiaron" ],
+			[ "plagiaron" ]
+		],
+		"5" : [
+			[ "plagiaba" ],
+			[ "plagiabas" ],
+			[ "plagiaba" ],
+			[ "plagiábamos" ],
+			[ "plagiabais", "plagiaban" ],
+			[ "plagiaban" ]
+		],
+		"6" : [
+			[ "plagiaría" ],
+			[ "plagiarías" ],
+			[ "plagiaría" ],
+			[ "plagiaríamos" ],
+			[ "plagiaríais", "plagiarían" ],
+			[ "plagiarían" ]
+		],
+		"7" : [
+			[ "plagiaré" ],
+			[ "plagiarás" ],
+			[ "plagiará" ],
+			[ "plagiaremos" ],
+			[ "plagiaréis", "plagiarán" ],
+			[ "plagiarán" ]
+		],
+		"8" : [
+			[ "plagie" ],
+			[ "plagies" ],
+			[ "plagie" ],
+			[ "plagiemos" ],
+			[ "plagiéis", "plagien" ],
+			[ "plagien" ]
+		],
+		"9" : [
+			[ "plagiara" ],
+			[ "plagiaras" ],
+			[ "plagiara" ],
+			[ "plagiáramos" ],
+			[ "plagiarais", "plagiaran" ],
+			[ "plagiaran" ]
+		],
+		"10" : [
+			[ "plagiase" ],
+			[ "plagiases" ],
+			[ "plagiase" ],
+			[ "plagiásemos" ],
+			[ "plagiaseis", "plagiasen" ],
+			[ "plagiasen" ]
+		],
+		"11" : [
+			[ "plagiare" ],
+			[ "plagiares" ],
+			[ "plagiare" ],
+			[ "plagiáremos" ],
+			[ "plagiareis", "plagiaren" ],
+			[ "plagiaren" ]
+		],
+		"12" : {
+			"1" : [ "plagia" ],
+			"2" : [ "plagie" ],
+			"3" : [ "plagiemos" ],
+			"4" : [ "plagiad" ],
+			"5" : [ "plagien" ]
+		}
+	}
+}

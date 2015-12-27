@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pedalear",
+	"word" : "pedalear",
+	"infinitivo" : "pedalear",
+	"participio" : [ "pedaleado" ],
+	"gerundio" : [ "pedaleando" ],
+	"tenses" : {
+		"3" : [
+			[ "pedaleo" ],
+			[ "pedaleas", "pedaleás" ],
+			[ "pedalea" ],
+			[ "pedaleamos" ],
+			[ "pedaleáis", "pedalean" ],
+			[ "pedalean" ]
+		],
+		"4" : [
+			[ "pedaleé" ],
+			[ "pedaleaste" ],
+			[ "pedaleó" ],
+			[ "pedaleamos" ],
+			[ "pedaleasteis", "pedalearon" ],
+			[ "pedalearon" ]
+		],
+		"5" : [
+			[ "pedaleaba" ],
+			[ "pedaleabas" ],
+			[ "pedaleaba" ],
+			[ "pedaleábamos" ],
+			[ "pedaleabais", "pedaleaban" ],
+			[ "pedaleaban" ]
+		],
+		"6" : [
+			[ "pedalearía" ],
+			[ "pedalearías" ],
+			[ "pedalearía" ],
+			[ "pedalearíamos" ],
+			[ "pedalearíais", "pedalearían" ],
+			[ "pedalearían" ]
+		],
+		"7" : [
+			[ "pedalearé" ],
+			[ "pedalearás" ],
+			[ "pedaleará" ],
+			[ "pedalearemos" ],
+			[ "pedalearéis", "pedalearán" ],
+			[ "pedalearán" ]
+		],
+		"8" : [
+			[ "pedalee" ],
+			[ "pedalees" ],
+			[ "pedalee" ],
+			[ "pedaleemos" ],
+			[ "pedaleéis", "pedaleen" ],
+			[ "pedaleen" ]
+		],
+		"9" : [
+			[ "pedaleara" ],
+			[ "pedalearas" ],
+			[ "pedaleara" ],
+			[ "pedaleáramos" ],
+			[ "pedalearais", "pedalearan" ],
+			[ "pedalearan" ]
+		],
+		"10" : [
+			[ "pedalease" ],
+			[ "pedaleases" ],
+			[ "pedalease" ],
+			[ "pedaleásemos" ],
+			[ "pedaleaseis", "pedaleasen" ],
+			[ "pedaleasen" ]
+		],
+		"11" : [
+			[ "pedaleare" ],
+			[ "pedaleares" ],
+			[ "pedaleare" ],
+			[ "pedaleáremos" ],
+			[ "pedaleareis", "pedalearen" ],
+			[ "pedalearen" ]
+		],
+		"12" : {
+			"1" : [ "pedalea" ],
+			"2" : [ "pedalee" ],
+			"3" : [ "pedaleemos" ],
+			"4" : [ "pedalead" ],
+			"5" : [ "pedaleen" ]
+		}
+	}
+}

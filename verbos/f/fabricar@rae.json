@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fabricar",
+	"word" : "fabricar",
+	"infinitivo" : "fabricar",
+	"participio" : [ "fabricado" ],
+	"gerundio" : [ "fabricando" ],
+	"tenses" : {
+		"3" : [
+			[ "fabrico" ],
+			[ "fabricas", "fabricás" ],
+			[ "fabrica" ],
+			[ "fabricamos" ],
+			[ "fabricáis", "fabrican" ],
+			[ "fabrican" ]
+		],
+		"4" : [
+			[ "fabriqué" ],
+			[ "fabricaste" ],
+			[ "fabricó" ],
+			[ "fabricamos" ],
+			[ "fabricasteis", "fabricaron" ],
+			[ "fabricaron" ]
+		],
+		"5" : [
+			[ "fabricaba" ],
+			[ "fabricabas" ],
+			[ "fabricaba" ],
+			[ "fabricábamos" ],
+			[ "fabricabais", "fabricaban" ],
+			[ "fabricaban" ]
+		],
+		"6" : [
+			[ "fabricaría" ],
+			[ "fabricarías" ],
+			[ "fabricaría" ],
+			[ "fabricaríamos" ],
+			[ "fabricaríais", "fabricarían" ],
+			[ "fabricarían" ]
+		],
+		"7" : [
+			[ "fabricaré" ],
+			[ "fabricarás" ],
+			[ "fabricará" ],
+			[ "fabricaremos" ],
+			[ "fabricaréis", "fabricarán" ],
+			[ "fabricarán" ]
+		],
+		"8" : [
+			[ "fabrique" ],
+			[ "fabriques" ],
+			[ "fabrique" ],
+			[ "fabriquemos" ],
+			[ "fabriquéis", "fabriquen" ],
+			[ "fabriquen" ]
+		],
+		"9" : [
+			[ "fabricara" ],
+			[ "fabricaras" ],
+			[ "fabricara" ],
+			[ "fabricáramos" ],
+			[ "fabricarais", "fabricaran" ],
+			[ "fabricaran" ]
+		],
+		"10" : [
+			[ "fabricase" ],
+			[ "fabricases" ],
+			[ "fabricase" ],
+			[ "fabricásemos" ],
+			[ "fabricaseis", "fabricasen" ],
+			[ "fabricasen" ]
+		],
+		"11" : [
+			[ "fabricare" ],
+			[ "fabricares" ],
+			[ "fabricare" ],
+			[ "fabricáremos" ],
+			[ "fabricareis", "fabricaren" ],
+			[ "fabricaren" ]
+		],
+		"12" : {
+			"1" : [ "fabrica" ],
+			"2" : [ "fabrique" ],
+			"3" : [ "fabriquemos" ],
+			"4" : [ "fabricad" ],
+			"5" : [ "fabriquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alebrarse",
+	"word" : "alebrarse",
+	"infinitivo" : "alebrarse",
+	"participio" : [ "alebrado" ],
+	"gerundio" : [ "alebrándome", "alebrándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me aliebro" ],
+			[ "te aliebras", "te alebrás" ],
+			[ "se aliebra" ],
+			[ "nos alebramos" ],
+			[ "os alebráis", "se aliebran" ],
+			[ "se aliebran" ]
+		],
+		"4" : [
+			[ "me alebré" ],
+			[ "te alebraste" ],
+			[ "se alebró" ],
+			[ "nos alebramos" ],
+			[ "os alebrasteis", "se alebraron" ],
+			[ "se alebraron" ]
+		],
+		"5" : [
+			[ "me alebraba" ],
+			[ "te alebrabas" ],
+			[ "se alebraba" ],
+			[ "nos alebrábamos" ],
+			[ "os alebrabais", "se alebraban" ],
+			[ "se alebraban" ]
+		],
+		"6" : [
+			[ "me alebraría" ],
+			[ "te alebrarías" ],
+			[ "se alebraría" ],
+			[ "nos alebraríamos" ],
+			[ "os alebraríais", "se alebrarían" ],
+			[ "se alebrarían" ]
+		],
+		"7" : [
+			[ "me alebraré" ],
+			[ "te alebrarás" ],
+			[ "se alebrará" ],
+			[ "nos alebraremos" ],
+			[ "os alebraréis", "se alebrarán" ],
+			[ "se alebrarán" ]
+		],
+		"8" : [
+			[ "me aliebre" ],
+			[ "te aliebres" ],
+			[ "se aliebre" ],
+			[ "nos alebremos" ],
+			[ "os alebréis", "se aliebren" ],
+			[ "se aliebren" ]
+		],
+		"9" : [
+			[ "me alebrara" ],
+			[ "te alebraras" ],
+			[ "se alebrara" ],
+			[ "nos alebráramos" ],
+			[ "os alebrarais", "se alebraran" ],
+			[ "se alebraran" ]
+		],
+		"10" : [
+			[ "me alebrase" ],
+			[ "te alebrases" ],
+			[ "se alebrase" ],
+			[ "nos alebrásemos" ],
+			[ "os alebraseis", "se alebrasen" ],
+			[ "se alebrasen" ]
+		],
+		"11" : [
+			[ "me alebrare" ],
+			[ "te alebrares" ],
+			[ "se alebrare" ],
+			[ "nos alebráremos" ],
+			[ "os alebrareis", "se alebraren" ],
+			[ "se alebraren" ]
+		],
+		"12" : {
+			"1" : [ "aliébrate" ],
+			"2" : [ "aliebre" ],
+			"3" : [ "alebremos" ],
+			"4" : [ "alebraos" ],
+			"5" : [ "aliébrense" ]
+		}
+	}
+}

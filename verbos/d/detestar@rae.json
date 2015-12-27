@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=detestar",
+	"word" : "detestar",
+	"infinitivo" : "detestar",
+	"participio" : [ "detestado" ],
+	"gerundio" : [ "detestando" ],
+	"tenses" : {
+		"3" : [
+			[ "detesto" ],
+			[ "detestas", "detestás" ],
+			[ "detesta" ],
+			[ "detestamos" ],
+			[ "detestáis", "detestan" ],
+			[ "detestan" ]
+		],
+		"4" : [
+			[ "detesté" ],
+			[ "detestaste" ],
+			[ "detestó" ],
+			[ "detestamos" ],
+			[ "detestasteis", "detestaron" ],
+			[ "detestaron" ]
+		],
+		"5" : [
+			[ "detestaba" ],
+			[ "detestabas" ],
+			[ "detestaba" ],
+			[ "detestábamos" ],
+			[ "detestabais", "detestaban" ],
+			[ "detestaban" ]
+		],
+		"6" : [
+			[ "detestaría" ],
+			[ "detestarías" ],
+			[ "detestaría" ],
+			[ "detestaríamos" ],
+			[ "detestaríais", "detestarían" ],
+			[ "detestarían" ]
+		],
+		"7" : [
+			[ "detestaré" ],
+			[ "detestarás" ],
+			[ "detestará" ],
+			[ "detestaremos" ],
+			[ "detestaréis", "detestarán" ],
+			[ "detestarán" ]
+		],
+		"8" : [
+			[ "deteste" ],
+			[ "detestes" ],
+			[ "deteste" ],
+			[ "detestemos" ],
+			[ "detestéis", "detesten" ],
+			[ "detesten" ]
+		],
+		"9" : [
+			[ "detestara" ],
+			[ "detestaras" ],
+			[ "detestara" ],
+			[ "detestáramos" ],
+			[ "detestarais", "detestaran" ],
+			[ "detestaran" ]
+		],
+		"10" : [
+			[ "detestase" ],
+			[ "detestases" ],
+			[ "detestase" ],
+			[ "detestásemos" ],
+			[ "detestaseis", "detestasen" ],
+			[ "detestasen" ]
+		],
+		"11" : [
+			[ "detestare" ],
+			[ "detestares" ],
+			[ "detestare" ],
+			[ "detestáremos" ],
+			[ "detestareis", "detestaren" ],
+			[ "detestaren" ]
+		],
+		"12" : {
+			"1" : [ "detesta" ],
+			"2" : [ "deteste" ],
+			"3" : [ "detestemos" ],
+			"4" : [ "detestad" ],
+			"5" : [ "detesten" ]
+		}
+	}
+}

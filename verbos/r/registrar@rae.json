@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=registrar",
+	"word" : "registrar",
+	"infinitivo" : "registrar",
+	"participio" : [ "registrado" ],
+	"gerundio" : [ "registrando" ],
+	"tenses" : {
+		"3" : [
+			[ "registro" ],
+			[ "registras", "registrás" ],
+			[ "registra" ],
+			[ "registramos" ],
+			[ "registráis", "registran" ],
+			[ "registran" ]
+		],
+		"4" : [
+			[ "registré" ],
+			[ "registraste" ],
+			[ "registró" ],
+			[ "registramos" ],
+			[ "registrasteis", "registraron" ],
+			[ "registraron" ]
+		],
+		"5" : [
+			[ "registraba" ],
+			[ "registrabas" ],
+			[ "registraba" ],
+			[ "registrábamos" ],
+			[ "registrabais", "registraban" ],
+			[ "registraban" ]
+		],
+		"6" : [
+			[ "registraría" ],
+			[ "registrarías" ],
+			[ "registraría" ],
+			[ "registraríamos" ],
+			[ "registraríais", "registrarían" ],
+			[ "registrarían" ]
+		],
+		"7" : [
+			[ "registraré" ],
+			[ "registrarás" ],
+			[ "registrará" ],
+			[ "registraremos" ],
+			[ "registraréis", "registrarán" ],
+			[ "registrarán" ]
+		],
+		"8" : [
+			[ "registre" ],
+			[ "registres" ],
+			[ "registre" ],
+			[ "registremos" ],
+			[ "registréis", "registren" ],
+			[ "registren" ]
+		],
+		"9" : [
+			[ "registrara" ],
+			[ "registraras" ],
+			[ "registrara" ],
+			[ "registráramos" ],
+			[ "registrarais", "registraran" ],
+			[ "registraran" ]
+		],
+		"10" : [
+			[ "registrase" ],
+			[ "registrases" ],
+			[ "registrase" ],
+			[ "registrásemos" ],
+			[ "registraseis", "registrasen" ],
+			[ "registrasen" ]
+		],
+		"11" : [
+			[ "registrare" ],
+			[ "registrares" ],
+			[ "registrare" ],
+			[ "registráremos" ],
+			[ "registrareis", "registraren" ],
+			[ "registraren" ]
+		],
+		"12" : {
+			"1" : [ "registra" ],
+			"2" : [ "registre" ],
+			"3" : [ "registremos" ],
+			"4" : [ "registrad" ],
+			"5" : [ "registren" ]
+		}
+	}
+}

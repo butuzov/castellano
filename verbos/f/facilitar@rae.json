@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=facilitar",
+	"word" : "facilitar",
+	"infinitivo" : "facilitar",
+	"participio" : [ "facilitado" ],
+	"gerundio" : [ "facilitando" ],
+	"tenses" : {
+		"3" : [
+			[ "facilito" ],
+			[ "facilitas", "facilitás" ],
+			[ "facilita" ],
+			[ "facilitamos" ],
+			[ "facilitáis", "facilitan" ],
+			[ "facilitan" ]
+		],
+		"4" : [
+			[ "facilité" ],
+			[ "facilitaste" ],
+			[ "facilitó" ],
+			[ "facilitamos" ],
+			[ "facilitasteis", "facilitaron" ],
+			[ "facilitaron" ]
+		],
+		"5" : [
+			[ "facilitaba" ],
+			[ "facilitabas" ],
+			[ "facilitaba" ],
+			[ "facilitábamos" ],
+			[ "facilitabais", "facilitaban" ],
+			[ "facilitaban" ]
+		],
+		"6" : [
+			[ "facilitaría" ],
+			[ "facilitarías" ],
+			[ "facilitaría" ],
+			[ "facilitaríamos" ],
+			[ "facilitaríais", "facilitarían" ],
+			[ "facilitarían" ]
+		],
+		"7" : [
+			[ "facilitaré" ],
+			[ "facilitarás" ],
+			[ "facilitará" ],
+			[ "facilitaremos" ],
+			[ "facilitaréis", "facilitarán" ],
+			[ "facilitarán" ]
+		],
+		"8" : [
+			[ "facilite" ],
+			[ "facilites" ],
+			[ "facilite" ],
+			[ "facilitemos" ],
+			[ "facilitéis", "faciliten" ],
+			[ "faciliten" ]
+		],
+		"9" : [
+			[ "facilitara" ],
+			[ "facilitaras" ],
+			[ "facilitara" ],
+			[ "facilitáramos" ],
+			[ "facilitarais", "facilitaran" ],
+			[ "facilitaran" ]
+		],
+		"10" : [
+			[ "facilitase" ],
+			[ "facilitases" ],
+			[ "facilitase" ],
+			[ "facilitásemos" ],
+			[ "facilitaseis", "facilitasen" ],
+			[ "facilitasen" ]
+		],
+		"11" : [
+			[ "facilitare" ],
+			[ "facilitares" ],
+			[ "facilitare" ],
+			[ "facilitáremos" ],
+			[ "facilitareis", "facilitaren" ],
+			[ "facilitaren" ]
+		],
+		"12" : {
+			"1" : [ "facilita" ],
+			"2" : [ "facilite" ],
+			"3" : [ "facilitemos" ],
+			"4" : [ "facilitad" ],
+			"5" : [ "faciliten" ]
+		}
+	}
+}

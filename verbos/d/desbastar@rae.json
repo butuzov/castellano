@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desbastar",
+	"word" : "desbastar",
+	"infinitivo" : "desbastar",
+	"participio" : [ "desbastado" ],
+	"gerundio" : [ "desbastando" ],
+	"tenses" : {
+		"3" : [
+			[ "desbasto" ],
+			[ "desbastas", "desbastás" ],
+			[ "desbasta" ],
+			[ "desbastamos" ],
+			[ "desbastáis", "desbastan" ],
+			[ "desbastan" ]
+		],
+		"4" : [
+			[ "desbasté" ],
+			[ "desbastaste" ],
+			[ "desbastó" ],
+			[ "desbastamos" ],
+			[ "desbastasteis", "desbastaron" ],
+			[ "desbastaron" ]
+		],
+		"5" : [
+			[ "desbastaba" ],
+			[ "desbastabas" ],
+			[ "desbastaba" ],
+			[ "desbastábamos" ],
+			[ "desbastabais", "desbastaban" ],
+			[ "desbastaban" ]
+		],
+		"6" : [
+			[ "desbastaría" ],
+			[ "desbastarías" ],
+			[ "desbastaría" ],
+			[ "desbastaríamos" ],
+			[ "desbastaríais", "desbastarían" ],
+			[ "desbastarían" ]
+		],
+		"7" : [
+			[ "desbastaré" ],
+			[ "desbastarás" ],
+			[ "desbastará" ],
+			[ "desbastaremos" ],
+			[ "desbastaréis", "desbastarán" ],
+			[ "desbastarán" ]
+		],
+		"8" : [
+			[ "desbaste" ],
+			[ "desbastes" ],
+			[ "desbaste" ],
+			[ "desbastemos" ],
+			[ "desbastéis", "desbasten" ],
+			[ "desbasten" ]
+		],
+		"9" : [
+			[ "desbastara" ],
+			[ "desbastaras" ],
+			[ "desbastara" ],
+			[ "desbastáramos" ],
+			[ "desbastarais", "desbastaran" ],
+			[ "desbastaran" ]
+		],
+		"10" : [
+			[ "desbastase" ],
+			[ "desbastases" ],
+			[ "desbastase" ],
+			[ "desbastásemos" ],
+			[ "desbastaseis", "desbastasen" ],
+			[ "desbastasen" ]
+		],
+		"11" : [
+			[ "desbastare" ],
+			[ "desbastares" ],
+			[ "desbastare" ],
+			[ "desbastáremos" ],
+			[ "desbastareis", "desbastaren" ],
+			[ "desbastaren" ]
+		],
+		"12" : {
+			"1" : [ "desbasta" ],
+			"2" : [ "desbaste" ],
+			"3" : [ "desbastemos" ],
+			"4" : [ "desbastad" ],
+			"5" : [ "desbasten" ]
+		}
+	}
+}

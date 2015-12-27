@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encabestrar",
+	"word" : "encabestrar",
+	"infinitivo" : "encabestrar",
+	"participio" : [ "encabestrado" ],
+	"gerundio" : [ "encabestrando" ],
+	"tenses" : {
+		"3" : [
+			[ "encabestro" ],
+			[ "encabestras", "encabestrás" ],
+			[ "encabestra" ],
+			[ "encabestramos" ],
+			[ "encabestráis", "encabestran" ],
+			[ "encabestran" ]
+		],
+		"4" : [
+			[ "encabestré" ],
+			[ "encabestraste" ],
+			[ "encabestró" ],
+			[ "encabestramos" ],
+			[ "encabestrasteis", "encabestraron" ],
+			[ "encabestraron" ]
+		],
+		"5" : [
+			[ "encabestraba" ],
+			[ "encabestrabas" ],
+			[ "encabestraba" ],
+			[ "encabestrábamos" ],
+			[ "encabestrabais", "encabestraban" ],
+			[ "encabestraban" ]
+		],
+		"6" : [
+			[ "encabestraría" ],
+			[ "encabestrarías" ],
+			[ "encabestraría" ],
+			[ "encabestraríamos" ],
+			[ "encabestraríais", "encabestrarían" ],
+			[ "encabestrarían" ]
+		],
+		"7" : [
+			[ "encabestraré" ],
+			[ "encabestrarás" ],
+			[ "encabestrará" ],
+			[ "encabestraremos" ],
+			[ "encabestraréis", "encabestrarán" ],
+			[ "encabestrarán" ]
+		],
+		"8" : [
+			[ "encabestre" ],
+			[ "encabestres" ],
+			[ "encabestre" ],
+			[ "encabestremos" ],
+			[ "encabestréis", "encabestren" ],
+			[ "encabestren" ]
+		],
+		"9" : [
+			[ "encabestrara" ],
+			[ "encabestraras" ],
+			[ "encabestrara" ],
+			[ "encabestráramos" ],
+			[ "encabestrarais", "encabestraran" ],
+			[ "encabestraran" ]
+		],
+		"10" : [
+			[ "encabestrase" ],
+			[ "encabestrases" ],
+			[ "encabestrase" ],
+			[ "encabestrásemos" ],
+			[ "encabestraseis", "encabestrasen" ],
+			[ "encabestrasen" ]
+		],
+		"11" : [
+			[ "encabestrare" ],
+			[ "encabestrares" ],
+			[ "encabestrare" ],
+			[ "encabestráremos" ],
+			[ "encabestrareis", "encabestraren" ],
+			[ "encabestraren" ]
+		],
+		"12" : {
+			"1" : [ "encabestra" ],
+			"2" : [ "encabestre" ],
+			"3" : [ "encabestremos" ],
+			"4" : [ "encabestrad" ],
+			"5" : [ "encabestren" ]
+		}
+	}
+}

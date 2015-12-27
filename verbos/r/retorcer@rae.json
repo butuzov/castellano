@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=retorcer",
+	"word" : "retorcer",
+	"infinitivo" : "retorcer",
+	"participio" : [ "retorcido" ],
+	"gerundio" : [ "retorciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "retuerzo" ],
+			[ "retuerces", "retorcés" ],
+			[ "retuerce" ],
+			[ "retorcemos" ],
+			[ "retorcéis", "retuercen" ],
+			[ "retuercen" ]
+		],
+		"4" : [
+			[ "retorcí" ],
+			[ "retorciste" ],
+			[ "retorció" ],
+			[ "retorcimos" ],
+			[ "retorcisteis", "retorcieron" ],
+			[ "retorcieron" ]
+		],
+		"5" : [
+			[ "retorcía" ],
+			[ "retorcías" ],
+			[ "retorcía" ],
+			[ "retorcíamos" ],
+			[ "retorcíais", "retorcían" ],
+			[ "retorcían" ]
+		],
+		"6" : [
+			[ "retorcería" ],
+			[ "retorcerías" ],
+			[ "retorcería" ],
+			[ "retorceríamos" ],
+			[ "retorceríais", "retorcerían" ],
+			[ "retorcerían" ]
+		],
+		"7" : [
+			[ "retorceré" ],
+			[ "retorcerás" ],
+			[ "retorcerá" ],
+			[ "retorceremos" ],
+			[ "retorceréis", "retorcerán" ],
+			[ "retorcerán" ]
+		],
+		"8" : [
+			[ "retuerza" ],
+			[ "retuerzas" ],
+			[ "retuerza" ],
+			[ "retorzamos" ],
+			[ "retorzáis", "retuerzan" ],
+			[ "retuerzan" ]
+		],
+		"9" : [
+			[ "retorciera" ],
+			[ "retorcieras" ],
+			[ "retorciera" ],
+			[ "retorciéramos" ],
+			[ "retorcierais", "retorcieran" ],
+			[ "retorcieran" ]
+		],
+		"10" : [
+			[ "retorciese" ],
+			[ "retorcieses" ],
+			[ "retorciese" ],
+			[ "retorciésemos" ],
+			[ "retorcieseis", "retorciesen" ],
+			[ "retorciesen" ]
+		],
+		"11" : [
+			[ "retorciere" ],
+			[ "retorcieres" ],
+			[ "retorciere" ],
+			[ "retorciéremos" ],
+			[ "retorciereis", "retorcieren" ],
+			[ "retorcieren" ]
+		],
+		"12" : {
+			"1" : [ "retuerce" ],
+			"2" : [ "retuerza" ],
+			"3" : [ "retorzamos" ],
+			"4" : [ "retorced" ],
+			"5" : [ "retuerzan" ]
+		}
+	}
+}

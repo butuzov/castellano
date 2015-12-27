@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=refreír",
+	"word" : "refreír",
+	"infinitivo" : "refreír",
+	"participio" : [ "refreído", "refrito" ],
+	"gerundio" : [ "refriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "refrío" ],
+			[ "refríes", "refreís" ],
+			[ "refríe" ],
+			[ "refreímos" ],
+			[ "refreís", "refríen" ],
+			[ "refríen" ]
+		],
+		"4" : [
+			[ "refreí" ],
+			[ "refreíste" ],
+			[ "refrió" ],
+			[ "refreímos" ],
+			[ "refreísteis", "refrieron" ],
+			[ "refrieron" ]
+		],
+		"5" : [
+			[ "refreía" ],
+			[ "refreías" ],
+			[ "refreía" ],
+			[ "refreíamos" ],
+			[ "refreíais", "refreían" ],
+			[ "refreían" ]
+		],
+		"6" : [
+			[ "refreiría" ],
+			[ "refreirías" ],
+			[ "refreiría" ],
+			[ "refreiríamos" ],
+			[ "refreiríais", "refreirían" ],
+			[ "refreirían" ]
+		],
+		"7" : [
+			[ "refreiré" ],
+			[ "refreirás" ],
+			[ "refreirá" ],
+			[ "refreiremos" ],
+			[ "refreiréis", "refreirán" ],
+			[ "refreirán" ]
+		],
+		"8" : [
+			[ "refría" ],
+			[ "refrías" ],
+			[ "refría" ],
+			[ "refriamos" ],
+			[ "refriáis", "refrían" ],
+			[ "refrían" ]
+		],
+		"9" : [
+			[ "refriera" ],
+			[ "refrieras" ],
+			[ "refriera" ],
+			[ "refriéramos" ],
+			[ "refrierais", "refrieran" ],
+			[ "refrieran" ]
+		],
+		"10" : [
+			[ "refriese" ],
+			[ "refrieses" ],
+			[ "refriese" ],
+			[ "refriésemos" ],
+			[ "refrieseis", "refriesen" ],
+			[ "refriesen" ]
+		],
+		"11" : [
+			[ "refriere" ],
+			[ "refrieres" ],
+			[ "refriere" ],
+			[ "refriéremos" ],
+			[ "refriereis", "refrieren" ],
+			[ "refrieren" ]
+		],
+		"12" : {
+			"1" : [ "refríe" ],
+			"2" : [ "refría" ],
+			"3" : [ "refriamos" ],
+			"4" : [ "refreíd" ],
+			"5" : [ "refrían" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rasurar",
+	"word" : "rasurar",
+	"infinitivo" : "rasurar",
+	"participio" : [ "rasurado" ],
+	"gerundio" : [ "rasurando" ],
+	"tenses" : {
+		"3" : [
+			[ "rasuro" ],
+			[ "rasuras", "rasurás" ],
+			[ "rasura" ],
+			[ "rasuramos" ],
+			[ "rasuráis", "rasuran" ],
+			[ "rasuran" ]
+		],
+		"4" : [
+			[ "rasuré" ],
+			[ "rasuraste" ],
+			[ "rasuró" ],
+			[ "rasuramos" ],
+			[ "rasurasteis", "rasuraron" ],
+			[ "rasuraron" ]
+		],
+		"5" : [
+			[ "rasuraba" ],
+			[ "rasurabas" ],
+			[ "rasuraba" ],
+			[ "rasurábamos" ],
+			[ "rasurabais", "rasuraban" ],
+			[ "rasuraban" ]
+		],
+		"6" : [
+			[ "rasuraría" ],
+			[ "rasurarías" ],
+			[ "rasuraría" ],
+			[ "rasuraríamos" ],
+			[ "rasuraríais", "rasurarían" ],
+			[ "rasurarían" ]
+		],
+		"7" : [
+			[ "rasuraré" ],
+			[ "rasurarás" ],
+			[ "rasurará" ],
+			[ "rasuraremos" ],
+			[ "rasuraréis", "rasurarán" ],
+			[ "rasurarán" ]
+		],
+		"8" : [
+			[ "rasure" ],
+			[ "rasures" ],
+			[ "rasure" ],
+			[ "rasuremos" ],
+			[ "rasuréis", "rasuren" ],
+			[ "rasuren" ]
+		],
+		"9" : [
+			[ "rasurara" ],
+			[ "rasuraras" ],
+			[ "rasurara" ],
+			[ "rasuráramos" ],
+			[ "rasurarais", "rasuraran" ],
+			[ "rasuraran" ]
+		],
+		"10" : [
+			[ "rasurase" ],
+			[ "rasurases" ],
+			[ "rasurase" ],
+			[ "rasurásemos" ],
+			[ "rasuraseis", "rasurasen" ],
+			[ "rasurasen" ]
+		],
+		"11" : [
+			[ "rasurare" ],
+			[ "rasurares" ],
+			[ "rasurare" ],
+			[ "rasuráremos" ],
+			[ "rasurareis", "rasuraren" ],
+			[ "rasuraren" ]
+		],
+		"12" : {
+			"1" : [ "rasura" ],
+			"2" : [ "rasure" ],
+			"3" : [ "rasuremos" ],
+			"4" : [ "rasurad" ],
+			"5" : [ "rasuren" ]
+		}
+	}
+}

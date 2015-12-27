@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=achacar",
+	"word" : "achacar",
+	"infinitivo" : "achacar",
+	"participio" : [ "achacado" ],
+	"gerundio" : [ "achacando" ],
+	"tenses" : {
+		"3" : [
+			[ "achaco" ],
+			[ "achacas", "achacás" ],
+			[ "achaca" ],
+			[ "achacamos" ],
+			[ "achacáis", "achacan" ],
+			[ "achacan" ]
+		],
+		"4" : [
+			[ "achaqué" ],
+			[ "achacaste" ],
+			[ "achacó" ],
+			[ "achacamos" ],
+			[ "achacasteis", "achacaron" ],
+			[ "achacaron" ]
+		],
+		"5" : [
+			[ "achacaba" ],
+			[ "achacabas" ],
+			[ "achacaba" ],
+			[ "achacábamos" ],
+			[ "achacabais", "achacaban" ],
+			[ "achacaban" ]
+		],
+		"6" : [
+			[ "achacaría" ],
+			[ "achacarías" ],
+			[ "achacaría" ],
+			[ "achacaríamos" ],
+			[ "achacaríais", "achacarían" ],
+			[ "achacarían" ]
+		],
+		"7" : [
+			[ "achacaré" ],
+			[ "achacarás" ],
+			[ "achacará" ],
+			[ "achacaremos" ],
+			[ "achacaréis", "achacarán" ],
+			[ "achacarán" ]
+		],
+		"8" : [
+			[ "achaque" ],
+			[ "achaques" ],
+			[ "achaque" ],
+			[ "achaquemos" ],
+			[ "achaquéis", "achaquen" ],
+			[ "achaquen" ]
+		],
+		"9" : [
+			[ "achacara" ],
+			[ "achacaras" ],
+			[ "achacara" ],
+			[ "achacáramos" ],
+			[ "achacarais", "achacaran" ],
+			[ "achacaran" ]
+		],
+		"10" : [
+			[ "achacase" ],
+			[ "achacases" ],
+			[ "achacase" ],
+			[ "achacásemos" ],
+			[ "achacaseis", "achacasen" ],
+			[ "achacasen" ]
+		],
+		"11" : [
+			[ "achacare" ],
+			[ "achacares" ],
+			[ "achacare" ],
+			[ "achacáremos" ],
+			[ "achacareis", "achacaren" ],
+			[ "achacaren" ]
+		],
+		"12" : {
+			"1" : [ "achaca" ],
+			"2" : [ "achaque" ],
+			"3" : [ "achaquemos" ],
+			"4" : [ "achacad" ],
+			"5" : [ "achaquen" ]
+		}
+	}
+}

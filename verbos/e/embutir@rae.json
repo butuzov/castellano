@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embutir",
+	"word" : "embutir",
+	"infinitivo" : "embutir",
+	"participio" : [ "embutido" ],
+	"gerundio" : [ "embutiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "embuto" ],
+			[ "embutes", "embutís" ],
+			[ "embute" ],
+			[ "embutimos" ],
+			[ "embutís", "embuten" ],
+			[ "embuten" ]
+		],
+		"4" : [
+			[ "embutí" ],
+			[ "embutiste" ],
+			[ "embutió" ],
+			[ "embutimos" ],
+			[ "embutisteis", "embutieron" ],
+			[ "embutieron" ]
+		],
+		"5" : [
+			[ "embutía" ],
+			[ "embutías" ],
+			[ "embutía" ],
+			[ "embutíamos" ],
+			[ "embutíais", "embutían" ],
+			[ "embutían" ]
+		],
+		"6" : [
+			[ "embutiría" ],
+			[ "embutirías" ],
+			[ "embutiría" ],
+			[ "embutiríamos" ],
+			[ "embutiríais", "embutirían" ],
+			[ "embutirían" ]
+		],
+		"7" : [
+			[ "embutiré" ],
+			[ "embutirás" ],
+			[ "embutirá" ],
+			[ "embutiremos" ],
+			[ "embutiréis", "embutirán" ],
+			[ "embutirán" ]
+		],
+		"8" : [
+			[ "embuta" ],
+			[ "embutas" ],
+			[ "embuta" ],
+			[ "embutamos" ],
+			[ "embutáis", "embutan" ],
+			[ "embutan" ]
+		],
+		"9" : [
+			[ "embutiera" ],
+			[ "embutieras" ],
+			[ "embutiera" ],
+			[ "embutiéramos" ],
+			[ "embutierais", "embutieran" ],
+			[ "embutieran" ]
+		],
+		"10" : [
+			[ "embutiese" ],
+			[ "embutieses" ],
+			[ "embutiese" ],
+			[ "embutiésemos" ],
+			[ "embutieseis", "embutiesen" ],
+			[ "embutiesen" ]
+		],
+		"11" : [
+			[ "embutiere" ],
+			[ "embutieres" ],
+			[ "embutiere" ],
+			[ "embutiéremos" ],
+			[ "embutiereis", "embutieren" ],
+			[ "embutieren" ]
+		],
+		"12" : {
+			"1" : [ "embute" ],
+			"2" : [ "embuta" ],
+			"3" : [ "embutamos" ],
+			"4" : [ "embutid" ],
+			"5" : [ "embutan" ]
+		}
+	}
+}

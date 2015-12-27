@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encerar",
+	"word" : "encerar",
+	"infinitivo" : "encerar",
+	"participio" : [ "encerado" ],
+	"gerundio" : [ "encerando" ],
+	"tenses" : {
+		"3" : [
+			[ "encero" ],
+			[ "enceras", "encerás" ],
+			[ "encera" ],
+			[ "enceramos" ],
+			[ "enceráis", "enceran" ],
+			[ "enceran" ]
+		],
+		"4" : [
+			[ "enceré" ],
+			[ "enceraste" ],
+			[ "enceró" ],
+			[ "enceramos" ],
+			[ "encerasteis", "enceraron" ],
+			[ "enceraron" ]
+		],
+		"5" : [
+			[ "enceraba" ],
+			[ "encerabas" ],
+			[ "enceraba" ],
+			[ "encerábamos" ],
+			[ "encerabais", "enceraban" ],
+			[ "enceraban" ]
+		],
+		"6" : [
+			[ "enceraría" ],
+			[ "encerarías" ],
+			[ "enceraría" ],
+			[ "enceraríamos" ],
+			[ "enceraríais", "encerarían" ],
+			[ "encerarían" ]
+		],
+		"7" : [
+			[ "enceraré" ],
+			[ "encerarás" ],
+			[ "encerará" ],
+			[ "enceraremos" ],
+			[ "enceraréis", "encerarán" ],
+			[ "encerarán" ]
+		],
+		"8" : [
+			[ "encere" ],
+			[ "enceres" ],
+			[ "encere" ],
+			[ "enceremos" ],
+			[ "enceréis", "enceren" ],
+			[ "enceren" ]
+		],
+		"9" : [
+			[ "encerara" ],
+			[ "enceraras" ],
+			[ "encerara" ],
+			[ "enceráramos" ],
+			[ "encerarais", "enceraran" ],
+			[ "enceraran" ]
+		],
+		"10" : [
+			[ "encerase" ],
+			[ "encerases" ],
+			[ "encerase" ],
+			[ "encerásemos" ],
+			[ "enceraseis", "encerasen" ],
+			[ "encerasen" ]
+		],
+		"11" : [
+			[ "encerare" ],
+			[ "encerares" ],
+			[ "encerare" ],
+			[ "enceráremos" ],
+			[ "encerareis", "enceraren" ],
+			[ "enceraren" ]
+		],
+		"12" : {
+			"1" : [ "encera" ],
+			"2" : [ "encere" ],
+			"3" : [ "enceremos" ],
+			"4" : [ "encerad" ],
+			"5" : [ "enceren" ]
+		}
+	}
+}

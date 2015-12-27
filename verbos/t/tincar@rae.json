@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tincar",
+	"word" : "tincar",
+	"infinitivo" : "tincar",
+	"participio" : [ "tincado" ],
+	"gerundio" : [ "tincando" ],
+	"tenses" : {
+		"3" : [
+			[ "tinco" ],
+			[ "tincas", "tincás" ],
+			[ "tinca" ],
+			[ "tincamos" ],
+			[ "tincáis", "tincan" ],
+			[ "tincan" ]
+		],
+		"4" : [
+			[ "tinqué" ],
+			[ "tincaste" ],
+			[ "tincó" ],
+			[ "tincamos" ],
+			[ "tincasteis", "tincaron" ],
+			[ "tincaron" ]
+		],
+		"5" : [
+			[ "tincaba" ],
+			[ "tincabas" ],
+			[ "tincaba" ],
+			[ "tincábamos" ],
+			[ "tincabais", "tincaban" ],
+			[ "tincaban" ]
+		],
+		"6" : [
+			[ "tincaría" ],
+			[ "tincarías" ],
+			[ "tincaría" ],
+			[ "tincaríamos" ],
+			[ "tincaríais", "tincarían" ],
+			[ "tincarían" ]
+		],
+		"7" : [
+			[ "tincaré" ],
+			[ "tincarás" ],
+			[ "tincará" ],
+			[ "tincaremos" ],
+			[ "tincaréis", "tincarán" ],
+			[ "tincarán" ]
+		],
+		"8" : [
+			[ "tinque" ],
+			[ "tinques" ],
+			[ "tinque" ],
+			[ "tinquemos" ],
+			[ "tinquéis", "tinquen" ],
+			[ "tinquen" ]
+		],
+		"9" : [
+			[ "tincara" ],
+			[ "tincaras" ],
+			[ "tincara" ],
+			[ "tincáramos" ],
+			[ "tincarais", "tincaran" ],
+			[ "tincaran" ]
+		],
+		"10" : [
+			[ "tincase" ],
+			[ "tincases" ],
+			[ "tincase" ],
+			[ "tincásemos" ],
+			[ "tincaseis", "tincasen" ],
+			[ "tincasen" ]
+		],
+		"11" : [
+			[ "tincare" ],
+			[ "tincares" ],
+			[ "tincare" ],
+			[ "tincáremos" ],
+			[ "tincareis", "tincaren" ],
+			[ "tincaren" ]
+		],
+		"12" : {
+			"1" : [ "tinca" ],
+			"2" : [ "tinque" ],
+			"3" : [ "tinquemos" ],
+			"4" : [ "tincad" ],
+			"5" : [ "tinquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ensillar",
+	"word" : "ensillar",
+	"infinitivo" : "ensillar",
+	"participio" : [ "ensillado" ],
+	"gerundio" : [ "ensillando" ],
+	"tenses" : {
+		"3" : [
+			[ "ensillo" ],
+			[ "ensillas", "ensillás" ],
+			[ "ensilla" ],
+			[ "ensillamos" ],
+			[ "ensilláis", "ensillan" ],
+			[ "ensillan" ]
+		],
+		"4" : [
+			[ "ensillé" ],
+			[ "ensillaste" ],
+			[ "ensilló" ],
+			[ "ensillamos" ],
+			[ "ensillasteis", "ensillaron" ],
+			[ "ensillaron" ]
+		],
+		"5" : [
+			[ "ensillaba" ],
+			[ "ensillabas" ],
+			[ "ensillaba" ],
+			[ "ensillábamos" ],
+			[ "ensillabais", "ensillaban" ],
+			[ "ensillaban" ]
+		],
+		"6" : [
+			[ "ensillaría" ],
+			[ "ensillarías" ],
+			[ "ensillaría" ],
+			[ "ensillaríamos" ],
+			[ "ensillaríais", "ensillarían" ],
+			[ "ensillarían" ]
+		],
+		"7" : [
+			[ "ensillaré" ],
+			[ "ensillarás" ],
+			[ "ensillará" ],
+			[ "ensillaremos" ],
+			[ "ensillaréis", "ensillarán" ],
+			[ "ensillarán" ]
+		],
+		"8" : [
+			[ "ensille" ],
+			[ "ensilles" ],
+			[ "ensille" ],
+			[ "ensillemos" ],
+			[ "ensilléis", "ensillen" ],
+			[ "ensillen" ]
+		],
+		"9" : [
+			[ "ensillara" ],
+			[ "ensillaras" ],
+			[ "ensillara" ],
+			[ "ensilláramos" ],
+			[ "ensillarais", "ensillaran" ],
+			[ "ensillaran" ]
+		],
+		"10" : [
+			[ "ensillase" ],
+			[ "ensillases" ],
+			[ "ensillase" ],
+			[ "ensillásemos" ],
+			[ "ensillaseis", "ensillasen" ],
+			[ "ensillasen" ]
+		],
+		"11" : [
+			[ "ensillare" ],
+			[ "ensillares" ],
+			[ "ensillare" ],
+			[ "ensilláremos" ],
+			[ "ensillareis", "ensillaren" ],
+			[ "ensillaren" ]
+		],
+		"12" : {
+			"1" : [ "ensilla" ],
+			"2" : [ "ensille" ],
+			"3" : [ "ensillemos" ],
+			"4" : [ "ensillad" ],
+			"5" : [ "ensillen" ]
+		}
+	}
+}

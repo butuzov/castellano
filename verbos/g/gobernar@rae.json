@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gobernar",
+	"word" : "gobernar",
+	"infinitivo" : "gobernar",
+	"participio" : [ "gobernado" ],
+	"gerundio" : [ "gobernando" ],
+	"tenses" : {
+		"3" : [
+			[ "gobierno" ],
+			[ "gobiernas", "gobernás" ],
+			[ "gobierna" ],
+			[ "gobernamos" ],
+			[ "gobernáis", "gobiernan" ],
+			[ "gobiernan" ]
+		],
+		"4" : [
+			[ "goberné" ],
+			[ "gobernaste" ],
+			[ "gobernó" ],
+			[ "gobernamos" ],
+			[ "gobernasteis", "gobernaron" ],
+			[ "gobernaron" ]
+		],
+		"5" : [
+			[ "gobernaba" ],
+			[ "gobernabas" ],
+			[ "gobernaba" ],
+			[ "gobernábamos" ],
+			[ "gobernabais", "gobernaban" ],
+			[ "gobernaban" ]
+		],
+		"6" : [
+			[ "gobernaría" ],
+			[ "gobernarías" ],
+			[ "gobernaría" ],
+			[ "gobernaríamos" ],
+			[ "gobernaríais", "gobernarían" ],
+			[ "gobernarían" ]
+		],
+		"7" : [
+			[ "gobernaré" ],
+			[ "gobernarás" ],
+			[ "gobernará" ],
+			[ "gobernaremos" ],
+			[ "gobernaréis", "gobernarán" ],
+			[ "gobernarán" ]
+		],
+		"8" : [
+			[ "gobierne" ],
+			[ "gobiernes" ],
+			[ "gobierne" ],
+			[ "gobernemos" ],
+			[ "gobernéis", "gobiernen" ],
+			[ "gobiernen" ]
+		],
+		"9" : [
+			[ "gobernara" ],
+			[ "gobernaras" ],
+			[ "gobernara" ],
+			[ "gobernáramos" ],
+			[ "gobernarais", "gobernaran" ],
+			[ "gobernaran" ]
+		],
+		"10" : [
+			[ "gobernase" ],
+			[ "gobernases" ],
+			[ "gobernase" ],
+			[ "gobernásemos" ],
+			[ "gobernaseis", "gobernasen" ],
+			[ "gobernasen" ]
+		],
+		"11" : [
+			[ "gobernare" ],
+			[ "gobernares" ],
+			[ "gobernare" ],
+			[ "gobernáremos" ],
+			[ "gobernareis", "gobernaren" ],
+			[ "gobernaren" ]
+		],
+		"12" : {
+			"1" : [ "gobierna" ],
+			"2" : [ "gobierne" ],
+			"3" : [ "gobernemos" ],
+			"4" : [ "gobernad" ],
+			"5" : [ "gobiernen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmarcar",
+	"word" : "desmarcar",
+	"infinitivo" : "desmarcar",
+	"participio" : [ "desmarcado" ],
+	"gerundio" : [ "desmarcando" ],
+	"tenses" : {
+		"3" : [
+			[ "desmarco" ],
+			[ "desmarcas", "desmarcás" ],
+			[ "desmarca" ],
+			[ "desmarcamos" ],
+			[ "desmarcáis", "desmarcan" ],
+			[ "desmarcan" ]
+		],
+		"4" : [
+			[ "desmarqué" ],
+			[ "desmarcaste" ],
+			[ "desmarcó" ],
+			[ "desmarcamos" ],
+			[ "desmarcasteis", "desmarcaron" ],
+			[ "desmarcaron" ]
+		],
+		"5" : [
+			[ "desmarcaba" ],
+			[ "desmarcabas" ],
+			[ "desmarcaba" ],
+			[ "desmarcábamos" ],
+			[ "desmarcabais", "desmarcaban" ],
+			[ "desmarcaban" ]
+		],
+		"6" : [
+			[ "desmarcaría" ],
+			[ "desmarcarías" ],
+			[ "desmarcaría" ],
+			[ "desmarcaríamos" ],
+			[ "desmarcaríais", "desmarcarían" ],
+			[ "desmarcarían" ]
+		],
+		"7" : [
+			[ "desmarcaré" ],
+			[ "desmarcarás" ],
+			[ "desmarcará" ],
+			[ "desmarcaremos" ],
+			[ "desmarcaréis", "desmarcarán" ],
+			[ "desmarcarán" ]
+		],
+		"8" : [
+			[ "desmarque" ],
+			[ "desmarques" ],
+			[ "desmarque" ],
+			[ "desmarquemos" ],
+			[ "desmarquéis", "desmarquen" ],
+			[ "desmarquen" ]
+		],
+		"9" : [
+			[ "desmarcara" ],
+			[ "desmarcaras" ],
+			[ "desmarcara" ],
+			[ "desmarcáramos" ],
+			[ "desmarcarais", "desmarcaran" ],
+			[ "desmarcaran" ]
+		],
+		"10" : [
+			[ "desmarcase" ],
+			[ "desmarcases" ],
+			[ "desmarcase" ],
+			[ "desmarcásemos" ],
+			[ "desmarcaseis", "desmarcasen" ],
+			[ "desmarcasen" ]
+		],
+		"11" : [
+			[ "desmarcare" ],
+			[ "desmarcares" ],
+			[ "desmarcare" ],
+			[ "desmarcáremos" ],
+			[ "desmarcareis", "desmarcaren" ],
+			[ "desmarcaren" ]
+		],
+		"12" : {
+			"1" : [ "desmarca" ],
+			"2" : [ "desmarque" ],
+			"3" : [ "desmarquemos" ],
+			"4" : [ "desmarcad" ],
+			"5" : [ "desmarquen" ]
+		}
+	}
+}

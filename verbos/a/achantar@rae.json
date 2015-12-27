@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=achantar",
+	"word" : "achantar",
+	"infinitivo" : "achantar",
+	"participio" : [ "achantado" ],
+	"gerundio" : [ "achantando" ],
+	"tenses" : {
+		"3" : [
+			[ "achanto" ],
+			[ "achantas", "achantás" ],
+			[ "achanta" ],
+			[ "achantamos" ],
+			[ "achantáis", "achantan" ],
+			[ "achantan" ]
+		],
+		"4" : [
+			[ "achanté" ],
+			[ "achantaste" ],
+			[ "achantó" ],
+			[ "achantamos" ],
+			[ "achantasteis", "achantaron" ],
+			[ "achantaron" ]
+		],
+		"5" : [
+			[ "achantaba" ],
+			[ "achantabas" ],
+			[ "achantaba" ],
+			[ "achantábamos" ],
+			[ "achantabais", "achantaban" ],
+			[ "achantaban" ]
+		],
+		"6" : [
+			[ "achantaría" ],
+			[ "achantarías" ],
+			[ "achantaría" ],
+			[ "achantaríamos" ],
+			[ "achantaríais", "achantarían" ],
+			[ "achantarían" ]
+		],
+		"7" : [
+			[ "achantaré" ],
+			[ "achantarás" ],
+			[ "achantará" ],
+			[ "achantaremos" ],
+			[ "achantaréis", "achantarán" ],
+			[ "achantarán" ]
+		],
+		"8" : [
+			[ "achante" ],
+			[ "achantes" ],
+			[ "achante" ],
+			[ "achantemos" ],
+			[ "achantéis", "achanten" ],
+			[ "achanten" ]
+		],
+		"9" : [
+			[ "achantara" ],
+			[ "achantaras" ],
+			[ "achantara" ],
+			[ "achantáramos" ],
+			[ "achantarais", "achantaran" ],
+			[ "achantaran" ]
+		],
+		"10" : [
+			[ "achantase" ],
+			[ "achantases" ],
+			[ "achantase" ],
+			[ "achantásemos" ],
+			[ "achantaseis", "achantasen" ],
+			[ "achantasen" ]
+		],
+		"11" : [
+			[ "achantare" ],
+			[ "achantares" ],
+			[ "achantare" ],
+			[ "achantáremos" ],
+			[ "achantareis", "achantaren" ],
+			[ "achantaren" ]
+		],
+		"12" : {
+			"1" : [ "achanta" ],
+			"2" : [ "achante" ],
+			"3" : [ "achantemos" ],
+			"4" : [ "achantad" ],
+			"5" : [ "achanten" ]
+		}
+	}
+}

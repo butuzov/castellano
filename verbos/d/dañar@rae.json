@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dañar",
+	"word" : "dañar",
+	"infinitivo" : "dañar",
+	"participio" : [ "dañado" ],
+	"gerundio" : [ "dañando" ],
+	"tenses" : {
+		"3" : [
+			[ "daño" ],
+			[ "dañas", "dañás" ],
+			[ "daña" ],
+			[ "dañamos" ],
+			[ "dañáis", "dañan" ],
+			[ "dañan" ]
+		],
+		"4" : [
+			[ "dañé" ],
+			[ "dañaste" ],
+			[ "dañó" ],
+			[ "dañamos" ],
+			[ "dañasteis", "dañaron" ],
+			[ "dañaron" ]
+		],
+		"5" : [
+			[ "dañaba" ],
+			[ "dañabas" ],
+			[ "dañaba" ],
+			[ "dañábamos" ],
+			[ "dañabais", "dañaban" ],
+			[ "dañaban" ]
+		],
+		"6" : [
+			[ "dañaría" ],
+			[ "dañarías" ],
+			[ "dañaría" ],
+			[ "dañaríamos" ],
+			[ "dañaríais", "dañarían" ],
+			[ "dañarían" ]
+		],
+		"7" : [
+			[ "dañaré" ],
+			[ "dañarás" ],
+			[ "dañará" ],
+			[ "dañaremos" ],
+			[ "dañaréis", "dañarán" ],
+			[ "dañarán" ]
+		],
+		"8" : [
+			[ "dañe" ],
+			[ "dañes" ],
+			[ "dañe" ],
+			[ "dañemos" ],
+			[ "dañéis", "dañen" ],
+			[ "dañen" ]
+		],
+		"9" : [
+			[ "dañara" ],
+			[ "dañaras" ],
+			[ "dañara" ],
+			[ "dañáramos" ],
+			[ "dañarais", "dañaran" ],
+			[ "dañaran" ]
+		],
+		"10" : [
+			[ "dañase" ],
+			[ "dañases" ],
+			[ "dañase" ],
+			[ "dañásemos" ],
+			[ "dañaseis", "dañasen" ],
+			[ "dañasen" ]
+		],
+		"11" : [
+			[ "dañare" ],
+			[ "dañares" ],
+			[ "dañare" ],
+			[ "dañáremos" ],
+			[ "dañareis", "dañaren" ],
+			[ "dañaren" ]
+		],
+		"12" : {
+			"1" : [ "daña" ],
+			"2" : [ "dañe" ],
+			"3" : [ "dañemos" ],
+			"4" : [ "dañad" ],
+			"5" : [ "dañen" ]
+		}
+	}
+}

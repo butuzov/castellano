@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rajar",
+	"word" : "rajar",
+	"infinitivo" : "rajar",
+	"participio" : [ "rajado" ],
+	"gerundio" : [ "rajando" ],
+	"tenses" : {
+		"3" : [
+			[ "rajo" ],
+			[ "rajas", "rajás" ],
+			[ "raja" ],
+			[ "rajamos" ],
+			[ "rajáis", "rajan" ],
+			[ "rajan" ]
+		],
+		"4" : [
+			[ "rajé" ],
+			[ "rajaste" ],
+			[ "rajó" ],
+			[ "rajamos" ],
+			[ "rajasteis", "rajaron" ],
+			[ "rajaron" ]
+		],
+		"5" : [
+			[ "rajaba" ],
+			[ "rajabas" ],
+			[ "rajaba" ],
+			[ "rajábamos" ],
+			[ "rajabais", "rajaban" ],
+			[ "rajaban" ]
+		],
+		"6" : [
+			[ "rajaría" ],
+			[ "rajarías" ],
+			[ "rajaría" ],
+			[ "rajaríamos" ],
+			[ "rajaríais", "rajarían" ],
+			[ "rajarían" ]
+		],
+		"7" : [
+			[ "rajaré" ],
+			[ "rajarás" ],
+			[ "rajará" ],
+			[ "rajaremos" ],
+			[ "rajaréis", "rajarán" ],
+			[ "rajarán" ]
+		],
+		"8" : [
+			[ "raje" ],
+			[ "rajes" ],
+			[ "raje" ],
+			[ "rajemos" ],
+			[ "rajéis", "rajen" ],
+			[ "rajen" ]
+		],
+		"9" : [
+			[ "rajara" ],
+			[ "rajaras" ],
+			[ "rajara" ],
+			[ "rajáramos" ],
+			[ "rajarais", "rajaran" ],
+			[ "rajaran" ]
+		],
+		"10" : [
+			[ "rajase" ],
+			[ "rajases" ],
+			[ "rajase" ],
+			[ "rajásemos" ],
+			[ "rajaseis", "rajasen" ],
+			[ "rajasen" ]
+		],
+		"11" : [
+			[ "rajare" ],
+			[ "rajares" ],
+			[ "rajare" ],
+			[ "rajáremos" ],
+			[ "rajareis", "rajaren" ],
+			[ "rajaren" ]
+		],
+		"12" : {
+			"1" : [ "raja" ],
+			"2" : [ "raje" ],
+			"3" : [ "rajemos" ],
+			"4" : [ "rajad" ],
+			"5" : [ "rajen" ]
+		}
+	}
+}

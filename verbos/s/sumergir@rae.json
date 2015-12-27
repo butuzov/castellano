@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sumergir",
+	"word" : "sumergir",
+	"infinitivo" : "sumergir",
+	"participio" : [ "sumergido" ],
+	"gerundio" : [ "sumergiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sumerjo" ],
+			[ "sumerges", "sumergís" ],
+			[ "sumerge" ],
+			[ "sumergimos" ],
+			[ "sumergís", "sumergen" ],
+			[ "sumergen" ]
+		],
+		"4" : [
+			[ "sumergí" ],
+			[ "sumergiste" ],
+			[ "sumergió" ],
+			[ "sumergimos" ],
+			[ "sumergisteis", "sumergieron" ],
+			[ "sumergieron" ]
+		],
+		"5" : [
+			[ "sumergía" ],
+			[ "sumergías" ],
+			[ "sumergía" ],
+			[ "sumergíamos" ],
+			[ "sumergíais", "sumergían" ],
+			[ "sumergían" ]
+		],
+		"6" : [
+			[ "sumergiría" ],
+			[ "sumergirías" ],
+			[ "sumergiría" ],
+			[ "sumergiríamos" ],
+			[ "sumergiríais", "sumergirían" ],
+			[ "sumergirían" ]
+		],
+		"7" : [
+			[ "sumergiré" ],
+			[ "sumergirás" ],
+			[ "sumergirá" ],
+			[ "sumergiremos" ],
+			[ "sumergiréis", "sumergirán" ],
+			[ "sumergirán" ]
+		],
+		"8" : [
+			[ "sumerja" ],
+			[ "sumerjas" ],
+			[ "sumerja" ],
+			[ "sumerjamos" ],
+			[ "sumerjáis", "sumerjan" ],
+			[ "sumerjan" ]
+		],
+		"9" : [
+			[ "sumergiera" ],
+			[ "sumergieras" ],
+			[ "sumergiera" ],
+			[ "sumergiéramos" ],
+			[ "sumergierais", "sumergieran" ],
+			[ "sumergieran" ]
+		],
+		"10" : [
+			[ "sumergiese" ],
+			[ "sumergieses" ],
+			[ "sumergiese" ],
+			[ "sumergiésemos" ],
+			[ "sumergieseis", "sumergiesen" ],
+			[ "sumergiesen" ]
+		],
+		"11" : [
+			[ "sumergiere" ],
+			[ "sumergieres" ],
+			[ "sumergiere" ],
+			[ "sumergiéremos" ],
+			[ "sumergiereis", "sumergieren" ],
+			[ "sumergieren" ]
+		],
+		"12" : {
+			"1" : [ "sumerge" ],
+			"2" : [ "sumerja" ],
+			"3" : [ "sumerjamos" ],
+			"4" : [ "sumergid" ],
+			"5" : [ "sumerjan" ]
+		}
+	}
+}

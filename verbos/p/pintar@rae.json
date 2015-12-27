@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pintar",
+	"word" : "pintar",
+	"infinitivo" : "pintar",
+	"participio" : [ "pintado" ],
+	"gerundio" : [ "pintando" ],
+	"tenses" : {
+		"3" : [
+			[ "pinto" ],
+			[ "pintas", "pintás" ],
+			[ "pinta" ],
+			[ "pintamos" ],
+			[ "pintáis", "pintan" ],
+			[ "pintan" ]
+		],
+		"4" : [
+			[ "pinté" ],
+			[ "pintaste" ],
+			[ "pintó" ],
+			[ "pintamos" ],
+			[ "pintasteis", "pintaron" ],
+			[ "pintaron" ]
+		],
+		"5" : [
+			[ "pintaba" ],
+			[ "pintabas" ],
+			[ "pintaba" ],
+			[ "pintábamos" ],
+			[ "pintabais", "pintaban" ],
+			[ "pintaban" ]
+		],
+		"6" : [
+			[ "pintaría" ],
+			[ "pintarías" ],
+			[ "pintaría" ],
+			[ "pintaríamos" ],
+			[ "pintaríais", "pintarían" ],
+			[ "pintarían" ]
+		],
+		"7" : [
+			[ "pintaré" ],
+			[ "pintarás" ],
+			[ "pintará" ],
+			[ "pintaremos" ],
+			[ "pintaréis", "pintarán" ],
+			[ "pintarán" ]
+		],
+		"8" : [
+			[ "pinte" ],
+			[ "pintes" ],
+			[ "pinte" ],
+			[ "pintemos" ],
+			[ "pintéis", "pinten" ],
+			[ "pinten" ]
+		],
+		"9" : [
+			[ "pintara" ],
+			[ "pintaras" ],
+			[ "pintara" ],
+			[ "pintáramos" ],
+			[ "pintarais", "pintaran" ],
+			[ "pintaran" ]
+		],
+		"10" : [
+			[ "pintase" ],
+			[ "pintases" ],
+			[ "pintase" ],
+			[ "pintásemos" ],
+			[ "pintaseis", "pintasen" ],
+			[ "pintasen" ]
+		],
+		"11" : [
+			[ "pintare" ],
+			[ "pintares" ],
+			[ "pintare" ],
+			[ "pintáremos" ],
+			[ "pintareis", "pintaren" ],
+			[ "pintaren" ]
+		],
+		"12" : {
+			"1" : [ "pinta" ],
+			"2" : [ "pinte" ],
+			"3" : [ "pintemos" ],
+			"4" : [ "pintad" ],
+			"5" : [ "pinten" ]
+		}
+	}
+}

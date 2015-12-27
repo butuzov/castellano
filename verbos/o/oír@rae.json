@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=oír",
+	"word" : "oír",
+	"infinitivo" : "oír",
+	"participio" : [ "oído" ],
+	"gerundio" : [ "oyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "oigo" ],
+			[ "oyes", "oís" ],
+			[ "oye" ],
+			[ "oímos" ],
+			[ "oís", "oyen" ],
+			[ "oyen" ]
+		],
+		"4" : [
+			[ "oí" ],
+			[ "oíste" ],
+			[ "oyó" ],
+			[ "oímos" ],
+			[ "oísteis", "oyeron" ],
+			[ "oyeron" ]
+		],
+		"5" : [
+			[ "oía" ],
+			[ "oías" ],
+			[ "oía" ],
+			[ "oíamos" ],
+			[ "oíais", "oían" ],
+			[ "oían" ]
+		],
+		"6" : [
+			[ "oiría" ],
+			[ "oirías" ],
+			[ "oiría" ],
+			[ "oiríamos" ],
+			[ "oiríais", "oirían" ],
+			[ "oirían" ]
+		],
+		"7" : [
+			[ "oiré" ],
+			[ "oirás" ],
+			[ "oirá" ],
+			[ "oiremos" ],
+			[ "oiréis", "oirán" ],
+			[ "oirán" ]
+		],
+		"8" : [
+			[ "oiga" ],
+			[ "oigas" ],
+			[ "oiga" ],
+			[ "oigamos" ],
+			[ "oigáis", "oigan" ],
+			[ "oigan" ]
+		],
+		"9" : [
+			[ "oyera" ],
+			[ "oyeras" ],
+			[ "oyera" ],
+			[ "oyéramos" ],
+			[ "oyerais", "oyeran" ],
+			[ "oyeran" ]
+		],
+		"10" : [
+			[ "oyese" ],
+			[ "oyeses" ],
+			[ "oyese" ],
+			[ "oyésemos" ],
+			[ "oyeseis", "oyesen" ],
+			[ "oyesen" ]
+		],
+		"11" : [
+			[ "oyere" ],
+			[ "oyeres" ],
+			[ "oyere" ],
+			[ "oyéremos" ],
+			[ "oyereis", "oyeren" ],
+			[ "oyeren" ]
+		],
+		"12" : {
+			"1" : [ "oye" ],
+			"2" : [ "oiga" ],
+			"3" : [ "oigamos" ],
+			"4" : [ "oíd" ],
+			"5" : [ "oigan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aclamar",
+	"word" : "aclamar",
+	"infinitivo" : "aclamar",
+	"participio" : [ "aclamado" ],
+	"gerundio" : [ "aclamando" ],
+	"tenses" : {
+		"3" : [
+			[ "aclamo" ],
+			[ "aclamas", "aclamás" ],
+			[ "aclama" ],
+			[ "aclamamos" ],
+			[ "aclamáis", "aclaman" ],
+			[ "aclaman" ]
+		],
+		"4" : [
+			[ "aclamé" ],
+			[ "aclamaste" ],
+			[ "aclamó" ],
+			[ "aclamamos" ],
+			[ "aclamasteis", "aclamaron" ],
+			[ "aclamaron" ]
+		],
+		"5" : [
+			[ "aclamaba" ],
+			[ "aclamabas" ],
+			[ "aclamaba" ],
+			[ "aclamábamos" ],
+			[ "aclamabais", "aclamaban" ],
+			[ "aclamaban" ]
+		],
+		"6" : [
+			[ "aclamaría" ],
+			[ "aclamarías" ],
+			[ "aclamaría" ],
+			[ "aclamaríamos" ],
+			[ "aclamaríais", "aclamarían" ],
+			[ "aclamarían" ]
+		],
+		"7" : [
+			[ "aclamaré" ],
+			[ "aclamarás" ],
+			[ "aclamará" ],
+			[ "aclamaremos" ],
+			[ "aclamaréis", "aclamarán" ],
+			[ "aclamarán" ]
+		],
+		"8" : [
+			[ "aclame" ],
+			[ "aclames" ],
+			[ "aclame" ],
+			[ "aclamemos" ],
+			[ "aclaméis", "aclamen" ],
+			[ "aclamen" ]
+		],
+		"9" : [
+			[ "aclamara" ],
+			[ "aclamaras" ],
+			[ "aclamara" ],
+			[ "aclamáramos" ],
+			[ "aclamarais", "aclamaran" ],
+			[ "aclamaran" ]
+		],
+		"10" : [
+			[ "aclamase" ],
+			[ "aclamases" ],
+			[ "aclamase" ],
+			[ "aclamásemos" ],
+			[ "aclamaseis", "aclamasen" ],
+			[ "aclamasen" ]
+		],
+		"11" : [
+			[ "aclamare" ],
+			[ "aclamares" ],
+			[ "aclamare" ],
+			[ "aclamáremos" ],
+			[ "aclamareis", "aclamaren" ],
+			[ "aclamaren" ]
+		],
+		"12" : {
+			"1" : [ "aclama" ],
+			"2" : [ "aclame" ],
+			"3" : [ "aclamemos" ],
+			"4" : [ "aclamad" ],
+			"5" : [ "aclamen" ]
+		}
+	}
+}

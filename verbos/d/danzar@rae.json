@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=danzar",
+	"word" : "danzar",
+	"infinitivo" : "danzar",
+	"participio" : [ "danzado" ],
+	"gerundio" : [ "danzando" ],
+	"tenses" : {
+		"3" : [
+			[ "danzo" ],
+			[ "danzas", "danzás" ],
+			[ "danza" ],
+			[ "danzamos" ],
+			[ "danzáis", "danzan" ],
+			[ "danzan" ]
+		],
+		"4" : [
+			[ "dancé" ],
+			[ "danzaste" ],
+			[ "danzó" ],
+			[ "danzamos" ],
+			[ "danzasteis", "danzaron" ],
+			[ "danzaron" ]
+		],
+		"5" : [
+			[ "danzaba" ],
+			[ "danzabas" ],
+			[ "danzaba" ],
+			[ "danzábamos" ],
+			[ "danzabais", "danzaban" ],
+			[ "danzaban" ]
+		],
+		"6" : [
+			[ "danzaría" ],
+			[ "danzarías" ],
+			[ "danzaría" ],
+			[ "danzaríamos" ],
+			[ "danzaríais", "danzarían" ],
+			[ "danzarían" ]
+		],
+		"7" : [
+			[ "danzaré" ],
+			[ "danzarás" ],
+			[ "danzará" ],
+			[ "danzaremos" ],
+			[ "danzaréis", "danzarán" ],
+			[ "danzarán" ]
+		],
+		"8" : [
+			[ "dance" ],
+			[ "dances" ],
+			[ "dance" ],
+			[ "dancemos" ],
+			[ "dancéis", "dancen" ],
+			[ "dancen" ]
+		],
+		"9" : [
+			[ "danzara" ],
+			[ "danzaras" ],
+			[ "danzara" ],
+			[ "danzáramos" ],
+			[ "danzarais", "danzaran" ],
+			[ "danzaran" ]
+		],
+		"10" : [
+			[ "danzase" ],
+			[ "danzases" ],
+			[ "danzase" ],
+			[ "danzásemos" ],
+			[ "danzaseis", "danzasen" ],
+			[ "danzasen" ]
+		],
+		"11" : [
+			[ "danzare" ],
+			[ "danzares" ],
+			[ "danzare" ],
+			[ "danzáremos" ],
+			[ "danzareis", "danzaren" ],
+			[ "danzaren" ]
+		],
+		"12" : {
+			"1" : [ "danza" ],
+			"2" : [ "dance" ],
+			"3" : [ "dancemos" ],
+			"4" : [ "danzad" ],
+			"5" : [ "dancen" ]
+		}
+	}
+}

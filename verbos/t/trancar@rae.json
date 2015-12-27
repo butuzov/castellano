@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trancar",
+	"word" : "trancar",
+	"infinitivo" : "trancar",
+	"participio" : [ "trancado" ],
+	"gerundio" : [ "trancando" ],
+	"tenses" : {
+		"3" : [
+			[ "tranco" ],
+			[ "trancas", "trancás" ],
+			[ "tranca" ],
+			[ "trancamos" ],
+			[ "trancáis", "trancan" ],
+			[ "trancan" ]
+		],
+		"4" : [
+			[ "tranqué" ],
+			[ "trancaste" ],
+			[ "trancó" ],
+			[ "trancamos" ],
+			[ "trancasteis", "trancaron" ],
+			[ "trancaron" ]
+		],
+		"5" : [
+			[ "trancaba" ],
+			[ "trancabas" ],
+			[ "trancaba" ],
+			[ "trancábamos" ],
+			[ "trancabais", "trancaban" ],
+			[ "trancaban" ]
+		],
+		"6" : [
+			[ "trancaría" ],
+			[ "trancarías" ],
+			[ "trancaría" ],
+			[ "trancaríamos" ],
+			[ "trancaríais", "trancarían" ],
+			[ "trancarían" ]
+		],
+		"7" : [
+			[ "trancaré" ],
+			[ "trancarás" ],
+			[ "trancará" ],
+			[ "trancaremos" ],
+			[ "trancaréis", "trancarán" ],
+			[ "trancarán" ]
+		],
+		"8" : [
+			[ "tranque" ],
+			[ "tranques" ],
+			[ "tranque" ],
+			[ "tranquemos" ],
+			[ "tranquéis", "tranquen" ],
+			[ "tranquen" ]
+		],
+		"9" : [
+			[ "trancara" ],
+			[ "trancaras" ],
+			[ "trancara" ],
+			[ "trancáramos" ],
+			[ "trancarais", "trancaran" ],
+			[ "trancaran" ]
+		],
+		"10" : [
+			[ "trancase" ],
+			[ "trancases" ],
+			[ "trancase" ],
+			[ "trancásemos" ],
+			[ "trancaseis", "trancasen" ],
+			[ "trancasen" ]
+		],
+		"11" : [
+			[ "trancare" ],
+			[ "trancares" ],
+			[ "trancare" ],
+			[ "trancáremos" ],
+			[ "trancareis", "trancaren" ],
+			[ "trancaren" ]
+		],
+		"12" : {
+			"1" : [ "tranca" ],
+			"2" : [ "tranque" ],
+			"3" : [ "tranquemos" ],
+			"4" : [ "trancad" ],
+			"5" : [ "tranquen" ]
+		}
+	}
+}

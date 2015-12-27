@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abarrancar",
+	"word" : "abarrancar",
+	"infinitivo" : "abarrancar",
+	"participio" : [ "abarrancado" ],
+	"gerundio" : [ "abarrancando" ],
+	"tenses" : {
+		"3" : [
+			[ "abarranco" ],
+			[ "abarrancas", "abarrancás" ],
+			[ "abarranca" ],
+			[ "abarrancamos" ],
+			[ "abarrancáis", "abarrancan" ],
+			[ "abarrancan" ]
+		],
+		"4" : [
+			[ "abarranqué" ],
+			[ "abarrancaste" ],
+			[ "abarrancó" ],
+			[ "abarrancamos" ],
+			[ "abarrancasteis", "abarrancaron" ],
+			[ "abarrancaron" ]
+		],
+		"5" : [
+			[ "abarrancaba" ],
+			[ "abarrancabas" ],
+			[ "abarrancaba" ],
+			[ "abarrancábamos" ],
+			[ "abarrancabais", "abarrancaban" ],
+			[ "abarrancaban" ]
+		],
+		"6" : [
+			[ "abarrancaría" ],
+			[ "abarrancarías" ],
+			[ "abarrancaría" ],
+			[ "abarrancaríamos" ],
+			[ "abarrancaríais", "abarrancarían" ],
+			[ "abarrancarían" ]
+		],
+		"7" : [
+			[ "abarrancaré" ],
+			[ "abarrancarás" ],
+			[ "abarrancará" ],
+			[ "abarrancaremos" ],
+			[ "abarrancaréis", "abarrancarán" ],
+			[ "abarrancarán" ]
+		],
+		"8" : [
+			[ "abarranque" ],
+			[ "abarranques" ],
+			[ "abarranque" ],
+			[ "abarranquemos" ],
+			[ "abarranquéis", "abarranquen" ],
+			[ "abarranquen" ]
+		],
+		"9" : [
+			[ "abarrancara" ],
+			[ "abarrancaras" ],
+			[ "abarrancara" ],
+			[ "abarrancáramos" ],
+			[ "abarrancarais", "abarrancaran" ],
+			[ "abarrancaran" ]
+		],
+		"10" : [
+			[ "abarrancase" ],
+			[ "abarrancases" ],
+			[ "abarrancase" ],
+			[ "abarrancásemos" ],
+			[ "abarrancaseis", "abarrancasen" ],
+			[ "abarrancasen" ]
+		],
+		"11" : [
+			[ "abarrancare" ],
+			[ "abarrancares" ],
+			[ "abarrancare" ],
+			[ "abarrancáremos" ],
+			[ "abarrancareis", "abarrancaren" ],
+			[ "abarrancaren" ]
+		],
+		"12" : {
+			"1" : [ "abarranca" ],
+			"2" : [ "abarranque" ],
+			"3" : [ "abarranquemos" ],
+			"4" : [ "abarrancad" ],
+			"5" : [ "abarranquen" ]
+		}
+	}
+}

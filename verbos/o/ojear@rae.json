@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ojear",
+	"word" : "ojear",
+	"infinitivo" : "ojear",
+	"participio" : [ "ojeado" ],
+	"gerundio" : [ "ojeando" ],
+	"tenses" : {
+		"3" : [
+			[ "ojeo" ],
+			[ "ojeas", "ojeás" ],
+			[ "ojea" ],
+			[ "ojeamos" ],
+			[ "ojeáis", "ojean" ],
+			[ "ojean" ]
+		],
+		"4" : [
+			[ "ojeé" ],
+			[ "ojeaste" ],
+			[ "ojeó" ],
+			[ "ojeamos" ],
+			[ "ojeasteis", "ojearon" ],
+			[ "ojearon" ]
+		],
+		"5" : [
+			[ "ojeaba" ],
+			[ "ojeabas" ],
+			[ "ojeaba" ],
+			[ "ojeábamos" ],
+			[ "ojeabais", "ojeaban" ],
+			[ "ojeaban" ]
+		],
+		"6" : [
+			[ "ojearía" ],
+			[ "ojearías" ],
+			[ "ojearía" ],
+			[ "ojearíamos" ],
+			[ "ojearíais", "ojearían" ],
+			[ "ojearían" ]
+		],
+		"7" : [
+			[ "ojearé" ],
+			[ "ojearás" ],
+			[ "ojeará" ],
+			[ "ojearemos" ],
+			[ "ojearéis", "ojearán" ],
+			[ "ojearán" ]
+		],
+		"8" : [
+			[ "ojee" ],
+			[ "ojees" ],
+			[ "ojee" ],
+			[ "ojeemos" ],
+			[ "ojeéis", "ojeen" ],
+			[ "ojeen" ]
+		],
+		"9" : [
+			[ "ojeara" ],
+			[ "ojearas" ],
+			[ "ojeara" ],
+			[ "ojeáramos" ],
+			[ "ojearais", "ojearan" ],
+			[ "ojearan" ]
+		],
+		"10" : [
+			[ "ojease" ],
+			[ "ojeases" ],
+			[ "ojease" ],
+			[ "ojeásemos" ],
+			[ "ojeaseis", "ojeasen" ],
+			[ "ojeasen" ]
+		],
+		"11" : [
+			[ "ojeare" ],
+			[ "ojeares" ],
+			[ "ojeare" ],
+			[ "ojeáremos" ],
+			[ "ojeareis", "ojearen" ],
+			[ "ojearen" ]
+		],
+		"12" : {
+			"1" : [ "ojea" ],
+			"2" : [ "ojee" ],
+			"3" : [ "ojeemos" ],
+			"4" : [ "ojead" ],
+			"5" : [ "ojeen" ]
+		}
+	}
+}

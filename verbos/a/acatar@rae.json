@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acatar",
+	"word" : "acatar",
+	"infinitivo" : "acatar",
+	"participio" : [ "acatado" ],
+	"gerundio" : [ "acatando" ],
+	"tenses" : {
+		"3" : [
+			[ "acato" ],
+			[ "acatas", "acatás" ],
+			[ "acata" ],
+			[ "acatamos" ],
+			[ "acatáis", "acatan" ],
+			[ "acatan" ]
+		],
+		"4" : [
+			[ "acaté" ],
+			[ "acataste" ],
+			[ "acató" ],
+			[ "acatamos" ],
+			[ "acatasteis", "acataron" ],
+			[ "acataron" ]
+		],
+		"5" : [
+			[ "acataba" ],
+			[ "acatabas" ],
+			[ "acataba" ],
+			[ "acatábamos" ],
+			[ "acatabais", "acataban" ],
+			[ "acataban" ]
+		],
+		"6" : [
+			[ "acataría" ],
+			[ "acatarías" ],
+			[ "acataría" ],
+			[ "acataríamos" ],
+			[ "acataríais", "acatarían" ],
+			[ "acatarían" ]
+		],
+		"7" : [
+			[ "acataré" ],
+			[ "acatarás" ],
+			[ "acatará" ],
+			[ "acataremos" ],
+			[ "acataréis", "acatarán" ],
+			[ "acatarán" ]
+		],
+		"8" : [
+			[ "acate" ],
+			[ "acates" ],
+			[ "acate" ],
+			[ "acatemos" ],
+			[ "acatéis", "acaten" ],
+			[ "acaten" ]
+		],
+		"9" : [
+			[ "acatara" ],
+			[ "acataras" ],
+			[ "acatara" ],
+			[ "acatáramos" ],
+			[ "acatarais", "acataran" ],
+			[ "acataran" ]
+		],
+		"10" : [
+			[ "acatase" ],
+			[ "acatases" ],
+			[ "acatase" ],
+			[ "acatásemos" ],
+			[ "acataseis", "acatasen" ],
+			[ "acatasen" ]
+		],
+		"11" : [
+			[ "acatare" ],
+			[ "acatares" ],
+			[ "acatare" ],
+			[ "acatáremos" ],
+			[ "acatareis", "acataren" ],
+			[ "acataren" ]
+		],
+		"12" : {
+			"1" : [ "acata" ],
+			"2" : [ "acate" ],
+			"3" : [ "acatemos" ],
+			"4" : [ "acatad" ],
+			"5" : [ "acaten" ]
+		}
+	}
+}

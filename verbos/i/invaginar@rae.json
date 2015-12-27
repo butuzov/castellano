@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=invaginar",
+	"word" : "invaginar",
+	"infinitivo" : "invaginar",
+	"participio" : [ "invaginado" ],
+	"gerundio" : [ "invaginando" ],
+	"tenses" : {
+		"3" : [
+			[ "invagino" ],
+			[ "invaginas", "invaginás" ],
+			[ "invagina" ],
+			[ "invaginamos" ],
+			[ "invagináis", "invaginan" ],
+			[ "invaginan" ]
+		],
+		"4" : [
+			[ "invaginé" ],
+			[ "invaginaste" ],
+			[ "invaginó" ],
+			[ "invaginamos" ],
+			[ "invaginasteis", "invaginaron" ],
+			[ "invaginaron" ]
+		],
+		"5" : [
+			[ "invaginaba" ],
+			[ "invaginabas" ],
+			[ "invaginaba" ],
+			[ "invaginábamos" ],
+			[ "invaginabais", "invaginaban" ],
+			[ "invaginaban" ]
+		],
+		"6" : [
+			[ "invaginaría" ],
+			[ "invaginarías" ],
+			[ "invaginaría" ],
+			[ "invaginaríamos" ],
+			[ "invaginaríais", "invaginarían" ],
+			[ "invaginarían" ]
+		],
+		"7" : [
+			[ "invaginaré" ],
+			[ "invaginarás" ],
+			[ "invaginará" ],
+			[ "invaginaremos" ],
+			[ "invaginaréis", "invaginarán" ],
+			[ "invaginarán" ]
+		],
+		"8" : [
+			[ "invagine" ],
+			[ "invagines" ],
+			[ "invagine" ],
+			[ "invaginemos" ],
+			[ "invaginéis", "invaginen" ],
+			[ "invaginen" ]
+		],
+		"9" : [
+			[ "invaginara" ],
+			[ "invaginaras" ],
+			[ "invaginara" ],
+			[ "invagináramos" ],
+			[ "invaginarais", "invaginaran" ],
+			[ "invaginaran" ]
+		],
+		"10" : [
+			[ "invaginase" ],
+			[ "invaginases" ],
+			[ "invaginase" ],
+			[ "invaginásemos" ],
+			[ "invaginaseis", "invaginasen" ],
+			[ "invaginasen" ]
+		],
+		"11" : [
+			[ "invaginare" ],
+			[ "invaginares" ],
+			[ "invaginare" ],
+			[ "invagináremos" ],
+			[ "invaginareis", "invaginaren" ],
+			[ "invaginaren" ]
+		],
+		"12" : {
+			"1" : [ "invagina" ],
+			"2" : [ "invagine" ],
+			"3" : [ "invaginemos" ],
+			"4" : [ "invaginad" ],
+			"5" : [ "invaginen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embobar",
+	"word" : "embobar",
+	"infinitivo" : "embobar",
+	"participio" : [ "embobado" ],
+	"gerundio" : [ "embobando" ],
+	"tenses" : {
+		"3" : [
+			[ "embobo" ],
+			[ "embobas", "embobás" ],
+			[ "emboba" ],
+			[ "embobamos" ],
+			[ "embobáis", "emboban" ],
+			[ "emboban" ]
+		],
+		"4" : [
+			[ "embobé" ],
+			[ "embobaste" ],
+			[ "embobó" ],
+			[ "embobamos" ],
+			[ "embobasteis", "embobaron" ],
+			[ "embobaron" ]
+		],
+		"5" : [
+			[ "embobaba" ],
+			[ "embobabas" ],
+			[ "embobaba" ],
+			[ "embobábamos" ],
+			[ "embobabais", "embobaban" ],
+			[ "embobaban" ]
+		],
+		"6" : [
+			[ "embobaría" ],
+			[ "embobarías" ],
+			[ "embobaría" ],
+			[ "embobaríamos" ],
+			[ "embobaríais", "embobarían" ],
+			[ "embobarían" ]
+		],
+		"7" : [
+			[ "embobaré" ],
+			[ "embobarás" ],
+			[ "embobará" ],
+			[ "embobaremos" ],
+			[ "embobaréis", "embobarán" ],
+			[ "embobarán" ]
+		],
+		"8" : [
+			[ "embobe" ],
+			[ "embobes" ],
+			[ "embobe" ],
+			[ "embobemos" ],
+			[ "embobéis", "emboben" ],
+			[ "emboben" ]
+		],
+		"9" : [
+			[ "embobara" ],
+			[ "embobaras" ],
+			[ "embobara" ],
+			[ "embobáramos" ],
+			[ "embobarais", "embobaran" ],
+			[ "embobaran" ]
+		],
+		"10" : [
+			[ "embobase" ],
+			[ "embobases" ],
+			[ "embobase" ],
+			[ "embobásemos" ],
+			[ "embobaseis", "embobasen" ],
+			[ "embobasen" ]
+		],
+		"11" : [
+			[ "embobare" ],
+			[ "embobares" ],
+			[ "embobare" ],
+			[ "embobáremos" ],
+			[ "embobareis", "embobaren" ],
+			[ "embobaren" ]
+		],
+		"12" : {
+			"1" : [ "emboba" ],
+			"2" : [ "embobe" ],
+			"3" : [ "embobemos" ],
+			"4" : [ "embobad" ],
+			"5" : [ "emboben" ]
+		}
+	}
+}

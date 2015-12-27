@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prestar",
+	"word" : "prestar",
+	"infinitivo" : "prestar",
+	"participio" : [ "prestado" ],
+	"gerundio" : [ "prestando" ],
+	"tenses" : {
+		"3" : [
+			[ "presto" ],
+			[ "prestas", "prestás" ],
+			[ "presta" ],
+			[ "prestamos" ],
+			[ "prestáis", "prestan" ],
+			[ "prestan" ]
+		],
+		"4" : [
+			[ "presté" ],
+			[ "prestaste" ],
+			[ "prestó" ],
+			[ "prestamos" ],
+			[ "prestasteis", "prestaron" ],
+			[ "prestaron" ]
+		],
+		"5" : [
+			[ "prestaba" ],
+			[ "prestabas" ],
+			[ "prestaba" ],
+			[ "prestábamos" ],
+			[ "prestabais", "prestaban" ],
+			[ "prestaban" ]
+		],
+		"6" : [
+			[ "prestaría" ],
+			[ "prestarías" ],
+			[ "prestaría" ],
+			[ "prestaríamos" ],
+			[ "prestaríais", "prestarían" ],
+			[ "prestarían" ]
+		],
+		"7" : [
+			[ "prestaré" ],
+			[ "prestarás" ],
+			[ "prestará" ],
+			[ "prestaremos" ],
+			[ "prestaréis", "prestarán" ],
+			[ "prestarán" ]
+		],
+		"8" : [
+			[ "preste" ],
+			[ "prestes" ],
+			[ "preste" ],
+			[ "prestemos" ],
+			[ "prestéis", "presten" ],
+			[ "presten" ]
+		],
+		"9" : [
+			[ "prestara" ],
+			[ "prestaras" ],
+			[ "prestara" ],
+			[ "prestáramos" ],
+			[ "prestarais", "prestaran" ],
+			[ "prestaran" ]
+		],
+		"10" : [
+			[ "prestase" ],
+			[ "prestases" ],
+			[ "prestase" ],
+			[ "prestásemos" ],
+			[ "prestaseis", "prestasen" ],
+			[ "prestasen" ]
+		],
+		"11" : [
+			[ "prestare" ],
+			[ "prestares" ],
+			[ "prestare" ],
+			[ "prestáremos" ],
+			[ "prestareis", "prestaren" ],
+			[ "prestaren" ]
+		],
+		"12" : {
+			"1" : [ "presta" ],
+			"2" : [ "preste" ],
+			"3" : [ "prestemos" ],
+			"4" : [ "prestad" ],
+			"5" : [ "presten" ]
+		}
+	}
+}

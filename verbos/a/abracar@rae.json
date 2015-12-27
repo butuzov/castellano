@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abracar",
+	"word" : "abracar",
+	"infinitivo" : "abracar",
+	"participio" : [ "abracado" ],
+	"gerundio" : [ "abracando" ],
+	"tenses" : {
+		"3" : [
+			[ "abraco" ],
+			[ "abracas", "abracás" ],
+			[ "abraca" ],
+			[ "abracamos" ],
+			[ "abracáis", "abracan" ],
+			[ "abracan" ]
+		],
+		"4" : [
+			[ "abraqué" ],
+			[ "abracaste" ],
+			[ "abracó" ],
+			[ "abracamos" ],
+			[ "abracasteis", "abracaron" ],
+			[ "abracaron" ]
+		],
+		"5" : [
+			[ "abracaba" ],
+			[ "abracabas" ],
+			[ "abracaba" ],
+			[ "abracábamos" ],
+			[ "abracabais", "abracaban" ],
+			[ "abracaban" ]
+		],
+		"6" : [
+			[ "abracaría" ],
+			[ "abracarías" ],
+			[ "abracaría" ],
+			[ "abracaríamos" ],
+			[ "abracaríais", "abracarían" ],
+			[ "abracarían" ]
+		],
+		"7" : [
+			[ "abracaré" ],
+			[ "abracarás" ],
+			[ "abracará" ],
+			[ "abracaremos" ],
+			[ "abracaréis", "abracarán" ],
+			[ "abracarán" ]
+		],
+		"8" : [
+			[ "abraque" ],
+			[ "abraques" ],
+			[ "abraque" ],
+			[ "abraquemos" ],
+			[ "abraquéis", "abraquen" ],
+			[ "abraquen" ]
+		],
+		"9" : [
+			[ "abracara" ],
+			[ "abracaras" ],
+			[ "abracara" ],
+			[ "abracáramos" ],
+			[ "abracarais", "abracaran" ],
+			[ "abracaran" ]
+		],
+		"10" : [
+			[ "abracase" ],
+			[ "abracases" ],
+			[ "abracase" ],
+			[ "abracásemos" ],
+			[ "abracaseis", "abracasen" ],
+			[ "abracasen" ]
+		],
+		"11" : [
+			[ "abracare" ],
+			[ "abracares" ],
+			[ "abracare" ],
+			[ "abracáremos" ],
+			[ "abracareis", "abracaren" ],
+			[ "abracaren" ]
+		],
+		"12" : {
+			"1" : [ "abraca" ],
+			"2" : [ "abraque" ],
+			"3" : [ "abraquemos" ],
+			"4" : [ "abracad" ],
+			"5" : [ "abraquen" ]
+		}
+	}
+}

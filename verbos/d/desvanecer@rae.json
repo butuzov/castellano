@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desvanecer",
+	"word" : "desvanecer",
+	"infinitivo" : "desvanecer",
+	"participio" : [ "desvanecido" ],
+	"gerundio" : [ "desvaneciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desvanezco" ],
+			[ "desvaneces", "desvanecés" ],
+			[ "desvanece" ],
+			[ "desvanecemos" ],
+			[ "desvanecéis", "desvanecen" ],
+			[ "desvanecen" ]
+		],
+		"4" : [
+			[ "desvanecí" ],
+			[ "desvaneciste" ],
+			[ "desvaneció" ],
+			[ "desvanecimos" ],
+			[ "desvanecisteis", "desvanecieron" ],
+			[ "desvanecieron" ]
+		],
+		"5" : [
+			[ "desvanecía" ],
+			[ "desvanecías" ],
+			[ "desvanecía" ],
+			[ "desvanecíamos" ],
+			[ "desvanecíais", "desvanecían" ],
+			[ "desvanecían" ]
+		],
+		"6" : [
+			[ "desvanecería" ],
+			[ "desvanecerías" ],
+			[ "desvanecería" ],
+			[ "desvaneceríamos" ],
+			[ "desvaneceríais", "desvanecerían" ],
+			[ "desvanecerían" ]
+		],
+		"7" : [
+			[ "desvaneceré" ],
+			[ "desvanecerás" ],
+			[ "desvanecerá" ],
+			[ "desvaneceremos" ],
+			[ "desvaneceréis", "desvanecerán" ],
+			[ "desvanecerán" ]
+		],
+		"8" : [
+			[ "desvanezca" ],
+			[ "desvanezcas" ],
+			[ "desvanezca" ],
+			[ "desvanezcamos" ],
+			[ "desvanezcáis", "desvanezcan" ],
+			[ "desvanezcan" ]
+		],
+		"9" : [
+			[ "desvaneciera" ],
+			[ "desvanecieras" ],
+			[ "desvaneciera" ],
+			[ "desvaneciéramos" ],
+			[ "desvanecierais", "desvanecieran" ],
+			[ "desvanecieran" ]
+		],
+		"10" : [
+			[ "desvaneciese" ],
+			[ "desvanecieses" ],
+			[ "desvaneciese" ],
+			[ "desvaneciésemos" ],
+			[ "desvanecieseis", "desvaneciesen" ],
+			[ "desvaneciesen" ]
+		],
+		"11" : [
+			[ "desvaneciere" ],
+			[ "desvanecieres" ],
+			[ "desvaneciere" ],
+			[ "desvaneciéremos" ],
+			[ "desvaneciereis", "desvanecieren" ],
+			[ "desvanecieren" ]
+		],
+		"12" : {
+			"1" : [ "desvanece" ],
+			"2" : [ "desvanezca" ],
+			"3" : [ "desvanezcamos" ],
+			"4" : [ "desvaneced" ],
+			"5" : [ "desvanezcan" ]
+		}
+	}
+}

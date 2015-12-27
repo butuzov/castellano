@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mitigar",
+	"word" : "mitigar",
+	"infinitivo" : "mitigar",
+	"participio" : [ "mitigado" ],
+	"gerundio" : [ "mitigando" ],
+	"tenses" : {
+		"3" : [
+			[ "mitigo" ],
+			[ "mitigas", "mitigás" ],
+			[ "mitiga" ],
+			[ "mitigamos" ],
+			[ "mitigáis", "mitigan" ],
+			[ "mitigan" ]
+		],
+		"4" : [
+			[ "mitigué" ],
+			[ "mitigaste" ],
+			[ "mitigó" ],
+			[ "mitigamos" ],
+			[ "mitigasteis", "mitigaron" ],
+			[ "mitigaron" ]
+		],
+		"5" : [
+			[ "mitigaba" ],
+			[ "mitigabas" ],
+			[ "mitigaba" ],
+			[ "mitigábamos" ],
+			[ "mitigabais", "mitigaban" ],
+			[ "mitigaban" ]
+		],
+		"6" : [
+			[ "mitigaría" ],
+			[ "mitigarías" ],
+			[ "mitigaría" ],
+			[ "mitigaríamos" ],
+			[ "mitigaríais", "mitigarían" ],
+			[ "mitigarían" ]
+		],
+		"7" : [
+			[ "mitigaré" ],
+			[ "mitigarás" ],
+			[ "mitigará" ],
+			[ "mitigaremos" ],
+			[ "mitigaréis", "mitigarán" ],
+			[ "mitigarán" ]
+		],
+		"8" : [
+			[ "mitigue" ],
+			[ "mitigues" ],
+			[ "mitigue" ],
+			[ "mitiguemos" ],
+			[ "mitiguéis", "mitiguen" ],
+			[ "mitiguen" ]
+		],
+		"9" : [
+			[ "mitigara" ],
+			[ "mitigaras" ],
+			[ "mitigara" ],
+			[ "mitigáramos" ],
+			[ "mitigarais", "mitigaran" ],
+			[ "mitigaran" ]
+		],
+		"10" : [
+			[ "mitigase" ],
+			[ "mitigases" ],
+			[ "mitigase" ],
+			[ "mitigásemos" ],
+			[ "mitigaseis", "mitigasen" ],
+			[ "mitigasen" ]
+		],
+		"11" : [
+			[ "mitigare" ],
+			[ "mitigares" ],
+			[ "mitigare" ],
+			[ "mitigáremos" ],
+			[ "mitigareis", "mitigaren" ],
+			[ "mitigaren" ]
+		],
+		"12" : {
+			"1" : [ "mitiga" ],
+			"2" : [ "mitigue" ],
+			"3" : [ "mitiguemos" ],
+			"4" : [ "mitigad" ],
+			"5" : [ "mitiguen" ]
+		}
+	}
+}

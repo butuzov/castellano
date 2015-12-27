@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desfilar",
+	"word" : "desfilar",
+	"infinitivo" : "desfilar",
+	"participio" : [ "desfilado" ],
+	"gerundio" : [ "desfilando" ],
+	"tenses" : {
+		"3" : [
+			[ "desfilo" ],
+			[ "desfilas", "desfilás" ],
+			[ "desfila" ],
+			[ "desfilamos" ],
+			[ "desfiláis", "desfilan" ],
+			[ "desfilan" ]
+		],
+		"4" : [
+			[ "desfilé" ],
+			[ "desfilaste" ],
+			[ "desfiló" ],
+			[ "desfilamos" ],
+			[ "desfilasteis", "desfilaron" ],
+			[ "desfilaron" ]
+		],
+		"5" : [
+			[ "desfilaba" ],
+			[ "desfilabas" ],
+			[ "desfilaba" ],
+			[ "desfilábamos" ],
+			[ "desfilabais", "desfilaban" ],
+			[ "desfilaban" ]
+		],
+		"6" : [
+			[ "desfilaría" ],
+			[ "desfilarías" ],
+			[ "desfilaría" ],
+			[ "desfilaríamos" ],
+			[ "desfilaríais", "desfilarían" ],
+			[ "desfilarían" ]
+		],
+		"7" : [
+			[ "desfilaré" ],
+			[ "desfilarás" ],
+			[ "desfilará" ],
+			[ "desfilaremos" ],
+			[ "desfilaréis", "desfilarán" ],
+			[ "desfilarán" ]
+		],
+		"8" : [
+			[ "desfile" ],
+			[ "desfiles" ],
+			[ "desfile" ],
+			[ "desfilemos" ],
+			[ "desfiléis", "desfilen" ],
+			[ "desfilen" ]
+		],
+		"9" : [
+			[ "desfilara" ],
+			[ "desfilaras" ],
+			[ "desfilara" ],
+			[ "desfiláramos" ],
+			[ "desfilarais", "desfilaran" ],
+			[ "desfilaran" ]
+		],
+		"10" : [
+			[ "desfilase" ],
+			[ "desfilases" ],
+			[ "desfilase" ],
+			[ "desfilásemos" ],
+			[ "desfilaseis", "desfilasen" ],
+			[ "desfilasen" ]
+		],
+		"11" : [
+			[ "desfilare" ],
+			[ "desfilares" ],
+			[ "desfilare" ],
+			[ "desfiláremos" ],
+			[ "desfilareis", "desfilaren" ],
+			[ "desfilaren" ]
+		],
+		"12" : {
+			"1" : [ "desfila" ],
+			"2" : [ "desfile" ],
+			"3" : [ "desfilemos" ],
+			"4" : [ "desfilad" ],
+			"5" : [ "desfilen" ]
+		}
+	}
+}

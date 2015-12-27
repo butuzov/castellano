@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desecar",
+	"word" : "desecar",
+	"infinitivo" : "desecar",
+	"participio" : [ "desecado" ],
+	"gerundio" : [ "desecando" ],
+	"tenses" : {
+		"3" : [
+			[ "deseco" ],
+			[ "desecas", "desecás" ],
+			[ "deseca" ],
+			[ "desecamos" ],
+			[ "desecáis", "desecan" ],
+			[ "desecan" ]
+		],
+		"4" : [
+			[ "desequé" ],
+			[ "desecaste" ],
+			[ "desecó" ],
+			[ "desecamos" ],
+			[ "desecasteis", "desecaron" ],
+			[ "desecaron" ]
+		],
+		"5" : [
+			[ "desecaba" ],
+			[ "desecabas" ],
+			[ "desecaba" ],
+			[ "desecábamos" ],
+			[ "desecabais", "desecaban" ],
+			[ "desecaban" ]
+		],
+		"6" : [
+			[ "desecaría" ],
+			[ "desecarías" ],
+			[ "desecaría" ],
+			[ "desecaríamos" ],
+			[ "desecaríais", "desecarían" ],
+			[ "desecarían" ]
+		],
+		"7" : [
+			[ "desecaré" ],
+			[ "desecarás" ],
+			[ "desecará" ],
+			[ "desecaremos" ],
+			[ "desecaréis", "desecarán" ],
+			[ "desecarán" ]
+		],
+		"8" : [
+			[ "deseque" ],
+			[ "deseques" ],
+			[ "deseque" ],
+			[ "desequemos" ],
+			[ "desequéis", "desequen" ],
+			[ "desequen" ]
+		],
+		"9" : [
+			[ "desecara" ],
+			[ "desecaras" ],
+			[ "desecara" ],
+			[ "desecáramos" ],
+			[ "desecarais", "desecaran" ],
+			[ "desecaran" ]
+		],
+		"10" : [
+			[ "desecase" ],
+			[ "desecases" ],
+			[ "desecase" ],
+			[ "desecásemos" ],
+			[ "desecaseis", "desecasen" ],
+			[ "desecasen" ]
+		],
+		"11" : [
+			[ "desecare" ],
+			[ "desecares" ],
+			[ "desecare" ],
+			[ "desecáremos" ],
+			[ "desecareis", "desecaren" ],
+			[ "desecaren" ]
+		],
+		"12" : {
+			"1" : [ "deseca" ],
+			"2" : [ "deseque" ],
+			"3" : [ "desequemos" ],
+			"4" : [ "desecad" ],
+			"5" : [ "desequen" ]
+		}
+	}
+}

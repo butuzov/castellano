@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desenvolver",
+	"word" : "desenvolver",
+	"infinitivo" : "desenvolver",
+	"participio" : [ "desenvuelto" ],
+	"gerundio" : [ "desenvolviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desenvuelvo" ],
+			[ "desenvuelves", "desenvolvés" ],
+			[ "desenvuelve" ],
+			[ "desenvolvemos" ],
+			[ "desenvolvéis", "desenvuelven" ],
+			[ "desenvuelven" ]
+		],
+		"4" : [
+			[ "desenvolví" ],
+			[ "desenvolviste" ],
+			[ "desenvolvió" ],
+			[ "desenvolvimos" ],
+			[ "desenvolvisteis", "desenvolvieron" ],
+			[ "desenvolvieron" ]
+		],
+		"5" : [
+			[ "desenvolvía" ],
+			[ "desenvolvías" ],
+			[ "desenvolvía" ],
+			[ "desenvolvíamos" ],
+			[ "desenvolvíais", "desenvolvían" ],
+			[ "desenvolvían" ]
+		],
+		"6" : [
+			[ "desenvolvería" ],
+			[ "desenvolverías" ],
+			[ "desenvolvería" ],
+			[ "desenvolveríamos" ],
+			[ "desenvolveríais", "desenvolverían" ],
+			[ "desenvolverían" ]
+		],
+		"7" : [
+			[ "desenvolveré" ],
+			[ "desenvolverás" ],
+			[ "desenvolverá" ],
+			[ "desenvolveremos" ],
+			[ "desenvolveréis", "desenvolverán" ],
+			[ "desenvolverán" ]
+		],
+		"8" : [
+			[ "desenvuelva" ],
+			[ "desenvuelvas" ],
+			[ "desenvuelva" ],
+			[ "desenvolvamos" ],
+			[ "desenvolváis", "desenvuelvan" ],
+			[ "desenvuelvan" ]
+		],
+		"9" : [
+			[ "desenvolviera" ],
+			[ "desenvolvieras" ],
+			[ "desenvolviera" ],
+			[ "desenvolviéramos" ],
+			[ "desenvolvierais", "desenvolvieran" ],
+			[ "desenvolvieran" ]
+		],
+		"10" : [
+			[ "desenvolviese" ],
+			[ "desenvolvieses" ],
+			[ "desenvolviese" ],
+			[ "desenvolviésemos" ],
+			[ "desenvolvieseis", "desenvolviesen" ],
+			[ "desenvolviesen" ]
+		],
+		"11" : [
+			[ "desenvolviere" ],
+			[ "desenvolvieres" ],
+			[ "desenvolviere" ],
+			[ "desenvolviéremos" ],
+			[ "desenvolviereis", "desenvolvieren" ],
+			[ "desenvolvieren" ]
+		],
+		"12" : {
+			"1" : [ "desenvuelve" ],
+			"2" : [ "desenvuelva" ],
+			"3" : [ "desenvolvamos" ],
+			"4" : [ "desenvolved" ],
+			"5" : [ "desenvuelvan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fugarse",
+	"word" : "fugarse",
+	"infinitivo" : "fugarse",
+	"participio" : [ "fugado" ],
+	"gerundio" : [ "fugándome", "fugándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me fugo" ],
+			[ "te fugas", "te fugás" ],
+			[ "se fuga" ],
+			[ "nos fugamos" ],
+			[ "os fugáis", "se fugan" ],
+			[ "se fugan" ]
+		],
+		"4" : [
+			[ "me fugué" ],
+			[ "te fugaste" ],
+			[ "se fugó" ],
+			[ "nos fugamos" ],
+			[ "os fugasteis", "se fugaron" ],
+			[ "se fugaron" ]
+		],
+		"5" : [
+			[ "me fugaba" ],
+			[ "te fugabas" ],
+			[ "se fugaba" ],
+			[ "nos fugábamos" ],
+			[ "os fugabais", "se fugaban" ],
+			[ "se fugaban" ]
+		],
+		"6" : [
+			[ "me fugaría" ],
+			[ "te fugarías" ],
+			[ "se fugaría" ],
+			[ "nos fugaríamos" ],
+			[ "os fugaríais", "se fugarían" ],
+			[ "se fugarían" ]
+		],
+		"7" : [
+			[ "me fugaré" ],
+			[ "te fugarás" ],
+			[ "se fugará" ],
+			[ "nos fugaremos" ],
+			[ "os fugaréis", "se fugarán" ],
+			[ "se fugarán" ]
+		],
+		"8" : [
+			[ "me fugue" ],
+			[ "te fugues" ],
+			[ "se fugue" ],
+			[ "nos fuguemos" ],
+			[ "os fuguéis", "se fuguen" ],
+			[ "se fuguen" ]
+		],
+		"9" : [
+			[ "me fugara" ],
+			[ "te fugaras" ],
+			[ "se fugara" ],
+			[ "nos fugáramos" ],
+			[ "os fugarais", "se fugaran" ],
+			[ "se fugaran" ]
+		],
+		"10" : [
+			[ "me fugase" ],
+			[ "te fugases" ],
+			[ "se fugase" ],
+			[ "nos fugásemos" ],
+			[ "os fugaseis", "se fugasen" ],
+			[ "se fugasen" ]
+		],
+		"11" : [
+			[ "me fugare" ],
+			[ "te fugares" ],
+			[ "se fugare" ],
+			[ "nos fugáremos" ],
+			[ "os fugareis", "se fugaren" ],
+			[ "se fugaren" ]
+		],
+		"12" : {
+			"1" : [ "fúgate" ],
+			"2" : [ "fugue" ],
+			"3" : [ "fuguemos" ],
+			"4" : [ "fugaos" ],
+			"5" : [ "fúguense" ]
+		}
+	}
+}

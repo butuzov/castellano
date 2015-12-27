@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=habituar",
+	"word" : "habituar",
+	"infinitivo" : "habituar",
+	"participio" : [ "habituado" ],
+	"gerundio" : [ "habituando" ],
+	"tenses" : {
+		"3" : [
+			[ "habitúo" ],
+			[ "habitúas", "habituás" ],
+			[ "habitúa" ],
+			[ "habituamos" ],
+			[ "habituáis", "habitúan" ],
+			[ "habitúan" ]
+		],
+		"4" : [
+			[ "habitué" ],
+			[ "habituaste" ],
+			[ "habituó" ],
+			[ "habituamos" ],
+			[ "habituasteis", "habituaron" ],
+			[ "habituaron" ]
+		],
+		"5" : [
+			[ "habituaba" ],
+			[ "habituabas" ],
+			[ "habituaba" ],
+			[ "habituábamos" ],
+			[ "habituabais", "habituaban" ],
+			[ "habituaban" ]
+		],
+		"6" : [
+			[ "habituaría" ],
+			[ "habituarías" ],
+			[ "habituaría" ],
+			[ "habituaríamos" ],
+			[ "habituaríais", "habituarían" ],
+			[ "habituarían" ]
+		],
+		"7" : [
+			[ "habituaré" ],
+			[ "habituarás" ],
+			[ "habituará" ],
+			[ "habituaremos" ],
+			[ "habituaréis", "habituarán" ],
+			[ "habituarán" ]
+		],
+		"8" : [
+			[ "habitúe" ],
+			[ "habitúes" ],
+			[ "habitúe" ],
+			[ "habituemos" ],
+			[ "habituéis", "habitúen" ],
+			[ "habitúen" ]
+		],
+		"9" : [
+			[ "habituara" ],
+			[ "habituaras" ],
+			[ "habituara" ],
+			[ "habituáramos" ],
+			[ "habituarais", "habituaran" ],
+			[ "habituaran" ]
+		],
+		"10" : [
+			[ "habituase" ],
+			[ "habituases" ],
+			[ "habituase" ],
+			[ "habituásemos" ],
+			[ "habituaseis", "habituasen" ],
+			[ "habituasen" ]
+		],
+		"11" : [
+			[ "habituare" ],
+			[ "habituares" ],
+			[ "habituare" ],
+			[ "habituáremos" ],
+			[ "habituareis", "habituaren" ],
+			[ "habituaren" ]
+		],
+		"12" : {
+			"1" : [ "habitúa" ],
+			"2" : [ "habitúe" ],
+			"3" : [ "habituemos" ],
+			"4" : [ "habituad" ],
+			"5" : [ "habitúen" ]
+		}
+	}
+}

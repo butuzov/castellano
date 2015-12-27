@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amarrar",
+	"word" : "amarrar",
+	"infinitivo" : "amarrar",
+	"participio" : [ "amarrado" ],
+	"gerundio" : [ "amarrando" ],
+	"tenses" : {
+		"3" : [
+			[ "amarro" ],
+			[ "amarras", "amarrás" ],
+			[ "amarra" ],
+			[ "amarramos" ],
+			[ "amarráis", "amarran" ],
+			[ "amarran" ]
+		],
+		"4" : [
+			[ "amarré" ],
+			[ "amarraste" ],
+			[ "amarró" ],
+			[ "amarramos" ],
+			[ "amarrasteis", "amarraron" ],
+			[ "amarraron" ]
+		],
+		"5" : [
+			[ "amarraba" ],
+			[ "amarrabas" ],
+			[ "amarraba" ],
+			[ "amarrábamos" ],
+			[ "amarrabais", "amarraban" ],
+			[ "amarraban" ]
+		],
+		"6" : [
+			[ "amarraría" ],
+			[ "amarrarías" ],
+			[ "amarraría" ],
+			[ "amarraríamos" ],
+			[ "amarraríais", "amarrarían" ],
+			[ "amarrarían" ]
+		],
+		"7" : [
+			[ "amarraré" ],
+			[ "amarrarás" ],
+			[ "amarrará" ],
+			[ "amarraremos" ],
+			[ "amarraréis", "amarrarán" ],
+			[ "amarrarán" ]
+		],
+		"8" : [
+			[ "amarre" ],
+			[ "amarres" ],
+			[ "amarre" ],
+			[ "amarremos" ],
+			[ "amarréis", "amarren" ],
+			[ "amarren" ]
+		],
+		"9" : [
+			[ "amarrara" ],
+			[ "amarraras" ],
+			[ "amarrara" ],
+			[ "amarráramos" ],
+			[ "amarrarais", "amarraran" ],
+			[ "amarraran" ]
+		],
+		"10" : [
+			[ "amarrase" ],
+			[ "amarrases" ],
+			[ "amarrase" ],
+			[ "amarrásemos" ],
+			[ "amarraseis", "amarrasen" ],
+			[ "amarrasen" ]
+		],
+		"11" : [
+			[ "amarrare" ],
+			[ "amarrares" ],
+			[ "amarrare" ],
+			[ "amarráremos" ],
+			[ "amarrareis", "amarraren" ],
+			[ "amarraren" ]
+		],
+		"12" : {
+			"1" : [ "amarra" ],
+			"2" : [ "amarre" ],
+			"3" : [ "amarremos" ],
+			"4" : [ "amarrad" ],
+			"5" : [ "amarren" ]
+		}
+	}
+}

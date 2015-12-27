@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=categorizar",
+	"word" : "categorizar",
+	"infinitivo" : "categorizar",
+	"participio" : [ "categorizado" ],
+	"gerundio" : [ "categorizando" ],
+	"tenses" : {
+		"3" : [
+			[ "categorizo" ],
+			[ "categorizas", "categorizás" ],
+			[ "categoriza" ],
+			[ "categorizamos" ],
+			[ "categorizáis", "categorizan" ],
+			[ "categorizan" ]
+		],
+		"4" : [
+			[ "categoricé" ],
+			[ "categorizaste" ],
+			[ "categorizó" ],
+			[ "categorizamos" ],
+			[ "categorizasteis", "categorizaron" ],
+			[ "categorizaron" ]
+		],
+		"5" : [
+			[ "categorizaba" ],
+			[ "categorizabas" ],
+			[ "categorizaba" ],
+			[ "categorizábamos" ],
+			[ "categorizabais", "categorizaban" ],
+			[ "categorizaban" ]
+		],
+		"6" : [
+			[ "categorizaría" ],
+			[ "categorizarías" ],
+			[ "categorizaría" ],
+			[ "categorizaríamos" ],
+			[ "categorizaríais", "categorizarían" ],
+			[ "categorizarían" ]
+		],
+		"7" : [
+			[ "categorizaré" ],
+			[ "categorizarás" ],
+			[ "categorizará" ],
+			[ "categorizaremos" ],
+			[ "categorizaréis", "categorizarán" ],
+			[ "categorizarán" ]
+		],
+		"8" : [
+			[ "categorice" ],
+			[ "categorices" ],
+			[ "categorice" ],
+			[ "categoricemos" ],
+			[ "categoricéis", "categoricen" ],
+			[ "categoricen" ]
+		],
+		"9" : [
+			[ "categorizara" ],
+			[ "categorizaras" ],
+			[ "categorizara" ],
+			[ "categorizáramos" ],
+			[ "categorizarais", "categorizaran" ],
+			[ "categorizaran" ]
+		],
+		"10" : [
+			[ "categorizase" ],
+			[ "categorizases" ],
+			[ "categorizase" ],
+			[ "categorizásemos" ],
+			[ "categorizaseis", "categorizasen" ],
+			[ "categorizasen" ]
+		],
+		"11" : [
+			[ "categorizare" ],
+			[ "categorizares" ],
+			[ "categorizare" ],
+			[ "categorizáremos" ],
+			[ "categorizareis", "categorizaren" ],
+			[ "categorizaren" ]
+		],
+		"12" : {
+			"1" : [ "categoriza" ],
+			"2" : [ "categorice" ],
+			"3" : [ "categoricemos" ],
+			"4" : [ "categorizad" ],
+			"5" : [ "categoricen" ]
+		}
+	}
+}

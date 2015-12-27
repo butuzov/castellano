@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=titular",
+	"word" : "titular",
+	"infinitivo" : "titular",
+	"participio" : [ "titulado" ],
+	"gerundio" : [ "titulando" ],
+	"tenses" : {
+		"3" : [
+			[ "titulo" ],
+			[ "titulas", "titulás" ],
+			[ "titula" ],
+			[ "titulamos" ],
+			[ "tituláis", "titulan" ],
+			[ "titulan" ]
+		],
+		"4" : [
+			[ "titulé" ],
+			[ "titulaste" ],
+			[ "tituló" ],
+			[ "titulamos" ],
+			[ "titulasteis", "titularon" ],
+			[ "titularon" ]
+		],
+		"5" : [
+			[ "titulaba" ],
+			[ "titulabas" ],
+			[ "titulaba" ],
+			[ "titulábamos" ],
+			[ "titulabais", "titulaban" ],
+			[ "titulaban" ]
+		],
+		"6" : [
+			[ "titularía" ],
+			[ "titularías" ],
+			[ "titularía" ],
+			[ "titularíamos" ],
+			[ "titularíais", "titularían" ],
+			[ "titularían" ]
+		],
+		"7" : [
+			[ "titularé" ],
+			[ "titularás" ],
+			[ "titulará" ],
+			[ "titularemos" ],
+			[ "titularéis", "titularán" ],
+			[ "titularán" ]
+		],
+		"8" : [
+			[ "titule" ],
+			[ "titules" ],
+			[ "titule" ],
+			[ "titulemos" ],
+			[ "tituléis", "titulen" ],
+			[ "titulen" ]
+		],
+		"9" : [
+			[ "titulara" ],
+			[ "titularas" ],
+			[ "titulara" ],
+			[ "tituláramos" ],
+			[ "titularais", "titularan" ],
+			[ "titularan" ]
+		],
+		"10" : [
+			[ "titulase" ],
+			[ "titulases" ],
+			[ "titulase" ],
+			[ "titulásemos" ],
+			[ "titulaseis", "titulasen" ],
+			[ "titulasen" ]
+		],
+		"11" : [
+			[ "titulare" ],
+			[ "titulares" ],
+			[ "titulare" ],
+			[ "tituláremos" ],
+			[ "titulareis", "titularen" ],
+			[ "titularen" ]
+		],
+		"12" : {
+			"1" : [ "titula" ],
+			"2" : [ "titule" ],
+			"3" : [ "titulemos" ],
+			"4" : [ "titulad" ],
+			"5" : [ "titulen" ]
+		}
+	}
+}

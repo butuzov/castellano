@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=socializar",
+	"word" : "socializar",
+	"infinitivo" : "socializar",
+	"participio" : [ "socializado" ],
+	"gerundio" : [ "socializando" ],
+	"tenses" : {
+		"3" : [
+			[ "socializo" ],
+			[ "socializas", "socializás" ],
+			[ "socializa" ],
+			[ "socializamos" ],
+			[ "socializáis", "socializan" ],
+			[ "socializan" ]
+		],
+		"4" : [
+			[ "socialicé" ],
+			[ "socializaste" ],
+			[ "socializó" ],
+			[ "socializamos" ],
+			[ "socializasteis", "socializaron" ],
+			[ "socializaron" ]
+		],
+		"5" : [
+			[ "socializaba" ],
+			[ "socializabas" ],
+			[ "socializaba" ],
+			[ "socializábamos" ],
+			[ "socializabais", "socializaban" ],
+			[ "socializaban" ]
+		],
+		"6" : [
+			[ "socializaría" ],
+			[ "socializarías" ],
+			[ "socializaría" ],
+			[ "socializaríamos" ],
+			[ "socializaríais", "socializarían" ],
+			[ "socializarían" ]
+		],
+		"7" : [
+			[ "socializaré" ],
+			[ "socializarás" ],
+			[ "socializará" ],
+			[ "socializaremos" ],
+			[ "socializaréis", "socializarán" ],
+			[ "socializarán" ]
+		],
+		"8" : [
+			[ "socialice" ],
+			[ "socialices" ],
+			[ "socialice" ],
+			[ "socialicemos" ],
+			[ "socialicéis", "socialicen" ],
+			[ "socialicen" ]
+		],
+		"9" : [
+			[ "socializara" ],
+			[ "socializaras" ],
+			[ "socializara" ],
+			[ "socializáramos" ],
+			[ "socializarais", "socializaran" ],
+			[ "socializaran" ]
+		],
+		"10" : [
+			[ "socializase" ],
+			[ "socializases" ],
+			[ "socializase" ],
+			[ "socializásemos" ],
+			[ "socializaseis", "socializasen" ],
+			[ "socializasen" ]
+		],
+		"11" : [
+			[ "socializare" ],
+			[ "socializares" ],
+			[ "socializare" ],
+			[ "socializáremos" ],
+			[ "socializareis", "socializaren" ],
+			[ "socializaren" ]
+		],
+		"12" : {
+			"1" : [ "socializa" ],
+			"2" : [ "socialice" ],
+			"3" : [ "socialicemos" ],
+			"4" : [ "socializad" ],
+			"5" : [ "socialicen" ]
+		}
+	}
+}

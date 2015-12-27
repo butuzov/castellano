@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=averiar",
+	"word" : "averiar",
+	"infinitivo" : "averiar",
+	"participio" : [ "averiado" ],
+	"gerundio" : [ "averiando" ],
+	"tenses" : {
+		"3" : [
+			[ "averío" ],
+			[ "averías", "averiás" ],
+			[ "avería" ],
+			[ "averiamos" ],
+			[ "averiáis", "averían" ],
+			[ "averían" ]
+		],
+		"4" : [
+			[ "averié" ],
+			[ "averiaste" ],
+			[ "averió" ],
+			[ "averiamos" ],
+			[ "averiasteis", "averiaron" ],
+			[ "averiaron" ]
+		],
+		"5" : [
+			[ "averiaba" ],
+			[ "averiabas" ],
+			[ "averiaba" ],
+			[ "averiábamos" ],
+			[ "averiabais", "averiaban" ],
+			[ "averiaban" ]
+		],
+		"6" : [
+			[ "averiaría" ],
+			[ "averiarías" ],
+			[ "averiaría" ],
+			[ "averiaríamos" ],
+			[ "averiaríais", "averiarían" ],
+			[ "averiarían" ]
+		],
+		"7" : [
+			[ "averiaré" ],
+			[ "averiarás" ],
+			[ "averiará" ],
+			[ "averiaremos" ],
+			[ "averiaréis", "averiarán" ],
+			[ "averiarán" ]
+		],
+		"8" : [
+			[ "averíe" ],
+			[ "averíes" ],
+			[ "averíe" ],
+			[ "averiemos" ],
+			[ "averiéis", "averíen" ],
+			[ "averíen" ]
+		],
+		"9" : [
+			[ "averiara" ],
+			[ "averiaras" ],
+			[ "averiara" ],
+			[ "averiáramos" ],
+			[ "averiarais", "averiaran" ],
+			[ "averiaran" ]
+		],
+		"10" : [
+			[ "averiase" ],
+			[ "averiases" ],
+			[ "averiase" ],
+			[ "averiásemos" ],
+			[ "averiaseis", "averiasen" ],
+			[ "averiasen" ]
+		],
+		"11" : [
+			[ "averiare" ],
+			[ "averiares" ],
+			[ "averiare" ],
+			[ "averiáremos" ],
+			[ "averiareis", "averiaren" ],
+			[ "averiaren" ]
+		],
+		"12" : {
+			"1" : [ "avería" ],
+			"2" : [ "averíe" ],
+			"3" : [ "averiemos" ],
+			"4" : [ "averiad" ],
+			"5" : [ "averíen" ]
+		}
+	}
+}

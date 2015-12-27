@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hilar",
+	"word" : "hilar",
+	"infinitivo" : "hilar",
+	"participio" : [ "hilado" ],
+	"gerundio" : [ "hilando" ],
+	"tenses" : {
+		"3" : [
+			[ "hilo" ],
+			[ "hilas", "hilás" ],
+			[ "hila" ],
+			[ "hilamos" ],
+			[ "hiláis", "hilan" ],
+			[ "hilan" ]
+		],
+		"4" : [
+			[ "hilé" ],
+			[ "hilaste" ],
+			[ "hiló" ],
+			[ "hilamos" ],
+			[ "hilasteis", "hilaron" ],
+			[ "hilaron" ]
+		],
+		"5" : [
+			[ "hilaba" ],
+			[ "hilabas" ],
+			[ "hilaba" ],
+			[ "hilábamos" ],
+			[ "hilabais", "hilaban" ],
+			[ "hilaban" ]
+		],
+		"6" : [
+			[ "hilaría" ],
+			[ "hilarías" ],
+			[ "hilaría" ],
+			[ "hilaríamos" ],
+			[ "hilaríais", "hilarían" ],
+			[ "hilarían" ]
+		],
+		"7" : [
+			[ "hilaré" ],
+			[ "hilarás" ],
+			[ "hilará" ],
+			[ "hilaremos" ],
+			[ "hilaréis", "hilarán" ],
+			[ "hilarán" ]
+		],
+		"8" : [
+			[ "hile" ],
+			[ "hiles" ],
+			[ "hile" ],
+			[ "hilemos" ],
+			[ "hiléis", "hilen" ],
+			[ "hilen" ]
+		],
+		"9" : [
+			[ "hilara" ],
+			[ "hilaras" ],
+			[ "hilara" ],
+			[ "hiláramos" ],
+			[ "hilarais", "hilaran" ],
+			[ "hilaran" ]
+		],
+		"10" : [
+			[ "hilase" ],
+			[ "hilases" ],
+			[ "hilase" ],
+			[ "hilásemos" ],
+			[ "hilaseis", "hilasen" ],
+			[ "hilasen" ]
+		],
+		"11" : [
+			[ "hilare" ],
+			[ "hilares" ],
+			[ "hilare" ],
+			[ "hiláremos" ],
+			[ "hilareis", "hilaren" ],
+			[ "hilaren" ]
+		],
+		"12" : {
+			"1" : [ "hila" ],
+			"2" : [ "hile" ],
+			"3" : [ "hilemos" ],
+			"4" : [ "hilad" ],
+			"5" : [ "hilen" ]
+		}
+	}
+}

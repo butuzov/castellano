@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=derogar",
+	"word" : "derogar",
+	"infinitivo" : "derogar",
+	"participio" : [ "derogado" ],
+	"gerundio" : [ "derogando" ],
+	"tenses" : {
+		"3" : [
+			[ "derogo" ],
+			[ "derogas", "derogás" ],
+			[ "deroga" ],
+			[ "derogamos" ],
+			[ "derogáis", "derogan" ],
+			[ "derogan" ]
+		],
+		"4" : [
+			[ "derogué" ],
+			[ "derogaste" ],
+			[ "derogó" ],
+			[ "derogamos" ],
+			[ "derogasteis", "derogaron" ],
+			[ "derogaron" ]
+		],
+		"5" : [
+			[ "derogaba" ],
+			[ "derogabas" ],
+			[ "derogaba" ],
+			[ "derogábamos" ],
+			[ "derogabais", "derogaban" ],
+			[ "derogaban" ]
+		],
+		"6" : [
+			[ "derogaría" ],
+			[ "derogarías" ],
+			[ "derogaría" ],
+			[ "derogaríamos" ],
+			[ "derogaríais", "derogarían" ],
+			[ "derogarían" ]
+		],
+		"7" : [
+			[ "derogaré" ],
+			[ "derogarás" ],
+			[ "derogará" ],
+			[ "derogaremos" ],
+			[ "derogaréis", "derogarán" ],
+			[ "derogarán" ]
+		],
+		"8" : [
+			[ "derogue" ],
+			[ "derogues" ],
+			[ "derogue" ],
+			[ "deroguemos" ],
+			[ "deroguéis", "deroguen" ],
+			[ "deroguen" ]
+		],
+		"9" : [
+			[ "derogara" ],
+			[ "derogaras" ],
+			[ "derogara" ],
+			[ "derogáramos" ],
+			[ "derogarais", "derogaran" ],
+			[ "derogaran" ]
+		],
+		"10" : [
+			[ "derogase" ],
+			[ "derogases" ],
+			[ "derogase" ],
+			[ "derogásemos" ],
+			[ "derogaseis", "derogasen" ],
+			[ "derogasen" ]
+		],
+		"11" : [
+			[ "derogare" ],
+			[ "derogares" ],
+			[ "derogare" ],
+			[ "derogáremos" ],
+			[ "derogareis", "derogaren" ],
+			[ "derogaren" ]
+		],
+		"12" : {
+			"1" : [ "deroga" ],
+			"2" : [ "derogue" ],
+			"3" : [ "deroguemos" ],
+			"4" : [ "derogad" ],
+			"5" : [ "deroguen" ]
+		}
+	}
+}

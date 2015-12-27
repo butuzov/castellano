@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lisiar",
+	"word" : "lisiar",
+	"infinitivo" : "lisiar",
+	"participio" : [ "lisiado" ],
+	"gerundio" : [ "lisiando" ],
+	"tenses" : {
+		"3" : [
+			[ "lisio" ],
+			[ "lisias", "lisiás" ],
+			[ "lisia" ],
+			[ "lisiamos" ],
+			[ "lisiáis", "lisian" ],
+			[ "lisian" ]
+		],
+		"4" : [
+			[ "lisié" ],
+			[ "lisiaste" ],
+			[ "lisió" ],
+			[ "lisiamos" ],
+			[ "lisiasteis", "lisiaron" ],
+			[ "lisiaron" ]
+		],
+		"5" : [
+			[ "lisiaba" ],
+			[ "lisiabas" ],
+			[ "lisiaba" ],
+			[ "lisiábamos" ],
+			[ "lisiabais", "lisiaban" ],
+			[ "lisiaban" ]
+		],
+		"6" : [
+			[ "lisiaría" ],
+			[ "lisiarías" ],
+			[ "lisiaría" ],
+			[ "lisiaríamos" ],
+			[ "lisiaríais", "lisiarían" ],
+			[ "lisiarían" ]
+		],
+		"7" : [
+			[ "lisiaré" ],
+			[ "lisiarás" ],
+			[ "lisiará" ],
+			[ "lisiaremos" ],
+			[ "lisiaréis", "lisiarán" ],
+			[ "lisiarán" ]
+		],
+		"8" : [
+			[ "lisie" ],
+			[ "lisies" ],
+			[ "lisie" ],
+			[ "lisiemos" ],
+			[ "lisiéis", "lisien" ],
+			[ "lisien" ]
+		],
+		"9" : [
+			[ "lisiara" ],
+			[ "lisiaras" ],
+			[ "lisiara" ],
+			[ "lisiáramos" ],
+			[ "lisiarais", "lisiaran" ],
+			[ "lisiaran" ]
+		],
+		"10" : [
+			[ "lisiase" ],
+			[ "lisiases" ],
+			[ "lisiase" ],
+			[ "lisiásemos" ],
+			[ "lisiaseis", "lisiasen" ],
+			[ "lisiasen" ]
+		],
+		"11" : [
+			[ "lisiare" ],
+			[ "lisiares" ],
+			[ "lisiare" ],
+			[ "lisiáremos" ],
+			[ "lisiareis", "lisiaren" ],
+			[ "lisiaren" ]
+		],
+		"12" : {
+			"1" : [ "lisia" ],
+			"2" : [ "lisie" ],
+			"3" : [ "lisiemos" ],
+			"4" : [ "lisiad" ],
+			"5" : [ "lisien" ]
+		}
+	}
+}

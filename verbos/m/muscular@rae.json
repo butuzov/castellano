@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=muscular",
+	"word" : "muscular",
+	"infinitivo" : "muscular",
+	"participio" : [ "musculado" ],
+	"gerundio" : [ "musculando" ],
+	"tenses" : {
+		"3" : [
+			[ "musculo" ],
+			[ "musculas", "musculás" ],
+			[ "muscula" ],
+			[ "musculamos" ],
+			[ "musculáis", "musculan" ],
+			[ "musculan" ]
+		],
+		"4" : [
+			[ "musculé" ],
+			[ "musculaste" ],
+			[ "musculó" ],
+			[ "musculamos" ],
+			[ "musculasteis", "muscularon" ],
+			[ "muscularon" ]
+		],
+		"5" : [
+			[ "musculaba" ],
+			[ "musculabas" ],
+			[ "musculaba" ],
+			[ "musculábamos" ],
+			[ "musculabais", "musculaban" ],
+			[ "musculaban" ]
+		],
+		"6" : [
+			[ "muscularía" ],
+			[ "muscularías" ],
+			[ "muscularía" ],
+			[ "muscularíamos" ],
+			[ "muscularíais", "muscularían" ],
+			[ "muscularían" ]
+		],
+		"7" : [
+			[ "muscularé" ],
+			[ "muscularás" ],
+			[ "musculará" ],
+			[ "muscularemos" ],
+			[ "muscularéis", "muscularán" ],
+			[ "muscularán" ]
+		],
+		"8" : [
+			[ "muscule" ],
+			[ "muscules" ],
+			[ "muscule" ],
+			[ "musculemos" ],
+			[ "musculéis", "musculen" ],
+			[ "musculen" ]
+		],
+		"9" : [
+			[ "musculara" ],
+			[ "muscularas" ],
+			[ "musculara" ],
+			[ "musculáramos" ],
+			[ "muscularais", "muscularan" ],
+			[ "muscularan" ]
+		],
+		"10" : [
+			[ "musculase" ],
+			[ "musculases" ],
+			[ "musculase" ],
+			[ "musculásemos" ],
+			[ "musculaseis", "musculasen" ],
+			[ "musculasen" ]
+		],
+		"11" : [
+			[ "musculare" ],
+			[ "musculares" ],
+			[ "musculare" ],
+			[ "musculáremos" ],
+			[ "musculareis", "muscularen" ],
+			[ "muscularen" ]
+		],
+		"12" : {
+			"1" : [ "muscula" ],
+			"2" : [ "muscule" ],
+			"3" : [ "musculemos" ],
+			"4" : [ "musculad" ],
+			"5" : [ "musculen" ]
+		}
+	}
+}

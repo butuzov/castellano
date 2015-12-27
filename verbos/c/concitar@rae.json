@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=concitar",
+	"word" : "concitar",
+	"infinitivo" : "concitar",
+	"participio" : [ "concitado" ],
+	"gerundio" : [ "concitando" ],
+	"tenses" : {
+		"3" : [
+			[ "concito" ],
+			[ "concitas", "concitás" ],
+			[ "concita" ],
+			[ "concitamos" ],
+			[ "concitáis", "concitan" ],
+			[ "concitan" ]
+		],
+		"4" : [
+			[ "concité" ],
+			[ "concitaste" ],
+			[ "concitó" ],
+			[ "concitamos" ],
+			[ "concitasteis", "concitaron" ],
+			[ "concitaron" ]
+		],
+		"5" : [
+			[ "concitaba" ],
+			[ "concitabas" ],
+			[ "concitaba" ],
+			[ "concitábamos" ],
+			[ "concitabais", "concitaban" ],
+			[ "concitaban" ]
+		],
+		"6" : [
+			[ "concitaría" ],
+			[ "concitarías" ],
+			[ "concitaría" ],
+			[ "concitaríamos" ],
+			[ "concitaríais", "concitarían" ],
+			[ "concitarían" ]
+		],
+		"7" : [
+			[ "concitaré" ],
+			[ "concitarás" ],
+			[ "concitará" ],
+			[ "concitaremos" ],
+			[ "concitaréis", "concitarán" ],
+			[ "concitarán" ]
+		],
+		"8" : [
+			[ "concite" ],
+			[ "concites" ],
+			[ "concite" ],
+			[ "concitemos" ],
+			[ "concitéis", "conciten" ],
+			[ "conciten" ]
+		],
+		"9" : [
+			[ "concitara" ],
+			[ "concitaras" ],
+			[ "concitara" ],
+			[ "concitáramos" ],
+			[ "concitarais", "concitaran" ],
+			[ "concitaran" ]
+		],
+		"10" : [
+			[ "concitase" ],
+			[ "concitases" ],
+			[ "concitase" ],
+			[ "concitásemos" ],
+			[ "concitaseis", "concitasen" ],
+			[ "concitasen" ]
+		],
+		"11" : [
+			[ "concitare" ],
+			[ "concitares" ],
+			[ "concitare" ],
+			[ "concitáremos" ],
+			[ "concitareis", "concitaren" ],
+			[ "concitaren" ]
+		],
+		"12" : {
+			"1" : [ "concita" ],
+			"2" : [ "concite" ],
+			"3" : [ "concitemos" ],
+			"4" : [ "concitad" ],
+			"5" : [ "conciten" ]
+		}
+	}
+}

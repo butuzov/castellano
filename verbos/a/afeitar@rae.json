@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=afeitar",
+	"word" : "afeitar",
+	"infinitivo" : "afeitar",
+	"participio" : [ "afeitado" ],
+	"gerundio" : [ "afeitando" ],
+	"tenses" : {
+		"3" : [
+			[ "afeito" ],
+			[ "afeitas", "afeitás" ],
+			[ "afeita" ],
+			[ "afeitamos" ],
+			[ "afeitáis", "afeitan" ],
+			[ "afeitan" ]
+		],
+		"4" : [
+			[ "afeité" ],
+			[ "afeitaste" ],
+			[ "afeitó" ],
+			[ "afeitamos" ],
+			[ "afeitasteis", "afeitaron" ],
+			[ "afeitaron" ]
+		],
+		"5" : [
+			[ "afeitaba" ],
+			[ "afeitabas" ],
+			[ "afeitaba" ],
+			[ "afeitábamos" ],
+			[ "afeitabais", "afeitaban" ],
+			[ "afeitaban" ]
+		],
+		"6" : [
+			[ "afeitaría" ],
+			[ "afeitarías" ],
+			[ "afeitaría" ],
+			[ "afeitaríamos" ],
+			[ "afeitaríais", "afeitarían" ],
+			[ "afeitarían" ]
+		],
+		"7" : [
+			[ "afeitaré" ],
+			[ "afeitarás" ],
+			[ "afeitará" ],
+			[ "afeitaremos" ],
+			[ "afeitaréis", "afeitarán" ],
+			[ "afeitarán" ]
+		],
+		"8" : [
+			[ "afeite" ],
+			[ "afeites" ],
+			[ "afeite" ],
+			[ "afeitemos" ],
+			[ "afeitéis", "afeiten" ],
+			[ "afeiten" ]
+		],
+		"9" : [
+			[ "afeitara" ],
+			[ "afeitaras" ],
+			[ "afeitara" ],
+			[ "afeitáramos" ],
+			[ "afeitarais", "afeitaran" ],
+			[ "afeitaran" ]
+		],
+		"10" : [
+			[ "afeitase" ],
+			[ "afeitases" ],
+			[ "afeitase" ],
+			[ "afeitásemos" ],
+			[ "afeitaseis", "afeitasen" ],
+			[ "afeitasen" ]
+		],
+		"11" : [
+			[ "afeitare" ],
+			[ "afeitares" ],
+			[ "afeitare" ],
+			[ "afeitáremos" ],
+			[ "afeitareis", "afeitaren" ],
+			[ "afeitaren" ]
+		],
+		"12" : {
+			"1" : [ "afeita" ],
+			"2" : [ "afeite" ],
+			"3" : [ "afeitemos" ],
+			"4" : [ "afeitad" ],
+			"5" : [ "afeiten" ]
+		}
+	}
+}

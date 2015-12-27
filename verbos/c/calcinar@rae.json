@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=calcinar",
+	"word" : "calcinar",
+	"infinitivo" : "calcinar",
+	"participio" : [ "calcinado" ],
+	"gerundio" : [ "calcinando" ],
+	"tenses" : {
+		"3" : [
+			[ "calcino" ],
+			[ "calcinas", "calcinás" ],
+			[ "calcina" ],
+			[ "calcinamos" ],
+			[ "calcináis", "calcinan" ],
+			[ "calcinan" ]
+		],
+		"4" : [
+			[ "calciné" ],
+			[ "calcinaste" ],
+			[ "calcinó" ],
+			[ "calcinamos" ],
+			[ "calcinasteis", "calcinaron" ],
+			[ "calcinaron" ]
+		],
+		"5" : [
+			[ "calcinaba" ],
+			[ "calcinabas" ],
+			[ "calcinaba" ],
+			[ "calcinábamos" ],
+			[ "calcinabais", "calcinaban" ],
+			[ "calcinaban" ]
+		],
+		"6" : [
+			[ "calcinaría" ],
+			[ "calcinarías" ],
+			[ "calcinaría" ],
+			[ "calcinaríamos" ],
+			[ "calcinaríais", "calcinarían" ],
+			[ "calcinarían" ]
+		],
+		"7" : [
+			[ "calcinaré" ],
+			[ "calcinarás" ],
+			[ "calcinará" ],
+			[ "calcinaremos" ],
+			[ "calcinaréis", "calcinarán" ],
+			[ "calcinarán" ]
+		],
+		"8" : [
+			[ "calcine" ],
+			[ "calcines" ],
+			[ "calcine" ],
+			[ "calcinemos" ],
+			[ "calcinéis", "calcinen" ],
+			[ "calcinen" ]
+		],
+		"9" : [
+			[ "calcinara" ],
+			[ "calcinaras" ],
+			[ "calcinara" ],
+			[ "calcináramos" ],
+			[ "calcinarais", "calcinaran" ],
+			[ "calcinaran" ]
+		],
+		"10" : [
+			[ "calcinase" ],
+			[ "calcinases" ],
+			[ "calcinase" ],
+			[ "calcinásemos" ],
+			[ "calcinaseis", "calcinasen" ],
+			[ "calcinasen" ]
+		],
+		"11" : [
+			[ "calcinare" ],
+			[ "calcinares" ],
+			[ "calcinare" ],
+			[ "calcináremos" ],
+			[ "calcinareis", "calcinaren" ],
+			[ "calcinaren" ]
+		],
+		"12" : {
+			"1" : [ "calcina" ],
+			"2" : [ "calcine" ],
+			"3" : [ "calcinemos" ],
+			"4" : [ "calcinad" ],
+			"5" : [ "calcinen" ]
+		}
+	}
+}

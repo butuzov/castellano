@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=accionar",
+	"word" : "accionar",
+	"infinitivo" : "accionar",
+	"participio" : [ "accionado" ],
+	"gerundio" : [ "accionando" ],
+	"tenses" : {
+		"3" : [
+			[ "acciono" ],
+			[ "accionas", "accionás" ],
+			[ "acciona" ],
+			[ "accionamos" ],
+			[ "accionáis", "accionan" ],
+			[ "accionan" ]
+		],
+		"4" : [
+			[ "accioné" ],
+			[ "accionaste" ],
+			[ "accionó" ],
+			[ "accionamos" ],
+			[ "accionasteis", "accionaron" ],
+			[ "accionaron" ]
+		],
+		"5" : [
+			[ "accionaba" ],
+			[ "accionabas" ],
+			[ "accionaba" ],
+			[ "accionábamos" ],
+			[ "accionabais", "accionaban" ],
+			[ "accionaban" ]
+		],
+		"6" : [
+			[ "accionaría" ],
+			[ "accionarías" ],
+			[ "accionaría" ],
+			[ "accionaríamos" ],
+			[ "accionaríais", "accionarían" ],
+			[ "accionarían" ]
+		],
+		"7" : [
+			[ "accionaré" ],
+			[ "accionarás" ],
+			[ "accionará" ],
+			[ "accionaremos" ],
+			[ "accionaréis", "accionarán" ],
+			[ "accionarán" ]
+		],
+		"8" : [
+			[ "accione" ],
+			[ "acciones" ],
+			[ "accione" ],
+			[ "accionemos" ],
+			[ "accionéis", "accionen" ],
+			[ "accionen" ]
+		],
+		"9" : [
+			[ "accionara" ],
+			[ "accionaras" ],
+			[ "accionara" ],
+			[ "accionáramos" ],
+			[ "accionarais", "accionaran" ],
+			[ "accionaran" ]
+		],
+		"10" : [
+			[ "accionase" ],
+			[ "accionases" ],
+			[ "accionase" ],
+			[ "accionásemos" ],
+			[ "accionaseis", "accionasen" ],
+			[ "accionasen" ]
+		],
+		"11" : [
+			[ "accionare" ],
+			[ "accionares" ],
+			[ "accionare" ],
+			[ "accionáremos" ],
+			[ "accionareis", "accionaren" ],
+			[ "accionaren" ]
+		],
+		"12" : {
+			"1" : [ "acciona" ],
+			"2" : [ "accione" ],
+			"3" : [ "accionemos" ],
+			"4" : [ "accionad" ],
+			"5" : [ "accionen" ]
+		}
+	}
+}

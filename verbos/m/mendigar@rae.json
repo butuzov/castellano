@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mendigar",
+	"word" : "mendigar",
+	"infinitivo" : "mendigar",
+	"participio" : [ "mendigado" ],
+	"gerundio" : [ "mendigando" ],
+	"tenses" : {
+		"3" : [
+			[ "mendigo" ],
+			[ "mendigas", "mendigás" ],
+			[ "mendiga" ],
+			[ "mendigamos" ],
+			[ "mendigáis", "mendigan" ],
+			[ "mendigan" ]
+		],
+		"4" : [
+			[ "mendigué" ],
+			[ "mendigaste" ],
+			[ "mendigó" ],
+			[ "mendigamos" ],
+			[ "mendigasteis", "mendigaron" ],
+			[ "mendigaron" ]
+		],
+		"5" : [
+			[ "mendigaba" ],
+			[ "mendigabas" ],
+			[ "mendigaba" ],
+			[ "mendigábamos" ],
+			[ "mendigabais", "mendigaban" ],
+			[ "mendigaban" ]
+		],
+		"6" : [
+			[ "mendigaría" ],
+			[ "mendigarías" ],
+			[ "mendigaría" ],
+			[ "mendigaríamos" ],
+			[ "mendigaríais", "mendigarían" ],
+			[ "mendigarían" ]
+		],
+		"7" : [
+			[ "mendigaré" ],
+			[ "mendigarás" ],
+			[ "mendigará" ],
+			[ "mendigaremos" ],
+			[ "mendigaréis", "mendigarán" ],
+			[ "mendigarán" ]
+		],
+		"8" : [
+			[ "mendigue" ],
+			[ "mendigues" ],
+			[ "mendigue" ],
+			[ "mendiguemos" ],
+			[ "mendiguéis", "mendiguen" ],
+			[ "mendiguen" ]
+		],
+		"9" : [
+			[ "mendigara" ],
+			[ "mendigaras" ],
+			[ "mendigara" ],
+			[ "mendigáramos" ],
+			[ "mendigarais", "mendigaran" ],
+			[ "mendigaran" ]
+		],
+		"10" : [
+			[ "mendigase" ],
+			[ "mendigases" ],
+			[ "mendigase" ],
+			[ "mendigásemos" ],
+			[ "mendigaseis", "mendigasen" ],
+			[ "mendigasen" ]
+		],
+		"11" : [
+			[ "mendigare" ],
+			[ "mendigares" ],
+			[ "mendigare" ],
+			[ "mendigáremos" ],
+			[ "mendigareis", "mendigaren" ],
+			[ "mendigaren" ]
+		],
+		"12" : {
+			"1" : [ "mendiga" ],
+			"2" : [ "mendigue" ],
+			"3" : [ "mendiguemos" ],
+			"4" : [ "mendigad" ],
+			"5" : [ "mendiguen" ]
+		}
+	}
+}

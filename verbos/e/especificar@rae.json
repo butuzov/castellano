@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=especificar",
+	"word" : "especificar",
+	"infinitivo" : "especificar",
+	"participio" : [ "especificado" ],
+	"gerundio" : [ "especificando" ],
+	"tenses" : {
+		"3" : [
+			[ "especifico" ],
+			[ "especificas", "especificás" ],
+			[ "especifica" ],
+			[ "especificamos" ],
+			[ "especificáis", "especifican" ],
+			[ "especifican" ]
+		],
+		"4" : [
+			[ "especifiqué" ],
+			[ "especificaste" ],
+			[ "especificó" ],
+			[ "especificamos" ],
+			[ "especificasteis", "especificaron" ],
+			[ "especificaron" ]
+		],
+		"5" : [
+			[ "especificaba" ],
+			[ "especificabas" ],
+			[ "especificaba" ],
+			[ "especificábamos" ],
+			[ "especificabais", "especificaban" ],
+			[ "especificaban" ]
+		],
+		"6" : [
+			[ "especificaría" ],
+			[ "especificarías" ],
+			[ "especificaría" ],
+			[ "especificaríamos" ],
+			[ "especificaríais", "especificarían" ],
+			[ "especificarían" ]
+		],
+		"7" : [
+			[ "especificaré" ],
+			[ "especificarás" ],
+			[ "especificará" ],
+			[ "especificaremos" ],
+			[ "especificaréis", "especificarán" ],
+			[ "especificarán" ]
+		],
+		"8" : [
+			[ "especifique" ],
+			[ "especifiques" ],
+			[ "especifique" ],
+			[ "especifiquemos" ],
+			[ "especifiquéis", "especifiquen" ],
+			[ "especifiquen" ]
+		],
+		"9" : [
+			[ "especificara" ],
+			[ "especificaras" ],
+			[ "especificara" ],
+			[ "especificáramos" ],
+			[ "especificarais", "especificaran" ],
+			[ "especificaran" ]
+		],
+		"10" : [
+			[ "especificase" ],
+			[ "especificases" ],
+			[ "especificase" ],
+			[ "especificásemos" ],
+			[ "especificaseis", "especificasen" ],
+			[ "especificasen" ]
+		],
+		"11" : [
+			[ "especificare" ],
+			[ "especificares" ],
+			[ "especificare" ],
+			[ "especificáremos" ],
+			[ "especificareis", "especificaren" ],
+			[ "especificaren" ]
+		],
+		"12" : {
+			"1" : [ "especifica" ],
+			"2" : [ "especifique" ],
+			"3" : [ "especifiquemos" ],
+			"4" : [ "especificad" ],
+			"5" : [ "especifiquen" ]
+		}
+	}
+}

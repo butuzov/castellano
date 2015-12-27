@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embarazar",
+	"word" : "embarazar",
+	"infinitivo" : "embarazar",
+	"participio" : [ "embarazado" ],
+	"gerundio" : [ "embarazando" ],
+	"tenses" : {
+		"3" : [
+			[ "embarazo" ],
+			[ "embarazas", "embarazás" ],
+			[ "embaraza" ],
+			[ "embarazamos" ],
+			[ "embarazáis", "embarazan" ],
+			[ "embarazan" ]
+		],
+		"4" : [
+			[ "embaracé" ],
+			[ "embarazaste" ],
+			[ "embarazó" ],
+			[ "embarazamos" ],
+			[ "embarazasteis", "embarazaron" ],
+			[ "embarazaron" ]
+		],
+		"5" : [
+			[ "embarazaba" ],
+			[ "embarazabas" ],
+			[ "embarazaba" ],
+			[ "embarazábamos" ],
+			[ "embarazabais", "embarazaban" ],
+			[ "embarazaban" ]
+		],
+		"6" : [
+			[ "embarazaría" ],
+			[ "embarazarías" ],
+			[ "embarazaría" ],
+			[ "embarazaríamos" ],
+			[ "embarazaríais", "embarazarían" ],
+			[ "embarazarían" ]
+		],
+		"7" : [
+			[ "embarazaré" ],
+			[ "embarazarás" ],
+			[ "embarazará" ],
+			[ "embarazaremos" ],
+			[ "embarazaréis", "embarazarán" ],
+			[ "embarazarán" ]
+		],
+		"8" : [
+			[ "embarace" ],
+			[ "embaraces" ],
+			[ "embarace" ],
+			[ "embaracemos" ],
+			[ "embaracéis", "embaracen" ],
+			[ "embaracen" ]
+		],
+		"9" : [
+			[ "embarazara" ],
+			[ "embarazaras" ],
+			[ "embarazara" ],
+			[ "embarazáramos" ],
+			[ "embarazarais", "embarazaran" ],
+			[ "embarazaran" ]
+		],
+		"10" : [
+			[ "embarazase" ],
+			[ "embarazases" ],
+			[ "embarazase" ],
+			[ "embarazásemos" ],
+			[ "embarazaseis", "embarazasen" ],
+			[ "embarazasen" ]
+		],
+		"11" : [
+			[ "embarazare" ],
+			[ "embarazares" ],
+			[ "embarazare" ],
+			[ "embarazáremos" ],
+			[ "embarazareis", "embarazaren" ],
+			[ "embarazaren" ]
+		],
+		"12" : {
+			"1" : [ "embaraza" ],
+			"2" : [ "embarace" ],
+			"3" : [ "embaracemos" ],
+			"4" : [ "embarazad" ],
+			"5" : [ "embaracen" ]
+		}
+	}
+}

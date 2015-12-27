@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aparejar",
+	"word" : "aparejar",
+	"infinitivo" : "aparejar",
+	"participio" : [ "aparejado" ],
+	"gerundio" : [ "aparejando" ],
+	"tenses" : {
+		"3" : [
+			[ "aparejo" ],
+			[ "aparejas", "aparejás" ],
+			[ "apareja" ],
+			[ "aparejamos" ],
+			[ "aparejáis", "aparejan" ],
+			[ "aparejan" ]
+		],
+		"4" : [
+			[ "aparejé" ],
+			[ "aparejaste" ],
+			[ "aparejó" ],
+			[ "aparejamos" ],
+			[ "aparejasteis", "aparejaron" ],
+			[ "aparejaron" ]
+		],
+		"5" : [
+			[ "aparejaba" ],
+			[ "aparejabas" ],
+			[ "aparejaba" ],
+			[ "aparejábamos" ],
+			[ "aparejabais", "aparejaban" ],
+			[ "aparejaban" ]
+		],
+		"6" : [
+			[ "aparejaría" ],
+			[ "aparejarías" ],
+			[ "aparejaría" ],
+			[ "aparejaríamos" ],
+			[ "aparejaríais", "aparejarían" ],
+			[ "aparejarían" ]
+		],
+		"7" : [
+			[ "aparejaré" ],
+			[ "aparejarás" ],
+			[ "aparejará" ],
+			[ "aparejaremos" ],
+			[ "aparejaréis", "aparejarán" ],
+			[ "aparejarán" ]
+		],
+		"8" : [
+			[ "apareje" ],
+			[ "aparejes" ],
+			[ "apareje" ],
+			[ "aparejemos" ],
+			[ "aparejéis", "aparejen" ],
+			[ "aparejen" ]
+		],
+		"9" : [
+			[ "aparejara" ],
+			[ "aparejaras" ],
+			[ "aparejara" ],
+			[ "aparejáramos" ],
+			[ "aparejarais", "aparejaran" ],
+			[ "aparejaran" ]
+		],
+		"10" : [
+			[ "aparejase" ],
+			[ "aparejases" ],
+			[ "aparejase" ],
+			[ "aparejásemos" ],
+			[ "aparejaseis", "aparejasen" ],
+			[ "aparejasen" ]
+		],
+		"11" : [
+			[ "aparejare" ],
+			[ "aparejares" ],
+			[ "aparejare" ],
+			[ "aparejáremos" ],
+			[ "aparejareis", "aparejaren" ],
+			[ "aparejaren" ]
+		],
+		"12" : {
+			"1" : [ "apareja" ],
+			"2" : [ "apareje" ],
+			"3" : [ "aparejemos" ],
+			"4" : [ "aparejad" ],
+			"5" : [ "aparejen" ]
+		}
+	}
+}

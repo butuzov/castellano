@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=refrescar",
+	"word" : "refrescar",
+	"infinitivo" : "refrescar",
+	"participio" : [ "refrescado" ],
+	"gerundio" : [ "refrescando" ],
+	"tenses" : {
+		"3" : [
+			[ "refresco" ],
+			[ "refrescas", "refrescás" ],
+			[ "refresca" ],
+			[ "refrescamos" ],
+			[ "refrescáis", "refrescan" ],
+			[ "refrescan" ]
+		],
+		"4" : [
+			[ "refresqué" ],
+			[ "refrescaste" ],
+			[ "refrescó" ],
+			[ "refrescamos" ],
+			[ "refrescasteis", "refrescaron" ],
+			[ "refrescaron" ]
+		],
+		"5" : [
+			[ "refrescaba" ],
+			[ "refrescabas" ],
+			[ "refrescaba" ],
+			[ "refrescábamos" ],
+			[ "refrescabais", "refrescaban" ],
+			[ "refrescaban" ]
+		],
+		"6" : [
+			[ "refrescaría" ],
+			[ "refrescarías" ],
+			[ "refrescaría" ],
+			[ "refrescaríamos" ],
+			[ "refrescaríais", "refrescarían" ],
+			[ "refrescarían" ]
+		],
+		"7" : [
+			[ "refrescaré" ],
+			[ "refrescarás" ],
+			[ "refrescará" ],
+			[ "refrescaremos" ],
+			[ "refrescaréis", "refrescarán" ],
+			[ "refrescarán" ]
+		],
+		"8" : [
+			[ "refresque" ],
+			[ "refresques" ],
+			[ "refresque" ],
+			[ "refresquemos" ],
+			[ "refresquéis", "refresquen" ],
+			[ "refresquen" ]
+		],
+		"9" : [
+			[ "refrescara" ],
+			[ "refrescaras" ],
+			[ "refrescara" ],
+			[ "refrescáramos" ],
+			[ "refrescarais", "refrescaran" ],
+			[ "refrescaran" ]
+		],
+		"10" : [
+			[ "refrescase" ],
+			[ "refrescases" ],
+			[ "refrescase" ],
+			[ "refrescásemos" ],
+			[ "refrescaseis", "refrescasen" ],
+			[ "refrescasen" ]
+		],
+		"11" : [
+			[ "refrescare" ],
+			[ "refrescares" ],
+			[ "refrescare" ],
+			[ "refrescáremos" ],
+			[ "refrescareis", "refrescaren" ],
+			[ "refrescaren" ]
+		],
+		"12" : {
+			"1" : [ "refresca" ],
+			"2" : [ "refresque" ],
+			"3" : [ "refresquemos" ],
+			"4" : [ "refrescad" ],
+			"5" : [ "refresquen" ]
+		}
+	}
+}

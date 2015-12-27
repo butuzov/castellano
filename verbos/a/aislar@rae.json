@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aislar",
+	"word" : "aislar",
+	"infinitivo" : "aislar",
+	"participio" : [ "aislado" ],
+	"gerundio" : [ "aislando" ],
+	"tenses" : {
+		"3" : [
+			[ "aíslo" ],
+			[ "aíslas", "aislás" ],
+			[ "aísla" ],
+			[ "aislamos" ],
+			[ "aisláis", "aíslan" ],
+			[ "aíslan" ]
+		],
+		"4" : [
+			[ "aislé" ],
+			[ "aislaste" ],
+			[ "aisló" ],
+			[ "aislamos" ],
+			[ "aislasteis", "aislaron" ],
+			[ "aislaron" ]
+		],
+		"5" : [
+			[ "aislaba" ],
+			[ "aislabas" ],
+			[ "aislaba" ],
+			[ "aislábamos" ],
+			[ "aislabais", "aislaban" ],
+			[ "aislaban" ]
+		],
+		"6" : [
+			[ "aislaría" ],
+			[ "aislarías" ],
+			[ "aislaría" ],
+			[ "aislaríamos" ],
+			[ "aislaríais", "aislarían" ],
+			[ "aislarían" ]
+		],
+		"7" : [
+			[ "aislaré" ],
+			[ "aislarás" ],
+			[ "aislará" ],
+			[ "aislaremos" ],
+			[ "aislaréis", "aislarán" ],
+			[ "aislarán" ]
+		],
+		"8" : [
+			[ "aísle" ],
+			[ "aísles" ],
+			[ "aísle" ],
+			[ "aislemos" ],
+			[ "aisléis", "aíslen" ],
+			[ "aíslen" ]
+		],
+		"9" : [
+			[ "aislara" ],
+			[ "aislaras" ],
+			[ "aislara" ],
+			[ "aisláramos" ],
+			[ "aislarais", "aislaran" ],
+			[ "aislaran" ]
+		],
+		"10" : [
+			[ "aislase" ],
+			[ "aislases" ],
+			[ "aislase" ],
+			[ "aislásemos" ],
+			[ "aislaseis", "aislasen" ],
+			[ "aislasen" ]
+		],
+		"11" : [
+			[ "aislare" ],
+			[ "aislares" ],
+			[ "aislare" ],
+			[ "aisláremos" ],
+			[ "aislareis", "aislaren" ],
+			[ "aislaren" ]
+		],
+		"12" : {
+			"1" : [ "aísla" ],
+			"2" : [ "aísle" ],
+			"3" : [ "aislemos" ],
+			"4" : [ "aislad" ],
+			"5" : [ "aíslen" ]
+		}
+	}
+}

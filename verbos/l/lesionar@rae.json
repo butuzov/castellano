@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lesionar",
+	"word" : "lesionar",
+	"infinitivo" : "lesionar",
+	"participio" : [ "lesionado" ],
+	"gerundio" : [ "lesionando" ],
+	"tenses" : {
+		"3" : [
+			[ "lesiono" ],
+			[ "lesionas", "lesionás" ],
+			[ "lesiona" ],
+			[ "lesionamos" ],
+			[ "lesionáis", "lesionan" ],
+			[ "lesionan" ]
+		],
+		"4" : [
+			[ "lesioné" ],
+			[ "lesionaste" ],
+			[ "lesionó" ],
+			[ "lesionamos" ],
+			[ "lesionasteis", "lesionaron" ],
+			[ "lesionaron" ]
+		],
+		"5" : [
+			[ "lesionaba" ],
+			[ "lesionabas" ],
+			[ "lesionaba" ],
+			[ "lesionábamos" ],
+			[ "lesionabais", "lesionaban" ],
+			[ "lesionaban" ]
+		],
+		"6" : [
+			[ "lesionaría" ],
+			[ "lesionarías" ],
+			[ "lesionaría" ],
+			[ "lesionaríamos" ],
+			[ "lesionaríais", "lesionarían" ],
+			[ "lesionarían" ]
+		],
+		"7" : [
+			[ "lesionaré" ],
+			[ "lesionarás" ],
+			[ "lesionará" ],
+			[ "lesionaremos" ],
+			[ "lesionaréis", "lesionarán" ],
+			[ "lesionarán" ]
+		],
+		"8" : [
+			[ "lesione" ],
+			[ "lesiones" ],
+			[ "lesione" ],
+			[ "lesionemos" ],
+			[ "lesionéis", "lesionen" ],
+			[ "lesionen" ]
+		],
+		"9" : [
+			[ "lesionara" ],
+			[ "lesionaras" ],
+			[ "lesionara" ],
+			[ "lesionáramos" ],
+			[ "lesionarais", "lesionaran" ],
+			[ "lesionaran" ]
+		],
+		"10" : [
+			[ "lesionase" ],
+			[ "lesionases" ],
+			[ "lesionase" ],
+			[ "lesionásemos" ],
+			[ "lesionaseis", "lesionasen" ],
+			[ "lesionasen" ]
+		],
+		"11" : [
+			[ "lesionare" ],
+			[ "lesionares" ],
+			[ "lesionare" ],
+			[ "lesionáremos" ],
+			[ "lesionareis", "lesionaren" ],
+			[ "lesionaren" ]
+		],
+		"12" : {
+			"1" : [ "lesiona" ],
+			"2" : [ "lesione" ],
+			"3" : [ "lesionemos" ],
+			"4" : [ "lesionad" ],
+			"5" : [ "lesionen" ]
+		}
+	}
+}

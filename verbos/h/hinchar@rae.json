@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hinchar",
+	"word" : "hinchar",
+	"infinitivo" : "hinchar",
+	"participio" : [ "hinchado" ],
+	"gerundio" : [ "hinchando" ],
+	"tenses" : {
+		"3" : [
+			[ "hincho" ],
+			[ "hinchas", "hinchás" ],
+			[ "hincha" ],
+			[ "hinchamos" ],
+			[ "hincháis", "hinchan" ],
+			[ "hinchan" ]
+		],
+		"4" : [
+			[ "hinché" ],
+			[ "hinchaste" ],
+			[ "hinchó" ],
+			[ "hinchamos" ],
+			[ "hinchasteis", "hincharon" ],
+			[ "hincharon" ]
+		],
+		"5" : [
+			[ "hinchaba" ],
+			[ "hinchabas" ],
+			[ "hinchaba" ],
+			[ "hinchábamos" ],
+			[ "hinchabais", "hinchaban" ],
+			[ "hinchaban" ]
+		],
+		"6" : [
+			[ "hincharía" ],
+			[ "hincharías" ],
+			[ "hincharía" ],
+			[ "hincharíamos" ],
+			[ "hincharíais", "hincharían" ],
+			[ "hincharían" ]
+		],
+		"7" : [
+			[ "hincharé" ],
+			[ "hincharás" ],
+			[ "hinchará" ],
+			[ "hincharemos" ],
+			[ "hincharéis", "hincharán" ],
+			[ "hincharán" ]
+		],
+		"8" : [
+			[ "hinche" ],
+			[ "hinches" ],
+			[ "hinche" ],
+			[ "hinchemos" ],
+			[ "hinchéis", "hinchen" ],
+			[ "hinchen" ]
+		],
+		"9" : [
+			[ "hinchara" ],
+			[ "hincharas" ],
+			[ "hinchara" ],
+			[ "hincháramos" ],
+			[ "hincharais", "hincharan" ],
+			[ "hincharan" ]
+		],
+		"10" : [
+			[ "hinchase" ],
+			[ "hinchases" ],
+			[ "hinchase" ],
+			[ "hinchásemos" ],
+			[ "hinchaseis", "hinchasen" ],
+			[ "hinchasen" ]
+		],
+		"11" : [
+			[ "hinchare" ],
+			[ "hinchares" ],
+			[ "hinchare" ],
+			[ "hincháremos" ],
+			[ "hinchareis", "hincharen" ],
+			[ "hincharen" ]
+		],
+		"12" : {
+			"1" : [ "hincha" ],
+			"2" : [ "hinche" ],
+			"3" : [ "hinchemos" ],
+			"4" : [ "hinchad" ],
+			"5" : [ "hinchen" ]
+		}
+	}
+}

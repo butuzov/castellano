@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disipar",
+	"word" : "disipar",
+	"infinitivo" : "disipar",
+	"participio" : [ "disipado" ],
+	"gerundio" : [ "disipando" ],
+	"tenses" : {
+		"3" : [
+			[ "disipo" ],
+			[ "disipas", "disipás" ],
+			[ "disipa" ],
+			[ "disipamos" ],
+			[ "disipáis", "disipan" ],
+			[ "disipan" ]
+		],
+		"4" : [
+			[ "disipé" ],
+			[ "disipaste" ],
+			[ "disipó" ],
+			[ "disipamos" ],
+			[ "disipasteis", "disiparon" ],
+			[ "disiparon" ]
+		],
+		"5" : [
+			[ "disipaba" ],
+			[ "disipabas" ],
+			[ "disipaba" ],
+			[ "disipábamos" ],
+			[ "disipabais", "disipaban" ],
+			[ "disipaban" ]
+		],
+		"6" : [
+			[ "disiparía" ],
+			[ "disiparías" ],
+			[ "disiparía" ],
+			[ "disiparíamos" ],
+			[ "disiparíais", "disiparían" ],
+			[ "disiparían" ]
+		],
+		"7" : [
+			[ "disiparé" ],
+			[ "disiparás" ],
+			[ "disipará" ],
+			[ "disiparemos" ],
+			[ "disiparéis", "disiparán" ],
+			[ "disiparán" ]
+		],
+		"8" : [
+			[ "disipe" ],
+			[ "disipes" ],
+			[ "disipe" ],
+			[ "disipemos" ],
+			[ "disipéis", "disipen" ],
+			[ "disipen" ]
+		],
+		"9" : [
+			[ "disipara" ],
+			[ "disiparas" ],
+			[ "disipara" ],
+			[ "disipáramos" ],
+			[ "disiparais", "disiparan" ],
+			[ "disiparan" ]
+		],
+		"10" : [
+			[ "disipase" ],
+			[ "disipases" ],
+			[ "disipase" ],
+			[ "disipásemos" ],
+			[ "disipaseis", "disipasen" ],
+			[ "disipasen" ]
+		],
+		"11" : [
+			[ "disipare" ],
+			[ "disipares" ],
+			[ "disipare" ],
+			[ "disipáremos" ],
+			[ "disipareis", "disiparen" ],
+			[ "disiparen" ]
+		],
+		"12" : {
+			"1" : [ "disipa" ],
+			"2" : [ "disipe" ],
+			"3" : [ "disipemos" ],
+			"4" : [ "disipad" ],
+			"5" : [ "disipen" ]
+		}
+	}
+}

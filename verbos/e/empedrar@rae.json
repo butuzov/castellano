@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empedrar",
+	"word" : "empedrar",
+	"infinitivo" : "empedrar",
+	"participio" : [ "empedrado" ],
+	"gerundio" : [ "empedrando" ],
+	"tenses" : {
+		"3" : [
+			[ "empiedro" ],
+			[ "empiedras", "empedrás" ],
+			[ "empiedra" ],
+			[ "empedramos" ],
+			[ "empedráis", "empiedran" ],
+			[ "empiedran" ]
+		],
+		"4" : [
+			[ "empedré" ],
+			[ "empedraste" ],
+			[ "empedró" ],
+			[ "empedramos" ],
+			[ "empedrasteis", "empedraron" ],
+			[ "empedraron" ]
+		],
+		"5" : [
+			[ "empedraba" ],
+			[ "empedrabas" ],
+			[ "empedraba" ],
+			[ "empedrábamos" ],
+			[ "empedrabais", "empedraban" ],
+			[ "empedraban" ]
+		],
+		"6" : [
+			[ "empedraría" ],
+			[ "empedrarías" ],
+			[ "empedraría" ],
+			[ "empedraríamos" ],
+			[ "empedraríais", "empedrarían" ],
+			[ "empedrarían" ]
+		],
+		"7" : [
+			[ "empedraré" ],
+			[ "empedrarás" ],
+			[ "empedrará" ],
+			[ "empedraremos" ],
+			[ "empedraréis", "empedrarán" ],
+			[ "empedrarán" ]
+		],
+		"8" : [
+			[ "empiedre" ],
+			[ "empiedres" ],
+			[ "empiedre" ],
+			[ "empedremos" ],
+			[ "empedréis", "empiedren" ],
+			[ "empiedren" ]
+		],
+		"9" : [
+			[ "empedrara" ],
+			[ "empedraras" ],
+			[ "empedrara" ],
+			[ "empedráramos" ],
+			[ "empedrarais", "empedraran" ],
+			[ "empedraran" ]
+		],
+		"10" : [
+			[ "empedrase" ],
+			[ "empedrases" ],
+			[ "empedrase" ],
+			[ "empedrásemos" ],
+			[ "empedraseis", "empedrasen" ],
+			[ "empedrasen" ]
+		],
+		"11" : [
+			[ "empedrare" ],
+			[ "empedrares" ],
+			[ "empedrare" ],
+			[ "empedráremos" ],
+			[ "empedrareis", "empedraren" ],
+			[ "empedraren" ]
+		],
+		"12" : {
+			"1" : [ "empiedra" ],
+			"2" : [ "empiedre" ],
+			"3" : [ "empedremos" ],
+			"4" : [ "empedrad" ],
+			"5" : [ "empiedren" ]
+		}
+	}
+}

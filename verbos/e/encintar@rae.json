@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encintar",
+	"word" : "encintar",
+	"infinitivo" : "encintar",
+	"participio" : [ "encintado" ],
+	"gerundio" : [ "encintando" ],
+	"tenses" : {
+		"3" : [
+			[ "encinto" ],
+			[ "encintas", "encintás" ],
+			[ "encinta" ],
+			[ "encintamos" ],
+			[ "encintáis", "encintan" ],
+			[ "encintan" ]
+		],
+		"4" : [
+			[ "encinté" ],
+			[ "encintaste" ],
+			[ "encintó" ],
+			[ "encintamos" ],
+			[ "encintasteis", "encintaron" ],
+			[ "encintaron" ]
+		],
+		"5" : [
+			[ "encintaba" ],
+			[ "encintabas" ],
+			[ "encintaba" ],
+			[ "encintábamos" ],
+			[ "encintabais", "encintaban" ],
+			[ "encintaban" ]
+		],
+		"6" : [
+			[ "encintaría" ],
+			[ "encintarías" ],
+			[ "encintaría" ],
+			[ "encintaríamos" ],
+			[ "encintaríais", "encintarían" ],
+			[ "encintarían" ]
+		],
+		"7" : [
+			[ "encintaré" ],
+			[ "encintarás" ],
+			[ "encintará" ],
+			[ "encintaremos" ],
+			[ "encintaréis", "encintarán" ],
+			[ "encintarán" ]
+		],
+		"8" : [
+			[ "encinte" ],
+			[ "encintes" ],
+			[ "encinte" ],
+			[ "encintemos" ],
+			[ "encintéis", "encinten" ],
+			[ "encinten" ]
+		],
+		"9" : [
+			[ "encintara" ],
+			[ "encintaras" ],
+			[ "encintara" ],
+			[ "encintáramos" ],
+			[ "encintarais", "encintaran" ],
+			[ "encintaran" ]
+		],
+		"10" : [
+			[ "encintase" ],
+			[ "encintases" ],
+			[ "encintase" ],
+			[ "encintásemos" ],
+			[ "encintaseis", "encintasen" ],
+			[ "encintasen" ]
+		],
+		"11" : [
+			[ "encintare" ],
+			[ "encintares" ],
+			[ "encintare" ],
+			[ "encintáremos" ],
+			[ "encintareis", "encintaren" ],
+			[ "encintaren" ]
+		],
+		"12" : {
+			"1" : [ "encinta" ],
+			"2" : [ "encinte" ],
+			"3" : [ "encintemos" ],
+			"4" : [ "encintad" ],
+			"5" : [ "encinten" ]
+		}
+	}
+}

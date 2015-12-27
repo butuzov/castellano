@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=discriminar",
+	"word" : "discriminar",
+	"infinitivo" : "discriminar",
+	"participio" : [ "discriminado" ],
+	"gerundio" : [ "discriminando" ],
+	"tenses" : {
+		"3" : [
+			[ "discrimino" ],
+			[ "discriminas", "discriminás" ],
+			[ "discrimina" ],
+			[ "discriminamos" ],
+			[ "discrimináis", "discriminan" ],
+			[ "discriminan" ]
+		],
+		"4" : [
+			[ "discriminé" ],
+			[ "discriminaste" ],
+			[ "discriminó" ],
+			[ "discriminamos" ],
+			[ "discriminasteis", "discriminaron" ],
+			[ "discriminaron" ]
+		],
+		"5" : [
+			[ "discriminaba" ],
+			[ "discriminabas" ],
+			[ "discriminaba" ],
+			[ "discriminábamos" ],
+			[ "discriminabais", "discriminaban" ],
+			[ "discriminaban" ]
+		],
+		"6" : [
+			[ "discriminaría" ],
+			[ "discriminarías" ],
+			[ "discriminaría" ],
+			[ "discriminaríamos" ],
+			[ "discriminaríais", "discriminarían" ],
+			[ "discriminarían" ]
+		],
+		"7" : [
+			[ "discriminaré" ],
+			[ "discriminarás" ],
+			[ "discriminará" ],
+			[ "discriminaremos" ],
+			[ "discriminaréis", "discriminarán" ],
+			[ "discriminarán" ]
+		],
+		"8" : [
+			[ "discrimine" ],
+			[ "discrimines" ],
+			[ "discrimine" ],
+			[ "discriminemos" ],
+			[ "discriminéis", "discriminen" ],
+			[ "discriminen" ]
+		],
+		"9" : [
+			[ "discriminara" ],
+			[ "discriminaras" ],
+			[ "discriminara" ],
+			[ "discrimináramos" ],
+			[ "discriminarais", "discriminaran" ],
+			[ "discriminaran" ]
+		],
+		"10" : [
+			[ "discriminase" ],
+			[ "discriminases" ],
+			[ "discriminase" ],
+			[ "discriminásemos" ],
+			[ "discriminaseis", "discriminasen" ],
+			[ "discriminasen" ]
+		],
+		"11" : [
+			[ "discriminare" ],
+			[ "discriminares" ],
+			[ "discriminare" ],
+			[ "discrimináremos" ],
+			[ "discriminareis", "discriminaren" ],
+			[ "discriminaren" ]
+		],
+		"12" : {
+			"1" : [ "discrimina" ],
+			"2" : [ "discrimine" ],
+			"3" : [ "discriminemos" ],
+			"4" : [ "discriminad" ],
+			"5" : [ "discriminen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deterger",
+	"word" : "deterger",
+	"infinitivo" : "deterger",
+	"participio" : [ "detergido" ],
+	"gerundio" : [ "detergiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "deterjo" ],
+			[ "deterges", "detergés" ],
+			[ "deterge" ],
+			[ "detergemos" ],
+			[ "detergéis", "detergen" ],
+			[ "detergen" ]
+		],
+		"4" : [
+			[ "detergí" ],
+			[ "detergiste" ],
+			[ "detergió" ],
+			[ "detergimos" ],
+			[ "detergisteis", "detergieron" ],
+			[ "detergieron" ]
+		],
+		"5" : [
+			[ "detergía" ],
+			[ "detergías" ],
+			[ "detergía" ],
+			[ "detergíamos" ],
+			[ "detergíais", "detergían" ],
+			[ "detergían" ]
+		],
+		"6" : [
+			[ "detergería" ],
+			[ "detergerías" ],
+			[ "detergería" ],
+			[ "detergeríamos" ],
+			[ "detergeríais", "detergerían" ],
+			[ "detergerían" ]
+		],
+		"7" : [
+			[ "detergeré" ],
+			[ "detergerás" ],
+			[ "detergerá" ],
+			[ "detergeremos" ],
+			[ "detergeréis", "detergerán" ],
+			[ "detergerán" ]
+		],
+		"8" : [
+			[ "deterja" ],
+			[ "deterjas" ],
+			[ "deterja" ],
+			[ "deterjamos" ],
+			[ "deterjáis", "deterjan" ],
+			[ "deterjan" ]
+		],
+		"9" : [
+			[ "detergiera" ],
+			[ "detergieras" ],
+			[ "detergiera" ],
+			[ "detergiéramos" ],
+			[ "detergierais", "detergieran" ],
+			[ "detergieran" ]
+		],
+		"10" : [
+			[ "detergiese" ],
+			[ "detergieses" ],
+			[ "detergiese" ],
+			[ "detergiésemos" ],
+			[ "detergieseis", "detergiesen" ],
+			[ "detergiesen" ]
+		],
+		"11" : [
+			[ "detergiere" ],
+			[ "detergieres" ],
+			[ "detergiere" ],
+			[ "detergiéremos" ],
+			[ "detergiereis", "detergieren" ],
+			[ "detergieren" ]
+		],
+		"12" : {
+			"1" : [ "deterge" ],
+			"2" : [ "deterja" ],
+			"3" : [ "deterjamos" ],
+			"4" : [ "deterged" ],
+			"5" : [ "deterjan" ]
+		}
+	}
+}

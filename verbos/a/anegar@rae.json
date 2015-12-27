@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anegar",
+	"word" : "anegar",
+	"infinitivo" : "anegar",
+	"participio" : [ "anegado" ],
+	"gerundio" : [ "anegando" ],
+	"tenses" : {
+		"3" : [
+			[ "anego" ],
+			[ "anegas", "anegás" ],
+			[ "anega" ],
+			[ "anegamos" ],
+			[ "anegáis", "anegan" ],
+			[ "anegan" ]
+		],
+		"4" : [
+			[ "anegué" ],
+			[ "anegaste" ],
+			[ "anegó" ],
+			[ "anegamos" ],
+			[ "anegasteis", "anegaron" ],
+			[ "anegaron" ]
+		],
+		"5" : [
+			[ "anegaba" ],
+			[ "anegabas" ],
+			[ "anegaba" ],
+			[ "anegábamos" ],
+			[ "anegabais", "anegaban" ],
+			[ "anegaban" ]
+		],
+		"6" : [
+			[ "anegaría" ],
+			[ "anegarías" ],
+			[ "anegaría" ],
+			[ "anegaríamos" ],
+			[ "anegaríais", "anegarían" ],
+			[ "anegarían" ]
+		],
+		"7" : [
+			[ "anegaré" ],
+			[ "anegarás" ],
+			[ "anegará" ],
+			[ "anegaremos" ],
+			[ "anegaréis", "anegarán" ],
+			[ "anegarán" ]
+		],
+		"8" : [
+			[ "anegue" ],
+			[ "anegues" ],
+			[ "anegue" ],
+			[ "aneguemos" ],
+			[ "aneguéis", "aneguen" ],
+			[ "aneguen" ]
+		],
+		"9" : [
+			[ "anegara" ],
+			[ "anegaras" ],
+			[ "anegara" ],
+			[ "anegáramos" ],
+			[ "anegarais", "anegaran" ],
+			[ "anegaran" ]
+		],
+		"10" : [
+			[ "anegase" ],
+			[ "anegases" ],
+			[ "anegase" ],
+			[ "anegásemos" ],
+			[ "anegaseis", "anegasen" ],
+			[ "anegasen" ]
+		],
+		"11" : [
+			[ "anegare" ],
+			[ "anegares" ],
+			[ "anegare" ],
+			[ "anegáremos" ],
+			[ "anegareis", "anegaren" ],
+			[ "anegaren" ]
+		],
+		"12" : {
+			"1" : [ "anega" ],
+			"2" : [ "anegue" ],
+			"3" : [ "aneguemos" ],
+			"4" : [ "anegad" ],
+			"5" : [ "aneguen" ]
+		}
+	}
+}

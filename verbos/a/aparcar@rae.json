@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aparcar",
+	"word" : "aparcar",
+	"infinitivo" : "aparcar",
+	"participio" : [ "aparcado" ],
+	"gerundio" : [ "aparcando" ],
+	"tenses" : {
+		"3" : [
+			[ "aparco" ],
+			[ "aparcas", "aparcás" ],
+			[ "aparca" ],
+			[ "aparcamos" ],
+			[ "aparcáis", "aparcan" ],
+			[ "aparcan" ]
+		],
+		"4" : [
+			[ "aparqué" ],
+			[ "aparcaste" ],
+			[ "aparcó" ],
+			[ "aparcamos" ],
+			[ "aparcasteis", "aparcaron" ],
+			[ "aparcaron" ]
+		],
+		"5" : [
+			[ "aparcaba" ],
+			[ "aparcabas" ],
+			[ "aparcaba" ],
+			[ "aparcábamos" ],
+			[ "aparcabais", "aparcaban" ],
+			[ "aparcaban" ]
+		],
+		"6" : [
+			[ "aparcaría" ],
+			[ "aparcarías" ],
+			[ "aparcaría" ],
+			[ "aparcaríamos" ],
+			[ "aparcaríais", "aparcarían" ],
+			[ "aparcarían" ]
+		],
+		"7" : [
+			[ "aparcaré" ],
+			[ "aparcarás" ],
+			[ "aparcará" ],
+			[ "aparcaremos" ],
+			[ "aparcaréis", "aparcarán" ],
+			[ "aparcarán" ]
+		],
+		"8" : [
+			[ "aparque" ],
+			[ "aparques" ],
+			[ "aparque" ],
+			[ "aparquemos" ],
+			[ "aparquéis", "aparquen" ],
+			[ "aparquen" ]
+		],
+		"9" : [
+			[ "aparcara" ],
+			[ "aparcaras" ],
+			[ "aparcara" ],
+			[ "aparcáramos" ],
+			[ "aparcarais", "aparcaran" ],
+			[ "aparcaran" ]
+		],
+		"10" : [
+			[ "aparcase" ],
+			[ "aparcases" ],
+			[ "aparcase" ],
+			[ "aparcásemos" ],
+			[ "aparcaseis", "aparcasen" ],
+			[ "aparcasen" ]
+		],
+		"11" : [
+			[ "aparcare" ],
+			[ "aparcares" ],
+			[ "aparcare" ],
+			[ "aparcáremos" ],
+			[ "aparcareis", "aparcaren" ],
+			[ "aparcaren" ]
+		],
+		"12" : {
+			"1" : [ "aparca" ],
+			"2" : [ "aparque" ],
+			"3" : [ "aparquemos" ],
+			"4" : [ "aparcad" ],
+			"5" : [ "aparquen" ]
+		}
+	}
+}

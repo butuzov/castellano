@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=integrar",
+	"word" : "integrar",
+	"infinitivo" : "integrar",
+	"participio" : [ "integrado" ],
+	"gerundio" : [ "integrando" ],
+	"tenses" : {
+		"3" : [
+			[ "integro" ],
+			[ "integras", "integrás" ],
+			[ "integra" ],
+			[ "integramos" ],
+			[ "integráis", "integran" ],
+			[ "integran" ]
+		],
+		"4" : [
+			[ "integré" ],
+			[ "integraste" ],
+			[ "integró" ],
+			[ "integramos" ],
+			[ "integrasteis", "integraron" ],
+			[ "integraron" ]
+		],
+		"5" : [
+			[ "integraba" ],
+			[ "integrabas" ],
+			[ "integraba" ],
+			[ "integrábamos" ],
+			[ "integrabais", "integraban" ],
+			[ "integraban" ]
+		],
+		"6" : [
+			[ "integraría" ],
+			[ "integrarías" ],
+			[ "integraría" ],
+			[ "integraríamos" ],
+			[ "integraríais", "integrarían" ],
+			[ "integrarían" ]
+		],
+		"7" : [
+			[ "integraré" ],
+			[ "integrarás" ],
+			[ "integrará" ],
+			[ "integraremos" ],
+			[ "integraréis", "integrarán" ],
+			[ "integrarán" ]
+		],
+		"8" : [
+			[ "integre" ],
+			[ "integres" ],
+			[ "integre" ],
+			[ "integremos" ],
+			[ "integréis", "integren" ],
+			[ "integren" ]
+		],
+		"9" : [
+			[ "integrara" ],
+			[ "integraras" ],
+			[ "integrara" ],
+			[ "integráramos" ],
+			[ "integrarais", "integraran" ],
+			[ "integraran" ]
+		],
+		"10" : [
+			[ "integrase" ],
+			[ "integrases" ],
+			[ "integrase" ],
+			[ "integrásemos" ],
+			[ "integraseis", "integrasen" ],
+			[ "integrasen" ]
+		],
+		"11" : [
+			[ "integrare" ],
+			[ "integrares" ],
+			[ "integrare" ],
+			[ "integráremos" ],
+			[ "integrareis", "integraren" ],
+			[ "integraren" ]
+		],
+		"12" : {
+			"1" : [ "integra" ],
+			"2" : [ "integre" ],
+			"3" : [ "integremos" ],
+			"4" : [ "integrad" ],
+			"5" : [ "integren" ]
+		}
+	}
+}

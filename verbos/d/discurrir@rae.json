@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=discurrir",
+	"word" : "discurrir",
+	"infinitivo" : "discurrir",
+	"participio" : [ "discurrido" ],
+	"gerundio" : [ "discurriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "discurro" ],
+			[ "discurres", "discurrís" ],
+			[ "discurre" ],
+			[ "discurrimos" ],
+			[ "discurrís", "discurren" ],
+			[ "discurren" ]
+		],
+		"4" : [
+			[ "discurrí" ],
+			[ "discurriste" ],
+			[ "discurrió" ],
+			[ "discurrimos" ],
+			[ "discurristeis", "discurrieron" ],
+			[ "discurrieron" ]
+		],
+		"5" : [
+			[ "discurría" ],
+			[ "discurrías" ],
+			[ "discurría" ],
+			[ "discurríamos" ],
+			[ "discurríais", "discurrían" ],
+			[ "discurrían" ]
+		],
+		"6" : [
+			[ "discurriría" ],
+			[ "discurrirías" ],
+			[ "discurriría" ],
+			[ "discurriríamos" ],
+			[ "discurriríais", "discurrirían" ],
+			[ "discurrirían" ]
+		],
+		"7" : [
+			[ "discurriré" ],
+			[ "discurrirás" ],
+			[ "discurrirá" ],
+			[ "discurriremos" ],
+			[ "discurriréis", "discurrirán" ],
+			[ "discurrirán" ]
+		],
+		"8" : [
+			[ "discurra" ],
+			[ "discurras" ],
+			[ "discurra" ],
+			[ "discurramos" ],
+			[ "discurráis", "discurran" ],
+			[ "discurran" ]
+		],
+		"9" : [
+			[ "discurriera" ],
+			[ "discurrieras" ],
+			[ "discurriera" ],
+			[ "discurriéramos" ],
+			[ "discurrierais", "discurrieran" ],
+			[ "discurrieran" ]
+		],
+		"10" : [
+			[ "discurriese" ],
+			[ "discurrieses" ],
+			[ "discurriese" ],
+			[ "discurriésemos" ],
+			[ "discurrieseis", "discurriesen" ],
+			[ "discurriesen" ]
+		],
+		"11" : [
+			[ "discurriere" ],
+			[ "discurrieres" ],
+			[ "discurriere" ],
+			[ "discurriéremos" ],
+			[ "discurriereis", "discurrieren" ],
+			[ "discurrieren" ]
+		],
+		"12" : {
+			"1" : [ "discurre" ],
+			"2" : [ "discurra" ],
+			"3" : [ "discurramos" ],
+			"4" : [ "discurrid" ],
+			"5" : [ "discurran" ]
+		}
+	}
+}

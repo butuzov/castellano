@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rematar",
+	"word" : "rematar",
+	"infinitivo" : "rematar",
+	"participio" : [ "rematado" ],
+	"gerundio" : [ "rematando" ],
+	"tenses" : {
+		"3" : [
+			[ "remato" ],
+			[ "rematas", "rematás" ],
+			[ "remata" ],
+			[ "rematamos" ],
+			[ "rematáis", "rematan" ],
+			[ "rematan" ]
+		],
+		"4" : [
+			[ "rematé" ],
+			[ "remataste" ],
+			[ "remató" ],
+			[ "rematamos" ],
+			[ "rematasteis", "remataron" ],
+			[ "remataron" ]
+		],
+		"5" : [
+			[ "remataba" ],
+			[ "rematabas" ],
+			[ "remataba" ],
+			[ "rematábamos" ],
+			[ "rematabais", "remataban" ],
+			[ "remataban" ]
+		],
+		"6" : [
+			[ "remataría" ],
+			[ "rematarías" ],
+			[ "remataría" ],
+			[ "remataríamos" ],
+			[ "remataríais", "rematarían" ],
+			[ "rematarían" ]
+		],
+		"7" : [
+			[ "remataré" ],
+			[ "rematarás" ],
+			[ "rematará" ],
+			[ "remataremos" ],
+			[ "remataréis", "rematarán" ],
+			[ "rematarán" ]
+		],
+		"8" : [
+			[ "remate" ],
+			[ "remates" ],
+			[ "remate" ],
+			[ "rematemos" ],
+			[ "rematéis", "rematen" ],
+			[ "rematen" ]
+		],
+		"9" : [
+			[ "rematara" ],
+			[ "remataras" ],
+			[ "rematara" ],
+			[ "rematáramos" ],
+			[ "rematarais", "remataran" ],
+			[ "remataran" ]
+		],
+		"10" : [
+			[ "rematase" ],
+			[ "rematases" ],
+			[ "rematase" ],
+			[ "rematásemos" ],
+			[ "remataseis", "rematasen" ],
+			[ "rematasen" ]
+		],
+		"11" : [
+			[ "rematare" ],
+			[ "rematares" ],
+			[ "rematare" ],
+			[ "rematáremos" ],
+			[ "rematareis", "remataren" ],
+			[ "remataren" ]
+		],
+		"12" : {
+			"1" : [ "remata" ],
+			"2" : [ "remate" ],
+			"3" : [ "rematemos" ],
+			"4" : [ "rematad" ],
+			"5" : [ "rematen" ]
+		}
+	}
+}

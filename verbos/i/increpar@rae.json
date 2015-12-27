@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=increpar",
+	"word" : "increpar",
+	"infinitivo" : "increpar",
+	"participio" : [ "increpado" ],
+	"gerundio" : [ "increpando" ],
+	"tenses" : {
+		"3" : [
+			[ "increpo" ],
+			[ "increpas", "increpás" ],
+			[ "increpa" ],
+			[ "increpamos" ],
+			[ "increpáis", "increpan" ],
+			[ "increpan" ]
+		],
+		"4" : [
+			[ "increpé" ],
+			[ "increpaste" ],
+			[ "increpó" ],
+			[ "increpamos" ],
+			[ "increpasteis", "increparon" ],
+			[ "increparon" ]
+		],
+		"5" : [
+			[ "increpaba" ],
+			[ "increpabas" ],
+			[ "increpaba" ],
+			[ "increpábamos" ],
+			[ "increpabais", "increpaban" ],
+			[ "increpaban" ]
+		],
+		"6" : [
+			[ "increparía" ],
+			[ "increparías" ],
+			[ "increparía" ],
+			[ "increparíamos" ],
+			[ "increparíais", "increparían" ],
+			[ "increparían" ]
+		],
+		"7" : [
+			[ "increparé" ],
+			[ "increparás" ],
+			[ "increpará" ],
+			[ "increparemos" ],
+			[ "increparéis", "increparán" ],
+			[ "increparán" ]
+		],
+		"8" : [
+			[ "increpe" ],
+			[ "increpes" ],
+			[ "increpe" ],
+			[ "increpemos" ],
+			[ "increpéis", "increpen" ],
+			[ "increpen" ]
+		],
+		"9" : [
+			[ "increpara" ],
+			[ "increparas" ],
+			[ "increpara" ],
+			[ "increpáramos" ],
+			[ "increparais", "increparan" ],
+			[ "increparan" ]
+		],
+		"10" : [
+			[ "increpase" ],
+			[ "increpases" ],
+			[ "increpase" ],
+			[ "increpásemos" ],
+			[ "increpaseis", "increpasen" ],
+			[ "increpasen" ]
+		],
+		"11" : [
+			[ "increpare" ],
+			[ "increpares" ],
+			[ "increpare" ],
+			[ "increpáremos" ],
+			[ "increpareis", "increparen" ],
+			[ "increparen" ]
+		],
+		"12" : {
+			"1" : [ "increpa" ],
+			"2" : [ "increpe" ],
+			"3" : [ "increpemos" ],
+			"4" : [ "increpad" ],
+			"5" : [ "increpen" ]
+		}
+	}
+}

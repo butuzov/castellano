@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=combatir",
+	"word" : "combatir",
+	"infinitivo" : "combatir",
+	"participio" : [ "combatido" ],
+	"gerundio" : [ "combatiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "combato" ],
+			[ "combates", "combatís" ],
+			[ "combate" ],
+			[ "combatimos" ],
+			[ "combatís", "combaten" ],
+			[ "combaten" ]
+		],
+		"4" : [
+			[ "combatí" ],
+			[ "combatiste" ],
+			[ "combatió" ],
+			[ "combatimos" ],
+			[ "combatisteis", "combatieron" ],
+			[ "combatieron" ]
+		],
+		"5" : [
+			[ "combatía" ],
+			[ "combatías" ],
+			[ "combatía" ],
+			[ "combatíamos" ],
+			[ "combatíais", "combatían" ],
+			[ "combatían" ]
+		],
+		"6" : [
+			[ "combatiría" ],
+			[ "combatirías" ],
+			[ "combatiría" ],
+			[ "combatiríamos" ],
+			[ "combatiríais", "combatirían" ],
+			[ "combatirían" ]
+		],
+		"7" : [
+			[ "combatiré" ],
+			[ "combatirás" ],
+			[ "combatirá" ],
+			[ "combatiremos" ],
+			[ "combatiréis", "combatirán" ],
+			[ "combatirán" ]
+		],
+		"8" : [
+			[ "combata" ],
+			[ "combatas" ],
+			[ "combata" ],
+			[ "combatamos" ],
+			[ "combatáis", "combatan" ],
+			[ "combatan" ]
+		],
+		"9" : [
+			[ "combatiera" ],
+			[ "combatieras" ],
+			[ "combatiera" ],
+			[ "combatiéramos" ],
+			[ "combatierais", "combatieran" ],
+			[ "combatieran" ]
+		],
+		"10" : [
+			[ "combatiese" ],
+			[ "combatieses" ],
+			[ "combatiese" ],
+			[ "combatiésemos" ],
+			[ "combatieseis", "combatiesen" ],
+			[ "combatiesen" ]
+		],
+		"11" : [
+			[ "combatiere" ],
+			[ "combatieres" ],
+			[ "combatiere" ],
+			[ "combatiéremos" ],
+			[ "combatiereis", "combatieren" ],
+			[ "combatieren" ]
+		],
+		"12" : {
+			"1" : [ "combate" ],
+			"2" : [ "combata" ],
+			"3" : [ "combatamos" ],
+			"4" : [ "combatid" ],
+			"5" : [ "combatan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=surgir",
+	"word" : "surgir",
+	"infinitivo" : "surgir",
+	"participio" : [ "surgido" ],
+	"gerundio" : [ "surgiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "surjo" ],
+			[ "surges", "surgís" ],
+			[ "surge" ],
+			[ "surgimos" ],
+			[ "surgís", "surgen" ],
+			[ "surgen" ]
+		],
+		"4" : [
+			[ "surgí" ],
+			[ "surgiste" ],
+			[ "surgió" ],
+			[ "surgimos" ],
+			[ "surgisteis", "surgieron" ],
+			[ "surgieron" ]
+		],
+		"5" : [
+			[ "surgía" ],
+			[ "surgías" ],
+			[ "surgía" ],
+			[ "surgíamos" ],
+			[ "surgíais", "surgían" ],
+			[ "surgían" ]
+		],
+		"6" : [
+			[ "surgiría" ],
+			[ "surgirías" ],
+			[ "surgiría" ],
+			[ "surgiríamos" ],
+			[ "surgiríais", "surgirían" ],
+			[ "surgirían" ]
+		],
+		"7" : [
+			[ "surgiré" ],
+			[ "surgirás" ],
+			[ "surgirá" ],
+			[ "surgiremos" ],
+			[ "surgiréis", "surgirán" ],
+			[ "surgirán" ]
+		],
+		"8" : [
+			[ "surja" ],
+			[ "surjas" ],
+			[ "surja" ],
+			[ "surjamos" ],
+			[ "surjáis", "surjan" ],
+			[ "surjan" ]
+		],
+		"9" : [
+			[ "surgiera" ],
+			[ "surgieras" ],
+			[ "surgiera" ],
+			[ "surgiéramos" ],
+			[ "surgierais", "surgieran" ],
+			[ "surgieran" ]
+		],
+		"10" : [
+			[ "surgiese" ],
+			[ "surgieses" ],
+			[ "surgiese" ],
+			[ "surgiésemos" ],
+			[ "surgieseis", "surgiesen" ],
+			[ "surgiesen" ]
+		],
+		"11" : [
+			[ "surgiere" ],
+			[ "surgieres" ],
+			[ "surgiere" ],
+			[ "surgiéremos" ],
+			[ "surgiereis", "surgieren" ],
+			[ "surgieren" ]
+		],
+		"12" : {
+			"1" : [ "surge" ],
+			"2" : [ "surja" ],
+			"3" : [ "surjamos" ],
+			"4" : [ "surgid" ],
+			"5" : [ "surjan" ]
+		}
+	}
+}

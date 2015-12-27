@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trasegar",
+	"word" : "trasegar",
+	"infinitivo" : "trasegar",
+	"participio" : [ "trasegado" ],
+	"gerundio" : [ "trasegando" ],
+	"tenses" : {
+		"3" : [
+			[ "trasiego" ],
+			[ "trasiegas", "trasegás" ],
+			[ "trasiega" ],
+			[ "trasegamos" ],
+			[ "trasegáis", "trasiegan" ],
+			[ "trasiegan" ]
+		],
+		"4" : [
+			[ "trasegué" ],
+			[ "trasegaste" ],
+			[ "trasegó" ],
+			[ "trasegamos" ],
+			[ "trasegasteis", "trasegaron" ],
+			[ "trasegaron" ]
+		],
+		"5" : [
+			[ "trasegaba" ],
+			[ "trasegabas" ],
+			[ "trasegaba" ],
+			[ "trasegábamos" ],
+			[ "trasegabais", "trasegaban" ],
+			[ "trasegaban" ]
+		],
+		"6" : [
+			[ "trasegaría" ],
+			[ "trasegarías" ],
+			[ "trasegaría" ],
+			[ "trasegaríamos" ],
+			[ "trasegaríais", "trasegarían" ],
+			[ "trasegarían" ]
+		],
+		"7" : [
+			[ "trasegaré" ],
+			[ "trasegarás" ],
+			[ "trasegará" ],
+			[ "trasegaremos" ],
+			[ "trasegaréis", "trasegarán" ],
+			[ "trasegarán" ]
+		],
+		"8" : [
+			[ "trasiegue" ],
+			[ "trasiegues" ],
+			[ "trasiegue" ],
+			[ "traseguemos" ],
+			[ "traseguéis", "trasieguen" ],
+			[ "trasieguen" ]
+		],
+		"9" : [
+			[ "trasegara" ],
+			[ "trasegaras" ],
+			[ "trasegara" ],
+			[ "trasegáramos" ],
+			[ "trasegarais", "trasegaran" ],
+			[ "trasegaran" ]
+		],
+		"10" : [
+			[ "trasegase" ],
+			[ "trasegases" ],
+			[ "trasegase" ],
+			[ "trasegásemos" ],
+			[ "trasegaseis", "trasegasen" ],
+			[ "trasegasen" ]
+		],
+		"11" : [
+			[ "trasegare" ],
+			[ "trasegares" ],
+			[ "trasegare" ],
+			[ "trasegáremos" ],
+			[ "trasegareis", "trasegaren" ],
+			[ "trasegaren" ]
+		],
+		"12" : {
+			"1" : [ "trasiega" ],
+			"2" : [ "trasiegue" ],
+			"3" : [ "traseguemos" ],
+			"4" : [ "trasegad" ],
+			"5" : [ "trasieguen" ]
+		}
+	}
+}

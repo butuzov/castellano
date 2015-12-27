@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encuerar",
+	"word" : "encuerar",
+	"infinitivo" : "encuerar",
+	"participio" : [ "encuerado" ],
+	"gerundio" : [ "encuerando" ],
+	"tenses" : {
+		"3" : [
+			[ "encuero" ],
+			[ "encueras", "encuerás" ],
+			[ "encuera" ],
+			[ "encueramos" ],
+			[ "encueráis", "encueran" ],
+			[ "encueran" ]
+		],
+		"4" : [
+			[ "encueré" ],
+			[ "encueraste" ],
+			[ "encueró" ],
+			[ "encueramos" ],
+			[ "encuerasteis", "encueraron" ],
+			[ "encueraron" ]
+		],
+		"5" : [
+			[ "encueraba" ],
+			[ "encuerabas" ],
+			[ "encueraba" ],
+			[ "encuerábamos" ],
+			[ "encuerabais", "encueraban" ],
+			[ "encueraban" ]
+		],
+		"6" : [
+			[ "encueraría" ],
+			[ "encuerarías" ],
+			[ "encueraría" ],
+			[ "encueraríamos" ],
+			[ "encueraríais", "encuerarían" ],
+			[ "encuerarían" ]
+		],
+		"7" : [
+			[ "encueraré" ],
+			[ "encuerarás" ],
+			[ "encuerará" ],
+			[ "encueraremos" ],
+			[ "encueraréis", "encuerarán" ],
+			[ "encuerarán" ]
+		],
+		"8" : [
+			[ "encuere" ],
+			[ "encueres" ],
+			[ "encuere" ],
+			[ "encueremos" ],
+			[ "encueréis", "encueren" ],
+			[ "encueren" ]
+		],
+		"9" : [
+			[ "encuerara" ],
+			[ "encueraras" ],
+			[ "encuerara" ],
+			[ "encueráramos" ],
+			[ "encuerarais", "encueraran" ],
+			[ "encueraran" ]
+		],
+		"10" : [
+			[ "encuerase" ],
+			[ "encuerases" ],
+			[ "encuerase" ],
+			[ "encuerásemos" ],
+			[ "encueraseis", "encuerasen" ],
+			[ "encuerasen" ]
+		],
+		"11" : [
+			[ "encuerare" ],
+			[ "encuerares" ],
+			[ "encuerare" ],
+			[ "encueráremos" ],
+			[ "encuerareis", "encueraren" ],
+			[ "encueraren" ]
+		],
+		"12" : {
+			"1" : [ "encuera" ],
+			"2" : [ "encuere" ],
+			"3" : [ "encueremos" ],
+			"4" : [ "encuerad" ],
+			"5" : [ "encueren" ]
+		}
+	}
+}

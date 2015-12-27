@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=datar",
+	"word" : "datar",
+	"infinitivo" : "datar",
+	"participio" : [ "datado" ],
+	"gerundio" : [ "datando" ],
+	"tenses" : {
+		"3" : [
+			[ "dato" ],
+			[ "datas", "datás" ],
+			[ "data" ],
+			[ "datamos" ],
+			[ "datáis", "datan" ],
+			[ "datan" ]
+		],
+		"4" : [
+			[ "daté" ],
+			[ "dataste" ],
+			[ "dató" ],
+			[ "datamos" ],
+			[ "datasteis", "dataron" ],
+			[ "dataron" ]
+		],
+		"5" : [
+			[ "databa" ],
+			[ "databas" ],
+			[ "databa" ],
+			[ "datábamos" ],
+			[ "databais", "databan" ],
+			[ "databan" ]
+		],
+		"6" : [
+			[ "dataría" ],
+			[ "datarías" ],
+			[ "dataría" ],
+			[ "dataríamos" ],
+			[ "dataríais", "datarían" ],
+			[ "datarían" ]
+		],
+		"7" : [
+			[ "dataré" ],
+			[ "datarás" ],
+			[ "datará" ],
+			[ "dataremos" ],
+			[ "dataréis", "datarán" ],
+			[ "datarán" ]
+		],
+		"8" : [
+			[ "date" ],
+			[ "dates" ],
+			[ "date" ],
+			[ "datemos" ],
+			[ "datéis", "daten" ],
+			[ "daten" ]
+		],
+		"9" : [
+			[ "datara" ],
+			[ "dataras" ],
+			[ "datara" ],
+			[ "datáramos" ],
+			[ "datarais", "dataran" ],
+			[ "dataran" ]
+		],
+		"10" : [
+			[ "datase" ],
+			[ "datases" ],
+			[ "datase" ],
+			[ "datásemos" ],
+			[ "dataseis", "datasen" ],
+			[ "datasen" ]
+		],
+		"11" : [
+			[ "datare" ],
+			[ "datares" ],
+			[ "datare" ],
+			[ "datáremos" ],
+			[ "datareis", "dataren" ],
+			[ "dataren" ]
+		],
+		"12" : {
+			"1" : [ "data" ],
+			"2" : [ "date" ],
+			"3" : [ "datemos" ],
+			"4" : [ "datad" ],
+			"5" : [ "daten" ]
+		}
+	}
+}

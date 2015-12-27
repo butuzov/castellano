@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=manipular",
+	"word" : "manipular",
+	"infinitivo" : "manipular",
+	"participio" : [ "manipulado" ],
+	"gerundio" : [ "manipulando" ],
+	"tenses" : {
+		"3" : [
+			[ "manipulo" ],
+			[ "manipulas", "manipulás" ],
+			[ "manipula" ],
+			[ "manipulamos" ],
+			[ "manipuláis", "manipulan" ],
+			[ "manipulan" ]
+		],
+		"4" : [
+			[ "manipulé" ],
+			[ "manipulaste" ],
+			[ "manipuló" ],
+			[ "manipulamos" ],
+			[ "manipulasteis", "manipularon" ],
+			[ "manipularon" ]
+		],
+		"5" : [
+			[ "manipulaba" ],
+			[ "manipulabas" ],
+			[ "manipulaba" ],
+			[ "manipulábamos" ],
+			[ "manipulabais", "manipulaban" ],
+			[ "manipulaban" ]
+		],
+		"6" : [
+			[ "manipularía" ],
+			[ "manipularías" ],
+			[ "manipularía" ],
+			[ "manipularíamos" ],
+			[ "manipularíais", "manipularían" ],
+			[ "manipularían" ]
+		],
+		"7" : [
+			[ "manipularé" ],
+			[ "manipularás" ],
+			[ "manipulará" ],
+			[ "manipularemos" ],
+			[ "manipularéis", "manipularán" ],
+			[ "manipularán" ]
+		],
+		"8" : [
+			[ "manipule" ],
+			[ "manipules" ],
+			[ "manipule" ],
+			[ "manipulemos" ],
+			[ "manipuléis", "manipulen" ],
+			[ "manipulen" ]
+		],
+		"9" : [
+			[ "manipulara" ],
+			[ "manipularas" ],
+			[ "manipulara" ],
+			[ "manipuláramos" ],
+			[ "manipularais", "manipularan" ],
+			[ "manipularan" ]
+		],
+		"10" : [
+			[ "manipulase" ],
+			[ "manipulases" ],
+			[ "manipulase" ],
+			[ "manipulásemos" ],
+			[ "manipulaseis", "manipulasen" ],
+			[ "manipulasen" ]
+		],
+		"11" : [
+			[ "manipulare" ],
+			[ "manipulares" ],
+			[ "manipulare" ],
+			[ "manipuláremos" ],
+			[ "manipulareis", "manipularen" ],
+			[ "manipularen" ]
+		],
+		"12" : {
+			"1" : [ "manipula" ],
+			"2" : [ "manipule" ],
+			"3" : [ "manipulemos" ],
+			"4" : [ "manipulad" ],
+			"5" : [ "manipulen" ]
+		}
+	}
+}

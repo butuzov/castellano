@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amamantar",
+	"word" : "amamantar",
+	"infinitivo" : "amamantar",
+	"participio" : [ "amamantado" ],
+	"gerundio" : [ "amamantando" ],
+	"tenses" : {
+		"3" : [
+			[ "amamanto" ],
+			[ "amamantas", "amamantás" ],
+			[ "amamanta" ],
+			[ "amamantamos" ],
+			[ "amamantáis", "amamantan" ],
+			[ "amamantan" ]
+		],
+		"4" : [
+			[ "amamanté" ],
+			[ "amamantaste" ],
+			[ "amamantó" ],
+			[ "amamantamos" ],
+			[ "amamantasteis", "amamantaron" ],
+			[ "amamantaron" ]
+		],
+		"5" : [
+			[ "amamantaba" ],
+			[ "amamantabas" ],
+			[ "amamantaba" ],
+			[ "amamantábamos" ],
+			[ "amamantabais", "amamantaban" ],
+			[ "amamantaban" ]
+		],
+		"6" : [
+			[ "amamantaría" ],
+			[ "amamantarías" ],
+			[ "amamantaría" ],
+			[ "amamantaríamos" ],
+			[ "amamantaríais", "amamantarían" ],
+			[ "amamantarían" ]
+		],
+		"7" : [
+			[ "amamantaré" ],
+			[ "amamantarás" ],
+			[ "amamantará" ],
+			[ "amamantaremos" ],
+			[ "amamantaréis", "amamantarán" ],
+			[ "amamantarán" ]
+		],
+		"8" : [
+			[ "amamante" ],
+			[ "amamantes" ],
+			[ "amamante" ],
+			[ "amamantemos" ],
+			[ "amamantéis", "amamanten" ],
+			[ "amamanten" ]
+		],
+		"9" : [
+			[ "amamantara" ],
+			[ "amamantaras" ],
+			[ "amamantara" ],
+			[ "amamantáramos" ],
+			[ "amamantarais", "amamantaran" ],
+			[ "amamantaran" ]
+		],
+		"10" : [
+			[ "amamantase" ],
+			[ "amamantases" ],
+			[ "amamantase" ],
+			[ "amamantásemos" ],
+			[ "amamantaseis", "amamantasen" ],
+			[ "amamantasen" ]
+		],
+		"11" : [
+			[ "amamantare" ],
+			[ "amamantares" ],
+			[ "amamantare" ],
+			[ "amamantáremos" ],
+			[ "amamantareis", "amamantaren" ],
+			[ "amamantaren" ]
+		],
+		"12" : {
+			"1" : [ "amamanta" ],
+			"2" : [ "amamante" ],
+			"3" : [ "amamantemos" ],
+			"4" : [ "amamantad" ],
+			"5" : [ "amamanten" ]
+		}
+	}
+}

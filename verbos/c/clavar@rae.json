@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=clavar",
+	"word" : "clavar",
+	"infinitivo" : "clavar",
+	"participio" : [ "clavado" ],
+	"gerundio" : [ "clavando" ],
+	"tenses" : {
+		"3" : [
+			[ "clavo" ],
+			[ "clavas", "clavás" ],
+			[ "clava" ],
+			[ "clavamos" ],
+			[ "claváis", "clavan" ],
+			[ "clavan" ]
+		],
+		"4" : [
+			[ "clavé" ],
+			[ "clavaste" ],
+			[ "clavó" ],
+			[ "clavamos" ],
+			[ "clavasteis", "clavaron" ],
+			[ "clavaron" ]
+		],
+		"5" : [
+			[ "clavaba" ],
+			[ "clavabas" ],
+			[ "clavaba" ],
+			[ "clavábamos" ],
+			[ "clavabais", "clavaban" ],
+			[ "clavaban" ]
+		],
+		"6" : [
+			[ "clavaría" ],
+			[ "clavarías" ],
+			[ "clavaría" ],
+			[ "clavaríamos" ],
+			[ "clavaríais", "clavarían" ],
+			[ "clavarían" ]
+		],
+		"7" : [
+			[ "clavaré" ],
+			[ "clavarás" ],
+			[ "clavará" ],
+			[ "clavaremos" ],
+			[ "clavaréis", "clavarán" ],
+			[ "clavarán" ]
+		],
+		"8" : [
+			[ "clave" ],
+			[ "claves" ],
+			[ "clave" ],
+			[ "clavemos" ],
+			[ "clavéis", "claven" ],
+			[ "claven" ]
+		],
+		"9" : [
+			[ "clavara" ],
+			[ "clavaras" ],
+			[ "clavara" ],
+			[ "claváramos" ],
+			[ "clavarais", "clavaran" ],
+			[ "clavaran" ]
+		],
+		"10" : [
+			[ "clavase" ],
+			[ "clavases" ],
+			[ "clavase" ],
+			[ "clavásemos" ],
+			[ "clavaseis", "clavasen" ],
+			[ "clavasen" ]
+		],
+		"11" : [
+			[ "clavare" ],
+			[ "clavares" ],
+			[ "clavare" ],
+			[ "claváremos" ],
+			[ "clavareis", "clavaren" ],
+			[ "clavaren" ]
+		],
+		"12" : {
+			"1" : [ "clava" ],
+			"2" : [ "clave" ],
+			"3" : [ "clavemos" ],
+			"4" : [ "clavad" ],
+			"5" : [ "claven" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=admitir",
+	"word" : "admitir",
+	"infinitivo" : "admitir",
+	"participio" : [ "admitido" ],
+	"gerundio" : [ "admitiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "admito" ],
+			[ "admites", "admitís" ],
+			[ "admite" ],
+			[ "admitimos" ],
+			[ "admitís", "admiten" ],
+			[ "admiten" ]
+		],
+		"4" : [
+			[ "admití" ],
+			[ "admitiste" ],
+			[ "admitió" ],
+			[ "admitimos" ],
+			[ "admitisteis", "admitieron" ],
+			[ "admitieron" ]
+		],
+		"5" : [
+			[ "admitía" ],
+			[ "admitías" ],
+			[ "admitía" ],
+			[ "admitíamos" ],
+			[ "admitíais", "admitían" ],
+			[ "admitían" ]
+		],
+		"6" : [
+			[ "admitiría" ],
+			[ "admitirías" ],
+			[ "admitiría" ],
+			[ "admitiríamos" ],
+			[ "admitiríais", "admitirían" ],
+			[ "admitirían" ]
+		],
+		"7" : [
+			[ "admitiré" ],
+			[ "admitirás" ],
+			[ "admitirá" ],
+			[ "admitiremos" ],
+			[ "admitiréis", "admitirán" ],
+			[ "admitirán" ]
+		],
+		"8" : [
+			[ "admita" ],
+			[ "admitas" ],
+			[ "admita" ],
+			[ "admitamos" ],
+			[ "admitáis", "admitan" ],
+			[ "admitan" ]
+		],
+		"9" : [
+			[ "admitiera" ],
+			[ "admitieras" ],
+			[ "admitiera" ],
+			[ "admitiéramos" ],
+			[ "admitierais", "admitieran" ],
+			[ "admitieran" ]
+		],
+		"10" : [
+			[ "admitiese" ],
+			[ "admitieses" ],
+			[ "admitiese" ],
+			[ "admitiésemos" ],
+			[ "admitieseis", "admitiesen" ],
+			[ "admitiesen" ]
+		],
+		"11" : [
+			[ "admitiere" ],
+			[ "admitieres" ],
+			[ "admitiere" ],
+			[ "admitiéremos" ],
+			[ "admitiereis", "admitieren" ],
+			[ "admitieren" ]
+		],
+		"12" : {
+			"1" : [ "admite" ],
+			"2" : [ "admita" ],
+			"3" : [ "admitamos" ],
+			"4" : [ "admitid" ],
+			"5" : [ "admitan" ]
+		}
+	}
+}

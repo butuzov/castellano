@@ -1,0 +1,52 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rosar",
+	"word" : "rosar",
+	"infinitivo" : "rosar",
+	"participio" : [ "rosado" ],
+	"gerundio" : [ "rosando" ],
+	"tenses" : {
+		"3" : [
+			[ "rosa" ],
+			[ "rosan" ],
+			[ "" ]
+		],
+		"4" : [
+			[ "rosó" ],
+			[ "rosaron" ],
+			[ "" ]
+		],
+		"5" : [
+			[ "rosaba" ],
+			[ "rosaban" ],
+			[ "" ]
+		],
+		"6" : [
+			[ "rosaría" ],
+			[ "rosarían" ],
+			[ "" ]
+		],
+		"7" : [
+			[ "rosará" ],
+			[ "rosarán" ],
+			[ "" ]
+		],
+		"8" : [
+			[ "rose" ],
+			[ "rosen" ],
+			[ "" ]
+		],
+		"9" : [
+			[ "rosara" ],
+			[ "rosaran" ]
+		],
+		"10" : [
+			[ "rosase" ],
+			[ "rosasen" ]
+		],
+		"11" : [
+			[ "rosare" ],
+			[ "rosaren" ],
+			[ "" ]
+		]
+	}
+}

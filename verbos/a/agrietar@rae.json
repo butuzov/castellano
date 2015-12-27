@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agrietar",
+	"word" : "agrietar",
+	"infinitivo" : "agrietar",
+	"participio" : [ "agrietado" ],
+	"gerundio" : [ "agrietando" ],
+	"tenses" : {
+		"3" : [
+			[ "agrieto" ],
+			[ "agrietas", "agrietás" ],
+			[ "agrieta" ],
+			[ "agrietamos" ],
+			[ "agrietáis", "agrietan" ],
+			[ "agrietan" ]
+		],
+		"4" : [
+			[ "agrieté" ],
+			[ "agrietaste" ],
+			[ "agrietó" ],
+			[ "agrietamos" ],
+			[ "agrietasteis", "agrietaron" ],
+			[ "agrietaron" ]
+		],
+		"5" : [
+			[ "agrietaba" ],
+			[ "agrietabas" ],
+			[ "agrietaba" ],
+			[ "agrietábamos" ],
+			[ "agrietabais", "agrietaban" ],
+			[ "agrietaban" ]
+		],
+		"6" : [
+			[ "agrietaría" ],
+			[ "agrietarías" ],
+			[ "agrietaría" ],
+			[ "agrietaríamos" ],
+			[ "agrietaríais", "agrietarían" ],
+			[ "agrietarían" ]
+		],
+		"7" : [
+			[ "agrietaré" ],
+			[ "agrietarás" ],
+			[ "agrietará" ],
+			[ "agrietaremos" ],
+			[ "agrietaréis", "agrietarán" ],
+			[ "agrietarán" ]
+		],
+		"8" : [
+			[ "agriete" ],
+			[ "agrietes" ],
+			[ "agriete" ],
+			[ "agrietemos" ],
+			[ "agrietéis", "agrieten" ],
+			[ "agrieten" ]
+		],
+		"9" : [
+			[ "agrietara" ],
+			[ "agrietaras" ],
+			[ "agrietara" ],
+			[ "agrietáramos" ],
+			[ "agrietarais", "agrietaran" ],
+			[ "agrietaran" ]
+		],
+		"10" : [
+			[ "agrietase" ],
+			[ "agrietases" ],
+			[ "agrietase" ],
+			[ "agrietásemos" ],
+			[ "agrietaseis", "agrietasen" ],
+			[ "agrietasen" ]
+		],
+		"11" : [
+			[ "agrietare" ],
+			[ "agrietares" ],
+			[ "agrietare" ],
+			[ "agrietáremos" ],
+			[ "agrietareis", "agrietaren" ],
+			[ "agrietaren" ]
+		],
+		"12" : {
+			"1" : [ "agrieta" ],
+			"2" : [ "agriete" ],
+			"3" : [ "agrietemos" ],
+			"4" : [ "agrietad" ],
+			"5" : [ "agrieten" ]
+		}
+	}
+}

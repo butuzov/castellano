@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desvivirse",
+	"word" : "desvivirse",
+	"infinitivo" : "desvivirse",
+	"participio" : [ "desvivido" ],
+	"gerundio" : [ "desviviéndome", "desviviéndote" ],
+	"tenses" : {
+		"3" : [
+			[ "me desvivo" ],
+			[ "te desvives", "te desvivís" ],
+			[ "se desvive" ],
+			[ "nos desvivimos" ],
+			[ "os desvivís", "se desviven" ],
+			[ "se desviven" ]
+		],
+		"4" : [
+			[ "me desviví" ],
+			[ "te desviviste" ],
+			[ "se desvivió" ],
+			[ "nos desvivimos" ],
+			[ "os desvivisteis", "se desvivieron" ],
+			[ "se desvivieron" ]
+		],
+		"5" : [
+			[ "me desvivía" ],
+			[ "te desvivías" ],
+			[ "se desvivía" ],
+			[ "nos desvivíamos" ],
+			[ "os desvivíais", "se desvivían" ],
+			[ "se desvivían" ]
+		],
+		"6" : [
+			[ "me desviviría" ],
+			[ "te desvivirías" ],
+			[ "se desviviría" ],
+			[ "nos desviviríamos" ],
+			[ "os desviviríais", "se desvivirían" ],
+			[ "se desvivirían" ]
+		],
+		"7" : [
+			[ "me desviviré" ],
+			[ "te desvivirás" ],
+			[ "se desvivirá" ],
+			[ "nos desviviremos" ],
+			[ "os desviviréis", "se desvivirán" ],
+			[ "se desvivirán" ]
+		],
+		"8" : [
+			[ "me desviva" ],
+			[ "te desvivas" ],
+			[ "se desviva" ],
+			[ "nos desvivamos" ],
+			[ "os desviváis", "se desvivan" ],
+			[ "se desvivan" ]
+		],
+		"9" : [
+			[ "me desviviera" ],
+			[ "te desvivieras" ],
+			[ "se desviviera" ],
+			[ "nos desviviéramos" ],
+			[ "os desvivierais", "se desvivieran" ],
+			[ "se desvivieran" ]
+		],
+		"10" : [
+			[ "me desviviese" ],
+			[ "te desvivieses" ],
+			[ "se desviviese" ],
+			[ "nos desviviésemos" ],
+			[ "os desvivieseis", "se desviviesen" ],
+			[ "se desviviesen" ]
+		],
+		"11" : [
+			[ "me desviviere" ],
+			[ "te desvivieres" ],
+			[ "se desviviere" ],
+			[ "nos desviviéremos" ],
+			[ "os desviviereis", "se desvivieren" ],
+			[ "se desvivieren" ]
+		],
+		"12" : {
+			"1" : [ "desvívete" ],
+			"2" : [ "desviva" ],
+			"3" : [ "desvivamos" ],
+			"4" : [ "desvivíos" ],
+			"5" : [ "desvívanse" ]
+		}
+	}
+}

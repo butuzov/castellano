@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=suturar",
+	"word" : "suturar",
+	"infinitivo" : "suturar",
+	"participio" : [ "suturado" ],
+	"gerundio" : [ "suturando" ],
+	"tenses" : {
+		"3" : [
+			[ "suturo" ],
+			[ "suturas", "suturás" ],
+			[ "sutura" ],
+			[ "suturamos" ],
+			[ "suturáis", "suturan" ],
+			[ "suturan" ]
+		],
+		"4" : [
+			[ "suturé" ],
+			[ "suturaste" ],
+			[ "suturó" ],
+			[ "suturamos" ],
+			[ "suturasteis", "suturaron" ],
+			[ "suturaron" ]
+		],
+		"5" : [
+			[ "suturaba" ],
+			[ "suturabas" ],
+			[ "suturaba" ],
+			[ "suturábamos" ],
+			[ "suturabais", "suturaban" ],
+			[ "suturaban" ]
+		],
+		"6" : [
+			[ "suturaría" ],
+			[ "suturarías" ],
+			[ "suturaría" ],
+			[ "suturaríamos" ],
+			[ "suturaríais", "suturarían" ],
+			[ "suturarían" ]
+		],
+		"7" : [
+			[ "suturaré" ],
+			[ "suturarás" ],
+			[ "suturará" ],
+			[ "suturaremos" ],
+			[ "suturaréis", "suturarán" ],
+			[ "suturarán" ]
+		],
+		"8" : [
+			[ "suture" ],
+			[ "sutures" ],
+			[ "suture" ],
+			[ "suturemos" ],
+			[ "suturéis", "suturen" ],
+			[ "suturen" ]
+		],
+		"9" : [
+			[ "suturara" ],
+			[ "suturaras" ],
+			[ "suturara" ],
+			[ "suturáramos" ],
+			[ "suturarais", "suturaran" ],
+			[ "suturaran" ]
+		],
+		"10" : [
+			[ "suturase" ],
+			[ "suturases" ],
+			[ "suturase" ],
+			[ "suturásemos" ],
+			[ "suturaseis", "suturasen" ],
+			[ "suturasen" ]
+		],
+		"11" : [
+			[ "suturare" ],
+			[ "suturares" ],
+			[ "suturare" ],
+			[ "suturáremos" ],
+			[ "suturareis", "suturaren" ],
+			[ "suturaren" ]
+		],
+		"12" : {
+			"1" : [ "sutura" ],
+			"2" : [ "suture" ],
+			"3" : [ "suturemos" ],
+			"4" : [ "suturad" ],
+			"5" : [ "suturen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=manchar",
+	"word" : "manchar",
+	"infinitivo" : "manchar",
+	"participio" : [ "manchado" ],
+	"gerundio" : [ "manchando" ],
+	"tenses" : {
+		"3" : [
+			[ "mancho" ],
+			[ "manchas", "manchás" ],
+			[ "mancha" ],
+			[ "manchamos" ],
+			[ "mancháis", "manchan" ],
+			[ "manchan" ]
+		],
+		"4" : [
+			[ "manché" ],
+			[ "manchaste" ],
+			[ "manchó" ],
+			[ "manchamos" ],
+			[ "manchasteis", "mancharon" ],
+			[ "mancharon" ]
+		],
+		"5" : [
+			[ "manchaba" ],
+			[ "manchabas" ],
+			[ "manchaba" ],
+			[ "manchábamos" ],
+			[ "manchabais", "manchaban" ],
+			[ "manchaban" ]
+		],
+		"6" : [
+			[ "mancharía" ],
+			[ "mancharías" ],
+			[ "mancharía" ],
+			[ "mancharíamos" ],
+			[ "mancharíais", "mancharían" ],
+			[ "mancharían" ]
+		],
+		"7" : [
+			[ "mancharé" ],
+			[ "mancharás" ],
+			[ "manchará" ],
+			[ "mancharemos" ],
+			[ "mancharéis", "mancharán" ],
+			[ "mancharán" ]
+		],
+		"8" : [
+			[ "manche" ],
+			[ "manches" ],
+			[ "manche" ],
+			[ "manchemos" ],
+			[ "manchéis", "manchen" ],
+			[ "manchen" ]
+		],
+		"9" : [
+			[ "manchara" ],
+			[ "mancharas" ],
+			[ "manchara" ],
+			[ "mancháramos" ],
+			[ "mancharais", "mancharan" ],
+			[ "mancharan" ]
+		],
+		"10" : [
+			[ "manchase" ],
+			[ "manchases" ],
+			[ "manchase" ],
+			[ "manchásemos" ],
+			[ "manchaseis", "manchasen" ],
+			[ "manchasen" ]
+		],
+		"11" : [
+			[ "manchare" ],
+			[ "manchares" ],
+			[ "manchare" ],
+			[ "mancháremos" ],
+			[ "manchareis", "mancharen" ],
+			[ "mancharen" ]
+		],
+		"12" : {
+			"1" : [ "mancha" ],
+			"2" : [ "manche" ],
+			"3" : [ "manchemos" ],
+			"4" : [ "manchad" ],
+			"5" : [ "manchen" ]
+		}
+	}
+}

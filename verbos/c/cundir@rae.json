@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cundir",
+	"word" : "cundir",
+	"infinitivo" : "cundir",
+	"participio" : [ "cundido" ],
+	"gerundio" : [ "cundiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "cundo" ],
+			[ "cundes", "cundís" ],
+			[ "cunde" ],
+			[ "cundimos" ],
+			[ "cundís", "cunden" ],
+			[ "cunden" ]
+		],
+		"4" : [
+			[ "cundí" ],
+			[ "cundiste" ],
+			[ "cundió" ],
+			[ "cundimos" ],
+			[ "cundisteis", "cundieron" ],
+			[ "cundieron" ]
+		],
+		"5" : [
+			[ "cundía" ],
+			[ "cundías" ],
+			[ "cundía" ],
+			[ "cundíamos" ],
+			[ "cundíais", "cundían" ],
+			[ "cundían" ]
+		],
+		"6" : [
+			[ "cundiría" ],
+			[ "cundirías" ],
+			[ "cundiría" ],
+			[ "cundiríamos" ],
+			[ "cundiríais", "cundirían" ],
+			[ "cundirían" ]
+		],
+		"7" : [
+			[ "cundiré" ],
+			[ "cundirás" ],
+			[ "cundirá" ],
+			[ "cundiremos" ],
+			[ "cundiréis", "cundirán" ],
+			[ "cundirán" ]
+		],
+		"8" : [
+			[ "cunda" ],
+			[ "cundas" ],
+			[ "cunda" ],
+			[ "cundamos" ],
+			[ "cundáis", "cundan" ],
+			[ "cundan" ]
+		],
+		"9" : [
+			[ "cundiera" ],
+			[ "cundieras" ],
+			[ "cundiera" ],
+			[ "cundiéramos" ],
+			[ "cundierais", "cundieran" ],
+			[ "cundieran" ]
+		],
+		"10" : [
+			[ "cundiese" ],
+			[ "cundieses" ],
+			[ "cundiese" ],
+			[ "cundiésemos" ],
+			[ "cundieseis", "cundiesen" ],
+			[ "cundiesen" ]
+		],
+		"11" : [
+			[ "cundiere" ],
+			[ "cundieres" ],
+			[ "cundiere" ],
+			[ "cundiéremos" ],
+			[ "cundiereis", "cundieren" ],
+			[ "cundieren" ]
+		],
+		"12" : {
+			"1" : [ "cunde" ],
+			"2" : [ "cunda" ],
+			"3" : [ "cundamos" ],
+			"4" : [ "cundid" ],
+			"5" : [ "cundan" ]
+		}
+	}
+}

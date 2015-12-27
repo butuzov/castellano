@@ -1,0 +1,77 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=garantir",
+	"word" : "garantir",
+	"infinitivo" : "garantir",
+	"participio" : [ "garantido" ],
+	"gerundio" : [ "garantiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "garantís" ],
+			[ "garantimos" ],
+			[ "garantís" ]
+		],
+		"4" : [
+			[ "garantí" ],
+			[ "garantiste" ],
+			[ "garantió" ],
+			[ "garantimos" ],
+			[ "garantisteis", "garantieron" ],
+			[ "garantieron" ]
+		],
+		"5" : [
+			[ "garantía" ],
+			[ "garantías" ],
+			[ "garantía" ],
+			[ "garantíamos" ],
+			[ "garantíais", "garantían" ],
+			[ "garantían" ]
+		],
+		"6" : [
+			[ "garantiría" ],
+			[ "garantirías" ],
+			[ "garantiría" ],
+			[ "garantiríamos" ],
+			[ "garantiríais", "garantirían" ],
+			[ "garantirían" ]
+		],
+		"7" : [
+			[ "garantiré" ],
+			[ "garantirás" ],
+			[ "garantirá" ],
+			[ "garantiremos" ],
+			[ "garantiréis", "garantirán" ],
+			[ "garantirán" ]
+		],
+		"9" : [
+			[ "garantiera" ],
+			[ "garantieras" ],
+			[ "garantiera" ],
+			[ "garantiéramos" ],
+			[ "garantierais", "garantieran" ],
+			[ "garantieran" ]
+		],
+		"10" : [
+			[ "garantiese" ],
+			[ "garantieses" ],
+			[ "garantiese" ],
+			[ "garantiésemos" ],
+			[ "garantieseis", "garantiesen" ],
+			[ "garantiesen" ]
+		],
+		"11" : [
+			[ "garantiere" ],
+			[ "garantieres" ],
+			[ "garantiere" ],
+			[ "garantiéremos" ],
+			[ "garantiereis", "garantieren" ],
+			[ "garantieren" ]
+		],
+		"12" : {
+			"1" : [ "garantí" ],
+			"2" : null,
+			"3" : null,
+			"4" : [ null ],
+			"5" : [ null ]
+		}
+	}
+}

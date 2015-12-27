@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reconvertir",
+	"word" : "reconvertir",
+	"infinitivo" : "reconvertir",
+	"participio" : [ "reconvertido" ],
+	"gerundio" : [ "reconvirtiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reconvierto" ],
+			[ "reconviertes", "reconvertís" ],
+			[ "reconvierte" ],
+			[ "reconvertimos" ],
+			[ "reconvertís", "reconvierten" ],
+			[ "reconvierten" ]
+		],
+		"4" : [
+			[ "reconvertí" ],
+			[ "reconvertiste" ],
+			[ "reconvirtió" ],
+			[ "reconvertimos" ],
+			[ "reconvertisteis", "reconvirtieron" ],
+			[ "reconvirtieron" ]
+		],
+		"5" : [
+			[ "reconvertía" ],
+			[ "reconvertías" ],
+			[ "reconvertía" ],
+			[ "reconvertíamos" ],
+			[ "reconvertíais", "reconvertían" ],
+			[ "reconvertían" ]
+		],
+		"6" : [
+			[ "reconvertiría" ],
+			[ "reconvertirías" ],
+			[ "reconvertiría" ],
+			[ "reconvertiríamos" ],
+			[ "reconvertiríais", "reconvertirían" ],
+			[ "reconvertirían" ]
+		],
+		"7" : [
+			[ "reconvertiré" ],
+			[ "reconvertirás" ],
+			[ "reconvertirá" ],
+			[ "reconvertiremos" ],
+			[ "reconvertiréis", "reconvertirán" ],
+			[ "reconvertirán" ]
+		],
+		"8" : [
+			[ "reconvierta" ],
+			[ "reconviertas" ],
+			[ "reconvierta" ],
+			[ "reconvirtamos" ],
+			[ "reconvirtáis", "reconviertan" ],
+			[ "reconviertan" ]
+		],
+		"9" : [
+			[ "reconvirtiera" ],
+			[ "reconvirtieras" ],
+			[ "reconvirtiera" ],
+			[ "reconvirtiéramos" ],
+			[ "reconvirtierais", "reconvirtieran" ],
+			[ "reconvirtieran" ]
+		],
+		"10" : [
+			[ "reconvirtiese" ],
+			[ "reconvirtieses" ],
+			[ "reconvirtiese" ],
+			[ "reconvirtiésemos" ],
+			[ "reconvirtieseis", "reconvirtiesen" ],
+			[ "reconvirtiesen" ]
+		],
+		"11" : [
+			[ "reconvirtiere" ],
+			[ "reconvirtieres" ],
+			[ "reconvirtiere" ],
+			[ "reconvirtiéremos" ],
+			[ "reconvirtiereis", "reconvirtieren" ],
+			[ "reconvirtieren" ]
+		],
+		"12" : {
+			"1" : [ "reconvierte" ],
+			"2" : [ "reconvierta" ],
+			"3" : [ "reconvirtamos" ],
+			"4" : [ "reconvertid" ],
+			"5" : [ "reconviertan" ]
+		}
+	}
+}

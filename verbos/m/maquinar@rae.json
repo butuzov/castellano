@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=maquinar",
+	"word" : "maquinar",
+	"infinitivo" : "maquinar",
+	"participio" : [ "maquinado" ],
+	"gerundio" : [ "maquinando" ],
+	"tenses" : {
+		"3" : [
+			[ "maquino" ],
+			[ "maquinas", "maquinás" ],
+			[ "maquina" ],
+			[ "maquinamos" ],
+			[ "maquináis", "maquinan" ],
+			[ "maquinan" ]
+		],
+		"4" : [
+			[ "maquiné" ],
+			[ "maquinaste" ],
+			[ "maquinó" ],
+			[ "maquinamos" ],
+			[ "maquinasteis", "maquinaron" ],
+			[ "maquinaron" ]
+		],
+		"5" : [
+			[ "maquinaba" ],
+			[ "maquinabas" ],
+			[ "maquinaba" ],
+			[ "maquinábamos" ],
+			[ "maquinabais", "maquinaban" ],
+			[ "maquinaban" ]
+		],
+		"6" : [
+			[ "maquinaría" ],
+			[ "maquinarías" ],
+			[ "maquinaría" ],
+			[ "maquinaríamos" ],
+			[ "maquinaríais", "maquinarían" ],
+			[ "maquinarían" ]
+		],
+		"7" : [
+			[ "maquinaré" ],
+			[ "maquinarás" ],
+			[ "maquinará" ],
+			[ "maquinaremos" ],
+			[ "maquinaréis", "maquinarán" ],
+			[ "maquinarán" ]
+		],
+		"8" : [
+			[ "maquine" ],
+			[ "maquines" ],
+			[ "maquine" ],
+			[ "maquinemos" ],
+			[ "maquinéis", "maquinen" ],
+			[ "maquinen" ]
+		],
+		"9" : [
+			[ "maquinara" ],
+			[ "maquinaras" ],
+			[ "maquinara" ],
+			[ "maquináramos" ],
+			[ "maquinarais", "maquinaran" ],
+			[ "maquinaran" ]
+		],
+		"10" : [
+			[ "maquinase" ],
+			[ "maquinases" ],
+			[ "maquinase" ],
+			[ "maquinásemos" ],
+			[ "maquinaseis", "maquinasen" ],
+			[ "maquinasen" ]
+		],
+		"11" : [
+			[ "maquinare" ],
+			[ "maquinares" ],
+			[ "maquinare" ],
+			[ "maquináremos" ],
+			[ "maquinareis", "maquinaren" ],
+			[ "maquinaren" ]
+		],
+		"12" : {
+			"1" : [ "maquina" ],
+			"2" : [ "maquine" ],
+			"3" : [ "maquinemos" ],
+			"4" : [ "maquinad" ],
+			"5" : [ "maquinen" ]
+		}
+	}
+}

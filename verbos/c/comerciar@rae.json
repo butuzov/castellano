@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comerciar",
+	"word" : "comerciar",
+	"infinitivo" : "comerciar",
+	"participio" : [ "comerciado" ],
+	"gerundio" : [ "comerciando" ],
+	"tenses" : {
+		"3" : [
+			[ "comercio" ],
+			[ "comercias", "comerciás" ],
+			[ "comercia" ],
+			[ "comerciamos" ],
+			[ "comerciáis", "comercian" ],
+			[ "comercian" ]
+		],
+		"4" : [
+			[ "comercié" ],
+			[ "comerciaste" ],
+			[ "comerció" ],
+			[ "comerciamos" ],
+			[ "comerciasteis", "comerciaron" ],
+			[ "comerciaron" ]
+		],
+		"5" : [
+			[ "comerciaba" ],
+			[ "comerciabas" ],
+			[ "comerciaba" ],
+			[ "comerciábamos" ],
+			[ "comerciabais", "comerciaban" ],
+			[ "comerciaban" ]
+		],
+		"6" : [
+			[ "comerciaría" ],
+			[ "comerciarías" ],
+			[ "comerciaría" ],
+			[ "comerciaríamos" ],
+			[ "comerciaríais", "comerciarían" ],
+			[ "comerciarían" ]
+		],
+		"7" : [
+			[ "comerciaré" ],
+			[ "comerciarás" ],
+			[ "comerciará" ],
+			[ "comerciaremos" ],
+			[ "comerciaréis", "comerciarán" ],
+			[ "comerciarán" ]
+		],
+		"8" : [
+			[ "comercie" ],
+			[ "comercies" ],
+			[ "comercie" ],
+			[ "comerciemos" ],
+			[ "comerciéis", "comercien" ],
+			[ "comercien" ]
+		],
+		"9" : [
+			[ "comerciara" ],
+			[ "comerciaras" ],
+			[ "comerciara" ],
+			[ "comerciáramos" ],
+			[ "comerciarais", "comerciaran" ],
+			[ "comerciaran" ]
+		],
+		"10" : [
+			[ "comerciase" ],
+			[ "comerciases" ],
+			[ "comerciase" ],
+			[ "comerciásemos" ],
+			[ "comerciaseis", "comerciasen" ],
+			[ "comerciasen" ]
+		],
+		"11" : [
+			[ "comerciare" ],
+			[ "comerciares" ],
+			[ "comerciare" ],
+			[ "comerciáremos" ],
+			[ "comerciareis", "comerciaren" ],
+			[ "comerciaren" ]
+		],
+		"12" : {
+			"1" : [ "comercia" ],
+			"2" : [ "comercie" ],
+			"3" : [ "comerciemos" ],
+			"4" : [ "comerciad" ],
+			"5" : [ "comercien" ]
+		}
+	}
+}

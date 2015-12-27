@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=yacer",
+	"word" : "yacer",
+	"infinitivo" : "yacer",
+	"participio" : [ "yacido" ],
+	"gerundio" : [ "yaciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "yazco", "yazgo", "yago" ],
+			[ "yaces", "yacés" ],
+			[ "yace" ],
+			[ "yacemos" ],
+			[ "yacéis", "yacen" ],
+			[ "yacen" ]
+		],
+		"4" : [
+			[ "yací" ],
+			[ "yaciste" ],
+			[ "yació" ],
+			[ "yacimos" ],
+			[ "yacisteis", "yacieron" ],
+			[ "yacieron" ]
+		],
+		"5" : [
+			[ "yacía" ],
+			[ "yacías" ],
+			[ "yacía" ],
+			[ "yacíamos" ],
+			[ "yacíais", "yacían" ],
+			[ "yacían" ]
+		],
+		"6" : [
+			[ "yacería" ],
+			[ "yacerías" ],
+			[ "yacería" ],
+			[ "yaceríamos" ],
+			[ "yaceríais", "yacerían" ],
+			[ "yacerían" ]
+		],
+		"7" : [
+			[ "yaceré" ],
+			[ "yacerás" ],
+			[ "yacerá" ],
+			[ "yaceremos" ],
+			[ "yaceréis", "yacerán" ],
+			[ "yacerán" ]
+		],
+		"8" : [
+			[ "yazca", "yazga", "yaga" ],
+			[ "yazcas", "yazgas", "yagas" ],
+			[ "yazca", "yazga" ],
+			[ "yazcamos", "yazgamos" ],
+			[ "yazcáis", "yazgáis", "yagáis", "yazcan", "yazgan" ],
+			[ "yazcan", "yazgan", "yagan" ]
+		],
+		"9" : [
+			[ "yaciera" ],
+			[ "yacieras" ],
+			[ "yaciera" ],
+			[ "yaciéramos" ],
+			[ "yacierais", "yacieran" ],
+			[ "yacieran" ]
+		],
+		"10" : [
+			[ "yaciese" ],
+			[ "yacieses" ],
+			[ "yaciese" ],
+			[ "yaciésemos" ],
+			[ "yacieseis", "yaciesen" ],
+			[ "yaciesen" ]
+		],
+		"11" : [
+			[ "yaciere" ],
+			[ "yacieres" ],
+			[ "yaciere" ],
+			[ "yaciéremos" ],
+			[ "yaciereis", "yacieren" ],
+			[ "yacieren" ]
+		],
+		"12" : {
+			"1" : [ "yace", "yaz" ],
+			"2" : [ "yazca", "yazga" ],
+			"3" : [ "yazcamos", "yazgamos" ],
+			"4" : [ "yaced" ],
+			"5" : [ "yazcan", "yazgan" ]
+		}
+	}
+}

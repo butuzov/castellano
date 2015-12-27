@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=generar",
+	"word" : "generar",
+	"infinitivo" : "generar",
+	"participio" : [ "generado" ],
+	"gerundio" : [ "generando" ],
+	"tenses" : {
+		"3" : [
+			[ "genero" ],
+			[ "generas", "generás" ],
+			[ "genera" ],
+			[ "generamos" ],
+			[ "generáis", "generan" ],
+			[ "generan" ]
+		],
+		"4" : [
+			[ "generé" ],
+			[ "generaste" ],
+			[ "generó" ],
+			[ "generamos" ],
+			[ "generasteis", "generaron" ],
+			[ "generaron" ]
+		],
+		"5" : [
+			[ "generaba" ],
+			[ "generabas" ],
+			[ "generaba" ],
+			[ "generábamos" ],
+			[ "generabais", "generaban" ],
+			[ "generaban" ]
+		],
+		"6" : [
+			[ "generaría" ],
+			[ "generarías" ],
+			[ "generaría" ],
+			[ "generaríamos" ],
+			[ "generaríais", "generarían" ],
+			[ "generarían" ]
+		],
+		"7" : [
+			[ "generaré" ],
+			[ "generarás" ],
+			[ "generará" ],
+			[ "generaremos" ],
+			[ "generaréis", "generarán" ],
+			[ "generarán" ]
+		],
+		"8" : [
+			[ "genere" ],
+			[ "generes" ],
+			[ "genere" ],
+			[ "generemos" ],
+			[ "generéis", "generen" ],
+			[ "generen" ]
+		],
+		"9" : [
+			[ "generara" ],
+			[ "generaras" ],
+			[ "generara" ],
+			[ "generáramos" ],
+			[ "generarais", "generaran" ],
+			[ "generaran" ]
+		],
+		"10" : [
+			[ "generase" ],
+			[ "generases" ],
+			[ "generase" ],
+			[ "generásemos" ],
+			[ "generaseis", "generasen" ],
+			[ "generasen" ]
+		],
+		"11" : [
+			[ "generare" ],
+			[ "generares" ],
+			[ "generare" ],
+			[ "generáremos" ],
+			[ "generareis", "generaren" ],
+			[ "generaren" ]
+		],
+		"12" : {
+			"1" : [ "genera" ],
+			"2" : [ "genere" ],
+			"3" : [ "generemos" ],
+			"4" : [ "generad" ],
+			"5" : [ "generen" ]
+		}
+	}
+}

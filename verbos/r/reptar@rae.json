@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reptar",
+	"word" : "reptar",
+	"infinitivo" : "reptar",
+	"participio" : [ "reptado" ],
+	"gerundio" : [ "reptando" ],
+	"tenses" : {
+		"3" : [
+			[ "repto" ],
+			[ "reptas", "reptás" ],
+			[ "repta" ],
+			[ "reptamos" ],
+			[ "reptáis", "reptan" ],
+			[ "reptan" ]
+		],
+		"4" : [
+			[ "repté" ],
+			[ "reptaste" ],
+			[ "reptó" ],
+			[ "reptamos" ],
+			[ "reptasteis", "reptaron" ],
+			[ "reptaron" ]
+		],
+		"5" : [
+			[ "reptaba" ],
+			[ "reptabas" ],
+			[ "reptaba" ],
+			[ "reptábamos" ],
+			[ "reptabais", "reptaban" ],
+			[ "reptaban" ]
+		],
+		"6" : [
+			[ "reptaría" ],
+			[ "reptarías" ],
+			[ "reptaría" ],
+			[ "reptaríamos" ],
+			[ "reptaríais", "reptarían" ],
+			[ "reptarían" ]
+		],
+		"7" : [
+			[ "reptaré" ],
+			[ "reptarás" ],
+			[ "reptará" ],
+			[ "reptaremos" ],
+			[ "reptaréis", "reptarán" ],
+			[ "reptarán" ]
+		],
+		"8" : [
+			[ "repte" ],
+			[ "reptes" ],
+			[ "repte" ],
+			[ "reptemos" ],
+			[ "reptéis", "repten" ],
+			[ "repten" ]
+		],
+		"9" : [
+			[ "reptara" ],
+			[ "reptaras" ],
+			[ "reptara" ],
+			[ "reptáramos" ],
+			[ "reptarais", "reptaran" ],
+			[ "reptaran" ]
+		],
+		"10" : [
+			[ "reptase" ],
+			[ "reptases" ],
+			[ "reptase" ],
+			[ "reptásemos" ],
+			[ "reptaseis", "reptasen" ],
+			[ "reptasen" ]
+		],
+		"11" : [
+			[ "reptare" ],
+			[ "reptares" ],
+			[ "reptare" ],
+			[ "reptáremos" ],
+			[ "reptareis", "reptaren" ],
+			[ "reptaren" ]
+		],
+		"12" : {
+			"1" : [ "repta" ],
+			"2" : [ "repte" ],
+			"3" : [ "reptemos" ],
+			"4" : [ "reptad" ],
+			"5" : [ "repten" ]
+		}
+	}
+}

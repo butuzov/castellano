@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=absolver",
+	"word" : "absolver",
+	"infinitivo" : "absolver",
+	"participio" : [ "absuelto" ],
+	"gerundio" : [ "absolviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "absuelvo" ],
+			[ "absuelves", "absolvés" ],
+			[ "absuelve" ],
+			[ "absolvemos" ],
+			[ "absolvéis", "absuelven" ],
+			[ "absuelven" ]
+		],
+		"4" : [
+			[ "absolví" ],
+			[ "absolviste" ],
+			[ "absolvió" ],
+			[ "absolvimos" ],
+			[ "absolvisteis", "absolvieron" ],
+			[ "absolvieron" ]
+		],
+		"5" : [
+			[ "absolvía" ],
+			[ "absolvías" ],
+			[ "absolvía" ],
+			[ "absolvíamos" ],
+			[ "absolvíais", "absolvían" ],
+			[ "absolvían" ]
+		],
+		"6" : [
+			[ "absolvería" ],
+			[ "absolverías" ],
+			[ "absolvería" ],
+			[ "absolveríamos" ],
+			[ "absolveríais", "absolverían" ],
+			[ "absolverían" ]
+		],
+		"7" : [
+			[ "absolveré" ],
+			[ "absolverás" ],
+			[ "absolverá" ],
+			[ "absolveremos" ],
+			[ "absolveréis", "absolverán" ],
+			[ "absolverán" ]
+		],
+		"8" : [
+			[ "absuelva" ],
+			[ "absuelvas" ],
+			[ "absuelva" ],
+			[ "absolvamos" ],
+			[ "absolváis", "absuelvan" ],
+			[ "absuelvan" ]
+		],
+		"9" : [
+			[ "absolviera" ],
+			[ "absolvieras" ],
+			[ "absolviera" ],
+			[ "absolviéramos" ],
+			[ "absolvierais", "absolvieran" ],
+			[ "absolvieran" ]
+		],
+		"10" : [
+			[ "absolviese" ],
+			[ "absolvieses" ],
+			[ "absolviese" ],
+			[ "absolviésemos" ],
+			[ "absolvieseis", "absolviesen" ],
+			[ "absolviesen" ]
+		],
+		"11" : [
+			[ "absolviere" ],
+			[ "absolvieres" ],
+			[ "absolviere" ],
+			[ "absolviéremos" ],
+			[ "absolviereis", "absolvieren" ],
+			[ "absolvieren" ]
+		],
+		"12" : {
+			"1" : [ "absuelve" ],
+			"2" : [ "absuelva" ],
+			"3" : [ "absolvamos" ],
+			"4" : [ "absolved" ],
+			"5" : [ "absuelvan" ]
+		}
+	}
+}

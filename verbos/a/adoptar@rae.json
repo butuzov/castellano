@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adoptar",
+	"word" : "adoptar",
+	"infinitivo" : "adoptar",
+	"participio" : [ "adoptado" ],
+	"gerundio" : [ "adoptando" ],
+	"tenses" : {
+		"3" : [
+			[ "adopto" ],
+			[ "adoptas", "adoptás" ],
+			[ "adopta" ],
+			[ "adoptamos" ],
+			[ "adoptáis", "adoptan" ],
+			[ "adoptan" ]
+		],
+		"4" : [
+			[ "adopté" ],
+			[ "adoptaste" ],
+			[ "adoptó" ],
+			[ "adoptamos" ],
+			[ "adoptasteis", "adoptaron" ],
+			[ "adoptaron" ]
+		],
+		"5" : [
+			[ "adoptaba" ],
+			[ "adoptabas" ],
+			[ "adoptaba" ],
+			[ "adoptábamos" ],
+			[ "adoptabais", "adoptaban" ],
+			[ "adoptaban" ]
+		],
+		"6" : [
+			[ "adoptaría" ],
+			[ "adoptarías" ],
+			[ "adoptaría" ],
+			[ "adoptaríamos" ],
+			[ "adoptaríais", "adoptarían" ],
+			[ "adoptarían" ]
+		],
+		"7" : [
+			[ "adoptaré" ],
+			[ "adoptarás" ],
+			[ "adoptará" ],
+			[ "adoptaremos" ],
+			[ "adoptaréis", "adoptarán" ],
+			[ "adoptarán" ]
+		],
+		"8" : [
+			[ "adopte" ],
+			[ "adoptes" ],
+			[ "adopte" ],
+			[ "adoptemos" ],
+			[ "adoptéis", "adopten" ],
+			[ "adopten" ]
+		],
+		"9" : [
+			[ "adoptara" ],
+			[ "adoptaras" ],
+			[ "adoptara" ],
+			[ "adoptáramos" ],
+			[ "adoptarais", "adoptaran" ],
+			[ "adoptaran" ]
+		],
+		"10" : [
+			[ "adoptase" ],
+			[ "adoptases" ],
+			[ "adoptase" ],
+			[ "adoptásemos" ],
+			[ "adoptaseis", "adoptasen" ],
+			[ "adoptasen" ]
+		],
+		"11" : [
+			[ "adoptare" ],
+			[ "adoptares" ],
+			[ "adoptare" ],
+			[ "adoptáremos" ],
+			[ "adoptareis", "adoptaren" ],
+			[ "adoptaren" ]
+		],
+		"12" : {
+			"1" : [ "adopta" ],
+			"2" : [ "adopte" ],
+			"3" : [ "adoptemos" ],
+			"4" : [ "adoptad" ],
+			"5" : [ "adopten" ]
+		}
+	}
+}

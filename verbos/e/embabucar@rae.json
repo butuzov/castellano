@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embabucar",
+	"word" : "embabucar",
+	"infinitivo" : "embabucar",
+	"participio" : [ "embabucado" ],
+	"gerundio" : [ "embabucando" ],
+	"tenses" : {
+		"3" : [
+			[ "embabuco" ],
+			[ "embabucas", "embabucás" ],
+			[ "embabuca" ],
+			[ "embabucamos" ],
+			[ "embabucáis", "embabucan" ],
+			[ "embabucan" ]
+		],
+		"4" : [
+			[ "embabuqué" ],
+			[ "embabucaste" ],
+			[ "embabucó" ],
+			[ "embabucamos" ],
+			[ "embabucasteis", "embabucaron" ],
+			[ "embabucaron" ]
+		],
+		"5" : [
+			[ "embabucaba" ],
+			[ "embabucabas" ],
+			[ "embabucaba" ],
+			[ "embabucábamos" ],
+			[ "embabucabais", "embabucaban" ],
+			[ "embabucaban" ]
+		],
+		"6" : [
+			[ "embabucaría" ],
+			[ "embabucarías" ],
+			[ "embabucaría" ],
+			[ "embabucaríamos" ],
+			[ "embabucaríais", "embabucarían" ],
+			[ "embabucarían" ]
+		],
+		"7" : [
+			[ "embabucaré" ],
+			[ "embabucarás" ],
+			[ "embabucará" ],
+			[ "embabucaremos" ],
+			[ "embabucaréis", "embabucarán" ],
+			[ "embabucarán" ]
+		],
+		"8" : [
+			[ "embabuque" ],
+			[ "embabuques" ],
+			[ "embabuque" ],
+			[ "embabuquemos" ],
+			[ "embabuquéis", "embabuquen" ],
+			[ "embabuquen" ]
+		],
+		"9" : [
+			[ "embabucara" ],
+			[ "embabucaras" ],
+			[ "embabucara" ],
+			[ "embabucáramos" ],
+			[ "embabucarais", "embabucaran" ],
+			[ "embabucaran" ]
+		],
+		"10" : [
+			[ "embabucase" ],
+			[ "embabucases" ],
+			[ "embabucase" ],
+			[ "embabucásemos" ],
+			[ "embabucaseis", "embabucasen" ],
+			[ "embabucasen" ]
+		],
+		"11" : [
+			[ "embabucare" ],
+			[ "embabucares" ],
+			[ "embabucare" ],
+			[ "embabucáremos" ],
+			[ "embabucareis", "embabucaren" ],
+			[ "embabucaren" ]
+		],
+		"12" : {
+			"1" : [ "embabuca" ],
+			"2" : [ "embabuque" ],
+			"3" : [ "embabuquemos" ],
+			"4" : [ "embabucad" ],
+			"5" : [ "embabuquen" ]
+		}
+	}
+}

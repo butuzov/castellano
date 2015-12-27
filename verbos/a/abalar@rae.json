@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abalar",
+	"word" : "abalar",
+	"infinitivo" : "abalar",
+	"participio" : [ "abalado" ],
+	"gerundio" : [ "abalando" ],
+	"tenses" : {
+		"3" : [
+			[ "abalo" ],
+			[ "abalas", "abalás" ],
+			[ "abala" ],
+			[ "abalamos" ],
+			[ "abaláis", "abalan" ],
+			[ "abalan" ]
+		],
+		"4" : [
+			[ "abalé" ],
+			[ "abalaste" ],
+			[ "abaló" ],
+			[ "abalamos" ],
+			[ "abalasteis", "abalaron" ],
+			[ "abalaron" ]
+		],
+		"5" : [
+			[ "abalaba" ],
+			[ "abalabas" ],
+			[ "abalaba" ],
+			[ "abalábamos" ],
+			[ "abalabais", "abalaban" ],
+			[ "abalaban" ]
+		],
+		"6" : [
+			[ "abalaría" ],
+			[ "abalarías" ],
+			[ "abalaría" ],
+			[ "abalaríamos" ],
+			[ "abalaríais", "abalarían" ],
+			[ "abalarían" ]
+		],
+		"7" : [
+			[ "abalaré" ],
+			[ "abalarás" ],
+			[ "abalará" ],
+			[ "abalaremos" ],
+			[ "abalaréis", "abalarán" ],
+			[ "abalarán" ]
+		],
+		"8" : [
+			[ "abale" ],
+			[ "abales" ],
+			[ "abale" ],
+			[ "abalemos" ],
+			[ "abaléis", "abalen" ],
+			[ "abalen" ]
+		],
+		"9" : [
+			[ "abalara" ],
+			[ "abalaras" ],
+			[ "abalara" ],
+			[ "abaláramos" ],
+			[ "abalarais", "abalaran" ],
+			[ "abalaran" ]
+		],
+		"10" : [
+			[ "abalase" ],
+			[ "abalases" ],
+			[ "abalase" ],
+			[ "abalásemos" ],
+			[ "abalaseis", "abalasen" ],
+			[ "abalasen" ]
+		],
+		"11" : [
+			[ "abalare" ],
+			[ "abalares" ],
+			[ "abalare" ],
+			[ "abaláremos" ],
+			[ "abalareis", "abalaren" ],
+			[ "abalaren" ]
+		],
+		"12" : {
+			"1" : [ "abala" ],
+			"2" : [ "abale" ],
+			"3" : [ "abalemos" ],
+			"4" : [ "abalad" ],
+			"5" : [ "abalen" ]
+		}
+	}
+}

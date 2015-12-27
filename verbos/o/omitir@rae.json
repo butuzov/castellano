@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=omitir",
+	"word" : "omitir",
+	"infinitivo" : "omitir",
+	"participio" : [ "omitido" ],
+	"gerundio" : [ "omitiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "omito" ],
+			[ "omites", "omitís" ],
+			[ "omite" ],
+			[ "omitimos" ],
+			[ "omitís", "omiten" ],
+			[ "omiten" ]
+		],
+		"4" : [
+			[ "omití" ],
+			[ "omitiste" ],
+			[ "omitió" ],
+			[ "omitimos" ],
+			[ "omitisteis", "omitieron" ],
+			[ "omitieron" ]
+		],
+		"5" : [
+			[ "omitía" ],
+			[ "omitías" ],
+			[ "omitía" ],
+			[ "omitíamos" ],
+			[ "omitíais", "omitían" ],
+			[ "omitían" ]
+		],
+		"6" : [
+			[ "omitiría" ],
+			[ "omitirías" ],
+			[ "omitiría" ],
+			[ "omitiríamos" ],
+			[ "omitiríais", "omitirían" ],
+			[ "omitirían" ]
+		],
+		"7" : [
+			[ "omitiré" ],
+			[ "omitirás" ],
+			[ "omitirá" ],
+			[ "omitiremos" ],
+			[ "omitiréis", "omitirán" ],
+			[ "omitirán" ]
+		],
+		"8" : [
+			[ "omita" ],
+			[ "omitas" ],
+			[ "omita" ],
+			[ "omitamos" ],
+			[ "omitáis", "omitan" ],
+			[ "omitan" ]
+		],
+		"9" : [
+			[ "omitiera" ],
+			[ "omitieras" ],
+			[ "omitiera" ],
+			[ "omitiéramos" ],
+			[ "omitierais", "omitieran" ],
+			[ "omitieran" ]
+		],
+		"10" : [
+			[ "omitiese" ],
+			[ "omitieses" ],
+			[ "omitiese" ],
+			[ "omitiésemos" ],
+			[ "omitieseis", "omitiesen" ],
+			[ "omitiesen" ]
+		],
+		"11" : [
+			[ "omitiere" ],
+			[ "omitieres" ],
+			[ "omitiere" ],
+			[ "omitiéremos" ],
+			[ "omitiereis", "omitieren" ],
+			[ "omitieren" ]
+		],
+		"12" : {
+			"1" : [ "omite" ],
+			"2" : [ "omita" ],
+			"3" : [ "omitamos" ],
+			"4" : [ "omitid" ],
+			"5" : [ "omitan" ]
+		}
+	}
+}

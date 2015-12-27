@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=realzar",
+	"word" : "realzar",
+	"infinitivo" : "realzar",
+	"participio" : [ "realzado" ],
+	"gerundio" : [ "realzando" ],
+	"tenses" : {
+		"3" : [
+			[ "realzo" ],
+			[ "realzas", "realzás" ],
+			[ "realza" ],
+			[ "realzamos" ],
+			[ "realzáis", "realzan" ],
+			[ "realzan" ]
+		],
+		"4" : [
+			[ "realcé" ],
+			[ "realzaste" ],
+			[ "realzó" ],
+			[ "realzamos" ],
+			[ "realzasteis", "realzaron" ],
+			[ "realzaron" ]
+		],
+		"5" : [
+			[ "realzaba" ],
+			[ "realzabas" ],
+			[ "realzaba" ],
+			[ "realzábamos" ],
+			[ "realzabais", "realzaban" ],
+			[ "realzaban" ]
+		],
+		"6" : [
+			[ "realzaría" ],
+			[ "realzarías" ],
+			[ "realzaría" ],
+			[ "realzaríamos" ],
+			[ "realzaríais", "realzarían" ],
+			[ "realzarían" ]
+		],
+		"7" : [
+			[ "realzaré" ],
+			[ "realzarás" ],
+			[ "realzará" ],
+			[ "realzaremos" ],
+			[ "realzaréis", "realzarán" ],
+			[ "realzarán" ]
+		],
+		"8" : [
+			[ "realce" ],
+			[ "realces" ],
+			[ "realce" ],
+			[ "realcemos" ],
+			[ "realcéis", "realcen" ],
+			[ "realcen" ]
+		],
+		"9" : [
+			[ "realzara" ],
+			[ "realzaras" ],
+			[ "realzara" ],
+			[ "realzáramos" ],
+			[ "realzarais", "realzaran" ],
+			[ "realzaran" ]
+		],
+		"10" : [
+			[ "realzase" ],
+			[ "realzases" ],
+			[ "realzase" ],
+			[ "realzásemos" ],
+			[ "realzaseis", "realzasen" ],
+			[ "realzasen" ]
+		],
+		"11" : [
+			[ "realzare" ],
+			[ "realzares" ],
+			[ "realzare" ],
+			[ "realzáremos" ],
+			[ "realzareis", "realzaren" ],
+			[ "realzaren" ]
+		],
+		"12" : {
+			"1" : [ "realza" ],
+			"2" : [ "realce" ],
+			"3" : [ "realcemos" ],
+			"4" : [ "realzad" ],
+			"5" : [ "realcen" ]
+		}
+	}
+}

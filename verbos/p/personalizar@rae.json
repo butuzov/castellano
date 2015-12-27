@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=personalizar",
+	"word" : "personalizar",
+	"infinitivo" : "personalizar",
+	"participio" : [ "personalizado" ],
+	"gerundio" : [ "personalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "personalizo" ],
+			[ "personalizas", "personalizás" ],
+			[ "personaliza" ],
+			[ "personalizamos" ],
+			[ "personalizáis", "personalizan" ],
+			[ "personalizan" ]
+		],
+		"4" : [
+			[ "personalicé" ],
+			[ "personalizaste" ],
+			[ "personalizó" ],
+			[ "personalizamos" ],
+			[ "personalizasteis", "personalizaron" ],
+			[ "personalizaron" ]
+		],
+		"5" : [
+			[ "personalizaba" ],
+			[ "personalizabas" ],
+			[ "personalizaba" ],
+			[ "personalizábamos" ],
+			[ "personalizabais", "personalizaban" ],
+			[ "personalizaban" ]
+		],
+		"6" : [
+			[ "personalizaría" ],
+			[ "personalizarías" ],
+			[ "personalizaría" ],
+			[ "personalizaríamos" ],
+			[ "personalizaríais", "personalizarían" ],
+			[ "personalizarían" ]
+		],
+		"7" : [
+			[ "personalizaré" ],
+			[ "personalizarás" ],
+			[ "personalizará" ],
+			[ "personalizaremos" ],
+			[ "personalizaréis", "personalizarán" ],
+			[ "personalizarán" ]
+		],
+		"8" : [
+			[ "personalice" ],
+			[ "personalices" ],
+			[ "personalice" ],
+			[ "personalicemos" ],
+			[ "personalicéis", "personalicen" ],
+			[ "personalicen" ]
+		],
+		"9" : [
+			[ "personalizara" ],
+			[ "personalizaras" ],
+			[ "personalizara" ],
+			[ "personalizáramos" ],
+			[ "personalizarais", "personalizaran" ],
+			[ "personalizaran" ]
+		],
+		"10" : [
+			[ "personalizase" ],
+			[ "personalizases" ],
+			[ "personalizase" ],
+			[ "personalizásemos" ],
+			[ "personalizaseis", "personalizasen" ],
+			[ "personalizasen" ]
+		],
+		"11" : [
+			[ "personalizare" ],
+			[ "personalizares" ],
+			[ "personalizare" ],
+			[ "personalizáremos" ],
+			[ "personalizareis", "personalizaren" ],
+			[ "personalizaren" ]
+		],
+		"12" : {
+			"1" : [ "personaliza" ],
+			"2" : [ "personalice" ],
+			"3" : [ "personalicemos" ],
+			"4" : [ "personalizad" ],
+			"5" : [ "personalicen" ]
+		}
+	}
+}

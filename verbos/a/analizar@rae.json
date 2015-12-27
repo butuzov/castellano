@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=analizar",
+	"word" : "analizar",
+	"infinitivo" : "analizar",
+	"participio" : [ "analizado" ],
+	"gerundio" : [ "analizando" ],
+	"tenses" : {
+		"3" : [
+			[ "analizo" ],
+			[ "analizas", "analizás" ],
+			[ "analiza" ],
+			[ "analizamos" ],
+			[ "analizáis", "analizan" ],
+			[ "analizan" ]
+		],
+		"4" : [
+			[ "analicé" ],
+			[ "analizaste" ],
+			[ "analizó" ],
+			[ "analizamos" ],
+			[ "analizasteis", "analizaron" ],
+			[ "analizaron" ]
+		],
+		"5" : [
+			[ "analizaba" ],
+			[ "analizabas" ],
+			[ "analizaba" ],
+			[ "analizábamos" ],
+			[ "analizabais", "analizaban" ],
+			[ "analizaban" ]
+		],
+		"6" : [
+			[ "analizaría" ],
+			[ "analizarías" ],
+			[ "analizaría" ],
+			[ "analizaríamos" ],
+			[ "analizaríais", "analizarían" ],
+			[ "analizarían" ]
+		],
+		"7" : [
+			[ "analizaré" ],
+			[ "analizarás" ],
+			[ "analizará" ],
+			[ "analizaremos" ],
+			[ "analizaréis", "analizarán" ],
+			[ "analizarán" ]
+		],
+		"8" : [
+			[ "analice" ],
+			[ "analices" ],
+			[ "analice" ],
+			[ "analicemos" ],
+			[ "analicéis", "analicen" ],
+			[ "analicen" ]
+		],
+		"9" : [
+			[ "analizara" ],
+			[ "analizaras" ],
+			[ "analizara" ],
+			[ "analizáramos" ],
+			[ "analizarais", "analizaran" ],
+			[ "analizaran" ]
+		],
+		"10" : [
+			[ "analizase" ],
+			[ "analizases" ],
+			[ "analizase" ],
+			[ "analizásemos" ],
+			[ "analizaseis", "analizasen" ],
+			[ "analizasen" ]
+		],
+		"11" : [
+			[ "analizare" ],
+			[ "analizares" ],
+			[ "analizare" ],
+			[ "analizáremos" ],
+			[ "analizareis", "analizaren" ],
+			[ "analizaren" ]
+		],
+		"12" : {
+			"1" : [ "analiza" ],
+			"2" : [ "analice" ],
+			"3" : [ "analicemos" ],
+			"4" : [ "analizad" ],
+			"5" : [ "analicen" ]
+		}
+	}
+}

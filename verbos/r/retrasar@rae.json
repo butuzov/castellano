@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=retrasar",
+	"word" : "retrasar",
+	"infinitivo" : "retrasar",
+	"participio" : [ "retrasado" ],
+	"gerundio" : [ "retrasando" ],
+	"tenses" : {
+		"3" : [
+			[ "retraso" ],
+			[ "retrasas", "retrasás" ],
+			[ "retrasa" ],
+			[ "retrasamos" ],
+			[ "retrasáis", "retrasan" ],
+			[ "retrasan" ]
+		],
+		"4" : [
+			[ "retrasé" ],
+			[ "retrasaste" ],
+			[ "retrasó" ],
+			[ "retrasamos" ],
+			[ "retrasasteis", "retrasaron" ],
+			[ "retrasaron" ]
+		],
+		"5" : [
+			[ "retrasaba" ],
+			[ "retrasabas" ],
+			[ "retrasaba" ],
+			[ "retrasábamos" ],
+			[ "retrasabais", "retrasaban" ],
+			[ "retrasaban" ]
+		],
+		"6" : [
+			[ "retrasaría" ],
+			[ "retrasarías" ],
+			[ "retrasaría" ],
+			[ "retrasaríamos" ],
+			[ "retrasaríais", "retrasarían" ],
+			[ "retrasarían" ]
+		],
+		"7" : [
+			[ "retrasaré" ],
+			[ "retrasarás" ],
+			[ "retrasará" ],
+			[ "retrasaremos" ],
+			[ "retrasaréis", "retrasarán" ],
+			[ "retrasarán" ]
+		],
+		"8" : [
+			[ "retrase" ],
+			[ "retrases" ],
+			[ "retrase" ],
+			[ "retrasemos" ],
+			[ "retraséis", "retrasen" ],
+			[ "retrasen" ]
+		],
+		"9" : [
+			[ "retrasara" ],
+			[ "retrasaras" ],
+			[ "retrasara" ],
+			[ "retrasáramos" ],
+			[ "retrasarais", "retrasaran" ],
+			[ "retrasaran" ]
+		],
+		"10" : [
+			[ "retrasase" ],
+			[ "retrasases" ],
+			[ "retrasase" ],
+			[ "retrasásemos" ],
+			[ "retrasaseis", "retrasasen" ],
+			[ "retrasasen" ]
+		],
+		"11" : [
+			[ "retrasare" ],
+			[ "retrasares" ],
+			[ "retrasare" ],
+			[ "retrasáremos" ],
+			[ "retrasareis", "retrasaren" ],
+			[ "retrasaren" ]
+		],
+		"12" : {
+			"1" : [ "retrasa" ],
+			"2" : [ "retrase" ],
+			"3" : [ "retrasemos" ],
+			"4" : [ "retrasad" ],
+			"5" : [ "retrasen" ]
+		}
+	}
+}

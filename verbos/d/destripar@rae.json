@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=destripar",
+	"word" : "destripar",
+	"infinitivo" : "destripar",
+	"participio" : [ "destripado" ],
+	"gerundio" : [ "destripando" ],
+	"tenses" : {
+		"3" : [
+			[ "destripo" ],
+			[ "destripas", "destripás" ],
+			[ "destripa" ],
+			[ "destripamos" ],
+			[ "destripáis", "destripan" ],
+			[ "destripan" ]
+		],
+		"4" : [
+			[ "destripé" ],
+			[ "destripaste" ],
+			[ "destripó" ],
+			[ "destripamos" ],
+			[ "destripasteis", "destriparon" ],
+			[ "destriparon" ]
+		],
+		"5" : [
+			[ "destripaba" ],
+			[ "destripabas" ],
+			[ "destripaba" ],
+			[ "destripábamos" ],
+			[ "destripabais", "destripaban" ],
+			[ "destripaban" ]
+		],
+		"6" : [
+			[ "destriparía" ],
+			[ "destriparías" ],
+			[ "destriparía" ],
+			[ "destriparíamos" ],
+			[ "destriparíais", "destriparían" ],
+			[ "destriparían" ]
+		],
+		"7" : [
+			[ "destriparé" ],
+			[ "destriparás" ],
+			[ "destripará" ],
+			[ "destriparemos" ],
+			[ "destriparéis", "destriparán" ],
+			[ "destriparán" ]
+		],
+		"8" : [
+			[ "destripe" ],
+			[ "destripes" ],
+			[ "destripe" ],
+			[ "destripemos" ],
+			[ "destripéis", "destripen" ],
+			[ "destripen" ]
+		],
+		"9" : [
+			[ "destripara" ],
+			[ "destriparas" ],
+			[ "destripara" ],
+			[ "destripáramos" ],
+			[ "destriparais", "destriparan" ],
+			[ "destriparan" ]
+		],
+		"10" : [
+			[ "destripase" ],
+			[ "destripases" ],
+			[ "destripase" ],
+			[ "destripásemos" ],
+			[ "destripaseis", "destripasen" ],
+			[ "destripasen" ]
+		],
+		"11" : [
+			[ "destripare" ],
+			[ "destripares" ],
+			[ "destripare" ],
+			[ "destripáremos" ],
+			[ "destripareis", "destriparen" ],
+			[ "destriparen" ]
+		],
+		"12" : {
+			"1" : [ "destripa" ],
+			"2" : [ "destripe" ],
+			"3" : [ "destripemos" ],
+			"4" : [ "destripad" ],
+			"5" : [ "destripen" ]
+		}
+	}
+}

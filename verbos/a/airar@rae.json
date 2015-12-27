@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=airar",
+	"word" : "airar",
+	"infinitivo" : "airar",
+	"participio" : [ "airado" ],
+	"gerundio" : [ "airando" ],
+	"tenses" : {
+		"3" : [
+			[ "aíro" ],
+			[ "aíras", "airás" ],
+			[ "aíra" ],
+			[ "airamos" ],
+			[ "airáis", "aíran" ],
+			[ "aíran" ]
+		],
+		"4" : [
+			[ "airé" ],
+			[ "airaste" ],
+			[ "airó" ],
+			[ "airamos" ],
+			[ "airasteis", "airaron" ],
+			[ "airaron" ]
+		],
+		"5" : [
+			[ "airaba" ],
+			[ "airabas" ],
+			[ "airaba" ],
+			[ "airábamos" ],
+			[ "airabais", "airaban" ],
+			[ "airaban" ]
+		],
+		"6" : [
+			[ "airaría" ],
+			[ "airarías" ],
+			[ "airaría" ],
+			[ "airaríamos" ],
+			[ "airaríais", "airarían" ],
+			[ "airarían" ]
+		],
+		"7" : [
+			[ "airaré" ],
+			[ "airarás" ],
+			[ "airará" ],
+			[ "airaremos" ],
+			[ "airaréis", "airarán" ],
+			[ "airarán" ]
+		],
+		"8" : [
+			[ "aíre" ],
+			[ "aíres" ],
+			[ "aíre" ],
+			[ "airemos" ],
+			[ "airéis", "aíren" ],
+			[ "aíren" ]
+		],
+		"9" : [
+			[ "airara" ],
+			[ "airaras" ],
+			[ "airara" ],
+			[ "airáramos" ],
+			[ "airarais", "airaran" ],
+			[ "airaran" ]
+		],
+		"10" : [
+			[ "airase" ],
+			[ "airases" ],
+			[ "airase" ],
+			[ "airásemos" ],
+			[ "airaseis", "airasen" ],
+			[ "airasen" ]
+		],
+		"11" : [
+			[ "airare" ],
+			[ "airares" ],
+			[ "airare" ],
+			[ "airáremos" ],
+			[ "airareis", "airaren" ],
+			[ "airaren" ]
+		],
+		"12" : {
+			"1" : [ "aíra" ],
+			"2" : [ "aíre" ],
+			"3" : [ "airemos" ],
+			"4" : [ "airad" ],
+			"5" : [ "aíren" ]
+		}
+	}
+}

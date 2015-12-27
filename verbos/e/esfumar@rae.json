@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esfumar",
+	"word" : "esfumar",
+	"infinitivo" : "esfumar",
+	"participio" : [ "esfumado" ],
+	"gerundio" : [ "esfumando" ],
+	"tenses" : {
+		"3" : [
+			[ "esfumo" ],
+			[ "esfumas", "esfumás" ],
+			[ "esfuma" ],
+			[ "esfumamos" ],
+			[ "esfumáis", "esfuman" ],
+			[ "esfuman" ]
+		],
+		"4" : [
+			[ "esfumé" ],
+			[ "esfumaste" ],
+			[ "esfumó" ],
+			[ "esfumamos" ],
+			[ "esfumasteis", "esfumaron" ],
+			[ "esfumaron" ]
+		],
+		"5" : [
+			[ "esfumaba" ],
+			[ "esfumabas" ],
+			[ "esfumaba" ],
+			[ "esfumábamos" ],
+			[ "esfumabais", "esfumaban" ],
+			[ "esfumaban" ]
+		],
+		"6" : [
+			[ "esfumaría" ],
+			[ "esfumarías" ],
+			[ "esfumaría" ],
+			[ "esfumaríamos" ],
+			[ "esfumaríais", "esfumarían" ],
+			[ "esfumarían" ]
+		],
+		"7" : [
+			[ "esfumaré" ],
+			[ "esfumarás" ],
+			[ "esfumará" ],
+			[ "esfumaremos" ],
+			[ "esfumaréis", "esfumarán" ],
+			[ "esfumarán" ]
+		],
+		"8" : [
+			[ "esfume" ],
+			[ "esfumes" ],
+			[ "esfume" ],
+			[ "esfumemos" ],
+			[ "esfuméis", "esfumen" ],
+			[ "esfumen" ]
+		],
+		"9" : [
+			[ "esfumara" ],
+			[ "esfumaras" ],
+			[ "esfumara" ],
+			[ "esfumáramos" ],
+			[ "esfumarais", "esfumaran" ],
+			[ "esfumaran" ]
+		],
+		"10" : [
+			[ "esfumase" ],
+			[ "esfumases" ],
+			[ "esfumase" ],
+			[ "esfumásemos" ],
+			[ "esfumaseis", "esfumasen" ],
+			[ "esfumasen" ]
+		],
+		"11" : [
+			[ "esfumare" ],
+			[ "esfumares" ],
+			[ "esfumare" ],
+			[ "esfumáremos" ],
+			[ "esfumareis", "esfumaren" ],
+			[ "esfumaren" ]
+		],
+		"12" : {
+			"1" : [ "esfuma" ],
+			"2" : [ "esfume" ],
+			"3" : [ "esfumemos" ],
+			"4" : [ "esfumad" ],
+			"5" : [ "esfumen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remolcar",
+	"word" : "remolcar",
+	"infinitivo" : "remolcar",
+	"participio" : [ "remolcado" ],
+	"gerundio" : [ "remolcando" ],
+	"tenses" : {
+		"3" : [
+			[ "remolco" ],
+			[ "remolcas", "remolcás" ],
+			[ "remolca" ],
+			[ "remolcamos" ],
+			[ "remolcáis", "remolcan" ],
+			[ "remolcan" ]
+		],
+		"4" : [
+			[ "remolqué" ],
+			[ "remolcaste" ],
+			[ "remolcó" ],
+			[ "remolcamos" ],
+			[ "remolcasteis", "remolcaron" ],
+			[ "remolcaron" ]
+		],
+		"5" : [
+			[ "remolcaba" ],
+			[ "remolcabas" ],
+			[ "remolcaba" ],
+			[ "remolcábamos" ],
+			[ "remolcabais", "remolcaban" ],
+			[ "remolcaban" ]
+		],
+		"6" : [
+			[ "remolcaría" ],
+			[ "remolcarías" ],
+			[ "remolcaría" ],
+			[ "remolcaríamos" ],
+			[ "remolcaríais", "remolcarían" ],
+			[ "remolcarían" ]
+		],
+		"7" : [
+			[ "remolcaré" ],
+			[ "remolcarás" ],
+			[ "remolcará" ],
+			[ "remolcaremos" ],
+			[ "remolcaréis", "remolcarán" ],
+			[ "remolcarán" ]
+		],
+		"8" : [
+			[ "remolque" ],
+			[ "remolques" ],
+			[ "remolque" ],
+			[ "remolquemos" ],
+			[ "remolquéis", "remolquen" ],
+			[ "remolquen" ]
+		],
+		"9" : [
+			[ "remolcara" ],
+			[ "remolcaras" ],
+			[ "remolcara" ],
+			[ "remolcáramos" ],
+			[ "remolcarais", "remolcaran" ],
+			[ "remolcaran" ]
+		],
+		"10" : [
+			[ "remolcase" ],
+			[ "remolcases" ],
+			[ "remolcase" ],
+			[ "remolcásemos" ],
+			[ "remolcaseis", "remolcasen" ],
+			[ "remolcasen" ]
+		],
+		"11" : [
+			[ "remolcare" ],
+			[ "remolcares" ],
+			[ "remolcare" ],
+			[ "remolcáremos" ],
+			[ "remolcareis", "remolcaren" ],
+			[ "remolcaren" ]
+		],
+		"12" : {
+			"1" : [ "remolca" ],
+			"2" : [ "remolque" ],
+			"3" : [ "remolquemos" ],
+			"4" : [ "remolcad" ],
+			"5" : [ "remolquen" ]
+		}
+	}
+}

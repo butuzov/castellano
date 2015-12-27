@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estrechar",
+	"word" : "estrechar",
+	"infinitivo" : "estrechar",
+	"participio" : [ "estrechado" ],
+	"gerundio" : [ "estrechando" ],
+	"tenses" : {
+		"3" : [
+			[ "estrecho" ],
+			[ "estrechas", "estrechás" ],
+			[ "estrecha" ],
+			[ "estrechamos" ],
+			[ "estrecháis", "estrechan" ],
+			[ "estrechan" ]
+		],
+		"4" : [
+			[ "estreché" ],
+			[ "estrechaste" ],
+			[ "estrechó" ],
+			[ "estrechamos" ],
+			[ "estrechasteis", "estrecharon" ],
+			[ "estrecharon" ]
+		],
+		"5" : [
+			[ "estrechaba" ],
+			[ "estrechabas" ],
+			[ "estrechaba" ],
+			[ "estrechábamos" ],
+			[ "estrechabais", "estrechaban" ],
+			[ "estrechaban" ]
+		],
+		"6" : [
+			[ "estrecharía" ],
+			[ "estrecharías" ],
+			[ "estrecharía" ],
+			[ "estrecharíamos" ],
+			[ "estrecharíais", "estrecharían" ],
+			[ "estrecharían" ]
+		],
+		"7" : [
+			[ "estrecharé" ],
+			[ "estrecharás" ],
+			[ "estrechará" ],
+			[ "estrecharemos" ],
+			[ "estrecharéis", "estrecharán" ],
+			[ "estrecharán" ]
+		],
+		"8" : [
+			[ "estreche" ],
+			[ "estreches" ],
+			[ "estreche" ],
+			[ "estrechemos" ],
+			[ "estrechéis", "estrechen" ],
+			[ "estrechen" ]
+		],
+		"9" : [
+			[ "estrechara" ],
+			[ "estrecharas" ],
+			[ "estrechara" ],
+			[ "estrecháramos" ],
+			[ "estrecharais", "estrecharan" ],
+			[ "estrecharan" ]
+		],
+		"10" : [
+			[ "estrechase" ],
+			[ "estrechases" ],
+			[ "estrechase" ],
+			[ "estrechásemos" ],
+			[ "estrechaseis", "estrechasen" ],
+			[ "estrechasen" ]
+		],
+		"11" : [
+			[ "estrechare" ],
+			[ "estrechares" ],
+			[ "estrechare" ],
+			[ "estrecháremos" ],
+			[ "estrechareis", "estrecharen" ],
+			[ "estrecharen" ]
+		],
+		"12" : {
+			"1" : [ "estrecha" ],
+			"2" : [ "estreche" ],
+			"3" : [ "estrechemos" ],
+			"4" : [ "estrechad" ],
+			"5" : [ "estrechen" ]
+		}
+	}
+}

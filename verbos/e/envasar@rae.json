@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=envasar",
+	"word" : "envasar",
+	"infinitivo" : "envasar",
+	"participio" : [ "envasado" ],
+	"gerundio" : [ "envasando" ],
+	"tenses" : {
+		"3" : [
+			[ "envaso" ],
+			[ "envasas", "envasás" ],
+			[ "envasa" ],
+			[ "envasamos" ],
+			[ "envasáis", "envasan" ],
+			[ "envasan" ]
+		],
+		"4" : [
+			[ "envasé" ],
+			[ "envasaste" ],
+			[ "envasó" ],
+			[ "envasamos" ],
+			[ "envasasteis", "envasaron" ],
+			[ "envasaron" ]
+		],
+		"5" : [
+			[ "envasaba" ],
+			[ "envasabas" ],
+			[ "envasaba" ],
+			[ "envasábamos" ],
+			[ "envasabais", "envasaban" ],
+			[ "envasaban" ]
+		],
+		"6" : [
+			[ "envasaría" ],
+			[ "envasarías" ],
+			[ "envasaría" ],
+			[ "envasaríamos" ],
+			[ "envasaríais", "envasarían" ],
+			[ "envasarían" ]
+		],
+		"7" : [
+			[ "envasaré" ],
+			[ "envasarás" ],
+			[ "envasará" ],
+			[ "envasaremos" ],
+			[ "envasaréis", "envasarán" ],
+			[ "envasarán" ]
+		],
+		"8" : [
+			[ "envase" ],
+			[ "envases" ],
+			[ "envase" ],
+			[ "envasemos" ],
+			[ "envaséis", "envasen" ],
+			[ "envasen" ]
+		],
+		"9" : [
+			[ "envasara" ],
+			[ "envasaras" ],
+			[ "envasara" ],
+			[ "envasáramos" ],
+			[ "envasarais", "envasaran" ],
+			[ "envasaran" ]
+		],
+		"10" : [
+			[ "envasase" ],
+			[ "envasases" ],
+			[ "envasase" ],
+			[ "envasásemos" ],
+			[ "envasaseis", "envasasen" ],
+			[ "envasasen" ]
+		],
+		"11" : [
+			[ "envasare" ],
+			[ "envasares" ],
+			[ "envasare" ],
+			[ "envasáremos" ],
+			[ "envasareis", "envasaren" ],
+			[ "envasaren" ]
+		],
+		"12" : {
+			"1" : [ "envasa" ],
+			"2" : [ "envase" ],
+			"3" : [ "envasemos" ],
+			"4" : [ "envasad" ],
+			"5" : [ "envasen" ]
+		}
+	}
+}

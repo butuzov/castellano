@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desvestir",
+	"word" : "desvestir",
+	"infinitivo" : "desvestir",
+	"participio" : [ "desvestido" ],
+	"gerundio" : [ "desvistiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desvisto" ],
+			[ "desvistes", "desvestís" ],
+			[ "desviste" ],
+			[ "desvestimos" ],
+			[ "desvestís", "desvisten" ],
+			[ "desvisten" ]
+		],
+		"4" : [
+			[ "desvestí" ],
+			[ "desvestiste" ],
+			[ "desvistió" ],
+			[ "desvestimos" ],
+			[ "desvestisteis", "desvistieron" ],
+			[ "desvistieron" ]
+		],
+		"5" : [
+			[ "desvestía" ],
+			[ "desvestías" ],
+			[ "desvestía" ],
+			[ "desvestíamos" ],
+			[ "desvestíais", "desvestían" ],
+			[ "desvestían" ]
+		],
+		"6" : [
+			[ "desvestiría" ],
+			[ "desvestirías" ],
+			[ "desvestiría" ],
+			[ "desvestiríamos" ],
+			[ "desvestiríais", "desvestirían" ],
+			[ "desvestirían" ]
+		],
+		"7" : [
+			[ "desvestiré" ],
+			[ "desvestirás" ],
+			[ "desvestirá" ],
+			[ "desvestiremos" ],
+			[ "desvestiréis", "desvestirán" ],
+			[ "desvestirán" ]
+		],
+		"8" : [
+			[ "desvista" ],
+			[ "desvistas" ],
+			[ "desvista" ],
+			[ "desvistamos" ],
+			[ "desvistáis", "desvistan" ],
+			[ "desvistan" ]
+		],
+		"9" : [
+			[ "desvistiera" ],
+			[ "desvistieras" ],
+			[ "desvistiera" ],
+			[ "desvistiéramos" ],
+			[ "desvistierais", "desvistieran" ],
+			[ "desvistieran" ]
+		],
+		"10" : [
+			[ "desvistiese" ],
+			[ "desvistieses" ],
+			[ "desvistiese" ],
+			[ "desvistiésemos" ],
+			[ "desvistieseis", "desvistiesen" ],
+			[ "desvistiesen" ]
+		],
+		"11" : [
+			[ "desvistiere" ],
+			[ "desvistieres" ],
+			[ "desvistiere" ],
+			[ "desvistiéremos" ],
+			[ "desvistiereis", "desvistieren" ],
+			[ "desvistieren" ]
+		],
+		"12" : {
+			"1" : [ "desviste" ],
+			"2" : [ "desvista" ],
+			"3" : [ "desvistamos" ],
+			"4" : [ "desvestid" ],
+			"5" : [ "desvistan" ]
+		}
+	}
+}

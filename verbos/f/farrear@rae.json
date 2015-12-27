@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=farrear",
+	"word" : "farrear",
+	"infinitivo" : "farrear",
+	"participio" : [ "farreado" ],
+	"gerundio" : [ "farreando" ],
+	"tenses" : {
+		"3" : [
+			[ "farreo" ],
+			[ "farreas", "farreás" ],
+			[ "farrea" ],
+			[ "farreamos" ],
+			[ "farreáis", "farrean" ],
+			[ "farrean" ]
+		],
+		"4" : [
+			[ "farreé" ],
+			[ "farreaste" ],
+			[ "farreó" ],
+			[ "farreamos" ],
+			[ "farreasteis", "farrearon" ],
+			[ "farrearon" ]
+		],
+		"5" : [
+			[ "farreaba" ],
+			[ "farreabas" ],
+			[ "farreaba" ],
+			[ "farreábamos" ],
+			[ "farreabais", "farreaban" ],
+			[ "farreaban" ]
+		],
+		"6" : [
+			[ "farrearía" ],
+			[ "farrearías" ],
+			[ "farrearía" ],
+			[ "farrearíamos" ],
+			[ "farrearíais", "farrearían" ],
+			[ "farrearían" ]
+		],
+		"7" : [
+			[ "farrearé" ],
+			[ "farrearás" ],
+			[ "farreará" ],
+			[ "farrearemos" ],
+			[ "farrearéis", "farrearán" ],
+			[ "farrearán" ]
+		],
+		"8" : [
+			[ "farree" ],
+			[ "farrees" ],
+			[ "farree" ],
+			[ "farreemos" ],
+			[ "farreéis", "farreen" ],
+			[ "farreen" ]
+		],
+		"9" : [
+			[ "farreara" ],
+			[ "farrearas" ],
+			[ "farreara" ],
+			[ "farreáramos" ],
+			[ "farrearais", "farrearan" ],
+			[ "farrearan" ]
+		],
+		"10" : [
+			[ "farrease" ],
+			[ "farreases" ],
+			[ "farrease" ],
+			[ "farreásemos" ],
+			[ "farreaseis", "farreasen" ],
+			[ "farreasen" ]
+		],
+		"11" : [
+			[ "farreare" ],
+			[ "farreares" ],
+			[ "farreare" ],
+			[ "farreáremos" ],
+			[ "farreareis", "farrearen" ],
+			[ "farrearen" ]
+		],
+		"12" : {
+			"1" : [ "farrea" ],
+			"2" : [ "farree" ],
+			"3" : [ "farreemos" ],
+			"4" : [ "farread" ],
+			"5" : [ "farreen" ]
+		}
+	}
+}

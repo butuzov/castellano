@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=optimizar",
+	"word" : "optimizar",
+	"infinitivo" : "optimizar",
+	"participio" : [ "optimizado" ],
+	"gerundio" : [ "optimizando" ],
+	"tenses" : {
+		"3" : [
+			[ "optimizo" ],
+			[ "optimizas", "optimizás" ],
+			[ "optimiza" ],
+			[ "optimizamos" ],
+			[ "optimizáis", "optimizan" ],
+			[ "optimizan" ]
+		],
+		"4" : [
+			[ "optimicé" ],
+			[ "optimizaste" ],
+			[ "optimizó" ],
+			[ "optimizamos" ],
+			[ "optimizasteis", "optimizaron" ],
+			[ "optimizaron" ]
+		],
+		"5" : [
+			[ "optimizaba" ],
+			[ "optimizabas" ],
+			[ "optimizaba" ],
+			[ "optimizábamos" ],
+			[ "optimizabais", "optimizaban" ],
+			[ "optimizaban" ]
+		],
+		"6" : [
+			[ "optimizaría" ],
+			[ "optimizarías" ],
+			[ "optimizaría" ],
+			[ "optimizaríamos" ],
+			[ "optimizaríais", "optimizarían" ],
+			[ "optimizarían" ]
+		],
+		"7" : [
+			[ "optimizaré" ],
+			[ "optimizarás" ],
+			[ "optimizará" ],
+			[ "optimizaremos" ],
+			[ "optimizaréis", "optimizarán" ],
+			[ "optimizarán" ]
+		],
+		"8" : [
+			[ "optimice" ],
+			[ "optimices" ],
+			[ "optimice" ],
+			[ "optimicemos" ],
+			[ "optimicéis", "optimicen" ],
+			[ "optimicen" ]
+		],
+		"9" : [
+			[ "optimizara" ],
+			[ "optimizaras" ],
+			[ "optimizara" ],
+			[ "optimizáramos" ],
+			[ "optimizarais", "optimizaran" ],
+			[ "optimizaran" ]
+		],
+		"10" : [
+			[ "optimizase" ],
+			[ "optimizases" ],
+			[ "optimizase" ],
+			[ "optimizásemos" ],
+			[ "optimizaseis", "optimizasen" ],
+			[ "optimizasen" ]
+		],
+		"11" : [
+			[ "optimizare" ],
+			[ "optimizares" ],
+			[ "optimizare" ],
+			[ "optimizáremos" ],
+			[ "optimizareis", "optimizaren" ],
+			[ "optimizaren" ]
+		],
+		"12" : {
+			"1" : [ "optimiza" ],
+			"2" : [ "optimice" ],
+			"3" : [ "optimicemos" ],
+			"4" : [ "optimizad" ],
+			"5" : [ "optimicen" ]
+		}
+	}
+}

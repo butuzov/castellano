@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acorazar",
+	"word" : "acorazar",
+	"infinitivo" : "acorazar",
+	"participio" : [ "acorazado" ],
+	"gerundio" : [ "acorazando" ],
+	"tenses" : {
+		"3" : [
+			[ "acorazo" ],
+			[ "acorazas", "acorazás" ],
+			[ "acoraza" ],
+			[ "acorazamos" ],
+			[ "acorazáis", "acorazan" ],
+			[ "acorazan" ]
+		],
+		"4" : [
+			[ "acoracé" ],
+			[ "acorazaste" ],
+			[ "acorazó" ],
+			[ "acorazamos" ],
+			[ "acorazasteis", "acorazaron" ],
+			[ "acorazaron" ]
+		],
+		"5" : [
+			[ "acorazaba" ],
+			[ "acorazabas" ],
+			[ "acorazaba" ],
+			[ "acorazábamos" ],
+			[ "acorazabais", "acorazaban" ],
+			[ "acorazaban" ]
+		],
+		"6" : [
+			[ "acorazaría" ],
+			[ "acorazarías" ],
+			[ "acorazaría" ],
+			[ "acorazaríamos" ],
+			[ "acorazaríais", "acorazarían" ],
+			[ "acorazarían" ]
+		],
+		"7" : [
+			[ "acorazaré" ],
+			[ "acorazarás" ],
+			[ "acorazará" ],
+			[ "acorazaremos" ],
+			[ "acorazaréis", "acorazarán" ],
+			[ "acorazarán" ]
+		],
+		"8" : [
+			[ "acorace" ],
+			[ "acoraces" ],
+			[ "acorace" ],
+			[ "acoracemos" ],
+			[ "acoracéis", "acoracen" ],
+			[ "acoracen" ]
+		],
+		"9" : [
+			[ "acorazara" ],
+			[ "acorazaras" ],
+			[ "acorazara" ],
+			[ "acorazáramos" ],
+			[ "acorazarais", "acorazaran" ],
+			[ "acorazaran" ]
+		],
+		"10" : [
+			[ "acorazase" ],
+			[ "acorazases" ],
+			[ "acorazase" ],
+			[ "acorazásemos" ],
+			[ "acorazaseis", "acorazasen" ],
+			[ "acorazasen" ]
+		],
+		"11" : [
+			[ "acorazare" ],
+			[ "acorazares" ],
+			[ "acorazare" ],
+			[ "acorazáremos" ],
+			[ "acorazareis", "acorazaren" ],
+			[ "acorazaren" ]
+		],
+		"12" : {
+			"1" : [ "acoraza" ],
+			"2" : [ "acorace" ],
+			"3" : [ "acoracemos" ],
+			"4" : [ "acorazad" ],
+			"5" : [ "acoracen" ]
+		}
+	}
+}

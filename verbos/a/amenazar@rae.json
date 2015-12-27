@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amenazar",
+	"word" : "amenazar",
+	"infinitivo" : "amenazar",
+	"participio" : [ "amenazado" ],
+	"gerundio" : [ "amenazando" ],
+	"tenses" : {
+		"3" : [
+			[ "amenazo" ],
+			[ "amenazas", "amenazás" ],
+			[ "amenaza" ],
+			[ "amenazamos" ],
+			[ "amenazáis", "amenazan" ],
+			[ "amenazan" ]
+		],
+		"4" : [
+			[ "amenacé" ],
+			[ "amenazaste" ],
+			[ "amenazó" ],
+			[ "amenazamos" ],
+			[ "amenazasteis", "amenazaron" ],
+			[ "amenazaron" ]
+		],
+		"5" : [
+			[ "amenazaba" ],
+			[ "amenazabas" ],
+			[ "amenazaba" ],
+			[ "amenazábamos" ],
+			[ "amenazabais", "amenazaban" ],
+			[ "amenazaban" ]
+		],
+		"6" : [
+			[ "amenazaría" ],
+			[ "amenazarías" ],
+			[ "amenazaría" ],
+			[ "amenazaríamos" ],
+			[ "amenazaríais", "amenazarían" ],
+			[ "amenazarían" ]
+		],
+		"7" : [
+			[ "amenazaré" ],
+			[ "amenazarás" ],
+			[ "amenazará" ],
+			[ "amenazaremos" ],
+			[ "amenazaréis", "amenazarán" ],
+			[ "amenazarán" ]
+		],
+		"8" : [
+			[ "amenace" ],
+			[ "amenaces" ],
+			[ "amenace" ],
+			[ "amenacemos" ],
+			[ "amenacéis", "amenacen" ],
+			[ "amenacen" ]
+		],
+		"9" : [
+			[ "amenazara" ],
+			[ "amenazaras" ],
+			[ "amenazara" ],
+			[ "amenazáramos" ],
+			[ "amenazarais", "amenazaran" ],
+			[ "amenazaran" ]
+		],
+		"10" : [
+			[ "amenazase" ],
+			[ "amenazases" ],
+			[ "amenazase" ],
+			[ "amenazásemos" ],
+			[ "amenazaseis", "amenazasen" ],
+			[ "amenazasen" ]
+		],
+		"11" : [
+			[ "amenazare" ],
+			[ "amenazares" ],
+			[ "amenazare" ],
+			[ "amenazáremos" ],
+			[ "amenazareis", "amenazaren" ],
+			[ "amenazaren" ]
+		],
+		"12" : {
+			"1" : [ "amenaza" ],
+			"2" : [ "amenace" ],
+			"3" : [ "amenacemos" ],
+			"4" : [ "amenazad" ],
+			"5" : [ "amenacen" ]
+		}
+	}
+}

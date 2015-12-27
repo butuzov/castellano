@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=completar",
+	"word" : "completar",
+	"infinitivo" : "completar",
+	"participio" : [ "completado" ],
+	"gerundio" : [ "completando" ],
+	"tenses" : {
+		"3" : [
+			[ "completo" ],
+			[ "completas", "completás" ],
+			[ "completa" ],
+			[ "completamos" ],
+			[ "completáis", "completan" ],
+			[ "completan" ]
+		],
+		"4" : [
+			[ "completé" ],
+			[ "completaste" ],
+			[ "completó" ],
+			[ "completamos" ],
+			[ "completasteis", "completaron" ],
+			[ "completaron" ]
+		],
+		"5" : [
+			[ "completaba" ],
+			[ "completabas" ],
+			[ "completaba" ],
+			[ "completábamos" ],
+			[ "completabais", "completaban" ],
+			[ "completaban" ]
+		],
+		"6" : [
+			[ "completaría" ],
+			[ "completarías" ],
+			[ "completaría" ],
+			[ "completaríamos" ],
+			[ "completaríais", "completarían" ],
+			[ "completarían" ]
+		],
+		"7" : [
+			[ "completaré" ],
+			[ "completarás" ],
+			[ "completará" ],
+			[ "completaremos" ],
+			[ "completaréis", "completarán" ],
+			[ "completarán" ]
+		],
+		"8" : [
+			[ "complete" ],
+			[ "completes" ],
+			[ "complete" ],
+			[ "completemos" ],
+			[ "completéis", "completen" ],
+			[ "completen" ]
+		],
+		"9" : [
+			[ "completara" ],
+			[ "completaras" ],
+			[ "completara" ],
+			[ "completáramos" ],
+			[ "completarais", "completaran" ],
+			[ "completaran" ]
+		],
+		"10" : [
+			[ "completase" ],
+			[ "completases" ],
+			[ "completase" ],
+			[ "completásemos" ],
+			[ "completaseis", "completasen" ],
+			[ "completasen" ]
+		],
+		"11" : [
+			[ "completare" ],
+			[ "completares" ],
+			[ "completare" ],
+			[ "completáremos" ],
+			[ "completareis", "completaren" ],
+			[ "completaren" ]
+		],
+		"12" : {
+			"1" : [ "completa" ],
+			"2" : [ "complete" ],
+			"3" : [ "completemos" ],
+			"4" : [ "completad" ],
+			"5" : [ "completen" ]
+		}
+	}
+}

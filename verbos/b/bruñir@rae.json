@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bruñir",
+	"word" : "bruñir",
+	"infinitivo" : "bruñir",
+	"participio" : [ "bruñido" ],
+	"gerundio" : [ "bruñendo" ],
+	"tenses" : {
+		"3" : [
+			[ "bruño" ],
+			[ "bruñes", "bruñís" ],
+			[ "bruñe" ],
+			[ "bruñimos" ],
+			[ "bruñís", "bruñen" ],
+			[ "bruñen" ]
+		],
+		"4" : [
+			[ "bruñí" ],
+			[ "bruñiste" ],
+			[ "bruñó" ],
+			[ "bruñimos" ],
+			[ "bruñisteis", "bruñeron" ],
+			[ "bruñeron" ]
+		],
+		"5" : [
+			[ "bruñía" ],
+			[ "bruñías" ],
+			[ "bruñía" ],
+			[ "bruñíamos" ],
+			[ "bruñíais", "bruñían" ],
+			[ "bruñían" ]
+		],
+		"6" : [
+			[ "bruñiría" ],
+			[ "bruñirías" ],
+			[ "bruñiría" ],
+			[ "bruñiríamos" ],
+			[ "bruñiríais", "bruñirían" ],
+			[ "bruñirían" ]
+		],
+		"7" : [
+			[ "bruñiré" ],
+			[ "bruñirás" ],
+			[ "bruñirá" ],
+			[ "bruñiremos" ],
+			[ "bruñiréis", "bruñirán" ],
+			[ "bruñirán" ]
+		],
+		"8" : [
+			[ "bruña" ],
+			[ "bruñas" ],
+			[ "bruña" ],
+			[ "bruñamos" ],
+			[ "bruñáis", "bruñan" ],
+			[ "bruñan" ]
+		],
+		"9" : [
+			[ "bruñera" ],
+			[ "bruñeras" ],
+			[ "bruñera" ],
+			[ "bruñéramos" ],
+			[ "bruñerais", "bruñeran" ],
+			[ "bruñeran" ]
+		],
+		"10" : [
+			[ "bruñese" ],
+			[ "bruñeses" ],
+			[ "bruñese" ],
+			[ "bruñésemos" ],
+			[ "bruñeseis", "bruñesen" ],
+			[ "bruñesen" ]
+		],
+		"11" : [
+			[ "bruñere" ],
+			[ "bruñeres" ],
+			[ "bruñere" ],
+			[ "bruñéremos" ],
+			[ "bruñereis", "bruñeren" ],
+			[ "bruñeren" ]
+		],
+		"12" : {
+			"1" : [ "bruñe" ],
+			"2" : [ "bruña" ],
+			"3" : [ "bruñamos" ],
+			"4" : [ "bruñid" ],
+			"5" : [ "bruñan" ]
+		}
+	}
+}

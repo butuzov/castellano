@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=levigar",
+	"word" : "levigar",
+	"infinitivo" : "levigar",
+	"participio" : [ "levigado" ],
+	"gerundio" : [ "levigando" ],
+	"tenses" : {
+		"3" : [
+			[ "levigo" ],
+			[ "levigas", "levigás" ],
+			[ "leviga" ],
+			[ "levigamos" ],
+			[ "levigáis", "levigan" ],
+			[ "levigan" ]
+		],
+		"4" : [
+			[ "levigué" ],
+			[ "levigaste" ],
+			[ "levigó" ],
+			[ "levigamos" ],
+			[ "levigasteis", "levigaron" ],
+			[ "levigaron" ]
+		],
+		"5" : [
+			[ "levigaba" ],
+			[ "levigabas" ],
+			[ "levigaba" ],
+			[ "levigábamos" ],
+			[ "levigabais", "levigaban" ],
+			[ "levigaban" ]
+		],
+		"6" : [
+			[ "levigaría" ],
+			[ "levigarías" ],
+			[ "levigaría" ],
+			[ "levigaríamos" ],
+			[ "levigaríais", "levigarían" ],
+			[ "levigarían" ]
+		],
+		"7" : [
+			[ "levigaré" ],
+			[ "levigarás" ],
+			[ "levigará" ],
+			[ "levigaremos" ],
+			[ "levigaréis", "levigarán" ],
+			[ "levigarán" ]
+		],
+		"8" : [
+			[ "levigue" ],
+			[ "levigues" ],
+			[ "levigue" ],
+			[ "leviguemos" ],
+			[ "leviguéis", "leviguen" ],
+			[ "leviguen" ]
+		],
+		"9" : [
+			[ "levigara" ],
+			[ "levigaras" ],
+			[ "levigara" ],
+			[ "levigáramos" ],
+			[ "levigarais", "levigaran" ],
+			[ "levigaran" ]
+		],
+		"10" : [
+			[ "levigase" ],
+			[ "levigases" ],
+			[ "levigase" ],
+			[ "levigásemos" ],
+			[ "levigaseis", "levigasen" ],
+			[ "levigasen" ]
+		],
+		"11" : [
+			[ "levigare" ],
+			[ "levigares" ],
+			[ "levigare" ],
+			[ "levigáremos" ],
+			[ "levigareis", "levigaren" ],
+			[ "levigaren" ]
+		],
+		"12" : {
+			"1" : [ "leviga" ],
+			"2" : [ "levigue" ],
+			"3" : [ "leviguemos" ],
+			"4" : [ "levigad" ],
+			"5" : [ "leviguen" ]
+		}
+	}
+}

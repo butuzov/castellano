@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disertar",
+	"word" : "disertar",
+	"infinitivo" : "disertar",
+	"participio" : [ "disertado" ],
+	"gerundio" : [ "disertando" ],
+	"tenses" : {
+		"3" : [
+			[ "diserto" ],
+			[ "disertas", "disertás" ],
+			[ "diserta" ],
+			[ "disertamos" ],
+			[ "disertáis", "disertan" ],
+			[ "disertan" ]
+		],
+		"4" : [
+			[ "diserté" ],
+			[ "disertaste" ],
+			[ "disertó" ],
+			[ "disertamos" ],
+			[ "disertasteis", "disertaron" ],
+			[ "disertaron" ]
+		],
+		"5" : [
+			[ "disertaba" ],
+			[ "disertabas" ],
+			[ "disertaba" ],
+			[ "disertábamos" ],
+			[ "disertabais", "disertaban" ],
+			[ "disertaban" ]
+		],
+		"6" : [
+			[ "disertaría" ],
+			[ "disertarías" ],
+			[ "disertaría" ],
+			[ "disertaríamos" ],
+			[ "disertaríais", "disertarían" ],
+			[ "disertarían" ]
+		],
+		"7" : [
+			[ "disertaré" ],
+			[ "disertarás" ],
+			[ "disertará" ],
+			[ "disertaremos" ],
+			[ "disertaréis", "disertarán" ],
+			[ "disertarán" ]
+		],
+		"8" : [
+			[ "diserte" ],
+			[ "disertes" ],
+			[ "diserte" ],
+			[ "disertemos" ],
+			[ "disertéis", "diserten" ],
+			[ "diserten" ]
+		],
+		"9" : [
+			[ "disertara" ],
+			[ "disertaras" ],
+			[ "disertara" ],
+			[ "disertáramos" ],
+			[ "disertarais", "disertaran" ],
+			[ "disertaran" ]
+		],
+		"10" : [
+			[ "disertase" ],
+			[ "disertases" ],
+			[ "disertase" ],
+			[ "disertásemos" ],
+			[ "disertaseis", "disertasen" ],
+			[ "disertasen" ]
+		],
+		"11" : [
+			[ "disertare" ],
+			[ "disertares" ],
+			[ "disertare" ],
+			[ "disertáremos" ],
+			[ "disertareis", "disertaren" ],
+			[ "disertaren" ]
+		],
+		"12" : {
+			"1" : [ "diserta" ],
+			"2" : [ "diserte" ],
+			"3" : [ "disertemos" ],
+			"4" : [ "disertad" ],
+			"5" : [ "diserten" ]
+		}
+	}
+}

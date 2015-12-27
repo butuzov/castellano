@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reportear",
+	"word" : "reportear",
+	"infinitivo" : "reportear",
+	"participio" : [ "reporteado" ],
+	"gerundio" : [ "reporteando" ],
+	"tenses" : {
+		"3" : [
+			[ "reporteo" ],
+			[ "reporteas", "reporteás" ],
+			[ "reportea" ],
+			[ "reporteamos" ],
+			[ "reporteáis", "reportean" ],
+			[ "reportean" ]
+		],
+		"4" : [
+			[ "reporteé" ],
+			[ "reporteaste" ],
+			[ "reporteó" ],
+			[ "reporteamos" ],
+			[ "reporteasteis", "reportearon" ],
+			[ "reportearon" ]
+		],
+		"5" : [
+			[ "reporteaba" ],
+			[ "reporteabas" ],
+			[ "reporteaba" ],
+			[ "reporteábamos" ],
+			[ "reporteabais", "reporteaban" ],
+			[ "reporteaban" ]
+		],
+		"6" : [
+			[ "reportearía" ],
+			[ "reportearías" ],
+			[ "reportearía" ],
+			[ "reportearíamos" ],
+			[ "reportearíais", "reportearían" ],
+			[ "reportearían" ]
+		],
+		"7" : [
+			[ "reportearé" ],
+			[ "reportearás" ],
+			[ "reporteará" ],
+			[ "reportearemos" ],
+			[ "reportearéis", "reportearán" ],
+			[ "reportearán" ]
+		],
+		"8" : [
+			[ "reportee" ],
+			[ "reportees" ],
+			[ "reportee" ],
+			[ "reporteemos" ],
+			[ "reporteéis", "reporteen" ],
+			[ "reporteen" ]
+		],
+		"9" : [
+			[ "reporteara" ],
+			[ "reportearas" ],
+			[ "reporteara" ],
+			[ "reporteáramos" ],
+			[ "reportearais", "reportearan" ],
+			[ "reportearan" ]
+		],
+		"10" : [
+			[ "reportease" ],
+			[ "reporteases" ],
+			[ "reportease" ],
+			[ "reporteásemos" ],
+			[ "reporteaseis", "reporteasen" ],
+			[ "reporteasen" ]
+		],
+		"11" : [
+			[ "reporteare" ],
+			[ "reporteares" ],
+			[ "reporteare" ],
+			[ "reporteáremos" ],
+			[ "reporteareis", "reportearen" ],
+			[ "reportearen" ]
+		],
+		"12" : {
+			"1" : [ "reportea" ],
+			"2" : [ "reportee" ],
+			"3" : [ "reporteemos" ],
+			"4" : [ "reportead" ],
+			"5" : [ "reporteen" ]
+		}
+	}
+}

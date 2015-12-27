@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=exornar",
+	"word" : "exornar",
+	"infinitivo" : "exornar",
+	"participio" : [ "exornado" ],
+	"gerundio" : [ "exornando" ],
+	"tenses" : {
+		"3" : [
+			[ "exorno" ],
+			[ "exornas", "exornás" ],
+			[ "exorna" ],
+			[ "exornamos" ],
+			[ "exornáis", "exornan" ],
+			[ "exornan" ]
+		],
+		"4" : [
+			[ "exorné" ],
+			[ "exornaste" ],
+			[ "exornó" ],
+			[ "exornamos" ],
+			[ "exornasteis", "exornaron" ],
+			[ "exornaron" ]
+		],
+		"5" : [
+			[ "exornaba" ],
+			[ "exornabas" ],
+			[ "exornaba" ],
+			[ "exornábamos" ],
+			[ "exornabais", "exornaban" ],
+			[ "exornaban" ]
+		],
+		"6" : [
+			[ "exornaría" ],
+			[ "exornarías" ],
+			[ "exornaría" ],
+			[ "exornaríamos" ],
+			[ "exornaríais", "exornarían" ],
+			[ "exornarían" ]
+		],
+		"7" : [
+			[ "exornaré" ],
+			[ "exornarás" ],
+			[ "exornará" ],
+			[ "exornaremos" ],
+			[ "exornaréis", "exornarán" ],
+			[ "exornarán" ]
+		],
+		"8" : [
+			[ "exorne" ],
+			[ "exornes" ],
+			[ "exorne" ],
+			[ "exornemos" ],
+			[ "exornéis", "exornen" ],
+			[ "exornen" ]
+		],
+		"9" : [
+			[ "exornara" ],
+			[ "exornaras" ],
+			[ "exornara" ],
+			[ "exornáramos" ],
+			[ "exornarais", "exornaran" ],
+			[ "exornaran" ]
+		],
+		"10" : [
+			[ "exornase" ],
+			[ "exornases" ],
+			[ "exornase" ],
+			[ "exornásemos" ],
+			[ "exornaseis", "exornasen" ],
+			[ "exornasen" ]
+		],
+		"11" : [
+			[ "exornare" ],
+			[ "exornares" ],
+			[ "exornare" ],
+			[ "exornáremos" ],
+			[ "exornareis", "exornaren" ],
+			[ "exornaren" ]
+		],
+		"12" : {
+			"1" : [ "exorna" ],
+			"2" : [ "exorne" ],
+			"3" : [ "exornemos" ],
+			"4" : [ "exornad" ],
+			"5" : [ "exornen" ]
+		}
+	}
+}

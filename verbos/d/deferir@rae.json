@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deferir",
+	"word" : "deferir",
+	"infinitivo" : "deferir",
+	"participio" : [ "deferido" ],
+	"gerundio" : [ "defiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "defiero" ],
+			[ "defieres", "deferís" ],
+			[ "defiere" ],
+			[ "deferimos" ],
+			[ "deferís", "defieren" ],
+			[ "defieren" ]
+		],
+		"4" : [
+			[ "deferí" ],
+			[ "deferiste" ],
+			[ "defirió" ],
+			[ "deferimos" ],
+			[ "deferisteis", "defirieron" ],
+			[ "defirieron" ]
+		],
+		"5" : [
+			[ "defería" ],
+			[ "deferías" ],
+			[ "defería" ],
+			[ "deferíamos" ],
+			[ "deferíais", "deferían" ],
+			[ "deferían" ]
+		],
+		"6" : [
+			[ "deferiría" ],
+			[ "deferirías" ],
+			[ "deferiría" ],
+			[ "deferiríamos" ],
+			[ "deferiríais", "deferirían" ],
+			[ "deferirían" ]
+		],
+		"7" : [
+			[ "deferiré" ],
+			[ "deferirás" ],
+			[ "deferirá" ],
+			[ "deferiremos" ],
+			[ "deferiréis", "deferirán" ],
+			[ "deferirán" ]
+		],
+		"8" : [
+			[ "defiera" ],
+			[ "defieras" ],
+			[ "defiera" ],
+			[ "defiramos" ],
+			[ "defiráis", "defieran" ],
+			[ "defieran" ]
+		],
+		"9" : [
+			[ "defiriera" ],
+			[ "defirieras" ],
+			[ "defiriera" ],
+			[ "defiriéramos" ],
+			[ "defirierais", "defirieran" ],
+			[ "defirieran" ]
+		],
+		"10" : [
+			[ "defiriese" ],
+			[ "defirieses" ],
+			[ "defiriese" ],
+			[ "defiriésemos" ],
+			[ "defirieseis", "defiriesen" ],
+			[ "defiriesen" ]
+		],
+		"11" : [
+			[ "defiriere" ],
+			[ "defirieres" ],
+			[ "defiriere" ],
+			[ "defiriéremos" ],
+			[ "defiriereis", "defirieren" ],
+			[ "defirieren" ]
+		],
+		"12" : {
+			"1" : [ "defiere" ],
+			"2" : [ "defiera" ],
+			"3" : [ "defiramos" ],
+			"4" : [ "deferid" ],
+			"5" : [ "defieran" ]
+		}
+	}
+}

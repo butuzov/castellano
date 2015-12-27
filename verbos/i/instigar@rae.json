@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=instigar",
+	"word" : "instigar",
+	"infinitivo" : "instigar",
+	"participio" : [ "instigado" ],
+	"gerundio" : [ "instigando" ],
+	"tenses" : {
+		"3" : [
+			[ "instigo" ],
+			[ "instigas", "instigás" ],
+			[ "instiga" ],
+			[ "instigamos" ],
+			[ "instigáis", "instigan" ],
+			[ "instigan" ]
+		],
+		"4" : [
+			[ "instigué" ],
+			[ "instigaste" ],
+			[ "instigó" ],
+			[ "instigamos" ],
+			[ "instigasteis", "instigaron" ],
+			[ "instigaron" ]
+		],
+		"5" : [
+			[ "instigaba" ],
+			[ "instigabas" ],
+			[ "instigaba" ],
+			[ "instigábamos" ],
+			[ "instigabais", "instigaban" ],
+			[ "instigaban" ]
+		],
+		"6" : [
+			[ "instigaría" ],
+			[ "instigarías" ],
+			[ "instigaría" ],
+			[ "instigaríamos" ],
+			[ "instigaríais", "instigarían" ],
+			[ "instigarían" ]
+		],
+		"7" : [
+			[ "instigaré" ],
+			[ "instigarás" ],
+			[ "instigará" ],
+			[ "instigaremos" ],
+			[ "instigaréis", "instigarán" ],
+			[ "instigarán" ]
+		],
+		"8" : [
+			[ "instigue" ],
+			[ "instigues" ],
+			[ "instigue" ],
+			[ "instiguemos" ],
+			[ "instiguéis", "instiguen" ],
+			[ "instiguen" ]
+		],
+		"9" : [
+			[ "instigara" ],
+			[ "instigaras" ],
+			[ "instigara" ],
+			[ "instigáramos" ],
+			[ "instigarais", "instigaran" ],
+			[ "instigaran" ]
+		],
+		"10" : [
+			[ "instigase" ],
+			[ "instigases" ],
+			[ "instigase" ],
+			[ "instigásemos" ],
+			[ "instigaseis", "instigasen" ],
+			[ "instigasen" ]
+		],
+		"11" : [
+			[ "instigare" ],
+			[ "instigares" ],
+			[ "instigare" ],
+			[ "instigáremos" ],
+			[ "instigareis", "instigaren" ],
+			[ "instigaren" ]
+		],
+		"12" : {
+			"1" : [ "instiga" ],
+			"2" : [ "instigue" ],
+			"3" : [ "instiguemos" ],
+			"4" : [ "instigad" ],
+			"5" : [ "instiguen" ]
+		}
+	}
+}

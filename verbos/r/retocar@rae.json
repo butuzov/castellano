@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=retocar",
+	"word" : "retocar",
+	"infinitivo" : "retocar",
+	"participio" : [ "retocado" ],
+	"gerundio" : [ "retocando" ],
+	"tenses" : {
+		"3" : [
+			[ "retoco" ],
+			[ "retocas", "retocás" ],
+			[ "retoca" ],
+			[ "retocamos" ],
+			[ "retocáis", "retocan" ],
+			[ "retocan" ]
+		],
+		"4" : [
+			[ "retoqué" ],
+			[ "retocaste" ],
+			[ "retocó" ],
+			[ "retocamos" ],
+			[ "retocasteis", "retocaron" ],
+			[ "retocaron" ]
+		],
+		"5" : [
+			[ "retocaba" ],
+			[ "retocabas" ],
+			[ "retocaba" ],
+			[ "retocábamos" ],
+			[ "retocabais", "retocaban" ],
+			[ "retocaban" ]
+		],
+		"6" : [
+			[ "retocaría" ],
+			[ "retocarías" ],
+			[ "retocaría" ],
+			[ "retocaríamos" ],
+			[ "retocaríais", "retocarían" ],
+			[ "retocarían" ]
+		],
+		"7" : [
+			[ "retocaré" ],
+			[ "retocarás" ],
+			[ "retocará" ],
+			[ "retocaremos" ],
+			[ "retocaréis", "retocarán" ],
+			[ "retocarán" ]
+		],
+		"8" : [
+			[ "retoque" ],
+			[ "retoques" ],
+			[ "retoque" ],
+			[ "retoquemos" ],
+			[ "retoquéis", "retoquen" ],
+			[ "retoquen" ]
+		],
+		"9" : [
+			[ "retocara" ],
+			[ "retocaras" ],
+			[ "retocara" ],
+			[ "retocáramos" ],
+			[ "retocarais", "retocaran" ],
+			[ "retocaran" ]
+		],
+		"10" : [
+			[ "retocase" ],
+			[ "retocases" ],
+			[ "retocase" ],
+			[ "retocásemos" ],
+			[ "retocaseis", "retocasen" ],
+			[ "retocasen" ]
+		],
+		"11" : [
+			[ "retocare" ],
+			[ "retocares" ],
+			[ "retocare" ],
+			[ "retocáremos" ],
+			[ "retocareis", "retocaren" ],
+			[ "retocaren" ]
+		],
+		"12" : {
+			"1" : [ "retoca" ],
+			"2" : [ "retoque" ],
+			"3" : [ "retoquemos" ],
+			"4" : [ "retocad" ],
+			"5" : [ "retoquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aliar",
+	"word" : "aliar",
+	"infinitivo" : "aliar",
+	"participio" : [ "aliado" ],
+	"gerundio" : [ "aliando" ],
+	"tenses" : {
+		"3" : [
+			[ "alío" ],
+			[ "alías", "aliás" ],
+			[ "alía" ],
+			[ "aliamos" ],
+			[ "aliáis", "alían" ],
+			[ "alían" ]
+		],
+		"4" : [
+			[ "alié" ],
+			[ "aliaste" ],
+			[ "alió" ],
+			[ "aliamos" ],
+			[ "aliasteis", "aliaron" ],
+			[ "aliaron" ]
+		],
+		"5" : [
+			[ "aliaba" ],
+			[ "aliabas" ],
+			[ "aliaba" ],
+			[ "aliábamos" ],
+			[ "aliabais", "aliaban" ],
+			[ "aliaban" ]
+		],
+		"6" : [
+			[ "aliaría" ],
+			[ "aliarías" ],
+			[ "aliaría" ],
+			[ "aliaríamos" ],
+			[ "aliaríais", "aliarían" ],
+			[ "aliarían" ]
+		],
+		"7" : [
+			[ "aliaré" ],
+			[ "aliarás" ],
+			[ "aliará" ],
+			[ "aliaremos" ],
+			[ "aliaréis", "aliarán" ],
+			[ "aliarán" ]
+		],
+		"8" : [
+			[ "alíe" ],
+			[ "alíes" ],
+			[ "alíe" ],
+			[ "aliemos" ],
+			[ "aliéis", "alíen" ],
+			[ "alíen" ]
+		],
+		"9" : [
+			[ "aliara" ],
+			[ "aliaras" ],
+			[ "aliara" ],
+			[ "aliáramos" ],
+			[ "aliarais", "aliaran" ],
+			[ "aliaran" ]
+		],
+		"10" : [
+			[ "aliase" ],
+			[ "aliases" ],
+			[ "aliase" ],
+			[ "aliásemos" ],
+			[ "aliaseis", "aliasen" ],
+			[ "aliasen" ]
+		],
+		"11" : [
+			[ "aliare" ],
+			[ "aliares" ],
+			[ "aliare" ],
+			[ "aliáremos" ],
+			[ "aliareis", "aliaren" ],
+			[ "aliaren" ]
+		],
+		"12" : {
+			"1" : [ "alía" ],
+			"2" : [ "alíe" ],
+			"3" : [ "aliemos" ],
+			"4" : [ "aliad" ],
+			"5" : [ "alíen" ]
+		}
+	}
+}

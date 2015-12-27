@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=perecear",
+	"word" : "perecear",
+	"infinitivo" : "perecear",
+	"participio" : [ "pereceado" ],
+	"gerundio" : [ "pereceando" ],
+	"tenses" : {
+		"3" : [
+			[ "pereceo" ],
+			[ "pereceas", "pereceás" ],
+			[ "perecea" ],
+			[ "pereceamos" ],
+			[ "pereceáis", "perecean" ],
+			[ "perecean" ]
+		],
+		"4" : [
+			[ "pereceé" ],
+			[ "pereceaste" ],
+			[ "pereceó" ],
+			[ "pereceamos" ],
+			[ "pereceasteis", "perecearon" ],
+			[ "perecearon" ]
+		],
+		"5" : [
+			[ "pereceaba" ],
+			[ "pereceabas" ],
+			[ "pereceaba" ],
+			[ "pereceábamos" ],
+			[ "pereceabais", "pereceaban" ],
+			[ "pereceaban" ]
+		],
+		"6" : [
+			[ "perecearía" ],
+			[ "perecearías" ],
+			[ "perecearía" ],
+			[ "perecearíamos" ],
+			[ "perecearíais", "perecearían" ],
+			[ "perecearían" ]
+		],
+		"7" : [
+			[ "perecearé" ],
+			[ "perecearás" ],
+			[ "pereceará" ],
+			[ "perecearemos" ],
+			[ "perecearéis", "perecearán" ],
+			[ "perecearán" ]
+		],
+		"8" : [
+			[ "perecee" ],
+			[ "perecees" ],
+			[ "perecee" ],
+			[ "pereceemos" ],
+			[ "pereceéis", "pereceen" ],
+			[ "pereceen" ]
+		],
+		"9" : [
+			[ "pereceara" ],
+			[ "perecearas" ],
+			[ "pereceara" ],
+			[ "pereceáramos" ],
+			[ "perecearais", "perecearan" ],
+			[ "perecearan" ]
+		],
+		"10" : [
+			[ "perecease" ],
+			[ "pereceases" ],
+			[ "perecease" ],
+			[ "pereceásemos" ],
+			[ "pereceaseis", "pereceasen" ],
+			[ "pereceasen" ]
+		],
+		"11" : [
+			[ "pereceare" ],
+			[ "pereceares" ],
+			[ "pereceare" ],
+			[ "pereceáremos" ],
+			[ "pereceareis", "perecearen" ],
+			[ "perecearen" ]
+		],
+		"12" : {
+			"1" : [ "perecea" ],
+			"2" : [ "perecee" ],
+			"3" : [ "pereceemos" ],
+			"4" : [ "perecead" ],
+			"5" : [ "pereceen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apercollar",
+	"word" : "apercollar",
+	"infinitivo" : "apercollar",
+	"participio" : [ "apercollado" ],
+	"gerundio" : [ "apercollando" ],
+	"tenses" : {
+		"3" : [
+			[ "apercollo" ],
+			[ "apercollas", "apercollás" ],
+			[ "apercolla" ],
+			[ "apercollamos" ],
+			[ "apercolláis", "apercollan" ],
+			[ "apercollan" ]
+		],
+		"4" : [
+			[ "apercollé" ],
+			[ "apercollaste" ],
+			[ "apercolló" ],
+			[ "apercollamos" ],
+			[ "apercollasteis", "apercollaron" ],
+			[ "apercollaron" ]
+		],
+		"5" : [
+			[ "apercollaba" ],
+			[ "apercollabas" ],
+			[ "apercollaba" ],
+			[ "apercollábamos" ],
+			[ "apercollabais", "apercollaban" ],
+			[ "apercollaban" ]
+		],
+		"6" : [
+			[ "apercollaría" ],
+			[ "apercollarías" ],
+			[ "apercollaría" ],
+			[ "apercollaríamos" ],
+			[ "apercollaríais", "apercollarían" ],
+			[ "apercollarían" ]
+		],
+		"7" : [
+			[ "apercollaré" ],
+			[ "apercollarás" ],
+			[ "apercollará" ],
+			[ "apercollaremos" ],
+			[ "apercollaréis", "apercollarán" ],
+			[ "apercollarán" ]
+		],
+		"8" : [
+			[ "apercolle" ],
+			[ "apercolles" ],
+			[ "apercolle" ],
+			[ "apercollemos" ],
+			[ "apercolléis", "apercollen" ],
+			[ "apercollen" ]
+		],
+		"9" : [
+			[ "apercollara" ],
+			[ "apercollaras" ],
+			[ "apercollara" ],
+			[ "apercolláramos" ],
+			[ "apercollarais", "apercollaran" ],
+			[ "apercollaran" ]
+		],
+		"10" : [
+			[ "apercollase" ],
+			[ "apercollases" ],
+			[ "apercollase" ],
+			[ "apercollásemos" ],
+			[ "apercollaseis", "apercollasen" ],
+			[ "apercollasen" ]
+		],
+		"11" : [
+			[ "apercollare" ],
+			[ "apercollares" ],
+			[ "apercollare" ],
+			[ "apercolláremos" ],
+			[ "apercollareis", "apercollaren" ],
+			[ "apercollaren" ]
+		],
+		"12" : {
+			"1" : [ "apercolla" ],
+			"2" : [ "apercolle" ],
+			"3" : [ "apercollemos" ],
+			"4" : [ "apercollad" ],
+			"5" : [ "apercollen" ]
+		}
+	}
+}

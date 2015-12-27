@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=migrar",
+	"word" : "migrar",
+	"infinitivo" : "migrar",
+	"participio" : [ "migrado" ],
+	"gerundio" : [ "migrando" ],
+	"tenses" : {
+		"3" : [
+			[ "migro" ],
+			[ "migras", "migrás" ],
+			[ "migra" ],
+			[ "migramos" ],
+			[ "migráis", "migran" ],
+			[ "migran" ]
+		],
+		"4" : [
+			[ "migré" ],
+			[ "migraste" ],
+			[ "migró" ],
+			[ "migramos" ],
+			[ "migrasteis", "migraron" ],
+			[ "migraron" ]
+		],
+		"5" : [
+			[ "migraba" ],
+			[ "migrabas" ],
+			[ "migraba" ],
+			[ "migrábamos" ],
+			[ "migrabais", "migraban" ],
+			[ "migraban" ]
+		],
+		"6" : [
+			[ "migraría" ],
+			[ "migrarías" ],
+			[ "migraría" ],
+			[ "migraríamos" ],
+			[ "migraríais", "migrarían" ],
+			[ "migrarían" ]
+		],
+		"7" : [
+			[ "migraré" ],
+			[ "migrarás" ],
+			[ "migrará" ],
+			[ "migraremos" ],
+			[ "migraréis", "migrarán" ],
+			[ "migrarán" ]
+		],
+		"8" : [
+			[ "migre" ],
+			[ "migres" ],
+			[ "migre" ],
+			[ "migremos" ],
+			[ "migréis", "migren" ],
+			[ "migren" ]
+		],
+		"9" : [
+			[ "migrara" ],
+			[ "migraras" ],
+			[ "migrara" ],
+			[ "migráramos" ],
+			[ "migrarais", "migraran" ],
+			[ "migraran" ]
+		],
+		"10" : [
+			[ "migrase" ],
+			[ "migrases" ],
+			[ "migrase" ],
+			[ "migrásemos" ],
+			[ "migraseis", "migrasen" ],
+			[ "migrasen" ]
+		],
+		"11" : [
+			[ "migrare" ],
+			[ "migrares" ],
+			[ "migrare" ],
+			[ "migráremos" ],
+			[ "migrareis", "migraren" ],
+			[ "migraren" ]
+		],
+		"12" : {
+			"1" : [ "migra" ],
+			"2" : [ "migre" ],
+			"3" : [ "migremos" ],
+			"4" : [ "migrad" ],
+			"5" : [ "migren" ]
+		}
+	}
+}

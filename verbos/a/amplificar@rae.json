@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amplificar",
+	"word" : "amplificar",
+	"infinitivo" : "amplificar",
+	"participio" : [ "amplificado" ],
+	"gerundio" : [ "amplificando" ],
+	"tenses" : {
+		"3" : [
+			[ "amplifico" ],
+			[ "amplificas", "amplificás" ],
+			[ "amplifica" ],
+			[ "amplificamos" ],
+			[ "amplificáis", "amplifican" ],
+			[ "amplifican" ]
+		],
+		"4" : [
+			[ "amplifiqué" ],
+			[ "amplificaste" ],
+			[ "amplificó" ],
+			[ "amplificamos" ],
+			[ "amplificasteis", "amplificaron" ],
+			[ "amplificaron" ]
+		],
+		"5" : [
+			[ "amplificaba" ],
+			[ "amplificabas" ],
+			[ "amplificaba" ],
+			[ "amplificábamos" ],
+			[ "amplificabais", "amplificaban" ],
+			[ "amplificaban" ]
+		],
+		"6" : [
+			[ "amplificaría" ],
+			[ "amplificarías" ],
+			[ "amplificaría" ],
+			[ "amplificaríamos" ],
+			[ "amplificaríais", "amplificarían" ],
+			[ "amplificarían" ]
+		],
+		"7" : [
+			[ "amplificaré" ],
+			[ "amplificarás" ],
+			[ "amplificará" ],
+			[ "amplificaremos" ],
+			[ "amplificaréis", "amplificarán" ],
+			[ "amplificarán" ]
+		],
+		"8" : [
+			[ "amplifique" ],
+			[ "amplifiques" ],
+			[ "amplifique" ],
+			[ "amplifiquemos" ],
+			[ "amplifiquéis", "amplifiquen" ],
+			[ "amplifiquen" ]
+		],
+		"9" : [
+			[ "amplificara" ],
+			[ "amplificaras" ],
+			[ "amplificara" ],
+			[ "amplificáramos" ],
+			[ "amplificarais", "amplificaran" ],
+			[ "amplificaran" ]
+		],
+		"10" : [
+			[ "amplificase" ],
+			[ "amplificases" ],
+			[ "amplificase" ],
+			[ "amplificásemos" ],
+			[ "amplificaseis", "amplificasen" ],
+			[ "amplificasen" ]
+		],
+		"11" : [
+			[ "amplificare" ],
+			[ "amplificares" ],
+			[ "amplificare" ],
+			[ "amplificáremos" ],
+			[ "amplificareis", "amplificaren" ],
+			[ "amplificaren" ]
+		],
+		"12" : {
+			"1" : [ "amplifica" ],
+			"2" : [ "amplifique" ],
+			"3" : [ "amplifiquemos" ],
+			"4" : [ "amplificad" ],
+			"5" : [ "amplifiquen" ]
+		}
+	}
+}

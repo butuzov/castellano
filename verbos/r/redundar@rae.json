@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=redundar",
+	"word" : "redundar",
+	"infinitivo" : "redundar",
+	"participio" : [ "redundado" ],
+	"gerundio" : [ "redundando" ],
+	"tenses" : {
+		"3" : [
+			[ "redundo" ],
+			[ "redundas", "redundás" ],
+			[ "redunda" ],
+			[ "redundamos" ],
+			[ "redundáis", "redundan" ],
+			[ "redundan" ]
+		],
+		"4" : [
+			[ "redundé" ],
+			[ "redundaste" ],
+			[ "redundó" ],
+			[ "redundamos" ],
+			[ "redundasteis", "redundaron" ],
+			[ "redundaron" ]
+		],
+		"5" : [
+			[ "redundaba" ],
+			[ "redundabas" ],
+			[ "redundaba" ],
+			[ "redundábamos" ],
+			[ "redundabais", "redundaban" ],
+			[ "redundaban" ]
+		],
+		"6" : [
+			[ "redundaría" ],
+			[ "redundarías" ],
+			[ "redundaría" ],
+			[ "redundaríamos" ],
+			[ "redundaríais", "redundarían" ],
+			[ "redundarían" ]
+		],
+		"7" : [
+			[ "redundaré" ],
+			[ "redundarás" ],
+			[ "redundará" ],
+			[ "redundaremos" ],
+			[ "redundaréis", "redundarán" ],
+			[ "redundarán" ]
+		],
+		"8" : [
+			[ "redunde" ],
+			[ "redundes" ],
+			[ "redunde" ],
+			[ "redundemos" ],
+			[ "redundéis", "redunden" ],
+			[ "redunden" ]
+		],
+		"9" : [
+			[ "redundara" ],
+			[ "redundaras" ],
+			[ "redundara" ],
+			[ "redundáramos" ],
+			[ "redundarais", "redundaran" ],
+			[ "redundaran" ]
+		],
+		"10" : [
+			[ "redundase" ],
+			[ "redundases" ],
+			[ "redundase" ],
+			[ "redundásemos" ],
+			[ "redundaseis", "redundasen" ],
+			[ "redundasen" ]
+		],
+		"11" : [
+			[ "redundare" ],
+			[ "redundares" ],
+			[ "redundare" ],
+			[ "redundáremos" ],
+			[ "redundareis", "redundaren" ],
+			[ "redundaren" ]
+		],
+		"12" : {
+			"1" : [ "redunda" ],
+			"2" : [ "redunde" ],
+			"3" : [ "redundemos" ],
+			"4" : [ "redundad" ],
+			"5" : [ "redunden" ]
+		}
+	}
+}

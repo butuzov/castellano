@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inflamar",
+	"word" : "inflamar",
+	"infinitivo" : "inflamar",
+	"participio" : [ "inflamado" ],
+	"gerundio" : [ "inflamando" ],
+	"tenses" : {
+		"3" : [
+			[ "inflamo" ],
+			[ "inflamas", "inflamás" ],
+			[ "inflama" ],
+			[ "inflamamos" ],
+			[ "inflamáis", "inflaman" ],
+			[ "inflaman" ]
+		],
+		"4" : [
+			[ "inflamé" ],
+			[ "inflamaste" ],
+			[ "inflamó" ],
+			[ "inflamamos" ],
+			[ "inflamasteis", "inflamaron" ],
+			[ "inflamaron" ]
+		],
+		"5" : [
+			[ "inflamaba" ],
+			[ "inflamabas" ],
+			[ "inflamaba" ],
+			[ "inflamábamos" ],
+			[ "inflamabais", "inflamaban" ],
+			[ "inflamaban" ]
+		],
+		"6" : [
+			[ "inflamaría" ],
+			[ "inflamarías" ],
+			[ "inflamaría" ],
+			[ "inflamaríamos" ],
+			[ "inflamaríais", "inflamarían" ],
+			[ "inflamarían" ]
+		],
+		"7" : [
+			[ "inflamaré" ],
+			[ "inflamarás" ],
+			[ "inflamará" ],
+			[ "inflamaremos" ],
+			[ "inflamaréis", "inflamarán" ],
+			[ "inflamarán" ]
+		],
+		"8" : [
+			[ "inflame" ],
+			[ "inflames" ],
+			[ "inflame" ],
+			[ "inflamemos" ],
+			[ "inflaméis", "inflamen" ],
+			[ "inflamen" ]
+		],
+		"9" : [
+			[ "inflamara" ],
+			[ "inflamaras" ],
+			[ "inflamara" ],
+			[ "inflamáramos" ],
+			[ "inflamarais", "inflamaran" ],
+			[ "inflamaran" ]
+		],
+		"10" : [
+			[ "inflamase" ],
+			[ "inflamases" ],
+			[ "inflamase" ],
+			[ "inflamásemos" ],
+			[ "inflamaseis", "inflamasen" ],
+			[ "inflamasen" ]
+		],
+		"11" : [
+			[ "inflamare" ],
+			[ "inflamares" ],
+			[ "inflamare" ],
+			[ "inflamáremos" ],
+			[ "inflamareis", "inflamaren" ],
+			[ "inflamaren" ]
+		],
+		"12" : {
+			"1" : [ "inflama" ],
+			"2" : [ "inflame" ],
+			"3" : [ "inflamemos" ],
+			"4" : [ "inflamad" ],
+			"5" : [ "inflamen" ]
+		}
+	}
+}

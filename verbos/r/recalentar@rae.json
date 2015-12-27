@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recalentar",
+	"word" : "recalentar",
+	"infinitivo" : "recalentar",
+	"participio" : [ "recalentado" ],
+	"gerundio" : [ "recalentando" ],
+	"tenses" : {
+		"3" : [
+			[ "recaliento" ],
+			[ "recalientas", "recalentás" ],
+			[ "recalienta" ],
+			[ "recalentamos" ],
+			[ "recalentáis", "recalientan" ],
+			[ "recalientan" ]
+		],
+		"4" : [
+			[ "recalenté" ],
+			[ "recalentaste" ],
+			[ "recalentó" ],
+			[ "recalentamos" ],
+			[ "recalentasteis", "recalentaron" ],
+			[ "recalentaron" ]
+		],
+		"5" : [
+			[ "recalentaba" ],
+			[ "recalentabas" ],
+			[ "recalentaba" ],
+			[ "recalentábamos" ],
+			[ "recalentabais", "recalentaban" ],
+			[ "recalentaban" ]
+		],
+		"6" : [
+			[ "recalentaría" ],
+			[ "recalentarías" ],
+			[ "recalentaría" ],
+			[ "recalentaríamos" ],
+			[ "recalentaríais", "recalentarían" ],
+			[ "recalentarían" ]
+		],
+		"7" : [
+			[ "recalentaré" ],
+			[ "recalentarás" ],
+			[ "recalentará" ],
+			[ "recalentaremos" ],
+			[ "recalentaréis", "recalentarán" ],
+			[ "recalentarán" ]
+		],
+		"8" : [
+			[ "recaliente" ],
+			[ "recalientes" ],
+			[ "recaliente" ],
+			[ "recalentemos" ],
+			[ "recalentéis", "recalienten" ],
+			[ "recalienten" ]
+		],
+		"9" : [
+			[ "recalentara" ],
+			[ "recalentaras" ],
+			[ "recalentara" ],
+			[ "recalentáramos" ],
+			[ "recalentarais", "recalentaran" ],
+			[ "recalentaran" ]
+		],
+		"10" : [
+			[ "recalentase" ],
+			[ "recalentases" ],
+			[ "recalentase" ],
+			[ "recalentásemos" ],
+			[ "recalentaseis", "recalentasen" ],
+			[ "recalentasen" ]
+		],
+		"11" : [
+			[ "recalentare" ],
+			[ "recalentares" ],
+			[ "recalentare" ],
+			[ "recalentáremos" ],
+			[ "recalentareis", "recalentaren" ],
+			[ "recalentaren" ]
+		],
+		"12" : {
+			"1" : [ "recalienta" ],
+			"2" : [ "recaliente" ],
+			"3" : [ "recalentemos" ],
+			"4" : [ "recalentad" ],
+			"5" : [ "recalienten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=envenenar",
+	"word" : "envenenar",
+	"infinitivo" : "envenenar",
+	"participio" : [ "envenenado" ],
+	"gerundio" : [ "envenenando" ],
+	"tenses" : {
+		"3" : [
+			[ "enveneno" ],
+			[ "envenenas", "envenenás" ],
+			[ "envenena" ],
+			[ "envenenamos" ],
+			[ "envenenáis", "envenenan" ],
+			[ "envenenan" ]
+		],
+		"4" : [
+			[ "envenené" ],
+			[ "envenenaste" ],
+			[ "envenenó" ],
+			[ "envenenamos" ],
+			[ "envenenasteis", "envenenaron" ],
+			[ "envenenaron" ]
+		],
+		"5" : [
+			[ "envenenaba" ],
+			[ "envenenabas" ],
+			[ "envenenaba" ],
+			[ "envenenábamos" ],
+			[ "envenenabais", "envenenaban" ],
+			[ "envenenaban" ]
+		],
+		"6" : [
+			[ "envenenaría" ],
+			[ "envenenarías" ],
+			[ "envenenaría" ],
+			[ "envenenaríamos" ],
+			[ "envenenaríais", "envenenarían" ],
+			[ "envenenarían" ]
+		],
+		"7" : [
+			[ "envenenaré" ],
+			[ "envenenarás" ],
+			[ "envenenará" ],
+			[ "envenenaremos" ],
+			[ "envenenaréis", "envenenarán" ],
+			[ "envenenarán" ]
+		],
+		"8" : [
+			[ "envenene" ],
+			[ "envenenes" ],
+			[ "envenene" ],
+			[ "envenenemos" ],
+			[ "envenenéis", "envenenen" ],
+			[ "envenenen" ]
+		],
+		"9" : [
+			[ "envenenara" ],
+			[ "envenenaras" ],
+			[ "envenenara" ],
+			[ "envenenáramos" ],
+			[ "envenenarais", "envenenaran" ],
+			[ "envenenaran" ]
+		],
+		"10" : [
+			[ "envenenase" ],
+			[ "envenenases" ],
+			[ "envenenase" ],
+			[ "envenenásemos" ],
+			[ "envenenaseis", "envenenasen" ],
+			[ "envenenasen" ]
+		],
+		"11" : [
+			[ "envenenare" ],
+			[ "envenenares" ],
+			[ "envenenare" ],
+			[ "envenenáremos" ],
+			[ "envenenareis", "envenenaren" ],
+			[ "envenenaren" ]
+		],
+		"12" : {
+			"1" : [ "envenena" ],
+			"2" : [ "envenene" ],
+			"3" : [ "envenenemos" ],
+			"4" : [ "envenenad" ],
+			"5" : [ "envenenen" ]
+		}
+	}
+}

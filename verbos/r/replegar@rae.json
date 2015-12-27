@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=replegar",
+	"word" : "replegar",
+	"infinitivo" : "replegar",
+	"participio" : [ "replegado" ],
+	"gerundio" : [ "replegando" ],
+	"tenses" : {
+		"3" : [
+			[ "repliego" ],
+			[ "repliegas", "replegás" ],
+			[ "repliega" ],
+			[ "replegamos" ],
+			[ "replegáis", "repliegan" ],
+			[ "repliegan" ]
+		],
+		"4" : [
+			[ "replegué" ],
+			[ "replegaste" ],
+			[ "replegó" ],
+			[ "replegamos" ],
+			[ "replegasteis", "replegaron" ],
+			[ "replegaron" ]
+		],
+		"5" : [
+			[ "replegaba" ],
+			[ "replegabas" ],
+			[ "replegaba" ],
+			[ "replegábamos" ],
+			[ "replegabais", "replegaban" ],
+			[ "replegaban" ]
+		],
+		"6" : [
+			[ "replegaría" ],
+			[ "replegarías" ],
+			[ "replegaría" ],
+			[ "replegaríamos" ],
+			[ "replegaríais", "replegarían" ],
+			[ "replegarían" ]
+		],
+		"7" : [
+			[ "replegaré" ],
+			[ "replegarás" ],
+			[ "replegará" ],
+			[ "replegaremos" ],
+			[ "replegaréis", "replegarán" ],
+			[ "replegarán" ]
+		],
+		"8" : [
+			[ "repliegue" ],
+			[ "repliegues" ],
+			[ "repliegue" ],
+			[ "repleguemos" ],
+			[ "repleguéis", "replieguen" ],
+			[ "replieguen" ]
+		],
+		"9" : [
+			[ "replegara" ],
+			[ "replegaras" ],
+			[ "replegara" ],
+			[ "replegáramos" ],
+			[ "replegarais", "replegaran" ],
+			[ "replegaran" ]
+		],
+		"10" : [
+			[ "replegase" ],
+			[ "replegases" ],
+			[ "replegase" ],
+			[ "replegásemos" ],
+			[ "replegaseis", "replegasen" ],
+			[ "replegasen" ]
+		],
+		"11" : [
+			[ "replegare" ],
+			[ "replegares" ],
+			[ "replegare" ],
+			[ "replegáremos" ],
+			[ "replegareis", "replegaren" ],
+			[ "replegaren" ]
+		],
+		"12" : {
+			"1" : [ "repliega" ],
+			"2" : [ "repliegue" ],
+			"3" : [ "repleguemos" ],
+			"4" : [ "replegad" ],
+			"5" : [ "replieguen" ]
+		}
+	}
+}

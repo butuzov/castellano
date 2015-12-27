@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=subir",
+	"word" : "subir",
+	"infinitivo" : "subir",
+	"participio" : [ "subido" ],
+	"gerundio" : [ "subiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "subo" ],
+			[ "subes", "subís" ],
+			[ "sube" ],
+			[ "subimos" ],
+			[ "subís", "suben" ],
+			[ "suben" ]
+		],
+		"4" : [
+			[ "subí" ],
+			[ "subiste" ],
+			[ "subió" ],
+			[ "subimos" ],
+			[ "subisteis", "subieron" ],
+			[ "subieron" ]
+		],
+		"5" : [
+			[ "subía" ],
+			[ "subías" ],
+			[ "subía" ],
+			[ "subíamos" ],
+			[ "subíais", "subían" ],
+			[ "subían" ]
+		],
+		"6" : [
+			[ "subiría" ],
+			[ "subirías" ],
+			[ "subiría" ],
+			[ "subiríamos" ],
+			[ "subiríais", "subirían" ],
+			[ "subirían" ]
+		],
+		"7" : [
+			[ "subiré" ],
+			[ "subirás" ],
+			[ "subirá" ],
+			[ "subiremos" ],
+			[ "subiréis", "subirán" ],
+			[ "subirán" ]
+		],
+		"8" : [
+			[ "suba" ],
+			[ "subas" ],
+			[ "suba" ],
+			[ "subamos" ],
+			[ "subáis", "suban" ],
+			[ "suban" ]
+		],
+		"9" : [
+			[ "subiera" ],
+			[ "subieras" ],
+			[ "subiera" ],
+			[ "subiéramos" ],
+			[ "subierais", "subieran" ],
+			[ "subieran" ]
+		],
+		"10" : [
+			[ "subiese" ],
+			[ "subieses" ],
+			[ "subiese" ],
+			[ "subiésemos" ],
+			[ "subieseis", "subiesen" ],
+			[ "subiesen" ]
+		],
+		"11" : [
+			[ "subiere" ],
+			[ "subieres" ],
+			[ "subiere" ],
+			[ "subiéremos" ],
+			[ "subiereis", "subieren" ],
+			[ "subieren" ]
+		],
+		"12" : {
+			"1" : [ "sube" ],
+			"2" : [ "suba" ],
+			"3" : [ "subamos" ],
+			"4" : [ "subid" ],
+			"5" : [ "suban" ]
+		}
+	}
+}

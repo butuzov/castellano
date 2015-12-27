@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=competer",
+	"word" : "competer",
+	"infinitivo" : "competer",
+	"participio" : [ "competido" ],
+	"gerundio" : [ "competiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "competo" ],
+			[ "competes", "competés" ],
+			[ "compete" ],
+			[ "competemos" ],
+			[ "competéis", "competen" ],
+			[ "competen" ]
+		],
+		"4" : [
+			[ "competí" ],
+			[ "competiste" ],
+			[ "competió" ],
+			[ "competimos" ],
+			[ "competisteis", "competieron" ],
+			[ "competieron" ]
+		],
+		"5" : [
+			[ "competía" ],
+			[ "competías" ],
+			[ "competía" ],
+			[ "competíamos" ],
+			[ "competíais", "competían" ],
+			[ "competían" ]
+		],
+		"6" : [
+			[ "competería" ],
+			[ "competerías" ],
+			[ "competería" ],
+			[ "competeríamos" ],
+			[ "competeríais", "competerían" ],
+			[ "competerían" ]
+		],
+		"7" : [
+			[ "competeré" ],
+			[ "competerás" ],
+			[ "competerá" ],
+			[ "competeremos" ],
+			[ "competeréis", "competerán" ],
+			[ "competerán" ]
+		],
+		"8" : [
+			[ "competa" ],
+			[ "competas" ],
+			[ "competa" ],
+			[ "competamos" ],
+			[ "competáis", "competan" ],
+			[ "competan" ]
+		],
+		"9" : [
+			[ "competiera" ],
+			[ "competieras" ],
+			[ "competiera" ],
+			[ "competiéramos" ],
+			[ "competierais", "competieran" ],
+			[ "competieran" ]
+		],
+		"10" : [
+			[ "competiese" ],
+			[ "competieses" ],
+			[ "competiese" ],
+			[ "competiésemos" ],
+			[ "competieseis", "competiesen" ],
+			[ "competiesen" ]
+		],
+		"11" : [
+			[ "competiere" ],
+			[ "competieres" ],
+			[ "competiere" ],
+			[ "competiéremos" ],
+			[ "competiereis", "competieren" ],
+			[ "competieren" ]
+		],
+		"12" : {
+			"1" : [ "compete" ],
+			"2" : [ "competa" ],
+			"3" : [ "competamos" ],
+			"4" : [ "competed" ],
+			"5" : [ "competan" ]
+		}
+	}
+}

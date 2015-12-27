@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=distribuir",
+	"word" : "distribuir",
+	"infinitivo" : "distribuir",
+	"participio" : [ "distribuido" ],
+	"gerundio" : [ "distribuyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "distribuyo" ],
+			[ "distribuyes", "distribuís" ],
+			[ "distribuye" ],
+			[ "distribuimos" ],
+			[ "distribuís", "distribuyen" ],
+			[ "distribuyen" ]
+		],
+		"4" : [
+			[ "distribuí" ],
+			[ "distribuiste" ],
+			[ "distribuyó" ],
+			[ "distribuimos" ],
+			[ "distribuisteis", "distribuyeron" ],
+			[ "distribuyeron" ]
+		],
+		"5" : [
+			[ "distribuía" ],
+			[ "distribuías" ],
+			[ "distribuía" ],
+			[ "distribuíamos" ],
+			[ "distribuíais", "distribuían" ],
+			[ "distribuían" ]
+		],
+		"6" : [
+			[ "distribuiría" ],
+			[ "distribuirías" ],
+			[ "distribuiría" ],
+			[ "distribuiríamos" ],
+			[ "distribuiríais", "distribuirían" ],
+			[ "distribuirían" ]
+		],
+		"7" : [
+			[ "distribuiré" ],
+			[ "distribuirás" ],
+			[ "distribuirá" ],
+			[ "distribuiremos" ],
+			[ "distribuiréis", "distribuirán" ],
+			[ "distribuirán" ]
+		],
+		"8" : [
+			[ "distribuya" ],
+			[ "distribuyas" ],
+			[ "distribuya" ],
+			[ "distribuyamos" ],
+			[ "distribuyáis", "distribuyan" ],
+			[ "distribuyan" ]
+		],
+		"9" : [
+			[ "distribuyera" ],
+			[ "distribuyeras" ],
+			[ "distribuyera" ],
+			[ "distribuyéramos" ],
+			[ "distribuyerais", "distribuyeran" ],
+			[ "distribuyeran" ]
+		],
+		"10" : [
+			[ "distribuyese" ],
+			[ "distribuyeses" ],
+			[ "distribuyese" ],
+			[ "distribuyésemos" ],
+			[ "distribuyeseis", "distribuyesen" ],
+			[ "distribuyesen" ]
+		],
+		"11" : [
+			[ "distribuyere" ],
+			[ "distribuyeres" ],
+			[ "distribuyere" ],
+			[ "distribuyéremos" ],
+			[ "distribuyereis", "distribuyeren" ],
+			[ "distribuyeren" ]
+		],
+		"12" : {
+			"1" : [ "distribuye" ],
+			"2" : [ "distribuya" ],
+			"3" : [ "distribuyamos" ],
+			"4" : [ "distribuid" ],
+			"5" : [ "distribuyan" ]
+		}
+	}
+}

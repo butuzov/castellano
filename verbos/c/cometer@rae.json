@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cometer",
+	"word" : "cometer",
+	"infinitivo" : "cometer",
+	"participio" : [ "cometido" ],
+	"gerundio" : [ "cometiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "cometo" ],
+			[ "cometes", "cometés" ],
+			[ "comete" ],
+			[ "cometemos" ],
+			[ "cometéis", "cometen" ],
+			[ "cometen" ]
+		],
+		"4" : [
+			[ "cometí" ],
+			[ "cometiste" ],
+			[ "cometió" ],
+			[ "cometimos" ],
+			[ "cometisteis", "cometieron" ],
+			[ "cometieron" ]
+		],
+		"5" : [
+			[ "cometía" ],
+			[ "cometías" ],
+			[ "cometía" ],
+			[ "cometíamos" ],
+			[ "cometíais", "cometían" ],
+			[ "cometían" ]
+		],
+		"6" : [
+			[ "cometería" ],
+			[ "cometerías" ],
+			[ "cometería" ],
+			[ "cometeríamos" ],
+			[ "cometeríais", "cometerían" ],
+			[ "cometerían" ]
+		],
+		"7" : [
+			[ "cometeré" ],
+			[ "cometerás" ],
+			[ "cometerá" ],
+			[ "cometeremos" ],
+			[ "cometeréis", "cometerán" ],
+			[ "cometerán" ]
+		],
+		"8" : [
+			[ "cometa" ],
+			[ "cometas" ],
+			[ "cometa" ],
+			[ "cometamos" ],
+			[ "cometáis", "cometan" ],
+			[ "cometan" ]
+		],
+		"9" : [
+			[ "cometiera" ],
+			[ "cometieras" ],
+			[ "cometiera" ],
+			[ "cometiéramos" ],
+			[ "cometierais", "cometieran" ],
+			[ "cometieran" ]
+		],
+		"10" : [
+			[ "cometiese" ],
+			[ "cometieses" ],
+			[ "cometiese" ],
+			[ "cometiésemos" ],
+			[ "cometieseis", "cometiesen" ],
+			[ "cometiesen" ]
+		],
+		"11" : [
+			[ "cometiere" ],
+			[ "cometieres" ],
+			[ "cometiere" ],
+			[ "cometiéremos" ],
+			[ "cometiereis", "cometieren" ],
+			[ "cometieren" ]
+		],
+		"12" : {
+			"1" : [ "comete" ],
+			"2" : [ "cometa" ],
+			"3" : [ "cometamos" ],
+			"4" : [ "cometed" ],
+			"5" : [ "cometan" ]
+		}
+	}
+}

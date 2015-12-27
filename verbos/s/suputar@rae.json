@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=suputar",
+	"word" : "suputar",
+	"infinitivo" : "suputar",
+	"participio" : [ "suputado" ],
+	"gerundio" : [ "suputando" ],
+	"tenses" : {
+		"3" : [
+			[ "suputo" ],
+			[ "suputas", "suputás" ],
+			[ "suputa" ],
+			[ "suputamos" ],
+			[ "suputáis", "suputan" ],
+			[ "suputan" ]
+		],
+		"4" : [
+			[ "suputé" ],
+			[ "suputaste" ],
+			[ "suputó" ],
+			[ "suputamos" ],
+			[ "suputasteis", "suputaron" ],
+			[ "suputaron" ]
+		],
+		"5" : [
+			[ "suputaba" ],
+			[ "suputabas" ],
+			[ "suputaba" ],
+			[ "suputábamos" ],
+			[ "suputabais", "suputaban" ],
+			[ "suputaban" ]
+		],
+		"6" : [
+			[ "suputaría" ],
+			[ "suputarías" ],
+			[ "suputaría" ],
+			[ "suputaríamos" ],
+			[ "suputaríais", "suputarían" ],
+			[ "suputarían" ]
+		],
+		"7" : [
+			[ "suputaré" ],
+			[ "suputarás" ],
+			[ "suputará" ],
+			[ "suputaremos" ],
+			[ "suputaréis", "suputarán" ],
+			[ "suputarán" ]
+		],
+		"8" : [
+			[ "supute" ],
+			[ "suputes" ],
+			[ "supute" ],
+			[ "suputemos" ],
+			[ "suputéis", "suputen" ],
+			[ "suputen" ]
+		],
+		"9" : [
+			[ "suputara" ],
+			[ "suputaras" ],
+			[ "suputara" ],
+			[ "suputáramos" ],
+			[ "suputarais", "suputaran" ],
+			[ "suputaran" ]
+		],
+		"10" : [
+			[ "suputase" ],
+			[ "suputases" ],
+			[ "suputase" ],
+			[ "suputásemos" ],
+			[ "suputaseis", "suputasen" ],
+			[ "suputasen" ]
+		],
+		"11" : [
+			[ "suputare" ],
+			[ "suputares" ],
+			[ "suputare" ],
+			[ "suputáremos" ],
+			[ "suputareis", "suputaren" ],
+			[ "suputaren" ]
+		],
+		"12" : {
+			"1" : [ "suputa" ],
+			"2" : [ "supute" ],
+			"3" : [ "suputemos" ],
+			"4" : [ "suputad" ],
+			"5" : [ "suputen" ]
+		}
+	}
+}

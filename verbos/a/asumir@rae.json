@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asumir",
+	"word" : "asumir",
+	"infinitivo" : "asumir",
+	"participio" : [ "asumido" ],
+	"gerundio" : [ "asumiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "asumo" ],
+			[ "asumes", "asumís" ],
+			[ "asume" ],
+			[ "asumimos" ],
+			[ "asumís", "asumen" ],
+			[ "asumen" ]
+		],
+		"4" : [
+			[ "asumí" ],
+			[ "asumiste" ],
+			[ "asumió" ],
+			[ "asumimos" ],
+			[ "asumisteis", "asumieron" ],
+			[ "asumieron" ]
+		],
+		"5" : [
+			[ "asumía" ],
+			[ "asumías" ],
+			[ "asumía" ],
+			[ "asumíamos" ],
+			[ "asumíais", "asumían" ],
+			[ "asumían" ]
+		],
+		"6" : [
+			[ "asumiría" ],
+			[ "asumirías" ],
+			[ "asumiría" ],
+			[ "asumiríamos" ],
+			[ "asumiríais", "asumirían" ],
+			[ "asumirían" ]
+		],
+		"7" : [
+			[ "asumiré" ],
+			[ "asumirás" ],
+			[ "asumirá" ],
+			[ "asumiremos" ],
+			[ "asumiréis", "asumirán" ],
+			[ "asumirán" ]
+		],
+		"8" : [
+			[ "asuma" ],
+			[ "asumas" ],
+			[ "asuma" ],
+			[ "asumamos" ],
+			[ "asumáis", "asuman" ],
+			[ "asuman" ]
+		],
+		"9" : [
+			[ "asumiera" ],
+			[ "asumieras" ],
+			[ "asumiera" ],
+			[ "asumiéramos" ],
+			[ "asumierais", "asumieran" ],
+			[ "asumieran" ]
+		],
+		"10" : [
+			[ "asumiese" ],
+			[ "asumieses" ],
+			[ "asumiese" ],
+			[ "asumiésemos" ],
+			[ "asumieseis", "asumiesen" ],
+			[ "asumiesen" ]
+		],
+		"11" : [
+			[ "asumiere" ],
+			[ "asumieres" ],
+			[ "asumiere" ],
+			[ "asumiéremos" ],
+			[ "asumiereis", "asumieren" ],
+			[ "asumieren" ]
+		],
+		"12" : {
+			"1" : [ "asume" ],
+			"2" : [ "asuma" ],
+			"3" : [ "asumamos" ],
+			"4" : [ "asumid" ],
+			"5" : [ "asuman" ]
+		}
+	}
+}

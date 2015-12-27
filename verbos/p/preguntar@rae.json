@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=preguntar",
+	"word" : "preguntar",
+	"infinitivo" : "preguntar",
+	"participio" : [ "preguntado" ],
+	"gerundio" : [ "preguntando" ],
+	"tenses" : {
+		"3" : [
+			[ "pregunto" ],
+			[ "preguntas", "preguntás" ],
+			[ "pregunta" ],
+			[ "preguntamos" ],
+			[ "preguntáis", "preguntan" ],
+			[ "preguntan" ]
+		],
+		"4" : [
+			[ "pregunté" ],
+			[ "preguntaste" ],
+			[ "preguntó" ],
+			[ "preguntamos" ],
+			[ "preguntasteis", "preguntaron" ],
+			[ "preguntaron" ]
+		],
+		"5" : [
+			[ "preguntaba" ],
+			[ "preguntabas" ],
+			[ "preguntaba" ],
+			[ "preguntábamos" ],
+			[ "preguntabais", "preguntaban" ],
+			[ "preguntaban" ]
+		],
+		"6" : [
+			[ "preguntaría" ],
+			[ "preguntarías" ],
+			[ "preguntaría" ],
+			[ "preguntaríamos" ],
+			[ "preguntaríais", "preguntarían" ],
+			[ "preguntarían" ]
+		],
+		"7" : [
+			[ "preguntaré" ],
+			[ "preguntarás" ],
+			[ "preguntará" ],
+			[ "preguntaremos" ],
+			[ "preguntaréis", "preguntarán" ],
+			[ "preguntarán" ]
+		],
+		"8" : [
+			[ "pregunte" ],
+			[ "preguntes" ],
+			[ "pregunte" ],
+			[ "preguntemos" ],
+			[ "preguntéis", "pregunten" ],
+			[ "pregunten" ]
+		],
+		"9" : [
+			[ "preguntara" ],
+			[ "preguntaras" ],
+			[ "preguntara" ],
+			[ "preguntáramos" ],
+			[ "preguntarais", "preguntaran" ],
+			[ "preguntaran" ]
+		],
+		"10" : [
+			[ "preguntase" ],
+			[ "preguntases" ],
+			[ "preguntase" ],
+			[ "preguntásemos" ],
+			[ "preguntaseis", "preguntasen" ],
+			[ "preguntasen" ]
+		],
+		"11" : [
+			[ "preguntare" ],
+			[ "preguntares" ],
+			[ "preguntare" ],
+			[ "preguntáremos" ],
+			[ "preguntareis", "preguntaren" ],
+			[ "preguntaren" ]
+		],
+		"12" : {
+			"1" : [ "pregunta" ],
+			"2" : [ "pregunte" ],
+			"3" : [ "preguntemos" ],
+			"4" : [ "preguntad" ],
+			"5" : [ "pregunten" ]
+		}
+	}
+}

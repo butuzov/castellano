@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=helar",
+	"word" : "helar",
+	"infinitivo" : "helar",
+	"participio" : [ "helado" ],
+	"gerundio" : [ "helando" ],
+	"tenses" : {
+		"3" : [
+			[ "hielo" ],
+			[ "hielas", "helás" ],
+			[ "hiela" ],
+			[ "helamos" ],
+			[ "heláis", "hielan" ],
+			[ "hielan" ]
+		],
+		"4" : [
+			[ "helé" ],
+			[ "helaste" ],
+			[ "heló" ],
+			[ "helamos" ],
+			[ "helasteis", "helaron" ],
+			[ "helaron" ]
+		],
+		"5" : [
+			[ "helaba" ],
+			[ "helabas" ],
+			[ "helaba" ],
+			[ "helábamos" ],
+			[ "helabais", "helaban" ],
+			[ "helaban" ]
+		],
+		"6" : [
+			[ "helaría" ],
+			[ "helarías" ],
+			[ "helaría" ],
+			[ "helaríamos" ],
+			[ "helaríais", "helarían" ],
+			[ "helarían" ]
+		],
+		"7" : [
+			[ "helaré" ],
+			[ "helarás" ],
+			[ "helará" ],
+			[ "helaremos" ],
+			[ "helaréis", "helarán" ],
+			[ "helarán" ]
+		],
+		"8" : [
+			[ "hiele" ],
+			[ "hieles" ],
+			[ "hiele" ],
+			[ "helemos" ],
+			[ "heléis", "hielen" ],
+			[ "hielen" ]
+		],
+		"9" : [
+			[ "helara" ],
+			[ "helaras" ],
+			[ "helara" ],
+			[ "heláramos" ],
+			[ "helarais", "helaran" ],
+			[ "helaran" ]
+		],
+		"10" : [
+			[ "helase" ],
+			[ "helases" ],
+			[ "helase" ],
+			[ "helásemos" ],
+			[ "helaseis", "helasen" ],
+			[ "helasen" ]
+		],
+		"11" : [
+			[ "helare" ],
+			[ "helares" ],
+			[ "helare" ],
+			[ "heláremos" ],
+			[ "helareis", "helaren" ],
+			[ "helaren" ]
+		],
+		"12" : {
+			"1" : [ "hiela" ],
+			"2" : [ "hiele" ],
+			"3" : [ "helemos" ],
+			"4" : [ "helad" ],
+			"5" : [ "hielen" ]
+		}
+	}
+}

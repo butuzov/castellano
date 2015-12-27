@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resultar",
+	"word" : "resultar",
+	"infinitivo" : "resultar",
+	"participio" : [ "resultado" ],
+	"gerundio" : [ "resultando" ],
+	"tenses" : {
+		"3" : [
+			[ "resulto" ],
+			[ "resultas", "resultás" ],
+			[ "resulta" ],
+			[ "resultamos" ],
+			[ "resultáis", "resultan" ],
+			[ "resultan" ]
+		],
+		"4" : [
+			[ "resulté" ],
+			[ "resultaste" ],
+			[ "resultó" ],
+			[ "resultamos" ],
+			[ "resultasteis", "resultaron" ],
+			[ "resultaron" ]
+		],
+		"5" : [
+			[ "resultaba" ],
+			[ "resultabas" ],
+			[ "resultaba" ],
+			[ "resultábamos" ],
+			[ "resultabais", "resultaban" ],
+			[ "resultaban" ]
+		],
+		"6" : [
+			[ "resultaría" ],
+			[ "resultarías" ],
+			[ "resultaría" ],
+			[ "resultaríamos" ],
+			[ "resultaríais", "resultarían" ],
+			[ "resultarían" ]
+		],
+		"7" : [
+			[ "resultaré" ],
+			[ "resultarás" ],
+			[ "resultará" ],
+			[ "resultaremos" ],
+			[ "resultaréis", "resultarán" ],
+			[ "resultarán" ]
+		],
+		"8" : [
+			[ "resulte" ],
+			[ "resultes" ],
+			[ "resulte" ],
+			[ "resultemos" ],
+			[ "resultéis", "resulten" ],
+			[ "resulten" ]
+		],
+		"9" : [
+			[ "resultara" ],
+			[ "resultaras" ],
+			[ "resultara" ],
+			[ "resultáramos" ],
+			[ "resultarais", "resultaran" ],
+			[ "resultaran" ]
+		],
+		"10" : [
+			[ "resultase" ],
+			[ "resultases" ],
+			[ "resultase" ],
+			[ "resultásemos" ],
+			[ "resultaseis", "resultasen" ],
+			[ "resultasen" ]
+		],
+		"11" : [
+			[ "resultare" ],
+			[ "resultares" ],
+			[ "resultare" ],
+			[ "resultáremos" ],
+			[ "resultareis", "resultaren" ],
+			[ "resultaren" ]
+		],
+		"12" : {
+			"1" : [ "resulta" ],
+			"2" : [ "resulte" ],
+			"3" : [ "resultemos" ],
+			"4" : [ "resultad" ],
+			"5" : [ "resulten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desatracar",
+	"word" : "desatracar",
+	"infinitivo" : "desatracar",
+	"participio" : [ "desatracado" ],
+	"gerundio" : [ "desatracando" ],
+	"tenses" : {
+		"3" : [
+			[ "desatraco" ],
+			[ "desatracas", "desatracás" ],
+			[ "desatraca" ],
+			[ "desatracamos" ],
+			[ "desatracáis", "desatracan" ],
+			[ "desatracan" ]
+		],
+		"4" : [
+			[ "desatraqué" ],
+			[ "desatracaste" ],
+			[ "desatracó" ],
+			[ "desatracamos" ],
+			[ "desatracasteis", "desatracaron" ],
+			[ "desatracaron" ]
+		],
+		"5" : [
+			[ "desatracaba" ],
+			[ "desatracabas" ],
+			[ "desatracaba" ],
+			[ "desatracábamos" ],
+			[ "desatracabais", "desatracaban" ],
+			[ "desatracaban" ]
+		],
+		"6" : [
+			[ "desatracaría" ],
+			[ "desatracarías" ],
+			[ "desatracaría" ],
+			[ "desatracaríamos" ],
+			[ "desatracaríais", "desatracarían" ],
+			[ "desatracarían" ]
+		],
+		"7" : [
+			[ "desatracaré" ],
+			[ "desatracarás" ],
+			[ "desatracará" ],
+			[ "desatracaremos" ],
+			[ "desatracaréis", "desatracarán" ],
+			[ "desatracarán" ]
+		],
+		"8" : [
+			[ "desatraque" ],
+			[ "desatraques" ],
+			[ "desatraque" ],
+			[ "desatraquemos" ],
+			[ "desatraquéis", "desatraquen" ],
+			[ "desatraquen" ]
+		],
+		"9" : [
+			[ "desatracara" ],
+			[ "desatracaras" ],
+			[ "desatracara" ],
+			[ "desatracáramos" ],
+			[ "desatracarais", "desatracaran" ],
+			[ "desatracaran" ]
+		],
+		"10" : [
+			[ "desatracase" ],
+			[ "desatracases" ],
+			[ "desatracase" ],
+			[ "desatracásemos" ],
+			[ "desatracaseis", "desatracasen" ],
+			[ "desatracasen" ]
+		],
+		"11" : [
+			[ "desatracare" ],
+			[ "desatracares" ],
+			[ "desatracare" ],
+			[ "desatracáremos" ],
+			[ "desatracareis", "desatracaren" ],
+			[ "desatracaren" ]
+		],
+		"12" : {
+			"1" : [ "desatraca" ],
+			"2" : [ "desatraque" ],
+			"3" : [ "desatraquemos" ],
+			"4" : [ "desatracad" ],
+			"5" : [ "desatraquen" ]
+		}
+	}
+}

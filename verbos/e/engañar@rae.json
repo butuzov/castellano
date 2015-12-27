@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=engañar",
+	"word" : "engañar",
+	"infinitivo" : "engañar",
+	"participio" : [ "engañado" ],
+	"gerundio" : [ "engañando" ],
+	"tenses" : {
+		"3" : [
+			[ "engaño" ],
+			[ "engañas", "engañás" ],
+			[ "engaña" ],
+			[ "engañamos" ],
+			[ "engañáis", "engañan" ],
+			[ "engañan" ]
+		],
+		"4" : [
+			[ "engañé" ],
+			[ "engañaste" ],
+			[ "engañó" ],
+			[ "engañamos" ],
+			[ "engañasteis", "engañaron" ],
+			[ "engañaron" ]
+		],
+		"5" : [
+			[ "engañaba" ],
+			[ "engañabas" ],
+			[ "engañaba" ],
+			[ "engañábamos" ],
+			[ "engañabais", "engañaban" ],
+			[ "engañaban" ]
+		],
+		"6" : [
+			[ "engañaría" ],
+			[ "engañarías" ],
+			[ "engañaría" ],
+			[ "engañaríamos" ],
+			[ "engañaríais", "engañarían" ],
+			[ "engañarían" ]
+		],
+		"7" : [
+			[ "engañaré" ],
+			[ "engañarás" ],
+			[ "engañará" ],
+			[ "engañaremos" ],
+			[ "engañaréis", "engañarán" ],
+			[ "engañarán" ]
+		],
+		"8" : [
+			[ "engañe" ],
+			[ "engañes" ],
+			[ "engañe" ],
+			[ "engañemos" ],
+			[ "engañéis", "engañen" ],
+			[ "engañen" ]
+		],
+		"9" : [
+			[ "engañara" ],
+			[ "engañaras" ],
+			[ "engañara" ],
+			[ "engañáramos" ],
+			[ "engañarais", "engañaran" ],
+			[ "engañaran" ]
+		],
+		"10" : [
+			[ "engañase" ],
+			[ "engañases" ],
+			[ "engañase" ],
+			[ "engañásemos" ],
+			[ "engañaseis", "engañasen" ],
+			[ "engañasen" ]
+		],
+		"11" : [
+			[ "engañare" ],
+			[ "engañares" ],
+			[ "engañare" ],
+			[ "engañáremos" ],
+			[ "engañareis", "engañaren" ],
+			[ "engañaren" ]
+		],
+		"12" : {
+			"1" : [ "engaña" ],
+			"2" : [ "engañe" ],
+			"3" : [ "engañemos" ],
+			"4" : [ "engañad" ],
+			"5" : [ "engañen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=indexar",
+	"word" : "indexar",
+	"infinitivo" : "indexar",
+	"participio" : [ "indexado" ],
+	"gerundio" : [ "indexando" ],
+	"tenses" : {
+		"3" : [
+			[ "indexo" ],
+			[ "indexas", "indexás" ],
+			[ "indexa" ],
+			[ "indexamos" ],
+			[ "indexáis", "indexan" ],
+			[ "indexan" ]
+		],
+		"4" : [
+			[ "indexé" ],
+			[ "indexaste" ],
+			[ "indexó" ],
+			[ "indexamos" ],
+			[ "indexasteis", "indexaron" ],
+			[ "indexaron" ]
+		],
+		"5" : [
+			[ "indexaba" ],
+			[ "indexabas" ],
+			[ "indexaba" ],
+			[ "indexábamos" ],
+			[ "indexabais", "indexaban" ],
+			[ "indexaban" ]
+		],
+		"6" : [
+			[ "indexaría" ],
+			[ "indexarías" ],
+			[ "indexaría" ],
+			[ "indexaríamos" ],
+			[ "indexaríais", "indexarían" ],
+			[ "indexarían" ]
+		],
+		"7" : [
+			[ "indexaré" ],
+			[ "indexarás" ],
+			[ "indexará" ],
+			[ "indexaremos" ],
+			[ "indexaréis", "indexarán" ],
+			[ "indexarán" ]
+		],
+		"8" : [
+			[ "indexe" ],
+			[ "indexes" ],
+			[ "indexe" ],
+			[ "indexemos" ],
+			[ "indexéis", "indexen" ],
+			[ "indexen" ]
+		],
+		"9" : [
+			[ "indexara" ],
+			[ "indexaras" ],
+			[ "indexara" ],
+			[ "indexáramos" ],
+			[ "indexarais", "indexaran" ],
+			[ "indexaran" ]
+		],
+		"10" : [
+			[ "indexase" ],
+			[ "indexases" ],
+			[ "indexase" ],
+			[ "indexásemos" ],
+			[ "indexaseis", "indexasen" ],
+			[ "indexasen" ]
+		],
+		"11" : [
+			[ "indexare" ],
+			[ "indexares" ],
+			[ "indexare" ],
+			[ "indexáremos" ],
+			[ "indexareis", "indexaren" ],
+			[ "indexaren" ]
+		],
+		"12" : {
+			"1" : [ "indexa" ],
+			"2" : [ "indexe" ],
+			"3" : [ "indexemos" ],
+			"4" : [ "indexad" ],
+			"5" : [ "indexen" ]
+		}
+	}
+}

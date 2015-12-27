@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=segundar",
+	"word" : "segundar",
+	"infinitivo" : "segundar",
+	"participio" : [ "segundado" ],
+	"gerundio" : [ "segundando" ],
+	"tenses" : {
+		"3" : [
+			[ "segundo" ],
+			[ "segundas", "segundás" ],
+			[ "segunda" ],
+			[ "segundamos" ],
+			[ "segundáis", "segundan" ],
+			[ "segundan" ]
+		],
+		"4" : [
+			[ "segundé" ],
+			[ "segundaste" ],
+			[ "segundó" ],
+			[ "segundamos" ],
+			[ "segundasteis", "segundaron" ],
+			[ "segundaron" ]
+		],
+		"5" : [
+			[ "segundaba" ],
+			[ "segundabas" ],
+			[ "segundaba" ],
+			[ "segundábamos" ],
+			[ "segundabais", "segundaban" ],
+			[ "segundaban" ]
+		],
+		"6" : [
+			[ "segundaría" ],
+			[ "segundarías" ],
+			[ "segundaría" ],
+			[ "segundaríamos" ],
+			[ "segundaríais", "segundarían" ],
+			[ "segundarían" ]
+		],
+		"7" : [
+			[ "segundaré" ],
+			[ "segundarás" ],
+			[ "segundará" ],
+			[ "segundaremos" ],
+			[ "segundaréis", "segundarán" ],
+			[ "segundarán" ]
+		],
+		"8" : [
+			[ "segunde" ],
+			[ "segundes" ],
+			[ "segunde" ],
+			[ "segundemos" ],
+			[ "segundéis", "segunden" ],
+			[ "segunden" ]
+		],
+		"9" : [
+			[ "segundara" ],
+			[ "segundaras" ],
+			[ "segundara" ],
+			[ "segundáramos" ],
+			[ "segundarais", "segundaran" ],
+			[ "segundaran" ]
+		],
+		"10" : [
+			[ "segundase" ],
+			[ "segundases" ],
+			[ "segundase" ],
+			[ "segundásemos" ],
+			[ "segundaseis", "segundasen" ],
+			[ "segundasen" ]
+		],
+		"11" : [
+			[ "segundare" ],
+			[ "segundares" ],
+			[ "segundare" ],
+			[ "segundáremos" ],
+			[ "segundareis", "segundaren" ],
+			[ "segundaren" ]
+		],
+		"12" : {
+			"1" : [ "segunda" ],
+			"2" : [ "segunde" ],
+			"3" : [ "segundemos" ],
+			"4" : [ "segundad" ],
+			"5" : [ "segunden" ]
+		}
+	}
+}

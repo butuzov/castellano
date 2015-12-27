@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entramar",
+	"word" : "entramar",
+	"infinitivo" : "entramar",
+	"participio" : [ "entramado" ],
+	"gerundio" : [ "entramando" ],
+	"tenses" : {
+		"3" : [
+			[ "entramo" ],
+			[ "entramas", "entramás" ],
+			[ "entrama" ],
+			[ "entramamos" ],
+			[ "entramáis", "entraman" ],
+			[ "entraman" ]
+		],
+		"4" : [
+			[ "entramé" ],
+			[ "entramaste" ],
+			[ "entramó" ],
+			[ "entramamos" ],
+			[ "entramasteis", "entramaron" ],
+			[ "entramaron" ]
+		],
+		"5" : [
+			[ "entramaba" ],
+			[ "entramabas" ],
+			[ "entramaba" ],
+			[ "entramábamos" ],
+			[ "entramabais", "entramaban" ],
+			[ "entramaban" ]
+		],
+		"6" : [
+			[ "entramaría" ],
+			[ "entramarías" ],
+			[ "entramaría" ],
+			[ "entramaríamos" ],
+			[ "entramaríais", "entramarían" ],
+			[ "entramarían" ]
+		],
+		"7" : [
+			[ "entramaré" ],
+			[ "entramarás" ],
+			[ "entramará" ],
+			[ "entramaremos" ],
+			[ "entramaréis", "entramarán" ],
+			[ "entramarán" ]
+		],
+		"8" : [
+			[ "entrame" ],
+			[ "entrames" ],
+			[ "entrame" ],
+			[ "entramemos" ],
+			[ "entraméis", "entramen" ],
+			[ "entramen" ]
+		],
+		"9" : [
+			[ "entramara" ],
+			[ "entramaras" ],
+			[ "entramara" ],
+			[ "entramáramos" ],
+			[ "entramarais", "entramaran" ],
+			[ "entramaran" ]
+		],
+		"10" : [
+			[ "entramase" ],
+			[ "entramases" ],
+			[ "entramase" ],
+			[ "entramásemos" ],
+			[ "entramaseis", "entramasen" ],
+			[ "entramasen" ]
+		],
+		"11" : [
+			[ "entramare" ],
+			[ "entramares" ],
+			[ "entramare" ],
+			[ "entramáremos" ],
+			[ "entramareis", "entramaren" ],
+			[ "entramaren" ]
+		],
+		"12" : {
+			"1" : [ "entrama" ],
+			"2" : [ "entrame" ],
+			"3" : [ "entramemos" ],
+			"4" : [ "entramad" ],
+			"5" : [ "entramen" ]
+		}
+	}
+}

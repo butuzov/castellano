@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=calibrar",
+	"word" : "calibrar",
+	"infinitivo" : "calibrar",
+	"participio" : [ "calibrado" ],
+	"gerundio" : [ "calibrando" ],
+	"tenses" : {
+		"3" : [
+			[ "calibro" ],
+			[ "calibras", "calibrás" ],
+			[ "calibra" ],
+			[ "calibramos" ],
+			[ "calibráis", "calibran" ],
+			[ "calibran" ]
+		],
+		"4" : [
+			[ "calibré" ],
+			[ "calibraste" ],
+			[ "calibró" ],
+			[ "calibramos" ],
+			[ "calibrasteis", "calibraron" ],
+			[ "calibraron" ]
+		],
+		"5" : [
+			[ "calibraba" ],
+			[ "calibrabas" ],
+			[ "calibraba" ],
+			[ "calibrábamos" ],
+			[ "calibrabais", "calibraban" ],
+			[ "calibraban" ]
+		],
+		"6" : [
+			[ "calibraría" ],
+			[ "calibrarías" ],
+			[ "calibraría" ],
+			[ "calibraríamos" ],
+			[ "calibraríais", "calibrarían" ],
+			[ "calibrarían" ]
+		],
+		"7" : [
+			[ "calibraré" ],
+			[ "calibrarás" ],
+			[ "calibrará" ],
+			[ "calibraremos" ],
+			[ "calibraréis", "calibrarán" ],
+			[ "calibrarán" ]
+		],
+		"8" : [
+			[ "calibre" ],
+			[ "calibres" ],
+			[ "calibre" ],
+			[ "calibremos" ],
+			[ "calibréis", "calibren" ],
+			[ "calibren" ]
+		],
+		"9" : [
+			[ "calibrara" ],
+			[ "calibraras" ],
+			[ "calibrara" ],
+			[ "calibráramos" ],
+			[ "calibrarais", "calibraran" ],
+			[ "calibraran" ]
+		],
+		"10" : [
+			[ "calibrase" ],
+			[ "calibrases" ],
+			[ "calibrase" ],
+			[ "calibrásemos" ],
+			[ "calibraseis", "calibrasen" ],
+			[ "calibrasen" ]
+		],
+		"11" : [
+			[ "calibrare" ],
+			[ "calibrares" ],
+			[ "calibrare" ],
+			[ "calibráremos" ],
+			[ "calibrareis", "calibraren" ],
+			[ "calibraren" ]
+		],
+		"12" : {
+			"1" : [ "calibra" ],
+			"2" : [ "calibre" ],
+			"3" : [ "calibremos" ],
+			"4" : [ "calibrad" ],
+			"5" : [ "calibren" ]
+		}
+	}
+}

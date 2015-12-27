@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ofender",
+	"word" : "ofender",
+	"infinitivo" : "ofender",
+	"participio" : [ "ofendido" ],
+	"gerundio" : [ "ofendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "ofendo" ],
+			[ "ofendes", "ofendés" ],
+			[ "ofende" ],
+			[ "ofendemos" ],
+			[ "ofendéis", "ofenden" ],
+			[ "ofenden" ]
+		],
+		"4" : [
+			[ "ofendí" ],
+			[ "ofendiste" ],
+			[ "ofendió" ],
+			[ "ofendimos" ],
+			[ "ofendisteis", "ofendieron" ],
+			[ "ofendieron" ]
+		],
+		"5" : [
+			[ "ofendía" ],
+			[ "ofendías" ],
+			[ "ofendía" ],
+			[ "ofendíamos" ],
+			[ "ofendíais", "ofendían" ],
+			[ "ofendían" ]
+		],
+		"6" : [
+			[ "ofendería" ],
+			[ "ofenderías" ],
+			[ "ofendería" ],
+			[ "ofenderíamos" ],
+			[ "ofenderíais", "ofenderían" ],
+			[ "ofenderían" ]
+		],
+		"7" : [
+			[ "ofenderé" ],
+			[ "ofenderás" ],
+			[ "ofenderá" ],
+			[ "ofenderemos" ],
+			[ "ofenderéis", "ofenderán" ],
+			[ "ofenderán" ]
+		],
+		"8" : [
+			[ "ofenda" ],
+			[ "ofendas" ],
+			[ "ofenda" ],
+			[ "ofendamos" ],
+			[ "ofendáis", "ofendan" ],
+			[ "ofendan" ]
+		],
+		"9" : [
+			[ "ofendiera" ],
+			[ "ofendieras" ],
+			[ "ofendiera" ],
+			[ "ofendiéramos" ],
+			[ "ofendierais", "ofendieran" ],
+			[ "ofendieran" ]
+		],
+		"10" : [
+			[ "ofendiese" ],
+			[ "ofendieses" ],
+			[ "ofendiese" ],
+			[ "ofendiésemos" ],
+			[ "ofendieseis", "ofendiesen" ],
+			[ "ofendiesen" ]
+		],
+		"11" : [
+			[ "ofendiere" ],
+			[ "ofendieres" ],
+			[ "ofendiere" ],
+			[ "ofendiéremos" ],
+			[ "ofendiereis", "ofendieren" ],
+			[ "ofendieren" ]
+		],
+		"12" : {
+			"1" : [ "ofende" ],
+			"2" : [ "ofenda" ],
+			"3" : [ "ofendamos" ],
+			"4" : [ "ofended" ],
+			"5" : [ "ofendan" ]
+		}
+	}
+}

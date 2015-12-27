@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apetecer",
+	"word" : "apetecer",
+	"infinitivo" : "apetecer",
+	"participio" : [ "apetecido" ],
+	"gerundio" : [ "apeteciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "apetezco" ],
+			[ "apeteces", "apetecés" ],
+			[ "apetece" ],
+			[ "apetecemos" ],
+			[ "apetecéis", "apetecen" ],
+			[ "apetecen" ]
+		],
+		"4" : [
+			[ "apetecí" ],
+			[ "apeteciste" ],
+			[ "apeteció" ],
+			[ "apetecimos" ],
+			[ "apetecisteis", "apetecieron" ],
+			[ "apetecieron" ]
+		],
+		"5" : [
+			[ "apetecía" ],
+			[ "apetecías" ],
+			[ "apetecía" ],
+			[ "apetecíamos" ],
+			[ "apetecíais", "apetecían" ],
+			[ "apetecían" ]
+		],
+		"6" : [
+			[ "apetecería" ],
+			[ "apetecerías" ],
+			[ "apetecería" ],
+			[ "apeteceríamos" ],
+			[ "apeteceríais", "apetecerían" ],
+			[ "apetecerían" ]
+		],
+		"7" : [
+			[ "apeteceré" ],
+			[ "apetecerás" ],
+			[ "apetecerá" ],
+			[ "apeteceremos" ],
+			[ "apeteceréis", "apetecerán" ],
+			[ "apetecerán" ]
+		],
+		"8" : [
+			[ "apetezca" ],
+			[ "apetezcas" ],
+			[ "apetezca" ],
+			[ "apetezcamos" ],
+			[ "apetezcáis", "apetezcan" ],
+			[ "apetezcan" ]
+		],
+		"9" : [
+			[ "apeteciera" ],
+			[ "apetecieras" ],
+			[ "apeteciera" ],
+			[ "apeteciéramos" ],
+			[ "apetecierais", "apetecieran" ],
+			[ "apetecieran" ]
+		],
+		"10" : [
+			[ "apeteciese" ],
+			[ "apetecieses" ],
+			[ "apeteciese" ],
+			[ "apeteciésemos" ],
+			[ "apetecieseis", "apeteciesen" ],
+			[ "apeteciesen" ]
+		],
+		"11" : [
+			[ "apeteciere" ],
+			[ "apetecieres" ],
+			[ "apeteciere" ],
+			[ "apeteciéremos" ],
+			[ "apeteciereis", "apetecieren" ],
+			[ "apetecieren" ]
+		],
+		"12" : {
+			"1" : [ "apetece" ],
+			"2" : [ "apetezca" ],
+			"3" : [ "apetezcamos" ],
+			"4" : [ "apeteced" ],
+			"5" : [ "apetezcan" ]
+		}
+	}
+}

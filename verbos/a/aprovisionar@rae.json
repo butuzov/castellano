@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aprovisionar",
+	"word" : "aprovisionar",
+	"infinitivo" : "aprovisionar",
+	"participio" : [ "aprovisionado" ],
+	"gerundio" : [ "aprovisionando" ],
+	"tenses" : {
+		"3" : [
+			[ "aprovisiono" ],
+			[ "aprovisionas", "aprovisionás" ],
+			[ "aprovisiona" ],
+			[ "aprovisionamos" ],
+			[ "aprovisionáis", "aprovisionan" ],
+			[ "aprovisionan" ]
+		],
+		"4" : [
+			[ "aprovisioné" ],
+			[ "aprovisionaste" ],
+			[ "aprovisionó" ],
+			[ "aprovisionamos" ],
+			[ "aprovisionasteis", "aprovisionaron" ],
+			[ "aprovisionaron" ]
+		],
+		"5" : [
+			[ "aprovisionaba" ],
+			[ "aprovisionabas" ],
+			[ "aprovisionaba" ],
+			[ "aprovisionábamos" ],
+			[ "aprovisionabais", "aprovisionaban" ],
+			[ "aprovisionaban" ]
+		],
+		"6" : [
+			[ "aprovisionaría" ],
+			[ "aprovisionarías" ],
+			[ "aprovisionaría" ],
+			[ "aprovisionaríamos" ],
+			[ "aprovisionaríais", "aprovisionarían" ],
+			[ "aprovisionarían" ]
+		],
+		"7" : [
+			[ "aprovisionaré" ],
+			[ "aprovisionarás" ],
+			[ "aprovisionará" ],
+			[ "aprovisionaremos" ],
+			[ "aprovisionaréis", "aprovisionarán" ],
+			[ "aprovisionarán" ]
+		],
+		"8" : [
+			[ "aprovisione" ],
+			[ "aprovisiones" ],
+			[ "aprovisione" ],
+			[ "aprovisionemos" ],
+			[ "aprovisionéis", "aprovisionen" ],
+			[ "aprovisionen" ]
+		],
+		"9" : [
+			[ "aprovisionara" ],
+			[ "aprovisionaras" ],
+			[ "aprovisionara" ],
+			[ "aprovisionáramos" ],
+			[ "aprovisionarais", "aprovisionaran" ],
+			[ "aprovisionaran" ]
+		],
+		"10" : [
+			[ "aprovisionase" ],
+			[ "aprovisionases" ],
+			[ "aprovisionase" ],
+			[ "aprovisionásemos" ],
+			[ "aprovisionaseis", "aprovisionasen" ],
+			[ "aprovisionasen" ]
+		],
+		"11" : [
+			[ "aprovisionare" ],
+			[ "aprovisionares" ],
+			[ "aprovisionare" ],
+			[ "aprovisionáremos" ],
+			[ "aprovisionareis", "aprovisionaren" ],
+			[ "aprovisionaren" ]
+		],
+		"12" : {
+			"1" : [ "aprovisiona" ],
+			"2" : [ "aprovisione" ],
+			"3" : [ "aprovisionemos" ],
+			"4" : [ "aprovisionad" ],
+			"5" : [ "aprovisionen" ]
+		}
+	}
+}

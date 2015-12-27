@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=redoblar",
+	"word" : "redoblar",
+	"infinitivo" : "redoblar",
+	"participio" : [ "redoblado" ],
+	"gerundio" : [ "redoblando" ],
+	"tenses" : {
+		"3" : [
+			[ "redoblo" ],
+			[ "redoblas", "redoblás" ],
+			[ "redobla" ],
+			[ "redoblamos" ],
+			[ "redobláis", "redoblan" ],
+			[ "redoblan" ]
+		],
+		"4" : [
+			[ "redoblé" ],
+			[ "redoblaste" ],
+			[ "redobló" ],
+			[ "redoblamos" ],
+			[ "redoblasteis", "redoblaron" ],
+			[ "redoblaron" ]
+		],
+		"5" : [
+			[ "redoblaba" ],
+			[ "redoblabas" ],
+			[ "redoblaba" ],
+			[ "redoblábamos" ],
+			[ "redoblabais", "redoblaban" ],
+			[ "redoblaban" ]
+		],
+		"6" : [
+			[ "redoblaría" ],
+			[ "redoblarías" ],
+			[ "redoblaría" ],
+			[ "redoblaríamos" ],
+			[ "redoblaríais", "redoblarían" ],
+			[ "redoblarían" ]
+		],
+		"7" : [
+			[ "redoblaré" ],
+			[ "redoblarás" ],
+			[ "redoblará" ],
+			[ "redoblaremos" ],
+			[ "redoblaréis", "redoblarán" ],
+			[ "redoblarán" ]
+		],
+		"8" : [
+			[ "redoble" ],
+			[ "redobles" ],
+			[ "redoble" ],
+			[ "redoblemos" ],
+			[ "redobléis", "redoblen" ],
+			[ "redoblen" ]
+		],
+		"9" : [
+			[ "redoblara" ],
+			[ "redoblaras" ],
+			[ "redoblara" ],
+			[ "redobláramos" ],
+			[ "redoblarais", "redoblaran" ],
+			[ "redoblaran" ]
+		],
+		"10" : [
+			[ "redoblase" ],
+			[ "redoblases" ],
+			[ "redoblase" ],
+			[ "redoblásemos" ],
+			[ "redoblaseis", "redoblasen" ],
+			[ "redoblasen" ]
+		],
+		"11" : [
+			[ "redoblare" ],
+			[ "redoblares" ],
+			[ "redoblare" ],
+			[ "redobláremos" ],
+			[ "redoblareis", "redoblaren" ],
+			[ "redoblaren" ]
+		],
+		"12" : {
+			"1" : [ "redobla" ],
+			"2" : [ "redoble" ],
+			"3" : [ "redoblemos" ],
+			"4" : [ "redoblad" ],
+			"5" : [ "redoblen" ]
+		}
+	}
+}

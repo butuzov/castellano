@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gratinar",
+	"word" : "gratinar",
+	"infinitivo" : "gratinar",
+	"participio" : [ "gratinado" ],
+	"gerundio" : [ "gratinando" ],
+	"tenses" : {
+		"3" : [
+			[ "gratino" ],
+			[ "gratinas", "gratinás" ],
+			[ "gratina" ],
+			[ "gratinamos" ],
+			[ "gratináis", "gratinan" ],
+			[ "gratinan" ]
+		],
+		"4" : [
+			[ "gratiné" ],
+			[ "gratinaste" ],
+			[ "gratinó" ],
+			[ "gratinamos" ],
+			[ "gratinasteis", "gratinaron" ],
+			[ "gratinaron" ]
+		],
+		"5" : [
+			[ "gratinaba" ],
+			[ "gratinabas" ],
+			[ "gratinaba" ],
+			[ "gratinábamos" ],
+			[ "gratinabais", "gratinaban" ],
+			[ "gratinaban" ]
+		],
+		"6" : [
+			[ "gratinaría" ],
+			[ "gratinarías" ],
+			[ "gratinaría" ],
+			[ "gratinaríamos" ],
+			[ "gratinaríais", "gratinarían" ],
+			[ "gratinarían" ]
+		],
+		"7" : [
+			[ "gratinaré" ],
+			[ "gratinarás" ],
+			[ "gratinará" ],
+			[ "gratinaremos" ],
+			[ "gratinaréis", "gratinarán" ],
+			[ "gratinarán" ]
+		],
+		"8" : [
+			[ "gratine" ],
+			[ "gratines" ],
+			[ "gratine" ],
+			[ "gratinemos" ],
+			[ "gratinéis", "gratinen" ],
+			[ "gratinen" ]
+		],
+		"9" : [
+			[ "gratinara" ],
+			[ "gratinaras" ],
+			[ "gratinara" ],
+			[ "gratináramos" ],
+			[ "gratinarais", "gratinaran" ],
+			[ "gratinaran" ]
+		],
+		"10" : [
+			[ "gratinase" ],
+			[ "gratinases" ],
+			[ "gratinase" ],
+			[ "gratinásemos" ],
+			[ "gratinaseis", "gratinasen" ],
+			[ "gratinasen" ]
+		],
+		"11" : [
+			[ "gratinare" ],
+			[ "gratinares" ],
+			[ "gratinare" ],
+			[ "gratináremos" ],
+			[ "gratinareis", "gratinaren" ],
+			[ "gratinaren" ]
+		],
+		"12" : {
+			"1" : [ "gratina" ],
+			"2" : [ "gratine" ],
+			"3" : [ "gratinemos" ],
+			"4" : [ "gratinad" ],
+			"5" : [ "gratinen" ]
+		}
+	}
+}

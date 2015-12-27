@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fisgar",
+	"word" : "fisgar",
+	"infinitivo" : "fisgar",
+	"participio" : [ "fisgado" ],
+	"gerundio" : [ "fisgando" ],
+	"tenses" : {
+		"3" : [
+			[ "fisgo" ],
+			[ "fisgas", "fisgás" ],
+			[ "fisga" ],
+			[ "fisgamos" ],
+			[ "fisgáis", "fisgan" ],
+			[ "fisgan" ]
+		],
+		"4" : [
+			[ "fisgué" ],
+			[ "fisgaste" ],
+			[ "fisgó" ],
+			[ "fisgamos" ],
+			[ "fisgasteis", "fisgaron" ],
+			[ "fisgaron" ]
+		],
+		"5" : [
+			[ "fisgaba" ],
+			[ "fisgabas" ],
+			[ "fisgaba" ],
+			[ "fisgábamos" ],
+			[ "fisgabais", "fisgaban" ],
+			[ "fisgaban" ]
+		],
+		"6" : [
+			[ "fisgaría" ],
+			[ "fisgarías" ],
+			[ "fisgaría" ],
+			[ "fisgaríamos" ],
+			[ "fisgaríais", "fisgarían" ],
+			[ "fisgarían" ]
+		],
+		"7" : [
+			[ "fisgaré" ],
+			[ "fisgarás" ],
+			[ "fisgará" ],
+			[ "fisgaremos" ],
+			[ "fisgaréis", "fisgarán" ],
+			[ "fisgarán" ]
+		],
+		"8" : [
+			[ "fisgue" ],
+			[ "fisgues" ],
+			[ "fisgue" ],
+			[ "fisguemos" ],
+			[ "fisguéis", "fisguen" ],
+			[ "fisguen" ]
+		],
+		"9" : [
+			[ "fisgara" ],
+			[ "fisgaras" ],
+			[ "fisgara" ],
+			[ "fisgáramos" ],
+			[ "fisgarais", "fisgaran" ],
+			[ "fisgaran" ]
+		],
+		"10" : [
+			[ "fisgase" ],
+			[ "fisgases" ],
+			[ "fisgase" ],
+			[ "fisgásemos" ],
+			[ "fisgaseis", "fisgasen" ],
+			[ "fisgasen" ]
+		],
+		"11" : [
+			[ "fisgare" ],
+			[ "fisgares" ],
+			[ "fisgare" ],
+			[ "fisgáremos" ],
+			[ "fisgareis", "fisgaren" ],
+			[ "fisgaren" ]
+		],
+		"12" : {
+			"1" : [ "fisga" ],
+			"2" : [ "fisgue" ],
+			"3" : [ "fisguemos" ],
+			"4" : [ "fisgad" ],
+			"5" : [ "fisguen" ]
+		}
+	}
+}

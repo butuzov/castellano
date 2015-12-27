@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=permear",
+	"word" : "permear",
+	"infinitivo" : "permear",
+	"participio" : [ "permeado" ],
+	"gerundio" : [ "permeando" ],
+	"tenses" : {
+		"3" : [
+			[ "permeo" ],
+			[ "permeas", "permeás" ],
+			[ "permea" ],
+			[ "permeamos" ],
+			[ "permeáis", "permean" ],
+			[ "permean" ]
+		],
+		"4" : [
+			[ "permeé" ],
+			[ "permeaste" ],
+			[ "permeó" ],
+			[ "permeamos" ],
+			[ "permeasteis", "permearon" ],
+			[ "permearon" ]
+		],
+		"5" : [
+			[ "permeaba" ],
+			[ "permeabas" ],
+			[ "permeaba" ],
+			[ "permeábamos" ],
+			[ "permeabais", "permeaban" ],
+			[ "permeaban" ]
+		],
+		"6" : [
+			[ "permearía" ],
+			[ "permearías" ],
+			[ "permearía" ],
+			[ "permearíamos" ],
+			[ "permearíais", "permearían" ],
+			[ "permearían" ]
+		],
+		"7" : [
+			[ "permearé" ],
+			[ "permearás" ],
+			[ "permeará" ],
+			[ "permearemos" ],
+			[ "permearéis", "permearán" ],
+			[ "permearán" ]
+		],
+		"8" : [
+			[ "permee" ],
+			[ "permees" ],
+			[ "permee" ],
+			[ "permeemos" ],
+			[ "permeéis", "permeen" ],
+			[ "permeen" ]
+		],
+		"9" : [
+			[ "permeara" ],
+			[ "permearas" ],
+			[ "permeara" ],
+			[ "permeáramos" ],
+			[ "permearais", "permearan" ],
+			[ "permearan" ]
+		],
+		"10" : [
+			[ "permease" ],
+			[ "permeases" ],
+			[ "permease" ],
+			[ "permeásemos" ],
+			[ "permeaseis", "permeasen" ],
+			[ "permeasen" ]
+		],
+		"11" : [
+			[ "permeare" ],
+			[ "permeares" ],
+			[ "permeare" ],
+			[ "permeáremos" ],
+			[ "permeareis", "permearen" ],
+			[ "permearen" ]
+		],
+		"12" : {
+			"1" : [ "permea" ],
+			"2" : [ "permee" ],
+			"3" : [ "permeemos" ],
+			"4" : [ "permead" ],
+			"5" : [ "permeen" ]
+		}
+	}
+}

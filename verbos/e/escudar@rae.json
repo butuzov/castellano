@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escudar",
+	"word" : "escudar",
+	"infinitivo" : "escudar",
+	"participio" : [ "escudado" ],
+	"gerundio" : [ "escudando" ],
+	"tenses" : {
+		"3" : [
+			[ "escudo" ],
+			[ "escudas", "escudás" ],
+			[ "escuda" ],
+			[ "escudamos" ],
+			[ "escudáis", "escudan" ],
+			[ "escudan" ]
+		],
+		"4" : [
+			[ "escudé" ],
+			[ "escudaste" ],
+			[ "escudó" ],
+			[ "escudamos" ],
+			[ "escudasteis", "escudaron" ],
+			[ "escudaron" ]
+		],
+		"5" : [
+			[ "escudaba" ],
+			[ "escudabas" ],
+			[ "escudaba" ],
+			[ "escudábamos" ],
+			[ "escudabais", "escudaban" ],
+			[ "escudaban" ]
+		],
+		"6" : [
+			[ "escudaría" ],
+			[ "escudarías" ],
+			[ "escudaría" ],
+			[ "escudaríamos" ],
+			[ "escudaríais", "escudarían" ],
+			[ "escudarían" ]
+		],
+		"7" : [
+			[ "escudaré" ],
+			[ "escudarás" ],
+			[ "escudará" ],
+			[ "escudaremos" ],
+			[ "escudaréis", "escudarán" ],
+			[ "escudarán" ]
+		],
+		"8" : [
+			[ "escude" ],
+			[ "escudes" ],
+			[ "escude" ],
+			[ "escudemos" ],
+			[ "escudéis", "escuden" ],
+			[ "escuden" ]
+		],
+		"9" : [
+			[ "escudara" ],
+			[ "escudaras" ],
+			[ "escudara" ],
+			[ "escudáramos" ],
+			[ "escudarais", "escudaran" ],
+			[ "escudaran" ]
+		],
+		"10" : [
+			[ "escudase" ],
+			[ "escudases" ],
+			[ "escudase" ],
+			[ "escudásemos" ],
+			[ "escudaseis", "escudasen" ],
+			[ "escudasen" ]
+		],
+		"11" : [
+			[ "escudare" ],
+			[ "escudares" ],
+			[ "escudare" ],
+			[ "escudáremos" ],
+			[ "escudareis", "escudaren" ],
+			[ "escudaren" ]
+		],
+		"12" : {
+			"1" : [ "escuda" ],
+			"2" : [ "escude" ],
+			"3" : [ "escudemos" ],
+			"4" : [ "escudad" ],
+			"5" : [ "escuden" ]
+		}
+	}
+}

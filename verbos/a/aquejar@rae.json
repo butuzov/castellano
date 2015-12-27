@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aquejar",
+	"word" : "aquejar",
+	"infinitivo" : "aquejar",
+	"participio" : [ "aquejado" ],
+	"gerundio" : [ "aquejando" ],
+	"tenses" : {
+		"3" : [
+			[ "aquejo" ],
+			[ "aquejas", "aquejás" ],
+			[ "aqueja" ],
+			[ "aquejamos" ],
+			[ "aquejáis", "aquejan" ],
+			[ "aquejan" ]
+		],
+		"4" : [
+			[ "aquejé" ],
+			[ "aquejaste" ],
+			[ "aquejó" ],
+			[ "aquejamos" ],
+			[ "aquejasteis", "aquejaron" ],
+			[ "aquejaron" ]
+		],
+		"5" : [
+			[ "aquejaba" ],
+			[ "aquejabas" ],
+			[ "aquejaba" ],
+			[ "aquejábamos" ],
+			[ "aquejabais", "aquejaban" ],
+			[ "aquejaban" ]
+		],
+		"6" : [
+			[ "aquejaría" ],
+			[ "aquejarías" ],
+			[ "aquejaría" ],
+			[ "aquejaríamos" ],
+			[ "aquejaríais", "aquejarían" ],
+			[ "aquejarían" ]
+		],
+		"7" : [
+			[ "aquejaré" ],
+			[ "aquejarás" ],
+			[ "aquejará" ],
+			[ "aquejaremos" ],
+			[ "aquejaréis", "aquejarán" ],
+			[ "aquejarán" ]
+		],
+		"8" : [
+			[ "aqueje" ],
+			[ "aquejes" ],
+			[ "aqueje" ],
+			[ "aquejemos" ],
+			[ "aquejéis", "aquejen" ],
+			[ "aquejen" ]
+		],
+		"9" : [
+			[ "aquejara" ],
+			[ "aquejaras" ],
+			[ "aquejara" ],
+			[ "aquejáramos" ],
+			[ "aquejarais", "aquejaran" ],
+			[ "aquejaran" ]
+		],
+		"10" : [
+			[ "aquejase" ],
+			[ "aquejases" ],
+			[ "aquejase" ],
+			[ "aquejásemos" ],
+			[ "aquejaseis", "aquejasen" ],
+			[ "aquejasen" ]
+		],
+		"11" : [
+			[ "aquejare" ],
+			[ "aquejares" ],
+			[ "aquejare" ],
+			[ "aquejáremos" ],
+			[ "aquejareis", "aquejaren" ],
+			[ "aquejaren" ]
+		],
+		"12" : {
+			"1" : [ "aqueja" ],
+			"2" : [ "aqueje" ],
+			"3" : [ "aquejemos" ],
+			"4" : [ "aquejad" ],
+			"5" : [ "aquejen" ]
+		}
+	}
+}

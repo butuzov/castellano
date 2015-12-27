@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aposentar",
+	"word" : "aposentar",
+	"infinitivo" : "aposentar",
+	"participio" : [ "aposentado" ],
+	"gerundio" : [ "aposentando" ],
+	"tenses" : {
+		"3" : [
+			[ "aposento" ],
+			[ "aposentas", "aposentás" ],
+			[ "aposenta" ],
+			[ "aposentamos" ],
+			[ "aposentáis", "aposentan" ],
+			[ "aposentan" ]
+		],
+		"4" : [
+			[ "aposenté" ],
+			[ "aposentaste" ],
+			[ "aposentó" ],
+			[ "aposentamos" ],
+			[ "aposentasteis", "aposentaron" ],
+			[ "aposentaron" ]
+		],
+		"5" : [
+			[ "aposentaba" ],
+			[ "aposentabas" ],
+			[ "aposentaba" ],
+			[ "aposentábamos" ],
+			[ "aposentabais", "aposentaban" ],
+			[ "aposentaban" ]
+		],
+		"6" : [
+			[ "aposentaría" ],
+			[ "aposentarías" ],
+			[ "aposentaría" ],
+			[ "aposentaríamos" ],
+			[ "aposentaríais", "aposentarían" ],
+			[ "aposentarían" ]
+		],
+		"7" : [
+			[ "aposentaré" ],
+			[ "aposentarás" ],
+			[ "aposentará" ],
+			[ "aposentaremos" ],
+			[ "aposentaréis", "aposentarán" ],
+			[ "aposentarán" ]
+		],
+		"8" : [
+			[ "aposente" ],
+			[ "aposentes" ],
+			[ "aposente" ],
+			[ "aposentemos" ],
+			[ "aposentéis", "aposenten" ],
+			[ "aposenten" ]
+		],
+		"9" : [
+			[ "aposentara" ],
+			[ "aposentaras" ],
+			[ "aposentara" ],
+			[ "aposentáramos" ],
+			[ "aposentarais", "aposentaran" ],
+			[ "aposentaran" ]
+		],
+		"10" : [
+			[ "aposentase" ],
+			[ "aposentases" ],
+			[ "aposentase" ],
+			[ "aposentásemos" ],
+			[ "aposentaseis", "aposentasen" ],
+			[ "aposentasen" ]
+		],
+		"11" : [
+			[ "aposentare" ],
+			[ "aposentares" ],
+			[ "aposentare" ],
+			[ "aposentáremos" ],
+			[ "aposentareis", "aposentaren" ],
+			[ "aposentaren" ]
+		],
+		"12" : {
+			"1" : [ "aposenta" ],
+			"2" : [ "aposente" ],
+			"3" : [ "aposentemos" ],
+			"4" : [ "aposentad" ],
+			"5" : [ "aposenten" ]
+		}
+	}
+}

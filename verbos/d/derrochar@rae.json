@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=derrochar",
+	"word" : "derrochar",
+	"infinitivo" : "derrochar",
+	"participio" : [ "derrochado" ],
+	"gerundio" : [ "derrochando" ],
+	"tenses" : {
+		"3" : [
+			[ "derrocho" ],
+			[ "derrochas", "derrochás" ],
+			[ "derrocha" ],
+			[ "derrochamos" ],
+			[ "derrocháis", "derrochan" ],
+			[ "derrochan" ]
+		],
+		"4" : [
+			[ "derroché" ],
+			[ "derrochaste" ],
+			[ "derrochó" ],
+			[ "derrochamos" ],
+			[ "derrochasteis", "derrocharon" ],
+			[ "derrocharon" ]
+		],
+		"5" : [
+			[ "derrochaba" ],
+			[ "derrochabas" ],
+			[ "derrochaba" ],
+			[ "derrochábamos" ],
+			[ "derrochabais", "derrochaban" ],
+			[ "derrochaban" ]
+		],
+		"6" : [
+			[ "derrocharía" ],
+			[ "derrocharías" ],
+			[ "derrocharía" ],
+			[ "derrocharíamos" ],
+			[ "derrocharíais", "derrocharían" ],
+			[ "derrocharían" ]
+		],
+		"7" : [
+			[ "derrocharé" ],
+			[ "derrocharás" ],
+			[ "derrochará" ],
+			[ "derrocharemos" ],
+			[ "derrocharéis", "derrocharán" ],
+			[ "derrocharán" ]
+		],
+		"8" : [
+			[ "derroche" ],
+			[ "derroches" ],
+			[ "derroche" ],
+			[ "derrochemos" ],
+			[ "derrochéis", "derrochen" ],
+			[ "derrochen" ]
+		],
+		"9" : [
+			[ "derrochara" ],
+			[ "derrocharas" ],
+			[ "derrochara" ],
+			[ "derrocháramos" ],
+			[ "derrocharais", "derrocharan" ],
+			[ "derrocharan" ]
+		],
+		"10" : [
+			[ "derrochase" ],
+			[ "derrochases" ],
+			[ "derrochase" ],
+			[ "derrochásemos" ],
+			[ "derrochaseis", "derrochasen" ],
+			[ "derrochasen" ]
+		],
+		"11" : [
+			[ "derrochare" ],
+			[ "derrochares" ],
+			[ "derrochare" ],
+			[ "derrocháremos" ],
+			[ "derrochareis", "derrocharen" ],
+			[ "derrocharen" ]
+		],
+		"12" : {
+			"1" : [ "derrocha" ],
+			"2" : [ "derroche" ],
+			"3" : [ "derrochemos" ],
+			"4" : [ "derrochad" ],
+			"5" : [ "derrochen" ]
+		}
+	}
+}

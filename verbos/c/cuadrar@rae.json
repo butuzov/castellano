@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cuadrar",
+	"word" : "cuadrar",
+	"infinitivo" : "cuadrar",
+	"participio" : [ "cuadrado" ],
+	"gerundio" : [ "cuadrando" ],
+	"tenses" : {
+		"3" : [
+			[ "cuadro" ],
+			[ "cuadras", "cuadrás" ],
+			[ "cuadra" ],
+			[ "cuadramos" ],
+			[ "cuadráis", "cuadran" ],
+			[ "cuadran" ]
+		],
+		"4" : [
+			[ "cuadré" ],
+			[ "cuadraste" ],
+			[ "cuadró" ],
+			[ "cuadramos" ],
+			[ "cuadrasteis", "cuadraron" ],
+			[ "cuadraron" ]
+		],
+		"5" : [
+			[ "cuadraba" ],
+			[ "cuadrabas" ],
+			[ "cuadraba" ],
+			[ "cuadrábamos" ],
+			[ "cuadrabais", "cuadraban" ],
+			[ "cuadraban" ]
+		],
+		"6" : [
+			[ "cuadraría" ],
+			[ "cuadrarías" ],
+			[ "cuadraría" ],
+			[ "cuadraríamos" ],
+			[ "cuadraríais", "cuadrarían" ],
+			[ "cuadrarían" ]
+		],
+		"7" : [
+			[ "cuadraré" ],
+			[ "cuadrarás" ],
+			[ "cuadrará" ],
+			[ "cuadraremos" ],
+			[ "cuadraréis", "cuadrarán" ],
+			[ "cuadrarán" ]
+		],
+		"8" : [
+			[ "cuadre" ],
+			[ "cuadres" ],
+			[ "cuadre" ],
+			[ "cuadremos" ],
+			[ "cuadréis", "cuadren" ],
+			[ "cuadren" ]
+		],
+		"9" : [
+			[ "cuadrara" ],
+			[ "cuadraras" ],
+			[ "cuadrara" ],
+			[ "cuadráramos" ],
+			[ "cuadrarais", "cuadraran" ],
+			[ "cuadraran" ]
+		],
+		"10" : [
+			[ "cuadrase" ],
+			[ "cuadrases" ],
+			[ "cuadrase" ],
+			[ "cuadrásemos" ],
+			[ "cuadraseis", "cuadrasen" ],
+			[ "cuadrasen" ]
+		],
+		"11" : [
+			[ "cuadrare" ],
+			[ "cuadrares" ],
+			[ "cuadrare" ],
+			[ "cuadráremos" ],
+			[ "cuadrareis", "cuadraren" ],
+			[ "cuadraren" ]
+		],
+		"12" : {
+			"1" : [ "cuadra" ],
+			"2" : [ "cuadre" ],
+			"3" : [ "cuadremos" ],
+			"4" : [ "cuadrad" ],
+			"5" : [ "cuadren" ]
+		}
+	}
+}

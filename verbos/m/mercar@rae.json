@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mercar",
+	"word" : "mercar",
+	"infinitivo" : "mercar",
+	"participio" : [ "mercado" ],
+	"gerundio" : [ "mercando" ],
+	"tenses" : {
+		"3" : [
+			[ "merco" ],
+			[ "mercas", "mercás" ],
+			[ "merca" ],
+			[ "mercamos" ],
+			[ "mercáis", "mercan" ],
+			[ "mercan" ]
+		],
+		"4" : [
+			[ "merqué" ],
+			[ "mercaste" ],
+			[ "mercó" ],
+			[ "mercamos" ],
+			[ "mercasteis", "mercaron" ],
+			[ "mercaron" ]
+		],
+		"5" : [
+			[ "mercaba" ],
+			[ "mercabas" ],
+			[ "mercaba" ],
+			[ "mercábamos" ],
+			[ "mercabais", "mercaban" ],
+			[ "mercaban" ]
+		],
+		"6" : [
+			[ "mercaría" ],
+			[ "mercarías" ],
+			[ "mercaría" ],
+			[ "mercaríamos" ],
+			[ "mercaríais", "mercarían" ],
+			[ "mercarían" ]
+		],
+		"7" : [
+			[ "mercaré" ],
+			[ "mercarás" ],
+			[ "mercará" ],
+			[ "mercaremos" ],
+			[ "mercaréis", "mercarán" ],
+			[ "mercarán" ]
+		],
+		"8" : [
+			[ "merque" ],
+			[ "merques" ],
+			[ "merque" ],
+			[ "merquemos" ],
+			[ "merquéis", "merquen" ],
+			[ "merquen" ]
+		],
+		"9" : [
+			[ "mercara" ],
+			[ "mercaras" ],
+			[ "mercara" ],
+			[ "mercáramos" ],
+			[ "mercarais", "mercaran" ],
+			[ "mercaran" ]
+		],
+		"10" : [
+			[ "mercase" ],
+			[ "mercases" ],
+			[ "mercase" ],
+			[ "mercásemos" ],
+			[ "mercaseis", "mercasen" ],
+			[ "mercasen" ]
+		],
+		"11" : [
+			[ "mercare" ],
+			[ "mercares" ],
+			[ "mercare" ],
+			[ "mercáremos" ],
+			[ "mercareis", "mercaren" ],
+			[ "mercaren" ]
+		],
+		"12" : {
+			"1" : [ "merca" ],
+			"2" : [ "merque" ],
+			"3" : [ "merquemos" ],
+			"4" : [ "mercad" ],
+			"5" : [ "merquen" ]
+		}
+	}
+}

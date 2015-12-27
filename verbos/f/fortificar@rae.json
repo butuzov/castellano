@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fortificar",
+	"word" : "fortificar",
+	"infinitivo" : "fortificar",
+	"participio" : [ "fortificado" ],
+	"gerundio" : [ "fortificando" ],
+	"tenses" : {
+		"3" : [
+			[ "fortifico" ],
+			[ "fortificas", "fortificás" ],
+			[ "fortifica" ],
+			[ "fortificamos" ],
+			[ "fortificáis", "fortifican" ],
+			[ "fortifican" ]
+		],
+		"4" : [
+			[ "fortifiqué" ],
+			[ "fortificaste" ],
+			[ "fortificó" ],
+			[ "fortificamos" ],
+			[ "fortificasteis", "fortificaron" ],
+			[ "fortificaron" ]
+		],
+		"5" : [
+			[ "fortificaba" ],
+			[ "fortificabas" ],
+			[ "fortificaba" ],
+			[ "fortificábamos" ],
+			[ "fortificabais", "fortificaban" ],
+			[ "fortificaban" ]
+		],
+		"6" : [
+			[ "fortificaría" ],
+			[ "fortificarías" ],
+			[ "fortificaría" ],
+			[ "fortificaríamos" ],
+			[ "fortificaríais", "fortificarían" ],
+			[ "fortificarían" ]
+		],
+		"7" : [
+			[ "fortificaré" ],
+			[ "fortificarás" ],
+			[ "fortificará" ],
+			[ "fortificaremos" ],
+			[ "fortificaréis", "fortificarán" ],
+			[ "fortificarán" ]
+		],
+		"8" : [
+			[ "fortifique" ],
+			[ "fortifiques" ],
+			[ "fortifique" ],
+			[ "fortifiquemos" ],
+			[ "fortifiquéis", "fortifiquen" ],
+			[ "fortifiquen" ]
+		],
+		"9" : [
+			[ "fortificara" ],
+			[ "fortificaras" ],
+			[ "fortificara" ],
+			[ "fortificáramos" ],
+			[ "fortificarais", "fortificaran" ],
+			[ "fortificaran" ]
+		],
+		"10" : [
+			[ "fortificase" ],
+			[ "fortificases" ],
+			[ "fortificase" ],
+			[ "fortificásemos" ],
+			[ "fortificaseis", "fortificasen" ],
+			[ "fortificasen" ]
+		],
+		"11" : [
+			[ "fortificare" ],
+			[ "fortificares" ],
+			[ "fortificare" ],
+			[ "fortificáremos" ],
+			[ "fortificareis", "fortificaren" ],
+			[ "fortificaren" ]
+		],
+		"12" : {
+			"1" : [ "fortifica" ],
+			"2" : [ "fortifique" ],
+			"3" : [ "fortifiquemos" ],
+			"4" : [ "fortificad" ],
+			"5" : [ "fortifiquen" ]
+		}
+	}
+}

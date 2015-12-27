@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aponer",
+	"word" : "aponer",
+	"infinitivo" : "aponer",
+	"participio" : [ "apuesto" ],
+	"gerundio" : [ "aponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "apongo" ],
+			[ "apones", "aponés" ],
+			[ "apone" ],
+			[ "aponemos" ],
+			[ "aponéis", "aponen" ],
+			[ "aponen" ]
+		],
+		"4" : [
+			[ "apuse" ],
+			[ "apusiste" ],
+			[ "apuso" ],
+			[ "apusimos" ],
+			[ "apusisteis", "apusieron" ],
+			[ "apusieron" ]
+		],
+		"5" : [
+			[ "aponía" ],
+			[ "aponías" ],
+			[ "aponía" ],
+			[ "aponíamos" ],
+			[ "aponíais", "aponían" ],
+			[ "aponían" ]
+		],
+		"6" : [
+			[ "apondría" ],
+			[ "apondrías" ],
+			[ "apondría" ],
+			[ "apondríamos" ],
+			[ "apondríais", "apondrían" ],
+			[ "apondrían" ]
+		],
+		"7" : [
+			[ "apondré" ],
+			[ "apondrás" ],
+			[ "apondrá" ],
+			[ "apondremos" ],
+			[ "apondréis", "apondrán" ],
+			[ "apondrán" ]
+		],
+		"8" : [
+			[ "aponga" ],
+			[ "apongas" ],
+			[ "aponga" ],
+			[ "apongamos" ],
+			[ "apongáis", "apongan" ],
+			[ "apongan" ]
+		],
+		"9" : [
+			[ "apusiera" ],
+			[ "apusieras" ],
+			[ "apusiera" ],
+			[ "apusiéramos" ],
+			[ "apusierais", "apusieran" ],
+			[ "apusieran" ]
+		],
+		"10" : [
+			[ "apusiese" ],
+			[ "apusieses" ],
+			[ "apusiese" ],
+			[ "apusiésemos" ],
+			[ "apusieseis", "apusiesen" ],
+			[ "apusiesen" ]
+		],
+		"11" : [
+			[ "apusiere" ],
+			[ "apusieres" ],
+			[ "apusiere" ],
+			[ "apusiéremos" ],
+			[ "apusiereis", "apusieren" ],
+			[ "apusieren" ]
+		],
+		"12" : {
+			"1" : [ "apón" ],
+			"2" : [ "aponga" ],
+			"3" : [ "apongamos" ],
+			"4" : [ "aponed" ],
+			"5" : [ "apongan" ]
+		}
+	}
+}

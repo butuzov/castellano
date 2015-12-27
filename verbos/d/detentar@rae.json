@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=detentar",
+	"word" : "detentar",
+	"infinitivo" : "detentar",
+	"participio" : [ "detentado" ],
+	"gerundio" : [ "detentando" ],
+	"tenses" : {
+		"3" : [
+			[ "detento" ],
+			[ "detentas", "detentás" ],
+			[ "detenta" ],
+			[ "detentamos" ],
+			[ "detentáis", "detentan" ],
+			[ "detentan" ]
+		],
+		"4" : [
+			[ "detenté" ],
+			[ "detentaste" ],
+			[ "detentó" ],
+			[ "detentamos" ],
+			[ "detentasteis", "detentaron" ],
+			[ "detentaron" ]
+		],
+		"5" : [
+			[ "detentaba" ],
+			[ "detentabas" ],
+			[ "detentaba" ],
+			[ "detentábamos" ],
+			[ "detentabais", "detentaban" ],
+			[ "detentaban" ]
+		],
+		"6" : [
+			[ "detentaría" ],
+			[ "detentarías" ],
+			[ "detentaría" ],
+			[ "detentaríamos" ],
+			[ "detentaríais", "detentarían" ],
+			[ "detentarían" ]
+		],
+		"7" : [
+			[ "detentaré" ],
+			[ "detentarás" ],
+			[ "detentará" ],
+			[ "detentaremos" ],
+			[ "detentaréis", "detentarán" ],
+			[ "detentarán" ]
+		],
+		"8" : [
+			[ "detente" ],
+			[ "detentes" ],
+			[ "detente" ],
+			[ "detentemos" ],
+			[ "detentéis", "detenten" ],
+			[ "detenten" ]
+		],
+		"9" : [
+			[ "detentara" ],
+			[ "detentaras" ],
+			[ "detentara" ],
+			[ "detentáramos" ],
+			[ "detentarais", "detentaran" ],
+			[ "detentaran" ]
+		],
+		"10" : [
+			[ "detentase" ],
+			[ "detentases" ],
+			[ "detentase" ],
+			[ "detentásemos" ],
+			[ "detentaseis", "detentasen" ],
+			[ "detentasen" ]
+		],
+		"11" : [
+			[ "detentare" ],
+			[ "detentares" ],
+			[ "detentare" ],
+			[ "detentáremos" ],
+			[ "detentareis", "detentaren" ],
+			[ "detentaren" ]
+		],
+		"12" : {
+			"1" : [ "detenta" ],
+			"2" : [ "detente" ],
+			"3" : [ "detentemos" ],
+			"4" : [ "detentad" ],
+			"5" : [ "detenten" ]
+		}
+	}
+}

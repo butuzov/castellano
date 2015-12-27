@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amonestar",
+	"word" : "amonestar",
+	"infinitivo" : "amonestar",
+	"participio" : [ "amonestado" ],
+	"gerundio" : [ "amonestando" ],
+	"tenses" : {
+		"3" : [
+			[ "amonesto" ],
+			[ "amonestas", "amonestás" ],
+			[ "amonesta" ],
+			[ "amonestamos" ],
+			[ "amonestáis", "amonestan" ],
+			[ "amonestan" ]
+		],
+		"4" : [
+			[ "amonesté" ],
+			[ "amonestaste" ],
+			[ "amonestó" ],
+			[ "amonestamos" ],
+			[ "amonestasteis", "amonestaron" ],
+			[ "amonestaron" ]
+		],
+		"5" : [
+			[ "amonestaba" ],
+			[ "amonestabas" ],
+			[ "amonestaba" ],
+			[ "amonestábamos" ],
+			[ "amonestabais", "amonestaban" ],
+			[ "amonestaban" ]
+		],
+		"6" : [
+			[ "amonestaría" ],
+			[ "amonestarías" ],
+			[ "amonestaría" ],
+			[ "amonestaríamos" ],
+			[ "amonestaríais", "amonestarían" ],
+			[ "amonestarían" ]
+		],
+		"7" : [
+			[ "amonestaré" ],
+			[ "amonestarás" ],
+			[ "amonestará" ],
+			[ "amonestaremos" ],
+			[ "amonestaréis", "amonestarán" ],
+			[ "amonestarán" ]
+		],
+		"8" : [
+			[ "amoneste" ],
+			[ "amonestes" ],
+			[ "amoneste" ],
+			[ "amonestemos" ],
+			[ "amonestéis", "amonesten" ],
+			[ "amonesten" ]
+		],
+		"9" : [
+			[ "amonestara" ],
+			[ "amonestaras" ],
+			[ "amonestara" ],
+			[ "amonestáramos" ],
+			[ "amonestarais", "amonestaran" ],
+			[ "amonestaran" ]
+		],
+		"10" : [
+			[ "amonestase" ],
+			[ "amonestases" ],
+			[ "amonestase" ],
+			[ "amonestásemos" ],
+			[ "amonestaseis", "amonestasen" ],
+			[ "amonestasen" ]
+		],
+		"11" : [
+			[ "amonestare" ],
+			[ "amonestares" ],
+			[ "amonestare" ],
+			[ "amonestáremos" ],
+			[ "amonestareis", "amonestaren" ],
+			[ "amonestaren" ]
+		],
+		"12" : {
+			"1" : [ "amonesta" ],
+			"2" : [ "amoneste" ],
+			"3" : [ "amonestemos" ],
+			"4" : [ "amonestad" ],
+			"5" : [ "amonesten" ]
+		}
+	}
+}

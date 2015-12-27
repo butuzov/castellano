@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=evitar",
+	"word" : "evitar",
+	"infinitivo" : "evitar",
+	"participio" : [ "evitado" ],
+	"gerundio" : [ "evitando" ],
+	"tenses" : {
+		"3" : [
+			[ "evito" ],
+			[ "evitas", "evitás" ],
+			[ "evita" ],
+			[ "evitamos" ],
+			[ "evitáis", "evitan" ],
+			[ "evitan" ]
+		],
+		"4" : [
+			[ "evité" ],
+			[ "evitaste" ],
+			[ "evitó" ],
+			[ "evitamos" ],
+			[ "evitasteis", "evitaron" ],
+			[ "evitaron" ]
+		],
+		"5" : [
+			[ "evitaba" ],
+			[ "evitabas" ],
+			[ "evitaba" ],
+			[ "evitábamos" ],
+			[ "evitabais", "evitaban" ],
+			[ "evitaban" ]
+		],
+		"6" : [
+			[ "evitaría" ],
+			[ "evitarías" ],
+			[ "evitaría" ],
+			[ "evitaríamos" ],
+			[ "evitaríais", "evitarían" ],
+			[ "evitarían" ]
+		],
+		"7" : [
+			[ "evitaré" ],
+			[ "evitarás" ],
+			[ "evitará" ],
+			[ "evitaremos" ],
+			[ "evitaréis", "evitarán" ],
+			[ "evitarán" ]
+		],
+		"8" : [
+			[ "evite" ],
+			[ "evites" ],
+			[ "evite" ],
+			[ "evitemos" ],
+			[ "evitéis", "eviten" ],
+			[ "eviten" ]
+		],
+		"9" : [
+			[ "evitara" ],
+			[ "evitaras" ],
+			[ "evitara" ],
+			[ "evitáramos" ],
+			[ "evitarais", "evitaran" ],
+			[ "evitaran" ]
+		],
+		"10" : [
+			[ "evitase" ],
+			[ "evitases" ],
+			[ "evitase" ],
+			[ "evitásemos" ],
+			[ "evitaseis", "evitasen" ],
+			[ "evitasen" ]
+		],
+		"11" : [
+			[ "evitare" ],
+			[ "evitares" ],
+			[ "evitare" ],
+			[ "evitáremos" ],
+			[ "evitareis", "evitaren" ],
+			[ "evitaren" ]
+		],
+		"12" : {
+			"1" : [ "evita" ],
+			"2" : [ "evite" ],
+			"3" : [ "evitemos" ],
+			"4" : [ "evitad" ],
+			"5" : [ "eviten" ]
+		}
+	}
+}

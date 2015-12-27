@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dispensar",
+	"word" : "dispensar",
+	"infinitivo" : "dispensar",
+	"participio" : [ "dispensado" ],
+	"gerundio" : [ "dispensando" ],
+	"tenses" : {
+		"3" : [
+			[ "dispenso" ],
+			[ "dispensas", "dispensás" ],
+			[ "dispensa" ],
+			[ "dispensamos" ],
+			[ "dispensáis", "dispensan" ],
+			[ "dispensan" ]
+		],
+		"4" : [
+			[ "dispensé" ],
+			[ "dispensaste" ],
+			[ "dispensó" ],
+			[ "dispensamos" ],
+			[ "dispensasteis", "dispensaron" ],
+			[ "dispensaron" ]
+		],
+		"5" : [
+			[ "dispensaba" ],
+			[ "dispensabas" ],
+			[ "dispensaba" ],
+			[ "dispensábamos" ],
+			[ "dispensabais", "dispensaban" ],
+			[ "dispensaban" ]
+		],
+		"6" : [
+			[ "dispensaría" ],
+			[ "dispensarías" ],
+			[ "dispensaría" ],
+			[ "dispensaríamos" ],
+			[ "dispensaríais", "dispensarían" ],
+			[ "dispensarían" ]
+		],
+		"7" : [
+			[ "dispensaré" ],
+			[ "dispensarás" ],
+			[ "dispensará" ],
+			[ "dispensaremos" ],
+			[ "dispensaréis", "dispensarán" ],
+			[ "dispensarán" ]
+		],
+		"8" : [
+			[ "dispense" ],
+			[ "dispenses" ],
+			[ "dispense" ],
+			[ "dispensemos" ],
+			[ "dispenséis", "dispensen" ],
+			[ "dispensen" ]
+		],
+		"9" : [
+			[ "dispensara" ],
+			[ "dispensaras" ],
+			[ "dispensara" ],
+			[ "dispensáramos" ],
+			[ "dispensarais", "dispensaran" ],
+			[ "dispensaran" ]
+		],
+		"10" : [
+			[ "dispensase" ],
+			[ "dispensases" ],
+			[ "dispensase" ],
+			[ "dispensásemos" ],
+			[ "dispensaseis", "dispensasen" ],
+			[ "dispensasen" ]
+		],
+		"11" : [
+			[ "dispensare" ],
+			[ "dispensares" ],
+			[ "dispensare" ],
+			[ "dispensáremos" ],
+			[ "dispensareis", "dispensaren" ],
+			[ "dispensaren" ]
+		],
+		"12" : {
+			"1" : [ "dispensa" ],
+			"2" : [ "dispense" ],
+			"3" : [ "dispensemos" ],
+			"4" : [ "dispensad" ],
+			"5" : [ "dispensen" ]
+		}
+	}
+}

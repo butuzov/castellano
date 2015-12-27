@@ -1,0 +1,79 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=balbucir",
+	"word" : "balbucir",
+	"infinitivo" : "balbucir",
+	"participio" : [ "balbucido" ],
+	"gerundio" : [ "balbuciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "balbuces", "balbucís" ],
+			[ "balbuce" ],
+			[ "balbucimos" ],
+			[ "balbucís", "balbucen" ],
+			[ "balbucen" ]
+		],
+		"4" : [
+			[ "balbucí" ],
+			[ "balbuciste" ],
+			[ "balbució" ],
+			[ "balbucimos" ],
+			[ "balbucisteis", "balbucieron" ],
+			[ "balbucieron" ]
+		],
+		"5" : [
+			[ "balbucía" ],
+			[ "balbucías" ],
+			[ "balbucía" ],
+			[ "balbucíamos" ],
+			[ "balbucíais", "balbucían" ],
+			[ "balbucían" ]
+		],
+		"6" : [
+			[ "balbuciría" ],
+			[ "balbucirías" ],
+			[ "balbuciría" ],
+			[ "balbuciríamos" ],
+			[ "balbuciríais", "balbucirían" ],
+			[ "balbucirían" ]
+		],
+		"7" : [
+			[ "balbuciré" ],
+			[ "balbucirás" ],
+			[ "balbucirá" ],
+			[ "balbuciremos" ],
+			[ "balbuciréis", "balbucirán" ],
+			[ "balbucirán" ]
+		],
+		"9" : [
+			[ "balbuciera" ],
+			[ "balbucieras" ],
+			[ "balbuciera" ],
+			[ "balbuciéramos" ],
+			[ "balbucierais", "balbucieran" ],
+			[ "balbucieran" ]
+		],
+		"10" : [
+			[ "balbuciese" ],
+			[ "balbucieses" ],
+			[ "balbuciese" ],
+			[ "balbuciésemos" ],
+			[ "balbucieseis", "balbuciesen" ],
+			[ "balbuciesen" ]
+		],
+		"11" : [
+			[ "balbuciere" ],
+			[ "balbucieres" ],
+			[ "balbuciere" ],
+			[ "balbuciéremos" ],
+			[ "balbuciereis", "balbucieren" ],
+			[ "balbucieren" ]
+		],
+		"12" : {
+			"1" : [ "balbuce" ],
+			"2" : null,
+			"3" : null,
+			"4" : [ "balbucid" ],
+			"5" : [ null ]
+		}
+	}
+}

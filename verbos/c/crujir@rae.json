@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=crujir",
+	"word" : "crujir",
+	"infinitivo" : "crujir",
+	"participio" : [ "crujido" ],
+	"gerundio" : [ "crujiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "crujo" ],
+			[ "crujes", "crujís" ],
+			[ "cruje" ],
+			[ "crujimos" ],
+			[ "crujís", "crujen" ],
+			[ "crujen" ]
+		],
+		"4" : [
+			[ "crují" ],
+			[ "crujiste" ],
+			[ "crujió" ],
+			[ "crujimos" ],
+			[ "crujisteis", "crujieron" ],
+			[ "crujieron" ]
+		],
+		"5" : [
+			[ "crujía" ],
+			[ "crujías" ],
+			[ "crujía" ],
+			[ "crujíamos" ],
+			[ "crujíais", "crujían" ],
+			[ "crujían" ]
+		],
+		"6" : [
+			[ "crujiría" ],
+			[ "crujirías" ],
+			[ "crujiría" ],
+			[ "crujiríamos" ],
+			[ "crujiríais", "crujirían" ],
+			[ "crujirían" ]
+		],
+		"7" : [
+			[ "crujiré" ],
+			[ "crujirás" ],
+			[ "crujirá" ],
+			[ "crujiremos" ],
+			[ "crujiréis", "crujirán" ],
+			[ "crujirán" ]
+		],
+		"8" : [
+			[ "cruja" ],
+			[ "crujas" ],
+			[ "cruja" ],
+			[ "crujamos" ],
+			[ "crujáis", "crujan" ],
+			[ "crujan" ]
+		],
+		"9" : [
+			[ "crujiera" ],
+			[ "crujieras" ],
+			[ "crujiera" ],
+			[ "crujiéramos" ],
+			[ "crujierais", "crujieran" ],
+			[ "crujieran" ]
+		],
+		"10" : [
+			[ "crujiese" ],
+			[ "crujieses" ],
+			[ "crujiese" ],
+			[ "crujiésemos" ],
+			[ "crujieseis", "crujiesen" ],
+			[ "crujiesen" ]
+		],
+		"11" : [
+			[ "crujiere" ],
+			[ "crujieres" ],
+			[ "crujiere" ],
+			[ "crujiéremos" ],
+			[ "crujiereis", "crujieren" ],
+			[ "crujieren" ]
+		],
+		"12" : {
+			"1" : [ "cruje" ],
+			"2" : [ "cruja" ],
+			"3" : [ "crujamos" ],
+			"4" : [ "crujid" ],
+			"5" : [ "crujan" ]
+		}
+	}
+}

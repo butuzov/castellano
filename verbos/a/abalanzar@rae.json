@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abalanzar",
+	"word" : "abalanzar",
+	"infinitivo" : "abalanzar",
+	"participio" : [ "abalanzado" ],
+	"gerundio" : [ "abalanzando" ],
+	"tenses" : {
+		"3" : [
+			[ "abalanzo" ],
+			[ "abalanzas", "abalanzás" ],
+			[ "abalanza" ],
+			[ "abalanzamos" ],
+			[ "abalanzáis", "abalanzan" ],
+			[ "abalanzan" ]
+		],
+		"4" : [
+			[ "abalancé" ],
+			[ "abalanzaste" ],
+			[ "abalanzó" ],
+			[ "abalanzamos" ],
+			[ "abalanzasteis", "abalanzaron" ],
+			[ "abalanzaron" ]
+		],
+		"5" : [
+			[ "abalanzaba" ],
+			[ "abalanzabas" ],
+			[ "abalanzaba" ],
+			[ "abalanzábamos" ],
+			[ "abalanzabais", "abalanzaban" ],
+			[ "abalanzaban" ]
+		],
+		"6" : [
+			[ "abalanzaría" ],
+			[ "abalanzarías" ],
+			[ "abalanzaría" ],
+			[ "abalanzaríamos" ],
+			[ "abalanzaríais", "abalanzarían" ],
+			[ "abalanzarían" ]
+		],
+		"7" : [
+			[ "abalanzaré" ],
+			[ "abalanzarás" ],
+			[ "abalanzará" ],
+			[ "abalanzaremos" ],
+			[ "abalanzaréis", "abalanzarán" ],
+			[ "abalanzarán" ]
+		],
+		"8" : [
+			[ "abalance" ],
+			[ "abalances" ],
+			[ "abalance" ],
+			[ "abalancemos" ],
+			[ "abalancéis", "abalancen" ],
+			[ "abalancen" ]
+		],
+		"9" : [
+			[ "abalanzara" ],
+			[ "abalanzaras" ],
+			[ "abalanzara" ],
+			[ "abalanzáramos" ],
+			[ "abalanzarais", "abalanzaran" ],
+			[ "abalanzaran" ]
+		],
+		"10" : [
+			[ "abalanzase" ],
+			[ "abalanzases" ],
+			[ "abalanzase" ],
+			[ "abalanzásemos" ],
+			[ "abalanzaseis", "abalanzasen" ],
+			[ "abalanzasen" ]
+		],
+		"11" : [
+			[ "abalanzare" ],
+			[ "abalanzares" ],
+			[ "abalanzare" ],
+			[ "abalanzáremos" ],
+			[ "abalanzareis", "abalanzaren" ],
+			[ "abalanzaren" ]
+		],
+		"12" : {
+			"1" : [ "abalanza" ],
+			"2" : [ "abalance" ],
+			"3" : [ "abalancemos" ],
+			"4" : [ "abalanzad" ],
+			"5" : [ "abalancen" ]
+		}
+	}
+}

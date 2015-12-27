@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=campar",
+	"word" : "campar",
+	"infinitivo" : "campar",
+	"participio" : [ "campado" ],
+	"gerundio" : [ "campando" ],
+	"tenses" : {
+		"3" : [
+			[ "campo" ],
+			[ "campas", "campás" ],
+			[ "campa" ],
+			[ "campamos" ],
+			[ "campáis", "campan" ],
+			[ "campan" ]
+		],
+		"4" : [
+			[ "campé" ],
+			[ "campaste" ],
+			[ "campó" ],
+			[ "campamos" ],
+			[ "campasteis", "camparon" ],
+			[ "camparon" ]
+		],
+		"5" : [
+			[ "campaba" ],
+			[ "campabas" ],
+			[ "campaba" ],
+			[ "campábamos" ],
+			[ "campabais", "campaban" ],
+			[ "campaban" ]
+		],
+		"6" : [
+			[ "camparía" ],
+			[ "camparías" ],
+			[ "camparía" ],
+			[ "camparíamos" ],
+			[ "camparíais", "camparían" ],
+			[ "camparían" ]
+		],
+		"7" : [
+			[ "camparé" ],
+			[ "camparás" ],
+			[ "campará" ],
+			[ "camparemos" ],
+			[ "camparéis", "camparán" ],
+			[ "camparán" ]
+		],
+		"8" : [
+			[ "campe" ],
+			[ "campes" ],
+			[ "campe" ],
+			[ "campemos" ],
+			[ "campéis", "campen" ],
+			[ "campen" ]
+		],
+		"9" : [
+			[ "campara" ],
+			[ "camparas" ],
+			[ "campara" ],
+			[ "campáramos" ],
+			[ "camparais", "camparan" ],
+			[ "camparan" ]
+		],
+		"10" : [
+			[ "campase" ],
+			[ "campases" ],
+			[ "campase" ],
+			[ "campásemos" ],
+			[ "campaseis", "campasen" ],
+			[ "campasen" ]
+		],
+		"11" : [
+			[ "campare" ],
+			[ "campares" ],
+			[ "campare" ],
+			[ "campáremos" ],
+			[ "campareis", "camparen" ],
+			[ "camparen" ]
+		],
+		"12" : {
+			"1" : [ "campa" ],
+			"2" : [ "campe" ],
+			"3" : [ "campemos" ],
+			"4" : [ "campad" ],
+			"5" : [ "campen" ]
+		}
+	}
+}

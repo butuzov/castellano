@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asustar",
+	"word" : "asustar",
+	"infinitivo" : "asustar",
+	"participio" : [ "asustado" ],
+	"gerundio" : [ "asustando" ],
+	"tenses" : {
+		"3" : [
+			[ "asusto" ],
+			[ "asustas", "asustás" ],
+			[ "asusta" ],
+			[ "asustamos" ],
+			[ "asustáis", "asustan" ],
+			[ "asustan" ]
+		],
+		"4" : [
+			[ "asusté" ],
+			[ "asustaste" ],
+			[ "asustó" ],
+			[ "asustamos" ],
+			[ "asustasteis", "asustaron" ],
+			[ "asustaron" ]
+		],
+		"5" : [
+			[ "asustaba" ],
+			[ "asustabas" ],
+			[ "asustaba" ],
+			[ "asustábamos" ],
+			[ "asustabais", "asustaban" ],
+			[ "asustaban" ]
+		],
+		"6" : [
+			[ "asustaría" ],
+			[ "asustarías" ],
+			[ "asustaría" ],
+			[ "asustaríamos" ],
+			[ "asustaríais", "asustarían" ],
+			[ "asustarían" ]
+		],
+		"7" : [
+			[ "asustaré" ],
+			[ "asustarás" ],
+			[ "asustará" ],
+			[ "asustaremos" ],
+			[ "asustaréis", "asustarán" ],
+			[ "asustarán" ]
+		],
+		"8" : [
+			[ "asuste" ],
+			[ "asustes" ],
+			[ "asuste" ],
+			[ "asustemos" ],
+			[ "asustéis", "asusten" ],
+			[ "asusten" ]
+		],
+		"9" : [
+			[ "asustara" ],
+			[ "asustaras" ],
+			[ "asustara" ],
+			[ "asustáramos" ],
+			[ "asustarais", "asustaran" ],
+			[ "asustaran" ]
+		],
+		"10" : [
+			[ "asustase" ],
+			[ "asustases" ],
+			[ "asustase" ],
+			[ "asustásemos" ],
+			[ "asustaseis", "asustasen" ],
+			[ "asustasen" ]
+		],
+		"11" : [
+			[ "asustare" ],
+			[ "asustares" ],
+			[ "asustare" ],
+			[ "asustáremos" ],
+			[ "asustareis", "asustaren" ],
+			[ "asustaren" ]
+		],
+		"12" : {
+			"1" : [ "asusta" ],
+			"2" : [ "asuste" ],
+			"3" : [ "asustemos" ],
+			"4" : [ "asustad" ],
+			"5" : [ "asusten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ensamblar",
+	"word" : "ensamblar",
+	"infinitivo" : "ensamblar",
+	"participio" : [ "ensamblado" ],
+	"gerundio" : [ "ensamblando" ],
+	"tenses" : {
+		"3" : [
+			[ "ensamblo" ],
+			[ "ensamblas", "ensamblás" ],
+			[ "ensambla" ],
+			[ "ensamblamos" ],
+			[ "ensambláis", "ensamblan" ],
+			[ "ensamblan" ]
+		],
+		"4" : [
+			[ "ensamblé" ],
+			[ "ensamblaste" ],
+			[ "ensambló" ],
+			[ "ensamblamos" ],
+			[ "ensamblasteis", "ensamblaron" ],
+			[ "ensamblaron" ]
+		],
+		"5" : [
+			[ "ensamblaba" ],
+			[ "ensamblabas" ],
+			[ "ensamblaba" ],
+			[ "ensamblábamos" ],
+			[ "ensamblabais", "ensamblaban" ],
+			[ "ensamblaban" ]
+		],
+		"6" : [
+			[ "ensamblaría" ],
+			[ "ensamblarías" ],
+			[ "ensamblaría" ],
+			[ "ensamblaríamos" ],
+			[ "ensamblaríais", "ensamblarían" ],
+			[ "ensamblarían" ]
+		],
+		"7" : [
+			[ "ensamblaré" ],
+			[ "ensamblarás" ],
+			[ "ensamblará" ],
+			[ "ensamblaremos" ],
+			[ "ensamblaréis", "ensamblarán" ],
+			[ "ensamblarán" ]
+		],
+		"8" : [
+			[ "ensamble" ],
+			[ "ensambles" ],
+			[ "ensamble" ],
+			[ "ensamblemos" ],
+			[ "ensambléis", "ensamblen" ],
+			[ "ensamblen" ]
+		],
+		"9" : [
+			[ "ensamblara" ],
+			[ "ensamblaras" ],
+			[ "ensamblara" ],
+			[ "ensambláramos" ],
+			[ "ensamblarais", "ensamblaran" ],
+			[ "ensamblaran" ]
+		],
+		"10" : [
+			[ "ensamblase" ],
+			[ "ensamblases" ],
+			[ "ensamblase" ],
+			[ "ensamblásemos" ],
+			[ "ensamblaseis", "ensamblasen" ],
+			[ "ensamblasen" ]
+		],
+		"11" : [
+			[ "ensamblare" ],
+			[ "ensamblares" ],
+			[ "ensamblare" ],
+			[ "ensambláremos" ],
+			[ "ensamblareis", "ensamblaren" ],
+			[ "ensamblaren" ]
+		],
+		"12" : {
+			"1" : [ "ensambla" ],
+			"2" : [ "ensamble" ],
+			"3" : [ "ensamblemos" ],
+			"4" : [ "ensamblad" ],
+			"5" : [ "ensamblen" ]
+		}
+	}
+}

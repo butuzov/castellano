@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inundar",
+	"word" : "inundar",
+	"infinitivo" : "inundar",
+	"participio" : [ "inundado" ],
+	"gerundio" : [ "inundando" ],
+	"tenses" : {
+		"3" : [
+			[ "inundo" ],
+			[ "inundas", "inundás" ],
+			[ "inunda" ],
+			[ "inundamos" ],
+			[ "inundáis", "inundan" ],
+			[ "inundan" ]
+		],
+		"4" : [
+			[ "inundé" ],
+			[ "inundaste" ],
+			[ "inundó" ],
+			[ "inundamos" ],
+			[ "inundasteis", "inundaron" ],
+			[ "inundaron" ]
+		],
+		"5" : [
+			[ "inundaba" ],
+			[ "inundabas" ],
+			[ "inundaba" ],
+			[ "inundábamos" ],
+			[ "inundabais", "inundaban" ],
+			[ "inundaban" ]
+		],
+		"6" : [
+			[ "inundaría" ],
+			[ "inundarías" ],
+			[ "inundaría" ],
+			[ "inundaríamos" ],
+			[ "inundaríais", "inundarían" ],
+			[ "inundarían" ]
+		],
+		"7" : [
+			[ "inundaré" ],
+			[ "inundarás" ],
+			[ "inundará" ],
+			[ "inundaremos" ],
+			[ "inundaréis", "inundarán" ],
+			[ "inundarán" ]
+		],
+		"8" : [
+			[ "inunde" ],
+			[ "inundes" ],
+			[ "inunde" ],
+			[ "inundemos" ],
+			[ "inundéis", "inunden" ],
+			[ "inunden" ]
+		],
+		"9" : [
+			[ "inundara" ],
+			[ "inundaras" ],
+			[ "inundara" ],
+			[ "inundáramos" ],
+			[ "inundarais", "inundaran" ],
+			[ "inundaran" ]
+		],
+		"10" : [
+			[ "inundase" ],
+			[ "inundases" ],
+			[ "inundase" ],
+			[ "inundásemos" ],
+			[ "inundaseis", "inundasen" ],
+			[ "inundasen" ]
+		],
+		"11" : [
+			[ "inundare" ],
+			[ "inundares" ],
+			[ "inundare" ],
+			[ "inundáremos" ],
+			[ "inundareis", "inundaren" ],
+			[ "inundaren" ]
+		],
+		"12" : {
+			"1" : [ "inunda" ],
+			"2" : [ "inunde" ],
+			"3" : [ "inundemos" ],
+			"4" : [ "inundad" ],
+			"5" : [ "inunden" ]
+		}
+	}
+}

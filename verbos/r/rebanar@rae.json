@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rebanar",
+	"word" : "rebanar",
+	"infinitivo" : "rebanar",
+	"participio" : [ "rebanado" ],
+	"gerundio" : [ "rebanando" ],
+	"tenses" : {
+		"3" : [
+			[ "rebano" ],
+			[ "rebanas", "rebanás" ],
+			[ "rebana" ],
+			[ "rebanamos" ],
+			[ "rebanáis", "rebanan" ],
+			[ "rebanan" ]
+		],
+		"4" : [
+			[ "rebané" ],
+			[ "rebanaste" ],
+			[ "rebanó" ],
+			[ "rebanamos" ],
+			[ "rebanasteis", "rebanaron" ],
+			[ "rebanaron" ]
+		],
+		"5" : [
+			[ "rebanaba" ],
+			[ "rebanabas" ],
+			[ "rebanaba" ],
+			[ "rebanábamos" ],
+			[ "rebanabais", "rebanaban" ],
+			[ "rebanaban" ]
+		],
+		"6" : [
+			[ "rebanaría" ],
+			[ "rebanarías" ],
+			[ "rebanaría" ],
+			[ "rebanaríamos" ],
+			[ "rebanaríais", "rebanarían" ],
+			[ "rebanarían" ]
+		],
+		"7" : [
+			[ "rebanaré" ],
+			[ "rebanarás" ],
+			[ "rebanará" ],
+			[ "rebanaremos" ],
+			[ "rebanaréis", "rebanarán" ],
+			[ "rebanarán" ]
+		],
+		"8" : [
+			[ "rebane" ],
+			[ "rebanes" ],
+			[ "rebane" ],
+			[ "rebanemos" ],
+			[ "rebanéis", "rebanen" ],
+			[ "rebanen" ]
+		],
+		"9" : [
+			[ "rebanara" ],
+			[ "rebanaras" ],
+			[ "rebanara" ],
+			[ "rebanáramos" ],
+			[ "rebanarais", "rebanaran" ],
+			[ "rebanaran" ]
+		],
+		"10" : [
+			[ "rebanase" ],
+			[ "rebanases" ],
+			[ "rebanase" ],
+			[ "rebanásemos" ],
+			[ "rebanaseis", "rebanasen" ],
+			[ "rebanasen" ]
+		],
+		"11" : [
+			[ "rebanare" ],
+			[ "rebanares" ],
+			[ "rebanare" ],
+			[ "rebanáremos" ],
+			[ "rebanareis", "rebanaren" ],
+			[ "rebanaren" ]
+		],
+		"12" : {
+			"1" : [ "rebana" ],
+			"2" : [ "rebane" ],
+			"3" : [ "rebanemos" ],
+			"4" : [ "rebanad" ],
+			"5" : [ "rebanen" ]
+		}
+	}
+}

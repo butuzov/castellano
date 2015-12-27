@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tallar",
+	"word" : "tallar",
+	"infinitivo" : "tallar",
+	"participio" : [ "tallado" ],
+	"gerundio" : [ "tallando" ],
+	"tenses" : {
+		"3" : [
+			[ "tallo" ],
+			[ "tallas", "tallás" ],
+			[ "talla" ],
+			[ "tallamos" ],
+			[ "talláis", "tallan" ],
+			[ "tallan" ]
+		],
+		"4" : [
+			[ "tallé" ],
+			[ "tallaste" ],
+			[ "talló" ],
+			[ "tallamos" ],
+			[ "tallasteis", "tallaron" ],
+			[ "tallaron" ]
+		],
+		"5" : [
+			[ "tallaba" ],
+			[ "tallabas" ],
+			[ "tallaba" ],
+			[ "tallábamos" ],
+			[ "tallabais", "tallaban" ],
+			[ "tallaban" ]
+		],
+		"6" : [
+			[ "tallaría" ],
+			[ "tallarías" ],
+			[ "tallaría" ],
+			[ "tallaríamos" ],
+			[ "tallaríais", "tallarían" ],
+			[ "tallarían" ]
+		],
+		"7" : [
+			[ "tallaré" ],
+			[ "tallarás" ],
+			[ "tallará" ],
+			[ "tallaremos" ],
+			[ "tallaréis", "tallarán" ],
+			[ "tallarán" ]
+		],
+		"8" : [
+			[ "talle" ],
+			[ "talles" ],
+			[ "talle" ],
+			[ "tallemos" ],
+			[ "talléis", "tallen" ],
+			[ "tallen" ]
+		],
+		"9" : [
+			[ "tallara" ],
+			[ "tallaras" ],
+			[ "tallara" ],
+			[ "talláramos" ],
+			[ "tallarais", "tallaran" ],
+			[ "tallaran" ]
+		],
+		"10" : [
+			[ "tallase" ],
+			[ "tallases" ],
+			[ "tallase" ],
+			[ "tallásemos" ],
+			[ "tallaseis", "tallasen" ],
+			[ "tallasen" ]
+		],
+		"11" : [
+			[ "tallare" ],
+			[ "tallares" ],
+			[ "tallare" ],
+			[ "talláremos" ],
+			[ "tallareis", "tallaren" ],
+			[ "tallaren" ]
+		],
+		"12" : {
+			"1" : [ "talla" ],
+			"2" : [ "talle" ],
+			"3" : [ "tallemos" ],
+			"4" : [ "tallad" ],
+			"5" : [ "tallen" ]
+		}
+	}
+}

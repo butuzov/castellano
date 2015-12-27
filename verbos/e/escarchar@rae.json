@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escarchar",
+	"word" : "escarchar",
+	"infinitivo" : "escarchar",
+	"participio" : [ "escarchado" ],
+	"gerundio" : [ "escarchando" ],
+	"tenses" : {
+		"3" : [
+			[ "escarcho" ],
+			[ "escarchas", "escarchás" ],
+			[ "escarcha" ],
+			[ "escarchamos" ],
+			[ "escarcháis", "escarchan" ],
+			[ "escarchan" ]
+		],
+		"4" : [
+			[ "escarché" ],
+			[ "escarchaste" ],
+			[ "escarchó" ],
+			[ "escarchamos" ],
+			[ "escarchasteis", "escarcharon" ],
+			[ "escarcharon" ]
+		],
+		"5" : [
+			[ "escarchaba" ],
+			[ "escarchabas" ],
+			[ "escarchaba" ],
+			[ "escarchábamos" ],
+			[ "escarchabais", "escarchaban" ],
+			[ "escarchaban" ]
+		],
+		"6" : [
+			[ "escarcharía" ],
+			[ "escarcharías" ],
+			[ "escarcharía" ],
+			[ "escarcharíamos" ],
+			[ "escarcharíais", "escarcharían" ],
+			[ "escarcharían" ]
+		],
+		"7" : [
+			[ "escarcharé" ],
+			[ "escarcharás" ],
+			[ "escarchará" ],
+			[ "escarcharemos" ],
+			[ "escarcharéis", "escarcharán" ],
+			[ "escarcharán" ]
+		],
+		"8" : [
+			[ "escarche" ],
+			[ "escarches" ],
+			[ "escarche" ],
+			[ "escarchemos" ],
+			[ "escarchéis", "escarchen" ],
+			[ "escarchen" ]
+		],
+		"9" : [
+			[ "escarchara" ],
+			[ "escarcharas" ],
+			[ "escarchara" ],
+			[ "escarcháramos" ],
+			[ "escarcharais", "escarcharan" ],
+			[ "escarcharan" ]
+		],
+		"10" : [
+			[ "escarchase" ],
+			[ "escarchases" ],
+			[ "escarchase" ],
+			[ "escarchásemos" ],
+			[ "escarchaseis", "escarchasen" ],
+			[ "escarchasen" ]
+		],
+		"11" : [
+			[ "escarchare" ],
+			[ "escarchares" ],
+			[ "escarchare" ],
+			[ "escarcháremos" ],
+			[ "escarchareis", "escarcharen" ],
+			[ "escarcharen" ]
+		],
+		"12" : {
+			"1" : [ "escarcha" ],
+			"2" : [ "escarche" ],
+			"3" : [ "escarchemos" ],
+			"4" : [ "escarchad" ],
+			"5" : [ "escarchen" ]
+		}
+	}
+}

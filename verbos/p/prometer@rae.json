@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prometer",
+	"word" : "prometer",
+	"infinitivo" : "prometer",
+	"participio" : [ "prometido" ],
+	"gerundio" : [ "prometiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "prometo" ],
+			[ "prometes", "prometés" ],
+			[ "promete" ],
+			[ "prometemos" ],
+			[ "prometéis", "prometen" ],
+			[ "prometen" ]
+		],
+		"4" : [
+			[ "prometí" ],
+			[ "prometiste" ],
+			[ "prometió" ],
+			[ "prometimos" ],
+			[ "prometisteis", "prometieron" ],
+			[ "prometieron" ]
+		],
+		"5" : [
+			[ "prometía" ],
+			[ "prometías" ],
+			[ "prometía" ],
+			[ "prometíamos" ],
+			[ "prometíais", "prometían" ],
+			[ "prometían" ]
+		],
+		"6" : [
+			[ "prometería" ],
+			[ "prometerías" ],
+			[ "prometería" ],
+			[ "prometeríamos" ],
+			[ "prometeríais", "prometerían" ],
+			[ "prometerían" ]
+		],
+		"7" : [
+			[ "prometeré" ],
+			[ "prometerás" ],
+			[ "prometerá" ],
+			[ "prometeremos" ],
+			[ "prometeréis", "prometerán" ],
+			[ "prometerán" ]
+		],
+		"8" : [
+			[ "prometa" ],
+			[ "prometas" ],
+			[ "prometa" ],
+			[ "prometamos" ],
+			[ "prometáis", "prometan" ],
+			[ "prometan" ]
+		],
+		"9" : [
+			[ "prometiera" ],
+			[ "prometieras" ],
+			[ "prometiera" ],
+			[ "prometiéramos" ],
+			[ "prometierais", "prometieran" ],
+			[ "prometieran" ]
+		],
+		"10" : [
+			[ "prometiese" ],
+			[ "prometieses" ],
+			[ "prometiese" ],
+			[ "prometiésemos" ],
+			[ "prometieseis", "prometiesen" ],
+			[ "prometiesen" ]
+		],
+		"11" : [
+			[ "prometiere" ],
+			[ "prometieres" ],
+			[ "prometiere" ],
+			[ "prometiéremos" ],
+			[ "prometiereis", "prometieren" ],
+			[ "prometieren" ]
+		],
+		"12" : {
+			"1" : [ "promete" ],
+			"2" : [ "prometa" ],
+			"3" : [ "prometamos" ],
+			"4" : [ "prometed" ],
+			"5" : [ "prometan" ]
+		}
+	}
+}

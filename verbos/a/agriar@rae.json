@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agriar",
+	"word" : "agriar",
+	"infinitivo" : "agriar",
+	"participio" : [ "agriado" ],
+	"gerundio" : [ "agriando" ],
+	"tenses" : {
+		"3" : [
+			[ "agrío" ],
+			[ "agrías", "agriás" ],
+			[ "agría" ],
+			[ "agriamos" ],
+			[ "agriáis", "agrían" ],
+			[ "agrían" ]
+		],
+		"4" : [
+			[ "agrié" ],
+			[ "agriaste" ],
+			[ "agrió" ],
+			[ "agriamos" ],
+			[ "agriasteis", "agriaron" ],
+			[ "agriaron" ]
+		],
+		"5" : [
+			[ "agriaba" ],
+			[ "agriabas" ],
+			[ "agriaba" ],
+			[ "agriábamos" ],
+			[ "agriabais", "agriaban" ],
+			[ "agriaban" ]
+		],
+		"6" : [
+			[ "agriaría" ],
+			[ "agriarías" ],
+			[ "agriaría" ],
+			[ "agriaríamos" ],
+			[ "agriaríais", "agriarían" ],
+			[ "agriarían" ]
+		],
+		"7" : [
+			[ "agriaré" ],
+			[ "agriarás" ],
+			[ "agriará" ],
+			[ "agriaremos" ],
+			[ "agriaréis", "agriarán" ],
+			[ "agriarán" ]
+		],
+		"8" : [
+			[ "agríe" ],
+			[ "agríes" ],
+			[ "agríe" ],
+			[ "agriemos" ],
+			[ "agriéis", "agríen" ],
+			[ "agríen" ]
+		],
+		"9" : [
+			[ "agriara" ],
+			[ "agriaras" ],
+			[ "agriara" ],
+			[ "agriáramos" ],
+			[ "agriarais", "agriaran" ],
+			[ "agriaran" ]
+		],
+		"10" : [
+			[ "agriase" ],
+			[ "agriases" ],
+			[ "agriase" ],
+			[ "agriásemos" ],
+			[ "agriaseis", "agriasen" ],
+			[ "agriasen" ]
+		],
+		"11" : [
+			[ "agriare" ],
+			[ "agriares" ],
+			[ "agriare" ],
+			[ "agriáremos" ],
+			[ "agriareis", "agriaren" ],
+			[ "agriaren" ]
+		],
+		"12" : {
+			"1" : [ "agría" ],
+			"2" : [ "agríe" ],
+			"3" : [ "agriemos" ],
+			"4" : [ "agriad" ],
+			"5" : [ "agríen" ]
+		}
+	}
+}

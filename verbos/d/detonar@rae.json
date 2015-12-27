@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=detonar",
+	"word" : "detonar",
+	"infinitivo" : "detonar",
+	"participio" : [ "detonado" ],
+	"gerundio" : [ "detonando" ],
+	"tenses" : {
+		"3" : [
+			[ "detono" ],
+			[ "detonas", "detonás" ],
+			[ "detona" ],
+			[ "detonamos" ],
+			[ "detonáis", "detonan" ],
+			[ "detonan" ]
+		],
+		"4" : [
+			[ "detoné" ],
+			[ "detonaste" ],
+			[ "detonó" ],
+			[ "detonamos" ],
+			[ "detonasteis", "detonaron" ],
+			[ "detonaron" ]
+		],
+		"5" : [
+			[ "detonaba" ],
+			[ "detonabas" ],
+			[ "detonaba" ],
+			[ "detonábamos" ],
+			[ "detonabais", "detonaban" ],
+			[ "detonaban" ]
+		],
+		"6" : [
+			[ "detonaría" ],
+			[ "detonarías" ],
+			[ "detonaría" ],
+			[ "detonaríamos" ],
+			[ "detonaríais", "detonarían" ],
+			[ "detonarían" ]
+		],
+		"7" : [
+			[ "detonaré" ],
+			[ "detonarás" ],
+			[ "detonará" ],
+			[ "detonaremos" ],
+			[ "detonaréis", "detonarán" ],
+			[ "detonarán" ]
+		],
+		"8" : [
+			[ "detone" ],
+			[ "detones" ],
+			[ "detone" ],
+			[ "detonemos" ],
+			[ "detonéis", "detonen" ],
+			[ "detonen" ]
+		],
+		"9" : [
+			[ "detonara" ],
+			[ "detonaras" ],
+			[ "detonara" ],
+			[ "detonáramos" ],
+			[ "detonarais", "detonaran" ],
+			[ "detonaran" ]
+		],
+		"10" : [
+			[ "detonase" ],
+			[ "detonases" ],
+			[ "detonase" ],
+			[ "detonásemos" ],
+			[ "detonaseis", "detonasen" ],
+			[ "detonasen" ]
+		],
+		"11" : [
+			[ "detonare" ],
+			[ "detonares" ],
+			[ "detonare" ],
+			[ "detonáremos" ],
+			[ "detonareis", "detonaren" ],
+			[ "detonaren" ]
+		],
+		"12" : {
+			"1" : [ "detona" ],
+			"2" : [ "detone" ],
+			"3" : [ "detonemos" ],
+			"4" : [ "detonad" ],
+			"5" : [ "detonen" ]
+		}
+	}
+}

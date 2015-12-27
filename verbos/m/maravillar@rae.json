@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=maravillar",
+	"word" : "maravillar",
+	"infinitivo" : "maravillar",
+	"participio" : [ "maravillado" ],
+	"gerundio" : [ "maravillando" ],
+	"tenses" : {
+		"3" : [
+			[ "maravillo" ],
+			[ "maravillas", "maravillás" ],
+			[ "maravilla" ],
+			[ "maravillamos" ],
+			[ "maravilláis", "maravillan" ],
+			[ "maravillan" ]
+		],
+		"4" : [
+			[ "maravillé" ],
+			[ "maravillaste" ],
+			[ "maravilló" ],
+			[ "maravillamos" ],
+			[ "maravillasteis", "maravillaron" ],
+			[ "maravillaron" ]
+		],
+		"5" : [
+			[ "maravillaba" ],
+			[ "maravillabas" ],
+			[ "maravillaba" ],
+			[ "maravillábamos" ],
+			[ "maravillabais", "maravillaban" ],
+			[ "maravillaban" ]
+		],
+		"6" : [
+			[ "maravillaría" ],
+			[ "maravillarías" ],
+			[ "maravillaría" ],
+			[ "maravillaríamos" ],
+			[ "maravillaríais", "maravillarían" ],
+			[ "maravillarían" ]
+		],
+		"7" : [
+			[ "maravillaré" ],
+			[ "maravillarás" ],
+			[ "maravillará" ],
+			[ "maravillaremos" ],
+			[ "maravillaréis", "maravillarán" ],
+			[ "maravillarán" ]
+		],
+		"8" : [
+			[ "maraville" ],
+			[ "maravilles" ],
+			[ "maraville" ],
+			[ "maravillemos" ],
+			[ "maravilléis", "maravillen" ],
+			[ "maravillen" ]
+		],
+		"9" : [
+			[ "maravillara" ],
+			[ "maravillaras" ],
+			[ "maravillara" ],
+			[ "maravilláramos" ],
+			[ "maravillarais", "maravillaran" ],
+			[ "maravillaran" ]
+		],
+		"10" : [
+			[ "maravillase" ],
+			[ "maravillases" ],
+			[ "maravillase" ],
+			[ "maravillásemos" ],
+			[ "maravillaseis", "maravillasen" ],
+			[ "maravillasen" ]
+		],
+		"11" : [
+			[ "maravillare" ],
+			[ "maravillares" ],
+			[ "maravillare" ],
+			[ "maravilláremos" ],
+			[ "maravillareis", "maravillaren" ],
+			[ "maravillaren" ]
+		],
+		"12" : {
+			"1" : [ "maravilla" ],
+			"2" : [ "maraville" ],
+			"3" : [ "maravillemos" ],
+			"4" : [ "maravillad" ],
+			"5" : [ "maravillen" ]
+		}
+	}
+}

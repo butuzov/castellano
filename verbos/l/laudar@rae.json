@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=laudar",
+	"word" : "laudar",
+	"infinitivo" : "laudar",
+	"participio" : [ "laudado" ],
+	"gerundio" : [ "laudando" ],
+	"tenses" : {
+		"3" : [
+			[ "laudo" ],
+			[ "laudas", "laudás" ],
+			[ "lauda" ],
+			[ "laudamos" ],
+			[ "laudáis", "laudan" ],
+			[ "laudan" ]
+		],
+		"4" : [
+			[ "laudé" ],
+			[ "laudaste" ],
+			[ "laudó" ],
+			[ "laudamos" ],
+			[ "laudasteis", "laudaron" ],
+			[ "laudaron" ]
+		],
+		"5" : [
+			[ "laudaba" ],
+			[ "laudabas" ],
+			[ "laudaba" ],
+			[ "laudábamos" ],
+			[ "laudabais", "laudaban" ],
+			[ "laudaban" ]
+		],
+		"6" : [
+			[ "laudaría" ],
+			[ "laudarías" ],
+			[ "laudaría" ],
+			[ "laudaríamos" ],
+			[ "laudaríais", "laudarían" ],
+			[ "laudarían" ]
+		],
+		"7" : [
+			[ "laudaré" ],
+			[ "laudarás" ],
+			[ "laudará" ],
+			[ "laudaremos" ],
+			[ "laudaréis", "laudarán" ],
+			[ "laudarán" ]
+		],
+		"8" : [
+			[ "laude" ],
+			[ "laudes" ],
+			[ "laude" ],
+			[ "laudemos" ],
+			[ "laudéis", "lauden" ],
+			[ "lauden" ]
+		],
+		"9" : [
+			[ "laudara" ],
+			[ "laudaras" ],
+			[ "laudara" ],
+			[ "laudáramos" ],
+			[ "laudarais", "laudaran" ],
+			[ "laudaran" ]
+		],
+		"10" : [
+			[ "laudase" ],
+			[ "laudases" ],
+			[ "laudase" ],
+			[ "laudásemos" ],
+			[ "laudaseis", "laudasen" ],
+			[ "laudasen" ]
+		],
+		"11" : [
+			[ "laudare" ],
+			[ "laudares" ],
+			[ "laudare" ],
+			[ "laudáremos" ],
+			[ "laudareis", "laudaren" ],
+			[ "laudaren" ]
+		],
+		"12" : {
+			"1" : [ "lauda" ],
+			"2" : [ "laude" ],
+			"3" : [ "laudemos" ],
+			"4" : [ "laudad" ],
+			"5" : [ "lauden" ]
+		}
+	}
+}

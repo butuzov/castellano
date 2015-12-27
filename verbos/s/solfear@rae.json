@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=solfear",
+	"word" : "solfear",
+	"infinitivo" : "solfear",
+	"participio" : [ "solfeado" ],
+	"gerundio" : [ "solfeando" ],
+	"tenses" : {
+		"3" : [
+			[ "solfeo" ],
+			[ "solfeas", "solfeás" ],
+			[ "solfea" ],
+			[ "solfeamos" ],
+			[ "solfeáis", "solfean" ],
+			[ "solfean" ]
+		],
+		"4" : [
+			[ "solfeé" ],
+			[ "solfeaste" ],
+			[ "solfeó" ],
+			[ "solfeamos" ],
+			[ "solfeasteis", "solfearon" ],
+			[ "solfearon" ]
+		],
+		"5" : [
+			[ "solfeaba" ],
+			[ "solfeabas" ],
+			[ "solfeaba" ],
+			[ "solfeábamos" ],
+			[ "solfeabais", "solfeaban" ],
+			[ "solfeaban" ]
+		],
+		"6" : [
+			[ "solfearía" ],
+			[ "solfearías" ],
+			[ "solfearía" ],
+			[ "solfearíamos" ],
+			[ "solfearíais", "solfearían" ],
+			[ "solfearían" ]
+		],
+		"7" : [
+			[ "solfearé" ],
+			[ "solfearás" ],
+			[ "solfeará" ],
+			[ "solfearemos" ],
+			[ "solfearéis", "solfearán" ],
+			[ "solfearán" ]
+		],
+		"8" : [
+			[ "solfee" ],
+			[ "solfees" ],
+			[ "solfee" ],
+			[ "solfeemos" ],
+			[ "solfeéis", "solfeen" ],
+			[ "solfeen" ]
+		],
+		"9" : [
+			[ "solfeara" ],
+			[ "solfearas" ],
+			[ "solfeara" ],
+			[ "solfeáramos" ],
+			[ "solfearais", "solfearan" ],
+			[ "solfearan" ]
+		],
+		"10" : [
+			[ "solfease" ],
+			[ "solfeases" ],
+			[ "solfease" ],
+			[ "solfeásemos" ],
+			[ "solfeaseis", "solfeasen" ],
+			[ "solfeasen" ]
+		],
+		"11" : [
+			[ "solfeare" ],
+			[ "solfeares" ],
+			[ "solfeare" ],
+			[ "solfeáremos" ],
+			[ "solfeareis", "solfearen" ],
+			[ "solfearen" ]
+		],
+		"12" : {
+			"1" : [ "solfea" ],
+			"2" : [ "solfee" ],
+			"3" : [ "solfeemos" ],
+			"4" : [ "solfead" ],
+			"5" : [ "solfeen" ]
+		}
+	}
+}

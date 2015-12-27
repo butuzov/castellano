@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=infiltrar",
+	"word" : "infiltrar",
+	"infinitivo" : "infiltrar",
+	"participio" : [ "infiltrado" ],
+	"gerundio" : [ "infiltrando" ],
+	"tenses" : {
+		"3" : [
+			[ "infiltro" ],
+			[ "infiltras", "infiltrás" ],
+			[ "infiltra" ],
+			[ "infiltramos" ],
+			[ "infiltráis", "infiltran" ],
+			[ "infiltran" ]
+		],
+		"4" : [
+			[ "infiltré" ],
+			[ "infiltraste" ],
+			[ "infiltró" ],
+			[ "infiltramos" ],
+			[ "infiltrasteis", "infiltraron" ],
+			[ "infiltraron" ]
+		],
+		"5" : [
+			[ "infiltraba" ],
+			[ "infiltrabas" ],
+			[ "infiltraba" ],
+			[ "infiltrábamos" ],
+			[ "infiltrabais", "infiltraban" ],
+			[ "infiltraban" ]
+		],
+		"6" : [
+			[ "infiltraría" ],
+			[ "infiltrarías" ],
+			[ "infiltraría" ],
+			[ "infiltraríamos" ],
+			[ "infiltraríais", "infiltrarían" ],
+			[ "infiltrarían" ]
+		],
+		"7" : [
+			[ "infiltraré" ],
+			[ "infiltrarás" ],
+			[ "infiltrará" ],
+			[ "infiltraremos" ],
+			[ "infiltraréis", "infiltrarán" ],
+			[ "infiltrarán" ]
+		],
+		"8" : [
+			[ "infiltre" ],
+			[ "infiltres" ],
+			[ "infiltre" ],
+			[ "infiltremos" ],
+			[ "infiltréis", "infiltren" ],
+			[ "infiltren" ]
+		],
+		"9" : [
+			[ "infiltrara" ],
+			[ "infiltraras" ],
+			[ "infiltrara" ],
+			[ "infiltráramos" ],
+			[ "infiltrarais", "infiltraran" ],
+			[ "infiltraran" ]
+		],
+		"10" : [
+			[ "infiltrase" ],
+			[ "infiltrases" ],
+			[ "infiltrase" ],
+			[ "infiltrásemos" ],
+			[ "infiltraseis", "infiltrasen" ],
+			[ "infiltrasen" ]
+		],
+		"11" : [
+			[ "infiltrare" ],
+			[ "infiltrares" ],
+			[ "infiltrare" ],
+			[ "infiltráremos" ],
+			[ "infiltrareis", "infiltraren" ],
+			[ "infiltraren" ]
+		],
+		"12" : {
+			"1" : [ "infiltra" ],
+			"2" : [ "infiltre" ],
+			"3" : [ "infiltremos" ],
+			"4" : [ "infiltrad" ],
+			"5" : [ "infiltren" ]
+		}
+	}
+}

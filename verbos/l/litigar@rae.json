@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=litigar",
+	"word" : "litigar",
+	"infinitivo" : "litigar",
+	"participio" : [ "litigado" ],
+	"gerundio" : [ "litigando" ],
+	"tenses" : {
+		"3" : [
+			[ "litigo" ],
+			[ "litigas", "litigás" ],
+			[ "litiga" ],
+			[ "litigamos" ],
+			[ "litigáis", "litigan" ],
+			[ "litigan" ]
+		],
+		"4" : [
+			[ "litigué" ],
+			[ "litigaste" ],
+			[ "litigó" ],
+			[ "litigamos" ],
+			[ "litigasteis", "litigaron" ],
+			[ "litigaron" ]
+		],
+		"5" : [
+			[ "litigaba" ],
+			[ "litigabas" ],
+			[ "litigaba" ],
+			[ "litigábamos" ],
+			[ "litigabais", "litigaban" ],
+			[ "litigaban" ]
+		],
+		"6" : [
+			[ "litigaría" ],
+			[ "litigarías" ],
+			[ "litigaría" ],
+			[ "litigaríamos" ],
+			[ "litigaríais", "litigarían" ],
+			[ "litigarían" ]
+		],
+		"7" : [
+			[ "litigaré" ],
+			[ "litigarás" ],
+			[ "litigará" ],
+			[ "litigaremos" ],
+			[ "litigaréis", "litigarán" ],
+			[ "litigarán" ]
+		],
+		"8" : [
+			[ "litigue" ],
+			[ "litigues" ],
+			[ "litigue" ],
+			[ "litiguemos" ],
+			[ "litiguéis", "litiguen" ],
+			[ "litiguen" ]
+		],
+		"9" : [
+			[ "litigara" ],
+			[ "litigaras" ],
+			[ "litigara" ],
+			[ "litigáramos" ],
+			[ "litigarais", "litigaran" ],
+			[ "litigaran" ]
+		],
+		"10" : [
+			[ "litigase" ],
+			[ "litigases" ],
+			[ "litigase" ],
+			[ "litigásemos" ],
+			[ "litigaseis", "litigasen" ],
+			[ "litigasen" ]
+		],
+		"11" : [
+			[ "litigare" ],
+			[ "litigares" ],
+			[ "litigare" ],
+			[ "litigáremos" ],
+			[ "litigareis", "litigaren" ],
+			[ "litigaren" ]
+		],
+		"12" : {
+			"1" : [ "litiga" ],
+			"2" : [ "litigue" ],
+			"3" : [ "litiguemos" ],
+			"4" : [ "litigad" ],
+			"5" : [ "litiguen" ]
+		}
+	}
+}

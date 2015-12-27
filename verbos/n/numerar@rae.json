@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=numerar",
+	"word" : "numerar",
+	"infinitivo" : "numerar",
+	"participio" : [ "numerado" ],
+	"gerundio" : [ "numerando" ],
+	"tenses" : {
+		"3" : [
+			[ "numero" ],
+			[ "numeras", "numerás" ],
+			[ "numera" ],
+			[ "numeramos" ],
+			[ "numeráis", "numeran" ],
+			[ "numeran" ]
+		],
+		"4" : [
+			[ "numeré" ],
+			[ "numeraste" ],
+			[ "numeró" ],
+			[ "numeramos" ],
+			[ "numerasteis", "numeraron" ],
+			[ "numeraron" ]
+		],
+		"5" : [
+			[ "numeraba" ],
+			[ "numerabas" ],
+			[ "numeraba" ],
+			[ "numerábamos" ],
+			[ "numerabais", "numeraban" ],
+			[ "numeraban" ]
+		],
+		"6" : [
+			[ "numeraría" ],
+			[ "numerarías" ],
+			[ "numeraría" ],
+			[ "numeraríamos" ],
+			[ "numeraríais", "numerarían" ],
+			[ "numerarían" ]
+		],
+		"7" : [
+			[ "numeraré" ],
+			[ "numerarás" ],
+			[ "numerará" ],
+			[ "numeraremos" ],
+			[ "numeraréis", "numerarán" ],
+			[ "numerarán" ]
+		],
+		"8" : [
+			[ "numere" ],
+			[ "numeres" ],
+			[ "numere" ],
+			[ "numeremos" ],
+			[ "numeréis", "numeren" ],
+			[ "numeren" ]
+		],
+		"9" : [
+			[ "numerara" ],
+			[ "numeraras" ],
+			[ "numerara" ],
+			[ "numeráramos" ],
+			[ "numerarais", "numeraran" ],
+			[ "numeraran" ]
+		],
+		"10" : [
+			[ "numerase" ],
+			[ "numerases" ],
+			[ "numerase" ],
+			[ "numerásemos" ],
+			[ "numeraseis", "numerasen" ],
+			[ "numerasen" ]
+		],
+		"11" : [
+			[ "numerare" ],
+			[ "numerares" ],
+			[ "numerare" ],
+			[ "numeráremos" ],
+			[ "numerareis", "numeraren" ],
+			[ "numeraren" ]
+		],
+		"12" : {
+			"1" : [ "numera" ],
+			"2" : [ "numere" ],
+			"3" : [ "numeremos" ],
+			"4" : [ "numerad" ],
+			"5" : [ "numeren" ]
+		}
+	}
+}

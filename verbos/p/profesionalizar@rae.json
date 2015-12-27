@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=profesionalizar",
+	"word" : "profesionalizar",
+	"infinitivo" : "profesionalizar",
+	"participio" : [ "profesionalizado" ],
+	"gerundio" : [ "profesionalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "profesionalizo" ],
+			[ "profesionalizas", "profesionalizás" ],
+			[ "profesionaliza" ],
+			[ "profesionalizamos" ],
+			[ "profesionalizáis", "profesionalizan" ],
+			[ "profesionalizan" ]
+		],
+		"4" : [
+			[ "profesionalicé" ],
+			[ "profesionalizaste" ],
+			[ "profesionalizó" ],
+			[ "profesionalizamos" ],
+			[ "profesionalizasteis", "profesionalizaron" ],
+			[ "profesionalizaron" ]
+		],
+		"5" : [
+			[ "profesionalizaba" ],
+			[ "profesionalizabas" ],
+			[ "profesionalizaba" ],
+			[ "profesionalizábamos" ],
+			[ "profesionalizabais", "profesionalizaban" ],
+			[ "profesionalizaban" ]
+		],
+		"6" : [
+			[ "profesionalizaría" ],
+			[ "profesionalizarías" ],
+			[ "profesionalizaría" ],
+			[ "profesionalizaríamos" ],
+			[ "profesionalizaríais", "profesionalizarían" ],
+			[ "profesionalizarían" ]
+		],
+		"7" : [
+			[ "profesionalizaré" ],
+			[ "profesionalizarás" ],
+			[ "profesionalizará" ],
+			[ "profesionalizaremos" ],
+			[ "profesionalizaréis", "profesionalizarán" ],
+			[ "profesionalizarán" ]
+		],
+		"8" : [
+			[ "profesionalice" ],
+			[ "profesionalices" ],
+			[ "profesionalice" ],
+			[ "profesionalicemos" ],
+			[ "profesionalicéis", "profesionalicen" ],
+			[ "profesionalicen" ]
+		],
+		"9" : [
+			[ "profesionalizara" ],
+			[ "profesionalizaras" ],
+			[ "profesionalizara" ],
+			[ "profesionalizáramos" ],
+			[ "profesionalizarais", "profesionalizaran" ],
+			[ "profesionalizaran" ]
+		],
+		"10" : [
+			[ "profesionalizase" ],
+			[ "profesionalizases" ],
+			[ "profesionalizase" ],
+			[ "profesionalizásemos" ],
+			[ "profesionalizaseis", "profesionalizasen" ],
+			[ "profesionalizasen" ]
+		],
+		"11" : [
+			[ "profesionalizare" ],
+			[ "profesionalizares" ],
+			[ "profesionalizare" ],
+			[ "profesionalizáremos" ],
+			[ "profesionalizareis", "profesionalizaren" ],
+			[ "profesionalizaren" ]
+		],
+		"12" : {
+			"1" : [ "profesionaliza" ],
+			"2" : [ "profesionalice" ],
+			"3" : [ "profesionalicemos" ],
+			"4" : [ "profesionalizad" ],
+			"5" : [ "profesionalicen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adormir",
+	"word" : "adormir",
+	"infinitivo" : "adormir",
+	"participio" : [ "adormido" ],
+	"gerundio" : [ "adurmiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aduermo" ],
+			[ "aduermes", "adormís" ],
+			[ "aduerme" ],
+			[ "adormimos" ],
+			[ "adormís", "aduermen" ],
+			[ "aduermen" ]
+		],
+		"4" : [
+			[ "adormí" ],
+			[ "adormiste" ],
+			[ "adurmió" ],
+			[ "adormimos" ],
+			[ "adormisteis", "adurmieron" ],
+			[ "adurmieron" ]
+		],
+		"5" : [
+			[ "adormía" ],
+			[ "adormías" ],
+			[ "adormía" ],
+			[ "adormíamos" ],
+			[ "adormíais", "adormían" ],
+			[ "adormían" ]
+		],
+		"6" : [
+			[ "adormiría" ],
+			[ "adormirías" ],
+			[ "adormiría" ],
+			[ "adormiríamos" ],
+			[ "adormiríais", "adormirían" ],
+			[ "adormirían" ]
+		],
+		"7" : [
+			[ "adormiré" ],
+			[ "adormirás" ],
+			[ "adormirá" ],
+			[ "adormiremos" ],
+			[ "adormiréis", "adormirán" ],
+			[ "adormirán" ]
+		],
+		"8" : [
+			[ "aduerma" ],
+			[ "aduermas" ],
+			[ "aduerma" ],
+			[ "adurmamos" ],
+			[ "adurmáis", "aduerman" ],
+			[ "aduerman" ]
+		],
+		"9" : [
+			[ "adurmiera" ],
+			[ "adurmieras" ],
+			[ "adurmiera" ],
+			[ "adurmiéramos" ],
+			[ "adurmierais", "adurmieran" ],
+			[ "adurmieran" ]
+		],
+		"10" : [
+			[ "adurmiese" ],
+			[ "adurmieses" ],
+			[ "adurmiese" ],
+			[ "adurmiésemos" ],
+			[ "adurmieseis", "adurmiesen" ],
+			[ "adurmiesen" ]
+		],
+		"11" : [
+			[ "adurmiere" ],
+			[ "adurmieres" ],
+			[ "adurmiere" ],
+			[ "adurmiéremos" ],
+			[ "adurmiereis", "adurmieren" ],
+			[ "adurmieren" ]
+		],
+		"12" : {
+			"1" : [ "aduerme" ],
+			"2" : [ "aduerma" ],
+			"3" : [ "adurmamos" ],
+			"4" : [ "adormid" ],
+			"5" : [ "aduerman" ]
+		}
+	}
+}

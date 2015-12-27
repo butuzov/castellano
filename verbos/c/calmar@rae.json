@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=calmar",
+	"word" : "calmar",
+	"infinitivo" : "calmar",
+	"participio" : [ "calmado" ],
+	"gerundio" : [ "calmando" ],
+	"tenses" : {
+		"3" : [
+			[ "calmo" ],
+			[ "calmas", "calmás" ],
+			[ "calma" ],
+			[ "calmamos" ],
+			[ "calmáis", "calman" ],
+			[ "calman" ]
+		],
+		"4" : [
+			[ "calmé" ],
+			[ "calmaste" ],
+			[ "calmó" ],
+			[ "calmamos" ],
+			[ "calmasteis", "calmaron" ],
+			[ "calmaron" ]
+		],
+		"5" : [
+			[ "calmaba" ],
+			[ "calmabas" ],
+			[ "calmaba" ],
+			[ "calmábamos" ],
+			[ "calmabais", "calmaban" ],
+			[ "calmaban" ]
+		],
+		"6" : [
+			[ "calmaría" ],
+			[ "calmarías" ],
+			[ "calmaría" ],
+			[ "calmaríamos" ],
+			[ "calmaríais", "calmarían" ],
+			[ "calmarían" ]
+		],
+		"7" : [
+			[ "calmaré" ],
+			[ "calmarás" ],
+			[ "calmará" ],
+			[ "calmaremos" ],
+			[ "calmaréis", "calmarán" ],
+			[ "calmarán" ]
+		],
+		"8" : [
+			[ "calme" ],
+			[ "calmes" ],
+			[ "calme" ],
+			[ "calmemos" ],
+			[ "calméis", "calmen" ],
+			[ "calmen" ]
+		],
+		"9" : [
+			[ "calmara" ],
+			[ "calmaras" ],
+			[ "calmara" ],
+			[ "calmáramos" ],
+			[ "calmarais", "calmaran" ],
+			[ "calmaran" ]
+		],
+		"10" : [
+			[ "calmase" ],
+			[ "calmases" ],
+			[ "calmase" ],
+			[ "calmásemos" ],
+			[ "calmaseis", "calmasen" ],
+			[ "calmasen" ]
+		],
+		"11" : [
+			[ "calmare" ],
+			[ "calmares" ],
+			[ "calmare" ],
+			[ "calmáremos" ],
+			[ "calmareis", "calmaren" ],
+			[ "calmaren" ]
+		],
+		"12" : {
+			"1" : [ "calma" ],
+			"2" : [ "calme" ],
+			"3" : [ "calmemos" ],
+			"4" : [ "calmad" ],
+			"5" : [ "calmen" ]
+		}
+	}
+}

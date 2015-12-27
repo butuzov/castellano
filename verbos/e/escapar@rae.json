@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escapar",
+	"word" : "escapar",
+	"infinitivo" : "escapar",
+	"participio" : [ "escapado" ],
+	"gerundio" : [ "escapando" ],
+	"tenses" : {
+		"3" : [
+			[ "escapo" ],
+			[ "escapas", "escapás" ],
+			[ "escapa" ],
+			[ "escapamos" ],
+			[ "escapáis", "escapan" ],
+			[ "escapan" ]
+		],
+		"4" : [
+			[ "escapé" ],
+			[ "escapaste" ],
+			[ "escapó" ],
+			[ "escapamos" ],
+			[ "escapasteis", "escaparon" ],
+			[ "escaparon" ]
+		],
+		"5" : [
+			[ "escapaba" ],
+			[ "escapabas" ],
+			[ "escapaba" ],
+			[ "escapábamos" ],
+			[ "escapabais", "escapaban" ],
+			[ "escapaban" ]
+		],
+		"6" : [
+			[ "escaparía" ],
+			[ "escaparías" ],
+			[ "escaparía" ],
+			[ "escaparíamos" ],
+			[ "escaparíais", "escaparían" ],
+			[ "escaparían" ]
+		],
+		"7" : [
+			[ "escaparé" ],
+			[ "escaparás" ],
+			[ "escapará" ],
+			[ "escaparemos" ],
+			[ "escaparéis", "escaparán" ],
+			[ "escaparán" ]
+		],
+		"8" : [
+			[ "escape" ],
+			[ "escapes" ],
+			[ "escape" ],
+			[ "escapemos" ],
+			[ "escapéis", "escapen" ],
+			[ "escapen" ]
+		],
+		"9" : [
+			[ "escapara" ],
+			[ "escaparas" ],
+			[ "escapara" ],
+			[ "escapáramos" ],
+			[ "escaparais", "escaparan" ],
+			[ "escaparan" ]
+		],
+		"10" : [
+			[ "escapase" ],
+			[ "escapases" ],
+			[ "escapase" ],
+			[ "escapásemos" ],
+			[ "escapaseis", "escapasen" ],
+			[ "escapasen" ]
+		],
+		"11" : [
+			[ "escapare" ],
+			[ "escapares" ],
+			[ "escapare" ],
+			[ "escapáremos" ],
+			[ "escapareis", "escaparen" ],
+			[ "escaparen" ]
+		],
+		"12" : {
+			"1" : [ "escapa" ],
+			"2" : [ "escape" ],
+			"3" : [ "escapemos" ],
+			"4" : [ "escapad" ],
+			"5" : [ "escapen" ]
+		}
+	}
+}

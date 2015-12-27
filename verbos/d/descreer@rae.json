@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descreer",
+	"word" : "descreer",
+	"infinitivo" : "descreer",
+	"participio" : [ "descreído" ],
+	"gerundio" : [ "descreyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "descreo" ],
+			[ "descrees", "descreés" ],
+			[ "descree" ],
+			[ "descreemos" ],
+			[ "descreéis", "descreen" ],
+			[ "descreen" ]
+		],
+		"4" : [
+			[ "descreí" ],
+			[ "descreíste" ],
+			[ "descreyó" ],
+			[ "descreímos" ],
+			[ "descreísteis", "descreyeron" ],
+			[ "descreyeron" ]
+		],
+		"5" : [
+			[ "descreía" ],
+			[ "descreías" ],
+			[ "descreía" ],
+			[ "descreíamos" ],
+			[ "descreíais", "descreían" ],
+			[ "descreían" ]
+		],
+		"6" : [
+			[ "descreería" ],
+			[ "descreerías" ],
+			[ "descreería" ],
+			[ "descreeríamos" ],
+			[ "descreeríais", "descreerían" ],
+			[ "descreerían" ]
+		],
+		"7" : [
+			[ "descreeré" ],
+			[ "descreerás" ],
+			[ "descreerá" ],
+			[ "descreeremos" ],
+			[ "descreeréis", "descreerán" ],
+			[ "descreerán" ]
+		],
+		"8" : [
+			[ "descrea" ],
+			[ "descreas" ],
+			[ "descrea" ],
+			[ "descreamos" ],
+			[ "descreáis", "descrean" ],
+			[ "descrean" ]
+		],
+		"9" : [
+			[ "descreyera" ],
+			[ "descreyeras" ],
+			[ "descreyera" ],
+			[ "descreyéramos" ],
+			[ "descreyerais", "descreyeran" ],
+			[ "descreyeran" ]
+		],
+		"10" : [
+			[ "descreyese" ],
+			[ "descreyeses" ],
+			[ "descreyese" ],
+			[ "descreyésemos" ],
+			[ "descreyeseis", "descreyesen" ],
+			[ "descreyesen" ]
+		],
+		"11" : [
+			[ "descreyere" ],
+			[ "descreyeres" ],
+			[ "descreyere" ],
+			[ "descreyéremos" ],
+			[ "descreyereis", "descreyeren" ],
+			[ "descreyeren" ]
+		],
+		"12" : {
+			"1" : [ "descree" ],
+			"2" : [ "descrea" ],
+			"3" : [ "descreamos" ],
+			"4" : [ "descreed" ],
+			"5" : [ "descrean" ]
+		}
+	}
+}

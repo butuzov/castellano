@@ -1,0 +1,73 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrecir",
+	"word" : "arrecir",
+	"infinitivo" : "arrecir",
+	"participio" : [ "arrecido" ],
+	"gerundio" : [ "arreciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "arrecís" ],
+			[ "arrecimos" ],
+			[ "arrecís", "" ]
+		],
+		"4" : [
+			[ "arrecí" ],
+			[ "arreciste" ],
+			[ "arreció" ],
+			[ "arrecimos" ],
+			[ "arrecisteis", "arrecieron" ],
+			[ "arrecieron" ]
+		],
+		"5" : [
+			[ "arrecía" ],
+			[ "arrecías" ],
+			[ "arrecía" ],
+			[ "arrecíamos" ],
+			[ "arrecíais", "arrecían" ],
+			[ "arrecían" ]
+		],
+		"6" : [
+			[ "arreciría" ],
+			[ "arrecirías" ],
+			[ "arreciría" ],
+			[ "arreciríamos" ],
+			[ "arreciríais", "arrecirían" ],
+			[ "arrecirían" ]
+		],
+		"7" : [
+			[ "arreciré" ],
+			[ "arrecirás" ],
+			[ "arrecirá" ],
+			[ "arreciremos" ],
+			[ "arreciréis", "arrecirán" ],
+			[ "arrecirán" ]
+		],
+		"9" : [
+			[ "arreciera" ],
+			[ "arrecieras" ],
+			[ "arreciera" ],
+			[ "arreciéramos" ],
+			[ "arrecierais", "arrecieran" ],
+			[ "arrecieran" ]
+		],
+		"10" : [
+			[ "arreciese" ],
+			[ "arrecieses" ],
+			[ "arreciese" ],
+			[ "arreciésemos" ],
+			[ "arrecieseis", "arreciesen" ],
+			[ "arreciesen" ]
+		],
+		"11" : [
+			[ "arreciere" ],
+			[ "arrecieres" ],
+			[ "arreciere" ],
+			[ "arreciéremos" ],
+			[ "arreciereis", "arrecieren" ],
+			[ "arrecieren" ]
+		],
+		"12" : {
+			"1" : [ "arrecí" ]
+		}
+	}
+}

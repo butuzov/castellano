@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recalar",
+	"word" : "recalar",
+	"infinitivo" : "recalar",
+	"participio" : [ "recalado" ],
+	"gerundio" : [ "recalando" ],
+	"tenses" : {
+		"3" : [
+			[ "recalo" ],
+			[ "recalas", "recalás" ],
+			[ "recala" ],
+			[ "recalamos" ],
+			[ "recaláis", "recalan" ],
+			[ "recalan" ]
+		],
+		"4" : [
+			[ "recalé" ],
+			[ "recalaste" ],
+			[ "recaló" ],
+			[ "recalamos" ],
+			[ "recalasteis", "recalaron" ],
+			[ "recalaron" ]
+		],
+		"5" : [
+			[ "recalaba" ],
+			[ "recalabas" ],
+			[ "recalaba" ],
+			[ "recalábamos" ],
+			[ "recalabais", "recalaban" ],
+			[ "recalaban" ]
+		],
+		"6" : [
+			[ "recalaría" ],
+			[ "recalarías" ],
+			[ "recalaría" ],
+			[ "recalaríamos" ],
+			[ "recalaríais", "recalarían" ],
+			[ "recalarían" ]
+		],
+		"7" : [
+			[ "recalaré" ],
+			[ "recalarás" ],
+			[ "recalará" ],
+			[ "recalaremos" ],
+			[ "recalaréis", "recalarán" ],
+			[ "recalarán" ]
+		],
+		"8" : [
+			[ "recale" ],
+			[ "recales" ],
+			[ "recale" ],
+			[ "recalemos" ],
+			[ "recaléis", "recalen" ],
+			[ "recalen" ]
+		],
+		"9" : [
+			[ "recalara" ],
+			[ "recalaras" ],
+			[ "recalara" ],
+			[ "recaláramos" ],
+			[ "recalarais", "recalaran" ],
+			[ "recalaran" ]
+		],
+		"10" : [
+			[ "recalase" ],
+			[ "recalases" ],
+			[ "recalase" ],
+			[ "recalásemos" ],
+			[ "recalaseis", "recalasen" ],
+			[ "recalasen" ]
+		],
+		"11" : [
+			[ "recalare" ],
+			[ "recalares" ],
+			[ "recalare" ],
+			[ "recaláremos" ],
+			[ "recalareis", "recalaren" ],
+			[ "recalaren" ]
+		],
+		"12" : {
+			"1" : [ "recala" ],
+			"2" : [ "recale" ],
+			"3" : [ "recalemos" ],
+			"4" : [ "recalad" ],
+			"5" : [ "recalen" ]
+		}
+	}
+}

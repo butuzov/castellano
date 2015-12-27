@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asesinar",
+	"word" : "asesinar",
+	"infinitivo" : "asesinar",
+	"participio" : [ "asesinado" ],
+	"gerundio" : [ "asesinando" ],
+	"tenses" : {
+		"3" : [
+			[ "asesino" ],
+			[ "asesinas", "asesinás" ],
+			[ "asesina" ],
+			[ "asesinamos" ],
+			[ "asesináis", "asesinan" ],
+			[ "asesinan" ]
+		],
+		"4" : [
+			[ "asesiné" ],
+			[ "asesinaste" ],
+			[ "asesinó" ],
+			[ "asesinamos" ],
+			[ "asesinasteis", "asesinaron" ],
+			[ "asesinaron" ]
+		],
+		"5" : [
+			[ "asesinaba" ],
+			[ "asesinabas" ],
+			[ "asesinaba" ],
+			[ "asesinábamos" ],
+			[ "asesinabais", "asesinaban" ],
+			[ "asesinaban" ]
+		],
+		"6" : [
+			[ "asesinaría" ],
+			[ "asesinarías" ],
+			[ "asesinaría" ],
+			[ "asesinaríamos" ],
+			[ "asesinaríais", "asesinarían" ],
+			[ "asesinarían" ]
+		],
+		"7" : [
+			[ "asesinaré" ],
+			[ "asesinarás" ],
+			[ "asesinará" ],
+			[ "asesinaremos" ],
+			[ "asesinaréis", "asesinarán" ],
+			[ "asesinarán" ]
+		],
+		"8" : [
+			[ "asesine" ],
+			[ "asesines" ],
+			[ "asesine" ],
+			[ "asesinemos" ],
+			[ "asesinéis", "asesinen" ],
+			[ "asesinen" ]
+		],
+		"9" : [
+			[ "asesinara" ],
+			[ "asesinaras" ],
+			[ "asesinara" ],
+			[ "asesináramos" ],
+			[ "asesinarais", "asesinaran" ],
+			[ "asesinaran" ]
+		],
+		"10" : [
+			[ "asesinase" ],
+			[ "asesinases" ],
+			[ "asesinase" ],
+			[ "asesinásemos" ],
+			[ "asesinaseis", "asesinasen" ],
+			[ "asesinasen" ]
+		],
+		"11" : [
+			[ "asesinare" ],
+			[ "asesinares" ],
+			[ "asesinare" ],
+			[ "asesináremos" ],
+			[ "asesinareis", "asesinaren" ],
+			[ "asesinaren" ]
+		],
+		"12" : {
+			"1" : [ "asesina" ],
+			"2" : [ "asesine" ],
+			"3" : [ "asesinemos" ],
+			"4" : [ "asesinad" ],
+			"5" : [ "asesinen" ]
+		}
+	}
+}

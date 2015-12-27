@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repicar",
+	"word" : "repicar",
+	"infinitivo" : "repicar",
+	"participio" : [ "repicado" ],
+	"gerundio" : [ "repicando" ],
+	"tenses" : {
+		"3" : [
+			[ "repico" ],
+			[ "repicas", "repicás" ],
+			[ "repica" ],
+			[ "repicamos" ],
+			[ "repicáis", "repican" ],
+			[ "repican" ]
+		],
+		"4" : [
+			[ "repiqué" ],
+			[ "repicaste" ],
+			[ "repicó" ],
+			[ "repicamos" ],
+			[ "repicasteis", "repicaron" ],
+			[ "repicaron" ]
+		],
+		"5" : [
+			[ "repicaba" ],
+			[ "repicabas" ],
+			[ "repicaba" ],
+			[ "repicábamos" ],
+			[ "repicabais", "repicaban" ],
+			[ "repicaban" ]
+		],
+		"6" : [
+			[ "repicaría" ],
+			[ "repicarías" ],
+			[ "repicaría" ],
+			[ "repicaríamos" ],
+			[ "repicaríais", "repicarían" ],
+			[ "repicarían" ]
+		],
+		"7" : [
+			[ "repicaré" ],
+			[ "repicarás" ],
+			[ "repicará" ],
+			[ "repicaremos" ],
+			[ "repicaréis", "repicarán" ],
+			[ "repicarán" ]
+		],
+		"8" : [
+			[ "repique" ],
+			[ "repiques" ],
+			[ "repique" ],
+			[ "repiquemos" ],
+			[ "repiquéis", "repiquen" ],
+			[ "repiquen" ]
+		],
+		"9" : [
+			[ "repicara" ],
+			[ "repicaras" ],
+			[ "repicara" ],
+			[ "repicáramos" ],
+			[ "repicarais", "repicaran" ],
+			[ "repicaran" ]
+		],
+		"10" : [
+			[ "repicase" ],
+			[ "repicases" ],
+			[ "repicase" ],
+			[ "repicásemos" ],
+			[ "repicaseis", "repicasen" ],
+			[ "repicasen" ]
+		],
+		"11" : [
+			[ "repicare" ],
+			[ "repicares" ],
+			[ "repicare" ],
+			[ "repicáremos" ],
+			[ "repicareis", "repicaren" ],
+			[ "repicaren" ]
+		],
+		"12" : {
+			"1" : [ "repica" ],
+			"2" : [ "repique" ],
+			"3" : [ "repiquemos" ],
+			"4" : [ "repicad" ],
+			"5" : [ "repiquen" ]
+		}
+	}
+}

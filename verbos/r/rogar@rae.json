@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rogar",
+	"word" : "rogar",
+	"infinitivo" : "rogar",
+	"participio" : [ "rogado" ],
+	"gerundio" : [ "rogando" ],
+	"tenses" : {
+		"3" : [
+			[ "ruego" ],
+			[ "ruegas", "rogás" ],
+			[ "ruega" ],
+			[ "rogamos" ],
+			[ "rogáis", "ruegan" ],
+			[ "ruegan" ]
+		],
+		"4" : [
+			[ "rogué" ],
+			[ "rogaste" ],
+			[ "rogó" ],
+			[ "rogamos" ],
+			[ "rogasteis", "rogaron" ],
+			[ "rogaron" ]
+		],
+		"5" : [
+			[ "rogaba" ],
+			[ "rogabas" ],
+			[ "rogaba" ],
+			[ "rogábamos" ],
+			[ "rogabais", "rogaban" ],
+			[ "rogaban" ]
+		],
+		"6" : [
+			[ "rogaría" ],
+			[ "rogarías" ],
+			[ "rogaría" ],
+			[ "rogaríamos" ],
+			[ "rogaríais", "rogarían" ],
+			[ "rogarían" ]
+		],
+		"7" : [
+			[ "rogaré" ],
+			[ "rogarás" ],
+			[ "rogará" ],
+			[ "rogaremos" ],
+			[ "rogaréis", "rogarán" ],
+			[ "rogarán" ]
+		],
+		"8" : [
+			[ "ruegue" ],
+			[ "ruegues" ],
+			[ "ruegue" ],
+			[ "roguemos" ],
+			[ "roguéis", "rueguen" ],
+			[ "rueguen" ]
+		],
+		"9" : [
+			[ "rogara" ],
+			[ "rogaras" ],
+			[ "rogara" ],
+			[ "rogáramos" ],
+			[ "rogarais", "rogaran" ],
+			[ "rogaran" ]
+		],
+		"10" : [
+			[ "rogase" ],
+			[ "rogases" ],
+			[ "rogase" ],
+			[ "rogásemos" ],
+			[ "rogaseis", "rogasen" ],
+			[ "rogasen" ]
+		],
+		"11" : [
+			[ "rogare" ],
+			[ "rogares" ],
+			[ "rogare" ],
+			[ "rogáremos" ],
+			[ "rogareis", "rogaren" ],
+			[ "rogaren" ]
+		],
+		"12" : {
+			"1" : [ "ruega" ],
+			"2" : [ "ruegue" ],
+			"3" : [ "roguemos" ],
+			"4" : [ "rogad" ],
+			"5" : [ "rueguen" ]
+		}
+	}
+}

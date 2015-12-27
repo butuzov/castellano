@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enconar",
+	"word" : "enconar",
+	"infinitivo" : "enconar",
+	"participio" : [ "enconado" ],
+	"gerundio" : [ "enconando" ],
+	"tenses" : {
+		"3" : [
+			[ "encono" ],
+			[ "enconas", "enconás" ],
+			[ "encona" ],
+			[ "enconamos" ],
+			[ "enconáis", "enconan" ],
+			[ "enconan" ]
+		],
+		"4" : [
+			[ "enconé" ],
+			[ "enconaste" ],
+			[ "enconó" ],
+			[ "enconamos" ],
+			[ "enconasteis", "enconaron" ],
+			[ "enconaron" ]
+		],
+		"5" : [
+			[ "enconaba" ],
+			[ "enconabas" ],
+			[ "enconaba" ],
+			[ "enconábamos" ],
+			[ "enconabais", "enconaban" ],
+			[ "enconaban" ]
+		],
+		"6" : [
+			[ "enconaría" ],
+			[ "enconarías" ],
+			[ "enconaría" ],
+			[ "enconaríamos" ],
+			[ "enconaríais", "enconarían" ],
+			[ "enconarían" ]
+		],
+		"7" : [
+			[ "enconaré" ],
+			[ "enconarás" ],
+			[ "enconará" ],
+			[ "enconaremos" ],
+			[ "enconaréis", "enconarán" ],
+			[ "enconarán" ]
+		],
+		"8" : [
+			[ "encone" ],
+			[ "encones" ],
+			[ "encone" ],
+			[ "enconemos" ],
+			[ "enconéis", "enconen" ],
+			[ "enconen" ]
+		],
+		"9" : [
+			[ "enconara" ],
+			[ "enconaras" ],
+			[ "enconara" ],
+			[ "enconáramos" ],
+			[ "enconarais", "enconaran" ],
+			[ "enconaran" ]
+		],
+		"10" : [
+			[ "enconase" ],
+			[ "enconases" ],
+			[ "enconase" ],
+			[ "enconásemos" ],
+			[ "enconaseis", "enconasen" ],
+			[ "enconasen" ]
+		],
+		"11" : [
+			[ "enconare" ],
+			[ "enconares" ],
+			[ "enconare" ],
+			[ "enconáremos" ],
+			[ "enconareis", "enconaren" ],
+			[ "enconaren" ]
+		],
+		"12" : {
+			"1" : [ "encona" ],
+			"2" : [ "encone" ],
+			"3" : [ "enconemos" ],
+			"4" : [ "enconad" ],
+			"5" : [ "enconen" ]
+		}
+	}
+}

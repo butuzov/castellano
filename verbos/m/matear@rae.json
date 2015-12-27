@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=matear",
+	"word" : "matear",
+	"infinitivo" : "matear",
+	"participio" : [ "mateado" ],
+	"gerundio" : [ "mateando" ],
+	"tenses" : {
+		"3" : [
+			[ "mateo" ],
+			[ "mateas", "mateás" ],
+			[ "matea" ],
+			[ "mateamos" ],
+			[ "mateáis", "matean" ],
+			[ "matean" ]
+		],
+		"4" : [
+			[ "mateé" ],
+			[ "mateaste" ],
+			[ "mateó" ],
+			[ "mateamos" ],
+			[ "mateasteis", "matearon" ],
+			[ "matearon" ]
+		],
+		"5" : [
+			[ "mateaba" ],
+			[ "mateabas" ],
+			[ "mateaba" ],
+			[ "mateábamos" ],
+			[ "mateabais", "mateaban" ],
+			[ "mateaban" ]
+		],
+		"6" : [
+			[ "matearía" ],
+			[ "matearías" ],
+			[ "matearía" ],
+			[ "matearíamos" ],
+			[ "matearíais", "matearían" ],
+			[ "matearían" ]
+		],
+		"7" : [
+			[ "matearé" ],
+			[ "matearás" ],
+			[ "mateará" ],
+			[ "matearemos" ],
+			[ "matearéis", "matearán" ],
+			[ "matearán" ]
+		],
+		"8" : [
+			[ "matee" ],
+			[ "matees" ],
+			[ "matee" ],
+			[ "mateemos" ],
+			[ "mateéis", "mateen" ],
+			[ "mateen" ]
+		],
+		"9" : [
+			[ "mateara" ],
+			[ "matearas" ],
+			[ "mateara" ],
+			[ "mateáramos" ],
+			[ "matearais", "matearan" ],
+			[ "matearan" ]
+		],
+		"10" : [
+			[ "matease" ],
+			[ "mateases" ],
+			[ "matease" ],
+			[ "mateásemos" ],
+			[ "mateaseis", "mateasen" ],
+			[ "mateasen" ]
+		],
+		"11" : [
+			[ "mateare" ],
+			[ "mateares" ],
+			[ "mateare" ],
+			[ "mateáremos" ],
+			[ "mateareis", "matearen" ],
+			[ "matearen" ]
+		],
+		"12" : {
+			"1" : [ "matea" ],
+			"2" : [ "matee" ],
+			"3" : [ "mateemos" ],
+			"4" : [ "matead" ],
+			"5" : [ "mateen" ]
+		}
+	}
+}

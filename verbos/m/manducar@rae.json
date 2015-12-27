@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=manducar",
+	"word" : "manducar",
+	"infinitivo" : "manducar",
+	"participio" : [ "manducado" ],
+	"gerundio" : [ "manducando" ],
+	"tenses" : {
+		"3" : [
+			[ "manduco" ],
+			[ "manducas", "manducás" ],
+			[ "manduca" ],
+			[ "manducamos" ],
+			[ "manducáis", "manducan" ],
+			[ "manducan" ]
+		],
+		"4" : [
+			[ "manduqué" ],
+			[ "manducaste" ],
+			[ "manducó" ],
+			[ "manducamos" ],
+			[ "manducasteis", "manducaron" ],
+			[ "manducaron" ]
+		],
+		"5" : [
+			[ "manducaba" ],
+			[ "manducabas" ],
+			[ "manducaba" ],
+			[ "manducábamos" ],
+			[ "manducabais", "manducaban" ],
+			[ "manducaban" ]
+		],
+		"6" : [
+			[ "manducaría" ],
+			[ "manducarías" ],
+			[ "manducaría" ],
+			[ "manducaríamos" ],
+			[ "manducaríais", "manducarían" ],
+			[ "manducarían" ]
+		],
+		"7" : [
+			[ "manducaré" ],
+			[ "manducarás" ],
+			[ "manducará" ],
+			[ "manducaremos" ],
+			[ "manducaréis", "manducarán" ],
+			[ "manducarán" ]
+		],
+		"8" : [
+			[ "manduque" ],
+			[ "manduques" ],
+			[ "manduque" ],
+			[ "manduquemos" ],
+			[ "manduquéis", "manduquen" ],
+			[ "manduquen" ]
+		],
+		"9" : [
+			[ "manducara" ],
+			[ "manducaras" ],
+			[ "manducara" ],
+			[ "manducáramos" ],
+			[ "manducarais", "manducaran" ],
+			[ "manducaran" ]
+		],
+		"10" : [
+			[ "manducase" ],
+			[ "manducases" ],
+			[ "manducase" ],
+			[ "manducásemos" ],
+			[ "manducaseis", "manducasen" ],
+			[ "manducasen" ]
+		],
+		"11" : [
+			[ "manducare" ],
+			[ "manducares" ],
+			[ "manducare" ],
+			[ "manducáremos" ],
+			[ "manducareis", "manducaren" ],
+			[ "manducaren" ]
+		],
+		"12" : {
+			"1" : [ "manduca" ],
+			"2" : [ "manduque" ],
+			"3" : [ "manduquemos" ],
+			"4" : [ "manducad" ],
+			"5" : [ "manduquen" ]
+		}
+	}
+}

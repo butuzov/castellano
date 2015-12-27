@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apostillar",
+	"word" : "apostillar",
+	"infinitivo" : "apostillar",
+	"participio" : [ "apostillado" ],
+	"gerundio" : [ "apostillando" ],
+	"tenses" : {
+		"3" : [
+			[ "apostillo" ],
+			[ "apostillas", "apostillás" ],
+			[ "apostilla" ],
+			[ "apostillamos" ],
+			[ "apostilláis", "apostillan" ],
+			[ "apostillan" ]
+		],
+		"4" : [
+			[ "apostillé" ],
+			[ "apostillaste" ],
+			[ "apostilló" ],
+			[ "apostillamos" ],
+			[ "apostillasteis", "apostillaron" ],
+			[ "apostillaron" ]
+		],
+		"5" : [
+			[ "apostillaba" ],
+			[ "apostillabas" ],
+			[ "apostillaba" ],
+			[ "apostillábamos" ],
+			[ "apostillabais", "apostillaban" ],
+			[ "apostillaban" ]
+		],
+		"6" : [
+			[ "apostillaría" ],
+			[ "apostillarías" ],
+			[ "apostillaría" ],
+			[ "apostillaríamos" ],
+			[ "apostillaríais", "apostillarían" ],
+			[ "apostillarían" ]
+		],
+		"7" : [
+			[ "apostillaré" ],
+			[ "apostillarás" ],
+			[ "apostillará" ],
+			[ "apostillaremos" ],
+			[ "apostillaréis", "apostillarán" ],
+			[ "apostillarán" ]
+		],
+		"8" : [
+			[ "apostille" ],
+			[ "apostilles" ],
+			[ "apostille" ],
+			[ "apostillemos" ],
+			[ "apostilléis", "apostillen" ],
+			[ "apostillen" ]
+		],
+		"9" : [
+			[ "apostillara" ],
+			[ "apostillaras" ],
+			[ "apostillara" ],
+			[ "apostilláramos" ],
+			[ "apostillarais", "apostillaran" ],
+			[ "apostillaran" ]
+		],
+		"10" : [
+			[ "apostillase" ],
+			[ "apostillases" ],
+			[ "apostillase" ],
+			[ "apostillásemos" ],
+			[ "apostillaseis", "apostillasen" ],
+			[ "apostillasen" ]
+		],
+		"11" : [
+			[ "apostillare" ],
+			[ "apostillares" ],
+			[ "apostillare" ],
+			[ "apostilláremos" ],
+			[ "apostillareis", "apostillaren" ],
+			[ "apostillaren" ]
+		],
+		"12" : {
+			"1" : [ "apostilla" ],
+			"2" : [ "apostille" ],
+			"3" : [ "apostillemos" ],
+			"4" : [ "apostillad" ],
+			"5" : [ "apostillen" ]
+		}
+	}
+}

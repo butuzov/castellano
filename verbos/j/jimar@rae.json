@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=jimar",
+	"word" : "jimar",
+	"infinitivo" : "jimar",
+	"participio" : [ "jimado" ],
+	"gerundio" : [ "jimando" ],
+	"tenses" : {
+		"3" : [
+			[ "jimo" ],
+			[ "jimas", "jimás" ],
+			[ "jima" ],
+			[ "jimamos" ],
+			[ "jimáis", "jiman" ],
+			[ "jiman" ]
+		],
+		"4" : [
+			[ "jimé" ],
+			[ "jimaste" ],
+			[ "jimó" ],
+			[ "jimamos" ],
+			[ "jimasteis", "jimaron" ],
+			[ "jimaron" ]
+		],
+		"5" : [
+			[ "jimaba" ],
+			[ "jimabas" ],
+			[ "jimaba" ],
+			[ "jimábamos" ],
+			[ "jimabais", "jimaban" ],
+			[ "jimaban" ]
+		],
+		"6" : [
+			[ "jimaría" ],
+			[ "jimarías" ],
+			[ "jimaría" ],
+			[ "jimaríamos" ],
+			[ "jimaríais", "jimarían" ],
+			[ "jimarían" ]
+		],
+		"7" : [
+			[ "jimaré" ],
+			[ "jimarás" ],
+			[ "jimará" ],
+			[ "jimaremos" ],
+			[ "jimaréis", "jimarán" ],
+			[ "jimarán" ]
+		],
+		"8" : [
+			[ "jime" ],
+			[ "jimes" ],
+			[ "jime" ],
+			[ "jimemos" ],
+			[ "jiméis", "jimen" ],
+			[ "jimen" ]
+		],
+		"9" : [
+			[ "jimara" ],
+			[ "jimaras" ],
+			[ "jimara" ],
+			[ "jimáramos" ],
+			[ "jimarais", "jimaran" ],
+			[ "jimaran" ]
+		],
+		"10" : [
+			[ "jimase" ],
+			[ "jimases" ],
+			[ "jimase" ],
+			[ "jimásemos" ],
+			[ "jimaseis", "jimasen" ],
+			[ "jimasen" ]
+		],
+		"11" : [
+			[ "jimare" ],
+			[ "jimares" ],
+			[ "jimare" ],
+			[ "jimáremos" ],
+			[ "jimareis", "jimaren" ],
+			[ "jimaren" ]
+		],
+		"12" : {
+			"1" : [ "jima" ],
+			"2" : [ "jime" ],
+			"3" : [ "jimemos" ],
+			"4" : [ "jimad" ],
+			"5" : [ "jimen" ]
+		}
+	}
+}

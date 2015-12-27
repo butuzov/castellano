@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=evadir",
+	"word" : "evadir",
+	"infinitivo" : "evadir",
+	"participio" : [ "evadido" ],
+	"gerundio" : [ "evadiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "evado" ],
+			[ "evades", "evadís" ],
+			[ "evade" ],
+			[ "evadimos" ],
+			[ "evadís", "evaden" ],
+			[ "evaden" ]
+		],
+		"4" : [
+			[ "evadí" ],
+			[ "evadiste" ],
+			[ "evadió" ],
+			[ "evadimos" ],
+			[ "evadisteis", "evadieron" ],
+			[ "evadieron" ]
+		],
+		"5" : [
+			[ "evadía" ],
+			[ "evadías" ],
+			[ "evadía" ],
+			[ "evadíamos" ],
+			[ "evadíais", "evadían" ],
+			[ "evadían" ]
+		],
+		"6" : [
+			[ "evadiría" ],
+			[ "evadirías" ],
+			[ "evadiría" ],
+			[ "evadiríamos" ],
+			[ "evadiríais", "evadirían" ],
+			[ "evadirían" ]
+		],
+		"7" : [
+			[ "evadiré" ],
+			[ "evadirás" ],
+			[ "evadirá" ],
+			[ "evadiremos" ],
+			[ "evadiréis", "evadirán" ],
+			[ "evadirán" ]
+		],
+		"8" : [
+			[ "evada" ],
+			[ "evadas" ],
+			[ "evada" ],
+			[ "evadamos" ],
+			[ "evadáis", "evadan" ],
+			[ "evadan" ]
+		],
+		"9" : [
+			[ "evadiera" ],
+			[ "evadieras" ],
+			[ "evadiera" ],
+			[ "evadiéramos" ],
+			[ "evadierais", "evadieran" ],
+			[ "evadieran" ]
+		],
+		"10" : [
+			[ "evadiese" ],
+			[ "evadieses" ],
+			[ "evadiese" ],
+			[ "evadiésemos" ],
+			[ "evadieseis", "evadiesen" ],
+			[ "evadiesen" ]
+		],
+		"11" : [
+			[ "evadiere" ],
+			[ "evadieres" ],
+			[ "evadiere" ],
+			[ "evadiéremos" ],
+			[ "evadiereis", "evadieren" ],
+			[ "evadieren" ]
+		],
+		"12" : {
+			"1" : [ "evade" ],
+			"2" : [ "evada" ],
+			"3" : [ "evadamos" ],
+			"4" : [ "evadid" ],
+			"5" : [ "evadan" ]
+		}
+	}
+}

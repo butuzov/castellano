@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mamar",
+	"word" : "mamar",
+	"infinitivo" : "mamar",
+	"participio" : [ "mamado" ],
+	"gerundio" : [ "mamando" ],
+	"tenses" : {
+		"3" : [
+			[ "mamo" ],
+			[ "mamas", "mamás" ],
+			[ "mama" ],
+			[ "mamamos" ],
+			[ "mamáis", "maman" ],
+			[ "maman" ]
+		],
+		"4" : [
+			[ "mamé" ],
+			[ "mamaste" ],
+			[ "mamó" ],
+			[ "mamamos" ],
+			[ "mamasteis", "mamaron" ],
+			[ "mamaron" ]
+		],
+		"5" : [
+			[ "mamaba" ],
+			[ "mamabas" ],
+			[ "mamaba" ],
+			[ "mamábamos" ],
+			[ "mamabais", "mamaban" ],
+			[ "mamaban" ]
+		],
+		"6" : [
+			[ "mamaría" ],
+			[ "mamarías" ],
+			[ "mamaría" ],
+			[ "mamaríamos" ],
+			[ "mamaríais", "mamarían" ],
+			[ "mamarían" ]
+		],
+		"7" : [
+			[ "mamaré" ],
+			[ "mamarás" ],
+			[ "mamará" ],
+			[ "mamaremos" ],
+			[ "mamaréis", "mamarán" ],
+			[ "mamarán" ]
+		],
+		"8" : [
+			[ "mame" ],
+			[ "mames" ],
+			[ "mame" ],
+			[ "mamemos" ],
+			[ "maméis", "mamen" ],
+			[ "mamen" ]
+		],
+		"9" : [
+			[ "mamara" ],
+			[ "mamaras" ],
+			[ "mamara" ],
+			[ "mamáramos" ],
+			[ "mamarais", "mamaran" ],
+			[ "mamaran" ]
+		],
+		"10" : [
+			[ "mamase" ],
+			[ "mamases" ],
+			[ "mamase" ],
+			[ "mamásemos" ],
+			[ "mamaseis", "mamasen" ],
+			[ "mamasen" ]
+		],
+		"11" : [
+			[ "mamare" ],
+			[ "mamares" ],
+			[ "mamare" ],
+			[ "mamáremos" ],
+			[ "mamareis", "mamaren" ],
+			[ "mamaren" ]
+		],
+		"12" : {
+			"1" : [ "mama" ],
+			"2" : [ "mame" ],
+			"3" : [ "mamemos" ],
+			"4" : [ "mamad" ],
+			"5" : [ "mamen" ]
+		}
+	}
+}

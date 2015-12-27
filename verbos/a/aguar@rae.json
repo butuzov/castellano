@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aguar",
+	"word" : "aguar",
+	"infinitivo" : "aguar",
+	"participio" : [ "aguado" ],
+	"gerundio" : [ "aguando" ],
+	"tenses" : {
+		"3" : [
+			[ "aguo" ],
+			[ "aguas", "aguás" ],
+			[ "agua" ],
+			[ "aguamos" ],
+			[ "aguáis", "aguan" ],
+			[ "aguan" ]
+		],
+		"4" : [
+			[ "agüé" ],
+			[ "aguaste" ],
+			[ "aguó" ],
+			[ "aguamos" ],
+			[ "aguasteis", "aguaron" ],
+			[ "aguaron" ]
+		],
+		"5" : [
+			[ "aguaba" ],
+			[ "aguabas" ],
+			[ "aguaba" ],
+			[ "aguábamos" ],
+			[ "aguabais", "aguaban" ],
+			[ "aguaban" ]
+		],
+		"6" : [
+			[ "aguaría" ],
+			[ "aguarías" ],
+			[ "aguaría" ],
+			[ "aguaríamos" ],
+			[ "aguaríais", "aguarían" ],
+			[ "aguarían" ]
+		],
+		"7" : [
+			[ "aguaré" ],
+			[ "aguarás" ],
+			[ "aguará" ],
+			[ "aguaremos" ],
+			[ "aguaréis", "aguarán" ],
+			[ "aguarán" ]
+		],
+		"8" : [
+			[ "agüe" ],
+			[ "agües" ],
+			[ "agüe" ],
+			[ "agüemos" ],
+			[ "agüéis", "agüen" ],
+			[ "agüen" ]
+		],
+		"9" : [
+			[ "aguara" ],
+			[ "aguaras" ],
+			[ "aguara" ],
+			[ "aguáramos" ],
+			[ "aguarais", "aguaran" ],
+			[ "aguaran" ]
+		],
+		"10" : [
+			[ "aguase" ],
+			[ "aguases" ],
+			[ "aguase" ],
+			[ "aguásemos" ],
+			[ "aguaseis", "aguasen" ],
+			[ "aguasen" ]
+		],
+		"11" : [
+			[ "aguare" ],
+			[ "aguares" ],
+			[ "aguare" ],
+			[ "aguáremos" ],
+			[ "aguareis", "aguaren" ],
+			[ "aguaren" ]
+		],
+		"12" : {
+			"1" : [ "agua" ],
+			"2" : [ "agüe" ],
+			"3" : [ "agüemos" ],
+			"4" : [ "aguad" ],
+			"5" : [ "agüen" ]
+		}
+	}
+}

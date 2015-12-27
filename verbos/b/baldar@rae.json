@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=baldar",
+	"word" : "baldar",
+	"infinitivo" : "baldar",
+	"participio" : [ "baldado" ],
+	"gerundio" : [ "baldando" ],
+	"tenses" : {
+		"3" : [
+			[ "baldo" ],
+			[ "baldas", "baldás" ],
+			[ "balda" ],
+			[ "baldamos" ],
+			[ "baldáis", "baldan" ],
+			[ "baldan" ]
+		],
+		"4" : [
+			[ "baldé" ],
+			[ "baldaste" ],
+			[ "baldó" ],
+			[ "baldamos" ],
+			[ "baldasteis", "baldaron" ],
+			[ "baldaron" ]
+		],
+		"5" : [
+			[ "baldaba" ],
+			[ "baldabas" ],
+			[ "baldaba" ],
+			[ "baldábamos" ],
+			[ "baldabais", "baldaban" ],
+			[ "baldaban" ]
+		],
+		"6" : [
+			[ "baldaría" ],
+			[ "baldarías" ],
+			[ "baldaría" ],
+			[ "baldaríamos" ],
+			[ "baldaríais", "baldarían" ],
+			[ "baldarían" ]
+		],
+		"7" : [
+			[ "baldaré" ],
+			[ "baldarás" ],
+			[ "baldará" ],
+			[ "baldaremos" ],
+			[ "baldaréis", "baldarán" ],
+			[ "baldarán" ]
+		],
+		"8" : [
+			[ "balde" ],
+			[ "baldes" ],
+			[ "balde" ],
+			[ "baldemos" ],
+			[ "baldéis", "balden" ],
+			[ "balden" ]
+		],
+		"9" : [
+			[ "baldara" ],
+			[ "baldaras" ],
+			[ "baldara" ],
+			[ "baldáramos" ],
+			[ "baldarais", "baldaran" ],
+			[ "baldaran" ]
+		],
+		"10" : [
+			[ "baldase" ],
+			[ "baldases" ],
+			[ "baldase" ],
+			[ "baldásemos" ],
+			[ "baldaseis", "baldasen" ],
+			[ "baldasen" ]
+		],
+		"11" : [
+			[ "baldare" ],
+			[ "baldares" ],
+			[ "baldare" ],
+			[ "baldáremos" ],
+			[ "baldareis", "baldaren" ],
+			[ "baldaren" ]
+		],
+		"12" : {
+			"1" : [ "balda" ],
+			"2" : [ "balde" ],
+			"3" : [ "baldemos" ],
+			"4" : [ "baldad" ],
+			"5" : [ "balden" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=advenir",
+	"word" : "advenir",
+	"infinitivo" : "advenir",
+	"participio" : [ "advenido" ],
+	"gerundio" : [ "adviniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "advengo" ],
+			[ "advienes", "advenís" ],
+			[ "adviene" ],
+			[ "advenimos" ],
+			[ "advenís", "advienen" ],
+			[ "advienen" ]
+		],
+		"4" : [
+			[ "advine" ],
+			[ "adviniste" ],
+			[ "advino" ],
+			[ "advinimos" ],
+			[ "advinisteis", "advinieron" ],
+			[ "advinieron" ]
+		],
+		"5" : [
+			[ "advenía" ],
+			[ "advenías" ],
+			[ "advenía" ],
+			[ "adveníamos" ],
+			[ "adveníais", "advenían" ],
+			[ "advenían" ]
+		],
+		"6" : [
+			[ "advendría" ],
+			[ "advendrías" ],
+			[ "advendría" ],
+			[ "advendríamos" ],
+			[ "advendríais", "advendrían" ],
+			[ "advendrían" ]
+		],
+		"7" : [
+			[ "advendré" ],
+			[ "advendrás" ],
+			[ "advendrá" ],
+			[ "advendremos" ],
+			[ "advendréis", "advendrán" ],
+			[ "advendrán" ]
+		],
+		"8" : [
+			[ "advenga" ],
+			[ "advengas" ],
+			[ "advenga" ],
+			[ "advengamos" ],
+			[ "advengáis", "advengan" ],
+			[ "advengan" ]
+		],
+		"9" : [
+			[ "adviniera" ],
+			[ "advinieras" ],
+			[ "adviniera" ],
+			[ "adviniéramos" ],
+			[ "advinierais", "advinieran" ],
+			[ "advinieran" ]
+		],
+		"10" : [
+			[ "adviniese" ],
+			[ "advinieses" ],
+			[ "adviniese" ],
+			[ "adviniésemos" ],
+			[ "advinieseis", "adviniesen" ],
+			[ "adviniesen" ]
+		],
+		"11" : [
+			[ "adviniere" ],
+			[ "advinieres" ],
+			[ "adviniere" ],
+			[ "adviniéremos" ],
+			[ "adviniereis", "advinieren" ],
+			[ "advinieren" ]
+		],
+		"12" : {
+			"1" : [ "advén" ],
+			"2" : [ "advenga" ],
+			"3" : [ "advengamos" ],
+			"4" : [ "advenid" ],
+			"5" : [ "advengan" ]
+		}
+	}
+}

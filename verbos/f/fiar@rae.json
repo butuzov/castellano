@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fiar",
+	"word" : "fiar",
+	"infinitivo" : "fiar",
+	"participio" : [ "fiado" ],
+	"gerundio" : [ "fiando" ],
+	"tenses" : {
+		"3" : [
+			[ "fío" ],
+			[ "fías", "fias" ],
+			[ "fía" ],
+			[ "fiamos" ],
+			[ "fiais", "fían" ],
+			[ "fían" ]
+		],
+		"4" : [
+			[ "fie" ],
+			[ "fiaste" ],
+			[ "fio" ],
+			[ "fiamos" ],
+			[ "fiasteis", "fiaron" ],
+			[ "fiaron" ]
+		],
+		"5" : [
+			[ "fiaba" ],
+			[ "fiabas" ],
+			[ "fiaba" ],
+			[ "fiábamos" ],
+			[ "fiabais", "fiaban" ],
+			[ "fiaban" ]
+		],
+		"6" : [
+			[ "fiaría" ],
+			[ "fiarías" ],
+			[ "fiaría" ],
+			[ "fiaríamos" ],
+			[ "fiaríais", "fiarían" ],
+			[ "fiarían" ]
+		],
+		"7" : [
+			[ "fiaré" ],
+			[ "fiarás" ],
+			[ "fiará" ],
+			[ "fiaremos" ],
+			[ "fiaréis", "fiarán" ],
+			[ "fiarán" ]
+		],
+		"8" : [
+			[ "fíe" ],
+			[ "fíes" ],
+			[ "fíe" ],
+			[ "fiemos" ],
+			[ "fieis", "fíen" ],
+			[ "fíen" ]
+		],
+		"9" : [
+			[ "fiara" ],
+			[ "fiaras" ],
+			[ "fiara" ],
+			[ "fiáramos" ],
+			[ "fiarais", "fiaran" ],
+			[ "fiaran" ]
+		],
+		"10" : [
+			[ "fiase" ],
+			[ "fiases" ],
+			[ "fiase" ],
+			[ "fiásemos" ],
+			[ "fiaseis", "fiasen" ],
+			[ "fiasen" ]
+		],
+		"11" : [
+			[ "fiare" ],
+			[ "fiares" ],
+			[ "fiare" ],
+			[ "fiáremos" ],
+			[ "fiareis", "fiaren" ],
+			[ "fiaren" ]
+		],
+		"12" : {
+			"1" : [ "fía" ],
+			"2" : [ "fíe" ],
+			"3" : [ "fiemos" ],
+			"4" : [ "fiad" ],
+			"5" : [ "fíen" ]
+		}
+	}
+}

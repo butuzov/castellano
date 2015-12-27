@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=imitar",
+	"word" : "imitar",
+	"infinitivo" : "imitar",
+	"participio" : [ "imitado" ],
+	"gerundio" : [ "imitando" ],
+	"tenses" : {
+		"3" : [
+			[ "imito" ],
+			[ "imitas", "imitás" ],
+			[ "imita" ],
+			[ "imitamos" ],
+			[ "imitáis", "imitan" ],
+			[ "imitan" ]
+		],
+		"4" : [
+			[ "imité" ],
+			[ "imitaste" ],
+			[ "imitó" ],
+			[ "imitamos" ],
+			[ "imitasteis", "imitaron" ],
+			[ "imitaron" ]
+		],
+		"5" : [
+			[ "imitaba" ],
+			[ "imitabas" ],
+			[ "imitaba" ],
+			[ "imitábamos" ],
+			[ "imitabais", "imitaban" ],
+			[ "imitaban" ]
+		],
+		"6" : [
+			[ "imitaría" ],
+			[ "imitarías" ],
+			[ "imitaría" ],
+			[ "imitaríamos" ],
+			[ "imitaríais", "imitarían" ],
+			[ "imitarían" ]
+		],
+		"7" : [
+			[ "imitaré" ],
+			[ "imitarás" ],
+			[ "imitará" ],
+			[ "imitaremos" ],
+			[ "imitaréis", "imitarán" ],
+			[ "imitarán" ]
+		],
+		"8" : [
+			[ "imite" ],
+			[ "imites" ],
+			[ "imite" ],
+			[ "imitemos" ],
+			[ "imitéis", "imiten" ],
+			[ "imiten" ]
+		],
+		"9" : [
+			[ "imitara" ],
+			[ "imitaras" ],
+			[ "imitara" ],
+			[ "imitáramos" ],
+			[ "imitarais", "imitaran" ],
+			[ "imitaran" ]
+		],
+		"10" : [
+			[ "imitase" ],
+			[ "imitases" ],
+			[ "imitase" ],
+			[ "imitásemos" ],
+			[ "imitaseis", "imitasen" ],
+			[ "imitasen" ]
+		],
+		"11" : [
+			[ "imitare" ],
+			[ "imitares" ],
+			[ "imitare" ],
+			[ "imitáremos" ],
+			[ "imitareis", "imitaren" ],
+			[ "imitaren" ]
+		],
+		"12" : {
+			"1" : [ "imita" ],
+			"2" : [ "imite" ],
+			"3" : [ "imitemos" ],
+			"4" : [ "imitad" ],
+			"5" : [ "imiten" ]
+		}
+	}
+}

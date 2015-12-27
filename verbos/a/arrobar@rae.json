@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrobar",
+	"word" : "arrobar",
+	"infinitivo" : "arrobar",
+	"participio" : [ "arrobado" ],
+	"gerundio" : [ "arrobando" ],
+	"tenses" : {
+		"3" : [
+			[ "arrobo" ],
+			[ "arrobas", "arrobás" ],
+			[ "arroba" ],
+			[ "arrobamos" ],
+			[ "arrobáis", "arroban" ],
+			[ "arroban" ]
+		],
+		"4" : [
+			[ "arrobé" ],
+			[ "arrobaste" ],
+			[ "arrobó" ],
+			[ "arrobamos" ],
+			[ "arrobasteis", "arrobaron" ],
+			[ "arrobaron" ]
+		],
+		"5" : [
+			[ "arrobaba" ],
+			[ "arrobabas" ],
+			[ "arrobaba" ],
+			[ "arrobábamos" ],
+			[ "arrobabais", "arrobaban" ],
+			[ "arrobaban" ]
+		],
+		"6" : [
+			[ "arrobaría" ],
+			[ "arrobarías" ],
+			[ "arrobaría" ],
+			[ "arrobaríamos" ],
+			[ "arrobaríais", "arrobarían" ],
+			[ "arrobarían" ]
+		],
+		"7" : [
+			[ "arrobaré" ],
+			[ "arrobarás" ],
+			[ "arrobará" ],
+			[ "arrobaremos" ],
+			[ "arrobaréis", "arrobarán" ],
+			[ "arrobarán" ]
+		],
+		"8" : [
+			[ "arrobe" ],
+			[ "arrobes" ],
+			[ "arrobe" ],
+			[ "arrobemos" ],
+			[ "arrobéis", "arroben" ],
+			[ "arroben" ]
+		],
+		"9" : [
+			[ "arrobara" ],
+			[ "arrobaras" ],
+			[ "arrobara" ],
+			[ "arrobáramos" ],
+			[ "arrobarais", "arrobaran" ],
+			[ "arrobaran" ]
+		],
+		"10" : [
+			[ "arrobase" ],
+			[ "arrobases" ],
+			[ "arrobase" ],
+			[ "arrobásemos" ],
+			[ "arrobaseis", "arrobasen" ],
+			[ "arrobasen" ]
+		],
+		"11" : [
+			[ "arrobare" ],
+			[ "arrobares" ],
+			[ "arrobare" ],
+			[ "arrobáremos" ],
+			[ "arrobareis", "arrobaren" ],
+			[ "arrobaren" ]
+		],
+		"12" : {
+			"1" : [ "arroba" ],
+			"2" : [ "arrobe" ],
+			"3" : [ "arrobemos" ],
+			"4" : [ "arrobad" ],
+			"5" : [ "arroben" ]
+		}
+	}
+}

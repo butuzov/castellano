@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estampar",
+	"word" : "estampar",
+	"infinitivo" : "estampar",
+	"participio" : [ "estampado" ],
+	"gerundio" : [ "estampando" ],
+	"tenses" : {
+		"3" : [
+			[ "estampo" ],
+			[ "estampas", "estampás" ],
+			[ "estampa" ],
+			[ "estampamos" ],
+			[ "estampáis", "estampan" ],
+			[ "estampan" ]
+		],
+		"4" : [
+			[ "estampé" ],
+			[ "estampaste" ],
+			[ "estampó" ],
+			[ "estampamos" ],
+			[ "estampasteis", "estamparon" ],
+			[ "estamparon" ]
+		],
+		"5" : [
+			[ "estampaba" ],
+			[ "estampabas" ],
+			[ "estampaba" ],
+			[ "estampábamos" ],
+			[ "estampabais", "estampaban" ],
+			[ "estampaban" ]
+		],
+		"6" : [
+			[ "estamparía" ],
+			[ "estamparías" ],
+			[ "estamparía" ],
+			[ "estamparíamos" ],
+			[ "estamparíais", "estamparían" ],
+			[ "estamparían" ]
+		],
+		"7" : [
+			[ "estamparé" ],
+			[ "estamparás" ],
+			[ "estampará" ],
+			[ "estamparemos" ],
+			[ "estamparéis", "estamparán" ],
+			[ "estamparán" ]
+		],
+		"8" : [
+			[ "estampe" ],
+			[ "estampes" ],
+			[ "estampe" ],
+			[ "estampemos" ],
+			[ "estampéis", "estampen" ],
+			[ "estampen" ]
+		],
+		"9" : [
+			[ "estampara" ],
+			[ "estamparas" ],
+			[ "estampara" ],
+			[ "estampáramos" ],
+			[ "estamparais", "estamparan" ],
+			[ "estamparan" ]
+		],
+		"10" : [
+			[ "estampase" ],
+			[ "estampases" ],
+			[ "estampase" ],
+			[ "estampásemos" ],
+			[ "estampaseis", "estampasen" ],
+			[ "estampasen" ]
+		],
+		"11" : [
+			[ "estampare" ],
+			[ "estampares" ],
+			[ "estampare" ],
+			[ "estampáremos" ],
+			[ "estampareis", "estamparen" ],
+			[ "estamparen" ]
+		],
+		"12" : {
+			"1" : [ "estampa" ],
+			"2" : [ "estampe" ],
+			"3" : [ "estampemos" ],
+			"4" : [ "estampad" ],
+			"5" : [ "estampen" ]
+		}
+	}
+}

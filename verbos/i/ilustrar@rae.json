@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ilustrar",
+	"word" : "ilustrar",
+	"infinitivo" : "ilustrar",
+	"participio" : [ "ilustrado" ],
+	"gerundio" : [ "ilustrando" ],
+	"tenses" : {
+		"3" : [
+			[ "ilustro" ],
+			[ "ilustras", "ilustrás" ],
+			[ "ilustra" ],
+			[ "ilustramos" ],
+			[ "ilustráis", "ilustran" ],
+			[ "ilustran" ]
+		],
+		"4" : [
+			[ "ilustré" ],
+			[ "ilustraste" ],
+			[ "ilustró" ],
+			[ "ilustramos" ],
+			[ "ilustrasteis", "ilustraron" ],
+			[ "ilustraron" ]
+		],
+		"5" : [
+			[ "ilustraba" ],
+			[ "ilustrabas" ],
+			[ "ilustraba" ],
+			[ "ilustrábamos" ],
+			[ "ilustrabais", "ilustraban" ],
+			[ "ilustraban" ]
+		],
+		"6" : [
+			[ "ilustraría" ],
+			[ "ilustrarías" ],
+			[ "ilustraría" ],
+			[ "ilustraríamos" ],
+			[ "ilustraríais", "ilustrarían" ],
+			[ "ilustrarían" ]
+		],
+		"7" : [
+			[ "ilustraré" ],
+			[ "ilustrarás" ],
+			[ "ilustrará" ],
+			[ "ilustraremos" ],
+			[ "ilustraréis", "ilustrarán" ],
+			[ "ilustrarán" ]
+		],
+		"8" : [
+			[ "ilustre" ],
+			[ "ilustres" ],
+			[ "ilustre" ],
+			[ "ilustremos" ],
+			[ "ilustréis", "ilustren" ],
+			[ "ilustren" ]
+		],
+		"9" : [
+			[ "ilustrara" ],
+			[ "ilustraras" ],
+			[ "ilustrara" ],
+			[ "ilustráramos" ],
+			[ "ilustrarais", "ilustraran" ],
+			[ "ilustraran" ]
+		],
+		"10" : [
+			[ "ilustrase" ],
+			[ "ilustrases" ],
+			[ "ilustrase" ],
+			[ "ilustrásemos" ],
+			[ "ilustraseis", "ilustrasen" ],
+			[ "ilustrasen" ]
+		],
+		"11" : [
+			[ "ilustrare" ],
+			[ "ilustrares" ],
+			[ "ilustrare" ],
+			[ "ilustráremos" ],
+			[ "ilustrareis", "ilustraren" ],
+			[ "ilustraren" ]
+		],
+		"12" : {
+			"1" : [ "ilustra" ],
+			"2" : [ "ilustre" ],
+			"3" : [ "ilustremos" ],
+			"4" : [ "ilustrad" ],
+			"5" : [ "ilustren" ]
+		}
+	}
+}

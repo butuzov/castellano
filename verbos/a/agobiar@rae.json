@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agobiar",
+	"word" : "agobiar",
+	"infinitivo" : "agobiar",
+	"participio" : [ "agobiado" ],
+	"gerundio" : [ "agobiando" ],
+	"tenses" : {
+		"3" : [
+			[ "agobio" ],
+			[ "agobias", "agobiás" ],
+			[ "agobia" ],
+			[ "agobiamos" ],
+			[ "agobiáis", "agobian" ],
+			[ "agobian" ]
+		],
+		"4" : [
+			[ "agobié" ],
+			[ "agobiaste" ],
+			[ "agobió" ],
+			[ "agobiamos" ],
+			[ "agobiasteis", "agobiaron" ],
+			[ "agobiaron" ]
+		],
+		"5" : [
+			[ "agobiaba" ],
+			[ "agobiabas" ],
+			[ "agobiaba" ],
+			[ "agobiábamos" ],
+			[ "agobiabais", "agobiaban" ],
+			[ "agobiaban" ]
+		],
+		"6" : [
+			[ "agobiaría" ],
+			[ "agobiarías" ],
+			[ "agobiaría" ],
+			[ "agobiaríamos" ],
+			[ "agobiaríais", "agobiarían" ],
+			[ "agobiarían" ]
+		],
+		"7" : [
+			[ "agobiaré" ],
+			[ "agobiarás" ],
+			[ "agobiará" ],
+			[ "agobiaremos" ],
+			[ "agobiaréis", "agobiarán" ],
+			[ "agobiarán" ]
+		],
+		"8" : [
+			[ "agobie" ],
+			[ "agobies" ],
+			[ "agobie" ],
+			[ "agobiemos" ],
+			[ "agobiéis", "agobien" ],
+			[ "agobien" ]
+		],
+		"9" : [
+			[ "agobiara" ],
+			[ "agobiaras" ],
+			[ "agobiara" ],
+			[ "agobiáramos" ],
+			[ "agobiarais", "agobiaran" ],
+			[ "agobiaran" ]
+		],
+		"10" : [
+			[ "agobiase" ],
+			[ "agobiases" ],
+			[ "agobiase" ],
+			[ "agobiásemos" ],
+			[ "agobiaseis", "agobiasen" ],
+			[ "agobiasen" ]
+		],
+		"11" : [
+			[ "agobiare" ],
+			[ "agobiares" ],
+			[ "agobiare" ],
+			[ "agobiáremos" ],
+			[ "agobiareis", "agobiaren" ],
+			[ "agobiaren" ]
+		],
+		"12" : {
+			"1" : [ "agobia" ],
+			"2" : [ "agobie" ],
+			"3" : [ "agobiemos" ],
+			"4" : [ "agobiad" ],
+			"5" : [ "agobien" ]
+		}
+	}
+}

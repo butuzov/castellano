@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=execrar",
+	"word" : "execrar",
+	"infinitivo" : "execrar",
+	"participio" : [ "execrado" ],
+	"gerundio" : [ "execrando" ],
+	"tenses" : {
+		"3" : [
+			[ "execro" ],
+			[ "execras", "execrás" ],
+			[ "execra" ],
+			[ "execramos" ],
+			[ "execráis", "execran" ],
+			[ "execran" ]
+		],
+		"4" : [
+			[ "execré" ],
+			[ "execraste" ],
+			[ "execró" ],
+			[ "execramos" ],
+			[ "execrasteis", "execraron" ],
+			[ "execraron" ]
+		],
+		"5" : [
+			[ "execraba" ],
+			[ "execrabas" ],
+			[ "execraba" ],
+			[ "execrábamos" ],
+			[ "execrabais", "execraban" ],
+			[ "execraban" ]
+		],
+		"6" : [
+			[ "execraría" ],
+			[ "execrarías" ],
+			[ "execraría" ],
+			[ "execraríamos" ],
+			[ "execraríais", "execrarían" ],
+			[ "execrarían" ]
+		],
+		"7" : [
+			[ "execraré" ],
+			[ "execrarás" ],
+			[ "execrará" ],
+			[ "execraremos" ],
+			[ "execraréis", "execrarán" ],
+			[ "execrarán" ]
+		],
+		"8" : [
+			[ "execre" ],
+			[ "execres" ],
+			[ "execre" ],
+			[ "execremos" ],
+			[ "execréis", "execren" ],
+			[ "execren" ]
+		],
+		"9" : [
+			[ "execrara" ],
+			[ "execraras" ],
+			[ "execrara" ],
+			[ "execráramos" ],
+			[ "execrarais", "execraran" ],
+			[ "execraran" ]
+		],
+		"10" : [
+			[ "execrase" ],
+			[ "execrases" ],
+			[ "execrase" ],
+			[ "execrásemos" ],
+			[ "execraseis", "execrasen" ],
+			[ "execrasen" ]
+		],
+		"11" : [
+			[ "execrare" ],
+			[ "execrares" ],
+			[ "execrare" ],
+			[ "execráremos" ],
+			[ "execrareis", "execraren" ],
+			[ "execraren" ]
+		],
+		"12" : {
+			"1" : [ "execra" ],
+			"2" : [ "execre" ],
+			"3" : [ "execremos" ],
+			"4" : [ "execrad" ],
+			"5" : [ "execren" ]
+		}
+	}
+}

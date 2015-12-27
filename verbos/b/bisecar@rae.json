@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bisecar",
+	"word" : "bisecar",
+	"infinitivo" : "bisecar",
+	"participio" : [ "bisecado" ],
+	"gerundio" : [ "bisecando" ],
+	"tenses" : {
+		"3" : [
+			[ "biseco" ],
+			[ "bisecas", "bisecás" ],
+			[ "biseca" ],
+			[ "bisecamos" ],
+			[ "bisecáis", "bisecan" ],
+			[ "bisecan" ]
+		],
+		"4" : [
+			[ "bisequé" ],
+			[ "bisecaste" ],
+			[ "bisecó" ],
+			[ "bisecamos" ],
+			[ "bisecasteis", "bisecaron" ],
+			[ "bisecaron" ]
+		],
+		"5" : [
+			[ "bisecaba" ],
+			[ "bisecabas" ],
+			[ "bisecaba" ],
+			[ "bisecábamos" ],
+			[ "bisecabais", "bisecaban" ],
+			[ "bisecaban" ]
+		],
+		"6" : [
+			[ "bisecaría" ],
+			[ "bisecarías" ],
+			[ "bisecaría" ],
+			[ "bisecaríamos" ],
+			[ "bisecaríais", "bisecarían" ],
+			[ "bisecarían" ]
+		],
+		"7" : [
+			[ "bisecaré" ],
+			[ "bisecarás" ],
+			[ "bisecará" ],
+			[ "bisecaremos" ],
+			[ "bisecaréis", "bisecarán" ],
+			[ "bisecarán" ]
+		],
+		"8" : [
+			[ "biseque" ],
+			[ "biseques" ],
+			[ "biseque" ],
+			[ "bisequemos" ],
+			[ "bisequéis", "bisequen" ],
+			[ "bisequen" ]
+		],
+		"9" : [
+			[ "bisecara" ],
+			[ "bisecaras" ],
+			[ "bisecara" ],
+			[ "bisecáramos" ],
+			[ "bisecarais", "bisecaran" ],
+			[ "bisecaran" ]
+		],
+		"10" : [
+			[ "bisecase" ],
+			[ "bisecases" ],
+			[ "bisecase" ],
+			[ "bisecásemos" ],
+			[ "bisecaseis", "bisecasen" ],
+			[ "bisecasen" ]
+		],
+		"11" : [
+			[ "bisecare" ],
+			[ "bisecares" ],
+			[ "bisecare" ],
+			[ "bisecáremos" ],
+			[ "bisecareis", "bisecaren" ],
+			[ "bisecaren" ]
+		],
+		"12" : {
+			"1" : [ "biseca" ],
+			"2" : [ "biseque" ],
+			"3" : [ "bisequemos" ],
+			"4" : [ "bisecad" ],
+			"5" : [ "bisequen" ]
+		}
+	}
+}

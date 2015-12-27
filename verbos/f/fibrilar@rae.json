@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fibrilar",
+	"word" : "fibrilar",
+	"infinitivo" : "fibrilar",
+	"participio" : [ "fibrilado" ],
+	"gerundio" : [ "fibrilando" ],
+	"tenses" : {
+		"3" : [
+			[ "fibrilo" ],
+			[ "fibrilas", "fibrilás" ],
+			[ "fibrila" ],
+			[ "fibrilamos" ],
+			[ "fibriláis", "fibrilan" ],
+			[ "fibrilan" ]
+		],
+		"4" : [
+			[ "fibrilé" ],
+			[ "fibrilaste" ],
+			[ "fibriló" ],
+			[ "fibrilamos" ],
+			[ "fibrilasteis", "fibrilaron" ],
+			[ "fibrilaron" ]
+		],
+		"5" : [
+			[ "fibrilaba" ],
+			[ "fibrilabas" ],
+			[ "fibrilaba" ],
+			[ "fibrilábamos" ],
+			[ "fibrilabais", "fibrilaban" ],
+			[ "fibrilaban" ]
+		],
+		"6" : [
+			[ "fibrilaría" ],
+			[ "fibrilarías" ],
+			[ "fibrilaría" ],
+			[ "fibrilaríamos" ],
+			[ "fibrilaríais", "fibrilarían" ],
+			[ "fibrilarían" ]
+		],
+		"7" : [
+			[ "fibrilaré" ],
+			[ "fibrilarás" ],
+			[ "fibrilará" ],
+			[ "fibrilaremos" ],
+			[ "fibrilaréis", "fibrilarán" ],
+			[ "fibrilarán" ]
+		],
+		"8" : [
+			[ "fibrile" ],
+			[ "fibriles" ],
+			[ "fibrile" ],
+			[ "fibrilemos" ],
+			[ "fibriléis", "fibrilen" ],
+			[ "fibrilen" ]
+		],
+		"9" : [
+			[ "fibrilara" ],
+			[ "fibrilaras" ],
+			[ "fibrilara" ],
+			[ "fibriláramos" ],
+			[ "fibrilarais", "fibrilaran" ],
+			[ "fibrilaran" ]
+		],
+		"10" : [
+			[ "fibrilase" ],
+			[ "fibrilases" ],
+			[ "fibrilase" ],
+			[ "fibrilásemos" ],
+			[ "fibrilaseis", "fibrilasen" ],
+			[ "fibrilasen" ]
+		],
+		"11" : [
+			[ "fibrilare" ],
+			[ "fibrilares" ],
+			[ "fibrilare" ],
+			[ "fibriláremos" ],
+			[ "fibrilareis", "fibrilaren" ],
+			[ "fibrilaren" ]
+		],
+		"12" : {
+			"1" : [ "fibrila" ],
+			"2" : [ "fibrile" ],
+			"3" : [ "fibrilemos" ],
+			"4" : [ "fibrilad" ],
+			"5" : [ "fibrilen" ]
+		}
+	}
+}

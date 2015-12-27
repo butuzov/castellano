@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hipotecar",
+	"word" : "hipotecar",
+	"infinitivo" : "hipotecar",
+	"participio" : [ "hipotecado" ],
+	"gerundio" : [ "hipotecando" ],
+	"tenses" : {
+		"3" : [
+			[ "hipoteco" ],
+			[ "hipotecas", "hipotecás" ],
+			[ "hipoteca" ],
+			[ "hipotecamos" ],
+			[ "hipotecáis", "hipotecan" ],
+			[ "hipotecan" ]
+		],
+		"4" : [
+			[ "hipotequé" ],
+			[ "hipotecaste" ],
+			[ "hipotecó" ],
+			[ "hipotecamos" ],
+			[ "hipotecasteis", "hipotecaron" ],
+			[ "hipotecaron" ]
+		],
+		"5" : [
+			[ "hipotecaba" ],
+			[ "hipotecabas" ],
+			[ "hipotecaba" ],
+			[ "hipotecábamos" ],
+			[ "hipotecabais", "hipotecaban" ],
+			[ "hipotecaban" ]
+		],
+		"6" : [
+			[ "hipotecaría" ],
+			[ "hipotecarías" ],
+			[ "hipotecaría" ],
+			[ "hipotecaríamos" ],
+			[ "hipotecaríais", "hipotecarían" ],
+			[ "hipotecarían" ]
+		],
+		"7" : [
+			[ "hipotecaré" ],
+			[ "hipotecarás" ],
+			[ "hipotecará" ],
+			[ "hipotecaremos" ],
+			[ "hipotecaréis", "hipotecarán" ],
+			[ "hipotecarán" ]
+		],
+		"8" : [
+			[ "hipoteque" ],
+			[ "hipoteques" ],
+			[ "hipoteque" ],
+			[ "hipotequemos" ],
+			[ "hipotequéis", "hipotequen" ],
+			[ "hipotequen" ]
+		],
+		"9" : [
+			[ "hipotecara" ],
+			[ "hipotecaras" ],
+			[ "hipotecara" ],
+			[ "hipotecáramos" ],
+			[ "hipotecarais", "hipotecaran" ],
+			[ "hipotecaran" ]
+		],
+		"10" : [
+			[ "hipotecase" ],
+			[ "hipotecases" ],
+			[ "hipotecase" ],
+			[ "hipotecásemos" ],
+			[ "hipotecaseis", "hipotecasen" ],
+			[ "hipotecasen" ]
+		],
+		"11" : [
+			[ "hipotecare" ],
+			[ "hipotecares" ],
+			[ "hipotecare" ],
+			[ "hipotecáremos" ],
+			[ "hipotecareis", "hipotecaren" ],
+			[ "hipotecaren" ]
+		],
+		"12" : {
+			"1" : [ "hipoteca" ],
+			"2" : [ "hipoteque" ],
+			"3" : [ "hipotequemos" ],
+			"4" : [ "hipotecad" ],
+			"5" : [ "hipotequen" ]
+		}
+	}
+}

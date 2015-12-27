@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=consagrar",
+	"word" : "consagrar",
+	"infinitivo" : "consagrar",
+	"participio" : [ "consagrado" ],
+	"gerundio" : [ "consagrando" ],
+	"tenses" : {
+		"3" : [
+			[ "consagro" ],
+			[ "consagras", "consagrás" ],
+			[ "consagra" ],
+			[ "consagramos" ],
+			[ "consagráis", "consagran" ],
+			[ "consagran" ]
+		],
+		"4" : [
+			[ "consagré" ],
+			[ "consagraste" ],
+			[ "consagró" ],
+			[ "consagramos" ],
+			[ "consagrasteis", "consagraron" ],
+			[ "consagraron" ]
+		],
+		"5" : [
+			[ "consagraba" ],
+			[ "consagrabas" ],
+			[ "consagraba" ],
+			[ "consagrábamos" ],
+			[ "consagrabais", "consagraban" ],
+			[ "consagraban" ]
+		],
+		"6" : [
+			[ "consagraría" ],
+			[ "consagrarías" ],
+			[ "consagraría" ],
+			[ "consagraríamos" ],
+			[ "consagraríais", "consagrarían" ],
+			[ "consagrarían" ]
+		],
+		"7" : [
+			[ "consagraré" ],
+			[ "consagrarás" ],
+			[ "consagrará" ],
+			[ "consagraremos" ],
+			[ "consagraréis", "consagrarán" ],
+			[ "consagrarán" ]
+		],
+		"8" : [
+			[ "consagre" ],
+			[ "consagres" ],
+			[ "consagre" ],
+			[ "consagremos" ],
+			[ "consagréis", "consagren" ],
+			[ "consagren" ]
+		],
+		"9" : [
+			[ "consagrara" ],
+			[ "consagraras" ],
+			[ "consagrara" ],
+			[ "consagráramos" ],
+			[ "consagrarais", "consagraran" ],
+			[ "consagraran" ]
+		],
+		"10" : [
+			[ "consagrase" ],
+			[ "consagrases" ],
+			[ "consagrase" ],
+			[ "consagrásemos" ],
+			[ "consagraseis", "consagrasen" ],
+			[ "consagrasen" ]
+		],
+		"11" : [
+			[ "consagrare" ],
+			[ "consagrares" ],
+			[ "consagrare" ],
+			[ "consagráremos" ],
+			[ "consagrareis", "consagraren" ],
+			[ "consagraren" ]
+		],
+		"12" : {
+			"1" : [ "consagra" ],
+			"2" : [ "consagre" ],
+			"3" : [ "consagremos" ],
+			"4" : [ "consagrad" ],
+			"5" : [ "consagren" ]
+		}
+	}
+}

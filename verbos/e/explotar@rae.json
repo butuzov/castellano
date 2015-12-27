@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=explotar",
+	"word" : "explotar",
+	"infinitivo" : "explotar",
+	"participio" : [ "explotado" ],
+	"gerundio" : [ "explotando" ],
+	"tenses" : {
+		"3" : [
+			[ "exploto" ],
+			[ "explotas", "explotás" ],
+			[ "explota" ],
+			[ "explotamos" ],
+			[ "explotáis", "explotan" ],
+			[ "explotan" ]
+		],
+		"4" : [
+			[ "exploté" ],
+			[ "explotaste" ],
+			[ "explotó" ],
+			[ "explotamos" ],
+			[ "explotasteis", "explotaron" ],
+			[ "explotaron" ]
+		],
+		"5" : [
+			[ "explotaba" ],
+			[ "explotabas" ],
+			[ "explotaba" ],
+			[ "explotábamos" ],
+			[ "explotabais", "explotaban" ],
+			[ "explotaban" ]
+		],
+		"6" : [
+			[ "explotaría" ],
+			[ "explotarías" ],
+			[ "explotaría" ],
+			[ "explotaríamos" ],
+			[ "explotaríais", "explotarían" ],
+			[ "explotarían" ]
+		],
+		"7" : [
+			[ "explotaré" ],
+			[ "explotarás" ],
+			[ "explotará" ],
+			[ "explotaremos" ],
+			[ "explotaréis", "explotarán" ],
+			[ "explotarán" ]
+		],
+		"8" : [
+			[ "explote" ],
+			[ "explotes" ],
+			[ "explote" ],
+			[ "explotemos" ],
+			[ "explotéis", "exploten" ],
+			[ "exploten" ]
+		],
+		"9" : [
+			[ "explotara" ],
+			[ "explotaras" ],
+			[ "explotara" ],
+			[ "explotáramos" ],
+			[ "explotarais", "explotaran" ],
+			[ "explotaran" ]
+		],
+		"10" : [
+			[ "explotase" ],
+			[ "explotases" ],
+			[ "explotase" ],
+			[ "explotásemos" ],
+			[ "explotaseis", "explotasen" ],
+			[ "explotasen" ]
+		],
+		"11" : [
+			[ "explotare" ],
+			[ "explotares" ],
+			[ "explotare" ],
+			[ "explotáremos" ],
+			[ "explotareis", "explotaren" ],
+			[ "explotaren" ]
+		],
+		"12" : {
+			"1" : [ "explota" ],
+			"2" : [ "explote" ],
+			"3" : [ "explotemos" ],
+			"4" : [ "explotad" ],
+			"5" : [ "exploten" ]
+		}
+	}
+}

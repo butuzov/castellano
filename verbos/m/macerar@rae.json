@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=macerar",
+	"word" : "macerar",
+	"infinitivo" : "macerar",
+	"participio" : [ "macerado" ],
+	"gerundio" : [ "macerando" ],
+	"tenses" : {
+		"3" : [
+			[ "macero" ],
+			[ "maceras", "macerás" ],
+			[ "macera" ],
+			[ "maceramos" ],
+			[ "maceráis", "maceran" ],
+			[ "maceran" ]
+		],
+		"4" : [
+			[ "maceré" ],
+			[ "maceraste" ],
+			[ "maceró" ],
+			[ "maceramos" ],
+			[ "macerasteis", "maceraron" ],
+			[ "maceraron" ]
+		],
+		"5" : [
+			[ "maceraba" ],
+			[ "macerabas" ],
+			[ "maceraba" ],
+			[ "macerábamos" ],
+			[ "macerabais", "maceraban" ],
+			[ "maceraban" ]
+		],
+		"6" : [
+			[ "maceraría" ],
+			[ "macerarías" ],
+			[ "maceraría" ],
+			[ "maceraríamos" ],
+			[ "maceraríais", "macerarían" ],
+			[ "macerarían" ]
+		],
+		"7" : [
+			[ "maceraré" ],
+			[ "macerarás" ],
+			[ "macerará" ],
+			[ "maceraremos" ],
+			[ "maceraréis", "macerarán" ],
+			[ "macerarán" ]
+		],
+		"8" : [
+			[ "macere" ],
+			[ "maceres" ],
+			[ "macere" ],
+			[ "maceremos" ],
+			[ "maceréis", "maceren" ],
+			[ "maceren" ]
+		],
+		"9" : [
+			[ "macerara" ],
+			[ "maceraras" ],
+			[ "macerara" ],
+			[ "maceráramos" ],
+			[ "macerarais", "maceraran" ],
+			[ "maceraran" ]
+		],
+		"10" : [
+			[ "macerase" ],
+			[ "macerases" ],
+			[ "macerase" ],
+			[ "macerásemos" ],
+			[ "maceraseis", "macerasen" ],
+			[ "macerasen" ]
+		],
+		"11" : [
+			[ "macerare" ],
+			[ "macerares" ],
+			[ "macerare" ],
+			[ "maceráremos" ],
+			[ "macerareis", "maceraren" ],
+			[ "maceraren" ]
+		],
+		"12" : {
+			"1" : [ "macera" ],
+			"2" : [ "macere" ],
+			"3" : [ "maceremos" ],
+			"4" : [ "macerad" ],
+			"5" : [ "maceren" ]
+		}
+	}
+}

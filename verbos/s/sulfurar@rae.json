@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sulfurar",
+	"word" : "sulfurar",
+	"infinitivo" : "sulfurar",
+	"participio" : [ "sulfurado" ],
+	"gerundio" : [ "sulfurando" ],
+	"tenses" : {
+		"3" : [
+			[ "sulfuro" ],
+			[ "sulfuras", "sulfurás" ],
+			[ "sulfura" ],
+			[ "sulfuramos" ],
+			[ "sulfuráis", "sulfuran" ],
+			[ "sulfuran" ]
+		],
+		"4" : [
+			[ "sulfuré" ],
+			[ "sulfuraste" ],
+			[ "sulfuró" ],
+			[ "sulfuramos" ],
+			[ "sulfurasteis", "sulfuraron" ],
+			[ "sulfuraron" ]
+		],
+		"5" : [
+			[ "sulfuraba" ],
+			[ "sulfurabas" ],
+			[ "sulfuraba" ],
+			[ "sulfurábamos" ],
+			[ "sulfurabais", "sulfuraban" ],
+			[ "sulfuraban" ]
+		],
+		"6" : [
+			[ "sulfuraría" ],
+			[ "sulfurarías" ],
+			[ "sulfuraría" ],
+			[ "sulfuraríamos" ],
+			[ "sulfuraríais", "sulfurarían" ],
+			[ "sulfurarían" ]
+		],
+		"7" : [
+			[ "sulfuraré" ],
+			[ "sulfurarás" ],
+			[ "sulfurará" ],
+			[ "sulfuraremos" ],
+			[ "sulfuraréis", "sulfurarán" ],
+			[ "sulfurarán" ]
+		],
+		"8" : [
+			[ "sulfure" ],
+			[ "sulfures" ],
+			[ "sulfure" ],
+			[ "sulfuremos" ],
+			[ "sulfuréis", "sulfuren" ],
+			[ "sulfuren" ]
+		],
+		"9" : [
+			[ "sulfurara" ],
+			[ "sulfuraras" ],
+			[ "sulfurara" ],
+			[ "sulfuráramos" ],
+			[ "sulfurarais", "sulfuraran" ],
+			[ "sulfuraran" ]
+		],
+		"10" : [
+			[ "sulfurase" ],
+			[ "sulfurases" ],
+			[ "sulfurase" ],
+			[ "sulfurásemos" ],
+			[ "sulfuraseis", "sulfurasen" ],
+			[ "sulfurasen" ]
+		],
+		"11" : [
+			[ "sulfurare" ],
+			[ "sulfurares" ],
+			[ "sulfurare" ],
+			[ "sulfuráremos" ],
+			[ "sulfurareis", "sulfuraren" ],
+			[ "sulfuraren" ]
+		],
+		"12" : {
+			"1" : [ "sulfura" ],
+			"2" : [ "sulfure" ],
+			"3" : [ "sulfuremos" ],
+			"4" : [ "sulfurad" ],
+			"5" : [ "sulfuren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hacer",
+	"word" : "hacer",
+	"infinitivo" : "hacer",
+	"participio" : [ "hecho" ],
+	"gerundio" : [ "haciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "hago" ],
+			[ "haces", "hacés" ],
+			[ "hace" ],
+			[ "hacemos" ],
+			[ "hacéis", "hacen" ],
+			[ "hacen" ]
+		],
+		"4" : [
+			[ "hice" ],
+			[ "hiciste" ],
+			[ "hizo" ],
+			[ "hicimos" ],
+			[ "hicisteis", "hicieron" ],
+			[ "hicieron" ]
+		],
+		"5" : [
+			[ "hacía" ],
+			[ "hacías" ],
+			[ "hacía" ],
+			[ "hacíamos" ],
+			[ "hacíais", "hacían" ],
+			[ "hacían" ]
+		],
+		"6" : [
+			[ "haría" ],
+			[ "harías" ],
+			[ "haría" ],
+			[ "haríamos" ],
+			[ "haríais", "harían" ],
+			[ "harían" ]
+		],
+		"7" : [
+			[ "haré" ],
+			[ "harás" ],
+			[ "hará" ],
+			[ "haremos" ],
+			[ "haréis", "harán" ],
+			[ "harán" ]
+		],
+		"8" : [
+			[ "haga" ],
+			[ "hagas" ],
+			[ "haga" ],
+			[ "hagamos" ],
+			[ "hagáis", "hagan" ],
+			[ "hagan" ]
+		],
+		"9" : [
+			[ "hiciera" ],
+			[ "hicieras" ],
+			[ "hiciera" ],
+			[ "hiciéramos" ],
+			[ "hicierais", "hicieran" ],
+			[ "hicieran" ]
+		],
+		"10" : [
+			[ "hiciese" ],
+			[ "hicieses" ],
+			[ "hiciese" ],
+			[ "hiciésemos" ],
+			[ "hicieseis", "hiciesen" ],
+			[ "hiciesen" ]
+		],
+		"11" : [
+			[ "hiciere" ],
+			[ "hicieres" ],
+			[ "hiciere" ],
+			[ "hiciéremos" ],
+			[ "hiciereis", "hicieren" ],
+			[ "hicieren" ]
+		],
+		"12" : {
+			"1" : [ "haz" ],
+			"2" : [ "haga" ],
+			"3" : [ "hagamos" ],
+			"4" : [ "haced" ],
+			"5" : [ "hagan" ]
+		}
+	}
+}

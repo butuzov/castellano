@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esclarecer",
+	"word" : "esclarecer",
+	"infinitivo" : "esclarecer",
+	"participio" : [ "esclarecido" ],
+	"gerundio" : [ "esclareciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "esclarezco" ],
+			[ "esclareces", "esclarecés" ],
+			[ "esclarece" ],
+			[ "esclarecemos" ],
+			[ "esclarecéis", "esclarecen" ],
+			[ "esclarecen" ]
+		],
+		"4" : [
+			[ "esclarecí" ],
+			[ "esclareciste" ],
+			[ "esclareció" ],
+			[ "esclarecimos" ],
+			[ "esclarecisteis", "esclarecieron" ],
+			[ "esclarecieron" ]
+		],
+		"5" : [
+			[ "esclarecía" ],
+			[ "esclarecías" ],
+			[ "esclarecía" ],
+			[ "esclarecíamos" ],
+			[ "esclarecíais", "esclarecían" ],
+			[ "esclarecían" ]
+		],
+		"6" : [
+			[ "esclarecería" ],
+			[ "esclarecerías" ],
+			[ "esclarecería" ],
+			[ "esclareceríamos" ],
+			[ "esclareceríais", "esclarecerían" ],
+			[ "esclarecerían" ]
+		],
+		"7" : [
+			[ "esclareceré" ],
+			[ "esclarecerás" ],
+			[ "esclarecerá" ],
+			[ "esclareceremos" ],
+			[ "esclareceréis", "esclarecerán" ],
+			[ "esclarecerán" ]
+		],
+		"8" : [
+			[ "esclarezca" ],
+			[ "esclarezcas" ],
+			[ "esclarezca" ],
+			[ "esclarezcamos" ],
+			[ "esclarezcáis", "esclarezcan" ],
+			[ "esclarezcan" ]
+		],
+		"9" : [
+			[ "esclareciera" ],
+			[ "esclarecieras" ],
+			[ "esclareciera" ],
+			[ "esclareciéramos" ],
+			[ "esclarecierais", "esclarecieran" ],
+			[ "esclarecieran" ]
+		],
+		"10" : [
+			[ "esclareciese" ],
+			[ "esclarecieses" ],
+			[ "esclareciese" ],
+			[ "esclareciésemos" ],
+			[ "esclarecieseis", "esclareciesen" ],
+			[ "esclareciesen" ]
+		],
+		"11" : [
+			[ "esclareciere" ],
+			[ "esclarecieres" ],
+			[ "esclareciere" ],
+			[ "esclareciéremos" ],
+			[ "esclareciereis", "esclarecieren" ],
+			[ "esclarecieren" ]
+		],
+		"12" : {
+			"1" : [ "esclarece" ],
+			"2" : [ "esclarezca" ],
+			"3" : [ "esclarezcamos" ],
+			"4" : [ "esclareced" ],
+			"5" : [ "esclarezcan" ]
+		}
+	}
+}

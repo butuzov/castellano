@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=viajar",
+	"word" : "viajar",
+	"infinitivo" : "viajar",
+	"participio" : [ "viajado" ],
+	"gerundio" : [ "viajando" ],
+	"tenses" : {
+		"3" : [
+			[ "viajo" ],
+			[ "viajas", "viajás" ],
+			[ "viaja" ],
+			[ "viajamos" ],
+			[ "viajáis", "viajan" ],
+			[ "viajan" ]
+		],
+		"4" : [
+			[ "viajé" ],
+			[ "viajaste" ],
+			[ "viajó" ],
+			[ "viajamos" ],
+			[ "viajasteis", "viajaron" ],
+			[ "viajaron" ]
+		],
+		"5" : [
+			[ "viajaba" ],
+			[ "viajabas" ],
+			[ "viajaba" ],
+			[ "viajábamos" ],
+			[ "viajabais", "viajaban" ],
+			[ "viajaban" ]
+		],
+		"6" : [
+			[ "viajaría" ],
+			[ "viajarías" ],
+			[ "viajaría" ],
+			[ "viajaríamos" ],
+			[ "viajaríais", "viajarían" ],
+			[ "viajarían" ]
+		],
+		"7" : [
+			[ "viajaré" ],
+			[ "viajarás" ],
+			[ "viajará" ],
+			[ "viajaremos" ],
+			[ "viajaréis", "viajarán" ],
+			[ "viajarán" ]
+		],
+		"8" : [
+			[ "viaje" ],
+			[ "viajes" ],
+			[ "viaje" ],
+			[ "viajemos" ],
+			[ "viajéis", "viajen" ],
+			[ "viajen" ]
+		],
+		"9" : [
+			[ "viajara" ],
+			[ "viajaras" ],
+			[ "viajara" ],
+			[ "viajáramos" ],
+			[ "viajarais", "viajaran" ],
+			[ "viajaran" ]
+		],
+		"10" : [
+			[ "viajase" ],
+			[ "viajases" ],
+			[ "viajase" ],
+			[ "viajásemos" ],
+			[ "viajaseis", "viajasen" ],
+			[ "viajasen" ]
+		],
+		"11" : [
+			[ "viajare" ],
+			[ "viajares" ],
+			[ "viajare" ],
+			[ "viajáremos" ],
+			[ "viajareis", "viajaren" ],
+			[ "viajaren" ]
+		],
+		"12" : {
+			"1" : [ "viaja" ],
+			"2" : [ "viaje" ],
+			"3" : [ "viajemos" ],
+			"4" : [ "viajad" ],
+			"5" : [ "viajen" ]
+		}
+	}
+}

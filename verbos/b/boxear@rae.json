@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=boxear",
+	"word" : "boxear",
+	"infinitivo" : "boxear",
+	"participio" : [ "boxeado" ],
+	"gerundio" : [ "boxeando" ],
+	"tenses" : {
+		"3" : [
+			[ "boxeo" ],
+			[ "boxeas", "boxeás" ],
+			[ "boxea" ],
+			[ "boxeamos" ],
+			[ "boxeáis", "boxean" ],
+			[ "boxean" ]
+		],
+		"4" : [
+			[ "boxeé" ],
+			[ "boxeaste" ],
+			[ "boxeó" ],
+			[ "boxeamos" ],
+			[ "boxeasteis", "boxearon" ],
+			[ "boxearon" ]
+		],
+		"5" : [
+			[ "boxeaba" ],
+			[ "boxeabas" ],
+			[ "boxeaba" ],
+			[ "boxeábamos" ],
+			[ "boxeabais", "boxeaban" ],
+			[ "boxeaban" ]
+		],
+		"6" : [
+			[ "boxearía" ],
+			[ "boxearías" ],
+			[ "boxearía" ],
+			[ "boxearíamos" ],
+			[ "boxearíais", "boxearían" ],
+			[ "boxearían" ]
+		],
+		"7" : [
+			[ "boxearé" ],
+			[ "boxearás" ],
+			[ "boxeará" ],
+			[ "boxearemos" ],
+			[ "boxearéis", "boxearán" ],
+			[ "boxearán" ]
+		],
+		"8" : [
+			[ "boxee" ],
+			[ "boxees" ],
+			[ "boxee" ],
+			[ "boxeemos" ],
+			[ "boxeéis", "boxeen" ],
+			[ "boxeen" ]
+		],
+		"9" : [
+			[ "boxeara" ],
+			[ "boxearas" ],
+			[ "boxeara" ],
+			[ "boxeáramos" ],
+			[ "boxearais", "boxearan" ],
+			[ "boxearan" ]
+		],
+		"10" : [
+			[ "boxease" ],
+			[ "boxeases" ],
+			[ "boxease" ],
+			[ "boxeásemos" ],
+			[ "boxeaseis", "boxeasen" ],
+			[ "boxeasen" ]
+		],
+		"11" : [
+			[ "boxeare" ],
+			[ "boxeares" ],
+			[ "boxeare" ],
+			[ "boxeáremos" ],
+			[ "boxeareis", "boxearen" ],
+			[ "boxearen" ]
+		],
+		"12" : {
+			"1" : [ "boxea" ],
+			"2" : [ "boxee" ],
+			"3" : [ "boxeemos" ],
+			"4" : [ "boxead" ],
+			"5" : [ "boxeen" ]
+		}
+	}
+}

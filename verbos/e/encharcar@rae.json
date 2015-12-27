@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encharcar",
+	"word" : "encharcar",
+	"infinitivo" : "encharcar",
+	"participio" : [ "encharcado" ],
+	"gerundio" : [ "encharcando" ],
+	"tenses" : {
+		"3" : [
+			[ "encharco" ],
+			[ "encharcas", "encharcás" ],
+			[ "encharca" ],
+			[ "encharcamos" ],
+			[ "encharcáis", "encharcan" ],
+			[ "encharcan" ]
+		],
+		"4" : [
+			[ "encharqué" ],
+			[ "encharcaste" ],
+			[ "encharcó" ],
+			[ "encharcamos" ],
+			[ "encharcasteis", "encharcaron" ],
+			[ "encharcaron" ]
+		],
+		"5" : [
+			[ "encharcaba" ],
+			[ "encharcabas" ],
+			[ "encharcaba" ],
+			[ "encharcábamos" ],
+			[ "encharcabais", "encharcaban" ],
+			[ "encharcaban" ]
+		],
+		"6" : [
+			[ "encharcaría" ],
+			[ "encharcarías" ],
+			[ "encharcaría" ],
+			[ "encharcaríamos" ],
+			[ "encharcaríais", "encharcarían" ],
+			[ "encharcarían" ]
+		],
+		"7" : [
+			[ "encharcaré" ],
+			[ "encharcarás" ],
+			[ "encharcará" ],
+			[ "encharcaremos" ],
+			[ "encharcaréis", "encharcarán" ],
+			[ "encharcarán" ]
+		],
+		"8" : [
+			[ "encharque" ],
+			[ "encharques" ],
+			[ "encharque" ],
+			[ "encharquemos" ],
+			[ "encharquéis", "encharquen" ],
+			[ "encharquen" ]
+		],
+		"9" : [
+			[ "encharcara" ],
+			[ "encharcaras" ],
+			[ "encharcara" ],
+			[ "encharcáramos" ],
+			[ "encharcarais", "encharcaran" ],
+			[ "encharcaran" ]
+		],
+		"10" : [
+			[ "encharcase" ],
+			[ "encharcases" ],
+			[ "encharcase" ],
+			[ "encharcásemos" ],
+			[ "encharcaseis", "encharcasen" ],
+			[ "encharcasen" ]
+		],
+		"11" : [
+			[ "encharcare" ],
+			[ "encharcares" ],
+			[ "encharcare" ],
+			[ "encharcáremos" ],
+			[ "encharcareis", "encharcaren" ],
+			[ "encharcaren" ]
+		],
+		"12" : {
+			"1" : [ "encharca" ],
+			"2" : [ "encharque" ],
+			"3" : [ "encharquemos" ],
+			"4" : [ "encharcad" ],
+			"5" : [ "encharquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=coordinar",
+	"word" : "coordinar",
+	"infinitivo" : "coordinar",
+	"participio" : [ "coordinado" ],
+	"gerundio" : [ "coordinando" ],
+	"tenses" : {
+		"3" : [
+			[ "coordino" ],
+			[ "coordinas", "coordinás" ],
+			[ "coordina" ],
+			[ "coordinamos" ],
+			[ "coordináis", "coordinan" ],
+			[ "coordinan" ]
+		],
+		"4" : [
+			[ "coordiné" ],
+			[ "coordinaste" ],
+			[ "coordinó" ],
+			[ "coordinamos" ],
+			[ "coordinasteis", "coordinaron" ],
+			[ "coordinaron" ]
+		],
+		"5" : [
+			[ "coordinaba" ],
+			[ "coordinabas" ],
+			[ "coordinaba" ],
+			[ "coordinábamos" ],
+			[ "coordinabais", "coordinaban" ],
+			[ "coordinaban" ]
+		],
+		"6" : [
+			[ "coordinaría" ],
+			[ "coordinarías" ],
+			[ "coordinaría" ],
+			[ "coordinaríamos" ],
+			[ "coordinaríais", "coordinarían" ],
+			[ "coordinarían" ]
+		],
+		"7" : [
+			[ "coordinaré" ],
+			[ "coordinarás" ],
+			[ "coordinará" ],
+			[ "coordinaremos" ],
+			[ "coordinaréis", "coordinarán" ],
+			[ "coordinarán" ]
+		],
+		"8" : [
+			[ "coordine" ],
+			[ "coordines" ],
+			[ "coordine" ],
+			[ "coordinemos" ],
+			[ "coordinéis", "coordinen" ],
+			[ "coordinen" ]
+		],
+		"9" : [
+			[ "coordinara" ],
+			[ "coordinaras" ],
+			[ "coordinara" ],
+			[ "coordináramos" ],
+			[ "coordinarais", "coordinaran" ],
+			[ "coordinaran" ]
+		],
+		"10" : [
+			[ "coordinase" ],
+			[ "coordinases" ],
+			[ "coordinase" ],
+			[ "coordinásemos" ],
+			[ "coordinaseis", "coordinasen" ],
+			[ "coordinasen" ]
+		],
+		"11" : [
+			[ "coordinare" ],
+			[ "coordinares" ],
+			[ "coordinare" ],
+			[ "coordináremos" ],
+			[ "coordinareis", "coordinaren" ],
+			[ "coordinaren" ]
+		],
+		"12" : {
+			"1" : [ "coordina" ],
+			"2" : [ "coordine" ],
+			"3" : [ "coordinemos" ],
+			"4" : [ "coordinad" ],
+			"5" : [ "coordinen" ]
+		}
+	}
+}

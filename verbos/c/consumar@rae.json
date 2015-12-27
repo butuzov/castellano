@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=consumar",
+	"word" : "consumar",
+	"infinitivo" : "consumar",
+	"participio" : [ "consumado" ],
+	"gerundio" : [ "consumando" ],
+	"tenses" : {
+		"3" : [
+			[ "consumo" ],
+			[ "consumas", "consumás" ],
+			[ "consuma" ],
+			[ "consumamos" ],
+			[ "consumáis", "consuman" ],
+			[ "consuman" ]
+		],
+		"4" : [
+			[ "consumé" ],
+			[ "consumaste" ],
+			[ "consumó" ],
+			[ "consumamos" ],
+			[ "consumasteis", "consumaron" ],
+			[ "consumaron" ]
+		],
+		"5" : [
+			[ "consumaba" ],
+			[ "consumabas" ],
+			[ "consumaba" ],
+			[ "consumábamos" ],
+			[ "consumabais", "consumaban" ],
+			[ "consumaban" ]
+		],
+		"6" : [
+			[ "consumaría" ],
+			[ "consumarías" ],
+			[ "consumaría" ],
+			[ "consumaríamos" ],
+			[ "consumaríais", "consumarían" ],
+			[ "consumarían" ]
+		],
+		"7" : [
+			[ "consumaré" ],
+			[ "consumarás" ],
+			[ "consumará" ],
+			[ "consumaremos" ],
+			[ "consumaréis", "consumarán" ],
+			[ "consumarán" ]
+		],
+		"8" : [
+			[ "consume" ],
+			[ "consumes" ],
+			[ "consume" ],
+			[ "consumemos" ],
+			[ "consuméis", "consumen" ],
+			[ "consumen" ]
+		],
+		"9" : [
+			[ "consumara" ],
+			[ "consumaras" ],
+			[ "consumara" ],
+			[ "consumáramos" ],
+			[ "consumarais", "consumaran" ],
+			[ "consumaran" ]
+		],
+		"10" : [
+			[ "consumase" ],
+			[ "consumases" ],
+			[ "consumase" ],
+			[ "consumásemos" ],
+			[ "consumaseis", "consumasen" ],
+			[ "consumasen" ]
+		],
+		"11" : [
+			[ "consumare" ],
+			[ "consumares" ],
+			[ "consumare" ],
+			[ "consumáremos" ],
+			[ "consumareis", "consumaren" ],
+			[ "consumaren" ]
+		],
+		"12" : {
+			"1" : [ "consuma" ],
+			"2" : [ "consume" ],
+			"3" : [ "consumemos" ],
+			"4" : [ "consumad" ],
+			"5" : [ "consumen" ]
+		}
+	}
+}

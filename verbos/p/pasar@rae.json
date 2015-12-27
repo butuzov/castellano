@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pasar",
+	"word" : "pasar",
+	"infinitivo" : "pasar",
+	"participio" : [ "pasado" ],
+	"gerundio" : [ "pasando" ],
+	"tenses" : {
+		"3" : [
+			[ "paso" ],
+			[ "pasas", "pasás" ],
+			[ "pasa" ],
+			[ "pasamos" ],
+			[ "pasáis", "pasan" ],
+			[ "pasan" ]
+		],
+		"4" : [
+			[ "pasé" ],
+			[ "pasaste" ],
+			[ "pasó" ],
+			[ "pasamos" ],
+			[ "pasasteis", "pasaron" ],
+			[ "pasaron" ]
+		],
+		"5" : [
+			[ "pasaba" ],
+			[ "pasabas" ],
+			[ "pasaba" ],
+			[ "pasábamos" ],
+			[ "pasabais", "pasaban" ],
+			[ "pasaban" ]
+		],
+		"6" : [
+			[ "pasaría" ],
+			[ "pasarías" ],
+			[ "pasaría" ],
+			[ "pasaríamos" ],
+			[ "pasaríais", "pasarían" ],
+			[ "pasarían" ]
+		],
+		"7" : [
+			[ "pasaré" ],
+			[ "pasarás" ],
+			[ "pasará" ],
+			[ "pasaremos" ],
+			[ "pasaréis", "pasarán" ],
+			[ "pasarán" ]
+		],
+		"8" : [
+			[ "pase" ],
+			[ "pases" ],
+			[ "pase" ],
+			[ "pasemos" ],
+			[ "paséis", "pasen" ],
+			[ "pasen" ]
+		],
+		"9" : [
+			[ "pasara" ],
+			[ "pasaras" ],
+			[ "pasara" ],
+			[ "pasáramos" ],
+			[ "pasarais", "pasaran" ],
+			[ "pasaran" ]
+		],
+		"10" : [
+			[ "pasase" ],
+			[ "pasases" ],
+			[ "pasase" ],
+			[ "pasásemos" ],
+			[ "pasaseis", "pasasen" ],
+			[ "pasasen" ]
+		],
+		"11" : [
+			[ "pasare" ],
+			[ "pasares" ],
+			[ "pasare" ],
+			[ "pasáremos" ],
+			[ "pasareis", "pasaren" ],
+			[ "pasaren" ]
+		],
+		"12" : {
+			"1" : [ "pasa" ],
+			"2" : [ "pase" ],
+			"3" : [ "pasemos" ],
+			"4" : [ "pasad" ],
+			"5" : [ "pasen" ]
+		}
+	}
+}

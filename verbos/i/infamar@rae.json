@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=infamar",
+	"word" : "infamar",
+	"infinitivo" : "infamar",
+	"participio" : [ "infamado" ],
+	"gerundio" : [ "infamando" ],
+	"tenses" : {
+		"3" : [
+			[ "infamo" ],
+			[ "infamas", "infamás" ],
+			[ "infama" ],
+			[ "infamamos" ],
+			[ "infamáis", "infaman" ],
+			[ "infaman" ]
+		],
+		"4" : [
+			[ "infamé" ],
+			[ "infamaste" ],
+			[ "infamó" ],
+			[ "infamamos" ],
+			[ "infamasteis", "infamaron" ],
+			[ "infamaron" ]
+		],
+		"5" : [
+			[ "infamaba" ],
+			[ "infamabas" ],
+			[ "infamaba" ],
+			[ "infamábamos" ],
+			[ "infamabais", "infamaban" ],
+			[ "infamaban" ]
+		],
+		"6" : [
+			[ "infamaría" ],
+			[ "infamarías" ],
+			[ "infamaría" ],
+			[ "infamaríamos" ],
+			[ "infamaríais", "infamarían" ],
+			[ "infamarían" ]
+		],
+		"7" : [
+			[ "infamaré" ],
+			[ "infamarás" ],
+			[ "infamará" ],
+			[ "infamaremos" ],
+			[ "infamaréis", "infamarán" ],
+			[ "infamarán" ]
+		],
+		"8" : [
+			[ "infame" ],
+			[ "infames" ],
+			[ "infame" ],
+			[ "infamemos" ],
+			[ "infaméis", "infamen" ],
+			[ "infamen" ]
+		],
+		"9" : [
+			[ "infamara" ],
+			[ "infamaras" ],
+			[ "infamara" ],
+			[ "infamáramos" ],
+			[ "infamarais", "infamaran" ],
+			[ "infamaran" ]
+		],
+		"10" : [
+			[ "infamase" ],
+			[ "infamases" ],
+			[ "infamase" ],
+			[ "infamásemos" ],
+			[ "infamaseis", "infamasen" ],
+			[ "infamasen" ]
+		],
+		"11" : [
+			[ "infamare" ],
+			[ "infamares" ],
+			[ "infamare" ],
+			[ "infamáremos" ],
+			[ "infamareis", "infamaren" ],
+			[ "infamaren" ]
+		],
+		"12" : {
+			"1" : [ "infama" ],
+			"2" : [ "infame" ],
+			"3" : [ "infamemos" ],
+			"4" : [ "infamad" ],
+			"5" : [ "infamen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=avenir",
+	"word" : "avenir",
+	"infinitivo" : "avenir",
+	"participio" : [ "avenido" ],
+	"gerundio" : [ "aviniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "avengo" ],
+			[ "avienes", "avenís" ],
+			[ "aviene" ],
+			[ "avenimos" ],
+			[ "avenís", "avienen" ],
+			[ "avienen" ]
+		],
+		"4" : [
+			[ "avine" ],
+			[ "aviniste" ],
+			[ "avino" ],
+			[ "avinimos" ],
+			[ "avinisteis", "avinieron" ],
+			[ "avinieron" ]
+		],
+		"5" : [
+			[ "avenía" ],
+			[ "avenías" ],
+			[ "avenía" ],
+			[ "aveníamos" ],
+			[ "aveníais", "avenían" ],
+			[ "avenían" ]
+		],
+		"6" : [
+			[ "avendría" ],
+			[ "avendrías" ],
+			[ "avendría" ],
+			[ "avendríamos" ],
+			[ "avendríais", "avendrían" ],
+			[ "avendrían" ]
+		],
+		"7" : [
+			[ "avendré" ],
+			[ "avendrás" ],
+			[ "avendrá" ],
+			[ "avendremos" ],
+			[ "avendréis", "avendrán" ],
+			[ "avendrán" ]
+		],
+		"8" : [
+			[ "avenga" ],
+			[ "avengas" ],
+			[ "avenga" ],
+			[ "avengamos" ],
+			[ "avengáis", "avengan" ],
+			[ "avengan" ]
+		],
+		"9" : [
+			[ "aviniera" ],
+			[ "avinieras" ],
+			[ "aviniera" ],
+			[ "aviniéramos" ],
+			[ "avinierais", "avinieran" ],
+			[ "avinieran" ]
+		],
+		"10" : [
+			[ "aviniese" ],
+			[ "avinieses" ],
+			[ "aviniese" ],
+			[ "aviniésemos" ],
+			[ "avinieseis", "aviniesen" ],
+			[ "aviniesen" ]
+		],
+		"11" : [
+			[ "aviniere" ],
+			[ "avinieres" ],
+			[ "aviniere" ],
+			[ "aviniéremos" ],
+			[ "aviniereis", "avinieren" ],
+			[ "avinieren" ]
+		],
+		"12" : {
+			"1" : [ "avén" ],
+			"2" : [ "avenga" ],
+			"3" : [ "avengamos" ],
+			"4" : [ "avenid" ],
+			"5" : [ "avengan" ]
+		}
+	}
+}

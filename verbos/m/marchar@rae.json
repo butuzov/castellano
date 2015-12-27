@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=marchar",
+	"word" : "marchar",
+	"infinitivo" : "marchar",
+	"participio" : [ "marchado" ],
+	"gerundio" : [ "marchando" ],
+	"tenses" : {
+		"3" : [
+			[ "marcho" ],
+			[ "marchas", "marchás" ],
+			[ "marcha" ],
+			[ "marchamos" ],
+			[ "marcháis", "marchan" ],
+			[ "marchan" ]
+		],
+		"4" : [
+			[ "marché" ],
+			[ "marchaste" ],
+			[ "marchó" ],
+			[ "marchamos" ],
+			[ "marchasteis", "marcharon" ],
+			[ "marcharon" ]
+		],
+		"5" : [
+			[ "marchaba" ],
+			[ "marchabas" ],
+			[ "marchaba" ],
+			[ "marchábamos" ],
+			[ "marchabais", "marchaban" ],
+			[ "marchaban" ]
+		],
+		"6" : [
+			[ "marcharía" ],
+			[ "marcharías" ],
+			[ "marcharía" ],
+			[ "marcharíamos" ],
+			[ "marcharíais", "marcharían" ],
+			[ "marcharían" ]
+		],
+		"7" : [
+			[ "marcharé" ],
+			[ "marcharás" ],
+			[ "marchará" ],
+			[ "marcharemos" ],
+			[ "marcharéis", "marcharán" ],
+			[ "marcharán" ]
+		],
+		"8" : [
+			[ "marche" ],
+			[ "marches" ],
+			[ "marche" ],
+			[ "marchemos" ],
+			[ "marchéis", "marchen" ],
+			[ "marchen" ]
+		],
+		"9" : [
+			[ "marchara" ],
+			[ "marcharas" ],
+			[ "marchara" ],
+			[ "marcháramos" ],
+			[ "marcharais", "marcharan" ],
+			[ "marcharan" ]
+		],
+		"10" : [
+			[ "marchase" ],
+			[ "marchases" ],
+			[ "marchase" ],
+			[ "marchásemos" ],
+			[ "marchaseis", "marchasen" ],
+			[ "marchasen" ]
+		],
+		"11" : [
+			[ "marchare" ],
+			[ "marchares" ],
+			[ "marchare" ],
+			[ "marcháremos" ],
+			[ "marchareis", "marcharen" ],
+			[ "marcharen" ]
+		],
+		"12" : {
+			"1" : [ "marcha" ],
+			"2" : [ "marche" ],
+			"3" : [ "marchemos" ],
+			"4" : [ "marchad" ],
+			"5" : [ "marchen" ]
+		}
+	}
+}

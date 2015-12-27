@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=felicitar",
+	"word" : "felicitar",
+	"infinitivo" : "felicitar",
+	"participio" : [ "felicitado" ],
+	"gerundio" : [ "felicitando" ],
+	"tenses" : {
+		"3" : [
+			[ "felicito" ],
+			[ "felicitas", "felicitás" ],
+			[ "felicita" ],
+			[ "felicitamos" ],
+			[ "felicitáis", "felicitan" ],
+			[ "felicitan" ]
+		],
+		"4" : [
+			[ "felicité" ],
+			[ "felicitaste" ],
+			[ "felicitó" ],
+			[ "felicitamos" ],
+			[ "felicitasteis", "felicitaron" ],
+			[ "felicitaron" ]
+		],
+		"5" : [
+			[ "felicitaba" ],
+			[ "felicitabas" ],
+			[ "felicitaba" ],
+			[ "felicitábamos" ],
+			[ "felicitabais", "felicitaban" ],
+			[ "felicitaban" ]
+		],
+		"6" : [
+			[ "felicitaría" ],
+			[ "felicitarías" ],
+			[ "felicitaría" ],
+			[ "felicitaríamos" ],
+			[ "felicitaríais", "felicitarían" ],
+			[ "felicitarían" ]
+		],
+		"7" : [
+			[ "felicitaré" ],
+			[ "felicitarás" ],
+			[ "felicitará" ],
+			[ "felicitaremos" ],
+			[ "felicitaréis", "felicitarán" ],
+			[ "felicitarán" ]
+		],
+		"8" : [
+			[ "felicite" ],
+			[ "felicites" ],
+			[ "felicite" ],
+			[ "felicitemos" ],
+			[ "felicitéis", "feliciten" ],
+			[ "feliciten" ]
+		],
+		"9" : [
+			[ "felicitara" ],
+			[ "felicitaras" ],
+			[ "felicitara" ],
+			[ "felicitáramos" ],
+			[ "felicitarais", "felicitaran" ],
+			[ "felicitaran" ]
+		],
+		"10" : [
+			[ "felicitase" ],
+			[ "felicitases" ],
+			[ "felicitase" ],
+			[ "felicitásemos" ],
+			[ "felicitaseis", "felicitasen" ],
+			[ "felicitasen" ]
+		],
+		"11" : [
+			[ "felicitare" ],
+			[ "felicitares" ],
+			[ "felicitare" ],
+			[ "felicitáremos" ],
+			[ "felicitareis", "felicitaren" ],
+			[ "felicitaren" ]
+		],
+		"12" : {
+			"1" : [ "felicita" ],
+			"2" : [ "felicite" ],
+			"3" : [ "felicitemos" ],
+			"4" : [ "felicitad" ],
+			"5" : [ "feliciten" ]
+		}
+	}
+}

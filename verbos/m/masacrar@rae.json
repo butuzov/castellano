@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=masacrar",
+	"word" : "masacrar",
+	"infinitivo" : "masacrar",
+	"participio" : [ "masacrado" ],
+	"gerundio" : [ "masacrando" ],
+	"tenses" : {
+		"3" : [
+			[ "masacro" ],
+			[ "masacras", "masacrás" ],
+			[ "masacra" ],
+			[ "masacramos" ],
+			[ "masacráis", "masacran" ],
+			[ "masacran" ]
+		],
+		"4" : [
+			[ "masacré" ],
+			[ "masacraste" ],
+			[ "masacró" ],
+			[ "masacramos" ],
+			[ "masacrasteis", "masacraron" ],
+			[ "masacraron" ]
+		],
+		"5" : [
+			[ "masacraba" ],
+			[ "masacrabas" ],
+			[ "masacraba" ],
+			[ "masacrábamos" ],
+			[ "masacrabais", "masacraban" ],
+			[ "masacraban" ]
+		],
+		"6" : [
+			[ "masacraría" ],
+			[ "masacrarías" ],
+			[ "masacraría" ],
+			[ "masacraríamos" ],
+			[ "masacraríais", "masacrarían" ],
+			[ "masacrarían" ]
+		],
+		"7" : [
+			[ "masacraré" ],
+			[ "masacrarás" ],
+			[ "masacrará" ],
+			[ "masacraremos" ],
+			[ "masacraréis", "masacrarán" ],
+			[ "masacrarán" ]
+		],
+		"8" : [
+			[ "masacre" ],
+			[ "masacres" ],
+			[ "masacre" ],
+			[ "masacremos" ],
+			[ "masacréis", "masacren" ],
+			[ "masacren" ]
+		],
+		"9" : [
+			[ "masacrara" ],
+			[ "masacraras" ],
+			[ "masacrara" ],
+			[ "masacráramos" ],
+			[ "masacrarais", "masacraran" ],
+			[ "masacraran" ]
+		],
+		"10" : [
+			[ "masacrase" ],
+			[ "masacrases" ],
+			[ "masacrase" ],
+			[ "masacrásemos" ],
+			[ "masacraseis", "masacrasen" ],
+			[ "masacrasen" ]
+		],
+		"11" : [
+			[ "masacrare" ],
+			[ "masacrares" ],
+			[ "masacrare" ],
+			[ "masacráremos" ],
+			[ "masacrareis", "masacraren" ],
+			[ "masacraren" ]
+		],
+		"12" : {
+			"1" : [ "masacra" ],
+			"2" : [ "masacre" ],
+			"3" : [ "masacremos" ],
+			"4" : [ "masacrad" ],
+			"5" : [ "masacren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mellar",
+	"word" : "mellar",
+	"infinitivo" : "mellar",
+	"participio" : [ "mellado" ],
+	"gerundio" : [ "mellando" ],
+	"tenses" : {
+		"3" : [
+			[ "mello" ],
+			[ "mellas", "mellás" ],
+			[ "mella" ],
+			[ "mellamos" ],
+			[ "melláis", "mellan" ],
+			[ "mellan" ]
+		],
+		"4" : [
+			[ "mellé" ],
+			[ "mellaste" ],
+			[ "melló" ],
+			[ "mellamos" ],
+			[ "mellasteis", "mellaron" ],
+			[ "mellaron" ]
+		],
+		"5" : [
+			[ "mellaba" ],
+			[ "mellabas" ],
+			[ "mellaba" ],
+			[ "mellábamos" ],
+			[ "mellabais", "mellaban" ],
+			[ "mellaban" ]
+		],
+		"6" : [
+			[ "mellaría" ],
+			[ "mellarías" ],
+			[ "mellaría" ],
+			[ "mellaríamos" ],
+			[ "mellaríais", "mellarían" ],
+			[ "mellarían" ]
+		],
+		"7" : [
+			[ "mellaré" ],
+			[ "mellarás" ],
+			[ "mellará" ],
+			[ "mellaremos" ],
+			[ "mellaréis", "mellarán" ],
+			[ "mellarán" ]
+		],
+		"8" : [
+			[ "melle" ],
+			[ "melles" ],
+			[ "melle" ],
+			[ "mellemos" ],
+			[ "melléis", "mellen" ],
+			[ "mellen" ]
+		],
+		"9" : [
+			[ "mellara" ],
+			[ "mellaras" ],
+			[ "mellara" ],
+			[ "melláramos" ],
+			[ "mellarais", "mellaran" ],
+			[ "mellaran" ]
+		],
+		"10" : [
+			[ "mellase" ],
+			[ "mellases" ],
+			[ "mellase" ],
+			[ "mellásemos" ],
+			[ "mellaseis", "mellasen" ],
+			[ "mellasen" ]
+		],
+		"11" : [
+			[ "mellare" ],
+			[ "mellares" ],
+			[ "mellare" ],
+			[ "melláremos" ],
+			[ "mellareis", "mellaren" ],
+			[ "mellaren" ]
+		],
+		"12" : {
+			"1" : [ "mella" ],
+			"2" : [ "melle" ],
+			"3" : [ "mellemos" ],
+			"4" : [ "mellad" ],
+			"5" : [ "mellen" ]
+		}
+	}
+}

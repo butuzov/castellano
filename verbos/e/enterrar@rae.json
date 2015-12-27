@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enterrar",
+	"word" : "enterrar",
+	"infinitivo" : "enterrar",
+	"participio" : [ "enterrado" ],
+	"gerundio" : [ "enterrando" ],
+	"tenses" : {
+		"3" : [
+			[ "entierro" ],
+			[ "entierras", "enterrás" ],
+			[ "entierra" ],
+			[ "enterramos" ],
+			[ "enterráis", "entierran" ],
+			[ "entierran" ]
+		],
+		"4" : [
+			[ "enterré" ],
+			[ "enterraste" ],
+			[ "enterró" ],
+			[ "enterramos" ],
+			[ "enterrasteis", "enterraron" ],
+			[ "enterraron" ]
+		],
+		"5" : [
+			[ "enterraba" ],
+			[ "enterrabas" ],
+			[ "enterraba" ],
+			[ "enterrábamos" ],
+			[ "enterrabais", "enterraban" ],
+			[ "enterraban" ]
+		],
+		"6" : [
+			[ "enterraría" ],
+			[ "enterrarías" ],
+			[ "enterraría" ],
+			[ "enterraríamos" ],
+			[ "enterraríais", "enterrarían" ],
+			[ "enterrarían" ]
+		],
+		"7" : [
+			[ "enterraré" ],
+			[ "enterrarás" ],
+			[ "enterrará" ],
+			[ "enterraremos" ],
+			[ "enterraréis", "enterrarán" ],
+			[ "enterrarán" ]
+		],
+		"8" : [
+			[ "entierre" ],
+			[ "entierres" ],
+			[ "entierre" ],
+			[ "enterremos" ],
+			[ "enterréis", "entierren" ],
+			[ "entierren" ]
+		],
+		"9" : [
+			[ "enterrara" ],
+			[ "enterraras" ],
+			[ "enterrara" ],
+			[ "enterráramos" ],
+			[ "enterrarais", "enterraran" ],
+			[ "enterraran" ]
+		],
+		"10" : [
+			[ "enterrase" ],
+			[ "enterrases" ],
+			[ "enterrase" ],
+			[ "enterrásemos" ],
+			[ "enterraseis", "enterrasen" ],
+			[ "enterrasen" ]
+		],
+		"11" : [
+			[ "enterrare" ],
+			[ "enterrares" ],
+			[ "enterrare" ],
+			[ "enterráremos" ],
+			[ "enterrareis", "enterraren" ],
+			[ "enterraren" ]
+		],
+		"12" : {
+			"1" : [ "entierra" ],
+			"2" : [ "entierre" ],
+			"3" : [ "enterremos" ],
+			"4" : [ "enterrad" ],
+			"5" : [ "entierren" ]
+		}
+	}
+}

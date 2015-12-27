@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=biografiar",
+	"word" : "biografiar",
+	"infinitivo" : "biografiar",
+	"participio" : [ "biografiado" ],
+	"gerundio" : [ "biografiando" ],
+	"tenses" : {
+		"3" : [
+			[ "biografío" ],
+			[ "biografías", "biografiás" ],
+			[ "biografía" ],
+			[ "biografiamos" ],
+			[ "biografiáis", "biografían" ],
+			[ "biografían" ]
+		],
+		"4" : [
+			[ "biografié" ],
+			[ "biografiaste" ],
+			[ "biografió" ],
+			[ "biografiamos" ],
+			[ "biografiasteis", "biografiaron" ],
+			[ "biografiaron" ]
+		],
+		"5" : [
+			[ "biografiaba" ],
+			[ "biografiabas" ],
+			[ "biografiaba" ],
+			[ "biografiábamos" ],
+			[ "biografiabais", "biografiaban" ],
+			[ "biografiaban" ]
+		],
+		"6" : [
+			[ "biografiaría" ],
+			[ "biografiarías" ],
+			[ "biografiaría" ],
+			[ "biografiaríamos" ],
+			[ "biografiaríais", "biografiarían" ],
+			[ "biografiarían" ]
+		],
+		"7" : [
+			[ "biografiaré" ],
+			[ "biografiarás" ],
+			[ "biografiará" ],
+			[ "biografiaremos" ],
+			[ "biografiaréis", "biografiarán" ],
+			[ "biografiarán" ]
+		],
+		"8" : [
+			[ "biografíe" ],
+			[ "biografíes" ],
+			[ "biografíe" ],
+			[ "biografiemos" ],
+			[ "biografiéis", "biografíen" ],
+			[ "biografíen" ]
+		],
+		"9" : [
+			[ "biografiara" ],
+			[ "biografiaras" ],
+			[ "biografiara" ],
+			[ "biografiáramos" ],
+			[ "biografiarais", "biografiaran" ],
+			[ "biografiaran" ]
+		],
+		"10" : [
+			[ "biografiase" ],
+			[ "biografiases" ],
+			[ "biografiase" ],
+			[ "biografiásemos" ],
+			[ "biografiaseis", "biografiasen" ],
+			[ "biografiasen" ]
+		],
+		"11" : [
+			[ "biografiare" ],
+			[ "biografiares" ],
+			[ "biografiare" ],
+			[ "biografiáremos" ],
+			[ "biografiareis", "biografiaren" ],
+			[ "biografiaren" ]
+		],
+		"12" : {
+			"1" : [ "biografía" ],
+			"2" : [ "biografíe" ],
+			"3" : [ "biografiemos" ],
+			"4" : [ "biografiad" ],
+			"5" : [ "biografíen" ]
+		}
+	}
+}

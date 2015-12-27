@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enjambrar",
+	"word" : "enjambrar",
+	"infinitivo" : "enjambrar",
+	"participio" : [ "enjambrado" ],
+	"gerundio" : [ "enjambrando" ],
+	"tenses" : {
+		"3" : [
+			[ "enjambro" ],
+			[ "enjambras", "enjambrás" ],
+			[ "enjambra" ],
+			[ "enjambramos" ],
+			[ "enjambráis", "enjambran" ],
+			[ "enjambran" ]
+		],
+		"4" : [
+			[ "enjambré" ],
+			[ "enjambraste" ],
+			[ "enjambró" ],
+			[ "enjambramos" ],
+			[ "enjambrasteis", "enjambraron" ],
+			[ "enjambraron" ]
+		],
+		"5" : [
+			[ "enjambraba" ],
+			[ "enjambrabas" ],
+			[ "enjambraba" ],
+			[ "enjambrábamos" ],
+			[ "enjambrabais", "enjambraban" ],
+			[ "enjambraban" ]
+		],
+		"6" : [
+			[ "enjambraría" ],
+			[ "enjambrarías" ],
+			[ "enjambraría" ],
+			[ "enjambraríamos" ],
+			[ "enjambraríais", "enjambrarían" ],
+			[ "enjambrarían" ]
+		],
+		"7" : [
+			[ "enjambraré" ],
+			[ "enjambrarás" ],
+			[ "enjambrará" ],
+			[ "enjambraremos" ],
+			[ "enjambraréis", "enjambrarán" ],
+			[ "enjambrarán" ]
+		],
+		"8" : [
+			[ "enjambre" ],
+			[ "enjambres" ],
+			[ "enjambre" ],
+			[ "enjambremos" ],
+			[ "enjambréis", "enjambren" ],
+			[ "enjambren" ]
+		],
+		"9" : [
+			[ "enjambrara" ],
+			[ "enjambraras" ],
+			[ "enjambrara" ],
+			[ "enjambráramos" ],
+			[ "enjambrarais", "enjambraran" ],
+			[ "enjambraran" ]
+		],
+		"10" : [
+			[ "enjambrase" ],
+			[ "enjambrases" ],
+			[ "enjambrase" ],
+			[ "enjambrásemos" ],
+			[ "enjambraseis", "enjambrasen" ],
+			[ "enjambrasen" ]
+		],
+		"11" : [
+			[ "enjambrare" ],
+			[ "enjambrares" ],
+			[ "enjambrare" ],
+			[ "enjambráremos" ],
+			[ "enjambrareis", "enjambraren" ],
+			[ "enjambraren" ]
+		],
+		"12" : {
+			"1" : [ "enjambra" ],
+			"2" : [ "enjambre" ],
+			"3" : [ "enjambremos" ],
+			"4" : [ "enjambrad" ],
+			"5" : [ "enjambren" ]
+		}
+	}
+}

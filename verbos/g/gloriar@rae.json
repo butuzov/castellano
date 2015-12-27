@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gloriar",
+	"word" : "gloriar",
+	"infinitivo" : "gloriar",
+	"participio" : [ "gloriado" ],
+	"gerundio" : [ "gloriando" ],
+	"tenses" : {
+		"3" : [
+			[ "glorío" ],
+			[ "glorías", "gloriás" ],
+			[ "gloría" ],
+			[ "gloriamos" ],
+			[ "gloriáis", "glorían" ],
+			[ "glorían" ]
+		],
+		"4" : [
+			[ "glorié" ],
+			[ "gloriaste" ],
+			[ "glorió" ],
+			[ "gloriamos" ],
+			[ "gloriasteis", "gloriaron" ],
+			[ "gloriaron" ]
+		],
+		"5" : [
+			[ "gloriaba" ],
+			[ "gloriabas" ],
+			[ "gloriaba" ],
+			[ "gloriábamos" ],
+			[ "gloriabais", "gloriaban" ],
+			[ "gloriaban" ]
+		],
+		"6" : [
+			[ "gloriaría" ],
+			[ "gloriarías" ],
+			[ "gloriaría" ],
+			[ "gloriaríamos" ],
+			[ "gloriaríais", "gloriarían" ],
+			[ "gloriarían" ]
+		],
+		"7" : [
+			[ "gloriaré" ],
+			[ "gloriarás" ],
+			[ "gloriará" ],
+			[ "gloriaremos" ],
+			[ "gloriaréis", "gloriarán" ],
+			[ "gloriarán" ]
+		],
+		"8" : [
+			[ "gloríe" ],
+			[ "gloríes" ],
+			[ "gloríe" ],
+			[ "gloriemos" ],
+			[ "gloriéis", "gloríen" ],
+			[ "gloríen" ]
+		],
+		"9" : [
+			[ "gloriara" ],
+			[ "gloriaras" ],
+			[ "gloriara" ],
+			[ "gloriáramos" ],
+			[ "gloriarais", "gloriaran" ],
+			[ "gloriaran" ]
+		],
+		"10" : [
+			[ "gloriase" ],
+			[ "gloriases" ],
+			[ "gloriase" ],
+			[ "gloriásemos" ],
+			[ "gloriaseis", "gloriasen" ],
+			[ "gloriasen" ]
+		],
+		"11" : [
+			[ "gloriare" ],
+			[ "gloriares" ],
+			[ "gloriare" ],
+			[ "gloriáremos" ],
+			[ "gloriareis", "gloriaren" ],
+			[ "gloriaren" ]
+		],
+		"12" : {
+			"1" : [ "gloría" ],
+			"2" : [ "gloríe" ],
+			"3" : [ "gloriemos" ],
+			"4" : [ "gloriad" ],
+			"5" : [ "gloríen" ]
+		}
+	}
+}

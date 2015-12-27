@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acumular",
+	"word" : "acumular",
+	"infinitivo" : "acumular",
+	"participio" : [ "acumulado" ],
+	"gerundio" : [ "acumulando" ],
+	"tenses" : {
+		"3" : [
+			[ "acumulo" ],
+			[ "acumulas", "acumulás" ],
+			[ "acumula" ],
+			[ "acumulamos" ],
+			[ "acumuláis", "acumulan" ],
+			[ "acumulan" ]
+		],
+		"4" : [
+			[ "acumulé" ],
+			[ "acumulaste" ],
+			[ "acumuló" ],
+			[ "acumulamos" ],
+			[ "acumulasteis", "acumularon" ],
+			[ "acumularon" ]
+		],
+		"5" : [
+			[ "acumulaba" ],
+			[ "acumulabas" ],
+			[ "acumulaba" ],
+			[ "acumulábamos" ],
+			[ "acumulabais", "acumulaban" ],
+			[ "acumulaban" ]
+		],
+		"6" : [
+			[ "acumularía" ],
+			[ "acumularías" ],
+			[ "acumularía" ],
+			[ "acumularíamos" ],
+			[ "acumularíais", "acumularían" ],
+			[ "acumularían" ]
+		],
+		"7" : [
+			[ "acumularé" ],
+			[ "acumularás" ],
+			[ "acumulará" ],
+			[ "acumularemos" ],
+			[ "acumularéis", "acumularán" ],
+			[ "acumularán" ]
+		],
+		"8" : [
+			[ "acumule" ],
+			[ "acumules" ],
+			[ "acumule" ],
+			[ "acumulemos" ],
+			[ "acumuléis", "acumulen" ],
+			[ "acumulen" ]
+		],
+		"9" : [
+			[ "acumulara" ],
+			[ "acumularas" ],
+			[ "acumulara" ],
+			[ "acumuláramos" ],
+			[ "acumularais", "acumularan" ],
+			[ "acumularan" ]
+		],
+		"10" : [
+			[ "acumulase" ],
+			[ "acumulases" ],
+			[ "acumulase" ],
+			[ "acumulásemos" ],
+			[ "acumulaseis", "acumulasen" ],
+			[ "acumulasen" ]
+		],
+		"11" : [
+			[ "acumulare" ],
+			[ "acumulares" ],
+			[ "acumulare" ],
+			[ "acumuláremos" ],
+			[ "acumulareis", "acumularen" ],
+			[ "acumularen" ]
+		],
+		"12" : {
+			"1" : [ "acumula" ],
+			"2" : [ "acumule" ],
+			"3" : [ "acumulemos" ],
+			"4" : [ "acumulad" ],
+			"5" : [ "acumulen" ]
+		}
+	}
+}

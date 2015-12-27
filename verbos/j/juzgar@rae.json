@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=juzgar",
+	"word" : "juzgar",
+	"infinitivo" : "juzgar",
+	"participio" : [ "juzgado" ],
+	"gerundio" : [ "juzgando" ],
+	"tenses" : {
+		"3" : [
+			[ "juzgo" ],
+			[ "juzgas", "juzgás" ],
+			[ "juzga" ],
+			[ "juzgamos" ],
+			[ "juzgáis", "juzgan" ],
+			[ "juzgan" ]
+		],
+		"4" : [
+			[ "juzgué" ],
+			[ "juzgaste" ],
+			[ "juzgó" ],
+			[ "juzgamos" ],
+			[ "juzgasteis", "juzgaron" ],
+			[ "juzgaron" ]
+		],
+		"5" : [
+			[ "juzgaba" ],
+			[ "juzgabas" ],
+			[ "juzgaba" ],
+			[ "juzgábamos" ],
+			[ "juzgabais", "juzgaban" ],
+			[ "juzgaban" ]
+		],
+		"6" : [
+			[ "juzgaría" ],
+			[ "juzgarías" ],
+			[ "juzgaría" ],
+			[ "juzgaríamos" ],
+			[ "juzgaríais", "juzgarían" ],
+			[ "juzgarían" ]
+		],
+		"7" : [
+			[ "juzgaré" ],
+			[ "juzgarás" ],
+			[ "juzgará" ],
+			[ "juzgaremos" ],
+			[ "juzgaréis", "juzgarán" ],
+			[ "juzgarán" ]
+		],
+		"8" : [
+			[ "juzgue" ],
+			[ "juzgues" ],
+			[ "juzgue" ],
+			[ "juzguemos" ],
+			[ "juzguéis", "juzguen" ],
+			[ "juzguen" ]
+		],
+		"9" : [
+			[ "juzgara" ],
+			[ "juzgaras" ],
+			[ "juzgara" ],
+			[ "juzgáramos" ],
+			[ "juzgarais", "juzgaran" ],
+			[ "juzgaran" ]
+		],
+		"10" : [
+			[ "juzgase" ],
+			[ "juzgases" ],
+			[ "juzgase" ],
+			[ "juzgásemos" ],
+			[ "juzgaseis", "juzgasen" ],
+			[ "juzgasen" ]
+		],
+		"11" : [
+			[ "juzgare" ],
+			[ "juzgares" ],
+			[ "juzgare" ],
+			[ "juzgáremos" ],
+			[ "juzgareis", "juzgaren" ],
+			[ "juzgaren" ]
+		],
+		"12" : {
+			"1" : [ "juzga" ],
+			"2" : [ "juzgue" ],
+			"3" : [ "juzguemos" ],
+			"4" : [ "juzgad" ],
+			"5" : [ "juzguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=operar",
+	"word" : "operar",
+	"infinitivo" : "operar",
+	"participio" : [ "operado" ],
+	"gerundio" : [ "operando" ],
+	"tenses" : {
+		"3" : [
+			[ "opero" ],
+			[ "operas", "operás" ],
+			[ "opera" ],
+			[ "operamos" ],
+			[ "operáis", "operan" ],
+			[ "operan" ]
+		],
+		"4" : [
+			[ "operé" ],
+			[ "operaste" ],
+			[ "operó" ],
+			[ "operamos" ],
+			[ "operasteis", "operaron" ],
+			[ "operaron" ]
+		],
+		"5" : [
+			[ "operaba" ],
+			[ "operabas" ],
+			[ "operaba" ],
+			[ "operábamos" ],
+			[ "operabais", "operaban" ],
+			[ "operaban" ]
+		],
+		"6" : [
+			[ "operaría" ],
+			[ "operarías" ],
+			[ "operaría" ],
+			[ "operaríamos" ],
+			[ "operaríais", "operarían" ],
+			[ "operarían" ]
+		],
+		"7" : [
+			[ "operaré" ],
+			[ "operarás" ],
+			[ "operará" ],
+			[ "operaremos" ],
+			[ "operaréis", "operarán" ],
+			[ "operarán" ]
+		],
+		"8" : [
+			[ "opere" ],
+			[ "operes" ],
+			[ "opere" ],
+			[ "operemos" ],
+			[ "operéis", "operen" ],
+			[ "operen" ]
+		],
+		"9" : [
+			[ "operara" ],
+			[ "operaras" ],
+			[ "operara" ],
+			[ "operáramos" ],
+			[ "operarais", "operaran" ],
+			[ "operaran" ]
+		],
+		"10" : [
+			[ "operase" ],
+			[ "operases" ],
+			[ "operase" ],
+			[ "operásemos" ],
+			[ "operaseis", "operasen" ],
+			[ "operasen" ]
+		],
+		"11" : [
+			[ "operare" ],
+			[ "operares" ],
+			[ "operare" ],
+			[ "operáremos" ],
+			[ "operareis", "operaren" ],
+			[ "operaren" ]
+		],
+		"12" : {
+			"1" : [ "opera" ],
+			"2" : [ "opere" ],
+			"3" : [ "operemos" ],
+			"4" : [ "operad" ],
+			"5" : [ "operen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=retraer",
+	"word" : "retraer",
+	"infinitivo" : "retraer",
+	"participio" : [ "retraído" ],
+	"gerundio" : [ "retrayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "retraigo" ],
+			[ "retraes", "retraés" ],
+			[ "retrae" ],
+			[ "retraemos" ],
+			[ "retraéis", "retraen" ],
+			[ "retraen" ]
+		],
+		"4" : [
+			[ "retraje" ],
+			[ "retrajiste" ],
+			[ "retrajo" ],
+			[ "retrajimos" ],
+			[ "retrajisteis", "retrajeron" ],
+			[ "retrajeron" ]
+		],
+		"5" : [
+			[ "retraía" ],
+			[ "retraías" ],
+			[ "retraía" ],
+			[ "retraíamos" ],
+			[ "retraíais", "retraían" ],
+			[ "retraían" ]
+		],
+		"6" : [
+			[ "retraería" ],
+			[ "retraerías" ],
+			[ "retraería" ],
+			[ "retraeríamos" ],
+			[ "retraeríais", "retraerían" ],
+			[ "retraerían" ]
+		],
+		"7" : [
+			[ "retraeré" ],
+			[ "retraerás" ],
+			[ "retraerá" ],
+			[ "retraeremos" ],
+			[ "retraeréis", "retraerán" ],
+			[ "retraerán" ]
+		],
+		"8" : [
+			[ "retraiga" ],
+			[ "retraigas" ],
+			[ "retraiga" ],
+			[ "retraigamos" ],
+			[ "retraigáis", "retraigan" ],
+			[ "retraigan" ]
+		],
+		"9" : [
+			[ "retrajera" ],
+			[ "retrajeras" ],
+			[ "retrajera" ],
+			[ "retrajéramos" ],
+			[ "retrajerais", "retrajeran" ],
+			[ "retrajeran" ]
+		],
+		"10" : [
+			[ "retrajese" ],
+			[ "retrajeses" ],
+			[ "retrajese" ],
+			[ "retrajésemos" ],
+			[ "retrajeseis", "retrajesen" ],
+			[ "retrajesen" ]
+		],
+		"11" : [
+			[ "retrajere" ],
+			[ "retrajeres" ],
+			[ "retrajere" ],
+			[ "retrajéremos" ],
+			[ "retrajereis", "retrajeren" ],
+			[ "retrajeren" ]
+		],
+		"12" : {
+			"1" : [ "retrae" ],
+			"2" : [ "retraiga" ],
+			"3" : [ "retraigamos" ],
+			"4" : [ "retraed" ],
+			"5" : [ "retraigan" ]
+		}
+	}
+}

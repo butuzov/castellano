@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=segar",
+	"word" : "segar",
+	"infinitivo" : "segar",
+	"participio" : [ "segado" ],
+	"gerundio" : [ "segando" ],
+	"tenses" : {
+		"3" : [
+			[ "siego" ],
+			[ "siegas", "segás" ],
+			[ "siega" ],
+			[ "segamos" ],
+			[ "segáis", "siegan" ],
+			[ "siegan" ]
+		],
+		"4" : [
+			[ "segué" ],
+			[ "segaste" ],
+			[ "segó" ],
+			[ "segamos" ],
+			[ "segasteis", "segaron" ],
+			[ "segaron" ]
+		],
+		"5" : [
+			[ "segaba" ],
+			[ "segabas" ],
+			[ "segaba" ],
+			[ "segábamos" ],
+			[ "segabais", "segaban" ],
+			[ "segaban" ]
+		],
+		"6" : [
+			[ "segaría" ],
+			[ "segarías" ],
+			[ "segaría" ],
+			[ "segaríamos" ],
+			[ "segaríais", "segarían" ],
+			[ "segarían" ]
+		],
+		"7" : [
+			[ "segaré" ],
+			[ "segarás" ],
+			[ "segará" ],
+			[ "segaremos" ],
+			[ "segaréis", "segarán" ],
+			[ "segarán" ]
+		],
+		"8" : [
+			[ "siegue" ],
+			[ "siegues" ],
+			[ "siegue" ],
+			[ "seguemos" ],
+			[ "seguéis", "sieguen" ],
+			[ "sieguen" ]
+		],
+		"9" : [
+			[ "segara" ],
+			[ "segaras" ],
+			[ "segara" ],
+			[ "segáramos" ],
+			[ "segarais", "segaran" ],
+			[ "segaran" ]
+		],
+		"10" : [
+			[ "segase" ],
+			[ "segases" ],
+			[ "segase" ],
+			[ "segásemos" ],
+			[ "segaseis", "segasen" ],
+			[ "segasen" ]
+		],
+		"11" : [
+			[ "segare" ],
+			[ "segares" ],
+			[ "segare" ],
+			[ "segáremos" ],
+			[ "segareis", "segaren" ],
+			[ "segaren" ]
+		],
+		"12" : {
+			"1" : [ "siega" ],
+			"2" : [ "siegue" ],
+			"3" : [ "seguemos" ],
+			"4" : [ "segad" ],
+			"5" : [ "sieguen" ]
+		}
+	}
+}

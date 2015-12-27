@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=retornar",
+	"word" : "retornar",
+	"infinitivo" : "retornar",
+	"participio" : [ "retornado" ],
+	"gerundio" : [ "retornando" ],
+	"tenses" : {
+		"3" : [
+			[ "retorno" ],
+			[ "retornas", "retornás" ],
+			[ "retorna" ],
+			[ "retornamos" ],
+			[ "retornáis", "retornan" ],
+			[ "retornan" ]
+		],
+		"4" : [
+			[ "retorné" ],
+			[ "retornaste" ],
+			[ "retornó" ],
+			[ "retornamos" ],
+			[ "retornasteis", "retornaron" ],
+			[ "retornaron" ]
+		],
+		"5" : [
+			[ "retornaba" ],
+			[ "retornabas" ],
+			[ "retornaba" ],
+			[ "retornábamos" ],
+			[ "retornabais", "retornaban" ],
+			[ "retornaban" ]
+		],
+		"6" : [
+			[ "retornaría" ],
+			[ "retornarías" ],
+			[ "retornaría" ],
+			[ "retornaríamos" ],
+			[ "retornaríais", "retornarían" ],
+			[ "retornarían" ]
+		],
+		"7" : [
+			[ "retornaré" ],
+			[ "retornarás" ],
+			[ "retornará" ],
+			[ "retornaremos" ],
+			[ "retornaréis", "retornarán" ],
+			[ "retornarán" ]
+		],
+		"8" : [
+			[ "retorne" ],
+			[ "retornes" ],
+			[ "retorne" ],
+			[ "retornemos" ],
+			[ "retornéis", "retornen" ],
+			[ "retornen" ]
+		],
+		"9" : [
+			[ "retornara" ],
+			[ "retornaras" ],
+			[ "retornara" ],
+			[ "retornáramos" ],
+			[ "retornarais", "retornaran" ],
+			[ "retornaran" ]
+		],
+		"10" : [
+			[ "retornase" ],
+			[ "retornases" ],
+			[ "retornase" ],
+			[ "retornásemos" ],
+			[ "retornaseis", "retornasen" ],
+			[ "retornasen" ]
+		],
+		"11" : [
+			[ "retornare" ],
+			[ "retornares" ],
+			[ "retornare" ],
+			[ "retornáremos" ],
+			[ "retornareis", "retornaren" ],
+			[ "retornaren" ]
+		],
+		"12" : {
+			"1" : [ "retorna" ],
+			"2" : [ "retorne" ],
+			"3" : [ "retornemos" ],
+			"4" : [ "retornad" ],
+			"5" : [ "retornen" ]
+		}
+	}
+}

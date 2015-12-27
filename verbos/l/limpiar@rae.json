@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=limpiar",
+	"word" : "limpiar",
+	"infinitivo" : "limpiar",
+	"participio" : [ "limpiado" ],
+	"gerundio" : [ "limpiando" ],
+	"tenses" : {
+		"3" : [
+			[ "limpio" ],
+			[ "limpias", "limpiás" ],
+			[ "limpia" ],
+			[ "limpiamos" ],
+			[ "limpiáis", "limpian" ],
+			[ "limpian" ]
+		],
+		"4" : [
+			[ "limpié" ],
+			[ "limpiaste" ],
+			[ "limpió" ],
+			[ "limpiamos" ],
+			[ "limpiasteis", "limpiaron" ],
+			[ "limpiaron" ]
+		],
+		"5" : [
+			[ "limpiaba" ],
+			[ "limpiabas" ],
+			[ "limpiaba" ],
+			[ "limpiábamos" ],
+			[ "limpiabais", "limpiaban" ],
+			[ "limpiaban" ]
+		],
+		"6" : [
+			[ "limpiaría" ],
+			[ "limpiarías" ],
+			[ "limpiaría" ],
+			[ "limpiaríamos" ],
+			[ "limpiaríais", "limpiarían" ],
+			[ "limpiarían" ]
+		],
+		"7" : [
+			[ "limpiaré" ],
+			[ "limpiarás" ],
+			[ "limpiará" ],
+			[ "limpiaremos" ],
+			[ "limpiaréis", "limpiarán" ],
+			[ "limpiarán" ]
+		],
+		"8" : [
+			[ "limpie" ],
+			[ "limpies" ],
+			[ "limpie" ],
+			[ "limpiemos" ],
+			[ "limpiéis", "limpien" ],
+			[ "limpien" ]
+		],
+		"9" : [
+			[ "limpiara" ],
+			[ "limpiaras" ],
+			[ "limpiara" ],
+			[ "limpiáramos" ],
+			[ "limpiarais", "limpiaran" ],
+			[ "limpiaran" ]
+		],
+		"10" : [
+			[ "limpiase" ],
+			[ "limpiases" ],
+			[ "limpiase" ],
+			[ "limpiásemos" ],
+			[ "limpiaseis", "limpiasen" ],
+			[ "limpiasen" ]
+		],
+		"11" : [
+			[ "limpiare" ],
+			[ "limpiares" ],
+			[ "limpiare" ],
+			[ "limpiáremos" ],
+			[ "limpiareis", "limpiaren" ],
+			[ "limpiaren" ]
+		],
+		"12" : {
+			"1" : [ "limpia" ],
+			"2" : [ "limpie" ],
+			"3" : [ "limpiemos" ],
+			"4" : [ "limpiad" ],
+			"5" : [ "limpien" ]
+		}
+	}
+}

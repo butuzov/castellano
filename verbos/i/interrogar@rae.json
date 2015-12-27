@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=interrogar",
+	"word" : "interrogar",
+	"infinitivo" : "interrogar",
+	"participio" : [ "interrogado" ],
+	"gerundio" : [ "interrogando" ],
+	"tenses" : {
+		"3" : [
+			[ "interrogo" ],
+			[ "interrogas", "interrogás" ],
+			[ "interroga" ],
+			[ "interrogamos" ],
+			[ "interrogáis", "interrogan" ],
+			[ "interrogan" ]
+		],
+		"4" : [
+			[ "interrogué" ],
+			[ "interrogaste" ],
+			[ "interrogó" ],
+			[ "interrogamos" ],
+			[ "interrogasteis", "interrogaron" ],
+			[ "interrogaron" ]
+		],
+		"5" : [
+			[ "interrogaba" ],
+			[ "interrogabas" ],
+			[ "interrogaba" ],
+			[ "interrogábamos" ],
+			[ "interrogabais", "interrogaban" ],
+			[ "interrogaban" ]
+		],
+		"6" : [
+			[ "interrogaría" ],
+			[ "interrogarías" ],
+			[ "interrogaría" ],
+			[ "interrogaríamos" ],
+			[ "interrogaríais", "interrogarían" ],
+			[ "interrogarían" ]
+		],
+		"7" : [
+			[ "interrogaré" ],
+			[ "interrogarás" ],
+			[ "interrogará" ],
+			[ "interrogaremos" ],
+			[ "interrogaréis", "interrogarán" ],
+			[ "interrogarán" ]
+		],
+		"8" : [
+			[ "interrogue" ],
+			[ "interrogues" ],
+			[ "interrogue" ],
+			[ "interroguemos" ],
+			[ "interroguéis", "interroguen" ],
+			[ "interroguen" ]
+		],
+		"9" : [
+			[ "interrogara" ],
+			[ "interrogaras" ],
+			[ "interrogara" ],
+			[ "interrogáramos" ],
+			[ "interrogarais", "interrogaran" ],
+			[ "interrogaran" ]
+		],
+		"10" : [
+			[ "interrogase" ],
+			[ "interrogases" ],
+			[ "interrogase" ],
+			[ "interrogásemos" ],
+			[ "interrogaseis", "interrogasen" ],
+			[ "interrogasen" ]
+		],
+		"11" : [
+			[ "interrogare" ],
+			[ "interrogares" ],
+			[ "interrogare" ],
+			[ "interrogáremos" ],
+			[ "interrogareis", "interrogaren" ],
+			[ "interrogaren" ]
+		],
+		"12" : {
+			"1" : [ "interroga" ],
+			"2" : [ "interrogue" ],
+			"3" : [ "interroguemos" ],
+			"4" : [ "interrogad" ],
+			"5" : [ "interroguen" ]
+		}
+	}
+}

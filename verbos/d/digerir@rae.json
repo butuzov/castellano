@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=digerir",
+	"word" : "digerir",
+	"infinitivo" : "digerir",
+	"participio" : [ "digerido" ],
+	"gerundio" : [ "digiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "digiero" ],
+			[ "digieres", "digerís" ],
+			[ "digiere" ],
+			[ "digerimos" ],
+			[ "digerís", "digieren" ],
+			[ "digieren" ]
+		],
+		"4" : [
+			[ "digerí" ],
+			[ "digeriste" ],
+			[ "digirió" ],
+			[ "digerimos" ],
+			[ "digeristeis", "digirieron" ],
+			[ "digirieron" ]
+		],
+		"5" : [
+			[ "digería" ],
+			[ "digerías" ],
+			[ "digería" ],
+			[ "digeríamos" ],
+			[ "digeríais", "digerían" ],
+			[ "digerían" ]
+		],
+		"6" : [
+			[ "digeriría" ],
+			[ "digerirías" ],
+			[ "digeriría" ],
+			[ "digeriríamos" ],
+			[ "digeriríais", "digerirían" ],
+			[ "digerirían" ]
+		],
+		"7" : [
+			[ "digeriré" ],
+			[ "digerirás" ],
+			[ "digerirá" ],
+			[ "digeriremos" ],
+			[ "digeriréis", "digerirán" ],
+			[ "digerirán" ]
+		],
+		"8" : [
+			[ "digiera" ],
+			[ "digieras" ],
+			[ "digiera" ],
+			[ "digiramos" ],
+			[ "digiráis", "digieran" ],
+			[ "digieran" ]
+		],
+		"9" : [
+			[ "digiriera" ],
+			[ "digirieras" ],
+			[ "digiriera" ],
+			[ "digiriéramos" ],
+			[ "digirierais", "digirieran" ],
+			[ "digirieran" ]
+		],
+		"10" : [
+			[ "digiriese" ],
+			[ "digirieses" ],
+			[ "digiriese" ],
+			[ "digiriésemos" ],
+			[ "digirieseis", "digiriesen" ],
+			[ "digiriesen" ]
+		],
+		"11" : [
+			[ "digiriere" ],
+			[ "digirieres" ],
+			[ "digiriere" ],
+			[ "digiriéremos" ],
+			[ "digiriereis", "digirieren" ],
+			[ "digirieren" ]
+		],
+		"12" : {
+			"1" : [ "digiere" ],
+			"2" : [ "digiera" ],
+			"3" : [ "digiramos" ],
+			"4" : [ "digerid" ],
+			"5" : [ "digieran" ]
+		}
+	}
+}

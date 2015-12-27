@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lanzar",
+	"word" : "lanzar",
+	"infinitivo" : "lanzar",
+	"participio" : [ "lanzado" ],
+	"gerundio" : [ "lanzando" ],
+	"tenses" : {
+		"3" : [
+			[ "lanzo" ],
+			[ "lanzas", "lanzás" ],
+			[ "lanza" ],
+			[ "lanzamos" ],
+			[ "lanzáis", "lanzan" ],
+			[ "lanzan" ]
+		],
+		"4" : [
+			[ "lancé" ],
+			[ "lanzaste" ],
+			[ "lanzó" ],
+			[ "lanzamos" ],
+			[ "lanzasteis", "lanzaron" ],
+			[ "lanzaron" ]
+		],
+		"5" : [
+			[ "lanzaba" ],
+			[ "lanzabas" ],
+			[ "lanzaba" ],
+			[ "lanzábamos" ],
+			[ "lanzabais", "lanzaban" ],
+			[ "lanzaban" ]
+		],
+		"6" : [
+			[ "lanzaría" ],
+			[ "lanzarías" ],
+			[ "lanzaría" ],
+			[ "lanzaríamos" ],
+			[ "lanzaríais", "lanzarían" ],
+			[ "lanzarían" ]
+		],
+		"7" : [
+			[ "lanzaré" ],
+			[ "lanzarás" ],
+			[ "lanzará" ],
+			[ "lanzaremos" ],
+			[ "lanzaréis", "lanzarán" ],
+			[ "lanzarán" ]
+		],
+		"8" : [
+			[ "lance" ],
+			[ "lances" ],
+			[ "lance" ],
+			[ "lancemos" ],
+			[ "lancéis", "lancen" ],
+			[ "lancen" ]
+		],
+		"9" : [
+			[ "lanzara" ],
+			[ "lanzaras" ],
+			[ "lanzara" ],
+			[ "lanzáramos" ],
+			[ "lanzarais", "lanzaran" ],
+			[ "lanzaran" ]
+		],
+		"10" : [
+			[ "lanzase" ],
+			[ "lanzases" ],
+			[ "lanzase" ],
+			[ "lanzásemos" ],
+			[ "lanzaseis", "lanzasen" ],
+			[ "lanzasen" ]
+		],
+		"11" : [
+			[ "lanzare" ],
+			[ "lanzares" ],
+			[ "lanzare" ],
+			[ "lanzáremos" ],
+			[ "lanzareis", "lanzaren" ],
+			[ "lanzaren" ]
+		],
+		"12" : {
+			"1" : [ "lanza" ],
+			"2" : [ "lance" ],
+			"3" : [ "lancemos" ],
+			"4" : [ "lanzad" ],
+			"5" : [ "lancen" ]
+		}
+	}
+}

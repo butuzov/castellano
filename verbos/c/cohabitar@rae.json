@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cohabitar",
+	"word" : "cohabitar",
+	"infinitivo" : "cohabitar",
+	"participio" : [ "cohabitado" ],
+	"gerundio" : [ "cohabitando" ],
+	"tenses" : {
+		"3" : [
+			[ "cohabito" ],
+			[ "cohabitas", "cohabitás" ],
+			[ "cohabita" ],
+			[ "cohabitamos" ],
+			[ "cohabitáis", "cohabitan" ],
+			[ "cohabitan" ]
+		],
+		"4" : [
+			[ "cohabité" ],
+			[ "cohabitaste" ],
+			[ "cohabitó" ],
+			[ "cohabitamos" ],
+			[ "cohabitasteis", "cohabitaron" ],
+			[ "cohabitaron" ]
+		],
+		"5" : [
+			[ "cohabitaba" ],
+			[ "cohabitabas" ],
+			[ "cohabitaba" ],
+			[ "cohabitábamos" ],
+			[ "cohabitabais", "cohabitaban" ],
+			[ "cohabitaban" ]
+		],
+		"6" : [
+			[ "cohabitaría" ],
+			[ "cohabitarías" ],
+			[ "cohabitaría" ],
+			[ "cohabitaríamos" ],
+			[ "cohabitaríais", "cohabitarían" ],
+			[ "cohabitarían" ]
+		],
+		"7" : [
+			[ "cohabitaré" ],
+			[ "cohabitarás" ],
+			[ "cohabitará" ],
+			[ "cohabitaremos" ],
+			[ "cohabitaréis", "cohabitarán" ],
+			[ "cohabitarán" ]
+		],
+		"8" : [
+			[ "cohabite" ],
+			[ "cohabites" ],
+			[ "cohabite" ],
+			[ "cohabitemos" ],
+			[ "cohabitéis", "cohabiten" ],
+			[ "cohabiten" ]
+		],
+		"9" : [
+			[ "cohabitara" ],
+			[ "cohabitaras" ],
+			[ "cohabitara" ],
+			[ "cohabitáramos" ],
+			[ "cohabitarais", "cohabitaran" ],
+			[ "cohabitaran" ]
+		],
+		"10" : [
+			[ "cohabitase" ],
+			[ "cohabitases" ],
+			[ "cohabitase" ],
+			[ "cohabitásemos" ],
+			[ "cohabitaseis", "cohabitasen" ],
+			[ "cohabitasen" ]
+		],
+		"11" : [
+			[ "cohabitare" ],
+			[ "cohabitares" ],
+			[ "cohabitare" ],
+			[ "cohabitáremos" ],
+			[ "cohabitareis", "cohabitaren" ],
+			[ "cohabitaren" ]
+		],
+		"12" : {
+			"1" : [ "cohabita" ],
+			"2" : [ "cohabite" ],
+			"3" : [ "cohabitemos" ],
+			"4" : [ "cohabitad" ],
+			"5" : [ "cohabiten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=carbonizar",
+	"word" : "carbonizar",
+	"infinitivo" : "carbonizar",
+	"participio" : [ "carbonizado" ],
+	"gerundio" : [ "carbonizando" ],
+	"tenses" : {
+		"3" : [
+			[ "carbonizo" ],
+			[ "carbonizas", "carbonizás" ],
+			[ "carboniza" ],
+			[ "carbonizamos" ],
+			[ "carbonizáis", "carbonizan" ],
+			[ "carbonizan" ]
+		],
+		"4" : [
+			[ "carbonicé" ],
+			[ "carbonizaste" ],
+			[ "carbonizó" ],
+			[ "carbonizamos" ],
+			[ "carbonizasteis", "carbonizaron" ],
+			[ "carbonizaron" ]
+		],
+		"5" : [
+			[ "carbonizaba" ],
+			[ "carbonizabas" ],
+			[ "carbonizaba" ],
+			[ "carbonizábamos" ],
+			[ "carbonizabais", "carbonizaban" ],
+			[ "carbonizaban" ]
+		],
+		"6" : [
+			[ "carbonizaría" ],
+			[ "carbonizarías" ],
+			[ "carbonizaría" ],
+			[ "carbonizaríamos" ],
+			[ "carbonizaríais", "carbonizarían" ],
+			[ "carbonizarían" ]
+		],
+		"7" : [
+			[ "carbonizaré" ],
+			[ "carbonizarás" ],
+			[ "carbonizará" ],
+			[ "carbonizaremos" ],
+			[ "carbonizaréis", "carbonizarán" ],
+			[ "carbonizarán" ]
+		],
+		"8" : [
+			[ "carbonice" ],
+			[ "carbonices" ],
+			[ "carbonice" ],
+			[ "carbonicemos" ],
+			[ "carbonicéis", "carbonicen" ],
+			[ "carbonicen" ]
+		],
+		"9" : [
+			[ "carbonizara" ],
+			[ "carbonizaras" ],
+			[ "carbonizara" ],
+			[ "carbonizáramos" ],
+			[ "carbonizarais", "carbonizaran" ],
+			[ "carbonizaran" ]
+		],
+		"10" : [
+			[ "carbonizase" ],
+			[ "carbonizases" ],
+			[ "carbonizase" ],
+			[ "carbonizásemos" ],
+			[ "carbonizaseis", "carbonizasen" ],
+			[ "carbonizasen" ]
+		],
+		"11" : [
+			[ "carbonizare" ],
+			[ "carbonizares" ],
+			[ "carbonizare" ],
+			[ "carbonizáremos" ],
+			[ "carbonizareis", "carbonizaren" ],
+			[ "carbonizaren" ]
+		],
+		"12" : {
+			"1" : [ "carboniza" ],
+			"2" : [ "carbonice" ],
+			"3" : [ "carbonicemos" ],
+			"4" : [ "carbonizad" ],
+			"5" : [ "carbonicen" ]
+		}
+	}
+}

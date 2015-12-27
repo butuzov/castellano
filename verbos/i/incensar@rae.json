@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incensar",
+	"word" : "incensar",
+	"infinitivo" : "incensar",
+	"participio" : [ "incensado" ],
+	"gerundio" : [ "incensando" ],
+	"tenses" : {
+		"3" : [
+			[ "incienso" ],
+			[ "inciensas", "incensás" ],
+			[ "inciensa" ],
+			[ "incensamos" ],
+			[ "incensáis", "inciensan" ],
+			[ "inciensan" ]
+		],
+		"4" : [
+			[ "incensé" ],
+			[ "incensaste" ],
+			[ "incensó" ],
+			[ "incensamos" ],
+			[ "incensasteis", "incensaron" ],
+			[ "incensaron" ]
+		],
+		"5" : [
+			[ "incensaba" ],
+			[ "incensabas" ],
+			[ "incensaba" ],
+			[ "incensábamos" ],
+			[ "incensabais", "incensaban" ],
+			[ "incensaban" ]
+		],
+		"6" : [
+			[ "incensaría" ],
+			[ "incensarías" ],
+			[ "incensaría" ],
+			[ "incensaríamos" ],
+			[ "incensaríais", "incensarían" ],
+			[ "incensarían" ]
+		],
+		"7" : [
+			[ "incensaré" ],
+			[ "incensarás" ],
+			[ "incensará" ],
+			[ "incensaremos" ],
+			[ "incensaréis", "incensarán" ],
+			[ "incensarán" ]
+		],
+		"8" : [
+			[ "inciense" ],
+			[ "incienses" ],
+			[ "inciense" ],
+			[ "incensemos" ],
+			[ "incenséis", "inciensen" ],
+			[ "inciensen" ]
+		],
+		"9" : [
+			[ "incensara" ],
+			[ "incensaras" ],
+			[ "incensara" ],
+			[ "incensáramos" ],
+			[ "incensarais", "incensaran" ],
+			[ "incensaran" ]
+		],
+		"10" : [
+			[ "incensase" ],
+			[ "incensases" ],
+			[ "incensase" ],
+			[ "incensásemos" ],
+			[ "incensaseis", "incensasen" ],
+			[ "incensasen" ]
+		],
+		"11" : [
+			[ "incensare" ],
+			[ "incensares" ],
+			[ "incensare" ],
+			[ "incensáremos" ],
+			[ "incensareis", "incensaren" ],
+			[ "incensaren" ]
+		],
+		"12" : {
+			"1" : [ "inciensa" ],
+			"2" : [ "inciense" ],
+			"3" : [ "incensemos" ],
+			"4" : [ "incensad" ],
+			"5" : [ "inciensen" ]
+		}
+	}
+}

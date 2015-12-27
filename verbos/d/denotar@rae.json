@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=denotar",
+	"word" : "denotar",
+	"infinitivo" : "denotar",
+	"participio" : [ "denotado" ],
+	"gerundio" : [ "denotando" ],
+	"tenses" : {
+		"3" : [
+			[ "denoto" ],
+			[ "denotas", "denotás" ],
+			[ "denota" ],
+			[ "denotamos" ],
+			[ "denotáis", "denotan" ],
+			[ "denotan" ]
+		],
+		"4" : [
+			[ "denoté" ],
+			[ "denotaste" ],
+			[ "denotó" ],
+			[ "denotamos" ],
+			[ "denotasteis", "denotaron" ],
+			[ "denotaron" ]
+		],
+		"5" : [
+			[ "denotaba" ],
+			[ "denotabas" ],
+			[ "denotaba" ],
+			[ "denotábamos" ],
+			[ "denotabais", "denotaban" ],
+			[ "denotaban" ]
+		],
+		"6" : [
+			[ "denotaría" ],
+			[ "denotarías" ],
+			[ "denotaría" ],
+			[ "denotaríamos" ],
+			[ "denotaríais", "denotarían" ],
+			[ "denotarían" ]
+		],
+		"7" : [
+			[ "denotaré" ],
+			[ "denotarás" ],
+			[ "denotará" ],
+			[ "denotaremos" ],
+			[ "denotaréis", "denotarán" ],
+			[ "denotarán" ]
+		],
+		"8" : [
+			[ "denote" ],
+			[ "denotes" ],
+			[ "denote" ],
+			[ "denotemos" ],
+			[ "denotéis", "denoten" ],
+			[ "denoten" ]
+		],
+		"9" : [
+			[ "denotara" ],
+			[ "denotaras" ],
+			[ "denotara" ],
+			[ "denotáramos" ],
+			[ "denotarais", "denotaran" ],
+			[ "denotaran" ]
+		],
+		"10" : [
+			[ "denotase" ],
+			[ "denotases" ],
+			[ "denotase" ],
+			[ "denotásemos" ],
+			[ "denotaseis", "denotasen" ],
+			[ "denotasen" ]
+		],
+		"11" : [
+			[ "denotare" ],
+			[ "denotares" ],
+			[ "denotare" ],
+			[ "denotáremos" ],
+			[ "denotareis", "denotaren" ],
+			[ "denotaren" ]
+		],
+		"12" : {
+			"1" : [ "denota" ],
+			"2" : [ "denote" ],
+			"3" : [ "denotemos" ],
+			"4" : [ "denotad" ],
+			"5" : [ "denoten" ]
+		}
+	}
+}

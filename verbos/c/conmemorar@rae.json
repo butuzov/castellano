@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conmemorar",
+	"word" : "conmemorar",
+	"infinitivo" : "conmemorar",
+	"participio" : [ "conmemorado" ],
+	"gerundio" : [ "conmemorando" ],
+	"tenses" : {
+		"3" : [
+			[ "conmemoro" ],
+			[ "conmemoras", "conmemorás" ],
+			[ "conmemora" ],
+			[ "conmemoramos" ],
+			[ "conmemoráis", "conmemoran" ],
+			[ "conmemoran" ]
+		],
+		"4" : [
+			[ "conmemoré" ],
+			[ "conmemoraste" ],
+			[ "conmemoró" ],
+			[ "conmemoramos" ],
+			[ "conmemorasteis", "conmemoraron" ],
+			[ "conmemoraron" ]
+		],
+		"5" : [
+			[ "conmemoraba" ],
+			[ "conmemorabas" ],
+			[ "conmemoraba" ],
+			[ "conmemorábamos" ],
+			[ "conmemorabais", "conmemoraban" ],
+			[ "conmemoraban" ]
+		],
+		"6" : [
+			[ "conmemoraría" ],
+			[ "conmemorarías" ],
+			[ "conmemoraría" ],
+			[ "conmemoraríamos" ],
+			[ "conmemoraríais", "conmemorarían" ],
+			[ "conmemorarían" ]
+		],
+		"7" : [
+			[ "conmemoraré" ],
+			[ "conmemorarás" ],
+			[ "conmemorará" ],
+			[ "conmemoraremos" ],
+			[ "conmemoraréis", "conmemorarán" ],
+			[ "conmemorarán" ]
+		],
+		"8" : [
+			[ "conmemore" ],
+			[ "conmemores" ],
+			[ "conmemore" ],
+			[ "conmemoremos" ],
+			[ "conmemoréis", "conmemoren" ],
+			[ "conmemoren" ]
+		],
+		"9" : [
+			[ "conmemorara" ],
+			[ "conmemoraras" ],
+			[ "conmemorara" ],
+			[ "conmemoráramos" ],
+			[ "conmemorarais", "conmemoraran" ],
+			[ "conmemoraran" ]
+		],
+		"10" : [
+			[ "conmemorase" ],
+			[ "conmemorases" ],
+			[ "conmemorase" ],
+			[ "conmemorásemos" ],
+			[ "conmemoraseis", "conmemorasen" ],
+			[ "conmemorasen" ]
+		],
+		"11" : [
+			[ "conmemorare" ],
+			[ "conmemorares" ],
+			[ "conmemorare" ],
+			[ "conmemoráremos" ],
+			[ "conmemorareis", "conmemoraren" ],
+			[ "conmemoraren" ]
+		],
+		"12" : {
+			"1" : [ "conmemora" ],
+			"2" : [ "conmemore" ],
+			"3" : [ "conmemoremos" ],
+			"4" : [ "conmemorad" ],
+			"5" : [ "conmemoren" ]
+		}
+	}
+}

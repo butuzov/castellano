@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tintar",
+	"word" : "tintar",
+	"infinitivo" : "tintar",
+	"participio" : [ "tintado" ],
+	"gerundio" : [ "tintando" ],
+	"tenses" : {
+		"3" : [
+			[ "tinto" ],
+			[ "tintas", "tintás" ],
+			[ "tinta" ],
+			[ "tintamos" ],
+			[ "tintáis", "tintan" ],
+			[ "tintan" ]
+		],
+		"4" : [
+			[ "tinté" ],
+			[ "tintaste" ],
+			[ "tintó" ],
+			[ "tintamos" ],
+			[ "tintasteis", "tintaron" ],
+			[ "tintaron" ]
+		],
+		"5" : [
+			[ "tintaba" ],
+			[ "tintabas" ],
+			[ "tintaba" ],
+			[ "tintábamos" ],
+			[ "tintabais", "tintaban" ],
+			[ "tintaban" ]
+		],
+		"6" : [
+			[ "tintaría" ],
+			[ "tintarías" ],
+			[ "tintaría" ],
+			[ "tintaríamos" ],
+			[ "tintaríais", "tintarían" ],
+			[ "tintarían" ]
+		],
+		"7" : [
+			[ "tintaré" ],
+			[ "tintarás" ],
+			[ "tintará" ],
+			[ "tintaremos" ],
+			[ "tintaréis", "tintarán" ],
+			[ "tintarán" ]
+		],
+		"8" : [
+			[ "tinte" ],
+			[ "tintes" ],
+			[ "tinte" ],
+			[ "tintemos" ],
+			[ "tintéis", "tinten" ],
+			[ "tinten" ]
+		],
+		"9" : [
+			[ "tintara" ],
+			[ "tintaras" ],
+			[ "tintara" ],
+			[ "tintáramos" ],
+			[ "tintarais", "tintaran" ],
+			[ "tintaran" ]
+		],
+		"10" : [
+			[ "tintase" ],
+			[ "tintases" ],
+			[ "tintase" ],
+			[ "tintásemos" ],
+			[ "tintaseis", "tintasen" ],
+			[ "tintasen" ]
+		],
+		"11" : [
+			[ "tintare" ],
+			[ "tintares" ],
+			[ "tintare" ],
+			[ "tintáremos" ],
+			[ "tintareis", "tintaren" ],
+			[ "tintaren" ]
+		],
+		"12" : {
+			"1" : [ "tinta" ],
+			"2" : [ "tinte" ],
+			"3" : [ "tintemos" ],
+			"4" : [ "tintad" ],
+			"5" : [ "tinten" ]
+		}
+	}
+}

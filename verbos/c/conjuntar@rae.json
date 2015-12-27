@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conjuntar",
+	"word" : "conjuntar",
+	"infinitivo" : "conjuntar",
+	"participio" : [ "conjuntado" ],
+	"gerundio" : [ "conjuntando" ],
+	"tenses" : {
+		"3" : [
+			[ "conjunto" ],
+			[ "conjuntas", "conjuntás" ],
+			[ "conjunta" ],
+			[ "conjuntamos" ],
+			[ "conjuntáis", "conjuntan" ],
+			[ "conjuntan" ]
+		],
+		"4" : [
+			[ "conjunté" ],
+			[ "conjuntaste" ],
+			[ "conjuntó" ],
+			[ "conjuntamos" ],
+			[ "conjuntasteis", "conjuntaron" ],
+			[ "conjuntaron" ]
+		],
+		"5" : [
+			[ "conjuntaba" ],
+			[ "conjuntabas" ],
+			[ "conjuntaba" ],
+			[ "conjuntábamos" ],
+			[ "conjuntabais", "conjuntaban" ],
+			[ "conjuntaban" ]
+		],
+		"6" : [
+			[ "conjuntaría" ],
+			[ "conjuntarías" ],
+			[ "conjuntaría" ],
+			[ "conjuntaríamos" ],
+			[ "conjuntaríais", "conjuntarían" ],
+			[ "conjuntarían" ]
+		],
+		"7" : [
+			[ "conjuntaré" ],
+			[ "conjuntarás" ],
+			[ "conjuntará" ],
+			[ "conjuntaremos" ],
+			[ "conjuntaréis", "conjuntarán" ],
+			[ "conjuntarán" ]
+		],
+		"8" : [
+			[ "conjunte" ],
+			[ "conjuntes" ],
+			[ "conjunte" ],
+			[ "conjuntemos" ],
+			[ "conjuntéis", "conjunten" ],
+			[ "conjunten" ]
+		],
+		"9" : [
+			[ "conjuntara" ],
+			[ "conjuntaras" ],
+			[ "conjuntara" ],
+			[ "conjuntáramos" ],
+			[ "conjuntarais", "conjuntaran" ],
+			[ "conjuntaran" ]
+		],
+		"10" : [
+			[ "conjuntase" ],
+			[ "conjuntases" ],
+			[ "conjuntase" ],
+			[ "conjuntásemos" ],
+			[ "conjuntaseis", "conjuntasen" ],
+			[ "conjuntasen" ]
+		],
+		"11" : [
+			[ "conjuntare" ],
+			[ "conjuntares" ],
+			[ "conjuntare" ],
+			[ "conjuntáremos" ],
+			[ "conjuntareis", "conjuntaren" ],
+			[ "conjuntaren" ]
+		],
+		"12" : {
+			"1" : [ "conjunta" ],
+			"2" : [ "conjunte" ],
+			"3" : [ "conjuntemos" ],
+			"4" : [ "conjuntad" ],
+			"5" : [ "conjunten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=salivar",
+	"word" : "salivar",
+	"infinitivo" : "salivar",
+	"participio" : [ "salivado" ],
+	"gerundio" : [ "salivando" ],
+	"tenses" : {
+		"3" : [
+			[ "salivo" ],
+			[ "salivas", "salivás" ],
+			[ "saliva" ],
+			[ "salivamos" ],
+			[ "saliváis", "salivan" ],
+			[ "salivan" ]
+		],
+		"4" : [
+			[ "salivé" ],
+			[ "salivaste" ],
+			[ "salivó" ],
+			[ "salivamos" ],
+			[ "salivasteis", "salivaron" ],
+			[ "salivaron" ]
+		],
+		"5" : [
+			[ "salivaba" ],
+			[ "salivabas" ],
+			[ "salivaba" ],
+			[ "salivábamos" ],
+			[ "salivabais", "salivaban" ],
+			[ "salivaban" ]
+		],
+		"6" : [
+			[ "salivaría" ],
+			[ "salivarías" ],
+			[ "salivaría" ],
+			[ "salivaríamos" ],
+			[ "salivaríais", "salivarían" ],
+			[ "salivarían" ]
+		],
+		"7" : [
+			[ "salivaré" ],
+			[ "salivarás" ],
+			[ "salivará" ],
+			[ "salivaremos" ],
+			[ "salivaréis", "salivarán" ],
+			[ "salivarán" ]
+		],
+		"8" : [
+			[ "salive" ],
+			[ "salives" ],
+			[ "salive" ],
+			[ "salivemos" ],
+			[ "salivéis", "saliven" ],
+			[ "saliven" ]
+		],
+		"9" : [
+			[ "salivara" ],
+			[ "salivaras" ],
+			[ "salivara" ],
+			[ "saliváramos" ],
+			[ "salivarais", "salivaran" ],
+			[ "salivaran" ]
+		],
+		"10" : [
+			[ "salivase" ],
+			[ "salivases" ],
+			[ "salivase" ],
+			[ "salivásemos" ],
+			[ "salivaseis", "salivasen" ],
+			[ "salivasen" ]
+		],
+		"11" : [
+			[ "salivare" ],
+			[ "salivares" ],
+			[ "salivare" ],
+			[ "saliváremos" ],
+			[ "salivareis", "salivaren" ],
+			[ "salivaren" ]
+		],
+		"12" : {
+			"1" : [ "saliva" ],
+			"2" : [ "salive" ],
+			"3" : [ "salivemos" ],
+			"4" : [ "salivad" ],
+			"5" : [ "saliven" ]
+		}
+	}
+}

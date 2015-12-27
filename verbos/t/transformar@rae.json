@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=transformar",
+	"word" : "transformar",
+	"infinitivo" : "transformar",
+	"participio" : [ "transformado" ],
+	"gerundio" : [ "transformando" ],
+	"tenses" : {
+		"3" : [
+			[ "transformo" ],
+			[ "transformas", "transformás" ],
+			[ "transforma" ],
+			[ "transformamos" ],
+			[ "transformáis", "transforman" ],
+			[ "transforman" ]
+		],
+		"4" : [
+			[ "transformé" ],
+			[ "transformaste" ],
+			[ "transformó" ],
+			[ "transformamos" ],
+			[ "transformasteis", "transformaron" ],
+			[ "transformaron" ]
+		],
+		"5" : [
+			[ "transformaba" ],
+			[ "transformabas" ],
+			[ "transformaba" ],
+			[ "transformábamos" ],
+			[ "transformabais", "transformaban" ],
+			[ "transformaban" ]
+		],
+		"6" : [
+			[ "transformaría" ],
+			[ "transformarías" ],
+			[ "transformaría" ],
+			[ "transformaríamos" ],
+			[ "transformaríais", "transformarían" ],
+			[ "transformarían" ]
+		],
+		"7" : [
+			[ "transformaré" ],
+			[ "transformarás" ],
+			[ "transformará" ],
+			[ "transformaremos" ],
+			[ "transformaréis", "transformarán" ],
+			[ "transformarán" ]
+		],
+		"8" : [
+			[ "transforme" ],
+			[ "transformes" ],
+			[ "transforme" ],
+			[ "transformemos" ],
+			[ "transforméis", "transformen" ],
+			[ "transformen" ]
+		],
+		"9" : [
+			[ "transformara" ],
+			[ "transformaras" ],
+			[ "transformara" ],
+			[ "transformáramos" ],
+			[ "transformarais", "transformaran" ],
+			[ "transformaran" ]
+		],
+		"10" : [
+			[ "transformase" ],
+			[ "transformases" ],
+			[ "transformase" ],
+			[ "transformásemos" ],
+			[ "transformaseis", "transformasen" ],
+			[ "transformasen" ]
+		],
+		"11" : [
+			[ "transformare" ],
+			[ "transformares" ],
+			[ "transformare" ],
+			[ "transformáremos" ],
+			[ "transformareis", "transformaren" ],
+			[ "transformaren" ]
+		],
+		"12" : {
+			"1" : [ "transforma" ],
+			"2" : [ "transforme" ],
+			"3" : [ "transformemos" ],
+			"4" : [ "transformad" ],
+			"5" : [ "transformen" ]
+		}
+	}
+}

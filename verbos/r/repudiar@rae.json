@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repudiar",
+	"word" : "repudiar",
+	"infinitivo" : "repudiar",
+	"participio" : [ "repudiado" ],
+	"gerundio" : [ "repudiando" ],
+	"tenses" : {
+		"3" : [
+			[ "repudio" ],
+			[ "repudias", "repudiás" ],
+			[ "repudia" ],
+			[ "repudiamos" ],
+			[ "repudiáis", "repudian" ],
+			[ "repudian" ]
+		],
+		"4" : [
+			[ "repudié" ],
+			[ "repudiaste" ],
+			[ "repudió" ],
+			[ "repudiamos" ],
+			[ "repudiasteis", "repudiaron" ],
+			[ "repudiaron" ]
+		],
+		"5" : [
+			[ "repudiaba" ],
+			[ "repudiabas" ],
+			[ "repudiaba" ],
+			[ "repudiábamos" ],
+			[ "repudiabais", "repudiaban" ],
+			[ "repudiaban" ]
+		],
+		"6" : [
+			[ "repudiaría" ],
+			[ "repudiarías" ],
+			[ "repudiaría" ],
+			[ "repudiaríamos" ],
+			[ "repudiaríais", "repudiarían" ],
+			[ "repudiarían" ]
+		],
+		"7" : [
+			[ "repudiaré" ],
+			[ "repudiarás" ],
+			[ "repudiará" ],
+			[ "repudiaremos" ],
+			[ "repudiaréis", "repudiarán" ],
+			[ "repudiarán" ]
+		],
+		"8" : [
+			[ "repudie" ],
+			[ "repudies" ],
+			[ "repudie" ],
+			[ "repudiemos" ],
+			[ "repudiéis", "repudien" ],
+			[ "repudien" ]
+		],
+		"9" : [
+			[ "repudiara" ],
+			[ "repudiaras" ],
+			[ "repudiara" ],
+			[ "repudiáramos" ],
+			[ "repudiarais", "repudiaran" ],
+			[ "repudiaran" ]
+		],
+		"10" : [
+			[ "repudiase" ],
+			[ "repudiases" ],
+			[ "repudiase" ],
+			[ "repudiásemos" ],
+			[ "repudiaseis", "repudiasen" ],
+			[ "repudiasen" ]
+		],
+		"11" : [
+			[ "repudiare" ],
+			[ "repudiares" ],
+			[ "repudiare" ],
+			[ "repudiáremos" ],
+			[ "repudiareis", "repudiaren" ],
+			[ "repudiaren" ]
+		],
+		"12" : {
+			"1" : [ "repudia" ],
+			"2" : [ "repudie" ],
+			"3" : [ "repudiemos" ],
+			"4" : [ "repudiad" ],
+			"5" : [ "repudien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=infartar",
+	"word" : "infartar",
+	"infinitivo" : "infartar",
+	"participio" : [ "infartado" ],
+	"gerundio" : [ "infartando" ],
+	"tenses" : {
+		"3" : [
+			[ "infarto" ],
+			[ "infartas", "infartás" ],
+			[ "infarta" ],
+			[ "infartamos" ],
+			[ "infartáis", "infartan" ],
+			[ "infartan" ]
+		],
+		"4" : [
+			[ "infarté" ],
+			[ "infartaste" ],
+			[ "infartó" ],
+			[ "infartamos" ],
+			[ "infartasteis", "infartaron" ],
+			[ "infartaron" ]
+		],
+		"5" : [
+			[ "infartaba" ],
+			[ "infartabas" ],
+			[ "infartaba" ],
+			[ "infartábamos" ],
+			[ "infartabais", "infartaban" ],
+			[ "infartaban" ]
+		],
+		"6" : [
+			[ "infartaría" ],
+			[ "infartarías" ],
+			[ "infartaría" ],
+			[ "infartaríamos" ],
+			[ "infartaríais", "infartarían" ],
+			[ "infartarían" ]
+		],
+		"7" : [
+			[ "infartaré" ],
+			[ "infartarás" ],
+			[ "infartará" ],
+			[ "infartaremos" ],
+			[ "infartaréis", "infartarán" ],
+			[ "infartarán" ]
+		],
+		"8" : [
+			[ "infarte" ],
+			[ "infartes" ],
+			[ "infarte" ],
+			[ "infartemos" ],
+			[ "infartéis", "infarten" ],
+			[ "infarten" ]
+		],
+		"9" : [
+			[ "infartara" ],
+			[ "infartaras" ],
+			[ "infartara" ],
+			[ "infartáramos" ],
+			[ "infartarais", "infartaran" ],
+			[ "infartaran" ]
+		],
+		"10" : [
+			[ "infartase" ],
+			[ "infartases" ],
+			[ "infartase" ],
+			[ "infartásemos" ],
+			[ "infartaseis", "infartasen" ],
+			[ "infartasen" ]
+		],
+		"11" : [
+			[ "infartare" ],
+			[ "infartares" ],
+			[ "infartare" ],
+			[ "infartáremos" ],
+			[ "infartareis", "infartaren" ],
+			[ "infartaren" ]
+		],
+		"12" : {
+			"1" : [ "infarta" ],
+			"2" : [ "infarte" ],
+			"3" : [ "infartemos" ],
+			"4" : [ "infartad" ],
+			"5" : [ "infarten" ]
+		}
+	}
+}

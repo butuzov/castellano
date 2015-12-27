@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empapelar",
+	"word" : "empapelar",
+	"infinitivo" : "empapelar",
+	"participio" : [ "empapelado" ],
+	"gerundio" : [ "empapelando" ],
+	"tenses" : {
+		"3" : [
+			[ "empapelo" ],
+			[ "empapelas", "empapelás" ],
+			[ "empapela" ],
+			[ "empapelamos" ],
+			[ "empapeláis", "empapelan" ],
+			[ "empapelan" ]
+		],
+		"4" : [
+			[ "empapelé" ],
+			[ "empapelaste" ],
+			[ "empapeló" ],
+			[ "empapelamos" ],
+			[ "empapelasteis", "empapelaron" ],
+			[ "empapelaron" ]
+		],
+		"5" : [
+			[ "empapelaba" ],
+			[ "empapelabas" ],
+			[ "empapelaba" ],
+			[ "empapelábamos" ],
+			[ "empapelabais", "empapelaban" ],
+			[ "empapelaban" ]
+		],
+		"6" : [
+			[ "empapelaría" ],
+			[ "empapelarías" ],
+			[ "empapelaría" ],
+			[ "empapelaríamos" ],
+			[ "empapelaríais", "empapelarían" ],
+			[ "empapelarían" ]
+		],
+		"7" : [
+			[ "empapelaré" ],
+			[ "empapelarás" ],
+			[ "empapelará" ],
+			[ "empapelaremos" ],
+			[ "empapelaréis", "empapelarán" ],
+			[ "empapelarán" ]
+		],
+		"8" : [
+			[ "empapele" ],
+			[ "empapeles" ],
+			[ "empapele" ],
+			[ "empapelemos" ],
+			[ "empapeléis", "empapelen" ],
+			[ "empapelen" ]
+		],
+		"9" : [
+			[ "empapelara" ],
+			[ "empapelaras" ],
+			[ "empapelara" ],
+			[ "empapeláramos" ],
+			[ "empapelarais", "empapelaran" ],
+			[ "empapelaran" ]
+		],
+		"10" : [
+			[ "empapelase" ],
+			[ "empapelases" ],
+			[ "empapelase" ],
+			[ "empapelásemos" ],
+			[ "empapelaseis", "empapelasen" ],
+			[ "empapelasen" ]
+		],
+		"11" : [
+			[ "empapelare" ],
+			[ "empapelares" ],
+			[ "empapelare" ],
+			[ "empapeláremos" ],
+			[ "empapelareis", "empapelaren" ],
+			[ "empapelaren" ]
+		],
+		"12" : {
+			"1" : [ "empapela" ],
+			"2" : [ "empapele" ],
+			"3" : [ "empapelemos" ],
+			"4" : [ "empapelad" ],
+			"5" : [ "empapelen" ]
+		}
+	}
+}

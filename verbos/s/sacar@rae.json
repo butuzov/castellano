@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sacar",
+	"word" : "sacar",
+	"infinitivo" : "sacar",
+	"participio" : [ "sacado" ],
+	"gerundio" : [ "sacando" ],
+	"tenses" : {
+		"3" : [
+			[ "saco" ],
+			[ "sacas", "sacás" ],
+			[ "saca" ],
+			[ "sacamos" ],
+			[ "sacáis", "sacan" ],
+			[ "sacan" ]
+		],
+		"4" : [
+			[ "saqué" ],
+			[ "sacaste" ],
+			[ "sacó" ],
+			[ "sacamos" ],
+			[ "sacasteis", "sacaron" ],
+			[ "sacaron" ]
+		],
+		"5" : [
+			[ "sacaba" ],
+			[ "sacabas" ],
+			[ "sacaba" ],
+			[ "sacábamos" ],
+			[ "sacabais", "sacaban" ],
+			[ "sacaban" ]
+		],
+		"6" : [
+			[ "sacaría" ],
+			[ "sacarías" ],
+			[ "sacaría" ],
+			[ "sacaríamos" ],
+			[ "sacaríais", "sacarían" ],
+			[ "sacarían" ]
+		],
+		"7" : [
+			[ "sacaré" ],
+			[ "sacarás" ],
+			[ "sacará" ],
+			[ "sacaremos" ],
+			[ "sacaréis", "sacarán" ],
+			[ "sacarán" ]
+		],
+		"8" : [
+			[ "saque" ],
+			[ "saques" ],
+			[ "saque" ],
+			[ "saquemos" ],
+			[ "saquéis", "saquen" ],
+			[ "saquen" ]
+		],
+		"9" : [
+			[ "sacara" ],
+			[ "sacaras" ],
+			[ "sacara" ],
+			[ "sacáramos" ],
+			[ "sacarais", "sacaran" ],
+			[ "sacaran" ]
+		],
+		"10" : [
+			[ "sacase" ],
+			[ "sacases" ],
+			[ "sacase" ],
+			[ "sacásemos" ],
+			[ "sacaseis", "sacasen" ],
+			[ "sacasen" ]
+		],
+		"11" : [
+			[ "sacare" ],
+			[ "sacares" ],
+			[ "sacare" ],
+			[ "sacáremos" ],
+			[ "sacareis", "sacaren" ],
+			[ "sacaren" ]
+		],
+		"12" : {
+			"1" : [ "saca" ],
+			"2" : [ "saque" ],
+			"3" : [ "saquemos" ],
+			"4" : [ "sacad" ],
+			"5" : [ "saquen" ]
+		}
+	}
+}

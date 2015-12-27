@@ -1,0 +1,41 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embaír",
+	"word" : "embaír",
+	"infinitivo" : "embaír",
+	"participio" : [ "embaído" ],
+	"tenses" : {
+		"4" : [
+			[ "embaí" ],
+			[ "embaíste" ],
+			[ "embaímos" ],
+			[ "embaísteis", "" ]
+		],
+		"5" : [
+			[ "embaía" ],
+			[ "embaías" ],
+			[ "embaía" ],
+			[ "embaíamos" ],
+			[ "embaíais", "embaían" ],
+			[ "embaían" ]
+		],
+		"6" : [
+			[ "embairía" ],
+			[ "embairías" ],
+			[ "embairía" ],
+			[ "embairíamos" ],
+			[ "embairíais", "embairían" ],
+			[ "embairían" ]
+		],
+		"7" : [
+			[ "embairé" ],
+			[ "embairás" ],
+			[ "embairá" ],
+			[ "embairemos" ],
+			[ "embairéis", "embairán" ],
+			[ "embairán" ]
+		],
+		"12" : {
+			"1" : [ "embaí" ]
+		}
+	}
+}

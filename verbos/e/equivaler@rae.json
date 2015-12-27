@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=equivaler",
+	"word" : "equivaler",
+	"infinitivo" : "equivaler",
+	"participio" : [ "equivalido" ],
+	"gerundio" : [ "equivaliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "equivalgo" ],
+			[ "equivales", "equivalés" ],
+			[ "equivale" ],
+			[ "equivalemos" ],
+			[ "equivaléis", "equivalen" ],
+			[ "equivalen" ]
+		],
+		"4" : [
+			[ "equivalí" ],
+			[ "equivaliste" ],
+			[ "equivalió" ],
+			[ "equivalimos" ],
+			[ "equivalisteis", "equivalieron" ],
+			[ "equivalieron" ]
+		],
+		"5" : [
+			[ "equivalía" ],
+			[ "equivalías" ],
+			[ "equivalía" ],
+			[ "equivalíamos" ],
+			[ "equivalíais", "equivalían" ],
+			[ "equivalían" ]
+		],
+		"6" : [
+			[ "equivaldría" ],
+			[ "equivaldrías" ],
+			[ "equivaldría" ],
+			[ "equivaldríamos" ],
+			[ "equivaldríais", "equivaldrían" ],
+			[ "equivaldrían" ]
+		],
+		"7" : [
+			[ "equivaldré" ],
+			[ "equivaldrás" ],
+			[ "equivaldrá" ],
+			[ "equivaldremos" ],
+			[ "equivaldréis", "equivaldrán" ],
+			[ "equivaldrán" ]
+		],
+		"8" : [
+			[ "equivalga" ],
+			[ "equivalgas" ],
+			[ "equivalga" ],
+			[ "equivalgamos" ],
+			[ "equivalgáis", "equivalgan" ],
+			[ "equivalgan" ]
+		],
+		"9" : [
+			[ "equivaliera" ],
+			[ "equivalieras" ],
+			[ "equivaliera" ],
+			[ "equivaliéramos" ],
+			[ "equivalierais", "equivalieran" ],
+			[ "equivalieran" ]
+		],
+		"10" : [
+			[ "equivaliese" ],
+			[ "equivalieses" ],
+			[ "equivaliese" ],
+			[ "equivaliésemos" ],
+			[ "equivalieseis", "equivaliesen" ],
+			[ "equivaliesen" ]
+		],
+		"11" : [
+			[ "equivaliere" ],
+			[ "equivalieres" ],
+			[ "equivaliere" ],
+			[ "equivaliéremos" ],
+			[ "equivaliereis", "equivalieren" ],
+			[ "equivalieren" ]
+		],
+		"12" : {
+			"1" : [ "equivale" ],
+			"2" : [ "equivalga" ],
+			"3" : [ "equivalgamos" ],
+			"4" : [ "equivaled" ],
+			"5" : [ "equivalgan" ]
+		}
+	}
+}

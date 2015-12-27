@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=zorrear",
+	"word" : "zorrear",
+	"infinitivo" : "zorrear",
+	"participio" : [ "zorreado" ],
+	"gerundio" : [ "zorreando" ],
+	"tenses" : {
+		"3" : [
+			[ "zorreo" ],
+			[ "zorreas", "zorreás" ],
+			[ "zorrea" ],
+			[ "zorreamos" ],
+			[ "zorreáis", "zorrean" ],
+			[ "zorrean" ]
+		],
+		"4" : [
+			[ "zorreé" ],
+			[ "zorreaste" ],
+			[ "zorreó" ],
+			[ "zorreamos" ],
+			[ "zorreasteis", "zorrearon" ],
+			[ "zorrearon" ]
+		],
+		"5" : [
+			[ "zorreaba" ],
+			[ "zorreabas" ],
+			[ "zorreaba" ],
+			[ "zorreábamos" ],
+			[ "zorreabais", "zorreaban" ],
+			[ "zorreaban" ]
+		],
+		"6" : [
+			[ "zorrearía" ],
+			[ "zorrearías" ],
+			[ "zorrearía" ],
+			[ "zorrearíamos" ],
+			[ "zorrearíais", "zorrearían" ],
+			[ "zorrearían" ]
+		],
+		"7" : [
+			[ "zorrearé" ],
+			[ "zorrearás" ],
+			[ "zorreará" ],
+			[ "zorrearemos" ],
+			[ "zorrearéis", "zorrearán" ],
+			[ "zorrearán" ]
+		],
+		"8" : [
+			[ "zorree" ],
+			[ "zorrees" ],
+			[ "zorree" ],
+			[ "zorreemos" ],
+			[ "zorreéis", "zorreen" ],
+			[ "zorreen" ]
+		],
+		"9" : [
+			[ "zorreara" ],
+			[ "zorrearas" ],
+			[ "zorreara" ],
+			[ "zorreáramos" ],
+			[ "zorrearais", "zorrearan" ],
+			[ "zorrearan" ]
+		],
+		"10" : [
+			[ "zorrease" ],
+			[ "zorreases" ],
+			[ "zorrease" ],
+			[ "zorreásemos" ],
+			[ "zorreaseis", "zorreasen" ],
+			[ "zorreasen" ]
+		],
+		"11" : [
+			[ "zorreare" ],
+			[ "zorreares" ],
+			[ "zorreare" ],
+			[ "zorreáremos" ],
+			[ "zorreareis", "zorrearen" ],
+			[ "zorrearen" ]
+		],
+		"12" : {
+			"1" : [ "zorrea" ],
+			"2" : [ "zorree" ],
+			"3" : [ "zorreemos" ],
+			"4" : [ "zorread" ],
+			"5" : [ "zorreen" ]
+		}
+	}
+}

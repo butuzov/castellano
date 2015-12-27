@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anticipar",
+	"word" : "anticipar",
+	"infinitivo" : "anticipar",
+	"participio" : [ "anticipado" ],
+	"gerundio" : [ "anticipando" ],
+	"tenses" : {
+		"3" : [
+			[ "anticipo" ],
+			[ "anticipas", "anticipás" ],
+			[ "anticipa" ],
+			[ "anticipamos" ],
+			[ "anticipáis", "anticipan" ],
+			[ "anticipan" ]
+		],
+		"4" : [
+			[ "anticipé" ],
+			[ "anticipaste" ],
+			[ "anticipó" ],
+			[ "anticipamos" ],
+			[ "anticipasteis", "anticiparon" ],
+			[ "anticiparon" ]
+		],
+		"5" : [
+			[ "anticipaba" ],
+			[ "anticipabas" ],
+			[ "anticipaba" ],
+			[ "anticipábamos" ],
+			[ "anticipabais", "anticipaban" ],
+			[ "anticipaban" ]
+		],
+		"6" : [
+			[ "anticiparía" ],
+			[ "anticiparías" ],
+			[ "anticiparía" ],
+			[ "anticiparíamos" ],
+			[ "anticiparíais", "anticiparían" ],
+			[ "anticiparían" ]
+		],
+		"7" : [
+			[ "anticiparé" ],
+			[ "anticiparás" ],
+			[ "anticipará" ],
+			[ "anticiparemos" ],
+			[ "anticiparéis", "anticiparán" ],
+			[ "anticiparán" ]
+		],
+		"8" : [
+			[ "anticipe" ],
+			[ "anticipes" ],
+			[ "anticipe" ],
+			[ "anticipemos" ],
+			[ "anticipéis", "anticipen" ],
+			[ "anticipen" ]
+		],
+		"9" : [
+			[ "anticipara" ],
+			[ "anticiparas" ],
+			[ "anticipara" ],
+			[ "anticipáramos" ],
+			[ "anticiparais", "anticiparan" ],
+			[ "anticiparan" ]
+		],
+		"10" : [
+			[ "anticipase" ],
+			[ "anticipases" ],
+			[ "anticipase" ],
+			[ "anticipásemos" ],
+			[ "anticipaseis", "anticipasen" ],
+			[ "anticipasen" ]
+		],
+		"11" : [
+			[ "anticipare" ],
+			[ "anticipares" ],
+			[ "anticipare" ],
+			[ "anticipáremos" ],
+			[ "anticipareis", "anticiparen" ],
+			[ "anticiparen" ]
+		],
+		"12" : {
+			"1" : [ "anticipa" ],
+			"2" : [ "anticipe" ],
+			"3" : [ "anticipemos" ],
+			"4" : [ "anticipad" ],
+			"5" : [ "anticipen" ]
+		}
+	}
+}

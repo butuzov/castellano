@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=restaurar",
+	"word" : "restaurar",
+	"infinitivo" : "restaurar",
+	"participio" : [ "restaurado" ],
+	"gerundio" : [ "restaurando" ],
+	"tenses" : {
+		"3" : [
+			[ "restauro" ],
+			[ "restauras", "restaurás" ],
+			[ "restaura" ],
+			[ "restauramos" ],
+			[ "restauráis", "restauran" ],
+			[ "restauran" ]
+		],
+		"4" : [
+			[ "restauré" ],
+			[ "restauraste" ],
+			[ "restauró" ],
+			[ "restauramos" ],
+			[ "restaurasteis", "restauraron" ],
+			[ "restauraron" ]
+		],
+		"5" : [
+			[ "restauraba" ],
+			[ "restaurabas" ],
+			[ "restauraba" ],
+			[ "restaurábamos" ],
+			[ "restaurabais", "restauraban" ],
+			[ "restauraban" ]
+		],
+		"6" : [
+			[ "restauraría" ],
+			[ "restaurarías" ],
+			[ "restauraría" ],
+			[ "restauraríamos" ],
+			[ "restauraríais", "restaurarían" ],
+			[ "restaurarían" ]
+		],
+		"7" : [
+			[ "restauraré" ],
+			[ "restaurarás" ],
+			[ "restaurará" ],
+			[ "restauraremos" ],
+			[ "restauraréis", "restaurarán" ],
+			[ "restaurarán" ]
+		],
+		"8" : [
+			[ "restaure" ],
+			[ "restaures" ],
+			[ "restaure" ],
+			[ "restauremos" ],
+			[ "restauréis", "restauren" ],
+			[ "restauren" ]
+		],
+		"9" : [
+			[ "restaurara" ],
+			[ "restauraras" ],
+			[ "restaurara" ],
+			[ "restauráramos" ],
+			[ "restaurarais", "restauraran" ],
+			[ "restauraran" ]
+		],
+		"10" : [
+			[ "restaurase" ],
+			[ "restaurases" ],
+			[ "restaurase" ],
+			[ "restaurásemos" ],
+			[ "restauraseis", "restaurasen" ],
+			[ "restaurasen" ]
+		],
+		"11" : [
+			[ "restaurare" ],
+			[ "restaurares" ],
+			[ "restaurare" ],
+			[ "restauráremos" ],
+			[ "restaurareis", "restauraren" ],
+			[ "restauraren" ]
+		],
+		"12" : {
+			"1" : [ "restaura" ],
+			"2" : [ "restaure" ],
+			"3" : [ "restauremos" ],
+			"4" : [ "restaurad" ],
+			"5" : [ "restauren" ]
+		}
+	}
+}

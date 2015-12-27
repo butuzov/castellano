@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=engreír",
+	"word" : "engreír",
+	"infinitivo" : "engreír",
+	"participio" : [ "engreído" ],
+	"gerundio" : [ "engriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "engrío" ],
+			[ "engríes", "engreís" ],
+			[ "engríe" ],
+			[ "engreímos" ],
+			[ "engreís", "engríen" ],
+			[ "engríen" ]
+		],
+		"4" : [
+			[ "engreí" ],
+			[ "engreíste" ],
+			[ "engrió" ],
+			[ "engreímos" ],
+			[ "engreísteis", "engrieron" ],
+			[ "engrieron" ]
+		],
+		"5" : [
+			[ "engreía" ],
+			[ "engreías" ],
+			[ "engreía" ],
+			[ "engreíamos" ],
+			[ "engreíais", "engreían" ],
+			[ "engreían" ]
+		],
+		"6" : [
+			[ "engreiría" ],
+			[ "engreirías" ],
+			[ "engreiría" ],
+			[ "engreiríamos" ],
+			[ "engreiríais", "engreirían" ],
+			[ "engreirían" ]
+		],
+		"7" : [
+			[ "engreiré" ],
+			[ "engreirás" ],
+			[ "engreirá" ],
+			[ "engreiremos" ],
+			[ "engreiréis", "engreirán" ],
+			[ "engreirán" ]
+		],
+		"8" : [
+			[ "engría" ],
+			[ "engrías" ],
+			[ "engría" ],
+			[ "engriamos" ],
+			[ "engriáis", "engrían" ],
+			[ "engrían" ]
+		],
+		"9" : [
+			[ "engriera" ],
+			[ "engrieras" ],
+			[ "engriera" ],
+			[ "engriéramos" ],
+			[ "engrierais", "engrieran" ],
+			[ "engrieran" ]
+		],
+		"10" : [
+			[ "engriese" ],
+			[ "engrieses" ],
+			[ "engriese" ],
+			[ "engriésemos" ],
+			[ "engrieseis", "engriesen" ],
+			[ "engriesen" ]
+		],
+		"11" : [
+			[ "engriere" ],
+			[ "engrieres" ],
+			[ "engriere" ],
+			[ "engriéremos" ],
+			[ "engriereis", "engrieren" ],
+			[ "engrieren" ]
+		],
+		"12" : {
+			"1" : [ "engríe" ],
+			"2" : [ "engría" ],
+			"3" : [ "engriamos" ],
+			"4" : [ "engreíd" ],
+			"5" : [ "engrían" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ayunar",
+	"word" : "ayunar",
+	"infinitivo" : "ayunar",
+	"participio" : [ "ayunado" ],
+	"gerundio" : [ "ayunando" ],
+	"tenses" : {
+		"3" : [
+			[ "ayuno" ],
+			[ "ayunas", "ayunás" ],
+			[ "ayuna" ],
+			[ "ayunamos" ],
+			[ "ayunáis", "ayunan" ],
+			[ "ayunan" ]
+		],
+		"4" : [
+			[ "ayuné" ],
+			[ "ayunaste" ],
+			[ "ayunó" ],
+			[ "ayunamos" ],
+			[ "ayunasteis", "ayunaron" ],
+			[ "ayunaron" ]
+		],
+		"5" : [
+			[ "ayunaba" ],
+			[ "ayunabas" ],
+			[ "ayunaba" ],
+			[ "ayunábamos" ],
+			[ "ayunabais", "ayunaban" ],
+			[ "ayunaban" ]
+		],
+		"6" : [
+			[ "ayunaría" ],
+			[ "ayunarías" ],
+			[ "ayunaría" ],
+			[ "ayunaríamos" ],
+			[ "ayunaríais", "ayunarían" ],
+			[ "ayunarían" ]
+		],
+		"7" : [
+			[ "ayunaré" ],
+			[ "ayunarás" ],
+			[ "ayunará" ],
+			[ "ayunaremos" ],
+			[ "ayunaréis", "ayunarán" ],
+			[ "ayunarán" ]
+		],
+		"8" : [
+			[ "ayune" ],
+			[ "ayunes" ],
+			[ "ayune" ],
+			[ "ayunemos" ],
+			[ "ayunéis", "ayunen" ],
+			[ "ayunen" ]
+		],
+		"9" : [
+			[ "ayunara" ],
+			[ "ayunaras" ],
+			[ "ayunara" ],
+			[ "ayunáramos" ],
+			[ "ayunarais", "ayunaran" ],
+			[ "ayunaran" ]
+		],
+		"10" : [
+			[ "ayunase" ],
+			[ "ayunases" ],
+			[ "ayunase" ],
+			[ "ayunásemos" ],
+			[ "ayunaseis", "ayunasen" ],
+			[ "ayunasen" ]
+		],
+		"11" : [
+			[ "ayunare" ],
+			[ "ayunares" ],
+			[ "ayunare" ],
+			[ "ayunáremos" ],
+			[ "ayunareis", "ayunaren" ],
+			[ "ayunaren" ]
+		],
+		"12" : {
+			"1" : [ "ayuna" ],
+			"2" : [ "ayune" ],
+			"3" : [ "ayunemos" ],
+			"4" : [ "ayunad" ],
+			"5" : [ "ayunen" ]
+		}
+	}
+}

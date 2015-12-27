@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dignarse",
+	"word" : "dignarse",
+	"infinitivo" : "dignarse",
+	"participio" : [ "dignado" ],
+	"gerundio" : [ "dignándome", "dignándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me digno" ],
+			[ "te dignas", "te dignás" ],
+			[ "se digna" ],
+			[ "nos dignamos" ],
+			[ "os dignáis", "se dignan" ],
+			[ "se dignan" ]
+		],
+		"4" : [
+			[ "me digné" ],
+			[ "te dignaste" ],
+			[ "se dignó" ],
+			[ "nos dignamos" ],
+			[ "os dignasteis", "se dignaron" ],
+			[ "se dignaron" ]
+		],
+		"5" : [
+			[ "me dignaba" ],
+			[ "te dignabas" ],
+			[ "se dignaba" ],
+			[ "nos dignábamos" ],
+			[ "os dignabais", "se dignaban" ],
+			[ "se dignaban" ]
+		],
+		"6" : [
+			[ "me dignaría" ],
+			[ "te dignarías" ],
+			[ "se dignaría" ],
+			[ "nos dignaríamos" ],
+			[ "os dignaríais", "se dignarían" ],
+			[ "se dignarían" ]
+		],
+		"7" : [
+			[ "me dignaré" ],
+			[ "te dignarás" ],
+			[ "se dignará" ],
+			[ "nos dignaremos" ],
+			[ "os dignaréis", "se dignarán" ],
+			[ "se dignarán" ]
+		],
+		"8" : [
+			[ "me digne" ],
+			[ "te dignes" ],
+			[ "se digne" ],
+			[ "nos dignemos" ],
+			[ "os dignéis", "se dignen" ],
+			[ "se dignen" ]
+		],
+		"9" : [
+			[ "me dignara" ],
+			[ "te dignaras" ],
+			[ "se dignara" ],
+			[ "nos dignáramos" ],
+			[ "os dignarais", "se dignaran" ],
+			[ "se dignaran" ]
+		],
+		"10" : [
+			[ "me dignase" ],
+			[ "te dignases" ],
+			[ "se dignase" ],
+			[ "nos dignásemos" ],
+			[ "os dignaseis", "se dignasen" ],
+			[ "se dignasen" ]
+		],
+		"11" : [
+			[ "me dignare" ],
+			[ "te dignares" ],
+			[ "se dignare" ],
+			[ "nos dignáremos" ],
+			[ "os dignareis", "se dignaren" ],
+			[ "se dignaren" ]
+		],
+		"12" : {
+			"1" : [ "dígnate" ],
+			"2" : [ "digne" ],
+			"3" : [ "dignemos" ],
+			"4" : [ "dignaos" ],
+			"5" : [ "dígnense" ]
+		}
+	}
+}

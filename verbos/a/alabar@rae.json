@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alabar",
+	"word" : "alabar",
+	"infinitivo" : "alabar",
+	"participio" : [ "alabado" ],
+	"gerundio" : [ "alabando" ],
+	"tenses" : {
+		"3" : [
+			[ "alabo" ],
+			[ "alabas", "alabás" ],
+			[ "alaba" ],
+			[ "alabamos" ],
+			[ "alabáis", "alaban" ],
+			[ "alaban" ]
+		],
+		"4" : [
+			[ "alabé" ],
+			[ "alabaste" ],
+			[ "alabó" ],
+			[ "alabamos" ],
+			[ "alabasteis", "alabaron" ],
+			[ "alabaron" ]
+		],
+		"5" : [
+			[ "alababa" ],
+			[ "alababas" ],
+			[ "alababa" ],
+			[ "alabábamos" ],
+			[ "alababais", "alababan" ],
+			[ "alababan" ]
+		],
+		"6" : [
+			[ "alabaría" ],
+			[ "alabarías" ],
+			[ "alabaría" ],
+			[ "alabaríamos" ],
+			[ "alabaríais", "alabarían" ],
+			[ "alabarían" ]
+		],
+		"7" : [
+			[ "alabaré" ],
+			[ "alabarás" ],
+			[ "alabará" ],
+			[ "alabaremos" ],
+			[ "alabaréis", "alabarán" ],
+			[ "alabarán" ]
+		],
+		"8" : [
+			[ "alabe" ],
+			[ "alabes" ],
+			[ "alabe" ],
+			[ "alabemos" ],
+			[ "alabéis", "alaben" ],
+			[ "alaben" ]
+		],
+		"9" : [
+			[ "alabara" ],
+			[ "alabaras" ],
+			[ "alabara" ],
+			[ "alabáramos" ],
+			[ "alabarais", "alabaran" ],
+			[ "alabaran" ]
+		],
+		"10" : [
+			[ "alabase" ],
+			[ "alabases" ],
+			[ "alabase" ],
+			[ "alabásemos" ],
+			[ "alabaseis", "alabasen" ],
+			[ "alabasen" ]
+		],
+		"11" : [
+			[ "alabare" ],
+			[ "alabares" ],
+			[ "alabare" ],
+			[ "alabáremos" ],
+			[ "alabareis", "alabaren" ],
+			[ "alabaren" ]
+		],
+		"12" : {
+			"1" : [ "alaba" ],
+			"2" : [ "alabe" ],
+			"3" : [ "alabemos" ],
+			"4" : [ "alabad" ],
+			"5" : [ "alaben" ]
+		}
+	}
+}

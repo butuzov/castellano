@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alienar",
+	"word" : "alienar",
+	"infinitivo" : "alienar",
+	"participio" : [ "alienado" ],
+	"gerundio" : [ "alienando" ],
+	"tenses" : {
+		"3" : [
+			[ "alieno" ],
+			[ "alienas", "alienás" ],
+			[ "aliena" ],
+			[ "alienamos" ],
+			[ "alienáis", "alienan" ],
+			[ "alienan" ]
+		],
+		"4" : [
+			[ "aliené" ],
+			[ "alienaste" ],
+			[ "alienó" ],
+			[ "alienamos" ],
+			[ "alienasteis", "alienaron" ],
+			[ "alienaron" ]
+		],
+		"5" : [
+			[ "alienaba" ],
+			[ "alienabas" ],
+			[ "alienaba" ],
+			[ "alienábamos" ],
+			[ "alienabais", "alienaban" ],
+			[ "alienaban" ]
+		],
+		"6" : [
+			[ "alienaría" ],
+			[ "alienarías" ],
+			[ "alienaría" ],
+			[ "alienaríamos" ],
+			[ "alienaríais", "alienarían" ],
+			[ "alienarían" ]
+		],
+		"7" : [
+			[ "alienaré" ],
+			[ "alienarás" ],
+			[ "alienará" ],
+			[ "alienaremos" ],
+			[ "alienaréis", "alienarán" ],
+			[ "alienarán" ]
+		],
+		"8" : [
+			[ "aliene" ],
+			[ "alienes" ],
+			[ "aliene" ],
+			[ "alienemos" ],
+			[ "alienéis", "alienen" ],
+			[ "alienen" ]
+		],
+		"9" : [
+			[ "alienara" ],
+			[ "alienaras" ],
+			[ "alienara" ],
+			[ "alienáramos" ],
+			[ "alienarais", "alienaran" ],
+			[ "alienaran" ]
+		],
+		"10" : [
+			[ "alienase" ],
+			[ "alienases" ],
+			[ "alienase" ],
+			[ "alienásemos" ],
+			[ "alienaseis", "alienasen" ],
+			[ "alienasen" ]
+		],
+		"11" : [
+			[ "alienare" ],
+			[ "alienares" ],
+			[ "alienare" ],
+			[ "alienáremos" ],
+			[ "alienareis", "alienaren" ],
+			[ "alienaren" ]
+		],
+		"12" : {
+			"1" : [ "aliena" ],
+			"2" : [ "aliene" ],
+			"3" : [ "alienemos" ],
+			"4" : [ "alienad" ],
+			"5" : [ "alienen" ]
+		}
+	}
+}

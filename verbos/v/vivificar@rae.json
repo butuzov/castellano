@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vivificar",
+	"word" : "vivificar",
+	"infinitivo" : "vivificar",
+	"participio" : [ "vivificado" ],
+	"gerundio" : [ "vivificando" ],
+	"tenses" : {
+		"3" : [
+			[ "vivifico" ],
+			[ "vivificas", "vivificás" ],
+			[ "vivifica" ],
+			[ "vivificamos" ],
+			[ "vivificáis", "vivifican" ],
+			[ "vivifican" ]
+		],
+		"4" : [
+			[ "vivifiqué" ],
+			[ "vivificaste" ],
+			[ "vivificó" ],
+			[ "vivificamos" ],
+			[ "vivificasteis", "vivificaron" ],
+			[ "vivificaron" ]
+		],
+		"5" : [
+			[ "vivificaba" ],
+			[ "vivificabas" ],
+			[ "vivificaba" ],
+			[ "vivificábamos" ],
+			[ "vivificabais", "vivificaban" ],
+			[ "vivificaban" ]
+		],
+		"6" : [
+			[ "vivificaría" ],
+			[ "vivificarías" ],
+			[ "vivificaría" ],
+			[ "vivificaríamos" ],
+			[ "vivificaríais", "vivificarían" ],
+			[ "vivificarían" ]
+		],
+		"7" : [
+			[ "vivificaré" ],
+			[ "vivificarás" ],
+			[ "vivificará" ],
+			[ "vivificaremos" ],
+			[ "vivificaréis", "vivificarán" ],
+			[ "vivificarán" ]
+		],
+		"8" : [
+			[ "vivifique" ],
+			[ "vivifiques" ],
+			[ "vivifique" ],
+			[ "vivifiquemos" ],
+			[ "vivifiquéis", "vivifiquen" ],
+			[ "vivifiquen" ]
+		],
+		"9" : [
+			[ "vivificara" ],
+			[ "vivificaras" ],
+			[ "vivificara" ],
+			[ "vivificáramos" ],
+			[ "vivificarais", "vivificaran" ],
+			[ "vivificaran" ]
+		],
+		"10" : [
+			[ "vivificase" ],
+			[ "vivificases" ],
+			[ "vivificase" ],
+			[ "vivificásemos" ],
+			[ "vivificaseis", "vivificasen" ],
+			[ "vivificasen" ]
+		],
+		"11" : [
+			[ "vivificare" ],
+			[ "vivificares" ],
+			[ "vivificare" ],
+			[ "vivificáremos" ],
+			[ "vivificareis", "vivificaren" ],
+			[ "vivificaren" ]
+		],
+		"12" : {
+			"1" : [ "vivifica" ],
+			"2" : [ "vivifique" ],
+			"3" : [ "vivifiquemos" ],
+			"4" : [ "vivificad" ],
+			"5" : [ "vivifiquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=purgar",
+	"word" : "purgar",
+	"infinitivo" : "purgar",
+	"participio" : [ "purgado" ],
+	"gerundio" : [ "purgando" ],
+	"tenses" : {
+		"3" : [
+			[ "purgo" ],
+			[ "purgas", "purgás" ],
+			[ "purga" ],
+			[ "purgamos" ],
+			[ "purgáis", "purgan" ],
+			[ "purgan" ]
+		],
+		"4" : [
+			[ "purgué" ],
+			[ "purgaste" ],
+			[ "purgó" ],
+			[ "purgamos" ],
+			[ "purgasteis", "purgaron" ],
+			[ "purgaron" ]
+		],
+		"5" : [
+			[ "purgaba" ],
+			[ "purgabas" ],
+			[ "purgaba" ],
+			[ "purgábamos" ],
+			[ "purgabais", "purgaban" ],
+			[ "purgaban" ]
+		],
+		"6" : [
+			[ "purgaría" ],
+			[ "purgarías" ],
+			[ "purgaría" ],
+			[ "purgaríamos" ],
+			[ "purgaríais", "purgarían" ],
+			[ "purgarían" ]
+		],
+		"7" : [
+			[ "purgaré" ],
+			[ "purgarás" ],
+			[ "purgará" ],
+			[ "purgaremos" ],
+			[ "purgaréis", "purgarán" ],
+			[ "purgarán" ]
+		],
+		"8" : [
+			[ "purgue" ],
+			[ "purgues" ],
+			[ "purgue" ],
+			[ "purguemos" ],
+			[ "purguéis", "purguen" ],
+			[ "purguen" ]
+		],
+		"9" : [
+			[ "purgara" ],
+			[ "purgaras" ],
+			[ "purgara" ],
+			[ "purgáramos" ],
+			[ "purgarais", "purgaran" ],
+			[ "purgaran" ]
+		],
+		"10" : [
+			[ "purgase" ],
+			[ "purgases" ],
+			[ "purgase" ],
+			[ "purgásemos" ],
+			[ "purgaseis", "purgasen" ],
+			[ "purgasen" ]
+		],
+		"11" : [
+			[ "purgare" ],
+			[ "purgares" ],
+			[ "purgare" ],
+			[ "purgáremos" ],
+			[ "purgareis", "purgaren" ],
+			[ "purgaren" ]
+		],
+		"12" : {
+			"1" : [ "purga" ],
+			"2" : [ "purgue" ],
+			"3" : [ "purguemos" ],
+			"4" : [ "purgad" ],
+			"5" : [ "purguen" ]
+		}
+	}
+}

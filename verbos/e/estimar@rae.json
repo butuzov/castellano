@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estimar",
+	"word" : "estimar",
+	"infinitivo" : "estimar",
+	"participio" : [ "estimado" ],
+	"gerundio" : [ "estimando" ],
+	"tenses" : {
+		"3" : [
+			[ "estimo" ],
+			[ "estimas", "estimás" ],
+			[ "estima" ],
+			[ "estimamos" ],
+			[ "estimáis", "estiman" ],
+			[ "estiman" ]
+		],
+		"4" : [
+			[ "estimé" ],
+			[ "estimaste" ],
+			[ "estimó" ],
+			[ "estimamos" ],
+			[ "estimasteis", "estimaron" ],
+			[ "estimaron" ]
+		],
+		"5" : [
+			[ "estimaba" ],
+			[ "estimabas" ],
+			[ "estimaba" ],
+			[ "estimábamos" ],
+			[ "estimabais", "estimaban" ],
+			[ "estimaban" ]
+		],
+		"6" : [
+			[ "estimaría" ],
+			[ "estimarías" ],
+			[ "estimaría" ],
+			[ "estimaríamos" ],
+			[ "estimaríais", "estimarían" ],
+			[ "estimarían" ]
+		],
+		"7" : [
+			[ "estimaré" ],
+			[ "estimarás" ],
+			[ "estimará" ],
+			[ "estimaremos" ],
+			[ "estimaréis", "estimarán" ],
+			[ "estimarán" ]
+		],
+		"8" : [
+			[ "estime" ],
+			[ "estimes" ],
+			[ "estime" ],
+			[ "estimemos" ],
+			[ "estiméis", "estimen" ],
+			[ "estimen" ]
+		],
+		"9" : [
+			[ "estimara" ],
+			[ "estimaras" ],
+			[ "estimara" ],
+			[ "estimáramos" ],
+			[ "estimarais", "estimaran" ],
+			[ "estimaran" ]
+		],
+		"10" : [
+			[ "estimase" ],
+			[ "estimases" ],
+			[ "estimase" ],
+			[ "estimásemos" ],
+			[ "estimaseis", "estimasen" ],
+			[ "estimasen" ]
+		],
+		"11" : [
+			[ "estimare" ],
+			[ "estimares" ],
+			[ "estimare" ],
+			[ "estimáremos" ],
+			[ "estimareis", "estimaren" ],
+			[ "estimaren" ]
+		],
+		"12" : {
+			"1" : [ "estima" ],
+			"2" : [ "estime" ],
+			"3" : [ "estimemos" ],
+			"4" : [ "estimad" ],
+			"5" : [ "estimen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=filtrar",
+	"word" : "filtrar",
+	"infinitivo" : "filtrar",
+	"participio" : [ "filtrado" ],
+	"gerundio" : [ "filtrando" ],
+	"tenses" : {
+		"3" : [
+			[ "filtro" ],
+			[ "filtras", "filtrás" ],
+			[ "filtra" ],
+			[ "filtramos" ],
+			[ "filtráis", "filtran" ],
+			[ "filtran" ]
+		],
+		"4" : [
+			[ "filtré" ],
+			[ "filtraste" ],
+			[ "filtró" ],
+			[ "filtramos" ],
+			[ "filtrasteis", "filtraron" ],
+			[ "filtraron" ]
+		],
+		"5" : [
+			[ "filtraba" ],
+			[ "filtrabas" ],
+			[ "filtraba" ],
+			[ "filtrábamos" ],
+			[ "filtrabais", "filtraban" ],
+			[ "filtraban" ]
+		],
+		"6" : [
+			[ "filtraría" ],
+			[ "filtrarías" ],
+			[ "filtraría" ],
+			[ "filtraríamos" ],
+			[ "filtraríais", "filtrarían" ],
+			[ "filtrarían" ]
+		],
+		"7" : [
+			[ "filtraré" ],
+			[ "filtrarás" ],
+			[ "filtrará" ],
+			[ "filtraremos" ],
+			[ "filtraréis", "filtrarán" ],
+			[ "filtrarán" ]
+		],
+		"8" : [
+			[ "filtre" ],
+			[ "filtres" ],
+			[ "filtre" ],
+			[ "filtremos" ],
+			[ "filtréis", "filtren" ],
+			[ "filtren" ]
+		],
+		"9" : [
+			[ "filtrara" ],
+			[ "filtraras" ],
+			[ "filtrara" ],
+			[ "filtráramos" ],
+			[ "filtrarais", "filtraran" ],
+			[ "filtraran" ]
+		],
+		"10" : [
+			[ "filtrase" ],
+			[ "filtrases" ],
+			[ "filtrase" ],
+			[ "filtrásemos" ],
+			[ "filtraseis", "filtrasen" ],
+			[ "filtrasen" ]
+		],
+		"11" : [
+			[ "filtrare" ],
+			[ "filtrares" ],
+			[ "filtrare" ],
+			[ "filtráremos" ],
+			[ "filtrareis", "filtraren" ],
+			[ "filtraren" ]
+		],
+		"12" : {
+			"1" : [ "filtra" ],
+			"2" : [ "filtre" ],
+			"3" : [ "filtremos" ],
+			"4" : [ "filtrad" ],
+			"5" : [ "filtren" ]
+		}
+	}
+}

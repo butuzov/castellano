@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mosquear",
+	"word" : "mosquear",
+	"infinitivo" : "mosquear",
+	"participio" : [ "mosqueado" ],
+	"gerundio" : [ "mosqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "mosqueo" ],
+			[ "mosqueas", "mosqueás" ],
+			[ "mosquea" ],
+			[ "mosqueamos" ],
+			[ "mosqueáis", "mosquean" ],
+			[ "mosquean" ]
+		],
+		"4" : [
+			[ "mosqueé" ],
+			[ "mosqueaste" ],
+			[ "mosqueó" ],
+			[ "mosqueamos" ],
+			[ "mosqueasteis", "mosquearon" ],
+			[ "mosquearon" ]
+		],
+		"5" : [
+			[ "mosqueaba" ],
+			[ "mosqueabas" ],
+			[ "mosqueaba" ],
+			[ "mosqueábamos" ],
+			[ "mosqueabais", "mosqueaban" ],
+			[ "mosqueaban" ]
+		],
+		"6" : [
+			[ "mosquearía" ],
+			[ "mosquearías" ],
+			[ "mosquearía" ],
+			[ "mosquearíamos" ],
+			[ "mosquearíais", "mosquearían" ],
+			[ "mosquearían" ]
+		],
+		"7" : [
+			[ "mosquearé" ],
+			[ "mosquearás" ],
+			[ "mosqueará" ],
+			[ "mosquearemos" ],
+			[ "mosquearéis", "mosquearán" ],
+			[ "mosquearán" ]
+		],
+		"8" : [
+			[ "mosquee" ],
+			[ "mosquees" ],
+			[ "mosquee" ],
+			[ "mosqueemos" ],
+			[ "mosqueéis", "mosqueen" ],
+			[ "mosqueen" ]
+		],
+		"9" : [
+			[ "mosqueara" ],
+			[ "mosquearas" ],
+			[ "mosqueara" ],
+			[ "mosqueáramos" ],
+			[ "mosquearais", "mosquearan" ],
+			[ "mosquearan" ]
+		],
+		"10" : [
+			[ "mosquease" ],
+			[ "mosqueases" ],
+			[ "mosquease" ],
+			[ "mosqueásemos" ],
+			[ "mosqueaseis", "mosqueasen" ],
+			[ "mosqueasen" ]
+		],
+		"11" : [
+			[ "mosqueare" ],
+			[ "mosqueares" ],
+			[ "mosqueare" ],
+			[ "mosqueáremos" ],
+			[ "mosqueareis", "mosquearen" ],
+			[ "mosquearen" ]
+		],
+		"12" : {
+			"1" : [ "mosquea" ],
+			"2" : [ "mosquee" ],
+			"3" : [ "mosqueemos" ],
+			"4" : [ "mosquead" ],
+			"5" : [ "mosqueen" ]
+		}
+	}
+}

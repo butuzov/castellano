@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aovar",
+	"word" : "aovar",
+	"infinitivo" : "aovar",
+	"participio" : [ "aovado" ],
+	"gerundio" : [ "aovando" ],
+	"tenses" : {
+		"3" : [
+			[ "aovo" ],
+			[ "aovas", "aovás" ],
+			[ "aova" ],
+			[ "aovamos" ],
+			[ "aováis", "aovan" ],
+			[ "aovan" ]
+		],
+		"4" : [
+			[ "aové" ],
+			[ "aovaste" ],
+			[ "aovó" ],
+			[ "aovamos" ],
+			[ "aovasteis", "aovaron" ],
+			[ "aovaron" ]
+		],
+		"5" : [
+			[ "aovaba" ],
+			[ "aovabas" ],
+			[ "aovaba" ],
+			[ "aovábamos" ],
+			[ "aovabais", "aovaban" ],
+			[ "aovaban" ]
+		],
+		"6" : [
+			[ "aovaría" ],
+			[ "aovarías" ],
+			[ "aovaría" ],
+			[ "aovaríamos" ],
+			[ "aovaríais", "aovarían" ],
+			[ "aovarían" ]
+		],
+		"7" : [
+			[ "aovaré" ],
+			[ "aovarás" ],
+			[ "aovará" ],
+			[ "aovaremos" ],
+			[ "aovaréis", "aovarán" ],
+			[ "aovarán" ]
+		],
+		"8" : [
+			[ "aove" ],
+			[ "aoves" ],
+			[ "aove" ],
+			[ "aovemos" ],
+			[ "aovéis", "aoven" ],
+			[ "aoven" ]
+		],
+		"9" : [
+			[ "aovara" ],
+			[ "aovaras" ],
+			[ "aovara" ],
+			[ "aováramos" ],
+			[ "aovarais", "aovaran" ],
+			[ "aovaran" ]
+		],
+		"10" : [
+			[ "aovase" ],
+			[ "aovases" ],
+			[ "aovase" ],
+			[ "aovásemos" ],
+			[ "aovaseis", "aovasen" ],
+			[ "aovasen" ]
+		],
+		"11" : [
+			[ "aovare" ],
+			[ "aovares" ],
+			[ "aovare" ],
+			[ "aováremos" ],
+			[ "aovareis", "aovaren" ],
+			[ "aovaren" ]
+		],
+		"12" : {
+			"1" : [ "aova" ],
+			"2" : [ "aove" ],
+			"3" : [ "aovemos" ],
+			"4" : [ "aovad" ],
+			"5" : [ "aoven" ]
+		}
+	}
+}

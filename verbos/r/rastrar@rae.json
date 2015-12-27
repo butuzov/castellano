@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rastrar",
+	"word" : "rastrar",
+	"infinitivo" : "rastrar",
+	"participio" : [ "rastrado" ],
+	"gerundio" : [ "rastrando" ],
+	"tenses" : {
+		"3" : [
+			[ "rastro" ],
+			[ "rastras", "rastrás" ],
+			[ "rastra" ],
+			[ "rastramos" ],
+			[ "rastráis", "rastran" ],
+			[ "rastran" ]
+		],
+		"4" : [
+			[ "rastré" ],
+			[ "rastraste" ],
+			[ "rastró" ],
+			[ "rastramos" ],
+			[ "rastrasteis", "rastraron" ],
+			[ "rastraron" ]
+		],
+		"5" : [
+			[ "rastraba" ],
+			[ "rastrabas" ],
+			[ "rastraba" ],
+			[ "rastrábamos" ],
+			[ "rastrabais", "rastraban" ],
+			[ "rastraban" ]
+		],
+		"6" : [
+			[ "rastraría" ],
+			[ "rastrarías" ],
+			[ "rastraría" ],
+			[ "rastraríamos" ],
+			[ "rastraríais", "rastrarían" ],
+			[ "rastrarían" ]
+		],
+		"7" : [
+			[ "rastraré" ],
+			[ "rastrarás" ],
+			[ "rastrará" ],
+			[ "rastraremos" ],
+			[ "rastraréis", "rastrarán" ],
+			[ "rastrarán" ]
+		],
+		"8" : [
+			[ "rastre" ],
+			[ "rastres" ],
+			[ "rastre" ],
+			[ "rastremos" ],
+			[ "rastréis", "rastren" ],
+			[ "rastren" ]
+		],
+		"9" : [
+			[ "rastrara" ],
+			[ "rastraras" ],
+			[ "rastrara" ],
+			[ "rastráramos" ],
+			[ "rastrarais", "rastraran" ],
+			[ "rastraran" ]
+		],
+		"10" : [
+			[ "rastrase" ],
+			[ "rastrases" ],
+			[ "rastrase" ],
+			[ "rastrásemos" ],
+			[ "rastraseis", "rastrasen" ],
+			[ "rastrasen" ]
+		],
+		"11" : [
+			[ "rastrare" ],
+			[ "rastrares" ],
+			[ "rastrare" ],
+			[ "rastráremos" ],
+			[ "rastrareis", "rastraren" ],
+			[ "rastraren" ]
+		],
+		"12" : {
+			"1" : [ "rastra" ],
+			"2" : [ "rastre" ],
+			"3" : [ "rastremos" ],
+			"4" : [ "rastrad" ],
+			"5" : [ "rastren" ]
+		}
+	}
+}

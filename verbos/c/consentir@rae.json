@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=consentir",
+	"word" : "consentir",
+	"infinitivo" : "consentir",
+	"participio" : [ "consentido" ],
+	"gerundio" : [ "consintiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "consiento" ],
+			[ "consientes", "consentís" ],
+			[ "consiente" ],
+			[ "consentimos" ],
+			[ "consentís", "consienten" ],
+			[ "consienten" ]
+		],
+		"4" : [
+			[ "consentí" ],
+			[ "consentiste" ],
+			[ "consintió" ],
+			[ "consentimos" ],
+			[ "consentisteis", "consintieron" ],
+			[ "consintieron" ]
+		],
+		"5" : [
+			[ "consentía" ],
+			[ "consentías" ],
+			[ "consentía" ],
+			[ "consentíamos" ],
+			[ "consentíais", "consentían" ],
+			[ "consentían" ]
+		],
+		"6" : [
+			[ "consentiría" ],
+			[ "consentirías" ],
+			[ "consentiría" ],
+			[ "consentiríamos" ],
+			[ "consentiríais", "consentirían" ],
+			[ "consentirían" ]
+		],
+		"7" : [
+			[ "consentiré" ],
+			[ "consentirás" ],
+			[ "consentirá" ],
+			[ "consentiremos" ],
+			[ "consentiréis", "consentirán" ],
+			[ "consentirán" ]
+		],
+		"8" : [
+			[ "consienta" ],
+			[ "consientas" ],
+			[ "consienta" ],
+			[ "consintamos" ],
+			[ "consintáis", "consientan" ],
+			[ "consientan" ]
+		],
+		"9" : [
+			[ "consintiera" ],
+			[ "consintieras" ],
+			[ "consintiera" ],
+			[ "consintiéramos" ],
+			[ "consintierais", "consintieran" ],
+			[ "consintieran" ]
+		],
+		"10" : [
+			[ "consintiese" ],
+			[ "consintieses" ],
+			[ "consintiese" ],
+			[ "consintiésemos" ],
+			[ "consintieseis", "consintiesen" ],
+			[ "consintiesen" ]
+		],
+		"11" : [
+			[ "consintiere" ],
+			[ "consintieres" ],
+			[ "consintiere" ],
+			[ "consintiéremos" ],
+			[ "consintiereis", "consintieren" ],
+			[ "consintieren" ]
+		],
+		"12" : {
+			"1" : [ "consiente" ],
+			"2" : [ "consienta" ],
+			"3" : [ "consintamos" ],
+			"4" : [ "consentid" ],
+			"5" : [ "consientan" ]
+		}
+	}
+}

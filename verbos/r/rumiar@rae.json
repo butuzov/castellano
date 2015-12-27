@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rumiar",
+	"word" : "rumiar",
+	"infinitivo" : "rumiar",
+	"participio" : [ "rumiado" ],
+	"gerundio" : [ "rumiando" ],
+	"tenses" : {
+		"3" : [
+			[ "rumio" ],
+			[ "rumias", "rumiás" ],
+			[ "rumia" ],
+			[ "rumiamos" ],
+			[ "rumiáis", "rumian" ],
+			[ "rumian" ]
+		],
+		"4" : [
+			[ "rumié" ],
+			[ "rumiaste" ],
+			[ "rumió" ],
+			[ "rumiamos" ],
+			[ "rumiasteis", "rumiaron" ],
+			[ "rumiaron" ]
+		],
+		"5" : [
+			[ "rumiaba" ],
+			[ "rumiabas" ],
+			[ "rumiaba" ],
+			[ "rumiábamos" ],
+			[ "rumiabais", "rumiaban" ],
+			[ "rumiaban" ]
+		],
+		"6" : [
+			[ "rumiaría" ],
+			[ "rumiarías" ],
+			[ "rumiaría" ],
+			[ "rumiaríamos" ],
+			[ "rumiaríais", "rumiarían" ],
+			[ "rumiarían" ]
+		],
+		"7" : [
+			[ "rumiaré" ],
+			[ "rumiarás" ],
+			[ "rumiará" ],
+			[ "rumiaremos" ],
+			[ "rumiaréis", "rumiarán" ],
+			[ "rumiarán" ]
+		],
+		"8" : [
+			[ "rumie" ],
+			[ "rumies" ],
+			[ "rumie" ],
+			[ "rumiemos" ],
+			[ "rumiéis", "rumien" ],
+			[ "rumien" ]
+		],
+		"9" : [
+			[ "rumiara" ],
+			[ "rumiaras" ],
+			[ "rumiara" ],
+			[ "rumiáramos" ],
+			[ "rumiarais", "rumiaran" ],
+			[ "rumiaran" ]
+		],
+		"10" : [
+			[ "rumiase" ],
+			[ "rumiases" ],
+			[ "rumiase" ],
+			[ "rumiásemos" ],
+			[ "rumiaseis", "rumiasen" ],
+			[ "rumiasen" ]
+		],
+		"11" : [
+			[ "rumiare" ],
+			[ "rumiares" ],
+			[ "rumiare" ],
+			[ "rumiáremos" ],
+			[ "rumiareis", "rumiaren" ],
+			[ "rumiaren" ]
+		],
+		"12" : {
+			"1" : [ "rumia" ],
+			"2" : [ "rumie" ],
+			"3" : [ "rumiemos" ],
+			"4" : [ "rumiad" ],
+			"5" : [ "rumien" ]
+		}
+	}
+}

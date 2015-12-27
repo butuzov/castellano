@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desnatar",
+	"word" : "desnatar",
+	"infinitivo" : "desnatar",
+	"participio" : [ "desnatado" ],
+	"gerundio" : [ "desnatando" ],
+	"tenses" : {
+		"3" : [
+			[ "desnato" ],
+			[ "desnatas", "desnatás" ],
+			[ "desnata" ],
+			[ "desnatamos" ],
+			[ "desnatáis", "desnatan" ],
+			[ "desnatan" ]
+		],
+		"4" : [
+			[ "desnaté" ],
+			[ "desnataste" ],
+			[ "desnató" ],
+			[ "desnatamos" ],
+			[ "desnatasteis", "desnataron" ],
+			[ "desnataron" ]
+		],
+		"5" : [
+			[ "desnataba" ],
+			[ "desnatabas" ],
+			[ "desnataba" ],
+			[ "desnatábamos" ],
+			[ "desnatabais", "desnataban" ],
+			[ "desnataban" ]
+		],
+		"6" : [
+			[ "desnataría" ],
+			[ "desnatarías" ],
+			[ "desnataría" ],
+			[ "desnataríamos" ],
+			[ "desnataríais", "desnatarían" ],
+			[ "desnatarían" ]
+		],
+		"7" : [
+			[ "desnataré" ],
+			[ "desnatarás" ],
+			[ "desnatará" ],
+			[ "desnataremos" ],
+			[ "desnataréis", "desnatarán" ],
+			[ "desnatarán" ]
+		],
+		"8" : [
+			[ "desnate" ],
+			[ "desnates" ],
+			[ "desnate" ],
+			[ "desnatemos" ],
+			[ "desnatéis", "desnaten" ],
+			[ "desnaten" ]
+		],
+		"9" : [
+			[ "desnatara" ],
+			[ "desnataras" ],
+			[ "desnatara" ],
+			[ "desnatáramos" ],
+			[ "desnatarais", "desnataran" ],
+			[ "desnataran" ]
+		],
+		"10" : [
+			[ "desnatase" ],
+			[ "desnatases" ],
+			[ "desnatase" ],
+			[ "desnatásemos" ],
+			[ "desnataseis", "desnatasen" ],
+			[ "desnatasen" ]
+		],
+		"11" : [
+			[ "desnatare" ],
+			[ "desnatares" ],
+			[ "desnatare" ],
+			[ "desnatáremos" ],
+			[ "desnatareis", "desnataren" ],
+			[ "desnataren" ]
+		],
+		"12" : {
+			"1" : [ "desnata" ],
+			"2" : [ "desnate" ],
+			"3" : [ "desnatemos" ],
+			"4" : [ "desnatad" ],
+			"5" : [ "desnaten" ]
+		}
+	}
+}

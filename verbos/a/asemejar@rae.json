@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asemejar",
+	"word" : "asemejar",
+	"infinitivo" : "asemejar",
+	"participio" : [ "asemejado" ],
+	"gerundio" : [ "asemejando" ],
+	"tenses" : {
+		"3" : [
+			[ "asemejo" ],
+			[ "asemejas", "asemejás" ],
+			[ "asemeja" ],
+			[ "asemejamos" ],
+			[ "asemejáis", "asemejan" ],
+			[ "asemejan" ]
+		],
+		"4" : [
+			[ "asemejé" ],
+			[ "asemejaste" ],
+			[ "asemejó" ],
+			[ "asemejamos" ],
+			[ "asemejasteis", "asemejaron" ],
+			[ "asemejaron" ]
+		],
+		"5" : [
+			[ "asemejaba" ],
+			[ "asemejabas" ],
+			[ "asemejaba" ],
+			[ "asemejábamos" ],
+			[ "asemejabais", "asemejaban" ],
+			[ "asemejaban" ]
+		],
+		"6" : [
+			[ "asemejaría" ],
+			[ "asemejarías" ],
+			[ "asemejaría" ],
+			[ "asemejaríamos" ],
+			[ "asemejaríais", "asemejarían" ],
+			[ "asemejarían" ]
+		],
+		"7" : [
+			[ "asemejaré" ],
+			[ "asemejarás" ],
+			[ "asemejará" ],
+			[ "asemejaremos" ],
+			[ "asemejaréis", "asemejarán" ],
+			[ "asemejarán" ]
+		],
+		"8" : [
+			[ "asemeje" ],
+			[ "asemejes" ],
+			[ "asemeje" ],
+			[ "asemejemos" ],
+			[ "asemejéis", "asemejen" ],
+			[ "asemejen" ]
+		],
+		"9" : [
+			[ "asemejara" ],
+			[ "asemejaras" ],
+			[ "asemejara" ],
+			[ "asemejáramos" ],
+			[ "asemejarais", "asemejaran" ],
+			[ "asemejaran" ]
+		],
+		"10" : [
+			[ "asemejase" ],
+			[ "asemejases" ],
+			[ "asemejase" ],
+			[ "asemejásemos" ],
+			[ "asemejaseis", "asemejasen" ],
+			[ "asemejasen" ]
+		],
+		"11" : [
+			[ "asemejare" ],
+			[ "asemejares" ],
+			[ "asemejare" ],
+			[ "asemejáremos" ],
+			[ "asemejareis", "asemejaren" ],
+			[ "asemejaren" ]
+		],
+		"12" : {
+			"1" : [ "asemeja" ],
+			"2" : [ "asemeje" ],
+			"3" : [ "asemejemos" ],
+			"4" : [ "asemejad" ],
+			"5" : [ "asemejen" ]
+		}
+	}
+}

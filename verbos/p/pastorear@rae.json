@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pastorear",
+	"word" : "pastorear",
+	"infinitivo" : "pastorear",
+	"participio" : [ "pastoreado" ],
+	"gerundio" : [ "pastoreando" ],
+	"tenses" : {
+		"3" : [
+			[ "pastoreo" ],
+			[ "pastoreas", "pastoreás" ],
+			[ "pastorea" ],
+			[ "pastoreamos" ],
+			[ "pastoreáis", "pastorean" ],
+			[ "pastorean" ]
+		],
+		"4" : [
+			[ "pastoreé" ],
+			[ "pastoreaste" ],
+			[ "pastoreó" ],
+			[ "pastoreamos" ],
+			[ "pastoreasteis", "pastorearon" ],
+			[ "pastorearon" ]
+		],
+		"5" : [
+			[ "pastoreaba" ],
+			[ "pastoreabas" ],
+			[ "pastoreaba" ],
+			[ "pastoreábamos" ],
+			[ "pastoreabais", "pastoreaban" ],
+			[ "pastoreaban" ]
+		],
+		"6" : [
+			[ "pastorearía" ],
+			[ "pastorearías" ],
+			[ "pastorearía" ],
+			[ "pastorearíamos" ],
+			[ "pastorearíais", "pastorearían" ],
+			[ "pastorearían" ]
+		],
+		"7" : [
+			[ "pastorearé" ],
+			[ "pastorearás" ],
+			[ "pastoreará" ],
+			[ "pastorearemos" ],
+			[ "pastorearéis", "pastorearán" ],
+			[ "pastorearán" ]
+		],
+		"8" : [
+			[ "pastoree" ],
+			[ "pastorees" ],
+			[ "pastoree" ],
+			[ "pastoreemos" ],
+			[ "pastoreéis", "pastoreen" ],
+			[ "pastoreen" ]
+		],
+		"9" : [
+			[ "pastoreara" ],
+			[ "pastorearas" ],
+			[ "pastoreara" ],
+			[ "pastoreáramos" ],
+			[ "pastorearais", "pastorearan" ],
+			[ "pastorearan" ]
+		],
+		"10" : [
+			[ "pastorease" ],
+			[ "pastoreases" ],
+			[ "pastorease" ],
+			[ "pastoreásemos" ],
+			[ "pastoreaseis", "pastoreasen" ],
+			[ "pastoreasen" ]
+		],
+		"11" : [
+			[ "pastoreare" ],
+			[ "pastoreares" ],
+			[ "pastoreare" ],
+			[ "pastoreáremos" ],
+			[ "pastoreareis", "pastorearen" ],
+			[ "pastorearen" ]
+		],
+		"12" : {
+			"1" : [ "pastorea" ],
+			"2" : [ "pastoree" ],
+			"3" : [ "pastoreemos" ],
+			"4" : [ "pastoread" ],
+			"5" : [ "pastoreen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=proscribir",
+	"word" : "proscribir",
+	"infinitivo" : "proscribir",
+	"participio" : [ "proscrito", "proscripto" ],
+	"gerundio" : [ "proscribiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "proscribo" ],
+			[ "proscribes", "proscribís" ],
+			[ "proscribe" ],
+			[ "proscribimos" ],
+			[ "proscribís", "proscriben" ],
+			[ "proscriben" ]
+		],
+		"4" : [
+			[ "proscribí" ],
+			[ "proscribiste" ],
+			[ "proscribió" ],
+			[ "proscribimos" ],
+			[ "proscribisteis", "proscribieron" ],
+			[ "proscribieron" ]
+		],
+		"5" : [
+			[ "proscribía" ],
+			[ "proscribías" ],
+			[ "proscribía" ],
+			[ "proscribíamos" ],
+			[ "proscribíais", "proscribían" ],
+			[ "proscribían" ]
+		],
+		"6" : [
+			[ "proscribiría" ],
+			[ "proscribirías" ],
+			[ "proscribiría" ],
+			[ "proscribiríamos" ],
+			[ "proscribiríais", "proscribirían" ],
+			[ "proscribirían" ]
+		],
+		"7" : [
+			[ "proscribiré" ],
+			[ "proscribirás" ],
+			[ "proscribirá" ],
+			[ "proscribiremos" ],
+			[ "proscribiréis", "proscribirán" ],
+			[ "proscribirán" ]
+		],
+		"8" : [
+			[ "proscriba" ],
+			[ "proscribas" ],
+			[ "proscriba" ],
+			[ "proscribamos" ],
+			[ "proscribáis", "proscriban" ],
+			[ "proscriban" ]
+		],
+		"9" : [
+			[ "proscribiera" ],
+			[ "proscribieras" ],
+			[ "proscribiera" ],
+			[ "proscribiéramos" ],
+			[ "proscribierais", "proscribieran" ],
+			[ "proscribieran" ]
+		],
+		"10" : [
+			[ "proscribiese" ],
+			[ "proscribieses" ],
+			[ "proscribiese" ],
+			[ "proscribiésemos" ],
+			[ "proscribieseis", "proscribiesen" ],
+			[ "proscribiesen" ]
+		],
+		"11" : [
+			[ "proscribiere" ],
+			[ "proscribieres" ],
+			[ "proscribiere" ],
+			[ "proscribiéremos" ],
+			[ "proscribiereis", "proscribieren" ],
+			[ "proscribieren" ]
+		],
+		"12" : {
+			"1" : [ "proscribe" ],
+			"2" : [ "proscriba" ],
+			"3" : [ "proscribamos" ],
+			"4" : [ "proscribid" ],
+			"5" : [ "proscriban" ]
+		}
+	}
+}

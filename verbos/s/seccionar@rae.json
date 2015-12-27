@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=seccionar",
+	"word" : "seccionar",
+	"infinitivo" : "seccionar",
+	"participio" : [ "seccionado" ],
+	"gerundio" : [ "seccionando" ],
+	"tenses" : {
+		"3" : [
+			[ "secciono" ],
+			[ "seccionas", "seccionás" ],
+			[ "secciona" ],
+			[ "seccionamos" ],
+			[ "seccionáis", "seccionan" ],
+			[ "seccionan" ]
+		],
+		"4" : [
+			[ "seccioné" ],
+			[ "seccionaste" ],
+			[ "seccionó" ],
+			[ "seccionamos" ],
+			[ "seccionasteis", "seccionaron" ],
+			[ "seccionaron" ]
+		],
+		"5" : [
+			[ "seccionaba" ],
+			[ "seccionabas" ],
+			[ "seccionaba" ],
+			[ "seccionábamos" ],
+			[ "seccionabais", "seccionaban" ],
+			[ "seccionaban" ]
+		],
+		"6" : [
+			[ "seccionaría" ],
+			[ "seccionarías" ],
+			[ "seccionaría" ],
+			[ "seccionaríamos" ],
+			[ "seccionaríais", "seccionarían" ],
+			[ "seccionarían" ]
+		],
+		"7" : [
+			[ "seccionaré" ],
+			[ "seccionarás" ],
+			[ "seccionará" ],
+			[ "seccionaremos" ],
+			[ "seccionaréis", "seccionarán" ],
+			[ "seccionarán" ]
+		],
+		"8" : [
+			[ "seccione" ],
+			[ "secciones" ],
+			[ "seccione" ],
+			[ "seccionemos" ],
+			[ "seccionéis", "seccionen" ],
+			[ "seccionen" ]
+		],
+		"9" : [
+			[ "seccionara" ],
+			[ "seccionaras" ],
+			[ "seccionara" ],
+			[ "seccionáramos" ],
+			[ "seccionarais", "seccionaran" ],
+			[ "seccionaran" ]
+		],
+		"10" : [
+			[ "seccionase" ],
+			[ "seccionases" ],
+			[ "seccionase" ],
+			[ "seccionásemos" ],
+			[ "seccionaseis", "seccionasen" ],
+			[ "seccionasen" ]
+		],
+		"11" : [
+			[ "seccionare" ],
+			[ "seccionares" ],
+			[ "seccionare" ],
+			[ "seccionáremos" ],
+			[ "seccionareis", "seccionaren" ],
+			[ "seccionaren" ]
+		],
+		"12" : {
+			"1" : [ "secciona" ],
+			"2" : [ "seccione" ],
+			"3" : [ "seccionemos" ],
+			"4" : [ "seccionad" ],
+			"5" : [ "seccionen" ]
+		}
+	}
+}

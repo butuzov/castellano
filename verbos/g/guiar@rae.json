@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=guiar",
+	"word" : "guiar",
+	"infinitivo" : "guiar",
+	"participio" : [ "guiado" ],
+	"gerundio" : [ "guiando" ],
+	"tenses" : {
+		"3" : [
+			[ "guío" ],
+			[ "guías", "guias" ],
+			[ "guía" ],
+			[ "guiamos" ],
+			[ "guiais", "guían" ],
+			[ "guían" ]
+		],
+		"4" : [
+			[ "guie" ],
+			[ "guiaste" ],
+			[ "guio" ],
+			[ "guiamos" ],
+			[ "guiasteis", "guiaron" ],
+			[ "guiaron" ]
+		],
+		"5" : [
+			[ "guiaba" ],
+			[ "guiabas" ],
+			[ "guiaba" ],
+			[ "guiábamos" ],
+			[ "guiabais", "guiaban" ],
+			[ "guiaban" ]
+		],
+		"6" : [
+			[ "guiaría" ],
+			[ "guiarías" ],
+			[ "guiaría" ],
+			[ "guiaríamos" ],
+			[ "guiaríais", "guiarían" ],
+			[ "guiarían" ]
+		],
+		"7" : [
+			[ "guiaré" ],
+			[ "guiarás" ],
+			[ "guiará" ],
+			[ "guiaremos" ],
+			[ "guiaréis", "guiarán" ],
+			[ "guiarán" ]
+		],
+		"8" : [
+			[ "guíe" ],
+			[ "guíes" ],
+			[ "guíe" ],
+			[ "guiemos" ],
+			[ "guieis", "guíen" ],
+			[ "guíen" ]
+		],
+		"9" : [
+			[ "guiara" ],
+			[ "guiaras" ],
+			[ "guiara" ],
+			[ "guiáramos" ],
+			[ "guiarais", "guiaran" ],
+			[ "guiaran" ]
+		],
+		"10" : [
+			[ "guiase" ],
+			[ "guiases" ],
+			[ "guiase" ],
+			[ "guiásemos" ],
+			[ "guiaseis", "guiasen" ],
+			[ "guiasen" ]
+		],
+		"11" : [
+			[ "guiare" ],
+			[ "guiares" ],
+			[ "guiare" ],
+			[ "guiáremos" ],
+			[ "guiareis", "guiaren" ],
+			[ "guiaren" ]
+		],
+		"12" : {
+			"1" : [ "guía" ],
+			"2" : [ "guíe" ],
+			"3" : [ "guiemos" ],
+			"4" : [ "guiad" ],
+			"5" : [ "guíen" ]
+		}
+	}
+}

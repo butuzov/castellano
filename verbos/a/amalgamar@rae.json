@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amalgamar",
+	"word" : "amalgamar",
+	"infinitivo" : "amalgamar",
+	"participio" : [ "amalgamado" ],
+	"gerundio" : [ "amalgamando" ],
+	"tenses" : {
+		"3" : [
+			[ "amalgamo" ],
+			[ "amalgamas", "amalgamás" ],
+			[ "amalgama" ],
+			[ "amalgamamos" ],
+			[ "amalgamáis", "amalgaman" ],
+			[ "amalgaman" ]
+		],
+		"4" : [
+			[ "amalgamé" ],
+			[ "amalgamaste" ],
+			[ "amalgamó" ],
+			[ "amalgamamos" ],
+			[ "amalgamasteis", "amalgamaron" ],
+			[ "amalgamaron" ]
+		],
+		"5" : [
+			[ "amalgamaba" ],
+			[ "amalgamabas" ],
+			[ "amalgamaba" ],
+			[ "amalgamábamos" ],
+			[ "amalgamabais", "amalgamaban" ],
+			[ "amalgamaban" ]
+		],
+		"6" : [
+			[ "amalgamaría" ],
+			[ "amalgamarías" ],
+			[ "amalgamaría" ],
+			[ "amalgamaríamos" ],
+			[ "amalgamaríais", "amalgamarían" ],
+			[ "amalgamarían" ]
+		],
+		"7" : [
+			[ "amalgamaré" ],
+			[ "amalgamarás" ],
+			[ "amalgamará" ],
+			[ "amalgamaremos" ],
+			[ "amalgamaréis", "amalgamarán" ],
+			[ "amalgamarán" ]
+		],
+		"8" : [
+			[ "amalgame" ],
+			[ "amalgames" ],
+			[ "amalgame" ],
+			[ "amalgamemos" ],
+			[ "amalgaméis", "amalgamen" ],
+			[ "amalgamen" ]
+		],
+		"9" : [
+			[ "amalgamara" ],
+			[ "amalgamaras" ],
+			[ "amalgamara" ],
+			[ "amalgamáramos" ],
+			[ "amalgamarais", "amalgamaran" ],
+			[ "amalgamaran" ]
+		],
+		"10" : [
+			[ "amalgamase" ],
+			[ "amalgamases" ],
+			[ "amalgamase" ],
+			[ "amalgamásemos" ],
+			[ "amalgamaseis", "amalgamasen" ],
+			[ "amalgamasen" ]
+		],
+		"11" : [
+			[ "amalgamare" ],
+			[ "amalgamares" ],
+			[ "amalgamare" ],
+			[ "amalgamáremos" ],
+			[ "amalgamareis", "amalgamaren" ],
+			[ "amalgamaren" ]
+		],
+		"12" : {
+			"1" : [ "amalgama" ],
+			"2" : [ "amalgame" ],
+			"3" : [ "amalgamemos" ],
+			"4" : [ "amalgamad" ],
+			"5" : [ "amalgamen" ]
+		}
+	}
+}

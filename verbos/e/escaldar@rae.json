@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escaldar",
+	"word" : "escaldar",
+	"infinitivo" : "escaldar",
+	"participio" : [ "escaldado" ],
+	"gerundio" : [ "escaldando" ],
+	"tenses" : {
+		"3" : [
+			[ "escaldo" ],
+			[ "escaldas", "escaldás" ],
+			[ "escalda" ],
+			[ "escaldamos" ],
+			[ "escaldáis", "escaldan" ],
+			[ "escaldan" ]
+		],
+		"4" : [
+			[ "escaldé" ],
+			[ "escaldaste" ],
+			[ "escaldó" ],
+			[ "escaldamos" ],
+			[ "escaldasteis", "escaldaron" ],
+			[ "escaldaron" ]
+		],
+		"5" : [
+			[ "escaldaba" ],
+			[ "escaldabas" ],
+			[ "escaldaba" ],
+			[ "escaldábamos" ],
+			[ "escaldabais", "escaldaban" ],
+			[ "escaldaban" ]
+		],
+		"6" : [
+			[ "escaldaría" ],
+			[ "escaldarías" ],
+			[ "escaldaría" ],
+			[ "escaldaríamos" ],
+			[ "escaldaríais", "escaldarían" ],
+			[ "escaldarían" ]
+		],
+		"7" : [
+			[ "escaldaré" ],
+			[ "escaldarás" ],
+			[ "escaldará" ],
+			[ "escaldaremos" ],
+			[ "escaldaréis", "escaldarán" ],
+			[ "escaldarán" ]
+		],
+		"8" : [
+			[ "escalde" ],
+			[ "escaldes" ],
+			[ "escalde" ],
+			[ "escaldemos" ],
+			[ "escaldéis", "escalden" ],
+			[ "escalden" ]
+		],
+		"9" : [
+			[ "escaldara" ],
+			[ "escaldaras" ],
+			[ "escaldara" ],
+			[ "escaldáramos" ],
+			[ "escaldarais", "escaldaran" ],
+			[ "escaldaran" ]
+		],
+		"10" : [
+			[ "escaldase" ],
+			[ "escaldases" ],
+			[ "escaldase" ],
+			[ "escaldásemos" ],
+			[ "escaldaseis", "escaldasen" ],
+			[ "escaldasen" ]
+		],
+		"11" : [
+			[ "escaldare" ],
+			[ "escaldares" ],
+			[ "escaldare" ],
+			[ "escaldáremos" ],
+			[ "escaldareis", "escaldaren" ],
+			[ "escaldaren" ]
+		],
+		"12" : {
+			"1" : [ "escalda" ],
+			"2" : [ "escalde" ],
+			"3" : [ "escaldemos" ],
+			"4" : [ "escaldad" ],
+			"5" : [ "escalden" ]
+		}
+	}
+}

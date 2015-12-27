@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cristalizar",
+	"word" : "cristalizar",
+	"infinitivo" : "cristalizar",
+	"participio" : [ "cristalizado" ],
+	"gerundio" : [ "cristalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "cristalizo" ],
+			[ "cristalizas", "cristalizás" ],
+			[ "cristaliza" ],
+			[ "cristalizamos" ],
+			[ "cristalizáis", "cristalizan" ],
+			[ "cristalizan" ]
+		],
+		"4" : [
+			[ "cristalicé" ],
+			[ "cristalizaste" ],
+			[ "cristalizó" ],
+			[ "cristalizamos" ],
+			[ "cristalizasteis", "cristalizaron" ],
+			[ "cristalizaron" ]
+		],
+		"5" : [
+			[ "cristalizaba" ],
+			[ "cristalizabas" ],
+			[ "cristalizaba" ],
+			[ "cristalizábamos" ],
+			[ "cristalizabais", "cristalizaban" ],
+			[ "cristalizaban" ]
+		],
+		"6" : [
+			[ "cristalizaría" ],
+			[ "cristalizarías" ],
+			[ "cristalizaría" ],
+			[ "cristalizaríamos" ],
+			[ "cristalizaríais", "cristalizarían" ],
+			[ "cristalizarían" ]
+		],
+		"7" : [
+			[ "cristalizaré" ],
+			[ "cristalizarás" ],
+			[ "cristalizará" ],
+			[ "cristalizaremos" ],
+			[ "cristalizaréis", "cristalizarán" ],
+			[ "cristalizarán" ]
+		],
+		"8" : [
+			[ "cristalice" ],
+			[ "cristalices" ],
+			[ "cristalice" ],
+			[ "cristalicemos" ],
+			[ "cristalicéis", "cristalicen" ],
+			[ "cristalicen" ]
+		],
+		"9" : [
+			[ "cristalizara" ],
+			[ "cristalizaras" ],
+			[ "cristalizara" ],
+			[ "cristalizáramos" ],
+			[ "cristalizarais", "cristalizaran" ],
+			[ "cristalizaran" ]
+		],
+		"10" : [
+			[ "cristalizase" ],
+			[ "cristalizases" ],
+			[ "cristalizase" ],
+			[ "cristalizásemos" ],
+			[ "cristalizaseis", "cristalizasen" ],
+			[ "cristalizasen" ]
+		],
+		"11" : [
+			[ "cristalizare" ],
+			[ "cristalizares" ],
+			[ "cristalizare" ],
+			[ "cristalizáremos" ],
+			[ "cristalizareis", "cristalizaren" ],
+			[ "cristalizaren" ]
+		],
+		"12" : {
+			"1" : [ "cristaliza" ],
+			"2" : [ "cristalice" ],
+			"3" : [ "cristalicemos" ],
+			"4" : [ "cristalizad" ],
+			"5" : [ "cristalicen" ]
+		}
+	}
+}

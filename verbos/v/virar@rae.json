@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=virar",
+	"word" : "virar",
+	"infinitivo" : "virar",
+	"participio" : [ "virado" ],
+	"gerundio" : [ "virando" ],
+	"tenses" : {
+		"3" : [
+			[ "viro" ],
+			[ "viras", "virás" ],
+			[ "vira" ],
+			[ "viramos" ],
+			[ "viráis", "viran" ],
+			[ "viran" ]
+		],
+		"4" : [
+			[ "viré" ],
+			[ "viraste" ],
+			[ "viró" ],
+			[ "viramos" ],
+			[ "virasteis", "viraron" ],
+			[ "viraron" ]
+		],
+		"5" : [
+			[ "viraba" ],
+			[ "virabas" ],
+			[ "viraba" ],
+			[ "virábamos" ],
+			[ "virabais", "viraban" ],
+			[ "viraban" ]
+		],
+		"6" : [
+			[ "viraría" ],
+			[ "virarías" ],
+			[ "viraría" ],
+			[ "viraríamos" ],
+			[ "viraríais", "virarían" ],
+			[ "virarían" ]
+		],
+		"7" : [
+			[ "viraré" ],
+			[ "virarás" ],
+			[ "virará" ],
+			[ "viraremos" ],
+			[ "viraréis", "virarán" ],
+			[ "virarán" ]
+		],
+		"8" : [
+			[ "vire" ],
+			[ "vires" ],
+			[ "vire" ],
+			[ "viremos" ],
+			[ "viréis", "viren" ],
+			[ "viren" ]
+		],
+		"9" : [
+			[ "virara" ],
+			[ "viraras" ],
+			[ "virara" ],
+			[ "viráramos" ],
+			[ "virarais", "viraran" ],
+			[ "viraran" ]
+		],
+		"10" : [
+			[ "virase" ],
+			[ "virases" ],
+			[ "virase" ],
+			[ "virásemos" ],
+			[ "viraseis", "virasen" ],
+			[ "virasen" ]
+		],
+		"11" : [
+			[ "virare" ],
+			[ "virares" ],
+			[ "virare" ],
+			[ "viráremos" ],
+			[ "virareis", "viraren" ],
+			[ "viraren" ]
+		],
+		"12" : {
+			"1" : [ "vira" ],
+			"2" : [ "vire" ],
+			"3" : [ "viremos" ],
+			"4" : [ "virad" ],
+			"5" : [ "viren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=expoliar",
+	"word" : "expoliar",
+	"infinitivo" : "expoliar",
+	"participio" : [ "expoliado" ],
+	"gerundio" : [ "expoliando" ],
+	"tenses" : {
+		"3" : [
+			[ "expolio" ],
+			[ "expolias", "expoliás" ],
+			[ "expolia" ],
+			[ "expoliamos" ],
+			[ "expoliáis", "expolian" ],
+			[ "expolian" ]
+		],
+		"4" : [
+			[ "expolié" ],
+			[ "expoliaste" ],
+			[ "expolió" ],
+			[ "expoliamos" ],
+			[ "expoliasteis", "expoliaron" ],
+			[ "expoliaron" ]
+		],
+		"5" : [
+			[ "expoliaba" ],
+			[ "expoliabas" ],
+			[ "expoliaba" ],
+			[ "expoliábamos" ],
+			[ "expoliabais", "expoliaban" ],
+			[ "expoliaban" ]
+		],
+		"6" : [
+			[ "expoliaría" ],
+			[ "expoliarías" ],
+			[ "expoliaría" ],
+			[ "expoliaríamos" ],
+			[ "expoliaríais", "expoliarían" ],
+			[ "expoliarían" ]
+		],
+		"7" : [
+			[ "expoliaré" ],
+			[ "expoliarás" ],
+			[ "expoliará" ],
+			[ "expoliaremos" ],
+			[ "expoliaréis", "expoliarán" ],
+			[ "expoliarán" ]
+		],
+		"8" : [
+			[ "expolie" ],
+			[ "expolies" ],
+			[ "expolie" ],
+			[ "expoliemos" ],
+			[ "expoliéis", "expolien" ],
+			[ "expolien" ]
+		],
+		"9" : [
+			[ "expoliara" ],
+			[ "expoliaras" ],
+			[ "expoliara" ],
+			[ "expoliáramos" ],
+			[ "expoliarais", "expoliaran" ],
+			[ "expoliaran" ]
+		],
+		"10" : [
+			[ "expoliase" ],
+			[ "expoliases" ],
+			[ "expoliase" ],
+			[ "expoliásemos" ],
+			[ "expoliaseis", "expoliasen" ],
+			[ "expoliasen" ]
+		],
+		"11" : [
+			[ "expoliare" ],
+			[ "expoliares" ],
+			[ "expoliare" ],
+			[ "expoliáremos" ],
+			[ "expoliareis", "expoliaren" ],
+			[ "expoliaren" ]
+		],
+		"12" : {
+			"1" : [ "expolia" ],
+			"2" : [ "expolie" ],
+			"3" : [ "expoliemos" ],
+			"4" : [ "expoliad" ],
+			"5" : [ "expolien" ]
+		}
+	}
+}

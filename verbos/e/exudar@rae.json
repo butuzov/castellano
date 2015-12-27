@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=exudar",
+	"word" : "exudar",
+	"infinitivo" : "exudar",
+	"participio" : [ "exudado" ],
+	"gerundio" : [ "exudando" ],
+	"tenses" : {
+		"3" : [
+			[ "exudo" ],
+			[ "exudas", "exudás" ],
+			[ "exuda" ],
+			[ "exudamos" ],
+			[ "exudáis", "exudan" ],
+			[ "exudan" ]
+		],
+		"4" : [
+			[ "exudé" ],
+			[ "exudaste" ],
+			[ "exudó" ],
+			[ "exudamos" ],
+			[ "exudasteis", "exudaron" ],
+			[ "exudaron" ]
+		],
+		"5" : [
+			[ "exudaba" ],
+			[ "exudabas" ],
+			[ "exudaba" ],
+			[ "exudábamos" ],
+			[ "exudabais", "exudaban" ],
+			[ "exudaban" ]
+		],
+		"6" : [
+			[ "exudaría" ],
+			[ "exudarías" ],
+			[ "exudaría" ],
+			[ "exudaríamos" ],
+			[ "exudaríais", "exudarían" ],
+			[ "exudarían" ]
+		],
+		"7" : [
+			[ "exudaré" ],
+			[ "exudarás" ],
+			[ "exudará" ],
+			[ "exudaremos" ],
+			[ "exudaréis", "exudarán" ],
+			[ "exudarán" ]
+		],
+		"8" : [
+			[ "exude" ],
+			[ "exudes" ],
+			[ "exude" ],
+			[ "exudemos" ],
+			[ "exudéis", "exuden" ],
+			[ "exuden" ]
+		],
+		"9" : [
+			[ "exudara" ],
+			[ "exudaras" ],
+			[ "exudara" ],
+			[ "exudáramos" ],
+			[ "exudarais", "exudaran" ],
+			[ "exudaran" ]
+		],
+		"10" : [
+			[ "exudase" ],
+			[ "exudases" ],
+			[ "exudase" ],
+			[ "exudásemos" ],
+			[ "exudaseis", "exudasen" ],
+			[ "exudasen" ]
+		],
+		"11" : [
+			[ "exudare" ],
+			[ "exudares" ],
+			[ "exudare" ],
+			[ "exudáremos" ],
+			[ "exudareis", "exudaren" ],
+			[ "exudaren" ]
+		],
+		"12" : {
+			"1" : [ "exuda" ],
+			"2" : [ "exude" ],
+			"3" : [ "exudemos" ],
+			"4" : [ "exudad" ],
+			"5" : [ "exuden" ]
+		}
+	}
+}

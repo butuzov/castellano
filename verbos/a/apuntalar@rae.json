@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apuntalar",
+	"word" : "apuntalar",
+	"infinitivo" : "apuntalar",
+	"participio" : [ "apuntalado" ],
+	"gerundio" : [ "apuntalando" ],
+	"tenses" : {
+		"3" : [
+			[ "apuntalo" ],
+			[ "apuntalas", "apuntalás" ],
+			[ "apuntala" ],
+			[ "apuntalamos" ],
+			[ "apuntaláis", "apuntalan" ],
+			[ "apuntalan" ]
+		],
+		"4" : [
+			[ "apuntalé" ],
+			[ "apuntalaste" ],
+			[ "apuntaló" ],
+			[ "apuntalamos" ],
+			[ "apuntalasteis", "apuntalaron" ],
+			[ "apuntalaron" ]
+		],
+		"5" : [
+			[ "apuntalaba" ],
+			[ "apuntalabas" ],
+			[ "apuntalaba" ],
+			[ "apuntalábamos" ],
+			[ "apuntalabais", "apuntalaban" ],
+			[ "apuntalaban" ]
+		],
+		"6" : [
+			[ "apuntalaría" ],
+			[ "apuntalarías" ],
+			[ "apuntalaría" ],
+			[ "apuntalaríamos" ],
+			[ "apuntalaríais", "apuntalarían" ],
+			[ "apuntalarían" ]
+		],
+		"7" : [
+			[ "apuntalaré" ],
+			[ "apuntalarás" ],
+			[ "apuntalará" ],
+			[ "apuntalaremos" ],
+			[ "apuntalaréis", "apuntalarán" ],
+			[ "apuntalarán" ]
+		],
+		"8" : [
+			[ "apuntale" ],
+			[ "apuntales" ],
+			[ "apuntale" ],
+			[ "apuntalemos" ],
+			[ "apuntaléis", "apuntalen" ],
+			[ "apuntalen" ]
+		],
+		"9" : [
+			[ "apuntalara" ],
+			[ "apuntalaras" ],
+			[ "apuntalara" ],
+			[ "apuntaláramos" ],
+			[ "apuntalarais", "apuntalaran" ],
+			[ "apuntalaran" ]
+		],
+		"10" : [
+			[ "apuntalase" ],
+			[ "apuntalases" ],
+			[ "apuntalase" ],
+			[ "apuntalásemos" ],
+			[ "apuntalaseis", "apuntalasen" ],
+			[ "apuntalasen" ]
+		],
+		"11" : [
+			[ "apuntalare" ],
+			[ "apuntalares" ],
+			[ "apuntalare" ],
+			[ "apuntaláremos" ],
+			[ "apuntalareis", "apuntalaren" ],
+			[ "apuntalaren" ]
+		],
+		"12" : {
+			"1" : [ "apuntala" ],
+			"2" : [ "apuntale" ],
+			"3" : [ "apuntalemos" ],
+			"4" : [ "apuntalad" ],
+			"5" : [ "apuntalen" ]
+		}
+	}
+}

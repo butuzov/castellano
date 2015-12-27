@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=titilar",
+	"word" : "titilar",
+	"infinitivo" : "titilar",
+	"participio" : [ "titilado" ],
+	"gerundio" : [ "titilando" ],
+	"tenses" : {
+		"3" : [
+			[ "titilo" ],
+			[ "titilas", "titilás" ],
+			[ "titila" ],
+			[ "titilamos" ],
+			[ "titiláis", "titilan" ],
+			[ "titilan" ]
+		],
+		"4" : [
+			[ "titilé" ],
+			[ "titilaste" ],
+			[ "titiló" ],
+			[ "titilamos" ],
+			[ "titilasteis", "titilaron" ],
+			[ "titilaron" ]
+		],
+		"5" : [
+			[ "titilaba" ],
+			[ "titilabas" ],
+			[ "titilaba" ],
+			[ "titilábamos" ],
+			[ "titilabais", "titilaban" ],
+			[ "titilaban" ]
+		],
+		"6" : [
+			[ "titilaría" ],
+			[ "titilarías" ],
+			[ "titilaría" ],
+			[ "titilaríamos" ],
+			[ "titilaríais", "titilarían" ],
+			[ "titilarían" ]
+		],
+		"7" : [
+			[ "titilaré" ],
+			[ "titilarás" ],
+			[ "titilará" ],
+			[ "titilaremos" ],
+			[ "titilaréis", "titilarán" ],
+			[ "titilarán" ]
+		],
+		"8" : [
+			[ "titile" ],
+			[ "titiles" ],
+			[ "titile" ],
+			[ "titilemos" ],
+			[ "titiléis", "titilen" ],
+			[ "titilen" ]
+		],
+		"9" : [
+			[ "titilara" ],
+			[ "titilaras" ],
+			[ "titilara" ],
+			[ "titiláramos" ],
+			[ "titilarais", "titilaran" ],
+			[ "titilaran" ]
+		],
+		"10" : [
+			[ "titilase" ],
+			[ "titilases" ],
+			[ "titilase" ],
+			[ "titilásemos" ],
+			[ "titilaseis", "titilasen" ],
+			[ "titilasen" ]
+		],
+		"11" : [
+			[ "titilare" ],
+			[ "titilares" ],
+			[ "titilare" ],
+			[ "titiláremos" ],
+			[ "titilareis", "titilaren" ],
+			[ "titilaren" ]
+		],
+		"12" : {
+			"1" : [ "titila" ],
+			"2" : [ "titile" ],
+			"3" : [ "titilemos" ],
+			"4" : [ "titilad" ],
+			"5" : [ "titilen" ]
+		}
+	}
+}

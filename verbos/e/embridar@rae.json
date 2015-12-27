@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embridar",
+	"word" : "embridar",
+	"infinitivo" : "embridar",
+	"participio" : [ "embridado" ],
+	"gerundio" : [ "embridando" ],
+	"tenses" : {
+		"3" : [
+			[ "embrido" ],
+			[ "embridas", "embridás" ],
+			[ "embrida" ],
+			[ "embridamos" ],
+			[ "embridáis", "embridan" ],
+			[ "embridan" ]
+		],
+		"4" : [
+			[ "embridé" ],
+			[ "embridaste" ],
+			[ "embridó" ],
+			[ "embridamos" ],
+			[ "embridasteis", "embridaron" ],
+			[ "embridaron" ]
+		],
+		"5" : [
+			[ "embridaba" ],
+			[ "embridabas" ],
+			[ "embridaba" ],
+			[ "embridábamos" ],
+			[ "embridabais", "embridaban" ],
+			[ "embridaban" ]
+		],
+		"6" : [
+			[ "embridaría" ],
+			[ "embridarías" ],
+			[ "embridaría" ],
+			[ "embridaríamos" ],
+			[ "embridaríais", "embridarían" ],
+			[ "embridarían" ]
+		],
+		"7" : [
+			[ "embridaré" ],
+			[ "embridarás" ],
+			[ "embridará" ],
+			[ "embridaremos" ],
+			[ "embridaréis", "embridarán" ],
+			[ "embridarán" ]
+		],
+		"8" : [
+			[ "embride" ],
+			[ "embrides" ],
+			[ "embride" ],
+			[ "embridemos" ],
+			[ "embridéis", "embriden" ],
+			[ "embriden" ]
+		],
+		"9" : [
+			[ "embridara" ],
+			[ "embridaras" ],
+			[ "embridara" ],
+			[ "embridáramos" ],
+			[ "embridarais", "embridaran" ],
+			[ "embridaran" ]
+		],
+		"10" : [
+			[ "embridase" ],
+			[ "embridases" ],
+			[ "embridase" ],
+			[ "embridásemos" ],
+			[ "embridaseis", "embridasen" ],
+			[ "embridasen" ]
+		],
+		"11" : [
+			[ "embridare" ],
+			[ "embridares" ],
+			[ "embridare" ],
+			[ "embridáremos" ],
+			[ "embridareis", "embridaren" ],
+			[ "embridaren" ]
+		],
+		"12" : {
+			"1" : [ "embrida" ],
+			"2" : [ "embride" ],
+			"3" : [ "embridemos" ],
+			"4" : [ "embridad" ],
+			"5" : [ "embriden" ]
+		}
+	}
+}

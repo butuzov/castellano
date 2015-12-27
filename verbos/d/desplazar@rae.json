@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desplazar",
+	"word" : "desplazar",
+	"infinitivo" : "desplazar",
+	"participio" : [ "desplazado" ],
+	"gerundio" : [ "desplazando" ],
+	"tenses" : {
+		"3" : [
+			[ "desplazo" ],
+			[ "desplazas", "desplazás" ],
+			[ "desplaza" ],
+			[ "desplazamos" ],
+			[ "desplazáis", "desplazan" ],
+			[ "desplazan" ]
+		],
+		"4" : [
+			[ "desplacé" ],
+			[ "desplazaste" ],
+			[ "desplazó" ],
+			[ "desplazamos" ],
+			[ "desplazasteis", "desplazaron" ],
+			[ "desplazaron" ]
+		],
+		"5" : [
+			[ "desplazaba" ],
+			[ "desplazabas" ],
+			[ "desplazaba" ],
+			[ "desplazábamos" ],
+			[ "desplazabais", "desplazaban" ],
+			[ "desplazaban" ]
+		],
+		"6" : [
+			[ "desplazaría" ],
+			[ "desplazarías" ],
+			[ "desplazaría" ],
+			[ "desplazaríamos" ],
+			[ "desplazaríais", "desplazarían" ],
+			[ "desplazarían" ]
+		],
+		"7" : [
+			[ "desplazaré" ],
+			[ "desplazarás" ],
+			[ "desplazará" ],
+			[ "desplazaremos" ],
+			[ "desplazaréis", "desplazarán" ],
+			[ "desplazarán" ]
+		],
+		"8" : [
+			[ "desplace" ],
+			[ "desplaces" ],
+			[ "desplace" ],
+			[ "desplacemos" ],
+			[ "desplacéis", "desplacen" ],
+			[ "desplacen" ]
+		],
+		"9" : [
+			[ "desplazara" ],
+			[ "desplazaras" ],
+			[ "desplazara" ],
+			[ "desplazáramos" ],
+			[ "desplazarais", "desplazaran" ],
+			[ "desplazaran" ]
+		],
+		"10" : [
+			[ "desplazase" ],
+			[ "desplazases" ],
+			[ "desplazase" ],
+			[ "desplazásemos" ],
+			[ "desplazaseis", "desplazasen" ],
+			[ "desplazasen" ]
+		],
+		"11" : [
+			[ "desplazare" ],
+			[ "desplazares" ],
+			[ "desplazare" ],
+			[ "desplazáremos" ],
+			[ "desplazareis", "desplazaren" ],
+			[ "desplazaren" ]
+		],
+		"12" : {
+			"1" : [ "desplaza" ],
+			"2" : [ "desplace" ],
+			"3" : [ "desplacemos" ],
+			"4" : [ "desplazad" ],
+			"5" : [ "desplacen" ]
+		}
+	}
+}

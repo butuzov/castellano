@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=violar",
+	"word" : "violar",
+	"infinitivo" : "violar",
+	"participio" : [ "violado" ],
+	"gerundio" : [ "violando" ],
+	"tenses" : {
+		"3" : [
+			[ "violo" ],
+			[ "violas", "violás" ],
+			[ "viola" ],
+			[ "violamos" ],
+			[ "violáis", "violan" ],
+			[ "violan" ]
+		],
+		"4" : [
+			[ "violé" ],
+			[ "violaste" ],
+			[ "violó" ],
+			[ "violamos" ],
+			[ "violasteis", "violaron" ],
+			[ "violaron" ]
+		],
+		"5" : [
+			[ "violaba" ],
+			[ "violabas" ],
+			[ "violaba" ],
+			[ "violábamos" ],
+			[ "violabais", "violaban" ],
+			[ "violaban" ]
+		],
+		"6" : [
+			[ "violaría" ],
+			[ "violarías" ],
+			[ "violaría" ],
+			[ "violaríamos" ],
+			[ "violaríais", "violarían" ],
+			[ "violarían" ]
+		],
+		"7" : [
+			[ "violaré" ],
+			[ "violarás" ],
+			[ "violará" ],
+			[ "violaremos" ],
+			[ "violaréis", "violarán" ],
+			[ "violarán" ]
+		],
+		"8" : [
+			[ "viole" ],
+			[ "violes" ],
+			[ "viole" ],
+			[ "violemos" ],
+			[ "violéis", "violen" ],
+			[ "violen" ]
+		],
+		"9" : [
+			[ "violara" ],
+			[ "violaras" ],
+			[ "violara" ],
+			[ "violáramos" ],
+			[ "violarais", "violaran" ],
+			[ "violaran" ]
+		],
+		"10" : [
+			[ "violase" ],
+			[ "violases" ],
+			[ "violase" ],
+			[ "violásemos" ],
+			[ "violaseis", "violasen" ],
+			[ "violasen" ]
+		],
+		"11" : [
+			[ "violare" ],
+			[ "violares" ],
+			[ "violare" ],
+			[ "violáremos" ],
+			[ "violareis", "violaren" ],
+			[ "violaren" ]
+		],
+		"12" : {
+			"1" : [ "viola" ],
+			"2" : [ "viole" ],
+			"3" : [ "violemos" ],
+			"4" : [ "violad" ],
+			"5" : [ "violen" ]
+		}
+	}
+}

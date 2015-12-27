@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=expresar",
+	"word" : "expresar",
+	"infinitivo" : "expresar",
+	"participio" : [ "expresado" ],
+	"gerundio" : [ "expresando" ],
+	"tenses" : {
+		"3" : [
+			[ "expreso" ],
+			[ "expresas", "expresás" ],
+			[ "expresa" ],
+			[ "expresamos" ],
+			[ "expresáis", "expresan" ],
+			[ "expresan" ]
+		],
+		"4" : [
+			[ "expresé" ],
+			[ "expresaste" ],
+			[ "expresó" ],
+			[ "expresamos" ],
+			[ "expresasteis", "expresaron" ],
+			[ "expresaron" ]
+		],
+		"5" : [
+			[ "expresaba" ],
+			[ "expresabas" ],
+			[ "expresaba" ],
+			[ "expresábamos" ],
+			[ "expresabais", "expresaban" ],
+			[ "expresaban" ]
+		],
+		"6" : [
+			[ "expresaría" ],
+			[ "expresarías" ],
+			[ "expresaría" ],
+			[ "expresaríamos" ],
+			[ "expresaríais", "expresarían" ],
+			[ "expresarían" ]
+		],
+		"7" : [
+			[ "expresaré" ],
+			[ "expresarás" ],
+			[ "expresará" ],
+			[ "expresaremos" ],
+			[ "expresaréis", "expresarán" ],
+			[ "expresarán" ]
+		],
+		"8" : [
+			[ "exprese" ],
+			[ "expreses" ],
+			[ "exprese" ],
+			[ "expresemos" ],
+			[ "expreséis", "expresen" ],
+			[ "expresen" ]
+		],
+		"9" : [
+			[ "expresara" ],
+			[ "expresaras" ],
+			[ "expresara" ],
+			[ "expresáramos" ],
+			[ "expresarais", "expresaran" ],
+			[ "expresaran" ]
+		],
+		"10" : [
+			[ "expresase" ],
+			[ "expresases" ],
+			[ "expresase" ],
+			[ "expresásemos" ],
+			[ "expresaseis", "expresasen" ],
+			[ "expresasen" ]
+		],
+		"11" : [
+			[ "expresare" ],
+			[ "expresares" ],
+			[ "expresare" ],
+			[ "expresáremos" ],
+			[ "expresareis", "expresaren" ],
+			[ "expresaren" ]
+		],
+		"12" : {
+			"1" : [ "expresa" ],
+			"2" : [ "exprese" ],
+			"3" : [ "expresemos" ],
+			"4" : [ "expresad" ],
+			"5" : [ "expresen" ]
+		}
+	}
+}

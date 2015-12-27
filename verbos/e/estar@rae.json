@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estar",
+	"word" : "estar",
+	"infinitivo" : "estar",
+	"participio" : [ "estado" ],
+	"gerundio" : [ "estando" ],
+	"tenses" : {
+		"3" : [
+			[ "estoy" ],
+			[ "estás" ],
+			[ "está" ],
+			[ "estamos" ],
+			[ "estáis", "están" ],
+			[ "están" ]
+		],
+		"4" : [
+			[ "estuve" ],
+			[ "estuviste" ],
+			[ "estuvo" ],
+			[ "estuvimos" ],
+			[ "estuvisteis", "estuvieron" ],
+			[ "estuvieron" ]
+		],
+		"5" : [
+			[ "estaba" ],
+			[ "estabas" ],
+			[ "estaba" ],
+			[ "estábamos" ],
+			[ "estabais", "estaban" ],
+			[ "estaban" ]
+		],
+		"6" : [
+			[ "estaría" ],
+			[ "estarías" ],
+			[ "estaría" ],
+			[ "estaríamos" ],
+			[ "estaríais", "estarían" ],
+			[ "estarían" ]
+		],
+		"7" : [
+			[ "estaré" ],
+			[ "estarás" ],
+			[ "estará" ],
+			[ "estaremos" ],
+			[ "estaréis", "estarán" ],
+			[ "estarán" ]
+		],
+		"8" : [
+			[ "esté" ],
+			[ "estés" ],
+			[ "esté" ],
+			[ "estemos" ],
+			[ "estéis", "estén" ],
+			[ "estén" ]
+		],
+		"9" : [
+			[ "estuviera" ],
+			[ "estuvieras" ],
+			[ "estuviera" ],
+			[ "estuviéramos" ],
+			[ "estuvierais", "estuvieran" ],
+			[ "estuvieran" ]
+		],
+		"10" : [
+			[ "estuviese" ],
+			[ "estuvieses" ],
+			[ "estuviese" ],
+			[ "estuviésemos" ],
+			[ "estuvieseis", "estuviesen" ],
+			[ "estuviesen" ]
+		],
+		"11" : [
+			[ "estuviere" ],
+			[ "estuvieres" ],
+			[ "estuviere" ],
+			[ "estuviéremos" ],
+			[ "estuviereis", "estuvieren" ],
+			[ "estuvieren" ]
+		],
+		"12" : {
+			"1" : [ "está" ],
+			"2" : [ "esté" ],
+			"3" : [ "estemos" ],
+			"4" : [ "estad" ],
+			"5" : [ "estén" ]
+		}
+	}
+}

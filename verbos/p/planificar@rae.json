@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=planificar",
+	"word" : "planificar",
+	"infinitivo" : "planificar",
+	"participio" : [ "planificado" ],
+	"gerundio" : [ "planificando" ],
+	"tenses" : {
+		"3" : [
+			[ "planifico" ],
+			[ "planificas", "planificás" ],
+			[ "planifica" ],
+			[ "planificamos" ],
+			[ "planificáis", "planifican" ],
+			[ "planifican" ]
+		],
+		"4" : [
+			[ "planifiqué" ],
+			[ "planificaste" ],
+			[ "planificó" ],
+			[ "planificamos" ],
+			[ "planificasteis", "planificaron" ],
+			[ "planificaron" ]
+		],
+		"5" : [
+			[ "planificaba" ],
+			[ "planificabas" ],
+			[ "planificaba" ],
+			[ "planificábamos" ],
+			[ "planificabais", "planificaban" ],
+			[ "planificaban" ]
+		],
+		"6" : [
+			[ "planificaría" ],
+			[ "planificarías" ],
+			[ "planificaría" ],
+			[ "planificaríamos" ],
+			[ "planificaríais", "planificarían" ],
+			[ "planificarían" ]
+		],
+		"7" : [
+			[ "planificaré" ],
+			[ "planificarás" ],
+			[ "planificará" ],
+			[ "planificaremos" ],
+			[ "planificaréis", "planificarán" ],
+			[ "planificarán" ]
+		],
+		"8" : [
+			[ "planifique" ],
+			[ "planifiques" ],
+			[ "planifique" ],
+			[ "planifiquemos" ],
+			[ "planifiquéis", "planifiquen" ],
+			[ "planifiquen" ]
+		],
+		"9" : [
+			[ "planificara" ],
+			[ "planificaras" ],
+			[ "planificara" ],
+			[ "planificáramos" ],
+			[ "planificarais", "planificaran" ],
+			[ "planificaran" ]
+		],
+		"10" : [
+			[ "planificase" ],
+			[ "planificases" ],
+			[ "planificase" ],
+			[ "planificásemos" ],
+			[ "planificaseis", "planificasen" ],
+			[ "planificasen" ]
+		],
+		"11" : [
+			[ "planificare" ],
+			[ "planificares" ],
+			[ "planificare" ],
+			[ "planificáremos" ],
+			[ "planificareis", "planificaren" ],
+			[ "planificaren" ]
+		],
+		"12" : {
+			"1" : [ "planifica" ],
+			"2" : [ "planifique" ],
+			"3" : [ "planifiquemos" ],
+			"4" : [ "planificad" ],
+			"5" : [ "planifiquen" ]
+		}
+	}
+}

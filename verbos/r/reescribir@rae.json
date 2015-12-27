@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reescribir",
+	"word" : "reescribir",
+	"infinitivo" : "reescribir",
+	"participio" : [ "reescrito" ],
+	"gerundio" : [ "reescribiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reescribo" ],
+			[ "reescribes", "reescribís" ],
+			[ "reescribe" ],
+			[ "reescribimos" ],
+			[ "reescribís", "reescriben" ],
+			[ "reescriben" ]
+		],
+		"4" : [
+			[ "reescribí" ],
+			[ "reescribiste" ],
+			[ "reescribió" ],
+			[ "reescribimos" ],
+			[ "reescribisteis", "reescribieron" ],
+			[ "reescribieron" ]
+		],
+		"5" : [
+			[ "reescribía" ],
+			[ "reescribías" ],
+			[ "reescribía" ],
+			[ "reescribíamos" ],
+			[ "reescribíais", "reescribían" ],
+			[ "reescribían" ]
+		],
+		"6" : [
+			[ "reescribiría" ],
+			[ "reescribirías" ],
+			[ "reescribiría" ],
+			[ "reescribiríamos" ],
+			[ "reescribiríais", "reescribirían" ],
+			[ "reescribirían" ]
+		],
+		"7" : [
+			[ "reescribiré" ],
+			[ "reescribirás" ],
+			[ "reescribirá" ],
+			[ "reescribiremos" ],
+			[ "reescribiréis", "reescribirán" ],
+			[ "reescribirán" ]
+		],
+		"8" : [
+			[ "reescriba" ],
+			[ "reescribas" ],
+			[ "reescriba" ],
+			[ "reescribamos" ],
+			[ "reescribáis", "reescriban" ],
+			[ "reescriban" ]
+		],
+		"9" : [
+			[ "reescribiera" ],
+			[ "reescribieras" ],
+			[ "reescribiera" ],
+			[ "reescribiéramos" ],
+			[ "reescribierais", "reescribieran" ],
+			[ "reescribieran" ]
+		],
+		"10" : [
+			[ "reescribiese" ],
+			[ "reescribieses" ],
+			[ "reescribiese" ],
+			[ "reescribiésemos" ],
+			[ "reescribieseis", "reescribiesen" ],
+			[ "reescribiesen" ]
+		],
+		"11" : [
+			[ "reescribiere" ],
+			[ "reescribieres" ],
+			[ "reescribiere" ],
+			[ "reescribiéremos" ],
+			[ "reescribiereis", "reescribieren" ],
+			[ "reescribieren" ]
+		],
+		"12" : {
+			"1" : [ "reescribe" ],
+			"2" : [ "reescriba" ],
+			"3" : [ "reescribamos" ],
+			"4" : [ "reescribid" ],
+			"5" : [ "reescriban" ]
+		}
+	}
+}

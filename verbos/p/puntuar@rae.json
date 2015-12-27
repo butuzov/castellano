@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=puntuar",
+	"word" : "puntuar",
+	"infinitivo" : "puntuar",
+	"participio" : [ "puntuado" ],
+	"gerundio" : [ "puntuando" ],
+	"tenses" : {
+		"3" : [
+			[ "puntúo" ],
+			[ "puntúas", "puntuás" ],
+			[ "puntúa" ],
+			[ "puntuamos" ],
+			[ "puntuáis", "puntúan" ],
+			[ "puntúan" ]
+		],
+		"4" : [
+			[ "puntué" ],
+			[ "puntuaste" ],
+			[ "puntuó" ],
+			[ "puntuamos" ],
+			[ "puntuasteis", "puntuaron" ],
+			[ "puntuaron" ]
+		],
+		"5" : [
+			[ "puntuaba" ],
+			[ "puntuabas" ],
+			[ "puntuaba" ],
+			[ "puntuábamos" ],
+			[ "puntuabais", "puntuaban" ],
+			[ "puntuaban" ]
+		],
+		"6" : [
+			[ "puntuaría" ],
+			[ "puntuarías" ],
+			[ "puntuaría" ],
+			[ "puntuaríamos" ],
+			[ "puntuaríais", "puntuarían" ],
+			[ "puntuarían" ]
+		],
+		"7" : [
+			[ "puntuaré" ],
+			[ "puntuarás" ],
+			[ "puntuará" ],
+			[ "puntuaremos" ],
+			[ "puntuaréis", "puntuarán" ],
+			[ "puntuarán" ]
+		],
+		"8" : [
+			[ "puntúe" ],
+			[ "puntúes" ],
+			[ "puntúe" ],
+			[ "puntuemos" ],
+			[ "puntuéis", "puntúen" ],
+			[ "puntúen" ]
+		],
+		"9" : [
+			[ "puntuara" ],
+			[ "puntuaras" ],
+			[ "puntuara" ],
+			[ "puntuáramos" ],
+			[ "puntuarais", "puntuaran" ],
+			[ "puntuaran" ]
+		],
+		"10" : [
+			[ "puntuase" ],
+			[ "puntuases" ],
+			[ "puntuase" ],
+			[ "puntuásemos" ],
+			[ "puntuaseis", "puntuasen" ],
+			[ "puntuasen" ]
+		],
+		"11" : [
+			[ "puntuare" ],
+			[ "puntuares" ],
+			[ "puntuare" ],
+			[ "puntuáremos" ],
+			[ "puntuareis", "puntuaren" ],
+			[ "puntuaren" ]
+		],
+		"12" : {
+			"1" : [ "puntúa" ],
+			"2" : [ "puntúe" ],
+			"3" : [ "puntuemos" ],
+			"4" : [ "puntuad" ],
+			"5" : [ "puntúen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=crispar",
+	"word" : "crispar",
+	"infinitivo" : "crispar",
+	"participio" : [ "crispado" ],
+	"gerundio" : [ "crispando" ],
+	"tenses" : {
+		"3" : [
+			[ "crispo" ],
+			[ "crispas", "crispás" ],
+			[ "crispa" ],
+			[ "crispamos" ],
+			[ "crispáis", "crispan" ],
+			[ "crispan" ]
+		],
+		"4" : [
+			[ "crispé" ],
+			[ "crispaste" ],
+			[ "crispó" ],
+			[ "crispamos" ],
+			[ "crispasteis", "crisparon" ],
+			[ "crisparon" ]
+		],
+		"5" : [
+			[ "crispaba" ],
+			[ "crispabas" ],
+			[ "crispaba" ],
+			[ "crispábamos" ],
+			[ "crispabais", "crispaban" ],
+			[ "crispaban" ]
+		],
+		"6" : [
+			[ "crisparía" ],
+			[ "crisparías" ],
+			[ "crisparía" ],
+			[ "crisparíamos" ],
+			[ "crisparíais", "crisparían" ],
+			[ "crisparían" ]
+		],
+		"7" : [
+			[ "crisparé" ],
+			[ "crisparás" ],
+			[ "crispará" ],
+			[ "crisparemos" ],
+			[ "crisparéis", "crisparán" ],
+			[ "crisparán" ]
+		],
+		"8" : [
+			[ "crispe" ],
+			[ "crispes" ],
+			[ "crispe" ],
+			[ "crispemos" ],
+			[ "crispéis", "crispen" ],
+			[ "crispen" ]
+		],
+		"9" : [
+			[ "crispara" ],
+			[ "crisparas" ],
+			[ "crispara" ],
+			[ "crispáramos" ],
+			[ "crisparais", "crisparan" ],
+			[ "crisparan" ]
+		],
+		"10" : [
+			[ "crispase" ],
+			[ "crispases" ],
+			[ "crispase" ],
+			[ "crispásemos" ],
+			[ "crispaseis", "crispasen" ],
+			[ "crispasen" ]
+		],
+		"11" : [
+			[ "crispare" ],
+			[ "crispares" ],
+			[ "crispare" ],
+			[ "crispáremos" ],
+			[ "crispareis", "crisparen" ],
+			[ "crisparen" ]
+		],
+		"12" : {
+			"1" : [ "crispa" ],
+			"2" : [ "crispe" ],
+			"3" : [ "crispemos" ],
+			"4" : [ "crispad" ],
+			"5" : [ "crispen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pecar",
+	"word" : "pecar",
+	"infinitivo" : "pecar",
+	"participio" : [ "pecado" ],
+	"gerundio" : [ "pecando" ],
+	"tenses" : {
+		"3" : [
+			[ "peco" ],
+			[ "pecas", "pecás" ],
+			[ "peca" ],
+			[ "pecamos" ],
+			[ "pecáis", "pecan" ],
+			[ "pecan" ]
+		],
+		"4" : [
+			[ "pequé" ],
+			[ "pecaste" ],
+			[ "pecó" ],
+			[ "pecamos" ],
+			[ "pecasteis", "pecaron" ],
+			[ "pecaron" ]
+		],
+		"5" : [
+			[ "pecaba" ],
+			[ "pecabas" ],
+			[ "pecaba" ],
+			[ "pecábamos" ],
+			[ "pecabais", "pecaban" ],
+			[ "pecaban" ]
+		],
+		"6" : [
+			[ "pecaría" ],
+			[ "pecarías" ],
+			[ "pecaría" ],
+			[ "pecaríamos" ],
+			[ "pecaríais", "pecarían" ],
+			[ "pecarían" ]
+		],
+		"7" : [
+			[ "pecaré" ],
+			[ "pecarás" ],
+			[ "pecará" ],
+			[ "pecaremos" ],
+			[ "pecaréis", "pecarán" ],
+			[ "pecarán" ]
+		],
+		"8" : [
+			[ "peque" ],
+			[ "peques" ],
+			[ "peque" ],
+			[ "pequemos" ],
+			[ "pequéis", "pequen" ],
+			[ "pequen" ]
+		],
+		"9" : [
+			[ "pecara" ],
+			[ "pecaras" ],
+			[ "pecara" ],
+			[ "pecáramos" ],
+			[ "pecarais", "pecaran" ],
+			[ "pecaran" ]
+		],
+		"10" : [
+			[ "pecase" ],
+			[ "pecases" ],
+			[ "pecase" ],
+			[ "pecásemos" ],
+			[ "pecaseis", "pecasen" ],
+			[ "pecasen" ]
+		],
+		"11" : [
+			[ "pecare" ],
+			[ "pecares" ],
+			[ "pecare" ],
+			[ "pecáremos" ],
+			[ "pecareis", "pecaren" ],
+			[ "pecaren" ]
+		],
+		"12" : {
+			"1" : [ "peca" ],
+			"2" : [ "peque" ],
+			"3" : [ "pequemos" ],
+			"4" : [ "pecad" ],
+			"5" : [ "pequen" ]
+		}
+	}
+}

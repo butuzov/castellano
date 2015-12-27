@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lamber",
+	"word" : "lamber",
+	"infinitivo" : "lamber",
+	"participio" : [ "lambido" ],
+	"gerundio" : [ "lambiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "lambo" ],
+			[ "lambes", "lambés" ],
+			[ "lambe" ],
+			[ "lambemos" ],
+			[ "lambéis", "lamben" ],
+			[ "lamben" ]
+		],
+		"4" : [
+			[ "lambí" ],
+			[ "lambiste" ],
+			[ "lambió" ],
+			[ "lambimos" ],
+			[ "lambisteis", "lambieron" ],
+			[ "lambieron" ]
+		],
+		"5" : [
+			[ "lambía" ],
+			[ "lambías" ],
+			[ "lambía" ],
+			[ "lambíamos" ],
+			[ "lambíais", "lambían" ],
+			[ "lambían" ]
+		],
+		"6" : [
+			[ "lambería" ],
+			[ "lamberías" ],
+			[ "lambería" ],
+			[ "lamberíamos" ],
+			[ "lamberíais", "lamberían" ],
+			[ "lamberían" ]
+		],
+		"7" : [
+			[ "lamberé" ],
+			[ "lamberás" ],
+			[ "lamberá" ],
+			[ "lamberemos" ],
+			[ "lamberéis", "lamberán" ],
+			[ "lamberán" ]
+		],
+		"8" : [
+			[ "lamba" ],
+			[ "lambas" ],
+			[ "lamba" ],
+			[ "lambamos" ],
+			[ "lambáis", "lamban" ],
+			[ "lamban" ]
+		],
+		"9" : [
+			[ "lambiera" ],
+			[ "lambieras" ],
+			[ "lambiera" ],
+			[ "lambiéramos" ],
+			[ "lambierais", "lambieran" ],
+			[ "lambieran" ]
+		],
+		"10" : [
+			[ "lambiese" ],
+			[ "lambieses" ],
+			[ "lambiese" ],
+			[ "lambiésemos" ],
+			[ "lambieseis", "lambiesen" ],
+			[ "lambiesen" ]
+		],
+		"11" : [
+			[ "lambiere" ],
+			[ "lambieres" ],
+			[ "lambiere" ],
+			[ "lambiéremos" ],
+			[ "lambiereis", "lambieren" ],
+			[ "lambieren" ]
+		],
+		"12" : {
+			"1" : [ "lambe" ],
+			"2" : [ "lamba" ],
+			"3" : [ "lambamos" ],
+			"4" : [ "lambed" ],
+			"5" : [ "lamban" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enlatar",
+	"word" : "enlatar",
+	"infinitivo" : "enlatar",
+	"participio" : [ "enlatado" ],
+	"gerundio" : [ "enlatando" ],
+	"tenses" : {
+		"3" : [
+			[ "enlato" ],
+			[ "enlatas", "enlatás" ],
+			[ "enlata" ],
+			[ "enlatamos" ],
+			[ "enlatáis", "enlatan" ],
+			[ "enlatan" ]
+		],
+		"4" : [
+			[ "enlaté" ],
+			[ "enlataste" ],
+			[ "enlató" ],
+			[ "enlatamos" ],
+			[ "enlatasteis", "enlataron" ],
+			[ "enlataron" ]
+		],
+		"5" : [
+			[ "enlataba" ],
+			[ "enlatabas" ],
+			[ "enlataba" ],
+			[ "enlatábamos" ],
+			[ "enlatabais", "enlataban" ],
+			[ "enlataban" ]
+		],
+		"6" : [
+			[ "enlataría" ],
+			[ "enlatarías" ],
+			[ "enlataría" ],
+			[ "enlataríamos" ],
+			[ "enlataríais", "enlatarían" ],
+			[ "enlatarían" ]
+		],
+		"7" : [
+			[ "enlataré" ],
+			[ "enlatarás" ],
+			[ "enlatará" ],
+			[ "enlataremos" ],
+			[ "enlataréis", "enlatarán" ],
+			[ "enlatarán" ]
+		],
+		"8" : [
+			[ "enlate" ],
+			[ "enlates" ],
+			[ "enlate" ],
+			[ "enlatemos" ],
+			[ "enlatéis", "enlaten" ],
+			[ "enlaten" ]
+		],
+		"9" : [
+			[ "enlatara" ],
+			[ "enlataras" ],
+			[ "enlatara" ],
+			[ "enlatáramos" ],
+			[ "enlatarais", "enlataran" ],
+			[ "enlataran" ]
+		],
+		"10" : [
+			[ "enlatase" ],
+			[ "enlatases" ],
+			[ "enlatase" ],
+			[ "enlatásemos" ],
+			[ "enlataseis", "enlatasen" ],
+			[ "enlatasen" ]
+		],
+		"11" : [
+			[ "enlatare" ],
+			[ "enlatares" ],
+			[ "enlatare" ],
+			[ "enlatáremos" ],
+			[ "enlatareis", "enlataren" ],
+			[ "enlataren" ]
+		],
+		"12" : {
+			"1" : [ "enlata" ],
+			"2" : [ "enlate" ],
+			"3" : [ "enlatemos" ],
+			"4" : [ "enlatad" ],
+			"5" : [ "enlaten" ]
+		}
+	}
+}

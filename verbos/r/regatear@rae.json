@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=regatear",
+	"word" : "regatear",
+	"infinitivo" : "regatear",
+	"participio" : [ "regateado" ],
+	"gerundio" : [ "regateando" ],
+	"tenses" : {
+		"3" : [
+			[ "regateo" ],
+			[ "regateas", "regateás" ],
+			[ "regatea" ],
+			[ "regateamos" ],
+			[ "regateáis", "regatean" ],
+			[ "regatean" ]
+		],
+		"4" : [
+			[ "regateé" ],
+			[ "regateaste" ],
+			[ "regateó" ],
+			[ "regateamos" ],
+			[ "regateasteis", "regatearon" ],
+			[ "regatearon" ]
+		],
+		"5" : [
+			[ "regateaba" ],
+			[ "regateabas" ],
+			[ "regateaba" ],
+			[ "regateábamos" ],
+			[ "regateabais", "regateaban" ],
+			[ "regateaban" ]
+		],
+		"6" : [
+			[ "regatearía" ],
+			[ "regatearías" ],
+			[ "regatearía" ],
+			[ "regatearíamos" ],
+			[ "regatearíais", "regatearían" ],
+			[ "regatearían" ]
+		],
+		"7" : [
+			[ "regatearé" ],
+			[ "regatearás" ],
+			[ "regateará" ],
+			[ "regatearemos" ],
+			[ "regatearéis", "regatearán" ],
+			[ "regatearán" ]
+		],
+		"8" : [
+			[ "regatee" ],
+			[ "regatees" ],
+			[ "regatee" ],
+			[ "regateemos" ],
+			[ "regateéis", "regateen" ],
+			[ "regateen" ]
+		],
+		"9" : [
+			[ "regateara" ],
+			[ "regatearas" ],
+			[ "regateara" ],
+			[ "regateáramos" ],
+			[ "regatearais", "regatearan" ],
+			[ "regatearan" ]
+		],
+		"10" : [
+			[ "regatease" ],
+			[ "regateases" ],
+			[ "regatease" ],
+			[ "regateásemos" ],
+			[ "regateaseis", "regateasen" ],
+			[ "regateasen" ]
+		],
+		"11" : [
+			[ "regateare" ],
+			[ "regateares" ],
+			[ "regateare" ],
+			[ "regateáremos" ],
+			[ "regateareis", "regatearen" ],
+			[ "regatearen" ]
+		],
+		"12" : {
+			"1" : [ "regatea" ],
+			"2" : [ "regatee" ],
+			"3" : [ "regateemos" ],
+			"4" : [ "regatead" ],
+			"5" : [ "regateen" ]
+		}
+	}
+}

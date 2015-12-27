@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aligerar",
+	"word" : "aligerar",
+	"infinitivo" : "aligerar",
+	"participio" : [ "aligerado" ],
+	"gerundio" : [ "aligerando" ],
+	"tenses" : {
+		"3" : [
+			[ "aligero" ],
+			[ "aligeras", "aligerás" ],
+			[ "aligera" ],
+			[ "aligeramos" ],
+			[ "aligeráis", "aligeran" ],
+			[ "aligeran" ]
+		],
+		"4" : [
+			[ "aligeré" ],
+			[ "aligeraste" ],
+			[ "aligeró" ],
+			[ "aligeramos" ],
+			[ "aligerasteis", "aligeraron" ],
+			[ "aligeraron" ]
+		],
+		"5" : [
+			[ "aligeraba" ],
+			[ "aligerabas" ],
+			[ "aligeraba" ],
+			[ "aligerábamos" ],
+			[ "aligerabais", "aligeraban" ],
+			[ "aligeraban" ]
+		],
+		"6" : [
+			[ "aligeraría" ],
+			[ "aligerarías" ],
+			[ "aligeraría" ],
+			[ "aligeraríamos" ],
+			[ "aligeraríais", "aligerarían" ],
+			[ "aligerarían" ]
+		],
+		"7" : [
+			[ "aligeraré" ],
+			[ "aligerarás" ],
+			[ "aligerará" ],
+			[ "aligeraremos" ],
+			[ "aligeraréis", "aligerarán" ],
+			[ "aligerarán" ]
+		],
+		"8" : [
+			[ "aligere" ],
+			[ "aligeres" ],
+			[ "aligere" ],
+			[ "aligeremos" ],
+			[ "aligeréis", "aligeren" ],
+			[ "aligeren" ]
+		],
+		"9" : [
+			[ "aligerara" ],
+			[ "aligeraras" ],
+			[ "aligerara" ],
+			[ "aligeráramos" ],
+			[ "aligerarais", "aligeraran" ],
+			[ "aligeraran" ]
+		],
+		"10" : [
+			[ "aligerase" ],
+			[ "aligerases" ],
+			[ "aligerase" ],
+			[ "aligerásemos" ],
+			[ "aligeraseis", "aligerasen" ],
+			[ "aligerasen" ]
+		],
+		"11" : [
+			[ "aligerare" ],
+			[ "aligerares" ],
+			[ "aligerare" ],
+			[ "aligeráremos" ],
+			[ "aligerareis", "aligeraren" ],
+			[ "aligeraren" ]
+		],
+		"12" : {
+			"1" : [ "aligera" ],
+			"2" : [ "aligere" ],
+			"3" : [ "aligeremos" ],
+			"4" : [ "aligerad" ],
+			"5" : [ "aligeren" ]
+		}
+	}
+}

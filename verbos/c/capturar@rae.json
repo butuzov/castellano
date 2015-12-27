@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=capturar",
+	"word" : "capturar",
+	"infinitivo" : "capturar",
+	"participio" : [ "capturado" ],
+	"gerundio" : [ "capturando" ],
+	"tenses" : {
+		"3" : [
+			[ "capturo" ],
+			[ "capturas", "capturás" ],
+			[ "captura" ],
+			[ "capturamos" ],
+			[ "capturáis", "capturan" ],
+			[ "capturan" ]
+		],
+		"4" : [
+			[ "capturé" ],
+			[ "capturaste" ],
+			[ "capturó" ],
+			[ "capturamos" ],
+			[ "capturasteis", "capturaron" ],
+			[ "capturaron" ]
+		],
+		"5" : [
+			[ "capturaba" ],
+			[ "capturabas" ],
+			[ "capturaba" ],
+			[ "capturábamos" ],
+			[ "capturabais", "capturaban" ],
+			[ "capturaban" ]
+		],
+		"6" : [
+			[ "capturaría" ],
+			[ "capturarías" ],
+			[ "capturaría" ],
+			[ "capturaríamos" ],
+			[ "capturaríais", "capturarían" ],
+			[ "capturarían" ]
+		],
+		"7" : [
+			[ "capturaré" ],
+			[ "capturarás" ],
+			[ "capturará" ],
+			[ "capturaremos" ],
+			[ "capturaréis", "capturarán" ],
+			[ "capturarán" ]
+		],
+		"8" : [
+			[ "capture" ],
+			[ "captures" ],
+			[ "capture" ],
+			[ "capturemos" ],
+			[ "capturéis", "capturen" ],
+			[ "capturen" ]
+		],
+		"9" : [
+			[ "capturara" ],
+			[ "capturaras" ],
+			[ "capturara" ],
+			[ "capturáramos" ],
+			[ "capturarais", "capturaran" ],
+			[ "capturaran" ]
+		],
+		"10" : [
+			[ "capturase" ],
+			[ "capturases" ],
+			[ "capturase" ],
+			[ "capturásemos" ],
+			[ "capturaseis", "capturasen" ],
+			[ "capturasen" ]
+		],
+		"11" : [
+			[ "capturare" ],
+			[ "capturares" ],
+			[ "capturare" ],
+			[ "capturáremos" ],
+			[ "capturareis", "capturaren" ],
+			[ "capturaren" ]
+		],
+		"12" : {
+			"1" : [ "captura" ],
+			"2" : [ "capture" ],
+			"3" : [ "capturemos" ],
+			"4" : [ "capturad" ],
+			"5" : [ "capturen" ]
+		}
+	}
+}

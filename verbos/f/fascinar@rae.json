@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fascinar",
+	"word" : "fascinar",
+	"infinitivo" : "fascinar",
+	"participio" : [ "fascinado" ],
+	"gerundio" : [ "fascinando" ],
+	"tenses" : {
+		"3" : [
+			[ "fascino" ],
+			[ "fascinas", "fascinás" ],
+			[ "fascina" ],
+			[ "fascinamos" ],
+			[ "fascináis", "fascinan" ],
+			[ "fascinan" ]
+		],
+		"4" : [
+			[ "fasciné" ],
+			[ "fascinaste" ],
+			[ "fascinó" ],
+			[ "fascinamos" ],
+			[ "fascinasteis", "fascinaron" ],
+			[ "fascinaron" ]
+		],
+		"5" : [
+			[ "fascinaba" ],
+			[ "fascinabas" ],
+			[ "fascinaba" ],
+			[ "fascinábamos" ],
+			[ "fascinabais", "fascinaban" ],
+			[ "fascinaban" ]
+		],
+		"6" : [
+			[ "fascinaría" ],
+			[ "fascinarías" ],
+			[ "fascinaría" ],
+			[ "fascinaríamos" ],
+			[ "fascinaríais", "fascinarían" ],
+			[ "fascinarían" ]
+		],
+		"7" : [
+			[ "fascinaré" ],
+			[ "fascinarás" ],
+			[ "fascinará" ],
+			[ "fascinaremos" ],
+			[ "fascinaréis", "fascinarán" ],
+			[ "fascinarán" ]
+		],
+		"8" : [
+			[ "fascine" ],
+			[ "fascines" ],
+			[ "fascine" ],
+			[ "fascinemos" ],
+			[ "fascinéis", "fascinen" ],
+			[ "fascinen" ]
+		],
+		"9" : [
+			[ "fascinara" ],
+			[ "fascinaras" ],
+			[ "fascinara" ],
+			[ "fascináramos" ],
+			[ "fascinarais", "fascinaran" ],
+			[ "fascinaran" ]
+		],
+		"10" : [
+			[ "fascinase" ],
+			[ "fascinases" ],
+			[ "fascinase" ],
+			[ "fascinásemos" ],
+			[ "fascinaseis", "fascinasen" ],
+			[ "fascinasen" ]
+		],
+		"11" : [
+			[ "fascinare" ],
+			[ "fascinares" ],
+			[ "fascinare" ],
+			[ "fascináremos" ],
+			[ "fascinareis", "fascinaren" ],
+			[ "fascinaren" ]
+		],
+		"12" : {
+			"1" : [ "fascina" ],
+			"2" : [ "fascine" ],
+			"3" : [ "fascinemos" ],
+			"4" : [ "fascinad" ],
+			"5" : [ "fascinen" ]
+		}
+	}
+}

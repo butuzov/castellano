@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=proceder",
+	"word" : "proceder",
+	"infinitivo" : "proceder",
+	"participio" : [ "procedido" ],
+	"gerundio" : [ "procediendo" ],
+	"tenses" : {
+		"3" : [
+			[ "procedo" ],
+			[ "procedes", "procedés" ],
+			[ "procede" ],
+			[ "procedemos" ],
+			[ "procedéis", "proceden" ],
+			[ "proceden" ]
+		],
+		"4" : [
+			[ "procedí" ],
+			[ "procediste" ],
+			[ "procedió" ],
+			[ "procedimos" ],
+			[ "procedisteis", "procedieron" ],
+			[ "procedieron" ]
+		],
+		"5" : [
+			[ "procedía" ],
+			[ "procedías" ],
+			[ "procedía" ],
+			[ "procedíamos" ],
+			[ "procedíais", "procedían" ],
+			[ "procedían" ]
+		],
+		"6" : [
+			[ "procedería" ],
+			[ "procederías" ],
+			[ "procedería" ],
+			[ "procederíamos" ],
+			[ "procederíais", "procederían" ],
+			[ "procederían" ]
+		],
+		"7" : [
+			[ "procederé" ],
+			[ "procederás" ],
+			[ "procederá" ],
+			[ "procederemos" ],
+			[ "procederéis", "procederán" ],
+			[ "procederán" ]
+		],
+		"8" : [
+			[ "proceda" ],
+			[ "procedas" ],
+			[ "proceda" ],
+			[ "procedamos" ],
+			[ "procedáis", "procedan" ],
+			[ "procedan" ]
+		],
+		"9" : [
+			[ "procediera" ],
+			[ "procedieras" ],
+			[ "procediera" ],
+			[ "procediéramos" ],
+			[ "procedierais", "procedieran" ],
+			[ "procedieran" ]
+		],
+		"10" : [
+			[ "procediese" ],
+			[ "procedieses" ],
+			[ "procediese" ],
+			[ "procediésemos" ],
+			[ "procedieseis", "procediesen" ],
+			[ "procediesen" ]
+		],
+		"11" : [
+			[ "procediere" ],
+			[ "procedieres" ],
+			[ "procediere" ],
+			[ "procediéremos" ],
+			[ "procediereis", "procedieren" ],
+			[ "procedieren" ]
+		],
+		"12" : {
+			"1" : [ "procede" ],
+			"2" : [ "proceda" ],
+			"3" : [ "procedamos" ],
+			"4" : [ "proceded" ],
+			"5" : [ "procedan" ]
+		}
+	}
+}

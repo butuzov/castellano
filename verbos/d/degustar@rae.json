@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=degustar",
+	"word" : "degustar",
+	"infinitivo" : "degustar",
+	"participio" : [ "degustado" ],
+	"gerundio" : [ "degustando" ],
+	"tenses" : {
+		"3" : [
+			[ "degusto" ],
+			[ "degustas", "degustás" ],
+			[ "degusta" ],
+			[ "degustamos" ],
+			[ "degustáis", "degustan" ],
+			[ "degustan" ]
+		],
+		"4" : [
+			[ "degusté" ],
+			[ "degustaste" ],
+			[ "degustó" ],
+			[ "degustamos" ],
+			[ "degustasteis", "degustaron" ],
+			[ "degustaron" ]
+		],
+		"5" : [
+			[ "degustaba" ],
+			[ "degustabas" ],
+			[ "degustaba" ],
+			[ "degustábamos" ],
+			[ "degustabais", "degustaban" ],
+			[ "degustaban" ]
+		],
+		"6" : [
+			[ "degustaría" ],
+			[ "degustarías" ],
+			[ "degustaría" ],
+			[ "degustaríamos" ],
+			[ "degustaríais", "degustarían" ],
+			[ "degustarían" ]
+		],
+		"7" : [
+			[ "degustaré" ],
+			[ "degustarás" ],
+			[ "degustará" ],
+			[ "degustaremos" ],
+			[ "degustaréis", "degustarán" ],
+			[ "degustarán" ]
+		],
+		"8" : [
+			[ "deguste" ],
+			[ "degustes" ],
+			[ "deguste" ],
+			[ "degustemos" ],
+			[ "degustéis", "degusten" ],
+			[ "degusten" ]
+		],
+		"9" : [
+			[ "degustara" ],
+			[ "degustaras" ],
+			[ "degustara" ],
+			[ "degustáramos" ],
+			[ "degustarais", "degustaran" ],
+			[ "degustaran" ]
+		],
+		"10" : [
+			[ "degustase" ],
+			[ "degustases" ],
+			[ "degustase" ],
+			[ "degustásemos" ],
+			[ "degustaseis", "degustasen" ],
+			[ "degustasen" ]
+		],
+		"11" : [
+			[ "degustare" ],
+			[ "degustares" ],
+			[ "degustare" ],
+			[ "degustáremos" ],
+			[ "degustareis", "degustaren" ],
+			[ "degustaren" ]
+		],
+		"12" : {
+			"1" : [ "degusta" ],
+			"2" : [ "deguste" ],
+			"3" : [ "degustemos" ],
+			"4" : [ "degustad" ],
+			"5" : [ "degusten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reservar",
+	"word" : "reservar",
+	"infinitivo" : "reservar",
+	"participio" : [ "reservado" ],
+	"gerundio" : [ "reservando" ],
+	"tenses" : {
+		"3" : [
+			[ "reservo" ],
+			[ "reservas", "reservás" ],
+			[ "reserva" ],
+			[ "reservamos" ],
+			[ "reserváis", "reservan" ],
+			[ "reservan" ]
+		],
+		"4" : [
+			[ "reservé" ],
+			[ "reservaste" ],
+			[ "reservó" ],
+			[ "reservamos" ],
+			[ "reservasteis", "reservaron" ],
+			[ "reservaron" ]
+		],
+		"5" : [
+			[ "reservaba" ],
+			[ "reservabas" ],
+			[ "reservaba" ],
+			[ "reservábamos" ],
+			[ "reservabais", "reservaban" ],
+			[ "reservaban" ]
+		],
+		"6" : [
+			[ "reservaría" ],
+			[ "reservarías" ],
+			[ "reservaría" ],
+			[ "reservaríamos" ],
+			[ "reservaríais", "reservarían" ],
+			[ "reservarían" ]
+		],
+		"7" : [
+			[ "reservaré" ],
+			[ "reservarás" ],
+			[ "reservará" ],
+			[ "reservaremos" ],
+			[ "reservaréis", "reservarán" ],
+			[ "reservarán" ]
+		],
+		"8" : [
+			[ "reserve" ],
+			[ "reserves" ],
+			[ "reserve" ],
+			[ "reservemos" ],
+			[ "reservéis", "reserven" ],
+			[ "reserven" ]
+		],
+		"9" : [
+			[ "reservara" ],
+			[ "reservaras" ],
+			[ "reservara" ],
+			[ "reserváramos" ],
+			[ "reservarais", "reservaran" ],
+			[ "reservaran" ]
+		],
+		"10" : [
+			[ "reservase" ],
+			[ "reservases" ],
+			[ "reservase" ],
+			[ "reservásemos" ],
+			[ "reservaseis", "reservasen" ],
+			[ "reservasen" ]
+		],
+		"11" : [
+			[ "reservare" ],
+			[ "reservares" ],
+			[ "reservare" ],
+			[ "reserváremos" ],
+			[ "reservareis", "reservaren" ],
+			[ "reservaren" ]
+		],
+		"12" : {
+			"1" : [ "reserva" ],
+			"2" : [ "reserve" ],
+			"3" : [ "reservemos" ],
+			"4" : [ "reservad" ],
+			"5" : [ "reserven" ]
+		}
+	}
+}

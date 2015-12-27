@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ganar",
+	"word" : "ganar",
+	"infinitivo" : "ganar",
+	"participio" : [ "ganado" ],
+	"gerundio" : [ "ganando" ],
+	"tenses" : {
+		"3" : [
+			[ "gano" ],
+			[ "ganas", "ganás" ],
+			[ "gana" ],
+			[ "ganamos" ],
+			[ "ganáis", "ganan" ],
+			[ "ganan" ]
+		],
+		"4" : [
+			[ "gané" ],
+			[ "ganaste" ],
+			[ "ganó" ],
+			[ "ganamos" ],
+			[ "ganasteis", "ganaron" ],
+			[ "ganaron" ]
+		],
+		"5" : [
+			[ "ganaba" ],
+			[ "ganabas" ],
+			[ "ganaba" ],
+			[ "ganábamos" ],
+			[ "ganabais", "ganaban" ],
+			[ "ganaban" ]
+		],
+		"6" : [
+			[ "ganaría" ],
+			[ "ganarías" ],
+			[ "ganaría" ],
+			[ "ganaríamos" ],
+			[ "ganaríais", "ganarían" ],
+			[ "ganarían" ]
+		],
+		"7" : [
+			[ "ganaré" ],
+			[ "ganarás" ],
+			[ "ganará" ],
+			[ "ganaremos" ],
+			[ "ganaréis", "ganarán" ],
+			[ "ganarán" ]
+		],
+		"8" : [
+			[ "gane" ],
+			[ "ganes" ],
+			[ "gane" ],
+			[ "ganemos" ],
+			[ "ganéis", "ganen" ],
+			[ "ganen" ]
+		],
+		"9" : [
+			[ "ganara" ],
+			[ "ganaras" ],
+			[ "ganara" ],
+			[ "ganáramos" ],
+			[ "ganarais", "ganaran" ],
+			[ "ganaran" ]
+		],
+		"10" : [
+			[ "ganase" ],
+			[ "ganases" ],
+			[ "ganase" ],
+			[ "ganásemos" ],
+			[ "ganaseis", "ganasen" ],
+			[ "ganasen" ]
+		],
+		"11" : [
+			[ "ganare" ],
+			[ "ganares" ],
+			[ "ganare" ],
+			[ "ganáremos" ],
+			[ "ganareis", "ganaren" ],
+			[ "ganaren" ]
+		],
+		"12" : {
+			"1" : [ "gana" ],
+			"2" : [ "gane" ],
+			"3" : [ "ganemos" ],
+			"4" : [ "ganad" ],
+			"5" : [ "ganen" ]
+		}
+	}
+}

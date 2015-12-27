@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=avisar",
+	"word" : "avisar",
+	"infinitivo" : "avisar",
+	"participio" : [ "avisado" ],
+	"gerundio" : [ "avisando" ],
+	"tenses" : {
+		"3" : [
+			[ "aviso" ],
+			[ "avisas", "avisás" ],
+			[ "avisa" ],
+			[ "avisamos" ],
+			[ "avisáis", "avisan" ],
+			[ "avisan" ]
+		],
+		"4" : [
+			[ "avisé" ],
+			[ "avisaste" ],
+			[ "avisó" ],
+			[ "avisamos" ],
+			[ "avisasteis", "avisaron" ],
+			[ "avisaron" ]
+		],
+		"5" : [
+			[ "avisaba" ],
+			[ "avisabas" ],
+			[ "avisaba" ],
+			[ "avisábamos" ],
+			[ "avisabais", "avisaban" ],
+			[ "avisaban" ]
+		],
+		"6" : [
+			[ "avisaría" ],
+			[ "avisarías" ],
+			[ "avisaría" ],
+			[ "avisaríamos" ],
+			[ "avisaríais", "avisarían" ],
+			[ "avisarían" ]
+		],
+		"7" : [
+			[ "avisaré" ],
+			[ "avisarás" ],
+			[ "avisará" ],
+			[ "avisaremos" ],
+			[ "avisaréis", "avisarán" ],
+			[ "avisarán" ]
+		],
+		"8" : [
+			[ "avise" ],
+			[ "avises" ],
+			[ "avise" ],
+			[ "avisemos" ],
+			[ "aviséis", "avisen" ],
+			[ "avisen" ]
+		],
+		"9" : [
+			[ "avisara" ],
+			[ "avisaras" ],
+			[ "avisara" ],
+			[ "avisáramos" ],
+			[ "avisarais", "avisaran" ],
+			[ "avisaran" ]
+		],
+		"10" : [
+			[ "avisase" ],
+			[ "avisases" ],
+			[ "avisase" ],
+			[ "avisásemos" ],
+			[ "avisaseis", "avisasen" ],
+			[ "avisasen" ]
+		],
+		"11" : [
+			[ "avisare" ],
+			[ "avisares" ],
+			[ "avisare" ],
+			[ "avisáremos" ],
+			[ "avisareis", "avisaren" ],
+			[ "avisaren" ]
+		],
+		"12" : {
+			"1" : [ "avisa" ],
+			"2" : [ "avise" ],
+			"3" : [ "avisemos" ],
+			"4" : [ "avisad" ],
+			"5" : [ "avisen" ]
+		}
+	}
+}

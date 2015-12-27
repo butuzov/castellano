@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=implantar",
+	"word" : "implantar",
+	"infinitivo" : "implantar",
+	"participio" : [ "implantado" ],
+	"gerundio" : [ "implantando" ],
+	"tenses" : {
+		"3" : [
+			[ "implanto" ],
+			[ "implantas", "implantás" ],
+			[ "implanta" ],
+			[ "implantamos" ],
+			[ "implantáis", "implantan" ],
+			[ "implantan" ]
+		],
+		"4" : [
+			[ "implanté" ],
+			[ "implantaste" ],
+			[ "implantó" ],
+			[ "implantamos" ],
+			[ "implantasteis", "implantaron" ],
+			[ "implantaron" ]
+		],
+		"5" : [
+			[ "implantaba" ],
+			[ "implantabas" ],
+			[ "implantaba" ],
+			[ "implantábamos" ],
+			[ "implantabais", "implantaban" ],
+			[ "implantaban" ]
+		],
+		"6" : [
+			[ "implantaría" ],
+			[ "implantarías" ],
+			[ "implantaría" ],
+			[ "implantaríamos" ],
+			[ "implantaríais", "implantarían" ],
+			[ "implantarían" ]
+		],
+		"7" : [
+			[ "implantaré" ],
+			[ "implantarás" ],
+			[ "implantará" ],
+			[ "implantaremos" ],
+			[ "implantaréis", "implantarán" ],
+			[ "implantarán" ]
+		],
+		"8" : [
+			[ "implante" ],
+			[ "implantes" ],
+			[ "implante" ],
+			[ "implantemos" ],
+			[ "implantéis", "implanten" ],
+			[ "implanten" ]
+		],
+		"9" : [
+			[ "implantara" ],
+			[ "implantaras" ],
+			[ "implantara" ],
+			[ "implantáramos" ],
+			[ "implantarais", "implantaran" ],
+			[ "implantaran" ]
+		],
+		"10" : [
+			[ "implantase" ],
+			[ "implantases" ],
+			[ "implantase" ],
+			[ "implantásemos" ],
+			[ "implantaseis", "implantasen" ],
+			[ "implantasen" ]
+		],
+		"11" : [
+			[ "implantare" ],
+			[ "implantares" ],
+			[ "implantare" ],
+			[ "implantáremos" ],
+			[ "implantareis", "implantaren" ],
+			[ "implantaren" ]
+		],
+		"12" : {
+			"1" : [ "implanta" ],
+			"2" : [ "implante" ],
+			"3" : [ "implantemos" ],
+			"4" : [ "implantad" ],
+			"5" : [ "implanten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pagar",
+	"word" : "pagar",
+	"infinitivo" : "pagar",
+	"participio" : [ "pagado", "pago" ],
+	"gerundio" : [ "pagando" ],
+	"tenses" : {
+		"3" : [
+			[ "pago" ],
+			[ "pagas", "pagás" ],
+			[ "paga" ],
+			[ "pagamos" ],
+			[ "pagáis", "pagan" ],
+			[ "pagan" ]
+		],
+		"4" : [
+			[ "pagué" ],
+			[ "pagaste" ],
+			[ "pagó" ],
+			[ "pagamos" ],
+			[ "pagasteis", "pagaron" ],
+			[ "pagaron" ]
+		],
+		"5" : [
+			[ "pagaba" ],
+			[ "pagabas" ],
+			[ "pagaba" ],
+			[ "pagábamos" ],
+			[ "pagabais", "pagaban" ],
+			[ "pagaban" ]
+		],
+		"6" : [
+			[ "pagaría" ],
+			[ "pagarías" ],
+			[ "pagaría" ],
+			[ "pagaríamos" ],
+			[ "pagaríais", "pagarían" ],
+			[ "pagarían" ]
+		],
+		"7" : [
+			[ "pagaré" ],
+			[ "pagarás" ],
+			[ "pagará" ],
+			[ "pagaremos" ],
+			[ "pagaréis", "pagarán" ],
+			[ "pagarán" ]
+		],
+		"8" : [
+			[ "pague" ],
+			[ "pagues" ],
+			[ "pague" ],
+			[ "paguemos" ],
+			[ "paguéis", "paguen" ],
+			[ "paguen" ]
+		],
+		"9" : [
+			[ "pagara" ],
+			[ "pagaras" ],
+			[ "pagara" ],
+			[ "pagáramos" ],
+			[ "pagarais", "pagaran" ],
+			[ "pagaran" ]
+		],
+		"10" : [
+			[ "pagase" ],
+			[ "pagases" ],
+			[ "pagase" ],
+			[ "pagásemos" ],
+			[ "pagaseis", "pagasen" ],
+			[ "pagasen" ]
+		],
+		"11" : [
+			[ "pagare" ],
+			[ "pagares" ],
+			[ "pagare" ],
+			[ "pagáremos" ],
+			[ "pagareis", "pagaren" ],
+			[ "pagaren" ]
+		],
+		"12" : {
+			"1" : [ "paga" ],
+			"2" : [ "pague" ],
+			"3" : [ "paguemos" ],
+			"4" : [ "pagad" ],
+			"5" : [ "paguen" ]
+		}
+	}
+}

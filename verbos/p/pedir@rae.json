@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pedir",
+	"word" : "pedir",
+	"infinitivo" : "pedir",
+	"participio" : [ "pedido" ],
+	"gerundio" : [ "pidiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "pido" ],
+			[ "pides", "pedís" ],
+			[ "pide" ],
+			[ "pedimos" ],
+			[ "pedís", "piden" ],
+			[ "piden" ]
+		],
+		"4" : [
+			[ "pedí" ],
+			[ "pediste" ],
+			[ "pidió" ],
+			[ "pedimos" ],
+			[ "pedisteis", "pidieron" ],
+			[ "pidieron" ]
+		],
+		"5" : [
+			[ "pedía" ],
+			[ "pedías" ],
+			[ "pedía" ],
+			[ "pedíamos" ],
+			[ "pedíais", "pedían" ],
+			[ "pedían" ]
+		],
+		"6" : [
+			[ "pediría" ],
+			[ "pedirías" ],
+			[ "pediría" ],
+			[ "pediríamos" ],
+			[ "pediríais", "pedirían" ],
+			[ "pedirían" ]
+		],
+		"7" : [
+			[ "pediré" ],
+			[ "pedirás" ],
+			[ "pedirá" ],
+			[ "pediremos" ],
+			[ "pediréis", "pedirán" ],
+			[ "pedirán" ]
+		],
+		"8" : [
+			[ "pida" ],
+			[ "pidas" ],
+			[ "pida" ],
+			[ "pidamos" ],
+			[ "pidáis", "pidan" ],
+			[ "pidan" ]
+		],
+		"9" : [
+			[ "pidiera" ],
+			[ "pidieras" ],
+			[ "pidiera" ],
+			[ "pidiéramos" ],
+			[ "pidierais", "pidieran" ],
+			[ "pidieran" ]
+		],
+		"10" : [
+			[ "pidiese" ],
+			[ "pidieses" ],
+			[ "pidiese" ],
+			[ "pidiésemos" ],
+			[ "pidieseis", "pidiesen" ],
+			[ "pidiesen" ]
+		],
+		"11" : [
+			[ "pidiere" ],
+			[ "pidieres" ],
+			[ "pidiere" ],
+			[ "pidiéremos" ],
+			[ "pidiereis", "pidieren" ],
+			[ "pidieren" ]
+		],
+		"12" : {
+			"1" : [ "pide" ],
+			"2" : [ "pida" ],
+			"3" : [ "pidamos" ],
+			"4" : [ "pedid" ],
+			"5" : [ "pidan" ]
+		}
+	}
+}

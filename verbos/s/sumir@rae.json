@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sumir",
+	"word" : "sumir",
+	"infinitivo" : "sumir",
+	"participio" : [ "sumido" ],
+	"gerundio" : [ "sumiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sumo" ],
+			[ "sumes", "sumís" ],
+			[ "sume" ],
+			[ "sumimos" ],
+			[ "sumís", "sumen" ],
+			[ "sumen" ]
+		],
+		"4" : [
+			[ "sumí" ],
+			[ "sumiste" ],
+			[ "sumió" ],
+			[ "sumimos" ],
+			[ "sumisteis", "sumieron" ],
+			[ "sumieron" ]
+		],
+		"5" : [
+			[ "sumía" ],
+			[ "sumías" ],
+			[ "sumía" ],
+			[ "sumíamos" ],
+			[ "sumíais", "sumían" ],
+			[ "sumían" ]
+		],
+		"6" : [
+			[ "sumiría" ],
+			[ "sumirías" ],
+			[ "sumiría" ],
+			[ "sumiríamos" ],
+			[ "sumiríais", "sumirían" ],
+			[ "sumirían" ]
+		],
+		"7" : [
+			[ "sumiré" ],
+			[ "sumirás" ],
+			[ "sumirá" ],
+			[ "sumiremos" ],
+			[ "sumiréis", "sumirán" ],
+			[ "sumirán" ]
+		],
+		"8" : [
+			[ "suma" ],
+			[ "sumas" ],
+			[ "suma" ],
+			[ "sumamos" ],
+			[ "sumáis", "suman" ],
+			[ "suman" ]
+		],
+		"9" : [
+			[ "sumiera" ],
+			[ "sumieras" ],
+			[ "sumiera" ],
+			[ "sumiéramos" ],
+			[ "sumierais", "sumieran" ],
+			[ "sumieran" ]
+		],
+		"10" : [
+			[ "sumiese" ],
+			[ "sumieses" ],
+			[ "sumiese" ],
+			[ "sumiésemos" ],
+			[ "sumieseis", "sumiesen" ],
+			[ "sumiesen" ]
+		],
+		"11" : [
+			[ "sumiere" ],
+			[ "sumieres" ],
+			[ "sumiere" ],
+			[ "sumiéremos" ],
+			[ "sumiereis", "sumieren" ],
+			[ "sumieren" ]
+		],
+		"12" : {
+			"1" : [ "sume" ],
+			"2" : [ "suma" ],
+			"3" : [ "sumamos" ],
+			"4" : [ "sumid" ],
+			"5" : [ "suman" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inspeccionar",
+	"word" : "inspeccionar",
+	"infinitivo" : "inspeccionar",
+	"participio" : [ "inspeccionado" ],
+	"gerundio" : [ "inspeccionando" ],
+	"tenses" : {
+		"3" : [
+			[ "inspecciono" ],
+			[ "inspeccionas", "inspeccionás" ],
+			[ "inspecciona" ],
+			[ "inspeccionamos" ],
+			[ "inspeccionáis", "inspeccionan" ],
+			[ "inspeccionan" ]
+		],
+		"4" : [
+			[ "inspeccioné" ],
+			[ "inspeccionaste" ],
+			[ "inspeccionó" ],
+			[ "inspeccionamos" ],
+			[ "inspeccionasteis", "inspeccionaron" ],
+			[ "inspeccionaron" ]
+		],
+		"5" : [
+			[ "inspeccionaba" ],
+			[ "inspeccionabas" ],
+			[ "inspeccionaba" ],
+			[ "inspeccionábamos" ],
+			[ "inspeccionabais", "inspeccionaban" ],
+			[ "inspeccionaban" ]
+		],
+		"6" : [
+			[ "inspeccionaría" ],
+			[ "inspeccionarías" ],
+			[ "inspeccionaría" ],
+			[ "inspeccionaríamos" ],
+			[ "inspeccionaríais", "inspeccionarían" ],
+			[ "inspeccionarían" ]
+		],
+		"7" : [
+			[ "inspeccionaré" ],
+			[ "inspeccionarás" ],
+			[ "inspeccionará" ],
+			[ "inspeccionaremos" ],
+			[ "inspeccionaréis", "inspeccionarán" ],
+			[ "inspeccionarán" ]
+		],
+		"8" : [
+			[ "inspeccione" ],
+			[ "inspecciones" ],
+			[ "inspeccione" ],
+			[ "inspeccionemos" ],
+			[ "inspeccionéis", "inspeccionen" ],
+			[ "inspeccionen" ]
+		],
+		"9" : [
+			[ "inspeccionara" ],
+			[ "inspeccionaras" ],
+			[ "inspeccionara" ],
+			[ "inspeccionáramos" ],
+			[ "inspeccionarais", "inspeccionaran" ],
+			[ "inspeccionaran" ]
+		],
+		"10" : [
+			[ "inspeccionase" ],
+			[ "inspeccionases" ],
+			[ "inspeccionase" ],
+			[ "inspeccionásemos" ],
+			[ "inspeccionaseis", "inspeccionasen" ],
+			[ "inspeccionasen" ]
+		],
+		"11" : [
+			[ "inspeccionare" ],
+			[ "inspeccionares" ],
+			[ "inspeccionare" ],
+			[ "inspeccionáremos" ],
+			[ "inspeccionareis", "inspeccionaren" ],
+			[ "inspeccionaren" ]
+		],
+		"12" : {
+			"1" : [ "inspecciona" ],
+			"2" : [ "inspeccione" ],
+			"3" : [ "inspeccionemos" ],
+			"4" : [ "inspeccionad" ],
+			"5" : [ "inspeccionen" ]
+		}
+	}
+}

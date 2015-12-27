@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=preceder",
+	"word" : "preceder",
+	"infinitivo" : "preceder",
+	"participio" : [ "precedido" ],
+	"gerundio" : [ "precediendo" ],
+	"tenses" : {
+		"3" : [
+			[ "precedo" ],
+			[ "precedes", "precedés" ],
+			[ "precede" ],
+			[ "precedemos" ],
+			[ "precedéis", "preceden" ],
+			[ "preceden" ]
+		],
+		"4" : [
+			[ "precedí" ],
+			[ "precediste" ],
+			[ "precedió" ],
+			[ "precedimos" ],
+			[ "precedisteis", "precedieron" ],
+			[ "precedieron" ]
+		],
+		"5" : [
+			[ "precedía" ],
+			[ "precedías" ],
+			[ "precedía" ],
+			[ "precedíamos" ],
+			[ "precedíais", "precedían" ],
+			[ "precedían" ]
+		],
+		"6" : [
+			[ "precedería" ],
+			[ "precederías" ],
+			[ "precedería" ],
+			[ "precederíamos" ],
+			[ "precederíais", "precederían" ],
+			[ "precederían" ]
+		],
+		"7" : [
+			[ "precederé" ],
+			[ "precederás" ],
+			[ "precederá" ],
+			[ "precederemos" ],
+			[ "precederéis", "precederán" ],
+			[ "precederán" ]
+		],
+		"8" : [
+			[ "preceda" ],
+			[ "precedas" ],
+			[ "preceda" ],
+			[ "precedamos" ],
+			[ "precedáis", "precedan" ],
+			[ "precedan" ]
+		],
+		"9" : [
+			[ "precediera" ],
+			[ "precedieras" ],
+			[ "precediera" ],
+			[ "precediéramos" ],
+			[ "precedierais", "precedieran" ],
+			[ "precedieran" ]
+		],
+		"10" : [
+			[ "precediese" ],
+			[ "precedieses" ],
+			[ "precediese" ],
+			[ "precediésemos" ],
+			[ "precedieseis", "precediesen" ],
+			[ "precediesen" ]
+		],
+		"11" : [
+			[ "precediere" ],
+			[ "precedieres" ],
+			[ "precediere" ],
+			[ "precediéremos" ],
+			[ "precediereis", "precedieren" ],
+			[ "precedieren" ]
+		],
+		"12" : {
+			"1" : [ "precede" ],
+			"2" : [ "preceda" ],
+			"3" : [ "precedamos" ],
+			"4" : [ "preceded" ],
+			"5" : [ "precedan" ]
+		}
+	}
+}

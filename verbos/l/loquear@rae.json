@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=loquear",
+	"word" : "loquear",
+	"infinitivo" : "loquear",
+	"participio" : [ "loqueado" ],
+	"gerundio" : [ "loqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "loqueo" ],
+			[ "loqueas", "loqueás" ],
+			[ "loquea" ],
+			[ "loqueamos" ],
+			[ "loqueáis", "loquean" ],
+			[ "loquean" ]
+		],
+		"4" : [
+			[ "loqueé" ],
+			[ "loqueaste" ],
+			[ "loqueó" ],
+			[ "loqueamos" ],
+			[ "loqueasteis", "loquearon" ],
+			[ "loquearon" ]
+		],
+		"5" : [
+			[ "loqueaba" ],
+			[ "loqueabas" ],
+			[ "loqueaba" ],
+			[ "loqueábamos" ],
+			[ "loqueabais", "loqueaban" ],
+			[ "loqueaban" ]
+		],
+		"6" : [
+			[ "loquearía" ],
+			[ "loquearías" ],
+			[ "loquearía" ],
+			[ "loquearíamos" ],
+			[ "loquearíais", "loquearían" ],
+			[ "loquearían" ]
+		],
+		"7" : [
+			[ "loquearé" ],
+			[ "loquearás" ],
+			[ "loqueará" ],
+			[ "loquearemos" ],
+			[ "loquearéis", "loquearán" ],
+			[ "loquearán" ]
+		],
+		"8" : [
+			[ "loquee" ],
+			[ "loquees" ],
+			[ "loquee" ],
+			[ "loqueemos" ],
+			[ "loqueéis", "loqueen" ],
+			[ "loqueen" ]
+		],
+		"9" : [
+			[ "loqueara" ],
+			[ "loquearas" ],
+			[ "loqueara" ],
+			[ "loqueáramos" ],
+			[ "loquearais", "loquearan" ],
+			[ "loquearan" ]
+		],
+		"10" : [
+			[ "loquease" ],
+			[ "loqueases" ],
+			[ "loquease" ],
+			[ "loqueásemos" ],
+			[ "loqueaseis", "loqueasen" ],
+			[ "loqueasen" ]
+		],
+		"11" : [
+			[ "loqueare" ],
+			[ "loqueares" ],
+			[ "loqueare" ],
+			[ "loqueáremos" ],
+			[ "loqueareis", "loquearen" ],
+			[ "loquearen" ]
+		],
+		"12" : {
+			"1" : [ "loquea" ],
+			"2" : [ "loquee" ],
+			"3" : [ "loqueemos" ],
+			"4" : [ "loquead" ],
+			"5" : [ "loqueen" ]
+		}
+	}
+}

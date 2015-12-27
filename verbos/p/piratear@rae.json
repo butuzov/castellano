@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=piratear",
+	"word" : "piratear",
+	"infinitivo" : "piratear",
+	"participio" : [ "pirateado" ],
+	"gerundio" : [ "pirateando" ],
+	"tenses" : {
+		"3" : [
+			[ "pirateo" ],
+			[ "pirateas", "pirateás" ],
+			[ "piratea" ],
+			[ "pirateamos" ],
+			[ "pirateáis", "piratean" ],
+			[ "piratean" ]
+		],
+		"4" : [
+			[ "pirateé" ],
+			[ "pirateaste" ],
+			[ "pirateó" ],
+			[ "pirateamos" ],
+			[ "pirateasteis", "piratearon" ],
+			[ "piratearon" ]
+		],
+		"5" : [
+			[ "pirateaba" ],
+			[ "pirateabas" ],
+			[ "pirateaba" ],
+			[ "pirateábamos" ],
+			[ "pirateabais", "pirateaban" ],
+			[ "pirateaban" ]
+		],
+		"6" : [
+			[ "piratearía" ],
+			[ "piratearías" ],
+			[ "piratearía" ],
+			[ "piratearíamos" ],
+			[ "piratearíais", "piratearían" ],
+			[ "piratearían" ]
+		],
+		"7" : [
+			[ "piratearé" ],
+			[ "piratearás" ],
+			[ "pirateará" ],
+			[ "piratearemos" ],
+			[ "piratearéis", "piratearán" ],
+			[ "piratearán" ]
+		],
+		"8" : [
+			[ "piratee" ],
+			[ "piratees" ],
+			[ "piratee" ],
+			[ "pirateemos" ],
+			[ "pirateéis", "pirateen" ],
+			[ "pirateen" ]
+		],
+		"9" : [
+			[ "pirateara" ],
+			[ "piratearas" ],
+			[ "pirateara" ],
+			[ "pirateáramos" ],
+			[ "piratearais", "piratearan" ],
+			[ "piratearan" ]
+		],
+		"10" : [
+			[ "piratease" ],
+			[ "pirateases" ],
+			[ "piratease" ],
+			[ "pirateásemos" ],
+			[ "pirateaseis", "pirateasen" ],
+			[ "pirateasen" ]
+		],
+		"11" : [
+			[ "pirateare" ],
+			[ "pirateares" ],
+			[ "pirateare" ],
+			[ "pirateáremos" ],
+			[ "pirateareis", "piratearen" ],
+			[ "piratearen" ]
+		],
+		"12" : {
+			"1" : [ "piratea" ],
+			"2" : [ "piratee" ],
+			"3" : [ "pirateemos" ],
+			"4" : [ "piratead" ],
+			"5" : [ "pirateen" ]
+		}
+	}
+}

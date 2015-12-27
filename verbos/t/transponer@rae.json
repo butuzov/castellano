@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=transponer",
+	"word" : "transponer",
+	"infinitivo" : "transponer",
+	"participio" : [ "transpuesto" ],
+	"gerundio" : [ "transponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "transpongo" ],
+			[ "transpones", "transponés" ],
+			[ "transpone" ],
+			[ "transponemos" ],
+			[ "transponéis", "transponen" ],
+			[ "transponen" ]
+		],
+		"4" : [
+			[ "transpuse" ],
+			[ "transpusiste" ],
+			[ "transpuso" ],
+			[ "transpusimos" ],
+			[ "transpusisteis", "transpusieron" ],
+			[ "transpusieron" ]
+		],
+		"5" : [
+			[ "transponía" ],
+			[ "transponías" ],
+			[ "transponía" ],
+			[ "transponíamos" ],
+			[ "transponíais", "transponían" ],
+			[ "transponían" ]
+		],
+		"6" : [
+			[ "transpondría" ],
+			[ "transpondrías" ],
+			[ "transpondría" ],
+			[ "transpondríamos" ],
+			[ "transpondríais", "transpondrían" ],
+			[ "transpondrían" ]
+		],
+		"7" : [
+			[ "transpondré" ],
+			[ "transpondrás" ],
+			[ "transpondrá" ],
+			[ "transpondremos" ],
+			[ "transpondréis", "transpondrán" ],
+			[ "transpondrán" ]
+		],
+		"8" : [
+			[ "transponga" ],
+			[ "transpongas" ],
+			[ "transponga" ],
+			[ "transpongamos" ],
+			[ "transpongáis", "transpongan" ],
+			[ "transpongan" ]
+		],
+		"9" : [
+			[ "transpusiera" ],
+			[ "transpusieras" ],
+			[ "transpusiera" ],
+			[ "transpusiéramos" ],
+			[ "transpusierais", "transpusieran" ],
+			[ "transpusieran" ]
+		],
+		"10" : [
+			[ "transpusiese" ],
+			[ "transpusieses" ],
+			[ "transpusiese" ],
+			[ "transpusiésemos" ],
+			[ "transpusieseis", "transpusiesen" ],
+			[ "transpusiesen" ]
+		],
+		"11" : [
+			[ "transpusiere" ],
+			[ "transpusieres" ],
+			[ "transpusiere" ],
+			[ "transpusiéremos" ],
+			[ "transpusiereis", "transpusieren" ],
+			[ "transpusieren" ]
+		],
+		"12" : {
+			"1" : [ "transpón" ],
+			"2" : [ "transponga" ],
+			"3" : [ "transpongamos" ],
+			"4" : [ "transponed" ],
+			"5" : [ "transpongan" ]
+		}
+	}
+}

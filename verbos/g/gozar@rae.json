@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gozar",
+	"word" : "gozar",
+	"infinitivo" : "gozar",
+	"participio" : [ "gozado" ],
+	"gerundio" : [ "gozando" ],
+	"tenses" : {
+		"3" : [
+			[ "gozo" ],
+			[ "gozas", "gozás" ],
+			[ "goza" ],
+			[ "gozamos" ],
+			[ "gozáis", "gozan" ],
+			[ "gozan" ]
+		],
+		"4" : [
+			[ "gocé" ],
+			[ "gozaste" ],
+			[ "gozó" ],
+			[ "gozamos" ],
+			[ "gozasteis", "gozaron" ],
+			[ "gozaron" ]
+		],
+		"5" : [
+			[ "gozaba" ],
+			[ "gozabas" ],
+			[ "gozaba" ],
+			[ "gozábamos" ],
+			[ "gozabais", "gozaban" ],
+			[ "gozaban" ]
+		],
+		"6" : [
+			[ "gozaría" ],
+			[ "gozarías" ],
+			[ "gozaría" ],
+			[ "gozaríamos" ],
+			[ "gozaríais", "gozarían" ],
+			[ "gozarían" ]
+		],
+		"7" : [
+			[ "gozaré" ],
+			[ "gozarás" ],
+			[ "gozará" ],
+			[ "gozaremos" ],
+			[ "gozaréis", "gozarán" ],
+			[ "gozarán" ]
+		],
+		"8" : [
+			[ "goce" ],
+			[ "goces" ],
+			[ "goce" ],
+			[ "gocemos" ],
+			[ "gocéis", "gocen" ],
+			[ "gocen" ]
+		],
+		"9" : [
+			[ "gozara" ],
+			[ "gozaras" ],
+			[ "gozara" ],
+			[ "gozáramos" ],
+			[ "gozarais", "gozaran" ],
+			[ "gozaran" ]
+		],
+		"10" : [
+			[ "gozase" ],
+			[ "gozases" ],
+			[ "gozase" ],
+			[ "gozásemos" ],
+			[ "gozaseis", "gozasen" ],
+			[ "gozasen" ]
+		],
+		"11" : [
+			[ "gozare" ],
+			[ "gozares" ],
+			[ "gozare" ],
+			[ "gozáremos" ],
+			[ "gozareis", "gozaren" ],
+			[ "gozaren" ]
+		],
+		"12" : {
+			"1" : [ "goza" ],
+			"2" : [ "goce" ],
+			"3" : [ "gocemos" ],
+			"4" : [ "gozad" ],
+			"5" : [ "gocen" ]
+		}
+	}
+}

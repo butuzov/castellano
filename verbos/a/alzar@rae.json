@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alzar",
+	"word" : "alzar",
+	"infinitivo" : "alzar",
+	"participio" : [ "alzado" ],
+	"gerundio" : [ "alzando" ],
+	"tenses" : {
+		"3" : [
+			[ "alzo" ],
+			[ "alzas", "alzás" ],
+			[ "alza" ],
+			[ "alzamos" ],
+			[ "alzáis", "alzan" ],
+			[ "alzan" ]
+		],
+		"4" : [
+			[ "alcé" ],
+			[ "alzaste" ],
+			[ "alzó" ],
+			[ "alzamos" ],
+			[ "alzasteis", "alzaron" ],
+			[ "alzaron" ]
+		],
+		"5" : [
+			[ "alzaba" ],
+			[ "alzabas" ],
+			[ "alzaba" ],
+			[ "alzábamos" ],
+			[ "alzabais", "alzaban" ],
+			[ "alzaban" ]
+		],
+		"6" : [
+			[ "alzaría" ],
+			[ "alzarías" ],
+			[ "alzaría" ],
+			[ "alzaríamos" ],
+			[ "alzaríais", "alzarían" ],
+			[ "alzarían" ]
+		],
+		"7" : [
+			[ "alzaré" ],
+			[ "alzarás" ],
+			[ "alzará" ],
+			[ "alzaremos" ],
+			[ "alzaréis", "alzarán" ],
+			[ "alzarán" ]
+		],
+		"8" : [
+			[ "alce" ],
+			[ "alces" ],
+			[ "alce" ],
+			[ "alcemos" ],
+			[ "alcéis", "alcen" ],
+			[ "alcen" ]
+		],
+		"9" : [
+			[ "alzara" ],
+			[ "alzaras" ],
+			[ "alzara" ],
+			[ "alzáramos" ],
+			[ "alzarais", "alzaran" ],
+			[ "alzaran" ]
+		],
+		"10" : [
+			[ "alzase" ],
+			[ "alzases" ],
+			[ "alzase" ],
+			[ "alzásemos" ],
+			[ "alzaseis", "alzasen" ],
+			[ "alzasen" ]
+		],
+		"11" : [
+			[ "alzare" ],
+			[ "alzares" ],
+			[ "alzare" ],
+			[ "alzáremos" ],
+			[ "alzareis", "alzaren" ],
+			[ "alzaren" ]
+		],
+		"12" : {
+			"1" : [ "alza" ],
+			"2" : [ "alce" ],
+			"3" : [ "alcemos" ],
+			"4" : [ "alzad" ],
+			"5" : [ "alcen" ]
+		}
+	}
+}

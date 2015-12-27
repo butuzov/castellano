@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hollar",
+	"word" : "hollar",
+	"infinitivo" : "hollar",
+	"participio" : [ "hollado" ],
+	"gerundio" : [ "hollando" ],
+	"tenses" : {
+		"3" : [
+			[ "huello" ],
+			[ "huellas", "hollás" ],
+			[ "huella" ],
+			[ "hollamos" ],
+			[ "holláis", "huellan" ],
+			[ "huellan" ]
+		],
+		"4" : [
+			[ "hollé" ],
+			[ "hollaste" ],
+			[ "holló" ],
+			[ "hollamos" ],
+			[ "hollasteis", "hollaron" ],
+			[ "hollaron" ]
+		],
+		"5" : [
+			[ "hollaba" ],
+			[ "hollabas" ],
+			[ "hollaba" ],
+			[ "hollábamos" ],
+			[ "hollabais", "hollaban" ],
+			[ "hollaban" ]
+		],
+		"6" : [
+			[ "hollaría" ],
+			[ "hollarías" ],
+			[ "hollaría" ],
+			[ "hollaríamos" ],
+			[ "hollaríais", "hollarían" ],
+			[ "hollarían" ]
+		],
+		"7" : [
+			[ "hollaré" ],
+			[ "hollarás" ],
+			[ "hollará" ],
+			[ "hollaremos" ],
+			[ "hollaréis", "hollarán" ],
+			[ "hollarán" ]
+		],
+		"8" : [
+			[ "huelle" ],
+			[ "huelles" ],
+			[ "huelle" ],
+			[ "hollemos" ],
+			[ "holléis", "huellen" ],
+			[ "huellen" ]
+		],
+		"9" : [
+			[ "hollara" ],
+			[ "hollaras" ],
+			[ "hollara" ],
+			[ "holláramos" ],
+			[ "hollarais", "hollaran" ],
+			[ "hollaran" ]
+		],
+		"10" : [
+			[ "hollase" ],
+			[ "hollases" ],
+			[ "hollase" ],
+			[ "hollásemos" ],
+			[ "hollaseis", "hollasen" ],
+			[ "hollasen" ]
+		],
+		"11" : [
+			[ "hollare" ],
+			[ "hollares" ],
+			[ "hollare" ],
+			[ "holláremos" ],
+			[ "hollareis", "hollaren" ],
+			[ "hollaren" ]
+		],
+		"12" : {
+			"1" : [ "huella" ],
+			"2" : [ "huelle" ],
+			"3" : [ "hollemos" ],
+			"4" : [ "hollad" ],
+			"5" : [ "huellen" ]
+		}
+	}
+}

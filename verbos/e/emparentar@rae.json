@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emparentar",
+	"word" : "emparentar",
+	"infinitivo" : "emparentar",
+	"participio" : [ "emparentado" ],
+	"gerundio" : [ "emparentando" ],
+	"tenses" : {
+		"3" : [
+			[ "empariento", "emparento" ],
+			[ "emparientas", "emparentas", "emparentás" ],
+			[ "emparienta", "emparenta" ],
+			[ "emparentamos" ],
+			[ "emparentáis", "emparientan", "emparentan" ],
+			[ "emparientan", "emparentan" ]
+		],
+		"4" : [
+			[ "emparenté" ],
+			[ "emparentaste" ],
+			[ "emparentó" ],
+			[ "emparentamos" ],
+			[ "emparentasteis", "emparentaron" ],
+			[ "emparentaron" ]
+		],
+		"5" : [
+			[ "emparentaba" ],
+			[ "emparentabas" ],
+			[ "emparentaba" ],
+			[ "emparentábamos" ],
+			[ "emparentabais", "emparentaban" ],
+			[ "emparentaban" ]
+		],
+		"6" : [
+			[ "emparentaría" ],
+			[ "emparentarías" ],
+			[ "emparentaría" ],
+			[ "emparentaríamos" ],
+			[ "emparentaríais", "emparentarían" ],
+			[ "emparentarían" ]
+		],
+		"7" : [
+			[ "emparentaré" ],
+			[ "emparentarás" ],
+			[ "emparentará" ],
+			[ "emparentaremos" ],
+			[ "emparentaréis", "emparentarán" ],
+			[ "emparentarán" ]
+		],
+		"8" : [
+			[ "empariente", "emparente" ],
+			[ "emparientes", "emparentes" ],
+			[ "empariente", "emparente" ],
+			[ "emparentemos" ],
+			[ "emparentéis", "emparienten", "emparenten" ],
+			[ "emparienten", "emparenten" ]
+		],
+		"9" : [
+			[ "emparentara" ],
+			[ "emparentaras" ],
+			[ "emparentara" ],
+			[ "emparentáramos" ],
+			[ "emparentarais", "emparentaran" ],
+			[ "emparentaran" ]
+		],
+		"10" : [
+			[ "emparentase" ],
+			[ "emparentases" ],
+			[ "emparentase" ],
+			[ "emparentásemos" ],
+			[ "emparentaseis", "emparentasen" ],
+			[ "emparentasen" ]
+		],
+		"11" : [
+			[ "emparentare" ],
+			[ "emparentares" ],
+			[ "emparentare" ],
+			[ "emparentáremos" ],
+			[ "emparentareis", "emparentaren" ],
+			[ "emparentaren" ]
+		],
+		"12" : {
+			"1" : [ "emparienta", "emparenta" ],
+			"2" : [ "empariente", "emparente" ],
+			"3" : [ "emparentemos" ],
+			"4" : [ "emparentad" ],
+			"5" : [ "emparienten", "emparenten" ]
+		}
+	}
+}

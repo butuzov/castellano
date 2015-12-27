@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reciclar",
+	"word" : "reciclar",
+	"infinitivo" : "reciclar",
+	"participio" : [ "reciclado" ],
+	"gerundio" : [ "reciclando" ],
+	"tenses" : {
+		"3" : [
+			[ "reciclo" ],
+			[ "reciclas", "reciclás" ],
+			[ "recicla" ],
+			[ "reciclamos" ],
+			[ "recicláis", "reciclan" ],
+			[ "reciclan" ]
+		],
+		"4" : [
+			[ "reciclé" ],
+			[ "reciclaste" ],
+			[ "recicló" ],
+			[ "reciclamos" ],
+			[ "reciclasteis", "reciclaron" ],
+			[ "reciclaron" ]
+		],
+		"5" : [
+			[ "reciclaba" ],
+			[ "reciclabas" ],
+			[ "reciclaba" ],
+			[ "reciclábamos" ],
+			[ "reciclabais", "reciclaban" ],
+			[ "reciclaban" ]
+		],
+		"6" : [
+			[ "reciclaría" ],
+			[ "reciclarías" ],
+			[ "reciclaría" ],
+			[ "reciclaríamos" ],
+			[ "reciclaríais", "reciclarían" ],
+			[ "reciclarían" ]
+		],
+		"7" : [
+			[ "reciclaré" ],
+			[ "reciclarás" ],
+			[ "reciclará" ],
+			[ "reciclaremos" ],
+			[ "reciclaréis", "reciclarán" ],
+			[ "reciclarán" ]
+		],
+		"8" : [
+			[ "recicle" ],
+			[ "recicles" ],
+			[ "recicle" ],
+			[ "reciclemos" ],
+			[ "recicléis", "reciclen" ],
+			[ "reciclen" ]
+		],
+		"9" : [
+			[ "reciclara" ],
+			[ "reciclaras" ],
+			[ "reciclara" ],
+			[ "recicláramos" ],
+			[ "reciclarais", "reciclaran" ],
+			[ "reciclaran" ]
+		],
+		"10" : [
+			[ "reciclase" ],
+			[ "reciclases" ],
+			[ "reciclase" ],
+			[ "reciclásemos" ],
+			[ "reciclaseis", "reciclasen" ],
+			[ "reciclasen" ]
+		],
+		"11" : [
+			[ "reciclare" ],
+			[ "reciclares" ],
+			[ "reciclare" ],
+			[ "recicláremos" ],
+			[ "reciclareis", "reciclaren" ],
+			[ "reciclaren" ]
+		],
+		"12" : {
+			"1" : [ "recicla" ],
+			"2" : [ "recicle" ],
+			"3" : [ "reciclemos" ],
+			"4" : [ "reciclad" ],
+			"5" : [ "reciclen" ]
+		}
+	}
+}

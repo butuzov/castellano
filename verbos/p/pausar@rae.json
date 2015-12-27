@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pausar",
+	"word" : "pausar",
+	"infinitivo" : "pausar",
+	"participio" : [ "pausado" ],
+	"gerundio" : [ "pausando" ],
+	"tenses" : {
+		"3" : [
+			[ "pauso" ],
+			[ "pausas", "pausás" ],
+			[ "pausa" ],
+			[ "pausamos" ],
+			[ "pausáis", "pausan" ],
+			[ "pausan" ]
+		],
+		"4" : [
+			[ "pausé" ],
+			[ "pausaste" ],
+			[ "pausó" ],
+			[ "pausamos" ],
+			[ "pausasteis", "pausaron" ],
+			[ "pausaron" ]
+		],
+		"5" : [
+			[ "pausaba" ],
+			[ "pausabas" ],
+			[ "pausaba" ],
+			[ "pausábamos" ],
+			[ "pausabais", "pausaban" ],
+			[ "pausaban" ]
+		],
+		"6" : [
+			[ "pausaría" ],
+			[ "pausarías" ],
+			[ "pausaría" ],
+			[ "pausaríamos" ],
+			[ "pausaríais", "pausarían" ],
+			[ "pausarían" ]
+		],
+		"7" : [
+			[ "pausaré" ],
+			[ "pausarás" ],
+			[ "pausará" ],
+			[ "pausaremos" ],
+			[ "pausaréis", "pausarán" ],
+			[ "pausarán" ]
+		],
+		"8" : [
+			[ "pause" ],
+			[ "pauses" ],
+			[ "pause" ],
+			[ "pausemos" ],
+			[ "pauséis", "pausen" ],
+			[ "pausen" ]
+		],
+		"9" : [
+			[ "pausara" ],
+			[ "pausaras" ],
+			[ "pausara" ],
+			[ "pausáramos" ],
+			[ "pausarais", "pausaran" ],
+			[ "pausaran" ]
+		],
+		"10" : [
+			[ "pausase" ],
+			[ "pausases" ],
+			[ "pausase" ],
+			[ "pausásemos" ],
+			[ "pausaseis", "pausasen" ],
+			[ "pausasen" ]
+		],
+		"11" : [
+			[ "pausare" ],
+			[ "pausares" ],
+			[ "pausare" ],
+			[ "pausáremos" ],
+			[ "pausareis", "pausaren" ],
+			[ "pausaren" ]
+		],
+		"12" : {
+			"1" : [ "pausa" ],
+			"2" : [ "pause" ],
+			"3" : [ "pausemos" ],
+			"4" : [ "pausad" ],
+			"5" : [ "pausen" ]
+		}
+	}
+}

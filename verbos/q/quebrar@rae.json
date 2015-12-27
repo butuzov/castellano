@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=quebrar",
+	"word" : "quebrar",
+	"infinitivo" : "quebrar",
+	"participio" : [ "quebrado" ],
+	"gerundio" : [ "quebrando" ],
+	"tenses" : {
+		"3" : [
+			[ "quiebro" ],
+			[ "quiebras", "quebrás" ],
+			[ "quiebra" ],
+			[ "quebramos" ],
+			[ "quebráis", "quiebran" ],
+			[ "quiebran" ]
+		],
+		"4" : [
+			[ "quebré" ],
+			[ "quebraste" ],
+			[ "quebró" ],
+			[ "quebramos" ],
+			[ "quebrasteis", "quebraron" ],
+			[ "quebraron" ]
+		],
+		"5" : [
+			[ "quebraba" ],
+			[ "quebrabas" ],
+			[ "quebraba" ],
+			[ "quebrábamos" ],
+			[ "quebrabais", "quebraban" ],
+			[ "quebraban" ]
+		],
+		"6" : [
+			[ "quebraría" ],
+			[ "quebrarías" ],
+			[ "quebraría" ],
+			[ "quebraríamos" ],
+			[ "quebraríais", "quebrarían" ],
+			[ "quebrarían" ]
+		],
+		"7" : [
+			[ "quebraré" ],
+			[ "quebrarás" ],
+			[ "quebrará" ],
+			[ "quebraremos" ],
+			[ "quebraréis", "quebrarán" ],
+			[ "quebrarán" ]
+		],
+		"8" : [
+			[ "quiebre" ],
+			[ "quiebres" ],
+			[ "quiebre" ],
+			[ "quebremos" ],
+			[ "quebréis", "quiebren" ],
+			[ "quiebren" ]
+		],
+		"9" : [
+			[ "quebrara" ],
+			[ "quebraras" ],
+			[ "quebrara" ],
+			[ "quebráramos" ],
+			[ "quebrarais", "quebraran" ],
+			[ "quebraran" ]
+		],
+		"10" : [
+			[ "quebrase" ],
+			[ "quebrases" ],
+			[ "quebrase" ],
+			[ "quebrásemos" ],
+			[ "quebraseis", "quebrasen" ],
+			[ "quebrasen" ]
+		],
+		"11" : [
+			[ "quebrare" ],
+			[ "quebrares" ],
+			[ "quebrare" ],
+			[ "quebráremos" ],
+			[ "quebrareis", "quebraren" ],
+			[ "quebraren" ]
+		],
+		"12" : {
+			"1" : [ "quiebra" ],
+			"2" : [ "quiebre" ],
+			"3" : [ "quebremos" ],
+			"4" : [ "quebrad" ],
+			"5" : [ "quiebren" ]
+		}
+	}
+}

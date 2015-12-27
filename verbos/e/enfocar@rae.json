@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enfocar",
+	"word" : "enfocar",
+	"infinitivo" : "enfocar",
+	"participio" : [ "enfocado" ],
+	"gerundio" : [ "enfocando" ],
+	"tenses" : {
+		"3" : [
+			[ "enfoco" ],
+			[ "enfocas", "enfocás" ],
+			[ "enfoca" ],
+			[ "enfocamos" ],
+			[ "enfocáis", "enfocan" ],
+			[ "enfocan" ]
+		],
+		"4" : [
+			[ "enfoqué" ],
+			[ "enfocaste" ],
+			[ "enfocó" ],
+			[ "enfocamos" ],
+			[ "enfocasteis", "enfocaron" ],
+			[ "enfocaron" ]
+		],
+		"5" : [
+			[ "enfocaba" ],
+			[ "enfocabas" ],
+			[ "enfocaba" ],
+			[ "enfocábamos" ],
+			[ "enfocabais", "enfocaban" ],
+			[ "enfocaban" ]
+		],
+		"6" : [
+			[ "enfocaría" ],
+			[ "enfocarías" ],
+			[ "enfocaría" ],
+			[ "enfocaríamos" ],
+			[ "enfocaríais", "enfocarían" ],
+			[ "enfocarían" ]
+		],
+		"7" : [
+			[ "enfocaré" ],
+			[ "enfocarás" ],
+			[ "enfocará" ],
+			[ "enfocaremos" ],
+			[ "enfocaréis", "enfocarán" ],
+			[ "enfocarán" ]
+		],
+		"8" : [
+			[ "enfoque" ],
+			[ "enfoques" ],
+			[ "enfoque" ],
+			[ "enfoquemos" ],
+			[ "enfoquéis", "enfoquen" ],
+			[ "enfoquen" ]
+		],
+		"9" : [
+			[ "enfocara" ],
+			[ "enfocaras" ],
+			[ "enfocara" ],
+			[ "enfocáramos" ],
+			[ "enfocarais", "enfocaran" ],
+			[ "enfocaran" ]
+		],
+		"10" : [
+			[ "enfocase" ],
+			[ "enfocases" ],
+			[ "enfocase" ],
+			[ "enfocásemos" ],
+			[ "enfocaseis", "enfocasen" ],
+			[ "enfocasen" ]
+		],
+		"11" : [
+			[ "enfocare" ],
+			[ "enfocares" ],
+			[ "enfocare" ],
+			[ "enfocáremos" ],
+			[ "enfocareis", "enfocaren" ],
+			[ "enfocaren" ]
+		],
+		"12" : {
+			"1" : [ "enfoca" ],
+			"2" : [ "enfoque" ],
+			"3" : [ "enfoquemos" ],
+			"4" : [ "enfocad" ],
+			"5" : [ "enfoquen" ]
+		}
+	}
+}

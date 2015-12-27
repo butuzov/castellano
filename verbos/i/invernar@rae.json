@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=invernar",
+	"word" : "invernar",
+	"infinitivo" : "invernar",
+	"participio" : [ "invernado" ],
+	"gerundio" : [ "invernando" ],
+	"tenses" : {
+		"3" : [
+			[ "invierno", "inverno" ],
+			[ "inviernas", "invernas", "invernás" ],
+			[ "invierna", "inverna" ],
+			[ "invernamos" ],
+			[ "invernáis", "inviernan", "invernan" ],
+			[ "inviernan", "invernan" ]
+		],
+		"4" : [
+			[ "inverné" ],
+			[ "invernaste" ],
+			[ "invernó" ],
+			[ "invernamos" ],
+			[ "invernasteis", "invernaron" ],
+			[ "invernaron" ]
+		],
+		"5" : [
+			[ "invernaba" ],
+			[ "invernabas" ],
+			[ "invernaba" ],
+			[ "invernábamos" ],
+			[ "invernabais", "invernaban" ],
+			[ "invernaban" ]
+		],
+		"6" : [
+			[ "invernaría" ],
+			[ "invernarías" ],
+			[ "invernaría" ],
+			[ "invernaríamos" ],
+			[ "invernaríais", "invernarían" ],
+			[ "invernarían" ]
+		],
+		"7" : [
+			[ "invernaré" ],
+			[ "invernarás" ],
+			[ "invernará" ],
+			[ "invernaremos" ],
+			[ "invernaréis", "invernarán" ],
+			[ "invernarán" ]
+		],
+		"8" : [
+			[ "invierne", "inverne" ],
+			[ "inviernes", "invernes" ],
+			[ "invierne", "inverne" ],
+			[ "invernemos" ],
+			[ "invernéis", "inviernen", "invernen" ],
+			[ "inviernen", "invernen" ]
+		],
+		"9" : [
+			[ "invernara" ],
+			[ "invernaras" ],
+			[ "invernara" ],
+			[ "invernáramos" ],
+			[ "invernarais", "invernaran" ],
+			[ "invernaran" ]
+		],
+		"10" : [
+			[ "invernase" ],
+			[ "invernases" ],
+			[ "invernase" ],
+			[ "invernásemos" ],
+			[ "invernaseis", "invernasen" ],
+			[ "invernasen" ]
+		],
+		"11" : [
+			[ "invernare" ],
+			[ "invernares" ],
+			[ "invernare" ],
+			[ "invernáremos" ],
+			[ "invernareis", "invernaren" ],
+			[ "invernaren" ]
+		],
+		"12" : {
+			"1" : [ "invierna", "inverna" ],
+			"2" : [ "invierne", "inverne" ],
+			"3" : [ "invernemos" ],
+			"4" : [ "invernad" ],
+			"5" : [ "inviernen", "invernen" ]
+		}
+	}
+}

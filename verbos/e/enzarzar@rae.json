@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enzarzar",
+	"word" : "enzarzar",
+	"infinitivo" : "enzarzar",
+	"participio" : [ "enzarzado" ],
+	"gerundio" : [ "enzarzando" ],
+	"tenses" : {
+		"3" : [
+			[ "enzarzo" ],
+			[ "enzarzas", "enzarzás" ],
+			[ "enzarza" ],
+			[ "enzarzamos" ],
+			[ "enzarzáis", "enzarzan" ],
+			[ "enzarzan" ]
+		],
+		"4" : [
+			[ "enzarcé" ],
+			[ "enzarzaste" ],
+			[ "enzarzó" ],
+			[ "enzarzamos" ],
+			[ "enzarzasteis", "enzarzaron" ],
+			[ "enzarzaron" ]
+		],
+		"5" : [
+			[ "enzarzaba" ],
+			[ "enzarzabas" ],
+			[ "enzarzaba" ],
+			[ "enzarzábamos" ],
+			[ "enzarzabais", "enzarzaban" ],
+			[ "enzarzaban" ]
+		],
+		"6" : [
+			[ "enzarzaría" ],
+			[ "enzarzarías" ],
+			[ "enzarzaría" ],
+			[ "enzarzaríamos" ],
+			[ "enzarzaríais", "enzarzarían" ],
+			[ "enzarzarían" ]
+		],
+		"7" : [
+			[ "enzarzaré" ],
+			[ "enzarzarás" ],
+			[ "enzarzará" ],
+			[ "enzarzaremos" ],
+			[ "enzarzaréis", "enzarzarán" ],
+			[ "enzarzarán" ]
+		],
+		"8" : [
+			[ "enzarce" ],
+			[ "enzarces" ],
+			[ "enzarce" ],
+			[ "enzarcemos" ],
+			[ "enzarcéis", "enzarcen" ],
+			[ "enzarcen" ]
+		],
+		"9" : [
+			[ "enzarzara" ],
+			[ "enzarzaras" ],
+			[ "enzarzara" ],
+			[ "enzarzáramos" ],
+			[ "enzarzarais", "enzarzaran" ],
+			[ "enzarzaran" ]
+		],
+		"10" : [
+			[ "enzarzase" ],
+			[ "enzarzases" ],
+			[ "enzarzase" ],
+			[ "enzarzásemos" ],
+			[ "enzarzaseis", "enzarzasen" ],
+			[ "enzarzasen" ]
+		],
+		"11" : [
+			[ "enzarzare" ],
+			[ "enzarzares" ],
+			[ "enzarzare" ],
+			[ "enzarzáremos" ],
+			[ "enzarzareis", "enzarzaren" ],
+			[ "enzarzaren" ]
+		],
+		"12" : {
+			"1" : [ "enzarza" ],
+			"2" : [ "enzarce" ],
+			"3" : [ "enzarcemos" ],
+			"4" : [ "enzarzad" ],
+			"5" : [ "enzarcen" ]
+		}
+	}
+}

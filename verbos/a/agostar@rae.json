@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agostar",
+	"word" : "agostar",
+	"infinitivo" : "agostar",
+	"participio" : [ "agostado" ],
+	"gerundio" : [ "agostando" ],
+	"tenses" : {
+		"3" : [
+			[ "agosto" ],
+			[ "agostas", "agostás" ],
+			[ "agosta" ],
+			[ "agostamos" ],
+			[ "agostáis", "agostan" ],
+			[ "agostan" ]
+		],
+		"4" : [
+			[ "agosté" ],
+			[ "agostaste" ],
+			[ "agostó" ],
+			[ "agostamos" ],
+			[ "agostasteis", "agostaron" ],
+			[ "agostaron" ]
+		],
+		"5" : [
+			[ "agostaba" ],
+			[ "agostabas" ],
+			[ "agostaba" ],
+			[ "agostábamos" ],
+			[ "agostabais", "agostaban" ],
+			[ "agostaban" ]
+		],
+		"6" : [
+			[ "agostaría" ],
+			[ "agostarías" ],
+			[ "agostaría" ],
+			[ "agostaríamos" ],
+			[ "agostaríais", "agostarían" ],
+			[ "agostarían" ]
+		],
+		"7" : [
+			[ "agostaré" ],
+			[ "agostarás" ],
+			[ "agostará" ],
+			[ "agostaremos" ],
+			[ "agostaréis", "agostarán" ],
+			[ "agostarán" ]
+		],
+		"8" : [
+			[ "agoste" ],
+			[ "agostes" ],
+			[ "agoste" ],
+			[ "agostemos" ],
+			[ "agostéis", "agosten" ],
+			[ "agosten" ]
+		],
+		"9" : [
+			[ "agostara" ],
+			[ "agostaras" ],
+			[ "agostara" ],
+			[ "agostáramos" ],
+			[ "agostarais", "agostaran" ],
+			[ "agostaran" ]
+		],
+		"10" : [
+			[ "agostase" ],
+			[ "agostases" ],
+			[ "agostase" ],
+			[ "agostásemos" ],
+			[ "agostaseis", "agostasen" ],
+			[ "agostasen" ]
+		],
+		"11" : [
+			[ "agostare" ],
+			[ "agostares" ],
+			[ "agostare" ],
+			[ "agostáremos" ],
+			[ "agostareis", "agostaren" ],
+			[ "agostaren" ]
+		],
+		"12" : {
+			"1" : [ "agosta" ],
+			"2" : [ "agoste" ],
+			"3" : [ "agostemos" ],
+			"4" : [ "agostad" ],
+			"5" : [ "agosten" ]
+		}
+	}
+}

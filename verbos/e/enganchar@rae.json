@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enganchar",
+	"word" : "enganchar",
+	"infinitivo" : "enganchar",
+	"participio" : [ "enganchado" ],
+	"gerundio" : [ "enganchando" ],
+	"tenses" : {
+		"3" : [
+			[ "engancho" ],
+			[ "enganchas", "enganchás" ],
+			[ "engancha" ],
+			[ "enganchamos" ],
+			[ "engancháis", "enganchan" ],
+			[ "enganchan" ]
+		],
+		"4" : [
+			[ "enganché" ],
+			[ "enganchaste" ],
+			[ "enganchó" ],
+			[ "enganchamos" ],
+			[ "enganchasteis", "engancharon" ],
+			[ "engancharon" ]
+		],
+		"5" : [
+			[ "enganchaba" ],
+			[ "enganchabas" ],
+			[ "enganchaba" ],
+			[ "enganchábamos" ],
+			[ "enganchabais", "enganchaban" ],
+			[ "enganchaban" ]
+		],
+		"6" : [
+			[ "engancharía" ],
+			[ "engancharías" ],
+			[ "engancharía" ],
+			[ "engancharíamos" ],
+			[ "engancharíais", "engancharían" ],
+			[ "engancharían" ]
+		],
+		"7" : [
+			[ "engancharé" ],
+			[ "engancharás" ],
+			[ "enganchará" ],
+			[ "engancharemos" ],
+			[ "engancharéis", "engancharán" ],
+			[ "engancharán" ]
+		],
+		"8" : [
+			[ "enganche" ],
+			[ "enganches" ],
+			[ "enganche" ],
+			[ "enganchemos" ],
+			[ "enganchéis", "enganchen" ],
+			[ "enganchen" ]
+		],
+		"9" : [
+			[ "enganchara" ],
+			[ "engancharas" ],
+			[ "enganchara" ],
+			[ "engancháramos" ],
+			[ "engancharais", "engancharan" ],
+			[ "engancharan" ]
+		],
+		"10" : [
+			[ "enganchase" ],
+			[ "enganchases" ],
+			[ "enganchase" ],
+			[ "enganchásemos" ],
+			[ "enganchaseis", "enganchasen" ],
+			[ "enganchasen" ]
+		],
+		"11" : [
+			[ "enganchare" ],
+			[ "enganchares" ],
+			[ "enganchare" ],
+			[ "engancháremos" ],
+			[ "enganchareis", "engancharen" ],
+			[ "engancharen" ]
+		],
+		"12" : {
+			"1" : [ "engancha" ],
+			"2" : [ "enganche" ],
+			"3" : [ "enganchemos" ],
+			"4" : [ "enganchad" ],
+			"5" : [ "enganchen" ]
+		}
+	}
+}

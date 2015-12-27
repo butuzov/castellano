@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entresacar",
+	"word" : "entresacar",
+	"infinitivo" : "entresacar",
+	"participio" : [ "entresacado" ],
+	"gerundio" : [ "entresacando" ],
+	"tenses" : {
+		"3" : [
+			[ "entresaco" ],
+			[ "entresacas", "entresacás" ],
+			[ "entresaca" ],
+			[ "entresacamos" ],
+			[ "entresacáis", "entresacan" ],
+			[ "entresacan" ]
+		],
+		"4" : [
+			[ "entresaqué" ],
+			[ "entresacaste" ],
+			[ "entresacó" ],
+			[ "entresacamos" ],
+			[ "entresacasteis", "entresacaron" ],
+			[ "entresacaron" ]
+		],
+		"5" : [
+			[ "entresacaba" ],
+			[ "entresacabas" ],
+			[ "entresacaba" ],
+			[ "entresacábamos" ],
+			[ "entresacabais", "entresacaban" ],
+			[ "entresacaban" ]
+		],
+		"6" : [
+			[ "entresacaría" ],
+			[ "entresacarías" ],
+			[ "entresacaría" ],
+			[ "entresacaríamos" ],
+			[ "entresacaríais", "entresacarían" ],
+			[ "entresacarían" ]
+		],
+		"7" : [
+			[ "entresacaré" ],
+			[ "entresacarás" ],
+			[ "entresacará" ],
+			[ "entresacaremos" ],
+			[ "entresacaréis", "entresacarán" ],
+			[ "entresacarán" ]
+		],
+		"8" : [
+			[ "entresaque" ],
+			[ "entresaques" ],
+			[ "entresaque" ],
+			[ "entresaquemos" ],
+			[ "entresaquéis", "entresaquen" ],
+			[ "entresaquen" ]
+		],
+		"9" : [
+			[ "entresacara" ],
+			[ "entresacaras" ],
+			[ "entresacara" ],
+			[ "entresacáramos" ],
+			[ "entresacarais", "entresacaran" ],
+			[ "entresacaran" ]
+		],
+		"10" : [
+			[ "entresacase" ],
+			[ "entresacases" ],
+			[ "entresacase" ],
+			[ "entresacásemos" ],
+			[ "entresacaseis", "entresacasen" ],
+			[ "entresacasen" ]
+		],
+		"11" : [
+			[ "entresacare" ],
+			[ "entresacares" ],
+			[ "entresacare" ],
+			[ "entresacáremos" ],
+			[ "entresacareis", "entresacaren" ],
+			[ "entresacaren" ]
+		],
+		"12" : {
+			"1" : [ "entresaca" ],
+			"2" : [ "entresaque" ],
+			"3" : [ "entresaquemos" ],
+			"4" : [ "entresacad" ],
+			"5" : [ "entresaquen" ]
+		}
+	}
+}

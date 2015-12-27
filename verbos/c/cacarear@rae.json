@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cacarear",
+	"word" : "cacarear",
+	"infinitivo" : "cacarear",
+	"participio" : [ "cacareado" ],
+	"gerundio" : [ "cacareando" ],
+	"tenses" : {
+		"3" : [
+			[ "cacareo" ],
+			[ "cacareas", "cacareás" ],
+			[ "cacarea" ],
+			[ "cacareamos" ],
+			[ "cacareáis", "cacarean" ],
+			[ "cacarean" ]
+		],
+		"4" : [
+			[ "cacareé" ],
+			[ "cacareaste" ],
+			[ "cacareó" ],
+			[ "cacareamos" ],
+			[ "cacareasteis", "cacarearon" ],
+			[ "cacarearon" ]
+		],
+		"5" : [
+			[ "cacareaba" ],
+			[ "cacareabas" ],
+			[ "cacareaba" ],
+			[ "cacareábamos" ],
+			[ "cacareabais", "cacareaban" ],
+			[ "cacareaban" ]
+		],
+		"6" : [
+			[ "cacarearía" ],
+			[ "cacarearías" ],
+			[ "cacarearía" ],
+			[ "cacarearíamos" ],
+			[ "cacarearíais", "cacarearían" ],
+			[ "cacarearían" ]
+		],
+		"7" : [
+			[ "cacarearé" ],
+			[ "cacarearás" ],
+			[ "cacareará" ],
+			[ "cacarearemos" ],
+			[ "cacarearéis", "cacarearán" ],
+			[ "cacarearán" ]
+		],
+		"8" : [
+			[ "cacaree" ],
+			[ "cacarees" ],
+			[ "cacaree" ],
+			[ "cacareemos" ],
+			[ "cacareéis", "cacareen" ],
+			[ "cacareen" ]
+		],
+		"9" : [
+			[ "cacareara" ],
+			[ "cacarearas" ],
+			[ "cacareara" ],
+			[ "cacareáramos" ],
+			[ "cacarearais", "cacarearan" ],
+			[ "cacarearan" ]
+		],
+		"10" : [
+			[ "cacarease" ],
+			[ "cacareases" ],
+			[ "cacarease" ],
+			[ "cacareásemos" ],
+			[ "cacareaseis", "cacareasen" ],
+			[ "cacareasen" ]
+		],
+		"11" : [
+			[ "cacareare" ],
+			[ "cacareares" ],
+			[ "cacareare" ],
+			[ "cacareáremos" ],
+			[ "cacareareis", "cacarearen" ],
+			[ "cacarearen" ]
+		],
+		"12" : {
+			"1" : [ "cacarea" ],
+			"2" : [ "cacaree" ],
+			"3" : [ "cacareemos" ],
+			"4" : [ "cacaread" ],
+			"5" : [ "cacareen" ]
+		}
+	}
+}

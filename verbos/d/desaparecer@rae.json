@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desaparecer",
+	"word" : "desaparecer",
+	"infinitivo" : "desaparecer",
+	"participio" : [ "desaparecido" ],
+	"gerundio" : [ "desapareciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desaparezco" ],
+			[ "desapareces", "desaparecés" ],
+			[ "desaparece" ],
+			[ "desaparecemos" ],
+			[ "desaparecéis", "desaparecen" ],
+			[ "desaparecen" ]
+		],
+		"4" : [
+			[ "desaparecí" ],
+			[ "desapareciste" ],
+			[ "desapareció" ],
+			[ "desaparecimos" ],
+			[ "desaparecisteis", "desaparecieron" ],
+			[ "desaparecieron" ]
+		],
+		"5" : [
+			[ "desaparecía" ],
+			[ "desaparecías" ],
+			[ "desaparecía" ],
+			[ "desaparecíamos" ],
+			[ "desaparecíais", "desaparecían" ],
+			[ "desaparecían" ]
+		],
+		"6" : [
+			[ "desaparecería" ],
+			[ "desaparecerías" ],
+			[ "desaparecería" ],
+			[ "desapareceríamos" ],
+			[ "desapareceríais", "desaparecerían" ],
+			[ "desaparecerían" ]
+		],
+		"7" : [
+			[ "desapareceré" ],
+			[ "desaparecerás" ],
+			[ "desaparecerá" ],
+			[ "desapareceremos" ],
+			[ "desapareceréis", "desaparecerán" ],
+			[ "desaparecerán" ]
+		],
+		"8" : [
+			[ "desaparezca" ],
+			[ "desaparezcas" ],
+			[ "desaparezca" ],
+			[ "desaparezcamos" ],
+			[ "desaparezcáis", "desaparezcan" ],
+			[ "desaparezcan" ]
+		],
+		"9" : [
+			[ "desapareciera" ],
+			[ "desaparecieras" ],
+			[ "desapareciera" ],
+			[ "desapareciéramos" ],
+			[ "desaparecierais", "desaparecieran" ],
+			[ "desaparecieran" ]
+		],
+		"10" : [
+			[ "desapareciese" ],
+			[ "desaparecieses" ],
+			[ "desapareciese" ],
+			[ "desapareciésemos" ],
+			[ "desaparecieseis", "desapareciesen" ],
+			[ "desapareciesen" ]
+		],
+		"11" : [
+			[ "desapareciere" ],
+			[ "desaparecieres" ],
+			[ "desapareciere" ],
+			[ "desapareciéremos" ],
+			[ "desapareciereis", "desaparecieren" ],
+			[ "desaparecieren" ]
+		],
+		"12" : {
+			"1" : [ "desaparece" ],
+			"2" : [ "desaparezca" ],
+			"3" : [ "desaparezcamos" ],
+			"4" : [ "desapareced" ],
+			"5" : [ "desaparezcan" ]
+		}
+	}
+}

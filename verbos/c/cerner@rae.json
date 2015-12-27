@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cerner",
+	"word" : "cerner",
+	"infinitivo" : "cerner",
+	"participio" : [ "cernido" ],
+	"gerundio" : [ "cerniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "cierno" ],
+			[ "ciernes", "cernés" ],
+			[ "cierne" ],
+			[ "cernemos" ],
+			[ "cernéis", "ciernen" ],
+			[ "ciernen" ]
+		],
+		"4" : [
+			[ "cerní" ],
+			[ "cerniste" ],
+			[ "cernió" ],
+			[ "cernimos" ],
+			[ "cernisteis", "cernieron" ],
+			[ "cernieron" ]
+		],
+		"5" : [
+			[ "cernía" ],
+			[ "cernías" ],
+			[ "cernía" ],
+			[ "cerníamos" ],
+			[ "cerníais", "cernían" ],
+			[ "cernían" ]
+		],
+		"6" : [
+			[ "cernería" ],
+			[ "cernerías" ],
+			[ "cernería" ],
+			[ "cerneríamos" ],
+			[ "cerneríais", "cernerían" ],
+			[ "cernerían" ]
+		],
+		"7" : [
+			[ "cerneré" ],
+			[ "cernerás" ],
+			[ "cernerá" ],
+			[ "cerneremos" ],
+			[ "cerneréis", "cernerán" ],
+			[ "cernerán" ]
+		],
+		"8" : [
+			[ "cierna" ],
+			[ "ciernas" ],
+			[ "cierna" ],
+			[ "cernamos" ],
+			[ "cernáis", "ciernan" ],
+			[ "ciernan" ]
+		],
+		"9" : [
+			[ "cerniera" ],
+			[ "cernieras" ],
+			[ "cerniera" ],
+			[ "cerniéramos" ],
+			[ "cernierais", "cernieran" ],
+			[ "cernieran" ]
+		],
+		"10" : [
+			[ "cerniese" ],
+			[ "cernieses" ],
+			[ "cerniese" ],
+			[ "cerniésemos" ],
+			[ "cernieseis", "cerniesen" ],
+			[ "cerniesen" ]
+		],
+		"11" : [
+			[ "cerniere" ],
+			[ "cernieres" ],
+			[ "cerniere" ],
+			[ "cerniéremos" ],
+			[ "cerniereis", "cernieren" ],
+			[ "cernieren" ]
+		],
+		"12" : {
+			"1" : [ "cierne" ],
+			"2" : [ "cierna" ],
+			"3" : [ "cernamos" ],
+			"4" : [ "cerned" ],
+			"5" : [ "ciernan" ]
+		}
+	}
+}

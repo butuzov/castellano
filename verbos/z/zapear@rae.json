@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=zapear",
+	"word" : "zapear",
+	"infinitivo" : "zapear",
+	"participio" : [ "zapeado" ],
+	"gerundio" : [ "zapeando" ],
+	"tenses" : {
+		"3" : [
+			[ "zapeo" ],
+			[ "zapeas", "zapeás" ],
+			[ "zapea" ],
+			[ "zapeamos" ],
+			[ "zapeáis", "zapean" ],
+			[ "zapean" ]
+		],
+		"4" : [
+			[ "zapeé" ],
+			[ "zapeaste" ],
+			[ "zapeó" ],
+			[ "zapeamos" ],
+			[ "zapeasteis", "zapearon" ],
+			[ "zapearon" ]
+		],
+		"5" : [
+			[ "zapeaba" ],
+			[ "zapeabas" ],
+			[ "zapeaba" ],
+			[ "zapeábamos" ],
+			[ "zapeabais", "zapeaban" ],
+			[ "zapeaban" ]
+		],
+		"6" : [
+			[ "zapearía" ],
+			[ "zapearías" ],
+			[ "zapearía" ],
+			[ "zapearíamos" ],
+			[ "zapearíais", "zapearían" ],
+			[ "zapearían" ]
+		],
+		"7" : [
+			[ "zapearé" ],
+			[ "zapearás" ],
+			[ "zapeará" ],
+			[ "zapearemos" ],
+			[ "zapearéis", "zapearán" ],
+			[ "zapearán" ]
+		],
+		"8" : [
+			[ "zapee" ],
+			[ "zapees" ],
+			[ "zapee" ],
+			[ "zapeemos" ],
+			[ "zapeéis", "zapeen" ],
+			[ "zapeen" ]
+		],
+		"9" : [
+			[ "zapeara" ],
+			[ "zapearas" ],
+			[ "zapeara" ],
+			[ "zapeáramos" ],
+			[ "zapearais", "zapearan" ],
+			[ "zapearan" ]
+		],
+		"10" : [
+			[ "zapease" ],
+			[ "zapeases" ],
+			[ "zapease" ],
+			[ "zapeásemos" ],
+			[ "zapeaseis", "zapeasen" ],
+			[ "zapeasen" ]
+		],
+		"11" : [
+			[ "zapeare" ],
+			[ "zapeares" ],
+			[ "zapeare" ],
+			[ "zapeáremos" ],
+			[ "zapeareis", "zapearen" ],
+			[ "zapearen" ]
+		],
+		"12" : {
+			"1" : [ "zapea" ],
+			"2" : [ "zapee" ],
+			"3" : [ "zapeemos" ],
+			"4" : [ "zapead" ],
+			"5" : [ "zapeen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comprar",
+	"word" : "comprar",
+	"infinitivo" : "comprar",
+	"participio" : [ "comprado" ],
+	"gerundio" : [ "comprando" ],
+	"tenses" : {
+		"3" : [
+			[ "compro" ],
+			[ "compras", "comprás" ],
+			[ "compra" ],
+			[ "compramos" ],
+			[ "compráis", "compran" ],
+			[ "compran" ]
+		],
+		"4" : [
+			[ "compré" ],
+			[ "compraste" ],
+			[ "compró" ],
+			[ "compramos" ],
+			[ "comprasteis", "compraron" ],
+			[ "compraron" ]
+		],
+		"5" : [
+			[ "compraba" ],
+			[ "comprabas" ],
+			[ "compraba" ],
+			[ "comprábamos" ],
+			[ "comprabais", "compraban" ],
+			[ "compraban" ]
+		],
+		"6" : [
+			[ "compraría" ],
+			[ "comprarías" ],
+			[ "compraría" ],
+			[ "compraríamos" ],
+			[ "compraríais", "comprarían" ],
+			[ "comprarían" ]
+		],
+		"7" : [
+			[ "compraré" ],
+			[ "comprarás" ],
+			[ "comprará" ],
+			[ "compraremos" ],
+			[ "compraréis", "comprarán" ],
+			[ "comprarán" ]
+		],
+		"8" : [
+			[ "compre" ],
+			[ "compres" ],
+			[ "compre" ],
+			[ "compremos" ],
+			[ "compréis", "compren" ],
+			[ "compren" ]
+		],
+		"9" : [
+			[ "comprara" ],
+			[ "compraras" ],
+			[ "comprara" ],
+			[ "compráramos" ],
+			[ "comprarais", "compraran" ],
+			[ "compraran" ]
+		],
+		"10" : [
+			[ "comprase" ],
+			[ "comprases" ],
+			[ "comprase" ],
+			[ "comprásemos" ],
+			[ "compraseis", "comprasen" ],
+			[ "comprasen" ]
+		],
+		"11" : [
+			[ "comprare" ],
+			[ "comprares" ],
+			[ "comprare" ],
+			[ "compráremos" ],
+			[ "comprareis", "compraren" ],
+			[ "compraren" ]
+		],
+		"12" : {
+			"1" : [ "compra" ],
+			"2" : [ "compre" ],
+			"3" : [ "compremos" ],
+			"4" : [ "comprad" ],
+			"5" : [ "compren" ]
+		}
+	}
+}

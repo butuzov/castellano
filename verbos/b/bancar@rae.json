@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bancar",
+	"word" : "bancar",
+	"infinitivo" : "bancar",
+	"participio" : [ "bancado" ],
+	"gerundio" : [ "bancando" ],
+	"tenses" : {
+		"3" : [
+			[ "banco" ],
+			[ "bancas", "bancás" ],
+			[ "banca" ],
+			[ "bancamos" ],
+			[ "bancáis", "bancan" ],
+			[ "bancan" ]
+		],
+		"4" : [
+			[ "banqué" ],
+			[ "bancaste" ],
+			[ "bancó" ],
+			[ "bancamos" ],
+			[ "bancasteis", "bancaron" ],
+			[ "bancaron" ]
+		],
+		"5" : [
+			[ "bancaba" ],
+			[ "bancabas" ],
+			[ "bancaba" ],
+			[ "bancábamos" ],
+			[ "bancabais", "bancaban" ],
+			[ "bancaban" ]
+		],
+		"6" : [
+			[ "bancaría" ],
+			[ "bancarías" ],
+			[ "bancaría" ],
+			[ "bancaríamos" ],
+			[ "bancaríais", "bancarían" ],
+			[ "bancarían" ]
+		],
+		"7" : [
+			[ "bancaré" ],
+			[ "bancarás" ],
+			[ "bancará" ],
+			[ "bancaremos" ],
+			[ "bancaréis", "bancarán" ],
+			[ "bancarán" ]
+		],
+		"8" : [
+			[ "banque" ],
+			[ "banques" ],
+			[ "banque" ],
+			[ "banquemos" ],
+			[ "banquéis", "banquen" ],
+			[ "banquen" ]
+		],
+		"9" : [
+			[ "bancara" ],
+			[ "bancaras" ],
+			[ "bancara" ],
+			[ "bancáramos" ],
+			[ "bancarais", "bancaran" ],
+			[ "bancaran" ]
+		],
+		"10" : [
+			[ "bancase" ],
+			[ "bancases" ],
+			[ "bancase" ],
+			[ "bancásemos" ],
+			[ "bancaseis", "bancasen" ],
+			[ "bancasen" ]
+		],
+		"11" : [
+			[ "bancare" ],
+			[ "bancares" ],
+			[ "bancare" ],
+			[ "bancáremos" ],
+			[ "bancareis", "bancaren" ],
+			[ "bancaren" ]
+		],
+		"12" : {
+			"1" : [ "banca" ],
+			"2" : [ "banque" ],
+			"3" : [ "banquemos" ],
+			"4" : [ "bancad" ],
+			"5" : [ "banquen" ]
+		}
+	}
+}

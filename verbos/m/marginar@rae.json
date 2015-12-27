@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=marginar",
+	"word" : "marginar",
+	"infinitivo" : "marginar",
+	"participio" : [ "marginado" ],
+	"gerundio" : [ "marginando" ],
+	"tenses" : {
+		"3" : [
+			[ "margino" ],
+			[ "marginas", "marginás" ],
+			[ "margina" ],
+			[ "marginamos" ],
+			[ "margináis", "marginan" ],
+			[ "marginan" ]
+		],
+		"4" : [
+			[ "marginé" ],
+			[ "marginaste" ],
+			[ "marginó" ],
+			[ "marginamos" ],
+			[ "marginasteis", "marginaron" ],
+			[ "marginaron" ]
+		],
+		"5" : [
+			[ "marginaba" ],
+			[ "marginabas" ],
+			[ "marginaba" ],
+			[ "marginábamos" ],
+			[ "marginabais", "marginaban" ],
+			[ "marginaban" ]
+		],
+		"6" : [
+			[ "marginaría" ],
+			[ "marginarías" ],
+			[ "marginaría" ],
+			[ "marginaríamos" ],
+			[ "marginaríais", "marginarían" ],
+			[ "marginarían" ]
+		],
+		"7" : [
+			[ "marginaré" ],
+			[ "marginarás" ],
+			[ "marginará" ],
+			[ "marginaremos" ],
+			[ "marginaréis", "marginarán" ],
+			[ "marginarán" ]
+		],
+		"8" : [
+			[ "margine" ],
+			[ "margines" ],
+			[ "margine" ],
+			[ "marginemos" ],
+			[ "marginéis", "marginen" ],
+			[ "marginen" ]
+		],
+		"9" : [
+			[ "marginara" ],
+			[ "marginaras" ],
+			[ "marginara" ],
+			[ "margináramos" ],
+			[ "marginarais", "marginaran" ],
+			[ "marginaran" ]
+		],
+		"10" : [
+			[ "marginase" ],
+			[ "marginases" ],
+			[ "marginase" ],
+			[ "marginásemos" ],
+			[ "marginaseis", "marginasen" ],
+			[ "marginasen" ]
+		],
+		"11" : [
+			[ "marginare" ],
+			[ "marginares" ],
+			[ "marginare" ],
+			[ "margináremos" ],
+			[ "marginareis", "marginaren" ],
+			[ "marginaren" ]
+		],
+		"12" : {
+			"1" : [ "margina" ],
+			"2" : [ "margine" ],
+			"3" : [ "marginemos" ],
+			"4" : [ "marginad" ],
+			"5" : [ "marginen" ]
+		}
+	}
+}

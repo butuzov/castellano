@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mangar",
+	"word" : "mangar",
+	"infinitivo" : "mangar",
+	"participio" : [ "mangado" ],
+	"gerundio" : [ "mangando" ],
+	"tenses" : {
+		"3" : [
+			[ "mango" ],
+			[ "mangas", "mangás" ],
+			[ "manga" ],
+			[ "mangamos" ],
+			[ "mangáis", "mangan" ],
+			[ "mangan" ]
+		],
+		"4" : [
+			[ "mangué" ],
+			[ "mangaste" ],
+			[ "mangó" ],
+			[ "mangamos" ],
+			[ "mangasteis", "mangaron" ],
+			[ "mangaron" ]
+		],
+		"5" : [
+			[ "mangaba" ],
+			[ "mangabas" ],
+			[ "mangaba" ],
+			[ "mangábamos" ],
+			[ "mangabais", "mangaban" ],
+			[ "mangaban" ]
+		],
+		"6" : [
+			[ "mangaría" ],
+			[ "mangarías" ],
+			[ "mangaría" ],
+			[ "mangaríamos" ],
+			[ "mangaríais", "mangarían" ],
+			[ "mangarían" ]
+		],
+		"7" : [
+			[ "mangaré" ],
+			[ "mangarás" ],
+			[ "mangará" ],
+			[ "mangaremos" ],
+			[ "mangaréis", "mangarán" ],
+			[ "mangarán" ]
+		],
+		"8" : [
+			[ "mangue" ],
+			[ "mangues" ],
+			[ "mangue" ],
+			[ "manguemos" ],
+			[ "manguéis", "manguen" ],
+			[ "manguen" ]
+		],
+		"9" : [
+			[ "mangara" ],
+			[ "mangaras" ],
+			[ "mangara" ],
+			[ "mangáramos" ],
+			[ "mangarais", "mangaran" ],
+			[ "mangaran" ]
+		],
+		"10" : [
+			[ "mangase" ],
+			[ "mangases" ],
+			[ "mangase" ],
+			[ "mangásemos" ],
+			[ "mangaseis", "mangasen" ],
+			[ "mangasen" ]
+		],
+		"11" : [
+			[ "mangare" ],
+			[ "mangares" ],
+			[ "mangare" ],
+			[ "mangáremos" ],
+			[ "mangareis", "mangaren" ],
+			[ "mangaren" ]
+		],
+		"12" : {
+			"1" : [ "manga" ],
+			"2" : [ "mangue" ],
+			"3" : [ "manguemos" ],
+			"4" : [ "mangad" ],
+			"5" : [ "manguen" ]
+		}
+	}
+}

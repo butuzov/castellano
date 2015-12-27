@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resarcir",
+	"word" : "resarcir",
+	"infinitivo" : "resarcir",
+	"participio" : [ "resarcido" ],
+	"gerundio" : [ "resarciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "resarzo" ],
+			[ "resarces", "resarcís" ],
+			[ "resarce" ],
+			[ "resarcimos" ],
+			[ "resarcís", "resarcen" ],
+			[ "resarcen" ]
+		],
+		"4" : [
+			[ "resarcí" ],
+			[ "resarciste" ],
+			[ "resarció" ],
+			[ "resarcimos" ],
+			[ "resarcisteis", "resarcieron" ],
+			[ "resarcieron" ]
+		],
+		"5" : [
+			[ "resarcía" ],
+			[ "resarcías" ],
+			[ "resarcía" ],
+			[ "resarcíamos" ],
+			[ "resarcíais", "resarcían" ],
+			[ "resarcían" ]
+		],
+		"6" : [
+			[ "resarciría" ],
+			[ "resarcirías" ],
+			[ "resarciría" ],
+			[ "resarciríamos" ],
+			[ "resarciríais", "resarcirían" ],
+			[ "resarcirían" ]
+		],
+		"7" : [
+			[ "resarciré" ],
+			[ "resarcirás" ],
+			[ "resarcirá" ],
+			[ "resarciremos" ],
+			[ "resarciréis", "resarcirán" ],
+			[ "resarcirán" ]
+		],
+		"8" : [
+			[ "resarza" ],
+			[ "resarzas" ],
+			[ "resarza" ],
+			[ "resarzamos" ],
+			[ "resarzáis", "resarzan" ],
+			[ "resarzan" ]
+		],
+		"9" : [
+			[ "resarciera" ],
+			[ "resarcieras" ],
+			[ "resarciera" ],
+			[ "resarciéramos" ],
+			[ "resarcierais", "resarcieran" ],
+			[ "resarcieran" ]
+		],
+		"10" : [
+			[ "resarciese" ],
+			[ "resarcieses" ],
+			[ "resarciese" ],
+			[ "resarciésemos" ],
+			[ "resarcieseis", "resarciesen" ],
+			[ "resarciesen" ]
+		],
+		"11" : [
+			[ "resarciere" ],
+			[ "resarcieres" ],
+			[ "resarciere" ],
+			[ "resarciéremos" ],
+			[ "resarciereis", "resarcieren" ],
+			[ "resarcieren" ]
+		],
+		"12" : {
+			"1" : [ "resarce" ],
+			"2" : [ "resarza" ],
+			"3" : [ "resarzamos" ],
+			"4" : [ "resarcid" ],
+			"5" : [ "resarzan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrastrar",
+	"word" : "arrastrar",
+	"infinitivo" : "arrastrar",
+	"participio" : [ "arrastrado" ],
+	"gerundio" : [ "arrastrando" ],
+	"tenses" : {
+		"3" : [
+			[ "arrastro" ],
+			[ "arrastras", "arrastrás" ],
+			[ "arrastra" ],
+			[ "arrastramos" ],
+			[ "arrastráis", "arrastran" ],
+			[ "arrastran" ]
+		],
+		"4" : [
+			[ "arrastré" ],
+			[ "arrastraste" ],
+			[ "arrastró" ],
+			[ "arrastramos" ],
+			[ "arrastrasteis", "arrastraron" ],
+			[ "arrastraron" ]
+		],
+		"5" : [
+			[ "arrastraba" ],
+			[ "arrastrabas" ],
+			[ "arrastraba" ],
+			[ "arrastrábamos" ],
+			[ "arrastrabais", "arrastraban" ],
+			[ "arrastraban" ]
+		],
+		"6" : [
+			[ "arrastraría" ],
+			[ "arrastrarías" ],
+			[ "arrastraría" ],
+			[ "arrastraríamos" ],
+			[ "arrastraríais", "arrastrarían" ],
+			[ "arrastrarían" ]
+		],
+		"7" : [
+			[ "arrastraré" ],
+			[ "arrastrarás" ],
+			[ "arrastrará" ],
+			[ "arrastraremos" ],
+			[ "arrastraréis", "arrastrarán" ],
+			[ "arrastrarán" ]
+		],
+		"8" : [
+			[ "arrastre" ],
+			[ "arrastres" ],
+			[ "arrastre" ],
+			[ "arrastremos" ],
+			[ "arrastréis", "arrastren" ],
+			[ "arrastren" ]
+		],
+		"9" : [
+			[ "arrastrara" ],
+			[ "arrastraras" ],
+			[ "arrastrara" ],
+			[ "arrastráramos" ],
+			[ "arrastrarais", "arrastraran" ],
+			[ "arrastraran" ]
+		],
+		"10" : [
+			[ "arrastrase" ],
+			[ "arrastrases" ],
+			[ "arrastrase" ],
+			[ "arrastrásemos" ],
+			[ "arrastraseis", "arrastrasen" ],
+			[ "arrastrasen" ]
+		],
+		"11" : [
+			[ "arrastrare" ],
+			[ "arrastrares" ],
+			[ "arrastrare" ],
+			[ "arrastráremos" ],
+			[ "arrastrareis", "arrastraren" ],
+			[ "arrastraren" ]
+		],
+		"12" : {
+			"1" : [ "arrastra" ],
+			"2" : [ "arrastre" ],
+			"3" : [ "arrastremos" ],
+			"4" : [ "arrastrad" ],
+			"5" : [ "arrastren" ]
+		}
+	}
+}

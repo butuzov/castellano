@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=respectar",
+	"word" : "respectar",
+	"infinitivo" : "respectar",
+	"participio" : [ "respectado" ],
+	"gerundio" : [ "respectando" ],
+	"tenses" : {
+		"3" : [
+			[ "respecto" ],
+			[ "respectas", "respectás" ],
+			[ "respecta" ],
+			[ "respectamos" ],
+			[ "respectáis", "respectan" ],
+			[ "respectan" ]
+		],
+		"4" : [
+			[ "respecté" ],
+			[ "respectaste" ],
+			[ "respectó" ],
+			[ "respectamos" ],
+			[ "respectasteis", "respectaron" ],
+			[ "respectaron" ]
+		],
+		"5" : [
+			[ "respectaba" ],
+			[ "respectabas" ],
+			[ "respectaba" ],
+			[ "respectábamos" ],
+			[ "respectabais", "respectaban" ],
+			[ "respectaban" ]
+		],
+		"6" : [
+			[ "respectaría" ],
+			[ "respectarías" ],
+			[ "respectaría" ],
+			[ "respectaríamos" ],
+			[ "respectaríais", "respectarían" ],
+			[ "respectarían" ]
+		],
+		"7" : [
+			[ "respectaré" ],
+			[ "respectarás" ],
+			[ "respectará" ],
+			[ "respectaremos" ],
+			[ "respectaréis", "respectarán" ],
+			[ "respectarán" ]
+		],
+		"8" : [
+			[ "respecte" ],
+			[ "respectes" ],
+			[ "respecte" ],
+			[ "respectemos" ],
+			[ "respectéis", "respecten" ],
+			[ "respecten" ]
+		],
+		"9" : [
+			[ "respectara" ],
+			[ "respectaras" ],
+			[ "respectara" ],
+			[ "respectáramos" ],
+			[ "respectarais", "respectaran" ],
+			[ "respectaran" ]
+		],
+		"10" : [
+			[ "respectase" ],
+			[ "respectases" ],
+			[ "respectase" ],
+			[ "respectásemos" ],
+			[ "respectaseis", "respectasen" ],
+			[ "respectasen" ]
+		],
+		"11" : [
+			[ "respectare" ],
+			[ "respectares" ],
+			[ "respectare" ],
+			[ "respectáremos" ],
+			[ "respectareis", "respectaren" ],
+			[ "respectaren" ]
+		],
+		"12" : {
+			"1" : [ "respecta" ],
+			"2" : [ "respecte" ],
+			"3" : [ "respectemos" ],
+			"4" : [ "respectad" ],
+			"5" : [ "respecten" ]
+		}
+	}
+}

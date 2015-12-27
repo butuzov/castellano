@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cosechar",
+	"word" : "cosechar",
+	"infinitivo" : "cosechar",
+	"participio" : [ "cosechado" ],
+	"gerundio" : [ "cosechando" ],
+	"tenses" : {
+		"3" : [
+			[ "cosecho" ],
+			[ "cosechas", "cosechás" ],
+			[ "cosecha" ],
+			[ "cosechamos" ],
+			[ "cosecháis", "cosechan" ],
+			[ "cosechan" ]
+		],
+		"4" : [
+			[ "coseché" ],
+			[ "cosechaste" ],
+			[ "cosechó" ],
+			[ "cosechamos" ],
+			[ "cosechasteis", "cosecharon" ],
+			[ "cosecharon" ]
+		],
+		"5" : [
+			[ "cosechaba" ],
+			[ "cosechabas" ],
+			[ "cosechaba" ],
+			[ "cosechábamos" ],
+			[ "cosechabais", "cosechaban" ],
+			[ "cosechaban" ]
+		],
+		"6" : [
+			[ "cosecharía" ],
+			[ "cosecharías" ],
+			[ "cosecharía" ],
+			[ "cosecharíamos" ],
+			[ "cosecharíais", "cosecharían" ],
+			[ "cosecharían" ]
+		],
+		"7" : [
+			[ "cosecharé" ],
+			[ "cosecharás" ],
+			[ "cosechará" ],
+			[ "cosecharemos" ],
+			[ "cosecharéis", "cosecharán" ],
+			[ "cosecharán" ]
+		],
+		"8" : [
+			[ "coseche" ],
+			[ "coseches" ],
+			[ "coseche" ],
+			[ "cosechemos" ],
+			[ "cosechéis", "cosechen" ],
+			[ "cosechen" ]
+		],
+		"9" : [
+			[ "cosechara" ],
+			[ "cosecharas" ],
+			[ "cosechara" ],
+			[ "cosecháramos" ],
+			[ "cosecharais", "cosecharan" ],
+			[ "cosecharan" ]
+		],
+		"10" : [
+			[ "cosechase" ],
+			[ "cosechases" ],
+			[ "cosechase" ],
+			[ "cosechásemos" ],
+			[ "cosechaseis", "cosechasen" ],
+			[ "cosechasen" ]
+		],
+		"11" : [
+			[ "cosechare" ],
+			[ "cosechares" ],
+			[ "cosechare" ],
+			[ "cosecháremos" ],
+			[ "cosechareis", "cosecharen" ],
+			[ "cosecharen" ]
+		],
+		"12" : {
+			"1" : [ "cosecha" ],
+			"2" : [ "coseche" ],
+			"3" : [ "cosechemos" ],
+			"4" : [ "cosechad" ],
+			"5" : [ "cosechen" ]
+		}
+	}
+}

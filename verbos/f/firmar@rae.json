@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=firmar",
+	"word" : "firmar",
+	"infinitivo" : "firmar",
+	"participio" : [ "firmado" ],
+	"gerundio" : [ "firmando" ],
+	"tenses" : {
+		"3" : [
+			[ "firmo" ],
+			[ "firmas", "firmás" ],
+			[ "firma" ],
+			[ "firmamos" ],
+			[ "firmáis", "firman" ],
+			[ "firman" ]
+		],
+		"4" : [
+			[ "firmé" ],
+			[ "firmaste" ],
+			[ "firmó" ],
+			[ "firmamos" ],
+			[ "firmasteis", "firmaron" ],
+			[ "firmaron" ]
+		],
+		"5" : [
+			[ "firmaba" ],
+			[ "firmabas" ],
+			[ "firmaba" ],
+			[ "firmábamos" ],
+			[ "firmabais", "firmaban" ],
+			[ "firmaban" ]
+		],
+		"6" : [
+			[ "firmaría" ],
+			[ "firmarías" ],
+			[ "firmaría" ],
+			[ "firmaríamos" ],
+			[ "firmaríais", "firmarían" ],
+			[ "firmarían" ]
+		],
+		"7" : [
+			[ "firmaré" ],
+			[ "firmarás" ],
+			[ "firmará" ],
+			[ "firmaremos" ],
+			[ "firmaréis", "firmarán" ],
+			[ "firmarán" ]
+		],
+		"8" : [
+			[ "firme" ],
+			[ "firmes" ],
+			[ "firme" ],
+			[ "firmemos" ],
+			[ "firméis", "firmen" ],
+			[ "firmen" ]
+		],
+		"9" : [
+			[ "firmara" ],
+			[ "firmaras" ],
+			[ "firmara" ],
+			[ "firmáramos" ],
+			[ "firmarais", "firmaran" ],
+			[ "firmaran" ]
+		],
+		"10" : [
+			[ "firmase" ],
+			[ "firmases" ],
+			[ "firmase" ],
+			[ "firmásemos" ],
+			[ "firmaseis", "firmasen" ],
+			[ "firmasen" ]
+		],
+		"11" : [
+			[ "firmare" ],
+			[ "firmares" ],
+			[ "firmare" ],
+			[ "firmáremos" ],
+			[ "firmareis", "firmaren" ],
+			[ "firmaren" ]
+		],
+		"12" : {
+			"1" : [ "firma" ],
+			"2" : [ "firme" ],
+			"3" : [ "firmemos" ],
+			"4" : [ "firmad" ],
+			"5" : [ "firmen" ]
+		}
+	}
+}

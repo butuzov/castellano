@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=santificar",
+	"word" : "santificar",
+	"infinitivo" : "santificar",
+	"participio" : [ "santificado" ],
+	"gerundio" : [ "santificando" ],
+	"tenses" : {
+		"3" : [
+			[ "santifico" ],
+			[ "santificas", "santificás" ],
+			[ "santifica" ],
+			[ "santificamos" ],
+			[ "santificáis", "santifican" ],
+			[ "santifican" ]
+		],
+		"4" : [
+			[ "santifiqué" ],
+			[ "santificaste" ],
+			[ "santificó" ],
+			[ "santificamos" ],
+			[ "santificasteis", "santificaron" ],
+			[ "santificaron" ]
+		],
+		"5" : [
+			[ "santificaba" ],
+			[ "santificabas" ],
+			[ "santificaba" ],
+			[ "santificábamos" ],
+			[ "santificabais", "santificaban" ],
+			[ "santificaban" ]
+		],
+		"6" : [
+			[ "santificaría" ],
+			[ "santificarías" ],
+			[ "santificaría" ],
+			[ "santificaríamos" ],
+			[ "santificaríais", "santificarían" ],
+			[ "santificarían" ]
+		],
+		"7" : [
+			[ "santificaré" ],
+			[ "santificarás" ],
+			[ "santificará" ],
+			[ "santificaremos" ],
+			[ "santificaréis", "santificarán" ],
+			[ "santificarán" ]
+		],
+		"8" : [
+			[ "santifique" ],
+			[ "santifiques" ],
+			[ "santifique" ],
+			[ "santifiquemos" ],
+			[ "santifiquéis", "santifiquen" ],
+			[ "santifiquen" ]
+		],
+		"9" : [
+			[ "santificara" ],
+			[ "santificaras" ],
+			[ "santificara" ],
+			[ "santificáramos" ],
+			[ "santificarais", "santificaran" ],
+			[ "santificaran" ]
+		],
+		"10" : [
+			[ "santificase" ],
+			[ "santificases" ],
+			[ "santificase" ],
+			[ "santificásemos" ],
+			[ "santificaseis", "santificasen" ],
+			[ "santificasen" ]
+		],
+		"11" : [
+			[ "santificare" ],
+			[ "santificares" ],
+			[ "santificare" ],
+			[ "santificáremos" ],
+			[ "santificareis", "santificaren" ],
+			[ "santificaren" ]
+		],
+		"12" : {
+			"1" : [ "santifica" ],
+			"2" : [ "santifique" ],
+			"3" : [ "santifiquemos" ],
+			"4" : [ "santificad" ],
+			"5" : [ "santifiquen" ]
+		}
+	}
+}

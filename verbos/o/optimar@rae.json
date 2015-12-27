@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=optimar",
+	"word" : "optimar",
+	"infinitivo" : "optimar",
+	"participio" : [ "optimado" ],
+	"gerundio" : [ "optimando" ],
+	"tenses" : {
+		"3" : [
+			[ "optimo" ],
+			[ "optimas", "optimás" ],
+			[ "optima" ],
+			[ "optimamos" ],
+			[ "optimáis", "optiman" ],
+			[ "optiman" ]
+		],
+		"4" : [
+			[ "optimé" ],
+			[ "optimaste" ],
+			[ "optimó" ],
+			[ "optimamos" ],
+			[ "optimasteis", "optimaron" ],
+			[ "optimaron" ]
+		],
+		"5" : [
+			[ "optimaba" ],
+			[ "optimabas" ],
+			[ "optimaba" ],
+			[ "optimábamos" ],
+			[ "optimabais", "optimaban" ],
+			[ "optimaban" ]
+		],
+		"6" : [
+			[ "optimaría" ],
+			[ "optimarías" ],
+			[ "optimaría" ],
+			[ "optimaríamos" ],
+			[ "optimaríais", "optimarían" ],
+			[ "optimarían" ]
+		],
+		"7" : [
+			[ "optimaré" ],
+			[ "optimarás" ],
+			[ "optimará" ],
+			[ "optimaremos" ],
+			[ "optimaréis", "optimarán" ],
+			[ "optimarán" ]
+		],
+		"8" : [
+			[ "optime" ],
+			[ "optimes" ],
+			[ "optime" ],
+			[ "optimemos" ],
+			[ "optiméis", "optimen" ],
+			[ "optimen" ]
+		],
+		"9" : [
+			[ "optimara" ],
+			[ "optimaras" ],
+			[ "optimara" ],
+			[ "optimáramos" ],
+			[ "optimarais", "optimaran" ],
+			[ "optimaran" ]
+		],
+		"10" : [
+			[ "optimase" ],
+			[ "optimases" ],
+			[ "optimase" ],
+			[ "optimásemos" ],
+			[ "optimaseis", "optimasen" ],
+			[ "optimasen" ]
+		],
+		"11" : [
+			[ "optimare" ],
+			[ "optimares" ],
+			[ "optimare" ],
+			[ "optimáremos" ],
+			[ "optimareis", "optimaren" ],
+			[ "optimaren" ]
+		],
+		"12" : {
+			"1" : [ "optima" ],
+			"2" : [ "optime" ],
+			"3" : [ "optimemos" ],
+			"4" : [ "optimad" ],
+			"5" : [ "optimen" ]
+		}
+	}
+}

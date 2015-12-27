@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=maliciar",
+	"word" : "maliciar",
+	"infinitivo" : "maliciar",
+	"participio" : [ "maliciado" ],
+	"gerundio" : [ "maliciando" ],
+	"tenses" : {
+		"3" : [
+			[ "malicio" ],
+			[ "malicias", "maliciás" ],
+			[ "malicia" ],
+			[ "maliciamos" ],
+			[ "maliciáis", "malician" ],
+			[ "malician" ]
+		],
+		"4" : [
+			[ "malicié" ],
+			[ "maliciaste" ],
+			[ "malició" ],
+			[ "maliciamos" ],
+			[ "maliciasteis", "maliciaron" ],
+			[ "maliciaron" ]
+		],
+		"5" : [
+			[ "maliciaba" ],
+			[ "maliciabas" ],
+			[ "maliciaba" ],
+			[ "maliciábamos" ],
+			[ "maliciabais", "maliciaban" ],
+			[ "maliciaban" ]
+		],
+		"6" : [
+			[ "maliciaría" ],
+			[ "maliciarías" ],
+			[ "maliciaría" ],
+			[ "maliciaríamos" ],
+			[ "maliciaríais", "maliciarían" ],
+			[ "maliciarían" ]
+		],
+		"7" : [
+			[ "maliciaré" ],
+			[ "maliciarás" ],
+			[ "maliciará" ],
+			[ "maliciaremos" ],
+			[ "maliciaréis", "maliciarán" ],
+			[ "maliciarán" ]
+		],
+		"8" : [
+			[ "malicie" ],
+			[ "malicies" ],
+			[ "malicie" ],
+			[ "maliciemos" ],
+			[ "maliciéis", "malicien" ],
+			[ "malicien" ]
+		],
+		"9" : [
+			[ "maliciara" ],
+			[ "maliciaras" ],
+			[ "maliciara" ],
+			[ "maliciáramos" ],
+			[ "maliciarais", "maliciaran" ],
+			[ "maliciaran" ]
+		],
+		"10" : [
+			[ "maliciase" ],
+			[ "maliciases" ],
+			[ "maliciase" ],
+			[ "maliciásemos" ],
+			[ "maliciaseis", "maliciasen" ],
+			[ "maliciasen" ]
+		],
+		"11" : [
+			[ "maliciare" ],
+			[ "maliciares" ],
+			[ "maliciare" ],
+			[ "maliciáremos" ],
+			[ "maliciareis", "maliciaren" ],
+			[ "maliciaren" ]
+		],
+		"12" : {
+			"1" : [ "malicia" ],
+			"2" : [ "malicie" ],
+			"3" : [ "maliciemos" ],
+			"4" : [ "maliciad" ],
+			"5" : [ "malicien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aullar",
+	"word" : "aullar",
+	"infinitivo" : "aullar",
+	"participio" : [ "aullado" ],
+	"gerundio" : [ "aullando" ],
+	"tenses" : {
+		"3" : [
+			[ "aúllo" ],
+			[ "aúllas", "aullás" ],
+			[ "aúlla" ],
+			[ "aullamos" ],
+			[ "aulláis", "aúllan" ],
+			[ "aúllan" ]
+		],
+		"4" : [
+			[ "aullé" ],
+			[ "aullaste" ],
+			[ "aulló" ],
+			[ "aullamos" ],
+			[ "aullasteis", "aullaron" ],
+			[ "aullaron" ]
+		],
+		"5" : [
+			[ "aullaba" ],
+			[ "aullabas" ],
+			[ "aullaba" ],
+			[ "aullábamos" ],
+			[ "aullabais", "aullaban" ],
+			[ "aullaban" ]
+		],
+		"6" : [
+			[ "aullaría" ],
+			[ "aullarías" ],
+			[ "aullaría" ],
+			[ "aullaríamos" ],
+			[ "aullaríais", "aullarían" ],
+			[ "aullarían" ]
+		],
+		"7" : [
+			[ "aullaré" ],
+			[ "aullarás" ],
+			[ "aullará" ],
+			[ "aullaremos" ],
+			[ "aullaréis", "aullarán" ],
+			[ "aullarán" ]
+		],
+		"8" : [
+			[ "aúlle" ],
+			[ "aúlles" ],
+			[ "aúlle" ],
+			[ "aullemos" ],
+			[ "aulléis", "aúllen" ],
+			[ "aúllen" ]
+		],
+		"9" : [
+			[ "aullara" ],
+			[ "aullaras" ],
+			[ "aullara" ],
+			[ "aulláramos" ],
+			[ "aullarais", "aullaran" ],
+			[ "aullaran" ]
+		],
+		"10" : [
+			[ "aullase" ],
+			[ "aullases" ],
+			[ "aullase" ],
+			[ "aullásemos" ],
+			[ "aullaseis", "aullasen" ],
+			[ "aullasen" ]
+		],
+		"11" : [
+			[ "aullare" ],
+			[ "aullares" ],
+			[ "aullare" ],
+			[ "aulláremos" ],
+			[ "aullareis", "aullaren" ],
+			[ "aullaren" ]
+		],
+		"12" : {
+			"1" : [ "aúlla" ],
+			"2" : [ "aúlle" ],
+			"3" : [ "aullemos" ],
+			"4" : [ "aullad" ],
+			"5" : [ "aúllen" ]
+		}
+	}
+}

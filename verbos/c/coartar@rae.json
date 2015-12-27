@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=coartar",
+	"word" : "coartar",
+	"infinitivo" : "coartar",
+	"participio" : [ "coartado" ],
+	"gerundio" : [ "coartando" ],
+	"tenses" : {
+		"3" : [
+			[ "coarto" ],
+			[ "coartas", "coartás" ],
+			[ "coarta" ],
+			[ "coartamos" ],
+			[ "coartáis", "coartan" ],
+			[ "coartan" ]
+		],
+		"4" : [
+			[ "coarté" ],
+			[ "coartaste" ],
+			[ "coartó" ],
+			[ "coartamos" ],
+			[ "coartasteis", "coartaron" ],
+			[ "coartaron" ]
+		],
+		"5" : [
+			[ "coartaba" ],
+			[ "coartabas" ],
+			[ "coartaba" ],
+			[ "coartábamos" ],
+			[ "coartabais", "coartaban" ],
+			[ "coartaban" ]
+		],
+		"6" : [
+			[ "coartaría" ],
+			[ "coartarías" ],
+			[ "coartaría" ],
+			[ "coartaríamos" ],
+			[ "coartaríais", "coartarían" ],
+			[ "coartarían" ]
+		],
+		"7" : [
+			[ "coartaré" ],
+			[ "coartarás" ],
+			[ "coartará" ],
+			[ "coartaremos" ],
+			[ "coartaréis", "coartarán" ],
+			[ "coartarán" ]
+		],
+		"8" : [
+			[ "coarte" ],
+			[ "coartes" ],
+			[ "coarte" ],
+			[ "coartemos" ],
+			[ "coartéis", "coarten" ],
+			[ "coarten" ]
+		],
+		"9" : [
+			[ "coartara" ],
+			[ "coartaras" ],
+			[ "coartara" ],
+			[ "coartáramos" ],
+			[ "coartarais", "coartaran" ],
+			[ "coartaran" ]
+		],
+		"10" : [
+			[ "coartase" ],
+			[ "coartases" ],
+			[ "coartase" ],
+			[ "coartásemos" ],
+			[ "coartaseis", "coartasen" ],
+			[ "coartasen" ]
+		],
+		"11" : [
+			[ "coartare" ],
+			[ "coartares" ],
+			[ "coartare" ],
+			[ "coartáremos" ],
+			[ "coartareis", "coartaren" ],
+			[ "coartaren" ]
+		],
+		"12" : {
+			"1" : [ "coarta" ],
+			"2" : [ "coarte" ],
+			"3" : [ "coartemos" ],
+			"4" : [ "coartad" ],
+			"5" : [ "coarten" ]
+		}
+	}
+}

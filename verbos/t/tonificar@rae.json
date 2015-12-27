@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tonificar",
+	"word" : "tonificar",
+	"infinitivo" : "tonificar",
+	"participio" : [ "tonificado" ],
+	"gerundio" : [ "tonificando" ],
+	"tenses" : {
+		"3" : [
+			[ "tonifico" ],
+			[ "tonificas", "tonificás" ],
+			[ "tonifica" ],
+			[ "tonificamos" ],
+			[ "tonificáis", "tonifican" ],
+			[ "tonifican" ]
+		],
+		"4" : [
+			[ "tonifiqué" ],
+			[ "tonificaste" ],
+			[ "tonificó" ],
+			[ "tonificamos" ],
+			[ "tonificasteis", "tonificaron" ],
+			[ "tonificaron" ]
+		],
+		"5" : [
+			[ "tonificaba" ],
+			[ "tonificabas" ],
+			[ "tonificaba" ],
+			[ "tonificábamos" ],
+			[ "tonificabais", "tonificaban" ],
+			[ "tonificaban" ]
+		],
+		"6" : [
+			[ "tonificaría" ],
+			[ "tonificarías" ],
+			[ "tonificaría" ],
+			[ "tonificaríamos" ],
+			[ "tonificaríais", "tonificarían" ],
+			[ "tonificarían" ]
+		],
+		"7" : [
+			[ "tonificaré" ],
+			[ "tonificarás" ],
+			[ "tonificará" ],
+			[ "tonificaremos" ],
+			[ "tonificaréis", "tonificarán" ],
+			[ "tonificarán" ]
+		],
+		"8" : [
+			[ "tonifique" ],
+			[ "tonifiques" ],
+			[ "tonifique" ],
+			[ "tonifiquemos" ],
+			[ "tonifiquéis", "tonifiquen" ],
+			[ "tonifiquen" ]
+		],
+		"9" : [
+			[ "tonificara" ],
+			[ "tonificaras" ],
+			[ "tonificara" ],
+			[ "tonificáramos" ],
+			[ "tonificarais", "tonificaran" ],
+			[ "tonificaran" ]
+		],
+		"10" : [
+			[ "tonificase" ],
+			[ "tonificases" ],
+			[ "tonificase" ],
+			[ "tonificásemos" ],
+			[ "tonificaseis", "tonificasen" ],
+			[ "tonificasen" ]
+		],
+		"11" : [
+			[ "tonificare" ],
+			[ "tonificares" ],
+			[ "tonificare" ],
+			[ "tonificáremos" ],
+			[ "tonificareis", "tonificaren" ],
+			[ "tonificaren" ]
+		],
+		"12" : {
+			"1" : [ "tonifica" ],
+			"2" : [ "tonifique" ],
+			"3" : [ "tonifiquemos" ],
+			"4" : [ "tonificad" ],
+			"5" : [ "tonifiquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pasmar",
+	"word" : "pasmar",
+	"infinitivo" : "pasmar",
+	"participio" : [ "pasmado" ],
+	"gerundio" : [ "pasmando" ],
+	"tenses" : {
+		"3" : [
+			[ "pasmo" ],
+			[ "pasmas", "pasmás" ],
+			[ "pasma" ],
+			[ "pasmamos" ],
+			[ "pasmáis", "pasman" ],
+			[ "pasman" ]
+		],
+		"4" : [
+			[ "pasmé" ],
+			[ "pasmaste" ],
+			[ "pasmó" ],
+			[ "pasmamos" ],
+			[ "pasmasteis", "pasmaron" ],
+			[ "pasmaron" ]
+		],
+		"5" : [
+			[ "pasmaba" ],
+			[ "pasmabas" ],
+			[ "pasmaba" ],
+			[ "pasmábamos" ],
+			[ "pasmabais", "pasmaban" ],
+			[ "pasmaban" ]
+		],
+		"6" : [
+			[ "pasmaría" ],
+			[ "pasmarías" ],
+			[ "pasmaría" ],
+			[ "pasmaríamos" ],
+			[ "pasmaríais", "pasmarían" ],
+			[ "pasmarían" ]
+		],
+		"7" : [
+			[ "pasmaré" ],
+			[ "pasmarás" ],
+			[ "pasmará" ],
+			[ "pasmaremos" ],
+			[ "pasmaréis", "pasmarán" ],
+			[ "pasmarán" ]
+		],
+		"8" : [
+			[ "pasme" ],
+			[ "pasmes" ],
+			[ "pasme" ],
+			[ "pasmemos" ],
+			[ "pasméis", "pasmen" ],
+			[ "pasmen" ]
+		],
+		"9" : [
+			[ "pasmara" ],
+			[ "pasmaras" ],
+			[ "pasmara" ],
+			[ "pasmáramos" ],
+			[ "pasmarais", "pasmaran" ],
+			[ "pasmaran" ]
+		],
+		"10" : [
+			[ "pasmase" ],
+			[ "pasmases" ],
+			[ "pasmase" ],
+			[ "pasmásemos" ],
+			[ "pasmaseis", "pasmasen" ],
+			[ "pasmasen" ]
+		],
+		"11" : [
+			[ "pasmare" ],
+			[ "pasmares" ],
+			[ "pasmare" ],
+			[ "pasmáremos" ],
+			[ "pasmareis", "pasmaren" ],
+			[ "pasmaren" ]
+		],
+		"12" : {
+			"1" : [ "pasma" ],
+			"2" : [ "pasme" ],
+			"3" : [ "pasmemos" ],
+			"4" : [ "pasmad" ],
+			"5" : [ "pasmen" ]
+		}
+	}
+}

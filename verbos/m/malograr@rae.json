@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=malograr",
+	"word" : "malograr",
+	"infinitivo" : "malograr",
+	"participio" : [ "malogrado" ],
+	"gerundio" : [ "malogrando" ],
+	"tenses" : {
+		"3" : [
+			[ "malogro" ],
+			[ "malogras", "malográs" ],
+			[ "malogra" ],
+			[ "malogramos" ],
+			[ "malográis", "malogran" ],
+			[ "malogran" ]
+		],
+		"4" : [
+			[ "malogré" ],
+			[ "malograste" ],
+			[ "malogró" ],
+			[ "malogramos" ],
+			[ "malograsteis", "malograron" ],
+			[ "malograron" ]
+		],
+		"5" : [
+			[ "malograba" ],
+			[ "malograbas" ],
+			[ "malograba" ],
+			[ "malográbamos" ],
+			[ "malograbais", "malograban" ],
+			[ "malograban" ]
+		],
+		"6" : [
+			[ "malograría" ],
+			[ "malograrías" ],
+			[ "malograría" ],
+			[ "malograríamos" ],
+			[ "malograríais", "malograrían" ],
+			[ "malograrían" ]
+		],
+		"7" : [
+			[ "malograré" ],
+			[ "malograrás" ],
+			[ "malogrará" ],
+			[ "malograremos" ],
+			[ "malograréis", "malograrán" ],
+			[ "malograrán" ]
+		],
+		"8" : [
+			[ "malogre" ],
+			[ "malogres" ],
+			[ "malogre" ],
+			[ "malogremos" ],
+			[ "malogréis", "malogren" ],
+			[ "malogren" ]
+		],
+		"9" : [
+			[ "malograra" ],
+			[ "malograras" ],
+			[ "malograra" ],
+			[ "malográramos" ],
+			[ "malograrais", "malograran" ],
+			[ "malograran" ]
+		],
+		"10" : [
+			[ "malograse" ],
+			[ "malograses" ],
+			[ "malograse" ],
+			[ "malográsemos" ],
+			[ "malograseis", "malograsen" ],
+			[ "malograsen" ]
+		],
+		"11" : [
+			[ "malograre" ],
+			[ "malograres" ],
+			[ "malograre" ],
+			[ "malográremos" ],
+			[ "malograreis", "malograren" ],
+			[ "malograren" ]
+		],
+		"12" : {
+			"1" : [ "malogra" ],
+			"2" : [ "malogre" ],
+			"3" : [ "malogremos" ],
+			"4" : [ "malograd" ],
+			"5" : [ "malogren" ]
+		}
+	}
+}

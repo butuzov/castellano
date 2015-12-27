@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=putear",
+	"word" : "putear",
+	"infinitivo" : "putear",
+	"participio" : [ "puteado" ],
+	"gerundio" : [ "puteando" ],
+	"tenses" : {
+		"3" : [
+			[ "puteo" ],
+			[ "puteas", "puteás" ],
+			[ "putea" ],
+			[ "puteamos" ],
+			[ "puteáis", "putean" ],
+			[ "putean" ]
+		],
+		"4" : [
+			[ "puteé" ],
+			[ "puteaste" ],
+			[ "puteó" ],
+			[ "puteamos" ],
+			[ "puteasteis", "putearon" ],
+			[ "putearon" ]
+		],
+		"5" : [
+			[ "puteaba" ],
+			[ "puteabas" ],
+			[ "puteaba" ],
+			[ "puteábamos" ],
+			[ "puteabais", "puteaban" ],
+			[ "puteaban" ]
+		],
+		"6" : [
+			[ "putearía" ],
+			[ "putearías" ],
+			[ "putearía" ],
+			[ "putearíamos" ],
+			[ "putearíais", "putearían" ],
+			[ "putearían" ]
+		],
+		"7" : [
+			[ "putearé" ],
+			[ "putearás" ],
+			[ "puteará" ],
+			[ "putearemos" ],
+			[ "putearéis", "putearán" ],
+			[ "putearán" ]
+		],
+		"8" : [
+			[ "putee" ],
+			[ "putees" ],
+			[ "putee" ],
+			[ "puteemos" ],
+			[ "puteéis", "puteen" ],
+			[ "puteen" ]
+		],
+		"9" : [
+			[ "puteara" ],
+			[ "putearas" ],
+			[ "puteara" ],
+			[ "puteáramos" ],
+			[ "putearais", "putearan" ],
+			[ "putearan" ]
+		],
+		"10" : [
+			[ "putease" ],
+			[ "puteases" ],
+			[ "putease" ],
+			[ "puteásemos" ],
+			[ "puteaseis", "puteasen" ],
+			[ "puteasen" ]
+		],
+		"11" : [
+			[ "puteare" ],
+			[ "puteares" ],
+			[ "puteare" ],
+			[ "puteáremos" ],
+			[ "puteareis", "putearen" ],
+			[ "putearen" ]
+		],
+		"12" : {
+			"1" : [ "putea" ],
+			"2" : [ "putee" ],
+			"3" : [ "puteemos" ],
+			"4" : [ "putead" ],
+			"5" : [ "puteen" ]
+		}
+	}
+}

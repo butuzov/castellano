@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agraviar",
+	"word" : "agraviar",
+	"infinitivo" : "agraviar",
+	"participio" : [ "agraviado" ],
+	"gerundio" : [ "agraviando" ],
+	"tenses" : {
+		"3" : [
+			[ "agravio" ],
+			[ "agravias", "agraviás" ],
+			[ "agravia" ],
+			[ "agraviamos" ],
+			[ "agraviáis", "agravian" ],
+			[ "agravian" ]
+		],
+		"4" : [
+			[ "agravié" ],
+			[ "agraviaste" ],
+			[ "agravió" ],
+			[ "agraviamos" ],
+			[ "agraviasteis", "agraviaron" ],
+			[ "agraviaron" ]
+		],
+		"5" : [
+			[ "agraviaba" ],
+			[ "agraviabas" ],
+			[ "agraviaba" ],
+			[ "agraviábamos" ],
+			[ "agraviabais", "agraviaban" ],
+			[ "agraviaban" ]
+		],
+		"6" : [
+			[ "agraviaría" ],
+			[ "agraviarías" ],
+			[ "agraviaría" ],
+			[ "agraviaríamos" ],
+			[ "agraviaríais", "agraviarían" ],
+			[ "agraviarían" ]
+		],
+		"7" : [
+			[ "agraviaré" ],
+			[ "agraviarás" ],
+			[ "agraviará" ],
+			[ "agraviaremos" ],
+			[ "agraviaréis", "agraviarán" ],
+			[ "agraviarán" ]
+		],
+		"8" : [
+			[ "agravie" ],
+			[ "agravies" ],
+			[ "agravie" ],
+			[ "agraviemos" ],
+			[ "agraviéis", "agravien" ],
+			[ "agravien" ]
+		],
+		"9" : [
+			[ "agraviara" ],
+			[ "agraviaras" ],
+			[ "agraviara" ],
+			[ "agraviáramos" ],
+			[ "agraviarais", "agraviaran" ],
+			[ "agraviaran" ]
+		],
+		"10" : [
+			[ "agraviase" ],
+			[ "agraviases" ],
+			[ "agraviase" ],
+			[ "agraviásemos" ],
+			[ "agraviaseis", "agraviasen" ],
+			[ "agraviasen" ]
+		],
+		"11" : [
+			[ "agraviare" ],
+			[ "agraviares" ],
+			[ "agraviare" ],
+			[ "agraviáremos" ],
+			[ "agraviareis", "agraviaren" ],
+			[ "agraviaren" ]
+		],
+		"12" : {
+			"1" : [ "agravia" ],
+			"2" : [ "agravie" ],
+			"3" : [ "agraviemos" ],
+			"4" : [ "agraviad" ],
+			"5" : [ "agravien" ]
+		}
+	}
+}

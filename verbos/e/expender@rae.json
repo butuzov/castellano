@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=expender",
+	"word" : "expender",
+	"infinitivo" : "expender",
+	"participio" : [ "expendido" ],
+	"gerundio" : [ "expendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "expendo" ],
+			[ "expendes", "expendés" ],
+			[ "expende" ],
+			[ "expendemos" ],
+			[ "expendéis", "expenden" ],
+			[ "expenden" ]
+		],
+		"4" : [
+			[ "expendí" ],
+			[ "expendiste" ],
+			[ "expendió" ],
+			[ "expendimos" ],
+			[ "expendisteis", "expendieron" ],
+			[ "expendieron" ]
+		],
+		"5" : [
+			[ "expendía" ],
+			[ "expendías" ],
+			[ "expendía" ],
+			[ "expendíamos" ],
+			[ "expendíais", "expendían" ],
+			[ "expendían" ]
+		],
+		"6" : [
+			[ "expendería" ],
+			[ "expenderías" ],
+			[ "expendería" ],
+			[ "expenderíamos" ],
+			[ "expenderíais", "expenderían" ],
+			[ "expenderían" ]
+		],
+		"7" : [
+			[ "expenderé" ],
+			[ "expenderás" ],
+			[ "expenderá" ],
+			[ "expenderemos" ],
+			[ "expenderéis", "expenderán" ],
+			[ "expenderán" ]
+		],
+		"8" : [
+			[ "expenda" ],
+			[ "expendas" ],
+			[ "expenda" ],
+			[ "expendamos" ],
+			[ "expendáis", "expendan" ],
+			[ "expendan" ]
+		],
+		"9" : [
+			[ "expendiera" ],
+			[ "expendieras" ],
+			[ "expendiera" ],
+			[ "expendiéramos" ],
+			[ "expendierais", "expendieran" ],
+			[ "expendieran" ]
+		],
+		"10" : [
+			[ "expendiese" ],
+			[ "expendieses" ],
+			[ "expendiese" ],
+			[ "expendiésemos" ],
+			[ "expendieseis", "expendiesen" ],
+			[ "expendiesen" ]
+		],
+		"11" : [
+			[ "expendiere" ],
+			[ "expendieres" ],
+			[ "expendiere" ],
+			[ "expendiéremos" ],
+			[ "expendiereis", "expendieren" ],
+			[ "expendieren" ]
+		],
+		"12" : {
+			"1" : [ "expende" ],
+			"2" : [ "expenda" ],
+			"3" : [ "expendamos" ],
+			"4" : [ "expended" ],
+			"5" : [ "expendan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=evacuar",
+	"word" : "evacuar",
+	"infinitivo" : "evacuar",
+	"participio" : [ "evacuado" ],
+	"gerundio" : [ "evacuando" ],
+	"tenses" : {
+		"3" : [
+			[ "evacuo" ],
+			[ "evacuas", "evacuás" ],
+			[ "evacua" ],
+			[ "evacuamos" ],
+			[ "evacuáis", "evacuan" ],
+			[ "evacuan" ]
+		],
+		"4" : [
+			[ "evacué" ],
+			[ "evacuaste" ],
+			[ "evacuó" ],
+			[ "evacuamos" ],
+			[ "evacuasteis", "evacuaron" ],
+			[ "evacuaron" ]
+		],
+		"5" : [
+			[ "evacuaba" ],
+			[ "evacuabas" ],
+			[ "evacuaba" ],
+			[ "evacuábamos" ],
+			[ "evacuabais", "evacuaban" ],
+			[ "evacuaban" ]
+		],
+		"6" : [
+			[ "evacuaría" ],
+			[ "evacuarías" ],
+			[ "evacuaría" ],
+			[ "evacuaríamos" ],
+			[ "evacuaríais", "evacuarían" ],
+			[ "evacuarían" ]
+		],
+		"7" : [
+			[ "evacuaré" ],
+			[ "evacuarás" ],
+			[ "evacuará" ],
+			[ "evacuaremos" ],
+			[ "evacuaréis", "evacuarán" ],
+			[ "evacuarán" ]
+		],
+		"8" : [
+			[ "evacue" ],
+			[ "evacues" ],
+			[ "evacue" ],
+			[ "evacuemos" ],
+			[ "evacuéis", "evacuen" ],
+			[ "evacuen" ]
+		],
+		"9" : [
+			[ "evacuara" ],
+			[ "evacuaras" ],
+			[ "evacuara" ],
+			[ "evacuáramos" ],
+			[ "evacuarais", "evacuaran" ],
+			[ "evacuaran" ]
+		],
+		"10" : [
+			[ "evacuase" ],
+			[ "evacuases" ],
+			[ "evacuase" ],
+			[ "evacuásemos" ],
+			[ "evacuaseis", "evacuasen" ],
+			[ "evacuasen" ]
+		],
+		"11" : [
+			[ "evacuare" ],
+			[ "evacuares" ],
+			[ "evacuare" ],
+			[ "evacuáremos" ],
+			[ "evacuareis", "evacuaren" ],
+			[ "evacuaren" ]
+		],
+		"12" : {
+			"1" : [ "evacua" ],
+			"2" : [ "evacue" ],
+			"3" : [ "evacuemos" ],
+			"4" : [ "evacuad" ],
+			"5" : [ "evacuen" ]
+		}
+	}
+}

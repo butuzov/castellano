@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amortiguar",
+	"word" : "amortiguar",
+	"infinitivo" : "amortiguar",
+	"participio" : [ "amortiguado" ],
+	"gerundio" : [ "amortiguando" ],
+	"tenses" : {
+		"3" : [
+			[ "amortiguo" ],
+			[ "amortiguas", "amortiguás" ],
+			[ "amortigua" ],
+			[ "amortiguamos" ],
+			[ "amortiguáis", "amortiguan" ],
+			[ "amortiguan" ]
+		],
+		"4" : [
+			[ "amortigüé" ],
+			[ "amortiguaste" ],
+			[ "amortiguó" ],
+			[ "amortiguamos" ],
+			[ "amortiguasteis", "amortiguaron" ],
+			[ "amortiguaron" ]
+		],
+		"5" : [
+			[ "amortiguaba" ],
+			[ "amortiguabas" ],
+			[ "amortiguaba" ],
+			[ "amortiguábamos" ],
+			[ "amortiguabais", "amortiguaban" ],
+			[ "amortiguaban" ]
+		],
+		"6" : [
+			[ "amortiguaría" ],
+			[ "amortiguarías" ],
+			[ "amortiguaría" ],
+			[ "amortiguaríamos" ],
+			[ "amortiguaríais", "amortiguarían" ],
+			[ "amortiguarían" ]
+		],
+		"7" : [
+			[ "amortiguaré" ],
+			[ "amortiguarás" ],
+			[ "amortiguará" ],
+			[ "amortiguaremos" ],
+			[ "amortiguaréis", "amortiguarán" ],
+			[ "amortiguarán" ]
+		],
+		"8" : [
+			[ "amortigüe" ],
+			[ "amortigües" ],
+			[ "amortigüe" ],
+			[ "amortigüemos" ],
+			[ "amortigüéis", "amortigüen" ],
+			[ "amortigüen" ]
+		],
+		"9" : [
+			[ "amortiguara" ],
+			[ "amortiguaras" ],
+			[ "amortiguara" ],
+			[ "amortiguáramos" ],
+			[ "amortiguarais", "amortiguaran" ],
+			[ "amortiguaran" ]
+		],
+		"10" : [
+			[ "amortiguase" ],
+			[ "amortiguases" ],
+			[ "amortiguase" ],
+			[ "amortiguásemos" ],
+			[ "amortiguaseis", "amortiguasen" ],
+			[ "amortiguasen" ]
+		],
+		"11" : [
+			[ "amortiguare" ],
+			[ "amortiguares" ],
+			[ "amortiguare" ],
+			[ "amortiguáremos" ],
+			[ "amortiguareis", "amortiguaren" ],
+			[ "amortiguaren" ]
+		],
+		"12" : {
+			"1" : [ "amortigua" ],
+			"2" : [ "amortigüe" ],
+			"3" : [ "amortigüemos" ],
+			"4" : [ "amortiguad" ],
+			"5" : [ "amortigüen" ]
+		}
+	}
+}

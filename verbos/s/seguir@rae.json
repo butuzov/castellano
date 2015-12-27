@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=seguir",
+	"word" : "seguir",
+	"infinitivo" : "seguir",
+	"participio" : [ "seguido" ],
+	"gerundio" : [ "siguiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sigo" ],
+			[ "sigues", "seguís" ],
+			[ "sigue" ],
+			[ "seguimos" ],
+			[ "seguís", "siguen" ],
+			[ "siguen" ]
+		],
+		"4" : [
+			[ "seguí" ],
+			[ "seguiste" ],
+			[ "siguió" ],
+			[ "seguimos" ],
+			[ "seguisteis", "siguieron" ],
+			[ "siguieron" ]
+		],
+		"5" : [
+			[ "seguía" ],
+			[ "seguías" ],
+			[ "seguía" ],
+			[ "seguíamos" ],
+			[ "seguíais", "seguían" ],
+			[ "seguían" ]
+		],
+		"6" : [
+			[ "seguiría" ],
+			[ "seguirías" ],
+			[ "seguiría" ],
+			[ "seguiríamos" ],
+			[ "seguiríais", "seguirían" ],
+			[ "seguirían" ]
+		],
+		"7" : [
+			[ "seguiré" ],
+			[ "seguirás" ],
+			[ "seguirá" ],
+			[ "seguiremos" ],
+			[ "seguiréis", "seguirán" ],
+			[ "seguirán" ]
+		],
+		"8" : [
+			[ "siga" ],
+			[ "sigas" ],
+			[ "siga" ],
+			[ "sigamos" ],
+			[ "sigáis", "sigan" ],
+			[ "sigan" ]
+		],
+		"9" : [
+			[ "siguiera" ],
+			[ "siguieras" ],
+			[ "siguiera" ],
+			[ "siguiéramos" ],
+			[ "siguierais", "siguieran" ],
+			[ "siguieran" ]
+		],
+		"10" : [
+			[ "siguiese" ],
+			[ "siguieses" ],
+			[ "siguiese" ],
+			[ "siguiésemos" ],
+			[ "siguieseis", "siguiesen" ],
+			[ "siguiesen" ]
+		],
+		"11" : [
+			[ "siguiere" ],
+			[ "siguieres" ],
+			[ "siguiere" ],
+			[ "siguiéremos" ],
+			[ "siguiereis", "siguieren" ],
+			[ "siguieren" ]
+		],
+		"12" : {
+			"1" : [ "sigue" ],
+			"2" : [ "siga" ],
+			"3" : [ "sigamos" ],
+			"4" : [ "seguid" ],
+			"5" : [ "sigan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escupir",
+	"word" : "escupir",
+	"infinitivo" : "escupir",
+	"participio" : [ "escupido" ],
+	"gerundio" : [ "escupiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "escupo" ],
+			[ "escupes", "escupís" ],
+			[ "escupe" ],
+			[ "escupimos" ],
+			[ "escupís", "escupen" ],
+			[ "escupen" ]
+		],
+		"4" : [
+			[ "escupí" ],
+			[ "escupiste" ],
+			[ "escupió" ],
+			[ "escupimos" ],
+			[ "escupisteis", "escupieron" ],
+			[ "escupieron" ]
+		],
+		"5" : [
+			[ "escupía" ],
+			[ "escupías" ],
+			[ "escupía" ],
+			[ "escupíamos" ],
+			[ "escupíais", "escupían" ],
+			[ "escupían" ]
+		],
+		"6" : [
+			[ "escupiría" ],
+			[ "escupirías" ],
+			[ "escupiría" ],
+			[ "escupiríamos" ],
+			[ "escupiríais", "escupirían" ],
+			[ "escupirían" ]
+		],
+		"7" : [
+			[ "escupiré" ],
+			[ "escupirás" ],
+			[ "escupirá" ],
+			[ "escupiremos" ],
+			[ "escupiréis", "escupirán" ],
+			[ "escupirán" ]
+		],
+		"8" : [
+			[ "escupa" ],
+			[ "escupas" ],
+			[ "escupa" ],
+			[ "escupamos" ],
+			[ "escupáis", "escupan" ],
+			[ "escupan" ]
+		],
+		"9" : [
+			[ "escupiera" ],
+			[ "escupieras" ],
+			[ "escupiera" ],
+			[ "escupiéramos" ],
+			[ "escupierais", "escupieran" ],
+			[ "escupieran" ]
+		],
+		"10" : [
+			[ "escupiese" ],
+			[ "escupieses" ],
+			[ "escupiese" ],
+			[ "escupiésemos" ],
+			[ "escupieseis", "escupiesen" ],
+			[ "escupiesen" ]
+		],
+		"11" : [
+			[ "escupiere" ],
+			[ "escupieres" ],
+			[ "escupiere" ],
+			[ "escupiéremos" ],
+			[ "escupiereis", "escupieren" ],
+			[ "escupieren" ]
+		],
+		"12" : {
+			"1" : [ "escupe" ],
+			"2" : [ "escupa" ],
+			"3" : [ "escupamos" ],
+			"4" : [ "escupid" ],
+			"5" : [ "escupan" ]
+		}
+	}
+}

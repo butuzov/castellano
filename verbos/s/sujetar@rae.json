@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sujetar",
+	"word" : "sujetar",
+	"infinitivo" : "sujetar",
+	"participio" : [ "sujetado" ],
+	"gerundio" : [ "sujetando" ],
+	"tenses" : {
+		"3" : [
+			[ "sujeto" ],
+			[ "sujetas", "sujetás" ],
+			[ "sujeta" ],
+			[ "sujetamos" ],
+			[ "sujetáis", "sujetan" ],
+			[ "sujetan" ]
+		],
+		"4" : [
+			[ "sujeté" ],
+			[ "sujetaste" ],
+			[ "sujetó" ],
+			[ "sujetamos" ],
+			[ "sujetasteis", "sujetaron" ],
+			[ "sujetaron" ]
+		],
+		"5" : [
+			[ "sujetaba" ],
+			[ "sujetabas" ],
+			[ "sujetaba" ],
+			[ "sujetábamos" ],
+			[ "sujetabais", "sujetaban" ],
+			[ "sujetaban" ]
+		],
+		"6" : [
+			[ "sujetaría" ],
+			[ "sujetarías" ],
+			[ "sujetaría" ],
+			[ "sujetaríamos" ],
+			[ "sujetaríais", "sujetarían" ],
+			[ "sujetarían" ]
+		],
+		"7" : [
+			[ "sujetaré" ],
+			[ "sujetarás" ],
+			[ "sujetará" ],
+			[ "sujetaremos" ],
+			[ "sujetaréis", "sujetarán" ],
+			[ "sujetarán" ]
+		],
+		"8" : [
+			[ "sujete" ],
+			[ "sujetes" ],
+			[ "sujete" ],
+			[ "sujetemos" ],
+			[ "sujetéis", "sujeten" ],
+			[ "sujeten" ]
+		],
+		"9" : [
+			[ "sujetara" ],
+			[ "sujetaras" ],
+			[ "sujetara" ],
+			[ "sujetáramos" ],
+			[ "sujetarais", "sujetaran" ],
+			[ "sujetaran" ]
+		],
+		"10" : [
+			[ "sujetase" ],
+			[ "sujetases" ],
+			[ "sujetase" ],
+			[ "sujetásemos" ],
+			[ "sujetaseis", "sujetasen" ],
+			[ "sujetasen" ]
+		],
+		"11" : [
+			[ "sujetare" ],
+			[ "sujetares" ],
+			[ "sujetare" ],
+			[ "sujetáremos" ],
+			[ "sujetareis", "sujetaren" ],
+			[ "sujetaren" ]
+		],
+		"12" : {
+			"1" : [ "sujeta" ],
+			"2" : [ "sujete" ],
+			"3" : [ "sujetemos" ],
+			"4" : [ "sujetad" ],
+			"5" : [ "sujeten" ]
+		}
+	}
+}

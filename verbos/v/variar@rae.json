@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=variar",
+	"word" : "variar",
+	"infinitivo" : "variar",
+	"participio" : [ "variado" ],
+	"gerundio" : [ "variando" ],
+	"tenses" : {
+		"3" : [
+			[ "varío" ],
+			[ "varías", "variás" ],
+			[ "varía" ],
+			[ "variamos" ],
+			[ "variáis", "varían" ],
+			[ "varían" ]
+		],
+		"4" : [
+			[ "varié" ],
+			[ "variaste" ],
+			[ "varió" ],
+			[ "variamos" ],
+			[ "variasteis", "variaron" ],
+			[ "variaron" ]
+		],
+		"5" : [
+			[ "variaba" ],
+			[ "variabas" ],
+			[ "variaba" ],
+			[ "variábamos" ],
+			[ "variabais", "variaban" ],
+			[ "variaban" ]
+		],
+		"6" : [
+			[ "variaría" ],
+			[ "variarías" ],
+			[ "variaría" ],
+			[ "variaríamos" ],
+			[ "variaríais", "variarían" ],
+			[ "variarían" ]
+		],
+		"7" : [
+			[ "variaré" ],
+			[ "variarás" ],
+			[ "variará" ],
+			[ "variaremos" ],
+			[ "variaréis", "variarán" ],
+			[ "variarán" ]
+		],
+		"8" : [
+			[ "varíe" ],
+			[ "varíes" ],
+			[ "varíe" ],
+			[ "variemos" ],
+			[ "variéis", "varíen" ],
+			[ "varíen" ]
+		],
+		"9" : [
+			[ "variara" ],
+			[ "variaras" ],
+			[ "variara" ],
+			[ "variáramos" ],
+			[ "variarais", "variaran" ],
+			[ "variaran" ]
+		],
+		"10" : [
+			[ "variase" ],
+			[ "variases" ],
+			[ "variase" ],
+			[ "variásemos" ],
+			[ "variaseis", "variasen" ],
+			[ "variasen" ]
+		],
+		"11" : [
+			[ "variare" ],
+			[ "variares" ],
+			[ "variare" ],
+			[ "variáremos" ],
+			[ "variareis", "variaren" ],
+			[ "variaren" ]
+		],
+		"12" : {
+			"1" : [ "varía" ],
+			"2" : [ "varíe" ],
+			"3" : [ "variemos" ],
+			"4" : [ "variad" ],
+			"5" : [ "varíen" ]
+		}
+	}
+}

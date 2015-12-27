@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmenguar",
+	"word" : "desmenguar",
+	"infinitivo" : "desmenguar",
+	"participio" : [ "desmenguado" ],
+	"gerundio" : [ "desmenguando" ],
+	"tenses" : {
+		"3" : [
+			[ "desmenguo" ],
+			[ "desmenguas", "desmenguás" ],
+			[ "desmengua" ],
+			[ "desmenguamos" ],
+			[ "desmenguáis", "desmenguan" ],
+			[ "desmenguan" ]
+		],
+		"4" : [
+			[ "desmengüé" ],
+			[ "desmenguaste" ],
+			[ "desmenguó" ],
+			[ "desmenguamos" ],
+			[ "desmenguasteis", "desmenguaron" ],
+			[ "desmenguaron" ]
+		],
+		"5" : [
+			[ "desmenguaba" ],
+			[ "desmenguabas" ],
+			[ "desmenguaba" ],
+			[ "desmenguábamos" ],
+			[ "desmenguabais", "desmenguaban" ],
+			[ "desmenguaban" ]
+		],
+		"6" : [
+			[ "desmenguaría" ],
+			[ "desmenguarías" ],
+			[ "desmenguaría" ],
+			[ "desmenguaríamos" ],
+			[ "desmenguaríais", "desmenguarían" ],
+			[ "desmenguarían" ]
+		],
+		"7" : [
+			[ "desmenguaré" ],
+			[ "desmenguarás" ],
+			[ "desmenguará" ],
+			[ "desmenguaremos" ],
+			[ "desmenguaréis", "desmenguarán" ],
+			[ "desmenguarán" ]
+		],
+		"8" : [
+			[ "desmengüe" ],
+			[ "desmengües" ],
+			[ "desmengüe" ],
+			[ "desmengüemos" ],
+			[ "desmengüéis", "desmengüen" ],
+			[ "desmengüen" ]
+		],
+		"9" : [
+			[ "desmenguara" ],
+			[ "desmenguaras" ],
+			[ "desmenguara" ],
+			[ "desmenguáramos" ],
+			[ "desmenguarais", "desmenguaran" ],
+			[ "desmenguaran" ]
+		],
+		"10" : [
+			[ "desmenguase" ],
+			[ "desmenguases" ],
+			[ "desmenguase" ],
+			[ "desmenguásemos" ],
+			[ "desmenguaseis", "desmenguasen" ],
+			[ "desmenguasen" ]
+		],
+		"11" : [
+			[ "desmenguare" ],
+			[ "desmenguares" ],
+			[ "desmenguare" ],
+			[ "desmenguáremos" ],
+			[ "desmenguareis", "desmenguaren" ],
+			[ "desmenguaren" ]
+		],
+		"12" : {
+			"1" : [ "desmengua" ],
+			"2" : [ "desmengüe" ],
+			"3" : [ "desmengüemos" ],
+			"4" : [ "desmenguad" ],
+			"5" : [ "desmengüen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=curvar",
+	"word" : "curvar",
+	"infinitivo" : "curvar",
+	"participio" : [ "curvado" ],
+	"gerundio" : [ "curvando" ],
+	"tenses" : {
+		"3" : [
+			[ "curvo" ],
+			[ "curvas", "curvás" ],
+			[ "curva" ],
+			[ "curvamos" ],
+			[ "curváis", "curvan" ],
+			[ "curvan" ]
+		],
+		"4" : [
+			[ "curvé" ],
+			[ "curvaste" ],
+			[ "curvó" ],
+			[ "curvamos" ],
+			[ "curvasteis", "curvaron" ],
+			[ "curvaron" ]
+		],
+		"5" : [
+			[ "curvaba" ],
+			[ "curvabas" ],
+			[ "curvaba" ],
+			[ "curvábamos" ],
+			[ "curvabais", "curvaban" ],
+			[ "curvaban" ]
+		],
+		"6" : [
+			[ "curvaría" ],
+			[ "curvarías" ],
+			[ "curvaría" ],
+			[ "curvaríamos" ],
+			[ "curvaríais", "curvarían" ],
+			[ "curvarían" ]
+		],
+		"7" : [
+			[ "curvaré" ],
+			[ "curvarás" ],
+			[ "curvará" ],
+			[ "curvaremos" ],
+			[ "curvaréis", "curvarán" ],
+			[ "curvarán" ]
+		],
+		"8" : [
+			[ "curve" ],
+			[ "curves" ],
+			[ "curve" ],
+			[ "curvemos" ],
+			[ "curvéis", "curven" ],
+			[ "curven" ]
+		],
+		"9" : [
+			[ "curvara" ],
+			[ "curvaras" ],
+			[ "curvara" ],
+			[ "curváramos" ],
+			[ "curvarais", "curvaran" ],
+			[ "curvaran" ]
+		],
+		"10" : [
+			[ "curvase" ],
+			[ "curvases" ],
+			[ "curvase" ],
+			[ "curvásemos" ],
+			[ "curvaseis", "curvasen" ],
+			[ "curvasen" ]
+		],
+		"11" : [
+			[ "curvare" ],
+			[ "curvares" ],
+			[ "curvare" ],
+			[ "curváremos" ],
+			[ "curvareis", "curvaren" ],
+			[ "curvaren" ]
+		],
+		"12" : {
+			"1" : [ "curva" ],
+			"2" : [ "curve" ],
+			"3" : [ "curvemos" ],
+			"4" : [ "curvad" ],
+			"5" : [ "curven" ]
+		}
+	}
+}

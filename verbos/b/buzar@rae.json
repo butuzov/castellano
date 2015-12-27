@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=buzar",
+	"word" : "buzar",
+	"infinitivo" : "buzar",
+	"participio" : [ "buzado" ],
+	"gerundio" : [ "buzando" ],
+	"tenses" : {
+		"3" : [
+			[ "buzo" ],
+			[ "buzas", "buzás" ],
+			[ "buza" ],
+			[ "buzamos" ],
+			[ "buzáis", "buzan" ],
+			[ "buzan" ]
+		],
+		"4" : [
+			[ "bucé" ],
+			[ "buzaste" ],
+			[ "buzó" ],
+			[ "buzamos" ],
+			[ "buzasteis", "buzaron" ],
+			[ "buzaron" ]
+		],
+		"5" : [
+			[ "buzaba" ],
+			[ "buzabas" ],
+			[ "buzaba" ],
+			[ "buzábamos" ],
+			[ "buzabais", "buzaban" ],
+			[ "buzaban" ]
+		],
+		"6" : [
+			[ "buzaría" ],
+			[ "buzarías" ],
+			[ "buzaría" ],
+			[ "buzaríamos" ],
+			[ "buzaríais", "buzarían" ],
+			[ "buzarían" ]
+		],
+		"7" : [
+			[ "buzaré" ],
+			[ "buzarás" ],
+			[ "buzará" ],
+			[ "buzaremos" ],
+			[ "buzaréis", "buzarán" ],
+			[ "buzarán" ]
+		],
+		"8" : [
+			[ "buce" ],
+			[ "buces" ],
+			[ "buce" ],
+			[ "bucemos" ],
+			[ "bucéis", "bucen" ],
+			[ "bucen" ]
+		],
+		"9" : [
+			[ "buzara" ],
+			[ "buzaras" ],
+			[ "buzara" ],
+			[ "buzáramos" ],
+			[ "buzarais", "buzaran" ],
+			[ "buzaran" ]
+		],
+		"10" : [
+			[ "buzase" ],
+			[ "buzases" ],
+			[ "buzase" ],
+			[ "buzásemos" ],
+			[ "buzaseis", "buzasen" ],
+			[ "buzasen" ]
+		],
+		"11" : [
+			[ "buzare" ],
+			[ "buzares" ],
+			[ "buzare" ],
+			[ "buzáremos" ],
+			[ "buzareis", "buzaren" ],
+			[ "buzaren" ]
+		],
+		"12" : {
+			"1" : [ "buza" ],
+			"2" : [ "buce" ],
+			"3" : [ "bucemos" ],
+			"4" : [ "buzad" ],
+			"5" : [ "bucen" ]
+		}
+	}
+}

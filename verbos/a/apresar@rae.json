@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apresar",
+	"word" : "apresar",
+	"infinitivo" : "apresar",
+	"participio" : [ "apresado" ],
+	"gerundio" : [ "apresando" ],
+	"tenses" : {
+		"3" : [
+			[ "apreso" ],
+			[ "apresas", "apresás" ],
+			[ "apresa" ],
+			[ "apresamos" ],
+			[ "apresáis", "apresan" ],
+			[ "apresan" ]
+		],
+		"4" : [
+			[ "apresé" ],
+			[ "apresaste" ],
+			[ "apresó" ],
+			[ "apresamos" ],
+			[ "apresasteis", "apresaron" ],
+			[ "apresaron" ]
+		],
+		"5" : [
+			[ "apresaba" ],
+			[ "apresabas" ],
+			[ "apresaba" ],
+			[ "apresábamos" ],
+			[ "apresabais", "apresaban" ],
+			[ "apresaban" ]
+		],
+		"6" : [
+			[ "apresaría" ],
+			[ "apresarías" ],
+			[ "apresaría" ],
+			[ "apresaríamos" ],
+			[ "apresaríais", "apresarían" ],
+			[ "apresarían" ]
+		],
+		"7" : [
+			[ "apresaré" ],
+			[ "apresarás" ],
+			[ "apresará" ],
+			[ "apresaremos" ],
+			[ "apresaréis", "apresarán" ],
+			[ "apresarán" ]
+		],
+		"8" : [
+			[ "aprese" ],
+			[ "apreses" ],
+			[ "aprese" ],
+			[ "apresemos" ],
+			[ "apreséis", "apresen" ],
+			[ "apresen" ]
+		],
+		"9" : [
+			[ "apresara" ],
+			[ "apresaras" ],
+			[ "apresara" ],
+			[ "apresáramos" ],
+			[ "apresarais", "apresaran" ],
+			[ "apresaran" ]
+		],
+		"10" : [
+			[ "apresase" ],
+			[ "apresases" ],
+			[ "apresase" ],
+			[ "apresásemos" ],
+			[ "apresaseis", "apresasen" ],
+			[ "apresasen" ]
+		],
+		"11" : [
+			[ "apresare" ],
+			[ "apresares" ],
+			[ "apresare" ],
+			[ "apresáremos" ],
+			[ "apresareis", "apresaren" ],
+			[ "apresaren" ]
+		],
+		"12" : {
+			"1" : [ "apresa" ],
+			"2" : [ "aprese" ],
+			"3" : [ "apresemos" ],
+			"4" : [ "apresad" ],
+			"5" : [ "apresen" ]
+		}
+	}
+}

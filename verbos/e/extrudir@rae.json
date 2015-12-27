@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=extrudir",
+	"word" : "extrudir",
+	"infinitivo" : "extrudir",
+	"participio" : [ "extrudido" ],
+	"gerundio" : [ "extrudiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "extrudo" ],
+			[ "extrudes", "extrudís" ],
+			[ "extrude" ],
+			[ "extrudimos" ],
+			[ "extrudís", "extruden" ],
+			[ "extruden" ]
+		],
+		"4" : [
+			[ "extrudí" ],
+			[ "extrudiste" ],
+			[ "extrudió" ],
+			[ "extrudimos" ],
+			[ "extrudisteis", "extrudieron" ],
+			[ "extrudieron" ]
+		],
+		"5" : [
+			[ "extrudía" ],
+			[ "extrudías" ],
+			[ "extrudía" ],
+			[ "extrudíamos" ],
+			[ "extrudíais", "extrudían" ],
+			[ "extrudían" ]
+		],
+		"6" : [
+			[ "extrudiría" ],
+			[ "extrudirías" ],
+			[ "extrudiría" ],
+			[ "extrudiríamos" ],
+			[ "extrudiríais", "extrudirían" ],
+			[ "extrudirían" ]
+		],
+		"7" : [
+			[ "extrudiré" ],
+			[ "extrudirás" ],
+			[ "extrudirá" ],
+			[ "extrudiremos" ],
+			[ "extrudiréis", "extrudirán" ],
+			[ "extrudirán" ]
+		],
+		"8" : [
+			[ "extruda" ],
+			[ "extrudas" ],
+			[ "extruda" ],
+			[ "extrudamos" ],
+			[ "extrudáis", "extrudan" ],
+			[ "extrudan" ]
+		],
+		"9" : [
+			[ "extrudiera" ],
+			[ "extrudieras" ],
+			[ "extrudiera" ],
+			[ "extrudiéramos" ],
+			[ "extrudierais", "extrudieran" ],
+			[ "extrudieran" ]
+		],
+		"10" : [
+			[ "extrudiese" ],
+			[ "extrudieses" ],
+			[ "extrudiese" ],
+			[ "extrudiésemos" ],
+			[ "extrudieseis", "extrudiesen" ],
+			[ "extrudiesen" ]
+		],
+		"11" : [
+			[ "extrudiere" ],
+			[ "extrudieres" ],
+			[ "extrudiere" ],
+			[ "extrudiéremos" ],
+			[ "extrudiereis", "extrudieren" ],
+			[ "extrudieren" ]
+		],
+		"12" : {
+			"1" : [ "extrude" ],
+			"2" : [ "extruda" ],
+			"3" : [ "extrudamos" ],
+			"4" : [ "extrudid" ],
+			"5" : [ "extrudan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=huir",
+	"word" : "huir",
+	"infinitivo" : "huir",
+	"participio" : [ "huido" ],
+	"gerundio" : [ "huyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "huyo" ],
+			[ "huyes", "huis" ],
+			[ "huye" ],
+			[ "huimos" ],
+			[ "huis", "huyen" ],
+			[ "huyen" ]
+		],
+		"4" : [
+			[ "hui" ],
+			[ "huiste" ],
+			[ "huyó" ],
+			[ "huimos" ],
+			[ "huisteis", "huyeron" ],
+			[ "huyeron" ]
+		],
+		"5" : [
+			[ "huía" ],
+			[ "huías" ],
+			[ "huía" ],
+			[ "huíamos" ],
+			[ "huíais", "huían" ],
+			[ "huían" ]
+		],
+		"6" : [
+			[ "huiría" ],
+			[ "huirías" ],
+			[ "huiría" ],
+			[ "huiríamos" ],
+			[ "huiríais", "huirían" ],
+			[ "huirían" ]
+		],
+		"7" : [
+			[ "huiré" ],
+			[ "huirás" ],
+			[ "huirá" ],
+			[ "huiremos" ],
+			[ "huiréis", "huirán" ],
+			[ "huirán" ]
+		],
+		"8" : [
+			[ "huya" ],
+			[ "huyas" ],
+			[ "huya" ],
+			[ "huyamos" ],
+			[ "huyáis", "huyan" ],
+			[ "huyan" ]
+		],
+		"9" : [
+			[ "huyera" ],
+			[ "huyeras" ],
+			[ "huyera" ],
+			[ "huyéramos" ],
+			[ "huyerais", "huyeran" ],
+			[ "huyeran" ]
+		],
+		"10" : [
+			[ "huyese" ],
+			[ "huyeses" ],
+			[ "huyese" ],
+			[ "huyésemos" ],
+			[ "huyeseis", "huyesen" ],
+			[ "huyesen" ]
+		],
+		"11" : [
+			[ "huyere" ],
+			[ "huyeres" ],
+			[ "huyere" ],
+			[ "huyéremos" ],
+			[ "huyereis", "huyeren" ],
+			[ "huyeren" ]
+		],
+		"12" : {
+			"1" : [ "huye" ],
+			"2" : [ "huya" ],
+			"3" : [ "huyamos" ],
+			"4" : [ "huid" ],
+			"5" : [ "huyan" ]
+		}
+	}
+}

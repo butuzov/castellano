@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cegar",
+	"word" : "cegar",
+	"infinitivo" : "cegar",
+	"participio" : [ "cegado" ],
+	"gerundio" : [ "cegando" ],
+	"tenses" : {
+		"3" : [
+			[ "ciego" ],
+			[ "ciegas", "cegás" ],
+			[ "ciega" ],
+			[ "cegamos" ],
+			[ "cegáis", "ciegan" ],
+			[ "ciegan" ]
+		],
+		"4" : [
+			[ "cegué" ],
+			[ "cegaste" ],
+			[ "cegó" ],
+			[ "cegamos" ],
+			[ "cegasteis", "cegaron" ],
+			[ "cegaron" ]
+		],
+		"5" : [
+			[ "cegaba" ],
+			[ "cegabas" ],
+			[ "cegaba" ],
+			[ "cegábamos" ],
+			[ "cegabais", "cegaban" ],
+			[ "cegaban" ]
+		],
+		"6" : [
+			[ "cegaría" ],
+			[ "cegarías" ],
+			[ "cegaría" ],
+			[ "cegaríamos" ],
+			[ "cegaríais", "cegarían" ],
+			[ "cegarían" ]
+		],
+		"7" : [
+			[ "cegaré" ],
+			[ "cegarás" ],
+			[ "cegará" ],
+			[ "cegaremos" ],
+			[ "cegaréis", "cegarán" ],
+			[ "cegarán" ]
+		],
+		"8" : [
+			[ "ciegue" ],
+			[ "ciegues" ],
+			[ "ciegue" ],
+			[ "ceguemos" ],
+			[ "ceguéis", "cieguen" ],
+			[ "cieguen" ]
+		],
+		"9" : [
+			[ "cegara" ],
+			[ "cegaras" ],
+			[ "cegara" ],
+			[ "cegáramos" ],
+			[ "cegarais", "cegaran" ],
+			[ "cegaran" ]
+		],
+		"10" : [
+			[ "cegase" ],
+			[ "cegases" ],
+			[ "cegase" ],
+			[ "cegásemos" ],
+			[ "cegaseis", "cegasen" ],
+			[ "cegasen" ]
+		],
+		"11" : [
+			[ "cegare" ],
+			[ "cegares" ],
+			[ "cegare" ],
+			[ "cegáremos" ],
+			[ "cegareis", "cegaren" ],
+			[ "cegaren" ]
+		],
+		"12" : {
+			"1" : [ "ciega" ],
+			"2" : [ "ciegue" ],
+			"3" : [ "ceguemos" ],
+			"4" : [ "cegad" ],
+			"5" : [ "cieguen" ]
+		}
+	}
+}

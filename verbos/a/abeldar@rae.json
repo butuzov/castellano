@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abeldar",
+	"word" : "abeldar",
+	"infinitivo" : "abeldar",
+	"participio" : [ "abeldado" ],
+	"gerundio" : [ "abeldando" ],
+	"tenses" : {
+		"3" : [
+			[ "abieldo" ],
+			[ "abieldas", "abeldás" ],
+			[ "abielda" ],
+			[ "abeldamos" ],
+			[ "abeldáis", "abieldan" ],
+			[ "abieldan" ]
+		],
+		"4" : [
+			[ "abeldé" ],
+			[ "abeldaste" ],
+			[ "abeldó" ],
+			[ "abeldamos" ],
+			[ "abeldasteis", "abeldaron" ],
+			[ "abeldaron" ]
+		],
+		"5" : [
+			[ "abeldaba" ],
+			[ "abeldabas" ],
+			[ "abeldaba" ],
+			[ "abeldábamos" ],
+			[ "abeldabais", "abeldaban" ],
+			[ "abeldaban" ]
+		],
+		"6" : [
+			[ "abeldaría" ],
+			[ "abeldarías" ],
+			[ "abeldaría" ],
+			[ "abeldaríamos" ],
+			[ "abeldaríais", "abeldarían" ],
+			[ "abeldarían" ]
+		],
+		"7" : [
+			[ "abeldaré" ],
+			[ "abeldarás" ],
+			[ "abeldará" ],
+			[ "abeldaremos" ],
+			[ "abeldaréis", "abeldarán" ],
+			[ "abeldarán" ]
+		],
+		"8" : [
+			[ "abielde" ],
+			[ "abieldes" ],
+			[ "abielde" ],
+			[ "abeldemos" ],
+			[ "abeldéis", "abielden" ],
+			[ "abielden" ]
+		],
+		"9" : [
+			[ "abeldara" ],
+			[ "abeldaras" ],
+			[ "abeldara" ],
+			[ "abeldáramos" ],
+			[ "abeldarais", "abeldaran" ],
+			[ "abeldaran" ]
+		],
+		"10" : [
+			[ "abeldase" ],
+			[ "abeldases" ],
+			[ "abeldase" ],
+			[ "abeldásemos" ],
+			[ "abeldaseis", "abeldasen" ],
+			[ "abeldasen" ]
+		],
+		"11" : [
+			[ "abeldare" ],
+			[ "abeldares" ],
+			[ "abeldare" ],
+			[ "abeldáremos" ],
+			[ "abeldareis", "abeldaren" ],
+			[ "abeldaren" ]
+		],
+		"12" : {
+			"1" : [ "abielda" ],
+			"2" : [ "abielde" ],
+			"3" : [ "abeldemos" ],
+			"4" : [ "abeldad" ],
+			"5" : [ "abielden" ]
+		}
+	}
+}

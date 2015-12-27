@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asear",
+	"word" : "asear",
+	"infinitivo" : "asear",
+	"participio" : [ "aseado" ],
+	"gerundio" : [ "aseando" ],
+	"tenses" : {
+		"3" : [
+			[ "aseo" ],
+			[ "aseas", "aseás" ],
+			[ "asea" ],
+			[ "aseamos" ],
+			[ "aseáis", "asean" ],
+			[ "asean" ]
+		],
+		"4" : [
+			[ "aseé" ],
+			[ "aseaste" ],
+			[ "aseó" ],
+			[ "aseamos" ],
+			[ "aseasteis", "asearon" ],
+			[ "asearon" ]
+		],
+		"5" : [
+			[ "aseaba" ],
+			[ "aseabas" ],
+			[ "aseaba" ],
+			[ "aseábamos" ],
+			[ "aseabais", "aseaban" ],
+			[ "aseaban" ]
+		],
+		"6" : [
+			[ "asearía" ],
+			[ "asearías" ],
+			[ "asearía" ],
+			[ "asearíamos" ],
+			[ "asearíais", "asearían" ],
+			[ "asearían" ]
+		],
+		"7" : [
+			[ "asearé" ],
+			[ "asearás" ],
+			[ "aseará" ],
+			[ "asearemos" ],
+			[ "asearéis", "asearán" ],
+			[ "asearán" ]
+		],
+		"8" : [
+			[ "asee" ],
+			[ "asees" ],
+			[ "asee" ],
+			[ "aseemos" ],
+			[ "aseéis", "aseen" ],
+			[ "aseen" ]
+		],
+		"9" : [
+			[ "aseara" ],
+			[ "asearas" ],
+			[ "aseara" ],
+			[ "aseáramos" ],
+			[ "asearais", "asearan" ],
+			[ "asearan" ]
+		],
+		"10" : [
+			[ "asease" ],
+			[ "aseases" ],
+			[ "asease" ],
+			[ "aseásemos" ],
+			[ "aseaseis", "aseasen" ],
+			[ "aseasen" ]
+		],
+		"11" : [
+			[ "aseare" ],
+			[ "aseares" ],
+			[ "aseare" ],
+			[ "aseáremos" ],
+			[ "aseareis", "asearen" ],
+			[ "asearen" ]
+		],
+		"12" : {
+			"1" : [ "asea" ],
+			"2" : [ "asee" ],
+			"3" : [ "aseemos" ],
+			"4" : [ "asead" ],
+			"5" : [ "aseen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inmigrar",
+	"word" : "inmigrar",
+	"infinitivo" : "inmigrar",
+	"participio" : [ "inmigrado" ],
+	"gerundio" : [ "inmigrando" ],
+	"tenses" : {
+		"3" : [
+			[ "inmigro" ],
+			[ "inmigras", "inmigrás" ],
+			[ "inmigra" ],
+			[ "inmigramos" ],
+			[ "inmigráis", "inmigran" ],
+			[ "inmigran" ]
+		],
+		"4" : [
+			[ "inmigré" ],
+			[ "inmigraste" ],
+			[ "inmigró" ],
+			[ "inmigramos" ],
+			[ "inmigrasteis", "inmigraron" ],
+			[ "inmigraron" ]
+		],
+		"5" : [
+			[ "inmigraba" ],
+			[ "inmigrabas" ],
+			[ "inmigraba" ],
+			[ "inmigrábamos" ],
+			[ "inmigrabais", "inmigraban" ],
+			[ "inmigraban" ]
+		],
+		"6" : [
+			[ "inmigraría" ],
+			[ "inmigrarías" ],
+			[ "inmigraría" ],
+			[ "inmigraríamos" ],
+			[ "inmigraríais", "inmigrarían" ],
+			[ "inmigrarían" ]
+		],
+		"7" : [
+			[ "inmigraré" ],
+			[ "inmigrarás" ],
+			[ "inmigrará" ],
+			[ "inmigraremos" ],
+			[ "inmigraréis", "inmigrarán" ],
+			[ "inmigrarán" ]
+		],
+		"8" : [
+			[ "inmigre" ],
+			[ "inmigres" ],
+			[ "inmigre" ],
+			[ "inmigremos" ],
+			[ "inmigréis", "inmigren" ],
+			[ "inmigren" ]
+		],
+		"9" : [
+			[ "inmigrara" ],
+			[ "inmigraras" ],
+			[ "inmigrara" ],
+			[ "inmigráramos" ],
+			[ "inmigrarais", "inmigraran" ],
+			[ "inmigraran" ]
+		],
+		"10" : [
+			[ "inmigrase" ],
+			[ "inmigrases" ],
+			[ "inmigrase" ],
+			[ "inmigrásemos" ],
+			[ "inmigraseis", "inmigrasen" ],
+			[ "inmigrasen" ]
+		],
+		"11" : [
+			[ "inmigrare" ],
+			[ "inmigrares" ],
+			[ "inmigrare" ],
+			[ "inmigráremos" ],
+			[ "inmigrareis", "inmigraren" ],
+			[ "inmigraren" ]
+		],
+		"12" : {
+			"1" : [ "inmigra" ],
+			"2" : [ "inmigre" ],
+			"3" : [ "inmigremos" ],
+			"4" : [ "inmigrad" ],
+			"5" : [ "inmigren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adargar",
+	"word" : "adargar",
+	"infinitivo" : "adargar",
+	"participio" : [ "adargado" ],
+	"gerundio" : [ "adargando" ],
+	"tenses" : {
+		"3" : [
+			[ "adargo" ],
+			[ "adargas", "adargás" ],
+			[ "adarga" ],
+			[ "adargamos" ],
+			[ "adargáis", "adargan" ],
+			[ "adargan" ]
+		],
+		"4" : [
+			[ "adargué" ],
+			[ "adargaste" ],
+			[ "adargó" ],
+			[ "adargamos" ],
+			[ "adargasteis", "adargaron" ],
+			[ "adargaron" ]
+		],
+		"5" : [
+			[ "adargaba" ],
+			[ "adargabas" ],
+			[ "adargaba" ],
+			[ "adargábamos" ],
+			[ "adargabais", "adargaban" ],
+			[ "adargaban" ]
+		],
+		"6" : [
+			[ "adargaría" ],
+			[ "adargarías" ],
+			[ "adargaría" ],
+			[ "adargaríamos" ],
+			[ "adargaríais", "adargarían" ],
+			[ "adargarían" ]
+		],
+		"7" : [
+			[ "adargaré" ],
+			[ "adargarás" ],
+			[ "adargará" ],
+			[ "adargaremos" ],
+			[ "adargaréis", "adargarán" ],
+			[ "adargarán" ]
+		],
+		"8" : [
+			[ "adargue" ],
+			[ "adargues" ],
+			[ "adargue" ],
+			[ "adarguemos" ],
+			[ "adarguéis", "adarguen" ],
+			[ "adarguen" ]
+		],
+		"9" : [
+			[ "adargara" ],
+			[ "adargaras" ],
+			[ "adargara" ],
+			[ "adargáramos" ],
+			[ "adargarais", "adargaran" ],
+			[ "adargaran" ]
+		],
+		"10" : [
+			[ "adargase" ],
+			[ "adargases" ],
+			[ "adargase" ],
+			[ "adargásemos" ],
+			[ "adargaseis", "adargasen" ],
+			[ "adargasen" ]
+		],
+		"11" : [
+			[ "adargare" ],
+			[ "adargares" ],
+			[ "adargare" ],
+			[ "adargáremos" ],
+			[ "adargareis", "adargaren" ],
+			[ "adargaren" ]
+		],
+		"12" : {
+			"1" : [ "adarga" ],
+			"2" : [ "adargue" ],
+			"3" : [ "adarguemos" ],
+			"4" : [ "adargad" ],
+			"5" : [ "adarguen" ]
+		}
+	}
+}

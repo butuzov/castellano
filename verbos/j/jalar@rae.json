@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=jalar",
+	"word" : "jalar",
+	"infinitivo" : "jalar",
+	"participio" : [ "jalado" ],
+	"gerundio" : [ "jalando" ],
+	"tenses" : {
+		"3" : [
+			[ "jalo" ],
+			[ "jalas", "jalás" ],
+			[ "jala" ],
+			[ "jalamos" ],
+			[ "jaláis", "jalan" ],
+			[ "jalan" ]
+		],
+		"4" : [
+			[ "jalé" ],
+			[ "jalaste" ],
+			[ "jaló" ],
+			[ "jalamos" ],
+			[ "jalasteis", "jalaron" ],
+			[ "jalaron" ]
+		],
+		"5" : [
+			[ "jalaba" ],
+			[ "jalabas" ],
+			[ "jalaba" ],
+			[ "jalábamos" ],
+			[ "jalabais", "jalaban" ],
+			[ "jalaban" ]
+		],
+		"6" : [
+			[ "jalaría" ],
+			[ "jalarías" ],
+			[ "jalaría" ],
+			[ "jalaríamos" ],
+			[ "jalaríais", "jalarían" ],
+			[ "jalarían" ]
+		],
+		"7" : [
+			[ "jalaré" ],
+			[ "jalarás" ],
+			[ "jalará" ],
+			[ "jalaremos" ],
+			[ "jalaréis", "jalarán" ],
+			[ "jalarán" ]
+		],
+		"8" : [
+			[ "jale" ],
+			[ "jales" ],
+			[ "jale" ],
+			[ "jalemos" ],
+			[ "jaléis", "jalen" ],
+			[ "jalen" ]
+		],
+		"9" : [
+			[ "jalara" ],
+			[ "jalaras" ],
+			[ "jalara" ],
+			[ "jaláramos" ],
+			[ "jalarais", "jalaran" ],
+			[ "jalaran" ]
+		],
+		"10" : [
+			[ "jalase" ],
+			[ "jalases" ],
+			[ "jalase" ],
+			[ "jalásemos" ],
+			[ "jalaseis", "jalasen" ],
+			[ "jalasen" ]
+		],
+		"11" : [
+			[ "jalare" ],
+			[ "jalares" ],
+			[ "jalare" ],
+			[ "jaláremos" ],
+			[ "jalareis", "jalaren" ],
+			[ "jalaren" ]
+		],
+		"12" : {
+			"1" : [ "jala" ],
+			"2" : [ "jale" ],
+			"3" : [ "jalemos" ],
+			"4" : [ "jalad" ],
+			"5" : [ "jalen" ]
+		}
+	}
+}

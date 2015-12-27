@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=condimentar",
+	"word" : "condimentar",
+	"infinitivo" : "condimentar",
+	"participio" : [ "condimentado" ],
+	"gerundio" : [ "condimentando" ],
+	"tenses" : {
+		"3" : [
+			[ "condimento" ],
+			[ "condimentas", "condimentás" ],
+			[ "condimenta" ],
+			[ "condimentamos" ],
+			[ "condimentáis", "condimentan" ],
+			[ "condimentan" ]
+		],
+		"4" : [
+			[ "condimenté" ],
+			[ "condimentaste" ],
+			[ "condimentó" ],
+			[ "condimentamos" ],
+			[ "condimentasteis", "condimentaron" ],
+			[ "condimentaron" ]
+		],
+		"5" : [
+			[ "condimentaba" ],
+			[ "condimentabas" ],
+			[ "condimentaba" ],
+			[ "condimentábamos" ],
+			[ "condimentabais", "condimentaban" ],
+			[ "condimentaban" ]
+		],
+		"6" : [
+			[ "condimentaría" ],
+			[ "condimentarías" ],
+			[ "condimentaría" ],
+			[ "condimentaríamos" ],
+			[ "condimentaríais", "condimentarían" ],
+			[ "condimentarían" ]
+		],
+		"7" : [
+			[ "condimentaré" ],
+			[ "condimentarás" ],
+			[ "condimentará" ],
+			[ "condimentaremos" ],
+			[ "condimentaréis", "condimentarán" ],
+			[ "condimentarán" ]
+		],
+		"8" : [
+			[ "condimente" ],
+			[ "condimentes" ],
+			[ "condimente" ],
+			[ "condimentemos" ],
+			[ "condimentéis", "condimenten" ],
+			[ "condimenten" ]
+		],
+		"9" : [
+			[ "condimentara" ],
+			[ "condimentaras" ],
+			[ "condimentara" ],
+			[ "condimentáramos" ],
+			[ "condimentarais", "condimentaran" ],
+			[ "condimentaran" ]
+		],
+		"10" : [
+			[ "condimentase" ],
+			[ "condimentases" ],
+			[ "condimentase" ],
+			[ "condimentásemos" ],
+			[ "condimentaseis", "condimentasen" ],
+			[ "condimentasen" ]
+		],
+		"11" : [
+			[ "condimentare" ],
+			[ "condimentares" ],
+			[ "condimentare" ],
+			[ "condimentáremos" ],
+			[ "condimentareis", "condimentaren" ],
+			[ "condimentaren" ]
+		],
+		"12" : {
+			"1" : [ "condimenta" ],
+			"2" : [ "condimente" ],
+			"3" : [ "condimentemos" ],
+			"4" : [ "condimentad" ],
+			"5" : [ "condimenten" ]
+		}
+	}
+}

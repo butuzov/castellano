@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=orzar",
+	"word" : "orzar",
+	"infinitivo" : "orzar",
+	"participio" : [ "orzado" ],
+	"gerundio" : [ "orzando" ],
+	"tenses" : {
+		"3" : [
+			[ "orzo" ],
+			[ "orzas", "orzás" ],
+			[ "orza" ],
+			[ "orzamos" ],
+			[ "orzáis", "orzan" ],
+			[ "orzan" ]
+		],
+		"4" : [
+			[ "orcé" ],
+			[ "orzaste" ],
+			[ "orzó" ],
+			[ "orzamos" ],
+			[ "orzasteis", "orzaron" ],
+			[ "orzaron" ]
+		],
+		"5" : [
+			[ "orzaba" ],
+			[ "orzabas" ],
+			[ "orzaba" ],
+			[ "orzábamos" ],
+			[ "orzabais", "orzaban" ],
+			[ "orzaban" ]
+		],
+		"6" : [
+			[ "orzaría" ],
+			[ "orzarías" ],
+			[ "orzaría" ],
+			[ "orzaríamos" ],
+			[ "orzaríais", "orzarían" ],
+			[ "orzarían" ]
+		],
+		"7" : [
+			[ "orzaré" ],
+			[ "orzarás" ],
+			[ "orzará" ],
+			[ "orzaremos" ],
+			[ "orzaréis", "orzarán" ],
+			[ "orzarán" ]
+		],
+		"8" : [
+			[ "orce" ],
+			[ "orces" ],
+			[ "orce" ],
+			[ "orcemos" ],
+			[ "orcéis", "orcen" ],
+			[ "orcen" ]
+		],
+		"9" : [
+			[ "orzara" ],
+			[ "orzaras" ],
+			[ "orzara" ],
+			[ "orzáramos" ],
+			[ "orzarais", "orzaran" ],
+			[ "orzaran" ]
+		],
+		"10" : [
+			[ "orzase" ],
+			[ "orzases" ],
+			[ "orzase" ],
+			[ "orzásemos" ],
+			[ "orzaseis", "orzasen" ],
+			[ "orzasen" ]
+		],
+		"11" : [
+			[ "orzare" ],
+			[ "orzares" ],
+			[ "orzare" ],
+			[ "orzáremos" ],
+			[ "orzareis", "orzaren" ],
+			[ "orzaren" ]
+		],
+		"12" : {
+			"1" : [ "orza" ],
+			"2" : [ "orce" ],
+			"3" : [ "orcemos" ],
+			"4" : [ "orzad" ],
+			"5" : [ "orcen" ]
+		}
+	}
+}

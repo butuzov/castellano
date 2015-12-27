@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tapizar",
+	"word" : "tapizar",
+	"infinitivo" : "tapizar",
+	"participio" : [ "tapizado" ],
+	"gerundio" : [ "tapizando" ],
+	"tenses" : {
+		"3" : [
+			[ "tapizo" ],
+			[ "tapizas", "tapizás" ],
+			[ "tapiza" ],
+			[ "tapizamos" ],
+			[ "tapizáis", "tapizan" ],
+			[ "tapizan" ]
+		],
+		"4" : [
+			[ "tapicé" ],
+			[ "tapizaste" ],
+			[ "tapizó" ],
+			[ "tapizamos" ],
+			[ "tapizasteis", "tapizaron" ],
+			[ "tapizaron" ]
+		],
+		"5" : [
+			[ "tapizaba" ],
+			[ "tapizabas" ],
+			[ "tapizaba" ],
+			[ "tapizábamos" ],
+			[ "tapizabais", "tapizaban" ],
+			[ "tapizaban" ]
+		],
+		"6" : [
+			[ "tapizaría" ],
+			[ "tapizarías" ],
+			[ "tapizaría" ],
+			[ "tapizaríamos" ],
+			[ "tapizaríais", "tapizarían" ],
+			[ "tapizarían" ]
+		],
+		"7" : [
+			[ "tapizaré" ],
+			[ "tapizarás" ],
+			[ "tapizará" ],
+			[ "tapizaremos" ],
+			[ "tapizaréis", "tapizarán" ],
+			[ "tapizarán" ]
+		],
+		"8" : [
+			[ "tapice" ],
+			[ "tapices" ],
+			[ "tapice" ],
+			[ "tapicemos" ],
+			[ "tapicéis", "tapicen" ],
+			[ "tapicen" ]
+		],
+		"9" : [
+			[ "tapizara" ],
+			[ "tapizaras" ],
+			[ "tapizara" ],
+			[ "tapizáramos" ],
+			[ "tapizarais", "tapizaran" ],
+			[ "tapizaran" ]
+		],
+		"10" : [
+			[ "tapizase" ],
+			[ "tapizases" ],
+			[ "tapizase" ],
+			[ "tapizásemos" ],
+			[ "tapizaseis", "tapizasen" ],
+			[ "tapizasen" ]
+		],
+		"11" : [
+			[ "tapizare" ],
+			[ "tapizares" ],
+			[ "tapizare" ],
+			[ "tapizáremos" ],
+			[ "tapizareis", "tapizaren" ],
+			[ "tapizaren" ]
+		],
+		"12" : {
+			"1" : [ "tapiza" ],
+			"2" : [ "tapice" ],
+			"3" : [ "tapicemos" ],
+			"4" : [ "tapizad" ],
+			"5" : [ "tapicen" ]
+		}
+	}
+}

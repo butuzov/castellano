@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recomenzar",
+	"word" : "recomenzar",
+	"infinitivo" : "recomenzar",
+	"participio" : [ "recomenzado" ],
+	"gerundio" : [ "recomenzando" ],
+	"tenses" : {
+		"3" : [
+			[ "recomienzo" ],
+			[ "recomienzas", "recomenzás" ],
+			[ "recomienza" ],
+			[ "recomenzamos" ],
+			[ "recomenzáis", "recomienzan" ],
+			[ "recomienzan" ]
+		],
+		"4" : [
+			[ "recomencé" ],
+			[ "recomenzaste" ],
+			[ "recomenzó" ],
+			[ "recomenzamos" ],
+			[ "recomenzasteis", "recomenzaron" ],
+			[ "recomenzaron" ]
+		],
+		"5" : [
+			[ "recomenzaba" ],
+			[ "recomenzabas" ],
+			[ "recomenzaba" ],
+			[ "recomenzábamos" ],
+			[ "recomenzabais", "recomenzaban" ],
+			[ "recomenzaban" ]
+		],
+		"6" : [
+			[ "recomenzaría" ],
+			[ "recomenzarías" ],
+			[ "recomenzaría" ],
+			[ "recomenzaríamos" ],
+			[ "recomenzaríais", "recomenzarían" ],
+			[ "recomenzarían" ]
+		],
+		"7" : [
+			[ "recomenzaré" ],
+			[ "recomenzarás" ],
+			[ "recomenzará" ],
+			[ "recomenzaremos" ],
+			[ "recomenzaréis", "recomenzarán" ],
+			[ "recomenzarán" ]
+		],
+		"8" : [
+			[ "recomience" ],
+			[ "recomiences" ],
+			[ "recomience" ],
+			[ "recomencemos" ],
+			[ "recomencéis", "recomiencen" ],
+			[ "recomiencen" ]
+		],
+		"9" : [
+			[ "recomenzara" ],
+			[ "recomenzaras" ],
+			[ "recomenzara" ],
+			[ "recomenzáramos" ],
+			[ "recomenzarais", "recomenzaran" ],
+			[ "recomenzaran" ]
+		],
+		"10" : [
+			[ "recomenzase" ],
+			[ "recomenzases" ],
+			[ "recomenzase" ],
+			[ "recomenzásemos" ],
+			[ "recomenzaseis", "recomenzasen" ],
+			[ "recomenzasen" ]
+		],
+		"11" : [
+			[ "recomenzare" ],
+			[ "recomenzares" ],
+			[ "recomenzare" ],
+			[ "recomenzáremos" ],
+			[ "recomenzareis", "recomenzaren" ],
+			[ "recomenzaren" ]
+		],
+		"12" : {
+			"1" : [ "recomienza" ],
+			"2" : [ "recomience" ],
+			"3" : [ "recomencemos" ],
+			"4" : [ "recomenzad" ],
+			"5" : [ "recomiencen" ]
+		}
+	}
+}

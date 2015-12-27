@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=devengar",
+	"word" : "devengar",
+	"infinitivo" : "devengar",
+	"participio" : [ "devengado" ],
+	"gerundio" : [ "devengando" ],
+	"tenses" : {
+		"3" : [
+			[ "devengo" ],
+			[ "devengas", "devengás" ],
+			[ "devenga" ],
+			[ "devengamos" ],
+			[ "devengáis", "devengan" ],
+			[ "devengan" ]
+		],
+		"4" : [
+			[ "devengué" ],
+			[ "devengaste" ],
+			[ "devengó" ],
+			[ "devengamos" ],
+			[ "devengasteis", "devengaron" ],
+			[ "devengaron" ]
+		],
+		"5" : [
+			[ "devengaba" ],
+			[ "devengabas" ],
+			[ "devengaba" ],
+			[ "devengábamos" ],
+			[ "devengabais", "devengaban" ],
+			[ "devengaban" ]
+		],
+		"6" : [
+			[ "devengaría" ],
+			[ "devengarías" ],
+			[ "devengaría" ],
+			[ "devengaríamos" ],
+			[ "devengaríais", "devengarían" ],
+			[ "devengarían" ]
+		],
+		"7" : [
+			[ "devengaré" ],
+			[ "devengarás" ],
+			[ "devengará" ],
+			[ "devengaremos" ],
+			[ "devengaréis", "devengarán" ],
+			[ "devengarán" ]
+		],
+		"8" : [
+			[ "devengue" ],
+			[ "devengues" ],
+			[ "devengue" ],
+			[ "devenguemos" ],
+			[ "devenguéis", "devenguen" ],
+			[ "devenguen" ]
+		],
+		"9" : [
+			[ "devengara" ],
+			[ "devengaras" ],
+			[ "devengara" ],
+			[ "devengáramos" ],
+			[ "devengarais", "devengaran" ],
+			[ "devengaran" ]
+		],
+		"10" : [
+			[ "devengase" ],
+			[ "devengases" ],
+			[ "devengase" ],
+			[ "devengásemos" ],
+			[ "devengaseis", "devengasen" ],
+			[ "devengasen" ]
+		],
+		"11" : [
+			[ "devengare" ],
+			[ "devengares" ],
+			[ "devengare" ],
+			[ "devengáremos" ],
+			[ "devengareis", "devengaren" ],
+			[ "devengaren" ]
+		],
+		"12" : {
+			"1" : [ "devenga" ],
+			"2" : [ "devengue" ],
+			"3" : [ "devenguemos" ],
+			"4" : [ "devengad" ],
+			"5" : [ "devenguen" ]
+		}
+	}
+}

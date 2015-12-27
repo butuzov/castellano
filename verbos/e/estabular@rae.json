@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estabular",
+	"word" : "estabular",
+	"infinitivo" : "estabular",
+	"participio" : [ "estabulado" ],
+	"gerundio" : [ "estabulando" ],
+	"tenses" : {
+		"3" : [
+			[ "estabulo" ],
+			[ "estabulas", "estabulás" ],
+			[ "estabula" ],
+			[ "estabulamos" ],
+			[ "estabuláis", "estabulan" ],
+			[ "estabulan" ]
+		],
+		"4" : [
+			[ "estabulé" ],
+			[ "estabulaste" ],
+			[ "estabuló" ],
+			[ "estabulamos" ],
+			[ "estabulasteis", "estabularon" ],
+			[ "estabularon" ]
+		],
+		"5" : [
+			[ "estabulaba" ],
+			[ "estabulabas" ],
+			[ "estabulaba" ],
+			[ "estabulábamos" ],
+			[ "estabulabais", "estabulaban" ],
+			[ "estabulaban" ]
+		],
+		"6" : [
+			[ "estabularía" ],
+			[ "estabularías" ],
+			[ "estabularía" ],
+			[ "estabularíamos" ],
+			[ "estabularíais", "estabularían" ],
+			[ "estabularían" ]
+		],
+		"7" : [
+			[ "estabularé" ],
+			[ "estabularás" ],
+			[ "estabulará" ],
+			[ "estabularemos" ],
+			[ "estabularéis", "estabularán" ],
+			[ "estabularán" ]
+		],
+		"8" : [
+			[ "estabule" ],
+			[ "estabules" ],
+			[ "estabule" ],
+			[ "estabulemos" ],
+			[ "estabuléis", "estabulen" ],
+			[ "estabulen" ]
+		],
+		"9" : [
+			[ "estabulara" ],
+			[ "estabularas" ],
+			[ "estabulara" ],
+			[ "estabuláramos" ],
+			[ "estabularais", "estabularan" ],
+			[ "estabularan" ]
+		],
+		"10" : [
+			[ "estabulase" ],
+			[ "estabulases" ],
+			[ "estabulase" ],
+			[ "estabulásemos" ],
+			[ "estabulaseis", "estabulasen" ],
+			[ "estabulasen" ]
+		],
+		"11" : [
+			[ "estabulare" ],
+			[ "estabulares" ],
+			[ "estabulare" ],
+			[ "estabuláremos" ],
+			[ "estabulareis", "estabularen" ],
+			[ "estabularen" ]
+		],
+		"12" : {
+			"1" : [ "estabula" ],
+			"2" : [ "estabule" ],
+			"3" : [ "estabulemos" ],
+			"4" : [ "estabulad" ],
+			"5" : [ "estabulen" ]
+		}
+	}
+}

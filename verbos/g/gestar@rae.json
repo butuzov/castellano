@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gestar",
+	"word" : "gestar",
+	"infinitivo" : "gestar",
+	"participio" : [ "gestado" ],
+	"gerundio" : [ "gestando" ],
+	"tenses" : {
+		"3" : [
+			[ "gesto" ],
+			[ "gestas", "gestás" ],
+			[ "gesta" ],
+			[ "gestamos" ],
+			[ "gestáis", "gestan" ],
+			[ "gestan" ]
+		],
+		"4" : [
+			[ "gesté" ],
+			[ "gestaste" ],
+			[ "gestó" ],
+			[ "gestamos" ],
+			[ "gestasteis", "gestaron" ],
+			[ "gestaron" ]
+		],
+		"5" : [
+			[ "gestaba" ],
+			[ "gestabas" ],
+			[ "gestaba" ],
+			[ "gestábamos" ],
+			[ "gestabais", "gestaban" ],
+			[ "gestaban" ]
+		],
+		"6" : [
+			[ "gestaría" ],
+			[ "gestarías" ],
+			[ "gestaría" ],
+			[ "gestaríamos" ],
+			[ "gestaríais", "gestarían" ],
+			[ "gestarían" ]
+		],
+		"7" : [
+			[ "gestaré" ],
+			[ "gestarás" ],
+			[ "gestará" ],
+			[ "gestaremos" ],
+			[ "gestaréis", "gestarán" ],
+			[ "gestarán" ]
+		],
+		"8" : [
+			[ "geste" ],
+			[ "gestes" ],
+			[ "geste" ],
+			[ "gestemos" ],
+			[ "gestéis", "gesten" ],
+			[ "gesten" ]
+		],
+		"9" : [
+			[ "gestara" ],
+			[ "gestaras" ],
+			[ "gestara" ],
+			[ "gestáramos" ],
+			[ "gestarais", "gestaran" ],
+			[ "gestaran" ]
+		],
+		"10" : [
+			[ "gestase" ],
+			[ "gestases" ],
+			[ "gestase" ],
+			[ "gestásemos" ],
+			[ "gestaseis", "gestasen" ],
+			[ "gestasen" ]
+		],
+		"11" : [
+			[ "gestare" ],
+			[ "gestares" ],
+			[ "gestare" ],
+			[ "gestáremos" ],
+			[ "gestareis", "gestaren" ],
+			[ "gestaren" ]
+		],
+		"12" : {
+			"1" : [ "gesta" ],
+			"2" : [ "geste" ],
+			"3" : [ "gestemos" ],
+			"4" : [ "gestad" ],
+			"5" : [ "gesten" ]
+		}
+	}
+}

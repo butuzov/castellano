@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=explayar",
+	"word" : "explayar",
+	"infinitivo" : "explayar",
+	"participio" : [ "explayado" ],
+	"gerundio" : [ "explayando" ],
+	"tenses" : {
+		"3" : [
+			[ "explayo" ],
+			[ "explayas", "explayás" ],
+			[ "explaya" ],
+			[ "explayamos" ],
+			[ "explayáis", "explayan" ],
+			[ "explayan" ]
+		],
+		"4" : [
+			[ "explayé" ],
+			[ "explayaste" ],
+			[ "explayó" ],
+			[ "explayamos" ],
+			[ "explayasteis", "explayaron" ],
+			[ "explayaron" ]
+		],
+		"5" : [
+			[ "explayaba" ],
+			[ "explayabas" ],
+			[ "explayaba" ],
+			[ "explayábamos" ],
+			[ "explayabais", "explayaban" ],
+			[ "explayaban" ]
+		],
+		"6" : [
+			[ "explayaría" ],
+			[ "explayarías" ],
+			[ "explayaría" ],
+			[ "explayaríamos" ],
+			[ "explayaríais", "explayarían" ],
+			[ "explayarían" ]
+		],
+		"7" : [
+			[ "explayaré" ],
+			[ "explayarás" ],
+			[ "explayará" ],
+			[ "explayaremos" ],
+			[ "explayaréis", "explayarán" ],
+			[ "explayarán" ]
+		],
+		"8" : [
+			[ "explaye" ],
+			[ "explayes" ],
+			[ "explaye" ],
+			[ "explayemos" ],
+			[ "explayéis", "explayen" ],
+			[ "explayen" ]
+		],
+		"9" : [
+			[ "explayara" ],
+			[ "explayaras" ],
+			[ "explayara" ],
+			[ "explayáramos" ],
+			[ "explayarais", "explayaran" ],
+			[ "explayaran" ]
+		],
+		"10" : [
+			[ "explayase" ],
+			[ "explayases" ],
+			[ "explayase" ],
+			[ "explayásemos" ],
+			[ "explayaseis", "explayasen" ],
+			[ "explayasen" ]
+		],
+		"11" : [
+			[ "explayare" ],
+			[ "explayares" ],
+			[ "explayare" ],
+			[ "explayáremos" ],
+			[ "explayareis", "explayaren" ],
+			[ "explayaren" ]
+		],
+		"12" : {
+			"1" : [ "explaya" ],
+			"2" : [ "explaye" ],
+			"3" : [ "explayemos" ],
+			"4" : [ "explayad" ],
+			"5" : [ "explayen" ]
+		}
+	}
+}

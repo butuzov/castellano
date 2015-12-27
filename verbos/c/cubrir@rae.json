@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cubrir",
+	"word" : "cubrir",
+	"infinitivo" : "cubrir",
+	"participio" : [ "cubierto" ],
+	"gerundio" : [ "cubriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "cubro" ],
+			[ "cubres", "cubrís" ],
+			[ "cubre" ],
+			[ "cubrimos" ],
+			[ "cubrís", "cubren" ],
+			[ "cubren" ]
+		],
+		"4" : [
+			[ "cubrí" ],
+			[ "cubriste" ],
+			[ "cubrió" ],
+			[ "cubrimos" ],
+			[ "cubristeis", "cubrieron" ],
+			[ "cubrieron" ]
+		],
+		"5" : [
+			[ "cubría" ],
+			[ "cubrías" ],
+			[ "cubría" ],
+			[ "cubríamos" ],
+			[ "cubríais", "cubrían" ],
+			[ "cubrían" ]
+		],
+		"6" : [
+			[ "cubriría" ],
+			[ "cubrirías" ],
+			[ "cubriría" ],
+			[ "cubriríamos" ],
+			[ "cubriríais", "cubrirían" ],
+			[ "cubrirían" ]
+		],
+		"7" : [
+			[ "cubriré" ],
+			[ "cubrirás" ],
+			[ "cubrirá" ],
+			[ "cubriremos" ],
+			[ "cubriréis", "cubrirán" ],
+			[ "cubrirán" ]
+		],
+		"8" : [
+			[ "cubra" ],
+			[ "cubras" ],
+			[ "cubra" ],
+			[ "cubramos" ],
+			[ "cubráis", "cubran" ],
+			[ "cubran" ]
+		],
+		"9" : [
+			[ "cubriera" ],
+			[ "cubrieras" ],
+			[ "cubriera" ],
+			[ "cubriéramos" ],
+			[ "cubrierais", "cubrieran" ],
+			[ "cubrieran" ]
+		],
+		"10" : [
+			[ "cubriese" ],
+			[ "cubrieses" ],
+			[ "cubriese" ],
+			[ "cubriésemos" ],
+			[ "cubrieseis", "cubriesen" ],
+			[ "cubriesen" ]
+		],
+		"11" : [
+			[ "cubriere" ],
+			[ "cubrieres" ],
+			[ "cubriere" ],
+			[ "cubriéremos" ],
+			[ "cubriereis", "cubrieren" ],
+			[ "cubrieren" ]
+		],
+		"12" : {
+			"1" : [ "cubre" ],
+			"2" : [ "cubra" ],
+			"3" : [ "cubramos" ],
+			"4" : [ "cubrid" ],
+			"5" : [ "cubran" ]
+		}
+	}
+}

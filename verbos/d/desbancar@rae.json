@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desbancar",
+	"word" : "desbancar",
+	"infinitivo" : "desbancar",
+	"participio" : [ "desbancado" ],
+	"gerundio" : [ "desbancando" ],
+	"tenses" : {
+		"3" : [
+			[ "desbanco" ],
+			[ "desbancas", "desbancás" ],
+			[ "desbanca" ],
+			[ "desbancamos" ],
+			[ "desbancáis", "desbancan" ],
+			[ "desbancan" ]
+		],
+		"4" : [
+			[ "desbanqué" ],
+			[ "desbancaste" ],
+			[ "desbancó" ],
+			[ "desbancamos" ],
+			[ "desbancasteis", "desbancaron" ],
+			[ "desbancaron" ]
+		],
+		"5" : [
+			[ "desbancaba" ],
+			[ "desbancabas" ],
+			[ "desbancaba" ],
+			[ "desbancábamos" ],
+			[ "desbancabais", "desbancaban" ],
+			[ "desbancaban" ]
+		],
+		"6" : [
+			[ "desbancaría" ],
+			[ "desbancarías" ],
+			[ "desbancaría" ],
+			[ "desbancaríamos" ],
+			[ "desbancaríais", "desbancarían" ],
+			[ "desbancarían" ]
+		],
+		"7" : [
+			[ "desbancaré" ],
+			[ "desbancarás" ],
+			[ "desbancará" ],
+			[ "desbancaremos" ],
+			[ "desbancaréis", "desbancarán" ],
+			[ "desbancarán" ]
+		],
+		"8" : [
+			[ "desbanque" ],
+			[ "desbanques" ],
+			[ "desbanque" ],
+			[ "desbanquemos" ],
+			[ "desbanquéis", "desbanquen" ],
+			[ "desbanquen" ]
+		],
+		"9" : [
+			[ "desbancara" ],
+			[ "desbancaras" ],
+			[ "desbancara" ],
+			[ "desbancáramos" ],
+			[ "desbancarais", "desbancaran" ],
+			[ "desbancaran" ]
+		],
+		"10" : [
+			[ "desbancase" ],
+			[ "desbancases" ],
+			[ "desbancase" ],
+			[ "desbancásemos" ],
+			[ "desbancaseis", "desbancasen" ],
+			[ "desbancasen" ]
+		],
+		"11" : [
+			[ "desbancare" ],
+			[ "desbancares" ],
+			[ "desbancare" ],
+			[ "desbancáremos" ],
+			[ "desbancareis", "desbancaren" ],
+			[ "desbancaren" ]
+		],
+		"12" : {
+			"1" : [ "desbanca" ],
+			"2" : [ "desbanque" ],
+			"3" : [ "desbanquemos" ],
+			"4" : [ "desbancad" ],
+			"5" : [ "desbanquen" ]
+		}
+	}
+}

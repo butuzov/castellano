@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=suscitar",
+	"word" : "suscitar",
+	"infinitivo" : "suscitar",
+	"participio" : [ "suscitado" ],
+	"gerundio" : [ "suscitando" ],
+	"tenses" : {
+		"3" : [
+			[ "suscito" ],
+			[ "suscitas", "suscitás" ],
+			[ "suscita" ],
+			[ "suscitamos" ],
+			[ "suscitáis", "suscitan" ],
+			[ "suscitan" ]
+		],
+		"4" : [
+			[ "suscité" ],
+			[ "suscitaste" ],
+			[ "suscitó" ],
+			[ "suscitamos" ],
+			[ "suscitasteis", "suscitaron" ],
+			[ "suscitaron" ]
+		],
+		"5" : [
+			[ "suscitaba" ],
+			[ "suscitabas" ],
+			[ "suscitaba" ],
+			[ "suscitábamos" ],
+			[ "suscitabais", "suscitaban" ],
+			[ "suscitaban" ]
+		],
+		"6" : [
+			[ "suscitaría" ],
+			[ "suscitarías" ],
+			[ "suscitaría" ],
+			[ "suscitaríamos" ],
+			[ "suscitaríais", "suscitarían" ],
+			[ "suscitarían" ]
+		],
+		"7" : [
+			[ "suscitaré" ],
+			[ "suscitarás" ],
+			[ "suscitará" ],
+			[ "suscitaremos" ],
+			[ "suscitaréis", "suscitarán" ],
+			[ "suscitarán" ]
+		],
+		"8" : [
+			[ "suscite" ],
+			[ "suscites" ],
+			[ "suscite" ],
+			[ "suscitemos" ],
+			[ "suscitéis", "susciten" ],
+			[ "susciten" ]
+		],
+		"9" : [
+			[ "suscitara" ],
+			[ "suscitaras" ],
+			[ "suscitara" ],
+			[ "suscitáramos" ],
+			[ "suscitarais", "suscitaran" ],
+			[ "suscitaran" ]
+		],
+		"10" : [
+			[ "suscitase" ],
+			[ "suscitases" ],
+			[ "suscitase" ],
+			[ "suscitásemos" ],
+			[ "suscitaseis", "suscitasen" ],
+			[ "suscitasen" ]
+		],
+		"11" : [
+			[ "suscitare" ],
+			[ "suscitares" ],
+			[ "suscitare" ],
+			[ "suscitáremos" ],
+			[ "suscitareis", "suscitaren" ],
+			[ "suscitaren" ]
+		],
+		"12" : {
+			"1" : [ "suscita" ],
+			"2" : [ "suscite" ],
+			"3" : [ "suscitemos" ],
+			"4" : [ "suscitad" ],
+			"5" : [ "susciten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chistar",
+	"word" : "chistar",
+	"infinitivo" : "chistar",
+	"participio" : [ "chistado" ],
+	"gerundio" : [ "chistando" ],
+	"tenses" : {
+		"3" : [
+			[ "chisto" ],
+			[ "chistas", "chistás" ],
+			[ "chista" ],
+			[ "chistamos" ],
+			[ "chistáis", "chistan" ],
+			[ "chistan" ]
+		],
+		"4" : [
+			[ "chisté" ],
+			[ "chistaste" ],
+			[ "chistó" ],
+			[ "chistamos" ],
+			[ "chistasteis", "chistaron" ],
+			[ "chistaron" ]
+		],
+		"5" : [
+			[ "chistaba" ],
+			[ "chistabas" ],
+			[ "chistaba" ],
+			[ "chistábamos" ],
+			[ "chistabais", "chistaban" ],
+			[ "chistaban" ]
+		],
+		"6" : [
+			[ "chistaría" ],
+			[ "chistarías" ],
+			[ "chistaría" ],
+			[ "chistaríamos" ],
+			[ "chistaríais", "chistarían" ],
+			[ "chistarían" ]
+		],
+		"7" : [
+			[ "chistaré" ],
+			[ "chistarás" ],
+			[ "chistará" ],
+			[ "chistaremos" ],
+			[ "chistaréis", "chistarán" ],
+			[ "chistarán" ]
+		],
+		"8" : [
+			[ "chiste" ],
+			[ "chistes" ],
+			[ "chiste" ],
+			[ "chistemos" ],
+			[ "chistéis", "chisten" ],
+			[ "chisten" ]
+		],
+		"9" : [
+			[ "chistara" ],
+			[ "chistaras" ],
+			[ "chistara" ],
+			[ "chistáramos" ],
+			[ "chistarais", "chistaran" ],
+			[ "chistaran" ]
+		],
+		"10" : [
+			[ "chistase" ],
+			[ "chistases" ],
+			[ "chistase" ],
+			[ "chistásemos" ],
+			[ "chistaseis", "chistasen" ],
+			[ "chistasen" ]
+		],
+		"11" : [
+			[ "chistare" ],
+			[ "chistares" ],
+			[ "chistare" ],
+			[ "chistáremos" ],
+			[ "chistareis", "chistaren" ],
+			[ "chistaren" ]
+		],
+		"12" : {
+			"1" : [ "chista" ],
+			"2" : [ "chiste" ],
+			"3" : [ "chistemos" ],
+			"4" : [ "chistad" ],
+			"5" : [ "chisten" ]
+		}
+	}
+}

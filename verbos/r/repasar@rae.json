@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repasar",
+	"word" : "repasar",
+	"infinitivo" : "repasar",
+	"participio" : [ "repasado" ],
+	"gerundio" : [ "repasando" ],
+	"tenses" : {
+		"3" : [
+			[ "repaso" ],
+			[ "repasas", "repasás" ],
+			[ "repasa" ],
+			[ "repasamos" ],
+			[ "repasáis", "repasan" ],
+			[ "repasan" ]
+		],
+		"4" : [
+			[ "repasé" ],
+			[ "repasaste" ],
+			[ "repasó" ],
+			[ "repasamos" ],
+			[ "repasasteis", "repasaron" ],
+			[ "repasaron" ]
+		],
+		"5" : [
+			[ "repasaba" ],
+			[ "repasabas" ],
+			[ "repasaba" ],
+			[ "repasábamos" ],
+			[ "repasabais", "repasaban" ],
+			[ "repasaban" ]
+		],
+		"6" : [
+			[ "repasaría" ],
+			[ "repasarías" ],
+			[ "repasaría" ],
+			[ "repasaríamos" ],
+			[ "repasaríais", "repasarían" ],
+			[ "repasarían" ]
+		],
+		"7" : [
+			[ "repasaré" ],
+			[ "repasarás" ],
+			[ "repasará" ],
+			[ "repasaremos" ],
+			[ "repasaréis", "repasarán" ],
+			[ "repasarán" ]
+		],
+		"8" : [
+			[ "repase" ],
+			[ "repases" ],
+			[ "repase" ],
+			[ "repasemos" ],
+			[ "repaséis", "repasen" ],
+			[ "repasen" ]
+		],
+		"9" : [
+			[ "repasara" ],
+			[ "repasaras" ],
+			[ "repasara" ],
+			[ "repasáramos" ],
+			[ "repasarais", "repasaran" ],
+			[ "repasaran" ]
+		],
+		"10" : [
+			[ "repasase" ],
+			[ "repasases" ],
+			[ "repasase" ],
+			[ "repasásemos" ],
+			[ "repasaseis", "repasasen" ],
+			[ "repasasen" ]
+		],
+		"11" : [
+			[ "repasare" ],
+			[ "repasares" ],
+			[ "repasare" ],
+			[ "repasáremos" ],
+			[ "repasareis", "repasaren" ],
+			[ "repasaren" ]
+		],
+		"12" : {
+			"1" : [ "repasa" ],
+			"2" : [ "repase" ],
+			"3" : [ "repasemos" ],
+			"4" : [ "repasad" ],
+			"5" : [ "repasen" ]
+		}
+	}
+}

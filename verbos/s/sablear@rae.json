@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sablear",
+	"word" : "sablear",
+	"infinitivo" : "sablear",
+	"participio" : [ "sableado" ],
+	"gerundio" : [ "sableando" ],
+	"tenses" : {
+		"3" : [
+			[ "sableo" ],
+			[ "sableas", "sableás" ],
+			[ "sablea" ],
+			[ "sableamos" ],
+			[ "sableáis", "sablean" ],
+			[ "sablean" ]
+		],
+		"4" : [
+			[ "sableé" ],
+			[ "sableaste" ],
+			[ "sableó" ],
+			[ "sableamos" ],
+			[ "sableasteis", "sablearon" ],
+			[ "sablearon" ]
+		],
+		"5" : [
+			[ "sableaba" ],
+			[ "sableabas" ],
+			[ "sableaba" ],
+			[ "sableábamos" ],
+			[ "sableabais", "sableaban" ],
+			[ "sableaban" ]
+		],
+		"6" : [
+			[ "sablearía" ],
+			[ "sablearías" ],
+			[ "sablearía" ],
+			[ "sablearíamos" ],
+			[ "sablearíais", "sablearían" ],
+			[ "sablearían" ]
+		],
+		"7" : [
+			[ "sablearé" ],
+			[ "sablearás" ],
+			[ "sableará" ],
+			[ "sablearemos" ],
+			[ "sablearéis", "sablearán" ],
+			[ "sablearán" ]
+		],
+		"8" : [
+			[ "sablee" ],
+			[ "sablees" ],
+			[ "sablee" ],
+			[ "sableemos" ],
+			[ "sableéis", "sableen" ],
+			[ "sableen" ]
+		],
+		"9" : [
+			[ "sableara" ],
+			[ "sablearas" ],
+			[ "sableara" ],
+			[ "sableáramos" ],
+			[ "sablearais", "sablearan" ],
+			[ "sablearan" ]
+		],
+		"10" : [
+			[ "sablease" ],
+			[ "sableases" ],
+			[ "sablease" ],
+			[ "sableásemos" ],
+			[ "sableaseis", "sableasen" ],
+			[ "sableasen" ]
+		],
+		"11" : [
+			[ "sableare" ],
+			[ "sableares" ],
+			[ "sableare" ],
+			[ "sableáremos" ],
+			[ "sableareis", "sablearen" ],
+			[ "sablearen" ]
+		],
+		"12" : {
+			"1" : [ "sablea" ],
+			"2" : [ "sablee" ],
+			"3" : [ "sableemos" ],
+			"4" : [ "sablead" ],
+			"5" : [ "sableen" ]
+		}
+	}
+}

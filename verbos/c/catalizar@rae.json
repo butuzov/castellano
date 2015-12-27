@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=catalizar",
+	"word" : "catalizar",
+	"infinitivo" : "catalizar",
+	"participio" : [ "catalizado" ],
+	"gerundio" : [ "catalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "catalizo" ],
+			[ "catalizas", "catalizás" ],
+			[ "cataliza" ],
+			[ "catalizamos" ],
+			[ "catalizáis", "catalizan" ],
+			[ "catalizan" ]
+		],
+		"4" : [
+			[ "catalicé" ],
+			[ "catalizaste" ],
+			[ "catalizó" ],
+			[ "catalizamos" ],
+			[ "catalizasteis", "catalizaron" ],
+			[ "catalizaron" ]
+		],
+		"5" : [
+			[ "catalizaba" ],
+			[ "catalizabas" ],
+			[ "catalizaba" ],
+			[ "catalizábamos" ],
+			[ "catalizabais", "catalizaban" ],
+			[ "catalizaban" ]
+		],
+		"6" : [
+			[ "catalizaría" ],
+			[ "catalizarías" ],
+			[ "catalizaría" ],
+			[ "catalizaríamos" ],
+			[ "catalizaríais", "catalizarían" ],
+			[ "catalizarían" ]
+		],
+		"7" : [
+			[ "catalizaré" ],
+			[ "catalizarás" ],
+			[ "catalizará" ],
+			[ "catalizaremos" ],
+			[ "catalizaréis", "catalizarán" ],
+			[ "catalizarán" ]
+		],
+		"8" : [
+			[ "catalice" ],
+			[ "catalices" ],
+			[ "catalice" ],
+			[ "catalicemos" ],
+			[ "catalicéis", "catalicen" ],
+			[ "catalicen" ]
+		],
+		"9" : [
+			[ "catalizara" ],
+			[ "catalizaras" ],
+			[ "catalizara" ],
+			[ "catalizáramos" ],
+			[ "catalizarais", "catalizaran" ],
+			[ "catalizaran" ]
+		],
+		"10" : [
+			[ "catalizase" ],
+			[ "catalizases" ],
+			[ "catalizase" ],
+			[ "catalizásemos" ],
+			[ "catalizaseis", "catalizasen" ],
+			[ "catalizasen" ]
+		],
+		"11" : [
+			[ "catalizare" ],
+			[ "catalizares" ],
+			[ "catalizare" ],
+			[ "catalizáremos" ],
+			[ "catalizareis", "catalizaren" ],
+			[ "catalizaren" ]
+		],
+		"12" : {
+			"1" : [ "cataliza" ],
+			"2" : [ "catalice" ],
+			"3" : [ "catalicemos" ],
+			"4" : [ "catalizad" ],
+			"5" : [ "catalicen" ]
+		}
+	}
+}

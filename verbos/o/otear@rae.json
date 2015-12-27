@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=otear",
+	"word" : "otear",
+	"infinitivo" : "otear",
+	"participio" : [ "oteado" ],
+	"gerundio" : [ "oteando" ],
+	"tenses" : {
+		"3" : [
+			[ "oteo" ],
+			[ "oteas", "oteás" ],
+			[ "otea" ],
+			[ "oteamos" ],
+			[ "oteáis", "otean" ],
+			[ "otean" ]
+		],
+		"4" : [
+			[ "oteé" ],
+			[ "oteaste" ],
+			[ "oteó" ],
+			[ "oteamos" ],
+			[ "oteasteis", "otearon" ],
+			[ "otearon" ]
+		],
+		"5" : [
+			[ "oteaba" ],
+			[ "oteabas" ],
+			[ "oteaba" ],
+			[ "oteábamos" ],
+			[ "oteabais", "oteaban" ],
+			[ "oteaban" ]
+		],
+		"6" : [
+			[ "otearía" ],
+			[ "otearías" ],
+			[ "otearía" ],
+			[ "otearíamos" ],
+			[ "otearíais", "otearían" ],
+			[ "otearían" ]
+		],
+		"7" : [
+			[ "otearé" ],
+			[ "otearás" ],
+			[ "oteará" ],
+			[ "otearemos" ],
+			[ "otearéis", "otearán" ],
+			[ "otearán" ]
+		],
+		"8" : [
+			[ "otee" ],
+			[ "otees" ],
+			[ "otee" ],
+			[ "oteemos" ],
+			[ "oteéis", "oteen" ],
+			[ "oteen" ]
+		],
+		"9" : [
+			[ "oteara" ],
+			[ "otearas" ],
+			[ "oteara" ],
+			[ "oteáramos" ],
+			[ "otearais", "otearan" ],
+			[ "otearan" ]
+		],
+		"10" : [
+			[ "otease" ],
+			[ "oteases" ],
+			[ "otease" ],
+			[ "oteásemos" ],
+			[ "oteaseis", "oteasen" ],
+			[ "oteasen" ]
+		],
+		"11" : [
+			[ "oteare" ],
+			[ "oteares" ],
+			[ "oteare" ],
+			[ "oteáremos" ],
+			[ "oteareis", "otearen" ],
+			[ "otearen" ]
+		],
+		"12" : {
+			"1" : [ "otea" ],
+			"2" : [ "otee" ],
+			"3" : [ "oteemos" ],
+			"4" : [ "otead" ],
+			"5" : [ "oteen" ]
+		}
+	}
+}

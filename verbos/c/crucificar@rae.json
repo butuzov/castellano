@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=crucificar",
+	"word" : "crucificar",
+	"infinitivo" : "crucificar",
+	"participio" : [ "crucificado" ],
+	"gerundio" : [ "crucificando" ],
+	"tenses" : {
+		"3" : [
+			[ "crucifico" ],
+			[ "crucificas", "crucificás" ],
+			[ "crucifica" ],
+			[ "crucificamos" ],
+			[ "crucificáis", "crucifican" ],
+			[ "crucifican" ]
+		],
+		"4" : [
+			[ "crucifiqué" ],
+			[ "crucificaste" ],
+			[ "crucificó" ],
+			[ "crucificamos" ],
+			[ "crucificasteis", "crucificaron" ],
+			[ "crucificaron" ]
+		],
+		"5" : [
+			[ "crucificaba" ],
+			[ "crucificabas" ],
+			[ "crucificaba" ],
+			[ "crucificábamos" ],
+			[ "crucificabais", "crucificaban" ],
+			[ "crucificaban" ]
+		],
+		"6" : [
+			[ "crucificaría" ],
+			[ "crucificarías" ],
+			[ "crucificaría" ],
+			[ "crucificaríamos" ],
+			[ "crucificaríais", "crucificarían" ],
+			[ "crucificarían" ]
+		],
+		"7" : [
+			[ "crucificaré" ],
+			[ "crucificarás" ],
+			[ "crucificará" ],
+			[ "crucificaremos" ],
+			[ "crucificaréis", "crucificarán" ],
+			[ "crucificarán" ]
+		],
+		"8" : [
+			[ "crucifique" ],
+			[ "crucifiques" ],
+			[ "crucifique" ],
+			[ "crucifiquemos" ],
+			[ "crucifiquéis", "crucifiquen" ],
+			[ "crucifiquen" ]
+		],
+		"9" : [
+			[ "crucificara" ],
+			[ "crucificaras" ],
+			[ "crucificara" ],
+			[ "crucificáramos" ],
+			[ "crucificarais", "crucificaran" ],
+			[ "crucificaran" ]
+		],
+		"10" : [
+			[ "crucificase" ],
+			[ "crucificases" ],
+			[ "crucificase" ],
+			[ "crucificásemos" ],
+			[ "crucificaseis", "crucificasen" ],
+			[ "crucificasen" ]
+		],
+		"11" : [
+			[ "crucificare" ],
+			[ "crucificares" ],
+			[ "crucificare" ],
+			[ "crucificáremos" ],
+			[ "crucificareis", "crucificaren" ],
+			[ "crucificaren" ]
+		],
+		"12" : {
+			"1" : [ "crucifica" ],
+			"2" : [ "crucifique" ],
+			"3" : [ "crucifiquemos" ],
+			"4" : [ "crucificad" ],
+			"5" : [ "crucifiquen" ]
+		}
+	}
+}

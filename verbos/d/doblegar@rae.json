@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=doblegar",
+	"word" : "doblegar",
+	"infinitivo" : "doblegar",
+	"participio" : [ "doblegado" ],
+	"gerundio" : [ "doblegando" ],
+	"tenses" : {
+		"3" : [
+			[ "doblego" ],
+			[ "doblegas", "doblegás" ],
+			[ "doblega" ],
+			[ "doblegamos" ],
+			[ "doblegáis", "doblegan" ],
+			[ "doblegan" ]
+		],
+		"4" : [
+			[ "doblegué" ],
+			[ "doblegaste" ],
+			[ "doblegó" ],
+			[ "doblegamos" ],
+			[ "doblegasteis", "doblegaron" ],
+			[ "doblegaron" ]
+		],
+		"5" : [
+			[ "doblegaba" ],
+			[ "doblegabas" ],
+			[ "doblegaba" ],
+			[ "doblegábamos" ],
+			[ "doblegabais", "doblegaban" ],
+			[ "doblegaban" ]
+		],
+		"6" : [
+			[ "doblegaría" ],
+			[ "doblegarías" ],
+			[ "doblegaría" ],
+			[ "doblegaríamos" ],
+			[ "doblegaríais", "doblegarían" ],
+			[ "doblegarían" ]
+		],
+		"7" : [
+			[ "doblegaré" ],
+			[ "doblegarás" ],
+			[ "doblegará" ],
+			[ "doblegaremos" ],
+			[ "doblegaréis", "doblegarán" ],
+			[ "doblegarán" ]
+		],
+		"8" : [
+			[ "doblegue" ],
+			[ "doblegues" ],
+			[ "doblegue" ],
+			[ "dobleguemos" ],
+			[ "dobleguéis", "dobleguen" ],
+			[ "dobleguen" ]
+		],
+		"9" : [
+			[ "doblegara" ],
+			[ "doblegaras" ],
+			[ "doblegara" ],
+			[ "doblegáramos" ],
+			[ "doblegarais", "doblegaran" ],
+			[ "doblegaran" ]
+		],
+		"10" : [
+			[ "doblegase" ],
+			[ "doblegases" ],
+			[ "doblegase" ],
+			[ "doblegásemos" ],
+			[ "doblegaseis", "doblegasen" ],
+			[ "doblegasen" ]
+		],
+		"11" : [
+			[ "doblegare" ],
+			[ "doblegares" ],
+			[ "doblegare" ],
+			[ "doblegáremos" ],
+			[ "doblegareis", "doblegaren" ],
+			[ "doblegaren" ]
+		],
+		"12" : {
+			"1" : [ "doblega" ],
+			"2" : [ "doblegue" ],
+			"3" : [ "dobleguemos" ],
+			"4" : [ "doblegad" ],
+			"5" : [ "dobleguen" ]
+		}
+	}
+}

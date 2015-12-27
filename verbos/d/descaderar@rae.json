@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descaderar",
+	"word" : "descaderar",
+	"infinitivo" : "descaderar",
+	"participio" : [ "descaderado" ],
+	"gerundio" : [ "descaderando" ],
+	"tenses" : {
+		"3" : [
+			[ "descadero" ],
+			[ "descaderas", "descaderás" ],
+			[ "descadera" ],
+			[ "descaderamos" ],
+			[ "descaderáis", "descaderan" ],
+			[ "descaderan" ]
+		],
+		"4" : [
+			[ "descaderé" ],
+			[ "descaderaste" ],
+			[ "descaderó" ],
+			[ "descaderamos" ],
+			[ "descaderasteis", "descaderaron" ],
+			[ "descaderaron" ]
+		],
+		"5" : [
+			[ "descaderaba" ],
+			[ "descaderabas" ],
+			[ "descaderaba" ],
+			[ "descaderábamos" ],
+			[ "descaderabais", "descaderaban" ],
+			[ "descaderaban" ]
+		],
+		"6" : [
+			[ "descaderaría" ],
+			[ "descaderarías" ],
+			[ "descaderaría" ],
+			[ "descaderaríamos" ],
+			[ "descaderaríais", "descaderarían" ],
+			[ "descaderarían" ]
+		],
+		"7" : [
+			[ "descaderaré" ],
+			[ "descaderarás" ],
+			[ "descaderará" ],
+			[ "descaderaremos" ],
+			[ "descaderaréis", "descaderarán" ],
+			[ "descaderarán" ]
+		],
+		"8" : [
+			[ "descadere" ],
+			[ "descaderes" ],
+			[ "descadere" ],
+			[ "descaderemos" ],
+			[ "descaderéis", "descaderen" ],
+			[ "descaderen" ]
+		],
+		"9" : [
+			[ "descaderara" ],
+			[ "descaderaras" ],
+			[ "descaderara" ],
+			[ "descaderáramos" ],
+			[ "descaderarais", "descaderaran" ],
+			[ "descaderaran" ]
+		],
+		"10" : [
+			[ "descaderase" ],
+			[ "descaderases" ],
+			[ "descaderase" ],
+			[ "descaderásemos" ],
+			[ "descaderaseis", "descaderasen" ],
+			[ "descaderasen" ]
+		],
+		"11" : [
+			[ "descaderare" ],
+			[ "descaderares" ],
+			[ "descaderare" ],
+			[ "descaderáremos" ],
+			[ "descaderareis", "descaderaren" ],
+			[ "descaderaren" ]
+		],
+		"12" : {
+			"1" : [ "descadera" ],
+			"2" : [ "descadere" ],
+			"3" : [ "descaderemos" ],
+			"4" : [ "descaderad" ],
+			"5" : [ "descaderen" ]
+		}
+	}
+}

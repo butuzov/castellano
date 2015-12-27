@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=catalanizar",
+	"word" : "catalanizar",
+	"infinitivo" : "catalanizar",
+	"participio" : [ "catalanizado" ],
+	"gerundio" : [ "catalanizando" ],
+	"tenses" : {
+		"3" : [
+			[ "catalanizo" ],
+			[ "catalanizas", "catalanizás" ],
+			[ "catalaniza" ],
+			[ "catalanizamos" ],
+			[ "catalanizáis", "catalanizan" ],
+			[ "catalanizan" ]
+		],
+		"4" : [
+			[ "catalanicé" ],
+			[ "catalanizaste" ],
+			[ "catalanizó" ],
+			[ "catalanizamos" ],
+			[ "catalanizasteis", "catalanizaron" ],
+			[ "catalanizaron" ]
+		],
+		"5" : [
+			[ "catalanizaba" ],
+			[ "catalanizabas" ],
+			[ "catalanizaba" ],
+			[ "catalanizábamos" ],
+			[ "catalanizabais", "catalanizaban" ],
+			[ "catalanizaban" ]
+		],
+		"6" : [
+			[ "catalanizaría" ],
+			[ "catalanizarías" ],
+			[ "catalanizaría" ],
+			[ "catalanizaríamos" ],
+			[ "catalanizaríais", "catalanizarían" ],
+			[ "catalanizarían" ]
+		],
+		"7" : [
+			[ "catalanizaré" ],
+			[ "catalanizarás" ],
+			[ "catalanizará" ],
+			[ "catalanizaremos" ],
+			[ "catalanizaréis", "catalanizarán" ],
+			[ "catalanizarán" ]
+		],
+		"8" : [
+			[ "catalanice" ],
+			[ "catalanices" ],
+			[ "catalanice" ],
+			[ "catalanicemos" ],
+			[ "catalanicéis", "catalanicen" ],
+			[ "catalanicen" ]
+		],
+		"9" : [
+			[ "catalanizara" ],
+			[ "catalanizaras" ],
+			[ "catalanizara" ],
+			[ "catalanizáramos" ],
+			[ "catalanizarais", "catalanizaran" ],
+			[ "catalanizaran" ]
+		],
+		"10" : [
+			[ "catalanizase" ],
+			[ "catalanizases" ],
+			[ "catalanizase" ],
+			[ "catalanizásemos" ],
+			[ "catalanizaseis", "catalanizasen" ],
+			[ "catalanizasen" ]
+		],
+		"11" : [
+			[ "catalanizare" ],
+			[ "catalanizares" ],
+			[ "catalanizare" ],
+			[ "catalanizáremos" ],
+			[ "catalanizareis", "catalanizaren" ],
+			[ "catalanizaren" ]
+		],
+		"12" : {
+			"1" : [ "catalaniza" ],
+			"2" : [ "catalanice" ],
+			"3" : [ "catalanicemos" ],
+			"4" : [ "catalanizad" ],
+			"5" : [ "catalanicen" ]
+		}
+	}
+}

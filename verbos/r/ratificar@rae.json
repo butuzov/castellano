@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ratificar",
+	"word" : "ratificar",
+	"infinitivo" : "ratificar",
+	"participio" : [ "ratificado" ],
+	"gerundio" : [ "ratificando" ],
+	"tenses" : {
+		"3" : [
+			[ "ratifico" ],
+			[ "ratificas", "ratificás" ],
+			[ "ratifica" ],
+			[ "ratificamos" ],
+			[ "ratificáis", "ratifican" ],
+			[ "ratifican" ]
+		],
+		"4" : [
+			[ "ratifiqué" ],
+			[ "ratificaste" ],
+			[ "ratificó" ],
+			[ "ratificamos" ],
+			[ "ratificasteis", "ratificaron" ],
+			[ "ratificaron" ]
+		],
+		"5" : [
+			[ "ratificaba" ],
+			[ "ratificabas" ],
+			[ "ratificaba" ],
+			[ "ratificábamos" ],
+			[ "ratificabais", "ratificaban" ],
+			[ "ratificaban" ]
+		],
+		"6" : [
+			[ "ratificaría" ],
+			[ "ratificarías" ],
+			[ "ratificaría" ],
+			[ "ratificaríamos" ],
+			[ "ratificaríais", "ratificarían" ],
+			[ "ratificarían" ]
+		],
+		"7" : [
+			[ "ratificaré" ],
+			[ "ratificarás" ],
+			[ "ratificará" ],
+			[ "ratificaremos" ],
+			[ "ratificaréis", "ratificarán" ],
+			[ "ratificarán" ]
+		],
+		"8" : [
+			[ "ratifique" ],
+			[ "ratifiques" ],
+			[ "ratifique" ],
+			[ "ratifiquemos" ],
+			[ "ratifiquéis", "ratifiquen" ],
+			[ "ratifiquen" ]
+		],
+		"9" : [
+			[ "ratificara" ],
+			[ "ratificaras" ],
+			[ "ratificara" ],
+			[ "ratificáramos" ],
+			[ "ratificarais", "ratificaran" ],
+			[ "ratificaran" ]
+		],
+		"10" : [
+			[ "ratificase" ],
+			[ "ratificases" ],
+			[ "ratificase" ],
+			[ "ratificásemos" ],
+			[ "ratificaseis", "ratificasen" ],
+			[ "ratificasen" ]
+		],
+		"11" : [
+			[ "ratificare" ],
+			[ "ratificares" ],
+			[ "ratificare" ],
+			[ "ratificáremos" ],
+			[ "ratificareis", "ratificaren" ],
+			[ "ratificaren" ]
+		],
+		"12" : {
+			"1" : [ "ratifica" ],
+			"2" : [ "ratifique" ],
+			"3" : [ "ratifiquemos" ],
+			"4" : [ "ratificad" ],
+			"5" : [ "ratifiquen" ]
+		}
+	}
+}

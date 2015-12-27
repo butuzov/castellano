@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gestionar",
+	"word" : "gestionar",
+	"infinitivo" : "gestionar",
+	"participio" : [ "gestionado" ],
+	"gerundio" : [ "gestionando" ],
+	"tenses" : {
+		"3" : [
+			[ "gestiono" ],
+			[ "gestionas", "gestionás" ],
+			[ "gestiona" ],
+			[ "gestionamos" ],
+			[ "gestionáis", "gestionan" ],
+			[ "gestionan" ]
+		],
+		"4" : [
+			[ "gestioné" ],
+			[ "gestionaste" ],
+			[ "gestionó" ],
+			[ "gestionamos" ],
+			[ "gestionasteis", "gestionaron" ],
+			[ "gestionaron" ]
+		],
+		"5" : [
+			[ "gestionaba" ],
+			[ "gestionabas" ],
+			[ "gestionaba" ],
+			[ "gestionábamos" ],
+			[ "gestionabais", "gestionaban" ],
+			[ "gestionaban" ]
+		],
+		"6" : [
+			[ "gestionaría" ],
+			[ "gestionarías" ],
+			[ "gestionaría" ],
+			[ "gestionaríamos" ],
+			[ "gestionaríais", "gestionarían" ],
+			[ "gestionarían" ]
+		],
+		"7" : [
+			[ "gestionaré" ],
+			[ "gestionarás" ],
+			[ "gestionará" ],
+			[ "gestionaremos" ],
+			[ "gestionaréis", "gestionarán" ],
+			[ "gestionarán" ]
+		],
+		"8" : [
+			[ "gestione" ],
+			[ "gestiones" ],
+			[ "gestione" ],
+			[ "gestionemos" ],
+			[ "gestionéis", "gestionen" ],
+			[ "gestionen" ]
+		],
+		"9" : [
+			[ "gestionara" ],
+			[ "gestionaras" ],
+			[ "gestionara" ],
+			[ "gestionáramos" ],
+			[ "gestionarais", "gestionaran" ],
+			[ "gestionaran" ]
+		],
+		"10" : [
+			[ "gestionase" ],
+			[ "gestionases" ],
+			[ "gestionase" ],
+			[ "gestionásemos" ],
+			[ "gestionaseis", "gestionasen" ],
+			[ "gestionasen" ]
+		],
+		"11" : [
+			[ "gestionare" ],
+			[ "gestionares" ],
+			[ "gestionare" ],
+			[ "gestionáremos" ],
+			[ "gestionareis", "gestionaren" ],
+			[ "gestionaren" ]
+		],
+		"12" : {
+			"1" : [ "gestiona" ],
+			"2" : [ "gestione" ],
+			"3" : [ "gestionemos" ],
+			"4" : [ "gestionad" ],
+			"5" : [ "gestionen" ]
+		}
+	}
+}

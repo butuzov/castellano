@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=orquestar",
+	"word" : "orquestar",
+	"infinitivo" : "orquestar",
+	"participio" : [ "orquestado" ],
+	"gerundio" : [ "orquestando" ],
+	"tenses" : {
+		"3" : [
+			[ "orquesto" ],
+			[ "orquestas", "orquestás" ],
+			[ "orquesta" ],
+			[ "orquestamos" ],
+			[ "orquestáis", "orquestan" ],
+			[ "orquestan" ]
+		],
+		"4" : [
+			[ "orquesté" ],
+			[ "orquestaste" ],
+			[ "orquestó" ],
+			[ "orquestamos" ],
+			[ "orquestasteis", "orquestaron" ],
+			[ "orquestaron" ]
+		],
+		"5" : [
+			[ "orquestaba" ],
+			[ "orquestabas" ],
+			[ "orquestaba" ],
+			[ "orquestábamos" ],
+			[ "orquestabais", "orquestaban" ],
+			[ "orquestaban" ]
+		],
+		"6" : [
+			[ "orquestaría" ],
+			[ "orquestarías" ],
+			[ "orquestaría" ],
+			[ "orquestaríamos" ],
+			[ "orquestaríais", "orquestarían" ],
+			[ "orquestarían" ]
+		],
+		"7" : [
+			[ "orquestaré" ],
+			[ "orquestarás" ],
+			[ "orquestará" ],
+			[ "orquestaremos" ],
+			[ "orquestaréis", "orquestarán" ],
+			[ "orquestarán" ]
+		],
+		"8" : [
+			[ "orqueste" ],
+			[ "orquestes" ],
+			[ "orqueste" ],
+			[ "orquestemos" ],
+			[ "orquestéis", "orquesten" ],
+			[ "orquesten" ]
+		],
+		"9" : [
+			[ "orquestara" ],
+			[ "orquestaras" ],
+			[ "orquestara" ],
+			[ "orquestáramos" ],
+			[ "orquestarais", "orquestaran" ],
+			[ "orquestaran" ]
+		],
+		"10" : [
+			[ "orquestase" ],
+			[ "orquestases" ],
+			[ "orquestase" ],
+			[ "orquestásemos" ],
+			[ "orquestaseis", "orquestasen" ],
+			[ "orquestasen" ]
+		],
+		"11" : [
+			[ "orquestare" ],
+			[ "orquestares" ],
+			[ "orquestare" ],
+			[ "orquestáremos" ],
+			[ "orquestareis", "orquestaren" ],
+			[ "orquestaren" ]
+		],
+		"12" : {
+			"1" : [ "orquesta" ],
+			"2" : [ "orqueste" ],
+			"3" : [ "orquestemos" ],
+			"4" : [ "orquestad" ],
+			"5" : [ "orquesten" ]
+		}
+	}
+}

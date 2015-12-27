@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=privar",
+	"word" : "privar",
+	"infinitivo" : "privar",
+	"participio" : [ "privado" ],
+	"gerundio" : [ "privando" ],
+	"tenses" : {
+		"3" : [
+			[ "privo" ],
+			[ "privas", "privás" ],
+			[ "priva" ],
+			[ "privamos" ],
+			[ "priváis", "privan" ],
+			[ "privan" ]
+		],
+		"4" : [
+			[ "privé" ],
+			[ "privaste" ],
+			[ "privó" ],
+			[ "privamos" ],
+			[ "privasteis", "privaron" ],
+			[ "privaron" ]
+		],
+		"5" : [
+			[ "privaba" ],
+			[ "privabas" ],
+			[ "privaba" ],
+			[ "privábamos" ],
+			[ "privabais", "privaban" ],
+			[ "privaban" ]
+		],
+		"6" : [
+			[ "privaría" ],
+			[ "privarías" ],
+			[ "privaría" ],
+			[ "privaríamos" ],
+			[ "privaríais", "privarían" ],
+			[ "privarían" ]
+		],
+		"7" : [
+			[ "privaré" ],
+			[ "privarás" ],
+			[ "privará" ],
+			[ "privaremos" ],
+			[ "privaréis", "privarán" ],
+			[ "privarán" ]
+		],
+		"8" : [
+			[ "prive" ],
+			[ "prives" ],
+			[ "prive" ],
+			[ "privemos" ],
+			[ "privéis", "priven" ],
+			[ "priven" ]
+		],
+		"9" : [
+			[ "privara" ],
+			[ "privaras" ],
+			[ "privara" ],
+			[ "priváramos" ],
+			[ "privarais", "privaran" ],
+			[ "privaran" ]
+		],
+		"10" : [
+			[ "privase" ],
+			[ "privases" ],
+			[ "privase" ],
+			[ "privásemos" ],
+			[ "privaseis", "privasen" ],
+			[ "privasen" ]
+		],
+		"11" : [
+			[ "privare" ],
+			[ "privares" ],
+			[ "privare" ],
+			[ "priváremos" ],
+			[ "privareis", "privaren" ],
+			[ "privaren" ]
+		],
+		"12" : {
+			"1" : [ "priva" ],
+			"2" : [ "prive" ],
+			"3" : [ "privemos" ],
+			"4" : [ "privad" ],
+			"5" : [ "priven" ]
+		}
+	}
+}

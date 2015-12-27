@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=caracterizar",
+	"word" : "caracterizar",
+	"infinitivo" : "caracterizar",
+	"participio" : [ "caracterizado" ],
+	"gerundio" : [ "caracterizando" ],
+	"tenses" : {
+		"3" : [
+			[ "caracterizo" ],
+			[ "caracterizas", "caracterizás" ],
+			[ "caracteriza" ],
+			[ "caracterizamos" ],
+			[ "caracterizáis", "caracterizan" ],
+			[ "caracterizan" ]
+		],
+		"4" : [
+			[ "caractericé" ],
+			[ "caracterizaste" ],
+			[ "caracterizó" ],
+			[ "caracterizamos" ],
+			[ "caracterizasteis", "caracterizaron" ],
+			[ "caracterizaron" ]
+		],
+		"5" : [
+			[ "caracterizaba" ],
+			[ "caracterizabas" ],
+			[ "caracterizaba" ],
+			[ "caracterizábamos" ],
+			[ "caracterizabais", "caracterizaban" ],
+			[ "caracterizaban" ]
+		],
+		"6" : [
+			[ "caracterizaría" ],
+			[ "caracterizarías" ],
+			[ "caracterizaría" ],
+			[ "caracterizaríamos" ],
+			[ "caracterizaríais", "caracterizarían" ],
+			[ "caracterizarían" ]
+		],
+		"7" : [
+			[ "caracterizaré" ],
+			[ "caracterizarás" ],
+			[ "caracterizará" ],
+			[ "caracterizaremos" ],
+			[ "caracterizaréis", "caracterizarán" ],
+			[ "caracterizarán" ]
+		],
+		"8" : [
+			[ "caracterice" ],
+			[ "caracterices" ],
+			[ "caracterice" ],
+			[ "caractericemos" ],
+			[ "caractericéis", "caractericen" ],
+			[ "caractericen" ]
+		],
+		"9" : [
+			[ "caracterizara" ],
+			[ "caracterizaras" ],
+			[ "caracterizara" ],
+			[ "caracterizáramos" ],
+			[ "caracterizarais", "caracterizaran" ],
+			[ "caracterizaran" ]
+		],
+		"10" : [
+			[ "caracterizase" ],
+			[ "caracterizases" ],
+			[ "caracterizase" ],
+			[ "caracterizásemos" ],
+			[ "caracterizaseis", "caracterizasen" ],
+			[ "caracterizasen" ]
+		],
+		"11" : [
+			[ "caracterizare" ],
+			[ "caracterizares" ],
+			[ "caracterizare" ],
+			[ "caracterizáremos" ],
+			[ "caracterizareis", "caracterizaren" ],
+			[ "caracterizaren" ]
+		],
+		"12" : {
+			"1" : [ "caracteriza" ],
+			"2" : [ "caracterice" ],
+			"3" : [ "caractericemos" ],
+			"4" : [ "caracterizad" ],
+			"5" : [ "caractericen" ]
+		}
+	}
+}

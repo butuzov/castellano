@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=blasonar",
+	"word" : "blasonar",
+	"infinitivo" : "blasonar",
+	"participio" : [ "blasonado" ],
+	"gerundio" : [ "blasonando" ],
+	"tenses" : {
+		"3" : [
+			[ "blasono" ],
+			[ "blasonas", "blasonás" ],
+			[ "blasona" ],
+			[ "blasonamos" ],
+			[ "blasonáis", "blasonan" ],
+			[ "blasonan" ]
+		],
+		"4" : [
+			[ "blasoné" ],
+			[ "blasonaste" ],
+			[ "blasonó" ],
+			[ "blasonamos" ],
+			[ "blasonasteis", "blasonaron" ],
+			[ "blasonaron" ]
+		],
+		"5" : [
+			[ "blasonaba" ],
+			[ "blasonabas" ],
+			[ "blasonaba" ],
+			[ "blasonábamos" ],
+			[ "blasonabais", "blasonaban" ],
+			[ "blasonaban" ]
+		],
+		"6" : [
+			[ "blasonaría" ],
+			[ "blasonarías" ],
+			[ "blasonaría" ],
+			[ "blasonaríamos" ],
+			[ "blasonaríais", "blasonarían" ],
+			[ "blasonarían" ]
+		],
+		"7" : [
+			[ "blasonaré" ],
+			[ "blasonarás" ],
+			[ "blasonará" ],
+			[ "blasonaremos" ],
+			[ "blasonaréis", "blasonarán" ],
+			[ "blasonarán" ]
+		],
+		"8" : [
+			[ "blasone" ],
+			[ "blasones" ],
+			[ "blasone" ],
+			[ "blasonemos" ],
+			[ "blasonéis", "blasonen" ],
+			[ "blasonen" ]
+		],
+		"9" : [
+			[ "blasonara" ],
+			[ "blasonaras" ],
+			[ "blasonara" ],
+			[ "blasonáramos" ],
+			[ "blasonarais", "blasonaran" ],
+			[ "blasonaran" ]
+		],
+		"10" : [
+			[ "blasonase" ],
+			[ "blasonases" ],
+			[ "blasonase" ],
+			[ "blasonásemos" ],
+			[ "blasonaseis", "blasonasen" ],
+			[ "blasonasen" ]
+		],
+		"11" : [
+			[ "blasonare" ],
+			[ "blasonares" ],
+			[ "blasonare" ],
+			[ "blasonáremos" ],
+			[ "blasonareis", "blasonaren" ],
+			[ "blasonaren" ]
+		],
+		"12" : {
+			"1" : [ "blasona" ],
+			"2" : [ "blasone" ],
+			"3" : [ "blasonemos" ],
+			"4" : [ "blasonad" ],
+			"5" : [ "blasonen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aporrear",
+	"word" : "aporrear",
+	"infinitivo" : "aporrear",
+	"participio" : [ "aporreado" ],
+	"gerundio" : [ "aporreando" ],
+	"tenses" : {
+		"3" : [
+			[ "aporreo" ],
+			[ "aporreas", "aporreás" ],
+			[ "aporrea" ],
+			[ "aporreamos" ],
+			[ "aporreáis", "aporrean" ],
+			[ "aporrean" ]
+		],
+		"4" : [
+			[ "aporreé" ],
+			[ "aporreaste" ],
+			[ "aporreó" ],
+			[ "aporreamos" ],
+			[ "aporreasteis", "aporrearon" ],
+			[ "aporrearon" ]
+		],
+		"5" : [
+			[ "aporreaba" ],
+			[ "aporreabas" ],
+			[ "aporreaba" ],
+			[ "aporreábamos" ],
+			[ "aporreabais", "aporreaban" ],
+			[ "aporreaban" ]
+		],
+		"6" : [
+			[ "aporrearía" ],
+			[ "aporrearías" ],
+			[ "aporrearía" ],
+			[ "aporrearíamos" ],
+			[ "aporrearíais", "aporrearían" ],
+			[ "aporrearían" ]
+		],
+		"7" : [
+			[ "aporrearé" ],
+			[ "aporrearás" ],
+			[ "aporreará" ],
+			[ "aporrearemos" ],
+			[ "aporrearéis", "aporrearán" ],
+			[ "aporrearán" ]
+		],
+		"8" : [
+			[ "aporree" ],
+			[ "aporrees" ],
+			[ "aporree" ],
+			[ "aporreemos" ],
+			[ "aporreéis", "aporreen" ],
+			[ "aporreen" ]
+		],
+		"9" : [
+			[ "aporreara" ],
+			[ "aporrearas" ],
+			[ "aporreara" ],
+			[ "aporreáramos" ],
+			[ "aporrearais", "aporrearan" ],
+			[ "aporrearan" ]
+		],
+		"10" : [
+			[ "aporrease" ],
+			[ "aporreases" ],
+			[ "aporrease" ],
+			[ "aporreásemos" ],
+			[ "aporreaseis", "aporreasen" ],
+			[ "aporreasen" ]
+		],
+		"11" : [
+			[ "aporreare" ],
+			[ "aporreares" ],
+			[ "aporreare" ],
+			[ "aporreáremos" ],
+			[ "aporreareis", "aporrearen" ],
+			[ "aporrearen" ]
+		],
+		"12" : {
+			"1" : [ "aporrea" ],
+			"2" : [ "aporree" ],
+			"3" : [ "aporreemos" ],
+			"4" : [ "aporread" ],
+			"5" : [ "aporreen" ]
+		}
+	}
+}

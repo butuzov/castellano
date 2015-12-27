@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=soplar",
+	"word" : "soplar",
+	"infinitivo" : "soplar",
+	"participio" : [ "soplado" ],
+	"gerundio" : [ "soplando" ],
+	"tenses" : {
+		"3" : [
+			[ "soplo" ],
+			[ "soplas", "soplás" ],
+			[ "sopla" ],
+			[ "soplamos" ],
+			[ "sopláis", "soplan" ],
+			[ "soplan" ]
+		],
+		"4" : [
+			[ "soplé" ],
+			[ "soplaste" ],
+			[ "sopló" ],
+			[ "soplamos" ],
+			[ "soplasteis", "soplaron" ],
+			[ "soplaron" ]
+		],
+		"5" : [
+			[ "soplaba" ],
+			[ "soplabas" ],
+			[ "soplaba" ],
+			[ "soplábamos" ],
+			[ "soplabais", "soplaban" ],
+			[ "soplaban" ]
+		],
+		"6" : [
+			[ "soplaría" ],
+			[ "soplarías" ],
+			[ "soplaría" ],
+			[ "soplaríamos" ],
+			[ "soplaríais", "soplarían" ],
+			[ "soplarían" ]
+		],
+		"7" : [
+			[ "soplaré" ],
+			[ "soplarás" ],
+			[ "soplará" ],
+			[ "soplaremos" ],
+			[ "soplaréis", "soplarán" ],
+			[ "soplarán" ]
+		],
+		"8" : [
+			[ "sople" ],
+			[ "soples" ],
+			[ "sople" ],
+			[ "soplemos" ],
+			[ "sopléis", "soplen" ],
+			[ "soplen" ]
+		],
+		"9" : [
+			[ "soplara" ],
+			[ "soplaras" ],
+			[ "soplara" ],
+			[ "sopláramos" ],
+			[ "soplarais", "soplaran" ],
+			[ "soplaran" ]
+		],
+		"10" : [
+			[ "soplase" ],
+			[ "soplases" ],
+			[ "soplase" ],
+			[ "soplásemos" ],
+			[ "soplaseis", "soplasen" ],
+			[ "soplasen" ]
+		],
+		"11" : [
+			[ "soplare" ],
+			[ "soplares" ],
+			[ "soplare" ],
+			[ "sopláremos" ],
+			[ "soplareis", "soplaren" ],
+			[ "soplaren" ]
+		],
+		"12" : {
+			"1" : [ "sopla" ],
+			"2" : [ "sople" ],
+			"3" : [ "soplemos" ],
+			"4" : [ "soplad" ],
+			"5" : [ "soplen" ]
+		}
+	}
+}

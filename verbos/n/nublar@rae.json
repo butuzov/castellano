@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=nublar",
+	"word" : "nublar",
+	"infinitivo" : "nublar",
+	"participio" : [ "nublado" ],
+	"gerundio" : [ "nublando" ],
+	"tenses" : {
+		"3" : [
+			[ "nublo" ],
+			[ "nublas", "nublás" ],
+			[ "nubla" ],
+			[ "nublamos" ],
+			[ "nubláis", "nublan" ],
+			[ "nublan" ]
+		],
+		"4" : [
+			[ "nublé" ],
+			[ "nublaste" ],
+			[ "nubló" ],
+			[ "nublamos" ],
+			[ "nublasteis", "nublaron" ],
+			[ "nublaron" ]
+		],
+		"5" : [
+			[ "nublaba" ],
+			[ "nublabas" ],
+			[ "nublaba" ],
+			[ "nublábamos" ],
+			[ "nublabais", "nublaban" ],
+			[ "nublaban" ]
+		],
+		"6" : [
+			[ "nublaría" ],
+			[ "nublarías" ],
+			[ "nublaría" ],
+			[ "nublaríamos" ],
+			[ "nublaríais", "nublarían" ],
+			[ "nublarían" ]
+		],
+		"7" : [
+			[ "nublaré" ],
+			[ "nublarás" ],
+			[ "nublará" ],
+			[ "nublaremos" ],
+			[ "nublaréis", "nublarán" ],
+			[ "nublarán" ]
+		],
+		"8" : [
+			[ "nuble" ],
+			[ "nubles" ],
+			[ "nuble" ],
+			[ "nublemos" ],
+			[ "nubléis", "nublen" ],
+			[ "nublen" ]
+		],
+		"9" : [
+			[ "nublara" ],
+			[ "nublaras" ],
+			[ "nublara" ],
+			[ "nubláramos" ],
+			[ "nublarais", "nublaran" ],
+			[ "nublaran" ]
+		],
+		"10" : [
+			[ "nublase" ],
+			[ "nublases" ],
+			[ "nublase" ],
+			[ "nublásemos" ],
+			[ "nublaseis", "nublasen" ],
+			[ "nublasen" ]
+		],
+		"11" : [
+			[ "nublare" ],
+			[ "nublares" ],
+			[ "nublare" ],
+			[ "nubláremos" ],
+			[ "nublareis", "nublaren" ],
+			[ "nublaren" ]
+		],
+		"12" : {
+			"1" : [ "nubla" ],
+			"2" : [ "nuble" ],
+			"3" : [ "nublemos" ],
+			"4" : [ "nublad" ],
+			"5" : [ "nublen" ]
+		}
+	}
+}

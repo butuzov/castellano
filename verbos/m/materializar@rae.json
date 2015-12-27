@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=materializar",
+	"word" : "materializar",
+	"infinitivo" : "materializar",
+	"participio" : [ "materializado" ],
+	"gerundio" : [ "materializando" ],
+	"tenses" : {
+		"3" : [
+			[ "materializo" ],
+			[ "materializas", "materializás" ],
+			[ "materializa" ],
+			[ "materializamos" ],
+			[ "materializáis", "materializan" ],
+			[ "materializan" ]
+		],
+		"4" : [
+			[ "materialicé" ],
+			[ "materializaste" ],
+			[ "materializó" ],
+			[ "materializamos" ],
+			[ "materializasteis", "materializaron" ],
+			[ "materializaron" ]
+		],
+		"5" : [
+			[ "materializaba" ],
+			[ "materializabas" ],
+			[ "materializaba" ],
+			[ "materializábamos" ],
+			[ "materializabais", "materializaban" ],
+			[ "materializaban" ]
+		],
+		"6" : [
+			[ "materializaría" ],
+			[ "materializarías" ],
+			[ "materializaría" ],
+			[ "materializaríamos" ],
+			[ "materializaríais", "materializarían" ],
+			[ "materializarían" ]
+		],
+		"7" : [
+			[ "materializaré" ],
+			[ "materializarás" ],
+			[ "materializará" ],
+			[ "materializaremos" ],
+			[ "materializaréis", "materializarán" ],
+			[ "materializarán" ]
+		],
+		"8" : [
+			[ "materialice" ],
+			[ "materialices" ],
+			[ "materialice" ],
+			[ "materialicemos" ],
+			[ "materialicéis", "materialicen" ],
+			[ "materialicen" ]
+		],
+		"9" : [
+			[ "materializara" ],
+			[ "materializaras" ],
+			[ "materializara" ],
+			[ "materializáramos" ],
+			[ "materializarais", "materializaran" ],
+			[ "materializaran" ]
+		],
+		"10" : [
+			[ "materializase" ],
+			[ "materializases" ],
+			[ "materializase" ],
+			[ "materializásemos" ],
+			[ "materializaseis", "materializasen" ],
+			[ "materializasen" ]
+		],
+		"11" : [
+			[ "materializare" ],
+			[ "materializares" ],
+			[ "materializare" ],
+			[ "materializáremos" ],
+			[ "materializareis", "materializaren" ],
+			[ "materializaren" ]
+		],
+		"12" : {
+			"1" : [ "materializa" ],
+			"2" : [ "materialice" ],
+			"3" : [ "materialicemos" ],
+			"4" : [ "materializad" ],
+			"5" : [ "materialicen" ]
+		}
+	}
+}

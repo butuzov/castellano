@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apechar",
+	"word" : "apechar",
+	"infinitivo" : "apechar",
+	"participio" : [ "apechado" ],
+	"gerundio" : [ "apechando" ],
+	"tenses" : {
+		"3" : [
+			[ "apecho" ],
+			[ "apechas", "apechás" ],
+			[ "apecha" ],
+			[ "apechamos" ],
+			[ "apecháis", "apechan" ],
+			[ "apechan" ]
+		],
+		"4" : [
+			[ "apeché" ],
+			[ "apechaste" ],
+			[ "apechó" ],
+			[ "apechamos" ],
+			[ "apechasteis", "apecharon" ],
+			[ "apecharon" ]
+		],
+		"5" : [
+			[ "apechaba" ],
+			[ "apechabas" ],
+			[ "apechaba" ],
+			[ "apechábamos" ],
+			[ "apechabais", "apechaban" ],
+			[ "apechaban" ]
+		],
+		"6" : [
+			[ "apecharía" ],
+			[ "apecharías" ],
+			[ "apecharía" ],
+			[ "apecharíamos" ],
+			[ "apecharíais", "apecharían" ],
+			[ "apecharían" ]
+		],
+		"7" : [
+			[ "apecharé" ],
+			[ "apecharás" ],
+			[ "apechará" ],
+			[ "apecharemos" ],
+			[ "apecharéis", "apecharán" ],
+			[ "apecharán" ]
+		],
+		"8" : [
+			[ "apeche" ],
+			[ "apeches" ],
+			[ "apeche" ],
+			[ "apechemos" ],
+			[ "apechéis", "apechen" ],
+			[ "apechen" ]
+		],
+		"9" : [
+			[ "apechara" ],
+			[ "apecharas" ],
+			[ "apechara" ],
+			[ "apecháramos" ],
+			[ "apecharais", "apecharan" ],
+			[ "apecharan" ]
+		],
+		"10" : [
+			[ "apechase" ],
+			[ "apechases" ],
+			[ "apechase" ],
+			[ "apechásemos" ],
+			[ "apechaseis", "apechasen" ],
+			[ "apechasen" ]
+		],
+		"11" : [
+			[ "apechare" ],
+			[ "apechares" ],
+			[ "apechare" ],
+			[ "apecháremos" ],
+			[ "apechareis", "apecharen" ],
+			[ "apecharen" ]
+		],
+		"12" : {
+			"1" : [ "apecha" ],
+			"2" : [ "apeche" ],
+			"3" : [ "apechemos" ],
+			"4" : [ "apechad" ],
+			"5" : [ "apechen" ]
+		}
+	}
+}

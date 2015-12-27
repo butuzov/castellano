@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incitar",
+	"word" : "incitar",
+	"infinitivo" : "incitar",
+	"participio" : [ "incitado" ],
+	"gerundio" : [ "incitando" ],
+	"tenses" : {
+		"3" : [
+			[ "incito" ],
+			[ "incitas", "incitás" ],
+			[ "incita" ],
+			[ "incitamos" ],
+			[ "incitáis", "incitan" ],
+			[ "incitan" ]
+		],
+		"4" : [
+			[ "incité" ],
+			[ "incitaste" ],
+			[ "incitó" ],
+			[ "incitamos" ],
+			[ "incitasteis", "incitaron" ],
+			[ "incitaron" ]
+		],
+		"5" : [
+			[ "incitaba" ],
+			[ "incitabas" ],
+			[ "incitaba" ],
+			[ "incitábamos" ],
+			[ "incitabais", "incitaban" ],
+			[ "incitaban" ]
+		],
+		"6" : [
+			[ "incitaría" ],
+			[ "incitarías" ],
+			[ "incitaría" ],
+			[ "incitaríamos" ],
+			[ "incitaríais", "incitarían" ],
+			[ "incitarían" ]
+		],
+		"7" : [
+			[ "incitaré" ],
+			[ "incitarás" ],
+			[ "incitará" ],
+			[ "incitaremos" ],
+			[ "incitaréis", "incitarán" ],
+			[ "incitarán" ]
+		],
+		"8" : [
+			[ "incite" ],
+			[ "incites" ],
+			[ "incite" ],
+			[ "incitemos" ],
+			[ "incitéis", "inciten" ],
+			[ "inciten" ]
+		],
+		"9" : [
+			[ "incitara" ],
+			[ "incitaras" ],
+			[ "incitara" ],
+			[ "incitáramos" ],
+			[ "incitarais", "incitaran" ],
+			[ "incitaran" ]
+		],
+		"10" : [
+			[ "incitase" ],
+			[ "incitases" ],
+			[ "incitase" ],
+			[ "incitásemos" ],
+			[ "incitaseis", "incitasen" ],
+			[ "incitasen" ]
+		],
+		"11" : [
+			[ "incitare" ],
+			[ "incitares" ],
+			[ "incitare" ],
+			[ "incitáremos" ],
+			[ "incitareis", "incitaren" ],
+			[ "incitaren" ]
+		],
+		"12" : {
+			"1" : [ "incita" ],
+			"2" : [ "incite" ],
+			"3" : [ "incitemos" ],
+			"4" : [ "incitad" ],
+			"5" : [ "inciten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=halar",
+	"word" : "halar",
+	"infinitivo" : "halar",
+	"participio" : [ "halado" ],
+	"gerundio" : [ "halando" ],
+	"tenses" : {
+		"3" : [
+			[ "halo" ],
+			[ "halas", "halás" ],
+			[ "hala" ],
+			[ "halamos" ],
+			[ "haláis", "halan" ],
+			[ "halan" ]
+		],
+		"4" : [
+			[ "halé" ],
+			[ "halaste" ],
+			[ "haló" ],
+			[ "halamos" ],
+			[ "halasteis", "halaron" ],
+			[ "halaron" ]
+		],
+		"5" : [
+			[ "halaba" ],
+			[ "halabas" ],
+			[ "halaba" ],
+			[ "halábamos" ],
+			[ "halabais", "halaban" ],
+			[ "halaban" ]
+		],
+		"6" : [
+			[ "halaría" ],
+			[ "halarías" ],
+			[ "halaría" ],
+			[ "halaríamos" ],
+			[ "halaríais", "halarían" ],
+			[ "halarían" ]
+		],
+		"7" : [
+			[ "halaré" ],
+			[ "halarás" ],
+			[ "halará" ],
+			[ "halaremos" ],
+			[ "halaréis", "halarán" ],
+			[ "halarán" ]
+		],
+		"8" : [
+			[ "hale" ],
+			[ "hales" ],
+			[ "hale" ],
+			[ "halemos" ],
+			[ "haléis", "halen" ],
+			[ "halen" ]
+		],
+		"9" : [
+			[ "halara" ],
+			[ "halaras" ],
+			[ "halara" ],
+			[ "haláramos" ],
+			[ "halarais", "halaran" ],
+			[ "halaran" ]
+		],
+		"10" : [
+			[ "halase" ],
+			[ "halases" ],
+			[ "halase" ],
+			[ "halásemos" ],
+			[ "halaseis", "halasen" ],
+			[ "halasen" ]
+		],
+		"11" : [
+			[ "halare" ],
+			[ "halares" ],
+			[ "halare" ],
+			[ "haláremos" ],
+			[ "halareis", "halaren" ],
+			[ "halaren" ]
+		],
+		"12" : {
+			"1" : [ "hala" ],
+			"2" : [ "hale" ],
+			"3" : [ "halemos" ],
+			"4" : [ "halad" ],
+			"5" : [ "halen" ]
+		}
+	}
+}

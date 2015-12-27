@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pendejear",
+	"word" : "pendejear",
+	"infinitivo" : "pendejear",
+	"participio" : [ "pendejeado" ],
+	"gerundio" : [ "pendejeando" ],
+	"tenses" : {
+		"3" : [
+			[ "pendejeo" ],
+			[ "pendejeas", "pendejeás" ],
+			[ "pendejea" ],
+			[ "pendejeamos" ],
+			[ "pendejeáis", "pendejean" ],
+			[ "pendejean" ]
+		],
+		"4" : [
+			[ "pendejeé" ],
+			[ "pendejeaste" ],
+			[ "pendejeó" ],
+			[ "pendejeamos" ],
+			[ "pendejeasteis", "pendejearon" ],
+			[ "pendejearon" ]
+		],
+		"5" : [
+			[ "pendejeaba" ],
+			[ "pendejeabas" ],
+			[ "pendejeaba" ],
+			[ "pendejeábamos" ],
+			[ "pendejeabais", "pendejeaban" ],
+			[ "pendejeaban" ]
+		],
+		"6" : [
+			[ "pendejearía" ],
+			[ "pendejearías" ],
+			[ "pendejearía" ],
+			[ "pendejearíamos" ],
+			[ "pendejearíais", "pendejearían" ],
+			[ "pendejearían" ]
+		],
+		"7" : [
+			[ "pendejearé" ],
+			[ "pendejearás" ],
+			[ "pendejeará" ],
+			[ "pendejearemos" ],
+			[ "pendejearéis", "pendejearán" ],
+			[ "pendejearán" ]
+		],
+		"8" : [
+			[ "pendejee" ],
+			[ "pendejees" ],
+			[ "pendejee" ],
+			[ "pendejeemos" ],
+			[ "pendejeéis", "pendejeen" ],
+			[ "pendejeen" ]
+		],
+		"9" : [
+			[ "pendejeara" ],
+			[ "pendejearas" ],
+			[ "pendejeara" ],
+			[ "pendejeáramos" ],
+			[ "pendejearais", "pendejearan" ],
+			[ "pendejearan" ]
+		],
+		"10" : [
+			[ "pendejease" ],
+			[ "pendejeases" ],
+			[ "pendejease" ],
+			[ "pendejeásemos" ],
+			[ "pendejeaseis", "pendejeasen" ],
+			[ "pendejeasen" ]
+		],
+		"11" : [
+			[ "pendejeare" ],
+			[ "pendejeares" ],
+			[ "pendejeare" ],
+			[ "pendejeáremos" ],
+			[ "pendejeareis", "pendejearen" ],
+			[ "pendejearen" ]
+		],
+		"12" : {
+			"1" : [ "pendejea" ],
+			"2" : [ "pendejee" ],
+			"3" : [ "pendejeemos" ],
+			"4" : [ "pendejead" ],
+			"5" : [ "pendejeen" ]
+		}
+	}
+}

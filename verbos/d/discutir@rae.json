@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=discutir",
+	"word" : "discutir",
+	"infinitivo" : "discutir",
+	"participio" : [ "discutido" ],
+	"gerundio" : [ "discutiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "discuto" ],
+			[ "discutes", "discutís" ],
+			[ "discute" ],
+			[ "discutimos" ],
+			[ "discutís", "discuten" ],
+			[ "discuten" ]
+		],
+		"4" : [
+			[ "discutí" ],
+			[ "discutiste" ],
+			[ "discutió" ],
+			[ "discutimos" ],
+			[ "discutisteis", "discutieron" ],
+			[ "discutieron" ]
+		],
+		"5" : [
+			[ "discutía" ],
+			[ "discutías" ],
+			[ "discutía" ],
+			[ "discutíamos" ],
+			[ "discutíais", "discutían" ],
+			[ "discutían" ]
+		],
+		"6" : [
+			[ "discutiría" ],
+			[ "discutirías" ],
+			[ "discutiría" ],
+			[ "discutiríamos" ],
+			[ "discutiríais", "discutirían" ],
+			[ "discutirían" ]
+		],
+		"7" : [
+			[ "discutiré" ],
+			[ "discutirás" ],
+			[ "discutirá" ],
+			[ "discutiremos" ],
+			[ "discutiréis", "discutirán" ],
+			[ "discutirán" ]
+		],
+		"8" : [
+			[ "discuta" ],
+			[ "discutas" ],
+			[ "discuta" ],
+			[ "discutamos" ],
+			[ "discutáis", "discutan" ],
+			[ "discutan" ]
+		],
+		"9" : [
+			[ "discutiera" ],
+			[ "discutieras" ],
+			[ "discutiera" ],
+			[ "discutiéramos" ],
+			[ "discutierais", "discutieran" ],
+			[ "discutieran" ]
+		],
+		"10" : [
+			[ "discutiese" ],
+			[ "discutieses" ],
+			[ "discutiese" ],
+			[ "discutiésemos" ],
+			[ "discutieseis", "discutiesen" ],
+			[ "discutiesen" ]
+		],
+		"11" : [
+			[ "discutiere" ],
+			[ "discutieres" ],
+			[ "discutiere" ],
+			[ "discutiéremos" ],
+			[ "discutiereis", "discutieren" ],
+			[ "discutieren" ]
+		],
+		"12" : {
+			"1" : [ "discute" ],
+			"2" : [ "discuta" ],
+			"3" : [ "discutamos" ],
+			"4" : [ "discutid" ],
+			"5" : [ "discutan" ]
+		}
+	}
+}

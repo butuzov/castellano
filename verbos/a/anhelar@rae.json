@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anhelar",
+	"word" : "anhelar",
+	"infinitivo" : "anhelar",
+	"participio" : [ "anhelado" ],
+	"gerundio" : [ "anhelando" ],
+	"tenses" : {
+		"3" : [
+			[ "anhelo" ],
+			[ "anhelas", "anhelás" ],
+			[ "anhela" ],
+			[ "anhelamos" ],
+			[ "anheláis", "anhelan" ],
+			[ "anhelan" ]
+		],
+		"4" : [
+			[ "anhelé" ],
+			[ "anhelaste" ],
+			[ "anheló" ],
+			[ "anhelamos" ],
+			[ "anhelasteis", "anhelaron" ],
+			[ "anhelaron" ]
+		],
+		"5" : [
+			[ "anhelaba" ],
+			[ "anhelabas" ],
+			[ "anhelaba" ],
+			[ "anhelábamos" ],
+			[ "anhelabais", "anhelaban" ],
+			[ "anhelaban" ]
+		],
+		"6" : [
+			[ "anhelaría" ],
+			[ "anhelarías" ],
+			[ "anhelaría" ],
+			[ "anhelaríamos" ],
+			[ "anhelaríais", "anhelarían" ],
+			[ "anhelarían" ]
+		],
+		"7" : [
+			[ "anhelaré" ],
+			[ "anhelarás" ],
+			[ "anhelará" ],
+			[ "anhelaremos" ],
+			[ "anhelaréis", "anhelarán" ],
+			[ "anhelarán" ]
+		],
+		"8" : [
+			[ "anhele" ],
+			[ "anheles" ],
+			[ "anhele" ],
+			[ "anhelemos" ],
+			[ "anheléis", "anhelen" ],
+			[ "anhelen" ]
+		],
+		"9" : [
+			[ "anhelara" ],
+			[ "anhelaras" ],
+			[ "anhelara" ],
+			[ "anheláramos" ],
+			[ "anhelarais", "anhelaran" ],
+			[ "anhelaran" ]
+		],
+		"10" : [
+			[ "anhelase" ],
+			[ "anhelases" ],
+			[ "anhelase" ],
+			[ "anhelásemos" ],
+			[ "anhelaseis", "anhelasen" ],
+			[ "anhelasen" ]
+		],
+		"11" : [
+			[ "anhelare" ],
+			[ "anhelares" ],
+			[ "anhelare" ],
+			[ "anheláremos" ],
+			[ "anhelareis", "anhelaren" ],
+			[ "anhelaren" ]
+		],
+		"12" : {
+			"1" : [ "anhela" ],
+			"2" : [ "anhele" ],
+			"3" : [ "anhelemos" ],
+			"4" : [ "anhelad" ],
+			"5" : [ "anhelen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adorar",
+	"word" : "adorar",
+	"infinitivo" : "adorar",
+	"participio" : [ "adorado" ],
+	"gerundio" : [ "adorando" ],
+	"tenses" : {
+		"3" : [
+			[ "adoro" ],
+			[ "adoras", "adorás" ],
+			[ "adora" ],
+			[ "adoramos" ],
+			[ "adoráis", "adoran" ],
+			[ "adoran" ]
+		],
+		"4" : [
+			[ "adoré" ],
+			[ "adoraste" ],
+			[ "adoró" ],
+			[ "adoramos" ],
+			[ "adorasteis", "adoraron" ],
+			[ "adoraron" ]
+		],
+		"5" : [
+			[ "adoraba" ],
+			[ "adorabas" ],
+			[ "adoraba" ],
+			[ "adorábamos" ],
+			[ "adorabais", "adoraban" ],
+			[ "adoraban" ]
+		],
+		"6" : [
+			[ "adoraría" ],
+			[ "adorarías" ],
+			[ "adoraría" ],
+			[ "adoraríamos" ],
+			[ "adoraríais", "adorarían" ],
+			[ "adorarían" ]
+		],
+		"7" : [
+			[ "adoraré" ],
+			[ "adorarás" ],
+			[ "adorará" ],
+			[ "adoraremos" ],
+			[ "adoraréis", "adorarán" ],
+			[ "adorarán" ]
+		],
+		"8" : [
+			[ "adore" ],
+			[ "adores" ],
+			[ "adore" ],
+			[ "adoremos" ],
+			[ "adoréis", "adoren" ],
+			[ "adoren" ]
+		],
+		"9" : [
+			[ "adorara" ],
+			[ "adoraras" ],
+			[ "adorara" ],
+			[ "adoráramos" ],
+			[ "adorarais", "adoraran" ],
+			[ "adoraran" ]
+		],
+		"10" : [
+			[ "adorase" ],
+			[ "adorases" ],
+			[ "adorase" ],
+			[ "adorásemos" ],
+			[ "adoraseis", "adorasen" ],
+			[ "adorasen" ]
+		],
+		"11" : [
+			[ "adorare" ],
+			[ "adorares" ],
+			[ "adorare" ],
+			[ "adoráremos" ],
+			[ "adorareis", "adoraren" ],
+			[ "adoraren" ]
+		],
+		"12" : {
+			"1" : [ "adora" ],
+			"2" : [ "adore" ],
+			"3" : [ "adoremos" ],
+			"4" : [ "adorad" ],
+			"5" : [ "adoren" ]
+		}
+	}
+}

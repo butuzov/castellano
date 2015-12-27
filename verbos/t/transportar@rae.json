@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=transportar",
+	"word" : "transportar",
+	"infinitivo" : "transportar",
+	"participio" : [ "transportado" ],
+	"gerundio" : [ "transportando" ],
+	"tenses" : {
+		"3" : [
+			[ "transporto" ],
+			[ "transportas", "transportás" ],
+			[ "transporta" ],
+			[ "transportamos" ],
+			[ "transportáis", "transportan" ],
+			[ "transportan" ]
+		],
+		"4" : [
+			[ "transporté" ],
+			[ "transportaste" ],
+			[ "transportó" ],
+			[ "transportamos" ],
+			[ "transportasteis", "transportaron" ],
+			[ "transportaron" ]
+		],
+		"5" : [
+			[ "transportaba" ],
+			[ "transportabas" ],
+			[ "transportaba" ],
+			[ "transportábamos" ],
+			[ "transportabais", "transportaban" ],
+			[ "transportaban" ]
+		],
+		"6" : [
+			[ "transportaría" ],
+			[ "transportarías" ],
+			[ "transportaría" ],
+			[ "transportaríamos" ],
+			[ "transportaríais", "transportarían" ],
+			[ "transportarían" ]
+		],
+		"7" : [
+			[ "transportaré" ],
+			[ "transportarás" ],
+			[ "transportará" ],
+			[ "transportaremos" ],
+			[ "transportaréis", "transportarán" ],
+			[ "transportarán" ]
+		],
+		"8" : [
+			[ "transporte" ],
+			[ "transportes" ],
+			[ "transporte" ],
+			[ "transportemos" ],
+			[ "transportéis", "transporten" ],
+			[ "transporten" ]
+		],
+		"9" : [
+			[ "transportara" ],
+			[ "transportaras" ],
+			[ "transportara" ],
+			[ "transportáramos" ],
+			[ "transportarais", "transportaran" ],
+			[ "transportaran" ]
+		],
+		"10" : [
+			[ "transportase" ],
+			[ "transportases" ],
+			[ "transportase" ],
+			[ "transportásemos" ],
+			[ "transportaseis", "transportasen" ],
+			[ "transportasen" ]
+		],
+		"11" : [
+			[ "transportare" ],
+			[ "transportares" ],
+			[ "transportare" ],
+			[ "transportáremos" ],
+			[ "transportareis", "transportaren" ],
+			[ "transportaren" ]
+		],
+		"12" : {
+			"1" : [ "transporta" ],
+			"2" : [ "transporte" ],
+			"3" : [ "transportemos" ],
+			"4" : [ "transportad" ],
+			"5" : [ "transporten" ]
+		}
+	}
+}

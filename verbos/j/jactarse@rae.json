@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=jactarse",
+	"word" : "jactarse",
+	"infinitivo" : "jactarse",
+	"participio" : [ "jactado" ],
+	"gerundio" : [ "jactándome", "jactándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me jacto" ],
+			[ "te jactas", "te jactás" ],
+			[ "se jacta" ],
+			[ "nos jactamos" ],
+			[ "os jactáis", "se jactan" ],
+			[ "se jactan" ]
+		],
+		"4" : [
+			[ "me jacté" ],
+			[ "te jactaste" ],
+			[ "se jactó" ],
+			[ "nos jactamos" ],
+			[ "os jactasteis", "se jactaron" ],
+			[ "se jactaron" ]
+		],
+		"5" : [
+			[ "me jactaba" ],
+			[ "te jactabas" ],
+			[ "se jactaba" ],
+			[ "nos jactábamos" ],
+			[ "os jactabais", "se jactaban" ],
+			[ "se jactaban" ]
+		],
+		"6" : [
+			[ "me jactaría" ],
+			[ "te jactarías" ],
+			[ "se jactaría" ],
+			[ "nos jactaríamos" ],
+			[ "os jactaríais", "se jactarían" ],
+			[ "se jactarían" ]
+		],
+		"7" : [
+			[ "me jactaré" ],
+			[ "te jactarás" ],
+			[ "se jactará" ],
+			[ "nos jactaremos" ],
+			[ "os jactaréis", "se jactarán" ],
+			[ "se jactarán" ]
+		],
+		"8" : [
+			[ "me jacte" ],
+			[ "te jactes" ],
+			[ "se jacte" ],
+			[ "nos jactemos" ],
+			[ "os jactéis", "se jacten" ],
+			[ "se jacten" ]
+		],
+		"9" : [
+			[ "me jactara" ],
+			[ "te jactaras" ],
+			[ "se jactara" ],
+			[ "nos jactáramos" ],
+			[ "os jactarais", "se jactaran" ],
+			[ "se jactaran" ]
+		],
+		"10" : [
+			[ "me jactase" ],
+			[ "te jactases" ],
+			[ "se jactase" ],
+			[ "nos jactásemos" ],
+			[ "os jactaseis", "se jactasen" ],
+			[ "se jactasen" ]
+		],
+		"11" : [
+			[ "me jactare" ],
+			[ "te jactares" ],
+			[ "se jactare" ],
+			[ "nos jactáremos" ],
+			[ "os jactareis", "se jactaren" ],
+			[ "se jactaren" ]
+		],
+		"12" : {
+			"1" : [ "jáctate" ],
+			"2" : [ "jacte" ],
+			"3" : [ "jactemos" ],
+			"4" : [ "jactaos" ],
+			"5" : [ "jáctense" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aseverar",
+	"word" : "aseverar",
+	"infinitivo" : "aseverar",
+	"participio" : [ "aseverado" ],
+	"gerundio" : [ "aseverando" ],
+	"tenses" : {
+		"3" : [
+			[ "asevero" ],
+			[ "aseveras", "aseverás" ],
+			[ "asevera" ],
+			[ "aseveramos" ],
+			[ "aseveráis", "aseveran" ],
+			[ "aseveran" ]
+		],
+		"4" : [
+			[ "aseveré" ],
+			[ "aseveraste" ],
+			[ "aseveró" ],
+			[ "aseveramos" ],
+			[ "aseverasteis", "aseveraron" ],
+			[ "aseveraron" ]
+		],
+		"5" : [
+			[ "aseveraba" ],
+			[ "aseverabas" ],
+			[ "aseveraba" ],
+			[ "aseverábamos" ],
+			[ "aseverabais", "aseveraban" ],
+			[ "aseveraban" ]
+		],
+		"6" : [
+			[ "aseveraría" ],
+			[ "aseverarías" ],
+			[ "aseveraría" ],
+			[ "aseveraríamos" ],
+			[ "aseveraríais", "aseverarían" ],
+			[ "aseverarían" ]
+		],
+		"7" : [
+			[ "aseveraré" ],
+			[ "aseverarás" ],
+			[ "aseverará" ],
+			[ "aseveraremos" ],
+			[ "aseveraréis", "aseverarán" ],
+			[ "aseverarán" ]
+		],
+		"8" : [
+			[ "asevere" ],
+			[ "aseveres" ],
+			[ "asevere" ],
+			[ "aseveremos" ],
+			[ "aseveréis", "aseveren" ],
+			[ "aseveren" ]
+		],
+		"9" : [
+			[ "aseverara" ],
+			[ "aseveraras" ],
+			[ "aseverara" ],
+			[ "aseveráramos" ],
+			[ "aseverarais", "aseveraran" ],
+			[ "aseveraran" ]
+		],
+		"10" : [
+			[ "aseverase" ],
+			[ "aseverases" ],
+			[ "aseverase" ],
+			[ "aseverásemos" ],
+			[ "aseveraseis", "aseverasen" ],
+			[ "aseverasen" ]
+		],
+		"11" : [
+			[ "aseverare" ],
+			[ "aseverares" ],
+			[ "aseverare" ],
+			[ "aseveráremos" ],
+			[ "aseverareis", "aseveraren" ],
+			[ "aseveraren" ]
+		],
+		"12" : {
+			"1" : [ "asevera" ],
+			"2" : [ "asevere" ],
+			"3" : [ "aseveremos" ],
+			"4" : [ "aseverad" ],
+			"5" : [ "aseveren" ]
+		}
+	}
+}

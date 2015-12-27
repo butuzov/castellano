@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=faenar",
+	"word" : "faenar",
+	"infinitivo" : "faenar",
+	"participio" : [ "faenado" ],
+	"gerundio" : [ "faenando" ],
+	"tenses" : {
+		"3" : [
+			[ "faeno" ],
+			[ "faenas", "faenás" ],
+			[ "faena" ],
+			[ "faenamos" ],
+			[ "faenáis", "faenan" ],
+			[ "faenan" ]
+		],
+		"4" : [
+			[ "faené" ],
+			[ "faenaste" ],
+			[ "faenó" ],
+			[ "faenamos" ],
+			[ "faenasteis", "faenaron" ],
+			[ "faenaron" ]
+		],
+		"5" : [
+			[ "faenaba" ],
+			[ "faenabas" ],
+			[ "faenaba" ],
+			[ "faenábamos" ],
+			[ "faenabais", "faenaban" ],
+			[ "faenaban" ]
+		],
+		"6" : [
+			[ "faenaría" ],
+			[ "faenarías" ],
+			[ "faenaría" ],
+			[ "faenaríamos" ],
+			[ "faenaríais", "faenarían" ],
+			[ "faenarían" ]
+		],
+		"7" : [
+			[ "faenaré" ],
+			[ "faenarás" ],
+			[ "faenará" ],
+			[ "faenaremos" ],
+			[ "faenaréis", "faenarán" ],
+			[ "faenarán" ]
+		],
+		"8" : [
+			[ "faene" ],
+			[ "faenes" ],
+			[ "faene" ],
+			[ "faenemos" ],
+			[ "faenéis", "faenen" ],
+			[ "faenen" ]
+		],
+		"9" : [
+			[ "faenara" ],
+			[ "faenaras" ],
+			[ "faenara" ],
+			[ "faenáramos" ],
+			[ "faenarais", "faenaran" ],
+			[ "faenaran" ]
+		],
+		"10" : [
+			[ "faenase" ],
+			[ "faenases" ],
+			[ "faenase" ],
+			[ "faenásemos" ],
+			[ "faenaseis", "faenasen" ],
+			[ "faenasen" ]
+		],
+		"11" : [
+			[ "faenare" ],
+			[ "faenares" ],
+			[ "faenare" ],
+			[ "faenáremos" ],
+			[ "faenareis", "faenaren" ],
+			[ "faenaren" ]
+		],
+		"12" : {
+			"1" : [ "faena" ],
+			"2" : [ "faene" ],
+			"3" : [ "faenemos" ],
+			"4" : [ "faenad" ],
+			"5" : [ "faenen" ]
+		}
+	}
+}

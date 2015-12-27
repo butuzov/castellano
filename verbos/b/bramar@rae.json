@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bramar",
+	"word" : "bramar",
+	"infinitivo" : "bramar",
+	"participio" : [ "bramado" ],
+	"gerundio" : [ "bramando" ],
+	"tenses" : {
+		"3" : [
+			[ "bramo" ],
+			[ "bramas", "bramás" ],
+			[ "brama" ],
+			[ "bramamos" ],
+			[ "bramáis", "braman" ],
+			[ "braman" ]
+		],
+		"4" : [
+			[ "bramé" ],
+			[ "bramaste" ],
+			[ "bramó" ],
+			[ "bramamos" ],
+			[ "bramasteis", "bramaron" ],
+			[ "bramaron" ]
+		],
+		"5" : [
+			[ "bramaba" ],
+			[ "bramabas" ],
+			[ "bramaba" ],
+			[ "bramábamos" ],
+			[ "bramabais", "bramaban" ],
+			[ "bramaban" ]
+		],
+		"6" : [
+			[ "bramaría" ],
+			[ "bramarías" ],
+			[ "bramaría" ],
+			[ "bramaríamos" ],
+			[ "bramaríais", "bramarían" ],
+			[ "bramarían" ]
+		],
+		"7" : [
+			[ "bramaré" ],
+			[ "bramarás" ],
+			[ "bramará" ],
+			[ "bramaremos" ],
+			[ "bramaréis", "bramarán" ],
+			[ "bramarán" ]
+		],
+		"8" : [
+			[ "brame" ],
+			[ "brames" ],
+			[ "brame" ],
+			[ "bramemos" ],
+			[ "braméis", "bramen" ],
+			[ "bramen" ]
+		],
+		"9" : [
+			[ "bramara" ],
+			[ "bramaras" ],
+			[ "bramara" ],
+			[ "bramáramos" ],
+			[ "bramarais", "bramaran" ],
+			[ "bramaran" ]
+		],
+		"10" : [
+			[ "bramase" ],
+			[ "bramases" ],
+			[ "bramase" ],
+			[ "bramásemos" ],
+			[ "bramaseis", "bramasen" ],
+			[ "bramasen" ]
+		],
+		"11" : [
+			[ "bramare" ],
+			[ "bramares" ],
+			[ "bramare" ],
+			[ "bramáremos" ],
+			[ "bramareis", "bramaren" ],
+			[ "bramaren" ]
+		],
+		"12" : {
+			"1" : [ "brama" ],
+			"2" : [ "brame" ],
+			"3" : [ "bramemos" ],
+			"4" : [ "bramad" ],
+			"5" : [ "bramen" ]
+		}
+	}
+}

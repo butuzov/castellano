@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=precipitar",
+	"word" : "precipitar",
+	"infinitivo" : "precipitar",
+	"participio" : [ "precipitado" ],
+	"gerundio" : [ "precipitando" ],
+	"tenses" : {
+		"3" : [
+			[ "precipito" ],
+			[ "precipitas", "precipitás" ],
+			[ "precipita" ],
+			[ "precipitamos" ],
+			[ "precipitáis", "precipitan" ],
+			[ "precipitan" ]
+		],
+		"4" : [
+			[ "precipité" ],
+			[ "precipitaste" ],
+			[ "precipitó" ],
+			[ "precipitamos" ],
+			[ "precipitasteis", "precipitaron" ],
+			[ "precipitaron" ]
+		],
+		"5" : [
+			[ "precipitaba" ],
+			[ "precipitabas" ],
+			[ "precipitaba" ],
+			[ "precipitábamos" ],
+			[ "precipitabais", "precipitaban" ],
+			[ "precipitaban" ]
+		],
+		"6" : [
+			[ "precipitaría" ],
+			[ "precipitarías" ],
+			[ "precipitaría" ],
+			[ "precipitaríamos" ],
+			[ "precipitaríais", "precipitarían" ],
+			[ "precipitarían" ]
+		],
+		"7" : [
+			[ "precipitaré" ],
+			[ "precipitarás" ],
+			[ "precipitará" ],
+			[ "precipitaremos" ],
+			[ "precipitaréis", "precipitarán" ],
+			[ "precipitarán" ]
+		],
+		"8" : [
+			[ "precipite" ],
+			[ "precipites" ],
+			[ "precipite" ],
+			[ "precipitemos" ],
+			[ "precipitéis", "precipiten" ],
+			[ "precipiten" ]
+		],
+		"9" : [
+			[ "precipitara" ],
+			[ "precipitaras" ],
+			[ "precipitara" ],
+			[ "precipitáramos" ],
+			[ "precipitarais", "precipitaran" ],
+			[ "precipitaran" ]
+		],
+		"10" : [
+			[ "precipitase" ],
+			[ "precipitases" ],
+			[ "precipitase" ],
+			[ "precipitásemos" ],
+			[ "precipitaseis", "precipitasen" ],
+			[ "precipitasen" ]
+		],
+		"11" : [
+			[ "precipitare" ],
+			[ "precipitares" ],
+			[ "precipitare" ],
+			[ "precipitáremos" ],
+			[ "precipitareis", "precipitaren" ],
+			[ "precipitaren" ]
+		],
+		"12" : {
+			"1" : [ "precipita" ],
+			"2" : [ "precipite" ],
+			"3" : [ "precipitemos" ],
+			"4" : [ "precipitad" ],
+			"5" : [ "precipiten" ]
+		}
+	}
+}

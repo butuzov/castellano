@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desenojar",
+	"word" : "desenojar",
+	"infinitivo" : "desenojar",
+	"participio" : [ "desenojado" ],
+	"gerundio" : [ "desenojando" ],
+	"tenses" : {
+		"3" : [
+			[ "desenojo" ],
+			[ "desenojas", "desenojás" ],
+			[ "desenoja" ],
+			[ "desenojamos" ],
+			[ "desenojáis", "desenojan" ],
+			[ "desenojan" ]
+		],
+		"4" : [
+			[ "desenojé" ],
+			[ "desenojaste" ],
+			[ "desenojó" ],
+			[ "desenojamos" ],
+			[ "desenojasteis", "desenojaron" ],
+			[ "desenojaron" ]
+		],
+		"5" : [
+			[ "desenojaba" ],
+			[ "desenojabas" ],
+			[ "desenojaba" ],
+			[ "desenojábamos" ],
+			[ "desenojabais", "desenojaban" ],
+			[ "desenojaban" ]
+		],
+		"6" : [
+			[ "desenojaría" ],
+			[ "desenojarías" ],
+			[ "desenojaría" ],
+			[ "desenojaríamos" ],
+			[ "desenojaríais", "desenojarían" ],
+			[ "desenojarían" ]
+		],
+		"7" : [
+			[ "desenojaré" ],
+			[ "desenojarás" ],
+			[ "desenojará" ],
+			[ "desenojaremos" ],
+			[ "desenojaréis", "desenojarán" ],
+			[ "desenojarán" ]
+		],
+		"8" : [
+			[ "desenoje" ],
+			[ "desenojes" ],
+			[ "desenoje" ],
+			[ "desenojemos" ],
+			[ "desenojéis", "desenojen" ],
+			[ "desenojen" ]
+		],
+		"9" : [
+			[ "desenojara" ],
+			[ "desenojaras" ],
+			[ "desenojara" ],
+			[ "desenojáramos" ],
+			[ "desenojarais", "desenojaran" ],
+			[ "desenojaran" ]
+		],
+		"10" : [
+			[ "desenojase" ],
+			[ "desenojases" ],
+			[ "desenojase" ],
+			[ "desenojásemos" ],
+			[ "desenojaseis", "desenojasen" ],
+			[ "desenojasen" ]
+		],
+		"11" : [
+			[ "desenojare" ],
+			[ "desenojares" ],
+			[ "desenojare" ],
+			[ "desenojáremos" ],
+			[ "desenojareis", "desenojaren" ],
+			[ "desenojaren" ]
+		],
+		"12" : {
+			"1" : [ "desenoja" ],
+			"2" : [ "desenoje" ],
+			"3" : [ "desenojemos" ],
+			"4" : [ "desenojad" ],
+			"5" : [ "desenojen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empecinarse",
+	"word" : "empecinarse",
+	"infinitivo" : "empecinarse",
+	"participio" : [ "empecinado" ],
+	"gerundio" : [ "empecinándome", "empecinándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me empecino" ],
+			[ "te empecinas", "te empecinás" ],
+			[ "se empecina" ],
+			[ "nos empecinamos" ],
+			[ "os empecináis", "se empecinan" ],
+			[ "se empecinan" ]
+		],
+		"4" : [
+			[ "me empeciné" ],
+			[ "te empecinaste" ],
+			[ "se empecinó" ],
+			[ "nos empecinamos" ],
+			[ "os empecinasteis", "se empecinaron" ],
+			[ "se empecinaron" ]
+		],
+		"5" : [
+			[ "me empecinaba" ],
+			[ "te empecinabas" ],
+			[ "se empecinaba" ],
+			[ "nos empecinábamos" ],
+			[ "os empecinabais", "se empecinaban" ],
+			[ "se empecinaban" ]
+		],
+		"6" : [
+			[ "me empecinaría" ],
+			[ "te empecinarías" ],
+			[ "se empecinaría" ],
+			[ "nos empecinaríamos" ],
+			[ "os empecinaríais", "se empecinarían" ],
+			[ "se empecinarían" ]
+		],
+		"7" : [
+			[ "me empecinaré" ],
+			[ "te empecinarás" ],
+			[ "se empecinará" ],
+			[ "nos empecinaremos" ],
+			[ "os empecinaréis", "se empecinarán" ],
+			[ "se empecinarán" ]
+		],
+		"8" : [
+			[ "me empecine" ],
+			[ "te empecines" ],
+			[ "se empecine" ],
+			[ "nos empecinemos" ],
+			[ "os empecinéis", "se empecinen" ],
+			[ "se empecinen" ]
+		],
+		"9" : [
+			[ "me empecinara" ],
+			[ "te empecinaras" ],
+			[ "se empecinara" ],
+			[ "nos empecináramos" ],
+			[ "os empecinarais", "se empecinaran" ],
+			[ "se empecinaran" ]
+		],
+		"10" : [
+			[ "me empecinase" ],
+			[ "te empecinases" ],
+			[ "se empecinase" ],
+			[ "nos empecinásemos" ],
+			[ "os empecinaseis", "se empecinasen" ],
+			[ "se empecinasen" ]
+		],
+		"11" : [
+			[ "me empecinare" ],
+			[ "te empecinares" ],
+			[ "se empecinare" ],
+			[ "nos empecináremos" ],
+			[ "os empecinareis", "se empecinaren" ],
+			[ "se empecinaren" ]
+		],
+		"12" : {
+			"1" : [ "empecínate" ],
+			"2" : [ "empecine" ],
+			"3" : [ "empecinemos" ],
+			"4" : [ "empecinaos" ],
+			"5" : [ "empecínense" ]
+		}
+	}
+}

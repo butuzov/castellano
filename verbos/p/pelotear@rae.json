@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pelotear",
+	"word" : "pelotear",
+	"infinitivo" : "pelotear",
+	"participio" : [ "peloteado" ],
+	"gerundio" : [ "peloteando" ],
+	"tenses" : {
+		"3" : [
+			[ "peloteo" ],
+			[ "peloteas", "peloteás" ],
+			[ "pelotea" ],
+			[ "peloteamos" ],
+			[ "peloteáis", "pelotean" ],
+			[ "pelotean" ]
+		],
+		"4" : [
+			[ "peloteé" ],
+			[ "peloteaste" ],
+			[ "peloteó" ],
+			[ "peloteamos" ],
+			[ "peloteasteis", "pelotearon" ],
+			[ "pelotearon" ]
+		],
+		"5" : [
+			[ "peloteaba" ],
+			[ "peloteabas" ],
+			[ "peloteaba" ],
+			[ "peloteábamos" ],
+			[ "peloteabais", "peloteaban" ],
+			[ "peloteaban" ]
+		],
+		"6" : [
+			[ "pelotearía" ],
+			[ "pelotearías" ],
+			[ "pelotearía" ],
+			[ "pelotearíamos" ],
+			[ "pelotearíais", "pelotearían" ],
+			[ "pelotearían" ]
+		],
+		"7" : [
+			[ "pelotearé" ],
+			[ "pelotearás" ],
+			[ "peloteará" ],
+			[ "pelotearemos" ],
+			[ "pelotearéis", "pelotearán" ],
+			[ "pelotearán" ]
+		],
+		"8" : [
+			[ "pelotee" ],
+			[ "pelotees" ],
+			[ "pelotee" ],
+			[ "peloteemos" ],
+			[ "peloteéis", "peloteen" ],
+			[ "peloteen" ]
+		],
+		"9" : [
+			[ "peloteara" ],
+			[ "pelotearas" ],
+			[ "peloteara" ],
+			[ "peloteáramos" ],
+			[ "pelotearais", "pelotearan" ],
+			[ "pelotearan" ]
+		],
+		"10" : [
+			[ "pelotease" ],
+			[ "peloteases" ],
+			[ "pelotease" ],
+			[ "peloteásemos" ],
+			[ "peloteaseis", "peloteasen" ],
+			[ "peloteasen" ]
+		],
+		"11" : [
+			[ "peloteare" ],
+			[ "peloteares" ],
+			[ "peloteare" ],
+			[ "peloteáremos" ],
+			[ "peloteareis", "pelotearen" ],
+			[ "pelotearen" ]
+		],
+		"12" : {
+			"1" : [ "pelotea" ],
+			"2" : [ "pelotee" ],
+			"3" : [ "peloteemos" ],
+			"4" : [ "pelotead" ],
+			"5" : [ "peloteen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=meritar",
+	"word" : "meritar",
+	"infinitivo" : "meritar",
+	"participio" : [ "meritado" ],
+	"gerundio" : [ "meritando" ],
+	"tenses" : {
+		"3" : [
+			[ "merito" ],
+			[ "meritas", "meritás" ],
+			[ "merita" ],
+			[ "meritamos" ],
+			[ "meritáis", "meritan" ],
+			[ "meritan" ]
+		],
+		"4" : [
+			[ "merité" ],
+			[ "meritaste" ],
+			[ "meritó" ],
+			[ "meritamos" ],
+			[ "meritasteis", "meritaron" ],
+			[ "meritaron" ]
+		],
+		"5" : [
+			[ "meritaba" ],
+			[ "meritabas" ],
+			[ "meritaba" ],
+			[ "meritábamos" ],
+			[ "meritabais", "meritaban" ],
+			[ "meritaban" ]
+		],
+		"6" : [
+			[ "meritaría" ],
+			[ "meritarías" ],
+			[ "meritaría" ],
+			[ "meritaríamos" ],
+			[ "meritaríais", "meritarían" ],
+			[ "meritarían" ]
+		],
+		"7" : [
+			[ "meritaré" ],
+			[ "meritarás" ],
+			[ "meritará" ],
+			[ "meritaremos" ],
+			[ "meritaréis", "meritarán" ],
+			[ "meritarán" ]
+		],
+		"8" : [
+			[ "merite" ],
+			[ "merites" ],
+			[ "merite" ],
+			[ "meritemos" ],
+			[ "meritéis", "meriten" ],
+			[ "meriten" ]
+		],
+		"9" : [
+			[ "meritara" ],
+			[ "meritaras" ],
+			[ "meritara" ],
+			[ "meritáramos" ],
+			[ "meritarais", "meritaran" ],
+			[ "meritaran" ]
+		],
+		"10" : [
+			[ "meritase" ],
+			[ "meritases" ],
+			[ "meritase" ],
+			[ "meritásemos" ],
+			[ "meritaseis", "meritasen" ],
+			[ "meritasen" ]
+		],
+		"11" : [
+			[ "meritare" ],
+			[ "meritares" ],
+			[ "meritare" ],
+			[ "meritáremos" ],
+			[ "meritareis", "meritaren" ],
+			[ "meritaren" ]
+		],
+		"12" : {
+			"1" : [ "merita" ],
+			"2" : [ "merite" ],
+			"3" : [ "meritemos" ],
+			"4" : [ "meritad" ],
+			"5" : [ "meriten" ]
+		}
+	}
+}

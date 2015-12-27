@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=regentar",
+	"word" : "regentar",
+	"infinitivo" : "regentar",
+	"participio" : [ "regentado" ],
+	"gerundio" : [ "regentando" ],
+	"tenses" : {
+		"3" : [
+			[ "regento" ],
+			[ "regentas", "regentás" ],
+			[ "regenta" ],
+			[ "regentamos" ],
+			[ "regentáis", "regentan" ],
+			[ "regentan" ]
+		],
+		"4" : [
+			[ "regenté" ],
+			[ "regentaste" ],
+			[ "regentó" ],
+			[ "regentamos" ],
+			[ "regentasteis", "regentaron" ],
+			[ "regentaron" ]
+		],
+		"5" : [
+			[ "regentaba" ],
+			[ "regentabas" ],
+			[ "regentaba" ],
+			[ "regentábamos" ],
+			[ "regentabais", "regentaban" ],
+			[ "regentaban" ]
+		],
+		"6" : [
+			[ "regentaría" ],
+			[ "regentarías" ],
+			[ "regentaría" ],
+			[ "regentaríamos" ],
+			[ "regentaríais", "regentarían" ],
+			[ "regentarían" ]
+		],
+		"7" : [
+			[ "regentaré" ],
+			[ "regentarás" ],
+			[ "regentará" ],
+			[ "regentaremos" ],
+			[ "regentaréis", "regentarán" ],
+			[ "regentarán" ]
+		],
+		"8" : [
+			[ "regente" ],
+			[ "regentes" ],
+			[ "regente" ],
+			[ "regentemos" ],
+			[ "regentéis", "regenten" ],
+			[ "regenten" ]
+		],
+		"9" : [
+			[ "regentara" ],
+			[ "regentaras" ],
+			[ "regentara" ],
+			[ "regentáramos" ],
+			[ "regentarais", "regentaran" ],
+			[ "regentaran" ]
+		],
+		"10" : [
+			[ "regentase" ],
+			[ "regentases" ],
+			[ "regentase" ],
+			[ "regentásemos" ],
+			[ "regentaseis", "regentasen" ],
+			[ "regentasen" ]
+		],
+		"11" : [
+			[ "regentare" ],
+			[ "regentares" ],
+			[ "regentare" ],
+			[ "regentáremos" ],
+			[ "regentareis", "regentaren" ],
+			[ "regentaren" ]
+		],
+		"12" : {
+			"1" : [ "regenta" ],
+			"2" : [ "regente" ],
+			"3" : [ "regentemos" ],
+			"4" : [ "regentad" ],
+			"5" : [ "regenten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reingresar",
+	"word" : "reingresar",
+	"infinitivo" : "reingresar",
+	"participio" : [ "reingresado" ],
+	"gerundio" : [ "reingresando" ],
+	"tenses" : {
+		"3" : [
+			[ "reingreso" ],
+			[ "reingresas", "reingresás" ],
+			[ "reingresa" ],
+			[ "reingresamos" ],
+			[ "reingresáis", "reingresan" ],
+			[ "reingresan" ]
+		],
+		"4" : [
+			[ "reingresé" ],
+			[ "reingresaste" ],
+			[ "reingresó" ],
+			[ "reingresamos" ],
+			[ "reingresasteis", "reingresaron" ],
+			[ "reingresaron" ]
+		],
+		"5" : [
+			[ "reingresaba" ],
+			[ "reingresabas" ],
+			[ "reingresaba" ],
+			[ "reingresábamos" ],
+			[ "reingresabais", "reingresaban" ],
+			[ "reingresaban" ]
+		],
+		"6" : [
+			[ "reingresaría" ],
+			[ "reingresarías" ],
+			[ "reingresaría" ],
+			[ "reingresaríamos" ],
+			[ "reingresaríais", "reingresarían" ],
+			[ "reingresarían" ]
+		],
+		"7" : [
+			[ "reingresaré" ],
+			[ "reingresarás" ],
+			[ "reingresará" ],
+			[ "reingresaremos" ],
+			[ "reingresaréis", "reingresarán" ],
+			[ "reingresarán" ]
+		],
+		"8" : [
+			[ "reingrese" ],
+			[ "reingreses" ],
+			[ "reingrese" ],
+			[ "reingresemos" ],
+			[ "reingreséis", "reingresen" ],
+			[ "reingresen" ]
+		],
+		"9" : [
+			[ "reingresara" ],
+			[ "reingresaras" ],
+			[ "reingresara" ],
+			[ "reingresáramos" ],
+			[ "reingresarais", "reingresaran" ],
+			[ "reingresaran" ]
+		],
+		"10" : [
+			[ "reingresase" ],
+			[ "reingresases" ],
+			[ "reingresase" ],
+			[ "reingresásemos" ],
+			[ "reingresaseis", "reingresasen" ],
+			[ "reingresasen" ]
+		],
+		"11" : [
+			[ "reingresare" ],
+			[ "reingresares" ],
+			[ "reingresare" ],
+			[ "reingresáremos" ],
+			[ "reingresareis", "reingresaren" ],
+			[ "reingresaren" ]
+		],
+		"12" : {
+			"1" : [ "reingresa" ],
+			"2" : [ "reingrese" ],
+			"3" : [ "reingresemos" ],
+			"4" : [ "reingresad" ],
+			"5" : [ "reingresen" ]
+		}
+	}
+}

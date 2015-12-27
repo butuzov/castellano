@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escandir",
+	"word" : "escandir",
+	"infinitivo" : "escandir",
+	"participio" : [ "escandido" ],
+	"gerundio" : [ "escandiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "escando" ],
+			[ "escandes", "escandís" ],
+			[ "escande" ],
+			[ "escandimos" ],
+			[ "escandís", "escanden" ],
+			[ "escanden" ]
+		],
+		"4" : [
+			[ "escandí" ],
+			[ "escandiste" ],
+			[ "escandió" ],
+			[ "escandimos" ],
+			[ "escandisteis", "escandieron" ],
+			[ "escandieron" ]
+		],
+		"5" : [
+			[ "escandía" ],
+			[ "escandías" ],
+			[ "escandía" ],
+			[ "escandíamos" ],
+			[ "escandíais", "escandían" ],
+			[ "escandían" ]
+		],
+		"6" : [
+			[ "escandiría" ],
+			[ "escandirías" ],
+			[ "escandiría" ],
+			[ "escandiríamos" ],
+			[ "escandiríais", "escandirían" ],
+			[ "escandirían" ]
+		],
+		"7" : [
+			[ "escandiré" ],
+			[ "escandirás" ],
+			[ "escandirá" ],
+			[ "escandiremos" ],
+			[ "escandiréis", "escandirán" ],
+			[ "escandirán" ]
+		],
+		"8" : [
+			[ "escanda" ],
+			[ "escandas" ],
+			[ "escanda" ],
+			[ "escandamos" ],
+			[ "escandáis", "escandan" ],
+			[ "escandan" ]
+		],
+		"9" : [
+			[ "escandiera" ],
+			[ "escandieras" ],
+			[ "escandiera" ],
+			[ "escandiéramos" ],
+			[ "escandierais", "escandieran" ],
+			[ "escandieran" ]
+		],
+		"10" : [
+			[ "escandiese" ],
+			[ "escandieses" ],
+			[ "escandiese" ],
+			[ "escandiésemos" ],
+			[ "escandieseis", "escandiesen" ],
+			[ "escandiesen" ]
+		],
+		"11" : [
+			[ "escandiere" ],
+			[ "escandieres" ],
+			[ "escandiere" ],
+			[ "escandiéremos" ],
+			[ "escandiereis", "escandieren" ],
+			[ "escandieren" ]
+		],
+		"12" : {
+			"1" : [ "escande" ],
+			"2" : [ "escanda" ],
+			"3" : [ "escandamos" ],
+			"4" : [ "escandid" ],
+			"5" : [ "escandan" ]
+		}
+	}
+}

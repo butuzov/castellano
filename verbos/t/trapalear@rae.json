@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trapalear",
+	"word" : "trapalear",
+	"infinitivo" : "trapalear",
+	"participio" : [ "trapaleado" ],
+	"gerundio" : [ "trapaleando" ],
+	"tenses" : {
+		"3" : [
+			[ "trapaleo" ],
+			[ "trapaleas", "trapaleás" ],
+			[ "trapalea" ],
+			[ "trapaleamos" ],
+			[ "trapaleáis", "trapalean" ],
+			[ "trapalean" ]
+		],
+		"4" : [
+			[ "trapaleé" ],
+			[ "trapaleaste" ],
+			[ "trapaleó" ],
+			[ "trapaleamos" ],
+			[ "trapaleasteis", "trapalearon" ],
+			[ "trapalearon" ]
+		],
+		"5" : [
+			[ "trapaleaba" ],
+			[ "trapaleabas" ],
+			[ "trapaleaba" ],
+			[ "trapaleábamos" ],
+			[ "trapaleabais", "trapaleaban" ],
+			[ "trapaleaban" ]
+		],
+		"6" : [
+			[ "trapalearía" ],
+			[ "trapalearías" ],
+			[ "trapalearía" ],
+			[ "trapalearíamos" ],
+			[ "trapalearíais", "trapalearían" ],
+			[ "trapalearían" ]
+		],
+		"7" : [
+			[ "trapalearé" ],
+			[ "trapalearás" ],
+			[ "trapaleará" ],
+			[ "trapalearemos" ],
+			[ "trapalearéis", "trapalearán" ],
+			[ "trapalearán" ]
+		],
+		"8" : [
+			[ "trapalee" ],
+			[ "trapalees" ],
+			[ "trapalee" ],
+			[ "trapaleemos" ],
+			[ "trapaleéis", "trapaleen" ],
+			[ "trapaleen" ]
+		],
+		"9" : [
+			[ "trapaleara" ],
+			[ "trapalearas" ],
+			[ "trapaleara" ],
+			[ "trapaleáramos" ],
+			[ "trapalearais", "trapalearan" ],
+			[ "trapalearan" ]
+		],
+		"10" : [
+			[ "trapalease" ],
+			[ "trapaleases" ],
+			[ "trapalease" ],
+			[ "trapaleásemos" ],
+			[ "trapaleaseis", "trapaleasen" ],
+			[ "trapaleasen" ]
+		],
+		"11" : [
+			[ "trapaleare" ],
+			[ "trapaleares" ],
+			[ "trapaleare" ],
+			[ "trapaleáremos" ],
+			[ "trapaleareis", "trapalearen" ],
+			[ "trapalearen" ]
+		],
+		"12" : {
+			"1" : [ "trapalea" ],
+			"2" : [ "trapalee" ],
+			"3" : [ "trapaleemos" ],
+			"4" : [ "trapalead" ],
+			"5" : [ "trapaleen" ]
+		}
+	}
+}

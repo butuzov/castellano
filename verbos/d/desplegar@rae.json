@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desplegar",
+	"word" : "desplegar",
+	"infinitivo" : "desplegar",
+	"participio" : [ "desplegado" ],
+	"gerundio" : [ "desplegando" ],
+	"tenses" : {
+		"3" : [
+			[ "despliego" ],
+			[ "despliegas", "desplegás" ],
+			[ "despliega" ],
+			[ "desplegamos" ],
+			[ "desplegáis", "despliegan" ],
+			[ "despliegan" ]
+		],
+		"4" : [
+			[ "desplegué" ],
+			[ "desplegaste" ],
+			[ "desplegó" ],
+			[ "desplegamos" ],
+			[ "desplegasteis", "desplegaron" ],
+			[ "desplegaron" ]
+		],
+		"5" : [
+			[ "desplegaba" ],
+			[ "desplegabas" ],
+			[ "desplegaba" ],
+			[ "desplegábamos" ],
+			[ "desplegabais", "desplegaban" ],
+			[ "desplegaban" ]
+		],
+		"6" : [
+			[ "desplegaría" ],
+			[ "desplegarías" ],
+			[ "desplegaría" ],
+			[ "desplegaríamos" ],
+			[ "desplegaríais", "desplegarían" ],
+			[ "desplegarían" ]
+		],
+		"7" : [
+			[ "desplegaré" ],
+			[ "desplegarás" ],
+			[ "desplegará" ],
+			[ "desplegaremos" ],
+			[ "desplegaréis", "desplegarán" ],
+			[ "desplegarán" ]
+		],
+		"8" : [
+			[ "despliegue" ],
+			[ "despliegues" ],
+			[ "despliegue" ],
+			[ "despleguemos" ],
+			[ "despleguéis", "desplieguen" ],
+			[ "desplieguen" ]
+		],
+		"9" : [
+			[ "desplegara" ],
+			[ "desplegaras" ],
+			[ "desplegara" ],
+			[ "desplegáramos" ],
+			[ "desplegarais", "desplegaran" ],
+			[ "desplegaran" ]
+		],
+		"10" : [
+			[ "desplegase" ],
+			[ "desplegases" ],
+			[ "desplegase" ],
+			[ "desplegásemos" ],
+			[ "desplegaseis", "desplegasen" ],
+			[ "desplegasen" ]
+		],
+		"11" : [
+			[ "desplegare" ],
+			[ "desplegares" ],
+			[ "desplegare" ],
+			[ "desplegáremos" ],
+			[ "desplegareis", "desplegaren" ],
+			[ "desplegaren" ]
+		],
+		"12" : {
+			"1" : [ "despliega" ],
+			"2" : [ "despliegue" ],
+			"3" : [ "despleguemos" ],
+			"4" : [ "desplegad" ],
+			"5" : [ "desplieguen" ]
+		}
+	}
+}

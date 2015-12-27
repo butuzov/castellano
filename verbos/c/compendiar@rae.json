@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=compendiar",
+	"word" : "compendiar",
+	"infinitivo" : "compendiar",
+	"participio" : [ "compendiado" ],
+	"gerundio" : [ "compendiando" ],
+	"tenses" : {
+		"3" : [
+			[ "compendio" ],
+			[ "compendias", "compendiás" ],
+			[ "compendia" ],
+			[ "compendiamos" ],
+			[ "compendiáis", "compendian" ],
+			[ "compendian" ]
+		],
+		"4" : [
+			[ "compendié" ],
+			[ "compendiaste" ],
+			[ "compendió" ],
+			[ "compendiamos" ],
+			[ "compendiasteis", "compendiaron" ],
+			[ "compendiaron" ]
+		],
+		"5" : [
+			[ "compendiaba" ],
+			[ "compendiabas" ],
+			[ "compendiaba" ],
+			[ "compendiábamos" ],
+			[ "compendiabais", "compendiaban" ],
+			[ "compendiaban" ]
+		],
+		"6" : [
+			[ "compendiaría" ],
+			[ "compendiarías" ],
+			[ "compendiaría" ],
+			[ "compendiaríamos" ],
+			[ "compendiaríais", "compendiarían" ],
+			[ "compendiarían" ]
+		],
+		"7" : [
+			[ "compendiaré" ],
+			[ "compendiarás" ],
+			[ "compendiará" ],
+			[ "compendiaremos" ],
+			[ "compendiaréis", "compendiarán" ],
+			[ "compendiarán" ]
+		],
+		"8" : [
+			[ "compendie" ],
+			[ "compendies" ],
+			[ "compendie" ],
+			[ "compendiemos" ],
+			[ "compendiéis", "compendien" ],
+			[ "compendien" ]
+		],
+		"9" : [
+			[ "compendiara" ],
+			[ "compendiaras" ],
+			[ "compendiara" ],
+			[ "compendiáramos" ],
+			[ "compendiarais", "compendiaran" ],
+			[ "compendiaran" ]
+		],
+		"10" : [
+			[ "compendiase" ],
+			[ "compendiases" ],
+			[ "compendiase" ],
+			[ "compendiásemos" ],
+			[ "compendiaseis", "compendiasen" ],
+			[ "compendiasen" ]
+		],
+		"11" : [
+			[ "compendiare" ],
+			[ "compendiares" ],
+			[ "compendiare" ],
+			[ "compendiáremos" ],
+			[ "compendiareis", "compendiaren" ],
+			[ "compendiaren" ]
+		],
+		"12" : {
+			"1" : [ "compendia" ],
+			"2" : [ "compendie" ],
+			"3" : [ "compendiemos" ],
+			"4" : [ "compendiad" ],
+			"5" : [ "compendien" ]
+		}
+	}
+}

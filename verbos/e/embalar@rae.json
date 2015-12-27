@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embalar",
+	"word" : "embalar",
+	"infinitivo" : "embalar",
+	"participio" : [ "embalado" ],
+	"gerundio" : [ "embalando" ],
+	"tenses" : {
+		"3" : [
+			[ "embalo" ],
+			[ "embalas", "embalás" ],
+			[ "embala" ],
+			[ "embalamos" ],
+			[ "embaláis", "embalan" ],
+			[ "embalan" ]
+		],
+		"4" : [
+			[ "embalé" ],
+			[ "embalaste" ],
+			[ "embaló" ],
+			[ "embalamos" ],
+			[ "embalasteis", "embalaron" ],
+			[ "embalaron" ]
+		],
+		"5" : [
+			[ "embalaba" ],
+			[ "embalabas" ],
+			[ "embalaba" ],
+			[ "embalábamos" ],
+			[ "embalabais", "embalaban" ],
+			[ "embalaban" ]
+		],
+		"6" : [
+			[ "embalaría" ],
+			[ "embalarías" ],
+			[ "embalaría" ],
+			[ "embalaríamos" ],
+			[ "embalaríais", "embalarían" ],
+			[ "embalarían" ]
+		],
+		"7" : [
+			[ "embalaré" ],
+			[ "embalarás" ],
+			[ "embalará" ],
+			[ "embalaremos" ],
+			[ "embalaréis", "embalarán" ],
+			[ "embalarán" ]
+		],
+		"8" : [
+			[ "embale" ],
+			[ "embales" ],
+			[ "embale" ],
+			[ "embalemos" ],
+			[ "embaléis", "embalen" ],
+			[ "embalen" ]
+		],
+		"9" : [
+			[ "embalara" ],
+			[ "embalaras" ],
+			[ "embalara" ],
+			[ "embaláramos" ],
+			[ "embalarais", "embalaran" ],
+			[ "embalaran" ]
+		],
+		"10" : [
+			[ "embalase" ],
+			[ "embalases" ],
+			[ "embalase" ],
+			[ "embalásemos" ],
+			[ "embalaseis", "embalasen" ],
+			[ "embalasen" ]
+		],
+		"11" : [
+			[ "embalare" ],
+			[ "embalares" ],
+			[ "embalare" ],
+			[ "embaláremos" ],
+			[ "embalareis", "embalaren" ],
+			[ "embalaren" ]
+		],
+		"12" : {
+			"1" : [ "embala" ],
+			"2" : [ "embale" ],
+			"3" : [ "embalemos" ],
+			"4" : [ "embalad" ],
+			"5" : [ "embalen" ]
+		}
+	}
+}

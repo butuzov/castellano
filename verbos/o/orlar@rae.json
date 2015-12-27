@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=orlar",
+	"word" : "orlar",
+	"infinitivo" : "orlar",
+	"participio" : [ "orlado" ],
+	"gerundio" : [ "orlando" ],
+	"tenses" : {
+		"3" : [
+			[ "orlo" ],
+			[ "orlas", "orlás" ],
+			[ "orla" ],
+			[ "orlamos" ],
+			[ "orláis", "orlan" ],
+			[ "orlan" ]
+		],
+		"4" : [
+			[ "orlé" ],
+			[ "orlaste" ],
+			[ "orló" ],
+			[ "orlamos" ],
+			[ "orlasteis", "orlaron" ],
+			[ "orlaron" ]
+		],
+		"5" : [
+			[ "orlaba" ],
+			[ "orlabas" ],
+			[ "orlaba" ],
+			[ "orlábamos" ],
+			[ "orlabais", "orlaban" ],
+			[ "orlaban" ]
+		],
+		"6" : [
+			[ "orlaría" ],
+			[ "orlarías" ],
+			[ "orlaría" ],
+			[ "orlaríamos" ],
+			[ "orlaríais", "orlarían" ],
+			[ "orlarían" ]
+		],
+		"7" : [
+			[ "orlaré" ],
+			[ "orlarás" ],
+			[ "orlará" ],
+			[ "orlaremos" ],
+			[ "orlaréis", "orlarán" ],
+			[ "orlarán" ]
+		],
+		"8" : [
+			[ "orle" ],
+			[ "orles" ],
+			[ "orle" ],
+			[ "orlemos" ],
+			[ "orléis", "orlen" ],
+			[ "orlen" ]
+		],
+		"9" : [
+			[ "orlara" ],
+			[ "orlaras" ],
+			[ "orlara" ],
+			[ "orláramos" ],
+			[ "orlarais", "orlaran" ],
+			[ "orlaran" ]
+		],
+		"10" : [
+			[ "orlase" ],
+			[ "orlases" ],
+			[ "orlase" ],
+			[ "orlásemos" ],
+			[ "orlaseis", "orlasen" ],
+			[ "orlasen" ]
+		],
+		"11" : [
+			[ "orlare" ],
+			[ "orlares" ],
+			[ "orlare" ],
+			[ "orláremos" ],
+			[ "orlareis", "orlaren" ],
+			[ "orlaren" ]
+		],
+		"12" : {
+			"1" : [ "orla" ],
+			"2" : [ "orle" ],
+			"3" : [ "orlemos" ],
+			"4" : [ "orlad" ],
+			"5" : [ "orlen" ]
+		}
+	}
+}

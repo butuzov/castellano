@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=debatir",
+	"word" : "debatir",
+	"infinitivo" : "debatir",
+	"participio" : [ "debatido" ],
+	"gerundio" : [ "debatiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "debato" ],
+			[ "debates", "debatís" ],
+			[ "debate" ],
+			[ "debatimos" ],
+			[ "debatís", "debaten" ],
+			[ "debaten" ]
+		],
+		"4" : [
+			[ "debatí" ],
+			[ "debatiste" ],
+			[ "debatió" ],
+			[ "debatimos" ],
+			[ "debatisteis", "debatieron" ],
+			[ "debatieron" ]
+		],
+		"5" : [
+			[ "debatía" ],
+			[ "debatías" ],
+			[ "debatía" ],
+			[ "debatíamos" ],
+			[ "debatíais", "debatían" ],
+			[ "debatían" ]
+		],
+		"6" : [
+			[ "debatiría" ],
+			[ "debatirías" ],
+			[ "debatiría" ],
+			[ "debatiríamos" ],
+			[ "debatiríais", "debatirían" ],
+			[ "debatirían" ]
+		],
+		"7" : [
+			[ "debatiré" ],
+			[ "debatirás" ],
+			[ "debatirá" ],
+			[ "debatiremos" ],
+			[ "debatiréis", "debatirán" ],
+			[ "debatirán" ]
+		],
+		"8" : [
+			[ "debata" ],
+			[ "debatas" ],
+			[ "debata" ],
+			[ "debatamos" ],
+			[ "debatáis", "debatan" ],
+			[ "debatan" ]
+		],
+		"9" : [
+			[ "debatiera" ],
+			[ "debatieras" ],
+			[ "debatiera" ],
+			[ "debatiéramos" ],
+			[ "debatierais", "debatieran" ],
+			[ "debatieran" ]
+		],
+		"10" : [
+			[ "debatiese" ],
+			[ "debatieses" ],
+			[ "debatiese" ],
+			[ "debatiésemos" ],
+			[ "debatieseis", "debatiesen" ],
+			[ "debatiesen" ]
+		],
+		"11" : [
+			[ "debatiere" ],
+			[ "debatieres" ],
+			[ "debatiere" ],
+			[ "debatiéremos" ],
+			[ "debatiereis", "debatieren" ],
+			[ "debatieren" ]
+		],
+		"12" : {
+			"1" : [ "debate" ],
+			"2" : [ "debata" ],
+			"3" : [ "debatamos" ],
+			"4" : [ "debatid" ],
+			"5" : [ "debatan" ]
+		}
+	}
+}

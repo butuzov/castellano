@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=revelar",
+	"word" : "revelar",
+	"infinitivo" : "revelar",
+	"participio" : [ "revelado" ],
+	"gerundio" : [ "revelando" ],
+	"tenses" : {
+		"3" : [
+			[ "revelo" ],
+			[ "revelas", "revelás" ],
+			[ "revela" ],
+			[ "revelamos" ],
+			[ "reveláis", "revelan" ],
+			[ "revelan" ]
+		],
+		"4" : [
+			[ "revelé" ],
+			[ "revelaste" ],
+			[ "reveló" ],
+			[ "revelamos" ],
+			[ "revelasteis", "revelaron" ],
+			[ "revelaron" ]
+		],
+		"5" : [
+			[ "revelaba" ],
+			[ "revelabas" ],
+			[ "revelaba" ],
+			[ "revelábamos" ],
+			[ "revelabais", "revelaban" ],
+			[ "revelaban" ]
+		],
+		"6" : [
+			[ "revelaría" ],
+			[ "revelarías" ],
+			[ "revelaría" ],
+			[ "revelaríamos" ],
+			[ "revelaríais", "revelarían" ],
+			[ "revelarían" ]
+		],
+		"7" : [
+			[ "revelaré" ],
+			[ "revelarás" ],
+			[ "revelará" ],
+			[ "revelaremos" ],
+			[ "revelaréis", "revelarán" ],
+			[ "revelarán" ]
+		],
+		"8" : [
+			[ "revele" ],
+			[ "reveles" ],
+			[ "revele" ],
+			[ "revelemos" ],
+			[ "reveléis", "revelen" ],
+			[ "revelen" ]
+		],
+		"9" : [
+			[ "revelara" ],
+			[ "revelaras" ],
+			[ "revelara" ],
+			[ "reveláramos" ],
+			[ "revelarais", "revelaran" ],
+			[ "revelaran" ]
+		],
+		"10" : [
+			[ "revelase" ],
+			[ "revelases" ],
+			[ "revelase" ],
+			[ "revelásemos" ],
+			[ "revelaseis", "revelasen" ],
+			[ "revelasen" ]
+		],
+		"11" : [
+			[ "revelare" ],
+			[ "revelares" ],
+			[ "revelare" ],
+			[ "reveláremos" ],
+			[ "revelareis", "revelaren" ],
+			[ "revelaren" ]
+		],
+		"12" : {
+			"1" : [ "revela" ],
+			"2" : [ "revele" ],
+			"3" : [ "revelemos" ],
+			"4" : [ "revelad" ],
+			"5" : [ "revelen" ]
+		}
+	}
+}

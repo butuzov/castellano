@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=brumar",
+	"word" : "brumar",
+	"infinitivo" : "brumar",
+	"participio" : [ "brumado" ],
+	"gerundio" : [ "brumando" ],
+	"tenses" : {
+		"3" : [
+			[ "brumo" ],
+			[ "brumas", "brumás" ],
+			[ "bruma" ],
+			[ "brumamos" ],
+			[ "brumáis", "bruman" ],
+			[ "bruman" ]
+		],
+		"4" : [
+			[ "brumé" ],
+			[ "brumaste" ],
+			[ "brumó" ],
+			[ "brumamos" ],
+			[ "brumasteis", "brumaron" ],
+			[ "brumaron" ]
+		],
+		"5" : [
+			[ "brumaba" ],
+			[ "brumabas" ],
+			[ "brumaba" ],
+			[ "brumábamos" ],
+			[ "brumabais", "brumaban" ],
+			[ "brumaban" ]
+		],
+		"6" : [
+			[ "brumaría" ],
+			[ "brumarías" ],
+			[ "brumaría" ],
+			[ "brumaríamos" ],
+			[ "brumaríais", "brumarían" ],
+			[ "brumarían" ]
+		],
+		"7" : [
+			[ "brumaré" ],
+			[ "brumarás" ],
+			[ "brumará" ],
+			[ "brumaremos" ],
+			[ "brumaréis", "brumarán" ],
+			[ "brumarán" ]
+		],
+		"8" : [
+			[ "brume" ],
+			[ "brumes" ],
+			[ "brume" ],
+			[ "brumemos" ],
+			[ "bruméis", "brumen" ],
+			[ "brumen" ]
+		],
+		"9" : [
+			[ "brumara" ],
+			[ "brumaras" ],
+			[ "brumara" ],
+			[ "brumáramos" ],
+			[ "brumarais", "brumaran" ],
+			[ "brumaran" ]
+		],
+		"10" : [
+			[ "brumase" ],
+			[ "brumases" ],
+			[ "brumase" ],
+			[ "brumásemos" ],
+			[ "brumaseis", "brumasen" ],
+			[ "brumasen" ]
+		],
+		"11" : [
+			[ "brumare" ],
+			[ "brumares" ],
+			[ "brumare" ],
+			[ "brumáremos" ],
+			[ "brumareis", "brumaren" ],
+			[ "brumaren" ]
+		],
+		"12" : {
+			"1" : [ "bruma" ],
+			"2" : [ "brume" ],
+			"3" : [ "brumemos" ],
+			"4" : [ "brumad" ],
+			"5" : [ "brumen" ]
+		}
+	}
+}

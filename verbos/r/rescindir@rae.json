@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rescindir",
+	"word" : "rescindir",
+	"infinitivo" : "rescindir",
+	"participio" : [ "rescindido" ],
+	"gerundio" : [ "rescindiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "rescindo" ],
+			[ "rescindes", "rescindís" ],
+			[ "rescinde" ],
+			[ "rescindimos" ],
+			[ "rescindís", "rescinden" ],
+			[ "rescinden" ]
+		],
+		"4" : [
+			[ "rescindí" ],
+			[ "rescindiste" ],
+			[ "rescindió" ],
+			[ "rescindimos" ],
+			[ "rescindisteis", "rescindieron" ],
+			[ "rescindieron" ]
+		],
+		"5" : [
+			[ "rescindía" ],
+			[ "rescindías" ],
+			[ "rescindía" ],
+			[ "rescindíamos" ],
+			[ "rescindíais", "rescindían" ],
+			[ "rescindían" ]
+		],
+		"6" : [
+			[ "rescindiría" ],
+			[ "rescindirías" ],
+			[ "rescindiría" ],
+			[ "rescindiríamos" ],
+			[ "rescindiríais", "rescindirían" ],
+			[ "rescindirían" ]
+		],
+		"7" : [
+			[ "rescindiré" ],
+			[ "rescindirás" ],
+			[ "rescindirá" ],
+			[ "rescindiremos" ],
+			[ "rescindiréis", "rescindirán" ],
+			[ "rescindirán" ]
+		],
+		"8" : [
+			[ "rescinda" ],
+			[ "rescindas" ],
+			[ "rescinda" ],
+			[ "rescindamos" ],
+			[ "rescindáis", "rescindan" ],
+			[ "rescindan" ]
+		],
+		"9" : [
+			[ "rescindiera" ],
+			[ "rescindieras" ],
+			[ "rescindiera" ],
+			[ "rescindiéramos" ],
+			[ "rescindierais", "rescindieran" ],
+			[ "rescindieran" ]
+		],
+		"10" : [
+			[ "rescindiese" ],
+			[ "rescindieses" ],
+			[ "rescindiese" ],
+			[ "rescindiésemos" ],
+			[ "rescindieseis", "rescindiesen" ],
+			[ "rescindiesen" ]
+		],
+		"11" : [
+			[ "rescindiere" ],
+			[ "rescindieres" ],
+			[ "rescindiere" ],
+			[ "rescindiéremos" ],
+			[ "rescindiereis", "rescindieren" ],
+			[ "rescindieren" ]
+		],
+		"12" : {
+			"1" : [ "rescinde" ],
+			"2" : [ "rescinda" ],
+			"3" : [ "rescindamos" ],
+			"4" : [ "rescindid" ],
+			"5" : [ "rescindan" ]
+		}
+	}
+}

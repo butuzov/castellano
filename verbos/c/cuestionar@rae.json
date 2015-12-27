@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cuestionar",
+	"word" : "cuestionar",
+	"infinitivo" : "cuestionar",
+	"participio" : [ "cuestionado" ],
+	"gerundio" : [ "cuestionando" ],
+	"tenses" : {
+		"3" : [
+			[ "cuestiono" ],
+			[ "cuestionas", "cuestionás" ],
+			[ "cuestiona" ],
+			[ "cuestionamos" ],
+			[ "cuestionáis", "cuestionan" ],
+			[ "cuestionan" ]
+		],
+		"4" : [
+			[ "cuestioné" ],
+			[ "cuestionaste" ],
+			[ "cuestionó" ],
+			[ "cuestionamos" ],
+			[ "cuestionasteis", "cuestionaron" ],
+			[ "cuestionaron" ]
+		],
+		"5" : [
+			[ "cuestionaba" ],
+			[ "cuestionabas" ],
+			[ "cuestionaba" ],
+			[ "cuestionábamos" ],
+			[ "cuestionabais", "cuestionaban" ],
+			[ "cuestionaban" ]
+		],
+		"6" : [
+			[ "cuestionaría" ],
+			[ "cuestionarías" ],
+			[ "cuestionaría" ],
+			[ "cuestionaríamos" ],
+			[ "cuestionaríais", "cuestionarían" ],
+			[ "cuestionarían" ]
+		],
+		"7" : [
+			[ "cuestionaré" ],
+			[ "cuestionarás" ],
+			[ "cuestionará" ],
+			[ "cuestionaremos" ],
+			[ "cuestionaréis", "cuestionarán" ],
+			[ "cuestionarán" ]
+		],
+		"8" : [
+			[ "cuestione" ],
+			[ "cuestiones" ],
+			[ "cuestione" ],
+			[ "cuestionemos" ],
+			[ "cuestionéis", "cuestionen" ],
+			[ "cuestionen" ]
+		],
+		"9" : [
+			[ "cuestionara" ],
+			[ "cuestionaras" ],
+			[ "cuestionara" ],
+			[ "cuestionáramos" ],
+			[ "cuestionarais", "cuestionaran" ],
+			[ "cuestionaran" ]
+		],
+		"10" : [
+			[ "cuestionase" ],
+			[ "cuestionases" ],
+			[ "cuestionase" ],
+			[ "cuestionásemos" ],
+			[ "cuestionaseis", "cuestionasen" ],
+			[ "cuestionasen" ]
+		],
+		"11" : [
+			[ "cuestionare" ],
+			[ "cuestionares" ],
+			[ "cuestionare" ],
+			[ "cuestionáremos" ],
+			[ "cuestionareis", "cuestionaren" ],
+			[ "cuestionaren" ]
+		],
+		"12" : {
+			"1" : [ "cuestiona" ],
+			"2" : [ "cuestione" ],
+			"3" : [ "cuestionemos" ],
+			"4" : [ "cuestionad" ],
+			"5" : [ "cuestionen" ]
+		}
+	}
+}

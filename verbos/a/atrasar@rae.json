@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atrasar",
+	"word" : "atrasar",
+	"infinitivo" : "atrasar",
+	"participio" : [ "atrasado" ],
+	"gerundio" : [ "atrasando" ],
+	"tenses" : {
+		"3" : [
+			[ "atraso" ],
+			[ "atrasas", "atrasás" ],
+			[ "atrasa" ],
+			[ "atrasamos" ],
+			[ "atrasáis", "atrasan" ],
+			[ "atrasan" ]
+		],
+		"4" : [
+			[ "atrasé" ],
+			[ "atrasaste" ],
+			[ "atrasó" ],
+			[ "atrasamos" ],
+			[ "atrasasteis", "atrasaron" ],
+			[ "atrasaron" ]
+		],
+		"5" : [
+			[ "atrasaba" ],
+			[ "atrasabas" ],
+			[ "atrasaba" ],
+			[ "atrasábamos" ],
+			[ "atrasabais", "atrasaban" ],
+			[ "atrasaban" ]
+		],
+		"6" : [
+			[ "atrasaría" ],
+			[ "atrasarías" ],
+			[ "atrasaría" ],
+			[ "atrasaríamos" ],
+			[ "atrasaríais", "atrasarían" ],
+			[ "atrasarían" ]
+		],
+		"7" : [
+			[ "atrasaré" ],
+			[ "atrasarás" ],
+			[ "atrasará" ],
+			[ "atrasaremos" ],
+			[ "atrasaréis", "atrasarán" ],
+			[ "atrasarán" ]
+		],
+		"8" : [
+			[ "atrase" ],
+			[ "atrases" ],
+			[ "atrase" ],
+			[ "atrasemos" ],
+			[ "atraséis", "atrasen" ],
+			[ "atrasen" ]
+		],
+		"9" : [
+			[ "atrasara" ],
+			[ "atrasaras" ],
+			[ "atrasara" ],
+			[ "atrasáramos" ],
+			[ "atrasarais", "atrasaran" ],
+			[ "atrasaran" ]
+		],
+		"10" : [
+			[ "atrasase" ],
+			[ "atrasases" ],
+			[ "atrasase" ],
+			[ "atrasásemos" ],
+			[ "atrasaseis", "atrasasen" ],
+			[ "atrasasen" ]
+		],
+		"11" : [
+			[ "atrasare" ],
+			[ "atrasares" ],
+			[ "atrasare" ],
+			[ "atrasáremos" ],
+			[ "atrasareis", "atrasaren" ],
+			[ "atrasaren" ]
+		],
+		"12" : {
+			"1" : [ "atrasa" ],
+			"2" : [ "atrase" ],
+			"3" : [ "atrasemos" ],
+			"4" : [ "atrasad" ],
+			"5" : [ "atrasen" ]
+		}
+	}
+}

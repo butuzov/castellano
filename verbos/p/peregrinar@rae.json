@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=peregrinar",
+	"word" : "peregrinar",
+	"infinitivo" : "peregrinar",
+	"participio" : [ "peregrinado" ],
+	"gerundio" : [ "peregrinando" ],
+	"tenses" : {
+		"3" : [
+			[ "peregrino" ],
+			[ "peregrinas", "peregrinás" ],
+			[ "peregrina" ],
+			[ "peregrinamos" ],
+			[ "peregrináis", "peregrinan" ],
+			[ "peregrinan" ]
+		],
+		"4" : [
+			[ "peregriné" ],
+			[ "peregrinaste" ],
+			[ "peregrinó" ],
+			[ "peregrinamos" ],
+			[ "peregrinasteis", "peregrinaron" ],
+			[ "peregrinaron" ]
+		],
+		"5" : [
+			[ "peregrinaba" ],
+			[ "peregrinabas" ],
+			[ "peregrinaba" ],
+			[ "peregrinábamos" ],
+			[ "peregrinabais", "peregrinaban" ],
+			[ "peregrinaban" ]
+		],
+		"6" : [
+			[ "peregrinaría" ],
+			[ "peregrinarías" ],
+			[ "peregrinaría" ],
+			[ "peregrinaríamos" ],
+			[ "peregrinaríais", "peregrinarían" ],
+			[ "peregrinarían" ]
+		],
+		"7" : [
+			[ "peregrinaré" ],
+			[ "peregrinarás" ],
+			[ "peregrinará" ],
+			[ "peregrinaremos" ],
+			[ "peregrinaréis", "peregrinarán" ],
+			[ "peregrinarán" ]
+		],
+		"8" : [
+			[ "peregrine" ],
+			[ "peregrines" ],
+			[ "peregrine" ],
+			[ "peregrinemos" ],
+			[ "peregrinéis", "peregrinen" ],
+			[ "peregrinen" ]
+		],
+		"9" : [
+			[ "peregrinara" ],
+			[ "peregrinaras" ],
+			[ "peregrinara" ],
+			[ "peregrináramos" ],
+			[ "peregrinarais", "peregrinaran" ],
+			[ "peregrinaran" ]
+		],
+		"10" : [
+			[ "peregrinase" ],
+			[ "peregrinases" ],
+			[ "peregrinase" ],
+			[ "peregrinásemos" ],
+			[ "peregrinaseis", "peregrinasen" ],
+			[ "peregrinasen" ]
+		],
+		"11" : [
+			[ "peregrinare" ],
+			[ "peregrinares" ],
+			[ "peregrinare" ],
+			[ "peregrináremos" ],
+			[ "peregrinareis", "peregrinaren" ],
+			[ "peregrinaren" ]
+		],
+		"12" : {
+			"1" : [ "peregrina" ],
+			"2" : [ "peregrine" ],
+			"3" : [ "peregrinemos" ],
+			"4" : [ "peregrinad" ],
+			"5" : [ "peregrinen" ]
+		}
+	}
+}

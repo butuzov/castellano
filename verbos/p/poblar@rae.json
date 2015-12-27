@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=poblar",
+	"word" : "poblar",
+	"infinitivo" : "poblar",
+	"participio" : [ "poblado" ],
+	"gerundio" : [ "poblando" ],
+	"tenses" : {
+		"3" : [
+			[ "pueblo" ],
+			[ "pueblas", "poblás" ],
+			[ "puebla" ],
+			[ "poblamos" ],
+			[ "pobláis", "pueblan" ],
+			[ "pueblan" ]
+		],
+		"4" : [
+			[ "poblé" ],
+			[ "poblaste" ],
+			[ "pobló" ],
+			[ "poblamos" ],
+			[ "poblasteis", "poblaron" ],
+			[ "poblaron" ]
+		],
+		"5" : [
+			[ "poblaba" ],
+			[ "poblabas" ],
+			[ "poblaba" ],
+			[ "poblábamos" ],
+			[ "poblabais", "poblaban" ],
+			[ "poblaban" ]
+		],
+		"6" : [
+			[ "poblaría" ],
+			[ "poblarías" ],
+			[ "poblaría" ],
+			[ "poblaríamos" ],
+			[ "poblaríais", "poblarían" ],
+			[ "poblarían" ]
+		],
+		"7" : [
+			[ "poblaré" ],
+			[ "poblarás" ],
+			[ "poblará" ],
+			[ "poblaremos" ],
+			[ "poblaréis", "poblarán" ],
+			[ "poblarán" ]
+		],
+		"8" : [
+			[ "pueble" ],
+			[ "puebles" ],
+			[ "pueble" ],
+			[ "poblemos" ],
+			[ "pobléis", "pueblen" ],
+			[ "pueblen" ]
+		],
+		"9" : [
+			[ "poblara" ],
+			[ "poblaras" ],
+			[ "poblara" ],
+			[ "pobláramos" ],
+			[ "poblarais", "poblaran" ],
+			[ "poblaran" ]
+		],
+		"10" : [
+			[ "poblase" ],
+			[ "poblases" ],
+			[ "poblase" ],
+			[ "poblásemos" ],
+			[ "poblaseis", "poblasen" ],
+			[ "poblasen" ]
+		],
+		"11" : [
+			[ "poblare" ],
+			[ "poblares" ],
+			[ "poblare" ],
+			[ "pobláremos" ],
+			[ "poblareis", "poblaren" ],
+			[ "poblaren" ]
+		],
+		"12" : {
+			"1" : [ "puebla" ],
+			"2" : [ "pueble" ],
+			"3" : [ "poblemos" ],
+			"4" : [ "poblad" ],
+			"5" : [ "pueblen" ]
+		}
+	}
+}

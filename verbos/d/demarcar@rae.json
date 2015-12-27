@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=demarcar",
+	"word" : "demarcar",
+	"infinitivo" : "demarcar",
+	"participio" : [ "demarcado" ],
+	"gerundio" : [ "demarcando" ],
+	"tenses" : {
+		"3" : [
+			[ "demarco" ],
+			[ "demarcas", "demarcás" ],
+			[ "demarca" ],
+			[ "demarcamos" ],
+			[ "demarcáis", "demarcan" ],
+			[ "demarcan" ]
+		],
+		"4" : [
+			[ "demarqué" ],
+			[ "demarcaste" ],
+			[ "demarcó" ],
+			[ "demarcamos" ],
+			[ "demarcasteis", "demarcaron" ],
+			[ "demarcaron" ]
+		],
+		"5" : [
+			[ "demarcaba" ],
+			[ "demarcabas" ],
+			[ "demarcaba" ],
+			[ "demarcábamos" ],
+			[ "demarcabais", "demarcaban" ],
+			[ "demarcaban" ]
+		],
+		"6" : [
+			[ "demarcaría" ],
+			[ "demarcarías" ],
+			[ "demarcaría" ],
+			[ "demarcaríamos" ],
+			[ "demarcaríais", "demarcarían" ],
+			[ "demarcarían" ]
+		],
+		"7" : [
+			[ "demarcaré" ],
+			[ "demarcarás" ],
+			[ "demarcará" ],
+			[ "demarcaremos" ],
+			[ "demarcaréis", "demarcarán" ],
+			[ "demarcarán" ]
+		],
+		"8" : [
+			[ "demarque" ],
+			[ "demarques" ],
+			[ "demarque" ],
+			[ "demarquemos" ],
+			[ "demarquéis", "demarquen" ],
+			[ "demarquen" ]
+		],
+		"9" : [
+			[ "demarcara" ],
+			[ "demarcaras" ],
+			[ "demarcara" ],
+			[ "demarcáramos" ],
+			[ "demarcarais", "demarcaran" ],
+			[ "demarcaran" ]
+		],
+		"10" : [
+			[ "demarcase" ],
+			[ "demarcases" ],
+			[ "demarcase" ],
+			[ "demarcásemos" ],
+			[ "demarcaseis", "demarcasen" ],
+			[ "demarcasen" ]
+		],
+		"11" : [
+			[ "demarcare" ],
+			[ "demarcares" ],
+			[ "demarcare" ],
+			[ "demarcáremos" ],
+			[ "demarcareis", "demarcaren" ],
+			[ "demarcaren" ]
+		],
+		"12" : {
+			"1" : [ "demarca" ],
+			"2" : [ "demarque" ],
+			"3" : [ "demarquemos" ],
+			"4" : [ "demarcad" ],
+			"5" : [ "demarquen" ]
+		}
+	}
+}

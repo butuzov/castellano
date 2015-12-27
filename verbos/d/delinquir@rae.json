@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=delinquir",
+	"word" : "delinquir",
+	"infinitivo" : "delinquir",
+	"participio" : [ "delinquido" ],
+	"gerundio" : [ "delinquiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "delinco" ],
+			[ "delinques", "delinquís" ],
+			[ "delinque" ],
+			[ "delinquimos" ],
+			[ "delinquís", "delinquen" ],
+			[ "delinquen" ]
+		],
+		"4" : [
+			[ "delinquí" ],
+			[ "delinquiste" ],
+			[ "delinquió" ],
+			[ "delinquimos" ],
+			[ "delinquisteis", "delinquieron" ],
+			[ "delinquieron" ]
+		],
+		"5" : [
+			[ "delinquía" ],
+			[ "delinquías" ],
+			[ "delinquía" ],
+			[ "delinquíamos" ],
+			[ "delinquíais", "delinquían" ],
+			[ "delinquían" ]
+		],
+		"6" : [
+			[ "delinquiría" ],
+			[ "delinquirías" ],
+			[ "delinquiría" ],
+			[ "delinquiríamos" ],
+			[ "delinquiríais", "delinquirían" ],
+			[ "delinquirían" ]
+		],
+		"7" : [
+			[ "delinquiré" ],
+			[ "delinquirás" ],
+			[ "delinquirá" ],
+			[ "delinquiremos" ],
+			[ "delinquiréis", "delinquirán" ],
+			[ "delinquirán" ]
+		],
+		"8" : [
+			[ "delinca" ],
+			[ "delincas" ],
+			[ "delinca" ],
+			[ "delincamos" ],
+			[ "delincáis", "delincan" ],
+			[ "delincan" ]
+		],
+		"9" : [
+			[ "delinquiera" ],
+			[ "delinquieras" ],
+			[ "delinquiera" ],
+			[ "delinquiéramos" ],
+			[ "delinquierais", "delinquieran" ],
+			[ "delinquieran" ]
+		],
+		"10" : [
+			[ "delinquiese" ],
+			[ "delinquieses" ],
+			[ "delinquiese" ],
+			[ "delinquiésemos" ],
+			[ "delinquieseis", "delinquiesen" ],
+			[ "delinquiesen" ]
+		],
+		"11" : [
+			[ "delinquiere" ],
+			[ "delinquieres" ],
+			[ "delinquiere" ],
+			[ "delinquiéremos" ],
+			[ "delinquiereis", "delinquieren" ],
+			[ "delinquieren" ]
+		],
+		"12" : {
+			"1" : [ "delinque" ],
+			"2" : [ "delinca" ],
+			"3" : [ "delincamos" ],
+			"4" : [ "delinquid" ],
+			"5" : [ "delincan" ]
+		}
+	}
+}

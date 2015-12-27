@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=visitar",
+	"word" : "visitar",
+	"infinitivo" : "visitar",
+	"participio" : [ "visitado" ],
+	"gerundio" : [ "visitando" ],
+	"tenses" : {
+		"3" : [
+			[ "visito" ],
+			[ "visitas", "visitás" ],
+			[ "visita" ],
+			[ "visitamos" ],
+			[ "visitáis", "visitan" ],
+			[ "visitan" ]
+		],
+		"4" : [
+			[ "visité" ],
+			[ "visitaste" ],
+			[ "visitó" ],
+			[ "visitamos" ],
+			[ "visitasteis", "visitaron" ],
+			[ "visitaron" ]
+		],
+		"5" : [
+			[ "visitaba" ],
+			[ "visitabas" ],
+			[ "visitaba" ],
+			[ "visitábamos" ],
+			[ "visitabais", "visitaban" ],
+			[ "visitaban" ]
+		],
+		"6" : [
+			[ "visitaría" ],
+			[ "visitarías" ],
+			[ "visitaría" ],
+			[ "visitaríamos" ],
+			[ "visitaríais", "visitarían" ],
+			[ "visitarían" ]
+		],
+		"7" : [
+			[ "visitaré" ],
+			[ "visitarás" ],
+			[ "visitará" ],
+			[ "visitaremos" ],
+			[ "visitaréis", "visitarán" ],
+			[ "visitarán" ]
+		],
+		"8" : [
+			[ "visite" ],
+			[ "visites" ],
+			[ "visite" ],
+			[ "visitemos" ],
+			[ "visitéis", "visiten" ],
+			[ "visiten" ]
+		],
+		"9" : [
+			[ "visitara" ],
+			[ "visitaras" ],
+			[ "visitara" ],
+			[ "visitáramos" ],
+			[ "visitarais", "visitaran" ],
+			[ "visitaran" ]
+		],
+		"10" : [
+			[ "visitase" ],
+			[ "visitases" ],
+			[ "visitase" ],
+			[ "visitásemos" ],
+			[ "visitaseis", "visitasen" ],
+			[ "visitasen" ]
+		],
+		"11" : [
+			[ "visitare" ],
+			[ "visitares" ],
+			[ "visitare" ],
+			[ "visitáremos" ],
+			[ "visitareis", "visitaren" ],
+			[ "visitaren" ]
+		],
+		"12" : {
+			"1" : [ "visita" ],
+			"2" : [ "visite" ],
+			"3" : [ "visitemos" ],
+			"4" : [ "visitad" ],
+			"5" : [ "visiten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=criticar",
+	"word" : "criticar",
+	"infinitivo" : "criticar",
+	"participio" : [ "criticado" ],
+	"gerundio" : [ "criticando" ],
+	"tenses" : {
+		"3" : [
+			[ "critico" ],
+			[ "criticas", "criticás" ],
+			[ "critica" ],
+			[ "criticamos" ],
+			[ "criticáis", "critican" ],
+			[ "critican" ]
+		],
+		"4" : [
+			[ "critiqué" ],
+			[ "criticaste" ],
+			[ "criticó" ],
+			[ "criticamos" ],
+			[ "criticasteis", "criticaron" ],
+			[ "criticaron" ]
+		],
+		"5" : [
+			[ "criticaba" ],
+			[ "criticabas" ],
+			[ "criticaba" ],
+			[ "criticábamos" ],
+			[ "criticabais", "criticaban" ],
+			[ "criticaban" ]
+		],
+		"6" : [
+			[ "criticaría" ],
+			[ "criticarías" ],
+			[ "criticaría" ],
+			[ "criticaríamos" ],
+			[ "criticaríais", "criticarían" ],
+			[ "criticarían" ]
+		],
+		"7" : [
+			[ "criticaré" ],
+			[ "criticarás" ],
+			[ "criticará" ],
+			[ "criticaremos" ],
+			[ "criticaréis", "criticarán" ],
+			[ "criticarán" ]
+		],
+		"8" : [
+			[ "critique" ],
+			[ "critiques" ],
+			[ "critique" ],
+			[ "critiquemos" ],
+			[ "critiquéis", "critiquen" ],
+			[ "critiquen" ]
+		],
+		"9" : [
+			[ "criticara" ],
+			[ "criticaras" ],
+			[ "criticara" ],
+			[ "criticáramos" ],
+			[ "criticarais", "criticaran" ],
+			[ "criticaran" ]
+		],
+		"10" : [
+			[ "criticase" ],
+			[ "criticases" ],
+			[ "criticase" ],
+			[ "criticásemos" ],
+			[ "criticaseis", "criticasen" ],
+			[ "criticasen" ]
+		],
+		"11" : [
+			[ "criticare" ],
+			[ "criticares" ],
+			[ "criticare" ],
+			[ "criticáremos" ],
+			[ "criticareis", "criticaren" ],
+			[ "criticaren" ]
+		],
+		"12" : {
+			"1" : [ "critica" ],
+			"2" : [ "critique" ],
+			"3" : [ "critiquemos" ],
+			"4" : [ "criticad" ],
+			"5" : [ "critiquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recoger",
+	"word" : "recoger",
+	"infinitivo" : "recoger",
+	"participio" : [ "recogido" ],
+	"gerundio" : [ "recogiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "recojo" ],
+			[ "recoges", "recogés" ],
+			[ "recoge" ],
+			[ "recogemos" ],
+			[ "recogéis", "recogen" ],
+			[ "recogen" ]
+		],
+		"4" : [
+			[ "recogí" ],
+			[ "recogiste" ],
+			[ "recogió" ],
+			[ "recogimos" ],
+			[ "recogisteis", "recogieron" ],
+			[ "recogieron" ]
+		],
+		"5" : [
+			[ "recogía" ],
+			[ "recogías" ],
+			[ "recogía" ],
+			[ "recogíamos" ],
+			[ "recogíais", "recogían" ],
+			[ "recogían" ]
+		],
+		"6" : [
+			[ "recogería" ],
+			[ "recogerías" ],
+			[ "recogería" ],
+			[ "recogeríamos" ],
+			[ "recogeríais", "recogerían" ],
+			[ "recogerían" ]
+		],
+		"7" : [
+			[ "recogeré" ],
+			[ "recogerás" ],
+			[ "recogerá" ],
+			[ "recogeremos" ],
+			[ "recogeréis", "recogerán" ],
+			[ "recogerán" ]
+		],
+		"8" : [
+			[ "recoja" ],
+			[ "recojas" ],
+			[ "recoja" ],
+			[ "recojamos" ],
+			[ "recojáis", "recojan" ],
+			[ "recojan" ]
+		],
+		"9" : [
+			[ "recogiera" ],
+			[ "recogieras" ],
+			[ "recogiera" ],
+			[ "recogiéramos" ],
+			[ "recogierais", "recogieran" ],
+			[ "recogieran" ]
+		],
+		"10" : [
+			[ "recogiese" ],
+			[ "recogieses" ],
+			[ "recogiese" ],
+			[ "recogiésemos" ],
+			[ "recogieseis", "recogiesen" ],
+			[ "recogiesen" ]
+		],
+		"11" : [
+			[ "recogiere" ],
+			[ "recogieres" ],
+			[ "recogiere" ],
+			[ "recogiéremos" ],
+			[ "recogiereis", "recogieren" ],
+			[ "recogieren" ]
+		],
+		"12" : {
+			"1" : [ "recoge" ],
+			"2" : [ "recoja" ],
+			"3" : [ "recojamos" ],
+			"4" : [ "recoged" ],
+			"5" : [ "recojan" ]
+		}
+	}
+}

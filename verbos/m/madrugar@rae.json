@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=madrugar",
+	"word" : "madrugar",
+	"infinitivo" : "madrugar",
+	"participio" : [ "madrugado" ],
+	"gerundio" : [ "madrugando" ],
+	"tenses" : {
+		"3" : [
+			[ "madrugo" ],
+			[ "madrugas", "madrugás" ],
+			[ "madruga" ],
+			[ "madrugamos" ],
+			[ "madrugáis", "madrugan" ],
+			[ "madrugan" ]
+		],
+		"4" : [
+			[ "madrugué" ],
+			[ "madrugaste" ],
+			[ "madrugó" ],
+			[ "madrugamos" ],
+			[ "madrugasteis", "madrugaron" ],
+			[ "madrugaron" ]
+		],
+		"5" : [
+			[ "madrugaba" ],
+			[ "madrugabas" ],
+			[ "madrugaba" ],
+			[ "madrugábamos" ],
+			[ "madrugabais", "madrugaban" ],
+			[ "madrugaban" ]
+		],
+		"6" : [
+			[ "madrugaría" ],
+			[ "madrugarías" ],
+			[ "madrugaría" ],
+			[ "madrugaríamos" ],
+			[ "madrugaríais", "madrugarían" ],
+			[ "madrugarían" ]
+		],
+		"7" : [
+			[ "madrugaré" ],
+			[ "madrugarás" ],
+			[ "madrugará" ],
+			[ "madrugaremos" ],
+			[ "madrugaréis", "madrugarán" ],
+			[ "madrugarán" ]
+		],
+		"8" : [
+			[ "madrugue" ],
+			[ "madrugues" ],
+			[ "madrugue" ],
+			[ "madruguemos" ],
+			[ "madruguéis", "madruguen" ],
+			[ "madruguen" ]
+		],
+		"9" : [
+			[ "madrugara" ],
+			[ "madrugaras" ],
+			[ "madrugara" ],
+			[ "madrugáramos" ],
+			[ "madrugarais", "madrugaran" ],
+			[ "madrugaran" ]
+		],
+		"10" : [
+			[ "madrugase" ],
+			[ "madrugases" ],
+			[ "madrugase" ],
+			[ "madrugásemos" ],
+			[ "madrugaseis", "madrugasen" ],
+			[ "madrugasen" ]
+		],
+		"11" : [
+			[ "madrugare" ],
+			[ "madrugares" ],
+			[ "madrugare" ],
+			[ "madrugáremos" ],
+			[ "madrugareis", "madrugaren" ],
+			[ "madrugaren" ]
+		],
+		"12" : {
+			"1" : [ "madruga" ],
+			"2" : [ "madrugue" ],
+			"3" : [ "madruguemos" ],
+			"4" : [ "madrugad" ],
+			"5" : [ "madruguen" ]
+		}
+	}
+}

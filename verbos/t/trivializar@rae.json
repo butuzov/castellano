@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trivializar",
+	"word" : "trivializar",
+	"infinitivo" : "trivializar",
+	"participio" : [ "trivializado" ],
+	"gerundio" : [ "trivializando" ],
+	"tenses" : {
+		"3" : [
+			[ "trivializo" ],
+			[ "trivializas", "trivializás" ],
+			[ "trivializa" ],
+			[ "trivializamos" ],
+			[ "trivializáis", "trivializan" ],
+			[ "trivializan" ]
+		],
+		"4" : [
+			[ "trivialicé" ],
+			[ "trivializaste" ],
+			[ "trivializó" ],
+			[ "trivializamos" ],
+			[ "trivializasteis", "trivializaron" ],
+			[ "trivializaron" ]
+		],
+		"5" : [
+			[ "trivializaba" ],
+			[ "trivializabas" ],
+			[ "trivializaba" ],
+			[ "trivializábamos" ],
+			[ "trivializabais", "trivializaban" ],
+			[ "trivializaban" ]
+		],
+		"6" : [
+			[ "trivializaría" ],
+			[ "trivializarías" ],
+			[ "trivializaría" ],
+			[ "trivializaríamos" ],
+			[ "trivializaríais", "trivializarían" ],
+			[ "trivializarían" ]
+		],
+		"7" : [
+			[ "trivializaré" ],
+			[ "trivializarás" ],
+			[ "trivializará" ],
+			[ "trivializaremos" ],
+			[ "trivializaréis", "trivializarán" ],
+			[ "trivializarán" ]
+		],
+		"8" : [
+			[ "trivialice" ],
+			[ "trivialices" ],
+			[ "trivialice" ],
+			[ "trivialicemos" ],
+			[ "trivialicéis", "trivialicen" ],
+			[ "trivialicen" ]
+		],
+		"9" : [
+			[ "trivializara" ],
+			[ "trivializaras" ],
+			[ "trivializara" ],
+			[ "trivializáramos" ],
+			[ "trivializarais", "trivializaran" ],
+			[ "trivializaran" ]
+		],
+		"10" : [
+			[ "trivializase" ],
+			[ "trivializases" ],
+			[ "trivializase" ],
+			[ "trivializásemos" ],
+			[ "trivializaseis", "trivializasen" ],
+			[ "trivializasen" ]
+		],
+		"11" : [
+			[ "trivializare" ],
+			[ "trivializares" ],
+			[ "trivializare" ],
+			[ "trivializáremos" ],
+			[ "trivializareis", "trivializaren" ],
+			[ "trivializaren" ]
+		],
+		"12" : {
+			"1" : [ "trivializa" ],
+			"2" : [ "trivialice" ],
+			"3" : [ "trivialicemos" ],
+			"4" : [ "trivializad" ],
+			"5" : [ "trivialicen" ]
+		}
+	}
+}

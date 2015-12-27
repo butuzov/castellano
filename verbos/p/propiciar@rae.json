@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=propiciar",
+	"word" : "propiciar",
+	"infinitivo" : "propiciar",
+	"participio" : [ "propiciado" ],
+	"gerundio" : [ "propiciando" ],
+	"tenses" : {
+		"3" : [
+			[ "propicio" ],
+			[ "propicias", "propiciás" ],
+			[ "propicia" ],
+			[ "propiciamos" ],
+			[ "propiciáis", "propician" ],
+			[ "propician" ]
+		],
+		"4" : [
+			[ "propicié" ],
+			[ "propiciaste" ],
+			[ "propició" ],
+			[ "propiciamos" ],
+			[ "propiciasteis", "propiciaron" ],
+			[ "propiciaron" ]
+		],
+		"5" : [
+			[ "propiciaba" ],
+			[ "propiciabas" ],
+			[ "propiciaba" ],
+			[ "propiciábamos" ],
+			[ "propiciabais", "propiciaban" ],
+			[ "propiciaban" ]
+		],
+		"6" : [
+			[ "propiciaría" ],
+			[ "propiciarías" ],
+			[ "propiciaría" ],
+			[ "propiciaríamos" ],
+			[ "propiciaríais", "propiciarían" ],
+			[ "propiciarían" ]
+		],
+		"7" : [
+			[ "propiciaré" ],
+			[ "propiciarás" ],
+			[ "propiciará" ],
+			[ "propiciaremos" ],
+			[ "propiciaréis", "propiciarán" ],
+			[ "propiciarán" ]
+		],
+		"8" : [
+			[ "propicie" ],
+			[ "propicies" ],
+			[ "propicie" ],
+			[ "propiciemos" ],
+			[ "propiciéis", "propicien" ],
+			[ "propicien" ]
+		],
+		"9" : [
+			[ "propiciara" ],
+			[ "propiciaras" ],
+			[ "propiciara" ],
+			[ "propiciáramos" ],
+			[ "propiciarais", "propiciaran" ],
+			[ "propiciaran" ]
+		],
+		"10" : [
+			[ "propiciase" ],
+			[ "propiciases" ],
+			[ "propiciase" ],
+			[ "propiciásemos" ],
+			[ "propiciaseis", "propiciasen" ],
+			[ "propiciasen" ]
+		],
+		"11" : [
+			[ "propiciare" ],
+			[ "propiciares" ],
+			[ "propiciare" ],
+			[ "propiciáremos" ],
+			[ "propiciareis", "propiciaren" ],
+			[ "propiciaren" ]
+		],
+		"12" : {
+			"1" : [ "propicia" ],
+			"2" : [ "propicie" ],
+			"3" : [ "propiciemos" ],
+			"4" : [ "propiciad" ],
+			"5" : [ "propicien" ]
+		}
+	}
+}

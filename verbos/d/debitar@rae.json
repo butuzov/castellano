@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=debitar",
+	"word" : "debitar",
+	"infinitivo" : "debitar",
+	"participio" : [ "debitado" ],
+	"gerundio" : [ "debitando" ],
+	"tenses" : {
+		"3" : [
+			[ "debito" ],
+			[ "debitas", "debitás" ],
+			[ "debita" ],
+			[ "debitamos" ],
+			[ "debitáis", "debitan" ],
+			[ "debitan" ]
+		],
+		"4" : [
+			[ "debité" ],
+			[ "debitaste" ],
+			[ "debitó" ],
+			[ "debitamos" ],
+			[ "debitasteis", "debitaron" ],
+			[ "debitaron" ]
+		],
+		"5" : [
+			[ "debitaba" ],
+			[ "debitabas" ],
+			[ "debitaba" ],
+			[ "debitábamos" ],
+			[ "debitabais", "debitaban" ],
+			[ "debitaban" ]
+		],
+		"6" : [
+			[ "debitaría" ],
+			[ "debitarías" ],
+			[ "debitaría" ],
+			[ "debitaríamos" ],
+			[ "debitaríais", "debitarían" ],
+			[ "debitarían" ]
+		],
+		"7" : [
+			[ "debitaré" ],
+			[ "debitarás" ],
+			[ "debitará" ],
+			[ "debitaremos" ],
+			[ "debitaréis", "debitarán" ],
+			[ "debitarán" ]
+		],
+		"8" : [
+			[ "debite" ],
+			[ "debites" ],
+			[ "debite" ],
+			[ "debitemos" ],
+			[ "debitéis", "debiten" ],
+			[ "debiten" ]
+		],
+		"9" : [
+			[ "debitara" ],
+			[ "debitaras" ],
+			[ "debitara" ],
+			[ "debitáramos" ],
+			[ "debitarais", "debitaran" ],
+			[ "debitaran" ]
+		],
+		"10" : [
+			[ "debitase" ],
+			[ "debitases" ],
+			[ "debitase" ],
+			[ "debitásemos" ],
+			[ "debitaseis", "debitasen" ],
+			[ "debitasen" ]
+		],
+		"11" : [
+			[ "debitare" ],
+			[ "debitares" ],
+			[ "debitare" ],
+			[ "debitáremos" ],
+			[ "debitareis", "debitaren" ],
+			[ "debitaren" ]
+		],
+		"12" : {
+			"1" : [ "debita" ],
+			"2" : [ "debite" ],
+			"3" : [ "debitemos" ],
+			"4" : [ "debitad" ],
+			"5" : [ "debiten" ]
+		}
+	}
+}

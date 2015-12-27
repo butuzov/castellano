@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=salmodiar",
+	"word" : "salmodiar",
+	"infinitivo" : "salmodiar",
+	"participio" : [ "salmodiado" ],
+	"gerundio" : [ "salmodiando" ],
+	"tenses" : {
+		"3" : [
+			[ "salmodio" ],
+			[ "salmodias", "salmodiás" ],
+			[ "salmodia" ],
+			[ "salmodiamos" ],
+			[ "salmodiáis", "salmodian" ],
+			[ "salmodian" ]
+		],
+		"4" : [
+			[ "salmodié" ],
+			[ "salmodiaste" ],
+			[ "salmodió" ],
+			[ "salmodiamos" ],
+			[ "salmodiasteis", "salmodiaron" ],
+			[ "salmodiaron" ]
+		],
+		"5" : [
+			[ "salmodiaba" ],
+			[ "salmodiabas" ],
+			[ "salmodiaba" ],
+			[ "salmodiábamos" ],
+			[ "salmodiabais", "salmodiaban" ],
+			[ "salmodiaban" ]
+		],
+		"6" : [
+			[ "salmodiaría" ],
+			[ "salmodiarías" ],
+			[ "salmodiaría" ],
+			[ "salmodiaríamos" ],
+			[ "salmodiaríais", "salmodiarían" ],
+			[ "salmodiarían" ]
+		],
+		"7" : [
+			[ "salmodiaré" ],
+			[ "salmodiarás" ],
+			[ "salmodiará" ],
+			[ "salmodiaremos" ],
+			[ "salmodiaréis", "salmodiarán" ],
+			[ "salmodiarán" ]
+		],
+		"8" : [
+			[ "salmodie" ],
+			[ "salmodies" ],
+			[ "salmodie" ],
+			[ "salmodiemos" ],
+			[ "salmodiéis", "salmodien" ],
+			[ "salmodien" ]
+		],
+		"9" : [
+			[ "salmodiara" ],
+			[ "salmodiaras" ],
+			[ "salmodiara" ],
+			[ "salmodiáramos" ],
+			[ "salmodiarais", "salmodiaran" ],
+			[ "salmodiaran" ]
+		],
+		"10" : [
+			[ "salmodiase" ],
+			[ "salmodiases" ],
+			[ "salmodiase" ],
+			[ "salmodiásemos" ],
+			[ "salmodiaseis", "salmodiasen" ],
+			[ "salmodiasen" ]
+		],
+		"11" : [
+			[ "salmodiare" ],
+			[ "salmodiares" ],
+			[ "salmodiare" ],
+			[ "salmodiáremos" ],
+			[ "salmodiareis", "salmodiaren" ],
+			[ "salmodiaren" ]
+		],
+		"12" : {
+			"1" : [ "salmodia" ],
+			"2" : [ "salmodie" ],
+			"3" : [ "salmodiemos" ],
+			"4" : [ "salmodiad" ],
+			"5" : [ "salmodien" ]
+		}
+	}
+}

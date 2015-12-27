@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=salpresar",
+	"word" : "salpresar",
+	"infinitivo" : "salpresar",
+	"participio" : [ "salpresado" ],
+	"gerundio" : [ "salpresando" ],
+	"tenses" : {
+		"3" : [
+			[ "salpreso" ],
+			[ "salpresas", "salpresás" ],
+			[ "salpresa" ],
+			[ "salpresamos" ],
+			[ "salpresáis", "salpresan" ],
+			[ "salpresan" ]
+		],
+		"4" : [
+			[ "salpresé" ],
+			[ "salpresaste" ],
+			[ "salpresó" ],
+			[ "salpresamos" ],
+			[ "salpresasteis", "salpresaron" ],
+			[ "salpresaron" ]
+		],
+		"5" : [
+			[ "salpresaba" ],
+			[ "salpresabas" ],
+			[ "salpresaba" ],
+			[ "salpresábamos" ],
+			[ "salpresabais", "salpresaban" ],
+			[ "salpresaban" ]
+		],
+		"6" : [
+			[ "salpresaría" ],
+			[ "salpresarías" ],
+			[ "salpresaría" ],
+			[ "salpresaríamos" ],
+			[ "salpresaríais", "salpresarían" ],
+			[ "salpresarían" ]
+		],
+		"7" : [
+			[ "salpresaré" ],
+			[ "salpresarás" ],
+			[ "salpresará" ],
+			[ "salpresaremos" ],
+			[ "salpresaréis", "salpresarán" ],
+			[ "salpresarán" ]
+		],
+		"8" : [
+			[ "salprese" ],
+			[ "salpreses" ],
+			[ "salprese" ],
+			[ "salpresemos" ],
+			[ "salpreséis", "salpresen" ],
+			[ "salpresen" ]
+		],
+		"9" : [
+			[ "salpresara" ],
+			[ "salpresaras" ],
+			[ "salpresara" ],
+			[ "salpresáramos" ],
+			[ "salpresarais", "salpresaran" ],
+			[ "salpresaran" ]
+		],
+		"10" : [
+			[ "salpresase" ],
+			[ "salpresases" ],
+			[ "salpresase" ],
+			[ "salpresásemos" ],
+			[ "salpresaseis", "salpresasen" ],
+			[ "salpresasen" ]
+		],
+		"11" : [
+			[ "salpresare" ],
+			[ "salpresares" ],
+			[ "salpresare" ],
+			[ "salpresáremos" ],
+			[ "salpresareis", "salpresaren" ],
+			[ "salpresaren" ]
+		],
+		"12" : {
+			"1" : [ "salpresa" ],
+			"2" : [ "salprese" ],
+			"3" : [ "salpresemos" ],
+			"4" : [ "salpresad" ],
+			"5" : [ "salpresen" ]
+		}
+	}
+}

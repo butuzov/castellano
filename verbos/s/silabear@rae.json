@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=silabear",
+	"word" : "silabear",
+	"infinitivo" : "silabear",
+	"participio" : [ "silabeado" ],
+	"gerundio" : [ "silabeando" ],
+	"tenses" : {
+		"3" : [
+			[ "silabeo" ],
+			[ "silabeas", "silabeás" ],
+			[ "silabea" ],
+			[ "silabeamos" ],
+			[ "silabeáis", "silabean" ],
+			[ "silabean" ]
+		],
+		"4" : [
+			[ "silabeé" ],
+			[ "silabeaste" ],
+			[ "silabeó" ],
+			[ "silabeamos" ],
+			[ "silabeasteis", "silabearon" ],
+			[ "silabearon" ]
+		],
+		"5" : [
+			[ "silabeaba" ],
+			[ "silabeabas" ],
+			[ "silabeaba" ],
+			[ "silabeábamos" ],
+			[ "silabeabais", "silabeaban" ],
+			[ "silabeaban" ]
+		],
+		"6" : [
+			[ "silabearía" ],
+			[ "silabearías" ],
+			[ "silabearía" ],
+			[ "silabearíamos" ],
+			[ "silabearíais", "silabearían" ],
+			[ "silabearían" ]
+		],
+		"7" : [
+			[ "silabearé" ],
+			[ "silabearás" ],
+			[ "silabeará" ],
+			[ "silabearemos" ],
+			[ "silabearéis", "silabearán" ],
+			[ "silabearán" ]
+		],
+		"8" : [
+			[ "silabee" ],
+			[ "silabees" ],
+			[ "silabee" ],
+			[ "silabeemos" ],
+			[ "silabeéis", "silabeen" ],
+			[ "silabeen" ]
+		],
+		"9" : [
+			[ "silabeara" ],
+			[ "silabearas" ],
+			[ "silabeara" ],
+			[ "silabeáramos" ],
+			[ "silabearais", "silabearan" ],
+			[ "silabearan" ]
+		],
+		"10" : [
+			[ "silabease" ],
+			[ "silabeases" ],
+			[ "silabease" ],
+			[ "silabeásemos" ],
+			[ "silabeaseis", "silabeasen" ],
+			[ "silabeasen" ]
+		],
+		"11" : [
+			[ "silabeare" ],
+			[ "silabeares" ],
+			[ "silabeare" ],
+			[ "silabeáremos" ],
+			[ "silabeareis", "silabearen" ],
+			[ "silabearen" ]
+		],
+		"12" : {
+			"1" : [ "silabea" ],
+			"2" : [ "silabee" ],
+			"3" : [ "silabeemos" ],
+			"4" : [ "silabead" ],
+			"5" : [ "silabeen" ]
+		}
+	}
+}

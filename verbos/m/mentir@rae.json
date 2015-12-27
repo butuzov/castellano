@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mentir",
+	"word" : "mentir",
+	"infinitivo" : "mentir",
+	"participio" : [ "mentido" ],
+	"gerundio" : [ "mintiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "miento" ],
+			[ "mientes", "mentís" ],
+			[ "miente" ],
+			[ "mentimos" ],
+			[ "mentís", "mienten" ],
+			[ "mienten" ]
+		],
+		"4" : [
+			[ "mentí" ],
+			[ "mentiste" ],
+			[ "mintió" ],
+			[ "mentimos" ],
+			[ "mentisteis", "mintieron" ],
+			[ "mintieron" ]
+		],
+		"5" : [
+			[ "mentía" ],
+			[ "mentías" ],
+			[ "mentía" ],
+			[ "mentíamos" ],
+			[ "mentíais", "mentían" ],
+			[ "mentían" ]
+		],
+		"6" : [
+			[ "mentiría" ],
+			[ "mentirías" ],
+			[ "mentiría" ],
+			[ "mentiríamos" ],
+			[ "mentiríais", "mentirían" ],
+			[ "mentirían" ]
+		],
+		"7" : [
+			[ "mentiré" ],
+			[ "mentirás" ],
+			[ "mentirá" ],
+			[ "mentiremos" ],
+			[ "mentiréis", "mentirán" ],
+			[ "mentirán" ]
+		],
+		"8" : [
+			[ "mienta" ],
+			[ "mientas" ],
+			[ "mienta" ],
+			[ "mintamos" ],
+			[ "mintáis", "mientan" ],
+			[ "mientan" ]
+		],
+		"9" : [
+			[ "mintiera" ],
+			[ "mintieras" ],
+			[ "mintiera" ],
+			[ "mintiéramos" ],
+			[ "mintierais", "mintieran" ],
+			[ "mintieran" ]
+		],
+		"10" : [
+			[ "mintiese" ],
+			[ "mintieses" ],
+			[ "mintiese" ],
+			[ "mintiésemos" ],
+			[ "mintieseis", "mintiesen" ],
+			[ "mintiesen" ]
+		],
+		"11" : [
+			[ "mintiere" ],
+			[ "mintieres" ],
+			[ "mintiere" ],
+			[ "mintiéremos" ],
+			[ "mintiereis", "mintieren" ],
+			[ "mintieren" ]
+		],
+		"12" : {
+			"1" : [ "miente" ],
+			"2" : [ "mienta" ],
+			"3" : [ "mintamos" ],
+			"4" : [ "mentid" ],
+			"5" : [ "mientan" ]
+		}
+	}
+}

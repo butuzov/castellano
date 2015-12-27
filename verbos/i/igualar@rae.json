@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=igualar",
+	"word" : "igualar",
+	"infinitivo" : "igualar",
+	"participio" : [ "igualado" ],
+	"gerundio" : [ "igualando" ],
+	"tenses" : {
+		"3" : [
+			[ "igualo" ],
+			[ "igualas", "igualás" ],
+			[ "iguala" ],
+			[ "igualamos" ],
+			[ "igualáis", "igualan" ],
+			[ "igualan" ]
+		],
+		"4" : [
+			[ "igualé" ],
+			[ "igualaste" ],
+			[ "igualó" ],
+			[ "igualamos" ],
+			[ "igualasteis", "igualaron" ],
+			[ "igualaron" ]
+		],
+		"5" : [
+			[ "igualaba" ],
+			[ "igualabas" ],
+			[ "igualaba" ],
+			[ "igualábamos" ],
+			[ "igualabais", "igualaban" ],
+			[ "igualaban" ]
+		],
+		"6" : [
+			[ "igualaría" ],
+			[ "igualarías" ],
+			[ "igualaría" ],
+			[ "igualaríamos" ],
+			[ "igualaríais", "igualarían" ],
+			[ "igualarían" ]
+		],
+		"7" : [
+			[ "igualaré" ],
+			[ "igualarás" ],
+			[ "igualará" ],
+			[ "igualaremos" ],
+			[ "igualaréis", "igualarán" ],
+			[ "igualarán" ]
+		],
+		"8" : [
+			[ "iguale" ],
+			[ "iguales" ],
+			[ "iguale" ],
+			[ "igualemos" ],
+			[ "igualéis", "igualen" ],
+			[ "igualen" ]
+		],
+		"9" : [
+			[ "igualara" ],
+			[ "igualaras" ],
+			[ "igualara" ],
+			[ "igualáramos" ],
+			[ "igualarais", "igualaran" ],
+			[ "igualaran" ]
+		],
+		"10" : [
+			[ "igualase" ],
+			[ "igualases" ],
+			[ "igualase" ],
+			[ "igualásemos" ],
+			[ "igualaseis", "igualasen" ],
+			[ "igualasen" ]
+		],
+		"11" : [
+			[ "igualare" ],
+			[ "igualares" ],
+			[ "igualare" ],
+			[ "igualáremos" ],
+			[ "igualareis", "igualaren" ],
+			[ "igualaren" ]
+		],
+		"12" : {
+			"1" : [ "iguala" ],
+			"2" : [ "iguale" ],
+			"3" : [ "igualemos" ],
+			"4" : [ "igualad" ],
+			"5" : [ "igualen" ]
+		}
+	}
+}

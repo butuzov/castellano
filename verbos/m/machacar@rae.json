@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=machacar",
+	"word" : "machacar",
+	"infinitivo" : "machacar",
+	"participio" : [ "machacado" ],
+	"gerundio" : [ "machacando" ],
+	"tenses" : {
+		"3" : [
+			[ "machaco" ],
+			[ "machacas", "machacás" ],
+			[ "machaca" ],
+			[ "machacamos" ],
+			[ "machacáis", "machacan" ],
+			[ "machacan" ]
+		],
+		"4" : [
+			[ "machaqué" ],
+			[ "machacaste" ],
+			[ "machacó" ],
+			[ "machacamos" ],
+			[ "machacasteis", "machacaron" ],
+			[ "machacaron" ]
+		],
+		"5" : [
+			[ "machacaba" ],
+			[ "machacabas" ],
+			[ "machacaba" ],
+			[ "machacábamos" ],
+			[ "machacabais", "machacaban" ],
+			[ "machacaban" ]
+		],
+		"6" : [
+			[ "machacaría" ],
+			[ "machacarías" ],
+			[ "machacaría" ],
+			[ "machacaríamos" ],
+			[ "machacaríais", "machacarían" ],
+			[ "machacarían" ]
+		],
+		"7" : [
+			[ "machacaré" ],
+			[ "machacarás" ],
+			[ "machacará" ],
+			[ "machacaremos" ],
+			[ "machacaréis", "machacarán" ],
+			[ "machacarán" ]
+		],
+		"8" : [
+			[ "machaque" ],
+			[ "machaques" ],
+			[ "machaque" ],
+			[ "machaquemos" ],
+			[ "machaquéis", "machaquen" ],
+			[ "machaquen" ]
+		],
+		"9" : [
+			[ "machacara" ],
+			[ "machacaras" ],
+			[ "machacara" ],
+			[ "machacáramos" ],
+			[ "machacarais", "machacaran" ],
+			[ "machacaran" ]
+		],
+		"10" : [
+			[ "machacase" ],
+			[ "machacases" ],
+			[ "machacase" ],
+			[ "machacásemos" ],
+			[ "machacaseis", "machacasen" ],
+			[ "machacasen" ]
+		],
+		"11" : [
+			[ "machacare" ],
+			[ "machacares" ],
+			[ "machacare" ],
+			[ "machacáremos" ],
+			[ "machacareis", "machacaren" ],
+			[ "machacaren" ]
+		],
+		"12" : {
+			"1" : [ "machaca" ],
+			"2" : [ "machaque" ],
+			"3" : [ "machaquemos" ],
+			"4" : [ "machacad" ],
+			"5" : [ "machaquen" ]
+		}
+	}
+}

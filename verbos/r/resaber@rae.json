@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resaber",
+	"word" : "resaber",
+	"infinitivo" : "resaber",
+	"participio" : [ "resabido" ],
+	"gerundio" : [ "resabiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "resé" ],
+			[ "resabes", "resabés" ],
+			[ "resabe" ],
+			[ "resabemos" ],
+			[ "resabéis", "resaben" ],
+			[ "resaben" ]
+		],
+		"4" : [
+			[ "resupe" ],
+			[ "resupiste" ],
+			[ "resupo" ],
+			[ "resupimos" ],
+			[ "resupisteis", "resupieron" ],
+			[ "resupieron" ]
+		],
+		"5" : [
+			[ "resabía" ],
+			[ "resabías" ],
+			[ "resabía" ],
+			[ "resabíamos" ],
+			[ "resabíais", "resabían" ],
+			[ "resabían" ]
+		],
+		"6" : [
+			[ "resabría" ],
+			[ "resabrías" ],
+			[ "resabría" ],
+			[ "resabríamos" ],
+			[ "resabríais", "resabrían" ],
+			[ "resabrían" ]
+		],
+		"7" : [
+			[ "resabré" ],
+			[ "resabrás" ],
+			[ "resabrá" ],
+			[ "resabremos" ],
+			[ "resabréis", "resabrán" ],
+			[ "resabrán" ]
+		],
+		"8" : [
+			[ "resepa" ],
+			[ "resepas" ],
+			[ "resepa" ],
+			[ "resepamos" ],
+			[ "resepáis", "resepan" ],
+			[ "resepan" ]
+		],
+		"9" : [
+			[ "resupiera" ],
+			[ "resupieras" ],
+			[ "resupiera" ],
+			[ "resupiéramos" ],
+			[ "resupierais", "resupieran" ],
+			[ "resupieran" ]
+		],
+		"10" : [
+			[ "resupiese" ],
+			[ "resupieses" ],
+			[ "resupiese" ],
+			[ "resupiésemos" ],
+			[ "resupieseis", "resupiesen" ],
+			[ "resupiesen" ]
+		],
+		"11" : [
+			[ "resupiere" ],
+			[ "resupieres" ],
+			[ "resupiere" ],
+			[ "resupiéremos" ],
+			[ "resupiereis", "resupieren" ],
+			[ "resupieren" ]
+		],
+		"12" : {
+			"1" : [ "resabe" ],
+			"2" : [ "resepa" ],
+			"3" : [ "resepamos" ],
+			"4" : [ "resabed" ],
+			"5" : [ "resepan" ]
+		}
+	}
+}

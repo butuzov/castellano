@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tomar",
+	"word" : "tomar",
+	"infinitivo" : "tomar",
+	"participio" : [ "tomado" ],
+	"gerundio" : [ "tomando" ],
+	"tenses" : {
+		"3" : [
+			[ "tomo" ],
+			[ "tomas", "tomás" ],
+			[ "toma" ],
+			[ "tomamos" ],
+			[ "tomáis", "toman" ],
+			[ "toman" ]
+		],
+		"4" : [
+			[ "tomé" ],
+			[ "tomaste" ],
+			[ "tomó" ],
+			[ "tomamos" ],
+			[ "tomasteis", "tomaron" ],
+			[ "tomaron" ]
+		],
+		"5" : [
+			[ "tomaba" ],
+			[ "tomabas" ],
+			[ "tomaba" ],
+			[ "tomábamos" ],
+			[ "tomabais", "tomaban" ],
+			[ "tomaban" ]
+		],
+		"6" : [
+			[ "tomaría" ],
+			[ "tomarías" ],
+			[ "tomaría" ],
+			[ "tomaríamos" ],
+			[ "tomaríais", "tomarían" ],
+			[ "tomarían" ]
+		],
+		"7" : [
+			[ "tomaré" ],
+			[ "tomarás" ],
+			[ "tomará" ],
+			[ "tomaremos" ],
+			[ "tomaréis", "tomarán" ],
+			[ "tomarán" ]
+		],
+		"8" : [
+			[ "tome" ],
+			[ "tomes" ],
+			[ "tome" ],
+			[ "tomemos" ],
+			[ "toméis", "tomen" ],
+			[ "tomen" ]
+		],
+		"9" : [
+			[ "tomara" ],
+			[ "tomaras" ],
+			[ "tomara" ],
+			[ "tomáramos" ],
+			[ "tomarais", "tomaran" ],
+			[ "tomaran" ]
+		],
+		"10" : [
+			[ "tomase" ],
+			[ "tomases" ],
+			[ "tomase" ],
+			[ "tomásemos" ],
+			[ "tomaseis", "tomasen" ],
+			[ "tomasen" ]
+		],
+		"11" : [
+			[ "tomare" ],
+			[ "tomares" ],
+			[ "tomare" ],
+			[ "tomáremos" ],
+			[ "tomareis", "tomaren" ],
+			[ "tomaren" ]
+		],
+		"12" : {
+			"1" : [ "toma" ],
+			"2" : [ "tome" ],
+			"3" : [ "tomemos" ],
+			"4" : [ "tomad" ],
+			"5" : [ "tomen" ]
+		}
+	}
+}

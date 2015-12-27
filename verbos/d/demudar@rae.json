@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=demudar",
+	"word" : "demudar",
+	"infinitivo" : "demudar",
+	"participio" : [ "demudado" ],
+	"gerundio" : [ "demudando" ],
+	"tenses" : {
+		"3" : [
+			[ "demudo" ],
+			[ "demudas", "demudás" ],
+			[ "demuda" ],
+			[ "demudamos" ],
+			[ "demudáis", "demudan" ],
+			[ "demudan" ]
+		],
+		"4" : [
+			[ "demudé" ],
+			[ "demudaste" ],
+			[ "demudó" ],
+			[ "demudamos" ],
+			[ "demudasteis", "demudaron" ],
+			[ "demudaron" ]
+		],
+		"5" : [
+			[ "demudaba" ],
+			[ "demudabas" ],
+			[ "demudaba" ],
+			[ "demudábamos" ],
+			[ "demudabais", "demudaban" ],
+			[ "demudaban" ]
+		],
+		"6" : [
+			[ "demudaría" ],
+			[ "demudarías" ],
+			[ "demudaría" ],
+			[ "demudaríamos" ],
+			[ "demudaríais", "demudarían" ],
+			[ "demudarían" ]
+		],
+		"7" : [
+			[ "demudaré" ],
+			[ "demudarás" ],
+			[ "demudará" ],
+			[ "demudaremos" ],
+			[ "demudaréis", "demudarán" ],
+			[ "demudarán" ]
+		],
+		"8" : [
+			[ "demude" ],
+			[ "demudes" ],
+			[ "demude" ],
+			[ "demudemos" ],
+			[ "demudéis", "demuden" ],
+			[ "demuden" ]
+		],
+		"9" : [
+			[ "demudara" ],
+			[ "demudaras" ],
+			[ "demudara" ],
+			[ "demudáramos" ],
+			[ "demudarais", "demudaran" ],
+			[ "demudaran" ]
+		],
+		"10" : [
+			[ "demudase" ],
+			[ "demudases" ],
+			[ "demudase" ],
+			[ "demudásemos" ],
+			[ "demudaseis", "demudasen" ],
+			[ "demudasen" ]
+		],
+		"11" : [
+			[ "demudare" ],
+			[ "demudares" ],
+			[ "demudare" ],
+			[ "demudáremos" ],
+			[ "demudareis", "demudaren" ],
+			[ "demudaren" ]
+		],
+		"12" : {
+			"1" : [ "demuda" ],
+			"2" : [ "demude" ],
+			"3" : [ "demudemos" ],
+			"4" : [ "demudad" ],
+			"5" : [ "demuden" ]
+		}
+	}
+}

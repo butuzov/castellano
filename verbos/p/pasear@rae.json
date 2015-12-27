@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pasear",
+	"word" : "pasear",
+	"infinitivo" : "pasear",
+	"participio" : [ "paseado" ],
+	"gerundio" : [ "paseando" ],
+	"tenses" : {
+		"3" : [
+			[ "paseo" ],
+			[ "paseas", "paseás" ],
+			[ "pasea" ],
+			[ "paseamos" ],
+			[ "paseáis", "pasean" ],
+			[ "pasean" ]
+		],
+		"4" : [
+			[ "paseé" ],
+			[ "paseaste" ],
+			[ "paseó" ],
+			[ "paseamos" ],
+			[ "paseasteis", "pasearon" ],
+			[ "pasearon" ]
+		],
+		"5" : [
+			[ "paseaba" ],
+			[ "paseabas" ],
+			[ "paseaba" ],
+			[ "paseábamos" ],
+			[ "paseabais", "paseaban" ],
+			[ "paseaban" ]
+		],
+		"6" : [
+			[ "pasearía" ],
+			[ "pasearías" ],
+			[ "pasearía" ],
+			[ "pasearíamos" ],
+			[ "pasearíais", "pasearían" ],
+			[ "pasearían" ]
+		],
+		"7" : [
+			[ "pasearé" ],
+			[ "pasearás" ],
+			[ "paseará" ],
+			[ "pasearemos" ],
+			[ "pasearéis", "pasearán" ],
+			[ "pasearán" ]
+		],
+		"8" : [
+			[ "pasee" ],
+			[ "pasees" ],
+			[ "pasee" ],
+			[ "paseemos" ],
+			[ "paseéis", "paseen" ],
+			[ "paseen" ]
+		],
+		"9" : [
+			[ "paseara" ],
+			[ "pasearas" ],
+			[ "paseara" ],
+			[ "paseáramos" ],
+			[ "pasearais", "pasearan" ],
+			[ "pasearan" ]
+		],
+		"10" : [
+			[ "pasease" ],
+			[ "paseases" ],
+			[ "pasease" ],
+			[ "paseásemos" ],
+			[ "paseaseis", "paseasen" ],
+			[ "paseasen" ]
+		],
+		"11" : [
+			[ "paseare" ],
+			[ "paseares" ],
+			[ "paseare" ],
+			[ "paseáremos" ],
+			[ "paseareis", "pasearen" ],
+			[ "pasearen" ]
+		],
+		"12" : {
+			"1" : [ "pasea" ],
+			"2" : [ "pasee" ],
+			"3" : [ "paseemos" ],
+			"4" : [ "pasead" ],
+			"5" : [ "paseen" ]
+		}
+	}
+}

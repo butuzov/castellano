@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=interpretar",
+	"word" : "interpretar",
+	"infinitivo" : "interpretar",
+	"participio" : [ "interpretado" ],
+	"gerundio" : [ "interpretando" ],
+	"tenses" : {
+		"3" : [
+			[ "interpreto" ],
+			[ "interpretas", "interpretás" ],
+			[ "interpreta" ],
+			[ "interpretamos" ],
+			[ "interpretáis", "interpretan" ],
+			[ "interpretan" ]
+		],
+		"4" : [
+			[ "interpreté" ],
+			[ "interpretaste" ],
+			[ "interpretó" ],
+			[ "interpretamos" ],
+			[ "interpretasteis", "interpretaron" ],
+			[ "interpretaron" ]
+		],
+		"5" : [
+			[ "interpretaba" ],
+			[ "interpretabas" ],
+			[ "interpretaba" ],
+			[ "interpretábamos" ],
+			[ "interpretabais", "interpretaban" ],
+			[ "interpretaban" ]
+		],
+		"6" : [
+			[ "interpretaría" ],
+			[ "interpretarías" ],
+			[ "interpretaría" ],
+			[ "interpretaríamos" ],
+			[ "interpretaríais", "interpretarían" ],
+			[ "interpretarían" ]
+		],
+		"7" : [
+			[ "interpretaré" ],
+			[ "interpretarás" ],
+			[ "interpretará" ],
+			[ "interpretaremos" ],
+			[ "interpretaréis", "interpretarán" ],
+			[ "interpretarán" ]
+		],
+		"8" : [
+			[ "interprete" ],
+			[ "interpretes" ],
+			[ "interprete" ],
+			[ "interpretemos" ],
+			[ "interpretéis", "interpreten" ],
+			[ "interpreten" ]
+		],
+		"9" : [
+			[ "interpretara" ],
+			[ "interpretaras" ],
+			[ "interpretara" ],
+			[ "interpretáramos" ],
+			[ "interpretarais", "interpretaran" ],
+			[ "interpretaran" ]
+		],
+		"10" : [
+			[ "interpretase" ],
+			[ "interpretases" ],
+			[ "interpretase" ],
+			[ "interpretásemos" ],
+			[ "interpretaseis", "interpretasen" ],
+			[ "interpretasen" ]
+		],
+		"11" : [
+			[ "interpretare" ],
+			[ "interpretares" ],
+			[ "interpretare" ],
+			[ "interpretáremos" ],
+			[ "interpretareis", "interpretaren" ],
+			[ "interpretaren" ]
+		],
+		"12" : {
+			"1" : [ "interpreta" ],
+			"2" : [ "interprete" ],
+			"3" : [ "interpretemos" ],
+			"4" : [ "interpretad" ],
+			"5" : [ "interpreten" ]
+		}
+	}
+}

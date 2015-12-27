@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=perorar",
+	"word" : "perorar",
+	"infinitivo" : "perorar",
+	"participio" : [ "perorado" ],
+	"gerundio" : [ "perorando" ],
+	"tenses" : {
+		"3" : [
+			[ "peroro" ],
+			[ "peroras", "perorás" ],
+			[ "perora" ],
+			[ "peroramos" ],
+			[ "peroráis", "peroran" ],
+			[ "peroran" ]
+		],
+		"4" : [
+			[ "peroré" ],
+			[ "peroraste" ],
+			[ "peroró" ],
+			[ "peroramos" ],
+			[ "perorasteis", "peroraron" ],
+			[ "peroraron" ]
+		],
+		"5" : [
+			[ "peroraba" ],
+			[ "perorabas" ],
+			[ "peroraba" ],
+			[ "perorábamos" ],
+			[ "perorabais", "peroraban" ],
+			[ "peroraban" ]
+		],
+		"6" : [
+			[ "peroraría" ],
+			[ "perorarías" ],
+			[ "peroraría" ],
+			[ "peroraríamos" ],
+			[ "peroraríais", "perorarían" ],
+			[ "perorarían" ]
+		],
+		"7" : [
+			[ "peroraré" ],
+			[ "perorarás" ],
+			[ "perorará" ],
+			[ "peroraremos" ],
+			[ "peroraréis", "perorarán" ],
+			[ "perorarán" ]
+		],
+		"8" : [
+			[ "perore" ],
+			[ "perores" ],
+			[ "perore" ],
+			[ "peroremos" ],
+			[ "peroréis", "peroren" ],
+			[ "peroren" ]
+		],
+		"9" : [
+			[ "perorara" ],
+			[ "peroraras" ],
+			[ "perorara" ],
+			[ "peroráramos" ],
+			[ "perorarais", "peroraran" ],
+			[ "peroraran" ]
+		],
+		"10" : [
+			[ "perorase" ],
+			[ "perorases" ],
+			[ "perorase" ],
+			[ "perorásemos" ],
+			[ "peroraseis", "perorasen" ],
+			[ "perorasen" ]
+		],
+		"11" : [
+			[ "perorare" ],
+			[ "perorares" ],
+			[ "perorare" ],
+			[ "peroráremos" ],
+			[ "perorareis", "peroraren" ],
+			[ "peroraren" ]
+		],
+		"12" : {
+			"1" : [ "perora" ],
+			"2" : [ "perore" ],
+			"3" : [ "peroremos" ],
+			"4" : [ "perorad" ],
+			"5" : [ "peroren" ]
+		}
+	}
+}

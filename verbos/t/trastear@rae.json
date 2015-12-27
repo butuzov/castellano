@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trastear",
+	"word" : "trastear",
+	"infinitivo" : "trastear",
+	"participio" : [ "trasteado" ],
+	"gerundio" : [ "trasteando" ],
+	"tenses" : {
+		"3" : [
+			[ "trasteo" ],
+			[ "trasteas", "trasteás" ],
+			[ "trastea" ],
+			[ "trasteamos" ],
+			[ "trasteáis", "trastean" ],
+			[ "trastean" ]
+		],
+		"4" : [
+			[ "trasteé" ],
+			[ "trasteaste" ],
+			[ "trasteó" ],
+			[ "trasteamos" ],
+			[ "trasteasteis", "trastearon" ],
+			[ "trastearon" ]
+		],
+		"5" : [
+			[ "trasteaba" ],
+			[ "trasteabas" ],
+			[ "trasteaba" ],
+			[ "trasteábamos" ],
+			[ "trasteabais", "trasteaban" ],
+			[ "trasteaban" ]
+		],
+		"6" : [
+			[ "trastearía" ],
+			[ "trastearías" ],
+			[ "trastearía" ],
+			[ "trastearíamos" ],
+			[ "trastearíais", "trastearían" ],
+			[ "trastearían" ]
+		],
+		"7" : [
+			[ "trastearé" ],
+			[ "trastearás" ],
+			[ "trasteará" ],
+			[ "trastearemos" ],
+			[ "trastearéis", "trastearán" ],
+			[ "trastearán" ]
+		],
+		"8" : [
+			[ "trastee" ],
+			[ "trastees" ],
+			[ "trastee" ],
+			[ "trasteemos" ],
+			[ "trasteéis", "trasteen" ],
+			[ "trasteen" ]
+		],
+		"9" : [
+			[ "trasteara" ],
+			[ "trastearas" ],
+			[ "trasteara" ],
+			[ "trasteáramos" ],
+			[ "trastearais", "trastearan" ],
+			[ "trastearan" ]
+		],
+		"10" : [
+			[ "trastease" ],
+			[ "trasteases" ],
+			[ "trastease" ],
+			[ "trasteásemos" ],
+			[ "trasteaseis", "trasteasen" ],
+			[ "trasteasen" ]
+		],
+		"11" : [
+			[ "trasteare" ],
+			[ "trasteares" ],
+			[ "trasteare" ],
+			[ "trasteáremos" ],
+			[ "trasteareis", "trastearen" ],
+			[ "trastearen" ]
+		],
+		"12" : {
+			"1" : [ "trastea" ],
+			"2" : [ "trastee" ],
+			"3" : [ "trasteemos" ],
+			"4" : [ "trastead" ],
+			"5" : [ "trasteen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=corrugar",
+	"word" : "corrugar",
+	"infinitivo" : "corrugar",
+	"participio" : [ "corrugado" ],
+	"gerundio" : [ "corrugando" ],
+	"tenses" : {
+		"3" : [
+			[ "corrugo" ],
+			[ "corrugas", "corrugás" ],
+			[ "corruga" ],
+			[ "corrugamos" ],
+			[ "corrugáis", "corrugan" ],
+			[ "corrugan" ]
+		],
+		"4" : [
+			[ "corrugué" ],
+			[ "corrugaste" ],
+			[ "corrugó" ],
+			[ "corrugamos" ],
+			[ "corrugasteis", "corrugaron" ],
+			[ "corrugaron" ]
+		],
+		"5" : [
+			[ "corrugaba" ],
+			[ "corrugabas" ],
+			[ "corrugaba" ],
+			[ "corrugábamos" ],
+			[ "corrugabais", "corrugaban" ],
+			[ "corrugaban" ]
+		],
+		"6" : [
+			[ "corrugaría" ],
+			[ "corrugarías" ],
+			[ "corrugaría" ],
+			[ "corrugaríamos" ],
+			[ "corrugaríais", "corrugarían" ],
+			[ "corrugarían" ]
+		],
+		"7" : [
+			[ "corrugaré" ],
+			[ "corrugarás" ],
+			[ "corrugará" ],
+			[ "corrugaremos" ],
+			[ "corrugaréis", "corrugarán" ],
+			[ "corrugarán" ]
+		],
+		"8" : [
+			[ "corrugue" ],
+			[ "corrugues" ],
+			[ "corrugue" ],
+			[ "corruguemos" ],
+			[ "corruguéis", "corruguen" ],
+			[ "corruguen" ]
+		],
+		"9" : [
+			[ "corrugara" ],
+			[ "corrugaras" ],
+			[ "corrugara" ],
+			[ "corrugáramos" ],
+			[ "corrugarais", "corrugaran" ],
+			[ "corrugaran" ]
+		],
+		"10" : [
+			[ "corrugase" ],
+			[ "corrugases" ],
+			[ "corrugase" ],
+			[ "corrugásemos" ],
+			[ "corrugaseis", "corrugasen" ],
+			[ "corrugasen" ]
+		],
+		"11" : [
+			[ "corrugare" ],
+			[ "corrugares" ],
+			[ "corrugare" ],
+			[ "corrugáremos" ],
+			[ "corrugareis", "corrugaren" ],
+			[ "corrugaren" ]
+		],
+		"12" : {
+			"1" : [ "corruga" ],
+			"2" : [ "corrugue" ],
+			"3" : [ "corruguemos" ],
+			"4" : [ "corrugad" ],
+			"5" : [ "corruguen" ]
+		}
+	}
+}

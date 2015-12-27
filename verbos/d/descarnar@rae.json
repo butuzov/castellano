@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descarnar",
+	"word" : "descarnar",
+	"infinitivo" : "descarnar",
+	"participio" : [ "descarnado" ],
+	"gerundio" : [ "descarnando" ],
+	"tenses" : {
+		"3" : [
+			[ "descarno" ],
+			[ "descarnas", "descarnás" ],
+			[ "descarna" ],
+			[ "descarnamos" ],
+			[ "descarnáis", "descarnan" ],
+			[ "descarnan" ]
+		],
+		"4" : [
+			[ "descarné" ],
+			[ "descarnaste" ],
+			[ "descarnó" ],
+			[ "descarnamos" ],
+			[ "descarnasteis", "descarnaron" ],
+			[ "descarnaron" ]
+		],
+		"5" : [
+			[ "descarnaba" ],
+			[ "descarnabas" ],
+			[ "descarnaba" ],
+			[ "descarnábamos" ],
+			[ "descarnabais", "descarnaban" ],
+			[ "descarnaban" ]
+		],
+		"6" : [
+			[ "descarnaría" ],
+			[ "descarnarías" ],
+			[ "descarnaría" ],
+			[ "descarnaríamos" ],
+			[ "descarnaríais", "descarnarían" ],
+			[ "descarnarían" ]
+		],
+		"7" : [
+			[ "descarnaré" ],
+			[ "descarnarás" ],
+			[ "descarnará" ],
+			[ "descarnaremos" ],
+			[ "descarnaréis", "descarnarán" ],
+			[ "descarnarán" ]
+		],
+		"8" : [
+			[ "descarne" ],
+			[ "descarnes" ],
+			[ "descarne" ],
+			[ "descarnemos" ],
+			[ "descarnéis", "descarnen" ],
+			[ "descarnen" ]
+		],
+		"9" : [
+			[ "descarnara" ],
+			[ "descarnaras" ],
+			[ "descarnara" ],
+			[ "descarnáramos" ],
+			[ "descarnarais", "descarnaran" ],
+			[ "descarnaran" ]
+		],
+		"10" : [
+			[ "descarnase" ],
+			[ "descarnases" ],
+			[ "descarnase" ],
+			[ "descarnásemos" ],
+			[ "descarnaseis", "descarnasen" ],
+			[ "descarnasen" ]
+		],
+		"11" : [
+			[ "descarnare" ],
+			[ "descarnares" ],
+			[ "descarnare" ],
+			[ "descarnáremos" ],
+			[ "descarnareis", "descarnaren" ],
+			[ "descarnaren" ]
+		],
+		"12" : {
+			"1" : [ "descarna" ],
+			"2" : [ "descarne" ],
+			"3" : [ "descarnemos" ],
+			"4" : [ "descarnad" ],
+			"5" : [ "descarnen" ]
+		}
+	}
+}

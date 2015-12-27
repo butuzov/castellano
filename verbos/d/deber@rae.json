@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deber",
+	"word" : "deber",
+	"infinitivo" : "deber",
+	"participio" : [ "debido" ],
+	"gerundio" : [ "debiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "debo" ],
+			[ "debes", "debés" ],
+			[ "debe" ],
+			[ "debemos" ],
+			[ "debéis", "deben" ],
+			[ "deben" ]
+		],
+		"4" : [
+			[ "debí" ],
+			[ "debiste" ],
+			[ "debió" ],
+			[ "debimos" ],
+			[ "debisteis", "debieron" ],
+			[ "debieron" ]
+		],
+		"5" : [
+			[ "debía" ],
+			[ "debías" ],
+			[ "debía" ],
+			[ "debíamos" ],
+			[ "debíais", "debían" ],
+			[ "debían" ]
+		],
+		"6" : [
+			[ "debería" ],
+			[ "deberías" ],
+			[ "debería" ],
+			[ "deberíamos" ],
+			[ "deberíais", "deberían" ],
+			[ "deberían" ]
+		],
+		"7" : [
+			[ "deberé" ],
+			[ "deberás" ],
+			[ "deberá" ],
+			[ "deberemos" ],
+			[ "deberéis", "deberán" ],
+			[ "deberán" ]
+		],
+		"8" : [
+			[ "deba" ],
+			[ "debas" ],
+			[ "deba" ],
+			[ "debamos" ],
+			[ "debáis", "deban" ],
+			[ "deban" ]
+		],
+		"9" : [
+			[ "debiera" ],
+			[ "debieras" ],
+			[ "debiera" ],
+			[ "debiéramos" ],
+			[ "debierais", "debieran" ],
+			[ "debieran" ]
+		],
+		"10" : [
+			[ "debiese" ],
+			[ "debieses" ],
+			[ "debiese" ],
+			[ "debiésemos" ],
+			[ "debieseis", "debiesen" ],
+			[ "debiesen" ]
+		],
+		"11" : [
+			[ "debiere" ],
+			[ "debieres" ],
+			[ "debiere" ],
+			[ "debiéremos" ],
+			[ "debiereis", "debieren" ],
+			[ "debieren" ]
+		],
+		"12" : {
+			"1" : [ "debe" ],
+			"2" : [ "deba" ],
+			"3" : [ "debamos" ],
+			"4" : [ "debed" ],
+			"5" : [ "deban" ]
+		}
+	}
+}

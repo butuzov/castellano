@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=refundir",
+	"word" : "refundir",
+	"infinitivo" : "refundir",
+	"participio" : [ "refundido" ],
+	"gerundio" : [ "refundiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "refundo" ],
+			[ "refundes", "refundís" ],
+			[ "refunde" ],
+			[ "refundimos" ],
+			[ "refundís", "refunden" ],
+			[ "refunden" ]
+		],
+		"4" : [
+			[ "refundí" ],
+			[ "refundiste" ],
+			[ "refundió" ],
+			[ "refundimos" ],
+			[ "refundisteis", "refundieron" ],
+			[ "refundieron" ]
+		],
+		"5" : [
+			[ "refundía" ],
+			[ "refundías" ],
+			[ "refundía" ],
+			[ "refundíamos" ],
+			[ "refundíais", "refundían" ],
+			[ "refundían" ]
+		],
+		"6" : [
+			[ "refundiría" ],
+			[ "refundirías" ],
+			[ "refundiría" ],
+			[ "refundiríamos" ],
+			[ "refundiríais", "refundirían" ],
+			[ "refundirían" ]
+		],
+		"7" : [
+			[ "refundiré" ],
+			[ "refundirás" ],
+			[ "refundirá" ],
+			[ "refundiremos" ],
+			[ "refundiréis", "refundirán" ],
+			[ "refundirán" ]
+		],
+		"8" : [
+			[ "refunda" ],
+			[ "refundas" ],
+			[ "refunda" ],
+			[ "refundamos" ],
+			[ "refundáis", "refundan" ],
+			[ "refundan" ]
+		],
+		"9" : [
+			[ "refundiera" ],
+			[ "refundieras" ],
+			[ "refundiera" ],
+			[ "refundiéramos" ],
+			[ "refundierais", "refundieran" ],
+			[ "refundieran" ]
+		],
+		"10" : [
+			[ "refundiese" ],
+			[ "refundieses" ],
+			[ "refundiese" ],
+			[ "refundiésemos" ],
+			[ "refundieseis", "refundiesen" ],
+			[ "refundiesen" ]
+		],
+		"11" : [
+			[ "refundiere" ],
+			[ "refundieres" ],
+			[ "refundiere" ],
+			[ "refundiéremos" ],
+			[ "refundiereis", "refundieren" ],
+			[ "refundieren" ]
+		],
+		"12" : {
+			"1" : [ "refunde" ],
+			"2" : [ "refunda" ],
+			"3" : [ "refundamos" ],
+			"4" : [ "refundid" ],
+			"5" : [ "refundan" ]
+		}
+	}
+}

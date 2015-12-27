@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=librar",
+	"word" : "librar",
+	"infinitivo" : "librar",
+	"participio" : [ "librado" ],
+	"gerundio" : [ "librando" ],
+	"tenses" : {
+		"3" : [
+			[ "libro" ],
+			[ "libras", "librás" ],
+			[ "libra" ],
+			[ "libramos" ],
+			[ "libráis", "libran" ],
+			[ "libran" ]
+		],
+		"4" : [
+			[ "libré" ],
+			[ "libraste" ],
+			[ "libró" ],
+			[ "libramos" ],
+			[ "librasteis", "libraron" ],
+			[ "libraron" ]
+		],
+		"5" : [
+			[ "libraba" ],
+			[ "librabas" ],
+			[ "libraba" ],
+			[ "librábamos" ],
+			[ "librabais", "libraban" ],
+			[ "libraban" ]
+		],
+		"6" : [
+			[ "libraría" ],
+			[ "librarías" ],
+			[ "libraría" ],
+			[ "libraríamos" ],
+			[ "libraríais", "librarían" ],
+			[ "librarían" ]
+		],
+		"7" : [
+			[ "libraré" ],
+			[ "librarás" ],
+			[ "librará" ],
+			[ "libraremos" ],
+			[ "libraréis", "librarán" ],
+			[ "librarán" ]
+		],
+		"8" : [
+			[ "libre" ],
+			[ "libres" ],
+			[ "libre" ],
+			[ "libremos" ],
+			[ "libréis", "libren" ],
+			[ "libren" ]
+		],
+		"9" : [
+			[ "librara" ],
+			[ "libraras" ],
+			[ "librara" ],
+			[ "libráramos" ],
+			[ "librarais", "libraran" ],
+			[ "libraran" ]
+		],
+		"10" : [
+			[ "librase" ],
+			[ "librases" ],
+			[ "librase" ],
+			[ "librásemos" ],
+			[ "libraseis", "librasen" ],
+			[ "librasen" ]
+		],
+		"11" : [
+			[ "librare" ],
+			[ "librares" ],
+			[ "librare" ],
+			[ "libráremos" ],
+			[ "librareis", "libraren" ],
+			[ "libraren" ]
+		],
+		"12" : {
+			"1" : [ "libra" ],
+			"2" : [ "libre" ],
+			"3" : [ "libremos" ],
+			"4" : [ "librad" ],
+			"5" : [ "libren" ]
+		}
+	}
+}

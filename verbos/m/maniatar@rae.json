@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=maniatar",
+	"word" : "maniatar",
+	"infinitivo" : "maniatar",
+	"participio" : [ "maniatado" ],
+	"gerundio" : [ "maniatando" ],
+	"tenses" : {
+		"3" : [
+			[ "maniato" ],
+			[ "maniatas", "maniatás" ],
+			[ "maniata" ],
+			[ "maniatamos" ],
+			[ "maniatáis", "maniatan" ],
+			[ "maniatan" ]
+		],
+		"4" : [
+			[ "maniaté" ],
+			[ "maniataste" ],
+			[ "maniató" ],
+			[ "maniatamos" ],
+			[ "maniatasteis", "maniataron" ],
+			[ "maniataron" ]
+		],
+		"5" : [
+			[ "maniataba" ],
+			[ "maniatabas" ],
+			[ "maniataba" ],
+			[ "maniatábamos" ],
+			[ "maniatabais", "maniataban" ],
+			[ "maniataban" ]
+		],
+		"6" : [
+			[ "maniataría" ],
+			[ "maniatarías" ],
+			[ "maniataría" ],
+			[ "maniataríamos" ],
+			[ "maniataríais", "maniatarían" ],
+			[ "maniatarían" ]
+		],
+		"7" : [
+			[ "maniataré" ],
+			[ "maniatarás" ],
+			[ "maniatará" ],
+			[ "maniataremos" ],
+			[ "maniataréis", "maniatarán" ],
+			[ "maniatarán" ]
+		],
+		"8" : [
+			[ "maniate" ],
+			[ "maniates" ],
+			[ "maniate" ],
+			[ "maniatemos" ],
+			[ "maniatéis", "maniaten" ],
+			[ "maniaten" ]
+		],
+		"9" : [
+			[ "maniatara" ],
+			[ "maniataras" ],
+			[ "maniatara" ],
+			[ "maniatáramos" ],
+			[ "maniatarais", "maniataran" ],
+			[ "maniataran" ]
+		],
+		"10" : [
+			[ "maniatase" ],
+			[ "maniatases" ],
+			[ "maniatase" ],
+			[ "maniatásemos" ],
+			[ "maniataseis", "maniatasen" ],
+			[ "maniatasen" ]
+		],
+		"11" : [
+			[ "maniatare" ],
+			[ "maniatares" ],
+			[ "maniatare" ],
+			[ "maniatáremos" ],
+			[ "maniatareis", "maniataren" ],
+			[ "maniataren" ]
+		],
+		"12" : {
+			"1" : [ "maniata" ],
+			"2" : [ "maniate" ],
+			"3" : [ "maniatemos" ],
+			"4" : [ "maniatad" ],
+			"5" : [ "maniaten" ]
+		}
+	}
+}

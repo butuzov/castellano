@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=galantear",
+	"word" : "galantear",
+	"infinitivo" : "galantear",
+	"participio" : [ "galanteado" ],
+	"gerundio" : [ "galanteando" ],
+	"tenses" : {
+		"3" : [
+			[ "galanteo" ],
+			[ "galanteas", "galanteás" ],
+			[ "galantea" ],
+			[ "galanteamos" ],
+			[ "galanteáis", "galantean" ],
+			[ "galantean" ]
+		],
+		"4" : [
+			[ "galanteé" ],
+			[ "galanteaste" ],
+			[ "galanteó" ],
+			[ "galanteamos" ],
+			[ "galanteasteis", "galantearon" ],
+			[ "galantearon" ]
+		],
+		"5" : [
+			[ "galanteaba" ],
+			[ "galanteabas" ],
+			[ "galanteaba" ],
+			[ "galanteábamos" ],
+			[ "galanteabais", "galanteaban" ],
+			[ "galanteaban" ]
+		],
+		"6" : [
+			[ "galantearía" ],
+			[ "galantearías" ],
+			[ "galantearía" ],
+			[ "galantearíamos" ],
+			[ "galantearíais", "galantearían" ],
+			[ "galantearían" ]
+		],
+		"7" : [
+			[ "galantearé" ],
+			[ "galantearás" ],
+			[ "galanteará" ],
+			[ "galantearemos" ],
+			[ "galantearéis", "galantearán" ],
+			[ "galantearán" ]
+		],
+		"8" : [
+			[ "galantee" ],
+			[ "galantees" ],
+			[ "galantee" ],
+			[ "galanteemos" ],
+			[ "galanteéis", "galanteen" ],
+			[ "galanteen" ]
+		],
+		"9" : [
+			[ "galanteara" ],
+			[ "galantearas" ],
+			[ "galanteara" ],
+			[ "galanteáramos" ],
+			[ "galantearais", "galantearan" ],
+			[ "galantearan" ]
+		],
+		"10" : [
+			[ "galantease" ],
+			[ "galanteases" ],
+			[ "galantease" ],
+			[ "galanteásemos" ],
+			[ "galanteaseis", "galanteasen" ],
+			[ "galanteasen" ]
+		],
+		"11" : [
+			[ "galanteare" ],
+			[ "galanteares" ],
+			[ "galanteare" ],
+			[ "galanteáremos" ],
+			[ "galanteareis", "galantearen" ],
+			[ "galantearen" ]
+		],
+		"12" : {
+			"1" : [ "galantea" ],
+			"2" : [ "galantee" ],
+			"3" : [ "galanteemos" ],
+			"4" : [ "galantead" ],
+			"5" : [ "galanteen" ]
+		}
+	}
+}

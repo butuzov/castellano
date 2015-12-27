@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=oxidar",
+	"word" : "oxidar",
+	"infinitivo" : "oxidar",
+	"participio" : [ "oxidado" ],
+	"gerundio" : [ "oxidando" ],
+	"tenses" : {
+		"3" : [
+			[ "oxido" ],
+			[ "oxidas", "oxidás" ],
+			[ "oxida" ],
+			[ "oxidamos" ],
+			[ "oxidáis", "oxidan" ],
+			[ "oxidan" ]
+		],
+		"4" : [
+			[ "oxidé" ],
+			[ "oxidaste" ],
+			[ "oxidó" ],
+			[ "oxidamos" ],
+			[ "oxidasteis", "oxidaron" ],
+			[ "oxidaron" ]
+		],
+		"5" : [
+			[ "oxidaba" ],
+			[ "oxidabas" ],
+			[ "oxidaba" ],
+			[ "oxidábamos" ],
+			[ "oxidabais", "oxidaban" ],
+			[ "oxidaban" ]
+		],
+		"6" : [
+			[ "oxidaría" ],
+			[ "oxidarías" ],
+			[ "oxidaría" ],
+			[ "oxidaríamos" ],
+			[ "oxidaríais", "oxidarían" ],
+			[ "oxidarían" ]
+		],
+		"7" : [
+			[ "oxidaré" ],
+			[ "oxidarás" ],
+			[ "oxidará" ],
+			[ "oxidaremos" ],
+			[ "oxidaréis", "oxidarán" ],
+			[ "oxidarán" ]
+		],
+		"8" : [
+			[ "oxide" ],
+			[ "oxides" ],
+			[ "oxide" ],
+			[ "oxidemos" ],
+			[ "oxidéis", "oxiden" ],
+			[ "oxiden" ]
+		],
+		"9" : [
+			[ "oxidara" ],
+			[ "oxidaras" ],
+			[ "oxidara" ],
+			[ "oxidáramos" ],
+			[ "oxidarais", "oxidaran" ],
+			[ "oxidaran" ]
+		],
+		"10" : [
+			[ "oxidase" ],
+			[ "oxidases" ],
+			[ "oxidase" ],
+			[ "oxidásemos" ],
+			[ "oxidaseis", "oxidasen" ],
+			[ "oxidasen" ]
+		],
+		"11" : [
+			[ "oxidare" ],
+			[ "oxidares" ],
+			[ "oxidare" ],
+			[ "oxidáremos" ],
+			[ "oxidareis", "oxidaren" ],
+			[ "oxidaren" ]
+		],
+		"12" : {
+			"1" : [ "oxida" ],
+			"2" : [ "oxide" ],
+			"3" : [ "oxidemos" ],
+			"4" : [ "oxidad" ],
+			"5" : [ "oxiden" ]
+		}
+	}
+}

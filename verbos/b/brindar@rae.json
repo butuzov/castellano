@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=brindar",
+	"word" : "brindar",
+	"infinitivo" : "brindar",
+	"participio" : [ "brindado" ],
+	"gerundio" : [ "brindando" ],
+	"tenses" : {
+		"3" : [
+			[ "brindo" ],
+			[ "brindas", "brindás" ],
+			[ "brinda" ],
+			[ "brindamos" ],
+			[ "brindáis", "brindan" ],
+			[ "brindan" ]
+		],
+		"4" : [
+			[ "brindé" ],
+			[ "brindaste" ],
+			[ "brindó" ],
+			[ "brindamos" ],
+			[ "brindasteis", "brindaron" ],
+			[ "brindaron" ]
+		],
+		"5" : [
+			[ "brindaba" ],
+			[ "brindabas" ],
+			[ "brindaba" ],
+			[ "brindábamos" ],
+			[ "brindabais", "brindaban" ],
+			[ "brindaban" ]
+		],
+		"6" : [
+			[ "brindaría" ],
+			[ "brindarías" ],
+			[ "brindaría" ],
+			[ "brindaríamos" ],
+			[ "brindaríais", "brindarían" ],
+			[ "brindarían" ]
+		],
+		"7" : [
+			[ "brindaré" ],
+			[ "brindarás" ],
+			[ "brindará" ],
+			[ "brindaremos" ],
+			[ "brindaréis", "brindarán" ],
+			[ "brindarán" ]
+		],
+		"8" : [
+			[ "brinde" ],
+			[ "brindes" ],
+			[ "brinde" ],
+			[ "brindemos" ],
+			[ "brindéis", "brinden" ],
+			[ "brinden" ]
+		],
+		"9" : [
+			[ "brindara" ],
+			[ "brindaras" ],
+			[ "brindara" ],
+			[ "brindáramos" ],
+			[ "brindarais", "brindaran" ],
+			[ "brindaran" ]
+		],
+		"10" : [
+			[ "brindase" ],
+			[ "brindases" ],
+			[ "brindase" ],
+			[ "brindásemos" ],
+			[ "brindaseis", "brindasen" ],
+			[ "brindasen" ]
+		],
+		"11" : [
+			[ "brindare" ],
+			[ "brindares" ],
+			[ "brindare" ],
+			[ "brindáremos" ],
+			[ "brindareis", "brindaren" ],
+			[ "brindaren" ]
+		],
+		"12" : {
+			"1" : [ "brinda" ],
+			"2" : [ "brinde" ],
+			"3" : [ "brindemos" ],
+			"4" : [ "brindad" ],
+			"5" : [ "brinden" ]
+		}
+	}
+}

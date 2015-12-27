@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agachar",
+	"word" : "agachar",
+	"infinitivo" : "agachar",
+	"participio" : [ "agachado" ],
+	"gerundio" : [ "agachando" ],
+	"tenses" : {
+		"3" : [
+			[ "agacho" ],
+			[ "agachas", "agachás" ],
+			[ "agacha" ],
+			[ "agachamos" ],
+			[ "agacháis", "agachan" ],
+			[ "agachan" ]
+		],
+		"4" : [
+			[ "agaché" ],
+			[ "agachaste" ],
+			[ "agachó" ],
+			[ "agachamos" ],
+			[ "agachasteis", "agacharon" ],
+			[ "agacharon" ]
+		],
+		"5" : [
+			[ "agachaba" ],
+			[ "agachabas" ],
+			[ "agachaba" ],
+			[ "agachábamos" ],
+			[ "agachabais", "agachaban" ],
+			[ "agachaban" ]
+		],
+		"6" : [
+			[ "agacharía" ],
+			[ "agacharías" ],
+			[ "agacharía" ],
+			[ "agacharíamos" ],
+			[ "agacharíais", "agacharían" ],
+			[ "agacharían" ]
+		],
+		"7" : [
+			[ "agacharé" ],
+			[ "agacharás" ],
+			[ "agachará" ],
+			[ "agacharemos" ],
+			[ "agacharéis", "agacharán" ],
+			[ "agacharán" ]
+		],
+		"8" : [
+			[ "agache" ],
+			[ "agaches" ],
+			[ "agache" ],
+			[ "agachemos" ],
+			[ "agachéis", "agachen" ],
+			[ "agachen" ]
+		],
+		"9" : [
+			[ "agachara" ],
+			[ "agacharas" ],
+			[ "agachara" ],
+			[ "agacháramos" ],
+			[ "agacharais", "agacharan" ],
+			[ "agacharan" ]
+		],
+		"10" : [
+			[ "agachase" ],
+			[ "agachases" ],
+			[ "agachase" ],
+			[ "agachásemos" ],
+			[ "agachaseis", "agachasen" ],
+			[ "agachasen" ]
+		],
+		"11" : [
+			[ "agachare" ],
+			[ "agachares" ],
+			[ "agachare" ],
+			[ "agacháremos" ],
+			[ "agachareis", "agacharen" ],
+			[ "agacharen" ]
+		],
+		"12" : {
+			"1" : [ "agacha" ],
+			"2" : [ "agache" ],
+			"3" : [ "agachemos" ],
+			"4" : [ "agachad" ],
+			"5" : [ "agachen" ]
+		}
+	}
+}

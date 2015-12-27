@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pinchar",
+	"word" : "pinchar",
+	"infinitivo" : "pinchar",
+	"participio" : [ "pinchado" ],
+	"gerundio" : [ "pinchando" ],
+	"tenses" : {
+		"3" : [
+			[ "pincho" ],
+			[ "pinchas", "pinchás" ],
+			[ "pincha" ],
+			[ "pinchamos" ],
+			[ "pincháis", "pinchan" ],
+			[ "pinchan" ]
+		],
+		"4" : [
+			[ "pinché" ],
+			[ "pinchaste" ],
+			[ "pinchó" ],
+			[ "pinchamos" ],
+			[ "pinchasteis", "pincharon" ],
+			[ "pincharon" ]
+		],
+		"5" : [
+			[ "pinchaba" ],
+			[ "pinchabas" ],
+			[ "pinchaba" ],
+			[ "pinchábamos" ],
+			[ "pinchabais", "pinchaban" ],
+			[ "pinchaban" ]
+		],
+		"6" : [
+			[ "pincharía" ],
+			[ "pincharías" ],
+			[ "pincharía" ],
+			[ "pincharíamos" ],
+			[ "pincharíais", "pincharían" ],
+			[ "pincharían" ]
+		],
+		"7" : [
+			[ "pincharé" ],
+			[ "pincharás" ],
+			[ "pinchará" ],
+			[ "pincharemos" ],
+			[ "pincharéis", "pincharán" ],
+			[ "pincharán" ]
+		],
+		"8" : [
+			[ "pinche" ],
+			[ "pinches" ],
+			[ "pinche" ],
+			[ "pinchemos" ],
+			[ "pinchéis", "pinchen" ],
+			[ "pinchen" ]
+		],
+		"9" : [
+			[ "pinchara" ],
+			[ "pincharas" ],
+			[ "pinchara" ],
+			[ "pincháramos" ],
+			[ "pincharais", "pincharan" ],
+			[ "pincharan" ]
+		],
+		"10" : [
+			[ "pinchase" ],
+			[ "pinchases" ],
+			[ "pinchase" ],
+			[ "pinchásemos" ],
+			[ "pinchaseis", "pinchasen" ],
+			[ "pinchasen" ]
+		],
+		"11" : [
+			[ "pinchare" ],
+			[ "pinchares" ],
+			[ "pinchare" ],
+			[ "pincháremos" ],
+			[ "pinchareis", "pincharen" ],
+			[ "pincharen" ]
+		],
+		"12" : {
+			"1" : [ "pincha" ],
+			"2" : [ "pinche" ],
+			"3" : [ "pinchemos" ],
+			"4" : [ "pinchad" ],
+			"5" : [ "pinchen" ]
+		}
+	}
+}

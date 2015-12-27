@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esputar",
+	"word" : "esputar",
+	"infinitivo" : "esputar",
+	"participio" : [ "esputado" ],
+	"gerundio" : [ "esputando" ],
+	"tenses" : {
+		"3" : [
+			[ "esputo" ],
+			[ "esputas", "esputás" ],
+			[ "esputa" ],
+			[ "esputamos" ],
+			[ "esputáis", "esputan" ],
+			[ "esputan" ]
+		],
+		"4" : [
+			[ "esputé" ],
+			[ "esputaste" ],
+			[ "esputó" ],
+			[ "esputamos" ],
+			[ "esputasteis", "esputaron" ],
+			[ "esputaron" ]
+		],
+		"5" : [
+			[ "esputaba" ],
+			[ "esputabas" ],
+			[ "esputaba" ],
+			[ "esputábamos" ],
+			[ "esputabais", "esputaban" ],
+			[ "esputaban" ]
+		],
+		"6" : [
+			[ "esputaría" ],
+			[ "esputarías" ],
+			[ "esputaría" ],
+			[ "esputaríamos" ],
+			[ "esputaríais", "esputarían" ],
+			[ "esputarían" ]
+		],
+		"7" : [
+			[ "esputaré" ],
+			[ "esputarás" ],
+			[ "esputará" ],
+			[ "esputaremos" ],
+			[ "esputaréis", "esputarán" ],
+			[ "esputarán" ]
+		],
+		"8" : [
+			[ "espute" ],
+			[ "esputes" ],
+			[ "espute" ],
+			[ "esputemos" ],
+			[ "esputéis", "esputen" ],
+			[ "esputen" ]
+		],
+		"9" : [
+			[ "esputara" ],
+			[ "esputaras" ],
+			[ "esputara" ],
+			[ "esputáramos" ],
+			[ "esputarais", "esputaran" ],
+			[ "esputaran" ]
+		],
+		"10" : [
+			[ "esputase" ],
+			[ "esputases" ],
+			[ "esputase" ],
+			[ "esputásemos" ],
+			[ "esputaseis", "esputasen" ],
+			[ "esputasen" ]
+		],
+		"11" : [
+			[ "esputare" ],
+			[ "esputares" ],
+			[ "esputare" ],
+			[ "esputáremos" ],
+			[ "esputareis", "esputaren" ],
+			[ "esputaren" ]
+		],
+		"12" : {
+			"1" : [ "esputa" ],
+			"2" : [ "espute" ],
+			"3" : [ "esputemos" ],
+			"4" : [ "esputad" ],
+			"5" : [ "esputen" ]
+		}
+	}
+}

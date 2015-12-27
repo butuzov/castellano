@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=relatar",
+	"word" : "relatar",
+	"infinitivo" : "relatar",
+	"participio" : [ "relatado" ],
+	"gerundio" : [ "relatando" ],
+	"tenses" : {
+		"3" : [
+			[ "relato" ],
+			[ "relatas", "relatás" ],
+			[ "relata" ],
+			[ "relatamos" ],
+			[ "relatáis", "relatan" ],
+			[ "relatan" ]
+		],
+		"4" : [
+			[ "relaté" ],
+			[ "relataste" ],
+			[ "relató" ],
+			[ "relatamos" ],
+			[ "relatasteis", "relataron" ],
+			[ "relataron" ]
+		],
+		"5" : [
+			[ "relataba" ],
+			[ "relatabas" ],
+			[ "relataba" ],
+			[ "relatábamos" ],
+			[ "relatabais", "relataban" ],
+			[ "relataban" ]
+		],
+		"6" : [
+			[ "relataría" ],
+			[ "relatarías" ],
+			[ "relataría" ],
+			[ "relataríamos" ],
+			[ "relataríais", "relatarían" ],
+			[ "relatarían" ]
+		],
+		"7" : [
+			[ "relataré" ],
+			[ "relatarás" ],
+			[ "relatará" ],
+			[ "relataremos" ],
+			[ "relataréis", "relatarán" ],
+			[ "relatarán" ]
+		],
+		"8" : [
+			[ "relate" ],
+			[ "relates" ],
+			[ "relate" ],
+			[ "relatemos" ],
+			[ "relatéis", "relaten" ],
+			[ "relaten" ]
+		],
+		"9" : [
+			[ "relatara" ],
+			[ "relataras" ],
+			[ "relatara" ],
+			[ "relatáramos" ],
+			[ "relatarais", "relataran" ],
+			[ "relataran" ]
+		],
+		"10" : [
+			[ "relatase" ],
+			[ "relatases" ],
+			[ "relatase" ],
+			[ "relatásemos" ],
+			[ "relataseis", "relatasen" ],
+			[ "relatasen" ]
+		],
+		"11" : [
+			[ "relatare" ],
+			[ "relatares" ],
+			[ "relatare" ],
+			[ "relatáremos" ],
+			[ "relatareis", "relataren" ],
+			[ "relataren" ]
+		],
+		"12" : {
+			"1" : [ "relata" ],
+			"2" : [ "relate" ],
+			"3" : [ "relatemos" ],
+			"4" : [ "relatad" ],
+			"5" : [ "relaten" ]
+		}
+	}
+}

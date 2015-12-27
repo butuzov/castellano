@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=suceder",
+	"word" : "suceder",
+	"infinitivo" : "suceder",
+	"participio" : [ "sucedido" ],
+	"gerundio" : [ "sucediendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sucedo" ],
+			[ "sucedes", "sucedés" ],
+			[ "sucede" ],
+			[ "sucedemos" ],
+			[ "sucedéis", "suceden" ],
+			[ "suceden" ]
+		],
+		"4" : [
+			[ "sucedí" ],
+			[ "sucediste" ],
+			[ "sucedió" ],
+			[ "sucedimos" ],
+			[ "sucedisteis", "sucedieron" ],
+			[ "sucedieron" ]
+		],
+		"5" : [
+			[ "sucedía" ],
+			[ "sucedías" ],
+			[ "sucedía" ],
+			[ "sucedíamos" ],
+			[ "sucedíais", "sucedían" ],
+			[ "sucedían" ]
+		],
+		"6" : [
+			[ "sucedería" ],
+			[ "sucederías" ],
+			[ "sucedería" ],
+			[ "sucederíamos" ],
+			[ "sucederíais", "sucederían" ],
+			[ "sucederían" ]
+		],
+		"7" : [
+			[ "sucederé" ],
+			[ "sucederás" ],
+			[ "sucederá" ],
+			[ "sucederemos" ],
+			[ "sucederéis", "sucederán" ],
+			[ "sucederán" ]
+		],
+		"8" : [
+			[ "suceda" ],
+			[ "sucedas" ],
+			[ "suceda" ],
+			[ "sucedamos" ],
+			[ "sucedáis", "sucedan" ],
+			[ "sucedan" ]
+		],
+		"9" : [
+			[ "sucediera" ],
+			[ "sucedieras" ],
+			[ "sucediera" ],
+			[ "sucediéramos" ],
+			[ "sucedierais", "sucedieran" ],
+			[ "sucedieran" ]
+		],
+		"10" : [
+			[ "sucediese" ],
+			[ "sucedieses" ],
+			[ "sucediese" ],
+			[ "sucediésemos" ],
+			[ "sucedieseis", "sucediesen" ],
+			[ "sucediesen" ]
+		],
+		"11" : [
+			[ "sucediere" ],
+			[ "sucedieres" ],
+			[ "sucediere" ],
+			[ "sucediéremos" ],
+			[ "sucediereis", "sucedieren" ],
+			[ "sucedieren" ]
+		],
+		"12" : {
+			"1" : [ "sucede" ],
+			"2" : [ "suceda" ],
+			"3" : [ "sucedamos" ],
+			"4" : [ "suceded" ],
+			"5" : [ "sucedan" ]
+		}
+	}
+}

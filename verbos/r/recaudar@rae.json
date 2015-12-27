@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recaudar",
+	"word" : "recaudar",
+	"infinitivo" : "recaudar",
+	"participio" : [ "recaudado" ],
+	"gerundio" : [ "recaudando" ],
+	"tenses" : {
+		"3" : [
+			[ "recaudo" ],
+			[ "recaudas", "recaudás" ],
+			[ "recauda" ],
+			[ "recaudamos" ],
+			[ "recaudáis", "recaudan" ],
+			[ "recaudan" ]
+		],
+		"4" : [
+			[ "recaudé" ],
+			[ "recaudaste" ],
+			[ "recaudó" ],
+			[ "recaudamos" ],
+			[ "recaudasteis", "recaudaron" ],
+			[ "recaudaron" ]
+		],
+		"5" : [
+			[ "recaudaba" ],
+			[ "recaudabas" ],
+			[ "recaudaba" ],
+			[ "recaudábamos" ],
+			[ "recaudabais", "recaudaban" ],
+			[ "recaudaban" ]
+		],
+		"6" : [
+			[ "recaudaría" ],
+			[ "recaudarías" ],
+			[ "recaudaría" ],
+			[ "recaudaríamos" ],
+			[ "recaudaríais", "recaudarían" ],
+			[ "recaudarían" ]
+		],
+		"7" : [
+			[ "recaudaré" ],
+			[ "recaudarás" ],
+			[ "recaudará" ],
+			[ "recaudaremos" ],
+			[ "recaudaréis", "recaudarán" ],
+			[ "recaudarán" ]
+		],
+		"8" : [
+			[ "recaude" ],
+			[ "recaudes" ],
+			[ "recaude" ],
+			[ "recaudemos" ],
+			[ "recaudéis", "recauden" ],
+			[ "recauden" ]
+		],
+		"9" : [
+			[ "recaudara" ],
+			[ "recaudaras" ],
+			[ "recaudara" ],
+			[ "recaudáramos" ],
+			[ "recaudarais", "recaudaran" ],
+			[ "recaudaran" ]
+		],
+		"10" : [
+			[ "recaudase" ],
+			[ "recaudases" ],
+			[ "recaudase" ],
+			[ "recaudásemos" ],
+			[ "recaudaseis", "recaudasen" ],
+			[ "recaudasen" ]
+		],
+		"11" : [
+			[ "recaudare" ],
+			[ "recaudares" ],
+			[ "recaudare" ],
+			[ "recaudáremos" ],
+			[ "recaudareis", "recaudaren" ],
+			[ "recaudaren" ]
+		],
+		"12" : {
+			"1" : [ "recauda" ],
+			"2" : [ "recaude" ],
+			"3" : [ "recaudemos" ],
+			"4" : [ "recaudad" ],
+			"5" : [ "recauden" ]
+		}
+	}
+}

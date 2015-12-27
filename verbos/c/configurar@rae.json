@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=configurar",
+	"word" : "configurar",
+	"infinitivo" : "configurar",
+	"participio" : [ "configurado" ],
+	"gerundio" : [ "configurando" ],
+	"tenses" : {
+		"3" : [
+			[ "configuro" ],
+			[ "configuras", "configurás" ],
+			[ "configura" ],
+			[ "configuramos" ],
+			[ "configuráis", "configuran" ],
+			[ "configuran" ]
+		],
+		"4" : [
+			[ "configuré" ],
+			[ "configuraste" ],
+			[ "configuró" ],
+			[ "configuramos" ],
+			[ "configurasteis", "configuraron" ],
+			[ "configuraron" ]
+		],
+		"5" : [
+			[ "configuraba" ],
+			[ "configurabas" ],
+			[ "configuraba" ],
+			[ "configurábamos" ],
+			[ "configurabais", "configuraban" ],
+			[ "configuraban" ]
+		],
+		"6" : [
+			[ "configuraría" ],
+			[ "configurarías" ],
+			[ "configuraría" ],
+			[ "configuraríamos" ],
+			[ "configuraríais", "configurarían" ],
+			[ "configurarían" ]
+		],
+		"7" : [
+			[ "configuraré" ],
+			[ "configurarás" ],
+			[ "configurará" ],
+			[ "configuraremos" ],
+			[ "configuraréis", "configurarán" ],
+			[ "configurarán" ]
+		],
+		"8" : [
+			[ "configure" ],
+			[ "configures" ],
+			[ "configure" ],
+			[ "configuremos" ],
+			[ "configuréis", "configuren" ],
+			[ "configuren" ]
+		],
+		"9" : [
+			[ "configurara" ],
+			[ "configuraras" ],
+			[ "configurara" ],
+			[ "configuráramos" ],
+			[ "configurarais", "configuraran" ],
+			[ "configuraran" ]
+		],
+		"10" : [
+			[ "configurase" ],
+			[ "configurases" ],
+			[ "configurase" ],
+			[ "configurásemos" ],
+			[ "configuraseis", "configurasen" ],
+			[ "configurasen" ]
+		],
+		"11" : [
+			[ "configurare" ],
+			[ "configurares" ],
+			[ "configurare" ],
+			[ "configuráremos" ],
+			[ "configurareis", "configuraren" ],
+			[ "configuraren" ]
+		],
+		"12" : {
+			"1" : [ "configura" ],
+			"2" : [ "configure" ],
+			"3" : [ "configuremos" ],
+			"4" : [ "configurad" ],
+			"5" : [ "configuren" ]
+		}
+	}
+}

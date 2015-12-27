@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mallar",
+	"word" : "mallar",
+	"infinitivo" : "mallar",
+	"participio" : [ "mallado" ],
+	"gerundio" : [ "mallando" ],
+	"tenses" : {
+		"3" : [
+			[ "mallo" ],
+			[ "mallas", "mallás" ],
+			[ "malla" ],
+			[ "mallamos" ],
+			[ "malláis", "mallan" ],
+			[ "mallan" ]
+		],
+		"4" : [
+			[ "mallé" ],
+			[ "mallaste" ],
+			[ "malló" ],
+			[ "mallamos" ],
+			[ "mallasteis", "mallaron" ],
+			[ "mallaron" ]
+		],
+		"5" : [
+			[ "mallaba" ],
+			[ "mallabas" ],
+			[ "mallaba" ],
+			[ "mallábamos" ],
+			[ "mallabais", "mallaban" ],
+			[ "mallaban" ]
+		],
+		"6" : [
+			[ "mallaría" ],
+			[ "mallarías" ],
+			[ "mallaría" ],
+			[ "mallaríamos" ],
+			[ "mallaríais", "mallarían" ],
+			[ "mallarían" ]
+		],
+		"7" : [
+			[ "mallaré" ],
+			[ "mallarás" ],
+			[ "mallará" ],
+			[ "mallaremos" ],
+			[ "mallaréis", "mallarán" ],
+			[ "mallarán" ]
+		],
+		"8" : [
+			[ "malle" ],
+			[ "malles" ],
+			[ "malle" ],
+			[ "mallemos" ],
+			[ "malléis", "mallen" ],
+			[ "mallen" ]
+		],
+		"9" : [
+			[ "mallara" ],
+			[ "mallaras" ],
+			[ "mallara" ],
+			[ "malláramos" ],
+			[ "mallarais", "mallaran" ],
+			[ "mallaran" ]
+		],
+		"10" : [
+			[ "mallase" ],
+			[ "mallases" ],
+			[ "mallase" ],
+			[ "mallásemos" ],
+			[ "mallaseis", "mallasen" ],
+			[ "mallasen" ]
+		],
+		"11" : [
+			[ "mallare" ],
+			[ "mallares" ],
+			[ "mallare" ],
+			[ "malláremos" ],
+			[ "mallareis", "mallaren" ],
+			[ "mallaren" ]
+		],
+		"12" : {
+			"1" : [ "malla" ],
+			"2" : [ "malle" ],
+			"3" : [ "mallemos" ],
+			"4" : [ "mallad" ],
+			"5" : [ "mallen" ]
+		}
+	}
+}

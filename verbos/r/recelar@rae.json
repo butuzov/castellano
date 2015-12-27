@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recelar",
+	"word" : "recelar",
+	"infinitivo" : "recelar",
+	"participio" : [ "recelado" ],
+	"gerundio" : [ "recelando" ],
+	"tenses" : {
+		"3" : [
+			[ "recelo" ],
+			[ "recelas", "recelás" ],
+			[ "recela" ],
+			[ "recelamos" ],
+			[ "receláis", "recelan" ],
+			[ "recelan" ]
+		],
+		"4" : [
+			[ "recelé" ],
+			[ "recelaste" ],
+			[ "receló" ],
+			[ "recelamos" ],
+			[ "recelasteis", "recelaron" ],
+			[ "recelaron" ]
+		],
+		"5" : [
+			[ "recelaba" ],
+			[ "recelabas" ],
+			[ "recelaba" ],
+			[ "recelábamos" ],
+			[ "recelabais", "recelaban" ],
+			[ "recelaban" ]
+		],
+		"6" : [
+			[ "recelaría" ],
+			[ "recelarías" ],
+			[ "recelaría" ],
+			[ "recelaríamos" ],
+			[ "recelaríais", "recelarían" ],
+			[ "recelarían" ]
+		],
+		"7" : [
+			[ "recelaré" ],
+			[ "recelarás" ],
+			[ "recelará" ],
+			[ "recelaremos" ],
+			[ "recelaréis", "recelarán" ],
+			[ "recelarán" ]
+		],
+		"8" : [
+			[ "recele" ],
+			[ "receles" ],
+			[ "recele" ],
+			[ "recelemos" ],
+			[ "receléis", "recelen" ],
+			[ "recelen" ]
+		],
+		"9" : [
+			[ "recelara" ],
+			[ "recelaras" ],
+			[ "recelara" ],
+			[ "receláramos" ],
+			[ "recelarais", "recelaran" ],
+			[ "recelaran" ]
+		],
+		"10" : [
+			[ "recelase" ],
+			[ "recelases" ],
+			[ "recelase" ],
+			[ "recelásemos" ],
+			[ "recelaseis", "recelasen" ],
+			[ "recelasen" ]
+		],
+		"11" : [
+			[ "recelare" ],
+			[ "recelares" ],
+			[ "recelare" ],
+			[ "receláremos" ],
+			[ "recelareis", "recelaren" ],
+			[ "recelaren" ]
+		],
+		"12" : {
+			"1" : [ "recela" ],
+			"2" : [ "recele" ],
+			"3" : [ "recelemos" ],
+			"4" : [ "recelad" ],
+			"5" : [ "recelen" ]
+		}
+	}
+}

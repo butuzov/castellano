@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=imaginar",
+	"word" : "imaginar",
+	"infinitivo" : "imaginar",
+	"participio" : [ "imaginado" ],
+	"gerundio" : [ "imaginando" ],
+	"tenses" : {
+		"3" : [
+			[ "imagino" ],
+			[ "imaginas", "imaginás" ],
+			[ "imagina" ],
+			[ "imaginamos" ],
+			[ "imagináis", "imaginan" ],
+			[ "imaginan" ]
+		],
+		"4" : [
+			[ "imaginé" ],
+			[ "imaginaste" ],
+			[ "imaginó" ],
+			[ "imaginamos" ],
+			[ "imaginasteis", "imaginaron" ],
+			[ "imaginaron" ]
+		],
+		"5" : [
+			[ "imaginaba" ],
+			[ "imaginabas" ],
+			[ "imaginaba" ],
+			[ "imaginábamos" ],
+			[ "imaginabais", "imaginaban" ],
+			[ "imaginaban" ]
+		],
+		"6" : [
+			[ "imaginaría" ],
+			[ "imaginarías" ],
+			[ "imaginaría" ],
+			[ "imaginaríamos" ],
+			[ "imaginaríais", "imaginarían" ],
+			[ "imaginarían" ]
+		],
+		"7" : [
+			[ "imaginaré" ],
+			[ "imaginarás" ],
+			[ "imaginará" ],
+			[ "imaginaremos" ],
+			[ "imaginaréis", "imaginarán" ],
+			[ "imaginarán" ]
+		],
+		"8" : [
+			[ "imagine" ],
+			[ "imagines" ],
+			[ "imagine" ],
+			[ "imaginemos" ],
+			[ "imaginéis", "imaginen" ],
+			[ "imaginen" ]
+		],
+		"9" : [
+			[ "imaginara" ],
+			[ "imaginaras" ],
+			[ "imaginara" ],
+			[ "imagináramos" ],
+			[ "imaginarais", "imaginaran" ],
+			[ "imaginaran" ]
+		],
+		"10" : [
+			[ "imaginase" ],
+			[ "imaginases" ],
+			[ "imaginase" ],
+			[ "imaginásemos" ],
+			[ "imaginaseis", "imaginasen" ],
+			[ "imaginasen" ]
+		],
+		"11" : [
+			[ "imaginare" ],
+			[ "imaginares" ],
+			[ "imaginare" ],
+			[ "imagináremos" ],
+			[ "imaginareis", "imaginaren" ],
+			[ "imaginaren" ]
+		],
+		"12" : {
+			"1" : [ "imagina" ],
+			"2" : [ "imagine" ],
+			"3" : [ "imaginemos" ],
+			"4" : [ "imaginad" ],
+			"5" : [ "imaginen" ]
+		}
+	}
+}

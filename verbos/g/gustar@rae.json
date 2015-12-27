@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gustar",
+	"word" : "gustar",
+	"infinitivo" : "gustar",
+	"participio" : [ "gustado" ],
+	"gerundio" : [ "gustando" ],
+	"tenses" : {
+		"3" : [
+			[ "gusto" ],
+			[ "gustas", "gustás" ],
+			[ "gusta" ],
+			[ "gustamos" ],
+			[ "gustáis", "gustan" ],
+			[ "gustan" ]
+		],
+		"4" : [
+			[ "gusté" ],
+			[ "gustaste" ],
+			[ "gustó" ],
+			[ "gustamos" ],
+			[ "gustasteis", "gustaron" ],
+			[ "gustaron" ]
+		],
+		"5" : [
+			[ "gustaba" ],
+			[ "gustabas" ],
+			[ "gustaba" ],
+			[ "gustábamos" ],
+			[ "gustabais", "gustaban" ],
+			[ "gustaban" ]
+		],
+		"6" : [
+			[ "gustaría" ],
+			[ "gustarías" ],
+			[ "gustaría" ],
+			[ "gustaríamos" ],
+			[ "gustaríais", "gustarían" ],
+			[ "gustarían" ]
+		],
+		"7" : [
+			[ "gustaré" ],
+			[ "gustarás" ],
+			[ "gustará" ],
+			[ "gustaremos" ],
+			[ "gustaréis", "gustarán" ],
+			[ "gustarán" ]
+		],
+		"8" : [
+			[ "guste" ],
+			[ "gustes" ],
+			[ "guste" ],
+			[ "gustemos" ],
+			[ "gustéis", "gusten" ],
+			[ "gusten" ]
+		],
+		"9" : [
+			[ "gustara" ],
+			[ "gustaras" ],
+			[ "gustara" ],
+			[ "gustáramos" ],
+			[ "gustarais", "gustaran" ],
+			[ "gustaran" ]
+		],
+		"10" : [
+			[ "gustase" ],
+			[ "gustases" ],
+			[ "gustase" ],
+			[ "gustásemos" ],
+			[ "gustaseis", "gustasen" ],
+			[ "gustasen" ]
+		],
+		"11" : [
+			[ "gustare" ],
+			[ "gustares" ],
+			[ "gustare" ],
+			[ "gustáremos" ],
+			[ "gustareis", "gustaren" ],
+			[ "gustaren" ]
+		],
+		"12" : {
+			"1" : [ "gusta" ],
+			"2" : [ "guste" ],
+			"3" : [ "gustemos" ],
+			"4" : [ "gustad" ],
+			"5" : [ "gusten" ]
+		}
+	}
+}

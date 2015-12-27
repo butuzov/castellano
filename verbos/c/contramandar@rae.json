@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contramandar",
+	"word" : "contramandar",
+	"infinitivo" : "contramandar",
+	"participio" : [ "contramandado" ],
+	"gerundio" : [ "contramandando" ],
+	"tenses" : {
+		"3" : [
+			[ "contramando" ],
+			[ "contramandas", "contramandás" ],
+			[ "contramanda" ],
+			[ "contramandamos" ],
+			[ "contramandáis", "contramandan" ],
+			[ "contramandan" ]
+		],
+		"4" : [
+			[ "contramandé" ],
+			[ "contramandaste" ],
+			[ "contramandó" ],
+			[ "contramandamos" ],
+			[ "contramandasteis", "contramandaron" ],
+			[ "contramandaron" ]
+		],
+		"5" : [
+			[ "contramandaba" ],
+			[ "contramandabas" ],
+			[ "contramandaba" ],
+			[ "contramandábamos" ],
+			[ "contramandabais", "contramandaban" ],
+			[ "contramandaban" ]
+		],
+		"6" : [
+			[ "contramandaría" ],
+			[ "contramandarías" ],
+			[ "contramandaría" ],
+			[ "contramandaríamos" ],
+			[ "contramandaríais", "contramandarían" ],
+			[ "contramandarían" ]
+		],
+		"7" : [
+			[ "contramandaré" ],
+			[ "contramandarás" ],
+			[ "contramandará" ],
+			[ "contramandaremos" ],
+			[ "contramandaréis", "contramandarán" ],
+			[ "contramandarán" ]
+		],
+		"8" : [
+			[ "contramande" ],
+			[ "contramandes" ],
+			[ "contramande" ],
+			[ "contramandemos" ],
+			[ "contramandéis", "contramanden" ],
+			[ "contramanden" ]
+		],
+		"9" : [
+			[ "contramandara" ],
+			[ "contramandaras" ],
+			[ "contramandara" ],
+			[ "contramandáramos" ],
+			[ "contramandarais", "contramandaran" ],
+			[ "contramandaran" ]
+		],
+		"10" : [
+			[ "contramandase" ],
+			[ "contramandases" ],
+			[ "contramandase" ],
+			[ "contramandásemos" ],
+			[ "contramandaseis", "contramandasen" ],
+			[ "contramandasen" ]
+		],
+		"11" : [
+			[ "contramandare" ],
+			[ "contramandares" ],
+			[ "contramandare" ],
+			[ "contramandáremos" ],
+			[ "contramandareis", "contramandaren" ],
+			[ "contramandaren" ]
+		],
+		"12" : {
+			"1" : [ "contramanda" ],
+			"2" : [ "contramande" ],
+			"3" : [ "contramandemos" ],
+			"4" : [ "contramandad" ],
+			"5" : [ "contramanden" ]
+		}
+	}
+}

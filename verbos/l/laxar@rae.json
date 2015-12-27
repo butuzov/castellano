@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=laxar",
+	"word" : "laxar",
+	"infinitivo" : "laxar",
+	"participio" : [ "laxado" ],
+	"gerundio" : [ "laxando" ],
+	"tenses" : {
+		"3" : [
+			[ "laxo" ],
+			[ "laxas", "laxás" ],
+			[ "laxa" ],
+			[ "laxamos" ],
+			[ "laxáis", "laxan" ],
+			[ "laxan" ]
+		],
+		"4" : [
+			[ "laxé" ],
+			[ "laxaste" ],
+			[ "laxó" ],
+			[ "laxamos" ],
+			[ "laxasteis", "laxaron" ],
+			[ "laxaron" ]
+		],
+		"5" : [
+			[ "laxaba" ],
+			[ "laxabas" ],
+			[ "laxaba" ],
+			[ "laxábamos" ],
+			[ "laxabais", "laxaban" ],
+			[ "laxaban" ]
+		],
+		"6" : [
+			[ "laxaría" ],
+			[ "laxarías" ],
+			[ "laxaría" ],
+			[ "laxaríamos" ],
+			[ "laxaríais", "laxarían" ],
+			[ "laxarían" ]
+		],
+		"7" : [
+			[ "laxaré" ],
+			[ "laxarás" ],
+			[ "laxará" ],
+			[ "laxaremos" ],
+			[ "laxaréis", "laxarán" ],
+			[ "laxarán" ]
+		],
+		"8" : [
+			[ "laxe" ],
+			[ "laxes" ],
+			[ "laxe" ],
+			[ "laxemos" ],
+			[ "laxéis", "laxen" ],
+			[ "laxen" ]
+		],
+		"9" : [
+			[ "laxara" ],
+			[ "laxaras" ],
+			[ "laxara" ],
+			[ "laxáramos" ],
+			[ "laxarais", "laxaran" ],
+			[ "laxaran" ]
+		],
+		"10" : [
+			[ "laxase" ],
+			[ "laxases" ],
+			[ "laxase" ],
+			[ "laxásemos" ],
+			[ "laxaseis", "laxasen" ],
+			[ "laxasen" ]
+		],
+		"11" : [
+			[ "laxare" ],
+			[ "laxares" ],
+			[ "laxare" ],
+			[ "laxáremos" ],
+			[ "laxareis", "laxaren" ],
+			[ "laxaren" ]
+		],
+		"12" : {
+			"1" : [ "laxa" ],
+			"2" : [ "laxe" ],
+			"3" : [ "laxemos" ],
+			"4" : [ "laxad" ],
+			"5" : [ "laxen" ]
+		}
+	}
+}

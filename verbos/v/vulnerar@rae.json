@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vulnerar",
+	"word" : "vulnerar",
+	"infinitivo" : "vulnerar",
+	"participio" : [ "vulnerado" ],
+	"gerundio" : [ "vulnerando" ],
+	"tenses" : {
+		"3" : [
+			[ "vulnero" ],
+			[ "vulneras", "vulnerás" ],
+			[ "vulnera" ],
+			[ "vulneramos" ],
+			[ "vulneráis", "vulneran" ],
+			[ "vulneran" ]
+		],
+		"4" : [
+			[ "vulneré" ],
+			[ "vulneraste" ],
+			[ "vulneró" ],
+			[ "vulneramos" ],
+			[ "vulnerasteis", "vulneraron" ],
+			[ "vulneraron" ]
+		],
+		"5" : [
+			[ "vulneraba" ],
+			[ "vulnerabas" ],
+			[ "vulneraba" ],
+			[ "vulnerábamos" ],
+			[ "vulnerabais", "vulneraban" ],
+			[ "vulneraban" ]
+		],
+		"6" : [
+			[ "vulneraría" ],
+			[ "vulnerarías" ],
+			[ "vulneraría" ],
+			[ "vulneraríamos" ],
+			[ "vulneraríais", "vulnerarían" ],
+			[ "vulnerarían" ]
+		],
+		"7" : [
+			[ "vulneraré" ],
+			[ "vulnerarás" ],
+			[ "vulnerará" ],
+			[ "vulneraremos" ],
+			[ "vulneraréis", "vulnerarán" ],
+			[ "vulnerarán" ]
+		],
+		"8" : [
+			[ "vulnere" ],
+			[ "vulneres" ],
+			[ "vulnere" ],
+			[ "vulneremos" ],
+			[ "vulneréis", "vulneren" ],
+			[ "vulneren" ]
+		],
+		"9" : [
+			[ "vulnerara" ],
+			[ "vulneraras" ],
+			[ "vulnerara" ],
+			[ "vulneráramos" ],
+			[ "vulnerarais", "vulneraran" ],
+			[ "vulneraran" ]
+		],
+		"10" : [
+			[ "vulnerase" ],
+			[ "vulnerases" ],
+			[ "vulnerase" ],
+			[ "vulnerásemos" ],
+			[ "vulneraseis", "vulnerasen" ],
+			[ "vulnerasen" ]
+		],
+		"11" : [
+			[ "vulnerare" ],
+			[ "vulnerares" ],
+			[ "vulnerare" ],
+			[ "vulneráremos" ],
+			[ "vulnerareis", "vulneraren" ],
+			[ "vulneraren" ]
+		],
+		"12" : {
+			"1" : [ "vulnera" ],
+			"2" : [ "vulnere" ],
+			"3" : [ "vulneremos" ],
+			"4" : [ "vulnerad" ],
+			"5" : [ "vulneren" ]
+		}
+	}
+}

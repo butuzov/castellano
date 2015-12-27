@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=serenar",
+	"word" : "serenar",
+	"infinitivo" : "serenar",
+	"participio" : [ "serenado" ],
+	"gerundio" : [ "serenando" ],
+	"tenses" : {
+		"3" : [
+			[ "sereno" ],
+			[ "serenas", "serenás" ],
+			[ "serena" ],
+			[ "serenamos" ],
+			[ "serenáis", "serenan" ],
+			[ "serenan" ]
+		],
+		"4" : [
+			[ "serené" ],
+			[ "serenaste" ],
+			[ "serenó" ],
+			[ "serenamos" ],
+			[ "serenasteis", "serenaron" ],
+			[ "serenaron" ]
+		],
+		"5" : [
+			[ "serenaba" ],
+			[ "serenabas" ],
+			[ "serenaba" ],
+			[ "serenábamos" ],
+			[ "serenabais", "serenaban" ],
+			[ "serenaban" ]
+		],
+		"6" : [
+			[ "serenaría" ],
+			[ "serenarías" ],
+			[ "serenaría" ],
+			[ "serenaríamos" ],
+			[ "serenaríais", "serenarían" ],
+			[ "serenarían" ]
+		],
+		"7" : [
+			[ "serenaré" ],
+			[ "serenarás" ],
+			[ "serenará" ],
+			[ "serenaremos" ],
+			[ "serenaréis", "serenarán" ],
+			[ "serenarán" ]
+		],
+		"8" : [
+			[ "serene" ],
+			[ "serenes" ],
+			[ "serene" ],
+			[ "serenemos" ],
+			[ "serenéis", "serenen" ],
+			[ "serenen" ]
+		],
+		"9" : [
+			[ "serenara" ],
+			[ "serenaras" ],
+			[ "serenara" ],
+			[ "serenáramos" ],
+			[ "serenarais", "serenaran" ],
+			[ "serenaran" ]
+		],
+		"10" : [
+			[ "serenase" ],
+			[ "serenases" ],
+			[ "serenase" ],
+			[ "serenásemos" ],
+			[ "serenaseis", "serenasen" ],
+			[ "serenasen" ]
+		],
+		"11" : [
+			[ "serenare" ],
+			[ "serenares" ],
+			[ "serenare" ],
+			[ "serenáremos" ],
+			[ "serenareis", "serenaren" ],
+			[ "serenaren" ]
+		],
+		"12" : {
+			"1" : [ "serena" ],
+			"2" : [ "serene" ],
+			"3" : [ "serenemos" ],
+			"4" : [ "serenad" ],
+			"5" : [ "serenen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dirigir",
+	"word" : "dirigir",
+	"infinitivo" : "dirigir",
+	"participio" : [ "dirigido" ],
+	"gerundio" : [ "dirigiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "dirijo" ],
+			[ "diriges", "dirigís" ],
+			[ "dirige" ],
+			[ "dirigimos" ],
+			[ "dirigís", "dirigen" ],
+			[ "dirigen" ]
+		],
+		"4" : [
+			[ "dirigí" ],
+			[ "dirigiste" ],
+			[ "dirigió" ],
+			[ "dirigimos" ],
+			[ "dirigisteis", "dirigieron" ],
+			[ "dirigieron" ]
+		],
+		"5" : [
+			[ "dirigía" ],
+			[ "dirigías" ],
+			[ "dirigía" ],
+			[ "dirigíamos" ],
+			[ "dirigíais", "dirigían" ],
+			[ "dirigían" ]
+		],
+		"6" : [
+			[ "dirigiría" ],
+			[ "dirigirías" ],
+			[ "dirigiría" ],
+			[ "dirigiríamos" ],
+			[ "dirigiríais", "dirigirían" ],
+			[ "dirigirían" ]
+		],
+		"7" : [
+			[ "dirigiré" ],
+			[ "dirigirás" ],
+			[ "dirigirá" ],
+			[ "dirigiremos" ],
+			[ "dirigiréis", "dirigirán" ],
+			[ "dirigirán" ]
+		],
+		"8" : [
+			[ "dirija" ],
+			[ "dirijas" ],
+			[ "dirija" ],
+			[ "dirijamos" ],
+			[ "dirijáis", "dirijan" ],
+			[ "dirijan" ]
+		],
+		"9" : [
+			[ "dirigiera" ],
+			[ "dirigieras" ],
+			[ "dirigiera" ],
+			[ "dirigiéramos" ],
+			[ "dirigierais", "dirigieran" ],
+			[ "dirigieran" ]
+		],
+		"10" : [
+			[ "dirigiese" ],
+			[ "dirigieses" ],
+			[ "dirigiese" ],
+			[ "dirigiésemos" ],
+			[ "dirigieseis", "dirigiesen" ],
+			[ "dirigiesen" ]
+		],
+		"11" : [
+			[ "dirigiere" ],
+			[ "dirigieres" ],
+			[ "dirigiere" ],
+			[ "dirigiéremos" ],
+			[ "dirigiereis", "dirigieren" ],
+			[ "dirigieren" ]
+		],
+		"12" : {
+			"1" : [ "dirige" ],
+			"2" : [ "dirija" ],
+			"3" : [ "dirijamos" ],
+			"4" : [ "dirigid" ],
+			"5" : [ "dirijan" ]
+		}
+	}
+}

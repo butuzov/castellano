@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=subordinar",
+	"word" : "subordinar",
+	"infinitivo" : "subordinar",
+	"participio" : [ "subordinado" ],
+	"gerundio" : [ "subordinando" ],
+	"tenses" : {
+		"3" : [
+			[ "subordino" ],
+			[ "subordinas", "subordinás" ],
+			[ "subordina" ],
+			[ "subordinamos" ],
+			[ "subordináis", "subordinan" ],
+			[ "subordinan" ]
+		],
+		"4" : [
+			[ "subordiné" ],
+			[ "subordinaste" ],
+			[ "subordinó" ],
+			[ "subordinamos" ],
+			[ "subordinasteis", "subordinaron" ],
+			[ "subordinaron" ]
+		],
+		"5" : [
+			[ "subordinaba" ],
+			[ "subordinabas" ],
+			[ "subordinaba" ],
+			[ "subordinábamos" ],
+			[ "subordinabais", "subordinaban" ],
+			[ "subordinaban" ]
+		],
+		"6" : [
+			[ "subordinaría" ],
+			[ "subordinarías" ],
+			[ "subordinaría" ],
+			[ "subordinaríamos" ],
+			[ "subordinaríais", "subordinarían" ],
+			[ "subordinarían" ]
+		],
+		"7" : [
+			[ "subordinaré" ],
+			[ "subordinarás" ],
+			[ "subordinará" ],
+			[ "subordinaremos" ],
+			[ "subordinaréis", "subordinarán" ],
+			[ "subordinarán" ]
+		],
+		"8" : [
+			[ "subordine" ],
+			[ "subordines" ],
+			[ "subordine" ],
+			[ "subordinemos" ],
+			[ "subordinéis", "subordinen" ],
+			[ "subordinen" ]
+		],
+		"9" : [
+			[ "subordinara" ],
+			[ "subordinaras" ],
+			[ "subordinara" ],
+			[ "subordináramos" ],
+			[ "subordinarais", "subordinaran" ],
+			[ "subordinaran" ]
+		],
+		"10" : [
+			[ "subordinase" ],
+			[ "subordinases" ],
+			[ "subordinase" ],
+			[ "subordinásemos" ],
+			[ "subordinaseis", "subordinasen" ],
+			[ "subordinasen" ]
+		],
+		"11" : [
+			[ "subordinare" ],
+			[ "subordinares" ],
+			[ "subordinare" ],
+			[ "subordináremos" ],
+			[ "subordinareis", "subordinaren" ],
+			[ "subordinaren" ]
+		],
+		"12" : {
+			"1" : [ "subordina" ],
+			"2" : [ "subordine" ],
+			"3" : [ "subordinemos" ],
+			"4" : [ "subordinad" ],
+			"5" : [ "subordinen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=destituir",
+	"word" : "destituir",
+	"infinitivo" : "destituir",
+	"participio" : [ "destituido" ],
+	"gerundio" : [ "destituyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "destituyo" ],
+			[ "destituyes", "destituís" ],
+			[ "destituye" ],
+			[ "destituimos" ],
+			[ "destituís", "destituyen" ],
+			[ "destituyen" ]
+		],
+		"4" : [
+			[ "destituí" ],
+			[ "destituiste" ],
+			[ "destituyó" ],
+			[ "destituimos" ],
+			[ "destituisteis", "destituyeron" ],
+			[ "destituyeron" ]
+		],
+		"5" : [
+			[ "destituía" ],
+			[ "destituías" ],
+			[ "destituía" ],
+			[ "destituíamos" ],
+			[ "destituíais", "destituían" ],
+			[ "destituían" ]
+		],
+		"6" : [
+			[ "destituiría" ],
+			[ "destituirías" ],
+			[ "destituiría" ],
+			[ "destituiríamos" ],
+			[ "destituiríais", "destituirían" ],
+			[ "destituirían" ]
+		],
+		"7" : [
+			[ "destituiré" ],
+			[ "destituirás" ],
+			[ "destituirá" ],
+			[ "destituiremos" ],
+			[ "destituiréis", "destituirán" ],
+			[ "destituirán" ]
+		],
+		"8" : [
+			[ "destituya" ],
+			[ "destituyas" ],
+			[ "destituya" ],
+			[ "destituyamos" ],
+			[ "destituyáis", "destituyan" ],
+			[ "destituyan" ]
+		],
+		"9" : [
+			[ "destituyera" ],
+			[ "destituyeras" ],
+			[ "destituyera" ],
+			[ "destituyéramos" ],
+			[ "destituyerais", "destituyeran" ],
+			[ "destituyeran" ]
+		],
+		"10" : [
+			[ "destituyese" ],
+			[ "destituyeses" ],
+			[ "destituyese" ],
+			[ "destituyésemos" ],
+			[ "destituyeseis", "destituyesen" ],
+			[ "destituyesen" ]
+		],
+		"11" : [
+			[ "destituyere" ],
+			[ "destituyeres" ],
+			[ "destituyere" ],
+			[ "destituyéremos" ],
+			[ "destituyereis", "destituyeren" ],
+			[ "destituyeren" ]
+		],
+		"12" : {
+			"1" : [ "destituye" ],
+			"2" : [ "destituya" ],
+			"3" : [ "destituyamos" ],
+			"4" : [ "destituid" ],
+			"5" : [ "destituyan" ]
+		}
+	}
+}

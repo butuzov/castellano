@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=transcender",
+	"word" : "transcender",
+	"infinitivo" : "transcender",
+	"participio" : [ "transcendido" ],
+	"gerundio" : [ "transcendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "transciendo" ],
+			[ "transciendes", "transcendés" ],
+			[ "transciende" ],
+			[ "transcendemos" ],
+			[ "transcendéis", "transcienden" ],
+			[ "transcienden" ]
+		],
+		"4" : [
+			[ "transcendí" ],
+			[ "transcendiste" ],
+			[ "transcendió" ],
+			[ "transcendimos" ],
+			[ "transcendisteis", "transcendieron" ],
+			[ "transcendieron" ]
+		],
+		"5" : [
+			[ "transcendía" ],
+			[ "transcendías" ],
+			[ "transcendía" ],
+			[ "transcendíamos" ],
+			[ "transcendíais", "transcendían" ],
+			[ "transcendían" ]
+		],
+		"6" : [
+			[ "transcendería" ],
+			[ "transcenderías" ],
+			[ "transcendería" ],
+			[ "transcenderíamos" ],
+			[ "transcenderíais", "transcenderían" ],
+			[ "transcenderían" ]
+		],
+		"7" : [
+			[ "transcenderé" ],
+			[ "transcenderás" ],
+			[ "transcenderá" ],
+			[ "transcenderemos" ],
+			[ "transcenderéis", "transcenderán" ],
+			[ "transcenderán" ]
+		],
+		"8" : [
+			[ "transcienda" ],
+			[ "transciendas" ],
+			[ "transcienda" ],
+			[ "transcendamos" ],
+			[ "transcendáis", "transciendan" ],
+			[ "transciendan" ]
+		],
+		"9" : [
+			[ "transcendiera" ],
+			[ "transcendieras" ],
+			[ "transcendiera" ],
+			[ "transcendiéramos" ],
+			[ "transcendierais", "transcendieran" ],
+			[ "transcendieran" ]
+		],
+		"10" : [
+			[ "transcendiese" ],
+			[ "transcendieses" ],
+			[ "transcendiese" ],
+			[ "transcendiésemos" ],
+			[ "transcendieseis", "transcendiesen" ],
+			[ "transcendiesen" ]
+		],
+		"11" : [
+			[ "transcendiere" ],
+			[ "transcendieres" ],
+			[ "transcendiere" ],
+			[ "transcendiéremos" ],
+			[ "transcendiereis", "transcendieren" ],
+			[ "transcendieren" ]
+		],
+		"12" : {
+			"1" : [ "transciende" ],
+			"2" : [ "transcienda" ],
+			"3" : [ "transcendamos" ],
+			"4" : [ "transcended" ],
+			"5" : [ "transciendan" ]
+		}
+	}
+}

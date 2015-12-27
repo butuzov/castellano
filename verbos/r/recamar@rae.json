@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recamar",
+	"word" : "recamar",
+	"infinitivo" : "recamar",
+	"participio" : [ "recamado" ],
+	"gerundio" : [ "recamando" ],
+	"tenses" : {
+		"3" : [
+			[ "recamo" ],
+			[ "recamas", "recamás" ],
+			[ "recama" ],
+			[ "recamamos" ],
+			[ "recamáis", "recaman" ],
+			[ "recaman" ]
+		],
+		"4" : [
+			[ "recamé" ],
+			[ "recamaste" ],
+			[ "recamó" ],
+			[ "recamamos" ],
+			[ "recamasteis", "recamaron" ],
+			[ "recamaron" ]
+		],
+		"5" : [
+			[ "recamaba" ],
+			[ "recamabas" ],
+			[ "recamaba" ],
+			[ "recamábamos" ],
+			[ "recamabais", "recamaban" ],
+			[ "recamaban" ]
+		],
+		"6" : [
+			[ "recamaría" ],
+			[ "recamarías" ],
+			[ "recamaría" ],
+			[ "recamaríamos" ],
+			[ "recamaríais", "recamarían" ],
+			[ "recamarían" ]
+		],
+		"7" : [
+			[ "recamaré" ],
+			[ "recamarás" ],
+			[ "recamará" ],
+			[ "recamaremos" ],
+			[ "recamaréis", "recamarán" ],
+			[ "recamarán" ]
+		],
+		"8" : [
+			[ "recame" ],
+			[ "recames" ],
+			[ "recame" ],
+			[ "recamemos" ],
+			[ "recaméis", "recamen" ],
+			[ "recamen" ]
+		],
+		"9" : [
+			[ "recamara" ],
+			[ "recamaras" ],
+			[ "recamara" ],
+			[ "recamáramos" ],
+			[ "recamarais", "recamaran" ],
+			[ "recamaran" ]
+		],
+		"10" : [
+			[ "recamase" ],
+			[ "recamases" ],
+			[ "recamase" ],
+			[ "recamásemos" ],
+			[ "recamaseis", "recamasen" ],
+			[ "recamasen" ]
+		],
+		"11" : [
+			[ "recamare" ],
+			[ "recamares" ],
+			[ "recamare" ],
+			[ "recamáremos" ],
+			[ "recamareis", "recamaren" ],
+			[ "recamaren" ]
+		],
+		"12" : {
+			"1" : [ "recama" ],
+			"2" : [ "recame" ],
+			"3" : [ "recamemos" ],
+			"4" : [ "recamad" ],
+			"5" : [ "recamen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encobar",
+	"word" : "encobar",
+	"infinitivo" : "encobar",
+	"participio" : [ "encobado" ],
+	"gerundio" : [ "encobando" ],
+	"tenses" : {
+		"3" : [
+			[ "encobo" ],
+			[ "encobas", "encobás" ],
+			[ "encoba" ],
+			[ "encobamos" ],
+			[ "encobáis", "encoban" ],
+			[ "encoban" ]
+		],
+		"4" : [
+			[ "encobé" ],
+			[ "encobaste" ],
+			[ "encobó" ],
+			[ "encobamos" ],
+			[ "encobasteis", "encobaron" ],
+			[ "encobaron" ]
+		],
+		"5" : [
+			[ "encobaba" ],
+			[ "encobabas" ],
+			[ "encobaba" ],
+			[ "encobábamos" ],
+			[ "encobabais", "encobaban" ],
+			[ "encobaban" ]
+		],
+		"6" : [
+			[ "encobaría" ],
+			[ "encobarías" ],
+			[ "encobaría" ],
+			[ "encobaríamos" ],
+			[ "encobaríais", "encobarían" ],
+			[ "encobarían" ]
+		],
+		"7" : [
+			[ "encobaré" ],
+			[ "encobarás" ],
+			[ "encobará" ],
+			[ "encobaremos" ],
+			[ "encobaréis", "encobarán" ],
+			[ "encobarán" ]
+		],
+		"8" : [
+			[ "encobe" ],
+			[ "encobes" ],
+			[ "encobe" ],
+			[ "encobemos" ],
+			[ "encobéis", "encoben" ],
+			[ "encoben" ]
+		],
+		"9" : [
+			[ "encobara" ],
+			[ "encobaras" ],
+			[ "encobara" ],
+			[ "encobáramos" ],
+			[ "encobarais", "encobaran" ],
+			[ "encobaran" ]
+		],
+		"10" : [
+			[ "encobase" ],
+			[ "encobases" ],
+			[ "encobase" ],
+			[ "encobásemos" ],
+			[ "encobaseis", "encobasen" ],
+			[ "encobasen" ]
+		],
+		"11" : [
+			[ "encobare" ],
+			[ "encobares" ],
+			[ "encobare" ],
+			[ "encobáremos" ],
+			[ "encobareis", "encobaren" ],
+			[ "encobaren" ]
+		],
+		"12" : {
+			"1" : [ "encoba" ],
+			"2" : [ "encobe" ],
+			"3" : [ "encobemos" ],
+			"4" : [ "encobad" ],
+			"5" : [ "encoben" ]
+		}
+	}
+}

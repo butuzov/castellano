@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=clausurar",
+	"word" : "clausurar",
+	"infinitivo" : "clausurar",
+	"participio" : [ "clausurado" ],
+	"gerundio" : [ "clausurando" ],
+	"tenses" : {
+		"3" : [
+			[ "clausuro" ],
+			[ "clausuras", "clausurás" ],
+			[ "clausura" ],
+			[ "clausuramos" ],
+			[ "clausuráis", "clausuran" ],
+			[ "clausuran" ]
+		],
+		"4" : [
+			[ "clausuré" ],
+			[ "clausuraste" ],
+			[ "clausuró" ],
+			[ "clausuramos" ],
+			[ "clausurasteis", "clausuraron" ],
+			[ "clausuraron" ]
+		],
+		"5" : [
+			[ "clausuraba" ],
+			[ "clausurabas" ],
+			[ "clausuraba" ],
+			[ "clausurábamos" ],
+			[ "clausurabais", "clausuraban" ],
+			[ "clausuraban" ]
+		],
+		"6" : [
+			[ "clausuraría" ],
+			[ "clausurarías" ],
+			[ "clausuraría" ],
+			[ "clausuraríamos" ],
+			[ "clausuraríais", "clausurarían" ],
+			[ "clausurarían" ]
+		],
+		"7" : [
+			[ "clausuraré" ],
+			[ "clausurarás" ],
+			[ "clausurará" ],
+			[ "clausuraremos" ],
+			[ "clausuraréis", "clausurarán" ],
+			[ "clausurarán" ]
+		],
+		"8" : [
+			[ "clausure" ],
+			[ "clausures" ],
+			[ "clausure" ],
+			[ "clausuremos" ],
+			[ "clausuréis", "clausuren" ],
+			[ "clausuren" ]
+		],
+		"9" : [
+			[ "clausurara" ],
+			[ "clausuraras" ],
+			[ "clausurara" ],
+			[ "clausuráramos" ],
+			[ "clausurarais", "clausuraran" ],
+			[ "clausuraran" ]
+		],
+		"10" : [
+			[ "clausurase" ],
+			[ "clausurases" ],
+			[ "clausurase" ],
+			[ "clausurásemos" ],
+			[ "clausuraseis", "clausurasen" ],
+			[ "clausurasen" ]
+		],
+		"11" : [
+			[ "clausurare" ],
+			[ "clausurares" ],
+			[ "clausurare" ],
+			[ "clausuráremos" ],
+			[ "clausurareis", "clausuraren" ],
+			[ "clausuraren" ]
+		],
+		"12" : {
+			"1" : [ "clausura" ],
+			"2" : [ "clausure" ],
+			"3" : [ "clausuremos" ],
+			"4" : [ "clausurad" ],
+			"5" : [ "clausuren" ]
+		}
+	}
+}

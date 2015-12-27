@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apasionar",
+	"word" : "apasionar",
+	"infinitivo" : "apasionar",
+	"participio" : [ "apasionado" ],
+	"gerundio" : [ "apasionando" ],
+	"tenses" : {
+		"3" : [
+			[ "apasiono" ],
+			[ "apasionas", "apasionás" ],
+			[ "apasiona" ],
+			[ "apasionamos" ],
+			[ "apasionáis", "apasionan" ],
+			[ "apasionan" ]
+		],
+		"4" : [
+			[ "apasioné" ],
+			[ "apasionaste" ],
+			[ "apasionó" ],
+			[ "apasionamos" ],
+			[ "apasionasteis", "apasionaron" ],
+			[ "apasionaron" ]
+		],
+		"5" : [
+			[ "apasionaba" ],
+			[ "apasionabas" ],
+			[ "apasionaba" ],
+			[ "apasionábamos" ],
+			[ "apasionabais", "apasionaban" ],
+			[ "apasionaban" ]
+		],
+		"6" : [
+			[ "apasionaría" ],
+			[ "apasionarías" ],
+			[ "apasionaría" ],
+			[ "apasionaríamos" ],
+			[ "apasionaríais", "apasionarían" ],
+			[ "apasionarían" ]
+		],
+		"7" : [
+			[ "apasionaré" ],
+			[ "apasionarás" ],
+			[ "apasionará" ],
+			[ "apasionaremos" ],
+			[ "apasionaréis", "apasionarán" ],
+			[ "apasionarán" ]
+		],
+		"8" : [
+			[ "apasione" ],
+			[ "apasiones" ],
+			[ "apasione" ],
+			[ "apasionemos" ],
+			[ "apasionéis", "apasionen" ],
+			[ "apasionen" ]
+		],
+		"9" : [
+			[ "apasionara" ],
+			[ "apasionaras" ],
+			[ "apasionara" ],
+			[ "apasionáramos" ],
+			[ "apasionarais", "apasionaran" ],
+			[ "apasionaran" ]
+		],
+		"10" : [
+			[ "apasionase" ],
+			[ "apasionases" ],
+			[ "apasionase" ],
+			[ "apasionásemos" ],
+			[ "apasionaseis", "apasionasen" ],
+			[ "apasionasen" ]
+		],
+		"11" : [
+			[ "apasionare" ],
+			[ "apasionares" ],
+			[ "apasionare" ],
+			[ "apasionáremos" ],
+			[ "apasionareis", "apasionaren" ],
+			[ "apasionaren" ]
+		],
+		"12" : {
+			"1" : [ "apasiona" ],
+			"2" : [ "apasione" ],
+			"3" : [ "apasionemos" ],
+			"4" : [ "apasionad" ],
+			"5" : [ "apasionen" ]
+		}
+	}
+}

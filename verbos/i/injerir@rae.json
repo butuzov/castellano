@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=injerir",
+	"word" : "injerir",
+	"infinitivo" : "injerir",
+	"participio" : [ "injerido" ],
+	"gerundio" : [ "injiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "injiero" ],
+			[ "injieres", "injerís" ],
+			[ "injiere" ],
+			[ "injerimos" ],
+			[ "injerís", "injieren" ],
+			[ "injieren" ]
+		],
+		"4" : [
+			[ "injerí" ],
+			[ "injeriste" ],
+			[ "injirió" ],
+			[ "injerimos" ],
+			[ "injeristeis", "injirieron" ],
+			[ "injirieron" ]
+		],
+		"5" : [
+			[ "injería" ],
+			[ "injerías" ],
+			[ "injería" ],
+			[ "injeríamos" ],
+			[ "injeríais", "injerían" ],
+			[ "injerían" ]
+		],
+		"6" : [
+			[ "injeriría" ],
+			[ "injerirías" ],
+			[ "injeriría" ],
+			[ "injeriríamos" ],
+			[ "injeriríais", "injerirían" ],
+			[ "injerirían" ]
+		],
+		"7" : [
+			[ "injeriré" ],
+			[ "injerirás" ],
+			[ "injerirá" ],
+			[ "injeriremos" ],
+			[ "injeriréis", "injerirán" ],
+			[ "injerirán" ]
+		],
+		"8" : [
+			[ "injiera" ],
+			[ "injieras" ],
+			[ "injiera" ],
+			[ "injiramos" ],
+			[ "injiráis", "injieran" ],
+			[ "injieran" ]
+		],
+		"9" : [
+			[ "injiriera" ],
+			[ "injirieras" ],
+			[ "injiriera" ],
+			[ "injiriéramos" ],
+			[ "injirierais", "injirieran" ],
+			[ "injirieran" ]
+		],
+		"10" : [
+			[ "injiriese" ],
+			[ "injirieses" ],
+			[ "injiriese" ],
+			[ "injiriésemos" ],
+			[ "injirieseis", "injiriesen" ],
+			[ "injiriesen" ]
+		],
+		"11" : [
+			[ "injiriere" ],
+			[ "injirieres" ],
+			[ "injiriere" ],
+			[ "injiriéremos" ],
+			[ "injiriereis", "injirieren" ],
+			[ "injirieren" ]
+		],
+		"12" : {
+			"1" : [ "injiere" ],
+			"2" : [ "injiera" ],
+			"3" : [ "injiramos" ],
+			"4" : [ "injerid" ],
+			"5" : [ "injieran" ]
+		}
+	}
+}

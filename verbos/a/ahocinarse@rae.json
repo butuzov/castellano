@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ahocinarse",
+	"word" : "ahocinarse",
+	"infinitivo" : "ahocinarse",
+	"participio" : [ "ahocinado" ],
+	"gerundio" : [ "ahocinándome", "ahocinándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me ahocino" ],
+			[ "te ahocinas", "te ahocinás" ],
+			[ "se ahocina" ],
+			[ "nos ahocinamos" ],
+			[ "os ahocináis", "se ahocinan" ],
+			[ "se ahocinan" ]
+		],
+		"4" : [
+			[ "me ahociné" ],
+			[ "te ahocinaste" ],
+			[ "se ahocinó" ],
+			[ "nos ahocinamos" ],
+			[ "os ahocinasteis", "se ahocinaron" ],
+			[ "se ahocinaron" ]
+		],
+		"5" : [
+			[ "me ahocinaba" ],
+			[ "te ahocinabas" ],
+			[ "se ahocinaba" ],
+			[ "nos ahocinábamos" ],
+			[ "os ahocinabais", "se ahocinaban" ],
+			[ "se ahocinaban" ]
+		],
+		"6" : [
+			[ "me ahocinaría" ],
+			[ "te ahocinarías" ],
+			[ "se ahocinaría" ],
+			[ "nos ahocinaríamos" ],
+			[ "os ahocinaríais", "se ahocinarían" ],
+			[ "se ahocinarían" ]
+		],
+		"7" : [
+			[ "me ahocinaré" ],
+			[ "te ahocinarás" ],
+			[ "se ahocinará" ],
+			[ "nos ahocinaremos" ],
+			[ "os ahocinaréis", "se ahocinarán" ],
+			[ "se ahocinarán" ]
+		],
+		"8" : [
+			[ "me ahocine" ],
+			[ "te ahocines" ],
+			[ "se ahocine" ],
+			[ "nos ahocinemos" ],
+			[ "os ahocinéis", "se ahocinen" ],
+			[ "se ahocinen" ]
+		],
+		"9" : [
+			[ "me ahocinara" ],
+			[ "te ahocinaras" ],
+			[ "se ahocinara" ],
+			[ "nos ahocináramos" ],
+			[ "os ahocinarais", "se ahocinaran" ],
+			[ "se ahocinaran" ]
+		],
+		"10" : [
+			[ "me ahocinase" ],
+			[ "te ahocinases" ],
+			[ "se ahocinase" ],
+			[ "nos ahocinásemos" ],
+			[ "os ahocinaseis", "se ahocinasen" ],
+			[ "se ahocinasen" ]
+		],
+		"11" : [
+			[ "me ahocinare" ],
+			[ "te ahocinares" ],
+			[ "se ahocinare" ],
+			[ "nos ahocináremos" ],
+			[ "os ahocinareis", "se ahocinaren" ],
+			[ "se ahocinaren" ]
+		],
+		"12" : {
+			"1" : [ "ahocínate" ],
+			"2" : [ "ahocine" ],
+			"3" : [ "ahocinemos" ],
+			"4" : [ "ahocinaos" ],
+			"5" : [ "ahocínense" ]
+		}
+	}
+}

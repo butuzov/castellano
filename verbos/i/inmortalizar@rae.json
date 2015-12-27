@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inmortalizar",
+	"word" : "inmortalizar",
+	"infinitivo" : "inmortalizar",
+	"participio" : [ "inmortalizado" ],
+	"gerundio" : [ "inmortalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "inmortalizo" ],
+			[ "inmortalizas", "inmortalizás" ],
+			[ "inmortaliza" ],
+			[ "inmortalizamos" ],
+			[ "inmortalizáis", "inmortalizan" ],
+			[ "inmortalizan" ]
+		],
+		"4" : [
+			[ "inmortalicé" ],
+			[ "inmortalizaste" ],
+			[ "inmortalizó" ],
+			[ "inmortalizamos" ],
+			[ "inmortalizasteis", "inmortalizaron" ],
+			[ "inmortalizaron" ]
+		],
+		"5" : [
+			[ "inmortalizaba" ],
+			[ "inmortalizabas" ],
+			[ "inmortalizaba" ],
+			[ "inmortalizábamos" ],
+			[ "inmortalizabais", "inmortalizaban" ],
+			[ "inmortalizaban" ]
+		],
+		"6" : [
+			[ "inmortalizaría" ],
+			[ "inmortalizarías" ],
+			[ "inmortalizaría" ],
+			[ "inmortalizaríamos" ],
+			[ "inmortalizaríais", "inmortalizarían" ],
+			[ "inmortalizarían" ]
+		],
+		"7" : [
+			[ "inmortalizaré" ],
+			[ "inmortalizarás" ],
+			[ "inmortalizará" ],
+			[ "inmortalizaremos" ],
+			[ "inmortalizaréis", "inmortalizarán" ],
+			[ "inmortalizarán" ]
+		],
+		"8" : [
+			[ "inmortalice" ],
+			[ "inmortalices" ],
+			[ "inmortalice" ],
+			[ "inmortalicemos" ],
+			[ "inmortalicéis", "inmortalicen" ],
+			[ "inmortalicen" ]
+		],
+		"9" : [
+			[ "inmortalizara" ],
+			[ "inmortalizaras" ],
+			[ "inmortalizara" ],
+			[ "inmortalizáramos" ],
+			[ "inmortalizarais", "inmortalizaran" ],
+			[ "inmortalizaran" ]
+		],
+		"10" : [
+			[ "inmortalizase" ],
+			[ "inmortalizases" ],
+			[ "inmortalizase" ],
+			[ "inmortalizásemos" ],
+			[ "inmortalizaseis", "inmortalizasen" ],
+			[ "inmortalizasen" ]
+		],
+		"11" : [
+			[ "inmortalizare" ],
+			[ "inmortalizares" ],
+			[ "inmortalizare" ],
+			[ "inmortalizáremos" ],
+			[ "inmortalizareis", "inmortalizaren" ],
+			[ "inmortalizaren" ]
+		],
+		"12" : {
+			"1" : [ "inmortaliza" ],
+			"2" : [ "inmortalice" ],
+			"3" : [ "inmortalicemos" ],
+			"4" : [ "inmortalizad" ],
+			"5" : [ "inmortalicen" ]
+		}
+	}
+}

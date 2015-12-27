@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empalar",
+	"word" : "empalar",
+	"infinitivo" : "empalar",
+	"participio" : [ "empalado" ],
+	"gerundio" : [ "empalando" ],
+	"tenses" : {
+		"3" : [
+			[ "empalo" ],
+			[ "empalas", "empalás" ],
+			[ "empala" ],
+			[ "empalamos" ],
+			[ "empaláis", "empalan" ],
+			[ "empalan" ]
+		],
+		"4" : [
+			[ "empalé" ],
+			[ "empalaste" ],
+			[ "empaló" ],
+			[ "empalamos" ],
+			[ "empalasteis", "empalaron" ],
+			[ "empalaron" ]
+		],
+		"5" : [
+			[ "empalaba" ],
+			[ "empalabas" ],
+			[ "empalaba" ],
+			[ "empalábamos" ],
+			[ "empalabais", "empalaban" ],
+			[ "empalaban" ]
+		],
+		"6" : [
+			[ "empalaría" ],
+			[ "empalarías" ],
+			[ "empalaría" ],
+			[ "empalaríamos" ],
+			[ "empalaríais", "empalarían" ],
+			[ "empalarían" ]
+		],
+		"7" : [
+			[ "empalaré" ],
+			[ "empalarás" ],
+			[ "empalará" ],
+			[ "empalaremos" ],
+			[ "empalaréis", "empalarán" ],
+			[ "empalarán" ]
+		],
+		"8" : [
+			[ "empale" ],
+			[ "empales" ],
+			[ "empale" ],
+			[ "empalemos" ],
+			[ "empaléis", "empalen" ],
+			[ "empalen" ]
+		],
+		"9" : [
+			[ "empalara" ],
+			[ "empalaras" ],
+			[ "empalara" ],
+			[ "empaláramos" ],
+			[ "empalarais", "empalaran" ],
+			[ "empalaran" ]
+		],
+		"10" : [
+			[ "empalase" ],
+			[ "empalases" ],
+			[ "empalase" ],
+			[ "empalásemos" ],
+			[ "empalaseis", "empalasen" ],
+			[ "empalasen" ]
+		],
+		"11" : [
+			[ "empalare" ],
+			[ "empalares" ],
+			[ "empalare" ],
+			[ "empaláremos" ],
+			[ "empalareis", "empalaren" ],
+			[ "empalaren" ]
+		],
+		"12" : {
+			"1" : [ "empala" ],
+			"2" : [ "empale" ],
+			"3" : [ "empalemos" ],
+			"4" : [ "empalad" ],
+			"5" : [ "empalen" ]
+		}
+	}
+}

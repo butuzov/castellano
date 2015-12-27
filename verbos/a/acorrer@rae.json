@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acorrer",
+	"word" : "acorrer",
+	"infinitivo" : "acorrer",
+	"participio" : [ "acorrido" ],
+	"gerundio" : [ "acorriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "acorro" ],
+			[ "acorres", "acorrés" ],
+			[ "acorre" ],
+			[ "acorremos" ],
+			[ "acorréis", "acorren" ],
+			[ "acorren" ]
+		],
+		"4" : [
+			[ "acorrí" ],
+			[ "acorriste" ],
+			[ "acorrió" ],
+			[ "acorrimos" ],
+			[ "acorristeis", "acorrieron" ],
+			[ "acorrieron" ]
+		],
+		"5" : [
+			[ "acorría" ],
+			[ "acorrías" ],
+			[ "acorría" ],
+			[ "acorríamos" ],
+			[ "acorríais", "acorrían" ],
+			[ "acorrían" ]
+		],
+		"6" : [
+			[ "acorrería" ],
+			[ "acorrerías" ],
+			[ "acorrería" ],
+			[ "acorreríamos" ],
+			[ "acorreríais", "acorrerían" ],
+			[ "acorrerían" ]
+		],
+		"7" : [
+			[ "acorreré" ],
+			[ "acorrerás" ],
+			[ "acorrerá" ],
+			[ "acorreremos" ],
+			[ "acorreréis", "acorrerán" ],
+			[ "acorrerán" ]
+		],
+		"8" : [
+			[ "acorra" ],
+			[ "acorras" ],
+			[ "acorra" ],
+			[ "acorramos" ],
+			[ "acorráis", "acorran" ],
+			[ "acorran" ]
+		],
+		"9" : [
+			[ "acorriera" ],
+			[ "acorrieras" ],
+			[ "acorriera" ],
+			[ "acorriéramos" ],
+			[ "acorrierais", "acorrieran" ],
+			[ "acorrieran" ]
+		],
+		"10" : [
+			[ "acorriese" ],
+			[ "acorrieses" ],
+			[ "acorriese" ],
+			[ "acorriésemos" ],
+			[ "acorrieseis", "acorriesen" ],
+			[ "acorriesen" ]
+		],
+		"11" : [
+			[ "acorriere" ],
+			[ "acorrieres" ],
+			[ "acorriere" ],
+			[ "acorriéremos" ],
+			[ "acorriereis", "acorrieren" ],
+			[ "acorrieren" ]
+		],
+		"12" : {
+			"1" : [ "acorre" ],
+			"2" : [ "acorra" ],
+			"3" : [ "acorramos" ],
+			"4" : [ "acorred" ],
+			"5" : [ "acorran" ]
+		}
+	}
+}

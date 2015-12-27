@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aplicar",
+	"word" : "aplicar",
+	"infinitivo" : "aplicar",
+	"participio" : [ "aplicado" ],
+	"gerundio" : [ "aplicando" ],
+	"tenses" : {
+		"3" : [
+			[ "aplico" ],
+			[ "aplicas", "aplicás" ],
+			[ "aplica" ],
+			[ "aplicamos" ],
+			[ "aplicáis", "aplican" ],
+			[ "aplican" ]
+		],
+		"4" : [
+			[ "apliqué" ],
+			[ "aplicaste" ],
+			[ "aplicó" ],
+			[ "aplicamos" ],
+			[ "aplicasteis", "aplicaron" ],
+			[ "aplicaron" ]
+		],
+		"5" : [
+			[ "aplicaba" ],
+			[ "aplicabas" ],
+			[ "aplicaba" ],
+			[ "aplicábamos" ],
+			[ "aplicabais", "aplicaban" ],
+			[ "aplicaban" ]
+		],
+		"6" : [
+			[ "aplicaría" ],
+			[ "aplicarías" ],
+			[ "aplicaría" ],
+			[ "aplicaríamos" ],
+			[ "aplicaríais", "aplicarían" ],
+			[ "aplicarían" ]
+		],
+		"7" : [
+			[ "aplicaré" ],
+			[ "aplicarás" ],
+			[ "aplicará" ],
+			[ "aplicaremos" ],
+			[ "aplicaréis", "aplicarán" ],
+			[ "aplicarán" ]
+		],
+		"8" : [
+			[ "aplique" ],
+			[ "apliques" ],
+			[ "aplique" ],
+			[ "apliquemos" ],
+			[ "apliquéis", "apliquen" ],
+			[ "apliquen" ]
+		],
+		"9" : [
+			[ "aplicara" ],
+			[ "aplicaras" ],
+			[ "aplicara" ],
+			[ "aplicáramos" ],
+			[ "aplicarais", "aplicaran" ],
+			[ "aplicaran" ]
+		],
+		"10" : [
+			[ "aplicase" ],
+			[ "aplicases" ],
+			[ "aplicase" ],
+			[ "aplicásemos" ],
+			[ "aplicaseis", "aplicasen" ],
+			[ "aplicasen" ]
+		],
+		"11" : [
+			[ "aplicare" ],
+			[ "aplicares" ],
+			[ "aplicare" ],
+			[ "aplicáremos" ],
+			[ "aplicareis", "aplicaren" ],
+			[ "aplicaren" ]
+		],
+		"12" : {
+			"1" : [ "aplica" ],
+			"2" : [ "aplique" ],
+			"3" : [ "apliquemos" ],
+			"4" : [ "aplicad" ],
+			"5" : [ "apliquen" ]
+		}
+	}
+}

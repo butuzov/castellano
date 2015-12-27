@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=coquetear",
+	"word" : "coquetear",
+	"infinitivo" : "coquetear",
+	"participio" : [ "coqueteado" ],
+	"gerundio" : [ "coqueteando" ],
+	"tenses" : {
+		"3" : [
+			[ "coqueteo" ],
+			[ "coqueteas", "coqueteás" ],
+			[ "coquetea" ],
+			[ "coqueteamos" ],
+			[ "coqueteáis", "coquetean" ],
+			[ "coquetean" ]
+		],
+		"4" : [
+			[ "coqueteé" ],
+			[ "coqueteaste" ],
+			[ "coqueteó" ],
+			[ "coqueteamos" ],
+			[ "coqueteasteis", "coquetearon" ],
+			[ "coquetearon" ]
+		],
+		"5" : [
+			[ "coqueteaba" ],
+			[ "coqueteabas" ],
+			[ "coqueteaba" ],
+			[ "coqueteábamos" ],
+			[ "coqueteabais", "coqueteaban" ],
+			[ "coqueteaban" ]
+		],
+		"6" : [
+			[ "coquetearía" ],
+			[ "coquetearías" ],
+			[ "coquetearía" ],
+			[ "coquetearíamos" ],
+			[ "coquetearíais", "coquetearían" ],
+			[ "coquetearían" ]
+		],
+		"7" : [
+			[ "coquetearé" ],
+			[ "coquetearás" ],
+			[ "coqueteará" ],
+			[ "coquetearemos" ],
+			[ "coquetearéis", "coquetearán" ],
+			[ "coquetearán" ]
+		],
+		"8" : [
+			[ "coquetee" ],
+			[ "coquetees" ],
+			[ "coquetee" ],
+			[ "coqueteemos" ],
+			[ "coqueteéis", "coqueteen" ],
+			[ "coqueteen" ]
+		],
+		"9" : [
+			[ "coqueteara" ],
+			[ "coquetearas" ],
+			[ "coqueteara" ],
+			[ "coqueteáramos" ],
+			[ "coquetearais", "coquetearan" ],
+			[ "coquetearan" ]
+		],
+		"10" : [
+			[ "coquetease" ],
+			[ "coqueteases" ],
+			[ "coquetease" ],
+			[ "coqueteásemos" ],
+			[ "coqueteaseis", "coqueteasen" ],
+			[ "coqueteasen" ]
+		],
+		"11" : [
+			[ "coqueteare" ],
+			[ "coqueteares" ],
+			[ "coqueteare" ],
+			[ "coqueteáremos" ],
+			[ "coqueteareis", "coquetearen" ],
+			[ "coquetearen" ]
+		],
+		"12" : {
+			"1" : [ "coquetea" ],
+			"2" : [ "coquetee" ],
+			"3" : [ "coqueteemos" ],
+			"4" : [ "coquetead" ],
+			"5" : [ "coqueteen" ]
+		}
+	}
+}

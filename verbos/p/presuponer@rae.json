@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=presuponer",
+	"word" : "presuponer",
+	"infinitivo" : "presuponer",
+	"participio" : [ "presupuesto" ],
+	"gerundio" : [ "presuponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "presupongo" ],
+			[ "presupones", "presuponés" ],
+			[ "presupone" ],
+			[ "presuponemos" ],
+			[ "presuponéis", "presuponen" ],
+			[ "presuponen" ]
+		],
+		"4" : [
+			[ "presupuse" ],
+			[ "presupusiste" ],
+			[ "presupuso" ],
+			[ "presupusimos" ],
+			[ "presupusisteis", "presupusieron" ],
+			[ "presupusieron" ]
+		],
+		"5" : [
+			[ "presuponía" ],
+			[ "presuponías" ],
+			[ "presuponía" ],
+			[ "presuponíamos" ],
+			[ "presuponíais", "presuponían" ],
+			[ "presuponían" ]
+		],
+		"6" : [
+			[ "presupondría" ],
+			[ "presupondrías" ],
+			[ "presupondría" ],
+			[ "presupondríamos" ],
+			[ "presupondríais", "presupondrían" ],
+			[ "presupondrían" ]
+		],
+		"7" : [
+			[ "presupondré" ],
+			[ "presupondrás" ],
+			[ "presupondrá" ],
+			[ "presupondremos" ],
+			[ "presupondréis", "presupondrán" ],
+			[ "presupondrán" ]
+		],
+		"8" : [
+			[ "presuponga" ],
+			[ "presupongas" ],
+			[ "presuponga" ],
+			[ "presupongamos" ],
+			[ "presupongáis", "presupongan" ],
+			[ "presupongan" ]
+		],
+		"9" : [
+			[ "presupusiera" ],
+			[ "presupusieras" ],
+			[ "presupusiera" ],
+			[ "presupusiéramos" ],
+			[ "presupusierais", "presupusieran" ],
+			[ "presupusieran" ]
+		],
+		"10" : [
+			[ "presupusiese" ],
+			[ "presupusieses" ],
+			[ "presupusiese" ],
+			[ "presupusiésemos" ],
+			[ "presupusieseis", "presupusiesen" ],
+			[ "presupusiesen" ]
+		],
+		"11" : [
+			[ "presupusiere" ],
+			[ "presupusieres" ],
+			[ "presupusiere" ],
+			[ "presupusiéremos" ],
+			[ "presupusiereis", "presupusieren" ],
+			[ "presupusieren" ]
+		],
+		"12" : {
+			"1" : [ "presupón" ],
+			"2" : [ "presuponga" ],
+			"3" : [ "presupongamos" ],
+			"4" : [ "presuponed" ],
+			"5" : [ "presupongan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adquirir",
+	"word" : "adquirir",
+	"infinitivo" : "adquirir",
+	"participio" : [ "adquirido" ],
+	"gerundio" : [ "adquiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "adquiero" ],
+			[ "adquieres", "adquirís" ],
+			[ "adquiere" ],
+			[ "adquirimos" ],
+			[ "adquirís", "adquieren" ],
+			[ "adquieren" ]
+		],
+		"4" : [
+			[ "adquirí" ],
+			[ "adquiriste" ],
+			[ "adquirió" ],
+			[ "adquirimos" ],
+			[ "adquiristeis", "adquirieron" ],
+			[ "adquirieron" ]
+		],
+		"5" : [
+			[ "adquiría" ],
+			[ "adquirías" ],
+			[ "adquiría" ],
+			[ "adquiríamos" ],
+			[ "adquiríais", "adquirían" ],
+			[ "adquirían" ]
+		],
+		"6" : [
+			[ "adquiriría" ],
+			[ "adquirirías" ],
+			[ "adquiriría" ],
+			[ "adquiriríamos" ],
+			[ "adquiriríais", "adquirirían" ],
+			[ "adquirirían" ]
+		],
+		"7" : [
+			[ "adquiriré" ],
+			[ "adquirirás" ],
+			[ "adquirirá" ],
+			[ "adquiriremos" ],
+			[ "adquiriréis", "adquirirán" ],
+			[ "adquirirán" ]
+		],
+		"8" : [
+			[ "adquiera" ],
+			[ "adquieras" ],
+			[ "adquiera" ],
+			[ "adquiramos" ],
+			[ "adquiráis", "adquieran" ],
+			[ "adquieran" ]
+		],
+		"9" : [
+			[ "adquiriera" ],
+			[ "adquirieras" ],
+			[ "adquiriera" ],
+			[ "adquiriéramos" ],
+			[ "adquirierais", "adquirieran" ],
+			[ "adquirieran" ]
+		],
+		"10" : [
+			[ "adquiriese" ],
+			[ "adquirieses" ],
+			[ "adquiriese" ],
+			[ "adquiriésemos" ],
+			[ "adquirieseis", "adquiriesen" ],
+			[ "adquiriesen" ]
+		],
+		"11" : [
+			[ "adquiriere" ],
+			[ "adquirieres" ],
+			[ "adquiriere" ],
+			[ "adquiriéremos" ],
+			[ "adquiriereis", "adquirieren" ],
+			[ "adquirieren" ]
+		],
+		"12" : {
+			"1" : [ "adquiere" ],
+			"2" : [ "adquiera" ],
+			"3" : [ "adquiramos" ],
+			"4" : [ "adquirid" ],
+			"5" : [ "adquieran" ]
+		}
+	}
+}

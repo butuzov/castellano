@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descaminar",
+	"word" : "descaminar",
+	"infinitivo" : "descaminar",
+	"participio" : [ "descaminado" ],
+	"gerundio" : [ "descaminando" ],
+	"tenses" : {
+		"3" : [
+			[ "descamino" ],
+			[ "descaminas", "descaminás" ],
+			[ "descamina" ],
+			[ "descaminamos" ],
+			[ "descamináis", "descaminan" ],
+			[ "descaminan" ]
+		],
+		"4" : [
+			[ "descaminé" ],
+			[ "descaminaste" ],
+			[ "descaminó" ],
+			[ "descaminamos" ],
+			[ "descaminasteis", "descaminaron" ],
+			[ "descaminaron" ]
+		],
+		"5" : [
+			[ "descaminaba" ],
+			[ "descaminabas" ],
+			[ "descaminaba" ],
+			[ "descaminábamos" ],
+			[ "descaminabais", "descaminaban" ],
+			[ "descaminaban" ]
+		],
+		"6" : [
+			[ "descaminaría" ],
+			[ "descaminarías" ],
+			[ "descaminaría" ],
+			[ "descaminaríamos" ],
+			[ "descaminaríais", "descaminarían" ],
+			[ "descaminarían" ]
+		],
+		"7" : [
+			[ "descaminaré" ],
+			[ "descaminarás" ],
+			[ "descaminará" ],
+			[ "descaminaremos" ],
+			[ "descaminaréis", "descaminarán" ],
+			[ "descaminarán" ]
+		],
+		"8" : [
+			[ "descamine" ],
+			[ "descamines" ],
+			[ "descamine" ],
+			[ "descaminemos" ],
+			[ "descaminéis", "descaminen" ],
+			[ "descaminen" ]
+		],
+		"9" : [
+			[ "descaminara" ],
+			[ "descaminaras" ],
+			[ "descaminara" ],
+			[ "descamináramos" ],
+			[ "descaminarais", "descaminaran" ],
+			[ "descaminaran" ]
+		],
+		"10" : [
+			[ "descaminase" ],
+			[ "descaminases" ],
+			[ "descaminase" ],
+			[ "descaminásemos" ],
+			[ "descaminaseis", "descaminasen" ],
+			[ "descaminasen" ]
+		],
+		"11" : [
+			[ "descaminare" ],
+			[ "descaminares" ],
+			[ "descaminare" ],
+			[ "descamináremos" ],
+			[ "descaminareis", "descaminaren" ],
+			[ "descaminaren" ]
+		],
+		"12" : {
+			"1" : [ "descamina" ],
+			"2" : [ "descamine" ],
+			"3" : [ "descaminemos" ],
+			"4" : [ "descaminad" ],
+			"5" : [ "descaminen" ]
+		}
+	}
+}

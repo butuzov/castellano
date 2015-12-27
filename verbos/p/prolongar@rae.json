@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prolongar",
+	"word" : "prolongar",
+	"infinitivo" : "prolongar",
+	"participio" : [ "prolongado" ],
+	"gerundio" : [ "prolongando" ],
+	"tenses" : {
+		"3" : [
+			[ "prolongo" ],
+			[ "prolongas", "prolongás" ],
+			[ "prolonga" ],
+			[ "prolongamos" ],
+			[ "prolongáis", "prolongan" ],
+			[ "prolongan" ]
+		],
+		"4" : [
+			[ "prolongué" ],
+			[ "prolongaste" ],
+			[ "prolongó" ],
+			[ "prolongamos" ],
+			[ "prolongasteis", "prolongaron" ],
+			[ "prolongaron" ]
+		],
+		"5" : [
+			[ "prolongaba" ],
+			[ "prolongabas" ],
+			[ "prolongaba" ],
+			[ "prolongábamos" ],
+			[ "prolongabais", "prolongaban" ],
+			[ "prolongaban" ]
+		],
+		"6" : [
+			[ "prolongaría" ],
+			[ "prolongarías" ],
+			[ "prolongaría" ],
+			[ "prolongaríamos" ],
+			[ "prolongaríais", "prolongarían" ],
+			[ "prolongarían" ]
+		],
+		"7" : [
+			[ "prolongaré" ],
+			[ "prolongarás" ],
+			[ "prolongará" ],
+			[ "prolongaremos" ],
+			[ "prolongaréis", "prolongarán" ],
+			[ "prolongarán" ]
+		],
+		"8" : [
+			[ "prolongue" ],
+			[ "prolongues" ],
+			[ "prolongue" ],
+			[ "prolonguemos" ],
+			[ "prolonguéis", "prolonguen" ],
+			[ "prolonguen" ]
+		],
+		"9" : [
+			[ "prolongara" ],
+			[ "prolongaras" ],
+			[ "prolongara" ],
+			[ "prolongáramos" ],
+			[ "prolongarais", "prolongaran" ],
+			[ "prolongaran" ]
+		],
+		"10" : [
+			[ "prolongase" ],
+			[ "prolongases" ],
+			[ "prolongase" ],
+			[ "prolongásemos" ],
+			[ "prolongaseis", "prolongasen" ],
+			[ "prolongasen" ]
+		],
+		"11" : [
+			[ "prolongare" ],
+			[ "prolongares" ],
+			[ "prolongare" ],
+			[ "prolongáremos" ],
+			[ "prolongareis", "prolongaren" ],
+			[ "prolongaren" ]
+		],
+		"12" : {
+			"1" : [ "prolonga" ],
+			"2" : [ "prolongue" ],
+			"3" : [ "prolonguemos" ],
+			"4" : [ "prolongad" ],
+			"5" : [ "prolonguen" ]
+		}
+	}
+}

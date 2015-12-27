@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cavilar",
+	"word" : "cavilar",
+	"infinitivo" : "cavilar",
+	"participio" : [ "cavilado" ],
+	"gerundio" : [ "cavilando" ],
+	"tenses" : {
+		"3" : [
+			[ "cavilo" ],
+			[ "cavilas", "cavilás" ],
+			[ "cavila" ],
+			[ "cavilamos" ],
+			[ "caviláis", "cavilan" ],
+			[ "cavilan" ]
+		],
+		"4" : [
+			[ "cavilé" ],
+			[ "cavilaste" ],
+			[ "caviló" ],
+			[ "cavilamos" ],
+			[ "cavilasteis", "cavilaron" ],
+			[ "cavilaron" ]
+		],
+		"5" : [
+			[ "cavilaba" ],
+			[ "cavilabas" ],
+			[ "cavilaba" ],
+			[ "cavilábamos" ],
+			[ "cavilabais", "cavilaban" ],
+			[ "cavilaban" ]
+		],
+		"6" : [
+			[ "cavilaría" ],
+			[ "cavilarías" ],
+			[ "cavilaría" ],
+			[ "cavilaríamos" ],
+			[ "cavilaríais", "cavilarían" ],
+			[ "cavilarían" ]
+		],
+		"7" : [
+			[ "cavilaré" ],
+			[ "cavilarás" ],
+			[ "cavilará" ],
+			[ "cavilaremos" ],
+			[ "cavilaréis", "cavilarán" ],
+			[ "cavilarán" ]
+		],
+		"8" : [
+			[ "cavile" ],
+			[ "caviles" ],
+			[ "cavile" ],
+			[ "cavilemos" ],
+			[ "caviléis", "cavilen" ],
+			[ "cavilen" ]
+		],
+		"9" : [
+			[ "cavilara" ],
+			[ "cavilaras" ],
+			[ "cavilara" ],
+			[ "caviláramos" ],
+			[ "cavilarais", "cavilaran" ],
+			[ "cavilaran" ]
+		],
+		"10" : [
+			[ "cavilase" ],
+			[ "cavilases" ],
+			[ "cavilase" ],
+			[ "cavilásemos" ],
+			[ "cavilaseis", "cavilasen" ],
+			[ "cavilasen" ]
+		],
+		"11" : [
+			[ "cavilare" ],
+			[ "cavilares" ],
+			[ "cavilare" ],
+			[ "caviláremos" ],
+			[ "cavilareis", "cavilaren" ],
+			[ "cavilaren" ]
+		],
+		"12" : {
+			"1" : [ "cavila" ],
+			"2" : [ "cavile" ],
+			"3" : [ "cavilemos" ],
+			"4" : [ "cavilad" ],
+			"5" : [ "cavilen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=impregnar",
+	"word" : "impregnar",
+	"infinitivo" : "impregnar",
+	"participio" : [ "impregnado" ],
+	"gerundio" : [ "impregnando" ],
+	"tenses" : {
+		"3" : [
+			[ "impregno" ],
+			[ "impregnas", "impregnás" ],
+			[ "impregna" ],
+			[ "impregnamos" ],
+			[ "impregnáis", "impregnan" ],
+			[ "impregnan" ]
+		],
+		"4" : [
+			[ "impregné" ],
+			[ "impregnaste" ],
+			[ "impregnó" ],
+			[ "impregnamos" ],
+			[ "impregnasteis", "impregnaron" ],
+			[ "impregnaron" ]
+		],
+		"5" : [
+			[ "impregnaba" ],
+			[ "impregnabas" ],
+			[ "impregnaba" ],
+			[ "impregnábamos" ],
+			[ "impregnabais", "impregnaban" ],
+			[ "impregnaban" ]
+		],
+		"6" : [
+			[ "impregnaría" ],
+			[ "impregnarías" ],
+			[ "impregnaría" ],
+			[ "impregnaríamos" ],
+			[ "impregnaríais", "impregnarían" ],
+			[ "impregnarían" ]
+		],
+		"7" : [
+			[ "impregnaré" ],
+			[ "impregnarás" ],
+			[ "impregnará" ],
+			[ "impregnaremos" ],
+			[ "impregnaréis", "impregnarán" ],
+			[ "impregnarán" ]
+		],
+		"8" : [
+			[ "impregne" ],
+			[ "impregnes" ],
+			[ "impregne" ],
+			[ "impregnemos" ],
+			[ "impregnéis", "impregnen" ],
+			[ "impregnen" ]
+		],
+		"9" : [
+			[ "impregnara" ],
+			[ "impregnaras" ],
+			[ "impregnara" ],
+			[ "impregnáramos" ],
+			[ "impregnarais", "impregnaran" ],
+			[ "impregnaran" ]
+		],
+		"10" : [
+			[ "impregnase" ],
+			[ "impregnases" ],
+			[ "impregnase" ],
+			[ "impregnásemos" ],
+			[ "impregnaseis", "impregnasen" ],
+			[ "impregnasen" ]
+		],
+		"11" : [
+			[ "impregnare" ],
+			[ "impregnares" ],
+			[ "impregnare" ],
+			[ "impregnáremos" ],
+			[ "impregnareis", "impregnaren" ],
+			[ "impregnaren" ]
+		],
+		"12" : {
+			"1" : [ "impregna" ],
+			"2" : [ "impregne" ],
+			"3" : [ "impregnemos" ],
+			"4" : [ "impregnad" ],
+			"5" : [ "impregnen" ]
+		}
+	}
+}

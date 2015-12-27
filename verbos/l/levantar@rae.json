@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=levantar",
+	"word" : "levantar",
+	"infinitivo" : "levantar",
+	"participio" : [ "levantado" ],
+	"gerundio" : [ "levantando" ],
+	"tenses" : {
+		"3" : [
+			[ "levanto" ],
+			[ "levantas", "levantás" ],
+			[ "levanta" ],
+			[ "levantamos" ],
+			[ "levantáis", "levantan" ],
+			[ "levantan" ]
+		],
+		"4" : [
+			[ "levanté" ],
+			[ "levantaste" ],
+			[ "levantó" ],
+			[ "levantamos" ],
+			[ "levantasteis", "levantaron" ],
+			[ "levantaron" ]
+		],
+		"5" : [
+			[ "levantaba" ],
+			[ "levantabas" ],
+			[ "levantaba" ],
+			[ "levantábamos" ],
+			[ "levantabais", "levantaban" ],
+			[ "levantaban" ]
+		],
+		"6" : [
+			[ "levantaría" ],
+			[ "levantarías" ],
+			[ "levantaría" ],
+			[ "levantaríamos" ],
+			[ "levantaríais", "levantarían" ],
+			[ "levantarían" ]
+		],
+		"7" : [
+			[ "levantaré" ],
+			[ "levantarás" ],
+			[ "levantará" ],
+			[ "levantaremos" ],
+			[ "levantaréis", "levantarán" ],
+			[ "levantarán" ]
+		],
+		"8" : [
+			[ "levante" ],
+			[ "levantes" ],
+			[ "levante" ],
+			[ "levantemos" ],
+			[ "levantéis", "levanten" ],
+			[ "levanten" ]
+		],
+		"9" : [
+			[ "levantara" ],
+			[ "levantaras" ],
+			[ "levantara" ],
+			[ "levantáramos" ],
+			[ "levantarais", "levantaran" ],
+			[ "levantaran" ]
+		],
+		"10" : [
+			[ "levantase" ],
+			[ "levantases" ],
+			[ "levantase" ],
+			[ "levantásemos" ],
+			[ "levantaseis", "levantasen" ],
+			[ "levantasen" ]
+		],
+		"11" : [
+			[ "levantare" ],
+			[ "levantares" ],
+			[ "levantare" ],
+			[ "levantáremos" ],
+			[ "levantareis", "levantaren" ],
+			[ "levantaren" ]
+		],
+		"12" : {
+			"1" : [ "levanta" ],
+			"2" : [ "levante" ],
+			"3" : [ "levantemos" ],
+			"4" : [ "levantad" ],
+			"5" : [ "levanten" ]
+		}
+	}
+}

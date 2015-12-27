@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=capitular",
+	"word" : "capitular",
+	"infinitivo" : "capitular",
+	"participio" : [ "capitulado" ],
+	"gerundio" : [ "capitulando" ],
+	"tenses" : {
+		"3" : [
+			[ "capitulo" ],
+			[ "capitulas", "capitulás" ],
+			[ "capitula" ],
+			[ "capitulamos" ],
+			[ "capituláis", "capitulan" ],
+			[ "capitulan" ]
+		],
+		"4" : [
+			[ "capitulé" ],
+			[ "capitulaste" ],
+			[ "capituló" ],
+			[ "capitulamos" ],
+			[ "capitulasteis", "capitularon" ],
+			[ "capitularon" ]
+		],
+		"5" : [
+			[ "capitulaba" ],
+			[ "capitulabas" ],
+			[ "capitulaba" ],
+			[ "capitulábamos" ],
+			[ "capitulabais", "capitulaban" ],
+			[ "capitulaban" ]
+		],
+		"6" : [
+			[ "capitularía" ],
+			[ "capitularías" ],
+			[ "capitularía" ],
+			[ "capitularíamos" ],
+			[ "capitularíais", "capitularían" ],
+			[ "capitularían" ]
+		],
+		"7" : [
+			[ "capitularé" ],
+			[ "capitularás" ],
+			[ "capitulará" ],
+			[ "capitularemos" ],
+			[ "capitularéis", "capitularán" ],
+			[ "capitularán" ]
+		],
+		"8" : [
+			[ "capitule" ],
+			[ "capitules" ],
+			[ "capitule" ],
+			[ "capitulemos" ],
+			[ "capituléis", "capitulen" ],
+			[ "capitulen" ]
+		],
+		"9" : [
+			[ "capitulara" ],
+			[ "capitularas" ],
+			[ "capitulara" ],
+			[ "capituláramos" ],
+			[ "capitularais", "capitularan" ],
+			[ "capitularan" ]
+		],
+		"10" : [
+			[ "capitulase" ],
+			[ "capitulases" ],
+			[ "capitulase" ],
+			[ "capitulásemos" ],
+			[ "capitulaseis", "capitulasen" ],
+			[ "capitulasen" ]
+		],
+		"11" : [
+			[ "capitulare" ],
+			[ "capitulares" ],
+			[ "capitulare" ],
+			[ "capituláremos" ],
+			[ "capitulareis", "capitularen" ],
+			[ "capitularen" ]
+		],
+		"12" : {
+			"1" : [ "capitula" ],
+			"2" : [ "capitule" ],
+			"3" : [ "capitulemos" ],
+			"4" : [ "capitulad" ],
+			"5" : [ "capitulen" ]
+		}
+	}
+}

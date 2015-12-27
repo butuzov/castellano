@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reventar",
+	"word" : "reventar",
+	"infinitivo" : "reventar",
+	"participio" : [ "reventado" ],
+	"gerundio" : [ "reventando" ],
+	"tenses" : {
+		"3" : [
+			[ "reviento" ],
+			[ "revientas", "reventás" ],
+			[ "revienta" ],
+			[ "reventamos" ],
+			[ "reventáis", "revientan" ],
+			[ "revientan" ]
+		],
+		"4" : [
+			[ "reventé" ],
+			[ "reventaste" ],
+			[ "reventó" ],
+			[ "reventamos" ],
+			[ "reventasteis", "reventaron" ],
+			[ "reventaron" ]
+		],
+		"5" : [
+			[ "reventaba" ],
+			[ "reventabas" ],
+			[ "reventaba" ],
+			[ "reventábamos" ],
+			[ "reventabais", "reventaban" ],
+			[ "reventaban" ]
+		],
+		"6" : [
+			[ "reventaría" ],
+			[ "reventarías" ],
+			[ "reventaría" ],
+			[ "reventaríamos" ],
+			[ "reventaríais", "reventarían" ],
+			[ "reventarían" ]
+		],
+		"7" : [
+			[ "reventaré" ],
+			[ "reventarás" ],
+			[ "reventará" ],
+			[ "reventaremos" ],
+			[ "reventaréis", "reventarán" ],
+			[ "reventarán" ]
+		],
+		"8" : [
+			[ "reviente" ],
+			[ "revientes" ],
+			[ "reviente" ],
+			[ "reventemos" ],
+			[ "reventéis", "revienten" ],
+			[ "revienten" ]
+		],
+		"9" : [
+			[ "reventara" ],
+			[ "reventaras" ],
+			[ "reventara" ],
+			[ "reventáramos" ],
+			[ "reventarais", "reventaran" ],
+			[ "reventaran" ]
+		],
+		"10" : [
+			[ "reventase" ],
+			[ "reventases" ],
+			[ "reventase" ],
+			[ "reventásemos" ],
+			[ "reventaseis", "reventasen" ],
+			[ "reventasen" ]
+		],
+		"11" : [
+			[ "reventare" ],
+			[ "reventares" ],
+			[ "reventare" ],
+			[ "reventáremos" ],
+			[ "reventareis", "reventaren" ],
+			[ "reventaren" ]
+		],
+		"12" : {
+			"1" : [ "revienta" ],
+			"2" : [ "reviente" ],
+			"3" : [ "reventemos" ],
+			"4" : [ "reventad" ],
+			"5" : [ "revienten" ]
+		}
+	}
+}

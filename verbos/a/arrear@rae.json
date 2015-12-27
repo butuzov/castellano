@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrear",
+	"word" : "arrear",
+	"infinitivo" : "arrear",
+	"participio" : [ "arreado" ],
+	"gerundio" : [ "arreando" ],
+	"tenses" : {
+		"3" : [
+			[ "arreo" ],
+			[ "arreas", "arreás" ],
+			[ "arrea" ],
+			[ "arreamos" ],
+			[ "arreáis", "arrean" ],
+			[ "arrean" ]
+		],
+		"4" : [
+			[ "arreé" ],
+			[ "arreaste" ],
+			[ "arreó" ],
+			[ "arreamos" ],
+			[ "arreasteis", "arrearon" ],
+			[ "arrearon" ]
+		],
+		"5" : [
+			[ "arreaba" ],
+			[ "arreabas" ],
+			[ "arreaba" ],
+			[ "arreábamos" ],
+			[ "arreabais", "arreaban" ],
+			[ "arreaban" ]
+		],
+		"6" : [
+			[ "arrearía" ],
+			[ "arrearías" ],
+			[ "arrearía" ],
+			[ "arrearíamos" ],
+			[ "arrearíais", "arrearían" ],
+			[ "arrearían" ]
+		],
+		"7" : [
+			[ "arrearé" ],
+			[ "arrearás" ],
+			[ "arreará" ],
+			[ "arrearemos" ],
+			[ "arrearéis", "arrearán" ],
+			[ "arrearán" ]
+		],
+		"8" : [
+			[ "arree" ],
+			[ "arrees" ],
+			[ "arree" ],
+			[ "arreemos" ],
+			[ "arreéis", "arreen" ],
+			[ "arreen" ]
+		],
+		"9" : [
+			[ "arreara" ],
+			[ "arrearas" ],
+			[ "arreara" ],
+			[ "arreáramos" ],
+			[ "arrearais", "arrearan" ],
+			[ "arrearan" ]
+		],
+		"10" : [
+			[ "arrease" ],
+			[ "arreases" ],
+			[ "arrease" ],
+			[ "arreásemos" ],
+			[ "arreaseis", "arreasen" ],
+			[ "arreasen" ]
+		],
+		"11" : [
+			[ "arreare" ],
+			[ "arreares" ],
+			[ "arreare" ],
+			[ "arreáremos" ],
+			[ "arreareis", "arrearen" ],
+			[ "arrearen" ]
+		],
+		"12" : {
+			"1" : [ "arrea" ],
+			"2" : [ "arree" ],
+			"3" : [ "arreemos" ],
+			"4" : [ "arread" ],
+			"5" : [ "arreen" ]
+		}
+	}
+}

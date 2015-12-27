@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ecualizar",
+	"word" : "ecualizar",
+	"infinitivo" : "ecualizar",
+	"participio" : [ "ecualizado" ],
+	"gerundio" : [ "ecualizando" ],
+	"tenses" : {
+		"3" : [
+			[ "ecualizo" ],
+			[ "ecualizas", "ecualizás" ],
+			[ "ecualiza" ],
+			[ "ecualizamos" ],
+			[ "ecualizáis", "ecualizan" ],
+			[ "ecualizan" ]
+		],
+		"4" : [
+			[ "ecualicé" ],
+			[ "ecualizaste" ],
+			[ "ecualizó" ],
+			[ "ecualizamos" ],
+			[ "ecualizasteis", "ecualizaron" ],
+			[ "ecualizaron" ]
+		],
+		"5" : [
+			[ "ecualizaba" ],
+			[ "ecualizabas" ],
+			[ "ecualizaba" ],
+			[ "ecualizábamos" ],
+			[ "ecualizabais", "ecualizaban" ],
+			[ "ecualizaban" ]
+		],
+		"6" : [
+			[ "ecualizaría" ],
+			[ "ecualizarías" ],
+			[ "ecualizaría" ],
+			[ "ecualizaríamos" ],
+			[ "ecualizaríais", "ecualizarían" ],
+			[ "ecualizarían" ]
+		],
+		"7" : [
+			[ "ecualizaré" ],
+			[ "ecualizarás" ],
+			[ "ecualizará" ],
+			[ "ecualizaremos" ],
+			[ "ecualizaréis", "ecualizarán" ],
+			[ "ecualizarán" ]
+		],
+		"8" : [
+			[ "ecualice" ],
+			[ "ecualices" ],
+			[ "ecualice" ],
+			[ "ecualicemos" ],
+			[ "ecualicéis", "ecualicen" ],
+			[ "ecualicen" ]
+		],
+		"9" : [
+			[ "ecualizara" ],
+			[ "ecualizaras" ],
+			[ "ecualizara" ],
+			[ "ecualizáramos" ],
+			[ "ecualizarais", "ecualizaran" ],
+			[ "ecualizaran" ]
+		],
+		"10" : [
+			[ "ecualizase" ],
+			[ "ecualizases" ],
+			[ "ecualizase" ],
+			[ "ecualizásemos" ],
+			[ "ecualizaseis", "ecualizasen" ],
+			[ "ecualizasen" ]
+		],
+		"11" : [
+			[ "ecualizare" ],
+			[ "ecualizares" ],
+			[ "ecualizare" ],
+			[ "ecualizáremos" ],
+			[ "ecualizareis", "ecualizaren" ],
+			[ "ecualizaren" ]
+		],
+		"12" : {
+			"1" : [ "ecualiza" ],
+			"2" : [ "ecualice" ],
+			"3" : [ "ecualicemos" ],
+			"4" : [ "ecualizad" ],
+			"5" : [ "ecualicen" ]
+		}
+	}
+}

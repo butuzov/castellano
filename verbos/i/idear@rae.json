@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=idear",
+	"word" : "idear",
+	"infinitivo" : "idear",
+	"participio" : [ "ideado" ],
+	"gerundio" : [ "ideando" ],
+	"tenses" : {
+		"3" : [
+			[ "ideo" ],
+			[ "ideas", "ideás" ],
+			[ "idea" ],
+			[ "ideamos" ],
+			[ "ideáis", "idean" ],
+			[ "idean" ]
+		],
+		"4" : [
+			[ "ideé" ],
+			[ "ideaste" ],
+			[ "ideó" ],
+			[ "ideamos" ],
+			[ "ideasteis", "idearon" ],
+			[ "idearon" ]
+		],
+		"5" : [
+			[ "ideaba" ],
+			[ "ideabas" ],
+			[ "ideaba" ],
+			[ "ideábamos" ],
+			[ "ideabais", "ideaban" ],
+			[ "ideaban" ]
+		],
+		"6" : [
+			[ "idearía" ],
+			[ "idearías" ],
+			[ "idearía" ],
+			[ "idearíamos" ],
+			[ "idearíais", "idearían" ],
+			[ "idearían" ]
+		],
+		"7" : [
+			[ "idearé" ],
+			[ "idearás" ],
+			[ "ideará" ],
+			[ "idearemos" ],
+			[ "idearéis", "idearán" ],
+			[ "idearán" ]
+		],
+		"8" : [
+			[ "idee" ],
+			[ "idees" ],
+			[ "idee" ],
+			[ "ideemos" ],
+			[ "ideéis", "ideen" ],
+			[ "ideen" ]
+		],
+		"9" : [
+			[ "ideara" ],
+			[ "idearas" ],
+			[ "ideara" ],
+			[ "ideáramos" ],
+			[ "idearais", "idearan" ],
+			[ "idearan" ]
+		],
+		"10" : [
+			[ "idease" ],
+			[ "ideases" ],
+			[ "idease" ],
+			[ "ideásemos" ],
+			[ "ideaseis", "ideasen" ],
+			[ "ideasen" ]
+		],
+		"11" : [
+			[ "ideare" ],
+			[ "ideares" ],
+			[ "ideare" ],
+			[ "ideáremos" ],
+			[ "ideareis", "idearen" ],
+			[ "idearen" ]
+		],
+		"12" : {
+			"1" : [ "idea" ],
+			"2" : [ "idee" ],
+			"3" : [ "ideemos" ],
+			"4" : [ "idead" ],
+			"5" : [ "ideen" ]
+		}
+	}
+}

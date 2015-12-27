@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=indagar",
+	"word" : "indagar",
+	"infinitivo" : "indagar",
+	"participio" : [ "indagado" ],
+	"gerundio" : [ "indagando" ],
+	"tenses" : {
+		"3" : [
+			[ "indago" ],
+			[ "indagas", "indagás" ],
+			[ "indaga" ],
+			[ "indagamos" ],
+			[ "indagáis", "indagan" ],
+			[ "indagan" ]
+		],
+		"4" : [
+			[ "indagué" ],
+			[ "indagaste" ],
+			[ "indagó" ],
+			[ "indagamos" ],
+			[ "indagasteis", "indagaron" ],
+			[ "indagaron" ]
+		],
+		"5" : [
+			[ "indagaba" ],
+			[ "indagabas" ],
+			[ "indagaba" ],
+			[ "indagábamos" ],
+			[ "indagabais", "indagaban" ],
+			[ "indagaban" ]
+		],
+		"6" : [
+			[ "indagaría" ],
+			[ "indagarías" ],
+			[ "indagaría" ],
+			[ "indagaríamos" ],
+			[ "indagaríais", "indagarían" ],
+			[ "indagarían" ]
+		],
+		"7" : [
+			[ "indagaré" ],
+			[ "indagarás" ],
+			[ "indagará" ],
+			[ "indagaremos" ],
+			[ "indagaréis", "indagarán" ],
+			[ "indagarán" ]
+		],
+		"8" : [
+			[ "indague" ],
+			[ "indagues" ],
+			[ "indague" ],
+			[ "indaguemos" ],
+			[ "indaguéis", "indaguen" ],
+			[ "indaguen" ]
+		],
+		"9" : [
+			[ "indagara" ],
+			[ "indagaras" ],
+			[ "indagara" ],
+			[ "indagáramos" ],
+			[ "indagarais", "indagaran" ],
+			[ "indagaran" ]
+		],
+		"10" : [
+			[ "indagase" ],
+			[ "indagases" ],
+			[ "indagase" ],
+			[ "indagásemos" ],
+			[ "indagaseis", "indagasen" ],
+			[ "indagasen" ]
+		],
+		"11" : [
+			[ "indagare" ],
+			[ "indagares" ],
+			[ "indagare" ],
+			[ "indagáremos" ],
+			[ "indagareis", "indagaren" ],
+			[ "indagaren" ]
+		],
+		"12" : {
+			"1" : [ "indaga" ],
+			"2" : [ "indague" ],
+			"3" : [ "indaguemos" ],
+			"4" : [ "indagad" ],
+			"5" : [ "indaguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atorar",
+	"word" : "atorar",
+	"infinitivo" : "atorar",
+	"participio" : [ "atorado" ],
+	"gerundio" : [ "atorando" ],
+	"tenses" : {
+		"3" : [
+			[ "atoro" ],
+			[ "atoras", "atorás" ],
+			[ "atora" ],
+			[ "atoramos" ],
+			[ "atoráis", "atoran" ],
+			[ "atoran" ]
+		],
+		"4" : [
+			[ "atoré" ],
+			[ "atoraste" ],
+			[ "atoró" ],
+			[ "atoramos" ],
+			[ "atorasteis", "atoraron" ],
+			[ "atoraron" ]
+		],
+		"5" : [
+			[ "atoraba" ],
+			[ "atorabas" ],
+			[ "atoraba" ],
+			[ "atorábamos" ],
+			[ "atorabais", "atoraban" ],
+			[ "atoraban" ]
+		],
+		"6" : [
+			[ "atoraría" ],
+			[ "atorarías" ],
+			[ "atoraría" ],
+			[ "atoraríamos" ],
+			[ "atoraríais", "atorarían" ],
+			[ "atorarían" ]
+		],
+		"7" : [
+			[ "atoraré" ],
+			[ "atorarás" ],
+			[ "atorará" ],
+			[ "atoraremos" ],
+			[ "atoraréis", "atorarán" ],
+			[ "atorarán" ]
+		],
+		"8" : [
+			[ "atore" ],
+			[ "atores" ],
+			[ "atore" ],
+			[ "atoremos" ],
+			[ "atoréis", "atoren" ],
+			[ "atoren" ]
+		],
+		"9" : [
+			[ "atorara" ],
+			[ "atoraras" ],
+			[ "atorara" ],
+			[ "atoráramos" ],
+			[ "atorarais", "atoraran" ],
+			[ "atoraran" ]
+		],
+		"10" : [
+			[ "atorase" ],
+			[ "atorases" ],
+			[ "atorase" ],
+			[ "atorásemos" ],
+			[ "atoraseis", "atorasen" ],
+			[ "atorasen" ]
+		],
+		"11" : [
+			[ "atorare" ],
+			[ "atorares" ],
+			[ "atorare" ],
+			[ "atoráremos" ],
+			[ "atorareis", "atoraren" ],
+			[ "atoraren" ]
+		],
+		"12" : {
+			"1" : [ "atora" ],
+			"2" : [ "atore" ],
+			"3" : [ "atoremos" ],
+			"4" : [ "atorad" ],
+			"5" : [ "atoren" ]
+		}
+	}
+}

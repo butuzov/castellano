@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enviar",
+	"word" : "enviar",
+	"infinitivo" : "enviar",
+	"participio" : [ "enviado" ],
+	"gerundio" : [ "enviando" ],
+	"tenses" : {
+		"3" : [
+			[ "envío" ],
+			[ "envías", "enviás" ],
+			[ "envía" ],
+			[ "enviamos" ],
+			[ "enviáis", "envían" ],
+			[ "envían" ]
+		],
+		"4" : [
+			[ "envié" ],
+			[ "enviaste" ],
+			[ "envió" ],
+			[ "enviamos" ],
+			[ "enviasteis", "enviaron" ],
+			[ "enviaron" ]
+		],
+		"5" : [
+			[ "enviaba" ],
+			[ "enviabas" ],
+			[ "enviaba" ],
+			[ "enviábamos" ],
+			[ "enviabais", "enviaban" ],
+			[ "enviaban" ]
+		],
+		"6" : [
+			[ "enviaría" ],
+			[ "enviarías" ],
+			[ "enviaría" ],
+			[ "enviaríamos" ],
+			[ "enviaríais", "enviarían" ],
+			[ "enviarían" ]
+		],
+		"7" : [
+			[ "enviaré" ],
+			[ "enviarás" ],
+			[ "enviará" ],
+			[ "enviaremos" ],
+			[ "enviaréis", "enviarán" ],
+			[ "enviarán" ]
+		],
+		"8" : [
+			[ "envíe" ],
+			[ "envíes" ],
+			[ "envíe" ],
+			[ "enviemos" ],
+			[ "enviéis", "envíen" ],
+			[ "envíen" ]
+		],
+		"9" : [
+			[ "enviara" ],
+			[ "enviaras" ],
+			[ "enviara" ],
+			[ "enviáramos" ],
+			[ "enviarais", "enviaran" ],
+			[ "enviaran" ]
+		],
+		"10" : [
+			[ "enviase" ],
+			[ "enviases" ],
+			[ "enviase" ],
+			[ "enviásemos" ],
+			[ "enviaseis", "enviasen" ],
+			[ "enviasen" ]
+		],
+		"11" : [
+			[ "enviare" ],
+			[ "enviares" ],
+			[ "enviare" ],
+			[ "enviáremos" ],
+			[ "enviareis", "enviaren" ],
+			[ "enviaren" ]
+		],
+		"12" : {
+			"1" : [ "envía" ],
+			"2" : [ "envíe" ],
+			"3" : [ "enviemos" ],
+			"4" : [ "enviad" ],
+			"5" : [ "envíen" ]
+		}
+	}
+}

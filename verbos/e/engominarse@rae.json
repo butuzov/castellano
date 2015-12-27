@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=engominarse",
+	"word" : "engominarse",
+	"infinitivo" : "engominarse",
+	"participio" : [ "engominado" ],
+	"gerundio" : [ "engominándome", "engominándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me engomino" ],
+			[ "te engominas", "te engominás" ],
+			[ "se engomina" ],
+			[ "nos engominamos" ],
+			[ "os engomináis", "se engominan" ],
+			[ "se engominan" ]
+		],
+		"4" : [
+			[ "me engominé" ],
+			[ "te engominaste" ],
+			[ "se engominó" ],
+			[ "nos engominamos" ],
+			[ "os engominasteis", "se engominaron" ],
+			[ "se engominaron" ]
+		],
+		"5" : [
+			[ "me engominaba" ],
+			[ "te engominabas" ],
+			[ "se engominaba" ],
+			[ "nos engominábamos" ],
+			[ "os engominabais", "se engominaban" ],
+			[ "se engominaban" ]
+		],
+		"6" : [
+			[ "me engominaría" ],
+			[ "te engominarías" ],
+			[ "se engominaría" ],
+			[ "nos engominaríamos" ],
+			[ "os engominaríais", "se engominarían" ],
+			[ "se engominarían" ]
+		],
+		"7" : [
+			[ "me engominaré" ],
+			[ "te engominarás" ],
+			[ "se engominará" ],
+			[ "nos engominaremos" ],
+			[ "os engominaréis", "se engominarán" ],
+			[ "se engominarán" ]
+		],
+		"8" : [
+			[ "me engomine" ],
+			[ "te engomines" ],
+			[ "se engomine" ],
+			[ "nos engominemos" ],
+			[ "os engominéis", "se engominen" ],
+			[ "se engominen" ]
+		],
+		"9" : [
+			[ "me engominara" ],
+			[ "te engominaras" ],
+			[ "se engominara" ],
+			[ "nos engomináramos" ],
+			[ "os engominarais", "se engominaran" ],
+			[ "se engominaran" ]
+		],
+		"10" : [
+			[ "me engominase" ],
+			[ "te engominases" ],
+			[ "se engominase" ],
+			[ "nos engominásemos" ],
+			[ "os engominaseis", "se engominasen" ],
+			[ "se engominasen" ]
+		],
+		"11" : [
+			[ "me engominare" ],
+			[ "te engominares" ],
+			[ "se engominare" ],
+			[ "nos engomináremos" ],
+			[ "os engominareis", "se engominaren" ],
+			[ "se engominaren" ]
+		],
+		"12" : {
+			"1" : [ "engomínate" ],
+			"2" : [ "engomine" ],
+			"3" : [ "engominemos" ],
+			"4" : [ "engominaos" ],
+			"5" : [ "engomínense" ]
+		}
+	}
+}

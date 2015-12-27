@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desintegrar",
+	"word" : "desintegrar",
+	"infinitivo" : "desintegrar",
+	"participio" : [ "desintegrado" ],
+	"gerundio" : [ "desintegrando" ],
+	"tenses" : {
+		"3" : [
+			[ "desintegro" ],
+			[ "desintegras", "desintegrás" ],
+			[ "desintegra" ],
+			[ "desintegramos" ],
+			[ "desintegráis", "desintegran" ],
+			[ "desintegran" ]
+		],
+		"4" : [
+			[ "desintegré" ],
+			[ "desintegraste" ],
+			[ "desintegró" ],
+			[ "desintegramos" ],
+			[ "desintegrasteis", "desintegraron" ],
+			[ "desintegraron" ]
+		],
+		"5" : [
+			[ "desintegraba" ],
+			[ "desintegrabas" ],
+			[ "desintegraba" ],
+			[ "desintegrábamos" ],
+			[ "desintegrabais", "desintegraban" ],
+			[ "desintegraban" ]
+		],
+		"6" : [
+			[ "desintegraría" ],
+			[ "desintegrarías" ],
+			[ "desintegraría" ],
+			[ "desintegraríamos" ],
+			[ "desintegraríais", "desintegrarían" ],
+			[ "desintegrarían" ]
+		],
+		"7" : [
+			[ "desintegraré" ],
+			[ "desintegrarás" ],
+			[ "desintegrará" ],
+			[ "desintegraremos" ],
+			[ "desintegraréis", "desintegrarán" ],
+			[ "desintegrarán" ]
+		],
+		"8" : [
+			[ "desintegre" ],
+			[ "desintegres" ],
+			[ "desintegre" ],
+			[ "desintegremos" ],
+			[ "desintegréis", "desintegren" ],
+			[ "desintegren" ]
+		],
+		"9" : [
+			[ "desintegrara" ],
+			[ "desintegraras" ],
+			[ "desintegrara" ],
+			[ "desintegráramos" ],
+			[ "desintegrarais", "desintegraran" ],
+			[ "desintegraran" ]
+		],
+		"10" : [
+			[ "desintegrase" ],
+			[ "desintegrases" ],
+			[ "desintegrase" ],
+			[ "desintegrásemos" ],
+			[ "desintegraseis", "desintegrasen" ],
+			[ "desintegrasen" ]
+		],
+		"11" : [
+			[ "desintegrare" ],
+			[ "desintegrares" ],
+			[ "desintegrare" ],
+			[ "desintegráremos" ],
+			[ "desintegrareis", "desintegraren" ],
+			[ "desintegraren" ]
+		],
+		"12" : {
+			"1" : [ "desintegra" ],
+			"2" : [ "desintegre" ],
+			"3" : [ "desintegremos" ],
+			"4" : [ "desintegrad" ],
+			"5" : [ "desintegren" ]
+		}
+	}
+}

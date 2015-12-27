@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pronosticar",
+	"word" : "pronosticar",
+	"infinitivo" : "pronosticar",
+	"participio" : [ "pronosticado" ],
+	"gerundio" : [ "pronosticando" ],
+	"tenses" : {
+		"3" : [
+			[ "pronostico" ],
+			[ "pronosticas", "pronosticás" ],
+			[ "pronostica" ],
+			[ "pronosticamos" ],
+			[ "pronosticáis", "pronostican" ],
+			[ "pronostican" ]
+		],
+		"4" : [
+			[ "pronostiqué" ],
+			[ "pronosticaste" ],
+			[ "pronosticó" ],
+			[ "pronosticamos" ],
+			[ "pronosticasteis", "pronosticaron" ],
+			[ "pronosticaron" ]
+		],
+		"5" : [
+			[ "pronosticaba" ],
+			[ "pronosticabas" ],
+			[ "pronosticaba" ],
+			[ "pronosticábamos" ],
+			[ "pronosticabais", "pronosticaban" ],
+			[ "pronosticaban" ]
+		],
+		"6" : [
+			[ "pronosticaría" ],
+			[ "pronosticarías" ],
+			[ "pronosticaría" ],
+			[ "pronosticaríamos" ],
+			[ "pronosticaríais", "pronosticarían" ],
+			[ "pronosticarían" ]
+		],
+		"7" : [
+			[ "pronosticaré" ],
+			[ "pronosticarás" ],
+			[ "pronosticará" ],
+			[ "pronosticaremos" ],
+			[ "pronosticaréis", "pronosticarán" ],
+			[ "pronosticarán" ]
+		],
+		"8" : [
+			[ "pronostique" ],
+			[ "pronostiques" ],
+			[ "pronostique" ],
+			[ "pronostiquemos" ],
+			[ "pronostiquéis", "pronostiquen" ],
+			[ "pronostiquen" ]
+		],
+		"9" : [
+			[ "pronosticara" ],
+			[ "pronosticaras" ],
+			[ "pronosticara" ],
+			[ "pronosticáramos" ],
+			[ "pronosticarais", "pronosticaran" ],
+			[ "pronosticaran" ]
+		],
+		"10" : [
+			[ "pronosticase" ],
+			[ "pronosticases" ],
+			[ "pronosticase" ],
+			[ "pronosticásemos" ],
+			[ "pronosticaseis", "pronosticasen" ],
+			[ "pronosticasen" ]
+		],
+		"11" : [
+			[ "pronosticare" ],
+			[ "pronosticares" ],
+			[ "pronosticare" ],
+			[ "pronosticáremos" ],
+			[ "pronosticareis", "pronosticaren" ],
+			[ "pronosticaren" ]
+		],
+		"12" : {
+			"1" : [ "pronostica" ],
+			"2" : [ "pronostique" ],
+			"3" : [ "pronostiquemos" ],
+			"4" : [ "pronosticad" ],
+			"5" : [ "pronostiquen" ]
+		}
+	}
+}

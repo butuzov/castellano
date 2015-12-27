@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aliviar",
+	"word" : "aliviar",
+	"infinitivo" : "aliviar",
+	"participio" : [ "aliviado" ],
+	"gerundio" : [ "aliviando" ],
+	"tenses" : {
+		"3" : [
+			[ "alivio" ],
+			[ "alivias", "aliviás" ],
+			[ "alivia" ],
+			[ "aliviamos" ],
+			[ "aliviáis", "alivian" ],
+			[ "alivian" ]
+		],
+		"4" : [
+			[ "alivié" ],
+			[ "aliviaste" ],
+			[ "alivió" ],
+			[ "aliviamos" ],
+			[ "aliviasteis", "aliviaron" ],
+			[ "aliviaron" ]
+		],
+		"5" : [
+			[ "aliviaba" ],
+			[ "aliviabas" ],
+			[ "aliviaba" ],
+			[ "aliviábamos" ],
+			[ "aliviabais", "aliviaban" ],
+			[ "aliviaban" ]
+		],
+		"6" : [
+			[ "aliviaría" ],
+			[ "aliviarías" ],
+			[ "aliviaría" ],
+			[ "aliviaríamos" ],
+			[ "aliviaríais", "aliviarían" ],
+			[ "aliviarían" ]
+		],
+		"7" : [
+			[ "aliviaré" ],
+			[ "aliviarás" ],
+			[ "aliviará" ],
+			[ "aliviaremos" ],
+			[ "aliviaréis", "aliviarán" ],
+			[ "aliviarán" ]
+		],
+		"8" : [
+			[ "alivie" ],
+			[ "alivies" ],
+			[ "alivie" ],
+			[ "aliviemos" ],
+			[ "aliviéis", "alivien" ],
+			[ "alivien" ]
+		],
+		"9" : [
+			[ "aliviara" ],
+			[ "aliviaras" ],
+			[ "aliviara" ],
+			[ "aliviáramos" ],
+			[ "aliviarais", "aliviaran" ],
+			[ "aliviaran" ]
+		],
+		"10" : [
+			[ "aliviase" ],
+			[ "aliviases" ],
+			[ "aliviase" ],
+			[ "aliviásemos" ],
+			[ "aliviaseis", "aliviasen" ],
+			[ "aliviasen" ]
+		],
+		"11" : [
+			[ "aliviare" ],
+			[ "aliviares" ],
+			[ "aliviare" ],
+			[ "aliviáremos" ],
+			[ "aliviareis", "aliviaren" ],
+			[ "aliviaren" ]
+		],
+		"12" : {
+			"1" : [ "alivia" ],
+			"2" : [ "alivie" ],
+			"3" : [ "aliviemos" ],
+			"4" : [ "aliviad" ],
+			"5" : [ "alivien" ]
+		}
+	}
+}

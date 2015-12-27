@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entrenar",
+	"word" : "entrenar",
+	"infinitivo" : "entrenar",
+	"participio" : [ "entrenado" ],
+	"gerundio" : [ "entrenando" ],
+	"tenses" : {
+		"3" : [
+			[ "entreno" ],
+			[ "entrenas", "entrenás" ],
+			[ "entrena" ],
+			[ "entrenamos" ],
+			[ "entrenáis", "entrenan" ],
+			[ "entrenan" ]
+		],
+		"4" : [
+			[ "entrené" ],
+			[ "entrenaste" ],
+			[ "entrenó" ],
+			[ "entrenamos" ],
+			[ "entrenasteis", "entrenaron" ],
+			[ "entrenaron" ]
+		],
+		"5" : [
+			[ "entrenaba" ],
+			[ "entrenabas" ],
+			[ "entrenaba" ],
+			[ "entrenábamos" ],
+			[ "entrenabais", "entrenaban" ],
+			[ "entrenaban" ]
+		],
+		"6" : [
+			[ "entrenaría" ],
+			[ "entrenarías" ],
+			[ "entrenaría" ],
+			[ "entrenaríamos" ],
+			[ "entrenaríais", "entrenarían" ],
+			[ "entrenarían" ]
+		],
+		"7" : [
+			[ "entrenaré" ],
+			[ "entrenarás" ],
+			[ "entrenará" ],
+			[ "entrenaremos" ],
+			[ "entrenaréis", "entrenarán" ],
+			[ "entrenarán" ]
+		],
+		"8" : [
+			[ "entrene" ],
+			[ "entrenes" ],
+			[ "entrene" ],
+			[ "entrenemos" ],
+			[ "entrenéis", "entrenen" ],
+			[ "entrenen" ]
+		],
+		"9" : [
+			[ "entrenara" ],
+			[ "entrenaras" ],
+			[ "entrenara" ],
+			[ "entrenáramos" ],
+			[ "entrenarais", "entrenaran" ],
+			[ "entrenaran" ]
+		],
+		"10" : [
+			[ "entrenase" ],
+			[ "entrenases" ],
+			[ "entrenase" ],
+			[ "entrenásemos" ],
+			[ "entrenaseis", "entrenasen" ],
+			[ "entrenasen" ]
+		],
+		"11" : [
+			[ "entrenare" ],
+			[ "entrenares" ],
+			[ "entrenare" ],
+			[ "entrenáremos" ],
+			[ "entrenareis", "entrenaren" ],
+			[ "entrenaren" ]
+		],
+		"12" : {
+			"1" : [ "entrena" ],
+			"2" : [ "entrene" ],
+			"3" : [ "entrenemos" ],
+			"4" : [ "entrenad" ],
+			"5" : [ "entrenen" ]
+		}
+	}
+}

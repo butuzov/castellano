@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fumar",
+	"word" : "fumar",
+	"infinitivo" : "fumar",
+	"participio" : [ "fumado" ],
+	"gerundio" : [ "fumando" ],
+	"tenses" : {
+		"3" : [
+			[ "fumo" ],
+			[ "fumas", "fumás" ],
+			[ "fuma" ],
+			[ "fumamos" ],
+			[ "fumáis", "fuman" ],
+			[ "fuman" ]
+		],
+		"4" : [
+			[ "fumé" ],
+			[ "fumaste" ],
+			[ "fumó" ],
+			[ "fumamos" ],
+			[ "fumasteis", "fumaron" ],
+			[ "fumaron" ]
+		],
+		"5" : [
+			[ "fumaba" ],
+			[ "fumabas" ],
+			[ "fumaba" ],
+			[ "fumábamos" ],
+			[ "fumabais", "fumaban" ],
+			[ "fumaban" ]
+		],
+		"6" : [
+			[ "fumaría" ],
+			[ "fumarías" ],
+			[ "fumaría" ],
+			[ "fumaríamos" ],
+			[ "fumaríais", "fumarían" ],
+			[ "fumarían" ]
+		],
+		"7" : [
+			[ "fumaré" ],
+			[ "fumarás" ],
+			[ "fumará" ],
+			[ "fumaremos" ],
+			[ "fumaréis", "fumarán" ],
+			[ "fumarán" ]
+		],
+		"8" : [
+			[ "fume" ],
+			[ "fumes" ],
+			[ "fume" ],
+			[ "fumemos" ],
+			[ "fuméis", "fumen" ],
+			[ "fumen" ]
+		],
+		"9" : [
+			[ "fumara" ],
+			[ "fumaras" ],
+			[ "fumara" ],
+			[ "fumáramos" ],
+			[ "fumarais", "fumaran" ],
+			[ "fumaran" ]
+		],
+		"10" : [
+			[ "fumase" ],
+			[ "fumases" ],
+			[ "fumase" ],
+			[ "fumásemos" ],
+			[ "fumaseis", "fumasen" ],
+			[ "fumasen" ]
+		],
+		"11" : [
+			[ "fumare" ],
+			[ "fumares" ],
+			[ "fumare" ],
+			[ "fumáremos" ],
+			[ "fumareis", "fumaren" ],
+			[ "fumaren" ]
+		],
+		"12" : {
+			"1" : [ "fuma" ],
+			"2" : [ "fume" ],
+			"3" : [ "fumemos" ],
+			"4" : [ "fumad" ],
+			"5" : [ "fumen" ]
+		}
+	}
+}

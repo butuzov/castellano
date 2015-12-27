@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=solapar",
+	"word" : "solapar",
+	"infinitivo" : "solapar",
+	"participio" : [ "solapado" ],
+	"gerundio" : [ "solapando" ],
+	"tenses" : {
+		"3" : [
+			[ "solapo" ],
+			[ "solapas", "solapás" ],
+			[ "solapa" ],
+			[ "solapamos" ],
+			[ "solapáis", "solapan" ],
+			[ "solapan" ]
+		],
+		"4" : [
+			[ "solapé" ],
+			[ "solapaste" ],
+			[ "solapó" ],
+			[ "solapamos" ],
+			[ "solapasteis", "solaparon" ],
+			[ "solaparon" ]
+		],
+		"5" : [
+			[ "solapaba" ],
+			[ "solapabas" ],
+			[ "solapaba" ],
+			[ "solapábamos" ],
+			[ "solapabais", "solapaban" ],
+			[ "solapaban" ]
+		],
+		"6" : [
+			[ "solaparía" ],
+			[ "solaparías" ],
+			[ "solaparía" ],
+			[ "solaparíamos" ],
+			[ "solaparíais", "solaparían" ],
+			[ "solaparían" ]
+		],
+		"7" : [
+			[ "solaparé" ],
+			[ "solaparás" ],
+			[ "solapará" ],
+			[ "solaparemos" ],
+			[ "solaparéis", "solaparán" ],
+			[ "solaparán" ]
+		],
+		"8" : [
+			[ "solape" ],
+			[ "solapes" ],
+			[ "solape" ],
+			[ "solapemos" ],
+			[ "solapéis", "solapen" ],
+			[ "solapen" ]
+		],
+		"9" : [
+			[ "solapara" ],
+			[ "solaparas" ],
+			[ "solapara" ],
+			[ "solapáramos" ],
+			[ "solaparais", "solaparan" ],
+			[ "solaparan" ]
+		],
+		"10" : [
+			[ "solapase" ],
+			[ "solapases" ],
+			[ "solapase" ],
+			[ "solapásemos" ],
+			[ "solapaseis", "solapasen" ],
+			[ "solapasen" ]
+		],
+		"11" : [
+			[ "solapare" ],
+			[ "solapares" ],
+			[ "solapare" ],
+			[ "solapáremos" ],
+			[ "solapareis", "solaparen" ],
+			[ "solaparen" ]
+		],
+		"12" : {
+			"1" : [ "solapa" ],
+			"2" : [ "solape" ],
+			"3" : [ "solapemos" ],
+			"4" : [ "solapad" ],
+			"5" : [ "solapen" ]
+		}
+	}
+}

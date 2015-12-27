@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=toldar",
+	"word" : "toldar",
+	"infinitivo" : "toldar",
+	"participio" : [ "toldado" ],
+	"gerundio" : [ "toldando" ],
+	"tenses" : {
+		"3" : [
+			[ "toldo" ],
+			[ "toldas", "toldás" ],
+			[ "tolda" ],
+			[ "toldamos" ],
+			[ "toldáis", "toldan" ],
+			[ "toldan" ]
+		],
+		"4" : [
+			[ "toldé" ],
+			[ "toldaste" ],
+			[ "toldó" ],
+			[ "toldamos" ],
+			[ "toldasteis", "toldaron" ],
+			[ "toldaron" ]
+		],
+		"5" : [
+			[ "toldaba" ],
+			[ "toldabas" ],
+			[ "toldaba" ],
+			[ "toldábamos" ],
+			[ "toldabais", "toldaban" ],
+			[ "toldaban" ]
+		],
+		"6" : [
+			[ "toldaría" ],
+			[ "toldarías" ],
+			[ "toldaría" ],
+			[ "toldaríamos" ],
+			[ "toldaríais", "toldarían" ],
+			[ "toldarían" ]
+		],
+		"7" : [
+			[ "toldaré" ],
+			[ "toldarás" ],
+			[ "toldará" ],
+			[ "toldaremos" ],
+			[ "toldaréis", "toldarán" ],
+			[ "toldarán" ]
+		],
+		"8" : [
+			[ "tolde" ],
+			[ "toldes" ],
+			[ "tolde" ],
+			[ "toldemos" ],
+			[ "toldéis", "tolden" ],
+			[ "tolden" ]
+		],
+		"9" : [
+			[ "toldara" ],
+			[ "toldaras" ],
+			[ "toldara" ],
+			[ "toldáramos" ],
+			[ "toldarais", "toldaran" ],
+			[ "toldaran" ]
+		],
+		"10" : [
+			[ "toldase" ],
+			[ "toldases" ],
+			[ "toldase" ],
+			[ "toldásemos" ],
+			[ "toldaseis", "toldasen" ],
+			[ "toldasen" ]
+		],
+		"11" : [
+			[ "toldare" ],
+			[ "toldares" ],
+			[ "toldare" ],
+			[ "toldáremos" ],
+			[ "toldareis", "toldaren" ],
+			[ "toldaren" ]
+		],
+		"12" : {
+			"1" : [ "tolda" ],
+			"2" : [ "tolde" ],
+			"3" : [ "toldemos" ],
+			"4" : [ "toldad" ],
+			"5" : [ "tolden" ]
+		}
+	}
+}

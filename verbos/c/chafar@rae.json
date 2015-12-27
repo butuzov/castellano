@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chafar",
+	"word" : "chafar",
+	"infinitivo" : "chafar",
+	"participio" : [ "chafado" ],
+	"gerundio" : [ "chafando" ],
+	"tenses" : {
+		"3" : [
+			[ "chafo" ],
+			[ "chafas", "chafás" ],
+			[ "chafa" ],
+			[ "chafamos" ],
+			[ "chafáis", "chafan" ],
+			[ "chafan" ]
+		],
+		"4" : [
+			[ "chafé" ],
+			[ "chafaste" ],
+			[ "chafó" ],
+			[ "chafamos" ],
+			[ "chafasteis", "chafaron" ],
+			[ "chafaron" ]
+		],
+		"5" : [
+			[ "chafaba" ],
+			[ "chafabas" ],
+			[ "chafaba" ],
+			[ "chafábamos" ],
+			[ "chafabais", "chafaban" ],
+			[ "chafaban" ]
+		],
+		"6" : [
+			[ "chafaría" ],
+			[ "chafarías" ],
+			[ "chafaría" ],
+			[ "chafaríamos" ],
+			[ "chafaríais", "chafarían" ],
+			[ "chafarían" ]
+		],
+		"7" : [
+			[ "chafaré" ],
+			[ "chafarás" ],
+			[ "chafará" ],
+			[ "chafaremos" ],
+			[ "chafaréis", "chafarán" ],
+			[ "chafarán" ]
+		],
+		"8" : [
+			[ "chafe" ],
+			[ "chafes" ],
+			[ "chafe" ],
+			[ "chafemos" ],
+			[ "chaféis", "chafen" ],
+			[ "chafen" ]
+		],
+		"9" : [
+			[ "chafara" ],
+			[ "chafaras" ],
+			[ "chafara" ],
+			[ "chafáramos" ],
+			[ "chafarais", "chafaran" ],
+			[ "chafaran" ]
+		],
+		"10" : [
+			[ "chafase" ],
+			[ "chafases" ],
+			[ "chafase" ],
+			[ "chafásemos" ],
+			[ "chafaseis", "chafasen" ],
+			[ "chafasen" ]
+		],
+		"11" : [
+			[ "chafare" ],
+			[ "chafares" ],
+			[ "chafare" ],
+			[ "chafáremos" ],
+			[ "chafareis", "chafaren" ],
+			[ "chafaren" ]
+		],
+		"12" : {
+			"1" : [ "chafa" ],
+			"2" : [ "chafe" ],
+			"3" : [ "chafemos" ],
+			"4" : [ "chafad" ],
+			"5" : [ "chafen" ]
+		}
+	}
+}

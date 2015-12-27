@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cromar",
+	"word" : "cromar",
+	"infinitivo" : "cromar",
+	"participio" : [ "cromado" ],
+	"gerundio" : [ "cromando" ],
+	"tenses" : {
+		"3" : [
+			[ "cromo" ],
+			[ "cromas", "cromás" ],
+			[ "croma" ],
+			[ "cromamos" ],
+			[ "cromáis", "croman" ],
+			[ "croman" ]
+		],
+		"4" : [
+			[ "cromé" ],
+			[ "cromaste" ],
+			[ "cromó" ],
+			[ "cromamos" ],
+			[ "cromasteis", "cromaron" ],
+			[ "cromaron" ]
+		],
+		"5" : [
+			[ "cromaba" ],
+			[ "cromabas" ],
+			[ "cromaba" ],
+			[ "cromábamos" ],
+			[ "cromabais", "cromaban" ],
+			[ "cromaban" ]
+		],
+		"6" : [
+			[ "cromaría" ],
+			[ "cromarías" ],
+			[ "cromaría" ],
+			[ "cromaríamos" ],
+			[ "cromaríais", "cromarían" ],
+			[ "cromarían" ]
+		],
+		"7" : [
+			[ "cromaré" ],
+			[ "cromarás" ],
+			[ "cromará" ],
+			[ "cromaremos" ],
+			[ "cromaréis", "cromarán" ],
+			[ "cromarán" ]
+		],
+		"8" : [
+			[ "crome" ],
+			[ "cromes" ],
+			[ "crome" ],
+			[ "cromemos" ],
+			[ "croméis", "cromen" ],
+			[ "cromen" ]
+		],
+		"9" : [
+			[ "cromara" ],
+			[ "cromaras" ],
+			[ "cromara" ],
+			[ "cromáramos" ],
+			[ "cromarais", "cromaran" ],
+			[ "cromaran" ]
+		],
+		"10" : [
+			[ "cromase" ],
+			[ "cromases" ],
+			[ "cromase" ],
+			[ "cromásemos" ],
+			[ "cromaseis", "cromasen" ],
+			[ "cromasen" ]
+		],
+		"11" : [
+			[ "cromare" ],
+			[ "cromares" ],
+			[ "cromare" ],
+			[ "cromáremos" ],
+			[ "cromareis", "cromaren" ],
+			[ "cromaren" ]
+		],
+		"12" : {
+			"1" : [ "croma" ],
+			"2" : [ "crome" ],
+			"3" : [ "cromemos" ],
+			"4" : [ "cromad" ],
+			"5" : [ "cromen" ]
+		}
+	}
+}

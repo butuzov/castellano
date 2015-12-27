@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hipar",
+	"word" : "hipar",
+	"infinitivo" : "hipar",
+	"participio" : [ "hipado" ],
+	"gerundio" : [ "hipando" ],
+	"tenses" : {
+		"3" : [
+			[ "hipo" ],
+			[ "hipas", "hipás" ],
+			[ "hipa" ],
+			[ "hipamos" ],
+			[ "hipáis", "hipan" ],
+			[ "hipan" ]
+		],
+		"4" : [
+			[ "hipé" ],
+			[ "hipaste" ],
+			[ "hipó" ],
+			[ "hipamos" ],
+			[ "hipasteis", "hiparon" ],
+			[ "hiparon" ]
+		],
+		"5" : [
+			[ "hipaba" ],
+			[ "hipabas" ],
+			[ "hipaba" ],
+			[ "hipábamos" ],
+			[ "hipabais", "hipaban" ],
+			[ "hipaban" ]
+		],
+		"6" : [
+			[ "hiparía" ],
+			[ "hiparías" ],
+			[ "hiparía" ],
+			[ "hiparíamos" ],
+			[ "hiparíais", "hiparían" ],
+			[ "hiparían" ]
+		],
+		"7" : [
+			[ "hiparé" ],
+			[ "hiparás" ],
+			[ "hipará" ],
+			[ "hiparemos" ],
+			[ "hiparéis", "hiparán" ],
+			[ "hiparán" ]
+		],
+		"8" : [
+			[ "hipe" ],
+			[ "hipes" ],
+			[ "hipe" ],
+			[ "hipemos" ],
+			[ "hipéis", "hipen" ],
+			[ "hipen" ]
+		],
+		"9" : [
+			[ "hipara" ],
+			[ "hiparas" ],
+			[ "hipara" ],
+			[ "hipáramos" ],
+			[ "hiparais", "hiparan" ],
+			[ "hiparan" ]
+		],
+		"10" : [
+			[ "hipase" ],
+			[ "hipases" ],
+			[ "hipase" ],
+			[ "hipásemos" ],
+			[ "hipaseis", "hipasen" ],
+			[ "hipasen" ]
+		],
+		"11" : [
+			[ "hipare" ],
+			[ "hipares" ],
+			[ "hipare" ],
+			[ "hipáremos" ],
+			[ "hipareis", "hiparen" ],
+			[ "hiparen" ]
+		],
+		"12" : {
+			"1" : [ "hipa" ],
+			"2" : [ "hipe" ],
+			"3" : [ "hipemos" ],
+			"4" : [ "hipad" ],
+			"5" : [ "hipen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=molar",
+	"word" : "molar",
+	"infinitivo" : "molar",
+	"participio" : [ "molado" ],
+	"gerundio" : [ "molando" ],
+	"tenses" : {
+		"3" : [
+			[ "molo" ],
+			[ "molas", "molás" ],
+			[ "mola" ],
+			[ "molamos" ],
+			[ "moláis", "molan" ],
+			[ "molan" ]
+		],
+		"4" : [
+			[ "molé" ],
+			[ "molaste" ],
+			[ "moló" ],
+			[ "molamos" ],
+			[ "molasteis", "molaron" ],
+			[ "molaron" ]
+		],
+		"5" : [
+			[ "molaba" ],
+			[ "molabas" ],
+			[ "molaba" ],
+			[ "molábamos" ],
+			[ "molabais", "molaban" ],
+			[ "molaban" ]
+		],
+		"6" : [
+			[ "molaría" ],
+			[ "molarías" ],
+			[ "molaría" ],
+			[ "molaríamos" ],
+			[ "molaríais", "molarían" ],
+			[ "molarían" ]
+		],
+		"7" : [
+			[ "molaré" ],
+			[ "molarás" ],
+			[ "molará" ],
+			[ "molaremos" ],
+			[ "molaréis", "molarán" ],
+			[ "molarán" ]
+		],
+		"8" : [
+			[ "mole" ],
+			[ "moles" ],
+			[ "mole" ],
+			[ "molemos" ],
+			[ "moléis", "molen" ],
+			[ "molen" ]
+		],
+		"9" : [
+			[ "molara" ],
+			[ "molaras" ],
+			[ "molara" ],
+			[ "moláramos" ],
+			[ "molarais", "molaran" ],
+			[ "molaran" ]
+		],
+		"10" : [
+			[ "molase" ],
+			[ "molases" ],
+			[ "molase" ],
+			[ "molásemos" ],
+			[ "molaseis", "molasen" ],
+			[ "molasen" ]
+		],
+		"11" : [
+			[ "molare" ],
+			[ "molares" ],
+			[ "molare" ],
+			[ "moláremos" ],
+			[ "molareis", "molaren" ],
+			[ "molaren" ]
+		],
+		"12" : {
+			"1" : [ "mola" ],
+			"2" : [ "mole" ],
+			"3" : [ "molemos" ],
+			"4" : [ "molad" ],
+			"5" : [ "molen" ]
+		}
+	}
+}

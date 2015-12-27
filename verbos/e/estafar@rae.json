@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estafar",
+	"word" : "estafar",
+	"infinitivo" : "estafar",
+	"participio" : [ "estafado" ],
+	"gerundio" : [ "estafando" ],
+	"tenses" : {
+		"3" : [
+			[ "estafo" ],
+			[ "estafas", "estafás" ],
+			[ "estafa" ],
+			[ "estafamos" ],
+			[ "estafáis", "estafan" ],
+			[ "estafan" ]
+		],
+		"4" : [
+			[ "estafé" ],
+			[ "estafaste" ],
+			[ "estafó" ],
+			[ "estafamos" ],
+			[ "estafasteis", "estafaron" ],
+			[ "estafaron" ]
+		],
+		"5" : [
+			[ "estafaba" ],
+			[ "estafabas" ],
+			[ "estafaba" ],
+			[ "estafábamos" ],
+			[ "estafabais", "estafaban" ],
+			[ "estafaban" ]
+		],
+		"6" : [
+			[ "estafaría" ],
+			[ "estafarías" ],
+			[ "estafaría" ],
+			[ "estafaríamos" ],
+			[ "estafaríais", "estafarían" ],
+			[ "estafarían" ]
+		],
+		"7" : [
+			[ "estafaré" ],
+			[ "estafarás" ],
+			[ "estafará" ],
+			[ "estafaremos" ],
+			[ "estafaréis", "estafarán" ],
+			[ "estafarán" ]
+		],
+		"8" : [
+			[ "estafe" ],
+			[ "estafes" ],
+			[ "estafe" ],
+			[ "estafemos" ],
+			[ "estaféis", "estafen" ],
+			[ "estafen" ]
+		],
+		"9" : [
+			[ "estafara" ],
+			[ "estafaras" ],
+			[ "estafara" ],
+			[ "estafáramos" ],
+			[ "estafarais", "estafaran" ],
+			[ "estafaran" ]
+		],
+		"10" : [
+			[ "estafase" ],
+			[ "estafases" ],
+			[ "estafase" ],
+			[ "estafásemos" ],
+			[ "estafaseis", "estafasen" ],
+			[ "estafasen" ]
+		],
+		"11" : [
+			[ "estafare" ],
+			[ "estafares" ],
+			[ "estafare" ],
+			[ "estafáremos" ],
+			[ "estafareis", "estafaren" ],
+			[ "estafaren" ]
+		],
+		"12" : {
+			"1" : [ "estafa" ],
+			"2" : [ "estafe" ],
+			"3" : [ "estafemos" ],
+			"4" : [ "estafad" ],
+			"5" : [ "estafen" ]
+		}
+	}
+}

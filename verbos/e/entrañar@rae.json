@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entrañar",
+	"word" : "entrañar",
+	"infinitivo" : "entrañar",
+	"participio" : [ "entrañado" ],
+	"gerundio" : [ "entrañando" ],
+	"tenses" : {
+		"3" : [
+			[ "entraño" ],
+			[ "entrañas", "entrañás" ],
+			[ "entraña" ],
+			[ "entrañamos" ],
+			[ "entrañáis", "entrañan" ],
+			[ "entrañan" ]
+		],
+		"4" : [
+			[ "entrañé" ],
+			[ "entrañaste" ],
+			[ "entrañó" ],
+			[ "entrañamos" ],
+			[ "entrañasteis", "entrañaron" ],
+			[ "entrañaron" ]
+		],
+		"5" : [
+			[ "entrañaba" ],
+			[ "entrañabas" ],
+			[ "entrañaba" ],
+			[ "entrañábamos" ],
+			[ "entrañabais", "entrañaban" ],
+			[ "entrañaban" ]
+		],
+		"6" : [
+			[ "entrañaría" ],
+			[ "entrañarías" ],
+			[ "entrañaría" ],
+			[ "entrañaríamos" ],
+			[ "entrañaríais", "entrañarían" ],
+			[ "entrañarían" ]
+		],
+		"7" : [
+			[ "entrañaré" ],
+			[ "entrañarás" ],
+			[ "entrañará" ],
+			[ "entrañaremos" ],
+			[ "entrañaréis", "entrañarán" ],
+			[ "entrañarán" ]
+		],
+		"8" : [
+			[ "entrañe" ],
+			[ "entrañes" ],
+			[ "entrañe" ],
+			[ "entrañemos" ],
+			[ "entrañéis", "entrañen" ],
+			[ "entrañen" ]
+		],
+		"9" : [
+			[ "entrañara" ],
+			[ "entrañaras" ],
+			[ "entrañara" ],
+			[ "entrañáramos" ],
+			[ "entrañarais", "entrañaran" ],
+			[ "entrañaran" ]
+		],
+		"10" : [
+			[ "entrañase" ],
+			[ "entrañases" ],
+			[ "entrañase" ],
+			[ "entrañásemos" ],
+			[ "entrañaseis", "entrañasen" ],
+			[ "entrañasen" ]
+		],
+		"11" : [
+			[ "entrañare" ],
+			[ "entrañares" ],
+			[ "entrañare" ],
+			[ "entrañáremos" ],
+			[ "entrañareis", "entrañaren" ],
+			[ "entrañaren" ]
+		],
+		"12" : {
+			"1" : [ "entraña" ],
+			"2" : [ "entrañe" ],
+			"3" : [ "entrañemos" ],
+			"4" : [ "entrañad" ],
+			"5" : [ "entrañen" ]
+		}
+	}
+}

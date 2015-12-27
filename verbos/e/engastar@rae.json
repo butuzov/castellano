@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=engastar",
+	"word" : "engastar",
+	"infinitivo" : "engastar",
+	"participio" : [ "engastado" ],
+	"gerundio" : [ "engastando" ],
+	"tenses" : {
+		"3" : [
+			[ "engasto" ],
+			[ "engastas", "engastás" ],
+			[ "engasta" ],
+			[ "engastamos" ],
+			[ "engastáis", "engastan" ],
+			[ "engastan" ]
+		],
+		"4" : [
+			[ "engasté" ],
+			[ "engastaste" ],
+			[ "engastó" ],
+			[ "engastamos" ],
+			[ "engastasteis", "engastaron" ],
+			[ "engastaron" ]
+		],
+		"5" : [
+			[ "engastaba" ],
+			[ "engastabas" ],
+			[ "engastaba" ],
+			[ "engastábamos" ],
+			[ "engastabais", "engastaban" ],
+			[ "engastaban" ]
+		],
+		"6" : [
+			[ "engastaría" ],
+			[ "engastarías" ],
+			[ "engastaría" ],
+			[ "engastaríamos" ],
+			[ "engastaríais", "engastarían" ],
+			[ "engastarían" ]
+		],
+		"7" : [
+			[ "engastaré" ],
+			[ "engastarás" ],
+			[ "engastará" ],
+			[ "engastaremos" ],
+			[ "engastaréis", "engastarán" ],
+			[ "engastarán" ]
+		],
+		"8" : [
+			[ "engaste" ],
+			[ "engastes" ],
+			[ "engaste" ],
+			[ "engastemos" ],
+			[ "engastéis", "engasten" ],
+			[ "engasten" ]
+		],
+		"9" : [
+			[ "engastara" ],
+			[ "engastaras" ],
+			[ "engastara" ],
+			[ "engastáramos" ],
+			[ "engastarais", "engastaran" ],
+			[ "engastaran" ]
+		],
+		"10" : [
+			[ "engastase" ],
+			[ "engastases" ],
+			[ "engastase" ],
+			[ "engastásemos" ],
+			[ "engastaseis", "engastasen" ],
+			[ "engastasen" ]
+		],
+		"11" : [
+			[ "engastare" ],
+			[ "engastares" ],
+			[ "engastare" ],
+			[ "engastáremos" ],
+			[ "engastareis", "engastaren" ],
+			[ "engastaren" ]
+		],
+		"12" : {
+			"1" : [ "engasta" ],
+			"2" : [ "engaste" ],
+			"3" : [ "engastemos" ],
+			"4" : [ "engastad" ],
+			"5" : [ "engasten" ]
+		}
+	}
+}

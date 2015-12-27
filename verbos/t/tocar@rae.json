@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tocar",
+	"word" : "tocar",
+	"infinitivo" : "tocar",
+	"participio" : [ "tocado" ],
+	"gerundio" : [ "tocando" ],
+	"tenses" : {
+		"3" : [
+			[ "toco" ],
+			[ "tocas", "tocás" ],
+			[ "toca" ],
+			[ "tocamos" ],
+			[ "tocáis", "tocan" ],
+			[ "tocan" ]
+		],
+		"4" : [
+			[ "toqué" ],
+			[ "tocaste" ],
+			[ "tocó" ],
+			[ "tocamos" ],
+			[ "tocasteis", "tocaron" ],
+			[ "tocaron" ]
+		],
+		"5" : [
+			[ "tocaba" ],
+			[ "tocabas" ],
+			[ "tocaba" ],
+			[ "tocábamos" ],
+			[ "tocabais", "tocaban" ],
+			[ "tocaban" ]
+		],
+		"6" : [
+			[ "tocaría" ],
+			[ "tocarías" ],
+			[ "tocaría" ],
+			[ "tocaríamos" ],
+			[ "tocaríais", "tocarían" ],
+			[ "tocarían" ]
+		],
+		"7" : [
+			[ "tocaré" ],
+			[ "tocarás" ],
+			[ "tocará" ],
+			[ "tocaremos" ],
+			[ "tocaréis", "tocarán" ],
+			[ "tocarán" ]
+		],
+		"8" : [
+			[ "toque" ],
+			[ "toques" ],
+			[ "toque" ],
+			[ "toquemos" ],
+			[ "toquéis", "toquen" ],
+			[ "toquen" ]
+		],
+		"9" : [
+			[ "tocara" ],
+			[ "tocaras" ],
+			[ "tocara" ],
+			[ "tocáramos" ],
+			[ "tocarais", "tocaran" ],
+			[ "tocaran" ]
+		],
+		"10" : [
+			[ "tocase" ],
+			[ "tocases" ],
+			[ "tocase" ],
+			[ "tocásemos" ],
+			[ "tocaseis", "tocasen" ],
+			[ "tocasen" ]
+		],
+		"11" : [
+			[ "tocare" ],
+			[ "tocares" ],
+			[ "tocare" ],
+			[ "tocáremos" ],
+			[ "tocareis", "tocaren" ],
+			[ "tocaren" ]
+		],
+		"12" : {
+			"1" : [ "toca" ],
+			"2" : [ "toque" ],
+			"3" : [ "toquemos" ],
+			"4" : [ "tocad" ],
+			"5" : [ "toquen" ]
+		}
+	}
+}

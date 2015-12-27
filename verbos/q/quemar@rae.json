@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=quemar",
+	"word" : "quemar",
+	"infinitivo" : "quemar",
+	"participio" : [ "quemado" ],
+	"gerundio" : [ "quemando" ],
+	"tenses" : {
+		"3" : [
+			[ "quemo" ],
+			[ "quemas", "quemás" ],
+			[ "quema" ],
+			[ "quemamos" ],
+			[ "quemáis", "queman" ],
+			[ "queman" ]
+		],
+		"4" : [
+			[ "quemé" ],
+			[ "quemaste" ],
+			[ "quemó" ],
+			[ "quemamos" ],
+			[ "quemasteis", "quemaron" ],
+			[ "quemaron" ]
+		],
+		"5" : [
+			[ "quemaba" ],
+			[ "quemabas" ],
+			[ "quemaba" ],
+			[ "quemábamos" ],
+			[ "quemabais", "quemaban" ],
+			[ "quemaban" ]
+		],
+		"6" : [
+			[ "quemaría" ],
+			[ "quemarías" ],
+			[ "quemaría" ],
+			[ "quemaríamos" ],
+			[ "quemaríais", "quemarían" ],
+			[ "quemarían" ]
+		],
+		"7" : [
+			[ "quemaré" ],
+			[ "quemarás" ],
+			[ "quemará" ],
+			[ "quemaremos" ],
+			[ "quemaréis", "quemarán" ],
+			[ "quemarán" ]
+		],
+		"8" : [
+			[ "queme" ],
+			[ "quemes" ],
+			[ "queme" ],
+			[ "quememos" ],
+			[ "queméis", "quemen" ],
+			[ "quemen" ]
+		],
+		"9" : [
+			[ "quemara" ],
+			[ "quemaras" ],
+			[ "quemara" ],
+			[ "quemáramos" ],
+			[ "quemarais", "quemaran" ],
+			[ "quemaran" ]
+		],
+		"10" : [
+			[ "quemase" ],
+			[ "quemases" ],
+			[ "quemase" ],
+			[ "quemásemos" ],
+			[ "quemaseis", "quemasen" ],
+			[ "quemasen" ]
+		],
+		"11" : [
+			[ "quemare" ],
+			[ "quemares" ],
+			[ "quemare" ],
+			[ "quemáremos" ],
+			[ "quemareis", "quemaren" ],
+			[ "quemaren" ]
+		],
+		"12" : {
+			"1" : [ "quema" ],
+			"2" : [ "queme" ],
+			"3" : [ "quememos" ],
+			"4" : [ "quemad" ],
+			"5" : [ "quemen" ]
+		}
+	}
+}

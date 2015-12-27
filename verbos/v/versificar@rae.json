@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=versificar",
+	"word" : "versificar",
+	"infinitivo" : "versificar",
+	"participio" : [ "versificado" ],
+	"gerundio" : [ "versificando" ],
+	"tenses" : {
+		"3" : [
+			[ "versifico" ],
+			[ "versificas", "versificás" ],
+			[ "versifica" ],
+			[ "versificamos" ],
+			[ "versificáis", "versifican" ],
+			[ "versifican" ]
+		],
+		"4" : [
+			[ "versifiqué" ],
+			[ "versificaste" ],
+			[ "versificó" ],
+			[ "versificamos" ],
+			[ "versificasteis", "versificaron" ],
+			[ "versificaron" ]
+		],
+		"5" : [
+			[ "versificaba" ],
+			[ "versificabas" ],
+			[ "versificaba" ],
+			[ "versificábamos" ],
+			[ "versificabais", "versificaban" ],
+			[ "versificaban" ]
+		],
+		"6" : [
+			[ "versificaría" ],
+			[ "versificarías" ],
+			[ "versificaría" ],
+			[ "versificaríamos" ],
+			[ "versificaríais", "versificarían" ],
+			[ "versificarían" ]
+		],
+		"7" : [
+			[ "versificaré" ],
+			[ "versificarás" ],
+			[ "versificará" ],
+			[ "versificaremos" ],
+			[ "versificaréis", "versificarán" ],
+			[ "versificarán" ]
+		],
+		"8" : [
+			[ "versifique" ],
+			[ "versifiques" ],
+			[ "versifique" ],
+			[ "versifiquemos" ],
+			[ "versifiquéis", "versifiquen" ],
+			[ "versifiquen" ]
+		],
+		"9" : [
+			[ "versificara" ],
+			[ "versificaras" ],
+			[ "versificara" ],
+			[ "versificáramos" ],
+			[ "versificarais", "versificaran" ],
+			[ "versificaran" ]
+		],
+		"10" : [
+			[ "versificase" ],
+			[ "versificases" ],
+			[ "versificase" ],
+			[ "versificásemos" ],
+			[ "versificaseis", "versificasen" ],
+			[ "versificasen" ]
+		],
+		"11" : [
+			[ "versificare" ],
+			[ "versificares" ],
+			[ "versificare" ],
+			[ "versificáremos" ],
+			[ "versificareis", "versificaren" ],
+			[ "versificaren" ]
+		],
+		"12" : {
+			"1" : [ "versifica" ],
+			"2" : [ "versifique" ],
+			"3" : [ "versifiquemos" ],
+			"4" : [ "versificad" ],
+			"5" : [ "versifiquen" ]
+		}
+	}
+}

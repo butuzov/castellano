@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=eliminar",
+	"word" : "eliminar",
+	"infinitivo" : "eliminar",
+	"participio" : [ "eliminado" ],
+	"gerundio" : [ "eliminando" ],
+	"tenses" : {
+		"3" : [
+			[ "elimino" ],
+			[ "eliminas", "eliminás" ],
+			[ "elimina" ],
+			[ "eliminamos" ],
+			[ "elimináis", "eliminan" ],
+			[ "eliminan" ]
+		],
+		"4" : [
+			[ "eliminé" ],
+			[ "eliminaste" ],
+			[ "eliminó" ],
+			[ "eliminamos" ],
+			[ "eliminasteis", "eliminaron" ],
+			[ "eliminaron" ]
+		],
+		"5" : [
+			[ "eliminaba" ],
+			[ "eliminabas" ],
+			[ "eliminaba" ],
+			[ "eliminábamos" ],
+			[ "eliminabais", "eliminaban" ],
+			[ "eliminaban" ]
+		],
+		"6" : [
+			[ "eliminaría" ],
+			[ "eliminarías" ],
+			[ "eliminaría" ],
+			[ "eliminaríamos" ],
+			[ "eliminaríais", "eliminarían" ],
+			[ "eliminarían" ]
+		],
+		"7" : [
+			[ "eliminaré" ],
+			[ "eliminarás" ],
+			[ "eliminará" ],
+			[ "eliminaremos" ],
+			[ "eliminaréis", "eliminarán" ],
+			[ "eliminarán" ]
+		],
+		"8" : [
+			[ "elimine" ],
+			[ "elimines" ],
+			[ "elimine" ],
+			[ "eliminemos" ],
+			[ "eliminéis", "eliminen" ],
+			[ "eliminen" ]
+		],
+		"9" : [
+			[ "eliminara" ],
+			[ "eliminaras" ],
+			[ "eliminara" ],
+			[ "elimináramos" ],
+			[ "eliminarais", "eliminaran" ],
+			[ "eliminaran" ]
+		],
+		"10" : [
+			[ "eliminase" ],
+			[ "eliminases" ],
+			[ "eliminase" ],
+			[ "eliminásemos" ],
+			[ "eliminaseis", "eliminasen" ],
+			[ "eliminasen" ]
+		],
+		"11" : [
+			[ "eliminare" ],
+			[ "eliminares" ],
+			[ "eliminare" ],
+			[ "elimináremos" ],
+			[ "eliminareis", "eliminaren" ],
+			[ "eliminaren" ]
+		],
+		"12" : {
+			"1" : [ "elimina" ],
+			"2" : [ "elimine" ],
+			"3" : [ "eliminemos" ],
+			"4" : [ "eliminad" ],
+			"5" : [ "eliminen" ]
+		}
+	}
+}

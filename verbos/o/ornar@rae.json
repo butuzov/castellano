@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ornar",
+	"word" : "ornar",
+	"infinitivo" : "ornar",
+	"participio" : [ "ornado" ],
+	"gerundio" : [ "ornando" ],
+	"tenses" : {
+		"3" : [
+			[ "orno" ],
+			[ "ornas", "ornás" ],
+			[ "orna" ],
+			[ "ornamos" ],
+			[ "ornáis", "ornan" ],
+			[ "ornan" ]
+		],
+		"4" : [
+			[ "orné" ],
+			[ "ornaste" ],
+			[ "ornó" ],
+			[ "ornamos" ],
+			[ "ornasteis", "ornaron" ],
+			[ "ornaron" ]
+		],
+		"5" : [
+			[ "ornaba" ],
+			[ "ornabas" ],
+			[ "ornaba" ],
+			[ "ornábamos" ],
+			[ "ornabais", "ornaban" ],
+			[ "ornaban" ]
+		],
+		"6" : [
+			[ "ornaría" ],
+			[ "ornarías" ],
+			[ "ornaría" ],
+			[ "ornaríamos" ],
+			[ "ornaríais", "ornarían" ],
+			[ "ornarían" ]
+		],
+		"7" : [
+			[ "ornaré" ],
+			[ "ornarás" ],
+			[ "ornará" ],
+			[ "ornaremos" ],
+			[ "ornaréis", "ornarán" ],
+			[ "ornarán" ]
+		],
+		"8" : [
+			[ "orne" ],
+			[ "ornes" ],
+			[ "orne" ],
+			[ "ornemos" ],
+			[ "ornéis", "ornen" ],
+			[ "ornen" ]
+		],
+		"9" : [
+			[ "ornara" ],
+			[ "ornaras" ],
+			[ "ornara" ],
+			[ "ornáramos" ],
+			[ "ornarais", "ornaran" ],
+			[ "ornaran" ]
+		],
+		"10" : [
+			[ "ornase" ],
+			[ "ornases" ],
+			[ "ornase" ],
+			[ "ornásemos" ],
+			[ "ornaseis", "ornasen" ],
+			[ "ornasen" ]
+		],
+		"11" : [
+			[ "ornare" ],
+			[ "ornares" ],
+			[ "ornare" ],
+			[ "ornáremos" ],
+			[ "ornareis", "ornaren" ],
+			[ "ornaren" ]
+		],
+		"12" : {
+			"1" : [ "orna" ],
+			"2" : [ "orne" ],
+			"3" : [ "ornemos" ],
+			"4" : [ "ornad" ],
+			"5" : [ "ornen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=payar",
+	"word" : "payar",
+	"infinitivo" : "payar",
+	"participio" : [ "payado" ],
+	"gerundio" : [ "payando" ],
+	"tenses" : {
+		"3" : [
+			[ "payo" ],
+			[ "payas", "payás" ],
+			[ "paya" ],
+			[ "payamos" ],
+			[ "payáis", "payan" ],
+			[ "payan" ]
+		],
+		"4" : [
+			[ "payé" ],
+			[ "payaste" ],
+			[ "payó" ],
+			[ "payamos" ],
+			[ "payasteis", "payaron" ],
+			[ "payaron" ]
+		],
+		"5" : [
+			[ "payaba" ],
+			[ "payabas" ],
+			[ "payaba" ],
+			[ "payábamos" ],
+			[ "payabais", "payaban" ],
+			[ "payaban" ]
+		],
+		"6" : [
+			[ "payaría" ],
+			[ "payarías" ],
+			[ "payaría" ],
+			[ "payaríamos" ],
+			[ "payaríais", "payarían" ],
+			[ "payarían" ]
+		],
+		"7" : [
+			[ "payaré" ],
+			[ "payarás" ],
+			[ "payará" ],
+			[ "payaremos" ],
+			[ "payaréis", "payarán" ],
+			[ "payarán" ]
+		],
+		"8" : [
+			[ "paye" ],
+			[ "payes" ],
+			[ "paye" ],
+			[ "payemos" ],
+			[ "payéis", "payen" ],
+			[ "payen" ]
+		],
+		"9" : [
+			[ "payara" ],
+			[ "payaras" ],
+			[ "payara" ],
+			[ "payáramos" ],
+			[ "payarais", "payaran" ],
+			[ "payaran" ]
+		],
+		"10" : [
+			[ "payase" ],
+			[ "payases" ],
+			[ "payase" ],
+			[ "payásemos" ],
+			[ "payaseis", "payasen" ],
+			[ "payasen" ]
+		],
+		"11" : [
+			[ "payare" ],
+			[ "payares" ],
+			[ "payare" ],
+			[ "payáremos" ],
+			[ "payareis", "payaren" ],
+			[ "payaren" ]
+		],
+		"12" : {
+			"1" : [ "paya" ],
+			"2" : [ "paye" ],
+			"3" : [ "payemos" ],
+			"4" : [ "payad" ],
+			"5" : [ "payen" ]
+		}
+	}
+}

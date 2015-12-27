@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vertebrar",
+	"word" : "vertebrar",
+	"infinitivo" : "vertebrar",
+	"participio" : [ "vertebrado" ],
+	"gerundio" : [ "vertebrando" ],
+	"tenses" : {
+		"3" : [
+			[ "vertebro" ],
+			[ "vertebras", "vertebrás" ],
+			[ "vertebra" ],
+			[ "vertebramos" ],
+			[ "vertebráis", "vertebran" ],
+			[ "vertebran" ]
+		],
+		"4" : [
+			[ "vertebré" ],
+			[ "vertebraste" ],
+			[ "vertebró" ],
+			[ "vertebramos" ],
+			[ "vertebrasteis", "vertebraron" ],
+			[ "vertebraron" ]
+		],
+		"5" : [
+			[ "vertebraba" ],
+			[ "vertebrabas" ],
+			[ "vertebraba" ],
+			[ "vertebrábamos" ],
+			[ "vertebrabais", "vertebraban" ],
+			[ "vertebraban" ]
+		],
+		"6" : [
+			[ "vertebraría" ],
+			[ "vertebrarías" ],
+			[ "vertebraría" ],
+			[ "vertebraríamos" ],
+			[ "vertebraríais", "vertebrarían" ],
+			[ "vertebrarían" ]
+		],
+		"7" : [
+			[ "vertebraré" ],
+			[ "vertebrarás" ],
+			[ "vertebrará" ],
+			[ "vertebraremos" ],
+			[ "vertebraréis", "vertebrarán" ],
+			[ "vertebrarán" ]
+		],
+		"8" : [
+			[ "vertebre" ],
+			[ "vertebres" ],
+			[ "vertebre" ],
+			[ "vertebremos" ],
+			[ "vertebréis", "vertebren" ],
+			[ "vertebren" ]
+		],
+		"9" : [
+			[ "vertebrara" ],
+			[ "vertebraras" ],
+			[ "vertebrara" ],
+			[ "vertebráramos" ],
+			[ "vertebrarais", "vertebraran" ],
+			[ "vertebraran" ]
+		],
+		"10" : [
+			[ "vertebrase" ],
+			[ "vertebrases" ],
+			[ "vertebrase" ],
+			[ "vertebrásemos" ],
+			[ "vertebraseis", "vertebrasen" ],
+			[ "vertebrasen" ]
+		],
+		"11" : [
+			[ "vertebrare" ],
+			[ "vertebrares" ],
+			[ "vertebrare" ],
+			[ "vertebráremos" ],
+			[ "vertebrareis", "vertebraren" ],
+			[ "vertebraren" ]
+		],
+		"12" : {
+			"1" : [ "vertebra" ],
+			"2" : [ "vertebre" ],
+			"3" : [ "vertebremos" ],
+			"4" : [ "vertebrad" ],
+			"5" : [ "vertebren" ]
+		}
+	}
+}

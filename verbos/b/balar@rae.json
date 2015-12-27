@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=balar",
+	"word" : "balar",
+	"infinitivo" : "balar",
+	"participio" : [ "balado" ],
+	"gerundio" : [ "balando" ],
+	"tenses" : {
+		"3" : [
+			[ "balo" ],
+			[ "balas", "balás" ],
+			[ "bala" ],
+			[ "balamos" ],
+			[ "baláis", "balan" ],
+			[ "balan" ]
+		],
+		"4" : [
+			[ "balé" ],
+			[ "balaste" ],
+			[ "baló" ],
+			[ "balamos" ],
+			[ "balasteis", "balaron" ],
+			[ "balaron" ]
+		],
+		"5" : [
+			[ "balaba" ],
+			[ "balabas" ],
+			[ "balaba" ],
+			[ "balábamos" ],
+			[ "balabais", "balaban" ],
+			[ "balaban" ]
+		],
+		"6" : [
+			[ "balaría" ],
+			[ "balarías" ],
+			[ "balaría" ],
+			[ "balaríamos" ],
+			[ "balaríais", "balarían" ],
+			[ "balarían" ]
+		],
+		"7" : [
+			[ "balaré" ],
+			[ "balarás" ],
+			[ "balará" ],
+			[ "balaremos" ],
+			[ "balaréis", "balarán" ],
+			[ "balarán" ]
+		],
+		"8" : [
+			[ "bale" ],
+			[ "bales" ],
+			[ "bale" ],
+			[ "balemos" ],
+			[ "baléis", "balen" ],
+			[ "balen" ]
+		],
+		"9" : [
+			[ "balara" ],
+			[ "balaras" ],
+			[ "balara" ],
+			[ "baláramos" ],
+			[ "balarais", "balaran" ],
+			[ "balaran" ]
+		],
+		"10" : [
+			[ "balase" ],
+			[ "balases" ],
+			[ "balase" ],
+			[ "balásemos" ],
+			[ "balaseis", "balasen" ],
+			[ "balasen" ]
+		],
+		"11" : [
+			[ "balare" ],
+			[ "balares" ],
+			[ "balare" ],
+			[ "baláremos" ],
+			[ "balareis", "balaren" ],
+			[ "balaren" ]
+		],
+		"12" : {
+			"1" : [ "bala" ],
+			"2" : [ "bale" ],
+			"3" : [ "balemos" ],
+			"4" : [ "balad" ],
+			"5" : [ "balen" ]
+		}
+	}
+}

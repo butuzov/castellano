@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=izar",
+	"word" : "izar",
+	"infinitivo" : "izar",
+	"participio" : [ "izado" ],
+	"gerundio" : [ "izando" ],
+	"tenses" : {
+		"3" : [
+			[ "izo" ],
+			[ "izas", "izás" ],
+			[ "iza" ],
+			[ "izamos" ],
+			[ "izáis", "izan" ],
+			[ "izan" ]
+		],
+		"4" : [
+			[ "icé" ],
+			[ "izaste" ],
+			[ "izó" ],
+			[ "izamos" ],
+			[ "izasteis", "izaron" ],
+			[ "izaron" ]
+		],
+		"5" : [
+			[ "izaba" ],
+			[ "izabas" ],
+			[ "izaba" ],
+			[ "izábamos" ],
+			[ "izabais", "izaban" ],
+			[ "izaban" ]
+		],
+		"6" : [
+			[ "izaría" ],
+			[ "izarías" ],
+			[ "izaría" ],
+			[ "izaríamos" ],
+			[ "izaríais", "izarían" ],
+			[ "izarían" ]
+		],
+		"7" : [
+			[ "izaré" ],
+			[ "izarás" ],
+			[ "izará" ],
+			[ "izaremos" ],
+			[ "izaréis", "izarán" ],
+			[ "izarán" ]
+		],
+		"8" : [
+			[ "ice" ],
+			[ "ices" ],
+			[ "ice" ],
+			[ "icemos" ],
+			[ "icéis", "icen" ],
+			[ "icen" ]
+		],
+		"9" : [
+			[ "izara" ],
+			[ "izaras" ],
+			[ "izara" ],
+			[ "izáramos" ],
+			[ "izarais", "izaran" ],
+			[ "izaran" ]
+		],
+		"10" : [
+			[ "izase" ],
+			[ "izases" ],
+			[ "izase" ],
+			[ "izásemos" ],
+			[ "izaseis", "izasen" ],
+			[ "izasen" ]
+		],
+		"11" : [
+			[ "izare" ],
+			[ "izares" ],
+			[ "izare" ],
+			[ "izáremos" ],
+			[ "izareis", "izaren" ],
+			[ "izaren" ]
+		],
+		"12" : {
+			"1" : [ "iza" ],
+			"2" : [ "ice" ],
+			"3" : [ "icemos" ],
+			"4" : [ "izad" ],
+			"5" : [ "icen" ]
+		}
+	}
+}

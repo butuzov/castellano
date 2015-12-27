@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adurir",
+	"word" : "adurir",
+	"infinitivo" : "adurir",
+	"participio" : [ "adurido" ],
+	"gerundio" : [ "aduriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aduro" ],
+			[ "adures", "adurís" ],
+			[ "adure" ],
+			[ "adurimos" ],
+			[ "adurís", "aduren" ],
+			[ "aduren" ]
+		],
+		"4" : [
+			[ "adurí" ],
+			[ "aduriste" ],
+			[ "adurió" ],
+			[ "adurimos" ],
+			[ "aduristeis", "adurieron" ],
+			[ "adurieron" ]
+		],
+		"5" : [
+			[ "aduría" ],
+			[ "adurías" ],
+			[ "aduría" ],
+			[ "aduríamos" ],
+			[ "aduríais", "adurían" ],
+			[ "adurían" ]
+		],
+		"6" : [
+			[ "aduriría" ],
+			[ "adurirías" ],
+			[ "aduriría" ],
+			[ "aduriríamos" ],
+			[ "aduriríais", "adurirían" ],
+			[ "adurirían" ]
+		],
+		"7" : [
+			[ "aduriré" ],
+			[ "adurirás" ],
+			[ "adurirá" ],
+			[ "aduriremos" ],
+			[ "aduriréis", "adurirán" ],
+			[ "adurirán" ]
+		],
+		"8" : [
+			[ "adura" ],
+			[ "aduras" ],
+			[ "adura" ],
+			[ "aduramos" ],
+			[ "aduráis", "aduran" ],
+			[ "aduran" ]
+		],
+		"9" : [
+			[ "aduriera" ],
+			[ "adurieras" ],
+			[ "aduriera" ],
+			[ "aduriéramos" ],
+			[ "adurierais", "adurieran" ],
+			[ "adurieran" ]
+		],
+		"10" : [
+			[ "aduriese" ],
+			[ "adurieses" ],
+			[ "aduriese" ],
+			[ "aduriésemos" ],
+			[ "adurieseis", "aduriesen" ],
+			[ "aduriesen" ]
+		],
+		"11" : [
+			[ "aduriere" ],
+			[ "adurieres" ],
+			[ "aduriere" ],
+			[ "aduriéremos" ],
+			[ "aduriereis", "adurieren" ],
+			[ "adurieren" ]
+		],
+		"12" : {
+			"1" : [ "adure" ],
+			"2" : [ "adura" ],
+			"3" : [ "aduramos" ],
+			"4" : [ "adurid" ],
+			"5" : [ "aduran" ]
+		}
+	}
+}

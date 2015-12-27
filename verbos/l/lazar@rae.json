@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lazar",
+	"word" : "lazar",
+	"infinitivo" : "lazar",
+	"participio" : [ "lazado" ],
+	"gerundio" : [ "lazando" ],
+	"tenses" : {
+		"3" : [
+			[ "lazo" ],
+			[ "lazas", "lazás" ],
+			[ "laza" ],
+			[ "lazamos" ],
+			[ "lazáis", "lazan" ],
+			[ "lazan" ]
+		],
+		"4" : [
+			[ "lacé" ],
+			[ "lazaste" ],
+			[ "lazó" ],
+			[ "lazamos" ],
+			[ "lazasteis", "lazaron" ],
+			[ "lazaron" ]
+		],
+		"5" : [
+			[ "lazaba" ],
+			[ "lazabas" ],
+			[ "lazaba" ],
+			[ "lazábamos" ],
+			[ "lazabais", "lazaban" ],
+			[ "lazaban" ]
+		],
+		"6" : [
+			[ "lazaría" ],
+			[ "lazarías" ],
+			[ "lazaría" ],
+			[ "lazaríamos" ],
+			[ "lazaríais", "lazarían" ],
+			[ "lazarían" ]
+		],
+		"7" : [
+			[ "lazaré" ],
+			[ "lazarás" ],
+			[ "lazará" ],
+			[ "lazaremos" ],
+			[ "lazaréis", "lazarán" ],
+			[ "lazarán" ]
+		],
+		"8" : [
+			[ "lace" ],
+			[ "laces" ],
+			[ "lace" ],
+			[ "lacemos" ],
+			[ "lacéis", "lacen" ],
+			[ "lacen" ]
+		],
+		"9" : [
+			[ "lazara" ],
+			[ "lazaras" ],
+			[ "lazara" ],
+			[ "lazáramos" ],
+			[ "lazarais", "lazaran" ],
+			[ "lazaran" ]
+		],
+		"10" : [
+			[ "lazase" ],
+			[ "lazases" ],
+			[ "lazase" ],
+			[ "lazásemos" ],
+			[ "lazaseis", "lazasen" ],
+			[ "lazasen" ]
+		],
+		"11" : [
+			[ "lazare" ],
+			[ "lazares" ],
+			[ "lazare" ],
+			[ "lazáremos" ],
+			[ "lazareis", "lazaren" ],
+			[ "lazaren" ]
+		],
+		"12" : {
+			"1" : [ "laza" ],
+			"2" : [ "lace" ],
+			"3" : [ "lacemos" ],
+			"4" : [ "lazad" ],
+			"5" : [ "lacen" ]
+		}
+	}
+}

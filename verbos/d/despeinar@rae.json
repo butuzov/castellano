@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despeinar",
+	"word" : "despeinar",
+	"infinitivo" : "despeinar",
+	"participio" : [ "despeinado" ],
+	"gerundio" : [ "despeinando" ],
+	"tenses" : {
+		"3" : [
+			[ "despeino" ],
+			[ "despeinas", "despeinás" ],
+			[ "despeina" ],
+			[ "despeinamos" ],
+			[ "despeináis", "despeinan" ],
+			[ "despeinan" ]
+		],
+		"4" : [
+			[ "despeiné" ],
+			[ "despeinaste" ],
+			[ "despeinó" ],
+			[ "despeinamos" ],
+			[ "despeinasteis", "despeinaron" ],
+			[ "despeinaron" ]
+		],
+		"5" : [
+			[ "despeinaba" ],
+			[ "despeinabas" ],
+			[ "despeinaba" ],
+			[ "despeinábamos" ],
+			[ "despeinabais", "despeinaban" ],
+			[ "despeinaban" ]
+		],
+		"6" : [
+			[ "despeinaría" ],
+			[ "despeinarías" ],
+			[ "despeinaría" ],
+			[ "despeinaríamos" ],
+			[ "despeinaríais", "despeinarían" ],
+			[ "despeinarían" ]
+		],
+		"7" : [
+			[ "despeinaré" ],
+			[ "despeinarás" ],
+			[ "despeinará" ],
+			[ "despeinaremos" ],
+			[ "despeinaréis", "despeinarán" ],
+			[ "despeinarán" ]
+		],
+		"8" : [
+			[ "despeine" ],
+			[ "despeines" ],
+			[ "despeine" ],
+			[ "despeinemos" ],
+			[ "despeinéis", "despeinen" ],
+			[ "despeinen" ]
+		],
+		"9" : [
+			[ "despeinara" ],
+			[ "despeinaras" ],
+			[ "despeinara" ],
+			[ "despeináramos" ],
+			[ "despeinarais", "despeinaran" ],
+			[ "despeinaran" ]
+		],
+		"10" : [
+			[ "despeinase" ],
+			[ "despeinases" ],
+			[ "despeinase" ],
+			[ "despeinásemos" ],
+			[ "despeinaseis", "despeinasen" ],
+			[ "despeinasen" ]
+		],
+		"11" : [
+			[ "despeinare" ],
+			[ "despeinares" ],
+			[ "despeinare" ],
+			[ "despeináremos" ],
+			[ "despeinareis", "despeinaren" ],
+			[ "despeinaren" ]
+		],
+		"12" : {
+			"1" : [ "despeina" ],
+			"2" : [ "despeine" ],
+			"3" : [ "despeinemos" ],
+			"4" : [ "despeinad" ],
+			"5" : [ "despeinen" ]
+		}
+	}
+}

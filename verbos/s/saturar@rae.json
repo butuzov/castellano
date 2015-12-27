@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=saturar",
+	"word" : "saturar",
+	"infinitivo" : "saturar",
+	"participio" : [ "saturado" ],
+	"gerundio" : [ "saturando" ],
+	"tenses" : {
+		"3" : [
+			[ "saturo" ],
+			[ "saturas", "saturás" ],
+			[ "satura" ],
+			[ "saturamos" ],
+			[ "saturáis", "saturan" ],
+			[ "saturan" ]
+		],
+		"4" : [
+			[ "saturé" ],
+			[ "saturaste" ],
+			[ "saturó" ],
+			[ "saturamos" ],
+			[ "saturasteis", "saturaron" ],
+			[ "saturaron" ]
+		],
+		"5" : [
+			[ "saturaba" ],
+			[ "saturabas" ],
+			[ "saturaba" ],
+			[ "saturábamos" ],
+			[ "saturabais", "saturaban" ],
+			[ "saturaban" ]
+		],
+		"6" : [
+			[ "saturaría" ],
+			[ "saturarías" ],
+			[ "saturaría" ],
+			[ "saturaríamos" ],
+			[ "saturaríais", "saturarían" ],
+			[ "saturarían" ]
+		],
+		"7" : [
+			[ "saturaré" ],
+			[ "saturarás" ],
+			[ "saturará" ],
+			[ "saturaremos" ],
+			[ "saturaréis", "saturarán" ],
+			[ "saturarán" ]
+		],
+		"8" : [
+			[ "sature" ],
+			[ "satures" ],
+			[ "sature" ],
+			[ "saturemos" ],
+			[ "saturéis", "saturen" ],
+			[ "saturen" ]
+		],
+		"9" : [
+			[ "saturara" ],
+			[ "saturaras" ],
+			[ "saturara" ],
+			[ "saturáramos" ],
+			[ "saturarais", "saturaran" ],
+			[ "saturaran" ]
+		],
+		"10" : [
+			[ "saturase" ],
+			[ "saturases" ],
+			[ "saturase" ],
+			[ "saturásemos" ],
+			[ "saturaseis", "saturasen" ],
+			[ "saturasen" ]
+		],
+		"11" : [
+			[ "saturare" ],
+			[ "saturares" ],
+			[ "saturare" ],
+			[ "saturáremos" ],
+			[ "saturareis", "saturaren" ],
+			[ "saturaren" ]
+		],
+		"12" : {
+			"1" : [ "satura" ],
+			"2" : [ "sature" ],
+			"3" : [ "saturemos" ],
+			"4" : [ "saturad" ],
+			"5" : [ "saturen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hornear",
+	"word" : "hornear",
+	"infinitivo" : "hornear",
+	"participio" : [ "horneado" ],
+	"gerundio" : [ "horneando" ],
+	"tenses" : {
+		"3" : [
+			[ "horneo" ],
+			[ "horneas", "horneás" ],
+			[ "hornea" ],
+			[ "horneamos" ],
+			[ "horneáis", "hornean" ],
+			[ "hornean" ]
+		],
+		"4" : [
+			[ "horneé" ],
+			[ "horneaste" ],
+			[ "horneó" ],
+			[ "horneamos" ],
+			[ "horneasteis", "hornearon" ],
+			[ "hornearon" ]
+		],
+		"5" : [
+			[ "horneaba" ],
+			[ "horneabas" ],
+			[ "horneaba" ],
+			[ "horneábamos" ],
+			[ "horneabais", "horneaban" ],
+			[ "horneaban" ]
+		],
+		"6" : [
+			[ "hornearía" ],
+			[ "hornearías" ],
+			[ "hornearía" ],
+			[ "hornearíamos" ],
+			[ "hornearíais", "hornearían" ],
+			[ "hornearían" ]
+		],
+		"7" : [
+			[ "hornearé" ],
+			[ "hornearás" ],
+			[ "horneará" ],
+			[ "hornearemos" ],
+			[ "hornearéis", "hornearán" ],
+			[ "hornearán" ]
+		],
+		"8" : [
+			[ "hornee" ],
+			[ "hornees" ],
+			[ "hornee" ],
+			[ "horneemos" ],
+			[ "horneéis", "horneen" ],
+			[ "horneen" ]
+		],
+		"9" : [
+			[ "horneara" ],
+			[ "hornearas" ],
+			[ "horneara" ],
+			[ "horneáramos" ],
+			[ "hornearais", "hornearan" ],
+			[ "hornearan" ]
+		],
+		"10" : [
+			[ "hornease" ],
+			[ "horneases" ],
+			[ "hornease" ],
+			[ "horneásemos" ],
+			[ "horneaseis", "horneasen" ],
+			[ "horneasen" ]
+		],
+		"11" : [
+			[ "horneare" ],
+			[ "horneares" ],
+			[ "horneare" ],
+			[ "horneáremos" ],
+			[ "horneareis", "hornearen" ],
+			[ "hornearen" ]
+		],
+		"12" : {
+			"1" : [ "hornea" ],
+			"2" : [ "hornee" ],
+			"3" : [ "horneemos" ],
+			"4" : [ "hornead" ],
+			"5" : [ "horneen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acrecer",
+	"word" : "acrecer",
+	"infinitivo" : "acrecer",
+	"participio" : [ "acrecido" ],
+	"gerundio" : [ "acreciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "acrezco" ],
+			[ "acreces", "acrecés" ],
+			[ "acrece" ],
+			[ "acrecemos" ],
+			[ "acrecéis", "acrecen" ],
+			[ "acrecen" ]
+		],
+		"4" : [
+			[ "acrecí" ],
+			[ "acreciste" ],
+			[ "acreció" ],
+			[ "acrecimos" ],
+			[ "acrecisteis", "acrecieron" ],
+			[ "acrecieron" ]
+		],
+		"5" : [
+			[ "acrecía" ],
+			[ "acrecías" ],
+			[ "acrecía" ],
+			[ "acrecíamos" ],
+			[ "acrecíais", "acrecían" ],
+			[ "acrecían" ]
+		],
+		"6" : [
+			[ "acrecería" ],
+			[ "acrecerías" ],
+			[ "acrecería" ],
+			[ "acreceríamos" ],
+			[ "acreceríais", "acrecerían" ],
+			[ "acrecerían" ]
+		],
+		"7" : [
+			[ "acreceré" ],
+			[ "acrecerás" ],
+			[ "acrecerá" ],
+			[ "acreceremos" ],
+			[ "acreceréis", "acrecerán" ],
+			[ "acrecerán" ]
+		],
+		"8" : [
+			[ "acrezca" ],
+			[ "acrezcas" ],
+			[ "acrezca" ],
+			[ "acrezcamos" ],
+			[ "acrezcáis", "acrezcan" ],
+			[ "acrezcan" ]
+		],
+		"9" : [
+			[ "acreciera" ],
+			[ "acrecieras" ],
+			[ "acreciera" ],
+			[ "acreciéramos" ],
+			[ "acrecierais", "acrecieran" ],
+			[ "acrecieran" ]
+		],
+		"10" : [
+			[ "acreciese" ],
+			[ "acrecieses" ],
+			[ "acreciese" ],
+			[ "acreciésemos" ],
+			[ "acrecieseis", "acreciesen" ],
+			[ "acreciesen" ]
+		],
+		"11" : [
+			[ "acreciere" ],
+			[ "acrecieres" ],
+			[ "acreciere" ],
+			[ "acreciéremos" ],
+			[ "acreciereis", "acrecieren" ],
+			[ "acrecieren" ]
+		],
+		"12" : {
+			"1" : [ "acrece" ],
+			"2" : [ "acrezca" ],
+			"3" : [ "acrezcamos" ],
+			"4" : [ "acreced" ],
+			"5" : [ "acrezcan" ]
+		}
+	}
+}

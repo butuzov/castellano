@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cautelar",
+	"word" : "cautelar",
+	"infinitivo" : "cautelar",
+	"participio" : [ "cautelado" ],
+	"gerundio" : [ "cautelando" ],
+	"tenses" : {
+		"3" : [
+			[ "cautelo" ],
+			[ "cautelas", "cautelás" ],
+			[ "cautela" ],
+			[ "cautelamos" ],
+			[ "cauteláis", "cautelan" ],
+			[ "cautelan" ]
+		],
+		"4" : [
+			[ "cautelé" ],
+			[ "cautelaste" ],
+			[ "cauteló" ],
+			[ "cautelamos" ],
+			[ "cautelasteis", "cautelaron" ],
+			[ "cautelaron" ]
+		],
+		"5" : [
+			[ "cautelaba" ],
+			[ "cautelabas" ],
+			[ "cautelaba" ],
+			[ "cautelábamos" ],
+			[ "cautelabais", "cautelaban" ],
+			[ "cautelaban" ]
+		],
+		"6" : [
+			[ "cautelaría" ],
+			[ "cautelarías" ],
+			[ "cautelaría" ],
+			[ "cautelaríamos" ],
+			[ "cautelaríais", "cautelarían" ],
+			[ "cautelarían" ]
+		],
+		"7" : [
+			[ "cautelaré" ],
+			[ "cautelarás" ],
+			[ "cautelará" ],
+			[ "cautelaremos" ],
+			[ "cautelaréis", "cautelarán" ],
+			[ "cautelarán" ]
+		],
+		"8" : [
+			[ "cautele" ],
+			[ "cauteles" ],
+			[ "cautele" ],
+			[ "cautelemos" ],
+			[ "cauteléis", "cautelen" ],
+			[ "cautelen" ]
+		],
+		"9" : [
+			[ "cautelara" ],
+			[ "cautelaras" ],
+			[ "cautelara" ],
+			[ "cauteláramos" ],
+			[ "cautelarais", "cautelaran" ],
+			[ "cautelaran" ]
+		],
+		"10" : [
+			[ "cautelase" ],
+			[ "cautelases" ],
+			[ "cautelase" ],
+			[ "cautelásemos" ],
+			[ "cautelaseis", "cautelasen" ],
+			[ "cautelasen" ]
+		],
+		"11" : [
+			[ "cautelare" ],
+			[ "cautelares" ],
+			[ "cautelare" ],
+			[ "cauteláremos" ],
+			[ "cautelareis", "cautelaren" ],
+			[ "cautelaren" ]
+		],
+		"12" : {
+			"1" : [ "cautela" ],
+			"2" : [ "cautele" ],
+			"3" : [ "cautelemos" ],
+			"4" : [ "cautelad" ],
+			"5" : [ "cautelen" ]
+		}
+	}
+}

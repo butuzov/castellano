@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=batear",
+	"word" : "batear",
+	"infinitivo" : "batear",
+	"participio" : [ "bateado" ],
+	"gerundio" : [ "bateando" ],
+	"tenses" : {
+		"3" : [
+			[ "bateo" ],
+			[ "bateas", "bateás" ],
+			[ "batea" ],
+			[ "bateamos" ],
+			[ "bateáis", "batean" ],
+			[ "batean" ]
+		],
+		"4" : [
+			[ "bateé" ],
+			[ "bateaste" ],
+			[ "bateó" ],
+			[ "bateamos" ],
+			[ "bateasteis", "batearon" ],
+			[ "batearon" ]
+		],
+		"5" : [
+			[ "bateaba" ],
+			[ "bateabas" ],
+			[ "bateaba" ],
+			[ "bateábamos" ],
+			[ "bateabais", "bateaban" ],
+			[ "bateaban" ]
+		],
+		"6" : [
+			[ "batearía" ],
+			[ "batearías" ],
+			[ "batearía" ],
+			[ "batearíamos" ],
+			[ "batearíais", "batearían" ],
+			[ "batearían" ]
+		],
+		"7" : [
+			[ "batearé" ],
+			[ "batearás" ],
+			[ "bateará" ],
+			[ "batearemos" ],
+			[ "batearéis", "batearán" ],
+			[ "batearán" ]
+		],
+		"8" : [
+			[ "batee" ],
+			[ "batees" ],
+			[ "batee" ],
+			[ "bateemos" ],
+			[ "bateéis", "bateen" ],
+			[ "bateen" ]
+		],
+		"9" : [
+			[ "bateara" ],
+			[ "batearas" ],
+			[ "bateara" ],
+			[ "bateáramos" ],
+			[ "batearais", "batearan" ],
+			[ "batearan" ]
+		],
+		"10" : [
+			[ "batease" ],
+			[ "bateases" ],
+			[ "batease" ],
+			[ "bateásemos" ],
+			[ "bateaseis", "bateasen" ],
+			[ "bateasen" ]
+		],
+		"11" : [
+			[ "bateare" ],
+			[ "bateares" ],
+			[ "bateare" ],
+			[ "bateáremos" ],
+			[ "bateareis", "batearen" ],
+			[ "batearen" ]
+		],
+		"12" : {
+			"1" : [ "batea" ],
+			"2" : [ "batee" ],
+			"3" : [ "bateemos" ],
+			"4" : [ "batead" ],
+			"5" : [ "bateen" ]
+		}
+	}
+}

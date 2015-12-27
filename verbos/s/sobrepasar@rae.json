@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sobrepasar",
+	"word" : "sobrepasar",
+	"infinitivo" : "sobrepasar",
+	"participio" : [ "sobrepasado" ],
+	"gerundio" : [ "sobrepasando" ],
+	"tenses" : {
+		"3" : [
+			[ "sobrepaso" ],
+			[ "sobrepasas", "sobrepasás" ],
+			[ "sobrepasa" ],
+			[ "sobrepasamos" ],
+			[ "sobrepasáis", "sobrepasan" ],
+			[ "sobrepasan" ]
+		],
+		"4" : [
+			[ "sobrepasé" ],
+			[ "sobrepasaste" ],
+			[ "sobrepasó" ],
+			[ "sobrepasamos" ],
+			[ "sobrepasasteis", "sobrepasaron" ],
+			[ "sobrepasaron" ]
+		],
+		"5" : [
+			[ "sobrepasaba" ],
+			[ "sobrepasabas" ],
+			[ "sobrepasaba" ],
+			[ "sobrepasábamos" ],
+			[ "sobrepasabais", "sobrepasaban" ],
+			[ "sobrepasaban" ]
+		],
+		"6" : [
+			[ "sobrepasaría" ],
+			[ "sobrepasarías" ],
+			[ "sobrepasaría" ],
+			[ "sobrepasaríamos" ],
+			[ "sobrepasaríais", "sobrepasarían" ],
+			[ "sobrepasarían" ]
+		],
+		"7" : [
+			[ "sobrepasaré" ],
+			[ "sobrepasarás" ],
+			[ "sobrepasará" ],
+			[ "sobrepasaremos" ],
+			[ "sobrepasaréis", "sobrepasarán" ],
+			[ "sobrepasarán" ]
+		],
+		"8" : [
+			[ "sobrepase" ],
+			[ "sobrepases" ],
+			[ "sobrepase" ],
+			[ "sobrepasemos" ],
+			[ "sobrepaséis", "sobrepasen" ],
+			[ "sobrepasen" ]
+		],
+		"9" : [
+			[ "sobrepasara" ],
+			[ "sobrepasaras" ],
+			[ "sobrepasara" ],
+			[ "sobrepasáramos" ],
+			[ "sobrepasarais", "sobrepasaran" ],
+			[ "sobrepasaran" ]
+		],
+		"10" : [
+			[ "sobrepasase" ],
+			[ "sobrepasases" ],
+			[ "sobrepasase" ],
+			[ "sobrepasásemos" ],
+			[ "sobrepasaseis", "sobrepasasen" ],
+			[ "sobrepasasen" ]
+		],
+		"11" : [
+			[ "sobrepasare" ],
+			[ "sobrepasares" ],
+			[ "sobrepasare" ],
+			[ "sobrepasáremos" ],
+			[ "sobrepasareis", "sobrepasaren" ],
+			[ "sobrepasaren" ]
+		],
+		"12" : {
+			"1" : [ "sobrepasa" ],
+			"2" : [ "sobrepase" ],
+			"3" : [ "sobrepasemos" ],
+			"4" : [ "sobrepasad" ],
+			"5" : [ "sobrepasen" ]
+		}
+	}
+}

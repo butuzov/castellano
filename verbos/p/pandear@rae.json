@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pandear",
+	"word" : "pandear",
+	"infinitivo" : "pandear",
+	"participio" : [ "pandeado" ],
+	"gerundio" : [ "pandeando" ],
+	"tenses" : {
+		"3" : [
+			[ "pandeo" ],
+			[ "pandeas", "pandeás" ],
+			[ "pandea" ],
+			[ "pandeamos" ],
+			[ "pandeáis", "pandean" ],
+			[ "pandean" ]
+		],
+		"4" : [
+			[ "pandeé" ],
+			[ "pandeaste" ],
+			[ "pandeó" ],
+			[ "pandeamos" ],
+			[ "pandeasteis", "pandearon" ],
+			[ "pandearon" ]
+		],
+		"5" : [
+			[ "pandeaba" ],
+			[ "pandeabas" ],
+			[ "pandeaba" ],
+			[ "pandeábamos" ],
+			[ "pandeabais", "pandeaban" ],
+			[ "pandeaban" ]
+		],
+		"6" : [
+			[ "pandearía" ],
+			[ "pandearías" ],
+			[ "pandearía" ],
+			[ "pandearíamos" ],
+			[ "pandearíais", "pandearían" ],
+			[ "pandearían" ]
+		],
+		"7" : [
+			[ "pandearé" ],
+			[ "pandearás" ],
+			[ "pandeará" ],
+			[ "pandearemos" ],
+			[ "pandearéis", "pandearán" ],
+			[ "pandearán" ]
+		],
+		"8" : [
+			[ "pandee" ],
+			[ "pandees" ],
+			[ "pandee" ],
+			[ "pandeemos" ],
+			[ "pandeéis", "pandeen" ],
+			[ "pandeen" ]
+		],
+		"9" : [
+			[ "pandeara" ],
+			[ "pandearas" ],
+			[ "pandeara" ],
+			[ "pandeáramos" ],
+			[ "pandearais", "pandearan" ],
+			[ "pandearan" ]
+		],
+		"10" : [
+			[ "pandease" ],
+			[ "pandeases" ],
+			[ "pandease" ],
+			[ "pandeásemos" ],
+			[ "pandeaseis", "pandeasen" ],
+			[ "pandeasen" ]
+		],
+		"11" : [
+			[ "pandeare" ],
+			[ "pandeares" ],
+			[ "pandeare" ],
+			[ "pandeáremos" ],
+			[ "pandeareis", "pandearen" ],
+			[ "pandearen" ]
+		],
+		"12" : {
+			"1" : [ "pandea" ],
+			"2" : [ "pandee" ],
+			"3" : [ "pandeemos" ],
+			"4" : [ "pandead" ],
+			"5" : [ "pandeen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trapear",
+	"word" : "trapear",
+	"infinitivo" : "trapear",
+	"participio" : [ "trapeado" ],
+	"gerundio" : [ "trapeando" ],
+	"tenses" : {
+		"3" : [
+			[ "trapeo" ],
+			[ "trapeas", "trapeás" ],
+			[ "trapea" ],
+			[ "trapeamos" ],
+			[ "trapeáis", "trapean" ],
+			[ "trapean" ]
+		],
+		"4" : [
+			[ "trapeé" ],
+			[ "trapeaste" ],
+			[ "trapeó" ],
+			[ "trapeamos" ],
+			[ "trapeasteis", "trapearon" ],
+			[ "trapearon" ]
+		],
+		"5" : [
+			[ "trapeaba" ],
+			[ "trapeabas" ],
+			[ "trapeaba" ],
+			[ "trapeábamos" ],
+			[ "trapeabais", "trapeaban" ],
+			[ "trapeaban" ]
+		],
+		"6" : [
+			[ "trapearía" ],
+			[ "trapearías" ],
+			[ "trapearía" ],
+			[ "trapearíamos" ],
+			[ "trapearíais", "trapearían" ],
+			[ "trapearían" ]
+		],
+		"7" : [
+			[ "trapearé" ],
+			[ "trapearás" ],
+			[ "trapeará" ],
+			[ "trapearemos" ],
+			[ "trapearéis", "trapearán" ],
+			[ "trapearán" ]
+		],
+		"8" : [
+			[ "trapee" ],
+			[ "trapees" ],
+			[ "trapee" ],
+			[ "trapeemos" ],
+			[ "trapeéis", "trapeen" ],
+			[ "trapeen" ]
+		],
+		"9" : [
+			[ "trapeara" ],
+			[ "trapearas" ],
+			[ "trapeara" ],
+			[ "trapeáramos" ],
+			[ "trapearais", "trapearan" ],
+			[ "trapearan" ]
+		],
+		"10" : [
+			[ "trapease" ],
+			[ "trapeases" ],
+			[ "trapease" ],
+			[ "trapeásemos" ],
+			[ "trapeaseis", "trapeasen" ],
+			[ "trapeasen" ]
+		],
+		"11" : [
+			[ "trapeare" ],
+			[ "trapeares" ],
+			[ "trapeare" ],
+			[ "trapeáremos" ],
+			[ "trapeareis", "trapearen" ],
+			[ "trapearen" ]
+		],
+		"12" : {
+			"1" : [ "trapea" ],
+			"2" : [ "trapee" ],
+			"3" : [ "trapeemos" ],
+			"4" : [ "trapead" ],
+			"5" : [ "trapeen" ]
+		}
+	}
+}

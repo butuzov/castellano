@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acertar",
+	"word" : "acertar",
+	"infinitivo" : "acertar",
+	"participio" : [ "acertado" ],
+	"gerundio" : [ "acertando" ],
+	"tenses" : {
+		"3" : [
+			[ "acierto" ],
+			[ "aciertas", "acertás" ],
+			[ "acierta" ],
+			[ "acertamos" ],
+			[ "acertáis", "aciertan" ],
+			[ "aciertan" ]
+		],
+		"4" : [
+			[ "acerté" ],
+			[ "acertaste" ],
+			[ "acertó" ],
+			[ "acertamos" ],
+			[ "acertasteis", "acertaron" ],
+			[ "acertaron" ]
+		],
+		"5" : [
+			[ "acertaba" ],
+			[ "acertabas" ],
+			[ "acertaba" ],
+			[ "acertábamos" ],
+			[ "acertabais", "acertaban" ],
+			[ "acertaban" ]
+		],
+		"6" : [
+			[ "acertaría" ],
+			[ "acertarías" ],
+			[ "acertaría" ],
+			[ "acertaríamos" ],
+			[ "acertaríais", "acertarían" ],
+			[ "acertarían" ]
+		],
+		"7" : [
+			[ "acertaré" ],
+			[ "acertarás" ],
+			[ "acertará" ],
+			[ "acertaremos" ],
+			[ "acertaréis", "acertarán" ],
+			[ "acertarán" ]
+		],
+		"8" : [
+			[ "acierte" ],
+			[ "aciertes" ],
+			[ "acierte" ],
+			[ "acertemos" ],
+			[ "acertéis", "acierten" ],
+			[ "acierten" ]
+		],
+		"9" : [
+			[ "acertara" ],
+			[ "acertaras" ],
+			[ "acertara" ],
+			[ "acertáramos" ],
+			[ "acertarais", "acertaran" ],
+			[ "acertaran" ]
+		],
+		"10" : [
+			[ "acertase" ],
+			[ "acertases" ],
+			[ "acertase" ],
+			[ "acertásemos" ],
+			[ "acertaseis", "acertasen" ],
+			[ "acertasen" ]
+		],
+		"11" : [
+			[ "acertare" ],
+			[ "acertares" ],
+			[ "acertare" ],
+			[ "acertáremos" ],
+			[ "acertareis", "acertaren" ],
+			[ "acertaren" ]
+		],
+		"12" : {
+			"1" : [ "acierta" ],
+			"2" : [ "acierte" ],
+			"3" : [ "acertemos" ],
+			"4" : [ "acertad" ],
+			"5" : [ "acierten" ]
+		}
+	}
+}

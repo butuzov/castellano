@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apremiar",
+	"word" : "apremiar",
+	"infinitivo" : "apremiar",
+	"participio" : [ "apremiado" ],
+	"gerundio" : [ "apremiando" ],
+	"tenses" : {
+		"3" : [
+			[ "apremio" ],
+			[ "apremias", "apremiás" ],
+			[ "apremia" ],
+			[ "apremiamos" ],
+			[ "apremiáis", "apremian" ],
+			[ "apremian" ]
+		],
+		"4" : [
+			[ "apremié" ],
+			[ "apremiaste" ],
+			[ "apremió" ],
+			[ "apremiamos" ],
+			[ "apremiasteis", "apremiaron" ],
+			[ "apremiaron" ]
+		],
+		"5" : [
+			[ "apremiaba" ],
+			[ "apremiabas" ],
+			[ "apremiaba" ],
+			[ "apremiábamos" ],
+			[ "apremiabais", "apremiaban" ],
+			[ "apremiaban" ]
+		],
+		"6" : [
+			[ "apremiaría" ],
+			[ "apremiarías" ],
+			[ "apremiaría" ],
+			[ "apremiaríamos" ],
+			[ "apremiaríais", "apremiarían" ],
+			[ "apremiarían" ]
+		],
+		"7" : [
+			[ "apremiaré" ],
+			[ "apremiarás" ],
+			[ "apremiará" ],
+			[ "apremiaremos" ],
+			[ "apremiaréis", "apremiarán" ],
+			[ "apremiarán" ]
+		],
+		"8" : [
+			[ "apremie" ],
+			[ "apremies" ],
+			[ "apremie" ],
+			[ "apremiemos" ],
+			[ "apremiéis", "apremien" ],
+			[ "apremien" ]
+		],
+		"9" : [
+			[ "apremiara" ],
+			[ "apremiaras" ],
+			[ "apremiara" ],
+			[ "apremiáramos" ],
+			[ "apremiarais", "apremiaran" ],
+			[ "apremiaran" ]
+		],
+		"10" : [
+			[ "apremiase" ],
+			[ "apremiases" ],
+			[ "apremiase" ],
+			[ "apremiásemos" ],
+			[ "apremiaseis", "apremiasen" ],
+			[ "apremiasen" ]
+		],
+		"11" : [
+			[ "apremiare" ],
+			[ "apremiares" ],
+			[ "apremiare" ],
+			[ "apremiáremos" ],
+			[ "apremiareis", "apremiaren" ],
+			[ "apremiaren" ]
+		],
+		"12" : {
+			"1" : [ "apremia" ],
+			"2" : [ "apremie" ],
+			"3" : [ "apremiemos" ],
+			"4" : [ "apremiad" ],
+			"5" : [ "apremien" ]
+		}
+	}
+}

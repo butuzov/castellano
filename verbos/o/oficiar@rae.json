@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=oficiar",
+	"word" : "oficiar",
+	"infinitivo" : "oficiar",
+	"participio" : [ "oficiado" ],
+	"gerundio" : [ "oficiando" ],
+	"tenses" : {
+		"3" : [
+			[ "oficio" ],
+			[ "oficias", "oficiás" ],
+			[ "oficia" ],
+			[ "oficiamos" ],
+			[ "oficiáis", "ofician" ],
+			[ "ofician" ]
+		],
+		"4" : [
+			[ "oficié" ],
+			[ "oficiaste" ],
+			[ "ofició" ],
+			[ "oficiamos" ],
+			[ "oficiasteis", "oficiaron" ],
+			[ "oficiaron" ]
+		],
+		"5" : [
+			[ "oficiaba" ],
+			[ "oficiabas" ],
+			[ "oficiaba" ],
+			[ "oficiábamos" ],
+			[ "oficiabais", "oficiaban" ],
+			[ "oficiaban" ]
+		],
+		"6" : [
+			[ "oficiaría" ],
+			[ "oficiarías" ],
+			[ "oficiaría" ],
+			[ "oficiaríamos" ],
+			[ "oficiaríais", "oficiarían" ],
+			[ "oficiarían" ]
+		],
+		"7" : [
+			[ "oficiaré" ],
+			[ "oficiarás" ],
+			[ "oficiará" ],
+			[ "oficiaremos" ],
+			[ "oficiaréis", "oficiarán" ],
+			[ "oficiarán" ]
+		],
+		"8" : [
+			[ "oficie" ],
+			[ "oficies" ],
+			[ "oficie" ],
+			[ "oficiemos" ],
+			[ "oficiéis", "oficien" ],
+			[ "oficien" ]
+		],
+		"9" : [
+			[ "oficiara" ],
+			[ "oficiaras" ],
+			[ "oficiara" ],
+			[ "oficiáramos" ],
+			[ "oficiarais", "oficiaran" ],
+			[ "oficiaran" ]
+		],
+		"10" : [
+			[ "oficiase" ],
+			[ "oficiases" ],
+			[ "oficiase" ],
+			[ "oficiásemos" ],
+			[ "oficiaseis", "oficiasen" ],
+			[ "oficiasen" ]
+		],
+		"11" : [
+			[ "oficiare" ],
+			[ "oficiares" ],
+			[ "oficiare" ],
+			[ "oficiáremos" ],
+			[ "oficiareis", "oficiaren" ],
+			[ "oficiaren" ]
+		],
+		"12" : {
+			"1" : [ "oficia" ],
+			"2" : [ "oficie" ],
+			"3" : [ "oficiemos" ],
+			"4" : [ "oficiad" ],
+			"5" : [ "oficien" ]
+		}
+	}
+}

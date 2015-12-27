@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=legar",
+	"word" : "legar",
+	"infinitivo" : "legar",
+	"participio" : [ "legado" ],
+	"gerundio" : [ "legando" ],
+	"tenses" : {
+		"3" : [
+			[ "lego" ],
+			[ "legas", "legás" ],
+			[ "lega" ],
+			[ "legamos" ],
+			[ "legáis", "legan" ],
+			[ "legan" ]
+		],
+		"4" : [
+			[ "legué" ],
+			[ "legaste" ],
+			[ "legó" ],
+			[ "legamos" ],
+			[ "legasteis", "legaron" ],
+			[ "legaron" ]
+		],
+		"5" : [
+			[ "legaba" ],
+			[ "legabas" ],
+			[ "legaba" ],
+			[ "legábamos" ],
+			[ "legabais", "legaban" ],
+			[ "legaban" ]
+		],
+		"6" : [
+			[ "legaría" ],
+			[ "legarías" ],
+			[ "legaría" ],
+			[ "legaríamos" ],
+			[ "legaríais", "legarían" ],
+			[ "legarían" ]
+		],
+		"7" : [
+			[ "legaré" ],
+			[ "legarás" ],
+			[ "legará" ],
+			[ "legaremos" ],
+			[ "legaréis", "legarán" ],
+			[ "legarán" ]
+		],
+		"8" : [
+			[ "legue" ],
+			[ "legues" ],
+			[ "legue" ],
+			[ "leguemos" ],
+			[ "leguéis", "leguen" ],
+			[ "leguen" ]
+		],
+		"9" : [
+			[ "legara" ],
+			[ "legaras" ],
+			[ "legara" ],
+			[ "legáramos" ],
+			[ "legarais", "legaran" ],
+			[ "legaran" ]
+		],
+		"10" : [
+			[ "legase" ],
+			[ "legases" ],
+			[ "legase" ],
+			[ "legásemos" ],
+			[ "legaseis", "legasen" ],
+			[ "legasen" ]
+		],
+		"11" : [
+			[ "legare" ],
+			[ "legares" ],
+			[ "legare" ],
+			[ "legáremos" ],
+			[ "legareis", "legaren" ],
+			[ "legaren" ]
+		],
+		"12" : {
+			"1" : [ "lega" ],
+			"2" : [ "legue" ],
+			"3" : [ "leguemos" ],
+			"4" : [ "legad" ],
+			"5" : [ "leguen" ]
+		}
+	}
+}

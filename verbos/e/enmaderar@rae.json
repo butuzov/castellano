@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enmaderar",
+	"word" : "enmaderar",
+	"infinitivo" : "enmaderar",
+	"participio" : [ "enmaderado" ],
+	"gerundio" : [ "enmaderando" ],
+	"tenses" : {
+		"3" : [
+			[ "enmadero" ],
+			[ "enmaderas", "enmaderás" ],
+			[ "enmadera" ],
+			[ "enmaderamos" ],
+			[ "enmaderáis", "enmaderan" ],
+			[ "enmaderan" ]
+		],
+		"4" : [
+			[ "enmaderé" ],
+			[ "enmaderaste" ],
+			[ "enmaderó" ],
+			[ "enmaderamos" ],
+			[ "enmaderasteis", "enmaderaron" ],
+			[ "enmaderaron" ]
+		],
+		"5" : [
+			[ "enmaderaba" ],
+			[ "enmaderabas" ],
+			[ "enmaderaba" ],
+			[ "enmaderábamos" ],
+			[ "enmaderabais", "enmaderaban" ],
+			[ "enmaderaban" ]
+		],
+		"6" : [
+			[ "enmaderaría" ],
+			[ "enmaderarías" ],
+			[ "enmaderaría" ],
+			[ "enmaderaríamos" ],
+			[ "enmaderaríais", "enmaderarían" ],
+			[ "enmaderarían" ]
+		],
+		"7" : [
+			[ "enmaderaré" ],
+			[ "enmaderarás" ],
+			[ "enmaderará" ],
+			[ "enmaderaremos" ],
+			[ "enmaderaréis", "enmaderarán" ],
+			[ "enmaderarán" ]
+		],
+		"8" : [
+			[ "enmadere" ],
+			[ "enmaderes" ],
+			[ "enmadere" ],
+			[ "enmaderemos" ],
+			[ "enmaderéis", "enmaderen" ],
+			[ "enmaderen" ]
+		],
+		"9" : [
+			[ "enmaderara" ],
+			[ "enmaderaras" ],
+			[ "enmaderara" ],
+			[ "enmaderáramos" ],
+			[ "enmaderarais", "enmaderaran" ],
+			[ "enmaderaran" ]
+		],
+		"10" : [
+			[ "enmaderase" ],
+			[ "enmaderases" ],
+			[ "enmaderase" ],
+			[ "enmaderásemos" ],
+			[ "enmaderaseis", "enmaderasen" ],
+			[ "enmaderasen" ]
+		],
+		"11" : [
+			[ "enmaderare" ],
+			[ "enmaderares" ],
+			[ "enmaderare" ],
+			[ "enmaderáremos" ],
+			[ "enmaderareis", "enmaderaren" ],
+			[ "enmaderaren" ]
+		],
+		"12" : {
+			"1" : [ "enmadera" ],
+			"2" : [ "enmadere" ],
+			"3" : [ "enmaderemos" ],
+			"4" : [ "enmaderad" ],
+			"5" : [ "enmaderen" ]
+		}
+	}
+}

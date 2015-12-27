@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=purificar",
+	"word" : "purificar",
+	"infinitivo" : "purificar",
+	"participio" : [ "purificado" ],
+	"gerundio" : [ "purificando" ],
+	"tenses" : {
+		"3" : [
+			[ "purifico" ],
+			[ "purificas", "purificás" ],
+			[ "purifica" ],
+			[ "purificamos" ],
+			[ "purificáis", "purifican" ],
+			[ "purifican" ]
+		],
+		"4" : [
+			[ "purifiqué" ],
+			[ "purificaste" ],
+			[ "purificó" ],
+			[ "purificamos" ],
+			[ "purificasteis", "purificaron" ],
+			[ "purificaron" ]
+		],
+		"5" : [
+			[ "purificaba" ],
+			[ "purificabas" ],
+			[ "purificaba" ],
+			[ "purificábamos" ],
+			[ "purificabais", "purificaban" ],
+			[ "purificaban" ]
+		],
+		"6" : [
+			[ "purificaría" ],
+			[ "purificarías" ],
+			[ "purificaría" ],
+			[ "purificaríamos" ],
+			[ "purificaríais", "purificarían" ],
+			[ "purificarían" ]
+		],
+		"7" : [
+			[ "purificaré" ],
+			[ "purificarás" ],
+			[ "purificará" ],
+			[ "purificaremos" ],
+			[ "purificaréis", "purificarán" ],
+			[ "purificarán" ]
+		],
+		"8" : [
+			[ "purifique" ],
+			[ "purifiques" ],
+			[ "purifique" ],
+			[ "purifiquemos" ],
+			[ "purifiquéis", "purifiquen" ],
+			[ "purifiquen" ]
+		],
+		"9" : [
+			[ "purificara" ],
+			[ "purificaras" ],
+			[ "purificara" ],
+			[ "purificáramos" ],
+			[ "purificarais", "purificaran" ],
+			[ "purificaran" ]
+		],
+		"10" : [
+			[ "purificase" ],
+			[ "purificases" ],
+			[ "purificase" ],
+			[ "purificásemos" ],
+			[ "purificaseis", "purificasen" ],
+			[ "purificasen" ]
+		],
+		"11" : [
+			[ "purificare" ],
+			[ "purificares" ],
+			[ "purificare" ],
+			[ "purificáremos" ],
+			[ "purificareis", "purificaren" ],
+			[ "purificaren" ]
+		],
+		"12" : {
+			"1" : [ "purifica" ],
+			"2" : [ "purifique" ],
+			"3" : [ "purifiquemos" ],
+			"4" : [ "purificad" ],
+			"5" : [ "purifiquen" ]
+		}
+	}
+}

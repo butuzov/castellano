@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recitar",
+	"word" : "recitar",
+	"infinitivo" : "recitar",
+	"participio" : [ "recitado" ],
+	"gerundio" : [ "recitando" ],
+	"tenses" : {
+		"3" : [
+			[ "recito" ],
+			[ "recitas", "recitás" ],
+			[ "recita" ],
+			[ "recitamos" ],
+			[ "recitáis", "recitan" ],
+			[ "recitan" ]
+		],
+		"4" : [
+			[ "recité" ],
+			[ "recitaste" ],
+			[ "recitó" ],
+			[ "recitamos" ],
+			[ "recitasteis", "recitaron" ],
+			[ "recitaron" ]
+		],
+		"5" : [
+			[ "recitaba" ],
+			[ "recitabas" ],
+			[ "recitaba" ],
+			[ "recitábamos" ],
+			[ "recitabais", "recitaban" ],
+			[ "recitaban" ]
+		],
+		"6" : [
+			[ "recitaría" ],
+			[ "recitarías" ],
+			[ "recitaría" ],
+			[ "recitaríamos" ],
+			[ "recitaríais", "recitarían" ],
+			[ "recitarían" ]
+		],
+		"7" : [
+			[ "recitaré" ],
+			[ "recitarás" ],
+			[ "recitará" ],
+			[ "recitaremos" ],
+			[ "recitaréis", "recitarán" ],
+			[ "recitarán" ]
+		],
+		"8" : [
+			[ "recite" ],
+			[ "recites" ],
+			[ "recite" ],
+			[ "recitemos" ],
+			[ "recitéis", "reciten" ],
+			[ "reciten" ]
+		],
+		"9" : [
+			[ "recitara" ],
+			[ "recitaras" ],
+			[ "recitara" ],
+			[ "recitáramos" ],
+			[ "recitarais", "recitaran" ],
+			[ "recitaran" ]
+		],
+		"10" : [
+			[ "recitase" ],
+			[ "recitases" ],
+			[ "recitase" ],
+			[ "recitásemos" ],
+			[ "recitaseis", "recitasen" ],
+			[ "recitasen" ]
+		],
+		"11" : [
+			[ "recitare" ],
+			[ "recitares" ],
+			[ "recitare" ],
+			[ "recitáremos" ],
+			[ "recitareis", "recitaren" ],
+			[ "recitaren" ]
+		],
+		"12" : {
+			"1" : [ "recita" ],
+			"2" : [ "recite" ],
+			"3" : [ "recitemos" ],
+			"4" : [ "recitad" ],
+			"5" : [ "reciten" ]
+		}
+	}
+}

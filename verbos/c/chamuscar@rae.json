@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chamuscar",
+	"word" : "chamuscar",
+	"infinitivo" : "chamuscar",
+	"participio" : [ "chamuscado" ],
+	"gerundio" : [ "chamuscando" ],
+	"tenses" : {
+		"3" : [
+			[ "chamusco" ],
+			[ "chamuscas", "chamuscás" ],
+			[ "chamusca" ],
+			[ "chamuscamos" ],
+			[ "chamuscáis", "chamuscan" ],
+			[ "chamuscan" ]
+		],
+		"4" : [
+			[ "chamusqué" ],
+			[ "chamuscaste" ],
+			[ "chamuscó" ],
+			[ "chamuscamos" ],
+			[ "chamuscasteis", "chamuscaron" ],
+			[ "chamuscaron" ]
+		],
+		"5" : [
+			[ "chamuscaba" ],
+			[ "chamuscabas" ],
+			[ "chamuscaba" ],
+			[ "chamuscábamos" ],
+			[ "chamuscabais", "chamuscaban" ],
+			[ "chamuscaban" ]
+		],
+		"6" : [
+			[ "chamuscaría" ],
+			[ "chamuscarías" ],
+			[ "chamuscaría" ],
+			[ "chamuscaríamos" ],
+			[ "chamuscaríais", "chamuscarían" ],
+			[ "chamuscarían" ]
+		],
+		"7" : [
+			[ "chamuscaré" ],
+			[ "chamuscarás" ],
+			[ "chamuscará" ],
+			[ "chamuscaremos" ],
+			[ "chamuscaréis", "chamuscarán" ],
+			[ "chamuscarán" ]
+		],
+		"8" : [
+			[ "chamusque" ],
+			[ "chamusques" ],
+			[ "chamusque" ],
+			[ "chamusquemos" ],
+			[ "chamusquéis", "chamusquen" ],
+			[ "chamusquen" ]
+		],
+		"9" : [
+			[ "chamuscara" ],
+			[ "chamuscaras" ],
+			[ "chamuscara" ],
+			[ "chamuscáramos" ],
+			[ "chamuscarais", "chamuscaran" ],
+			[ "chamuscaran" ]
+		],
+		"10" : [
+			[ "chamuscase" ],
+			[ "chamuscases" ],
+			[ "chamuscase" ],
+			[ "chamuscásemos" ],
+			[ "chamuscaseis", "chamuscasen" ],
+			[ "chamuscasen" ]
+		],
+		"11" : [
+			[ "chamuscare" ],
+			[ "chamuscares" ],
+			[ "chamuscare" ],
+			[ "chamuscáremos" ],
+			[ "chamuscareis", "chamuscaren" ],
+			[ "chamuscaren" ]
+		],
+		"12" : {
+			"1" : [ "chamusca" ],
+			"2" : [ "chamusque" ],
+			"3" : [ "chamusquemos" ],
+			"4" : [ "chamuscad" ],
+			"5" : [ "chamusquen" ]
+		}
+	}
+}

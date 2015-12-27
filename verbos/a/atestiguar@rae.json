@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atestiguar",
+	"word" : "atestiguar",
+	"infinitivo" : "atestiguar",
+	"participio" : [ "atestiguado" ],
+	"gerundio" : [ "atestiguando" ],
+	"tenses" : {
+		"3" : [
+			[ "atestiguo" ],
+			[ "atestiguas", "atestiguás" ],
+			[ "atestigua" ],
+			[ "atestiguamos" ],
+			[ "atestiguáis", "atestiguan" ],
+			[ "atestiguan" ]
+		],
+		"4" : [
+			[ "atestigüé" ],
+			[ "atestiguaste" ],
+			[ "atestiguó" ],
+			[ "atestiguamos" ],
+			[ "atestiguasteis", "atestiguaron" ],
+			[ "atestiguaron" ]
+		],
+		"5" : [
+			[ "atestiguaba" ],
+			[ "atestiguabas" ],
+			[ "atestiguaba" ],
+			[ "atestiguábamos" ],
+			[ "atestiguabais", "atestiguaban" ],
+			[ "atestiguaban" ]
+		],
+		"6" : [
+			[ "atestiguaría" ],
+			[ "atestiguarías" ],
+			[ "atestiguaría" ],
+			[ "atestiguaríamos" ],
+			[ "atestiguaríais", "atestiguarían" ],
+			[ "atestiguarían" ]
+		],
+		"7" : [
+			[ "atestiguaré" ],
+			[ "atestiguarás" ],
+			[ "atestiguará" ],
+			[ "atestiguaremos" ],
+			[ "atestiguaréis", "atestiguarán" ],
+			[ "atestiguarán" ]
+		],
+		"8" : [
+			[ "atestigüe" ],
+			[ "atestigües" ],
+			[ "atestigüe" ],
+			[ "atestigüemos" ],
+			[ "atestigüéis", "atestigüen" ],
+			[ "atestigüen" ]
+		],
+		"9" : [
+			[ "atestiguara" ],
+			[ "atestiguaras" ],
+			[ "atestiguara" ],
+			[ "atestiguáramos" ],
+			[ "atestiguarais", "atestiguaran" ],
+			[ "atestiguaran" ]
+		],
+		"10" : [
+			[ "atestiguase" ],
+			[ "atestiguases" ],
+			[ "atestiguase" ],
+			[ "atestiguásemos" ],
+			[ "atestiguaseis", "atestiguasen" ],
+			[ "atestiguasen" ]
+		],
+		"11" : [
+			[ "atestiguare" ],
+			[ "atestiguares" ],
+			[ "atestiguare" ],
+			[ "atestiguáremos" ],
+			[ "atestiguareis", "atestiguaren" ],
+			[ "atestiguaren" ]
+		],
+		"12" : {
+			"1" : [ "atestigua" ],
+			"2" : [ "atestigüe" ],
+			"3" : [ "atestigüemos" ],
+			"4" : [ "atestiguad" ],
+			"5" : [ "atestigüen" ]
+		}
+	}
+}

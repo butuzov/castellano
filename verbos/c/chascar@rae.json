@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chascar",
+	"word" : "chascar",
+	"infinitivo" : "chascar",
+	"participio" : [ "chascado" ],
+	"gerundio" : [ "chascando" ],
+	"tenses" : {
+		"3" : [
+			[ "chasco" ],
+			[ "chascas", "chascás" ],
+			[ "chasca" ],
+			[ "chascamos" ],
+			[ "chascáis", "chascan" ],
+			[ "chascan" ]
+		],
+		"4" : [
+			[ "chasqué" ],
+			[ "chascaste" ],
+			[ "chascó" ],
+			[ "chascamos" ],
+			[ "chascasteis", "chascaron" ],
+			[ "chascaron" ]
+		],
+		"5" : [
+			[ "chascaba" ],
+			[ "chascabas" ],
+			[ "chascaba" ],
+			[ "chascábamos" ],
+			[ "chascabais", "chascaban" ],
+			[ "chascaban" ]
+		],
+		"6" : [
+			[ "chascaría" ],
+			[ "chascarías" ],
+			[ "chascaría" ],
+			[ "chascaríamos" ],
+			[ "chascaríais", "chascarían" ],
+			[ "chascarían" ]
+		],
+		"7" : [
+			[ "chascaré" ],
+			[ "chascarás" ],
+			[ "chascará" ],
+			[ "chascaremos" ],
+			[ "chascaréis", "chascarán" ],
+			[ "chascarán" ]
+		],
+		"8" : [
+			[ "chasque" ],
+			[ "chasques" ],
+			[ "chasque" ],
+			[ "chasquemos" ],
+			[ "chasquéis", "chasquen" ],
+			[ "chasquen" ]
+		],
+		"9" : [
+			[ "chascara" ],
+			[ "chascaras" ],
+			[ "chascara" ],
+			[ "chascáramos" ],
+			[ "chascarais", "chascaran" ],
+			[ "chascaran" ]
+		],
+		"10" : [
+			[ "chascase" ],
+			[ "chascases" ],
+			[ "chascase" ],
+			[ "chascásemos" ],
+			[ "chascaseis", "chascasen" ],
+			[ "chascasen" ]
+		],
+		"11" : [
+			[ "chascare" ],
+			[ "chascares" ],
+			[ "chascare" ],
+			[ "chascáremos" ],
+			[ "chascareis", "chascaren" ],
+			[ "chascaren" ]
+		],
+		"12" : {
+			"1" : [ "chasca" ],
+			"2" : [ "chasque" ],
+			"3" : [ "chasquemos" ],
+			"4" : [ "chascad" ],
+			"5" : [ "chasquen" ]
+		}
+	}
+}

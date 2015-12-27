@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empolvar",
+	"word" : "empolvar",
+	"infinitivo" : "empolvar",
+	"participio" : [ "empolvado" ],
+	"gerundio" : [ "empolvando" ],
+	"tenses" : {
+		"3" : [
+			[ "empolvo" ],
+			[ "empolvas", "empolvás" ],
+			[ "empolva" ],
+			[ "empolvamos" ],
+			[ "empolváis", "empolvan" ],
+			[ "empolvan" ]
+		],
+		"4" : [
+			[ "empolvé" ],
+			[ "empolvaste" ],
+			[ "empolvó" ],
+			[ "empolvamos" ],
+			[ "empolvasteis", "empolvaron" ],
+			[ "empolvaron" ]
+		],
+		"5" : [
+			[ "empolvaba" ],
+			[ "empolvabas" ],
+			[ "empolvaba" ],
+			[ "empolvábamos" ],
+			[ "empolvabais", "empolvaban" ],
+			[ "empolvaban" ]
+		],
+		"6" : [
+			[ "empolvaría" ],
+			[ "empolvarías" ],
+			[ "empolvaría" ],
+			[ "empolvaríamos" ],
+			[ "empolvaríais", "empolvarían" ],
+			[ "empolvarían" ]
+		],
+		"7" : [
+			[ "empolvaré" ],
+			[ "empolvarás" ],
+			[ "empolvará" ],
+			[ "empolvaremos" ],
+			[ "empolvaréis", "empolvarán" ],
+			[ "empolvarán" ]
+		],
+		"8" : [
+			[ "empolve" ],
+			[ "empolves" ],
+			[ "empolve" ],
+			[ "empolvemos" ],
+			[ "empolvéis", "empolven" ],
+			[ "empolven" ]
+		],
+		"9" : [
+			[ "empolvara" ],
+			[ "empolvaras" ],
+			[ "empolvara" ],
+			[ "empolváramos" ],
+			[ "empolvarais", "empolvaran" ],
+			[ "empolvaran" ]
+		],
+		"10" : [
+			[ "empolvase" ],
+			[ "empolvases" ],
+			[ "empolvase" ],
+			[ "empolvásemos" ],
+			[ "empolvaseis", "empolvasen" ],
+			[ "empolvasen" ]
+		],
+		"11" : [
+			[ "empolvare" ],
+			[ "empolvares" ],
+			[ "empolvare" ],
+			[ "empolváremos" ],
+			[ "empolvareis", "empolvaren" ],
+			[ "empolvaren" ]
+		],
+		"12" : {
+			"1" : [ "empolva" ],
+			"2" : [ "empolve" ],
+			"3" : [ "empolvemos" ],
+			"4" : [ "empolvad" ],
+			"5" : [ "empolven" ]
+		}
+	}
+}

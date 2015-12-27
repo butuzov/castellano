@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apuntar",
+	"word" : "apuntar",
+	"infinitivo" : "apuntar",
+	"participio" : [ "apuntado" ],
+	"gerundio" : [ "apuntando" ],
+	"tenses" : {
+		"3" : [
+			[ "apunto" ],
+			[ "apuntas", "apuntás" ],
+			[ "apunta" ],
+			[ "apuntamos" ],
+			[ "apuntáis", "apuntan" ],
+			[ "apuntan" ]
+		],
+		"4" : [
+			[ "apunté" ],
+			[ "apuntaste" ],
+			[ "apuntó" ],
+			[ "apuntamos" ],
+			[ "apuntasteis", "apuntaron" ],
+			[ "apuntaron" ]
+		],
+		"5" : [
+			[ "apuntaba" ],
+			[ "apuntabas" ],
+			[ "apuntaba" ],
+			[ "apuntábamos" ],
+			[ "apuntabais", "apuntaban" ],
+			[ "apuntaban" ]
+		],
+		"6" : [
+			[ "apuntaría" ],
+			[ "apuntarías" ],
+			[ "apuntaría" ],
+			[ "apuntaríamos" ],
+			[ "apuntaríais", "apuntarían" ],
+			[ "apuntarían" ]
+		],
+		"7" : [
+			[ "apuntaré" ],
+			[ "apuntarás" ],
+			[ "apuntará" ],
+			[ "apuntaremos" ],
+			[ "apuntaréis", "apuntarán" ],
+			[ "apuntarán" ]
+		],
+		"8" : [
+			[ "apunte" ],
+			[ "apuntes" ],
+			[ "apunte" ],
+			[ "apuntemos" ],
+			[ "apuntéis", "apunten" ],
+			[ "apunten" ]
+		],
+		"9" : [
+			[ "apuntara" ],
+			[ "apuntaras" ],
+			[ "apuntara" ],
+			[ "apuntáramos" ],
+			[ "apuntarais", "apuntaran" ],
+			[ "apuntaran" ]
+		],
+		"10" : [
+			[ "apuntase" ],
+			[ "apuntases" ],
+			[ "apuntase" ],
+			[ "apuntásemos" ],
+			[ "apuntaseis", "apuntasen" ],
+			[ "apuntasen" ]
+		],
+		"11" : [
+			[ "apuntare" ],
+			[ "apuntares" ],
+			[ "apuntare" ],
+			[ "apuntáremos" ],
+			[ "apuntareis", "apuntaren" ],
+			[ "apuntaren" ]
+		],
+		"12" : {
+			"1" : [ "apunta" ],
+			"2" : [ "apunte" ],
+			"3" : [ "apuntemos" ],
+			"4" : [ "apuntad" ],
+			"5" : [ "apunten" ]
+		}
+	}
+}

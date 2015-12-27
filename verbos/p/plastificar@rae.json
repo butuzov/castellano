@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=plastificar",
+	"word" : "plastificar",
+	"infinitivo" : "plastificar",
+	"participio" : [ "plastificado" ],
+	"gerundio" : [ "plastificando" ],
+	"tenses" : {
+		"3" : [
+			[ "plastifico" ],
+			[ "plastificas", "plastificás" ],
+			[ "plastifica" ],
+			[ "plastificamos" ],
+			[ "plastificáis", "plastifican" ],
+			[ "plastifican" ]
+		],
+		"4" : [
+			[ "plastifiqué" ],
+			[ "plastificaste" ],
+			[ "plastificó" ],
+			[ "plastificamos" ],
+			[ "plastificasteis", "plastificaron" ],
+			[ "plastificaron" ]
+		],
+		"5" : [
+			[ "plastificaba" ],
+			[ "plastificabas" ],
+			[ "plastificaba" ],
+			[ "plastificábamos" ],
+			[ "plastificabais", "plastificaban" ],
+			[ "plastificaban" ]
+		],
+		"6" : [
+			[ "plastificaría" ],
+			[ "plastificarías" ],
+			[ "plastificaría" ],
+			[ "plastificaríamos" ],
+			[ "plastificaríais", "plastificarían" ],
+			[ "plastificarían" ]
+		],
+		"7" : [
+			[ "plastificaré" ],
+			[ "plastificarás" ],
+			[ "plastificará" ],
+			[ "plastificaremos" ],
+			[ "plastificaréis", "plastificarán" ],
+			[ "plastificarán" ]
+		],
+		"8" : [
+			[ "plastifique" ],
+			[ "plastifiques" ],
+			[ "plastifique" ],
+			[ "plastifiquemos" ],
+			[ "plastifiquéis", "plastifiquen" ],
+			[ "plastifiquen" ]
+		],
+		"9" : [
+			[ "plastificara" ],
+			[ "plastificaras" ],
+			[ "plastificara" ],
+			[ "plastificáramos" ],
+			[ "plastificarais", "plastificaran" ],
+			[ "plastificaran" ]
+		],
+		"10" : [
+			[ "plastificase" ],
+			[ "plastificases" ],
+			[ "plastificase" ],
+			[ "plastificásemos" ],
+			[ "plastificaseis", "plastificasen" ],
+			[ "plastificasen" ]
+		],
+		"11" : [
+			[ "plastificare" ],
+			[ "plastificares" ],
+			[ "plastificare" ],
+			[ "plastificáremos" ],
+			[ "plastificareis", "plastificaren" ],
+			[ "plastificaren" ]
+		],
+		"12" : {
+			"1" : [ "plastifica" ],
+			"2" : [ "plastifique" ],
+			"3" : [ "plastifiquemos" ],
+			"4" : [ "plastificad" ],
+			"5" : [ "plastifiquen" ]
+		}
+	}
+}

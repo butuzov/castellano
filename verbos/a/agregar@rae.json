@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agregar",
+	"word" : "agregar",
+	"infinitivo" : "agregar",
+	"participio" : [ "agregado" ],
+	"gerundio" : [ "agregando" ],
+	"tenses" : {
+		"3" : [
+			[ "agrego" ],
+			[ "agregas", "agregás" ],
+			[ "agrega" ],
+			[ "agregamos" ],
+			[ "agregáis", "agregan" ],
+			[ "agregan" ]
+		],
+		"4" : [
+			[ "agregué" ],
+			[ "agregaste" ],
+			[ "agregó" ],
+			[ "agregamos" ],
+			[ "agregasteis", "agregaron" ],
+			[ "agregaron" ]
+		],
+		"5" : [
+			[ "agregaba" ],
+			[ "agregabas" ],
+			[ "agregaba" ],
+			[ "agregábamos" ],
+			[ "agregabais", "agregaban" ],
+			[ "agregaban" ]
+		],
+		"6" : [
+			[ "agregaría" ],
+			[ "agregarías" ],
+			[ "agregaría" ],
+			[ "agregaríamos" ],
+			[ "agregaríais", "agregarían" ],
+			[ "agregarían" ]
+		],
+		"7" : [
+			[ "agregaré" ],
+			[ "agregarás" ],
+			[ "agregará" ],
+			[ "agregaremos" ],
+			[ "agregaréis", "agregarán" ],
+			[ "agregarán" ]
+		],
+		"8" : [
+			[ "agregue" ],
+			[ "agregues" ],
+			[ "agregue" ],
+			[ "agreguemos" ],
+			[ "agreguéis", "agreguen" ],
+			[ "agreguen" ]
+		],
+		"9" : [
+			[ "agregara" ],
+			[ "agregaras" ],
+			[ "agregara" ],
+			[ "agregáramos" ],
+			[ "agregarais", "agregaran" ],
+			[ "agregaran" ]
+		],
+		"10" : [
+			[ "agregase" ],
+			[ "agregases" ],
+			[ "agregase" ],
+			[ "agregásemos" ],
+			[ "agregaseis", "agregasen" ],
+			[ "agregasen" ]
+		],
+		"11" : [
+			[ "agregare" ],
+			[ "agregares" ],
+			[ "agregare" ],
+			[ "agregáremos" ],
+			[ "agregareis", "agregaren" ],
+			[ "agregaren" ]
+		],
+		"12" : {
+			"1" : [ "agrega" ],
+			"2" : [ "agregue" ],
+			"3" : [ "agreguemos" ],
+			"4" : [ "agregad" ],
+			"5" : [ "agreguen" ]
+		}
+	}
+}

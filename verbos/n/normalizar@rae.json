@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=normalizar",
+	"word" : "normalizar",
+	"infinitivo" : "normalizar",
+	"participio" : [ "normalizado" ],
+	"gerundio" : [ "normalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "normalizo" ],
+			[ "normalizas", "normalizás" ],
+			[ "normaliza" ],
+			[ "normalizamos" ],
+			[ "normalizáis", "normalizan" ],
+			[ "normalizan" ]
+		],
+		"4" : [
+			[ "normalicé" ],
+			[ "normalizaste" ],
+			[ "normalizó" ],
+			[ "normalizamos" ],
+			[ "normalizasteis", "normalizaron" ],
+			[ "normalizaron" ]
+		],
+		"5" : [
+			[ "normalizaba" ],
+			[ "normalizabas" ],
+			[ "normalizaba" ],
+			[ "normalizábamos" ],
+			[ "normalizabais", "normalizaban" ],
+			[ "normalizaban" ]
+		],
+		"6" : [
+			[ "normalizaría" ],
+			[ "normalizarías" ],
+			[ "normalizaría" ],
+			[ "normalizaríamos" ],
+			[ "normalizaríais", "normalizarían" ],
+			[ "normalizarían" ]
+		],
+		"7" : [
+			[ "normalizaré" ],
+			[ "normalizarás" ],
+			[ "normalizará" ],
+			[ "normalizaremos" ],
+			[ "normalizaréis", "normalizarán" ],
+			[ "normalizarán" ]
+		],
+		"8" : [
+			[ "normalice" ],
+			[ "normalices" ],
+			[ "normalice" ],
+			[ "normalicemos" ],
+			[ "normalicéis", "normalicen" ],
+			[ "normalicen" ]
+		],
+		"9" : [
+			[ "normalizara" ],
+			[ "normalizaras" ],
+			[ "normalizara" ],
+			[ "normalizáramos" ],
+			[ "normalizarais", "normalizaran" ],
+			[ "normalizaran" ]
+		],
+		"10" : [
+			[ "normalizase" ],
+			[ "normalizases" ],
+			[ "normalizase" ],
+			[ "normalizásemos" ],
+			[ "normalizaseis", "normalizasen" ],
+			[ "normalizasen" ]
+		],
+		"11" : [
+			[ "normalizare" ],
+			[ "normalizares" ],
+			[ "normalizare" ],
+			[ "normalizáremos" ],
+			[ "normalizareis", "normalizaren" ],
+			[ "normalizaren" ]
+		],
+		"12" : {
+			"1" : [ "normaliza" ],
+			"2" : [ "normalice" ],
+			"3" : [ "normalicemos" ],
+			"4" : [ "normalizad" ],
+			"5" : [ "normalicen" ]
+		}
+	}
+}

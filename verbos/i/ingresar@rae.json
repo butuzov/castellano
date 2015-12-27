@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ingresar",
+	"word" : "ingresar",
+	"infinitivo" : "ingresar",
+	"participio" : [ "ingresado" ],
+	"gerundio" : [ "ingresando" ],
+	"tenses" : {
+		"3" : [
+			[ "ingreso" ],
+			[ "ingresas", "ingresás" ],
+			[ "ingresa" ],
+			[ "ingresamos" ],
+			[ "ingresáis", "ingresan" ],
+			[ "ingresan" ]
+		],
+		"4" : [
+			[ "ingresé" ],
+			[ "ingresaste" ],
+			[ "ingresó" ],
+			[ "ingresamos" ],
+			[ "ingresasteis", "ingresaron" ],
+			[ "ingresaron" ]
+		],
+		"5" : [
+			[ "ingresaba" ],
+			[ "ingresabas" ],
+			[ "ingresaba" ],
+			[ "ingresábamos" ],
+			[ "ingresabais", "ingresaban" ],
+			[ "ingresaban" ]
+		],
+		"6" : [
+			[ "ingresaría" ],
+			[ "ingresarías" ],
+			[ "ingresaría" ],
+			[ "ingresaríamos" ],
+			[ "ingresaríais", "ingresarían" ],
+			[ "ingresarían" ]
+		],
+		"7" : [
+			[ "ingresaré" ],
+			[ "ingresarás" ],
+			[ "ingresará" ],
+			[ "ingresaremos" ],
+			[ "ingresaréis", "ingresarán" ],
+			[ "ingresarán" ]
+		],
+		"8" : [
+			[ "ingrese" ],
+			[ "ingreses" ],
+			[ "ingrese" ],
+			[ "ingresemos" ],
+			[ "ingreséis", "ingresen" ],
+			[ "ingresen" ]
+		],
+		"9" : [
+			[ "ingresara" ],
+			[ "ingresaras" ],
+			[ "ingresara" ],
+			[ "ingresáramos" ],
+			[ "ingresarais", "ingresaran" ],
+			[ "ingresaran" ]
+		],
+		"10" : [
+			[ "ingresase" ],
+			[ "ingresases" ],
+			[ "ingresase" ],
+			[ "ingresásemos" ],
+			[ "ingresaseis", "ingresasen" ],
+			[ "ingresasen" ]
+		],
+		"11" : [
+			[ "ingresare" ],
+			[ "ingresares" ],
+			[ "ingresare" ],
+			[ "ingresáremos" ],
+			[ "ingresareis", "ingresaren" ],
+			[ "ingresaren" ]
+		],
+		"12" : {
+			"1" : [ "ingresa" ],
+			"2" : [ "ingrese" ],
+			"3" : [ "ingresemos" ],
+			"4" : [ "ingresad" ],
+			"5" : [ "ingresen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=observar",
+	"word" : "observar",
+	"infinitivo" : "observar",
+	"participio" : [ "observado" ],
+	"gerundio" : [ "observando" ],
+	"tenses" : {
+		"3" : [
+			[ "observo" ],
+			[ "observas", "observás" ],
+			[ "observa" ],
+			[ "observamos" ],
+			[ "observáis", "observan" ],
+			[ "observan" ]
+		],
+		"4" : [
+			[ "observé" ],
+			[ "observaste" ],
+			[ "observó" ],
+			[ "observamos" ],
+			[ "observasteis", "observaron" ],
+			[ "observaron" ]
+		],
+		"5" : [
+			[ "observaba" ],
+			[ "observabas" ],
+			[ "observaba" ],
+			[ "observábamos" ],
+			[ "observabais", "observaban" ],
+			[ "observaban" ]
+		],
+		"6" : [
+			[ "observaría" ],
+			[ "observarías" ],
+			[ "observaría" ],
+			[ "observaríamos" ],
+			[ "observaríais", "observarían" ],
+			[ "observarían" ]
+		],
+		"7" : [
+			[ "observaré" ],
+			[ "observarás" ],
+			[ "observará" ],
+			[ "observaremos" ],
+			[ "observaréis", "observarán" ],
+			[ "observarán" ]
+		],
+		"8" : [
+			[ "observe" ],
+			[ "observes" ],
+			[ "observe" ],
+			[ "observemos" ],
+			[ "observéis", "observen" ],
+			[ "observen" ]
+		],
+		"9" : [
+			[ "observara" ],
+			[ "observaras" ],
+			[ "observara" ],
+			[ "observáramos" ],
+			[ "observarais", "observaran" ],
+			[ "observaran" ]
+		],
+		"10" : [
+			[ "observase" ],
+			[ "observases" ],
+			[ "observase" ],
+			[ "observásemos" ],
+			[ "observaseis", "observasen" ],
+			[ "observasen" ]
+		],
+		"11" : [
+			[ "observare" ],
+			[ "observares" ],
+			[ "observare" ],
+			[ "observáremos" ],
+			[ "observareis", "observaren" ],
+			[ "observaren" ]
+		],
+		"12" : {
+			"1" : [ "observa" ],
+			"2" : [ "observe" ],
+			"3" : [ "observemos" ],
+			"4" : [ "observad" ],
+			"5" : [ "observen" ]
+		}
+	}
+}

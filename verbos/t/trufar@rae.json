@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trufar",
+	"word" : "trufar",
+	"infinitivo" : "trufar",
+	"participio" : [ "trufado" ],
+	"gerundio" : [ "trufando" ],
+	"tenses" : {
+		"3" : [
+			[ "trufo" ],
+			[ "trufas", "trufás" ],
+			[ "trufa" ],
+			[ "trufamos" ],
+			[ "trufáis", "trufan" ],
+			[ "trufan" ]
+		],
+		"4" : [
+			[ "trufé" ],
+			[ "trufaste" ],
+			[ "trufó" ],
+			[ "trufamos" ],
+			[ "trufasteis", "trufaron" ],
+			[ "trufaron" ]
+		],
+		"5" : [
+			[ "trufaba" ],
+			[ "trufabas" ],
+			[ "trufaba" ],
+			[ "trufábamos" ],
+			[ "trufabais", "trufaban" ],
+			[ "trufaban" ]
+		],
+		"6" : [
+			[ "trufaría" ],
+			[ "trufarías" ],
+			[ "trufaría" ],
+			[ "trufaríamos" ],
+			[ "trufaríais", "trufarían" ],
+			[ "trufarían" ]
+		],
+		"7" : [
+			[ "trufaré" ],
+			[ "trufarás" ],
+			[ "trufará" ],
+			[ "trufaremos" ],
+			[ "trufaréis", "trufarán" ],
+			[ "trufarán" ]
+		],
+		"8" : [
+			[ "trufe" ],
+			[ "trufes" ],
+			[ "trufe" ],
+			[ "trufemos" ],
+			[ "truféis", "trufen" ],
+			[ "trufen" ]
+		],
+		"9" : [
+			[ "trufara" ],
+			[ "trufaras" ],
+			[ "trufara" ],
+			[ "trufáramos" ],
+			[ "trufarais", "trufaran" ],
+			[ "trufaran" ]
+		],
+		"10" : [
+			[ "trufase" ],
+			[ "trufases" ],
+			[ "trufase" ],
+			[ "trufásemos" ],
+			[ "trufaseis", "trufasen" ],
+			[ "trufasen" ]
+		],
+		"11" : [
+			[ "trufare" ],
+			[ "trufares" ],
+			[ "trufare" ],
+			[ "trufáremos" ],
+			[ "trufareis", "trufaren" ],
+			[ "trufaren" ]
+		],
+		"12" : {
+			"1" : [ "trufa" ],
+			"2" : [ "trufe" ],
+			"3" : [ "trufemos" ],
+			"4" : [ "trufad" ],
+			"5" : [ "trufen" ]
+		}
+	}
+}

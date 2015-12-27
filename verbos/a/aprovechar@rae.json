@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aprovechar",
+	"word" : "aprovechar",
+	"infinitivo" : "aprovechar",
+	"participio" : [ "aprovechado" ],
+	"gerundio" : [ "aprovechando" ],
+	"tenses" : {
+		"3" : [
+			[ "aprovecho" ],
+			[ "aprovechas", "aprovechás" ],
+			[ "aprovecha" ],
+			[ "aprovechamos" ],
+			[ "aprovecháis", "aprovechan" ],
+			[ "aprovechan" ]
+		],
+		"4" : [
+			[ "aproveché" ],
+			[ "aprovechaste" ],
+			[ "aprovechó" ],
+			[ "aprovechamos" ],
+			[ "aprovechasteis", "aprovecharon" ],
+			[ "aprovecharon" ]
+		],
+		"5" : [
+			[ "aprovechaba" ],
+			[ "aprovechabas" ],
+			[ "aprovechaba" ],
+			[ "aprovechábamos" ],
+			[ "aprovechabais", "aprovechaban" ],
+			[ "aprovechaban" ]
+		],
+		"6" : [
+			[ "aprovecharía" ],
+			[ "aprovecharías" ],
+			[ "aprovecharía" ],
+			[ "aprovecharíamos" ],
+			[ "aprovecharíais", "aprovecharían" ],
+			[ "aprovecharían" ]
+		],
+		"7" : [
+			[ "aprovecharé" ],
+			[ "aprovecharás" ],
+			[ "aprovechará" ],
+			[ "aprovecharemos" ],
+			[ "aprovecharéis", "aprovecharán" ],
+			[ "aprovecharán" ]
+		],
+		"8" : [
+			[ "aproveche" ],
+			[ "aproveches" ],
+			[ "aproveche" ],
+			[ "aprovechemos" ],
+			[ "aprovechéis", "aprovechen" ],
+			[ "aprovechen" ]
+		],
+		"9" : [
+			[ "aprovechara" ],
+			[ "aprovecharas" ],
+			[ "aprovechara" ],
+			[ "aprovecháramos" ],
+			[ "aprovecharais", "aprovecharan" ],
+			[ "aprovecharan" ]
+		],
+		"10" : [
+			[ "aprovechase" ],
+			[ "aprovechases" ],
+			[ "aprovechase" ],
+			[ "aprovechásemos" ],
+			[ "aprovechaseis", "aprovechasen" ],
+			[ "aprovechasen" ]
+		],
+		"11" : [
+			[ "aprovechare" ],
+			[ "aprovechares" ],
+			[ "aprovechare" ],
+			[ "aprovecháremos" ],
+			[ "aprovechareis", "aprovecharen" ],
+			[ "aprovecharen" ]
+		],
+		"12" : {
+			"1" : [ "aprovecha" ],
+			"2" : [ "aproveche" ],
+			"3" : [ "aprovechemos" ],
+			"4" : [ "aprovechad" ],
+			"5" : [ "aprovechen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=beatificar",
+	"word" : "beatificar",
+	"infinitivo" : "beatificar",
+	"participio" : [ "beatificado" ],
+	"gerundio" : [ "beatificando" ],
+	"tenses" : {
+		"3" : [
+			[ "beatifico" ],
+			[ "beatificas", "beatificás" ],
+			[ "beatifica" ],
+			[ "beatificamos" ],
+			[ "beatificáis", "beatifican" ],
+			[ "beatifican" ]
+		],
+		"4" : [
+			[ "beatifiqué" ],
+			[ "beatificaste" ],
+			[ "beatificó" ],
+			[ "beatificamos" ],
+			[ "beatificasteis", "beatificaron" ],
+			[ "beatificaron" ]
+		],
+		"5" : [
+			[ "beatificaba" ],
+			[ "beatificabas" ],
+			[ "beatificaba" ],
+			[ "beatificábamos" ],
+			[ "beatificabais", "beatificaban" ],
+			[ "beatificaban" ]
+		],
+		"6" : [
+			[ "beatificaría" ],
+			[ "beatificarías" ],
+			[ "beatificaría" ],
+			[ "beatificaríamos" ],
+			[ "beatificaríais", "beatificarían" ],
+			[ "beatificarían" ]
+		],
+		"7" : [
+			[ "beatificaré" ],
+			[ "beatificarás" ],
+			[ "beatificará" ],
+			[ "beatificaremos" ],
+			[ "beatificaréis", "beatificarán" ],
+			[ "beatificarán" ]
+		],
+		"8" : [
+			[ "beatifique" ],
+			[ "beatifiques" ],
+			[ "beatifique" ],
+			[ "beatifiquemos" ],
+			[ "beatifiquéis", "beatifiquen" ],
+			[ "beatifiquen" ]
+		],
+		"9" : [
+			[ "beatificara" ],
+			[ "beatificaras" ],
+			[ "beatificara" ],
+			[ "beatificáramos" ],
+			[ "beatificarais", "beatificaran" ],
+			[ "beatificaran" ]
+		],
+		"10" : [
+			[ "beatificase" ],
+			[ "beatificases" ],
+			[ "beatificase" ],
+			[ "beatificásemos" ],
+			[ "beatificaseis", "beatificasen" ],
+			[ "beatificasen" ]
+		],
+		"11" : [
+			[ "beatificare" ],
+			[ "beatificares" ],
+			[ "beatificare" ],
+			[ "beatificáremos" ],
+			[ "beatificareis", "beatificaren" ],
+			[ "beatificaren" ]
+		],
+		"12" : {
+			"1" : [ "beatifica" ],
+			"2" : [ "beatifique" ],
+			"3" : [ "beatifiquemos" ],
+			"4" : [ "beatificad" ],
+			"5" : [ "beatifiquen" ]
+		}
+	}
+}

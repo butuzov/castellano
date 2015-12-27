@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desagradecer",
+	"word" : "desagradecer",
+	"infinitivo" : "desagradecer",
+	"participio" : [ "desagradecido" ],
+	"gerundio" : [ "desagradeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desagradezco" ],
+			[ "desagradeces", "desagradecés" ],
+			[ "desagradece" ],
+			[ "desagradecemos" ],
+			[ "desagradecéis", "desagradecen" ],
+			[ "desagradecen" ]
+		],
+		"4" : [
+			[ "desagradecí" ],
+			[ "desagradeciste" ],
+			[ "desagradeció" ],
+			[ "desagradecimos" ],
+			[ "desagradecisteis", "desagradecieron" ],
+			[ "desagradecieron" ]
+		],
+		"5" : [
+			[ "desagradecía" ],
+			[ "desagradecías" ],
+			[ "desagradecía" ],
+			[ "desagradecíamos" ],
+			[ "desagradecíais", "desagradecían" ],
+			[ "desagradecían" ]
+		],
+		"6" : [
+			[ "desagradecería" ],
+			[ "desagradecerías" ],
+			[ "desagradecería" ],
+			[ "desagradeceríamos" ],
+			[ "desagradeceríais", "desagradecerían" ],
+			[ "desagradecerían" ]
+		],
+		"7" : [
+			[ "desagradeceré" ],
+			[ "desagradecerás" ],
+			[ "desagradecerá" ],
+			[ "desagradeceremos" ],
+			[ "desagradeceréis", "desagradecerán" ],
+			[ "desagradecerán" ]
+		],
+		"8" : [
+			[ "desagradezca" ],
+			[ "desagradezcas" ],
+			[ "desagradezca" ],
+			[ "desagradezcamos" ],
+			[ "desagradezcáis", "desagradezcan" ],
+			[ "desagradezcan" ]
+		],
+		"9" : [
+			[ "desagradeciera" ],
+			[ "desagradecieras" ],
+			[ "desagradeciera" ],
+			[ "desagradeciéramos" ],
+			[ "desagradecierais", "desagradecieran" ],
+			[ "desagradecieran" ]
+		],
+		"10" : [
+			[ "desagradeciese" ],
+			[ "desagradecieses" ],
+			[ "desagradeciese" ],
+			[ "desagradeciésemos" ],
+			[ "desagradecieseis", "desagradeciesen" ],
+			[ "desagradeciesen" ]
+		],
+		"11" : [
+			[ "desagradeciere" ],
+			[ "desagradecieres" ],
+			[ "desagradeciere" ],
+			[ "desagradeciéremos" ],
+			[ "desagradeciereis", "desagradecieren" ],
+			[ "desagradecieren" ]
+		],
+		"12" : {
+			"1" : [ "desagradece" ],
+			"2" : [ "desagradezca" ],
+			"3" : [ "desagradezcamos" ],
+			"4" : [ "desagradeced" ],
+			"5" : [ "desagradezcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=modernizar",
+	"word" : "modernizar",
+	"infinitivo" : "modernizar",
+	"participio" : [ "modernizado" ],
+	"gerundio" : [ "modernizando" ],
+	"tenses" : {
+		"3" : [
+			[ "modernizo" ],
+			[ "modernizas", "modernizás" ],
+			[ "moderniza" ],
+			[ "modernizamos" ],
+			[ "modernizáis", "modernizan" ],
+			[ "modernizan" ]
+		],
+		"4" : [
+			[ "modernicé" ],
+			[ "modernizaste" ],
+			[ "modernizó" ],
+			[ "modernizamos" ],
+			[ "modernizasteis", "modernizaron" ],
+			[ "modernizaron" ]
+		],
+		"5" : [
+			[ "modernizaba" ],
+			[ "modernizabas" ],
+			[ "modernizaba" ],
+			[ "modernizábamos" ],
+			[ "modernizabais", "modernizaban" ],
+			[ "modernizaban" ]
+		],
+		"6" : [
+			[ "modernizaría" ],
+			[ "modernizarías" ],
+			[ "modernizaría" ],
+			[ "modernizaríamos" ],
+			[ "modernizaríais", "modernizarían" ],
+			[ "modernizarían" ]
+		],
+		"7" : [
+			[ "modernizaré" ],
+			[ "modernizarás" ],
+			[ "modernizará" ],
+			[ "modernizaremos" ],
+			[ "modernizaréis", "modernizarán" ],
+			[ "modernizarán" ]
+		],
+		"8" : [
+			[ "modernice" ],
+			[ "modernices" ],
+			[ "modernice" ],
+			[ "modernicemos" ],
+			[ "modernicéis", "modernicen" ],
+			[ "modernicen" ]
+		],
+		"9" : [
+			[ "modernizara" ],
+			[ "modernizaras" ],
+			[ "modernizara" ],
+			[ "modernizáramos" ],
+			[ "modernizarais", "modernizaran" ],
+			[ "modernizaran" ]
+		],
+		"10" : [
+			[ "modernizase" ],
+			[ "modernizases" ],
+			[ "modernizase" ],
+			[ "modernizásemos" ],
+			[ "modernizaseis", "modernizasen" ],
+			[ "modernizasen" ]
+		],
+		"11" : [
+			[ "modernizare" ],
+			[ "modernizares" ],
+			[ "modernizare" ],
+			[ "modernizáremos" ],
+			[ "modernizareis", "modernizaren" ],
+			[ "modernizaren" ]
+		],
+		"12" : {
+			"1" : [ "moderniza" ],
+			"2" : [ "modernice" ],
+			"3" : [ "modernicemos" ],
+			"4" : [ "modernizad" ],
+			"5" : [ "modernicen" ]
+		}
+	}
+}

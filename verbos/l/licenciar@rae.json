@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=licenciar",
+	"word" : "licenciar",
+	"infinitivo" : "licenciar",
+	"participio" : [ "licenciado" ],
+	"gerundio" : [ "licenciando" ],
+	"tenses" : {
+		"3" : [
+			[ "licencio" ],
+			[ "licencias", "licenciás" ],
+			[ "licencia" ],
+			[ "licenciamos" ],
+			[ "licenciáis", "licencian" ],
+			[ "licencian" ]
+		],
+		"4" : [
+			[ "licencié" ],
+			[ "licenciaste" ],
+			[ "licenció" ],
+			[ "licenciamos" ],
+			[ "licenciasteis", "licenciaron" ],
+			[ "licenciaron" ]
+		],
+		"5" : [
+			[ "licenciaba" ],
+			[ "licenciabas" ],
+			[ "licenciaba" ],
+			[ "licenciábamos" ],
+			[ "licenciabais", "licenciaban" ],
+			[ "licenciaban" ]
+		],
+		"6" : [
+			[ "licenciaría" ],
+			[ "licenciarías" ],
+			[ "licenciaría" ],
+			[ "licenciaríamos" ],
+			[ "licenciaríais", "licenciarían" ],
+			[ "licenciarían" ]
+		],
+		"7" : [
+			[ "licenciaré" ],
+			[ "licenciarás" ],
+			[ "licenciará" ],
+			[ "licenciaremos" ],
+			[ "licenciaréis", "licenciarán" ],
+			[ "licenciarán" ]
+		],
+		"8" : [
+			[ "licencie" ],
+			[ "licencies" ],
+			[ "licencie" ],
+			[ "licenciemos" ],
+			[ "licenciéis", "licencien" ],
+			[ "licencien" ]
+		],
+		"9" : [
+			[ "licenciara" ],
+			[ "licenciaras" ],
+			[ "licenciara" ],
+			[ "licenciáramos" ],
+			[ "licenciarais", "licenciaran" ],
+			[ "licenciaran" ]
+		],
+		"10" : [
+			[ "licenciase" ],
+			[ "licenciases" ],
+			[ "licenciase" ],
+			[ "licenciásemos" ],
+			[ "licenciaseis", "licenciasen" ],
+			[ "licenciasen" ]
+		],
+		"11" : [
+			[ "licenciare" ],
+			[ "licenciares" ],
+			[ "licenciare" ],
+			[ "licenciáremos" ],
+			[ "licenciareis", "licenciaren" ],
+			[ "licenciaren" ]
+		],
+		"12" : {
+			"1" : [ "licencia" ],
+			"2" : [ "licencie" ],
+			"3" : [ "licenciemos" ],
+			"4" : [ "licenciad" ],
+			"5" : [ "licencien" ]
+		}
+	}
+}

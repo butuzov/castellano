@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=liberar",
+	"word" : "liberar",
+	"infinitivo" : "liberar",
+	"participio" : [ "liberado" ],
+	"gerundio" : [ "liberando" ],
+	"tenses" : {
+		"3" : [
+			[ "libero" ],
+			[ "liberas", "liberás" ],
+			[ "libera" ],
+			[ "liberamos" ],
+			[ "liberáis", "liberan" ],
+			[ "liberan" ]
+		],
+		"4" : [
+			[ "liberé" ],
+			[ "liberaste" ],
+			[ "liberó" ],
+			[ "liberamos" ],
+			[ "liberasteis", "liberaron" ],
+			[ "liberaron" ]
+		],
+		"5" : [
+			[ "liberaba" ],
+			[ "liberabas" ],
+			[ "liberaba" ],
+			[ "liberábamos" ],
+			[ "liberabais", "liberaban" ],
+			[ "liberaban" ]
+		],
+		"6" : [
+			[ "liberaría" ],
+			[ "liberarías" ],
+			[ "liberaría" ],
+			[ "liberaríamos" ],
+			[ "liberaríais", "liberarían" ],
+			[ "liberarían" ]
+		],
+		"7" : [
+			[ "liberaré" ],
+			[ "liberarás" ],
+			[ "liberará" ],
+			[ "liberaremos" ],
+			[ "liberaréis", "liberarán" ],
+			[ "liberarán" ]
+		],
+		"8" : [
+			[ "libere" ],
+			[ "liberes" ],
+			[ "libere" ],
+			[ "liberemos" ],
+			[ "liberéis", "liberen" ],
+			[ "liberen" ]
+		],
+		"9" : [
+			[ "liberara" ],
+			[ "liberaras" ],
+			[ "liberara" ],
+			[ "liberáramos" ],
+			[ "liberarais", "liberaran" ],
+			[ "liberaran" ]
+		],
+		"10" : [
+			[ "liberase" ],
+			[ "liberases" ],
+			[ "liberase" ],
+			[ "liberásemos" ],
+			[ "liberaseis", "liberasen" ],
+			[ "liberasen" ]
+		],
+		"11" : [
+			[ "liberare" ],
+			[ "liberares" ],
+			[ "liberare" ],
+			[ "liberáremos" ],
+			[ "liberareis", "liberaren" ],
+			[ "liberaren" ]
+		],
+		"12" : {
+			"1" : [ "libera" ],
+			"2" : [ "libere" ],
+			"3" : [ "liberemos" ],
+			"4" : [ "liberad" ],
+			"5" : [ "liberen" ]
+		}
+	}
+}

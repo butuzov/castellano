@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=privilegiar",
+	"word" : "privilegiar",
+	"infinitivo" : "privilegiar",
+	"participio" : [ "privilegiado" ],
+	"gerundio" : [ "privilegiando" ],
+	"tenses" : {
+		"3" : [
+			[ "privilegio" ],
+			[ "privilegias", "privilegiás" ],
+			[ "privilegia" ],
+			[ "privilegiamos" ],
+			[ "privilegiáis", "privilegian" ],
+			[ "privilegian" ]
+		],
+		"4" : [
+			[ "privilegié" ],
+			[ "privilegiaste" ],
+			[ "privilegió" ],
+			[ "privilegiamos" ],
+			[ "privilegiasteis", "privilegiaron" ],
+			[ "privilegiaron" ]
+		],
+		"5" : [
+			[ "privilegiaba" ],
+			[ "privilegiabas" ],
+			[ "privilegiaba" ],
+			[ "privilegiábamos" ],
+			[ "privilegiabais", "privilegiaban" ],
+			[ "privilegiaban" ]
+		],
+		"6" : [
+			[ "privilegiaría" ],
+			[ "privilegiarías" ],
+			[ "privilegiaría" ],
+			[ "privilegiaríamos" ],
+			[ "privilegiaríais", "privilegiarían" ],
+			[ "privilegiarían" ]
+		],
+		"7" : [
+			[ "privilegiaré" ],
+			[ "privilegiarás" ],
+			[ "privilegiará" ],
+			[ "privilegiaremos" ],
+			[ "privilegiaréis", "privilegiarán" ],
+			[ "privilegiarán" ]
+		],
+		"8" : [
+			[ "privilegie" ],
+			[ "privilegies" ],
+			[ "privilegie" ],
+			[ "privilegiemos" ],
+			[ "privilegiéis", "privilegien" ],
+			[ "privilegien" ]
+		],
+		"9" : [
+			[ "privilegiara" ],
+			[ "privilegiaras" ],
+			[ "privilegiara" ],
+			[ "privilegiáramos" ],
+			[ "privilegiarais", "privilegiaran" ],
+			[ "privilegiaran" ]
+		],
+		"10" : [
+			[ "privilegiase" ],
+			[ "privilegiases" ],
+			[ "privilegiase" ],
+			[ "privilegiásemos" ],
+			[ "privilegiaseis", "privilegiasen" ],
+			[ "privilegiasen" ]
+		],
+		"11" : [
+			[ "privilegiare" ],
+			[ "privilegiares" ],
+			[ "privilegiare" ],
+			[ "privilegiáremos" ],
+			[ "privilegiareis", "privilegiaren" ],
+			[ "privilegiaren" ]
+		],
+		"12" : {
+			"1" : [ "privilegia" ],
+			"2" : [ "privilegie" ],
+			"3" : [ "privilegiemos" ],
+			"4" : [ "privilegiad" ],
+			"5" : [ "privilegien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=significar",
+	"word" : "significar",
+	"infinitivo" : "significar",
+	"participio" : [ "significado" ],
+	"gerundio" : [ "significando" ],
+	"tenses" : {
+		"3" : [
+			[ "significo" ],
+			[ "significas", "significás" ],
+			[ "significa" ],
+			[ "significamos" ],
+			[ "significáis", "significan" ],
+			[ "significan" ]
+		],
+		"4" : [
+			[ "signifiqué" ],
+			[ "significaste" ],
+			[ "significó" ],
+			[ "significamos" ],
+			[ "significasteis", "significaron" ],
+			[ "significaron" ]
+		],
+		"5" : [
+			[ "significaba" ],
+			[ "significabas" ],
+			[ "significaba" ],
+			[ "significábamos" ],
+			[ "significabais", "significaban" ],
+			[ "significaban" ]
+		],
+		"6" : [
+			[ "significaría" ],
+			[ "significarías" ],
+			[ "significaría" ],
+			[ "significaríamos" ],
+			[ "significaríais", "significarían" ],
+			[ "significarían" ]
+		],
+		"7" : [
+			[ "significaré" ],
+			[ "significarás" ],
+			[ "significará" ],
+			[ "significaremos" ],
+			[ "significaréis", "significarán" ],
+			[ "significarán" ]
+		],
+		"8" : [
+			[ "signifique" ],
+			[ "signifiques" ],
+			[ "signifique" ],
+			[ "signifiquemos" ],
+			[ "signifiquéis", "signifiquen" ],
+			[ "signifiquen" ]
+		],
+		"9" : [
+			[ "significara" ],
+			[ "significaras" ],
+			[ "significara" ],
+			[ "significáramos" ],
+			[ "significarais", "significaran" ],
+			[ "significaran" ]
+		],
+		"10" : [
+			[ "significase" ],
+			[ "significases" ],
+			[ "significase" ],
+			[ "significásemos" ],
+			[ "significaseis", "significasen" ],
+			[ "significasen" ]
+		],
+		"11" : [
+			[ "significare" ],
+			[ "significares" ],
+			[ "significare" ],
+			[ "significáremos" ],
+			[ "significareis", "significaren" ],
+			[ "significaren" ]
+		],
+		"12" : {
+			"1" : [ "significa" ],
+			"2" : [ "signifique" ],
+			"3" : [ "signifiquemos" ],
+			"4" : [ "significad" ],
+			"5" : [ "signifiquen" ]
+		}
+	}
+}

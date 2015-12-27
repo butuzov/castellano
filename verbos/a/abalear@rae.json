@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abalear",
+	"word" : "abalear",
+	"infinitivo" : "abalear",
+	"participio" : [ "abaleado" ],
+	"gerundio" : [ "abaleando" ],
+	"tenses" : {
+		"3" : [
+			[ "abaleo" ],
+			[ "abaleas", "abaleás" ],
+			[ "abalea" ],
+			[ "abaleamos" ],
+			[ "abaleáis", "abalean" ],
+			[ "abalean" ]
+		],
+		"4" : [
+			[ "abaleé" ],
+			[ "abaleaste" ],
+			[ "abaleó" ],
+			[ "abaleamos" ],
+			[ "abaleasteis", "abalearon" ],
+			[ "abalearon" ]
+		],
+		"5" : [
+			[ "abaleaba" ],
+			[ "abaleabas" ],
+			[ "abaleaba" ],
+			[ "abaleábamos" ],
+			[ "abaleabais", "abaleaban" ],
+			[ "abaleaban" ]
+		],
+		"6" : [
+			[ "abalearía" ],
+			[ "abalearías" ],
+			[ "abalearía" ],
+			[ "abalearíamos" ],
+			[ "abalearíais", "abalearían" ],
+			[ "abalearían" ]
+		],
+		"7" : [
+			[ "abalearé" ],
+			[ "abalearás" ],
+			[ "abaleará" ],
+			[ "abalearemos" ],
+			[ "abalearéis", "abalearán" ],
+			[ "abalearán" ]
+		],
+		"8" : [
+			[ "abalee" ],
+			[ "abalees" ],
+			[ "abalee" ],
+			[ "abaleemos" ],
+			[ "abaleéis", "abaleen" ],
+			[ "abaleen" ]
+		],
+		"9" : [
+			[ "abaleara" ],
+			[ "abalearas" ],
+			[ "abaleara" ],
+			[ "abaleáramos" ],
+			[ "abalearais", "abalearan" ],
+			[ "abalearan" ]
+		],
+		"10" : [
+			[ "abalease" ],
+			[ "abaleases" ],
+			[ "abalease" ],
+			[ "abaleásemos" ],
+			[ "abaleaseis", "abaleasen" ],
+			[ "abaleasen" ]
+		],
+		"11" : [
+			[ "abaleare" ],
+			[ "abaleares" ],
+			[ "abaleare" ],
+			[ "abaleáremos" ],
+			[ "abaleareis", "abalearen" ],
+			[ "abalearen" ]
+		],
+		"12" : {
+			"1" : [ "abalea" ],
+			"2" : [ "abalee" ],
+			"3" : [ "abaleemos" ],
+			"4" : [ "abalead" ],
+			"5" : [ "abaleen" ]
+		}
+	}
+}

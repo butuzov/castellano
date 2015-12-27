@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pernoctar",
+	"word" : "pernoctar",
+	"infinitivo" : "pernoctar",
+	"participio" : [ "pernoctado" ],
+	"gerundio" : [ "pernoctando" ],
+	"tenses" : {
+		"3" : [
+			[ "pernocto" ],
+			[ "pernoctas", "pernoctás" ],
+			[ "pernocta" ],
+			[ "pernoctamos" ],
+			[ "pernoctáis", "pernoctan" ],
+			[ "pernoctan" ]
+		],
+		"4" : [
+			[ "pernocté" ],
+			[ "pernoctaste" ],
+			[ "pernoctó" ],
+			[ "pernoctamos" ],
+			[ "pernoctasteis", "pernoctaron" ],
+			[ "pernoctaron" ]
+		],
+		"5" : [
+			[ "pernoctaba" ],
+			[ "pernoctabas" ],
+			[ "pernoctaba" ],
+			[ "pernoctábamos" ],
+			[ "pernoctabais", "pernoctaban" ],
+			[ "pernoctaban" ]
+		],
+		"6" : [
+			[ "pernoctaría" ],
+			[ "pernoctarías" ],
+			[ "pernoctaría" ],
+			[ "pernoctaríamos" ],
+			[ "pernoctaríais", "pernoctarían" ],
+			[ "pernoctarían" ]
+		],
+		"7" : [
+			[ "pernoctaré" ],
+			[ "pernoctarás" ],
+			[ "pernoctará" ],
+			[ "pernoctaremos" ],
+			[ "pernoctaréis", "pernoctarán" ],
+			[ "pernoctarán" ]
+		],
+		"8" : [
+			[ "pernocte" ],
+			[ "pernoctes" ],
+			[ "pernocte" ],
+			[ "pernoctemos" ],
+			[ "pernoctéis", "pernocten" ],
+			[ "pernocten" ]
+		],
+		"9" : [
+			[ "pernoctara" ],
+			[ "pernoctaras" ],
+			[ "pernoctara" ],
+			[ "pernoctáramos" ],
+			[ "pernoctarais", "pernoctaran" ],
+			[ "pernoctaran" ]
+		],
+		"10" : [
+			[ "pernoctase" ],
+			[ "pernoctases" ],
+			[ "pernoctase" ],
+			[ "pernoctásemos" ],
+			[ "pernoctaseis", "pernoctasen" ],
+			[ "pernoctasen" ]
+		],
+		"11" : [
+			[ "pernoctare" ],
+			[ "pernoctares" ],
+			[ "pernoctare" ],
+			[ "pernoctáremos" ],
+			[ "pernoctareis", "pernoctaren" ],
+			[ "pernoctaren" ]
+		],
+		"12" : {
+			"1" : [ "pernocta" ],
+			"2" : [ "pernocte" ],
+			"3" : [ "pernoctemos" ],
+			"4" : [ "pernoctad" ],
+			"5" : [ "pernocten" ]
+		}
+	}
+}

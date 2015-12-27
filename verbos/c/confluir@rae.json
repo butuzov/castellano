@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=confluir",
+	"word" : "confluir",
+	"infinitivo" : "confluir",
+	"participio" : [ "confluido" ],
+	"gerundio" : [ "confluyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "confluyo" ],
+			[ "confluyes", "confluís" ],
+			[ "confluye" ],
+			[ "confluimos" ],
+			[ "confluís", "confluyen" ],
+			[ "confluyen" ]
+		],
+		"4" : [
+			[ "confluí" ],
+			[ "confluiste" ],
+			[ "confluyó" ],
+			[ "confluimos" ],
+			[ "confluisteis", "confluyeron" ],
+			[ "confluyeron" ]
+		],
+		"5" : [
+			[ "confluía" ],
+			[ "confluías" ],
+			[ "confluía" ],
+			[ "confluíamos" ],
+			[ "confluíais", "confluían" ],
+			[ "confluían" ]
+		],
+		"6" : [
+			[ "confluiría" ],
+			[ "confluirías" ],
+			[ "confluiría" ],
+			[ "confluiríamos" ],
+			[ "confluiríais", "confluirían" ],
+			[ "confluirían" ]
+		],
+		"7" : [
+			[ "confluiré" ],
+			[ "confluirás" ],
+			[ "confluirá" ],
+			[ "confluiremos" ],
+			[ "confluiréis", "confluirán" ],
+			[ "confluirán" ]
+		],
+		"8" : [
+			[ "confluya" ],
+			[ "confluyas" ],
+			[ "confluya" ],
+			[ "confluyamos" ],
+			[ "confluyáis", "confluyan" ],
+			[ "confluyan" ]
+		],
+		"9" : [
+			[ "confluyera" ],
+			[ "confluyeras" ],
+			[ "confluyera" ],
+			[ "confluyéramos" ],
+			[ "confluyerais", "confluyeran" ],
+			[ "confluyeran" ]
+		],
+		"10" : [
+			[ "confluyese" ],
+			[ "confluyeses" ],
+			[ "confluyese" ],
+			[ "confluyésemos" ],
+			[ "confluyeseis", "confluyesen" ],
+			[ "confluyesen" ]
+		],
+		"11" : [
+			[ "confluyere" ],
+			[ "confluyeres" ],
+			[ "confluyere" ],
+			[ "confluyéremos" ],
+			[ "confluyereis", "confluyeren" ],
+			[ "confluyeren" ]
+		],
+		"12" : {
+			"1" : [ "confluye" ],
+			"2" : [ "confluya" ],
+			"3" : [ "confluyamos" ],
+			"4" : [ "confluid" ],
+			"5" : [ "confluyan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esgarrar",
+	"word" : "esgarrar",
+	"infinitivo" : "esgarrar",
+	"participio" : [ "esgarrado" ],
+	"gerundio" : [ "esgarrando" ],
+	"tenses" : {
+		"3" : [
+			[ "esgarro" ],
+			[ "esgarras", "esgarrás" ],
+			[ "esgarra" ],
+			[ "esgarramos" ],
+			[ "esgarráis", "esgarran" ],
+			[ "esgarran" ]
+		],
+		"4" : [
+			[ "esgarré" ],
+			[ "esgarraste" ],
+			[ "esgarró" ],
+			[ "esgarramos" ],
+			[ "esgarrasteis", "esgarraron" ],
+			[ "esgarraron" ]
+		],
+		"5" : [
+			[ "esgarraba" ],
+			[ "esgarrabas" ],
+			[ "esgarraba" ],
+			[ "esgarrábamos" ],
+			[ "esgarrabais", "esgarraban" ],
+			[ "esgarraban" ]
+		],
+		"6" : [
+			[ "esgarraría" ],
+			[ "esgarrarías" ],
+			[ "esgarraría" ],
+			[ "esgarraríamos" ],
+			[ "esgarraríais", "esgarrarían" ],
+			[ "esgarrarían" ]
+		],
+		"7" : [
+			[ "esgarraré" ],
+			[ "esgarrarás" ],
+			[ "esgarrará" ],
+			[ "esgarraremos" ],
+			[ "esgarraréis", "esgarrarán" ],
+			[ "esgarrarán" ]
+		],
+		"8" : [
+			[ "esgarre" ],
+			[ "esgarres" ],
+			[ "esgarre" ],
+			[ "esgarremos" ],
+			[ "esgarréis", "esgarren" ],
+			[ "esgarren" ]
+		],
+		"9" : [
+			[ "esgarrara" ],
+			[ "esgarraras" ],
+			[ "esgarrara" ],
+			[ "esgarráramos" ],
+			[ "esgarrarais", "esgarraran" ],
+			[ "esgarraran" ]
+		],
+		"10" : [
+			[ "esgarrase" ],
+			[ "esgarrases" ],
+			[ "esgarrase" ],
+			[ "esgarrásemos" ],
+			[ "esgarraseis", "esgarrasen" ],
+			[ "esgarrasen" ]
+		],
+		"11" : [
+			[ "esgarrare" ],
+			[ "esgarrares" ],
+			[ "esgarrare" ],
+			[ "esgarráremos" ],
+			[ "esgarrareis", "esgarraren" ],
+			[ "esgarraren" ]
+		],
+		"12" : {
+			"1" : [ "esgarra" ],
+			"2" : [ "esgarre" ],
+			"3" : [ "esgarremos" ],
+			"4" : [ "esgarrad" ],
+			"5" : [ "esgarren" ]
+		}
+	}
+}

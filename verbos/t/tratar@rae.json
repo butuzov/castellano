@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tratar",
+	"word" : "tratar",
+	"infinitivo" : "tratar",
+	"participio" : [ "tratado" ],
+	"gerundio" : [ "tratando" ],
+	"tenses" : {
+		"3" : [
+			[ "trato" ],
+			[ "tratas", "tratás" ],
+			[ "trata" ],
+			[ "tratamos" ],
+			[ "tratáis", "tratan" ],
+			[ "tratan" ]
+		],
+		"4" : [
+			[ "traté" ],
+			[ "trataste" ],
+			[ "trató" ],
+			[ "tratamos" ],
+			[ "tratasteis", "trataron" ],
+			[ "trataron" ]
+		],
+		"5" : [
+			[ "trataba" ],
+			[ "tratabas" ],
+			[ "trataba" ],
+			[ "tratábamos" ],
+			[ "tratabais", "trataban" ],
+			[ "trataban" ]
+		],
+		"6" : [
+			[ "trataría" ],
+			[ "tratarías" ],
+			[ "trataría" ],
+			[ "trataríamos" ],
+			[ "trataríais", "tratarían" ],
+			[ "tratarían" ]
+		],
+		"7" : [
+			[ "trataré" ],
+			[ "tratarás" ],
+			[ "tratará" ],
+			[ "trataremos" ],
+			[ "trataréis", "tratarán" ],
+			[ "tratarán" ]
+		],
+		"8" : [
+			[ "trate" ],
+			[ "trates" ],
+			[ "trate" ],
+			[ "tratemos" ],
+			[ "tratéis", "traten" ],
+			[ "traten" ]
+		],
+		"9" : [
+			[ "tratara" ],
+			[ "trataras" ],
+			[ "tratara" ],
+			[ "tratáramos" ],
+			[ "tratarais", "trataran" ],
+			[ "trataran" ]
+		],
+		"10" : [
+			[ "tratase" ],
+			[ "tratases" ],
+			[ "tratase" ],
+			[ "tratásemos" ],
+			[ "trataseis", "tratasen" ],
+			[ "tratasen" ]
+		],
+		"11" : [
+			[ "tratare" ],
+			[ "tratares" ],
+			[ "tratare" ],
+			[ "tratáremos" ],
+			[ "tratareis", "trataren" ],
+			[ "trataren" ]
+		],
+		"12" : {
+			"1" : [ "trata" ],
+			"2" : [ "trate" ],
+			"3" : [ "tratemos" ],
+			"4" : [ "tratad" ],
+			"5" : [ "traten" ]
+		}
+	}
+}

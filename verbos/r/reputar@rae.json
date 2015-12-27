@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reputar",
+	"word" : "reputar",
+	"infinitivo" : "reputar",
+	"participio" : [ "reputado" ],
+	"gerundio" : [ "reputando" ],
+	"tenses" : {
+		"3" : [
+			[ "reputo" ],
+			[ "reputas", "reputás" ],
+			[ "reputa" ],
+			[ "reputamos" ],
+			[ "reputáis", "reputan" ],
+			[ "reputan" ]
+		],
+		"4" : [
+			[ "reputé" ],
+			[ "reputaste" ],
+			[ "reputó" ],
+			[ "reputamos" ],
+			[ "reputasteis", "reputaron" ],
+			[ "reputaron" ]
+		],
+		"5" : [
+			[ "reputaba" ],
+			[ "reputabas" ],
+			[ "reputaba" ],
+			[ "reputábamos" ],
+			[ "reputabais", "reputaban" ],
+			[ "reputaban" ]
+		],
+		"6" : [
+			[ "reputaría" ],
+			[ "reputarías" ],
+			[ "reputaría" ],
+			[ "reputaríamos" ],
+			[ "reputaríais", "reputarían" ],
+			[ "reputarían" ]
+		],
+		"7" : [
+			[ "reputaré" ],
+			[ "reputarás" ],
+			[ "reputará" ],
+			[ "reputaremos" ],
+			[ "reputaréis", "reputarán" ],
+			[ "reputarán" ]
+		],
+		"8" : [
+			[ "repute" ],
+			[ "reputes" ],
+			[ "repute" ],
+			[ "reputemos" ],
+			[ "reputéis", "reputen" ],
+			[ "reputen" ]
+		],
+		"9" : [
+			[ "reputara" ],
+			[ "reputaras" ],
+			[ "reputara" ],
+			[ "reputáramos" ],
+			[ "reputarais", "reputaran" ],
+			[ "reputaran" ]
+		],
+		"10" : [
+			[ "reputase" ],
+			[ "reputases" ],
+			[ "reputase" ],
+			[ "reputásemos" ],
+			[ "reputaseis", "reputasen" ],
+			[ "reputasen" ]
+		],
+		"11" : [
+			[ "reputare" ],
+			[ "reputares" ],
+			[ "reputare" ],
+			[ "reputáremos" ],
+			[ "reputareis", "reputaren" ],
+			[ "reputaren" ]
+		],
+		"12" : {
+			"1" : [ "reputa" ],
+			"2" : [ "repute" ],
+			"3" : [ "reputemos" ],
+			"4" : [ "reputad" ],
+			"5" : [ "reputen" ]
+		}
+	}
+}

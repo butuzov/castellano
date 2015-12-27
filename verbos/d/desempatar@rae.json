@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desempatar",
+	"word" : "desempatar",
+	"infinitivo" : "desempatar",
+	"participio" : [ "desempatado" ],
+	"gerundio" : [ "desempatando" ],
+	"tenses" : {
+		"3" : [
+			[ "desempato" ],
+			[ "desempatas", "desempatás" ],
+			[ "desempata" ],
+			[ "desempatamos" ],
+			[ "desempatáis", "desempatan" ],
+			[ "desempatan" ]
+		],
+		"4" : [
+			[ "desempaté" ],
+			[ "desempataste" ],
+			[ "desempató" ],
+			[ "desempatamos" ],
+			[ "desempatasteis", "desempataron" ],
+			[ "desempataron" ]
+		],
+		"5" : [
+			[ "desempataba" ],
+			[ "desempatabas" ],
+			[ "desempataba" ],
+			[ "desempatábamos" ],
+			[ "desempatabais", "desempataban" ],
+			[ "desempataban" ]
+		],
+		"6" : [
+			[ "desempataría" ],
+			[ "desempatarías" ],
+			[ "desempataría" ],
+			[ "desempataríamos" ],
+			[ "desempataríais", "desempatarían" ],
+			[ "desempatarían" ]
+		],
+		"7" : [
+			[ "desempataré" ],
+			[ "desempatarás" ],
+			[ "desempatará" ],
+			[ "desempataremos" ],
+			[ "desempataréis", "desempatarán" ],
+			[ "desempatarán" ]
+		],
+		"8" : [
+			[ "desempate" ],
+			[ "desempates" ],
+			[ "desempate" ],
+			[ "desempatemos" ],
+			[ "desempatéis", "desempaten" ],
+			[ "desempaten" ]
+		],
+		"9" : [
+			[ "desempatara" ],
+			[ "desempataras" ],
+			[ "desempatara" ],
+			[ "desempatáramos" ],
+			[ "desempatarais", "desempataran" ],
+			[ "desempataran" ]
+		],
+		"10" : [
+			[ "desempatase" ],
+			[ "desempatases" ],
+			[ "desempatase" ],
+			[ "desempatásemos" ],
+			[ "desempataseis", "desempatasen" ],
+			[ "desempatasen" ]
+		],
+		"11" : [
+			[ "desempatare" ],
+			[ "desempatares" ],
+			[ "desempatare" ],
+			[ "desempatáremos" ],
+			[ "desempatareis", "desempataren" ],
+			[ "desempataren" ]
+		],
+		"12" : {
+			"1" : [ "desempata" ],
+			"2" : [ "desempate" ],
+			"3" : [ "desempatemos" ],
+			"4" : [ "desempatad" ],
+			"5" : [ "desempaten" ]
+		}
+	}
+}

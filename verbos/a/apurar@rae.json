@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apurar",
+	"word" : "apurar",
+	"infinitivo" : "apurar",
+	"participio" : [ "apurado" ],
+	"gerundio" : [ "apurando" ],
+	"tenses" : {
+		"3" : [
+			[ "apuro" ],
+			[ "apuras", "apurás" ],
+			[ "apura" ],
+			[ "apuramos" ],
+			[ "apuráis", "apuran" ],
+			[ "apuran" ]
+		],
+		"4" : [
+			[ "apuré" ],
+			[ "apuraste" ],
+			[ "apuró" ],
+			[ "apuramos" ],
+			[ "apurasteis", "apuraron" ],
+			[ "apuraron" ]
+		],
+		"5" : [
+			[ "apuraba" ],
+			[ "apurabas" ],
+			[ "apuraba" ],
+			[ "apurábamos" ],
+			[ "apurabais", "apuraban" ],
+			[ "apuraban" ]
+		],
+		"6" : [
+			[ "apuraría" ],
+			[ "apurarías" ],
+			[ "apuraría" ],
+			[ "apuraríamos" ],
+			[ "apuraríais", "apurarían" ],
+			[ "apurarían" ]
+		],
+		"7" : [
+			[ "apuraré" ],
+			[ "apurarás" ],
+			[ "apurará" ],
+			[ "apuraremos" ],
+			[ "apuraréis", "apurarán" ],
+			[ "apurarán" ]
+		],
+		"8" : [
+			[ "apure" ],
+			[ "apures" ],
+			[ "apure" ],
+			[ "apuremos" ],
+			[ "apuréis", "apuren" ],
+			[ "apuren" ]
+		],
+		"9" : [
+			[ "apurara" ],
+			[ "apuraras" ],
+			[ "apurara" ],
+			[ "apuráramos" ],
+			[ "apurarais", "apuraran" ],
+			[ "apuraran" ]
+		],
+		"10" : [
+			[ "apurase" ],
+			[ "apurases" ],
+			[ "apurase" ],
+			[ "apurásemos" ],
+			[ "apuraseis", "apurasen" ],
+			[ "apurasen" ]
+		],
+		"11" : [
+			[ "apurare" ],
+			[ "apurares" ],
+			[ "apurare" ],
+			[ "apuráremos" ],
+			[ "apurareis", "apuraren" ],
+			[ "apuraren" ]
+		],
+		"12" : {
+			"1" : [ "apura" ],
+			"2" : [ "apure" ],
+			"3" : [ "apuremos" ],
+			"4" : [ "apurad" ],
+			"5" : [ "apuren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=saltear",
+	"word" : "saltear",
+	"infinitivo" : "saltear",
+	"participio" : [ "salteado" ],
+	"gerundio" : [ "salteando" ],
+	"tenses" : {
+		"3" : [
+			[ "salteo" ],
+			[ "salteas", "salteás" ],
+			[ "saltea" ],
+			[ "salteamos" ],
+			[ "salteáis", "saltean" ],
+			[ "saltean" ]
+		],
+		"4" : [
+			[ "salteé" ],
+			[ "salteaste" ],
+			[ "salteó" ],
+			[ "salteamos" ],
+			[ "salteasteis", "saltearon" ],
+			[ "saltearon" ]
+		],
+		"5" : [
+			[ "salteaba" ],
+			[ "salteabas" ],
+			[ "salteaba" ],
+			[ "salteábamos" ],
+			[ "salteabais", "salteaban" ],
+			[ "salteaban" ]
+		],
+		"6" : [
+			[ "saltearía" ],
+			[ "saltearías" ],
+			[ "saltearía" ],
+			[ "saltearíamos" ],
+			[ "saltearíais", "saltearían" ],
+			[ "saltearían" ]
+		],
+		"7" : [
+			[ "saltearé" ],
+			[ "saltearás" ],
+			[ "salteará" ],
+			[ "saltearemos" ],
+			[ "saltearéis", "saltearán" ],
+			[ "saltearán" ]
+		],
+		"8" : [
+			[ "saltee" ],
+			[ "saltees" ],
+			[ "saltee" ],
+			[ "salteemos" ],
+			[ "salteéis", "salteen" ],
+			[ "salteen" ]
+		],
+		"9" : [
+			[ "salteara" ],
+			[ "saltearas" ],
+			[ "salteara" ],
+			[ "salteáramos" ],
+			[ "saltearais", "saltearan" ],
+			[ "saltearan" ]
+		],
+		"10" : [
+			[ "saltease" ],
+			[ "salteases" ],
+			[ "saltease" ],
+			[ "salteásemos" ],
+			[ "salteaseis", "salteasen" ],
+			[ "salteasen" ]
+		],
+		"11" : [
+			[ "salteare" ],
+			[ "salteares" ],
+			[ "salteare" ],
+			[ "salteáremos" ],
+			[ "salteareis", "saltearen" ],
+			[ "saltearen" ]
+		],
+		"12" : {
+			"1" : [ "saltea" ],
+			"2" : [ "saltee" ],
+			"3" : [ "salteemos" ],
+			"4" : [ "saltead" ],
+			"5" : [ "salteen" ]
+		}
+	}
+}

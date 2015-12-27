@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despezar",
+	"word" : "despezar",
+	"infinitivo" : "despezar",
+	"participio" : [ "despezado" ],
+	"gerundio" : [ "despezando" ],
+	"tenses" : {
+		"3" : [
+			[ "despiezo" ],
+			[ "despiezas", "despezás" ],
+			[ "despieza" ],
+			[ "despezamos" ],
+			[ "despezáis", "despiezan" ],
+			[ "despiezan" ]
+		],
+		"4" : [
+			[ "despecé" ],
+			[ "despezaste" ],
+			[ "despezó" ],
+			[ "despezamos" ],
+			[ "despezasteis", "despezaron" ],
+			[ "despezaron" ]
+		],
+		"5" : [
+			[ "despezaba" ],
+			[ "despezabas" ],
+			[ "despezaba" ],
+			[ "despezábamos" ],
+			[ "despezabais", "despezaban" ],
+			[ "despezaban" ]
+		],
+		"6" : [
+			[ "despezaría" ],
+			[ "despezarías" ],
+			[ "despezaría" ],
+			[ "despezaríamos" ],
+			[ "despezaríais", "despezarían" ],
+			[ "despezarían" ]
+		],
+		"7" : [
+			[ "despezaré" ],
+			[ "despezarás" ],
+			[ "despezará" ],
+			[ "despezaremos" ],
+			[ "despezaréis", "despezarán" ],
+			[ "despezarán" ]
+		],
+		"8" : [
+			[ "despiece" ],
+			[ "despieces" ],
+			[ "despiece" ],
+			[ "despecemos" ],
+			[ "despecéis", "despiecen" ],
+			[ "despiecen" ]
+		],
+		"9" : [
+			[ "despezara" ],
+			[ "despezaras" ],
+			[ "despezara" ],
+			[ "despezáramos" ],
+			[ "despezarais", "despezaran" ],
+			[ "despezaran" ]
+		],
+		"10" : [
+			[ "despezase" ],
+			[ "despezases" ],
+			[ "despezase" ],
+			[ "despezásemos" ],
+			[ "despezaseis", "despezasen" ],
+			[ "despezasen" ]
+		],
+		"11" : [
+			[ "despezare" ],
+			[ "despezares" ],
+			[ "despezare" ],
+			[ "despezáremos" ],
+			[ "despezareis", "despezaren" ],
+			[ "despezaren" ]
+		],
+		"12" : {
+			"1" : [ "despieza" ],
+			"2" : [ "despiece" ],
+			"3" : [ "despecemos" ],
+			"4" : [ "despezad" ],
+			"5" : [ "despiecen" ]
+		}
+	}
+}

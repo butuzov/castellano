@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abrochar",
+	"word" : "abrochar",
+	"infinitivo" : "abrochar",
+	"participio" : [ "abrochado" ],
+	"gerundio" : [ "abrochando" ],
+	"tenses" : {
+		"3" : [
+			[ "abrocho" ],
+			[ "abrochas", "abrochás" ],
+			[ "abrocha" ],
+			[ "abrochamos" ],
+			[ "abrocháis", "abrochan" ],
+			[ "abrochan" ]
+		],
+		"4" : [
+			[ "abroché" ],
+			[ "abrochaste" ],
+			[ "abrochó" ],
+			[ "abrochamos" ],
+			[ "abrochasteis", "abrocharon" ],
+			[ "abrocharon" ]
+		],
+		"5" : [
+			[ "abrochaba" ],
+			[ "abrochabas" ],
+			[ "abrochaba" ],
+			[ "abrochábamos" ],
+			[ "abrochabais", "abrochaban" ],
+			[ "abrochaban" ]
+		],
+		"6" : [
+			[ "abrocharía" ],
+			[ "abrocharías" ],
+			[ "abrocharía" ],
+			[ "abrocharíamos" ],
+			[ "abrocharíais", "abrocharían" ],
+			[ "abrocharían" ]
+		],
+		"7" : [
+			[ "abrocharé" ],
+			[ "abrocharás" ],
+			[ "abrochará" ],
+			[ "abrocharemos" ],
+			[ "abrocharéis", "abrocharán" ],
+			[ "abrocharán" ]
+		],
+		"8" : [
+			[ "abroche" ],
+			[ "abroches" ],
+			[ "abroche" ],
+			[ "abrochemos" ],
+			[ "abrochéis", "abrochen" ],
+			[ "abrochen" ]
+		],
+		"9" : [
+			[ "abrochara" ],
+			[ "abrocharas" ],
+			[ "abrochara" ],
+			[ "abrocháramos" ],
+			[ "abrocharais", "abrocharan" ],
+			[ "abrocharan" ]
+		],
+		"10" : [
+			[ "abrochase" ],
+			[ "abrochases" ],
+			[ "abrochase" ],
+			[ "abrochásemos" ],
+			[ "abrochaseis", "abrochasen" ],
+			[ "abrochasen" ]
+		],
+		"11" : [
+			[ "abrochare" ],
+			[ "abrochares" ],
+			[ "abrochare" ],
+			[ "abrocháremos" ],
+			[ "abrochareis", "abrocharen" ],
+			[ "abrocharen" ]
+		],
+		"12" : {
+			"1" : [ "abrocha" ],
+			"2" : [ "abroche" ],
+			"3" : [ "abrochemos" ],
+			"4" : [ "abrochad" ],
+			"5" : [ "abrochen" ]
+		}
+	}
+}

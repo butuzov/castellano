@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fragmentar",
+	"word" : "fragmentar",
+	"infinitivo" : "fragmentar",
+	"participio" : [ "fragmentado" ],
+	"gerundio" : [ "fragmentando" ],
+	"tenses" : {
+		"3" : [
+			[ "fragmento" ],
+			[ "fragmentas", "fragmentás" ],
+			[ "fragmenta" ],
+			[ "fragmentamos" ],
+			[ "fragmentáis", "fragmentan" ],
+			[ "fragmentan" ]
+		],
+		"4" : [
+			[ "fragmenté" ],
+			[ "fragmentaste" ],
+			[ "fragmentó" ],
+			[ "fragmentamos" ],
+			[ "fragmentasteis", "fragmentaron" ],
+			[ "fragmentaron" ]
+		],
+		"5" : [
+			[ "fragmentaba" ],
+			[ "fragmentabas" ],
+			[ "fragmentaba" ],
+			[ "fragmentábamos" ],
+			[ "fragmentabais", "fragmentaban" ],
+			[ "fragmentaban" ]
+		],
+		"6" : [
+			[ "fragmentaría" ],
+			[ "fragmentarías" ],
+			[ "fragmentaría" ],
+			[ "fragmentaríamos" ],
+			[ "fragmentaríais", "fragmentarían" ],
+			[ "fragmentarían" ]
+		],
+		"7" : [
+			[ "fragmentaré" ],
+			[ "fragmentarás" ],
+			[ "fragmentará" ],
+			[ "fragmentaremos" ],
+			[ "fragmentaréis", "fragmentarán" ],
+			[ "fragmentarán" ]
+		],
+		"8" : [
+			[ "fragmente" ],
+			[ "fragmentes" ],
+			[ "fragmente" ],
+			[ "fragmentemos" ],
+			[ "fragmentéis", "fragmenten" ],
+			[ "fragmenten" ]
+		],
+		"9" : [
+			[ "fragmentara" ],
+			[ "fragmentaras" ],
+			[ "fragmentara" ],
+			[ "fragmentáramos" ],
+			[ "fragmentarais", "fragmentaran" ],
+			[ "fragmentaran" ]
+		],
+		"10" : [
+			[ "fragmentase" ],
+			[ "fragmentases" ],
+			[ "fragmentase" ],
+			[ "fragmentásemos" ],
+			[ "fragmentaseis", "fragmentasen" ],
+			[ "fragmentasen" ]
+		],
+		"11" : [
+			[ "fragmentare" ],
+			[ "fragmentares" ],
+			[ "fragmentare" ],
+			[ "fragmentáremos" ],
+			[ "fragmentareis", "fragmentaren" ],
+			[ "fragmentaren" ]
+		],
+		"12" : {
+			"1" : [ "fragmenta" ],
+			"2" : [ "fragmente" ],
+			"3" : [ "fragmentemos" ],
+			"4" : [ "fragmentad" ],
+			"5" : [ "fragmenten" ]
+		}
+	}
+}

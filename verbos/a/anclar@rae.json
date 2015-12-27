@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anclar",
+	"word" : "anclar",
+	"infinitivo" : "anclar",
+	"participio" : [ "anclado" ],
+	"gerundio" : [ "anclando" ],
+	"tenses" : {
+		"3" : [
+			[ "anclo" ],
+			[ "anclas", "anclás" ],
+			[ "ancla" ],
+			[ "anclamos" ],
+			[ "ancláis", "anclan" ],
+			[ "anclan" ]
+		],
+		"4" : [
+			[ "anclé" ],
+			[ "anclaste" ],
+			[ "ancló" ],
+			[ "anclamos" ],
+			[ "anclasteis", "anclaron" ],
+			[ "anclaron" ]
+		],
+		"5" : [
+			[ "anclaba" ],
+			[ "anclabas" ],
+			[ "anclaba" ],
+			[ "anclábamos" ],
+			[ "anclabais", "anclaban" ],
+			[ "anclaban" ]
+		],
+		"6" : [
+			[ "anclaría" ],
+			[ "anclarías" ],
+			[ "anclaría" ],
+			[ "anclaríamos" ],
+			[ "anclaríais", "anclarían" ],
+			[ "anclarían" ]
+		],
+		"7" : [
+			[ "anclaré" ],
+			[ "anclarás" ],
+			[ "anclará" ],
+			[ "anclaremos" ],
+			[ "anclaréis", "anclarán" ],
+			[ "anclarán" ]
+		],
+		"8" : [
+			[ "ancle" ],
+			[ "ancles" ],
+			[ "ancle" ],
+			[ "anclemos" ],
+			[ "ancléis", "anclen" ],
+			[ "anclen" ]
+		],
+		"9" : [
+			[ "anclara" ],
+			[ "anclaras" ],
+			[ "anclara" ],
+			[ "ancláramos" ],
+			[ "anclarais", "anclaran" ],
+			[ "anclaran" ]
+		],
+		"10" : [
+			[ "anclase" ],
+			[ "anclases" ],
+			[ "anclase" ],
+			[ "anclásemos" ],
+			[ "anclaseis", "anclasen" ],
+			[ "anclasen" ]
+		],
+		"11" : [
+			[ "anclare" ],
+			[ "anclares" ],
+			[ "anclare" ],
+			[ "ancláremos" ],
+			[ "anclareis", "anclaren" ],
+			[ "anclaren" ]
+		],
+		"12" : {
+			"1" : [ "ancla" ],
+			"2" : [ "ancle" ],
+			"3" : [ "anclemos" ],
+			"4" : [ "anclad" ],
+			"5" : [ "anclen" ]
+		}
+	}
+}

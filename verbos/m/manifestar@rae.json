@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=manifestar",
+	"word" : "manifestar",
+	"infinitivo" : "manifestar",
+	"participio" : [ "manifestado" ],
+	"gerundio" : [ "manifestando" ],
+	"tenses" : {
+		"3" : [
+			[ "manifiesto" ],
+			[ "manifiestas", "manifestás" ],
+			[ "manifiesta" ],
+			[ "manifestamos" ],
+			[ "manifestáis", "manifiestan" ],
+			[ "manifiestan" ]
+		],
+		"4" : [
+			[ "manifesté" ],
+			[ "manifestaste" ],
+			[ "manifestó" ],
+			[ "manifestamos" ],
+			[ "manifestasteis", "manifestaron" ],
+			[ "manifestaron" ]
+		],
+		"5" : [
+			[ "manifestaba" ],
+			[ "manifestabas" ],
+			[ "manifestaba" ],
+			[ "manifestábamos" ],
+			[ "manifestabais", "manifestaban" ],
+			[ "manifestaban" ]
+		],
+		"6" : [
+			[ "manifestaría" ],
+			[ "manifestarías" ],
+			[ "manifestaría" ],
+			[ "manifestaríamos" ],
+			[ "manifestaríais", "manifestarían" ],
+			[ "manifestarían" ]
+		],
+		"7" : [
+			[ "manifestaré" ],
+			[ "manifestarás" ],
+			[ "manifestará" ],
+			[ "manifestaremos" ],
+			[ "manifestaréis", "manifestarán" ],
+			[ "manifestarán" ]
+		],
+		"8" : [
+			[ "manifieste" ],
+			[ "manifiestes" ],
+			[ "manifieste" ],
+			[ "manifestemos" ],
+			[ "manifestéis", "manifiesten" ],
+			[ "manifiesten" ]
+		],
+		"9" : [
+			[ "manifestara" ],
+			[ "manifestaras" ],
+			[ "manifestara" ],
+			[ "manifestáramos" ],
+			[ "manifestarais", "manifestaran" ],
+			[ "manifestaran" ]
+		],
+		"10" : [
+			[ "manifestase" ],
+			[ "manifestases" ],
+			[ "manifestase" ],
+			[ "manifestásemos" ],
+			[ "manifestaseis", "manifestasen" ],
+			[ "manifestasen" ]
+		],
+		"11" : [
+			[ "manifestare" ],
+			[ "manifestares" ],
+			[ "manifestare" ],
+			[ "manifestáremos" ],
+			[ "manifestareis", "manifestaren" ],
+			[ "manifestaren" ]
+		],
+		"12" : {
+			"1" : [ "manifiesta" ],
+			"2" : [ "manifieste" ],
+			"3" : [ "manifestemos" ],
+			"4" : [ "manifestad" ],
+			"5" : [ "manifiesten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=demostrar",
+	"word" : "demostrar",
+	"infinitivo" : "demostrar",
+	"participio" : [ "demostrado" ],
+	"gerundio" : [ "demostrando" ],
+	"tenses" : {
+		"3" : [
+			[ "demuestro" ],
+			[ "demuestras", "demostrás" ],
+			[ "demuestra" ],
+			[ "demostramos" ],
+			[ "demostráis", "demuestran" ],
+			[ "demuestran" ]
+		],
+		"4" : [
+			[ "demostré" ],
+			[ "demostraste" ],
+			[ "demostró" ],
+			[ "demostramos" ],
+			[ "demostrasteis", "demostraron" ],
+			[ "demostraron" ]
+		],
+		"5" : [
+			[ "demostraba" ],
+			[ "demostrabas" ],
+			[ "demostraba" ],
+			[ "demostrábamos" ],
+			[ "demostrabais", "demostraban" ],
+			[ "demostraban" ]
+		],
+		"6" : [
+			[ "demostraría" ],
+			[ "demostrarías" ],
+			[ "demostraría" ],
+			[ "demostraríamos" ],
+			[ "demostraríais", "demostrarían" ],
+			[ "demostrarían" ]
+		],
+		"7" : [
+			[ "demostraré" ],
+			[ "demostrarás" ],
+			[ "demostrará" ],
+			[ "demostraremos" ],
+			[ "demostraréis", "demostrarán" ],
+			[ "demostrarán" ]
+		],
+		"8" : [
+			[ "demuestre" ],
+			[ "demuestres" ],
+			[ "demuestre" ],
+			[ "demostremos" ],
+			[ "demostréis", "demuestren" ],
+			[ "demuestren" ]
+		],
+		"9" : [
+			[ "demostrara" ],
+			[ "demostraras" ],
+			[ "demostrara" ],
+			[ "demostráramos" ],
+			[ "demostrarais", "demostraran" ],
+			[ "demostraran" ]
+		],
+		"10" : [
+			[ "demostrase" ],
+			[ "demostrases" ],
+			[ "demostrase" ],
+			[ "demostrásemos" ],
+			[ "demostraseis", "demostrasen" ],
+			[ "demostrasen" ]
+		],
+		"11" : [
+			[ "demostrare" ],
+			[ "demostrares" ],
+			[ "demostrare" ],
+			[ "demostráremos" ],
+			[ "demostrareis", "demostraren" ],
+			[ "demostraren" ]
+		],
+		"12" : {
+			"1" : [ "demuestra" ],
+			"2" : [ "demuestre" ],
+			"3" : [ "demostremos" ],
+			"4" : [ "demostrad" ],
+			"5" : [ "demuestren" ]
+		}
+	}
+}

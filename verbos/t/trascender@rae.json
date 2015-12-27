@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trascender",
+	"word" : "trascender",
+	"infinitivo" : "trascender",
+	"participio" : [ "trascendido" ],
+	"gerundio" : [ "trascendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "trasciendo" ],
+			[ "trasciendes", "trascendés" ],
+			[ "trasciende" ],
+			[ "trascendemos" ],
+			[ "trascendéis", "trascienden" ],
+			[ "trascienden" ]
+		],
+		"4" : [
+			[ "trascendí" ],
+			[ "trascendiste" ],
+			[ "trascendió" ],
+			[ "trascendimos" ],
+			[ "trascendisteis", "trascendieron" ],
+			[ "trascendieron" ]
+		],
+		"5" : [
+			[ "trascendía" ],
+			[ "trascendías" ],
+			[ "trascendía" ],
+			[ "trascendíamos" ],
+			[ "trascendíais", "trascendían" ],
+			[ "trascendían" ]
+		],
+		"6" : [
+			[ "trascendería" ],
+			[ "trascenderías" ],
+			[ "trascendería" ],
+			[ "trascenderíamos" ],
+			[ "trascenderíais", "trascenderían" ],
+			[ "trascenderían" ]
+		],
+		"7" : [
+			[ "trascenderé" ],
+			[ "trascenderás" ],
+			[ "trascenderá" ],
+			[ "trascenderemos" ],
+			[ "trascenderéis", "trascenderán" ],
+			[ "trascenderán" ]
+		],
+		"8" : [
+			[ "trascienda" ],
+			[ "trasciendas" ],
+			[ "trascienda" ],
+			[ "trascendamos" ],
+			[ "trascendáis", "trasciendan" ],
+			[ "trasciendan" ]
+		],
+		"9" : [
+			[ "trascendiera" ],
+			[ "trascendieras" ],
+			[ "trascendiera" ],
+			[ "trascendiéramos" ],
+			[ "trascendierais", "trascendieran" ],
+			[ "trascendieran" ]
+		],
+		"10" : [
+			[ "trascendiese" ],
+			[ "trascendieses" ],
+			[ "trascendiese" ],
+			[ "trascendiésemos" ],
+			[ "trascendieseis", "trascendiesen" ],
+			[ "trascendiesen" ]
+		],
+		"11" : [
+			[ "trascendiere" ],
+			[ "trascendieres" ],
+			[ "trascendiere" ],
+			[ "trascendiéremos" ],
+			[ "trascendiereis", "trascendieren" ],
+			[ "trascendieren" ]
+		],
+		"12" : {
+			"1" : [ "trasciende" ],
+			"2" : [ "trascienda" ],
+			"3" : [ "trascendamos" ],
+			"4" : [ "trascended" ],
+			"5" : [ "trasciendan" ]
+		}
+	}
+}

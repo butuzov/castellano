@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acornear",
+	"word" : "acornear",
+	"infinitivo" : "acornear",
+	"participio" : [ "acorneado" ],
+	"gerundio" : [ "acorneando" ],
+	"tenses" : {
+		"3" : [
+			[ "acorneo" ],
+			[ "acorneas", "acorneás" ],
+			[ "acornea" ],
+			[ "acorneamos" ],
+			[ "acorneáis", "acornean" ],
+			[ "acornean" ]
+		],
+		"4" : [
+			[ "acorneé" ],
+			[ "acorneaste" ],
+			[ "acorneó" ],
+			[ "acorneamos" ],
+			[ "acorneasteis", "acornearon" ],
+			[ "acornearon" ]
+		],
+		"5" : [
+			[ "acorneaba" ],
+			[ "acorneabas" ],
+			[ "acorneaba" ],
+			[ "acorneábamos" ],
+			[ "acorneabais", "acorneaban" ],
+			[ "acorneaban" ]
+		],
+		"6" : [
+			[ "acornearía" ],
+			[ "acornearías" ],
+			[ "acornearía" ],
+			[ "acornearíamos" ],
+			[ "acornearíais", "acornearían" ],
+			[ "acornearían" ]
+		],
+		"7" : [
+			[ "acornearé" ],
+			[ "acornearás" ],
+			[ "acorneará" ],
+			[ "acornearemos" ],
+			[ "acornearéis", "acornearán" ],
+			[ "acornearán" ]
+		],
+		"8" : [
+			[ "acornee" ],
+			[ "acornees" ],
+			[ "acornee" ],
+			[ "acorneemos" ],
+			[ "acorneéis", "acorneen" ],
+			[ "acorneen" ]
+		],
+		"9" : [
+			[ "acorneara" ],
+			[ "acornearas" ],
+			[ "acorneara" ],
+			[ "acorneáramos" ],
+			[ "acornearais", "acornearan" ],
+			[ "acornearan" ]
+		],
+		"10" : [
+			[ "acornease" ],
+			[ "acorneases" ],
+			[ "acornease" ],
+			[ "acorneásemos" ],
+			[ "acorneaseis", "acorneasen" ],
+			[ "acorneasen" ]
+		],
+		"11" : [
+			[ "acorneare" ],
+			[ "acorneares" ],
+			[ "acorneare" ],
+			[ "acorneáremos" ],
+			[ "acorneareis", "acornearen" ],
+			[ "acornearen" ]
+		],
+		"12" : {
+			"1" : [ "acornea" ],
+			"2" : [ "acornee" ],
+			"3" : [ "acorneemos" ],
+			"4" : [ "acornead" ],
+			"5" : [ "acorneen" ]
+		}
+	}
+}

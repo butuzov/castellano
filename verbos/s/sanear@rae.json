@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sanear",
+	"word" : "sanear",
+	"infinitivo" : "sanear",
+	"participio" : [ "saneado" ],
+	"gerundio" : [ "saneando" ],
+	"tenses" : {
+		"3" : [
+			[ "saneo" ],
+			[ "saneas", "saneás" ],
+			[ "sanea" ],
+			[ "saneamos" ],
+			[ "saneáis", "sanean" ],
+			[ "sanean" ]
+		],
+		"4" : [
+			[ "saneé" ],
+			[ "saneaste" ],
+			[ "saneó" ],
+			[ "saneamos" ],
+			[ "saneasteis", "sanearon" ],
+			[ "sanearon" ]
+		],
+		"5" : [
+			[ "saneaba" ],
+			[ "saneabas" ],
+			[ "saneaba" ],
+			[ "saneábamos" ],
+			[ "saneabais", "saneaban" ],
+			[ "saneaban" ]
+		],
+		"6" : [
+			[ "sanearía" ],
+			[ "sanearías" ],
+			[ "sanearía" ],
+			[ "sanearíamos" ],
+			[ "sanearíais", "sanearían" ],
+			[ "sanearían" ]
+		],
+		"7" : [
+			[ "sanearé" ],
+			[ "sanearás" ],
+			[ "saneará" ],
+			[ "sanearemos" ],
+			[ "sanearéis", "sanearán" ],
+			[ "sanearán" ]
+		],
+		"8" : [
+			[ "sanee" ],
+			[ "sanees" ],
+			[ "sanee" ],
+			[ "saneemos" ],
+			[ "saneéis", "saneen" ],
+			[ "saneen" ]
+		],
+		"9" : [
+			[ "saneara" ],
+			[ "sanearas" ],
+			[ "saneara" ],
+			[ "saneáramos" ],
+			[ "sanearais", "sanearan" ],
+			[ "sanearan" ]
+		],
+		"10" : [
+			[ "sanease" ],
+			[ "saneases" ],
+			[ "sanease" ],
+			[ "saneásemos" ],
+			[ "saneaseis", "saneasen" ],
+			[ "saneasen" ]
+		],
+		"11" : [
+			[ "saneare" ],
+			[ "saneares" ],
+			[ "saneare" ],
+			[ "saneáremos" ],
+			[ "saneareis", "sanearen" ],
+			[ "sanearen" ]
+		],
+		"12" : {
+			"1" : [ "sanea" ],
+			"2" : [ "sanee" ],
+			"3" : [ "saneemos" ],
+			"4" : [ "sanead" ],
+			"5" : [ "saneen" ]
+		}
+	}
+}

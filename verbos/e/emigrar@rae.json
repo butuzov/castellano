@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emigrar",
+	"word" : "emigrar",
+	"infinitivo" : "emigrar",
+	"participio" : [ "emigrado" ],
+	"gerundio" : [ "emigrando" ],
+	"tenses" : {
+		"3" : [
+			[ "emigro" ],
+			[ "emigras", "emigrás" ],
+			[ "emigra" ],
+			[ "emigramos" ],
+			[ "emigráis", "emigran" ],
+			[ "emigran" ]
+		],
+		"4" : [
+			[ "emigré" ],
+			[ "emigraste" ],
+			[ "emigró" ],
+			[ "emigramos" ],
+			[ "emigrasteis", "emigraron" ],
+			[ "emigraron" ]
+		],
+		"5" : [
+			[ "emigraba" ],
+			[ "emigrabas" ],
+			[ "emigraba" ],
+			[ "emigrábamos" ],
+			[ "emigrabais", "emigraban" ],
+			[ "emigraban" ]
+		],
+		"6" : [
+			[ "emigraría" ],
+			[ "emigrarías" ],
+			[ "emigraría" ],
+			[ "emigraríamos" ],
+			[ "emigraríais", "emigrarían" ],
+			[ "emigrarían" ]
+		],
+		"7" : [
+			[ "emigraré" ],
+			[ "emigrarás" ],
+			[ "emigrará" ],
+			[ "emigraremos" ],
+			[ "emigraréis", "emigrarán" ],
+			[ "emigrarán" ]
+		],
+		"8" : [
+			[ "emigre" ],
+			[ "emigres" ],
+			[ "emigre" ],
+			[ "emigremos" ],
+			[ "emigréis", "emigren" ],
+			[ "emigren" ]
+		],
+		"9" : [
+			[ "emigrara" ],
+			[ "emigraras" ],
+			[ "emigrara" ],
+			[ "emigráramos" ],
+			[ "emigrarais", "emigraran" ],
+			[ "emigraran" ]
+		],
+		"10" : [
+			[ "emigrase" ],
+			[ "emigrases" ],
+			[ "emigrase" ],
+			[ "emigrásemos" ],
+			[ "emigraseis", "emigrasen" ],
+			[ "emigrasen" ]
+		],
+		"11" : [
+			[ "emigrare" ],
+			[ "emigrares" ],
+			[ "emigrare" ],
+			[ "emigráremos" ],
+			[ "emigrareis", "emigraren" ],
+			[ "emigraren" ]
+		],
+		"12" : {
+			"1" : [ "emigra" ],
+			"2" : [ "emigre" ],
+			"3" : [ "emigremos" ],
+			"4" : [ "emigrad" ],
+			"5" : [ "emigren" ]
+		}
+	}
+}

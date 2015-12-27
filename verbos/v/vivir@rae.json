@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vivir",
+	"word" : "vivir",
+	"infinitivo" : "vivir",
+	"participio" : [ "vivido" ],
+	"gerundio" : [ "viviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "vivo" ],
+			[ "vives", "vivís" ],
+			[ "vive" ],
+			[ "vivimos" ],
+			[ "vivís", "viven" ],
+			[ "viven" ]
+		],
+		"4" : [
+			[ "viví" ],
+			[ "viviste" ],
+			[ "vivió" ],
+			[ "vivimos" ],
+			[ "vivisteis", "vivieron" ],
+			[ "vivieron" ]
+		],
+		"5" : [
+			[ "vivía" ],
+			[ "vivías" ],
+			[ "vivía" ],
+			[ "vivíamos" ],
+			[ "vivíais", "vivían" ],
+			[ "vivían" ]
+		],
+		"6" : [
+			[ "viviría" ],
+			[ "vivirías" ],
+			[ "viviría" ],
+			[ "viviríamos" ],
+			[ "viviríais", "vivirían" ],
+			[ "vivirían" ]
+		],
+		"7" : [
+			[ "viviré" ],
+			[ "vivirás" ],
+			[ "vivirá" ],
+			[ "viviremos" ],
+			[ "viviréis", "vivirán" ],
+			[ "vivirán" ]
+		],
+		"8" : [
+			[ "viva" ],
+			[ "vivas" ],
+			[ "viva" ],
+			[ "vivamos" ],
+			[ "viváis", "vivan" ],
+			[ "vivan" ]
+		],
+		"9" : [
+			[ "viviera" ],
+			[ "vivieras" ],
+			[ "viviera" ],
+			[ "viviéramos" ],
+			[ "vivierais", "vivieran" ],
+			[ "vivieran" ]
+		],
+		"10" : [
+			[ "viviese" ],
+			[ "vivieses" ],
+			[ "viviese" ],
+			[ "viviésemos" ],
+			[ "vivieseis", "viviesen" ],
+			[ "viviesen" ]
+		],
+		"11" : [
+			[ "viviere" ],
+			[ "vivieres" ],
+			[ "viviere" ],
+			[ "viviéremos" ],
+			[ "viviereis", "vivieren" ],
+			[ "vivieren" ]
+		],
+		"12" : {
+			"1" : [ "vive" ],
+			"2" : [ "viva" ],
+			"3" : [ "vivamos" ],
+			"4" : [ "vivid" ],
+			"5" : [ "vivan" ]
+		}
+	}
+}

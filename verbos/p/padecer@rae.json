@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=padecer",
+	"word" : "padecer",
+	"infinitivo" : "padecer",
+	"participio" : [ "padecido" ],
+	"gerundio" : [ "padeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "padezco" ],
+			[ "padeces", "padecés" ],
+			[ "padece" ],
+			[ "padecemos" ],
+			[ "padecéis", "padecen" ],
+			[ "padecen" ]
+		],
+		"4" : [
+			[ "padecí" ],
+			[ "padeciste" ],
+			[ "padeció" ],
+			[ "padecimos" ],
+			[ "padecisteis", "padecieron" ],
+			[ "padecieron" ]
+		],
+		"5" : [
+			[ "padecía" ],
+			[ "padecías" ],
+			[ "padecía" ],
+			[ "padecíamos" ],
+			[ "padecíais", "padecían" ],
+			[ "padecían" ]
+		],
+		"6" : [
+			[ "padecería" ],
+			[ "padecerías" ],
+			[ "padecería" ],
+			[ "padeceríamos" ],
+			[ "padeceríais", "padecerían" ],
+			[ "padecerían" ]
+		],
+		"7" : [
+			[ "padeceré" ],
+			[ "padecerás" ],
+			[ "padecerá" ],
+			[ "padeceremos" ],
+			[ "padeceréis", "padecerán" ],
+			[ "padecerán" ]
+		],
+		"8" : [
+			[ "padezca" ],
+			[ "padezcas" ],
+			[ "padezca" ],
+			[ "padezcamos" ],
+			[ "padezcáis", "padezcan" ],
+			[ "padezcan" ]
+		],
+		"9" : [
+			[ "padeciera" ],
+			[ "padecieras" ],
+			[ "padeciera" ],
+			[ "padeciéramos" ],
+			[ "padecierais", "padecieran" ],
+			[ "padecieran" ]
+		],
+		"10" : [
+			[ "padeciese" ],
+			[ "padecieses" ],
+			[ "padeciese" ],
+			[ "padeciésemos" ],
+			[ "padecieseis", "padeciesen" ],
+			[ "padeciesen" ]
+		],
+		"11" : [
+			[ "padeciere" ],
+			[ "padecieres" ],
+			[ "padeciere" ],
+			[ "padeciéremos" ],
+			[ "padeciereis", "padecieren" ],
+			[ "padecieren" ]
+		],
+		"12" : {
+			"1" : [ "padece" ],
+			"2" : [ "padezca" ],
+			"3" : [ "padezcamos" ],
+			"4" : [ "padeced" ],
+			"5" : [ "padezcan" ]
+		}
+	}
+}

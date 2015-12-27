@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trinchar",
+	"word" : "trinchar",
+	"infinitivo" : "trinchar",
+	"participio" : [ "trinchado" ],
+	"gerundio" : [ "trinchando" ],
+	"tenses" : {
+		"3" : [
+			[ "trincho" ],
+			[ "trinchas", "trinchás" ],
+			[ "trincha" ],
+			[ "trinchamos" ],
+			[ "trincháis", "trinchan" ],
+			[ "trinchan" ]
+		],
+		"4" : [
+			[ "trinché" ],
+			[ "trinchaste" ],
+			[ "trinchó" ],
+			[ "trinchamos" ],
+			[ "trinchasteis", "trincharon" ],
+			[ "trincharon" ]
+		],
+		"5" : [
+			[ "trinchaba" ],
+			[ "trinchabas" ],
+			[ "trinchaba" ],
+			[ "trinchábamos" ],
+			[ "trinchabais", "trinchaban" ],
+			[ "trinchaban" ]
+		],
+		"6" : [
+			[ "trincharía" ],
+			[ "trincharías" ],
+			[ "trincharía" ],
+			[ "trincharíamos" ],
+			[ "trincharíais", "trincharían" ],
+			[ "trincharían" ]
+		],
+		"7" : [
+			[ "trincharé" ],
+			[ "trincharás" ],
+			[ "trinchará" ],
+			[ "trincharemos" ],
+			[ "trincharéis", "trincharán" ],
+			[ "trincharán" ]
+		],
+		"8" : [
+			[ "trinche" ],
+			[ "trinches" ],
+			[ "trinche" ],
+			[ "trinchemos" ],
+			[ "trinchéis", "trinchen" ],
+			[ "trinchen" ]
+		],
+		"9" : [
+			[ "trinchara" ],
+			[ "trincharas" ],
+			[ "trinchara" ],
+			[ "trincháramos" ],
+			[ "trincharais", "trincharan" ],
+			[ "trincharan" ]
+		],
+		"10" : [
+			[ "trinchase" ],
+			[ "trinchases" ],
+			[ "trinchase" ],
+			[ "trinchásemos" ],
+			[ "trinchaseis", "trinchasen" ],
+			[ "trinchasen" ]
+		],
+		"11" : [
+			[ "trinchare" ],
+			[ "trinchares" ],
+			[ "trinchare" ],
+			[ "trincháremos" ],
+			[ "trinchareis", "trincharen" ],
+			[ "trincharen" ]
+		],
+		"12" : {
+			"1" : [ "trincha" ],
+			"2" : [ "trinche" ],
+			"3" : [ "trinchemos" ],
+			"4" : [ "trinchad" ],
+			"5" : [ "trinchen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desperdiciar",
+	"word" : "desperdiciar",
+	"infinitivo" : "desperdiciar",
+	"participio" : [ "desperdiciado" ],
+	"gerundio" : [ "desperdiciando" ],
+	"tenses" : {
+		"3" : [
+			[ "desperdicio" ],
+			[ "desperdicias", "desperdiciás" ],
+			[ "desperdicia" ],
+			[ "desperdiciamos" ],
+			[ "desperdiciáis", "desperdician" ],
+			[ "desperdician" ]
+		],
+		"4" : [
+			[ "desperdicié" ],
+			[ "desperdiciaste" ],
+			[ "desperdició" ],
+			[ "desperdiciamos" ],
+			[ "desperdiciasteis", "desperdiciaron" ],
+			[ "desperdiciaron" ]
+		],
+		"5" : [
+			[ "desperdiciaba" ],
+			[ "desperdiciabas" ],
+			[ "desperdiciaba" ],
+			[ "desperdiciábamos" ],
+			[ "desperdiciabais", "desperdiciaban" ],
+			[ "desperdiciaban" ]
+		],
+		"6" : [
+			[ "desperdiciaría" ],
+			[ "desperdiciarías" ],
+			[ "desperdiciaría" ],
+			[ "desperdiciaríamos" ],
+			[ "desperdiciaríais", "desperdiciarían" ],
+			[ "desperdiciarían" ]
+		],
+		"7" : [
+			[ "desperdiciaré" ],
+			[ "desperdiciarás" ],
+			[ "desperdiciará" ],
+			[ "desperdiciaremos" ],
+			[ "desperdiciaréis", "desperdiciarán" ],
+			[ "desperdiciarán" ]
+		],
+		"8" : [
+			[ "desperdicie" ],
+			[ "desperdicies" ],
+			[ "desperdicie" ],
+			[ "desperdiciemos" ],
+			[ "desperdiciéis", "desperdicien" ],
+			[ "desperdicien" ]
+		],
+		"9" : [
+			[ "desperdiciara" ],
+			[ "desperdiciaras" ],
+			[ "desperdiciara" ],
+			[ "desperdiciáramos" ],
+			[ "desperdiciarais", "desperdiciaran" ],
+			[ "desperdiciaran" ]
+		],
+		"10" : [
+			[ "desperdiciase" ],
+			[ "desperdiciases" ],
+			[ "desperdiciase" ],
+			[ "desperdiciásemos" ],
+			[ "desperdiciaseis", "desperdiciasen" ],
+			[ "desperdiciasen" ]
+		],
+		"11" : [
+			[ "desperdiciare" ],
+			[ "desperdiciares" ],
+			[ "desperdiciare" ],
+			[ "desperdiciáremos" ],
+			[ "desperdiciareis", "desperdiciaren" ],
+			[ "desperdiciaren" ]
+		],
+		"12" : {
+			"1" : [ "desperdicia" ],
+			"2" : [ "desperdicie" ],
+			"3" : [ "desperdiciemos" ],
+			"4" : [ "desperdiciad" ],
+			"5" : [ "desperdicien" ]
+		}
+	}
+}

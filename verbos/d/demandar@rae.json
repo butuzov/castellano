@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=demandar",
+	"word" : "demandar",
+	"infinitivo" : "demandar",
+	"participio" : [ "demandado" ],
+	"gerundio" : [ "demandando" ],
+	"tenses" : {
+		"3" : [
+			[ "demando" ],
+			[ "demandas", "demandás" ],
+			[ "demanda" ],
+			[ "demandamos" ],
+			[ "demandáis", "demandan" ],
+			[ "demandan" ]
+		],
+		"4" : [
+			[ "demandé" ],
+			[ "demandaste" ],
+			[ "demandó" ],
+			[ "demandamos" ],
+			[ "demandasteis", "demandaron" ],
+			[ "demandaron" ]
+		],
+		"5" : [
+			[ "demandaba" ],
+			[ "demandabas" ],
+			[ "demandaba" ],
+			[ "demandábamos" ],
+			[ "demandabais", "demandaban" ],
+			[ "demandaban" ]
+		],
+		"6" : [
+			[ "demandaría" ],
+			[ "demandarías" ],
+			[ "demandaría" ],
+			[ "demandaríamos" ],
+			[ "demandaríais", "demandarían" ],
+			[ "demandarían" ]
+		],
+		"7" : [
+			[ "demandaré" ],
+			[ "demandarás" ],
+			[ "demandará" ],
+			[ "demandaremos" ],
+			[ "demandaréis", "demandarán" ],
+			[ "demandarán" ]
+		],
+		"8" : [
+			[ "demande" ],
+			[ "demandes" ],
+			[ "demande" ],
+			[ "demandemos" ],
+			[ "demandéis", "demanden" ],
+			[ "demanden" ]
+		],
+		"9" : [
+			[ "demandara" ],
+			[ "demandaras" ],
+			[ "demandara" ],
+			[ "demandáramos" ],
+			[ "demandarais", "demandaran" ],
+			[ "demandaran" ]
+		],
+		"10" : [
+			[ "demandase" ],
+			[ "demandases" ],
+			[ "demandase" ],
+			[ "demandásemos" ],
+			[ "demandaseis", "demandasen" ],
+			[ "demandasen" ]
+		],
+		"11" : [
+			[ "demandare" ],
+			[ "demandares" ],
+			[ "demandare" ],
+			[ "demandáremos" ],
+			[ "demandareis", "demandaren" ],
+			[ "demandaren" ]
+		],
+		"12" : {
+			"1" : [ "demanda" ],
+			"2" : [ "demande" ],
+			"3" : [ "demandemos" ],
+			"4" : [ "demandad" ],
+			"5" : [ "demanden" ]
+		}
+	}
+}

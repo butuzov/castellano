@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aborrir",
+	"word" : "aborrir",
+	"infinitivo" : "aborrir",
+	"participio" : [ "aborrido" ],
+	"gerundio" : [ "aborriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aborro" ],
+			[ "aborres", "aborrís" ],
+			[ "aborre" ],
+			[ "aborrimos" ],
+			[ "aborrís", "aborren" ],
+			[ "aborren" ]
+		],
+		"4" : [
+			[ "aborrí" ],
+			[ "aborriste" ],
+			[ "aborrió" ],
+			[ "aborrimos" ],
+			[ "aborristeis", "aborrieron" ],
+			[ "aborrieron" ]
+		],
+		"5" : [
+			[ "aborría" ],
+			[ "aborrías" ],
+			[ "aborría" ],
+			[ "aborríamos" ],
+			[ "aborríais", "aborrían" ],
+			[ "aborrían" ]
+		],
+		"6" : [
+			[ "aborriría" ],
+			[ "aborrirías" ],
+			[ "aborriría" ],
+			[ "aborriríamos" ],
+			[ "aborriríais", "aborrirían" ],
+			[ "aborrirían" ]
+		],
+		"7" : [
+			[ "aborriré" ],
+			[ "aborrirás" ],
+			[ "aborrirá" ],
+			[ "aborriremos" ],
+			[ "aborriréis", "aborrirán" ],
+			[ "aborrirán" ]
+		],
+		"8" : [
+			[ "aborra" ],
+			[ "aborras" ],
+			[ "aborra" ],
+			[ "aborramos" ],
+			[ "aborráis", "aborran" ],
+			[ "aborran" ]
+		],
+		"9" : [
+			[ "aborriera" ],
+			[ "aborrieras" ],
+			[ "aborriera" ],
+			[ "aborriéramos" ],
+			[ "aborrierais", "aborrieran" ],
+			[ "aborrieran" ]
+		],
+		"10" : [
+			[ "aborriese" ],
+			[ "aborrieses" ],
+			[ "aborriese" ],
+			[ "aborriésemos" ],
+			[ "aborrieseis", "aborriesen" ],
+			[ "aborriesen" ]
+		],
+		"11" : [
+			[ "aborriere" ],
+			[ "aborrieres" ],
+			[ "aborriere" ],
+			[ "aborriéremos" ],
+			[ "aborriereis", "aborrieren" ],
+			[ "aborrieren" ]
+		],
+		"12" : {
+			"1" : [ "aborre" ],
+			"2" : [ "aborra" ],
+			"3" : [ "aborramos" ],
+			"4" : [ "aborrid" ],
+			"5" : [ "aborran" ]
+		}
+	}
+}

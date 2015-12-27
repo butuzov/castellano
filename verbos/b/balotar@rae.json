@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=balotar",
+	"word" : "balotar",
+	"infinitivo" : "balotar",
+	"participio" : [ "balotado" ],
+	"gerundio" : [ "balotando" ],
+	"tenses" : {
+		"3" : [
+			[ "baloto" ],
+			[ "balotas", "balotás" ],
+			[ "balota" ],
+			[ "balotamos" ],
+			[ "balotáis", "balotan" ],
+			[ "balotan" ]
+		],
+		"4" : [
+			[ "baloté" ],
+			[ "balotaste" ],
+			[ "balotó" ],
+			[ "balotamos" ],
+			[ "balotasteis", "balotaron" ],
+			[ "balotaron" ]
+		],
+		"5" : [
+			[ "balotaba" ],
+			[ "balotabas" ],
+			[ "balotaba" ],
+			[ "balotábamos" ],
+			[ "balotabais", "balotaban" ],
+			[ "balotaban" ]
+		],
+		"6" : [
+			[ "balotaría" ],
+			[ "balotarías" ],
+			[ "balotaría" ],
+			[ "balotaríamos" ],
+			[ "balotaríais", "balotarían" ],
+			[ "balotarían" ]
+		],
+		"7" : [
+			[ "balotaré" ],
+			[ "balotarás" ],
+			[ "balotará" ],
+			[ "balotaremos" ],
+			[ "balotaréis", "balotarán" ],
+			[ "balotarán" ]
+		],
+		"8" : [
+			[ "balote" ],
+			[ "balotes" ],
+			[ "balote" ],
+			[ "balotemos" ],
+			[ "balotéis", "baloten" ],
+			[ "baloten" ]
+		],
+		"9" : [
+			[ "balotara" ],
+			[ "balotaras" ],
+			[ "balotara" ],
+			[ "balotáramos" ],
+			[ "balotarais", "balotaran" ],
+			[ "balotaran" ]
+		],
+		"10" : [
+			[ "balotase" ],
+			[ "balotases" ],
+			[ "balotase" ],
+			[ "balotásemos" ],
+			[ "balotaseis", "balotasen" ],
+			[ "balotasen" ]
+		],
+		"11" : [
+			[ "balotare" ],
+			[ "balotares" ],
+			[ "balotare" ],
+			[ "balotáremos" ],
+			[ "balotareis", "balotaren" ],
+			[ "balotaren" ]
+		],
+		"12" : {
+			"1" : [ "balota" ],
+			"2" : [ "balote" ],
+			"3" : [ "balotemos" ],
+			"4" : [ "balotad" ],
+			"5" : [ "baloten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=compadecer",
+	"word" : "compadecer",
+	"infinitivo" : "compadecer",
+	"participio" : [ "compadecido" ],
+	"gerundio" : [ "compadeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "compadezco" ],
+			[ "compadeces", "compadecés" ],
+			[ "compadece" ],
+			[ "compadecemos" ],
+			[ "compadecéis", "compadecen" ],
+			[ "compadecen" ]
+		],
+		"4" : [
+			[ "compadecí" ],
+			[ "compadeciste" ],
+			[ "compadeció" ],
+			[ "compadecimos" ],
+			[ "compadecisteis", "compadecieron" ],
+			[ "compadecieron" ]
+		],
+		"5" : [
+			[ "compadecía" ],
+			[ "compadecías" ],
+			[ "compadecía" ],
+			[ "compadecíamos" ],
+			[ "compadecíais", "compadecían" ],
+			[ "compadecían" ]
+		],
+		"6" : [
+			[ "compadecería" ],
+			[ "compadecerías" ],
+			[ "compadecería" ],
+			[ "compadeceríamos" ],
+			[ "compadeceríais", "compadecerían" ],
+			[ "compadecerían" ]
+		],
+		"7" : [
+			[ "compadeceré" ],
+			[ "compadecerás" ],
+			[ "compadecerá" ],
+			[ "compadeceremos" ],
+			[ "compadeceréis", "compadecerán" ],
+			[ "compadecerán" ]
+		],
+		"8" : [
+			[ "compadezca" ],
+			[ "compadezcas" ],
+			[ "compadezca" ],
+			[ "compadezcamos" ],
+			[ "compadezcáis", "compadezcan" ],
+			[ "compadezcan" ]
+		],
+		"9" : [
+			[ "compadeciera" ],
+			[ "compadecieras" ],
+			[ "compadeciera" ],
+			[ "compadeciéramos" ],
+			[ "compadecierais", "compadecieran" ],
+			[ "compadecieran" ]
+		],
+		"10" : [
+			[ "compadeciese" ],
+			[ "compadecieses" ],
+			[ "compadeciese" ],
+			[ "compadeciésemos" ],
+			[ "compadecieseis", "compadeciesen" ],
+			[ "compadeciesen" ]
+		],
+		"11" : [
+			[ "compadeciere" ],
+			[ "compadecieres" ],
+			[ "compadeciere" ],
+			[ "compadeciéremos" ],
+			[ "compadeciereis", "compadecieren" ],
+			[ "compadecieren" ]
+		],
+		"12" : {
+			"1" : [ "compadece" ],
+			"2" : [ "compadezca" ],
+			"3" : [ "compadezcamos" ],
+			"4" : [ "compadeced" ],
+			"5" : [ "compadezcan" ]
+		}
+	}
+}

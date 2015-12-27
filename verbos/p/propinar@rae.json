@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=propinar",
+	"word" : "propinar",
+	"infinitivo" : "propinar",
+	"participio" : [ "propinado" ],
+	"gerundio" : [ "propinando" ],
+	"tenses" : {
+		"3" : [
+			[ "propino" ],
+			[ "propinas", "propinás" ],
+			[ "propina" ],
+			[ "propinamos" ],
+			[ "propináis", "propinan" ],
+			[ "propinan" ]
+		],
+		"4" : [
+			[ "propiné" ],
+			[ "propinaste" ],
+			[ "propinó" ],
+			[ "propinamos" ],
+			[ "propinasteis", "propinaron" ],
+			[ "propinaron" ]
+		],
+		"5" : [
+			[ "propinaba" ],
+			[ "propinabas" ],
+			[ "propinaba" ],
+			[ "propinábamos" ],
+			[ "propinabais", "propinaban" ],
+			[ "propinaban" ]
+		],
+		"6" : [
+			[ "propinaría" ],
+			[ "propinarías" ],
+			[ "propinaría" ],
+			[ "propinaríamos" ],
+			[ "propinaríais", "propinarían" ],
+			[ "propinarían" ]
+		],
+		"7" : [
+			[ "propinaré" ],
+			[ "propinarás" ],
+			[ "propinará" ],
+			[ "propinaremos" ],
+			[ "propinaréis", "propinarán" ],
+			[ "propinarán" ]
+		],
+		"8" : [
+			[ "propine" ],
+			[ "propines" ],
+			[ "propine" ],
+			[ "propinemos" ],
+			[ "propinéis", "propinen" ],
+			[ "propinen" ]
+		],
+		"9" : [
+			[ "propinara" ],
+			[ "propinaras" ],
+			[ "propinara" ],
+			[ "propináramos" ],
+			[ "propinarais", "propinaran" ],
+			[ "propinaran" ]
+		],
+		"10" : [
+			[ "propinase" ],
+			[ "propinases" ],
+			[ "propinase" ],
+			[ "propinásemos" ],
+			[ "propinaseis", "propinasen" ],
+			[ "propinasen" ]
+		],
+		"11" : [
+			[ "propinare" ],
+			[ "propinares" ],
+			[ "propinare" ],
+			[ "propináremos" ],
+			[ "propinareis", "propinaren" ],
+			[ "propinaren" ]
+		],
+		"12" : {
+			"1" : [ "propina" ],
+			"2" : [ "propine" ],
+			"3" : [ "propinemos" ],
+			"4" : [ "propinad" ],
+			"5" : [ "propinen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=viciar",
+	"word" : "viciar",
+	"infinitivo" : "viciar",
+	"participio" : [ "viciado" ],
+	"gerundio" : [ "viciando" ],
+	"tenses" : {
+		"3" : [
+			[ "vicio" ],
+			[ "vicias", "viciás" ],
+			[ "vicia" ],
+			[ "viciamos" ],
+			[ "viciáis", "vician" ],
+			[ "vician" ]
+		],
+		"4" : [
+			[ "vicié" ],
+			[ "viciaste" ],
+			[ "vició" ],
+			[ "viciamos" ],
+			[ "viciasteis", "viciaron" ],
+			[ "viciaron" ]
+		],
+		"5" : [
+			[ "viciaba" ],
+			[ "viciabas" ],
+			[ "viciaba" ],
+			[ "viciábamos" ],
+			[ "viciabais", "viciaban" ],
+			[ "viciaban" ]
+		],
+		"6" : [
+			[ "viciaría" ],
+			[ "viciarías" ],
+			[ "viciaría" ],
+			[ "viciaríamos" ],
+			[ "viciaríais", "viciarían" ],
+			[ "viciarían" ]
+		],
+		"7" : [
+			[ "viciaré" ],
+			[ "viciarás" ],
+			[ "viciará" ],
+			[ "viciaremos" ],
+			[ "viciaréis", "viciarán" ],
+			[ "viciarán" ]
+		],
+		"8" : [
+			[ "vicie" ],
+			[ "vicies" ],
+			[ "vicie" ],
+			[ "viciemos" ],
+			[ "viciéis", "vicien" ],
+			[ "vicien" ]
+		],
+		"9" : [
+			[ "viciara" ],
+			[ "viciaras" ],
+			[ "viciara" ],
+			[ "viciáramos" ],
+			[ "viciarais", "viciaran" ],
+			[ "viciaran" ]
+		],
+		"10" : [
+			[ "viciase" ],
+			[ "viciases" ],
+			[ "viciase" ],
+			[ "viciásemos" ],
+			[ "viciaseis", "viciasen" ],
+			[ "viciasen" ]
+		],
+		"11" : [
+			[ "viciare" ],
+			[ "viciares" ],
+			[ "viciare" ],
+			[ "viciáremos" ],
+			[ "viciareis", "viciaren" ],
+			[ "viciaren" ]
+		],
+		"12" : {
+			"1" : [ "vicia" ],
+			"2" : [ "vicie" ],
+			"3" : [ "viciemos" ],
+			"4" : [ "viciad" ],
+			"5" : [ "vicien" ]
+		}
+	}
+}

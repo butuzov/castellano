@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estoquear",
+	"word" : "estoquear",
+	"infinitivo" : "estoquear",
+	"participio" : [ "estoqueado" ],
+	"gerundio" : [ "estoqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "estoqueo" ],
+			[ "estoqueas", "estoqueás" ],
+			[ "estoquea" ],
+			[ "estoqueamos" ],
+			[ "estoqueáis", "estoquean" ],
+			[ "estoquean" ]
+		],
+		"4" : [
+			[ "estoqueé" ],
+			[ "estoqueaste" ],
+			[ "estoqueó" ],
+			[ "estoqueamos" ],
+			[ "estoqueasteis", "estoquearon" ],
+			[ "estoquearon" ]
+		],
+		"5" : [
+			[ "estoqueaba" ],
+			[ "estoqueabas" ],
+			[ "estoqueaba" ],
+			[ "estoqueábamos" ],
+			[ "estoqueabais", "estoqueaban" ],
+			[ "estoqueaban" ]
+		],
+		"6" : [
+			[ "estoquearía" ],
+			[ "estoquearías" ],
+			[ "estoquearía" ],
+			[ "estoquearíamos" ],
+			[ "estoquearíais", "estoquearían" ],
+			[ "estoquearían" ]
+		],
+		"7" : [
+			[ "estoquearé" ],
+			[ "estoquearás" ],
+			[ "estoqueará" ],
+			[ "estoquearemos" ],
+			[ "estoquearéis", "estoquearán" ],
+			[ "estoquearán" ]
+		],
+		"8" : [
+			[ "estoquee" ],
+			[ "estoquees" ],
+			[ "estoquee" ],
+			[ "estoqueemos" ],
+			[ "estoqueéis", "estoqueen" ],
+			[ "estoqueen" ]
+		],
+		"9" : [
+			[ "estoqueara" ],
+			[ "estoquearas" ],
+			[ "estoqueara" ],
+			[ "estoqueáramos" ],
+			[ "estoquearais", "estoquearan" ],
+			[ "estoquearan" ]
+		],
+		"10" : [
+			[ "estoquease" ],
+			[ "estoqueases" ],
+			[ "estoquease" ],
+			[ "estoqueásemos" ],
+			[ "estoqueaseis", "estoqueasen" ],
+			[ "estoqueasen" ]
+		],
+		"11" : [
+			[ "estoqueare" ],
+			[ "estoqueares" ],
+			[ "estoqueare" ],
+			[ "estoqueáremos" ],
+			[ "estoqueareis", "estoquearen" ],
+			[ "estoquearen" ]
+		],
+		"12" : {
+			"1" : [ "estoquea" ],
+			"2" : [ "estoquee" ],
+			"3" : [ "estoqueemos" ],
+			"4" : [ "estoquead" ],
+			"5" : [ "estoqueen" ]
+		}
+	}
+}

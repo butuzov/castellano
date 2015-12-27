@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vacacionar",
+	"word" : "vacacionar",
+	"infinitivo" : "vacacionar",
+	"participio" : [ "vacacionado" ],
+	"gerundio" : [ "vacacionando" ],
+	"tenses" : {
+		"3" : [
+			[ "vacaciono" ],
+			[ "vacacionas", "vacacionás" ],
+			[ "vacaciona" ],
+			[ "vacacionamos" ],
+			[ "vacacionáis", "vacacionan" ],
+			[ "vacacionan" ]
+		],
+		"4" : [
+			[ "vacacioné" ],
+			[ "vacacionaste" ],
+			[ "vacacionó" ],
+			[ "vacacionamos" ],
+			[ "vacacionasteis", "vacacionaron" ],
+			[ "vacacionaron" ]
+		],
+		"5" : [
+			[ "vacacionaba" ],
+			[ "vacacionabas" ],
+			[ "vacacionaba" ],
+			[ "vacacionábamos" ],
+			[ "vacacionabais", "vacacionaban" ],
+			[ "vacacionaban" ]
+		],
+		"6" : [
+			[ "vacacionaría" ],
+			[ "vacacionarías" ],
+			[ "vacacionaría" ],
+			[ "vacacionaríamos" ],
+			[ "vacacionaríais", "vacacionarían" ],
+			[ "vacacionarían" ]
+		],
+		"7" : [
+			[ "vacacionaré" ],
+			[ "vacacionarás" ],
+			[ "vacacionará" ],
+			[ "vacacionaremos" ],
+			[ "vacacionaréis", "vacacionarán" ],
+			[ "vacacionarán" ]
+		],
+		"8" : [
+			[ "vacacione" ],
+			[ "vacaciones" ],
+			[ "vacacione" ],
+			[ "vacacionemos" ],
+			[ "vacacionéis", "vacacionen" ],
+			[ "vacacionen" ]
+		],
+		"9" : [
+			[ "vacacionara" ],
+			[ "vacacionaras" ],
+			[ "vacacionara" ],
+			[ "vacacionáramos" ],
+			[ "vacacionarais", "vacacionaran" ],
+			[ "vacacionaran" ]
+		],
+		"10" : [
+			[ "vacacionase" ],
+			[ "vacacionases" ],
+			[ "vacacionase" ],
+			[ "vacacionásemos" ],
+			[ "vacacionaseis", "vacacionasen" ],
+			[ "vacacionasen" ]
+		],
+		"11" : [
+			[ "vacacionare" ],
+			[ "vacacionares" ],
+			[ "vacacionare" ],
+			[ "vacacionáremos" ],
+			[ "vacacionareis", "vacacionaren" ],
+			[ "vacacionaren" ]
+		],
+		"12" : {
+			"1" : [ "vacaciona" ],
+			"2" : [ "vacacione" ],
+			"3" : [ "vacacionemos" ],
+			"4" : [ "vacacionad" ],
+			"5" : [ "vacacionen" ]
+		}
+	}
+}

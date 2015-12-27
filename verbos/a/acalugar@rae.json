@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acalugar",
+	"word" : "acalugar",
+	"infinitivo" : "acalugar",
+	"participio" : [ "acalugado" ],
+	"gerundio" : [ "acalugando" ],
+	"tenses" : {
+		"3" : [
+			[ "acalugo" ],
+			[ "acalugas", "acalugás" ],
+			[ "acaluga" ],
+			[ "acalugamos" ],
+			[ "acalugáis", "acalugan" ],
+			[ "acalugan" ]
+		],
+		"4" : [
+			[ "acalugué" ],
+			[ "acalugaste" ],
+			[ "acalugó" ],
+			[ "acalugamos" ],
+			[ "acalugasteis", "acalugaron" ],
+			[ "acalugaron" ]
+		],
+		"5" : [
+			[ "acalugaba" ],
+			[ "acalugabas" ],
+			[ "acalugaba" ],
+			[ "acalugábamos" ],
+			[ "acalugabais", "acalugaban" ],
+			[ "acalugaban" ]
+		],
+		"6" : [
+			[ "acalugaría" ],
+			[ "acalugarías" ],
+			[ "acalugaría" ],
+			[ "acalugaríamos" ],
+			[ "acalugaríais", "acalugarían" ],
+			[ "acalugarían" ]
+		],
+		"7" : [
+			[ "acalugaré" ],
+			[ "acalugarás" ],
+			[ "acalugará" ],
+			[ "acalugaremos" ],
+			[ "acalugaréis", "acalugarán" ],
+			[ "acalugarán" ]
+		],
+		"8" : [
+			[ "acalugue" ],
+			[ "acalugues" ],
+			[ "acalugue" ],
+			[ "acaluguemos" ],
+			[ "acaluguéis", "acaluguen" ],
+			[ "acaluguen" ]
+		],
+		"9" : [
+			[ "acalugara" ],
+			[ "acalugaras" ],
+			[ "acalugara" ],
+			[ "acalugáramos" ],
+			[ "acalugarais", "acalugaran" ],
+			[ "acalugaran" ]
+		],
+		"10" : [
+			[ "acalugase" ],
+			[ "acalugases" ],
+			[ "acalugase" ],
+			[ "acalugásemos" ],
+			[ "acalugaseis", "acalugasen" ],
+			[ "acalugasen" ]
+		],
+		"11" : [
+			[ "acalugare" ],
+			[ "acalugares" ],
+			[ "acalugare" ],
+			[ "acalugáremos" ],
+			[ "acalugareis", "acalugaren" ],
+			[ "acalugaren" ]
+		],
+		"12" : {
+			"1" : [ "acaluga" ],
+			"2" : [ "acalugue" ],
+			"3" : [ "acaluguemos" ],
+			"4" : [ "acalugad" ],
+			"5" : [ "acaluguen" ]
+		}
+	}
+}

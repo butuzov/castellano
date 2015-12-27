@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=burilar",
+	"word" : "burilar",
+	"infinitivo" : "burilar",
+	"participio" : [ "burilado" ],
+	"gerundio" : [ "burilando" ],
+	"tenses" : {
+		"3" : [
+			[ "burilo" ],
+			[ "burilas", "burilás" ],
+			[ "burila" ],
+			[ "burilamos" ],
+			[ "buriláis", "burilan" ],
+			[ "burilan" ]
+		],
+		"4" : [
+			[ "burilé" ],
+			[ "burilaste" ],
+			[ "buriló" ],
+			[ "burilamos" ],
+			[ "burilasteis", "burilaron" ],
+			[ "burilaron" ]
+		],
+		"5" : [
+			[ "burilaba" ],
+			[ "burilabas" ],
+			[ "burilaba" ],
+			[ "burilábamos" ],
+			[ "burilabais", "burilaban" ],
+			[ "burilaban" ]
+		],
+		"6" : [
+			[ "burilaría" ],
+			[ "burilarías" ],
+			[ "burilaría" ],
+			[ "burilaríamos" ],
+			[ "burilaríais", "burilarían" ],
+			[ "burilarían" ]
+		],
+		"7" : [
+			[ "burilaré" ],
+			[ "burilarás" ],
+			[ "burilará" ],
+			[ "burilaremos" ],
+			[ "burilaréis", "burilarán" ],
+			[ "burilarán" ]
+		],
+		"8" : [
+			[ "burile" ],
+			[ "buriles" ],
+			[ "burile" ],
+			[ "burilemos" ],
+			[ "buriléis", "burilen" ],
+			[ "burilen" ]
+		],
+		"9" : [
+			[ "burilara" ],
+			[ "burilaras" ],
+			[ "burilara" ],
+			[ "buriláramos" ],
+			[ "burilarais", "burilaran" ],
+			[ "burilaran" ]
+		],
+		"10" : [
+			[ "burilase" ],
+			[ "burilases" ],
+			[ "burilase" ],
+			[ "burilásemos" ],
+			[ "burilaseis", "burilasen" ],
+			[ "burilasen" ]
+		],
+		"11" : [
+			[ "burilare" ],
+			[ "burilares" ],
+			[ "burilare" ],
+			[ "buriláremos" ],
+			[ "burilareis", "burilaren" ],
+			[ "burilaren" ]
+		],
+		"12" : {
+			"1" : [ "burila" ],
+			"2" : [ "burile" ],
+			"3" : [ "burilemos" ],
+			"4" : [ "burilad" ],
+			"5" : [ "burilen" ]
+		}
+	}
+}

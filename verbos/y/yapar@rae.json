@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=yapar",
+	"word" : "yapar",
+	"infinitivo" : "yapar",
+	"participio" : [ "yapado" ],
+	"gerundio" : [ "yapando" ],
+	"tenses" : {
+		"3" : [
+			[ "yapo" ],
+			[ "yapas", "yapás" ],
+			[ "yapa" ],
+			[ "yapamos" ],
+			[ "yapáis", "yapan" ],
+			[ "yapan" ]
+		],
+		"4" : [
+			[ "yapé" ],
+			[ "yapaste" ],
+			[ "yapó" ],
+			[ "yapamos" ],
+			[ "yapasteis", "yaparon" ],
+			[ "yaparon" ]
+		],
+		"5" : [
+			[ "yapaba" ],
+			[ "yapabas" ],
+			[ "yapaba" ],
+			[ "yapábamos" ],
+			[ "yapabais", "yapaban" ],
+			[ "yapaban" ]
+		],
+		"6" : [
+			[ "yaparía" ],
+			[ "yaparías" ],
+			[ "yaparía" ],
+			[ "yaparíamos" ],
+			[ "yaparíais", "yaparían" ],
+			[ "yaparían" ]
+		],
+		"7" : [
+			[ "yaparé" ],
+			[ "yaparás" ],
+			[ "yapará" ],
+			[ "yaparemos" ],
+			[ "yaparéis", "yaparán" ],
+			[ "yaparán" ]
+		],
+		"8" : [
+			[ "yape" ],
+			[ "yapes" ],
+			[ "yape" ],
+			[ "yapemos" ],
+			[ "yapéis", "yapen" ],
+			[ "yapen" ]
+		],
+		"9" : [
+			[ "yapara" ],
+			[ "yaparas" ],
+			[ "yapara" ],
+			[ "yapáramos" ],
+			[ "yaparais", "yaparan" ],
+			[ "yaparan" ]
+		],
+		"10" : [
+			[ "yapase" ],
+			[ "yapases" ],
+			[ "yapase" ],
+			[ "yapásemos" ],
+			[ "yapaseis", "yapasen" ],
+			[ "yapasen" ]
+		],
+		"11" : [
+			[ "yapare" ],
+			[ "yapares" ],
+			[ "yapare" ],
+			[ "yapáremos" ],
+			[ "yapareis", "yaparen" ],
+			[ "yaparen" ]
+		],
+		"12" : {
+			"1" : [ "yapa" ],
+			"2" : [ "yape" ],
+			"3" : [ "yapemos" ],
+			"4" : [ "yapad" ],
+			"5" : [ "yapen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desatender",
+	"word" : "desatender",
+	"infinitivo" : "desatender",
+	"participio" : [ "desatendido" ],
+	"gerundio" : [ "desatendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desatiendo" ],
+			[ "desatiendes", "desatendés" ],
+			[ "desatiende" ],
+			[ "desatendemos" ],
+			[ "desatendéis", "desatienden" ],
+			[ "desatienden" ]
+		],
+		"4" : [
+			[ "desatendí" ],
+			[ "desatendiste" ],
+			[ "desatendió" ],
+			[ "desatendimos" ],
+			[ "desatendisteis", "desatendieron" ],
+			[ "desatendieron" ]
+		],
+		"5" : [
+			[ "desatendía" ],
+			[ "desatendías" ],
+			[ "desatendía" ],
+			[ "desatendíamos" ],
+			[ "desatendíais", "desatendían" ],
+			[ "desatendían" ]
+		],
+		"6" : [
+			[ "desatendería" ],
+			[ "desatenderías" ],
+			[ "desatendería" ],
+			[ "desatenderíamos" ],
+			[ "desatenderíais", "desatenderían" ],
+			[ "desatenderían" ]
+		],
+		"7" : [
+			[ "desatenderé" ],
+			[ "desatenderás" ],
+			[ "desatenderá" ],
+			[ "desatenderemos" ],
+			[ "desatenderéis", "desatenderán" ],
+			[ "desatenderán" ]
+		],
+		"8" : [
+			[ "desatienda" ],
+			[ "desatiendas" ],
+			[ "desatienda" ],
+			[ "desatendamos" ],
+			[ "desatendáis", "desatiendan" ],
+			[ "desatiendan" ]
+		],
+		"9" : [
+			[ "desatendiera" ],
+			[ "desatendieras" ],
+			[ "desatendiera" ],
+			[ "desatendiéramos" ],
+			[ "desatendierais", "desatendieran" ],
+			[ "desatendieran" ]
+		],
+		"10" : [
+			[ "desatendiese" ],
+			[ "desatendieses" ],
+			[ "desatendiese" ],
+			[ "desatendiésemos" ],
+			[ "desatendieseis", "desatendiesen" ],
+			[ "desatendiesen" ]
+		],
+		"11" : [
+			[ "desatendiere" ],
+			[ "desatendieres" ],
+			[ "desatendiere" ],
+			[ "desatendiéremos" ],
+			[ "desatendiereis", "desatendieren" ],
+			[ "desatendieren" ]
+		],
+		"12" : {
+			"1" : [ "desatiende" ],
+			"2" : [ "desatienda" ],
+			"3" : [ "desatendamos" ],
+			"4" : [ "desatended" ],
+			"5" : [ "desatiendan" ]
+		}
+	}
+}

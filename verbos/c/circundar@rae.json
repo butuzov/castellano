@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=circundar",
+	"word" : "circundar",
+	"infinitivo" : "circundar",
+	"participio" : [ "circundado" ],
+	"gerundio" : [ "circundando" ],
+	"tenses" : {
+		"3" : [
+			[ "circundo" ],
+			[ "circundas", "circundás" ],
+			[ "circunda" ],
+			[ "circundamos" ],
+			[ "circundáis", "circundan" ],
+			[ "circundan" ]
+		],
+		"4" : [
+			[ "circundé" ],
+			[ "circundaste" ],
+			[ "circundó" ],
+			[ "circundamos" ],
+			[ "circundasteis", "circundaron" ],
+			[ "circundaron" ]
+		],
+		"5" : [
+			[ "circundaba" ],
+			[ "circundabas" ],
+			[ "circundaba" ],
+			[ "circundábamos" ],
+			[ "circundabais", "circundaban" ],
+			[ "circundaban" ]
+		],
+		"6" : [
+			[ "circundaría" ],
+			[ "circundarías" ],
+			[ "circundaría" ],
+			[ "circundaríamos" ],
+			[ "circundaríais", "circundarían" ],
+			[ "circundarían" ]
+		],
+		"7" : [
+			[ "circundaré" ],
+			[ "circundarás" ],
+			[ "circundará" ],
+			[ "circundaremos" ],
+			[ "circundaréis", "circundarán" ],
+			[ "circundarán" ]
+		],
+		"8" : [
+			[ "circunde" ],
+			[ "circundes" ],
+			[ "circunde" ],
+			[ "circundemos" ],
+			[ "circundéis", "circunden" ],
+			[ "circunden" ]
+		],
+		"9" : [
+			[ "circundara" ],
+			[ "circundaras" ],
+			[ "circundara" ],
+			[ "circundáramos" ],
+			[ "circundarais", "circundaran" ],
+			[ "circundaran" ]
+		],
+		"10" : [
+			[ "circundase" ],
+			[ "circundases" ],
+			[ "circundase" ],
+			[ "circundásemos" ],
+			[ "circundaseis", "circundasen" ],
+			[ "circundasen" ]
+		],
+		"11" : [
+			[ "circundare" ],
+			[ "circundares" ],
+			[ "circundare" ],
+			[ "circundáremos" ],
+			[ "circundareis", "circundaren" ],
+			[ "circundaren" ]
+		],
+		"12" : {
+			"1" : [ "circunda" ],
+			"2" : [ "circunde" ],
+			"3" : [ "circundemos" ],
+			"4" : [ "circundad" ],
+			"5" : [ "circunden" ]
+		}
+	}
+}

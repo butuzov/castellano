@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=manotear",
+	"word" : "manotear",
+	"infinitivo" : "manotear",
+	"participio" : [ "manoteado" ],
+	"gerundio" : [ "manoteando" ],
+	"tenses" : {
+		"3" : [
+			[ "manoteo" ],
+			[ "manoteas", "manoteás" ],
+			[ "manotea" ],
+			[ "manoteamos" ],
+			[ "manoteáis", "manotean" ],
+			[ "manotean" ]
+		],
+		"4" : [
+			[ "manoteé" ],
+			[ "manoteaste" ],
+			[ "manoteó" ],
+			[ "manoteamos" ],
+			[ "manoteasteis", "manotearon" ],
+			[ "manotearon" ]
+		],
+		"5" : [
+			[ "manoteaba" ],
+			[ "manoteabas" ],
+			[ "manoteaba" ],
+			[ "manoteábamos" ],
+			[ "manoteabais", "manoteaban" ],
+			[ "manoteaban" ]
+		],
+		"6" : [
+			[ "manotearía" ],
+			[ "manotearías" ],
+			[ "manotearía" ],
+			[ "manotearíamos" ],
+			[ "manotearíais", "manotearían" ],
+			[ "manotearían" ]
+		],
+		"7" : [
+			[ "manotearé" ],
+			[ "manotearás" ],
+			[ "manoteará" ],
+			[ "manotearemos" ],
+			[ "manotearéis", "manotearán" ],
+			[ "manotearán" ]
+		],
+		"8" : [
+			[ "manotee" ],
+			[ "manotees" ],
+			[ "manotee" ],
+			[ "manoteemos" ],
+			[ "manoteéis", "manoteen" ],
+			[ "manoteen" ]
+		],
+		"9" : [
+			[ "manoteara" ],
+			[ "manotearas" ],
+			[ "manoteara" ],
+			[ "manoteáramos" ],
+			[ "manotearais", "manotearan" ],
+			[ "manotearan" ]
+		],
+		"10" : [
+			[ "manotease" ],
+			[ "manoteases" ],
+			[ "manotease" ],
+			[ "manoteásemos" ],
+			[ "manoteaseis", "manoteasen" ],
+			[ "manoteasen" ]
+		],
+		"11" : [
+			[ "manoteare" ],
+			[ "manoteares" ],
+			[ "manoteare" ],
+			[ "manoteáremos" ],
+			[ "manoteareis", "manotearen" ],
+			[ "manotearen" ]
+		],
+		"12" : {
+			"1" : [ "manotea" ],
+			"2" : [ "manotee" ],
+			"3" : [ "manoteemos" ],
+			"4" : [ "manotead" ],
+			"5" : [ "manoteen" ]
+		}
+	}
+}

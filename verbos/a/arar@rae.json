@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arar",
+	"word" : "arar",
+	"infinitivo" : "arar",
+	"participio" : [ "arado" ],
+	"gerundio" : [ "arando" ],
+	"tenses" : {
+		"3" : [
+			[ "aro" ],
+			[ "aras", "arás" ],
+			[ "ara" ],
+			[ "aramos" ],
+			[ "aráis", "aran" ],
+			[ "aran" ]
+		],
+		"4" : [
+			[ "aré" ],
+			[ "araste" ],
+			[ "aró" ],
+			[ "aramos" ],
+			[ "arasteis", "araron" ],
+			[ "araron" ]
+		],
+		"5" : [
+			[ "araba" ],
+			[ "arabas" ],
+			[ "araba" ],
+			[ "arábamos" ],
+			[ "arabais", "araban" ],
+			[ "araban" ]
+		],
+		"6" : [
+			[ "araría" ],
+			[ "ararías" ],
+			[ "araría" ],
+			[ "araríamos" ],
+			[ "araríais", "ararían" ],
+			[ "ararían" ]
+		],
+		"7" : [
+			[ "araré" ],
+			[ "ararás" ],
+			[ "arará" ],
+			[ "araremos" ],
+			[ "araréis", "ararán" ],
+			[ "ararán" ]
+		],
+		"8" : [
+			[ "are" ],
+			[ "ares" ],
+			[ "are" ],
+			[ "aremos" ],
+			[ "aréis", "aren" ],
+			[ "aren" ]
+		],
+		"9" : [
+			[ "arara" ],
+			[ "araras" ],
+			[ "arara" ],
+			[ "aráramos" ],
+			[ "ararais", "araran" ],
+			[ "araran" ]
+		],
+		"10" : [
+			[ "arase" ],
+			[ "arases" ],
+			[ "arase" ],
+			[ "arásemos" ],
+			[ "araseis", "arasen" ],
+			[ "arasen" ]
+		],
+		"11" : [
+			[ "arare" ],
+			[ "arares" ],
+			[ "arare" ],
+			[ "aráremos" ],
+			[ "arareis", "araren" ],
+			[ "araren" ]
+		],
+		"12" : {
+			"1" : [ "ara" ],
+			"2" : [ "are" ],
+			"3" : [ "aremos" ],
+			"4" : [ "arad" ],
+			"5" : [ "aren" ]
+		}
+	}
+}

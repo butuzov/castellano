@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gasificar",
+	"word" : "gasificar",
+	"infinitivo" : "gasificar",
+	"participio" : [ "gasificado" ],
+	"gerundio" : [ "gasificando" ],
+	"tenses" : {
+		"3" : [
+			[ "gasifico" ],
+			[ "gasificas", "gasificás" ],
+			[ "gasifica" ],
+			[ "gasificamos" ],
+			[ "gasificáis", "gasifican" ],
+			[ "gasifican" ]
+		],
+		"4" : [
+			[ "gasifiqué" ],
+			[ "gasificaste" ],
+			[ "gasificó" ],
+			[ "gasificamos" ],
+			[ "gasificasteis", "gasificaron" ],
+			[ "gasificaron" ]
+		],
+		"5" : [
+			[ "gasificaba" ],
+			[ "gasificabas" ],
+			[ "gasificaba" ],
+			[ "gasificábamos" ],
+			[ "gasificabais", "gasificaban" ],
+			[ "gasificaban" ]
+		],
+		"6" : [
+			[ "gasificaría" ],
+			[ "gasificarías" ],
+			[ "gasificaría" ],
+			[ "gasificaríamos" ],
+			[ "gasificaríais", "gasificarían" ],
+			[ "gasificarían" ]
+		],
+		"7" : [
+			[ "gasificaré" ],
+			[ "gasificarás" ],
+			[ "gasificará" ],
+			[ "gasificaremos" ],
+			[ "gasificaréis", "gasificarán" ],
+			[ "gasificarán" ]
+		],
+		"8" : [
+			[ "gasifique" ],
+			[ "gasifiques" ],
+			[ "gasifique" ],
+			[ "gasifiquemos" ],
+			[ "gasifiquéis", "gasifiquen" ],
+			[ "gasifiquen" ]
+		],
+		"9" : [
+			[ "gasificara" ],
+			[ "gasificaras" ],
+			[ "gasificara" ],
+			[ "gasificáramos" ],
+			[ "gasificarais", "gasificaran" ],
+			[ "gasificaran" ]
+		],
+		"10" : [
+			[ "gasificase" ],
+			[ "gasificases" ],
+			[ "gasificase" ],
+			[ "gasificásemos" ],
+			[ "gasificaseis", "gasificasen" ],
+			[ "gasificasen" ]
+		],
+		"11" : [
+			[ "gasificare" ],
+			[ "gasificares" ],
+			[ "gasificare" ],
+			[ "gasificáremos" ],
+			[ "gasificareis", "gasificaren" ],
+			[ "gasificaren" ]
+		],
+		"12" : {
+			"1" : [ "gasifica" ],
+			"2" : [ "gasifique" ],
+			"3" : [ "gasifiquemos" ],
+			"4" : [ "gasificad" ],
+			"5" : [ "gasifiquen" ]
+		}
+	}
+}

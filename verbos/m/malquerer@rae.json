@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=malquerer",
+	"word" : "malquerer",
+	"infinitivo" : "malquerer",
+	"participio" : [ "malquerido", "malquisto" ],
+	"gerundio" : [ "malqueriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "malquiero" ],
+			[ "malquieres", "malquerés" ],
+			[ "malquiere" ],
+			[ "malqueremos" ],
+			[ "malqueréis", "malquieren" ],
+			[ "malquieren" ]
+		],
+		"4" : [
+			[ "malquise" ],
+			[ "malquisiste" ],
+			[ "malquiso" ],
+			[ "malquisimos" ],
+			[ "malquisisteis", "malquisieron" ],
+			[ "malquisieron" ]
+		],
+		"5" : [
+			[ "malquería" ],
+			[ "malquerías" ],
+			[ "malquería" ],
+			[ "malqueríamos" ],
+			[ "malqueríais", "malquerían" ],
+			[ "malquerían" ]
+		],
+		"6" : [
+			[ "malquerría" ],
+			[ "malquerrías" ],
+			[ "malquerría" ],
+			[ "malquerríamos" ],
+			[ "malquerríais", "malquerrían" ],
+			[ "malquerrían" ]
+		],
+		"7" : [
+			[ "malquerré" ],
+			[ "malquerrás" ],
+			[ "malquerrá" ],
+			[ "malquerremos" ],
+			[ "malquerréis", "malquerrán" ],
+			[ "malquerrán" ]
+		],
+		"8" : [
+			[ "malquiera" ],
+			[ "malquieras" ],
+			[ "malquiera" ],
+			[ "malqueramos" ],
+			[ "malqueráis", "malquieran" ],
+			[ "malquieran" ]
+		],
+		"9" : [
+			[ "malquisiera" ],
+			[ "malquisieras" ],
+			[ "malquisiera" ],
+			[ "malquisiéramos" ],
+			[ "malquisierais", "malquisieran" ],
+			[ "malquisieran" ]
+		],
+		"10" : [
+			[ "malquisiese" ],
+			[ "malquisieses" ],
+			[ "malquisiese" ],
+			[ "malquisiésemos" ],
+			[ "malquisieseis", "malquisiesen" ],
+			[ "malquisiesen" ]
+		],
+		"11" : [
+			[ "malquisiere" ],
+			[ "malquisieres" ],
+			[ "malquisiere" ],
+			[ "malquisiéremos" ],
+			[ "malquisiereis", "malquisieren" ],
+			[ "malquisieren" ]
+		],
+		"12" : {
+			"1" : [ "malquiere" ],
+			"2" : [ "malquiera" ],
+			"3" : [ "malqueramos" ],
+			"4" : [ "malquered" ],
+			"5" : [ "malquieran" ]
+		}
+	}
+}

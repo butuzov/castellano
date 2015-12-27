@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pronunciar",
+	"word" : "pronunciar",
+	"infinitivo" : "pronunciar",
+	"participio" : [ "pronunciado" ],
+	"gerundio" : [ "pronunciando" ],
+	"tenses" : {
+		"3" : [
+			[ "pronuncio" ],
+			[ "pronuncias", "pronunciás" ],
+			[ "pronuncia" ],
+			[ "pronunciamos" ],
+			[ "pronunciáis", "pronuncian" ],
+			[ "pronuncian" ]
+		],
+		"4" : [
+			[ "pronuncié" ],
+			[ "pronunciaste" ],
+			[ "pronunció" ],
+			[ "pronunciamos" ],
+			[ "pronunciasteis", "pronunciaron" ],
+			[ "pronunciaron" ]
+		],
+		"5" : [
+			[ "pronunciaba" ],
+			[ "pronunciabas" ],
+			[ "pronunciaba" ],
+			[ "pronunciábamos" ],
+			[ "pronunciabais", "pronunciaban" ],
+			[ "pronunciaban" ]
+		],
+		"6" : [
+			[ "pronunciaría" ],
+			[ "pronunciarías" ],
+			[ "pronunciaría" ],
+			[ "pronunciaríamos" ],
+			[ "pronunciaríais", "pronunciarían" ],
+			[ "pronunciarían" ]
+		],
+		"7" : [
+			[ "pronunciaré" ],
+			[ "pronunciarás" ],
+			[ "pronunciará" ],
+			[ "pronunciaremos" ],
+			[ "pronunciaréis", "pronunciarán" ],
+			[ "pronunciarán" ]
+		],
+		"8" : [
+			[ "pronuncie" ],
+			[ "pronuncies" ],
+			[ "pronuncie" ],
+			[ "pronunciemos" ],
+			[ "pronunciéis", "pronuncien" ],
+			[ "pronuncien" ]
+		],
+		"9" : [
+			[ "pronunciara" ],
+			[ "pronunciaras" ],
+			[ "pronunciara" ],
+			[ "pronunciáramos" ],
+			[ "pronunciarais", "pronunciaran" ],
+			[ "pronunciaran" ]
+		],
+		"10" : [
+			[ "pronunciase" ],
+			[ "pronunciases" ],
+			[ "pronunciase" ],
+			[ "pronunciásemos" ],
+			[ "pronunciaseis", "pronunciasen" ],
+			[ "pronunciasen" ]
+		],
+		"11" : [
+			[ "pronunciare" ],
+			[ "pronunciares" ],
+			[ "pronunciare" ],
+			[ "pronunciáremos" ],
+			[ "pronunciareis", "pronunciaren" ],
+			[ "pronunciaren" ]
+		],
+		"12" : {
+			"1" : [ "pronuncia" ],
+			"2" : [ "pronuncie" ],
+			"3" : [ "pronunciemos" ],
+			"4" : [ "pronunciad" ],
+			"5" : [ "pronuncien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=endentar",
+	"word" : "endentar",
+	"infinitivo" : "endentar",
+	"participio" : [ "endentado" ],
+	"gerundio" : [ "endentando" ],
+	"tenses" : {
+		"3" : [
+			[ "endiento" ],
+			[ "endientas", "endentás" ],
+			[ "endienta" ],
+			[ "endentamos" ],
+			[ "endentáis", "endientan" ],
+			[ "endientan" ]
+		],
+		"4" : [
+			[ "endenté" ],
+			[ "endentaste" ],
+			[ "endentó" ],
+			[ "endentamos" ],
+			[ "endentasteis", "endentaron" ],
+			[ "endentaron" ]
+		],
+		"5" : [
+			[ "endentaba" ],
+			[ "endentabas" ],
+			[ "endentaba" ],
+			[ "endentábamos" ],
+			[ "endentabais", "endentaban" ],
+			[ "endentaban" ]
+		],
+		"6" : [
+			[ "endentaría" ],
+			[ "endentarías" ],
+			[ "endentaría" ],
+			[ "endentaríamos" ],
+			[ "endentaríais", "endentarían" ],
+			[ "endentarían" ]
+		],
+		"7" : [
+			[ "endentaré" ],
+			[ "endentarás" ],
+			[ "endentará" ],
+			[ "endentaremos" ],
+			[ "endentaréis", "endentarán" ],
+			[ "endentarán" ]
+		],
+		"8" : [
+			[ "endiente" ],
+			[ "endientes" ],
+			[ "endiente" ],
+			[ "endentemos" ],
+			[ "endentéis", "endienten" ],
+			[ "endienten" ]
+		],
+		"9" : [
+			[ "endentara" ],
+			[ "endentaras" ],
+			[ "endentara" ],
+			[ "endentáramos" ],
+			[ "endentarais", "endentaran" ],
+			[ "endentaran" ]
+		],
+		"10" : [
+			[ "endentase" ],
+			[ "endentases" ],
+			[ "endentase" ],
+			[ "endentásemos" ],
+			[ "endentaseis", "endentasen" ],
+			[ "endentasen" ]
+		],
+		"11" : [
+			[ "endentare" ],
+			[ "endentares" ],
+			[ "endentare" ],
+			[ "endentáremos" ],
+			[ "endentareis", "endentaren" ],
+			[ "endentaren" ]
+		],
+		"12" : {
+			"1" : [ "endienta" ],
+			"2" : [ "endiente" ],
+			"3" : [ "endentemos" ],
+			"4" : [ "endentad" ],
+			"5" : [ "endienten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=currar",
+	"word" : "currar",
+	"infinitivo" : "currar",
+	"participio" : [ "currado" ],
+	"gerundio" : [ "currando" ],
+	"tenses" : {
+		"3" : [
+			[ "curro" ],
+			[ "curras", "currás" ],
+			[ "curra" ],
+			[ "curramos" ],
+			[ "curráis", "curran" ],
+			[ "curran" ]
+		],
+		"4" : [
+			[ "curré" ],
+			[ "curraste" ],
+			[ "curró" ],
+			[ "curramos" ],
+			[ "currasteis", "curraron" ],
+			[ "curraron" ]
+		],
+		"5" : [
+			[ "curraba" ],
+			[ "currabas" ],
+			[ "curraba" ],
+			[ "currábamos" ],
+			[ "currabais", "curraban" ],
+			[ "curraban" ]
+		],
+		"6" : [
+			[ "curraría" ],
+			[ "currarías" ],
+			[ "curraría" ],
+			[ "curraríamos" ],
+			[ "curraríais", "currarían" ],
+			[ "currarían" ]
+		],
+		"7" : [
+			[ "curraré" ],
+			[ "currarás" ],
+			[ "currará" ],
+			[ "curraremos" ],
+			[ "curraréis", "currarán" ],
+			[ "currarán" ]
+		],
+		"8" : [
+			[ "curre" ],
+			[ "curres" ],
+			[ "curre" ],
+			[ "curremos" ],
+			[ "curréis", "curren" ],
+			[ "curren" ]
+		],
+		"9" : [
+			[ "currara" ],
+			[ "curraras" ],
+			[ "currara" ],
+			[ "curráramos" ],
+			[ "currarais", "curraran" ],
+			[ "curraran" ]
+		],
+		"10" : [
+			[ "currase" ],
+			[ "currases" ],
+			[ "currase" ],
+			[ "currásemos" ],
+			[ "curraseis", "currasen" ],
+			[ "currasen" ]
+		],
+		"11" : [
+			[ "currare" ],
+			[ "currares" ],
+			[ "currare" ],
+			[ "curráremos" ],
+			[ "currareis", "curraren" ],
+			[ "curraren" ]
+		],
+		"12" : {
+			"1" : [ "curra" ],
+			"2" : [ "curre" ],
+			"3" : [ "curremos" ],
+			"4" : [ "currad" ],
+			"5" : [ "curren" ]
+		}
+	}
+}

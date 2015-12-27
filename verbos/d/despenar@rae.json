@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despenar",
+	"word" : "despenar",
+	"infinitivo" : "despenar",
+	"participio" : [ "despenado" ],
+	"gerundio" : [ "despenando" ],
+	"tenses" : {
+		"3" : [
+			[ "despeno" ],
+			[ "despenas", "despenás" ],
+			[ "despena" ],
+			[ "despenamos" ],
+			[ "despenáis", "despenan" ],
+			[ "despenan" ]
+		],
+		"4" : [
+			[ "despené" ],
+			[ "despenaste" ],
+			[ "despenó" ],
+			[ "despenamos" ],
+			[ "despenasteis", "despenaron" ],
+			[ "despenaron" ]
+		],
+		"5" : [
+			[ "despenaba" ],
+			[ "despenabas" ],
+			[ "despenaba" ],
+			[ "despenábamos" ],
+			[ "despenabais", "despenaban" ],
+			[ "despenaban" ]
+		],
+		"6" : [
+			[ "despenaría" ],
+			[ "despenarías" ],
+			[ "despenaría" ],
+			[ "despenaríamos" ],
+			[ "despenaríais", "despenarían" ],
+			[ "despenarían" ]
+		],
+		"7" : [
+			[ "despenaré" ],
+			[ "despenarás" ],
+			[ "despenará" ],
+			[ "despenaremos" ],
+			[ "despenaréis", "despenarán" ],
+			[ "despenarán" ]
+		],
+		"8" : [
+			[ "despene" ],
+			[ "despenes" ],
+			[ "despene" ],
+			[ "despenemos" ],
+			[ "despenéis", "despenen" ],
+			[ "despenen" ]
+		],
+		"9" : [
+			[ "despenara" ],
+			[ "despenaras" ],
+			[ "despenara" ],
+			[ "despenáramos" ],
+			[ "despenarais", "despenaran" ],
+			[ "despenaran" ]
+		],
+		"10" : [
+			[ "despenase" ],
+			[ "despenases" ],
+			[ "despenase" ],
+			[ "despenásemos" ],
+			[ "despenaseis", "despenasen" ],
+			[ "despenasen" ]
+		],
+		"11" : [
+			[ "despenare" ],
+			[ "despenares" ],
+			[ "despenare" ],
+			[ "despenáremos" ],
+			[ "despenareis", "despenaren" ],
+			[ "despenaren" ]
+		],
+		"12" : {
+			"1" : [ "despena" ],
+			"2" : [ "despene" ],
+			"3" : [ "despenemos" ],
+			"4" : [ "despenad" ],
+			"5" : [ "despenen" ]
+		}
+	}
+}

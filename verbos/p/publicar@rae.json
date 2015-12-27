@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=publicar",
+	"word" : "publicar",
+	"infinitivo" : "publicar",
+	"participio" : [ "publicado" ],
+	"gerundio" : [ "publicando" ],
+	"tenses" : {
+		"3" : [
+			[ "publico" ],
+			[ "publicas", "publicás" ],
+			[ "publica" ],
+			[ "publicamos" ],
+			[ "publicáis", "publican" ],
+			[ "publican" ]
+		],
+		"4" : [
+			[ "publiqué" ],
+			[ "publicaste" ],
+			[ "publicó" ],
+			[ "publicamos" ],
+			[ "publicasteis", "publicaron" ],
+			[ "publicaron" ]
+		],
+		"5" : [
+			[ "publicaba" ],
+			[ "publicabas" ],
+			[ "publicaba" ],
+			[ "publicábamos" ],
+			[ "publicabais", "publicaban" ],
+			[ "publicaban" ]
+		],
+		"6" : [
+			[ "publicaría" ],
+			[ "publicarías" ],
+			[ "publicaría" ],
+			[ "publicaríamos" ],
+			[ "publicaríais", "publicarían" ],
+			[ "publicarían" ]
+		],
+		"7" : [
+			[ "publicaré" ],
+			[ "publicarás" ],
+			[ "publicará" ],
+			[ "publicaremos" ],
+			[ "publicaréis", "publicarán" ],
+			[ "publicarán" ]
+		],
+		"8" : [
+			[ "publique" ],
+			[ "publiques" ],
+			[ "publique" ],
+			[ "publiquemos" ],
+			[ "publiquéis", "publiquen" ],
+			[ "publiquen" ]
+		],
+		"9" : [
+			[ "publicara" ],
+			[ "publicaras" ],
+			[ "publicara" ],
+			[ "publicáramos" ],
+			[ "publicarais", "publicaran" ],
+			[ "publicaran" ]
+		],
+		"10" : [
+			[ "publicase" ],
+			[ "publicases" ],
+			[ "publicase" ],
+			[ "publicásemos" ],
+			[ "publicaseis", "publicasen" ],
+			[ "publicasen" ]
+		],
+		"11" : [
+			[ "publicare" ],
+			[ "publicares" ],
+			[ "publicare" ],
+			[ "publicáremos" ],
+			[ "publicareis", "publicaren" ],
+			[ "publicaren" ]
+		],
+		"12" : {
+			"1" : [ "publica" ],
+			"2" : [ "publique" ],
+			"3" : [ "publiquemos" ],
+			"4" : [ "publicad" ],
+			"5" : [ "publiquen" ]
+		}
+	}
+}

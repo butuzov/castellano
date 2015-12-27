@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enrarecer",
+	"word" : "enrarecer",
+	"infinitivo" : "enrarecer",
+	"participio" : [ "enrarecido" ],
+	"gerundio" : [ "enrareciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "enrarezco" ],
+			[ "enrareces", "enrarecés" ],
+			[ "enrarece" ],
+			[ "enrarecemos" ],
+			[ "enrarecéis", "enrarecen" ],
+			[ "enrarecen" ]
+		],
+		"4" : [
+			[ "enrarecí" ],
+			[ "enrareciste" ],
+			[ "enrareció" ],
+			[ "enrarecimos" ],
+			[ "enrarecisteis", "enrarecieron" ],
+			[ "enrarecieron" ]
+		],
+		"5" : [
+			[ "enrarecía" ],
+			[ "enrarecías" ],
+			[ "enrarecía" ],
+			[ "enrarecíamos" ],
+			[ "enrarecíais", "enrarecían" ],
+			[ "enrarecían" ]
+		],
+		"6" : [
+			[ "enrarecería" ],
+			[ "enrarecerías" ],
+			[ "enrarecería" ],
+			[ "enrareceríamos" ],
+			[ "enrareceríais", "enrarecerían" ],
+			[ "enrarecerían" ]
+		],
+		"7" : [
+			[ "enrareceré" ],
+			[ "enrarecerás" ],
+			[ "enrarecerá" ],
+			[ "enrareceremos" ],
+			[ "enrareceréis", "enrarecerán" ],
+			[ "enrarecerán" ]
+		],
+		"8" : [
+			[ "enrarezca" ],
+			[ "enrarezcas" ],
+			[ "enrarezca" ],
+			[ "enrarezcamos" ],
+			[ "enrarezcáis", "enrarezcan" ],
+			[ "enrarezcan" ]
+		],
+		"9" : [
+			[ "enrareciera" ],
+			[ "enrarecieras" ],
+			[ "enrareciera" ],
+			[ "enrareciéramos" ],
+			[ "enrarecierais", "enrarecieran" ],
+			[ "enrarecieran" ]
+		],
+		"10" : [
+			[ "enrareciese" ],
+			[ "enrarecieses" ],
+			[ "enrareciese" ],
+			[ "enrareciésemos" ],
+			[ "enrarecieseis", "enrareciesen" ],
+			[ "enrareciesen" ]
+		],
+		"11" : [
+			[ "enrareciere" ],
+			[ "enrarecieres" ],
+			[ "enrareciere" ],
+			[ "enrareciéremos" ],
+			[ "enrareciereis", "enrarecieren" ],
+			[ "enrarecieren" ]
+		],
+		"12" : {
+			"1" : [ "enrarece" ],
+			"2" : [ "enrarezca" ],
+			"3" : [ "enrarezcamos" ],
+			"4" : [ "enrareced" ],
+			"5" : [ "enrarezcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trepar",
+	"word" : "trepar",
+	"infinitivo" : "trepar",
+	"participio" : [ "trepado" ],
+	"gerundio" : [ "trepando" ],
+	"tenses" : {
+		"3" : [
+			[ "trepo" ],
+			[ "trepas", "trepás" ],
+			[ "trepa" ],
+			[ "trepamos" ],
+			[ "trepáis", "trepan" ],
+			[ "trepan" ]
+		],
+		"4" : [
+			[ "trepé" ],
+			[ "trepaste" ],
+			[ "trepó" ],
+			[ "trepamos" ],
+			[ "trepasteis", "treparon" ],
+			[ "treparon" ]
+		],
+		"5" : [
+			[ "trepaba" ],
+			[ "trepabas" ],
+			[ "trepaba" ],
+			[ "trepábamos" ],
+			[ "trepabais", "trepaban" ],
+			[ "trepaban" ]
+		],
+		"6" : [
+			[ "treparía" ],
+			[ "treparías" ],
+			[ "treparía" ],
+			[ "treparíamos" ],
+			[ "treparíais", "treparían" ],
+			[ "treparían" ]
+		],
+		"7" : [
+			[ "treparé" ],
+			[ "treparás" ],
+			[ "trepará" ],
+			[ "treparemos" ],
+			[ "treparéis", "treparán" ],
+			[ "treparán" ]
+		],
+		"8" : [
+			[ "trepe" ],
+			[ "trepes" ],
+			[ "trepe" ],
+			[ "trepemos" ],
+			[ "trepéis", "trepen" ],
+			[ "trepen" ]
+		],
+		"9" : [
+			[ "trepara" ],
+			[ "treparas" ],
+			[ "trepara" ],
+			[ "trepáramos" ],
+			[ "treparais", "treparan" ],
+			[ "treparan" ]
+		],
+		"10" : [
+			[ "trepase" ],
+			[ "trepases" ],
+			[ "trepase" ],
+			[ "trepásemos" ],
+			[ "trepaseis", "trepasen" ],
+			[ "trepasen" ]
+		],
+		"11" : [
+			[ "trepare" ],
+			[ "trepares" ],
+			[ "trepare" ],
+			[ "trepáremos" ],
+			[ "trepareis", "treparen" ],
+			[ "treparen" ]
+		],
+		"12" : {
+			"1" : [ "trepa" ],
+			"2" : [ "trepe" ],
+			"3" : [ "trepemos" ],
+			"4" : [ "trepad" ],
+			"5" : [ "trepen" ]
+		}
+	}
+}

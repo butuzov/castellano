@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=iniciar",
+	"word" : "iniciar",
+	"infinitivo" : "iniciar",
+	"participio" : [ "iniciado" ],
+	"gerundio" : [ "iniciando" ],
+	"tenses" : {
+		"3" : [
+			[ "inicio" ],
+			[ "inicias", "iniciás" ],
+			[ "inicia" ],
+			[ "iniciamos" ],
+			[ "iniciáis", "inician" ],
+			[ "inician" ]
+		],
+		"4" : [
+			[ "inicié" ],
+			[ "iniciaste" ],
+			[ "inició" ],
+			[ "iniciamos" ],
+			[ "iniciasteis", "iniciaron" ],
+			[ "iniciaron" ]
+		],
+		"5" : [
+			[ "iniciaba" ],
+			[ "iniciabas" ],
+			[ "iniciaba" ],
+			[ "iniciábamos" ],
+			[ "iniciabais", "iniciaban" ],
+			[ "iniciaban" ]
+		],
+		"6" : [
+			[ "iniciaría" ],
+			[ "iniciarías" ],
+			[ "iniciaría" ],
+			[ "iniciaríamos" ],
+			[ "iniciaríais", "iniciarían" ],
+			[ "iniciarían" ]
+		],
+		"7" : [
+			[ "iniciaré" ],
+			[ "iniciarás" ],
+			[ "iniciará" ],
+			[ "iniciaremos" ],
+			[ "iniciaréis", "iniciarán" ],
+			[ "iniciarán" ]
+		],
+		"8" : [
+			[ "inicie" ],
+			[ "inicies" ],
+			[ "inicie" ],
+			[ "iniciemos" ],
+			[ "iniciéis", "inicien" ],
+			[ "inicien" ]
+		],
+		"9" : [
+			[ "iniciara" ],
+			[ "iniciaras" ],
+			[ "iniciara" ],
+			[ "iniciáramos" ],
+			[ "iniciarais", "iniciaran" ],
+			[ "iniciaran" ]
+		],
+		"10" : [
+			[ "iniciase" ],
+			[ "iniciases" ],
+			[ "iniciase" ],
+			[ "iniciásemos" ],
+			[ "iniciaseis", "iniciasen" ],
+			[ "iniciasen" ]
+		],
+		"11" : [
+			[ "iniciare" ],
+			[ "iniciares" ],
+			[ "iniciare" ],
+			[ "iniciáremos" ],
+			[ "iniciareis", "iniciaren" ],
+			[ "iniciaren" ]
+		],
+		"12" : {
+			"1" : [ "inicia" ],
+			"2" : [ "inicie" ],
+			"3" : [ "iniciemos" ],
+			"4" : [ "iniciad" ],
+			"5" : [ "inicien" ]
+		}
+	}
+}

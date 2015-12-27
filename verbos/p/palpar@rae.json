@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=palpar",
+	"word" : "palpar",
+	"infinitivo" : "palpar",
+	"participio" : [ "palpado" ],
+	"gerundio" : [ "palpando" ],
+	"tenses" : {
+		"3" : [
+			[ "palpo" ],
+			[ "palpas", "palpás" ],
+			[ "palpa" ],
+			[ "palpamos" ],
+			[ "palpáis", "palpan" ],
+			[ "palpan" ]
+		],
+		"4" : [
+			[ "palpé" ],
+			[ "palpaste" ],
+			[ "palpó" ],
+			[ "palpamos" ],
+			[ "palpasteis", "palparon" ],
+			[ "palparon" ]
+		],
+		"5" : [
+			[ "palpaba" ],
+			[ "palpabas" ],
+			[ "palpaba" ],
+			[ "palpábamos" ],
+			[ "palpabais", "palpaban" ],
+			[ "palpaban" ]
+		],
+		"6" : [
+			[ "palparía" ],
+			[ "palparías" ],
+			[ "palparía" ],
+			[ "palparíamos" ],
+			[ "palparíais", "palparían" ],
+			[ "palparían" ]
+		],
+		"7" : [
+			[ "palparé" ],
+			[ "palparás" ],
+			[ "palpará" ],
+			[ "palparemos" ],
+			[ "palparéis", "palparán" ],
+			[ "palparán" ]
+		],
+		"8" : [
+			[ "palpe" ],
+			[ "palpes" ],
+			[ "palpe" ],
+			[ "palpemos" ],
+			[ "palpéis", "palpen" ],
+			[ "palpen" ]
+		],
+		"9" : [
+			[ "palpara" ],
+			[ "palparas" ],
+			[ "palpara" ],
+			[ "palpáramos" ],
+			[ "palparais", "palparan" ],
+			[ "palparan" ]
+		],
+		"10" : [
+			[ "palpase" ],
+			[ "palpases" ],
+			[ "palpase" ],
+			[ "palpásemos" ],
+			[ "palpaseis", "palpasen" ],
+			[ "palpasen" ]
+		],
+		"11" : [
+			[ "palpare" ],
+			[ "palpares" ],
+			[ "palpare" ],
+			[ "palpáremos" ],
+			[ "palpareis", "palparen" ],
+			[ "palparen" ]
+		],
+		"12" : {
+			"1" : [ "palpa" ],
+			"2" : [ "palpe" ],
+			"3" : [ "palpemos" ],
+			"4" : [ "palpad" ],
+			"5" : [ "palpen" ]
+		}
+	}
+}

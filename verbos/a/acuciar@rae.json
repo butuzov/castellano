@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acuciar",
+	"word" : "acuciar",
+	"infinitivo" : "acuciar",
+	"participio" : [ "acuciado" ],
+	"gerundio" : [ "acuciando" ],
+	"tenses" : {
+		"3" : [
+			[ "acucio" ],
+			[ "acucias", "acuciás" ],
+			[ "acucia" ],
+			[ "acuciamos" ],
+			[ "acuciáis", "acucian" ],
+			[ "acucian" ]
+		],
+		"4" : [
+			[ "acucié" ],
+			[ "acuciaste" ],
+			[ "acució" ],
+			[ "acuciamos" ],
+			[ "acuciasteis", "acuciaron" ],
+			[ "acuciaron" ]
+		],
+		"5" : [
+			[ "acuciaba" ],
+			[ "acuciabas" ],
+			[ "acuciaba" ],
+			[ "acuciábamos" ],
+			[ "acuciabais", "acuciaban" ],
+			[ "acuciaban" ]
+		],
+		"6" : [
+			[ "acuciaría" ],
+			[ "acuciarías" ],
+			[ "acuciaría" ],
+			[ "acuciaríamos" ],
+			[ "acuciaríais", "acuciarían" ],
+			[ "acuciarían" ]
+		],
+		"7" : [
+			[ "acuciaré" ],
+			[ "acuciarás" ],
+			[ "acuciará" ],
+			[ "acuciaremos" ],
+			[ "acuciaréis", "acuciarán" ],
+			[ "acuciarán" ]
+		],
+		"8" : [
+			[ "acucie" ],
+			[ "acucies" ],
+			[ "acucie" ],
+			[ "acuciemos" ],
+			[ "acuciéis", "acucien" ],
+			[ "acucien" ]
+		],
+		"9" : [
+			[ "acuciara" ],
+			[ "acuciaras" ],
+			[ "acuciara" ],
+			[ "acuciáramos" ],
+			[ "acuciarais", "acuciaran" ],
+			[ "acuciaran" ]
+		],
+		"10" : [
+			[ "acuciase" ],
+			[ "acuciases" ],
+			[ "acuciase" ],
+			[ "acuciásemos" ],
+			[ "acuciaseis", "acuciasen" ],
+			[ "acuciasen" ]
+		],
+		"11" : [
+			[ "acuciare" ],
+			[ "acuciares" ],
+			[ "acuciare" ],
+			[ "acuciáremos" ],
+			[ "acuciareis", "acuciaren" ],
+			[ "acuciaren" ]
+		],
+		"12" : {
+			"1" : [ "acucia" ],
+			"2" : [ "acucie" ],
+			"3" : [ "acuciemos" ],
+			"4" : [ "acuciad" ],
+			"5" : [ "acucien" ]
+		}
+	}
+}

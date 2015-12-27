@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=depravar",
+	"word" : "depravar",
+	"infinitivo" : "depravar",
+	"participio" : [ "depravado" ],
+	"gerundio" : [ "depravando" ],
+	"tenses" : {
+		"3" : [
+			[ "depravo" ],
+			[ "depravas", "depravás" ],
+			[ "deprava" ],
+			[ "depravamos" ],
+			[ "depraváis", "depravan" ],
+			[ "depravan" ]
+		],
+		"4" : [
+			[ "depravé" ],
+			[ "depravaste" ],
+			[ "depravó" ],
+			[ "depravamos" ],
+			[ "depravasteis", "depravaron" ],
+			[ "depravaron" ]
+		],
+		"5" : [
+			[ "depravaba" ],
+			[ "depravabas" ],
+			[ "depravaba" ],
+			[ "depravábamos" ],
+			[ "depravabais", "depravaban" ],
+			[ "depravaban" ]
+		],
+		"6" : [
+			[ "depravaría" ],
+			[ "depravarías" ],
+			[ "depravaría" ],
+			[ "depravaríamos" ],
+			[ "depravaríais", "depravarían" ],
+			[ "depravarían" ]
+		],
+		"7" : [
+			[ "depravaré" ],
+			[ "depravarás" ],
+			[ "depravará" ],
+			[ "depravaremos" ],
+			[ "depravaréis", "depravarán" ],
+			[ "depravarán" ]
+		],
+		"8" : [
+			[ "deprave" ],
+			[ "depraves" ],
+			[ "deprave" ],
+			[ "depravemos" ],
+			[ "depravéis", "depraven" ],
+			[ "depraven" ]
+		],
+		"9" : [
+			[ "depravara" ],
+			[ "depravaras" ],
+			[ "depravara" ],
+			[ "depraváramos" ],
+			[ "depravarais", "depravaran" ],
+			[ "depravaran" ]
+		],
+		"10" : [
+			[ "depravase" ],
+			[ "depravases" ],
+			[ "depravase" ],
+			[ "depravásemos" ],
+			[ "depravaseis", "depravasen" ],
+			[ "depravasen" ]
+		],
+		"11" : [
+			[ "depravare" ],
+			[ "depravares" ],
+			[ "depravare" ],
+			[ "depraváremos" ],
+			[ "depravareis", "depravaren" ],
+			[ "depravaren" ]
+		],
+		"12" : {
+			"1" : [ "deprava" ],
+			"2" : [ "deprave" ],
+			"3" : [ "depravemos" ],
+			"4" : [ "depravad" ],
+			"5" : [ "depraven" ]
+		}
+	}
+}

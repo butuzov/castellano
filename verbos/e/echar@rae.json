@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=echar",
+	"word" : "echar",
+	"infinitivo" : "echar",
+	"participio" : [ "echado" ],
+	"gerundio" : [ "echando" ],
+	"tenses" : {
+		"3" : [
+			[ "echo" ],
+			[ "echas", "echás" ],
+			[ "echa" ],
+			[ "echamos" ],
+			[ "echáis", "echan" ],
+			[ "echan" ]
+		],
+		"4" : [
+			[ "eché" ],
+			[ "echaste" ],
+			[ "echó" ],
+			[ "echamos" ],
+			[ "echasteis", "echaron" ],
+			[ "echaron" ]
+		],
+		"5" : [
+			[ "echaba" ],
+			[ "echabas" ],
+			[ "echaba" ],
+			[ "echábamos" ],
+			[ "echabais", "echaban" ],
+			[ "echaban" ]
+		],
+		"6" : [
+			[ "echaría" ],
+			[ "echarías" ],
+			[ "echaría" ],
+			[ "echaríamos" ],
+			[ "echaríais", "echarían" ],
+			[ "echarían" ]
+		],
+		"7" : [
+			[ "echaré" ],
+			[ "echarás" ],
+			[ "echará" ],
+			[ "echaremos" ],
+			[ "echaréis", "echarán" ],
+			[ "echarán" ]
+		],
+		"8" : [
+			[ "eche" ],
+			[ "eches" ],
+			[ "eche" ],
+			[ "echemos" ],
+			[ "echéis", "echen" ],
+			[ "echen" ]
+		],
+		"9" : [
+			[ "echara" ],
+			[ "echaras" ],
+			[ "echara" ],
+			[ "echáramos" ],
+			[ "echarais", "echaran" ],
+			[ "echaran" ]
+		],
+		"10" : [
+			[ "echase" ],
+			[ "echases" ],
+			[ "echase" ],
+			[ "echásemos" ],
+			[ "echaseis", "echasen" ],
+			[ "echasen" ]
+		],
+		"11" : [
+			[ "echare" ],
+			[ "echares" ],
+			[ "echare" ],
+			[ "echáremos" ],
+			[ "echareis", "echaren" ],
+			[ "echaren" ]
+		],
+		"12" : {
+			"1" : [ "echa" ],
+			"2" : [ "eche" ],
+			"3" : [ "echemos" ],
+			"4" : [ "echad" ],
+			"5" : [ "echen" ]
+		}
+	}
+}

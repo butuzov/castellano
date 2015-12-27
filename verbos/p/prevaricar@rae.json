@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prevaricar",
+	"word" : "prevaricar",
+	"infinitivo" : "prevaricar",
+	"participio" : [ "prevaricado" ],
+	"gerundio" : [ "prevaricando" ],
+	"tenses" : {
+		"3" : [
+			[ "prevarico" ],
+			[ "prevaricas", "prevaricás" ],
+			[ "prevarica" ],
+			[ "prevaricamos" ],
+			[ "prevaricáis", "prevarican" ],
+			[ "prevarican" ]
+		],
+		"4" : [
+			[ "prevariqué" ],
+			[ "prevaricaste" ],
+			[ "prevaricó" ],
+			[ "prevaricamos" ],
+			[ "prevaricasteis", "prevaricaron" ],
+			[ "prevaricaron" ]
+		],
+		"5" : [
+			[ "prevaricaba" ],
+			[ "prevaricabas" ],
+			[ "prevaricaba" ],
+			[ "prevaricábamos" ],
+			[ "prevaricabais", "prevaricaban" ],
+			[ "prevaricaban" ]
+		],
+		"6" : [
+			[ "prevaricaría" ],
+			[ "prevaricarías" ],
+			[ "prevaricaría" ],
+			[ "prevaricaríamos" ],
+			[ "prevaricaríais", "prevaricarían" ],
+			[ "prevaricarían" ]
+		],
+		"7" : [
+			[ "prevaricaré" ],
+			[ "prevaricarás" ],
+			[ "prevaricará" ],
+			[ "prevaricaremos" ],
+			[ "prevaricaréis", "prevaricarán" ],
+			[ "prevaricarán" ]
+		],
+		"8" : [
+			[ "prevarique" ],
+			[ "prevariques" ],
+			[ "prevarique" ],
+			[ "prevariquemos" ],
+			[ "prevariquéis", "prevariquen" ],
+			[ "prevariquen" ]
+		],
+		"9" : [
+			[ "prevaricara" ],
+			[ "prevaricaras" ],
+			[ "prevaricara" ],
+			[ "prevaricáramos" ],
+			[ "prevaricarais", "prevaricaran" ],
+			[ "prevaricaran" ]
+		],
+		"10" : [
+			[ "prevaricase" ],
+			[ "prevaricases" ],
+			[ "prevaricase" ],
+			[ "prevaricásemos" ],
+			[ "prevaricaseis", "prevaricasen" ],
+			[ "prevaricasen" ]
+		],
+		"11" : [
+			[ "prevaricare" ],
+			[ "prevaricares" ],
+			[ "prevaricare" ],
+			[ "prevaricáremos" ],
+			[ "prevaricareis", "prevaricaren" ],
+			[ "prevaricaren" ]
+		],
+		"12" : {
+			"1" : [ "prevarica" ],
+			"2" : [ "prevarique" ],
+			"3" : [ "prevariquemos" ],
+			"4" : [ "prevaricad" ],
+			"5" : [ "prevariquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recubrir",
+	"word" : "recubrir",
+	"infinitivo" : "recubrir",
+	"participio" : [ "recubierto" ],
+	"gerundio" : [ "recubriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "recubro" ],
+			[ "recubres", "recubrís" ],
+			[ "recubre" ],
+			[ "recubrimos" ],
+			[ "recubrís", "recubren" ],
+			[ "recubren" ]
+		],
+		"4" : [
+			[ "recubrí" ],
+			[ "recubriste" ],
+			[ "recubrió" ],
+			[ "recubrimos" ],
+			[ "recubristeis", "recubrieron" ],
+			[ "recubrieron" ]
+		],
+		"5" : [
+			[ "recubría" ],
+			[ "recubrías" ],
+			[ "recubría" ],
+			[ "recubríamos" ],
+			[ "recubríais", "recubrían" ],
+			[ "recubrían" ]
+		],
+		"6" : [
+			[ "recubriría" ],
+			[ "recubrirías" ],
+			[ "recubriría" ],
+			[ "recubriríamos" ],
+			[ "recubriríais", "recubrirían" ],
+			[ "recubrirían" ]
+		],
+		"7" : [
+			[ "recubriré" ],
+			[ "recubrirás" ],
+			[ "recubrirá" ],
+			[ "recubriremos" ],
+			[ "recubriréis", "recubrirán" ],
+			[ "recubrirán" ]
+		],
+		"8" : [
+			[ "recubra" ],
+			[ "recubras" ],
+			[ "recubra" ],
+			[ "recubramos" ],
+			[ "recubráis", "recubran" ],
+			[ "recubran" ]
+		],
+		"9" : [
+			[ "recubriera" ],
+			[ "recubrieras" ],
+			[ "recubriera" ],
+			[ "recubriéramos" ],
+			[ "recubrierais", "recubrieran" ],
+			[ "recubrieran" ]
+		],
+		"10" : [
+			[ "recubriese" ],
+			[ "recubrieses" ],
+			[ "recubriese" ],
+			[ "recubriésemos" ],
+			[ "recubrieseis", "recubriesen" ],
+			[ "recubriesen" ]
+		],
+		"11" : [
+			[ "recubriere" ],
+			[ "recubrieres" ],
+			[ "recubriere" ],
+			[ "recubriéremos" ],
+			[ "recubriereis", "recubrieren" ],
+			[ "recubrieren" ]
+		],
+		"12" : {
+			"1" : [ "recubre" ],
+			"2" : [ "recubra" ],
+			"3" : [ "recubramos" ],
+			"4" : [ "recubrid" ],
+			"5" : [ "recubran" ]
+		}
+	}
+}

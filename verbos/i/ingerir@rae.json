@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ingerir",
+	"word" : "ingerir",
+	"infinitivo" : "ingerir",
+	"participio" : [ "ingerido" ],
+	"gerundio" : [ "ingiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "ingiero" ],
+			[ "ingieres", "ingerís" ],
+			[ "ingiere" ],
+			[ "ingerimos" ],
+			[ "ingerís", "ingieren" ],
+			[ "ingieren" ]
+		],
+		"4" : [
+			[ "ingerí" ],
+			[ "ingeriste" ],
+			[ "ingirió" ],
+			[ "ingerimos" ],
+			[ "ingeristeis", "ingirieron" ],
+			[ "ingirieron" ]
+		],
+		"5" : [
+			[ "ingería" ],
+			[ "ingerías" ],
+			[ "ingería" ],
+			[ "ingeríamos" ],
+			[ "ingeríais", "ingerían" ],
+			[ "ingerían" ]
+		],
+		"6" : [
+			[ "ingeriría" ],
+			[ "ingerirías" ],
+			[ "ingeriría" ],
+			[ "ingeriríamos" ],
+			[ "ingeriríais", "ingerirían" ],
+			[ "ingerirían" ]
+		],
+		"7" : [
+			[ "ingeriré" ],
+			[ "ingerirás" ],
+			[ "ingerirá" ],
+			[ "ingeriremos" ],
+			[ "ingeriréis", "ingerirán" ],
+			[ "ingerirán" ]
+		],
+		"8" : [
+			[ "ingiera" ],
+			[ "ingieras" ],
+			[ "ingiera" ],
+			[ "ingiramos" ],
+			[ "ingiráis", "ingieran" ],
+			[ "ingieran" ]
+		],
+		"9" : [
+			[ "ingiriera" ],
+			[ "ingirieras" ],
+			[ "ingiriera" ],
+			[ "ingiriéramos" ],
+			[ "ingirierais", "ingirieran" ],
+			[ "ingirieran" ]
+		],
+		"10" : [
+			[ "ingiriese" ],
+			[ "ingirieses" ],
+			[ "ingiriese" ],
+			[ "ingiriésemos" ],
+			[ "ingirieseis", "ingiriesen" ],
+			[ "ingiriesen" ]
+		],
+		"11" : [
+			[ "ingiriere" ],
+			[ "ingirieres" ],
+			[ "ingiriere" ],
+			[ "ingiriéremos" ],
+			[ "ingiriereis", "ingirieren" ],
+			[ "ingirieren" ]
+		],
+		"12" : {
+			"1" : [ "ingiere" ],
+			"2" : [ "ingiera" ],
+			"3" : [ "ingiramos" ],
+			"4" : [ "ingerid" ],
+			"5" : [ "ingieran" ]
+		}
+	}
+}

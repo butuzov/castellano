@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enriar",
+	"word" : "enriar",
+	"infinitivo" : "enriar",
+	"participio" : [ "enriado" ],
+	"gerundio" : [ "enriando" ],
+	"tenses" : {
+		"3" : [
+			[ "enrío" ],
+			[ "enrías", "enriás" ],
+			[ "enría" ],
+			[ "enriamos" ],
+			[ "enriáis", "enrían" ],
+			[ "enrían" ]
+		],
+		"4" : [
+			[ "enrié" ],
+			[ "enriaste" ],
+			[ "enrió" ],
+			[ "enriamos" ],
+			[ "enriasteis", "enriaron" ],
+			[ "enriaron" ]
+		],
+		"5" : [
+			[ "enriaba" ],
+			[ "enriabas" ],
+			[ "enriaba" ],
+			[ "enriábamos" ],
+			[ "enriabais", "enriaban" ],
+			[ "enriaban" ]
+		],
+		"6" : [
+			[ "enriaría" ],
+			[ "enriarías" ],
+			[ "enriaría" ],
+			[ "enriaríamos" ],
+			[ "enriaríais", "enriarían" ],
+			[ "enriarían" ]
+		],
+		"7" : [
+			[ "enriaré" ],
+			[ "enriarás" ],
+			[ "enriará" ],
+			[ "enriaremos" ],
+			[ "enriaréis", "enriarán" ],
+			[ "enriarán" ]
+		],
+		"8" : [
+			[ "enríe" ],
+			[ "enríes" ],
+			[ "enríe" ],
+			[ "enriemos" ],
+			[ "enriéis", "enríen" ],
+			[ "enríen" ]
+		],
+		"9" : [
+			[ "enriara" ],
+			[ "enriaras" ],
+			[ "enriara" ],
+			[ "enriáramos" ],
+			[ "enriarais", "enriaran" ],
+			[ "enriaran" ]
+		],
+		"10" : [
+			[ "enriase" ],
+			[ "enriases" ],
+			[ "enriase" ],
+			[ "enriásemos" ],
+			[ "enriaseis", "enriasen" ],
+			[ "enriasen" ]
+		],
+		"11" : [
+			[ "enriare" ],
+			[ "enriares" ],
+			[ "enriare" ],
+			[ "enriáremos" ],
+			[ "enriareis", "enriaren" ],
+			[ "enriaren" ]
+		],
+		"12" : {
+			"1" : [ "enría" ],
+			"2" : [ "enríe" ],
+			"3" : [ "enriemos" ],
+			"4" : [ "enriad" ],
+			"5" : [ "enríen" ]
+		}
+	}
+}

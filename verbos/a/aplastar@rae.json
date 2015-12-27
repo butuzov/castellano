@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aplastar",
+	"word" : "aplastar",
+	"infinitivo" : "aplastar",
+	"participio" : [ "aplastado" ],
+	"gerundio" : [ "aplastando" ],
+	"tenses" : {
+		"3" : [
+			[ "aplasto" ],
+			[ "aplastas", "aplastás" ],
+			[ "aplasta" ],
+			[ "aplastamos" ],
+			[ "aplastáis", "aplastan" ],
+			[ "aplastan" ]
+		],
+		"4" : [
+			[ "aplasté" ],
+			[ "aplastaste" ],
+			[ "aplastó" ],
+			[ "aplastamos" ],
+			[ "aplastasteis", "aplastaron" ],
+			[ "aplastaron" ]
+		],
+		"5" : [
+			[ "aplastaba" ],
+			[ "aplastabas" ],
+			[ "aplastaba" ],
+			[ "aplastábamos" ],
+			[ "aplastabais", "aplastaban" ],
+			[ "aplastaban" ]
+		],
+		"6" : [
+			[ "aplastaría" ],
+			[ "aplastarías" ],
+			[ "aplastaría" ],
+			[ "aplastaríamos" ],
+			[ "aplastaríais", "aplastarían" ],
+			[ "aplastarían" ]
+		],
+		"7" : [
+			[ "aplastaré" ],
+			[ "aplastarás" ],
+			[ "aplastará" ],
+			[ "aplastaremos" ],
+			[ "aplastaréis", "aplastarán" ],
+			[ "aplastarán" ]
+		],
+		"8" : [
+			[ "aplaste" ],
+			[ "aplastes" ],
+			[ "aplaste" ],
+			[ "aplastemos" ],
+			[ "aplastéis", "aplasten" ],
+			[ "aplasten" ]
+		],
+		"9" : [
+			[ "aplastara" ],
+			[ "aplastaras" ],
+			[ "aplastara" ],
+			[ "aplastáramos" ],
+			[ "aplastarais", "aplastaran" ],
+			[ "aplastaran" ]
+		],
+		"10" : [
+			[ "aplastase" ],
+			[ "aplastases" ],
+			[ "aplastase" ],
+			[ "aplastásemos" ],
+			[ "aplastaseis", "aplastasen" ],
+			[ "aplastasen" ]
+		],
+		"11" : [
+			[ "aplastare" ],
+			[ "aplastares" ],
+			[ "aplastare" ],
+			[ "aplastáremos" ],
+			[ "aplastareis", "aplastaren" ],
+			[ "aplastaren" ]
+		],
+		"12" : {
+			"1" : [ "aplasta" ],
+			"2" : [ "aplaste" ],
+			"3" : [ "aplastemos" ],
+			"4" : [ "aplastad" ],
+			"5" : [ "aplasten" ]
+		}
+	}
+}

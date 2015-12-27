@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trascurrir",
+	"word" : "trascurrir",
+	"infinitivo" : "trascurrir",
+	"participio" : [ "trascurrido" ],
+	"gerundio" : [ "trascurriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "trascurro" ],
+			[ "trascurres", "trascurrís" ],
+			[ "trascurre" ],
+			[ "trascurrimos" ],
+			[ "trascurrís", "trascurren" ],
+			[ "trascurren" ]
+		],
+		"4" : [
+			[ "trascurrí" ],
+			[ "trascurriste" ],
+			[ "trascurrió" ],
+			[ "trascurrimos" ],
+			[ "trascurristeis", "trascurrieron" ],
+			[ "trascurrieron" ]
+		],
+		"5" : [
+			[ "trascurría" ],
+			[ "trascurrías" ],
+			[ "trascurría" ],
+			[ "trascurríamos" ],
+			[ "trascurríais", "trascurrían" ],
+			[ "trascurrían" ]
+		],
+		"6" : [
+			[ "trascurriría" ],
+			[ "trascurrirías" ],
+			[ "trascurriría" ],
+			[ "trascurriríamos" ],
+			[ "trascurriríais", "trascurrirían" ],
+			[ "trascurrirían" ]
+		],
+		"7" : [
+			[ "trascurriré" ],
+			[ "trascurrirás" ],
+			[ "trascurrirá" ],
+			[ "trascurriremos" ],
+			[ "trascurriréis", "trascurrirán" ],
+			[ "trascurrirán" ]
+		],
+		"8" : [
+			[ "trascurra" ],
+			[ "trascurras" ],
+			[ "trascurra" ],
+			[ "trascurramos" ],
+			[ "trascurráis", "trascurran" ],
+			[ "trascurran" ]
+		],
+		"9" : [
+			[ "trascurriera" ],
+			[ "trascurrieras" ],
+			[ "trascurriera" ],
+			[ "trascurriéramos" ],
+			[ "trascurrierais", "trascurrieran" ],
+			[ "trascurrieran" ]
+		],
+		"10" : [
+			[ "trascurriese" ],
+			[ "trascurrieses" ],
+			[ "trascurriese" ],
+			[ "trascurriésemos" ],
+			[ "trascurrieseis", "trascurriesen" ],
+			[ "trascurriesen" ]
+		],
+		"11" : [
+			[ "trascurriere" ],
+			[ "trascurrieres" ],
+			[ "trascurriere" ],
+			[ "trascurriéremos" ],
+			[ "trascurriereis", "trascurrieren" ],
+			[ "trascurrieren" ]
+		],
+		"12" : {
+			"1" : [ "trascurre" ],
+			"2" : [ "trascurra" ],
+			"3" : [ "trascurramos" ],
+			"4" : [ "trascurrid" ],
+			"5" : [ "trascurran" ]
+		}
+	}
+}

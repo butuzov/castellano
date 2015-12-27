@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cesar",
+	"word" : "cesar",
+	"infinitivo" : "cesar",
+	"participio" : [ "cesado" ],
+	"gerundio" : [ "cesando" ],
+	"tenses" : {
+		"3" : [
+			[ "ceso" ],
+			[ "cesas", "cesás" ],
+			[ "cesa" ],
+			[ "cesamos" ],
+			[ "cesáis", "cesan" ],
+			[ "cesan" ]
+		],
+		"4" : [
+			[ "cesé" ],
+			[ "cesaste" ],
+			[ "cesó" ],
+			[ "cesamos" ],
+			[ "cesasteis", "cesaron" ],
+			[ "cesaron" ]
+		],
+		"5" : [
+			[ "cesaba" ],
+			[ "cesabas" ],
+			[ "cesaba" ],
+			[ "cesábamos" ],
+			[ "cesabais", "cesaban" ],
+			[ "cesaban" ]
+		],
+		"6" : [
+			[ "cesaría" ],
+			[ "cesarías" ],
+			[ "cesaría" ],
+			[ "cesaríamos" ],
+			[ "cesaríais", "cesarían" ],
+			[ "cesarían" ]
+		],
+		"7" : [
+			[ "cesaré" ],
+			[ "cesarás" ],
+			[ "cesará" ],
+			[ "cesaremos" ],
+			[ "cesaréis", "cesarán" ],
+			[ "cesarán" ]
+		],
+		"8" : [
+			[ "cese" ],
+			[ "ceses" ],
+			[ "cese" ],
+			[ "cesemos" ],
+			[ "ceséis", "cesen" ],
+			[ "cesen" ]
+		],
+		"9" : [
+			[ "cesara" ],
+			[ "cesaras" ],
+			[ "cesara" ],
+			[ "cesáramos" ],
+			[ "cesarais", "cesaran" ],
+			[ "cesaran" ]
+		],
+		"10" : [
+			[ "cesase" ],
+			[ "cesases" ],
+			[ "cesase" ],
+			[ "cesásemos" ],
+			[ "cesaseis", "cesasen" ],
+			[ "cesasen" ]
+		],
+		"11" : [
+			[ "cesare" ],
+			[ "cesares" ],
+			[ "cesare" ],
+			[ "cesáremos" ],
+			[ "cesareis", "cesaren" ],
+			[ "cesaren" ]
+		],
+		"12" : {
+			"1" : [ "cesa" ],
+			"2" : [ "cese" ],
+			"3" : [ "cesemos" ],
+			"4" : [ "cesad" ],
+			"5" : [ "cesen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remendar",
+	"word" : "remendar",
+	"infinitivo" : "remendar",
+	"participio" : [ "remendado" ],
+	"gerundio" : [ "remendando" ],
+	"tenses" : {
+		"3" : [
+			[ "remiendo" ],
+			[ "remiendas", "remendás" ],
+			[ "remienda" ],
+			[ "remendamos" ],
+			[ "remendáis", "remiendan" ],
+			[ "remiendan" ]
+		],
+		"4" : [
+			[ "remendé" ],
+			[ "remendaste" ],
+			[ "remendó" ],
+			[ "remendamos" ],
+			[ "remendasteis", "remendaron" ],
+			[ "remendaron" ]
+		],
+		"5" : [
+			[ "remendaba" ],
+			[ "remendabas" ],
+			[ "remendaba" ],
+			[ "remendábamos" ],
+			[ "remendabais", "remendaban" ],
+			[ "remendaban" ]
+		],
+		"6" : [
+			[ "remendaría" ],
+			[ "remendarías" ],
+			[ "remendaría" ],
+			[ "remendaríamos" ],
+			[ "remendaríais", "remendarían" ],
+			[ "remendarían" ]
+		],
+		"7" : [
+			[ "remendaré" ],
+			[ "remendarás" ],
+			[ "remendará" ],
+			[ "remendaremos" ],
+			[ "remendaréis", "remendarán" ],
+			[ "remendarán" ]
+		],
+		"8" : [
+			[ "remiende" ],
+			[ "remiendes" ],
+			[ "remiende" ],
+			[ "remendemos" ],
+			[ "remendéis", "remienden" ],
+			[ "remienden" ]
+		],
+		"9" : [
+			[ "remendara" ],
+			[ "remendaras" ],
+			[ "remendara" ],
+			[ "remendáramos" ],
+			[ "remendarais", "remendaran" ],
+			[ "remendaran" ]
+		],
+		"10" : [
+			[ "remendase" ],
+			[ "remendases" ],
+			[ "remendase" ],
+			[ "remendásemos" ],
+			[ "remendaseis", "remendasen" ],
+			[ "remendasen" ]
+		],
+		"11" : [
+			[ "remendare" ],
+			[ "remendares" ],
+			[ "remendare" ],
+			[ "remendáremos" ],
+			[ "remendareis", "remendaren" ],
+			[ "remendaren" ]
+		],
+		"12" : {
+			"1" : [ "remienda" ],
+			"2" : [ "remiende" ],
+			"3" : [ "remendemos" ],
+			"4" : [ "remendad" ],
+			"5" : [ "remienden" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tonar",
+	"word" : "tonar",
+	"infinitivo" : "tonar",
+	"participio" : [ "tonado" ],
+	"gerundio" : [ "tonando" ],
+	"tenses" : {
+		"3" : [
+			[ "tono" ],
+			[ "tonas", "tonás" ],
+			[ "tona" ],
+			[ "tonamos" ],
+			[ "tonáis", "tonan" ],
+			[ "tonan" ]
+		],
+		"4" : [
+			[ "toné" ],
+			[ "tonaste" ],
+			[ "tonó" ],
+			[ "tonamos" ],
+			[ "tonasteis", "tonaron" ],
+			[ "tonaron" ]
+		],
+		"5" : [
+			[ "tonaba" ],
+			[ "tonabas" ],
+			[ "tonaba" ],
+			[ "tonábamos" ],
+			[ "tonabais", "tonaban" ],
+			[ "tonaban" ]
+		],
+		"6" : [
+			[ "tonaría" ],
+			[ "tonarías" ],
+			[ "tonaría" ],
+			[ "tonaríamos" ],
+			[ "tonaríais", "tonarían" ],
+			[ "tonarían" ]
+		],
+		"7" : [
+			[ "tonaré" ],
+			[ "tonarás" ],
+			[ "tonará" ],
+			[ "tonaremos" ],
+			[ "tonaréis", "tonarán" ],
+			[ "tonarán" ]
+		],
+		"8" : [
+			[ "tone" ],
+			[ "tones" ],
+			[ "tone" ],
+			[ "tonemos" ],
+			[ "tonéis", "tonen" ],
+			[ "tonen" ]
+		],
+		"9" : [
+			[ "tonara" ],
+			[ "tonaras" ],
+			[ "tonara" ],
+			[ "tonáramos" ],
+			[ "tonarais", "tonaran" ],
+			[ "tonaran" ]
+		],
+		"10" : [
+			[ "tonase" ],
+			[ "tonases" ],
+			[ "tonase" ],
+			[ "tonásemos" ],
+			[ "tonaseis", "tonasen" ],
+			[ "tonasen" ]
+		],
+		"11" : [
+			[ "tonare" ],
+			[ "tonares" ],
+			[ "tonare" ],
+			[ "tonáremos" ],
+			[ "tonareis", "tonaren" ],
+			[ "tonaren" ]
+		],
+		"12" : {
+			"1" : [ "tona" ],
+			"2" : [ "tone" ],
+			"3" : [ "tonemos" ],
+			"4" : [ "tonad" ],
+			"5" : [ "tonen" ]
+		}
+	}
+}

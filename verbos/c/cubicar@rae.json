@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cubicar",
+	"word" : "cubicar",
+	"infinitivo" : "cubicar",
+	"participio" : [ "cubicado" ],
+	"gerundio" : [ "cubicando" ],
+	"tenses" : {
+		"3" : [
+			[ "cubico" ],
+			[ "cubicas", "cubicás" ],
+			[ "cubica" ],
+			[ "cubicamos" ],
+			[ "cubicáis", "cubican" ],
+			[ "cubican" ]
+		],
+		"4" : [
+			[ "cubiqué" ],
+			[ "cubicaste" ],
+			[ "cubicó" ],
+			[ "cubicamos" ],
+			[ "cubicasteis", "cubicaron" ],
+			[ "cubicaron" ]
+		],
+		"5" : [
+			[ "cubicaba" ],
+			[ "cubicabas" ],
+			[ "cubicaba" ],
+			[ "cubicábamos" ],
+			[ "cubicabais", "cubicaban" ],
+			[ "cubicaban" ]
+		],
+		"6" : [
+			[ "cubicaría" ],
+			[ "cubicarías" ],
+			[ "cubicaría" ],
+			[ "cubicaríamos" ],
+			[ "cubicaríais", "cubicarían" ],
+			[ "cubicarían" ]
+		],
+		"7" : [
+			[ "cubicaré" ],
+			[ "cubicarás" ],
+			[ "cubicará" ],
+			[ "cubicaremos" ],
+			[ "cubicaréis", "cubicarán" ],
+			[ "cubicarán" ]
+		],
+		"8" : [
+			[ "cubique" ],
+			[ "cubiques" ],
+			[ "cubique" ],
+			[ "cubiquemos" ],
+			[ "cubiquéis", "cubiquen" ],
+			[ "cubiquen" ]
+		],
+		"9" : [
+			[ "cubicara" ],
+			[ "cubicaras" ],
+			[ "cubicara" ],
+			[ "cubicáramos" ],
+			[ "cubicarais", "cubicaran" ],
+			[ "cubicaran" ]
+		],
+		"10" : [
+			[ "cubicase" ],
+			[ "cubicases" ],
+			[ "cubicase" ],
+			[ "cubicásemos" ],
+			[ "cubicaseis", "cubicasen" ],
+			[ "cubicasen" ]
+		],
+		"11" : [
+			[ "cubicare" ],
+			[ "cubicares" ],
+			[ "cubicare" ],
+			[ "cubicáremos" ],
+			[ "cubicareis", "cubicaren" ],
+			[ "cubicaren" ]
+		],
+		"12" : {
+			"1" : [ "cubica" ],
+			"2" : [ "cubique" ],
+			"3" : [ "cubiquemos" ],
+			"4" : [ "cubicad" ],
+			"5" : [ "cubiquen" ]
+		}
+	}
+}

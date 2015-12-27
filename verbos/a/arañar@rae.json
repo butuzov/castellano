@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arañar",
+	"word" : "arañar",
+	"infinitivo" : "arañar",
+	"participio" : [ "arañado" ],
+	"gerundio" : [ "arañando" ],
+	"tenses" : {
+		"3" : [
+			[ "araño" ],
+			[ "arañas", "arañás" ],
+			[ "araña" ],
+			[ "arañamos" ],
+			[ "arañáis", "arañan" ],
+			[ "arañan" ]
+		],
+		"4" : [
+			[ "arañé" ],
+			[ "arañaste" ],
+			[ "arañó" ],
+			[ "arañamos" ],
+			[ "arañasteis", "arañaron" ],
+			[ "arañaron" ]
+		],
+		"5" : [
+			[ "arañaba" ],
+			[ "arañabas" ],
+			[ "arañaba" ],
+			[ "arañábamos" ],
+			[ "arañabais", "arañaban" ],
+			[ "arañaban" ]
+		],
+		"6" : [
+			[ "arañaría" ],
+			[ "arañarías" ],
+			[ "arañaría" ],
+			[ "arañaríamos" ],
+			[ "arañaríais", "arañarían" ],
+			[ "arañarían" ]
+		],
+		"7" : [
+			[ "arañaré" ],
+			[ "arañarás" ],
+			[ "arañará" ],
+			[ "arañaremos" ],
+			[ "arañaréis", "arañarán" ],
+			[ "arañarán" ]
+		],
+		"8" : [
+			[ "arañe" ],
+			[ "arañes" ],
+			[ "arañe" ],
+			[ "arañemos" ],
+			[ "arañéis", "arañen" ],
+			[ "arañen" ]
+		],
+		"9" : [
+			[ "arañara" ],
+			[ "arañaras" ],
+			[ "arañara" ],
+			[ "arañáramos" ],
+			[ "arañarais", "arañaran" ],
+			[ "arañaran" ]
+		],
+		"10" : [
+			[ "arañase" ],
+			[ "arañases" ],
+			[ "arañase" ],
+			[ "arañásemos" ],
+			[ "arañaseis", "arañasen" ],
+			[ "arañasen" ]
+		],
+		"11" : [
+			[ "arañare" ],
+			[ "arañares" ],
+			[ "arañare" ],
+			[ "arañáremos" ],
+			[ "arañareis", "arañaren" ],
+			[ "arañaren" ]
+		],
+		"12" : {
+			"1" : [ "araña" ],
+			"2" : [ "arañe" ],
+			"3" : [ "arañemos" ],
+			"4" : [ "arañad" ],
+			"5" : [ "arañen" ]
+		}
+	}
+}

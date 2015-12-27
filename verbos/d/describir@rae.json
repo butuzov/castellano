@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=describir",
+	"word" : "describir",
+	"infinitivo" : "describir",
+	"participio" : [ "descrito", "descripto" ],
+	"gerundio" : [ "describiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "describo" ],
+			[ "describes", "describís" ],
+			[ "describe" ],
+			[ "describimos" ],
+			[ "describís", "describen" ],
+			[ "describen" ]
+		],
+		"4" : [
+			[ "describí" ],
+			[ "describiste" ],
+			[ "describió" ],
+			[ "describimos" ],
+			[ "describisteis", "describieron" ],
+			[ "describieron" ]
+		],
+		"5" : [
+			[ "describía" ],
+			[ "describías" ],
+			[ "describía" ],
+			[ "describíamos" ],
+			[ "describíais", "describían" ],
+			[ "describían" ]
+		],
+		"6" : [
+			[ "describiría" ],
+			[ "describirías" ],
+			[ "describiría" ],
+			[ "describiríamos" ],
+			[ "describiríais", "describirían" ],
+			[ "describirían" ]
+		],
+		"7" : [
+			[ "describiré" ],
+			[ "describirás" ],
+			[ "describirá" ],
+			[ "describiremos" ],
+			[ "describiréis", "describirán" ],
+			[ "describirán" ]
+		],
+		"8" : [
+			[ "describa" ],
+			[ "describas" ],
+			[ "describa" ],
+			[ "describamos" ],
+			[ "describáis", "describan" ],
+			[ "describan" ]
+		],
+		"9" : [
+			[ "describiera" ],
+			[ "describieras" ],
+			[ "describiera" ],
+			[ "describiéramos" ],
+			[ "describierais", "describieran" ],
+			[ "describieran" ]
+		],
+		"10" : [
+			[ "describiese" ],
+			[ "describieses" ],
+			[ "describiese" ],
+			[ "describiésemos" ],
+			[ "describieseis", "describiesen" ],
+			[ "describiesen" ]
+		],
+		"11" : [
+			[ "describiere" ],
+			[ "describieres" ],
+			[ "describiere" ],
+			[ "describiéremos" ],
+			[ "describiereis", "describieren" ],
+			[ "describieren" ]
+		],
+		"12" : {
+			"1" : [ "describe" ],
+			"2" : [ "describa" ],
+			"3" : [ "describamos" ],
+			"4" : [ "describid" ],
+			"5" : [ "describan" ]
+		}
+	}
+}

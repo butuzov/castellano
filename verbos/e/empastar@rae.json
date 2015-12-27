@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empastar",
+	"word" : "empastar",
+	"infinitivo" : "empastar",
+	"participio" : [ "empastado" ],
+	"gerundio" : [ "empastando" ],
+	"tenses" : {
+		"3" : [
+			[ "empasto" ],
+			[ "empastas", "empastás" ],
+			[ "empasta" ],
+			[ "empastamos" ],
+			[ "empastáis", "empastan" ],
+			[ "empastan" ]
+		],
+		"4" : [
+			[ "empasté" ],
+			[ "empastaste" ],
+			[ "empastó" ],
+			[ "empastamos" ],
+			[ "empastasteis", "empastaron" ],
+			[ "empastaron" ]
+		],
+		"5" : [
+			[ "empastaba" ],
+			[ "empastabas" ],
+			[ "empastaba" ],
+			[ "empastábamos" ],
+			[ "empastabais", "empastaban" ],
+			[ "empastaban" ]
+		],
+		"6" : [
+			[ "empastaría" ],
+			[ "empastarías" ],
+			[ "empastaría" ],
+			[ "empastaríamos" ],
+			[ "empastaríais", "empastarían" ],
+			[ "empastarían" ]
+		],
+		"7" : [
+			[ "empastaré" ],
+			[ "empastarás" ],
+			[ "empastará" ],
+			[ "empastaremos" ],
+			[ "empastaréis", "empastarán" ],
+			[ "empastarán" ]
+		],
+		"8" : [
+			[ "empaste" ],
+			[ "empastes" ],
+			[ "empaste" ],
+			[ "empastemos" ],
+			[ "empastéis", "empasten" ],
+			[ "empasten" ]
+		],
+		"9" : [
+			[ "empastara" ],
+			[ "empastaras" ],
+			[ "empastara" ],
+			[ "empastáramos" ],
+			[ "empastarais", "empastaran" ],
+			[ "empastaran" ]
+		],
+		"10" : [
+			[ "empastase" ],
+			[ "empastases" ],
+			[ "empastase" ],
+			[ "empastásemos" ],
+			[ "empastaseis", "empastasen" ],
+			[ "empastasen" ]
+		],
+		"11" : [
+			[ "empastare" ],
+			[ "empastares" ],
+			[ "empastare" ],
+			[ "empastáremos" ],
+			[ "empastareis", "empastaren" ],
+			[ "empastaren" ]
+		],
+		"12" : {
+			"1" : [ "empasta" ],
+			"2" : [ "empaste" ],
+			"3" : [ "empastemos" ],
+			"4" : [ "empastad" ],
+			"5" : [ "empasten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comercializar",
+	"word" : "comercializar",
+	"infinitivo" : "comercializar",
+	"participio" : [ "comercializado" ],
+	"gerundio" : [ "comercializando" ],
+	"tenses" : {
+		"3" : [
+			[ "comercializo" ],
+			[ "comercializas", "comercializás" ],
+			[ "comercializa" ],
+			[ "comercializamos" ],
+			[ "comercializáis", "comercializan" ],
+			[ "comercializan" ]
+		],
+		"4" : [
+			[ "comercialicé" ],
+			[ "comercializaste" ],
+			[ "comercializó" ],
+			[ "comercializamos" ],
+			[ "comercializasteis", "comercializaron" ],
+			[ "comercializaron" ]
+		],
+		"5" : [
+			[ "comercializaba" ],
+			[ "comercializabas" ],
+			[ "comercializaba" ],
+			[ "comercializábamos" ],
+			[ "comercializabais", "comercializaban" ],
+			[ "comercializaban" ]
+		],
+		"6" : [
+			[ "comercializaría" ],
+			[ "comercializarías" ],
+			[ "comercializaría" ],
+			[ "comercializaríamos" ],
+			[ "comercializaríais", "comercializarían" ],
+			[ "comercializarían" ]
+		],
+		"7" : [
+			[ "comercializaré" ],
+			[ "comercializarás" ],
+			[ "comercializará" ],
+			[ "comercializaremos" ],
+			[ "comercializaréis", "comercializarán" ],
+			[ "comercializarán" ]
+		],
+		"8" : [
+			[ "comercialice" ],
+			[ "comercialices" ],
+			[ "comercialice" ],
+			[ "comercialicemos" ],
+			[ "comercialicéis", "comercialicen" ],
+			[ "comercialicen" ]
+		],
+		"9" : [
+			[ "comercializara" ],
+			[ "comercializaras" ],
+			[ "comercializara" ],
+			[ "comercializáramos" ],
+			[ "comercializarais", "comercializaran" ],
+			[ "comercializaran" ]
+		],
+		"10" : [
+			[ "comercializase" ],
+			[ "comercializases" ],
+			[ "comercializase" ],
+			[ "comercializásemos" ],
+			[ "comercializaseis", "comercializasen" ],
+			[ "comercializasen" ]
+		],
+		"11" : [
+			[ "comercializare" ],
+			[ "comercializares" ],
+			[ "comercializare" ],
+			[ "comercializáremos" ],
+			[ "comercializareis", "comercializaren" ],
+			[ "comercializaren" ]
+		],
+		"12" : {
+			"1" : [ "comercializa" ],
+			"2" : [ "comercialice" ],
+			"3" : [ "comercialicemos" ],
+			"4" : [ "comercializad" ],
+			"5" : [ "comercialicen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=moldear",
+	"word" : "moldear",
+	"infinitivo" : "moldear",
+	"participio" : [ "moldeado" ],
+	"gerundio" : [ "moldeando" ],
+	"tenses" : {
+		"3" : [
+			[ "moldeo" ],
+			[ "moldeas", "moldeás" ],
+			[ "moldea" ],
+			[ "moldeamos" ],
+			[ "moldeáis", "moldean" ],
+			[ "moldean" ]
+		],
+		"4" : [
+			[ "moldeé" ],
+			[ "moldeaste" ],
+			[ "moldeó" ],
+			[ "moldeamos" ],
+			[ "moldeasteis", "moldearon" ],
+			[ "moldearon" ]
+		],
+		"5" : [
+			[ "moldeaba" ],
+			[ "moldeabas" ],
+			[ "moldeaba" ],
+			[ "moldeábamos" ],
+			[ "moldeabais", "moldeaban" ],
+			[ "moldeaban" ]
+		],
+		"6" : [
+			[ "moldearía" ],
+			[ "moldearías" ],
+			[ "moldearía" ],
+			[ "moldearíamos" ],
+			[ "moldearíais", "moldearían" ],
+			[ "moldearían" ]
+		],
+		"7" : [
+			[ "moldearé" ],
+			[ "moldearás" ],
+			[ "moldeará" ],
+			[ "moldearemos" ],
+			[ "moldearéis", "moldearán" ],
+			[ "moldearán" ]
+		],
+		"8" : [
+			[ "moldee" ],
+			[ "moldees" ],
+			[ "moldee" ],
+			[ "moldeemos" ],
+			[ "moldeéis", "moldeen" ],
+			[ "moldeen" ]
+		],
+		"9" : [
+			[ "moldeara" ],
+			[ "moldearas" ],
+			[ "moldeara" ],
+			[ "moldeáramos" ],
+			[ "moldearais", "moldearan" ],
+			[ "moldearan" ]
+		],
+		"10" : [
+			[ "moldease" ],
+			[ "moldeases" ],
+			[ "moldease" ],
+			[ "moldeásemos" ],
+			[ "moldeaseis", "moldeasen" ],
+			[ "moldeasen" ]
+		],
+		"11" : [
+			[ "moldeare" ],
+			[ "moldeares" ],
+			[ "moldeare" ],
+			[ "moldeáremos" ],
+			[ "moldeareis", "moldearen" ],
+			[ "moldearen" ]
+		],
+		"12" : {
+			"1" : [ "moldea" ],
+			"2" : [ "moldee" ],
+			"3" : [ "moldeemos" ],
+			"4" : [ "moldead" ],
+			"5" : [ "moldeen" ]
+		}
+	}
+}

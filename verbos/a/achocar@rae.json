@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=achocar",
+	"word" : "achocar",
+	"infinitivo" : "achocar",
+	"participio" : [ "achocado" ],
+	"gerundio" : [ "achocando" ],
+	"tenses" : {
+		"3" : [
+			[ "achoco" ],
+			[ "achocas", "achocás" ],
+			[ "achoca" ],
+			[ "achocamos" ],
+			[ "achocáis", "achocan" ],
+			[ "achocan" ]
+		],
+		"4" : [
+			[ "achoqué" ],
+			[ "achocaste" ],
+			[ "achocó" ],
+			[ "achocamos" ],
+			[ "achocasteis", "achocaron" ],
+			[ "achocaron" ]
+		],
+		"5" : [
+			[ "achocaba" ],
+			[ "achocabas" ],
+			[ "achocaba" ],
+			[ "achocábamos" ],
+			[ "achocabais", "achocaban" ],
+			[ "achocaban" ]
+		],
+		"6" : [
+			[ "achocaría" ],
+			[ "achocarías" ],
+			[ "achocaría" ],
+			[ "achocaríamos" ],
+			[ "achocaríais", "achocarían" ],
+			[ "achocarían" ]
+		],
+		"7" : [
+			[ "achocaré" ],
+			[ "achocarás" ],
+			[ "achocará" ],
+			[ "achocaremos" ],
+			[ "achocaréis", "achocarán" ],
+			[ "achocarán" ]
+		],
+		"8" : [
+			[ "achoque" ],
+			[ "achoques" ],
+			[ "achoque" ],
+			[ "achoquemos" ],
+			[ "achoquéis", "achoquen" ],
+			[ "achoquen" ]
+		],
+		"9" : [
+			[ "achocara" ],
+			[ "achocaras" ],
+			[ "achocara" ],
+			[ "achocáramos" ],
+			[ "achocarais", "achocaran" ],
+			[ "achocaran" ]
+		],
+		"10" : [
+			[ "achocase" ],
+			[ "achocases" ],
+			[ "achocase" ],
+			[ "achocásemos" ],
+			[ "achocaseis", "achocasen" ],
+			[ "achocasen" ]
+		],
+		"11" : [
+			[ "achocare" ],
+			[ "achocares" ],
+			[ "achocare" ],
+			[ "achocáremos" ],
+			[ "achocareis", "achocaren" ],
+			[ "achocaren" ]
+		],
+		"12" : {
+			"1" : [ "achoca" ],
+			"2" : [ "achoque" ],
+			"3" : [ "achoquemos" ],
+			"4" : [ "achocad" ],
+			"5" : [ "achoquen" ]
+		}
+	}
+}

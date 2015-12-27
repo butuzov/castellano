@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=golosear",
+	"word" : "golosear",
+	"infinitivo" : "golosear",
+	"participio" : [ "goloseado" ],
+	"gerundio" : [ "goloseando" ],
+	"tenses" : {
+		"3" : [
+			[ "goloseo" ],
+			[ "goloseas", "goloseás" ],
+			[ "golosea" ],
+			[ "goloseamos" ],
+			[ "goloseáis", "golosean" ],
+			[ "golosean" ]
+		],
+		"4" : [
+			[ "goloseé" ],
+			[ "goloseaste" ],
+			[ "goloseó" ],
+			[ "goloseamos" ],
+			[ "goloseasteis", "golosearon" ],
+			[ "golosearon" ]
+		],
+		"5" : [
+			[ "goloseaba" ],
+			[ "goloseabas" ],
+			[ "goloseaba" ],
+			[ "goloseábamos" ],
+			[ "goloseabais", "goloseaban" ],
+			[ "goloseaban" ]
+		],
+		"6" : [
+			[ "golosearía" ],
+			[ "golosearías" ],
+			[ "golosearía" ],
+			[ "golosearíamos" ],
+			[ "golosearíais", "golosearían" ],
+			[ "golosearían" ]
+		],
+		"7" : [
+			[ "golosearé" ],
+			[ "golosearás" ],
+			[ "goloseará" ],
+			[ "golosearemos" ],
+			[ "golosearéis", "golosearán" ],
+			[ "golosearán" ]
+		],
+		"8" : [
+			[ "golosee" ],
+			[ "golosees" ],
+			[ "golosee" ],
+			[ "goloseemos" ],
+			[ "goloseéis", "goloseen" ],
+			[ "goloseen" ]
+		],
+		"9" : [
+			[ "goloseara" ],
+			[ "golosearas" ],
+			[ "goloseara" ],
+			[ "goloseáramos" ],
+			[ "golosearais", "golosearan" ],
+			[ "golosearan" ]
+		],
+		"10" : [
+			[ "golosease" ],
+			[ "goloseases" ],
+			[ "golosease" ],
+			[ "goloseásemos" ],
+			[ "goloseaseis", "goloseasen" ],
+			[ "goloseasen" ]
+		],
+		"11" : [
+			[ "goloseare" ],
+			[ "goloseares" ],
+			[ "goloseare" ],
+			[ "goloseáremos" ],
+			[ "goloseareis", "golosearen" ],
+			[ "golosearen" ]
+		],
+		"12" : {
+			"1" : [ "golosea" ],
+			"2" : [ "golosee" ],
+			"3" : [ "goloseemos" ],
+			"4" : [ "golosead" ],
+			"5" : [ "goloseen" ]
+		}
+	}
+}

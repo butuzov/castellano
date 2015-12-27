@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=combinar",
+	"word" : "combinar",
+	"infinitivo" : "combinar",
+	"participio" : [ "combinado" ],
+	"gerundio" : [ "combinando" ],
+	"tenses" : {
+		"3" : [
+			[ "combino" ],
+			[ "combinas", "combinás" ],
+			[ "combina" ],
+			[ "combinamos" ],
+			[ "combináis", "combinan" ],
+			[ "combinan" ]
+		],
+		"4" : [
+			[ "combiné" ],
+			[ "combinaste" ],
+			[ "combinó" ],
+			[ "combinamos" ],
+			[ "combinasteis", "combinaron" ],
+			[ "combinaron" ]
+		],
+		"5" : [
+			[ "combinaba" ],
+			[ "combinabas" ],
+			[ "combinaba" ],
+			[ "combinábamos" ],
+			[ "combinabais", "combinaban" ],
+			[ "combinaban" ]
+		],
+		"6" : [
+			[ "combinaría" ],
+			[ "combinarías" ],
+			[ "combinaría" ],
+			[ "combinaríamos" ],
+			[ "combinaríais", "combinarían" ],
+			[ "combinarían" ]
+		],
+		"7" : [
+			[ "combinaré" ],
+			[ "combinarás" ],
+			[ "combinará" ],
+			[ "combinaremos" ],
+			[ "combinaréis", "combinarán" ],
+			[ "combinarán" ]
+		],
+		"8" : [
+			[ "combine" ],
+			[ "combines" ],
+			[ "combine" ],
+			[ "combinemos" ],
+			[ "combinéis", "combinen" ],
+			[ "combinen" ]
+		],
+		"9" : [
+			[ "combinara" ],
+			[ "combinaras" ],
+			[ "combinara" ],
+			[ "combináramos" ],
+			[ "combinarais", "combinaran" ],
+			[ "combinaran" ]
+		],
+		"10" : [
+			[ "combinase" ],
+			[ "combinases" ],
+			[ "combinase" ],
+			[ "combinásemos" ],
+			[ "combinaseis", "combinasen" ],
+			[ "combinasen" ]
+		],
+		"11" : [
+			[ "combinare" ],
+			[ "combinares" ],
+			[ "combinare" ],
+			[ "combináremos" ],
+			[ "combinareis", "combinaren" ],
+			[ "combinaren" ]
+		],
+		"12" : {
+			"1" : [ "combina" ],
+			"2" : [ "combine" ],
+			"3" : [ "combinemos" ],
+			"4" : [ "combinad" ],
+			"5" : [ "combinen" ]
+		}
+	}
+}

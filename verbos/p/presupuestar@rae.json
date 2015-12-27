@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=presupuestar",
+	"word" : "presupuestar",
+	"infinitivo" : "presupuestar",
+	"participio" : [ "presupuestado" ],
+	"gerundio" : [ "presupuestando" ],
+	"tenses" : {
+		"3" : [
+			[ "presupuesto" ],
+			[ "presupuestas", "presupuestás" ],
+			[ "presupuesta" ],
+			[ "presupuestamos" ],
+			[ "presupuestáis", "presupuestan" ],
+			[ "presupuestan" ]
+		],
+		"4" : [
+			[ "presupuesté" ],
+			[ "presupuestaste" ],
+			[ "presupuestó" ],
+			[ "presupuestamos" ],
+			[ "presupuestasteis", "presupuestaron" ],
+			[ "presupuestaron" ]
+		],
+		"5" : [
+			[ "presupuestaba" ],
+			[ "presupuestabas" ],
+			[ "presupuestaba" ],
+			[ "presupuestábamos" ],
+			[ "presupuestabais", "presupuestaban" ],
+			[ "presupuestaban" ]
+		],
+		"6" : [
+			[ "presupuestaría" ],
+			[ "presupuestarías" ],
+			[ "presupuestaría" ],
+			[ "presupuestaríamos" ],
+			[ "presupuestaríais", "presupuestarían" ],
+			[ "presupuestarían" ]
+		],
+		"7" : [
+			[ "presupuestaré" ],
+			[ "presupuestarás" ],
+			[ "presupuestará" ],
+			[ "presupuestaremos" ],
+			[ "presupuestaréis", "presupuestarán" ],
+			[ "presupuestarán" ]
+		],
+		"8" : [
+			[ "presupueste" ],
+			[ "presupuestes" ],
+			[ "presupueste" ],
+			[ "presupuestemos" ],
+			[ "presupuestéis", "presupuesten" ],
+			[ "presupuesten" ]
+		],
+		"9" : [
+			[ "presupuestara" ],
+			[ "presupuestaras" ],
+			[ "presupuestara" ],
+			[ "presupuestáramos" ],
+			[ "presupuestarais", "presupuestaran" ],
+			[ "presupuestaran" ]
+		],
+		"10" : [
+			[ "presupuestase" ],
+			[ "presupuestases" ],
+			[ "presupuestase" ],
+			[ "presupuestásemos" ],
+			[ "presupuestaseis", "presupuestasen" ],
+			[ "presupuestasen" ]
+		],
+		"11" : [
+			[ "presupuestare" ],
+			[ "presupuestares" ],
+			[ "presupuestare" ],
+			[ "presupuestáremos" ],
+			[ "presupuestareis", "presupuestaren" ],
+			[ "presupuestaren" ]
+		],
+		"12" : {
+			"1" : [ "presupuesta" ],
+			"2" : [ "presupueste" ],
+			"3" : [ "presupuestemos" ],
+			"4" : [ "presupuestad" ],
+			"5" : [ "presupuesten" ]
+		}
+	}
+}

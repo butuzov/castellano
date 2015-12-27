@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=memorizar",
+	"word" : "memorizar",
+	"infinitivo" : "memorizar",
+	"participio" : [ "memorizado" ],
+	"gerundio" : [ "memorizando" ],
+	"tenses" : {
+		"3" : [
+			[ "memorizo" ],
+			[ "memorizas", "memorizás" ],
+			[ "memoriza" ],
+			[ "memorizamos" ],
+			[ "memorizáis", "memorizan" ],
+			[ "memorizan" ]
+		],
+		"4" : [
+			[ "memoricé" ],
+			[ "memorizaste" ],
+			[ "memorizó" ],
+			[ "memorizamos" ],
+			[ "memorizasteis", "memorizaron" ],
+			[ "memorizaron" ]
+		],
+		"5" : [
+			[ "memorizaba" ],
+			[ "memorizabas" ],
+			[ "memorizaba" ],
+			[ "memorizábamos" ],
+			[ "memorizabais", "memorizaban" ],
+			[ "memorizaban" ]
+		],
+		"6" : [
+			[ "memorizaría" ],
+			[ "memorizarías" ],
+			[ "memorizaría" ],
+			[ "memorizaríamos" ],
+			[ "memorizaríais", "memorizarían" ],
+			[ "memorizarían" ]
+		],
+		"7" : [
+			[ "memorizaré" ],
+			[ "memorizarás" ],
+			[ "memorizará" ],
+			[ "memorizaremos" ],
+			[ "memorizaréis", "memorizarán" ],
+			[ "memorizarán" ]
+		],
+		"8" : [
+			[ "memorice" ],
+			[ "memorices" ],
+			[ "memorice" ],
+			[ "memoricemos" ],
+			[ "memoricéis", "memoricen" ],
+			[ "memoricen" ]
+		],
+		"9" : [
+			[ "memorizara" ],
+			[ "memorizaras" ],
+			[ "memorizara" ],
+			[ "memorizáramos" ],
+			[ "memorizarais", "memorizaran" ],
+			[ "memorizaran" ]
+		],
+		"10" : [
+			[ "memorizase" ],
+			[ "memorizases" ],
+			[ "memorizase" ],
+			[ "memorizásemos" ],
+			[ "memorizaseis", "memorizasen" ],
+			[ "memorizasen" ]
+		],
+		"11" : [
+			[ "memorizare" ],
+			[ "memorizares" ],
+			[ "memorizare" ],
+			[ "memorizáremos" ],
+			[ "memorizareis", "memorizaren" ],
+			[ "memorizaren" ]
+		],
+		"12" : {
+			"1" : [ "memoriza" ],
+			"2" : [ "memorice" ],
+			"3" : [ "memoricemos" ],
+			"4" : [ "memorizad" ],
+			"5" : [ "memoricen" ]
+		}
+	}
+}

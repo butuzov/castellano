@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encasillar",
+	"word" : "encasillar",
+	"infinitivo" : "encasillar",
+	"participio" : [ "encasillado" ],
+	"gerundio" : [ "encasillando" ],
+	"tenses" : {
+		"3" : [
+			[ "encasillo" ],
+			[ "encasillas", "encasillás" ],
+			[ "encasilla" ],
+			[ "encasillamos" ],
+			[ "encasilláis", "encasillan" ],
+			[ "encasillan" ]
+		],
+		"4" : [
+			[ "encasillé" ],
+			[ "encasillaste" ],
+			[ "encasilló" ],
+			[ "encasillamos" ],
+			[ "encasillasteis", "encasillaron" ],
+			[ "encasillaron" ]
+		],
+		"5" : [
+			[ "encasillaba" ],
+			[ "encasillabas" ],
+			[ "encasillaba" ],
+			[ "encasillábamos" ],
+			[ "encasillabais", "encasillaban" ],
+			[ "encasillaban" ]
+		],
+		"6" : [
+			[ "encasillaría" ],
+			[ "encasillarías" ],
+			[ "encasillaría" ],
+			[ "encasillaríamos" ],
+			[ "encasillaríais", "encasillarían" ],
+			[ "encasillarían" ]
+		],
+		"7" : [
+			[ "encasillaré" ],
+			[ "encasillarás" ],
+			[ "encasillará" ],
+			[ "encasillaremos" ],
+			[ "encasillaréis", "encasillarán" ],
+			[ "encasillarán" ]
+		],
+		"8" : [
+			[ "encasille" ],
+			[ "encasilles" ],
+			[ "encasille" ],
+			[ "encasillemos" ],
+			[ "encasilléis", "encasillen" ],
+			[ "encasillen" ]
+		],
+		"9" : [
+			[ "encasillara" ],
+			[ "encasillaras" ],
+			[ "encasillara" ],
+			[ "encasilláramos" ],
+			[ "encasillarais", "encasillaran" ],
+			[ "encasillaran" ]
+		],
+		"10" : [
+			[ "encasillase" ],
+			[ "encasillases" ],
+			[ "encasillase" ],
+			[ "encasillásemos" ],
+			[ "encasillaseis", "encasillasen" ],
+			[ "encasillasen" ]
+		],
+		"11" : [
+			[ "encasillare" ],
+			[ "encasillares" ],
+			[ "encasillare" ],
+			[ "encasilláremos" ],
+			[ "encasillareis", "encasillaren" ],
+			[ "encasillaren" ]
+		],
+		"12" : {
+			"1" : [ "encasilla" ],
+			"2" : [ "encasille" ],
+			"3" : [ "encasillemos" ],
+			"4" : [ "encasillad" ],
+			"5" : [ "encasillen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mullir",
+	"word" : "mullir",
+	"infinitivo" : "mullir",
+	"participio" : [ "mullido" ],
+	"gerundio" : [ "mullendo" ],
+	"tenses" : {
+		"3" : [
+			[ "mullo" ],
+			[ "mulles", "mullís" ],
+			[ "mulle" ],
+			[ "mullimos" ],
+			[ "mullís", "mullen" ],
+			[ "mullen" ]
+		],
+		"4" : [
+			[ "mullí" ],
+			[ "mulliste" ],
+			[ "mulló" ],
+			[ "mullimos" ],
+			[ "mullisteis", "mulleron" ],
+			[ "mulleron" ]
+		],
+		"5" : [
+			[ "mullía" ],
+			[ "mullías" ],
+			[ "mullía" ],
+			[ "mullíamos" ],
+			[ "mullíais", "mullían" ],
+			[ "mullían" ]
+		],
+		"6" : [
+			[ "mulliría" ],
+			[ "mullirías" ],
+			[ "mulliría" ],
+			[ "mulliríamos" ],
+			[ "mulliríais", "mullirían" ],
+			[ "mullirían" ]
+		],
+		"7" : [
+			[ "mulliré" ],
+			[ "mullirás" ],
+			[ "mullirá" ],
+			[ "mulliremos" ],
+			[ "mulliréis", "mullirán" ],
+			[ "mullirán" ]
+		],
+		"8" : [
+			[ "mulla" ],
+			[ "mullas" ],
+			[ "mulla" ],
+			[ "mullamos" ],
+			[ "mulláis", "mullan" ],
+			[ "mullan" ]
+		],
+		"9" : [
+			[ "mullera" ],
+			[ "mulleras" ],
+			[ "mullera" ],
+			[ "mulléramos" ],
+			[ "mullerais", "mulleran" ],
+			[ "mulleran" ]
+		],
+		"10" : [
+			[ "mullese" ],
+			[ "mulleses" ],
+			[ "mullese" ],
+			[ "mullésemos" ],
+			[ "mulleseis", "mullesen" ],
+			[ "mullesen" ]
+		],
+		"11" : [
+			[ "mullere" ],
+			[ "mulleres" ],
+			[ "mullere" ],
+			[ "mulléremos" ],
+			[ "mullereis", "mulleren" ],
+			[ "mulleren" ]
+		],
+		"12" : {
+			"1" : [ "mulle" ],
+			"2" : [ "mulla" ],
+			"3" : [ "mullamos" ],
+			"4" : [ "mullid" ],
+			"5" : [ "mullan" ]
+		}
+	}
+}

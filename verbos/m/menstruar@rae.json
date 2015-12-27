@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=menstruar",
+	"word" : "menstruar",
+	"infinitivo" : "menstruar",
+	"participio" : [ "menstruado" ],
+	"gerundio" : [ "menstruando" ],
+	"tenses" : {
+		"3" : [
+			[ "menstrúo" ],
+			[ "menstrúas", "menstruás" ],
+			[ "menstrúa" ],
+			[ "menstruamos" ],
+			[ "menstruáis", "menstrúan" ],
+			[ "menstrúan" ]
+		],
+		"4" : [
+			[ "menstrué" ],
+			[ "menstruaste" ],
+			[ "menstruó" ],
+			[ "menstruamos" ],
+			[ "menstruasteis", "menstruaron" ],
+			[ "menstruaron" ]
+		],
+		"5" : [
+			[ "menstruaba" ],
+			[ "menstruabas" ],
+			[ "menstruaba" ],
+			[ "menstruábamos" ],
+			[ "menstruabais", "menstruaban" ],
+			[ "menstruaban" ]
+		],
+		"6" : [
+			[ "menstruaría" ],
+			[ "menstruarías" ],
+			[ "menstruaría" ],
+			[ "menstruaríamos" ],
+			[ "menstruaríais", "menstruarían" ],
+			[ "menstruarían" ]
+		],
+		"7" : [
+			[ "menstruaré" ],
+			[ "menstruarás" ],
+			[ "menstruará" ],
+			[ "menstruaremos" ],
+			[ "menstruaréis", "menstruarán" ],
+			[ "menstruarán" ]
+		],
+		"8" : [
+			[ "menstrúe" ],
+			[ "menstrúes" ],
+			[ "menstrúe" ],
+			[ "menstruemos" ],
+			[ "menstruéis", "menstrúen" ],
+			[ "menstrúen" ]
+		],
+		"9" : [
+			[ "menstruara" ],
+			[ "menstruaras" ],
+			[ "menstruara" ],
+			[ "menstruáramos" ],
+			[ "menstruarais", "menstruaran" ],
+			[ "menstruaran" ]
+		],
+		"10" : [
+			[ "menstruase" ],
+			[ "menstruases" ],
+			[ "menstruase" ],
+			[ "menstruásemos" ],
+			[ "menstruaseis", "menstruasen" ],
+			[ "menstruasen" ]
+		],
+		"11" : [
+			[ "menstruare" ],
+			[ "menstruares" ],
+			[ "menstruare" ],
+			[ "menstruáremos" ],
+			[ "menstruareis", "menstruaren" ],
+			[ "menstruaren" ]
+		],
+		"12" : {
+			"1" : [ "menstrúa" ],
+			"2" : [ "menstrúe" ],
+			"3" : [ "menstruemos" ],
+			"4" : [ "menstruad" ],
+			"5" : [ "menstrúen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=doctrinar",
+	"word" : "doctrinar",
+	"infinitivo" : "doctrinar",
+	"participio" : [ "doctrinado" ],
+	"gerundio" : [ "doctrinando" ],
+	"tenses" : {
+		"3" : [
+			[ "doctrino" ],
+			[ "doctrinas", "doctrinás" ],
+			[ "doctrina" ],
+			[ "doctrinamos" ],
+			[ "doctrináis", "doctrinan" ],
+			[ "doctrinan" ]
+		],
+		"4" : [
+			[ "doctriné" ],
+			[ "doctrinaste" ],
+			[ "doctrinó" ],
+			[ "doctrinamos" ],
+			[ "doctrinasteis", "doctrinaron" ],
+			[ "doctrinaron" ]
+		],
+		"5" : [
+			[ "doctrinaba" ],
+			[ "doctrinabas" ],
+			[ "doctrinaba" ],
+			[ "doctrinábamos" ],
+			[ "doctrinabais", "doctrinaban" ],
+			[ "doctrinaban" ]
+		],
+		"6" : [
+			[ "doctrinaría" ],
+			[ "doctrinarías" ],
+			[ "doctrinaría" ],
+			[ "doctrinaríamos" ],
+			[ "doctrinaríais", "doctrinarían" ],
+			[ "doctrinarían" ]
+		],
+		"7" : [
+			[ "doctrinaré" ],
+			[ "doctrinarás" ],
+			[ "doctrinará" ],
+			[ "doctrinaremos" ],
+			[ "doctrinaréis", "doctrinarán" ],
+			[ "doctrinarán" ]
+		],
+		"8" : [
+			[ "doctrine" ],
+			[ "doctrines" ],
+			[ "doctrine" ],
+			[ "doctrinemos" ],
+			[ "doctrinéis", "doctrinen" ],
+			[ "doctrinen" ]
+		],
+		"9" : [
+			[ "doctrinara" ],
+			[ "doctrinaras" ],
+			[ "doctrinara" ],
+			[ "doctrináramos" ],
+			[ "doctrinarais", "doctrinaran" ],
+			[ "doctrinaran" ]
+		],
+		"10" : [
+			[ "doctrinase" ],
+			[ "doctrinases" ],
+			[ "doctrinase" ],
+			[ "doctrinásemos" ],
+			[ "doctrinaseis", "doctrinasen" ],
+			[ "doctrinasen" ]
+		],
+		"11" : [
+			[ "doctrinare" ],
+			[ "doctrinares" ],
+			[ "doctrinare" ],
+			[ "doctrináremos" ],
+			[ "doctrinareis", "doctrinaren" ],
+			[ "doctrinaren" ]
+		],
+		"12" : {
+			"1" : [ "doctrina" ],
+			"2" : [ "doctrine" ],
+			"3" : [ "doctrinemos" ],
+			"4" : [ "doctrinad" ],
+			"5" : [ "doctrinen" ]
+		}
+	}
+}

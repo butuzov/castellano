@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=volver",
+	"word" : "volver",
+	"infinitivo" : "volver",
+	"participio" : [ "vuelto" ],
+	"gerundio" : [ "volviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "vuelvo" ],
+			[ "vuelves", "volvés" ],
+			[ "vuelve" ],
+			[ "volvemos" ],
+			[ "volvéis", "vuelven" ],
+			[ "vuelven" ]
+		],
+		"4" : [
+			[ "volví" ],
+			[ "volviste" ],
+			[ "volvió" ],
+			[ "volvimos" ],
+			[ "volvisteis", "volvieron" ],
+			[ "volvieron" ]
+		],
+		"5" : [
+			[ "volvía" ],
+			[ "volvías" ],
+			[ "volvía" ],
+			[ "volvíamos" ],
+			[ "volvíais", "volvían" ],
+			[ "volvían" ]
+		],
+		"6" : [
+			[ "volvería" ],
+			[ "volverías" ],
+			[ "volvería" ],
+			[ "volveríamos" ],
+			[ "volveríais", "volverían" ],
+			[ "volverían" ]
+		],
+		"7" : [
+			[ "volveré" ],
+			[ "volverás" ],
+			[ "volverá" ],
+			[ "volveremos" ],
+			[ "volveréis", "volverán" ],
+			[ "volverán" ]
+		],
+		"8" : [
+			[ "vuelva" ],
+			[ "vuelvas" ],
+			[ "vuelva" ],
+			[ "volvamos" ],
+			[ "volváis", "vuelvan" ],
+			[ "vuelvan" ]
+		],
+		"9" : [
+			[ "volviera" ],
+			[ "volvieras" ],
+			[ "volviera" ],
+			[ "volviéramos" ],
+			[ "volvierais", "volvieran" ],
+			[ "volvieran" ]
+		],
+		"10" : [
+			[ "volviese" ],
+			[ "volvieses" ],
+			[ "volviese" ],
+			[ "volviésemos" ],
+			[ "volvieseis", "volviesen" ],
+			[ "volviesen" ]
+		],
+		"11" : [
+			[ "volviere" ],
+			[ "volvieres" ],
+			[ "volviere" ],
+			[ "volviéremos" ],
+			[ "volviereis", "volvieren" ],
+			[ "volvieren" ]
+		],
+		"12" : {
+			"1" : [ "vuelve" ],
+			"2" : [ "vuelva" ],
+			"3" : [ "volvamos" ],
+			"4" : [ "volved" ],
+			"5" : [ "vuelvan" ]
+		}
+	}
+}

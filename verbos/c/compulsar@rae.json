@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=compulsar",
+	"word" : "compulsar",
+	"infinitivo" : "compulsar",
+	"participio" : [ "compulsado" ],
+	"gerundio" : [ "compulsando" ],
+	"tenses" : {
+		"3" : [
+			[ "compulso" ],
+			[ "compulsas", "compulsás" ],
+			[ "compulsa" ],
+			[ "compulsamos" ],
+			[ "compulsáis", "compulsan" ],
+			[ "compulsan" ]
+		],
+		"4" : [
+			[ "compulsé" ],
+			[ "compulsaste" ],
+			[ "compulsó" ],
+			[ "compulsamos" ],
+			[ "compulsasteis", "compulsaron" ],
+			[ "compulsaron" ]
+		],
+		"5" : [
+			[ "compulsaba" ],
+			[ "compulsabas" ],
+			[ "compulsaba" ],
+			[ "compulsábamos" ],
+			[ "compulsabais", "compulsaban" ],
+			[ "compulsaban" ]
+		],
+		"6" : [
+			[ "compulsaría" ],
+			[ "compulsarías" ],
+			[ "compulsaría" ],
+			[ "compulsaríamos" ],
+			[ "compulsaríais", "compulsarían" ],
+			[ "compulsarían" ]
+		],
+		"7" : [
+			[ "compulsaré" ],
+			[ "compulsarás" ],
+			[ "compulsará" ],
+			[ "compulsaremos" ],
+			[ "compulsaréis", "compulsarán" ],
+			[ "compulsarán" ]
+		],
+		"8" : [
+			[ "compulse" ],
+			[ "compulses" ],
+			[ "compulse" ],
+			[ "compulsemos" ],
+			[ "compulséis", "compulsen" ],
+			[ "compulsen" ]
+		],
+		"9" : [
+			[ "compulsara" ],
+			[ "compulsaras" ],
+			[ "compulsara" ],
+			[ "compulsáramos" ],
+			[ "compulsarais", "compulsaran" ],
+			[ "compulsaran" ]
+		],
+		"10" : [
+			[ "compulsase" ],
+			[ "compulsases" ],
+			[ "compulsase" ],
+			[ "compulsásemos" ],
+			[ "compulsaseis", "compulsasen" ],
+			[ "compulsasen" ]
+		],
+		"11" : [
+			[ "compulsare" ],
+			[ "compulsares" ],
+			[ "compulsare" ],
+			[ "compulsáremos" ],
+			[ "compulsareis", "compulsaren" ],
+			[ "compulsaren" ]
+		],
+		"12" : {
+			"1" : [ "compulsa" ],
+			"2" : [ "compulse" ],
+			"3" : [ "compulsemos" ],
+			"4" : [ "compulsad" ],
+			"5" : [ "compulsen" ]
+		}
+	}
+}

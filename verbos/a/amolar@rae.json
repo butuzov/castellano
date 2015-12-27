@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amolar",
+	"word" : "amolar",
+	"infinitivo" : "amolar",
+	"participio" : [ "amolado" ],
+	"gerundio" : [ "amolando" ],
+	"tenses" : {
+		"3" : [
+			[ "amuelo" ],
+			[ "amuelas", "amolás" ],
+			[ "amuela" ],
+			[ "amolamos" ],
+			[ "amoláis", "amuelan" ],
+			[ "amuelan" ]
+		],
+		"4" : [
+			[ "amolé" ],
+			[ "amolaste" ],
+			[ "amoló" ],
+			[ "amolamos" ],
+			[ "amolasteis", "amolaron" ],
+			[ "amolaron" ]
+		],
+		"5" : [
+			[ "amolaba" ],
+			[ "amolabas" ],
+			[ "amolaba" ],
+			[ "amolábamos" ],
+			[ "amolabais", "amolaban" ],
+			[ "amolaban" ]
+		],
+		"6" : [
+			[ "amolaría" ],
+			[ "amolarías" ],
+			[ "amolaría" ],
+			[ "amolaríamos" ],
+			[ "amolaríais", "amolarían" ],
+			[ "amolarían" ]
+		],
+		"7" : [
+			[ "amolaré" ],
+			[ "amolarás" ],
+			[ "amolará" ],
+			[ "amolaremos" ],
+			[ "amolaréis", "amolarán" ],
+			[ "amolarán" ]
+		],
+		"8" : [
+			[ "amuele" ],
+			[ "amueles" ],
+			[ "amuele" ],
+			[ "amolemos" ],
+			[ "amoléis", "amuelen" ],
+			[ "amuelen" ]
+		],
+		"9" : [
+			[ "amolara" ],
+			[ "amolaras" ],
+			[ "amolara" ],
+			[ "amoláramos" ],
+			[ "amolarais", "amolaran" ],
+			[ "amolaran" ]
+		],
+		"10" : [
+			[ "amolase" ],
+			[ "amolases" ],
+			[ "amolase" ],
+			[ "amolásemos" ],
+			[ "amolaseis", "amolasen" ],
+			[ "amolasen" ]
+		],
+		"11" : [
+			[ "amolare" ],
+			[ "amolares" ],
+			[ "amolare" ],
+			[ "amoláremos" ],
+			[ "amolareis", "amolaren" ],
+			[ "amolaren" ]
+		],
+		"12" : {
+			"1" : [ "amuela" ],
+			"2" : [ "amuele" ],
+			"3" : [ "amolemos" ],
+			"4" : [ "amolad" ],
+			"5" : [ "amuelen" ]
+		}
+	}
+}

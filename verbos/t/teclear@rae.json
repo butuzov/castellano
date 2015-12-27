@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=teclear",
+	"word" : "teclear",
+	"infinitivo" : "teclear",
+	"participio" : [ "tecleado" ],
+	"gerundio" : [ "tecleando" ],
+	"tenses" : {
+		"3" : [
+			[ "tecleo" ],
+			[ "tecleas", "tecleás" ],
+			[ "teclea" ],
+			[ "tecleamos" ],
+			[ "tecleáis", "teclean" ],
+			[ "teclean" ]
+		],
+		"4" : [
+			[ "tecleé" ],
+			[ "tecleaste" ],
+			[ "tecleó" ],
+			[ "tecleamos" ],
+			[ "tecleasteis", "teclearon" ],
+			[ "teclearon" ]
+		],
+		"5" : [
+			[ "tecleaba" ],
+			[ "tecleabas" ],
+			[ "tecleaba" ],
+			[ "tecleábamos" ],
+			[ "tecleabais", "tecleaban" ],
+			[ "tecleaban" ]
+		],
+		"6" : [
+			[ "teclearía" ],
+			[ "teclearías" ],
+			[ "teclearía" ],
+			[ "teclearíamos" ],
+			[ "teclearíais", "teclearían" ],
+			[ "teclearían" ]
+		],
+		"7" : [
+			[ "teclearé" ],
+			[ "teclearás" ],
+			[ "tecleará" ],
+			[ "teclearemos" ],
+			[ "teclearéis", "teclearán" ],
+			[ "teclearán" ]
+		],
+		"8" : [
+			[ "teclee" ],
+			[ "teclees" ],
+			[ "teclee" ],
+			[ "tecleemos" ],
+			[ "tecleéis", "tecleen" ],
+			[ "tecleen" ]
+		],
+		"9" : [
+			[ "tecleara" ],
+			[ "teclearas" ],
+			[ "tecleara" ],
+			[ "tecleáramos" ],
+			[ "teclearais", "teclearan" ],
+			[ "teclearan" ]
+		],
+		"10" : [
+			[ "teclease" ],
+			[ "tecleases" ],
+			[ "teclease" ],
+			[ "tecleásemos" ],
+			[ "tecleaseis", "tecleasen" ],
+			[ "tecleasen" ]
+		],
+		"11" : [
+			[ "tecleare" ],
+			[ "tecleares" ],
+			[ "tecleare" ],
+			[ "tecleáremos" ],
+			[ "tecleareis", "teclearen" ],
+			[ "teclearen" ]
+		],
+		"12" : {
+			"1" : [ "teclea" ],
+			"2" : [ "teclee" ],
+			"3" : [ "tecleemos" ],
+			"4" : [ "teclead" ],
+			"5" : [ "tecleen" ]
+		}
+	}
+}

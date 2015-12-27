@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deslizar",
+	"word" : "deslizar",
+	"infinitivo" : "deslizar",
+	"participio" : [ "deslizado" ],
+	"gerundio" : [ "deslizando" ],
+	"tenses" : {
+		"3" : [
+			[ "deslizo" ],
+			[ "deslizas", "deslizás" ],
+			[ "desliza" ],
+			[ "deslizamos" ],
+			[ "deslizáis", "deslizan" ],
+			[ "deslizan" ]
+		],
+		"4" : [
+			[ "deslicé" ],
+			[ "deslizaste" ],
+			[ "deslizó" ],
+			[ "deslizamos" ],
+			[ "deslizasteis", "deslizaron" ],
+			[ "deslizaron" ]
+		],
+		"5" : [
+			[ "deslizaba" ],
+			[ "deslizabas" ],
+			[ "deslizaba" ],
+			[ "deslizábamos" ],
+			[ "deslizabais", "deslizaban" ],
+			[ "deslizaban" ]
+		],
+		"6" : [
+			[ "deslizaría" ],
+			[ "deslizarías" ],
+			[ "deslizaría" ],
+			[ "deslizaríamos" ],
+			[ "deslizaríais", "deslizarían" ],
+			[ "deslizarían" ]
+		],
+		"7" : [
+			[ "deslizaré" ],
+			[ "deslizarás" ],
+			[ "deslizará" ],
+			[ "deslizaremos" ],
+			[ "deslizaréis", "deslizarán" ],
+			[ "deslizarán" ]
+		],
+		"8" : [
+			[ "deslice" ],
+			[ "deslices" ],
+			[ "deslice" ],
+			[ "deslicemos" ],
+			[ "deslicéis", "deslicen" ],
+			[ "deslicen" ]
+		],
+		"9" : [
+			[ "deslizara" ],
+			[ "deslizaras" ],
+			[ "deslizara" ],
+			[ "deslizáramos" ],
+			[ "deslizarais", "deslizaran" ],
+			[ "deslizaran" ]
+		],
+		"10" : [
+			[ "deslizase" ],
+			[ "deslizases" ],
+			[ "deslizase" ],
+			[ "deslizásemos" ],
+			[ "deslizaseis", "deslizasen" ],
+			[ "deslizasen" ]
+		],
+		"11" : [
+			[ "deslizare" ],
+			[ "deslizares" ],
+			[ "deslizare" ],
+			[ "deslizáremos" ],
+			[ "deslizareis", "deslizaren" ],
+			[ "deslizaren" ]
+		],
+		"12" : {
+			"1" : [ "desliza" ],
+			"2" : [ "deslice" ],
+			"3" : [ "deslicemos" ],
+			"4" : [ "deslizad" ],
+			"5" : [ "deslicen" ]
+		}
+	}
+}

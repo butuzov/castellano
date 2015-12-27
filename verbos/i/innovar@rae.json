@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=innovar",
+	"word" : "innovar",
+	"infinitivo" : "innovar",
+	"participio" : [ "innovado" ],
+	"gerundio" : [ "innovando" ],
+	"tenses" : {
+		"3" : [
+			[ "innovo" ],
+			[ "innovas", "innovás" ],
+			[ "innova" ],
+			[ "innovamos" ],
+			[ "innováis", "innovan" ],
+			[ "innovan" ]
+		],
+		"4" : [
+			[ "innové" ],
+			[ "innovaste" ],
+			[ "innovó" ],
+			[ "innovamos" ],
+			[ "innovasteis", "innovaron" ],
+			[ "innovaron" ]
+		],
+		"5" : [
+			[ "innovaba" ],
+			[ "innovabas" ],
+			[ "innovaba" ],
+			[ "innovábamos" ],
+			[ "innovabais", "innovaban" ],
+			[ "innovaban" ]
+		],
+		"6" : [
+			[ "innovaría" ],
+			[ "innovarías" ],
+			[ "innovaría" ],
+			[ "innovaríamos" ],
+			[ "innovaríais", "innovarían" ],
+			[ "innovarían" ]
+		],
+		"7" : [
+			[ "innovaré" ],
+			[ "innovarás" ],
+			[ "innovará" ],
+			[ "innovaremos" ],
+			[ "innovaréis", "innovarán" ],
+			[ "innovarán" ]
+		],
+		"8" : [
+			[ "innove" ],
+			[ "innoves" ],
+			[ "innove" ],
+			[ "innovemos" ],
+			[ "innovéis", "innoven" ],
+			[ "innoven" ]
+		],
+		"9" : [
+			[ "innovara" ],
+			[ "innovaras" ],
+			[ "innovara" ],
+			[ "innováramos" ],
+			[ "innovarais", "innovaran" ],
+			[ "innovaran" ]
+		],
+		"10" : [
+			[ "innovase" ],
+			[ "innovases" ],
+			[ "innovase" ],
+			[ "innovásemos" ],
+			[ "innovaseis", "innovasen" ],
+			[ "innovasen" ]
+		],
+		"11" : [
+			[ "innovare" ],
+			[ "innovares" ],
+			[ "innovare" ],
+			[ "innováremos" ],
+			[ "innovareis", "innovaren" ],
+			[ "innovaren" ]
+		],
+		"12" : {
+			"1" : [ "innova" ],
+			"2" : [ "innove" ],
+			"3" : [ "innovemos" ],
+			"4" : [ "innovad" ],
+			"5" : [ "innoven" ]
+		}
+	}
+}

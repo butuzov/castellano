@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=salomar",
+	"word" : "salomar",
+	"infinitivo" : "salomar",
+	"participio" : [ "salomado" ],
+	"gerundio" : [ "salomando" ],
+	"tenses" : {
+		"3" : [
+			[ "salomo" ],
+			[ "salomas", "salomás" ],
+			[ "saloma" ],
+			[ "salomamos" ],
+			[ "salomáis", "saloman" ],
+			[ "saloman" ]
+		],
+		"4" : [
+			[ "salomé" ],
+			[ "salomaste" ],
+			[ "salomó" ],
+			[ "salomamos" ],
+			[ "salomasteis", "salomaron" ],
+			[ "salomaron" ]
+		],
+		"5" : [
+			[ "salomaba" ],
+			[ "salomabas" ],
+			[ "salomaba" ],
+			[ "salomábamos" ],
+			[ "salomabais", "salomaban" ],
+			[ "salomaban" ]
+		],
+		"6" : [
+			[ "salomaría" ],
+			[ "salomarías" ],
+			[ "salomaría" ],
+			[ "salomaríamos" ],
+			[ "salomaríais", "salomarían" ],
+			[ "salomarían" ]
+		],
+		"7" : [
+			[ "salomaré" ],
+			[ "salomarás" ],
+			[ "salomará" ],
+			[ "salomaremos" ],
+			[ "salomaréis", "salomarán" ],
+			[ "salomarán" ]
+		],
+		"8" : [
+			[ "salome" ],
+			[ "salomes" ],
+			[ "salome" ],
+			[ "salomemos" ],
+			[ "saloméis", "salomen" ],
+			[ "salomen" ]
+		],
+		"9" : [
+			[ "salomara" ],
+			[ "salomaras" ],
+			[ "salomara" ],
+			[ "salomáramos" ],
+			[ "salomarais", "salomaran" ],
+			[ "salomaran" ]
+		],
+		"10" : [
+			[ "salomase" ],
+			[ "salomases" ],
+			[ "salomase" ],
+			[ "salomásemos" ],
+			[ "salomaseis", "salomasen" ],
+			[ "salomasen" ]
+		],
+		"11" : [
+			[ "salomare" ],
+			[ "salomares" ],
+			[ "salomare" ],
+			[ "salomáremos" ],
+			[ "salomareis", "salomaren" ],
+			[ "salomaren" ]
+		],
+		"12" : {
+			"1" : [ "saloma" ],
+			"2" : [ "salome" ],
+			"3" : [ "salomemos" ],
+			"4" : [ "salomad" ],
+			"5" : [ "salomen" ]
+		}
+	}
+}

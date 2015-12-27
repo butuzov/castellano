@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=propasar",
+	"word" : "propasar",
+	"infinitivo" : "propasar",
+	"participio" : [ "propasado" ],
+	"gerundio" : [ "propasando" ],
+	"tenses" : {
+		"3" : [
+			[ "propaso" ],
+			[ "propasas", "propasás" ],
+			[ "propasa" ],
+			[ "propasamos" ],
+			[ "propasáis", "propasan" ],
+			[ "propasan" ]
+		],
+		"4" : [
+			[ "propasé" ],
+			[ "propasaste" ],
+			[ "propasó" ],
+			[ "propasamos" ],
+			[ "propasasteis", "propasaron" ],
+			[ "propasaron" ]
+		],
+		"5" : [
+			[ "propasaba" ],
+			[ "propasabas" ],
+			[ "propasaba" ],
+			[ "propasábamos" ],
+			[ "propasabais", "propasaban" ],
+			[ "propasaban" ]
+		],
+		"6" : [
+			[ "propasaría" ],
+			[ "propasarías" ],
+			[ "propasaría" ],
+			[ "propasaríamos" ],
+			[ "propasaríais", "propasarían" ],
+			[ "propasarían" ]
+		],
+		"7" : [
+			[ "propasaré" ],
+			[ "propasarás" ],
+			[ "propasará" ],
+			[ "propasaremos" ],
+			[ "propasaréis", "propasarán" ],
+			[ "propasarán" ]
+		],
+		"8" : [
+			[ "propase" ],
+			[ "propases" ],
+			[ "propase" ],
+			[ "propasemos" ],
+			[ "propaséis", "propasen" ],
+			[ "propasen" ]
+		],
+		"9" : [
+			[ "propasara" ],
+			[ "propasaras" ],
+			[ "propasara" ],
+			[ "propasáramos" ],
+			[ "propasarais", "propasaran" ],
+			[ "propasaran" ]
+		],
+		"10" : [
+			[ "propasase" ],
+			[ "propasases" ],
+			[ "propasase" ],
+			[ "propasásemos" ],
+			[ "propasaseis", "propasasen" ],
+			[ "propasasen" ]
+		],
+		"11" : [
+			[ "propasare" ],
+			[ "propasares" ],
+			[ "propasare" ],
+			[ "propasáremos" ],
+			[ "propasareis", "propasaren" ],
+			[ "propasaren" ]
+		],
+		"12" : {
+			"1" : [ "propasa" ],
+			"2" : [ "propase" ],
+			"3" : [ "propasemos" ],
+			"4" : [ "propasad" ],
+			"5" : [ "propasen" ]
+		}
+	}
+}

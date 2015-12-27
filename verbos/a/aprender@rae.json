@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aprender",
+	"word" : "aprender",
+	"infinitivo" : "aprender",
+	"participio" : [ "aprendido" ],
+	"gerundio" : [ "aprendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aprendo" ],
+			[ "aprendes", "aprendés" ],
+			[ "aprende" ],
+			[ "aprendemos" ],
+			[ "aprendéis", "aprenden" ],
+			[ "aprenden" ]
+		],
+		"4" : [
+			[ "aprendí" ],
+			[ "aprendiste" ],
+			[ "aprendió" ],
+			[ "aprendimos" ],
+			[ "aprendisteis", "aprendieron" ],
+			[ "aprendieron" ]
+		],
+		"5" : [
+			[ "aprendía" ],
+			[ "aprendías" ],
+			[ "aprendía" ],
+			[ "aprendíamos" ],
+			[ "aprendíais", "aprendían" ],
+			[ "aprendían" ]
+		],
+		"6" : [
+			[ "aprendería" ],
+			[ "aprenderías" ],
+			[ "aprendería" ],
+			[ "aprenderíamos" ],
+			[ "aprenderíais", "aprenderían" ],
+			[ "aprenderían" ]
+		],
+		"7" : [
+			[ "aprenderé" ],
+			[ "aprenderás" ],
+			[ "aprenderá" ],
+			[ "aprenderemos" ],
+			[ "aprenderéis", "aprenderán" ],
+			[ "aprenderán" ]
+		],
+		"8" : [
+			[ "aprenda" ],
+			[ "aprendas" ],
+			[ "aprenda" ],
+			[ "aprendamos" ],
+			[ "aprendáis", "aprendan" ],
+			[ "aprendan" ]
+		],
+		"9" : [
+			[ "aprendiera" ],
+			[ "aprendieras" ],
+			[ "aprendiera" ],
+			[ "aprendiéramos" ],
+			[ "aprendierais", "aprendieran" ],
+			[ "aprendieran" ]
+		],
+		"10" : [
+			[ "aprendiese" ],
+			[ "aprendieses" ],
+			[ "aprendiese" ],
+			[ "aprendiésemos" ],
+			[ "aprendieseis", "aprendiesen" ],
+			[ "aprendiesen" ]
+		],
+		"11" : [
+			[ "aprendiere" ],
+			[ "aprendieres" ],
+			[ "aprendiere" ],
+			[ "aprendiéremos" ],
+			[ "aprendiereis", "aprendieren" ],
+			[ "aprendieren" ]
+		],
+		"12" : {
+			"1" : [ "aprende" ],
+			"2" : [ "aprenda" ],
+			"3" : [ "aprendamos" ],
+			"4" : [ "aprended" ],
+			"5" : [ "aprendan" ]
+		}
+	}
+}

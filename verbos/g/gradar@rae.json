@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gradar",
+	"word" : "gradar",
+	"infinitivo" : "gradar",
+	"participio" : [ "gradado" ],
+	"gerundio" : [ "gradando" ],
+	"tenses" : {
+		"3" : [
+			[ "grado" ],
+			[ "gradas", "gradás" ],
+			[ "grada" ],
+			[ "gradamos" ],
+			[ "gradáis", "gradan" ],
+			[ "gradan" ]
+		],
+		"4" : [
+			[ "gradé" ],
+			[ "gradaste" ],
+			[ "gradó" ],
+			[ "gradamos" ],
+			[ "gradasteis", "gradaron" ],
+			[ "gradaron" ]
+		],
+		"5" : [
+			[ "gradaba" ],
+			[ "gradabas" ],
+			[ "gradaba" ],
+			[ "gradábamos" ],
+			[ "gradabais", "gradaban" ],
+			[ "gradaban" ]
+		],
+		"6" : [
+			[ "gradaría" ],
+			[ "gradarías" ],
+			[ "gradaría" ],
+			[ "gradaríamos" ],
+			[ "gradaríais", "gradarían" ],
+			[ "gradarían" ]
+		],
+		"7" : [
+			[ "gradaré" ],
+			[ "gradarás" ],
+			[ "gradará" ],
+			[ "gradaremos" ],
+			[ "gradaréis", "gradarán" ],
+			[ "gradarán" ]
+		],
+		"8" : [
+			[ "grade" ],
+			[ "grades" ],
+			[ "grade" ],
+			[ "grademos" ],
+			[ "gradéis", "graden" ],
+			[ "graden" ]
+		],
+		"9" : [
+			[ "gradara" ],
+			[ "gradaras" ],
+			[ "gradara" ],
+			[ "gradáramos" ],
+			[ "gradarais", "gradaran" ],
+			[ "gradaran" ]
+		],
+		"10" : [
+			[ "gradase" ],
+			[ "gradases" ],
+			[ "gradase" ],
+			[ "gradásemos" ],
+			[ "gradaseis", "gradasen" ],
+			[ "gradasen" ]
+		],
+		"11" : [
+			[ "gradare" ],
+			[ "gradares" ],
+			[ "gradare" ],
+			[ "gradáremos" ],
+			[ "gradareis", "gradaren" ],
+			[ "gradaren" ]
+		],
+		"12" : {
+			"1" : [ "grada" ],
+			"2" : [ "grade" ],
+			"3" : [ "grademos" ],
+			"4" : [ "gradad" ],
+			"5" : [ "graden" ]
+		}
+	}
+}

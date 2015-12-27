@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acensar",
+	"word" : "acensar",
+	"infinitivo" : "acensar",
+	"participio" : [ "acensado" ],
+	"gerundio" : [ "acensando" ],
+	"tenses" : {
+		"3" : [
+			[ "acenso" ],
+			[ "acensas", "acensás" ],
+			[ "acensa" ],
+			[ "acensamos" ],
+			[ "acensáis", "acensan" ],
+			[ "acensan" ]
+		],
+		"4" : [
+			[ "acensé" ],
+			[ "acensaste" ],
+			[ "acensó" ],
+			[ "acensamos" ],
+			[ "acensasteis", "acensaron" ],
+			[ "acensaron" ]
+		],
+		"5" : [
+			[ "acensaba" ],
+			[ "acensabas" ],
+			[ "acensaba" ],
+			[ "acensábamos" ],
+			[ "acensabais", "acensaban" ],
+			[ "acensaban" ]
+		],
+		"6" : [
+			[ "acensaría" ],
+			[ "acensarías" ],
+			[ "acensaría" ],
+			[ "acensaríamos" ],
+			[ "acensaríais", "acensarían" ],
+			[ "acensarían" ]
+		],
+		"7" : [
+			[ "acensaré" ],
+			[ "acensarás" ],
+			[ "acensará" ],
+			[ "acensaremos" ],
+			[ "acensaréis", "acensarán" ],
+			[ "acensarán" ]
+		],
+		"8" : [
+			[ "acense" ],
+			[ "acenses" ],
+			[ "acense" ],
+			[ "acensemos" ],
+			[ "acenséis", "acensen" ],
+			[ "acensen" ]
+		],
+		"9" : [
+			[ "acensara" ],
+			[ "acensaras" ],
+			[ "acensara" ],
+			[ "acensáramos" ],
+			[ "acensarais", "acensaran" ],
+			[ "acensaran" ]
+		],
+		"10" : [
+			[ "acensase" ],
+			[ "acensases" ],
+			[ "acensase" ],
+			[ "acensásemos" ],
+			[ "acensaseis", "acensasen" ],
+			[ "acensasen" ]
+		],
+		"11" : [
+			[ "acensare" ],
+			[ "acensares" ],
+			[ "acensare" ],
+			[ "acensáremos" ],
+			[ "acensareis", "acensaren" ],
+			[ "acensaren" ]
+		],
+		"12" : {
+			"1" : [ "acensa" ],
+			"2" : [ "acense" ],
+			"3" : [ "acensemos" ],
+			"4" : [ "acensad" ],
+			"5" : [ "acensen" ]
+		}
+	}
+}

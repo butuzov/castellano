@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adolecer",
+	"word" : "adolecer",
+	"infinitivo" : "adolecer",
+	"participio" : [ "adolecido" ],
+	"gerundio" : [ "adoleciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "adolezco" ],
+			[ "adoleces", "adolecés" ],
+			[ "adolece" ],
+			[ "adolecemos" ],
+			[ "adolecéis", "adolecen" ],
+			[ "adolecen" ]
+		],
+		"4" : [
+			[ "adolecí" ],
+			[ "adoleciste" ],
+			[ "adoleció" ],
+			[ "adolecimos" ],
+			[ "adolecisteis", "adolecieron" ],
+			[ "adolecieron" ]
+		],
+		"5" : [
+			[ "adolecía" ],
+			[ "adolecías" ],
+			[ "adolecía" ],
+			[ "adolecíamos" ],
+			[ "adolecíais", "adolecían" ],
+			[ "adolecían" ]
+		],
+		"6" : [
+			[ "adolecería" ],
+			[ "adolecerías" ],
+			[ "adolecería" ],
+			[ "adoleceríamos" ],
+			[ "adoleceríais", "adolecerían" ],
+			[ "adolecerían" ]
+		],
+		"7" : [
+			[ "adoleceré" ],
+			[ "adolecerás" ],
+			[ "adolecerá" ],
+			[ "adoleceremos" ],
+			[ "adoleceréis", "adolecerán" ],
+			[ "adolecerán" ]
+		],
+		"8" : [
+			[ "adolezca" ],
+			[ "adolezcas" ],
+			[ "adolezca" ],
+			[ "adolezcamos" ],
+			[ "adolezcáis", "adolezcan" ],
+			[ "adolezcan" ]
+		],
+		"9" : [
+			[ "adoleciera" ],
+			[ "adolecieras" ],
+			[ "adoleciera" ],
+			[ "adoleciéramos" ],
+			[ "adolecierais", "adolecieran" ],
+			[ "adolecieran" ]
+		],
+		"10" : [
+			[ "adoleciese" ],
+			[ "adolecieses" ],
+			[ "adoleciese" ],
+			[ "adoleciésemos" ],
+			[ "adolecieseis", "adoleciesen" ],
+			[ "adoleciesen" ]
+		],
+		"11" : [
+			[ "adoleciere" ],
+			[ "adolecieres" ],
+			[ "adoleciere" ],
+			[ "adoleciéremos" ],
+			[ "adoleciereis", "adolecieren" ],
+			[ "adolecieren" ]
+		],
+		"12" : {
+			"1" : [ "adolece" ],
+			"2" : [ "adolezca" ],
+			"3" : [ "adolezcamos" ],
+			"4" : [ "adoleced" ],
+			"5" : [ "adolezcan" ]
+		}
+	}
+}

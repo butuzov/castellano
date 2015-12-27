@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ventar",
+	"word" : "ventar",
+	"infinitivo" : "ventar",
+	"participio" : [ "ventado" ],
+	"gerundio" : [ "ventando" ],
+	"tenses" : {
+		"3" : [
+			[ "viento" ],
+			[ "vientas", "ventás" ],
+			[ "vienta" ],
+			[ "ventamos" ],
+			[ "ventáis", "vientan" ],
+			[ "vientan" ]
+		],
+		"4" : [
+			[ "venté" ],
+			[ "ventaste" ],
+			[ "ventó" ],
+			[ "ventamos" ],
+			[ "ventasteis", "ventaron" ],
+			[ "ventaron" ]
+		],
+		"5" : [
+			[ "ventaba" ],
+			[ "ventabas" ],
+			[ "ventaba" ],
+			[ "ventábamos" ],
+			[ "ventabais", "ventaban" ],
+			[ "ventaban" ]
+		],
+		"6" : [
+			[ "ventaría" ],
+			[ "ventarías" ],
+			[ "ventaría" ],
+			[ "ventaríamos" ],
+			[ "ventaríais", "ventarían" ],
+			[ "ventarían" ]
+		],
+		"7" : [
+			[ "ventaré" ],
+			[ "ventarás" ],
+			[ "ventará" ],
+			[ "ventaremos" ],
+			[ "ventaréis", "ventarán" ],
+			[ "ventarán" ]
+		],
+		"8" : [
+			[ "viente" ],
+			[ "vientes" ],
+			[ "viente" ],
+			[ "ventemos" ],
+			[ "ventéis", "vienten" ],
+			[ "vienten" ]
+		],
+		"9" : [
+			[ "ventara" ],
+			[ "ventaras" ],
+			[ "ventara" ],
+			[ "ventáramos" ],
+			[ "ventarais", "ventaran" ],
+			[ "ventaran" ]
+		],
+		"10" : [
+			[ "ventase" ],
+			[ "ventases" ],
+			[ "ventase" ],
+			[ "ventásemos" ],
+			[ "ventaseis", "ventasen" ],
+			[ "ventasen" ]
+		],
+		"11" : [
+			[ "ventare" ],
+			[ "ventares" ],
+			[ "ventare" ],
+			[ "ventáremos" ],
+			[ "ventareis", "ventaren" ],
+			[ "ventaren" ]
+		],
+		"12" : {
+			"1" : [ "vienta" ],
+			"2" : [ "viente" ],
+			"3" : [ "ventemos" ],
+			"4" : [ "ventad" ],
+			"5" : [ "vienten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=delegar",
+	"word" : "delegar",
+	"infinitivo" : "delegar",
+	"participio" : [ "delegado" ],
+	"gerundio" : [ "delegando" ],
+	"tenses" : {
+		"3" : [
+			[ "delego" ],
+			[ "delegas", "delegás" ],
+			[ "delega" ],
+			[ "delegamos" ],
+			[ "delegáis", "delegan" ],
+			[ "delegan" ]
+		],
+		"4" : [
+			[ "delegué" ],
+			[ "delegaste" ],
+			[ "delegó" ],
+			[ "delegamos" ],
+			[ "delegasteis", "delegaron" ],
+			[ "delegaron" ]
+		],
+		"5" : [
+			[ "delegaba" ],
+			[ "delegabas" ],
+			[ "delegaba" ],
+			[ "delegábamos" ],
+			[ "delegabais", "delegaban" ],
+			[ "delegaban" ]
+		],
+		"6" : [
+			[ "delegaría" ],
+			[ "delegarías" ],
+			[ "delegaría" ],
+			[ "delegaríamos" ],
+			[ "delegaríais", "delegarían" ],
+			[ "delegarían" ]
+		],
+		"7" : [
+			[ "delegaré" ],
+			[ "delegarás" ],
+			[ "delegará" ],
+			[ "delegaremos" ],
+			[ "delegaréis", "delegarán" ],
+			[ "delegarán" ]
+		],
+		"8" : [
+			[ "delegue" ],
+			[ "delegues" ],
+			[ "delegue" ],
+			[ "deleguemos" ],
+			[ "deleguéis", "deleguen" ],
+			[ "deleguen" ]
+		],
+		"9" : [
+			[ "delegara" ],
+			[ "delegaras" ],
+			[ "delegara" ],
+			[ "delegáramos" ],
+			[ "delegarais", "delegaran" ],
+			[ "delegaran" ]
+		],
+		"10" : [
+			[ "delegase" ],
+			[ "delegases" ],
+			[ "delegase" ],
+			[ "delegásemos" ],
+			[ "delegaseis", "delegasen" ],
+			[ "delegasen" ]
+		],
+		"11" : [
+			[ "delegare" ],
+			[ "delegares" ],
+			[ "delegare" ],
+			[ "delegáremos" ],
+			[ "delegareis", "delegaren" ],
+			[ "delegaren" ]
+		],
+		"12" : {
+			"1" : [ "delega" ],
+			"2" : [ "delegue" ],
+			"3" : [ "deleguemos" ],
+			"4" : [ "delegad" ],
+			"5" : [ "deleguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atracar",
+	"word" : "atracar",
+	"infinitivo" : "atracar",
+	"participio" : [ "atracado" ],
+	"gerundio" : [ "atracando" ],
+	"tenses" : {
+		"3" : [
+			[ "atraco" ],
+			[ "atracas", "atracás" ],
+			[ "atraca" ],
+			[ "atracamos" ],
+			[ "atracáis", "atracan" ],
+			[ "atracan" ]
+		],
+		"4" : [
+			[ "atraqué" ],
+			[ "atracaste" ],
+			[ "atracó" ],
+			[ "atracamos" ],
+			[ "atracasteis", "atracaron" ],
+			[ "atracaron" ]
+		],
+		"5" : [
+			[ "atracaba" ],
+			[ "atracabas" ],
+			[ "atracaba" ],
+			[ "atracábamos" ],
+			[ "atracabais", "atracaban" ],
+			[ "atracaban" ]
+		],
+		"6" : [
+			[ "atracaría" ],
+			[ "atracarías" ],
+			[ "atracaría" ],
+			[ "atracaríamos" ],
+			[ "atracaríais", "atracarían" ],
+			[ "atracarían" ]
+		],
+		"7" : [
+			[ "atracaré" ],
+			[ "atracarás" ],
+			[ "atracará" ],
+			[ "atracaremos" ],
+			[ "atracaréis", "atracarán" ],
+			[ "atracarán" ]
+		],
+		"8" : [
+			[ "atraque" ],
+			[ "atraques" ],
+			[ "atraque" ],
+			[ "atraquemos" ],
+			[ "atraquéis", "atraquen" ],
+			[ "atraquen" ]
+		],
+		"9" : [
+			[ "atracara" ],
+			[ "atracaras" ],
+			[ "atracara" ],
+			[ "atracáramos" ],
+			[ "atracarais", "atracaran" ],
+			[ "atracaran" ]
+		],
+		"10" : [
+			[ "atracase" ],
+			[ "atracases" ],
+			[ "atracase" ],
+			[ "atracásemos" ],
+			[ "atracaseis", "atracasen" ],
+			[ "atracasen" ]
+		],
+		"11" : [
+			[ "atracare" ],
+			[ "atracares" ],
+			[ "atracare" ],
+			[ "atracáremos" ],
+			[ "atracareis", "atracaren" ],
+			[ "atracaren" ]
+		],
+		"12" : {
+			"1" : [ "atraca" ],
+			"2" : [ "atraque" ],
+			"3" : [ "atraquemos" ],
+			"4" : [ "atracad" ],
+			"5" : [ "atraquen" ]
+		}
+	}
+}

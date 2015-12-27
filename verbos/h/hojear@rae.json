@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hojear",
+	"word" : "hojear",
+	"infinitivo" : "hojear",
+	"participio" : [ "hojeado" ],
+	"gerundio" : [ "hojeando" ],
+	"tenses" : {
+		"3" : [
+			[ "hojeo" ],
+			[ "hojeas", "hojeás" ],
+			[ "hojea" ],
+			[ "hojeamos" ],
+			[ "hojeáis", "hojean" ],
+			[ "hojean" ]
+		],
+		"4" : [
+			[ "hojeé" ],
+			[ "hojeaste" ],
+			[ "hojeó" ],
+			[ "hojeamos" ],
+			[ "hojeasteis", "hojearon" ],
+			[ "hojearon" ]
+		],
+		"5" : [
+			[ "hojeaba" ],
+			[ "hojeabas" ],
+			[ "hojeaba" ],
+			[ "hojeábamos" ],
+			[ "hojeabais", "hojeaban" ],
+			[ "hojeaban" ]
+		],
+		"6" : [
+			[ "hojearía" ],
+			[ "hojearías" ],
+			[ "hojearía" ],
+			[ "hojearíamos" ],
+			[ "hojearíais", "hojearían" ],
+			[ "hojearían" ]
+		],
+		"7" : [
+			[ "hojearé" ],
+			[ "hojearás" ],
+			[ "hojeará" ],
+			[ "hojearemos" ],
+			[ "hojearéis", "hojearán" ],
+			[ "hojearán" ]
+		],
+		"8" : [
+			[ "hojee" ],
+			[ "hojees" ],
+			[ "hojee" ],
+			[ "hojeemos" ],
+			[ "hojeéis", "hojeen" ],
+			[ "hojeen" ]
+		],
+		"9" : [
+			[ "hojeara" ],
+			[ "hojearas" ],
+			[ "hojeara" ],
+			[ "hojeáramos" ],
+			[ "hojearais", "hojearan" ],
+			[ "hojearan" ]
+		],
+		"10" : [
+			[ "hojease" ],
+			[ "hojeases" ],
+			[ "hojease" ],
+			[ "hojeásemos" ],
+			[ "hojeaseis", "hojeasen" ],
+			[ "hojeasen" ]
+		],
+		"11" : [
+			[ "hojeare" ],
+			[ "hojeares" ],
+			[ "hojeare" ],
+			[ "hojeáremos" ],
+			[ "hojeareis", "hojearen" ],
+			[ "hojearen" ]
+		],
+		"12" : {
+			"1" : [ "hojea" ],
+			"2" : [ "hojee" ],
+			"3" : [ "hojeemos" ],
+			"4" : [ "hojead" ],
+			"5" : [ "hojeen" ]
+		}
+	}
+}

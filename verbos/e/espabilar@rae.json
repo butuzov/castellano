@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=espabilar",
+	"word" : "espabilar",
+	"infinitivo" : "espabilar",
+	"participio" : [ "espabilado" ],
+	"gerundio" : [ "espabilando" ],
+	"tenses" : {
+		"3" : [
+			[ "espabilo" ],
+			[ "espabilas", "espabilás" ],
+			[ "espabila" ],
+			[ "espabilamos" ],
+			[ "espabiláis", "espabilan" ],
+			[ "espabilan" ]
+		],
+		"4" : [
+			[ "espabilé" ],
+			[ "espabilaste" ],
+			[ "espabiló" ],
+			[ "espabilamos" ],
+			[ "espabilasteis", "espabilaron" ],
+			[ "espabilaron" ]
+		],
+		"5" : [
+			[ "espabilaba" ],
+			[ "espabilabas" ],
+			[ "espabilaba" ],
+			[ "espabilábamos" ],
+			[ "espabilabais", "espabilaban" ],
+			[ "espabilaban" ]
+		],
+		"6" : [
+			[ "espabilaría" ],
+			[ "espabilarías" ],
+			[ "espabilaría" ],
+			[ "espabilaríamos" ],
+			[ "espabilaríais", "espabilarían" ],
+			[ "espabilarían" ]
+		],
+		"7" : [
+			[ "espabilaré" ],
+			[ "espabilarás" ],
+			[ "espabilará" ],
+			[ "espabilaremos" ],
+			[ "espabilaréis", "espabilarán" ],
+			[ "espabilarán" ]
+		],
+		"8" : [
+			[ "espabile" ],
+			[ "espabiles" ],
+			[ "espabile" ],
+			[ "espabilemos" ],
+			[ "espabiléis", "espabilen" ],
+			[ "espabilen" ]
+		],
+		"9" : [
+			[ "espabilara" ],
+			[ "espabilaras" ],
+			[ "espabilara" ],
+			[ "espabiláramos" ],
+			[ "espabilarais", "espabilaran" ],
+			[ "espabilaran" ]
+		],
+		"10" : [
+			[ "espabilase" ],
+			[ "espabilases" ],
+			[ "espabilase" ],
+			[ "espabilásemos" ],
+			[ "espabilaseis", "espabilasen" ],
+			[ "espabilasen" ]
+		],
+		"11" : [
+			[ "espabilare" ],
+			[ "espabilares" ],
+			[ "espabilare" ],
+			[ "espabiláremos" ],
+			[ "espabilareis", "espabilaren" ],
+			[ "espabilaren" ]
+		],
+		"12" : {
+			"1" : [ "espabila" ],
+			"2" : [ "espabile" ],
+			"3" : [ "espabilemos" ],
+			"4" : [ "espabilad" ],
+			"5" : [ "espabilen" ]
+		}
+	}
+}

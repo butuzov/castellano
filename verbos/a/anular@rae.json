@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anular",
+	"word" : "anular",
+	"infinitivo" : "anular",
+	"participio" : [ "anulado" ],
+	"gerundio" : [ "anulando" ],
+	"tenses" : {
+		"3" : [
+			[ "anulo" ],
+			[ "anulas", "anulás" ],
+			[ "anula" ],
+			[ "anulamos" ],
+			[ "anuláis", "anulan" ],
+			[ "anulan" ]
+		],
+		"4" : [
+			[ "anulé" ],
+			[ "anulaste" ],
+			[ "anuló" ],
+			[ "anulamos" ],
+			[ "anulasteis", "anularon" ],
+			[ "anularon" ]
+		],
+		"5" : [
+			[ "anulaba" ],
+			[ "anulabas" ],
+			[ "anulaba" ],
+			[ "anulábamos" ],
+			[ "anulabais", "anulaban" ],
+			[ "anulaban" ]
+		],
+		"6" : [
+			[ "anularía" ],
+			[ "anularías" ],
+			[ "anularía" ],
+			[ "anularíamos" ],
+			[ "anularíais", "anularían" ],
+			[ "anularían" ]
+		],
+		"7" : [
+			[ "anularé" ],
+			[ "anularás" ],
+			[ "anulará" ],
+			[ "anularemos" ],
+			[ "anularéis", "anularán" ],
+			[ "anularán" ]
+		],
+		"8" : [
+			[ "anule" ],
+			[ "anules" ],
+			[ "anule" ],
+			[ "anulemos" ],
+			[ "anuléis", "anulen" ],
+			[ "anulen" ]
+		],
+		"9" : [
+			[ "anulara" ],
+			[ "anularas" ],
+			[ "anulara" ],
+			[ "anuláramos" ],
+			[ "anularais", "anularan" ],
+			[ "anularan" ]
+		],
+		"10" : [
+			[ "anulase" ],
+			[ "anulases" ],
+			[ "anulase" ],
+			[ "anulásemos" ],
+			[ "anulaseis", "anulasen" ],
+			[ "anulasen" ]
+		],
+		"11" : [
+			[ "anulare" ],
+			[ "anulares" ],
+			[ "anulare" ],
+			[ "anuláremos" ],
+			[ "anulareis", "anularen" ],
+			[ "anularen" ]
+		],
+		"12" : {
+			"1" : [ "anula" ],
+			"2" : [ "anule" ],
+			"3" : [ "anulemos" ],
+			"4" : [ "anulad" ],
+			"5" : [ "anulen" ]
+		}
+	}
+}

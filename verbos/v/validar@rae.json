@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=validar",
+	"word" : "validar",
+	"infinitivo" : "validar",
+	"participio" : [ "validado" ],
+	"gerundio" : [ "validando" ],
+	"tenses" : {
+		"3" : [
+			[ "valido" ],
+			[ "validas", "validás" ],
+			[ "valida" ],
+			[ "validamos" ],
+			[ "validáis", "validan" ],
+			[ "validan" ]
+		],
+		"4" : [
+			[ "validé" ],
+			[ "validaste" ],
+			[ "validó" ],
+			[ "validamos" ],
+			[ "validasteis", "validaron" ],
+			[ "validaron" ]
+		],
+		"5" : [
+			[ "validaba" ],
+			[ "validabas" ],
+			[ "validaba" ],
+			[ "validábamos" ],
+			[ "validabais", "validaban" ],
+			[ "validaban" ]
+		],
+		"6" : [
+			[ "validaría" ],
+			[ "validarías" ],
+			[ "validaría" ],
+			[ "validaríamos" ],
+			[ "validaríais", "validarían" ],
+			[ "validarían" ]
+		],
+		"7" : [
+			[ "validaré" ],
+			[ "validarás" ],
+			[ "validará" ],
+			[ "validaremos" ],
+			[ "validaréis", "validarán" ],
+			[ "validarán" ]
+		],
+		"8" : [
+			[ "valide" ],
+			[ "valides" ],
+			[ "valide" ],
+			[ "validemos" ],
+			[ "validéis", "validen" ],
+			[ "validen" ]
+		],
+		"9" : [
+			[ "validara" ],
+			[ "validaras" ],
+			[ "validara" ],
+			[ "validáramos" ],
+			[ "validarais", "validaran" ],
+			[ "validaran" ]
+		],
+		"10" : [
+			[ "validase" ],
+			[ "validases" ],
+			[ "validase" ],
+			[ "validásemos" ],
+			[ "validaseis", "validasen" ],
+			[ "validasen" ]
+		],
+		"11" : [
+			[ "validare" ],
+			[ "validares" ],
+			[ "validare" ],
+			[ "validáremos" ],
+			[ "validareis", "validaren" ],
+			[ "validaren" ]
+		],
+		"12" : {
+			"1" : [ "valida" ],
+			"2" : [ "valide" ],
+			"3" : [ "validemos" ],
+			"4" : [ "validad" ],
+			"5" : [ "validen" ]
+		}
+	}
+}

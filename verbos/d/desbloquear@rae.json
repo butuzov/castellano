@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desbloquear",
+	"word" : "desbloquear",
+	"infinitivo" : "desbloquear",
+	"participio" : [ "desbloqueado" ],
+	"gerundio" : [ "desbloqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "desbloqueo" ],
+			[ "desbloqueas", "desbloqueás" ],
+			[ "desbloquea" ],
+			[ "desbloqueamos" ],
+			[ "desbloqueáis", "desbloquean" ],
+			[ "desbloquean" ]
+		],
+		"4" : [
+			[ "desbloqueé" ],
+			[ "desbloqueaste" ],
+			[ "desbloqueó" ],
+			[ "desbloqueamos" ],
+			[ "desbloqueasteis", "desbloquearon" ],
+			[ "desbloquearon" ]
+		],
+		"5" : [
+			[ "desbloqueaba" ],
+			[ "desbloqueabas" ],
+			[ "desbloqueaba" ],
+			[ "desbloqueábamos" ],
+			[ "desbloqueabais", "desbloqueaban" ],
+			[ "desbloqueaban" ]
+		],
+		"6" : [
+			[ "desbloquearía" ],
+			[ "desbloquearías" ],
+			[ "desbloquearía" ],
+			[ "desbloquearíamos" ],
+			[ "desbloquearíais", "desbloquearían" ],
+			[ "desbloquearían" ]
+		],
+		"7" : [
+			[ "desbloquearé" ],
+			[ "desbloquearás" ],
+			[ "desbloqueará" ],
+			[ "desbloquearemos" ],
+			[ "desbloquearéis", "desbloquearán" ],
+			[ "desbloquearán" ]
+		],
+		"8" : [
+			[ "desbloquee" ],
+			[ "desbloquees" ],
+			[ "desbloquee" ],
+			[ "desbloqueemos" ],
+			[ "desbloqueéis", "desbloqueen" ],
+			[ "desbloqueen" ]
+		],
+		"9" : [
+			[ "desbloqueara" ],
+			[ "desbloquearas" ],
+			[ "desbloqueara" ],
+			[ "desbloqueáramos" ],
+			[ "desbloquearais", "desbloquearan" ],
+			[ "desbloquearan" ]
+		],
+		"10" : [
+			[ "desbloquease" ],
+			[ "desbloqueases" ],
+			[ "desbloquease" ],
+			[ "desbloqueásemos" ],
+			[ "desbloqueaseis", "desbloqueasen" ],
+			[ "desbloqueasen" ]
+		],
+		"11" : [
+			[ "desbloqueare" ],
+			[ "desbloqueares" ],
+			[ "desbloqueare" ],
+			[ "desbloqueáremos" ],
+			[ "desbloqueareis", "desbloquearen" ],
+			[ "desbloquearen" ]
+		],
+		"12" : {
+			"1" : [ "desbloquea" ],
+			"2" : [ "desbloquee" ],
+			"3" : [ "desbloqueemos" ],
+			"4" : [ "desbloquead" ],
+			"5" : [ "desbloqueen" ]
+		}
+	}
+}

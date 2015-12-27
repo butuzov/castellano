@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fusilar",
+	"word" : "fusilar",
+	"infinitivo" : "fusilar",
+	"participio" : [ "fusilado" ],
+	"gerundio" : [ "fusilando" ],
+	"tenses" : {
+		"3" : [
+			[ "fusilo" ],
+			[ "fusilas", "fusilás" ],
+			[ "fusila" ],
+			[ "fusilamos" ],
+			[ "fusiláis", "fusilan" ],
+			[ "fusilan" ]
+		],
+		"4" : [
+			[ "fusilé" ],
+			[ "fusilaste" ],
+			[ "fusiló" ],
+			[ "fusilamos" ],
+			[ "fusilasteis", "fusilaron" ],
+			[ "fusilaron" ]
+		],
+		"5" : [
+			[ "fusilaba" ],
+			[ "fusilabas" ],
+			[ "fusilaba" ],
+			[ "fusilábamos" ],
+			[ "fusilabais", "fusilaban" ],
+			[ "fusilaban" ]
+		],
+		"6" : [
+			[ "fusilaría" ],
+			[ "fusilarías" ],
+			[ "fusilaría" ],
+			[ "fusilaríamos" ],
+			[ "fusilaríais", "fusilarían" ],
+			[ "fusilarían" ]
+		],
+		"7" : [
+			[ "fusilaré" ],
+			[ "fusilarás" ],
+			[ "fusilará" ],
+			[ "fusilaremos" ],
+			[ "fusilaréis", "fusilarán" ],
+			[ "fusilarán" ]
+		],
+		"8" : [
+			[ "fusile" ],
+			[ "fusiles" ],
+			[ "fusile" ],
+			[ "fusilemos" ],
+			[ "fusiléis", "fusilen" ],
+			[ "fusilen" ]
+		],
+		"9" : [
+			[ "fusilara" ],
+			[ "fusilaras" ],
+			[ "fusilara" ],
+			[ "fusiláramos" ],
+			[ "fusilarais", "fusilaran" ],
+			[ "fusilaran" ]
+		],
+		"10" : [
+			[ "fusilase" ],
+			[ "fusilases" ],
+			[ "fusilase" ],
+			[ "fusilásemos" ],
+			[ "fusilaseis", "fusilasen" ],
+			[ "fusilasen" ]
+		],
+		"11" : [
+			[ "fusilare" ],
+			[ "fusilares" ],
+			[ "fusilare" ],
+			[ "fusiláremos" ],
+			[ "fusilareis", "fusilaren" ],
+			[ "fusilaren" ]
+		],
+		"12" : {
+			"1" : [ "fusila" ],
+			"2" : [ "fusile" ],
+			"3" : [ "fusilemos" ],
+			"4" : [ "fusilad" ],
+			"5" : [ "fusilen" ]
+		}
+	}
+}

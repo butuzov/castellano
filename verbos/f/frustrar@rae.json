@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=frustrar",
+	"word" : "frustrar",
+	"infinitivo" : "frustrar",
+	"participio" : [ "frustrado" ],
+	"gerundio" : [ "frustrando" ],
+	"tenses" : {
+		"3" : [
+			[ "frustro" ],
+			[ "frustras", "frustrás" ],
+			[ "frustra" ],
+			[ "frustramos" ],
+			[ "frustráis", "frustran" ],
+			[ "frustran" ]
+		],
+		"4" : [
+			[ "frustré" ],
+			[ "frustraste" ],
+			[ "frustró" ],
+			[ "frustramos" ],
+			[ "frustrasteis", "frustraron" ],
+			[ "frustraron" ]
+		],
+		"5" : [
+			[ "frustraba" ],
+			[ "frustrabas" ],
+			[ "frustraba" ],
+			[ "frustrábamos" ],
+			[ "frustrabais", "frustraban" ],
+			[ "frustraban" ]
+		],
+		"6" : [
+			[ "frustraría" ],
+			[ "frustrarías" ],
+			[ "frustraría" ],
+			[ "frustraríamos" ],
+			[ "frustraríais", "frustrarían" ],
+			[ "frustrarían" ]
+		],
+		"7" : [
+			[ "frustraré" ],
+			[ "frustrarás" ],
+			[ "frustrará" ],
+			[ "frustraremos" ],
+			[ "frustraréis", "frustrarán" ],
+			[ "frustrarán" ]
+		],
+		"8" : [
+			[ "frustre" ],
+			[ "frustres" ],
+			[ "frustre" ],
+			[ "frustremos" ],
+			[ "frustréis", "frustren" ],
+			[ "frustren" ]
+		],
+		"9" : [
+			[ "frustrara" ],
+			[ "frustraras" ],
+			[ "frustrara" ],
+			[ "frustráramos" ],
+			[ "frustrarais", "frustraran" ],
+			[ "frustraran" ]
+		],
+		"10" : [
+			[ "frustrase" ],
+			[ "frustrases" ],
+			[ "frustrase" ],
+			[ "frustrásemos" ],
+			[ "frustraseis", "frustrasen" ],
+			[ "frustrasen" ]
+		],
+		"11" : [
+			[ "frustrare" ],
+			[ "frustrares" ],
+			[ "frustrare" ],
+			[ "frustráremos" ],
+			[ "frustrareis", "frustraren" ],
+			[ "frustraren" ]
+		],
+		"12" : {
+			"1" : [ "frustra" ],
+			"2" : [ "frustre" ],
+			"3" : [ "frustremos" ],
+			"4" : [ "frustrad" ],
+			"5" : [ "frustren" ]
+		}
+	}
+}

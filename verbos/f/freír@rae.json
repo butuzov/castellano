@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=freír",
+	"word" : "freír",
+	"infinitivo" : "freír",
+	"participio" : [ "freído", "frito" ],
+	"gerundio" : [ "friendo" ],
+	"tenses" : {
+		"3" : [
+			[ "frío" ],
+			[ "fríes", "freís" ],
+			[ "fríe" ],
+			[ "freímos" ],
+			[ "freís", "fríen" ],
+			[ "fríen" ]
+		],
+		"4" : [
+			[ "freí" ],
+			[ "freíste" ],
+			[ "frio" ],
+			[ "freímos" ],
+			[ "freísteis", "frieron" ],
+			[ "frieron" ]
+		],
+		"5" : [
+			[ "freía" ],
+			[ "freías" ],
+			[ "freía" ],
+			[ "freíamos" ],
+			[ "freíais", "freían" ],
+			[ "freían" ]
+		],
+		"6" : [
+			[ "freiría" ],
+			[ "freirías" ],
+			[ "freiría" ],
+			[ "freiríamos" ],
+			[ "freiríais", "freirían" ],
+			[ "freirían" ]
+		],
+		"7" : [
+			[ "freiré" ],
+			[ "freirás" ],
+			[ "freirá" ],
+			[ "freiremos" ],
+			[ "freiréis", "freirán" ],
+			[ "freirán" ]
+		],
+		"8" : [
+			[ "fría" ],
+			[ "frías" ],
+			[ "fría" ],
+			[ "friamos" ],
+			[ "friais", "frían" ],
+			[ "frían" ]
+		],
+		"9" : [
+			[ "friera" ],
+			[ "frieras" ],
+			[ "friera" ],
+			[ "friéramos" ],
+			[ "frierais", "frieran" ],
+			[ "frieran" ]
+		],
+		"10" : [
+			[ "friese" ],
+			[ "frieses" ],
+			[ "friese" ],
+			[ "friésemos" ],
+			[ "frieseis", "friesen" ],
+			[ "friesen" ]
+		],
+		"11" : [
+			[ "friere" ],
+			[ "frieres" ],
+			[ "friere" ],
+			[ "friéremos" ],
+			[ "friereis", "frieren" ],
+			[ "frieren" ]
+		],
+		"12" : {
+			"1" : [ "fríe" ],
+			"2" : [ "fría" ],
+			"3" : [ "friamos" ],
+			"4" : [ "freíd" ],
+			"5" : [ "frían" ]
+		}
+	}
+}

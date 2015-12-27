@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aducir",
+	"word" : "aducir",
+	"infinitivo" : "aducir",
+	"participio" : [ "aducido" ],
+	"gerundio" : [ "aduciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aduzco" ],
+			[ "aduces", "aducís" ],
+			[ "aduce" ],
+			[ "aducimos" ],
+			[ "aducís", "aducen" ],
+			[ "aducen" ]
+		],
+		"4" : [
+			[ "aduje" ],
+			[ "adujiste" ],
+			[ "adujo" ],
+			[ "adujimos" ],
+			[ "adujisteis", "adujeron" ],
+			[ "adujeron" ]
+		],
+		"5" : [
+			[ "aducía" ],
+			[ "aducías" ],
+			[ "aducía" ],
+			[ "aducíamos" ],
+			[ "aducíais", "aducían" ],
+			[ "aducían" ]
+		],
+		"6" : [
+			[ "aduciría" ],
+			[ "aducirías" ],
+			[ "aduciría" ],
+			[ "aduciríamos" ],
+			[ "aduciríais", "aducirían" ],
+			[ "aducirían" ]
+		],
+		"7" : [
+			[ "aduciré" ],
+			[ "aducirás" ],
+			[ "aducirá" ],
+			[ "aduciremos" ],
+			[ "aduciréis", "aducirán" ],
+			[ "aducirán" ]
+		],
+		"8" : [
+			[ "aduzca" ],
+			[ "aduzcas" ],
+			[ "aduzca" ],
+			[ "aduzcamos" ],
+			[ "aduzcáis", "aduzcan" ],
+			[ "aduzcan" ]
+		],
+		"9" : [
+			[ "adujera" ],
+			[ "adujeras" ],
+			[ "adujera" ],
+			[ "adujéramos" ],
+			[ "adujerais", "adujeran" ],
+			[ "adujeran" ]
+		],
+		"10" : [
+			[ "adujese" ],
+			[ "adujeses" ],
+			[ "adujese" ],
+			[ "adujésemos" ],
+			[ "adujeseis", "adujesen" ],
+			[ "adujesen" ]
+		],
+		"11" : [
+			[ "adujere" ],
+			[ "adujeres" ],
+			[ "adujere" ],
+			[ "adujéremos" ],
+			[ "adujereis", "adujeren" ],
+			[ "adujeren" ]
+		],
+		"12" : {
+			"1" : [ "aduce" ],
+			"2" : [ "aduzca" ],
+			"3" : [ "aduzcamos" ],
+			"4" : [ "aducid" ],
+			"5" : [ "aduzcan" ]
+		}
+	}
+}

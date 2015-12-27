@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cuajar",
+	"word" : "cuajar",
+	"infinitivo" : "cuajar",
+	"participio" : [ "cuajado" ],
+	"gerundio" : [ "cuajando" ],
+	"tenses" : {
+		"3" : [
+			[ "cuajo" ],
+			[ "cuajas", "cuajás" ],
+			[ "cuaja" ],
+			[ "cuajamos" ],
+			[ "cuajáis", "cuajan" ],
+			[ "cuajan" ]
+		],
+		"4" : [
+			[ "cuajé" ],
+			[ "cuajaste" ],
+			[ "cuajó" ],
+			[ "cuajamos" ],
+			[ "cuajasteis", "cuajaron" ],
+			[ "cuajaron" ]
+		],
+		"5" : [
+			[ "cuajaba" ],
+			[ "cuajabas" ],
+			[ "cuajaba" ],
+			[ "cuajábamos" ],
+			[ "cuajabais", "cuajaban" ],
+			[ "cuajaban" ]
+		],
+		"6" : [
+			[ "cuajaría" ],
+			[ "cuajarías" ],
+			[ "cuajaría" ],
+			[ "cuajaríamos" ],
+			[ "cuajaríais", "cuajarían" ],
+			[ "cuajarían" ]
+		],
+		"7" : [
+			[ "cuajaré" ],
+			[ "cuajarás" ],
+			[ "cuajará" ],
+			[ "cuajaremos" ],
+			[ "cuajaréis", "cuajarán" ],
+			[ "cuajarán" ]
+		],
+		"8" : [
+			[ "cuaje" ],
+			[ "cuajes" ],
+			[ "cuaje" ],
+			[ "cuajemos" ],
+			[ "cuajéis", "cuajen" ],
+			[ "cuajen" ]
+		],
+		"9" : [
+			[ "cuajara" ],
+			[ "cuajaras" ],
+			[ "cuajara" ],
+			[ "cuajáramos" ],
+			[ "cuajarais", "cuajaran" ],
+			[ "cuajaran" ]
+		],
+		"10" : [
+			[ "cuajase" ],
+			[ "cuajases" ],
+			[ "cuajase" ],
+			[ "cuajásemos" ],
+			[ "cuajaseis", "cuajasen" ],
+			[ "cuajasen" ]
+		],
+		"11" : [
+			[ "cuajare" ],
+			[ "cuajares" ],
+			[ "cuajare" ],
+			[ "cuajáremos" ],
+			[ "cuajareis", "cuajaren" ],
+			[ "cuajaren" ]
+		],
+		"12" : {
+			"1" : [ "cuaja" ],
+			"2" : [ "cuaje" ],
+			"3" : [ "cuajemos" ],
+			"4" : [ "cuajad" ],
+			"5" : [ "cuajen" ]
+		}
+	}
+}

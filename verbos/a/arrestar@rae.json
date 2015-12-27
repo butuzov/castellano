@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrestar",
+	"word" : "arrestar",
+	"infinitivo" : "arrestar",
+	"participio" : [ "arrestado" ],
+	"gerundio" : [ "arrestando" ],
+	"tenses" : {
+		"3" : [
+			[ "arresto" ],
+			[ "arrestas", "arrestás" ],
+			[ "arresta" ],
+			[ "arrestamos" ],
+			[ "arrestáis", "arrestan" ],
+			[ "arrestan" ]
+		],
+		"4" : [
+			[ "arresté" ],
+			[ "arrestaste" ],
+			[ "arrestó" ],
+			[ "arrestamos" ],
+			[ "arrestasteis", "arrestaron" ],
+			[ "arrestaron" ]
+		],
+		"5" : [
+			[ "arrestaba" ],
+			[ "arrestabas" ],
+			[ "arrestaba" ],
+			[ "arrestábamos" ],
+			[ "arrestabais", "arrestaban" ],
+			[ "arrestaban" ]
+		],
+		"6" : [
+			[ "arrestaría" ],
+			[ "arrestarías" ],
+			[ "arrestaría" ],
+			[ "arrestaríamos" ],
+			[ "arrestaríais", "arrestarían" ],
+			[ "arrestarían" ]
+		],
+		"7" : [
+			[ "arrestaré" ],
+			[ "arrestarás" ],
+			[ "arrestará" ],
+			[ "arrestaremos" ],
+			[ "arrestaréis", "arrestarán" ],
+			[ "arrestarán" ]
+		],
+		"8" : [
+			[ "arreste" ],
+			[ "arrestes" ],
+			[ "arreste" ],
+			[ "arrestemos" ],
+			[ "arrestéis", "arresten" ],
+			[ "arresten" ]
+		],
+		"9" : [
+			[ "arrestara" ],
+			[ "arrestaras" ],
+			[ "arrestara" ],
+			[ "arrestáramos" ],
+			[ "arrestarais", "arrestaran" ],
+			[ "arrestaran" ]
+		],
+		"10" : [
+			[ "arrestase" ],
+			[ "arrestases" ],
+			[ "arrestase" ],
+			[ "arrestásemos" ],
+			[ "arrestaseis", "arrestasen" ],
+			[ "arrestasen" ]
+		],
+		"11" : [
+			[ "arrestare" ],
+			[ "arrestares" ],
+			[ "arrestare" ],
+			[ "arrestáremos" ],
+			[ "arrestareis", "arrestaren" ],
+			[ "arrestaren" ]
+		],
+		"12" : {
+			"1" : [ "arresta" ],
+			"2" : [ "arreste" ],
+			"3" : [ "arrestemos" ],
+			"4" : [ "arrestad" ],
+			"5" : [ "arresten" ]
+		}
+	}
+}

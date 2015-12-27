@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escocer",
+	"word" : "escocer",
+	"infinitivo" : "escocer",
+	"participio" : [ "escocido" ],
+	"gerundio" : [ "escociendo" ],
+	"tenses" : {
+		"3" : [
+			[ "escuezo" ],
+			[ "escueces", "escocés" ],
+			[ "escuece" ],
+			[ "escocemos" ],
+			[ "escocéis", "escuecen" ],
+			[ "escuecen" ]
+		],
+		"4" : [
+			[ "escocí" ],
+			[ "escociste" ],
+			[ "escoció" ],
+			[ "escocimos" ],
+			[ "escocisteis", "escocieron" ],
+			[ "escocieron" ]
+		],
+		"5" : [
+			[ "escocía" ],
+			[ "escocías" ],
+			[ "escocía" ],
+			[ "escocíamos" ],
+			[ "escocíais", "escocían" ],
+			[ "escocían" ]
+		],
+		"6" : [
+			[ "escocería" ],
+			[ "escocerías" ],
+			[ "escocería" ],
+			[ "escoceríamos" ],
+			[ "escoceríais", "escocerían" ],
+			[ "escocerían" ]
+		],
+		"7" : [
+			[ "escoceré" ],
+			[ "escocerás" ],
+			[ "escocerá" ],
+			[ "escoceremos" ],
+			[ "escoceréis", "escocerán" ],
+			[ "escocerán" ]
+		],
+		"8" : [
+			[ "escueza" ],
+			[ "escuezas" ],
+			[ "escueza" ],
+			[ "escozamos" ],
+			[ "escozáis", "escuezan" ],
+			[ "escuezan" ]
+		],
+		"9" : [
+			[ "escociera" ],
+			[ "escocieras" ],
+			[ "escociera" ],
+			[ "escociéramos" ],
+			[ "escocierais", "escocieran" ],
+			[ "escocieran" ]
+		],
+		"10" : [
+			[ "escociese" ],
+			[ "escocieses" ],
+			[ "escociese" ],
+			[ "escociésemos" ],
+			[ "escocieseis", "escociesen" ],
+			[ "escociesen" ]
+		],
+		"11" : [
+			[ "escociere" ],
+			[ "escocieres" ],
+			[ "escociere" ],
+			[ "escociéremos" ],
+			[ "escociereis", "escocieren" ],
+			[ "escocieren" ]
+		],
+		"12" : {
+			"1" : [ "escuece" ],
+			"2" : [ "escueza" ],
+			"3" : [ "escozamos" ],
+			"4" : [ "escoced" ],
+			"5" : [ "escuezan" ]
+		}
+	}
+}

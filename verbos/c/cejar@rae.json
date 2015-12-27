@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cejar",
+	"word" : "cejar",
+	"infinitivo" : "cejar",
+	"participio" : [ "cejado" ],
+	"gerundio" : [ "cejando" ],
+	"tenses" : {
+		"3" : [
+			[ "cejo" ],
+			[ "cejas", "cejás" ],
+			[ "ceja" ],
+			[ "cejamos" ],
+			[ "cejáis", "cejan" ],
+			[ "cejan" ]
+		],
+		"4" : [
+			[ "cejé" ],
+			[ "cejaste" ],
+			[ "cejó" ],
+			[ "cejamos" ],
+			[ "cejasteis", "cejaron" ],
+			[ "cejaron" ]
+		],
+		"5" : [
+			[ "cejaba" ],
+			[ "cejabas" ],
+			[ "cejaba" ],
+			[ "cejábamos" ],
+			[ "cejabais", "cejaban" ],
+			[ "cejaban" ]
+		],
+		"6" : [
+			[ "cejaría" ],
+			[ "cejarías" ],
+			[ "cejaría" ],
+			[ "cejaríamos" ],
+			[ "cejaríais", "cejarían" ],
+			[ "cejarían" ]
+		],
+		"7" : [
+			[ "cejaré" ],
+			[ "cejarás" ],
+			[ "cejará" ],
+			[ "cejaremos" ],
+			[ "cejaréis", "cejarán" ],
+			[ "cejarán" ]
+		],
+		"8" : [
+			[ "ceje" ],
+			[ "cejes" ],
+			[ "ceje" ],
+			[ "cejemos" ],
+			[ "cejéis", "cejen" ],
+			[ "cejen" ]
+		],
+		"9" : [
+			[ "cejara" ],
+			[ "cejaras" ],
+			[ "cejara" ],
+			[ "cejáramos" ],
+			[ "cejarais", "cejaran" ],
+			[ "cejaran" ]
+		],
+		"10" : [
+			[ "cejase" ],
+			[ "cejases" ],
+			[ "cejase" ],
+			[ "cejásemos" ],
+			[ "cejaseis", "cejasen" ],
+			[ "cejasen" ]
+		],
+		"11" : [
+			[ "cejare" ],
+			[ "cejares" ],
+			[ "cejare" ],
+			[ "cejáremos" ],
+			[ "cejareis", "cejaren" ],
+			[ "cejaren" ]
+		],
+		"12" : {
+			"1" : [ "ceja" ],
+			"2" : [ "ceje" ],
+			"3" : [ "cejemos" ],
+			"4" : [ "cejad" ],
+			"5" : [ "cejen" ]
+		}
+	}
+}

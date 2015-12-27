@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cazar",
+	"word" : "cazar",
+	"infinitivo" : "cazar",
+	"participio" : [ "cazado" ],
+	"gerundio" : [ "cazando" ],
+	"tenses" : {
+		"3" : [
+			[ "cazo" ],
+			[ "cazas", "cazás" ],
+			[ "caza" ],
+			[ "cazamos" ],
+			[ "cazáis", "cazan" ],
+			[ "cazan" ]
+		],
+		"4" : [
+			[ "cacé" ],
+			[ "cazaste" ],
+			[ "cazó" ],
+			[ "cazamos" ],
+			[ "cazasteis", "cazaron" ],
+			[ "cazaron" ]
+		],
+		"5" : [
+			[ "cazaba" ],
+			[ "cazabas" ],
+			[ "cazaba" ],
+			[ "cazábamos" ],
+			[ "cazabais", "cazaban" ],
+			[ "cazaban" ]
+		],
+		"6" : [
+			[ "cazaría" ],
+			[ "cazarías" ],
+			[ "cazaría" ],
+			[ "cazaríamos" ],
+			[ "cazaríais", "cazarían" ],
+			[ "cazarían" ]
+		],
+		"7" : [
+			[ "cazaré" ],
+			[ "cazarás" ],
+			[ "cazará" ],
+			[ "cazaremos" ],
+			[ "cazaréis", "cazarán" ],
+			[ "cazarán" ]
+		],
+		"8" : [
+			[ "cace" ],
+			[ "caces" ],
+			[ "cace" ],
+			[ "cacemos" ],
+			[ "cacéis", "cacen" ],
+			[ "cacen" ]
+		],
+		"9" : [
+			[ "cazara" ],
+			[ "cazaras" ],
+			[ "cazara" ],
+			[ "cazáramos" ],
+			[ "cazarais", "cazaran" ],
+			[ "cazaran" ]
+		],
+		"10" : [
+			[ "cazase" ],
+			[ "cazases" ],
+			[ "cazase" ],
+			[ "cazásemos" ],
+			[ "cazaseis", "cazasen" ],
+			[ "cazasen" ]
+		],
+		"11" : [
+			[ "cazare" ],
+			[ "cazares" ],
+			[ "cazare" ],
+			[ "cazáremos" ],
+			[ "cazareis", "cazaren" ],
+			[ "cazaren" ]
+		],
+		"12" : {
+			"1" : [ "caza" ],
+			"2" : [ "cace" ],
+			"3" : [ "cacemos" ],
+			"4" : [ "cazad" ],
+			"5" : [ "cacen" ]
+		}
+	}
+}

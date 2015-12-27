@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=malherir",
+	"word" : "malherir",
+	"infinitivo" : "malherir",
+	"participio" : [ "malherido" ],
+	"gerundio" : [ "malhiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "malhiero" ],
+			[ "malhieres", "malherís" ],
+			[ "malhiere" ],
+			[ "malherimos" ],
+			[ "malherís", "malhieren" ],
+			[ "malhieren" ]
+		],
+		"4" : [
+			[ "malherí" ],
+			[ "malheriste" ],
+			[ "malhirió" ],
+			[ "malherimos" ],
+			[ "malheristeis", "malhirieron" ],
+			[ "malhirieron" ]
+		],
+		"5" : [
+			[ "malhería" ],
+			[ "malherías" ],
+			[ "malhería" ],
+			[ "malheríamos" ],
+			[ "malheríais", "malherían" ],
+			[ "malherían" ]
+		],
+		"6" : [
+			[ "malheriría" ],
+			[ "malherirías" ],
+			[ "malheriría" ],
+			[ "malheriríamos" ],
+			[ "malheriríais", "malherirían" ],
+			[ "malherirían" ]
+		],
+		"7" : [
+			[ "malheriré" ],
+			[ "malherirás" ],
+			[ "malherirá" ],
+			[ "malheriremos" ],
+			[ "malheriréis", "malherirán" ],
+			[ "malherirán" ]
+		],
+		"8" : [
+			[ "malhiera" ],
+			[ "malhieras" ],
+			[ "malhiera" ],
+			[ "malhiramos" ],
+			[ "malhiráis", "malhieran" ],
+			[ "malhieran" ]
+		],
+		"9" : [
+			[ "malhiriera" ],
+			[ "malhirieras" ],
+			[ "malhiriera" ],
+			[ "malhiriéramos" ],
+			[ "malhirierais", "malhirieran" ],
+			[ "malhirieran" ]
+		],
+		"10" : [
+			[ "malhiriese" ],
+			[ "malhirieses" ],
+			[ "malhiriese" ],
+			[ "malhiriésemos" ],
+			[ "malhirieseis", "malhiriesen" ],
+			[ "malhiriesen" ]
+		],
+		"11" : [
+			[ "malhiriere" ],
+			[ "malhirieres" ],
+			[ "malhiriere" ],
+			[ "malhiriéremos" ],
+			[ "malhiriereis", "malhirieren" ],
+			[ "malhirieren" ]
+		],
+		"12" : {
+			"1" : [ "malhiere" ],
+			"2" : [ "malhiera" ],
+			"3" : [ "malhiramos" ],
+			"4" : [ "malherid" ],
+			"5" : [ "malhieran" ]
+		}
+	}
+}

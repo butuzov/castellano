@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esperanzar",
+	"word" : "esperanzar",
+	"infinitivo" : "esperanzar",
+	"participio" : [ "esperanzado" ],
+	"gerundio" : [ "esperanzando" ],
+	"tenses" : {
+		"3" : [
+			[ "esperanzo" ],
+			[ "esperanzas", "esperanzás" ],
+			[ "esperanza" ],
+			[ "esperanzamos" ],
+			[ "esperanzáis", "esperanzan" ],
+			[ "esperanzan" ]
+		],
+		"4" : [
+			[ "esperancé" ],
+			[ "esperanzaste" ],
+			[ "esperanzó" ],
+			[ "esperanzamos" ],
+			[ "esperanzasteis", "esperanzaron" ],
+			[ "esperanzaron" ]
+		],
+		"5" : [
+			[ "esperanzaba" ],
+			[ "esperanzabas" ],
+			[ "esperanzaba" ],
+			[ "esperanzábamos" ],
+			[ "esperanzabais", "esperanzaban" ],
+			[ "esperanzaban" ]
+		],
+		"6" : [
+			[ "esperanzaría" ],
+			[ "esperanzarías" ],
+			[ "esperanzaría" ],
+			[ "esperanzaríamos" ],
+			[ "esperanzaríais", "esperanzarían" ],
+			[ "esperanzarían" ]
+		],
+		"7" : [
+			[ "esperanzaré" ],
+			[ "esperanzarás" ],
+			[ "esperanzará" ],
+			[ "esperanzaremos" ],
+			[ "esperanzaréis", "esperanzarán" ],
+			[ "esperanzarán" ]
+		],
+		"8" : [
+			[ "esperance" ],
+			[ "esperances" ],
+			[ "esperance" ],
+			[ "esperancemos" ],
+			[ "esperancéis", "esperancen" ],
+			[ "esperancen" ]
+		],
+		"9" : [
+			[ "esperanzara" ],
+			[ "esperanzaras" ],
+			[ "esperanzara" ],
+			[ "esperanzáramos" ],
+			[ "esperanzarais", "esperanzaran" ],
+			[ "esperanzaran" ]
+		],
+		"10" : [
+			[ "esperanzase" ],
+			[ "esperanzases" ],
+			[ "esperanzase" ],
+			[ "esperanzásemos" ],
+			[ "esperanzaseis", "esperanzasen" ],
+			[ "esperanzasen" ]
+		],
+		"11" : [
+			[ "esperanzare" ],
+			[ "esperanzares" ],
+			[ "esperanzare" ],
+			[ "esperanzáremos" ],
+			[ "esperanzareis", "esperanzaren" ],
+			[ "esperanzaren" ]
+		],
+		"12" : {
+			"1" : [ "esperanza" ],
+			"2" : [ "esperance" ],
+			"3" : [ "esperancemos" ],
+			"4" : [ "esperanzad" ],
+			"5" : [ "esperancen" ]
+		}
+	}
+}

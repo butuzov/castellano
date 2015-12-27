@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embrollar",
+	"word" : "embrollar",
+	"infinitivo" : "embrollar",
+	"participio" : [ "embrollado" ],
+	"gerundio" : [ "embrollando" ],
+	"tenses" : {
+		"3" : [
+			[ "embrollo" ],
+			[ "embrollas", "embrollás" ],
+			[ "embrolla" ],
+			[ "embrollamos" ],
+			[ "embrolláis", "embrollan" ],
+			[ "embrollan" ]
+		],
+		"4" : [
+			[ "embrollé" ],
+			[ "embrollaste" ],
+			[ "embrolló" ],
+			[ "embrollamos" ],
+			[ "embrollasteis", "embrollaron" ],
+			[ "embrollaron" ]
+		],
+		"5" : [
+			[ "embrollaba" ],
+			[ "embrollabas" ],
+			[ "embrollaba" ],
+			[ "embrollábamos" ],
+			[ "embrollabais", "embrollaban" ],
+			[ "embrollaban" ]
+		],
+		"6" : [
+			[ "embrollaría" ],
+			[ "embrollarías" ],
+			[ "embrollaría" ],
+			[ "embrollaríamos" ],
+			[ "embrollaríais", "embrollarían" ],
+			[ "embrollarían" ]
+		],
+		"7" : [
+			[ "embrollaré" ],
+			[ "embrollarás" ],
+			[ "embrollará" ],
+			[ "embrollaremos" ],
+			[ "embrollaréis", "embrollarán" ],
+			[ "embrollarán" ]
+		],
+		"8" : [
+			[ "embrolle" ],
+			[ "embrolles" ],
+			[ "embrolle" ],
+			[ "embrollemos" ],
+			[ "embrolléis", "embrollen" ],
+			[ "embrollen" ]
+		],
+		"9" : [
+			[ "embrollara" ],
+			[ "embrollaras" ],
+			[ "embrollara" ],
+			[ "embrolláramos" ],
+			[ "embrollarais", "embrollaran" ],
+			[ "embrollaran" ]
+		],
+		"10" : [
+			[ "embrollase" ],
+			[ "embrollases" ],
+			[ "embrollase" ],
+			[ "embrollásemos" ],
+			[ "embrollaseis", "embrollasen" ],
+			[ "embrollasen" ]
+		],
+		"11" : [
+			[ "embrollare" ],
+			[ "embrollares" ],
+			[ "embrollare" ],
+			[ "embrolláremos" ],
+			[ "embrollareis", "embrollaren" ],
+			[ "embrollaren" ]
+		],
+		"12" : {
+			"1" : [ "embrolla" ],
+			"2" : [ "embrolle" ],
+			"3" : [ "embrollemos" ],
+			"4" : [ "embrollad" ],
+			"5" : [ "embrollen" ]
+		}
+	}
+}

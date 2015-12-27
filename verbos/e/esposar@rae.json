@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esposar",
+	"word" : "esposar",
+	"infinitivo" : "esposar",
+	"participio" : [ "esposado" ],
+	"gerundio" : [ "esposando" ],
+	"tenses" : {
+		"3" : [
+			[ "esposo" ],
+			[ "esposas", "esposás" ],
+			[ "esposa" ],
+			[ "esposamos" ],
+			[ "esposáis", "esposan" ],
+			[ "esposan" ]
+		],
+		"4" : [
+			[ "esposé" ],
+			[ "esposaste" ],
+			[ "esposó" ],
+			[ "esposamos" ],
+			[ "esposasteis", "esposaron" ],
+			[ "esposaron" ]
+		],
+		"5" : [
+			[ "esposaba" ],
+			[ "esposabas" ],
+			[ "esposaba" ],
+			[ "esposábamos" ],
+			[ "esposabais", "esposaban" ],
+			[ "esposaban" ]
+		],
+		"6" : [
+			[ "esposaría" ],
+			[ "esposarías" ],
+			[ "esposaría" ],
+			[ "esposaríamos" ],
+			[ "esposaríais", "esposarían" ],
+			[ "esposarían" ]
+		],
+		"7" : [
+			[ "esposaré" ],
+			[ "esposarás" ],
+			[ "esposará" ],
+			[ "esposaremos" ],
+			[ "esposaréis", "esposarán" ],
+			[ "esposarán" ]
+		],
+		"8" : [
+			[ "espose" ],
+			[ "esposes" ],
+			[ "espose" ],
+			[ "esposemos" ],
+			[ "esposéis", "esposen" ],
+			[ "esposen" ]
+		],
+		"9" : [
+			[ "esposara" ],
+			[ "esposaras" ],
+			[ "esposara" ],
+			[ "esposáramos" ],
+			[ "esposarais", "esposaran" ],
+			[ "esposaran" ]
+		],
+		"10" : [
+			[ "esposase" ],
+			[ "esposases" ],
+			[ "esposase" ],
+			[ "esposásemos" ],
+			[ "esposaseis", "esposasen" ],
+			[ "esposasen" ]
+		],
+		"11" : [
+			[ "esposare" ],
+			[ "esposares" ],
+			[ "esposare" ],
+			[ "esposáremos" ],
+			[ "esposareis", "esposaren" ],
+			[ "esposaren" ]
+		],
+		"12" : {
+			"1" : [ "esposa" ],
+			"2" : [ "espose" ],
+			"3" : [ "esposemos" ],
+			"4" : [ "esposad" ],
+			"5" : [ "esposen" ]
+		}
+	}
+}

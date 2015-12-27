@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rumorear",
+	"word" : "rumorear",
+	"infinitivo" : "rumorear",
+	"participio" : [ "rumoreado" ],
+	"gerundio" : [ "rumoreando" ],
+	"tenses" : {
+		"3" : [
+			[ "rumoreo" ],
+			[ "rumoreas", "rumoreás" ],
+			[ "rumorea" ],
+			[ "rumoreamos" ],
+			[ "rumoreáis", "rumorean" ],
+			[ "rumorean" ]
+		],
+		"4" : [
+			[ "rumoreé" ],
+			[ "rumoreaste" ],
+			[ "rumoreó" ],
+			[ "rumoreamos" ],
+			[ "rumoreasteis", "rumorearon" ],
+			[ "rumorearon" ]
+		],
+		"5" : [
+			[ "rumoreaba" ],
+			[ "rumoreabas" ],
+			[ "rumoreaba" ],
+			[ "rumoreábamos" ],
+			[ "rumoreabais", "rumoreaban" ],
+			[ "rumoreaban" ]
+		],
+		"6" : [
+			[ "rumorearía" ],
+			[ "rumorearías" ],
+			[ "rumorearía" ],
+			[ "rumorearíamos" ],
+			[ "rumorearíais", "rumorearían" ],
+			[ "rumorearían" ]
+		],
+		"7" : [
+			[ "rumorearé" ],
+			[ "rumorearás" ],
+			[ "rumoreará" ],
+			[ "rumorearemos" ],
+			[ "rumorearéis", "rumorearán" ],
+			[ "rumorearán" ]
+		],
+		"8" : [
+			[ "rumoree" ],
+			[ "rumorees" ],
+			[ "rumoree" ],
+			[ "rumoreemos" ],
+			[ "rumoreéis", "rumoreen" ],
+			[ "rumoreen" ]
+		],
+		"9" : [
+			[ "rumoreara" ],
+			[ "rumorearas" ],
+			[ "rumoreara" ],
+			[ "rumoreáramos" ],
+			[ "rumorearais", "rumorearan" ],
+			[ "rumorearan" ]
+		],
+		"10" : [
+			[ "rumorease" ],
+			[ "rumoreases" ],
+			[ "rumorease" ],
+			[ "rumoreásemos" ],
+			[ "rumoreaseis", "rumoreasen" ],
+			[ "rumoreasen" ]
+		],
+		"11" : [
+			[ "rumoreare" ],
+			[ "rumoreares" ],
+			[ "rumoreare" ],
+			[ "rumoreáremos" ],
+			[ "rumoreareis", "rumorearen" ],
+			[ "rumorearen" ]
+		],
+		"12" : {
+			"1" : [ "rumorea" ],
+			"2" : [ "rumoree" ],
+			"3" : [ "rumoreemos" ],
+			"4" : [ "rumoread" ],
+			"5" : [ "rumoreen" ]
+		}
+	}
+}

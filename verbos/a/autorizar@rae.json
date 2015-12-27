@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=autorizar",
+	"word" : "autorizar",
+	"infinitivo" : "autorizar",
+	"participio" : [ "autorizado" ],
+	"gerundio" : [ "autorizando" ],
+	"tenses" : {
+		"3" : [
+			[ "autorizo" ],
+			[ "autorizas", "autorizás" ],
+			[ "autoriza" ],
+			[ "autorizamos" ],
+			[ "autorizáis", "autorizan" ],
+			[ "autorizan" ]
+		],
+		"4" : [
+			[ "autoricé" ],
+			[ "autorizaste" ],
+			[ "autorizó" ],
+			[ "autorizamos" ],
+			[ "autorizasteis", "autorizaron" ],
+			[ "autorizaron" ]
+		],
+		"5" : [
+			[ "autorizaba" ],
+			[ "autorizabas" ],
+			[ "autorizaba" ],
+			[ "autorizábamos" ],
+			[ "autorizabais", "autorizaban" ],
+			[ "autorizaban" ]
+		],
+		"6" : [
+			[ "autorizaría" ],
+			[ "autorizarías" ],
+			[ "autorizaría" ],
+			[ "autorizaríamos" ],
+			[ "autorizaríais", "autorizarían" ],
+			[ "autorizarían" ]
+		],
+		"7" : [
+			[ "autorizaré" ],
+			[ "autorizarás" ],
+			[ "autorizará" ],
+			[ "autorizaremos" ],
+			[ "autorizaréis", "autorizarán" ],
+			[ "autorizarán" ]
+		],
+		"8" : [
+			[ "autorice" ],
+			[ "autorices" ],
+			[ "autorice" ],
+			[ "autoricemos" ],
+			[ "autoricéis", "autoricen" ],
+			[ "autoricen" ]
+		],
+		"9" : [
+			[ "autorizara" ],
+			[ "autorizaras" ],
+			[ "autorizara" ],
+			[ "autorizáramos" ],
+			[ "autorizarais", "autorizaran" ],
+			[ "autorizaran" ]
+		],
+		"10" : [
+			[ "autorizase" ],
+			[ "autorizases" ],
+			[ "autorizase" ],
+			[ "autorizásemos" ],
+			[ "autorizaseis", "autorizasen" ],
+			[ "autorizasen" ]
+		],
+		"11" : [
+			[ "autorizare" ],
+			[ "autorizares" ],
+			[ "autorizare" ],
+			[ "autorizáremos" ],
+			[ "autorizareis", "autorizaren" ],
+			[ "autorizaren" ]
+		],
+		"12" : {
+			"1" : [ "autoriza" ],
+			"2" : [ "autorice" ],
+			"3" : [ "autoricemos" ],
+			"4" : [ "autorizad" ],
+			"5" : [ "autoricen" ]
+		}
+	}
+}

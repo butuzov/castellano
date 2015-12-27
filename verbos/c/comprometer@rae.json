@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comprometer",
+	"word" : "comprometer",
+	"infinitivo" : "comprometer",
+	"participio" : [ "comprometido" ],
+	"gerundio" : [ "comprometiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "comprometo" ],
+			[ "comprometes", "comprometés" ],
+			[ "compromete" ],
+			[ "comprometemos" ],
+			[ "comprometéis", "comprometen" ],
+			[ "comprometen" ]
+		],
+		"4" : [
+			[ "comprometí" ],
+			[ "comprometiste" ],
+			[ "comprometió" ],
+			[ "comprometimos" ],
+			[ "comprometisteis", "comprometieron" ],
+			[ "comprometieron" ]
+		],
+		"5" : [
+			[ "comprometía" ],
+			[ "comprometías" ],
+			[ "comprometía" ],
+			[ "comprometíamos" ],
+			[ "comprometíais", "comprometían" ],
+			[ "comprometían" ]
+		],
+		"6" : [
+			[ "comprometería" ],
+			[ "comprometerías" ],
+			[ "comprometería" ],
+			[ "comprometeríamos" ],
+			[ "comprometeríais", "comprometerían" ],
+			[ "comprometerían" ]
+		],
+		"7" : [
+			[ "comprometeré" ],
+			[ "comprometerás" ],
+			[ "comprometerá" ],
+			[ "comprometeremos" ],
+			[ "comprometeréis", "comprometerán" ],
+			[ "comprometerán" ]
+		],
+		"8" : [
+			[ "comprometa" ],
+			[ "comprometas" ],
+			[ "comprometa" ],
+			[ "comprometamos" ],
+			[ "comprometáis", "comprometan" ],
+			[ "comprometan" ]
+		],
+		"9" : [
+			[ "comprometiera" ],
+			[ "comprometieras" ],
+			[ "comprometiera" ],
+			[ "comprometiéramos" ],
+			[ "comprometierais", "comprometieran" ],
+			[ "comprometieran" ]
+		],
+		"10" : [
+			[ "comprometiese" ],
+			[ "comprometieses" ],
+			[ "comprometiese" ],
+			[ "comprometiésemos" ],
+			[ "comprometieseis", "comprometiesen" ],
+			[ "comprometiesen" ]
+		],
+		"11" : [
+			[ "comprometiere" ],
+			[ "comprometieres" ],
+			[ "comprometiere" ],
+			[ "comprometiéremos" ],
+			[ "comprometiereis", "comprometieren" ],
+			[ "comprometieren" ]
+		],
+		"12" : {
+			"1" : [ "compromete" ],
+			"2" : [ "comprometa" ],
+			"3" : [ "comprometamos" ],
+			"4" : [ "comprometed" ],
+			"5" : [ "comprometan" ]
+		}
+	}
+}

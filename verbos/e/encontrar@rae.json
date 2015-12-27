@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encontrar",
+	"word" : "encontrar",
+	"infinitivo" : "encontrar",
+	"participio" : [ "encontrado" ],
+	"gerundio" : [ "encontrando" ],
+	"tenses" : {
+		"3" : [
+			[ "encuentro" ],
+			[ "encuentras", "encontrás" ],
+			[ "encuentra" ],
+			[ "encontramos" ],
+			[ "encontráis", "encuentran" ],
+			[ "encuentran" ]
+		],
+		"4" : [
+			[ "encontré" ],
+			[ "encontraste" ],
+			[ "encontró" ],
+			[ "encontramos" ],
+			[ "encontrasteis", "encontraron" ],
+			[ "encontraron" ]
+		],
+		"5" : [
+			[ "encontraba" ],
+			[ "encontrabas" ],
+			[ "encontraba" ],
+			[ "encontrábamos" ],
+			[ "encontrabais", "encontraban" ],
+			[ "encontraban" ]
+		],
+		"6" : [
+			[ "encontraría" ],
+			[ "encontrarías" ],
+			[ "encontraría" ],
+			[ "encontraríamos" ],
+			[ "encontraríais", "encontrarían" ],
+			[ "encontrarían" ]
+		],
+		"7" : [
+			[ "encontraré" ],
+			[ "encontrarás" ],
+			[ "encontrará" ],
+			[ "encontraremos" ],
+			[ "encontraréis", "encontrarán" ],
+			[ "encontrarán" ]
+		],
+		"8" : [
+			[ "encuentre" ],
+			[ "encuentres" ],
+			[ "encuentre" ],
+			[ "encontremos" ],
+			[ "encontréis", "encuentren" ],
+			[ "encuentren" ]
+		],
+		"9" : [
+			[ "encontrara" ],
+			[ "encontraras" ],
+			[ "encontrara" ],
+			[ "encontráramos" ],
+			[ "encontrarais", "encontraran" ],
+			[ "encontraran" ]
+		],
+		"10" : [
+			[ "encontrase" ],
+			[ "encontrases" ],
+			[ "encontrase" ],
+			[ "encontrásemos" ],
+			[ "encontraseis", "encontrasen" ],
+			[ "encontrasen" ]
+		],
+		"11" : [
+			[ "encontrare" ],
+			[ "encontrares" ],
+			[ "encontrare" ],
+			[ "encontráremos" ],
+			[ "encontrareis", "encontraren" ],
+			[ "encontraren" ]
+		],
+		"12" : {
+			"1" : [ "encuentra" ],
+			"2" : [ "encuentre" ],
+			"3" : [ "encontremos" ],
+			"4" : [ "encontrad" ],
+			"5" : [ "encuentren" ]
+		}
+	}
+}

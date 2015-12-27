@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=borrar",
+	"word" : "borrar",
+	"infinitivo" : "borrar",
+	"participio" : [ "borrado" ],
+	"gerundio" : [ "borrando" ],
+	"tenses" : {
+		"3" : [
+			[ "borro" ],
+			[ "borras", "borrás" ],
+			[ "borra" ],
+			[ "borramos" ],
+			[ "borráis", "borran" ],
+			[ "borran" ]
+		],
+		"4" : [
+			[ "borré" ],
+			[ "borraste" ],
+			[ "borró" ],
+			[ "borramos" ],
+			[ "borrasteis", "borraron" ],
+			[ "borraron" ]
+		],
+		"5" : [
+			[ "borraba" ],
+			[ "borrabas" ],
+			[ "borraba" ],
+			[ "borrábamos" ],
+			[ "borrabais", "borraban" ],
+			[ "borraban" ]
+		],
+		"6" : [
+			[ "borraría" ],
+			[ "borrarías" ],
+			[ "borraría" ],
+			[ "borraríamos" ],
+			[ "borraríais", "borrarían" ],
+			[ "borrarían" ]
+		],
+		"7" : [
+			[ "borraré" ],
+			[ "borrarás" ],
+			[ "borrará" ],
+			[ "borraremos" ],
+			[ "borraréis", "borrarán" ],
+			[ "borrarán" ]
+		],
+		"8" : [
+			[ "borre" ],
+			[ "borres" ],
+			[ "borre" ],
+			[ "borremos" ],
+			[ "borréis", "borren" ],
+			[ "borren" ]
+		],
+		"9" : [
+			[ "borrara" ],
+			[ "borraras" ],
+			[ "borrara" ],
+			[ "borráramos" ],
+			[ "borrarais", "borraran" ],
+			[ "borraran" ]
+		],
+		"10" : [
+			[ "borrase" ],
+			[ "borrases" ],
+			[ "borrase" ],
+			[ "borrásemos" ],
+			[ "borraseis", "borrasen" ],
+			[ "borrasen" ]
+		],
+		"11" : [
+			[ "borrare" ],
+			[ "borrares" ],
+			[ "borrare" ],
+			[ "borráremos" ],
+			[ "borrareis", "borraren" ],
+			[ "borraren" ]
+		],
+		"12" : {
+			"1" : [ "borra" ],
+			"2" : [ "borre" ],
+			"3" : [ "borremos" ],
+			"4" : [ "borrad" ],
+			"5" : [ "borren" ]
+		}
+	}
+}

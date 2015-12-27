@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=debutar",
+	"word" : "debutar",
+	"infinitivo" : "debutar",
+	"participio" : [ "debutado" ],
+	"gerundio" : [ "debutando" ],
+	"tenses" : {
+		"3" : [
+			[ "debuto" ],
+			[ "debutas", "debutás" ],
+			[ "debuta" ],
+			[ "debutamos" ],
+			[ "debutáis", "debutan" ],
+			[ "debutan" ]
+		],
+		"4" : [
+			[ "debuté" ],
+			[ "debutaste" ],
+			[ "debutó" ],
+			[ "debutamos" ],
+			[ "debutasteis", "debutaron" ],
+			[ "debutaron" ]
+		],
+		"5" : [
+			[ "debutaba" ],
+			[ "debutabas" ],
+			[ "debutaba" ],
+			[ "debutábamos" ],
+			[ "debutabais", "debutaban" ],
+			[ "debutaban" ]
+		],
+		"6" : [
+			[ "debutaría" ],
+			[ "debutarías" ],
+			[ "debutaría" ],
+			[ "debutaríamos" ],
+			[ "debutaríais", "debutarían" ],
+			[ "debutarían" ]
+		],
+		"7" : [
+			[ "debutaré" ],
+			[ "debutarás" ],
+			[ "debutará" ],
+			[ "debutaremos" ],
+			[ "debutaréis", "debutarán" ],
+			[ "debutarán" ]
+		],
+		"8" : [
+			[ "debute" ],
+			[ "debutes" ],
+			[ "debute" ],
+			[ "debutemos" ],
+			[ "debutéis", "debuten" ],
+			[ "debuten" ]
+		],
+		"9" : [
+			[ "debutara" ],
+			[ "debutaras" ],
+			[ "debutara" ],
+			[ "debutáramos" ],
+			[ "debutarais", "debutaran" ],
+			[ "debutaran" ]
+		],
+		"10" : [
+			[ "debutase" ],
+			[ "debutases" ],
+			[ "debutase" ],
+			[ "debutásemos" ],
+			[ "debutaseis", "debutasen" ],
+			[ "debutasen" ]
+		],
+		"11" : [
+			[ "debutare" ],
+			[ "debutares" ],
+			[ "debutare" ],
+			[ "debutáremos" ],
+			[ "debutareis", "debutaren" ],
+			[ "debutaren" ]
+		],
+		"12" : {
+			"1" : [ "debuta" ],
+			"2" : [ "debute" ],
+			"3" : [ "debutemos" ],
+			"4" : [ "debutad" ],
+			"5" : [ "debuten" ]
+		}
+	}
+}

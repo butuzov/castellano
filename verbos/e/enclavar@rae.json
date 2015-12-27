@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enclavar",
+	"word" : "enclavar",
+	"infinitivo" : "enclavar",
+	"participio" : [ "enclavado" ],
+	"gerundio" : [ "enclavando" ],
+	"tenses" : {
+		"3" : [
+			[ "enclavo" ],
+			[ "enclavas", "enclavás" ],
+			[ "enclava" ],
+			[ "enclavamos" ],
+			[ "enclaváis", "enclavan" ],
+			[ "enclavan" ]
+		],
+		"4" : [
+			[ "enclavé" ],
+			[ "enclavaste" ],
+			[ "enclavó" ],
+			[ "enclavamos" ],
+			[ "enclavasteis", "enclavaron" ],
+			[ "enclavaron" ]
+		],
+		"5" : [
+			[ "enclavaba" ],
+			[ "enclavabas" ],
+			[ "enclavaba" ],
+			[ "enclavábamos" ],
+			[ "enclavabais", "enclavaban" ],
+			[ "enclavaban" ]
+		],
+		"6" : [
+			[ "enclavaría" ],
+			[ "enclavarías" ],
+			[ "enclavaría" ],
+			[ "enclavaríamos" ],
+			[ "enclavaríais", "enclavarían" ],
+			[ "enclavarían" ]
+		],
+		"7" : [
+			[ "enclavaré" ],
+			[ "enclavarás" ],
+			[ "enclavará" ],
+			[ "enclavaremos" ],
+			[ "enclavaréis", "enclavarán" ],
+			[ "enclavarán" ]
+		],
+		"8" : [
+			[ "enclave" ],
+			[ "enclaves" ],
+			[ "enclave" ],
+			[ "enclavemos" ],
+			[ "enclavéis", "enclaven" ],
+			[ "enclaven" ]
+		],
+		"9" : [
+			[ "enclavara" ],
+			[ "enclavaras" ],
+			[ "enclavara" ],
+			[ "enclaváramos" ],
+			[ "enclavarais", "enclavaran" ],
+			[ "enclavaran" ]
+		],
+		"10" : [
+			[ "enclavase" ],
+			[ "enclavases" ],
+			[ "enclavase" ],
+			[ "enclavásemos" ],
+			[ "enclavaseis", "enclavasen" ],
+			[ "enclavasen" ]
+		],
+		"11" : [
+			[ "enclavare" ],
+			[ "enclavares" ],
+			[ "enclavare" ],
+			[ "enclaváremos" ],
+			[ "enclavareis", "enclavaren" ],
+			[ "enclavaren" ]
+		],
+		"12" : {
+			"1" : [ "enclava" ],
+			"2" : [ "enclave" ],
+			"3" : [ "enclavemos" ],
+			"4" : [ "enclavad" ],
+			"5" : [ "enclaven" ]
+		}
+	}
+}

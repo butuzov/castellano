@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=regir",
+	"word" : "regir",
+	"infinitivo" : "regir",
+	"participio" : [ "regido" ],
+	"gerundio" : [ "rigiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "rijo" ],
+			[ "riges", "regís" ],
+			[ "rige" ],
+			[ "regimos" ],
+			[ "regís", "rigen" ],
+			[ "rigen" ]
+		],
+		"4" : [
+			[ "regí" ],
+			[ "registe" ],
+			[ "rigió" ],
+			[ "regimos" ],
+			[ "registeis", "rigieron" ],
+			[ "rigieron" ]
+		],
+		"5" : [
+			[ "regía" ],
+			[ "regías" ],
+			[ "regía" ],
+			[ "regíamos" ],
+			[ "regíais", "regían" ],
+			[ "regían" ]
+		],
+		"6" : [
+			[ "regiría" ],
+			[ "regirías" ],
+			[ "regiría" ],
+			[ "regiríamos" ],
+			[ "regiríais", "regirían" ],
+			[ "regirían" ]
+		],
+		"7" : [
+			[ "regiré" ],
+			[ "regirás" ],
+			[ "regirá" ],
+			[ "regiremos" ],
+			[ "regiréis", "regirán" ],
+			[ "regirán" ]
+		],
+		"8" : [
+			[ "rija" ],
+			[ "rijas" ],
+			[ "rija" ],
+			[ "rijamos" ],
+			[ "rijáis", "rijan" ],
+			[ "rijan" ]
+		],
+		"9" : [
+			[ "rigiera" ],
+			[ "rigieras" ],
+			[ "rigiera" ],
+			[ "rigiéramos" ],
+			[ "rigierais", "rigieran" ],
+			[ "rigieran" ]
+		],
+		"10" : [
+			[ "rigiese" ],
+			[ "rigieses" ],
+			[ "rigiese" ],
+			[ "rigiésemos" ],
+			[ "rigieseis", "rigiesen" ],
+			[ "rigiesen" ]
+		],
+		"11" : [
+			[ "rigiere" ],
+			[ "rigieres" ],
+			[ "rigiere" ],
+			[ "rigiéremos" ],
+			[ "rigiereis", "rigieren" ],
+			[ "rigieren" ]
+		],
+		"12" : {
+			"1" : [ "rige" ],
+			"2" : [ "rija" ],
+			"3" : [ "rijamos" ],
+			"4" : [ "regid" ],
+			"5" : [ "rijan" ]
+		}
+	}
+}

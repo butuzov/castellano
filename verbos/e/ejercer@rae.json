@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ejercer",
+	"word" : "ejercer",
+	"infinitivo" : "ejercer",
+	"participio" : [ "ejercido" ],
+	"gerundio" : [ "ejerciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "ejerzo" ],
+			[ "ejerces", "ejercés" ],
+			[ "ejerce" ],
+			[ "ejercemos" ],
+			[ "ejercéis", "ejercen" ],
+			[ "ejercen" ]
+		],
+		"4" : [
+			[ "ejercí" ],
+			[ "ejerciste" ],
+			[ "ejerció" ],
+			[ "ejercimos" ],
+			[ "ejercisteis", "ejercieron" ],
+			[ "ejercieron" ]
+		],
+		"5" : [
+			[ "ejercía" ],
+			[ "ejercías" ],
+			[ "ejercía" ],
+			[ "ejercíamos" ],
+			[ "ejercíais", "ejercían" ],
+			[ "ejercían" ]
+		],
+		"6" : [
+			[ "ejercería" ],
+			[ "ejercerías" ],
+			[ "ejercería" ],
+			[ "ejerceríamos" ],
+			[ "ejerceríais", "ejercerían" ],
+			[ "ejercerían" ]
+		],
+		"7" : [
+			[ "ejerceré" ],
+			[ "ejercerás" ],
+			[ "ejercerá" ],
+			[ "ejerceremos" ],
+			[ "ejerceréis", "ejercerán" ],
+			[ "ejercerán" ]
+		],
+		"8" : [
+			[ "ejerza" ],
+			[ "ejerzas" ],
+			[ "ejerza" ],
+			[ "ejerzamos" ],
+			[ "ejerzáis", "ejerzan" ],
+			[ "ejerzan" ]
+		],
+		"9" : [
+			[ "ejerciera" ],
+			[ "ejercieras" ],
+			[ "ejerciera" ],
+			[ "ejerciéramos" ],
+			[ "ejercierais", "ejercieran" ],
+			[ "ejercieran" ]
+		],
+		"10" : [
+			[ "ejerciese" ],
+			[ "ejercieses" ],
+			[ "ejerciese" ],
+			[ "ejerciésemos" ],
+			[ "ejercieseis", "ejerciesen" ],
+			[ "ejerciesen" ]
+		],
+		"11" : [
+			[ "ejerciere" ],
+			[ "ejercieres" ],
+			[ "ejerciere" ],
+			[ "ejerciéremos" ],
+			[ "ejerciereis", "ejercieren" ],
+			[ "ejercieren" ]
+		],
+		"12" : {
+			"1" : [ "ejerce" ],
+			"2" : [ "ejerza" ],
+			"3" : [ "ejerzamos" ],
+			"4" : [ "ejerced" ],
+			"5" : [ "ejerzan" ]
+		}
+	}
+}

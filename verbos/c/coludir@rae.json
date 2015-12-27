@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=coludir",
+	"word" : "coludir",
+	"infinitivo" : "coludir",
+	"participio" : [ "coludido" ],
+	"gerundio" : [ "coludiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "coludo" ],
+			[ "coludes", "coludís" ],
+			[ "colude" ],
+			[ "coludimos" ],
+			[ "coludís", "coluden" ],
+			[ "coluden" ]
+		],
+		"4" : [
+			[ "coludí" ],
+			[ "coludiste" ],
+			[ "coludió" ],
+			[ "coludimos" ],
+			[ "coludisteis", "coludieron" ],
+			[ "coludieron" ]
+		],
+		"5" : [
+			[ "coludía" ],
+			[ "coludías" ],
+			[ "coludía" ],
+			[ "coludíamos" ],
+			[ "coludíais", "coludían" ],
+			[ "coludían" ]
+		],
+		"6" : [
+			[ "coludiría" ],
+			[ "coludirías" ],
+			[ "coludiría" ],
+			[ "coludiríamos" ],
+			[ "coludiríais", "coludirían" ],
+			[ "coludirían" ]
+		],
+		"7" : [
+			[ "coludiré" ],
+			[ "coludirás" ],
+			[ "coludirá" ],
+			[ "coludiremos" ],
+			[ "coludiréis", "coludirán" ],
+			[ "coludirán" ]
+		],
+		"8" : [
+			[ "coluda" ],
+			[ "coludas" ],
+			[ "coluda" ],
+			[ "coludamos" ],
+			[ "coludáis", "coludan" ],
+			[ "coludan" ]
+		],
+		"9" : [
+			[ "coludiera" ],
+			[ "coludieras" ],
+			[ "coludiera" ],
+			[ "coludiéramos" ],
+			[ "coludierais", "coludieran" ],
+			[ "coludieran" ]
+		],
+		"10" : [
+			[ "coludiese" ],
+			[ "coludieses" ],
+			[ "coludiese" ],
+			[ "coludiésemos" ],
+			[ "coludieseis", "coludiesen" ],
+			[ "coludiesen" ]
+		],
+		"11" : [
+			[ "coludiere" ],
+			[ "coludieres" ],
+			[ "coludiere" ],
+			[ "coludiéremos" ],
+			[ "coludiereis", "coludieren" ],
+			[ "coludieren" ]
+		],
+		"12" : {
+			"1" : [ "colude" ],
+			"2" : [ "coluda" ],
+			"3" : [ "coludamos" ],
+			"4" : [ "coludid" ],
+			"5" : [ "coludan" ]
+		}
+	}
+}

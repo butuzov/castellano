@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aguantar",
+	"word" : "aguantar",
+	"infinitivo" : "aguantar",
+	"participio" : [ "aguantado" ],
+	"gerundio" : [ "aguantando" ],
+	"tenses" : {
+		"3" : [
+			[ "aguanto" ],
+			[ "aguantas", "aguantás" ],
+			[ "aguanta" ],
+			[ "aguantamos" ],
+			[ "aguantáis", "aguantan" ],
+			[ "aguantan" ]
+		],
+		"4" : [
+			[ "aguanté" ],
+			[ "aguantaste" ],
+			[ "aguantó" ],
+			[ "aguantamos" ],
+			[ "aguantasteis", "aguantaron" ],
+			[ "aguantaron" ]
+		],
+		"5" : [
+			[ "aguantaba" ],
+			[ "aguantabas" ],
+			[ "aguantaba" ],
+			[ "aguantábamos" ],
+			[ "aguantabais", "aguantaban" ],
+			[ "aguantaban" ]
+		],
+		"6" : [
+			[ "aguantaría" ],
+			[ "aguantarías" ],
+			[ "aguantaría" ],
+			[ "aguantaríamos" ],
+			[ "aguantaríais", "aguantarían" ],
+			[ "aguantarían" ]
+		],
+		"7" : [
+			[ "aguantaré" ],
+			[ "aguantarás" ],
+			[ "aguantará" ],
+			[ "aguantaremos" ],
+			[ "aguantaréis", "aguantarán" ],
+			[ "aguantarán" ]
+		],
+		"8" : [
+			[ "aguante" ],
+			[ "aguantes" ],
+			[ "aguante" ],
+			[ "aguantemos" ],
+			[ "aguantéis", "aguanten" ],
+			[ "aguanten" ]
+		],
+		"9" : [
+			[ "aguantara" ],
+			[ "aguantaras" ],
+			[ "aguantara" ],
+			[ "aguantáramos" ],
+			[ "aguantarais", "aguantaran" ],
+			[ "aguantaran" ]
+		],
+		"10" : [
+			[ "aguantase" ],
+			[ "aguantases" ],
+			[ "aguantase" ],
+			[ "aguantásemos" ],
+			[ "aguantaseis", "aguantasen" ],
+			[ "aguantasen" ]
+		],
+		"11" : [
+			[ "aguantare" ],
+			[ "aguantares" ],
+			[ "aguantare" ],
+			[ "aguantáremos" ],
+			[ "aguantareis", "aguantaren" ],
+			[ "aguantaren" ]
+		],
+		"12" : {
+			"1" : [ "aguanta" ],
+			"2" : [ "aguante" ],
+			"3" : [ "aguantemos" ],
+			"4" : [ "aguantad" ],
+			"5" : [ "aguanten" ]
+		}
+	}
+}

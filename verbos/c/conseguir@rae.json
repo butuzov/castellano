@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conseguir",
+	"word" : "conseguir",
+	"infinitivo" : "conseguir",
+	"participio" : [ "conseguido" ],
+	"gerundio" : [ "consiguiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "consigo" ],
+			[ "consigues", "conseguís" ],
+			[ "consigue" ],
+			[ "conseguimos" ],
+			[ "conseguís", "consiguen" ],
+			[ "consiguen" ]
+		],
+		"4" : [
+			[ "conseguí" ],
+			[ "conseguiste" ],
+			[ "consiguió" ],
+			[ "conseguimos" ],
+			[ "conseguisteis", "consiguieron" ],
+			[ "consiguieron" ]
+		],
+		"5" : [
+			[ "conseguía" ],
+			[ "conseguías" ],
+			[ "conseguía" ],
+			[ "conseguíamos" ],
+			[ "conseguíais", "conseguían" ],
+			[ "conseguían" ]
+		],
+		"6" : [
+			[ "conseguiría" ],
+			[ "conseguirías" ],
+			[ "conseguiría" ],
+			[ "conseguiríamos" ],
+			[ "conseguiríais", "conseguirían" ],
+			[ "conseguirían" ]
+		],
+		"7" : [
+			[ "conseguiré" ],
+			[ "conseguirás" ],
+			[ "conseguirá" ],
+			[ "conseguiremos" ],
+			[ "conseguiréis", "conseguirán" ],
+			[ "conseguirán" ]
+		],
+		"8" : [
+			[ "consiga" ],
+			[ "consigas" ],
+			[ "consiga" ],
+			[ "consigamos" ],
+			[ "consigáis", "consigan" ],
+			[ "consigan" ]
+		],
+		"9" : [
+			[ "consiguiera" ],
+			[ "consiguieras" ],
+			[ "consiguiera" ],
+			[ "consiguiéramos" ],
+			[ "consiguierais", "consiguieran" ],
+			[ "consiguieran" ]
+		],
+		"10" : [
+			[ "consiguiese" ],
+			[ "consiguieses" ],
+			[ "consiguiese" ],
+			[ "consiguiésemos" ],
+			[ "consiguieseis", "consiguiesen" ],
+			[ "consiguiesen" ]
+		],
+		"11" : [
+			[ "consiguiere" ],
+			[ "consiguieres" ],
+			[ "consiguiere" ],
+			[ "consiguiéremos" ],
+			[ "consiguiereis", "consiguieren" ],
+			[ "consiguieren" ]
+		],
+		"12" : {
+			"1" : [ "consigue" ],
+			"2" : [ "consiga" ],
+			"3" : [ "consigamos" ],
+			"4" : [ "conseguid" ],
+			"5" : [ "consigan" ]
+		}
+	}
+}

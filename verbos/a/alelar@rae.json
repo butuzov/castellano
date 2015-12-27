@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alelar",
+	"word" : "alelar",
+	"infinitivo" : "alelar",
+	"participio" : [ "alelado" ],
+	"gerundio" : [ "alelando" ],
+	"tenses" : {
+		"3" : [
+			[ "alelo" ],
+			[ "alelas", "alelás" ],
+			[ "alela" ],
+			[ "alelamos" ],
+			[ "aleláis", "alelan" ],
+			[ "alelan" ]
+		],
+		"4" : [
+			[ "alelé" ],
+			[ "alelaste" ],
+			[ "aleló" ],
+			[ "alelamos" ],
+			[ "alelasteis", "alelaron" ],
+			[ "alelaron" ]
+		],
+		"5" : [
+			[ "alelaba" ],
+			[ "alelabas" ],
+			[ "alelaba" ],
+			[ "alelábamos" ],
+			[ "alelabais", "alelaban" ],
+			[ "alelaban" ]
+		],
+		"6" : [
+			[ "alelaría" ],
+			[ "alelarías" ],
+			[ "alelaría" ],
+			[ "alelaríamos" ],
+			[ "alelaríais", "alelarían" ],
+			[ "alelarían" ]
+		],
+		"7" : [
+			[ "alelaré" ],
+			[ "alelarás" ],
+			[ "alelará" ],
+			[ "alelaremos" ],
+			[ "alelaréis", "alelarán" ],
+			[ "alelarán" ]
+		],
+		"8" : [
+			[ "alele" ],
+			[ "aleles" ],
+			[ "alele" ],
+			[ "alelemos" ],
+			[ "aleléis", "alelen" ],
+			[ "alelen" ]
+		],
+		"9" : [
+			[ "alelara" ],
+			[ "alelaras" ],
+			[ "alelara" ],
+			[ "aleláramos" ],
+			[ "alelarais", "alelaran" ],
+			[ "alelaran" ]
+		],
+		"10" : [
+			[ "alelase" ],
+			[ "alelases" ],
+			[ "alelase" ],
+			[ "alelásemos" ],
+			[ "alelaseis", "alelasen" ],
+			[ "alelasen" ]
+		],
+		"11" : [
+			[ "alelare" ],
+			[ "alelares" ],
+			[ "alelare" ],
+			[ "aleláremos" ],
+			[ "alelareis", "alelaren" ],
+			[ "alelaren" ]
+		],
+		"12" : {
+			"1" : [ "alela" ],
+			"2" : [ "alele" ],
+			"3" : [ "alelemos" ],
+			"4" : [ "alelad" ],
+			"5" : [ "alelen" ]
+		}
+	}
+}

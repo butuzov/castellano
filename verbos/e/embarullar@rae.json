@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embarullar",
+	"word" : "embarullar",
+	"infinitivo" : "embarullar",
+	"participio" : [ "embarullado" ],
+	"gerundio" : [ "embarullando" ],
+	"tenses" : {
+		"3" : [
+			[ "embarullo" ],
+			[ "embarullas", "embarullás" ],
+			[ "embarulla" ],
+			[ "embarullamos" ],
+			[ "embarulláis", "embarullan" ],
+			[ "embarullan" ]
+		],
+		"4" : [
+			[ "embarullé" ],
+			[ "embarullaste" ],
+			[ "embarulló" ],
+			[ "embarullamos" ],
+			[ "embarullasteis", "embarullaron" ],
+			[ "embarullaron" ]
+		],
+		"5" : [
+			[ "embarullaba" ],
+			[ "embarullabas" ],
+			[ "embarullaba" ],
+			[ "embarullábamos" ],
+			[ "embarullabais", "embarullaban" ],
+			[ "embarullaban" ]
+		],
+		"6" : [
+			[ "embarullaría" ],
+			[ "embarullarías" ],
+			[ "embarullaría" ],
+			[ "embarullaríamos" ],
+			[ "embarullaríais", "embarullarían" ],
+			[ "embarullarían" ]
+		],
+		"7" : [
+			[ "embarullaré" ],
+			[ "embarullarás" ],
+			[ "embarullará" ],
+			[ "embarullaremos" ],
+			[ "embarullaréis", "embarullarán" ],
+			[ "embarullarán" ]
+		],
+		"8" : [
+			[ "embarulle" ],
+			[ "embarulles" ],
+			[ "embarulle" ],
+			[ "embarullemos" ],
+			[ "embarulléis", "embarullen" ],
+			[ "embarullen" ]
+		],
+		"9" : [
+			[ "embarullara" ],
+			[ "embarullaras" ],
+			[ "embarullara" ],
+			[ "embarulláramos" ],
+			[ "embarullarais", "embarullaran" ],
+			[ "embarullaran" ]
+		],
+		"10" : [
+			[ "embarullase" ],
+			[ "embarullases" ],
+			[ "embarullase" ],
+			[ "embarullásemos" ],
+			[ "embarullaseis", "embarullasen" ],
+			[ "embarullasen" ]
+		],
+		"11" : [
+			[ "embarullare" ],
+			[ "embarullares" ],
+			[ "embarullare" ],
+			[ "embarulláremos" ],
+			[ "embarullareis", "embarullaren" ],
+			[ "embarullaren" ]
+		],
+		"12" : {
+			"1" : [ "embarulla" ],
+			"2" : [ "embarulle" ],
+			"3" : [ "embarullemos" ],
+			"4" : [ "embarullad" ],
+			"5" : [ "embarullen" ]
+		}
+	}
+}

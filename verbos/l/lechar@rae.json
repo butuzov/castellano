@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lechar",
+	"word" : "lechar",
+	"infinitivo" : "lechar",
+	"participio" : [ "lechado" ],
+	"gerundio" : [ "lechando" ],
+	"tenses" : {
+		"3" : [
+			[ "lecho" ],
+			[ "lechas", "lechás" ],
+			[ "lecha" ],
+			[ "lechamos" ],
+			[ "lecháis", "lechan" ],
+			[ "lechan" ]
+		],
+		"4" : [
+			[ "leché" ],
+			[ "lechaste" ],
+			[ "lechó" ],
+			[ "lechamos" ],
+			[ "lechasteis", "lecharon" ],
+			[ "lecharon" ]
+		],
+		"5" : [
+			[ "lechaba" ],
+			[ "lechabas" ],
+			[ "lechaba" ],
+			[ "lechábamos" ],
+			[ "lechabais", "lechaban" ],
+			[ "lechaban" ]
+		],
+		"6" : [
+			[ "lecharía" ],
+			[ "lecharías" ],
+			[ "lecharía" ],
+			[ "lecharíamos" ],
+			[ "lecharíais", "lecharían" ],
+			[ "lecharían" ]
+		],
+		"7" : [
+			[ "lecharé" ],
+			[ "lecharás" ],
+			[ "lechará" ],
+			[ "lecharemos" ],
+			[ "lecharéis", "lecharán" ],
+			[ "lecharán" ]
+		],
+		"8" : [
+			[ "leche" ],
+			[ "leches" ],
+			[ "leche" ],
+			[ "lechemos" ],
+			[ "lechéis", "lechen" ],
+			[ "lechen" ]
+		],
+		"9" : [
+			[ "lechara" ],
+			[ "lecharas" ],
+			[ "lechara" ],
+			[ "lecháramos" ],
+			[ "lecharais", "lecharan" ],
+			[ "lecharan" ]
+		],
+		"10" : [
+			[ "lechase" ],
+			[ "lechases" ],
+			[ "lechase" ],
+			[ "lechásemos" ],
+			[ "lechaseis", "lechasen" ],
+			[ "lechasen" ]
+		],
+		"11" : [
+			[ "lechare" ],
+			[ "lechares" ],
+			[ "lechare" ],
+			[ "lecháremos" ],
+			[ "lechareis", "lecharen" ],
+			[ "lecharen" ]
+		],
+		"12" : {
+			"1" : [ "lecha" ],
+			"2" : [ "leche" ],
+			"3" : [ "lechemos" ],
+			"4" : [ "lechad" ],
+			"5" : [ "lechen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pujar",
+	"word" : "pujar",
+	"infinitivo" : "pujar",
+	"participio" : [ "pujado" ],
+	"gerundio" : [ "pujando" ],
+	"tenses" : {
+		"3" : [
+			[ "pujo" ],
+			[ "pujas", "pujás" ],
+			[ "puja" ],
+			[ "pujamos" ],
+			[ "pujáis", "pujan" ],
+			[ "pujan" ]
+		],
+		"4" : [
+			[ "pujé" ],
+			[ "pujaste" ],
+			[ "pujó" ],
+			[ "pujamos" ],
+			[ "pujasteis", "pujaron" ],
+			[ "pujaron" ]
+		],
+		"5" : [
+			[ "pujaba" ],
+			[ "pujabas" ],
+			[ "pujaba" ],
+			[ "pujábamos" ],
+			[ "pujabais", "pujaban" ],
+			[ "pujaban" ]
+		],
+		"6" : [
+			[ "pujaría" ],
+			[ "pujarías" ],
+			[ "pujaría" ],
+			[ "pujaríamos" ],
+			[ "pujaríais", "pujarían" ],
+			[ "pujarían" ]
+		],
+		"7" : [
+			[ "pujaré" ],
+			[ "pujarás" ],
+			[ "pujará" ],
+			[ "pujaremos" ],
+			[ "pujaréis", "pujarán" ],
+			[ "pujarán" ]
+		],
+		"8" : [
+			[ "puje" ],
+			[ "pujes" ],
+			[ "puje" ],
+			[ "pujemos" ],
+			[ "pujéis", "pujen" ],
+			[ "pujen" ]
+		],
+		"9" : [
+			[ "pujara" ],
+			[ "pujaras" ],
+			[ "pujara" ],
+			[ "pujáramos" ],
+			[ "pujarais", "pujaran" ],
+			[ "pujaran" ]
+		],
+		"10" : [
+			[ "pujase" ],
+			[ "pujases" ],
+			[ "pujase" ],
+			[ "pujásemos" ],
+			[ "pujaseis", "pujasen" ],
+			[ "pujasen" ]
+		],
+		"11" : [
+			[ "pujare" ],
+			[ "pujares" ],
+			[ "pujare" ],
+			[ "pujáremos" ],
+			[ "pujareis", "pujaren" ],
+			[ "pujaren" ]
+		],
+		"12" : {
+			"1" : [ "puja" ],
+			"2" : [ "puje" ],
+			"3" : [ "pujemos" ],
+			"4" : [ "pujad" ],
+			"5" : [ "pujen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=renegar",
+	"word" : "renegar",
+	"infinitivo" : "renegar",
+	"participio" : [ "renegado" ],
+	"gerundio" : [ "renegando" ],
+	"tenses" : {
+		"3" : [
+			[ "reniego" ],
+			[ "reniegas", "renegás" ],
+			[ "reniega" ],
+			[ "renegamos" ],
+			[ "renegáis", "reniegan" ],
+			[ "reniegan" ]
+		],
+		"4" : [
+			[ "renegué" ],
+			[ "renegaste" ],
+			[ "renegó" ],
+			[ "renegamos" ],
+			[ "renegasteis", "renegaron" ],
+			[ "renegaron" ]
+		],
+		"5" : [
+			[ "renegaba" ],
+			[ "renegabas" ],
+			[ "renegaba" ],
+			[ "renegábamos" ],
+			[ "renegabais", "renegaban" ],
+			[ "renegaban" ]
+		],
+		"6" : [
+			[ "renegaría" ],
+			[ "renegarías" ],
+			[ "renegaría" ],
+			[ "renegaríamos" ],
+			[ "renegaríais", "renegarían" ],
+			[ "renegarían" ]
+		],
+		"7" : [
+			[ "renegaré" ],
+			[ "renegarás" ],
+			[ "renegará" ],
+			[ "renegaremos" ],
+			[ "renegaréis", "renegarán" ],
+			[ "renegarán" ]
+		],
+		"8" : [
+			[ "reniegue" ],
+			[ "reniegues" ],
+			[ "reniegue" ],
+			[ "reneguemos" ],
+			[ "reneguéis", "renieguen" ],
+			[ "renieguen" ]
+		],
+		"9" : [
+			[ "renegara" ],
+			[ "renegaras" ],
+			[ "renegara" ],
+			[ "renegáramos" ],
+			[ "renegarais", "renegaran" ],
+			[ "renegaran" ]
+		],
+		"10" : [
+			[ "renegase" ],
+			[ "renegases" ],
+			[ "renegase" ],
+			[ "renegásemos" ],
+			[ "renegaseis", "renegasen" ],
+			[ "renegasen" ]
+		],
+		"11" : [
+			[ "renegare" ],
+			[ "renegares" ],
+			[ "renegare" ],
+			[ "renegáremos" ],
+			[ "renegareis", "renegaren" ],
+			[ "renegaren" ]
+		],
+		"12" : {
+			"1" : [ "reniega" ],
+			"2" : [ "reniegue" ],
+			"3" : [ "reneguemos" ],
+			"4" : [ "renegad" ],
+			"5" : [ "renieguen" ]
+		}
+	}
+}

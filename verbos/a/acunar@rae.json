@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acunar",
+	"word" : "acunar",
+	"infinitivo" : "acunar",
+	"participio" : [ "acunado" ],
+	"gerundio" : [ "acunando" ],
+	"tenses" : {
+		"3" : [
+			[ "acuno" ],
+			[ "acunas", "acunás" ],
+			[ "acuna" ],
+			[ "acunamos" ],
+			[ "acunáis", "acunan" ],
+			[ "acunan" ]
+		],
+		"4" : [
+			[ "acuné" ],
+			[ "acunaste" ],
+			[ "acunó" ],
+			[ "acunamos" ],
+			[ "acunasteis", "acunaron" ],
+			[ "acunaron" ]
+		],
+		"5" : [
+			[ "acunaba" ],
+			[ "acunabas" ],
+			[ "acunaba" ],
+			[ "acunábamos" ],
+			[ "acunabais", "acunaban" ],
+			[ "acunaban" ]
+		],
+		"6" : [
+			[ "acunaría" ],
+			[ "acunarías" ],
+			[ "acunaría" ],
+			[ "acunaríamos" ],
+			[ "acunaríais", "acunarían" ],
+			[ "acunarían" ]
+		],
+		"7" : [
+			[ "acunaré" ],
+			[ "acunarás" ],
+			[ "acunará" ],
+			[ "acunaremos" ],
+			[ "acunaréis", "acunarán" ],
+			[ "acunarán" ]
+		],
+		"8" : [
+			[ "acune" ],
+			[ "acunes" ],
+			[ "acune" ],
+			[ "acunemos" ],
+			[ "acunéis", "acunen" ],
+			[ "acunen" ]
+		],
+		"9" : [
+			[ "acunara" ],
+			[ "acunaras" ],
+			[ "acunara" ],
+			[ "acunáramos" ],
+			[ "acunarais", "acunaran" ],
+			[ "acunaran" ]
+		],
+		"10" : [
+			[ "acunase" ],
+			[ "acunases" ],
+			[ "acunase" ],
+			[ "acunásemos" ],
+			[ "acunaseis", "acunasen" ],
+			[ "acunasen" ]
+		],
+		"11" : [
+			[ "acunare" ],
+			[ "acunares" ],
+			[ "acunare" ],
+			[ "acunáremos" ],
+			[ "acunareis", "acunaren" ],
+			[ "acunaren" ]
+		],
+		"12" : {
+			"1" : [ "acuna" ],
+			"2" : [ "acune" ],
+			"3" : [ "acunemos" ],
+			"4" : [ "acunad" ],
+			"5" : [ "acunen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asentir",
+	"word" : "asentir",
+	"infinitivo" : "asentir",
+	"participio" : [ "asentido" ],
+	"gerundio" : [ "asintiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "asiento" ],
+			[ "asientes", "asentís" ],
+			[ "asiente" ],
+			[ "asentimos" ],
+			[ "asentís", "asienten" ],
+			[ "asienten" ]
+		],
+		"4" : [
+			[ "asentí" ],
+			[ "asentiste" ],
+			[ "asintió" ],
+			[ "asentimos" ],
+			[ "asentisteis", "asintieron" ],
+			[ "asintieron" ]
+		],
+		"5" : [
+			[ "asentía" ],
+			[ "asentías" ],
+			[ "asentía" ],
+			[ "asentíamos" ],
+			[ "asentíais", "asentían" ],
+			[ "asentían" ]
+		],
+		"6" : [
+			[ "asentiría" ],
+			[ "asentirías" ],
+			[ "asentiría" ],
+			[ "asentiríamos" ],
+			[ "asentiríais", "asentirían" ],
+			[ "asentirían" ]
+		],
+		"7" : [
+			[ "asentiré" ],
+			[ "asentirás" ],
+			[ "asentirá" ],
+			[ "asentiremos" ],
+			[ "asentiréis", "asentirán" ],
+			[ "asentirán" ]
+		],
+		"8" : [
+			[ "asienta" ],
+			[ "asientas" ],
+			[ "asienta" ],
+			[ "asintamos" ],
+			[ "asintáis", "asientan" ],
+			[ "asientan" ]
+		],
+		"9" : [
+			[ "asintiera" ],
+			[ "asintieras" ],
+			[ "asintiera" ],
+			[ "asintiéramos" ],
+			[ "asintierais", "asintieran" ],
+			[ "asintieran" ]
+		],
+		"10" : [
+			[ "asintiese" ],
+			[ "asintieses" ],
+			[ "asintiese" ],
+			[ "asintiésemos" ],
+			[ "asintieseis", "asintiesen" ],
+			[ "asintiesen" ]
+		],
+		"11" : [
+			[ "asintiere" ],
+			[ "asintieres" ],
+			[ "asintiere" ],
+			[ "asintiéremos" ],
+			[ "asintiereis", "asintieren" ],
+			[ "asintieren" ]
+		],
+		"12" : {
+			"1" : [ "asiente" ],
+			"2" : [ "asienta" ],
+			"3" : [ "asintamos" ],
+			"4" : [ "asentid" ],
+			"5" : [ "asientan" ]
+		}
+	}
+}

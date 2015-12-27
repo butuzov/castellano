@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=delinear",
+	"word" : "delinear",
+	"infinitivo" : "delinear",
+	"participio" : [ "delineado" ],
+	"gerundio" : [ "delineando" ],
+	"tenses" : {
+		"3" : [
+			[ "delineo" ],
+			[ "delineas", "delineás" ],
+			[ "delinea" ],
+			[ "delineamos" ],
+			[ "delineáis", "delinean" ],
+			[ "delinean" ]
+		],
+		"4" : [
+			[ "delineé" ],
+			[ "delineaste" ],
+			[ "delineó" ],
+			[ "delineamos" ],
+			[ "delineasteis", "delinearon" ],
+			[ "delinearon" ]
+		],
+		"5" : [
+			[ "delineaba" ],
+			[ "delineabas" ],
+			[ "delineaba" ],
+			[ "delineábamos" ],
+			[ "delineabais", "delineaban" ],
+			[ "delineaban" ]
+		],
+		"6" : [
+			[ "delinearía" ],
+			[ "delinearías" ],
+			[ "delinearía" ],
+			[ "delinearíamos" ],
+			[ "delinearíais", "delinearían" ],
+			[ "delinearían" ]
+		],
+		"7" : [
+			[ "delinearé" ],
+			[ "delinearás" ],
+			[ "delineará" ],
+			[ "delinearemos" ],
+			[ "delinearéis", "delinearán" ],
+			[ "delinearán" ]
+		],
+		"8" : [
+			[ "delinee" ],
+			[ "delinees" ],
+			[ "delinee" ],
+			[ "delineemos" ],
+			[ "delineéis", "delineen" ],
+			[ "delineen" ]
+		],
+		"9" : [
+			[ "delineara" ],
+			[ "delinearas" ],
+			[ "delineara" ],
+			[ "delineáramos" ],
+			[ "delinearais", "delinearan" ],
+			[ "delinearan" ]
+		],
+		"10" : [
+			[ "delinease" ],
+			[ "delineases" ],
+			[ "delinease" ],
+			[ "delineásemos" ],
+			[ "delineaseis", "delineasen" ],
+			[ "delineasen" ]
+		],
+		"11" : [
+			[ "delineare" ],
+			[ "delineares" ],
+			[ "delineare" ],
+			[ "delineáremos" ],
+			[ "delineareis", "delinearen" ],
+			[ "delinearen" ]
+		],
+		"12" : {
+			"1" : [ "delinea" ],
+			"2" : [ "delinee" ],
+			"3" : [ "delineemos" ],
+			"4" : [ "delinead" ],
+			"5" : [ "delineen" ]
+		}
+	}
+}

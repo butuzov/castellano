@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=subrogar",
+	"word" : "subrogar",
+	"infinitivo" : "subrogar",
+	"participio" : [ "subrogado" ],
+	"gerundio" : [ "subrogando" ],
+	"tenses" : {
+		"3" : [
+			[ "subrogo" ],
+			[ "subrogas", "subrogás" ],
+			[ "subroga" ],
+			[ "subrogamos" ],
+			[ "subrogáis", "subrogan" ],
+			[ "subrogan" ]
+		],
+		"4" : [
+			[ "subrogué" ],
+			[ "subrogaste" ],
+			[ "subrogó" ],
+			[ "subrogamos" ],
+			[ "subrogasteis", "subrogaron" ],
+			[ "subrogaron" ]
+		],
+		"5" : [
+			[ "subrogaba" ],
+			[ "subrogabas" ],
+			[ "subrogaba" ],
+			[ "subrogábamos" ],
+			[ "subrogabais", "subrogaban" ],
+			[ "subrogaban" ]
+		],
+		"6" : [
+			[ "subrogaría" ],
+			[ "subrogarías" ],
+			[ "subrogaría" ],
+			[ "subrogaríamos" ],
+			[ "subrogaríais", "subrogarían" ],
+			[ "subrogarían" ]
+		],
+		"7" : [
+			[ "subrogaré" ],
+			[ "subrogarás" ],
+			[ "subrogará" ],
+			[ "subrogaremos" ],
+			[ "subrogaréis", "subrogarán" ],
+			[ "subrogarán" ]
+		],
+		"8" : [
+			[ "subrogue" ],
+			[ "subrogues" ],
+			[ "subrogue" ],
+			[ "subroguemos" ],
+			[ "subroguéis", "subroguen" ],
+			[ "subroguen" ]
+		],
+		"9" : [
+			[ "subrogara" ],
+			[ "subrogaras" ],
+			[ "subrogara" ],
+			[ "subrogáramos" ],
+			[ "subrogarais", "subrogaran" ],
+			[ "subrogaran" ]
+		],
+		"10" : [
+			[ "subrogase" ],
+			[ "subrogases" ],
+			[ "subrogase" ],
+			[ "subrogásemos" ],
+			[ "subrogaseis", "subrogasen" ],
+			[ "subrogasen" ]
+		],
+		"11" : [
+			[ "subrogare" ],
+			[ "subrogares" ],
+			[ "subrogare" ],
+			[ "subrogáremos" ],
+			[ "subrogareis", "subrogaren" ],
+			[ "subrogaren" ]
+		],
+		"12" : {
+			"1" : [ "subroga" ],
+			"2" : [ "subrogue" ],
+			"3" : [ "subroguemos" ],
+			"4" : [ "subrogad" ],
+			"5" : [ "subroguen" ]
+		}
+	}
+}

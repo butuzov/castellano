@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ramificar",
+	"word" : "ramificar",
+	"infinitivo" : "ramificar",
+	"participio" : [ "ramificado" ],
+	"gerundio" : [ "ramificando" ],
+	"tenses" : {
+		"3" : [
+			[ "ramifico" ],
+			[ "ramificas", "ramificás" ],
+			[ "ramifica" ],
+			[ "ramificamos" ],
+			[ "ramificáis", "ramifican" ],
+			[ "ramifican" ]
+		],
+		"4" : [
+			[ "ramifiqué" ],
+			[ "ramificaste" ],
+			[ "ramificó" ],
+			[ "ramificamos" ],
+			[ "ramificasteis", "ramificaron" ],
+			[ "ramificaron" ]
+		],
+		"5" : [
+			[ "ramificaba" ],
+			[ "ramificabas" ],
+			[ "ramificaba" ],
+			[ "ramificábamos" ],
+			[ "ramificabais", "ramificaban" ],
+			[ "ramificaban" ]
+		],
+		"6" : [
+			[ "ramificaría" ],
+			[ "ramificarías" ],
+			[ "ramificaría" ],
+			[ "ramificaríamos" ],
+			[ "ramificaríais", "ramificarían" ],
+			[ "ramificarían" ]
+		],
+		"7" : [
+			[ "ramificaré" ],
+			[ "ramificarás" ],
+			[ "ramificará" ],
+			[ "ramificaremos" ],
+			[ "ramificaréis", "ramificarán" ],
+			[ "ramificarán" ]
+		],
+		"8" : [
+			[ "ramifique" ],
+			[ "ramifiques" ],
+			[ "ramifique" ],
+			[ "ramifiquemos" ],
+			[ "ramifiquéis", "ramifiquen" ],
+			[ "ramifiquen" ]
+		],
+		"9" : [
+			[ "ramificara" ],
+			[ "ramificaras" ],
+			[ "ramificara" ],
+			[ "ramificáramos" ],
+			[ "ramificarais", "ramificaran" ],
+			[ "ramificaran" ]
+		],
+		"10" : [
+			[ "ramificase" ],
+			[ "ramificases" ],
+			[ "ramificase" ],
+			[ "ramificásemos" ],
+			[ "ramificaseis", "ramificasen" ],
+			[ "ramificasen" ]
+		],
+		"11" : [
+			[ "ramificare" ],
+			[ "ramificares" ],
+			[ "ramificare" ],
+			[ "ramificáremos" ],
+			[ "ramificareis", "ramificaren" ],
+			[ "ramificaren" ]
+		],
+		"12" : {
+			"1" : [ "ramifica" ],
+			"2" : [ "ramifique" ],
+			"3" : [ "ramifiquemos" ],
+			"4" : [ "ramificad" ],
+			"5" : [ "ramifiquen" ]
+		}
+	}
+}

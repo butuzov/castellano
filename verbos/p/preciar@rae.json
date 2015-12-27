@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=preciar",
+	"word" : "preciar",
+	"infinitivo" : "preciar",
+	"participio" : [ "preciado" ],
+	"gerundio" : [ "preciando" ],
+	"tenses" : {
+		"3" : [
+			[ "precio" ],
+			[ "precias", "preciás" ],
+			[ "precia" ],
+			[ "preciamos" ],
+			[ "preciáis", "precian" ],
+			[ "precian" ]
+		],
+		"4" : [
+			[ "precié" ],
+			[ "preciaste" ],
+			[ "preció" ],
+			[ "preciamos" ],
+			[ "preciasteis", "preciaron" ],
+			[ "preciaron" ]
+		],
+		"5" : [
+			[ "preciaba" ],
+			[ "preciabas" ],
+			[ "preciaba" ],
+			[ "preciábamos" ],
+			[ "preciabais", "preciaban" ],
+			[ "preciaban" ]
+		],
+		"6" : [
+			[ "preciaría" ],
+			[ "preciarías" ],
+			[ "preciaría" ],
+			[ "preciaríamos" ],
+			[ "preciaríais", "preciarían" ],
+			[ "preciarían" ]
+		],
+		"7" : [
+			[ "preciaré" ],
+			[ "preciarás" ],
+			[ "preciará" ],
+			[ "preciaremos" ],
+			[ "preciaréis", "preciarán" ],
+			[ "preciarán" ]
+		],
+		"8" : [
+			[ "precie" ],
+			[ "precies" ],
+			[ "precie" ],
+			[ "preciemos" ],
+			[ "preciéis", "precien" ],
+			[ "precien" ]
+		],
+		"9" : [
+			[ "preciara" ],
+			[ "preciaras" ],
+			[ "preciara" ],
+			[ "preciáramos" ],
+			[ "preciarais", "preciaran" ],
+			[ "preciaran" ]
+		],
+		"10" : [
+			[ "preciase" ],
+			[ "preciases" ],
+			[ "preciase" ],
+			[ "preciásemos" ],
+			[ "preciaseis", "preciasen" ],
+			[ "preciasen" ]
+		],
+		"11" : [
+			[ "preciare" ],
+			[ "preciares" ],
+			[ "preciare" ],
+			[ "preciáremos" ],
+			[ "preciareis", "preciaren" ],
+			[ "preciaren" ]
+		],
+		"12" : {
+			"1" : [ "precia" ],
+			"2" : [ "precie" ],
+			"3" : [ "preciemos" ],
+			"4" : [ "preciad" ],
+			"5" : [ "precien" ]
+		}
+	}
+}

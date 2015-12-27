@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=copular",
+	"word" : "copular",
+	"infinitivo" : "copular",
+	"participio" : [ "copulado" ],
+	"gerundio" : [ "copulando" ],
+	"tenses" : {
+		"3" : [
+			[ "copulo" ],
+			[ "copulas", "copulás" ],
+			[ "copula" ],
+			[ "copulamos" ],
+			[ "copuláis", "copulan" ],
+			[ "copulan" ]
+		],
+		"4" : [
+			[ "copulé" ],
+			[ "copulaste" ],
+			[ "copuló" ],
+			[ "copulamos" ],
+			[ "copulasteis", "copularon" ],
+			[ "copularon" ]
+		],
+		"5" : [
+			[ "copulaba" ],
+			[ "copulabas" ],
+			[ "copulaba" ],
+			[ "copulábamos" ],
+			[ "copulabais", "copulaban" ],
+			[ "copulaban" ]
+		],
+		"6" : [
+			[ "copularía" ],
+			[ "copularías" ],
+			[ "copularía" ],
+			[ "copularíamos" ],
+			[ "copularíais", "copularían" ],
+			[ "copularían" ]
+		],
+		"7" : [
+			[ "copularé" ],
+			[ "copularás" ],
+			[ "copulará" ],
+			[ "copularemos" ],
+			[ "copularéis", "copularán" ],
+			[ "copularán" ]
+		],
+		"8" : [
+			[ "copule" ],
+			[ "copules" ],
+			[ "copule" ],
+			[ "copulemos" ],
+			[ "copuléis", "copulen" ],
+			[ "copulen" ]
+		],
+		"9" : [
+			[ "copulara" ],
+			[ "copularas" ],
+			[ "copulara" ],
+			[ "copuláramos" ],
+			[ "copularais", "copularan" ],
+			[ "copularan" ]
+		],
+		"10" : [
+			[ "copulase" ],
+			[ "copulases" ],
+			[ "copulase" ],
+			[ "copulásemos" ],
+			[ "copulaseis", "copulasen" ],
+			[ "copulasen" ]
+		],
+		"11" : [
+			[ "copulare" ],
+			[ "copulares" ],
+			[ "copulare" ],
+			[ "copuláremos" ],
+			[ "copulareis", "copularen" ],
+			[ "copularen" ]
+		],
+		"12" : {
+			"1" : [ "copula" ],
+			"2" : [ "copule" ],
+			"3" : [ "copulemos" ],
+			"4" : [ "copulad" ],
+			"5" : [ "copulen" ]
+		}
+	}
+}

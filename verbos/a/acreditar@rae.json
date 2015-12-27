@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acreditar",
+	"word" : "acreditar",
+	"infinitivo" : "acreditar",
+	"participio" : [ "acreditado" ],
+	"gerundio" : [ "acreditando" ],
+	"tenses" : {
+		"3" : [
+			[ "acredito" ],
+			[ "acreditas", "acreditás" ],
+			[ "acredita" ],
+			[ "acreditamos" ],
+			[ "acreditáis", "acreditan" ],
+			[ "acreditan" ]
+		],
+		"4" : [
+			[ "acredité" ],
+			[ "acreditaste" ],
+			[ "acreditó" ],
+			[ "acreditamos" ],
+			[ "acreditasteis", "acreditaron" ],
+			[ "acreditaron" ]
+		],
+		"5" : [
+			[ "acreditaba" ],
+			[ "acreditabas" ],
+			[ "acreditaba" ],
+			[ "acreditábamos" ],
+			[ "acreditabais", "acreditaban" ],
+			[ "acreditaban" ]
+		],
+		"6" : [
+			[ "acreditaría" ],
+			[ "acreditarías" ],
+			[ "acreditaría" ],
+			[ "acreditaríamos" ],
+			[ "acreditaríais", "acreditarían" ],
+			[ "acreditarían" ]
+		],
+		"7" : [
+			[ "acreditaré" ],
+			[ "acreditarás" ],
+			[ "acreditará" ],
+			[ "acreditaremos" ],
+			[ "acreditaréis", "acreditarán" ],
+			[ "acreditarán" ]
+		],
+		"8" : [
+			[ "acredite" ],
+			[ "acredites" ],
+			[ "acredite" ],
+			[ "acreditemos" ],
+			[ "acreditéis", "acrediten" ],
+			[ "acrediten" ]
+		],
+		"9" : [
+			[ "acreditara" ],
+			[ "acreditaras" ],
+			[ "acreditara" ],
+			[ "acreditáramos" ],
+			[ "acreditarais", "acreditaran" ],
+			[ "acreditaran" ]
+		],
+		"10" : [
+			[ "acreditase" ],
+			[ "acreditases" ],
+			[ "acreditase" ],
+			[ "acreditásemos" ],
+			[ "acreditaseis", "acreditasen" ],
+			[ "acreditasen" ]
+		],
+		"11" : [
+			[ "acreditare" ],
+			[ "acreditares" ],
+			[ "acreditare" ],
+			[ "acreditáremos" ],
+			[ "acreditareis", "acreditaren" ],
+			[ "acreditaren" ]
+		],
+		"12" : {
+			"1" : [ "acredita" ],
+			"2" : [ "acredite" ],
+			"3" : [ "acreditemos" ],
+			"4" : [ "acreditad" ],
+			"5" : [ "acrediten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incidir",
+	"word" : "incidir",
+	"infinitivo" : "incidir",
+	"participio" : [ "incidido" ],
+	"gerundio" : [ "incidiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "incido" ],
+			[ "incides", "incidís" ],
+			[ "incide" ],
+			[ "incidimos" ],
+			[ "incidís", "inciden" ],
+			[ "inciden" ]
+		],
+		"4" : [
+			[ "incidí" ],
+			[ "incidiste" ],
+			[ "incidió" ],
+			[ "incidimos" ],
+			[ "incidisteis", "incidieron" ],
+			[ "incidieron" ]
+		],
+		"5" : [
+			[ "incidía" ],
+			[ "incidías" ],
+			[ "incidía" ],
+			[ "incidíamos" ],
+			[ "incidíais", "incidían" ],
+			[ "incidían" ]
+		],
+		"6" : [
+			[ "incidiría" ],
+			[ "incidirías" ],
+			[ "incidiría" ],
+			[ "incidiríamos" ],
+			[ "incidiríais", "incidirían" ],
+			[ "incidirían" ]
+		],
+		"7" : [
+			[ "incidiré" ],
+			[ "incidirás" ],
+			[ "incidirá" ],
+			[ "incidiremos" ],
+			[ "incidiréis", "incidirán" ],
+			[ "incidirán" ]
+		],
+		"8" : [
+			[ "incida" ],
+			[ "incidas" ],
+			[ "incida" ],
+			[ "incidamos" ],
+			[ "incidáis", "incidan" ],
+			[ "incidan" ]
+		],
+		"9" : [
+			[ "incidiera" ],
+			[ "incidieras" ],
+			[ "incidiera" ],
+			[ "incidiéramos" ],
+			[ "incidierais", "incidieran" ],
+			[ "incidieran" ]
+		],
+		"10" : [
+			[ "incidiese" ],
+			[ "incidieses" ],
+			[ "incidiese" ],
+			[ "incidiésemos" ],
+			[ "incidieseis", "incidiesen" ],
+			[ "incidiesen" ]
+		],
+		"11" : [
+			[ "incidiere" ],
+			[ "incidieres" ],
+			[ "incidiere" ],
+			[ "incidiéremos" ],
+			[ "incidiereis", "incidieren" ],
+			[ "incidieren" ]
+		],
+		"12" : {
+			"1" : [ "incide" ],
+			"2" : [ "incida" ],
+			"3" : [ "incidamos" ],
+			"4" : [ "incidid" ],
+			"5" : [ "incidan" ]
+		}
+	}
+}

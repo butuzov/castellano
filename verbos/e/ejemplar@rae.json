@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ejemplar",
+	"word" : "ejemplar",
+	"infinitivo" : "ejemplar",
+	"participio" : [ "ejemplado" ],
+	"gerundio" : [ "ejemplando" ],
+	"tenses" : {
+		"3" : [
+			[ "ejemplo" ],
+			[ "ejemplas", "ejemplás" ],
+			[ "ejempla" ],
+			[ "ejemplamos" ],
+			[ "ejempláis", "ejemplan" ],
+			[ "ejemplan" ]
+		],
+		"4" : [
+			[ "ejemplé" ],
+			[ "ejemplaste" ],
+			[ "ejempló" ],
+			[ "ejemplamos" ],
+			[ "ejemplasteis", "ejemplaron" ],
+			[ "ejemplaron" ]
+		],
+		"5" : [
+			[ "ejemplaba" ],
+			[ "ejemplabas" ],
+			[ "ejemplaba" ],
+			[ "ejemplábamos" ],
+			[ "ejemplabais", "ejemplaban" ],
+			[ "ejemplaban" ]
+		],
+		"6" : [
+			[ "ejemplaría" ],
+			[ "ejemplarías" ],
+			[ "ejemplaría" ],
+			[ "ejemplaríamos" ],
+			[ "ejemplaríais", "ejemplarían" ],
+			[ "ejemplarían" ]
+		],
+		"7" : [
+			[ "ejemplaré" ],
+			[ "ejemplarás" ],
+			[ "ejemplará" ],
+			[ "ejemplaremos" ],
+			[ "ejemplaréis", "ejemplarán" ],
+			[ "ejemplarán" ]
+		],
+		"8" : [
+			[ "ejemple" ],
+			[ "ejemples" ],
+			[ "ejemple" ],
+			[ "ejemplemos" ],
+			[ "ejempléis", "ejemplen" ],
+			[ "ejemplen" ]
+		],
+		"9" : [
+			[ "ejemplara" ],
+			[ "ejemplaras" ],
+			[ "ejemplara" ],
+			[ "ejempláramos" ],
+			[ "ejemplarais", "ejemplaran" ],
+			[ "ejemplaran" ]
+		],
+		"10" : [
+			[ "ejemplase" ],
+			[ "ejemplases" ],
+			[ "ejemplase" ],
+			[ "ejemplásemos" ],
+			[ "ejemplaseis", "ejemplasen" ],
+			[ "ejemplasen" ]
+		],
+		"11" : [
+			[ "ejemplare" ],
+			[ "ejemplares" ],
+			[ "ejemplare" ],
+			[ "ejempláremos" ],
+			[ "ejemplareis", "ejemplaren" ],
+			[ "ejemplaren" ]
+		],
+		"12" : {
+			"1" : [ "ejempla" ],
+			"2" : [ "ejemple" ],
+			"3" : [ "ejemplemos" ],
+			"4" : [ "ejemplad" ],
+			"5" : [ "ejemplen" ]
+		}
+	}
+}

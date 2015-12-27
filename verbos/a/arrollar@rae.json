@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrollar",
+	"word" : "arrollar",
+	"infinitivo" : "arrollar",
+	"participio" : [ "arrollado" ],
+	"gerundio" : [ "arrollando" ],
+	"tenses" : {
+		"3" : [
+			[ "arrollo" ],
+			[ "arrollas", "arrollás" ],
+			[ "arrolla" ],
+			[ "arrollamos" ],
+			[ "arrolláis", "arrollan" ],
+			[ "arrollan" ]
+		],
+		"4" : [
+			[ "arrollé" ],
+			[ "arrollaste" ],
+			[ "arrolló" ],
+			[ "arrollamos" ],
+			[ "arrollasteis", "arrollaron" ],
+			[ "arrollaron" ]
+		],
+		"5" : [
+			[ "arrollaba" ],
+			[ "arrollabas" ],
+			[ "arrollaba" ],
+			[ "arrollábamos" ],
+			[ "arrollabais", "arrollaban" ],
+			[ "arrollaban" ]
+		],
+		"6" : [
+			[ "arrollaría" ],
+			[ "arrollarías" ],
+			[ "arrollaría" ],
+			[ "arrollaríamos" ],
+			[ "arrollaríais", "arrollarían" ],
+			[ "arrollarían" ]
+		],
+		"7" : [
+			[ "arrollaré" ],
+			[ "arrollarás" ],
+			[ "arrollará" ],
+			[ "arrollaremos" ],
+			[ "arrollaréis", "arrollarán" ],
+			[ "arrollarán" ]
+		],
+		"8" : [
+			[ "arrolle" ],
+			[ "arrolles" ],
+			[ "arrolle" ],
+			[ "arrollemos" ],
+			[ "arrolléis", "arrollen" ],
+			[ "arrollen" ]
+		],
+		"9" : [
+			[ "arrollara" ],
+			[ "arrollaras" ],
+			[ "arrollara" ],
+			[ "arrolláramos" ],
+			[ "arrollarais", "arrollaran" ],
+			[ "arrollaran" ]
+		],
+		"10" : [
+			[ "arrollase" ],
+			[ "arrollases" ],
+			[ "arrollase" ],
+			[ "arrollásemos" ],
+			[ "arrollaseis", "arrollasen" ],
+			[ "arrollasen" ]
+		],
+		"11" : [
+			[ "arrollare" ],
+			[ "arrollares" ],
+			[ "arrollare" ],
+			[ "arrolláremos" ],
+			[ "arrollareis", "arrollaren" ],
+			[ "arrollaren" ]
+		],
+		"12" : {
+			"1" : [ "arrolla" ],
+			"2" : [ "arrolle" ],
+			"3" : [ "arrollemos" ],
+			"4" : [ "arrollad" ],
+			"5" : [ "arrollen" ]
+		}
+	}
+}

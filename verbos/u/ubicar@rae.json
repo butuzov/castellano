@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ubicar",
+	"word" : "ubicar",
+	"infinitivo" : "ubicar",
+	"participio" : [ "ubicado" ],
+	"gerundio" : [ "ubicando" ],
+	"tenses" : {
+		"3" : [
+			[ "ubico" ],
+			[ "ubicas", "ubicás" ],
+			[ "ubica" ],
+			[ "ubicamos" ],
+			[ "ubicáis", "ubican" ],
+			[ "ubican" ]
+		],
+		"4" : [
+			[ "ubiqué" ],
+			[ "ubicaste" ],
+			[ "ubicó" ],
+			[ "ubicamos" ],
+			[ "ubicasteis", "ubicaron" ],
+			[ "ubicaron" ]
+		],
+		"5" : [
+			[ "ubicaba" ],
+			[ "ubicabas" ],
+			[ "ubicaba" ],
+			[ "ubicábamos" ],
+			[ "ubicabais", "ubicaban" ],
+			[ "ubicaban" ]
+		],
+		"6" : [
+			[ "ubicaría" ],
+			[ "ubicarías" ],
+			[ "ubicaría" ],
+			[ "ubicaríamos" ],
+			[ "ubicaríais", "ubicarían" ],
+			[ "ubicarían" ]
+		],
+		"7" : [
+			[ "ubicaré" ],
+			[ "ubicarás" ],
+			[ "ubicará" ],
+			[ "ubicaremos" ],
+			[ "ubicaréis", "ubicarán" ],
+			[ "ubicarán" ]
+		],
+		"8" : [
+			[ "ubique" ],
+			[ "ubiques" ],
+			[ "ubique" ],
+			[ "ubiquemos" ],
+			[ "ubiquéis", "ubiquen" ],
+			[ "ubiquen" ]
+		],
+		"9" : [
+			[ "ubicara" ],
+			[ "ubicaras" ],
+			[ "ubicara" ],
+			[ "ubicáramos" ],
+			[ "ubicarais", "ubicaran" ],
+			[ "ubicaran" ]
+		],
+		"10" : [
+			[ "ubicase" ],
+			[ "ubicases" ],
+			[ "ubicase" ],
+			[ "ubicásemos" ],
+			[ "ubicaseis", "ubicasen" ],
+			[ "ubicasen" ]
+		],
+		"11" : [
+			[ "ubicare" ],
+			[ "ubicares" ],
+			[ "ubicare" ],
+			[ "ubicáremos" ],
+			[ "ubicareis", "ubicaren" ],
+			[ "ubicaren" ]
+		],
+		"12" : {
+			"1" : [ "ubica" ],
+			"2" : [ "ubique" ],
+			"3" : [ "ubiquemos" ],
+			"4" : [ "ubicad" ],
+			"5" : [ "ubiquen" ]
+		}
+	}
+}

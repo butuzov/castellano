@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sobrevenir",
+	"word" : "sobrevenir",
+	"infinitivo" : "sobrevenir",
+	"participio" : [ "sobrevenido" ],
+	"gerundio" : [ "sobreviniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sobrevengo" ],
+			[ "sobrevienes", "sobrevenís" ],
+			[ "sobreviene" ],
+			[ "sobrevenimos" ],
+			[ "sobrevenís", "sobrevienen" ],
+			[ "sobrevienen" ]
+		],
+		"4" : [
+			[ "sobrevine" ],
+			[ "sobreviniste" ],
+			[ "sobrevino" ],
+			[ "sobrevinimos" ],
+			[ "sobrevinisteis", "sobrevinieron" ],
+			[ "sobrevinieron" ]
+		],
+		"5" : [
+			[ "sobrevenía" ],
+			[ "sobrevenías" ],
+			[ "sobrevenía" ],
+			[ "sobreveníamos" ],
+			[ "sobreveníais", "sobrevenían" ],
+			[ "sobrevenían" ]
+		],
+		"6" : [
+			[ "sobrevendría" ],
+			[ "sobrevendrías" ],
+			[ "sobrevendría" ],
+			[ "sobrevendríamos" ],
+			[ "sobrevendríais", "sobrevendrían" ],
+			[ "sobrevendrían" ]
+		],
+		"7" : [
+			[ "sobrevendré" ],
+			[ "sobrevendrás" ],
+			[ "sobrevendrá" ],
+			[ "sobrevendremos" ],
+			[ "sobrevendréis", "sobrevendrán" ],
+			[ "sobrevendrán" ]
+		],
+		"8" : [
+			[ "sobrevenga" ],
+			[ "sobrevengas" ],
+			[ "sobrevenga" ],
+			[ "sobrevengamos" ],
+			[ "sobrevengáis", "sobrevengan" ],
+			[ "sobrevengan" ]
+		],
+		"9" : [
+			[ "sobreviniera" ],
+			[ "sobrevinieras" ],
+			[ "sobreviniera" ],
+			[ "sobreviniéramos" ],
+			[ "sobrevinierais", "sobrevinieran" ],
+			[ "sobrevinieran" ]
+		],
+		"10" : [
+			[ "sobreviniese" ],
+			[ "sobrevinieses" ],
+			[ "sobreviniese" ],
+			[ "sobreviniésemos" ],
+			[ "sobrevinieseis", "sobreviniesen" ],
+			[ "sobreviniesen" ]
+		],
+		"11" : [
+			[ "sobreviniere" ],
+			[ "sobrevinieres" ],
+			[ "sobreviniere" ],
+			[ "sobreviniéremos" ],
+			[ "sobreviniereis", "sobrevinieren" ],
+			[ "sobrevinieren" ]
+		],
+		"12" : {
+			"1" : [ "sobrevén" ],
+			"2" : [ "sobrevenga" ],
+			"3" : [ "sobrevengamos" ],
+			"4" : [ "sobrevenid" ],
+			"5" : [ "sobrevengan" ]
+		}
+	}
+}

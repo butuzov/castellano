@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conminar",
+	"word" : "conminar",
+	"infinitivo" : "conminar",
+	"participio" : [ "conminado" ],
+	"gerundio" : [ "conminando" ],
+	"tenses" : {
+		"3" : [
+			[ "conmino" ],
+			[ "conminas", "conminás" ],
+			[ "conmina" ],
+			[ "conminamos" ],
+			[ "conmináis", "conminan" ],
+			[ "conminan" ]
+		],
+		"4" : [
+			[ "conminé" ],
+			[ "conminaste" ],
+			[ "conminó" ],
+			[ "conminamos" ],
+			[ "conminasteis", "conminaron" ],
+			[ "conminaron" ]
+		],
+		"5" : [
+			[ "conminaba" ],
+			[ "conminabas" ],
+			[ "conminaba" ],
+			[ "conminábamos" ],
+			[ "conminabais", "conminaban" ],
+			[ "conminaban" ]
+		],
+		"6" : [
+			[ "conminaría" ],
+			[ "conminarías" ],
+			[ "conminaría" ],
+			[ "conminaríamos" ],
+			[ "conminaríais", "conminarían" ],
+			[ "conminarían" ]
+		],
+		"7" : [
+			[ "conminaré" ],
+			[ "conminarás" ],
+			[ "conminará" ],
+			[ "conminaremos" ],
+			[ "conminaréis", "conminarán" ],
+			[ "conminarán" ]
+		],
+		"8" : [
+			[ "conmine" ],
+			[ "conmines" ],
+			[ "conmine" ],
+			[ "conminemos" ],
+			[ "conminéis", "conminen" ],
+			[ "conminen" ]
+		],
+		"9" : [
+			[ "conminara" ],
+			[ "conminaras" ],
+			[ "conminara" ],
+			[ "conmináramos" ],
+			[ "conminarais", "conminaran" ],
+			[ "conminaran" ]
+		],
+		"10" : [
+			[ "conminase" ],
+			[ "conminases" ],
+			[ "conminase" ],
+			[ "conminásemos" ],
+			[ "conminaseis", "conminasen" ],
+			[ "conminasen" ]
+		],
+		"11" : [
+			[ "conminare" ],
+			[ "conminares" ],
+			[ "conminare" ],
+			[ "conmináremos" ],
+			[ "conminareis", "conminaren" ],
+			[ "conminaren" ]
+		],
+		"12" : {
+			"1" : [ "conmina" ],
+			"2" : [ "conmine" ],
+			"3" : [ "conminemos" ],
+			"4" : [ "conminad" ],
+			"5" : [ "conminen" ]
+		}
+	}
+}

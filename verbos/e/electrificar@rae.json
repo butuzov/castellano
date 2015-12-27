@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=electrificar",
+	"word" : "electrificar",
+	"infinitivo" : "electrificar",
+	"participio" : [ "electrificado" ],
+	"gerundio" : [ "electrificando" ],
+	"tenses" : {
+		"3" : [
+			[ "electrifico" ],
+			[ "electrificas", "electrificás" ],
+			[ "electrifica" ],
+			[ "electrificamos" ],
+			[ "electrificáis", "electrifican" ],
+			[ "electrifican" ]
+		],
+		"4" : [
+			[ "electrifiqué" ],
+			[ "electrificaste" ],
+			[ "electrificó" ],
+			[ "electrificamos" ],
+			[ "electrificasteis", "electrificaron" ],
+			[ "electrificaron" ]
+		],
+		"5" : [
+			[ "electrificaba" ],
+			[ "electrificabas" ],
+			[ "electrificaba" ],
+			[ "electrificábamos" ],
+			[ "electrificabais", "electrificaban" ],
+			[ "electrificaban" ]
+		],
+		"6" : [
+			[ "electrificaría" ],
+			[ "electrificarías" ],
+			[ "electrificaría" ],
+			[ "electrificaríamos" ],
+			[ "electrificaríais", "electrificarían" ],
+			[ "electrificarían" ]
+		],
+		"7" : [
+			[ "electrificaré" ],
+			[ "electrificarás" ],
+			[ "electrificará" ],
+			[ "electrificaremos" ],
+			[ "electrificaréis", "electrificarán" ],
+			[ "electrificarán" ]
+		],
+		"8" : [
+			[ "electrifique" ],
+			[ "electrifiques" ],
+			[ "electrifique" ],
+			[ "electrifiquemos" ],
+			[ "electrifiquéis", "electrifiquen" ],
+			[ "electrifiquen" ]
+		],
+		"9" : [
+			[ "electrificara" ],
+			[ "electrificaras" ],
+			[ "electrificara" ],
+			[ "electrificáramos" ],
+			[ "electrificarais", "electrificaran" ],
+			[ "electrificaran" ]
+		],
+		"10" : [
+			[ "electrificase" ],
+			[ "electrificases" ],
+			[ "electrificase" ],
+			[ "electrificásemos" ],
+			[ "electrificaseis", "electrificasen" ],
+			[ "electrificasen" ]
+		],
+		"11" : [
+			[ "electrificare" ],
+			[ "electrificares" ],
+			[ "electrificare" ],
+			[ "electrificáremos" ],
+			[ "electrificareis", "electrificaren" ],
+			[ "electrificaren" ]
+		],
+		"12" : {
+			"1" : [ "electrifica" ],
+			"2" : [ "electrifique" ],
+			"3" : [ "electrifiquemos" ],
+			"4" : [ "electrificad" ],
+			"5" : [ "electrifiquen" ]
+		}
+	}
+}

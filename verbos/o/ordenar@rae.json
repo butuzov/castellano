@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ordenar",
+	"word" : "ordenar",
+	"infinitivo" : "ordenar",
+	"participio" : [ "ordenado" ],
+	"gerundio" : [ "ordenando" ],
+	"tenses" : {
+		"3" : [
+			[ "ordeno" ],
+			[ "ordenas", "ordenás" ],
+			[ "ordena" ],
+			[ "ordenamos" ],
+			[ "ordenáis", "ordenan" ],
+			[ "ordenan" ]
+		],
+		"4" : [
+			[ "ordené" ],
+			[ "ordenaste" ],
+			[ "ordenó" ],
+			[ "ordenamos" ],
+			[ "ordenasteis", "ordenaron" ],
+			[ "ordenaron" ]
+		],
+		"5" : [
+			[ "ordenaba" ],
+			[ "ordenabas" ],
+			[ "ordenaba" ],
+			[ "ordenábamos" ],
+			[ "ordenabais", "ordenaban" ],
+			[ "ordenaban" ]
+		],
+		"6" : [
+			[ "ordenaría" ],
+			[ "ordenarías" ],
+			[ "ordenaría" ],
+			[ "ordenaríamos" ],
+			[ "ordenaríais", "ordenarían" ],
+			[ "ordenarían" ]
+		],
+		"7" : [
+			[ "ordenaré" ],
+			[ "ordenarás" ],
+			[ "ordenará" ],
+			[ "ordenaremos" ],
+			[ "ordenaréis", "ordenarán" ],
+			[ "ordenarán" ]
+		],
+		"8" : [
+			[ "ordene" ],
+			[ "ordenes" ],
+			[ "ordene" ],
+			[ "ordenemos" ],
+			[ "ordenéis", "ordenen" ],
+			[ "ordenen" ]
+		],
+		"9" : [
+			[ "ordenara" ],
+			[ "ordenaras" ],
+			[ "ordenara" ],
+			[ "ordenáramos" ],
+			[ "ordenarais", "ordenaran" ],
+			[ "ordenaran" ]
+		],
+		"10" : [
+			[ "ordenase" ],
+			[ "ordenases" ],
+			[ "ordenase" ],
+			[ "ordenásemos" ],
+			[ "ordenaseis", "ordenasen" ],
+			[ "ordenasen" ]
+		],
+		"11" : [
+			[ "ordenare" ],
+			[ "ordenares" ],
+			[ "ordenare" ],
+			[ "ordenáremos" ],
+			[ "ordenareis", "ordenaren" ],
+			[ "ordenaren" ]
+		],
+		"12" : {
+			"1" : [ "ordena" ],
+			"2" : [ "ordene" ],
+			"3" : [ "ordenemos" ],
+			"4" : [ "ordenad" ],
+			"5" : [ "ordenen" ]
+		}
+	}
+}

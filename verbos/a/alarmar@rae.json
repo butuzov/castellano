@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alarmar",
+	"word" : "alarmar",
+	"infinitivo" : "alarmar",
+	"participio" : [ "alarmado" ],
+	"gerundio" : [ "alarmando" ],
+	"tenses" : {
+		"3" : [
+			[ "alarmo" ],
+			[ "alarmas", "alarmás" ],
+			[ "alarma" ],
+			[ "alarmamos" ],
+			[ "alarmáis", "alarman" ],
+			[ "alarman" ]
+		],
+		"4" : [
+			[ "alarmé" ],
+			[ "alarmaste" ],
+			[ "alarmó" ],
+			[ "alarmamos" ],
+			[ "alarmasteis", "alarmaron" ],
+			[ "alarmaron" ]
+		],
+		"5" : [
+			[ "alarmaba" ],
+			[ "alarmabas" ],
+			[ "alarmaba" ],
+			[ "alarmábamos" ],
+			[ "alarmabais", "alarmaban" ],
+			[ "alarmaban" ]
+		],
+		"6" : [
+			[ "alarmaría" ],
+			[ "alarmarías" ],
+			[ "alarmaría" ],
+			[ "alarmaríamos" ],
+			[ "alarmaríais", "alarmarían" ],
+			[ "alarmarían" ]
+		],
+		"7" : [
+			[ "alarmaré" ],
+			[ "alarmarás" ],
+			[ "alarmará" ],
+			[ "alarmaremos" ],
+			[ "alarmaréis", "alarmarán" ],
+			[ "alarmarán" ]
+		],
+		"8" : [
+			[ "alarme" ],
+			[ "alarmes" ],
+			[ "alarme" ],
+			[ "alarmemos" ],
+			[ "alarméis", "alarmen" ],
+			[ "alarmen" ]
+		],
+		"9" : [
+			[ "alarmara" ],
+			[ "alarmaras" ],
+			[ "alarmara" ],
+			[ "alarmáramos" ],
+			[ "alarmarais", "alarmaran" ],
+			[ "alarmaran" ]
+		],
+		"10" : [
+			[ "alarmase" ],
+			[ "alarmases" ],
+			[ "alarmase" ],
+			[ "alarmásemos" ],
+			[ "alarmaseis", "alarmasen" ],
+			[ "alarmasen" ]
+		],
+		"11" : [
+			[ "alarmare" ],
+			[ "alarmares" ],
+			[ "alarmare" ],
+			[ "alarmáremos" ],
+			[ "alarmareis", "alarmaren" ],
+			[ "alarmaren" ]
+		],
+		"12" : {
+			"1" : [ "alarma" ],
+			"2" : [ "alarme" ],
+			"3" : [ "alarmemos" ],
+			"4" : [ "alarmad" ],
+			"5" : [ "alarmen" ]
+		}
+	}
+}

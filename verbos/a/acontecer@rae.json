@@ -1,0 +1,45 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acontecer",
+	"word" : "acontecer",
+	"infinitivo" : "acontecer",
+	"participio" : [ "acontecido" ],
+	"gerundio" : [ "aconteciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "acontece" ],
+			[ "acontecen" ]
+		],
+		"4" : [
+			[ "aconteció" ],
+			[ "acontecieron" ]
+		],
+		"5" : [
+			[ "acontecía" ],
+			[ "acontecían" ]
+		],
+		"6" : [
+			[ "acontecería" ],
+			[ "acontecerían" ]
+		],
+		"7" : [
+			[ "acontecerá" ],
+			[ "acontecerán" ]
+		],
+		"8" : [
+			[ "acontezca" ],
+			[ "acontezcan" ]
+		],
+		"9" : [
+			[ "aconteciera" ],
+			[ "acontecieran" ]
+		],
+		"10" : [
+			[ "aconteciese" ],
+			[ "aconteciesen" ]
+		],
+		"11" : [
+			[ "aconteciere" ],
+			[ "acontecieren" ]
+		]
+	}
+}

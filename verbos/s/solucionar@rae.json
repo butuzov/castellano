@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=solucionar",
+	"word" : "solucionar",
+	"infinitivo" : "solucionar",
+	"participio" : [ "solucionado" ],
+	"gerundio" : [ "solucionando" ],
+	"tenses" : {
+		"3" : [
+			[ "soluciono" ],
+			[ "solucionas", "solucionás" ],
+			[ "soluciona" ],
+			[ "solucionamos" ],
+			[ "solucionáis", "solucionan" ],
+			[ "solucionan" ]
+		],
+		"4" : [
+			[ "solucioné" ],
+			[ "solucionaste" ],
+			[ "solucionó" ],
+			[ "solucionamos" ],
+			[ "solucionasteis", "solucionaron" ],
+			[ "solucionaron" ]
+		],
+		"5" : [
+			[ "solucionaba" ],
+			[ "solucionabas" ],
+			[ "solucionaba" ],
+			[ "solucionábamos" ],
+			[ "solucionabais", "solucionaban" ],
+			[ "solucionaban" ]
+		],
+		"6" : [
+			[ "solucionaría" ],
+			[ "solucionarías" ],
+			[ "solucionaría" ],
+			[ "solucionaríamos" ],
+			[ "solucionaríais", "solucionarían" ],
+			[ "solucionarían" ]
+		],
+		"7" : [
+			[ "solucionaré" ],
+			[ "solucionarás" ],
+			[ "solucionará" ],
+			[ "solucionaremos" ],
+			[ "solucionaréis", "solucionarán" ],
+			[ "solucionarán" ]
+		],
+		"8" : [
+			[ "solucione" ],
+			[ "soluciones" ],
+			[ "solucione" ],
+			[ "solucionemos" ],
+			[ "solucionéis", "solucionen" ],
+			[ "solucionen" ]
+		],
+		"9" : [
+			[ "solucionara" ],
+			[ "solucionaras" ],
+			[ "solucionara" ],
+			[ "solucionáramos" ],
+			[ "solucionarais", "solucionaran" ],
+			[ "solucionaran" ]
+		],
+		"10" : [
+			[ "solucionase" ],
+			[ "solucionases" ],
+			[ "solucionase" ],
+			[ "solucionásemos" ],
+			[ "solucionaseis", "solucionasen" ],
+			[ "solucionasen" ]
+		],
+		"11" : [
+			[ "solucionare" ],
+			[ "solucionares" ],
+			[ "solucionare" ],
+			[ "solucionáremos" ],
+			[ "solucionareis", "solucionaren" ],
+			[ "solucionaren" ]
+		],
+		"12" : {
+			"1" : [ "soluciona" ],
+			"2" : [ "solucione" ],
+			"3" : [ "solucionemos" ],
+			"4" : [ "solucionad" ],
+			"5" : [ "solucionen" ]
+		}
+	}
+}

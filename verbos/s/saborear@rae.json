@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=saborear",
+	"word" : "saborear",
+	"infinitivo" : "saborear",
+	"participio" : [ "saboreado" ],
+	"gerundio" : [ "saboreando" ],
+	"tenses" : {
+		"3" : [
+			[ "saboreo" ],
+			[ "saboreas", "saboreás" ],
+			[ "saborea" ],
+			[ "saboreamos" ],
+			[ "saboreáis", "saborean" ],
+			[ "saborean" ]
+		],
+		"4" : [
+			[ "saboreé" ],
+			[ "saboreaste" ],
+			[ "saboreó" ],
+			[ "saboreamos" ],
+			[ "saboreasteis", "saborearon" ],
+			[ "saborearon" ]
+		],
+		"5" : [
+			[ "saboreaba" ],
+			[ "saboreabas" ],
+			[ "saboreaba" ],
+			[ "saboreábamos" ],
+			[ "saboreabais", "saboreaban" ],
+			[ "saboreaban" ]
+		],
+		"6" : [
+			[ "saborearía" ],
+			[ "saborearías" ],
+			[ "saborearía" ],
+			[ "saborearíamos" ],
+			[ "saborearíais", "saborearían" ],
+			[ "saborearían" ]
+		],
+		"7" : [
+			[ "saborearé" ],
+			[ "saborearás" ],
+			[ "saboreará" ],
+			[ "saborearemos" ],
+			[ "saborearéis", "saborearán" ],
+			[ "saborearán" ]
+		],
+		"8" : [
+			[ "saboree" ],
+			[ "saborees" ],
+			[ "saboree" ],
+			[ "saboreemos" ],
+			[ "saboreéis", "saboreen" ],
+			[ "saboreen" ]
+		],
+		"9" : [
+			[ "saboreara" ],
+			[ "saborearas" ],
+			[ "saboreara" ],
+			[ "saboreáramos" ],
+			[ "saborearais", "saborearan" ],
+			[ "saborearan" ]
+		],
+		"10" : [
+			[ "saborease" ],
+			[ "saboreases" ],
+			[ "saborease" ],
+			[ "saboreásemos" ],
+			[ "saboreaseis", "saboreasen" ],
+			[ "saboreasen" ]
+		],
+		"11" : [
+			[ "saboreare" ],
+			[ "saboreares" ],
+			[ "saboreare" ],
+			[ "saboreáremos" ],
+			[ "saboreareis", "saborearen" ],
+			[ "saborearen" ]
+		],
+		"12" : {
+			"1" : [ "saborea" ],
+			"2" : [ "saboree" ],
+			"3" : [ "saboreemos" ],
+			"4" : [ "saboread" ],
+			"5" : [ "saboreen" ]
+		}
+	}
+}

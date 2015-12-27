@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=procrear",
+	"word" : "procrear",
+	"infinitivo" : "procrear",
+	"participio" : [ "procreado" ],
+	"gerundio" : [ "procreando" ],
+	"tenses" : {
+		"3" : [
+			[ "procreo" ],
+			[ "procreas", "procreás" ],
+			[ "procrea" ],
+			[ "procreamos" ],
+			[ "procreáis", "procrean" ],
+			[ "procrean" ]
+		],
+		"4" : [
+			[ "procreé" ],
+			[ "procreaste" ],
+			[ "procreó" ],
+			[ "procreamos" ],
+			[ "procreasteis", "procrearon" ],
+			[ "procrearon" ]
+		],
+		"5" : [
+			[ "procreaba" ],
+			[ "procreabas" ],
+			[ "procreaba" ],
+			[ "procreábamos" ],
+			[ "procreabais", "procreaban" ],
+			[ "procreaban" ]
+		],
+		"6" : [
+			[ "procrearía" ],
+			[ "procrearías" ],
+			[ "procrearía" ],
+			[ "procrearíamos" ],
+			[ "procrearíais", "procrearían" ],
+			[ "procrearían" ]
+		],
+		"7" : [
+			[ "procrearé" ],
+			[ "procrearás" ],
+			[ "procreará" ],
+			[ "procrearemos" ],
+			[ "procrearéis", "procrearán" ],
+			[ "procrearán" ]
+		],
+		"8" : [
+			[ "procree" ],
+			[ "procrees" ],
+			[ "procree" ],
+			[ "procreemos" ],
+			[ "procreéis", "procreen" ],
+			[ "procreen" ]
+		],
+		"9" : [
+			[ "procreara" ],
+			[ "procrearas" ],
+			[ "procreara" ],
+			[ "procreáramos" ],
+			[ "procrearais", "procrearan" ],
+			[ "procrearan" ]
+		],
+		"10" : [
+			[ "procrease" ],
+			[ "procreases" ],
+			[ "procrease" ],
+			[ "procreásemos" ],
+			[ "procreaseis", "procreasen" ],
+			[ "procreasen" ]
+		],
+		"11" : [
+			[ "procreare" ],
+			[ "procreares" ],
+			[ "procreare" ],
+			[ "procreáremos" ],
+			[ "procreareis", "procrearen" ],
+			[ "procrearen" ]
+		],
+		"12" : {
+			"1" : [ "procrea" ],
+			"2" : [ "procree" ],
+			"3" : [ "procreemos" ],
+			"4" : [ "procread" ],
+			"5" : [ "procreen" ]
+		}
+	}
+}

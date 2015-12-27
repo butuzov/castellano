@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=zurrar",
+	"word" : "zurrar",
+	"infinitivo" : "zurrar",
+	"participio" : [ "zurrado" ],
+	"gerundio" : [ "zurrando" ],
+	"tenses" : {
+		"3" : [
+			[ "zurro" ],
+			[ "zurras", "zurrás" ],
+			[ "zurra" ],
+			[ "zurramos" ],
+			[ "zurráis", "zurran" ],
+			[ "zurran" ]
+		],
+		"4" : [
+			[ "zurré" ],
+			[ "zurraste" ],
+			[ "zurró" ],
+			[ "zurramos" ],
+			[ "zurrasteis", "zurraron" ],
+			[ "zurraron" ]
+		],
+		"5" : [
+			[ "zurraba" ],
+			[ "zurrabas" ],
+			[ "zurraba" ],
+			[ "zurrábamos" ],
+			[ "zurrabais", "zurraban" ],
+			[ "zurraban" ]
+		],
+		"6" : [
+			[ "zurraría" ],
+			[ "zurrarías" ],
+			[ "zurraría" ],
+			[ "zurraríamos" ],
+			[ "zurraríais", "zurrarían" ],
+			[ "zurrarían" ]
+		],
+		"7" : [
+			[ "zurraré" ],
+			[ "zurrarás" ],
+			[ "zurrará" ],
+			[ "zurraremos" ],
+			[ "zurraréis", "zurrarán" ],
+			[ "zurrarán" ]
+		],
+		"8" : [
+			[ "zurre" ],
+			[ "zurres" ],
+			[ "zurre" ],
+			[ "zurremos" ],
+			[ "zurréis", "zurren" ],
+			[ "zurren" ]
+		],
+		"9" : [
+			[ "zurrara" ],
+			[ "zurraras" ],
+			[ "zurrara" ],
+			[ "zurráramos" ],
+			[ "zurrarais", "zurraran" ],
+			[ "zurraran" ]
+		],
+		"10" : [
+			[ "zurrase" ],
+			[ "zurrases" ],
+			[ "zurrase" ],
+			[ "zurrásemos" ],
+			[ "zurraseis", "zurrasen" ],
+			[ "zurrasen" ]
+		],
+		"11" : [
+			[ "zurrare" ],
+			[ "zurrares" ],
+			[ "zurrare" ],
+			[ "zurráremos" ],
+			[ "zurrareis", "zurraren" ],
+			[ "zurraren" ]
+		],
+		"12" : {
+			"1" : [ "zurra" ],
+			"2" : [ "zurre" ],
+			"3" : [ "zurremos" ],
+			"4" : [ "zurrad" ],
+			"5" : [ "zurren" ]
+		}
+	}
+}

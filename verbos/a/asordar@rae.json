@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asordar",
+	"word" : "asordar",
+	"infinitivo" : "asordar",
+	"participio" : [ "asordado" ],
+	"gerundio" : [ "asordando" ],
+	"tenses" : {
+		"3" : [
+			[ "asordo" ],
+			[ "asordas", "asordás" ],
+			[ "asorda" ],
+			[ "asordamos" ],
+			[ "asordáis", "asordan" ],
+			[ "asordan" ]
+		],
+		"4" : [
+			[ "asordé" ],
+			[ "asordaste" ],
+			[ "asordó" ],
+			[ "asordamos" ],
+			[ "asordasteis", "asordaron" ],
+			[ "asordaron" ]
+		],
+		"5" : [
+			[ "asordaba" ],
+			[ "asordabas" ],
+			[ "asordaba" ],
+			[ "asordábamos" ],
+			[ "asordabais", "asordaban" ],
+			[ "asordaban" ]
+		],
+		"6" : [
+			[ "asordaría" ],
+			[ "asordarías" ],
+			[ "asordaría" ],
+			[ "asordaríamos" ],
+			[ "asordaríais", "asordarían" ],
+			[ "asordarían" ]
+		],
+		"7" : [
+			[ "asordaré" ],
+			[ "asordarás" ],
+			[ "asordará" ],
+			[ "asordaremos" ],
+			[ "asordaréis", "asordarán" ],
+			[ "asordarán" ]
+		],
+		"8" : [
+			[ "asorde" ],
+			[ "asordes" ],
+			[ "asorde" ],
+			[ "asordemos" ],
+			[ "asordéis", "asorden" ],
+			[ "asorden" ]
+		],
+		"9" : [
+			[ "asordara" ],
+			[ "asordaras" ],
+			[ "asordara" ],
+			[ "asordáramos" ],
+			[ "asordarais", "asordaran" ],
+			[ "asordaran" ]
+		],
+		"10" : [
+			[ "asordase" ],
+			[ "asordases" ],
+			[ "asordase" ],
+			[ "asordásemos" ],
+			[ "asordaseis", "asordasen" ],
+			[ "asordasen" ]
+		],
+		"11" : [
+			[ "asordare" ],
+			[ "asordares" ],
+			[ "asordare" ],
+			[ "asordáremos" ],
+			[ "asordareis", "asordaren" ],
+			[ "asordaren" ]
+		],
+		"12" : {
+			"1" : [ "asorda" ],
+			"2" : [ "asorde" ],
+			"3" : [ "asordemos" ],
+			"4" : [ "asordad" ],
+			"5" : [ "asorden" ]
+		}
+	}
+}

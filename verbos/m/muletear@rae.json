@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=muletear",
+	"word" : "muletear",
+	"infinitivo" : "muletear",
+	"participio" : [ "muleteado" ],
+	"gerundio" : [ "muleteando" ],
+	"tenses" : {
+		"3" : [
+			[ "muleteo" ],
+			[ "muleteas", "muleteás" ],
+			[ "muletea" ],
+			[ "muleteamos" ],
+			[ "muleteáis", "muletean" ],
+			[ "muletean" ]
+		],
+		"4" : [
+			[ "muleteé" ],
+			[ "muleteaste" ],
+			[ "muleteó" ],
+			[ "muleteamos" ],
+			[ "muleteasteis", "muletearon" ],
+			[ "muletearon" ]
+		],
+		"5" : [
+			[ "muleteaba" ],
+			[ "muleteabas" ],
+			[ "muleteaba" ],
+			[ "muleteábamos" ],
+			[ "muleteabais", "muleteaban" ],
+			[ "muleteaban" ]
+		],
+		"6" : [
+			[ "muletearía" ],
+			[ "muletearías" ],
+			[ "muletearía" ],
+			[ "muletearíamos" ],
+			[ "muletearíais", "muletearían" ],
+			[ "muletearían" ]
+		],
+		"7" : [
+			[ "muletearé" ],
+			[ "muletearás" ],
+			[ "muleteará" ],
+			[ "muletearemos" ],
+			[ "muletearéis", "muletearán" ],
+			[ "muletearán" ]
+		],
+		"8" : [
+			[ "muletee" ],
+			[ "muletees" ],
+			[ "muletee" ],
+			[ "muleteemos" ],
+			[ "muleteéis", "muleteen" ],
+			[ "muleteen" ]
+		],
+		"9" : [
+			[ "muleteara" ],
+			[ "muletearas" ],
+			[ "muleteara" ],
+			[ "muleteáramos" ],
+			[ "muletearais", "muletearan" ],
+			[ "muletearan" ]
+		],
+		"10" : [
+			[ "muletease" ],
+			[ "muleteases" ],
+			[ "muletease" ],
+			[ "muleteásemos" ],
+			[ "muleteaseis", "muleteasen" ],
+			[ "muleteasen" ]
+		],
+		"11" : [
+			[ "muleteare" ],
+			[ "muleteares" ],
+			[ "muleteare" ],
+			[ "muleteáremos" ],
+			[ "muleteareis", "muletearen" ],
+			[ "muletearen" ]
+		],
+		"12" : {
+			"1" : [ "muletea" ],
+			"2" : [ "muletee" ],
+			"3" : [ "muleteemos" ],
+			"4" : [ "muletead" ],
+			"5" : [ "muleteen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=olivar",
+	"word" : "olivar",
+	"infinitivo" : "olivar",
+	"participio" : [ "olivado" ],
+	"gerundio" : [ "olivando" ],
+	"tenses" : {
+		"3" : [
+			[ "olivo" ],
+			[ "olivas", "olivás" ],
+			[ "oliva" ],
+			[ "olivamos" ],
+			[ "oliváis", "olivan" ],
+			[ "olivan" ]
+		],
+		"4" : [
+			[ "olivé" ],
+			[ "olivaste" ],
+			[ "olivó" ],
+			[ "olivamos" ],
+			[ "olivasteis", "olivaron" ],
+			[ "olivaron" ]
+		],
+		"5" : [
+			[ "olivaba" ],
+			[ "olivabas" ],
+			[ "olivaba" ],
+			[ "olivábamos" ],
+			[ "olivabais", "olivaban" ],
+			[ "olivaban" ]
+		],
+		"6" : [
+			[ "olivaría" ],
+			[ "olivarías" ],
+			[ "olivaría" ],
+			[ "olivaríamos" ],
+			[ "olivaríais", "olivarían" ],
+			[ "olivarían" ]
+		],
+		"7" : [
+			[ "olivaré" ],
+			[ "olivarás" ],
+			[ "olivará" ],
+			[ "olivaremos" ],
+			[ "olivaréis", "olivarán" ],
+			[ "olivarán" ]
+		],
+		"8" : [
+			[ "olive" ],
+			[ "olives" ],
+			[ "olive" ],
+			[ "olivemos" ],
+			[ "olivéis", "oliven" ],
+			[ "oliven" ]
+		],
+		"9" : [
+			[ "olivara" ],
+			[ "olivaras" ],
+			[ "olivara" ],
+			[ "oliváramos" ],
+			[ "olivarais", "olivaran" ],
+			[ "olivaran" ]
+		],
+		"10" : [
+			[ "olivase" ],
+			[ "olivases" ],
+			[ "olivase" ],
+			[ "olivásemos" ],
+			[ "olivaseis", "olivasen" ],
+			[ "olivasen" ]
+		],
+		"11" : [
+			[ "olivare" ],
+			[ "olivares" ],
+			[ "olivare" ],
+			[ "oliváremos" ],
+			[ "olivareis", "olivaren" ],
+			[ "olivaren" ]
+		],
+		"12" : {
+			"1" : [ "oliva" ],
+			"2" : [ "olive" ],
+			"3" : [ "olivemos" ],
+			"4" : [ "olivad" ],
+			"5" : [ "oliven" ]
+		}
+	}
+}

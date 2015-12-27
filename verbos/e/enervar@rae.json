@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enervar",
+	"word" : "enervar",
+	"infinitivo" : "enervar",
+	"participio" : [ "enervado" ],
+	"gerundio" : [ "enervando" ],
+	"tenses" : {
+		"3" : [
+			[ "enervo" ],
+			[ "enervas", "enervás" ],
+			[ "enerva" ],
+			[ "enervamos" ],
+			[ "enerváis", "enervan" ],
+			[ "enervan" ]
+		],
+		"4" : [
+			[ "enervé" ],
+			[ "enervaste" ],
+			[ "enervó" ],
+			[ "enervamos" ],
+			[ "enervasteis", "enervaron" ],
+			[ "enervaron" ]
+		],
+		"5" : [
+			[ "enervaba" ],
+			[ "enervabas" ],
+			[ "enervaba" ],
+			[ "enervábamos" ],
+			[ "enervabais", "enervaban" ],
+			[ "enervaban" ]
+		],
+		"6" : [
+			[ "enervaría" ],
+			[ "enervarías" ],
+			[ "enervaría" ],
+			[ "enervaríamos" ],
+			[ "enervaríais", "enervarían" ],
+			[ "enervarían" ]
+		],
+		"7" : [
+			[ "enervaré" ],
+			[ "enervarás" ],
+			[ "enervará" ],
+			[ "enervaremos" ],
+			[ "enervaréis", "enervarán" ],
+			[ "enervarán" ]
+		],
+		"8" : [
+			[ "enerve" ],
+			[ "enerves" ],
+			[ "enerve" ],
+			[ "enervemos" ],
+			[ "enervéis", "enerven" ],
+			[ "enerven" ]
+		],
+		"9" : [
+			[ "enervara" ],
+			[ "enervaras" ],
+			[ "enervara" ],
+			[ "enerváramos" ],
+			[ "enervarais", "enervaran" ],
+			[ "enervaran" ]
+		],
+		"10" : [
+			[ "enervase" ],
+			[ "enervases" ],
+			[ "enervase" ],
+			[ "enervásemos" ],
+			[ "enervaseis", "enervasen" ],
+			[ "enervasen" ]
+		],
+		"11" : [
+			[ "enervare" ],
+			[ "enervares" ],
+			[ "enervare" ],
+			[ "enerváremos" ],
+			[ "enervareis", "enervaren" ],
+			[ "enervaren" ]
+		],
+		"12" : {
+			"1" : [ "enerva" ],
+			"2" : [ "enerve" ],
+			"3" : [ "enervemos" ],
+			"4" : [ "enervad" ],
+			"5" : [ "enerven" ]
+		}
+	}
+}

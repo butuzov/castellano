@@ -1,0 +1,72 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=compungir",
+	"word" : "compungir",
+	"infinitivo" : "compungir",
+	"participio" : [ "compungido" ],
+	"gerundio" : [ "compungiendo" ],
+	"tenses" : {
+		"3" : {
+			"3"	: [ "compungimos" ],
+			"4" : [ "compungís"]
+		},
+		"4" : [
+			[ "compungí" ],
+			[ "compungiste" ],
+			[ "compungió" ],
+			[ "compungimos" ],
+			[ "compungisteis", "compungieron" ],
+			[ "compungieron" ]
+		],
+		"5" : [
+			[ "compungía" ],
+			[ "compungías" ],
+			[ "compungía" ],
+			[ "compungíamos" ],
+			[ "compungíais", "compungían" ],
+			[ "compungían" ]
+		],
+		"6" : [
+			[ "compungiría" ],
+			[ "compungirías" ],
+			[ "compungiría" ],
+			[ "compungiríamos" ],
+			[ "compungiríais", "compungirían" ],
+			[ "compungirían" ]
+		],
+		"7" : [
+			[ "compungiré" ],
+			[ "compungirás" ],
+			[ "compungirá" ],
+			[ "compungiremos" ],
+			[ "compungiréis", "compungirán" ],
+			[ "compungirán" ]
+		],
+		"9" : [
+			[ "compungiera" ],
+			[ "compungieras" ],
+			[ "compungiera" ],
+			[ "compungiéramos" ],
+			[ "compungierais", "compungieran" ],
+			[ "compungieran" ]
+		],
+		"10" : [
+			[ "compungiese" ],
+			[ "compungieses" ],
+			[ "compungiese" ],
+			[ "compungiésemos" ],
+			[ "compungieseis", "compungiesen" ],
+			[ "compungiesen" ]
+		],
+		"11" : [
+			[ "compungiere" ],
+			[ "compungieres" ],
+			[ "compungiere" ],
+			[ "compungiéremos" ],
+			[ "compungiereis", "compungieren" ],
+			[ "compungieren" ]
+		],
+		"12" : {
+			"1" : [ "compungí" ]
+		}
+	}
+}

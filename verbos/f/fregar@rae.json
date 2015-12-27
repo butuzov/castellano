@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fregar",
+	"word" : "fregar",
+	"infinitivo" : "fregar",
+	"participio" : [ "fregado" ],
+	"gerundio" : [ "fregando" ],
+	"tenses" : {
+		"3" : [
+			[ "friego" ],
+			[ "friegas", "fregás" ],
+			[ "friega" ],
+			[ "fregamos" ],
+			[ "fregáis", "friegan" ],
+			[ "friegan" ]
+		],
+		"4" : [
+			[ "fregué" ],
+			[ "fregaste" ],
+			[ "fregó" ],
+			[ "fregamos" ],
+			[ "fregasteis", "fregaron" ],
+			[ "fregaron" ]
+		],
+		"5" : [
+			[ "fregaba" ],
+			[ "fregabas" ],
+			[ "fregaba" ],
+			[ "fregábamos" ],
+			[ "fregabais", "fregaban" ],
+			[ "fregaban" ]
+		],
+		"6" : [
+			[ "fregaría" ],
+			[ "fregarías" ],
+			[ "fregaría" ],
+			[ "fregaríamos" ],
+			[ "fregaríais", "fregarían" ],
+			[ "fregarían" ]
+		],
+		"7" : [
+			[ "fregaré" ],
+			[ "fregarás" ],
+			[ "fregará" ],
+			[ "fregaremos" ],
+			[ "fregaréis", "fregarán" ],
+			[ "fregarán" ]
+		],
+		"8" : [
+			[ "friegue" ],
+			[ "friegues" ],
+			[ "friegue" ],
+			[ "freguemos" ],
+			[ "freguéis", "frieguen" ],
+			[ "frieguen" ]
+		],
+		"9" : [
+			[ "fregara" ],
+			[ "fregaras" ],
+			[ "fregara" ],
+			[ "fregáramos" ],
+			[ "fregarais", "fregaran" ],
+			[ "fregaran" ]
+		],
+		"10" : [
+			[ "fregase" ],
+			[ "fregases" ],
+			[ "fregase" ],
+			[ "fregásemos" ],
+			[ "fregaseis", "fregasen" ],
+			[ "fregasen" ]
+		],
+		"11" : [
+			[ "fregare" ],
+			[ "fregares" ],
+			[ "fregare" ],
+			[ "fregáremos" ],
+			[ "fregareis", "fregaren" ],
+			[ "fregaren" ]
+		],
+		"12" : {
+			"1" : [ "friega" ],
+			"2" : [ "friegue" ],
+			"3" : [ "freguemos" ],
+			"4" : [ "fregad" ],
+			"5" : [ "frieguen" ]
+		}
+	}
+}

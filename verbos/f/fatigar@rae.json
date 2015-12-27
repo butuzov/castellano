@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fatigar",
+	"word" : "fatigar",
+	"infinitivo" : "fatigar",
+	"participio" : [ "fatigado" ],
+	"gerundio" : [ "fatigando" ],
+	"tenses" : {
+		"3" : [
+			[ "fatigo" ],
+			[ "fatigas", "fatigás" ],
+			[ "fatiga" ],
+			[ "fatigamos" ],
+			[ "fatigáis", "fatigan" ],
+			[ "fatigan" ]
+		],
+		"4" : [
+			[ "fatigué" ],
+			[ "fatigaste" ],
+			[ "fatigó" ],
+			[ "fatigamos" ],
+			[ "fatigasteis", "fatigaron" ],
+			[ "fatigaron" ]
+		],
+		"5" : [
+			[ "fatigaba" ],
+			[ "fatigabas" ],
+			[ "fatigaba" ],
+			[ "fatigábamos" ],
+			[ "fatigabais", "fatigaban" ],
+			[ "fatigaban" ]
+		],
+		"6" : [
+			[ "fatigaría" ],
+			[ "fatigarías" ],
+			[ "fatigaría" ],
+			[ "fatigaríamos" ],
+			[ "fatigaríais", "fatigarían" ],
+			[ "fatigarían" ]
+		],
+		"7" : [
+			[ "fatigaré" ],
+			[ "fatigarás" ],
+			[ "fatigará" ],
+			[ "fatigaremos" ],
+			[ "fatigaréis", "fatigarán" ],
+			[ "fatigarán" ]
+		],
+		"8" : [
+			[ "fatigue" ],
+			[ "fatigues" ],
+			[ "fatigue" ],
+			[ "fatiguemos" ],
+			[ "fatiguéis", "fatiguen" ],
+			[ "fatiguen" ]
+		],
+		"9" : [
+			[ "fatigara" ],
+			[ "fatigaras" ],
+			[ "fatigara" ],
+			[ "fatigáramos" ],
+			[ "fatigarais", "fatigaran" ],
+			[ "fatigaran" ]
+		],
+		"10" : [
+			[ "fatigase" ],
+			[ "fatigases" ],
+			[ "fatigase" ],
+			[ "fatigásemos" ],
+			[ "fatigaseis", "fatigasen" ],
+			[ "fatigasen" ]
+		],
+		"11" : [
+			[ "fatigare" ],
+			[ "fatigares" ],
+			[ "fatigare" ],
+			[ "fatigáremos" ],
+			[ "fatigareis", "fatigaren" ],
+			[ "fatigaren" ]
+		],
+		"12" : {
+			"1" : [ "fatiga" ],
+			"2" : [ "fatigue" ],
+			"3" : [ "fatiguemos" ],
+			"4" : [ "fatigad" ],
+			"5" : [ "fatiguen" ]
+		}
+	}
+}

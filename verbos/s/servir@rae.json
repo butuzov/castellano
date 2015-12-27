@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=servir",
+	"word" : "servir",
+	"infinitivo" : "servir",
+	"participio" : [ "servido" ],
+	"gerundio" : [ "sirviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sirvo" ],
+			[ "sirves", "servís" ],
+			[ "sirve" ],
+			[ "servimos" ],
+			[ "servís", "sirven" ],
+			[ "sirven" ]
+		],
+		"4" : [
+			[ "serví" ],
+			[ "serviste" ],
+			[ "sirvió" ],
+			[ "servimos" ],
+			[ "servisteis", "sirvieron" ],
+			[ "sirvieron" ]
+		],
+		"5" : [
+			[ "servía" ],
+			[ "servías" ],
+			[ "servía" ],
+			[ "servíamos" ],
+			[ "servíais", "servían" ],
+			[ "servían" ]
+		],
+		"6" : [
+			[ "serviría" ],
+			[ "servirías" ],
+			[ "serviría" ],
+			[ "serviríamos" ],
+			[ "serviríais", "servirían" ],
+			[ "servirían" ]
+		],
+		"7" : [
+			[ "serviré" ],
+			[ "servirás" ],
+			[ "servirá" ],
+			[ "serviremos" ],
+			[ "serviréis", "servirán" ],
+			[ "servirán" ]
+		],
+		"8" : [
+			[ "sirva" ],
+			[ "sirvas" ],
+			[ "sirva" ],
+			[ "sirvamos" ],
+			[ "sirváis", "sirvan" ],
+			[ "sirvan" ]
+		],
+		"9" : [
+			[ "sirviera" ],
+			[ "sirvieras" ],
+			[ "sirviera" ],
+			[ "sirviéramos" ],
+			[ "sirvierais", "sirvieran" ],
+			[ "sirvieran" ]
+		],
+		"10" : [
+			[ "sirviese" ],
+			[ "sirvieses" ],
+			[ "sirviese" ],
+			[ "sirviésemos" ],
+			[ "sirvieseis", "sirviesen" ],
+			[ "sirviesen" ]
+		],
+		"11" : [
+			[ "sirviere" ],
+			[ "sirvieres" ],
+			[ "sirviere" ],
+			[ "sirviéremos" ],
+			[ "sirviereis", "sirvieren" ],
+			[ "sirvieren" ]
+		],
+		"12" : {
+			"1" : [ "sirve" ],
+			"2" : [ "sirva" ],
+			"3" : [ "sirvamos" ],
+			"4" : [ "servid" ],
+			"5" : [ "sirvan" ]
+		}
+	}
+}

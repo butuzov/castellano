@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=presidir",
+	"word" : "presidir",
+	"infinitivo" : "presidir",
+	"participio" : [ "presidido" ],
+	"gerundio" : [ "presidiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "presido" ],
+			[ "presides", "presidís" ],
+			[ "preside" ],
+			[ "presidimos" ],
+			[ "presidís", "presiden" ],
+			[ "presiden" ]
+		],
+		"4" : [
+			[ "presidí" ],
+			[ "presidiste" ],
+			[ "presidió" ],
+			[ "presidimos" ],
+			[ "presidisteis", "presidieron" ],
+			[ "presidieron" ]
+		],
+		"5" : [
+			[ "presidía" ],
+			[ "presidías" ],
+			[ "presidía" ],
+			[ "presidíamos" ],
+			[ "presidíais", "presidían" ],
+			[ "presidían" ]
+		],
+		"6" : [
+			[ "presidiría" ],
+			[ "presidirías" ],
+			[ "presidiría" ],
+			[ "presidiríamos" ],
+			[ "presidiríais", "presidirían" ],
+			[ "presidirían" ]
+		],
+		"7" : [
+			[ "presidiré" ],
+			[ "presidirás" ],
+			[ "presidirá" ],
+			[ "presidiremos" ],
+			[ "presidiréis", "presidirán" ],
+			[ "presidirán" ]
+		],
+		"8" : [
+			[ "presida" ],
+			[ "presidas" ],
+			[ "presida" ],
+			[ "presidamos" ],
+			[ "presidáis", "presidan" ],
+			[ "presidan" ]
+		],
+		"9" : [
+			[ "presidiera" ],
+			[ "presidieras" ],
+			[ "presidiera" ],
+			[ "presidiéramos" ],
+			[ "presidierais", "presidieran" ],
+			[ "presidieran" ]
+		],
+		"10" : [
+			[ "presidiese" ],
+			[ "presidieses" ],
+			[ "presidiese" ],
+			[ "presidiésemos" ],
+			[ "presidieseis", "presidiesen" ],
+			[ "presidiesen" ]
+		],
+		"11" : [
+			[ "presidiere" ],
+			[ "presidieres" ],
+			[ "presidiere" ],
+			[ "presidiéremos" ],
+			[ "presidiereis", "presidieren" ],
+			[ "presidieren" ]
+		],
+		"12" : {
+			"1" : [ "preside" ],
+			"2" : [ "presida" ],
+			"3" : [ "presidamos" ],
+			"4" : [ "presidid" ],
+			"5" : [ "presidan" ]
+		}
+	}
+}

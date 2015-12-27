@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=morir",
+	"word" : "morir",
+	"infinitivo" : "morir",
+	"participio" : [ "muerto" ],
+	"gerundio" : [ "muriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "muero" ],
+			[ "mueres", "morís" ],
+			[ "muere" ],
+			[ "morimos" ],
+			[ "morís", "mueren" ],
+			[ "mueren" ]
+		],
+		"4" : [
+			[ "morí" ],
+			[ "moriste" ],
+			[ "murió" ],
+			[ "morimos" ],
+			[ "moristeis", "murieron" ],
+			[ "murieron" ]
+		],
+		"5" : [
+			[ "moría" ],
+			[ "morías" ],
+			[ "moría" ],
+			[ "moríamos" ],
+			[ "moríais", "morían" ],
+			[ "morían" ]
+		],
+		"6" : [
+			[ "moriría" ],
+			[ "morirías" ],
+			[ "moriría" ],
+			[ "moriríamos" ],
+			[ "moriríais", "morirían" ],
+			[ "morirían" ]
+		],
+		"7" : [
+			[ "moriré" ],
+			[ "morirás" ],
+			[ "morirá" ],
+			[ "moriremos" ],
+			[ "moriréis", "morirán" ],
+			[ "morirán" ]
+		],
+		"8" : [
+			[ "muera" ],
+			[ "mueras" ],
+			[ "muera" ],
+			[ "muramos" ],
+			[ "muráis", "mueran" ],
+			[ "mueran" ]
+		],
+		"9" : [
+			[ "muriera" ],
+			[ "murieras" ],
+			[ "muriera" ],
+			[ "muriéramos" ],
+			[ "murierais", "murieran" ],
+			[ "murieran" ]
+		],
+		"10" : [
+			[ "muriese" ],
+			[ "murieses" ],
+			[ "muriese" ],
+			[ "muriésemos" ],
+			[ "murieseis", "muriesen" ],
+			[ "muriesen" ]
+		],
+		"11" : [
+			[ "muriere" ],
+			[ "murieres" ],
+			[ "muriere" ],
+			[ "muriéremos" ],
+			[ "muriereis", "murieren" ],
+			[ "murieren" ]
+		],
+		"12" : {
+			"1" : [ "muere" ],
+			"2" : [ "muera" ],
+			"3" : [ "muramos" ],
+			"4" : [ "morid" ],
+			"5" : [ "mueran" ]
+		}
+	}
+}

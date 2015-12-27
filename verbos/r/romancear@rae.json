@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=romancear",
+	"word" : "romancear",
+	"infinitivo" : "romancear",
+	"participio" : [ "romanceado" ],
+	"gerundio" : [ "romanceando" ],
+	"tenses" : {
+		"3" : [
+			[ "romanceo" ],
+			[ "romanceas", "romanceás" ],
+			[ "romancea" ],
+			[ "romanceamos" ],
+			[ "romanceáis", "romancean" ],
+			[ "romancean" ]
+		],
+		"4" : [
+			[ "romanceé" ],
+			[ "romanceaste" ],
+			[ "romanceó" ],
+			[ "romanceamos" ],
+			[ "romanceasteis", "romancearon" ],
+			[ "romancearon" ]
+		],
+		"5" : [
+			[ "romanceaba" ],
+			[ "romanceabas" ],
+			[ "romanceaba" ],
+			[ "romanceábamos" ],
+			[ "romanceabais", "romanceaban" ],
+			[ "romanceaban" ]
+		],
+		"6" : [
+			[ "romancearía" ],
+			[ "romancearías" ],
+			[ "romancearía" ],
+			[ "romancearíamos" ],
+			[ "romancearíais", "romancearían" ],
+			[ "romancearían" ]
+		],
+		"7" : [
+			[ "romancearé" ],
+			[ "romancearás" ],
+			[ "romanceará" ],
+			[ "romancearemos" ],
+			[ "romancearéis", "romancearán" ],
+			[ "romancearán" ]
+		],
+		"8" : [
+			[ "romancee" ],
+			[ "romancees" ],
+			[ "romancee" ],
+			[ "romanceemos" ],
+			[ "romanceéis", "romanceen" ],
+			[ "romanceen" ]
+		],
+		"9" : [
+			[ "romanceara" ],
+			[ "romancearas" ],
+			[ "romanceara" ],
+			[ "romanceáramos" ],
+			[ "romancearais", "romancearan" ],
+			[ "romancearan" ]
+		],
+		"10" : [
+			[ "romancease" ],
+			[ "romanceases" ],
+			[ "romancease" ],
+			[ "romanceásemos" ],
+			[ "romanceaseis", "romanceasen" ],
+			[ "romanceasen" ]
+		],
+		"11" : [
+			[ "romanceare" ],
+			[ "romanceares" ],
+			[ "romanceare" ],
+			[ "romanceáremos" ],
+			[ "romanceareis", "romancearen" ],
+			[ "romancearen" ]
+		],
+		"12" : {
+			"1" : [ "romancea" ],
+			"2" : [ "romancee" ],
+			"3" : [ "romanceemos" ],
+			"4" : [ "romancead" ],
+			"5" : [ "romanceen" ]
+		}
+	}
+}

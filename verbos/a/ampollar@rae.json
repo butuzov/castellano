@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ampollar",
+	"word" : "ampollar",
+	"infinitivo" : "ampollar",
+	"participio" : [ "ampollado" ],
+	"gerundio" : [ "ampollando" ],
+	"tenses" : {
+		"3" : [
+			[ "ampollo" ],
+			[ "ampollas", "ampollás" ],
+			[ "ampolla" ],
+			[ "ampollamos" ],
+			[ "ampolláis", "ampollan" ],
+			[ "ampollan" ]
+		],
+		"4" : [
+			[ "ampollé" ],
+			[ "ampollaste" ],
+			[ "ampolló" ],
+			[ "ampollamos" ],
+			[ "ampollasteis", "ampollaron" ],
+			[ "ampollaron" ]
+		],
+		"5" : [
+			[ "ampollaba" ],
+			[ "ampollabas" ],
+			[ "ampollaba" ],
+			[ "ampollábamos" ],
+			[ "ampollabais", "ampollaban" ],
+			[ "ampollaban" ]
+		],
+		"6" : [
+			[ "ampollaría" ],
+			[ "ampollarías" ],
+			[ "ampollaría" ],
+			[ "ampollaríamos" ],
+			[ "ampollaríais", "ampollarían" ],
+			[ "ampollarían" ]
+		],
+		"7" : [
+			[ "ampollaré" ],
+			[ "ampollarás" ],
+			[ "ampollará" ],
+			[ "ampollaremos" ],
+			[ "ampollaréis", "ampollarán" ],
+			[ "ampollarán" ]
+		],
+		"8" : [
+			[ "ampolle" ],
+			[ "ampolles" ],
+			[ "ampolle" ],
+			[ "ampollemos" ],
+			[ "ampolléis", "ampollen" ],
+			[ "ampollen" ]
+		],
+		"9" : [
+			[ "ampollara" ],
+			[ "ampollaras" ],
+			[ "ampollara" ],
+			[ "ampolláramos" ],
+			[ "ampollarais", "ampollaran" ],
+			[ "ampollaran" ]
+		],
+		"10" : [
+			[ "ampollase" ],
+			[ "ampollases" ],
+			[ "ampollase" ],
+			[ "ampollásemos" ],
+			[ "ampollaseis", "ampollasen" ],
+			[ "ampollasen" ]
+		],
+		"11" : [
+			[ "ampollare" ],
+			[ "ampollares" ],
+			[ "ampollare" ],
+			[ "ampolláremos" ],
+			[ "ampollareis", "ampollaren" ],
+			[ "ampollaren" ]
+		],
+		"12" : {
+			"1" : [ "ampolla" ],
+			"2" : [ "ampolle" ],
+			"3" : [ "ampollemos" ],
+			"4" : [ "ampollad" ],
+			"5" : [ "ampollen" ]
+		}
+	}
+}

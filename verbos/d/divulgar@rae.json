@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=divulgar",
+	"word" : "divulgar",
+	"infinitivo" : "divulgar",
+	"participio" : [ "divulgado" ],
+	"gerundio" : [ "divulgando" ],
+	"tenses" : {
+		"3" : [
+			[ "divulgo" ],
+			[ "divulgas", "divulgás" ],
+			[ "divulga" ],
+			[ "divulgamos" ],
+			[ "divulgáis", "divulgan" ],
+			[ "divulgan" ]
+		],
+		"4" : [
+			[ "divulgué" ],
+			[ "divulgaste" ],
+			[ "divulgó" ],
+			[ "divulgamos" ],
+			[ "divulgasteis", "divulgaron" ],
+			[ "divulgaron" ]
+		],
+		"5" : [
+			[ "divulgaba" ],
+			[ "divulgabas" ],
+			[ "divulgaba" ],
+			[ "divulgábamos" ],
+			[ "divulgabais", "divulgaban" ],
+			[ "divulgaban" ]
+		],
+		"6" : [
+			[ "divulgaría" ],
+			[ "divulgarías" ],
+			[ "divulgaría" ],
+			[ "divulgaríamos" ],
+			[ "divulgaríais", "divulgarían" ],
+			[ "divulgarían" ]
+		],
+		"7" : [
+			[ "divulgaré" ],
+			[ "divulgarás" ],
+			[ "divulgará" ],
+			[ "divulgaremos" ],
+			[ "divulgaréis", "divulgarán" ],
+			[ "divulgarán" ]
+		],
+		"8" : [
+			[ "divulgue" ],
+			[ "divulgues" ],
+			[ "divulgue" ],
+			[ "divulguemos" ],
+			[ "divulguéis", "divulguen" ],
+			[ "divulguen" ]
+		],
+		"9" : [
+			[ "divulgara" ],
+			[ "divulgaras" ],
+			[ "divulgara" ],
+			[ "divulgáramos" ],
+			[ "divulgarais", "divulgaran" ],
+			[ "divulgaran" ]
+		],
+		"10" : [
+			[ "divulgase" ],
+			[ "divulgases" ],
+			[ "divulgase" ],
+			[ "divulgásemos" ],
+			[ "divulgaseis", "divulgasen" ],
+			[ "divulgasen" ]
+		],
+		"11" : [
+			[ "divulgare" ],
+			[ "divulgares" ],
+			[ "divulgare" ],
+			[ "divulgáremos" ],
+			[ "divulgareis", "divulgaren" ],
+			[ "divulgaren" ]
+		],
+		"12" : {
+			"1" : [ "divulga" ],
+			"2" : [ "divulgue" ],
+			"3" : [ "divulguemos" ],
+			"4" : [ "divulgad" ],
+			"5" : [ "divulguen" ]
+		}
+	}
+}

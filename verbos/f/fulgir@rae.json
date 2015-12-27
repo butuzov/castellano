@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fulgir",
+	"word" : "fulgir",
+	"infinitivo" : "fulgir",
+	"participio" : [ "fulgido" ],
+	"gerundio" : [ "fulgiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "fuljo" ],
+			[ "fulges", "fulgís" ],
+			[ "fulge" ],
+			[ "fulgimos" ],
+			[ "fulgís", "fulgen" ],
+			[ "fulgen" ]
+		],
+		"4" : [
+			[ "fulgí" ],
+			[ "fulgiste" ],
+			[ "fulgió" ],
+			[ "fulgimos" ],
+			[ "fulgisteis", "fulgieron" ],
+			[ "fulgieron" ]
+		],
+		"5" : [
+			[ "fulgía" ],
+			[ "fulgías" ],
+			[ "fulgía" ],
+			[ "fulgíamos" ],
+			[ "fulgíais", "fulgían" ],
+			[ "fulgían" ]
+		],
+		"6" : [
+			[ "fulgiría" ],
+			[ "fulgirías" ],
+			[ "fulgiría" ],
+			[ "fulgiríamos" ],
+			[ "fulgiríais", "fulgirían" ],
+			[ "fulgirían" ]
+		],
+		"7" : [
+			[ "fulgiré" ],
+			[ "fulgirás" ],
+			[ "fulgirá" ],
+			[ "fulgiremos" ],
+			[ "fulgiréis", "fulgirán" ],
+			[ "fulgirán" ]
+		],
+		"8" : [
+			[ "fulja" ],
+			[ "fuljas" ],
+			[ "fulja" ],
+			[ "fuljamos" ],
+			[ "fuljáis", "fuljan" ],
+			[ "fuljan" ]
+		],
+		"9" : [
+			[ "fulgiera" ],
+			[ "fulgieras" ],
+			[ "fulgiera" ],
+			[ "fulgiéramos" ],
+			[ "fulgierais", "fulgieran" ],
+			[ "fulgieran" ]
+		],
+		"10" : [
+			[ "fulgiese" ],
+			[ "fulgieses" ],
+			[ "fulgiese" ],
+			[ "fulgiésemos" ],
+			[ "fulgieseis", "fulgiesen" ],
+			[ "fulgiesen" ]
+		],
+		"11" : [
+			[ "fulgiere" ],
+			[ "fulgieres" ],
+			[ "fulgiere" ],
+			[ "fulgiéremos" ],
+			[ "fulgiereis", "fulgieren" ],
+			[ "fulgieren" ]
+		],
+		"12" : {
+			"1" : [ "fulge" ],
+			"2" : [ "fulja" ],
+			"3" : [ "fuljamos" ],
+			"4" : [ "fulgid" ],
+			"5" : [ "fuljan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amigar",
+	"word" : "amigar",
+	"infinitivo" : "amigar",
+	"participio" : [ "amigado" ],
+	"gerundio" : [ "amigando" ],
+	"tenses" : {
+		"3" : [
+			[ "amigo" ],
+			[ "amigas", "amigás" ],
+			[ "amiga" ],
+			[ "amigamos" ],
+			[ "amigáis", "amigan" ],
+			[ "amigan" ]
+		],
+		"4" : [
+			[ "amigué" ],
+			[ "amigaste" ],
+			[ "amigó" ],
+			[ "amigamos" ],
+			[ "amigasteis", "amigaron" ],
+			[ "amigaron" ]
+		],
+		"5" : [
+			[ "amigaba" ],
+			[ "amigabas" ],
+			[ "amigaba" ],
+			[ "amigábamos" ],
+			[ "amigabais", "amigaban" ],
+			[ "amigaban" ]
+		],
+		"6" : [
+			[ "amigaría" ],
+			[ "amigarías" ],
+			[ "amigaría" ],
+			[ "amigaríamos" ],
+			[ "amigaríais", "amigarían" ],
+			[ "amigarían" ]
+		],
+		"7" : [
+			[ "amigaré" ],
+			[ "amigarás" ],
+			[ "amigará" ],
+			[ "amigaremos" ],
+			[ "amigaréis", "amigarán" ],
+			[ "amigarán" ]
+		],
+		"8" : [
+			[ "amigue" ],
+			[ "amigues" ],
+			[ "amigue" ],
+			[ "amiguemos" ],
+			[ "amiguéis", "amiguen" ],
+			[ "amiguen" ]
+		],
+		"9" : [
+			[ "amigara" ],
+			[ "amigaras" ],
+			[ "amigara" ],
+			[ "amigáramos" ],
+			[ "amigarais", "amigaran" ],
+			[ "amigaran" ]
+		],
+		"10" : [
+			[ "amigase" ],
+			[ "amigases" ],
+			[ "amigase" ],
+			[ "amigásemos" ],
+			[ "amigaseis", "amigasen" ],
+			[ "amigasen" ]
+		],
+		"11" : [
+			[ "amigare" ],
+			[ "amigares" ],
+			[ "amigare" ],
+			[ "amigáremos" ],
+			[ "amigareis", "amigaren" ],
+			[ "amigaren" ]
+		],
+		"12" : {
+			"1" : [ "amiga" ],
+			"2" : [ "amigue" ],
+			"3" : [ "amiguemos" ],
+			"4" : [ "amigad" ],
+			"5" : [ "amiguen" ]
+		}
+	}
+}

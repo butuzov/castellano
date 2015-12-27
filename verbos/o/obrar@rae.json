@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=obrar",
+	"word" : "obrar",
+	"infinitivo" : "obrar",
+	"participio" : [ "obrado" ],
+	"gerundio" : [ "obrando" ],
+	"tenses" : {
+		"3" : [
+			[ "obro" ],
+			[ "obras", "obrás" ],
+			[ "obra" ],
+			[ "obramos" ],
+			[ "obráis", "obran" ],
+			[ "obran" ]
+		],
+		"4" : [
+			[ "obré" ],
+			[ "obraste" ],
+			[ "obró" ],
+			[ "obramos" ],
+			[ "obrasteis", "obraron" ],
+			[ "obraron" ]
+		],
+		"5" : [
+			[ "obraba" ],
+			[ "obrabas" ],
+			[ "obraba" ],
+			[ "obrábamos" ],
+			[ "obrabais", "obraban" ],
+			[ "obraban" ]
+		],
+		"6" : [
+			[ "obraría" ],
+			[ "obrarías" ],
+			[ "obraría" ],
+			[ "obraríamos" ],
+			[ "obraríais", "obrarían" ],
+			[ "obrarían" ]
+		],
+		"7" : [
+			[ "obraré" ],
+			[ "obrarás" ],
+			[ "obrará" ],
+			[ "obraremos" ],
+			[ "obraréis", "obrarán" ],
+			[ "obrarán" ]
+		],
+		"8" : [
+			[ "obre" ],
+			[ "obres" ],
+			[ "obre" ],
+			[ "obremos" ],
+			[ "obréis", "obren" ],
+			[ "obren" ]
+		],
+		"9" : [
+			[ "obrara" ],
+			[ "obraras" ],
+			[ "obrara" ],
+			[ "obráramos" ],
+			[ "obrarais", "obraran" ],
+			[ "obraran" ]
+		],
+		"10" : [
+			[ "obrase" ],
+			[ "obrases" ],
+			[ "obrase" ],
+			[ "obrásemos" ],
+			[ "obraseis", "obrasen" ],
+			[ "obrasen" ]
+		],
+		"11" : [
+			[ "obrare" ],
+			[ "obrares" ],
+			[ "obrare" ],
+			[ "obráremos" ],
+			[ "obrareis", "obraren" ],
+			[ "obraren" ]
+		],
+		"12" : {
+			"1" : [ "obra" ],
+			"2" : [ "obre" ],
+			"3" : [ "obremos" ],
+			"4" : [ "obrad" ],
+			"5" : [ "obren" ]
+		}
+	}
+}

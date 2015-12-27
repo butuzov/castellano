@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=zurcir",
+	"word" : "zurcir",
+	"infinitivo" : "zurcir",
+	"participio" : [ "zurcido" ],
+	"gerundio" : [ "zurciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "zurzo" ],
+			[ "zurces", "zurcís" ],
+			[ "zurce" ],
+			[ "zurcimos" ],
+			[ "zurcís", "zurcen" ],
+			[ "zurcen" ]
+		],
+		"4" : [
+			[ "zurcí" ],
+			[ "zurciste" ],
+			[ "zurció" ],
+			[ "zurcimos" ],
+			[ "zurcisteis", "zurcieron" ],
+			[ "zurcieron" ]
+		],
+		"5" : [
+			[ "zurcía" ],
+			[ "zurcías" ],
+			[ "zurcía" ],
+			[ "zurcíamos" ],
+			[ "zurcíais", "zurcían" ],
+			[ "zurcían" ]
+		],
+		"6" : [
+			[ "zurciría" ],
+			[ "zurcirías" ],
+			[ "zurciría" ],
+			[ "zurciríamos" ],
+			[ "zurciríais", "zurcirían" ],
+			[ "zurcirían" ]
+		],
+		"7" : [
+			[ "zurciré" ],
+			[ "zurcirás" ],
+			[ "zurcirá" ],
+			[ "zurciremos" ],
+			[ "zurciréis", "zurcirán" ],
+			[ "zurcirán" ]
+		],
+		"8" : [
+			[ "zurza" ],
+			[ "zurzas" ],
+			[ "zurza" ],
+			[ "zurzamos" ],
+			[ "zurzáis", "zurzan" ],
+			[ "zurzan" ]
+		],
+		"9" : [
+			[ "zurciera" ],
+			[ "zurcieras" ],
+			[ "zurciera" ],
+			[ "zurciéramos" ],
+			[ "zurcierais", "zurcieran" ],
+			[ "zurcieran" ]
+		],
+		"10" : [
+			[ "zurciese" ],
+			[ "zurcieses" ],
+			[ "zurciese" ],
+			[ "zurciésemos" ],
+			[ "zurcieseis", "zurciesen" ],
+			[ "zurciesen" ]
+		],
+		"11" : [
+			[ "zurciere" ],
+			[ "zurcieres" ],
+			[ "zurciere" ],
+			[ "zurciéremos" ],
+			[ "zurciereis", "zurcieren" ],
+			[ "zurcieren" ]
+		],
+		"12" : {
+			"1" : [ "zurce" ],
+			"2" : [ "zurza" ],
+			"3" : [ "zurzamos" ],
+			"4" : [ "zurcid" ],
+			"5" : [ "zurzan" ]
+		}
+	}
+}

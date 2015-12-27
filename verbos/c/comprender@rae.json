@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comprender",
+	"word" : "comprender",
+	"infinitivo" : "comprender",
+	"participio" : [ "comprendido" ],
+	"gerundio" : [ "comprendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "comprendo" ],
+			[ "comprendes", "comprendés" ],
+			[ "comprende" ],
+			[ "comprendemos" ],
+			[ "comprendéis", "comprenden" ],
+			[ "comprenden" ]
+		],
+		"4" : [
+			[ "comprendí" ],
+			[ "comprendiste" ],
+			[ "comprendió" ],
+			[ "comprendimos" ],
+			[ "comprendisteis", "comprendieron" ],
+			[ "comprendieron" ]
+		],
+		"5" : [
+			[ "comprendía" ],
+			[ "comprendías" ],
+			[ "comprendía" ],
+			[ "comprendíamos" ],
+			[ "comprendíais", "comprendían" ],
+			[ "comprendían" ]
+		],
+		"6" : [
+			[ "comprendería" ],
+			[ "comprenderías" ],
+			[ "comprendería" ],
+			[ "comprenderíamos" ],
+			[ "comprenderíais", "comprenderían" ],
+			[ "comprenderían" ]
+		],
+		"7" : [
+			[ "comprenderé" ],
+			[ "comprenderás" ],
+			[ "comprenderá" ],
+			[ "comprenderemos" ],
+			[ "comprenderéis", "comprenderán" ],
+			[ "comprenderán" ]
+		],
+		"8" : [
+			[ "comprenda" ],
+			[ "comprendas" ],
+			[ "comprenda" ],
+			[ "comprendamos" ],
+			[ "comprendáis", "comprendan" ],
+			[ "comprendan" ]
+		],
+		"9" : [
+			[ "comprendiera" ],
+			[ "comprendieras" ],
+			[ "comprendiera" ],
+			[ "comprendiéramos" ],
+			[ "comprendierais", "comprendieran" ],
+			[ "comprendieran" ]
+		],
+		"10" : [
+			[ "comprendiese" ],
+			[ "comprendieses" ],
+			[ "comprendiese" ],
+			[ "comprendiésemos" ],
+			[ "comprendieseis", "comprendiesen" ],
+			[ "comprendiesen" ]
+		],
+		"11" : [
+			[ "comprendiere" ],
+			[ "comprendieres" ],
+			[ "comprendiere" ],
+			[ "comprendiéremos" ],
+			[ "comprendiereis", "comprendieren" ],
+			[ "comprendieren" ]
+		],
+		"12" : {
+			"1" : [ "comprende" ],
+			"2" : [ "comprenda" ],
+			"3" : [ "comprendamos" ],
+			"4" : [ "comprended" ],
+			"5" : [ "comprendan" ]
+		}
+	}
+}

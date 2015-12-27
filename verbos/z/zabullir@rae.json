@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=zabullir",
+	"word" : "zabullir",
+	"infinitivo" : "zabullir",
+	"participio" : [ "zabullido" ],
+	"gerundio" : [ "zabullendo" ],
+	"tenses" : {
+		"3" : [
+			[ "zabullo" ],
+			[ "zabulles", "zabullís" ],
+			[ "zabulle" ],
+			[ "zabullimos" ],
+			[ "zabullís", "zabullen" ],
+			[ "zabullen" ]
+		],
+		"4" : [
+			[ "zabullí" ],
+			[ "zabulliste" ],
+			[ "zabulló" ],
+			[ "zabullimos" ],
+			[ "zabullisteis", "zabulleron" ],
+			[ "zabulleron" ]
+		],
+		"5" : [
+			[ "zabullía" ],
+			[ "zabullías" ],
+			[ "zabullía" ],
+			[ "zabullíamos" ],
+			[ "zabullíais", "zabullían" ],
+			[ "zabullían" ]
+		],
+		"6" : [
+			[ "zabulliría" ],
+			[ "zabullirías" ],
+			[ "zabulliría" ],
+			[ "zabulliríamos" ],
+			[ "zabulliríais", "zabullirían" ],
+			[ "zabullirían" ]
+		],
+		"7" : [
+			[ "zabulliré" ],
+			[ "zabullirás" ],
+			[ "zabullirá" ],
+			[ "zabulliremos" ],
+			[ "zabulliréis", "zabullirán" ],
+			[ "zabullirán" ]
+		],
+		"8" : [
+			[ "zabulla" ],
+			[ "zabullas" ],
+			[ "zabulla" ],
+			[ "zabullamos" ],
+			[ "zabulláis", "zabullan" ],
+			[ "zabullan" ]
+		],
+		"9" : [
+			[ "zabullera" ],
+			[ "zabulleras" ],
+			[ "zabullera" ],
+			[ "zabulléramos" ],
+			[ "zabullerais", "zabulleran" ],
+			[ "zabulleran" ]
+		],
+		"10" : [
+			[ "zabullese" ],
+			[ "zabulleses" ],
+			[ "zabullese" ],
+			[ "zabullésemos" ],
+			[ "zabulleseis", "zabullesen" ],
+			[ "zabullesen" ]
+		],
+		"11" : [
+			[ "zabullere" ],
+			[ "zabulleres" ],
+			[ "zabullere" ],
+			[ "zabulléremos" ],
+			[ "zabullereis", "zabulleren" ],
+			[ "zabulleren" ]
+		],
+		"12" : {
+			"1" : [ "zabulle" ],
+			"2" : [ "zabulla" ],
+			"3" : [ "zabullamos" ],
+			"4" : [ "zabullid" ],
+			"5" : [ "zabullan" ]
+		}
+	}
+}

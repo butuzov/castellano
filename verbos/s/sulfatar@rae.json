@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sulfatar",
+	"word" : "sulfatar",
+	"infinitivo" : "sulfatar",
+	"participio" : [ "sulfatado" ],
+	"gerundio" : [ "sulfatando" ],
+	"tenses" : {
+		"3" : [
+			[ "sulfato" ],
+			[ "sulfatas", "sulfatás" ],
+			[ "sulfata" ],
+			[ "sulfatamos" ],
+			[ "sulfatáis", "sulfatan" ],
+			[ "sulfatan" ]
+		],
+		"4" : [
+			[ "sulfaté" ],
+			[ "sulfataste" ],
+			[ "sulfató" ],
+			[ "sulfatamos" ],
+			[ "sulfatasteis", "sulfataron" ],
+			[ "sulfataron" ]
+		],
+		"5" : [
+			[ "sulfataba" ],
+			[ "sulfatabas" ],
+			[ "sulfataba" ],
+			[ "sulfatábamos" ],
+			[ "sulfatabais", "sulfataban" ],
+			[ "sulfataban" ]
+		],
+		"6" : [
+			[ "sulfataría" ],
+			[ "sulfatarías" ],
+			[ "sulfataría" ],
+			[ "sulfataríamos" ],
+			[ "sulfataríais", "sulfatarían" ],
+			[ "sulfatarían" ]
+		],
+		"7" : [
+			[ "sulfataré" ],
+			[ "sulfatarás" ],
+			[ "sulfatará" ],
+			[ "sulfataremos" ],
+			[ "sulfataréis", "sulfatarán" ],
+			[ "sulfatarán" ]
+		],
+		"8" : [
+			[ "sulfate" ],
+			[ "sulfates" ],
+			[ "sulfate" ],
+			[ "sulfatemos" ],
+			[ "sulfatéis", "sulfaten" ],
+			[ "sulfaten" ]
+		],
+		"9" : [
+			[ "sulfatara" ],
+			[ "sulfataras" ],
+			[ "sulfatara" ],
+			[ "sulfatáramos" ],
+			[ "sulfatarais", "sulfataran" ],
+			[ "sulfataran" ]
+		],
+		"10" : [
+			[ "sulfatase" ],
+			[ "sulfatases" ],
+			[ "sulfatase" ],
+			[ "sulfatásemos" ],
+			[ "sulfataseis", "sulfatasen" ],
+			[ "sulfatasen" ]
+		],
+		"11" : [
+			[ "sulfatare" ],
+			[ "sulfatares" ],
+			[ "sulfatare" ],
+			[ "sulfatáremos" ],
+			[ "sulfatareis", "sulfataren" ],
+			[ "sulfataren" ]
+		],
+		"12" : {
+			"1" : [ "sulfata" ],
+			"2" : [ "sulfate" ],
+			"3" : [ "sulfatemos" ],
+			"4" : [ "sulfatad" ],
+			"5" : [ "sulfaten" ]
+		}
+	}
+}

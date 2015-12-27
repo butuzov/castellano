@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=democratizar",
+	"word" : "democratizar",
+	"infinitivo" : "democratizar",
+	"participio" : [ "democratizado" ],
+	"gerundio" : [ "democratizando" ],
+	"tenses" : {
+		"3" : [
+			[ "democratizo" ],
+			[ "democratizas", "democratizás" ],
+			[ "democratiza" ],
+			[ "democratizamos" ],
+			[ "democratizáis", "democratizan" ],
+			[ "democratizan" ]
+		],
+		"4" : [
+			[ "democraticé" ],
+			[ "democratizaste" ],
+			[ "democratizó" ],
+			[ "democratizamos" ],
+			[ "democratizasteis", "democratizaron" ],
+			[ "democratizaron" ]
+		],
+		"5" : [
+			[ "democratizaba" ],
+			[ "democratizabas" ],
+			[ "democratizaba" ],
+			[ "democratizábamos" ],
+			[ "democratizabais", "democratizaban" ],
+			[ "democratizaban" ]
+		],
+		"6" : [
+			[ "democratizaría" ],
+			[ "democratizarías" ],
+			[ "democratizaría" ],
+			[ "democratizaríamos" ],
+			[ "democratizaríais", "democratizarían" ],
+			[ "democratizarían" ]
+		],
+		"7" : [
+			[ "democratizaré" ],
+			[ "democratizarás" ],
+			[ "democratizará" ],
+			[ "democratizaremos" ],
+			[ "democratizaréis", "democratizarán" ],
+			[ "democratizarán" ]
+		],
+		"8" : [
+			[ "democratice" ],
+			[ "democratices" ],
+			[ "democratice" ],
+			[ "democraticemos" ],
+			[ "democraticéis", "democraticen" ],
+			[ "democraticen" ]
+		],
+		"9" : [
+			[ "democratizara" ],
+			[ "democratizaras" ],
+			[ "democratizara" ],
+			[ "democratizáramos" ],
+			[ "democratizarais", "democratizaran" ],
+			[ "democratizaran" ]
+		],
+		"10" : [
+			[ "democratizase" ],
+			[ "democratizases" ],
+			[ "democratizase" ],
+			[ "democratizásemos" ],
+			[ "democratizaseis", "democratizasen" ],
+			[ "democratizasen" ]
+		],
+		"11" : [
+			[ "democratizare" ],
+			[ "democratizares" ],
+			[ "democratizare" ],
+			[ "democratizáremos" ],
+			[ "democratizareis", "democratizaren" ],
+			[ "democratizaren" ]
+		],
+		"12" : {
+			"1" : [ "democratiza" ],
+			"2" : [ "democratice" ],
+			"3" : [ "democraticemos" ],
+			"4" : [ "democratizad" ],
+			"5" : [ "democraticen" ]
+		}
+	}
+}

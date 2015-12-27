@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=condensar",
+	"word" : "condensar",
+	"infinitivo" : "condensar",
+	"participio" : [ "condensado" ],
+	"gerundio" : [ "condensando" ],
+	"tenses" : {
+		"3" : [
+			[ "condenso" ],
+			[ "condensas", "condensás" ],
+			[ "condensa" ],
+			[ "condensamos" ],
+			[ "condensáis", "condensan" ],
+			[ "condensan" ]
+		],
+		"4" : [
+			[ "condensé" ],
+			[ "condensaste" ],
+			[ "condensó" ],
+			[ "condensamos" ],
+			[ "condensasteis", "condensaron" ],
+			[ "condensaron" ]
+		],
+		"5" : [
+			[ "condensaba" ],
+			[ "condensabas" ],
+			[ "condensaba" ],
+			[ "condensábamos" ],
+			[ "condensabais", "condensaban" ],
+			[ "condensaban" ]
+		],
+		"6" : [
+			[ "condensaría" ],
+			[ "condensarías" ],
+			[ "condensaría" ],
+			[ "condensaríamos" ],
+			[ "condensaríais", "condensarían" ],
+			[ "condensarían" ]
+		],
+		"7" : [
+			[ "condensaré" ],
+			[ "condensarás" ],
+			[ "condensará" ],
+			[ "condensaremos" ],
+			[ "condensaréis", "condensarán" ],
+			[ "condensarán" ]
+		],
+		"8" : [
+			[ "condense" ],
+			[ "condenses" ],
+			[ "condense" ],
+			[ "condensemos" ],
+			[ "condenséis", "condensen" ],
+			[ "condensen" ]
+		],
+		"9" : [
+			[ "condensara" ],
+			[ "condensaras" ],
+			[ "condensara" ],
+			[ "condensáramos" ],
+			[ "condensarais", "condensaran" ],
+			[ "condensaran" ]
+		],
+		"10" : [
+			[ "condensase" ],
+			[ "condensases" ],
+			[ "condensase" ],
+			[ "condensásemos" ],
+			[ "condensaseis", "condensasen" ],
+			[ "condensasen" ]
+		],
+		"11" : [
+			[ "condensare" ],
+			[ "condensares" ],
+			[ "condensare" ],
+			[ "condensáremos" ],
+			[ "condensareis", "condensaren" ],
+			[ "condensaren" ]
+		],
+		"12" : {
+			"1" : [ "condensa" ],
+			"2" : [ "condense" ],
+			"3" : [ "condensemos" ],
+			"4" : [ "condensad" ],
+			"5" : [ "condensen" ]
+		}
+	}
+}

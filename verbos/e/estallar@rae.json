@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estallar",
+	"word" : "estallar",
+	"infinitivo" : "estallar",
+	"participio" : [ "estallado" ],
+	"gerundio" : [ "estallando" ],
+	"tenses" : {
+		"3" : [
+			[ "estallo" ],
+			[ "estallas", "estallás" ],
+			[ "estalla" ],
+			[ "estallamos" ],
+			[ "estalláis", "estallan" ],
+			[ "estallan" ]
+		],
+		"4" : [
+			[ "estallé" ],
+			[ "estallaste" ],
+			[ "estalló" ],
+			[ "estallamos" ],
+			[ "estallasteis", "estallaron" ],
+			[ "estallaron" ]
+		],
+		"5" : [
+			[ "estallaba" ],
+			[ "estallabas" ],
+			[ "estallaba" ],
+			[ "estallábamos" ],
+			[ "estallabais", "estallaban" ],
+			[ "estallaban" ]
+		],
+		"6" : [
+			[ "estallaría" ],
+			[ "estallarías" ],
+			[ "estallaría" ],
+			[ "estallaríamos" ],
+			[ "estallaríais", "estallarían" ],
+			[ "estallarían" ]
+		],
+		"7" : [
+			[ "estallaré" ],
+			[ "estallarás" ],
+			[ "estallará" ],
+			[ "estallaremos" ],
+			[ "estallaréis", "estallarán" ],
+			[ "estallarán" ]
+		],
+		"8" : [
+			[ "estalle" ],
+			[ "estalles" ],
+			[ "estalle" ],
+			[ "estallemos" ],
+			[ "estalléis", "estallen" ],
+			[ "estallen" ]
+		],
+		"9" : [
+			[ "estallara" ],
+			[ "estallaras" ],
+			[ "estallara" ],
+			[ "estalláramos" ],
+			[ "estallarais", "estallaran" ],
+			[ "estallaran" ]
+		],
+		"10" : [
+			[ "estallase" ],
+			[ "estallases" ],
+			[ "estallase" ],
+			[ "estallásemos" ],
+			[ "estallaseis", "estallasen" ],
+			[ "estallasen" ]
+		],
+		"11" : [
+			[ "estallare" ],
+			[ "estallares" ],
+			[ "estallare" ],
+			[ "estalláremos" ],
+			[ "estallareis", "estallaren" ],
+			[ "estallaren" ]
+		],
+		"12" : {
+			"1" : [ "estalla" ],
+			"2" : [ "estalle" ],
+			"3" : [ "estallemos" ],
+			"4" : [ "estallad" ],
+			"5" : [ "estallen" ]
+		}
+	}
+}

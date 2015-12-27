@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=carenar",
+	"word" : "carenar",
+	"infinitivo" : "carenar",
+	"participio" : [ "carenado" ],
+	"gerundio" : [ "carenando" ],
+	"tenses" : {
+		"3" : [
+			[ "careno" ],
+			[ "carenas", "carenás" ],
+			[ "carena" ],
+			[ "carenamos" ],
+			[ "carenáis", "carenan" ],
+			[ "carenan" ]
+		],
+		"4" : [
+			[ "carené" ],
+			[ "carenaste" ],
+			[ "carenó" ],
+			[ "carenamos" ],
+			[ "carenasteis", "carenaron" ],
+			[ "carenaron" ]
+		],
+		"5" : [
+			[ "carenaba" ],
+			[ "carenabas" ],
+			[ "carenaba" ],
+			[ "carenábamos" ],
+			[ "carenabais", "carenaban" ],
+			[ "carenaban" ]
+		],
+		"6" : [
+			[ "carenaría" ],
+			[ "carenarías" ],
+			[ "carenaría" ],
+			[ "carenaríamos" ],
+			[ "carenaríais", "carenarían" ],
+			[ "carenarían" ]
+		],
+		"7" : [
+			[ "carenaré" ],
+			[ "carenarás" ],
+			[ "carenará" ],
+			[ "carenaremos" ],
+			[ "carenaréis", "carenarán" ],
+			[ "carenarán" ]
+		],
+		"8" : [
+			[ "carene" ],
+			[ "carenes" ],
+			[ "carene" ],
+			[ "carenemos" ],
+			[ "carenéis", "carenen" ],
+			[ "carenen" ]
+		],
+		"9" : [
+			[ "carenara" ],
+			[ "carenaras" ],
+			[ "carenara" ],
+			[ "carenáramos" ],
+			[ "carenarais", "carenaran" ],
+			[ "carenaran" ]
+		],
+		"10" : [
+			[ "carenase" ],
+			[ "carenases" ],
+			[ "carenase" ],
+			[ "carenásemos" ],
+			[ "carenaseis", "carenasen" ],
+			[ "carenasen" ]
+		],
+		"11" : [
+			[ "carenare" ],
+			[ "carenares" ],
+			[ "carenare" ],
+			[ "carenáremos" ],
+			[ "carenareis", "carenaren" ],
+			[ "carenaren" ]
+		],
+		"12" : {
+			"1" : [ "carena" ],
+			"2" : [ "carene" ],
+			"3" : [ "carenemos" ],
+			"4" : [ "carenad" ],
+			"5" : [ "carenen" ]
+		}
+	}
+}

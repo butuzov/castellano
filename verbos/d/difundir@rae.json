@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=difundir",
+	"word" : "difundir",
+	"infinitivo" : "difundir",
+	"participio" : [ "difundido" ],
+	"gerundio" : [ "difundiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "difundo" ],
+			[ "difundes", "difundís" ],
+			[ "difunde" ],
+			[ "difundimos" ],
+			[ "difundís", "difunden" ],
+			[ "difunden" ]
+		],
+		"4" : [
+			[ "difundí" ],
+			[ "difundiste" ],
+			[ "difundió" ],
+			[ "difundimos" ],
+			[ "difundisteis", "difundieron" ],
+			[ "difundieron" ]
+		],
+		"5" : [
+			[ "difundía" ],
+			[ "difundías" ],
+			[ "difundía" ],
+			[ "difundíamos" ],
+			[ "difundíais", "difundían" ],
+			[ "difundían" ]
+		],
+		"6" : [
+			[ "difundiría" ],
+			[ "difundirías" ],
+			[ "difundiría" ],
+			[ "difundiríamos" ],
+			[ "difundiríais", "difundirían" ],
+			[ "difundirían" ]
+		],
+		"7" : [
+			[ "difundiré" ],
+			[ "difundirás" ],
+			[ "difundirá" ],
+			[ "difundiremos" ],
+			[ "difundiréis", "difundirán" ],
+			[ "difundirán" ]
+		],
+		"8" : [
+			[ "difunda" ],
+			[ "difundas" ],
+			[ "difunda" ],
+			[ "difundamos" ],
+			[ "difundáis", "difundan" ],
+			[ "difundan" ]
+		],
+		"9" : [
+			[ "difundiera" ],
+			[ "difundieras" ],
+			[ "difundiera" ],
+			[ "difundiéramos" ],
+			[ "difundierais", "difundieran" ],
+			[ "difundieran" ]
+		],
+		"10" : [
+			[ "difundiese" ],
+			[ "difundieses" ],
+			[ "difundiese" ],
+			[ "difundiésemos" ],
+			[ "difundieseis", "difundiesen" ],
+			[ "difundiesen" ]
+		],
+		"11" : [
+			[ "difundiere" ],
+			[ "difundieres" ],
+			[ "difundiere" ],
+			[ "difundiéremos" ],
+			[ "difundiereis", "difundieren" ],
+			[ "difundieren" ]
+		],
+		"12" : {
+			"1" : [ "difunde" ],
+			"2" : [ "difunda" ],
+			"3" : [ "difundamos" ],
+			"4" : [ "difundid" ],
+			"5" : [ "difundan" ]
+		}
+	}
+}

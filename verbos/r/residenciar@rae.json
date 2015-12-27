@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=residenciar",
+	"word" : "residenciar",
+	"infinitivo" : "residenciar",
+	"participio" : [ "residenciado" ],
+	"gerundio" : [ "residenciando" ],
+	"tenses" : {
+		"3" : [
+			[ "residencio" ],
+			[ "residencias", "residenciás" ],
+			[ "residencia" ],
+			[ "residenciamos" ],
+			[ "residenciáis", "residencian" ],
+			[ "residencian" ]
+		],
+		"4" : [
+			[ "residencié" ],
+			[ "residenciaste" ],
+			[ "residenció" ],
+			[ "residenciamos" ],
+			[ "residenciasteis", "residenciaron" ],
+			[ "residenciaron" ]
+		],
+		"5" : [
+			[ "residenciaba" ],
+			[ "residenciabas" ],
+			[ "residenciaba" ],
+			[ "residenciábamos" ],
+			[ "residenciabais", "residenciaban" ],
+			[ "residenciaban" ]
+		],
+		"6" : [
+			[ "residenciaría" ],
+			[ "residenciarías" ],
+			[ "residenciaría" ],
+			[ "residenciaríamos" ],
+			[ "residenciaríais", "residenciarían" ],
+			[ "residenciarían" ]
+		],
+		"7" : [
+			[ "residenciaré" ],
+			[ "residenciarás" ],
+			[ "residenciará" ],
+			[ "residenciaremos" ],
+			[ "residenciaréis", "residenciarán" ],
+			[ "residenciarán" ]
+		],
+		"8" : [
+			[ "residencie" ],
+			[ "residencies" ],
+			[ "residencie" ],
+			[ "residenciemos" ],
+			[ "residenciéis", "residencien" ],
+			[ "residencien" ]
+		],
+		"9" : [
+			[ "residenciara" ],
+			[ "residenciaras" ],
+			[ "residenciara" ],
+			[ "residenciáramos" ],
+			[ "residenciarais", "residenciaran" ],
+			[ "residenciaran" ]
+		],
+		"10" : [
+			[ "residenciase" ],
+			[ "residenciases" ],
+			[ "residenciase" ],
+			[ "residenciásemos" ],
+			[ "residenciaseis", "residenciasen" ],
+			[ "residenciasen" ]
+		],
+		"11" : [
+			[ "residenciare" ],
+			[ "residenciares" ],
+			[ "residenciare" ],
+			[ "residenciáremos" ],
+			[ "residenciareis", "residenciaren" ],
+			[ "residenciaren" ]
+		],
+		"12" : {
+			"1" : [ "residencia" ],
+			"2" : [ "residencie" ],
+			"3" : [ "residenciemos" ],
+			"4" : [ "residenciad" ],
+			"5" : [ "residencien" ]
+		}
+	}
+}

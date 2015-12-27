@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descorrer",
+	"word" : "descorrer",
+	"infinitivo" : "descorrer",
+	"participio" : [ "descorrido" ],
+	"gerundio" : [ "descorriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "descorro" ],
+			[ "descorres", "descorrés" ],
+			[ "descorre" ],
+			[ "descorremos" ],
+			[ "descorréis", "descorren" ],
+			[ "descorren" ]
+		],
+		"4" : [
+			[ "descorrí" ],
+			[ "descorriste" ],
+			[ "descorrió" ],
+			[ "descorrimos" ],
+			[ "descorristeis", "descorrieron" ],
+			[ "descorrieron" ]
+		],
+		"5" : [
+			[ "descorría" ],
+			[ "descorrías" ],
+			[ "descorría" ],
+			[ "descorríamos" ],
+			[ "descorríais", "descorrían" ],
+			[ "descorrían" ]
+		],
+		"6" : [
+			[ "descorrería" ],
+			[ "descorrerías" ],
+			[ "descorrería" ],
+			[ "descorreríamos" ],
+			[ "descorreríais", "descorrerían" ],
+			[ "descorrerían" ]
+		],
+		"7" : [
+			[ "descorreré" ],
+			[ "descorrerás" ],
+			[ "descorrerá" ],
+			[ "descorreremos" ],
+			[ "descorreréis", "descorrerán" ],
+			[ "descorrerán" ]
+		],
+		"8" : [
+			[ "descorra" ],
+			[ "descorras" ],
+			[ "descorra" ],
+			[ "descorramos" ],
+			[ "descorráis", "descorran" ],
+			[ "descorran" ]
+		],
+		"9" : [
+			[ "descorriera" ],
+			[ "descorrieras" ],
+			[ "descorriera" ],
+			[ "descorriéramos" ],
+			[ "descorrierais", "descorrieran" ],
+			[ "descorrieran" ]
+		],
+		"10" : [
+			[ "descorriese" ],
+			[ "descorrieses" ],
+			[ "descorriese" ],
+			[ "descorriésemos" ],
+			[ "descorrieseis", "descorriesen" ],
+			[ "descorriesen" ]
+		],
+		"11" : [
+			[ "descorriere" ],
+			[ "descorrieres" ],
+			[ "descorriere" ],
+			[ "descorriéremos" ],
+			[ "descorriereis", "descorrieren" ],
+			[ "descorrieren" ]
+		],
+		"12" : {
+			"1" : [ "descorre" ],
+			"2" : [ "descorra" ],
+			"3" : [ "descorramos" ],
+			"4" : [ "descorred" ],
+			"5" : [ "descorran" ]
+		}
+	}
+}

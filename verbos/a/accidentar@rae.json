@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=accidentar",
+	"word" : "accidentar",
+	"infinitivo" : "accidentar",
+	"participio" : [ "accidentado" ],
+	"gerundio" : [ "accidentando" ],
+	"tenses" : {
+		"3" : [
+			[ "accidento" ],
+			[ "accidentas", "accidentás" ],
+			[ "accidenta" ],
+			[ "accidentamos" ],
+			[ "accidentáis", "accidentan" ],
+			[ "accidentan" ]
+		],
+		"4" : [
+			[ "accidenté" ],
+			[ "accidentaste" ],
+			[ "accidentó" ],
+			[ "accidentamos" ],
+			[ "accidentasteis", "accidentaron" ],
+			[ "accidentaron" ]
+		],
+		"5" : [
+			[ "accidentaba" ],
+			[ "accidentabas" ],
+			[ "accidentaba" ],
+			[ "accidentábamos" ],
+			[ "accidentabais", "accidentaban" ],
+			[ "accidentaban" ]
+		],
+		"6" : [
+			[ "accidentaría" ],
+			[ "accidentarías" ],
+			[ "accidentaría" ],
+			[ "accidentaríamos" ],
+			[ "accidentaríais", "accidentarían" ],
+			[ "accidentarían" ]
+		],
+		"7" : [
+			[ "accidentaré" ],
+			[ "accidentarás" ],
+			[ "accidentará" ],
+			[ "accidentaremos" ],
+			[ "accidentaréis", "accidentarán" ],
+			[ "accidentarán" ]
+		],
+		"8" : [
+			[ "accidente" ],
+			[ "accidentes" ],
+			[ "accidente" ],
+			[ "accidentemos" ],
+			[ "accidentéis", "accidenten" ],
+			[ "accidenten" ]
+		],
+		"9" : [
+			[ "accidentara" ],
+			[ "accidentaras" ],
+			[ "accidentara" ],
+			[ "accidentáramos" ],
+			[ "accidentarais", "accidentaran" ],
+			[ "accidentaran" ]
+		],
+		"10" : [
+			[ "accidentase" ],
+			[ "accidentases" ],
+			[ "accidentase" ],
+			[ "accidentásemos" ],
+			[ "accidentaseis", "accidentasen" ],
+			[ "accidentasen" ]
+		],
+		"11" : [
+			[ "accidentare" ],
+			[ "accidentares" ],
+			[ "accidentare" ],
+			[ "accidentáremos" ],
+			[ "accidentareis", "accidentaren" ],
+			[ "accidentaren" ]
+		],
+		"12" : {
+			"1" : [ "accidenta" ],
+			"2" : [ "accidente" ],
+			"3" : [ "accidentemos" ],
+			"4" : [ "accidentad" ],
+			"5" : [ "accidenten" ]
+		}
+	}
+}

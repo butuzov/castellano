@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=formar",
+	"word" : "formar",
+	"infinitivo" : "formar",
+	"participio" : [ "formado" ],
+	"gerundio" : [ "formando" ],
+	"tenses" : {
+		"3" : [
+			[ "formo" ],
+			[ "formas", "formás" ],
+			[ "forma" ],
+			[ "formamos" ],
+			[ "formáis", "forman" ],
+			[ "forman" ]
+		],
+		"4" : [
+			[ "formé" ],
+			[ "formaste" ],
+			[ "formó" ],
+			[ "formamos" ],
+			[ "formasteis", "formaron" ],
+			[ "formaron" ]
+		],
+		"5" : [
+			[ "formaba" ],
+			[ "formabas" ],
+			[ "formaba" ],
+			[ "formábamos" ],
+			[ "formabais", "formaban" ],
+			[ "formaban" ]
+		],
+		"6" : [
+			[ "formaría" ],
+			[ "formarías" ],
+			[ "formaría" ],
+			[ "formaríamos" ],
+			[ "formaríais", "formarían" ],
+			[ "formarían" ]
+		],
+		"7" : [
+			[ "formaré" ],
+			[ "formarás" ],
+			[ "formará" ],
+			[ "formaremos" ],
+			[ "formaréis", "formarán" ],
+			[ "formarán" ]
+		],
+		"8" : [
+			[ "forme" ],
+			[ "formes" ],
+			[ "forme" ],
+			[ "formemos" ],
+			[ "forméis", "formen" ],
+			[ "formen" ]
+		],
+		"9" : [
+			[ "formara" ],
+			[ "formaras" ],
+			[ "formara" ],
+			[ "formáramos" ],
+			[ "formarais", "formaran" ],
+			[ "formaran" ]
+		],
+		"10" : [
+			[ "formase" ],
+			[ "formases" ],
+			[ "formase" ],
+			[ "formásemos" ],
+			[ "formaseis", "formasen" ],
+			[ "formasen" ]
+		],
+		"11" : [
+			[ "formare" ],
+			[ "formares" ],
+			[ "formare" ],
+			[ "formáremos" ],
+			[ "formareis", "formaren" ],
+			[ "formaren" ]
+		],
+		"12" : {
+			"1" : [ "forma" ],
+			"2" : [ "forme" ],
+			"3" : [ "formemos" ],
+			"4" : [ "formad" ],
+			"5" : [ "formen" ]
+		}
+	}
+}

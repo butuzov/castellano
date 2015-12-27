@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vocalizar",
+	"word" : "vocalizar",
+	"infinitivo" : "vocalizar",
+	"participio" : [ "vocalizado" ],
+	"gerundio" : [ "vocalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "vocalizo" ],
+			[ "vocalizas", "vocalizás" ],
+			[ "vocaliza" ],
+			[ "vocalizamos" ],
+			[ "vocalizáis", "vocalizan" ],
+			[ "vocalizan" ]
+		],
+		"4" : [
+			[ "vocalicé" ],
+			[ "vocalizaste" ],
+			[ "vocalizó" ],
+			[ "vocalizamos" ],
+			[ "vocalizasteis", "vocalizaron" ],
+			[ "vocalizaron" ]
+		],
+		"5" : [
+			[ "vocalizaba" ],
+			[ "vocalizabas" ],
+			[ "vocalizaba" ],
+			[ "vocalizábamos" ],
+			[ "vocalizabais", "vocalizaban" ],
+			[ "vocalizaban" ]
+		],
+		"6" : [
+			[ "vocalizaría" ],
+			[ "vocalizarías" ],
+			[ "vocalizaría" ],
+			[ "vocalizaríamos" ],
+			[ "vocalizaríais", "vocalizarían" ],
+			[ "vocalizarían" ]
+		],
+		"7" : [
+			[ "vocalizaré" ],
+			[ "vocalizarás" ],
+			[ "vocalizará" ],
+			[ "vocalizaremos" ],
+			[ "vocalizaréis", "vocalizarán" ],
+			[ "vocalizarán" ]
+		],
+		"8" : [
+			[ "vocalice" ],
+			[ "vocalices" ],
+			[ "vocalice" ],
+			[ "vocalicemos" ],
+			[ "vocalicéis", "vocalicen" ],
+			[ "vocalicen" ]
+		],
+		"9" : [
+			[ "vocalizara" ],
+			[ "vocalizaras" ],
+			[ "vocalizara" ],
+			[ "vocalizáramos" ],
+			[ "vocalizarais", "vocalizaran" ],
+			[ "vocalizaran" ]
+		],
+		"10" : [
+			[ "vocalizase" ],
+			[ "vocalizases" ],
+			[ "vocalizase" ],
+			[ "vocalizásemos" ],
+			[ "vocalizaseis", "vocalizasen" ],
+			[ "vocalizasen" ]
+		],
+		"11" : [
+			[ "vocalizare" ],
+			[ "vocalizares" ],
+			[ "vocalizare" ],
+			[ "vocalizáremos" ],
+			[ "vocalizareis", "vocalizaren" ],
+			[ "vocalizaren" ]
+		],
+		"12" : {
+			"1" : [ "vocaliza" ],
+			"2" : [ "vocalice" ],
+			"3" : [ "vocalicemos" ],
+			"4" : [ "vocalizad" ],
+			"5" : [ "vocalicen" ]
+		}
+	}
+}

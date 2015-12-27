@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rechinar",
+	"word" : "rechinar",
+	"infinitivo" : "rechinar",
+	"participio" : [ "rechinado" ],
+	"gerundio" : [ "rechinando" ],
+	"tenses" : {
+		"3" : [
+			[ "rechino" ],
+			[ "rechinas", "rechinás" ],
+			[ "rechina" ],
+			[ "rechinamos" ],
+			[ "rechináis", "rechinan" ],
+			[ "rechinan" ]
+		],
+		"4" : [
+			[ "rechiné" ],
+			[ "rechinaste" ],
+			[ "rechinó" ],
+			[ "rechinamos" ],
+			[ "rechinasteis", "rechinaron" ],
+			[ "rechinaron" ]
+		],
+		"5" : [
+			[ "rechinaba" ],
+			[ "rechinabas" ],
+			[ "rechinaba" ],
+			[ "rechinábamos" ],
+			[ "rechinabais", "rechinaban" ],
+			[ "rechinaban" ]
+		],
+		"6" : [
+			[ "rechinaría" ],
+			[ "rechinarías" ],
+			[ "rechinaría" ],
+			[ "rechinaríamos" ],
+			[ "rechinaríais", "rechinarían" ],
+			[ "rechinarían" ]
+		],
+		"7" : [
+			[ "rechinaré" ],
+			[ "rechinarás" ],
+			[ "rechinará" ],
+			[ "rechinaremos" ],
+			[ "rechinaréis", "rechinarán" ],
+			[ "rechinarán" ]
+		],
+		"8" : [
+			[ "rechine" ],
+			[ "rechines" ],
+			[ "rechine" ],
+			[ "rechinemos" ],
+			[ "rechinéis", "rechinen" ],
+			[ "rechinen" ]
+		],
+		"9" : [
+			[ "rechinara" ],
+			[ "rechinaras" ],
+			[ "rechinara" ],
+			[ "rechináramos" ],
+			[ "rechinarais", "rechinaran" ],
+			[ "rechinaran" ]
+		],
+		"10" : [
+			[ "rechinase" ],
+			[ "rechinases" ],
+			[ "rechinase" ],
+			[ "rechinásemos" ],
+			[ "rechinaseis", "rechinasen" ],
+			[ "rechinasen" ]
+		],
+		"11" : [
+			[ "rechinare" ],
+			[ "rechinares" ],
+			[ "rechinare" ],
+			[ "rechináremos" ],
+			[ "rechinareis", "rechinaren" ],
+			[ "rechinaren" ]
+		],
+		"12" : {
+			"1" : [ "rechina" ],
+			"2" : [ "rechine" ],
+			"3" : [ "rechinemos" ],
+			"4" : [ "rechinad" ],
+			"5" : [ "rechinen" ]
+		}
+	}
+}

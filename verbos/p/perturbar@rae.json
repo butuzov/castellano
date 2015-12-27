@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=perturbar",
+	"word" : "perturbar",
+	"infinitivo" : "perturbar",
+	"participio" : [ "perturbado" ],
+	"gerundio" : [ "perturbando" ],
+	"tenses" : {
+		"3" : [
+			[ "perturbo" ],
+			[ "perturbas", "perturbás" ],
+			[ "perturba" ],
+			[ "perturbamos" ],
+			[ "perturbáis", "perturban" ],
+			[ "perturban" ]
+		],
+		"4" : [
+			[ "perturbé" ],
+			[ "perturbaste" ],
+			[ "perturbó" ],
+			[ "perturbamos" ],
+			[ "perturbasteis", "perturbaron" ],
+			[ "perturbaron" ]
+		],
+		"5" : [
+			[ "perturbaba" ],
+			[ "perturbabas" ],
+			[ "perturbaba" ],
+			[ "perturbábamos" ],
+			[ "perturbabais", "perturbaban" ],
+			[ "perturbaban" ]
+		],
+		"6" : [
+			[ "perturbaría" ],
+			[ "perturbarías" ],
+			[ "perturbaría" ],
+			[ "perturbaríamos" ],
+			[ "perturbaríais", "perturbarían" ],
+			[ "perturbarían" ]
+		],
+		"7" : [
+			[ "perturbaré" ],
+			[ "perturbarás" ],
+			[ "perturbará" ],
+			[ "perturbaremos" ],
+			[ "perturbaréis", "perturbarán" ],
+			[ "perturbarán" ]
+		],
+		"8" : [
+			[ "perturbe" ],
+			[ "perturbes" ],
+			[ "perturbe" ],
+			[ "perturbemos" ],
+			[ "perturbéis", "perturben" ],
+			[ "perturben" ]
+		],
+		"9" : [
+			[ "perturbara" ],
+			[ "perturbaras" ],
+			[ "perturbara" ],
+			[ "perturbáramos" ],
+			[ "perturbarais", "perturbaran" ],
+			[ "perturbaran" ]
+		],
+		"10" : [
+			[ "perturbase" ],
+			[ "perturbases" ],
+			[ "perturbase" ],
+			[ "perturbásemos" ],
+			[ "perturbaseis", "perturbasen" ],
+			[ "perturbasen" ]
+		],
+		"11" : [
+			[ "perturbare" ],
+			[ "perturbares" ],
+			[ "perturbare" ],
+			[ "perturbáremos" ],
+			[ "perturbareis", "perturbaren" ],
+			[ "perturbaren" ]
+		],
+		"12" : {
+			"1" : [ "perturba" ],
+			"2" : [ "perturbe" ],
+			"3" : [ "perturbemos" ],
+			"4" : [ "perturbad" ],
+			"5" : [ "perturben" ]
+		}
+	}
+}

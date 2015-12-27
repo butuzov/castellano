@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reconocer",
+	"word" : "reconocer",
+	"infinitivo" : "reconocer",
+	"participio" : [ "reconocido" ],
+	"gerundio" : [ "reconociendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reconozco" ],
+			[ "reconoces", "reconocés" ],
+			[ "reconoce" ],
+			[ "reconocemos" ],
+			[ "reconocéis", "reconocen" ],
+			[ "reconocen" ]
+		],
+		"4" : [
+			[ "reconocí" ],
+			[ "reconociste" ],
+			[ "reconoció" ],
+			[ "reconocimos" ],
+			[ "reconocisteis", "reconocieron" ],
+			[ "reconocieron" ]
+		],
+		"5" : [
+			[ "reconocía" ],
+			[ "reconocías" ],
+			[ "reconocía" ],
+			[ "reconocíamos" ],
+			[ "reconocíais", "reconocían" ],
+			[ "reconocían" ]
+		],
+		"6" : [
+			[ "reconocería" ],
+			[ "reconocerías" ],
+			[ "reconocería" ],
+			[ "reconoceríamos" ],
+			[ "reconoceríais", "reconocerían" ],
+			[ "reconocerían" ]
+		],
+		"7" : [
+			[ "reconoceré" ],
+			[ "reconocerás" ],
+			[ "reconocerá" ],
+			[ "reconoceremos" ],
+			[ "reconoceréis", "reconocerán" ],
+			[ "reconocerán" ]
+		],
+		"8" : [
+			[ "reconozca" ],
+			[ "reconozcas" ],
+			[ "reconozca" ],
+			[ "reconozcamos" ],
+			[ "reconozcáis", "reconozcan" ],
+			[ "reconozcan" ]
+		],
+		"9" : [
+			[ "reconociera" ],
+			[ "reconocieras" ],
+			[ "reconociera" ],
+			[ "reconociéramos" ],
+			[ "reconocierais", "reconocieran" ],
+			[ "reconocieran" ]
+		],
+		"10" : [
+			[ "reconociese" ],
+			[ "reconocieses" ],
+			[ "reconociese" ],
+			[ "reconociésemos" ],
+			[ "reconocieseis", "reconociesen" ],
+			[ "reconociesen" ]
+		],
+		"11" : [
+			[ "reconociere" ],
+			[ "reconocieres" ],
+			[ "reconociere" ],
+			[ "reconociéremos" ],
+			[ "reconociereis", "reconocieren" ],
+			[ "reconocieren" ]
+		],
+		"12" : {
+			"1" : [ "reconoce" ],
+			"2" : [ "reconozca" ],
+			"3" : [ "reconozcamos" ],
+			"4" : [ "reconoced" ],
+			"5" : [ "reconozcan" ]
+		}
+	}
+}

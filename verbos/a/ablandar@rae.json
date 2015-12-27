@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ablandar",
+	"word" : "ablandar",
+	"infinitivo" : "ablandar",
+	"participio" : [ "ablandado" ],
+	"gerundio" : [ "ablandando" ],
+	"tenses" : {
+		"3" : [
+			[ "ablando" ],
+			[ "ablandas", "ablandás" ],
+			[ "ablanda" ],
+			[ "ablandamos" ],
+			[ "ablandáis", "ablandan" ],
+			[ "ablandan" ]
+		],
+		"4" : [
+			[ "ablandé" ],
+			[ "ablandaste" ],
+			[ "ablandó" ],
+			[ "ablandamos" ],
+			[ "ablandasteis", "ablandaron" ],
+			[ "ablandaron" ]
+		],
+		"5" : [
+			[ "ablandaba" ],
+			[ "ablandabas" ],
+			[ "ablandaba" ],
+			[ "ablandábamos" ],
+			[ "ablandabais", "ablandaban" ],
+			[ "ablandaban" ]
+		],
+		"6" : [
+			[ "ablandaría" ],
+			[ "ablandarías" ],
+			[ "ablandaría" ],
+			[ "ablandaríamos" ],
+			[ "ablandaríais", "ablandarían" ],
+			[ "ablandarían" ]
+		],
+		"7" : [
+			[ "ablandaré" ],
+			[ "ablandarás" ],
+			[ "ablandará" ],
+			[ "ablandaremos" ],
+			[ "ablandaréis", "ablandarán" ],
+			[ "ablandarán" ]
+		],
+		"8" : [
+			[ "ablande" ],
+			[ "ablandes" ],
+			[ "ablande" ],
+			[ "ablandemos" ],
+			[ "ablandéis", "ablanden" ],
+			[ "ablanden" ]
+		],
+		"9" : [
+			[ "ablandara" ],
+			[ "ablandaras" ],
+			[ "ablandara" ],
+			[ "ablandáramos" ],
+			[ "ablandarais", "ablandaran" ],
+			[ "ablandaran" ]
+		],
+		"10" : [
+			[ "ablandase" ],
+			[ "ablandases" ],
+			[ "ablandase" ],
+			[ "ablandásemos" ],
+			[ "ablandaseis", "ablandasen" ],
+			[ "ablandasen" ]
+		],
+		"11" : [
+			[ "ablandare" ],
+			[ "ablandares" ],
+			[ "ablandare" ],
+			[ "ablandáremos" ],
+			[ "ablandareis", "ablandaren" ],
+			[ "ablandaren" ]
+		],
+		"12" : {
+			"1" : [ "ablanda" ],
+			"2" : [ "ablande" ],
+			"3" : [ "ablandemos" ],
+			"4" : [ "ablandad" ],
+			"5" : [ "ablanden" ]
+		}
+	}
+}

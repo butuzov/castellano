@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reemplazar",
+	"word" : "reemplazar",
+	"infinitivo" : "reemplazar",
+	"participio" : [ "reemplazado" ],
+	"gerundio" : [ "reemplazando" ],
+	"tenses" : {
+		"3" : [
+			[ "reemplazo" ],
+			[ "reemplazas", "reemplazás" ],
+			[ "reemplaza" ],
+			[ "reemplazamos" ],
+			[ "reemplazáis", "reemplazan" ],
+			[ "reemplazan" ]
+		],
+		"4" : [
+			[ "reemplacé" ],
+			[ "reemplazaste" ],
+			[ "reemplazó" ],
+			[ "reemplazamos" ],
+			[ "reemplazasteis", "reemplazaron" ],
+			[ "reemplazaron" ]
+		],
+		"5" : [
+			[ "reemplazaba" ],
+			[ "reemplazabas" ],
+			[ "reemplazaba" ],
+			[ "reemplazábamos" ],
+			[ "reemplazabais", "reemplazaban" ],
+			[ "reemplazaban" ]
+		],
+		"6" : [
+			[ "reemplazaría" ],
+			[ "reemplazarías" ],
+			[ "reemplazaría" ],
+			[ "reemplazaríamos" ],
+			[ "reemplazaríais", "reemplazarían" ],
+			[ "reemplazarían" ]
+		],
+		"7" : [
+			[ "reemplazaré" ],
+			[ "reemplazarás" ],
+			[ "reemplazará" ],
+			[ "reemplazaremos" ],
+			[ "reemplazaréis", "reemplazarán" ],
+			[ "reemplazarán" ]
+		],
+		"8" : [
+			[ "reemplace" ],
+			[ "reemplaces" ],
+			[ "reemplace" ],
+			[ "reemplacemos" ],
+			[ "reemplacéis", "reemplacen" ],
+			[ "reemplacen" ]
+		],
+		"9" : [
+			[ "reemplazara" ],
+			[ "reemplazaras" ],
+			[ "reemplazara" ],
+			[ "reemplazáramos" ],
+			[ "reemplazarais", "reemplazaran" ],
+			[ "reemplazaran" ]
+		],
+		"10" : [
+			[ "reemplazase" ],
+			[ "reemplazases" ],
+			[ "reemplazase" ],
+			[ "reemplazásemos" ],
+			[ "reemplazaseis", "reemplazasen" ],
+			[ "reemplazasen" ]
+		],
+		"11" : [
+			[ "reemplazare" ],
+			[ "reemplazares" ],
+			[ "reemplazare" ],
+			[ "reemplazáremos" ],
+			[ "reemplazareis", "reemplazaren" ],
+			[ "reemplazaren" ]
+		],
+		"12" : {
+			"1" : [ "reemplaza" ],
+			"2" : [ "reemplace" ],
+			"3" : [ "reemplacemos" ],
+			"4" : [ "reemplazad" ],
+			"5" : [ "reemplacen" ]
+		}
+	}
+}

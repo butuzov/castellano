@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enriquecer",
+	"word" : "enriquecer",
+	"infinitivo" : "enriquecer",
+	"participio" : [ "enriquecido" ],
+	"gerundio" : [ "enriqueciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "enriquezco" ],
+			[ "enriqueces", "enriquecés" ],
+			[ "enriquece" ],
+			[ "enriquecemos" ],
+			[ "enriquecéis", "enriquecen" ],
+			[ "enriquecen" ]
+		],
+		"4" : [
+			[ "enriquecí" ],
+			[ "enriqueciste" ],
+			[ "enriqueció" ],
+			[ "enriquecimos" ],
+			[ "enriquecisteis", "enriquecieron" ],
+			[ "enriquecieron" ]
+		],
+		"5" : [
+			[ "enriquecía" ],
+			[ "enriquecías" ],
+			[ "enriquecía" ],
+			[ "enriquecíamos" ],
+			[ "enriquecíais", "enriquecían" ],
+			[ "enriquecían" ]
+		],
+		"6" : [
+			[ "enriquecería" ],
+			[ "enriquecerías" ],
+			[ "enriquecería" ],
+			[ "enriqueceríamos" ],
+			[ "enriqueceríais", "enriquecerían" ],
+			[ "enriquecerían" ]
+		],
+		"7" : [
+			[ "enriqueceré" ],
+			[ "enriquecerás" ],
+			[ "enriquecerá" ],
+			[ "enriqueceremos" ],
+			[ "enriqueceréis", "enriquecerán" ],
+			[ "enriquecerán" ]
+		],
+		"8" : [
+			[ "enriquezca" ],
+			[ "enriquezcas" ],
+			[ "enriquezca" ],
+			[ "enriquezcamos" ],
+			[ "enriquezcáis", "enriquezcan" ],
+			[ "enriquezcan" ]
+		],
+		"9" : [
+			[ "enriqueciera" ],
+			[ "enriquecieras" ],
+			[ "enriqueciera" ],
+			[ "enriqueciéramos" ],
+			[ "enriquecierais", "enriquecieran" ],
+			[ "enriquecieran" ]
+		],
+		"10" : [
+			[ "enriqueciese" ],
+			[ "enriquecieses" ],
+			[ "enriqueciese" ],
+			[ "enriqueciésemos" ],
+			[ "enriquecieseis", "enriqueciesen" ],
+			[ "enriqueciesen" ]
+		],
+		"11" : [
+			[ "enriqueciere" ],
+			[ "enriquecieres" ],
+			[ "enriqueciere" ],
+			[ "enriqueciéremos" ],
+			[ "enriqueciereis", "enriquecieren" ],
+			[ "enriquecieren" ]
+		],
+		"12" : {
+			"1" : [ "enriquece" ],
+			"2" : [ "enriquezca" ],
+			"3" : [ "enriquezcamos" ],
+			"4" : [ "enriqueced" ],
+			"5" : [ "enriquezcan" ]
+		}
+	}
+}

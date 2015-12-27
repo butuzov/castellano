@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pervertir",
+	"word" : "pervertir",
+	"infinitivo" : "pervertir",
+	"participio" : [ "pervertido" ],
+	"gerundio" : [ "pervirtiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "pervierto" ],
+			[ "perviertes", "pervertís" ],
+			[ "pervierte" ],
+			[ "pervertimos" ],
+			[ "pervertís", "pervierten" ],
+			[ "pervierten" ]
+		],
+		"4" : [
+			[ "pervertí" ],
+			[ "pervertiste" ],
+			[ "pervirtió" ],
+			[ "pervertimos" ],
+			[ "pervertisteis", "pervirtieron" ],
+			[ "pervirtieron" ]
+		],
+		"5" : [
+			[ "pervertía" ],
+			[ "pervertías" ],
+			[ "pervertía" ],
+			[ "pervertíamos" ],
+			[ "pervertíais", "pervertían" ],
+			[ "pervertían" ]
+		],
+		"6" : [
+			[ "pervertiría" ],
+			[ "pervertirías" ],
+			[ "pervertiría" ],
+			[ "pervertiríamos" ],
+			[ "pervertiríais", "pervertirían" ],
+			[ "pervertirían" ]
+		],
+		"7" : [
+			[ "pervertiré" ],
+			[ "pervertirás" ],
+			[ "pervertirá" ],
+			[ "pervertiremos" ],
+			[ "pervertiréis", "pervertirán" ],
+			[ "pervertirán" ]
+		],
+		"8" : [
+			[ "pervierta" ],
+			[ "perviertas" ],
+			[ "pervierta" ],
+			[ "pervirtamos" ],
+			[ "pervirtáis", "perviertan" ],
+			[ "perviertan" ]
+		],
+		"9" : [
+			[ "pervirtiera" ],
+			[ "pervirtieras" ],
+			[ "pervirtiera" ],
+			[ "pervirtiéramos" ],
+			[ "pervirtierais", "pervirtieran" ],
+			[ "pervirtieran" ]
+		],
+		"10" : [
+			[ "pervirtiese" ],
+			[ "pervirtieses" ],
+			[ "pervirtiese" ],
+			[ "pervirtiésemos" ],
+			[ "pervirtieseis", "pervirtiesen" ],
+			[ "pervirtiesen" ]
+		],
+		"11" : [
+			[ "pervirtiere" ],
+			[ "pervirtieres" ],
+			[ "pervirtiere" ],
+			[ "pervirtiéremos" ],
+			[ "pervirtiereis", "pervirtieren" ],
+			[ "pervirtieren" ]
+		],
+		"12" : {
+			"1" : [ "pervierte" ],
+			"2" : [ "pervierta" ],
+			"3" : [ "pervirtamos" ],
+			"4" : [ "pervertid" ],
+			"5" : [ "perviertan" ]
+		}
+	}
+}

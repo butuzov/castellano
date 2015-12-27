@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=preparar",
+	"word" : "preparar",
+	"infinitivo" : "preparar",
+	"participio" : [ "preparado" ],
+	"gerundio" : [ "preparando" ],
+	"tenses" : {
+		"3" : [
+			[ "preparo" ],
+			[ "preparas", "preparás" ],
+			[ "prepara" ],
+			[ "preparamos" ],
+			[ "preparáis", "preparan" ],
+			[ "preparan" ]
+		],
+		"4" : [
+			[ "preparé" ],
+			[ "preparaste" ],
+			[ "preparó" ],
+			[ "preparamos" ],
+			[ "preparasteis", "prepararon" ],
+			[ "prepararon" ]
+		],
+		"5" : [
+			[ "preparaba" ],
+			[ "preparabas" ],
+			[ "preparaba" ],
+			[ "preparábamos" ],
+			[ "preparabais", "preparaban" ],
+			[ "preparaban" ]
+		],
+		"6" : [
+			[ "prepararía" ],
+			[ "prepararías" ],
+			[ "prepararía" ],
+			[ "prepararíamos" ],
+			[ "prepararíais", "prepararían" ],
+			[ "prepararían" ]
+		],
+		"7" : [
+			[ "prepararé" ],
+			[ "prepararás" ],
+			[ "preparará" ],
+			[ "prepararemos" ],
+			[ "prepararéis", "prepararán" ],
+			[ "prepararán" ]
+		],
+		"8" : [
+			[ "prepare" ],
+			[ "prepares" ],
+			[ "prepare" ],
+			[ "preparemos" ],
+			[ "preparéis", "preparen" ],
+			[ "preparen" ]
+		],
+		"9" : [
+			[ "preparara" ],
+			[ "prepararas" ],
+			[ "preparara" ],
+			[ "preparáramos" ],
+			[ "prepararais", "prepararan" ],
+			[ "prepararan" ]
+		],
+		"10" : [
+			[ "preparase" ],
+			[ "preparases" ],
+			[ "preparase" ],
+			[ "preparásemos" ],
+			[ "preparaseis", "preparasen" ],
+			[ "preparasen" ]
+		],
+		"11" : [
+			[ "preparare" ],
+			[ "preparares" ],
+			[ "preparare" ],
+			[ "preparáremos" ],
+			[ "preparareis", "prepararen" ],
+			[ "prepararen" ]
+		],
+		"12" : {
+			"1" : [ "prepara" ],
+			"2" : [ "prepare" ],
+			"3" : [ "preparemos" ],
+			"4" : [ "preparad" ],
+			"5" : [ "preparen" ]
+		}
+	}
+}

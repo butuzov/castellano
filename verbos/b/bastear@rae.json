@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bastear",
+	"word" : "bastear",
+	"infinitivo" : "bastear",
+	"participio" : [ "basteado" ],
+	"gerundio" : [ "basteando" ],
+	"tenses" : {
+		"3" : [
+			[ "basteo" ],
+			[ "basteas", "basteás" ],
+			[ "bastea" ],
+			[ "basteamos" ],
+			[ "basteáis", "bastean" ],
+			[ "bastean" ]
+		],
+		"4" : [
+			[ "basteé" ],
+			[ "basteaste" ],
+			[ "basteó" ],
+			[ "basteamos" ],
+			[ "basteasteis", "bastearon" ],
+			[ "bastearon" ]
+		],
+		"5" : [
+			[ "basteaba" ],
+			[ "basteabas" ],
+			[ "basteaba" ],
+			[ "basteábamos" ],
+			[ "basteabais", "basteaban" ],
+			[ "basteaban" ]
+		],
+		"6" : [
+			[ "bastearía" ],
+			[ "bastearías" ],
+			[ "bastearía" ],
+			[ "bastearíamos" ],
+			[ "bastearíais", "bastearían" ],
+			[ "bastearían" ]
+		],
+		"7" : [
+			[ "bastearé" ],
+			[ "bastearás" ],
+			[ "basteará" ],
+			[ "bastearemos" ],
+			[ "bastearéis", "bastearán" ],
+			[ "bastearán" ]
+		],
+		"8" : [
+			[ "bastee" ],
+			[ "bastees" ],
+			[ "bastee" ],
+			[ "basteemos" ],
+			[ "basteéis", "basteen" ],
+			[ "basteen" ]
+		],
+		"9" : [
+			[ "basteara" ],
+			[ "bastearas" ],
+			[ "basteara" ],
+			[ "basteáramos" ],
+			[ "bastearais", "bastearan" ],
+			[ "bastearan" ]
+		],
+		"10" : [
+			[ "bastease" ],
+			[ "basteases" ],
+			[ "bastease" ],
+			[ "basteásemos" ],
+			[ "basteaseis", "basteasen" ],
+			[ "basteasen" ]
+		],
+		"11" : [
+			[ "basteare" ],
+			[ "basteares" ],
+			[ "basteare" ],
+			[ "basteáremos" ],
+			[ "basteareis", "bastearen" ],
+			[ "bastearen" ]
+		],
+		"12" : {
+			"1" : [ "bastea" ],
+			"2" : [ "bastee" ],
+			"3" : [ "basteemos" ],
+			"4" : [ "bastead" ],
+			"5" : [ "basteen" ]
+		}
+	}
+}

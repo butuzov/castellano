@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desarmar",
+	"word" : "desarmar",
+	"infinitivo" : "desarmar",
+	"participio" : [ "desarmado" ],
+	"gerundio" : [ "desarmando" ],
+	"tenses" : {
+		"3" : [
+			[ "desarmo" ],
+			[ "desarmas", "desarmás" ],
+			[ "desarma" ],
+			[ "desarmamos" ],
+			[ "desarmáis", "desarman" ],
+			[ "desarman" ]
+		],
+		"4" : [
+			[ "desarmé" ],
+			[ "desarmaste" ],
+			[ "desarmó" ],
+			[ "desarmamos" ],
+			[ "desarmasteis", "desarmaron" ],
+			[ "desarmaron" ]
+		],
+		"5" : [
+			[ "desarmaba" ],
+			[ "desarmabas" ],
+			[ "desarmaba" ],
+			[ "desarmábamos" ],
+			[ "desarmabais", "desarmaban" ],
+			[ "desarmaban" ]
+		],
+		"6" : [
+			[ "desarmaría" ],
+			[ "desarmarías" ],
+			[ "desarmaría" ],
+			[ "desarmaríamos" ],
+			[ "desarmaríais", "desarmarían" ],
+			[ "desarmarían" ]
+		],
+		"7" : [
+			[ "desarmaré" ],
+			[ "desarmarás" ],
+			[ "desarmará" ],
+			[ "desarmaremos" ],
+			[ "desarmaréis", "desarmarán" ],
+			[ "desarmarán" ]
+		],
+		"8" : [
+			[ "desarme" ],
+			[ "desarmes" ],
+			[ "desarme" ],
+			[ "desarmemos" ],
+			[ "desarméis", "desarmen" ],
+			[ "desarmen" ]
+		],
+		"9" : [
+			[ "desarmara" ],
+			[ "desarmaras" ],
+			[ "desarmara" ],
+			[ "desarmáramos" ],
+			[ "desarmarais", "desarmaran" ],
+			[ "desarmaran" ]
+		],
+		"10" : [
+			[ "desarmase" ],
+			[ "desarmases" ],
+			[ "desarmase" ],
+			[ "desarmásemos" ],
+			[ "desarmaseis", "desarmasen" ],
+			[ "desarmasen" ]
+		],
+		"11" : [
+			[ "desarmare" ],
+			[ "desarmares" ],
+			[ "desarmare" ],
+			[ "desarmáremos" ],
+			[ "desarmareis", "desarmaren" ],
+			[ "desarmaren" ]
+		],
+		"12" : {
+			"1" : [ "desarma" ],
+			"2" : [ "desarme" ],
+			"3" : [ "desarmemos" ],
+			"4" : [ "desarmad" ],
+			"5" : [ "desarmen" ]
+		}
+	}
+}

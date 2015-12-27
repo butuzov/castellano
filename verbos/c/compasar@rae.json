@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=compasar",
+	"word" : "compasar",
+	"infinitivo" : "compasar",
+	"participio" : [ "compasado" ],
+	"gerundio" : [ "compasando" ],
+	"tenses" : {
+		"3" : [
+			[ "compaso" ],
+			[ "compasas", "compasás" ],
+			[ "compasa" ],
+			[ "compasamos" ],
+			[ "compasáis", "compasan" ],
+			[ "compasan" ]
+		],
+		"4" : [
+			[ "compasé" ],
+			[ "compasaste" ],
+			[ "compasó" ],
+			[ "compasamos" ],
+			[ "compasasteis", "compasaron" ],
+			[ "compasaron" ]
+		],
+		"5" : [
+			[ "compasaba" ],
+			[ "compasabas" ],
+			[ "compasaba" ],
+			[ "compasábamos" ],
+			[ "compasabais", "compasaban" ],
+			[ "compasaban" ]
+		],
+		"6" : [
+			[ "compasaría" ],
+			[ "compasarías" ],
+			[ "compasaría" ],
+			[ "compasaríamos" ],
+			[ "compasaríais", "compasarían" ],
+			[ "compasarían" ]
+		],
+		"7" : [
+			[ "compasaré" ],
+			[ "compasarás" ],
+			[ "compasará" ],
+			[ "compasaremos" ],
+			[ "compasaréis", "compasarán" ],
+			[ "compasarán" ]
+		],
+		"8" : [
+			[ "compase" ],
+			[ "compases" ],
+			[ "compase" ],
+			[ "compasemos" ],
+			[ "compaséis", "compasen" ],
+			[ "compasen" ]
+		],
+		"9" : [
+			[ "compasara" ],
+			[ "compasaras" ],
+			[ "compasara" ],
+			[ "compasáramos" ],
+			[ "compasarais", "compasaran" ],
+			[ "compasaran" ]
+		],
+		"10" : [
+			[ "compasase" ],
+			[ "compasases" ],
+			[ "compasase" ],
+			[ "compasásemos" ],
+			[ "compasaseis", "compasasen" ],
+			[ "compasasen" ]
+		],
+		"11" : [
+			[ "compasare" ],
+			[ "compasares" ],
+			[ "compasare" ],
+			[ "compasáremos" ],
+			[ "compasareis", "compasaren" ],
+			[ "compasaren" ]
+		],
+		"12" : {
+			"1" : [ "compasa" ],
+			"2" : [ "compase" ],
+			"3" : [ "compasemos" ],
+			"4" : [ "compasad" ],
+			"5" : [ "compasen" ]
+		}
+	}
+}

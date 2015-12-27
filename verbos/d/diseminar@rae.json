@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=diseminar",
+	"word" : "diseminar",
+	"infinitivo" : "diseminar",
+	"participio" : [ "diseminado" ],
+	"gerundio" : [ "diseminando" ],
+	"tenses" : {
+		"3" : [
+			[ "disemino" ],
+			[ "diseminas", "diseminás" ],
+			[ "disemina" ],
+			[ "diseminamos" ],
+			[ "disemináis", "diseminan" ],
+			[ "diseminan" ]
+		],
+		"4" : [
+			[ "diseminé" ],
+			[ "diseminaste" ],
+			[ "diseminó" ],
+			[ "diseminamos" ],
+			[ "diseminasteis", "diseminaron" ],
+			[ "diseminaron" ]
+		],
+		"5" : [
+			[ "diseminaba" ],
+			[ "diseminabas" ],
+			[ "diseminaba" ],
+			[ "diseminábamos" ],
+			[ "diseminabais", "diseminaban" ],
+			[ "diseminaban" ]
+		],
+		"6" : [
+			[ "diseminaría" ],
+			[ "diseminarías" ],
+			[ "diseminaría" ],
+			[ "diseminaríamos" ],
+			[ "diseminaríais", "diseminarían" ],
+			[ "diseminarían" ]
+		],
+		"7" : [
+			[ "diseminaré" ],
+			[ "diseminarás" ],
+			[ "diseminará" ],
+			[ "diseminaremos" ],
+			[ "diseminaréis", "diseminarán" ],
+			[ "diseminarán" ]
+		],
+		"8" : [
+			[ "disemine" ],
+			[ "disemines" ],
+			[ "disemine" ],
+			[ "diseminemos" ],
+			[ "diseminéis", "diseminen" ],
+			[ "diseminen" ]
+		],
+		"9" : [
+			[ "diseminara" ],
+			[ "diseminaras" ],
+			[ "diseminara" ],
+			[ "disemináramos" ],
+			[ "diseminarais", "diseminaran" ],
+			[ "diseminaran" ]
+		],
+		"10" : [
+			[ "diseminase" ],
+			[ "diseminases" ],
+			[ "diseminase" ],
+			[ "diseminásemos" ],
+			[ "diseminaseis", "diseminasen" ],
+			[ "diseminasen" ]
+		],
+		"11" : [
+			[ "diseminare" ],
+			[ "diseminares" ],
+			[ "diseminare" ],
+			[ "disemináremos" ],
+			[ "diseminareis", "diseminaren" ],
+			[ "diseminaren" ]
+		],
+		"12" : {
+			"1" : [ "disemina" ],
+			"2" : [ "disemine" ],
+			"3" : [ "diseminemos" ],
+			"4" : [ "diseminad" ],
+			"5" : [ "diseminen" ]
+		}
+	}
+}

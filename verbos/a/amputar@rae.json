@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amputar",
+	"word" : "amputar",
+	"infinitivo" : "amputar",
+	"participio" : [ "amputado" ],
+	"gerundio" : [ "amputando" ],
+	"tenses" : {
+		"3" : [
+			[ "amputo" ],
+			[ "amputas", "amputás" ],
+			[ "amputa" ],
+			[ "amputamos" ],
+			[ "amputáis", "amputan" ],
+			[ "amputan" ]
+		],
+		"4" : [
+			[ "amputé" ],
+			[ "amputaste" ],
+			[ "amputó" ],
+			[ "amputamos" ],
+			[ "amputasteis", "amputaron" ],
+			[ "amputaron" ]
+		],
+		"5" : [
+			[ "amputaba" ],
+			[ "amputabas" ],
+			[ "amputaba" ],
+			[ "amputábamos" ],
+			[ "amputabais", "amputaban" ],
+			[ "amputaban" ]
+		],
+		"6" : [
+			[ "amputaría" ],
+			[ "amputarías" ],
+			[ "amputaría" ],
+			[ "amputaríamos" ],
+			[ "amputaríais", "amputarían" ],
+			[ "amputarían" ]
+		],
+		"7" : [
+			[ "amputaré" ],
+			[ "amputarás" ],
+			[ "amputará" ],
+			[ "amputaremos" ],
+			[ "amputaréis", "amputarán" ],
+			[ "amputarán" ]
+		],
+		"8" : [
+			[ "ampute" ],
+			[ "amputes" ],
+			[ "ampute" ],
+			[ "amputemos" ],
+			[ "amputéis", "amputen" ],
+			[ "amputen" ]
+		],
+		"9" : [
+			[ "amputara" ],
+			[ "amputaras" ],
+			[ "amputara" ],
+			[ "amputáramos" ],
+			[ "amputarais", "amputaran" ],
+			[ "amputaran" ]
+		],
+		"10" : [
+			[ "amputase" ],
+			[ "amputases" ],
+			[ "amputase" ],
+			[ "amputásemos" ],
+			[ "amputaseis", "amputasen" ],
+			[ "amputasen" ]
+		],
+		"11" : [
+			[ "amputare" ],
+			[ "amputares" ],
+			[ "amputare" ],
+			[ "amputáremos" ],
+			[ "amputareis", "amputaren" ],
+			[ "amputaren" ]
+		],
+		"12" : {
+			"1" : [ "amputa" ],
+			"2" : [ "ampute" ],
+			"3" : [ "amputemos" ],
+			"4" : [ "amputad" ],
+			"5" : [ "amputen" ]
+		}
+	}
+}

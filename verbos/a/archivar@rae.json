@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=archivar",
+	"word" : "archivar",
+	"infinitivo" : "archivar",
+	"participio" : [ "archivado" ],
+	"gerundio" : [ "archivando" ],
+	"tenses" : {
+		"3" : [
+			[ "archivo" ],
+			[ "archivas", "archivás" ],
+			[ "archiva" ],
+			[ "archivamos" ],
+			[ "archiváis", "archivan" ],
+			[ "archivan" ]
+		],
+		"4" : [
+			[ "archivé" ],
+			[ "archivaste" ],
+			[ "archivó" ],
+			[ "archivamos" ],
+			[ "archivasteis", "archivaron" ],
+			[ "archivaron" ]
+		],
+		"5" : [
+			[ "archivaba" ],
+			[ "archivabas" ],
+			[ "archivaba" ],
+			[ "archivábamos" ],
+			[ "archivabais", "archivaban" ],
+			[ "archivaban" ]
+		],
+		"6" : [
+			[ "archivaría" ],
+			[ "archivarías" ],
+			[ "archivaría" ],
+			[ "archivaríamos" ],
+			[ "archivaríais", "archivarían" ],
+			[ "archivarían" ]
+		],
+		"7" : [
+			[ "archivaré" ],
+			[ "archivarás" ],
+			[ "archivará" ],
+			[ "archivaremos" ],
+			[ "archivaréis", "archivarán" ],
+			[ "archivarán" ]
+		],
+		"8" : [
+			[ "archive" ],
+			[ "archives" ],
+			[ "archive" ],
+			[ "archivemos" ],
+			[ "archivéis", "archiven" ],
+			[ "archiven" ]
+		],
+		"9" : [
+			[ "archivara" ],
+			[ "archivaras" ],
+			[ "archivara" ],
+			[ "archiváramos" ],
+			[ "archivarais", "archivaran" ],
+			[ "archivaran" ]
+		],
+		"10" : [
+			[ "archivase" ],
+			[ "archivases" ],
+			[ "archivase" ],
+			[ "archivásemos" ],
+			[ "archivaseis", "archivasen" ],
+			[ "archivasen" ]
+		],
+		"11" : [
+			[ "archivare" ],
+			[ "archivares" ],
+			[ "archivare" ],
+			[ "archiváremos" ],
+			[ "archivareis", "archivaren" ],
+			[ "archivaren" ]
+		],
+		"12" : {
+			"1" : [ "archiva" ],
+			"2" : [ "archive" ],
+			"3" : [ "archivemos" ],
+			"4" : [ "archivad" ],
+			"5" : [ "archiven" ]
+		}
+	}
+}

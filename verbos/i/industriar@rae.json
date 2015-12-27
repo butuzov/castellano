@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=industriar",
+	"word" : "industriar",
+	"infinitivo" : "industriar",
+	"participio" : [ "industriado" ],
+	"gerundio" : [ "industriando" ],
+	"tenses" : {
+		"3" : [
+			[ "industrio" ],
+			[ "industrias", "industriás" ],
+			[ "industria" ],
+			[ "industriamos" ],
+			[ "industriáis", "industrian" ],
+			[ "industrian" ]
+		],
+		"4" : [
+			[ "industrié" ],
+			[ "industriaste" ],
+			[ "industrió" ],
+			[ "industriamos" ],
+			[ "industriasteis", "industriaron" ],
+			[ "industriaron" ]
+		],
+		"5" : [
+			[ "industriaba" ],
+			[ "industriabas" ],
+			[ "industriaba" ],
+			[ "industriábamos" ],
+			[ "industriabais", "industriaban" ],
+			[ "industriaban" ]
+		],
+		"6" : [
+			[ "industriaría" ],
+			[ "industriarías" ],
+			[ "industriaría" ],
+			[ "industriaríamos" ],
+			[ "industriaríais", "industriarían" ],
+			[ "industriarían" ]
+		],
+		"7" : [
+			[ "industriaré" ],
+			[ "industriarás" ],
+			[ "industriará" ],
+			[ "industriaremos" ],
+			[ "industriaréis", "industriarán" ],
+			[ "industriarán" ]
+		],
+		"8" : [
+			[ "industrie" ],
+			[ "industries" ],
+			[ "industrie" ],
+			[ "industriemos" ],
+			[ "industriéis", "industrien" ],
+			[ "industrien" ]
+		],
+		"9" : [
+			[ "industriara" ],
+			[ "industriaras" ],
+			[ "industriara" ],
+			[ "industriáramos" ],
+			[ "industriarais", "industriaran" ],
+			[ "industriaran" ]
+		],
+		"10" : [
+			[ "industriase" ],
+			[ "industriases" ],
+			[ "industriase" ],
+			[ "industriásemos" ],
+			[ "industriaseis", "industriasen" ],
+			[ "industriasen" ]
+		],
+		"11" : [
+			[ "industriare" ],
+			[ "industriares" ],
+			[ "industriare" ],
+			[ "industriáremos" ],
+			[ "industriareis", "industriaren" ],
+			[ "industriaren" ]
+		],
+		"12" : {
+			"1" : [ "industria" ],
+			"2" : [ "industrie" ],
+			"3" : [ "industriemos" ],
+			"4" : [ "industriad" ],
+			"5" : [ "industrien" ]
+		}
+	}
+}

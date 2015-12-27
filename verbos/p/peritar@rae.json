@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=peritar",
+	"word" : "peritar",
+	"infinitivo" : "peritar",
+	"participio" : [ "peritado" ],
+	"gerundio" : [ "peritando" ],
+	"tenses" : {
+		"3" : [
+			[ "perito" ],
+			[ "peritas", "peritás" ],
+			[ "perita" ],
+			[ "peritamos" ],
+			[ "peritáis", "peritan" ],
+			[ "peritan" ]
+		],
+		"4" : [
+			[ "perité" ],
+			[ "peritaste" ],
+			[ "peritó" ],
+			[ "peritamos" ],
+			[ "peritasteis", "peritaron" ],
+			[ "peritaron" ]
+		],
+		"5" : [
+			[ "peritaba" ],
+			[ "peritabas" ],
+			[ "peritaba" ],
+			[ "peritábamos" ],
+			[ "peritabais", "peritaban" ],
+			[ "peritaban" ]
+		],
+		"6" : [
+			[ "peritaría" ],
+			[ "peritarías" ],
+			[ "peritaría" ],
+			[ "peritaríamos" ],
+			[ "peritaríais", "peritarían" ],
+			[ "peritarían" ]
+		],
+		"7" : [
+			[ "peritaré" ],
+			[ "peritarás" ],
+			[ "peritará" ],
+			[ "peritaremos" ],
+			[ "peritaréis", "peritarán" ],
+			[ "peritarán" ]
+		],
+		"8" : [
+			[ "perite" ],
+			[ "perites" ],
+			[ "perite" ],
+			[ "peritemos" ],
+			[ "peritéis", "periten" ],
+			[ "periten" ]
+		],
+		"9" : [
+			[ "peritara" ],
+			[ "peritaras" ],
+			[ "peritara" ],
+			[ "peritáramos" ],
+			[ "peritarais", "peritaran" ],
+			[ "peritaran" ]
+		],
+		"10" : [
+			[ "peritase" ],
+			[ "peritases" ],
+			[ "peritase" ],
+			[ "peritásemos" ],
+			[ "peritaseis", "peritasen" ],
+			[ "peritasen" ]
+		],
+		"11" : [
+			[ "peritare" ],
+			[ "peritares" ],
+			[ "peritare" ],
+			[ "peritáremos" ],
+			[ "peritareis", "peritaren" ],
+			[ "peritaren" ]
+		],
+		"12" : {
+			"1" : [ "perita" ],
+			"2" : [ "perite" ],
+			"3" : [ "peritemos" ],
+			"4" : [ "peritad" ],
+			"5" : [ "periten" ]
+		}
+	}
+}

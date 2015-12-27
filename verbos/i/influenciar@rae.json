@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=influenciar",
+	"word" : "influenciar",
+	"infinitivo" : "influenciar",
+	"participio" : [ "influenciado" ],
+	"gerundio" : [ "influenciando" ],
+	"tenses" : {
+		"3" : [
+			[ "influencio" ],
+			[ "influencias", "influenciás" ],
+			[ "influencia" ],
+			[ "influenciamos" ],
+			[ "influenciáis", "influencian" ],
+			[ "influencian" ]
+		],
+		"4" : [
+			[ "influencié" ],
+			[ "influenciaste" ],
+			[ "influenció" ],
+			[ "influenciamos" ],
+			[ "influenciasteis", "influenciaron" ],
+			[ "influenciaron" ]
+		],
+		"5" : [
+			[ "influenciaba" ],
+			[ "influenciabas" ],
+			[ "influenciaba" ],
+			[ "influenciábamos" ],
+			[ "influenciabais", "influenciaban" ],
+			[ "influenciaban" ]
+		],
+		"6" : [
+			[ "influenciaría" ],
+			[ "influenciarías" ],
+			[ "influenciaría" ],
+			[ "influenciaríamos" ],
+			[ "influenciaríais", "influenciarían" ],
+			[ "influenciarían" ]
+		],
+		"7" : [
+			[ "influenciaré" ],
+			[ "influenciarás" ],
+			[ "influenciará" ],
+			[ "influenciaremos" ],
+			[ "influenciaréis", "influenciarán" ],
+			[ "influenciarán" ]
+		],
+		"8" : [
+			[ "influencie" ],
+			[ "influencies" ],
+			[ "influencie" ],
+			[ "influenciemos" ],
+			[ "influenciéis", "influencien" ],
+			[ "influencien" ]
+		],
+		"9" : [
+			[ "influenciara" ],
+			[ "influenciaras" ],
+			[ "influenciara" ],
+			[ "influenciáramos" ],
+			[ "influenciarais", "influenciaran" ],
+			[ "influenciaran" ]
+		],
+		"10" : [
+			[ "influenciase" ],
+			[ "influenciases" ],
+			[ "influenciase" ],
+			[ "influenciásemos" ],
+			[ "influenciaseis", "influenciasen" ],
+			[ "influenciasen" ]
+		],
+		"11" : [
+			[ "influenciare" ],
+			[ "influenciares" ],
+			[ "influenciare" ],
+			[ "influenciáremos" ],
+			[ "influenciareis", "influenciaren" ],
+			[ "influenciaren" ]
+		],
+		"12" : {
+			"1" : [ "influencia" ],
+			"2" : [ "influencie" ],
+			"3" : [ "influenciemos" ],
+			"4" : [ "influenciad" ],
+			"5" : [ "influencien" ]
+		}
+	}
+}

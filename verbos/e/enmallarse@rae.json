@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enmallarse",
+	"word" : "enmallarse",
+	"infinitivo" : "enmallarse",
+	"participio" : [ "enmallado" ],
+	"gerundio" : [ "enmallándome", "enmallándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me enmallo" ],
+			[ "te enmallas", "te enmallás" ],
+			[ "se enmalla" ],
+			[ "nos enmallamos" ],
+			[ "os enmalláis", "se enmallan" ],
+			[ "se enmallan" ]
+		],
+		"4" : [
+			[ "me enmallé" ],
+			[ "te enmallaste" ],
+			[ "se enmalló" ],
+			[ "nos enmallamos" ],
+			[ "os enmallasteis", "se enmallaron" ],
+			[ "se enmallaron" ]
+		],
+		"5" : [
+			[ "me enmallaba" ],
+			[ "te enmallabas" ],
+			[ "se enmallaba" ],
+			[ "nos enmallábamos" ],
+			[ "os enmallabais", "se enmallaban" ],
+			[ "se enmallaban" ]
+		],
+		"6" : [
+			[ "me enmallaría" ],
+			[ "te enmallarías" ],
+			[ "se enmallaría" ],
+			[ "nos enmallaríamos" ],
+			[ "os enmallaríais", "se enmallarían" ],
+			[ "se enmallarían" ]
+		],
+		"7" : [
+			[ "me enmallaré" ],
+			[ "te enmallarás" ],
+			[ "se enmallará" ],
+			[ "nos enmallaremos" ],
+			[ "os enmallaréis", "se enmallarán" ],
+			[ "se enmallarán" ]
+		],
+		"8" : [
+			[ "me enmalle" ],
+			[ "te enmalles" ],
+			[ "se enmalle" ],
+			[ "nos enmallemos" ],
+			[ "os enmalléis", "se enmallen" ],
+			[ "se enmallen" ]
+		],
+		"9" : [
+			[ "me enmallara" ],
+			[ "te enmallaras" ],
+			[ "se enmallara" ],
+			[ "nos enmalláramos" ],
+			[ "os enmallarais", "se enmallaran" ],
+			[ "se enmallaran" ]
+		],
+		"10" : [
+			[ "me enmallase" ],
+			[ "te enmallases" ],
+			[ "se enmallase" ],
+			[ "nos enmallásemos" ],
+			[ "os enmallaseis", "se enmallasen" ],
+			[ "se enmallasen" ]
+		],
+		"11" : [
+			[ "me enmallare" ],
+			[ "te enmallares" ],
+			[ "se enmallare" ],
+			[ "nos enmalláremos" ],
+			[ "os enmallareis", "se enmallaren" ],
+			[ "se enmallaren" ]
+		],
+		"12" : {
+			"1" : [ "enmállate" ],
+			"2" : [ "enmalle" ],
+			"3" : [ "enmallemos" ],
+			"4" : [ "enmallaos" ],
+			"5" : [ "enmállense" ]
+		}
+	}
+}

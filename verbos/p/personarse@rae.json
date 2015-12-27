@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=personarse",
+	"word" : "personarse",
+	"infinitivo" : "personarse",
+	"participio" : [ "personado" ],
+	"gerundio" : [ "personándome", "personándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me persono" ],
+			[ "te personas", "te personás" ],
+			[ "se persona" ],
+			[ "nos personamos" ],
+			[ "os personáis", "se personan" ],
+			[ "se personan" ]
+		],
+		"4" : [
+			[ "me personé" ],
+			[ "te personaste" ],
+			[ "se personó" ],
+			[ "nos personamos" ],
+			[ "os personasteis", "se personaron" ],
+			[ "se personaron" ]
+		],
+		"5" : [
+			[ "me personaba" ],
+			[ "te personabas" ],
+			[ "se personaba" ],
+			[ "nos personábamos" ],
+			[ "os personabais", "se personaban" ],
+			[ "se personaban" ]
+		],
+		"6" : [
+			[ "me personaría" ],
+			[ "te personarías" ],
+			[ "se personaría" ],
+			[ "nos personaríamos" ],
+			[ "os personaríais", "se personarían" ],
+			[ "se personarían" ]
+		],
+		"7" : [
+			[ "me personaré" ],
+			[ "te personarás" ],
+			[ "se personará" ],
+			[ "nos personaremos" ],
+			[ "os personaréis", "se personarán" ],
+			[ "se personarán" ]
+		],
+		"8" : [
+			[ "me persone" ],
+			[ "te persones" ],
+			[ "se persone" ],
+			[ "nos personemos" ],
+			[ "os personéis", "se personen" ],
+			[ "se personen" ]
+		],
+		"9" : [
+			[ "me personara" ],
+			[ "te personaras" ],
+			[ "se personara" ],
+			[ "nos personáramos" ],
+			[ "os personarais", "se personaran" ],
+			[ "se personaran" ]
+		],
+		"10" : [
+			[ "me personase" ],
+			[ "te personases" ],
+			[ "se personase" ],
+			[ "nos personásemos" ],
+			[ "os personaseis", "se personasen" ],
+			[ "se personasen" ]
+		],
+		"11" : [
+			[ "me personare" ],
+			[ "te personares" ],
+			[ "se personare" ],
+			[ "nos personáremos" ],
+			[ "os personareis", "se personaren" ],
+			[ "se personaren" ]
+		],
+		"12" : {
+			"1" : [ "persónate" ],
+			"2" : [ "persone" ],
+			"3" : [ "personemos" ],
+			"4" : [ "personaos" ],
+			"5" : [ "persónense" ]
+		}
+	}
+}

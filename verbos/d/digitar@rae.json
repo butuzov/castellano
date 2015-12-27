@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=digitar",
+	"word" : "digitar",
+	"infinitivo" : "digitar",
+	"participio" : [ "digitado" ],
+	"gerundio" : [ "digitando" ],
+	"tenses" : {
+		"3" : [
+			[ "digito" ],
+			[ "digitas", "digitás" ],
+			[ "digita" ],
+			[ "digitamos" ],
+			[ "digitáis", "digitan" ],
+			[ "digitan" ]
+		],
+		"4" : [
+			[ "digité" ],
+			[ "digitaste" ],
+			[ "digitó" ],
+			[ "digitamos" ],
+			[ "digitasteis", "digitaron" ],
+			[ "digitaron" ]
+		],
+		"5" : [
+			[ "digitaba" ],
+			[ "digitabas" ],
+			[ "digitaba" ],
+			[ "digitábamos" ],
+			[ "digitabais", "digitaban" ],
+			[ "digitaban" ]
+		],
+		"6" : [
+			[ "digitaría" ],
+			[ "digitarías" ],
+			[ "digitaría" ],
+			[ "digitaríamos" ],
+			[ "digitaríais", "digitarían" ],
+			[ "digitarían" ]
+		],
+		"7" : [
+			[ "digitaré" ],
+			[ "digitarás" ],
+			[ "digitará" ],
+			[ "digitaremos" ],
+			[ "digitaréis", "digitarán" ],
+			[ "digitarán" ]
+		],
+		"8" : [
+			[ "digite" ],
+			[ "digites" ],
+			[ "digite" ],
+			[ "digitemos" ],
+			[ "digitéis", "digiten" ],
+			[ "digiten" ]
+		],
+		"9" : [
+			[ "digitara" ],
+			[ "digitaras" ],
+			[ "digitara" ],
+			[ "digitáramos" ],
+			[ "digitarais", "digitaran" ],
+			[ "digitaran" ]
+		],
+		"10" : [
+			[ "digitase" ],
+			[ "digitases" ],
+			[ "digitase" ],
+			[ "digitásemos" ],
+			[ "digitaseis", "digitasen" ],
+			[ "digitasen" ]
+		],
+		"11" : [
+			[ "digitare" ],
+			[ "digitares" ],
+			[ "digitare" ],
+			[ "digitáremos" ],
+			[ "digitareis", "digitaren" ],
+			[ "digitaren" ]
+		],
+		"12" : {
+			"1" : [ "digita" ],
+			"2" : [ "digite" ],
+			"3" : [ "digitemos" ],
+			"4" : [ "digitad" ],
+			"5" : [ "digiten" ]
+		}
+	}
+}

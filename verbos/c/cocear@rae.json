@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cocear",
+	"word" : "cocear",
+	"infinitivo" : "cocear",
+	"participio" : [ "coceado" ],
+	"gerundio" : [ "coceando" ],
+	"tenses" : {
+		"3" : [
+			[ "coceo" ],
+			[ "coceas", "coceás" ],
+			[ "cocea" ],
+			[ "coceamos" ],
+			[ "coceáis", "cocean" ],
+			[ "cocean" ]
+		],
+		"4" : [
+			[ "coceé" ],
+			[ "coceaste" ],
+			[ "coceó" ],
+			[ "coceamos" ],
+			[ "coceasteis", "cocearon" ],
+			[ "cocearon" ]
+		],
+		"5" : [
+			[ "coceaba" ],
+			[ "coceabas" ],
+			[ "coceaba" ],
+			[ "coceábamos" ],
+			[ "coceabais", "coceaban" ],
+			[ "coceaban" ]
+		],
+		"6" : [
+			[ "cocearía" ],
+			[ "cocearías" ],
+			[ "cocearía" ],
+			[ "cocearíamos" ],
+			[ "cocearíais", "cocearían" ],
+			[ "cocearían" ]
+		],
+		"7" : [
+			[ "cocearé" ],
+			[ "cocearás" ],
+			[ "coceará" ],
+			[ "cocearemos" ],
+			[ "cocearéis", "cocearán" ],
+			[ "cocearán" ]
+		],
+		"8" : [
+			[ "cocee" ],
+			[ "cocees" ],
+			[ "cocee" ],
+			[ "coceemos" ],
+			[ "coceéis", "coceen" ],
+			[ "coceen" ]
+		],
+		"9" : [
+			[ "coceara" ],
+			[ "cocearas" ],
+			[ "coceara" ],
+			[ "coceáramos" ],
+			[ "cocearais", "cocearan" ],
+			[ "cocearan" ]
+		],
+		"10" : [
+			[ "cocease" ],
+			[ "coceases" ],
+			[ "cocease" ],
+			[ "coceásemos" ],
+			[ "coceaseis", "coceasen" ],
+			[ "coceasen" ]
+		],
+		"11" : [
+			[ "coceare" ],
+			[ "coceares" ],
+			[ "coceare" ],
+			[ "coceáremos" ],
+			[ "coceareis", "cocearen" ],
+			[ "cocearen" ]
+		],
+		"12" : {
+			"1" : [ "cocea" ],
+			"2" : [ "cocee" ],
+			"3" : [ "coceemos" ],
+			"4" : [ "cocead" ],
+			"5" : [ "coceen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rebosar",
+	"word" : "rebosar",
+	"infinitivo" : "rebosar",
+	"participio" : [ "rebosado" ],
+	"gerundio" : [ "rebosando" ],
+	"tenses" : {
+		"3" : [
+			[ "reboso" ],
+			[ "rebosas", "rebosás" ],
+			[ "rebosa" ],
+			[ "rebosamos" ],
+			[ "rebosáis", "rebosan" ],
+			[ "rebosan" ]
+		],
+		"4" : [
+			[ "rebosé" ],
+			[ "rebosaste" ],
+			[ "rebosó" ],
+			[ "rebosamos" ],
+			[ "rebosasteis", "rebosaron" ],
+			[ "rebosaron" ]
+		],
+		"5" : [
+			[ "rebosaba" ],
+			[ "rebosabas" ],
+			[ "rebosaba" ],
+			[ "rebosábamos" ],
+			[ "rebosabais", "rebosaban" ],
+			[ "rebosaban" ]
+		],
+		"6" : [
+			[ "rebosaría" ],
+			[ "rebosarías" ],
+			[ "rebosaría" ],
+			[ "rebosaríamos" ],
+			[ "rebosaríais", "rebosarían" ],
+			[ "rebosarían" ]
+		],
+		"7" : [
+			[ "rebosaré" ],
+			[ "rebosarás" ],
+			[ "rebosará" ],
+			[ "rebosaremos" ],
+			[ "rebosaréis", "rebosarán" ],
+			[ "rebosarán" ]
+		],
+		"8" : [
+			[ "rebose" ],
+			[ "reboses" ],
+			[ "rebose" ],
+			[ "rebosemos" ],
+			[ "reboséis", "rebosen" ],
+			[ "rebosen" ]
+		],
+		"9" : [
+			[ "rebosara" ],
+			[ "rebosaras" ],
+			[ "rebosara" ],
+			[ "rebosáramos" ],
+			[ "rebosarais", "rebosaran" ],
+			[ "rebosaran" ]
+		],
+		"10" : [
+			[ "rebosase" ],
+			[ "rebosases" ],
+			[ "rebosase" ],
+			[ "rebosásemos" ],
+			[ "rebosaseis", "rebosasen" ],
+			[ "rebosasen" ]
+		],
+		"11" : [
+			[ "rebosare" ],
+			[ "rebosares" ],
+			[ "rebosare" ],
+			[ "rebosáremos" ],
+			[ "rebosareis", "rebosaren" ],
+			[ "rebosaren" ]
+		],
+		"12" : {
+			"1" : [ "rebosa" ],
+			"2" : [ "rebose" ],
+			"3" : [ "rebosemos" ],
+			"4" : [ "rebosad" ],
+			"5" : [ "rebosen" ]
+		}
+	}
+}

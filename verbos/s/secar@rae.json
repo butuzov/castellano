@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=secar",
+	"word" : "secar",
+	"infinitivo" : "secar",
+	"participio" : [ "secado" ],
+	"gerundio" : [ "secando" ],
+	"tenses" : {
+		"3" : [
+			[ "seco" ],
+			[ "secas", "secás" ],
+			[ "seca" ],
+			[ "secamos" ],
+			[ "secáis", "secan" ],
+			[ "secan" ]
+		],
+		"4" : [
+			[ "sequé" ],
+			[ "secaste" ],
+			[ "secó" ],
+			[ "secamos" ],
+			[ "secasteis", "secaron" ],
+			[ "secaron" ]
+		],
+		"5" : [
+			[ "secaba" ],
+			[ "secabas" ],
+			[ "secaba" ],
+			[ "secábamos" ],
+			[ "secabais", "secaban" ],
+			[ "secaban" ]
+		],
+		"6" : [
+			[ "secaría" ],
+			[ "secarías" ],
+			[ "secaría" ],
+			[ "secaríamos" ],
+			[ "secaríais", "secarían" ],
+			[ "secarían" ]
+		],
+		"7" : [
+			[ "secaré" ],
+			[ "secarás" ],
+			[ "secará" ],
+			[ "secaremos" ],
+			[ "secaréis", "secarán" ],
+			[ "secarán" ]
+		],
+		"8" : [
+			[ "seque" ],
+			[ "seques" ],
+			[ "seque" ],
+			[ "sequemos" ],
+			[ "sequéis", "sequen" ],
+			[ "sequen" ]
+		],
+		"9" : [
+			[ "secara" ],
+			[ "secaras" ],
+			[ "secara" ],
+			[ "secáramos" ],
+			[ "secarais", "secaran" ],
+			[ "secaran" ]
+		],
+		"10" : [
+			[ "secase" ],
+			[ "secases" ],
+			[ "secase" ],
+			[ "secásemos" ],
+			[ "secaseis", "secasen" ],
+			[ "secasen" ]
+		],
+		"11" : [
+			[ "secare" ],
+			[ "secares" ],
+			[ "secare" ],
+			[ "secáremos" ],
+			[ "secareis", "secaren" ],
+			[ "secaren" ]
+		],
+		"12" : {
+			"1" : [ "seca" ],
+			"2" : [ "seque" ],
+			"3" : [ "sequemos" ],
+			"4" : [ "secad" ],
+			"5" : [ "sequen" ]
+		}
+	}
+}

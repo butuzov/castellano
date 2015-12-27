@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=exterminar",
+	"word" : "exterminar",
+	"infinitivo" : "exterminar",
+	"participio" : [ "exterminado" ],
+	"gerundio" : [ "exterminando" ],
+	"tenses" : {
+		"3" : [
+			[ "extermino" ],
+			[ "exterminas", "exterminás" ],
+			[ "extermina" ],
+			[ "exterminamos" ],
+			[ "extermináis", "exterminan" ],
+			[ "exterminan" ]
+		],
+		"4" : [
+			[ "exterminé" ],
+			[ "exterminaste" ],
+			[ "exterminó" ],
+			[ "exterminamos" ],
+			[ "exterminasteis", "exterminaron" ],
+			[ "exterminaron" ]
+		],
+		"5" : [
+			[ "exterminaba" ],
+			[ "exterminabas" ],
+			[ "exterminaba" ],
+			[ "exterminábamos" ],
+			[ "exterminabais", "exterminaban" ],
+			[ "exterminaban" ]
+		],
+		"6" : [
+			[ "exterminaría" ],
+			[ "exterminarías" ],
+			[ "exterminaría" ],
+			[ "exterminaríamos" ],
+			[ "exterminaríais", "exterminarían" ],
+			[ "exterminarían" ]
+		],
+		"7" : [
+			[ "exterminaré" ],
+			[ "exterminarás" ],
+			[ "exterminará" ],
+			[ "exterminaremos" ],
+			[ "exterminaréis", "exterminarán" ],
+			[ "exterminarán" ]
+		],
+		"8" : [
+			[ "extermine" ],
+			[ "extermines" ],
+			[ "extermine" ],
+			[ "exterminemos" ],
+			[ "exterminéis", "exterminen" ],
+			[ "exterminen" ]
+		],
+		"9" : [
+			[ "exterminara" ],
+			[ "exterminaras" ],
+			[ "exterminara" ],
+			[ "extermináramos" ],
+			[ "exterminarais", "exterminaran" ],
+			[ "exterminaran" ]
+		],
+		"10" : [
+			[ "exterminase" ],
+			[ "exterminases" ],
+			[ "exterminase" ],
+			[ "exterminásemos" ],
+			[ "exterminaseis", "exterminasen" ],
+			[ "exterminasen" ]
+		],
+		"11" : [
+			[ "exterminare" ],
+			[ "exterminares" ],
+			[ "exterminare" ],
+			[ "extermináremos" ],
+			[ "exterminareis", "exterminaren" ],
+			[ "exterminaren" ]
+		],
+		"12" : {
+			"1" : [ "extermina" ],
+			"2" : [ "extermine" ],
+			"3" : [ "exterminemos" ],
+			"4" : [ "exterminad" ],
+			"5" : [ "exterminen" ]
+		}
+	}
+}

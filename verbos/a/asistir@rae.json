@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asistir",
+	"word" : "asistir",
+	"infinitivo" : "asistir",
+	"participio" : [ "asistido" ],
+	"gerundio" : [ "asistiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "asisto" ],
+			[ "asistes", "asistís" ],
+			[ "asiste" ],
+			[ "asistimos" ],
+			[ "asistís", "asisten" ],
+			[ "asisten" ]
+		],
+		"4" : [
+			[ "asistí" ],
+			[ "asististe" ],
+			[ "asistió" ],
+			[ "asistimos" ],
+			[ "asististeis", "asistieron" ],
+			[ "asistieron" ]
+		],
+		"5" : [
+			[ "asistía" ],
+			[ "asistías" ],
+			[ "asistía" ],
+			[ "asistíamos" ],
+			[ "asistíais", "asistían" ],
+			[ "asistían" ]
+		],
+		"6" : [
+			[ "asistiría" ],
+			[ "asistirías" ],
+			[ "asistiría" ],
+			[ "asistiríamos" ],
+			[ "asistiríais", "asistirían" ],
+			[ "asistirían" ]
+		],
+		"7" : [
+			[ "asistiré" ],
+			[ "asistirás" ],
+			[ "asistirá" ],
+			[ "asistiremos" ],
+			[ "asistiréis", "asistirán" ],
+			[ "asistirán" ]
+		],
+		"8" : [
+			[ "asista" ],
+			[ "asistas" ],
+			[ "asista" ],
+			[ "asistamos" ],
+			[ "asistáis", "asistan" ],
+			[ "asistan" ]
+		],
+		"9" : [
+			[ "asistiera" ],
+			[ "asistieras" ],
+			[ "asistiera" ],
+			[ "asistiéramos" ],
+			[ "asistierais", "asistieran" ],
+			[ "asistieran" ]
+		],
+		"10" : [
+			[ "asistiese" ],
+			[ "asistieses" ],
+			[ "asistiese" ],
+			[ "asistiésemos" ],
+			[ "asistieseis", "asistiesen" ],
+			[ "asistiesen" ]
+		],
+		"11" : [
+			[ "asistiere" ],
+			[ "asistieres" ],
+			[ "asistiere" ],
+			[ "asistiéremos" ],
+			[ "asistiereis", "asistieren" ],
+			[ "asistieren" ]
+		],
+		"12" : {
+			"1" : [ "asiste" ],
+			"2" : [ "asista" ],
+			"3" : [ "asistamos" ],
+			"4" : [ "asistid" ],
+			"5" : [ "asistan" ]
+		}
+	}
+}

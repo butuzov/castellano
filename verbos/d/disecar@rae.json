@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disecar",
+	"word" : "disecar",
+	"infinitivo" : "disecar",
+	"participio" : [ "disecado" ],
+	"gerundio" : [ "disecando" ],
+	"tenses" : {
+		"3" : [
+			[ "diseco" ],
+			[ "disecas", "disecás" ],
+			[ "diseca" ],
+			[ "disecamos" ],
+			[ "disecáis", "disecan" ],
+			[ "disecan" ]
+		],
+		"4" : [
+			[ "disequé" ],
+			[ "disecaste" ],
+			[ "disecó" ],
+			[ "disecamos" ],
+			[ "disecasteis", "disecaron" ],
+			[ "disecaron" ]
+		],
+		"5" : [
+			[ "disecaba" ],
+			[ "disecabas" ],
+			[ "disecaba" ],
+			[ "disecábamos" ],
+			[ "disecabais", "disecaban" ],
+			[ "disecaban" ]
+		],
+		"6" : [
+			[ "disecaría" ],
+			[ "disecarías" ],
+			[ "disecaría" ],
+			[ "disecaríamos" ],
+			[ "disecaríais", "disecarían" ],
+			[ "disecarían" ]
+		],
+		"7" : [
+			[ "disecaré" ],
+			[ "disecarás" ],
+			[ "disecará" ],
+			[ "disecaremos" ],
+			[ "disecaréis", "disecarán" ],
+			[ "disecarán" ]
+		],
+		"8" : [
+			[ "diseque" ],
+			[ "diseques" ],
+			[ "diseque" ],
+			[ "disequemos" ],
+			[ "disequéis", "disequen" ],
+			[ "disequen" ]
+		],
+		"9" : [
+			[ "disecara" ],
+			[ "disecaras" ],
+			[ "disecara" ],
+			[ "disecáramos" ],
+			[ "disecarais", "disecaran" ],
+			[ "disecaran" ]
+		],
+		"10" : [
+			[ "disecase" ],
+			[ "disecases" ],
+			[ "disecase" ],
+			[ "disecásemos" ],
+			[ "disecaseis", "disecasen" ],
+			[ "disecasen" ]
+		],
+		"11" : [
+			[ "disecare" ],
+			[ "disecares" ],
+			[ "disecare" ],
+			[ "disecáremos" ],
+			[ "disecareis", "disecaren" ],
+			[ "disecaren" ]
+		],
+		"12" : {
+			"1" : [ "diseca" ],
+			"2" : [ "diseque" ],
+			"3" : [ "disequemos" ],
+			"4" : [ "disecad" ],
+			"5" : [ "disequen" ]
+		}
+	}
+}

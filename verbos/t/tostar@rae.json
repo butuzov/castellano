@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tostar",
+	"word" : "tostar",
+	"infinitivo" : "tostar",
+	"participio" : [ "tostado" ],
+	"gerundio" : [ "tostando" ],
+	"tenses" : {
+		"3" : [
+			[ "tuesto" ],
+			[ "tuestas", "tostás" ],
+			[ "tuesta" ],
+			[ "tostamos" ],
+			[ "tostáis", "tuestan" ],
+			[ "tuestan" ]
+		],
+		"4" : [
+			[ "tosté" ],
+			[ "tostaste" ],
+			[ "tostó" ],
+			[ "tostamos" ],
+			[ "tostasteis", "tostaron" ],
+			[ "tostaron" ]
+		],
+		"5" : [
+			[ "tostaba" ],
+			[ "tostabas" ],
+			[ "tostaba" ],
+			[ "tostábamos" ],
+			[ "tostabais", "tostaban" ],
+			[ "tostaban" ]
+		],
+		"6" : [
+			[ "tostaría" ],
+			[ "tostarías" ],
+			[ "tostaría" ],
+			[ "tostaríamos" ],
+			[ "tostaríais", "tostarían" ],
+			[ "tostarían" ]
+		],
+		"7" : [
+			[ "tostaré" ],
+			[ "tostarás" ],
+			[ "tostará" ],
+			[ "tostaremos" ],
+			[ "tostaréis", "tostarán" ],
+			[ "tostarán" ]
+		],
+		"8" : [
+			[ "tueste" ],
+			[ "tuestes" ],
+			[ "tueste" ],
+			[ "tostemos" ],
+			[ "tostéis", "tuesten" ],
+			[ "tuesten" ]
+		],
+		"9" : [
+			[ "tostara" ],
+			[ "tostaras" ],
+			[ "tostara" ],
+			[ "tostáramos" ],
+			[ "tostarais", "tostaran" ],
+			[ "tostaran" ]
+		],
+		"10" : [
+			[ "tostase" ],
+			[ "tostases" ],
+			[ "tostase" ],
+			[ "tostásemos" ],
+			[ "tostaseis", "tostasen" ],
+			[ "tostasen" ]
+		],
+		"11" : [
+			[ "tostare" ],
+			[ "tostares" ],
+			[ "tostare" ],
+			[ "tostáremos" ],
+			[ "tostareis", "tostaren" ],
+			[ "tostaren" ]
+		],
+		"12" : {
+			"1" : [ "tuesta" ],
+			"2" : [ "tueste" ],
+			"3" : [ "tostemos" ],
+			"4" : [ "tostad" ],
+			"5" : [ "tuesten" ]
+		}
+	}
+}

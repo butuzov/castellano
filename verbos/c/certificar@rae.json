@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=certificar",
+	"word" : "certificar",
+	"infinitivo" : "certificar",
+	"participio" : [ "certificado" ],
+	"gerundio" : [ "certificando" ],
+	"tenses" : {
+		"3" : [
+			[ "certifico" ],
+			[ "certificas", "certificás" ],
+			[ "certifica" ],
+			[ "certificamos" ],
+			[ "certificáis", "certifican" ],
+			[ "certifican" ]
+		],
+		"4" : [
+			[ "certifiqué" ],
+			[ "certificaste" ],
+			[ "certificó" ],
+			[ "certificamos" ],
+			[ "certificasteis", "certificaron" ],
+			[ "certificaron" ]
+		],
+		"5" : [
+			[ "certificaba" ],
+			[ "certificabas" ],
+			[ "certificaba" ],
+			[ "certificábamos" ],
+			[ "certificabais", "certificaban" ],
+			[ "certificaban" ]
+		],
+		"6" : [
+			[ "certificaría" ],
+			[ "certificarías" ],
+			[ "certificaría" ],
+			[ "certificaríamos" ],
+			[ "certificaríais", "certificarían" ],
+			[ "certificarían" ]
+		],
+		"7" : [
+			[ "certificaré" ],
+			[ "certificarás" ],
+			[ "certificará" ],
+			[ "certificaremos" ],
+			[ "certificaréis", "certificarán" ],
+			[ "certificarán" ]
+		],
+		"8" : [
+			[ "certifique" ],
+			[ "certifiques" ],
+			[ "certifique" ],
+			[ "certifiquemos" ],
+			[ "certifiquéis", "certifiquen" ],
+			[ "certifiquen" ]
+		],
+		"9" : [
+			[ "certificara" ],
+			[ "certificaras" ],
+			[ "certificara" ],
+			[ "certificáramos" ],
+			[ "certificarais", "certificaran" ],
+			[ "certificaran" ]
+		],
+		"10" : [
+			[ "certificase" ],
+			[ "certificases" ],
+			[ "certificase" ],
+			[ "certificásemos" ],
+			[ "certificaseis", "certificasen" ],
+			[ "certificasen" ]
+		],
+		"11" : [
+			[ "certificare" ],
+			[ "certificares" ],
+			[ "certificare" ],
+			[ "certificáremos" ],
+			[ "certificareis", "certificaren" ],
+			[ "certificaren" ]
+		],
+		"12" : {
+			"1" : [ "certifica" ],
+			"2" : [ "certifique" ],
+			"3" : [ "certifiquemos" ],
+			"4" : [ "certificad" ],
+			"5" : [ "certifiquen" ]
+		}
+	}
+}

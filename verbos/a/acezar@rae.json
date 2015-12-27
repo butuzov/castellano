@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acezar",
+	"word" : "acezar",
+	"infinitivo" : "acezar",
+	"participio" : [ "acezado" ],
+	"gerundio" : [ "acezando" ],
+	"tenses" : {
+		"3" : [
+			[ "acezo" ],
+			[ "acezas", "acezás" ],
+			[ "aceza" ],
+			[ "acezamos" ],
+			[ "acezáis", "acezan" ],
+			[ "acezan" ]
+		],
+		"4" : [
+			[ "acecé" ],
+			[ "acezaste" ],
+			[ "acezó" ],
+			[ "acezamos" ],
+			[ "acezasteis", "acezaron" ],
+			[ "acezaron" ]
+		],
+		"5" : [
+			[ "acezaba" ],
+			[ "acezabas" ],
+			[ "acezaba" ],
+			[ "acezábamos" ],
+			[ "acezabais", "acezaban" ],
+			[ "acezaban" ]
+		],
+		"6" : [
+			[ "acezaría" ],
+			[ "acezarías" ],
+			[ "acezaría" ],
+			[ "acezaríamos" ],
+			[ "acezaríais", "acezarían" ],
+			[ "acezarían" ]
+		],
+		"7" : [
+			[ "acezaré" ],
+			[ "acezarás" ],
+			[ "acezará" ],
+			[ "acezaremos" ],
+			[ "acezaréis", "acezarán" ],
+			[ "acezarán" ]
+		],
+		"8" : [
+			[ "acece" ],
+			[ "aceces" ],
+			[ "acece" ],
+			[ "acecemos" ],
+			[ "acecéis", "acecen" ],
+			[ "acecen" ]
+		],
+		"9" : [
+			[ "acezara" ],
+			[ "acezaras" ],
+			[ "acezara" ],
+			[ "acezáramos" ],
+			[ "acezarais", "acezaran" ],
+			[ "acezaran" ]
+		],
+		"10" : [
+			[ "acezase" ],
+			[ "acezases" ],
+			[ "acezase" ],
+			[ "acezásemos" ],
+			[ "acezaseis", "acezasen" ],
+			[ "acezasen" ]
+		],
+		"11" : [
+			[ "acezare" ],
+			[ "acezares" ],
+			[ "acezare" ],
+			[ "acezáremos" ],
+			[ "acezareis", "acezaren" ],
+			[ "acezaren" ]
+		],
+		"12" : {
+			"1" : [ "aceza" ],
+			"2" : [ "acece" ],
+			"3" : [ "acecemos" ],
+			"4" : [ "acezad" ],
+			"5" : [ "acecen" ]
+		}
+	}
+}

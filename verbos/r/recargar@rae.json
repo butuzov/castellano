@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recargar",
+	"word" : "recargar",
+	"infinitivo" : "recargar",
+	"participio" : [ "recargado" ],
+	"gerundio" : [ "recargando" ],
+	"tenses" : {
+		"3" : [
+			[ "recargo" ],
+			[ "recargas", "recargás" ],
+			[ "recarga" ],
+			[ "recargamos" ],
+			[ "recargáis", "recargan" ],
+			[ "recargan" ]
+		],
+		"4" : [
+			[ "recargué" ],
+			[ "recargaste" ],
+			[ "recargó" ],
+			[ "recargamos" ],
+			[ "recargasteis", "recargaron" ],
+			[ "recargaron" ]
+		],
+		"5" : [
+			[ "recargaba" ],
+			[ "recargabas" ],
+			[ "recargaba" ],
+			[ "recargábamos" ],
+			[ "recargabais", "recargaban" ],
+			[ "recargaban" ]
+		],
+		"6" : [
+			[ "recargaría" ],
+			[ "recargarías" ],
+			[ "recargaría" ],
+			[ "recargaríamos" ],
+			[ "recargaríais", "recargarían" ],
+			[ "recargarían" ]
+		],
+		"7" : [
+			[ "recargaré" ],
+			[ "recargarás" ],
+			[ "recargará" ],
+			[ "recargaremos" ],
+			[ "recargaréis", "recargarán" ],
+			[ "recargarán" ]
+		],
+		"8" : [
+			[ "recargue" ],
+			[ "recargues" ],
+			[ "recargue" ],
+			[ "recarguemos" ],
+			[ "recarguéis", "recarguen" ],
+			[ "recarguen" ]
+		],
+		"9" : [
+			[ "recargara" ],
+			[ "recargaras" ],
+			[ "recargara" ],
+			[ "recargáramos" ],
+			[ "recargarais", "recargaran" ],
+			[ "recargaran" ]
+		],
+		"10" : [
+			[ "recargase" ],
+			[ "recargases" ],
+			[ "recargase" ],
+			[ "recargásemos" ],
+			[ "recargaseis", "recargasen" ],
+			[ "recargasen" ]
+		],
+		"11" : [
+			[ "recargare" ],
+			[ "recargares" ],
+			[ "recargare" ],
+			[ "recargáremos" ],
+			[ "recargareis", "recargaren" ],
+			[ "recargaren" ]
+		],
+		"12" : {
+			"1" : [ "recarga" ],
+			"2" : [ "recargue" ],
+			"3" : [ "recarguemos" ],
+			"4" : [ "recargad" ],
+			"5" : [ "recarguen" ]
+		}
+	}
+}

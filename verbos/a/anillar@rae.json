@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anillar",
+	"word" : "anillar",
+	"infinitivo" : "anillar",
+	"participio" : [ "anillado" ],
+	"gerundio" : [ "anillando" ],
+	"tenses" : {
+		"3" : [
+			[ "anillo" ],
+			[ "anillas", "anillás" ],
+			[ "anilla" ],
+			[ "anillamos" ],
+			[ "anilláis", "anillan" ],
+			[ "anillan" ]
+		],
+		"4" : [
+			[ "anillé" ],
+			[ "anillaste" ],
+			[ "anilló" ],
+			[ "anillamos" ],
+			[ "anillasteis", "anillaron" ],
+			[ "anillaron" ]
+		],
+		"5" : [
+			[ "anillaba" ],
+			[ "anillabas" ],
+			[ "anillaba" ],
+			[ "anillábamos" ],
+			[ "anillabais", "anillaban" ],
+			[ "anillaban" ]
+		],
+		"6" : [
+			[ "anillaría" ],
+			[ "anillarías" ],
+			[ "anillaría" ],
+			[ "anillaríamos" ],
+			[ "anillaríais", "anillarían" ],
+			[ "anillarían" ]
+		],
+		"7" : [
+			[ "anillaré" ],
+			[ "anillarás" ],
+			[ "anillará" ],
+			[ "anillaremos" ],
+			[ "anillaréis", "anillarán" ],
+			[ "anillarán" ]
+		],
+		"8" : [
+			[ "anille" ],
+			[ "anilles" ],
+			[ "anille" ],
+			[ "anillemos" ],
+			[ "anilléis", "anillen" ],
+			[ "anillen" ]
+		],
+		"9" : [
+			[ "anillara" ],
+			[ "anillaras" ],
+			[ "anillara" ],
+			[ "anilláramos" ],
+			[ "anillarais", "anillaran" ],
+			[ "anillaran" ]
+		],
+		"10" : [
+			[ "anillase" ],
+			[ "anillases" ],
+			[ "anillase" ],
+			[ "anillásemos" ],
+			[ "anillaseis", "anillasen" ],
+			[ "anillasen" ]
+		],
+		"11" : [
+			[ "anillare" ],
+			[ "anillares" ],
+			[ "anillare" ],
+			[ "anilláremos" ],
+			[ "anillareis", "anillaren" ],
+			[ "anillaren" ]
+		],
+		"12" : {
+			"1" : [ "anilla" ],
+			"2" : [ "anille" ],
+			"3" : [ "anillemos" ],
+			"4" : [ "anillad" ],
+			"5" : [ "anillen" ]
+		}
+	}
+}

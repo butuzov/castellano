@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=impugnar",
+	"word" : "impugnar",
+	"infinitivo" : "impugnar",
+	"participio" : [ "impugnado" ],
+	"gerundio" : [ "impugnando" ],
+	"tenses" : {
+		"3" : [
+			[ "impugno" ],
+			[ "impugnas", "impugnás" ],
+			[ "impugna" ],
+			[ "impugnamos" ],
+			[ "impugnáis", "impugnan" ],
+			[ "impugnan" ]
+		],
+		"4" : [
+			[ "impugné" ],
+			[ "impugnaste" ],
+			[ "impugnó" ],
+			[ "impugnamos" ],
+			[ "impugnasteis", "impugnaron" ],
+			[ "impugnaron" ]
+		],
+		"5" : [
+			[ "impugnaba" ],
+			[ "impugnabas" ],
+			[ "impugnaba" ],
+			[ "impugnábamos" ],
+			[ "impugnabais", "impugnaban" ],
+			[ "impugnaban" ]
+		],
+		"6" : [
+			[ "impugnaría" ],
+			[ "impugnarías" ],
+			[ "impugnaría" ],
+			[ "impugnaríamos" ],
+			[ "impugnaríais", "impugnarían" ],
+			[ "impugnarían" ]
+		],
+		"7" : [
+			[ "impugnaré" ],
+			[ "impugnarás" ],
+			[ "impugnará" ],
+			[ "impugnaremos" ],
+			[ "impugnaréis", "impugnarán" ],
+			[ "impugnarán" ]
+		],
+		"8" : [
+			[ "impugne" ],
+			[ "impugnes" ],
+			[ "impugne" ],
+			[ "impugnemos" ],
+			[ "impugnéis", "impugnen" ],
+			[ "impugnen" ]
+		],
+		"9" : [
+			[ "impugnara" ],
+			[ "impugnaras" ],
+			[ "impugnara" ],
+			[ "impugnáramos" ],
+			[ "impugnarais", "impugnaran" ],
+			[ "impugnaran" ]
+		],
+		"10" : [
+			[ "impugnase" ],
+			[ "impugnases" ],
+			[ "impugnase" ],
+			[ "impugnásemos" ],
+			[ "impugnaseis", "impugnasen" ],
+			[ "impugnasen" ]
+		],
+		"11" : [
+			[ "impugnare" ],
+			[ "impugnares" ],
+			[ "impugnare" ],
+			[ "impugnáremos" ],
+			[ "impugnareis", "impugnaren" ],
+			[ "impugnaren" ]
+		],
+		"12" : {
+			"1" : [ "impugna" ],
+			"2" : [ "impugne" ],
+			"3" : [ "impugnemos" ],
+			"4" : [ "impugnad" ],
+			"5" : [ "impugnen" ]
+		}
+	}
+}

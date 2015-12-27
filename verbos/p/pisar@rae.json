@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pisar",
+	"word" : "pisar",
+	"infinitivo" : "pisar",
+	"participio" : [ "pisado" ],
+	"gerundio" : [ "pisando" ],
+	"tenses" : {
+		"3" : [
+			[ "piso" ],
+			[ "pisas", "pisás" ],
+			[ "pisa" ],
+			[ "pisamos" ],
+			[ "pisáis", "pisan" ],
+			[ "pisan" ]
+		],
+		"4" : [
+			[ "pisé" ],
+			[ "pisaste" ],
+			[ "pisó" ],
+			[ "pisamos" ],
+			[ "pisasteis", "pisaron" ],
+			[ "pisaron" ]
+		],
+		"5" : [
+			[ "pisaba" ],
+			[ "pisabas" ],
+			[ "pisaba" ],
+			[ "pisábamos" ],
+			[ "pisabais", "pisaban" ],
+			[ "pisaban" ]
+		],
+		"6" : [
+			[ "pisaría" ],
+			[ "pisarías" ],
+			[ "pisaría" ],
+			[ "pisaríamos" ],
+			[ "pisaríais", "pisarían" ],
+			[ "pisarían" ]
+		],
+		"7" : [
+			[ "pisaré" ],
+			[ "pisarás" ],
+			[ "pisará" ],
+			[ "pisaremos" ],
+			[ "pisaréis", "pisarán" ],
+			[ "pisarán" ]
+		],
+		"8" : [
+			[ "pise" ],
+			[ "pises" ],
+			[ "pise" ],
+			[ "pisemos" ],
+			[ "piséis", "pisen" ],
+			[ "pisen" ]
+		],
+		"9" : [
+			[ "pisara" ],
+			[ "pisaras" ],
+			[ "pisara" ],
+			[ "pisáramos" ],
+			[ "pisarais", "pisaran" ],
+			[ "pisaran" ]
+		],
+		"10" : [
+			[ "pisase" ],
+			[ "pisases" ],
+			[ "pisase" ],
+			[ "pisásemos" ],
+			[ "pisaseis", "pisasen" ],
+			[ "pisasen" ]
+		],
+		"11" : [
+			[ "pisare" ],
+			[ "pisares" ],
+			[ "pisare" ],
+			[ "pisáremos" ],
+			[ "pisareis", "pisaren" ],
+			[ "pisaren" ]
+		],
+		"12" : {
+			"1" : [ "pisa" ],
+			"2" : [ "pise" ],
+			"3" : [ "pisemos" ],
+			"4" : [ "pisad" ],
+			"5" : [ "pisen" ]
+		}
+	}
+}

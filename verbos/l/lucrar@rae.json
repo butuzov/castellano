@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lucrar",
+	"word" : "lucrar",
+	"infinitivo" : "lucrar",
+	"participio" : [ "lucrado" ],
+	"gerundio" : [ "lucrando" ],
+	"tenses" : {
+		"3" : [
+			[ "lucro" ],
+			[ "lucras", "lucrás" ],
+			[ "lucra" ],
+			[ "lucramos" ],
+			[ "lucráis", "lucran" ],
+			[ "lucran" ]
+		],
+		"4" : [
+			[ "lucré" ],
+			[ "lucraste" ],
+			[ "lucró" ],
+			[ "lucramos" ],
+			[ "lucrasteis", "lucraron" ],
+			[ "lucraron" ]
+		],
+		"5" : [
+			[ "lucraba" ],
+			[ "lucrabas" ],
+			[ "lucraba" ],
+			[ "lucrábamos" ],
+			[ "lucrabais", "lucraban" ],
+			[ "lucraban" ]
+		],
+		"6" : [
+			[ "lucraría" ],
+			[ "lucrarías" ],
+			[ "lucraría" ],
+			[ "lucraríamos" ],
+			[ "lucraríais", "lucrarían" ],
+			[ "lucrarían" ]
+		],
+		"7" : [
+			[ "lucraré" ],
+			[ "lucrarás" ],
+			[ "lucrará" ],
+			[ "lucraremos" ],
+			[ "lucraréis", "lucrarán" ],
+			[ "lucrarán" ]
+		],
+		"8" : [
+			[ "lucre" ],
+			[ "lucres" ],
+			[ "lucre" ],
+			[ "lucremos" ],
+			[ "lucréis", "lucren" ],
+			[ "lucren" ]
+		],
+		"9" : [
+			[ "lucrara" ],
+			[ "lucraras" ],
+			[ "lucrara" ],
+			[ "lucráramos" ],
+			[ "lucrarais", "lucraran" ],
+			[ "lucraran" ]
+		],
+		"10" : [
+			[ "lucrase" ],
+			[ "lucrases" ],
+			[ "lucrase" ],
+			[ "lucrásemos" ],
+			[ "lucraseis", "lucrasen" ],
+			[ "lucrasen" ]
+		],
+		"11" : [
+			[ "lucrare" ],
+			[ "lucrares" ],
+			[ "lucrare" ],
+			[ "lucráremos" ],
+			[ "lucrareis", "lucraren" ],
+			[ "lucraren" ]
+		],
+		"12" : {
+			"1" : [ "lucra" ],
+			"2" : [ "lucre" ],
+			"3" : [ "lucremos" ],
+			"4" : [ "lucrad" ],
+			"5" : [ "lucren" ]
+		}
+	}
+}

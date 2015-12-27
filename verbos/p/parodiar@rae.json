@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=parodiar",
+	"word" : "parodiar",
+	"infinitivo" : "parodiar",
+	"participio" : [ "parodiado" ],
+	"gerundio" : [ "parodiando" ],
+	"tenses" : {
+		"3" : [
+			[ "parodio" ],
+			[ "parodias", "parodiás" ],
+			[ "parodia" ],
+			[ "parodiamos" ],
+			[ "parodiáis", "parodian" ],
+			[ "parodian" ]
+		],
+		"4" : [
+			[ "parodié" ],
+			[ "parodiaste" ],
+			[ "parodió" ],
+			[ "parodiamos" ],
+			[ "parodiasteis", "parodiaron" ],
+			[ "parodiaron" ]
+		],
+		"5" : [
+			[ "parodiaba" ],
+			[ "parodiabas" ],
+			[ "parodiaba" ],
+			[ "parodiábamos" ],
+			[ "parodiabais", "parodiaban" ],
+			[ "parodiaban" ]
+		],
+		"6" : [
+			[ "parodiaría" ],
+			[ "parodiarías" ],
+			[ "parodiaría" ],
+			[ "parodiaríamos" ],
+			[ "parodiaríais", "parodiarían" ],
+			[ "parodiarían" ]
+		],
+		"7" : [
+			[ "parodiaré" ],
+			[ "parodiarás" ],
+			[ "parodiará" ],
+			[ "parodiaremos" ],
+			[ "parodiaréis", "parodiarán" ],
+			[ "parodiarán" ]
+		],
+		"8" : [
+			[ "parodie" ],
+			[ "parodies" ],
+			[ "parodie" ],
+			[ "parodiemos" ],
+			[ "parodiéis", "parodien" ],
+			[ "parodien" ]
+		],
+		"9" : [
+			[ "parodiara" ],
+			[ "parodiaras" ],
+			[ "parodiara" ],
+			[ "parodiáramos" ],
+			[ "parodiarais", "parodiaran" ],
+			[ "parodiaran" ]
+		],
+		"10" : [
+			[ "parodiase" ],
+			[ "parodiases" ],
+			[ "parodiase" ],
+			[ "parodiásemos" ],
+			[ "parodiaseis", "parodiasen" ],
+			[ "parodiasen" ]
+		],
+		"11" : [
+			[ "parodiare" ],
+			[ "parodiares" ],
+			[ "parodiare" ],
+			[ "parodiáremos" ],
+			[ "parodiareis", "parodiaren" ],
+			[ "parodiaren" ]
+		],
+		"12" : {
+			"1" : [ "parodia" ],
+			"2" : [ "parodie" ],
+			"3" : [ "parodiemos" ],
+			"4" : [ "parodiad" ],
+			"5" : [ "parodien" ]
+		}
+	}
+}

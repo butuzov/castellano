@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prestigiar",
+	"word" : "prestigiar",
+	"infinitivo" : "prestigiar",
+	"participio" : [ "prestigiado" ],
+	"gerundio" : [ "prestigiando" ],
+	"tenses" : {
+		"3" : [
+			[ "prestigio" ],
+			[ "prestigias", "prestigiás" ],
+			[ "prestigia" ],
+			[ "prestigiamos" ],
+			[ "prestigiáis", "prestigian" ],
+			[ "prestigian" ]
+		],
+		"4" : [
+			[ "prestigié" ],
+			[ "prestigiaste" ],
+			[ "prestigió" ],
+			[ "prestigiamos" ],
+			[ "prestigiasteis", "prestigiaron" ],
+			[ "prestigiaron" ]
+		],
+		"5" : [
+			[ "prestigiaba" ],
+			[ "prestigiabas" ],
+			[ "prestigiaba" ],
+			[ "prestigiábamos" ],
+			[ "prestigiabais", "prestigiaban" ],
+			[ "prestigiaban" ]
+		],
+		"6" : [
+			[ "prestigiaría" ],
+			[ "prestigiarías" ],
+			[ "prestigiaría" ],
+			[ "prestigiaríamos" ],
+			[ "prestigiaríais", "prestigiarían" ],
+			[ "prestigiarían" ]
+		],
+		"7" : [
+			[ "prestigiaré" ],
+			[ "prestigiarás" ],
+			[ "prestigiará" ],
+			[ "prestigiaremos" ],
+			[ "prestigiaréis", "prestigiarán" ],
+			[ "prestigiarán" ]
+		],
+		"8" : [
+			[ "prestigie" ],
+			[ "prestigies" ],
+			[ "prestigie" ],
+			[ "prestigiemos" ],
+			[ "prestigiéis", "prestigien" ],
+			[ "prestigien" ]
+		],
+		"9" : [
+			[ "prestigiara" ],
+			[ "prestigiaras" ],
+			[ "prestigiara" ],
+			[ "prestigiáramos" ],
+			[ "prestigiarais", "prestigiaran" ],
+			[ "prestigiaran" ]
+		],
+		"10" : [
+			[ "prestigiase" ],
+			[ "prestigiases" ],
+			[ "prestigiase" ],
+			[ "prestigiásemos" ],
+			[ "prestigiaseis", "prestigiasen" ],
+			[ "prestigiasen" ]
+		],
+		"11" : [
+			[ "prestigiare" ],
+			[ "prestigiares" ],
+			[ "prestigiare" ],
+			[ "prestigiáremos" ],
+			[ "prestigiareis", "prestigiaren" ],
+			[ "prestigiaren" ]
+		],
+		"12" : {
+			"1" : [ "prestigia" ],
+			"2" : [ "prestigie" ],
+			"3" : [ "prestigiemos" ],
+			"4" : [ "prestigiad" ],
+			"5" : [ "prestigien" ]
+		}
+	}
+}

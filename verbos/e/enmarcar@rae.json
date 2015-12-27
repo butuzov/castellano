@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enmarcar",
+	"word" : "enmarcar",
+	"infinitivo" : "enmarcar",
+	"participio" : [ "enmarcado" ],
+	"gerundio" : [ "enmarcando" ],
+	"tenses" : {
+		"3" : [
+			[ "enmarco" ],
+			[ "enmarcas", "enmarcás" ],
+			[ "enmarca" ],
+			[ "enmarcamos" ],
+			[ "enmarcáis", "enmarcan" ],
+			[ "enmarcan" ]
+		],
+		"4" : [
+			[ "enmarqué" ],
+			[ "enmarcaste" ],
+			[ "enmarcó" ],
+			[ "enmarcamos" ],
+			[ "enmarcasteis", "enmarcaron" ],
+			[ "enmarcaron" ]
+		],
+		"5" : [
+			[ "enmarcaba" ],
+			[ "enmarcabas" ],
+			[ "enmarcaba" ],
+			[ "enmarcábamos" ],
+			[ "enmarcabais", "enmarcaban" ],
+			[ "enmarcaban" ]
+		],
+		"6" : [
+			[ "enmarcaría" ],
+			[ "enmarcarías" ],
+			[ "enmarcaría" ],
+			[ "enmarcaríamos" ],
+			[ "enmarcaríais", "enmarcarían" ],
+			[ "enmarcarían" ]
+		],
+		"7" : [
+			[ "enmarcaré" ],
+			[ "enmarcarás" ],
+			[ "enmarcará" ],
+			[ "enmarcaremos" ],
+			[ "enmarcaréis", "enmarcarán" ],
+			[ "enmarcarán" ]
+		],
+		"8" : [
+			[ "enmarque" ],
+			[ "enmarques" ],
+			[ "enmarque" ],
+			[ "enmarquemos" ],
+			[ "enmarquéis", "enmarquen" ],
+			[ "enmarquen" ]
+		],
+		"9" : [
+			[ "enmarcara" ],
+			[ "enmarcaras" ],
+			[ "enmarcara" ],
+			[ "enmarcáramos" ],
+			[ "enmarcarais", "enmarcaran" ],
+			[ "enmarcaran" ]
+		],
+		"10" : [
+			[ "enmarcase" ],
+			[ "enmarcases" ],
+			[ "enmarcase" ],
+			[ "enmarcásemos" ],
+			[ "enmarcaseis", "enmarcasen" ],
+			[ "enmarcasen" ]
+		],
+		"11" : [
+			[ "enmarcare" ],
+			[ "enmarcares" ],
+			[ "enmarcare" ],
+			[ "enmarcáremos" ],
+			[ "enmarcareis", "enmarcaren" ],
+			[ "enmarcaren" ]
+		],
+		"12" : {
+			"1" : [ "enmarca" ],
+			"2" : [ "enmarque" ],
+			"3" : [ "enmarquemos" ],
+			"4" : [ "enmarcad" ],
+			"5" : [ "enmarquen" ]
+		}
+	}
+}

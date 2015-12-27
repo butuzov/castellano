@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=revenir",
+	"word" : "revenir",
+	"infinitivo" : "revenir",
+	"participio" : [ "revenido" ],
+	"gerundio" : [ "reviniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "revengo" ],
+			[ "revienes", "revenís" ],
+			[ "reviene" ],
+			[ "revenimos" ],
+			[ "revenís", "revienen" ],
+			[ "revienen" ]
+		],
+		"4" : [
+			[ "revine" ],
+			[ "reviniste" ],
+			[ "revino" ],
+			[ "revinimos" ],
+			[ "revinisteis", "revinieron" ],
+			[ "revinieron" ]
+		],
+		"5" : [
+			[ "revenía" ],
+			[ "revenías" ],
+			[ "revenía" ],
+			[ "reveníamos" ],
+			[ "reveníais", "revenían" ],
+			[ "revenían" ]
+		],
+		"6" : [
+			[ "revendría" ],
+			[ "revendrías" ],
+			[ "revendría" ],
+			[ "revendríamos" ],
+			[ "revendríais", "revendrían" ],
+			[ "revendrían" ]
+		],
+		"7" : [
+			[ "revendré" ],
+			[ "revendrás" ],
+			[ "revendrá" ],
+			[ "revendremos" ],
+			[ "revendréis", "revendrán" ],
+			[ "revendrán" ]
+		],
+		"8" : [
+			[ "revenga" ],
+			[ "revengas" ],
+			[ "revenga" ],
+			[ "revengamos" ],
+			[ "revengáis", "revengan" ],
+			[ "revengan" ]
+		],
+		"9" : [
+			[ "reviniera" ],
+			[ "revinieras" ],
+			[ "reviniera" ],
+			[ "reviniéramos" ],
+			[ "revinierais", "revinieran" ],
+			[ "revinieran" ]
+		],
+		"10" : [
+			[ "reviniese" ],
+			[ "revinieses" ],
+			[ "reviniese" ],
+			[ "reviniésemos" ],
+			[ "revinieseis", "reviniesen" ],
+			[ "reviniesen" ]
+		],
+		"11" : [
+			[ "reviniere" ],
+			[ "revinieres" ],
+			[ "reviniere" ],
+			[ "reviniéremos" ],
+			[ "reviniereis", "revinieren" ],
+			[ "revinieren" ]
+		],
+		"12" : {
+			"1" : [ "revén" ],
+			"2" : [ "revenga" ],
+			"3" : [ "revengamos" ],
+			"4" : [ "revenid" ],
+			"5" : [ "revengan" ]
+		}
+	}
+}

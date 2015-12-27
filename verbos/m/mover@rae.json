@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mover",
+	"word" : "mover",
+	"infinitivo" : "mover",
+	"participio" : [ "movido" ],
+	"gerundio" : [ "moviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "muevo" ],
+			[ "mueves", "movés" ],
+			[ "mueve" ],
+			[ "movemos" ],
+			[ "movéis", "mueven" ],
+			[ "mueven" ]
+		],
+		"4" : [
+			[ "moví" ],
+			[ "moviste" ],
+			[ "movió" ],
+			[ "movimos" ],
+			[ "movisteis", "movieron" ],
+			[ "movieron" ]
+		],
+		"5" : [
+			[ "movía" ],
+			[ "movías" ],
+			[ "movía" ],
+			[ "movíamos" ],
+			[ "movíais", "movían" ],
+			[ "movían" ]
+		],
+		"6" : [
+			[ "movería" ],
+			[ "moverías" ],
+			[ "movería" ],
+			[ "moveríamos" ],
+			[ "moveríais", "moverían" ],
+			[ "moverían" ]
+		],
+		"7" : [
+			[ "moveré" ],
+			[ "moverás" ],
+			[ "moverá" ],
+			[ "moveremos" ],
+			[ "moveréis", "moverán" ],
+			[ "moverán" ]
+		],
+		"8" : [
+			[ "mueva" ],
+			[ "muevas" ],
+			[ "mueva" ],
+			[ "movamos" ],
+			[ "mováis", "muevan" ],
+			[ "muevan" ]
+		],
+		"9" : [
+			[ "moviera" ],
+			[ "movieras" ],
+			[ "moviera" ],
+			[ "moviéramos" ],
+			[ "movierais", "movieran" ],
+			[ "movieran" ]
+		],
+		"10" : [
+			[ "moviese" ],
+			[ "movieses" ],
+			[ "moviese" ],
+			[ "moviésemos" ],
+			[ "movieseis", "moviesen" ],
+			[ "moviesen" ]
+		],
+		"11" : [
+			[ "moviere" ],
+			[ "movieres" ],
+			[ "moviere" ],
+			[ "moviéremos" ],
+			[ "moviereis", "movieren" ],
+			[ "movieren" ]
+		],
+		"12" : {
+			"1" : [ "mueve" ],
+			"2" : [ "mueva" ],
+			"3" : [ "movamos" ],
+			"4" : [ "moved" ],
+			"5" : [ "muevan" ]
+		}
+	}
+}

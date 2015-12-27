@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=requemar",
+	"word" : "requemar",
+	"infinitivo" : "requemar",
+	"participio" : [ "requemado" ],
+	"gerundio" : [ "requemando" ],
+	"tenses" : {
+		"3" : [
+			[ "requemo" ],
+			[ "requemas", "requemás" ],
+			[ "requema" ],
+			[ "requemamos" ],
+			[ "requemáis", "requeman" ],
+			[ "requeman" ]
+		],
+		"4" : [
+			[ "requemé" ],
+			[ "requemaste" ],
+			[ "requemó" ],
+			[ "requemamos" ],
+			[ "requemasteis", "requemaron" ],
+			[ "requemaron" ]
+		],
+		"5" : [
+			[ "requemaba" ],
+			[ "requemabas" ],
+			[ "requemaba" ],
+			[ "requemábamos" ],
+			[ "requemabais", "requemaban" ],
+			[ "requemaban" ]
+		],
+		"6" : [
+			[ "requemaría" ],
+			[ "requemarías" ],
+			[ "requemaría" ],
+			[ "requemaríamos" ],
+			[ "requemaríais", "requemarían" ],
+			[ "requemarían" ]
+		],
+		"7" : [
+			[ "requemaré" ],
+			[ "requemarás" ],
+			[ "requemará" ],
+			[ "requemaremos" ],
+			[ "requemaréis", "requemarán" ],
+			[ "requemarán" ]
+		],
+		"8" : [
+			[ "requeme" ],
+			[ "requemes" ],
+			[ "requeme" ],
+			[ "requememos" ],
+			[ "requeméis", "requemen" ],
+			[ "requemen" ]
+		],
+		"9" : [
+			[ "requemara" ],
+			[ "requemaras" ],
+			[ "requemara" ],
+			[ "requemáramos" ],
+			[ "requemarais", "requemaran" ],
+			[ "requemaran" ]
+		],
+		"10" : [
+			[ "requemase" ],
+			[ "requemases" ],
+			[ "requemase" ],
+			[ "requemásemos" ],
+			[ "requemaseis", "requemasen" ],
+			[ "requemasen" ]
+		],
+		"11" : [
+			[ "requemare" ],
+			[ "requemares" ],
+			[ "requemare" ],
+			[ "requemáremos" ],
+			[ "requemareis", "requemaren" ],
+			[ "requemaren" ]
+		],
+		"12" : {
+			"1" : [ "requema" ],
+			"2" : [ "requeme" ],
+			"3" : [ "requememos" ],
+			"4" : [ "requemad" ],
+			"5" : [ "requemen" ]
+		}
+	}
+}

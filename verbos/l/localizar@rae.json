@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=localizar",
+	"word" : "localizar",
+	"infinitivo" : "localizar",
+	"participio" : [ "localizado" ],
+	"gerundio" : [ "localizando" ],
+	"tenses" : {
+		"3" : [
+			[ "localizo" ],
+			[ "localizas", "localizás" ],
+			[ "localiza" ],
+			[ "localizamos" ],
+			[ "localizáis", "localizan" ],
+			[ "localizan" ]
+		],
+		"4" : [
+			[ "localicé" ],
+			[ "localizaste" ],
+			[ "localizó" ],
+			[ "localizamos" ],
+			[ "localizasteis", "localizaron" ],
+			[ "localizaron" ]
+		],
+		"5" : [
+			[ "localizaba" ],
+			[ "localizabas" ],
+			[ "localizaba" ],
+			[ "localizábamos" ],
+			[ "localizabais", "localizaban" ],
+			[ "localizaban" ]
+		],
+		"6" : [
+			[ "localizaría" ],
+			[ "localizarías" ],
+			[ "localizaría" ],
+			[ "localizaríamos" ],
+			[ "localizaríais", "localizarían" ],
+			[ "localizarían" ]
+		],
+		"7" : [
+			[ "localizaré" ],
+			[ "localizarás" ],
+			[ "localizará" ],
+			[ "localizaremos" ],
+			[ "localizaréis", "localizarán" ],
+			[ "localizarán" ]
+		],
+		"8" : [
+			[ "localice" ],
+			[ "localices" ],
+			[ "localice" ],
+			[ "localicemos" ],
+			[ "localicéis", "localicen" ],
+			[ "localicen" ]
+		],
+		"9" : [
+			[ "localizara" ],
+			[ "localizaras" ],
+			[ "localizara" ],
+			[ "localizáramos" ],
+			[ "localizarais", "localizaran" ],
+			[ "localizaran" ]
+		],
+		"10" : [
+			[ "localizase" ],
+			[ "localizases" ],
+			[ "localizase" ],
+			[ "localizásemos" ],
+			[ "localizaseis", "localizasen" ],
+			[ "localizasen" ]
+		],
+		"11" : [
+			[ "localizare" ],
+			[ "localizares" ],
+			[ "localizare" ],
+			[ "localizáremos" ],
+			[ "localizareis", "localizaren" ],
+			[ "localizaren" ]
+		],
+		"12" : {
+			"1" : [ "localiza" ],
+			"2" : [ "localice" ],
+			"3" : [ "localicemos" ],
+			"4" : [ "localizad" ],
+			"5" : [ "localicen" ]
+		}
+	}
+}

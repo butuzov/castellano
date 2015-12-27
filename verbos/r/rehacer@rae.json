@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rehacer",
+	"word" : "rehacer",
+	"infinitivo" : "rehacer",
+	"participio" : [ "rehecho" ],
+	"gerundio" : [ "rehaciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "rehago" ],
+			[ "rehaces", "rehacés" ],
+			[ "rehace" ],
+			[ "rehacemos" ],
+			[ "rehacéis", "rehacen" ],
+			[ "rehacen" ]
+		],
+		"4" : [
+			[ "rehíce" ],
+			[ "rehiciste" ],
+			[ "rehízo" ],
+			[ "rehicimos" ],
+			[ "rehicisteis", "rehicieron" ],
+			[ "rehicieron" ]
+		],
+		"5" : [
+			[ "rehacía" ],
+			[ "rehacías" ],
+			[ "rehacía" ],
+			[ "rehacíamos" ],
+			[ "rehacíais", "rehacían" ],
+			[ "rehacían" ]
+		],
+		"6" : [
+			[ "reharía" ],
+			[ "reharías" ],
+			[ "reharía" ],
+			[ "reharíamos" ],
+			[ "reharíais", "reharían" ],
+			[ "reharían" ]
+		],
+		"7" : [
+			[ "reharé" ],
+			[ "reharás" ],
+			[ "rehará" ],
+			[ "reharemos" ],
+			[ "reharéis", "reharán" ],
+			[ "reharán" ]
+		],
+		"8" : [
+			[ "rehaga" ],
+			[ "rehagas" ],
+			[ "rehaga" ],
+			[ "rehagamos" ],
+			[ "rehagáis", "rehagan" ],
+			[ "rehagan" ]
+		],
+		"9" : [
+			[ "rehiciera" ],
+			[ "rehicieras" ],
+			[ "rehiciera" ],
+			[ "rehiciéramos" ],
+			[ "rehicierais", "rehicieran" ],
+			[ "rehicieran" ]
+		],
+		"10" : [
+			[ "rehiciese" ],
+			[ "rehicieses" ],
+			[ "rehiciese" ],
+			[ "rehiciésemos" ],
+			[ "rehicieseis", "rehiciesen" ],
+			[ "rehiciesen" ]
+		],
+		"11" : [
+			[ "rehiciere" ],
+			[ "rehicieres" ],
+			[ "rehiciere" ],
+			[ "rehiciéremos" ],
+			[ "rehiciereis", "rehicieren" ],
+			[ "rehicieren" ]
+		],
+		"12" : {
+			"1" : [ "rehaz" ],
+			"2" : [ "rehaga" ],
+			"3" : [ "rehagamos" ],
+			"4" : [ "rehaced" ],
+			"5" : [ "rehagan" ]
+		}
+	}
+}

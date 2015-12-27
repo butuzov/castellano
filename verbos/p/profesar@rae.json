@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=profesar",
+	"word" : "profesar",
+	"infinitivo" : "profesar",
+	"participio" : [ "profesado" ],
+	"gerundio" : [ "profesando" ],
+	"tenses" : {
+		"3" : [
+			[ "profeso" ],
+			[ "profesas", "profesás" ],
+			[ "profesa" ],
+			[ "profesamos" ],
+			[ "profesáis", "profesan" ],
+			[ "profesan" ]
+		],
+		"4" : [
+			[ "profesé" ],
+			[ "profesaste" ],
+			[ "profesó" ],
+			[ "profesamos" ],
+			[ "profesasteis", "profesaron" ],
+			[ "profesaron" ]
+		],
+		"5" : [
+			[ "profesaba" ],
+			[ "profesabas" ],
+			[ "profesaba" ],
+			[ "profesábamos" ],
+			[ "profesabais", "profesaban" ],
+			[ "profesaban" ]
+		],
+		"6" : [
+			[ "profesaría" ],
+			[ "profesarías" ],
+			[ "profesaría" ],
+			[ "profesaríamos" ],
+			[ "profesaríais", "profesarían" ],
+			[ "profesarían" ]
+		],
+		"7" : [
+			[ "profesaré" ],
+			[ "profesarás" ],
+			[ "profesará" ],
+			[ "profesaremos" ],
+			[ "profesaréis", "profesarán" ],
+			[ "profesarán" ]
+		],
+		"8" : [
+			[ "profese" ],
+			[ "profeses" ],
+			[ "profese" ],
+			[ "profesemos" ],
+			[ "profeséis", "profesen" ],
+			[ "profesen" ]
+		],
+		"9" : [
+			[ "profesara" ],
+			[ "profesaras" ],
+			[ "profesara" ],
+			[ "profesáramos" ],
+			[ "profesarais", "profesaran" ],
+			[ "profesaran" ]
+		],
+		"10" : [
+			[ "profesase" ],
+			[ "profesases" ],
+			[ "profesase" ],
+			[ "profesásemos" ],
+			[ "profesaseis", "profesasen" ],
+			[ "profesasen" ]
+		],
+		"11" : [
+			[ "profesare" ],
+			[ "profesares" ],
+			[ "profesare" ],
+			[ "profesáremos" ],
+			[ "profesareis", "profesaren" ],
+			[ "profesaren" ]
+		],
+		"12" : {
+			"1" : [ "profesa" ],
+			"2" : [ "profese" ],
+			"3" : [ "profesemos" ],
+			"4" : [ "profesad" ],
+			"5" : [ "profesen" ]
+		}
+	}
+}

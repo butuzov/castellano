@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=concluir",
+	"word" : "concluir",
+	"infinitivo" : "concluir",
+	"participio" : [ "concluido" ],
+	"gerundio" : [ "concluyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "concluyo" ],
+			[ "concluyes", "concluís" ],
+			[ "concluye" ],
+			[ "concluimos" ],
+			[ "concluís", "concluyen" ],
+			[ "concluyen" ]
+		],
+		"4" : [
+			[ "concluí" ],
+			[ "concluiste" ],
+			[ "concluyó" ],
+			[ "concluimos" ],
+			[ "concluisteis", "concluyeron" ],
+			[ "concluyeron" ]
+		],
+		"5" : [
+			[ "concluía" ],
+			[ "concluías" ],
+			[ "concluía" ],
+			[ "concluíamos" ],
+			[ "concluíais", "concluían" ],
+			[ "concluían" ]
+		],
+		"6" : [
+			[ "concluiría" ],
+			[ "concluirías" ],
+			[ "concluiría" ],
+			[ "concluiríamos" ],
+			[ "concluiríais", "concluirían" ],
+			[ "concluirían" ]
+		],
+		"7" : [
+			[ "concluiré" ],
+			[ "concluirás" ],
+			[ "concluirá" ],
+			[ "concluiremos" ],
+			[ "concluiréis", "concluirán" ],
+			[ "concluirán" ]
+		],
+		"8" : [
+			[ "concluya" ],
+			[ "concluyas" ],
+			[ "concluya" ],
+			[ "concluyamos" ],
+			[ "concluyáis", "concluyan" ],
+			[ "concluyan" ]
+		],
+		"9" : [
+			[ "concluyera" ],
+			[ "concluyeras" ],
+			[ "concluyera" ],
+			[ "concluyéramos" ],
+			[ "concluyerais", "concluyeran" ],
+			[ "concluyeran" ]
+		],
+		"10" : [
+			[ "concluyese" ],
+			[ "concluyeses" ],
+			[ "concluyese" ],
+			[ "concluyésemos" ],
+			[ "concluyeseis", "concluyesen" ],
+			[ "concluyesen" ]
+		],
+		"11" : [
+			[ "concluyere" ],
+			[ "concluyeres" ],
+			[ "concluyere" ],
+			[ "concluyéremos" ],
+			[ "concluyereis", "concluyeren" ],
+			[ "concluyeren" ]
+		],
+		"12" : {
+			"1" : [ "concluye" ],
+			"2" : [ "concluya" ],
+			"3" : [ "concluyamos" ],
+			"4" : [ "concluid" ],
+			"5" : [ "concluyan" ]
+		}
+	}
+}

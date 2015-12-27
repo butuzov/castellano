@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desembolsar",
+	"word" : "desembolsar",
+	"infinitivo" : "desembolsar",
+	"participio" : [ "desembolsado" ],
+	"gerundio" : [ "desembolsando" ],
+	"tenses" : {
+		"3" : [
+			[ "desembolso" ],
+			[ "desembolsas", "desembolsás" ],
+			[ "desembolsa" ],
+			[ "desembolsamos" ],
+			[ "desembolsáis", "desembolsan" ],
+			[ "desembolsan" ]
+		],
+		"4" : [
+			[ "desembolsé" ],
+			[ "desembolsaste" ],
+			[ "desembolsó" ],
+			[ "desembolsamos" ],
+			[ "desembolsasteis", "desembolsaron" ],
+			[ "desembolsaron" ]
+		],
+		"5" : [
+			[ "desembolsaba" ],
+			[ "desembolsabas" ],
+			[ "desembolsaba" ],
+			[ "desembolsábamos" ],
+			[ "desembolsabais", "desembolsaban" ],
+			[ "desembolsaban" ]
+		],
+		"6" : [
+			[ "desembolsaría" ],
+			[ "desembolsarías" ],
+			[ "desembolsaría" ],
+			[ "desembolsaríamos" ],
+			[ "desembolsaríais", "desembolsarían" ],
+			[ "desembolsarían" ]
+		],
+		"7" : [
+			[ "desembolsaré" ],
+			[ "desembolsarás" ],
+			[ "desembolsará" ],
+			[ "desembolsaremos" ],
+			[ "desembolsaréis", "desembolsarán" ],
+			[ "desembolsarán" ]
+		],
+		"8" : [
+			[ "desembolse" ],
+			[ "desembolses" ],
+			[ "desembolse" ],
+			[ "desembolsemos" ],
+			[ "desembolséis", "desembolsen" ],
+			[ "desembolsen" ]
+		],
+		"9" : [
+			[ "desembolsara" ],
+			[ "desembolsaras" ],
+			[ "desembolsara" ],
+			[ "desembolsáramos" ],
+			[ "desembolsarais", "desembolsaran" ],
+			[ "desembolsaran" ]
+		],
+		"10" : [
+			[ "desembolsase" ],
+			[ "desembolsases" ],
+			[ "desembolsase" ],
+			[ "desembolsásemos" ],
+			[ "desembolsaseis", "desembolsasen" ],
+			[ "desembolsasen" ]
+		],
+		"11" : [
+			[ "desembolsare" ],
+			[ "desembolsares" ],
+			[ "desembolsare" ],
+			[ "desembolsáremos" ],
+			[ "desembolsareis", "desembolsaren" ],
+			[ "desembolsaren" ]
+		],
+		"12" : {
+			"1" : [ "desembolsa" ],
+			"2" : [ "desembolse" ],
+			"3" : [ "desembolsemos" ],
+			"4" : [ "desembolsad" ],
+			"5" : [ "desembolsen" ]
+		}
+	}
+}

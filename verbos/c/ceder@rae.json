@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ceder",
+	"word" : "ceder",
+	"infinitivo" : "ceder",
+	"participio" : [ "cedido" ],
+	"gerundio" : [ "cediendo" ],
+	"tenses" : {
+		"3" : [
+			[ "cedo" ],
+			[ "cedes", "cedés" ],
+			[ "cede" ],
+			[ "cedemos" ],
+			[ "cedéis", "ceden" ],
+			[ "ceden" ]
+		],
+		"4" : [
+			[ "cedí" ],
+			[ "cediste" ],
+			[ "cedió" ],
+			[ "cedimos" ],
+			[ "cedisteis", "cedieron" ],
+			[ "cedieron" ]
+		],
+		"5" : [
+			[ "cedía" ],
+			[ "cedías" ],
+			[ "cedía" ],
+			[ "cedíamos" ],
+			[ "cedíais", "cedían" ],
+			[ "cedían" ]
+		],
+		"6" : [
+			[ "cedería" ],
+			[ "cederías" ],
+			[ "cedería" ],
+			[ "cederíamos" ],
+			[ "cederíais", "cederían" ],
+			[ "cederían" ]
+		],
+		"7" : [
+			[ "cederé" ],
+			[ "cederás" ],
+			[ "cederá" ],
+			[ "cederemos" ],
+			[ "cederéis", "cederán" ],
+			[ "cederán" ]
+		],
+		"8" : [
+			[ "ceda" ],
+			[ "cedas" ],
+			[ "ceda" ],
+			[ "cedamos" ],
+			[ "cedáis", "cedan" ],
+			[ "cedan" ]
+		],
+		"9" : [
+			[ "cediera" ],
+			[ "cedieras" ],
+			[ "cediera" ],
+			[ "cediéramos" ],
+			[ "cedierais", "cedieran" ],
+			[ "cedieran" ]
+		],
+		"10" : [
+			[ "cediese" ],
+			[ "cedieses" ],
+			[ "cediese" ],
+			[ "cediésemos" ],
+			[ "cedieseis", "cediesen" ],
+			[ "cediesen" ]
+		],
+		"11" : [
+			[ "cediere" ],
+			[ "cedieres" ],
+			[ "cediere" ],
+			[ "cediéremos" ],
+			[ "cediereis", "cedieren" ],
+			[ "cedieren" ]
+		],
+		"12" : {
+			"1" : [ "cede" ],
+			"2" : [ "ceda" ],
+			"3" : [ "cedamos" ],
+			"4" : [ "ceded" ],
+			"5" : [ "cedan" ]
+		}
+	}
+}

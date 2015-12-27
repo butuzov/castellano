@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=penar",
+	"word" : "penar",
+	"infinitivo" : "penar",
+	"participio" : [ "penado" ],
+	"gerundio" : [ "penando" ],
+	"tenses" : {
+		"3" : [
+			[ "peno" ],
+			[ "penas", "penás" ],
+			[ "pena" ],
+			[ "penamos" ],
+			[ "penáis", "penan" ],
+			[ "penan" ]
+		],
+		"4" : [
+			[ "pené" ],
+			[ "penaste" ],
+			[ "penó" ],
+			[ "penamos" ],
+			[ "penasteis", "penaron" ],
+			[ "penaron" ]
+		],
+		"5" : [
+			[ "penaba" ],
+			[ "penabas" ],
+			[ "penaba" ],
+			[ "penábamos" ],
+			[ "penabais", "penaban" ],
+			[ "penaban" ]
+		],
+		"6" : [
+			[ "penaría" ],
+			[ "penarías" ],
+			[ "penaría" ],
+			[ "penaríamos" ],
+			[ "penaríais", "penarían" ],
+			[ "penarían" ]
+		],
+		"7" : [
+			[ "penaré" ],
+			[ "penarás" ],
+			[ "penará" ],
+			[ "penaremos" ],
+			[ "penaréis", "penarán" ],
+			[ "penarán" ]
+		],
+		"8" : [
+			[ "pene" ],
+			[ "penes" ],
+			[ "pene" ],
+			[ "penemos" ],
+			[ "penéis", "penen" ],
+			[ "penen" ]
+		],
+		"9" : [
+			[ "penara" ],
+			[ "penaras" ],
+			[ "penara" ],
+			[ "penáramos" ],
+			[ "penarais", "penaran" ],
+			[ "penaran" ]
+		],
+		"10" : [
+			[ "penase" ],
+			[ "penases" ],
+			[ "penase" ],
+			[ "penásemos" ],
+			[ "penaseis", "penasen" ],
+			[ "penasen" ]
+		],
+		"11" : [
+			[ "penare" ],
+			[ "penares" ],
+			[ "penare" ],
+			[ "penáremos" ],
+			[ "penareis", "penaren" ],
+			[ "penaren" ]
+		],
+		"12" : {
+			"1" : [ "pena" ],
+			"2" : [ "pene" ],
+			"3" : [ "penemos" ],
+			"4" : [ "penad" ],
+			"5" : [ "penen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rabiar",
+	"word" : "rabiar",
+	"infinitivo" : "rabiar",
+	"participio" : [ "rabiado" ],
+	"gerundio" : [ "rabiando" ],
+	"tenses" : {
+		"3" : [
+			[ "rabio" ],
+			[ "rabias", "rabiás" ],
+			[ "rabia" ],
+			[ "rabiamos" ],
+			[ "rabiáis", "rabian" ],
+			[ "rabian" ]
+		],
+		"4" : [
+			[ "rabié" ],
+			[ "rabiaste" ],
+			[ "rabió" ],
+			[ "rabiamos" ],
+			[ "rabiasteis", "rabiaron" ],
+			[ "rabiaron" ]
+		],
+		"5" : [
+			[ "rabiaba" ],
+			[ "rabiabas" ],
+			[ "rabiaba" ],
+			[ "rabiábamos" ],
+			[ "rabiabais", "rabiaban" ],
+			[ "rabiaban" ]
+		],
+		"6" : [
+			[ "rabiaría" ],
+			[ "rabiarías" ],
+			[ "rabiaría" ],
+			[ "rabiaríamos" ],
+			[ "rabiaríais", "rabiarían" ],
+			[ "rabiarían" ]
+		],
+		"7" : [
+			[ "rabiaré" ],
+			[ "rabiarás" ],
+			[ "rabiará" ],
+			[ "rabiaremos" ],
+			[ "rabiaréis", "rabiarán" ],
+			[ "rabiarán" ]
+		],
+		"8" : [
+			[ "rabie" ],
+			[ "rabies" ],
+			[ "rabie" ],
+			[ "rabiemos" ],
+			[ "rabiéis", "rabien" ],
+			[ "rabien" ]
+		],
+		"9" : [
+			[ "rabiara" ],
+			[ "rabiaras" ],
+			[ "rabiara" ],
+			[ "rabiáramos" ],
+			[ "rabiarais", "rabiaran" ],
+			[ "rabiaran" ]
+		],
+		"10" : [
+			[ "rabiase" ],
+			[ "rabiases" ],
+			[ "rabiase" ],
+			[ "rabiásemos" ],
+			[ "rabiaseis", "rabiasen" ],
+			[ "rabiasen" ]
+		],
+		"11" : [
+			[ "rabiare" ],
+			[ "rabiares" ],
+			[ "rabiare" ],
+			[ "rabiáremos" ],
+			[ "rabiareis", "rabiaren" ],
+			[ "rabiaren" ]
+		],
+		"12" : {
+			"1" : [ "rabia" ],
+			"2" : [ "rabie" ],
+			"3" : [ "rabiemos" ],
+			"4" : [ "rabiad" ],
+			"5" : [ "rabien" ]
+		}
+	}
+}

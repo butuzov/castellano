@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enrolar",
+	"word" : "enrolar",
+	"infinitivo" : "enrolar",
+	"participio" : [ "enrolado" ],
+	"gerundio" : [ "enrolando" ],
+	"tenses" : {
+		"3" : [
+			[ "enrolo" ],
+			[ "enrolas", "enrolás" ],
+			[ "enrola" ],
+			[ "enrolamos" ],
+			[ "enroláis", "enrolan" ],
+			[ "enrolan" ]
+		],
+		"4" : [
+			[ "enrolé" ],
+			[ "enrolaste" ],
+			[ "enroló" ],
+			[ "enrolamos" ],
+			[ "enrolasteis", "enrolaron" ],
+			[ "enrolaron" ]
+		],
+		"5" : [
+			[ "enrolaba" ],
+			[ "enrolabas" ],
+			[ "enrolaba" ],
+			[ "enrolábamos" ],
+			[ "enrolabais", "enrolaban" ],
+			[ "enrolaban" ]
+		],
+		"6" : [
+			[ "enrolaría" ],
+			[ "enrolarías" ],
+			[ "enrolaría" ],
+			[ "enrolaríamos" ],
+			[ "enrolaríais", "enrolarían" ],
+			[ "enrolarían" ]
+		],
+		"7" : [
+			[ "enrolaré" ],
+			[ "enrolarás" ],
+			[ "enrolará" ],
+			[ "enrolaremos" ],
+			[ "enrolaréis", "enrolarán" ],
+			[ "enrolarán" ]
+		],
+		"8" : [
+			[ "enrole" ],
+			[ "enroles" ],
+			[ "enrole" ],
+			[ "enrolemos" ],
+			[ "enroléis", "enrolen" ],
+			[ "enrolen" ]
+		],
+		"9" : [
+			[ "enrolara" ],
+			[ "enrolaras" ],
+			[ "enrolara" ],
+			[ "enroláramos" ],
+			[ "enrolarais", "enrolaran" ],
+			[ "enrolaran" ]
+		],
+		"10" : [
+			[ "enrolase" ],
+			[ "enrolases" ],
+			[ "enrolase" ],
+			[ "enrolásemos" ],
+			[ "enrolaseis", "enrolasen" ],
+			[ "enrolasen" ]
+		],
+		"11" : [
+			[ "enrolare" ],
+			[ "enrolares" ],
+			[ "enrolare" ],
+			[ "enroláremos" ],
+			[ "enrolareis", "enrolaren" ],
+			[ "enrolaren" ]
+		],
+		"12" : {
+			"1" : [ "enrola" ],
+			"2" : [ "enrole" ],
+			"3" : [ "enrolemos" ],
+			"4" : [ "enrolad" ],
+			"5" : [ "enrolen" ]
+		}
+	}
+}

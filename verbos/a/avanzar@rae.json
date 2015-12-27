@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=avanzar",
+	"word" : "avanzar",
+	"infinitivo" : "avanzar",
+	"participio" : [ "avanzado" ],
+	"gerundio" : [ "avanzando" ],
+	"tenses" : {
+		"3" : [
+			[ "avanzo" ],
+			[ "avanzas", "avanzás" ],
+			[ "avanza" ],
+			[ "avanzamos" ],
+			[ "avanzáis", "avanzan" ],
+			[ "avanzan" ]
+		],
+		"4" : [
+			[ "avancé" ],
+			[ "avanzaste" ],
+			[ "avanzó" ],
+			[ "avanzamos" ],
+			[ "avanzasteis", "avanzaron" ],
+			[ "avanzaron" ]
+		],
+		"5" : [
+			[ "avanzaba" ],
+			[ "avanzabas" ],
+			[ "avanzaba" ],
+			[ "avanzábamos" ],
+			[ "avanzabais", "avanzaban" ],
+			[ "avanzaban" ]
+		],
+		"6" : [
+			[ "avanzaría" ],
+			[ "avanzarías" ],
+			[ "avanzaría" ],
+			[ "avanzaríamos" ],
+			[ "avanzaríais", "avanzarían" ],
+			[ "avanzarían" ]
+		],
+		"7" : [
+			[ "avanzaré" ],
+			[ "avanzarás" ],
+			[ "avanzará" ],
+			[ "avanzaremos" ],
+			[ "avanzaréis", "avanzarán" ],
+			[ "avanzarán" ]
+		],
+		"8" : [
+			[ "avance" ],
+			[ "avances" ],
+			[ "avance" ],
+			[ "avancemos" ],
+			[ "avancéis", "avancen" ],
+			[ "avancen" ]
+		],
+		"9" : [
+			[ "avanzara" ],
+			[ "avanzaras" ],
+			[ "avanzara" ],
+			[ "avanzáramos" ],
+			[ "avanzarais", "avanzaran" ],
+			[ "avanzaran" ]
+		],
+		"10" : [
+			[ "avanzase" ],
+			[ "avanzases" ],
+			[ "avanzase" ],
+			[ "avanzásemos" ],
+			[ "avanzaseis", "avanzasen" ],
+			[ "avanzasen" ]
+		],
+		"11" : [
+			[ "avanzare" ],
+			[ "avanzares" ],
+			[ "avanzare" ],
+			[ "avanzáremos" ],
+			[ "avanzareis", "avanzaren" ],
+			[ "avanzaren" ]
+		],
+		"12" : {
+			"1" : [ "avanza" ],
+			"2" : [ "avance" ],
+			"3" : [ "avancemos" ],
+			"4" : [ "avanzad" ],
+			"5" : [ "avancen" ]
+		}
+	}
+}

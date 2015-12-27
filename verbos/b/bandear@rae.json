@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bandear",
+	"word" : "bandear",
+	"infinitivo" : "bandear",
+	"participio" : [ "bandeado" ],
+	"gerundio" : [ "bandeando" ],
+	"tenses" : {
+		"3" : [
+			[ "bandeo" ],
+			[ "bandeas", "bandeás" ],
+			[ "bandea" ],
+			[ "bandeamos" ],
+			[ "bandeáis", "bandean" ],
+			[ "bandean" ]
+		],
+		"4" : [
+			[ "bandeé" ],
+			[ "bandeaste" ],
+			[ "bandeó" ],
+			[ "bandeamos" ],
+			[ "bandeasteis", "bandearon" ],
+			[ "bandearon" ]
+		],
+		"5" : [
+			[ "bandeaba" ],
+			[ "bandeabas" ],
+			[ "bandeaba" ],
+			[ "bandeábamos" ],
+			[ "bandeabais", "bandeaban" ],
+			[ "bandeaban" ]
+		],
+		"6" : [
+			[ "bandearía" ],
+			[ "bandearías" ],
+			[ "bandearía" ],
+			[ "bandearíamos" ],
+			[ "bandearíais", "bandearían" ],
+			[ "bandearían" ]
+		],
+		"7" : [
+			[ "bandearé" ],
+			[ "bandearás" ],
+			[ "bandeará" ],
+			[ "bandearemos" ],
+			[ "bandearéis", "bandearán" ],
+			[ "bandearán" ]
+		],
+		"8" : [
+			[ "bandee" ],
+			[ "bandees" ],
+			[ "bandee" ],
+			[ "bandeemos" ],
+			[ "bandeéis", "bandeen" ],
+			[ "bandeen" ]
+		],
+		"9" : [
+			[ "bandeara" ],
+			[ "bandearas" ],
+			[ "bandeara" ],
+			[ "bandeáramos" ],
+			[ "bandearais", "bandearan" ],
+			[ "bandearan" ]
+		],
+		"10" : [
+			[ "bandease" ],
+			[ "bandeases" ],
+			[ "bandease" ],
+			[ "bandeásemos" ],
+			[ "bandeaseis", "bandeasen" ],
+			[ "bandeasen" ]
+		],
+		"11" : [
+			[ "bandeare" ],
+			[ "bandeares" ],
+			[ "bandeare" ],
+			[ "bandeáremos" ],
+			[ "bandeareis", "bandearen" ],
+			[ "bandearen" ]
+		],
+		"12" : {
+			"1" : [ "bandea" ],
+			"2" : [ "bandee" ],
+			"3" : [ "bandeemos" ],
+			"4" : [ "bandead" ],
+			"5" : [ "bandeen" ]
+		}
+	}
+}

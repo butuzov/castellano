@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=beber",
+	"word" : "beber",
+	"infinitivo" : "beber",
+	"participio" : [ "bebido" ],
+	"gerundio" : [ "bebiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "bebo" ],
+			[ "bebes", "bebés" ],
+			[ "bebe" ],
+			[ "bebemos" ],
+			[ "bebéis", "beben" ],
+			[ "beben" ]
+		],
+		"4" : [
+			[ "bebí" ],
+			[ "bebiste" ],
+			[ "bebió" ],
+			[ "bebimos" ],
+			[ "bebisteis", "bebieron" ],
+			[ "bebieron" ]
+		],
+		"5" : [
+			[ "bebía" ],
+			[ "bebías" ],
+			[ "bebía" ],
+			[ "bebíamos" ],
+			[ "bebíais", "bebían" ],
+			[ "bebían" ]
+		],
+		"6" : [
+			[ "bebería" ],
+			[ "beberías" ],
+			[ "bebería" ],
+			[ "beberíamos" ],
+			[ "beberíais", "beberían" ],
+			[ "beberían" ]
+		],
+		"7" : [
+			[ "beberé" ],
+			[ "beberás" ],
+			[ "beberá" ],
+			[ "beberemos" ],
+			[ "beberéis", "beberán" ],
+			[ "beberán" ]
+		],
+		"8" : [
+			[ "beba" ],
+			[ "bebas" ],
+			[ "beba" ],
+			[ "bebamos" ],
+			[ "bebáis", "beban" ],
+			[ "beban" ]
+		],
+		"9" : [
+			[ "bebiera" ],
+			[ "bebieras" ],
+			[ "bebiera" ],
+			[ "bebiéramos" ],
+			[ "bebierais", "bebieran" ],
+			[ "bebieran" ]
+		],
+		"10" : [
+			[ "bebiese" ],
+			[ "bebieses" ],
+			[ "bebiese" ],
+			[ "bebiésemos" ],
+			[ "bebieseis", "bebiesen" ],
+			[ "bebiesen" ]
+		],
+		"11" : [
+			[ "bebiere" ],
+			[ "bebieres" ],
+			[ "bebiere" ],
+			[ "bebiéremos" ],
+			[ "bebiereis", "bebieren" ],
+			[ "bebieren" ]
+		],
+		"12" : {
+			"1" : [ "bebe" ],
+			"2" : [ "beba" ],
+			"3" : [ "bebamos" ],
+			"4" : [ "bebed" ],
+			"5" : [ "beban" ]
+		}
+	}
+}

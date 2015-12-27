@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cuidar",
+	"word" : "cuidar",
+	"infinitivo" : "cuidar",
+	"participio" : [ "cuidado" ],
+	"gerundio" : [ "cuidando" ],
+	"tenses" : {
+		"3" : [
+			[ "cuido" ],
+			[ "cuidas", "cuidás" ],
+			[ "cuida" ],
+			[ "cuidamos" ],
+			[ "cuidáis", "cuidan" ],
+			[ "cuidan" ]
+		],
+		"4" : [
+			[ "cuidé" ],
+			[ "cuidaste" ],
+			[ "cuidó" ],
+			[ "cuidamos" ],
+			[ "cuidasteis", "cuidaron" ],
+			[ "cuidaron" ]
+		],
+		"5" : [
+			[ "cuidaba" ],
+			[ "cuidabas" ],
+			[ "cuidaba" ],
+			[ "cuidábamos" ],
+			[ "cuidabais", "cuidaban" ],
+			[ "cuidaban" ]
+		],
+		"6" : [
+			[ "cuidaría" ],
+			[ "cuidarías" ],
+			[ "cuidaría" ],
+			[ "cuidaríamos" ],
+			[ "cuidaríais", "cuidarían" ],
+			[ "cuidarían" ]
+		],
+		"7" : [
+			[ "cuidaré" ],
+			[ "cuidarás" ],
+			[ "cuidará" ],
+			[ "cuidaremos" ],
+			[ "cuidaréis", "cuidarán" ],
+			[ "cuidarán" ]
+		],
+		"8" : [
+			[ "cuide" ],
+			[ "cuides" ],
+			[ "cuide" ],
+			[ "cuidemos" ],
+			[ "cuidéis", "cuiden" ],
+			[ "cuiden" ]
+		],
+		"9" : [
+			[ "cuidara" ],
+			[ "cuidaras" ],
+			[ "cuidara" ],
+			[ "cuidáramos" ],
+			[ "cuidarais", "cuidaran" ],
+			[ "cuidaran" ]
+		],
+		"10" : [
+			[ "cuidase" ],
+			[ "cuidases" ],
+			[ "cuidase" ],
+			[ "cuidásemos" ],
+			[ "cuidaseis", "cuidasen" ],
+			[ "cuidasen" ]
+		],
+		"11" : [
+			[ "cuidare" ],
+			[ "cuidares" ],
+			[ "cuidare" ],
+			[ "cuidáremos" ],
+			[ "cuidareis", "cuidaren" ],
+			[ "cuidaren" ]
+		],
+		"12" : {
+			"1" : [ "cuida" ],
+			"2" : [ "cuide" ],
+			"3" : [ "cuidemos" ],
+			"4" : [ "cuidad" ],
+			"5" : [ "cuiden" ]
+		}
+	}
+}

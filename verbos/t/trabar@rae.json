@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trabar",
+	"word" : "trabar",
+	"infinitivo" : "trabar",
+	"participio" : [ "trabado" ],
+	"gerundio" : [ "trabando" ],
+	"tenses" : {
+		"3" : [
+			[ "trabo" ],
+			[ "trabas", "trabás" ],
+			[ "traba" ],
+			[ "trabamos" ],
+			[ "trabáis", "traban" ],
+			[ "traban" ]
+		],
+		"4" : [
+			[ "trabé" ],
+			[ "trabaste" ],
+			[ "trabó" ],
+			[ "trabamos" ],
+			[ "trabasteis", "trabaron" ],
+			[ "trabaron" ]
+		],
+		"5" : [
+			[ "trababa" ],
+			[ "trababas" ],
+			[ "trababa" ],
+			[ "trabábamos" ],
+			[ "trababais", "trababan" ],
+			[ "trababan" ]
+		],
+		"6" : [
+			[ "trabaría" ],
+			[ "trabarías" ],
+			[ "trabaría" ],
+			[ "trabaríamos" ],
+			[ "trabaríais", "trabarían" ],
+			[ "trabarían" ]
+		],
+		"7" : [
+			[ "trabaré" ],
+			[ "trabarás" ],
+			[ "trabará" ],
+			[ "trabaremos" ],
+			[ "trabaréis", "trabarán" ],
+			[ "trabarán" ]
+		],
+		"8" : [
+			[ "trabe" ],
+			[ "trabes" ],
+			[ "trabe" ],
+			[ "trabemos" ],
+			[ "trabéis", "traben" ],
+			[ "traben" ]
+		],
+		"9" : [
+			[ "trabara" ],
+			[ "trabaras" ],
+			[ "trabara" ],
+			[ "trabáramos" ],
+			[ "trabarais", "trabaran" ],
+			[ "trabaran" ]
+		],
+		"10" : [
+			[ "trabase" ],
+			[ "trabases" ],
+			[ "trabase" ],
+			[ "trabásemos" ],
+			[ "trabaseis", "trabasen" ],
+			[ "trabasen" ]
+		],
+		"11" : [
+			[ "trabare" ],
+			[ "trabares" ],
+			[ "trabare" ],
+			[ "trabáremos" ],
+			[ "trabareis", "trabaren" ],
+			[ "trabaren" ]
+		],
+		"12" : {
+			"1" : [ "traba" ],
+			"2" : [ "trabe" ],
+			"3" : [ "trabemos" ],
+			"4" : [ "trabad" ],
+			"5" : [ "traben" ]
+		}
+	}
+}

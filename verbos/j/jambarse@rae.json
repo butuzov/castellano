@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=jambarse",
+	"word" : "jambarse",
+	"infinitivo" : "jambarse",
+	"participio" : [ "jambado" ],
+	"gerundio" : [ "jambándome", "jambándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me jambo" ],
+			[ "te jambas", "te jambás" ],
+			[ "se jamba" ],
+			[ "nos jambamos" ],
+			[ "os jambáis", "se jamban" ],
+			[ "se jamban" ]
+		],
+		"4" : [
+			[ "me jambé" ],
+			[ "te jambaste" ],
+			[ "se jambó" ],
+			[ "nos jambamos" ],
+			[ "os jambasteis", "se jambaron" ],
+			[ "se jambaron" ]
+		],
+		"5" : [
+			[ "me jambaba" ],
+			[ "te jambabas" ],
+			[ "se jambaba" ],
+			[ "nos jambábamos" ],
+			[ "os jambabais", "se jambaban" ],
+			[ "se jambaban" ]
+		],
+		"6" : [
+			[ "me jambaría" ],
+			[ "te jambarías" ],
+			[ "se jambaría" ],
+			[ "nos jambaríamos" ],
+			[ "os jambaríais", "se jambarían" ],
+			[ "se jambarían" ]
+		],
+		"7" : [
+			[ "me jambaré" ],
+			[ "te jambarás" ],
+			[ "se jambará" ],
+			[ "nos jambaremos" ],
+			[ "os jambaréis", "se jambarán" ],
+			[ "se jambarán" ]
+		],
+		"8" : [
+			[ "me jambe" ],
+			[ "te jambes" ],
+			[ "se jambe" ],
+			[ "nos jambemos" ],
+			[ "os jambéis", "se jamben" ],
+			[ "se jamben" ]
+		],
+		"9" : [
+			[ "me jambara" ],
+			[ "te jambaras" ],
+			[ "se jambara" ],
+			[ "nos jambáramos" ],
+			[ "os jambarais", "se jambaran" ],
+			[ "se jambaran" ]
+		],
+		"10" : [
+			[ "me jambase" ],
+			[ "te jambases" ],
+			[ "se jambase" ],
+			[ "nos jambásemos" ],
+			[ "os jambaseis", "se jambasen" ],
+			[ "se jambasen" ]
+		],
+		"11" : [
+			[ "me jambare" ],
+			[ "te jambares" ],
+			[ "se jambare" ],
+			[ "nos jambáremos" ],
+			[ "os jambareis", "se jambaren" ],
+			[ "se jambaren" ]
+		],
+		"12" : {
+			"1" : [ "jámbate" ],
+			"2" : [ "jambe" ],
+			"3" : [ "jambemos" ],
+			"4" : [ "jambaos" ],
+			"5" : [ "jámbense" ]
+		}
+	}
+}

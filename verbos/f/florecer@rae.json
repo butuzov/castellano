@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=florecer",
+	"word" : "florecer",
+	"infinitivo" : "florecer",
+	"participio" : [ "florecido" ],
+	"gerundio" : [ "floreciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "florezco" ],
+			[ "floreces", "florecés" ],
+			[ "florece" ],
+			[ "florecemos" ],
+			[ "florecéis", "florecen" ],
+			[ "florecen" ]
+		],
+		"4" : [
+			[ "florecí" ],
+			[ "floreciste" ],
+			[ "floreció" ],
+			[ "florecimos" ],
+			[ "florecisteis", "florecieron" ],
+			[ "florecieron" ]
+		],
+		"5" : [
+			[ "florecía" ],
+			[ "florecías" ],
+			[ "florecía" ],
+			[ "florecíamos" ],
+			[ "florecíais", "florecían" ],
+			[ "florecían" ]
+		],
+		"6" : [
+			[ "florecería" ],
+			[ "florecerías" ],
+			[ "florecería" ],
+			[ "floreceríamos" ],
+			[ "floreceríais", "florecerían" ],
+			[ "florecerían" ]
+		],
+		"7" : [
+			[ "floreceré" ],
+			[ "florecerás" ],
+			[ "florecerá" ],
+			[ "floreceremos" ],
+			[ "floreceréis", "florecerán" ],
+			[ "florecerán" ]
+		],
+		"8" : [
+			[ "florezca" ],
+			[ "florezcas" ],
+			[ "florezca" ],
+			[ "florezcamos" ],
+			[ "florezcáis", "florezcan" ],
+			[ "florezcan" ]
+		],
+		"9" : [
+			[ "floreciera" ],
+			[ "florecieras" ],
+			[ "floreciera" ],
+			[ "floreciéramos" ],
+			[ "florecierais", "florecieran" ],
+			[ "florecieran" ]
+		],
+		"10" : [
+			[ "floreciese" ],
+			[ "florecieses" ],
+			[ "floreciese" ],
+			[ "floreciésemos" ],
+			[ "florecieseis", "floreciesen" ],
+			[ "floreciesen" ]
+		],
+		"11" : [
+			[ "floreciere" ],
+			[ "florecieres" ],
+			[ "floreciere" ],
+			[ "floreciéremos" ],
+			[ "floreciereis", "florecieren" ],
+			[ "florecieren" ]
+		],
+		"12" : {
+			"1" : [ "florece" ],
+			"2" : [ "florezca" ],
+			"3" : [ "florezcamos" ],
+			"4" : [ "floreced" ],
+			"5" : [ "florezcan" ]
+		}
+	}
+}

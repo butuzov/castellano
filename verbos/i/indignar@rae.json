@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=indignar",
+	"word" : "indignar",
+	"infinitivo" : "indignar",
+	"participio" : [ "indignado" ],
+	"gerundio" : [ "indignando" ],
+	"tenses" : {
+		"3" : [
+			[ "indigno" ],
+			[ "indignas", "indignás" ],
+			[ "indigna" ],
+			[ "indignamos" ],
+			[ "indignáis", "indignan" ],
+			[ "indignan" ]
+		],
+		"4" : [
+			[ "indigné" ],
+			[ "indignaste" ],
+			[ "indignó" ],
+			[ "indignamos" ],
+			[ "indignasteis", "indignaron" ],
+			[ "indignaron" ]
+		],
+		"5" : [
+			[ "indignaba" ],
+			[ "indignabas" ],
+			[ "indignaba" ],
+			[ "indignábamos" ],
+			[ "indignabais", "indignaban" ],
+			[ "indignaban" ]
+		],
+		"6" : [
+			[ "indignaría" ],
+			[ "indignarías" ],
+			[ "indignaría" ],
+			[ "indignaríamos" ],
+			[ "indignaríais", "indignarían" ],
+			[ "indignarían" ]
+		],
+		"7" : [
+			[ "indignaré" ],
+			[ "indignarás" ],
+			[ "indignará" ],
+			[ "indignaremos" ],
+			[ "indignaréis", "indignarán" ],
+			[ "indignarán" ]
+		],
+		"8" : [
+			[ "indigne" ],
+			[ "indignes" ],
+			[ "indigne" ],
+			[ "indignemos" ],
+			[ "indignéis", "indignen" ],
+			[ "indignen" ]
+		],
+		"9" : [
+			[ "indignara" ],
+			[ "indignaras" ],
+			[ "indignara" ],
+			[ "indignáramos" ],
+			[ "indignarais", "indignaran" ],
+			[ "indignaran" ]
+		],
+		"10" : [
+			[ "indignase" ],
+			[ "indignases" ],
+			[ "indignase" ],
+			[ "indignásemos" ],
+			[ "indignaseis", "indignasen" ],
+			[ "indignasen" ]
+		],
+		"11" : [
+			[ "indignare" ],
+			[ "indignares" ],
+			[ "indignare" ],
+			[ "indignáremos" ],
+			[ "indignareis", "indignaren" ],
+			[ "indignaren" ]
+		],
+		"12" : {
+			"1" : [ "indigna" ],
+			"2" : [ "indigne" ],
+			"3" : [ "indignemos" ],
+			"4" : [ "indignad" ],
+			"5" : [ "indignen" ]
+		}
+	}
+}

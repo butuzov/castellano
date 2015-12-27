@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=propagar",
+	"word" : "propagar",
+	"infinitivo" : "propagar",
+	"participio" : [ "propagado" ],
+	"gerundio" : [ "propagando" ],
+	"tenses" : {
+		"3" : [
+			[ "propago" ],
+			[ "propagas", "propagás" ],
+			[ "propaga" ],
+			[ "propagamos" ],
+			[ "propagáis", "propagan" ],
+			[ "propagan" ]
+		],
+		"4" : [
+			[ "propagué" ],
+			[ "propagaste" ],
+			[ "propagó" ],
+			[ "propagamos" ],
+			[ "propagasteis", "propagaron" ],
+			[ "propagaron" ]
+		],
+		"5" : [
+			[ "propagaba" ],
+			[ "propagabas" ],
+			[ "propagaba" ],
+			[ "propagábamos" ],
+			[ "propagabais", "propagaban" ],
+			[ "propagaban" ]
+		],
+		"6" : [
+			[ "propagaría" ],
+			[ "propagarías" ],
+			[ "propagaría" ],
+			[ "propagaríamos" ],
+			[ "propagaríais", "propagarían" ],
+			[ "propagarían" ]
+		],
+		"7" : [
+			[ "propagaré" ],
+			[ "propagarás" ],
+			[ "propagará" ],
+			[ "propagaremos" ],
+			[ "propagaréis", "propagarán" ],
+			[ "propagarán" ]
+		],
+		"8" : [
+			[ "propague" ],
+			[ "propagues" ],
+			[ "propague" ],
+			[ "propaguemos" ],
+			[ "propaguéis", "propaguen" ],
+			[ "propaguen" ]
+		],
+		"9" : [
+			[ "propagara" ],
+			[ "propagaras" ],
+			[ "propagara" ],
+			[ "propagáramos" ],
+			[ "propagarais", "propagaran" ],
+			[ "propagaran" ]
+		],
+		"10" : [
+			[ "propagase" ],
+			[ "propagases" ],
+			[ "propagase" ],
+			[ "propagásemos" ],
+			[ "propagaseis", "propagasen" ],
+			[ "propagasen" ]
+		],
+		"11" : [
+			[ "propagare" ],
+			[ "propagares" ],
+			[ "propagare" ],
+			[ "propagáremos" ],
+			[ "propagareis", "propagaren" ],
+			[ "propagaren" ]
+		],
+		"12" : {
+			"1" : [ "propaga" ],
+			"2" : [ "propague" ],
+			"3" : [ "propaguemos" ],
+			"4" : [ "propagad" ],
+			"5" : [ "propaguen" ]
+		}
+	}
+}

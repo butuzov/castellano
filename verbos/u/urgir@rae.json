@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=urgir",
+	"word" : "urgir",
+	"infinitivo" : "urgir",
+	"participio" : [ "urgido" ],
+	"gerundio" : [ "urgiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "urjo" ],
+			[ "urges", "urgís" ],
+			[ "urge" ],
+			[ "urgimos" ],
+			[ "urgís", "urgen" ],
+			[ "urgen" ]
+		],
+		"4" : [
+			[ "urgí" ],
+			[ "urgiste" ],
+			[ "urgió" ],
+			[ "urgimos" ],
+			[ "urgisteis", "urgieron" ],
+			[ "urgieron" ]
+		],
+		"5" : [
+			[ "urgía" ],
+			[ "urgías" ],
+			[ "urgía" ],
+			[ "urgíamos" ],
+			[ "urgíais", "urgían" ],
+			[ "urgían" ]
+		],
+		"6" : [
+			[ "urgiría" ],
+			[ "urgirías" ],
+			[ "urgiría" ],
+			[ "urgiríamos" ],
+			[ "urgiríais", "urgirían" ],
+			[ "urgirían" ]
+		],
+		"7" : [
+			[ "urgiré" ],
+			[ "urgirás" ],
+			[ "urgirá" ],
+			[ "urgiremos" ],
+			[ "urgiréis", "urgirán" ],
+			[ "urgirán" ]
+		],
+		"8" : [
+			[ "urja" ],
+			[ "urjas" ],
+			[ "urja" ],
+			[ "urjamos" ],
+			[ "urjáis", "urjan" ],
+			[ "urjan" ]
+		],
+		"9" : [
+			[ "urgiera" ],
+			[ "urgieras" ],
+			[ "urgiera" ],
+			[ "urgiéramos" ],
+			[ "urgierais", "urgieran" ],
+			[ "urgieran" ]
+		],
+		"10" : [
+			[ "urgiese" ],
+			[ "urgieses" ],
+			[ "urgiese" ],
+			[ "urgiésemos" ],
+			[ "urgieseis", "urgiesen" ],
+			[ "urgiesen" ]
+		],
+		"11" : [
+			[ "urgiere" ],
+			[ "urgieres" ],
+			[ "urgiere" ],
+			[ "urgiéremos" ],
+			[ "urgiereis", "urgieren" ],
+			[ "urgieren" ]
+		],
+		"12" : {
+			"1" : [ "urge" ],
+			"2" : [ "urja" ],
+			"3" : [ "urjamos" ],
+			"4" : [ "urgid" ],
+			"5" : [ "urjan" ]
+		}
+	}
+}

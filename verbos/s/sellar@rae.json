@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sellar",
+	"word" : "sellar",
+	"infinitivo" : "sellar",
+	"participio" : [ "sellado" ],
+	"gerundio" : [ "sellando" ],
+	"tenses" : {
+		"3" : [
+			[ "sello" ],
+			[ "sellas", "sellás" ],
+			[ "sella" ],
+			[ "sellamos" ],
+			[ "selláis", "sellan" ],
+			[ "sellan" ]
+		],
+		"4" : [
+			[ "sellé" ],
+			[ "sellaste" ],
+			[ "selló" ],
+			[ "sellamos" ],
+			[ "sellasteis", "sellaron" ],
+			[ "sellaron" ]
+		],
+		"5" : [
+			[ "sellaba" ],
+			[ "sellabas" ],
+			[ "sellaba" ],
+			[ "sellábamos" ],
+			[ "sellabais", "sellaban" ],
+			[ "sellaban" ]
+		],
+		"6" : [
+			[ "sellaría" ],
+			[ "sellarías" ],
+			[ "sellaría" ],
+			[ "sellaríamos" ],
+			[ "sellaríais", "sellarían" ],
+			[ "sellarían" ]
+		],
+		"7" : [
+			[ "sellaré" ],
+			[ "sellarás" ],
+			[ "sellará" ],
+			[ "sellaremos" ],
+			[ "sellaréis", "sellarán" ],
+			[ "sellarán" ]
+		],
+		"8" : [
+			[ "selle" ],
+			[ "selles" ],
+			[ "selle" ],
+			[ "sellemos" ],
+			[ "selléis", "sellen" ],
+			[ "sellen" ]
+		],
+		"9" : [
+			[ "sellara" ],
+			[ "sellaras" ],
+			[ "sellara" ],
+			[ "selláramos" ],
+			[ "sellarais", "sellaran" ],
+			[ "sellaran" ]
+		],
+		"10" : [
+			[ "sellase" ],
+			[ "sellases" ],
+			[ "sellase" ],
+			[ "sellásemos" ],
+			[ "sellaseis", "sellasen" ],
+			[ "sellasen" ]
+		],
+		"11" : [
+			[ "sellare" ],
+			[ "sellares" ],
+			[ "sellare" ],
+			[ "selláremos" ],
+			[ "sellareis", "sellaren" ],
+			[ "sellaren" ]
+		],
+		"12" : {
+			"1" : [ "sella" ],
+			"2" : [ "selle" ],
+			"3" : [ "sellemos" ],
+			"4" : [ "sellad" ],
+			"5" : [ "sellen" ]
+		}
+	}
+}

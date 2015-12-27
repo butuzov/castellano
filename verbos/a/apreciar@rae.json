@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apreciar",
+	"word" : "apreciar",
+	"infinitivo" : "apreciar",
+	"participio" : [ "apreciado" ],
+	"gerundio" : [ "apreciando" ],
+	"tenses" : {
+		"3" : [
+			[ "aprecio" ],
+			[ "aprecias", "apreciás" ],
+			[ "aprecia" ],
+			[ "apreciamos" ],
+			[ "apreciáis", "aprecian" ],
+			[ "aprecian" ]
+		],
+		"4" : [
+			[ "aprecié" ],
+			[ "apreciaste" ],
+			[ "apreció" ],
+			[ "apreciamos" ],
+			[ "apreciasteis", "apreciaron" ],
+			[ "apreciaron" ]
+		],
+		"5" : [
+			[ "apreciaba" ],
+			[ "apreciabas" ],
+			[ "apreciaba" ],
+			[ "apreciábamos" ],
+			[ "apreciabais", "apreciaban" ],
+			[ "apreciaban" ]
+		],
+		"6" : [
+			[ "apreciaría" ],
+			[ "apreciarías" ],
+			[ "apreciaría" ],
+			[ "apreciaríamos" ],
+			[ "apreciaríais", "apreciarían" ],
+			[ "apreciarían" ]
+		],
+		"7" : [
+			[ "apreciaré" ],
+			[ "apreciarás" ],
+			[ "apreciará" ],
+			[ "apreciaremos" ],
+			[ "apreciaréis", "apreciarán" ],
+			[ "apreciarán" ]
+		],
+		"8" : [
+			[ "aprecie" ],
+			[ "aprecies" ],
+			[ "aprecie" ],
+			[ "apreciemos" ],
+			[ "apreciéis", "aprecien" ],
+			[ "aprecien" ]
+		],
+		"9" : [
+			[ "apreciara" ],
+			[ "apreciaras" ],
+			[ "apreciara" ],
+			[ "apreciáramos" ],
+			[ "apreciarais", "apreciaran" ],
+			[ "apreciaran" ]
+		],
+		"10" : [
+			[ "apreciase" ],
+			[ "apreciases" ],
+			[ "apreciase" ],
+			[ "apreciásemos" ],
+			[ "apreciaseis", "apreciasen" ],
+			[ "apreciasen" ]
+		],
+		"11" : [
+			[ "apreciare" ],
+			[ "apreciares" ],
+			[ "apreciare" ],
+			[ "apreciáremos" ],
+			[ "apreciareis", "apreciaren" ],
+			[ "apreciaren" ]
+		],
+		"12" : {
+			"1" : [ "aprecia" ],
+			"2" : [ "aprecie" ],
+			"3" : [ "apreciemos" ],
+			"4" : [ "apreciad" ],
+			"5" : [ "aprecien" ]
+		}
+	}
+}

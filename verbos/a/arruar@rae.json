@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arruar",
+	"word" : "arruar",
+	"infinitivo" : "arruar",
+	"participio" : [ "arruado" ],
+	"gerundio" : [ "arruando" ],
+	"tenses" : {
+		"3" : [
+			[ "arrúo" ],
+			[ "arrúas", "arruás" ],
+			[ "arrúa" ],
+			[ "arruamos" ],
+			[ "arruáis", "arrúan" ],
+			[ "arrúan" ]
+		],
+		"4" : [
+			[ "arrué" ],
+			[ "arruaste" ],
+			[ "arruó" ],
+			[ "arruamos" ],
+			[ "arruasteis", "arruaron" ],
+			[ "arruaron" ]
+		],
+		"5" : [
+			[ "arruaba" ],
+			[ "arruabas" ],
+			[ "arruaba" ],
+			[ "arruábamos" ],
+			[ "arruabais", "arruaban" ],
+			[ "arruaban" ]
+		],
+		"6" : [
+			[ "arruaría" ],
+			[ "arruarías" ],
+			[ "arruaría" ],
+			[ "arruaríamos" ],
+			[ "arruaríais", "arruarían" ],
+			[ "arruarían" ]
+		],
+		"7" : [
+			[ "arruaré" ],
+			[ "arruarás" ],
+			[ "arruará" ],
+			[ "arruaremos" ],
+			[ "arruaréis", "arruarán" ],
+			[ "arruarán" ]
+		],
+		"8" : [
+			[ "arrúe" ],
+			[ "arrúes" ],
+			[ "arrúe" ],
+			[ "arruemos" ],
+			[ "arruéis", "arrúen" ],
+			[ "arrúen" ]
+		],
+		"9" : [
+			[ "arruara" ],
+			[ "arruaras" ],
+			[ "arruara" ],
+			[ "arruáramos" ],
+			[ "arruarais", "arruaran" ],
+			[ "arruaran" ]
+		],
+		"10" : [
+			[ "arruase" ],
+			[ "arruases" ],
+			[ "arruase" ],
+			[ "arruásemos" ],
+			[ "arruaseis", "arruasen" ],
+			[ "arruasen" ]
+		],
+		"11" : [
+			[ "arruare" ],
+			[ "arruares" ],
+			[ "arruare" ],
+			[ "arruáremos" ],
+			[ "arruareis", "arruaren" ],
+			[ "arruaren" ]
+		],
+		"12" : {
+			"1" : [ "arrúa" ],
+			"2" : [ "arrúe" ],
+			"3" : [ "arruemos" ],
+			"4" : [ "arruad" ],
+			"5" : [ "arrúen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=censurar",
+	"word" : "censurar",
+	"infinitivo" : "censurar",
+	"participio" : [ "censurado" ],
+	"gerundio" : [ "censurando" ],
+	"tenses" : {
+		"3" : [
+			[ "censuro" ],
+			[ "censuras", "censurás" ],
+			[ "censura" ],
+			[ "censuramos" ],
+			[ "censuráis", "censuran" ],
+			[ "censuran" ]
+		],
+		"4" : [
+			[ "censuré" ],
+			[ "censuraste" ],
+			[ "censuró" ],
+			[ "censuramos" ],
+			[ "censurasteis", "censuraron" ],
+			[ "censuraron" ]
+		],
+		"5" : [
+			[ "censuraba" ],
+			[ "censurabas" ],
+			[ "censuraba" ],
+			[ "censurábamos" ],
+			[ "censurabais", "censuraban" ],
+			[ "censuraban" ]
+		],
+		"6" : [
+			[ "censuraría" ],
+			[ "censurarías" ],
+			[ "censuraría" ],
+			[ "censuraríamos" ],
+			[ "censuraríais", "censurarían" ],
+			[ "censurarían" ]
+		],
+		"7" : [
+			[ "censuraré" ],
+			[ "censurarás" ],
+			[ "censurará" ],
+			[ "censuraremos" ],
+			[ "censuraréis", "censurarán" ],
+			[ "censurarán" ]
+		],
+		"8" : [
+			[ "censure" ],
+			[ "censures" ],
+			[ "censure" ],
+			[ "censuremos" ],
+			[ "censuréis", "censuren" ],
+			[ "censuren" ]
+		],
+		"9" : [
+			[ "censurara" ],
+			[ "censuraras" ],
+			[ "censurara" ],
+			[ "censuráramos" ],
+			[ "censurarais", "censuraran" ],
+			[ "censuraran" ]
+		],
+		"10" : [
+			[ "censurase" ],
+			[ "censurases" ],
+			[ "censurase" ],
+			[ "censurásemos" ],
+			[ "censuraseis", "censurasen" ],
+			[ "censurasen" ]
+		],
+		"11" : [
+			[ "censurare" ],
+			[ "censurares" ],
+			[ "censurare" ],
+			[ "censuráremos" ],
+			[ "censurareis", "censuraren" ],
+			[ "censuraren" ]
+		],
+		"12" : {
+			"1" : [ "censura" ],
+			"2" : [ "censure" ],
+			"3" : [ "censuremos" ],
+			"4" : [ "censurad" ],
+			"5" : [ "censuren" ]
+		}
+	}
+}

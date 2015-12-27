@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dilatar",
+	"word" : "dilatar",
+	"infinitivo" : "dilatar",
+	"participio" : [ "dilatado" ],
+	"gerundio" : [ "dilatando" ],
+	"tenses" : {
+		"3" : [
+			[ "dilato" ],
+			[ "dilatas", "dilatás" ],
+			[ "dilata" ],
+			[ "dilatamos" ],
+			[ "dilatáis", "dilatan" ],
+			[ "dilatan" ]
+		],
+		"4" : [
+			[ "dilaté" ],
+			[ "dilataste" ],
+			[ "dilató" ],
+			[ "dilatamos" ],
+			[ "dilatasteis", "dilataron" ],
+			[ "dilataron" ]
+		],
+		"5" : [
+			[ "dilataba" ],
+			[ "dilatabas" ],
+			[ "dilataba" ],
+			[ "dilatábamos" ],
+			[ "dilatabais", "dilataban" ],
+			[ "dilataban" ]
+		],
+		"6" : [
+			[ "dilataría" ],
+			[ "dilatarías" ],
+			[ "dilataría" ],
+			[ "dilataríamos" ],
+			[ "dilataríais", "dilatarían" ],
+			[ "dilatarían" ]
+		],
+		"7" : [
+			[ "dilataré" ],
+			[ "dilatarás" ],
+			[ "dilatará" ],
+			[ "dilataremos" ],
+			[ "dilataréis", "dilatarán" ],
+			[ "dilatarán" ]
+		],
+		"8" : [
+			[ "dilate" ],
+			[ "dilates" ],
+			[ "dilate" ],
+			[ "dilatemos" ],
+			[ "dilatéis", "dilaten" ],
+			[ "dilaten" ]
+		],
+		"9" : [
+			[ "dilatara" ],
+			[ "dilataras" ],
+			[ "dilatara" ],
+			[ "dilatáramos" ],
+			[ "dilatarais", "dilataran" ],
+			[ "dilataran" ]
+		],
+		"10" : [
+			[ "dilatase" ],
+			[ "dilatases" ],
+			[ "dilatase" ],
+			[ "dilatásemos" ],
+			[ "dilataseis", "dilatasen" ],
+			[ "dilatasen" ]
+		],
+		"11" : [
+			[ "dilatare" ],
+			[ "dilatares" ],
+			[ "dilatare" ],
+			[ "dilatáremos" ],
+			[ "dilatareis", "dilataren" ],
+			[ "dilataren" ]
+		],
+		"12" : {
+			"1" : [ "dilata" ],
+			"2" : [ "dilate" ],
+			"3" : [ "dilatemos" ],
+			"4" : [ "dilatad" ],
+			"5" : [ "dilaten" ]
+		}
+	}
+}

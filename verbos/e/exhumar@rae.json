@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=exhumar",
+	"word" : "exhumar",
+	"infinitivo" : "exhumar",
+	"participio" : [ "exhumado" ],
+	"gerundio" : [ "exhumando" ],
+	"tenses" : {
+		"3" : [
+			[ "exhumo" ],
+			[ "exhumas", "exhumás" ],
+			[ "exhuma" ],
+			[ "exhumamos" ],
+			[ "exhumáis", "exhuman" ],
+			[ "exhuman" ]
+		],
+		"4" : [
+			[ "exhumé" ],
+			[ "exhumaste" ],
+			[ "exhumó" ],
+			[ "exhumamos" ],
+			[ "exhumasteis", "exhumaron" ],
+			[ "exhumaron" ]
+		],
+		"5" : [
+			[ "exhumaba" ],
+			[ "exhumabas" ],
+			[ "exhumaba" ],
+			[ "exhumábamos" ],
+			[ "exhumabais", "exhumaban" ],
+			[ "exhumaban" ]
+		],
+		"6" : [
+			[ "exhumaría" ],
+			[ "exhumarías" ],
+			[ "exhumaría" ],
+			[ "exhumaríamos" ],
+			[ "exhumaríais", "exhumarían" ],
+			[ "exhumarían" ]
+		],
+		"7" : [
+			[ "exhumaré" ],
+			[ "exhumarás" ],
+			[ "exhumará" ],
+			[ "exhumaremos" ],
+			[ "exhumaréis", "exhumarán" ],
+			[ "exhumarán" ]
+		],
+		"8" : [
+			[ "exhume" ],
+			[ "exhumes" ],
+			[ "exhume" ],
+			[ "exhumemos" ],
+			[ "exhuméis", "exhumen" ],
+			[ "exhumen" ]
+		],
+		"9" : [
+			[ "exhumara" ],
+			[ "exhumaras" ],
+			[ "exhumara" ],
+			[ "exhumáramos" ],
+			[ "exhumarais", "exhumaran" ],
+			[ "exhumaran" ]
+		],
+		"10" : [
+			[ "exhumase" ],
+			[ "exhumases" ],
+			[ "exhumase" ],
+			[ "exhumásemos" ],
+			[ "exhumaseis", "exhumasen" ],
+			[ "exhumasen" ]
+		],
+		"11" : [
+			[ "exhumare" ],
+			[ "exhumares" ],
+			[ "exhumare" ],
+			[ "exhumáremos" ],
+			[ "exhumareis", "exhumaren" ],
+			[ "exhumaren" ]
+		],
+		"12" : {
+			"1" : [ "exhuma" ],
+			"2" : [ "exhume" ],
+			"3" : [ "exhumemos" ],
+			"4" : [ "exhumad" ],
+			"5" : [ "exhumen" ]
+		}
+	}
+}

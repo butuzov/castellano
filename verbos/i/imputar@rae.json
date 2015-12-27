@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=imputar",
+	"word" : "imputar",
+	"infinitivo" : "imputar",
+	"participio" : [ "imputado" ],
+	"gerundio" : [ "imputando" ],
+	"tenses" : {
+		"3" : [
+			[ "imputo" ],
+			[ "imputas", "imputás" ],
+			[ "imputa" ],
+			[ "imputamos" ],
+			[ "imputáis", "imputan" ],
+			[ "imputan" ]
+		],
+		"4" : [
+			[ "imputé" ],
+			[ "imputaste" ],
+			[ "imputó" ],
+			[ "imputamos" ],
+			[ "imputasteis", "imputaron" ],
+			[ "imputaron" ]
+		],
+		"5" : [
+			[ "imputaba" ],
+			[ "imputabas" ],
+			[ "imputaba" ],
+			[ "imputábamos" ],
+			[ "imputabais", "imputaban" ],
+			[ "imputaban" ]
+		],
+		"6" : [
+			[ "imputaría" ],
+			[ "imputarías" ],
+			[ "imputaría" ],
+			[ "imputaríamos" ],
+			[ "imputaríais", "imputarían" ],
+			[ "imputarían" ]
+		],
+		"7" : [
+			[ "imputaré" ],
+			[ "imputarás" ],
+			[ "imputará" ],
+			[ "imputaremos" ],
+			[ "imputaréis", "imputarán" ],
+			[ "imputarán" ]
+		],
+		"8" : [
+			[ "impute" ],
+			[ "imputes" ],
+			[ "impute" ],
+			[ "imputemos" ],
+			[ "imputéis", "imputen" ],
+			[ "imputen" ]
+		],
+		"9" : [
+			[ "imputara" ],
+			[ "imputaras" ],
+			[ "imputara" ],
+			[ "imputáramos" ],
+			[ "imputarais", "imputaran" ],
+			[ "imputaran" ]
+		],
+		"10" : [
+			[ "imputase" ],
+			[ "imputases" ],
+			[ "imputase" ],
+			[ "imputásemos" ],
+			[ "imputaseis", "imputasen" ],
+			[ "imputasen" ]
+		],
+		"11" : [
+			[ "imputare" ],
+			[ "imputares" ],
+			[ "imputare" ],
+			[ "imputáremos" ],
+			[ "imputareis", "imputaren" ],
+			[ "imputaren" ]
+		],
+		"12" : {
+			"1" : [ "imputa" ],
+			"2" : [ "impute" ],
+			"3" : [ "imputemos" ],
+			"4" : [ "imputad" ],
+			"5" : [ "imputen" ]
+		}
+	}
+}

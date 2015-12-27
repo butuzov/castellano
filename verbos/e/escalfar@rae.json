@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escalfar",
+	"word" : "escalfar",
+	"infinitivo" : "escalfar",
+	"participio" : [ "escalfado" ],
+	"gerundio" : [ "escalfando" ],
+	"tenses" : {
+		"3" : [
+			[ "escalfo" ],
+			[ "escalfas", "escalfás" ],
+			[ "escalfa" ],
+			[ "escalfamos" ],
+			[ "escalfáis", "escalfan" ],
+			[ "escalfan" ]
+		],
+		"4" : [
+			[ "escalfé" ],
+			[ "escalfaste" ],
+			[ "escalfó" ],
+			[ "escalfamos" ],
+			[ "escalfasteis", "escalfaron" ],
+			[ "escalfaron" ]
+		],
+		"5" : [
+			[ "escalfaba" ],
+			[ "escalfabas" ],
+			[ "escalfaba" ],
+			[ "escalfábamos" ],
+			[ "escalfabais", "escalfaban" ],
+			[ "escalfaban" ]
+		],
+		"6" : [
+			[ "escalfaría" ],
+			[ "escalfarías" ],
+			[ "escalfaría" ],
+			[ "escalfaríamos" ],
+			[ "escalfaríais", "escalfarían" ],
+			[ "escalfarían" ]
+		],
+		"7" : [
+			[ "escalfaré" ],
+			[ "escalfarás" ],
+			[ "escalfará" ],
+			[ "escalfaremos" ],
+			[ "escalfaréis", "escalfarán" ],
+			[ "escalfarán" ]
+		],
+		"8" : [
+			[ "escalfe" ],
+			[ "escalfes" ],
+			[ "escalfe" ],
+			[ "escalfemos" ],
+			[ "escalféis", "escalfen" ],
+			[ "escalfen" ]
+		],
+		"9" : [
+			[ "escalfara" ],
+			[ "escalfaras" ],
+			[ "escalfara" ],
+			[ "escalfáramos" ],
+			[ "escalfarais", "escalfaran" ],
+			[ "escalfaran" ]
+		],
+		"10" : [
+			[ "escalfase" ],
+			[ "escalfases" ],
+			[ "escalfase" ],
+			[ "escalfásemos" ],
+			[ "escalfaseis", "escalfasen" ],
+			[ "escalfasen" ]
+		],
+		"11" : [
+			[ "escalfare" ],
+			[ "escalfares" ],
+			[ "escalfare" ],
+			[ "escalfáremos" ],
+			[ "escalfareis", "escalfaren" ],
+			[ "escalfaren" ]
+		],
+		"12" : {
+			"1" : [ "escalfa" ],
+			"2" : [ "escalfe" ],
+			"3" : [ "escalfemos" ],
+			"4" : [ "escalfad" ],
+			"5" : [ "escalfen" ]
+		}
+	}
+}

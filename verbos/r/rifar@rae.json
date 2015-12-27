@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rifar",
+	"word" : "rifar",
+	"infinitivo" : "rifar",
+	"participio" : [ "rifado" ],
+	"gerundio" : [ "rifando" ],
+	"tenses" : {
+		"3" : [
+			[ "rifo" ],
+			[ "rifas", "rifás" ],
+			[ "rifa" ],
+			[ "rifamos" ],
+			[ "rifáis", "rifan" ],
+			[ "rifan" ]
+		],
+		"4" : [
+			[ "rifé" ],
+			[ "rifaste" ],
+			[ "rifó" ],
+			[ "rifamos" ],
+			[ "rifasteis", "rifaron" ],
+			[ "rifaron" ]
+		],
+		"5" : [
+			[ "rifaba" ],
+			[ "rifabas" ],
+			[ "rifaba" ],
+			[ "rifábamos" ],
+			[ "rifabais", "rifaban" ],
+			[ "rifaban" ]
+		],
+		"6" : [
+			[ "rifaría" ],
+			[ "rifarías" ],
+			[ "rifaría" ],
+			[ "rifaríamos" ],
+			[ "rifaríais", "rifarían" ],
+			[ "rifarían" ]
+		],
+		"7" : [
+			[ "rifaré" ],
+			[ "rifarás" ],
+			[ "rifará" ],
+			[ "rifaremos" ],
+			[ "rifaréis", "rifarán" ],
+			[ "rifarán" ]
+		],
+		"8" : [
+			[ "rife" ],
+			[ "rifes" ],
+			[ "rife" ],
+			[ "rifemos" ],
+			[ "riféis", "rifen" ],
+			[ "rifen" ]
+		],
+		"9" : [
+			[ "rifara" ],
+			[ "rifaras" ],
+			[ "rifara" ],
+			[ "rifáramos" ],
+			[ "rifarais", "rifaran" ],
+			[ "rifaran" ]
+		],
+		"10" : [
+			[ "rifase" ],
+			[ "rifases" ],
+			[ "rifase" ],
+			[ "rifásemos" ],
+			[ "rifaseis", "rifasen" ],
+			[ "rifasen" ]
+		],
+		"11" : [
+			[ "rifare" ],
+			[ "rifares" ],
+			[ "rifare" ],
+			[ "rifáremos" ],
+			[ "rifareis", "rifaren" ],
+			[ "rifaren" ]
+		],
+		"12" : {
+			"1" : [ "rifa" ],
+			"2" : [ "rife" ],
+			"3" : [ "rifemos" ],
+			"4" : [ "rifad" ],
+			"5" : [ "rifen" ]
+		}
+	}
+}

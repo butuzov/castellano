@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=torrar",
+	"word" : "torrar",
+	"infinitivo" : "torrar",
+	"participio" : [ "torrado" ],
+	"gerundio" : [ "torrando" ],
+	"tenses" : {
+		"3" : [
+			[ "torro" ],
+			[ "torras", "torrás" ],
+			[ "torra" ],
+			[ "torramos" ],
+			[ "torráis", "torran" ],
+			[ "torran" ]
+		],
+		"4" : [
+			[ "torré" ],
+			[ "torraste" ],
+			[ "torró" ],
+			[ "torramos" ],
+			[ "torrasteis", "torraron" ],
+			[ "torraron" ]
+		],
+		"5" : [
+			[ "torraba" ],
+			[ "torrabas" ],
+			[ "torraba" ],
+			[ "torrábamos" ],
+			[ "torrabais", "torraban" ],
+			[ "torraban" ]
+		],
+		"6" : [
+			[ "torraría" ],
+			[ "torrarías" ],
+			[ "torraría" ],
+			[ "torraríamos" ],
+			[ "torraríais", "torrarían" ],
+			[ "torrarían" ]
+		],
+		"7" : [
+			[ "torraré" ],
+			[ "torrarás" ],
+			[ "torrará" ],
+			[ "torraremos" ],
+			[ "torraréis", "torrarán" ],
+			[ "torrarán" ]
+		],
+		"8" : [
+			[ "torre" ],
+			[ "torres" ],
+			[ "torre" ],
+			[ "torremos" ],
+			[ "torréis", "torren" ],
+			[ "torren" ]
+		],
+		"9" : [
+			[ "torrara" ],
+			[ "torraras" ],
+			[ "torrara" ],
+			[ "torráramos" ],
+			[ "torrarais", "torraran" ],
+			[ "torraran" ]
+		],
+		"10" : [
+			[ "torrase" ],
+			[ "torrases" ],
+			[ "torrase" ],
+			[ "torrásemos" ],
+			[ "torraseis", "torrasen" ],
+			[ "torrasen" ]
+		],
+		"11" : [
+			[ "torrare" ],
+			[ "torrares" ],
+			[ "torrare" ],
+			[ "torráremos" ],
+			[ "torrareis", "torraren" ],
+			[ "torraren" ]
+		],
+		"12" : {
+			"1" : [ "torra" ],
+			"2" : [ "torre" ],
+			"3" : [ "torremos" ],
+			"4" : [ "torrad" ],
+			"5" : [ "torren" ]
+		}
+	}
+}

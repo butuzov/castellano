@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atender",
+	"word" : "atender",
+	"infinitivo" : "atender",
+	"participio" : [ "atendido" ],
+	"gerundio" : [ "atendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "atiendo" ],
+			[ "atiendes", "atendés" ],
+			[ "atiende" ],
+			[ "atendemos" ],
+			[ "atendéis", "atienden" ],
+			[ "atienden" ]
+		],
+		"4" : [
+			[ "atendí" ],
+			[ "atendiste" ],
+			[ "atendió" ],
+			[ "atendimos" ],
+			[ "atendisteis", "atendieron" ],
+			[ "atendieron" ]
+		],
+		"5" : [
+			[ "atendía" ],
+			[ "atendías" ],
+			[ "atendía" ],
+			[ "atendíamos" ],
+			[ "atendíais", "atendían" ],
+			[ "atendían" ]
+		],
+		"6" : [
+			[ "atendería" ],
+			[ "atenderías" ],
+			[ "atendería" ],
+			[ "atenderíamos" ],
+			[ "atenderíais", "atenderían" ],
+			[ "atenderían" ]
+		],
+		"7" : [
+			[ "atenderé" ],
+			[ "atenderás" ],
+			[ "atenderá" ],
+			[ "atenderemos" ],
+			[ "atenderéis", "atenderán" ],
+			[ "atenderán" ]
+		],
+		"8" : [
+			[ "atienda" ],
+			[ "atiendas" ],
+			[ "atienda" ],
+			[ "atendamos" ],
+			[ "atendáis", "atiendan" ],
+			[ "atiendan" ]
+		],
+		"9" : [
+			[ "atendiera" ],
+			[ "atendieras" ],
+			[ "atendiera" ],
+			[ "atendiéramos" ],
+			[ "atendierais", "atendieran" ],
+			[ "atendieran" ]
+		],
+		"10" : [
+			[ "atendiese" ],
+			[ "atendieses" ],
+			[ "atendiese" ],
+			[ "atendiésemos" ],
+			[ "atendieseis", "atendiesen" ],
+			[ "atendiesen" ]
+		],
+		"11" : [
+			[ "atendiere" ],
+			[ "atendieres" ],
+			[ "atendiere" ],
+			[ "atendiéremos" ],
+			[ "atendiereis", "atendieren" ],
+			[ "atendieren" ]
+		],
+		"12" : {
+			"1" : [ "atiende" ],
+			"2" : [ "atienda" ],
+			"3" : [ "atendamos" ],
+			"4" : [ "atended" ],
+			"5" : [ "atiendan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atesorar",
+	"word" : "atesorar",
+	"infinitivo" : "atesorar",
+	"participio" : [ "atesorado" ],
+	"gerundio" : [ "atesorando" ],
+	"tenses" : {
+		"3" : [
+			[ "atesoro" ],
+			[ "atesoras", "atesorás" ],
+			[ "atesora" ],
+			[ "atesoramos" ],
+			[ "atesoráis", "atesoran" ],
+			[ "atesoran" ]
+		],
+		"4" : [
+			[ "atesoré" ],
+			[ "atesoraste" ],
+			[ "atesoró" ],
+			[ "atesoramos" ],
+			[ "atesorasteis", "atesoraron" ],
+			[ "atesoraron" ]
+		],
+		"5" : [
+			[ "atesoraba" ],
+			[ "atesorabas" ],
+			[ "atesoraba" ],
+			[ "atesorábamos" ],
+			[ "atesorabais", "atesoraban" ],
+			[ "atesoraban" ]
+		],
+		"6" : [
+			[ "atesoraría" ],
+			[ "atesorarías" ],
+			[ "atesoraría" ],
+			[ "atesoraríamos" ],
+			[ "atesoraríais", "atesorarían" ],
+			[ "atesorarían" ]
+		],
+		"7" : [
+			[ "atesoraré" ],
+			[ "atesorarás" ],
+			[ "atesorará" ],
+			[ "atesoraremos" ],
+			[ "atesoraréis", "atesorarán" ],
+			[ "atesorarán" ]
+		],
+		"8" : [
+			[ "atesore" ],
+			[ "atesores" ],
+			[ "atesore" ],
+			[ "atesoremos" ],
+			[ "atesoréis", "atesoren" ],
+			[ "atesoren" ]
+		],
+		"9" : [
+			[ "atesorara" ],
+			[ "atesoraras" ],
+			[ "atesorara" ],
+			[ "atesoráramos" ],
+			[ "atesorarais", "atesoraran" ],
+			[ "atesoraran" ]
+		],
+		"10" : [
+			[ "atesorase" ],
+			[ "atesorases" ],
+			[ "atesorase" ],
+			[ "atesorásemos" ],
+			[ "atesoraseis", "atesorasen" ],
+			[ "atesorasen" ]
+		],
+		"11" : [
+			[ "atesorare" ],
+			[ "atesorares" ],
+			[ "atesorare" ],
+			[ "atesoráremos" ],
+			[ "atesorareis", "atesoraren" ],
+			[ "atesoraren" ]
+		],
+		"12" : {
+			"1" : [ "atesora" ],
+			"2" : [ "atesore" ],
+			"3" : [ "atesoremos" ],
+			"4" : [ "atesorad" ],
+			"5" : [ "atesoren" ]
+		}
+	}
+}

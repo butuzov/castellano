@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmadrar",
+	"word" : "desmadrar",
+	"infinitivo" : "desmadrar",
+	"participio" : [ "desmadrado" ],
+	"gerundio" : [ "desmadrando" ],
+	"tenses" : {
+		"3" : [
+			[ "desmadro" ],
+			[ "desmadras", "desmadrás" ],
+			[ "desmadra" ],
+			[ "desmadramos" ],
+			[ "desmadráis", "desmadran" ],
+			[ "desmadran" ]
+		],
+		"4" : [
+			[ "desmadré" ],
+			[ "desmadraste" ],
+			[ "desmadró" ],
+			[ "desmadramos" ],
+			[ "desmadrasteis", "desmadraron" ],
+			[ "desmadraron" ]
+		],
+		"5" : [
+			[ "desmadraba" ],
+			[ "desmadrabas" ],
+			[ "desmadraba" ],
+			[ "desmadrábamos" ],
+			[ "desmadrabais", "desmadraban" ],
+			[ "desmadraban" ]
+		],
+		"6" : [
+			[ "desmadraría" ],
+			[ "desmadrarías" ],
+			[ "desmadraría" ],
+			[ "desmadraríamos" ],
+			[ "desmadraríais", "desmadrarían" ],
+			[ "desmadrarían" ]
+		],
+		"7" : [
+			[ "desmadraré" ],
+			[ "desmadrarás" ],
+			[ "desmadrará" ],
+			[ "desmadraremos" ],
+			[ "desmadraréis", "desmadrarán" ],
+			[ "desmadrarán" ]
+		],
+		"8" : [
+			[ "desmadre" ],
+			[ "desmadres" ],
+			[ "desmadre" ],
+			[ "desmadremos" ],
+			[ "desmadréis", "desmadren" ],
+			[ "desmadren" ]
+		],
+		"9" : [
+			[ "desmadrara" ],
+			[ "desmadraras" ],
+			[ "desmadrara" ],
+			[ "desmadráramos" ],
+			[ "desmadrarais", "desmadraran" ],
+			[ "desmadraran" ]
+		],
+		"10" : [
+			[ "desmadrase" ],
+			[ "desmadrases" ],
+			[ "desmadrase" ],
+			[ "desmadrásemos" ],
+			[ "desmadraseis", "desmadrasen" ],
+			[ "desmadrasen" ]
+		],
+		"11" : [
+			[ "desmadrare" ],
+			[ "desmadrares" ],
+			[ "desmadrare" ],
+			[ "desmadráremos" ],
+			[ "desmadrareis", "desmadraren" ],
+			[ "desmadraren" ]
+		],
+		"12" : {
+			"1" : [ "desmadra" ],
+			"2" : [ "desmadre" ],
+			"3" : [ "desmadremos" ],
+			"4" : [ "desmadrad" ],
+			"5" : [ "desmadren" ]
+		}
+	}
+}

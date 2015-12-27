@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abalizar",
+	"word" : "abalizar",
+	"infinitivo" : "abalizar",
+	"participio" : [ "abalizado" ],
+	"gerundio" : [ "abalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "abalizo" ],
+			[ "abalizas", "abalizás" ],
+			[ "abaliza" ],
+			[ "abalizamos" ],
+			[ "abalizáis", "abalizan" ],
+			[ "abalizan" ]
+		],
+		"4" : [
+			[ "abalicé" ],
+			[ "abalizaste" ],
+			[ "abalizó" ],
+			[ "abalizamos" ],
+			[ "abalizasteis", "abalizaron" ],
+			[ "abalizaron" ]
+		],
+		"5" : [
+			[ "abalizaba" ],
+			[ "abalizabas" ],
+			[ "abalizaba" ],
+			[ "abalizábamos" ],
+			[ "abalizabais", "abalizaban" ],
+			[ "abalizaban" ]
+		],
+		"6" : [
+			[ "abalizaría" ],
+			[ "abalizarías" ],
+			[ "abalizaría" ],
+			[ "abalizaríamos" ],
+			[ "abalizaríais", "abalizarían" ],
+			[ "abalizarían" ]
+		],
+		"7" : [
+			[ "abalizaré" ],
+			[ "abalizarás" ],
+			[ "abalizará" ],
+			[ "abalizaremos" ],
+			[ "abalizaréis", "abalizarán" ],
+			[ "abalizarán" ]
+		],
+		"8" : [
+			[ "abalice" ],
+			[ "abalices" ],
+			[ "abalice" ],
+			[ "abalicemos" ],
+			[ "abalicéis", "abalicen" ],
+			[ "abalicen" ]
+		],
+		"9" : [
+			[ "abalizara" ],
+			[ "abalizaras" ],
+			[ "abalizara" ],
+			[ "abalizáramos" ],
+			[ "abalizarais", "abalizaran" ],
+			[ "abalizaran" ]
+		],
+		"10" : [
+			[ "abalizase" ],
+			[ "abalizases" ],
+			[ "abalizase" ],
+			[ "abalizásemos" ],
+			[ "abalizaseis", "abalizasen" ],
+			[ "abalizasen" ]
+		],
+		"11" : [
+			[ "abalizare" ],
+			[ "abalizares" ],
+			[ "abalizare" ],
+			[ "abalizáremos" ],
+			[ "abalizareis", "abalizaren" ],
+			[ "abalizaren" ]
+		],
+		"12" : {
+			"1" : [ "abaliza" ],
+			"2" : [ "abalice" ],
+			"3" : [ "abalicemos" ],
+			"4" : [ "abalizad" ],
+			"5" : [ "abalicen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=patalear",
+	"word" : "patalear",
+	"infinitivo" : "patalear",
+	"participio" : [ "pataleado" ],
+	"gerundio" : [ "pataleando" ],
+	"tenses" : {
+		"3" : [
+			[ "pataleo" ],
+			[ "pataleas", "pataleás" ],
+			[ "patalea" ],
+			[ "pataleamos" ],
+			[ "pataleáis", "patalean" ],
+			[ "patalean" ]
+		],
+		"4" : [
+			[ "pataleé" ],
+			[ "pataleaste" ],
+			[ "pataleó" ],
+			[ "pataleamos" ],
+			[ "pataleasteis", "patalearon" ],
+			[ "patalearon" ]
+		],
+		"5" : [
+			[ "pataleaba" ],
+			[ "pataleabas" ],
+			[ "pataleaba" ],
+			[ "pataleábamos" ],
+			[ "pataleabais", "pataleaban" ],
+			[ "pataleaban" ]
+		],
+		"6" : [
+			[ "patalearía" ],
+			[ "patalearías" ],
+			[ "patalearía" ],
+			[ "patalearíamos" ],
+			[ "patalearíais", "patalearían" ],
+			[ "patalearían" ]
+		],
+		"7" : [
+			[ "patalearé" ],
+			[ "patalearás" ],
+			[ "pataleará" ],
+			[ "patalearemos" ],
+			[ "patalearéis", "patalearán" ],
+			[ "patalearán" ]
+		],
+		"8" : [
+			[ "patalee" ],
+			[ "patalees" ],
+			[ "patalee" ],
+			[ "pataleemos" ],
+			[ "pataleéis", "pataleen" ],
+			[ "pataleen" ]
+		],
+		"9" : [
+			[ "pataleara" ],
+			[ "patalearas" ],
+			[ "pataleara" ],
+			[ "pataleáramos" ],
+			[ "patalearais", "patalearan" ],
+			[ "patalearan" ]
+		],
+		"10" : [
+			[ "patalease" ],
+			[ "pataleases" ],
+			[ "patalease" ],
+			[ "pataleásemos" ],
+			[ "pataleaseis", "pataleasen" ],
+			[ "pataleasen" ]
+		],
+		"11" : [
+			[ "pataleare" ],
+			[ "pataleares" ],
+			[ "pataleare" ],
+			[ "pataleáremos" ],
+			[ "pataleareis", "patalearen" ],
+			[ "patalearen" ]
+		],
+		"12" : {
+			"1" : [ "patalea" ],
+			"2" : [ "patalee" ],
+			"3" : [ "pataleemos" ],
+			"4" : [ "patalead" ],
+			"5" : [ "pataleen" ]
+		}
+	}
+}

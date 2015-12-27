@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prender",
+	"word" : "prender",
+	"infinitivo" : "prender",
+	"participio" : [ "prendido" ],
+	"gerundio" : [ "prendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "prendo" ],
+			[ "prendes", "prendés" ],
+			[ "prende" ],
+			[ "prendemos" ],
+			[ "prendéis", "prenden" ],
+			[ "prenden" ]
+		],
+		"4" : [
+			[ "prendí" ],
+			[ "prendiste" ],
+			[ "prendió" ],
+			[ "prendimos" ],
+			[ "prendisteis", "prendieron" ],
+			[ "prendieron" ]
+		],
+		"5" : [
+			[ "prendía" ],
+			[ "prendías" ],
+			[ "prendía" ],
+			[ "prendíamos" ],
+			[ "prendíais", "prendían" ],
+			[ "prendían" ]
+		],
+		"6" : [
+			[ "prendería" ],
+			[ "prenderías" ],
+			[ "prendería" ],
+			[ "prenderíamos" ],
+			[ "prenderíais", "prenderían" ],
+			[ "prenderían" ]
+		],
+		"7" : [
+			[ "prenderé" ],
+			[ "prenderás" ],
+			[ "prenderá" ],
+			[ "prenderemos" ],
+			[ "prenderéis", "prenderán" ],
+			[ "prenderán" ]
+		],
+		"8" : [
+			[ "prenda" ],
+			[ "prendas" ],
+			[ "prenda" ],
+			[ "prendamos" ],
+			[ "prendáis", "prendan" ],
+			[ "prendan" ]
+		],
+		"9" : [
+			[ "prendiera" ],
+			[ "prendieras" ],
+			[ "prendiera" ],
+			[ "prendiéramos" ],
+			[ "prendierais", "prendieran" ],
+			[ "prendieran" ]
+		],
+		"10" : [
+			[ "prendiese" ],
+			[ "prendieses" ],
+			[ "prendiese" ],
+			[ "prendiésemos" ],
+			[ "prendieseis", "prendiesen" ],
+			[ "prendiesen" ]
+		],
+		"11" : [
+			[ "prendiere" ],
+			[ "prendieres" ],
+			[ "prendiere" ],
+			[ "prendiéremos" ],
+			[ "prendiereis", "prendieren" ],
+			[ "prendieren" ]
+		],
+		"12" : {
+			"1" : [ "prende" ],
+			"2" : [ "prenda" ],
+			"3" : [ "prendamos" ],
+			"4" : [ "prended" ],
+			"5" : [ "prendan" ]
+		}
+	}
+}

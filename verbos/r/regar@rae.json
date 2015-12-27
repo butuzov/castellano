@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=regar",
+	"word" : "regar",
+	"infinitivo" : "regar",
+	"participio" : [ "regado" ],
+	"gerundio" : [ "regando" ],
+	"tenses" : {
+		"3" : [
+			[ "riego" ],
+			[ "riegas", "regás" ],
+			[ "riega" ],
+			[ "regamos" ],
+			[ "regáis", "riegan" ],
+			[ "riegan" ]
+		],
+		"4" : [
+			[ "regué" ],
+			[ "regaste" ],
+			[ "regó" ],
+			[ "regamos" ],
+			[ "regasteis", "regaron" ],
+			[ "regaron" ]
+		],
+		"5" : [
+			[ "regaba" ],
+			[ "regabas" ],
+			[ "regaba" ],
+			[ "regábamos" ],
+			[ "regabais", "regaban" ],
+			[ "regaban" ]
+		],
+		"6" : [
+			[ "regaría" ],
+			[ "regarías" ],
+			[ "regaría" ],
+			[ "regaríamos" ],
+			[ "regaríais", "regarían" ],
+			[ "regarían" ]
+		],
+		"7" : [
+			[ "regaré" ],
+			[ "regarás" ],
+			[ "regará" ],
+			[ "regaremos" ],
+			[ "regaréis", "regarán" ],
+			[ "regarán" ]
+		],
+		"8" : [
+			[ "riegue" ],
+			[ "riegues" ],
+			[ "riegue" ],
+			[ "reguemos" ],
+			[ "reguéis", "rieguen" ],
+			[ "rieguen" ]
+		],
+		"9" : [
+			[ "regara" ],
+			[ "regaras" ],
+			[ "regara" ],
+			[ "regáramos" ],
+			[ "regarais", "regaran" ],
+			[ "regaran" ]
+		],
+		"10" : [
+			[ "regase" ],
+			[ "regases" ],
+			[ "regase" ],
+			[ "regásemos" ],
+			[ "regaseis", "regasen" ],
+			[ "regasen" ]
+		],
+		"11" : [
+			[ "regare" ],
+			[ "regares" ],
+			[ "regare" ],
+			[ "regáremos" ],
+			[ "regareis", "regaren" ],
+			[ "regaren" ]
+		],
+		"12" : {
+			"1" : [ "riega" ],
+			"2" : [ "riegue" ],
+			"3" : [ "reguemos" ],
+			"4" : [ "regad" ],
+			"5" : [ "rieguen" ]
+		}
+	}
+}

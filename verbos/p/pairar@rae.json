@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pairar",
+	"word" : "pairar",
+	"infinitivo" : "pairar",
+	"participio" : [ "pairado" ],
+	"gerundio" : [ "pairando" ],
+	"tenses" : {
+		"3" : [
+			[ "pairo" ],
+			[ "pairas", "pairás" ],
+			[ "paira" ],
+			[ "pairamos" ],
+			[ "pairáis", "pairan" ],
+			[ "pairan" ]
+		],
+		"4" : [
+			[ "pairé" ],
+			[ "pairaste" ],
+			[ "pairó" ],
+			[ "pairamos" ],
+			[ "pairasteis", "pairaron" ],
+			[ "pairaron" ]
+		],
+		"5" : [
+			[ "pairaba" ],
+			[ "pairabas" ],
+			[ "pairaba" ],
+			[ "pairábamos" ],
+			[ "pairabais", "pairaban" ],
+			[ "pairaban" ]
+		],
+		"6" : [
+			[ "pairaría" ],
+			[ "pairarías" ],
+			[ "pairaría" ],
+			[ "pairaríamos" ],
+			[ "pairaríais", "pairarían" ],
+			[ "pairarían" ]
+		],
+		"7" : [
+			[ "pairaré" ],
+			[ "pairarás" ],
+			[ "pairará" ],
+			[ "pairaremos" ],
+			[ "pairaréis", "pairarán" ],
+			[ "pairarán" ]
+		],
+		"8" : [
+			[ "paire" ],
+			[ "paires" ],
+			[ "paire" ],
+			[ "pairemos" ],
+			[ "pairéis", "pairen" ],
+			[ "pairen" ]
+		],
+		"9" : [
+			[ "pairara" ],
+			[ "pairaras" ],
+			[ "pairara" ],
+			[ "pairáramos" ],
+			[ "pairarais", "pairaran" ],
+			[ "pairaran" ]
+		],
+		"10" : [
+			[ "pairase" ],
+			[ "pairases" ],
+			[ "pairase" ],
+			[ "pairásemos" ],
+			[ "pairaseis", "pairasen" ],
+			[ "pairasen" ]
+		],
+		"11" : [
+			[ "pairare" ],
+			[ "pairares" ],
+			[ "pairare" ],
+			[ "pairáremos" ],
+			[ "pairareis", "pairaren" ],
+			[ "pairaren" ]
+		],
+		"12" : {
+			"1" : [ "paira" ],
+			"2" : [ "paire" ],
+			"3" : [ "pairemos" ],
+			"4" : [ "pairad" ],
+			"5" : [ "pairen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=olvidar",
+	"word" : "olvidar",
+	"infinitivo" : "olvidar",
+	"participio" : [ "olvidado" ],
+	"gerundio" : [ "olvidando" ],
+	"tenses" : {
+		"3" : [
+			[ "olvido" ],
+			[ "olvidas", "olvidás" ],
+			[ "olvida" ],
+			[ "olvidamos" ],
+			[ "olvidáis", "olvidan" ],
+			[ "olvidan" ]
+		],
+		"4" : [
+			[ "olvidé" ],
+			[ "olvidaste" ],
+			[ "olvidó" ],
+			[ "olvidamos" ],
+			[ "olvidasteis", "olvidaron" ],
+			[ "olvidaron" ]
+		],
+		"5" : [
+			[ "olvidaba" ],
+			[ "olvidabas" ],
+			[ "olvidaba" ],
+			[ "olvidábamos" ],
+			[ "olvidabais", "olvidaban" ],
+			[ "olvidaban" ]
+		],
+		"6" : [
+			[ "olvidaría" ],
+			[ "olvidarías" ],
+			[ "olvidaría" ],
+			[ "olvidaríamos" ],
+			[ "olvidaríais", "olvidarían" ],
+			[ "olvidarían" ]
+		],
+		"7" : [
+			[ "olvidaré" ],
+			[ "olvidarás" ],
+			[ "olvidará" ],
+			[ "olvidaremos" ],
+			[ "olvidaréis", "olvidarán" ],
+			[ "olvidarán" ]
+		],
+		"8" : [
+			[ "olvide" ],
+			[ "olvides" ],
+			[ "olvide" ],
+			[ "olvidemos" ],
+			[ "olvidéis", "olviden" ],
+			[ "olviden" ]
+		],
+		"9" : [
+			[ "olvidara" ],
+			[ "olvidaras" ],
+			[ "olvidara" ],
+			[ "olvidáramos" ],
+			[ "olvidarais", "olvidaran" ],
+			[ "olvidaran" ]
+		],
+		"10" : [
+			[ "olvidase" ],
+			[ "olvidases" ],
+			[ "olvidase" ],
+			[ "olvidásemos" ],
+			[ "olvidaseis", "olvidasen" ],
+			[ "olvidasen" ]
+		],
+		"11" : [
+			[ "olvidare" ],
+			[ "olvidares" ],
+			[ "olvidare" ],
+			[ "olvidáremos" ],
+			[ "olvidareis", "olvidaren" ],
+			[ "olvidaren" ]
+		],
+		"12" : {
+			"1" : [ "olvida" ],
+			"2" : [ "olvide" ],
+			"3" : [ "olvidemos" ],
+			"4" : [ "olvidad" ],
+			"5" : [ "olviden" ]
+		}
+	}
+}

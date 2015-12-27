@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asomar",
+	"word" : "asomar",
+	"infinitivo" : "asomar",
+	"participio" : [ "asomado" ],
+	"gerundio" : [ "asomando" ],
+	"tenses" : {
+		"3" : [
+			[ "asomo" ],
+			[ "asomas", "asomás" ],
+			[ "asoma" ],
+			[ "asomamos" ],
+			[ "asomáis", "asoman" ],
+			[ "asoman" ]
+		],
+		"4" : [
+			[ "asomé" ],
+			[ "asomaste" ],
+			[ "asomó" ],
+			[ "asomamos" ],
+			[ "asomasteis", "asomaron" ],
+			[ "asomaron" ]
+		],
+		"5" : [
+			[ "asomaba" ],
+			[ "asomabas" ],
+			[ "asomaba" ],
+			[ "asomábamos" ],
+			[ "asomabais", "asomaban" ],
+			[ "asomaban" ]
+		],
+		"6" : [
+			[ "asomaría" ],
+			[ "asomarías" ],
+			[ "asomaría" ],
+			[ "asomaríamos" ],
+			[ "asomaríais", "asomarían" ],
+			[ "asomarían" ]
+		],
+		"7" : [
+			[ "asomaré" ],
+			[ "asomarás" ],
+			[ "asomará" ],
+			[ "asomaremos" ],
+			[ "asomaréis", "asomarán" ],
+			[ "asomarán" ]
+		],
+		"8" : [
+			[ "asome" ],
+			[ "asomes" ],
+			[ "asome" ],
+			[ "asomemos" ],
+			[ "asoméis", "asomen" ],
+			[ "asomen" ]
+		],
+		"9" : [
+			[ "asomara" ],
+			[ "asomaras" ],
+			[ "asomara" ],
+			[ "asomáramos" ],
+			[ "asomarais", "asomaran" ],
+			[ "asomaran" ]
+		],
+		"10" : [
+			[ "asomase" ],
+			[ "asomases" ],
+			[ "asomase" ],
+			[ "asomásemos" ],
+			[ "asomaseis", "asomasen" ],
+			[ "asomasen" ]
+		],
+		"11" : [
+			[ "asomare" ],
+			[ "asomares" ],
+			[ "asomare" ],
+			[ "asomáremos" ],
+			[ "asomareis", "asomaren" ],
+			[ "asomaren" ]
+		],
+		"12" : {
+			"1" : [ "asoma" ],
+			"2" : [ "asome" ],
+			"3" : [ "asomemos" ],
+			"4" : [ "asomad" ],
+			"5" : [ "asomen" ]
+		}
+	}
+}

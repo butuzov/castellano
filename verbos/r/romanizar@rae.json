@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=romanizar",
+	"word" : "romanizar",
+	"infinitivo" : "romanizar",
+	"participio" : [ "romanizado" ],
+	"gerundio" : [ "romanizando" ],
+	"tenses" : {
+		"3" : [
+			[ "romanizo" ],
+			[ "romanizas", "romanizás" ],
+			[ "romaniza" ],
+			[ "romanizamos" ],
+			[ "romanizáis", "romanizan" ],
+			[ "romanizan" ]
+		],
+		"4" : [
+			[ "romanicé" ],
+			[ "romanizaste" ],
+			[ "romanizó" ],
+			[ "romanizamos" ],
+			[ "romanizasteis", "romanizaron" ],
+			[ "romanizaron" ]
+		],
+		"5" : [
+			[ "romanizaba" ],
+			[ "romanizabas" ],
+			[ "romanizaba" ],
+			[ "romanizábamos" ],
+			[ "romanizabais", "romanizaban" ],
+			[ "romanizaban" ]
+		],
+		"6" : [
+			[ "romanizaría" ],
+			[ "romanizarías" ],
+			[ "romanizaría" ],
+			[ "romanizaríamos" ],
+			[ "romanizaríais", "romanizarían" ],
+			[ "romanizarían" ]
+		],
+		"7" : [
+			[ "romanizaré" ],
+			[ "romanizarás" ],
+			[ "romanizará" ],
+			[ "romanizaremos" ],
+			[ "romanizaréis", "romanizarán" ],
+			[ "romanizarán" ]
+		],
+		"8" : [
+			[ "romanice" ],
+			[ "romanices" ],
+			[ "romanice" ],
+			[ "romanicemos" ],
+			[ "romanicéis", "romanicen" ],
+			[ "romanicen" ]
+		],
+		"9" : [
+			[ "romanizara" ],
+			[ "romanizaras" ],
+			[ "romanizara" ],
+			[ "romanizáramos" ],
+			[ "romanizarais", "romanizaran" ],
+			[ "romanizaran" ]
+		],
+		"10" : [
+			[ "romanizase" ],
+			[ "romanizases" ],
+			[ "romanizase" ],
+			[ "romanizásemos" ],
+			[ "romanizaseis", "romanizasen" ],
+			[ "romanizasen" ]
+		],
+		"11" : [
+			[ "romanizare" ],
+			[ "romanizares" ],
+			[ "romanizare" ],
+			[ "romanizáremos" ],
+			[ "romanizareis", "romanizaren" ],
+			[ "romanizaren" ]
+		],
+		"12" : {
+			"1" : [ "romaniza" ],
+			"2" : [ "romanice" ],
+			"3" : [ "romanicemos" ],
+			"4" : [ "romanizad" ],
+			"5" : [ "romanicen" ]
+		}
+	}
+}

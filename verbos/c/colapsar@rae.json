@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=colapsar",
+	"word" : "colapsar",
+	"infinitivo" : "colapsar",
+	"participio" : [ "colapsado" ],
+	"gerundio" : [ "colapsando" ],
+	"tenses" : {
+		"3" : [
+			[ "colapso" ],
+			[ "colapsas", "colapsás" ],
+			[ "colapsa" ],
+			[ "colapsamos" ],
+			[ "colapsáis", "colapsan" ],
+			[ "colapsan" ]
+		],
+		"4" : [
+			[ "colapsé" ],
+			[ "colapsaste" ],
+			[ "colapsó" ],
+			[ "colapsamos" ],
+			[ "colapsasteis", "colapsaron" ],
+			[ "colapsaron" ]
+		],
+		"5" : [
+			[ "colapsaba" ],
+			[ "colapsabas" ],
+			[ "colapsaba" ],
+			[ "colapsábamos" ],
+			[ "colapsabais", "colapsaban" ],
+			[ "colapsaban" ]
+		],
+		"6" : [
+			[ "colapsaría" ],
+			[ "colapsarías" ],
+			[ "colapsaría" ],
+			[ "colapsaríamos" ],
+			[ "colapsaríais", "colapsarían" ],
+			[ "colapsarían" ]
+		],
+		"7" : [
+			[ "colapsaré" ],
+			[ "colapsarás" ],
+			[ "colapsará" ],
+			[ "colapsaremos" ],
+			[ "colapsaréis", "colapsarán" ],
+			[ "colapsarán" ]
+		],
+		"8" : [
+			[ "colapse" ],
+			[ "colapses" ],
+			[ "colapse" ],
+			[ "colapsemos" ],
+			[ "colapséis", "colapsen" ],
+			[ "colapsen" ]
+		],
+		"9" : [
+			[ "colapsara" ],
+			[ "colapsaras" ],
+			[ "colapsara" ],
+			[ "colapsáramos" ],
+			[ "colapsarais", "colapsaran" ],
+			[ "colapsaran" ]
+		],
+		"10" : [
+			[ "colapsase" ],
+			[ "colapsases" ],
+			[ "colapsase" ],
+			[ "colapsásemos" ],
+			[ "colapsaseis", "colapsasen" ],
+			[ "colapsasen" ]
+		],
+		"11" : [
+			[ "colapsare" ],
+			[ "colapsares" ],
+			[ "colapsare" ],
+			[ "colapsáremos" ],
+			[ "colapsareis", "colapsaren" ],
+			[ "colapsaren" ]
+		],
+		"12" : {
+			"1" : [ "colapsa" ],
+			"2" : [ "colapse" ],
+			"3" : [ "colapsemos" ],
+			"4" : [ "colapsad" ],
+			"5" : [ "colapsen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=simular",
+	"word" : "simular",
+	"infinitivo" : "simular",
+	"participio" : [ "simulado" ],
+	"gerundio" : [ "simulando" ],
+	"tenses" : {
+		"3" : [
+			[ "simulo" ],
+			[ "simulas", "simulás" ],
+			[ "simula" ],
+			[ "simulamos" ],
+			[ "simuláis", "simulan" ],
+			[ "simulan" ]
+		],
+		"4" : [
+			[ "simulé" ],
+			[ "simulaste" ],
+			[ "simuló" ],
+			[ "simulamos" ],
+			[ "simulasteis", "simularon" ],
+			[ "simularon" ]
+		],
+		"5" : [
+			[ "simulaba" ],
+			[ "simulabas" ],
+			[ "simulaba" ],
+			[ "simulábamos" ],
+			[ "simulabais", "simulaban" ],
+			[ "simulaban" ]
+		],
+		"6" : [
+			[ "simularía" ],
+			[ "simularías" ],
+			[ "simularía" ],
+			[ "simularíamos" ],
+			[ "simularíais", "simularían" ],
+			[ "simularían" ]
+		],
+		"7" : [
+			[ "simularé" ],
+			[ "simularás" ],
+			[ "simulará" ],
+			[ "simularemos" ],
+			[ "simularéis", "simularán" ],
+			[ "simularán" ]
+		],
+		"8" : [
+			[ "simule" ],
+			[ "simules" ],
+			[ "simule" ],
+			[ "simulemos" ],
+			[ "simuléis", "simulen" ],
+			[ "simulen" ]
+		],
+		"9" : [
+			[ "simulara" ],
+			[ "simularas" ],
+			[ "simulara" ],
+			[ "simuláramos" ],
+			[ "simularais", "simularan" ],
+			[ "simularan" ]
+		],
+		"10" : [
+			[ "simulase" ],
+			[ "simulases" ],
+			[ "simulase" ],
+			[ "simulásemos" ],
+			[ "simulaseis", "simulasen" ],
+			[ "simulasen" ]
+		],
+		"11" : [
+			[ "simulare" ],
+			[ "simulares" ],
+			[ "simulare" ],
+			[ "simuláremos" ],
+			[ "simulareis", "simularen" ],
+			[ "simularen" ]
+		],
+		"12" : {
+			"1" : [ "simula" ],
+			"2" : [ "simule" ],
+			"3" : [ "simulemos" ],
+			"4" : [ "simulad" ],
+			"5" : [ "simulen" ]
+		}
+	}
+}

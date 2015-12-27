@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acortar",
+	"word" : "acortar",
+	"infinitivo" : "acortar",
+	"participio" : [ "acortado" ],
+	"gerundio" : [ "acortando" ],
+	"tenses" : {
+		"3" : [
+			[ "acorto" ],
+			[ "acortas", "acortás" ],
+			[ "acorta" ],
+			[ "acortamos" ],
+			[ "acortáis", "acortan" ],
+			[ "acortan" ]
+		],
+		"4" : [
+			[ "acorté" ],
+			[ "acortaste" ],
+			[ "acortó" ],
+			[ "acortamos" ],
+			[ "acortasteis", "acortaron" ],
+			[ "acortaron" ]
+		],
+		"5" : [
+			[ "acortaba" ],
+			[ "acortabas" ],
+			[ "acortaba" ],
+			[ "acortábamos" ],
+			[ "acortabais", "acortaban" ],
+			[ "acortaban" ]
+		],
+		"6" : [
+			[ "acortaría" ],
+			[ "acortarías" ],
+			[ "acortaría" ],
+			[ "acortaríamos" ],
+			[ "acortaríais", "acortarían" ],
+			[ "acortarían" ]
+		],
+		"7" : [
+			[ "acortaré" ],
+			[ "acortarás" ],
+			[ "acortará" ],
+			[ "acortaremos" ],
+			[ "acortaréis", "acortarán" ],
+			[ "acortarán" ]
+		],
+		"8" : [
+			[ "acorte" ],
+			[ "acortes" ],
+			[ "acorte" ],
+			[ "acortemos" ],
+			[ "acortéis", "acorten" ],
+			[ "acorten" ]
+		],
+		"9" : [
+			[ "acortara" ],
+			[ "acortaras" ],
+			[ "acortara" ],
+			[ "acortáramos" ],
+			[ "acortarais", "acortaran" ],
+			[ "acortaran" ]
+		],
+		"10" : [
+			[ "acortase" ],
+			[ "acortases" ],
+			[ "acortase" ],
+			[ "acortásemos" ],
+			[ "acortaseis", "acortasen" ],
+			[ "acortasen" ]
+		],
+		"11" : [
+			[ "acortare" ],
+			[ "acortares" ],
+			[ "acortare" ],
+			[ "acortáremos" ],
+			[ "acortareis", "acortaren" ],
+			[ "acortaren" ]
+		],
+		"12" : {
+			"1" : [ "acorta" ],
+			"2" : [ "acorte" ],
+			"3" : [ "acortemos" ],
+			"4" : [ "acortad" ],
+			"5" : [ "acorten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conocer",
+	"word" : "conocer",
+	"infinitivo" : "conocer",
+	"participio" : [ "conocido" ],
+	"gerundio" : [ "conociendo" ],
+	"tenses" : {
+		"3" : [
+			[ "conozco" ],
+			[ "conoces", "conocés" ],
+			[ "conoce" ],
+			[ "conocemos" ],
+			[ "conocéis", "conocen" ],
+			[ "conocen" ]
+		],
+		"4" : [
+			[ "conocí" ],
+			[ "conociste" ],
+			[ "conoció" ],
+			[ "conocimos" ],
+			[ "conocisteis", "conocieron" ],
+			[ "conocieron" ]
+		],
+		"5" : [
+			[ "conocía" ],
+			[ "conocías" ],
+			[ "conocía" ],
+			[ "conocíamos" ],
+			[ "conocíais", "conocían" ],
+			[ "conocían" ]
+		],
+		"6" : [
+			[ "conocería" ],
+			[ "conocerías" ],
+			[ "conocería" ],
+			[ "conoceríamos" ],
+			[ "conoceríais", "conocerían" ],
+			[ "conocerían" ]
+		],
+		"7" : [
+			[ "conoceré" ],
+			[ "conocerás" ],
+			[ "conocerá" ],
+			[ "conoceremos" ],
+			[ "conoceréis", "conocerán" ],
+			[ "conocerán" ]
+		],
+		"8" : [
+			[ "conozca" ],
+			[ "conozcas" ],
+			[ "conozca" ],
+			[ "conozcamos" ],
+			[ "conozcáis", "conozcan" ],
+			[ "conozcan" ]
+		],
+		"9" : [
+			[ "conociera" ],
+			[ "conocieras" ],
+			[ "conociera" ],
+			[ "conociéramos" ],
+			[ "conocierais", "conocieran" ],
+			[ "conocieran" ]
+		],
+		"10" : [
+			[ "conociese" ],
+			[ "conocieses" ],
+			[ "conociese" ],
+			[ "conociésemos" ],
+			[ "conocieseis", "conociesen" ],
+			[ "conociesen" ]
+		],
+		"11" : [
+			[ "conociere" ],
+			[ "conocieres" ],
+			[ "conociere" ],
+			[ "conociéremos" ],
+			[ "conociereis", "conocieren" ],
+			[ "conocieren" ]
+		],
+		"12" : {
+			"1" : [ "conoce" ],
+			"2" : [ "conozca" ],
+			"3" : [ "conozcamos" ],
+			"4" : [ "conoced" ],
+			"5" : [ "conozcan" ]
+		}
+	}
+}

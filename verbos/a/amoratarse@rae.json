@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amoratarse",
+	"word" : "amoratarse",
+	"infinitivo" : "amoratarse",
+	"participio" : [ "amoratado" ],
+	"gerundio" : [ "amoratándome", "amoratándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me amorato" ],
+			[ "te amoratas", "te amoratás" ],
+			[ "se amorata" ],
+			[ "nos amoratamos" ],
+			[ "os amoratáis", "se amoratan" ],
+			[ "se amoratan" ]
+		],
+		"4" : [
+			[ "me amoraté" ],
+			[ "te amorataste" ],
+			[ "se amorató" ],
+			[ "nos amoratamos" ],
+			[ "os amoratasteis", "se amorataron" ],
+			[ "se amorataron" ]
+		],
+		"5" : [
+			[ "me amorataba" ],
+			[ "te amoratabas" ],
+			[ "se amorataba" ],
+			[ "nos amoratábamos" ],
+			[ "os amoratabais", "se amorataban" ],
+			[ "se amorataban" ]
+		],
+		"6" : [
+			[ "me amorataría" ],
+			[ "te amoratarías" ],
+			[ "se amorataría" ],
+			[ "nos amorataríamos" ],
+			[ "os amorataríais", "se amoratarían" ],
+			[ "se amoratarían" ]
+		],
+		"7" : [
+			[ "me amorataré" ],
+			[ "te amoratarás" ],
+			[ "se amoratará" ],
+			[ "nos amorataremos" ],
+			[ "os amorataréis", "se amoratarán" ],
+			[ "se amoratarán" ]
+		],
+		"8" : [
+			[ "me amorate" ],
+			[ "te amorates" ],
+			[ "se amorate" ],
+			[ "nos amoratemos" ],
+			[ "os amoratéis", "se amoraten" ],
+			[ "se amoraten" ]
+		],
+		"9" : [
+			[ "me amoratara" ],
+			[ "te amorataras" ],
+			[ "se amoratara" ],
+			[ "nos amoratáramos" ],
+			[ "os amoratarais", "se amorataran" ],
+			[ "se amorataran" ]
+		],
+		"10" : [
+			[ "me amoratase" ],
+			[ "te amoratases" ],
+			[ "se amoratase" ],
+			[ "nos amoratásemos" ],
+			[ "os amorataseis", "se amoratasen" ],
+			[ "se amoratasen" ]
+		],
+		"11" : [
+			[ "me amoratare" ],
+			[ "te amoratares" ],
+			[ "se amoratare" ],
+			[ "nos amoratáremos" ],
+			[ "os amoratareis", "se amorataren" ],
+			[ "se amorataren" ]
+		],
+		"12" : {
+			"1" : [ "amorátate" ],
+			"2" : [ "amorate" ],
+			"3" : [ "amoratemos" ],
+			"4" : [ "amorataos" ],
+			"5" : [ "amorátense" ]
+		}
+	}
+}

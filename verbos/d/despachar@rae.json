@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despachar",
+	"word" : "despachar",
+	"infinitivo" : "despachar",
+	"participio" : [ "despachado" ],
+	"gerundio" : [ "despachando" ],
+	"tenses" : {
+		"3" : [
+			[ "despacho" ],
+			[ "despachas", "despachás" ],
+			[ "despacha" ],
+			[ "despachamos" ],
+			[ "despacháis", "despachan" ],
+			[ "despachan" ]
+		],
+		"4" : [
+			[ "despaché" ],
+			[ "despachaste" ],
+			[ "despachó" ],
+			[ "despachamos" ],
+			[ "despachasteis", "despacharon" ],
+			[ "despacharon" ]
+		],
+		"5" : [
+			[ "despachaba" ],
+			[ "despachabas" ],
+			[ "despachaba" ],
+			[ "despachábamos" ],
+			[ "despachabais", "despachaban" ],
+			[ "despachaban" ]
+		],
+		"6" : [
+			[ "despacharía" ],
+			[ "despacharías" ],
+			[ "despacharía" ],
+			[ "despacharíamos" ],
+			[ "despacharíais", "despacharían" ],
+			[ "despacharían" ]
+		],
+		"7" : [
+			[ "despacharé" ],
+			[ "despacharás" ],
+			[ "despachará" ],
+			[ "despacharemos" ],
+			[ "despacharéis", "despacharán" ],
+			[ "despacharán" ]
+		],
+		"8" : [
+			[ "despache" ],
+			[ "despaches" ],
+			[ "despache" ],
+			[ "despachemos" ],
+			[ "despachéis", "despachen" ],
+			[ "despachen" ]
+		],
+		"9" : [
+			[ "despachara" ],
+			[ "despacharas" ],
+			[ "despachara" ],
+			[ "despacháramos" ],
+			[ "despacharais", "despacharan" ],
+			[ "despacharan" ]
+		],
+		"10" : [
+			[ "despachase" ],
+			[ "despachases" ],
+			[ "despachase" ],
+			[ "despachásemos" ],
+			[ "despachaseis", "despachasen" ],
+			[ "despachasen" ]
+		],
+		"11" : [
+			[ "despachare" ],
+			[ "despachares" ],
+			[ "despachare" ],
+			[ "despacháremos" ],
+			[ "despachareis", "despacharen" ],
+			[ "despacharen" ]
+		],
+		"12" : {
+			"1" : [ "despacha" ],
+			"2" : [ "despache" ],
+			"3" : [ "despachemos" ],
+			"4" : [ "despachad" ],
+			"5" : [ "despachen" ]
+		}
+	}
+}

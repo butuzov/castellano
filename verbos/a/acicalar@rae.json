@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acicalar",
+	"word" : "acicalar",
+	"infinitivo" : "acicalar",
+	"participio" : [ "acicalado" ],
+	"gerundio" : [ "acicalando" ],
+	"tenses" : {
+		"3" : [
+			[ "acicalo" ],
+			[ "acicalas", "acicalás" ],
+			[ "acicala" ],
+			[ "acicalamos" ],
+			[ "acicaláis", "acicalan" ],
+			[ "acicalan" ]
+		],
+		"4" : [
+			[ "acicalé" ],
+			[ "acicalaste" ],
+			[ "acicaló" ],
+			[ "acicalamos" ],
+			[ "acicalasteis", "acicalaron" ],
+			[ "acicalaron" ]
+		],
+		"5" : [
+			[ "acicalaba" ],
+			[ "acicalabas" ],
+			[ "acicalaba" ],
+			[ "acicalábamos" ],
+			[ "acicalabais", "acicalaban" ],
+			[ "acicalaban" ]
+		],
+		"6" : [
+			[ "acicalaría" ],
+			[ "acicalarías" ],
+			[ "acicalaría" ],
+			[ "acicalaríamos" ],
+			[ "acicalaríais", "acicalarían" ],
+			[ "acicalarían" ]
+		],
+		"7" : [
+			[ "acicalaré" ],
+			[ "acicalarás" ],
+			[ "acicalará" ],
+			[ "acicalaremos" ],
+			[ "acicalaréis", "acicalarán" ],
+			[ "acicalarán" ]
+		],
+		"8" : [
+			[ "acicale" ],
+			[ "acicales" ],
+			[ "acicale" ],
+			[ "acicalemos" ],
+			[ "acicaléis", "acicalen" ],
+			[ "acicalen" ]
+		],
+		"9" : [
+			[ "acicalara" ],
+			[ "acicalaras" ],
+			[ "acicalara" ],
+			[ "acicaláramos" ],
+			[ "acicalarais", "acicalaran" ],
+			[ "acicalaran" ]
+		],
+		"10" : [
+			[ "acicalase" ],
+			[ "acicalases" ],
+			[ "acicalase" ],
+			[ "acicalásemos" ],
+			[ "acicalaseis", "acicalasen" ],
+			[ "acicalasen" ]
+		],
+		"11" : [
+			[ "acicalare" ],
+			[ "acicalares" ],
+			[ "acicalare" ],
+			[ "acicaláremos" ],
+			[ "acicalareis", "acicalaren" ],
+			[ "acicalaren" ]
+		],
+		"12" : {
+			"1" : [ "acicala" ],
+			"2" : [ "acicale" ],
+			"3" : [ "acicalemos" ],
+			"4" : [ "acicalad" ],
+			"5" : [ "acicalen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=raer",
+	"word" : "raer",
+	"infinitivo" : "raer",
+	"participio" : [ "raído" ],
+	"gerundio" : [ "rayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "raigo", "rayo" ],
+			[ "raes", "raés" ],
+			[ "rae" ],
+			[ "raemos" ],
+			[ "raéis", "raen" ],
+			[ "raen" ]
+		],
+		"4" : [
+			[ "raí" ],
+			[ "raíste" ],
+			[ "rayó" ],
+			[ "raímos" ],
+			[ "raísteis", "rayeron" ],
+			[ "rayeron" ]
+		],
+		"5" : [
+			[ "raía" ],
+			[ "raías" ],
+			[ "raía" ],
+			[ "raíamos" ],
+			[ "raíais", "raían" ],
+			[ "raían" ]
+		],
+		"6" : [
+			[ "raería" ],
+			[ "raerías" ],
+			[ "raería" ],
+			[ "raeríamos" ],
+			[ "raeríais", "raerían" ],
+			[ "raerían" ]
+		],
+		"7" : [
+			[ "raeré" ],
+			[ "raerás" ],
+			[ "raerá" ],
+			[ "raeremos" ],
+			[ "raeréis", "raerán" ],
+			[ "raerán" ]
+		],
+		"8" : [
+			[ "raiga", "raya" ],
+			[ "raigas", "rayas" ],
+			[ "raiga", "raya" ],
+			[ "raigamos", "rayamos" ],
+			[ "raigáis", "rayáis", "raigan", "rayan" ],
+			[ "raigan", "rayan" ]
+		],
+		"9" : [
+			[ "rayera" ],
+			[ "rayeras" ],
+			[ "rayera" ],
+			[ "rayéramos" ],
+			[ "rayerais", "rayeran" ],
+			[ "rayeran" ]
+		],
+		"10" : [
+			[ "rayese" ],
+			[ "rayeses" ],
+			[ "rayese" ],
+			[ "rayésemos" ],
+			[ "rayeseis", "rayesen" ],
+			[ "rayesen" ]
+		],
+		"11" : [
+			[ "rayere" ],
+			[ "rayeres" ],
+			[ "rayere" ],
+			[ "rayéremos" ],
+			[ "rayereis", "rayeren" ],
+			[ "rayeren" ]
+		],
+		"12" : {
+			"1" : [ "rae" ],
+			"2" : [ "raiga", "raya" ],
+			"3" : [ "raigamos", "rayamos" ],
+			"4" : [ "raed" ],
+			"5" : [ "raigan", "rayan" ]
+		}
+	}
+}

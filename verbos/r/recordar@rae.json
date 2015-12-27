@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recordar",
+	"word" : "recordar",
+	"infinitivo" : "recordar",
+	"participio" : [ "recordado" ],
+	"gerundio" : [ "recordando" ],
+	"tenses" : {
+		"3" : [
+			[ "recuerdo" ],
+			[ "recuerdas", "recordás" ],
+			[ "recuerda" ],
+			[ "recordamos" ],
+			[ "recordáis", "recuerdan" ],
+			[ "recuerdan" ]
+		],
+		"4" : [
+			[ "recordé" ],
+			[ "recordaste" ],
+			[ "recordó" ],
+			[ "recordamos" ],
+			[ "recordasteis", "recordaron" ],
+			[ "recordaron" ]
+		],
+		"5" : [
+			[ "recordaba" ],
+			[ "recordabas" ],
+			[ "recordaba" ],
+			[ "recordábamos" ],
+			[ "recordabais", "recordaban" ],
+			[ "recordaban" ]
+		],
+		"6" : [
+			[ "recordaría" ],
+			[ "recordarías" ],
+			[ "recordaría" ],
+			[ "recordaríamos" ],
+			[ "recordaríais", "recordarían" ],
+			[ "recordarían" ]
+		],
+		"7" : [
+			[ "recordaré" ],
+			[ "recordarás" ],
+			[ "recordará" ],
+			[ "recordaremos" ],
+			[ "recordaréis", "recordarán" ],
+			[ "recordarán" ]
+		],
+		"8" : [
+			[ "recuerde" ],
+			[ "recuerdes" ],
+			[ "recuerde" ],
+			[ "recordemos" ],
+			[ "recordéis", "recuerden" ],
+			[ "recuerden" ]
+		],
+		"9" : [
+			[ "recordara" ],
+			[ "recordaras" ],
+			[ "recordara" ],
+			[ "recordáramos" ],
+			[ "recordarais", "recordaran" ],
+			[ "recordaran" ]
+		],
+		"10" : [
+			[ "recordase" ],
+			[ "recordases" ],
+			[ "recordase" ],
+			[ "recordásemos" ],
+			[ "recordaseis", "recordasen" ],
+			[ "recordasen" ]
+		],
+		"11" : [
+			[ "recordare" ],
+			[ "recordares" ],
+			[ "recordare" ],
+			[ "recordáremos" ],
+			[ "recordareis", "recordaren" ],
+			[ "recordaren" ]
+		],
+		"12" : {
+			"1" : [ "recuerda" ],
+			"2" : [ "recuerde" ],
+			"3" : [ "recordemos" ],
+			"4" : [ "recordad" ],
+			"5" : [ "recuerden" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vapulear",
+	"word" : "vapulear",
+	"infinitivo" : "vapulear",
+	"participio" : [ "vapuleado" ],
+	"gerundio" : [ "vapuleando" ],
+	"tenses" : {
+		"3" : [
+			[ "vapuleo" ],
+			[ "vapuleas", "vapuleás" ],
+			[ "vapulea" ],
+			[ "vapuleamos" ],
+			[ "vapuleáis", "vapulean" ],
+			[ "vapulean" ]
+		],
+		"4" : [
+			[ "vapuleé" ],
+			[ "vapuleaste" ],
+			[ "vapuleó" ],
+			[ "vapuleamos" ],
+			[ "vapuleasteis", "vapulearon" ],
+			[ "vapulearon" ]
+		],
+		"5" : [
+			[ "vapuleaba" ],
+			[ "vapuleabas" ],
+			[ "vapuleaba" ],
+			[ "vapuleábamos" ],
+			[ "vapuleabais", "vapuleaban" ],
+			[ "vapuleaban" ]
+		],
+		"6" : [
+			[ "vapulearía" ],
+			[ "vapulearías" ],
+			[ "vapulearía" ],
+			[ "vapulearíamos" ],
+			[ "vapulearíais", "vapulearían" ],
+			[ "vapulearían" ]
+		],
+		"7" : [
+			[ "vapulearé" ],
+			[ "vapulearás" ],
+			[ "vapuleará" ],
+			[ "vapulearemos" ],
+			[ "vapulearéis", "vapulearán" ],
+			[ "vapulearán" ]
+		],
+		"8" : [
+			[ "vapulee" ],
+			[ "vapulees" ],
+			[ "vapulee" ],
+			[ "vapuleemos" ],
+			[ "vapuleéis", "vapuleen" ],
+			[ "vapuleen" ]
+		],
+		"9" : [
+			[ "vapuleara" ],
+			[ "vapulearas" ],
+			[ "vapuleara" ],
+			[ "vapuleáramos" ],
+			[ "vapulearais", "vapulearan" ],
+			[ "vapulearan" ]
+		],
+		"10" : [
+			[ "vapulease" ],
+			[ "vapuleases" ],
+			[ "vapulease" ],
+			[ "vapuleásemos" ],
+			[ "vapuleaseis", "vapuleasen" ],
+			[ "vapuleasen" ]
+		],
+		"11" : [
+			[ "vapuleare" ],
+			[ "vapuleares" ],
+			[ "vapuleare" ],
+			[ "vapuleáremos" ],
+			[ "vapuleareis", "vapulearen" ],
+			[ "vapulearen" ]
+		],
+		"12" : {
+			"1" : [ "vapulea" ],
+			"2" : [ "vapulee" ],
+			"3" : [ "vapuleemos" ],
+			"4" : [ "vapulead" ],
+			"5" : [ "vapuleen" ]
+		}
+	}
+}

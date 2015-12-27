@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=restar",
+	"word" : "restar",
+	"infinitivo" : "restar",
+	"participio" : [ "restado" ],
+	"gerundio" : [ "restando" ],
+	"tenses" : {
+		"3" : [
+			[ "resto" ],
+			[ "restas", "restás" ],
+			[ "resta" ],
+			[ "restamos" ],
+			[ "restáis", "restan" ],
+			[ "restan" ]
+		],
+		"4" : [
+			[ "resté" ],
+			[ "restaste" ],
+			[ "restó" ],
+			[ "restamos" ],
+			[ "restasteis", "restaron" ],
+			[ "restaron" ]
+		],
+		"5" : [
+			[ "restaba" ],
+			[ "restabas" ],
+			[ "restaba" ],
+			[ "restábamos" ],
+			[ "restabais", "restaban" ],
+			[ "restaban" ]
+		],
+		"6" : [
+			[ "restaría" ],
+			[ "restarías" ],
+			[ "restaría" ],
+			[ "restaríamos" ],
+			[ "restaríais", "restarían" ],
+			[ "restarían" ]
+		],
+		"7" : [
+			[ "restaré" ],
+			[ "restarás" ],
+			[ "restará" ],
+			[ "restaremos" ],
+			[ "restaréis", "restarán" ],
+			[ "restarán" ]
+		],
+		"8" : [
+			[ "reste" ],
+			[ "restes" ],
+			[ "reste" ],
+			[ "restemos" ],
+			[ "restéis", "resten" ],
+			[ "resten" ]
+		],
+		"9" : [
+			[ "restara" ],
+			[ "restaras" ],
+			[ "restara" ],
+			[ "restáramos" ],
+			[ "restarais", "restaran" ],
+			[ "restaran" ]
+		],
+		"10" : [
+			[ "restase" ],
+			[ "restases" ],
+			[ "restase" ],
+			[ "restásemos" ],
+			[ "restaseis", "restasen" ],
+			[ "restasen" ]
+		],
+		"11" : [
+			[ "restare" ],
+			[ "restares" ],
+			[ "restare" ],
+			[ "restáremos" ],
+			[ "restareis", "restaren" ],
+			[ "restaren" ]
+		],
+		"12" : {
+			"1" : [ "resta" ],
+			"2" : [ "reste" ],
+			"3" : [ "restemos" ],
+			"4" : [ "restad" ],
+			"5" : [ "resten" ]
+		}
+	}
+}

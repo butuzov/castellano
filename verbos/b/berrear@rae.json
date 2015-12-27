@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=berrear",
+	"word" : "berrear",
+	"infinitivo" : "berrear",
+	"participio" : [ "berreado" ],
+	"gerundio" : [ "berreando" ],
+	"tenses" : {
+		"3" : [
+			[ "berreo" ],
+			[ "berreas", "berreás" ],
+			[ "berrea" ],
+			[ "berreamos" ],
+			[ "berreáis", "berrean" ],
+			[ "berrean" ]
+		],
+		"4" : [
+			[ "berreé" ],
+			[ "berreaste" ],
+			[ "berreó" ],
+			[ "berreamos" ],
+			[ "berreasteis", "berrearon" ],
+			[ "berrearon" ]
+		],
+		"5" : [
+			[ "berreaba" ],
+			[ "berreabas" ],
+			[ "berreaba" ],
+			[ "berreábamos" ],
+			[ "berreabais", "berreaban" ],
+			[ "berreaban" ]
+		],
+		"6" : [
+			[ "berrearía" ],
+			[ "berrearías" ],
+			[ "berrearía" ],
+			[ "berrearíamos" ],
+			[ "berrearíais", "berrearían" ],
+			[ "berrearían" ]
+		],
+		"7" : [
+			[ "berrearé" ],
+			[ "berrearás" ],
+			[ "berreará" ],
+			[ "berrearemos" ],
+			[ "berrearéis", "berrearán" ],
+			[ "berrearán" ]
+		],
+		"8" : [
+			[ "berree" ],
+			[ "berrees" ],
+			[ "berree" ],
+			[ "berreemos" ],
+			[ "berreéis", "berreen" ],
+			[ "berreen" ]
+		],
+		"9" : [
+			[ "berreara" ],
+			[ "berrearas" ],
+			[ "berreara" ],
+			[ "berreáramos" ],
+			[ "berrearais", "berrearan" ],
+			[ "berrearan" ]
+		],
+		"10" : [
+			[ "berrease" ],
+			[ "berreases" ],
+			[ "berrease" ],
+			[ "berreásemos" ],
+			[ "berreaseis", "berreasen" ],
+			[ "berreasen" ]
+		],
+		"11" : [
+			[ "berreare" ],
+			[ "berreares" ],
+			[ "berreare" ],
+			[ "berreáremos" ],
+			[ "berreareis", "berrearen" ],
+			[ "berrearen" ]
+		],
+		"12" : {
+			"1" : [ "berrea" ],
+			"2" : [ "berree" ],
+			"3" : [ "berreemos" ],
+			"4" : [ "berread" ],
+			"5" : [ "berreen" ]
+		}
+	}
+}

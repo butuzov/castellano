@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sorprender",
+	"word" : "sorprender",
+	"infinitivo" : "sorprender",
+	"participio" : [ "sorprendido" ],
+	"gerundio" : [ "sorprendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sorprendo" ],
+			[ "sorprendes", "sorprendés" ],
+			[ "sorprende" ],
+			[ "sorprendemos" ],
+			[ "sorprendéis", "sorprenden" ],
+			[ "sorprenden" ]
+		],
+		"4" : [
+			[ "sorprendí" ],
+			[ "sorprendiste" ],
+			[ "sorprendió" ],
+			[ "sorprendimos" ],
+			[ "sorprendisteis", "sorprendieron" ],
+			[ "sorprendieron" ]
+		],
+		"5" : [
+			[ "sorprendía" ],
+			[ "sorprendías" ],
+			[ "sorprendía" ],
+			[ "sorprendíamos" ],
+			[ "sorprendíais", "sorprendían" ],
+			[ "sorprendían" ]
+		],
+		"6" : [
+			[ "sorprendería" ],
+			[ "sorprenderías" ],
+			[ "sorprendería" ],
+			[ "sorprenderíamos" ],
+			[ "sorprenderíais", "sorprenderían" ],
+			[ "sorprenderían" ]
+		],
+		"7" : [
+			[ "sorprenderé" ],
+			[ "sorprenderás" ],
+			[ "sorprenderá" ],
+			[ "sorprenderemos" ],
+			[ "sorprenderéis", "sorprenderán" ],
+			[ "sorprenderán" ]
+		],
+		"8" : [
+			[ "sorprenda" ],
+			[ "sorprendas" ],
+			[ "sorprenda" ],
+			[ "sorprendamos" ],
+			[ "sorprendáis", "sorprendan" ],
+			[ "sorprendan" ]
+		],
+		"9" : [
+			[ "sorprendiera" ],
+			[ "sorprendieras" ],
+			[ "sorprendiera" ],
+			[ "sorprendiéramos" ],
+			[ "sorprendierais", "sorprendieran" ],
+			[ "sorprendieran" ]
+		],
+		"10" : [
+			[ "sorprendiese" ],
+			[ "sorprendieses" ],
+			[ "sorprendiese" ],
+			[ "sorprendiésemos" ],
+			[ "sorprendieseis", "sorprendiesen" ],
+			[ "sorprendiesen" ]
+		],
+		"11" : [
+			[ "sorprendiere" ],
+			[ "sorprendieres" ],
+			[ "sorprendiere" ],
+			[ "sorprendiéremos" ],
+			[ "sorprendiereis", "sorprendieren" ],
+			[ "sorprendieren" ]
+		],
+		"12" : {
+			"1" : [ "sorprende" ],
+			"2" : [ "sorprenda" ],
+			"3" : [ "sorprendamos" ],
+			"4" : [ "sorprended" ],
+			"5" : [ "sorprendan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enlistar",
+	"word" : "enlistar",
+	"infinitivo" : "enlistar",
+	"participio" : [ "enlistado" ],
+	"gerundio" : [ "enlistando" ],
+	"tenses" : {
+		"3" : [
+			[ "enlisto" ],
+			[ "enlistas", "enlistás" ],
+			[ "enlista" ],
+			[ "enlistamos" ],
+			[ "enlistáis", "enlistan" ],
+			[ "enlistan" ]
+		],
+		"4" : [
+			[ "enlisté" ],
+			[ "enlistaste" ],
+			[ "enlistó" ],
+			[ "enlistamos" ],
+			[ "enlistasteis", "enlistaron" ],
+			[ "enlistaron" ]
+		],
+		"5" : [
+			[ "enlistaba" ],
+			[ "enlistabas" ],
+			[ "enlistaba" ],
+			[ "enlistábamos" ],
+			[ "enlistabais", "enlistaban" ],
+			[ "enlistaban" ]
+		],
+		"6" : [
+			[ "enlistaría" ],
+			[ "enlistarías" ],
+			[ "enlistaría" ],
+			[ "enlistaríamos" ],
+			[ "enlistaríais", "enlistarían" ],
+			[ "enlistarían" ]
+		],
+		"7" : [
+			[ "enlistaré" ],
+			[ "enlistarás" ],
+			[ "enlistará" ],
+			[ "enlistaremos" ],
+			[ "enlistaréis", "enlistarán" ],
+			[ "enlistarán" ]
+		],
+		"8" : [
+			[ "enliste" ],
+			[ "enlistes" ],
+			[ "enliste" ],
+			[ "enlistemos" ],
+			[ "enlistéis", "enlisten" ],
+			[ "enlisten" ]
+		],
+		"9" : [
+			[ "enlistara" ],
+			[ "enlistaras" ],
+			[ "enlistara" ],
+			[ "enlistáramos" ],
+			[ "enlistarais", "enlistaran" ],
+			[ "enlistaran" ]
+		],
+		"10" : [
+			[ "enlistase" ],
+			[ "enlistases" ],
+			[ "enlistase" ],
+			[ "enlistásemos" ],
+			[ "enlistaseis", "enlistasen" ],
+			[ "enlistasen" ]
+		],
+		"11" : [
+			[ "enlistare" ],
+			[ "enlistares" ],
+			[ "enlistare" ],
+			[ "enlistáremos" ],
+			[ "enlistareis", "enlistaren" ],
+			[ "enlistaren" ]
+		],
+		"12" : {
+			"1" : [ "enlista" ],
+			"2" : [ "enliste" ],
+			"3" : [ "enlistemos" ],
+			"4" : [ "enlistad" ],
+			"5" : [ "enlisten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ahorcar",
+	"word" : "ahorcar",
+	"infinitivo" : "ahorcar",
+	"participio" : [ "ahorcado" ],
+	"gerundio" : [ "ahorcando" ],
+	"tenses" : {
+		"3" : [
+			[ "ahorco" ],
+			[ "ahorcas", "ahorcás" ],
+			[ "ahorca" ],
+			[ "ahorcamos" ],
+			[ "ahorcáis", "ahorcan" ],
+			[ "ahorcan" ]
+		],
+		"4" : [
+			[ "ahorqué" ],
+			[ "ahorcaste" ],
+			[ "ahorcó" ],
+			[ "ahorcamos" ],
+			[ "ahorcasteis", "ahorcaron" ],
+			[ "ahorcaron" ]
+		],
+		"5" : [
+			[ "ahorcaba" ],
+			[ "ahorcabas" ],
+			[ "ahorcaba" ],
+			[ "ahorcábamos" ],
+			[ "ahorcabais", "ahorcaban" ],
+			[ "ahorcaban" ]
+		],
+		"6" : [
+			[ "ahorcaría" ],
+			[ "ahorcarías" ],
+			[ "ahorcaría" ],
+			[ "ahorcaríamos" ],
+			[ "ahorcaríais", "ahorcarían" ],
+			[ "ahorcarían" ]
+		],
+		"7" : [
+			[ "ahorcaré" ],
+			[ "ahorcarás" ],
+			[ "ahorcará" ],
+			[ "ahorcaremos" ],
+			[ "ahorcaréis", "ahorcarán" ],
+			[ "ahorcarán" ]
+		],
+		"8" : [
+			[ "ahorque" ],
+			[ "ahorques" ],
+			[ "ahorque" ],
+			[ "ahorquemos" ],
+			[ "ahorquéis", "ahorquen" ],
+			[ "ahorquen" ]
+		],
+		"9" : [
+			[ "ahorcara" ],
+			[ "ahorcaras" ],
+			[ "ahorcara" ],
+			[ "ahorcáramos" ],
+			[ "ahorcarais", "ahorcaran" ],
+			[ "ahorcaran" ]
+		],
+		"10" : [
+			[ "ahorcase" ],
+			[ "ahorcases" ],
+			[ "ahorcase" ],
+			[ "ahorcásemos" ],
+			[ "ahorcaseis", "ahorcasen" ],
+			[ "ahorcasen" ]
+		],
+		"11" : [
+			[ "ahorcare" ],
+			[ "ahorcares" ],
+			[ "ahorcare" ],
+			[ "ahorcáremos" ],
+			[ "ahorcareis", "ahorcaren" ],
+			[ "ahorcaren" ]
+		],
+		"12" : {
+			"1" : [ "ahorca" ],
+			"2" : [ "ahorque" ],
+			"3" : [ "ahorquemos" ],
+			"4" : [ "ahorcad" ],
+			"5" : [ "ahorquen" ]
+		}
+	}
+}

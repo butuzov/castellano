@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=diferir",
+	"word" : "diferir",
+	"infinitivo" : "diferir",
+	"participio" : [ "diferido" ],
+	"gerundio" : [ "difiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "difiero" ],
+			[ "difieres", "diferís" ],
+			[ "difiere" ],
+			[ "diferimos" ],
+			[ "diferís", "difieren" ],
+			[ "difieren" ]
+		],
+		"4" : [
+			[ "diferí" ],
+			[ "diferiste" ],
+			[ "difirió" ],
+			[ "diferimos" ],
+			[ "diferisteis", "difirieron" ],
+			[ "difirieron" ]
+		],
+		"5" : [
+			[ "difería" ],
+			[ "diferías" ],
+			[ "difería" ],
+			[ "diferíamos" ],
+			[ "diferíais", "diferían" ],
+			[ "diferían" ]
+		],
+		"6" : [
+			[ "diferiría" ],
+			[ "diferirías" ],
+			[ "diferiría" ],
+			[ "diferiríamos" ],
+			[ "diferiríais", "diferirían" ],
+			[ "diferirían" ]
+		],
+		"7" : [
+			[ "diferiré" ],
+			[ "diferirás" ],
+			[ "diferirá" ],
+			[ "diferiremos" ],
+			[ "diferiréis", "diferirán" ],
+			[ "diferirán" ]
+		],
+		"8" : [
+			[ "difiera" ],
+			[ "difieras" ],
+			[ "difiera" ],
+			[ "difiramos" ],
+			[ "difiráis", "difieran" ],
+			[ "difieran" ]
+		],
+		"9" : [
+			[ "difiriera" ],
+			[ "difirieras" ],
+			[ "difiriera" ],
+			[ "difiriéramos" ],
+			[ "difirierais", "difirieran" ],
+			[ "difirieran" ]
+		],
+		"10" : [
+			[ "difiriese" ],
+			[ "difirieses" ],
+			[ "difiriese" ],
+			[ "difiriésemos" ],
+			[ "difirieseis", "difiriesen" ],
+			[ "difiriesen" ]
+		],
+		"11" : [
+			[ "difiriere" ],
+			[ "difirieres" ],
+			[ "difiriere" ],
+			[ "difiriéremos" ],
+			[ "difiriereis", "difirieren" ],
+			[ "difirieren" ]
+		],
+		"12" : {
+			"1" : [ "difiere" ],
+			"2" : [ "difiera" ],
+			"3" : [ "difiramos" ],
+			"4" : [ "diferid" ],
+			"5" : [ "difieran" ]
+		}
+	}
+}

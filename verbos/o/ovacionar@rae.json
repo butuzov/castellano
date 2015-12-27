@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ovacionar",
+	"word" : "ovacionar",
+	"infinitivo" : "ovacionar",
+	"participio" : [ "ovacionado" ],
+	"gerundio" : [ "ovacionando" ],
+	"tenses" : {
+		"3" : [
+			[ "ovaciono" ],
+			[ "ovacionas", "ovacionás" ],
+			[ "ovaciona" ],
+			[ "ovacionamos" ],
+			[ "ovacionáis", "ovacionan" ],
+			[ "ovacionan" ]
+		],
+		"4" : [
+			[ "ovacioné" ],
+			[ "ovacionaste" ],
+			[ "ovacionó" ],
+			[ "ovacionamos" ],
+			[ "ovacionasteis", "ovacionaron" ],
+			[ "ovacionaron" ]
+		],
+		"5" : [
+			[ "ovacionaba" ],
+			[ "ovacionabas" ],
+			[ "ovacionaba" ],
+			[ "ovacionábamos" ],
+			[ "ovacionabais", "ovacionaban" ],
+			[ "ovacionaban" ]
+		],
+		"6" : [
+			[ "ovacionaría" ],
+			[ "ovacionarías" ],
+			[ "ovacionaría" ],
+			[ "ovacionaríamos" ],
+			[ "ovacionaríais", "ovacionarían" ],
+			[ "ovacionarían" ]
+		],
+		"7" : [
+			[ "ovacionaré" ],
+			[ "ovacionarás" ],
+			[ "ovacionará" ],
+			[ "ovacionaremos" ],
+			[ "ovacionaréis", "ovacionarán" ],
+			[ "ovacionarán" ]
+		],
+		"8" : [
+			[ "ovacione" ],
+			[ "ovaciones" ],
+			[ "ovacione" ],
+			[ "ovacionemos" ],
+			[ "ovacionéis", "ovacionen" ],
+			[ "ovacionen" ]
+		],
+		"9" : [
+			[ "ovacionara" ],
+			[ "ovacionaras" ],
+			[ "ovacionara" ],
+			[ "ovacionáramos" ],
+			[ "ovacionarais", "ovacionaran" ],
+			[ "ovacionaran" ]
+		],
+		"10" : [
+			[ "ovacionase" ],
+			[ "ovacionases" ],
+			[ "ovacionase" ],
+			[ "ovacionásemos" ],
+			[ "ovacionaseis", "ovacionasen" ],
+			[ "ovacionasen" ]
+		],
+		"11" : [
+			[ "ovacionare" ],
+			[ "ovacionares" ],
+			[ "ovacionare" ],
+			[ "ovacionáremos" ],
+			[ "ovacionareis", "ovacionaren" ],
+			[ "ovacionaren" ]
+		],
+		"12" : {
+			"1" : [ "ovaciona" ],
+			"2" : [ "ovacione" ],
+			"3" : [ "ovacionemos" ],
+			"4" : [ "ovacionad" ],
+			"5" : [ "ovacionen" ]
+		}
+	}
+}

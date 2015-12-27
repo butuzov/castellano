@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bracear",
+	"word" : "bracear",
+	"infinitivo" : "bracear",
+	"participio" : [ "braceado" ],
+	"gerundio" : [ "braceando" ],
+	"tenses" : {
+		"3" : [
+			[ "braceo" ],
+			[ "braceas", "braceás" ],
+			[ "bracea" ],
+			[ "braceamos" ],
+			[ "braceáis", "bracean" ],
+			[ "bracean" ]
+		],
+		"4" : [
+			[ "braceé" ],
+			[ "braceaste" ],
+			[ "braceó" ],
+			[ "braceamos" ],
+			[ "braceasteis", "bracearon" ],
+			[ "bracearon" ]
+		],
+		"5" : [
+			[ "braceaba" ],
+			[ "braceabas" ],
+			[ "braceaba" ],
+			[ "braceábamos" ],
+			[ "braceabais", "braceaban" ],
+			[ "braceaban" ]
+		],
+		"6" : [
+			[ "bracearía" ],
+			[ "bracearías" ],
+			[ "bracearía" ],
+			[ "bracearíamos" ],
+			[ "bracearíais", "bracearían" ],
+			[ "bracearían" ]
+		],
+		"7" : [
+			[ "bracearé" ],
+			[ "bracearás" ],
+			[ "braceará" ],
+			[ "bracearemos" ],
+			[ "bracearéis", "bracearán" ],
+			[ "bracearán" ]
+		],
+		"8" : [
+			[ "bracee" ],
+			[ "bracees" ],
+			[ "bracee" ],
+			[ "braceemos" ],
+			[ "braceéis", "braceen" ],
+			[ "braceen" ]
+		],
+		"9" : [
+			[ "braceara" ],
+			[ "bracearas" ],
+			[ "braceara" ],
+			[ "braceáramos" ],
+			[ "bracearais", "bracearan" ],
+			[ "bracearan" ]
+		],
+		"10" : [
+			[ "bracease" ],
+			[ "braceases" ],
+			[ "bracease" ],
+			[ "braceásemos" ],
+			[ "braceaseis", "braceasen" ],
+			[ "braceasen" ]
+		],
+		"11" : [
+			[ "braceare" ],
+			[ "braceares" ],
+			[ "braceare" ],
+			[ "braceáremos" ],
+			[ "braceareis", "bracearen" ],
+			[ "bracearen" ]
+		],
+		"12" : {
+			"1" : [ "bracea" ],
+			"2" : [ "bracee" ],
+			"3" : [ "braceemos" ],
+			"4" : [ "bracead" ],
+			"5" : [ "braceen" ]
+		}
+	}
+}

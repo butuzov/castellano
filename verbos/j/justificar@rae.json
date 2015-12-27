@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=justificar",
+	"word" : "justificar",
+	"infinitivo" : "justificar",
+	"participio" : [ "justificado" ],
+	"gerundio" : [ "justificando" ],
+	"tenses" : {
+		"3" : [
+			[ "justifico" ],
+			[ "justificas", "justificás" ],
+			[ "justifica" ],
+			[ "justificamos" ],
+			[ "justificáis", "justifican" ],
+			[ "justifican" ]
+		],
+		"4" : [
+			[ "justifiqué" ],
+			[ "justificaste" ],
+			[ "justificó" ],
+			[ "justificamos" ],
+			[ "justificasteis", "justificaron" ],
+			[ "justificaron" ]
+		],
+		"5" : [
+			[ "justificaba" ],
+			[ "justificabas" ],
+			[ "justificaba" ],
+			[ "justificábamos" ],
+			[ "justificabais", "justificaban" ],
+			[ "justificaban" ]
+		],
+		"6" : [
+			[ "justificaría" ],
+			[ "justificarías" ],
+			[ "justificaría" ],
+			[ "justificaríamos" ],
+			[ "justificaríais", "justificarían" ],
+			[ "justificarían" ]
+		],
+		"7" : [
+			[ "justificaré" ],
+			[ "justificarás" ],
+			[ "justificará" ],
+			[ "justificaremos" ],
+			[ "justificaréis", "justificarán" ],
+			[ "justificarán" ]
+		],
+		"8" : [
+			[ "justifique" ],
+			[ "justifiques" ],
+			[ "justifique" ],
+			[ "justifiquemos" ],
+			[ "justifiquéis", "justifiquen" ],
+			[ "justifiquen" ]
+		],
+		"9" : [
+			[ "justificara" ],
+			[ "justificaras" ],
+			[ "justificara" ],
+			[ "justificáramos" ],
+			[ "justificarais", "justificaran" ],
+			[ "justificaran" ]
+		],
+		"10" : [
+			[ "justificase" ],
+			[ "justificases" ],
+			[ "justificase" ],
+			[ "justificásemos" ],
+			[ "justificaseis", "justificasen" ],
+			[ "justificasen" ]
+		],
+		"11" : [
+			[ "justificare" ],
+			[ "justificares" ],
+			[ "justificare" ],
+			[ "justificáremos" ],
+			[ "justificareis", "justificaren" ],
+			[ "justificaren" ]
+		],
+		"12" : {
+			"1" : [ "justifica" ],
+			"2" : [ "justifique" ],
+			"3" : [ "justifiquemos" ],
+			"4" : [ "justificad" ],
+			"5" : [ "justifiquen" ]
+		}
+	}
+}

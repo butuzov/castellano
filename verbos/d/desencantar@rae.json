@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desencantar",
+	"word" : "desencantar",
+	"infinitivo" : "desencantar",
+	"participio" : [ "desencantado" ],
+	"gerundio" : [ "desencantando" ],
+	"tenses" : {
+		"3" : [
+			[ "desencanto" ],
+			[ "desencantas", "desencantás" ],
+			[ "desencanta" ],
+			[ "desencantamos" ],
+			[ "desencantáis", "desencantan" ],
+			[ "desencantan" ]
+		],
+		"4" : [
+			[ "desencanté" ],
+			[ "desencantaste" ],
+			[ "desencantó" ],
+			[ "desencantamos" ],
+			[ "desencantasteis", "desencantaron" ],
+			[ "desencantaron" ]
+		],
+		"5" : [
+			[ "desencantaba" ],
+			[ "desencantabas" ],
+			[ "desencantaba" ],
+			[ "desencantábamos" ],
+			[ "desencantabais", "desencantaban" ],
+			[ "desencantaban" ]
+		],
+		"6" : [
+			[ "desencantaría" ],
+			[ "desencantarías" ],
+			[ "desencantaría" ],
+			[ "desencantaríamos" ],
+			[ "desencantaríais", "desencantarían" ],
+			[ "desencantarían" ]
+		],
+		"7" : [
+			[ "desencantaré" ],
+			[ "desencantarás" ],
+			[ "desencantará" ],
+			[ "desencantaremos" ],
+			[ "desencantaréis", "desencantarán" ],
+			[ "desencantarán" ]
+		],
+		"8" : [
+			[ "desencante" ],
+			[ "desencantes" ],
+			[ "desencante" ],
+			[ "desencantemos" ],
+			[ "desencantéis", "desencanten" ],
+			[ "desencanten" ]
+		],
+		"9" : [
+			[ "desencantara" ],
+			[ "desencantaras" ],
+			[ "desencantara" ],
+			[ "desencantáramos" ],
+			[ "desencantarais", "desencantaran" ],
+			[ "desencantaran" ]
+		],
+		"10" : [
+			[ "desencantase" ],
+			[ "desencantases" ],
+			[ "desencantase" ],
+			[ "desencantásemos" ],
+			[ "desencantaseis", "desencantasen" ],
+			[ "desencantasen" ]
+		],
+		"11" : [
+			[ "desencantare" ],
+			[ "desencantares" ],
+			[ "desencantare" ],
+			[ "desencantáremos" ],
+			[ "desencantareis", "desencantaren" ],
+			[ "desencantaren" ]
+		],
+		"12" : {
+			"1" : [ "desencanta" ],
+			"2" : [ "desencante" ],
+			"3" : [ "desencantemos" ],
+			"4" : [ "desencantad" ],
+			"5" : [ "desencanten" ]
+		}
+	}
+}

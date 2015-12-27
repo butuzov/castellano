@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empachar",
+	"word" : "empachar",
+	"infinitivo" : "empachar",
+	"participio" : [ "empachado" ],
+	"gerundio" : [ "empachando" ],
+	"tenses" : {
+		"3" : [
+			[ "empacho" ],
+			[ "empachas", "empachás" ],
+			[ "empacha" ],
+			[ "empachamos" ],
+			[ "empacháis", "empachan" ],
+			[ "empachan" ]
+		],
+		"4" : [
+			[ "empaché" ],
+			[ "empachaste" ],
+			[ "empachó" ],
+			[ "empachamos" ],
+			[ "empachasteis", "empacharon" ],
+			[ "empacharon" ]
+		],
+		"5" : [
+			[ "empachaba" ],
+			[ "empachabas" ],
+			[ "empachaba" ],
+			[ "empachábamos" ],
+			[ "empachabais", "empachaban" ],
+			[ "empachaban" ]
+		],
+		"6" : [
+			[ "empacharía" ],
+			[ "empacharías" ],
+			[ "empacharía" ],
+			[ "empacharíamos" ],
+			[ "empacharíais", "empacharían" ],
+			[ "empacharían" ]
+		],
+		"7" : [
+			[ "empacharé" ],
+			[ "empacharás" ],
+			[ "empachará" ],
+			[ "empacharemos" ],
+			[ "empacharéis", "empacharán" ],
+			[ "empacharán" ]
+		],
+		"8" : [
+			[ "empache" ],
+			[ "empaches" ],
+			[ "empache" ],
+			[ "empachemos" ],
+			[ "empachéis", "empachen" ],
+			[ "empachen" ]
+		],
+		"9" : [
+			[ "empachara" ],
+			[ "empacharas" ],
+			[ "empachara" ],
+			[ "empacháramos" ],
+			[ "empacharais", "empacharan" ],
+			[ "empacharan" ]
+		],
+		"10" : [
+			[ "empachase" ],
+			[ "empachases" ],
+			[ "empachase" ],
+			[ "empachásemos" ],
+			[ "empachaseis", "empachasen" ],
+			[ "empachasen" ]
+		],
+		"11" : [
+			[ "empachare" ],
+			[ "empachares" ],
+			[ "empachare" ],
+			[ "empacháremos" ],
+			[ "empachareis", "empacharen" ],
+			[ "empacharen" ]
+		],
+		"12" : {
+			"1" : [ "empacha" ],
+			"2" : [ "empache" ],
+			"3" : [ "empachemos" ],
+			"4" : [ "empachad" ],
+			"5" : [ "empachen" ]
+		}
+	}
+}

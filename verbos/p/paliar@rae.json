@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=paliar",
+	"word" : "paliar",
+	"infinitivo" : "paliar",
+	"participio" : [ "paliado" ],
+	"gerundio" : [ "paliando" ],
+	"tenses" : {
+		"3" : [
+			[ "palío" ],
+			[ "palías", "paliás" ],
+			[ "palía" ],
+			[ "paliamos" ],
+			[ "paliáis", "palían" ],
+			[ "palían" ]
+		],
+		"4" : [
+			[ "palié" ],
+			[ "paliaste" ],
+			[ "palió" ],
+			[ "paliamos" ],
+			[ "paliasteis", "paliaron" ],
+			[ "paliaron" ]
+		],
+		"5" : [
+			[ "paliaba" ],
+			[ "paliabas" ],
+			[ "paliaba" ],
+			[ "paliábamos" ],
+			[ "paliabais", "paliaban" ],
+			[ "paliaban" ]
+		],
+		"6" : [
+			[ "paliaría" ],
+			[ "paliarías" ],
+			[ "paliaría" ],
+			[ "paliaríamos" ],
+			[ "paliaríais", "paliarían" ],
+			[ "paliarían" ]
+		],
+		"7" : [
+			[ "paliaré" ],
+			[ "paliarás" ],
+			[ "paliará" ],
+			[ "paliaremos" ],
+			[ "paliaréis", "paliarán" ],
+			[ "paliarán" ]
+		],
+		"8" : [
+			[ "palíe" ],
+			[ "palíes" ],
+			[ "palíe" ],
+			[ "paliemos" ],
+			[ "paliéis", "palíen" ],
+			[ "palíen" ]
+		],
+		"9" : [
+			[ "paliara" ],
+			[ "paliaras" ],
+			[ "paliara" ],
+			[ "paliáramos" ],
+			[ "paliarais", "paliaran" ],
+			[ "paliaran" ]
+		],
+		"10" : [
+			[ "paliase" ],
+			[ "paliases" ],
+			[ "paliase" ],
+			[ "paliásemos" ],
+			[ "paliaseis", "paliasen" ],
+			[ "paliasen" ]
+		],
+		"11" : [
+			[ "paliare" ],
+			[ "paliares" ],
+			[ "paliare" ],
+			[ "paliáremos" ],
+			[ "paliareis", "paliaren" ],
+			[ "paliaren" ]
+		],
+		"12" : {
+			"1" : [ "palía" ],
+			"2" : [ "palíe" ],
+			"3" : [ "paliemos" ],
+			"4" : [ "paliad" ],
+			"5" : [ "palíen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=augurar",
+	"word" : "augurar",
+	"infinitivo" : "augurar",
+	"participio" : [ "augurado" ],
+	"gerundio" : [ "augurando" ],
+	"tenses" : {
+		"3" : [
+			[ "auguro" ],
+			[ "auguras", "augurás" ],
+			[ "augura" ],
+			[ "auguramos" ],
+			[ "auguráis", "auguran" ],
+			[ "auguran" ]
+		],
+		"4" : [
+			[ "auguré" ],
+			[ "auguraste" ],
+			[ "auguró" ],
+			[ "auguramos" ],
+			[ "augurasteis", "auguraron" ],
+			[ "auguraron" ]
+		],
+		"5" : [
+			[ "auguraba" ],
+			[ "augurabas" ],
+			[ "auguraba" ],
+			[ "augurábamos" ],
+			[ "augurabais", "auguraban" ],
+			[ "auguraban" ]
+		],
+		"6" : [
+			[ "auguraría" ],
+			[ "augurarías" ],
+			[ "auguraría" ],
+			[ "auguraríamos" ],
+			[ "auguraríais", "augurarían" ],
+			[ "augurarían" ]
+		],
+		"7" : [
+			[ "auguraré" ],
+			[ "augurarás" ],
+			[ "augurará" ],
+			[ "auguraremos" ],
+			[ "auguraréis", "augurarán" ],
+			[ "augurarán" ]
+		],
+		"8" : [
+			[ "augure" ],
+			[ "augures" ],
+			[ "augure" ],
+			[ "auguremos" ],
+			[ "auguréis", "auguren" ],
+			[ "auguren" ]
+		],
+		"9" : [
+			[ "augurara" ],
+			[ "auguraras" ],
+			[ "augurara" ],
+			[ "auguráramos" ],
+			[ "augurarais", "auguraran" ],
+			[ "auguraran" ]
+		],
+		"10" : [
+			[ "augurase" ],
+			[ "augurases" ],
+			[ "augurase" ],
+			[ "augurásemos" ],
+			[ "auguraseis", "augurasen" ],
+			[ "augurasen" ]
+		],
+		"11" : [
+			[ "augurare" ],
+			[ "augurares" ],
+			[ "augurare" ],
+			[ "auguráremos" ],
+			[ "augurareis", "auguraren" ],
+			[ "auguraren" ]
+		],
+		"12" : {
+			"1" : [ "augura" ],
+			"2" : [ "augure" ],
+			"3" : [ "auguremos" ],
+			"4" : [ "augurad" ],
+			"5" : [ "auguren" ]
+		}
+	}
+}

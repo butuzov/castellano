@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrasar",
+	"word" : "arrasar",
+	"infinitivo" : "arrasar",
+	"participio" : [ "arrasado" ],
+	"gerundio" : [ "arrasando" ],
+	"tenses" : {
+		"3" : [
+			[ "arraso" ],
+			[ "arrasas", "arrasás" ],
+			[ "arrasa" ],
+			[ "arrasamos" ],
+			[ "arrasáis", "arrasan" ],
+			[ "arrasan" ]
+		],
+		"4" : [
+			[ "arrasé" ],
+			[ "arrasaste" ],
+			[ "arrasó" ],
+			[ "arrasamos" ],
+			[ "arrasasteis", "arrasaron" ],
+			[ "arrasaron" ]
+		],
+		"5" : [
+			[ "arrasaba" ],
+			[ "arrasabas" ],
+			[ "arrasaba" ],
+			[ "arrasábamos" ],
+			[ "arrasabais", "arrasaban" ],
+			[ "arrasaban" ]
+		],
+		"6" : [
+			[ "arrasaría" ],
+			[ "arrasarías" ],
+			[ "arrasaría" ],
+			[ "arrasaríamos" ],
+			[ "arrasaríais", "arrasarían" ],
+			[ "arrasarían" ]
+		],
+		"7" : [
+			[ "arrasaré" ],
+			[ "arrasarás" ],
+			[ "arrasará" ],
+			[ "arrasaremos" ],
+			[ "arrasaréis", "arrasarán" ],
+			[ "arrasarán" ]
+		],
+		"8" : [
+			[ "arrase" ],
+			[ "arrases" ],
+			[ "arrase" ],
+			[ "arrasemos" ],
+			[ "arraséis", "arrasen" ],
+			[ "arrasen" ]
+		],
+		"9" : [
+			[ "arrasara" ],
+			[ "arrasaras" ],
+			[ "arrasara" ],
+			[ "arrasáramos" ],
+			[ "arrasarais", "arrasaran" ],
+			[ "arrasaran" ]
+		],
+		"10" : [
+			[ "arrasase" ],
+			[ "arrasases" ],
+			[ "arrasase" ],
+			[ "arrasásemos" ],
+			[ "arrasaseis", "arrasasen" ],
+			[ "arrasasen" ]
+		],
+		"11" : [
+			[ "arrasare" ],
+			[ "arrasares" ],
+			[ "arrasare" ],
+			[ "arrasáremos" ],
+			[ "arrasareis", "arrasaren" ],
+			[ "arrasaren" ]
+		],
+		"12" : {
+			"1" : [ "arrasa" ],
+			"2" : [ "arrase" ],
+			"3" : [ "arrasemos" ],
+			"4" : [ "arrasad" ],
+			"5" : [ "arrasen" ]
+		}
+	}
+}

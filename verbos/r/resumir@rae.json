@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resumir",
+	"word" : "resumir",
+	"infinitivo" : "resumir",
+	"participio" : [ "resumido" ],
+	"gerundio" : [ "resumiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "resumo" ],
+			[ "resumes", "resumís" ],
+			[ "resume" ],
+			[ "resumimos" ],
+			[ "resumís", "resumen" ],
+			[ "resumen" ]
+		],
+		"4" : [
+			[ "resumí" ],
+			[ "resumiste" ],
+			[ "resumió" ],
+			[ "resumimos" ],
+			[ "resumisteis", "resumieron" ],
+			[ "resumieron" ]
+		],
+		"5" : [
+			[ "resumía" ],
+			[ "resumías" ],
+			[ "resumía" ],
+			[ "resumíamos" ],
+			[ "resumíais", "resumían" ],
+			[ "resumían" ]
+		],
+		"6" : [
+			[ "resumiría" ],
+			[ "resumirías" ],
+			[ "resumiría" ],
+			[ "resumiríamos" ],
+			[ "resumiríais", "resumirían" ],
+			[ "resumirían" ]
+		],
+		"7" : [
+			[ "resumiré" ],
+			[ "resumirás" ],
+			[ "resumirá" ],
+			[ "resumiremos" ],
+			[ "resumiréis", "resumirán" ],
+			[ "resumirán" ]
+		],
+		"8" : [
+			[ "resuma" ],
+			[ "resumas" ],
+			[ "resuma" ],
+			[ "resumamos" ],
+			[ "resumáis", "resuman" ],
+			[ "resuman" ]
+		],
+		"9" : [
+			[ "resumiera" ],
+			[ "resumieras" ],
+			[ "resumiera" ],
+			[ "resumiéramos" ],
+			[ "resumierais", "resumieran" ],
+			[ "resumieran" ]
+		],
+		"10" : [
+			[ "resumiese" ],
+			[ "resumieses" ],
+			[ "resumiese" ],
+			[ "resumiésemos" ],
+			[ "resumieseis", "resumiesen" ],
+			[ "resumiesen" ]
+		],
+		"11" : [
+			[ "resumiere" ],
+			[ "resumieres" ],
+			[ "resumiere" ],
+			[ "resumiéremos" ],
+			[ "resumiereis", "resumieren" ],
+			[ "resumieren" ]
+		],
+		"12" : {
+			"1" : [ "resume" ],
+			"2" : [ "resuma" ],
+			"3" : [ "resumamos" ],
+			"4" : [ "resumid" ],
+			"5" : [ "resuman" ]
+		}
+	}
+}

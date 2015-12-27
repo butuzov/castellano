@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aballar",
+	"word" : "aballar",
+	"infinitivo" : "aballar",
+	"participio" : [ "aballado" ],
+	"gerundio" : [ "aballando" ],
+	"tenses" : {
+		"3" : [
+			[ "aballo" ],
+			[ "aballas", "aballás" ],
+			[ "aballa" ],
+			[ "aballamos" ],
+			[ "aballáis", "aballan" ],
+			[ "aballan" ]
+		],
+		"4" : [
+			[ "aballé" ],
+			[ "aballaste" ],
+			[ "aballó" ],
+			[ "aballamos" ],
+			[ "aballasteis", "aballaron" ],
+			[ "aballaron" ]
+		],
+		"5" : [
+			[ "aballaba" ],
+			[ "aballabas" ],
+			[ "aballaba" ],
+			[ "aballábamos" ],
+			[ "aballabais", "aballaban" ],
+			[ "aballaban" ]
+		],
+		"6" : [
+			[ "aballaría" ],
+			[ "aballarías" ],
+			[ "aballaría" ],
+			[ "aballaríamos" ],
+			[ "aballaríais", "aballarían" ],
+			[ "aballarían" ]
+		],
+		"7" : [
+			[ "aballaré" ],
+			[ "aballarás" ],
+			[ "aballará" ],
+			[ "aballaremos" ],
+			[ "aballaréis", "aballarán" ],
+			[ "aballarán" ]
+		],
+		"8" : [
+			[ "aballe" ],
+			[ "aballes" ],
+			[ "aballe" ],
+			[ "aballemos" ],
+			[ "aballéis", "aballen" ],
+			[ "aballen" ]
+		],
+		"9" : [
+			[ "aballara" ],
+			[ "aballaras" ],
+			[ "aballara" ],
+			[ "aballáramos" ],
+			[ "aballarais", "aballaran" ],
+			[ "aballaran" ]
+		],
+		"10" : [
+			[ "aballase" ],
+			[ "aballases" ],
+			[ "aballase" ],
+			[ "aballásemos" ],
+			[ "aballaseis", "aballasen" ],
+			[ "aballasen" ]
+		],
+		"11" : [
+			[ "aballare" ],
+			[ "aballares" ],
+			[ "aballare" ],
+			[ "aballáremos" ],
+			[ "aballareis", "aballaren" ],
+			[ "aballaren" ]
+		],
+		"12" : {
+			"1" : [ "aballa" ],
+			"2" : [ "aballe" ],
+			"3" : [ "aballemos" ],
+			"4" : [ "aballad" ],
+			"5" : [ "aballen" ]
+		}
+	}
+}

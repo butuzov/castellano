@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apropiar",
+	"word" : "apropiar",
+	"infinitivo" : "apropiar",
+	"participio" : [ "apropiado" ],
+	"gerundio" : [ "apropiando" ],
+	"tenses" : {
+		"3" : [
+			[ "apropio" ],
+			[ "apropias", "apropiás" ],
+			[ "apropia" ],
+			[ "apropiamos" ],
+			[ "apropiáis", "apropian" ],
+			[ "apropian" ]
+		],
+		"4" : [
+			[ "apropié" ],
+			[ "apropiaste" ],
+			[ "apropió" ],
+			[ "apropiamos" ],
+			[ "apropiasteis", "apropiaron" ],
+			[ "apropiaron" ]
+		],
+		"5" : [
+			[ "apropiaba" ],
+			[ "apropiabas" ],
+			[ "apropiaba" ],
+			[ "apropiábamos" ],
+			[ "apropiabais", "apropiaban" ],
+			[ "apropiaban" ]
+		],
+		"6" : [
+			[ "apropiaría" ],
+			[ "apropiarías" ],
+			[ "apropiaría" ],
+			[ "apropiaríamos" ],
+			[ "apropiaríais", "apropiarían" ],
+			[ "apropiarían" ]
+		],
+		"7" : [
+			[ "apropiaré" ],
+			[ "apropiarás" ],
+			[ "apropiará" ],
+			[ "apropiaremos" ],
+			[ "apropiaréis", "apropiarán" ],
+			[ "apropiarán" ]
+		],
+		"8" : [
+			[ "apropie" ],
+			[ "apropies" ],
+			[ "apropie" ],
+			[ "apropiemos" ],
+			[ "apropiéis", "apropien" ],
+			[ "apropien" ]
+		],
+		"9" : [
+			[ "apropiara" ],
+			[ "apropiaras" ],
+			[ "apropiara" ],
+			[ "apropiáramos" ],
+			[ "apropiarais", "apropiaran" ],
+			[ "apropiaran" ]
+		],
+		"10" : [
+			[ "apropiase" ],
+			[ "apropiases" ],
+			[ "apropiase" ],
+			[ "apropiásemos" ],
+			[ "apropiaseis", "apropiasen" ],
+			[ "apropiasen" ]
+		],
+		"11" : [
+			[ "apropiare" ],
+			[ "apropiares" ],
+			[ "apropiare" ],
+			[ "apropiáremos" ],
+			[ "apropiareis", "apropiaren" ],
+			[ "apropiaren" ]
+		],
+		"12" : {
+			"1" : [ "apropia" ],
+			"2" : [ "apropie" ],
+			"3" : [ "apropiemos" ],
+			"4" : [ "apropiad" ],
+			"5" : [ "apropien" ]
+		}
+	}
+}

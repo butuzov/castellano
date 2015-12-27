@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tapar",
+	"word" : "tapar",
+	"infinitivo" : "tapar",
+	"participio" : [ "tapado" ],
+	"gerundio" : [ "tapando" ],
+	"tenses" : {
+		"3" : [
+			[ "tapo" ],
+			[ "tapas", "tapás" ],
+			[ "tapa" ],
+			[ "tapamos" ],
+			[ "tapáis", "tapan" ],
+			[ "tapan" ]
+		],
+		"4" : [
+			[ "tapé" ],
+			[ "tapaste" ],
+			[ "tapó" ],
+			[ "tapamos" ],
+			[ "tapasteis", "taparon" ],
+			[ "taparon" ]
+		],
+		"5" : [
+			[ "tapaba" ],
+			[ "tapabas" ],
+			[ "tapaba" ],
+			[ "tapábamos" ],
+			[ "tapabais", "tapaban" ],
+			[ "tapaban" ]
+		],
+		"6" : [
+			[ "taparía" ],
+			[ "taparías" ],
+			[ "taparía" ],
+			[ "taparíamos" ],
+			[ "taparíais", "taparían" ],
+			[ "taparían" ]
+		],
+		"7" : [
+			[ "taparé" ],
+			[ "taparás" ],
+			[ "tapará" ],
+			[ "taparemos" ],
+			[ "taparéis", "taparán" ],
+			[ "taparán" ]
+		],
+		"8" : [
+			[ "tape" ],
+			[ "tapes" ],
+			[ "tape" ],
+			[ "tapemos" ],
+			[ "tapéis", "tapen" ],
+			[ "tapen" ]
+		],
+		"9" : [
+			[ "tapara" ],
+			[ "taparas" ],
+			[ "tapara" ],
+			[ "tapáramos" ],
+			[ "taparais", "taparan" ],
+			[ "taparan" ]
+		],
+		"10" : [
+			[ "tapase" ],
+			[ "tapases" ],
+			[ "tapase" ],
+			[ "tapásemos" ],
+			[ "tapaseis", "tapasen" ],
+			[ "tapasen" ]
+		],
+		"11" : [
+			[ "tapare" ],
+			[ "tapares" ],
+			[ "tapare" ],
+			[ "tapáremos" ],
+			[ "tapareis", "taparen" ],
+			[ "taparen" ]
+		],
+		"12" : {
+			"1" : [ "tapa" ],
+			"2" : [ "tape" ],
+			"3" : [ "tapemos" ],
+			"4" : [ "tapad" ],
+			"5" : [ "tapen" ]
+		}
+	}
+}

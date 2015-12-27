@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recalcar",
+	"word" : "recalcar",
+	"infinitivo" : "recalcar",
+	"participio" : [ "recalcado" ],
+	"gerundio" : [ "recalcando" ],
+	"tenses" : {
+		"3" : [
+			[ "recalco" ],
+			[ "recalcas", "recalcás" ],
+			[ "recalca" ],
+			[ "recalcamos" ],
+			[ "recalcáis", "recalcan" ],
+			[ "recalcan" ]
+		],
+		"4" : [
+			[ "recalqué" ],
+			[ "recalcaste" ],
+			[ "recalcó" ],
+			[ "recalcamos" ],
+			[ "recalcasteis", "recalcaron" ],
+			[ "recalcaron" ]
+		],
+		"5" : [
+			[ "recalcaba" ],
+			[ "recalcabas" ],
+			[ "recalcaba" ],
+			[ "recalcábamos" ],
+			[ "recalcabais", "recalcaban" ],
+			[ "recalcaban" ]
+		],
+		"6" : [
+			[ "recalcaría" ],
+			[ "recalcarías" ],
+			[ "recalcaría" ],
+			[ "recalcaríamos" ],
+			[ "recalcaríais", "recalcarían" ],
+			[ "recalcarían" ]
+		],
+		"7" : [
+			[ "recalcaré" ],
+			[ "recalcarás" ],
+			[ "recalcará" ],
+			[ "recalcaremos" ],
+			[ "recalcaréis", "recalcarán" ],
+			[ "recalcarán" ]
+		],
+		"8" : [
+			[ "recalque" ],
+			[ "recalques" ],
+			[ "recalque" ],
+			[ "recalquemos" ],
+			[ "recalquéis", "recalquen" ],
+			[ "recalquen" ]
+		],
+		"9" : [
+			[ "recalcara" ],
+			[ "recalcaras" ],
+			[ "recalcara" ],
+			[ "recalcáramos" ],
+			[ "recalcarais", "recalcaran" ],
+			[ "recalcaran" ]
+		],
+		"10" : [
+			[ "recalcase" ],
+			[ "recalcases" ],
+			[ "recalcase" ],
+			[ "recalcásemos" ],
+			[ "recalcaseis", "recalcasen" ],
+			[ "recalcasen" ]
+		],
+		"11" : [
+			[ "recalcare" ],
+			[ "recalcares" ],
+			[ "recalcare" ],
+			[ "recalcáremos" ],
+			[ "recalcareis", "recalcaren" ],
+			[ "recalcaren" ]
+		],
+		"12" : {
+			"1" : [ "recalca" ],
+			"2" : [ "recalque" ],
+			"3" : [ "recalquemos" ],
+			"4" : [ "recalcad" ],
+			"5" : [ "recalquen" ]
+		}
+	}
+}

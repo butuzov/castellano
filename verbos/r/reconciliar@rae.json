@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reconciliar",
+	"word" : "reconciliar",
+	"infinitivo" : "reconciliar",
+	"participio" : [ "reconciliado" ],
+	"gerundio" : [ "reconciliando" ],
+	"tenses" : {
+		"3" : [
+			[ "reconcilio" ],
+			[ "reconcilias", "reconciliás" ],
+			[ "reconcilia" ],
+			[ "reconciliamos" ],
+			[ "reconciliáis", "reconcilian" ],
+			[ "reconcilian" ]
+		],
+		"4" : [
+			[ "reconcilié" ],
+			[ "reconciliaste" ],
+			[ "reconcilió" ],
+			[ "reconciliamos" ],
+			[ "reconciliasteis", "reconciliaron" ],
+			[ "reconciliaron" ]
+		],
+		"5" : [
+			[ "reconciliaba" ],
+			[ "reconciliabas" ],
+			[ "reconciliaba" ],
+			[ "reconciliábamos" ],
+			[ "reconciliabais", "reconciliaban" ],
+			[ "reconciliaban" ]
+		],
+		"6" : [
+			[ "reconciliaría" ],
+			[ "reconciliarías" ],
+			[ "reconciliaría" ],
+			[ "reconciliaríamos" ],
+			[ "reconciliaríais", "reconciliarían" ],
+			[ "reconciliarían" ]
+		],
+		"7" : [
+			[ "reconciliaré" ],
+			[ "reconciliarás" ],
+			[ "reconciliará" ],
+			[ "reconciliaremos" ],
+			[ "reconciliaréis", "reconciliarán" ],
+			[ "reconciliarán" ]
+		],
+		"8" : [
+			[ "reconcilie" ],
+			[ "reconcilies" ],
+			[ "reconcilie" ],
+			[ "reconciliemos" ],
+			[ "reconciliéis", "reconcilien" ],
+			[ "reconcilien" ]
+		],
+		"9" : [
+			[ "reconciliara" ],
+			[ "reconciliaras" ],
+			[ "reconciliara" ],
+			[ "reconciliáramos" ],
+			[ "reconciliarais", "reconciliaran" ],
+			[ "reconciliaran" ]
+		],
+		"10" : [
+			[ "reconciliase" ],
+			[ "reconciliases" ],
+			[ "reconciliase" ],
+			[ "reconciliásemos" ],
+			[ "reconciliaseis", "reconciliasen" ],
+			[ "reconciliasen" ]
+		],
+		"11" : [
+			[ "reconciliare" ],
+			[ "reconciliares" ],
+			[ "reconciliare" ],
+			[ "reconciliáremos" ],
+			[ "reconciliareis", "reconciliaren" ],
+			[ "reconciliaren" ]
+		],
+		"12" : {
+			"1" : [ "reconcilia" ],
+			"2" : [ "reconcilie" ],
+			"3" : [ "reconciliemos" ],
+			"4" : [ "reconciliad" ],
+			"5" : [ "reconcilien" ]
+		}
+	}
+}

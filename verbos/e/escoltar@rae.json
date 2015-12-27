@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escoltar",
+	"word" : "escoltar",
+	"infinitivo" : "escoltar",
+	"participio" : [ "escoltado" ],
+	"gerundio" : [ "escoltando" ],
+	"tenses" : {
+		"3" : [
+			[ "escolto" ],
+			[ "escoltas", "escoltás" ],
+			[ "escolta" ],
+			[ "escoltamos" ],
+			[ "escoltáis", "escoltan" ],
+			[ "escoltan" ]
+		],
+		"4" : [
+			[ "escolté" ],
+			[ "escoltaste" ],
+			[ "escoltó" ],
+			[ "escoltamos" ],
+			[ "escoltasteis", "escoltaron" ],
+			[ "escoltaron" ]
+		],
+		"5" : [
+			[ "escoltaba" ],
+			[ "escoltabas" ],
+			[ "escoltaba" ],
+			[ "escoltábamos" ],
+			[ "escoltabais", "escoltaban" ],
+			[ "escoltaban" ]
+		],
+		"6" : [
+			[ "escoltaría" ],
+			[ "escoltarías" ],
+			[ "escoltaría" ],
+			[ "escoltaríamos" ],
+			[ "escoltaríais", "escoltarían" ],
+			[ "escoltarían" ]
+		],
+		"7" : [
+			[ "escoltaré" ],
+			[ "escoltarás" ],
+			[ "escoltará" ],
+			[ "escoltaremos" ],
+			[ "escoltaréis", "escoltarán" ],
+			[ "escoltarán" ]
+		],
+		"8" : [
+			[ "escolte" ],
+			[ "escoltes" ],
+			[ "escolte" ],
+			[ "escoltemos" ],
+			[ "escoltéis", "escolten" ],
+			[ "escolten" ]
+		],
+		"9" : [
+			[ "escoltara" ],
+			[ "escoltaras" ],
+			[ "escoltara" ],
+			[ "escoltáramos" ],
+			[ "escoltarais", "escoltaran" ],
+			[ "escoltaran" ]
+		],
+		"10" : [
+			[ "escoltase" ],
+			[ "escoltases" ],
+			[ "escoltase" ],
+			[ "escoltásemos" ],
+			[ "escoltaseis", "escoltasen" ],
+			[ "escoltasen" ]
+		],
+		"11" : [
+			[ "escoltare" ],
+			[ "escoltares" ],
+			[ "escoltare" ],
+			[ "escoltáremos" ],
+			[ "escoltareis", "escoltaren" ],
+			[ "escoltaren" ]
+		],
+		"12" : {
+			"1" : [ "escolta" ],
+			"2" : [ "escolte" ],
+			"3" : [ "escoltemos" ],
+			"4" : [ "escoltad" ],
+			"5" : [ "escolten" ]
+		}
+	}
+}

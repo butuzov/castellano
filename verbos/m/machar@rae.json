@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=machar",
+	"word" : "machar",
+	"infinitivo" : "machar",
+	"participio" : [ "machado" ],
+	"gerundio" : [ "machando" ],
+	"tenses" : {
+		"3" : [
+			[ "macho" ],
+			[ "machas", "machás" ],
+			[ "macha" ],
+			[ "machamos" ],
+			[ "macháis", "machan" ],
+			[ "machan" ]
+		],
+		"4" : [
+			[ "maché" ],
+			[ "machaste" ],
+			[ "machó" ],
+			[ "machamos" ],
+			[ "machasteis", "macharon" ],
+			[ "macharon" ]
+		],
+		"5" : [
+			[ "machaba" ],
+			[ "machabas" ],
+			[ "machaba" ],
+			[ "machábamos" ],
+			[ "machabais", "machaban" ],
+			[ "machaban" ]
+		],
+		"6" : [
+			[ "macharía" ],
+			[ "macharías" ],
+			[ "macharía" ],
+			[ "macharíamos" ],
+			[ "macharíais", "macharían" ],
+			[ "macharían" ]
+		],
+		"7" : [
+			[ "macharé" ],
+			[ "macharás" ],
+			[ "machará" ],
+			[ "macharemos" ],
+			[ "macharéis", "macharán" ],
+			[ "macharán" ]
+		],
+		"8" : [
+			[ "mache" ],
+			[ "maches" ],
+			[ "mache" ],
+			[ "machemos" ],
+			[ "machéis", "machen" ],
+			[ "machen" ]
+		],
+		"9" : [
+			[ "machara" ],
+			[ "macharas" ],
+			[ "machara" ],
+			[ "macháramos" ],
+			[ "macharais", "macharan" ],
+			[ "macharan" ]
+		],
+		"10" : [
+			[ "machase" ],
+			[ "machases" ],
+			[ "machase" ],
+			[ "machásemos" ],
+			[ "machaseis", "machasen" ],
+			[ "machasen" ]
+		],
+		"11" : [
+			[ "machare" ],
+			[ "machares" ],
+			[ "machare" ],
+			[ "macháremos" ],
+			[ "machareis", "macharen" ],
+			[ "macharen" ]
+		],
+		"12" : {
+			"1" : [ "macha" ],
+			"2" : [ "mache" ],
+			"3" : [ "machemos" ],
+			"4" : [ "machad" ],
+			"5" : [ "machen" ]
+		}
+	}
+}

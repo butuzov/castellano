@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chatear",
+	"word" : "chatear",
+	"infinitivo" : "chatear",
+	"participio" : [ "chateado" ],
+	"gerundio" : [ "chateando" ],
+	"tenses" : {
+		"3" : [
+			[ "chateo" ],
+			[ "chateas", "chateás" ],
+			[ "chatea" ],
+			[ "chateamos" ],
+			[ "chateáis", "chatean" ],
+			[ "chatean" ]
+		],
+		"4" : [
+			[ "chateé" ],
+			[ "chateaste" ],
+			[ "chateó" ],
+			[ "chateamos" ],
+			[ "chateasteis", "chatearon" ],
+			[ "chatearon" ]
+		],
+		"5" : [
+			[ "chateaba" ],
+			[ "chateabas" ],
+			[ "chateaba" ],
+			[ "chateábamos" ],
+			[ "chateabais", "chateaban" ],
+			[ "chateaban" ]
+		],
+		"6" : [
+			[ "chatearía" ],
+			[ "chatearías" ],
+			[ "chatearía" ],
+			[ "chatearíamos" ],
+			[ "chatearíais", "chatearían" ],
+			[ "chatearían" ]
+		],
+		"7" : [
+			[ "chatearé" ],
+			[ "chatearás" ],
+			[ "chateará" ],
+			[ "chatearemos" ],
+			[ "chatearéis", "chatearán" ],
+			[ "chatearán" ]
+		],
+		"8" : [
+			[ "chatee" ],
+			[ "chatees" ],
+			[ "chatee" ],
+			[ "chateemos" ],
+			[ "chateéis", "chateen" ],
+			[ "chateen" ]
+		],
+		"9" : [
+			[ "chateara" ],
+			[ "chatearas" ],
+			[ "chateara" ],
+			[ "chateáramos" ],
+			[ "chatearais", "chatearan" ],
+			[ "chatearan" ]
+		],
+		"10" : [
+			[ "chatease" ],
+			[ "chateases" ],
+			[ "chatease" ],
+			[ "chateásemos" ],
+			[ "chateaseis", "chateasen" ],
+			[ "chateasen" ]
+		],
+		"11" : [
+			[ "chateare" ],
+			[ "chateares" ],
+			[ "chateare" ],
+			[ "chateáremos" ],
+			[ "chateareis", "chatearen" ],
+			[ "chatearen" ]
+		],
+		"12" : {
+			"1" : [ "chatea" ],
+			"2" : [ "chatee" ],
+			"3" : [ "chateemos" ],
+			"4" : [ "chatead" ],
+			"5" : [ "chateen" ]
+		}
+	}
+}

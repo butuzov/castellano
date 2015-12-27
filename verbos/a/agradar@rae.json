@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agradar",
+	"word" : "agradar",
+	"infinitivo" : "agradar",
+	"participio" : [ "agradado" ],
+	"gerundio" : [ "agradando" ],
+	"tenses" : {
+		"3" : [
+			[ "agrado" ],
+			[ "agradas", "agradás" ],
+			[ "agrada" ],
+			[ "agradamos" ],
+			[ "agradáis", "agradan" ],
+			[ "agradan" ]
+		],
+		"4" : [
+			[ "agradé" ],
+			[ "agradaste" ],
+			[ "agradó" ],
+			[ "agradamos" ],
+			[ "agradasteis", "agradaron" ],
+			[ "agradaron" ]
+		],
+		"5" : [
+			[ "agradaba" ],
+			[ "agradabas" ],
+			[ "agradaba" ],
+			[ "agradábamos" ],
+			[ "agradabais", "agradaban" ],
+			[ "agradaban" ]
+		],
+		"6" : [
+			[ "agradaría" ],
+			[ "agradarías" ],
+			[ "agradaría" ],
+			[ "agradaríamos" ],
+			[ "agradaríais", "agradarían" ],
+			[ "agradarían" ]
+		],
+		"7" : [
+			[ "agradaré" ],
+			[ "agradarás" ],
+			[ "agradará" ],
+			[ "agradaremos" ],
+			[ "agradaréis", "agradarán" ],
+			[ "agradarán" ]
+		],
+		"8" : [
+			[ "agrade" ],
+			[ "agrades" ],
+			[ "agrade" ],
+			[ "agrademos" ],
+			[ "agradéis", "agraden" ],
+			[ "agraden" ]
+		],
+		"9" : [
+			[ "agradara" ],
+			[ "agradaras" ],
+			[ "agradara" ],
+			[ "agradáramos" ],
+			[ "agradarais", "agradaran" ],
+			[ "agradaran" ]
+		],
+		"10" : [
+			[ "agradase" ],
+			[ "agradases" ],
+			[ "agradase" ],
+			[ "agradásemos" ],
+			[ "agradaseis", "agradasen" ],
+			[ "agradasen" ]
+		],
+		"11" : [
+			[ "agradare" ],
+			[ "agradares" ],
+			[ "agradare" ],
+			[ "agradáremos" ],
+			[ "agradareis", "agradaren" ],
+			[ "agradaren" ]
+		],
+		"12" : {
+			"1" : [ "agrada" ],
+			"2" : [ "agrade" ],
+			"3" : [ "agrademos" ],
+			"4" : [ "agradad" ],
+			"5" : [ "agraden" ]
+		}
+	}
+}

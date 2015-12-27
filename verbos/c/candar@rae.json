@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=candar",
+	"word" : "candar",
+	"infinitivo" : "candar",
+	"participio" : [ "candado" ],
+	"gerundio" : [ "candando" ],
+	"tenses" : {
+		"3" : [
+			[ "cando" ],
+			[ "candas", "candás" ],
+			[ "canda" ],
+			[ "candamos" ],
+			[ "candáis", "candan" ],
+			[ "candan" ]
+		],
+		"4" : [
+			[ "candé" ],
+			[ "candaste" ],
+			[ "candó" ],
+			[ "candamos" ],
+			[ "candasteis", "candaron" ],
+			[ "candaron" ]
+		],
+		"5" : [
+			[ "candaba" ],
+			[ "candabas" ],
+			[ "candaba" ],
+			[ "candábamos" ],
+			[ "candabais", "candaban" ],
+			[ "candaban" ]
+		],
+		"6" : [
+			[ "candaría" ],
+			[ "candarías" ],
+			[ "candaría" ],
+			[ "candaríamos" ],
+			[ "candaríais", "candarían" ],
+			[ "candarían" ]
+		],
+		"7" : [
+			[ "candaré" ],
+			[ "candarás" ],
+			[ "candará" ],
+			[ "candaremos" ],
+			[ "candaréis", "candarán" ],
+			[ "candarán" ]
+		],
+		"8" : [
+			[ "cande" ],
+			[ "candes" ],
+			[ "cande" ],
+			[ "candemos" ],
+			[ "candéis", "canden" ],
+			[ "canden" ]
+		],
+		"9" : [
+			[ "candara" ],
+			[ "candaras" ],
+			[ "candara" ],
+			[ "candáramos" ],
+			[ "candarais", "candaran" ],
+			[ "candaran" ]
+		],
+		"10" : [
+			[ "candase" ],
+			[ "candases" ],
+			[ "candase" ],
+			[ "candásemos" ],
+			[ "candaseis", "candasen" ],
+			[ "candasen" ]
+		],
+		"11" : [
+			[ "candare" ],
+			[ "candares" ],
+			[ "candare" ],
+			[ "candáremos" ],
+			[ "candareis", "candaren" ],
+			[ "candaren" ]
+		],
+		"12" : {
+			"1" : [ "canda" ],
+			"2" : [ "cande" ],
+			"3" : [ "candemos" ],
+			"4" : [ "candad" ],
+			"5" : [ "canden" ]
+		}
+	}
+}

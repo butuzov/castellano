@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=extremar",
+	"word" : "extremar",
+	"infinitivo" : "extremar",
+	"participio" : [ "extremado" ],
+	"gerundio" : [ "extremando" ],
+	"tenses" : {
+		"3" : [
+			[ "extremo" ],
+			[ "extremas", "extremás" ],
+			[ "extrema" ],
+			[ "extremamos" ],
+			[ "extremáis", "extreman" ],
+			[ "extreman" ]
+		],
+		"4" : [
+			[ "extremé" ],
+			[ "extremaste" ],
+			[ "extremó" ],
+			[ "extremamos" ],
+			[ "extremasteis", "extremaron" ],
+			[ "extremaron" ]
+		],
+		"5" : [
+			[ "extremaba" ],
+			[ "extremabas" ],
+			[ "extremaba" ],
+			[ "extremábamos" ],
+			[ "extremabais", "extremaban" ],
+			[ "extremaban" ]
+		],
+		"6" : [
+			[ "extremaría" ],
+			[ "extremarías" ],
+			[ "extremaría" ],
+			[ "extremaríamos" ],
+			[ "extremaríais", "extremarían" ],
+			[ "extremarían" ]
+		],
+		"7" : [
+			[ "extremaré" ],
+			[ "extremarás" ],
+			[ "extremará" ],
+			[ "extremaremos" ],
+			[ "extremaréis", "extremarán" ],
+			[ "extremarán" ]
+		],
+		"8" : [
+			[ "extreme" ],
+			[ "extremes" ],
+			[ "extreme" ],
+			[ "extrememos" ],
+			[ "extreméis", "extremen" ],
+			[ "extremen" ]
+		],
+		"9" : [
+			[ "extremara" ],
+			[ "extremaras" ],
+			[ "extremara" ],
+			[ "extremáramos" ],
+			[ "extremarais", "extremaran" ],
+			[ "extremaran" ]
+		],
+		"10" : [
+			[ "extremase" ],
+			[ "extremases" ],
+			[ "extremase" ],
+			[ "extremásemos" ],
+			[ "extremaseis", "extremasen" ],
+			[ "extremasen" ]
+		],
+		"11" : [
+			[ "extremare" ],
+			[ "extremares" ],
+			[ "extremare" ],
+			[ "extremáremos" ],
+			[ "extremareis", "extremaren" ],
+			[ "extremaren" ]
+		],
+		"12" : {
+			"1" : [ "extrema" ],
+			"2" : [ "extreme" ],
+			"3" : [ "extrememos" ],
+			"4" : [ "extremad" ],
+			"5" : [ "extremen" ]
+		}
+	}
+}

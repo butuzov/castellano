@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resecar",
+	"word" : "resecar",
+	"infinitivo" : "resecar",
+	"participio" : [ "resecado" ],
+	"gerundio" : [ "resecando" ],
+	"tenses" : {
+		"3" : [
+			[ "reseco" ],
+			[ "resecas", "resecás" ],
+			[ "reseca" ],
+			[ "resecamos" ],
+			[ "resecáis", "resecan" ],
+			[ "resecan" ]
+		],
+		"4" : [
+			[ "resequé" ],
+			[ "resecaste" ],
+			[ "resecó" ],
+			[ "resecamos" ],
+			[ "resecasteis", "resecaron" ],
+			[ "resecaron" ]
+		],
+		"5" : [
+			[ "resecaba" ],
+			[ "resecabas" ],
+			[ "resecaba" ],
+			[ "resecábamos" ],
+			[ "resecabais", "resecaban" ],
+			[ "resecaban" ]
+		],
+		"6" : [
+			[ "resecaría" ],
+			[ "resecarías" ],
+			[ "resecaría" ],
+			[ "resecaríamos" ],
+			[ "resecaríais", "resecarían" ],
+			[ "resecarían" ]
+		],
+		"7" : [
+			[ "resecaré" ],
+			[ "resecarás" ],
+			[ "resecará" ],
+			[ "resecaremos" ],
+			[ "resecaréis", "resecarán" ],
+			[ "resecarán" ]
+		],
+		"8" : [
+			[ "reseque" ],
+			[ "reseques" ],
+			[ "reseque" ],
+			[ "resequemos" ],
+			[ "resequéis", "resequen" ],
+			[ "resequen" ]
+		],
+		"9" : [
+			[ "resecara" ],
+			[ "resecaras" ],
+			[ "resecara" ],
+			[ "resecáramos" ],
+			[ "resecarais", "resecaran" ],
+			[ "resecaran" ]
+		],
+		"10" : [
+			[ "resecase" ],
+			[ "resecases" ],
+			[ "resecase" ],
+			[ "resecásemos" ],
+			[ "resecaseis", "resecasen" ],
+			[ "resecasen" ]
+		],
+		"11" : [
+			[ "resecare" ],
+			[ "resecares" ],
+			[ "resecare" ],
+			[ "resecáremos" ],
+			[ "resecareis", "resecaren" ],
+			[ "resecaren" ]
+		],
+		"12" : {
+			"1" : [ "reseca" ],
+			"2" : [ "reseque" ],
+			"3" : [ "resequemos" ],
+			"4" : [ "resecad" ],
+			"5" : [ "resequen" ]
+		}
+	}
+}

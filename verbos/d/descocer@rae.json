@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descocer",
+	"word" : "descocer",
+	"infinitivo" : "descocer",
+	"participio" : [ "descocido" ],
+	"gerundio" : [ "descociendo" ],
+	"tenses" : {
+		"3" : [
+			[ "descuezo" ],
+			[ "descueces", "descocés" ],
+			[ "descuece" ],
+			[ "descocemos" ],
+			[ "descocéis", "descuecen" ],
+			[ "descuecen" ]
+		],
+		"4" : [
+			[ "descocí" ],
+			[ "descociste" ],
+			[ "descoció" ],
+			[ "descocimos" ],
+			[ "descocisteis", "descocieron" ],
+			[ "descocieron" ]
+		],
+		"5" : [
+			[ "descocía" ],
+			[ "descocías" ],
+			[ "descocía" ],
+			[ "descocíamos" ],
+			[ "descocíais", "descocían" ],
+			[ "descocían" ]
+		],
+		"6" : [
+			[ "descocería" ],
+			[ "descocerías" ],
+			[ "descocería" ],
+			[ "descoceríamos" ],
+			[ "descoceríais", "descocerían" ],
+			[ "descocerían" ]
+		],
+		"7" : [
+			[ "descoceré" ],
+			[ "descocerás" ],
+			[ "descocerá" ],
+			[ "descoceremos" ],
+			[ "descoceréis", "descocerán" ],
+			[ "descocerán" ]
+		],
+		"8" : [
+			[ "descueza" ],
+			[ "descuezas" ],
+			[ "descueza" ],
+			[ "descozamos" ],
+			[ "descozáis", "descuezan" ],
+			[ "descuezan" ]
+		],
+		"9" : [
+			[ "descociera" ],
+			[ "descocieras" ],
+			[ "descociera" ],
+			[ "descociéramos" ],
+			[ "descocierais", "descocieran" ],
+			[ "descocieran" ]
+		],
+		"10" : [
+			[ "descociese" ],
+			[ "descocieses" ],
+			[ "descociese" ],
+			[ "descociésemos" ],
+			[ "descocieseis", "descociesen" ],
+			[ "descociesen" ]
+		],
+		"11" : [
+			[ "descociere" ],
+			[ "descocieres" ],
+			[ "descociere" ],
+			[ "descociéremos" ],
+			[ "descociereis", "descocieren" ],
+			[ "descocieren" ]
+		],
+		"12" : {
+			"1" : [ "descuece" ],
+			"2" : [ "descueza" ],
+			"3" : [ "descozamos" ],
+			"4" : [ "descoced" ],
+			"5" : [ "descuezan" ]
+		}
+	}
+}

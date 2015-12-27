@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descargar",
+	"word" : "descargar",
+	"infinitivo" : "descargar",
+	"participio" : [ "descargado" ],
+	"gerundio" : [ "descargando" ],
+	"tenses" : {
+		"3" : [
+			[ "descargo" ],
+			[ "descargas", "descargás" ],
+			[ "descarga" ],
+			[ "descargamos" ],
+			[ "descargáis", "descargan" ],
+			[ "descargan" ]
+		],
+		"4" : [
+			[ "descargué" ],
+			[ "descargaste" ],
+			[ "descargó" ],
+			[ "descargamos" ],
+			[ "descargasteis", "descargaron" ],
+			[ "descargaron" ]
+		],
+		"5" : [
+			[ "descargaba" ],
+			[ "descargabas" ],
+			[ "descargaba" ],
+			[ "descargábamos" ],
+			[ "descargabais", "descargaban" ],
+			[ "descargaban" ]
+		],
+		"6" : [
+			[ "descargaría" ],
+			[ "descargarías" ],
+			[ "descargaría" ],
+			[ "descargaríamos" ],
+			[ "descargaríais", "descargarían" ],
+			[ "descargarían" ]
+		],
+		"7" : [
+			[ "descargaré" ],
+			[ "descargarás" ],
+			[ "descargará" ],
+			[ "descargaremos" ],
+			[ "descargaréis", "descargarán" ],
+			[ "descargarán" ]
+		],
+		"8" : [
+			[ "descargue" ],
+			[ "descargues" ],
+			[ "descargue" ],
+			[ "descarguemos" ],
+			[ "descarguéis", "descarguen" ],
+			[ "descarguen" ]
+		],
+		"9" : [
+			[ "descargara" ],
+			[ "descargaras" ],
+			[ "descargara" ],
+			[ "descargáramos" ],
+			[ "descargarais", "descargaran" ],
+			[ "descargaran" ]
+		],
+		"10" : [
+			[ "descargase" ],
+			[ "descargases" ],
+			[ "descargase" ],
+			[ "descargásemos" ],
+			[ "descargaseis", "descargasen" ],
+			[ "descargasen" ]
+		],
+		"11" : [
+			[ "descargare" ],
+			[ "descargares" ],
+			[ "descargare" ],
+			[ "descargáremos" ],
+			[ "descargareis", "descargaren" ],
+			[ "descargaren" ]
+		],
+		"12" : {
+			"1" : [ "descarga" ],
+			"2" : [ "descargue" ],
+			"3" : [ "descarguemos" ],
+			"4" : [ "descargad" ],
+			"5" : [ "descarguen" ]
+		}
+	}
+}

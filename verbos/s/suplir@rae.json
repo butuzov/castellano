@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=suplir",
+	"word" : "suplir",
+	"infinitivo" : "suplir",
+	"participio" : [ "suplido" ],
+	"gerundio" : [ "supliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "suplo" ],
+			[ "suples", "suplís" ],
+			[ "suple" ],
+			[ "suplimos" ],
+			[ "suplís", "suplen" ],
+			[ "suplen" ]
+		],
+		"4" : [
+			[ "suplí" ],
+			[ "supliste" ],
+			[ "suplió" ],
+			[ "suplimos" ],
+			[ "suplisteis", "suplieron" ],
+			[ "suplieron" ]
+		],
+		"5" : [
+			[ "suplía" ],
+			[ "suplías" ],
+			[ "suplía" ],
+			[ "suplíamos" ],
+			[ "suplíais", "suplían" ],
+			[ "suplían" ]
+		],
+		"6" : [
+			[ "supliría" ],
+			[ "suplirías" ],
+			[ "supliría" ],
+			[ "supliríamos" ],
+			[ "supliríais", "suplirían" ],
+			[ "suplirían" ]
+		],
+		"7" : [
+			[ "supliré" ],
+			[ "suplirás" ],
+			[ "suplirá" ],
+			[ "supliremos" ],
+			[ "supliréis", "suplirán" ],
+			[ "suplirán" ]
+		],
+		"8" : [
+			[ "supla" ],
+			[ "suplas" ],
+			[ "supla" ],
+			[ "suplamos" ],
+			[ "supláis", "suplan" ],
+			[ "suplan" ]
+		],
+		"9" : [
+			[ "supliera" ],
+			[ "suplieras" ],
+			[ "supliera" ],
+			[ "supliéramos" ],
+			[ "suplierais", "suplieran" ],
+			[ "suplieran" ]
+		],
+		"10" : [
+			[ "supliese" ],
+			[ "suplieses" ],
+			[ "supliese" ],
+			[ "supliésemos" ],
+			[ "suplieseis", "supliesen" ],
+			[ "supliesen" ]
+		],
+		"11" : [
+			[ "supliere" ],
+			[ "suplieres" ],
+			[ "supliere" ],
+			[ "supliéremos" ],
+			[ "supliereis", "suplieren" ],
+			[ "suplieren" ]
+		],
+		"12" : {
+			"1" : [ "suple" ],
+			"2" : [ "supla" ],
+			"3" : [ "suplamos" ],
+			"4" : [ "suplid" ],
+			"5" : [ "suplan" ]
+		}
+	}
+}

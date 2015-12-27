@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abordar",
+	"word" : "abordar",
+	"infinitivo" : "abordar",
+	"participio" : [ "abordado" ],
+	"gerundio" : [ "abordando" ],
+	"tenses" : {
+		"3" : [
+			[ "abordo" ],
+			[ "abordas", "abordás" ],
+			[ "aborda" ],
+			[ "abordamos" ],
+			[ "abordáis", "abordan" ],
+			[ "abordan" ]
+		],
+		"4" : [
+			[ "abordé" ],
+			[ "abordaste" ],
+			[ "abordó" ],
+			[ "abordamos" ],
+			[ "abordasteis", "abordaron" ],
+			[ "abordaron" ]
+		],
+		"5" : [
+			[ "abordaba" ],
+			[ "abordabas" ],
+			[ "abordaba" ],
+			[ "abordábamos" ],
+			[ "abordabais", "abordaban" ],
+			[ "abordaban" ]
+		],
+		"6" : [
+			[ "abordaría" ],
+			[ "abordarías" ],
+			[ "abordaría" ],
+			[ "abordaríamos" ],
+			[ "abordaríais", "abordarían" ],
+			[ "abordarían" ]
+		],
+		"7" : [
+			[ "abordaré" ],
+			[ "abordarás" ],
+			[ "abordará" ],
+			[ "abordaremos" ],
+			[ "abordaréis", "abordarán" ],
+			[ "abordarán" ]
+		],
+		"8" : [
+			[ "aborde" ],
+			[ "abordes" ],
+			[ "aborde" ],
+			[ "abordemos" ],
+			[ "abordéis", "aborden" ],
+			[ "aborden" ]
+		],
+		"9" : [
+			[ "abordara" ],
+			[ "abordaras" ],
+			[ "abordara" ],
+			[ "abordáramos" ],
+			[ "abordarais", "abordaran" ],
+			[ "abordaran" ]
+		],
+		"10" : [
+			[ "abordase" ],
+			[ "abordases" ],
+			[ "abordase" ],
+			[ "abordásemos" ],
+			[ "abordaseis", "abordasen" ],
+			[ "abordasen" ]
+		],
+		"11" : [
+			[ "abordare" ],
+			[ "abordares" ],
+			[ "abordare" ],
+			[ "abordáremos" ],
+			[ "abordareis", "abordaren" ],
+			[ "abordaren" ]
+		],
+		"12" : {
+			"1" : [ "aborda" ],
+			"2" : [ "aborde" ],
+			"3" : [ "abordemos" ],
+			"4" : [ "abordad" ],
+			"5" : [ "aborden" ]
+		}
+	}
+}

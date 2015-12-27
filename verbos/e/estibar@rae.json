@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estibar",
+	"word" : "estibar",
+	"infinitivo" : "estibar",
+	"participio" : [ "estibado" ],
+	"gerundio" : [ "estibando" ],
+	"tenses" : {
+		"3" : [
+			[ "estibo" ],
+			[ "estibas", "estibás" ],
+			[ "estiba" ],
+			[ "estibamos" ],
+			[ "estibáis", "estiban" ],
+			[ "estiban" ]
+		],
+		"4" : [
+			[ "estibé" ],
+			[ "estibaste" ],
+			[ "estibó" ],
+			[ "estibamos" ],
+			[ "estibasteis", "estibaron" ],
+			[ "estibaron" ]
+		],
+		"5" : [
+			[ "estibaba" ],
+			[ "estibabas" ],
+			[ "estibaba" ],
+			[ "estibábamos" ],
+			[ "estibabais", "estibaban" ],
+			[ "estibaban" ]
+		],
+		"6" : [
+			[ "estibaría" ],
+			[ "estibarías" ],
+			[ "estibaría" ],
+			[ "estibaríamos" ],
+			[ "estibaríais", "estibarían" ],
+			[ "estibarían" ]
+		],
+		"7" : [
+			[ "estibaré" ],
+			[ "estibarás" ],
+			[ "estibará" ],
+			[ "estibaremos" ],
+			[ "estibaréis", "estibarán" ],
+			[ "estibarán" ]
+		],
+		"8" : [
+			[ "estibe" ],
+			[ "estibes" ],
+			[ "estibe" ],
+			[ "estibemos" ],
+			[ "estibéis", "estiben" ],
+			[ "estiben" ]
+		],
+		"9" : [
+			[ "estibara" ],
+			[ "estibaras" ],
+			[ "estibara" ],
+			[ "estibáramos" ],
+			[ "estibarais", "estibaran" ],
+			[ "estibaran" ]
+		],
+		"10" : [
+			[ "estibase" ],
+			[ "estibases" ],
+			[ "estibase" ],
+			[ "estibásemos" ],
+			[ "estibaseis", "estibasen" ],
+			[ "estibasen" ]
+		],
+		"11" : [
+			[ "estibare" ],
+			[ "estibares" ],
+			[ "estibare" ],
+			[ "estibáremos" ],
+			[ "estibareis", "estibaren" ],
+			[ "estibaren" ]
+		],
+		"12" : {
+			"1" : [ "estiba" ],
+			"2" : [ "estibe" ],
+			"3" : [ "estibemos" ],
+			"4" : [ "estibad" ],
+			"5" : [ "estiben" ]
+		}
+	}
+}

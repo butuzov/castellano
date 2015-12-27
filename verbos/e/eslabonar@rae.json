@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=eslabonar",
+	"word" : "eslabonar",
+	"infinitivo" : "eslabonar",
+	"participio" : [ "eslabonado" ],
+	"gerundio" : [ "eslabonando" ],
+	"tenses" : {
+		"3" : [
+			[ "eslabono" ],
+			[ "eslabonas", "eslabonás" ],
+			[ "eslabona" ],
+			[ "eslabonamos" ],
+			[ "eslabonáis", "eslabonan" ],
+			[ "eslabonan" ]
+		],
+		"4" : [
+			[ "eslaboné" ],
+			[ "eslabonaste" ],
+			[ "eslabonó" ],
+			[ "eslabonamos" ],
+			[ "eslabonasteis", "eslabonaron" ],
+			[ "eslabonaron" ]
+		],
+		"5" : [
+			[ "eslabonaba" ],
+			[ "eslabonabas" ],
+			[ "eslabonaba" ],
+			[ "eslabonábamos" ],
+			[ "eslabonabais", "eslabonaban" ],
+			[ "eslabonaban" ]
+		],
+		"6" : [
+			[ "eslabonaría" ],
+			[ "eslabonarías" ],
+			[ "eslabonaría" ],
+			[ "eslabonaríamos" ],
+			[ "eslabonaríais", "eslabonarían" ],
+			[ "eslabonarían" ]
+		],
+		"7" : [
+			[ "eslabonaré" ],
+			[ "eslabonarás" ],
+			[ "eslabonará" ],
+			[ "eslabonaremos" ],
+			[ "eslabonaréis", "eslabonarán" ],
+			[ "eslabonarán" ]
+		],
+		"8" : [
+			[ "eslabone" ],
+			[ "eslabones" ],
+			[ "eslabone" ],
+			[ "eslabonemos" ],
+			[ "eslabonéis", "eslabonen" ],
+			[ "eslabonen" ]
+		],
+		"9" : [
+			[ "eslabonara" ],
+			[ "eslabonaras" ],
+			[ "eslabonara" ],
+			[ "eslabonáramos" ],
+			[ "eslabonarais", "eslabonaran" ],
+			[ "eslabonaran" ]
+		],
+		"10" : [
+			[ "eslabonase" ],
+			[ "eslabonases" ],
+			[ "eslabonase" ],
+			[ "eslabonásemos" ],
+			[ "eslabonaseis", "eslabonasen" ],
+			[ "eslabonasen" ]
+		],
+		"11" : [
+			[ "eslabonare" ],
+			[ "eslabonares" ],
+			[ "eslabonare" ],
+			[ "eslabonáremos" ],
+			[ "eslabonareis", "eslabonaren" ],
+			[ "eslabonaren" ]
+		],
+		"12" : {
+			"1" : [ "eslabona" ],
+			"2" : [ "eslabone" ],
+			"3" : [ "eslabonemos" ],
+			"4" : [ "eslabonad" ],
+			"5" : [ "eslabonen" ]
+		}
+	}
+}

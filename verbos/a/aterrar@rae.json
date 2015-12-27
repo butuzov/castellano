@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aterrar",
+	"word" : "aterrar",
+	"infinitivo" : "aterrar",
+	"participio" : [ "aterrado" ],
+	"gerundio" : [ "aterrando" ],
+	"tenses" : {
+		"3" : [
+			[ "atierro" ],
+			[ "atierras", "aterrás" ],
+			[ "atierra" ],
+			[ "aterramos" ],
+			[ "aterráis", "atierran" ],
+			[ "atierran" ]
+		],
+		"4" : [
+			[ "aterré" ],
+			[ "aterraste" ],
+			[ "aterró" ],
+			[ "aterramos" ],
+			[ "aterrasteis", "aterraron" ],
+			[ "aterraron" ]
+		],
+		"5" : [
+			[ "aterraba" ],
+			[ "aterrabas" ],
+			[ "aterraba" ],
+			[ "aterrábamos" ],
+			[ "aterrabais", "aterraban" ],
+			[ "aterraban" ]
+		],
+		"6" : [
+			[ "aterraría" ],
+			[ "aterrarías" ],
+			[ "aterraría" ],
+			[ "aterraríamos" ],
+			[ "aterraríais", "aterrarían" ],
+			[ "aterrarían" ]
+		],
+		"7" : [
+			[ "aterraré" ],
+			[ "aterrarás" ],
+			[ "aterrará" ],
+			[ "aterraremos" ],
+			[ "aterraréis", "aterrarán" ],
+			[ "aterrarán" ]
+		],
+		"8" : [
+			[ "atierre" ],
+			[ "atierres" ],
+			[ "atierre" ],
+			[ "aterremos" ],
+			[ "aterréis", "atierren" ],
+			[ "atierren" ]
+		],
+		"9" : [
+			[ "aterrara" ],
+			[ "aterraras" ],
+			[ "aterrara" ],
+			[ "aterráramos" ],
+			[ "aterrarais", "aterraran" ],
+			[ "aterraran" ]
+		],
+		"10" : [
+			[ "aterrase" ],
+			[ "aterrases" ],
+			[ "aterrase" ],
+			[ "aterrásemos" ],
+			[ "aterraseis", "aterrasen" ],
+			[ "aterrasen" ]
+		],
+		"11" : [
+			[ "aterrare" ],
+			[ "aterrares" ],
+			[ "aterrare" ],
+			[ "aterráremos" ],
+			[ "aterrareis", "aterraren" ],
+			[ "aterraren" ]
+		],
+		"12" : {
+			"1" : [ "atierra" ],
+			"2" : [ "atierre" ],
+			"3" : [ "aterremos" ],
+			"4" : [ "aterrad" ],
+			"5" : [ "atierren" ]
+		}
+	}
+}

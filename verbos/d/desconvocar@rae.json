@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desconvocar",
+	"word" : "desconvocar",
+	"infinitivo" : "desconvocar",
+	"participio" : [ "desconvocado" ],
+	"gerundio" : [ "desconvocando" ],
+	"tenses" : {
+		"3" : [
+			[ "desconvoco" ],
+			[ "desconvocas", "desconvocás" ],
+			[ "desconvoca" ],
+			[ "desconvocamos" ],
+			[ "desconvocáis", "desconvocan" ],
+			[ "desconvocan" ]
+		],
+		"4" : [
+			[ "desconvoqué" ],
+			[ "desconvocaste" ],
+			[ "desconvocó" ],
+			[ "desconvocamos" ],
+			[ "desconvocasteis", "desconvocaron" ],
+			[ "desconvocaron" ]
+		],
+		"5" : [
+			[ "desconvocaba" ],
+			[ "desconvocabas" ],
+			[ "desconvocaba" ],
+			[ "desconvocábamos" ],
+			[ "desconvocabais", "desconvocaban" ],
+			[ "desconvocaban" ]
+		],
+		"6" : [
+			[ "desconvocaría" ],
+			[ "desconvocarías" ],
+			[ "desconvocaría" ],
+			[ "desconvocaríamos" ],
+			[ "desconvocaríais", "desconvocarían" ],
+			[ "desconvocarían" ]
+		],
+		"7" : [
+			[ "desconvocaré" ],
+			[ "desconvocarás" ],
+			[ "desconvocará" ],
+			[ "desconvocaremos" ],
+			[ "desconvocaréis", "desconvocarán" ],
+			[ "desconvocarán" ]
+		],
+		"8" : [
+			[ "desconvoque" ],
+			[ "desconvoques" ],
+			[ "desconvoque" ],
+			[ "desconvoquemos" ],
+			[ "desconvoquéis", "desconvoquen" ],
+			[ "desconvoquen" ]
+		],
+		"9" : [
+			[ "desconvocara" ],
+			[ "desconvocaras" ],
+			[ "desconvocara" ],
+			[ "desconvocáramos" ],
+			[ "desconvocarais", "desconvocaran" ],
+			[ "desconvocaran" ]
+		],
+		"10" : [
+			[ "desconvocase" ],
+			[ "desconvocases" ],
+			[ "desconvocase" ],
+			[ "desconvocásemos" ],
+			[ "desconvocaseis", "desconvocasen" ],
+			[ "desconvocasen" ]
+		],
+		"11" : [
+			[ "desconvocare" ],
+			[ "desconvocares" ],
+			[ "desconvocare" ],
+			[ "desconvocáremos" ],
+			[ "desconvocareis", "desconvocaren" ],
+			[ "desconvocaren" ]
+		],
+		"12" : {
+			"1" : [ "desconvoca" ],
+			"2" : [ "desconvoque" ],
+			"3" : [ "desconvoquemos" ],
+			"4" : [ "desconvocad" ],
+			"5" : [ "desconvoquen" ]
+		}
+	}
+}

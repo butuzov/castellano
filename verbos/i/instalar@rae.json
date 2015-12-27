@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=instalar",
+	"word" : "instalar",
+	"infinitivo" : "instalar",
+	"participio" : [ "instalado" ],
+	"gerundio" : [ "instalando" ],
+	"tenses" : {
+		"3" : [
+			[ "instalo" ],
+			[ "instalas", "instalás" ],
+			[ "instala" ],
+			[ "instalamos" ],
+			[ "instaláis", "instalan" ],
+			[ "instalan" ]
+		],
+		"4" : [
+			[ "instalé" ],
+			[ "instalaste" ],
+			[ "instaló" ],
+			[ "instalamos" ],
+			[ "instalasteis", "instalaron" ],
+			[ "instalaron" ]
+		],
+		"5" : [
+			[ "instalaba" ],
+			[ "instalabas" ],
+			[ "instalaba" ],
+			[ "instalábamos" ],
+			[ "instalabais", "instalaban" ],
+			[ "instalaban" ]
+		],
+		"6" : [
+			[ "instalaría" ],
+			[ "instalarías" ],
+			[ "instalaría" ],
+			[ "instalaríamos" ],
+			[ "instalaríais", "instalarían" ],
+			[ "instalarían" ]
+		],
+		"7" : [
+			[ "instalaré" ],
+			[ "instalarás" ],
+			[ "instalará" ],
+			[ "instalaremos" ],
+			[ "instalaréis", "instalarán" ],
+			[ "instalarán" ]
+		],
+		"8" : [
+			[ "instale" ],
+			[ "instales" ],
+			[ "instale" ],
+			[ "instalemos" ],
+			[ "instaléis", "instalen" ],
+			[ "instalen" ]
+		],
+		"9" : [
+			[ "instalara" ],
+			[ "instalaras" ],
+			[ "instalara" ],
+			[ "instaláramos" ],
+			[ "instalarais", "instalaran" ],
+			[ "instalaran" ]
+		],
+		"10" : [
+			[ "instalase" ],
+			[ "instalases" ],
+			[ "instalase" ],
+			[ "instalásemos" ],
+			[ "instalaseis", "instalasen" ],
+			[ "instalasen" ]
+		],
+		"11" : [
+			[ "instalare" ],
+			[ "instalares" ],
+			[ "instalare" ],
+			[ "instaláremos" ],
+			[ "instalareis", "instalaren" ],
+			[ "instalaren" ]
+		],
+		"12" : {
+			"1" : [ "instala" ],
+			"2" : [ "instale" ],
+			"3" : [ "instalemos" ],
+			"4" : [ "instalad" ],
+			"5" : [ "instalen" ]
+		}
+	}
+}

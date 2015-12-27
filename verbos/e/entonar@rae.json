@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entonar",
+	"word" : "entonar",
+	"infinitivo" : "entonar",
+	"participio" : [ "entonado" ],
+	"gerundio" : [ "entonando" ],
+	"tenses" : {
+		"3" : [
+			[ "entono" ],
+			[ "entonas", "entonás" ],
+			[ "entona" ],
+			[ "entonamos" ],
+			[ "entonáis", "entonan" ],
+			[ "entonan" ]
+		],
+		"4" : [
+			[ "entoné" ],
+			[ "entonaste" ],
+			[ "entonó" ],
+			[ "entonamos" ],
+			[ "entonasteis", "entonaron" ],
+			[ "entonaron" ]
+		],
+		"5" : [
+			[ "entonaba" ],
+			[ "entonabas" ],
+			[ "entonaba" ],
+			[ "entonábamos" ],
+			[ "entonabais", "entonaban" ],
+			[ "entonaban" ]
+		],
+		"6" : [
+			[ "entonaría" ],
+			[ "entonarías" ],
+			[ "entonaría" ],
+			[ "entonaríamos" ],
+			[ "entonaríais", "entonarían" ],
+			[ "entonarían" ]
+		],
+		"7" : [
+			[ "entonaré" ],
+			[ "entonarás" ],
+			[ "entonará" ],
+			[ "entonaremos" ],
+			[ "entonaréis", "entonarán" ],
+			[ "entonarán" ]
+		],
+		"8" : [
+			[ "entone" ],
+			[ "entones" ],
+			[ "entone" ],
+			[ "entonemos" ],
+			[ "entonéis", "entonen" ],
+			[ "entonen" ]
+		],
+		"9" : [
+			[ "entonara" ],
+			[ "entonaras" ],
+			[ "entonara" ],
+			[ "entonáramos" ],
+			[ "entonarais", "entonaran" ],
+			[ "entonaran" ]
+		],
+		"10" : [
+			[ "entonase" ],
+			[ "entonases" ],
+			[ "entonase" ],
+			[ "entonásemos" ],
+			[ "entonaseis", "entonasen" ],
+			[ "entonasen" ]
+		],
+		"11" : [
+			[ "entonare" ],
+			[ "entonares" ],
+			[ "entonare" ],
+			[ "entonáremos" ],
+			[ "entonareis", "entonaren" ],
+			[ "entonaren" ]
+		],
+		"12" : {
+			"1" : [ "entona" ],
+			"2" : [ "entone" ],
+			"3" : [ "entonemos" ],
+			"4" : [ "entonad" ],
+			"5" : [ "entonen" ]
+		}
+	}
+}

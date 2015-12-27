@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adosar",
+	"word" : "adosar",
+	"infinitivo" : "adosar",
+	"participio" : [ "adosado" ],
+	"gerundio" : [ "adosando" ],
+	"tenses" : {
+		"3" : [
+			[ "adoso" ],
+			[ "adosas", "adosás" ],
+			[ "adosa" ],
+			[ "adosamos" ],
+			[ "adosáis", "adosan" ],
+			[ "adosan" ]
+		],
+		"4" : [
+			[ "adosé" ],
+			[ "adosaste" ],
+			[ "adosó" ],
+			[ "adosamos" ],
+			[ "adosasteis", "adosaron" ],
+			[ "adosaron" ]
+		],
+		"5" : [
+			[ "adosaba" ],
+			[ "adosabas" ],
+			[ "adosaba" ],
+			[ "adosábamos" ],
+			[ "adosabais", "adosaban" ],
+			[ "adosaban" ]
+		],
+		"6" : [
+			[ "adosaría" ],
+			[ "adosarías" ],
+			[ "adosaría" ],
+			[ "adosaríamos" ],
+			[ "adosaríais", "adosarían" ],
+			[ "adosarían" ]
+		],
+		"7" : [
+			[ "adosaré" ],
+			[ "adosarás" ],
+			[ "adosará" ],
+			[ "adosaremos" ],
+			[ "adosaréis", "adosarán" ],
+			[ "adosarán" ]
+		],
+		"8" : [
+			[ "adose" ],
+			[ "adoses" ],
+			[ "adose" ],
+			[ "adosemos" ],
+			[ "adoséis", "adosen" ],
+			[ "adosen" ]
+		],
+		"9" : [
+			[ "adosara" ],
+			[ "adosaras" ],
+			[ "adosara" ],
+			[ "adosáramos" ],
+			[ "adosarais", "adosaran" ],
+			[ "adosaran" ]
+		],
+		"10" : [
+			[ "adosase" ],
+			[ "adosases" ],
+			[ "adosase" ],
+			[ "adosásemos" ],
+			[ "adosaseis", "adosasen" ],
+			[ "adosasen" ]
+		],
+		"11" : [
+			[ "adosare" ],
+			[ "adosares" ],
+			[ "adosare" ],
+			[ "adosáremos" ],
+			[ "adosareis", "adosaren" ],
+			[ "adosaren" ]
+		],
+		"12" : {
+			"1" : [ "adosa" ],
+			"2" : [ "adose" ],
+			"3" : [ "adosemos" ],
+			"4" : [ "adosad" ],
+			"5" : [ "adosen" ]
+		}
+	}
+}

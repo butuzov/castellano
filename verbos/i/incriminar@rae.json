@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incriminar",
+	"word" : "incriminar",
+	"infinitivo" : "incriminar",
+	"participio" : [ "incriminado" ],
+	"gerundio" : [ "incriminando" ],
+	"tenses" : {
+		"3" : [
+			[ "incrimino" ],
+			[ "incriminas", "incriminás" ],
+			[ "incrimina" ],
+			[ "incriminamos" ],
+			[ "incrimináis", "incriminan" ],
+			[ "incriminan" ]
+		],
+		"4" : [
+			[ "incriminé" ],
+			[ "incriminaste" ],
+			[ "incriminó" ],
+			[ "incriminamos" ],
+			[ "incriminasteis", "incriminaron" ],
+			[ "incriminaron" ]
+		],
+		"5" : [
+			[ "incriminaba" ],
+			[ "incriminabas" ],
+			[ "incriminaba" ],
+			[ "incriminábamos" ],
+			[ "incriminabais", "incriminaban" ],
+			[ "incriminaban" ]
+		],
+		"6" : [
+			[ "incriminaría" ],
+			[ "incriminarías" ],
+			[ "incriminaría" ],
+			[ "incriminaríamos" ],
+			[ "incriminaríais", "incriminarían" ],
+			[ "incriminarían" ]
+		],
+		"7" : [
+			[ "incriminaré" ],
+			[ "incriminarás" ],
+			[ "incriminará" ],
+			[ "incriminaremos" ],
+			[ "incriminaréis", "incriminarán" ],
+			[ "incriminarán" ]
+		],
+		"8" : [
+			[ "incrimine" ],
+			[ "incrimines" ],
+			[ "incrimine" ],
+			[ "incriminemos" ],
+			[ "incriminéis", "incriminen" ],
+			[ "incriminen" ]
+		],
+		"9" : [
+			[ "incriminara" ],
+			[ "incriminaras" ],
+			[ "incriminara" ],
+			[ "incrimináramos" ],
+			[ "incriminarais", "incriminaran" ],
+			[ "incriminaran" ]
+		],
+		"10" : [
+			[ "incriminase" ],
+			[ "incriminases" ],
+			[ "incriminase" ],
+			[ "incriminásemos" ],
+			[ "incriminaseis", "incriminasen" ],
+			[ "incriminasen" ]
+		],
+		"11" : [
+			[ "incriminare" ],
+			[ "incriminares" ],
+			[ "incriminare" ],
+			[ "incrimináremos" ],
+			[ "incriminareis", "incriminaren" ],
+			[ "incriminaren" ]
+		],
+		"12" : {
+			"1" : [ "incrimina" ],
+			"2" : [ "incrimine" ],
+			"3" : [ "incriminemos" ],
+			"4" : [ "incriminad" ],
+			"5" : [ "incriminen" ]
+		}
+	}
+}

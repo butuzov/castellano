@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sentir",
+	"word" : "sentir",
+	"infinitivo" : "sentir",
+	"participio" : [ "sentido" ],
+	"gerundio" : [ "sintiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "siento" ],
+			[ "sientes", "sentís" ],
+			[ "siente" ],
+			[ "sentimos" ],
+			[ "sentís", "sienten" ],
+			[ "sienten" ]
+		],
+		"4" : [
+			[ "sentí" ],
+			[ "sentiste" ],
+			[ "sintió" ],
+			[ "sentimos" ],
+			[ "sentisteis", "sintieron" ],
+			[ "sintieron" ]
+		],
+		"5" : [
+			[ "sentía" ],
+			[ "sentías" ],
+			[ "sentía" ],
+			[ "sentíamos" ],
+			[ "sentíais", "sentían" ],
+			[ "sentían" ]
+		],
+		"6" : [
+			[ "sentiría" ],
+			[ "sentirías" ],
+			[ "sentiría" ],
+			[ "sentiríamos" ],
+			[ "sentiríais", "sentirían" ],
+			[ "sentirían" ]
+		],
+		"7" : [
+			[ "sentiré" ],
+			[ "sentirás" ],
+			[ "sentirá" ],
+			[ "sentiremos" ],
+			[ "sentiréis", "sentirán" ],
+			[ "sentirán" ]
+		],
+		"8" : [
+			[ "sienta" ],
+			[ "sientas" ],
+			[ "sienta" ],
+			[ "sintamos" ],
+			[ "sintáis", "sientan" ],
+			[ "sientan" ]
+		],
+		"9" : [
+			[ "sintiera" ],
+			[ "sintieras" ],
+			[ "sintiera" ],
+			[ "sintiéramos" ],
+			[ "sintierais", "sintieran" ],
+			[ "sintieran" ]
+		],
+		"10" : [
+			[ "sintiese" ],
+			[ "sintieses" ],
+			[ "sintiese" ],
+			[ "sintiésemos" ],
+			[ "sintieseis", "sintiesen" ],
+			[ "sintiesen" ]
+		],
+		"11" : [
+			[ "sintiere" ],
+			[ "sintieres" ],
+			[ "sintiere" ],
+			[ "sintiéremos" ],
+			[ "sintiereis", "sintieren" ],
+			[ "sintieren" ]
+		],
+		"12" : {
+			"1" : [ "siente" ],
+			"2" : [ "sienta" ],
+			"3" : [ "sintamos" ],
+			"4" : [ "sentid" ],
+			"5" : [ "sientan" ]
+		}
+	}
+}

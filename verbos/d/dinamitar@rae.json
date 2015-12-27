@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dinamitar",
+	"word" : "dinamitar",
+	"infinitivo" : "dinamitar",
+	"participio" : [ "dinamitado" ],
+	"gerundio" : [ "dinamitando" ],
+	"tenses" : {
+		"3" : [
+			[ "dinamito" ],
+			[ "dinamitas", "dinamitás" ],
+			[ "dinamita" ],
+			[ "dinamitamos" ],
+			[ "dinamitáis", "dinamitan" ],
+			[ "dinamitan" ]
+		],
+		"4" : [
+			[ "dinamité" ],
+			[ "dinamitaste" ],
+			[ "dinamitó" ],
+			[ "dinamitamos" ],
+			[ "dinamitasteis", "dinamitaron" ],
+			[ "dinamitaron" ]
+		],
+		"5" : [
+			[ "dinamitaba" ],
+			[ "dinamitabas" ],
+			[ "dinamitaba" ],
+			[ "dinamitábamos" ],
+			[ "dinamitabais", "dinamitaban" ],
+			[ "dinamitaban" ]
+		],
+		"6" : [
+			[ "dinamitaría" ],
+			[ "dinamitarías" ],
+			[ "dinamitaría" ],
+			[ "dinamitaríamos" ],
+			[ "dinamitaríais", "dinamitarían" ],
+			[ "dinamitarían" ]
+		],
+		"7" : [
+			[ "dinamitaré" ],
+			[ "dinamitarás" ],
+			[ "dinamitará" ],
+			[ "dinamitaremos" ],
+			[ "dinamitaréis", "dinamitarán" ],
+			[ "dinamitarán" ]
+		],
+		"8" : [
+			[ "dinamite" ],
+			[ "dinamites" ],
+			[ "dinamite" ],
+			[ "dinamitemos" ],
+			[ "dinamitéis", "dinamiten" ],
+			[ "dinamiten" ]
+		],
+		"9" : [
+			[ "dinamitara" ],
+			[ "dinamitaras" ],
+			[ "dinamitara" ],
+			[ "dinamitáramos" ],
+			[ "dinamitarais", "dinamitaran" ],
+			[ "dinamitaran" ]
+		],
+		"10" : [
+			[ "dinamitase" ],
+			[ "dinamitases" ],
+			[ "dinamitase" ],
+			[ "dinamitásemos" ],
+			[ "dinamitaseis", "dinamitasen" ],
+			[ "dinamitasen" ]
+		],
+		"11" : [
+			[ "dinamitare" ],
+			[ "dinamitares" ],
+			[ "dinamitare" ],
+			[ "dinamitáremos" ],
+			[ "dinamitareis", "dinamitaren" ],
+			[ "dinamitaren" ]
+		],
+		"12" : {
+			"1" : [ "dinamita" ],
+			"2" : [ "dinamite" ],
+			"3" : [ "dinamitemos" ],
+			"4" : [ "dinamitad" ],
+			"5" : [ "dinamiten" ]
+		}
+	}
+}

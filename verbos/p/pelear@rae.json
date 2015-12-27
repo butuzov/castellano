@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pelear",
+	"word" : "pelear",
+	"infinitivo" : "pelear",
+	"participio" : [ "peleado" ],
+	"gerundio" : [ "peleando" ],
+	"tenses" : {
+		"3" : [
+			[ "peleo" ],
+			[ "peleas", "peleás" ],
+			[ "pelea" ],
+			[ "peleamos" ],
+			[ "peleáis", "pelean" ],
+			[ "pelean" ]
+		],
+		"4" : [
+			[ "peleé" ],
+			[ "peleaste" ],
+			[ "peleó" ],
+			[ "peleamos" ],
+			[ "peleasteis", "pelearon" ],
+			[ "pelearon" ]
+		],
+		"5" : [
+			[ "peleaba" ],
+			[ "peleabas" ],
+			[ "peleaba" ],
+			[ "peleábamos" ],
+			[ "peleabais", "peleaban" ],
+			[ "peleaban" ]
+		],
+		"6" : [
+			[ "pelearía" ],
+			[ "pelearías" ],
+			[ "pelearía" ],
+			[ "pelearíamos" ],
+			[ "pelearíais", "pelearían" ],
+			[ "pelearían" ]
+		],
+		"7" : [
+			[ "pelearé" ],
+			[ "pelearás" ],
+			[ "peleará" ],
+			[ "pelearemos" ],
+			[ "pelearéis", "pelearán" ],
+			[ "pelearán" ]
+		],
+		"8" : [
+			[ "pelee" ],
+			[ "pelees" ],
+			[ "pelee" ],
+			[ "peleemos" ],
+			[ "peleéis", "peleen" ],
+			[ "peleen" ]
+		],
+		"9" : [
+			[ "peleara" ],
+			[ "pelearas" ],
+			[ "peleara" ],
+			[ "peleáramos" ],
+			[ "pelearais", "pelearan" ],
+			[ "pelearan" ]
+		],
+		"10" : [
+			[ "pelease" ],
+			[ "peleases" ],
+			[ "pelease" ],
+			[ "peleásemos" ],
+			[ "peleaseis", "peleasen" ],
+			[ "peleasen" ]
+		],
+		"11" : [
+			[ "peleare" ],
+			[ "peleares" ],
+			[ "peleare" ],
+			[ "peleáremos" ],
+			[ "peleareis", "pelearen" ],
+			[ "pelearen" ]
+		],
+		"12" : {
+			"1" : [ "pelea" ],
+			"2" : [ "pelee" ],
+			"3" : [ "peleemos" ],
+			"4" : [ "pelead" ],
+			"5" : [ "peleen" ]
+		}
+	}
+}

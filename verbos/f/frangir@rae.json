@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=frangir",
+	"word" : "frangir",
+	"infinitivo" : "frangir",
+	"participio" : [ "frangido" ],
+	"gerundio" : [ "frangiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "franjo" ],
+			[ "franges", "frangís" ],
+			[ "frange" ],
+			[ "frangimos" ],
+			[ "frangís", "frangen" ],
+			[ "frangen" ]
+		],
+		"4" : [
+			[ "frangí" ],
+			[ "frangiste" ],
+			[ "frangió" ],
+			[ "frangimos" ],
+			[ "frangisteis", "frangieron" ],
+			[ "frangieron" ]
+		],
+		"5" : [
+			[ "frangía" ],
+			[ "frangías" ],
+			[ "frangía" ],
+			[ "frangíamos" ],
+			[ "frangíais", "frangían" ],
+			[ "frangían" ]
+		],
+		"6" : [
+			[ "frangiría" ],
+			[ "frangirías" ],
+			[ "frangiría" ],
+			[ "frangiríamos" ],
+			[ "frangiríais", "frangirían" ],
+			[ "frangirían" ]
+		],
+		"7" : [
+			[ "frangiré" ],
+			[ "frangirás" ],
+			[ "frangirá" ],
+			[ "frangiremos" ],
+			[ "frangiréis", "frangirán" ],
+			[ "frangirán" ]
+		],
+		"8" : [
+			[ "franja" ],
+			[ "franjas" ],
+			[ "franja" ],
+			[ "franjamos" ],
+			[ "franjáis", "franjan" ],
+			[ "franjan" ]
+		],
+		"9" : [
+			[ "frangiera" ],
+			[ "frangieras" ],
+			[ "frangiera" ],
+			[ "frangiéramos" ],
+			[ "frangierais", "frangieran" ],
+			[ "frangieran" ]
+		],
+		"10" : [
+			[ "frangiese" ],
+			[ "frangieses" ],
+			[ "frangiese" ],
+			[ "frangiésemos" ],
+			[ "frangieseis", "frangiesen" ],
+			[ "frangiesen" ]
+		],
+		"11" : [
+			[ "frangiere" ],
+			[ "frangieres" ],
+			[ "frangiere" ],
+			[ "frangiéremos" ],
+			[ "frangiereis", "frangieren" ],
+			[ "frangieren" ]
+		],
+		"12" : {
+			"1" : [ "frange" ],
+			"2" : [ "franja" ],
+			"3" : [ "franjamos" ],
+			"4" : [ "frangid" ],
+			"5" : [ "franjan" ]
+		}
+	}
+}

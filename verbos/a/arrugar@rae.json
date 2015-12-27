@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrugar",
+	"word" : "arrugar",
+	"infinitivo" : "arrugar",
+	"participio" : [ "arrugado" ],
+	"gerundio" : [ "arrugando" ],
+	"tenses" : {
+		"3" : [
+			[ "arrugo" ],
+			[ "arrugas", "arrugás" ],
+			[ "arruga" ],
+			[ "arrugamos" ],
+			[ "arrugáis", "arrugan" ],
+			[ "arrugan" ]
+		],
+		"4" : [
+			[ "arrugué" ],
+			[ "arrugaste" ],
+			[ "arrugó" ],
+			[ "arrugamos" ],
+			[ "arrugasteis", "arrugaron" ],
+			[ "arrugaron" ]
+		],
+		"5" : [
+			[ "arrugaba" ],
+			[ "arrugabas" ],
+			[ "arrugaba" ],
+			[ "arrugábamos" ],
+			[ "arrugabais", "arrugaban" ],
+			[ "arrugaban" ]
+		],
+		"6" : [
+			[ "arrugaría" ],
+			[ "arrugarías" ],
+			[ "arrugaría" ],
+			[ "arrugaríamos" ],
+			[ "arrugaríais", "arrugarían" ],
+			[ "arrugarían" ]
+		],
+		"7" : [
+			[ "arrugaré" ],
+			[ "arrugarás" ],
+			[ "arrugará" ],
+			[ "arrugaremos" ],
+			[ "arrugaréis", "arrugarán" ],
+			[ "arrugarán" ]
+		],
+		"8" : [
+			[ "arrugue" ],
+			[ "arrugues" ],
+			[ "arrugue" ],
+			[ "arruguemos" ],
+			[ "arruguéis", "arruguen" ],
+			[ "arruguen" ]
+		],
+		"9" : [
+			[ "arrugara" ],
+			[ "arrugaras" ],
+			[ "arrugara" ],
+			[ "arrugáramos" ],
+			[ "arrugarais", "arrugaran" ],
+			[ "arrugaran" ]
+		],
+		"10" : [
+			[ "arrugase" ],
+			[ "arrugases" ],
+			[ "arrugase" ],
+			[ "arrugásemos" ],
+			[ "arrugaseis", "arrugasen" ],
+			[ "arrugasen" ]
+		],
+		"11" : [
+			[ "arrugare" ],
+			[ "arrugares" ],
+			[ "arrugare" ],
+			[ "arrugáremos" ],
+			[ "arrugareis", "arrugaren" ],
+			[ "arrugaren" ]
+		],
+		"12" : {
+			"1" : [ "arruga" ],
+			"2" : [ "arrugue" ],
+			"3" : [ "arruguemos" ],
+			"4" : [ "arrugad" ],
+			"5" : [ "arruguen" ]
+		}
+	}
+}

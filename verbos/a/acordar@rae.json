@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acordar",
+	"word" : "acordar",
+	"infinitivo" : "acordar",
+	"participio" : [ "acordado" ],
+	"gerundio" : [ "acordando" ],
+	"tenses" : {
+		"3" : [
+			[ "acuerdo" ],
+			[ "acuerdas", "acordás" ],
+			[ "acuerda" ],
+			[ "acordamos" ],
+			[ "acordáis", "acuerdan" ],
+			[ "acuerdan" ]
+		],
+		"4" : [
+			[ "acordé" ],
+			[ "acordaste" ],
+			[ "acordó" ],
+			[ "acordamos" ],
+			[ "acordasteis", "acordaron" ],
+			[ "acordaron" ]
+		],
+		"5" : [
+			[ "acordaba" ],
+			[ "acordabas" ],
+			[ "acordaba" ],
+			[ "acordábamos" ],
+			[ "acordabais", "acordaban" ],
+			[ "acordaban" ]
+		],
+		"6" : [
+			[ "acordaría" ],
+			[ "acordarías" ],
+			[ "acordaría" ],
+			[ "acordaríamos" ],
+			[ "acordaríais", "acordarían" ],
+			[ "acordarían" ]
+		],
+		"7" : [
+			[ "acordaré" ],
+			[ "acordarás" ],
+			[ "acordará" ],
+			[ "acordaremos" ],
+			[ "acordaréis", "acordarán" ],
+			[ "acordarán" ]
+		],
+		"8" : [
+			[ "acuerde" ],
+			[ "acuerdes" ],
+			[ "acuerde" ],
+			[ "acordemos" ],
+			[ "acordéis", "acuerden" ],
+			[ "acuerden" ]
+		],
+		"9" : [
+			[ "acordara" ],
+			[ "acordaras" ],
+			[ "acordara" ],
+			[ "acordáramos" ],
+			[ "acordarais", "acordaran" ],
+			[ "acordaran" ]
+		],
+		"10" : [
+			[ "acordase" ],
+			[ "acordases" ],
+			[ "acordase" ],
+			[ "acordásemos" ],
+			[ "acordaseis", "acordasen" ],
+			[ "acordasen" ]
+		],
+		"11" : [
+			[ "acordare" ],
+			[ "acordares" ],
+			[ "acordare" ],
+			[ "acordáremos" ],
+			[ "acordareis", "acordaren" ],
+			[ "acordaren" ]
+		],
+		"12" : {
+			"1" : [ "acuerda" ],
+			"2" : [ "acuerde" ],
+			"3" : [ "acordemos" ],
+			"4" : [ "acordad" ],
+			"5" : [ "acuerden" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmandar",
+	"word" : "desmandar",
+	"infinitivo" : "desmandar",
+	"participio" : [ "desmandado" ],
+	"gerundio" : [ "desmandando" ],
+	"tenses" : {
+		"3" : [
+			[ "desmando" ],
+			[ "desmandas", "desmandás" ],
+			[ "desmanda" ],
+			[ "desmandamos" ],
+			[ "desmandáis", "desmandan" ],
+			[ "desmandan" ]
+		],
+		"4" : [
+			[ "desmandé" ],
+			[ "desmandaste" ],
+			[ "desmandó" ],
+			[ "desmandamos" ],
+			[ "desmandasteis", "desmandaron" ],
+			[ "desmandaron" ]
+		],
+		"5" : [
+			[ "desmandaba" ],
+			[ "desmandabas" ],
+			[ "desmandaba" ],
+			[ "desmandábamos" ],
+			[ "desmandabais", "desmandaban" ],
+			[ "desmandaban" ]
+		],
+		"6" : [
+			[ "desmandaría" ],
+			[ "desmandarías" ],
+			[ "desmandaría" ],
+			[ "desmandaríamos" ],
+			[ "desmandaríais", "desmandarían" ],
+			[ "desmandarían" ]
+		],
+		"7" : [
+			[ "desmandaré" ],
+			[ "desmandarás" ],
+			[ "desmandará" ],
+			[ "desmandaremos" ],
+			[ "desmandaréis", "desmandarán" ],
+			[ "desmandarán" ]
+		],
+		"8" : [
+			[ "desmande" ],
+			[ "desmandes" ],
+			[ "desmande" ],
+			[ "desmandemos" ],
+			[ "desmandéis", "desmanden" ],
+			[ "desmanden" ]
+		],
+		"9" : [
+			[ "desmandara" ],
+			[ "desmandaras" ],
+			[ "desmandara" ],
+			[ "desmandáramos" ],
+			[ "desmandarais", "desmandaran" ],
+			[ "desmandaran" ]
+		],
+		"10" : [
+			[ "desmandase" ],
+			[ "desmandases" ],
+			[ "desmandase" ],
+			[ "desmandásemos" ],
+			[ "desmandaseis", "desmandasen" ],
+			[ "desmandasen" ]
+		],
+		"11" : [
+			[ "desmandare" ],
+			[ "desmandares" ],
+			[ "desmandare" ],
+			[ "desmandáremos" ],
+			[ "desmandareis", "desmandaren" ],
+			[ "desmandaren" ]
+		],
+		"12" : {
+			"1" : [ "desmanda" ],
+			"2" : [ "desmande" ],
+			"3" : [ "desmandemos" ],
+			"4" : [ "desmandad" ],
+			"5" : [ "desmanden" ]
+		}
+	}
+}

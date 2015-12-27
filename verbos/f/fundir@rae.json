@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fundir",
+	"word" : "fundir",
+	"infinitivo" : "fundir",
+	"participio" : [ "fundido" ],
+	"gerundio" : [ "fundiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "fundo" ],
+			[ "fundes", "fundís" ],
+			[ "funde" ],
+			[ "fundimos" ],
+			[ "fundís", "funden" ],
+			[ "funden" ]
+		],
+		"4" : [
+			[ "fundí" ],
+			[ "fundiste" ],
+			[ "fundió" ],
+			[ "fundimos" ],
+			[ "fundisteis", "fundieron" ],
+			[ "fundieron" ]
+		],
+		"5" : [
+			[ "fundía" ],
+			[ "fundías" ],
+			[ "fundía" ],
+			[ "fundíamos" ],
+			[ "fundíais", "fundían" ],
+			[ "fundían" ]
+		],
+		"6" : [
+			[ "fundiría" ],
+			[ "fundirías" ],
+			[ "fundiría" ],
+			[ "fundiríamos" ],
+			[ "fundiríais", "fundirían" ],
+			[ "fundirían" ]
+		],
+		"7" : [
+			[ "fundiré" ],
+			[ "fundirás" ],
+			[ "fundirá" ],
+			[ "fundiremos" ],
+			[ "fundiréis", "fundirán" ],
+			[ "fundirán" ]
+		],
+		"8" : [
+			[ "funda" ],
+			[ "fundas" ],
+			[ "funda" ],
+			[ "fundamos" ],
+			[ "fundáis", "fundan" ],
+			[ "fundan" ]
+		],
+		"9" : [
+			[ "fundiera" ],
+			[ "fundieras" ],
+			[ "fundiera" ],
+			[ "fundiéramos" ],
+			[ "fundierais", "fundieran" ],
+			[ "fundieran" ]
+		],
+		"10" : [
+			[ "fundiese" ],
+			[ "fundieses" ],
+			[ "fundiese" ],
+			[ "fundiésemos" ],
+			[ "fundieseis", "fundiesen" ],
+			[ "fundiesen" ]
+		],
+		"11" : [
+			[ "fundiere" ],
+			[ "fundieres" ],
+			[ "fundiere" ],
+			[ "fundiéremos" ],
+			[ "fundiereis", "fundieren" ],
+			[ "fundieren" ]
+		],
+		"12" : {
+			"1" : [ "funde" ],
+			"2" : [ "funda" ],
+			"3" : [ "fundamos" ],
+			"4" : [ "fundid" ],
+			"5" : [ "fundan" ]
+		}
+	}
+}

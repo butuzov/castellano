@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=distar",
+	"word" : "distar",
+	"infinitivo" : "distar",
+	"participio" : [ "distado" ],
+	"gerundio" : [ "distando" ],
+	"tenses" : {
+		"3" : [
+			[ "disto" ],
+			[ "distas", "distás" ],
+			[ "dista" ],
+			[ "distamos" ],
+			[ "distáis", "distan" ],
+			[ "distan" ]
+		],
+		"4" : [
+			[ "disté" ],
+			[ "distaste" ],
+			[ "distó" ],
+			[ "distamos" ],
+			[ "distasteis", "distaron" ],
+			[ "distaron" ]
+		],
+		"5" : [
+			[ "distaba" ],
+			[ "distabas" ],
+			[ "distaba" ],
+			[ "distábamos" ],
+			[ "distabais", "distaban" ],
+			[ "distaban" ]
+		],
+		"6" : [
+			[ "distaría" ],
+			[ "distarías" ],
+			[ "distaría" ],
+			[ "distaríamos" ],
+			[ "distaríais", "distarían" ],
+			[ "distarían" ]
+		],
+		"7" : [
+			[ "distaré" ],
+			[ "distarás" ],
+			[ "distará" ],
+			[ "distaremos" ],
+			[ "distaréis", "distarán" ],
+			[ "distarán" ]
+		],
+		"8" : [
+			[ "diste" ],
+			[ "distes" ],
+			[ "diste" ],
+			[ "distemos" ],
+			[ "distéis", "disten" ],
+			[ "disten" ]
+		],
+		"9" : [
+			[ "distara" ],
+			[ "distaras" ],
+			[ "distara" ],
+			[ "distáramos" ],
+			[ "distarais", "distaran" ],
+			[ "distaran" ]
+		],
+		"10" : [
+			[ "distase" ],
+			[ "distases" ],
+			[ "distase" ],
+			[ "distásemos" ],
+			[ "distaseis", "distasen" ],
+			[ "distasen" ]
+		],
+		"11" : [
+			[ "distare" ],
+			[ "distares" ],
+			[ "distare" ],
+			[ "distáremos" ],
+			[ "distareis", "distaren" ],
+			[ "distaren" ]
+		],
+		"12" : {
+			"1" : [ "dista" ],
+			"2" : [ "diste" ],
+			"3" : [ "distemos" ],
+			"4" : [ "distad" ],
+			"5" : [ "disten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pender",
+	"word" : "pender",
+	"infinitivo" : "pender",
+	"participio" : [ "pendido" ],
+	"gerundio" : [ "pendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "pendo" ],
+			[ "pendes", "pendés" ],
+			[ "pende" ],
+			[ "pendemos" ],
+			[ "pendéis", "penden" ],
+			[ "penden" ]
+		],
+		"4" : [
+			[ "pendí" ],
+			[ "pendiste" ],
+			[ "pendió" ],
+			[ "pendimos" ],
+			[ "pendisteis", "pendieron" ],
+			[ "pendieron" ]
+		],
+		"5" : [
+			[ "pendía" ],
+			[ "pendías" ],
+			[ "pendía" ],
+			[ "pendíamos" ],
+			[ "pendíais", "pendían" ],
+			[ "pendían" ]
+		],
+		"6" : [
+			[ "pendería" ],
+			[ "penderías" ],
+			[ "pendería" ],
+			[ "penderíamos" ],
+			[ "penderíais", "penderían" ],
+			[ "penderían" ]
+		],
+		"7" : [
+			[ "penderé" ],
+			[ "penderás" ],
+			[ "penderá" ],
+			[ "penderemos" ],
+			[ "penderéis", "penderán" ],
+			[ "penderán" ]
+		],
+		"8" : [
+			[ "penda" ],
+			[ "pendas" ],
+			[ "penda" ],
+			[ "pendamos" ],
+			[ "pendáis", "pendan" ],
+			[ "pendan" ]
+		],
+		"9" : [
+			[ "pendiera" ],
+			[ "pendieras" ],
+			[ "pendiera" ],
+			[ "pendiéramos" ],
+			[ "pendierais", "pendieran" ],
+			[ "pendieran" ]
+		],
+		"10" : [
+			[ "pendiese" ],
+			[ "pendieses" ],
+			[ "pendiese" ],
+			[ "pendiésemos" ],
+			[ "pendieseis", "pendiesen" ],
+			[ "pendiesen" ]
+		],
+		"11" : [
+			[ "pendiere" ],
+			[ "pendieres" ],
+			[ "pendiere" ],
+			[ "pendiéremos" ],
+			[ "pendiereis", "pendieren" ],
+			[ "pendieren" ]
+		],
+		"12" : {
+			"1" : [ "pende" ],
+			"2" : [ "penda" ],
+			"3" : [ "pendamos" ],
+			"4" : [ "pended" ],
+			"5" : [ "pendan" ]
+		}
+	}
+}

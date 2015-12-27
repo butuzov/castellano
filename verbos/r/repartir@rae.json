@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repartir",
+	"word" : "repartir",
+	"infinitivo" : "repartir",
+	"participio" : [ "repartido" ],
+	"gerundio" : [ "repartiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reparto" ],
+			[ "repartes", "repartís" ],
+			[ "reparte" ],
+			[ "repartimos" ],
+			[ "repartís", "reparten" ],
+			[ "reparten" ]
+		],
+		"4" : [
+			[ "repartí" ],
+			[ "repartiste" ],
+			[ "repartió" ],
+			[ "repartimos" ],
+			[ "repartisteis", "repartieron" ],
+			[ "repartieron" ]
+		],
+		"5" : [
+			[ "repartía" ],
+			[ "repartías" ],
+			[ "repartía" ],
+			[ "repartíamos" ],
+			[ "repartíais", "repartían" ],
+			[ "repartían" ]
+		],
+		"6" : [
+			[ "repartiría" ],
+			[ "repartirías" ],
+			[ "repartiría" ],
+			[ "repartiríamos" ],
+			[ "repartiríais", "repartirían" ],
+			[ "repartirían" ]
+		],
+		"7" : [
+			[ "repartiré" ],
+			[ "repartirás" ],
+			[ "repartirá" ],
+			[ "repartiremos" ],
+			[ "repartiréis", "repartirán" ],
+			[ "repartirán" ]
+		],
+		"8" : [
+			[ "reparta" ],
+			[ "repartas" ],
+			[ "reparta" ],
+			[ "repartamos" ],
+			[ "repartáis", "repartan" ],
+			[ "repartan" ]
+		],
+		"9" : [
+			[ "repartiera" ],
+			[ "repartieras" ],
+			[ "repartiera" ],
+			[ "repartiéramos" ],
+			[ "repartierais", "repartieran" ],
+			[ "repartieran" ]
+		],
+		"10" : [
+			[ "repartiese" ],
+			[ "repartieses" ],
+			[ "repartiese" ],
+			[ "repartiésemos" ],
+			[ "repartieseis", "repartiesen" ],
+			[ "repartiesen" ]
+		],
+		"11" : [
+			[ "repartiere" ],
+			[ "repartieres" ],
+			[ "repartiere" ],
+			[ "repartiéremos" ],
+			[ "repartiereis", "repartieren" ],
+			[ "repartieren" ]
+		],
+		"12" : {
+			"1" : [ "reparte" ],
+			"2" : [ "reparta" ],
+			"3" : [ "repartamos" ],
+			"4" : [ "repartid" ],
+			"5" : [ "repartan" ]
+		}
+	}
+}

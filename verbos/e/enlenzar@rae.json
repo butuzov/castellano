@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enlenzar",
+	"word" : "enlenzar",
+	"infinitivo" : "enlenzar",
+	"participio" : [ "enlenzado" ],
+	"gerundio" : [ "enlenzando" ],
+	"tenses" : {
+		"3" : [
+			[ "enlienzo" ],
+			[ "enlienzas", "enlenzás" ],
+			[ "enlienza" ],
+			[ "enlenzamos" ],
+			[ "enlenzáis", "enlienzan" ],
+			[ "enlienzan" ]
+		],
+		"4" : [
+			[ "enlencé" ],
+			[ "enlenzaste" ],
+			[ "enlenzó" ],
+			[ "enlenzamos" ],
+			[ "enlenzasteis", "enlenzaron" ],
+			[ "enlenzaron" ]
+		],
+		"5" : [
+			[ "enlenzaba" ],
+			[ "enlenzabas" ],
+			[ "enlenzaba" ],
+			[ "enlenzábamos" ],
+			[ "enlenzabais", "enlenzaban" ],
+			[ "enlenzaban" ]
+		],
+		"6" : [
+			[ "enlenzaría" ],
+			[ "enlenzarías" ],
+			[ "enlenzaría" ],
+			[ "enlenzaríamos" ],
+			[ "enlenzaríais", "enlenzarían" ],
+			[ "enlenzarían" ]
+		],
+		"7" : [
+			[ "enlenzaré" ],
+			[ "enlenzarás" ],
+			[ "enlenzará" ],
+			[ "enlenzaremos" ],
+			[ "enlenzaréis", "enlenzarán" ],
+			[ "enlenzarán" ]
+		],
+		"8" : [
+			[ "enlience" ],
+			[ "enliences" ],
+			[ "enlience" ],
+			[ "enlencemos" ],
+			[ "enlencéis", "enliencen" ],
+			[ "enliencen" ]
+		],
+		"9" : [
+			[ "enlenzara" ],
+			[ "enlenzaras" ],
+			[ "enlenzara" ],
+			[ "enlenzáramos" ],
+			[ "enlenzarais", "enlenzaran" ],
+			[ "enlenzaran" ]
+		],
+		"10" : [
+			[ "enlenzase" ],
+			[ "enlenzases" ],
+			[ "enlenzase" ],
+			[ "enlenzásemos" ],
+			[ "enlenzaseis", "enlenzasen" ],
+			[ "enlenzasen" ]
+		],
+		"11" : [
+			[ "enlenzare" ],
+			[ "enlenzares" ],
+			[ "enlenzare" ],
+			[ "enlenzáremos" ],
+			[ "enlenzareis", "enlenzaren" ],
+			[ "enlenzaren" ]
+		],
+		"12" : {
+			"1" : [ "enlienza" ],
+			"2" : [ "enlience" ],
+			"3" : [ "enlencemos" ],
+			"4" : [ "enlenzad" ],
+			"5" : [ "enliencen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=saciar",
+	"word" : "saciar",
+	"infinitivo" : "saciar",
+	"participio" : [ "saciado" ],
+	"gerundio" : [ "saciando" ],
+	"tenses" : {
+		"3" : [
+			[ "sacio" ],
+			[ "sacias", "saciás" ],
+			[ "sacia" ],
+			[ "saciamos" ],
+			[ "saciáis", "sacian" ],
+			[ "sacian" ]
+		],
+		"4" : [
+			[ "sacié" ],
+			[ "saciaste" ],
+			[ "sació" ],
+			[ "saciamos" ],
+			[ "saciasteis", "saciaron" ],
+			[ "saciaron" ]
+		],
+		"5" : [
+			[ "saciaba" ],
+			[ "saciabas" ],
+			[ "saciaba" ],
+			[ "saciábamos" ],
+			[ "saciabais", "saciaban" ],
+			[ "saciaban" ]
+		],
+		"6" : [
+			[ "saciaría" ],
+			[ "saciarías" ],
+			[ "saciaría" ],
+			[ "saciaríamos" ],
+			[ "saciaríais", "saciarían" ],
+			[ "saciarían" ]
+		],
+		"7" : [
+			[ "saciaré" ],
+			[ "saciarás" ],
+			[ "saciará" ],
+			[ "saciaremos" ],
+			[ "saciaréis", "saciarán" ],
+			[ "saciarán" ]
+		],
+		"8" : [
+			[ "sacie" ],
+			[ "sacies" ],
+			[ "sacie" ],
+			[ "saciemos" ],
+			[ "saciéis", "sacien" ],
+			[ "sacien" ]
+		],
+		"9" : [
+			[ "saciara" ],
+			[ "saciaras" ],
+			[ "saciara" ],
+			[ "saciáramos" ],
+			[ "saciarais", "saciaran" ],
+			[ "saciaran" ]
+		],
+		"10" : [
+			[ "saciase" ],
+			[ "saciases" ],
+			[ "saciase" ],
+			[ "saciásemos" ],
+			[ "saciaseis", "saciasen" ],
+			[ "saciasen" ]
+		],
+		"11" : [
+			[ "saciare" ],
+			[ "saciares" ],
+			[ "saciare" ],
+			[ "saciáremos" ],
+			[ "saciareis", "saciaren" ],
+			[ "saciaren" ]
+		],
+		"12" : {
+			"1" : [ "sacia" ],
+			"2" : [ "sacie" ],
+			"3" : [ "saciemos" ],
+			"4" : [ "saciad" ],
+			"5" : [ "sacien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cilindrar",
+	"word" : "cilindrar",
+	"infinitivo" : "cilindrar",
+	"participio" : [ "cilindrado" ],
+	"gerundio" : [ "cilindrando" ],
+	"tenses" : {
+		"3" : [
+			[ "cilindro" ],
+			[ "cilindras", "cilindrás" ],
+			[ "cilindra" ],
+			[ "cilindramos" ],
+			[ "cilindráis", "cilindran" ],
+			[ "cilindran" ]
+		],
+		"4" : [
+			[ "cilindré" ],
+			[ "cilindraste" ],
+			[ "cilindró" ],
+			[ "cilindramos" ],
+			[ "cilindrasteis", "cilindraron" ],
+			[ "cilindraron" ]
+		],
+		"5" : [
+			[ "cilindraba" ],
+			[ "cilindrabas" ],
+			[ "cilindraba" ],
+			[ "cilindrábamos" ],
+			[ "cilindrabais", "cilindraban" ],
+			[ "cilindraban" ]
+		],
+		"6" : [
+			[ "cilindraría" ],
+			[ "cilindrarías" ],
+			[ "cilindraría" ],
+			[ "cilindraríamos" ],
+			[ "cilindraríais", "cilindrarían" ],
+			[ "cilindrarían" ]
+		],
+		"7" : [
+			[ "cilindraré" ],
+			[ "cilindrarás" ],
+			[ "cilindrará" ],
+			[ "cilindraremos" ],
+			[ "cilindraréis", "cilindrarán" ],
+			[ "cilindrarán" ]
+		],
+		"8" : [
+			[ "cilindre" ],
+			[ "cilindres" ],
+			[ "cilindre" ],
+			[ "cilindremos" ],
+			[ "cilindréis", "cilindren" ],
+			[ "cilindren" ]
+		],
+		"9" : [
+			[ "cilindrara" ],
+			[ "cilindraras" ],
+			[ "cilindrara" ],
+			[ "cilindráramos" ],
+			[ "cilindrarais", "cilindraran" ],
+			[ "cilindraran" ]
+		],
+		"10" : [
+			[ "cilindrase" ],
+			[ "cilindrases" ],
+			[ "cilindrase" ],
+			[ "cilindrásemos" ],
+			[ "cilindraseis", "cilindrasen" ],
+			[ "cilindrasen" ]
+		],
+		"11" : [
+			[ "cilindrare" ],
+			[ "cilindrares" ],
+			[ "cilindrare" ],
+			[ "cilindráremos" ],
+			[ "cilindrareis", "cilindraren" ],
+			[ "cilindraren" ]
+		],
+		"12" : {
+			"1" : [ "cilindra" ],
+			"2" : [ "cilindre" ],
+			"3" : [ "cilindremos" ],
+			"4" : [ "cilindrad" ],
+			"5" : [ "cilindren" ]
+		}
+	}
+}

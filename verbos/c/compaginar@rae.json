@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=compaginar",
+	"word" : "compaginar",
+	"infinitivo" : "compaginar",
+	"participio" : [ "compaginado" ],
+	"gerundio" : [ "compaginando" ],
+	"tenses" : {
+		"3" : [
+			[ "compagino" ],
+			[ "compaginas", "compaginás" ],
+			[ "compagina" ],
+			[ "compaginamos" ],
+			[ "compagináis", "compaginan" ],
+			[ "compaginan" ]
+		],
+		"4" : [
+			[ "compaginé" ],
+			[ "compaginaste" ],
+			[ "compaginó" ],
+			[ "compaginamos" ],
+			[ "compaginasteis", "compaginaron" ],
+			[ "compaginaron" ]
+		],
+		"5" : [
+			[ "compaginaba" ],
+			[ "compaginabas" ],
+			[ "compaginaba" ],
+			[ "compaginábamos" ],
+			[ "compaginabais", "compaginaban" ],
+			[ "compaginaban" ]
+		],
+		"6" : [
+			[ "compaginaría" ],
+			[ "compaginarías" ],
+			[ "compaginaría" ],
+			[ "compaginaríamos" ],
+			[ "compaginaríais", "compaginarían" ],
+			[ "compaginarían" ]
+		],
+		"7" : [
+			[ "compaginaré" ],
+			[ "compaginarás" ],
+			[ "compaginará" ],
+			[ "compaginaremos" ],
+			[ "compaginaréis", "compaginarán" ],
+			[ "compaginarán" ]
+		],
+		"8" : [
+			[ "compagine" ],
+			[ "compagines" ],
+			[ "compagine" ],
+			[ "compaginemos" ],
+			[ "compaginéis", "compaginen" ],
+			[ "compaginen" ]
+		],
+		"9" : [
+			[ "compaginara" ],
+			[ "compaginaras" ],
+			[ "compaginara" ],
+			[ "compagináramos" ],
+			[ "compaginarais", "compaginaran" ],
+			[ "compaginaran" ]
+		],
+		"10" : [
+			[ "compaginase" ],
+			[ "compaginases" ],
+			[ "compaginase" ],
+			[ "compaginásemos" ],
+			[ "compaginaseis", "compaginasen" ],
+			[ "compaginasen" ]
+		],
+		"11" : [
+			[ "compaginare" ],
+			[ "compaginares" ],
+			[ "compaginare" ],
+			[ "compagináremos" ],
+			[ "compaginareis", "compaginaren" ],
+			[ "compaginaren" ]
+		],
+		"12" : {
+			"1" : [ "compagina" ],
+			"2" : [ "compagine" ],
+			"3" : [ "compaginemos" ],
+			"4" : [ "compaginad" ],
+			"5" : [ "compaginen" ]
+		}
+	}
+}

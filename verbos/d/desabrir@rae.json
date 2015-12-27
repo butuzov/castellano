@@ -1,0 +1,77 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desabrir",
+	"word" : "desabrir",
+	"infinitivo" : "desabrir",
+	"participio" : [ "desabrido" ],
+	"gerundio" : [ "desabriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desabrís" ],
+			[ "desabrimos" ],
+			[ "desabrís" ]
+		],
+		"4" : [
+			[ "desabrí" ],
+			[ "desabriste" ],
+			[ "desabrió" ],
+			[ "desabrimos" ],
+			[ "desabristeis", "desabrieron" ],
+			[ "desabrieron" ]
+		],
+		"5" : [
+			[ "desabría" ],
+			[ "desabrías" ],
+			[ "desabría" ],
+			[ "desabríamos" ],
+			[ "desabríais", "desabrían" ],
+			[ "desabrían" ]
+		],
+		"6" : [
+			[ "desabriría" ],
+			[ "desabrirías" ],
+			[ "desabriría" ],
+			[ "desabriríamos" ],
+			[ "desabriríais", "desabrirían" ],
+			[ "desabrirían" ]
+		],
+		"7" : [
+			[ "desabriré" ],
+			[ "desabrirás" ],
+			[ "desabrirá" ],
+			[ "desabriremos" ],
+			[ "desabriréis", "desabrirán" ],
+			[ "desabrirán" ]
+		],
+		"9" : [
+			[ "desabriera" ],
+			[ "desabrieras" ],
+			[ "desabriera" ],
+			[ "desabriéramos" ],
+			[ "desabrierais", "desabrieran" ],
+			[ "desabrieran" ]
+		],
+		"10" : [
+			[ "desabriese" ],
+			[ "desabrieses" ],
+			[ "desabriese" ],
+			[ "desabriésemos" ],
+			[ "desabrieseis", "desabriesen" ],
+			[ "desabriesen" ]
+		],
+		"11" : [
+			[ "desabriere" ],
+			[ "desabrieres" ],
+			[ "desabriere" ],
+			[ "desabriéremos" ],
+			[ "desabriereis", "desabrieren" ],
+			[ "desabrieren" ]
+		],
+		"12" : {
+			"1" : [ "desabrí" ],
+			"2" : null,
+			"3" : null,
+			"4" : [ null ],
+			"5" : [ null ]
+		}
+	}
+}

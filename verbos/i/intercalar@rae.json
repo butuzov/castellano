@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=intercalar",
+	"word" : "intercalar",
+	"infinitivo" : "intercalar",
+	"participio" : [ "intercalado" ],
+	"gerundio" : [ "intercalando" ],
+	"tenses" : {
+		"3" : [
+			[ "intercalo" ],
+			[ "intercalas", "intercalás" ],
+			[ "intercala" ],
+			[ "intercalamos" ],
+			[ "intercaláis", "intercalan" ],
+			[ "intercalan" ]
+		],
+		"4" : [
+			[ "intercalé" ],
+			[ "intercalaste" ],
+			[ "intercaló" ],
+			[ "intercalamos" ],
+			[ "intercalasteis", "intercalaron" ],
+			[ "intercalaron" ]
+		],
+		"5" : [
+			[ "intercalaba" ],
+			[ "intercalabas" ],
+			[ "intercalaba" ],
+			[ "intercalábamos" ],
+			[ "intercalabais", "intercalaban" ],
+			[ "intercalaban" ]
+		],
+		"6" : [
+			[ "intercalaría" ],
+			[ "intercalarías" ],
+			[ "intercalaría" ],
+			[ "intercalaríamos" ],
+			[ "intercalaríais", "intercalarían" ],
+			[ "intercalarían" ]
+		],
+		"7" : [
+			[ "intercalaré" ],
+			[ "intercalarás" ],
+			[ "intercalará" ],
+			[ "intercalaremos" ],
+			[ "intercalaréis", "intercalarán" ],
+			[ "intercalarán" ]
+		],
+		"8" : [
+			[ "intercale" ],
+			[ "intercales" ],
+			[ "intercale" ],
+			[ "intercalemos" ],
+			[ "intercaléis", "intercalen" ],
+			[ "intercalen" ]
+		],
+		"9" : [
+			[ "intercalara" ],
+			[ "intercalaras" ],
+			[ "intercalara" ],
+			[ "intercaláramos" ],
+			[ "intercalarais", "intercalaran" ],
+			[ "intercalaran" ]
+		],
+		"10" : [
+			[ "intercalase" ],
+			[ "intercalases" ],
+			[ "intercalase" ],
+			[ "intercalásemos" ],
+			[ "intercalaseis", "intercalasen" ],
+			[ "intercalasen" ]
+		],
+		"11" : [
+			[ "intercalare" ],
+			[ "intercalares" ],
+			[ "intercalare" ],
+			[ "intercaláremos" ],
+			[ "intercalareis", "intercalaren" ],
+			[ "intercalaren" ]
+		],
+		"12" : {
+			"1" : [ "intercala" ],
+			"2" : [ "intercale" ],
+			"3" : [ "intercalemos" ],
+			"4" : [ "intercalad" ],
+			"5" : [ "intercalen" ]
+		}
+	}
+}

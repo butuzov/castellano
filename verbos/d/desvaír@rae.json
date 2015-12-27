@@ -1,0 +1,41 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desvaír",
+	"word" : "desvaír",
+	"infinitivo" : "desvaír",
+	"participio" : [ "desvaído" ],
+	"tenses" : {
+		"4" : [
+			[ "desvaí" ],
+			[ "desvaíste" ],
+			[ "desvaímos" ],
+			[ "desvaísteis", "" ]
+		],
+		"5" : [
+			[ "desvaía" ],
+			[ "desvaías" ],
+			[ "desvaía" ],
+			[ "desvaíamos" ],
+			[ "desvaíais", "desvaían" ],
+			[ "desvaían" ]
+		],
+		"6" : [
+			[ "desvairía" ],
+			[ "desvairías" ],
+			[ "desvairía" ],
+			[ "desvairíamos" ],
+			[ "desvairíais", "desvairían" ],
+			[ "desvairían" ]
+		],
+		"7" : [
+			[ "desvairé" ],
+			[ "desvairás" ],
+			[ "desvairá" ],
+			[ "desvairemos" ],
+			[ "desvairéis", "desvairán" ],
+			[ "desvairán" ]
+		],
+		"12" : {
+			"1" : [ "desvaí" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cartear",
+	"word" : "cartear",
+	"infinitivo" : "cartear",
+	"participio" : [ "carteado" ],
+	"gerundio" : [ "carteando" ],
+	"tenses" : {
+		"3" : [
+			[ "carteo" ],
+			[ "carteas", "carteás" ],
+			[ "cartea" ],
+			[ "carteamos" ],
+			[ "carteáis", "cartean" ],
+			[ "cartean" ]
+		],
+		"4" : [
+			[ "carteé" ],
+			[ "carteaste" ],
+			[ "carteó" ],
+			[ "carteamos" ],
+			[ "carteasteis", "cartearon" ],
+			[ "cartearon" ]
+		],
+		"5" : [
+			[ "carteaba" ],
+			[ "carteabas" ],
+			[ "carteaba" ],
+			[ "carteábamos" ],
+			[ "carteabais", "carteaban" ],
+			[ "carteaban" ]
+		],
+		"6" : [
+			[ "cartearía" ],
+			[ "cartearías" ],
+			[ "cartearía" ],
+			[ "cartearíamos" ],
+			[ "cartearíais", "cartearían" ],
+			[ "cartearían" ]
+		],
+		"7" : [
+			[ "cartearé" ],
+			[ "cartearás" ],
+			[ "carteará" ],
+			[ "cartearemos" ],
+			[ "cartearéis", "cartearán" ],
+			[ "cartearán" ]
+		],
+		"8" : [
+			[ "cartee" ],
+			[ "cartees" ],
+			[ "cartee" ],
+			[ "carteemos" ],
+			[ "carteéis", "carteen" ],
+			[ "carteen" ]
+		],
+		"9" : [
+			[ "carteara" ],
+			[ "cartearas" ],
+			[ "carteara" ],
+			[ "carteáramos" ],
+			[ "cartearais", "cartearan" ],
+			[ "cartearan" ]
+		],
+		"10" : [
+			[ "cartease" ],
+			[ "carteases" ],
+			[ "cartease" ],
+			[ "carteásemos" ],
+			[ "carteaseis", "carteasen" ],
+			[ "carteasen" ]
+		],
+		"11" : [
+			[ "carteare" ],
+			[ "carteares" ],
+			[ "carteare" ],
+			[ "carteáremos" ],
+			[ "carteareis", "cartearen" ],
+			[ "cartearen" ]
+		],
+		"12" : {
+			"1" : [ "cartea" ],
+			"2" : [ "cartee" ],
+			"3" : [ "carteemos" ],
+			"4" : [ "cartead" ],
+			"5" : [ "carteen" ]
+		}
+	}
+}

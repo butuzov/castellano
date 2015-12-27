@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=regenerar",
+	"word" : "regenerar",
+	"infinitivo" : "regenerar",
+	"participio" : [ "regenerado" ],
+	"gerundio" : [ "regenerando" ],
+	"tenses" : {
+		"3" : [
+			[ "regenero" ],
+			[ "regeneras", "regenerás" ],
+			[ "regenera" ],
+			[ "regeneramos" ],
+			[ "regeneráis", "regeneran" ],
+			[ "regeneran" ]
+		],
+		"4" : [
+			[ "regeneré" ],
+			[ "regeneraste" ],
+			[ "regeneró" ],
+			[ "regeneramos" ],
+			[ "regenerasteis", "regeneraron" ],
+			[ "regeneraron" ]
+		],
+		"5" : [
+			[ "regeneraba" ],
+			[ "regenerabas" ],
+			[ "regeneraba" ],
+			[ "regenerábamos" ],
+			[ "regenerabais", "regeneraban" ],
+			[ "regeneraban" ]
+		],
+		"6" : [
+			[ "regeneraría" ],
+			[ "regenerarías" ],
+			[ "regeneraría" ],
+			[ "regeneraríamos" ],
+			[ "regeneraríais", "regenerarían" ],
+			[ "regenerarían" ]
+		],
+		"7" : [
+			[ "regeneraré" ],
+			[ "regenerarás" ],
+			[ "regenerará" ],
+			[ "regeneraremos" ],
+			[ "regeneraréis", "regenerarán" ],
+			[ "regenerarán" ]
+		],
+		"8" : [
+			[ "regenere" ],
+			[ "regeneres" ],
+			[ "regenere" ],
+			[ "regeneremos" ],
+			[ "regeneréis", "regeneren" ],
+			[ "regeneren" ]
+		],
+		"9" : [
+			[ "regenerara" ],
+			[ "regeneraras" ],
+			[ "regenerara" ],
+			[ "regeneráramos" ],
+			[ "regenerarais", "regeneraran" ],
+			[ "regeneraran" ]
+		],
+		"10" : [
+			[ "regenerase" ],
+			[ "regenerases" ],
+			[ "regenerase" ],
+			[ "regenerásemos" ],
+			[ "regeneraseis", "regenerasen" ],
+			[ "regenerasen" ]
+		],
+		"11" : [
+			[ "regenerare" ],
+			[ "regenerares" ],
+			[ "regenerare" ],
+			[ "regeneráremos" ],
+			[ "regenerareis", "regeneraren" ],
+			[ "regeneraren" ]
+		],
+		"12" : {
+			"1" : [ "regenera" ],
+			"2" : [ "regenere" ],
+			"3" : [ "regeneremos" ],
+			"4" : [ "regenerad" ],
+			"5" : [ "regeneren" ]
+		}
+	}
+}

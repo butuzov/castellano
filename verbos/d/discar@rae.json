@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=discar",
+	"word" : "discar",
+	"infinitivo" : "discar",
+	"participio" : [ "discado" ],
+	"gerundio" : [ "discando" ],
+	"tenses" : {
+		"3" : [
+			[ "disco" ],
+			[ "discas", "discás" ],
+			[ "disca" ],
+			[ "discamos" ],
+			[ "discáis", "discan" ],
+			[ "discan" ]
+		],
+		"4" : [
+			[ "disqué" ],
+			[ "discaste" ],
+			[ "discó" ],
+			[ "discamos" ],
+			[ "discasteis", "discaron" ],
+			[ "discaron" ]
+		],
+		"5" : [
+			[ "discaba" ],
+			[ "discabas" ],
+			[ "discaba" ],
+			[ "discábamos" ],
+			[ "discabais", "discaban" ],
+			[ "discaban" ]
+		],
+		"6" : [
+			[ "discaría" ],
+			[ "discarías" ],
+			[ "discaría" ],
+			[ "discaríamos" ],
+			[ "discaríais", "discarían" ],
+			[ "discarían" ]
+		],
+		"7" : [
+			[ "discaré" ],
+			[ "discarás" ],
+			[ "discará" ],
+			[ "discaremos" ],
+			[ "discaréis", "discarán" ],
+			[ "discarán" ]
+		],
+		"8" : [
+			[ "disque" ],
+			[ "disques" ],
+			[ "disque" ],
+			[ "disquemos" ],
+			[ "disquéis", "disquen" ],
+			[ "disquen" ]
+		],
+		"9" : [
+			[ "discara" ],
+			[ "discaras" ],
+			[ "discara" ],
+			[ "discáramos" ],
+			[ "discarais", "discaran" ],
+			[ "discaran" ]
+		],
+		"10" : [
+			[ "discase" ],
+			[ "discases" ],
+			[ "discase" ],
+			[ "discásemos" ],
+			[ "discaseis", "discasen" ],
+			[ "discasen" ]
+		],
+		"11" : [
+			[ "discare" ],
+			[ "discares" ],
+			[ "discare" ],
+			[ "discáremos" ],
+			[ "discareis", "discaren" ],
+			[ "discaren" ]
+		],
+		"12" : {
+			"1" : [ "disca" ],
+			"2" : [ "disque" ],
+			"3" : [ "disquemos" ],
+			"4" : [ "discad" ],
+			"5" : [ "disquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empujar",
+	"word" : "empujar",
+	"infinitivo" : "empujar",
+	"participio" : [ "empujado" ],
+	"gerundio" : [ "empujando" ],
+	"tenses" : {
+		"3" : [
+			[ "empujo" ],
+			[ "empujas", "empujás" ],
+			[ "empuja" ],
+			[ "empujamos" ],
+			[ "empujáis", "empujan" ],
+			[ "empujan" ]
+		],
+		"4" : [
+			[ "empujé" ],
+			[ "empujaste" ],
+			[ "empujó" ],
+			[ "empujamos" ],
+			[ "empujasteis", "empujaron" ],
+			[ "empujaron" ]
+		],
+		"5" : [
+			[ "empujaba" ],
+			[ "empujabas" ],
+			[ "empujaba" ],
+			[ "empujábamos" ],
+			[ "empujabais", "empujaban" ],
+			[ "empujaban" ]
+		],
+		"6" : [
+			[ "empujaría" ],
+			[ "empujarías" ],
+			[ "empujaría" ],
+			[ "empujaríamos" ],
+			[ "empujaríais", "empujarían" ],
+			[ "empujarían" ]
+		],
+		"7" : [
+			[ "empujaré" ],
+			[ "empujarás" ],
+			[ "empujará" ],
+			[ "empujaremos" ],
+			[ "empujaréis", "empujarán" ],
+			[ "empujarán" ]
+		],
+		"8" : [
+			[ "empuje" ],
+			[ "empujes" ],
+			[ "empuje" ],
+			[ "empujemos" ],
+			[ "empujéis", "empujen" ],
+			[ "empujen" ]
+		],
+		"9" : [
+			[ "empujara" ],
+			[ "empujaras" ],
+			[ "empujara" ],
+			[ "empujáramos" ],
+			[ "empujarais", "empujaran" ],
+			[ "empujaran" ]
+		],
+		"10" : [
+			[ "empujase" ],
+			[ "empujases" ],
+			[ "empujase" ],
+			[ "empujásemos" ],
+			[ "empujaseis", "empujasen" ],
+			[ "empujasen" ]
+		],
+		"11" : [
+			[ "empujare" ],
+			[ "empujares" ],
+			[ "empujare" ],
+			[ "empujáremos" ],
+			[ "empujareis", "empujaren" ],
+			[ "empujaren" ]
+		],
+		"12" : {
+			"1" : [ "empuja" ],
+			"2" : [ "empuje" ],
+			"3" : [ "empujemos" ],
+			"4" : [ "empujad" ],
+			"5" : [ "empujen" ]
+		}
+	}
+}

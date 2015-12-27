@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inspirar",
+	"word" : "inspirar",
+	"infinitivo" : "inspirar",
+	"participio" : [ "inspirado" ],
+	"gerundio" : [ "inspirando" ],
+	"tenses" : {
+		"3" : [
+			[ "inspiro" ],
+			[ "inspiras", "inspirás" ],
+			[ "inspira" ],
+			[ "inspiramos" ],
+			[ "inspiráis", "inspiran" ],
+			[ "inspiran" ]
+		],
+		"4" : [
+			[ "inspiré" ],
+			[ "inspiraste" ],
+			[ "inspiró" ],
+			[ "inspiramos" ],
+			[ "inspirasteis", "inspiraron" ],
+			[ "inspiraron" ]
+		],
+		"5" : [
+			[ "inspiraba" ],
+			[ "inspirabas" ],
+			[ "inspiraba" ],
+			[ "inspirábamos" ],
+			[ "inspirabais", "inspiraban" ],
+			[ "inspiraban" ]
+		],
+		"6" : [
+			[ "inspiraría" ],
+			[ "inspirarías" ],
+			[ "inspiraría" ],
+			[ "inspiraríamos" ],
+			[ "inspiraríais", "inspirarían" ],
+			[ "inspirarían" ]
+		],
+		"7" : [
+			[ "inspiraré" ],
+			[ "inspirarás" ],
+			[ "inspirará" ],
+			[ "inspiraremos" ],
+			[ "inspiraréis", "inspirarán" ],
+			[ "inspirarán" ]
+		],
+		"8" : [
+			[ "inspire" ],
+			[ "inspires" ],
+			[ "inspire" ],
+			[ "inspiremos" ],
+			[ "inspiréis", "inspiren" ],
+			[ "inspiren" ]
+		],
+		"9" : [
+			[ "inspirara" ],
+			[ "inspiraras" ],
+			[ "inspirara" ],
+			[ "inspiráramos" ],
+			[ "inspirarais", "inspiraran" ],
+			[ "inspiraran" ]
+		],
+		"10" : [
+			[ "inspirase" ],
+			[ "inspirases" ],
+			[ "inspirase" ],
+			[ "inspirásemos" ],
+			[ "inspiraseis", "inspirasen" ],
+			[ "inspirasen" ]
+		],
+		"11" : [
+			[ "inspirare" ],
+			[ "inspirares" ],
+			[ "inspirare" ],
+			[ "inspiráremos" ],
+			[ "inspirareis", "inspiraren" ],
+			[ "inspiraren" ]
+		],
+		"12" : {
+			"1" : [ "inspira" ],
+			"2" : [ "inspire" ],
+			"3" : [ "inspiremos" ],
+			"4" : [ "inspirad" ],
+			"5" : [ "inspiren" ]
+		}
+	}
+}

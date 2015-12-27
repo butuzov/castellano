@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sentar",
+	"word" : "sentar",
+	"infinitivo" : "sentar",
+	"participio" : [ "sentado" ],
+	"gerundio" : [ "sentando" ],
+	"tenses" : {
+		"3" : [
+			[ "siento" ],
+			[ "sientas", "sentás" ],
+			[ "sienta" ],
+			[ "sentamos" ],
+			[ "sentáis", "sientan" ],
+			[ "sientan" ]
+		],
+		"4" : [
+			[ "senté" ],
+			[ "sentaste" ],
+			[ "sentó" ],
+			[ "sentamos" ],
+			[ "sentasteis", "sentaron" ],
+			[ "sentaron" ]
+		],
+		"5" : [
+			[ "sentaba" ],
+			[ "sentabas" ],
+			[ "sentaba" ],
+			[ "sentábamos" ],
+			[ "sentabais", "sentaban" ],
+			[ "sentaban" ]
+		],
+		"6" : [
+			[ "sentaría" ],
+			[ "sentarías" ],
+			[ "sentaría" ],
+			[ "sentaríamos" ],
+			[ "sentaríais", "sentarían" ],
+			[ "sentarían" ]
+		],
+		"7" : [
+			[ "sentaré" ],
+			[ "sentarás" ],
+			[ "sentará" ],
+			[ "sentaremos" ],
+			[ "sentaréis", "sentarán" ],
+			[ "sentarán" ]
+		],
+		"8" : [
+			[ "siente" ],
+			[ "sientes" ],
+			[ "siente" ],
+			[ "sentemos" ],
+			[ "sentéis", "sienten" ],
+			[ "sienten" ]
+		],
+		"9" : [
+			[ "sentara" ],
+			[ "sentaras" ],
+			[ "sentara" ],
+			[ "sentáramos" ],
+			[ "sentarais", "sentaran" ],
+			[ "sentaran" ]
+		],
+		"10" : [
+			[ "sentase" ],
+			[ "sentases" ],
+			[ "sentase" ],
+			[ "sentásemos" ],
+			[ "sentaseis", "sentasen" ],
+			[ "sentasen" ]
+		],
+		"11" : [
+			[ "sentare" ],
+			[ "sentares" ],
+			[ "sentare" ],
+			[ "sentáremos" ],
+			[ "sentareis", "sentaren" ],
+			[ "sentaren" ]
+		],
+		"12" : {
+			"1" : [ "sienta" ],
+			"2" : [ "siente" ],
+			"3" : [ "sentemos" ],
+			"4" : [ "sentad" ],
+			"5" : [ "sienten" ]
+		}
+	}
+}

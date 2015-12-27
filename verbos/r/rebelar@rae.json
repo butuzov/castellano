@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rebelar",
+	"word" : "rebelar",
+	"infinitivo" : "rebelar",
+	"participio" : [ "rebelado" ],
+	"gerundio" : [ "rebelando" ],
+	"tenses" : {
+		"3" : [
+			[ "rebelo" ],
+			[ "rebelas", "rebelás" ],
+			[ "rebela" ],
+			[ "rebelamos" ],
+			[ "rebeláis", "rebelan" ],
+			[ "rebelan" ]
+		],
+		"4" : [
+			[ "rebelé" ],
+			[ "rebelaste" ],
+			[ "rebeló" ],
+			[ "rebelamos" ],
+			[ "rebelasteis", "rebelaron" ],
+			[ "rebelaron" ]
+		],
+		"5" : [
+			[ "rebelaba" ],
+			[ "rebelabas" ],
+			[ "rebelaba" ],
+			[ "rebelábamos" ],
+			[ "rebelabais", "rebelaban" ],
+			[ "rebelaban" ]
+		],
+		"6" : [
+			[ "rebelaría" ],
+			[ "rebelarías" ],
+			[ "rebelaría" ],
+			[ "rebelaríamos" ],
+			[ "rebelaríais", "rebelarían" ],
+			[ "rebelarían" ]
+		],
+		"7" : [
+			[ "rebelaré" ],
+			[ "rebelarás" ],
+			[ "rebelará" ],
+			[ "rebelaremos" ],
+			[ "rebelaréis", "rebelarán" ],
+			[ "rebelarán" ]
+		],
+		"8" : [
+			[ "rebele" ],
+			[ "rebeles" ],
+			[ "rebele" ],
+			[ "rebelemos" ],
+			[ "rebeléis", "rebelen" ],
+			[ "rebelen" ]
+		],
+		"9" : [
+			[ "rebelara" ],
+			[ "rebelaras" ],
+			[ "rebelara" ],
+			[ "rebeláramos" ],
+			[ "rebelarais", "rebelaran" ],
+			[ "rebelaran" ]
+		],
+		"10" : [
+			[ "rebelase" ],
+			[ "rebelases" ],
+			[ "rebelase" ],
+			[ "rebelásemos" ],
+			[ "rebelaseis", "rebelasen" ],
+			[ "rebelasen" ]
+		],
+		"11" : [
+			[ "rebelare" ],
+			[ "rebelares" ],
+			[ "rebelare" ],
+			[ "rebeláremos" ],
+			[ "rebelareis", "rebelaren" ],
+			[ "rebelaren" ]
+		],
+		"12" : {
+			"1" : [ "rebela" ],
+			"2" : [ "rebele" ],
+			"3" : [ "rebelemos" ],
+			"4" : [ "rebelad" ],
+			"5" : [ "rebelen" ]
+		}
+	}
+}

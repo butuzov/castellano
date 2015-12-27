@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=diamantar",
+	"word" : "diamantar",
+	"infinitivo" : "diamantar",
+	"participio" : [ "diamantado" ],
+	"gerundio" : [ "diamantando" ],
+	"tenses" : {
+		"3" : [
+			[ "diamanto" ],
+			[ "diamantas", "diamantás" ],
+			[ "diamanta" ],
+			[ "diamantamos" ],
+			[ "diamantáis", "diamantan" ],
+			[ "diamantan" ]
+		],
+		"4" : [
+			[ "diamanté" ],
+			[ "diamantaste" ],
+			[ "diamantó" ],
+			[ "diamantamos" ],
+			[ "diamantasteis", "diamantaron" ],
+			[ "diamantaron" ]
+		],
+		"5" : [
+			[ "diamantaba" ],
+			[ "diamantabas" ],
+			[ "diamantaba" ],
+			[ "diamantábamos" ],
+			[ "diamantabais", "diamantaban" ],
+			[ "diamantaban" ]
+		],
+		"6" : [
+			[ "diamantaría" ],
+			[ "diamantarías" ],
+			[ "diamantaría" ],
+			[ "diamantaríamos" ],
+			[ "diamantaríais", "diamantarían" ],
+			[ "diamantarían" ]
+		],
+		"7" : [
+			[ "diamantaré" ],
+			[ "diamantarás" ],
+			[ "diamantará" ],
+			[ "diamantaremos" ],
+			[ "diamantaréis", "diamantarán" ],
+			[ "diamantarán" ]
+		],
+		"8" : [
+			[ "diamante" ],
+			[ "diamantes" ],
+			[ "diamante" ],
+			[ "diamantemos" ],
+			[ "diamantéis", "diamanten" ],
+			[ "diamanten" ]
+		],
+		"9" : [
+			[ "diamantara" ],
+			[ "diamantaras" ],
+			[ "diamantara" ],
+			[ "diamantáramos" ],
+			[ "diamantarais", "diamantaran" ],
+			[ "diamantaran" ]
+		],
+		"10" : [
+			[ "diamantase" ],
+			[ "diamantases" ],
+			[ "diamantase" ],
+			[ "diamantásemos" ],
+			[ "diamantaseis", "diamantasen" ],
+			[ "diamantasen" ]
+		],
+		"11" : [
+			[ "diamantare" ],
+			[ "diamantares" ],
+			[ "diamantare" ],
+			[ "diamantáremos" ],
+			[ "diamantareis", "diamantaren" ],
+			[ "diamantaren" ]
+		],
+		"12" : {
+			"1" : [ "diamanta" ],
+			"2" : [ "diamante" ],
+			"3" : [ "diamantemos" ],
+			"4" : [ "diamantad" ],
+			"5" : [ "diamanten" ]
+		}
+	}
+}

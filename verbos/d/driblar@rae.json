@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=driblar",
+	"word" : "driblar",
+	"infinitivo" : "driblar",
+	"participio" : [ "driblado" ],
+	"gerundio" : [ "driblando" ],
+	"tenses" : {
+		"3" : [
+			[ "driblo" ],
+			[ "driblas", "driblás" ],
+			[ "dribla" ],
+			[ "driblamos" ],
+			[ "dribláis", "driblan" ],
+			[ "driblan" ]
+		],
+		"4" : [
+			[ "driblé" ],
+			[ "driblaste" ],
+			[ "dribló" ],
+			[ "driblamos" ],
+			[ "driblasteis", "driblaron" ],
+			[ "driblaron" ]
+		],
+		"5" : [
+			[ "driblaba" ],
+			[ "driblabas" ],
+			[ "driblaba" ],
+			[ "driblábamos" ],
+			[ "driblabais", "driblaban" ],
+			[ "driblaban" ]
+		],
+		"6" : [
+			[ "driblaría" ],
+			[ "driblarías" ],
+			[ "driblaría" ],
+			[ "driblaríamos" ],
+			[ "driblaríais", "driblarían" ],
+			[ "driblarían" ]
+		],
+		"7" : [
+			[ "driblaré" ],
+			[ "driblarás" ],
+			[ "driblará" ],
+			[ "driblaremos" ],
+			[ "driblaréis", "driblarán" ],
+			[ "driblarán" ]
+		],
+		"8" : [
+			[ "drible" ],
+			[ "dribles" ],
+			[ "drible" ],
+			[ "driblemos" ],
+			[ "dribléis", "driblen" ],
+			[ "driblen" ]
+		],
+		"9" : [
+			[ "driblara" ],
+			[ "driblaras" ],
+			[ "driblara" ],
+			[ "dribláramos" ],
+			[ "driblarais", "driblaran" ],
+			[ "driblaran" ]
+		],
+		"10" : [
+			[ "driblase" ],
+			[ "driblases" ],
+			[ "driblase" ],
+			[ "driblásemos" ],
+			[ "driblaseis", "driblasen" ],
+			[ "driblasen" ]
+		],
+		"11" : [
+			[ "driblare" ],
+			[ "driblares" ],
+			[ "driblare" ],
+			[ "dribláremos" ],
+			[ "driblareis", "driblaren" ],
+			[ "driblaren" ]
+		],
+		"12" : {
+			"1" : [ "dribla" ],
+			"2" : [ "drible" ],
+			"3" : [ "driblemos" ],
+			"4" : [ "driblad" ],
+			"5" : [ "driblen" ]
+		}
+	}
+}

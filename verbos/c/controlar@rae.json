@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=controlar",
+	"word" : "controlar",
+	"infinitivo" : "controlar",
+	"participio" : [ "controlado" ],
+	"gerundio" : [ "controlando" ],
+	"tenses" : {
+		"3" : [
+			[ "controlo" ],
+			[ "controlas", "controlás" ],
+			[ "controla" ],
+			[ "controlamos" ],
+			[ "controláis", "controlan" ],
+			[ "controlan" ]
+		],
+		"4" : [
+			[ "controlé" ],
+			[ "controlaste" ],
+			[ "controló" ],
+			[ "controlamos" ],
+			[ "controlasteis", "controlaron" ],
+			[ "controlaron" ]
+		],
+		"5" : [
+			[ "controlaba" ],
+			[ "controlabas" ],
+			[ "controlaba" ],
+			[ "controlábamos" ],
+			[ "controlabais", "controlaban" ],
+			[ "controlaban" ]
+		],
+		"6" : [
+			[ "controlaría" ],
+			[ "controlarías" ],
+			[ "controlaría" ],
+			[ "controlaríamos" ],
+			[ "controlaríais", "controlarían" ],
+			[ "controlarían" ]
+		],
+		"7" : [
+			[ "controlaré" ],
+			[ "controlarás" ],
+			[ "controlará" ],
+			[ "controlaremos" ],
+			[ "controlaréis", "controlarán" ],
+			[ "controlarán" ]
+		],
+		"8" : [
+			[ "controle" ],
+			[ "controles" ],
+			[ "controle" ],
+			[ "controlemos" ],
+			[ "controléis", "controlen" ],
+			[ "controlen" ]
+		],
+		"9" : [
+			[ "controlara" ],
+			[ "controlaras" ],
+			[ "controlara" ],
+			[ "controláramos" ],
+			[ "controlarais", "controlaran" ],
+			[ "controlaran" ]
+		],
+		"10" : [
+			[ "controlase" ],
+			[ "controlases" ],
+			[ "controlase" ],
+			[ "controlásemos" ],
+			[ "controlaseis", "controlasen" ],
+			[ "controlasen" ]
+		],
+		"11" : [
+			[ "controlare" ],
+			[ "controlares" ],
+			[ "controlare" ],
+			[ "controláremos" ],
+			[ "controlareis", "controlaren" ],
+			[ "controlaren" ]
+		],
+		"12" : {
+			"1" : [ "controla" ],
+			"2" : [ "controle" ],
+			"3" : [ "controlemos" ],
+			"4" : [ "controlad" ],
+			"5" : [ "controlen" ]
+		}
+	}
+}

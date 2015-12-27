@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prendar",
+	"word" : "prendar",
+	"infinitivo" : "prendar",
+	"participio" : [ "prendado" ],
+	"gerundio" : [ "prendando" ],
+	"tenses" : {
+		"3" : [
+			[ "prendo" ],
+			[ "prendas", "prendás" ],
+			[ "prenda" ],
+			[ "prendamos" ],
+			[ "prendáis", "prendan" ],
+			[ "prendan" ]
+		],
+		"4" : [
+			[ "prendé" ],
+			[ "prendaste" ],
+			[ "prendó" ],
+			[ "prendamos" ],
+			[ "prendasteis", "prendaron" ],
+			[ "prendaron" ]
+		],
+		"5" : [
+			[ "prendaba" ],
+			[ "prendabas" ],
+			[ "prendaba" ],
+			[ "prendábamos" ],
+			[ "prendabais", "prendaban" ],
+			[ "prendaban" ]
+		],
+		"6" : [
+			[ "prendaría" ],
+			[ "prendarías" ],
+			[ "prendaría" ],
+			[ "prendaríamos" ],
+			[ "prendaríais", "prendarían" ],
+			[ "prendarían" ]
+		],
+		"7" : [
+			[ "prendaré" ],
+			[ "prendarás" ],
+			[ "prendará" ],
+			[ "prendaremos" ],
+			[ "prendaréis", "prendarán" ],
+			[ "prendarán" ]
+		],
+		"8" : [
+			[ "prende" ],
+			[ "prendes" ],
+			[ "prende" ],
+			[ "prendemos" ],
+			[ "prendéis", "prenden" ],
+			[ "prenden" ]
+		],
+		"9" : [
+			[ "prendara" ],
+			[ "prendaras" ],
+			[ "prendara" ],
+			[ "prendáramos" ],
+			[ "prendarais", "prendaran" ],
+			[ "prendaran" ]
+		],
+		"10" : [
+			[ "prendase" ],
+			[ "prendases" ],
+			[ "prendase" ],
+			[ "prendásemos" ],
+			[ "prendaseis", "prendasen" ],
+			[ "prendasen" ]
+		],
+		"11" : [
+			[ "prendare" ],
+			[ "prendares" ],
+			[ "prendare" ],
+			[ "prendáremos" ],
+			[ "prendareis", "prendaren" ],
+			[ "prendaren" ]
+		],
+		"12" : {
+			"1" : [ "prenda" ],
+			"2" : [ "prende" ],
+			"3" : [ "prendemos" ],
+			"4" : [ "prendad" ],
+			"5" : [ "prenden" ]
+		}
+	}
+}

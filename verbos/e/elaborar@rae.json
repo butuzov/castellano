@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=elaborar",
+	"word" : "elaborar",
+	"infinitivo" : "elaborar",
+	"participio" : [ "elaborado" ],
+	"gerundio" : [ "elaborando" ],
+	"tenses" : {
+		"3" : [
+			[ "elaboro" ],
+			[ "elaboras", "elaborás" ],
+			[ "elabora" ],
+			[ "elaboramos" ],
+			[ "elaboráis", "elaboran" ],
+			[ "elaboran" ]
+		],
+		"4" : [
+			[ "elaboré" ],
+			[ "elaboraste" ],
+			[ "elaboró" ],
+			[ "elaboramos" ],
+			[ "elaborasteis", "elaboraron" ],
+			[ "elaboraron" ]
+		],
+		"5" : [
+			[ "elaboraba" ],
+			[ "elaborabas" ],
+			[ "elaboraba" ],
+			[ "elaborábamos" ],
+			[ "elaborabais", "elaboraban" ],
+			[ "elaboraban" ]
+		],
+		"6" : [
+			[ "elaboraría" ],
+			[ "elaborarías" ],
+			[ "elaboraría" ],
+			[ "elaboraríamos" ],
+			[ "elaboraríais", "elaborarían" ],
+			[ "elaborarían" ]
+		],
+		"7" : [
+			[ "elaboraré" ],
+			[ "elaborarás" ],
+			[ "elaborará" ],
+			[ "elaboraremos" ],
+			[ "elaboraréis", "elaborarán" ],
+			[ "elaborarán" ]
+		],
+		"8" : [
+			[ "elabore" ],
+			[ "elabores" ],
+			[ "elabore" ],
+			[ "elaboremos" ],
+			[ "elaboréis", "elaboren" ],
+			[ "elaboren" ]
+		],
+		"9" : [
+			[ "elaborara" ],
+			[ "elaboraras" ],
+			[ "elaborara" ],
+			[ "elaboráramos" ],
+			[ "elaborarais", "elaboraran" ],
+			[ "elaboraran" ]
+		],
+		"10" : [
+			[ "elaborase" ],
+			[ "elaborases" ],
+			[ "elaborase" ],
+			[ "elaborásemos" ],
+			[ "elaboraseis", "elaborasen" ],
+			[ "elaborasen" ]
+		],
+		"11" : [
+			[ "elaborare" ],
+			[ "elaborares" ],
+			[ "elaborare" ],
+			[ "elaboráremos" ],
+			[ "elaborareis", "elaboraren" ],
+			[ "elaboraren" ]
+		],
+		"12" : {
+			"1" : [ "elabora" ],
+			"2" : [ "elabore" ],
+			"3" : [ "elaboremos" ],
+			"4" : [ "elaborad" ],
+			"5" : [ "elaboren" ]
+		}
+	}
+}

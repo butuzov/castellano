@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=guerrear",
+	"word" : "guerrear",
+	"infinitivo" : "guerrear",
+	"participio" : [ "guerreado" ],
+	"gerundio" : [ "guerreando" ],
+	"tenses" : {
+		"3" : [
+			[ "guerreo" ],
+			[ "guerreas", "guerreás" ],
+			[ "guerrea" ],
+			[ "guerreamos" ],
+			[ "guerreáis", "guerrean" ],
+			[ "guerrean" ]
+		],
+		"4" : [
+			[ "guerreé" ],
+			[ "guerreaste" ],
+			[ "guerreó" ],
+			[ "guerreamos" ],
+			[ "guerreasteis", "guerrearon" ],
+			[ "guerrearon" ]
+		],
+		"5" : [
+			[ "guerreaba" ],
+			[ "guerreabas" ],
+			[ "guerreaba" ],
+			[ "guerreábamos" ],
+			[ "guerreabais", "guerreaban" ],
+			[ "guerreaban" ]
+		],
+		"6" : [
+			[ "guerrearía" ],
+			[ "guerrearías" ],
+			[ "guerrearía" ],
+			[ "guerrearíamos" ],
+			[ "guerrearíais", "guerrearían" ],
+			[ "guerrearían" ]
+		],
+		"7" : [
+			[ "guerrearé" ],
+			[ "guerrearás" ],
+			[ "guerreará" ],
+			[ "guerrearemos" ],
+			[ "guerrearéis", "guerrearán" ],
+			[ "guerrearán" ]
+		],
+		"8" : [
+			[ "guerree" ],
+			[ "guerrees" ],
+			[ "guerree" ],
+			[ "guerreemos" ],
+			[ "guerreéis", "guerreen" ],
+			[ "guerreen" ]
+		],
+		"9" : [
+			[ "guerreara" ],
+			[ "guerrearas" ],
+			[ "guerreara" ],
+			[ "guerreáramos" ],
+			[ "guerrearais", "guerrearan" ],
+			[ "guerrearan" ]
+		],
+		"10" : [
+			[ "guerrease" ],
+			[ "guerreases" ],
+			[ "guerrease" ],
+			[ "guerreásemos" ],
+			[ "guerreaseis", "guerreasen" ],
+			[ "guerreasen" ]
+		],
+		"11" : [
+			[ "guerreare" ],
+			[ "guerreares" ],
+			[ "guerreare" ],
+			[ "guerreáremos" ],
+			[ "guerreareis", "guerrearen" ],
+			[ "guerrearen" ]
+		],
+		"12" : {
+			"1" : [ "guerrea" ],
+			"2" : [ "guerree" ],
+			"3" : [ "guerreemos" ],
+			"4" : [ "guerread" ],
+			"5" : [ "guerreen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=molestar",
+	"word" : "molestar",
+	"infinitivo" : "molestar",
+	"participio" : [ "molestado" ],
+	"gerundio" : [ "molestando" ],
+	"tenses" : {
+		"3" : [
+			[ "molesto" ],
+			[ "molestas", "molestás" ],
+			[ "molesta" ],
+			[ "molestamos" ],
+			[ "molestáis", "molestan" ],
+			[ "molestan" ]
+		],
+		"4" : [
+			[ "molesté" ],
+			[ "molestaste" ],
+			[ "molestó" ],
+			[ "molestamos" ],
+			[ "molestasteis", "molestaron" ],
+			[ "molestaron" ]
+		],
+		"5" : [
+			[ "molestaba" ],
+			[ "molestabas" ],
+			[ "molestaba" ],
+			[ "molestábamos" ],
+			[ "molestabais", "molestaban" ],
+			[ "molestaban" ]
+		],
+		"6" : [
+			[ "molestaría" ],
+			[ "molestarías" ],
+			[ "molestaría" ],
+			[ "molestaríamos" ],
+			[ "molestaríais", "molestarían" ],
+			[ "molestarían" ]
+		],
+		"7" : [
+			[ "molestaré" ],
+			[ "molestarás" ],
+			[ "molestará" ],
+			[ "molestaremos" ],
+			[ "molestaréis", "molestarán" ],
+			[ "molestarán" ]
+		],
+		"8" : [
+			[ "moleste" ],
+			[ "molestes" ],
+			[ "moleste" ],
+			[ "molestemos" ],
+			[ "molestéis", "molesten" ],
+			[ "molesten" ]
+		],
+		"9" : [
+			[ "molestara" ],
+			[ "molestaras" ],
+			[ "molestara" ],
+			[ "molestáramos" ],
+			[ "molestarais", "molestaran" ],
+			[ "molestaran" ]
+		],
+		"10" : [
+			[ "molestase" ],
+			[ "molestases" ],
+			[ "molestase" ],
+			[ "molestásemos" ],
+			[ "molestaseis", "molestasen" ],
+			[ "molestasen" ]
+		],
+		"11" : [
+			[ "molestare" ],
+			[ "molestares" ],
+			[ "molestare" ],
+			[ "molestáremos" ],
+			[ "molestareis", "molestaren" ],
+			[ "molestaren" ]
+		],
+		"12" : {
+			"1" : [ "molesta" ],
+			"2" : [ "moleste" ],
+			"3" : [ "molestemos" ],
+			"4" : [ "molestad" ],
+			"5" : [ "molesten" ]
+		}
+	}
+}

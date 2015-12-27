@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=zanjar",
+	"word" : "zanjar",
+	"infinitivo" : "zanjar",
+	"participio" : [ "zanjado" ],
+	"gerundio" : [ "zanjando" ],
+	"tenses" : {
+		"3" : [
+			[ "zanjo" ],
+			[ "zanjas", "zanjás" ],
+			[ "zanja" ],
+			[ "zanjamos" ],
+			[ "zanjáis", "zanjan" ],
+			[ "zanjan" ]
+		],
+		"4" : [
+			[ "zanjé" ],
+			[ "zanjaste" ],
+			[ "zanjó" ],
+			[ "zanjamos" ],
+			[ "zanjasteis", "zanjaron" ],
+			[ "zanjaron" ]
+		],
+		"5" : [
+			[ "zanjaba" ],
+			[ "zanjabas" ],
+			[ "zanjaba" ],
+			[ "zanjábamos" ],
+			[ "zanjabais", "zanjaban" ],
+			[ "zanjaban" ]
+		],
+		"6" : [
+			[ "zanjaría" ],
+			[ "zanjarías" ],
+			[ "zanjaría" ],
+			[ "zanjaríamos" ],
+			[ "zanjaríais", "zanjarían" ],
+			[ "zanjarían" ]
+		],
+		"7" : [
+			[ "zanjaré" ],
+			[ "zanjarás" ],
+			[ "zanjará" ],
+			[ "zanjaremos" ],
+			[ "zanjaréis", "zanjarán" ],
+			[ "zanjarán" ]
+		],
+		"8" : [
+			[ "zanje" ],
+			[ "zanjes" ],
+			[ "zanje" ],
+			[ "zanjemos" ],
+			[ "zanjéis", "zanjen" ],
+			[ "zanjen" ]
+		],
+		"9" : [
+			[ "zanjara" ],
+			[ "zanjaras" ],
+			[ "zanjara" ],
+			[ "zanjáramos" ],
+			[ "zanjarais", "zanjaran" ],
+			[ "zanjaran" ]
+		],
+		"10" : [
+			[ "zanjase" ],
+			[ "zanjases" ],
+			[ "zanjase" ],
+			[ "zanjásemos" ],
+			[ "zanjaseis", "zanjasen" ],
+			[ "zanjasen" ]
+		],
+		"11" : [
+			[ "zanjare" ],
+			[ "zanjares" ],
+			[ "zanjare" ],
+			[ "zanjáremos" ],
+			[ "zanjareis", "zanjaren" ],
+			[ "zanjaren" ]
+		],
+		"12" : {
+			"1" : [ "zanja" ],
+			"2" : [ "zanje" ],
+			"3" : [ "zanjemos" ],
+			"4" : [ "zanjad" ],
+			"5" : [ "zanjen" ]
+		}
+	}
+}

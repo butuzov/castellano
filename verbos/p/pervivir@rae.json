@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pervivir",
+	"word" : "pervivir",
+	"infinitivo" : "pervivir",
+	"participio" : [ "pervivido" ],
+	"gerundio" : [ "perviviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "pervivo" ],
+			[ "pervives", "pervivís" ],
+			[ "pervive" ],
+			[ "pervivimos" ],
+			[ "pervivís", "perviven" ],
+			[ "perviven" ]
+		],
+		"4" : [
+			[ "perviví" ],
+			[ "perviviste" ],
+			[ "pervivió" ],
+			[ "pervivimos" ],
+			[ "pervivisteis", "pervivieron" ],
+			[ "pervivieron" ]
+		],
+		"5" : [
+			[ "pervivía" ],
+			[ "pervivías" ],
+			[ "pervivía" ],
+			[ "pervivíamos" ],
+			[ "pervivíais", "pervivían" ],
+			[ "pervivían" ]
+		],
+		"6" : [
+			[ "perviviría" ],
+			[ "pervivirías" ],
+			[ "perviviría" ],
+			[ "perviviríamos" ],
+			[ "perviviríais", "pervivirían" ],
+			[ "pervivirían" ]
+		],
+		"7" : [
+			[ "perviviré" ],
+			[ "pervivirás" ],
+			[ "pervivirá" ],
+			[ "perviviremos" ],
+			[ "perviviréis", "pervivirán" ],
+			[ "pervivirán" ]
+		],
+		"8" : [
+			[ "perviva" ],
+			[ "pervivas" ],
+			[ "perviva" ],
+			[ "pervivamos" ],
+			[ "perviváis", "pervivan" ],
+			[ "pervivan" ]
+		],
+		"9" : [
+			[ "perviviera" ],
+			[ "pervivieras" ],
+			[ "perviviera" ],
+			[ "perviviéramos" ],
+			[ "pervivierais", "pervivieran" ],
+			[ "pervivieran" ]
+		],
+		"10" : [
+			[ "perviviese" ],
+			[ "pervivieses" ],
+			[ "perviviese" ],
+			[ "perviviésemos" ],
+			[ "pervivieseis", "perviviesen" ],
+			[ "perviviesen" ]
+		],
+		"11" : [
+			[ "perviviere" ],
+			[ "pervivieres" ],
+			[ "perviviere" ],
+			[ "perviviéremos" ],
+			[ "perviviereis", "pervivieren" ],
+			[ "pervivieren" ]
+		],
+		"12" : {
+			"1" : [ "pervive" ],
+			"2" : [ "perviva" ],
+			"3" : [ "pervivamos" ],
+			"4" : [ "pervivid" ],
+			"5" : [ "pervivan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=supervivir",
+	"word" : "supervivir",
+	"infinitivo" : "supervivir",
+	"participio" : [ "supervivido" ],
+	"gerundio" : [ "superviviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "supervivo" ],
+			[ "supervives", "supervivís" ],
+			[ "supervive" ],
+			[ "supervivimos" ],
+			[ "supervivís", "superviven" ],
+			[ "superviven" ]
+		],
+		"4" : [
+			[ "superviví" ],
+			[ "superviviste" ],
+			[ "supervivió" ],
+			[ "supervivimos" ],
+			[ "supervivisteis", "supervivieron" ],
+			[ "supervivieron" ]
+		],
+		"5" : [
+			[ "supervivía" ],
+			[ "supervivías" ],
+			[ "supervivía" ],
+			[ "supervivíamos" ],
+			[ "supervivíais", "supervivían" ],
+			[ "supervivían" ]
+		],
+		"6" : [
+			[ "superviviría" ],
+			[ "supervivirías" ],
+			[ "superviviría" ],
+			[ "superviviríamos" ],
+			[ "superviviríais", "supervivirían" ],
+			[ "supervivirían" ]
+		],
+		"7" : [
+			[ "superviviré" ],
+			[ "supervivirás" ],
+			[ "supervivirá" ],
+			[ "superviviremos" ],
+			[ "superviviréis", "supervivirán" ],
+			[ "supervivirán" ]
+		],
+		"8" : [
+			[ "superviva" ],
+			[ "supervivas" ],
+			[ "superviva" ],
+			[ "supervivamos" ],
+			[ "superviváis", "supervivan" ],
+			[ "supervivan" ]
+		],
+		"9" : [
+			[ "superviviera" ],
+			[ "supervivieras" ],
+			[ "superviviera" ],
+			[ "superviviéramos" ],
+			[ "supervivierais", "supervivieran" ],
+			[ "supervivieran" ]
+		],
+		"10" : [
+			[ "superviviese" ],
+			[ "supervivieses" ],
+			[ "superviviese" ],
+			[ "superviviésemos" ],
+			[ "supervivieseis", "superviviesen" ],
+			[ "superviviesen" ]
+		],
+		"11" : [
+			[ "superviviere" ],
+			[ "supervivieres" ],
+			[ "superviviere" ],
+			[ "superviviéremos" ],
+			[ "superviviereis", "supervivieren" ],
+			[ "supervivieren" ]
+		],
+		"12" : {
+			"1" : [ "supervive" ],
+			"2" : [ "superviva" ],
+			"3" : [ "supervivamos" ],
+			"4" : [ "supervivid" ],
+			"5" : [ "supervivan" ]
+		}
+	}
+}

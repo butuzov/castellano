@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chocar",
+	"word" : "chocar",
+	"infinitivo" : "chocar",
+	"participio" : [ "chocado" ],
+	"gerundio" : [ "chocando" ],
+	"tenses" : {
+		"3" : [
+			[ "choco" ],
+			[ "chocas", "chocás" ],
+			[ "choca" ],
+			[ "chocamos" ],
+			[ "chocáis", "chocan" ],
+			[ "chocan" ]
+		],
+		"4" : [
+			[ "choqué" ],
+			[ "chocaste" ],
+			[ "chocó" ],
+			[ "chocamos" ],
+			[ "chocasteis", "chocaron" ],
+			[ "chocaron" ]
+		],
+		"5" : [
+			[ "chocaba" ],
+			[ "chocabas" ],
+			[ "chocaba" ],
+			[ "chocábamos" ],
+			[ "chocabais", "chocaban" ],
+			[ "chocaban" ]
+		],
+		"6" : [
+			[ "chocaría" ],
+			[ "chocarías" ],
+			[ "chocaría" ],
+			[ "chocaríamos" ],
+			[ "chocaríais", "chocarían" ],
+			[ "chocarían" ]
+		],
+		"7" : [
+			[ "chocaré" ],
+			[ "chocarás" ],
+			[ "chocará" ],
+			[ "chocaremos" ],
+			[ "chocaréis", "chocarán" ],
+			[ "chocarán" ]
+		],
+		"8" : [
+			[ "choque" ],
+			[ "choques" ],
+			[ "choque" ],
+			[ "choquemos" ],
+			[ "choquéis", "choquen" ],
+			[ "choquen" ]
+		],
+		"9" : [
+			[ "chocara" ],
+			[ "chocaras" ],
+			[ "chocara" ],
+			[ "chocáramos" ],
+			[ "chocarais", "chocaran" ],
+			[ "chocaran" ]
+		],
+		"10" : [
+			[ "chocase" ],
+			[ "chocases" ],
+			[ "chocase" ],
+			[ "chocásemos" ],
+			[ "chocaseis", "chocasen" ],
+			[ "chocasen" ]
+		],
+		"11" : [
+			[ "chocare" ],
+			[ "chocares" ],
+			[ "chocare" ],
+			[ "chocáremos" ],
+			[ "chocareis", "chocaren" ],
+			[ "chocaren" ]
+		],
+		"12" : {
+			"1" : [ "choca" ],
+			"2" : [ "choque" ],
+			"3" : [ "choquemos" ],
+			"4" : [ "chocad" ],
+			"5" : [ "choquen" ]
+		}
+	}
+}

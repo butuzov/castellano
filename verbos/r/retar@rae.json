@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=retar",
+	"word" : "retar",
+	"infinitivo" : "retar",
+	"participio" : [ "retado" ],
+	"gerundio" : [ "retando" ],
+	"tenses" : {
+		"3" : [
+			[ "reto" ],
+			[ "retas", "retás" ],
+			[ "reta" ],
+			[ "retamos" ],
+			[ "retáis", "retan" ],
+			[ "retan" ]
+		],
+		"4" : [
+			[ "reté" ],
+			[ "retaste" ],
+			[ "retó" ],
+			[ "retamos" ],
+			[ "retasteis", "retaron" ],
+			[ "retaron" ]
+		],
+		"5" : [
+			[ "retaba" ],
+			[ "retabas" ],
+			[ "retaba" ],
+			[ "retábamos" ],
+			[ "retabais", "retaban" ],
+			[ "retaban" ]
+		],
+		"6" : [
+			[ "retaría" ],
+			[ "retarías" ],
+			[ "retaría" ],
+			[ "retaríamos" ],
+			[ "retaríais", "retarían" ],
+			[ "retarían" ]
+		],
+		"7" : [
+			[ "retaré" ],
+			[ "retarás" ],
+			[ "retará" ],
+			[ "retaremos" ],
+			[ "retaréis", "retarán" ],
+			[ "retarán" ]
+		],
+		"8" : [
+			[ "rete" ],
+			[ "retes" ],
+			[ "rete" ],
+			[ "retemos" ],
+			[ "retéis", "reten" ],
+			[ "reten" ]
+		],
+		"9" : [
+			[ "retara" ],
+			[ "retaras" ],
+			[ "retara" ],
+			[ "retáramos" ],
+			[ "retarais", "retaran" ],
+			[ "retaran" ]
+		],
+		"10" : [
+			[ "retase" ],
+			[ "retases" ],
+			[ "retase" ],
+			[ "retásemos" ],
+			[ "retaseis", "retasen" ],
+			[ "retasen" ]
+		],
+		"11" : [
+			[ "retare" ],
+			[ "retares" ],
+			[ "retare" ],
+			[ "retáremos" ],
+			[ "retareis", "retaren" ],
+			[ "retaren" ]
+		],
+		"12" : {
+			"1" : [ "reta" ],
+			"2" : [ "rete" ],
+			"3" : [ "retemos" ],
+			"4" : [ "retad" ],
+			"5" : [ "reten" ]
+		}
+	}
+}

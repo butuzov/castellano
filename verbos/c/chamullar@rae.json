@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chamullar",
+	"word" : "chamullar",
+	"infinitivo" : "chamullar",
+	"participio" : [ "chamullado" ],
+	"gerundio" : [ "chamullando" ],
+	"tenses" : {
+		"3" : [
+			[ "chamullo" ],
+			[ "chamullas", "chamullás" ],
+			[ "chamulla" ],
+			[ "chamullamos" ],
+			[ "chamulláis", "chamullan" ],
+			[ "chamullan" ]
+		],
+		"4" : [
+			[ "chamullé" ],
+			[ "chamullaste" ],
+			[ "chamulló" ],
+			[ "chamullamos" ],
+			[ "chamullasteis", "chamullaron" ],
+			[ "chamullaron" ]
+		],
+		"5" : [
+			[ "chamullaba" ],
+			[ "chamullabas" ],
+			[ "chamullaba" ],
+			[ "chamullábamos" ],
+			[ "chamullabais", "chamullaban" ],
+			[ "chamullaban" ]
+		],
+		"6" : [
+			[ "chamullaría" ],
+			[ "chamullarías" ],
+			[ "chamullaría" ],
+			[ "chamullaríamos" ],
+			[ "chamullaríais", "chamullarían" ],
+			[ "chamullarían" ]
+		],
+		"7" : [
+			[ "chamullaré" ],
+			[ "chamullarás" ],
+			[ "chamullará" ],
+			[ "chamullaremos" ],
+			[ "chamullaréis", "chamullarán" ],
+			[ "chamullarán" ]
+		],
+		"8" : [
+			[ "chamulle" ],
+			[ "chamulles" ],
+			[ "chamulle" ],
+			[ "chamullemos" ],
+			[ "chamulléis", "chamullen" ],
+			[ "chamullen" ]
+		],
+		"9" : [
+			[ "chamullara" ],
+			[ "chamullaras" ],
+			[ "chamullara" ],
+			[ "chamulláramos" ],
+			[ "chamullarais", "chamullaran" ],
+			[ "chamullaran" ]
+		],
+		"10" : [
+			[ "chamullase" ],
+			[ "chamullases" ],
+			[ "chamullase" ],
+			[ "chamullásemos" ],
+			[ "chamullaseis", "chamullasen" ],
+			[ "chamullasen" ]
+		],
+		"11" : [
+			[ "chamullare" ],
+			[ "chamullares" ],
+			[ "chamullare" ],
+			[ "chamulláremos" ],
+			[ "chamullareis", "chamullaren" ],
+			[ "chamullaren" ]
+		],
+		"12" : {
+			"1" : [ "chamulla" ],
+			"2" : [ "chamulle" ],
+			"3" : [ "chamullemos" ],
+			"4" : [ "chamullad" ],
+			"5" : [ "chamullen" ]
+		}
+	}
+}

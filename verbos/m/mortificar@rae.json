@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mortificar",
+	"word" : "mortificar",
+	"infinitivo" : "mortificar",
+	"participio" : [ "mortificado" ],
+	"gerundio" : [ "mortificando" ],
+	"tenses" : {
+		"3" : [
+			[ "mortifico" ],
+			[ "mortificas", "mortificás" ],
+			[ "mortifica" ],
+			[ "mortificamos" ],
+			[ "mortificáis", "mortifican" ],
+			[ "mortifican" ]
+		],
+		"4" : [
+			[ "mortifiqué" ],
+			[ "mortificaste" ],
+			[ "mortificó" ],
+			[ "mortificamos" ],
+			[ "mortificasteis", "mortificaron" ],
+			[ "mortificaron" ]
+		],
+		"5" : [
+			[ "mortificaba" ],
+			[ "mortificabas" ],
+			[ "mortificaba" ],
+			[ "mortificábamos" ],
+			[ "mortificabais", "mortificaban" ],
+			[ "mortificaban" ]
+		],
+		"6" : [
+			[ "mortificaría" ],
+			[ "mortificarías" ],
+			[ "mortificaría" ],
+			[ "mortificaríamos" ],
+			[ "mortificaríais", "mortificarían" ],
+			[ "mortificarían" ]
+		],
+		"7" : [
+			[ "mortificaré" ],
+			[ "mortificarás" ],
+			[ "mortificará" ],
+			[ "mortificaremos" ],
+			[ "mortificaréis", "mortificarán" ],
+			[ "mortificarán" ]
+		],
+		"8" : [
+			[ "mortifique" ],
+			[ "mortifiques" ],
+			[ "mortifique" ],
+			[ "mortifiquemos" ],
+			[ "mortifiquéis", "mortifiquen" ],
+			[ "mortifiquen" ]
+		],
+		"9" : [
+			[ "mortificara" ],
+			[ "mortificaras" ],
+			[ "mortificara" ],
+			[ "mortificáramos" ],
+			[ "mortificarais", "mortificaran" ],
+			[ "mortificaran" ]
+		],
+		"10" : [
+			[ "mortificase" ],
+			[ "mortificases" ],
+			[ "mortificase" ],
+			[ "mortificásemos" ],
+			[ "mortificaseis", "mortificasen" ],
+			[ "mortificasen" ]
+		],
+		"11" : [
+			[ "mortificare" ],
+			[ "mortificares" ],
+			[ "mortificare" ],
+			[ "mortificáremos" ],
+			[ "mortificareis", "mortificaren" ],
+			[ "mortificaren" ]
+		],
+		"12" : {
+			"1" : [ "mortifica" ],
+			"2" : [ "mortifique" ],
+			"3" : [ "mortifiquemos" ],
+			"4" : [ "mortificad" ],
+			"5" : [ "mortifiquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encaminar",
+	"word" : "encaminar",
+	"infinitivo" : "encaminar",
+	"participio" : [ "encaminado" ],
+	"gerundio" : [ "encaminando" ],
+	"tenses" : {
+		"3" : [
+			[ "encamino" ],
+			[ "encaminas", "encaminás" ],
+			[ "encamina" ],
+			[ "encaminamos" ],
+			[ "encamináis", "encaminan" ],
+			[ "encaminan" ]
+		],
+		"4" : [
+			[ "encaminé" ],
+			[ "encaminaste" ],
+			[ "encaminó" ],
+			[ "encaminamos" ],
+			[ "encaminasteis", "encaminaron" ],
+			[ "encaminaron" ]
+		],
+		"5" : [
+			[ "encaminaba" ],
+			[ "encaminabas" ],
+			[ "encaminaba" ],
+			[ "encaminábamos" ],
+			[ "encaminabais", "encaminaban" ],
+			[ "encaminaban" ]
+		],
+		"6" : [
+			[ "encaminaría" ],
+			[ "encaminarías" ],
+			[ "encaminaría" ],
+			[ "encaminaríamos" ],
+			[ "encaminaríais", "encaminarían" ],
+			[ "encaminarían" ]
+		],
+		"7" : [
+			[ "encaminaré" ],
+			[ "encaminarás" ],
+			[ "encaminará" ],
+			[ "encaminaremos" ],
+			[ "encaminaréis", "encaminarán" ],
+			[ "encaminarán" ]
+		],
+		"8" : [
+			[ "encamine" ],
+			[ "encamines" ],
+			[ "encamine" ],
+			[ "encaminemos" ],
+			[ "encaminéis", "encaminen" ],
+			[ "encaminen" ]
+		],
+		"9" : [
+			[ "encaminara" ],
+			[ "encaminaras" ],
+			[ "encaminara" ],
+			[ "encamináramos" ],
+			[ "encaminarais", "encaminaran" ],
+			[ "encaminaran" ]
+		],
+		"10" : [
+			[ "encaminase" ],
+			[ "encaminases" ],
+			[ "encaminase" ],
+			[ "encaminásemos" ],
+			[ "encaminaseis", "encaminasen" ],
+			[ "encaminasen" ]
+		],
+		"11" : [
+			[ "encaminare" ],
+			[ "encaminares" ],
+			[ "encaminare" ],
+			[ "encamináremos" ],
+			[ "encaminareis", "encaminaren" ],
+			[ "encaminaren" ]
+		],
+		"12" : {
+			"1" : [ "encamina" ],
+			"2" : [ "encamine" ],
+			"3" : [ "encaminemos" ],
+			"4" : [ "encaminad" ],
+			"5" : [ "encaminen" ]
+		}
+	}
+}

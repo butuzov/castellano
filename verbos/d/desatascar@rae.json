@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desatascar",
+	"word" : "desatascar",
+	"infinitivo" : "desatascar",
+	"participio" : [ "desatascado" ],
+	"gerundio" : [ "desatascando" ],
+	"tenses" : {
+		"3" : [
+			[ "desatasco" ],
+			[ "desatascas", "desatascás" ],
+			[ "desatasca" ],
+			[ "desatascamos" ],
+			[ "desatascáis", "desatascan" ],
+			[ "desatascan" ]
+		],
+		"4" : [
+			[ "desatasqué" ],
+			[ "desatascaste" ],
+			[ "desatascó" ],
+			[ "desatascamos" ],
+			[ "desatascasteis", "desatascaron" ],
+			[ "desatascaron" ]
+		],
+		"5" : [
+			[ "desatascaba" ],
+			[ "desatascabas" ],
+			[ "desatascaba" ],
+			[ "desatascábamos" ],
+			[ "desatascabais", "desatascaban" ],
+			[ "desatascaban" ]
+		],
+		"6" : [
+			[ "desatascaría" ],
+			[ "desatascarías" ],
+			[ "desatascaría" ],
+			[ "desatascaríamos" ],
+			[ "desatascaríais", "desatascarían" ],
+			[ "desatascarían" ]
+		],
+		"7" : [
+			[ "desatascaré" ],
+			[ "desatascarás" ],
+			[ "desatascará" ],
+			[ "desatascaremos" ],
+			[ "desatascaréis", "desatascarán" ],
+			[ "desatascarán" ]
+		],
+		"8" : [
+			[ "desatasque" ],
+			[ "desatasques" ],
+			[ "desatasque" ],
+			[ "desatasquemos" ],
+			[ "desatasquéis", "desatasquen" ],
+			[ "desatasquen" ]
+		],
+		"9" : [
+			[ "desatascara" ],
+			[ "desatascaras" ],
+			[ "desatascara" ],
+			[ "desatascáramos" ],
+			[ "desatascarais", "desatascaran" ],
+			[ "desatascaran" ]
+		],
+		"10" : [
+			[ "desatascase" ],
+			[ "desatascases" ],
+			[ "desatascase" ],
+			[ "desatascásemos" ],
+			[ "desatascaseis", "desatascasen" ],
+			[ "desatascasen" ]
+		],
+		"11" : [
+			[ "desatascare" ],
+			[ "desatascares" ],
+			[ "desatascare" ],
+			[ "desatascáremos" ],
+			[ "desatascareis", "desatascaren" ],
+			[ "desatascaren" ]
+		],
+		"12" : {
+			"1" : [ "desatasca" ],
+			"2" : [ "desatasque" ],
+			"3" : [ "desatasquemos" ],
+			"4" : [ "desatascad" ],
+			"5" : [ "desatasquen" ]
+		}
+	}
+}

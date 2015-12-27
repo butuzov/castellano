@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resonar",
+	"word" : "resonar",
+	"infinitivo" : "resonar",
+	"participio" : [ "resonado" ],
+	"gerundio" : [ "resonando" ],
+	"tenses" : {
+		"3" : [
+			[ "resueno" ],
+			[ "resuenas", "resonás" ],
+			[ "resuena" ],
+			[ "resonamos" ],
+			[ "resonáis", "resuenan" ],
+			[ "resuenan" ]
+		],
+		"4" : [
+			[ "resoné" ],
+			[ "resonaste" ],
+			[ "resonó" ],
+			[ "resonamos" ],
+			[ "resonasteis", "resonaron" ],
+			[ "resonaron" ]
+		],
+		"5" : [
+			[ "resonaba" ],
+			[ "resonabas" ],
+			[ "resonaba" ],
+			[ "resonábamos" ],
+			[ "resonabais", "resonaban" ],
+			[ "resonaban" ]
+		],
+		"6" : [
+			[ "resonaría" ],
+			[ "resonarías" ],
+			[ "resonaría" ],
+			[ "resonaríamos" ],
+			[ "resonaríais", "resonarían" ],
+			[ "resonarían" ]
+		],
+		"7" : [
+			[ "resonaré" ],
+			[ "resonarás" ],
+			[ "resonará" ],
+			[ "resonaremos" ],
+			[ "resonaréis", "resonarán" ],
+			[ "resonarán" ]
+		],
+		"8" : [
+			[ "resuene" ],
+			[ "resuenes" ],
+			[ "resuene" ],
+			[ "resonemos" ],
+			[ "resonéis", "resuenen" ],
+			[ "resuenen" ]
+		],
+		"9" : [
+			[ "resonara" ],
+			[ "resonaras" ],
+			[ "resonara" ],
+			[ "resonáramos" ],
+			[ "resonarais", "resonaran" ],
+			[ "resonaran" ]
+		],
+		"10" : [
+			[ "resonase" ],
+			[ "resonases" ],
+			[ "resonase" ],
+			[ "resonásemos" ],
+			[ "resonaseis", "resonasen" ],
+			[ "resonasen" ]
+		],
+		"11" : [
+			[ "resonare" ],
+			[ "resonares" ],
+			[ "resonare" ],
+			[ "resonáremos" ],
+			[ "resonareis", "resonaren" ],
+			[ "resonaren" ]
+		],
+		"12" : {
+			"1" : [ "resuena" ],
+			"2" : [ "resuene" ],
+			"3" : [ "resonemos" ],
+			"4" : [ "resonad" ],
+			"5" : [ "resuenen" ]
+		}
+	}
+}

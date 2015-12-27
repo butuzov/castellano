@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embeber",
+	"word" : "embeber",
+	"infinitivo" : "embeber",
+	"participio" : [ "embebido" ],
+	"gerundio" : [ "embebiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "embebo" ],
+			[ "embebes", "embebés" ],
+			[ "embebe" ],
+			[ "embebemos" ],
+			[ "embebéis", "embeben" ],
+			[ "embeben" ]
+		],
+		"4" : [
+			[ "embebí" ],
+			[ "embebiste" ],
+			[ "embebió" ],
+			[ "embebimos" ],
+			[ "embebisteis", "embebieron" ],
+			[ "embebieron" ]
+		],
+		"5" : [
+			[ "embebía" ],
+			[ "embebías" ],
+			[ "embebía" ],
+			[ "embebíamos" ],
+			[ "embebíais", "embebían" ],
+			[ "embebían" ]
+		],
+		"6" : [
+			[ "embebería" ],
+			[ "embeberías" ],
+			[ "embebería" ],
+			[ "embeberíamos" ],
+			[ "embeberíais", "embeberían" ],
+			[ "embeberían" ]
+		],
+		"7" : [
+			[ "embeberé" ],
+			[ "embeberás" ],
+			[ "embeberá" ],
+			[ "embeberemos" ],
+			[ "embeberéis", "embeberán" ],
+			[ "embeberán" ]
+		],
+		"8" : [
+			[ "embeba" ],
+			[ "embebas" ],
+			[ "embeba" ],
+			[ "embebamos" ],
+			[ "embebáis", "embeban" ],
+			[ "embeban" ]
+		],
+		"9" : [
+			[ "embebiera" ],
+			[ "embebieras" ],
+			[ "embebiera" ],
+			[ "embebiéramos" ],
+			[ "embebierais", "embebieran" ],
+			[ "embebieran" ]
+		],
+		"10" : [
+			[ "embebiese" ],
+			[ "embebieses" ],
+			[ "embebiese" ],
+			[ "embebiésemos" ],
+			[ "embebieseis", "embebiesen" ],
+			[ "embebiesen" ]
+		],
+		"11" : [
+			[ "embebiere" ],
+			[ "embebieres" ],
+			[ "embebiere" ],
+			[ "embebiéremos" ],
+			[ "embebiereis", "embebieren" ],
+			[ "embebieren" ]
+		],
+		"12" : {
+			"1" : [ "embebe" ],
+			"2" : [ "embeba" ],
+			"3" : [ "embebamos" ],
+			"4" : [ "embebed" ],
+			"5" : [ "embeban" ]
+		}
+	}
+}

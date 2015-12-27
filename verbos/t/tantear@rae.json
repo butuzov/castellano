@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tantear",
+	"word" : "tantear",
+	"infinitivo" : "tantear",
+	"participio" : [ "tanteado" ],
+	"gerundio" : [ "tanteando" ],
+	"tenses" : {
+		"3" : [
+			[ "tanteo" ],
+			[ "tanteas", "tanteás" ],
+			[ "tantea" ],
+			[ "tanteamos" ],
+			[ "tanteáis", "tantean" ],
+			[ "tantean" ]
+		],
+		"4" : [
+			[ "tanteé" ],
+			[ "tanteaste" ],
+			[ "tanteó" ],
+			[ "tanteamos" ],
+			[ "tanteasteis", "tantearon" ],
+			[ "tantearon" ]
+		],
+		"5" : [
+			[ "tanteaba" ],
+			[ "tanteabas" ],
+			[ "tanteaba" ],
+			[ "tanteábamos" ],
+			[ "tanteabais", "tanteaban" ],
+			[ "tanteaban" ]
+		],
+		"6" : [
+			[ "tantearía" ],
+			[ "tantearías" ],
+			[ "tantearía" ],
+			[ "tantearíamos" ],
+			[ "tantearíais", "tantearían" ],
+			[ "tantearían" ]
+		],
+		"7" : [
+			[ "tantearé" ],
+			[ "tantearás" ],
+			[ "tanteará" ],
+			[ "tantearemos" ],
+			[ "tantearéis", "tantearán" ],
+			[ "tantearán" ]
+		],
+		"8" : [
+			[ "tantee" ],
+			[ "tantees" ],
+			[ "tantee" ],
+			[ "tanteemos" ],
+			[ "tanteéis", "tanteen" ],
+			[ "tanteen" ]
+		],
+		"9" : [
+			[ "tanteara" ],
+			[ "tantearas" ],
+			[ "tanteara" ],
+			[ "tanteáramos" ],
+			[ "tantearais", "tantearan" ],
+			[ "tantearan" ]
+		],
+		"10" : [
+			[ "tantease" ],
+			[ "tanteases" ],
+			[ "tantease" ],
+			[ "tanteásemos" ],
+			[ "tanteaseis", "tanteasen" ],
+			[ "tanteasen" ]
+		],
+		"11" : [
+			[ "tanteare" ],
+			[ "tanteares" ],
+			[ "tanteare" ],
+			[ "tanteáremos" ],
+			[ "tanteareis", "tantearen" ],
+			[ "tantearen" ]
+		],
+		"12" : {
+			"1" : [ "tantea" ],
+			"2" : [ "tantee" ],
+			"3" : [ "tanteemos" ],
+			"4" : [ "tantead" ],
+			"5" : [ "tanteen" ]
+		}
+	}
+}

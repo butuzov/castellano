@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=avaluar",
+	"word" : "avaluar",
+	"infinitivo" : "avaluar",
+	"participio" : [ "avaluado" ],
+	"gerundio" : [ "avaluando" ],
+	"tenses" : {
+		"3" : [
+			[ "avalúo" ],
+			[ "avalúas", "avaluás" ],
+			[ "avalúa" ],
+			[ "avaluamos" ],
+			[ "avaluáis", "avalúan" ],
+			[ "avalúan" ]
+		],
+		"4" : [
+			[ "avalué" ],
+			[ "avaluaste" ],
+			[ "avaluó" ],
+			[ "avaluamos" ],
+			[ "avaluasteis", "avaluaron" ],
+			[ "avaluaron" ]
+		],
+		"5" : [
+			[ "avaluaba" ],
+			[ "avaluabas" ],
+			[ "avaluaba" ],
+			[ "avaluábamos" ],
+			[ "avaluabais", "avaluaban" ],
+			[ "avaluaban" ]
+		],
+		"6" : [
+			[ "avaluaría" ],
+			[ "avaluarías" ],
+			[ "avaluaría" ],
+			[ "avaluaríamos" ],
+			[ "avaluaríais", "avaluarían" ],
+			[ "avaluarían" ]
+		],
+		"7" : [
+			[ "avaluaré" ],
+			[ "avaluarás" ],
+			[ "avaluará" ],
+			[ "avaluaremos" ],
+			[ "avaluaréis", "avaluarán" ],
+			[ "avaluarán" ]
+		],
+		"8" : [
+			[ "avalúe" ],
+			[ "avalúes" ],
+			[ "avalúe" ],
+			[ "avaluemos" ],
+			[ "avaluéis", "avalúen" ],
+			[ "avalúen" ]
+		],
+		"9" : [
+			[ "avaluara" ],
+			[ "avaluaras" ],
+			[ "avaluara" ],
+			[ "avaluáramos" ],
+			[ "avaluarais", "avaluaran" ],
+			[ "avaluaran" ]
+		],
+		"10" : [
+			[ "avaluase" ],
+			[ "avaluases" ],
+			[ "avaluase" ],
+			[ "avaluásemos" ],
+			[ "avaluaseis", "avaluasen" ],
+			[ "avaluasen" ]
+		],
+		"11" : [
+			[ "avaluare" ],
+			[ "avaluares" ],
+			[ "avaluare" ],
+			[ "avaluáremos" ],
+			[ "avaluareis", "avaluaren" ],
+			[ "avaluaren" ]
+		],
+		"12" : {
+			"1" : [ "avalúa" ],
+			"2" : [ "avalúe" ],
+			"3" : [ "avaluemos" ],
+			"4" : [ "avaluad" ],
+			"5" : [ "avalúen" ]
+		}
+	}
+}

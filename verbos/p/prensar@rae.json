@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prensar",
+	"word" : "prensar",
+	"infinitivo" : "prensar",
+	"participio" : [ "prensado" ],
+	"gerundio" : [ "prensando" ],
+	"tenses" : {
+		"3" : [
+			[ "prenso" ],
+			[ "prensas", "prensás" ],
+			[ "prensa" ],
+			[ "prensamos" ],
+			[ "prensáis", "prensan" ],
+			[ "prensan" ]
+		],
+		"4" : [
+			[ "prensé" ],
+			[ "prensaste" ],
+			[ "prensó" ],
+			[ "prensamos" ],
+			[ "prensasteis", "prensaron" ],
+			[ "prensaron" ]
+		],
+		"5" : [
+			[ "prensaba" ],
+			[ "prensabas" ],
+			[ "prensaba" ],
+			[ "prensábamos" ],
+			[ "prensabais", "prensaban" ],
+			[ "prensaban" ]
+		],
+		"6" : [
+			[ "prensaría" ],
+			[ "prensarías" ],
+			[ "prensaría" ],
+			[ "prensaríamos" ],
+			[ "prensaríais", "prensarían" ],
+			[ "prensarían" ]
+		],
+		"7" : [
+			[ "prensaré" ],
+			[ "prensarás" ],
+			[ "prensará" ],
+			[ "prensaremos" ],
+			[ "prensaréis", "prensarán" ],
+			[ "prensarán" ]
+		],
+		"8" : [
+			[ "prense" ],
+			[ "prenses" ],
+			[ "prense" ],
+			[ "prensemos" ],
+			[ "prenséis", "prensen" ],
+			[ "prensen" ]
+		],
+		"9" : [
+			[ "prensara" ],
+			[ "prensaras" ],
+			[ "prensara" ],
+			[ "prensáramos" ],
+			[ "prensarais", "prensaran" ],
+			[ "prensaran" ]
+		],
+		"10" : [
+			[ "prensase" ],
+			[ "prensases" ],
+			[ "prensase" ],
+			[ "prensásemos" ],
+			[ "prensaseis", "prensasen" ],
+			[ "prensasen" ]
+		],
+		"11" : [
+			[ "prensare" ],
+			[ "prensares" ],
+			[ "prensare" ],
+			[ "prensáremos" ],
+			[ "prensareis", "prensaren" ],
+			[ "prensaren" ]
+		],
+		"12" : {
+			"1" : [ "prensa" ],
+			"2" : [ "prense" ],
+			"3" : [ "prensemos" ],
+			"4" : [ "prensad" ],
+			"5" : [ "prensen" ]
+		}
+	}
+}

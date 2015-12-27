@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=humanizar",
+	"word" : "humanizar",
+	"infinitivo" : "humanizar",
+	"participio" : [ "humanizado" ],
+	"gerundio" : [ "humanizando" ],
+	"tenses" : {
+		"3" : [
+			[ "humanizo" ],
+			[ "humanizas", "humanizás" ],
+			[ "humaniza" ],
+			[ "humanizamos" ],
+			[ "humanizáis", "humanizan" ],
+			[ "humanizan" ]
+		],
+		"4" : [
+			[ "humanicé" ],
+			[ "humanizaste" ],
+			[ "humanizó" ],
+			[ "humanizamos" ],
+			[ "humanizasteis", "humanizaron" ],
+			[ "humanizaron" ]
+		],
+		"5" : [
+			[ "humanizaba" ],
+			[ "humanizabas" ],
+			[ "humanizaba" ],
+			[ "humanizábamos" ],
+			[ "humanizabais", "humanizaban" ],
+			[ "humanizaban" ]
+		],
+		"6" : [
+			[ "humanizaría" ],
+			[ "humanizarías" ],
+			[ "humanizaría" ],
+			[ "humanizaríamos" ],
+			[ "humanizaríais", "humanizarían" ],
+			[ "humanizarían" ]
+		],
+		"7" : [
+			[ "humanizaré" ],
+			[ "humanizarás" ],
+			[ "humanizará" ],
+			[ "humanizaremos" ],
+			[ "humanizaréis", "humanizarán" ],
+			[ "humanizarán" ]
+		],
+		"8" : [
+			[ "humanice" ],
+			[ "humanices" ],
+			[ "humanice" ],
+			[ "humanicemos" ],
+			[ "humanicéis", "humanicen" ],
+			[ "humanicen" ]
+		],
+		"9" : [
+			[ "humanizara" ],
+			[ "humanizaras" ],
+			[ "humanizara" ],
+			[ "humanizáramos" ],
+			[ "humanizarais", "humanizaran" ],
+			[ "humanizaran" ]
+		],
+		"10" : [
+			[ "humanizase" ],
+			[ "humanizases" ],
+			[ "humanizase" ],
+			[ "humanizásemos" ],
+			[ "humanizaseis", "humanizasen" ],
+			[ "humanizasen" ]
+		],
+		"11" : [
+			[ "humanizare" ],
+			[ "humanizares" ],
+			[ "humanizare" ],
+			[ "humanizáremos" ],
+			[ "humanizareis", "humanizaren" ],
+			[ "humanizaren" ]
+		],
+		"12" : {
+			"1" : [ "humaniza" ],
+			"2" : [ "humanice" ],
+			"3" : [ "humanicemos" ],
+			"4" : [ "humanizad" ],
+			"5" : [ "humanicen" ]
+		}
+	}
+}

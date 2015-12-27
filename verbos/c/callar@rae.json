@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=callar",
+	"word" : "callar",
+	"infinitivo" : "callar",
+	"participio" : [ "callado" ],
+	"gerundio" : [ "callando" ],
+	"tenses" : {
+		"3" : [
+			[ "callo" ],
+			[ "callas", "callás" ],
+			[ "calla" ],
+			[ "callamos" ],
+			[ "calláis", "callan" ],
+			[ "callan" ]
+		],
+		"4" : [
+			[ "callé" ],
+			[ "callaste" ],
+			[ "calló" ],
+			[ "callamos" ],
+			[ "callasteis", "callaron" ],
+			[ "callaron" ]
+		],
+		"5" : [
+			[ "callaba" ],
+			[ "callabas" ],
+			[ "callaba" ],
+			[ "callábamos" ],
+			[ "callabais", "callaban" ],
+			[ "callaban" ]
+		],
+		"6" : [
+			[ "callaría" ],
+			[ "callarías" ],
+			[ "callaría" ],
+			[ "callaríamos" ],
+			[ "callaríais", "callarían" ],
+			[ "callarían" ]
+		],
+		"7" : [
+			[ "callaré" ],
+			[ "callarás" ],
+			[ "callará" ],
+			[ "callaremos" ],
+			[ "callaréis", "callarán" ],
+			[ "callarán" ]
+		],
+		"8" : [
+			[ "calle" ],
+			[ "calles" ],
+			[ "calle" ],
+			[ "callemos" ],
+			[ "calléis", "callen" ],
+			[ "callen" ]
+		],
+		"9" : [
+			[ "callara" ],
+			[ "callaras" ],
+			[ "callara" ],
+			[ "calláramos" ],
+			[ "callarais", "callaran" ],
+			[ "callaran" ]
+		],
+		"10" : [
+			[ "callase" ],
+			[ "callases" ],
+			[ "callase" ],
+			[ "callásemos" ],
+			[ "callaseis", "callasen" ],
+			[ "callasen" ]
+		],
+		"11" : [
+			[ "callare" ],
+			[ "callares" ],
+			[ "callare" ],
+			[ "calláremos" ],
+			[ "callareis", "callaren" ],
+			[ "callaren" ]
+		],
+		"12" : {
+			"1" : [ "calla" ],
+			"2" : [ "calle" ],
+			"3" : [ "callemos" ],
+			"4" : [ "callad" ],
+			"5" : [ "callen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acostumbrar",
+	"word" : "acostumbrar",
+	"infinitivo" : "acostumbrar",
+	"participio" : [ "acostumbrado" ],
+	"gerundio" : [ "acostumbrando" ],
+	"tenses" : {
+		"3" : [
+			[ "acostumbro" ],
+			[ "acostumbras", "acostumbrás" ],
+			[ "acostumbra" ],
+			[ "acostumbramos" ],
+			[ "acostumbráis", "acostumbran" ],
+			[ "acostumbran" ]
+		],
+		"4" : [
+			[ "acostumbré" ],
+			[ "acostumbraste" ],
+			[ "acostumbró" ],
+			[ "acostumbramos" ],
+			[ "acostumbrasteis", "acostumbraron" ],
+			[ "acostumbraron" ]
+		],
+		"5" : [
+			[ "acostumbraba" ],
+			[ "acostumbrabas" ],
+			[ "acostumbraba" ],
+			[ "acostumbrábamos" ],
+			[ "acostumbrabais", "acostumbraban" ],
+			[ "acostumbraban" ]
+		],
+		"6" : [
+			[ "acostumbraría" ],
+			[ "acostumbrarías" ],
+			[ "acostumbraría" ],
+			[ "acostumbraríamos" ],
+			[ "acostumbraríais", "acostumbrarían" ],
+			[ "acostumbrarían" ]
+		],
+		"7" : [
+			[ "acostumbraré" ],
+			[ "acostumbrarás" ],
+			[ "acostumbrará" ],
+			[ "acostumbraremos" ],
+			[ "acostumbraréis", "acostumbrarán" ],
+			[ "acostumbrarán" ]
+		],
+		"8" : [
+			[ "acostumbre" ],
+			[ "acostumbres" ],
+			[ "acostumbre" ],
+			[ "acostumbremos" ],
+			[ "acostumbréis", "acostumbren" ],
+			[ "acostumbren" ]
+		],
+		"9" : [
+			[ "acostumbrara" ],
+			[ "acostumbraras" ],
+			[ "acostumbrara" ],
+			[ "acostumbráramos" ],
+			[ "acostumbrarais", "acostumbraran" ],
+			[ "acostumbraran" ]
+		],
+		"10" : [
+			[ "acostumbrase" ],
+			[ "acostumbrases" ],
+			[ "acostumbrase" ],
+			[ "acostumbrásemos" ],
+			[ "acostumbraseis", "acostumbrasen" ],
+			[ "acostumbrasen" ]
+		],
+		"11" : [
+			[ "acostumbrare" ],
+			[ "acostumbrares" ],
+			[ "acostumbrare" ],
+			[ "acostumbráremos" ],
+			[ "acostumbrareis", "acostumbraren" ],
+			[ "acostumbraren" ]
+		],
+		"12" : {
+			"1" : [ "acostumbra" ],
+			"2" : [ "acostumbre" ],
+			"3" : [ "acostumbremos" ],
+			"4" : [ "acostumbrad" ],
+			"5" : [ "acostumbren" ]
+		}
+	}
+}

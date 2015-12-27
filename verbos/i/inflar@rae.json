@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inflar",
+	"word" : "inflar",
+	"infinitivo" : "inflar",
+	"participio" : [ "inflado" ],
+	"gerundio" : [ "inflando" ],
+	"tenses" : {
+		"3" : [
+			[ "inflo" ],
+			[ "inflas", "inflás" ],
+			[ "infla" ],
+			[ "inflamos" ],
+			[ "infláis", "inflan" ],
+			[ "inflan" ]
+		],
+		"4" : [
+			[ "inflé" ],
+			[ "inflaste" ],
+			[ "infló" ],
+			[ "inflamos" ],
+			[ "inflasteis", "inflaron" ],
+			[ "inflaron" ]
+		],
+		"5" : [
+			[ "inflaba" ],
+			[ "inflabas" ],
+			[ "inflaba" ],
+			[ "inflábamos" ],
+			[ "inflabais", "inflaban" ],
+			[ "inflaban" ]
+		],
+		"6" : [
+			[ "inflaría" ],
+			[ "inflarías" ],
+			[ "inflaría" ],
+			[ "inflaríamos" ],
+			[ "inflaríais", "inflarían" ],
+			[ "inflarían" ]
+		],
+		"7" : [
+			[ "inflaré" ],
+			[ "inflarás" ],
+			[ "inflará" ],
+			[ "inflaremos" ],
+			[ "inflaréis", "inflarán" ],
+			[ "inflarán" ]
+		],
+		"8" : [
+			[ "infle" ],
+			[ "infles" ],
+			[ "infle" ],
+			[ "inflemos" ],
+			[ "infléis", "inflen" ],
+			[ "inflen" ]
+		],
+		"9" : [
+			[ "inflara" ],
+			[ "inflaras" ],
+			[ "inflara" ],
+			[ "infláramos" ],
+			[ "inflarais", "inflaran" ],
+			[ "inflaran" ]
+		],
+		"10" : [
+			[ "inflase" ],
+			[ "inflases" ],
+			[ "inflase" ],
+			[ "inflásemos" ],
+			[ "inflaseis", "inflasen" ],
+			[ "inflasen" ]
+		],
+		"11" : [
+			[ "inflare" ],
+			[ "inflares" ],
+			[ "inflare" ],
+			[ "infláremos" ],
+			[ "inflareis", "inflaren" ],
+			[ "inflaren" ]
+		],
+		"12" : {
+			"1" : [ "infla" ],
+			"2" : [ "infle" ],
+			"3" : [ "inflemos" ],
+			"4" : [ "inflad" ],
+			"5" : [ "inflen" ]
+		}
+	}
+}

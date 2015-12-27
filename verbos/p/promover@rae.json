@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=promover",
+	"word" : "promover",
+	"infinitivo" : "promover",
+	"participio" : [ "promovido" ],
+	"gerundio" : [ "promoviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "promuevo" ],
+			[ "promueves", "promovés" ],
+			[ "promueve" ],
+			[ "promovemos" ],
+			[ "promovéis", "promueven" ],
+			[ "promueven" ]
+		],
+		"4" : [
+			[ "promoví" ],
+			[ "promoviste" ],
+			[ "promovió" ],
+			[ "promovimos" ],
+			[ "promovisteis", "promovieron" ],
+			[ "promovieron" ]
+		],
+		"5" : [
+			[ "promovía" ],
+			[ "promovías" ],
+			[ "promovía" ],
+			[ "promovíamos" ],
+			[ "promovíais", "promovían" ],
+			[ "promovían" ]
+		],
+		"6" : [
+			[ "promovería" ],
+			[ "promoverías" ],
+			[ "promovería" ],
+			[ "promoveríamos" ],
+			[ "promoveríais", "promoverían" ],
+			[ "promoverían" ]
+		],
+		"7" : [
+			[ "promoveré" ],
+			[ "promoverás" ],
+			[ "promoverá" ],
+			[ "promoveremos" ],
+			[ "promoveréis", "promoverán" ],
+			[ "promoverán" ]
+		],
+		"8" : [
+			[ "promueva" ],
+			[ "promuevas" ],
+			[ "promueva" ],
+			[ "promovamos" ],
+			[ "promováis", "promuevan" ],
+			[ "promuevan" ]
+		],
+		"9" : [
+			[ "promoviera" ],
+			[ "promovieras" ],
+			[ "promoviera" ],
+			[ "promoviéramos" ],
+			[ "promovierais", "promovieran" ],
+			[ "promovieran" ]
+		],
+		"10" : [
+			[ "promoviese" ],
+			[ "promovieses" ],
+			[ "promoviese" ],
+			[ "promoviésemos" ],
+			[ "promovieseis", "promoviesen" ],
+			[ "promoviesen" ]
+		],
+		"11" : [
+			[ "promoviere" ],
+			[ "promovieres" ],
+			[ "promoviere" ],
+			[ "promoviéremos" ],
+			[ "promoviereis", "promovieren" ],
+			[ "promovieren" ]
+		],
+		"12" : {
+			"1" : [ "promueve" ],
+			"2" : [ "promueva" ],
+			"3" : [ "promovamos" ],
+			"4" : [ "promoved" ],
+			"5" : [ "promuevan" ]
+		}
+	}
+}

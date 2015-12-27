@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=confrontar",
+	"word" : "confrontar",
+	"infinitivo" : "confrontar",
+	"participio" : [ "confrontado" ],
+	"gerundio" : [ "confrontando" ],
+	"tenses" : {
+		"3" : [
+			[ "confronto" ],
+			[ "confrontas", "confrontás" ],
+			[ "confronta" ],
+			[ "confrontamos" ],
+			[ "confrontáis", "confrontan" ],
+			[ "confrontan" ]
+		],
+		"4" : [
+			[ "confronté" ],
+			[ "confrontaste" ],
+			[ "confrontó" ],
+			[ "confrontamos" ],
+			[ "confrontasteis", "confrontaron" ],
+			[ "confrontaron" ]
+		],
+		"5" : [
+			[ "confrontaba" ],
+			[ "confrontabas" ],
+			[ "confrontaba" ],
+			[ "confrontábamos" ],
+			[ "confrontabais", "confrontaban" ],
+			[ "confrontaban" ]
+		],
+		"6" : [
+			[ "confrontaría" ],
+			[ "confrontarías" ],
+			[ "confrontaría" ],
+			[ "confrontaríamos" ],
+			[ "confrontaríais", "confrontarían" ],
+			[ "confrontarían" ]
+		],
+		"7" : [
+			[ "confrontaré" ],
+			[ "confrontarás" ],
+			[ "confrontará" ],
+			[ "confrontaremos" ],
+			[ "confrontaréis", "confrontarán" ],
+			[ "confrontarán" ]
+		],
+		"8" : [
+			[ "confronte" ],
+			[ "confrontes" ],
+			[ "confronte" ],
+			[ "confrontemos" ],
+			[ "confrontéis", "confronten" ],
+			[ "confronten" ]
+		],
+		"9" : [
+			[ "confrontara" ],
+			[ "confrontaras" ],
+			[ "confrontara" ],
+			[ "confrontáramos" ],
+			[ "confrontarais", "confrontaran" ],
+			[ "confrontaran" ]
+		],
+		"10" : [
+			[ "confrontase" ],
+			[ "confrontases" ],
+			[ "confrontase" ],
+			[ "confrontásemos" ],
+			[ "confrontaseis", "confrontasen" ],
+			[ "confrontasen" ]
+		],
+		"11" : [
+			[ "confrontare" ],
+			[ "confrontares" ],
+			[ "confrontare" ],
+			[ "confrontáremos" ],
+			[ "confrontareis", "confrontaren" ],
+			[ "confrontaren" ]
+		],
+		"12" : {
+			"1" : [ "confronta" ],
+			"2" : [ "confronte" ],
+			"3" : [ "confrontemos" ],
+			"4" : [ "confrontad" ],
+			"5" : [ "confronten" ]
+		}
+	}
+}

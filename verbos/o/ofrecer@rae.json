@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ofrecer",
+	"word" : "ofrecer",
+	"infinitivo" : "ofrecer",
+	"participio" : [ "ofrecido" ],
+	"gerundio" : [ "ofreciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "ofrezco" ],
+			[ "ofreces", "ofrecés" ],
+			[ "ofrece" ],
+			[ "ofrecemos" ],
+			[ "ofrecéis", "ofrecen" ],
+			[ "ofrecen" ]
+		],
+		"4" : [
+			[ "ofrecí" ],
+			[ "ofreciste" ],
+			[ "ofreció" ],
+			[ "ofrecimos" ],
+			[ "ofrecisteis", "ofrecieron" ],
+			[ "ofrecieron" ]
+		],
+		"5" : [
+			[ "ofrecía" ],
+			[ "ofrecías" ],
+			[ "ofrecía" ],
+			[ "ofrecíamos" ],
+			[ "ofrecíais", "ofrecían" ],
+			[ "ofrecían" ]
+		],
+		"6" : [
+			[ "ofrecería" ],
+			[ "ofrecerías" ],
+			[ "ofrecería" ],
+			[ "ofreceríamos" ],
+			[ "ofreceríais", "ofrecerían" ],
+			[ "ofrecerían" ]
+		],
+		"7" : [
+			[ "ofreceré" ],
+			[ "ofrecerás" ],
+			[ "ofrecerá" ],
+			[ "ofreceremos" ],
+			[ "ofreceréis", "ofrecerán" ],
+			[ "ofrecerán" ]
+		],
+		"8" : [
+			[ "ofrezca" ],
+			[ "ofrezcas" ],
+			[ "ofrezca" ],
+			[ "ofrezcamos" ],
+			[ "ofrezcáis", "ofrezcan" ],
+			[ "ofrezcan" ]
+		],
+		"9" : [
+			[ "ofreciera" ],
+			[ "ofrecieras" ],
+			[ "ofreciera" ],
+			[ "ofreciéramos" ],
+			[ "ofrecierais", "ofrecieran" ],
+			[ "ofrecieran" ]
+		],
+		"10" : [
+			[ "ofreciese" ],
+			[ "ofrecieses" ],
+			[ "ofreciese" ],
+			[ "ofreciésemos" ],
+			[ "ofrecieseis", "ofreciesen" ],
+			[ "ofreciesen" ]
+		],
+		"11" : [
+			[ "ofreciere" ],
+			[ "ofrecieres" ],
+			[ "ofreciere" ],
+			[ "ofreciéremos" ],
+			[ "ofreciereis", "ofrecieren" ],
+			[ "ofrecieren" ]
+		],
+		"12" : {
+			"1" : [ "ofrece" ],
+			"2" : [ "ofrezca" ],
+			"3" : [ "ofrezcamos" ],
+			"4" : [ "ofreced" ],
+			"5" : [ "ofrezcan" ]
+		}
+	}
+}

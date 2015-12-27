@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=temperar",
+	"word" : "temperar",
+	"infinitivo" : "temperar",
+	"participio" : [ "temperado" ],
+	"gerundio" : [ "temperando" ],
+	"tenses" : {
+		"3" : [
+			[ "tempero" ],
+			[ "temperas", "temperás" ],
+			[ "tempera" ],
+			[ "temperamos" ],
+			[ "temperáis", "temperan" ],
+			[ "temperan" ]
+		],
+		"4" : [
+			[ "temperé" ],
+			[ "temperaste" ],
+			[ "temperó" ],
+			[ "temperamos" ],
+			[ "temperasteis", "temperaron" ],
+			[ "temperaron" ]
+		],
+		"5" : [
+			[ "temperaba" ],
+			[ "temperabas" ],
+			[ "temperaba" ],
+			[ "temperábamos" ],
+			[ "temperabais", "temperaban" ],
+			[ "temperaban" ]
+		],
+		"6" : [
+			[ "temperaría" ],
+			[ "temperarías" ],
+			[ "temperaría" ],
+			[ "temperaríamos" ],
+			[ "temperaríais", "temperarían" ],
+			[ "temperarían" ]
+		],
+		"7" : [
+			[ "temperaré" ],
+			[ "temperarás" ],
+			[ "temperará" ],
+			[ "temperaremos" ],
+			[ "temperaréis", "temperarán" ],
+			[ "temperarán" ]
+		],
+		"8" : [
+			[ "tempere" ],
+			[ "temperes" ],
+			[ "tempere" ],
+			[ "temperemos" ],
+			[ "temperéis", "temperen" ],
+			[ "temperen" ]
+		],
+		"9" : [
+			[ "temperara" ],
+			[ "temperaras" ],
+			[ "temperara" ],
+			[ "temperáramos" ],
+			[ "temperarais", "temperaran" ],
+			[ "temperaran" ]
+		],
+		"10" : [
+			[ "temperase" ],
+			[ "temperases" ],
+			[ "temperase" ],
+			[ "temperásemos" ],
+			[ "temperaseis", "temperasen" ],
+			[ "temperasen" ]
+		],
+		"11" : [
+			[ "temperare" ],
+			[ "temperares" ],
+			[ "temperare" ],
+			[ "temperáremos" ],
+			[ "temperareis", "temperaren" ],
+			[ "temperaren" ]
+		],
+		"12" : {
+			"1" : [ "tempera" ],
+			"2" : [ "tempere" ],
+			"3" : [ "temperemos" ],
+			"4" : [ "temperad" ],
+			"5" : [ "temperen" ]
+		}
+	}
+}

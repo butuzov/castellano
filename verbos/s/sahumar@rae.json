@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sahumar",
+	"word" : "sahumar",
+	"infinitivo" : "sahumar",
+	"participio" : [ "sahumado" ],
+	"gerundio" : [ "sahumando" ],
+	"tenses" : {
+		"3" : [
+			[ "sahúmo" ],
+			[ "sahúmas", "sahumás" ],
+			[ "sahúma" ],
+			[ "sahumamos" ],
+			[ "sahumáis", "sahúman" ],
+			[ "sahúman" ]
+		],
+		"4" : [
+			[ "sahumé" ],
+			[ "sahumaste" ],
+			[ "sahumó" ],
+			[ "sahumamos" ],
+			[ "sahumasteis", "sahumaron" ],
+			[ "sahumaron" ]
+		],
+		"5" : [
+			[ "sahumaba" ],
+			[ "sahumabas" ],
+			[ "sahumaba" ],
+			[ "sahumábamos" ],
+			[ "sahumabais", "sahumaban" ],
+			[ "sahumaban" ]
+		],
+		"6" : [
+			[ "sahumaría" ],
+			[ "sahumarías" ],
+			[ "sahumaría" ],
+			[ "sahumaríamos" ],
+			[ "sahumaríais", "sahumarían" ],
+			[ "sahumarían" ]
+		],
+		"7" : [
+			[ "sahumaré" ],
+			[ "sahumarás" ],
+			[ "sahumará" ],
+			[ "sahumaremos" ],
+			[ "sahumaréis", "sahumarán" ],
+			[ "sahumarán" ]
+		],
+		"8" : [
+			[ "sahúme" ],
+			[ "sahúmes" ],
+			[ "sahúme" ],
+			[ "sahumemos" ],
+			[ "sahuméis", "sahúmen" ],
+			[ "sahúmen" ]
+		],
+		"9" : [
+			[ "sahumara" ],
+			[ "sahumaras" ],
+			[ "sahumara" ],
+			[ "sahumáramos" ],
+			[ "sahumarais", "sahumaran" ],
+			[ "sahumaran" ]
+		],
+		"10" : [
+			[ "sahumase" ],
+			[ "sahumases" ],
+			[ "sahumase" ],
+			[ "sahumásemos" ],
+			[ "sahumaseis", "sahumasen" ],
+			[ "sahumasen" ]
+		],
+		"11" : [
+			[ "sahumare" ],
+			[ "sahumares" ],
+			[ "sahumare" ],
+			[ "sahumáremos" ],
+			[ "sahumareis", "sahumaren" ],
+			[ "sahumaren" ]
+		],
+		"12" : {
+			"1" : [ "sahúma" ],
+			"2" : [ "sahúme" ],
+			"3" : [ "sahumemos" ],
+			"4" : [ "sahumad" ],
+			"5" : [ "sahúmen" ]
+		}
+	}
+}

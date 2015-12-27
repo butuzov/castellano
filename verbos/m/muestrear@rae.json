@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=muestrear",
+	"word" : "muestrear",
+	"infinitivo" : "muestrear",
+	"participio" : [ "muestreado" ],
+	"gerundio" : [ "muestreando" ],
+	"tenses" : {
+		"3" : [
+			[ "muestreo" ],
+			[ "muestreas", "muestreás" ],
+			[ "muestrea" ],
+			[ "muestreamos" ],
+			[ "muestreáis", "muestrean" ],
+			[ "muestrean" ]
+		],
+		"4" : [
+			[ "muestreé" ],
+			[ "muestreaste" ],
+			[ "muestreó" ],
+			[ "muestreamos" ],
+			[ "muestreasteis", "muestrearon" ],
+			[ "muestrearon" ]
+		],
+		"5" : [
+			[ "muestreaba" ],
+			[ "muestreabas" ],
+			[ "muestreaba" ],
+			[ "muestreábamos" ],
+			[ "muestreabais", "muestreaban" ],
+			[ "muestreaban" ]
+		],
+		"6" : [
+			[ "muestrearía" ],
+			[ "muestrearías" ],
+			[ "muestrearía" ],
+			[ "muestrearíamos" ],
+			[ "muestrearíais", "muestrearían" ],
+			[ "muestrearían" ]
+		],
+		"7" : [
+			[ "muestrearé" ],
+			[ "muestrearás" ],
+			[ "muestreará" ],
+			[ "muestrearemos" ],
+			[ "muestrearéis", "muestrearán" ],
+			[ "muestrearán" ]
+		],
+		"8" : [
+			[ "muestree" ],
+			[ "muestrees" ],
+			[ "muestree" ],
+			[ "muestreemos" ],
+			[ "muestreéis", "muestreen" ],
+			[ "muestreen" ]
+		],
+		"9" : [
+			[ "muestreara" ],
+			[ "muestrearas" ],
+			[ "muestreara" ],
+			[ "muestreáramos" ],
+			[ "muestrearais", "muestrearan" ],
+			[ "muestrearan" ]
+		],
+		"10" : [
+			[ "muestrease" ],
+			[ "muestreases" ],
+			[ "muestrease" ],
+			[ "muestreásemos" ],
+			[ "muestreaseis", "muestreasen" ],
+			[ "muestreasen" ]
+		],
+		"11" : [
+			[ "muestreare" ],
+			[ "muestreares" ],
+			[ "muestreare" ],
+			[ "muestreáremos" ],
+			[ "muestreareis", "muestrearen" ],
+			[ "muestrearen" ]
+		],
+		"12" : {
+			"1" : [ "muestrea" ],
+			"2" : [ "muestree" ],
+			"3" : [ "muestreemos" ],
+			"4" : [ "muestread" ],
+			"5" : [ "muestreen" ]
+		}
+	}
+}

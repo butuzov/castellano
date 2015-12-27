@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fresar",
+	"word" : "fresar",
+	"infinitivo" : "fresar",
+	"participio" : [ "fresado" ],
+	"gerundio" : [ "fresando" ],
+	"tenses" : {
+		"3" : [
+			[ "freso" ],
+			[ "fresas", "fresás" ],
+			[ "fresa" ],
+			[ "fresamos" ],
+			[ "fresáis", "fresan" ],
+			[ "fresan" ]
+		],
+		"4" : [
+			[ "fresé" ],
+			[ "fresaste" ],
+			[ "fresó" ],
+			[ "fresamos" ],
+			[ "fresasteis", "fresaron" ],
+			[ "fresaron" ]
+		],
+		"5" : [
+			[ "fresaba" ],
+			[ "fresabas" ],
+			[ "fresaba" ],
+			[ "fresábamos" ],
+			[ "fresabais", "fresaban" ],
+			[ "fresaban" ]
+		],
+		"6" : [
+			[ "fresaría" ],
+			[ "fresarías" ],
+			[ "fresaría" ],
+			[ "fresaríamos" ],
+			[ "fresaríais", "fresarían" ],
+			[ "fresarían" ]
+		],
+		"7" : [
+			[ "fresaré" ],
+			[ "fresarás" ],
+			[ "fresará" ],
+			[ "fresaremos" ],
+			[ "fresaréis", "fresarán" ],
+			[ "fresarán" ]
+		],
+		"8" : [
+			[ "frese" ],
+			[ "freses" ],
+			[ "frese" ],
+			[ "fresemos" ],
+			[ "freséis", "fresen" ],
+			[ "fresen" ]
+		],
+		"9" : [
+			[ "fresara" ],
+			[ "fresaras" ],
+			[ "fresara" ],
+			[ "fresáramos" ],
+			[ "fresarais", "fresaran" ],
+			[ "fresaran" ]
+		],
+		"10" : [
+			[ "fresase" ],
+			[ "fresases" ],
+			[ "fresase" ],
+			[ "fresásemos" ],
+			[ "fresaseis", "fresasen" ],
+			[ "fresasen" ]
+		],
+		"11" : [
+			[ "fresare" ],
+			[ "fresares" ],
+			[ "fresare" ],
+			[ "fresáremos" ],
+			[ "fresareis", "fresaren" ],
+			[ "fresaren" ]
+		],
+		"12" : {
+			"1" : [ "fresa" ],
+			"2" : [ "frese" ],
+			"3" : [ "fresemos" ],
+			"4" : [ "fresad" ],
+			"5" : [ "fresen" ]
+		}
+	}
+}

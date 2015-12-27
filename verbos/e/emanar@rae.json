@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emanar",
+	"word" : "emanar",
+	"infinitivo" : "emanar",
+	"participio" : [ "emanado" ],
+	"gerundio" : [ "emanando" ],
+	"tenses" : {
+		"3" : [
+			[ "emano" ],
+			[ "emanas", "emanás" ],
+			[ "emana" ],
+			[ "emanamos" ],
+			[ "emanáis", "emanan" ],
+			[ "emanan" ]
+		],
+		"4" : [
+			[ "emané" ],
+			[ "emanaste" ],
+			[ "emanó" ],
+			[ "emanamos" ],
+			[ "emanasteis", "emanaron" ],
+			[ "emanaron" ]
+		],
+		"5" : [
+			[ "emanaba" ],
+			[ "emanabas" ],
+			[ "emanaba" ],
+			[ "emanábamos" ],
+			[ "emanabais", "emanaban" ],
+			[ "emanaban" ]
+		],
+		"6" : [
+			[ "emanaría" ],
+			[ "emanarías" ],
+			[ "emanaría" ],
+			[ "emanaríamos" ],
+			[ "emanaríais", "emanarían" ],
+			[ "emanarían" ]
+		],
+		"7" : [
+			[ "emanaré" ],
+			[ "emanarás" ],
+			[ "emanará" ],
+			[ "emanaremos" ],
+			[ "emanaréis", "emanarán" ],
+			[ "emanarán" ]
+		],
+		"8" : [
+			[ "emane" ],
+			[ "emanes" ],
+			[ "emane" ],
+			[ "emanemos" ],
+			[ "emanéis", "emanen" ],
+			[ "emanen" ]
+		],
+		"9" : [
+			[ "emanara" ],
+			[ "emanaras" ],
+			[ "emanara" ],
+			[ "emanáramos" ],
+			[ "emanarais", "emanaran" ],
+			[ "emanaran" ]
+		],
+		"10" : [
+			[ "emanase" ],
+			[ "emanases" ],
+			[ "emanase" ],
+			[ "emanásemos" ],
+			[ "emanaseis", "emanasen" ],
+			[ "emanasen" ]
+		],
+		"11" : [
+			[ "emanare" ],
+			[ "emanares" ],
+			[ "emanare" ],
+			[ "emanáremos" ],
+			[ "emanareis", "emanaren" ],
+			[ "emanaren" ]
+		],
+		"12" : {
+			"1" : [ "emana" ],
+			"2" : [ "emane" ],
+			"3" : [ "emanemos" ],
+			"4" : [ "emanad" ],
+			"5" : [ "emanen" ]
+		}
+	}
+}

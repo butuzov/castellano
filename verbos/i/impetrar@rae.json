@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=impetrar",
+	"word" : "impetrar",
+	"infinitivo" : "impetrar",
+	"participio" : [ "impetrado" ],
+	"gerundio" : [ "impetrando" ],
+	"tenses" : {
+		"3" : [
+			[ "impetro" ],
+			[ "impetras", "impetrás" ],
+			[ "impetra" ],
+			[ "impetramos" ],
+			[ "impetráis", "impetran" ],
+			[ "impetran" ]
+		],
+		"4" : [
+			[ "impetré" ],
+			[ "impetraste" ],
+			[ "impetró" ],
+			[ "impetramos" ],
+			[ "impetrasteis", "impetraron" ],
+			[ "impetraron" ]
+		],
+		"5" : [
+			[ "impetraba" ],
+			[ "impetrabas" ],
+			[ "impetraba" ],
+			[ "impetrábamos" ],
+			[ "impetrabais", "impetraban" ],
+			[ "impetraban" ]
+		],
+		"6" : [
+			[ "impetraría" ],
+			[ "impetrarías" ],
+			[ "impetraría" ],
+			[ "impetraríamos" ],
+			[ "impetraríais", "impetrarían" ],
+			[ "impetrarían" ]
+		],
+		"7" : [
+			[ "impetraré" ],
+			[ "impetrarás" ],
+			[ "impetrará" ],
+			[ "impetraremos" ],
+			[ "impetraréis", "impetrarán" ],
+			[ "impetrarán" ]
+		],
+		"8" : [
+			[ "impetre" ],
+			[ "impetres" ],
+			[ "impetre" ],
+			[ "impetremos" ],
+			[ "impetréis", "impetren" ],
+			[ "impetren" ]
+		],
+		"9" : [
+			[ "impetrara" ],
+			[ "impetraras" ],
+			[ "impetrara" ],
+			[ "impetráramos" ],
+			[ "impetrarais", "impetraran" ],
+			[ "impetraran" ]
+		],
+		"10" : [
+			[ "impetrase" ],
+			[ "impetrases" ],
+			[ "impetrase" ],
+			[ "impetrásemos" ],
+			[ "impetraseis", "impetrasen" ],
+			[ "impetrasen" ]
+		],
+		"11" : [
+			[ "impetrare" ],
+			[ "impetrares" ],
+			[ "impetrare" ],
+			[ "impetráremos" ],
+			[ "impetrareis", "impetraren" ],
+			[ "impetraren" ]
+		],
+		"12" : {
+			"1" : [ "impetra" ],
+			"2" : [ "impetre" ],
+			"3" : [ "impetremos" ],
+			"4" : [ "impetrad" ],
+			"5" : [ "impetren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reprimir",
+	"word" : "reprimir",
+	"infinitivo" : "reprimir",
+	"participio" : [ "reprimido" ],
+	"gerundio" : [ "reprimiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reprimo" ],
+			[ "reprimes", "reprimís" ],
+			[ "reprime" ],
+			[ "reprimimos" ],
+			[ "reprimís", "reprimen" ],
+			[ "reprimen" ]
+		],
+		"4" : [
+			[ "reprimí" ],
+			[ "reprimiste" ],
+			[ "reprimió" ],
+			[ "reprimimos" ],
+			[ "reprimisteis", "reprimieron" ],
+			[ "reprimieron" ]
+		],
+		"5" : [
+			[ "reprimía" ],
+			[ "reprimías" ],
+			[ "reprimía" ],
+			[ "reprimíamos" ],
+			[ "reprimíais", "reprimían" ],
+			[ "reprimían" ]
+		],
+		"6" : [
+			[ "reprimiría" ],
+			[ "reprimirías" ],
+			[ "reprimiría" ],
+			[ "reprimiríamos" ],
+			[ "reprimiríais", "reprimirían" ],
+			[ "reprimirían" ]
+		],
+		"7" : [
+			[ "reprimiré" ],
+			[ "reprimirás" ],
+			[ "reprimirá" ],
+			[ "reprimiremos" ],
+			[ "reprimiréis", "reprimirán" ],
+			[ "reprimirán" ]
+		],
+		"8" : [
+			[ "reprima" ],
+			[ "reprimas" ],
+			[ "reprima" ],
+			[ "reprimamos" ],
+			[ "reprimáis", "repriman" ],
+			[ "repriman" ]
+		],
+		"9" : [
+			[ "reprimiera" ],
+			[ "reprimieras" ],
+			[ "reprimiera" ],
+			[ "reprimiéramos" ],
+			[ "reprimierais", "reprimieran" ],
+			[ "reprimieran" ]
+		],
+		"10" : [
+			[ "reprimiese" ],
+			[ "reprimieses" ],
+			[ "reprimiese" ],
+			[ "reprimiésemos" ],
+			[ "reprimieseis", "reprimiesen" ],
+			[ "reprimiesen" ]
+		],
+		"11" : [
+			[ "reprimiere" ],
+			[ "reprimieres" ],
+			[ "reprimiere" ],
+			[ "reprimiéremos" ],
+			[ "reprimiereis", "reprimieren" ],
+			[ "reprimieren" ]
+		],
+		"12" : {
+			"1" : [ "reprime" ],
+			"2" : [ "reprima" ],
+			"3" : [ "reprimamos" ],
+			"4" : [ "reprimid" ],
+			"5" : [ "repriman" ]
+		}
+	}
+}

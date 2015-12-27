@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=soltar",
+	"word" : "soltar",
+	"infinitivo" : "soltar",
+	"participio" : [ "soltado" ],
+	"gerundio" : [ "soltando" ],
+	"tenses" : {
+		"3" : [
+			[ "suelto" ],
+			[ "sueltas", "soltás" ],
+			[ "suelta" ],
+			[ "soltamos" ],
+			[ "soltáis", "sueltan" ],
+			[ "sueltan" ]
+		],
+		"4" : [
+			[ "solté" ],
+			[ "soltaste" ],
+			[ "soltó" ],
+			[ "soltamos" ],
+			[ "soltasteis", "soltaron" ],
+			[ "soltaron" ]
+		],
+		"5" : [
+			[ "soltaba" ],
+			[ "soltabas" ],
+			[ "soltaba" ],
+			[ "soltábamos" ],
+			[ "soltabais", "soltaban" ],
+			[ "soltaban" ]
+		],
+		"6" : [
+			[ "soltaría" ],
+			[ "soltarías" ],
+			[ "soltaría" ],
+			[ "soltaríamos" ],
+			[ "soltaríais", "soltarían" ],
+			[ "soltarían" ]
+		],
+		"7" : [
+			[ "soltaré" ],
+			[ "soltarás" ],
+			[ "soltará" ],
+			[ "soltaremos" ],
+			[ "soltaréis", "soltarán" ],
+			[ "soltarán" ]
+		],
+		"8" : [
+			[ "suelte" ],
+			[ "sueltes" ],
+			[ "suelte" ],
+			[ "soltemos" ],
+			[ "soltéis", "suelten" ],
+			[ "suelten" ]
+		],
+		"9" : [
+			[ "soltara" ],
+			[ "soltaras" ],
+			[ "soltara" ],
+			[ "soltáramos" ],
+			[ "soltarais", "soltaran" ],
+			[ "soltaran" ]
+		],
+		"10" : [
+			[ "soltase" ],
+			[ "soltases" ],
+			[ "soltase" ],
+			[ "soltásemos" ],
+			[ "soltaseis", "soltasen" ],
+			[ "soltasen" ]
+		],
+		"11" : [
+			[ "soltare" ],
+			[ "soltares" ],
+			[ "soltare" ],
+			[ "soltáremos" ],
+			[ "soltareis", "soltaren" ],
+			[ "soltaren" ]
+		],
+		"12" : {
+			"1" : [ "suelta" ],
+			"2" : [ "suelte" ],
+			"3" : [ "soltemos" ],
+			"4" : [ "soltad" ],
+			"5" : [ "suelten" ]
+		}
+	}
+}

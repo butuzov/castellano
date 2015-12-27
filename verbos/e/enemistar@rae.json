@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enemistar",
+	"word" : "enemistar",
+	"infinitivo" : "enemistar",
+	"participio" : [ "enemistado" ],
+	"gerundio" : [ "enemistando" ],
+	"tenses" : {
+		"3" : [
+			[ "enemisto" ],
+			[ "enemistas", "enemistás" ],
+			[ "enemista" ],
+			[ "enemistamos" ],
+			[ "enemistáis", "enemistan" ],
+			[ "enemistan" ]
+		],
+		"4" : [
+			[ "enemisté" ],
+			[ "enemistaste" ],
+			[ "enemistó" ],
+			[ "enemistamos" ],
+			[ "enemistasteis", "enemistaron" ],
+			[ "enemistaron" ]
+		],
+		"5" : [
+			[ "enemistaba" ],
+			[ "enemistabas" ],
+			[ "enemistaba" ],
+			[ "enemistábamos" ],
+			[ "enemistabais", "enemistaban" ],
+			[ "enemistaban" ]
+		],
+		"6" : [
+			[ "enemistaría" ],
+			[ "enemistarías" ],
+			[ "enemistaría" ],
+			[ "enemistaríamos" ],
+			[ "enemistaríais", "enemistarían" ],
+			[ "enemistarían" ]
+		],
+		"7" : [
+			[ "enemistaré" ],
+			[ "enemistarás" ],
+			[ "enemistará" ],
+			[ "enemistaremos" ],
+			[ "enemistaréis", "enemistarán" ],
+			[ "enemistarán" ]
+		],
+		"8" : [
+			[ "enemiste" ],
+			[ "enemistes" ],
+			[ "enemiste" ],
+			[ "enemistemos" ],
+			[ "enemistéis", "enemisten" ],
+			[ "enemisten" ]
+		],
+		"9" : [
+			[ "enemistara" ],
+			[ "enemistaras" ],
+			[ "enemistara" ],
+			[ "enemistáramos" ],
+			[ "enemistarais", "enemistaran" ],
+			[ "enemistaran" ]
+		],
+		"10" : [
+			[ "enemistase" ],
+			[ "enemistases" ],
+			[ "enemistase" ],
+			[ "enemistásemos" ],
+			[ "enemistaseis", "enemistasen" ],
+			[ "enemistasen" ]
+		],
+		"11" : [
+			[ "enemistare" ],
+			[ "enemistares" ],
+			[ "enemistare" ],
+			[ "enemistáremos" ],
+			[ "enemistareis", "enemistaren" ],
+			[ "enemistaren" ]
+		],
+		"12" : {
+			"1" : [ "enemista" ],
+			"2" : [ "enemiste" ],
+			"3" : [ "enemistemos" ],
+			"4" : [ "enemistad" ],
+			"5" : [ "enemisten" ]
+		}
+	}
+}

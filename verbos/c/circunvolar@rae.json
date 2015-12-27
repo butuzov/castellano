@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=circunvolar",
+	"word" : "circunvolar",
+	"infinitivo" : "circunvolar",
+	"participio" : [ "circunvolado" ],
+	"gerundio" : [ "circunvolando" ],
+	"tenses" : {
+		"3" : [
+			[ "circunvuelo" ],
+			[ "circunvuelas", "circunvolás" ],
+			[ "circunvuela" ],
+			[ "circunvolamos" ],
+			[ "circunvoláis", "circunvuelan" ],
+			[ "circunvuelan" ]
+		],
+		"4" : [
+			[ "circunvolé" ],
+			[ "circunvolaste" ],
+			[ "circunvoló" ],
+			[ "circunvolamos" ],
+			[ "circunvolasteis", "circunvolaron" ],
+			[ "circunvolaron" ]
+		],
+		"5" : [
+			[ "circunvolaba" ],
+			[ "circunvolabas" ],
+			[ "circunvolaba" ],
+			[ "circunvolábamos" ],
+			[ "circunvolabais", "circunvolaban" ],
+			[ "circunvolaban" ]
+		],
+		"6" : [
+			[ "circunvolaría" ],
+			[ "circunvolarías" ],
+			[ "circunvolaría" ],
+			[ "circunvolaríamos" ],
+			[ "circunvolaríais", "circunvolarían" ],
+			[ "circunvolarían" ]
+		],
+		"7" : [
+			[ "circunvolaré" ],
+			[ "circunvolarás" ],
+			[ "circunvolará" ],
+			[ "circunvolaremos" ],
+			[ "circunvolaréis", "circunvolarán" ],
+			[ "circunvolarán" ]
+		],
+		"8" : [
+			[ "circunvuele" ],
+			[ "circunvueles" ],
+			[ "circunvuele" ],
+			[ "circunvolemos" ],
+			[ "circunvoléis", "circunvuelen" ],
+			[ "circunvuelen" ]
+		],
+		"9" : [
+			[ "circunvolara" ],
+			[ "circunvolaras" ],
+			[ "circunvolara" ],
+			[ "circunvoláramos" ],
+			[ "circunvolarais", "circunvolaran" ],
+			[ "circunvolaran" ]
+		],
+		"10" : [
+			[ "circunvolase" ],
+			[ "circunvolases" ],
+			[ "circunvolase" ],
+			[ "circunvolásemos" ],
+			[ "circunvolaseis", "circunvolasen" ],
+			[ "circunvolasen" ]
+		],
+		"11" : [
+			[ "circunvolare" ],
+			[ "circunvolares" ],
+			[ "circunvolare" ],
+			[ "circunvoláremos" ],
+			[ "circunvolareis", "circunvolaren" ],
+			[ "circunvolaren" ]
+		],
+		"12" : {
+			"1" : [ "circunvuela" ],
+			"2" : [ "circunvuele" ],
+			"3" : [ "circunvolemos" ],
+			"4" : [ "circunvolad" ],
+			"5" : [ "circunvuelen" ]
+		}
+	}
+}

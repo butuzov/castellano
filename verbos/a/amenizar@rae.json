@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amenizar",
+	"word" : "amenizar",
+	"infinitivo" : "amenizar",
+	"participio" : [ "amenizado" ],
+	"gerundio" : [ "amenizando" ],
+	"tenses" : {
+		"3" : [
+			[ "amenizo" ],
+			[ "amenizas", "amenizás" ],
+			[ "ameniza" ],
+			[ "amenizamos" ],
+			[ "amenizáis", "amenizan" ],
+			[ "amenizan" ]
+		],
+		"4" : [
+			[ "amenicé" ],
+			[ "amenizaste" ],
+			[ "amenizó" ],
+			[ "amenizamos" ],
+			[ "amenizasteis", "amenizaron" ],
+			[ "amenizaron" ]
+		],
+		"5" : [
+			[ "amenizaba" ],
+			[ "amenizabas" ],
+			[ "amenizaba" ],
+			[ "amenizábamos" ],
+			[ "amenizabais", "amenizaban" ],
+			[ "amenizaban" ]
+		],
+		"6" : [
+			[ "amenizaría" ],
+			[ "amenizarías" ],
+			[ "amenizaría" ],
+			[ "amenizaríamos" ],
+			[ "amenizaríais", "amenizarían" ],
+			[ "amenizarían" ]
+		],
+		"7" : [
+			[ "amenizaré" ],
+			[ "amenizarás" ],
+			[ "amenizará" ],
+			[ "amenizaremos" ],
+			[ "amenizaréis", "amenizarán" ],
+			[ "amenizarán" ]
+		],
+		"8" : [
+			[ "amenice" ],
+			[ "amenices" ],
+			[ "amenice" ],
+			[ "amenicemos" ],
+			[ "amenicéis", "amenicen" ],
+			[ "amenicen" ]
+		],
+		"9" : [
+			[ "amenizara" ],
+			[ "amenizaras" ],
+			[ "amenizara" ],
+			[ "amenizáramos" ],
+			[ "amenizarais", "amenizaran" ],
+			[ "amenizaran" ]
+		],
+		"10" : [
+			[ "amenizase" ],
+			[ "amenizases" ],
+			[ "amenizase" ],
+			[ "amenizásemos" ],
+			[ "amenizaseis", "amenizasen" ],
+			[ "amenizasen" ]
+		],
+		"11" : [
+			[ "amenizare" ],
+			[ "amenizares" ],
+			[ "amenizare" ],
+			[ "amenizáremos" ],
+			[ "amenizareis", "amenizaren" ],
+			[ "amenizaren" ]
+		],
+		"12" : {
+			"1" : [ "ameniza" ],
+			"2" : [ "amenice" ],
+			"3" : [ "amenicemos" ],
+			"4" : [ "amenizad" ],
+			"5" : [ "amenicen" ]
+		}
+	}
+}

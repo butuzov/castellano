@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mesurar",
+	"word" : "mesurar",
+	"infinitivo" : "mesurar",
+	"participio" : [ "mesurado" ],
+	"gerundio" : [ "mesurando" ],
+	"tenses" : {
+		"3" : [
+			[ "mesuro" ],
+			[ "mesuras", "mesurás" ],
+			[ "mesura" ],
+			[ "mesuramos" ],
+			[ "mesuráis", "mesuran" ],
+			[ "mesuran" ]
+		],
+		"4" : [
+			[ "mesuré" ],
+			[ "mesuraste" ],
+			[ "mesuró" ],
+			[ "mesuramos" ],
+			[ "mesurasteis", "mesuraron" ],
+			[ "mesuraron" ]
+		],
+		"5" : [
+			[ "mesuraba" ],
+			[ "mesurabas" ],
+			[ "mesuraba" ],
+			[ "mesurábamos" ],
+			[ "mesurabais", "mesuraban" ],
+			[ "mesuraban" ]
+		],
+		"6" : [
+			[ "mesuraría" ],
+			[ "mesurarías" ],
+			[ "mesuraría" ],
+			[ "mesuraríamos" ],
+			[ "mesuraríais", "mesurarían" ],
+			[ "mesurarían" ]
+		],
+		"7" : [
+			[ "mesuraré" ],
+			[ "mesurarás" ],
+			[ "mesurará" ],
+			[ "mesuraremos" ],
+			[ "mesuraréis", "mesurarán" ],
+			[ "mesurarán" ]
+		],
+		"8" : [
+			[ "mesure" ],
+			[ "mesures" ],
+			[ "mesure" ],
+			[ "mesuremos" ],
+			[ "mesuréis", "mesuren" ],
+			[ "mesuren" ]
+		],
+		"9" : [
+			[ "mesurara" ],
+			[ "mesuraras" ],
+			[ "mesurara" ],
+			[ "mesuráramos" ],
+			[ "mesurarais", "mesuraran" ],
+			[ "mesuraran" ]
+		],
+		"10" : [
+			[ "mesurase" ],
+			[ "mesurases" ],
+			[ "mesurase" ],
+			[ "mesurásemos" ],
+			[ "mesuraseis", "mesurasen" ],
+			[ "mesurasen" ]
+		],
+		"11" : [
+			[ "mesurare" ],
+			[ "mesurares" ],
+			[ "mesurare" ],
+			[ "mesuráremos" ],
+			[ "mesurareis", "mesuraren" ],
+			[ "mesuraren" ]
+		],
+		"12" : {
+			"1" : [ "mesura" ],
+			"2" : [ "mesure" ],
+			"3" : [ "mesuremos" ],
+			"4" : [ "mesurad" ],
+			"5" : [ "mesuren" ]
+		}
+	}
+}

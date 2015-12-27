@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acolar",
+	"word" : "acolar",
+	"infinitivo" : "acolar",
+	"participio" : [ "acolado" ],
+	"gerundio" : [ "acolando" ],
+	"tenses" : {
+		"3" : [
+			[ "acolo" ],
+			[ "acolas", "acolás" ],
+			[ "acola" ],
+			[ "acolamos" ],
+			[ "acoláis", "acolan" ],
+			[ "acolan" ]
+		],
+		"4" : [
+			[ "acolé" ],
+			[ "acolaste" ],
+			[ "acoló" ],
+			[ "acolamos" ],
+			[ "acolasteis", "acolaron" ],
+			[ "acolaron" ]
+		],
+		"5" : [
+			[ "acolaba" ],
+			[ "acolabas" ],
+			[ "acolaba" ],
+			[ "acolábamos" ],
+			[ "acolabais", "acolaban" ],
+			[ "acolaban" ]
+		],
+		"6" : [
+			[ "acolaría" ],
+			[ "acolarías" ],
+			[ "acolaría" ],
+			[ "acolaríamos" ],
+			[ "acolaríais", "acolarían" ],
+			[ "acolarían" ]
+		],
+		"7" : [
+			[ "acolaré" ],
+			[ "acolarás" ],
+			[ "acolará" ],
+			[ "acolaremos" ],
+			[ "acolaréis", "acolarán" ],
+			[ "acolarán" ]
+		],
+		"8" : [
+			[ "acole" ],
+			[ "acoles" ],
+			[ "acole" ],
+			[ "acolemos" ],
+			[ "acoléis", "acolen" ],
+			[ "acolen" ]
+		],
+		"9" : [
+			[ "acolara" ],
+			[ "acolaras" ],
+			[ "acolara" ],
+			[ "acoláramos" ],
+			[ "acolarais", "acolaran" ],
+			[ "acolaran" ]
+		],
+		"10" : [
+			[ "acolase" ],
+			[ "acolases" ],
+			[ "acolase" ],
+			[ "acolásemos" ],
+			[ "acolaseis", "acolasen" ],
+			[ "acolasen" ]
+		],
+		"11" : [
+			[ "acolare" ],
+			[ "acolares" ],
+			[ "acolare" ],
+			[ "acoláremos" ],
+			[ "acolareis", "acolaren" ],
+			[ "acolaren" ]
+		],
+		"12" : {
+			"1" : [ "acola" ],
+			"2" : [ "acole" ],
+			"3" : [ "acolemos" ],
+			"4" : [ "acolad" ],
+			"5" : [ "acolen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=extender",
+	"word" : "extender",
+	"infinitivo" : "extender",
+	"participio" : [ "extendido" ],
+	"gerundio" : [ "extendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "extiendo" ],
+			[ "extiendes", "extendés" ],
+			[ "extiende" ],
+			[ "extendemos" ],
+			[ "extendéis", "extienden" ],
+			[ "extienden" ]
+		],
+		"4" : [
+			[ "extendí" ],
+			[ "extendiste" ],
+			[ "extendió" ],
+			[ "extendimos" ],
+			[ "extendisteis", "extendieron" ],
+			[ "extendieron" ]
+		],
+		"5" : [
+			[ "extendía" ],
+			[ "extendías" ],
+			[ "extendía" ],
+			[ "extendíamos" ],
+			[ "extendíais", "extendían" ],
+			[ "extendían" ]
+		],
+		"6" : [
+			[ "extendería" ],
+			[ "extenderías" ],
+			[ "extendería" ],
+			[ "extenderíamos" ],
+			[ "extenderíais", "extenderían" ],
+			[ "extenderían" ]
+		],
+		"7" : [
+			[ "extenderé" ],
+			[ "extenderás" ],
+			[ "extenderá" ],
+			[ "extenderemos" ],
+			[ "extenderéis", "extenderán" ],
+			[ "extenderán" ]
+		],
+		"8" : [
+			[ "extienda" ],
+			[ "extiendas" ],
+			[ "extienda" ],
+			[ "extendamos" ],
+			[ "extendáis", "extiendan" ],
+			[ "extiendan" ]
+		],
+		"9" : [
+			[ "extendiera" ],
+			[ "extendieras" ],
+			[ "extendiera" ],
+			[ "extendiéramos" ],
+			[ "extendierais", "extendieran" ],
+			[ "extendieran" ]
+		],
+		"10" : [
+			[ "extendiese" ],
+			[ "extendieses" ],
+			[ "extendiese" ],
+			[ "extendiésemos" ],
+			[ "extendieseis", "extendiesen" ],
+			[ "extendiesen" ]
+		],
+		"11" : [
+			[ "extendiere" ],
+			[ "extendieres" ],
+			[ "extendiere" ],
+			[ "extendiéremos" ],
+			[ "extendiereis", "extendieren" ],
+			[ "extendieren" ]
+		],
+		"12" : {
+			"1" : [ "extiende" ],
+			"2" : [ "extienda" ],
+			"3" : [ "extendamos" ],
+			"4" : [ "extended" ],
+			"5" : [ "extiendan" ]
+		}
+	}
+}

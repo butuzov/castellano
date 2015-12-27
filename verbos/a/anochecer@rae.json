@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anochecer",
+	"word" : "anochecer",
+	"infinitivo" : "anochecer",
+	"participio" : [ "anochecido" ],
+	"gerundio" : [ "anocheciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "anochezco" ],
+			[ "anocheces", "anochecés" ],
+			[ "anochece" ],
+			[ "anochecemos" ],
+			[ "anochecéis", "anochecen" ],
+			[ "anochecen" ]
+		],
+		"4" : [
+			[ "anochecí" ],
+			[ "anocheciste" ],
+			[ "anocheció" ],
+			[ "anochecimos" ],
+			[ "anochecisteis", "anochecieron" ],
+			[ "anochecieron" ]
+		],
+		"5" : [
+			[ "anochecía" ],
+			[ "anochecías" ],
+			[ "anochecía" ],
+			[ "anochecíamos" ],
+			[ "anochecíais", "anochecían" ],
+			[ "anochecían" ]
+		],
+		"6" : [
+			[ "anochecería" ],
+			[ "anochecerías" ],
+			[ "anochecería" ],
+			[ "anocheceríamos" ],
+			[ "anocheceríais", "anochecerían" ],
+			[ "anochecerían" ]
+		],
+		"7" : [
+			[ "anocheceré" ],
+			[ "anochecerás" ],
+			[ "anochecerá" ],
+			[ "anocheceremos" ],
+			[ "anocheceréis", "anochecerán" ],
+			[ "anochecerán" ]
+		],
+		"8" : [
+			[ "anochezca" ],
+			[ "anochezcas" ],
+			[ "anochezca" ],
+			[ "anochezcamos" ],
+			[ "anochezcáis", "anochezcan" ],
+			[ "anochezcan" ]
+		],
+		"9" : [
+			[ "anocheciera" ],
+			[ "anochecieras" ],
+			[ "anocheciera" ],
+			[ "anocheciéramos" ],
+			[ "anochecierais", "anochecieran" ],
+			[ "anochecieran" ]
+		],
+		"10" : [
+			[ "anocheciese" ],
+			[ "anochecieses" ],
+			[ "anocheciese" ],
+			[ "anocheciésemos" ],
+			[ "anochecieseis", "anocheciesen" ],
+			[ "anocheciesen" ]
+		],
+		"11" : [
+			[ "anocheciere" ],
+			[ "anochecieres" ],
+			[ "anocheciere" ],
+			[ "anocheciéremos" ],
+			[ "anocheciereis", "anochecieren" ],
+			[ "anochecieren" ]
+		],
+		"12" : {
+			"1" : [ "anochece" ],
+			"2" : [ "anochezca" ],
+			"3" : [ "anochezcamos" ],
+			"4" : [ "anocheced" ],
+			"5" : [ "anochezcan" ]
+		}
+	}
+}

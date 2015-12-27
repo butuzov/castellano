@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=revisar",
+	"word" : "revisar",
+	"infinitivo" : "revisar",
+	"participio" : [ "revisado" ],
+	"gerundio" : [ "revisando" ],
+	"tenses" : {
+		"3" : [
+			[ "reviso" ],
+			[ "revisas", "revisás" ],
+			[ "revisa" ],
+			[ "revisamos" ],
+			[ "revisáis", "revisan" ],
+			[ "revisan" ]
+		],
+		"4" : [
+			[ "revisé" ],
+			[ "revisaste" ],
+			[ "revisó" ],
+			[ "revisamos" ],
+			[ "revisasteis", "revisaron" ],
+			[ "revisaron" ]
+		],
+		"5" : [
+			[ "revisaba" ],
+			[ "revisabas" ],
+			[ "revisaba" ],
+			[ "revisábamos" ],
+			[ "revisabais", "revisaban" ],
+			[ "revisaban" ]
+		],
+		"6" : [
+			[ "revisaría" ],
+			[ "revisarías" ],
+			[ "revisaría" ],
+			[ "revisaríamos" ],
+			[ "revisaríais", "revisarían" ],
+			[ "revisarían" ]
+		],
+		"7" : [
+			[ "revisaré" ],
+			[ "revisarás" ],
+			[ "revisará" ],
+			[ "revisaremos" ],
+			[ "revisaréis", "revisarán" ],
+			[ "revisarán" ]
+		],
+		"8" : [
+			[ "revise" ],
+			[ "revises" ],
+			[ "revise" ],
+			[ "revisemos" ],
+			[ "reviséis", "revisen" ],
+			[ "revisen" ]
+		],
+		"9" : [
+			[ "revisara" ],
+			[ "revisaras" ],
+			[ "revisara" ],
+			[ "revisáramos" ],
+			[ "revisarais", "revisaran" ],
+			[ "revisaran" ]
+		],
+		"10" : [
+			[ "revisase" ],
+			[ "revisases" ],
+			[ "revisase" ],
+			[ "revisásemos" ],
+			[ "revisaseis", "revisasen" ],
+			[ "revisasen" ]
+		],
+		"11" : [
+			[ "revisare" ],
+			[ "revisares" ],
+			[ "revisare" ],
+			[ "revisáremos" ],
+			[ "revisareis", "revisaren" ],
+			[ "revisaren" ]
+		],
+		"12" : {
+			"1" : [ "revisa" ],
+			"2" : [ "revise" ],
+			"3" : [ "revisemos" ],
+			"4" : [ "revisad" ],
+			"5" : [ "revisen" ]
+		}
+	}
+}

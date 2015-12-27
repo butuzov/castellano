@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=morar",
+	"word" : "morar",
+	"infinitivo" : "morar",
+	"participio" : [ "morado" ],
+	"gerundio" : [ "morando" ],
+	"tenses" : {
+		"3" : [
+			[ "moro" ],
+			[ "moras", "morás" ],
+			[ "mora" ],
+			[ "moramos" ],
+			[ "moráis", "moran" ],
+			[ "moran" ]
+		],
+		"4" : [
+			[ "moré" ],
+			[ "moraste" ],
+			[ "moró" ],
+			[ "moramos" ],
+			[ "morasteis", "moraron" ],
+			[ "moraron" ]
+		],
+		"5" : [
+			[ "moraba" ],
+			[ "morabas" ],
+			[ "moraba" ],
+			[ "morábamos" ],
+			[ "morabais", "moraban" ],
+			[ "moraban" ]
+		],
+		"6" : [
+			[ "moraría" ],
+			[ "morarías" ],
+			[ "moraría" ],
+			[ "moraríamos" ],
+			[ "moraríais", "morarían" ],
+			[ "morarían" ]
+		],
+		"7" : [
+			[ "moraré" ],
+			[ "morarás" ],
+			[ "morará" ],
+			[ "moraremos" ],
+			[ "moraréis", "morarán" ],
+			[ "morarán" ]
+		],
+		"8" : [
+			[ "more" ],
+			[ "mores" ],
+			[ "more" ],
+			[ "moremos" ],
+			[ "moréis", "moren" ],
+			[ "moren" ]
+		],
+		"9" : [
+			[ "morara" ],
+			[ "moraras" ],
+			[ "morara" ],
+			[ "moráramos" ],
+			[ "morarais", "moraran" ],
+			[ "moraran" ]
+		],
+		"10" : [
+			[ "morase" ],
+			[ "morases" ],
+			[ "morase" ],
+			[ "morásemos" ],
+			[ "moraseis", "morasen" ],
+			[ "morasen" ]
+		],
+		"11" : [
+			[ "morare" ],
+			[ "morares" ],
+			[ "morare" ],
+			[ "moráremos" ],
+			[ "morareis", "moraren" ],
+			[ "moraren" ]
+		],
+		"12" : {
+			"1" : [ "mora" ],
+			"2" : [ "more" ],
+			"3" : [ "moremos" ],
+			"4" : [ "morad" ],
+			"5" : [ "moren" ]
+		}
+	}
+}

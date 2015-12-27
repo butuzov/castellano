@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=largar",
+	"word" : "largar",
+	"infinitivo" : "largar",
+	"participio" : [ "largado" ],
+	"gerundio" : [ "largando" ],
+	"tenses" : {
+		"3" : [
+			[ "largo" ],
+			[ "largas", "largás" ],
+			[ "larga" ],
+			[ "largamos" ],
+			[ "largáis", "largan" ],
+			[ "largan" ]
+		],
+		"4" : [
+			[ "largué" ],
+			[ "largaste" ],
+			[ "largó" ],
+			[ "largamos" ],
+			[ "largasteis", "largaron" ],
+			[ "largaron" ]
+		],
+		"5" : [
+			[ "largaba" ],
+			[ "largabas" ],
+			[ "largaba" ],
+			[ "largábamos" ],
+			[ "largabais", "largaban" ],
+			[ "largaban" ]
+		],
+		"6" : [
+			[ "largaría" ],
+			[ "largarías" ],
+			[ "largaría" ],
+			[ "largaríamos" ],
+			[ "largaríais", "largarían" ],
+			[ "largarían" ]
+		],
+		"7" : [
+			[ "largaré" ],
+			[ "largarás" ],
+			[ "largará" ],
+			[ "largaremos" ],
+			[ "largaréis", "largarán" ],
+			[ "largarán" ]
+		],
+		"8" : [
+			[ "largue" ],
+			[ "largues" ],
+			[ "largue" ],
+			[ "larguemos" ],
+			[ "larguéis", "larguen" ],
+			[ "larguen" ]
+		],
+		"9" : [
+			[ "largara" ],
+			[ "largaras" ],
+			[ "largara" ],
+			[ "largáramos" ],
+			[ "largarais", "largaran" ],
+			[ "largaran" ]
+		],
+		"10" : [
+			[ "largase" ],
+			[ "largases" ],
+			[ "largase" ],
+			[ "largásemos" ],
+			[ "largaseis", "largasen" ],
+			[ "largasen" ]
+		],
+		"11" : [
+			[ "largare" ],
+			[ "largares" ],
+			[ "largare" ],
+			[ "largáremos" ],
+			[ "largareis", "largaren" ],
+			[ "largaren" ]
+		],
+		"12" : {
+			"1" : [ "larga" ],
+			"2" : [ "largue" ],
+			"3" : [ "larguemos" ],
+			"4" : [ "largad" ],
+			"5" : [ "larguen" ]
+		}
+	}
+}

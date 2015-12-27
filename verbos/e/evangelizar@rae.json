@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=evangelizar",
+	"word" : "evangelizar",
+	"infinitivo" : "evangelizar",
+	"participio" : [ "evangelizado" ],
+	"gerundio" : [ "evangelizando" ],
+	"tenses" : {
+		"3" : [
+			[ "evangelizo" ],
+			[ "evangelizas", "evangelizás" ],
+			[ "evangeliza" ],
+			[ "evangelizamos" ],
+			[ "evangelizáis", "evangelizan" ],
+			[ "evangelizan" ]
+		],
+		"4" : [
+			[ "evangelicé" ],
+			[ "evangelizaste" ],
+			[ "evangelizó" ],
+			[ "evangelizamos" ],
+			[ "evangelizasteis", "evangelizaron" ],
+			[ "evangelizaron" ]
+		],
+		"5" : [
+			[ "evangelizaba" ],
+			[ "evangelizabas" ],
+			[ "evangelizaba" ],
+			[ "evangelizábamos" ],
+			[ "evangelizabais", "evangelizaban" ],
+			[ "evangelizaban" ]
+		],
+		"6" : [
+			[ "evangelizaría" ],
+			[ "evangelizarías" ],
+			[ "evangelizaría" ],
+			[ "evangelizaríamos" ],
+			[ "evangelizaríais", "evangelizarían" ],
+			[ "evangelizarían" ]
+		],
+		"7" : [
+			[ "evangelizaré" ],
+			[ "evangelizarás" ],
+			[ "evangelizará" ],
+			[ "evangelizaremos" ],
+			[ "evangelizaréis", "evangelizarán" ],
+			[ "evangelizarán" ]
+		],
+		"8" : [
+			[ "evangelice" ],
+			[ "evangelices" ],
+			[ "evangelice" ],
+			[ "evangelicemos" ],
+			[ "evangelicéis", "evangelicen" ],
+			[ "evangelicen" ]
+		],
+		"9" : [
+			[ "evangelizara" ],
+			[ "evangelizaras" ],
+			[ "evangelizara" ],
+			[ "evangelizáramos" ],
+			[ "evangelizarais", "evangelizaran" ],
+			[ "evangelizaran" ]
+		],
+		"10" : [
+			[ "evangelizase" ],
+			[ "evangelizases" ],
+			[ "evangelizase" ],
+			[ "evangelizásemos" ],
+			[ "evangelizaseis", "evangelizasen" ],
+			[ "evangelizasen" ]
+		],
+		"11" : [
+			[ "evangelizare" ],
+			[ "evangelizares" ],
+			[ "evangelizare" ],
+			[ "evangelizáremos" ],
+			[ "evangelizareis", "evangelizaren" ],
+			[ "evangelizaren" ]
+		],
+		"12" : {
+			"1" : [ "evangeliza" ],
+			"2" : [ "evangelice" ],
+			"3" : [ "evangelicemos" ],
+			"4" : [ "evangelizad" ],
+			"5" : [ "evangelicen" ]
+		}
+	}
+}

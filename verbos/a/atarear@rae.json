@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atarear",
+	"word" : "atarear",
+	"infinitivo" : "atarear",
+	"participio" : [ "atareado" ],
+	"gerundio" : [ "atareando" ],
+	"tenses" : {
+		"3" : [
+			[ "atareo" ],
+			[ "atareas", "atareás" ],
+			[ "atarea" ],
+			[ "atareamos" ],
+			[ "atareáis", "atarean" ],
+			[ "atarean" ]
+		],
+		"4" : [
+			[ "atareé" ],
+			[ "atareaste" ],
+			[ "atareó" ],
+			[ "atareamos" ],
+			[ "atareasteis", "atarearon" ],
+			[ "atarearon" ]
+		],
+		"5" : [
+			[ "atareaba" ],
+			[ "atareabas" ],
+			[ "atareaba" ],
+			[ "atareábamos" ],
+			[ "atareabais", "atareaban" ],
+			[ "atareaban" ]
+		],
+		"6" : [
+			[ "atarearía" ],
+			[ "atarearías" ],
+			[ "atarearía" ],
+			[ "atarearíamos" ],
+			[ "atarearíais", "atarearían" ],
+			[ "atarearían" ]
+		],
+		"7" : [
+			[ "atarearé" ],
+			[ "atarearás" ],
+			[ "atareará" ],
+			[ "atarearemos" ],
+			[ "atarearéis", "atarearán" ],
+			[ "atarearán" ]
+		],
+		"8" : [
+			[ "ataree" ],
+			[ "atarees" ],
+			[ "ataree" ],
+			[ "atareemos" ],
+			[ "atareéis", "atareen" ],
+			[ "atareen" ]
+		],
+		"9" : [
+			[ "atareara" ],
+			[ "atarearas" ],
+			[ "atareara" ],
+			[ "atareáramos" ],
+			[ "atarearais", "atarearan" ],
+			[ "atarearan" ]
+		],
+		"10" : [
+			[ "atarease" ],
+			[ "atareases" ],
+			[ "atarease" ],
+			[ "atareásemos" ],
+			[ "atareaseis", "atareasen" ],
+			[ "atareasen" ]
+		],
+		"11" : [
+			[ "atareare" ],
+			[ "atareares" ],
+			[ "atareare" ],
+			[ "atareáremos" ],
+			[ "atareareis", "atarearen" ],
+			[ "atarearen" ]
+		],
+		"12" : {
+			"1" : [ "atarea" ],
+			"2" : [ "ataree" ],
+			"3" : [ "atareemos" ],
+			"4" : [ "ataread" ],
+			"5" : [ "atareen" ]
+		}
+	}
+}

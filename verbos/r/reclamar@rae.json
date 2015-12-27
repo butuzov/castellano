@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reclamar",
+	"word" : "reclamar",
+	"infinitivo" : "reclamar",
+	"participio" : [ "reclamado" ],
+	"gerundio" : [ "reclamando" ],
+	"tenses" : {
+		"3" : [
+			[ "reclamo" ],
+			[ "reclamas", "reclamás" ],
+			[ "reclama" ],
+			[ "reclamamos" ],
+			[ "reclamáis", "reclaman" ],
+			[ "reclaman" ]
+		],
+		"4" : [
+			[ "reclamé" ],
+			[ "reclamaste" ],
+			[ "reclamó" ],
+			[ "reclamamos" ],
+			[ "reclamasteis", "reclamaron" ],
+			[ "reclamaron" ]
+		],
+		"5" : [
+			[ "reclamaba" ],
+			[ "reclamabas" ],
+			[ "reclamaba" ],
+			[ "reclamábamos" ],
+			[ "reclamabais", "reclamaban" ],
+			[ "reclamaban" ]
+		],
+		"6" : [
+			[ "reclamaría" ],
+			[ "reclamarías" ],
+			[ "reclamaría" ],
+			[ "reclamaríamos" ],
+			[ "reclamaríais", "reclamarían" ],
+			[ "reclamarían" ]
+		],
+		"7" : [
+			[ "reclamaré" ],
+			[ "reclamarás" ],
+			[ "reclamará" ],
+			[ "reclamaremos" ],
+			[ "reclamaréis", "reclamarán" ],
+			[ "reclamarán" ]
+		],
+		"8" : [
+			[ "reclame" ],
+			[ "reclames" ],
+			[ "reclame" ],
+			[ "reclamemos" ],
+			[ "reclaméis", "reclamen" ],
+			[ "reclamen" ]
+		],
+		"9" : [
+			[ "reclamara" ],
+			[ "reclamaras" ],
+			[ "reclamara" ],
+			[ "reclamáramos" ],
+			[ "reclamarais", "reclamaran" ],
+			[ "reclamaran" ]
+		],
+		"10" : [
+			[ "reclamase" ],
+			[ "reclamases" ],
+			[ "reclamase" ],
+			[ "reclamásemos" ],
+			[ "reclamaseis", "reclamasen" ],
+			[ "reclamasen" ]
+		],
+		"11" : [
+			[ "reclamare" ],
+			[ "reclamares" ],
+			[ "reclamare" ],
+			[ "reclamáremos" ],
+			[ "reclamareis", "reclamaren" ],
+			[ "reclamaren" ]
+		],
+		"12" : {
+			"1" : [ "reclama" ],
+			"2" : [ "reclame" ],
+			"3" : [ "reclamemos" ],
+			"4" : [ "reclamad" ],
+			"5" : [ "reclamen" ]
+		}
+	}
+}

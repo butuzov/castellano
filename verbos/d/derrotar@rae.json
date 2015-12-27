@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=derrotar",
+	"word" : "derrotar",
+	"infinitivo" : "derrotar",
+	"participio" : [ "derrotado" ],
+	"gerundio" : [ "derrotando" ],
+	"tenses" : {
+		"3" : [
+			[ "derroto" ],
+			[ "derrotas", "derrotás" ],
+			[ "derrota" ],
+			[ "derrotamos" ],
+			[ "derrotáis", "derrotan" ],
+			[ "derrotan" ]
+		],
+		"4" : [
+			[ "derroté" ],
+			[ "derrotaste" ],
+			[ "derrotó" ],
+			[ "derrotamos" ],
+			[ "derrotasteis", "derrotaron" ],
+			[ "derrotaron" ]
+		],
+		"5" : [
+			[ "derrotaba" ],
+			[ "derrotabas" ],
+			[ "derrotaba" ],
+			[ "derrotábamos" ],
+			[ "derrotabais", "derrotaban" ],
+			[ "derrotaban" ]
+		],
+		"6" : [
+			[ "derrotaría" ],
+			[ "derrotarías" ],
+			[ "derrotaría" ],
+			[ "derrotaríamos" ],
+			[ "derrotaríais", "derrotarían" ],
+			[ "derrotarían" ]
+		],
+		"7" : [
+			[ "derrotaré" ],
+			[ "derrotarás" ],
+			[ "derrotará" ],
+			[ "derrotaremos" ],
+			[ "derrotaréis", "derrotarán" ],
+			[ "derrotarán" ]
+		],
+		"8" : [
+			[ "derrote" ],
+			[ "derrotes" ],
+			[ "derrote" ],
+			[ "derrotemos" ],
+			[ "derrotéis", "derroten" ],
+			[ "derroten" ]
+		],
+		"9" : [
+			[ "derrotara" ],
+			[ "derrotaras" ],
+			[ "derrotara" ],
+			[ "derrotáramos" ],
+			[ "derrotarais", "derrotaran" ],
+			[ "derrotaran" ]
+		],
+		"10" : [
+			[ "derrotase" ],
+			[ "derrotases" ],
+			[ "derrotase" ],
+			[ "derrotásemos" ],
+			[ "derrotaseis", "derrotasen" ],
+			[ "derrotasen" ]
+		],
+		"11" : [
+			[ "derrotare" ],
+			[ "derrotares" ],
+			[ "derrotare" ],
+			[ "derrotáremos" ],
+			[ "derrotareis", "derrotaren" ],
+			[ "derrotaren" ]
+		],
+		"12" : {
+			"1" : [ "derrota" ],
+			"2" : [ "derrote" ],
+			"3" : [ "derrotemos" ],
+			"4" : [ "derrotad" ],
+			"5" : [ "derroten" ]
+		}
+	}
+}

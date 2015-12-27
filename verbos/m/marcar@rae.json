@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=marcar",
+	"word" : "marcar",
+	"infinitivo" : "marcar",
+	"participio" : [ "marcado" ],
+	"gerundio" : [ "marcando" ],
+	"tenses" : {
+		"3" : [
+			[ "marco" ],
+			[ "marcas", "marcás" ],
+			[ "marca" ],
+			[ "marcamos" ],
+			[ "marcáis", "marcan" ],
+			[ "marcan" ]
+		],
+		"4" : [
+			[ "marqué" ],
+			[ "marcaste" ],
+			[ "marcó" ],
+			[ "marcamos" ],
+			[ "marcasteis", "marcaron" ],
+			[ "marcaron" ]
+		],
+		"5" : [
+			[ "marcaba" ],
+			[ "marcabas" ],
+			[ "marcaba" ],
+			[ "marcábamos" ],
+			[ "marcabais", "marcaban" ],
+			[ "marcaban" ]
+		],
+		"6" : [
+			[ "marcaría" ],
+			[ "marcarías" ],
+			[ "marcaría" ],
+			[ "marcaríamos" ],
+			[ "marcaríais", "marcarían" ],
+			[ "marcarían" ]
+		],
+		"7" : [
+			[ "marcaré" ],
+			[ "marcarás" ],
+			[ "marcará" ],
+			[ "marcaremos" ],
+			[ "marcaréis", "marcarán" ],
+			[ "marcarán" ]
+		],
+		"8" : [
+			[ "marque" ],
+			[ "marques" ],
+			[ "marque" ],
+			[ "marquemos" ],
+			[ "marquéis", "marquen" ],
+			[ "marquen" ]
+		],
+		"9" : [
+			[ "marcara" ],
+			[ "marcaras" ],
+			[ "marcara" ],
+			[ "marcáramos" ],
+			[ "marcarais", "marcaran" ],
+			[ "marcaran" ]
+		],
+		"10" : [
+			[ "marcase" ],
+			[ "marcases" ],
+			[ "marcase" ],
+			[ "marcásemos" ],
+			[ "marcaseis", "marcasen" ],
+			[ "marcasen" ]
+		],
+		"11" : [
+			[ "marcare" ],
+			[ "marcares" ],
+			[ "marcare" ],
+			[ "marcáremos" ],
+			[ "marcareis", "marcaren" ],
+			[ "marcaren" ]
+		],
+		"12" : {
+			"1" : [ "marca" ],
+			"2" : [ "marque" ],
+			"3" : [ "marquemos" ],
+			"4" : [ "marcad" ],
+			"5" : [ "marquen" ]
+		}
+	}
+}

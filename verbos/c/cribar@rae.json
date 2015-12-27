@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cribar",
+	"word" : "cribar",
+	"infinitivo" : "cribar",
+	"participio" : [ "cribado" ],
+	"gerundio" : [ "cribando" ],
+	"tenses" : {
+		"3" : [
+			[ "cribo" ],
+			[ "cribas", "cribás" ],
+			[ "criba" ],
+			[ "cribamos" ],
+			[ "cribáis", "criban" ],
+			[ "criban" ]
+		],
+		"4" : [
+			[ "cribé" ],
+			[ "cribaste" ],
+			[ "cribó" ],
+			[ "cribamos" ],
+			[ "cribasteis", "cribaron" ],
+			[ "cribaron" ]
+		],
+		"5" : [
+			[ "cribaba" ],
+			[ "cribabas" ],
+			[ "cribaba" ],
+			[ "cribábamos" ],
+			[ "cribabais", "cribaban" ],
+			[ "cribaban" ]
+		],
+		"6" : [
+			[ "cribaría" ],
+			[ "cribarías" ],
+			[ "cribaría" ],
+			[ "cribaríamos" ],
+			[ "cribaríais", "cribarían" ],
+			[ "cribarían" ]
+		],
+		"7" : [
+			[ "cribaré" ],
+			[ "cribarás" ],
+			[ "cribará" ],
+			[ "cribaremos" ],
+			[ "cribaréis", "cribarán" ],
+			[ "cribarán" ]
+		],
+		"8" : [
+			[ "cribe" ],
+			[ "cribes" ],
+			[ "cribe" ],
+			[ "cribemos" ],
+			[ "cribéis", "criben" ],
+			[ "criben" ]
+		],
+		"9" : [
+			[ "cribara" ],
+			[ "cribaras" ],
+			[ "cribara" ],
+			[ "cribáramos" ],
+			[ "cribarais", "cribaran" ],
+			[ "cribaran" ]
+		],
+		"10" : [
+			[ "cribase" ],
+			[ "cribases" ],
+			[ "cribase" ],
+			[ "cribásemos" ],
+			[ "cribaseis", "cribasen" ],
+			[ "cribasen" ]
+		],
+		"11" : [
+			[ "cribare" ],
+			[ "cribares" ],
+			[ "cribare" ],
+			[ "cribáremos" ],
+			[ "cribareis", "cribaren" ],
+			[ "cribaren" ]
+		],
+		"12" : {
+			"1" : [ "criba" ],
+			"2" : [ "cribe" ],
+			"3" : [ "cribemos" ],
+			"4" : [ "cribad" ],
+			"5" : [ "criben" ]
+		}
+	}
+}

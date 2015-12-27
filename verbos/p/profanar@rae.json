@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=profanar",
+	"word" : "profanar",
+	"infinitivo" : "profanar",
+	"participio" : [ "profanado" ],
+	"gerundio" : [ "profanando" ],
+	"tenses" : {
+		"3" : [
+			[ "profano" ],
+			[ "profanas", "profanás" ],
+			[ "profana" ],
+			[ "profanamos" ],
+			[ "profanáis", "profanan" ],
+			[ "profanan" ]
+		],
+		"4" : [
+			[ "profané" ],
+			[ "profanaste" ],
+			[ "profanó" ],
+			[ "profanamos" ],
+			[ "profanasteis", "profanaron" ],
+			[ "profanaron" ]
+		],
+		"5" : [
+			[ "profanaba" ],
+			[ "profanabas" ],
+			[ "profanaba" ],
+			[ "profanábamos" ],
+			[ "profanabais", "profanaban" ],
+			[ "profanaban" ]
+		],
+		"6" : [
+			[ "profanaría" ],
+			[ "profanarías" ],
+			[ "profanaría" ],
+			[ "profanaríamos" ],
+			[ "profanaríais", "profanarían" ],
+			[ "profanarían" ]
+		],
+		"7" : [
+			[ "profanaré" ],
+			[ "profanarás" ],
+			[ "profanará" ],
+			[ "profanaremos" ],
+			[ "profanaréis", "profanarán" ],
+			[ "profanarán" ]
+		],
+		"8" : [
+			[ "profane" ],
+			[ "profanes" ],
+			[ "profane" ],
+			[ "profanemos" ],
+			[ "profanéis", "profanen" ],
+			[ "profanen" ]
+		],
+		"9" : [
+			[ "profanara" ],
+			[ "profanaras" ],
+			[ "profanara" ],
+			[ "profanáramos" ],
+			[ "profanarais", "profanaran" ],
+			[ "profanaran" ]
+		],
+		"10" : [
+			[ "profanase" ],
+			[ "profanases" ],
+			[ "profanase" ],
+			[ "profanásemos" ],
+			[ "profanaseis", "profanasen" ],
+			[ "profanasen" ]
+		],
+		"11" : [
+			[ "profanare" ],
+			[ "profanares" ],
+			[ "profanare" ],
+			[ "profanáremos" ],
+			[ "profanareis", "profanaren" ],
+			[ "profanaren" ]
+		],
+		"12" : {
+			"1" : [ "profana" ],
+			"2" : [ "profane" ],
+			"3" : [ "profanemos" ],
+			"4" : [ "profanad" ],
+			"5" : [ "profanen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acelerar",
+	"word" : "acelerar",
+	"infinitivo" : "acelerar",
+	"participio" : [ "acelerado" ],
+	"gerundio" : [ "acelerando" ],
+	"tenses" : {
+		"3" : [
+			[ "acelero" ],
+			[ "aceleras", "acelerás" ],
+			[ "acelera" ],
+			[ "aceleramos" ],
+			[ "aceleráis", "aceleran" ],
+			[ "aceleran" ]
+		],
+		"4" : [
+			[ "aceleré" ],
+			[ "aceleraste" ],
+			[ "aceleró" ],
+			[ "aceleramos" ],
+			[ "acelerasteis", "aceleraron" ],
+			[ "aceleraron" ]
+		],
+		"5" : [
+			[ "aceleraba" ],
+			[ "acelerabas" ],
+			[ "aceleraba" ],
+			[ "acelerábamos" ],
+			[ "acelerabais", "aceleraban" ],
+			[ "aceleraban" ]
+		],
+		"6" : [
+			[ "aceleraría" ],
+			[ "acelerarías" ],
+			[ "aceleraría" ],
+			[ "aceleraríamos" ],
+			[ "aceleraríais", "acelerarían" ],
+			[ "acelerarían" ]
+		],
+		"7" : [
+			[ "aceleraré" ],
+			[ "acelerarás" ],
+			[ "acelerará" ],
+			[ "aceleraremos" ],
+			[ "aceleraréis", "acelerarán" ],
+			[ "acelerarán" ]
+		],
+		"8" : [
+			[ "acelere" ],
+			[ "aceleres" ],
+			[ "acelere" ],
+			[ "aceleremos" ],
+			[ "aceleréis", "aceleren" ],
+			[ "aceleren" ]
+		],
+		"9" : [
+			[ "acelerara" ],
+			[ "aceleraras" ],
+			[ "acelerara" ],
+			[ "aceleráramos" ],
+			[ "acelerarais", "aceleraran" ],
+			[ "aceleraran" ]
+		],
+		"10" : [
+			[ "acelerase" ],
+			[ "acelerases" ],
+			[ "acelerase" ],
+			[ "acelerásemos" ],
+			[ "aceleraseis", "acelerasen" ],
+			[ "acelerasen" ]
+		],
+		"11" : [
+			[ "acelerare" ],
+			[ "acelerares" ],
+			[ "acelerare" ],
+			[ "aceleráremos" ],
+			[ "acelerareis", "aceleraren" ],
+			[ "aceleraren" ]
+		],
+		"12" : {
+			"1" : [ "acelera" ],
+			"2" : [ "acelere" ],
+			"3" : [ "aceleremos" ],
+			"4" : [ "acelerad" ],
+			"5" : [ "aceleren" ]
+		}
+	}
+}

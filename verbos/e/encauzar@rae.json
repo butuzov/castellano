@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encauzar",
+	"word" : "encauzar",
+	"infinitivo" : "encauzar",
+	"participio" : [ "encauzado" ],
+	"gerundio" : [ "encauzando" ],
+	"tenses" : {
+		"3" : [
+			[ "encauzo" ],
+			[ "encauzas", "encauzás" ],
+			[ "encauza" ],
+			[ "encauzamos" ],
+			[ "encauzáis", "encauzan" ],
+			[ "encauzan" ]
+		],
+		"4" : [
+			[ "encaucé" ],
+			[ "encauzaste" ],
+			[ "encauzó" ],
+			[ "encauzamos" ],
+			[ "encauzasteis", "encauzaron" ],
+			[ "encauzaron" ]
+		],
+		"5" : [
+			[ "encauzaba" ],
+			[ "encauzabas" ],
+			[ "encauzaba" ],
+			[ "encauzábamos" ],
+			[ "encauzabais", "encauzaban" ],
+			[ "encauzaban" ]
+		],
+		"6" : [
+			[ "encauzaría" ],
+			[ "encauzarías" ],
+			[ "encauzaría" ],
+			[ "encauzaríamos" ],
+			[ "encauzaríais", "encauzarían" ],
+			[ "encauzarían" ]
+		],
+		"7" : [
+			[ "encauzaré" ],
+			[ "encauzarás" ],
+			[ "encauzará" ],
+			[ "encauzaremos" ],
+			[ "encauzaréis", "encauzarán" ],
+			[ "encauzarán" ]
+		],
+		"8" : [
+			[ "encauce" ],
+			[ "encauces" ],
+			[ "encauce" ],
+			[ "encaucemos" ],
+			[ "encaucéis", "encaucen" ],
+			[ "encaucen" ]
+		],
+		"9" : [
+			[ "encauzara" ],
+			[ "encauzaras" ],
+			[ "encauzara" ],
+			[ "encauzáramos" ],
+			[ "encauzarais", "encauzaran" ],
+			[ "encauzaran" ]
+		],
+		"10" : [
+			[ "encauzase" ],
+			[ "encauzases" ],
+			[ "encauzase" ],
+			[ "encauzásemos" ],
+			[ "encauzaseis", "encauzasen" ],
+			[ "encauzasen" ]
+		],
+		"11" : [
+			[ "encauzare" ],
+			[ "encauzares" ],
+			[ "encauzare" ],
+			[ "encauzáremos" ],
+			[ "encauzareis", "encauzaren" ],
+			[ "encauzaren" ]
+		],
+		"12" : {
+			"1" : [ "encauza" ],
+			"2" : [ "encauce" ],
+			"3" : [ "encaucemos" ],
+			"4" : [ "encauzad" ],
+			"5" : [ "encaucen" ]
+		}
+	}
+}

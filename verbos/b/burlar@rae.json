@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=burlar",
+	"word" : "burlar",
+	"infinitivo" : "burlar",
+	"participio" : [ "burlado" ],
+	"gerundio" : [ "burlando" ],
+	"tenses" : {
+		"3" : [
+			[ "burlo" ],
+			[ "burlas", "burlás" ],
+			[ "burla" ],
+			[ "burlamos" ],
+			[ "burláis", "burlan" ],
+			[ "burlan" ]
+		],
+		"4" : [
+			[ "burlé" ],
+			[ "burlaste" ],
+			[ "burló" ],
+			[ "burlamos" ],
+			[ "burlasteis", "burlaron" ],
+			[ "burlaron" ]
+		],
+		"5" : [
+			[ "burlaba" ],
+			[ "burlabas" ],
+			[ "burlaba" ],
+			[ "burlábamos" ],
+			[ "burlabais", "burlaban" ],
+			[ "burlaban" ]
+		],
+		"6" : [
+			[ "burlaría" ],
+			[ "burlarías" ],
+			[ "burlaría" ],
+			[ "burlaríamos" ],
+			[ "burlaríais", "burlarían" ],
+			[ "burlarían" ]
+		],
+		"7" : [
+			[ "burlaré" ],
+			[ "burlarás" ],
+			[ "burlará" ],
+			[ "burlaremos" ],
+			[ "burlaréis", "burlarán" ],
+			[ "burlarán" ]
+		],
+		"8" : [
+			[ "burle" ],
+			[ "burles" ],
+			[ "burle" ],
+			[ "burlemos" ],
+			[ "burléis", "burlen" ],
+			[ "burlen" ]
+		],
+		"9" : [
+			[ "burlara" ],
+			[ "burlaras" ],
+			[ "burlara" ],
+			[ "burláramos" ],
+			[ "burlarais", "burlaran" ],
+			[ "burlaran" ]
+		],
+		"10" : [
+			[ "burlase" ],
+			[ "burlases" ],
+			[ "burlase" ],
+			[ "burlásemos" ],
+			[ "burlaseis", "burlasen" ],
+			[ "burlasen" ]
+		],
+		"11" : [
+			[ "burlare" ],
+			[ "burlares" ],
+			[ "burlare" ],
+			[ "burláremos" ],
+			[ "burlareis", "burlaren" ],
+			[ "burlaren" ]
+		],
+		"12" : {
+			"1" : [ "burla" ],
+			"2" : [ "burle" ],
+			"3" : [ "burlemos" ],
+			"4" : [ "burlad" ],
+			"5" : [ "burlen" ]
+		}
+	}
+}

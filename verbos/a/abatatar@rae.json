@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abatatar",
+	"word" : "abatatar",
+	"infinitivo" : "abatatar",
+	"participio" : [ "abatatado" ],
+	"gerundio" : [ "abatatando" ],
+	"tenses" : {
+		"3" : [
+			[ "abatato" ],
+			[ "abatatas", "abatatás" ],
+			[ "abatata" ],
+			[ "abatatamos" ],
+			[ "abatatáis", "abatatan" ],
+			[ "abatatan" ]
+		],
+		"4" : [
+			[ "abataté" ],
+			[ "abatataste" ],
+			[ "abatató" ],
+			[ "abatatamos" ],
+			[ "abatatasteis", "abatataron" ],
+			[ "abatataron" ]
+		],
+		"5" : [
+			[ "abatataba" ],
+			[ "abatatabas" ],
+			[ "abatataba" ],
+			[ "abatatábamos" ],
+			[ "abatatabais", "abatataban" ],
+			[ "abatataban" ]
+		],
+		"6" : [
+			[ "abatataría" ],
+			[ "abatatarías" ],
+			[ "abatataría" ],
+			[ "abatataríamos" ],
+			[ "abatataríais", "abatatarían" ],
+			[ "abatatarían" ]
+		],
+		"7" : [
+			[ "abatataré" ],
+			[ "abatatarás" ],
+			[ "abatatará" ],
+			[ "abatataremos" ],
+			[ "abatataréis", "abatatarán" ],
+			[ "abatatarán" ]
+		],
+		"8" : [
+			[ "abatate" ],
+			[ "abatates" ],
+			[ "abatate" ],
+			[ "abatatemos" ],
+			[ "abatatéis", "abataten" ],
+			[ "abataten" ]
+		],
+		"9" : [
+			[ "abatatara" ],
+			[ "abatataras" ],
+			[ "abatatara" ],
+			[ "abatatáramos" ],
+			[ "abatatarais", "abatataran" ],
+			[ "abatataran" ]
+		],
+		"10" : [
+			[ "abatatase" ],
+			[ "abatatases" ],
+			[ "abatatase" ],
+			[ "abatatásemos" ],
+			[ "abatataseis", "abatatasen" ],
+			[ "abatatasen" ]
+		],
+		"11" : [
+			[ "abatatare" ],
+			[ "abatatares" ],
+			[ "abatatare" ],
+			[ "abatatáremos" ],
+			[ "abatatareis", "abatataren" ],
+			[ "abatataren" ]
+		],
+		"12" : {
+			"1" : [ "abatata" ],
+			"2" : [ "abatate" ],
+			"3" : [ "abatatemos" ],
+			"4" : [ "abatatad" ],
+			"5" : [ "abataten" ]
+		}
+	}
+}

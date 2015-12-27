@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=explicar",
+	"word" : "explicar",
+	"infinitivo" : "explicar",
+	"participio" : [ "explicado" ],
+	"gerundio" : [ "explicando" ],
+	"tenses" : {
+		"3" : [
+			[ "explico" ],
+			[ "explicas", "explicás" ],
+			[ "explica" ],
+			[ "explicamos" ],
+			[ "explicáis", "explican" ],
+			[ "explican" ]
+		],
+		"4" : [
+			[ "expliqué" ],
+			[ "explicaste" ],
+			[ "explicó" ],
+			[ "explicamos" ],
+			[ "explicasteis", "explicaron" ],
+			[ "explicaron" ]
+		],
+		"5" : [
+			[ "explicaba" ],
+			[ "explicabas" ],
+			[ "explicaba" ],
+			[ "explicábamos" ],
+			[ "explicabais", "explicaban" ],
+			[ "explicaban" ]
+		],
+		"6" : [
+			[ "explicaría" ],
+			[ "explicarías" ],
+			[ "explicaría" ],
+			[ "explicaríamos" ],
+			[ "explicaríais", "explicarían" ],
+			[ "explicarían" ]
+		],
+		"7" : [
+			[ "explicaré" ],
+			[ "explicarás" ],
+			[ "explicará" ],
+			[ "explicaremos" ],
+			[ "explicaréis", "explicarán" ],
+			[ "explicarán" ]
+		],
+		"8" : [
+			[ "explique" ],
+			[ "expliques" ],
+			[ "explique" ],
+			[ "expliquemos" ],
+			[ "expliquéis", "expliquen" ],
+			[ "expliquen" ]
+		],
+		"9" : [
+			[ "explicara" ],
+			[ "explicaras" ],
+			[ "explicara" ],
+			[ "explicáramos" ],
+			[ "explicarais", "explicaran" ],
+			[ "explicaran" ]
+		],
+		"10" : [
+			[ "explicase" ],
+			[ "explicases" ],
+			[ "explicase" ],
+			[ "explicásemos" ],
+			[ "explicaseis", "explicasen" ],
+			[ "explicasen" ]
+		],
+		"11" : [
+			[ "explicare" ],
+			[ "explicares" ],
+			[ "explicare" ],
+			[ "explicáremos" ],
+			[ "explicareis", "explicaren" ],
+			[ "explicaren" ]
+		],
+		"12" : {
+			"1" : [ "explica" ],
+			"2" : [ "explique" ],
+			"3" : [ "expliquemos" ],
+			"4" : [ "explicad" ],
+			"5" : [ "expliquen" ]
+		}
+	}
+}

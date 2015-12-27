@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=satisfacer",
+	"word" : "satisfacer",
+	"infinitivo" : "satisfacer",
+	"participio" : [ "satisfecho" ],
+	"gerundio" : [ "satisfaciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "satisfago" ],
+			[ "satisfaces", "satisfacés" ],
+			[ "satisface" ],
+			[ "satisfacemos" ],
+			[ "satisfacéis", "satisfacen" ],
+			[ "satisfacen" ]
+		],
+		"4" : [
+			[ "satisfice" ],
+			[ "satisficiste" ],
+			[ "satisfizo" ],
+			[ "satisficimos" ],
+			[ "satisficisteis", "satisficieron" ],
+			[ "satisficieron" ]
+		],
+		"5" : [
+			[ "satisfacía" ],
+			[ "satisfacías" ],
+			[ "satisfacía" ],
+			[ "satisfacíamos" ],
+			[ "satisfacíais", "satisfacían" ],
+			[ "satisfacían" ]
+		],
+		"6" : [
+			[ "satisfaría" ],
+			[ "satisfarías" ],
+			[ "satisfaría" ],
+			[ "satisfaríamos" ],
+			[ "satisfaríais", "satisfarían" ],
+			[ "satisfarían" ]
+		],
+		"7" : [
+			[ "satisfaré" ],
+			[ "satisfarás" ],
+			[ "satisfará" ],
+			[ "satisfaremos" ],
+			[ "satisfaréis", "satisfarán" ],
+			[ "satisfarán" ]
+		],
+		"8" : [
+			[ "satisfaga" ],
+			[ "satisfagas" ],
+			[ "satisfaga" ],
+			[ "satisfagamos" ],
+			[ "satisfagáis", "satisfagan" ],
+			[ "satisfagan" ]
+		],
+		"9" : [
+			[ "satisficiera" ],
+			[ "satisficieras" ],
+			[ "satisficiera" ],
+			[ "satisficiéramos" ],
+			[ "satisficierais", "satisficieran" ],
+			[ "satisficieran" ]
+		],
+		"10" : [
+			[ "satisficiese" ],
+			[ "satisficieses" ],
+			[ "satisficiese" ],
+			[ "satisficiésemos" ],
+			[ "satisficieseis", "satisficiesen" ],
+			[ "satisficiesen" ]
+		],
+		"11" : [
+			[ "satisficiere" ],
+			[ "satisficieres" ],
+			[ "satisficiere" ],
+			[ "satisficiéremos" ],
+			[ "satisficiereis", "satisficieren" ],
+			[ "satisficieren" ]
+		],
+		"12" : {
+			"1" : [ "satisface", "satisfaz" ],
+			"2" : [ "satisfaga" ],
+			"3" : [ "satisfagamos" ],
+			"4" : [ "satisfaced" ],
+			"5" : [ "satisfagan" ]
+		}
+	}
+}

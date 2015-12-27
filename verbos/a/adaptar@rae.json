@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adaptar",
+	"word" : "adaptar",
+	"infinitivo" : "adaptar",
+	"participio" : [ "adaptado" ],
+	"gerundio" : [ "adaptando" ],
+	"tenses" : {
+		"3" : [
+			[ "adapto" ],
+			[ "adaptas", "adaptás" ],
+			[ "adapta" ],
+			[ "adaptamos" ],
+			[ "adaptáis", "adaptan" ],
+			[ "adaptan" ]
+		],
+		"4" : [
+			[ "adapté" ],
+			[ "adaptaste" ],
+			[ "adaptó" ],
+			[ "adaptamos" ],
+			[ "adaptasteis", "adaptaron" ],
+			[ "adaptaron" ]
+		],
+		"5" : [
+			[ "adaptaba" ],
+			[ "adaptabas" ],
+			[ "adaptaba" ],
+			[ "adaptábamos" ],
+			[ "adaptabais", "adaptaban" ],
+			[ "adaptaban" ]
+		],
+		"6" : [
+			[ "adaptaría" ],
+			[ "adaptarías" ],
+			[ "adaptaría" ],
+			[ "adaptaríamos" ],
+			[ "adaptaríais", "adaptarían" ],
+			[ "adaptarían" ]
+		],
+		"7" : [
+			[ "adaptaré" ],
+			[ "adaptarás" ],
+			[ "adaptará" ],
+			[ "adaptaremos" ],
+			[ "adaptaréis", "adaptarán" ],
+			[ "adaptarán" ]
+		],
+		"8" : [
+			[ "adapte" ],
+			[ "adaptes" ],
+			[ "adapte" ],
+			[ "adaptemos" ],
+			[ "adaptéis", "adapten" ],
+			[ "adapten" ]
+		],
+		"9" : [
+			[ "adaptara" ],
+			[ "adaptaras" ],
+			[ "adaptara" ],
+			[ "adaptáramos" ],
+			[ "adaptarais", "adaptaran" ],
+			[ "adaptaran" ]
+		],
+		"10" : [
+			[ "adaptase" ],
+			[ "adaptases" ],
+			[ "adaptase" ],
+			[ "adaptásemos" ],
+			[ "adaptaseis", "adaptasen" ],
+			[ "adaptasen" ]
+		],
+		"11" : [
+			[ "adaptare" ],
+			[ "adaptares" ],
+			[ "adaptare" ],
+			[ "adaptáremos" ],
+			[ "adaptareis", "adaptaren" ],
+			[ "adaptaren" ]
+		],
+		"12" : {
+			"1" : [ "adapta" ],
+			"2" : [ "adapte" ],
+			"3" : [ "adaptemos" ],
+			"4" : [ "adaptad" ],
+			"5" : [ "adapten" ]
+		}
+	}
+}

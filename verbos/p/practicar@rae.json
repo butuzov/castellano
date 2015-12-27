@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=practicar",
+	"word" : "practicar",
+	"infinitivo" : "practicar",
+	"participio" : [ "practicado" ],
+	"gerundio" : [ "practicando" ],
+	"tenses" : {
+		"3" : [
+			[ "practico" ],
+			[ "practicas", "practicás" ],
+			[ "practica" ],
+			[ "practicamos" ],
+			[ "practicáis", "practican" ],
+			[ "practican" ]
+		],
+		"4" : [
+			[ "practiqué" ],
+			[ "practicaste" ],
+			[ "practicó" ],
+			[ "practicamos" ],
+			[ "practicasteis", "practicaron" ],
+			[ "practicaron" ]
+		],
+		"5" : [
+			[ "practicaba" ],
+			[ "practicabas" ],
+			[ "practicaba" ],
+			[ "practicábamos" ],
+			[ "practicabais", "practicaban" ],
+			[ "practicaban" ]
+		],
+		"6" : [
+			[ "practicaría" ],
+			[ "practicarías" ],
+			[ "practicaría" ],
+			[ "practicaríamos" ],
+			[ "practicaríais", "practicarían" ],
+			[ "practicarían" ]
+		],
+		"7" : [
+			[ "practicaré" ],
+			[ "practicarás" ],
+			[ "practicará" ],
+			[ "practicaremos" ],
+			[ "practicaréis", "practicarán" ],
+			[ "practicarán" ]
+		],
+		"8" : [
+			[ "practique" ],
+			[ "practiques" ],
+			[ "practique" ],
+			[ "practiquemos" ],
+			[ "practiquéis", "practiquen" ],
+			[ "practiquen" ]
+		],
+		"9" : [
+			[ "practicara" ],
+			[ "practicaras" ],
+			[ "practicara" ],
+			[ "practicáramos" ],
+			[ "practicarais", "practicaran" ],
+			[ "practicaran" ]
+		],
+		"10" : [
+			[ "practicase" ],
+			[ "practicases" ],
+			[ "practicase" ],
+			[ "practicásemos" ],
+			[ "practicaseis", "practicasen" ],
+			[ "practicasen" ]
+		],
+		"11" : [
+			[ "practicare" ],
+			[ "practicares" ],
+			[ "practicare" ],
+			[ "practicáremos" ],
+			[ "practicareis", "practicaren" ],
+			[ "practicaren" ]
+		],
+		"12" : {
+			"1" : [ "practica" ],
+			"2" : [ "practique" ],
+			"3" : [ "practiquemos" ],
+			"4" : [ "practicad" ],
+			"5" : [ "practiquen" ]
+		}
+	}
+}

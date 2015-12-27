@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repugnar",
+	"word" : "repugnar",
+	"infinitivo" : "repugnar",
+	"participio" : [ "repugnado" ],
+	"gerundio" : [ "repugnando" ],
+	"tenses" : {
+		"3" : [
+			[ "repugno" ],
+			[ "repugnas", "repugnás" ],
+			[ "repugna" ],
+			[ "repugnamos" ],
+			[ "repugnáis", "repugnan" ],
+			[ "repugnan" ]
+		],
+		"4" : [
+			[ "repugné" ],
+			[ "repugnaste" ],
+			[ "repugnó" ],
+			[ "repugnamos" ],
+			[ "repugnasteis", "repugnaron" ],
+			[ "repugnaron" ]
+		],
+		"5" : [
+			[ "repugnaba" ],
+			[ "repugnabas" ],
+			[ "repugnaba" ],
+			[ "repugnábamos" ],
+			[ "repugnabais", "repugnaban" ],
+			[ "repugnaban" ]
+		],
+		"6" : [
+			[ "repugnaría" ],
+			[ "repugnarías" ],
+			[ "repugnaría" ],
+			[ "repugnaríamos" ],
+			[ "repugnaríais", "repugnarían" ],
+			[ "repugnarían" ]
+		],
+		"7" : [
+			[ "repugnaré" ],
+			[ "repugnarás" ],
+			[ "repugnará" ],
+			[ "repugnaremos" ],
+			[ "repugnaréis", "repugnarán" ],
+			[ "repugnarán" ]
+		],
+		"8" : [
+			[ "repugne" ],
+			[ "repugnes" ],
+			[ "repugne" ],
+			[ "repugnemos" ],
+			[ "repugnéis", "repugnen" ],
+			[ "repugnen" ]
+		],
+		"9" : [
+			[ "repugnara" ],
+			[ "repugnaras" ],
+			[ "repugnara" ],
+			[ "repugnáramos" ],
+			[ "repugnarais", "repugnaran" ],
+			[ "repugnaran" ]
+		],
+		"10" : [
+			[ "repugnase" ],
+			[ "repugnases" ],
+			[ "repugnase" ],
+			[ "repugnásemos" ],
+			[ "repugnaseis", "repugnasen" ],
+			[ "repugnasen" ]
+		],
+		"11" : [
+			[ "repugnare" ],
+			[ "repugnares" ],
+			[ "repugnare" ],
+			[ "repugnáremos" ],
+			[ "repugnareis", "repugnaren" ],
+			[ "repugnaren" ]
+		],
+		"12" : {
+			"1" : [ "repugna" ],
+			"2" : [ "repugne" ],
+			"3" : [ "repugnemos" ],
+			"4" : [ "repugnad" ],
+			"5" : [ "repugnen" ]
+		}
+	}
+}

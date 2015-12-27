@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atribuir",
+	"word" : "atribuir",
+	"infinitivo" : "atribuir",
+	"participio" : [ "atribuido" ],
+	"gerundio" : [ "atribuyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "atribuyo" ],
+			[ "atribuyes", "atribuís" ],
+			[ "atribuye" ],
+			[ "atribuimos" ],
+			[ "atribuís", "atribuyen" ],
+			[ "atribuyen" ]
+		],
+		"4" : [
+			[ "atribuí" ],
+			[ "atribuiste" ],
+			[ "atribuyó" ],
+			[ "atribuimos" ],
+			[ "atribuisteis", "atribuyeron" ],
+			[ "atribuyeron" ]
+		],
+		"5" : [
+			[ "atribuía" ],
+			[ "atribuías" ],
+			[ "atribuía" ],
+			[ "atribuíamos" ],
+			[ "atribuíais", "atribuían" ],
+			[ "atribuían" ]
+		],
+		"6" : [
+			[ "atribuiría" ],
+			[ "atribuirías" ],
+			[ "atribuiría" ],
+			[ "atribuiríamos" ],
+			[ "atribuiríais", "atribuirían" ],
+			[ "atribuirían" ]
+		],
+		"7" : [
+			[ "atribuiré" ],
+			[ "atribuirás" ],
+			[ "atribuirá" ],
+			[ "atribuiremos" ],
+			[ "atribuiréis", "atribuirán" ],
+			[ "atribuirán" ]
+		],
+		"8" : [
+			[ "atribuya" ],
+			[ "atribuyas" ],
+			[ "atribuya" ],
+			[ "atribuyamos" ],
+			[ "atribuyáis", "atribuyan" ],
+			[ "atribuyan" ]
+		],
+		"9" : [
+			[ "atribuyera" ],
+			[ "atribuyeras" ],
+			[ "atribuyera" ],
+			[ "atribuyéramos" ],
+			[ "atribuyerais", "atribuyeran" ],
+			[ "atribuyeran" ]
+		],
+		"10" : [
+			[ "atribuyese" ],
+			[ "atribuyeses" ],
+			[ "atribuyese" ],
+			[ "atribuyésemos" ],
+			[ "atribuyeseis", "atribuyesen" ],
+			[ "atribuyesen" ]
+		],
+		"11" : [
+			[ "atribuyere" ],
+			[ "atribuyeres" ],
+			[ "atribuyere" ],
+			[ "atribuyéremos" ],
+			[ "atribuyereis", "atribuyeren" ],
+			[ "atribuyeren" ]
+		],
+		"12" : {
+			"1" : [ "atribuye" ],
+			"2" : [ "atribuya" ],
+			"3" : [ "atribuyamos" ],
+			"4" : [ "atribuid" ],
+			"5" : [ "atribuyan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ignorar",
+	"word" : "ignorar",
+	"infinitivo" : "ignorar",
+	"participio" : [ "ignorado" ],
+	"gerundio" : [ "ignorando" ],
+	"tenses" : {
+		"3" : [
+			[ "ignoro" ],
+			[ "ignoras", "ignorás" ],
+			[ "ignora" ],
+			[ "ignoramos" ],
+			[ "ignoráis", "ignoran" ],
+			[ "ignoran" ]
+		],
+		"4" : [
+			[ "ignoré" ],
+			[ "ignoraste" ],
+			[ "ignoró" ],
+			[ "ignoramos" ],
+			[ "ignorasteis", "ignoraron" ],
+			[ "ignoraron" ]
+		],
+		"5" : [
+			[ "ignoraba" ],
+			[ "ignorabas" ],
+			[ "ignoraba" ],
+			[ "ignorábamos" ],
+			[ "ignorabais", "ignoraban" ],
+			[ "ignoraban" ]
+		],
+		"6" : [
+			[ "ignoraría" ],
+			[ "ignorarías" ],
+			[ "ignoraría" ],
+			[ "ignoraríamos" ],
+			[ "ignoraríais", "ignorarían" ],
+			[ "ignorarían" ]
+		],
+		"7" : [
+			[ "ignoraré" ],
+			[ "ignorarás" ],
+			[ "ignorará" ],
+			[ "ignoraremos" ],
+			[ "ignoraréis", "ignorarán" ],
+			[ "ignorarán" ]
+		],
+		"8" : [
+			[ "ignore" ],
+			[ "ignores" ],
+			[ "ignore" ],
+			[ "ignoremos" ],
+			[ "ignoréis", "ignoren" ],
+			[ "ignoren" ]
+		],
+		"9" : [
+			[ "ignorara" ],
+			[ "ignoraras" ],
+			[ "ignorara" ],
+			[ "ignoráramos" ],
+			[ "ignorarais", "ignoraran" ],
+			[ "ignoraran" ]
+		],
+		"10" : [
+			[ "ignorase" ],
+			[ "ignorases" ],
+			[ "ignorase" ],
+			[ "ignorásemos" ],
+			[ "ignoraseis", "ignorasen" ],
+			[ "ignorasen" ]
+		],
+		"11" : [
+			[ "ignorare" ],
+			[ "ignorares" ],
+			[ "ignorare" ],
+			[ "ignoráremos" ],
+			[ "ignorareis", "ignoraren" ],
+			[ "ignoraren" ]
+		],
+		"12" : {
+			"1" : [ "ignora" ],
+			"2" : [ "ignore" ],
+			"3" : [ "ignoremos" ],
+			"4" : [ "ignorad" ],
+			"5" : [ "ignoren" ]
+		}
+	}
+}

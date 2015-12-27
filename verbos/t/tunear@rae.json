@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tunear",
+	"word" : "tunear",
+	"infinitivo" : "tunear",
+	"participio" : [ "tuneado" ],
+	"gerundio" : [ "tuneando" ],
+	"tenses" : {
+		"3" : [
+			[ "tuneo" ],
+			[ "tuneas", "tuneás" ],
+			[ "tunea" ],
+			[ "tuneamos" ],
+			[ "tuneáis", "tunean" ],
+			[ "tunean" ]
+		],
+		"4" : [
+			[ "tuneé" ],
+			[ "tuneaste" ],
+			[ "tuneó" ],
+			[ "tuneamos" ],
+			[ "tuneasteis", "tunearon" ],
+			[ "tunearon" ]
+		],
+		"5" : [
+			[ "tuneaba" ],
+			[ "tuneabas" ],
+			[ "tuneaba" ],
+			[ "tuneábamos" ],
+			[ "tuneabais", "tuneaban" ],
+			[ "tuneaban" ]
+		],
+		"6" : [
+			[ "tunearía" ],
+			[ "tunearías" ],
+			[ "tunearía" ],
+			[ "tunearíamos" ],
+			[ "tunearíais", "tunearían" ],
+			[ "tunearían" ]
+		],
+		"7" : [
+			[ "tunearé" ],
+			[ "tunearás" ],
+			[ "tuneará" ],
+			[ "tunearemos" ],
+			[ "tunearéis", "tunearán" ],
+			[ "tunearán" ]
+		],
+		"8" : [
+			[ "tunee" ],
+			[ "tunees" ],
+			[ "tunee" ],
+			[ "tuneemos" ],
+			[ "tuneéis", "tuneen" ],
+			[ "tuneen" ]
+		],
+		"9" : [
+			[ "tuneara" ],
+			[ "tunearas" ],
+			[ "tuneara" ],
+			[ "tuneáramos" ],
+			[ "tunearais", "tunearan" ],
+			[ "tunearan" ]
+		],
+		"10" : [
+			[ "tunease" ],
+			[ "tuneases" ],
+			[ "tunease" ],
+			[ "tuneásemos" ],
+			[ "tuneaseis", "tuneasen" ],
+			[ "tuneasen" ]
+		],
+		"11" : [
+			[ "tuneare" ],
+			[ "tuneares" ],
+			[ "tuneare" ],
+			[ "tuneáremos" ],
+			[ "tuneareis", "tunearen" ],
+			[ "tunearen" ]
+		],
+		"12" : {
+			"1" : [ "tunea" ],
+			"2" : [ "tunee" ],
+			"3" : [ "tuneemos" ],
+			"4" : [ "tunead" ],
+			"5" : [ "tuneen" ]
+		}
+	}
+}

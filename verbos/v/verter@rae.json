@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=verter",
+	"word" : "verter",
+	"infinitivo" : "verter",
+	"participio" : [ "vertido" ],
+	"gerundio" : [ "vertiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "vierto" ],
+			[ "viertes", "vertés" ],
+			[ "vierte" ],
+			[ "vertemos" ],
+			[ "vertéis", "vierten" ],
+			[ "vierten" ]
+		],
+		"4" : [
+			[ "vertí" ],
+			[ "vertiste" ],
+			[ "vertió" ],
+			[ "vertimos" ],
+			[ "vertisteis", "vertieron" ],
+			[ "vertieron" ]
+		],
+		"5" : [
+			[ "vertía" ],
+			[ "vertías" ],
+			[ "vertía" ],
+			[ "vertíamos" ],
+			[ "vertíais", "vertían" ],
+			[ "vertían" ]
+		],
+		"6" : [
+			[ "vertería" ],
+			[ "verterías" ],
+			[ "vertería" ],
+			[ "verteríamos" ],
+			[ "verteríais", "verterían" ],
+			[ "verterían" ]
+		],
+		"7" : [
+			[ "verteré" ],
+			[ "verterás" ],
+			[ "verterá" ],
+			[ "verteremos" ],
+			[ "verteréis", "verterán" ],
+			[ "verterán" ]
+		],
+		"8" : [
+			[ "vierta" ],
+			[ "viertas" ],
+			[ "vierta" ],
+			[ "vertamos" ],
+			[ "vertáis", "viertan" ],
+			[ "viertan" ]
+		],
+		"9" : [
+			[ "vertiera" ],
+			[ "vertieras" ],
+			[ "vertiera" ],
+			[ "vertiéramos" ],
+			[ "vertierais", "vertieran" ],
+			[ "vertieran" ]
+		],
+		"10" : [
+			[ "vertiese" ],
+			[ "vertieses" ],
+			[ "vertiese" ],
+			[ "vertiésemos" ],
+			[ "vertieseis", "vertiesen" ],
+			[ "vertiesen" ]
+		],
+		"11" : [
+			[ "vertiere" ],
+			[ "vertieres" ],
+			[ "vertiere" ],
+			[ "vertiéremos" ],
+			[ "vertiereis", "vertieren" ],
+			[ "vertieren" ]
+		],
+		"12" : {
+			"1" : [ "vierte" ],
+			"2" : [ "vierta" ],
+			"3" : [ "vertamos" ],
+			"4" : [ "verted" ],
+			"5" : [ "viertan" ]
+		}
+	}
+}

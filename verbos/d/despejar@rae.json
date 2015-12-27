@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despejar",
+	"word" : "despejar",
+	"infinitivo" : "despejar",
+	"participio" : [ "despejado" ],
+	"gerundio" : [ "despejando" ],
+	"tenses" : {
+		"3" : [
+			[ "despejo" ],
+			[ "despejas", "despejás" ],
+			[ "despeja" ],
+			[ "despejamos" ],
+			[ "despejáis", "despejan" ],
+			[ "despejan" ]
+		],
+		"4" : [
+			[ "despejé" ],
+			[ "despejaste" ],
+			[ "despejó" ],
+			[ "despejamos" ],
+			[ "despejasteis", "despejaron" ],
+			[ "despejaron" ]
+		],
+		"5" : [
+			[ "despejaba" ],
+			[ "despejabas" ],
+			[ "despejaba" ],
+			[ "despejábamos" ],
+			[ "despejabais", "despejaban" ],
+			[ "despejaban" ]
+		],
+		"6" : [
+			[ "despejaría" ],
+			[ "despejarías" ],
+			[ "despejaría" ],
+			[ "despejaríamos" ],
+			[ "despejaríais", "despejarían" ],
+			[ "despejarían" ]
+		],
+		"7" : [
+			[ "despejaré" ],
+			[ "despejarás" ],
+			[ "despejará" ],
+			[ "despejaremos" ],
+			[ "despejaréis", "despejarán" ],
+			[ "despejarán" ]
+		],
+		"8" : [
+			[ "despeje" ],
+			[ "despejes" ],
+			[ "despeje" ],
+			[ "despejemos" ],
+			[ "despejéis", "despejen" ],
+			[ "despejen" ]
+		],
+		"9" : [
+			[ "despejara" ],
+			[ "despejaras" ],
+			[ "despejara" ],
+			[ "despejáramos" ],
+			[ "despejarais", "despejaran" ],
+			[ "despejaran" ]
+		],
+		"10" : [
+			[ "despejase" ],
+			[ "despejases" ],
+			[ "despejase" ],
+			[ "despejásemos" ],
+			[ "despejaseis", "despejasen" ],
+			[ "despejasen" ]
+		],
+		"11" : [
+			[ "despejare" ],
+			[ "despejares" ],
+			[ "despejare" ],
+			[ "despejáremos" ],
+			[ "despejareis", "despejaren" ],
+			[ "despejaren" ]
+		],
+		"12" : {
+			"1" : [ "despeja" ],
+			"2" : [ "despeje" ],
+			"3" : [ "despejemos" ],
+			"4" : [ "despejad" ],
+			"5" : [ "despejen" ]
+		}
+	}
+}

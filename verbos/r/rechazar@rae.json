@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rechazar",
+	"word" : "rechazar",
+	"infinitivo" : "rechazar",
+	"participio" : [ "rechazado" ],
+	"gerundio" : [ "rechazando" ],
+	"tenses" : {
+		"3" : [
+			[ "rechazo" ],
+			[ "rechazas", "rechazás" ],
+			[ "rechaza" ],
+			[ "rechazamos" ],
+			[ "rechazáis", "rechazan" ],
+			[ "rechazan" ]
+		],
+		"4" : [
+			[ "rechacé" ],
+			[ "rechazaste" ],
+			[ "rechazó" ],
+			[ "rechazamos" ],
+			[ "rechazasteis", "rechazaron" ],
+			[ "rechazaron" ]
+		],
+		"5" : [
+			[ "rechazaba" ],
+			[ "rechazabas" ],
+			[ "rechazaba" ],
+			[ "rechazábamos" ],
+			[ "rechazabais", "rechazaban" ],
+			[ "rechazaban" ]
+		],
+		"6" : [
+			[ "rechazaría" ],
+			[ "rechazarías" ],
+			[ "rechazaría" ],
+			[ "rechazaríamos" ],
+			[ "rechazaríais", "rechazarían" ],
+			[ "rechazarían" ]
+		],
+		"7" : [
+			[ "rechazaré" ],
+			[ "rechazarás" ],
+			[ "rechazará" ],
+			[ "rechazaremos" ],
+			[ "rechazaréis", "rechazarán" ],
+			[ "rechazarán" ]
+		],
+		"8" : [
+			[ "rechace" ],
+			[ "rechaces" ],
+			[ "rechace" ],
+			[ "rechacemos" ],
+			[ "rechacéis", "rechacen" ],
+			[ "rechacen" ]
+		],
+		"9" : [
+			[ "rechazara" ],
+			[ "rechazaras" ],
+			[ "rechazara" ],
+			[ "rechazáramos" ],
+			[ "rechazarais", "rechazaran" ],
+			[ "rechazaran" ]
+		],
+		"10" : [
+			[ "rechazase" ],
+			[ "rechazases" ],
+			[ "rechazase" ],
+			[ "rechazásemos" ],
+			[ "rechazaseis", "rechazasen" ],
+			[ "rechazasen" ]
+		],
+		"11" : [
+			[ "rechazare" ],
+			[ "rechazares" ],
+			[ "rechazare" ],
+			[ "rechazáremos" ],
+			[ "rechazareis", "rechazaren" ],
+			[ "rechazaren" ]
+		],
+		"12" : {
+			"1" : [ "rechaza" ],
+			"2" : [ "rechace" ],
+			"3" : [ "rechacemos" ],
+			"4" : [ "rechazad" ],
+			"5" : [ "rechacen" ]
+		}
+	}
+}

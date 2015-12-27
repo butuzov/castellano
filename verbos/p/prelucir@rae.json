@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prelucir",
+	"word" : "prelucir",
+	"infinitivo" : "prelucir",
+	"participio" : [ "prelucido" ],
+	"gerundio" : [ "preluciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "preluzco" ],
+			[ "preluces", "prelucís" ],
+			[ "preluce" ],
+			[ "prelucimos" ],
+			[ "prelucís", "prelucen" ],
+			[ "prelucen" ]
+		],
+		"4" : [
+			[ "prelucí" ],
+			[ "preluciste" ],
+			[ "prelució" ],
+			[ "prelucimos" ],
+			[ "prelucisteis", "prelucieron" ],
+			[ "prelucieron" ]
+		],
+		"5" : [
+			[ "prelucía" ],
+			[ "prelucías" ],
+			[ "prelucía" ],
+			[ "prelucíamos" ],
+			[ "prelucíais", "prelucían" ],
+			[ "prelucían" ]
+		],
+		"6" : [
+			[ "preluciría" ],
+			[ "prelucirías" ],
+			[ "preluciría" ],
+			[ "preluciríamos" ],
+			[ "preluciríais", "prelucirían" ],
+			[ "prelucirían" ]
+		],
+		"7" : [
+			[ "preluciré" ],
+			[ "prelucirás" ],
+			[ "prelucirá" ],
+			[ "preluciremos" ],
+			[ "preluciréis", "prelucirán" ],
+			[ "prelucirán" ]
+		],
+		"8" : [
+			[ "preluzca" ],
+			[ "preluzcas" ],
+			[ "preluzca" ],
+			[ "preluzcamos" ],
+			[ "preluzcáis", "preluzcan" ],
+			[ "preluzcan" ]
+		],
+		"9" : [
+			[ "preluciera" ],
+			[ "prelucieras" ],
+			[ "preluciera" ],
+			[ "preluciéramos" ],
+			[ "prelucierais", "prelucieran" ],
+			[ "prelucieran" ]
+		],
+		"10" : [
+			[ "preluciese" ],
+			[ "prelucieses" ],
+			[ "preluciese" ],
+			[ "preluciésemos" ],
+			[ "prelucieseis", "preluciesen" ],
+			[ "preluciesen" ]
+		],
+		"11" : [
+			[ "preluciere" ],
+			[ "prelucieres" ],
+			[ "preluciere" ],
+			[ "preluciéremos" ],
+			[ "preluciereis", "prelucieren" ],
+			[ "prelucieren" ]
+		],
+		"12" : {
+			"1" : [ "preluce" ],
+			"2" : [ "preluzca" ],
+			"3" : [ "preluzcamos" ],
+			"4" : [ "prelucid" ],
+			"5" : [ "preluzcan" ]
+		}
+	}
+}

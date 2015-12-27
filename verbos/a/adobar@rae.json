@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adobar",
+	"word" : "adobar",
+	"infinitivo" : "adobar",
+	"participio" : [ "adobado" ],
+	"gerundio" : [ "adobando" ],
+	"tenses" : {
+		"3" : [
+			[ "adobo" ],
+			[ "adobas", "adobás" ],
+			[ "adoba" ],
+			[ "adobamos" ],
+			[ "adobáis", "adoban" ],
+			[ "adoban" ]
+		],
+		"4" : [
+			[ "adobé" ],
+			[ "adobaste" ],
+			[ "adobó" ],
+			[ "adobamos" ],
+			[ "adobasteis", "adobaron" ],
+			[ "adobaron" ]
+		],
+		"5" : [
+			[ "adobaba" ],
+			[ "adobabas" ],
+			[ "adobaba" ],
+			[ "adobábamos" ],
+			[ "adobabais", "adobaban" ],
+			[ "adobaban" ]
+		],
+		"6" : [
+			[ "adobaría" ],
+			[ "adobarías" ],
+			[ "adobaría" ],
+			[ "adobaríamos" ],
+			[ "adobaríais", "adobarían" ],
+			[ "adobarían" ]
+		],
+		"7" : [
+			[ "adobaré" ],
+			[ "adobarás" ],
+			[ "adobará" ],
+			[ "adobaremos" ],
+			[ "adobaréis", "adobarán" ],
+			[ "adobarán" ]
+		],
+		"8" : [
+			[ "adobe" ],
+			[ "adobes" ],
+			[ "adobe" ],
+			[ "adobemos" ],
+			[ "adobéis", "adoben" ],
+			[ "adoben" ]
+		],
+		"9" : [
+			[ "adobara" ],
+			[ "adobaras" ],
+			[ "adobara" ],
+			[ "adobáramos" ],
+			[ "adobarais", "adobaran" ],
+			[ "adobaran" ]
+		],
+		"10" : [
+			[ "adobase" ],
+			[ "adobases" ],
+			[ "adobase" ],
+			[ "adobásemos" ],
+			[ "adobaseis", "adobasen" ],
+			[ "adobasen" ]
+		],
+		"11" : [
+			[ "adobare" ],
+			[ "adobares" ],
+			[ "adobare" ],
+			[ "adobáremos" ],
+			[ "adobareis", "adobaren" ],
+			[ "adobaren" ]
+		],
+		"12" : {
+			"1" : [ "adoba" ],
+			"2" : [ "adobe" ],
+			"3" : [ "adobemos" ],
+			"4" : [ "adobad" ],
+			"5" : [ "adoben" ]
+		}
+	}
+}

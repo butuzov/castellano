@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=informar",
+	"word" : "informar",
+	"infinitivo" : "informar",
+	"participio" : [ "informado" ],
+	"gerundio" : [ "informando" ],
+	"tenses" : {
+		"3" : [
+			[ "informo" ],
+			[ "informas", "informás" ],
+			[ "informa" ],
+			[ "informamos" ],
+			[ "informáis", "informan" ],
+			[ "informan" ]
+		],
+		"4" : [
+			[ "informé" ],
+			[ "informaste" ],
+			[ "informó" ],
+			[ "informamos" ],
+			[ "informasteis", "informaron" ],
+			[ "informaron" ]
+		],
+		"5" : [
+			[ "informaba" ],
+			[ "informabas" ],
+			[ "informaba" ],
+			[ "informábamos" ],
+			[ "informabais", "informaban" ],
+			[ "informaban" ]
+		],
+		"6" : [
+			[ "informaría" ],
+			[ "informarías" ],
+			[ "informaría" ],
+			[ "informaríamos" ],
+			[ "informaríais", "informarían" ],
+			[ "informarían" ]
+		],
+		"7" : [
+			[ "informaré" ],
+			[ "informarás" ],
+			[ "informará" ],
+			[ "informaremos" ],
+			[ "informaréis", "informarán" ],
+			[ "informarán" ]
+		],
+		"8" : [
+			[ "informe" ],
+			[ "informes" ],
+			[ "informe" ],
+			[ "informemos" ],
+			[ "informéis", "informen" ],
+			[ "informen" ]
+		],
+		"9" : [
+			[ "informara" ],
+			[ "informaras" ],
+			[ "informara" ],
+			[ "informáramos" ],
+			[ "informarais", "informaran" ],
+			[ "informaran" ]
+		],
+		"10" : [
+			[ "informase" ],
+			[ "informases" ],
+			[ "informase" ],
+			[ "informásemos" ],
+			[ "informaseis", "informasen" ],
+			[ "informasen" ]
+		],
+		"11" : [
+			[ "informare" ],
+			[ "informares" ],
+			[ "informare" ],
+			[ "informáremos" ],
+			[ "informareis", "informaren" ],
+			[ "informaren" ]
+		],
+		"12" : {
+			"1" : [ "informa" ],
+			"2" : [ "informe" ],
+			"3" : [ "informemos" ],
+			"4" : [ "informad" ],
+			"5" : [ "informen" ]
+		}
+	}
+}

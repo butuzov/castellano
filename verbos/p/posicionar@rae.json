@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=posicionar",
+	"word" : "posicionar",
+	"infinitivo" : "posicionar",
+	"participio" : [ "posicionado" ],
+	"gerundio" : [ "posicionando" ],
+	"tenses" : {
+		"3" : [
+			[ "posiciono" ],
+			[ "posicionas", "posicionás" ],
+			[ "posiciona" ],
+			[ "posicionamos" ],
+			[ "posicionáis", "posicionan" ],
+			[ "posicionan" ]
+		],
+		"4" : [
+			[ "posicioné" ],
+			[ "posicionaste" ],
+			[ "posicionó" ],
+			[ "posicionamos" ],
+			[ "posicionasteis", "posicionaron" ],
+			[ "posicionaron" ]
+		],
+		"5" : [
+			[ "posicionaba" ],
+			[ "posicionabas" ],
+			[ "posicionaba" ],
+			[ "posicionábamos" ],
+			[ "posicionabais", "posicionaban" ],
+			[ "posicionaban" ]
+		],
+		"6" : [
+			[ "posicionaría" ],
+			[ "posicionarías" ],
+			[ "posicionaría" ],
+			[ "posicionaríamos" ],
+			[ "posicionaríais", "posicionarían" ],
+			[ "posicionarían" ]
+		],
+		"7" : [
+			[ "posicionaré" ],
+			[ "posicionarás" ],
+			[ "posicionará" ],
+			[ "posicionaremos" ],
+			[ "posicionaréis", "posicionarán" ],
+			[ "posicionarán" ]
+		],
+		"8" : [
+			[ "posicione" ],
+			[ "posiciones" ],
+			[ "posicione" ],
+			[ "posicionemos" ],
+			[ "posicionéis", "posicionen" ],
+			[ "posicionen" ]
+		],
+		"9" : [
+			[ "posicionara" ],
+			[ "posicionaras" ],
+			[ "posicionara" ],
+			[ "posicionáramos" ],
+			[ "posicionarais", "posicionaran" ],
+			[ "posicionaran" ]
+		],
+		"10" : [
+			[ "posicionase" ],
+			[ "posicionases" ],
+			[ "posicionase" ],
+			[ "posicionásemos" ],
+			[ "posicionaseis", "posicionasen" ],
+			[ "posicionasen" ]
+		],
+		"11" : [
+			[ "posicionare" ],
+			[ "posicionares" ],
+			[ "posicionare" ],
+			[ "posicionáremos" ],
+			[ "posicionareis", "posicionaren" ],
+			[ "posicionaren" ]
+		],
+		"12" : {
+			"1" : [ "posiciona" ],
+			"2" : [ "posicione" ],
+			"3" : [ "posicionemos" ],
+			"4" : [ "posicionad" ],
+			"5" : [ "posicionen" ]
+		}
+	}
+}

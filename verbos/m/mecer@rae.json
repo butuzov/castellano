@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mecer",
+	"word" : "mecer",
+	"infinitivo" : "mecer",
+	"participio" : [ "mecido" ],
+	"gerundio" : [ "meciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "mezo" ],
+			[ "meces", "mecés" ],
+			[ "mece" ],
+			[ "mecemos" ],
+			[ "mecéis", "mecen" ],
+			[ "mecen" ]
+		],
+		"4" : [
+			[ "mecí" ],
+			[ "meciste" ],
+			[ "meció" ],
+			[ "mecimos" ],
+			[ "mecisteis", "mecieron" ],
+			[ "mecieron" ]
+		],
+		"5" : [
+			[ "mecía" ],
+			[ "mecías" ],
+			[ "mecía" ],
+			[ "mecíamos" ],
+			[ "mecíais", "mecían" ],
+			[ "mecían" ]
+		],
+		"6" : [
+			[ "mecería" ],
+			[ "mecerías" ],
+			[ "mecería" ],
+			[ "meceríamos" ],
+			[ "meceríais", "mecerían" ],
+			[ "mecerían" ]
+		],
+		"7" : [
+			[ "meceré" ],
+			[ "mecerás" ],
+			[ "mecerá" ],
+			[ "meceremos" ],
+			[ "meceréis", "mecerán" ],
+			[ "mecerán" ]
+		],
+		"8" : [
+			[ "meza" ],
+			[ "mezas" ],
+			[ "meza" ],
+			[ "mezamos" ],
+			[ "mezáis", "mezan" ],
+			[ "mezan" ]
+		],
+		"9" : [
+			[ "meciera" ],
+			[ "mecieras" ],
+			[ "meciera" ],
+			[ "meciéramos" ],
+			[ "mecierais", "mecieran" ],
+			[ "mecieran" ]
+		],
+		"10" : [
+			[ "meciese" ],
+			[ "mecieses" ],
+			[ "meciese" ],
+			[ "meciésemos" ],
+			[ "mecieseis", "meciesen" ],
+			[ "meciesen" ]
+		],
+		"11" : [
+			[ "meciere" ],
+			[ "mecieres" ],
+			[ "meciere" ],
+			[ "meciéremos" ],
+			[ "meciereis", "mecieren" ],
+			[ "mecieren" ]
+		],
+		"12" : {
+			"1" : [ "mece" ],
+			"2" : [ "meza" ],
+			"3" : [ "mezamos" ],
+			"4" : [ "meced" ],
+			"5" : [ "mezan" ]
+		}
+	}
+}

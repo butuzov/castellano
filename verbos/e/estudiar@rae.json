@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estudiar",
+	"word" : "estudiar",
+	"infinitivo" : "estudiar",
+	"participio" : [ "estudiado" ],
+	"gerundio" : [ "estudiando" ],
+	"tenses" : {
+		"3" : [
+			[ "estudio" ],
+			[ "estudias", "estudiás" ],
+			[ "estudia" ],
+			[ "estudiamos" ],
+			[ "estudiáis", "estudian" ],
+			[ "estudian" ]
+		],
+		"4" : [
+			[ "estudié" ],
+			[ "estudiaste" ],
+			[ "estudió" ],
+			[ "estudiamos" ],
+			[ "estudiasteis", "estudiaron" ],
+			[ "estudiaron" ]
+		],
+		"5" : [
+			[ "estudiaba" ],
+			[ "estudiabas" ],
+			[ "estudiaba" ],
+			[ "estudiábamos" ],
+			[ "estudiabais", "estudiaban" ],
+			[ "estudiaban" ]
+		],
+		"6" : [
+			[ "estudiaría" ],
+			[ "estudiarías" ],
+			[ "estudiaría" ],
+			[ "estudiaríamos" ],
+			[ "estudiaríais", "estudiarían" ],
+			[ "estudiarían" ]
+		],
+		"7" : [
+			[ "estudiaré" ],
+			[ "estudiarás" ],
+			[ "estudiará" ],
+			[ "estudiaremos" ],
+			[ "estudiaréis", "estudiarán" ],
+			[ "estudiarán" ]
+		],
+		"8" : [
+			[ "estudie" ],
+			[ "estudies" ],
+			[ "estudie" ],
+			[ "estudiemos" ],
+			[ "estudiéis", "estudien" ],
+			[ "estudien" ]
+		],
+		"9" : [
+			[ "estudiara" ],
+			[ "estudiaras" ],
+			[ "estudiara" ],
+			[ "estudiáramos" ],
+			[ "estudiarais", "estudiaran" ],
+			[ "estudiaran" ]
+		],
+		"10" : [
+			[ "estudiase" ],
+			[ "estudiases" ],
+			[ "estudiase" ],
+			[ "estudiásemos" ],
+			[ "estudiaseis", "estudiasen" ],
+			[ "estudiasen" ]
+		],
+		"11" : [
+			[ "estudiare" ],
+			[ "estudiares" ],
+			[ "estudiare" ],
+			[ "estudiáremos" ],
+			[ "estudiareis", "estudiaren" ],
+			[ "estudiaren" ]
+		],
+		"12" : {
+			"1" : [ "estudia" ],
+			"2" : [ "estudie" ],
+			"3" : [ "estudiemos" ],
+			"4" : [ "estudiad" ],
+			"5" : [ "estudien" ]
+		}
+	}
+}

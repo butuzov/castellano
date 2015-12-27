@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acompañar",
+	"word" : "acompañar",
+	"infinitivo" : "acompañar",
+	"participio" : [ "acompañado" ],
+	"gerundio" : [ "acompañando" ],
+	"tenses" : {
+		"3" : [
+			[ "acompaño" ],
+			[ "acompañas", "acompañás" ],
+			[ "acompaña" ],
+			[ "acompañamos" ],
+			[ "acompañáis", "acompañan" ],
+			[ "acompañan" ]
+		],
+		"4" : [
+			[ "acompañé" ],
+			[ "acompañaste" ],
+			[ "acompañó" ],
+			[ "acompañamos" ],
+			[ "acompañasteis", "acompañaron" ],
+			[ "acompañaron" ]
+		],
+		"5" : [
+			[ "acompañaba" ],
+			[ "acompañabas" ],
+			[ "acompañaba" ],
+			[ "acompañábamos" ],
+			[ "acompañabais", "acompañaban" ],
+			[ "acompañaban" ]
+		],
+		"6" : [
+			[ "acompañaría" ],
+			[ "acompañarías" ],
+			[ "acompañaría" ],
+			[ "acompañaríamos" ],
+			[ "acompañaríais", "acompañarían" ],
+			[ "acompañarían" ]
+		],
+		"7" : [
+			[ "acompañaré" ],
+			[ "acompañarás" ],
+			[ "acompañará" ],
+			[ "acompañaremos" ],
+			[ "acompañaréis", "acompañarán" ],
+			[ "acompañarán" ]
+		],
+		"8" : [
+			[ "acompañe" ],
+			[ "acompañes" ],
+			[ "acompañe" ],
+			[ "acompañemos" ],
+			[ "acompañéis", "acompañen" ],
+			[ "acompañen" ]
+		],
+		"9" : [
+			[ "acompañara" ],
+			[ "acompañaras" ],
+			[ "acompañara" ],
+			[ "acompañáramos" ],
+			[ "acompañarais", "acompañaran" ],
+			[ "acompañaran" ]
+		],
+		"10" : [
+			[ "acompañase" ],
+			[ "acompañases" ],
+			[ "acompañase" ],
+			[ "acompañásemos" ],
+			[ "acompañaseis", "acompañasen" ],
+			[ "acompañasen" ]
+		],
+		"11" : [
+			[ "acompañare" ],
+			[ "acompañares" ],
+			[ "acompañare" ],
+			[ "acompañáremos" ],
+			[ "acompañareis", "acompañaren" ],
+			[ "acompañaren" ]
+		],
+		"12" : {
+			"1" : [ "acompaña" ],
+			"2" : [ "acompañe" ],
+			"3" : [ "acompañemos" ],
+			"4" : [ "acompañad" ],
+			"5" : [ "acompañen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=llagar",
+	"word" : "llagar",
+	"infinitivo" : "llagar",
+	"participio" : [ "llagado" ],
+	"gerundio" : [ "llagando" ],
+	"tenses" : {
+		"3" : [
+			[ "llago" ],
+			[ "llagas", "llagás" ],
+			[ "llaga" ],
+			[ "llagamos" ],
+			[ "llagáis", "llagan" ],
+			[ "llagan" ]
+		],
+		"4" : [
+			[ "llagué" ],
+			[ "llagaste" ],
+			[ "llagó" ],
+			[ "llagamos" ],
+			[ "llagasteis", "llagaron" ],
+			[ "llagaron" ]
+		],
+		"5" : [
+			[ "llagaba" ],
+			[ "llagabas" ],
+			[ "llagaba" ],
+			[ "llagábamos" ],
+			[ "llagabais", "llagaban" ],
+			[ "llagaban" ]
+		],
+		"6" : [
+			[ "llagaría" ],
+			[ "llagarías" ],
+			[ "llagaría" ],
+			[ "llagaríamos" ],
+			[ "llagaríais", "llagarían" ],
+			[ "llagarían" ]
+		],
+		"7" : [
+			[ "llagaré" ],
+			[ "llagarás" ],
+			[ "llagará" ],
+			[ "llagaremos" ],
+			[ "llagaréis", "llagarán" ],
+			[ "llagarán" ]
+		],
+		"8" : [
+			[ "llague" ],
+			[ "llagues" ],
+			[ "llague" ],
+			[ "llaguemos" ],
+			[ "llaguéis", "llaguen" ],
+			[ "llaguen" ]
+		],
+		"9" : [
+			[ "llagara" ],
+			[ "llagaras" ],
+			[ "llagara" ],
+			[ "llagáramos" ],
+			[ "llagarais", "llagaran" ],
+			[ "llagaran" ]
+		],
+		"10" : [
+			[ "llagase" ],
+			[ "llagases" ],
+			[ "llagase" ],
+			[ "llagásemos" ],
+			[ "llagaseis", "llagasen" ],
+			[ "llagasen" ]
+		],
+		"11" : [
+			[ "llagare" ],
+			[ "llagares" ],
+			[ "llagare" ],
+			[ "llagáremos" ],
+			[ "llagareis", "llagaren" ],
+			[ "llagaren" ]
+		],
+		"12" : {
+			"1" : [ "llaga" ],
+			"2" : [ "llague" ],
+			"3" : [ "llaguemos" ],
+			"4" : [ "llagad" ],
+			"5" : [ "llaguen" ]
+		}
+	}
+}

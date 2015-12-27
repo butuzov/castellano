@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=doler",
+	"word" : "doler",
+	"infinitivo" : "doler",
+	"participio" : [ "dolido" ],
+	"gerundio" : [ "doliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "duelo" ],
+			[ "dueles", "dolés" ],
+			[ "duele" ],
+			[ "dolemos" ],
+			[ "doléis", "duelen" ],
+			[ "duelen" ]
+		],
+		"4" : [
+			[ "dolí" ],
+			[ "doliste" ],
+			[ "dolió" ],
+			[ "dolimos" ],
+			[ "dolisteis", "dolieron" ],
+			[ "dolieron" ]
+		],
+		"5" : [
+			[ "dolía" ],
+			[ "dolías" ],
+			[ "dolía" ],
+			[ "dolíamos" ],
+			[ "dolíais", "dolían" ],
+			[ "dolían" ]
+		],
+		"6" : [
+			[ "dolería" ],
+			[ "dolerías" ],
+			[ "dolería" ],
+			[ "doleríamos" ],
+			[ "doleríais", "dolerían" ],
+			[ "dolerían" ]
+		],
+		"7" : [
+			[ "doleré" ],
+			[ "dolerás" ],
+			[ "dolerá" ],
+			[ "doleremos" ],
+			[ "doleréis", "dolerán" ],
+			[ "dolerán" ]
+		],
+		"8" : [
+			[ "duela" ],
+			[ "duelas" ],
+			[ "duela" ],
+			[ "dolamos" ],
+			[ "doláis", "duelan" ],
+			[ "duelan" ]
+		],
+		"9" : [
+			[ "doliera" ],
+			[ "dolieras" ],
+			[ "doliera" ],
+			[ "doliéramos" ],
+			[ "dolierais", "dolieran" ],
+			[ "dolieran" ]
+		],
+		"10" : [
+			[ "doliese" ],
+			[ "dolieses" ],
+			[ "doliese" ],
+			[ "doliésemos" ],
+			[ "dolieseis", "doliesen" ],
+			[ "doliesen" ]
+		],
+		"11" : [
+			[ "doliere" ],
+			[ "dolieres" ],
+			[ "doliere" ],
+			[ "doliéremos" ],
+			[ "doliereis", "dolieren" ],
+			[ "dolieren" ]
+		],
+		"12" : {
+			"1" : [ "duele" ],
+			"2" : [ "duela" ],
+			"3" : [ "dolamos" ],
+			"4" : [ "doled" ],
+			"5" : [ "duelan" ]
+		}
+	}
+}

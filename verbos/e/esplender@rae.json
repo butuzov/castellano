@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esplender",
+	"word" : "esplender",
+	"infinitivo" : "esplender",
+	"participio" : [ "esplendido" ],
+	"gerundio" : [ "esplendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "esplendo" ],
+			[ "esplendes", "esplendés" ],
+			[ "esplende" ],
+			[ "esplendemos" ],
+			[ "esplendéis", "esplenden" ],
+			[ "esplenden" ]
+		],
+		"4" : [
+			[ "esplendí" ],
+			[ "esplendiste" ],
+			[ "esplendió" ],
+			[ "esplendimos" ],
+			[ "esplendisteis", "esplendieron" ],
+			[ "esplendieron" ]
+		],
+		"5" : [
+			[ "esplendía" ],
+			[ "esplendías" ],
+			[ "esplendía" ],
+			[ "esplendíamos" ],
+			[ "esplendíais", "esplendían" ],
+			[ "esplendían" ]
+		],
+		"6" : [
+			[ "esplendería" ],
+			[ "esplenderías" ],
+			[ "esplendería" ],
+			[ "esplenderíamos" ],
+			[ "esplenderíais", "esplenderían" ],
+			[ "esplenderían" ]
+		],
+		"7" : [
+			[ "esplenderé" ],
+			[ "esplenderás" ],
+			[ "esplenderá" ],
+			[ "esplenderemos" ],
+			[ "esplenderéis", "esplenderán" ],
+			[ "esplenderán" ]
+		],
+		"8" : [
+			[ "esplenda" ],
+			[ "esplendas" ],
+			[ "esplenda" ],
+			[ "esplendamos" ],
+			[ "esplendáis", "esplendan" ],
+			[ "esplendan" ]
+		],
+		"9" : [
+			[ "esplendiera" ],
+			[ "esplendieras" ],
+			[ "esplendiera" ],
+			[ "esplendiéramos" ],
+			[ "esplendierais", "esplendieran" ],
+			[ "esplendieran" ]
+		],
+		"10" : [
+			[ "esplendiese" ],
+			[ "esplendieses" ],
+			[ "esplendiese" ],
+			[ "esplendiésemos" ],
+			[ "esplendieseis", "esplendiesen" ],
+			[ "esplendiesen" ]
+		],
+		"11" : [
+			[ "esplendiere" ],
+			[ "esplendieres" ],
+			[ "esplendiere" ],
+			[ "esplendiéremos" ],
+			[ "esplendiereis", "esplendieren" ],
+			[ "esplendieren" ]
+		],
+		"12" : {
+			"1" : [ "esplende" ],
+			"2" : [ "esplenda" ],
+			"3" : [ "esplendamos" ],
+			"4" : [ "esplended" ],
+			"5" : [ "esplendan" ]
+		}
+	}
+}

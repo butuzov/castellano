@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=federar",
+	"word" : "federar",
+	"infinitivo" : "federar",
+	"participio" : [ "federado" ],
+	"gerundio" : [ "federando" ],
+	"tenses" : {
+		"3" : [
+			[ "federo" ],
+			[ "federas", "federás" ],
+			[ "federa" ],
+			[ "federamos" ],
+			[ "federáis", "federan" ],
+			[ "federan" ]
+		],
+		"4" : [
+			[ "federé" ],
+			[ "federaste" ],
+			[ "federó" ],
+			[ "federamos" ],
+			[ "federasteis", "federaron" ],
+			[ "federaron" ]
+		],
+		"5" : [
+			[ "federaba" ],
+			[ "federabas" ],
+			[ "federaba" ],
+			[ "federábamos" ],
+			[ "federabais", "federaban" ],
+			[ "federaban" ]
+		],
+		"6" : [
+			[ "federaría" ],
+			[ "federarías" ],
+			[ "federaría" ],
+			[ "federaríamos" ],
+			[ "federaríais", "federarían" ],
+			[ "federarían" ]
+		],
+		"7" : [
+			[ "federaré" ],
+			[ "federarás" ],
+			[ "federará" ],
+			[ "federaremos" ],
+			[ "federaréis", "federarán" ],
+			[ "federarán" ]
+		],
+		"8" : [
+			[ "federe" ],
+			[ "federes" ],
+			[ "federe" ],
+			[ "federemos" ],
+			[ "federéis", "federen" ],
+			[ "federen" ]
+		],
+		"9" : [
+			[ "federara" ],
+			[ "federaras" ],
+			[ "federara" ],
+			[ "federáramos" ],
+			[ "federarais", "federaran" ],
+			[ "federaran" ]
+		],
+		"10" : [
+			[ "federase" ],
+			[ "federases" ],
+			[ "federase" ],
+			[ "federásemos" ],
+			[ "federaseis", "federasen" ],
+			[ "federasen" ]
+		],
+		"11" : [
+			[ "federare" ],
+			[ "federares" ],
+			[ "federare" ],
+			[ "federáremos" ],
+			[ "federareis", "federaren" ],
+			[ "federaren" ]
+		],
+		"12" : {
+			"1" : [ "federa" ],
+			"2" : [ "federe" ],
+			"3" : [ "federemos" ],
+			"4" : [ "federad" ],
+			"5" : [ "federen" ]
+		}
+	}
+}

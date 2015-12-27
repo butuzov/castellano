@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=militar",
+	"word" : "militar",
+	"infinitivo" : "militar",
+	"participio" : [ "militado" ],
+	"gerundio" : [ "militando" ],
+	"tenses" : {
+		"3" : [
+			[ "milito" ],
+			[ "militas", "militás" ],
+			[ "milita" ],
+			[ "militamos" ],
+			[ "militáis", "militan" ],
+			[ "militan" ]
+		],
+		"4" : [
+			[ "milité" ],
+			[ "militaste" ],
+			[ "militó" ],
+			[ "militamos" ],
+			[ "militasteis", "militaron" ],
+			[ "militaron" ]
+		],
+		"5" : [
+			[ "militaba" ],
+			[ "militabas" ],
+			[ "militaba" ],
+			[ "militábamos" ],
+			[ "militabais", "militaban" ],
+			[ "militaban" ]
+		],
+		"6" : [
+			[ "militaría" ],
+			[ "militarías" ],
+			[ "militaría" ],
+			[ "militaríamos" ],
+			[ "militaríais", "militarían" ],
+			[ "militarían" ]
+		],
+		"7" : [
+			[ "militaré" ],
+			[ "militarás" ],
+			[ "militará" ],
+			[ "militaremos" ],
+			[ "militaréis", "militarán" ],
+			[ "militarán" ]
+		],
+		"8" : [
+			[ "milite" ],
+			[ "milites" ],
+			[ "milite" ],
+			[ "militemos" ],
+			[ "militéis", "militen" ],
+			[ "militen" ]
+		],
+		"9" : [
+			[ "militara" ],
+			[ "militaras" ],
+			[ "militara" ],
+			[ "militáramos" ],
+			[ "militarais", "militaran" ],
+			[ "militaran" ]
+		],
+		"10" : [
+			[ "militase" ],
+			[ "militases" ],
+			[ "militase" ],
+			[ "militásemos" ],
+			[ "militaseis", "militasen" ],
+			[ "militasen" ]
+		],
+		"11" : [
+			[ "militare" ],
+			[ "militares" ],
+			[ "militare" ],
+			[ "militáremos" ],
+			[ "militareis", "militaren" ],
+			[ "militaren" ]
+		],
+		"12" : {
+			"1" : [ "milita" ],
+			"2" : [ "milite" ],
+			"3" : [ "militemos" ],
+			"4" : [ "militad" ],
+			"5" : [ "militen" ]
+		}
+	}
+}

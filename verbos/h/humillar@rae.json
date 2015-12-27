@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=humillar",
+	"word" : "humillar",
+	"infinitivo" : "humillar",
+	"participio" : [ "humillado" ],
+	"gerundio" : [ "humillando" ],
+	"tenses" : {
+		"3" : [
+			[ "humillo" ],
+			[ "humillas", "humillás" ],
+			[ "humilla" ],
+			[ "humillamos" ],
+			[ "humilláis", "humillan" ],
+			[ "humillan" ]
+		],
+		"4" : [
+			[ "humillé" ],
+			[ "humillaste" ],
+			[ "humilló" ],
+			[ "humillamos" ],
+			[ "humillasteis", "humillaron" ],
+			[ "humillaron" ]
+		],
+		"5" : [
+			[ "humillaba" ],
+			[ "humillabas" ],
+			[ "humillaba" ],
+			[ "humillábamos" ],
+			[ "humillabais", "humillaban" ],
+			[ "humillaban" ]
+		],
+		"6" : [
+			[ "humillaría" ],
+			[ "humillarías" ],
+			[ "humillaría" ],
+			[ "humillaríamos" ],
+			[ "humillaríais", "humillarían" ],
+			[ "humillarían" ]
+		],
+		"7" : [
+			[ "humillaré" ],
+			[ "humillarás" ],
+			[ "humillará" ],
+			[ "humillaremos" ],
+			[ "humillaréis", "humillarán" ],
+			[ "humillarán" ]
+		],
+		"8" : [
+			[ "humille" ],
+			[ "humilles" ],
+			[ "humille" ],
+			[ "humillemos" ],
+			[ "humilléis", "humillen" ],
+			[ "humillen" ]
+		],
+		"9" : [
+			[ "humillara" ],
+			[ "humillaras" ],
+			[ "humillara" ],
+			[ "humilláramos" ],
+			[ "humillarais", "humillaran" ],
+			[ "humillaran" ]
+		],
+		"10" : [
+			[ "humillase" ],
+			[ "humillases" ],
+			[ "humillase" ],
+			[ "humillásemos" ],
+			[ "humillaseis", "humillasen" ],
+			[ "humillasen" ]
+		],
+		"11" : [
+			[ "humillare" ],
+			[ "humillares" ],
+			[ "humillare" ],
+			[ "humilláremos" ],
+			[ "humillareis", "humillaren" ],
+			[ "humillaren" ]
+		],
+		"12" : {
+			"1" : [ "humilla" ],
+			"2" : [ "humille" ],
+			"3" : [ "humillemos" ],
+			"4" : [ "humillad" ],
+			"5" : [ "humillen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estorbar",
+	"word" : "estorbar",
+	"infinitivo" : "estorbar",
+	"participio" : [ "estorbado" ],
+	"gerundio" : [ "estorbando" ],
+	"tenses" : {
+		"3" : [
+			[ "estorbo" ],
+			[ "estorbas", "estorbás" ],
+			[ "estorba" ],
+			[ "estorbamos" ],
+			[ "estorbáis", "estorban" ],
+			[ "estorban" ]
+		],
+		"4" : [
+			[ "estorbé" ],
+			[ "estorbaste" ],
+			[ "estorbó" ],
+			[ "estorbamos" ],
+			[ "estorbasteis", "estorbaron" ],
+			[ "estorbaron" ]
+		],
+		"5" : [
+			[ "estorbaba" ],
+			[ "estorbabas" ],
+			[ "estorbaba" ],
+			[ "estorbábamos" ],
+			[ "estorbabais", "estorbaban" ],
+			[ "estorbaban" ]
+		],
+		"6" : [
+			[ "estorbaría" ],
+			[ "estorbarías" ],
+			[ "estorbaría" ],
+			[ "estorbaríamos" ],
+			[ "estorbaríais", "estorbarían" ],
+			[ "estorbarían" ]
+		],
+		"7" : [
+			[ "estorbaré" ],
+			[ "estorbarás" ],
+			[ "estorbará" ],
+			[ "estorbaremos" ],
+			[ "estorbaréis", "estorbarán" ],
+			[ "estorbarán" ]
+		],
+		"8" : [
+			[ "estorbe" ],
+			[ "estorbes" ],
+			[ "estorbe" ],
+			[ "estorbemos" ],
+			[ "estorbéis", "estorben" ],
+			[ "estorben" ]
+		],
+		"9" : [
+			[ "estorbara" ],
+			[ "estorbaras" ],
+			[ "estorbara" ],
+			[ "estorbáramos" ],
+			[ "estorbarais", "estorbaran" ],
+			[ "estorbaran" ]
+		],
+		"10" : [
+			[ "estorbase" ],
+			[ "estorbases" ],
+			[ "estorbase" ],
+			[ "estorbásemos" ],
+			[ "estorbaseis", "estorbasen" ],
+			[ "estorbasen" ]
+		],
+		"11" : [
+			[ "estorbare" ],
+			[ "estorbares" ],
+			[ "estorbare" ],
+			[ "estorbáremos" ],
+			[ "estorbareis", "estorbaren" ],
+			[ "estorbaren" ]
+		],
+		"12" : {
+			"1" : [ "estorba" ],
+			"2" : [ "estorbe" ],
+			"3" : [ "estorbemos" ],
+			"4" : [ "estorbad" ],
+			"5" : [ "estorben" ]
+		}
+	}
+}

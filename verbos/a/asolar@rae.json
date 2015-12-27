@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asolar",
+	"word" : "asolar",
+	"infinitivo" : "asolar",
+	"participio" : [ "asolado" ],
+	"gerundio" : [ "asolando" ],
+	"tenses" : {
+		"3" : [
+			[ "asuelo" ],
+			[ "asuelas", "asolás" ],
+			[ "asuela" ],
+			[ "asolamos" ],
+			[ "asoláis", "asuelan" ],
+			[ "asuelan" ]
+		],
+		"4" : [
+			[ "asolé" ],
+			[ "asolaste" ],
+			[ "asoló" ],
+			[ "asolamos" ],
+			[ "asolasteis", "asolaron" ],
+			[ "asolaron" ]
+		],
+		"5" : [
+			[ "asolaba" ],
+			[ "asolabas" ],
+			[ "asolaba" ],
+			[ "asolábamos" ],
+			[ "asolabais", "asolaban" ],
+			[ "asolaban" ]
+		],
+		"6" : [
+			[ "asolaría" ],
+			[ "asolarías" ],
+			[ "asolaría" ],
+			[ "asolaríamos" ],
+			[ "asolaríais", "asolarían" ],
+			[ "asolarían" ]
+		],
+		"7" : [
+			[ "asolaré" ],
+			[ "asolarás" ],
+			[ "asolará" ],
+			[ "asolaremos" ],
+			[ "asolaréis", "asolarán" ],
+			[ "asolarán" ]
+		],
+		"8" : [
+			[ "asuele" ],
+			[ "asueles" ],
+			[ "asuele" ],
+			[ "asolemos" ],
+			[ "asoléis", "asuelen" ],
+			[ "asuelen" ]
+		],
+		"9" : [
+			[ "asolara" ],
+			[ "asolaras" ],
+			[ "asolara" ],
+			[ "asoláramos" ],
+			[ "asolarais", "asolaran" ],
+			[ "asolaran" ]
+		],
+		"10" : [
+			[ "asolase" ],
+			[ "asolases" ],
+			[ "asolase" ],
+			[ "asolásemos" ],
+			[ "asolaseis", "asolasen" ],
+			[ "asolasen" ]
+		],
+		"11" : [
+			[ "asolare" ],
+			[ "asolares" ],
+			[ "asolare" ],
+			[ "asoláremos" ],
+			[ "asolareis", "asolaren" ],
+			[ "asolaren" ]
+		],
+		"12" : {
+			"1" : [ "asuela" ],
+			"2" : [ "asuele" ],
+			"3" : [ "asolemos" ],
+			"4" : [ "asolad" ],
+			"5" : [ "asuelen" ]
+		}
+	}
+}

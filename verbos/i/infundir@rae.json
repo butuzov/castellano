@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=infundir",
+	"word" : "infundir",
+	"infinitivo" : "infundir",
+	"participio" : [ "infundido" ],
+	"gerundio" : [ "infundiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "infundo" ],
+			[ "infundes", "infundís" ],
+			[ "infunde" ],
+			[ "infundimos" ],
+			[ "infundís", "infunden" ],
+			[ "infunden" ]
+		],
+		"4" : [
+			[ "infundí" ],
+			[ "infundiste" ],
+			[ "infundió" ],
+			[ "infundimos" ],
+			[ "infundisteis", "infundieron" ],
+			[ "infundieron" ]
+		],
+		"5" : [
+			[ "infundía" ],
+			[ "infundías" ],
+			[ "infundía" ],
+			[ "infundíamos" ],
+			[ "infundíais", "infundían" ],
+			[ "infundían" ]
+		],
+		"6" : [
+			[ "infundiría" ],
+			[ "infundirías" ],
+			[ "infundiría" ],
+			[ "infundiríamos" ],
+			[ "infundiríais", "infundirían" ],
+			[ "infundirían" ]
+		],
+		"7" : [
+			[ "infundiré" ],
+			[ "infundirás" ],
+			[ "infundirá" ],
+			[ "infundiremos" ],
+			[ "infundiréis", "infundirán" ],
+			[ "infundirán" ]
+		],
+		"8" : [
+			[ "infunda" ],
+			[ "infundas" ],
+			[ "infunda" ],
+			[ "infundamos" ],
+			[ "infundáis", "infundan" ],
+			[ "infundan" ]
+		],
+		"9" : [
+			[ "infundiera" ],
+			[ "infundieras" ],
+			[ "infundiera" ],
+			[ "infundiéramos" ],
+			[ "infundierais", "infundieran" ],
+			[ "infundieran" ]
+		],
+		"10" : [
+			[ "infundiese" ],
+			[ "infundieses" ],
+			[ "infundiese" ],
+			[ "infundiésemos" ],
+			[ "infundieseis", "infundiesen" ],
+			[ "infundiesen" ]
+		],
+		"11" : [
+			[ "infundiere" ],
+			[ "infundieres" ],
+			[ "infundiere" ],
+			[ "infundiéremos" ],
+			[ "infundiereis", "infundieren" ],
+			[ "infundieren" ]
+		],
+		"12" : {
+			"1" : [ "infunde" ],
+			"2" : [ "infunda" ],
+			"3" : [ "infundamos" ],
+			"4" : [ "infundid" ],
+			"5" : [ "infundan" ]
+		}
+	}
+}

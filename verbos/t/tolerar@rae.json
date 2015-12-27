@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tolerar",
+	"word" : "tolerar",
+	"infinitivo" : "tolerar",
+	"participio" : [ "tolerado" ],
+	"gerundio" : [ "tolerando" ],
+	"tenses" : {
+		"3" : [
+			[ "tolero" ],
+			[ "toleras", "tolerás" ],
+			[ "tolera" ],
+			[ "toleramos" ],
+			[ "toleráis", "toleran" ],
+			[ "toleran" ]
+		],
+		"4" : [
+			[ "toleré" ],
+			[ "toleraste" ],
+			[ "toleró" ],
+			[ "toleramos" ],
+			[ "tolerasteis", "toleraron" ],
+			[ "toleraron" ]
+		],
+		"5" : [
+			[ "toleraba" ],
+			[ "tolerabas" ],
+			[ "toleraba" ],
+			[ "tolerábamos" ],
+			[ "tolerabais", "toleraban" ],
+			[ "toleraban" ]
+		],
+		"6" : [
+			[ "toleraría" ],
+			[ "tolerarías" ],
+			[ "toleraría" ],
+			[ "toleraríamos" ],
+			[ "toleraríais", "tolerarían" ],
+			[ "tolerarían" ]
+		],
+		"7" : [
+			[ "toleraré" ],
+			[ "tolerarás" ],
+			[ "tolerará" ],
+			[ "toleraremos" ],
+			[ "toleraréis", "tolerarán" ],
+			[ "tolerarán" ]
+		],
+		"8" : [
+			[ "tolere" ],
+			[ "toleres" ],
+			[ "tolere" ],
+			[ "toleremos" ],
+			[ "toleréis", "toleren" ],
+			[ "toleren" ]
+		],
+		"9" : [
+			[ "tolerara" ],
+			[ "toleraras" ],
+			[ "tolerara" ],
+			[ "toleráramos" ],
+			[ "tolerarais", "toleraran" ],
+			[ "toleraran" ]
+		],
+		"10" : [
+			[ "tolerase" ],
+			[ "tolerases" ],
+			[ "tolerase" ],
+			[ "tolerásemos" ],
+			[ "toleraseis", "tolerasen" ],
+			[ "tolerasen" ]
+		],
+		"11" : [
+			[ "tolerare" ],
+			[ "tolerares" ],
+			[ "tolerare" ],
+			[ "toleráremos" ],
+			[ "tolerareis", "toleraren" ],
+			[ "toleraren" ]
+		],
+		"12" : {
+			"1" : [ "tolera" ],
+			"2" : [ "tolere" ],
+			"3" : [ "toleremos" ],
+			"4" : [ "tolerad" ],
+			"5" : [ "toleren" ]
+		}
+	}
+}

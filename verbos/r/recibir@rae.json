@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recibir",
+	"word" : "recibir",
+	"infinitivo" : "recibir",
+	"participio" : [ "recibido" ],
+	"gerundio" : [ "recibiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "recibo" ],
+			[ "recibes", "recibís" ],
+			[ "recibe" ],
+			[ "recibimos" ],
+			[ "recibís", "reciben" ],
+			[ "reciben" ]
+		],
+		"4" : [
+			[ "recibí" ],
+			[ "recibiste" ],
+			[ "recibió" ],
+			[ "recibimos" ],
+			[ "recibisteis", "recibieron" ],
+			[ "recibieron" ]
+		],
+		"5" : [
+			[ "recibía" ],
+			[ "recibías" ],
+			[ "recibía" ],
+			[ "recibíamos" ],
+			[ "recibíais", "recibían" ],
+			[ "recibían" ]
+		],
+		"6" : [
+			[ "recibiría" ],
+			[ "recibirías" ],
+			[ "recibiría" ],
+			[ "recibiríamos" ],
+			[ "recibiríais", "recibirían" ],
+			[ "recibirían" ]
+		],
+		"7" : [
+			[ "recibiré" ],
+			[ "recibirás" ],
+			[ "recibirá" ],
+			[ "recibiremos" ],
+			[ "recibiréis", "recibirán" ],
+			[ "recibirán" ]
+		],
+		"8" : [
+			[ "reciba" ],
+			[ "recibas" ],
+			[ "reciba" ],
+			[ "recibamos" ],
+			[ "recibáis", "reciban" ],
+			[ "reciban" ]
+		],
+		"9" : [
+			[ "recibiera" ],
+			[ "recibieras" ],
+			[ "recibiera" ],
+			[ "recibiéramos" ],
+			[ "recibierais", "recibieran" ],
+			[ "recibieran" ]
+		],
+		"10" : [
+			[ "recibiese" ],
+			[ "recibieses" ],
+			[ "recibiese" ],
+			[ "recibiésemos" ],
+			[ "recibieseis", "recibiesen" ],
+			[ "recibiesen" ]
+		],
+		"11" : [
+			[ "recibiere" ],
+			[ "recibieres" ],
+			[ "recibiere" ],
+			[ "recibiéremos" ],
+			[ "recibiereis", "recibieren" ],
+			[ "recibieren" ]
+		],
+		"12" : {
+			"1" : [ "recibe" ],
+			"2" : [ "reciba" ],
+			"3" : [ "recibamos" ],
+			"4" : [ "recibid" ],
+			"5" : [ "reciban" ]
+		}
+	}
+}

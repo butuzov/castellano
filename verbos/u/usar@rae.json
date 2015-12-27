@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=usar",
+	"word" : "usar",
+	"infinitivo" : "usar",
+	"participio" : [ "usado" ],
+	"gerundio" : [ "usando" ],
+	"tenses" : {
+		"3" : [
+			[ "uso" ],
+			[ "usas", "usás" ],
+			[ "usa" ],
+			[ "usamos" ],
+			[ "usáis", "usan" ],
+			[ "usan" ]
+		],
+		"4" : [
+			[ "usé" ],
+			[ "usaste" ],
+			[ "usó" ],
+			[ "usamos" ],
+			[ "usasteis", "usaron" ],
+			[ "usaron" ]
+		],
+		"5" : [
+			[ "usaba" ],
+			[ "usabas" ],
+			[ "usaba" ],
+			[ "usábamos" ],
+			[ "usabais", "usaban" ],
+			[ "usaban" ]
+		],
+		"6" : [
+			[ "usaría" ],
+			[ "usarías" ],
+			[ "usaría" ],
+			[ "usaríamos" ],
+			[ "usaríais", "usarían" ],
+			[ "usarían" ]
+		],
+		"7" : [
+			[ "usaré" ],
+			[ "usarás" ],
+			[ "usará" ],
+			[ "usaremos" ],
+			[ "usaréis", "usarán" ],
+			[ "usarán" ]
+		],
+		"8" : [
+			[ "use" ],
+			[ "uses" ],
+			[ "use" ],
+			[ "usemos" ],
+			[ "uséis", "usen" ],
+			[ "usen" ]
+		],
+		"9" : [
+			[ "usara" ],
+			[ "usaras" ],
+			[ "usara" ],
+			[ "usáramos" ],
+			[ "usarais", "usaran" ],
+			[ "usaran" ]
+		],
+		"10" : [
+			[ "usase" ],
+			[ "usases" ],
+			[ "usase" ],
+			[ "usásemos" ],
+			[ "usaseis", "usasen" ],
+			[ "usasen" ]
+		],
+		"11" : [
+			[ "usare" ],
+			[ "usares" ],
+			[ "usare" ],
+			[ "usáremos" ],
+			[ "usareis", "usaren" ],
+			[ "usaren" ]
+		],
+		"12" : {
+			"1" : [ "usa" ],
+			"2" : [ "use" ],
+			"3" : [ "usemos" ],
+			"4" : [ "usad" ],
+			"5" : [ "usen" ]
+		}
+	}
+}

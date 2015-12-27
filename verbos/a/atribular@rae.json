@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atribular",
+	"word" : "atribular",
+	"infinitivo" : "atribular",
+	"participio" : [ "atribulado" ],
+	"gerundio" : [ "atribulando" ],
+	"tenses" : {
+		"3" : [
+			[ "atribulo" ],
+			[ "atribulas", "atribulás" ],
+			[ "atribula" ],
+			[ "atribulamos" ],
+			[ "atribuláis", "atribulan" ],
+			[ "atribulan" ]
+		],
+		"4" : [
+			[ "atribulé" ],
+			[ "atribulaste" ],
+			[ "atribuló" ],
+			[ "atribulamos" ],
+			[ "atribulasteis", "atribularon" ],
+			[ "atribularon" ]
+		],
+		"5" : [
+			[ "atribulaba" ],
+			[ "atribulabas" ],
+			[ "atribulaba" ],
+			[ "atribulábamos" ],
+			[ "atribulabais", "atribulaban" ],
+			[ "atribulaban" ]
+		],
+		"6" : [
+			[ "atribularía" ],
+			[ "atribularías" ],
+			[ "atribularía" ],
+			[ "atribularíamos" ],
+			[ "atribularíais", "atribularían" ],
+			[ "atribularían" ]
+		],
+		"7" : [
+			[ "atribularé" ],
+			[ "atribularás" ],
+			[ "atribulará" ],
+			[ "atribularemos" ],
+			[ "atribularéis", "atribularán" ],
+			[ "atribularán" ]
+		],
+		"8" : [
+			[ "atribule" ],
+			[ "atribules" ],
+			[ "atribule" ],
+			[ "atribulemos" ],
+			[ "atribuléis", "atribulen" ],
+			[ "atribulen" ]
+		],
+		"9" : [
+			[ "atribulara" ],
+			[ "atribularas" ],
+			[ "atribulara" ],
+			[ "atribuláramos" ],
+			[ "atribularais", "atribularan" ],
+			[ "atribularan" ]
+		],
+		"10" : [
+			[ "atribulase" ],
+			[ "atribulases" ],
+			[ "atribulase" ],
+			[ "atribulásemos" ],
+			[ "atribulaseis", "atribulasen" ],
+			[ "atribulasen" ]
+		],
+		"11" : [
+			[ "atribulare" ],
+			[ "atribulares" ],
+			[ "atribulare" ],
+			[ "atribuláremos" ],
+			[ "atribulareis", "atribularen" ],
+			[ "atribularen" ]
+		],
+		"12" : {
+			"1" : [ "atribula" ],
+			"2" : [ "atribule" ],
+			"3" : [ "atribulemos" ],
+			"4" : [ "atribulad" ],
+			"5" : [ "atribulen" ]
+		}
+	}
+}

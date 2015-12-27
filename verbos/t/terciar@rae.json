@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=terciar",
+	"word" : "terciar",
+	"infinitivo" : "terciar",
+	"participio" : [ "terciado" ],
+	"gerundio" : [ "terciando" ],
+	"tenses" : {
+		"3" : [
+			[ "tercio" ],
+			[ "tercias", "terciás" ],
+			[ "tercia" ],
+			[ "terciamos" ],
+			[ "terciáis", "tercian" ],
+			[ "tercian" ]
+		],
+		"4" : [
+			[ "tercié" ],
+			[ "terciaste" ],
+			[ "terció" ],
+			[ "terciamos" ],
+			[ "terciasteis", "terciaron" ],
+			[ "terciaron" ]
+		],
+		"5" : [
+			[ "terciaba" ],
+			[ "terciabas" ],
+			[ "terciaba" ],
+			[ "terciábamos" ],
+			[ "terciabais", "terciaban" ],
+			[ "terciaban" ]
+		],
+		"6" : [
+			[ "terciaría" ],
+			[ "terciarías" ],
+			[ "terciaría" ],
+			[ "terciaríamos" ],
+			[ "terciaríais", "terciarían" ],
+			[ "terciarían" ]
+		],
+		"7" : [
+			[ "terciaré" ],
+			[ "terciarás" ],
+			[ "terciará" ],
+			[ "terciaremos" ],
+			[ "terciaréis", "terciarán" ],
+			[ "terciarán" ]
+		],
+		"8" : [
+			[ "tercie" ],
+			[ "tercies" ],
+			[ "tercie" ],
+			[ "terciemos" ],
+			[ "terciéis", "tercien" ],
+			[ "tercien" ]
+		],
+		"9" : [
+			[ "terciara" ],
+			[ "terciaras" ],
+			[ "terciara" ],
+			[ "terciáramos" ],
+			[ "terciarais", "terciaran" ],
+			[ "terciaran" ]
+		],
+		"10" : [
+			[ "terciase" ],
+			[ "terciases" ],
+			[ "terciase" ],
+			[ "terciásemos" ],
+			[ "terciaseis", "terciasen" ],
+			[ "terciasen" ]
+		],
+		"11" : [
+			[ "terciare" ],
+			[ "terciares" ],
+			[ "terciare" ],
+			[ "terciáremos" ],
+			[ "terciareis", "terciaren" ],
+			[ "terciaren" ]
+		],
+		"12" : {
+			"1" : [ "tercia" ],
+			"2" : [ "tercie" ],
+			"3" : [ "terciemos" ],
+			"4" : [ "terciad" ],
+			"5" : [ "tercien" ]
+		}
+	}
+}

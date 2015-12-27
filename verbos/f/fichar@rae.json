@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fichar",
+	"word" : "fichar",
+	"infinitivo" : "fichar",
+	"participio" : [ "fichado" ],
+	"gerundio" : [ "fichando" ],
+	"tenses" : {
+		"3" : [
+			[ "ficho" ],
+			[ "fichas", "fichás" ],
+			[ "ficha" ],
+			[ "fichamos" ],
+			[ "ficháis", "fichan" ],
+			[ "fichan" ]
+		],
+		"4" : [
+			[ "fiché" ],
+			[ "fichaste" ],
+			[ "fichó" ],
+			[ "fichamos" ],
+			[ "fichasteis", "ficharon" ],
+			[ "ficharon" ]
+		],
+		"5" : [
+			[ "fichaba" ],
+			[ "fichabas" ],
+			[ "fichaba" ],
+			[ "fichábamos" ],
+			[ "fichabais", "fichaban" ],
+			[ "fichaban" ]
+		],
+		"6" : [
+			[ "ficharía" ],
+			[ "ficharías" ],
+			[ "ficharía" ],
+			[ "ficharíamos" ],
+			[ "ficharíais", "ficharían" ],
+			[ "ficharían" ]
+		],
+		"7" : [
+			[ "ficharé" ],
+			[ "ficharás" ],
+			[ "fichará" ],
+			[ "ficharemos" ],
+			[ "ficharéis", "ficharán" ],
+			[ "ficharán" ]
+		],
+		"8" : [
+			[ "fiche" ],
+			[ "fiches" ],
+			[ "fiche" ],
+			[ "fichemos" ],
+			[ "fichéis", "fichen" ],
+			[ "fichen" ]
+		],
+		"9" : [
+			[ "fichara" ],
+			[ "ficharas" ],
+			[ "fichara" ],
+			[ "ficháramos" ],
+			[ "ficharais", "ficharan" ],
+			[ "ficharan" ]
+		],
+		"10" : [
+			[ "fichase" ],
+			[ "fichases" ],
+			[ "fichase" ],
+			[ "fichásemos" ],
+			[ "fichaseis", "fichasen" ],
+			[ "fichasen" ]
+		],
+		"11" : [
+			[ "fichare" ],
+			[ "fichares" ],
+			[ "fichare" ],
+			[ "ficháremos" ],
+			[ "fichareis", "ficharen" ],
+			[ "ficharen" ]
+		],
+		"12" : {
+			"1" : [ "ficha" ],
+			"2" : [ "fiche" ],
+			"3" : [ "fichemos" ],
+			"4" : [ "fichad" ],
+			"5" : [ "fichen" ]
+		}
+	}
+}

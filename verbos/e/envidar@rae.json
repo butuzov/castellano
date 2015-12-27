@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=envidar",
+	"word" : "envidar",
+	"infinitivo" : "envidar",
+	"participio" : [ "envidado" ],
+	"gerundio" : [ "envidando" ],
+	"tenses" : {
+		"3" : [
+			[ "envido" ],
+			[ "envidas", "envidás" ],
+			[ "envida" ],
+			[ "envidamos" ],
+			[ "envidáis", "envidan" ],
+			[ "envidan" ]
+		],
+		"4" : [
+			[ "envidé" ],
+			[ "envidaste" ],
+			[ "envidó" ],
+			[ "envidamos" ],
+			[ "envidasteis", "envidaron" ],
+			[ "envidaron" ]
+		],
+		"5" : [
+			[ "envidaba" ],
+			[ "envidabas" ],
+			[ "envidaba" ],
+			[ "envidábamos" ],
+			[ "envidabais", "envidaban" ],
+			[ "envidaban" ]
+		],
+		"6" : [
+			[ "envidaría" ],
+			[ "envidarías" ],
+			[ "envidaría" ],
+			[ "envidaríamos" ],
+			[ "envidaríais", "envidarían" ],
+			[ "envidarían" ]
+		],
+		"7" : [
+			[ "envidaré" ],
+			[ "envidarás" ],
+			[ "envidará" ],
+			[ "envidaremos" ],
+			[ "envidaréis", "envidarán" ],
+			[ "envidarán" ]
+		],
+		"8" : [
+			[ "envide" ],
+			[ "envides" ],
+			[ "envide" ],
+			[ "envidemos" ],
+			[ "envidéis", "enviden" ],
+			[ "enviden" ]
+		],
+		"9" : [
+			[ "envidara" ],
+			[ "envidaras" ],
+			[ "envidara" ],
+			[ "envidáramos" ],
+			[ "envidarais", "envidaran" ],
+			[ "envidaran" ]
+		],
+		"10" : [
+			[ "envidase" ],
+			[ "envidases" ],
+			[ "envidase" ],
+			[ "envidásemos" ],
+			[ "envidaseis", "envidasen" ],
+			[ "envidasen" ]
+		],
+		"11" : [
+			[ "envidare" ],
+			[ "envidares" ],
+			[ "envidare" ],
+			[ "envidáremos" ],
+			[ "envidareis", "envidaren" ],
+			[ "envidaren" ]
+		],
+		"12" : {
+			"1" : [ "envida" ],
+			"2" : [ "envide" ],
+			"3" : [ "envidemos" ],
+			"4" : [ "envidad" ],
+			"5" : [ "enviden" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=interpelar",
+	"word" : "interpelar",
+	"infinitivo" : "interpelar",
+	"participio" : [ "interpelado" ],
+	"gerundio" : [ "interpelando" ],
+	"tenses" : {
+		"3" : [
+			[ "interpelo" ],
+			[ "interpelas", "interpelás" ],
+			[ "interpela" ],
+			[ "interpelamos" ],
+			[ "interpeláis", "interpelan" ],
+			[ "interpelan" ]
+		],
+		"4" : [
+			[ "interpelé" ],
+			[ "interpelaste" ],
+			[ "interpeló" ],
+			[ "interpelamos" ],
+			[ "interpelasteis", "interpelaron" ],
+			[ "interpelaron" ]
+		],
+		"5" : [
+			[ "interpelaba" ],
+			[ "interpelabas" ],
+			[ "interpelaba" ],
+			[ "interpelábamos" ],
+			[ "interpelabais", "interpelaban" ],
+			[ "interpelaban" ]
+		],
+		"6" : [
+			[ "interpelaría" ],
+			[ "interpelarías" ],
+			[ "interpelaría" ],
+			[ "interpelaríamos" ],
+			[ "interpelaríais", "interpelarían" ],
+			[ "interpelarían" ]
+		],
+		"7" : [
+			[ "interpelaré" ],
+			[ "interpelarás" ],
+			[ "interpelará" ],
+			[ "interpelaremos" ],
+			[ "interpelaréis", "interpelarán" ],
+			[ "interpelarán" ]
+		],
+		"8" : [
+			[ "interpele" ],
+			[ "interpeles" ],
+			[ "interpele" ],
+			[ "interpelemos" ],
+			[ "interpeléis", "interpelen" ],
+			[ "interpelen" ]
+		],
+		"9" : [
+			[ "interpelara" ],
+			[ "interpelaras" ],
+			[ "interpelara" ],
+			[ "interpeláramos" ],
+			[ "interpelarais", "interpelaran" ],
+			[ "interpelaran" ]
+		],
+		"10" : [
+			[ "interpelase" ],
+			[ "interpelases" ],
+			[ "interpelase" ],
+			[ "interpelásemos" ],
+			[ "interpelaseis", "interpelasen" ],
+			[ "interpelasen" ]
+		],
+		"11" : [
+			[ "interpelare" ],
+			[ "interpelares" ],
+			[ "interpelare" ],
+			[ "interpeláremos" ],
+			[ "interpelareis", "interpelaren" ],
+			[ "interpelaren" ]
+		],
+		"12" : {
+			"1" : [ "interpela" ],
+			"2" : [ "interpele" ],
+			"3" : [ "interpelemos" ],
+			"4" : [ "interpelad" ],
+			"5" : [ "interpelen" ]
+		}
+	}
+}

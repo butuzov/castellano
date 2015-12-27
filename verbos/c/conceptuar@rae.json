@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conceptuar",
+	"word" : "conceptuar",
+	"infinitivo" : "conceptuar",
+	"participio" : [ "conceptuado" ],
+	"gerundio" : [ "conceptuando" ],
+	"tenses" : {
+		"3" : [
+			[ "conceptúo" ],
+			[ "conceptúas", "conceptuás" ],
+			[ "conceptúa" ],
+			[ "conceptuamos" ],
+			[ "conceptuáis", "conceptúan" ],
+			[ "conceptúan" ]
+		],
+		"4" : [
+			[ "conceptué" ],
+			[ "conceptuaste" ],
+			[ "conceptuó" ],
+			[ "conceptuamos" ],
+			[ "conceptuasteis", "conceptuaron" ],
+			[ "conceptuaron" ]
+		],
+		"5" : [
+			[ "conceptuaba" ],
+			[ "conceptuabas" ],
+			[ "conceptuaba" ],
+			[ "conceptuábamos" ],
+			[ "conceptuabais", "conceptuaban" ],
+			[ "conceptuaban" ]
+		],
+		"6" : [
+			[ "conceptuaría" ],
+			[ "conceptuarías" ],
+			[ "conceptuaría" ],
+			[ "conceptuaríamos" ],
+			[ "conceptuaríais", "conceptuarían" ],
+			[ "conceptuarían" ]
+		],
+		"7" : [
+			[ "conceptuaré" ],
+			[ "conceptuarás" ],
+			[ "conceptuará" ],
+			[ "conceptuaremos" ],
+			[ "conceptuaréis", "conceptuarán" ],
+			[ "conceptuarán" ]
+		],
+		"8" : [
+			[ "conceptúe" ],
+			[ "conceptúes" ],
+			[ "conceptúe" ],
+			[ "conceptuemos" ],
+			[ "conceptuéis", "conceptúen" ],
+			[ "conceptúen" ]
+		],
+		"9" : [
+			[ "conceptuara" ],
+			[ "conceptuaras" ],
+			[ "conceptuara" ],
+			[ "conceptuáramos" ],
+			[ "conceptuarais", "conceptuaran" ],
+			[ "conceptuaran" ]
+		],
+		"10" : [
+			[ "conceptuase" ],
+			[ "conceptuases" ],
+			[ "conceptuase" ],
+			[ "conceptuásemos" ],
+			[ "conceptuaseis", "conceptuasen" ],
+			[ "conceptuasen" ]
+		],
+		"11" : [
+			[ "conceptuare" ],
+			[ "conceptuares" ],
+			[ "conceptuare" ],
+			[ "conceptuáremos" ],
+			[ "conceptuareis", "conceptuaren" ],
+			[ "conceptuaren" ]
+		],
+		"12" : {
+			"1" : [ "conceptúa" ],
+			"2" : [ "conceptúe" ],
+			"3" : [ "conceptuemos" ],
+			"4" : [ "conceptuad" ],
+			"5" : [ "conceptúen" ]
+		}
+	}
+}

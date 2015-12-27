@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aserrar",
+	"word" : "aserrar",
+	"infinitivo" : "aserrar",
+	"participio" : [ "aserrado" ],
+	"gerundio" : [ "aserrando" ],
+	"tenses" : {
+		"3" : [
+			[ "asierro" ],
+			[ "asierras", "aserrás" ],
+			[ "asierra" ],
+			[ "aserramos" ],
+			[ "aserráis", "asierran" ],
+			[ "asierran" ]
+		],
+		"4" : [
+			[ "aserré" ],
+			[ "aserraste" ],
+			[ "aserró" ],
+			[ "aserramos" ],
+			[ "aserrasteis", "aserraron" ],
+			[ "aserraron" ]
+		],
+		"5" : [
+			[ "aserraba" ],
+			[ "aserrabas" ],
+			[ "aserraba" ],
+			[ "aserrábamos" ],
+			[ "aserrabais", "aserraban" ],
+			[ "aserraban" ]
+		],
+		"6" : [
+			[ "aserraría" ],
+			[ "aserrarías" ],
+			[ "aserraría" ],
+			[ "aserraríamos" ],
+			[ "aserraríais", "aserrarían" ],
+			[ "aserrarían" ]
+		],
+		"7" : [
+			[ "aserraré" ],
+			[ "aserrarás" ],
+			[ "aserrará" ],
+			[ "aserraremos" ],
+			[ "aserraréis", "aserrarán" ],
+			[ "aserrarán" ]
+		],
+		"8" : [
+			[ "asierre" ],
+			[ "asierres" ],
+			[ "asierre" ],
+			[ "aserremos" ],
+			[ "aserréis", "asierren" ],
+			[ "asierren" ]
+		],
+		"9" : [
+			[ "aserrara" ],
+			[ "aserraras" ],
+			[ "aserrara" ],
+			[ "aserráramos" ],
+			[ "aserrarais", "aserraran" ],
+			[ "aserraran" ]
+		],
+		"10" : [
+			[ "aserrase" ],
+			[ "aserrases" ],
+			[ "aserrase" ],
+			[ "aserrásemos" ],
+			[ "aserraseis", "aserrasen" ],
+			[ "aserrasen" ]
+		],
+		"11" : [
+			[ "aserrare" ],
+			[ "aserrares" ],
+			[ "aserrare" ],
+			[ "aserráremos" ],
+			[ "aserrareis", "aserraren" ],
+			[ "aserraren" ]
+		],
+		"12" : {
+			"1" : [ "asierra" ],
+			"2" : [ "asierre" ],
+			"3" : [ "aserremos" ],
+			"4" : [ "aserrad" ],
+			"5" : [ "asierren" ]
+		}
+	}
+}

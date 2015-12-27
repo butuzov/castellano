@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=definir",
+	"word" : "definir",
+	"infinitivo" : "definir",
+	"participio" : [ "definido" ],
+	"gerundio" : [ "definiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "defino" ],
+			[ "defines", "definís" ],
+			[ "define" ],
+			[ "definimos" ],
+			[ "definís", "definen" ],
+			[ "definen" ]
+		],
+		"4" : [
+			[ "definí" ],
+			[ "definiste" ],
+			[ "definió" ],
+			[ "definimos" ],
+			[ "definisteis", "definieron" ],
+			[ "definieron" ]
+		],
+		"5" : [
+			[ "definía" ],
+			[ "definías" ],
+			[ "definía" ],
+			[ "definíamos" ],
+			[ "definíais", "definían" ],
+			[ "definían" ]
+		],
+		"6" : [
+			[ "definiría" ],
+			[ "definirías" ],
+			[ "definiría" ],
+			[ "definiríamos" ],
+			[ "definiríais", "definirían" ],
+			[ "definirían" ]
+		],
+		"7" : [
+			[ "definiré" ],
+			[ "definirás" ],
+			[ "definirá" ],
+			[ "definiremos" ],
+			[ "definiréis", "definirán" ],
+			[ "definirán" ]
+		],
+		"8" : [
+			[ "defina" ],
+			[ "definas" ],
+			[ "defina" ],
+			[ "definamos" ],
+			[ "defináis", "definan" ],
+			[ "definan" ]
+		],
+		"9" : [
+			[ "definiera" ],
+			[ "definieras" ],
+			[ "definiera" ],
+			[ "definiéramos" ],
+			[ "definierais", "definieran" ],
+			[ "definieran" ]
+		],
+		"10" : [
+			[ "definiese" ],
+			[ "definieses" ],
+			[ "definiese" ],
+			[ "definiésemos" ],
+			[ "definieseis", "definiesen" ],
+			[ "definiesen" ]
+		],
+		"11" : [
+			[ "definiere" ],
+			[ "definieres" ],
+			[ "definiere" ],
+			[ "definiéremos" ],
+			[ "definiereis", "definieren" ],
+			[ "definieren" ]
+		],
+		"12" : {
+			"1" : [ "define" ],
+			"2" : [ "defina" ],
+			"3" : [ "definamos" ],
+			"4" : [ "definid" ],
+			"5" : [ "definan" ]
+		}
+	}
+}

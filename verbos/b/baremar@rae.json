@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=baremar",
+	"word" : "baremar",
+	"infinitivo" : "baremar",
+	"participio" : [ "baremado" ],
+	"gerundio" : [ "baremando" ],
+	"tenses" : {
+		"3" : [
+			[ "baremo" ],
+			[ "baremas", "baremás" ],
+			[ "barema" ],
+			[ "baremamos" ],
+			[ "baremáis", "bareman" ],
+			[ "bareman" ]
+		],
+		"4" : [
+			[ "baremé" ],
+			[ "baremaste" ],
+			[ "baremó" ],
+			[ "baremamos" ],
+			[ "baremasteis", "baremaron" ],
+			[ "baremaron" ]
+		],
+		"5" : [
+			[ "baremaba" ],
+			[ "baremabas" ],
+			[ "baremaba" ],
+			[ "baremábamos" ],
+			[ "baremabais", "baremaban" ],
+			[ "baremaban" ]
+		],
+		"6" : [
+			[ "baremaría" ],
+			[ "baremarías" ],
+			[ "baremaría" ],
+			[ "baremaríamos" ],
+			[ "baremaríais", "baremarían" ],
+			[ "baremarían" ]
+		],
+		"7" : [
+			[ "baremaré" ],
+			[ "baremarás" ],
+			[ "baremará" ],
+			[ "baremaremos" ],
+			[ "baremaréis", "baremarán" ],
+			[ "baremarán" ]
+		],
+		"8" : [
+			[ "bareme" ],
+			[ "baremes" ],
+			[ "bareme" ],
+			[ "barememos" ],
+			[ "bareméis", "baremen" ],
+			[ "baremen" ]
+		],
+		"9" : [
+			[ "baremara" ],
+			[ "baremaras" ],
+			[ "baremara" ],
+			[ "baremáramos" ],
+			[ "baremarais", "baremaran" ],
+			[ "baremaran" ]
+		],
+		"10" : [
+			[ "baremase" ],
+			[ "baremases" ],
+			[ "baremase" ],
+			[ "baremásemos" ],
+			[ "baremaseis", "baremasen" ],
+			[ "baremasen" ]
+		],
+		"11" : [
+			[ "baremare" ],
+			[ "baremares" ],
+			[ "baremare" ],
+			[ "baremáremos" ],
+			[ "baremareis", "baremaren" ],
+			[ "baremaren" ]
+		],
+		"12" : {
+			"1" : [ "barema" ],
+			"2" : [ "bareme" ],
+			"3" : [ "barememos" ],
+			"4" : [ "baremad" ],
+			"5" : [ "baremen" ]
+		}
+	}
+}

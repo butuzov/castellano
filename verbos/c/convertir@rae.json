@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=convertir",
+	"word" : "convertir",
+	"infinitivo" : "convertir",
+	"participio" : [ "convertido" ],
+	"gerundio" : [ "convirtiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "convierto" ],
+			[ "conviertes", "convertís" ],
+			[ "convierte" ],
+			[ "convertimos" ],
+			[ "convertís", "convierten" ],
+			[ "convierten" ]
+		],
+		"4" : [
+			[ "convertí" ],
+			[ "convertiste" ],
+			[ "convirtió" ],
+			[ "convertimos" ],
+			[ "convertisteis", "convirtieron" ],
+			[ "convirtieron" ]
+		],
+		"5" : [
+			[ "convertía" ],
+			[ "convertías" ],
+			[ "convertía" ],
+			[ "convertíamos" ],
+			[ "convertíais", "convertían" ],
+			[ "convertían" ]
+		],
+		"6" : [
+			[ "convertiría" ],
+			[ "convertirías" ],
+			[ "convertiría" ],
+			[ "convertiríamos" ],
+			[ "convertiríais", "convertirían" ],
+			[ "convertirían" ]
+		],
+		"7" : [
+			[ "convertiré" ],
+			[ "convertirás" ],
+			[ "convertirá" ],
+			[ "convertiremos" ],
+			[ "convertiréis", "convertirán" ],
+			[ "convertirán" ]
+		],
+		"8" : [
+			[ "convierta" ],
+			[ "conviertas" ],
+			[ "convierta" ],
+			[ "convirtamos" ],
+			[ "convirtáis", "conviertan" ],
+			[ "conviertan" ]
+		],
+		"9" : [
+			[ "convirtiera" ],
+			[ "convirtieras" ],
+			[ "convirtiera" ],
+			[ "convirtiéramos" ],
+			[ "convirtierais", "convirtieran" ],
+			[ "convirtieran" ]
+		],
+		"10" : [
+			[ "convirtiese" ],
+			[ "convirtieses" ],
+			[ "convirtiese" ],
+			[ "convirtiésemos" ],
+			[ "convirtieseis", "convirtiesen" ],
+			[ "convirtiesen" ]
+		],
+		"11" : [
+			[ "convirtiere" ],
+			[ "convirtieres" ],
+			[ "convirtiere" ],
+			[ "convirtiéremos" ],
+			[ "convirtiereis", "convirtieren" ],
+			[ "convirtieren" ]
+		],
+		"12" : {
+			"1" : [ "convierte" ],
+			"2" : [ "convierta" ],
+			"3" : [ "convirtamos" ],
+			"4" : [ "convertid" ],
+			"5" : [ "conviertan" ]
+		}
+	}
+}

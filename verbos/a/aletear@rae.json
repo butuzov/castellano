@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aletear",
+	"word" : "aletear",
+	"infinitivo" : "aletear",
+	"participio" : [ "aleteado" ],
+	"gerundio" : [ "aleteando" ],
+	"tenses" : {
+		"3" : [
+			[ "aleteo" ],
+			[ "aleteas", "aleteás" ],
+			[ "aletea" ],
+			[ "aleteamos" ],
+			[ "aleteáis", "aletean" ],
+			[ "aletean" ]
+		],
+		"4" : [
+			[ "aleteé" ],
+			[ "aleteaste" ],
+			[ "aleteó" ],
+			[ "aleteamos" ],
+			[ "aleteasteis", "aletearon" ],
+			[ "aletearon" ]
+		],
+		"5" : [
+			[ "aleteaba" ],
+			[ "aleteabas" ],
+			[ "aleteaba" ],
+			[ "aleteábamos" ],
+			[ "aleteabais", "aleteaban" ],
+			[ "aleteaban" ]
+		],
+		"6" : [
+			[ "aletearía" ],
+			[ "aletearías" ],
+			[ "aletearía" ],
+			[ "aletearíamos" ],
+			[ "aletearíais", "aletearían" ],
+			[ "aletearían" ]
+		],
+		"7" : [
+			[ "aletearé" ],
+			[ "aletearás" ],
+			[ "aleteará" ],
+			[ "aletearemos" ],
+			[ "aletearéis", "aletearán" ],
+			[ "aletearán" ]
+		],
+		"8" : [
+			[ "aletee" ],
+			[ "aletees" ],
+			[ "aletee" ],
+			[ "aleteemos" ],
+			[ "aleteéis", "aleteen" ],
+			[ "aleteen" ]
+		],
+		"9" : [
+			[ "aleteara" ],
+			[ "aletearas" ],
+			[ "aleteara" ],
+			[ "aleteáramos" ],
+			[ "aletearais", "aletearan" ],
+			[ "aletearan" ]
+		],
+		"10" : [
+			[ "aletease" ],
+			[ "aleteases" ],
+			[ "aletease" ],
+			[ "aleteásemos" ],
+			[ "aleteaseis", "aleteasen" ],
+			[ "aleteasen" ]
+		],
+		"11" : [
+			[ "aleteare" ],
+			[ "aleteares" ],
+			[ "aleteare" ],
+			[ "aleteáremos" ],
+			[ "aleteareis", "aletearen" ],
+			[ "aletearen" ]
+		],
+		"12" : {
+			"1" : [ "aletea" ],
+			"2" : [ "aletee" ],
+			"3" : [ "aleteemos" ],
+			"4" : [ "aletead" ],
+			"5" : [ "aleteen" ]
+		}
+	}
+}

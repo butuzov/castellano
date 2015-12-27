@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vidriar",
+	"word" : "vidriar",
+	"infinitivo" : "vidriar",
+	"participio" : [ "vidriado" ],
+	"gerundio" : [ "vidriando" ],
+	"tenses" : {
+		"3" : [
+			[ "vidrío", "vidrio" ],
+			[ "vidrías", "vidrias", "vidriás" ],
+			[ "vidría", "vidria" ],
+			[ "vidriamos" ],
+			[ "vidriáis", "vidrían", "vidrian" ],
+			[ "vidrían", "vidrian" ]
+		],
+		"4" : [
+			[ "vidrié" ],
+			[ "vidriaste" ],
+			[ "vidrió" ],
+			[ "vidriamos" ],
+			[ "vidriasteis", "vidriaron" ],
+			[ "vidriaron" ]
+		],
+		"5" : [
+			[ "vidriaba" ],
+			[ "vidriabas" ],
+			[ "vidriaba" ],
+			[ "vidriábamos" ],
+			[ "vidriabais", "vidriaban" ],
+			[ "vidriaban" ]
+		],
+		"6" : [
+			[ "vidriaría" ],
+			[ "vidriarías" ],
+			[ "vidriaría" ],
+			[ "vidriaríamos" ],
+			[ "vidriaríais", "vidriarían" ],
+			[ "vidriarían" ]
+		],
+		"7" : [
+			[ "vidriaré" ],
+			[ "vidriarás" ],
+			[ "vidriará" ],
+			[ "vidriaremos" ],
+			[ "vidriaréis", "vidriarán" ],
+			[ "vidriarán" ]
+		],
+		"8" : [
+			[ "vidríe", "vidrie" ],
+			[ "vidríes", "vidries" ],
+			[ "vidríe", "vidrie" ],
+			[ "vidriemos" ],
+			[ "vidriéis", "vidríen", "vidrien" ],
+			[ "vidríen", "vidrien" ]
+		],
+		"9" : [
+			[ "vidriara" ],
+			[ "vidriaras" ],
+			[ "vidriara" ],
+			[ "vidriáramos" ],
+			[ "vidriarais", "vidriaran" ],
+			[ "vidriaran" ]
+		],
+		"10" : [
+			[ "vidriase" ],
+			[ "vidriases" ],
+			[ "vidriase" ],
+			[ "vidriásemos" ],
+			[ "vidriaseis", "vidriasen" ],
+			[ "vidriasen" ]
+		],
+		"11" : [
+			[ "vidriare" ],
+			[ "vidriares" ],
+			[ "vidriare" ],
+			[ "vidriáremos" ],
+			[ "vidriareis", "vidriaren" ],
+			[ "vidriaren" ]
+		],
+		"12" : {
+			"1" : [ "vidría", "vidria" ],
+			"2" : [ "vidríe", "vidrie" ],
+			"3" : [ "vidriemos" ],
+			"4" : [ "vidriad" ],
+			"5" : [ "vidríen", "vidrien" ]
+		}
+	}
+}

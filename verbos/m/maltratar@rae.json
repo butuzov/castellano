@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=maltratar",
+	"word" : "maltratar",
+	"infinitivo" : "maltratar",
+	"participio" : [ "maltratado" ],
+	"gerundio" : [ "maltratando" ],
+	"tenses" : {
+		"3" : [
+			[ "maltrato" ],
+			[ "maltratas", "maltratás" ],
+			[ "maltrata" ],
+			[ "maltratamos" ],
+			[ "maltratáis", "maltratan" ],
+			[ "maltratan" ]
+		],
+		"4" : [
+			[ "maltraté" ],
+			[ "maltrataste" ],
+			[ "maltrató" ],
+			[ "maltratamos" ],
+			[ "maltratasteis", "maltrataron" ],
+			[ "maltrataron" ]
+		],
+		"5" : [
+			[ "maltrataba" ],
+			[ "maltratabas" ],
+			[ "maltrataba" ],
+			[ "maltratábamos" ],
+			[ "maltratabais", "maltrataban" ],
+			[ "maltrataban" ]
+		],
+		"6" : [
+			[ "maltrataría" ],
+			[ "maltratarías" ],
+			[ "maltrataría" ],
+			[ "maltrataríamos" ],
+			[ "maltrataríais", "maltratarían" ],
+			[ "maltratarían" ]
+		],
+		"7" : [
+			[ "maltrataré" ],
+			[ "maltratarás" ],
+			[ "maltratará" ],
+			[ "maltrataremos" ],
+			[ "maltrataréis", "maltratarán" ],
+			[ "maltratarán" ]
+		],
+		"8" : [
+			[ "maltrate" ],
+			[ "maltrates" ],
+			[ "maltrate" ],
+			[ "maltratemos" ],
+			[ "maltratéis", "maltraten" ],
+			[ "maltraten" ]
+		],
+		"9" : [
+			[ "maltratara" ],
+			[ "maltrataras" ],
+			[ "maltratara" ],
+			[ "maltratáramos" ],
+			[ "maltratarais", "maltrataran" ],
+			[ "maltrataran" ]
+		],
+		"10" : [
+			[ "maltratase" ],
+			[ "maltratases" ],
+			[ "maltratase" ],
+			[ "maltratásemos" ],
+			[ "maltrataseis", "maltratasen" ],
+			[ "maltratasen" ]
+		],
+		"11" : [
+			[ "maltratare" ],
+			[ "maltratares" ],
+			[ "maltratare" ],
+			[ "maltratáremos" ],
+			[ "maltratareis", "maltrataren" ],
+			[ "maltrataren" ]
+		],
+		"12" : {
+			"1" : [ "maltrata" ],
+			"2" : [ "maltrate" ],
+			"3" : [ "maltratemos" ],
+			"4" : [ "maltratad" ],
+			"5" : [ "maltraten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=nevar",
+	"word" : "nevar",
+	"infinitivo" : "nevar",
+	"participio" : [ "nevado" ],
+	"gerundio" : [ "nevando" ],
+	"tenses" : {
+		"3" : [
+			[ "nievo" ],
+			[ "nievas", "nevás" ],
+			[ "nieva" ],
+			[ "nevamos" ],
+			[ "neváis", "nievan" ],
+			[ "nievan" ]
+		],
+		"4" : [
+			[ "nevé" ],
+			[ "nevaste" ],
+			[ "nevó" ],
+			[ "nevamos" ],
+			[ "nevasteis", "nevaron" ],
+			[ "nevaron" ]
+		],
+		"5" : [
+			[ "nevaba" ],
+			[ "nevabas" ],
+			[ "nevaba" ],
+			[ "nevábamos" ],
+			[ "nevabais", "nevaban" ],
+			[ "nevaban" ]
+		],
+		"6" : [
+			[ "nevaría" ],
+			[ "nevarías" ],
+			[ "nevaría" ],
+			[ "nevaríamos" ],
+			[ "nevaríais", "nevarían" ],
+			[ "nevarían" ]
+		],
+		"7" : [
+			[ "nevaré" ],
+			[ "nevarás" ],
+			[ "nevará" ],
+			[ "nevaremos" ],
+			[ "nevaréis", "nevarán" ],
+			[ "nevarán" ]
+		],
+		"8" : [
+			[ "nieve" ],
+			[ "nieves" ],
+			[ "nieve" ],
+			[ "nevemos" ],
+			[ "nevéis", "nieven" ],
+			[ "nieven" ]
+		],
+		"9" : [
+			[ "nevara" ],
+			[ "nevaras" ],
+			[ "nevara" ],
+			[ "neváramos" ],
+			[ "nevarais", "nevaran" ],
+			[ "nevaran" ]
+		],
+		"10" : [
+			[ "nevase" ],
+			[ "nevases" ],
+			[ "nevase" ],
+			[ "nevásemos" ],
+			[ "nevaseis", "nevasen" ],
+			[ "nevasen" ]
+		],
+		"11" : [
+			[ "nevare" ],
+			[ "nevares" ],
+			[ "nevare" ],
+			[ "neváremos" ],
+			[ "nevareis", "nevaren" ],
+			[ "nevaren" ]
+		],
+		"12" : {
+			"1" : [ "nieva" ],
+			"2" : [ "nieve" ],
+			"3" : [ "nevemos" ],
+			"4" : [ "nevad" ],
+			"5" : [ "nieven" ]
+		}
+	}
+}

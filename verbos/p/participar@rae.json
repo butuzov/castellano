@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=participar",
+	"word" : "participar",
+	"infinitivo" : "participar",
+	"participio" : [ "participado" ],
+	"gerundio" : [ "participando" ],
+	"tenses" : {
+		"3" : [
+			[ "participo" ],
+			[ "participas", "participás" ],
+			[ "participa" ],
+			[ "participamos" ],
+			[ "participáis", "participan" ],
+			[ "participan" ]
+		],
+		"4" : [
+			[ "participé" ],
+			[ "participaste" ],
+			[ "participó" ],
+			[ "participamos" ],
+			[ "participasteis", "participaron" ],
+			[ "participaron" ]
+		],
+		"5" : [
+			[ "participaba" ],
+			[ "participabas" ],
+			[ "participaba" ],
+			[ "participábamos" ],
+			[ "participabais", "participaban" ],
+			[ "participaban" ]
+		],
+		"6" : [
+			[ "participaría" ],
+			[ "participarías" ],
+			[ "participaría" ],
+			[ "participaríamos" ],
+			[ "participaríais", "participarían" ],
+			[ "participarían" ]
+		],
+		"7" : [
+			[ "participaré" ],
+			[ "participarás" ],
+			[ "participará" ],
+			[ "participaremos" ],
+			[ "participaréis", "participarán" ],
+			[ "participarán" ]
+		],
+		"8" : [
+			[ "participe" ],
+			[ "participes" ],
+			[ "participe" ],
+			[ "participemos" ],
+			[ "participéis", "participen" ],
+			[ "participen" ]
+		],
+		"9" : [
+			[ "participara" ],
+			[ "participaras" ],
+			[ "participara" ],
+			[ "participáramos" ],
+			[ "participarais", "participaran" ],
+			[ "participaran" ]
+		],
+		"10" : [
+			[ "participase" ],
+			[ "participases" ],
+			[ "participase" ],
+			[ "participásemos" ],
+			[ "participaseis", "participasen" ],
+			[ "participasen" ]
+		],
+		"11" : [
+			[ "participare" ],
+			[ "participares" ],
+			[ "participare" ],
+			[ "participáremos" ],
+			[ "participareis", "participaren" ],
+			[ "participaren" ]
+		],
+		"12" : {
+			"1" : [ "participa" ],
+			"2" : [ "participe" ],
+			"3" : [ "participemos" ],
+			"4" : [ "participad" ],
+			"5" : [ "participen" ]
+		}
+	}
+}

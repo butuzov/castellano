@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=azolvar",
+	"word" : "azolvar",
+	"infinitivo" : "azolvar",
+	"participio" : [ "azolvado" ],
+	"gerundio" : [ "azolvando" ],
+	"tenses" : {
+		"3" : [
+			[ "azolvo" ],
+			[ "azolvas", "azolvás" ],
+			[ "azolva" ],
+			[ "azolvamos" ],
+			[ "azolváis", "azolvan" ],
+			[ "azolvan" ]
+		],
+		"4" : [
+			[ "azolvé" ],
+			[ "azolvaste" ],
+			[ "azolvó" ],
+			[ "azolvamos" ],
+			[ "azolvasteis", "azolvaron" ],
+			[ "azolvaron" ]
+		],
+		"5" : [
+			[ "azolvaba" ],
+			[ "azolvabas" ],
+			[ "azolvaba" ],
+			[ "azolvábamos" ],
+			[ "azolvabais", "azolvaban" ],
+			[ "azolvaban" ]
+		],
+		"6" : [
+			[ "azolvaría" ],
+			[ "azolvarías" ],
+			[ "azolvaría" ],
+			[ "azolvaríamos" ],
+			[ "azolvaríais", "azolvarían" ],
+			[ "azolvarían" ]
+		],
+		"7" : [
+			[ "azolvaré" ],
+			[ "azolvarás" ],
+			[ "azolvará" ],
+			[ "azolvaremos" ],
+			[ "azolvaréis", "azolvarán" ],
+			[ "azolvarán" ]
+		],
+		"8" : [
+			[ "azolve" ],
+			[ "azolves" ],
+			[ "azolve" ],
+			[ "azolvemos" ],
+			[ "azolvéis", "azolven" ],
+			[ "azolven" ]
+		],
+		"9" : [
+			[ "azolvara" ],
+			[ "azolvaras" ],
+			[ "azolvara" ],
+			[ "azolváramos" ],
+			[ "azolvarais", "azolvaran" ],
+			[ "azolvaran" ]
+		],
+		"10" : [
+			[ "azolvase" ],
+			[ "azolvases" ],
+			[ "azolvase" ],
+			[ "azolvásemos" ],
+			[ "azolvaseis", "azolvasen" ],
+			[ "azolvasen" ]
+		],
+		"11" : [
+			[ "azolvare" ],
+			[ "azolvares" ],
+			[ "azolvare" ],
+			[ "azolváremos" ],
+			[ "azolvareis", "azolvaren" ],
+			[ "azolvaren" ]
+		],
+		"12" : {
+			"1" : [ "azolva" ],
+			"2" : [ "azolve" ],
+			"3" : [ "azolvemos" ],
+			"4" : [ "azolvad" ],
+			"5" : [ "azolven" ]
+		}
+	}
+}

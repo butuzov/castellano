@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asir",
+	"word" : "asir",
+	"infinitivo" : "asir",
+	"participio" : [ "asido" ],
+	"gerundio" : [ "asiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "asgo" ],
+			[ "ases", "asís" ],
+			[ "ase" ],
+			[ "asimos" ],
+			[ "asís", "asen" ],
+			[ "asen" ]
+		],
+		"4" : [
+			[ "así" ],
+			[ "asiste" ],
+			[ "asió" ],
+			[ "asimos" ],
+			[ "asisteis", "asieron" ],
+			[ "asieron" ]
+		],
+		"5" : [
+			[ "asía" ],
+			[ "asías" ],
+			[ "asía" ],
+			[ "asíamos" ],
+			[ "asíais", "asían" ],
+			[ "asían" ]
+		],
+		"6" : [
+			[ "asiría" ],
+			[ "asirías" ],
+			[ "asiría" ],
+			[ "asiríamos" ],
+			[ "asiríais", "asirían" ],
+			[ "asirían" ]
+		],
+		"7" : [
+			[ "asiré" ],
+			[ "asirás" ],
+			[ "asirá" ],
+			[ "asiremos" ],
+			[ "asiréis", "asirán" ],
+			[ "asirán" ]
+		],
+		"8" : [
+			[ "asga" ],
+			[ "asgas" ],
+			[ "asga" ],
+			[ "asgamos" ],
+			[ "asgáis", "asgan" ],
+			[ "asgan" ]
+		],
+		"9" : [
+			[ "asiera" ],
+			[ "asieras" ],
+			[ "asiera" ],
+			[ "asiéramos" ],
+			[ "asierais", "asieran" ],
+			[ "asieran" ]
+		],
+		"10" : [
+			[ "asiese" ],
+			[ "asieses" ],
+			[ "asiese" ],
+			[ "asiésemos" ],
+			[ "asieseis", "asiesen" ],
+			[ "asiesen" ]
+		],
+		"11" : [
+			[ "asiere" ],
+			[ "asieres" ],
+			[ "asiere" ],
+			[ "asiéremos" ],
+			[ "asiereis", "asieren" ],
+			[ "asieren" ]
+		],
+		"12" : {
+			"1" : [ "ase" ],
+			"2" : [ "asga" ],
+			"3" : [ "asgamos" ],
+			"4" : [ "asid" ],
+			"5" : [ "asgan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=imantar",
+	"word" : "imantar",
+	"infinitivo" : "imantar",
+	"participio" : [ "imantado" ],
+	"gerundio" : [ "imantando" ],
+	"tenses" : {
+		"3" : [
+			[ "imanto" ],
+			[ "imantas", "imantás" ],
+			[ "imanta" ],
+			[ "imantamos" ],
+			[ "imantáis", "imantan" ],
+			[ "imantan" ]
+		],
+		"4" : [
+			[ "imanté" ],
+			[ "imantaste" ],
+			[ "imantó" ],
+			[ "imantamos" ],
+			[ "imantasteis", "imantaron" ],
+			[ "imantaron" ]
+		],
+		"5" : [
+			[ "imantaba" ],
+			[ "imantabas" ],
+			[ "imantaba" ],
+			[ "imantábamos" ],
+			[ "imantabais", "imantaban" ],
+			[ "imantaban" ]
+		],
+		"6" : [
+			[ "imantaría" ],
+			[ "imantarías" ],
+			[ "imantaría" ],
+			[ "imantaríamos" ],
+			[ "imantaríais", "imantarían" ],
+			[ "imantarían" ]
+		],
+		"7" : [
+			[ "imantaré" ],
+			[ "imantarás" ],
+			[ "imantará" ],
+			[ "imantaremos" ],
+			[ "imantaréis", "imantarán" ],
+			[ "imantarán" ]
+		],
+		"8" : [
+			[ "imante" ],
+			[ "imantes" ],
+			[ "imante" ],
+			[ "imantemos" ],
+			[ "imantéis", "imanten" ],
+			[ "imanten" ]
+		],
+		"9" : [
+			[ "imantara" ],
+			[ "imantaras" ],
+			[ "imantara" ],
+			[ "imantáramos" ],
+			[ "imantarais", "imantaran" ],
+			[ "imantaran" ]
+		],
+		"10" : [
+			[ "imantase" ],
+			[ "imantases" ],
+			[ "imantase" ],
+			[ "imantásemos" ],
+			[ "imantaseis", "imantasen" ],
+			[ "imantasen" ]
+		],
+		"11" : [
+			[ "imantare" ],
+			[ "imantares" ],
+			[ "imantare" ],
+			[ "imantáremos" ],
+			[ "imantareis", "imantaren" ],
+			[ "imantaren" ]
+		],
+		"12" : {
+			"1" : [ "imanta" ],
+			"2" : [ "imante" ],
+			"3" : [ "imantemos" ],
+			"4" : [ "imantad" ],
+			"5" : [ "imanten" ]
+		}
+	}
+}

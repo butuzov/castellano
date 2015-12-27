@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=improbar",
+	"word" : "improbar",
+	"infinitivo" : "improbar",
+	"participio" : [ "improbado" ],
+	"gerundio" : [ "improbando" ],
+	"tenses" : {
+		"3" : [
+			[ "impruebo" ],
+			[ "impruebas", "improbás" ],
+			[ "imprueba" ],
+			[ "improbamos" ],
+			[ "improbáis", "imprueban" ],
+			[ "imprueban" ]
+		],
+		"4" : [
+			[ "improbé" ],
+			[ "improbaste" ],
+			[ "improbó" ],
+			[ "improbamos" ],
+			[ "improbasteis", "improbaron" ],
+			[ "improbaron" ]
+		],
+		"5" : [
+			[ "improbaba" ],
+			[ "improbabas" ],
+			[ "improbaba" ],
+			[ "improbábamos" ],
+			[ "improbabais", "improbaban" ],
+			[ "improbaban" ]
+		],
+		"6" : [
+			[ "improbaría" ],
+			[ "improbarías" ],
+			[ "improbaría" ],
+			[ "improbaríamos" ],
+			[ "improbaríais", "improbarían" ],
+			[ "improbarían" ]
+		],
+		"7" : [
+			[ "improbaré" ],
+			[ "improbarás" ],
+			[ "improbará" ],
+			[ "improbaremos" ],
+			[ "improbaréis", "improbarán" ],
+			[ "improbarán" ]
+		],
+		"8" : [
+			[ "impruebe" ],
+			[ "impruebes" ],
+			[ "impruebe" ],
+			[ "improbemos" ],
+			[ "improbéis", "imprueben" ],
+			[ "imprueben" ]
+		],
+		"9" : [
+			[ "improbara" ],
+			[ "improbaras" ],
+			[ "improbara" ],
+			[ "improbáramos" ],
+			[ "improbarais", "improbaran" ],
+			[ "improbaran" ]
+		],
+		"10" : [
+			[ "improbase" ],
+			[ "improbases" ],
+			[ "improbase" ],
+			[ "improbásemos" ],
+			[ "improbaseis", "improbasen" ],
+			[ "improbasen" ]
+		],
+		"11" : [
+			[ "improbare" ],
+			[ "improbares" ],
+			[ "improbare" ],
+			[ "improbáremos" ],
+			[ "improbareis", "improbaren" ],
+			[ "improbaren" ]
+		],
+		"12" : {
+			"1" : [ "imprueba" ],
+			"2" : [ "impruebe" ],
+			"3" : [ "improbemos" ],
+			"4" : [ "improbad" ],
+			"5" : [ "imprueben" ]
+		}
+	}
+}

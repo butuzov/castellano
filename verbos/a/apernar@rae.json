@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apernar",
+	"word" : "apernar",
+	"infinitivo" : "apernar",
+	"participio" : [ "apernado" ],
+	"gerundio" : [ "apernando" ],
+	"tenses" : {
+		"3" : [
+			[ "apierno" ],
+			[ "apiernas", "apernás" ],
+			[ "apierna" ],
+			[ "apernamos" ],
+			[ "apernáis", "apiernan" ],
+			[ "apiernan" ]
+		],
+		"4" : [
+			[ "aperné" ],
+			[ "apernaste" ],
+			[ "apernó" ],
+			[ "apernamos" ],
+			[ "apernasteis", "apernaron" ],
+			[ "apernaron" ]
+		],
+		"5" : [
+			[ "apernaba" ],
+			[ "apernabas" ],
+			[ "apernaba" ],
+			[ "apernábamos" ],
+			[ "apernabais", "apernaban" ],
+			[ "apernaban" ]
+		],
+		"6" : [
+			[ "apernaría" ],
+			[ "apernarías" ],
+			[ "apernaría" ],
+			[ "apernaríamos" ],
+			[ "apernaríais", "apernarían" ],
+			[ "apernarían" ]
+		],
+		"7" : [
+			[ "apernaré" ],
+			[ "apernarás" ],
+			[ "apernará" ],
+			[ "apernaremos" ],
+			[ "apernaréis", "apernarán" ],
+			[ "apernarán" ]
+		],
+		"8" : [
+			[ "apierne" ],
+			[ "apiernes" ],
+			[ "apierne" ],
+			[ "apernemos" ],
+			[ "apernéis", "apiernen" ],
+			[ "apiernen" ]
+		],
+		"9" : [
+			[ "apernara" ],
+			[ "apernaras" ],
+			[ "apernara" ],
+			[ "apernáramos" ],
+			[ "apernarais", "apernaran" ],
+			[ "apernaran" ]
+		],
+		"10" : [
+			[ "apernase" ],
+			[ "apernases" ],
+			[ "apernase" ],
+			[ "apernásemos" ],
+			[ "apernaseis", "apernasen" ],
+			[ "apernasen" ]
+		],
+		"11" : [
+			[ "apernare" ],
+			[ "apernares" ],
+			[ "apernare" ],
+			[ "apernáremos" ],
+			[ "apernareis", "apernaren" ],
+			[ "apernaren" ]
+		],
+		"12" : {
+			"1" : [ "apierna" ],
+			"2" : [ "apierne" ],
+			"3" : [ "apernemos" ],
+			"4" : [ "apernad" ],
+			"5" : [ "apiernen" ]
+		}
+	}
+}

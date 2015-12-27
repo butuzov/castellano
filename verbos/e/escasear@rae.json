@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escasear",
+	"word" : "escasear",
+	"infinitivo" : "escasear",
+	"participio" : [ "escaseado" ],
+	"gerundio" : [ "escaseando" ],
+	"tenses" : {
+		"3" : [
+			[ "escaseo" ],
+			[ "escaseas", "escaseás" ],
+			[ "escasea" ],
+			[ "escaseamos" ],
+			[ "escaseáis", "escasean" ],
+			[ "escasean" ]
+		],
+		"4" : [
+			[ "escaseé" ],
+			[ "escaseaste" ],
+			[ "escaseó" ],
+			[ "escaseamos" ],
+			[ "escaseasteis", "escasearon" ],
+			[ "escasearon" ]
+		],
+		"5" : [
+			[ "escaseaba" ],
+			[ "escaseabas" ],
+			[ "escaseaba" ],
+			[ "escaseábamos" ],
+			[ "escaseabais", "escaseaban" ],
+			[ "escaseaban" ]
+		],
+		"6" : [
+			[ "escasearía" ],
+			[ "escasearías" ],
+			[ "escasearía" ],
+			[ "escasearíamos" ],
+			[ "escasearíais", "escasearían" ],
+			[ "escasearían" ]
+		],
+		"7" : [
+			[ "escasearé" ],
+			[ "escasearás" ],
+			[ "escaseará" ],
+			[ "escasearemos" ],
+			[ "escasearéis", "escasearán" ],
+			[ "escasearán" ]
+		],
+		"8" : [
+			[ "escasee" ],
+			[ "escasees" ],
+			[ "escasee" ],
+			[ "escaseemos" ],
+			[ "escaseéis", "escaseen" ],
+			[ "escaseen" ]
+		],
+		"9" : [
+			[ "escaseara" ],
+			[ "escasearas" ],
+			[ "escaseara" ],
+			[ "escaseáramos" ],
+			[ "escasearais", "escasearan" ],
+			[ "escasearan" ]
+		],
+		"10" : [
+			[ "escasease" ],
+			[ "escaseases" ],
+			[ "escasease" ],
+			[ "escaseásemos" ],
+			[ "escaseaseis", "escaseasen" ],
+			[ "escaseasen" ]
+		],
+		"11" : [
+			[ "escaseare" ],
+			[ "escaseares" ],
+			[ "escaseare" ],
+			[ "escaseáremos" ],
+			[ "escaseareis", "escasearen" ],
+			[ "escasearen" ]
+		],
+		"12" : {
+			"1" : [ "escasea" ],
+			"2" : [ "escasee" ],
+			"3" : [ "escaseemos" ],
+			"4" : [ "escasead" ],
+			"5" : [ "escaseen" ]
+		}
+	}
+}

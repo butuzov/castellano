@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encanecer",
+	"word" : "encanecer",
+	"infinitivo" : "encanecer",
+	"participio" : [ "encanecido" ],
+	"gerundio" : [ "encaneciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "encanezco" ],
+			[ "encaneces", "encanecés" ],
+			[ "encanece" ],
+			[ "encanecemos" ],
+			[ "encanecéis", "encanecen" ],
+			[ "encanecen" ]
+		],
+		"4" : [
+			[ "encanecí" ],
+			[ "encaneciste" ],
+			[ "encaneció" ],
+			[ "encanecimos" ],
+			[ "encanecisteis", "encanecieron" ],
+			[ "encanecieron" ]
+		],
+		"5" : [
+			[ "encanecía" ],
+			[ "encanecías" ],
+			[ "encanecía" ],
+			[ "encanecíamos" ],
+			[ "encanecíais", "encanecían" ],
+			[ "encanecían" ]
+		],
+		"6" : [
+			[ "encanecería" ],
+			[ "encanecerías" ],
+			[ "encanecería" ],
+			[ "encaneceríamos" ],
+			[ "encaneceríais", "encanecerían" ],
+			[ "encanecerían" ]
+		],
+		"7" : [
+			[ "encaneceré" ],
+			[ "encanecerás" ],
+			[ "encanecerá" ],
+			[ "encaneceremos" ],
+			[ "encaneceréis", "encanecerán" ],
+			[ "encanecerán" ]
+		],
+		"8" : [
+			[ "encanezca" ],
+			[ "encanezcas" ],
+			[ "encanezca" ],
+			[ "encanezcamos" ],
+			[ "encanezcáis", "encanezcan" ],
+			[ "encanezcan" ]
+		],
+		"9" : [
+			[ "encaneciera" ],
+			[ "encanecieras" ],
+			[ "encaneciera" ],
+			[ "encaneciéramos" ],
+			[ "encanecierais", "encanecieran" ],
+			[ "encanecieran" ]
+		],
+		"10" : [
+			[ "encaneciese" ],
+			[ "encanecieses" ],
+			[ "encaneciese" ],
+			[ "encaneciésemos" ],
+			[ "encanecieseis", "encaneciesen" ],
+			[ "encaneciesen" ]
+		],
+		"11" : [
+			[ "encaneciere" ],
+			[ "encanecieres" ],
+			[ "encaneciere" ],
+			[ "encaneciéremos" ],
+			[ "encaneciereis", "encanecieren" ],
+			[ "encanecieren" ]
+		],
+		"12" : {
+			"1" : [ "encanece" ],
+			"2" : [ "encanezca" ],
+			"3" : [ "encanezcamos" ],
+			"4" : [ "encaneced" ],
+			"5" : [ "encanezcan" ]
+		}
+	}
+}

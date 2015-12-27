@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reaccionar",
+	"word" : "reaccionar",
+	"infinitivo" : "reaccionar",
+	"participio" : [ "reaccionado" ],
+	"gerundio" : [ "reaccionando" ],
+	"tenses" : {
+		"3" : [
+			[ "reacciono" ],
+			[ "reaccionas", "reaccionás" ],
+			[ "reacciona" ],
+			[ "reaccionamos" ],
+			[ "reaccionáis", "reaccionan" ],
+			[ "reaccionan" ]
+		],
+		"4" : [
+			[ "reaccioné" ],
+			[ "reaccionaste" ],
+			[ "reaccionó" ],
+			[ "reaccionamos" ],
+			[ "reaccionasteis", "reaccionaron" ],
+			[ "reaccionaron" ]
+		],
+		"5" : [
+			[ "reaccionaba" ],
+			[ "reaccionabas" ],
+			[ "reaccionaba" ],
+			[ "reaccionábamos" ],
+			[ "reaccionabais", "reaccionaban" ],
+			[ "reaccionaban" ]
+		],
+		"6" : [
+			[ "reaccionaría" ],
+			[ "reaccionarías" ],
+			[ "reaccionaría" ],
+			[ "reaccionaríamos" ],
+			[ "reaccionaríais", "reaccionarían" ],
+			[ "reaccionarían" ]
+		],
+		"7" : [
+			[ "reaccionaré" ],
+			[ "reaccionarás" ],
+			[ "reaccionará" ],
+			[ "reaccionaremos" ],
+			[ "reaccionaréis", "reaccionarán" ],
+			[ "reaccionarán" ]
+		],
+		"8" : [
+			[ "reaccione" ],
+			[ "reacciones" ],
+			[ "reaccione" ],
+			[ "reaccionemos" ],
+			[ "reaccionéis", "reaccionen" ],
+			[ "reaccionen" ]
+		],
+		"9" : [
+			[ "reaccionara" ],
+			[ "reaccionaras" ],
+			[ "reaccionara" ],
+			[ "reaccionáramos" ],
+			[ "reaccionarais", "reaccionaran" ],
+			[ "reaccionaran" ]
+		],
+		"10" : [
+			[ "reaccionase" ],
+			[ "reaccionases" ],
+			[ "reaccionase" ],
+			[ "reaccionásemos" ],
+			[ "reaccionaseis", "reaccionasen" ],
+			[ "reaccionasen" ]
+		],
+		"11" : [
+			[ "reaccionare" ],
+			[ "reaccionares" ],
+			[ "reaccionare" ],
+			[ "reaccionáremos" ],
+			[ "reaccionareis", "reaccionaren" ],
+			[ "reaccionaren" ]
+		],
+		"12" : {
+			"1" : [ "reacciona" ],
+			"2" : [ "reaccione" ],
+			"3" : [ "reaccionemos" ],
+			"4" : [ "reaccionad" ],
+			"5" : [ "reaccionen" ]
+		}
+	}
+}

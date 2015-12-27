@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sacudir",
+	"word" : "sacudir",
+	"infinitivo" : "sacudir",
+	"participio" : [ "sacudido" ],
+	"gerundio" : [ "sacudiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sacudo" ],
+			[ "sacudes", "sacudís" ],
+			[ "sacude" ],
+			[ "sacudimos" ],
+			[ "sacudís", "sacuden" ],
+			[ "sacuden" ]
+		],
+		"4" : [
+			[ "sacudí" ],
+			[ "sacudiste" ],
+			[ "sacudió" ],
+			[ "sacudimos" ],
+			[ "sacudisteis", "sacudieron" ],
+			[ "sacudieron" ]
+		],
+		"5" : [
+			[ "sacudía" ],
+			[ "sacudías" ],
+			[ "sacudía" ],
+			[ "sacudíamos" ],
+			[ "sacudíais", "sacudían" ],
+			[ "sacudían" ]
+		],
+		"6" : [
+			[ "sacudiría" ],
+			[ "sacudirías" ],
+			[ "sacudiría" ],
+			[ "sacudiríamos" ],
+			[ "sacudiríais", "sacudirían" ],
+			[ "sacudirían" ]
+		],
+		"7" : [
+			[ "sacudiré" ],
+			[ "sacudirás" ],
+			[ "sacudirá" ],
+			[ "sacudiremos" ],
+			[ "sacudiréis", "sacudirán" ],
+			[ "sacudirán" ]
+		],
+		"8" : [
+			[ "sacuda" ],
+			[ "sacudas" ],
+			[ "sacuda" ],
+			[ "sacudamos" ],
+			[ "sacudáis", "sacudan" ],
+			[ "sacudan" ]
+		],
+		"9" : [
+			[ "sacudiera" ],
+			[ "sacudieras" ],
+			[ "sacudiera" ],
+			[ "sacudiéramos" ],
+			[ "sacudierais", "sacudieran" ],
+			[ "sacudieran" ]
+		],
+		"10" : [
+			[ "sacudiese" ],
+			[ "sacudieses" ],
+			[ "sacudiese" ],
+			[ "sacudiésemos" ],
+			[ "sacudieseis", "sacudiesen" ],
+			[ "sacudiesen" ]
+		],
+		"11" : [
+			[ "sacudiere" ],
+			[ "sacudieres" ],
+			[ "sacudiere" ],
+			[ "sacudiéremos" ],
+			[ "sacudiereis", "sacudieren" ],
+			[ "sacudieren" ]
+		],
+		"12" : {
+			"1" : [ "sacude" ],
+			"2" : [ "sacuda" ],
+			"3" : [ "sacudamos" ],
+			"4" : [ "sacudid" ],
+			"5" : [ "sacudan" ]
+		}
+	}
+}

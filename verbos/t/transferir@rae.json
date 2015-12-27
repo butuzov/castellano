@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=transferir",
+	"word" : "transferir",
+	"infinitivo" : "transferir",
+	"participio" : [ "transferido" ],
+	"gerundio" : [ "transfiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "transfiero" ],
+			[ "transfieres", "transferís" ],
+			[ "transfiere" ],
+			[ "transferimos" ],
+			[ "transferís", "transfieren" ],
+			[ "transfieren" ]
+		],
+		"4" : [
+			[ "transferí" ],
+			[ "transferiste" ],
+			[ "transfirió" ],
+			[ "transferimos" ],
+			[ "transferisteis", "transfirieron" ],
+			[ "transfirieron" ]
+		],
+		"5" : [
+			[ "transfería" ],
+			[ "transferías" ],
+			[ "transfería" ],
+			[ "transferíamos" ],
+			[ "transferíais", "transferían" ],
+			[ "transferían" ]
+		],
+		"6" : [
+			[ "transferiría" ],
+			[ "transferirías" ],
+			[ "transferiría" ],
+			[ "transferiríamos" ],
+			[ "transferiríais", "transferirían" ],
+			[ "transferirían" ]
+		],
+		"7" : [
+			[ "transferiré" ],
+			[ "transferirás" ],
+			[ "transferirá" ],
+			[ "transferiremos" ],
+			[ "transferiréis", "transferirán" ],
+			[ "transferirán" ]
+		],
+		"8" : [
+			[ "transfiera" ],
+			[ "transfieras" ],
+			[ "transfiera" ],
+			[ "transfiramos" ],
+			[ "transfiráis", "transfieran" ],
+			[ "transfieran" ]
+		],
+		"9" : [
+			[ "transfiriera" ],
+			[ "transfirieras" ],
+			[ "transfiriera" ],
+			[ "transfiriéramos" ],
+			[ "transfirierais", "transfirieran" ],
+			[ "transfirieran" ]
+		],
+		"10" : [
+			[ "transfiriese" ],
+			[ "transfirieses" ],
+			[ "transfiriese" ],
+			[ "transfiriésemos" ],
+			[ "transfirieseis", "transfiriesen" ],
+			[ "transfiriesen" ]
+		],
+		"11" : [
+			[ "transfiriere" ],
+			[ "transfirieres" ],
+			[ "transfiriere" ],
+			[ "transfiriéremos" ],
+			[ "transfiriereis", "transfirieren" ],
+			[ "transfirieren" ]
+		],
+		"12" : {
+			"1" : [ "transfiere" ],
+			"2" : [ "transfiera" ],
+			"3" : [ "transfiramos" ],
+			"4" : [ "transferid" ],
+			"5" : [ "transfieran" ]
+		}
+	}
+}

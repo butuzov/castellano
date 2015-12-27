@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=revesar",
+	"word" : "revesar",
+	"infinitivo" : "revesar",
+	"participio" : [ "revesado" ],
+	"gerundio" : [ "revesando" ],
+	"tenses" : {
+		"3" : [
+			[ "reveso" ],
+			[ "revesas", "revesás" ],
+			[ "revesa" ],
+			[ "revesamos" ],
+			[ "revesáis", "revesan" ],
+			[ "revesan" ]
+		],
+		"4" : [
+			[ "revesé" ],
+			[ "revesaste" ],
+			[ "revesó" ],
+			[ "revesamos" ],
+			[ "revesasteis", "revesaron" ],
+			[ "revesaron" ]
+		],
+		"5" : [
+			[ "revesaba" ],
+			[ "revesabas" ],
+			[ "revesaba" ],
+			[ "revesábamos" ],
+			[ "revesabais", "revesaban" ],
+			[ "revesaban" ]
+		],
+		"6" : [
+			[ "revesaría" ],
+			[ "revesarías" ],
+			[ "revesaría" ],
+			[ "revesaríamos" ],
+			[ "revesaríais", "revesarían" ],
+			[ "revesarían" ]
+		],
+		"7" : [
+			[ "revesaré" ],
+			[ "revesarás" ],
+			[ "revesará" ],
+			[ "revesaremos" ],
+			[ "revesaréis", "revesarán" ],
+			[ "revesarán" ]
+		],
+		"8" : [
+			[ "revese" ],
+			[ "reveses" ],
+			[ "revese" ],
+			[ "revesemos" ],
+			[ "reveséis", "revesen" ],
+			[ "revesen" ]
+		],
+		"9" : [
+			[ "revesara" ],
+			[ "revesaras" ],
+			[ "revesara" ],
+			[ "revesáramos" ],
+			[ "revesarais", "revesaran" ],
+			[ "revesaran" ]
+		],
+		"10" : [
+			[ "revesase" ],
+			[ "revesases" ],
+			[ "revesase" ],
+			[ "revesásemos" ],
+			[ "revesaseis", "revesasen" ],
+			[ "revesasen" ]
+		],
+		"11" : [
+			[ "revesare" ],
+			[ "revesares" ],
+			[ "revesare" ],
+			[ "revesáremos" ],
+			[ "revesareis", "revesaren" ],
+			[ "revesaren" ]
+		],
+		"12" : {
+			"1" : [ "revesa" ],
+			"2" : [ "revese" ],
+			"3" : [ "revesemos" ],
+			"4" : [ "revesad" ],
+			"5" : [ "revesen" ]
+		}
+	}
+}

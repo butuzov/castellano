@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=condenar",
+	"word" : "condenar",
+	"infinitivo" : "condenar",
+	"participio" : [ "condenado" ],
+	"gerundio" : [ "condenando" ],
+	"tenses" : {
+		"3" : [
+			[ "condeno" ],
+			[ "condenas", "condenás" ],
+			[ "condena" ],
+			[ "condenamos" ],
+			[ "condenáis", "condenan" ],
+			[ "condenan" ]
+		],
+		"4" : [
+			[ "condené" ],
+			[ "condenaste" ],
+			[ "condenó" ],
+			[ "condenamos" ],
+			[ "condenasteis", "condenaron" ],
+			[ "condenaron" ]
+		],
+		"5" : [
+			[ "condenaba" ],
+			[ "condenabas" ],
+			[ "condenaba" ],
+			[ "condenábamos" ],
+			[ "condenabais", "condenaban" ],
+			[ "condenaban" ]
+		],
+		"6" : [
+			[ "condenaría" ],
+			[ "condenarías" ],
+			[ "condenaría" ],
+			[ "condenaríamos" ],
+			[ "condenaríais", "condenarían" ],
+			[ "condenarían" ]
+		],
+		"7" : [
+			[ "condenaré" ],
+			[ "condenarás" ],
+			[ "condenará" ],
+			[ "condenaremos" ],
+			[ "condenaréis", "condenarán" ],
+			[ "condenarán" ]
+		],
+		"8" : [
+			[ "condene" ],
+			[ "condenes" ],
+			[ "condene" ],
+			[ "condenemos" ],
+			[ "condenéis", "condenen" ],
+			[ "condenen" ]
+		],
+		"9" : [
+			[ "condenara" ],
+			[ "condenaras" ],
+			[ "condenara" ],
+			[ "condenáramos" ],
+			[ "condenarais", "condenaran" ],
+			[ "condenaran" ]
+		],
+		"10" : [
+			[ "condenase" ],
+			[ "condenases" ],
+			[ "condenase" ],
+			[ "condenásemos" ],
+			[ "condenaseis", "condenasen" ],
+			[ "condenasen" ]
+		],
+		"11" : [
+			[ "condenare" ],
+			[ "condenares" ],
+			[ "condenare" ],
+			[ "condenáremos" ],
+			[ "condenareis", "condenaren" ],
+			[ "condenaren" ]
+		],
+		"12" : {
+			"1" : [ "condena" ],
+			"2" : [ "condene" ],
+			"3" : [ "condenemos" ],
+			"4" : [ "condenad" ],
+			"5" : [ "condenen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descabellar",
+	"word" : "descabellar",
+	"infinitivo" : "descabellar",
+	"participio" : [ "descabellado" ],
+	"gerundio" : [ "descabellando" ],
+	"tenses" : {
+		"3" : [
+			[ "descabello" ],
+			[ "descabellas", "descabellás" ],
+			[ "descabella" ],
+			[ "descabellamos" ],
+			[ "descabelláis", "descabellan" ],
+			[ "descabellan" ]
+		],
+		"4" : [
+			[ "descabellé" ],
+			[ "descabellaste" ],
+			[ "descabelló" ],
+			[ "descabellamos" ],
+			[ "descabellasteis", "descabellaron" ],
+			[ "descabellaron" ]
+		],
+		"5" : [
+			[ "descabellaba" ],
+			[ "descabellabas" ],
+			[ "descabellaba" ],
+			[ "descabellábamos" ],
+			[ "descabellabais", "descabellaban" ],
+			[ "descabellaban" ]
+		],
+		"6" : [
+			[ "descabellaría" ],
+			[ "descabellarías" ],
+			[ "descabellaría" ],
+			[ "descabellaríamos" ],
+			[ "descabellaríais", "descabellarían" ],
+			[ "descabellarían" ]
+		],
+		"7" : [
+			[ "descabellaré" ],
+			[ "descabellarás" ],
+			[ "descabellará" ],
+			[ "descabellaremos" ],
+			[ "descabellaréis", "descabellarán" ],
+			[ "descabellarán" ]
+		],
+		"8" : [
+			[ "descabelle" ],
+			[ "descabelles" ],
+			[ "descabelle" ],
+			[ "descabellemos" ],
+			[ "descabelléis", "descabellen" ],
+			[ "descabellen" ]
+		],
+		"9" : [
+			[ "descabellara" ],
+			[ "descabellaras" ],
+			[ "descabellara" ],
+			[ "descabelláramos" ],
+			[ "descabellarais", "descabellaran" ],
+			[ "descabellaran" ]
+		],
+		"10" : [
+			[ "descabellase" ],
+			[ "descabellases" ],
+			[ "descabellase" ],
+			[ "descabellásemos" ],
+			[ "descabellaseis", "descabellasen" ],
+			[ "descabellasen" ]
+		],
+		"11" : [
+			[ "descabellare" ],
+			[ "descabellares" ],
+			[ "descabellare" ],
+			[ "descabelláremos" ],
+			[ "descabellareis", "descabellaren" ],
+			[ "descabellaren" ]
+		],
+		"12" : {
+			"1" : [ "descabella" ],
+			"2" : [ "descabelle" ],
+			"3" : [ "descabellemos" ],
+			"4" : [ "descabellad" ],
+			"5" : [ "descabellen" ]
+		}
+	}
+}

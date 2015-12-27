@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reverberar",
+	"word" : "reverberar",
+	"infinitivo" : "reverberar",
+	"participio" : [ "reverberado" ],
+	"gerundio" : [ "reverberando" ],
+	"tenses" : {
+		"3" : [
+			[ "reverbero" ],
+			[ "reverberas", "reverberás" ],
+			[ "reverbera" ],
+			[ "reverberamos" ],
+			[ "reverberáis", "reverberan" ],
+			[ "reverberan" ]
+		],
+		"4" : [
+			[ "reverberé" ],
+			[ "reverberaste" ],
+			[ "reverberó" ],
+			[ "reverberamos" ],
+			[ "reverberasteis", "reverberaron" ],
+			[ "reverberaron" ]
+		],
+		"5" : [
+			[ "reverberaba" ],
+			[ "reverberabas" ],
+			[ "reverberaba" ],
+			[ "reverberábamos" ],
+			[ "reverberabais", "reverberaban" ],
+			[ "reverberaban" ]
+		],
+		"6" : [
+			[ "reverberaría" ],
+			[ "reverberarías" ],
+			[ "reverberaría" ],
+			[ "reverberaríamos" ],
+			[ "reverberaríais", "reverberarían" ],
+			[ "reverberarían" ]
+		],
+		"7" : [
+			[ "reverberaré" ],
+			[ "reverberarás" ],
+			[ "reverberará" ],
+			[ "reverberaremos" ],
+			[ "reverberaréis", "reverberarán" ],
+			[ "reverberarán" ]
+		],
+		"8" : [
+			[ "reverbere" ],
+			[ "reverberes" ],
+			[ "reverbere" ],
+			[ "reverberemos" ],
+			[ "reverberéis", "reverberen" ],
+			[ "reverberen" ]
+		],
+		"9" : [
+			[ "reverberara" ],
+			[ "reverberaras" ],
+			[ "reverberara" ],
+			[ "reverberáramos" ],
+			[ "reverberarais", "reverberaran" ],
+			[ "reverberaran" ]
+		],
+		"10" : [
+			[ "reverberase" ],
+			[ "reverberases" ],
+			[ "reverberase" ],
+			[ "reverberásemos" ],
+			[ "reverberaseis", "reverberasen" ],
+			[ "reverberasen" ]
+		],
+		"11" : [
+			[ "reverberare" ],
+			[ "reverberares" ],
+			[ "reverberare" ],
+			[ "reverberáremos" ],
+			[ "reverberareis", "reverberaren" ],
+			[ "reverberaren" ]
+		],
+		"12" : {
+			"1" : [ "reverbera" ],
+			"2" : [ "reverbere" ],
+			"3" : [ "reverberemos" ],
+			"4" : [ "reverberad" ],
+			"5" : [ "reverberen" ]
+		}
+	}
+}

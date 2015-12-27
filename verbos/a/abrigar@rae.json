@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abrigar",
+	"word" : "abrigar",
+	"infinitivo" : "abrigar",
+	"participio" : [ "abrigado" ],
+	"gerundio" : [ "abrigando" ],
+	"tenses" : {
+		"3" : [
+			[ "abrigo" ],
+			[ "abrigas", "abrigás" ],
+			[ "abriga" ],
+			[ "abrigamos" ],
+			[ "abrigáis", "abrigan" ],
+			[ "abrigan" ]
+		],
+		"4" : [
+			[ "abrigué" ],
+			[ "abrigaste" ],
+			[ "abrigó" ],
+			[ "abrigamos" ],
+			[ "abrigasteis", "abrigaron" ],
+			[ "abrigaron" ]
+		],
+		"5" : [
+			[ "abrigaba" ],
+			[ "abrigabas" ],
+			[ "abrigaba" ],
+			[ "abrigábamos" ],
+			[ "abrigabais", "abrigaban" ],
+			[ "abrigaban" ]
+		],
+		"6" : [
+			[ "abrigaría" ],
+			[ "abrigarías" ],
+			[ "abrigaría" ],
+			[ "abrigaríamos" ],
+			[ "abrigaríais", "abrigarían" ],
+			[ "abrigarían" ]
+		],
+		"7" : [
+			[ "abrigaré" ],
+			[ "abrigarás" ],
+			[ "abrigará" ],
+			[ "abrigaremos" ],
+			[ "abrigaréis", "abrigarán" ],
+			[ "abrigarán" ]
+		],
+		"8" : [
+			[ "abrigue" ],
+			[ "abrigues" ],
+			[ "abrigue" ],
+			[ "abriguemos" ],
+			[ "abriguéis", "abriguen" ],
+			[ "abriguen" ]
+		],
+		"9" : [
+			[ "abrigara" ],
+			[ "abrigaras" ],
+			[ "abrigara" ],
+			[ "abrigáramos" ],
+			[ "abrigarais", "abrigaran" ],
+			[ "abrigaran" ]
+		],
+		"10" : [
+			[ "abrigase" ],
+			[ "abrigases" ],
+			[ "abrigase" ],
+			[ "abrigásemos" ],
+			[ "abrigaseis", "abrigasen" ],
+			[ "abrigasen" ]
+		],
+		"11" : [
+			[ "abrigare" ],
+			[ "abrigares" ],
+			[ "abrigare" ],
+			[ "abrigáremos" ],
+			[ "abrigareis", "abrigaren" ],
+			[ "abrigaren" ]
+		],
+		"12" : {
+			"1" : [ "abriga" ],
+			"2" : [ "abrigue" ],
+			"3" : [ "abriguemos" ],
+			"4" : [ "abrigad" ],
+			"5" : [ "abriguen" ]
+		}
+	}
+}

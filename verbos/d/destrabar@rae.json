@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=destrabar",
+	"word" : "destrabar",
+	"infinitivo" : "destrabar",
+	"participio" : [ "destrabado" ],
+	"gerundio" : [ "destrabando" ],
+	"tenses" : {
+		"3" : [
+			[ "destrabo" ],
+			[ "destrabas", "destrabás" ],
+			[ "destraba" ],
+			[ "destrabamos" ],
+			[ "destrabáis", "destraban" ],
+			[ "destraban" ]
+		],
+		"4" : [
+			[ "destrabé" ],
+			[ "destrabaste" ],
+			[ "destrabó" ],
+			[ "destrabamos" ],
+			[ "destrabasteis", "destrabaron" ],
+			[ "destrabaron" ]
+		],
+		"5" : [
+			[ "destrababa" ],
+			[ "destrababas" ],
+			[ "destrababa" ],
+			[ "destrabábamos" ],
+			[ "destrababais", "destrababan" ],
+			[ "destrababan" ]
+		],
+		"6" : [
+			[ "destrabaría" ],
+			[ "destrabarías" ],
+			[ "destrabaría" ],
+			[ "destrabaríamos" ],
+			[ "destrabaríais", "destrabarían" ],
+			[ "destrabarían" ]
+		],
+		"7" : [
+			[ "destrabaré" ],
+			[ "destrabarás" ],
+			[ "destrabará" ],
+			[ "destrabaremos" ],
+			[ "destrabaréis", "destrabarán" ],
+			[ "destrabarán" ]
+		],
+		"8" : [
+			[ "destrabe" ],
+			[ "destrabes" ],
+			[ "destrabe" ],
+			[ "destrabemos" ],
+			[ "destrabéis", "destraben" ],
+			[ "destraben" ]
+		],
+		"9" : [
+			[ "destrabara" ],
+			[ "destrabaras" ],
+			[ "destrabara" ],
+			[ "destrabáramos" ],
+			[ "destrabarais", "destrabaran" ],
+			[ "destrabaran" ]
+		],
+		"10" : [
+			[ "destrabase" ],
+			[ "destrabases" ],
+			[ "destrabase" ],
+			[ "destrabásemos" ],
+			[ "destrabaseis", "destrabasen" ],
+			[ "destrabasen" ]
+		],
+		"11" : [
+			[ "destrabare" ],
+			[ "destrabares" ],
+			[ "destrabare" ],
+			[ "destrabáremos" ],
+			[ "destrabareis", "destrabaren" ],
+			[ "destrabaren" ]
+		],
+		"12" : {
+			"1" : [ "destraba" ],
+			"2" : [ "destrabe" ],
+			"3" : [ "destrabemos" ],
+			"4" : [ "destrabad" ],
+			"5" : [ "destraben" ]
+		}
+	}
+}

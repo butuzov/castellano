@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=parir",
+	"word" : "parir",
+	"infinitivo" : "parir",
+	"participio" : [ "parido" ],
+	"gerundio" : [ "pariendo" ],
+	"tenses" : {
+		"3" : [
+			[ "paro" ],
+			[ "pares", "parís" ],
+			[ "pare" ],
+			[ "parimos" ],
+			[ "parís", "paren" ],
+			[ "paren" ]
+		],
+		"4" : [
+			[ "parí" ],
+			[ "pariste" ],
+			[ "parió" ],
+			[ "parimos" ],
+			[ "paristeis", "parieron" ],
+			[ "parieron" ]
+		],
+		"5" : [
+			[ "paría" ],
+			[ "parías" ],
+			[ "paría" ],
+			[ "paríamos" ],
+			[ "paríais", "parían" ],
+			[ "parían" ]
+		],
+		"6" : [
+			[ "pariría" ],
+			[ "parirías" ],
+			[ "pariría" ],
+			[ "pariríamos" ],
+			[ "pariríais", "parirían" ],
+			[ "parirían" ]
+		],
+		"7" : [
+			[ "pariré" ],
+			[ "parirás" ],
+			[ "parirá" ],
+			[ "pariremos" ],
+			[ "pariréis", "parirán" ],
+			[ "parirán" ]
+		],
+		"8" : [
+			[ "para" ],
+			[ "paras" ],
+			[ "para" ],
+			[ "paramos" ],
+			[ "paráis", "paran" ],
+			[ "paran" ]
+		],
+		"9" : [
+			[ "pariera" ],
+			[ "parieras" ],
+			[ "pariera" ],
+			[ "pariéramos" ],
+			[ "parierais", "parieran" ],
+			[ "parieran" ]
+		],
+		"10" : [
+			[ "pariese" ],
+			[ "parieses" ],
+			[ "pariese" ],
+			[ "pariésemos" ],
+			[ "parieseis", "pariesen" ],
+			[ "pariesen" ]
+		],
+		"11" : [
+			[ "pariere" ],
+			[ "parieres" ],
+			[ "pariere" ],
+			[ "pariéremos" ],
+			[ "pariereis", "parieren" ],
+			[ "parieren" ]
+		],
+		"12" : {
+			"1" : [ "pare" ],
+			"2" : [ "para" ],
+			"3" : [ "paramos" ],
+			"4" : [ "parid" ],
+			"5" : [ "paran" ]
+		}
+	}
+}

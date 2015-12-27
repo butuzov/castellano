@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sofocar",
+	"word" : "sofocar",
+	"infinitivo" : "sofocar",
+	"participio" : [ "sofocado" ],
+	"gerundio" : [ "sofocando" ],
+	"tenses" : {
+		"3" : [
+			[ "sofoco" ],
+			[ "sofocas", "sofocás" ],
+			[ "sofoca" ],
+			[ "sofocamos" ],
+			[ "sofocáis", "sofocan" ],
+			[ "sofocan" ]
+		],
+		"4" : [
+			[ "sofoqué" ],
+			[ "sofocaste" ],
+			[ "sofocó" ],
+			[ "sofocamos" ],
+			[ "sofocasteis", "sofocaron" ],
+			[ "sofocaron" ]
+		],
+		"5" : [
+			[ "sofocaba" ],
+			[ "sofocabas" ],
+			[ "sofocaba" ],
+			[ "sofocábamos" ],
+			[ "sofocabais", "sofocaban" ],
+			[ "sofocaban" ]
+		],
+		"6" : [
+			[ "sofocaría" ],
+			[ "sofocarías" ],
+			[ "sofocaría" ],
+			[ "sofocaríamos" ],
+			[ "sofocaríais", "sofocarían" ],
+			[ "sofocarían" ]
+		],
+		"7" : [
+			[ "sofocaré" ],
+			[ "sofocarás" ],
+			[ "sofocará" ],
+			[ "sofocaremos" ],
+			[ "sofocaréis", "sofocarán" ],
+			[ "sofocarán" ]
+		],
+		"8" : [
+			[ "sofoque" ],
+			[ "sofoques" ],
+			[ "sofoque" ],
+			[ "sofoquemos" ],
+			[ "sofoquéis", "sofoquen" ],
+			[ "sofoquen" ]
+		],
+		"9" : [
+			[ "sofocara" ],
+			[ "sofocaras" ],
+			[ "sofocara" ],
+			[ "sofocáramos" ],
+			[ "sofocarais", "sofocaran" ],
+			[ "sofocaran" ]
+		],
+		"10" : [
+			[ "sofocase" ],
+			[ "sofocases" ],
+			[ "sofocase" ],
+			[ "sofocásemos" ],
+			[ "sofocaseis", "sofocasen" ],
+			[ "sofocasen" ]
+		],
+		"11" : [
+			[ "sofocare" ],
+			[ "sofocares" ],
+			[ "sofocare" ],
+			[ "sofocáremos" ],
+			[ "sofocareis", "sofocaren" ],
+			[ "sofocaren" ]
+		],
+		"12" : {
+			"1" : [ "sofoca" ],
+			"2" : [ "sofoque" ],
+			"3" : [ "sofoquemos" ],
+			"4" : [ "sofocad" ],
+			"5" : [ "sofoquen" ]
+		}
+	}
+}

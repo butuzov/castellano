@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=automatizar",
+	"word" : "automatizar",
+	"infinitivo" : "automatizar",
+	"participio" : [ "automatizado" ],
+	"gerundio" : [ "automatizando" ],
+	"tenses" : {
+		"3" : [
+			[ "automatizo" ],
+			[ "automatizas", "automatizás" ],
+			[ "automatiza" ],
+			[ "automatizamos" ],
+			[ "automatizáis", "automatizan" ],
+			[ "automatizan" ]
+		],
+		"4" : [
+			[ "automaticé" ],
+			[ "automatizaste" ],
+			[ "automatizó" ],
+			[ "automatizamos" ],
+			[ "automatizasteis", "automatizaron" ],
+			[ "automatizaron" ]
+		],
+		"5" : [
+			[ "automatizaba" ],
+			[ "automatizabas" ],
+			[ "automatizaba" ],
+			[ "automatizábamos" ],
+			[ "automatizabais", "automatizaban" ],
+			[ "automatizaban" ]
+		],
+		"6" : [
+			[ "automatizaría" ],
+			[ "automatizarías" ],
+			[ "automatizaría" ],
+			[ "automatizaríamos" ],
+			[ "automatizaríais", "automatizarían" ],
+			[ "automatizarían" ]
+		],
+		"7" : [
+			[ "automatizaré" ],
+			[ "automatizarás" ],
+			[ "automatizará" ],
+			[ "automatizaremos" ],
+			[ "automatizaréis", "automatizarán" ],
+			[ "automatizarán" ]
+		],
+		"8" : [
+			[ "automatice" ],
+			[ "automatices" ],
+			[ "automatice" ],
+			[ "automaticemos" ],
+			[ "automaticéis", "automaticen" ],
+			[ "automaticen" ]
+		],
+		"9" : [
+			[ "automatizara" ],
+			[ "automatizaras" ],
+			[ "automatizara" ],
+			[ "automatizáramos" ],
+			[ "automatizarais", "automatizaran" ],
+			[ "automatizaran" ]
+		],
+		"10" : [
+			[ "automatizase" ],
+			[ "automatizases" ],
+			[ "automatizase" ],
+			[ "automatizásemos" ],
+			[ "automatizaseis", "automatizasen" ],
+			[ "automatizasen" ]
+		],
+		"11" : [
+			[ "automatizare" ],
+			[ "automatizares" ],
+			[ "automatizare" ],
+			[ "automatizáremos" ],
+			[ "automatizareis", "automatizaren" ],
+			[ "automatizaren" ]
+		],
+		"12" : {
+			"1" : [ "automatiza" ],
+			"2" : [ "automatice" ],
+			"3" : [ "automaticemos" ],
+			"4" : [ "automatizad" ],
+			"5" : [ "automaticen" ]
+		}
+	}
+}

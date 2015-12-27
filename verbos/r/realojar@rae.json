@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=realojar",
+	"word" : "realojar",
+	"infinitivo" : "realojar",
+	"participio" : [ "realojado" ],
+	"gerundio" : [ "realojando" ],
+	"tenses" : {
+		"3" : [
+			[ "realojo" ],
+			[ "realojas", "realojás" ],
+			[ "realoja" ],
+			[ "realojamos" ],
+			[ "realojáis", "realojan" ],
+			[ "realojan" ]
+		],
+		"4" : [
+			[ "realojé" ],
+			[ "realojaste" ],
+			[ "realojó" ],
+			[ "realojamos" ],
+			[ "realojasteis", "realojaron" ],
+			[ "realojaron" ]
+		],
+		"5" : [
+			[ "realojaba" ],
+			[ "realojabas" ],
+			[ "realojaba" ],
+			[ "realojábamos" ],
+			[ "realojabais", "realojaban" ],
+			[ "realojaban" ]
+		],
+		"6" : [
+			[ "realojaría" ],
+			[ "realojarías" ],
+			[ "realojaría" ],
+			[ "realojaríamos" ],
+			[ "realojaríais", "realojarían" ],
+			[ "realojarían" ]
+		],
+		"7" : [
+			[ "realojaré" ],
+			[ "realojarás" ],
+			[ "realojará" ],
+			[ "realojaremos" ],
+			[ "realojaréis", "realojarán" ],
+			[ "realojarán" ]
+		],
+		"8" : [
+			[ "realoje" ],
+			[ "realojes" ],
+			[ "realoje" ],
+			[ "realojemos" ],
+			[ "realojéis", "realojen" ],
+			[ "realojen" ]
+		],
+		"9" : [
+			[ "realojara" ],
+			[ "realojaras" ],
+			[ "realojara" ],
+			[ "realojáramos" ],
+			[ "realojarais", "realojaran" ],
+			[ "realojaran" ]
+		],
+		"10" : [
+			[ "realojase" ],
+			[ "realojases" ],
+			[ "realojase" ],
+			[ "realojásemos" ],
+			[ "realojaseis", "realojasen" ],
+			[ "realojasen" ]
+		],
+		"11" : [
+			[ "realojare" ],
+			[ "realojares" ],
+			[ "realojare" ],
+			[ "realojáremos" ],
+			[ "realojareis", "realojaren" ],
+			[ "realojaren" ]
+		],
+		"12" : {
+			"1" : [ "realoja" ],
+			"2" : [ "realoje" ],
+			"3" : [ "realojemos" ],
+			"4" : [ "realojad" ],
+			"5" : [ "realojen" ]
+		}
+	}
+}

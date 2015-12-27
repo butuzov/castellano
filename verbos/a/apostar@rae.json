@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apostar",
+	"word" : "apostar",
+	"infinitivo" : "apostar",
+	"participio" : [ "apostado" ],
+	"gerundio" : [ "apostando" ],
+	"tenses" : {
+		"3" : [
+			[ "apuesto" ],
+			[ "apuestas", "apostás" ],
+			[ "apuesta" ],
+			[ "apostamos" ],
+			[ "apostáis", "apuestan" ],
+			[ "apuestan" ]
+		],
+		"4" : [
+			[ "aposté" ],
+			[ "apostaste" ],
+			[ "apostó" ],
+			[ "apostamos" ],
+			[ "apostasteis", "apostaron" ],
+			[ "apostaron" ]
+		],
+		"5" : [
+			[ "apostaba" ],
+			[ "apostabas" ],
+			[ "apostaba" ],
+			[ "apostábamos" ],
+			[ "apostabais", "apostaban" ],
+			[ "apostaban" ]
+		],
+		"6" : [
+			[ "apostaría" ],
+			[ "apostarías" ],
+			[ "apostaría" ],
+			[ "apostaríamos" ],
+			[ "apostaríais", "apostarían" ],
+			[ "apostarían" ]
+		],
+		"7" : [
+			[ "apostaré" ],
+			[ "apostarás" ],
+			[ "apostará" ],
+			[ "apostaremos" ],
+			[ "apostaréis", "apostarán" ],
+			[ "apostarán" ]
+		],
+		"8" : [
+			[ "apueste" ],
+			[ "apuestes" ],
+			[ "apueste" ],
+			[ "apostemos" ],
+			[ "apostéis", "apuesten" ],
+			[ "apuesten" ]
+		],
+		"9" : [
+			[ "apostara" ],
+			[ "apostaras" ],
+			[ "apostara" ],
+			[ "apostáramos" ],
+			[ "apostarais", "apostaran" ],
+			[ "apostaran" ]
+		],
+		"10" : [
+			[ "apostase" ],
+			[ "apostases" ],
+			[ "apostase" ],
+			[ "apostásemos" ],
+			[ "apostaseis", "apostasen" ],
+			[ "apostasen" ]
+		],
+		"11" : [
+			[ "apostare" ],
+			[ "apostares" ],
+			[ "apostare" ],
+			[ "apostáremos" ],
+			[ "apostareis", "apostaren" ],
+			[ "apostaren" ]
+		],
+		"12" : {
+			"1" : [ "apuesta" ],
+			"2" : [ "apueste" ],
+			"3" : [ "apostemos" ],
+			"4" : [ "apostad" ],
+			"5" : [ "apuesten" ]
+		}
+	}
+}

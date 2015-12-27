@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=raptar",
+	"word" : "raptar",
+	"infinitivo" : "raptar",
+	"participio" : [ "raptado" ],
+	"gerundio" : [ "raptando" ],
+	"tenses" : {
+		"3" : [
+			[ "rapto" ],
+			[ "raptas", "raptás" ],
+			[ "rapta" ],
+			[ "raptamos" ],
+			[ "raptáis", "raptan" ],
+			[ "raptan" ]
+		],
+		"4" : [
+			[ "rapté" ],
+			[ "raptaste" ],
+			[ "raptó" ],
+			[ "raptamos" ],
+			[ "raptasteis", "raptaron" ],
+			[ "raptaron" ]
+		],
+		"5" : [
+			[ "raptaba" ],
+			[ "raptabas" ],
+			[ "raptaba" ],
+			[ "raptábamos" ],
+			[ "raptabais", "raptaban" ],
+			[ "raptaban" ]
+		],
+		"6" : [
+			[ "raptaría" ],
+			[ "raptarías" ],
+			[ "raptaría" ],
+			[ "raptaríamos" ],
+			[ "raptaríais", "raptarían" ],
+			[ "raptarían" ]
+		],
+		"7" : [
+			[ "raptaré" ],
+			[ "raptarás" ],
+			[ "raptará" ],
+			[ "raptaremos" ],
+			[ "raptaréis", "raptarán" ],
+			[ "raptarán" ]
+		],
+		"8" : [
+			[ "rapte" ],
+			[ "raptes" ],
+			[ "rapte" ],
+			[ "raptemos" ],
+			[ "raptéis", "rapten" ],
+			[ "rapten" ]
+		],
+		"9" : [
+			[ "raptara" ],
+			[ "raptaras" ],
+			[ "raptara" ],
+			[ "raptáramos" ],
+			[ "raptarais", "raptaran" ],
+			[ "raptaran" ]
+		],
+		"10" : [
+			[ "raptase" ],
+			[ "raptases" ],
+			[ "raptase" ],
+			[ "raptásemos" ],
+			[ "raptaseis", "raptasen" ],
+			[ "raptasen" ]
+		],
+		"11" : [
+			[ "raptare" ],
+			[ "raptares" ],
+			[ "raptare" ],
+			[ "raptáremos" ],
+			[ "raptareis", "raptaren" ],
+			[ "raptaren" ]
+		],
+		"12" : {
+			"1" : [ "rapta" ],
+			"2" : [ "rapte" ],
+			"3" : [ "raptemos" ],
+			"4" : [ "raptad" ],
+			"5" : [ "rapten" ]
+		}
+	}
+}

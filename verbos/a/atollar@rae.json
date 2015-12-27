@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atollar",
+	"word" : "atollar",
+	"infinitivo" : "atollar",
+	"participio" : [ "atollado" ],
+	"gerundio" : [ "atollando" ],
+	"tenses" : {
+		"3" : [
+			[ "atollo" ],
+			[ "atollas", "atollás" ],
+			[ "atolla" ],
+			[ "atollamos" ],
+			[ "atolláis", "atollan" ],
+			[ "atollan" ]
+		],
+		"4" : [
+			[ "atollé" ],
+			[ "atollaste" ],
+			[ "atolló" ],
+			[ "atollamos" ],
+			[ "atollasteis", "atollaron" ],
+			[ "atollaron" ]
+		],
+		"5" : [
+			[ "atollaba" ],
+			[ "atollabas" ],
+			[ "atollaba" ],
+			[ "atollábamos" ],
+			[ "atollabais", "atollaban" ],
+			[ "atollaban" ]
+		],
+		"6" : [
+			[ "atollaría" ],
+			[ "atollarías" ],
+			[ "atollaría" ],
+			[ "atollaríamos" ],
+			[ "atollaríais", "atollarían" ],
+			[ "atollarían" ]
+		],
+		"7" : [
+			[ "atollaré" ],
+			[ "atollarás" ],
+			[ "atollará" ],
+			[ "atollaremos" ],
+			[ "atollaréis", "atollarán" ],
+			[ "atollarán" ]
+		],
+		"8" : [
+			[ "atolle" ],
+			[ "atolles" ],
+			[ "atolle" ],
+			[ "atollemos" ],
+			[ "atolléis", "atollen" ],
+			[ "atollen" ]
+		],
+		"9" : [
+			[ "atollara" ],
+			[ "atollaras" ],
+			[ "atollara" ],
+			[ "atolláramos" ],
+			[ "atollarais", "atollaran" ],
+			[ "atollaran" ]
+		],
+		"10" : [
+			[ "atollase" ],
+			[ "atollases" ],
+			[ "atollase" ],
+			[ "atollásemos" ],
+			[ "atollaseis", "atollasen" ],
+			[ "atollasen" ]
+		],
+		"11" : [
+			[ "atollare" ],
+			[ "atollares" ],
+			[ "atollare" ],
+			[ "atolláremos" ],
+			[ "atollareis", "atollaren" ],
+			[ "atollaren" ]
+		],
+		"12" : {
+			"1" : [ "atolla" ],
+			"2" : [ "atolle" ],
+			"3" : [ "atollemos" ],
+			"4" : [ "atollad" ],
+			"5" : [ "atollen" ]
+		}
+	}
+}

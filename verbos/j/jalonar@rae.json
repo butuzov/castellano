@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=jalonar",
+	"word" : "jalonar",
+	"infinitivo" : "jalonar",
+	"participio" : [ "jalonado" ],
+	"gerundio" : [ "jalonando" ],
+	"tenses" : {
+		"3" : [
+			[ "jalono" ],
+			[ "jalonas", "jalonás" ],
+			[ "jalona" ],
+			[ "jalonamos" ],
+			[ "jalonáis", "jalonan" ],
+			[ "jalonan" ]
+		],
+		"4" : [
+			[ "jaloné" ],
+			[ "jalonaste" ],
+			[ "jalonó" ],
+			[ "jalonamos" ],
+			[ "jalonasteis", "jalonaron" ],
+			[ "jalonaron" ]
+		],
+		"5" : [
+			[ "jalonaba" ],
+			[ "jalonabas" ],
+			[ "jalonaba" ],
+			[ "jalonábamos" ],
+			[ "jalonabais", "jalonaban" ],
+			[ "jalonaban" ]
+		],
+		"6" : [
+			[ "jalonaría" ],
+			[ "jalonarías" ],
+			[ "jalonaría" ],
+			[ "jalonaríamos" ],
+			[ "jalonaríais", "jalonarían" ],
+			[ "jalonarían" ]
+		],
+		"7" : [
+			[ "jalonaré" ],
+			[ "jalonarás" ],
+			[ "jalonará" ],
+			[ "jalonaremos" ],
+			[ "jalonaréis", "jalonarán" ],
+			[ "jalonarán" ]
+		],
+		"8" : [
+			[ "jalone" ],
+			[ "jalones" ],
+			[ "jalone" ],
+			[ "jalonemos" ],
+			[ "jalonéis", "jalonen" ],
+			[ "jalonen" ]
+		],
+		"9" : [
+			[ "jalonara" ],
+			[ "jalonaras" ],
+			[ "jalonara" ],
+			[ "jalonáramos" ],
+			[ "jalonarais", "jalonaran" ],
+			[ "jalonaran" ]
+		],
+		"10" : [
+			[ "jalonase" ],
+			[ "jalonases" ],
+			[ "jalonase" ],
+			[ "jalonásemos" ],
+			[ "jalonaseis", "jalonasen" ],
+			[ "jalonasen" ]
+		],
+		"11" : [
+			[ "jalonare" ],
+			[ "jalonares" ],
+			[ "jalonare" ],
+			[ "jalonáremos" ],
+			[ "jalonareis", "jalonaren" ],
+			[ "jalonaren" ]
+		],
+		"12" : {
+			"1" : [ "jalona" ],
+			"2" : [ "jalone" ],
+			"3" : [ "jalonemos" ],
+			"4" : [ "jalonad" ],
+			"5" : [ "jalonen" ]
+		}
+	}
+}

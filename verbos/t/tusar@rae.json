@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tusar",
+	"word" : "tusar",
+	"infinitivo" : "tusar",
+	"participio" : [ "tusado" ],
+	"gerundio" : [ "tusando" ],
+	"tenses" : {
+		"3" : [
+			[ "tuso" ],
+			[ "tusas", "tusás" ],
+			[ "tusa" ],
+			[ "tusamos" ],
+			[ "tusáis", "tusan" ],
+			[ "tusan" ]
+		],
+		"4" : [
+			[ "tusé" ],
+			[ "tusaste" ],
+			[ "tusó" ],
+			[ "tusamos" ],
+			[ "tusasteis", "tusaron" ],
+			[ "tusaron" ]
+		],
+		"5" : [
+			[ "tusaba" ],
+			[ "tusabas" ],
+			[ "tusaba" ],
+			[ "tusábamos" ],
+			[ "tusabais", "tusaban" ],
+			[ "tusaban" ]
+		],
+		"6" : [
+			[ "tusaría" ],
+			[ "tusarías" ],
+			[ "tusaría" ],
+			[ "tusaríamos" ],
+			[ "tusaríais", "tusarían" ],
+			[ "tusarían" ]
+		],
+		"7" : [
+			[ "tusaré" ],
+			[ "tusarás" ],
+			[ "tusará" ],
+			[ "tusaremos" ],
+			[ "tusaréis", "tusarán" ],
+			[ "tusarán" ]
+		],
+		"8" : [
+			[ "tuse" ],
+			[ "tuses" ],
+			[ "tuse" ],
+			[ "tusemos" ],
+			[ "tuséis", "tusen" ],
+			[ "tusen" ]
+		],
+		"9" : [
+			[ "tusara" ],
+			[ "tusaras" ],
+			[ "tusara" ],
+			[ "tusáramos" ],
+			[ "tusarais", "tusaran" ],
+			[ "tusaran" ]
+		],
+		"10" : [
+			[ "tusase" ],
+			[ "tusases" ],
+			[ "tusase" ],
+			[ "tusásemos" ],
+			[ "tusaseis", "tusasen" ],
+			[ "tusasen" ]
+		],
+		"11" : [
+			[ "tusare" ],
+			[ "tusares" ],
+			[ "tusare" ],
+			[ "tusáremos" ],
+			[ "tusareis", "tusaren" ],
+			[ "tusaren" ]
+		],
+		"12" : {
+			"1" : [ "tusa" ],
+			"2" : [ "tuse" ],
+			"3" : [ "tusemos" ],
+			"4" : [ "tusad" ],
+			"5" : [ "tusen" ]
+		}
+	}
+}

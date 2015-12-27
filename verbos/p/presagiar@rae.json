@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=presagiar",
+	"word" : "presagiar",
+	"infinitivo" : "presagiar",
+	"participio" : [ "presagiado" ],
+	"gerundio" : [ "presagiando" ],
+	"tenses" : {
+		"3" : [
+			[ "presagio" ],
+			[ "presagias", "presagiás" ],
+			[ "presagia" ],
+			[ "presagiamos" ],
+			[ "presagiáis", "presagian" ],
+			[ "presagian" ]
+		],
+		"4" : [
+			[ "presagié" ],
+			[ "presagiaste" ],
+			[ "presagió" ],
+			[ "presagiamos" ],
+			[ "presagiasteis", "presagiaron" ],
+			[ "presagiaron" ]
+		],
+		"5" : [
+			[ "presagiaba" ],
+			[ "presagiabas" ],
+			[ "presagiaba" ],
+			[ "presagiábamos" ],
+			[ "presagiabais", "presagiaban" ],
+			[ "presagiaban" ]
+		],
+		"6" : [
+			[ "presagiaría" ],
+			[ "presagiarías" ],
+			[ "presagiaría" ],
+			[ "presagiaríamos" ],
+			[ "presagiaríais", "presagiarían" ],
+			[ "presagiarían" ]
+		],
+		"7" : [
+			[ "presagiaré" ],
+			[ "presagiarás" ],
+			[ "presagiará" ],
+			[ "presagiaremos" ],
+			[ "presagiaréis", "presagiarán" ],
+			[ "presagiarán" ]
+		],
+		"8" : [
+			[ "presagie" ],
+			[ "presagies" ],
+			[ "presagie" ],
+			[ "presagiemos" ],
+			[ "presagiéis", "presagien" ],
+			[ "presagien" ]
+		],
+		"9" : [
+			[ "presagiara" ],
+			[ "presagiaras" ],
+			[ "presagiara" ],
+			[ "presagiáramos" ],
+			[ "presagiarais", "presagiaran" ],
+			[ "presagiaran" ]
+		],
+		"10" : [
+			[ "presagiase" ],
+			[ "presagiases" ],
+			[ "presagiase" ],
+			[ "presagiásemos" ],
+			[ "presagiaseis", "presagiasen" ],
+			[ "presagiasen" ]
+		],
+		"11" : [
+			[ "presagiare" ],
+			[ "presagiares" ],
+			[ "presagiare" ],
+			[ "presagiáremos" ],
+			[ "presagiareis", "presagiaren" ],
+			[ "presagiaren" ]
+		],
+		"12" : {
+			"1" : [ "presagia" ],
+			"2" : [ "presagie" ],
+			"3" : [ "presagiemos" ],
+			"4" : [ "presagiad" ],
+			"5" : [ "presagien" ]
+		}
+	}
+}

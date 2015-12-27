@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atentar",
+	"word" : "atentar",
+	"infinitivo" : "atentar",
+	"participio" : [ "atentado" ],
+	"gerundio" : [ "atentando" ],
+	"tenses" : {
+		"3" : [
+			[ "atiento", "atento" ],
+			[ "atientas",  "atentas", "atentás" ],
+			[ "atienta", "atenta" ],
+			[ "atentamos" ],
+			[ "atentáis", "atientan", "atentan" ],
+			[ "atientan" , "atentan"]
+		],
+		"4" : [
+			[ "atenté" ],
+			[ "atentaste" ],
+			[ "atentó" ],
+			[ "atentamos" ],
+			[ "atentasteis", "atentaron" ],
+			[ "atentaron" ]
+		],
+		"5" : [
+			[ "atentaba" ],
+			[ "atentabas" ],
+			[ "atentaba" ],
+			[ "atentábamos" ],
+			[ "atentabais", "atentaban" ],
+			[ "atentaban" ]
+		],
+		"6" : [
+			[ "atentaría" ],
+			[ "atentarías" ],
+			[ "atentaría" ],
+			[ "atentaríamos" ],
+			[ "atentaríais", "atentarían" ],
+			[ "atentarían" ]
+		],
+		"7" : [
+			[ "atentaré" ],
+			[ "atentarás" ],
+			[ "atentará" ],
+			[ "atentaremos" ],
+			[ "atentaréis", "atentarán" ],
+			[ "atentarán" ]
+		],
+		"8" : [
+			[ "atiente", "atente" ],
+			[ "atientes", "atentes" ],
+			[ "atiente", "atente" ],
+			[ "atentemos" ],
+			[ "atentéis", "atienten", "atenten" ],
+			[ "atienten", "atenten" ]
+		],
+		"9" : [
+			[ "atentara" ],
+			[ "atentaras" ],
+			[ "atentara" ],
+			[ "atentáramos" ],
+			[ "atentarais", "atentaran" ],
+			[ "atentaran" ]
+		],
+		"10" : [
+			[ "atentase" ],
+			[ "atentases" ],
+			[ "atentase" ],
+			[ "atentásemos" ],
+			[ "atentaseis", "atentasen" ],
+			[ "atentasen" ]
+		],
+		"11" : [
+			[ "atentare" ],
+			[ "atentares" ],
+			[ "atentare" ],
+			[ "atentáremos" ],
+			[ "atentareis", "atentaren" ],
+			[ "atentaren" ]
+		],
+		"12" : {
+			"1" : [ "atienta", "atenta" ],
+			"2" : [ "atente" ],
+			"3" : [ "atentemos" ],
+			"4" : [ "atentad" ],
+			"5" : [ "atienten",  "atenten" ]
+		}
+	}
+}

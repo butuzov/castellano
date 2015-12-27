@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acusar",
+	"word" : "acusar",
+	"infinitivo" : "acusar",
+	"participio" : [ "acusado" ],
+	"gerundio" : [ "acusando" ],
+	"tenses" : {
+		"3" : [
+			[ "acuso" ],
+			[ "acusas", "acusás" ],
+			[ "acusa" ],
+			[ "acusamos" ],
+			[ "acusáis", "acusan" ],
+			[ "acusan" ]
+		],
+		"4" : [
+			[ "acusé" ],
+			[ "acusaste" ],
+			[ "acusó" ],
+			[ "acusamos" ],
+			[ "acusasteis", "acusaron" ],
+			[ "acusaron" ]
+		],
+		"5" : [
+			[ "acusaba" ],
+			[ "acusabas" ],
+			[ "acusaba" ],
+			[ "acusábamos" ],
+			[ "acusabais", "acusaban" ],
+			[ "acusaban" ]
+		],
+		"6" : [
+			[ "acusaría" ],
+			[ "acusarías" ],
+			[ "acusaría" ],
+			[ "acusaríamos" ],
+			[ "acusaríais", "acusarían" ],
+			[ "acusarían" ]
+		],
+		"7" : [
+			[ "acusaré" ],
+			[ "acusarás" ],
+			[ "acusará" ],
+			[ "acusaremos" ],
+			[ "acusaréis", "acusarán" ],
+			[ "acusarán" ]
+		],
+		"8" : [
+			[ "acuse" ],
+			[ "acuses" ],
+			[ "acuse" ],
+			[ "acusemos" ],
+			[ "acuséis", "acusen" ],
+			[ "acusen" ]
+		],
+		"9" : [
+			[ "acusara" ],
+			[ "acusaras" ],
+			[ "acusara" ],
+			[ "acusáramos" ],
+			[ "acusarais", "acusaran" ],
+			[ "acusaran" ]
+		],
+		"10" : [
+			[ "acusase" ],
+			[ "acusases" ],
+			[ "acusase" ],
+			[ "acusásemos" ],
+			[ "acusaseis", "acusasen" ],
+			[ "acusasen" ]
+		],
+		"11" : [
+			[ "acusare" ],
+			[ "acusares" ],
+			[ "acusare" ],
+			[ "acusáremos" ],
+			[ "acusareis", "acusaren" ],
+			[ "acusaren" ]
+		],
+		"12" : {
+			"1" : [ "acusa" ],
+			"2" : [ "acuse" ],
+			"3" : [ "acusemos" ],
+			"4" : [ "acusad" ],
+			"5" : [ "acusen" ]
+		}
+	}
+}

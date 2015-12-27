@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=predicar",
+	"word" : "predicar",
+	"infinitivo" : "predicar",
+	"participio" : [ "predicado" ],
+	"gerundio" : [ "predicando" ],
+	"tenses" : {
+		"3" : [
+			[ "predico" ],
+			[ "predicas", "predicás" ],
+			[ "predica" ],
+			[ "predicamos" ],
+			[ "predicáis", "predican" ],
+			[ "predican" ]
+		],
+		"4" : [
+			[ "prediqué" ],
+			[ "predicaste" ],
+			[ "predicó" ],
+			[ "predicamos" ],
+			[ "predicasteis", "predicaron" ],
+			[ "predicaron" ]
+		],
+		"5" : [
+			[ "predicaba" ],
+			[ "predicabas" ],
+			[ "predicaba" ],
+			[ "predicábamos" ],
+			[ "predicabais", "predicaban" ],
+			[ "predicaban" ]
+		],
+		"6" : [
+			[ "predicaría" ],
+			[ "predicarías" ],
+			[ "predicaría" ],
+			[ "predicaríamos" ],
+			[ "predicaríais", "predicarían" ],
+			[ "predicarían" ]
+		],
+		"7" : [
+			[ "predicaré" ],
+			[ "predicarás" ],
+			[ "predicará" ],
+			[ "predicaremos" ],
+			[ "predicaréis", "predicarán" ],
+			[ "predicarán" ]
+		],
+		"8" : [
+			[ "predique" ],
+			[ "prediques" ],
+			[ "predique" ],
+			[ "prediquemos" ],
+			[ "prediquéis", "prediquen" ],
+			[ "prediquen" ]
+		],
+		"9" : [
+			[ "predicara" ],
+			[ "predicaras" ],
+			[ "predicara" ],
+			[ "predicáramos" ],
+			[ "predicarais", "predicaran" ],
+			[ "predicaran" ]
+		],
+		"10" : [
+			[ "predicase" ],
+			[ "predicases" ],
+			[ "predicase" ],
+			[ "predicásemos" ],
+			[ "predicaseis", "predicasen" ],
+			[ "predicasen" ]
+		],
+		"11" : [
+			[ "predicare" ],
+			[ "predicares" ],
+			[ "predicare" ],
+			[ "predicáremos" ],
+			[ "predicareis", "predicaren" ],
+			[ "predicaren" ]
+		],
+		"12" : {
+			"1" : [ "predica" ],
+			"2" : [ "predique" ],
+			"3" : [ "prediquemos" ],
+			"4" : [ "predicad" ],
+			"5" : [ "prediquen" ]
+		}
+	}
+}

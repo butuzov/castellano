@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=confundir",
+	"word" : "confundir",
+	"infinitivo" : "confundir",
+	"participio" : [ "confundido" ],
+	"gerundio" : [ "confundiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "confundo" ],
+			[ "confundes", "confundís" ],
+			[ "confunde" ],
+			[ "confundimos" ],
+			[ "confundís", "confunden" ],
+			[ "confunden" ]
+		],
+		"4" : [
+			[ "confundí" ],
+			[ "confundiste" ],
+			[ "confundió" ],
+			[ "confundimos" ],
+			[ "confundisteis", "confundieron" ],
+			[ "confundieron" ]
+		],
+		"5" : [
+			[ "confundía" ],
+			[ "confundías" ],
+			[ "confundía" ],
+			[ "confundíamos" ],
+			[ "confundíais", "confundían" ],
+			[ "confundían" ]
+		],
+		"6" : [
+			[ "confundiría" ],
+			[ "confundirías" ],
+			[ "confundiría" ],
+			[ "confundiríamos" ],
+			[ "confundiríais", "confundirían" ],
+			[ "confundirían" ]
+		],
+		"7" : [
+			[ "confundiré" ],
+			[ "confundirás" ],
+			[ "confundirá" ],
+			[ "confundiremos" ],
+			[ "confundiréis", "confundirán" ],
+			[ "confundirán" ]
+		],
+		"8" : [
+			[ "confunda" ],
+			[ "confundas" ],
+			[ "confunda" ],
+			[ "confundamos" ],
+			[ "confundáis", "confundan" ],
+			[ "confundan" ]
+		],
+		"9" : [
+			[ "confundiera" ],
+			[ "confundieras" ],
+			[ "confundiera" ],
+			[ "confundiéramos" ],
+			[ "confundierais", "confundieran" ],
+			[ "confundieran" ]
+		],
+		"10" : [
+			[ "confundiese" ],
+			[ "confundieses" ],
+			[ "confundiese" ],
+			[ "confundiésemos" ],
+			[ "confundieseis", "confundiesen" ],
+			[ "confundiesen" ]
+		],
+		"11" : [
+			[ "confundiere" ],
+			[ "confundieres" ],
+			[ "confundiere" ],
+			[ "confundiéremos" ],
+			[ "confundiereis", "confundieren" ],
+			[ "confundieren" ]
+		],
+		"12" : {
+			"1" : [ "confunde" ],
+			"2" : [ "confunda" ],
+			"3" : [ "confundamos" ],
+			"4" : [ "confundid" ],
+			"5" : [ "confundan" ]
+		}
+	}
+}

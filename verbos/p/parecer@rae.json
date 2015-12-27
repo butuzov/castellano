@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=parecer",
+	"word" : "parecer",
+	"infinitivo" : "parecer",
+	"participio" : [ "parecido" ],
+	"gerundio" : [ "pareciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "parezco" ],
+			[ "pareces", "parecés" ],
+			[ "parece" ],
+			[ "parecemos" ],
+			[ "parecéis", "parecen" ],
+			[ "parecen" ]
+		],
+		"4" : [
+			[ "parecí" ],
+			[ "pareciste" ],
+			[ "pareció" ],
+			[ "parecimos" ],
+			[ "parecisteis", "parecieron" ],
+			[ "parecieron" ]
+		],
+		"5" : [
+			[ "parecía" ],
+			[ "parecías" ],
+			[ "parecía" ],
+			[ "parecíamos" ],
+			[ "parecíais", "parecían" ],
+			[ "parecían" ]
+		],
+		"6" : [
+			[ "parecería" ],
+			[ "parecerías" ],
+			[ "parecería" ],
+			[ "pareceríamos" ],
+			[ "pareceríais", "parecerían" ],
+			[ "parecerían" ]
+		],
+		"7" : [
+			[ "pareceré" ],
+			[ "parecerás" ],
+			[ "parecerá" ],
+			[ "pareceremos" ],
+			[ "pareceréis", "parecerán" ],
+			[ "parecerán" ]
+		],
+		"8" : [
+			[ "parezca" ],
+			[ "parezcas" ],
+			[ "parezca" ],
+			[ "parezcamos" ],
+			[ "parezcáis", "parezcan" ],
+			[ "parezcan" ]
+		],
+		"9" : [
+			[ "pareciera" ],
+			[ "parecieras" ],
+			[ "pareciera" ],
+			[ "pareciéramos" ],
+			[ "parecierais", "parecieran" ],
+			[ "parecieran" ]
+		],
+		"10" : [
+			[ "pareciese" ],
+			[ "parecieses" ],
+			[ "pareciese" ],
+			[ "pareciésemos" ],
+			[ "parecieseis", "pareciesen" ],
+			[ "pareciesen" ]
+		],
+		"11" : [
+			[ "pareciere" ],
+			[ "parecieres" ],
+			[ "pareciere" ],
+			[ "pareciéremos" ],
+			[ "pareciereis", "parecieren" ],
+			[ "parecieren" ]
+		],
+		"12" : {
+			"1" : [ "parece" ],
+			"2" : [ "parezca" ],
+			"3" : [ "parezcamos" ],
+			"4" : [ "pareced" ],
+			"5" : [ "parezcan" ]
+		}
+	}
+}

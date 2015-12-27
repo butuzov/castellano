@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desadvertir",
+	"word" : "desadvertir",
+	"infinitivo" : "desadvertir",
+	"participio" : [ "desadvertido" ],
+	"gerundio" : [ "desadvirtiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desadvierto" ],
+			[ "desadviertes", "desadvertís" ],
+			[ "desadvierte" ],
+			[ "desadvertimos" ],
+			[ "desadvertís", "desadvierten" ],
+			[ "desadvierten" ]
+		],
+		"4" : [
+			[ "desadvertí" ],
+			[ "desadvertiste" ],
+			[ "desadvirtió" ],
+			[ "desadvertimos" ],
+			[ "desadvertisteis", "desadvirtieron" ],
+			[ "desadvirtieron" ]
+		],
+		"5" : [
+			[ "desadvertía" ],
+			[ "desadvertías" ],
+			[ "desadvertía" ],
+			[ "desadvertíamos" ],
+			[ "desadvertíais", "desadvertían" ],
+			[ "desadvertían" ]
+		],
+		"6" : [
+			[ "desadvertiría" ],
+			[ "desadvertirías" ],
+			[ "desadvertiría" ],
+			[ "desadvertiríamos" ],
+			[ "desadvertiríais", "desadvertirían" ],
+			[ "desadvertirían" ]
+		],
+		"7" : [
+			[ "desadvertiré" ],
+			[ "desadvertirás" ],
+			[ "desadvertirá" ],
+			[ "desadvertiremos" ],
+			[ "desadvertiréis", "desadvertirán" ],
+			[ "desadvertirán" ]
+		],
+		"8" : [
+			[ "desadvierta" ],
+			[ "desadviertas" ],
+			[ "desadvierta" ],
+			[ "desadvirtamos" ],
+			[ "desadvirtáis", "desadviertan" ],
+			[ "desadviertan" ]
+		],
+		"9" : [
+			[ "desadvirtiera" ],
+			[ "desadvirtieras" ],
+			[ "desadvirtiera" ],
+			[ "desadvirtiéramos" ],
+			[ "desadvirtierais", "desadvirtieran" ],
+			[ "desadvirtieran" ]
+		],
+		"10" : [
+			[ "desadvirtiese" ],
+			[ "desadvirtieses" ],
+			[ "desadvirtiese" ],
+			[ "desadvirtiésemos" ],
+			[ "desadvirtieseis", "desadvirtiesen" ],
+			[ "desadvirtiesen" ]
+		],
+		"11" : [
+			[ "desadvirtiere" ],
+			[ "desadvirtieres" ],
+			[ "desadvirtiere" ],
+			[ "desadvirtiéremos" ],
+			[ "desadvirtiereis", "desadvirtieren" ],
+			[ "desadvirtieren" ]
+		],
+		"12" : {
+			"1" : [ "desadvierte" ],
+			"2" : [ "desadvierta" ],
+			"3" : [ "desadvirtamos" ],
+			"4" : [ "desadvertid" ],
+			"5" : [ "desadviertan" ]
+		}
+	}
+}

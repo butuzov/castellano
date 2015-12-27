@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cortejar",
+	"word" : "cortejar",
+	"infinitivo" : "cortejar",
+	"participio" : [ "cortejado" ],
+	"gerundio" : [ "cortejando" ],
+	"tenses" : {
+		"3" : [
+			[ "cortejo" ],
+			[ "cortejas", "cortejás" ],
+			[ "corteja" ],
+			[ "cortejamos" ],
+			[ "cortejáis", "cortejan" ],
+			[ "cortejan" ]
+		],
+		"4" : [
+			[ "cortejé" ],
+			[ "cortejaste" ],
+			[ "cortejó" ],
+			[ "cortejamos" ],
+			[ "cortejasteis", "cortejaron" ],
+			[ "cortejaron" ]
+		],
+		"5" : [
+			[ "cortejaba" ],
+			[ "cortejabas" ],
+			[ "cortejaba" ],
+			[ "cortejábamos" ],
+			[ "cortejabais", "cortejaban" ],
+			[ "cortejaban" ]
+		],
+		"6" : [
+			[ "cortejaría" ],
+			[ "cortejarías" ],
+			[ "cortejaría" ],
+			[ "cortejaríamos" ],
+			[ "cortejaríais", "cortejarían" ],
+			[ "cortejarían" ]
+		],
+		"7" : [
+			[ "cortejaré" ],
+			[ "cortejarás" ],
+			[ "cortejará" ],
+			[ "cortejaremos" ],
+			[ "cortejaréis", "cortejarán" ],
+			[ "cortejarán" ]
+		],
+		"8" : [
+			[ "corteje" ],
+			[ "cortejes" ],
+			[ "corteje" ],
+			[ "cortejemos" ],
+			[ "cortejéis", "cortejen" ],
+			[ "cortejen" ]
+		],
+		"9" : [
+			[ "cortejara" ],
+			[ "cortejaras" ],
+			[ "cortejara" ],
+			[ "cortejáramos" ],
+			[ "cortejarais", "cortejaran" ],
+			[ "cortejaran" ]
+		],
+		"10" : [
+			[ "cortejase" ],
+			[ "cortejases" ],
+			[ "cortejase" ],
+			[ "cortejásemos" ],
+			[ "cortejaseis", "cortejasen" ],
+			[ "cortejasen" ]
+		],
+		"11" : [
+			[ "cortejare" ],
+			[ "cortejares" ],
+			[ "cortejare" ],
+			[ "cortejáremos" ],
+			[ "cortejareis", "cortejaren" ],
+			[ "cortejaren" ]
+		],
+		"12" : {
+			"1" : [ "corteja" ],
+			"2" : [ "corteje" ],
+			"3" : [ "cortejemos" ],
+			"4" : [ "cortejad" ],
+			"5" : [ "cortejen" ]
+		}
+	}
+}

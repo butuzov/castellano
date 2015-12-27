@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despoblar",
+	"word" : "despoblar",
+	"infinitivo" : "despoblar",
+	"participio" : [ "despoblado" ],
+	"gerundio" : [ "despoblando" ],
+	"tenses" : {
+		"3" : [
+			[ "despueblo" ],
+			[ "despueblas", "despoblás" ],
+			[ "despuebla" ],
+			[ "despoblamos" ],
+			[ "despobláis", "despueblan" ],
+			[ "despueblan" ]
+		],
+		"4" : [
+			[ "despoblé" ],
+			[ "despoblaste" ],
+			[ "despobló" ],
+			[ "despoblamos" ],
+			[ "despoblasteis", "despoblaron" ],
+			[ "despoblaron" ]
+		],
+		"5" : [
+			[ "despoblaba" ],
+			[ "despoblabas" ],
+			[ "despoblaba" ],
+			[ "despoblábamos" ],
+			[ "despoblabais", "despoblaban" ],
+			[ "despoblaban" ]
+		],
+		"6" : [
+			[ "despoblaría" ],
+			[ "despoblarías" ],
+			[ "despoblaría" ],
+			[ "despoblaríamos" ],
+			[ "despoblaríais", "despoblarían" ],
+			[ "despoblarían" ]
+		],
+		"7" : [
+			[ "despoblaré" ],
+			[ "despoblarás" ],
+			[ "despoblará" ],
+			[ "despoblaremos" ],
+			[ "despoblaréis", "despoblarán" ],
+			[ "despoblarán" ]
+		],
+		"8" : [
+			[ "despueble" ],
+			[ "despuebles" ],
+			[ "despueble" ],
+			[ "despoblemos" ],
+			[ "despobléis", "despueblen" ],
+			[ "despueblen" ]
+		],
+		"9" : [
+			[ "despoblara" ],
+			[ "despoblaras" ],
+			[ "despoblara" ],
+			[ "despobláramos" ],
+			[ "despoblarais", "despoblaran" ],
+			[ "despoblaran" ]
+		],
+		"10" : [
+			[ "despoblase" ],
+			[ "despoblases" ],
+			[ "despoblase" ],
+			[ "despoblásemos" ],
+			[ "despoblaseis", "despoblasen" ],
+			[ "despoblasen" ]
+		],
+		"11" : [
+			[ "despoblare" ],
+			[ "despoblares" ],
+			[ "despoblare" ],
+			[ "despobláremos" ],
+			[ "despoblareis", "despoblaren" ],
+			[ "despoblaren" ]
+		],
+		"12" : {
+			"1" : [ "despuebla" ],
+			"2" : [ "despueble" ],
+			"3" : [ "despoblemos" ],
+			"4" : [ "despoblad" ],
+			"5" : [ "despueblen" ]
+		}
+	}
+}

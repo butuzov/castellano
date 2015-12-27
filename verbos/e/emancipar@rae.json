@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emancipar",
+	"word" : "emancipar",
+	"infinitivo" : "emancipar",
+	"participio" : [ "emancipado" ],
+	"gerundio" : [ "emancipando" ],
+	"tenses" : {
+		"3" : [
+			[ "emancipo" ],
+			[ "emancipas", "emancipás" ],
+			[ "emancipa" ],
+			[ "emancipamos" ],
+			[ "emancipáis", "emancipan" ],
+			[ "emancipan" ]
+		],
+		"4" : [
+			[ "emancipé" ],
+			[ "emancipaste" ],
+			[ "emancipó" ],
+			[ "emancipamos" ],
+			[ "emancipasteis", "emanciparon" ],
+			[ "emanciparon" ]
+		],
+		"5" : [
+			[ "emancipaba" ],
+			[ "emancipabas" ],
+			[ "emancipaba" ],
+			[ "emancipábamos" ],
+			[ "emancipabais", "emancipaban" ],
+			[ "emancipaban" ]
+		],
+		"6" : [
+			[ "emanciparía" ],
+			[ "emanciparías" ],
+			[ "emanciparía" ],
+			[ "emanciparíamos" ],
+			[ "emanciparíais", "emanciparían" ],
+			[ "emanciparían" ]
+		],
+		"7" : [
+			[ "emanciparé" ],
+			[ "emanciparás" ],
+			[ "emancipará" ],
+			[ "emanciparemos" ],
+			[ "emanciparéis", "emanciparán" ],
+			[ "emanciparán" ]
+		],
+		"8" : [
+			[ "emancipe" ],
+			[ "emancipes" ],
+			[ "emancipe" ],
+			[ "emancipemos" ],
+			[ "emancipéis", "emancipen" ],
+			[ "emancipen" ]
+		],
+		"9" : [
+			[ "emancipara" ],
+			[ "emanciparas" ],
+			[ "emancipara" ],
+			[ "emancipáramos" ],
+			[ "emanciparais", "emanciparan" ],
+			[ "emanciparan" ]
+		],
+		"10" : [
+			[ "emancipase" ],
+			[ "emancipases" ],
+			[ "emancipase" ],
+			[ "emancipásemos" ],
+			[ "emancipaseis", "emancipasen" ],
+			[ "emancipasen" ]
+		],
+		"11" : [
+			[ "emancipare" ],
+			[ "emancipares" ],
+			[ "emancipare" ],
+			[ "emancipáremos" ],
+			[ "emancipareis", "emanciparen" ],
+			[ "emanciparen" ]
+		],
+		"12" : {
+			"1" : [ "emancipa" ],
+			"2" : [ "emancipe" ],
+			"3" : [ "emancipemos" ],
+			"4" : [ "emancipad" ],
+			"5" : [ "emancipen" ]
+		}
+	}
+}

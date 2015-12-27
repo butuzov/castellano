@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sortear",
+	"word" : "sortear",
+	"infinitivo" : "sortear",
+	"participio" : [ "sorteado" ],
+	"gerundio" : [ "sorteando" ],
+	"tenses" : {
+		"3" : [
+			[ "sorteo" ],
+			[ "sorteas", "sorteás" ],
+			[ "sortea" ],
+			[ "sorteamos" ],
+			[ "sorteáis", "sortean" ],
+			[ "sortean" ]
+		],
+		"4" : [
+			[ "sorteé" ],
+			[ "sorteaste" ],
+			[ "sorteó" ],
+			[ "sorteamos" ],
+			[ "sorteasteis", "sortearon" ],
+			[ "sortearon" ]
+		],
+		"5" : [
+			[ "sorteaba" ],
+			[ "sorteabas" ],
+			[ "sorteaba" ],
+			[ "sorteábamos" ],
+			[ "sorteabais", "sorteaban" ],
+			[ "sorteaban" ]
+		],
+		"6" : [
+			[ "sortearía" ],
+			[ "sortearías" ],
+			[ "sortearía" ],
+			[ "sortearíamos" ],
+			[ "sortearíais", "sortearían" ],
+			[ "sortearían" ]
+		],
+		"7" : [
+			[ "sortearé" ],
+			[ "sortearás" ],
+			[ "sorteará" ],
+			[ "sortearemos" ],
+			[ "sortearéis", "sortearán" ],
+			[ "sortearán" ]
+		],
+		"8" : [
+			[ "sortee" ],
+			[ "sortees" ],
+			[ "sortee" ],
+			[ "sorteemos" ],
+			[ "sorteéis", "sorteen" ],
+			[ "sorteen" ]
+		],
+		"9" : [
+			[ "sorteara" ],
+			[ "sortearas" ],
+			[ "sorteara" ],
+			[ "sorteáramos" ],
+			[ "sortearais", "sortearan" ],
+			[ "sortearan" ]
+		],
+		"10" : [
+			[ "sortease" ],
+			[ "sorteases" ],
+			[ "sortease" ],
+			[ "sorteásemos" ],
+			[ "sorteaseis", "sorteasen" ],
+			[ "sorteasen" ]
+		],
+		"11" : [
+			[ "sorteare" ],
+			[ "sorteares" ],
+			[ "sorteare" ],
+			[ "sorteáremos" ],
+			[ "sorteareis", "sortearen" ],
+			[ "sortearen" ]
+		],
+		"12" : {
+			"1" : [ "sortea" ],
+			"2" : [ "sortee" ],
+			"3" : [ "sorteemos" ],
+			"4" : [ "sortead" ],
+			"5" : [ "sorteen" ]
+		}
+	}
+}

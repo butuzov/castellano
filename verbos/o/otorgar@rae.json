@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=otorgar",
+	"word" : "otorgar",
+	"infinitivo" : "otorgar",
+	"participio" : [ "otorgado" ],
+	"gerundio" : [ "otorgando" ],
+	"tenses" : {
+		"3" : [
+			[ "otorgo" ],
+			[ "otorgas", "otorgás" ],
+			[ "otorga" ],
+			[ "otorgamos" ],
+			[ "otorgáis", "otorgan" ],
+			[ "otorgan" ]
+		],
+		"4" : [
+			[ "otorgué" ],
+			[ "otorgaste" ],
+			[ "otorgó" ],
+			[ "otorgamos" ],
+			[ "otorgasteis", "otorgaron" ],
+			[ "otorgaron" ]
+		],
+		"5" : [
+			[ "otorgaba" ],
+			[ "otorgabas" ],
+			[ "otorgaba" ],
+			[ "otorgábamos" ],
+			[ "otorgabais", "otorgaban" ],
+			[ "otorgaban" ]
+		],
+		"6" : [
+			[ "otorgaría" ],
+			[ "otorgarías" ],
+			[ "otorgaría" ],
+			[ "otorgaríamos" ],
+			[ "otorgaríais", "otorgarían" ],
+			[ "otorgarían" ]
+		],
+		"7" : [
+			[ "otorgaré" ],
+			[ "otorgarás" ],
+			[ "otorgará" ],
+			[ "otorgaremos" ],
+			[ "otorgaréis", "otorgarán" ],
+			[ "otorgarán" ]
+		],
+		"8" : [
+			[ "otorgue" ],
+			[ "otorgues" ],
+			[ "otorgue" ],
+			[ "otorguemos" ],
+			[ "otorguéis", "otorguen" ],
+			[ "otorguen" ]
+		],
+		"9" : [
+			[ "otorgara" ],
+			[ "otorgaras" ],
+			[ "otorgara" ],
+			[ "otorgáramos" ],
+			[ "otorgarais", "otorgaran" ],
+			[ "otorgaran" ]
+		],
+		"10" : [
+			[ "otorgase" ],
+			[ "otorgases" ],
+			[ "otorgase" ],
+			[ "otorgásemos" ],
+			[ "otorgaseis", "otorgasen" ],
+			[ "otorgasen" ]
+		],
+		"11" : [
+			[ "otorgare" ],
+			[ "otorgares" ],
+			[ "otorgare" ],
+			[ "otorgáremos" ],
+			[ "otorgareis", "otorgaren" ],
+			[ "otorgaren" ]
+		],
+		"12" : {
+			"1" : [ "otorga" ],
+			"2" : [ "otorgue" ],
+			"3" : [ "otorguemos" ],
+			"4" : [ "otorgad" ],
+			"5" : [ "otorguen" ]
+		}
+	}
+}

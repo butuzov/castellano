@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=merecer",
+	"word" : "merecer",
+	"infinitivo" : "merecer",
+	"participio" : [ "merecido" ],
+	"gerundio" : [ "mereciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "merezco" ],
+			[ "mereces", "merecés" ],
+			[ "merece" ],
+			[ "merecemos" ],
+			[ "merecéis", "merecen" ],
+			[ "merecen" ]
+		],
+		"4" : [
+			[ "merecí" ],
+			[ "mereciste" ],
+			[ "mereció" ],
+			[ "merecimos" ],
+			[ "merecisteis", "merecieron" ],
+			[ "merecieron" ]
+		],
+		"5" : [
+			[ "merecía" ],
+			[ "merecías" ],
+			[ "merecía" ],
+			[ "merecíamos" ],
+			[ "merecíais", "merecían" ],
+			[ "merecían" ]
+		],
+		"6" : [
+			[ "merecería" ],
+			[ "merecerías" ],
+			[ "merecería" ],
+			[ "mereceríamos" ],
+			[ "mereceríais", "merecerían" ],
+			[ "merecerían" ]
+		],
+		"7" : [
+			[ "mereceré" ],
+			[ "merecerás" ],
+			[ "merecerá" ],
+			[ "mereceremos" ],
+			[ "mereceréis", "merecerán" ],
+			[ "merecerán" ]
+		],
+		"8" : [
+			[ "merezca" ],
+			[ "merezcas" ],
+			[ "merezca" ],
+			[ "merezcamos" ],
+			[ "merezcáis", "merezcan" ],
+			[ "merezcan" ]
+		],
+		"9" : [
+			[ "mereciera" ],
+			[ "merecieras" ],
+			[ "mereciera" ],
+			[ "mereciéramos" ],
+			[ "merecierais", "merecieran" ],
+			[ "merecieran" ]
+		],
+		"10" : [
+			[ "mereciese" ],
+			[ "merecieses" ],
+			[ "mereciese" ],
+			[ "mereciésemos" ],
+			[ "merecieseis", "mereciesen" ],
+			[ "mereciesen" ]
+		],
+		"11" : [
+			[ "mereciere" ],
+			[ "merecieres" ],
+			[ "mereciere" ],
+			[ "mereciéremos" ],
+			[ "mereciereis", "merecieren" ],
+			[ "merecieren" ]
+		],
+		"12" : {
+			"1" : [ "merece" ],
+			"2" : [ "merezca" ],
+			"3" : [ "merezcamos" ],
+			"4" : [ "mereced" ],
+			"5" : [ "merezcan" ]
+		}
+	}
+}

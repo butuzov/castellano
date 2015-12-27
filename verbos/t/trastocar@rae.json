@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trastocar",
+	"word" : "trastocar",
+	"infinitivo" : "trastocar",
+	"participio" : [ "trastocado" ],
+	"gerundio" : [ "trastocando" ],
+	"tenses" : {
+		"3" : [
+			[ "trastoco" ],
+			[ "trastocas", "trastocás" ],
+			[ "trastoca" ],
+			[ "trastocamos" ],
+			[ "trastocáis", "trastocan" ],
+			[ "trastocan" ]
+		],
+		"4" : [
+			[ "trastoqué" ],
+			[ "trastocaste" ],
+			[ "trastocó" ],
+			[ "trastocamos" ],
+			[ "trastocasteis", "trastocaron" ],
+			[ "trastocaron" ]
+		],
+		"5" : [
+			[ "trastocaba" ],
+			[ "trastocabas" ],
+			[ "trastocaba" ],
+			[ "trastocábamos" ],
+			[ "trastocabais", "trastocaban" ],
+			[ "trastocaban" ]
+		],
+		"6" : [
+			[ "trastocaría" ],
+			[ "trastocarías" ],
+			[ "trastocaría" ],
+			[ "trastocaríamos" ],
+			[ "trastocaríais", "trastocarían" ],
+			[ "trastocarían" ]
+		],
+		"7" : [
+			[ "trastocaré" ],
+			[ "trastocarás" ],
+			[ "trastocará" ],
+			[ "trastocaremos" ],
+			[ "trastocaréis", "trastocarán" ],
+			[ "trastocarán" ]
+		],
+		"8" : [
+			[ "trastoque" ],
+			[ "trastoques" ],
+			[ "trastoque" ],
+			[ "trastoquemos" ],
+			[ "trastoquéis", "trastoquen" ],
+			[ "trastoquen" ]
+		],
+		"9" : [
+			[ "trastocara" ],
+			[ "trastocaras" ],
+			[ "trastocara" ],
+			[ "trastocáramos" ],
+			[ "trastocarais", "trastocaran" ],
+			[ "trastocaran" ]
+		],
+		"10" : [
+			[ "trastocase" ],
+			[ "trastocases" ],
+			[ "trastocase" ],
+			[ "trastocásemos" ],
+			[ "trastocaseis", "trastocasen" ],
+			[ "trastocasen" ]
+		],
+		"11" : [
+			[ "trastocare" ],
+			[ "trastocares" ],
+			[ "trastocare" ],
+			[ "trastocáremos" ],
+			[ "trastocareis", "trastocaren" ],
+			[ "trastocaren" ]
+		],
+		"12" : {
+			"1" : [ "trastoca" ],
+			"2" : [ "trastoque" ],
+			"3" : [ "trastoquemos" ],
+			"4" : [ "trastocad" ],
+			"5" : [ "trastoquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gritar",
+	"word" : "gritar",
+	"infinitivo" : "gritar",
+	"participio" : [ "gritado" ],
+	"gerundio" : [ "gritando" ],
+	"tenses" : {
+		"3" : [
+			[ "grito" ],
+			[ "gritas", "gritás" ],
+			[ "grita" ],
+			[ "gritamos" ],
+			[ "gritáis", "gritan" ],
+			[ "gritan" ]
+		],
+		"4" : [
+			[ "grité" ],
+			[ "gritaste" ],
+			[ "gritó" ],
+			[ "gritamos" ],
+			[ "gritasteis", "gritaron" ],
+			[ "gritaron" ]
+		],
+		"5" : [
+			[ "gritaba" ],
+			[ "gritabas" ],
+			[ "gritaba" ],
+			[ "gritábamos" ],
+			[ "gritabais", "gritaban" ],
+			[ "gritaban" ]
+		],
+		"6" : [
+			[ "gritaría" ],
+			[ "gritarías" ],
+			[ "gritaría" ],
+			[ "gritaríamos" ],
+			[ "gritaríais", "gritarían" ],
+			[ "gritarían" ]
+		],
+		"7" : [
+			[ "gritaré" ],
+			[ "gritarás" ],
+			[ "gritará" ],
+			[ "gritaremos" ],
+			[ "gritaréis", "gritarán" ],
+			[ "gritarán" ]
+		],
+		"8" : [
+			[ "grite" ],
+			[ "grites" ],
+			[ "grite" ],
+			[ "gritemos" ],
+			[ "gritéis", "griten" ],
+			[ "griten" ]
+		],
+		"9" : [
+			[ "gritara" ],
+			[ "gritaras" ],
+			[ "gritara" ],
+			[ "gritáramos" ],
+			[ "gritarais", "gritaran" ],
+			[ "gritaran" ]
+		],
+		"10" : [
+			[ "gritase" ],
+			[ "gritases" ],
+			[ "gritase" ],
+			[ "gritásemos" ],
+			[ "gritaseis", "gritasen" ],
+			[ "gritasen" ]
+		],
+		"11" : [
+			[ "gritare" ],
+			[ "gritares" ],
+			[ "gritare" ],
+			[ "gritáremos" ],
+			[ "gritareis", "gritaren" ],
+			[ "gritaren" ]
+		],
+		"12" : {
+			"1" : [ "grita" ],
+			"2" : [ "grite" ],
+			"3" : [ "gritemos" ],
+			"4" : [ "gritad" ],
+			"5" : [ "griten" ]
+		}
+	}
+}

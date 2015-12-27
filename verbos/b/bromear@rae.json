@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bromear",
+	"word" : "bromear",
+	"infinitivo" : "bromear",
+	"participio" : [ "bromeado" ],
+	"gerundio" : [ "bromeando" ],
+	"tenses" : {
+		"3" : [
+			[ "bromeo" ],
+			[ "bromeas", "bromeás" ],
+			[ "bromea" ],
+			[ "bromeamos" ],
+			[ "bromeáis", "bromean" ],
+			[ "bromean" ]
+		],
+		"4" : [
+			[ "bromeé" ],
+			[ "bromeaste" ],
+			[ "bromeó" ],
+			[ "bromeamos" ],
+			[ "bromeasteis", "bromearon" ],
+			[ "bromearon" ]
+		],
+		"5" : [
+			[ "bromeaba" ],
+			[ "bromeabas" ],
+			[ "bromeaba" ],
+			[ "bromeábamos" ],
+			[ "bromeabais", "bromeaban" ],
+			[ "bromeaban" ]
+		],
+		"6" : [
+			[ "bromearía" ],
+			[ "bromearías" ],
+			[ "bromearía" ],
+			[ "bromearíamos" ],
+			[ "bromearíais", "bromearían" ],
+			[ "bromearían" ]
+		],
+		"7" : [
+			[ "bromearé" ],
+			[ "bromearás" ],
+			[ "bromeará" ],
+			[ "bromearemos" ],
+			[ "bromearéis", "bromearán" ],
+			[ "bromearán" ]
+		],
+		"8" : [
+			[ "bromee" ],
+			[ "bromees" ],
+			[ "bromee" ],
+			[ "bromeemos" ],
+			[ "bromeéis", "bromeen" ],
+			[ "bromeen" ]
+		],
+		"9" : [
+			[ "bromeara" ],
+			[ "bromearas" ],
+			[ "bromeara" ],
+			[ "bromeáramos" ],
+			[ "bromearais", "bromearan" ],
+			[ "bromearan" ]
+		],
+		"10" : [
+			[ "bromease" ],
+			[ "bromeases" ],
+			[ "bromease" ],
+			[ "bromeásemos" ],
+			[ "bromeaseis", "bromeasen" ],
+			[ "bromeasen" ]
+		],
+		"11" : [
+			[ "bromeare" ],
+			[ "bromeares" ],
+			[ "bromeare" ],
+			[ "bromeáremos" ],
+			[ "bromeareis", "bromearen" ],
+			[ "bromearen" ]
+		],
+		"12" : {
+			"1" : [ "bromea" ],
+			"2" : [ "bromee" ],
+			"3" : [ "bromeemos" ],
+			"4" : [ "bromead" ],
+			"5" : [ "bromeen" ]
+		}
+	}
+}

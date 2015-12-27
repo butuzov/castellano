@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=intrigar",
+	"word" : "intrigar",
+	"infinitivo" : "intrigar",
+	"participio" : [ "intrigado" ],
+	"gerundio" : [ "intrigando" ],
+	"tenses" : {
+		"3" : [
+			[ "intrigo" ],
+			[ "intrigas", "intrigás" ],
+			[ "intriga" ],
+			[ "intrigamos" ],
+			[ "intrigáis", "intrigan" ],
+			[ "intrigan" ]
+		],
+		"4" : [
+			[ "intrigué" ],
+			[ "intrigaste" ],
+			[ "intrigó" ],
+			[ "intrigamos" ],
+			[ "intrigasteis", "intrigaron" ],
+			[ "intrigaron" ]
+		],
+		"5" : [
+			[ "intrigaba" ],
+			[ "intrigabas" ],
+			[ "intrigaba" ],
+			[ "intrigábamos" ],
+			[ "intrigabais", "intrigaban" ],
+			[ "intrigaban" ]
+		],
+		"6" : [
+			[ "intrigaría" ],
+			[ "intrigarías" ],
+			[ "intrigaría" ],
+			[ "intrigaríamos" ],
+			[ "intrigaríais", "intrigarían" ],
+			[ "intrigarían" ]
+		],
+		"7" : [
+			[ "intrigaré" ],
+			[ "intrigarás" ],
+			[ "intrigará" ],
+			[ "intrigaremos" ],
+			[ "intrigaréis", "intrigarán" ],
+			[ "intrigarán" ]
+		],
+		"8" : [
+			[ "intrigue" ],
+			[ "intrigues" ],
+			[ "intrigue" ],
+			[ "intriguemos" ],
+			[ "intriguéis", "intriguen" ],
+			[ "intriguen" ]
+		],
+		"9" : [
+			[ "intrigara" ],
+			[ "intrigaras" ],
+			[ "intrigara" ],
+			[ "intrigáramos" ],
+			[ "intrigarais", "intrigaran" ],
+			[ "intrigaran" ]
+		],
+		"10" : [
+			[ "intrigase" ],
+			[ "intrigases" ],
+			[ "intrigase" ],
+			[ "intrigásemos" ],
+			[ "intrigaseis", "intrigasen" ],
+			[ "intrigasen" ]
+		],
+		"11" : [
+			[ "intrigare" ],
+			[ "intrigares" ],
+			[ "intrigare" ],
+			[ "intrigáremos" ],
+			[ "intrigareis", "intrigaren" ],
+			[ "intrigaren" ]
+		],
+		"12" : {
+			"1" : [ "intriga" ],
+			"2" : [ "intrigue" ],
+			"3" : [ "intriguemos" ],
+			"4" : [ "intrigad" ],
+			"5" : [ "intriguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cantar",
+	"word" : "cantar",
+	"infinitivo" : "cantar",
+	"participio" : [ "cantado" ],
+	"gerundio" : [ "cantando" ],
+	"tenses" : {
+		"3" : [
+			[ "canto" ],
+			[ "cantas", "cantás" ],
+			[ "canta" ],
+			[ "cantamos" ],
+			[ "cantáis", "cantan" ],
+			[ "cantan" ]
+		],
+		"4" : [
+			[ "canté" ],
+			[ "cantaste" ],
+			[ "cantó" ],
+			[ "cantamos" ],
+			[ "cantasteis", "cantaron" ],
+			[ "cantaron" ]
+		],
+		"5" : [
+			[ "cantaba" ],
+			[ "cantabas" ],
+			[ "cantaba" ],
+			[ "cantábamos" ],
+			[ "cantabais", "cantaban" ],
+			[ "cantaban" ]
+		],
+		"6" : [
+			[ "cantaría" ],
+			[ "cantarías" ],
+			[ "cantaría" ],
+			[ "cantaríamos" ],
+			[ "cantaríais", "cantarían" ],
+			[ "cantarían" ]
+		],
+		"7" : [
+			[ "cantaré" ],
+			[ "cantarás" ],
+			[ "cantará" ],
+			[ "cantaremos" ],
+			[ "cantaréis", "cantarán" ],
+			[ "cantarán" ]
+		],
+		"8" : [
+			[ "cante" ],
+			[ "cantes" ],
+			[ "cante" ],
+			[ "cantemos" ],
+			[ "cantéis", "canten" ],
+			[ "canten" ]
+		],
+		"9" : [
+			[ "cantara" ],
+			[ "cantaras" ],
+			[ "cantara" ],
+			[ "cantáramos" ],
+			[ "cantarais", "cantaran" ],
+			[ "cantaran" ]
+		],
+		"10" : [
+			[ "cantase" ],
+			[ "cantases" ],
+			[ "cantase" ],
+			[ "cantásemos" ],
+			[ "cantaseis", "cantasen" ],
+			[ "cantasen" ]
+		],
+		"11" : [
+			[ "cantare" ],
+			[ "cantares" ],
+			[ "cantare" ],
+			[ "cantáremos" ],
+			[ "cantareis", "cantaren" ],
+			[ "cantaren" ]
+		],
+		"12" : {
+			"1" : [ "canta" ],
+			"2" : [ "cante" ],
+			"3" : [ "cantemos" ],
+			"4" : [ "cantad" ],
+			"5" : [ "canten" ]
+		}
+	}
+}

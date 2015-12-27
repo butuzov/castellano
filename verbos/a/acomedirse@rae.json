@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acomedirse",
+	"word" : "acomedirse",
+	"infinitivo" : "acomedirse",
+	"participio" : [ "acomedido" ],
+	"gerundio" : [ "acomidiéndome", "acomidiéndote" ],
+	"tenses" : {
+		"3" : [
+			[ "me acomido" ],
+			[ "te acomides", "te acomedís" ],
+			[ "se acomide" ],
+			[ "nos acomedimos" ],
+			[ "os acomedís", "se acomiden" ],
+			[ "se acomiden" ]
+		],
+		"4" : [
+			[ "me acomedí" ],
+			[ "te acomediste" ],
+			[ "se acomidió" ],
+			[ "nos acomedimos" ],
+			[ "os acomedisteis", "se acomidieron" ],
+			[ "se acomidieron" ]
+		],
+		"5" : [
+			[ "me acomedía" ],
+			[ "te acomedías" ],
+			[ "se acomedía" ],
+			[ "nos acomedíamos" ],
+			[ "os acomedíais", "se acomedían" ],
+			[ "se acomedían" ]
+		],
+		"6" : [
+			[ "me acomediría" ],
+			[ "te acomedirías" ],
+			[ "se acomediría" ],
+			[ "nos acomediríamos" ],
+			[ "os acomediríais", "se acomedirían" ],
+			[ "se acomedirían" ]
+		],
+		"7" : [
+			[ "me acomediré" ],
+			[ "te acomedirás" ],
+			[ "se acomedirá" ],
+			[ "nos acomediremos" ],
+			[ "os acomediréis", "se acomedirán" ],
+			[ "se acomedirán" ]
+		],
+		"8" : [
+			[ "me acomida" ],
+			[ "te acomidas" ],
+			[ "se acomida" ],
+			[ "nos acomidamos" ],
+			[ "os acomidáis", "se acomidan" ],
+			[ "se acomidan" ]
+		],
+		"9" : [
+			[ "me acomidiera" ],
+			[ "te acomidieras" ],
+			[ "se acomidiera" ],
+			[ "nos acomidiéramos" ],
+			[ "os acomidierais", "se acomidieran" ],
+			[ "se acomidieran" ]
+		],
+		"10" : [
+			[ "me acomidiese" ],
+			[ "te acomidieses" ],
+			[ "se acomidiese" ],
+			[ "nos acomidiésemos" ],
+			[ "os acomidieseis", "se acomidiesen" ],
+			[ "se acomidiesen" ]
+		],
+		"11" : [
+			[ "me acomidiere" ],
+			[ "te acomidieres" ],
+			[ "se acomidiere" ],
+			[ "nos acomidiéremos" ],
+			[ "os acomidiereis", "se acomidieren" ],
+			[ "se acomidieren" ]
+		],
+		"12" : {
+			"1" : [ "acomídete" ],
+			"2" : [ "acomida" ],
+			"3" : [ "acomidamos" ],
+			"4" : [ "acomedíos" ],
+			"5" : [ "acomídanse" ]
+		}
+	}
+}

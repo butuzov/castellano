@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vadear",
+	"word" : "vadear",
+	"infinitivo" : "vadear",
+	"participio" : [ "vadeado" ],
+	"gerundio" : [ "vadeando" ],
+	"tenses" : {
+		"3" : [
+			[ "vadeo" ],
+			[ "vadeas", "vadeás" ],
+			[ "vadea" ],
+			[ "vadeamos" ],
+			[ "vadeáis", "vadean" ],
+			[ "vadean" ]
+		],
+		"4" : [
+			[ "vadeé" ],
+			[ "vadeaste" ],
+			[ "vadeó" ],
+			[ "vadeamos" ],
+			[ "vadeasteis", "vadearon" ],
+			[ "vadearon" ]
+		],
+		"5" : [
+			[ "vadeaba" ],
+			[ "vadeabas" ],
+			[ "vadeaba" ],
+			[ "vadeábamos" ],
+			[ "vadeabais", "vadeaban" ],
+			[ "vadeaban" ]
+		],
+		"6" : [
+			[ "vadearía" ],
+			[ "vadearías" ],
+			[ "vadearía" ],
+			[ "vadearíamos" ],
+			[ "vadearíais", "vadearían" ],
+			[ "vadearían" ]
+		],
+		"7" : [
+			[ "vadearé" ],
+			[ "vadearás" ],
+			[ "vadeará" ],
+			[ "vadearemos" ],
+			[ "vadearéis", "vadearán" ],
+			[ "vadearán" ]
+		],
+		"8" : [
+			[ "vadee" ],
+			[ "vadees" ],
+			[ "vadee" ],
+			[ "vadeemos" ],
+			[ "vadeéis", "vadeen" ],
+			[ "vadeen" ]
+		],
+		"9" : [
+			[ "vadeara" ],
+			[ "vadearas" ],
+			[ "vadeara" ],
+			[ "vadeáramos" ],
+			[ "vadearais", "vadearan" ],
+			[ "vadearan" ]
+		],
+		"10" : [
+			[ "vadease" ],
+			[ "vadeases" ],
+			[ "vadease" ],
+			[ "vadeásemos" ],
+			[ "vadeaseis", "vadeasen" ],
+			[ "vadeasen" ]
+		],
+		"11" : [
+			[ "vadeare" ],
+			[ "vadeares" ],
+			[ "vadeare" ],
+			[ "vadeáremos" ],
+			[ "vadeareis", "vadearen" ],
+			[ "vadearen" ]
+		],
+		"12" : {
+			"1" : [ "vadea" ],
+			"2" : [ "vadee" ],
+			"3" : [ "vadeemos" ],
+			"4" : [ "vadead" ],
+			"5" : [ "vadeen" ]
+		}
+	}
+}

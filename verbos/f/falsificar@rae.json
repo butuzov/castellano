@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=falsificar",
+	"word" : "falsificar",
+	"infinitivo" : "falsificar",
+	"participio" : [ "falsificado" ],
+	"gerundio" : [ "falsificando" ],
+	"tenses" : {
+		"3" : [
+			[ "falsifico" ],
+			[ "falsificas", "falsificás" ],
+			[ "falsifica" ],
+			[ "falsificamos" ],
+			[ "falsificáis", "falsifican" ],
+			[ "falsifican" ]
+		],
+		"4" : [
+			[ "falsifiqué" ],
+			[ "falsificaste" ],
+			[ "falsificó" ],
+			[ "falsificamos" ],
+			[ "falsificasteis", "falsificaron" ],
+			[ "falsificaron" ]
+		],
+		"5" : [
+			[ "falsificaba" ],
+			[ "falsificabas" ],
+			[ "falsificaba" ],
+			[ "falsificábamos" ],
+			[ "falsificabais", "falsificaban" ],
+			[ "falsificaban" ]
+		],
+		"6" : [
+			[ "falsificaría" ],
+			[ "falsificarías" ],
+			[ "falsificaría" ],
+			[ "falsificaríamos" ],
+			[ "falsificaríais", "falsificarían" ],
+			[ "falsificarían" ]
+		],
+		"7" : [
+			[ "falsificaré" ],
+			[ "falsificarás" ],
+			[ "falsificará" ],
+			[ "falsificaremos" ],
+			[ "falsificaréis", "falsificarán" ],
+			[ "falsificarán" ]
+		],
+		"8" : [
+			[ "falsifique" ],
+			[ "falsifiques" ],
+			[ "falsifique" ],
+			[ "falsifiquemos" ],
+			[ "falsifiquéis", "falsifiquen" ],
+			[ "falsifiquen" ]
+		],
+		"9" : [
+			[ "falsificara" ],
+			[ "falsificaras" ],
+			[ "falsificara" ],
+			[ "falsificáramos" ],
+			[ "falsificarais", "falsificaran" ],
+			[ "falsificaran" ]
+		],
+		"10" : [
+			[ "falsificase" ],
+			[ "falsificases" ],
+			[ "falsificase" ],
+			[ "falsificásemos" ],
+			[ "falsificaseis", "falsificasen" ],
+			[ "falsificasen" ]
+		],
+		"11" : [
+			[ "falsificare" ],
+			[ "falsificares" ],
+			[ "falsificare" ],
+			[ "falsificáremos" ],
+			[ "falsificareis", "falsificaren" ],
+			[ "falsificaren" ]
+		],
+		"12" : {
+			"1" : [ "falsifica" ],
+			"2" : [ "falsifique" ],
+			"3" : [ "falsifiquemos" ],
+			"4" : [ "falsificad" ],
+			"5" : [ "falsifiquen" ]
+		}
+	}
+}

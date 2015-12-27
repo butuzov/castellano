@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=carretear",
+	"word" : "carretear",
+	"infinitivo" : "carretear",
+	"participio" : [ "carreteado" ],
+	"gerundio" : [ "carreteando" ],
+	"tenses" : {
+		"3" : [
+			[ "carreteo" ],
+			[ "carreteas", "carreteás" ],
+			[ "carretea" ],
+			[ "carreteamos" ],
+			[ "carreteáis", "carretean" ],
+			[ "carretean" ]
+		],
+		"4" : [
+			[ "carreteé" ],
+			[ "carreteaste" ],
+			[ "carreteó" ],
+			[ "carreteamos" ],
+			[ "carreteasteis", "carretearon" ],
+			[ "carretearon" ]
+		],
+		"5" : [
+			[ "carreteaba" ],
+			[ "carreteabas" ],
+			[ "carreteaba" ],
+			[ "carreteábamos" ],
+			[ "carreteabais", "carreteaban" ],
+			[ "carreteaban" ]
+		],
+		"6" : [
+			[ "carretearía" ],
+			[ "carretearías" ],
+			[ "carretearía" ],
+			[ "carretearíamos" ],
+			[ "carretearíais", "carretearían" ],
+			[ "carretearían" ]
+		],
+		"7" : [
+			[ "carretearé" ],
+			[ "carretearás" ],
+			[ "carreteará" ],
+			[ "carretearemos" ],
+			[ "carretearéis", "carretearán" ],
+			[ "carretearán" ]
+		],
+		"8" : [
+			[ "carretee" ],
+			[ "carretees" ],
+			[ "carretee" ],
+			[ "carreteemos" ],
+			[ "carreteéis", "carreteen" ],
+			[ "carreteen" ]
+		],
+		"9" : [
+			[ "carreteara" ],
+			[ "carretearas" ],
+			[ "carreteara" ],
+			[ "carreteáramos" ],
+			[ "carretearais", "carretearan" ],
+			[ "carretearan" ]
+		],
+		"10" : [
+			[ "carretease" ],
+			[ "carreteases" ],
+			[ "carretease" ],
+			[ "carreteásemos" ],
+			[ "carreteaseis", "carreteasen" ],
+			[ "carreteasen" ]
+		],
+		"11" : [
+			[ "carreteare" ],
+			[ "carreteares" ],
+			[ "carreteare" ],
+			[ "carreteáremos" ],
+			[ "carreteareis", "carretearen" ],
+			[ "carretearen" ]
+		],
+		"12" : {
+			"1" : [ "carretea" ],
+			"2" : [ "carretee" ],
+			"3" : [ "carreteemos" ],
+			"4" : [ "carretead" ],
+			"5" : [ "carreteen" ]
+		}
+	}
+}

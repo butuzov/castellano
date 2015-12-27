@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vezar",
+	"word" : "vezar",
+	"infinitivo" : "vezar",
+	"participio" : [ "vezado" ],
+	"gerundio" : [ "vezando" ],
+	"tenses" : {
+		"3" : [
+			[ "vezo" ],
+			[ "vezas", "vezás" ],
+			[ "veza" ],
+			[ "vezamos" ],
+			[ "vezáis", "vezan" ],
+			[ "vezan" ]
+		],
+		"4" : [
+			[ "vecé" ],
+			[ "vezaste" ],
+			[ "vezó" ],
+			[ "vezamos" ],
+			[ "vezasteis", "vezaron" ],
+			[ "vezaron" ]
+		],
+		"5" : [
+			[ "vezaba" ],
+			[ "vezabas" ],
+			[ "vezaba" ],
+			[ "vezábamos" ],
+			[ "vezabais", "vezaban" ],
+			[ "vezaban" ]
+		],
+		"6" : [
+			[ "vezaría" ],
+			[ "vezarías" ],
+			[ "vezaría" ],
+			[ "vezaríamos" ],
+			[ "vezaríais", "vezarían" ],
+			[ "vezarían" ]
+		],
+		"7" : [
+			[ "vezaré" ],
+			[ "vezarás" ],
+			[ "vezará" ],
+			[ "vezaremos" ],
+			[ "vezaréis", "vezarán" ],
+			[ "vezarán" ]
+		],
+		"8" : [
+			[ "vece" ],
+			[ "veces" ],
+			[ "vece" ],
+			[ "vecemos" ],
+			[ "vecéis", "vecen" ],
+			[ "vecen" ]
+		],
+		"9" : [
+			[ "vezara" ],
+			[ "vezaras" ],
+			[ "vezara" ],
+			[ "vezáramos" ],
+			[ "vezarais", "vezaran" ],
+			[ "vezaran" ]
+		],
+		"10" : [
+			[ "vezase" ],
+			[ "vezases" ],
+			[ "vezase" ],
+			[ "vezásemos" ],
+			[ "vezaseis", "vezasen" ],
+			[ "vezasen" ]
+		],
+		"11" : [
+			[ "vezare" ],
+			[ "vezares" ],
+			[ "vezare" ],
+			[ "vezáremos" ],
+			[ "vezareis", "vezaren" ],
+			[ "vezaren" ]
+		],
+		"12" : {
+			"1" : [ "veza" ],
+			"2" : [ "vece" ],
+			"3" : [ "vecemos" ],
+			"4" : [ "vezad" ],
+			"5" : [ "vecen" ]
+		}
+	}
+}

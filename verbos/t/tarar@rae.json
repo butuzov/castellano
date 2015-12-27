@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tarar",
+	"word" : "tarar",
+	"infinitivo" : "tarar",
+	"participio" : [ "tarado" ],
+	"gerundio" : [ "tarando" ],
+	"tenses" : {
+		"3" : [
+			[ "taro" ],
+			[ "taras", "tarás" ],
+			[ "tara" ],
+			[ "taramos" ],
+			[ "taráis", "taran" ],
+			[ "taran" ]
+		],
+		"4" : [
+			[ "taré" ],
+			[ "taraste" ],
+			[ "taró" ],
+			[ "taramos" ],
+			[ "tarasteis", "tararon" ],
+			[ "tararon" ]
+		],
+		"5" : [
+			[ "taraba" ],
+			[ "tarabas" ],
+			[ "taraba" ],
+			[ "tarábamos" ],
+			[ "tarabais", "taraban" ],
+			[ "taraban" ]
+		],
+		"6" : [
+			[ "tararía" ],
+			[ "tararías" ],
+			[ "tararía" ],
+			[ "tararíamos" ],
+			[ "tararíais", "tararían" ],
+			[ "tararían" ]
+		],
+		"7" : [
+			[ "tararé" ],
+			[ "tararás" ],
+			[ "tarará" ],
+			[ "tararemos" ],
+			[ "tararéis", "tararán" ],
+			[ "tararán" ]
+		],
+		"8" : [
+			[ "tare" ],
+			[ "tares" ],
+			[ "tare" ],
+			[ "taremos" ],
+			[ "taréis", "taren" ],
+			[ "taren" ]
+		],
+		"9" : [
+			[ "tarara" ],
+			[ "tararas" ],
+			[ "tarara" ],
+			[ "taráramos" ],
+			[ "tararais", "tararan" ],
+			[ "tararan" ]
+		],
+		"10" : [
+			[ "tarase" ],
+			[ "tarases" ],
+			[ "tarase" ],
+			[ "tarásemos" ],
+			[ "taraseis", "tarasen" ],
+			[ "tarasen" ]
+		],
+		"11" : [
+			[ "tarare" ],
+			[ "tarares" ],
+			[ "tarare" ],
+			[ "taráremos" ],
+			[ "tarareis", "tararen" ],
+			[ "tararen" ]
+		],
+		"12" : {
+			"1" : [ "tara" ],
+			"2" : [ "tare" ],
+			"3" : [ "taremos" ],
+			"4" : [ "tarad" ],
+			"5" : [ "taren" ]
+		}
+	}
+}

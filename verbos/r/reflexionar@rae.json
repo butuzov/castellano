@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reflexionar",
+	"word" : "reflexionar",
+	"infinitivo" : "reflexionar",
+	"participio" : [ "reflexionado" ],
+	"gerundio" : [ "reflexionando" ],
+	"tenses" : {
+		"3" : [
+			[ "reflexiono" ],
+			[ "reflexionas", "reflexionás" ],
+			[ "reflexiona" ],
+			[ "reflexionamos" ],
+			[ "reflexionáis", "reflexionan" ],
+			[ "reflexionan" ]
+		],
+		"4" : [
+			[ "reflexioné" ],
+			[ "reflexionaste" ],
+			[ "reflexionó" ],
+			[ "reflexionamos" ],
+			[ "reflexionasteis", "reflexionaron" ],
+			[ "reflexionaron" ]
+		],
+		"5" : [
+			[ "reflexionaba" ],
+			[ "reflexionabas" ],
+			[ "reflexionaba" ],
+			[ "reflexionábamos" ],
+			[ "reflexionabais", "reflexionaban" ],
+			[ "reflexionaban" ]
+		],
+		"6" : [
+			[ "reflexionaría" ],
+			[ "reflexionarías" ],
+			[ "reflexionaría" ],
+			[ "reflexionaríamos" ],
+			[ "reflexionaríais", "reflexionarían" ],
+			[ "reflexionarían" ]
+		],
+		"7" : [
+			[ "reflexionaré" ],
+			[ "reflexionarás" ],
+			[ "reflexionará" ],
+			[ "reflexionaremos" ],
+			[ "reflexionaréis", "reflexionarán" ],
+			[ "reflexionarán" ]
+		],
+		"8" : [
+			[ "reflexione" ],
+			[ "reflexiones" ],
+			[ "reflexione" ],
+			[ "reflexionemos" ],
+			[ "reflexionéis", "reflexionen" ],
+			[ "reflexionen" ]
+		],
+		"9" : [
+			[ "reflexionara" ],
+			[ "reflexionaras" ],
+			[ "reflexionara" ],
+			[ "reflexionáramos" ],
+			[ "reflexionarais", "reflexionaran" ],
+			[ "reflexionaran" ]
+		],
+		"10" : [
+			[ "reflexionase" ],
+			[ "reflexionases" ],
+			[ "reflexionase" ],
+			[ "reflexionásemos" ],
+			[ "reflexionaseis", "reflexionasen" ],
+			[ "reflexionasen" ]
+		],
+		"11" : [
+			[ "reflexionare" ],
+			[ "reflexionares" ],
+			[ "reflexionare" ],
+			[ "reflexionáremos" ],
+			[ "reflexionareis", "reflexionaren" ],
+			[ "reflexionaren" ]
+		],
+		"12" : {
+			"1" : [ "reflexiona" ],
+			"2" : [ "reflexione" ],
+			"3" : [ "reflexionemos" ],
+			"4" : [ "reflexionad" ],
+			"5" : [ "reflexionen" ]
+		}
+	}
+}

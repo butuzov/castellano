@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aproximar",
+	"word" : "aproximar",
+	"infinitivo" : "aproximar",
+	"participio" : [ "aproximado" ],
+	"gerundio" : [ "aproximando" ],
+	"tenses" : {
+		"3" : [
+			[ "aproximo" ],
+			[ "aproximas", "aproximás" ],
+			[ "aproxima" ],
+			[ "aproximamos" ],
+			[ "aproximáis", "aproximan" ],
+			[ "aproximan" ]
+		],
+		"4" : [
+			[ "aproximé" ],
+			[ "aproximaste" ],
+			[ "aproximó" ],
+			[ "aproximamos" ],
+			[ "aproximasteis", "aproximaron" ],
+			[ "aproximaron" ]
+		],
+		"5" : [
+			[ "aproximaba" ],
+			[ "aproximabas" ],
+			[ "aproximaba" ],
+			[ "aproximábamos" ],
+			[ "aproximabais", "aproximaban" ],
+			[ "aproximaban" ]
+		],
+		"6" : [
+			[ "aproximaría" ],
+			[ "aproximarías" ],
+			[ "aproximaría" ],
+			[ "aproximaríamos" ],
+			[ "aproximaríais", "aproximarían" ],
+			[ "aproximarían" ]
+		],
+		"7" : [
+			[ "aproximaré" ],
+			[ "aproximarás" ],
+			[ "aproximará" ],
+			[ "aproximaremos" ],
+			[ "aproximaréis", "aproximarán" ],
+			[ "aproximarán" ]
+		],
+		"8" : [
+			[ "aproxime" ],
+			[ "aproximes" ],
+			[ "aproxime" ],
+			[ "aproximemos" ],
+			[ "aproximéis", "aproximen" ],
+			[ "aproximen" ]
+		],
+		"9" : [
+			[ "aproximara" ],
+			[ "aproximaras" ],
+			[ "aproximara" ],
+			[ "aproximáramos" ],
+			[ "aproximarais", "aproximaran" ],
+			[ "aproximaran" ]
+		],
+		"10" : [
+			[ "aproximase" ],
+			[ "aproximases" ],
+			[ "aproximase" ],
+			[ "aproximásemos" ],
+			[ "aproximaseis", "aproximasen" ],
+			[ "aproximasen" ]
+		],
+		"11" : [
+			[ "aproximare" ],
+			[ "aproximares" ],
+			[ "aproximare" ],
+			[ "aproximáremos" ],
+			[ "aproximareis", "aproximaren" ],
+			[ "aproximaren" ]
+		],
+		"12" : {
+			"1" : [ "aproxima" ],
+			"2" : [ "aproxime" ],
+			"3" : [ "aproximemos" ],
+			"4" : [ "aproximad" ],
+			"5" : [ "aproximen" ]
+		}
+	}
+}

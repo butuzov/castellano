@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acecinar",
+	"word" : "acecinar",
+	"infinitivo" : "acecinar",
+	"participio" : [ "acecinado" ],
+	"gerundio" : [ "acecinando" ],
+	"tenses" : {
+		"3" : [
+			[ "acecino" ],
+			[ "acecinas", "acecinás" ],
+			[ "acecina" ],
+			[ "acecinamos" ],
+			[ "acecináis", "acecinan" ],
+			[ "acecinan" ]
+		],
+		"4" : [
+			[ "aceciné" ],
+			[ "acecinaste" ],
+			[ "acecinó" ],
+			[ "acecinamos" ],
+			[ "acecinasteis", "acecinaron" ],
+			[ "acecinaron" ]
+		],
+		"5" : [
+			[ "acecinaba" ],
+			[ "acecinabas" ],
+			[ "acecinaba" ],
+			[ "acecinábamos" ],
+			[ "acecinabais", "acecinaban" ],
+			[ "acecinaban" ]
+		],
+		"6" : [
+			[ "acecinaría" ],
+			[ "acecinarías" ],
+			[ "acecinaría" ],
+			[ "acecinaríamos" ],
+			[ "acecinaríais", "acecinarían" ],
+			[ "acecinarían" ]
+		],
+		"7" : [
+			[ "acecinaré" ],
+			[ "acecinarás" ],
+			[ "acecinará" ],
+			[ "acecinaremos" ],
+			[ "acecinaréis", "acecinarán" ],
+			[ "acecinarán" ]
+		],
+		"8" : [
+			[ "acecine" ],
+			[ "acecines" ],
+			[ "acecine" ],
+			[ "acecinemos" ],
+			[ "acecinéis", "acecinen" ],
+			[ "acecinen" ]
+		],
+		"9" : [
+			[ "acecinara" ],
+			[ "acecinaras" ],
+			[ "acecinara" ],
+			[ "acecináramos" ],
+			[ "acecinarais", "acecinaran" ],
+			[ "acecinaran" ]
+		],
+		"10" : [
+			[ "acecinase" ],
+			[ "acecinases" ],
+			[ "acecinase" ],
+			[ "acecinásemos" ],
+			[ "acecinaseis", "acecinasen" ],
+			[ "acecinasen" ]
+		],
+		"11" : [
+			[ "acecinare" ],
+			[ "acecinares" ],
+			[ "acecinare" ],
+			[ "acecináremos" ],
+			[ "acecinareis", "acecinaren" ],
+			[ "acecinaren" ]
+		],
+		"12" : {
+			"1" : [ "acecina" ],
+			"2" : [ "acecine" ],
+			"3" : [ "acecinemos" ],
+			"4" : [ "acecinad" ],
+			"5" : [ "acecinen" ]
+		}
+	}
+}

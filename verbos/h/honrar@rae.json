@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=honrar",
+	"word" : "honrar",
+	"infinitivo" : "honrar",
+	"participio" : [ "honrado" ],
+	"gerundio" : [ "honrando" ],
+	"tenses" : {
+		"3" : [
+			[ "honro" ],
+			[ "honras", "honrás" ],
+			[ "honra" ],
+			[ "honramos" ],
+			[ "honráis", "honran" ],
+			[ "honran" ]
+		],
+		"4" : [
+			[ "honré" ],
+			[ "honraste" ],
+			[ "honró" ],
+			[ "honramos" ],
+			[ "honrasteis", "honraron" ],
+			[ "honraron" ]
+		],
+		"5" : [
+			[ "honraba" ],
+			[ "honrabas" ],
+			[ "honraba" ],
+			[ "honrábamos" ],
+			[ "honrabais", "honraban" ],
+			[ "honraban" ]
+		],
+		"6" : [
+			[ "honraría" ],
+			[ "honrarías" ],
+			[ "honraría" ],
+			[ "honraríamos" ],
+			[ "honraríais", "honrarían" ],
+			[ "honrarían" ]
+		],
+		"7" : [
+			[ "honraré" ],
+			[ "honrarás" ],
+			[ "honrará" ],
+			[ "honraremos" ],
+			[ "honraréis", "honrarán" ],
+			[ "honrarán" ]
+		],
+		"8" : [
+			[ "honre" ],
+			[ "honres" ],
+			[ "honre" ],
+			[ "honremos" ],
+			[ "honréis", "honren" ],
+			[ "honren" ]
+		],
+		"9" : [
+			[ "honrara" ],
+			[ "honraras" ],
+			[ "honrara" ],
+			[ "honráramos" ],
+			[ "honrarais", "honraran" ],
+			[ "honraran" ]
+		],
+		"10" : [
+			[ "honrase" ],
+			[ "honrases" ],
+			[ "honrase" ],
+			[ "honrásemos" ],
+			[ "honraseis", "honrasen" ],
+			[ "honrasen" ]
+		],
+		"11" : [
+			[ "honrare" ],
+			[ "honrares" ],
+			[ "honrare" ],
+			[ "honráremos" ],
+			[ "honrareis", "honraren" ],
+			[ "honraren" ]
+		],
+		"12" : {
+			"1" : [ "honra" ],
+			"2" : [ "honre" ],
+			"3" : [ "honremos" ],
+			"4" : [ "honrad" ],
+			"5" : [ "honren" ]
+		}
+	}
+}

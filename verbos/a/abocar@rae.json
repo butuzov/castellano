@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abocar",
+	"word" : "abocar",
+	"infinitivo" : "abocar",
+	"participio" : [ "abocado" ],
+	"gerundio" : [ "abocando" ],
+	"tenses" : {
+		"3" : [
+			[ "aboco" ],
+			[ "abocas", "abocás" ],
+			[ "aboca" ],
+			[ "abocamos" ],
+			[ "abocáis", "abocan" ],
+			[ "abocan" ]
+		],
+		"4" : [
+			[ "aboqué" ],
+			[ "abocaste" ],
+			[ "abocó" ],
+			[ "abocamos" ],
+			[ "abocasteis", "abocaron" ],
+			[ "abocaron" ]
+		],
+		"5" : [
+			[ "abocaba" ],
+			[ "abocabas" ],
+			[ "abocaba" ],
+			[ "abocábamos" ],
+			[ "abocabais", "abocaban" ],
+			[ "abocaban" ]
+		],
+		"6" : [
+			[ "abocaría" ],
+			[ "abocarías" ],
+			[ "abocaría" ],
+			[ "abocaríamos" ],
+			[ "abocaríais", "abocarían" ],
+			[ "abocarían" ]
+		],
+		"7" : [
+			[ "abocaré" ],
+			[ "abocarás" ],
+			[ "abocará" ],
+			[ "abocaremos" ],
+			[ "abocaréis", "abocarán" ],
+			[ "abocarán" ]
+		],
+		"8" : [
+			[ "aboque" ],
+			[ "aboques" ],
+			[ "aboque" ],
+			[ "aboquemos" ],
+			[ "aboquéis", "aboquen" ],
+			[ "aboquen" ]
+		],
+		"9" : [
+			[ "abocara" ],
+			[ "abocaras" ],
+			[ "abocara" ],
+			[ "abocáramos" ],
+			[ "abocarais", "abocaran" ],
+			[ "abocaran" ]
+		],
+		"10" : [
+			[ "abocase" ],
+			[ "abocases" ],
+			[ "abocase" ],
+			[ "abocásemos" ],
+			[ "abocaseis", "abocasen" ],
+			[ "abocasen" ]
+		],
+		"11" : [
+			[ "abocare" ],
+			[ "abocares" ],
+			[ "abocare" ],
+			[ "abocáremos" ],
+			[ "abocareis", "abocaren" ],
+			[ "abocaren" ]
+		],
+		"12" : {
+			"1" : [ "aboca" ],
+			"2" : [ "aboque" ],
+			"3" : [ "aboquemos" ],
+			"4" : [ "abocad" ],
+			"5" : [ "aboquen" ]
+		}
+	}
+}

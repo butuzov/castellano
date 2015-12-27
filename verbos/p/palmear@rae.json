@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=palmear",
+	"word" : "palmear",
+	"infinitivo" : "palmear",
+	"participio" : [ "palmeado" ],
+	"gerundio" : [ "palmeando" ],
+	"tenses" : {
+		"3" : [
+			[ "palmeo" ],
+			[ "palmeas", "palmeás" ],
+			[ "palmea" ],
+			[ "palmeamos" ],
+			[ "palmeáis", "palmean" ],
+			[ "palmean" ]
+		],
+		"4" : [
+			[ "palmeé" ],
+			[ "palmeaste" ],
+			[ "palmeó" ],
+			[ "palmeamos" ],
+			[ "palmeasteis", "palmearon" ],
+			[ "palmearon" ]
+		],
+		"5" : [
+			[ "palmeaba" ],
+			[ "palmeabas" ],
+			[ "palmeaba" ],
+			[ "palmeábamos" ],
+			[ "palmeabais", "palmeaban" ],
+			[ "palmeaban" ]
+		],
+		"6" : [
+			[ "palmearía" ],
+			[ "palmearías" ],
+			[ "palmearía" ],
+			[ "palmearíamos" ],
+			[ "palmearíais", "palmearían" ],
+			[ "palmearían" ]
+		],
+		"7" : [
+			[ "palmearé" ],
+			[ "palmearás" ],
+			[ "palmeará" ],
+			[ "palmearemos" ],
+			[ "palmearéis", "palmearán" ],
+			[ "palmearán" ]
+		],
+		"8" : [
+			[ "palmee" ],
+			[ "palmees" ],
+			[ "palmee" ],
+			[ "palmeemos" ],
+			[ "palmeéis", "palmeen" ],
+			[ "palmeen" ]
+		],
+		"9" : [
+			[ "palmeara" ],
+			[ "palmearas" ],
+			[ "palmeara" ],
+			[ "palmeáramos" ],
+			[ "palmearais", "palmearan" ],
+			[ "palmearan" ]
+		],
+		"10" : [
+			[ "palmease" ],
+			[ "palmeases" ],
+			[ "palmease" ],
+			[ "palmeásemos" ],
+			[ "palmeaseis", "palmeasen" ],
+			[ "palmeasen" ]
+		],
+		"11" : [
+			[ "palmeare" ],
+			[ "palmeares" ],
+			[ "palmeare" ],
+			[ "palmeáremos" ],
+			[ "palmeareis", "palmearen" ],
+			[ "palmearen" ]
+		],
+		"12" : {
+			"1" : [ "palmea" ],
+			"2" : [ "palmee" ],
+			"3" : [ "palmeemos" ],
+			"4" : [ "palmead" ],
+			"5" : [ "palmeen" ]
+		}
+	}
+}

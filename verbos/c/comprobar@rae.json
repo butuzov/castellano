@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comprobar",
+	"word" : "comprobar",
+	"infinitivo" : "comprobar",
+	"participio" : [ "comprobado" ],
+	"gerundio" : [ "comprobando" ],
+	"tenses" : {
+		"3" : [
+			[ "compruebo" ],
+			[ "compruebas", "comprobás" ],
+			[ "comprueba" ],
+			[ "comprobamos" ],
+			[ "comprobáis", "comprueban" ],
+			[ "comprueban" ]
+		],
+		"4" : [
+			[ "comprobé" ],
+			[ "comprobaste" ],
+			[ "comprobó" ],
+			[ "comprobamos" ],
+			[ "comprobasteis", "comprobaron" ],
+			[ "comprobaron" ]
+		],
+		"5" : [
+			[ "comprobaba" ],
+			[ "comprobabas" ],
+			[ "comprobaba" ],
+			[ "comprobábamos" ],
+			[ "comprobabais", "comprobaban" ],
+			[ "comprobaban" ]
+		],
+		"6" : [
+			[ "comprobaría" ],
+			[ "comprobarías" ],
+			[ "comprobaría" ],
+			[ "comprobaríamos" ],
+			[ "comprobaríais", "comprobarían" ],
+			[ "comprobarían" ]
+		],
+		"7" : [
+			[ "comprobaré" ],
+			[ "comprobarás" ],
+			[ "comprobará" ],
+			[ "comprobaremos" ],
+			[ "comprobaréis", "comprobarán" ],
+			[ "comprobarán" ]
+		],
+		"8" : [
+			[ "compruebe" ],
+			[ "compruebes" ],
+			[ "compruebe" ],
+			[ "comprobemos" ],
+			[ "comprobéis", "comprueben" ],
+			[ "comprueben" ]
+		],
+		"9" : [
+			[ "comprobara" ],
+			[ "comprobaras" ],
+			[ "comprobara" ],
+			[ "comprobáramos" ],
+			[ "comprobarais", "comprobaran" ],
+			[ "comprobaran" ]
+		],
+		"10" : [
+			[ "comprobase" ],
+			[ "comprobases" ],
+			[ "comprobase" ],
+			[ "comprobásemos" ],
+			[ "comprobaseis", "comprobasen" ],
+			[ "comprobasen" ]
+		],
+		"11" : [
+			[ "comprobare" ],
+			[ "comprobares" ],
+			[ "comprobare" ],
+			[ "comprobáremos" ],
+			[ "comprobareis", "comprobaren" ],
+			[ "comprobaren" ]
+		],
+		"12" : {
+			"1" : [ "comprueba" ],
+			"2" : [ "compruebe" ],
+			"3" : [ "comprobemos" ],
+			"4" : [ "comprobad" ],
+			"5" : [ "comprueben" ]
+		}
+	}
+}

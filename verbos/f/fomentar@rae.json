@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fomentar",
+	"word" : "fomentar",
+	"infinitivo" : "fomentar",
+	"participio" : [ "fomentado" ],
+	"gerundio" : [ "fomentando" ],
+	"tenses" : {
+		"3" : [
+			[ "fomento" ],
+			[ "fomentas", "fomentás" ],
+			[ "fomenta" ],
+			[ "fomentamos" ],
+			[ "fomentáis", "fomentan" ],
+			[ "fomentan" ]
+		],
+		"4" : [
+			[ "fomenté" ],
+			[ "fomentaste" ],
+			[ "fomentó" ],
+			[ "fomentamos" ],
+			[ "fomentasteis", "fomentaron" ],
+			[ "fomentaron" ]
+		],
+		"5" : [
+			[ "fomentaba" ],
+			[ "fomentabas" ],
+			[ "fomentaba" ],
+			[ "fomentábamos" ],
+			[ "fomentabais", "fomentaban" ],
+			[ "fomentaban" ]
+		],
+		"6" : [
+			[ "fomentaría" ],
+			[ "fomentarías" ],
+			[ "fomentaría" ],
+			[ "fomentaríamos" ],
+			[ "fomentaríais", "fomentarían" ],
+			[ "fomentarían" ]
+		],
+		"7" : [
+			[ "fomentaré" ],
+			[ "fomentarás" ],
+			[ "fomentará" ],
+			[ "fomentaremos" ],
+			[ "fomentaréis", "fomentarán" ],
+			[ "fomentarán" ]
+		],
+		"8" : [
+			[ "fomente" ],
+			[ "fomentes" ],
+			[ "fomente" ],
+			[ "fomentemos" ],
+			[ "fomentéis", "fomenten" ],
+			[ "fomenten" ]
+		],
+		"9" : [
+			[ "fomentara" ],
+			[ "fomentaras" ],
+			[ "fomentara" ],
+			[ "fomentáramos" ],
+			[ "fomentarais", "fomentaran" ],
+			[ "fomentaran" ]
+		],
+		"10" : [
+			[ "fomentase" ],
+			[ "fomentases" ],
+			[ "fomentase" ],
+			[ "fomentásemos" ],
+			[ "fomentaseis", "fomentasen" ],
+			[ "fomentasen" ]
+		],
+		"11" : [
+			[ "fomentare" ],
+			[ "fomentares" ],
+			[ "fomentare" ],
+			[ "fomentáremos" ],
+			[ "fomentareis", "fomentaren" ],
+			[ "fomentaren" ]
+		],
+		"12" : {
+			"1" : [ "fomenta" ],
+			"2" : [ "fomente" ],
+			"3" : [ "fomentemos" ],
+			"4" : [ "fomentad" ],
+			"5" : [ "fomenten" ]
+		}
+	}
+}

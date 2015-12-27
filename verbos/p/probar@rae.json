@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=probar",
+	"word" : "probar",
+	"infinitivo" : "probar",
+	"participio" : [ "probado" ],
+	"gerundio" : [ "probando" ],
+	"tenses" : {
+		"3" : [
+			[ "pruebo" ],
+			[ "pruebas", "probás" ],
+			[ "prueba" ],
+			[ "probamos" ],
+			[ "probáis", "prueban" ],
+			[ "prueban" ]
+		],
+		"4" : [
+			[ "probé" ],
+			[ "probaste" ],
+			[ "probó" ],
+			[ "probamos" ],
+			[ "probasteis", "probaron" ],
+			[ "probaron" ]
+		],
+		"5" : [
+			[ "probaba" ],
+			[ "probabas" ],
+			[ "probaba" ],
+			[ "probábamos" ],
+			[ "probabais", "probaban" ],
+			[ "probaban" ]
+		],
+		"6" : [
+			[ "probaría" ],
+			[ "probarías" ],
+			[ "probaría" ],
+			[ "probaríamos" ],
+			[ "probaríais", "probarían" ],
+			[ "probarían" ]
+		],
+		"7" : [
+			[ "probaré" ],
+			[ "probarás" ],
+			[ "probará" ],
+			[ "probaremos" ],
+			[ "probaréis", "probarán" ],
+			[ "probarán" ]
+		],
+		"8" : [
+			[ "pruebe" ],
+			[ "pruebes" ],
+			[ "pruebe" ],
+			[ "probemos" ],
+			[ "probéis", "prueben" ],
+			[ "prueben" ]
+		],
+		"9" : [
+			[ "probara" ],
+			[ "probaras" ],
+			[ "probara" ],
+			[ "probáramos" ],
+			[ "probarais", "probaran" ],
+			[ "probaran" ]
+		],
+		"10" : [
+			[ "probase" ],
+			[ "probases" ],
+			[ "probase" ],
+			[ "probásemos" ],
+			[ "probaseis", "probasen" ],
+			[ "probasen" ]
+		],
+		"11" : [
+			[ "probare" ],
+			[ "probares" ],
+			[ "probare" ],
+			[ "probáremos" ],
+			[ "probareis", "probaren" ],
+			[ "probaren" ]
+		],
+		"12" : {
+			"1" : [ "prueba" ],
+			"2" : [ "pruebe" ],
+			"3" : [ "probemos" ],
+			"4" : [ "probad" ],
+			"5" : [ "prueben" ]
+		}
+	}
+}

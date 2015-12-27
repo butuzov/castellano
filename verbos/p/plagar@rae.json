@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=plagar",
+	"word" : "plagar",
+	"infinitivo" : "plagar",
+	"participio" : [ "plagado" ],
+	"gerundio" : [ "plagando" ],
+	"tenses" : {
+		"3" : [
+			[ "plago" ],
+			[ "plagas", "plagás" ],
+			[ "plaga" ],
+			[ "plagamos" ],
+			[ "plagáis", "plagan" ],
+			[ "plagan" ]
+		],
+		"4" : [
+			[ "plagué" ],
+			[ "plagaste" ],
+			[ "plagó" ],
+			[ "plagamos" ],
+			[ "plagasteis", "plagaron" ],
+			[ "plagaron" ]
+		],
+		"5" : [
+			[ "plagaba" ],
+			[ "plagabas" ],
+			[ "plagaba" ],
+			[ "plagábamos" ],
+			[ "plagabais", "plagaban" ],
+			[ "plagaban" ]
+		],
+		"6" : [
+			[ "plagaría" ],
+			[ "plagarías" ],
+			[ "plagaría" ],
+			[ "plagaríamos" ],
+			[ "plagaríais", "plagarían" ],
+			[ "plagarían" ]
+		],
+		"7" : [
+			[ "plagaré" ],
+			[ "plagarás" ],
+			[ "plagará" ],
+			[ "plagaremos" ],
+			[ "plagaréis", "plagarán" ],
+			[ "plagarán" ]
+		],
+		"8" : [
+			[ "plague" ],
+			[ "plagues" ],
+			[ "plague" ],
+			[ "plaguemos" ],
+			[ "plaguéis", "plaguen" ],
+			[ "plaguen" ]
+		],
+		"9" : [
+			[ "plagara" ],
+			[ "plagaras" ],
+			[ "plagara" ],
+			[ "plagáramos" ],
+			[ "plagarais", "plagaran" ],
+			[ "plagaran" ]
+		],
+		"10" : [
+			[ "plagase" ],
+			[ "plagases" ],
+			[ "plagase" ],
+			[ "plagásemos" ],
+			[ "plagaseis", "plagasen" ],
+			[ "plagasen" ]
+		],
+		"11" : [
+			[ "plagare" ],
+			[ "plagares" ],
+			[ "plagare" ],
+			[ "plagáremos" ],
+			[ "plagareis", "plagaren" ],
+			[ "plagaren" ]
+		],
+		"12" : {
+			"1" : [ "plaga" ],
+			"2" : [ "plague" ],
+			"3" : [ "plaguemos" ],
+			"4" : [ "plagad" ],
+			"5" : [ "plaguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=progresar",
+	"word" : "progresar",
+	"infinitivo" : "progresar",
+	"participio" : [ "progresado" ],
+	"gerundio" : [ "progresando" ],
+	"tenses" : {
+		"3" : [
+			[ "progreso" ],
+			[ "progresas", "progresás" ],
+			[ "progresa" ],
+			[ "progresamos" ],
+			[ "progresáis", "progresan" ],
+			[ "progresan" ]
+		],
+		"4" : [
+			[ "progresé" ],
+			[ "progresaste" ],
+			[ "progresó" ],
+			[ "progresamos" ],
+			[ "progresasteis", "progresaron" ],
+			[ "progresaron" ]
+		],
+		"5" : [
+			[ "progresaba" ],
+			[ "progresabas" ],
+			[ "progresaba" ],
+			[ "progresábamos" ],
+			[ "progresabais", "progresaban" ],
+			[ "progresaban" ]
+		],
+		"6" : [
+			[ "progresaría" ],
+			[ "progresarías" ],
+			[ "progresaría" ],
+			[ "progresaríamos" ],
+			[ "progresaríais", "progresarían" ],
+			[ "progresarían" ]
+		],
+		"7" : [
+			[ "progresaré" ],
+			[ "progresarás" ],
+			[ "progresará" ],
+			[ "progresaremos" ],
+			[ "progresaréis", "progresarán" ],
+			[ "progresarán" ]
+		],
+		"8" : [
+			[ "progrese" ],
+			[ "progreses" ],
+			[ "progrese" ],
+			[ "progresemos" ],
+			[ "progreséis", "progresen" ],
+			[ "progresen" ]
+		],
+		"9" : [
+			[ "progresara" ],
+			[ "progresaras" ],
+			[ "progresara" ],
+			[ "progresáramos" ],
+			[ "progresarais", "progresaran" ],
+			[ "progresaran" ]
+		],
+		"10" : [
+			[ "progresase" ],
+			[ "progresases" ],
+			[ "progresase" ],
+			[ "progresásemos" ],
+			[ "progresaseis", "progresasen" ],
+			[ "progresasen" ]
+		],
+		"11" : [
+			[ "progresare" ],
+			[ "progresares" ],
+			[ "progresare" ],
+			[ "progresáremos" ],
+			[ "progresareis", "progresaren" ],
+			[ "progresaren" ]
+		],
+		"12" : {
+			"1" : [ "progresa" ],
+			"2" : [ "progrese" ],
+			"3" : [ "progresemos" ],
+			"4" : [ "progresad" ],
+			"5" : [ "progresen" ]
+		}
+	}
+}

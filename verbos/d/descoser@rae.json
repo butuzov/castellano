@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descoser",
+	"word" : "descoser",
+	"infinitivo" : "descoser",
+	"participio" : [ "descosido" ],
+	"gerundio" : [ "descosiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "descoso" ],
+			[ "descoses", "descosés" ],
+			[ "descose" ],
+			[ "descosemos" ],
+			[ "descoséis", "descosen" ],
+			[ "descosen" ]
+		],
+		"4" : [
+			[ "descosí" ],
+			[ "descosiste" ],
+			[ "descosió" ],
+			[ "descosimos" ],
+			[ "descosisteis", "descosieron" ],
+			[ "descosieron" ]
+		],
+		"5" : [
+			[ "descosía" ],
+			[ "descosías" ],
+			[ "descosía" ],
+			[ "descosíamos" ],
+			[ "descosíais", "descosían" ],
+			[ "descosían" ]
+		],
+		"6" : [
+			[ "descosería" ],
+			[ "descoserías" ],
+			[ "descosería" ],
+			[ "descoseríamos" ],
+			[ "descoseríais", "descoserían" ],
+			[ "descoserían" ]
+		],
+		"7" : [
+			[ "descoseré" ],
+			[ "descoserás" ],
+			[ "descoserá" ],
+			[ "descoseremos" ],
+			[ "descoseréis", "descoserán" ],
+			[ "descoserán" ]
+		],
+		"8" : [
+			[ "descosa" ],
+			[ "descosas" ],
+			[ "descosa" ],
+			[ "descosamos" ],
+			[ "descosáis", "descosan" ],
+			[ "descosan" ]
+		],
+		"9" : [
+			[ "descosiera" ],
+			[ "descosieras" ],
+			[ "descosiera" ],
+			[ "descosiéramos" ],
+			[ "descosierais", "descosieran" ],
+			[ "descosieran" ]
+		],
+		"10" : [
+			[ "descosiese" ],
+			[ "descosieses" ],
+			[ "descosiese" ],
+			[ "descosiésemos" ],
+			[ "descosieseis", "descosiesen" ],
+			[ "descosiesen" ]
+		],
+		"11" : [
+			[ "descosiere" ],
+			[ "descosieres" ],
+			[ "descosiere" ],
+			[ "descosiéremos" ],
+			[ "descosiereis", "descosieren" ],
+			[ "descosieren" ]
+		],
+		"12" : {
+			"1" : [ "descose" ],
+			"2" : [ "descosa" ],
+			"3" : [ "descosamos" ],
+			"4" : [ "descosed" ],
+			"5" : [ "descosan" ]
+		}
+	}
+}

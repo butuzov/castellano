@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sangrar",
+	"word" : "sangrar",
+	"infinitivo" : "sangrar",
+	"participio" : [ "sangrado" ],
+	"gerundio" : [ "sangrando" ],
+	"tenses" : {
+		"3" : [
+			[ "sangro" ],
+			[ "sangras", "sangrás" ],
+			[ "sangra" ],
+			[ "sangramos" ],
+			[ "sangráis", "sangran" ],
+			[ "sangran" ]
+		],
+		"4" : [
+			[ "sangré" ],
+			[ "sangraste" ],
+			[ "sangró" ],
+			[ "sangramos" ],
+			[ "sangrasteis", "sangraron" ],
+			[ "sangraron" ]
+		],
+		"5" : [
+			[ "sangraba" ],
+			[ "sangrabas" ],
+			[ "sangraba" ],
+			[ "sangrábamos" ],
+			[ "sangrabais", "sangraban" ],
+			[ "sangraban" ]
+		],
+		"6" : [
+			[ "sangraría" ],
+			[ "sangrarías" ],
+			[ "sangraría" ],
+			[ "sangraríamos" ],
+			[ "sangraríais", "sangrarían" ],
+			[ "sangrarían" ]
+		],
+		"7" : [
+			[ "sangraré" ],
+			[ "sangrarás" ],
+			[ "sangrará" ],
+			[ "sangraremos" ],
+			[ "sangraréis", "sangrarán" ],
+			[ "sangrarán" ]
+		],
+		"8" : [
+			[ "sangre" ],
+			[ "sangres" ],
+			[ "sangre" ],
+			[ "sangremos" ],
+			[ "sangréis", "sangren" ],
+			[ "sangren" ]
+		],
+		"9" : [
+			[ "sangrara" ],
+			[ "sangraras" ],
+			[ "sangrara" ],
+			[ "sangráramos" ],
+			[ "sangrarais", "sangraran" ],
+			[ "sangraran" ]
+		],
+		"10" : [
+			[ "sangrase" ],
+			[ "sangrases" ],
+			[ "sangrase" ],
+			[ "sangrásemos" ],
+			[ "sangraseis", "sangrasen" ],
+			[ "sangrasen" ]
+		],
+		"11" : [
+			[ "sangrare" ],
+			[ "sangrares" ],
+			[ "sangrare" ],
+			[ "sangráremos" ],
+			[ "sangrareis", "sangraren" ],
+			[ "sangraren" ]
+		],
+		"12" : {
+			"1" : [ "sangra" ],
+			"2" : [ "sangre" ],
+			"3" : [ "sangremos" ],
+			"4" : [ "sangrad" ],
+			"5" : [ "sangren" ]
+		}
+	}
+}

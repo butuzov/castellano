@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=requebrar",
+	"word" : "requebrar",
+	"infinitivo" : "requebrar",
+	"participio" : [ "requebrado" ],
+	"gerundio" : [ "requebrando" ],
+	"tenses" : {
+		"3" : [
+			[ "requiebro" ],
+			[ "requiebras", "requebrás" ],
+			[ "requiebra" ],
+			[ "requebramos" ],
+			[ "requebráis", "requiebran" ],
+			[ "requiebran" ]
+		],
+		"4" : [
+			[ "requebré" ],
+			[ "requebraste" ],
+			[ "requebró" ],
+			[ "requebramos" ],
+			[ "requebrasteis", "requebraron" ],
+			[ "requebraron" ]
+		],
+		"5" : [
+			[ "requebraba" ],
+			[ "requebrabas" ],
+			[ "requebraba" ],
+			[ "requebrábamos" ],
+			[ "requebrabais", "requebraban" ],
+			[ "requebraban" ]
+		],
+		"6" : [
+			[ "requebraría" ],
+			[ "requebrarías" ],
+			[ "requebraría" ],
+			[ "requebraríamos" ],
+			[ "requebraríais", "requebrarían" ],
+			[ "requebrarían" ]
+		],
+		"7" : [
+			[ "requebraré" ],
+			[ "requebrarás" ],
+			[ "requebrará" ],
+			[ "requebraremos" ],
+			[ "requebraréis", "requebrarán" ],
+			[ "requebrarán" ]
+		],
+		"8" : [
+			[ "requiebre" ],
+			[ "requiebres" ],
+			[ "requiebre" ],
+			[ "requebremos" ],
+			[ "requebréis", "requiebren" ],
+			[ "requiebren" ]
+		],
+		"9" : [
+			[ "requebrara" ],
+			[ "requebraras" ],
+			[ "requebrara" ],
+			[ "requebráramos" ],
+			[ "requebrarais", "requebraran" ],
+			[ "requebraran" ]
+		],
+		"10" : [
+			[ "requebrase" ],
+			[ "requebrases" ],
+			[ "requebrase" ],
+			[ "requebrásemos" ],
+			[ "requebraseis", "requebrasen" ],
+			[ "requebrasen" ]
+		],
+		"11" : [
+			[ "requebrare" ],
+			[ "requebrares" ],
+			[ "requebrare" ],
+			[ "requebráremos" ],
+			[ "requebrareis", "requebraren" ],
+			[ "requebraren" ]
+		],
+		"12" : {
+			"1" : [ "requiebra" ],
+			"2" : [ "requiebre" ],
+			"3" : [ "requebremos" ],
+			"4" : [ "requebrad" ],
+			"5" : [ "requiebren" ]
+		}
+	}
+}

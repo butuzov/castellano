@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=advertir",
+	"word" : "advertir",
+	"infinitivo" : "advertir",
+	"participio" : [ "advertido" ],
+	"gerundio" : [ "advirtiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "advierto" ],
+			[ "adviertes", "advertís" ],
+			[ "advierte" ],
+			[ "advertimos" ],
+			[ "advertís", "advierten" ],
+			[ "advierten" ]
+		],
+		"4" : [
+			[ "advertí" ],
+			[ "advertiste" ],
+			[ "advirtió" ],
+			[ "advertimos" ],
+			[ "advertisteis", "advirtieron" ],
+			[ "advirtieron" ]
+		],
+		"5" : [
+			[ "advertía" ],
+			[ "advertías" ],
+			[ "advertía" ],
+			[ "advertíamos" ],
+			[ "advertíais", "advertían" ],
+			[ "advertían" ]
+		],
+		"6" : [
+			[ "advertiría" ],
+			[ "advertirías" ],
+			[ "advertiría" ],
+			[ "advertiríamos" ],
+			[ "advertiríais", "advertirían" ],
+			[ "advertirían" ]
+		],
+		"7" : [
+			[ "advertiré" ],
+			[ "advertirás" ],
+			[ "advertirá" ],
+			[ "advertiremos" ],
+			[ "advertiréis", "advertirán" ],
+			[ "advertirán" ]
+		],
+		"8" : [
+			[ "advierta" ],
+			[ "adviertas" ],
+			[ "advierta" ],
+			[ "advirtamos" ],
+			[ "advirtáis", "adviertan" ],
+			[ "adviertan" ]
+		],
+		"9" : [
+			[ "advirtiera" ],
+			[ "advirtieras" ],
+			[ "advirtiera" ],
+			[ "advirtiéramos" ],
+			[ "advirtierais", "advirtieran" ],
+			[ "advirtieran" ]
+		],
+		"10" : [
+			[ "advirtiese" ],
+			[ "advirtieses" ],
+			[ "advirtiese" ],
+			[ "advirtiésemos" ],
+			[ "advirtieseis", "advirtiesen" ],
+			[ "advirtiesen" ]
+		],
+		"11" : [
+			[ "advirtiere" ],
+			[ "advirtieres" ],
+			[ "advirtiere" ],
+			[ "advirtiéremos" ],
+			[ "advirtiereis", "advirtieren" ],
+			[ "advirtieren" ]
+		],
+		"12" : {
+			"1" : [ "advierte" ],
+			"2" : [ "advierta" ],
+			"3" : [ "advirtamos" ],
+			"4" : [ "advertid" ],
+			"5" : [ "adviertan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lastrar",
+	"word" : "lastrar",
+	"infinitivo" : "lastrar",
+	"participio" : [ "lastrado" ],
+	"gerundio" : [ "lastrando" ],
+	"tenses" : {
+		"3" : [
+			[ "lastro" ],
+			[ "lastras", "lastrás" ],
+			[ "lastra" ],
+			[ "lastramos" ],
+			[ "lastráis", "lastran" ],
+			[ "lastran" ]
+		],
+		"4" : [
+			[ "lastré" ],
+			[ "lastraste" ],
+			[ "lastró" ],
+			[ "lastramos" ],
+			[ "lastrasteis", "lastraron" ],
+			[ "lastraron" ]
+		],
+		"5" : [
+			[ "lastraba" ],
+			[ "lastrabas" ],
+			[ "lastraba" ],
+			[ "lastrábamos" ],
+			[ "lastrabais", "lastraban" ],
+			[ "lastraban" ]
+		],
+		"6" : [
+			[ "lastraría" ],
+			[ "lastrarías" ],
+			[ "lastraría" ],
+			[ "lastraríamos" ],
+			[ "lastraríais", "lastrarían" ],
+			[ "lastrarían" ]
+		],
+		"7" : [
+			[ "lastraré" ],
+			[ "lastrarás" ],
+			[ "lastrará" ],
+			[ "lastraremos" ],
+			[ "lastraréis", "lastrarán" ],
+			[ "lastrarán" ]
+		],
+		"8" : [
+			[ "lastre" ],
+			[ "lastres" ],
+			[ "lastre" ],
+			[ "lastremos" ],
+			[ "lastréis", "lastren" ],
+			[ "lastren" ]
+		],
+		"9" : [
+			[ "lastrara" ],
+			[ "lastraras" ],
+			[ "lastrara" ],
+			[ "lastráramos" ],
+			[ "lastrarais", "lastraran" ],
+			[ "lastraran" ]
+		],
+		"10" : [
+			[ "lastrase" ],
+			[ "lastrases" ],
+			[ "lastrase" ],
+			[ "lastrásemos" ],
+			[ "lastraseis", "lastrasen" ],
+			[ "lastrasen" ]
+		],
+		"11" : [
+			[ "lastrare" ],
+			[ "lastrares" ],
+			[ "lastrare" ],
+			[ "lastráremos" ],
+			[ "lastrareis", "lastraren" ],
+			[ "lastraren" ]
+		],
+		"12" : {
+			"1" : [ "lastra" ],
+			"2" : [ "lastre" ],
+			"3" : [ "lastremos" ],
+			"4" : [ "lastrad" ],
+			"5" : [ "lastren" ]
+		}
+	}
+}

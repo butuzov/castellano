@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comparar",
+	"word" : "comparar",
+	"infinitivo" : "comparar",
+	"participio" : [ "comparado" ],
+	"gerundio" : [ "comparando" ],
+	"tenses" : {
+		"3" : [
+			[ "comparo" ],
+			[ "comparas", "comparás" ],
+			[ "compara" ],
+			[ "comparamos" ],
+			[ "comparáis", "comparan" ],
+			[ "comparan" ]
+		],
+		"4" : [
+			[ "comparé" ],
+			[ "comparaste" ],
+			[ "comparó" ],
+			[ "comparamos" ],
+			[ "comparasteis", "compararon" ],
+			[ "compararon" ]
+		],
+		"5" : [
+			[ "comparaba" ],
+			[ "comparabas" ],
+			[ "comparaba" ],
+			[ "comparábamos" ],
+			[ "comparabais", "comparaban" ],
+			[ "comparaban" ]
+		],
+		"6" : [
+			[ "compararía" ],
+			[ "compararías" ],
+			[ "compararía" ],
+			[ "compararíamos" ],
+			[ "compararíais", "compararían" ],
+			[ "compararían" ]
+		],
+		"7" : [
+			[ "compararé" ],
+			[ "compararás" ],
+			[ "comparará" ],
+			[ "compararemos" ],
+			[ "compararéis", "compararán" ],
+			[ "compararán" ]
+		],
+		"8" : [
+			[ "compare" ],
+			[ "compares" ],
+			[ "compare" ],
+			[ "comparemos" ],
+			[ "comparéis", "comparen" ],
+			[ "comparen" ]
+		],
+		"9" : [
+			[ "comparara" ],
+			[ "compararas" ],
+			[ "comparara" ],
+			[ "comparáramos" ],
+			[ "compararais", "compararan" ],
+			[ "compararan" ]
+		],
+		"10" : [
+			[ "comparase" ],
+			[ "comparases" ],
+			[ "comparase" ],
+			[ "comparásemos" ],
+			[ "comparaseis", "comparasen" ],
+			[ "comparasen" ]
+		],
+		"11" : [
+			[ "comparare" ],
+			[ "comparares" ],
+			[ "comparare" ],
+			[ "comparáremos" ],
+			[ "comparareis", "compararen" ],
+			[ "compararen" ]
+		],
+		"12" : {
+			"1" : [ "compara" ],
+			"2" : [ "compare" ],
+			"3" : [ "comparemos" ],
+			"4" : [ "comparad" ],
+			"5" : [ "comparen" ]
+		}
+	}
+}

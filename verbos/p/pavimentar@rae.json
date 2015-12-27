@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pavimentar",
+	"word" : "pavimentar",
+	"infinitivo" : "pavimentar",
+	"participio" : [ "pavimentado" ],
+	"gerundio" : [ "pavimentando" ],
+	"tenses" : {
+		"3" : [
+			[ "pavimento" ],
+			[ "pavimentas", "pavimentás" ],
+			[ "pavimenta" ],
+			[ "pavimentamos" ],
+			[ "pavimentáis", "pavimentan" ],
+			[ "pavimentan" ]
+		],
+		"4" : [
+			[ "pavimenté" ],
+			[ "pavimentaste" ],
+			[ "pavimentó" ],
+			[ "pavimentamos" ],
+			[ "pavimentasteis", "pavimentaron" ],
+			[ "pavimentaron" ]
+		],
+		"5" : [
+			[ "pavimentaba" ],
+			[ "pavimentabas" ],
+			[ "pavimentaba" ],
+			[ "pavimentábamos" ],
+			[ "pavimentabais", "pavimentaban" ],
+			[ "pavimentaban" ]
+		],
+		"6" : [
+			[ "pavimentaría" ],
+			[ "pavimentarías" ],
+			[ "pavimentaría" ],
+			[ "pavimentaríamos" ],
+			[ "pavimentaríais", "pavimentarían" ],
+			[ "pavimentarían" ]
+		],
+		"7" : [
+			[ "pavimentaré" ],
+			[ "pavimentarás" ],
+			[ "pavimentará" ],
+			[ "pavimentaremos" ],
+			[ "pavimentaréis", "pavimentarán" ],
+			[ "pavimentarán" ]
+		],
+		"8" : [
+			[ "pavimente" ],
+			[ "pavimentes" ],
+			[ "pavimente" ],
+			[ "pavimentemos" ],
+			[ "pavimentéis", "pavimenten" ],
+			[ "pavimenten" ]
+		],
+		"9" : [
+			[ "pavimentara" ],
+			[ "pavimentaras" ],
+			[ "pavimentara" ],
+			[ "pavimentáramos" ],
+			[ "pavimentarais", "pavimentaran" ],
+			[ "pavimentaran" ]
+		],
+		"10" : [
+			[ "pavimentase" ],
+			[ "pavimentases" ],
+			[ "pavimentase" ],
+			[ "pavimentásemos" ],
+			[ "pavimentaseis", "pavimentasen" ],
+			[ "pavimentasen" ]
+		],
+		"11" : [
+			[ "pavimentare" ],
+			[ "pavimentares" ],
+			[ "pavimentare" ],
+			[ "pavimentáremos" ],
+			[ "pavimentareis", "pavimentaren" ],
+			[ "pavimentaren" ]
+		],
+		"12" : {
+			"1" : [ "pavimenta" ],
+			"2" : [ "pavimente" ],
+			"3" : [ "pavimentemos" ],
+			"4" : [ "pavimentad" ],
+			"5" : [ "pavimenten" ]
+		}
+	}
+}

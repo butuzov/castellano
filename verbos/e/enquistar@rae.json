@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enquistar",
+	"word" : "enquistar",
+	"infinitivo" : "enquistar",
+	"participio" : [ "enquistado" ],
+	"gerundio" : [ "enquistando" ],
+	"tenses" : {
+		"3" : [
+			[ "enquisto" ],
+			[ "enquistas", "enquistás" ],
+			[ "enquista" ],
+			[ "enquistamos" ],
+			[ "enquistáis", "enquistan" ],
+			[ "enquistan" ]
+		],
+		"4" : [
+			[ "enquisté" ],
+			[ "enquistaste" ],
+			[ "enquistó" ],
+			[ "enquistamos" ],
+			[ "enquistasteis", "enquistaron" ],
+			[ "enquistaron" ]
+		],
+		"5" : [
+			[ "enquistaba" ],
+			[ "enquistabas" ],
+			[ "enquistaba" ],
+			[ "enquistábamos" ],
+			[ "enquistabais", "enquistaban" ],
+			[ "enquistaban" ]
+		],
+		"6" : [
+			[ "enquistaría" ],
+			[ "enquistarías" ],
+			[ "enquistaría" ],
+			[ "enquistaríamos" ],
+			[ "enquistaríais", "enquistarían" ],
+			[ "enquistarían" ]
+		],
+		"7" : [
+			[ "enquistaré" ],
+			[ "enquistarás" ],
+			[ "enquistará" ],
+			[ "enquistaremos" ],
+			[ "enquistaréis", "enquistarán" ],
+			[ "enquistarán" ]
+		],
+		"8" : [
+			[ "enquiste" ],
+			[ "enquistes" ],
+			[ "enquiste" ],
+			[ "enquistemos" ],
+			[ "enquistéis", "enquisten" ],
+			[ "enquisten" ]
+		],
+		"9" : [
+			[ "enquistara" ],
+			[ "enquistaras" ],
+			[ "enquistara" ],
+			[ "enquistáramos" ],
+			[ "enquistarais", "enquistaran" ],
+			[ "enquistaran" ]
+		],
+		"10" : [
+			[ "enquistase" ],
+			[ "enquistases" ],
+			[ "enquistase" ],
+			[ "enquistásemos" ],
+			[ "enquistaseis", "enquistasen" ],
+			[ "enquistasen" ]
+		],
+		"11" : [
+			[ "enquistare" ],
+			[ "enquistares" ],
+			[ "enquistare" ],
+			[ "enquistáremos" ],
+			[ "enquistareis", "enquistaren" ],
+			[ "enquistaren" ]
+		],
+		"12" : {
+			"1" : [ "enquista" ],
+			"2" : [ "enquiste" ],
+			"3" : [ "enquistemos" ],
+			"4" : [ "enquistad" ],
+			"5" : [ "enquisten" ]
+		}
+	}
+}

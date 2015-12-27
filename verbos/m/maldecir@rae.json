@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=maldecir",
+	"word" : "maldecir",
+	"infinitivo" : "maldecir",
+	"participio" : [ "maldecido", "maldito" ],
+	"gerundio" : [ "maldiciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "maldigo" ],
+			[ "maldices", "maldecís" ],
+			[ "maldice" ],
+			[ "maldecimos" ],
+			[ "maldecís", "maldicen" ],
+			[ "maldicen" ]
+		],
+		"4" : [
+			[ "maldije" ],
+			[ "maldijiste" ],
+			[ "maldijo" ],
+			[ "maldijimos" ],
+			[ "maldijisteis", "maldijeron" ],
+			[ "maldijeron" ]
+		],
+		"5" : [
+			[ "maldecía" ],
+			[ "maldecías" ],
+			[ "maldecía" ],
+			[ "maldecíamos" ],
+			[ "maldecíais", "maldecían" ],
+			[ "maldecían" ]
+		],
+		"6" : [
+			[ "maldeciría" ],
+			[ "maldecirías" ],
+			[ "maldeciría" ],
+			[ "maldeciríamos" ],
+			[ "maldeciríais", "maldecirían" ],
+			[ "maldecirían" ]
+		],
+		"7" : [
+			[ "maldeciré" ],
+			[ "maldecirás" ],
+			[ "maldecirá" ],
+			[ "maldeciremos" ],
+			[ "maldeciréis", "maldecirán" ],
+			[ "maldecirán" ]
+		],
+		"8" : [
+			[ "maldiga" ],
+			[ "maldigas" ],
+			[ "maldiga" ],
+			[ "maldigamos" ],
+			[ "maldigáis", "maldigan" ],
+			[ "maldigan" ]
+		],
+		"9" : [
+			[ "maldijera" ],
+			[ "maldijeras" ],
+			[ "maldijera" ],
+			[ "maldijéramos" ],
+			[ "maldijerais", "maldijeran" ],
+			[ "maldijeran" ]
+		],
+		"10" : [
+			[ "maldijese" ],
+			[ "maldijeses" ],
+			[ "maldijese" ],
+			[ "maldijésemos" ],
+			[ "maldijeseis", "maldijesen" ],
+			[ "maldijesen" ]
+		],
+		"11" : [
+			[ "maldijere" ],
+			[ "maldijeres" ],
+			[ "maldijere" ],
+			[ "maldijéremos" ],
+			[ "maldijereis", "maldijeren" ],
+			[ "maldijeren" ]
+		],
+		"12" : {
+			"1" : [ "maldice" ],
+			"2" : [ "maldiga" ],
+			"3" : [ "maldigamos" ],
+			"4" : [ "maldecid" ],
+			"5" : [ "maldigan" ]
+		}
+	}
+}

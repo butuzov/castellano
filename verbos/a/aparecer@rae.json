@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aparecer",
+	"word" : "aparecer",
+	"infinitivo" : "aparecer",
+	"participio" : [ "aparecido" ],
+	"gerundio" : [ "apareciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aparezco" ],
+			[ "apareces", "aparecés" ],
+			[ "aparece" ],
+			[ "aparecemos" ],
+			[ "aparecéis", "aparecen" ],
+			[ "aparecen" ]
+		],
+		"4" : [
+			[ "aparecí" ],
+			[ "apareciste" ],
+			[ "apareció" ],
+			[ "aparecimos" ],
+			[ "aparecisteis", "aparecieron" ],
+			[ "aparecieron" ]
+		],
+		"5" : [
+			[ "aparecía" ],
+			[ "aparecías" ],
+			[ "aparecía" ],
+			[ "aparecíamos" ],
+			[ "aparecíais", "aparecían" ],
+			[ "aparecían" ]
+		],
+		"6" : [
+			[ "aparecería" ],
+			[ "aparecerías" ],
+			[ "aparecería" ],
+			[ "apareceríamos" ],
+			[ "apareceríais", "aparecerían" ],
+			[ "aparecerían" ]
+		],
+		"7" : [
+			[ "apareceré" ],
+			[ "aparecerás" ],
+			[ "aparecerá" ],
+			[ "apareceremos" ],
+			[ "apareceréis", "aparecerán" ],
+			[ "aparecerán" ]
+		],
+		"8" : [
+			[ "aparezca" ],
+			[ "aparezcas" ],
+			[ "aparezca" ],
+			[ "aparezcamos" ],
+			[ "aparezcáis", "aparezcan" ],
+			[ "aparezcan" ]
+		],
+		"9" : [
+			[ "apareciera" ],
+			[ "aparecieras" ],
+			[ "apareciera" ],
+			[ "apareciéramos" ],
+			[ "aparecierais", "aparecieran" ],
+			[ "aparecieran" ]
+		],
+		"10" : [
+			[ "apareciese" ],
+			[ "aparecieses" ],
+			[ "apareciese" ],
+			[ "apareciésemos" ],
+			[ "aparecieseis", "apareciesen" ],
+			[ "apareciesen" ]
+		],
+		"11" : [
+			[ "apareciere" ],
+			[ "aparecieres" ],
+			[ "apareciere" ],
+			[ "apareciéremos" ],
+			[ "apareciereis", "aparecieren" ],
+			[ "aparecieren" ]
+		],
+		"12" : {
+			"1" : [ "aparece" ],
+			"2" : [ "aparezca" ],
+			"3" : [ "aparezcamos" ],
+			"4" : [ "apareced" ],
+			"5" : [ "aparezcan" ]
+		}
+	}
+}

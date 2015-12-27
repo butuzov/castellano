@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=relinchar",
+	"word" : "relinchar",
+	"infinitivo" : "relinchar",
+	"participio" : [ "relinchado" ],
+	"gerundio" : [ "relinchando" ],
+	"tenses" : {
+		"3" : [
+			[ "relincho" ],
+			[ "relinchas", "relinchás" ],
+			[ "relincha" ],
+			[ "relinchamos" ],
+			[ "relincháis", "relinchan" ],
+			[ "relinchan" ]
+		],
+		"4" : [
+			[ "relinché" ],
+			[ "relinchaste" ],
+			[ "relinchó" ],
+			[ "relinchamos" ],
+			[ "relinchasteis", "relincharon" ],
+			[ "relincharon" ]
+		],
+		"5" : [
+			[ "relinchaba" ],
+			[ "relinchabas" ],
+			[ "relinchaba" ],
+			[ "relinchábamos" ],
+			[ "relinchabais", "relinchaban" ],
+			[ "relinchaban" ]
+		],
+		"6" : [
+			[ "relincharía" ],
+			[ "relincharías" ],
+			[ "relincharía" ],
+			[ "relincharíamos" ],
+			[ "relincharíais", "relincharían" ],
+			[ "relincharían" ]
+		],
+		"7" : [
+			[ "relincharé" ],
+			[ "relincharás" ],
+			[ "relinchará" ],
+			[ "relincharemos" ],
+			[ "relincharéis", "relincharán" ],
+			[ "relincharán" ]
+		],
+		"8" : [
+			[ "relinche" ],
+			[ "relinches" ],
+			[ "relinche" ],
+			[ "relinchemos" ],
+			[ "relinchéis", "relinchen" ],
+			[ "relinchen" ]
+		],
+		"9" : [
+			[ "relinchara" ],
+			[ "relincharas" ],
+			[ "relinchara" ],
+			[ "relincháramos" ],
+			[ "relincharais", "relincharan" ],
+			[ "relincharan" ]
+		],
+		"10" : [
+			[ "relinchase" ],
+			[ "relinchases" ],
+			[ "relinchase" ],
+			[ "relinchásemos" ],
+			[ "relinchaseis", "relinchasen" ],
+			[ "relinchasen" ]
+		],
+		"11" : [
+			[ "relinchare" ],
+			[ "relinchares" ],
+			[ "relinchare" ],
+			[ "relincháremos" ],
+			[ "relinchareis", "relincharen" ],
+			[ "relincharen" ]
+		],
+		"12" : {
+			"1" : [ "relincha" ],
+			"2" : [ "relinche" ],
+			"3" : [ "relinchemos" ],
+			"4" : [ "relinchad" ],
+			"5" : [ "relinchen" ]
+		}
+	}
+}

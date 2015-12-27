@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=colorear",
+	"word" : "colorear",
+	"infinitivo" : "colorear",
+	"participio" : [ "coloreado" ],
+	"gerundio" : [ "coloreando" ],
+	"tenses" : {
+		"3" : [
+			[ "coloreo" ],
+			[ "coloreas", "coloreás" ],
+			[ "colorea" ],
+			[ "coloreamos" ],
+			[ "coloreáis", "colorean" ],
+			[ "colorean" ]
+		],
+		"4" : [
+			[ "coloreé" ],
+			[ "coloreaste" ],
+			[ "coloreó" ],
+			[ "coloreamos" ],
+			[ "coloreasteis", "colorearon" ],
+			[ "colorearon" ]
+		],
+		"5" : [
+			[ "coloreaba" ],
+			[ "coloreabas" ],
+			[ "coloreaba" ],
+			[ "coloreábamos" ],
+			[ "coloreabais", "coloreaban" ],
+			[ "coloreaban" ]
+		],
+		"6" : [
+			[ "colorearía" ],
+			[ "colorearías" ],
+			[ "colorearía" ],
+			[ "colorearíamos" ],
+			[ "colorearíais", "colorearían" ],
+			[ "colorearían" ]
+		],
+		"7" : [
+			[ "colorearé" ],
+			[ "colorearás" ],
+			[ "coloreará" ],
+			[ "colorearemos" ],
+			[ "colorearéis", "colorearán" ],
+			[ "colorearán" ]
+		],
+		"8" : [
+			[ "coloree" ],
+			[ "colorees" ],
+			[ "coloree" ],
+			[ "coloreemos" ],
+			[ "coloreéis", "coloreen" ],
+			[ "coloreen" ]
+		],
+		"9" : [
+			[ "coloreara" ],
+			[ "colorearas" ],
+			[ "coloreara" ],
+			[ "coloreáramos" ],
+			[ "colorearais", "colorearan" ],
+			[ "colorearan" ]
+		],
+		"10" : [
+			[ "colorease" ],
+			[ "coloreases" ],
+			[ "colorease" ],
+			[ "coloreásemos" ],
+			[ "coloreaseis", "coloreasen" ],
+			[ "coloreasen" ]
+		],
+		"11" : [
+			[ "coloreare" ],
+			[ "coloreares" ],
+			[ "coloreare" ],
+			[ "coloreáremos" ],
+			[ "coloreareis", "colorearen" ],
+			[ "colorearen" ]
+		],
+		"12" : {
+			"1" : [ "colorea" ],
+			"2" : [ "coloree" ],
+			"3" : [ "coloreemos" ],
+			"4" : [ "coloread" ],
+			"5" : [ "coloreen" ]
+		}
+	}
+}

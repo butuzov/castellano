@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=germinar",
+	"word" : "germinar",
+	"infinitivo" : "germinar",
+	"participio" : [ "germinado" ],
+	"gerundio" : [ "germinando" ],
+	"tenses" : {
+		"3" : [
+			[ "germino" ],
+			[ "germinas", "germinás" ],
+			[ "germina" ],
+			[ "germinamos" ],
+			[ "germináis", "germinan" ],
+			[ "germinan" ]
+		],
+		"4" : [
+			[ "germiné" ],
+			[ "germinaste" ],
+			[ "germinó" ],
+			[ "germinamos" ],
+			[ "germinasteis", "germinaron" ],
+			[ "germinaron" ]
+		],
+		"5" : [
+			[ "germinaba" ],
+			[ "germinabas" ],
+			[ "germinaba" ],
+			[ "germinábamos" ],
+			[ "germinabais", "germinaban" ],
+			[ "germinaban" ]
+		],
+		"6" : [
+			[ "germinaría" ],
+			[ "germinarías" ],
+			[ "germinaría" ],
+			[ "germinaríamos" ],
+			[ "germinaríais", "germinarían" ],
+			[ "germinarían" ]
+		],
+		"7" : [
+			[ "germinaré" ],
+			[ "germinarás" ],
+			[ "germinará" ],
+			[ "germinaremos" ],
+			[ "germinaréis", "germinarán" ],
+			[ "germinarán" ]
+		],
+		"8" : [
+			[ "germine" ],
+			[ "germines" ],
+			[ "germine" ],
+			[ "germinemos" ],
+			[ "germinéis", "germinen" ],
+			[ "germinen" ]
+		],
+		"9" : [
+			[ "germinara" ],
+			[ "germinaras" ],
+			[ "germinara" ],
+			[ "germináramos" ],
+			[ "germinarais", "germinaran" ],
+			[ "germinaran" ]
+		],
+		"10" : [
+			[ "germinase" ],
+			[ "germinases" ],
+			[ "germinase" ],
+			[ "germinásemos" ],
+			[ "germinaseis", "germinasen" ],
+			[ "germinasen" ]
+		],
+		"11" : [
+			[ "germinare" ],
+			[ "germinares" ],
+			[ "germinare" ],
+			[ "germináremos" ],
+			[ "germinareis", "germinaren" ],
+			[ "germinaren" ]
+		],
+		"12" : {
+			"1" : [ "germina" ],
+			"2" : [ "germine" ],
+			"3" : [ "germinemos" ],
+			"4" : [ "germinad" ],
+			"5" : [ "germinen" ]
+		}
+	}
+}

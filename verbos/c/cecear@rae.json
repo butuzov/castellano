@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cecear",
+	"word" : "cecear",
+	"infinitivo" : "cecear",
+	"participio" : [ "ceceado" ],
+	"gerundio" : [ "ceceando" ],
+	"tenses" : {
+		"3" : [
+			[ "ceceo" ],
+			[ "ceceas", "ceceás" ],
+			[ "cecea" ],
+			[ "ceceamos" ],
+			[ "ceceáis", "cecean" ],
+			[ "cecean" ]
+		],
+		"4" : [
+			[ "ceceé" ],
+			[ "ceceaste" ],
+			[ "ceceó" ],
+			[ "ceceamos" ],
+			[ "ceceasteis", "cecearon" ],
+			[ "cecearon" ]
+		],
+		"5" : [
+			[ "ceceaba" ],
+			[ "ceceabas" ],
+			[ "ceceaba" ],
+			[ "ceceábamos" ],
+			[ "ceceabais", "ceceaban" ],
+			[ "ceceaban" ]
+		],
+		"6" : [
+			[ "cecearía" ],
+			[ "cecearías" ],
+			[ "cecearía" ],
+			[ "cecearíamos" ],
+			[ "cecearíais", "cecearían" ],
+			[ "cecearían" ]
+		],
+		"7" : [
+			[ "cecearé" ],
+			[ "cecearás" ],
+			[ "ceceará" ],
+			[ "cecearemos" ],
+			[ "cecearéis", "cecearán" ],
+			[ "cecearán" ]
+		],
+		"8" : [
+			[ "cecee" ],
+			[ "cecees" ],
+			[ "cecee" ],
+			[ "ceceemos" ],
+			[ "ceceéis", "ceceen" ],
+			[ "ceceen" ]
+		],
+		"9" : [
+			[ "ceceara" ],
+			[ "cecearas" ],
+			[ "ceceara" ],
+			[ "ceceáramos" ],
+			[ "cecearais", "cecearan" ],
+			[ "cecearan" ]
+		],
+		"10" : [
+			[ "cecease" ],
+			[ "ceceases" ],
+			[ "cecease" ],
+			[ "ceceásemos" ],
+			[ "ceceaseis", "ceceasen" ],
+			[ "ceceasen" ]
+		],
+		"11" : [
+			[ "ceceare" ],
+			[ "ceceares" ],
+			[ "ceceare" ],
+			[ "ceceáremos" ],
+			[ "ceceareis", "cecearen" ],
+			[ "cecearen" ]
+		],
+		"12" : {
+			"1" : [ "cecea" ],
+			"2" : [ "cecee" ],
+			"3" : [ "ceceemos" ],
+			"4" : [ "cecead" ],
+			"5" : [ "ceceen" ]
+		}
+	}
+}

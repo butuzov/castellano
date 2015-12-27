@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arreciar",
+	"word" : "arreciar",
+	"infinitivo" : "arreciar",
+	"participio" : [ "arreciado" ],
+	"gerundio" : [ "arreciando" ],
+	"tenses" : {
+		"3" : [
+			[ "arrecio" ],
+			[ "arrecias", "arreciás" ],
+			[ "arrecia" ],
+			[ "arreciamos" ],
+			[ "arreciáis", "arrecian" ],
+			[ "arrecian" ]
+		],
+		"4" : [
+			[ "arrecié" ],
+			[ "arreciaste" ],
+			[ "arreció" ],
+			[ "arreciamos" ],
+			[ "arreciasteis", "arreciaron" ],
+			[ "arreciaron" ]
+		],
+		"5" : [
+			[ "arreciaba" ],
+			[ "arreciabas" ],
+			[ "arreciaba" ],
+			[ "arreciábamos" ],
+			[ "arreciabais", "arreciaban" ],
+			[ "arreciaban" ]
+		],
+		"6" : [
+			[ "arreciaría" ],
+			[ "arreciarías" ],
+			[ "arreciaría" ],
+			[ "arreciaríamos" ],
+			[ "arreciaríais", "arreciarían" ],
+			[ "arreciarían" ]
+		],
+		"7" : [
+			[ "arreciaré" ],
+			[ "arreciarás" ],
+			[ "arreciará" ],
+			[ "arreciaremos" ],
+			[ "arreciaréis", "arreciarán" ],
+			[ "arreciarán" ]
+		],
+		"8" : [
+			[ "arrecie" ],
+			[ "arrecies" ],
+			[ "arrecie" ],
+			[ "arreciemos" ],
+			[ "arreciéis", "arrecien" ],
+			[ "arrecien" ]
+		],
+		"9" : [
+			[ "arreciara" ],
+			[ "arreciaras" ],
+			[ "arreciara" ],
+			[ "arreciáramos" ],
+			[ "arreciarais", "arreciaran" ],
+			[ "arreciaran" ]
+		],
+		"10" : [
+			[ "arreciase" ],
+			[ "arreciases" ],
+			[ "arreciase" ],
+			[ "arreciásemos" ],
+			[ "arreciaseis", "arreciasen" ],
+			[ "arreciasen" ]
+		],
+		"11" : [
+			[ "arreciare" ],
+			[ "arreciares" ],
+			[ "arreciare" ],
+			[ "arreciáremos" ],
+			[ "arreciareis", "arreciaren" ],
+			[ "arreciaren" ]
+		],
+		"12" : {
+			"1" : [ "arrecia" ],
+			"2" : [ "arrecie" ],
+			"3" : [ "arreciemos" ],
+			"4" : [ "arreciad" ],
+			"5" : [ "arrecien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=posponer",
+	"word" : "posponer",
+	"infinitivo" : "posponer",
+	"participio" : [ "pospuesto" ],
+	"gerundio" : [ "posponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "pospongo" ],
+			[ "pospones", "posponés" ],
+			[ "pospone" ],
+			[ "posponemos" ],
+			[ "posponéis", "posponen" ],
+			[ "posponen" ]
+		],
+		"4" : [
+			[ "pospuse" ],
+			[ "pospusiste" ],
+			[ "pospuso" ],
+			[ "pospusimos" ],
+			[ "pospusisteis", "pospusieron" ],
+			[ "pospusieron" ]
+		],
+		"5" : [
+			[ "posponía" ],
+			[ "posponías" ],
+			[ "posponía" ],
+			[ "posponíamos" ],
+			[ "posponíais", "posponían" ],
+			[ "posponían" ]
+		],
+		"6" : [
+			[ "pospondría" ],
+			[ "pospondrías" ],
+			[ "pospondría" ],
+			[ "pospondríamos" ],
+			[ "pospondríais", "pospondrían" ],
+			[ "pospondrían" ]
+		],
+		"7" : [
+			[ "pospondré" ],
+			[ "pospondrás" ],
+			[ "pospondrá" ],
+			[ "pospondremos" ],
+			[ "pospondréis", "pospondrán" ],
+			[ "pospondrán" ]
+		],
+		"8" : [
+			[ "posponga" ],
+			[ "pospongas" ],
+			[ "posponga" ],
+			[ "pospongamos" ],
+			[ "pospongáis", "pospongan" ],
+			[ "pospongan" ]
+		],
+		"9" : [
+			[ "pospusiera" ],
+			[ "pospusieras" ],
+			[ "pospusiera" ],
+			[ "pospusiéramos" ],
+			[ "pospusierais", "pospusieran" ],
+			[ "pospusieran" ]
+		],
+		"10" : [
+			[ "pospusiese" ],
+			[ "pospusieses" ],
+			[ "pospusiese" ],
+			[ "pospusiésemos" ],
+			[ "pospusieseis", "pospusiesen" ],
+			[ "pospusiesen" ]
+		],
+		"11" : [
+			[ "pospusiere" ],
+			[ "pospusieres" ],
+			[ "pospusiere" ],
+			[ "pospusiéremos" ],
+			[ "pospusiereis", "pospusieren" ],
+			[ "pospusieren" ]
+		],
+		"12" : {
+			"1" : [ "pospón" ],
+			"2" : [ "posponga" ],
+			"3" : [ "pospongamos" ],
+			"4" : [ "posponed" ],
+			"5" : [ "pospongan" ]
+		}
+	}
+}

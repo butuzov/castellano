@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resegar",
+	"word" : "resegar",
+	"infinitivo" : "resegar",
+	"participio" : [ "resegado" ],
+	"gerundio" : [ "resegando" ],
+	"tenses" : {
+		"3" : [
+			[ "resiego" ],
+			[ "resiegas", "resegás" ],
+			[ "resiega" ],
+			[ "resegamos" ],
+			[ "resegáis", "resiegan" ],
+			[ "resiegan" ]
+		],
+		"4" : [
+			[ "resegué" ],
+			[ "resegaste" ],
+			[ "resegó" ],
+			[ "resegamos" ],
+			[ "resegasteis", "resegaron" ],
+			[ "resegaron" ]
+		],
+		"5" : [
+			[ "resegaba" ],
+			[ "resegabas" ],
+			[ "resegaba" ],
+			[ "resegábamos" ],
+			[ "resegabais", "resegaban" ],
+			[ "resegaban" ]
+		],
+		"6" : [
+			[ "resegaría" ],
+			[ "resegarías" ],
+			[ "resegaría" ],
+			[ "resegaríamos" ],
+			[ "resegaríais", "resegarían" ],
+			[ "resegarían" ]
+		],
+		"7" : [
+			[ "resegaré" ],
+			[ "resegarás" ],
+			[ "resegará" ],
+			[ "resegaremos" ],
+			[ "resegaréis", "resegarán" ],
+			[ "resegarán" ]
+		],
+		"8" : [
+			[ "resiegue" ],
+			[ "resiegues" ],
+			[ "resiegue" ],
+			[ "reseguemos" ],
+			[ "reseguéis", "resieguen" ],
+			[ "resieguen" ]
+		],
+		"9" : [
+			[ "resegara" ],
+			[ "resegaras" ],
+			[ "resegara" ],
+			[ "resegáramos" ],
+			[ "resegarais", "resegaran" ],
+			[ "resegaran" ]
+		],
+		"10" : [
+			[ "resegase" ],
+			[ "resegases" ],
+			[ "resegase" ],
+			[ "resegásemos" ],
+			[ "resegaseis", "resegasen" ],
+			[ "resegasen" ]
+		],
+		"11" : [
+			[ "resegare" ],
+			[ "resegares" ],
+			[ "resegare" ],
+			[ "resegáremos" ],
+			[ "resegareis", "resegaren" ],
+			[ "resegaren" ]
+		],
+		"12" : {
+			"1" : [ "resiega" ],
+			"2" : [ "resiegue" ],
+			"3" : [ "reseguemos" ],
+			"4" : [ "resegad" ],
+			"5" : [ "resieguen" ]
+		}
+	}
+}

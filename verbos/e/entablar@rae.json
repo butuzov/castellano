@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entablar",
+	"word" : "entablar",
+	"infinitivo" : "entablar",
+	"participio" : [ "entablado" ],
+	"gerundio" : [ "entablando" ],
+	"tenses" : {
+		"3" : [
+			[ "entablo" ],
+			[ "entablas", "entablás" ],
+			[ "entabla" ],
+			[ "entablamos" ],
+			[ "entabláis", "entablan" ],
+			[ "entablan" ]
+		],
+		"4" : [
+			[ "entablé" ],
+			[ "entablaste" ],
+			[ "entabló" ],
+			[ "entablamos" ],
+			[ "entablasteis", "entablaron" ],
+			[ "entablaron" ]
+		],
+		"5" : [
+			[ "entablaba" ],
+			[ "entablabas" ],
+			[ "entablaba" ],
+			[ "entablábamos" ],
+			[ "entablabais", "entablaban" ],
+			[ "entablaban" ]
+		],
+		"6" : [
+			[ "entablaría" ],
+			[ "entablarías" ],
+			[ "entablaría" ],
+			[ "entablaríamos" ],
+			[ "entablaríais", "entablarían" ],
+			[ "entablarían" ]
+		],
+		"7" : [
+			[ "entablaré" ],
+			[ "entablarás" ],
+			[ "entablará" ],
+			[ "entablaremos" ],
+			[ "entablaréis", "entablarán" ],
+			[ "entablarán" ]
+		],
+		"8" : [
+			[ "entable" ],
+			[ "entables" ],
+			[ "entable" ],
+			[ "entablemos" ],
+			[ "entabléis", "entablen" ],
+			[ "entablen" ]
+		],
+		"9" : [
+			[ "entablara" ],
+			[ "entablaras" ],
+			[ "entablara" ],
+			[ "entabláramos" ],
+			[ "entablarais", "entablaran" ],
+			[ "entablaran" ]
+		],
+		"10" : [
+			[ "entablase" ],
+			[ "entablases" ],
+			[ "entablase" ],
+			[ "entablásemos" ],
+			[ "entablaseis", "entablasen" ],
+			[ "entablasen" ]
+		],
+		"11" : [
+			[ "entablare" ],
+			[ "entablares" ],
+			[ "entablare" ],
+			[ "entabláremos" ],
+			[ "entablareis", "entablaren" ],
+			[ "entablaren" ]
+		],
+		"12" : {
+			"1" : [ "entabla" ],
+			"2" : [ "entable" ],
+			"3" : [ "entablemos" ],
+			"4" : [ "entablad" ],
+			"5" : [ "entablen" ]
+		}
+	}
+}

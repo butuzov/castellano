@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=insertar",
+	"word" : "insertar",
+	"infinitivo" : "insertar",
+	"participio" : [ "insertado" ],
+	"gerundio" : [ "insertando" ],
+	"tenses" : {
+		"3" : [
+			[ "inserto" ],
+			[ "insertas", "insertás" ],
+			[ "inserta" ],
+			[ "insertamos" ],
+			[ "insertáis", "insertan" ],
+			[ "insertan" ]
+		],
+		"4" : [
+			[ "inserté" ],
+			[ "insertaste" ],
+			[ "insertó" ],
+			[ "insertamos" ],
+			[ "insertasteis", "insertaron" ],
+			[ "insertaron" ]
+		],
+		"5" : [
+			[ "insertaba" ],
+			[ "insertabas" ],
+			[ "insertaba" ],
+			[ "insertábamos" ],
+			[ "insertabais", "insertaban" ],
+			[ "insertaban" ]
+		],
+		"6" : [
+			[ "insertaría" ],
+			[ "insertarías" ],
+			[ "insertaría" ],
+			[ "insertaríamos" ],
+			[ "insertaríais", "insertarían" ],
+			[ "insertarían" ]
+		],
+		"7" : [
+			[ "insertaré" ],
+			[ "insertarás" ],
+			[ "insertará" ],
+			[ "insertaremos" ],
+			[ "insertaréis", "insertarán" ],
+			[ "insertarán" ]
+		],
+		"8" : [
+			[ "inserte" ],
+			[ "insertes" ],
+			[ "inserte" ],
+			[ "insertemos" ],
+			[ "insertéis", "inserten" ],
+			[ "inserten" ]
+		],
+		"9" : [
+			[ "insertara" ],
+			[ "insertaras" ],
+			[ "insertara" ],
+			[ "insertáramos" ],
+			[ "insertarais", "insertaran" ],
+			[ "insertaran" ]
+		],
+		"10" : [
+			[ "insertase" ],
+			[ "insertases" ],
+			[ "insertase" ],
+			[ "insertásemos" ],
+			[ "insertaseis", "insertasen" ],
+			[ "insertasen" ]
+		],
+		"11" : [
+			[ "insertare" ],
+			[ "insertares" ],
+			[ "insertare" ],
+			[ "insertáremos" ],
+			[ "insertareis", "insertaren" ],
+			[ "insertaren" ]
+		],
+		"12" : {
+			"1" : [ "inserta" ],
+			"2" : [ "inserte" ],
+			"3" : [ "insertemos" ],
+			"4" : [ "insertad" ],
+			"5" : [ "inserten" ]
+		}
+	}
+}

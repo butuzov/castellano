@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apellidar",
+	"word" : "apellidar",
+	"infinitivo" : "apellidar",
+	"participio" : [ "apellidado" ],
+	"gerundio" : [ "apellidando" ],
+	"tenses" : {
+		"3" : [
+			[ "apellido" ],
+			[ "apellidas", "apellidás" ],
+			[ "apellida" ],
+			[ "apellidamos" ],
+			[ "apellidáis", "apellidan" ],
+			[ "apellidan" ]
+		],
+		"4" : [
+			[ "apellidé" ],
+			[ "apellidaste" ],
+			[ "apellidó" ],
+			[ "apellidamos" ],
+			[ "apellidasteis", "apellidaron" ],
+			[ "apellidaron" ]
+		],
+		"5" : [
+			[ "apellidaba" ],
+			[ "apellidabas" ],
+			[ "apellidaba" ],
+			[ "apellidábamos" ],
+			[ "apellidabais", "apellidaban" ],
+			[ "apellidaban" ]
+		],
+		"6" : [
+			[ "apellidaría" ],
+			[ "apellidarías" ],
+			[ "apellidaría" ],
+			[ "apellidaríamos" ],
+			[ "apellidaríais", "apellidarían" ],
+			[ "apellidarían" ]
+		],
+		"7" : [
+			[ "apellidaré" ],
+			[ "apellidarás" ],
+			[ "apellidará" ],
+			[ "apellidaremos" ],
+			[ "apellidaréis", "apellidarán" ],
+			[ "apellidarán" ]
+		],
+		"8" : [
+			[ "apellide" ],
+			[ "apellides" ],
+			[ "apellide" ],
+			[ "apellidemos" ],
+			[ "apellidéis", "apelliden" ],
+			[ "apelliden" ]
+		],
+		"9" : [
+			[ "apellidara" ],
+			[ "apellidaras" ],
+			[ "apellidara" ],
+			[ "apellidáramos" ],
+			[ "apellidarais", "apellidaran" ],
+			[ "apellidaran" ]
+		],
+		"10" : [
+			[ "apellidase" ],
+			[ "apellidases" ],
+			[ "apellidase" ],
+			[ "apellidásemos" ],
+			[ "apellidaseis", "apellidasen" ],
+			[ "apellidasen" ]
+		],
+		"11" : [
+			[ "apellidare" ],
+			[ "apellidares" ],
+			[ "apellidare" ],
+			[ "apellidáremos" ],
+			[ "apellidareis", "apellidaren" ],
+			[ "apellidaren" ]
+		],
+		"12" : {
+			"1" : [ "apellida" ],
+			"2" : [ "apellide" ],
+			"3" : [ "apellidemos" ],
+			"4" : [ "apellidad" ],
+			"5" : [ "apelliden" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=perpetrar",
+	"word" : "perpetrar",
+	"infinitivo" : "perpetrar",
+	"participio" : [ "perpetrado" ],
+	"gerundio" : [ "perpetrando" ],
+	"tenses" : {
+		"3" : [
+			[ "perpetro" ],
+			[ "perpetras", "perpetrás" ],
+			[ "perpetra" ],
+			[ "perpetramos" ],
+			[ "perpetráis", "perpetran" ],
+			[ "perpetran" ]
+		],
+		"4" : [
+			[ "perpetré" ],
+			[ "perpetraste" ],
+			[ "perpetró" ],
+			[ "perpetramos" ],
+			[ "perpetrasteis", "perpetraron" ],
+			[ "perpetraron" ]
+		],
+		"5" : [
+			[ "perpetraba" ],
+			[ "perpetrabas" ],
+			[ "perpetraba" ],
+			[ "perpetrábamos" ],
+			[ "perpetrabais", "perpetraban" ],
+			[ "perpetraban" ]
+		],
+		"6" : [
+			[ "perpetraría" ],
+			[ "perpetrarías" ],
+			[ "perpetraría" ],
+			[ "perpetraríamos" ],
+			[ "perpetraríais", "perpetrarían" ],
+			[ "perpetrarían" ]
+		],
+		"7" : [
+			[ "perpetraré" ],
+			[ "perpetrarás" ],
+			[ "perpetrará" ],
+			[ "perpetraremos" ],
+			[ "perpetraréis", "perpetrarán" ],
+			[ "perpetrarán" ]
+		],
+		"8" : [
+			[ "perpetre" ],
+			[ "perpetres" ],
+			[ "perpetre" ],
+			[ "perpetremos" ],
+			[ "perpetréis", "perpetren" ],
+			[ "perpetren" ]
+		],
+		"9" : [
+			[ "perpetrara" ],
+			[ "perpetraras" ],
+			[ "perpetrara" ],
+			[ "perpetráramos" ],
+			[ "perpetrarais", "perpetraran" ],
+			[ "perpetraran" ]
+		],
+		"10" : [
+			[ "perpetrase" ],
+			[ "perpetrases" ],
+			[ "perpetrase" ],
+			[ "perpetrásemos" ],
+			[ "perpetraseis", "perpetrasen" ],
+			[ "perpetrasen" ]
+		],
+		"11" : [
+			[ "perpetrare" ],
+			[ "perpetrares" ],
+			[ "perpetrare" ],
+			[ "perpetráremos" ],
+			[ "perpetrareis", "perpetraren" ],
+			[ "perpetraren" ]
+		],
+		"12" : {
+			"1" : [ "perpetra" ],
+			"2" : [ "perpetre" ],
+			"3" : [ "perpetremos" ],
+			"4" : [ "perpetrad" ],
+			"5" : [ "perpetren" ]
+		}
+	}
+}

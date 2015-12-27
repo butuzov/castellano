@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escaecer",
+	"word" : "escaecer",
+	"infinitivo" : "escaecer",
+	"participio" : [ "escaecido" ],
+	"gerundio" : [ "escaeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "escaezco" ],
+			[ "escaeces", "escaecés" ],
+			[ "escaece" ],
+			[ "escaecemos" ],
+			[ "escaecéis", "escaecen" ],
+			[ "escaecen" ]
+		],
+		"4" : [
+			[ "escaecí" ],
+			[ "escaeciste" ],
+			[ "escaeció" ],
+			[ "escaecimos" ],
+			[ "escaecisteis", "escaecieron" ],
+			[ "escaecieron" ]
+		],
+		"5" : [
+			[ "escaecía" ],
+			[ "escaecías" ],
+			[ "escaecía" ],
+			[ "escaecíamos" ],
+			[ "escaecíais", "escaecían" ],
+			[ "escaecían" ]
+		],
+		"6" : [
+			[ "escaecería" ],
+			[ "escaecerías" ],
+			[ "escaecería" ],
+			[ "escaeceríamos" ],
+			[ "escaeceríais", "escaecerían" ],
+			[ "escaecerían" ]
+		],
+		"7" : [
+			[ "escaeceré" ],
+			[ "escaecerás" ],
+			[ "escaecerá" ],
+			[ "escaeceremos" ],
+			[ "escaeceréis", "escaecerán" ],
+			[ "escaecerán" ]
+		],
+		"8" : [
+			[ "escaezca" ],
+			[ "escaezcas" ],
+			[ "escaezca" ],
+			[ "escaezcamos" ],
+			[ "escaezcáis", "escaezcan" ],
+			[ "escaezcan" ]
+		],
+		"9" : [
+			[ "escaeciera" ],
+			[ "escaecieras" ],
+			[ "escaeciera" ],
+			[ "escaeciéramos" ],
+			[ "escaecierais", "escaecieran" ],
+			[ "escaecieran" ]
+		],
+		"10" : [
+			[ "escaeciese" ],
+			[ "escaecieses" ],
+			[ "escaeciese" ],
+			[ "escaeciésemos" ],
+			[ "escaecieseis", "escaeciesen" ],
+			[ "escaeciesen" ]
+		],
+		"11" : [
+			[ "escaeciere" ],
+			[ "escaecieres" ],
+			[ "escaeciere" ],
+			[ "escaeciéremos" ],
+			[ "escaeciereis", "escaecieren" ],
+			[ "escaecieren" ]
+		],
+		"12" : {
+			"1" : [ "escaece" ],
+			"2" : [ "escaezca" ],
+			"3" : [ "escaezcamos" ],
+			"4" : [ "escaeced" ],
+			"5" : [ "escaezcan" ]
+		}
+	}
+}

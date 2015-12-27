@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=batir",
+	"word" : "batir",
+	"infinitivo" : "batir",
+	"participio" : [ "batido" ],
+	"gerundio" : [ "batiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "bato" ],
+			[ "bates", "batís" ],
+			[ "bate" ],
+			[ "batimos" ],
+			[ "batís", "baten" ],
+			[ "baten" ]
+		],
+		"4" : [
+			[ "batí" ],
+			[ "batiste" ],
+			[ "batió" ],
+			[ "batimos" ],
+			[ "batisteis", "batieron" ],
+			[ "batieron" ]
+		],
+		"5" : [
+			[ "batía" ],
+			[ "batías" ],
+			[ "batía" ],
+			[ "batíamos" ],
+			[ "batíais", "batían" ],
+			[ "batían" ]
+		],
+		"6" : [
+			[ "batiría" ],
+			[ "batirías" ],
+			[ "batiría" ],
+			[ "batiríamos" ],
+			[ "batiríais", "batirían" ],
+			[ "batirían" ]
+		],
+		"7" : [
+			[ "batiré" ],
+			[ "batirás" ],
+			[ "batirá" ],
+			[ "batiremos" ],
+			[ "batiréis", "batirán" ],
+			[ "batirán" ]
+		],
+		"8" : [
+			[ "bata" ],
+			[ "batas" ],
+			[ "bata" ],
+			[ "batamos" ],
+			[ "batáis", "batan" ],
+			[ "batan" ]
+		],
+		"9" : [
+			[ "batiera" ],
+			[ "batieras" ],
+			[ "batiera" ],
+			[ "batiéramos" ],
+			[ "batierais", "batieran" ],
+			[ "batieran" ]
+		],
+		"10" : [
+			[ "batiese" ],
+			[ "batieses" ],
+			[ "batiese" ],
+			[ "batiésemos" ],
+			[ "batieseis", "batiesen" ],
+			[ "batiesen" ]
+		],
+		"11" : [
+			[ "batiere" ],
+			[ "batieres" ],
+			[ "batiere" ],
+			[ "batiéremos" ],
+			[ "batiereis", "batieren" ],
+			[ "batieren" ]
+		],
+		"12" : {
+			"1" : [ "bate" ],
+			"2" : [ "bata" ],
+			"3" : [ "batamos" ],
+			"4" : [ "batid" ],
+			"5" : [ "batan" ]
+		}
+	}
+}

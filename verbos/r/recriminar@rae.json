@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recriminar",
+	"word" : "recriminar",
+	"infinitivo" : "recriminar",
+	"participio" : [ "recriminado" ],
+	"gerundio" : [ "recriminando" ],
+	"tenses" : {
+		"3" : [
+			[ "recrimino" ],
+			[ "recriminas", "recriminás" ],
+			[ "recrimina" ],
+			[ "recriminamos" ],
+			[ "recrimináis", "recriminan" ],
+			[ "recriminan" ]
+		],
+		"4" : [
+			[ "recriminé" ],
+			[ "recriminaste" ],
+			[ "recriminó" ],
+			[ "recriminamos" ],
+			[ "recriminasteis", "recriminaron" ],
+			[ "recriminaron" ]
+		],
+		"5" : [
+			[ "recriminaba" ],
+			[ "recriminabas" ],
+			[ "recriminaba" ],
+			[ "recriminábamos" ],
+			[ "recriminabais", "recriminaban" ],
+			[ "recriminaban" ]
+		],
+		"6" : [
+			[ "recriminaría" ],
+			[ "recriminarías" ],
+			[ "recriminaría" ],
+			[ "recriminaríamos" ],
+			[ "recriminaríais", "recriminarían" ],
+			[ "recriminarían" ]
+		],
+		"7" : [
+			[ "recriminaré" ],
+			[ "recriminarás" ],
+			[ "recriminará" ],
+			[ "recriminaremos" ],
+			[ "recriminaréis", "recriminarán" ],
+			[ "recriminarán" ]
+		],
+		"8" : [
+			[ "recrimine" ],
+			[ "recrimines" ],
+			[ "recrimine" ],
+			[ "recriminemos" ],
+			[ "recriminéis", "recriminen" ],
+			[ "recriminen" ]
+		],
+		"9" : [
+			[ "recriminara" ],
+			[ "recriminaras" ],
+			[ "recriminara" ],
+			[ "recrimináramos" ],
+			[ "recriminarais", "recriminaran" ],
+			[ "recriminaran" ]
+		],
+		"10" : [
+			[ "recriminase" ],
+			[ "recriminases" ],
+			[ "recriminase" ],
+			[ "recriminásemos" ],
+			[ "recriminaseis", "recriminasen" ],
+			[ "recriminasen" ]
+		],
+		"11" : [
+			[ "recriminare" ],
+			[ "recriminares" ],
+			[ "recriminare" ],
+			[ "recrimináremos" ],
+			[ "recriminareis", "recriminaren" ],
+			[ "recriminaren" ]
+		],
+		"12" : {
+			"1" : [ "recrimina" ],
+			"2" : [ "recrimine" ],
+			"3" : [ "recriminemos" ],
+			"4" : [ "recriminad" ],
+			"5" : [ "recriminen" ]
+		}
+	}
+}

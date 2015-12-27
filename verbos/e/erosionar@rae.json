@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=erosionar",
+	"word" : "erosionar",
+	"infinitivo" : "erosionar",
+	"participio" : [ "erosionado" ],
+	"gerundio" : [ "erosionando" ],
+	"tenses" : {
+		"3" : [
+			[ "erosiono" ],
+			[ "erosionas", "erosionás" ],
+			[ "erosiona" ],
+			[ "erosionamos" ],
+			[ "erosionáis", "erosionan" ],
+			[ "erosionan" ]
+		],
+		"4" : [
+			[ "erosioné" ],
+			[ "erosionaste" ],
+			[ "erosionó" ],
+			[ "erosionamos" ],
+			[ "erosionasteis", "erosionaron" ],
+			[ "erosionaron" ]
+		],
+		"5" : [
+			[ "erosionaba" ],
+			[ "erosionabas" ],
+			[ "erosionaba" ],
+			[ "erosionábamos" ],
+			[ "erosionabais", "erosionaban" ],
+			[ "erosionaban" ]
+		],
+		"6" : [
+			[ "erosionaría" ],
+			[ "erosionarías" ],
+			[ "erosionaría" ],
+			[ "erosionaríamos" ],
+			[ "erosionaríais", "erosionarían" ],
+			[ "erosionarían" ]
+		],
+		"7" : [
+			[ "erosionaré" ],
+			[ "erosionarás" ],
+			[ "erosionará" ],
+			[ "erosionaremos" ],
+			[ "erosionaréis", "erosionarán" ],
+			[ "erosionarán" ]
+		],
+		"8" : [
+			[ "erosione" ],
+			[ "erosiones" ],
+			[ "erosione" ],
+			[ "erosionemos" ],
+			[ "erosionéis", "erosionen" ],
+			[ "erosionen" ]
+		],
+		"9" : [
+			[ "erosionara" ],
+			[ "erosionaras" ],
+			[ "erosionara" ],
+			[ "erosionáramos" ],
+			[ "erosionarais", "erosionaran" ],
+			[ "erosionaran" ]
+		],
+		"10" : [
+			[ "erosionase" ],
+			[ "erosionases" ],
+			[ "erosionase" ],
+			[ "erosionásemos" ],
+			[ "erosionaseis", "erosionasen" ],
+			[ "erosionasen" ]
+		],
+		"11" : [
+			[ "erosionare" ],
+			[ "erosionares" ],
+			[ "erosionare" ],
+			[ "erosionáremos" ],
+			[ "erosionareis", "erosionaren" ],
+			[ "erosionaren" ]
+		],
+		"12" : {
+			"1" : [ "erosiona" ],
+			"2" : [ "erosione" ],
+			"3" : [ "erosionemos" ],
+			"4" : [ "erosionad" ],
+			"5" : [ "erosionen" ]
+		}
+	}
+}

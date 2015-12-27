@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=soterrar",
+	"word" : "soterrar",
+	"infinitivo" : "soterrar",
+	"participio" : [ "soterrado" ],
+	"gerundio" : [ "soterrando" ],
+	"tenses" : {
+		"3" : [
+			[ "sotierro", "soterro" ],
+			[ "sotierras", "soterras", "soterrás" ],
+			[ "sotierra", "soterra" ],
+			[ "soterramos" ],
+			[ "soterráis", "sotierran", "soterran" ],
+			[ "sotierran", "soterran" ]
+		],
+		"4" : [
+			[ "soterré" ],
+			[ "soterraste" ],
+			[ "soterró" ],
+			[ "soterramos" ],
+			[ "soterrasteis", "soterraron" ],
+			[ "soterraron" ]
+		],
+		"5" : [
+			[ "soterraba" ],
+			[ "soterrabas" ],
+			[ "soterraba" ],
+			[ "soterrábamos" ],
+			[ "soterrabais", "soterraban" ],
+			[ "soterraban" ]
+		],
+		"6" : [
+			[ "soterraría" ],
+			[ "soterrarías" ],
+			[ "soterraría" ],
+			[ "soterraríamos" ],
+			[ "soterraríais", "soterrarían" ],
+			[ "soterrarían" ]
+		],
+		"7" : [
+			[ "soterraré" ],
+			[ "soterrarás" ],
+			[ "soterrará" ],
+			[ "soterraremos" ],
+			[ "soterraréis", "soterrarán" ],
+			[ "soterrarán" ]
+		],
+		"8" : [
+			[ "sotierre", "soterre" ],
+			[ "sotierres", "soterres" ],
+			[ "sotierre", "soterre" ],
+			[ "soterremos" ],
+			[ "soterréis", "sotierren", "soterren" ],
+			[ "sotierren", "soterren" ]
+		],
+		"9" : [
+			[ "soterrara" ],
+			[ "soterraras" ],
+			[ "soterrara" ],
+			[ "soterráramos" ],
+			[ "soterrarais", "soterraran" ],
+			[ "soterraran" ]
+		],
+		"10" : [
+			[ "soterrase" ],
+			[ "soterrases" ],
+			[ "soterrase" ],
+			[ "soterrásemos" ],
+			[ "soterraseis", "soterrasen" ],
+			[ "soterrasen" ]
+		],
+		"11" : [
+			[ "soterrare" ],
+			[ "soterrares" ],
+			[ "soterrare" ],
+			[ "soterráremos" ],
+			[ "soterrareis", "soterraren" ],
+			[ "soterraren" ]
+		],
+		"12" : {
+			"1" : [ "sotierra", "soterra" ],
+			"2" : [ "sotierre", "soterre" ],
+			"3" : [ "soterremos" ],
+			"4" : [ "soterrad" ],
+			"5" : [ "sotierren", "soterren" ]
+		}
+	}
+}

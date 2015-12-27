@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ladear",
+	"word" : "ladear",
+	"infinitivo" : "ladear",
+	"participio" : [ "ladeado" ],
+	"gerundio" : [ "ladeando" ],
+	"tenses" : {
+		"3" : [
+			[ "ladeo" ],
+			[ "ladeas", "ladeás" ],
+			[ "ladea" ],
+			[ "ladeamos" ],
+			[ "ladeáis", "ladean" ],
+			[ "ladean" ]
+		],
+		"4" : [
+			[ "ladeé" ],
+			[ "ladeaste" ],
+			[ "ladeó" ],
+			[ "ladeamos" ],
+			[ "ladeasteis", "ladearon" ],
+			[ "ladearon" ]
+		],
+		"5" : [
+			[ "ladeaba" ],
+			[ "ladeabas" ],
+			[ "ladeaba" ],
+			[ "ladeábamos" ],
+			[ "ladeabais", "ladeaban" ],
+			[ "ladeaban" ]
+		],
+		"6" : [
+			[ "ladearía" ],
+			[ "ladearías" ],
+			[ "ladearía" ],
+			[ "ladearíamos" ],
+			[ "ladearíais", "ladearían" ],
+			[ "ladearían" ]
+		],
+		"7" : [
+			[ "ladearé" ],
+			[ "ladearás" ],
+			[ "ladeará" ],
+			[ "ladearemos" ],
+			[ "ladearéis", "ladearán" ],
+			[ "ladearán" ]
+		],
+		"8" : [
+			[ "ladee" ],
+			[ "ladees" ],
+			[ "ladee" ],
+			[ "ladeemos" ],
+			[ "ladeéis", "ladeen" ],
+			[ "ladeen" ]
+		],
+		"9" : [
+			[ "ladeara" ],
+			[ "ladearas" ],
+			[ "ladeara" ],
+			[ "ladeáramos" ],
+			[ "ladearais", "ladearan" ],
+			[ "ladearan" ]
+		],
+		"10" : [
+			[ "ladease" ],
+			[ "ladeases" ],
+			[ "ladease" ],
+			[ "ladeásemos" ],
+			[ "ladeaseis", "ladeasen" ],
+			[ "ladeasen" ]
+		],
+		"11" : [
+			[ "ladeare" ],
+			[ "ladeares" ],
+			[ "ladeare" ],
+			[ "ladeáremos" ],
+			[ "ladeareis", "ladearen" ],
+			[ "ladearen" ]
+		],
+		"12" : {
+			"1" : [ "ladea" ],
+			"2" : [ "ladee" ],
+			"3" : [ "ladeemos" ],
+			"4" : [ "ladead" ],
+			"5" : [ "ladeen" ]
+		}
+	}
+}

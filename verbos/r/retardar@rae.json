@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=retardar",
+	"word" : "retardar",
+	"infinitivo" : "retardar",
+	"participio" : [ "retardado" ],
+	"gerundio" : [ "retardando" ],
+	"tenses" : {
+		"3" : [
+			[ "retardo" ],
+			[ "retardas", "retardás" ],
+			[ "retarda" ],
+			[ "retardamos" ],
+			[ "retardáis", "retardan" ],
+			[ "retardan" ]
+		],
+		"4" : [
+			[ "retardé" ],
+			[ "retardaste" ],
+			[ "retardó" ],
+			[ "retardamos" ],
+			[ "retardasteis", "retardaron" ],
+			[ "retardaron" ]
+		],
+		"5" : [
+			[ "retardaba" ],
+			[ "retardabas" ],
+			[ "retardaba" ],
+			[ "retardábamos" ],
+			[ "retardabais", "retardaban" ],
+			[ "retardaban" ]
+		],
+		"6" : [
+			[ "retardaría" ],
+			[ "retardarías" ],
+			[ "retardaría" ],
+			[ "retardaríamos" ],
+			[ "retardaríais", "retardarían" ],
+			[ "retardarían" ]
+		],
+		"7" : [
+			[ "retardaré" ],
+			[ "retardarás" ],
+			[ "retardará" ],
+			[ "retardaremos" ],
+			[ "retardaréis", "retardarán" ],
+			[ "retardarán" ]
+		],
+		"8" : [
+			[ "retarde" ],
+			[ "retardes" ],
+			[ "retarde" ],
+			[ "retardemos" ],
+			[ "retardéis", "retarden" ],
+			[ "retarden" ]
+		],
+		"9" : [
+			[ "retardara" ],
+			[ "retardaras" ],
+			[ "retardara" ],
+			[ "retardáramos" ],
+			[ "retardarais", "retardaran" ],
+			[ "retardaran" ]
+		],
+		"10" : [
+			[ "retardase" ],
+			[ "retardases" ],
+			[ "retardase" ],
+			[ "retardásemos" ],
+			[ "retardaseis", "retardasen" ],
+			[ "retardasen" ]
+		],
+		"11" : [
+			[ "retardare" ],
+			[ "retardares" ],
+			[ "retardare" ],
+			[ "retardáremos" ],
+			[ "retardareis", "retardaren" ],
+			[ "retardaren" ]
+		],
+		"12" : {
+			"1" : [ "retarda" ],
+			"2" : [ "retarde" ],
+			"3" : [ "retardemos" ],
+			"4" : [ "retardad" ],
+			"5" : [ "retarden" ]
+		}
+	}
+}

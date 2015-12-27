@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aguzar",
+	"word" : "aguzar",
+	"infinitivo" : "aguzar",
+	"participio" : [ "aguzado" ],
+	"gerundio" : [ "aguzando" ],
+	"tenses" : {
+		"3" : [
+			[ "aguzo" ],
+			[ "aguzas", "aguzás" ],
+			[ "aguza" ],
+			[ "aguzamos" ],
+			[ "aguzáis", "aguzan" ],
+			[ "aguzan" ]
+		],
+		"4" : [
+			[ "agucé" ],
+			[ "aguzaste" ],
+			[ "aguzó" ],
+			[ "aguzamos" ],
+			[ "aguzasteis", "aguzaron" ],
+			[ "aguzaron" ]
+		],
+		"5" : [
+			[ "aguzaba" ],
+			[ "aguzabas" ],
+			[ "aguzaba" ],
+			[ "aguzábamos" ],
+			[ "aguzabais", "aguzaban" ],
+			[ "aguzaban" ]
+		],
+		"6" : [
+			[ "aguzaría" ],
+			[ "aguzarías" ],
+			[ "aguzaría" ],
+			[ "aguzaríamos" ],
+			[ "aguzaríais", "aguzarían" ],
+			[ "aguzarían" ]
+		],
+		"7" : [
+			[ "aguzaré" ],
+			[ "aguzarás" ],
+			[ "aguzará" ],
+			[ "aguzaremos" ],
+			[ "aguzaréis", "aguzarán" ],
+			[ "aguzarán" ]
+		],
+		"8" : [
+			[ "aguce" ],
+			[ "aguces" ],
+			[ "aguce" ],
+			[ "agucemos" ],
+			[ "agucéis", "agucen" ],
+			[ "agucen" ]
+		],
+		"9" : [
+			[ "aguzara" ],
+			[ "aguzaras" ],
+			[ "aguzara" ],
+			[ "aguzáramos" ],
+			[ "aguzarais", "aguzaran" ],
+			[ "aguzaran" ]
+		],
+		"10" : [
+			[ "aguzase" ],
+			[ "aguzases" ],
+			[ "aguzase" ],
+			[ "aguzásemos" ],
+			[ "aguzaseis", "aguzasen" ],
+			[ "aguzasen" ]
+		],
+		"11" : [
+			[ "aguzare" ],
+			[ "aguzares" ],
+			[ "aguzare" ],
+			[ "aguzáremos" ],
+			[ "aguzareis", "aguzaren" ],
+			[ "aguzaren" ]
+		],
+		"12" : {
+			"1" : [ "aguza" ],
+			"2" : [ "aguce" ],
+			"3" : [ "agucemos" ],
+			"4" : [ "aguzad" ],
+			"5" : [ "agucen" ]
+		}
+	}
+}

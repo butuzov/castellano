@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=garantizar",
+	"word" : "garantizar",
+	"infinitivo" : "garantizar",
+	"participio" : [ "garantizado" ],
+	"gerundio" : [ "garantizando" ],
+	"tenses" : {
+		"3" : [
+			[ "garantizo" ],
+			[ "garantizas", "garantizás" ],
+			[ "garantiza" ],
+			[ "garantizamos" ],
+			[ "garantizáis", "garantizan" ],
+			[ "garantizan" ]
+		],
+		"4" : [
+			[ "garanticé" ],
+			[ "garantizaste" ],
+			[ "garantizó" ],
+			[ "garantizamos" ],
+			[ "garantizasteis", "garantizaron" ],
+			[ "garantizaron" ]
+		],
+		"5" : [
+			[ "garantizaba" ],
+			[ "garantizabas" ],
+			[ "garantizaba" ],
+			[ "garantizábamos" ],
+			[ "garantizabais", "garantizaban" ],
+			[ "garantizaban" ]
+		],
+		"6" : [
+			[ "garantizaría" ],
+			[ "garantizarías" ],
+			[ "garantizaría" ],
+			[ "garantizaríamos" ],
+			[ "garantizaríais", "garantizarían" ],
+			[ "garantizarían" ]
+		],
+		"7" : [
+			[ "garantizaré" ],
+			[ "garantizarás" ],
+			[ "garantizará" ],
+			[ "garantizaremos" ],
+			[ "garantizaréis", "garantizarán" ],
+			[ "garantizarán" ]
+		],
+		"8" : [
+			[ "garantice" ],
+			[ "garantices" ],
+			[ "garantice" ],
+			[ "garanticemos" ],
+			[ "garanticéis", "garanticen" ],
+			[ "garanticen" ]
+		],
+		"9" : [
+			[ "garantizara" ],
+			[ "garantizaras" ],
+			[ "garantizara" ],
+			[ "garantizáramos" ],
+			[ "garantizarais", "garantizaran" ],
+			[ "garantizaran" ]
+		],
+		"10" : [
+			[ "garantizase" ],
+			[ "garantizases" ],
+			[ "garantizase" ],
+			[ "garantizásemos" ],
+			[ "garantizaseis", "garantizasen" ],
+			[ "garantizasen" ]
+		],
+		"11" : [
+			[ "garantizare" ],
+			[ "garantizares" ],
+			[ "garantizare" ],
+			[ "garantizáremos" ],
+			[ "garantizareis", "garantizaren" ],
+			[ "garantizaren" ]
+		],
+		"12" : {
+			"1" : [ "garantiza" ],
+			"2" : [ "garantice" ],
+			"3" : [ "garanticemos" ],
+			"4" : [ "garantizad" ],
+			"5" : [ "garanticen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=restringir",
+	"word" : "restringir",
+	"infinitivo" : "restringir",
+	"participio" : [ "restringido" ],
+	"gerundio" : [ "restringiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "restrinjo" ],
+			[ "restringes", "restringís" ],
+			[ "restringe" ],
+			[ "restringimos" ],
+			[ "restringís", "restringen" ],
+			[ "restringen" ]
+		],
+		"4" : [
+			[ "restringí" ],
+			[ "restringiste" ],
+			[ "restringió" ],
+			[ "restringimos" ],
+			[ "restringisteis", "restringieron" ],
+			[ "restringieron" ]
+		],
+		"5" : [
+			[ "restringía" ],
+			[ "restringías" ],
+			[ "restringía" ],
+			[ "restringíamos" ],
+			[ "restringíais", "restringían" ],
+			[ "restringían" ]
+		],
+		"6" : [
+			[ "restringiría" ],
+			[ "restringirías" ],
+			[ "restringiría" ],
+			[ "restringiríamos" ],
+			[ "restringiríais", "restringirían" ],
+			[ "restringirían" ]
+		],
+		"7" : [
+			[ "restringiré" ],
+			[ "restringirás" ],
+			[ "restringirá" ],
+			[ "restringiremos" ],
+			[ "restringiréis", "restringirán" ],
+			[ "restringirán" ]
+		],
+		"8" : [
+			[ "restrinja" ],
+			[ "restrinjas" ],
+			[ "restrinja" ],
+			[ "restrinjamos" ],
+			[ "restrinjáis", "restrinjan" ],
+			[ "restrinjan" ]
+		],
+		"9" : [
+			[ "restringiera" ],
+			[ "restringieras" ],
+			[ "restringiera" ],
+			[ "restringiéramos" ],
+			[ "restringierais", "restringieran" ],
+			[ "restringieran" ]
+		],
+		"10" : [
+			[ "restringiese" ],
+			[ "restringieses" ],
+			[ "restringiese" ],
+			[ "restringiésemos" ],
+			[ "restringieseis", "restringiesen" ],
+			[ "restringiesen" ]
+		],
+		"11" : [
+			[ "restringiere" ],
+			[ "restringieres" ],
+			[ "restringiere" ],
+			[ "restringiéremos" ],
+			[ "restringiereis", "restringieren" ],
+			[ "restringieren" ]
+		],
+		"12" : {
+			"1" : [ "restringe" ],
+			"2" : [ "restrinja" ],
+			"3" : [ "restrinjamos" ],
+			"4" : [ "restringid" ],
+			"5" : [ "restrinjan" ]
+		}
+	}
+}

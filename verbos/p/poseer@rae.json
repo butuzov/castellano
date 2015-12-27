@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=poseer",
+	"word" : "poseer",
+	"infinitivo" : "poseer",
+	"participio" : [ "poseído", "poseso" ],
+	"gerundio" : [ "poseyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "poseo" ],
+			[ "posees", "poseés" ],
+			[ "posee" ],
+			[ "poseemos" ],
+			[ "poseéis", "poseen" ],
+			[ "poseen" ]
+		],
+		"4" : [
+			[ "poseí" ],
+			[ "poseíste" ],
+			[ "poseyó" ],
+			[ "poseímos" ],
+			[ "poseísteis", "poseyeron" ],
+			[ "poseyeron" ]
+		],
+		"5" : [
+			[ "poseía" ],
+			[ "poseías" ],
+			[ "poseía" ],
+			[ "poseíamos" ],
+			[ "poseíais", "poseían" ],
+			[ "poseían" ]
+		],
+		"6" : [
+			[ "poseería" ],
+			[ "poseerías" ],
+			[ "poseería" ],
+			[ "poseeríamos" ],
+			[ "poseeríais", "poseerían" ],
+			[ "poseerían" ]
+		],
+		"7" : [
+			[ "poseeré" ],
+			[ "poseerás" ],
+			[ "poseerá" ],
+			[ "poseeremos" ],
+			[ "poseeréis", "poseerán" ],
+			[ "poseerán" ]
+		],
+		"8" : [
+			[ "posea" ],
+			[ "poseas" ],
+			[ "posea" ],
+			[ "poseamos" ],
+			[ "poseáis", "posean" ],
+			[ "posean" ]
+		],
+		"9" : [
+			[ "poseyera" ],
+			[ "poseyeras" ],
+			[ "poseyera" ],
+			[ "poseyéramos" ],
+			[ "poseyerais", "poseyeran" ],
+			[ "poseyeran" ]
+		],
+		"10" : [
+			[ "poseyese" ],
+			[ "poseyeses" ],
+			[ "poseyese" ],
+			[ "poseyésemos" ],
+			[ "poseyeseis", "poseyesen" ],
+			[ "poseyesen" ]
+		],
+		"11" : [
+			[ "poseyere" ],
+			[ "poseyeres" ],
+			[ "poseyere" ],
+			[ "poseyéremos" ],
+			[ "poseyereis", "poseyeren" ],
+			[ "poseyeren" ]
+		],
+		"12" : {
+			"1" : [ "posee" ],
+			"2" : [ "posea" ],
+			"3" : [ "poseamos" ],
+			"4" : [ "poseed" ],
+			"5" : [ "posean" ]
+		}
+	}
+}

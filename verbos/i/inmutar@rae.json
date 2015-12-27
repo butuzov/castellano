@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inmutar",
+	"word" : "inmutar",
+	"infinitivo" : "inmutar",
+	"participio" : [ "inmutado" ],
+	"gerundio" : [ "inmutando" ],
+	"tenses" : {
+		"3" : [
+			[ "inmuto" ],
+			[ "inmutas", "inmutás" ],
+			[ "inmuta" ],
+			[ "inmutamos" ],
+			[ "inmutáis", "inmutan" ],
+			[ "inmutan" ]
+		],
+		"4" : [
+			[ "inmuté" ],
+			[ "inmutaste" ],
+			[ "inmutó" ],
+			[ "inmutamos" ],
+			[ "inmutasteis", "inmutaron" ],
+			[ "inmutaron" ]
+		],
+		"5" : [
+			[ "inmutaba" ],
+			[ "inmutabas" ],
+			[ "inmutaba" ],
+			[ "inmutábamos" ],
+			[ "inmutabais", "inmutaban" ],
+			[ "inmutaban" ]
+		],
+		"6" : [
+			[ "inmutaría" ],
+			[ "inmutarías" ],
+			[ "inmutaría" ],
+			[ "inmutaríamos" ],
+			[ "inmutaríais", "inmutarían" ],
+			[ "inmutarían" ]
+		],
+		"7" : [
+			[ "inmutaré" ],
+			[ "inmutarás" ],
+			[ "inmutará" ],
+			[ "inmutaremos" ],
+			[ "inmutaréis", "inmutarán" ],
+			[ "inmutarán" ]
+		],
+		"8" : [
+			[ "inmute" ],
+			[ "inmutes" ],
+			[ "inmute" ],
+			[ "inmutemos" ],
+			[ "inmutéis", "inmuten" ],
+			[ "inmuten" ]
+		],
+		"9" : [
+			[ "inmutara" ],
+			[ "inmutaras" ],
+			[ "inmutara" ],
+			[ "inmutáramos" ],
+			[ "inmutarais", "inmutaran" ],
+			[ "inmutaran" ]
+		],
+		"10" : [
+			[ "inmutase" ],
+			[ "inmutases" ],
+			[ "inmutase" ],
+			[ "inmutásemos" ],
+			[ "inmutaseis", "inmutasen" ],
+			[ "inmutasen" ]
+		],
+		"11" : [
+			[ "inmutare" ],
+			[ "inmutares" ],
+			[ "inmutare" ],
+			[ "inmutáremos" ],
+			[ "inmutareis", "inmutaren" ],
+			[ "inmutaren" ]
+		],
+		"12" : {
+			"1" : [ "inmuta" ],
+			"2" : [ "inmute" ],
+			"3" : [ "inmutemos" ],
+			"4" : [ "inmutad" ],
+			"5" : [ "inmuten" ]
+		}
+	}
+}

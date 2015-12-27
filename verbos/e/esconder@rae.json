@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esconder",
+	"word" : "esconder",
+	"infinitivo" : "esconder",
+	"participio" : [ "escondido" ],
+	"gerundio" : [ "escondiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "escondo" ],
+			[ "escondes", "escondés" ],
+			[ "esconde" ],
+			[ "escondemos" ],
+			[ "escondéis", "esconden" ],
+			[ "esconden" ]
+		],
+		"4" : [
+			[ "escondí" ],
+			[ "escondiste" ],
+			[ "escondió" ],
+			[ "escondimos" ],
+			[ "escondisteis", "escondieron" ],
+			[ "escondieron" ]
+		],
+		"5" : [
+			[ "escondía" ],
+			[ "escondías" ],
+			[ "escondía" ],
+			[ "escondíamos" ],
+			[ "escondíais", "escondían" ],
+			[ "escondían" ]
+		],
+		"6" : [
+			[ "escondería" ],
+			[ "esconderías" ],
+			[ "escondería" ],
+			[ "esconderíamos" ],
+			[ "esconderíais", "esconderían" ],
+			[ "esconderían" ]
+		],
+		"7" : [
+			[ "esconderé" ],
+			[ "esconderás" ],
+			[ "esconderá" ],
+			[ "esconderemos" ],
+			[ "esconderéis", "esconderán" ],
+			[ "esconderán" ]
+		],
+		"8" : [
+			[ "esconda" ],
+			[ "escondas" ],
+			[ "esconda" ],
+			[ "escondamos" ],
+			[ "escondáis", "escondan" ],
+			[ "escondan" ]
+		],
+		"9" : [
+			[ "escondiera" ],
+			[ "escondieras" ],
+			[ "escondiera" ],
+			[ "escondiéramos" ],
+			[ "escondierais", "escondieran" ],
+			[ "escondieran" ]
+		],
+		"10" : [
+			[ "escondiese" ],
+			[ "escondieses" ],
+			[ "escondiese" ],
+			[ "escondiésemos" ],
+			[ "escondieseis", "escondiesen" ],
+			[ "escondiesen" ]
+		],
+		"11" : [
+			[ "escondiere" ],
+			[ "escondieres" ],
+			[ "escondiere" ],
+			[ "escondiéremos" ],
+			[ "escondiereis", "escondieren" ],
+			[ "escondieren" ]
+		],
+		"12" : {
+			"1" : [ "esconde" ],
+			"2" : [ "esconda" ],
+			"3" : [ "escondamos" ],
+			"4" : [ "esconded" ],
+			"5" : [ "escondan" ]
+		}
+	}
+}

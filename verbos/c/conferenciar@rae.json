@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conferenciar",
+	"word" : "conferenciar",
+	"infinitivo" : "conferenciar",
+	"participio" : [ "conferenciado" ],
+	"gerundio" : [ "conferenciando" ],
+	"tenses" : {
+		"3" : [
+			[ "conferencio" ],
+			[ "conferencias", "conferenciás" ],
+			[ "conferencia" ],
+			[ "conferenciamos" ],
+			[ "conferenciáis", "conferencian" ],
+			[ "conferencian" ]
+		],
+		"4" : [
+			[ "conferencié" ],
+			[ "conferenciaste" ],
+			[ "conferenció" ],
+			[ "conferenciamos" ],
+			[ "conferenciasteis", "conferenciaron" ],
+			[ "conferenciaron" ]
+		],
+		"5" : [
+			[ "conferenciaba" ],
+			[ "conferenciabas" ],
+			[ "conferenciaba" ],
+			[ "conferenciábamos" ],
+			[ "conferenciabais", "conferenciaban" ],
+			[ "conferenciaban" ]
+		],
+		"6" : [
+			[ "conferenciaría" ],
+			[ "conferenciarías" ],
+			[ "conferenciaría" ],
+			[ "conferenciaríamos" ],
+			[ "conferenciaríais", "conferenciarían" ],
+			[ "conferenciarían" ]
+		],
+		"7" : [
+			[ "conferenciaré" ],
+			[ "conferenciarás" ],
+			[ "conferenciará" ],
+			[ "conferenciaremos" ],
+			[ "conferenciaréis", "conferenciarán" ],
+			[ "conferenciarán" ]
+		],
+		"8" : [
+			[ "conferencie" ],
+			[ "conferencies" ],
+			[ "conferencie" ],
+			[ "conferenciemos" ],
+			[ "conferenciéis", "conferencien" ],
+			[ "conferencien" ]
+		],
+		"9" : [
+			[ "conferenciara" ],
+			[ "conferenciaras" ],
+			[ "conferenciara" ],
+			[ "conferenciáramos" ],
+			[ "conferenciarais", "conferenciaran" ],
+			[ "conferenciaran" ]
+		],
+		"10" : [
+			[ "conferenciase" ],
+			[ "conferenciases" ],
+			[ "conferenciase" ],
+			[ "conferenciásemos" ],
+			[ "conferenciaseis", "conferenciasen" ],
+			[ "conferenciasen" ]
+		],
+		"11" : [
+			[ "conferenciare" ],
+			[ "conferenciares" ],
+			[ "conferenciare" ],
+			[ "conferenciáremos" ],
+			[ "conferenciareis", "conferenciaren" ],
+			[ "conferenciaren" ]
+		],
+		"12" : {
+			"1" : [ "conferencia" ],
+			"2" : [ "conferencie" ],
+			"3" : [ "conferenciemos" ],
+			"4" : [ "conferenciad" ],
+			"5" : [ "conferencien" ]
+		}
+	}
+}

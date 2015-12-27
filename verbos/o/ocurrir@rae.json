@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ocurrir",
+	"word" : "ocurrir",
+	"infinitivo" : "ocurrir",
+	"participio" : [ "ocurrido" ],
+	"gerundio" : [ "ocurriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "ocurro" ],
+			[ "ocurres", "ocurrís" ],
+			[ "ocurre" ],
+			[ "ocurrimos" ],
+			[ "ocurrís", "ocurren" ],
+			[ "ocurren" ]
+		],
+		"4" : [
+			[ "ocurrí" ],
+			[ "ocurriste" ],
+			[ "ocurrió" ],
+			[ "ocurrimos" ],
+			[ "ocurristeis", "ocurrieron" ],
+			[ "ocurrieron" ]
+		],
+		"5" : [
+			[ "ocurría" ],
+			[ "ocurrías" ],
+			[ "ocurría" ],
+			[ "ocurríamos" ],
+			[ "ocurríais", "ocurrían" ],
+			[ "ocurrían" ]
+		],
+		"6" : [
+			[ "ocurriría" ],
+			[ "ocurrirías" ],
+			[ "ocurriría" ],
+			[ "ocurriríamos" ],
+			[ "ocurriríais", "ocurrirían" ],
+			[ "ocurrirían" ]
+		],
+		"7" : [
+			[ "ocurriré" ],
+			[ "ocurrirás" ],
+			[ "ocurrirá" ],
+			[ "ocurriremos" ],
+			[ "ocurriréis", "ocurrirán" ],
+			[ "ocurrirán" ]
+		],
+		"8" : [
+			[ "ocurra" ],
+			[ "ocurras" ],
+			[ "ocurra" ],
+			[ "ocurramos" ],
+			[ "ocurráis", "ocurran" ],
+			[ "ocurran" ]
+		],
+		"9" : [
+			[ "ocurriera" ],
+			[ "ocurrieras" ],
+			[ "ocurriera" ],
+			[ "ocurriéramos" ],
+			[ "ocurrierais", "ocurrieran" ],
+			[ "ocurrieran" ]
+		],
+		"10" : [
+			[ "ocurriese" ],
+			[ "ocurrieses" ],
+			[ "ocurriese" ],
+			[ "ocurriésemos" ],
+			[ "ocurrieseis", "ocurriesen" ],
+			[ "ocurriesen" ]
+		],
+		"11" : [
+			[ "ocurriere" ],
+			[ "ocurrieres" ],
+			[ "ocurriere" ],
+			[ "ocurriéremos" ],
+			[ "ocurriereis", "ocurrieren" ],
+			[ "ocurrieren" ]
+		],
+		"12" : {
+			"1" : [ "ocurre" ],
+			"2" : [ "ocurra" ],
+			"3" : [ "ocurramos" ],
+			"4" : [ "ocurrid" ],
+			"5" : [ "ocurran" ]
+		}
+	}
+}

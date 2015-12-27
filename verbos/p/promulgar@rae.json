@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=promulgar",
+	"word" : "promulgar",
+	"infinitivo" : "promulgar",
+	"participio" : [ "promulgado" ],
+	"gerundio" : [ "promulgando" ],
+	"tenses" : {
+		"3" : [
+			[ "promulgo" ],
+			[ "promulgas", "promulgás" ],
+			[ "promulga" ],
+			[ "promulgamos" ],
+			[ "promulgáis", "promulgan" ],
+			[ "promulgan" ]
+		],
+		"4" : [
+			[ "promulgué" ],
+			[ "promulgaste" ],
+			[ "promulgó" ],
+			[ "promulgamos" ],
+			[ "promulgasteis", "promulgaron" ],
+			[ "promulgaron" ]
+		],
+		"5" : [
+			[ "promulgaba" ],
+			[ "promulgabas" ],
+			[ "promulgaba" ],
+			[ "promulgábamos" ],
+			[ "promulgabais", "promulgaban" ],
+			[ "promulgaban" ]
+		],
+		"6" : [
+			[ "promulgaría" ],
+			[ "promulgarías" ],
+			[ "promulgaría" ],
+			[ "promulgaríamos" ],
+			[ "promulgaríais", "promulgarían" ],
+			[ "promulgarían" ]
+		],
+		"7" : [
+			[ "promulgaré" ],
+			[ "promulgarás" ],
+			[ "promulgará" ],
+			[ "promulgaremos" ],
+			[ "promulgaréis", "promulgarán" ],
+			[ "promulgarán" ]
+		],
+		"8" : [
+			[ "promulgue" ],
+			[ "promulgues" ],
+			[ "promulgue" ],
+			[ "promulguemos" ],
+			[ "promulguéis", "promulguen" ],
+			[ "promulguen" ]
+		],
+		"9" : [
+			[ "promulgara" ],
+			[ "promulgaras" ],
+			[ "promulgara" ],
+			[ "promulgáramos" ],
+			[ "promulgarais", "promulgaran" ],
+			[ "promulgaran" ]
+		],
+		"10" : [
+			[ "promulgase" ],
+			[ "promulgases" ],
+			[ "promulgase" ],
+			[ "promulgásemos" ],
+			[ "promulgaseis", "promulgasen" ],
+			[ "promulgasen" ]
+		],
+		"11" : [
+			[ "promulgare" ],
+			[ "promulgares" ],
+			[ "promulgare" ],
+			[ "promulgáremos" ],
+			[ "promulgareis", "promulgaren" ],
+			[ "promulgaren" ]
+		],
+		"12" : {
+			"1" : [ "promulga" ],
+			"2" : [ "promulgue" ],
+			"3" : [ "promulguemos" ],
+			"4" : [ "promulgad" ],
+			"5" : [ "promulguen" ]
+		}
+	}
+}

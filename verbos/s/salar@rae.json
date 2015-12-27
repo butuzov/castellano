@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=salar",
+	"word" : "salar",
+	"infinitivo" : "salar",
+	"participio" : [ "salado" ],
+	"gerundio" : [ "salando" ],
+	"tenses" : {
+		"3" : [
+			[ "salo" ],
+			[ "salas", "salás" ],
+			[ "sala" ],
+			[ "salamos" ],
+			[ "saláis", "salan" ],
+			[ "salan" ]
+		],
+		"4" : [
+			[ "salé" ],
+			[ "salaste" ],
+			[ "saló" ],
+			[ "salamos" ],
+			[ "salasteis", "salaron" ],
+			[ "salaron" ]
+		],
+		"5" : [
+			[ "salaba" ],
+			[ "salabas" ],
+			[ "salaba" ],
+			[ "salábamos" ],
+			[ "salabais", "salaban" ],
+			[ "salaban" ]
+		],
+		"6" : [
+			[ "salaría" ],
+			[ "salarías" ],
+			[ "salaría" ],
+			[ "salaríamos" ],
+			[ "salaríais", "salarían" ],
+			[ "salarían" ]
+		],
+		"7" : [
+			[ "salaré" ],
+			[ "salarás" ],
+			[ "salará" ],
+			[ "salaremos" ],
+			[ "salaréis", "salarán" ],
+			[ "salarán" ]
+		],
+		"8" : [
+			[ "sale" ],
+			[ "sales" ],
+			[ "sale" ],
+			[ "salemos" ],
+			[ "saléis", "salen" ],
+			[ "salen" ]
+		],
+		"9" : [
+			[ "salara" ],
+			[ "salaras" ],
+			[ "salara" ],
+			[ "saláramos" ],
+			[ "salarais", "salaran" ],
+			[ "salaran" ]
+		],
+		"10" : [
+			[ "salase" ],
+			[ "salases" ],
+			[ "salase" ],
+			[ "salásemos" ],
+			[ "salaseis", "salasen" ],
+			[ "salasen" ]
+		],
+		"11" : [
+			[ "salare" ],
+			[ "salares" ],
+			[ "salare" ],
+			[ "saláremos" ],
+			[ "salareis", "salaren" ],
+			[ "salaren" ]
+		],
+		"12" : {
+			"1" : [ "sala" ],
+			"2" : [ "sale" ],
+			"3" : [ "salemos" ],
+			"4" : [ "salad" ],
+			"5" : [ "salen" ]
+		}
+	}
+}

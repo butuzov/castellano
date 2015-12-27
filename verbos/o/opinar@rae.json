@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=opinar",
+	"word" : "opinar",
+	"infinitivo" : "opinar",
+	"participio" : [ "opinado" ],
+	"gerundio" : [ "opinando" ],
+	"tenses" : {
+		"3" : [
+			[ "opino" ],
+			[ "opinas", "opinás" ],
+			[ "opina" ],
+			[ "opinamos" ],
+			[ "opináis", "opinan" ],
+			[ "opinan" ]
+		],
+		"4" : [
+			[ "opiné" ],
+			[ "opinaste" ],
+			[ "opinó" ],
+			[ "opinamos" ],
+			[ "opinasteis", "opinaron" ],
+			[ "opinaron" ]
+		],
+		"5" : [
+			[ "opinaba" ],
+			[ "opinabas" ],
+			[ "opinaba" ],
+			[ "opinábamos" ],
+			[ "opinabais", "opinaban" ],
+			[ "opinaban" ]
+		],
+		"6" : [
+			[ "opinaría" ],
+			[ "opinarías" ],
+			[ "opinaría" ],
+			[ "opinaríamos" ],
+			[ "opinaríais", "opinarían" ],
+			[ "opinarían" ]
+		],
+		"7" : [
+			[ "opinaré" ],
+			[ "opinarás" ],
+			[ "opinará" ],
+			[ "opinaremos" ],
+			[ "opinaréis", "opinarán" ],
+			[ "opinarán" ]
+		],
+		"8" : [
+			[ "opine" ],
+			[ "opines" ],
+			[ "opine" ],
+			[ "opinemos" ],
+			[ "opinéis", "opinen" ],
+			[ "opinen" ]
+		],
+		"9" : [
+			[ "opinara" ],
+			[ "opinaras" ],
+			[ "opinara" ],
+			[ "opináramos" ],
+			[ "opinarais", "opinaran" ],
+			[ "opinaran" ]
+		],
+		"10" : [
+			[ "opinase" ],
+			[ "opinases" ],
+			[ "opinase" ],
+			[ "opinásemos" ],
+			[ "opinaseis", "opinasen" ],
+			[ "opinasen" ]
+		],
+		"11" : [
+			[ "opinare" ],
+			[ "opinares" ],
+			[ "opinare" ],
+			[ "opináremos" ],
+			[ "opinareis", "opinaren" ],
+			[ "opinaren" ]
+		],
+		"12" : {
+			"1" : [ "opina" ],
+			"2" : [ "opine" ],
+			"3" : [ "opinemos" ],
+			"4" : [ "opinad" ],
+			"5" : [ "opinen" ]
+		}
+	}
+}

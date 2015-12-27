@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cardar",
+	"word" : "cardar",
+	"infinitivo" : "cardar",
+	"participio" : [ "cardado" ],
+	"gerundio" : [ "cardando" ],
+	"tenses" : {
+		"3" : [
+			[ "cardo" ],
+			[ "cardas", "cardás" ],
+			[ "carda" ],
+			[ "cardamos" ],
+			[ "cardáis", "cardan" ],
+			[ "cardan" ]
+		],
+		"4" : [
+			[ "cardé" ],
+			[ "cardaste" ],
+			[ "cardó" ],
+			[ "cardamos" ],
+			[ "cardasteis", "cardaron" ],
+			[ "cardaron" ]
+		],
+		"5" : [
+			[ "cardaba" ],
+			[ "cardabas" ],
+			[ "cardaba" ],
+			[ "cardábamos" ],
+			[ "cardabais", "cardaban" ],
+			[ "cardaban" ]
+		],
+		"6" : [
+			[ "cardaría" ],
+			[ "cardarías" ],
+			[ "cardaría" ],
+			[ "cardaríamos" ],
+			[ "cardaríais", "cardarían" ],
+			[ "cardarían" ]
+		],
+		"7" : [
+			[ "cardaré" ],
+			[ "cardarás" ],
+			[ "cardará" ],
+			[ "cardaremos" ],
+			[ "cardaréis", "cardarán" ],
+			[ "cardarán" ]
+		],
+		"8" : [
+			[ "carde" ],
+			[ "cardes" ],
+			[ "carde" ],
+			[ "cardemos" ],
+			[ "cardéis", "carden" ],
+			[ "carden" ]
+		],
+		"9" : [
+			[ "cardara" ],
+			[ "cardaras" ],
+			[ "cardara" ],
+			[ "cardáramos" ],
+			[ "cardarais", "cardaran" ],
+			[ "cardaran" ]
+		],
+		"10" : [
+			[ "cardase" ],
+			[ "cardases" ],
+			[ "cardase" ],
+			[ "cardásemos" ],
+			[ "cardaseis", "cardasen" ],
+			[ "cardasen" ]
+		],
+		"11" : [
+			[ "cardare" ],
+			[ "cardares" ],
+			[ "cardare" ],
+			[ "cardáremos" ],
+			[ "cardareis", "cardaren" ],
+			[ "cardaren" ]
+		],
+		"12" : {
+			"1" : [ "carda" ],
+			"2" : [ "carde" ],
+			"3" : [ "cardemos" ],
+			"4" : [ "cardad" ],
+			"5" : [ "carden" ]
+		}
+	}
+}

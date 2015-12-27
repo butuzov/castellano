@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=heder",
+	"word" : "heder",
+	"infinitivo" : "heder",
+	"participio" : [ "hedido" ],
+	"gerundio" : [ "hediendo" ],
+	"tenses" : {
+		"3" : [
+			[ "hiedo" ],
+			[ "hiedes", "hedés" ],
+			[ "hiede" ],
+			[ "hedemos" ],
+			[ "hedéis", "hieden" ],
+			[ "hieden" ]
+		],
+		"4" : [
+			[ "hedí" ],
+			[ "hediste" ],
+			[ "hedió" ],
+			[ "hedimos" ],
+			[ "hedisteis", "hedieron" ],
+			[ "hedieron" ]
+		],
+		"5" : [
+			[ "hedía" ],
+			[ "hedías" ],
+			[ "hedía" ],
+			[ "hedíamos" ],
+			[ "hedíais", "hedían" ],
+			[ "hedían" ]
+		],
+		"6" : [
+			[ "hedería" ],
+			[ "hederías" ],
+			[ "hedería" ],
+			[ "hederíamos" ],
+			[ "hederíais", "hederían" ],
+			[ "hederían" ]
+		],
+		"7" : [
+			[ "hederé" ],
+			[ "hederás" ],
+			[ "hederá" ],
+			[ "hederemos" ],
+			[ "hederéis", "hederán" ],
+			[ "hederán" ]
+		],
+		"8" : [
+			[ "hieda" ],
+			[ "hiedas" ],
+			[ "hieda" ],
+			[ "hedamos" ],
+			[ "hedáis", "hiedan" ],
+			[ "hiedan" ]
+		],
+		"9" : [
+			[ "hediera" ],
+			[ "hedieras" ],
+			[ "hediera" ],
+			[ "hediéramos" ],
+			[ "hedierais", "hedieran" ],
+			[ "hedieran" ]
+		],
+		"10" : [
+			[ "hediese" ],
+			[ "hedieses" ],
+			[ "hediese" ],
+			[ "hediésemos" ],
+			[ "hedieseis", "hediesen" ],
+			[ "hediesen" ]
+		],
+		"11" : [
+			[ "hediere" ],
+			[ "hedieres" ],
+			[ "hediere" ],
+			[ "hediéremos" ],
+			[ "hediereis", "hedieren" ],
+			[ "hedieren" ]
+		],
+		"12" : {
+			"1" : [ "hiede" ],
+			"2" : [ "hieda" ],
+			"3" : [ "hedamos" ],
+			"4" : [ "heded" ],
+			"5" : [ "hiedan" ]
+		}
+	}
+}

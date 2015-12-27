@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=eludir",
+	"word" : "eludir",
+	"infinitivo" : "eludir",
+	"participio" : [ "eludido" ],
+	"gerundio" : [ "eludiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "eludo" ],
+			[ "eludes", "eludís" ],
+			[ "elude" ],
+			[ "eludimos" ],
+			[ "eludís", "eluden" ],
+			[ "eluden" ]
+		],
+		"4" : [
+			[ "eludí" ],
+			[ "eludiste" ],
+			[ "eludió" ],
+			[ "eludimos" ],
+			[ "eludisteis", "eludieron" ],
+			[ "eludieron" ]
+		],
+		"5" : [
+			[ "eludía" ],
+			[ "eludías" ],
+			[ "eludía" ],
+			[ "eludíamos" ],
+			[ "eludíais", "eludían" ],
+			[ "eludían" ]
+		],
+		"6" : [
+			[ "eludiría" ],
+			[ "eludirías" ],
+			[ "eludiría" ],
+			[ "eludiríamos" ],
+			[ "eludiríais", "eludirían" ],
+			[ "eludirían" ]
+		],
+		"7" : [
+			[ "eludiré" ],
+			[ "eludirás" ],
+			[ "eludirá" ],
+			[ "eludiremos" ],
+			[ "eludiréis", "eludirán" ],
+			[ "eludirán" ]
+		],
+		"8" : [
+			[ "eluda" ],
+			[ "eludas" ],
+			[ "eluda" ],
+			[ "eludamos" ],
+			[ "eludáis", "eludan" ],
+			[ "eludan" ]
+		],
+		"9" : [
+			[ "eludiera" ],
+			[ "eludieras" ],
+			[ "eludiera" ],
+			[ "eludiéramos" ],
+			[ "eludierais", "eludieran" ],
+			[ "eludieran" ]
+		],
+		"10" : [
+			[ "eludiese" ],
+			[ "eludieses" ],
+			[ "eludiese" ],
+			[ "eludiésemos" ],
+			[ "eludieseis", "eludiesen" ],
+			[ "eludiesen" ]
+		],
+		"11" : [
+			[ "eludiere" ],
+			[ "eludieres" ],
+			[ "eludiere" ],
+			[ "eludiéremos" ],
+			[ "eludiereis", "eludieren" ],
+			[ "eludieren" ]
+		],
+		"12" : {
+			"1" : [ "elude" ],
+			"2" : [ "eluda" ],
+			"3" : [ "eludamos" ],
+			"4" : [ "eludid" ],
+			"5" : [ "eludan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prevalecer",
+	"word" : "prevalecer",
+	"infinitivo" : "prevalecer",
+	"participio" : [ "prevalecido" ],
+	"gerundio" : [ "prevaleciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "prevalezco" ],
+			[ "prevaleces", "prevalecés" ],
+			[ "prevalece" ],
+			[ "prevalecemos" ],
+			[ "prevalecéis", "prevalecen" ],
+			[ "prevalecen" ]
+		],
+		"4" : [
+			[ "prevalecí" ],
+			[ "prevaleciste" ],
+			[ "prevaleció" ],
+			[ "prevalecimos" ],
+			[ "prevalecisteis", "prevalecieron" ],
+			[ "prevalecieron" ]
+		],
+		"5" : [
+			[ "prevalecía" ],
+			[ "prevalecías" ],
+			[ "prevalecía" ],
+			[ "prevalecíamos" ],
+			[ "prevalecíais", "prevalecían" ],
+			[ "prevalecían" ]
+		],
+		"6" : [
+			[ "prevalecería" ],
+			[ "prevalecerías" ],
+			[ "prevalecería" ],
+			[ "prevaleceríamos" ],
+			[ "prevaleceríais", "prevalecerían" ],
+			[ "prevalecerían" ]
+		],
+		"7" : [
+			[ "prevaleceré" ],
+			[ "prevalecerás" ],
+			[ "prevalecerá" ],
+			[ "prevaleceremos" ],
+			[ "prevaleceréis", "prevalecerán" ],
+			[ "prevalecerán" ]
+		],
+		"8" : [
+			[ "prevalezca" ],
+			[ "prevalezcas" ],
+			[ "prevalezca" ],
+			[ "prevalezcamos" ],
+			[ "prevalezcáis", "prevalezcan" ],
+			[ "prevalezcan" ]
+		],
+		"9" : [
+			[ "prevaleciera" ],
+			[ "prevalecieras" ],
+			[ "prevaleciera" ],
+			[ "prevaleciéramos" ],
+			[ "prevalecierais", "prevalecieran" ],
+			[ "prevalecieran" ]
+		],
+		"10" : [
+			[ "prevaleciese" ],
+			[ "prevalecieses" ],
+			[ "prevaleciese" ],
+			[ "prevaleciésemos" ],
+			[ "prevalecieseis", "prevaleciesen" ],
+			[ "prevaleciesen" ]
+		],
+		"11" : [
+			[ "prevaleciere" ],
+			[ "prevalecieres" ],
+			[ "prevaleciere" ],
+			[ "prevaleciéremos" ],
+			[ "prevaleciereis", "prevalecieren" ],
+			[ "prevalecieren" ]
+		],
+		"12" : {
+			"1" : [ "prevalece" ],
+			"2" : [ "prevalezca" ],
+			"3" : [ "prevalezcamos" ],
+			"4" : [ "prevaleced" ],
+			"5" : [ "prevalezcan" ]
+		}
+	}
+}

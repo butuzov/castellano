@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sedimentar",
+	"word" : "sedimentar",
+	"infinitivo" : "sedimentar",
+	"participio" : [ "sedimentado" ],
+	"gerundio" : [ "sedimentando" ],
+	"tenses" : {
+		"3" : [
+			[ "sedimento" ],
+			[ "sedimentas", "sedimentás" ],
+			[ "sedimenta" ],
+			[ "sedimentamos" ],
+			[ "sedimentáis", "sedimentan" ],
+			[ "sedimentan" ]
+		],
+		"4" : [
+			[ "sedimenté" ],
+			[ "sedimentaste" ],
+			[ "sedimentó" ],
+			[ "sedimentamos" ],
+			[ "sedimentasteis", "sedimentaron" ],
+			[ "sedimentaron" ]
+		],
+		"5" : [
+			[ "sedimentaba" ],
+			[ "sedimentabas" ],
+			[ "sedimentaba" ],
+			[ "sedimentábamos" ],
+			[ "sedimentabais", "sedimentaban" ],
+			[ "sedimentaban" ]
+		],
+		"6" : [
+			[ "sedimentaría" ],
+			[ "sedimentarías" ],
+			[ "sedimentaría" ],
+			[ "sedimentaríamos" ],
+			[ "sedimentaríais", "sedimentarían" ],
+			[ "sedimentarían" ]
+		],
+		"7" : [
+			[ "sedimentaré" ],
+			[ "sedimentarás" ],
+			[ "sedimentará" ],
+			[ "sedimentaremos" ],
+			[ "sedimentaréis", "sedimentarán" ],
+			[ "sedimentarán" ]
+		],
+		"8" : [
+			[ "sedimente" ],
+			[ "sedimentes" ],
+			[ "sedimente" ],
+			[ "sedimentemos" ],
+			[ "sedimentéis", "sedimenten" ],
+			[ "sedimenten" ]
+		],
+		"9" : [
+			[ "sedimentara" ],
+			[ "sedimentaras" ],
+			[ "sedimentara" ],
+			[ "sedimentáramos" ],
+			[ "sedimentarais", "sedimentaran" ],
+			[ "sedimentaran" ]
+		],
+		"10" : [
+			[ "sedimentase" ],
+			[ "sedimentases" ],
+			[ "sedimentase" ],
+			[ "sedimentásemos" ],
+			[ "sedimentaseis", "sedimentasen" ],
+			[ "sedimentasen" ]
+		],
+		"11" : [
+			[ "sedimentare" ],
+			[ "sedimentares" ],
+			[ "sedimentare" ],
+			[ "sedimentáremos" ],
+			[ "sedimentareis", "sedimentaren" ],
+			[ "sedimentaren" ]
+		],
+		"12" : {
+			"1" : [ "sedimenta" ],
+			"2" : [ "sedimente" ],
+			"3" : [ "sedimentemos" ],
+			"4" : [ "sedimentad" ],
+			"5" : [ "sedimenten" ]
+		}
+	}
+}

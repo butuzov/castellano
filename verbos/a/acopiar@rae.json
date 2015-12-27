@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acopiar",
+	"word" : "acopiar",
+	"infinitivo" : "acopiar",
+	"participio" : [ "acopiado" ],
+	"gerundio" : [ "acopiando" ],
+	"tenses" : {
+		"3" : [
+			[ "acopio" ],
+			[ "acopias", "acopiás" ],
+			[ "acopia" ],
+			[ "acopiamos" ],
+			[ "acopiáis", "acopian" ],
+			[ "acopian" ]
+		],
+		"4" : [
+			[ "acopié" ],
+			[ "acopiaste" ],
+			[ "acopió" ],
+			[ "acopiamos" ],
+			[ "acopiasteis", "acopiaron" ],
+			[ "acopiaron" ]
+		],
+		"5" : [
+			[ "acopiaba" ],
+			[ "acopiabas" ],
+			[ "acopiaba" ],
+			[ "acopiábamos" ],
+			[ "acopiabais", "acopiaban" ],
+			[ "acopiaban" ]
+		],
+		"6" : [
+			[ "acopiaría" ],
+			[ "acopiarías" ],
+			[ "acopiaría" ],
+			[ "acopiaríamos" ],
+			[ "acopiaríais", "acopiarían" ],
+			[ "acopiarían" ]
+		],
+		"7" : [
+			[ "acopiaré" ],
+			[ "acopiarás" ],
+			[ "acopiará" ],
+			[ "acopiaremos" ],
+			[ "acopiaréis", "acopiarán" ],
+			[ "acopiarán" ]
+		],
+		"8" : [
+			[ "acopie" ],
+			[ "acopies" ],
+			[ "acopie" ],
+			[ "acopiemos" ],
+			[ "acopiéis", "acopien" ],
+			[ "acopien" ]
+		],
+		"9" : [
+			[ "acopiara" ],
+			[ "acopiaras" ],
+			[ "acopiara" ],
+			[ "acopiáramos" ],
+			[ "acopiarais", "acopiaran" ],
+			[ "acopiaran" ]
+		],
+		"10" : [
+			[ "acopiase" ],
+			[ "acopiases" ],
+			[ "acopiase" ],
+			[ "acopiásemos" ],
+			[ "acopiaseis", "acopiasen" ],
+			[ "acopiasen" ]
+		],
+		"11" : [
+			[ "acopiare" ],
+			[ "acopiares" ],
+			[ "acopiare" ],
+			[ "acopiáremos" ],
+			[ "acopiareis", "acopiaren" ],
+			[ "acopiaren" ]
+		],
+		"12" : {
+			"1" : [ "acopia" ],
+			"2" : [ "acopie" ],
+			"3" : [ "acopiemos" ],
+			"4" : [ "acopiad" ],
+			"5" : [ "acopien" ]
+		}
+	}
+}

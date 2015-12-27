@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=avecinar",
+	"word" : "avecinar",
+	"infinitivo" : "avecinar",
+	"participio" : [ "avecinado" ],
+	"gerundio" : [ "avecinando" ],
+	"tenses" : {
+		"3" : [
+			[ "avecino" ],
+			[ "avecinas", "avecinás" ],
+			[ "avecina" ],
+			[ "avecinamos" ],
+			[ "avecináis", "avecinan" ],
+			[ "avecinan" ]
+		],
+		"4" : [
+			[ "aveciné" ],
+			[ "avecinaste" ],
+			[ "avecinó" ],
+			[ "avecinamos" ],
+			[ "avecinasteis", "avecinaron" ],
+			[ "avecinaron" ]
+		],
+		"5" : [
+			[ "avecinaba" ],
+			[ "avecinabas" ],
+			[ "avecinaba" ],
+			[ "avecinábamos" ],
+			[ "avecinabais", "avecinaban" ],
+			[ "avecinaban" ]
+		],
+		"6" : [
+			[ "avecinaría" ],
+			[ "avecinarías" ],
+			[ "avecinaría" ],
+			[ "avecinaríamos" ],
+			[ "avecinaríais", "avecinarían" ],
+			[ "avecinarían" ]
+		],
+		"7" : [
+			[ "avecinaré" ],
+			[ "avecinarás" ],
+			[ "avecinará" ],
+			[ "avecinaremos" ],
+			[ "avecinaréis", "avecinarán" ],
+			[ "avecinarán" ]
+		],
+		"8" : [
+			[ "avecine" ],
+			[ "avecines" ],
+			[ "avecine" ],
+			[ "avecinemos" ],
+			[ "avecinéis", "avecinen" ],
+			[ "avecinen" ]
+		],
+		"9" : [
+			[ "avecinara" ],
+			[ "avecinaras" ],
+			[ "avecinara" ],
+			[ "avecináramos" ],
+			[ "avecinarais", "avecinaran" ],
+			[ "avecinaran" ]
+		],
+		"10" : [
+			[ "avecinase" ],
+			[ "avecinases" ],
+			[ "avecinase" ],
+			[ "avecinásemos" ],
+			[ "avecinaseis", "avecinasen" ],
+			[ "avecinasen" ]
+		],
+		"11" : [
+			[ "avecinare" ],
+			[ "avecinares" ],
+			[ "avecinare" ],
+			[ "avecináremos" ],
+			[ "avecinareis", "avecinaren" ],
+			[ "avecinaren" ]
+		],
+		"12" : {
+			"1" : [ "avecina" ],
+			"2" : [ "avecine" ],
+			"3" : [ "avecinemos" ],
+			"4" : [ "avecinad" ],
+			"5" : [ "avecinen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=depurar",
+	"word" : "depurar",
+	"infinitivo" : "depurar",
+	"participio" : [ "depurado" ],
+	"gerundio" : [ "depurando" ],
+	"tenses" : {
+		"3" : [
+			[ "depuro" ],
+			[ "depuras", "depurás" ],
+			[ "depura" ],
+			[ "depuramos" ],
+			[ "depuráis", "depuran" ],
+			[ "depuran" ]
+		],
+		"4" : [
+			[ "depuré" ],
+			[ "depuraste" ],
+			[ "depuró" ],
+			[ "depuramos" ],
+			[ "depurasteis", "depuraron" ],
+			[ "depuraron" ]
+		],
+		"5" : [
+			[ "depuraba" ],
+			[ "depurabas" ],
+			[ "depuraba" ],
+			[ "depurábamos" ],
+			[ "depurabais", "depuraban" ],
+			[ "depuraban" ]
+		],
+		"6" : [
+			[ "depuraría" ],
+			[ "depurarías" ],
+			[ "depuraría" ],
+			[ "depuraríamos" ],
+			[ "depuraríais", "depurarían" ],
+			[ "depurarían" ]
+		],
+		"7" : [
+			[ "depuraré" ],
+			[ "depurarás" ],
+			[ "depurará" ],
+			[ "depuraremos" ],
+			[ "depuraréis", "depurarán" ],
+			[ "depurarán" ]
+		],
+		"8" : [
+			[ "depure" ],
+			[ "depures" ],
+			[ "depure" ],
+			[ "depuremos" ],
+			[ "depuréis", "depuren" ],
+			[ "depuren" ]
+		],
+		"9" : [
+			[ "depurara" ],
+			[ "depuraras" ],
+			[ "depurara" ],
+			[ "depuráramos" ],
+			[ "depurarais", "depuraran" ],
+			[ "depuraran" ]
+		],
+		"10" : [
+			[ "depurase" ],
+			[ "depurases" ],
+			[ "depurase" ],
+			[ "depurásemos" ],
+			[ "depuraseis", "depurasen" ],
+			[ "depurasen" ]
+		],
+		"11" : [
+			[ "depurare" ],
+			[ "depurares" ],
+			[ "depurare" ],
+			[ "depuráremos" ],
+			[ "depurareis", "depuraren" ],
+			[ "depuraren" ]
+		],
+		"12" : {
+			"1" : [ "depura" ],
+			"2" : [ "depure" ],
+			"3" : [ "depuremos" ],
+			"4" : [ "depurad" ],
+			"5" : [ "depuren" ]
+		}
+	}
+}

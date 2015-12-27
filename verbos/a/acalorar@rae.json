@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acalorar",
+	"word" : "acalorar",
+	"infinitivo" : "acalorar",
+	"participio" : [ "acalorado" ],
+	"gerundio" : [ "acalorando" ],
+	"tenses" : {
+		"3" : [
+			[ "acaloro" ],
+			[ "acaloras", "acalorás" ],
+			[ "acalora" ],
+			[ "acaloramos" ],
+			[ "acaloráis", "acaloran" ],
+			[ "acaloran" ]
+		],
+		"4" : [
+			[ "acaloré" ],
+			[ "acaloraste" ],
+			[ "acaloró" ],
+			[ "acaloramos" ],
+			[ "acalorasteis", "acaloraron" ],
+			[ "acaloraron" ]
+		],
+		"5" : [
+			[ "acaloraba" ],
+			[ "acalorabas" ],
+			[ "acaloraba" ],
+			[ "acalorábamos" ],
+			[ "acalorabais", "acaloraban" ],
+			[ "acaloraban" ]
+		],
+		"6" : [
+			[ "acaloraría" ],
+			[ "acalorarías" ],
+			[ "acaloraría" ],
+			[ "acaloraríamos" ],
+			[ "acaloraríais", "acalorarían" ],
+			[ "acalorarían" ]
+		],
+		"7" : [
+			[ "acaloraré" ],
+			[ "acalorarás" ],
+			[ "acalorará" ],
+			[ "acaloraremos" ],
+			[ "acaloraréis", "acalorarán" ],
+			[ "acalorarán" ]
+		],
+		"8" : [
+			[ "acalore" ],
+			[ "acalores" ],
+			[ "acalore" ],
+			[ "acaloremos" ],
+			[ "acaloréis", "acaloren" ],
+			[ "acaloren" ]
+		],
+		"9" : [
+			[ "acalorara" ],
+			[ "acaloraras" ],
+			[ "acalorara" ],
+			[ "acaloráramos" ],
+			[ "acalorarais", "acaloraran" ],
+			[ "acaloraran" ]
+		],
+		"10" : [
+			[ "acalorase" ],
+			[ "acalorases" ],
+			[ "acalorase" ],
+			[ "acalorásemos" ],
+			[ "acaloraseis", "acalorasen" ],
+			[ "acalorasen" ]
+		],
+		"11" : [
+			[ "acalorare" ],
+			[ "acalorares" ],
+			[ "acalorare" ],
+			[ "acaloráremos" ],
+			[ "acalorareis", "acaloraren" ],
+			[ "acaloraren" ]
+		],
+		"12" : {
+			"1" : [ "acalora" ],
+			"2" : [ "acalore" ],
+			"3" : [ "acaloremos" ],
+			"4" : [ "acalorad" ],
+			"5" : [ "acaloren" ]
+		}
+	}
+}

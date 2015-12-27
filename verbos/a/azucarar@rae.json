@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=azucarar",
+	"word" : "azucarar",
+	"infinitivo" : "azucarar",
+	"participio" : [ "azucarado" ],
+	"gerundio" : [ "azucarando" ],
+	"tenses" : {
+		"3" : [
+			[ "azucaro" ],
+			[ "azucaras", "azucarás" ],
+			[ "azucara" ],
+			[ "azucaramos" ],
+			[ "azucaráis", "azucaran" ],
+			[ "azucaran" ]
+		],
+		"4" : [
+			[ "azucaré" ],
+			[ "azucaraste" ],
+			[ "azucaró" ],
+			[ "azucaramos" ],
+			[ "azucarasteis", "azucararon" ],
+			[ "azucararon" ]
+		],
+		"5" : [
+			[ "azucaraba" ],
+			[ "azucarabas" ],
+			[ "azucaraba" ],
+			[ "azucarábamos" ],
+			[ "azucarabais", "azucaraban" ],
+			[ "azucaraban" ]
+		],
+		"6" : [
+			[ "azucararía" ],
+			[ "azucararías" ],
+			[ "azucararía" ],
+			[ "azucararíamos" ],
+			[ "azucararíais", "azucararían" ],
+			[ "azucararían" ]
+		],
+		"7" : [
+			[ "azucararé" ],
+			[ "azucararás" ],
+			[ "azucarará" ],
+			[ "azucararemos" ],
+			[ "azucararéis", "azucararán" ],
+			[ "azucararán" ]
+		],
+		"8" : [
+			[ "azucare" ],
+			[ "azucares" ],
+			[ "azucare" ],
+			[ "azucaremos" ],
+			[ "azucaréis", "azucaren" ],
+			[ "azucaren" ]
+		],
+		"9" : [
+			[ "azucarara" ],
+			[ "azucararas" ],
+			[ "azucarara" ],
+			[ "azucaráramos" ],
+			[ "azucararais", "azucararan" ],
+			[ "azucararan" ]
+		],
+		"10" : [
+			[ "azucarase" ],
+			[ "azucarases" ],
+			[ "azucarase" ],
+			[ "azucarásemos" ],
+			[ "azucaraseis", "azucarasen" ],
+			[ "azucarasen" ]
+		],
+		"11" : [
+			[ "azucarare" ],
+			[ "azucarares" ],
+			[ "azucarare" ],
+			[ "azucaráremos" ],
+			[ "azucarareis", "azucararen" ],
+			[ "azucararen" ]
+		],
+		"12" : {
+			"1" : [ "azucara" ],
+			"2" : [ "azucare" ],
+			"3" : [ "azucaremos" ],
+			"4" : [ "azucarad" ],
+			"5" : [ "azucaren" ]
+		}
+	}
+}

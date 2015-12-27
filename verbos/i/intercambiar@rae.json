@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=intercambiar",
+	"word" : "intercambiar",
+	"infinitivo" : "intercambiar",
+	"participio" : [ "intercambiado" ],
+	"gerundio" : [ "intercambiando" ],
+	"tenses" : {
+		"3" : [
+			[ "intercambio" ],
+			[ "intercambias", "intercambiás" ],
+			[ "intercambia" ],
+			[ "intercambiamos" ],
+			[ "intercambiáis", "intercambian" ],
+			[ "intercambian" ]
+		],
+		"4" : [
+			[ "intercambié" ],
+			[ "intercambiaste" ],
+			[ "intercambió" ],
+			[ "intercambiamos" ],
+			[ "intercambiasteis", "intercambiaron" ],
+			[ "intercambiaron" ]
+		],
+		"5" : [
+			[ "intercambiaba" ],
+			[ "intercambiabas" ],
+			[ "intercambiaba" ],
+			[ "intercambiábamos" ],
+			[ "intercambiabais", "intercambiaban" ],
+			[ "intercambiaban" ]
+		],
+		"6" : [
+			[ "intercambiaría" ],
+			[ "intercambiarías" ],
+			[ "intercambiaría" ],
+			[ "intercambiaríamos" ],
+			[ "intercambiaríais", "intercambiarían" ],
+			[ "intercambiarían" ]
+		],
+		"7" : [
+			[ "intercambiaré" ],
+			[ "intercambiarás" ],
+			[ "intercambiará" ],
+			[ "intercambiaremos" ],
+			[ "intercambiaréis", "intercambiarán" ],
+			[ "intercambiarán" ]
+		],
+		"8" : [
+			[ "intercambie" ],
+			[ "intercambies" ],
+			[ "intercambie" ],
+			[ "intercambiemos" ],
+			[ "intercambiéis", "intercambien" ],
+			[ "intercambien" ]
+		],
+		"9" : [
+			[ "intercambiara" ],
+			[ "intercambiaras" ],
+			[ "intercambiara" ],
+			[ "intercambiáramos" ],
+			[ "intercambiarais", "intercambiaran" ],
+			[ "intercambiaran" ]
+		],
+		"10" : [
+			[ "intercambiase" ],
+			[ "intercambiases" ],
+			[ "intercambiase" ],
+			[ "intercambiásemos" ],
+			[ "intercambiaseis", "intercambiasen" ],
+			[ "intercambiasen" ]
+		],
+		"11" : [
+			[ "intercambiare" ],
+			[ "intercambiares" ],
+			[ "intercambiare" ],
+			[ "intercambiáremos" ],
+			[ "intercambiareis", "intercambiaren" ],
+			[ "intercambiaren" ]
+		],
+		"12" : {
+			"1" : [ "intercambia" ],
+			"2" : [ "intercambie" ],
+			"3" : [ "intercambiemos" ],
+			"4" : [ "intercambiad" ],
+			"5" : [ "intercambien" ]
+		}
+	}
+}

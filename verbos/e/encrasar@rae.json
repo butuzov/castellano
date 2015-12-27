@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encrasar",
+	"word" : "encrasar",
+	"infinitivo" : "encrasar",
+	"participio" : [ "encrasado" ],
+	"gerundio" : [ "encrasando" ],
+	"tenses" : {
+		"3" : [
+			[ "encraso" ],
+			[ "encrasas", "encrasás" ],
+			[ "encrasa" ],
+			[ "encrasamos" ],
+			[ "encrasáis", "encrasan" ],
+			[ "encrasan" ]
+		],
+		"4" : [
+			[ "encrasé" ],
+			[ "encrasaste" ],
+			[ "encrasó" ],
+			[ "encrasamos" ],
+			[ "encrasasteis", "encrasaron" ],
+			[ "encrasaron" ]
+		],
+		"5" : [
+			[ "encrasaba" ],
+			[ "encrasabas" ],
+			[ "encrasaba" ],
+			[ "encrasábamos" ],
+			[ "encrasabais", "encrasaban" ],
+			[ "encrasaban" ]
+		],
+		"6" : [
+			[ "encrasaría" ],
+			[ "encrasarías" ],
+			[ "encrasaría" ],
+			[ "encrasaríamos" ],
+			[ "encrasaríais", "encrasarían" ],
+			[ "encrasarían" ]
+		],
+		"7" : [
+			[ "encrasaré" ],
+			[ "encrasarás" ],
+			[ "encrasará" ],
+			[ "encrasaremos" ],
+			[ "encrasaréis", "encrasarán" ],
+			[ "encrasarán" ]
+		],
+		"8" : [
+			[ "encrase" ],
+			[ "encrases" ],
+			[ "encrase" ],
+			[ "encrasemos" ],
+			[ "encraséis", "encrasen" ],
+			[ "encrasen" ]
+		],
+		"9" : [
+			[ "encrasara" ],
+			[ "encrasaras" ],
+			[ "encrasara" ],
+			[ "encrasáramos" ],
+			[ "encrasarais", "encrasaran" ],
+			[ "encrasaran" ]
+		],
+		"10" : [
+			[ "encrasase" ],
+			[ "encrasases" ],
+			[ "encrasase" ],
+			[ "encrasásemos" ],
+			[ "encrasaseis", "encrasasen" ],
+			[ "encrasasen" ]
+		],
+		"11" : [
+			[ "encrasare" ],
+			[ "encrasares" ],
+			[ "encrasare" ],
+			[ "encrasáremos" ],
+			[ "encrasareis", "encrasaren" ],
+			[ "encrasaren" ]
+		],
+		"12" : {
+			"1" : [ "encrasa" ],
+			"2" : [ "encrase" ],
+			"3" : [ "encrasemos" ],
+			"4" : [ "encrasad" ],
+			"5" : [ "encrasen" ]
+		}
+	}
+}

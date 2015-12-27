@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=injertar",
+	"word" : "injertar",
+	"infinitivo" : "injertar",
+	"participio" : [ "injertado" ],
+	"gerundio" : [ "injertando" ],
+	"tenses" : {
+		"3" : [
+			[ "injerto" ],
+			[ "injertas", "injertás" ],
+			[ "injerta" ],
+			[ "injertamos" ],
+			[ "injertáis", "injertan" ],
+			[ "injertan" ]
+		],
+		"4" : [
+			[ "injerté" ],
+			[ "injertaste" ],
+			[ "injertó" ],
+			[ "injertamos" ],
+			[ "injertasteis", "injertaron" ],
+			[ "injertaron" ]
+		],
+		"5" : [
+			[ "injertaba" ],
+			[ "injertabas" ],
+			[ "injertaba" ],
+			[ "injertábamos" ],
+			[ "injertabais", "injertaban" ],
+			[ "injertaban" ]
+		],
+		"6" : [
+			[ "injertaría" ],
+			[ "injertarías" ],
+			[ "injertaría" ],
+			[ "injertaríamos" ],
+			[ "injertaríais", "injertarían" ],
+			[ "injertarían" ]
+		],
+		"7" : [
+			[ "injertaré" ],
+			[ "injertarás" ],
+			[ "injertará" ],
+			[ "injertaremos" ],
+			[ "injertaréis", "injertarán" ],
+			[ "injertarán" ]
+		],
+		"8" : [
+			[ "injerte" ],
+			[ "injertes" ],
+			[ "injerte" ],
+			[ "injertemos" ],
+			[ "injertéis", "injerten" ],
+			[ "injerten" ]
+		],
+		"9" : [
+			[ "injertara" ],
+			[ "injertaras" ],
+			[ "injertara" ],
+			[ "injertáramos" ],
+			[ "injertarais", "injertaran" ],
+			[ "injertaran" ]
+		],
+		"10" : [
+			[ "injertase" ],
+			[ "injertases" ],
+			[ "injertase" ],
+			[ "injertásemos" ],
+			[ "injertaseis", "injertasen" ],
+			[ "injertasen" ]
+		],
+		"11" : [
+			[ "injertare" ],
+			[ "injertares" ],
+			[ "injertare" ],
+			[ "injertáremos" ],
+			[ "injertareis", "injertaren" ],
+			[ "injertaren" ]
+		],
+		"12" : {
+			"1" : [ "injerta" ],
+			"2" : [ "injerte" ],
+			"3" : [ "injertemos" ],
+			"4" : [ "injertad" ],
+			"5" : [ "injerten" ]
+		}
+	}
+}

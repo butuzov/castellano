@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=devorar",
+	"word" : "devorar",
+	"infinitivo" : "devorar",
+	"participio" : [ "devorado" ],
+	"gerundio" : [ "devorando" ],
+	"tenses" : {
+		"3" : [
+			[ "devoro" ],
+			[ "devoras", "devorás" ],
+			[ "devora" ],
+			[ "devoramos" ],
+			[ "devoráis", "devoran" ],
+			[ "devoran" ]
+		],
+		"4" : [
+			[ "devoré" ],
+			[ "devoraste" ],
+			[ "devoró" ],
+			[ "devoramos" ],
+			[ "devorasteis", "devoraron" ],
+			[ "devoraron" ]
+		],
+		"5" : [
+			[ "devoraba" ],
+			[ "devorabas" ],
+			[ "devoraba" ],
+			[ "devorábamos" ],
+			[ "devorabais", "devoraban" ],
+			[ "devoraban" ]
+		],
+		"6" : [
+			[ "devoraría" ],
+			[ "devorarías" ],
+			[ "devoraría" ],
+			[ "devoraríamos" ],
+			[ "devoraríais", "devorarían" ],
+			[ "devorarían" ]
+		],
+		"7" : [
+			[ "devoraré" ],
+			[ "devorarás" ],
+			[ "devorará" ],
+			[ "devoraremos" ],
+			[ "devoraréis", "devorarán" ],
+			[ "devorarán" ]
+		],
+		"8" : [
+			[ "devore" ],
+			[ "devores" ],
+			[ "devore" ],
+			[ "devoremos" ],
+			[ "devoréis", "devoren" ],
+			[ "devoren" ]
+		],
+		"9" : [
+			[ "devorara" ],
+			[ "devoraras" ],
+			[ "devorara" ],
+			[ "devoráramos" ],
+			[ "devorarais", "devoraran" ],
+			[ "devoraran" ]
+		],
+		"10" : [
+			[ "devorase" ],
+			[ "devorases" ],
+			[ "devorase" ],
+			[ "devorásemos" ],
+			[ "devoraseis", "devorasen" ],
+			[ "devorasen" ]
+		],
+		"11" : [
+			[ "devorare" ],
+			[ "devorares" ],
+			[ "devorare" ],
+			[ "devoráremos" ],
+			[ "devorareis", "devoraren" ],
+			[ "devoraren" ]
+		],
+		"12" : {
+			"1" : [ "devora" ],
+			"2" : [ "devore" ],
+			"3" : [ "devoremos" ],
+			"4" : [ "devorad" ],
+			"5" : [ "devoren" ]
+		}
+	}
+}

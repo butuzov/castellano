@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=erigir",
+	"word" : "erigir",
+	"infinitivo" : "erigir",
+	"participio" : [ "erigido" ],
+	"gerundio" : [ "erigiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "erijo" ],
+			[ "eriges", "erigís" ],
+			[ "erige" ],
+			[ "erigimos" ],
+			[ "erigís", "erigen" ],
+			[ "erigen" ]
+		],
+		"4" : [
+			[ "erigí" ],
+			[ "erigiste" ],
+			[ "erigió" ],
+			[ "erigimos" ],
+			[ "erigisteis", "erigieron" ],
+			[ "erigieron" ]
+		],
+		"5" : [
+			[ "erigía" ],
+			[ "erigías" ],
+			[ "erigía" ],
+			[ "erigíamos" ],
+			[ "erigíais", "erigían" ],
+			[ "erigían" ]
+		],
+		"6" : [
+			[ "erigiría" ],
+			[ "erigirías" ],
+			[ "erigiría" ],
+			[ "erigiríamos" ],
+			[ "erigiríais", "erigirían" ],
+			[ "erigirían" ]
+		],
+		"7" : [
+			[ "erigiré" ],
+			[ "erigirás" ],
+			[ "erigirá" ],
+			[ "erigiremos" ],
+			[ "erigiréis", "erigirán" ],
+			[ "erigirán" ]
+		],
+		"8" : [
+			[ "erija" ],
+			[ "erijas" ],
+			[ "erija" ],
+			[ "erijamos" ],
+			[ "erijáis", "erijan" ],
+			[ "erijan" ]
+		],
+		"9" : [
+			[ "erigiera" ],
+			[ "erigieras" ],
+			[ "erigiera" ],
+			[ "erigiéramos" ],
+			[ "erigierais", "erigieran" ],
+			[ "erigieran" ]
+		],
+		"10" : [
+			[ "erigiese" ],
+			[ "erigieses" ],
+			[ "erigiese" ],
+			[ "erigiésemos" ],
+			[ "erigieseis", "erigiesen" ],
+			[ "erigiesen" ]
+		],
+		"11" : [
+			[ "erigiere" ],
+			[ "erigieres" ],
+			[ "erigiere" ],
+			[ "erigiéremos" ],
+			[ "erigiereis", "erigieren" ],
+			[ "erigieren" ]
+		],
+		"12" : {
+			"1" : [ "erige" ],
+			"2" : [ "erija" ],
+			"3" : [ "erijamos" ],
+			"4" : [ "erigid" ],
+			"5" : [ "erijan" ]
+		}
+	}
+}

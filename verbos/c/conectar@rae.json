@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conectar",
+	"word" : "conectar",
+	"infinitivo" : "conectar",
+	"participio" : [ "conectado" ],
+	"gerundio" : [ "conectando" ],
+	"tenses" : {
+		"3" : [
+			[ "conecto" ],
+			[ "conectas", "conectás" ],
+			[ "conecta" ],
+			[ "conectamos" ],
+			[ "conectáis", "conectan" ],
+			[ "conectan" ]
+		],
+		"4" : [
+			[ "conecté" ],
+			[ "conectaste" ],
+			[ "conectó" ],
+			[ "conectamos" ],
+			[ "conectasteis", "conectaron" ],
+			[ "conectaron" ]
+		],
+		"5" : [
+			[ "conectaba" ],
+			[ "conectabas" ],
+			[ "conectaba" ],
+			[ "conectábamos" ],
+			[ "conectabais", "conectaban" ],
+			[ "conectaban" ]
+		],
+		"6" : [
+			[ "conectaría" ],
+			[ "conectarías" ],
+			[ "conectaría" ],
+			[ "conectaríamos" ],
+			[ "conectaríais", "conectarían" ],
+			[ "conectarían" ]
+		],
+		"7" : [
+			[ "conectaré" ],
+			[ "conectarás" ],
+			[ "conectará" ],
+			[ "conectaremos" ],
+			[ "conectaréis", "conectarán" ],
+			[ "conectarán" ]
+		],
+		"8" : [
+			[ "conecte" ],
+			[ "conectes" ],
+			[ "conecte" ],
+			[ "conectemos" ],
+			[ "conectéis", "conecten" ],
+			[ "conecten" ]
+		],
+		"9" : [
+			[ "conectara" ],
+			[ "conectaras" ],
+			[ "conectara" ],
+			[ "conectáramos" ],
+			[ "conectarais", "conectaran" ],
+			[ "conectaran" ]
+		],
+		"10" : [
+			[ "conectase" ],
+			[ "conectases" ],
+			[ "conectase" ],
+			[ "conectásemos" ],
+			[ "conectaseis", "conectasen" ],
+			[ "conectasen" ]
+		],
+		"11" : [
+			[ "conectare" ],
+			[ "conectares" ],
+			[ "conectare" ],
+			[ "conectáremos" ],
+			[ "conectareis", "conectaren" ],
+			[ "conectaren" ]
+		],
+		"12" : {
+			"1" : [ "conecta" ],
+			"2" : [ "conecte" ],
+			"3" : [ "conectemos" ],
+			"4" : [ "conectad" ],
+			"5" : [ "conecten" ]
+		}
+	}
+}

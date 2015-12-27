@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=uncir",
+	"word" : "uncir",
+	"infinitivo" : "uncir",
+	"participio" : [ "uncido" ],
+	"gerundio" : [ "unciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "unzo" ],
+			[ "unces", "uncís" ],
+			[ "unce" ],
+			[ "uncimos" ],
+			[ "uncís", "uncen" ],
+			[ "uncen" ]
+		],
+		"4" : [
+			[ "uncí" ],
+			[ "unciste" ],
+			[ "unció" ],
+			[ "uncimos" ],
+			[ "uncisteis", "uncieron" ],
+			[ "uncieron" ]
+		],
+		"5" : [
+			[ "uncía" ],
+			[ "uncías" ],
+			[ "uncía" ],
+			[ "uncíamos" ],
+			[ "uncíais", "uncían" ],
+			[ "uncían" ]
+		],
+		"6" : [
+			[ "unciría" ],
+			[ "uncirías" ],
+			[ "unciría" ],
+			[ "unciríamos" ],
+			[ "unciríais", "uncirían" ],
+			[ "uncirían" ]
+		],
+		"7" : [
+			[ "unciré" ],
+			[ "uncirás" ],
+			[ "uncirá" ],
+			[ "unciremos" ],
+			[ "unciréis", "uncirán" ],
+			[ "uncirán" ]
+		],
+		"8" : [
+			[ "unza" ],
+			[ "unzas" ],
+			[ "unza" ],
+			[ "unzamos" ],
+			[ "unzáis", "unzan" ],
+			[ "unzan" ]
+		],
+		"9" : [
+			[ "unciera" ],
+			[ "uncieras" ],
+			[ "unciera" ],
+			[ "unciéramos" ],
+			[ "uncierais", "uncieran" ],
+			[ "uncieran" ]
+		],
+		"10" : [
+			[ "unciese" ],
+			[ "uncieses" ],
+			[ "unciese" ],
+			[ "unciésemos" ],
+			[ "uncieseis", "unciesen" ],
+			[ "unciesen" ]
+		],
+		"11" : [
+			[ "unciere" ],
+			[ "uncieres" ],
+			[ "unciere" ],
+			[ "unciéremos" ],
+			[ "unciereis", "uncieren" ],
+			[ "uncieren" ]
+		],
+		"12" : {
+			"1" : [ "unce" ],
+			"2" : [ "unza" ],
+			"3" : [ "unzamos" ],
+			"4" : [ "uncid" ],
+			"5" : [ "unzan" ]
+		}
+	}
+}

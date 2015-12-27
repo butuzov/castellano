@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cafichear",
+	"word" : "cafichear",
+	"infinitivo" : "cafichear",
+	"participio" : [ "caficheado" ],
+	"gerundio" : [ "caficheando" ],
+	"tenses" : {
+		"3" : [
+			[ "caficheo" ],
+			[ "caficheas", "caficheás" ],
+			[ "cafichea" ],
+			[ "caficheamos" ],
+			[ "caficheáis", "cafichean" ],
+			[ "cafichean" ]
+		],
+		"4" : [
+			[ "caficheé" ],
+			[ "caficheaste" ],
+			[ "caficheó" ],
+			[ "caficheamos" ],
+			[ "caficheasteis", "cafichearon" ],
+			[ "cafichearon" ]
+		],
+		"5" : [
+			[ "caficheaba" ],
+			[ "caficheabas" ],
+			[ "caficheaba" ],
+			[ "caficheábamos" ],
+			[ "caficheabais", "caficheaban" ],
+			[ "caficheaban" ]
+		],
+		"6" : [
+			[ "cafichearía" ],
+			[ "cafichearías" ],
+			[ "cafichearía" ],
+			[ "cafichearíamos" ],
+			[ "cafichearíais", "cafichearían" ],
+			[ "cafichearían" ]
+		],
+		"7" : [
+			[ "cafichearé" ],
+			[ "cafichearás" ],
+			[ "caficheará" ],
+			[ "cafichearemos" ],
+			[ "cafichearéis", "cafichearán" ],
+			[ "cafichearán" ]
+		],
+		"8" : [
+			[ "cafichee" ],
+			[ "cafichees" ],
+			[ "cafichee" ],
+			[ "caficheemos" ],
+			[ "caficheéis", "caficheen" ],
+			[ "caficheen" ]
+		],
+		"9" : [
+			[ "caficheara" ],
+			[ "cafichearas" ],
+			[ "caficheara" ],
+			[ "caficheáramos" ],
+			[ "cafichearais", "cafichearan" ],
+			[ "cafichearan" ]
+		],
+		"10" : [
+			[ "cafichease" ],
+			[ "caficheases" ],
+			[ "cafichease" ],
+			[ "caficheásemos" ],
+			[ "caficheaseis", "caficheasen" ],
+			[ "caficheasen" ]
+		],
+		"11" : [
+			[ "caficheare" ],
+			[ "caficheares" ],
+			[ "caficheare" ],
+			[ "caficheáremos" ],
+			[ "caficheareis", "cafichearen" ],
+			[ "cafichearen" ]
+		],
+		"12" : {
+			"1" : [ "cafichea" ],
+			"2" : [ "cafichee" ],
+			"3" : [ "caficheemos" ],
+			"4" : [ "cafichead" ],
+			"5" : [ "caficheen" ]
+		}
+	}
+}

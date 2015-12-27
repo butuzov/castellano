@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alegrar",
+	"word" : "alegrar",
+	"infinitivo" : "alegrar",
+	"participio" : [ "alegrado" ],
+	"gerundio" : [ "alegrando" ],
+	"tenses" : {
+		"3" : [
+			[ "alegro" ],
+			[ "alegras", "alegrás" ],
+			[ "alegra" ],
+			[ "alegramos" ],
+			[ "alegráis", "alegran" ],
+			[ "alegran" ]
+		],
+		"4" : [
+			[ "alegré" ],
+			[ "alegraste" ],
+			[ "alegró" ],
+			[ "alegramos" ],
+			[ "alegrasteis", "alegraron" ],
+			[ "alegraron" ]
+		],
+		"5" : [
+			[ "alegraba" ],
+			[ "alegrabas" ],
+			[ "alegraba" ],
+			[ "alegrábamos" ],
+			[ "alegrabais", "alegraban" ],
+			[ "alegraban" ]
+		],
+		"6" : [
+			[ "alegraría" ],
+			[ "alegrarías" ],
+			[ "alegraría" ],
+			[ "alegraríamos" ],
+			[ "alegraríais", "alegrarían" ],
+			[ "alegrarían" ]
+		],
+		"7" : [
+			[ "alegraré" ],
+			[ "alegrarás" ],
+			[ "alegrará" ],
+			[ "alegraremos" ],
+			[ "alegraréis", "alegrarán" ],
+			[ "alegrarán" ]
+		],
+		"8" : [
+			[ "alegre" ],
+			[ "alegres" ],
+			[ "alegre" ],
+			[ "alegremos" ],
+			[ "alegréis", "alegren" ],
+			[ "alegren" ]
+		],
+		"9" : [
+			[ "alegrara" ],
+			[ "alegraras" ],
+			[ "alegrara" ],
+			[ "alegráramos" ],
+			[ "alegrarais", "alegraran" ],
+			[ "alegraran" ]
+		],
+		"10" : [
+			[ "alegrase" ],
+			[ "alegrases" ],
+			[ "alegrase" ],
+			[ "alegrásemos" ],
+			[ "alegraseis", "alegrasen" ],
+			[ "alegrasen" ]
+		],
+		"11" : [
+			[ "alegrare" ],
+			[ "alegrares" ],
+			[ "alegrare" ],
+			[ "alegráremos" ],
+			[ "alegrareis", "alegraren" ],
+			[ "alegraren" ]
+		],
+		"12" : {
+			"1" : [ "alegra" ],
+			"2" : [ "alegre" ],
+			"3" : [ "alegremos" ],
+			"4" : [ "alegrad" ],
+			"5" : [ "alegren" ]
+		}
+	}
+}

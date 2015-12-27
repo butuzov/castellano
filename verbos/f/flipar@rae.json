@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=flipar",
+	"word" : "flipar",
+	"infinitivo" : "flipar",
+	"participio" : [ "flipado" ],
+	"gerundio" : [ "flipando" ],
+	"tenses" : {
+		"3" : [
+			[ "flipo" ],
+			[ "flipas", "flipás" ],
+			[ "flipa" ],
+			[ "flipamos" ],
+			[ "flipáis", "flipan" ],
+			[ "flipan" ]
+		],
+		"4" : [
+			[ "flipé" ],
+			[ "flipaste" ],
+			[ "flipó" ],
+			[ "flipamos" ],
+			[ "flipasteis", "fliparon" ],
+			[ "fliparon" ]
+		],
+		"5" : [
+			[ "flipaba" ],
+			[ "flipabas" ],
+			[ "flipaba" ],
+			[ "flipábamos" ],
+			[ "flipabais", "flipaban" ],
+			[ "flipaban" ]
+		],
+		"6" : [
+			[ "fliparía" ],
+			[ "fliparías" ],
+			[ "fliparía" ],
+			[ "fliparíamos" ],
+			[ "fliparíais", "fliparían" ],
+			[ "fliparían" ]
+		],
+		"7" : [
+			[ "fliparé" ],
+			[ "fliparás" ],
+			[ "flipará" ],
+			[ "fliparemos" ],
+			[ "fliparéis", "fliparán" ],
+			[ "fliparán" ]
+		],
+		"8" : [
+			[ "flipe" ],
+			[ "flipes" ],
+			[ "flipe" ],
+			[ "flipemos" ],
+			[ "flipéis", "flipen" ],
+			[ "flipen" ]
+		],
+		"9" : [
+			[ "flipara" ],
+			[ "fliparas" ],
+			[ "flipara" ],
+			[ "flipáramos" ],
+			[ "fliparais", "fliparan" ],
+			[ "fliparan" ]
+		],
+		"10" : [
+			[ "flipase" ],
+			[ "flipases" ],
+			[ "flipase" ],
+			[ "flipásemos" ],
+			[ "flipaseis", "flipasen" ],
+			[ "flipasen" ]
+		],
+		"11" : [
+			[ "flipare" ],
+			[ "flipares" ],
+			[ "flipare" ],
+			[ "flipáremos" ],
+			[ "flipareis", "fliparen" ],
+			[ "fliparen" ]
+		],
+		"12" : {
+			"1" : [ "flipa" ],
+			"2" : [ "flipe" ],
+			"3" : [ "flipemos" ],
+			"4" : [ "flipad" ],
+			"5" : [ "flipen" ]
+		}
+	}
+}

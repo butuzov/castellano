@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bonificar",
+	"word" : "bonificar",
+	"infinitivo" : "bonificar",
+	"participio" : [ "bonificado" ],
+	"gerundio" : [ "bonificando" ],
+	"tenses" : {
+		"3" : [
+			[ "bonifico" ],
+			[ "bonificas", "bonificás" ],
+			[ "bonifica" ],
+			[ "bonificamos" ],
+			[ "bonificáis", "bonifican" ],
+			[ "bonifican" ]
+		],
+		"4" : [
+			[ "bonifiqué" ],
+			[ "bonificaste" ],
+			[ "bonificó" ],
+			[ "bonificamos" ],
+			[ "bonificasteis", "bonificaron" ],
+			[ "bonificaron" ]
+		],
+		"5" : [
+			[ "bonificaba" ],
+			[ "bonificabas" ],
+			[ "bonificaba" ],
+			[ "bonificábamos" ],
+			[ "bonificabais", "bonificaban" ],
+			[ "bonificaban" ]
+		],
+		"6" : [
+			[ "bonificaría" ],
+			[ "bonificarías" ],
+			[ "bonificaría" ],
+			[ "bonificaríamos" ],
+			[ "bonificaríais", "bonificarían" ],
+			[ "bonificarían" ]
+		],
+		"7" : [
+			[ "bonificaré" ],
+			[ "bonificarás" ],
+			[ "bonificará" ],
+			[ "bonificaremos" ],
+			[ "bonificaréis", "bonificarán" ],
+			[ "bonificarán" ]
+		],
+		"8" : [
+			[ "bonifique" ],
+			[ "bonifiques" ],
+			[ "bonifique" ],
+			[ "bonifiquemos" ],
+			[ "bonifiquéis", "bonifiquen" ],
+			[ "bonifiquen" ]
+		],
+		"9" : [
+			[ "bonificara" ],
+			[ "bonificaras" ],
+			[ "bonificara" ],
+			[ "bonificáramos" ],
+			[ "bonificarais", "bonificaran" ],
+			[ "bonificaran" ]
+		],
+		"10" : [
+			[ "bonificase" ],
+			[ "bonificases" ],
+			[ "bonificase" ],
+			[ "bonificásemos" ],
+			[ "bonificaseis", "bonificasen" ],
+			[ "bonificasen" ]
+		],
+		"11" : [
+			[ "bonificare" ],
+			[ "bonificares" ],
+			[ "bonificare" ],
+			[ "bonificáremos" ],
+			[ "bonificareis", "bonificaren" ],
+			[ "bonificaren" ]
+		],
+		"12" : {
+			"1" : [ "bonifica" ],
+			"2" : [ "bonifique" ],
+			"3" : [ "bonifiquemos" ],
+			"4" : [ "bonificad" ],
+			"5" : [ "bonifiquen" ]
+		}
+	}
+}

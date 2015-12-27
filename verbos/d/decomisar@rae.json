@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=decomisar",
+	"word" : "decomisar",
+	"infinitivo" : "decomisar",
+	"participio" : [ "decomisado" ],
+	"gerundio" : [ "decomisando" ],
+	"tenses" : {
+		"3" : [
+			[ "decomiso" ],
+			[ "decomisas", "decomisás" ],
+			[ "decomisa" ],
+			[ "decomisamos" ],
+			[ "decomisáis", "decomisan" ],
+			[ "decomisan" ]
+		],
+		"4" : [
+			[ "decomisé" ],
+			[ "decomisaste" ],
+			[ "decomisó" ],
+			[ "decomisamos" ],
+			[ "decomisasteis", "decomisaron" ],
+			[ "decomisaron" ]
+		],
+		"5" : [
+			[ "decomisaba" ],
+			[ "decomisabas" ],
+			[ "decomisaba" ],
+			[ "decomisábamos" ],
+			[ "decomisabais", "decomisaban" ],
+			[ "decomisaban" ]
+		],
+		"6" : [
+			[ "decomisaría" ],
+			[ "decomisarías" ],
+			[ "decomisaría" ],
+			[ "decomisaríamos" ],
+			[ "decomisaríais", "decomisarían" ],
+			[ "decomisarían" ]
+		],
+		"7" : [
+			[ "decomisaré" ],
+			[ "decomisarás" ],
+			[ "decomisará" ],
+			[ "decomisaremos" ],
+			[ "decomisaréis", "decomisarán" ],
+			[ "decomisarán" ]
+		],
+		"8" : [
+			[ "decomise" ],
+			[ "decomises" ],
+			[ "decomise" ],
+			[ "decomisemos" ],
+			[ "decomiséis", "decomisen" ],
+			[ "decomisen" ]
+		],
+		"9" : [
+			[ "decomisara" ],
+			[ "decomisaras" ],
+			[ "decomisara" ],
+			[ "decomisáramos" ],
+			[ "decomisarais", "decomisaran" ],
+			[ "decomisaran" ]
+		],
+		"10" : [
+			[ "decomisase" ],
+			[ "decomisases" ],
+			[ "decomisase" ],
+			[ "decomisásemos" ],
+			[ "decomisaseis", "decomisasen" ],
+			[ "decomisasen" ]
+		],
+		"11" : [
+			[ "decomisare" ],
+			[ "decomisares" ],
+			[ "decomisare" ],
+			[ "decomisáremos" ],
+			[ "decomisareis", "decomisaren" ],
+			[ "decomisaren" ]
+		],
+		"12" : {
+			"1" : [ "decomisa" ],
+			"2" : [ "decomise" ],
+			"3" : [ "decomisemos" ],
+			"4" : [ "decomisad" ],
+			"5" : [ "decomisen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abombar",
+	"word" : "abombar",
+	"infinitivo" : "abombar",
+	"participio" : [ "abombado" ],
+	"gerundio" : [ "abombando" ],
+	"tenses" : {
+		"3" : [
+			[ "abombo" ],
+			[ "abombas", "abombás" ],
+			[ "abomba" ],
+			[ "abombamos" ],
+			[ "abombáis", "abomban" ],
+			[ "abomban" ]
+		],
+		"4" : [
+			[ "abombé" ],
+			[ "abombaste" ],
+			[ "abombó" ],
+			[ "abombamos" ],
+			[ "abombasteis", "abombaron" ],
+			[ "abombaron" ]
+		],
+		"5" : [
+			[ "abombaba" ],
+			[ "abombabas" ],
+			[ "abombaba" ],
+			[ "abombábamos" ],
+			[ "abombabais", "abombaban" ],
+			[ "abombaban" ]
+		],
+		"6" : [
+			[ "abombaría" ],
+			[ "abombarías" ],
+			[ "abombaría" ],
+			[ "abombaríamos" ],
+			[ "abombaríais", "abombarían" ],
+			[ "abombarían" ]
+		],
+		"7" : [
+			[ "abombaré" ],
+			[ "abombarás" ],
+			[ "abombará" ],
+			[ "abombaremos" ],
+			[ "abombaréis", "abombarán" ],
+			[ "abombarán" ]
+		],
+		"8" : [
+			[ "abombe" ],
+			[ "abombes" ],
+			[ "abombe" ],
+			[ "abombemos" ],
+			[ "abombéis", "abomben" ],
+			[ "abomben" ]
+		],
+		"9" : [
+			[ "abombara" ],
+			[ "abombaras" ],
+			[ "abombara" ],
+			[ "abombáramos" ],
+			[ "abombarais", "abombaran" ],
+			[ "abombaran" ]
+		],
+		"10" : [
+			[ "abombase" ],
+			[ "abombases" ],
+			[ "abombase" ],
+			[ "abombásemos" ],
+			[ "abombaseis", "abombasen" ],
+			[ "abombasen" ]
+		],
+		"11" : [
+			[ "abombare" ],
+			[ "abombares" ],
+			[ "abombare" ],
+			[ "abombáremos" ],
+			[ "abombareis", "abombaren" ],
+			[ "abombaren" ]
+		],
+		"12" : {
+			"1" : [ "abomba" ],
+			"2" : [ "abombe" ],
+			"3" : [ "abombemos" ],
+			"4" : [ "abombad" ],
+			"5" : [ "abomben" ]
+		}
+	}
+}

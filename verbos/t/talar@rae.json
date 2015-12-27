@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=talar",
+	"word" : "talar",
+	"infinitivo" : "talar",
+	"participio" : [ "talado" ],
+	"gerundio" : [ "talando" ],
+	"tenses" : {
+		"3" : [
+			[ "talo" ],
+			[ "talas", "talás" ],
+			[ "tala" ],
+			[ "talamos" ],
+			[ "taláis", "talan" ],
+			[ "talan" ]
+		],
+		"4" : [
+			[ "talé" ],
+			[ "talaste" ],
+			[ "taló" ],
+			[ "talamos" ],
+			[ "talasteis", "talaron" ],
+			[ "talaron" ]
+		],
+		"5" : [
+			[ "talaba" ],
+			[ "talabas" ],
+			[ "talaba" ],
+			[ "talábamos" ],
+			[ "talabais", "talaban" ],
+			[ "talaban" ]
+		],
+		"6" : [
+			[ "talaría" ],
+			[ "talarías" ],
+			[ "talaría" ],
+			[ "talaríamos" ],
+			[ "talaríais", "talarían" ],
+			[ "talarían" ]
+		],
+		"7" : [
+			[ "talaré" ],
+			[ "talarás" ],
+			[ "talará" ],
+			[ "talaremos" ],
+			[ "talaréis", "talarán" ],
+			[ "talarán" ]
+		],
+		"8" : [
+			[ "tale" ],
+			[ "tales" ],
+			[ "tale" ],
+			[ "talemos" ],
+			[ "taléis", "talen" ],
+			[ "talen" ]
+		],
+		"9" : [
+			[ "talara" ],
+			[ "talaras" ],
+			[ "talara" ],
+			[ "taláramos" ],
+			[ "talarais", "talaran" ],
+			[ "talaran" ]
+		],
+		"10" : [
+			[ "talase" ],
+			[ "talases" ],
+			[ "talase" ],
+			[ "talásemos" ],
+			[ "talaseis", "talasen" ],
+			[ "talasen" ]
+		],
+		"11" : [
+			[ "talare" ],
+			[ "talares" ],
+			[ "talare" ],
+			[ "taláremos" ],
+			[ "talareis", "talaren" ],
+			[ "talaren" ]
+		],
+		"12" : {
+			"1" : [ "tala" ],
+			"2" : [ "tale" ],
+			"3" : [ "talemos" ],
+			"4" : [ "talad" ],
+			"5" : [ "talen" ]
+		}
+	}
+}

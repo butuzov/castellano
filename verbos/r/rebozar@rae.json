@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rebozar",
+	"word" : "rebozar",
+	"infinitivo" : "rebozar",
+	"participio" : [ "rebozado" ],
+	"gerundio" : [ "rebozando" ],
+	"tenses" : {
+		"3" : [
+			[ "rebozo" ],
+			[ "rebozas", "rebozás" ],
+			[ "reboza" ],
+			[ "rebozamos" ],
+			[ "rebozáis", "rebozan" ],
+			[ "rebozan" ]
+		],
+		"4" : [
+			[ "rebocé" ],
+			[ "rebozaste" ],
+			[ "rebozó" ],
+			[ "rebozamos" ],
+			[ "rebozasteis", "rebozaron" ],
+			[ "rebozaron" ]
+		],
+		"5" : [
+			[ "rebozaba" ],
+			[ "rebozabas" ],
+			[ "rebozaba" ],
+			[ "rebozábamos" ],
+			[ "rebozabais", "rebozaban" ],
+			[ "rebozaban" ]
+		],
+		"6" : [
+			[ "rebozaría" ],
+			[ "rebozarías" ],
+			[ "rebozaría" ],
+			[ "rebozaríamos" ],
+			[ "rebozaríais", "rebozarían" ],
+			[ "rebozarían" ]
+		],
+		"7" : [
+			[ "rebozaré" ],
+			[ "rebozarás" ],
+			[ "rebozará" ],
+			[ "rebozaremos" ],
+			[ "rebozaréis", "rebozarán" ],
+			[ "rebozarán" ]
+		],
+		"8" : [
+			[ "reboce" ],
+			[ "reboces" ],
+			[ "reboce" ],
+			[ "rebocemos" ],
+			[ "rebocéis", "rebocen" ],
+			[ "rebocen" ]
+		],
+		"9" : [
+			[ "rebozara" ],
+			[ "rebozaras" ],
+			[ "rebozara" ],
+			[ "rebozáramos" ],
+			[ "rebozarais", "rebozaran" ],
+			[ "rebozaran" ]
+		],
+		"10" : [
+			[ "rebozase" ],
+			[ "rebozases" ],
+			[ "rebozase" ],
+			[ "rebozásemos" ],
+			[ "rebozaseis", "rebozasen" ],
+			[ "rebozasen" ]
+		],
+		"11" : [
+			[ "rebozare" ],
+			[ "rebozares" ],
+			[ "rebozare" ],
+			[ "rebozáremos" ],
+			[ "rebozareis", "rebozaren" ],
+			[ "rebozaren" ]
+		],
+		"12" : {
+			"1" : [ "reboza" ],
+			"2" : [ "reboce" ],
+			"3" : [ "rebocemos" ],
+			"4" : [ "rebozad" ],
+			"5" : [ "rebocen" ]
+		}
+	}
+}

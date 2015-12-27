@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escanear",
+	"word" : "escanear",
+	"infinitivo" : "escanear",
+	"participio" : [ "escaneado" ],
+	"gerundio" : [ "escaneando" ],
+	"tenses" : {
+		"3" : [
+			[ "escaneo" ],
+			[ "escaneas", "escaneás" ],
+			[ "escanea" ],
+			[ "escaneamos" ],
+			[ "escaneáis", "escanean" ],
+			[ "escanean" ]
+		],
+		"4" : [
+			[ "escaneé" ],
+			[ "escaneaste" ],
+			[ "escaneó" ],
+			[ "escaneamos" ],
+			[ "escaneasteis", "escanearon" ],
+			[ "escanearon" ]
+		],
+		"5" : [
+			[ "escaneaba" ],
+			[ "escaneabas" ],
+			[ "escaneaba" ],
+			[ "escaneábamos" ],
+			[ "escaneabais", "escaneaban" ],
+			[ "escaneaban" ]
+		],
+		"6" : [
+			[ "escanearía" ],
+			[ "escanearías" ],
+			[ "escanearía" ],
+			[ "escanearíamos" ],
+			[ "escanearíais", "escanearían" ],
+			[ "escanearían" ]
+		],
+		"7" : [
+			[ "escanearé" ],
+			[ "escanearás" ],
+			[ "escaneará" ],
+			[ "escanearemos" ],
+			[ "escanearéis", "escanearán" ],
+			[ "escanearán" ]
+		],
+		"8" : [
+			[ "escanee" ],
+			[ "escanees" ],
+			[ "escanee" ],
+			[ "escaneemos" ],
+			[ "escaneéis", "escaneen" ],
+			[ "escaneen" ]
+		],
+		"9" : [
+			[ "escaneara" ],
+			[ "escanearas" ],
+			[ "escaneara" ],
+			[ "escaneáramos" ],
+			[ "escanearais", "escanearan" ],
+			[ "escanearan" ]
+		],
+		"10" : [
+			[ "escanease" ],
+			[ "escaneases" ],
+			[ "escanease" ],
+			[ "escaneásemos" ],
+			[ "escaneaseis", "escaneasen" ],
+			[ "escaneasen" ]
+		],
+		"11" : [
+			[ "escaneare" ],
+			[ "escaneares" ],
+			[ "escaneare" ],
+			[ "escaneáremos" ],
+			[ "escaneareis", "escanearen" ],
+			[ "escanearen" ]
+		],
+		"12" : {
+			"1" : [ "escanea" ],
+			"2" : [ "escanee" ],
+			"3" : [ "escaneemos" ],
+			"4" : [ "escanead" ],
+			"5" : [ "escaneen" ]
+		}
+	}
+}

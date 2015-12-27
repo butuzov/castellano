@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cultivar",
+	"word" : "cultivar",
+	"infinitivo" : "cultivar",
+	"participio" : [ "cultivado" ],
+	"gerundio" : [ "cultivando" ],
+	"tenses" : {
+		"3" : [
+			[ "cultivo" ],
+			[ "cultivas", "cultivás" ],
+			[ "cultiva" ],
+			[ "cultivamos" ],
+			[ "cultiváis", "cultivan" ],
+			[ "cultivan" ]
+		],
+		"4" : [
+			[ "cultivé" ],
+			[ "cultivaste" ],
+			[ "cultivó" ],
+			[ "cultivamos" ],
+			[ "cultivasteis", "cultivaron" ],
+			[ "cultivaron" ]
+		],
+		"5" : [
+			[ "cultivaba" ],
+			[ "cultivabas" ],
+			[ "cultivaba" ],
+			[ "cultivábamos" ],
+			[ "cultivabais", "cultivaban" ],
+			[ "cultivaban" ]
+		],
+		"6" : [
+			[ "cultivaría" ],
+			[ "cultivarías" ],
+			[ "cultivaría" ],
+			[ "cultivaríamos" ],
+			[ "cultivaríais", "cultivarían" ],
+			[ "cultivarían" ]
+		],
+		"7" : [
+			[ "cultivaré" ],
+			[ "cultivarás" ],
+			[ "cultivará" ],
+			[ "cultivaremos" ],
+			[ "cultivaréis", "cultivarán" ],
+			[ "cultivarán" ]
+		],
+		"8" : [
+			[ "cultive" ],
+			[ "cultives" ],
+			[ "cultive" ],
+			[ "cultivemos" ],
+			[ "cultivéis", "cultiven" ],
+			[ "cultiven" ]
+		],
+		"9" : [
+			[ "cultivara" ],
+			[ "cultivaras" ],
+			[ "cultivara" ],
+			[ "cultiváramos" ],
+			[ "cultivarais", "cultivaran" ],
+			[ "cultivaran" ]
+		],
+		"10" : [
+			[ "cultivase" ],
+			[ "cultivases" ],
+			[ "cultivase" ],
+			[ "cultivásemos" ],
+			[ "cultivaseis", "cultivasen" ],
+			[ "cultivasen" ]
+		],
+		"11" : [
+			[ "cultivare" ],
+			[ "cultivares" ],
+			[ "cultivare" ],
+			[ "cultiváremos" ],
+			[ "cultivareis", "cultivaren" ],
+			[ "cultivaren" ]
+		],
+		"12" : {
+			"1" : [ "cultiva" ],
+			"2" : [ "cultive" ],
+			"3" : [ "cultivemos" ],
+			"4" : [ "cultivad" ],
+			"5" : [ "cultiven" ]
+		}
+	}
+}

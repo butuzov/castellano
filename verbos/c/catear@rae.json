@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=catear",
+	"word" : "catear",
+	"infinitivo" : "catear",
+	"participio" : [ "cateado" ],
+	"gerundio" : [ "cateando" ],
+	"tenses" : {
+		"3" : [
+			[ "cateo" ],
+			[ "cateas", "cateás" ],
+			[ "catea" ],
+			[ "cateamos" ],
+			[ "cateáis", "catean" ],
+			[ "catean" ]
+		],
+		"4" : [
+			[ "cateé" ],
+			[ "cateaste" ],
+			[ "cateó" ],
+			[ "cateamos" ],
+			[ "cateasteis", "catearon" ],
+			[ "catearon" ]
+		],
+		"5" : [
+			[ "cateaba" ],
+			[ "cateabas" ],
+			[ "cateaba" ],
+			[ "cateábamos" ],
+			[ "cateabais", "cateaban" ],
+			[ "cateaban" ]
+		],
+		"6" : [
+			[ "catearía" ],
+			[ "catearías" ],
+			[ "catearía" ],
+			[ "catearíamos" ],
+			[ "catearíais", "catearían" ],
+			[ "catearían" ]
+		],
+		"7" : [
+			[ "catearé" ],
+			[ "catearás" ],
+			[ "cateará" ],
+			[ "catearemos" ],
+			[ "catearéis", "catearán" ],
+			[ "catearán" ]
+		],
+		"8" : [
+			[ "catee" ],
+			[ "catees" ],
+			[ "catee" ],
+			[ "cateemos" ],
+			[ "cateéis", "cateen" ],
+			[ "cateen" ]
+		],
+		"9" : [
+			[ "cateara" ],
+			[ "catearas" ],
+			[ "cateara" ],
+			[ "cateáramos" ],
+			[ "catearais", "catearan" ],
+			[ "catearan" ]
+		],
+		"10" : [
+			[ "catease" ],
+			[ "cateases" ],
+			[ "catease" ],
+			[ "cateásemos" ],
+			[ "cateaseis", "cateasen" ],
+			[ "cateasen" ]
+		],
+		"11" : [
+			[ "cateare" ],
+			[ "cateares" ],
+			[ "cateare" ],
+			[ "cateáremos" ],
+			[ "cateareis", "catearen" ],
+			[ "catearen" ]
+		],
+		"12" : {
+			"1" : [ "catea" ],
+			"2" : [ "catee" ],
+			"3" : [ "cateemos" ],
+			"4" : [ "catead" ],
+			"5" : [ "cateen" ]
+		}
+	}
+}

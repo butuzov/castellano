@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=insidiar",
+	"word" : "insidiar",
+	"infinitivo" : "insidiar",
+	"participio" : [ "insidiado" ],
+	"gerundio" : [ "insidiando" ],
+	"tenses" : {
+		"3" : [
+			[ "insidio" ],
+			[ "insidias", "insidiás" ],
+			[ "insidia" ],
+			[ "insidiamos" ],
+			[ "insidiáis", "insidian" ],
+			[ "insidian" ]
+		],
+		"4" : [
+			[ "insidié" ],
+			[ "insidiaste" ],
+			[ "insidió" ],
+			[ "insidiamos" ],
+			[ "insidiasteis", "insidiaron" ],
+			[ "insidiaron" ]
+		],
+		"5" : [
+			[ "insidiaba" ],
+			[ "insidiabas" ],
+			[ "insidiaba" ],
+			[ "insidiábamos" ],
+			[ "insidiabais", "insidiaban" ],
+			[ "insidiaban" ]
+		],
+		"6" : [
+			[ "insidiaría" ],
+			[ "insidiarías" ],
+			[ "insidiaría" ],
+			[ "insidiaríamos" ],
+			[ "insidiaríais", "insidiarían" ],
+			[ "insidiarían" ]
+		],
+		"7" : [
+			[ "insidiaré" ],
+			[ "insidiarás" ],
+			[ "insidiará" ],
+			[ "insidiaremos" ],
+			[ "insidiaréis", "insidiarán" ],
+			[ "insidiarán" ]
+		],
+		"8" : [
+			[ "insidie" ],
+			[ "insidies" ],
+			[ "insidie" ],
+			[ "insidiemos" ],
+			[ "insidiéis", "insidien" ],
+			[ "insidien" ]
+		],
+		"9" : [
+			[ "insidiara" ],
+			[ "insidiaras" ],
+			[ "insidiara" ],
+			[ "insidiáramos" ],
+			[ "insidiarais", "insidiaran" ],
+			[ "insidiaran" ]
+		],
+		"10" : [
+			[ "insidiase" ],
+			[ "insidiases" ],
+			[ "insidiase" ],
+			[ "insidiásemos" ],
+			[ "insidiaseis", "insidiasen" ],
+			[ "insidiasen" ]
+		],
+		"11" : [
+			[ "insidiare" ],
+			[ "insidiares" ],
+			[ "insidiare" ],
+			[ "insidiáremos" ],
+			[ "insidiareis", "insidiaren" ],
+			[ "insidiaren" ]
+		],
+		"12" : {
+			"1" : [ "insidia" ],
+			"2" : [ "insidie" ],
+			"3" : [ "insidiemos" ],
+			"4" : [ "insidiad" ],
+			"5" : [ "insidien" ]
+		}
+	}
+}

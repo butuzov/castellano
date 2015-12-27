@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=puntar",
+	"word" : "puntar",
+	"infinitivo" : "puntar",
+	"participio" : [ "puntado" ],
+	"gerundio" : [ "puntando" ],
+	"tenses" : {
+		"3" : [
+			[ "punto" ],
+			[ "puntas", "puntás" ],
+			[ "punta" ],
+			[ "puntamos" ],
+			[ "puntáis", "puntan" ],
+			[ "puntan" ]
+		],
+		"4" : [
+			[ "punté" ],
+			[ "puntaste" ],
+			[ "puntó" ],
+			[ "puntamos" ],
+			[ "puntasteis", "puntaron" ],
+			[ "puntaron" ]
+		],
+		"5" : [
+			[ "puntaba" ],
+			[ "puntabas" ],
+			[ "puntaba" ],
+			[ "puntábamos" ],
+			[ "puntabais", "puntaban" ],
+			[ "puntaban" ]
+		],
+		"6" : [
+			[ "puntaría" ],
+			[ "puntarías" ],
+			[ "puntaría" ],
+			[ "puntaríamos" ],
+			[ "puntaríais", "puntarían" ],
+			[ "puntarían" ]
+		],
+		"7" : [
+			[ "puntaré" ],
+			[ "puntarás" ],
+			[ "puntará" ],
+			[ "puntaremos" ],
+			[ "puntaréis", "puntarán" ],
+			[ "puntarán" ]
+		],
+		"8" : [
+			[ "punte" ],
+			[ "puntes" ],
+			[ "punte" ],
+			[ "puntemos" ],
+			[ "puntéis", "punten" ],
+			[ "punten" ]
+		],
+		"9" : [
+			[ "puntara" ],
+			[ "puntaras" ],
+			[ "puntara" ],
+			[ "puntáramos" ],
+			[ "puntarais", "puntaran" ],
+			[ "puntaran" ]
+		],
+		"10" : [
+			[ "puntase" ],
+			[ "puntases" ],
+			[ "puntase" ],
+			[ "puntásemos" ],
+			[ "puntaseis", "puntasen" ],
+			[ "puntasen" ]
+		],
+		"11" : [
+			[ "puntare" ],
+			[ "puntares" ],
+			[ "puntare" ],
+			[ "puntáremos" ],
+			[ "puntareis", "puntaren" ],
+			[ "puntaren" ]
+		],
+		"12" : {
+			"1" : [ "punta" ],
+			"2" : [ "punte" ],
+			"3" : [ "puntemos" ],
+			"4" : [ "puntad" ],
+			"5" : [ "punten" ]
+		}
+	}
+}

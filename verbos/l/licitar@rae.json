@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=licitar",
+	"word" : "licitar",
+	"infinitivo" : "licitar",
+	"participio" : [ "licitado" ],
+	"gerundio" : [ "licitando" ],
+	"tenses" : {
+		"3" : [
+			[ "licito" ],
+			[ "licitas", "licitás" ],
+			[ "licita" ],
+			[ "licitamos" ],
+			[ "licitáis", "licitan" ],
+			[ "licitan" ]
+		],
+		"4" : [
+			[ "licité" ],
+			[ "licitaste" ],
+			[ "licitó" ],
+			[ "licitamos" ],
+			[ "licitasteis", "licitaron" ],
+			[ "licitaron" ]
+		],
+		"5" : [
+			[ "licitaba" ],
+			[ "licitabas" ],
+			[ "licitaba" ],
+			[ "licitábamos" ],
+			[ "licitabais", "licitaban" ],
+			[ "licitaban" ]
+		],
+		"6" : [
+			[ "licitaría" ],
+			[ "licitarías" ],
+			[ "licitaría" ],
+			[ "licitaríamos" ],
+			[ "licitaríais", "licitarían" ],
+			[ "licitarían" ]
+		],
+		"7" : [
+			[ "licitaré" ],
+			[ "licitarás" ],
+			[ "licitará" ],
+			[ "licitaremos" ],
+			[ "licitaréis", "licitarán" ],
+			[ "licitarán" ]
+		],
+		"8" : [
+			[ "licite" ],
+			[ "licites" ],
+			[ "licite" ],
+			[ "licitemos" ],
+			[ "licitéis", "liciten" ],
+			[ "liciten" ]
+		],
+		"9" : [
+			[ "licitara" ],
+			[ "licitaras" ],
+			[ "licitara" ],
+			[ "licitáramos" ],
+			[ "licitarais", "licitaran" ],
+			[ "licitaran" ]
+		],
+		"10" : [
+			[ "licitase" ],
+			[ "licitases" ],
+			[ "licitase" ],
+			[ "licitásemos" ],
+			[ "licitaseis", "licitasen" ],
+			[ "licitasen" ]
+		],
+		"11" : [
+			[ "licitare" ],
+			[ "licitares" ],
+			[ "licitare" ],
+			[ "licitáremos" ],
+			[ "licitareis", "licitaren" ],
+			[ "licitaren" ]
+		],
+		"12" : {
+			"1" : [ "licita" ],
+			"2" : [ "licite" ],
+			"3" : [ "licitemos" ],
+			"4" : [ "licitad" ],
+			"5" : [ "liciten" ]
+		}
+	}
+}

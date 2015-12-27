@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=guillotinar",
+	"word" : "guillotinar",
+	"infinitivo" : "guillotinar",
+	"participio" : [ "guillotinado" ],
+	"gerundio" : [ "guillotinando" ],
+	"tenses" : {
+		"3" : [
+			[ "guillotino" ],
+			[ "guillotinas", "guillotinás" ],
+			[ "guillotina" ],
+			[ "guillotinamos" ],
+			[ "guillotináis", "guillotinan" ],
+			[ "guillotinan" ]
+		],
+		"4" : [
+			[ "guillotiné" ],
+			[ "guillotinaste" ],
+			[ "guillotinó" ],
+			[ "guillotinamos" ],
+			[ "guillotinasteis", "guillotinaron" ],
+			[ "guillotinaron" ]
+		],
+		"5" : [
+			[ "guillotinaba" ],
+			[ "guillotinabas" ],
+			[ "guillotinaba" ],
+			[ "guillotinábamos" ],
+			[ "guillotinabais", "guillotinaban" ],
+			[ "guillotinaban" ]
+		],
+		"6" : [
+			[ "guillotinaría" ],
+			[ "guillotinarías" ],
+			[ "guillotinaría" ],
+			[ "guillotinaríamos" ],
+			[ "guillotinaríais", "guillotinarían" ],
+			[ "guillotinarían" ]
+		],
+		"7" : [
+			[ "guillotinaré" ],
+			[ "guillotinarás" ],
+			[ "guillotinará" ],
+			[ "guillotinaremos" ],
+			[ "guillotinaréis", "guillotinarán" ],
+			[ "guillotinarán" ]
+		],
+		"8" : [
+			[ "guillotine" ],
+			[ "guillotines" ],
+			[ "guillotine" ],
+			[ "guillotinemos" ],
+			[ "guillotinéis", "guillotinen" ],
+			[ "guillotinen" ]
+		],
+		"9" : [
+			[ "guillotinara" ],
+			[ "guillotinaras" ],
+			[ "guillotinara" ],
+			[ "guillotináramos" ],
+			[ "guillotinarais", "guillotinaran" ],
+			[ "guillotinaran" ]
+		],
+		"10" : [
+			[ "guillotinase" ],
+			[ "guillotinases" ],
+			[ "guillotinase" ],
+			[ "guillotinásemos" ],
+			[ "guillotinaseis", "guillotinasen" ],
+			[ "guillotinasen" ]
+		],
+		"11" : [
+			[ "guillotinare" ],
+			[ "guillotinares" ],
+			[ "guillotinare" ],
+			[ "guillotináremos" ],
+			[ "guillotinareis", "guillotinaren" ],
+			[ "guillotinaren" ]
+		],
+		"12" : {
+			"1" : [ "guillotina" ],
+			"2" : [ "guillotine" ],
+			"3" : [ "guillotinemos" ],
+			"4" : [ "guillotinad" ],
+			"5" : [ "guillotinen" ]
+		}
+	}
+}

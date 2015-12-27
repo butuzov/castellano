@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=percutir",
+	"word" : "percutir",
+	"infinitivo" : "percutir",
+	"participio" : [ "percutido" ],
+	"gerundio" : [ "percutiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "percuto" ],
+			[ "percutes", "percutís" ],
+			[ "percute" ],
+			[ "percutimos" ],
+			[ "percutís", "percuten" ],
+			[ "percuten" ]
+		],
+		"4" : [
+			[ "percutí" ],
+			[ "percutiste" ],
+			[ "percutió" ],
+			[ "percutimos" ],
+			[ "percutisteis", "percutieron" ],
+			[ "percutieron" ]
+		],
+		"5" : [
+			[ "percutía" ],
+			[ "percutías" ],
+			[ "percutía" ],
+			[ "percutíamos" ],
+			[ "percutíais", "percutían" ],
+			[ "percutían" ]
+		],
+		"6" : [
+			[ "percutiría" ],
+			[ "percutirías" ],
+			[ "percutiría" ],
+			[ "percutiríamos" ],
+			[ "percutiríais", "percutirían" ],
+			[ "percutirían" ]
+		],
+		"7" : [
+			[ "percutiré" ],
+			[ "percutirás" ],
+			[ "percutirá" ],
+			[ "percutiremos" ],
+			[ "percutiréis", "percutirán" ],
+			[ "percutirán" ]
+		],
+		"8" : [
+			[ "percuta" ],
+			[ "percutas" ],
+			[ "percuta" ],
+			[ "percutamos" ],
+			[ "percutáis", "percutan" ],
+			[ "percutan" ]
+		],
+		"9" : [
+			[ "percutiera" ],
+			[ "percutieras" ],
+			[ "percutiera" ],
+			[ "percutiéramos" ],
+			[ "percutierais", "percutieran" ],
+			[ "percutieran" ]
+		],
+		"10" : [
+			[ "percutiese" ],
+			[ "percutieses" ],
+			[ "percutiese" ],
+			[ "percutiésemos" ],
+			[ "percutieseis", "percutiesen" ],
+			[ "percutiesen" ]
+		],
+		"11" : [
+			[ "percutiere" ],
+			[ "percutieres" ],
+			[ "percutiere" ],
+			[ "percutiéremos" ],
+			[ "percutiereis", "percutieren" ],
+			[ "percutieren" ]
+		],
+		"12" : {
+			"1" : [ "percute" ],
+			"2" : [ "percuta" ],
+			"3" : [ "percutamos" ],
+			"4" : [ "percutid" ],
+			"5" : [ "percutan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mandrilar",
+	"word" : "mandrilar",
+	"infinitivo" : "mandrilar",
+	"participio" : [ "mandrilado" ],
+	"gerundio" : [ "mandrilando" ],
+	"tenses" : {
+		"3" : [
+			[ "mandrilo" ],
+			[ "mandrilas", "mandrilás" ],
+			[ "mandrila" ],
+			[ "mandrilamos" ],
+			[ "mandriláis", "mandrilan" ],
+			[ "mandrilan" ]
+		],
+		"4" : [
+			[ "mandrilé" ],
+			[ "mandrilaste" ],
+			[ "mandriló" ],
+			[ "mandrilamos" ],
+			[ "mandrilasteis", "mandrilaron" ],
+			[ "mandrilaron" ]
+		],
+		"5" : [
+			[ "mandrilaba" ],
+			[ "mandrilabas" ],
+			[ "mandrilaba" ],
+			[ "mandrilábamos" ],
+			[ "mandrilabais", "mandrilaban" ],
+			[ "mandrilaban" ]
+		],
+		"6" : [
+			[ "mandrilaría" ],
+			[ "mandrilarías" ],
+			[ "mandrilaría" ],
+			[ "mandrilaríamos" ],
+			[ "mandrilaríais", "mandrilarían" ],
+			[ "mandrilarían" ]
+		],
+		"7" : [
+			[ "mandrilaré" ],
+			[ "mandrilarás" ],
+			[ "mandrilará" ],
+			[ "mandrilaremos" ],
+			[ "mandrilaréis", "mandrilarán" ],
+			[ "mandrilarán" ]
+		],
+		"8" : [
+			[ "mandrile" ],
+			[ "mandriles" ],
+			[ "mandrile" ],
+			[ "mandrilemos" ],
+			[ "mandriléis", "mandrilen" ],
+			[ "mandrilen" ]
+		],
+		"9" : [
+			[ "mandrilara" ],
+			[ "mandrilaras" ],
+			[ "mandrilara" ],
+			[ "mandriláramos" ],
+			[ "mandrilarais", "mandrilaran" ],
+			[ "mandrilaran" ]
+		],
+		"10" : [
+			[ "mandrilase" ],
+			[ "mandrilases" ],
+			[ "mandrilase" ],
+			[ "mandrilásemos" ],
+			[ "mandrilaseis", "mandrilasen" ],
+			[ "mandrilasen" ]
+		],
+		"11" : [
+			[ "mandrilare" ],
+			[ "mandrilares" ],
+			[ "mandrilare" ],
+			[ "mandriláremos" ],
+			[ "mandrilareis", "mandrilaren" ],
+			[ "mandrilaren" ]
+		],
+		"12" : {
+			"1" : [ "mandrila" ],
+			"2" : [ "mandrile" ],
+			"3" : [ "mandrilemos" ],
+			"4" : [ "mandrilad" ],
+			"5" : [ "mandrilen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ensalzar",
+	"word" : "ensalzar",
+	"infinitivo" : "ensalzar",
+	"participio" : [ "ensalzado" ],
+	"gerundio" : [ "ensalzando" ],
+	"tenses" : {
+		"3" : [
+			[ "ensalzo" ],
+			[ "ensalzas", "ensalzás" ],
+			[ "ensalza" ],
+			[ "ensalzamos" ],
+			[ "ensalzáis", "ensalzan" ],
+			[ "ensalzan" ]
+		],
+		"4" : [
+			[ "ensalcé" ],
+			[ "ensalzaste" ],
+			[ "ensalzó" ],
+			[ "ensalzamos" ],
+			[ "ensalzasteis", "ensalzaron" ],
+			[ "ensalzaron" ]
+		],
+		"5" : [
+			[ "ensalzaba" ],
+			[ "ensalzabas" ],
+			[ "ensalzaba" ],
+			[ "ensalzábamos" ],
+			[ "ensalzabais", "ensalzaban" ],
+			[ "ensalzaban" ]
+		],
+		"6" : [
+			[ "ensalzaría" ],
+			[ "ensalzarías" ],
+			[ "ensalzaría" ],
+			[ "ensalzaríamos" ],
+			[ "ensalzaríais", "ensalzarían" ],
+			[ "ensalzarían" ]
+		],
+		"7" : [
+			[ "ensalzaré" ],
+			[ "ensalzarás" ],
+			[ "ensalzará" ],
+			[ "ensalzaremos" ],
+			[ "ensalzaréis", "ensalzarán" ],
+			[ "ensalzarán" ]
+		],
+		"8" : [
+			[ "ensalce" ],
+			[ "ensalces" ],
+			[ "ensalce" ],
+			[ "ensalcemos" ],
+			[ "ensalcéis", "ensalcen" ],
+			[ "ensalcen" ]
+		],
+		"9" : [
+			[ "ensalzara" ],
+			[ "ensalzaras" ],
+			[ "ensalzara" ],
+			[ "ensalzáramos" ],
+			[ "ensalzarais", "ensalzaran" ],
+			[ "ensalzaran" ]
+		],
+		"10" : [
+			[ "ensalzase" ],
+			[ "ensalzases" ],
+			[ "ensalzase" ],
+			[ "ensalzásemos" ],
+			[ "ensalzaseis", "ensalzasen" ],
+			[ "ensalzasen" ]
+		],
+		"11" : [
+			[ "ensalzare" ],
+			[ "ensalzares" ],
+			[ "ensalzare" ],
+			[ "ensalzáremos" ],
+			[ "ensalzareis", "ensalzaren" ],
+			[ "ensalzaren" ]
+		],
+		"12" : {
+			"1" : [ "ensalza" ],
+			"2" : [ "ensalce" ],
+			"3" : [ "ensalcemos" ],
+			"4" : [ "ensalzad" ],
+			"5" : [ "ensalcen" ]
+		}
+	}
+}

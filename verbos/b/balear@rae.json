@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=balear",
+	"word" : "balear",
+	"infinitivo" : "balear",
+	"participio" : [ "baleado" ],
+	"gerundio" : [ "baleando" ],
+	"tenses" : {
+		"3" : [
+			[ "baleo" ],
+			[ "baleas", "baleás" ],
+			[ "balea" ],
+			[ "baleamos" ],
+			[ "baleáis", "balean" ],
+			[ "balean" ]
+		],
+		"4" : [
+			[ "baleé" ],
+			[ "baleaste" ],
+			[ "baleó" ],
+			[ "baleamos" ],
+			[ "baleasteis", "balearon" ],
+			[ "balearon" ]
+		],
+		"5" : [
+			[ "baleaba" ],
+			[ "baleabas" ],
+			[ "baleaba" ],
+			[ "baleábamos" ],
+			[ "baleabais", "baleaban" ],
+			[ "baleaban" ]
+		],
+		"6" : [
+			[ "balearía" ],
+			[ "balearías" ],
+			[ "balearía" ],
+			[ "balearíamos" ],
+			[ "balearíais", "balearían" ],
+			[ "balearían" ]
+		],
+		"7" : [
+			[ "balearé" ],
+			[ "balearás" ],
+			[ "baleará" ],
+			[ "balearemos" ],
+			[ "balearéis", "balearán" ],
+			[ "balearán" ]
+		],
+		"8" : [
+			[ "balee" ],
+			[ "balees" ],
+			[ "balee" ],
+			[ "baleemos" ],
+			[ "baleéis", "baleen" ],
+			[ "baleen" ]
+		],
+		"9" : [
+			[ "baleara" ],
+			[ "balearas" ],
+			[ "baleara" ],
+			[ "baleáramos" ],
+			[ "balearais", "balearan" ],
+			[ "balearan" ]
+		],
+		"10" : [
+			[ "balease" ],
+			[ "baleases" ],
+			[ "balease" ],
+			[ "baleásemos" ],
+			[ "baleaseis", "baleasen" ],
+			[ "baleasen" ]
+		],
+		"11" : [
+			[ "baleare" ],
+			[ "baleares" ],
+			[ "baleare" ],
+			[ "baleáremos" ],
+			[ "baleareis", "balearen" ],
+			[ "balearen" ]
+		],
+		"12" : {
+			"1" : [ "balea" ],
+			"2" : [ "balee" ],
+			"3" : [ "baleemos" ],
+			"4" : [ "balead" ],
+			"5" : [ "baleen" ]
+		}
+	}
+}

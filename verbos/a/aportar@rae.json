@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aportar",
+	"word" : "aportar",
+	"infinitivo" : "aportar",
+	"participio" : [ "aportado" ],
+	"gerundio" : [ "aportando" ],
+	"tenses" : {
+		"3" : [
+			[ "aporto" ],
+			[ "aportas", "aportás" ],
+			[ "aporta" ],
+			[ "aportamos" ],
+			[ "aportáis", "aportan" ],
+			[ "aportan" ]
+		],
+		"4" : [
+			[ "aporté" ],
+			[ "aportaste" ],
+			[ "aportó" ],
+			[ "aportamos" ],
+			[ "aportasteis", "aportaron" ],
+			[ "aportaron" ]
+		],
+		"5" : [
+			[ "aportaba" ],
+			[ "aportabas" ],
+			[ "aportaba" ],
+			[ "aportábamos" ],
+			[ "aportabais", "aportaban" ],
+			[ "aportaban" ]
+		],
+		"6" : [
+			[ "aportaría" ],
+			[ "aportarías" ],
+			[ "aportaría" ],
+			[ "aportaríamos" ],
+			[ "aportaríais", "aportarían" ],
+			[ "aportarían" ]
+		],
+		"7" : [
+			[ "aportaré" ],
+			[ "aportarás" ],
+			[ "aportará" ],
+			[ "aportaremos" ],
+			[ "aportaréis", "aportarán" ],
+			[ "aportarán" ]
+		],
+		"8" : [
+			[ "aporte" ],
+			[ "aportes" ],
+			[ "aporte" ],
+			[ "aportemos" ],
+			[ "aportéis", "aporten" ],
+			[ "aporten" ]
+		],
+		"9" : [
+			[ "aportara" ],
+			[ "aportaras" ],
+			[ "aportara" ],
+			[ "aportáramos" ],
+			[ "aportarais", "aportaran" ],
+			[ "aportaran" ]
+		],
+		"10" : [
+			[ "aportase" ],
+			[ "aportases" ],
+			[ "aportase" ],
+			[ "aportásemos" ],
+			[ "aportaseis", "aportasen" ],
+			[ "aportasen" ]
+		],
+		"11" : [
+			[ "aportare" ],
+			[ "aportares" ],
+			[ "aportare" ],
+			[ "aportáremos" ],
+			[ "aportareis", "aportaren" ],
+			[ "aportaren" ]
+		],
+		"12" : {
+			"1" : [ "aporta" ],
+			"2" : [ "aporte" ],
+			"3" : [ "aportemos" ],
+			"4" : [ "aportad" ],
+			"5" : [ "aporten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=historiar",
+	"word" : "historiar",
+	"infinitivo" : "historiar",
+	"participio" : [ "historiado" ],
+	"gerundio" : [ "historiando" ],
+	"tenses" : {
+		"3" : [
+			[ "historío", "historio" ],
+			[ "historías", "historias", "historiás" ],
+			[ "historía", "historia" ],
+			[ "historiamos" ],
+			[ "historiáis", "historían", "historian" ],
+			[ "historían", "historian" ]
+		],
+		"4" : [
+			[ "historié" ],
+			[ "historiaste" ],
+			[ "historió" ],
+			[ "historiamos" ],
+			[ "historiasteis", "historiaron" ],
+			[ "historiaron" ]
+		],
+		"5" : [
+			[ "historiaba" ],
+			[ "historiabas" ],
+			[ "historiaba" ],
+			[ "historiábamos" ],
+			[ "historiabais", "historiaban" ],
+			[ "historiaban" ]
+		],
+		"6" : [
+			[ "historiaría" ],
+			[ "historiarías" ],
+			[ "historiaría" ],
+			[ "historiaríamos" ],
+			[ "historiaríais", "historiarían" ],
+			[ "historiarían" ]
+		],
+		"7" : [
+			[ "historiaré" ],
+			[ "historiarás" ],
+			[ "historiará" ],
+			[ "historiaremos" ],
+			[ "historiaréis", "historiarán" ],
+			[ "historiarán" ]
+		],
+		"8" : [
+			[ "historíe", "historie" ],
+			[ "historíes", "histories" ],
+			[ "historíe", "historie" ],
+			[ "historiemos" ],
+			[ "historiéis", "historíen", "historien" ],
+			[ "historíen", "historien" ]
+		],
+		"9" : [
+			[ "historiara" ],
+			[ "historiaras" ],
+			[ "historiara" ],
+			[ "historiáramos" ],
+			[ "historiarais", "historiaran" ],
+			[ "historiaran" ]
+		],
+		"10" : [
+			[ "historiase" ],
+			[ "historiases" ],
+			[ "historiase" ],
+			[ "historiásemos" ],
+			[ "historiaseis", "historiasen" ],
+			[ "historiasen" ]
+		],
+		"11" : [
+			[ "historiare" ],
+			[ "historiares" ],
+			[ "historiare" ],
+			[ "historiáremos" ],
+			[ "historiareis", "historiaren" ],
+			[ "historiaren" ]
+		],
+		"12" : {
+			"1" : [ "historía", "historia" ],
+			"2" : [ "historíe", "historie" ],
+			"3" : [ "historiemos" ],
+			"4" : [ "historiad" ],
+			"5" : [ "historíen", "historien" ]
+		}
+	}
+}

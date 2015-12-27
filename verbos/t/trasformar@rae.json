@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trasformar",
+	"word" : "trasformar",
+	"infinitivo" : "trasformar",
+	"participio" : [ "trasformado" ],
+	"gerundio" : [ "trasformando" ],
+	"tenses" : {
+		"3" : [
+			[ "trasformo" ],
+			[ "trasformas", "trasformás" ],
+			[ "trasforma" ],
+			[ "trasformamos" ],
+			[ "trasformáis", "trasforman" ],
+			[ "trasforman" ]
+		],
+		"4" : [
+			[ "trasformé" ],
+			[ "trasformaste" ],
+			[ "trasformó" ],
+			[ "trasformamos" ],
+			[ "trasformasteis", "trasformaron" ],
+			[ "trasformaron" ]
+		],
+		"5" : [
+			[ "trasformaba" ],
+			[ "trasformabas" ],
+			[ "trasformaba" ],
+			[ "trasformábamos" ],
+			[ "trasformabais", "trasformaban" ],
+			[ "trasformaban" ]
+		],
+		"6" : [
+			[ "trasformaría" ],
+			[ "trasformarías" ],
+			[ "trasformaría" ],
+			[ "trasformaríamos" ],
+			[ "trasformaríais", "trasformarían" ],
+			[ "trasformarían" ]
+		],
+		"7" : [
+			[ "trasformaré" ],
+			[ "trasformarás" ],
+			[ "trasformará" ],
+			[ "trasformaremos" ],
+			[ "trasformaréis", "trasformarán" ],
+			[ "trasformarán" ]
+		],
+		"8" : [
+			[ "trasforme" ],
+			[ "trasformes" ],
+			[ "trasforme" ],
+			[ "trasformemos" ],
+			[ "trasforméis", "trasformen" ],
+			[ "trasformen" ]
+		],
+		"9" : [
+			[ "trasformara" ],
+			[ "trasformaras" ],
+			[ "trasformara" ],
+			[ "trasformáramos" ],
+			[ "trasformarais", "trasformaran" ],
+			[ "trasformaran" ]
+		],
+		"10" : [
+			[ "trasformase" ],
+			[ "trasformases" ],
+			[ "trasformase" ],
+			[ "trasformásemos" ],
+			[ "trasformaseis", "trasformasen" ],
+			[ "trasformasen" ]
+		],
+		"11" : [
+			[ "trasformare" ],
+			[ "trasformares" ],
+			[ "trasformare" ],
+			[ "trasformáremos" ],
+			[ "trasformareis", "trasformaren" ],
+			[ "trasformaren" ]
+		],
+		"12" : {
+			"1" : [ "trasforma" ],
+			"2" : [ "trasforme" ],
+			"3" : [ "trasformemos" ],
+			"4" : [ "trasformad" ],
+			"5" : [ "trasformen" ]
+		}
+	}
+}

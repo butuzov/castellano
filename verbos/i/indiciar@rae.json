@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=indiciar",
+	"word" : "indiciar",
+	"infinitivo" : "indiciar",
+	"participio" : [ "indiciado" ],
+	"gerundio" : [ "indiciando" ],
+	"tenses" : {
+		"3" : [
+			[ "indicio" ],
+			[ "indicias", "indiciás" ],
+			[ "indicia" ],
+			[ "indiciamos" ],
+			[ "indiciáis", "indician" ],
+			[ "indician" ]
+		],
+		"4" : [
+			[ "indicié" ],
+			[ "indiciaste" ],
+			[ "indició" ],
+			[ "indiciamos" ],
+			[ "indiciasteis", "indiciaron" ],
+			[ "indiciaron" ]
+		],
+		"5" : [
+			[ "indiciaba" ],
+			[ "indiciabas" ],
+			[ "indiciaba" ],
+			[ "indiciábamos" ],
+			[ "indiciabais", "indiciaban" ],
+			[ "indiciaban" ]
+		],
+		"6" : [
+			[ "indiciaría" ],
+			[ "indiciarías" ],
+			[ "indiciaría" ],
+			[ "indiciaríamos" ],
+			[ "indiciaríais", "indiciarían" ],
+			[ "indiciarían" ]
+		],
+		"7" : [
+			[ "indiciaré" ],
+			[ "indiciarás" ],
+			[ "indiciará" ],
+			[ "indiciaremos" ],
+			[ "indiciaréis", "indiciarán" ],
+			[ "indiciarán" ]
+		],
+		"8" : [
+			[ "indicie" ],
+			[ "indicies" ],
+			[ "indicie" ],
+			[ "indiciemos" ],
+			[ "indiciéis", "indicien" ],
+			[ "indicien" ]
+		],
+		"9" : [
+			[ "indiciara" ],
+			[ "indiciaras" ],
+			[ "indiciara" ],
+			[ "indiciáramos" ],
+			[ "indiciarais", "indiciaran" ],
+			[ "indiciaran" ]
+		],
+		"10" : [
+			[ "indiciase" ],
+			[ "indiciases" ],
+			[ "indiciase" ],
+			[ "indiciásemos" ],
+			[ "indiciaseis", "indiciasen" ],
+			[ "indiciasen" ]
+		],
+		"11" : [
+			[ "indiciare" ],
+			[ "indiciares" ],
+			[ "indiciare" ],
+			[ "indiciáremos" ],
+			[ "indiciareis", "indiciaren" ],
+			[ "indiciaren" ]
+		],
+		"12" : {
+			"1" : [ "indicia" ],
+			"2" : [ "indicie" ],
+			"3" : [ "indiciemos" ],
+			"4" : [ "indiciad" ],
+			"5" : [ "indicien" ]
+		}
+	}
+}

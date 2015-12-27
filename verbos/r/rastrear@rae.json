@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rastrear",
+	"word" : "rastrear",
+	"infinitivo" : "rastrear",
+	"participio" : [ "rastreado" ],
+	"gerundio" : [ "rastreando" ],
+	"tenses" : {
+		"3" : [
+			[ "rastreo" ],
+			[ "rastreas", "rastreás" ],
+			[ "rastrea" ],
+			[ "rastreamos" ],
+			[ "rastreáis", "rastrean" ],
+			[ "rastrean" ]
+		],
+		"4" : [
+			[ "rastreé" ],
+			[ "rastreaste" ],
+			[ "rastreó" ],
+			[ "rastreamos" ],
+			[ "rastreasteis", "rastrearon" ],
+			[ "rastrearon" ]
+		],
+		"5" : [
+			[ "rastreaba" ],
+			[ "rastreabas" ],
+			[ "rastreaba" ],
+			[ "rastreábamos" ],
+			[ "rastreabais", "rastreaban" ],
+			[ "rastreaban" ]
+		],
+		"6" : [
+			[ "rastrearía" ],
+			[ "rastrearías" ],
+			[ "rastrearía" ],
+			[ "rastrearíamos" ],
+			[ "rastrearíais", "rastrearían" ],
+			[ "rastrearían" ]
+		],
+		"7" : [
+			[ "rastrearé" ],
+			[ "rastrearás" ],
+			[ "rastreará" ],
+			[ "rastrearemos" ],
+			[ "rastrearéis", "rastrearán" ],
+			[ "rastrearán" ]
+		],
+		"8" : [
+			[ "rastree" ],
+			[ "rastrees" ],
+			[ "rastree" ],
+			[ "rastreemos" ],
+			[ "rastreéis", "rastreen" ],
+			[ "rastreen" ]
+		],
+		"9" : [
+			[ "rastreara" ],
+			[ "rastrearas" ],
+			[ "rastreara" ],
+			[ "rastreáramos" ],
+			[ "rastrearais", "rastrearan" ],
+			[ "rastrearan" ]
+		],
+		"10" : [
+			[ "rastrease" ],
+			[ "rastreases" ],
+			[ "rastrease" ],
+			[ "rastreásemos" ],
+			[ "rastreaseis", "rastreasen" ],
+			[ "rastreasen" ]
+		],
+		"11" : [
+			[ "rastreare" ],
+			[ "rastreares" ],
+			[ "rastreare" ],
+			[ "rastreáremos" ],
+			[ "rastreareis", "rastrearen" ],
+			[ "rastrearen" ]
+		],
+		"12" : {
+			"1" : [ "rastrea" ],
+			"2" : [ "rastree" ],
+			"3" : [ "rastreemos" ],
+			"4" : [ "rastread" ],
+			"5" : [ "rastreen" ]
+		}
+	}
+}

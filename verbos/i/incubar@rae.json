@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incubar",
+	"word" : "incubar",
+	"infinitivo" : "incubar",
+	"participio" : [ "incubado" ],
+	"gerundio" : [ "incubando" ],
+	"tenses" : {
+		"3" : [
+			[ "incubo" ],
+			[ "incubas", "incubás" ],
+			[ "incuba" ],
+			[ "incubamos" ],
+			[ "incubáis", "incuban" ],
+			[ "incuban" ]
+		],
+		"4" : [
+			[ "incubé" ],
+			[ "incubaste" ],
+			[ "incubó" ],
+			[ "incubamos" ],
+			[ "incubasteis", "incubaron" ],
+			[ "incubaron" ]
+		],
+		"5" : [
+			[ "incubaba" ],
+			[ "incubabas" ],
+			[ "incubaba" ],
+			[ "incubábamos" ],
+			[ "incubabais", "incubaban" ],
+			[ "incubaban" ]
+		],
+		"6" : [
+			[ "incubaría" ],
+			[ "incubarías" ],
+			[ "incubaría" ],
+			[ "incubaríamos" ],
+			[ "incubaríais", "incubarían" ],
+			[ "incubarían" ]
+		],
+		"7" : [
+			[ "incubaré" ],
+			[ "incubarás" ],
+			[ "incubará" ],
+			[ "incubaremos" ],
+			[ "incubaréis", "incubarán" ],
+			[ "incubarán" ]
+		],
+		"8" : [
+			[ "incube" ],
+			[ "incubes" ],
+			[ "incube" ],
+			[ "incubemos" ],
+			[ "incubéis", "incuben" ],
+			[ "incuben" ]
+		],
+		"9" : [
+			[ "incubara" ],
+			[ "incubaras" ],
+			[ "incubara" ],
+			[ "incubáramos" ],
+			[ "incubarais", "incubaran" ],
+			[ "incubaran" ]
+		],
+		"10" : [
+			[ "incubase" ],
+			[ "incubases" ],
+			[ "incubase" ],
+			[ "incubásemos" ],
+			[ "incubaseis", "incubasen" ],
+			[ "incubasen" ]
+		],
+		"11" : [
+			[ "incubare" ],
+			[ "incubares" ],
+			[ "incubare" ],
+			[ "incubáremos" ],
+			[ "incubareis", "incubaren" ],
+			[ "incubaren" ]
+		],
+		"12" : {
+			"1" : [ "incuba" ],
+			"2" : [ "incube" ],
+			"3" : [ "incubemos" ],
+			"4" : [ "incubad" ],
+			"5" : [ "incuben" ]
+		}
+	}
+}

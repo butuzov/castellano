@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=allanar",
+	"word" : "allanar",
+	"infinitivo" : "allanar",
+	"participio" : [ "allanado" ],
+	"gerundio" : [ "allanando" ],
+	"tenses" : {
+		"3" : [
+			[ "allano" ],
+			[ "allanas", "allanás" ],
+			[ "allana" ],
+			[ "allanamos" ],
+			[ "allanáis", "allanan" ],
+			[ "allanan" ]
+		],
+		"4" : [
+			[ "allané" ],
+			[ "allanaste" ],
+			[ "allanó" ],
+			[ "allanamos" ],
+			[ "allanasteis", "allanaron" ],
+			[ "allanaron" ]
+		],
+		"5" : [
+			[ "allanaba" ],
+			[ "allanabas" ],
+			[ "allanaba" ],
+			[ "allanábamos" ],
+			[ "allanabais", "allanaban" ],
+			[ "allanaban" ]
+		],
+		"6" : [
+			[ "allanaría" ],
+			[ "allanarías" ],
+			[ "allanaría" ],
+			[ "allanaríamos" ],
+			[ "allanaríais", "allanarían" ],
+			[ "allanarían" ]
+		],
+		"7" : [
+			[ "allanaré" ],
+			[ "allanarás" ],
+			[ "allanará" ],
+			[ "allanaremos" ],
+			[ "allanaréis", "allanarán" ],
+			[ "allanarán" ]
+		],
+		"8" : [
+			[ "allane" ],
+			[ "allanes" ],
+			[ "allane" ],
+			[ "allanemos" ],
+			[ "allanéis", "allanen" ],
+			[ "allanen" ]
+		],
+		"9" : [
+			[ "allanara" ],
+			[ "allanaras" ],
+			[ "allanara" ],
+			[ "allanáramos" ],
+			[ "allanarais", "allanaran" ],
+			[ "allanaran" ]
+		],
+		"10" : [
+			[ "allanase" ],
+			[ "allanases" ],
+			[ "allanase" ],
+			[ "allanásemos" ],
+			[ "allanaseis", "allanasen" ],
+			[ "allanasen" ]
+		],
+		"11" : [
+			[ "allanare" ],
+			[ "allanares" ],
+			[ "allanare" ],
+			[ "allanáremos" ],
+			[ "allanareis", "allanaren" ],
+			[ "allanaren" ]
+		],
+		"12" : {
+			"1" : [ "allana" ],
+			"2" : [ "allane" ],
+			"3" : [ "allanemos" ],
+			"4" : [ "allanad" ],
+			"5" : [ "allanen" ]
+		}
+	}
+}

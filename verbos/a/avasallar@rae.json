@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=avasallar",
+	"word" : "avasallar",
+	"infinitivo" : "avasallar",
+	"participio" : [ "avasallado" ],
+	"gerundio" : [ "avasallando" ],
+	"tenses" : {
+		"3" : [
+			[ "avasallo" ],
+			[ "avasallas", "avasallás" ],
+			[ "avasalla" ],
+			[ "avasallamos" ],
+			[ "avasalláis", "avasallan" ],
+			[ "avasallan" ]
+		],
+		"4" : [
+			[ "avasallé" ],
+			[ "avasallaste" ],
+			[ "avasalló" ],
+			[ "avasallamos" ],
+			[ "avasallasteis", "avasallaron" ],
+			[ "avasallaron" ]
+		],
+		"5" : [
+			[ "avasallaba" ],
+			[ "avasallabas" ],
+			[ "avasallaba" ],
+			[ "avasallábamos" ],
+			[ "avasallabais", "avasallaban" ],
+			[ "avasallaban" ]
+		],
+		"6" : [
+			[ "avasallaría" ],
+			[ "avasallarías" ],
+			[ "avasallaría" ],
+			[ "avasallaríamos" ],
+			[ "avasallaríais", "avasallarían" ],
+			[ "avasallarían" ]
+		],
+		"7" : [
+			[ "avasallaré" ],
+			[ "avasallarás" ],
+			[ "avasallará" ],
+			[ "avasallaremos" ],
+			[ "avasallaréis", "avasallarán" ],
+			[ "avasallarán" ]
+		],
+		"8" : [
+			[ "avasalle" ],
+			[ "avasalles" ],
+			[ "avasalle" ],
+			[ "avasallemos" ],
+			[ "avasalléis", "avasallen" ],
+			[ "avasallen" ]
+		],
+		"9" : [
+			[ "avasallara" ],
+			[ "avasallaras" ],
+			[ "avasallara" ],
+			[ "avasalláramos" ],
+			[ "avasallarais", "avasallaran" ],
+			[ "avasallaran" ]
+		],
+		"10" : [
+			[ "avasallase" ],
+			[ "avasallases" ],
+			[ "avasallase" ],
+			[ "avasallásemos" ],
+			[ "avasallaseis", "avasallasen" ],
+			[ "avasallasen" ]
+		],
+		"11" : [
+			[ "avasallare" ],
+			[ "avasallares" ],
+			[ "avasallare" ],
+			[ "avasalláremos" ],
+			[ "avasallareis", "avasallaren" ],
+			[ "avasallaren" ]
+		],
+		"12" : {
+			"1" : [ "avasalla" ],
+			"2" : [ "avasalle" ],
+			"3" : [ "avasallemos" ],
+			"4" : [ "avasallad" ],
+			"5" : [ "avasallen" ]
+		}
+	}
+}

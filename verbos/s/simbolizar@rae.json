@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=simbolizar",
+	"word" : "simbolizar",
+	"infinitivo" : "simbolizar",
+	"participio" : [ "simbolizado" ],
+	"gerundio" : [ "simbolizando" ],
+	"tenses" : {
+		"3" : [
+			[ "simbolizo" ],
+			[ "simbolizas", "simbolizás" ],
+			[ "simboliza" ],
+			[ "simbolizamos" ],
+			[ "simbolizáis", "simbolizan" ],
+			[ "simbolizan" ]
+		],
+		"4" : [
+			[ "simbolicé" ],
+			[ "simbolizaste" ],
+			[ "simbolizó" ],
+			[ "simbolizamos" ],
+			[ "simbolizasteis", "simbolizaron" ],
+			[ "simbolizaron" ]
+		],
+		"5" : [
+			[ "simbolizaba" ],
+			[ "simbolizabas" ],
+			[ "simbolizaba" ],
+			[ "simbolizábamos" ],
+			[ "simbolizabais", "simbolizaban" ],
+			[ "simbolizaban" ]
+		],
+		"6" : [
+			[ "simbolizaría" ],
+			[ "simbolizarías" ],
+			[ "simbolizaría" ],
+			[ "simbolizaríamos" ],
+			[ "simbolizaríais", "simbolizarían" ],
+			[ "simbolizarían" ]
+		],
+		"7" : [
+			[ "simbolizaré" ],
+			[ "simbolizarás" ],
+			[ "simbolizará" ],
+			[ "simbolizaremos" ],
+			[ "simbolizaréis", "simbolizarán" ],
+			[ "simbolizarán" ]
+		],
+		"8" : [
+			[ "simbolice" ],
+			[ "simbolices" ],
+			[ "simbolice" ],
+			[ "simbolicemos" ],
+			[ "simbolicéis", "simbolicen" ],
+			[ "simbolicen" ]
+		],
+		"9" : [
+			[ "simbolizara" ],
+			[ "simbolizaras" ],
+			[ "simbolizara" ],
+			[ "simbolizáramos" ],
+			[ "simbolizarais", "simbolizaran" ],
+			[ "simbolizaran" ]
+		],
+		"10" : [
+			[ "simbolizase" ],
+			[ "simbolizases" ],
+			[ "simbolizase" ],
+			[ "simbolizásemos" ],
+			[ "simbolizaseis", "simbolizasen" ],
+			[ "simbolizasen" ]
+		],
+		"11" : [
+			[ "simbolizare" ],
+			[ "simbolizares" ],
+			[ "simbolizare" ],
+			[ "simbolizáremos" ],
+			[ "simbolizareis", "simbolizaren" ],
+			[ "simbolizaren" ]
+		],
+		"12" : {
+			"1" : [ "simboliza" ],
+			"2" : [ "simbolice" ],
+			"3" : [ "simbolicemos" ],
+			"4" : [ "simbolizad" ],
+			"5" : [ "simbolicen" ]
+		}
+	}
+}

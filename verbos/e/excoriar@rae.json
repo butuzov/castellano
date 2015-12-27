@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=excoriar",
+	"word" : "excoriar",
+	"infinitivo" : "excoriar",
+	"participio" : [ "excoriado" ],
+	"gerundio" : [ "excoriando" ],
+	"tenses" : {
+		"3" : [
+			[ "excorio" ],
+			[ "excorias", "excoriás" ],
+			[ "excoria" ],
+			[ "excoriamos" ],
+			[ "excoriáis", "excorian" ],
+			[ "excorian" ]
+		],
+		"4" : [
+			[ "excorié" ],
+			[ "excoriaste" ],
+			[ "excorió" ],
+			[ "excoriamos" ],
+			[ "excoriasteis", "excoriaron" ],
+			[ "excoriaron" ]
+		],
+		"5" : [
+			[ "excoriaba" ],
+			[ "excoriabas" ],
+			[ "excoriaba" ],
+			[ "excoriábamos" ],
+			[ "excoriabais", "excoriaban" ],
+			[ "excoriaban" ]
+		],
+		"6" : [
+			[ "excoriaría" ],
+			[ "excoriarías" ],
+			[ "excoriaría" ],
+			[ "excoriaríamos" ],
+			[ "excoriaríais", "excoriarían" ],
+			[ "excoriarían" ]
+		],
+		"7" : [
+			[ "excoriaré" ],
+			[ "excoriarás" ],
+			[ "excoriará" ],
+			[ "excoriaremos" ],
+			[ "excoriaréis", "excoriarán" ],
+			[ "excoriarán" ]
+		],
+		"8" : [
+			[ "excorie" ],
+			[ "excories" ],
+			[ "excorie" ],
+			[ "excoriemos" ],
+			[ "excoriéis", "excorien" ],
+			[ "excorien" ]
+		],
+		"9" : [
+			[ "excoriara" ],
+			[ "excoriaras" ],
+			[ "excoriara" ],
+			[ "excoriáramos" ],
+			[ "excoriarais", "excoriaran" ],
+			[ "excoriaran" ]
+		],
+		"10" : [
+			[ "excoriase" ],
+			[ "excoriases" ],
+			[ "excoriase" ],
+			[ "excoriásemos" ],
+			[ "excoriaseis", "excoriasen" ],
+			[ "excoriasen" ]
+		],
+		"11" : [
+			[ "excoriare" ],
+			[ "excoriares" ],
+			[ "excoriare" ],
+			[ "excoriáremos" ],
+			[ "excoriareis", "excoriaren" ],
+			[ "excoriaren" ]
+		],
+		"12" : {
+			"1" : [ "excoria" ],
+			"2" : [ "excorie" ],
+			"3" : [ "excoriemos" ],
+			"4" : [ "excoriad" ],
+			"5" : [ "excorien" ]
+		}
+	}
+}

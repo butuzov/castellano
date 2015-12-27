@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dividir",
+	"word" : "dividir",
+	"infinitivo" : "dividir",
+	"participio" : [ "dividido" ],
+	"gerundio" : [ "dividiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "divido" ],
+			[ "divides", "dividís" ],
+			[ "divide" ],
+			[ "dividimos" ],
+			[ "dividís", "dividen" ],
+			[ "dividen" ]
+		],
+		"4" : [
+			[ "dividí" ],
+			[ "dividiste" ],
+			[ "dividió" ],
+			[ "dividimos" ],
+			[ "dividisteis", "dividieron" ],
+			[ "dividieron" ]
+		],
+		"5" : [
+			[ "dividía" ],
+			[ "dividías" ],
+			[ "dividía" ],
+			[ "dividíamos" ],
+			[ "dividíais", "dividían" ],
+			[ "dividían" ]
+		],
+		"6" : [
+			[ "dividiría" ],
+			[ "dividirías" ],
+			[ "dividiría" ],
+			[ "dividiríamos" ],
+			[ "dividiríais", "dividirían" ],
+			[ "dividirían" ]
+		],
+		"7" : [
+			[ "dividiré" ],
+			[ "dividirás" ],
+			[ "dividirá" ],
+			[ "dividiremos" ],
+			[ "dividiréis", "dividirán" ],
+			[ "dividirán" ]
+		],
+		"8" : [
+			[ "divida" ],
+			[ "dividas" ],
+			[ "divida" ],
+			[ "dividamos" ],
+			[ "dividáis", "dividan" ],
+			[ "dividan" ]
+		],
+		"9" : [
+			[ "dividiera" ],
+			[ "dividieras" ],
+			[ "dividiera" ],
+			[ "dividiéramos" ],
+			[ "dividierais", "dividieran" ],
+			[ "dividieran" ]
+		],
+		"10" : [
+			[ "dividiese" ],
+			[ "dividieses" ],
+			[ "dividiese" ],
+			[ "dividiésemos" ],
+			[ "dividieseis", "dividiesen" ],
+			[ "dividiesen" ]
+		],
+		"11" : [
+			[ "dividiere" ],
+			[ "dividieres" ],
+			[ "dividiere" ],
+			[ "dividiéremos" ],
+			[ "dividiereis", "dividieren" ],
+			[ "dividieren" ]
+		],
+		"12" : {
+			"1" : [ "divide" ],
+			"2" : [ "divida" ],
+			"3" : [ "dividamos" ],
+			"4" : [ "dividid" ],
+			"5" : [ "dividan" ]
+		}
+	}
+}

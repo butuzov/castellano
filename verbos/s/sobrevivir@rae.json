@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sobrevivir",
+	"word" : "sobrevivir",
+	"infinitivo" : "sobrevivir",
+	"participio" : [ "sobrevivido" ],
+	"gerundio" : [ "sobreviviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sobrevivo" ],
+			[ "sobrevives", "sobrevivís" ],
+			[ "sobrevive" ],
+			[ "sobrevivimos" ],
+			[ "sobrevivís", "sobreviven" ],
+			[ "sobreviven" ]
+		],
+		"4" : [
+			[ "sobreviví" ],
+			[ "sobreviviste" ],
+			[ "sobrevivió" ],
+			[ "sobrevivimos" ],
+			[ "sobrevivisteis", "sobrevivieron" ],
+			[ "sobrevivieron" ]
+		],
+		"5" : [
+			[ "sobrevivía" ],
+			[ "sobrevivías" ],
+			[ "sobrevivía" ],
+			[ "sobrevivíamos" ],
+			[ "sobrevivíais", "sobrevivían" ],
+			[ "sobrevivían" ]
+		],
+		"6" : [
+			[ "sobreviviría" ],
+			[ "sobrevivirías" ],
+			[ "sobreviviría" ],
+			[ "sobreviviríamos" ],
+			[ "sobreviviríais", "sobrevivirían" ],
+			[ "sobrevivirían" ]
+		],
+		"7" : [
+			[ "sobreviviré" ],
+			[ "sobrevivirás" ],
+			[ "sobrevivirá" ],
+			[ "sobreviviremos" ],
+			[ "sobreviviréis", "sobrevivirán" ],
+			[ "sobrevivirán" ]
+		],
+		"8" : [
+			[ "sobreviva" ],
+			[ "sobrevivas" ],
+			[ "sobreviva" ],
+			[ "sobrevivamos" ],
+			[ "sobreviváis", "sobrevivan" ],
+			[ "sobrevivan" ]
+		],
+		"9" : [
+			[ "sobreviviera" ],
+			[ "sobrevivieras" ],
+			[ "sobreviviera" ],
+			[ "sobreviviéramos" ],
+			[ "sobrevivierais", "sobrevivieran" ],
+			[ "sobrevivieran" ]
+		],
+		"10" : [
+			[ "sobreviviese" ],
+			[ "sobrevivieses" ],
+			[ "sobreviviese" ],
+			[ "sobreviviésemos" ],
+			[ "sobrevivieseis", "sobreviviesen" ],
+			[ "sobreviviesen" ]
+		],
+		"11" : [
+			[ "sobreviviere" ],
+			[ "sobrevivieres" ],
+			[ "sobreviviere" ],
+			[ "sobreviviéremos" ],
+			[ "sobreviviereis", "sobrevivieren" ],
+			[ "sobrevivieren" ]
+		],
+		"12" : {
+			"1" : [ "sobrevive" ],
+			"2" : [ "sobreviva" ],
+			"3" : [ "sobrevivamos" ],
+			"4" : [ "sobrevivid" ],
+			"5" : [ "sobrevivan" ]
+		}
+	}
+}

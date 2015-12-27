@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=premorir",
+	"word" : "premorir",
+	"infinitivo" : "premorir",
+	"participio" : [ "premuerto" ],
+	"gerundio" : [ "premuriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "premuero" ],
+			[ "premueres", "premorís" ],
+			[ "premuere" ],
+			[ "premorimos" ],
+			[ "premorís", "premueren" ],
+			[ "premueren" ]
+		],
+		"4" : [
+			[ "premorí" ],
+			[ "premoriste" ],
+			[ "premurió" ],
+			[ "premorimos" ],
+			[ "premoristeis", "premurieron" ],
+			[ "premurieron" ]
+		],
+		"5" : [
+			[ "premoría" ],
+			[ "premorías" ],
+			[ "premoría" ],
+			[ "premoríamos" ],
+			[ "premoríais", "premorían" ],
+			[ "premorían" ]
+		],
+		"6" : [
+			[ "premoriría" ],
+			[ "premorirías" ],
+			[ "premoriría" ],
+			[ "premoriríamos" ],
+			[ "premoriríais", "premorirían" ],
+			[ "premorirían" ]
+		],
+		"7" : [
+			[ "premoriré" ],
+			[ "premorirás" ],
+			[ "premorirá" ],
+			[ "premoriremos" ],
+			[ "premoriréis", "premorirán" ],
+			[ "premorirán" ]
+		],
+		"8" : [
+			[ "premuera" ],
+			[ "premueras" ],
+			[ "premuera" ],
+			[ "premuramos" ],
+			[ "premuráis", "premueran" ],
+			[ "premueran" ]
+		],
+		"9" : [
+			[ "premuriera" ],
+			[ "premurieras" ],
+			[ "premuriera" ],
+			[ "premuriéramos" ],
+			[ "premurierais", "premurieran" ],
+			[ "premurieran" ]
+		],
+		"10" : [
+			[ "premuriese" ],
+			[ "premurieses" ],
+			[ "premuriese" ],
+			[ "premuriésemos" ],
+			[ "premurieseis", "premuriesen" ],
+			[ "premuriesen" ]
+		],
+		"11" : [
+			[ "premuriere" ],
+			[ "premurieres" ],
+			[ "premuriere" ],
+			[ "premuriéremos" ],
+			[ "premuriereis", "premurieren" ],
+			[ "premurieren" ]
+		],
+		"12" : {
+			"1" : [ "premuere" ],
+			"2" : [ "premuera" ],
+			"3" : [ "premuramos" ],
+			"4" : [ "premorid" ],
+			"5" : [ "premueran" ]
+		}
+	}
+}

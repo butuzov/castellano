@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=capacitar",
+	"word" : "capacitar",
+	"infinitivo" : "capacitar",
+	"participio" : [ "capacitado" ],
+	"gerundio" : [ "capacitando" ],
+	"tenses" : {
+		"3" : [
+			[ "capacito" ],
+			[ "capacitas", "capacitás" ],
+			[ "capacita" ],
+			[ "capacitamos" ],
+			[ "capacitáis", "capacitan" ],
+			[ "capacitan" ]
+		],
+		"4" : [
+			[ "capacité" ],
+			[ "capacitaste" ],
+			[ "capacitó" ],
+			[ "capacitamos" ],
+			[ "capacitasteis", "capacitaron" ],
+			[ "capacitaron" ]
+		],
+		"5" : [
+			[ "capacitaba" ],
+			[ "capacitabas" ],
+			[ "capacitaba" ],
+			[ "capacitábamos" ],
+			[ "capacitabais", "capacitaban" ],
+			[ "capacitaban" ]
+		],
+		"6" : [
+			[ "capacitaría" ],
+			[ "capacitarías" ],
+			[ "capacitaría" ],
+			[ "capacitaríamos" ],
+			[ "capacitaríais", "capacitarían" ],
+			[ "capacitarían" ]
+		],
+		"7" : [
+			[ "capacitaré" ],
+			[ "capacitarás" ],
+			[ "capacitará" ],
+			[ "capacitaremos" ],
+			[ "capacitaréis", "capacitarán" ],
+			[ "capacitarán" ]
+		],
+		"8" : [
+			[ "capacite" ],
+			[ "capacites" ],
+			[ "capacite" ],
+			[ "capacitemos" ],
+			[ "capacitéis", "capaciten" ],
+			[ "capaciten" ]
+		],
+		"9" : [
+			[ "capacitara" ],
+			[ "capacitaras" ],
+			[ "capacitara" ],
+			[ "capacitáramos" ],
+			[ "capacitarais", "capacitaran" ],
+			[ "capacitaran" ]
+		],
+		"10" : [
+			[ "capacitase" ],
+			[ "capacitases" ],
+			[ "capacitase" ],
+			[ "capacitásemos" ],
+			[ "capacitaseis", "capacitasen" ],
+			[ "capacitasen" ]
+		],
+		"11" : [
+			[ "capacitare" ],
+			[ "capacitares" ],
+			[ "capacitare" ],
+			[ "capacitáremos" ],
+			[ "capacitareis", "capacitaren" ],
+			[ "capacitaren" ]
+		],
+		"12" : {
+			"1" : [ "capacita" ],
+			"2" : [ "capacite" ],
+			"3" : [ "capacitemos" ],
+			"4" : [ "capacitad" ],
+			"5" : [ "capaciten" ]
+		}
+	}
+}

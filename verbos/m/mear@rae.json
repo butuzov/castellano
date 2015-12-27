@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mear",
+	"word" : "mear",
+	"infinitivo" : "mear",
+	"participio" : [ "meado" ],
+	"gerundio" : [ "meando" ],
+	"tenses" : {
+		"3" : [
+			[ "meo" ],
+			[ "meas", "meás" ],
+			[ "mea" ],
+			[ "meamos" ],
+			[ "meáis", "mean" ],
+			[ "mean" ]
+		],
+		"4" : [
+			[ "meé" ],
+			[ "measte" ],
+			[ "meó" ],
+			[ "meamos" ],
+			[ "measteis", "mearon" ],
+			[ "mearon" ]
+		],
+		"5" : [
+			[ "meaba" ],
+			[ "meabas" ],
+			[ "meaba" ],
+			[ "meábamos" ],
+			[ "meabais", "meaban" ],
+			[ "meaban" ]
+		],
+		"6" : [
+			[ "mearía" ],
+			[ "mearías" ],
+			[ "mearía" ],
+			[ "mearíamos" ],
+			[ "mearíais", "mearían" ],
+			[ "mearían" ]
+		],
+		"7" : [
+			[ "mearé" ],
+			[ "mearás" ],
+			[ "meará" ],
+			[ "mearemos" ],
+			[ "mearéis", "mearán" ],
+			[ "mearán" ]
+		],
+		"8" : [
+			[ "mee" ],
+			[ "mees" ],
+			[ "mee" ],
+			[ "meemos" ],
+			[ "meéis", "meen" ],
+			[ "meen" ]
+		],
+		"9" : [
+			[ "meara" ],
+			[ "mearas" ],
+			[ "meara" ],
+			[ "meáramos" ],
+			[ "mearais", "mearan" ],
+			[ "mearan" ]
+		],
+		"10" : [
+			[ "mease" ],
+			[ "meases" ],
+			[ "mease" ],
+			[ "meásemos" ],
+			[ "measeis", "measen" ],
+			[ "measen" ]
+		],
+		"11" : [
+			[ "meare" ],
+			[ "meares" ],
+			[ "meare" ],
+			[ "meáremos" ],
+			[ "meareis", "mearen" ],
+			[ "mearen" ]
+		],
+		"12" : {
+			"1" : [ "mea" ],
+			"2" : [ "mee" ],
+			"3" : [ "meemos" ],
+			"4" : [ "mead" ],
+			"5" : [ "meen" ]
+		}
+	}
+}

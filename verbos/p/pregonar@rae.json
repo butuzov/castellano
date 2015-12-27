@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pregonar",
+	"word" : "pregonar",
+	"infinitivo" : "pregonar",
+	"participio" : [ "pregonado" ],
+	"gerundio" : [ "pregonando" ],
+	"tenses" : {
+		"3" : [
+			[ "pregono" ],
+			[ "pregonas", "pregonás" ],
+			[ "pregona" ],
+			[ "pregonamos" ],
+			[ "pregonáis", "pregonan" ],
+			[ "pregonan" ]
+		],
+		"4" : [
+			[ "pregoné" ],
+			[ "pregonaste" ],
+			[ "pregonó" ],
+			[ "pregonamos" ],
+			[ "pregonasteis", "pregonaron" ],
+			[ "pregonaron" ]
+		],
+		"5" : [
+			[ "pregonaba" ],
+			[ "pregonabas" ],
+			[ "pregonaba" ],
+			[ "pregonábamos" ],
+			[ "pregonabais", "pregonaban" ],
+			[ "pregonaban" ]
+		],
+		"6" : [
+			[ "pregonaría" ],
+			[ "pregonarías" ],
+			[ "pregonaría" ],
+			[ "pregonaríamos" ],
+			[ "pregonaríais", "pregonarían" ],
+			[ "pregonarían" ]
+		],
+		"7" : [
+			[ "pregonaré" ],
+			[ "pregonarás" ],
+			[ "pregonará" ],
+			[ "pregonaremos" ],
+			[ "pregonaréis", "pregonarán" ],
+			[ "pregonarán" ]
+		],
+		"8" : [
+			[ "pregone" ],
+			[ "pregones" ],
+			[ "pregone" ],
+			[ "pregonemos" ],
+			[ "pregonéis", "pregonen" ],
+			[ "pregonen" ]
+		],
+		"9" : [
+			[ "pregonara" ],
+			[ "pregonaras" ],
+			[ "pregonara" ],
+			[ "pregonáramos" ],
+			[ "pregonarais", "pregonaran" ],
+			[ "pregonaran" ]
+		],
+		"10" : [
+			[ "pregonase" ],
+			[ "pregonases" ],
+			[ "pregonase" ],
+			[ "pregonásemos" ],
+			[ "pregonaseis", "pregonasen" ],
+			[ "pregonasen" ]
+		],
+		"11" : [
+			[ "pregonare" ],
+			[ "pregonares" ],
+			[ "pregonare" ],
+			[ "pregonáremos" ],
+			[ "pregonareis", "pregonaren" ],
+			[ "pregonaren" ]
+		],
+		"12" : {
+			"1" : [ "pregona" ],
+			"2" : [ "pregone" ],
+			"3" : [ "pregonemos" ],
+			"4" : [ "pregonad" ],
+			"5" : [ "pregonen" ]
+		}
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=concernir",
+	"word" : "concernir",
+	"infinitivo" : "concernir",
+	"participio" : [ "concernido" ],
+	"gerundio" : [ "concerniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "concierne" ],
+			[ "conciernen" ]
+		],
+		"4" : [
+			[ "concernió" ],
+			[ "concernieron" ]
+		],
+		"5" : [
+			[ "concernía" ],
+			[ "concernían" ]
+		],
+		"6" : [
+			[ "concerniría" ],
+			[ "concernirían" ]
+		],
+		"7" : [
+			[ "concernirá" ],
+			[ "concernirán" ]
+		],
+		"8" : [
+			[ "concierna" ],
+			[ "conciernan" ]
+		],
+		"9" : [
+			[ "concerniera" ],
+			[ "concernieran" ]
+		],
+		"10" : [
+			[ "concerniese" ],
+			[ "concerniesen" ]
+		],
+		"11" : [
+			[ "concerniere" ],
+			[ "concernieren" ]
+		]
+	}
+}

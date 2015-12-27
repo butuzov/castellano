@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encurtir",
+	"word" : "encurtir",
+	"infinitivo" : "encurtir",
+	"participio" : [ "encurtido" ],
+	"gerundio" : [ "encurtiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "encurto" ],
+			[ "encurtes", "encurtís" ],
+			[ "encurte" ],
+			[ "encurtimos" ],
+			[ "encurtís", "encurten" ],
+			[ "encurten" ]
+		],
+		"4" : [
+			[ "encurtí" ],
+			[ "encurtiste" ],
+			[ "encurtió" ],
+			[ "encurtimos" ],
+			[ "encurtisteis", "encurtieron" ],
+			[ "encurtieron" ]
+		],
+		"5" : [
+			[ "encurtía" ],
+			[ "encurtías" ],
+			[ "encurtía" ],
+			[ "encurtíamos" ],
+			[ "encurtíais", "encurtían" ],
+			[ "encurtían" ]
+		],
+		"6" : [
+			[ "encurtiría" ],
+			[ "encurtirías" ],
+			[ "encurtiría" ],
+			[ "encurtiríamos" ],
+			[ "encurtiríais", "encurtirían" ],
+			[ "encurtirían" ]
+		],
+		"7" : [
+			[ "encurtiré" ],
+			[ "encurtirás" ],
+			[ "encurtirá" ],
+			[ "encurtiremos" ],
+			[ "encurtiréis", "encurtirán" ],
+			[ "encurtirán" ]
+		],
+		"8" : [
+			[ "encurta" ],
+			[ "encurtas" ],
+			[ "encurta" ],
+			[ "encurtamos" ],
+			[ "encurtáis", "encurtan" ],
+			[ "encurtan" ]
+		],
+		"9" : [
+			[ "encurtiera" ],
+			[ "encurtieras" ],
+			[ "encurtiera" ],
+			[ "encurtiéramos" ],
+			[ "encurtierais", "encurtieran" ],
+			[ "encurtieran" ]
+		],
+		"10" : [
+			[ "encurtiese" ],
+			[ "encurtieses" ],
+			[ "encurtiese" ],
+			[ "encurtiésemos" ],
+			[ "encurtieseis", "encurtiesen" ],
+			[ "encurtiesen" ]
+		],
+		"11" : [
+			[ "encurtiere" ],
+			[ "encurtieres" ],
+			[ "encurtiere" ],
+			[ "encurtiéremos" ],
+			[ "encurtiereis", "encurtieren" ],
+			[ "encurtieren" ]
+		],
+		"12" : {
+			"1" : [ "encurte" ],
+			"2" : [ "encurta" ],
+			"3" : [ "encurtamos" ],
+			"4" : [ "encurtid" ],
+			"5" : [ "encurtan" ]
+		}
+	}
+}

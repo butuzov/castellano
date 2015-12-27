@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=carnavalear",
+	"word" : "carnavalear",
+	"infinitivo" : "carnavalear",
+	"participio" : [ "carnavaleado" ],
+	"gerundio" : [ "carnavaleando" ],
+	"tenses" : {
+		"3" : [
+			[ "carnavaleo" ],
+			[ "carnavaleas", "carnavaleás" ],
+			[ "carnavalea" ],
+			[ "carnavaleamos" ],
+			[ "carnavaleáis", "carnavalean" ],
+			[ "carnavalean" ]
+		],
+		"4" : [
+			[ "carnavaleé" ],
+			[ "carnavaleaste" ],
+			[ "carnavaleó" ],
+			[ "carnavaleamos" ],
+			[ "carnavaleasteis", "carnavalearon" ],
+			[ "carnavalearon" ]
+		],
+		"5" : [
+			[ "carnavaleaba" ],
+			[ "carnavaleabas" ],
+			[ "carnavaleaba" ],
+			[ "carnavaleábamos" ],
+			[ "carnavaleabais", "carnavaleaban" ],
+			[ "carnavaleaban" ]
+		],
+		"6" : [
+			[ "carnavalearía" ],
+			[ "carnavalearías" ],
+			[ "carnavalearía" ],
+			[ "carnavalearíamos" ],
+			[ "carnavalearíais", "carnavalearían" ],
+			[ "carnavalearían" ]
+		],
+		"7" : [
+			[ "carnavalearé" ],
+			[ "carnavalearás" ],
+			[ "carnavaleará" ],
+			[ "carnavalearemos" ],
+			[ "carnavalearéis", "carnavalearán" ],
+			[ "carnavalearán" ]
+		],
+		"8" : [
+			[ "carnavalee" ],
+			[ "carnavalees" ],
+			[ "carnavalee" ],
+			[ "carnavaleemos" ],
+			[ "carnavaleéis", "carnavaleen" ],
+			[ "carnavaleen" ]
+		],
+		"9" : [
+			[ "carnavaleara" ],
+			[ "carnavalearas" ],
+			[ "carnavaleara" ],
+			[ "carnavaleáramos" ],
+			[ "carnavalearais", "carnavalearan" ],
+			[ "carnavalearan" ]
+		],
+		"10" : [
+			[ "carnavalease" ],
+			[ "carnavaleases" ],
+			[ "carnavalease" ],
+			[ "carnavaleásemos" ],
+			[ "carnavaleaseis", "carnavaleasen" ],
+			[ "carnavaleasen" ]
+		],
+		"11" : [
+			[ "carnavaleare" ],
+			[ "carnavaleares" ],
+			[ "carnavaleare" ],
+			[ "carnavaleáremos" ],
+			[ "carnavaleareis", "carnavalearen" ],
+			[ "carnavalearen" ]
+		],
+		"12" : {
+			"1" : [ "carnavalea" ],
+			"2" : [ "carnavalee" ],
+			"3" : [ "carnavaleemos" ],
+			"4" : [ "carnavalead" ],
+			"5" : [ "carnavaleen" ]
+		}
+	}
+}

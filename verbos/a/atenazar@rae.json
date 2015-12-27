@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atenazar",
+	"word" : "atenazar",
+	"infinitivo" : "atenazar",
+	"participio" : [ "atenazado" ],
+	"gerundio" : [ "atenazando" ],
+	"tenses" : {
+		"3" : [
+			[ "atenazo" ],
+			[ "atenazas", "atenazás" ],
+			[ "atenaza" ],
+			[ "atenazamos" ],
+			[ "atenazáis", "atenazan" ],
+			[ "atenazan" ]
+		],
+		"4" : [
+			[ "atenacé" ],
+			[ "atenazaste" ],
+			[ "atenazó" ],
+			[ "atenazamos" ],
+			[ "atenazasteis", "atenazaron" ],
+			[ "atenazaron" ]
+		],
+		"5" : [
+			[ "atenazaba" ],
+			[ "atenazabas" ],
+			[ "atenazaba" ],
+			[ "atenazábamos" ],
+			[ "atenazabais", "atenazaban" ],
+			[ "atenazaban" ]
+		],
+		"6" : [
+			[ "atenazaría" ],
+			[ "atenazarías" ],
+			[ "atenazaría" ],
+			[ "atenazaríamos" ],
+			[ "atenazaríais", "atenazarían" ],
+			[ "atenazarían" ]
+		],
+		"7" : [
+			[ "atenazaré" ],
+			[ "atenazarás" ],
+			[ "atenazará" ],
+			[ "atenazaremos" ],
+			[ "atenazaréis", "atenazarán" ],
+			[ "atenazarán" ]
+		],
+		"8" : [
+			[ "atenace" ],
+			[ "atenaces" ],
+			[ "atenace" ],
+			[ "atenacemos" ],
+			[ "atenacéis", "atenacen" ],
+			[ "atenacen" ]
+		],
+		"9" : [
+			[ "atenazara" ],
+			[ "atenazaras" ],
+			[ "atenazara" ],
+			[ "atenazáramos" ],
+			[ "atenazarais", "atenazaran" ],
+			[ "atenazaran" ]
+		],
+		"10" : [
+			[ "atenazase" ],
+			[ "atenazases" ],
+			[ "atenazase" ],
+			[ "atenazásemos" ],
+			[ "atenazaseis", "atenazasen" ],
+			[ "atenazasen" ]
+		],
+		"11" : [
+			[ "atenazare" ],
+			[ "atenazares" ],
+			[ "atenazare" ],
+			[ "atenazáremos" ],
+			[ "atenazareis", "atenazaren" ],
+			[ "atenazaren" ]
+		],
+		"12" : {
+			"1" : [ "atenaza" ],
+			"2" : [ "atenace" ],
+			"3" : [ "atenacemos" ],
+			"4" : [ "atenazad" ],
+			"5" : [ "atenacen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desistir",
+	"word" : "desistir",
+	"infinitivo" : "desistir",
+	"participio" : [ "desistido" ],
+	"gerundio" : [ "desistiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desisto" ],
+			[ "desistes", "desistís" ],
+			[ "desiste" ],
+			[ "desistimos" ],
+			[ "desistís", "desisten" ],
+			[ "desisten" ]
+		],
+		"4" : [
+			[ "desistí" ],
+			[ "desististe" ],
+			[ "desistió" ],
+			[ "desistimos" ],
+			[ "desististeis", "desistieron" ],
+			[ "desistieron" ]
+		],
+		"5" : [
+			[ "desistía" ],
+			[ "desistías" ],
+			[ "desistía" ],
+			[ "desistíamos" ],
+			[ "desistíais", "desistían" ],
+			[ "desistían" ]
+		],
+		"6" : [
+			[ "desistiría" ],
+			[ "desistirías" ],
+			[ "desistiría" ],
+			[ "desistiríamos" ],
+			[ "desistiríais", "desistirían" ],
+			[ "desistirían" ]
+		],
+		"7" : [
+			[ "desistiré" ],
+			[ "desistirás" ],
+			[ "desistirá" ],
+			[ "desistiremos" ],
+			[ "desistiréis", "desistirán" ],
+			[ "desistirán" ]
+		],
+		"8" : [
+			[ "desista" ],
+			[ "desistas" ],
+			[ "desista" ],
+			[ "desistamos" ],
+			[ "desistáis", "desistan" ],
+			[ "desistan" ]
+		],
+		"9" : [
+			[ "desistiera" ],
+			[ "desistieras" ],
+			[ "desistiera" ],
+			[ "desistiéramos" ],
+			[ "desistierais", "desistieran" ],
+			[ "desistieran" ]
+		],
+		"10" : [
+			[ "desistiese" ],
+			[ "desistieses" ],
+			[ "desistiese" ],
+			[ "desistiésemos" ],
+			[ "desistieseis", "desistiesen" ],
+			[ "desistiesen" ]
+		],
+		"11" : [
+			[ "desistiere" ],
+			[ "desistieres" ],
+			[ "desistiere" ],
+			[ "desistiéremos" ],
+			[ "desistiereis", "desistieren" ],
+			[ "desistieren" ]
+		],
+		"12" : {
+			"1" : [ "desiste" ],
+			"2" : [ "desista" ],
+			"3" : [ "desistamos" ],
+			"4" : [ "desistid" ],
+			"5" : [ "desistan" ]
+		}
+	}
+}

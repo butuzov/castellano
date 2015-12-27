@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ayudar",
+	"word" : "ayudar",
+	"infinitivo" : "ayudar",
+	"participio" : [ "ayudado" ],
+	"gerundio" : [ "ayudando" ],
+	"tenses" : {
+		"3" : [
+			[ "ayudo" ],
+			[ "ayudas", "ayudás" ],
+			[ "ayuda" ],
+			[ "ayudamos" ],
+			[ "ayudáis", "ayudan" ],
+			[ "ayudan" ]
+		],
+		"4" : [
+			[ "ayudé" ],
+			[ "ayudaste" ],
+			[ "ayudó" ],
+			[ "ayudamos" ],
+			[ "ayudasteis", "ayudaron" ],
+			[ "ayudaron" ]
+		],
+		"5" : [
+			[ "ayudaba" ],
+			[ "ayudabas" ],
+			[ "ayudaba" ],
+			[ "ayudábamos" ],
+			[ "ayudabais", "ayudaban" ],
+			[ "ayudaban" ]
+		],
+		"6" : [
+			[ "ayudaría" ],
+			[ "ayudarías" ],
+			[ "ayudaría" ],
+			[ "ayudaríamos" ],
+			[ "ayudaríais", "ayudarían" ],
+			[ "ayudarían" ]
+		],
+		"7" : [
+			[ "ayudaré" ],
+			[ "ayudarás" ],
+			[ "ayudará" ],
+			[ "ayudaremos" ],
+			[ "ayudaréis", "ayudarán" ],
+			[ "ayudarán" ]
+		],
+		"8" : [
+			[ "ayude" ],
+			[ "ayudes" ],
+			[ "ayude" ],
+			[ "ayudemos" ],
+			[ "ayudéis", "ayuden" ],
+			[ "ayuden" ]
+		],
+		"9" : [
+			[ "ayudara" ],
+			[ "ayudaras" ],
+			[ "ayudara" ],
+			[ "ayudáramos" ],
+			[ "ayudarais", "ayudaran" ],
+			[ "ayudaran" ]
+		],
+		"10" : [
+			[ "ayudase" ],
+			[ "ayudases" ],
+			[ "ayudase" ],
+			[ "ayudásemos" ],
+			[ "ayudaseis", "ayudasen" ],
+			[ "ayudasen" ]
+		],
+		"11" : [
+			[ "ayudare" ],
+			[ "ayudares" ],
+			[ "ayudare" ],
+			[ "ayudáremos" ],
+			[ "ayudareis", "ayudaren" ],
+			[ "ayudaren" ]
+		],
+		"12" : {
+			"1" : [ "ayuda" ],
+			"2" : [ "ayude" ],
+			"3" : [ "ayudemos" ],
+			"4" : [ "ayudad" ],
+			"5" : [ "ayuden" ]
+		}
+	}
+}

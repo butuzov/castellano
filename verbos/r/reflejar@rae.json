@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reflejar",
+	"word" : "reflejar",
+	"infinitivo" : "reflejar",
+	"participio" : [ "reflejado" ],
+	"gerundio" : [ "reflejando" ],
+	"tenses" : {
+		"3" : [
+			[ "reflejo" ],
+			[ "reflejas", "reflejás" ],
+			[ "refleja" ],
+			[ "reflejamos" ],
+			[ "reflejáis", "reflejan" ],
+			[ "reflejan" ]
+		],
+		"4" : [
+			[ "reflejé" ],
+			[ "reflejaste" ],
+			[ "reflejó" ],
+			[ "reflejamos" ],
+			[ "reflejasteis", "reflejaron" ],
+			[ "reflejaron" ]
+		],
+		"5" : [
+			[ "reflejaba" ],
+			[ "reflejabas" ],
+			[ "reflejaba" ],
+			[ "reflejábamos" ],
+			[ "reflejabais", "reflejaban" ],
+			[ "reflejaban" ]
+		],
+		"6" : [
+			[ "reflejaría" ],
+			[ "reflejarías" ],
+			[ "reflejaría" ],
+			[ "reflejaríamos" ],
+			[ "reflejaríais", "reflejarían" ],
+			[ "reflejarían" ]
+		],
+		"7" : [
+			[ "reflejaré" ],
+			[ "reflejarás" ],
+			[ "reflejará" ],
+			[ "reflejaremos" ],
+			[ "reflejaréis", "reflejarán" ],
+			[ "reflejarán" ]
+		],
+		"8" : [
+			[ "refleje" ],
+			[ "reflejes" ],
+			[ "refleje" ],
+			[ "reflejemos" ],
+			[ "reflejéis", "reflejen" ],
+			[ "reflejen" ]
+		],
+		"9" : [
+			[ "reflejara" ],
+			[ "reflejaras" ],
+			[ "reflejara" ],
+			[ "reflejáramos" ],
+			[ "reflejarais", "reflejaran" ],
+			[ "reflejaran" ]
+		],
+		"10" : [
+			[ "reflejase" ],
+			[ "reflejases" ],
+			[ "reflejase" ],
+			[ "reflejásemos" ],
+			[ "reflejaseis", "reflejasen" ],
+			[ "reflejasen" ]
+		],
+		"11" : [
+			[ "reflejare" ],
+			[ "reflejares" ],
+			[ "reflejare" ],
+			[ "reflejáremos" ],
+			[ "reflejareis", "reflejaren" ],
+			[ "reflejaren" ]
+		],
+		"12" : {
+			"1" : [ "refleja" ],
+			"2" : [ "refleje" ],
+			"3" : [ "reflejemos" ],
+			"4" : [ "reflejad" ],
+			"5" : [ "reflejen" ]
+		}
+	}
+}

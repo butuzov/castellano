@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aventurar",
+	"word" : "aventurar",
+	"infinitivo" : "aventurar",
+	"participio" : [ "aventurado" ],
+	"gerundio" : [ "aventurando" ],
+	"tenses" : {
+		"3" : [
+			[ "aventuro" ],
+			[ "aventuras", "aventurás" ],
+			[ "aventura" ],
+			[ "aventuramos" ],
+			[ "aventuráis", "aventuran" ],
+			[ "aventuran" ]
+		],
+		"4" : [
+			[ "aventuré" ],
+			[ "aventuraste" ],
+			[ "aventuró" ],
+			[ "aventuramos" ],
+			[ "aventurasteis", "aventuraron" ],
+			[ "aventuraron" ]
+		],
+		"5" : [
+			[ "aventuraba" ],
+			[ "aventurabas" ],
+			[ "aventuraba" ],
+			[ "aventurábamos" ],
+			[ "aventurabais", "aventuraban" ],
+			[ "aventuraban" ]
+		],
+		"6" : [
+			[ "aventuraría" ],
+			[ "aventurarías" ],
+			[ "aventuraría" ],
+			[ "aventuraríamos" ],
+			[ "aventuraríais", "aventurarían" ],
+			[ "aventurarían" ]
+		],
+		"7" : [
+			[ "aventuraré" ],
+			[ "aventurarás" ],
+			[ "aventurará" ],
+			[ "aventuraremos" ],
+			[ "aventuraréis", "aventurarán" ],
+			[ "aventurarán" ]
+		],
+		"8" : [
+			[ "aventure" ],
+			[ "aventures" ],
+			[ "aventure" ],
+			[ "aventuremos" ],
+			[ "aventuréis", "aventuren" ],
+			[ "aventuren" ]
+		],
+		"9" : [
+			[ "aventurara" ],
+			[ "aventuraras" ],
+			[ "aventurara" ],
+			[ "aventuráramos" ],
+			[ "aventurarais", "aventuraran" ],
+			[ "aventuraran" ]
+		],
+		"10" : [
+			[ "aventurase" ],
+			[ "aventurases" ],
+			[ "aventurase" ],
+			[ "aventurásemos" ],
+			[ "aventuraseis", "aventurasen" ],
+			[ "aventurasen" ]
+		],
+		"11" : [
+			[ "aventurare" ],
+			[ "aventurares" ],
+			[ "aventurare" ],
+			[ "aventuráremos" ],
+			[ "aventurareis", "aventuraren" ],
+			[ "aventuraren" ]
+		],
+		"12" : {
+			"1" : [ "aventura" ],
+			"2" : [ "aventure" ],
+			"3" : [ "aventuremos" ],
+			"4" : [ "aventurad" ],
+			"5" : [ "aventuren" ]
+		}
+	}
+}

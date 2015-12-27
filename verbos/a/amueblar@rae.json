@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amueblar",
+	"word" : "amueblar",
+	"infinitivo" : "amueblar",
+	"participio" : [ "amueblado" ],
+	"gerundio" : [ "amueblando" ],
+	"tenses" : {
+		"3" : [
+			[ "amueblo" ],
+			[ "amueblas", "amueblás" ],
+			[ "amuebla" ],
+			[ "amueblamos" ],
+			[ "amuebláis", "amueblan" ],
+			[ "amueblan" ]
+		],
+		"4" : [
+			[ "amueblé" ],
+			[ "amueblaste" ],
+			[ "amuebló" ],
+			[ "amueblamos" ],
+			[ "amueblasteis", "amueblaron" ],
+			[ "amueblaron" ]
+		],
+		"5" : [
+			[ "amueblaba" ],
+			[ "amueblabas" ],
+			[ "amueblaba" ],
+			[ "amueblábamos" ],
+			[ "amueblabais", "amueblaban" ],
+			[ "amueblaban" ]
+		],
+		"6" : [
+			[ "amueblaría" ],
+			[ "amueblarías" ],
+			[ "amueblaría" ],
+			[ "amueblaríamos" ],
+			[ "amueblaríais", "amueblarían" ],
+			[ "amueblarían" ]
+		],
+		"7" : [
+			[ "amueblaré" ],
+			[ "amueblarás" ],
+			[ "amueblará" ],
+			[ "amueblaremos" ],
+			[ "amueblaréis", "amueblarán" ],
+			[ "amueblarán" ]
+		],
+		"8" : [
+			[ "amueble" ],
+			[ "amuebles" ],
+			[ "amueble" ],
+			[ "amueblemos" ],
+			[ "amuebléis", "amueblen" ],
+			[ "amueblen" ]
+		],
+		"9" : [
+			[ "amueblara" ],
+			[ "amueblaras" ],
+			[ "amueblara" ],
+			[ "amuebláramos" ],
+			[ "amueblarais", "amueblaran" ],
+			[ "amueblaran" ]
+		],
+		"10" : [
+			[ "amueblase" ],
+			[ "amueblases" ],
+			[ "amueblase" ],
+			[ "amueblásemos" ],
+			[ "amueblaseis", "amueblasen" ],
+			[ "amueblasen" ]
+		],
+		"11" : [
+			[ "amueblare" ],
+			[ "amueblares" ],
+			[ "amueblare" ],
+			[ "amuebláremos" ],
+			[ "amueblareis", "amueblaren" ],
+			[ "amueblaren" ]
+		],
+		"12" : {
+			"1" : [ "amuebla" ],
+			"2" : [ "amueble" ],
+			"3" : [ "amueblemos" ],
+			"4" : [ "amueblad" ],
+			"5" : [ "amueblen" ]
+		}
+	}
+}

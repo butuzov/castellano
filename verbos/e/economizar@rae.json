@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=economizar",
+	"word" : "economizar",
+	"infinitivo" : "economizar",
+	"participio" : [ "economizado" ],
+	"gerundio" : [ "economizando" ],
+	"tenses" : {
+		"3" : [
+			[ "economizo" ],
+			[ "economizas", "economizás" ],
+			[ "economiza" ],
+			[ "economizamos" ],
+			[ "economizáis", "economizan" ],
+			[ "economizan" ]
+		],
+		"4" : [
+			[ "economicé" ],
+			[ "economizaste" ],
+			[ "economizó" ],
+			[ "economizamos" ],
+			[ "economizasteis", "economizaron" ],
+			[ "economizaron" ]
+		],
+		"5" : [
+			[ "economizaba" ],
+			[ "economizabas" ],
+			[ "economizaba" ],
+			[ "economizábamos" ],
+			[ "economizabais", "economizaban" ],
+			[ "economizaban" ]
+		],
+		"6" : [
+			[ "economizaría" ],
+			[ "economizarías" ],
+			[ "economizaría" ],
+			[ "economizaríamos" ],
+			[ "economizaríais", "economizarían" ],
+			[ "economizarían" ]
+		],
+		"7" : [
+			[ "economizaré" ],
+			[ "economizarás" ],
+			[ "economizará" ],
+			[ "economizaremos" ],
+			[ "economizaréis", "economizarán" ],
+			[ "economizarán" ]
+		],
+		"8" : [
+			[ "economice" ],
+			[ "economices" ],
+			[ "economice" ],
+			[ "economicemos" ],
+			[ "economicéis", "economicen" ],
+			[ "economicen" ]
+		],
+		"9" : [
+			[ "economizara" ],
+			[ "economizaras" ],
+			[ "economizara" ],
+			[ "economizáramos" ],
+			[ "economizarais", "economizaran" ],
+			[ "economizaran" ]
+		],
+		"10" : [
+			[ "economizase" ],
+			[ "economizases" ],
+			[ "economizase" ],
+			[ "economizásemos" ],
+			[ "economizaseis", "economizasen" ],
+			[ "economizasen" ]
+		],
+		"11" : [
+			[ "economizare" ],
+			[ "economizares" ],
+			[ "economizare" ],
+			[ "economizáremos" ],
+			[ "economizareis", "economizaren" ],
+			[ "economizaren" ]
+		],
+		"12" : {
+			"1" : [ "economiza" ],
+			"2" : [ "economice" ],
+			"3" : [ "economicemos" ],
+			"4" : [ "economizad" ],
+			"5" : [ "economicen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ultimar",
+	"word" : "ultimar",
+	"infinitivo" : "ultimar",
+	"participio" : [ "ultimado" ],
+	"gerundio" : [ "ultimando" ],
+	"tenses" : {
+		"3" : [
+			[ "ultimo" ],
+			[ "ultimas", "ultimás" ],
+			[ "ultima" ],
+			[ "ultimamos" ],
+			[ "ultimáis", "ultiman" ],
+			[ "ultiman" ]
+		],
+		"4" : [
+			[ "ultimé" ],
+			[ "ultimaste" ],
+			[ "ultimó" ],
+			[ "ultimamos" ],
+			[ "ultimasteis", "ultimaron" ],
+			[ "ultimaron" ]
+		],
+		"5" : [
+			[ "ultimaba" ],
+			[ "ultimabas" ],
+			[ "ultimaba" ],
+			[ "ultimábamos" ],
+			[ "ultimabais", "ultimaban" ],
+			[ "ultimaban" ]
+		],
+		"6" : [
+			[ "ultimaría" ],
+			[ "ultimarías" ],
+			[ "ultimaría" ],
+			[ "ultimaríamos" ],
+			[ "ultimaríais", "ultimarían" ],
+			[ "ultimarían" ]
+		],
+		"7" : [
+			[ "ultimaré" ],
+			[ "ultimarás" ],
+			[ "ultimará" ],
+			[ "ultimaremos" ],
+			[ "ultimaréis", "ultimarán" ],
+			[ "ultimarán" ]
+		],
+		"8" : [
+			[ "ultime" ],
+			[ "ultimes" ],
+			[ "ultime" ],
+			[ "ultimemos" ],
+			[ "ultiméis", "ultimen" ],
+			[ "ultimen" ]
+		],
+		"9" : [
+			[ "ultimara" ],
+			[ "ultimaras" ],
+			[ "ultimara" ],
+			[ "ultimáramos" ],
+			[ "ultimarais", "ultimaran" ],
+			[ "ultimaran" ]
+		],
+		"10" : [
+			[ "ultimase" ],
+			[ "ultimases" ],
+			[ "ultimase" ],
+			[ "ultimásemos" ],
+			[ "ultimaseis", "ultimasen" ],
+			[ "ultimasen" ]
+		],
+		"11" : [
+			[ "ultimare" ],
+			[ "ultimares" ],
+			[ "ultimare" ],
+			[ "ultimáremos" ],
+			[ "ultimareis", "ultimaren" ],
+			[ "ultimaren" ]
+		],
+		"12" : {
+			"1" : [ "ultima" ],
+			"2" : [ "ultime" ],
+			"3" : [ "ultimemos" ],
+			"4" : [ "ultimad" ],
+			"5" : [ "ultimen" ]
+		}
+	}
+}

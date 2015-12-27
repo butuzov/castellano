@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=decapitar",
+	"word" : "decapitar",
+	"infinitivo" : "decapitar",
+	"participio" : [ "decapitado" ],
+	"gerundio" : [ "decapitando" ],
+	"tenses" : {
+		"3" : [
+			[ "decapito" ],
+			[ "decapitas", "decapitás" ],
+			[ "decapita" ],
+			[ "decapitamos" ],
+			[ "decapitáis", "decapitan" ],
+			[ "decapitan" ]
+		],
+		"4" : [
+			[ "decapité" ],
+			[ "decapitaste" ],
+			[ "decapitó" ],
+			[ "decapitamos" ],
+			[ "decapitasteis", "decapitaron" ],
+			[ "decapitaron" ]
+		],
+		"5" : [
+			[ "decapitaba" ],
+			[ "decapitabas" ],
+			[ "decapitaba" ],
+			[ "decapitábamos" ],
+			[ "decapitabais", "decapitaban" ],
+			[ "decapitaban" ]
+		],
+		"6" : [
+			[ "decapitaría" ],
+			[ "decapitarías" ],
+			[ "decapitaría" ],
+			[ "decapitaríamos" ],
+			[ "decapitaríais", "decapitarían" ],
+			[ "decapitarían" ]
+		],
+		"7" : [
+			[ "decapitaré" ],
+			[ "decapitarás" ],
+			[ "decapitará" ],
+			[ "decapitaremos" ],
+			[ "decapitaréis", "decapitarán" ],
+			[ "decapitarán" ]
+		],
+		"8" : [
+			[ "decapite" ],
+			[ "decapites" ],
+			[ "decapite" ],
+			[ "decapitemos" ],
+			[ "decapitéis", "decapiten" ],
+			[ "decapiten" ]
+		],
+		"9" : [
+			[ "decapitara" ],
+			[ "decapitaras" ],
+			[ "decapitara" ],
+			[ "decapitáramos" ],
+			[ "decapitarais", "decapitaran" ],
+			[ "decapitaran" ]
+		],
+		"10" : [
+			[ "decapitase" ],
+			[ "decapitases" ],
+			[ "decapitase" ],
+			[ "decapitásemos" ],
+			[ "decapitaseis", "decapitasen" ],
+			[ "decapitasen" ]
+		],
+		"11" : [
+			[ "decapitare" ],
+			[ "decapitares" ],
+			[ "decapitare" ],
+			[ "decapitáremos" ],
+			[ "decapitareis", "decapitaren" ],
+			[ "decapitaren" ]
+		],
+		"12" : {
+			"1" : [ "decapita" ],
+			"2" : [ "decapite" ],
+			"3" : [ "decapitemos" ],
+			"4" : [ "decapitad" ],
+			"5" : [ "decapiten" ]
+		}
+	}
+}

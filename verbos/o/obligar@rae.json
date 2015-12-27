@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=obligar",
+	"word" : "obligar",
+	"infinitivo" : "obligar",
+	"participio" : [ "obligado" ],
+	"gerundio" : [ "obligando" ],
+	"tenses" : {
+		"3" : [
+			[ "obligo" ],
+			[ "obligas", "obligás" ],
+			[ "obliga" ],
+			[ "obligamos" ],
+			[ "obligáis", "obligan" ],
+			[ "obligan" ]
+		],
+		"4" : [
+			[ "obligué" ],
+			[ "obligaste" ],
+			[ "obligó" ],
+			[ "obligamos" ],
+			[ "obligasteis", "obligaron" ],
+			[ "obligaron" ]
+		],
+		"5" : [
+			[ "obligaba" ],
+			[ "obligabas" ],
+			[ "obligaba" ],
+			[ "obligábamos" ],
+			[ "obligabais", "obligaban" ],
+			[ "obligaban" ]
+		],
+		"6" : [
+			[ "obligaría" ],
+			[ "obligarías" ],
+			[ "obligaría" ],
+			[ "obligaríamos" ],
+			[ "obligaríais", "obligarían" ],
+			[ "obligarían" ]
+		],
+		"7" : [
+			[ "obligaré" ],
+			[ "obligarás" ],
+			[ "obligará" ],
+			[ "obligaremos" ],
+			[ "obligaréis", "obligarán" ],
+			[ "obligarán" ]
+		],
+		"8" : [
+			[ "obligue" ],
+			[ "obligues" ],
+			[ "obligue" ],
+			[ "obliguemos" ],
+			[ "obliguéis", "obliguen" ],
+			[ "obliguen" ]
+		],
+		"9" : [
+			[ "obligara" ],
+			[ "obligaras" ],
+			[ "obligara" ],
+			[ "obligáramos" ],
+			[ "obligarais", "obligaran" ],
+			[ "obligaran" ]
+		],
+		"10" : [
+			[ "obligase" ],
+			[ "obligases" ],
+			[ "obligase" ],
+			[ "obligásemos" ],
+			[ "obligaseis", "obligasen" ],
+			[ "obligasen" ]
+		],
+		"11" : [
+			[ "obligare" ],
+			[ "obligares" ],
+			[ "obligare" ],
+			[ "obligáremos" ],
+			[ "obligareis", "obligaren" ],
+			[ "obligaren" ]
+		],
+		"12" : {
+			"1" : [ "obliga" ],
+			"2" : [ "obligue" ],
+			"3" : [ "obliguemos" ],
+			"4" : [ "obligad" ],
+			"5" : [ "obliguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=consignar",
+	"word" : "consignar",
+	"infinitivo" : "consignar",
+	"participio" : [ "consignado" ],
+	"gerundio" : [ "consignando" ],
+	"tenses" : {
+		"3" : [
+			[ "consigno" ],
+			[ "consignas", "consignás" ],
+			[ "consigna" ],
+			[ "consignamos" ],
+			[ "consignáis", "consignan" ],
+			[ "consignan" ]
+		],
+		"4" : [
+			[ "consigné" ],
+			[ "consignaste" ],
+			[ "consignó" ],
+			[ "consignamos" ],
+			[ "consignasteis", "consignaron" ],
+			[ "consignaron" ]
+		],
+		"5" : [
+			[ "consignaba" ],
+			[ "consignabas" ],
+			[ "consignaba" ],
+			[ "consignábamos" ],
+			[ "consignabais", "consignaban" ],
+			[ "consignaban" ]
+		],
+		"6" : [
+			[ "consignaría" ],
+			[ "consignarías" ],
+			[ "consignaría" ],
+			[ "consignaríamos" ],
+			[ "consignaríais", "consignarían" ],
+			[ "consignarían" ]
+		],
+		"7" : [
+			[ "consignaré" ],
+			[ "consignarás" ],
+			[ "consignará" ],
+			[ "consignaremos" ],
+			[ "consignaréis", "consignarán" ],
+			[ "consignarán" ]
+		],
+		"8" : [
+			[ "consigne" ],
+			[ "consignes" ],
+			[ "consigne" ],
+			[ "consignemos" ],
+			[ "consignéis", "consignen" ],
+			[ "consignen" ]
+		],
+		"9" : [
+			[ "consignara" ],
+			[ "consignaras" ],
+			[ "consignara" ],
+			[ "consignáramos" ],
+			[ "consignarais", "consignaran" ],
+			[ "consignaran" ]
+		],
+		"10" : [
+			[ "consignase" ],
+			[ "consignases" ],
+			[ "consignase" ],
+			[ "consignásemos" ],
+			[ "consignaseis", "consignasen" ],
+			[ "consignasen" ]
+		],
+		"11" : [
+			[ "consignare" ],
+			[ "consignares" ],
+			[ "consignare" ],
+			[ "consignáremos" ],
+			[ "consignareis", "consignaren" ],
+			[ "consignaren" ]
+		],
+		"12" : {
+			"1" : [ "consigna" ],
+			"2" : [ "consigne" ],
+			"3" : [ "consignemos" ],
+			"4" : [ "consignad" ],
+			"5" : [ "consignen" ]
+		}
+	}
+}

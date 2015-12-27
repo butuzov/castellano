@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=componer",
+	"word" : "componer",
+	"infinitivo" : "componer",
+	"participio" : [ "compuesto" ],
+	"gerundio" : [ "componiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "compongo" ],
+			[ "compones", "componés" ],
+			[ "compone" ],
+			[ "componemos" ],
+			[ "componéis", "componen" ],
+			[ "componen" ]
+		],
+		"4" : [
+			[ "compuse" ],
+			[ "compusiste" ],
+			[ "compuso" ],
+			[ "compusimos" ],
+			[ "compusisteis", "compusieron" ],
+			[ "compusieron" ]
+		],
+		"5" : [
+			[ "componía" ],
+			[ "componías" ],
+			[ "componía" ],
+			[ "componíamos" ],
+			[ "componíais", "componían" ],
+			[ "componían" ]
+		],
+		"6" : [
+			[ "compondría" ],
+			[ "compondrías" ],
+			[ "compondría" ],
+			[ "compondríamos" ],
+			[ "compondríais", "compondrían" ],
+			[ "compondrían" ]
+		],
+		"7" : [
+			[ "compondré" ],
+			[ "compondrás" ],
+			[ "compondrá" ],
+			[ "compondremos" ],
+			[ "compondréis", "compondrán" ],
+			[ "compondrán" ]
+		],
+		"8" : [
+			[ "componga" ],
+			[ "compongas" ],
+			[ "componga" ],
+			[ "compongamos" ],
+			[ "compongáis", "compongan" ],
+			[ "compongan" ]
+		],
+		"9" : [
+			[ "compusiera" ],
+			[ "compusieras" ],
+			[ "compusiera" ],
+			[ "compusiéramos" ],
+			[ "compusierais", "compusieran" ],
+			[ "compusieran" ]
+		],
+		"10" : [
+			[ "compusiese" ],
+			[ "compusieses" ],
+			[ "compusiese" ],
+			[ "compusiésemos" ],
+			[ "compusieseis", "compusiesen" ],
+			[ "compusiesen" ]
+		],
+		"11" : [
+			[ "compusiere" ],
+			[ "compusieres" ],
+			[ "compusiere" ],
+			[ "compusiéremos" ],
+			[ "compusiereis", "compusieren" ],
+			[ "compusieren" ]
+		],
+		"12" : {
+			"1" : [ "compón" ],
+			"2" : [ "componga" ],
+			"3" : [ "compongamos" ],
+			"4" : [ "componed" ],
+			"5" : [ "compongan" ]
+		}
+	}
+}

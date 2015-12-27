@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bastardear",
+	"word" : "bastardear",
+	"infinitivo" : "bastardear",
+	"participio" : [ "bastardeado" ],
+	"gerundio" : [ "bastardeando" ],
+	"tenses" : {
+		"3" : [
+			[ "bastardeo" ],
+			[ "bastardeas", "bastardeás" ],
+			[ "bastardea" ],
+			[ "bastardeamos" ],
+			[ "bastardeáis", "bastardean" ],
+			[ "bastardean" ]
+		],
+		"4" : [
+			[ "bastardeé" ],
+			[ "bastardeaste" ],
+			[ "bastardeó" ],
+			[ "bastardeamos" ],
+			[ "bastardeasteis", "bastardearon" ],
+			[ "bastardearon" ]
+		],
+		"5" : [
+			[ "bastardeaba" ],
+			[ "bastardeabas" ],
+			[ "bastardeaba" ],
+			[ "bastardeábamos" ],
+			[ "bastardeabais", "bastardeaban" ],
+			[ "bastardeaban" ]
+		],
+		"6" : [
+			[ "bastardearía" ],
+			[ "bastardearías" ],
+			[ "bastardearía" ],
+			[ "bastardearíamos" ],
+			[ "bastardearíais", "bastardearían" ],
+			[ "bastardearían" ]
+		],
+		"7" : [
+			[ "bastardearé" ],
+			[ "bastardearás" ],
+			[ "bastardeará" ],
+			[ "bastardearemos" ],
+			[ "bastardearéis", "bastardearán" ],
+			[ "bastardearán" ]
+		],
+		"8" : [
+			[ "bastardee" ],
+			[ "bastardees" ],
+			[ "bastardee" ],
+			[ "bastardeemos" ],
+			[ "bastardeéis", "bastardeen" ],
+			[ "bastardeen" ]
+		],
+		"9" : [
+			[ "bastardeara" ],
+			[ "bastardearas" ],
+			[ "bastardeara" ],
+			[ "bastardeáramos" ],
+			[ "bastardearais", "bastardearan" ],
+			[ "bastardearan" ]
+		],
+		"10" : [
+			[ "bastardease" ],
+			[ "bastardeases" ],
+			[ "bastardease" ],
+			[ "bastardeásemos" ],
+			[ "bastardeaseis", "bastardeasen" ],
+			[ "bastardeasen" ]
+		],
+		"11" : [
+			[ "bastardeare" ],
+			[ "bastardeares" ],
+			[ "bastardeare" ],
+			[ "bastardeáremos" ],
+			[ "bastardeareis", "bastardearen" ],
+			[ "bastardearen" ]
+		],
+		"12" : {
+			"1" : [ "bastardea" ],
+			"2" : [ "bastardee" ],
+			"3" : [ "bastardeemos" ],
+			"4" : [ "bastardead" ],
+			"5" : [ "bastardeen" ]
+		}
+	}
+}

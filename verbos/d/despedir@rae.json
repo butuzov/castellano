@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despedir",
+	"word" : "despedir",
+	"infinitivo" : "despedir",
+	"participio" : [ "despedido" ],
+	"gerundio" : [ "despidiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "despido" ],
+			[ "despides", "despedís" ],
+			[ "despide" ],
+			[ "despedimos" ],
+			[ "despedís", "despiden" ],
+			[ "despiden" ]
+		],
+		"4" : [
+			[ "despedí" ],
+			[ "despediste" ],
+			[ "despidió" ],
+			[ "despedimos" ],
+			[ "despedisteis", "despidieron" ],
+			[ "despidieron" ]
+		],
+		"5" : [
+			[ "despedía" ],
+			[ "despedías" ],
+			[ "despedía" ],
+			[ "despedíamos" ],
+			[ "despedíais", "despedían" ],
+			[ "despedían" ]
+		],
+		"6" : [
+			[ "despediría" ],
+			[ "despedirías" ],
+			[ "despediría" ],
+			[ "despediríamos" ],
+			[ "despediríais", "despedirían" ],
+			[ "despedirían" ]
+		],
+		"7" : [
+			[ "despediré" ],
+			[ "despedirás" ],
+			[ "despedirá" ],
+			[ "despediremos" ],
+			[ "despediréis", "despedirán" ],
+			[ "despedirán" ]
+		],
+		"8" : [
+			[ "despida" ],
+			[ "despidas" ],
+			[ "despida" ],
+			[ "despidamos" ],
+			[ "despidáis", "despidan" ],
+			[ "despidan" ]
+		],
+		"9" : [
+			[ "despidiera" ],
+			[ "despidieras" ],
+			[ "despidiera" ],
+			[ "despidiéramos" ],
+			[ "despidierais", "despidieran" ],
+			[ "despidieran" ]
+		],
+		"10" : [
+			[ "despidiese" ],
+			[ "despidieses" ],
+			[ "despidiese" ],
+			[ "despidiésemos" ],
+			[ "despidieseis", "despidiesen" ],
+			[ "despidiesen" ]
+		],
+		"11" : [
+			[ "despidiere" ],
+			[ "despidieres" ],
+			[ "despidiere" ],
+			[ "despidiéremos" ],
+			[ "despidiereis", "despidieren" ],
+			[ "despidieren" ]
+		],
+		"12" : {
+			"1" : [ "despide" ],
+			"2" : [ "despida" ],
+			"3" : [ "despidamos" ],
+			"4" : [ "despedid" ],
+			"5" : [ "despidan" ]
+		}
+	}
+}

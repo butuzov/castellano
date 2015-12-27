@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deslucir",
+	"word" : "deslucir",
+	"infinitivo" : "deslucir",
+	"participio" : [ "deslucido" ],
+	"gerundio" : [ "desluciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desluzco" ],
+			[ "desluces", "deslucís" ],
+			[ "desluce" ],
+			[ "deslucimos" ],
+			[ "deslucís", "deslucen" ],
+			[ "deslucen" ]
+		],
+		"4" : [
+			[ "deslucí" ],
+			[ "desluciste" ],
+			[ "deslució" ],
+			[ "deslucimos" ],
+			[ "deslucisteis", "deslucieron" ],
+			[ "deslucieron" ]
+		],
+		"5" : [
+			[ "deslucía" ],
+			[ "deslucías" ],
+			[ "deslucía" ],
+			[ "deslucíamos" ],
+			[ "deslucíais", "deslucían" ],
+			[ "deslucían" ]
+		],
+		"6" : [
+			[ "desluciría" ],
+			[ "deslucirías" ],
+			[ "desluciría" ],
+			[ "desluciríamos" ],
+			[ "desluciríais", "deslucirían" ],
+			[ "deslucirían" ]
+		],
+		"7" : [
+			[ "desluciré" ],
+			[ "deslucirás" ],
+			[ "deslucirá" ],
+			[ "desluciremos" ],
+			[ "desluciréis", "deslucirán" ],
+			[ "deslucirán" ]
+		],
+		"8" : [
+			[ "desluzca" ],
+			[ "desluzcas" ],
+			[ "desluzca" ],
+			[ "desluzcamos" ],
+			[ "desluzcáis", "desluzcan" ],
+			[ "desluzcan" ]
+		],
+		"9" : [
+			[ "desluciera" ],
+			[ "deslucieras" ],
+			[ "desluciera" ],
+			[ "desluciéramos" ],
+			[ "deslucierais", "deslucieran" ],
+			[ "deslucieran" ]
+		],
+		"10" : [
+			[ "desluciese" ],
+			[ "deslucieses" ],
+			[ "desluciese" ],
+			[ "desluciésemos" ],
+			[ "deslucieseis", "desluciesen" ],
+			[ "desluciesen" ]
+		],
+		"11" : [
+			[ "desluciere" ],
+			[ "deslucieres" ],
+			[ "desluciere" ],
+			[ "desluciéremos" ],
+			[ "desluciereis", "deslucieren" ],
+			[ "deslucieren" ]
+		],
+		"12" : {
+			"1" : [ "desluce" ],
+			"2" : [ "desluzca" ],
+			"3" : [ "desluzcamos" ],
+			"4" : [ "deslucid" ],
+			"5" : [ "desluzcan" ]
+		}
+	}
+}

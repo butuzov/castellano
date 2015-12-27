@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=herrar",
+	"word" : "herrar",
+	"infinitivo" : "herrar",
+	"participio" : [ "herrado" ],
+	"gerundio" : [ "herrando" ],
+	"tenses" : {
+		"3" : [
+			[ "hierro" ],
+			[ "hierras", "herrás" ],
+			[ "hierra" ],
+			[ "herramos" ],
+			[ "herráis", "hierran" ],
+			[ "hierran" ]
+		],
+		"4" : [
+			[ "herré" ],
+			[ "herraste" ],
+			[ "herró" ],
+			[ "herramos" ],
+			[ "herrasteis", "herraron" ],
+			[ "herraron" ]
+		],
+		"5" : [
+			[ "herraba" ],
+			[ "herrabas" ],
+			[ "herraba" ],
+			[ "herrábamos" ],
+			[ "herrabais", "herraban" ],
+			[ "herraban" ]
+		],
+		"6" : [
+			[ "herraría" ],
+			[ "herrarías" ],
+			[ "herraría" ],
+			[ "herraríamos" ],
+			[ "herraríais", "herrarían" ],
+			[ "herrarían" ]
+		],
+		"7" : [
+			[ "herraré" ],
+			[ "herrarás" ],
+			[ "herrará" ],
+			[ "herraremos" ],
+			[ "herraréis", "herrarán" ],
+			[ "herrarán" ]
+		],
+		"8" : [
+			[ "hierre" ],
+			[ "hierres" ],
+			[ "hierre" ],
+			[ "herremos" ],
+			[ "herréis", "hierren" ],
+			[ "hierren" ]
+		],
+		"9" : [
+			[ "herrara" ],
+			[ "herraras" ],
+			[ "herrara" ],
+			[ "herráramos" ],
+			[ "herrarais", "herraran" ],
+			[ "herraran" ]
+		],
+		"10" : [
+			[ "herrase" ],
+			[ "herrases" ],
+			[ "herrase" ],
+			[ "herrásemos" ],
+			[ "herraseis", "herrasen" ],
+			[ "herrasen" ]
+		],
+		"11" : [
+			[ "herrare" ],
+			[ "herrares" ],
+			[ "herrare" ],
+			[ "herráremos" ],
+			[ "herrareis", "herraren" ],
+			[ "herraren" ]
+		],
+		"12" : {
+			"1" : [ "hierra" ],
+			"2" : [ "hierre" ],
+			"3" : [ "herremos" ],
+			"4" : [ "herrad" ],
+			"5" : [ "hierren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abroncar",
+	"word" : "abroncar",
+	"infinitivo" : "abroncar",
+	"participio" : [ "abroncado" ],
+	"gerundio" : [ "abroncando" ],
+	"tenses" : {
+		"3" : [
+			[ "abronco" ],
+			[ "abroncas", "abroncás" ],
+			[ "abronca" ],
+			[ "abroncamos" ],
+			[ "abroncáis", "abroncan" ],
+			[ "abroncan" ]
+		],
+		"4" : [
+			[ "abronqué" ],
+			[ "abroncaste" ],
+			[ "abroncó" ],
+			[ "abroncamos" ],
+			[ "abroncasteis", "abroncaron" ],
+			[ "abroncaron" ]
+		],
+		"5" : [
+			[ "abroncaba" ],
+			[ "abroncabas" ],
+			[ "abroncaba" ],
+			[ "abroncábamos" ],
+			[ "abroncabais", "abroncaban" ],
+			[ "abroncaban" ]
+		],
+		"6" : [
+			[ "abroncaría" ],
+			[ "abroncarías" ],
+			[ "abroncaría" ],
+			[ "abroncaríamos" ],
+			[ "abroncaríais", "abroncarían" ],
+			[ "abroncarían" ]
+		],
+		"7" : [
+			[ "abroncaré" ],
+			[ "abroncarás" ],
+			[ "abroncará" ],
+			[ "abroncaremos" ],
+			[ "abroncaréis", "abroncarán" ],
+			[ "abroncarán" ]
+		],
+		"8" : [
+			[ "abronque" ],
+			[ "abronques" ],
+			[ "abronque" ],
+			[ "abronquemos" ],
+			[ "abronquéis", "abronquen" ],
+			[ "abronquen" ]
+		],
+		"9" : [
+			[ "abroncara" ],
+			[ "abroncaras" ],
+			[ "abroncara" ],
+			[ "abroncáramos" ],
+			[ "abroncarais", "abroncaran" ],
+			[ "abroncaran" ]
+		],
+		"10" : [
+			[ "abroncase" ],
+			[ "abroncases" ],
+			[ "abroncase" ],
+			[ "abroncásemos" ],
+			[ "abroncaseis", "abroncasen" ],
+			[ "abroncasen" ]
+		],
+		"11" : [
+			[ "abroncare" ],
+			[ "abroncares" ],
+			[ "abroncare" ],
+			[ "abroncáremos" ],
+			[ "abroncareis", "abroncaren" ],
+			[ "abroncaren" ]
+		],
+		"12" : {
+			"1" : [ "abronca" ],
+			"2" : [ "abronque" ],
+			"3" : [ "abronquemos" ],
+			"4" : [ "abroncad" ],
+			"5" : [ "abronquen" ]
+		}
+	}
+}

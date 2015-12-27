@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tabicar",
+	"word" : "tabicar",
+	"infinitivo" : "tabicar",
+	"participio" : [ "tabicado" ],
+	"gerundio" : [ "tabicando" ],
+	"tenses" : {
+		"3" : [
+			[ "tabico" ],
+			[ "tabicas", "tabicás" ],
+			[ "tabica" ],
+			[ "tabicamos" ],
+			[ "tabicáis", "tabican" ],
+			[ "tabican" ]
+		],
+		"4" : [
+			[ "tabiqué" ],
+			[ "tabicaste" ],
+			[ "tabicó" ],
+			[ "tabicamos" ],
+			[ "tabicasteis", "tabicaron" ],
+			[ "tabicaron" ]
+		],
+		"5" : [
+			[ "tabicaba" ],
+			[ "tabicabas" ],
+			[ "tabicaba" ],
+			[ "tabicábamos" ],
+			[ "tabicabais", "tabicaban" ],
+			[ "tabicaban" ]
+		],
+		"6" : [
+			[ "tabicaría" ],
+			[ "tabicarías" ],
+			[ "tabicaría" ],
+			[ "tabicaríamos" ],
+			[ "tabicaríais", "tabicarían" ],
+			[ "tabicarían" ]
+		],
+		"7" : [
+			[ "tabicaré" ],
+			[ "tabicarás" ],
+			[ "tabicará" ],
+			[ "tabicaremos" ],
+			[ "tabicaréis", "tabicarán" ],
+			[ "tabicarán" ]
+		],
+		"8" : [
+			[ "tabique" ],
+			[ "tabiques" ],
+			[ "tabique" ],
+			[ "tabiquemos" ],
+			[ "tabiquéis", "tabiquen" ],
+			[ "tabiquen" ]
+		],
+		"9" : [
+			[ "tabicara" ],
+			[ "tabicaras" ],
+			[ "tabicara" ],
+			[ "tabicáramos" ],
+			[ "tabicarais", "tabicaran" ],
+			[ "tabicaran" ]
+		],
+		"10" : [
+			[ "tabicase" ],
+			[ "tabicases" ],
+			[ "tabicase" ],
+			[ "tabicásemos" ],
+			[ "tabicaseis", "tabicasen" ],
+			[ "tabicasen" ]
+		],
+		"11" : [
+			[ "tabicare" ],
+			[ "tabicares" ],
+			[ "tabicare" ],
+			[ "tabicáremos" ],
+			[ "tabicareis", "tabicaren" ],
+			[ "tabicaren" ]
+		],
+		"12" : {
+			"1" : [ "tabica" ],
+			"2" : [ "tabique" ],
+			"3" : [ "tabiquemos" ],
+			"4" : [ "tabicad" ],
+			"5" : [ "tabiquen" ]
+		}
+	}
+}

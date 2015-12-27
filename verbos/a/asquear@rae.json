@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asquear",
+	"word" : "asquear",
+	"infinitivo" : "asquear",
+	"participio" : [ "asqueado" ],
+	"gerundio" : [ "asqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "asqueo" ],
+			[ "asqueas", "asqueás" ],
+			[ "asquea" ],
+			[ "asqueamos" ],
+			[ "asqueáis", "asquean" ],
+			[ "asquean" ]
+		],
+		"4" : [
+			[ "asqueé" ],
+			[ "asqueaste" ],
+			[ "asqueó" ],
+			[ "asqueamos" ],
+			[ "asqueasteis", "asquearon" ],
+			[ "asquearon" ]
+		],
+		"5" : [
+			[ "asqueaba" ],
+			[ "asqueabas" ],
+			[ "asqueaba" ],
+			[ "asqueábamos" ],
+			[ "asqueabais", "asqueaban" ],
+			[ "asqueaban" ]
+		],
+		"6" : [
+			[ "asquearía" ],
+			[ "asquearías" ],
+			[ "asquearía" ],
+			[ "asquearíamos" ],
+			[ "asquearíais", "asquearían" ],
+			[ "asquearían" ]
+		],
+		"7" : [
+			[ "asquearé" ],
+			[ "asquearás" ],
+			[ "asqueará" ],
+			[ "asquearemos" ],
+			[ "asquearéis", "asquearán" ],
+			[ "asquearán" ]
+		],
+		"8" : [
+			[ "asquee" ],
+			[ "asquees" ],
+			[ "asquee" ],
+			[ "asqueemos" ],
+			[ "asqueéis", "asqueen" ],
+			[ "asqueen" ]
+		],
+		"9" : [
+			[ "asqueara" ],
+			[ "asquearas" ],
+			[ "asqueara" ],
+			[ "asqueáramos" ],
+			[ "asquearais", "asquearan" ],
+			[ "asquearan" ]
+		],
+		"10" : [
+			[ "asquease" ],
+			[ "asqueases" ],
+			[ "asquease" ],
+			[ "asqueásemos" ],
+			[ "asqueaseis", "asqueasen" ],
+			[ "asqueasen" ]
+		],
+		"11" : [
+			[ "asqueare" ],
+			[ "asqueares" ],
+			[ "asqueare" ],
+			[ "asqueáremos" ],
+			[ "asqueareis", "asquearen" ],
+			[ "asquearen" ]
+		],
+		"12" : {
+			"1" : [ "asquea" ],
+			"2" : [ "asquee" ],
+			"3" : [ "asqueemos" ],
+			"4" : [ "asquead" ],
+			"5" : [ "asqueen" ]
+		}
+	}
+}

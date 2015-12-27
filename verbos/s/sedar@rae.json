@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sedar",
+	"word" : "sedar",
+	"infinitivo" : "sedar",
+	"participio" : [ "sedado" ],
+	"gerundio" : [ "sedando" ],
+	"tenses" : {
+		"3" : [
+			[ "sedo" ],
+			[ "sedas", "sedás" ],
+			[ "seda" ],
+			[ "sedamos" ],
+			[ "sedáis", "sedan" ],
+			[ "sedan" ]
+		],
+		"4" : [
+			[ "sedé" ],
+			[ "sedaste" ],
+			[ "sedó" ],
+			[ "sedamos" ],
+			[ "sedasteis", "sedaron" ],
+			[ "sedaron" ]
+		],
+		"5" : [
+			[ "sedaba" ],
+			[ "sedabas" ],
+			[ "sedaba" ],
+			[ "sedábamos" ],
+			[ "sedabais", "sedaban" ],
+			[ "sedaban" ]
+		],
+		"6" : [
+			[ "sedaría" ],
+			[ "sedarías" ],
+			[ "sedaría" ],
+			[ "sedaríamos" ],
+			[ "sedaríais", "sedarían" ],
+			[ "sedarían" ]
+		],
+		"7" : [
+			[ "sedaré" ],
+			[ "sedarás" ],
+			[ "sedará" ],
+			[ "sedaremos" ],
+			[ "sedaréis", "sedarán" ],
+			[ "sedarán" ]
+		],
+		"8" : [
+			[ "sede" ],
+			[ "sedes" ],
+			[ "sede" ],
+			[ "sedemos" ],
+			[ "sedéis", "seden" ],
+			[ "seden" ]
+		],
+		"9" : [
+			[ "sedara" ],
+			[ "sedaras" ],
+			[ "sedara" ],
+			[ "sedáramos" ],
+			[ "sedarais", "sedaran" ],
+			[ "sedaran" ]
+		],
+		"10" : [
+			[ "sedase" ],
+			[ "sedases" ],
+			[ "sedase" ],
+			[ "sedásemos" ],
+			[ "sedaseis", "sedasen" ],
+			[ "sedasen" ]
+		],
+		"11" : [
+			[ "sedare" ],
+			[ "sedares" ],
+			[ "sedare" ],
+			[ "sedáremos" ],
+			[ "sedareis", "sedaren" ],
+			[ "sedaren" ]
+		],
+		"12" : {
+			"1" : [ "seda" ],
+			"2" : [ "sede" ],
+			"3" : [ "sedemos" ],
+			"4" : [ "sedad" ],
+			"5" : [ "seden" ]
+		}
+	}
+}

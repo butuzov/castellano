@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=exprimir",
+	"word" : "exprimir",
+	"infinitivo" : "exprimir",
+	"participio" : [ "exprimido" ],
+	"gerundio" : [ "exprimiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "exprimo" ],
+			[ "exprimes", "exprimís" ],
+			[ "exprime" ],
+			[ "exprimimos" ],
+			[ "exprimís", "exprimen" ],
+			[ "exprimen" ]
+		],
+		"4" : [
+			[ "exprimí" ],
+			[ "exprimiste" ],
+			[ "exprimió" ],
+			[ "exprimimos" ],
+			[ "exprimisteis", "exprimieron" ],
+			[ "exprimieron" ]
+		],
+		"5" : [
+			[ "exprimía" ],
+			[ "exprimías" ],
+			[ "exprimía" ],
+			[ "exprimíamos" ],
+			[ "exprimíais", "exprimían" ],
+			[ "exprimían" ]
+		],
+		"6" : [
+			[ "exprimiría" ],
+			[ "exprimirías" ],
+			[ "exprimiría" ],
+			[ "exprimiríamos" ],
+			[ "exprimiríais", "exprimirían" ],
+			[ "exprimirían" ]
+		],
+		"7" : [
+			[ "exprimiré" ],
+			[ "exprimirás" ],
+			[ "exprimirá" ],
+			[ "exprimiremos" ],
+			[ "exprimiréis", "exprimirán" ],
+			[ "exprimirán" ]
+		],
+		"8" : [
+			[ "exprima" ],
+			[ "exprimas" ],
+			[ "exprima" ],
+			[ "exprimamos" ],
+			[ "exprimáis", "expriman" ],
+			[ "expriman" ]
+		],
+		"9" : [
+			[ "exprimiera" ],
+			[ "exprimieras" ],
+			[ "exprimiera" ],
+			[ "exprimiéramos" ],
+			[ "exprimierais", "exprimieran" ],
+			[ "exprimieran" ]
+		],
+		"10" : [
+			[ "exprimiese" ],
+			[ "exprimieses" ],
+			[ "exprimiese" ],
+			[ "exprimiésemos" ],
+			[ "exprimieseis", "exprimiesen" ],
+			[ "exprimiesen" ]
+		],
+		"11" : [
+			[ "exprimiere" ],
+			[ "exprimieres" ],
+			[ "exprimiere" ],
+			[ "exprimiéremos" ],
+			[ "exprimiereis", "exprimieren" ],
+			[ "exprimieren" ]
+		],
+		"12" : {
+			"1" : [ "exprime" ],
+			"2" : [ "exprima" ],
+			"3" : [ "exprimamos" ],
+			"4" : [ "exprimid" ],
+			"5" : [ "expriman" ]
+		}
+	}
+}

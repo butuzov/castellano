@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reglar",
+	"word" : "reglar",
+	"infinitivo" : "reglar",
+	"participio" : [ "reglado" ],
+	"gerundio" : [ "reglando" ],
+	"tenses" : {
+		"3" : [
+			[ "reglo" ],
+			[ "reglas", "reglás" ],
+			[ "regla" ],
+			[ "reglamos" ],
+			[ "regláis", "reglan" ],
+			[ "reglan" ]
+		],
+		"4" : [
+			[ "reglé" ],
+			[ "reglaste" ],
+			[ "regló" ],
+			[ "reglamos" ],
+			[ "reglasteis", "reglaron" ],
+			[ "reglaron" ]
+		],
+		"5" : [
+			[ "reglaba" ],
+			[ "reglabas" ],
+			[ "reglaba" ],
+			[ "reglábamos" ],
+			[ "reglabais", "reglaban" ],
+			[ "reglaban" ]
+		],
+		"6" : [
+			[ "reglaría" ],
+			[ "reglarías" ],
+			[ "reglaría" ],
+			[ "reglaríamos" ],
+			[ "reglaríais", "reglarían" ],
+			[ "reglarían" ]
+		],
+		"7" : [
+			[ "reglaré" ],
+			[ "reglarás" ],
+			[ "reglará" ],
+			[ "reglaremos" ],
+			[ "reglaréis", "reglarán" ],
+			[ "reglarán" ]
+		],
+		"8" : [
+			[ "regle" ],
+			[ "regles" ],
+			[ "regle" ],
+			[ "reglemos" ],
+			[ "regléis", "reglen" ],
+			[ "reglen" ]
+		],
+		"9" : [
+			[ "reglara" ],
+			[ "reglaras" ],
+			[ "reglara" ],
+			[ "regláramos" ],
+			[ "reglarais", "reglaran" ],
+			[ "reglaran" ]
+		],
+		"10" : [
+			[ "reglase" ],
+			[ "reglases" ],
+			[ "reglase" ],
+			[ "reglásemos" ],
+			[ "reglaseis", "reglasen" ],
+			[ "reglasen" ]
+		],
+		"11" : [
+			[ "reglare" ],
+			[ "reglares" ],
+			[ "reglare" ],
+			[ "regláremos" ],
+			[ "reglareis", "reglaren" ],
+			[ "reglaren" ]
+		],
+		"12" : {
+			"1" : [ "regla" ],
+			"2" : [ "regle" ],
+			"3" : [ "reglemos" ],
+			"4" : [ "reglad" ],
+			"5" : [ "reglen" ]
+		}
+	}
+}

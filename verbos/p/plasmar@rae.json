@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=plasmar",
+	"word" : "plasmar",
+	"infinitivo" : "plasmar",
+	"participio" : [ "plasmado" ],
+	"gerundio" : [ "plasmando" ],
+	"tenses" : {
+		"3" : [
+			[ "plasmo" ],
+			[ "plasmas", "plasmás" ],
+			[ "plasma" ],
+			[ "plasmamos" ],
+			[ "plasmáis", "plasman" ],
+			[ "plasman" ]
+		],
+		"4" : [
+			[ "plasmé" ],
+			[ "plasmaste" ],
+			[ "plasmó" ],
+			[ "plasmamos" ],
+			[ "plasmasteis", "plasmaron" ],
+			[ "plasmaron" ]
+		],
+		"5" : [
+			[ "plasmaba" ],
+			[ "plasmabas" ],
+			[ "plasmaba" ],
+			[ "plasmábamos" ],
+			[ "plasmabais", "plasmaban" ],
+			[ "plasmaban" ]
+		],
+		"6" : [
+			[ "plasmaría" ],
+			[ "plasmarías" ],
+			[ "plasmaría" ],
+			[ "plasmaríamos" ],
+			[ "plasmaríais", "plasmarían" ],
+			[ "plasmarían" ]
+		],
+		"7" : [
+			[ "plasmaré" ],
+			[ "plasmarás" ],
+			[ "plasmará" ],
+			[ "plasmaremos" ],
+			[ "plasmaréis", "plasmarán" ],
+			[ "plasmarán" ]
+		],
+		"8" : [
+			[ "plasme" ],
+			[ "plasmes" ],
+			[ "plasme" ],
+			[ "plasmemos" ],
+			[ "plasméis", "plasmen" ],
+			[ "plasmen" ]
+		],
+		"9" : [
+			[ "plasmara" ],
+			[ "plasmaras" ],
+			[ "plasmara" ],
+			[ "plasmáramos" ],
+			[ "plasmarais", "plasmaran" ],
+			[ "plasmaran" ]
+		],
+		"10" : [
+			[ "plasmase" ],
+			[ "plasmases" ],
+			[ "plasmase" ],
+			[ "plasmásemos" ],
+			[ "plasmaseis", "plasmasen" ],
+			[ "plasmasen" ]
+		],
+		"11" : [
+			[ "plasmare" ],
+			[ "plasmares" ],
+			[ "plasmare" ],
+			[ "plasmáremos" ],
+			[ "plasmareis", "plasmaren" ],
+			[ "plasmaren" ]
+		],
+		"12" : {
+			"1" : [ "plasma" ],
+			"2" : [ "plasme" ],
+			"3" : [ "plasmemos" ],
+			"4" : [ "plasmad" ],
+			"5" : [ "plasmen" ]
+		}
+	}
+}

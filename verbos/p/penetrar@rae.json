@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=penetrar",
+	"word" : "penetrar",
+	"infinitivo" : "penetrar",
+	"participio" : [ "penetrado" ],
+	"gerundio" : [ "penetrando" ],
+	"tenses" : {
+		"3" : [
+			[ "penetro" ],
+			[ "penetras", "penetrás" ],
+			[ "penetra" ],
+			[ "penetramos" ],
+			[ "penetráis", "penetran" ],
+			[ "penetran" ]
+		],
+		"4" : [
+			[ "penetré" ],
+			[ "penetraste" ],
+			[ "penetró" ],
+			[ "penetramos" ],
+			[ "penetrasteis", "penetraron" ],
+			[ "penetraron" ]
+		],
+		"5" : [
+			[ "penetraba" ],
+			[ "penetrabas" ],
+			[ "penetraba" ],
+			[ "penetrábamos" ],
+			[ "penetrabais", "penetraban" ],
+			[ "penetraban" ]
+		],
+		"6" : [
+			[ "penetraría" ],
+			[ "penetrarías" ],
+			[ "penetraría" ],
+			[ "penetraríamos" ],
+			[ "penetraríais", "penetrarían" ],
+			[ "penetrarían" ]
+		],
+		"7" : [
+			[ "penetraré" ],
+			[ "penetrarás" ],
+			[ "penetrará" ],
+			[ "penetraremos" ],
+			[ "penetraréis", "penetrarán" ],
+			[ "penetrarán" ]
+		],
+		"8" : [
+			[ "penetre" ],
+			[ "penetres" ],
+			[ "penetre" ],
+			[ "penetremos" ],
+			[ "penetréis", "penetren" ],
+			[ "penetren" ]
+		],
+		"9" : [
+			[ "penetrara" ],
+			[ "penetraras" ],
+			[ "penetrara" ],
+			[ "penetráramos" ],
+			[ "penetrarais", "penetraran" ],
+			[ "penetraran" ]
+		],
+		"10" : [
+			[ "penetrase" ],
+			[ "penetrases" ],
+			[ "penetrase" ],
+			[ "penetrásemos" ],
+			[ "penetraseis", "penetrasen" ],
+			[ "penetrasen" ]
+		],
+		"11" : [
+			[ "penetrare" ],
+			[ "penetrares" ],
+			[ "penetrare" ],
+			[ "penetráremos" ],
+			[ "penetrareis", "penetraren" ],
+			[ "penetraren" ]
+		],
+		"12" : {
+			"1" : [ "penetra" ],
+			"2" : [ "penetre" ],
+			"3" : [ "penetremos" ],
+			"4" : [ "penetrad" ],
+			"5" : [ "penetren" ]
+		}
+	}
+}

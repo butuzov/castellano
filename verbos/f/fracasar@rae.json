@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fracasar",
+	"word" : "fracasar",
+	"infinitivo" : "fracasar",
+	"participio" : [ "fracasado" ],
+	"gerundio" : [ "fracasando" ],
+	"tenses" : {
+		"3" : [
+			[ "fracaso" ],
+			[ "fracasas", "fracasás" ],
+			[ "fracasa" ],
+			[ "fracasamos" ],
+			[ "fracasáis", "fracasan" ],
+			[ "fracasan" ]
+		],
+		"4" : [
+			[ "fracasé" ],
+			[ "fracasaste" ],
+			[ "fracasó" ],
+			[ "fracasamos" ],
+			[ "fracasasteis", "fracasaron" ],
+			[ "fracasaron" ]
+		],
+		"5" : [
+			[ "fracasaba" ],
+			[ "fracasabas" ],
+			[ "fracasaba" ],
+			[ "fracasábamos" ],
+			[ "fracasabais", "fracasaban" ],
+			[ "fracasaban" ]
+		],
+		"6" : [
+			[ "fracasaría" ],
+			[ "fracasarías" ],
+			[ "fracasaría" ],
+			[ "fracasaríamos" ],
+			[ "fracasaríais", "fracasarían" ],
+			[ "fracasarían" ]
+		],
+		"7" : [
+			[ "fracasaré" ],
+			[ "fracasarás" ],
+			[ "fracasará" ],
+			[ "fracasaremos" ],
+			[ "fracasaréis", "fracasarán" ],
+			[ "fracasarán" ]
+		],
+		"8" : [
+			[ "fracase" ],
+			[ "fracases" ],
+			[ "fracase" ],
+			[ "fracasemos" ],
+			[ "fracaséis", "fracasen" ],
+			[ "fracasen" ]
+		],
+		"9" : [
+			[ "fracasara" ],
+			[ "fracasaras" ],
+			[ "fracasara" ],
+			[ "fracasáramos" ],
+			[ "fracasarais", "fracasaran" ],
+			[ "fracasaran" ]
+		],
+		"10" : [
+			[ "fracasase" ],
+			[ "fracasases" ],
+			[ "fracasase" ],
+			[ "fracasásemos" ],
+			[ "fracasaseis", "fracasasen" ],
+			[ "fracasasen" ]
+		],
+		"11" : [
+			[ "fracasare" ],
+			[ "fracasares" ],
+			[ "fracasare" ],
+			[ "fracasáremos" ],
+			[ "fracasareis", "fracasaren" ],
+			[ "fracasaren" ]
+		],
+		"12" : {
+			"1" : [ "fracasa" ],
+			"2" : [ "fracase" ],
+			"3" : [ "fracasemos" ],
+			"4" : [ "fracasad" ],
+			"5" : [ "fracasen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estructurar",
+	"word" : "estructurar",
+	"infinitivo" : "estructurar",
+	"participio" : [ "estructurado" ],
+	"gerundio" : [ "estructurando" ],
+	"tenses" : {
+		"3" : [
+			[ "estructuro" ],
+			[ "estructuras", "estructurás" ],
+			[ "estructura" ],
+			[ "estructuramos" ],
+			[ "estructuráis", "estructuran" ],
+			[ "estructuran" ]
+		],
+		"4" : [
+			[ "estructuré" ],
+			[ "estructuraste" ],
+			[ "estructuró" ],
+			[ "estructuramos" ],
+			[ "estructurasteis", "estructuraron" ],
+			[ "estructuraron" ]
+		],
+		"5" : [
+			[ "estructuraba" ],
+			[ "estructurabas" ],
+			[ "estructuraba" ],
+			[ "estructurábamos" ],
+			[ "estructurabais", "estructuraban" ],
+			[ "estructuraban" ]
+		],
+		"6" : [
+			[ "estructuraría" ],
+			[ "estructurarías" ],
+			[ "estructuraría" ],
+			[ "estructuraríamos" ],
+			[ "estructuraríais", "estructurarían" ],
+			[ "estructurarían" ]
+		],
+		"7" : [
+			[ "estructuraré" ],
+			[ "estructurarás" ],
+			[ "estructurará" ],
+			[ "estructuraremos" ],
+			[ "estructuraréis", "estructurarán" ],
+			[ "estructurarán" ]
+		],
+		"8" : [
+			[ "estructure" ],
+			[ "estructures" ],
+			[ "estructure" ],
+			[ "estructuremos" ],
+			[ "estructuréis", "estructuren" ],
+			[ "estructuren" ]
+		],
+		"9" : [
+			[ "estructurara" ],
+			[ "estructuraras" ],
+			[ "estructurara" ],
+			[ "estructuráramos" ],
+			[ "estructurarais", "estructuraran" ],
+			[ "estructuraran" ]
+		],
+		"10" : [
+			[ "estructurase" ],
+			[ "estructurases" ],
+			[ "estructurase" ],
+			[ "estructurásemos" ],
+			[ "estructuraseis", "estructurasen" ],
+			[ "estructurasen" ]
+		],
+		"11" : [
+			[ "estructurare" ],
+			[ "estructurares" ],
+			[ "estructurare" ],
+			[ "estructuráremos" ],
+			[ "estructurareis", "estructuraren" ],
+			[ "estructuraren" ]
+		],
+		"12" : {
+			"1" : [ "estructura" ],
+			"2" : [ "estructure" ],
+			"3" : [ "estructuremos" ],
+			"4" : [ "estructurad" ],
+			"5" : [ "estructuren" ]
+		}
+	}
+}

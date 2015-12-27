@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desorejar",
+	"word" : "desorejar",
+	"infinitivo" : "desorejar",
+	"participio" : [ "desorejado" ],
+	"gerundio" : [ "desorejando" ],
+	"tenses" : {
+		"3" : [
+			[ "desorejo" ],
+			[ "desorejas", "desorejás" ],
+			[ "desoreja" ],
+			[ "desorejamos" ],
+			[ "desorejáis", "desorejan" ],
+			[ "desorejan" ]
+		],
+		"4" : [
+			[ "desorejé" ],
+			[ "desorejaste" ],
+			[ "desorejó" ],
+			[ "desorejamos" ],
+			[ "desorejasteis", "desorejaron" ],
+			[ "desorejaron" ]
+		],
+		"5" : [
+			[ "desorejaba" ],
+			[ "desorejabas" ],
+			[ "desorejaba" ],
+			[ "desorejábamos" ],
+			[ "desorejabais", "desorejaban" ],
+			[ "desorejaban" ]
+		],
+		"6" : [
+			[ "desorejaría" ],
+			[ "desorejarías" ],
+			[ "desorejaría" ],
+			[ "desorejaríamos" ],
+			[ "desorejaríais", "desorejarían" ],
+			[ "desorejarían" ]
+		],
+		"7" : [
+			[ "desorejaré" ],
+			[ "desorejarás" ],
+			[ "desorejará" ],
+			[ "desorejaremos" ],
+			[ "desorejaréis", "desorejarán" ],
+			[ "desorejarán" ]
+		],
+		"8" : [
+			[ "desoreje" ],
+			[ "desorejes" ],
+			[ "desoreje" ],
+			[ "desorejemos" ],
+			[ "desorejéis", "desorejen" ],
+			[ "desorejen" ]
+		],
+		"9" : [
+			[ "desorejara" ],
+			[ "desorejaras" ],
+			[ "desorejara" ],
+			[ "desorejáramos" ],
+			[ "desorejarais", "desorejaran" ],
+			[ "desorejaran" ]
+		],
+		"10" : [
+			[ "desorejase" ],
+			[ "desorejases" ],
+			[ "desorejase" ],
+			[ "desorejásemos" ],
+			[ "desorejaseis", "desorejasen" ],
+			[ "desorejasen" ]
+		],
+		"11" : [
+			[ "desorejare" ],
+			[ "desorejares" ],
+			[ "desorejare" ],
+			[ "desorejáremos" ],
+			[ "desorejareis", "desorejaren" ],
+			[ "desorejaren" ]
+		],
+		"12" : {
+			"1" : [ "desoreja" ],
+			"2" : [ "desoreje" ],
+			"3" : [ "desorejemos" ],
+			"4" : [ "desorejad" ],
+			"5" : [ "desorejen" ]
+		}
+	}
+}

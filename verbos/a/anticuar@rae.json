@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anticuar",
+	"word" : "anticuar",
+	"infinitivo" : "anticuar",
+	"participio" : [ "anticuado" ],
+	"gerundio" : [ "anticuando" ],
+	"tenses" : {
+		"3" : [
+			[ "anticúo" ],
+			[ "anticúas", "anticuás" ],
+			[ "anticúa" ],
+			[ "anticuamos" ],
+			[ "anticuáis", "anticúan" ],
+			[ "anticúan" ]
+		],
+		"4" : [
+			[ "anticué" ],
+			[ "anticuaste" ],
+			[ "anticuó" ],
+			[ "anticuamos" ],
+			[ "anticuasteis", "anticuaron" ],
+			[ "anticuaron" ]
+		],
+		"5" : [
+			[ "anticuaba" ],
+			[ "anticuabas" ],
+			[ "anticuaba" ],
+			[ "anticuábamos" ],
+			[ "anticuabais", "anticuaban" ],
+			[ "anticuaban" ]
+		],
+		"6" : [
+			[ "anticuaría" ],
+			[ "anticuarías" ],
+			[ "anticuaría" ],
+			[ "anticuaríamos" ],
+			[ "anticuaríais", "anticuarían" ],
+			[ "anticuarían" ]
+		],
+		"7" : [
+			[ "anticuaré" ],
+			[ "anticuarás" ],
+			[ "anticuará" ],
+			[ "anticuaremos" ],
+			[ "anticuaréis", "anticuarán" ],
+			[ "anticuarán" ]
+		],
+		"8" : [
+			[ "anticúe" ],
+			[ "anticúes" ],
+			[ "anticúe" ],
+			[ "anticuemos" ],
+			[ "anticuéis", "anticúen" ],
+			[ "anticúen" ]
+		],
+		"9" : [
+			[ "anticuara" ],
+			[ "anticuaras" ],
+			[ "anticuara" ],
+			[ "anticuáramos" ],
+			[ "anticuarais", "anticuaran" ],
+			[ "anticuaran" ]
+		],
+		"10" : [
+			[ "anticuase" ],
+			[ "anticuases" ],
+			[ "anticuase" ],
+			[ "anticuásemos" ],
+			[ "anticuaseis", "anticuasen" ],
+			[ "anticuasen" ]
+		],
+		"11" : [
+			[ "anticuare" ],
+			[ "anticuares" ],
+			[ "anticuare" ],
+			[ "anticuáremos" ],
+			[ "anticuareis", "anticuaren" ],
+			[ "anticuaren" ]
+		],
+		"12" : {
+			"1" : [ "anticúa" ],
+			"2" : [ "anticúe" ],
+			"3" : [ "anticuemos" ],
+			"4" : [ "anticuad" ],
+			"5" : [ "anticúen" ]
+		}
+	}
+}

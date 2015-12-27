@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vosear",
+	"word" : "vosear",
+	"infinitivo" : "vosear",
+	"participio" : [ "voseado" ],
+	"gerundio" : [ "voseando" ],
+	"tenses" : {
+		"3" : [
+			[ "voseo" ],
+			[ "voseas", "voseás" ],
+			[ "vosea" ],
+			[ "voseamos" ],
+			[ "voseáis", "vosean" ],
+			[ "vosean" ]
+		],
+		"4" : [
+			[ "voseé" ],
+			[ "voseaste" ],
+			[ "voseó" ],
+			[ "voseamos" ],
+			[ "voseasteis", "vosearon" ],
+			[ "vosearon" ]
+		],
+		"5" : [
+			[ "voseaba" ],
+			[ "voseabas" ],
+			[ "voseaba" ],
+			[ "voseábamos" ],
+			[ "voseabais", "voseaban" ],
+			[ "voseaban" ]
+		],
+		"6" : [
+			[ "vosearía" ],
+			[ "vosearías" ],
+			[ "vosearía" ],
+			[ "vosearíamos" ],
+			[ "vosearíais", "vosearían" ],
+			[ "vosearían" ]
+		],
+		"7" : [
+			[ "vosearé" ],
+			[ "vosearás" ],
+			[ "voseará" ],
+			[ "vosearemos" ],
+			[ "vosearéis", "vosearán" ],
+			[ "vosearán" ]
+		],
+		"8" : [
+			[ "vosee" ],
+			[ "vosees" ],
+			[ "vosee" ],
+			[ "voseemos" ],
+			[ "voseéis", "voseen" ],
+			[ "voseen" ]
+		],
+		"9" : [
+			[ "voseara" ],
+			[ "vosearas" ],
+			[ "voseara" ],
+			[ "voseáramos" ],
+			[ "vosearais", "vosearan" ],
+			[ "vosearan" ]
+		],
+		"10" : [
+			[ "vosease" ],
+			[ "voseases" ],
+			[ "vosease" ],
+			[ "voseásemos" ],
+			[ "voseaseis", "voseasen" ],
+			[ "voseasen" ]
+		],
+		"11" : [
+			[ "voseare" ],
+			[ "voseares" ],
+			[ "voseare" ],
+			[ "voseáremos" ],
+			[ "voseareis", "vosearen" ],
+			[ "vosearen" ]
+		],
+		"12" : {
+			"1" : [ "vosea" ],
+			"2" : [ "vosee" ],
+			"3" : [ "voseemos" ],
+			"4" : [ "vosead" ],
+			"5" : [ "voseen" ]
+		}
+	}
+}

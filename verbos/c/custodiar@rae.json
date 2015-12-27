@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=custodiar",
+	"word" : "custodiar",
+	"infinitivo" : "custodiar",
+	"participio" : [ "custodiado" ],
+	"gerundio" : [ "custodiando" ],
+	"tenses" : {
+		"3" : [
+			[ "custodio" ],
+			[ "custodias", "custodiás" ],
+			[ "custodia" ],
+			[ "custodiamos" ],
+			[ "custodiáis", "custodian" ],
+			[ "custodian" ]
+		],
+		"4" : [
+			[ "custodié" ],
+			[ "custodiaste" ],
+			[ "custodió" ],
+			[ "custodiamos" ],
+			[ "custodiasteis", "custodiaron" ],
+			[ "custodiaron" ]
+		],
+		"5" : [
+			[ "custodiaba" ],
+			[ "custodiabas" ],
+			[ "custodiaba" ],
+			[ "custodiábamos" ],
+			[ "custodiabais", "custodiaban" ],
+			[ "custodiaban" ]
+		],
+		"6" : [
+			[ "custodiaría" ],
+			[ "custodiarías" ],
+			[ "custodiaría" ],
+			[ "custodiaríamos" ],
+			[ "custodiaríais", "custodiarían" ],
+			[ "custodiarían" ]
+		],
+		"7" : [
+			[ "custodiaré" ],
+			[ "custodiarás" ],
+			[ "custodiará" ],
+			[ "custodiaremos" ],
+			[ "custodiaréis", "custodiarán" ],
+			[ "custodiarán" ]
+		],
+		"8" : [
+			[ "custodie" ],
+			[ "custodies" ],
+			[ "custodie" ],
+			[ "custodiemos" ],
+			[ "custodiéis", "custodien" ],
+			[ "custodien" ]
+		],
+		"9" : [
+			[ "custodiara" ],
+			[ "custodiaras" ],
+			[ "custodiara" ],
+			[ "custodiáramos" ],
+			[ "custodiarais", "custodiaran" ],
+			[ "custodiaran" ]
+		],
+		"10" : [
+			[ "custodiase" ],
+			[ "custodiases" ],
+			[ "custodiase" ],
+			[ "custodiásemos" ],
+			[ "custodiaseis", "custodiasen" ],
+			[ "custodiasen" ]
+		],
+		"11" : [
+			[ "custodiare" ],
+			[ "custodiares" ],
+			[ "custodiare" ],
+			[ "custodiáremos" ],
+			[ "custodiareis", "custodiaren" ],
+			[ "custodiaren" ]
+		],
+		"12" : {
+			"1" : [ "custodia" ],
+			"2" : [ "custodie" ],
+			"3" : [ "custodiemos" ],
+			"4" : [ "custodiad" ],
+			"5" : [ "custodien" ]
+		}
+	}
+}

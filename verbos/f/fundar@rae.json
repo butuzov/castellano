@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fundar",
+	"word" : "fundar",
+	"infinitivo" : "fundar",
+	"participio" : [ "fundado" ],
+	"gerundio" : [ "fundando" ],
+	"tenses" : {
+		"3" : [
+			[ "fundo" ],
+			[ "fundas", "fundás" ],
+			[ "funda" ],
+			[ "fundamos" ],
+			[ "fundáis", "fundan" ],
+			[ "fundan" ]
+		],
+		"4" : [
+			[ "fundé" ],
+			[ "fundaste" ],
+			[ "fundó" ],
+			[ "fundamos" ],
+			[ "fundasteis", "fundaron" ],
+			[ "fundaron" ]
+		],
+		"5" : [
+			[ "fundaba" ],
+			[ "fundabas" ],
+			[ "fundaba" ],
+			[ "fundábamos" ],
+			[ "fundabais", "fundaban" ],
+			[ "fundaban" ]
+		],
+		"6" : [
+			[ "fundaría" ],
+			[ "fundarías" ],
+			[ "fundaría" ],
+			[ "fundaríamos" ],
+			[ "fundaríais", "fundarían" ],
+			[ "fundarían" ]
+		],
+		"7" : [
+			[ "fundaré" ],
+			[ "fundarás" ],
+			[ "fundará" ],
+			[ "fundaremos" ],
+			[ "fundaréis", "fundarán" ],
+			[ "fundarán" ]
+		],
+		"8" : [
+			[ "funde" ],
+			[ "fundes" ],
+			[ "funde" ],
+			[ "fundemos" ],
+			[ "fundéis", "funden" ],
+			[ "funden" ]
+		],
+		"9" : [
+			[ "fundara" ],
+			[ "fundaras" ],
+			[ "fundara" ],
+			[ "fundáramos" ],
+			[ "fundarais", "fundaran" ],
+			[ "fundaran" ]
+		],
+		"10" : [
+			[ "fundase" ],
+			[ "fundases" ],
+			[ "fundase" ],
+			[ "fundásemos" ],
+			[ "fundaseis", "fundasen" ],
+			[ "fundasen" ]
+		],
+		"11" : [
+			[ "fundare" ],
+			[ "fundares" ],
+			[ "fundare" ],
+			[ "fundáremos" ],
+			[ "fundareis", "fundaren" ],
+			[ "fundaren" ]
+		],
+		"12" : {
+			"1" : [ "funda" ],
+			"2" : [ "funde" ],
+			"3" : [ "fundemos" ],
+			"4" : [ "fundad" ],
+			"5" : [ "funden" ]
+		}
+	}
+}

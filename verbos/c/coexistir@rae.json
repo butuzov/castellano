@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=coexistir",
+	"word" : "coexistir",
+	"infinitivo" : "coexistir",
+	"participio" : [ "coexistido" ],
+	"gerundio" : [ "coexistiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "coexisto" ],
+			[ "coexistes", "coexistís" ],
+			[ "coexiste" ],
+			[ "coexistimos" ],
+			[ "coexistís", "coexisten" ],
+			[ "coexisten" ]
+		],
+		"4" : [
+			[ "coexistí" ],
+			[ "coexististe" ],
+			[ "coexistió" ],
+			[ "coexistimos" ],
+			[ "coexististeis", "coexistieron" ],
+			[ "coexistieron" ]
+		],
+		"5" : [
+			[ "coexistía" ],
+			[ "coexistías" ],
+			[ "coexistía" ],
+			[ "coexistíamos" ],
+			[ "coexistíais", "coexistían" ],
+			[ "coexistían" ]
+		],
+		"6" : [
+			[ "coexistiría" ],
+			[ "coexistirías" ],
+			[ "coexistiría" ],
+			[ "coexistiríamos" ],
+			[ "coexistiríais", "coexistirían" ],
+			[ "coexistirían" ]
+		],
+		"7" : [
+			[ "coexistiré" ],
+			[ "coexistirás" ],
+			[ "coexistirá" ],
+			[ "coexistiremos" ],
+			[ "coexistiréis", "coexistirán" ],
+			[ "coexistirán" ]
+		],
+		"8" : [
+			[ "coexista" ],
+			[ "coexistas" ],
+			[ "coexista" ],
+			[ "coexistamos" ],
+			[ "coexistáis", "coexistan" ],
+			[ "coexistan" ]
+		],
+		"9" : [
+			[ "coexistiera" ],
+			[ "coexistieras" ],
+			[ "coexistiera" ],
+			[ "coexistiéramos" ],
+			[ "coexistierais", "coexistieran" ],
+			[ "coexistieran" ]
+		],
+		"10" : [
+			[ "coexistiese" ],
+			[ "coexistieses" ],
+			[ "coexistiese" ],
+			[ "coexistiésemos" ],
+			[ "coexistieseis", "coexistiesen" ],
+			[ "coexistiesen" ]
+		],
+		"11" : [
+			[ "coexistiere" ],
+			[ "coexistieres" ],
+			[ "coexistiere" ],
+			[ "coexistiéremos" ],
+			[ "coexistiereis", "coexistieren" ],
+			[ "coexistieren" ]
+		],
+		"12" : {
+			"1" : [ "coexiste" ],
+			"2" : [ "coexista" ],
+			"3" : [ "coexistamos" ],
+			"4" : [ "coexistid" ],
+			"5" : [ "coexistan" ]
+		}
+	}
+}

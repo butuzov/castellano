@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=caducar",
+	"word" : "caducar",
+	"infinitivo" : "caducar",
+	"participio" : [ "caducado" ],
+	"gerundio" : [ "caducando" ],
+	"tenses" : {
+		"3" : [
+			[ "caduco" ],
+			[ "caducas", "caducás" ],
+			[ "caduca" ],
+			[ "caducamos" ],
+			[ "caducáis", "caducan" ],
+			[ "caducan" ]
+		],
+		"4" : [
+			[ "caduqué" ],
+			[ "caducaste" ],
+			[ "caducó" ],
+			[ "caducamos" ],
+			[ "caducasteis", "caducaron" ],
+			[ "caducaron" ]
+		],
+		"5" : [
+			[ "caducaba" ],
+			[ "caducabas" ],
+			[ "caducaba" ],
+			[ "caducábamos" ],
+			[ "caducabais", "caducaban" ],
+			[ "caducaban" ]
+		],
+		"6" : [
+			[ "caducaría" ],
+			[ "caducarías" ],
+			[ "caducaría" ],
+			[ "caducaríamos" ],
+			[ "caducaríais", "caducarían" ],
+			[ "caducarían" ]
+		],
+		"7" : [
+			[ "caducaré" ],
+			[ "caducarás" ],
+			[ "caducará" ],
+			[ "caducaremos" ],
+			[ "caducaréis", "caducarán" ],
+			[ "caducarán" ]
+		],
+		"8" : [
+			[ "caduque" ],
+			[ "caduques" ],
+			[ "caduque" ],
+			[ "caduquemos" ],
+			[ "caduquéis", "caduquen" ],
+			[ "caduquen" ]
+		],
+		"9" : [
+			[ "caducara" ],
+			[ "caducaras" ],
+			[ "caducara" ],
+			[ "caducáramos" ],
+			[ "caducarais", "caducaran" ],
+			[ "caducaran" ]
+		],
+		"10" : [
+			[ "caducase" ],
+			[ "caducases" ],
+			[ "caducase" ],
+			[ "caducásemos" ],
+			[ "caducaseis", "caducasen" ],
+			[ "caducasen" ]
+		],
+		"11" : [
+			[ "caducare" ],
+			[ "caducares" ],
+			[ "caducare" ],
+			[ "caducáremos" ],
+			[ "caducareis", "caducaren" ],
+			[ "caducaren" ]
+		],
+		"12" : {
+			"1" : [ "caduca" ],
+			"2" : [ "caduque" ],
+			"3" : [ "caduquemos" ],
+			"4" : [ "caducad" ],
+			"5" : [ "caduquen" ]
+		}
+	}
+}

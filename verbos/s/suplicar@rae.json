@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=suplicar",
+	"word" : "suplicar",
+	"infinitivo" : "suplicar",
+	"participio" : [ "suplicado" ],
+	"gerundio" : [ "suplicando" ],
+	"tenses" : {
+		"3" : [
+			[ "suplico" ],
+			[ "suplicas", "suplicás" ],
+			[ "suplica" ],
+			[ "suplicamos" ],
+			[ "suplicáis", "suplican" ],
+			[ "suplican" ]
+		],
+		"4" : [
+			[ "supliqué" ],
+			[ "suplicaste" ],
+			[ "suplicó" ],
+			[ "suplicamos" ],
+			[ "suplicasteis", "suplicaron" ],
+			[ "suplicaron" ]
+		],
+		"5" : [
+			[ "suplicaba" ],
+			[ "suplicabas" ],
+			[ "suplicaba" ],
+			[ "suplicábamos" ],
+			[ "suplicabais", "suplicaban" ],
+			[ "suplicaban" ]
+		],
+		"6" : [
+			[ "suplicaría" ],
+			[ "suplicarías" ],
+			[ "suplicaría" ],
+			[ "suplicaríamos" ],
+			[ "suplicaríais", "suplicarían" ],
+			[ "suplicarían" ]
+		],
+		"7" : [
+			[ "suplicaré" ],
+			[ "suplicarás" ],
+			[ "suplicará" ],
+			[ "suplicaremos" ],
+			[ "suplicaréis", "suplicarán" ],
+			[ "suplicarán" ]
+		],
+		"8" : [
+			[ "suplique" ],
+			[ "supliques" ],
+			[ "suplique" ],
+			[ "supliquemos" ],
+			[ "supliquéis", "supliquen" ],
+			[ "supliquen" ]
+		],
+		"9" : [
+			[ "suplicara" ],
+			[ "suplicaras" ],
+			[ "suplicara" ],
+			[ "suplicáramos" ],
+			[ "suplicarais", "suplicaran" ],
+			[ "suplicaran" ]
+		],
+		"10" : [
+			[ "suplicase" ],
+			[ "suplicases" ],
+			[ "suplicase" ],
+			[ "suplicásemos" ],
+			[ "suplicaseis", "suplicasen" ],
+			[ "suplicasen" ]
+		],
+		"11" : [
+			[ "suplicare" ],
+			[ "suplicares" ],
+			[ "suplicare" ],
+			[ "suplicáremos" ],
+			[ "suplicareis", "suplicaren" ],
+			[ "suplicaren" ]
+		],
+		"12" : {
+			"1" : [ "suplica" ],
+			"2" : [ "suplique" ],
+			"3" : [ "supliquemos" ],
+			"4" : [ "suplicad" ],
+			"5" : [ "supliquen" ]
+		}
+	}
+}

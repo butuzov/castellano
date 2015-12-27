@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desarrollar",
+	"word" : "desarrollar",
+	"infinitivo" : "desarrollar",
+	"participio" : [ "desarrollado" ],
+	"gerundio" : [ "desarrollando" ],
+	"tenses" : {
+		"3" : [
+			[ "desarrollo" ],
+			[ "desarrollas", "desarrollás" ],
+			[ "desarrolla" ],
+			[ "desarrollamos" ],
+			[ "desarrolláis", "desarrollan" ],
+			[ "desarrollan" ]
+		],
+		"4" : [
+			[ "desarrollé" ],
+			[ "desarrollaste" ],
+			[ "desarrolló" ],
+			[ "desarrollamos" ],
+			[ "desarrollasteis", "desarrollaron" ],
+			[ "desarrollaron" ]
+		],
+		"5" : [
+			[ "desarrollaba" ],
+			[ "desarrollabas" ],
+			[ "desarrollaba" ],
+			[ "desarrollábamos" ],
+			[ "desarrollabais", "desarrollaban" ],
+			[ "desarrollaban" ]
+		],
+		"6" : [
+			[ "desarrollaría" ],
+			[ "desarrollarías" ],
+			[ "desarrollaría" ],
+			[ "desarrollaríamos" ],
+			[ "desarrollaríais", "desarrollarían" ],
+			[ "desarrollarían" ]
+		],
+		"7" : [
+			[ "desarrollaré" ],
+			[ "desarrollarás" ],
+			[ "desarrollará" ],
+			[ "desarrollaremos" ],
+			[ "desarrollaréis", "desarrollarán" ],
+			[ "desarrollarán" ]
+		],
+		"8" : [
+			[ "desarrolle" ],
+			[ "desarrolles" ],
+			[ "desarrolle" ],
+			[ "desarrollemos" ],
+			[ "desarrolléis", "desarrollen" ],
+			[ "desarrollen" ]
+		],
+		"9" : [
+			[ "desarrollara" ],
+			[ "desarrollaras" ],
+			[ "desarrollara" ],
+			[ "desarrolláramos" ],
+			[ "desarrollarais", "desarrollaran" ],
+			[ "desarrollaran" ]
+		],
+		"10" : [
+			[ "desarrollase" ],
+			[ "desarrollases" ],
+			[ "desarrollase" ],
+			[ "desarrollásemos" ],
+			[ "desarrollaseis", "desarrollasen" ],
+			[ "desarrollasen" ]
+		],
+		"11" : [
+			[ "desarrollare" ],
+			[ "desarrollares" ],
+			[ "desarrollare" ],
+			[ "desarrolláremos" ],
+			[ "desarrollareis", "desarrollaren" ],
+			[ "desarrollaren" ]
+		],
+		"12" : {
+			"1" : [ "desarrolla" ],
+			"2" : [ "desarrolle" ],
+			"3" : [ "desarrollemos" ],
+			"4" : [ "desarrollad" ],
+			"5" : [ "desarrollen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chorrear",
+	"word" : "chorrear",
+	"infinitivo" : "chorrear",
+	"participio" : [ "chorreado" ],
+	"gerundio" : [ "chorreando" ],
+	"tenses" : {
+		"3" : [
+			[ "chorreo" ],
+			[ "chorreas", "chorreás" ],
+			[ "chorrea" ],
+			[ "chorreamos" ],
+			[ "chorreáis", "chorrean" ],
+			[ "chorrean" ]
+		],
+		"4" : [
+			[ "chorreé" ],
+			[ "chorreaste" ],
+			[ "chorreó" ],
+			[ "chorreamos" ],
+			[ "chorreasteis", "chorrearon" ],
+			[ "chorrearon" ]
+		],
+		"5" : [
+			[ "chorreaba" ],
+			[ "chorreabas" ],
+			[ "chorreaba" ],
+			[ "chorreábamos" ],
+			[ "chorreabais", "chorreaban" ],
+			[ "chorreaban" ]
+		],
+		"6" : [
+			[ "chorrearía" ],
+			[ "chorrearías" ],
+			[ "chorrearía" ],
+			[ "chorrearíamos" ],
+			[ "chorrearíais", "chorrearían" ],
+			[ "chorrearían" ]
+		],
+		"7" : [
+			[ "chorrearé" ],
+			[ "chorrearás" ],
+			[ "chorreará" ],
+			[ "chorrearemos" ],
+			[ "chorrearéis", "chorrearán" ],
+			[ "chorrearán" ]
+		],
+		"8" : [
+			[ "chorree" ],
+			[ "chorrees" ],
+			[ "chorree" ],
+			[ "chorreemos" ],
+			[ "chorreéis", "chorreen" ],
+			[ "chorreen" ]
+		],
+		"9" : [
+			[ "chorreara" ],
+			[ "chorrearas" ],
+			[ "chorreara" ],
+			[ "chorreáramos" ],
+			[ "chorrearais", "chorrearan" ],
+			[ "chorrearan" ]
+		],
+		"10" : [
+			[ "chorrease" ],
+			[ "chorreases" ],
+			[ "chorrease" ],
+			[ "chorreásemos" ],
+			[ "chorreaseis", "chorreasen" ],
+			[ "chorreasen" ]
+		],
+		"11" : [
+			[ "chorreare" ],
+			[ "chorreares" ],
+			[ "chorreare" ],
+			[ "chorreáremos" ],
+			[ "chorreareis", "chorrearen" ],
+			[ "chorrearen" ]
+		],
+		"12" : {
+			"1" : [ "chorrea" ],
+			"2" : [ "chorree" ],
+			"3" : [ "chorreemos" ],
+			"4" : [ "chorread" ],
+			"5" : [ "chorreen" ]
+		}
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=clarecer",
+	"word" : "clarecer",
+	"infinitivo" : "clarecer",
+	"participio" : [ "clarecido" ],
+	"gerundio" : [ "clareciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "clarece" ],
+			[ "clarecen" ],
+			[ "" ]
+		],
+		"4" : [
+			[ "clareció" ],
+			[ "clarecieron" ],
+			[ "" ]
+		],
+		"5" : [
+			[ "clarecía" ],
+			[ "clarecían" ],
+			[ "" ]
+		],
+		"6" : [
+			[ "clarecería" ],
+			[ "clarecerían" ],
+			[ "" ]
+		],
+		"7" : [
+			[ "clarecerá" ],
+			[ "clarecerán" ],
+			[ "" ]
+		],
+		"8" : [
+			[ "clarezca" ],
+			[ "clarezcan" ],
+			[ "" ]
+		],
+		"9" : [
+			[ "clareciera" ],
+			[ "clarecieran" ]
+		],
+		"10" : [
+			[ "clareciese" ],
+			[ "clareciesen" ]
+		],
+		"11" : [
+			[ "clareciere" ],
+			[ "clarecieren" ],
+			[ "" ]
+		]
+	}
+}

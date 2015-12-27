@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sesgar",
+	"word" : "sesgar",
+	"infinitivo" : "sesgar",
+	"participio" : [ "sesgado" ],
+	"gerundio" : [ "sesgando" ],
+	"tenses" : {
+		"3" : [
+			[ "sesgo" ],
+			[ "sesgas", "sesgás" ],
+			[ "sesga" ],
+			[ "sesgamos" ],
+			[ "sesgáis", "sesgan" ],
+			[ "sesgan" ]
+		],
+		"4" : [
+			[ "sesgué" ],
+			[ "sesgaste" ],
+			[ "sesgó" ],
+			[ "sesgamos" ],
+			[ "sesgasteis", "sesgaron" ],
+			[ "sesgaron" ]
+		],
+		"5" : [
+			[ "sesgaba" ],
+			[ "sesgabas" ],
+			[ "sesgaba" ],
+			[ "sesgábamos" ],
+			[ "sesgabais", "sesgaban" ],
+			[ "sesgaban" ]
+		],
+		"6" : [
+			[ "sesgaría" ],
+			[ "sesgarías" ],
+			[ "sesgaría" ],
+			[ "sesgaríamos" ],
+			[ "sesgaríais", "sesgarían" ],
+			[ "sesgarían" ]
+		],
+		"7" : [
+			[ "sesgaré" ],
+			[ "sesgarás" ],
+			[ "sesgará" ],
+			[ "sesgaremos" ],
+			[ "sesgaréis", "sesgarán" ],
+			[ "sesgarán" ]
+		],
+		"8" : [
+			[ "sesgue" ],
+			[ "sesgues" ],
+			[ "sesgue" ],
+			[ "sesguemos" ],
+			[ "sesguéis", "sesguen" ],
+			[ "sesguen" ]
+		],
+		"9" : [
+			[ "sesgara" ],
+			[ "sesgaras" ],
+			[ "sesgara" ],
+			[ "sesgáramos" ],
+			[ "sesgarais", "sesgaran" ],
+			[ "sesgaran" ]
+		],
+		"10" : [
+			[ "sesgase" ],
+			[ "sesgases" ],
+			[ "sesgase" ],
+			[ "sesgásemos" ],
+			[ "sesgaseis", "sesgasen" ],
+			[ "sesgasen" ]
+		],
+		"11" : [
+			[ "sesgare" ],
+			[ "sesgares" ],
+			[ "sesgare" ],
+			[ "sesgáremos" ],
+			[ "sesgareis", "sesgaren" ],
+			[ "sesgaren" ]
+		],
+		"12" : {
+			"1" : [ "sesga" ],
+			"2" : [ "sesgue" ],
+			"3" : [ "sesguemos" ],
+			"4" : [ "sesgad" ],
+			"5" : [ "sesguen" ]
+		}
+	}
+}

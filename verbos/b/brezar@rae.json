@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=brezar",
+	"word" : "brezar",
+	"infinitivo" : "brezar",
+	"participio" : [ "brezado" ],
+	"gerundio" : [ "brezando" ],
+	"tenses" : {
+		"3" : [
+			[ "brezo" ],
+			[ "brezas", "brezás" ],
+			[ "breza" ],
+			[ "brezamos" ],
+			[ "brezáis", "brezan" ],
+			[ "brezan" ]
+		],
+		"4" : [
+			[ "brecé" ],
+			[ "brezaste" ],
+			[ "brezó" ],
+			[ "brezamos" ],
+			[ "brezasteis", "brezaron" ],
+			[ "brezaron" ]
+		],
+		"5" : [
+			[ "brezaba" ],
+			[ "brezabas" ],
+			[ "brezaba" ],
+			[ "brezábamos" ],
+			[ "brezabais", "brezaban" ],
+			[ "brezaban" ]
+		],
+		"6" : [
+			[ "brezaría" ],
+			[ "brezarías" ],
+			[ "brezaría" ],
+			[ "brezaríamos" ],
+			[ "brezaríais", "brezarían" ],
+			[ "brezarían" ]
+		],
+		"7" : [
+			[ "brezaré" ],
+			[ "brezarás" ],
+			[ "brezará" ],
+			[ "brezaremos" ],
+			[ "brezaréis", "brezarán" ],
+			[ "brezarán" ]
+		],
+		"8" : [
+			[ "brece" ],
+			[ "breces" ],
+			[ "brece" ],
+			[ "brecemos" ],
+			[ "brecéis", "brecen" ],
+			[ "brecen" ]
+		],
+		"9" : [
+			[ "brezara" ],
+			[ "brezaras" ],
+			[ "brezara" ],
+			[ "brezáramos" ],
+			[ "brezarais", "brezaran" ],
+			[ "brezaran" ]
+		],
+		"10" : [
+			[ "brezase" ],
+			[ "brezases" ],
+			[ "brezase" ],
+			[ "brezásemos" ],
+			[ "brezaseis", "brezasen" ],
+			[ "brezasen" ]
+		],
+		"11" : [
+			[ "brezare" ],
+			[ "brezares" ],
+			[ "brezare" ],
+			[ "brezáremos" ],
+			[ "brezareis", "brezaren" ],
+			[ "brezaren" ]
+		],
+		"12" : {
+			"1" : [ "breza" ],
+			"2" : [ "brece" ],
+			"3" : [ "brecemos" ],
+			"4" : [ "brezad" ],
+			"5" : [ "brecen" ]
+		}
+	}
+}

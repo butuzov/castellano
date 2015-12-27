@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comprimir",
+	"word" : "comprimir",
+	"infinitivo" : "comprimir",
+	"participio" : [ "comprimido" ],
+	"gerundio" : [ "comprimiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "comprimo" ],
+			[ "comprimes", "comprimís" ],
+			[ "comprime" ],
+			[ "comprimimos" ],
+			[ "comprimís", "comprimen" ],
+			[ "comprimen" ]
+		],
+		"4" : [
+			[ "comprimí" ],
+			[ "comprimiste" ],
+			[ "comprimió" ],
+			[ "comprimimos" ],
+			[ "comprimisteis", "comprimieron" ],
+			[ "comprimieron" ]
+		],
+		"5" : [
+			[ "comprimía" ],
+			[ "comprimías" ],
+			[ "comprimía" ],
+			[ "comprimíamos" ],
+			[ "comprimíais", "comprimían" ],
+			[ "comprimían" ]
+		],
+		"6" : [
+			[ "comprimiría" ],
+			[ "comprimirías" ],
+			[ "comprimiría" ],
+			[ "comprimiríamos" ],
+			[ "comprimiríais", "comprimirían" ],
+			[ "comprimirían" ]
+		],
+		"7" : [
+			[ "comprimiré" ],
+			[ "comprimirás" ],
+			[ "comprimirá" ],
+			[ "comprimiremos" ],
+			[ "comprimiréis", "comprimirán" ],
+			[ "comprimirán" ]
+		],
+		"8" : [
+			[ "comprima" ],
+			[ "comprimas" ],
+			[ "comprima" ],
+			[ "comprimamos" ],
+			[ "comprimáis", "compriman" ],
+			[ "compriman" ]
+		],
+		"9" : [
+			[ "comprimiera" ],
+			[ "comprimieras" ],
+			[ "comprimiera" ],
+			[ "comprimiéramos" ],
+			[ "comprimierais", "comprimieran" ],
+			[ "comprimieran" ]
+		],
+		"10" : [
+			[ "comprimiese" ],
+			[ "comprimieses" ],
+			[ "comprimiese" ],
+			[ "comprimiésemos" ],
+			[ "comprimieseis", "comprimiesen" ],
+			[ "comprimiesen" ]
+		],
+		"11" : [
+			[ "comprimiere" ],
+			[ "comprimieres" ],
+			[ "comprimiere" ],
+			[ "comprimiéremos" ],
+			[ "comprimiereis", "comprimieren" ],
+			[ "comprimieren" ]
+		],
+		"12" : {
+			"1" : [ "comprime" ],
+			"2" : [ "comprima" ],
+			"3" : [ "comprimamos" ],
+			"4" : [ "comprimid" ],
+			"5" : [ "compriman" ]
+		}
+	}
+}

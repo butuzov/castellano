@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=jalear",
+	"word" : "jalear",
+	"infinitivo" : "jalear",
+	"participio" : [ "jaleado" ],
+	"gerundio" : [ "jaleando" ],
+	"tenses" : {
+		"3" : [
+			[ "jaleo" ],
+			[ "jaleas", "jaleás" ],
+			[ "jalea" ],
+			[ "jaleamos" ],
+			[ "jaleáis", "jalean" ],
+			[ "jalean" ]
+		],
+		"4" : [
+			[ "jaleé" ],
+			[ "jaleaste" ],
+			[ "jaleó" ],
+			[ "jaleamos" ],
+			[ "jaleasteis", "jalearon" ],
+			[ "jalearon" ]
+		],
+		"5" : [
+			[ "jaleaba" ],
+			[ "jaleabas" ],
+			[ "jaleaba" ],
+			[ "jaleábamos" ],
+			[ "jaleabais", "jaleaban" ],
+			[ "jaleaban" ]
+		],
+		"6" : [
+			[ "jalearía" ],
+			[ "jalearías" ],
+			[ "jalearía" ],
+			[ "jalearíamos" ],
+			[ "jalearíais", "jalearían" ],
+			[ "jalearían" ]
+		],
+		"7" : [
+			[ "jalearé" ],
+			[ "jalearás" ],
+			[ "jaleará" ],
+			[ "jalearemos" ],
+			[ "jalearéis", "jalearán" ],
+			[ "jalearán" ]
+		],
+		"8" : [
+			[ "jalee" ],
+			[ "jalees" ],
+			[ "jalee" ],
+			[ "jaleemos" ],
+			[ "jaleéis", "jaleen" ],
+			[ "jaleen" ]
+		],
+		"9" : [
+			[ "jaleara" ],
+			[ "jalearas" ],
+			[ "jaleara" ],
+			[ "jaleáramos" ],
+			[ "jalearais", "jalearan" ],
+			[ "jalearan" ]
+		],
+		"10" : [
+			[ "jalease" ],
+			[ "jaleases" ],
+			[ "jalease" ],
+			[ "jaleásemos" ],
+			[ "jaleaseis", "jaleasen" ],
+			[ "jaleasen" ]
+		],
+		"11" : [
+			[ "jaleare" ],
+			[ "jaleares" ],
+			[ "jaleare" ],
+			[ "jaleáremos" ],
+			[ "jaleareis", "jalearen" ],
+			[ "jalearen" ]
+		],
+		"12" : {
+			"1" : [ "jalea" ],
+			"2" : [ "jalee" ],
+			"3" : [ "jaleemos" ],
+			"4" : [ "jalead" ],
+			"5" : [ "jaleen" ]
+		}
+	}
+}

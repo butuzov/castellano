@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gemir",
+	"word" : "gemir",
+	"infinitivo" : "gemir",
+	"participio" : [ "gemido" ],
+	"gerundio" : [ "gimiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "gimo" ],
+			[ "gimes", "gemís" ],
+			[ "gime" ],
+			[ "gemimos" ],
+			[ "gemís", "gimen" ],
+			[ "gimen" ]
+		],
+		"4" : [
+			[ "gemí" ],
+			[ "gemiste" ],
+			[ "gimió" ],
+			[ "gemimos" ],
+			[ "gemisteis", "gimieron" ],
+			[ "gimieron" ]
+		],
+		"5" : [
+			[ "gemía" ],
+			[ "gemías" ],
+			[ "gemía" ],
+			[ "gemíamos" ],
+			[ "gemíais", "gemían" ],
+			[ "gemían" ]
+		],
+		"6" : [
+			[ "gemiría" ],
+			[ "gemirías" ],
+			[ "gemiría" ],
+			[ "gemiríamos" ],
+			[ "gemiríais", "gemirían" ],
+			[ "gemirían" ]
+		],
+		"7" : [
+			[ "gemiré" ],
+			[ "gemirás" ],
+			[ "gemirá" ],
+			[ "gemiremos" ],
+			[ "gemiréis", "gemirán" ],
+			[ "gemirán" ]
+		],
+		"8" : [
+			[ "gima" ],
+			[ "gimas" ],
+			[ "gima" ],
+			[ "gimamos" ],
+			[ "gimáis", "giman" ],
+			[ "giman" ]
+		],
+		"9" : [
+			[ "gimiera" ],
+			[ "gimieras" ],
+			[ "gimiera" ],
+			[ "gimiéramos" ],
+			[ "gimierais", "gimieran" ],
+			[ "gimieran" ]
+		],
+		"10" : [
+			[ "gimiese" ],
+			[ "gimieses" ],
+			[ "gimiese" ],
+			[ "gimiésemos" ],
+			[ "gimieseis", "gimiesen" ],
+			[ "gimiesen" ]
+		],
+		"11" : [
+			[ "gimiere" ],
+			[ "gimieres" ],
+			[ "gimiere" ],
+			[ "gimiéremos" ],
+			[ "gimiereis", "gimieren" ],
+			[ "gimieren" ]
+		],
+		"12" : {
+			"1" : [ "gime" ],
+			"2" : [ "gima" ],
+			"3" : [ "gimamos" ],
+			"4" : [ "gemid" ],
+			"5" : [ "giman" ]
+		}
+	}
+}

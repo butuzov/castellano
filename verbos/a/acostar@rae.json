@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acostar",
+	"word" : "acostar",
+	"infinitivo" : "acostar",
+	"participio" : [ "acostado" ],
+	"gerundio" : [ "acostando" ],
+	"tenses" : {
+		"3" : [
+			[ "acuesto", "acosto" ],
+			[ "acuestas", "acostas", "acostás" ],
+			[ "acuesta", "acosta" ],
+			[ "acostamos" ],
+			[ "acostáis", "acuestan", "acostan" ],
+			[ "acuestan", "acostan" ]
+		],
+		"4" : [
+			[ "acosté" ],
+			[ "acostaste" ],
+			[ "acostó" ],
+			[ "acostamos" ],
+			[ "acostasteis", "acostaron" ],
+			[ "acostaron" ]
+		],
+		"5" : [
+			[ "acostaba" ],
+			[ "acostabas" ],
+			[ "acostaba" ],
+			[ "acostábamos" ],
+			[ "acostabais", "acostaban" ],
+			[ "acostaban" ]
+		],
+		"6" : [
+			[ "acostaría" ],
+			[ "acostarías" ],
+			[ "acostaría" ],
+			[ "acostaríamos" ],
+			[ "acostaríais", "acostarían" ],
+			[ "acostarían" ]
+		],
+		"7" : [
+			[ "acostaré" ],
+			[ "acostarás" ],
+			[ "acostará" ],
+			[ "acostaremos" ],
+			[ "acostaréis", "acostarán" ],
+			[ "acostarán" ]
+		],
+		"8" : [
+			[ "acueste", "acoste" ],
+			[ "acuestes", "acostes" ],
+			[ "acueste", "acoste" ],
+			[ "acostemos" ],
+			[ "acostéis", "acuesten", "acosten" ],
+			[ "acuesten", "acosten" ]
+		],
+		"9" : [
+			[ "acostara" ],
+			[ "acostaras" ],
+			[ "acostara" ],
+			[ "acostáramos" ],
+			[ "acostarais", "acostaran" ],
+			[ "acostaran" ]
+		],
+		"10" : [
+			[ "acostase" ],
+			[ "acostases" ],
+			[ "acostase" ],
+			[ "acostásemos" ],
+			[ "acostaseis", "acostasen" ],
+			[ "acostasen" ]
+		],
+		"11" : [
+			[ "acostare" ],
+			[ "acostares" ],
+			[ "acostare" ],
+			[ "acostáremos" ],
+			[ "acostareis", "acostaren" ],
+			[ "acostaren" ]
+		],
+		"12" : {
+			"1" : [ "acuesta", "acosta" ],
+			"2" : [ "acueste", "acoste" ],
+			"3" : [ "acostemos" ],
+			"4" : [ "acostad" ],
+			"5" : [ "acuesten", "acosten" ]
+		}
+	}
+}

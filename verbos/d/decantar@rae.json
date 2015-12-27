@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=decantar",
+	"word" : "decantar",
+	"infinitivo" : "decantar",
+	"participio" : [ "decantado" ],
+	"gerundio" : [ "decantando" ],
+	"tenses" : {
+		"3" : [
+			[ "decanto" ],
+			[ "decantas", "decantás" ],
+			[ "decanta" ],
+			[ "decantamos" ],
+			[ "decantáis", "decantan" ],
+			[ "decantan" ]
+		],
+		"4" : [
+			[ "decanté" ],
+			[ "decantaste" ],
+			[ "decantó" ],
+			[ "decantamos" ],
+			[ "decantasteis", "decantaron" ],
+			[ "decantaron" ]
+		],
+		"5" : [
+			[ "decantaba" ],
+			[ "decantabas" ],
+			[ "decantaba" ],
+			[ "decantábamos" ],
+			[ "decantabais", "decantaban" ],
+			[ "decantaban" ]
+		],
+		"6" : [
+			[ "decantaría" ],
+			[ "decantarías" ],
+			[ "decantaría" ],
+			[ "decantaríamos" ],
+			[ "decantaríais", "decantarían" ],
+			[ "decantarían" ]
+		],
+		"7" : [
+			[ "decantaré" ],
+			[ "decantarás" ],
+			[ "decantará" ],
+			[ "decantaremos" ],
+			[ "decantaréis", "decantarán" ],
+			[ "decantarán" ]
+		],
+		"8" : [
+			[ "decante" ],
+			[ "decantes" ],
+			[ "decante" ],
+			[ "decantemos" ],
+			[ "decantéis", "decanten" ],
+			[ "decanten" ]
+		],
+		"9" : [
+			[ "decantara" ],
+			[ "decantaras" ],
+			[ "decantara" ],
+			[ "decantáramos" ],
+			[ "decantarais", "decantaran" ],
+			[ "decantaran" ]
+		],
+		"10" : [
+			[ "decantase" ],
+			[ "decantases" ],
+			[ "decantase" ],
+			[ "decantásemos" ],
+			[ "decantaseis", "decantasen" ],
+			[ "decantasen" ]
+		],
+		"11" : [
+			[ "decantare" ],
+			[ "decantares" ],
+			[ "decantare" ],
+			[ "decantáremos" ],
+			[ "decantareis", "decantaren" ],
+			[ "decantaren" ]
+		],
+		"12" : {
+			"1" : [ "decanta" ],
+			"2" : [ "decante" ],
+			"3" : [ "decantemos" ],
+			"4" : [ "decantad" ],
+			"5" : [ "decanten" ]
+		}
+	}
+}

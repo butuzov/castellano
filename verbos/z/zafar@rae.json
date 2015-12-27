@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=zafar",
+	"word" : "zafar",
+	"infinitivo" : "zafar",
+	"participio" : [ "zafado" ],
+	"gerundio" : [ "zafando" ],
+	"tenses" : {
+		"3" : [
+			[ "zafo" ],
+			[ "zafas", "zafás" ],
+			[ "zafa" ],
+			[ "zafamos" ],
+			[ "zafáis", "zafan" ],
+			[ "zafan" ]
+		],
+		"4" : [
+			[ "zafé" ],
+			[ "zafaste" ],
+			[ "zafó" ],
+			[ "zafamos" ],
+			[ "zafasteis", "zafaron" ],
+			[ "zafaron" ]
+		],
+		"5" : [
+			[ "zafaba" ],
+			[ "zafabas" ],
+			[ "zafaba" ],
+			[ "zafábamos" ],
+			[ "zafabais", "zafaban" ],
+			[ "zafaban" ]
+		],
+		"6" : [
+			[ "zafaría" ],
+			[ "zafarías" ],
+			[ "zafaría" ],
+			[ "zafaríamos" ],
+			[ "zafaríais", "zafarían" ],
+			[ "zafarían" ]
+		],
+		"7" : [
+			[ "zafaré" ],
+			[ "zafarás" ],
+			[ "zafará" ],
+			[ "zafaremos" ],
+			[ "zafaréis", "zafarán" ],
+			[ "zafarán" ]
+		],
+		"8" : [
+			[ "zafe" ],
+			[ "zafes" ],
+			[ "zafe" ],
+			[ "zafemos" ],
+			[ "zaféis", "zafen" ],
+			[ "zafen" ]
+		],
+		"9" : [
+			[ "zafara" ],
+			[ "zafaras" ],
+			[ "zafara" ],
+			[ "zafáramos" ],
+			[ "zafarais", "zafaran" ],
+			[ "zafaran" ]
+		],
+		"10" : [
+			[ "zafase" ],
+			[ "zafases" ],
+			[ "zafase" ],
+			[ "zafásemos" ],
+			[ "zafaseis", "zafasen" ],
+			[ "zafasen" ]
+		],
+		"11" : [
+			[ "zafare" ],
+			[ "zafares" ],
+			[ "zafare" ],
+			[ "zafáremos" ],
+			[ "zafareis", "zafaren" ],
+			[ "zafaren" ]
+		],
+		"12" : {
+			"1" : [ "zafa" ],
+			"2" : [ "zafe" ],
+			"3" : [ "zafemos" ],
+			"4" : [ "zafad" ],
+			"5" : [ "zafen" ]
+		}
+	}
+}

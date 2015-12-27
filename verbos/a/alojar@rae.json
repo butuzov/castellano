@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alojar",
+	"word" : "alojar",
+	"infinitivo" : "alojar",
+	"participio" : [ "alojado" ],
+	"gerundio" : [ "alojando" ],
+	"tenses" : {
+		"3" : [
+			[ "alojo" ],
+			[ "alojas", "alojás" ],
+			[ "aloja" ],
+			[ "alojamos" ],
+			[ "alojáis", "alojan" ],
+			[ "alojan" ]
+		],
+		"4" : [
+			[ "alojé" ],
+			[ "alojaste" ],
+			[ "alojó" ],
+			[ "alojamos" ],
+			[ "alojasteis", "alojaron" ],
+			[ "alojaron" ]
+		],
+		"5" : [
+			[ "alojaba" ],
+			[ "alojabas" ],
+			[ "alojaba" ],
+			[ "alojábamos" ],
+			[ "alojabais", "alojaban" ],
+			[ "alojaban" ]
+		],
+		"6" : [
+			[ "alojaría" ],
+			[ "alojarías" ],
+			[ "alojaría" ],
+			[ "alojaríamos" ],
+			[ "alojaríais", "alojarían" ],
+			[ "alojarían" ]
+		],
+		"7" : [
+			[ "alojaré" ],
+			[ "alojarás" ],
+			[ "alojará" ],
+			[ "alojaremos" ],
+			[ "alojaréis", "alojarán" ],
+			[ "alojarán" ]
+		],
+		"8" : [
+			[ "aloje" ],
+			[ "alojes" ],
+			[ "aloje" ],
+			[ "alojemos" ],
+			[ "alojéis", "alojen" ],
+			[ "alojen" ]
+		],
+		"9" : [
+			[ "alojara" ],
+			[ "alojaras" ],
+			[ "alojara" ],
+			[ "alojáramos" ],
+			[ "alojarais", "alojaran" ],
+			[ "alojaran" ]
+		],
+		"10" : [
+			[ "alojase" ],
+			[ "alojases" ],
+			[ "alojase" ],
+			[ "alojásemos" ],
+			[ "alojaseis", "alojasen" ],
+			[ "alojasen" ]
+		],
+		"11" : [
+			[ "alojare" ],
+			[ "alojares" ],
+			[ "alojare" ],
+			[ "alojáremos" ],
+			[ "alojareis", "alojaren" ],
+			[ "alojaren" ]
+		],
+		"12" : {
+			"1" : [ "aloja" ],
+			"2" : [ "aloje" ],
+			"3" : [ "alojemos" ],
+			"4" : [ "alojad" ],
+			"5" : [ "alojen" ]
+		}
+	}
+}

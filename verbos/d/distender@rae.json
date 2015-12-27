@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=distender",
+	"word" : "distender",
+	"infinitivo" : "distender",
+	"participio" : [ "distendido" ],
+	"gerundio" : [ "distendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "distiendo" ],
+			[ "distiendes", "distendés" ],
+			[ "distiende" ],
+			[ "distendemos" ],
+			[ "distendéis", "distienden" ],
+			[ "distienden" ]
+		],
+		"4" : [
+			[ "distendí" ],
+			[ "distendiste" ],
+			[ "distendió" ],
+			[ "distendimos" ],
+			[ "distendisteis", "distendieron" ],
+			[ "distendieron" ]
+		],
+		"5" : [
+			[ "distendía" ],
+			[ "distendías" ],
+			[ "distendía" ],
+			[ "distendíamos" ],
+			[ "distendíais", "distendían" ],
+			[ "distendían" ]
+		],
+		"6" : [
+			[ "distendería" ],
+			[ "distenderías" ],
+			[ "distendería" ],
+			[ "distenderíamos" ],
+			[ "distenderíais", "distenderían" ],
+			[ "distenderían" ]
+		],
+		"7" : [
+			[ "distenderé" ],
+			[ "distenderás" ],
+			[ "distenderá" ],
+			[ "distenderemos" ],
+			[ "distenderéis", "distenderán" ],
+			[ "distenderán" ]
+		],
+		"8" : [
+			[ "distienda" ],
+			[ "distiendas" ],
+			[ "distienda" ],
+			[ "distendamos" ],
+			[ "distendáis", "distiendan" ],
+			[ "distiendan" ]
+		],
+		"9" : [
+			[ "distendiera" ],
+			[ "distendieras" ],
+			[ "distendiera" ],
+			[ "distendiéramos" ],
+			[ "distendierais", "distendieran" ],
+			[ "distendieran" ]
+		],
+		"10" : [
+			[ "distendiese" ],
+			[ "distendieses" ],
+			[ "distendiese" ],
+			[ "distendiésemos" ],
+			[ "distendieseis", "distendiesen" ],
+			[ "distendiesen" ]
+		],
+		"11" : [
+			[ "distendiere" ],
+			[ "distendieres" ],
+			[ "distendiere" ],
+			[ "distendiéremos" ],
+			[ "distendiereis", "distendieren" ],
+			[ "distendieren" ]
+		],
+		"12" : {
+			"1" : [ "distiende" ],
+			"2" : [ "distienda" ],
+			"3" : [ "distendamos" ],
+			"4" : [ "distended" ],
+			"5" : [ "distiendan" ]
+		}
+	}
+}

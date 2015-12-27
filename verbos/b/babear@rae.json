@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=babear",
+	"word" : "babear",
+	"infinitivo" : "babear",
+	"participio" : [ "babeado" ],
+	"gerundio" : [ "babeando" ],
+	"tenses" : {
+		"3" : [
+			[ "babeo" ],
+			[ "babeas", "babeás" ],
+			[ "babea" ],
+			[ "babeamos" ],
+			[ "babeáis", "babean" ],
+			[ "babean" ]
+		],
+		"4" : [
+			[ "babeé" ],
+			[ "babeaste" ],
+			[ "babeó" ],
+			[ "babeamos" ],
+			[ "babeasteis", "babearon" ],
+			[ "babearon" ]
+		],
+		"5" : [
+			[ "babeaba" ],
+			[ "babeabas" ],
+			[ "babeaba" ],
+			[ "babeábamos" ],
+			[ "babeabais", "babeaban" ],
+			[ "babeaban" ]
+		],
+		"6" : [
+			[ "babearía" ],
+			[ "babearías" ],
+			[ "babearía" ],
+			[ "babearíamos" ],
+			[ "babearíais", "babearían" ],
+			[ "babearían" ]
+		],
+		"7" : [
+			[ "babearé" ],
+			[ "babearás" ],
+			[ "babeará" ],
+			[ "babearemos" ],
+			[ "babearéis", "babearán" ],
+			[ "babearán" ]
+		],
+		"8" : [
+			[ "babee" ],
+			[ "babees" ],
+			[ "babee" ],
+			[ "babeemos" ],
+			[ "babeéis", "babeen" ],
+			[ "babeen" ]
+		],
+		"9" : [
+			[ "babeara" ],
+			[ "babearas" ],
+			[ "babeara" ],
+			[ "babeáramos" ],
+			[ "babearais", "babearan" ],
+			[ "babearan" ]
+		],
+		"10" : [
+			[ "babease" ],
+			[ "babeases" ],
+			[ "babease" ],
+			[ "babeásemos" ],
+			[ "babeaseis", "babeasen" ],
+			[ "babeasen" ]
+		],
+		"11" : [
+			[ "babeare" ],
+			[ "babeares" ],
+			[ "babeare" ],
+			[ "babeáremos" ],
+			[ "babeareis", "babearen" ],
+			[ "babearen" ]
+		],
+		"12" : {
+			"1" : [ "babea" ],
+			"2" : [ "babee" ],
+			"3" : [ "babeemos" ],
+			"4" : [ "babead" ],
+			"5" : [ "babeen" ]
+		}
+	}
+}

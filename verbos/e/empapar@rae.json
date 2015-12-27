@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empapar",
+	"word" : "empapar",
+	"infinitivo" : "empapar",
+	"participio" : [ "empapado" ],
+	"gerundio" : [ "empapando" ],
+	"tenses" : {
+		"3" : [
+			[ "empapo" ],
+			[ "empapas", "empapás" ],
+			[ "empapa" ],
+			[ "empapamos" ],
+			[ "empapáis", "empapan" ],
+			[ "empapan" ]
+		],
+		"4" : [
+			[ "empapé" ],
+			[ "empapaste" ],
+			[ "empapó" ],
+			[ "empapamos" ],
+			[ "empapasteis", "empaparon" ],
+			[ "empaparon" ]
+		],
+		"5" : [
+			[ "empapaba" ],
+			[ "empapabas" ],
+			[ "empapaba" ],
+			[ "empapábamos" ],
+			[ "empapabais", "empapaban" ],
+			[ "empapaban" ]
+		],
+		"6" : [
+			[ "empaparía" ],
+			[ "empaparías" ],
+			[ "empaparía" ],
+			[ "empaparíamos" ],
+			[ "empaparíais", "empaparían" ],
+			[ "empaparían" ]
+		],
+		"7" : [
+			[ "empaparé" ],
+			[ "empaparás" ],
+			[ "empapará" ],
+			[ "empaparemos" ],
+			[ "empaparéis", "empaparán" ],
+			[ "empaparán" ]
+		],
+		"8" : [
+			[ "empape" ],
+			[ "empapes" ],
+			[ "empape" ],
+			[ "empapemos" ],
+			[ "empapéis", "empapen" ],
+			[ "empapen" ]
+		],
+		"9" : [
+			[ "empapara" ],
+			[ "empaparas" ],
+			[ "empapara" ],
+			[ "empapáramos" ],
+			[ "empaparais", "empaparan" ],
+			[ "empaparan" ]
+		],
+		"10" : [
+			[ "empapase" ],
+			[ "empapases" ],
+			[ "empapase" ],
+			[ "empapásemos" ],
+			[ "empapaseis", "empapasen" ],
+			[ "empapasen" ]
+		],
+		"11" : [
+			[ "empapare" ],
+			[ "empapares" ],
+			[ "empapare" ],
+			[ "empapáremos" ],
+			[ "empapareis", "empaparen" ],
+			[ "empaparen" ]
+		],
+		"12" : {
+			"1" : [ "empapa" ],
+			"2" : [ "empape" ],
+			"3" : [ "empapemos" ],
+			"4" : [ "empapad" ],
+			"5" : [ "empapen" ]
+		}
+	}
+}

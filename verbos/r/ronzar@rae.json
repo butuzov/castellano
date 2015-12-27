@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ronzar",
+	"word" : "ronzar",
+	"infinitivo" : "ronzar",
+	"participio" : [ "ronzado" ],
+	"gerundio" : [ "ronzando" ],
+	"tenses" : {
+		"3" : [
+			[ "ronzo" ],
+			[ "ronzas", "ronzás" ],
+			[ "ronza" ],
+			[ "ronzamos" ],
+			[ "ronzáis", "ronzan" ],
+			[ "ronzan" ]
+		],
+		"4" : [
+			[ "roncé" ],
+			[ "ronzaste" ],
+			[ "ronzó" ],
+			[ "ronzamos" ],
+			[ "ronzasteis", "ronzaron" ],
+			[ "ronzaron" ]
+		],
+		"5" : [
+			[ "ronzaba" ],
+			[ "ronzabas" ],
+			[ "ronzaba" ],
+			[ "ronzábamos" ],
+			[ "ronzabais", "ronzaban" ],
+			[ "ronzaban" ]
+		],
+		"6" : [
+			[ "ronzaría" ],
+			[ "ronzarías" ],
+			[ "ronzaría" ],
+			[ "ronzaríamos" ],
+			[ "ronzaríais", "ronzarían" ],
+			[ "ronzarían" ]
+		],
+		"7" : [
+			[ "ronzaré" ],
+			[ "ronzarás" ],
+			[ "ronzará" ],
+			[ "ronzaremos" ],
+			[ "ronzaréis", "ronzarán" ],
+			[ "ronzarán" ]
+		],
+		"8" : [
+			[ "ronce" ],
+			[ "ronces" ],
+			[ "ronce" ],
+			[ "roncemos" ],
+			[ "roncéis", "roncen" ],
+			[ "roncen" ]
+		],
+		"9" : [
+			[ "ronzara" ],
+			[ "ronzaras" ],
+			[ "ronzara" ],
+			[ "ronzáramos" ],
+			[ "ronzarais", "ronzaran" ],
+			[ "ronzaran" ]
+		],
+		"10" : [
+			[ "ronzase" ],
+			[ "ronzases" ],
+			[ "ronzase" ],
+			[ "ronzásemos" ],
+			[ "ronzaseis", "ronzasen" ],
+			[ "ronzasen" ]
+		],
+		"11" : [
+			[ "ronzare" ],
+			[ "ronzares" ],
+			[ "ronzare" ],
+			[ "ronzáremos" ],
+			[ "ronzareis", "ronzaren" ],
+			[ "ronzaren" ]
+		],
+		"12" : {
+			"1" : [ "ronza" ],
+			"2" : [ "ronce" ],
+			"3" : [ "roncemos" ],
+			"4" : [ "ronzad" ],
+			"5" : [ "roncen" ]
+		}
+	}
+}

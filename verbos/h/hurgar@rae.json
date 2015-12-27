@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hurgar",
+	"word" : "hurgar",
+	"infinitivo" : "hurgar",
+	"participio" : [ "hurgado" ],
+	"gerundio" : [ "hurgando" ],
+	"tenses" : {
+		"3" : [
+			[ "hurgo" ],
+			[ "hurgas", "hurgás" ],
+			[ "hurga" ],
+			[ "hurgamos" ],
+			[ "hurgáis", "hurgan" ],
+			[ "hurgan" ]
+		],
+		"4" : [
+			[ "hurgué" ],
+			[ "hurgaste" ],
+			[ "hurgó" ],
+			[ "hurgamos" ],
+			[ "hurgasteis", "hurgaron" ],
+			[ "hurgaron" ]
+		],
+		"5" : [
+			[ "hurgaba" ],
+			[ "hurgabas" ],
+			[ "hurgaba" ],
+			[ "hurgábamos" ],
+			[ "hurgabais", "hurgaban" ],
+			[ "hurgaban" ]
+		],
+		"6" : [
+			[ "hurgaría" ],
+			[ "hurgarías" ],
+			[ "hurgaría" ],
+			[ "hurgaríamos" ],
+			[ "hurgaríais", "hurgarían" ],
+			[ "hurgarían" ]
+		],
+		"7" : [
+			[ "hurgaré" ],
+			[ "hurgarás" ],
+			[ "hurgará" ],
+			[ "hurgaremos" ],
+			[ "hurgaréis", "hurgarán" ],
+			[ "hurgarán" ]
+		],
+		"8" : [
+			[ "hurgue" ],
+			[ "hurgues" ],
+			[ "hurgue" ],
+			[ "hurguemos" ],
+			[ "hurguéis", "hurguen" ],
+			[ "hurguen" ]
+		],
+		"9" : [
+			[ "hurgara" ],
+			[ "hurgaras" ],
+			[ "hurgara" ],
+			[ "hurgáramos" ],
+			[ "hurgarais", "hurgaran" ],
+			[ "hurgaran" ]
+		],
+		"10" : [
+			[ "hurgase" ],
+			[ "hurgases" ],
+			[ "hurgase" ],
+			[ "hurgásemos" ],
+			[ "hurgaseis", "hurgasen" ],
+			[ "hurgasen" ]
+		],
+		"11" : [
+			[ "hurgare" ],
+			[ "hurgares" ],
+			[ "hurgare" ],
+			[ "hurgáremos" ],
+			[ "hurgareis", "hurgaren" ],
+			[ "hurgaren" ]
+		],
+		"12" : {
+			"1" : [ "hurga" ],
+			"2" : [ "hurgue" ],
+			"3" : [ "hurguemos" ],
+			"4" : [ "hurgad" ],
+			"5" : [ "hurguen" ]
+		}
+	}
+}

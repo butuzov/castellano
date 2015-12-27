@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vaciar",
+	"word" : "vaciar",
+	"infinitivo" : "vaciar",
+	"participio" : [ "vaciado" ],
+	"gerundio" : [ "vaciando" ],
+	"tenses" : {
+		"3" : [
+			[ "vacío" ],
+			[ "vacías", "vaciás" ],
+			[ "vacía" ],
+			[ "vaciamos" ],
+			[ "vaciáis", "vacían" ],
+			[ "vacían" ]
+		],
+		"4" : [
+			[ "vacié" ],
+			[ "vaciaste" ],
+			[ "vació" ],
+			[ "vaciamos" ],
+			[ "vaciasteis", "vaciaron" ],
+			[ "vaciaron" ]
+		],
+		"5" : [
+			[ "vaciaba" ],
+			[ "vaciabas" ],
+			[ "vaciaba" ],
+			[ "vaciábamos" ],
+			[ "vaciabais", "vaciaban" ],
+			[ "vaciaban" ]
+		],
+		"6" : [
+			[ "vaciaría" ],
+			[ "vaciarías" ],
+			[ "vaciaría" ],
+			[ "vaciaríamos" ],
+			[ "vaciaríais", "vaciarían" ],
+			[ "vaciarían" ]
+		],
+		"7" : [
+			[ "vaciaré" ],
+			[ "vaciarás" ],
+			[ "vaciará" ],
+			[ "vaciaremos" ],
+			[ "vaciaréis", "vaciarán" ],
+			[ "vaciarán" ]
+		],
+		"8" : [
+			[ "vacíe" ],
+			[ "vacíes" ],
+			[ "vacíe" ],
+			[ "vaciemos" ],
+			[ "vaciéis", "vacíen" ],
+			[ "vacíen" ]
+		],
+		"9" : [
+			[ "vaciara" ],
+			[ "vaciaras" ],
+			[ "vaciara" ],
+			[ "vaciáramos" ],
+			[ "vaciarais", "vaciaran" ],
+			[ "vaciaran" ]
+		],
+		"10" : [
+			[ "vaciase" ],
+			[ "vaciases" ],
+			[ "vaciase" ],
+			[ "vaciásemos" ],
+			[ "vaciaseis", "vaciasen" ],
+			[ "vaciasen" ]
+		],
+		"11" : [
+			[ "vaciare" ],
+			[ "vaciares" ],
+			[ "vaciare" ],
+			[ "vaciáremos" ],
+			[ "vaciareis", "vaciaren" ],
+			[ "vaciaren" ]
+		],
+		"12" : {
+			"1" : [ "vacía" ],
+			"2" : [ "vacíe" ],
+			"3" : [ "vaciemos" ],
+			"4" : [ "vaciad" ],
+			"5" : [ "vacíen" ]
+		}
+	}
+}

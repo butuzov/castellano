@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=beldar",
+	"word" : "beldar",
+	"infinitivo" : "beldar",
+	"participio" : [ "beldado" ],
+	"gerundio" : [ "beldando" ],
+	"tenses" : {
+		"3" : [
+			[ "bieldo" ],
+			[ "bieldas", "beldás" ],
+			[ "bielda" ],
+			[ "beldamos" ],
+			[ "beldáis", "bieldan" ],
+			[ "bieldan" ]
+		],
+		"4" : [
+			[ "beldé" ],
+			[ "beldaste" ],
+			[ "beldó" ],
+			[ "beldamos" ],
+			[ "beldasteis", "beldaron" ],
+			[ "beldaron" ]
+		],
+		"5" : [
+			[ "beldaba" ],
+			[ "beldabas" ],
+			[ "beldaba" ],
+			[ "beldábamos" ],
+			[ "beldabais", "beldaban" ],
+			[ "beldaban" ]
+		],
+		"6" : [
+			[ "beldaría" ],
+			[ "beldarías" ],
+			[ "beldaría" ],
+			[ "beldaríamos" ],
+			[ "beldaríais", "beldarían" ],
+			[ "beldarían" ]
+		],
+		"7" : [
+			[ "beldaré" ],
+			[ "beldarás" ],
+			[ "beldará" ],
+			[ "beldaremos" ],
+			[ "beldaréis", "beldarán" ],
+			[ "beldarán" ]
+		],
+		"8" : [
+			[ "bielde" ],
+			[ "bieldes" ],
+			[ "bielde" ],
+			[ "beldemos" ],
+			[ "beldéis", "bielden" ],
+			[ "bielden" ]
+		],
+		"9" : [
+			[ "beldara" ],
+			[ "beldaras" ],
+			[ "beldara" ],
+			[ "beldáramos" ],
+			[ "beldarais", "beldaran" ],
+			[ "beldaran" ]
+		],
+		"10" : [
+			[ "beldase" ],
+			[ "beldases" ],
+			[ "beldase" ],
+			[ "beldásemos" ],
+			[ "beldaseis", "beldasen" ],
+			[ "beldasen" ]
+		],
+		"11" : [
+			[ "beldare" ],
+			[ "beldares" ],
+			[ "beldare" ],
+			[ "beldáremos" ],
+			[ "beldareis", "beldaren" ],
+			[ "beldaren" ]
+		],
+		"12" : {
+			"1" : [ "bielda" ],
+			"2" : [ "bielde" ],
+			"3" : [ "beldemos" ],
+			"4" : [ "beldad" ],
+			"5" : [ "bielden" ]
+		}
+	}
+}

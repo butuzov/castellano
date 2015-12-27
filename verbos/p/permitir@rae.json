@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=permitir",
+	"word" : "permitir",
+	"infinitivo" : "permitir",
+	"participio" : [ "permitido" ],
+	"gerundio" : [ "permitiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "permito" ],
+			[ "permites", "permitís" ],
+			[ "permite" ],
+			[ "permitimos" ],
+			[ "permitís", "permiten" ],
+			[ "permiten" ]
+		],
+		"4" : [
+			[ "permití" ],
+			[ "permitiste" ],
+			[ "permitió" ],
+			[ "permitimos" ],
+			[ "permitisteis", "permitieron" ],
+			[ "permitieron" ]
+		],
+		"5" : [
+			[ "permitía" ],
+			[ "permitías" ],
+			[ "permitía" ],
+			[ "permitíamos" ],
+			[ "permitíais", "permitían" ],
+			[ "permitían" ]
+		],
+		"6" : [
+			[ "permitiría" ],
+			[ "permitirías" ],
+			[ "permitiría" ],
+			[ "permitiríamos" ],
+			[ "permitiríais", "permitirían" ],
+			[ "permitirían" ]
+		],
+		"7" : [
+			[ "permitiré" ],
+			[ "permitirás" ],
+			[ "permitirá" ],
+			[ "permitiremos" ],
+			[ "permitiréis", "permitirán" ],
+			[ "permitirán" ]
+		],
+		"8" : [
+			[ "permita" ],
+			[ "permitas" ],
+			[ "permita" ],
+			[ "permitamos" ],
+			[ "permitáis", "permitan" ],
+			[ "permitan" ]
+		],
+		"9" : [
+			[ "permitiera" ],
+			[ "permitieras" ],
+			[ "permitiera" ],
+			[ "permitiéramos" ],
+			[ "permitierais", "permitieran" ],
+			[ "permitieran" ]
+		],
+		"10" : [
+			[ "permitiese" ],
+			[ "permitieses" ],
+			[ "permitiese" ],
+			[ "permitiésemos" ],
+			[ "permitieseis", "permitiesen" ],
+			[ "permitiesen" ]
+		],
+		"11" : [
+			[ "permitiere" ],
+			[ "permitieres" ],
+			[ "permitiere" ],
+			[ "permitiéremos" ],
+			[ "permitiereis", "permitieren" ],
+			[ "permitieren" ]
+		],
+		"12" : {
+			"1" : [ "permite" ],
+			"2" : [ "permita" ],
+			"3" : [ "permitamos" ],
+			"4" : [ "permitid" ],
+			"5" : [ "permitan" ]
+		}
+	}
+}

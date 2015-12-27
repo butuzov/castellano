@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=corretear",
+	"word" : "corretear",
+	"infinitivo" : "corretear",
+	"participio" : [ "correteado" ],
+	"gerundio" : [ "correteando" ],
+	"tenses" : {
+		"3" : [
+			[ "correteo" ],
+			[ "correteas", "correteás" ],
+			[ "corretea" ],
+			[ "correteamos" ],
+			[ "correteáis", "corretean" ],
+			[ "corretean" ]
+		],
+		"4" : [
+			[ "correteé" ],
+			[ "correteaste" ],
+			[ "correteó" ],
+			[ "correteamos" ],
+			[ "correteasteis", "corretearon" ],
+			[ "corretearon" ]
+		],
+		"5" : [
+			[ "correteaba" ],
+			[ "correteabas" ],
+			[ "correteaba" ],
+			[ "correteábamos" ],
+			[ "correteabais", "correteaban" ],
+			[ "correteaban" ]
+		],
+		"6" : [
+			[ "corretearía" ],
+			[ "corretearías" ],
+			[ "corretearía" ],
+			[ "corretearíamos" ],
+			[ "corretearíais", "corretearían" ],
+			[ "corretearían" ]
+		],
+		"7" : [
+			[ "corretearé" ],
+			[ "corretearás" ],
+			[ "correteará" ],
+			[ "corretearemos" ],
+			[ "corretearéis", "corretearán" ],
+			[ "corretearán" ]
+		],
+		"8" : [
+			[ "corretee" ],
+			[ "corretees" ],
+			[ "corretee" ],
+			[ "correteemos" ],
+			[ "correteéis", "correteen" ],
+			[ "correteen" ]
+		],
+		"9" : [
+			[ "correteara" ],
+			[ "corretearas" ],
+			[ "correteara" ],
+			[ "correteáramos" ],
+			[ "corretearais", "corretearan" ],
+			[ "corretearan" ]
+		],
+		"10" : [
+			[ "corretease" ],
+			[ "correteases" ],
+			[ "corretease" ],
+			[ "correteásemos" ],
+			[ "correteaseis", "correteasen" ],
+			[ "correteasen" ]
+		],
+		"11" : [
+			[ "correteare" ],
+			[ "correteares" ],
+			[ "correteare" ],
+			[ "correteáremos" ],
+			[ "correteareis", "corretearen" ],
+			[ "corretearen" ]
+		],
+		"12" : {
+			"1" : [ "corretea" ],
+			"2" : [ "corretee" ],
+			"3" : [ "correteemos" ],
+			"4" : [ "corretead" ],
+			"5" : [ "correteen" ]
+		}
+	}
+}

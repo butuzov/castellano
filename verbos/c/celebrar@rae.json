@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=celebrar",
+	"word" : "celebrar",
+	"infinitivo" : "celebrar",
+	"participio" : [ "celebrado" ],
+	"gerundio" : [ "celebrando" ],
+	"tenses" : {
+		"3" : [
+			[ "celebro" ],
+			[ "celebras", "celebrás" ],
+			[ "celebra" ],
+			[ "celebramos" ],
+			[ "celebráis", "celebran" ],
+			[ "celebran" ]
+		],
+		"4" : [
+			[ "celebré" ],
+			[ "celebraste" ],
+			[ "celebró" ],
+			[ "celebramos" ],
+			[ "celebrasteis", "celebraron" ],
+			[ "celebraron" ]
+		],
+		"5" : [
+			[ "celebraba" ],
+			[ "celebrabas" ],
+			[ "celebraba" ],
+			[ "celebrábamos" ],
+			[ "celebrabais", "celebraban" ],
+			[ "celebraban" ]
+		],
+		"6" : [
+			[ "celebraría" ],
+			[ "celebrarías" ],
+			[ "celebraría" ],
+			[ "celebraríamos" ],
+			[ "celebraríais", "celebrarían" ],
+			[ "celebrarían" ]
+		],
+		"7" : [
+			[ "celebraré" ],
+			[ "celebrarás" ],
+			[ "celebrará" ],
+			[ "celebraremos" ],
+			[ "celebraréis", "celebrarán" ],
+			[ "celebrarán" ]
+		],
+		"8" : [
+			[ "celebre" ],
+			[ "celebres" ],
+			[ "celebre" ],
+			[ "celebremos" ],
+			[ "celebréis", "celebren" ],
+			[ "celebren" ]
+		],
+		"9" : [
+			[ "celebrara" ],
+			[ "celebraras" ],
+			[ "celebrara" ],
+			[ "celebráramos" ],
+			[ "celebrarais", "celebraran" ],
+			[ "celebraran" ]
+		],
+		"10" : [
+			[ "celebrase" ],
+			[ "celebrases" ],
+			[ "celebrase" ],
+			[ "celebrásemos" ],
+			[ "celebraseis", "celebrasen" ],
+			[ "celebrasen" ]
+		],
+		"11" : [
+			[ "celebrare" ],
+			[ "celebrares" ],
+			[ "celebrare" ],
+			[ "celebráremos" ],
+			[ "celebrareis", "celebraren" ],
+			[ "celebraren" ]
+		],
+		"12" : {
+			"1" : [ "celebra" ],
+			"2" : [ "celebre" ],
+			"3" : [ "celebremos" ],
+			"4" : [ "celebrad" ],
+			"5" : [ "celebren" ]
+		}
+	}
+}

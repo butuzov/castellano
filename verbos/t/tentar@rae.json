@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tentar",
+	"word" : "tentar",
+	"infinitivo" : "tentar",
+	"participio" : [ "tentado" ],
+	"gerundio" : [ "tentando" ],
+	"tenses" : {
+		"3" : [
+			[ "tiento" ],
+			[ "tientas", "tentás" ],
+			[ "tienta" ],
+			[ "tentamos" ],
+			[ "tentáis", "tientan" ],
+			[ "tientan" ]
+		],
+		"4" : [
+			[ "tenté" ],
+			[ "tentaste" ],
+			[ "tentó" ],
+			[ "tentamos" ],
+			[ "tentasteis", "tentaron" ],
+			[ "tentaron" ]
+		],
+		"5" : [
+			[ "tentaba" ],
+			[ "tentabas" ],
+			[ "tentaba" ],
+			[ "tentábamos" ],
+			[ "tentabais", "tentaban" ],
+			[ "tentaban" ]
+		],
+		"6" : [
+			[ "tentaría" ],
+			[ "tentarías" ],
+			[ "tentaría" ],
+			[ "tentaríamos" ],
+			[ "tentaríais", "tentarían" ],
+			[ "tentarían" ]
+		],
+		"7" : [
+			[ "tentaré" ],
+			[ "tentarás" ],
+			[ "tentará" ],
+			[ "tentaremos" ],
+			[ "tentaréis", "tentarán" ],
+			[ "tentarán" ]
+		],
+		"8" : [
+			[ "tiente" ],
+			[ "tientes" ],
+			[ "tiente" ],
+			[ "tentemos" ],
+			[ "tentéis", "tienten" ],
+			[ "tienten" ]
+		],
+		"9" : [
+			[ "tentara" ],
+			[ "tentaras" ],
+			[ "tentara" ],
+			[ "tentáramos" ],
+			[ "tentarais", "tentaran" ],
+			[ "tentaran" ]
+		],
+		"10" : [
+			[ "tentase" ],
+			[ "tentases" ],
+			[ "tentase" ],
+			[ "tentásemos" ],
+			[ "tentaseis", "tentasen" ],
+			[ "tentasen" ]
+		],
+		"11" : [
+			[ "tentare" ],
+			[ "tentares" ],
+			[ "tentare" ],
+			[ "tentáremos" ],
+			[ "tentareis", "tentaren" ],
+			[ "tentaren" ]
+		],
+		"12" : {
+			"1" : [ "tienta" ],
+			"2" : [ "tiente" ],
+			"3" : [ "tentemos" ],
+			"4" : [ "tentad" ],
+			"5" : [ "tienten" ]
+		}
+	}
+}

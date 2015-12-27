@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=satinar",
+	"word" : "satinar",
+	"infinitivo" : "satinar",
+	"participio" : [ "satinado" ],
+	"gerundio" : [ "satinando" ],
+	"tenses" : {
+		"3" : [
+			[ "satino" ],
+			[ "satinas", "satinás" ],
+			[ "satina" ],
+			[ "satinamos" ],
+			[ "satináis", "satinan" ],
+			[ "satinan" ]
+		],
+		"4" : [
+			[ "satiné" ],
+			[ "satinaste" ],
+			[ "satinó" ],
+			[ "satinamos" ],
+			[ "satinasteis", "satinaron" ],
+			[ "satinaron" ]
+		],
+		"5" : [
+			[ "satinaba" ],
+			[ "satinabas" ],
+			[ "satinaba" ],
+			[ "satinábamos" ],
+			[ "satinabais", "satinaban" ],
+			[ "satinaban" ]
+		],
+		"6" : [
+			[ "satinaría" ],
+			[ "satinarías" ],
+			[ "satinaría" ],
+			[ "satinaríamos" ],
+			[ "satinaríais", "satinarían" ],
+			[ "satinarían" ]
+		],
+		"7" : [
+			[ "satinaré" ],
+			[ "satinarás" ],
+			[ "satinará" ],
+			[ "satinaremos" ],
+			[ "satinaréis", "satinarán" ],
+			[ "satinarán" ]
+		],
+		"8" : [
+			[ "satine" ],
+			[ "satines" ],
+			[ "satine" ],
+			[ "satinemos" ],
+			[ "satinéis", "satinen" ],
+			[ "satinen" ]
+		],
+		"9" : [
+			[ "satinara" ],
+			[ "satinaras" ],
+			[ "satinara" ],
+			[ "satináramos" ],
+			[ "satinarais", "satinaran" ],
+			[ "satinaran" ]
+		],
+		"10" : [
+			[ "satinase" ],
+			[ "satinases" ],
+			[ "satinase" ],
+			[ "satinásemos" ],
+			[ "satinaseis", "satinasen" ],
+			[ "satinasen" ]
+		],
+		"11" : [
+			[ "satinare" ],
+			[ "satinares" ],
+			[ "satinare" ],
+			[ "satináremos" ],
+			[ "satinareis", "satinaren" ],
+			[ "satinaren" ]
+		],
+		"12" : {
+			"1" : [ "satina" ],
+			"2" : [ "satine" ],
+			"3" : [ "satinemos" ],
+			"4" : [ "satinad" ],
+			"5" : [ "satinen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conmover",
+	"word" : "conmover",
+	"infinitivo" : "conmover",
+	"participio" : [ "conmovido" ],
+	"gerundio" : [ "conmoviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "conmuevo" ],
+			[ "conmueves", "conmovés" ],
+			[ "conmueve" ],
+			[ "conmovemos" ],
+			[ "conmovéis", "conmueven" ],
+			[ "conmueven" ]
+		],
+		"4" : [
+			[ "conmoví" ],
+			[ "conmoviste" ],
+			[ "conmovió" ],
+			[ "conmovimos" ],
+			[ "conmovisteis", "conmovieron" ],
+			[ "conmovieron" ]
+		],
+		"5" : [
+			[ "conmovía" ],
+			[ "conmovías" ],
+			[ "conmovía" ],
+			[ "conmovíamos" ],
+			[ "conmovíais", "conmovían" ],
+			[ "conmovían" ]
+		],
+		"6" : [
+			[ "conmovería" ],
+			[ "conmoverías" ],
+			[ "conmovería" ],
+			[ "conmoveríamos" ],
+			[ "conmoveríais", "conmoverían" ],
+			[ "conmoverían" ]
+		],
+		"7" : [
+			[ "conmoveré" ],
+			[ "conmoverás" ],
+			[ "conmoverá" ],
+			[ "conmoveremos" ],
+			[ "conmoveréis", "conmoverán" ],
+			[ "conmoverán" ]
+		],
+		"8" : [
+			[ "conmueva" ],
+			[ "conmuevas" ],
+			[ "conmueva" ],
+			[ "conmovamos" ],
+			[ "conmováis", "conmuevan" ],
+			[ "conmuevan" ]
+		],
+		"9" : [
+			[ "conmoviera" ],
+			[ "conmovieras" ],
+			[ "conmoviera" ],
+			[ "conmoviéramos" ],
+			[ "conmovierais", "conmovieran" ],
+			[ "conmovieran" ]
+		],
+		"10" : [
+			[ "conmoviese" ],
+			[ "conmovieses" ],
+			[ "conmoviese" ],
+			[ "conmoviésemos" ],
+			[ "conmovieseis", "conmoviesen" ],
+			[ "conmoviesen" ]
+		],
+		"11" : [
+			[ "conmoviere" ],
+			[ "conmovieres" ],
+			[ "conmoviere" ],
+			[ "conmoviéremos" ],
+			[ "conmoviereis", "conmovieren" ],
+			[ "conmovieren" ]
+		],
+		"12" : {
+			"1" : [ "conmueve" ],
+			"2" : [ "conmueva" ],
+			"3" : [ "conmovamos" ],
+			"4" : [ "conmoved" ],
+			"5" : [ "conmuevan" ]
+		}
+	}
+}

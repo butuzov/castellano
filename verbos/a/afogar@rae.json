@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=afogar",
+	"word" : "afogar",
+	"infinitivo" : "afogar",
+	"participio" : [ "afogado" ],
+	"gerundio" : [ "afogando" ],
+	"tenses" : {
+		"3" : [
+			[ "afogo" ],
+			[ "afogas", "afogás" ],
+			[ "afoga" ],
+			[ "afogamos" ],
+			[ "afogáis", "afogan" ],
+			[ "afogan" ]
+		],
+		"4" : [
+			[ "afogué" ],
+			[ "afogaste" ],
+			[ "afogó" ],
+			[ "afogamos" ],
+			[ "afogasteis", "afogaron" ],
+			[ "afogaron" ]
+		],
+		"5" : [
+			[ "afogaba" ],
+			[ "afogabas" ],
+			[ "afogaba" ],
+			[ "afogábamos" ],
+			[ "afogabais", "afogaban" ],
+			[ "afogaban" ]
+		],
+		"6" : [
+			[ "afogaría" ],
+			[ "afogarías" ],
+			[ "afogaría" ],
+			[ "afogaríamos" ],
+			[ "afogaríais", "afogarían" ],
+			[ "afogarían" ]
+		],
+		"7" : [
+			[ "afogaré" ],
+			[ "afogarás" ],
+			[ "afogará" ],
+			[ "afogaremos" ],
+			[ "afogaréis", "afogarán" ],
+			[ "afogarán" ]
+		],
+		"8" : [
+			[ "afogue" ],
+			[ "afogues" ],
+			[ "afogue" ],
+			[ "afoguemos" ],
+			[ "afoguéis", "afoguen" ],
+			[ "afoguen" ]
+		],
+		"9" : [
+			[ "afogara" ],
+			[ "afogaras" ],
+			[ "afogara" ],
+			[ "afogáramos" ],
+			[ "afogarais", "afogaran" ],
+			[ "afogaran" ]
+		],
+		"10" : [
+			[ "afogase" ],
+			[ "afogases" ],
+			[ "afogase" ],
+			[ "afogásemos" ],
+			[ "afogaseis", "afogasen" ],
+			[ "afogasen" ]
+		],
+		"11" : [
+			[ "afogare" ],
+			[ "afogares" ],
+			[ "afogare" ],
+			[ "afogáremos" ],
+			[ "afogareis", "afogaren" ],
+			[ "afogaren" ]
+		],
+		"12" : {
+			"1" : [ "afoga" ],
+			"2" : [ "afogue" ],
+			"3" : [ "afoguemos" ],
+			"4" : [ "afogad" ],
+			"5" : [ "afoguen" ]
+		}
+	}
+}

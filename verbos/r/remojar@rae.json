@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remojar",
+	"word" : "remojar",
+	"infinitivo" : "remojar",
+	"participio" : [ "remojado" ],
+	"gerundio" : [ "remojando" ],
+	"tenses" : {
+		"3" : [
+			[ "remojo" ],
+			[ "remojas", "remojás" ],
+			[ "remoja" ],
+			[ "remojamos" ],
+			[ "remojáis", "remojan" ],
+			[ "remojan" ]
+		],
+		"4" : [
+			[ "remojé" ],
+			[ "remojaste" ],
+			[ "remojó" ],
+			[ "remojamos" ],
+			[ "remojasteis", "remojaron" ],
+			[ "remojaron" ]
+		],
+		"5" : [
+			[ "remojaba" ],
+			[ "remojabas" ],
+			[ "remojaba" ],
+			[ "remojábamos" ],
+			[ "remojabais", "remojaban" ],
+			[ "remojaban" ]
+		],
+		"6" : [
+			[ "remojaría" ],
+			[ "remojarías" ],
+			[ "remojaría" ],
+			[ "remojaríamos" ],
+			[ "remojaríais", "remojarían" ],
+			[ "remojarían" ]
+		],
+		"7" : [
+			[ "remojaré" ],
+			[ "remojarás" ],
+			[ "remojará" ],
+			[ "remojaremos" ],
+			[ "remojaréis", "remojarán" ],
+			[ "remojarán" ]
+		],
+		"8" : [
+			[ "remoje" ],
+			[ "remojes" ],
+			[ "remoje" ],
+			[ "remojemos" ],
+			[ "remojéis", "remojen" ],
+			[ "remojen" ]
+		],
+		"9" : [
+			[ "remojara" ],
+			[ "remojaras" ],
+			[ "remojara" ],
+			[ "remojáramos" ],
+			[ "remojarais", "remojaran" ],
+			[ "remojaran" ]
+		],
+		"10" : [
+			[ "remojase" ],
+			[ "remojases" ],
+			[ "remojase" ],
+			[ "remojásemos" ],
+			[ "remojaseis", "remojasen" ],
+			[ "remojasen" ]
+		],
+		"11" : [
+			[ "remojare" ],
+			[ "remojares" ],
+			[ "remojare" ],
+			[ "remojáremos" ],
+			[ "remojareis", "remojaren" ],
+			[ "remojaren" ]
+		],
+		"12" : {
+			"1" : [ "remoja" ],
+			"2" : [ "remoje" ],
+			"3" : [ "remojemos" ],
+			"4" : [ "remojad" ],
+			"5" : [ "remojen" ]
+		}
+	}
+}

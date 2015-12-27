@@ -1,0 +1,77 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aterir",
+	"word" : "aterir",
+	"infinitivo" : "aterir",
+	"participio" : [ "aterido" ],
+	"gerundio" : [ "ateriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aterís" ],
+			[ "aterimos" ],
+			[ "aterís" ]
+		],
+		"4" : [
+			[ "aterí" ],
+			[ "ateriste" ],
+			[ "aterió" ],
+			[ "aterimos" ],
+			[ "ateristeis", "aterieron" ],
+			[ "aterieron" ]
+		],
+		"5" : [
+			[ "atería" ],
+			[ "aterías" ],
+			[ "atería" ],
+			[ "ateríamos" ],
+			[ "ateríais", "aterían" ],
+			[ "aterían" ]
+		],
+		"6" : [
+			[ "ateriría" ],
+			[ "aterirías" ],
+			[ "ateriría" ],
+			[ "ateriríamos" ],
+			[ "ateriríais", "aterirían" ],
+			[ "aterirían" ]
+		],
+		"7" : [
+			[ "ateriré" ],
+			[ "aterirás" ],
+			[ "aterirá" ],
+			[ "ateriremos" ],
+			[ "ateriréis", "aterirán" ],
+			[ "aterirán" ]
+		],
+		"9" : [
+			[ "ateriera" ],
+			[ "aterieras" ],
+			[ "ateriera" ],
+			[ "ateriéramos" ],
+			[ "aterierais", "aterieran" ],
+			[ "aterieran" ]
+		],
+		"10" : [
+			[ "ateriese" ],
+			[ "aterieses" ],
+			[ "ateriese" ],
+			[ "ateriésemos" ],
+			[ "aterieseis", "ateriesen" ],
+			[ "ateriesen" ]
+		],
+		"11" : [
+			[ "ateriere" ],
+			[ "aterieres" ],
+			[ "ateriere" ],
+			[ "ateriéremos" ],
+			[ "ateriereis", "aterieren" ],
+			[ "aterieren" ]
+		],
+		"12" : {
+			"1" : [ "aterí" ],
+			"2" : null,
+			"3" : null,
+			"4" : [ null ],
+			"5" : [ null ]
+		}
+	}
+}

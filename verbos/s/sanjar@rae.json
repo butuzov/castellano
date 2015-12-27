@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sanjar",
+	"word" : "sanjar",
+	"infinitivo" : "sanjar",
+	"participio" : [ "sanjado" ],
+	"gerundio" : [ "sanjando" ],
+	"tenses" : {
+		"3" : [
+			[ "sanjo" ],
+			[ "sanjas", "sanjás" ],
+			[ "sanja" ],
+			[ "sanjamos" ],
+			[ "sanjáis", "sanjan" ],
+			[ "sanjan" ]
+		],
+		"4" : [
+			[ "sanjé" ],
+			[ "sanjaste" ],
+			[ "sanjó" ],
+			[ "sanjamos" ],
+			[ "sanjasteis", "sanjaron" ],
+			[ "sanjaron" ]
+		],
+		"5" : [
+			[ "sanjaba" ],
+			[ "sanjabas" ],
+			[ "sanjaba" ],
+			[ "sanjábamos" ],
+			[ "sanjabais", "sanjaban" ],
+			[ "sanjaban" ]
+		],
+		"6" : [
+			[ "sanjaría" ],
+			[ "sanjarías" ],
+			[ "sanjaría" ],
+			[ "sanjaríamos" ],
+			[ "sanjaríais", "sanjarían" ],
+			[ "sanjarían" ]
+		],
+		"7" : [
+			[ "sanjaré" ],
+			[ "sanjarás" ],
+			[ "sanjará" ],
+			[ "sanjaremos" ],
+			[ "sanjaréis", "sanjarán" ],
+			[ "sanjarán" ]
+		],
+		"8" : [
+			[ "sanje" ],
+			[ "sanjes" ],
+			[ "sanje" ],
+			[ "sanjemos" ],
+			[ "sanjéis", "sanjen" ],
+			[ "sanjen" ]
+		],
+		"9" : [
+			[ "sanjara" ],
+			[ "sanjaras" ],
+			[ "sanjara" ],
+			[ "sanjáramos" ],
+			[ "sanjarais", "sanjaran" ],
+			[ "sanjaran" ]
+		],
+		"10" : [
+			[ "sanjase" ],
+			[ "sanjases" ],
+			[ "sanjase" ],
+			[ "sanjásemos" ],
+			[ "sanjaseis", "sanjasen" ],
+			[ "sanjasen" ]
+		],
+		"11" : [
+			[ "sanjare" ],
+			[ "sanjares" ],
+			[ "sanjare" ],
+			[ "sanjáremos" ],
+			[ "sanjareis", "sanjaren" ],
+			[ "sanjaren" ]
+		],
+		"12" : {
+			"1" : [ "sanja" ],
+			"2" : [ "sanje" ],
+			"3" : [ "sanjemos" ],
+			"4" : [ "sanjad" ],
+			"5" : [ "sanjen" ]
+		}
+	}
+}

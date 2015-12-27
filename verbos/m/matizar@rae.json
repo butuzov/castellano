@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=matizar",
+	"word" : "matizar",
+	"infinitivo" : "matizar",
+	"participio" : [ "matizado" ],
+	"gerundio" : [ "matizando" ],
+	"tenses" : {
+		"3" : [
+			[ "matizo" ],
+			[ "matizas", "matizás" ],
+			[ "matiza" ],
+			[ "matizamos" ],
+			[ "matizáis", "matizan" ],
+			[ "matizan" ]
+		],
+		"4" : [
+			[ "maticé" ],
+			[ "matizaste" ],
+			[ "matizó" ],
+			[ "matizamos" ],
+			[ "matizasteis", "matizaron" ],
+			[ "matizaron" ]
+		],
+		"5" : [
+			[ "matizaba" ],
+			[ "matizabas" ],
+			[ "matizaba" ],
+			[ "matizábamos" ],
+			[ "matizabais", "matizaban" ],
+			[ "matizaban" ]
+		],
+		"6" : [
+			[ "matizaría" ],
+			[ "matizarías" ],
+			[ "matizaría" ],
+			[ "matizaríamos" ],
+			[ "matizaríais", "matizarían" ],
+			[ "matizarían" ]
+		],
+		"7" : [
+			[ "matizaré" ],
+			[ "matizarás" ],
+			[ "matizará" ],
+			[ "matizaremos" ],
+			[ "matizaréis", "matizarán" ],
+			[ "matizarán" ]
+		],
+		"8" : [
+			[ "matice" ],
+			[ "matices" ],
+			[ "matice" ],
+			[ "maticemos" ],
+			[ "maticéis", "maticen" ],
+			[ "maticen" ]
+		],
+		"9" : [
+			[ "matizara" ],
+			[ "matizaras" ],
+			[ "matizara" ],
+			[ "matizáramos" ],
+			[ "matizarais", "matizaran" ],
+			[ "matizaran" ]
+		],
+		"10" : [
+			[ "matizase" ],
+			[ "matizases" ],
+			[ "matizase" ],
+			[ "matizásemos" ],
+			[ "matizaseis", "matizasen" ],
+			[ "matizasen" ]
+		],
+		"11" : [
+			[ "matizare" ],
+			[ "matizares" ],
+			[ "matizare" ],
+			[ "matizáremos" ],
+			[ "matizareis", "matizaren" ],
+			[ "matizaren" ]
+		],
+		"12" : {
+			"1" : [ "matiza" ],
+			"2" : [ "matice" ],
+			"3" : [ "maticemos" ],
+			"4" : [ "matizad" ],
+			"5" : [ "maticen" ]
+		}
+	}
+}

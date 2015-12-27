@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escuadrar",
+	"word" : "escuadrar",
+	"infinitivo" : "escuadrar",
+	"participio" : [ "escuadrado" ],
+	"gerundio" : [ "escuadrando" ],
+	"tenses" : {
+		"3" : [
+			[ "escuadro" ],
+			[ "escuadras", "escuadrás" ],
+			[ "escuadra" ],
+			[ "escuadramos" ],
+			[ "escuadráis", "escuadran" ],
+			[ "escuadran" ]
+		],
+		"4" : [
+			[ "escuadré" ],
+			[ "escuadraste" ],
+			[ "escuadró" ],
+			[ "escuadramos" ],
+			[ "escuadrasteis", "escuadraron" ],
+			[ "escuadraron" ]
+		],
+		"5" : [
+			[ "escuadraba" ],
+			[ "escuadrabas" ],
+			[ "escuadraba" ],
+			[ "escuadrábamos" ],
+			[ "escuadrabais", "escuadraban" ],
+			[ "escuadraban" ]
+		],
+		"6" : [
+			[ "escuadraría" ],
+			[ "escuadrarías" ],
+			[ "escuadraría" ],
+			[ "escuadraríamos" ],
+			[ "escuadraríais", "escuadrarían" ],
+			[ "escuadrarían" ]
+		],
+		"7" : [
+			[ "escuadraré" ],
+			[ "escuadrarás" ],
+			[ "escuadrará" ],
+			[ "escuadraremos" ],
+			[ "escuadraréis", "escuadrarán" ],
+			[ "escuadrarán" ]
+		],
+		"8" : [
+			[ "escuadre" ],
+			[ "escuadres" ],
+			[ "escuadre" ],
+			[ "escuadremos" ],
+			[ "escuadréis", "escuadren" ],
+			[ "escuadren" ]
+		],
+		"9" : [
+			[ "escuadrara" ],
+			[ "escuadraras" ],
+			[ "escuadrara" ],
+			[ "escuadráramos" ],
+			[ "escuadrarais", "escuadraran" ],
+			[ "escuadraran" ]
+		],
+		"10" : [
+			[ "escuadrase" ],
+			[ "escuadrases" ],
+			[ "escuadrase" ],
+			[ "escuadrásemos" ],
+			[ "escuadraseis", "escuadrasen" ],
+			[ "escuadrasen" ]
+		],
+		"11" : [
+			[ "escuadrare" ],
+			[ "escuadrares" ],
+			[ "escuadrare" ],
+			[ "escuadráremos" ],
+			[ "escuadrareis", "escuadraren" ],
+			[ "escuadraren" ]
+		],
+		"12" : {
+			"1" : [ "escuadra" ],
+			"2" : [ "escuadre" ],
+			"3" : [ "escuadremos" ],
+			"4" : [ "escuadrad" ],
+			"5" : [ "escuadren" ]
+		}
+	}
+}

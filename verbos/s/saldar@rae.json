@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=saldar",
+	"word" : "saldar",
+	"infinitivo" : "saldar",
+	"participio" : [ "saldado" ],
+	"gerundio" : [ "saldando" ],
+	"tenses" : {
+		"3" : [
+			[ "saldo" ],
+			[ "saldas", "saldás" ],
+			[ "salda" ],
+			[ "saldamos" ],
+			[ "saldáis", "saldan" ],
+			[ "saldan" ]
+		],
+		"4" : [
+			[ "saldé" ],
+			[ "saldaste" ],
+			[ "saldó" ],
+			[ "saldamos" ],
+			[ "saldasteis", "saldaron" ],
+			[ "saldaron" ]
+		],
+		"5" : [
+			[ "saldaba" ],
+			[ "saldabas" ],
+			[ "saldaba" ],
+			[ "saldábamos" ],
+			[ "saldabais", "saldaban" ],
+			[ "saldaban" ]
+		],
+		"6" : [
+			[ "saldaría" ],
+			[ "saldarías" ],
+			[ "saldaría" ],
+			[ "saldaríamos" ],
+			[ "saldaríais", "saldarían" ],
+			[ "saldarían" ]
+		],
+		"7" : [
+			[ "saldaré" ],
+			[ "saldarás" ],
+			[ "saldará" ],
+			[ "saldaremos" ],
+			[ "saldaréis", "saldarán" ],
+			[ "saldarán" ]
+		],
+		"8" : [
+			[ "salde" ],
+			[ "saldes" ],
+			[ "salde" ],
+			[ "saldemos" ],
+			[ "saldéis", "salden" ],
+			[ "salden" ]
+		],
+		"9" : [
+			[ "saldara" ],
+			[ "saldaras" ],
+			[ "saldara" ],
+			[ "saldáramos" ],
+			[ "saldarais", "saldaran" ],
+			[ "saldaran" ]
+		],
+		"10" : [
+			[ "saldase" ],
+			[ "saldases" ],
+			[ "saldase" ],
+			[ "saldásemos" ],
+			[ "saldaseis", "saldasen" ],
+			[ "saldasen" ]
+		],
+		"11" : [
+			[ "saldare" ],
+			[ "saldares" ],
+			[ "saldare" ],
+			[ "saldáremos" ],
+			[ "saldareis", "saldaren" ],
+			[ "saldaren" ]
+		],
+		"12" : {
+			"1" : [ "salda" ],
+			"2" : [ "salde" ],
+			"3" : [ "saldemos" ],
+			"4" : [ "saldad" ],
+			"5" : [ "salden" ]
+		}
+	}
+}

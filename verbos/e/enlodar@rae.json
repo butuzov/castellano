@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enlodar",
+	"word" : "enlodar",
+	"infinitivo" : "enlodar",
+	"participio" : [ "enlodado" ],
+	"gerundio" : [ "enlodando" ],
+	"tenses" : {
+		"3" : [
+			[ "enlodo" ],
+			[ "enlodas", "enlodás" ],
+			[ "enloda" ],
+			[ "enlodamos" ],
+			[ "enlodáis", "enlodan" ],
+			[ "enlodan" ]
+		],
+		"4" : [
+			[ "enlodé" ],
+			[ "enlodaste" ],
+			[ "enlodó" ],
+			[ "enlodamos" ],
+			[ "enlodasteis", "enlodaron" ],
+			[ "enlodaron" ]
+		],
+		"5" : [
+			[ "enlodaba" ],
+			[ "enlodabas" ],
+			[ "enlodaba" ],
+			[ "enlodábamos" ],
+			[ "enlodabais", "enlodaban" ],
+			[ "enlodaban" ]
+		],
+		"6" : [
+			[ "enlodaría" ],
+			[ "enlodarías" ],
+			[ "enlodaría" ],
+			[ "enlodaríamos" ],
+			[ "enlodaríais", "enlodarían" ],
+			[ "enlodarían" ]
+		],
+		"7" : [
+			[ "enlodaré" ],
+			[ "enlodarás" ],
+			[ "enlodará" ],
+			[ "enlodaremos" ],
+			[ "enlodaréis", "enlodarán" ],
+			[ "enlodarán" ]
+		],
+		"8" : [
+			[ "enlode" ],
+			[ "enlodes" ],
+			[ "enlode" ],
+			[ "enlodemos" ],
+			[ "enlodéis", "enloden" ],
+			[ "enloden" ]
+		],
+		"9" : [
+			[ "enlodara" ],
+			[ "enlodaras" ],
+			[ "enlodara" ],
+			[ "enlodáramos" ],
+			[ "enlodarais", "enlodaran" ],
+			[ "enlodaran" ]
+		],
+		"10" : [
+			[ "enlodase" ],
+			[ "enlodases" ],
+			[ "enlodase" ],
+			[ "enlodásemos" ],
+			[ "enlodaseis", "enlodasen" ],
+			[ "enlodasen" ]
+		],
+		"11" : [
+			[ "enlodare" ],
+			[ "enlodares" ],
+			[ "enlodare" ],
+			[ "enlodáremos" ],
+			[ "enlodareis", "enlodaren" ],
+			[ "enlodaren" ]
+		],
+		"12" : {
+			"1" : [ "enloda" ],
+			"2" : [ "enlode" ],
+			"3" : [ "enlodemos" ],
+			"4" : [ "enlodad" ],
+			"5" : [ "enloden" ]
+		}
+	}
+}

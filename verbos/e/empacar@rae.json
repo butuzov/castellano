@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empacar",
+	"word" : "empacar",
+	"infinitivo" : "empacar",
+	"participio" : [ "empacado" ],
+	"gerundio" : [ "empacando" ],
+	"tenses" : {
+		"3" : [
+			[ "empaco" ],
+			[ "empacas", "empacás" ],
+			[ "empaca" ],
+			[ "empacamos" ],
+			[ "empacáis", "empacan" ],
+			[ "empacan" ]
+		],
+		"4" : [
+			[ "empaqué" ],
+			[ "empacaste" ],
+			[ "empacó" ],
+			[ "empacamos" ],
+			[ "empacasteis", "empacaron" ],
+			[ "empacaron" ]
+		],
+		"5" : [
+			[ "empacaba" ],
+			[ "empacabas" ],
+			[ "empacaba" ],
+			[ "empacábamos" ],
+			[ "empacabais", "empacaban" ],
+			[ "empacaban" ]
+		],
+		"6" : [
+			[ "empacaría" ],
+			[ "empacarías" ],
+			[ "empacaría" ],
+			[ "empacaríamos" ],
+			[ "empacaríais", "empacarían" ],
+			[ "empacarían" ]
+		],
+		"7" : [
+			[ "empacaré" ],
+			[ "empacarás" ],
+			[ "empacará" ],
+			[ "empacaremos" ],
+			[ "empacaréis", "empacarán" ],
+			[ "empacarán" ]
+		],
+		"8" : [
+			[ "empaque" ],
+			[ "empaques" ],
+			[ "empaque" ],
+			[ "empaquemos" ],
+			[ "empaquéis", "empaquen" ],
+			[ "empaquen" ]
+		],
+		"9" : [
+			[ "empacara" ],
+			[ "empacaras" ],
+			[ "empacara" ],
+			[ "empacáramos" ],
+			[ "empacarais", "empacaran" ],
+			[ "empacaran" ]
+		],
+		"10" : [
+			[ "empacase" ],
+			[ "empacases" ],
+			[ "empacase" ],
+			[ "empacásemos" ],
+			[ "empacaseis", "empacasen" ],
+			[ "empacasen" ]
+		],
+		"11" : [
+			[ "empacare" ],
+			[ "empacares" ],
+			[ "empacare" ],
+			[ "empacáremos" ],
+			[ "empacareis", "empacaren" ],
+			[ "empacaren" ]
+		],
+		"12" : {
+			"1" : [ "empaca" ],
+			"2" : [ "empaque" ],
+			"3" : [ "empaquemos" ],
+			"4" : [ "empacad" ],
+			"5" : [ "empaquen" ]
+		}
+	}
+}

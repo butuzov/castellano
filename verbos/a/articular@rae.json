@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=articular",
+	"word" : "articular",
+	"infinitivo" : "articular",
+	"participio" : [ "articulado" ],
+	"gerundio" : [ "articulando" ],
+	"tenses" : {
+		"3" : [
+			[ "articulo" ],
+			[ "articulas", "articulás" ],
+			[ "articula" ],
+			[ "articulamos" ],
+			[ "articuláis", "articulan" ],
+			[ "articulan" ]
+		],
+		"4" : [
+			[ "articulé" ],
+			[ "articulaste" ],
+			[ "articuló" ],
+			[ "articulamos" ],
+			[ "articulasteis", "articularon" ],
+			[ "articularon" ]
+		],
+		"5" : [
+			[ "articulaba" ],
+			[ "articulabas" ],
+			[ "articulaba" ],
+			[ "articulábamos" ],
+			[ "articulabais", "articulaban" ],
+			[ "articulaban" ]
+		],
+		"6" : [
+			[ "articularía" ],
+			[ "articularías" ],
+			[ "articularía" ],
+			[ "articularíamos" ],
+			[ "articularíais", "articularían" ],
+			[ "articularían" ]
+		],
+		"7" : [
+			[ "articularé" ],
+			[ "articularás" ],
+			[ "articulará" ],
+			[ "articularemos" ],
+			[ "articularéis", "articularán" ],
+			[ "articularán" ]
+		],
+		"8" : [
+			[ "articule" ],
+			[ "articules" ],
+			[ "articule" ],
+			[ "articulemos" ],
+			[ "articuléis", "articulen" ],
+			[ "articulen" ]
+		],
+		"9" : [
+			[ "articulara" ],
+			[ "articularas" ],
+			[ "articulara" ],
+			[ "articuláramos" ],
+			[ "articularais", "articularan" ],
+			[ "articularan" ]
+		],
+		"10" : [
+			[ "articulase" ],
+			[ "articulases" ],
+			[ "articulase" ],
+			[ "articulásemos" ],
+			[ "articulaseis", "articulasen" ],
+			[ "articulasen" ]
+		],
+		"11" : [
+			[ "articulare" ],
+			[ "articulares" ],
+			[ "articulare" ],
+			[ "articuláremos" ],
+			[ "articulareis", "articularen" ],
+			[ "articularen" ]
+		],
+		"12" : {
+			"1" : [ "articula" ],
+			"2" : [ "articule" ],
+			"3" : [ "articulemos" ],
+			"4" : [ "articulad" ],
+			"5" : [ "articulen" ]
+		}
+	}
+}

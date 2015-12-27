@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=majar",
+	"word" : "majar",
+	"infinitivo" : "majar",
+	"participio" : [ "majado" ],
+	"gerundio" : [ "majando" ],
+	"tenses" : {
+		"3" : [
+			[ "majo" ],
+			[ "majas", "majás" ],
+			[ "maja" ],
+			[ "majamos" ],
+			[ "majáis", "majan" ],
+			[ "majan" ]
+		],
+		"4" : [
+			[ "majé" ],
+			[ "majaste" ],
+			[ "majó" ],
+			[ "majamos" ],
+			[ "majasteis", "majaron" ],
+			[ "majaron" ]
+		],
+		"5" : [
+			[ "majaba" ],
+			[ "majabas" ],
+			[ "majaba" ],
+			[ "majábamos" ],
+			[ "majabais", "majaban" ],
+			[ "majaban" ]
+		],
+		"6" : [
+			[ "majaría" ],
+			[ "majarías" ],
+			[ "majaría" ],
+			[ "majaríamos" ],
+			[ "majaríais", "majarían" ],
+			[ "majarían" ]
+		],
+		"7" : [
+			[ "majaré" ],
+			[ "majarás" ],
+			[ "majará" ],
+			[ "majaremos" ],
+			[ "majaréis", "majarán" ],
+			[ "majarán" ]
+		],
+		"8" : [
+			[ "maje" ],
+			[ "majes" ],
+			[ "maje" ],
+			[ "majemos" ],
+			[ "majéis", "majen" ],
+			[ "majen" ]
+		],
+		"9" : [
+			[ "majara" ],
+			[ "majaras" ],
+			[ "majara" ],
+			[ "majáramos" ],
+			[ "majarais", "majaran" ],
+			[ "majaran" ]
+		],
+		"10" : [
+			[ "majase" ],
+			[ "majases" ],
+			[ "majase" ],
+			[ "majásemos" ],
+			[ "majaseis", "majasen" ],
+			[ "majasen" ]
+		],
+		"11" : [
+			[ "majare" ],
+			[ "majares" ],
+			[ "majare" ],
+			[ "majáremos" ],
+			[ "majareis", "majaren" ],
+			[ "majaren" ]
+		],
+		"12" : {
+			"1" : [ "maja" ],
+			"2" : [ "maje" ],
+			"3" : [ "majemos" ],
+			"4" : [ "majad" ],
+			"5" : [ "majen" ]
+		}
+	}
+}

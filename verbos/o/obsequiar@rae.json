@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=obsequiar",
+	"word" : "obsequiar",
+	"infinitivo" : "obsequiar",
+	"participio" : [ "obsequiado" ],
+	"gerundio" : [ "obsequiando" ],
+	"tenses" : {
+		"3" : [
+			[ "obsequio" ],
+			[ "obsequias", "obsequiás" ],
+			[ "obsequia" ],
+			[ "obsequiamos" ],
+			[ "obsequiáis", "obsequian" ],
+			[ "obsequian" ]
+		],
+		"4" : [
+			[ "obsequié" ],
+			[ "obsequiaste" ],
+			[ "obsequió" ],
+			[ "obsequiamos" ],
+			[ "obsequiasteis", "obsequiaron" ],
+			[ "obsequiaron" ]
+		],
+		"5" : [
+			[ "obsequiaba" ],
+			[ "obsequiabas" ],
+			[ "obsequiaba" ],
+			[ "obsequiábamos" ],
+			[ "obsequiabais", "obsequiaban" ],
+			[ "obsequiaban" ]
+		],
+		"6" : [
+			[ "obsequiaría" ],
+			[ "obsequiarías" ],
+			[ "obsequiaría" ],
+			[ "obsequiaríamos" ],
+			[ "obsequiaríais", "obsequiarían" ],
+			[ "obsequiarían" ]
+		],
+		"7" : [
+			[ "obsequiaré" ],
+			[ "obsequiarás" ],
+			[ "obsequiará" ],
+			[ "obsequiaremos" ],
+			[ "obsequiaréis", "obsequiarán" ],
+			[ "obsequiarán" ]
+		],
+		"8" : [
+			[ "obsequie" ],
+			[ "obsequies" ],
+			[ "obsequie" ],
+			[ "obsequiemos" ],
+			[ "obsequiéis", "obsequien" ],
+			[ "obsequien" ]
+		],
+		"9" : [
+			[ "obsequiara" ],
+			[ "obsequiaras" ],
+			[ "obsequiara" ],
+			[ "obsequiáramos" ],
+			[ "obsequiarais", "obsequiaran" ],
+			[ "obsequiaran" ]
+		],
+		"10" : [
+			[ "obsequiase" ],
+			[ "obsequiases" ],
+			[ "obsequiase" ],
+			[ "obsequiásemos" ],
+			[ "obsequiaseis", "obsequiasen" ],
+			[ "obsequiasen" ]
+		],
+		"11" : [
+			[ "obsequiare" ],
+			[ "obsequiares" ],
+			[ "obsequiare" ],
+			[ "obsequiáremos" ],
+			[ "obsequiareis", "obsequiaren" ],
+			[ "obsequiaren" ]
+		],
+		"12" : {
+			"1" : [ "obsequia" ],
+			"2" : [ "obsequie" ],
+			"3" : [ "obsequiemos" ],
+			"4" : [ "obsequiad" ],
+			"5" : [ "obsequien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=visionar",
+	"word" : "visionar",
+	"infinitivo" : "visionar",
+	"participio" : [ "visionado" ],
+	"gerundio" : [ "visionando" ],
+	"tenses" : {
+		"3" : [
+			[ "visiono" ],
+			[ "visionas", "visionás" ],
+			[ "visiona" ],
+			[ "visionamos" ],
+			[ "visionáis", "visionan" ],
+			[ "visionan" ]
+		],
+		"4" : [
+			[ "visioné" ],
+			[ "visionaste" ],
+			[ "visionó" ],
+			[ "visionamos" ],
+			[ "visionasteis", "visionaron" ],
+			[ "visionaron" ]
+		],
+		"5" : [
+			[ "visionaba" ],
+			[ "visionabas" ],
+			[ "visionaba" ],
+			[ "visionábamos" ],
+			[ "visionabais", "visionaban" ],
+			[ "visionaban" ]
+		],
+		"6" : [
+			[ "visionaría" ],
+			[ "visionarías" ],
+			[ "visionaría" ],
+			[ "visionaríamos" ],
+			[ "visionaríais", "visionarían" ],
+			[ "visionarían" ]
+		],
+		"7" : [
+			[ "visionaré" ],
+			[ "visionarás" ],
+			[ "visionará" ],
+			[ "visionaremos" ],
+			[ "visionaréis", "visionarán" ],
+			[ "visionarán" ]
+		],
+		"8" : [
+			[ "visione" ],
+			[ "visiones" ],
+			[ "visione" ],
+			[ "visionemos" ],
+			[ "visionéis", "visionen" ],
+			[ "visionen" ]
+		],
+		"9" : [
+			[ "visionara" ],
+			[ "visionaras" ],
+			[ "visionara" ],
+			[ "visionáramos" ],
+			[ "visionarais", "visionaran" ],
+			[ "visionaran" ]
+		],
+		"10" : [
+			[ "visionase" ],
+			[ "visionases" ],
+			[ "visionase" ],
+			[ "visionásemos" ],
+			[ "visionaseis", "visionasen" ],
+			[ "visionasen" ]
+		],
+		"11" : [
+			[ "visionare" ],
+			[ "visionares" ],
+			[ "visionare" ],
+			[ "visionáremos" ],
+			[ "visionareis", "visionaren" ],
+			[ "visionaren" ]
+		],
+		"12" : {
+			"1" : [ "visiona" ],
+			"2" : [ "visione" ],
+			"3" : [ "visionemos" ],
+			"4" : [ "visionad" ],
+			"5" : [ "visionen" ]
+		}
+	}
+}

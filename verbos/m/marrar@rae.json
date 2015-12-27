@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=marrar",
+	"word" : "marrar",
+	"infinitivo" : "marrar",
+	"participio" : [ "marrado" ],
+	"gerundio" : [ "marrando" ],
+	"tenses" : {
+		"3" : [
+			[ "marro" ],
+			[ "marras", "marrás" ],
+			[ "marra" ],
+			[ "marramos" ],
+			[ "marráis", "marran" ],
+			[ "marran" ]
+		],
+		"4" : [
+			[ "marré" ],
+			[ "marraste" ],
+			[ "marró" ],
+			[ "marramos" ],
+			[ "marrasteis", "marraron" ],
+			[ "marraron" ]
+		],
+		"5" : [
+			[ "marraba" ],
+			[ "marrabas" ],
+			[ "marraba" ],
+			[ "marrábamos" ],
+			[ "marrabais", "marraban" ],
+			[ "marraban" ]
+		],
+		"6" : [
+			[ "marraría" ],
+			[ "marrarías" ],
+			[ "marraría" ],
+			[ "marraríamos" ],
+			[ "marraríais", "marrarían" ],
+			[ "marrarían" ]
+		],
+		"7" : [
+			[ "marraré" ],
+			[ "marrarás" ],
+			[ "marrará" ],
+			[ "marraremos" ],
+			[ "marraréis", "marrarán" ],
+			[ "marrarán" ]
+		],
+		"8" : [
+			[ "marre" ],
+			[ "marres" ],
+			[ "marre" ],
+			[ "marremos" ],
+			[ "marréis", "marren" ],
+			[ "marren" ]
+		],
+		"9" : [
+			[ "marrara" ],
+			[ "marraras" ],
+			[ "marrara" ],
+			[ "marráramos" ],
+			[ "marrarais", "marraran" ],
+			[ "marraran" ]
+		],
+		"10" : [
+			[ "marrase" ],
+			[ "marrases" ],
+			[ "marrase" ],
+			[ "marrásemos" ],
+			[ "marraseis", "marrasen" ],
+			[ "marrasen" ]
+		],
+		"11" : [
+			[ "marrare" ],
+			[ "marrares" ],
+			[ "marrare" ],
+			[ "marráremos" ],
+			[ "marrareis", "marraren" ],
+			[ "marraren" ]
+		],
+		"12" : {
+			"1" : [ "marra" ],
+			"2" : [ "marre" ],
+			"3" : [ "marremos" ],
+			"4" : [ "marrad" ],
+			"5" : [ "marren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=romanzar",
+	"word" : "romanzar",
+	"infinitivo" : "romanzar",
+	"participio" : [ "romanzado" ],
+	"gerundio" : [ "romanzando" ],
+	"tenses" : {
+		"3" : [
+			[ "romanzo" ],
+			[ "romanzas", "romanzás" ],
+			[ "romanza" ],
+			[ "romanzamos" ],
+			[ "romanzáis", "romanzan" ],
+			[ "romanzan" ]
+		],
+		"4" : [
+			[ "romancé" ],
+			[ "romanzaste" ],
+			[ "romanzó" ],
+			[ "romanzamos" ],
+			[ "romanzasteis", "romanzaron" ],
+			[ "romanzaron" ]
+		],
+		"5" : [
+			[ "romanzaba" ],
+			[ "romanzabas" ],
+			[ "romanzaba" ],
+			[ "romanzábamos" ],
+			[ "romanzabais", "romanzaban" ],
+			[ "romanzaban" ]
+		],
+		"6" : [
+			[ "romanzaría" ],
+			[ "romanzarías" ],
+			[ "romanzaría" ],
+			[ "romanzaríamos" ],
+			[ "romanzaríais", "romanzarían" ],
+			[ "romanzarían" ]
+		],
+		"7" : [
+			[ "romanzaré" ],
+			[ "romanzarás" ],
+			[ "romanzará" ],
+			[ "romanzaremos" ],
+			[ "romanzaréis", "romanzarán" ],
+			[ "romanzarán" ]
+		],
+		"8" : [
+			[ "romance" ],
+			[ "romances" ],
+			[ "romance" ],
+			[ "romancemos" ],
+			[ "romancéis", "romancen" ],
+			[ "romancen" ]
+		],
+		"9" : [
+			[ "romanzara" ],
+			[ "romanzaras" ],
+			[ "romanzara" ],
+			[ "romanzáramos" ],
+			[ "romanzarais", "romanzaran" ],
+			[ "romanzaran" ]
+		],
+		"10" : [
+			[ "romanzase" ],
+			[ "romanzases" ],
+			[ "romanzase" ],
+			[ "romanzásemos" ],
+			[ "romanzaseis", "romanzasen" ],
+			[ "romanzasen" ]
+		],
+		"11" : [
+			[ "romanzare" ],
+			[ "romanzares" ],
+			[ "romanzare" ],
+			[ "romanzáremos" ],
+			[ "romanzareis", "romanzaren" ],
+			[ "romanzaren" ]
+		],
+		"12" : {
+			"1" : [ "romanza" ],
+			"2" : [ "romance" ],
+			"3" : [ "romancemos" ],
+			"4" : [ "romanzad" ],
+			"5" : [ "romancen" ]
+		}
+	}
+}

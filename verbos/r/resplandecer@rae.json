@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resplandecer",
+	"word" : "resplandecer",
+	"infinitivo" : "resplandecer",
+	"participio" : [ "resplandecido" ],
+	"gerundio" : [ "resplandeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "resplandezco" ],
+			[ "resplandeces", "resplandecés" ],
+			[ "resplandece" ],
+			[ "resplandecemos" ],
+			[ "resplandecéis", "resplandecen" ],
+			[ "resplandecen" ]
+		],
+		"4" : [
+			[ "resplandecí" ],
+			[ "resplandeciste" ],
+			[ "resplandeció" ],
+			[ "resplandecimos" ],
+			[ "resplandecisteis", "resplandecieron" ],
+			[ "resplandecieron" ]
+		],
+		"5" : [
+			[ "resplandecía" ],
+			[ "resplandecías" ],
+			[ "resplandecía" ],
+			[ "resplandecíamos" ],
+			[ "resplandecíais", "resplandecían" ],
+			[ "resplandecían" ]
+		],
+		"6" : [
+			[ "resplandecería" ],
+			[ "resplandecerías" ],
+			[ "resplandecería" ],
+			[ "resplandeceríamos" ],
+			[ "resplandeceríais", "resplandecerían" ],
+			[ "resplandecerían" ]
+		],
+		"7" : [
+			[ "resplandeceré" ],
+			[ "resplandecerás" ],
+			[ "resplandecerá" ],
+			[ "resplandeceremos" ],
+			[ "resplandeceréis", "resplandecerán" ],
+			[ "resplandecerán" ]
+		],
+		"8" : [
+			[ "resplandezca" ],
+			[ "resplandezcas" ],
+			[ "resplandezca" ],
+			[ "resplandezcamos" ],
+			[ "resplandezcáis", "resplandezcan" ],
+			[ "resplandezcan" ]
+		],
+		"9" : [
+			[ "resplandeciera" ],
+			[ "resplandecieras" ],
+			[ "resplandeciera" ],
+			[ "resplandeciéramos" ],
+			[ "resplandecierais", "resplandecieran" ],
+			[ "resplandecieran" ]
+		],
+		"10" : [
+			[ "resplandeciese" ],
+			[ "resplandecieses" ],
+			[ "resplandeciese" ],
+			[ "resplandeciésemos" ],
+			[ "resplandecieseis", "resplandeciesen" ],
+			[ "resplandeciesen" ]
+		],
+		"11" : [
+			[ "resplandeciere" ],
+			[ "resplandecieres" ],
+			[ "resplandeciere" ],
+			[ "resplandeciéremos" ],
+			[ "resplandeciereis", "resplandecieren" ],
+			[ "resplandecieren" ]
+		],
+		"12" : {
+			"1" : [ "resplandece" ],
+			"2" : [ "resplandezca" ],
+			"3" : [ "resplandezcamos" ],
+			"4" : [ "resplandeced" ],
+			"5" : [ "resplandezcan" ]
+		}
+	}
+}

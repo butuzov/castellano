@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gafar",
+	"word" : "gafar",
+	"infinitivo" : "gafar",
+	"participio" : [ "gafado" ],
+	"gerundio" : [ "gafando" ],
+	"tenses" : {
+		"3" : [
+			[ "gafo" ],
+			[ "gafas", "gafás" ],
+			[ "gafa" ],
+			[ "gafamos" ],
+			[ "gafáis", "gafan" ],
+			[ "gafan" ]
+		],
+		"4" : [
+			[ "gafé" ],
+			[ "gafaste" ],
+			[ "gafó" ],
+			[ "gafamos" ],
+			[ "gafasteis", "gafaron" ],
+			[ "gafaron" ]
+		],
+		"5" : [
+			[ "gafaba" ],
+			[ "gafabas" ],
+			[ "gafaba" ],
+			[ "gafábamos" ],
+			[ "gafabais", "gafaban" ],
+			[ "gafaban" ]
+		],
+		"6" : [
+			[ "gafaría" ],
+			[ "gafarías" ],
+			[ "gafaría" ],
+			[ "gafaríamos" ],
+			[ "gafaríais", "gafarían" ],
+			[ "gafarían" ]
+		],
+		"7" : [
+			[ "gafaré" ],
+			[ "gafarás" ],
+			[ "gafará" ],
+			[ "gafaremos" ],
+			[ "gafaréis", "gafarán" ],
+			[ "gafarán" ]
+		],
+		"8" : [
+			[ "gafe" ],
+			[ "gafes" ],
+			[ "gafe" ],
+			[ "gafemos" ],
+			[ "gaféis", "gafen" ],
+			[ "gafen" ]
+		],
+		"9" : [
+			[ "gafara" ],
+			[ "gafaras" ],
+			[ "gafara" ],
+			[ "gafáramos" ],
+			[ "gafarais", "gafaran" ],
+			[ "gafaran" ]
+		],
+		"10" : [
+			[ "gafase" ],
+			[ "gafases" ],
+			[ "gafase" ],
+			[ "gafásemos" ],
+			[ "gafaseis", "gafasen" ],
+			[ "gafasen" ]
+		],
+		"11" : [
+			[ "gafare" ],
+			[ "gafares" ],
+			[ "gafare" ],
+			[ "gafáremos" ],
+			[ "gafareis", "gafaren" ],
+			[ "gafaren" ]
+		],
+		"12" : {
+			"1" : [ "gafa" ],
+			"2" : [ "gafe" ],
+			"3" : [ "gafemos" ],
+			"4" : [ "gafad" ],
+			"5" : [ "gafen" ]
+		}
+	}
+}

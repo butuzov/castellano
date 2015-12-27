@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=convidar",
+	"word" : "convidar",
+	"infinitivo" : "convidar",
+	"participio" : [ "convidado" ],
+	"gerundio" : [ "convidando" ],
+	"tenses" : {
+		"3" : [
+			[ "convido" ],
+			[ "convidas", "convidás" ],
+			[ "convida" ],
+			[ "convidamos" ],
+			[ "convidáis", "convidan" ],
+			[ "convidan" ]
+		],
+		"4" : [
+			[ "convidé" ],
+			[ "convidaste" ],
+			[ "convidó" ],
+			[ "convidamos" ],
+			[ "convidasteis", "convidaron" ],
+			[ "convidaron" ]
+		],
+		"5" : [
+			[ "convidaba" ],
+			[ "convidabas" ],
+			[ "convidaba" ],
+			[ "convidábamos" ],
+			[ "convidabais", "convidaban" ],
+			[ "convidaban" ]
+		],
+		"6" : [
+			[ "convidaría" ],
+			[ "convidarías" ],
+			[ "convidaría" ],
+			[ "convidaríamos" ],
+			[ "convidaríais", "convidarían" ],
+			[ "convidarían" ]
+		],
+		"7" : [
+			[ "convidaré" ],
+			[ "convidarás" ],
+			[ "convidará" ],
+			[ "convidaremos" ],
+			[ "convidaréis", "convidarán" ],
+			[ "convidarán" ]
+		],
+		"8" : [
+			[ "convide" ],
+			[ "convides" ],
+			[ "convide" ],
+			[ "convidemos" ],
+			[ "convidéis", "conviden" ],
+			[ "conviden" ]
+		],
+		"9" : [
+			[ "convidara" ],
+			[ "convidaras" ],
+			[ "convidara" ],
+			[ "convidáramos" ],
+			[ "convidarais", "convidaran" ],
+			[ "convidaran" ]
+		],
+		"10" : [
+			[ "convidase" ],
+			[ "convidases" ],
+			[ "convidase" ],
+			[ "convidásemos" ],
+			[ "convidaseis", "convidasen" ],
+			[ "convidasen" ]
+		],
+		"11" : [
+			[ "convidare" ],
+			[ "convidares" ],
+			[ "convidare" ],
+			[ "convidáremos" ],
+			[ "convidareis", "convidaren" ],
+			[ "convidaren" ]
+		],
+		"12" : {
+			"1" : [ "convida" ],
+			"2" : [ "convide" ],
+			"3" : [ "convidemos" ],
+			"4" : [ "convidad" ],
+			"5" : [ "conviden" ]
+		}
+	}
+}

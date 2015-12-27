@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acudir",
+	"word" : "acudir",
+	"infinitivo" : "acudir",
+	"participio" : [ "acudido" ],
+	"gerundio" : [ "acudiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "acudo" ],
+			[ "acudes", "acudís" ],
+			[ "acude" ],
+			[ "acudimos" ],
+			[ "acudís", "acuden" ],
+			[ "acuden" ]
+		],
+		"4" : [
+			[ "acudí" ],
+			[ "acudiste" ],
+			[ "acudió" ],
+			[ "acudimos" ],
+			[ "acudisteis", "acudieron" ],
+			[ "acudieron" ]
+		],
+		"5" : [
+			[ "acudía" ],
+			[ "acudías" ],
+			[ "acudía" ],
+			[ "acudíamos" ],
+			[ "acudíais", "acudían" ],
+			[ "acudían" ]
+		],
+		"6" : [
+			[ "acudiría" ],
+			[ "acudirías" ],
+			[ "acudiría" ],
+			[ "acudiríamos" ],
+			[ "acudiríais", "acudirían" ],
+			[ "acudirían" ]
+		],
+		"7" : [
+			[ "acudiré" ],
+			[ "acudirás" ],
+			[ "acudirá" ],
+			[ "acudiremos" ],
+			[ "acudiréis", "acudirán" ],
+			[ "acudirán" ]
+		],
+		"8" : [
+			[ "acuda" ],
+			[ "acudas" ],
+			[ "acuda" ],
+			[ "acudamos" ],
+			[ "acudáis", "acudan" ],
+			[ "acudan" ]
+		],
+		"9" : [
+			[ "acudiera" ],
+			[ "acudieras" ],
+			[ "acudiera" ],
+			[ "acudiéramos" ],
+			[ "acudierais", "acudieran" ],
+			[ "acudieran" ]
+		],
+		"10" : [
+			[ "acudiese" ],
+			[ "acudieses" ],
+			[ "acudiese" ],
+			[ "acudiésemos" ],
+			[ "acudieseis", "acudiesen" ],
+			[ "acudiesen" ]
+		],
+		"11" : [
+			[ "acudiere" ],
+			[ "acudieres" ],
+			[ "acudiere" ],
+			[ "acudiéremos" ],
+			[ "acudiereis", "acudieren" ],
+			[ "acudieren" ]
+		],
+		"12" : {
+			"1" : [ "acude" ],
+			"2" : [ "acuda" ],
+			"3" : [ "acudamos" ],
+			"4" : [ "acudid" ],
+			"5" : [ "acudan" ]
+		}
+	}
+}

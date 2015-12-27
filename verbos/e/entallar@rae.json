@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entallar",
+	"word" : "entallar",
+	"infinitivo" : "entallar",
+	"participio" : [ "entallado" ],
+	"gerundio" : [ "entallando" ],
+	"tenses" : {
+		"3" : [
+			[ "entallo" ],
+			[ "entallas", "entallás" ],
+			[ "entalla" ],
+			[ "entallamos" ],
+			[ "entalláis", "entallan" ],
+			[ "entallan" ]
+		],
+		"4" : [
+			[ "entallé" ],
+			[ "entallaste" ],
+			[ "entalló" ],
+			[ "entallamos" ],
+			[ "entallasteis", "entallaron" ],
+			[ "entallaron" ]
+		],
+		"5" : [
+			[ "entallaba" ],
+			[ "entallabas" ],
+			[ "entallaba" ],
+			[ "entallábamos" ],
+			[ "entallabais", "entallaban" ],
+			[ "entallaban" ]
+		],
+		"6" : [
+			[ "entallaría" ],
+			[ "entallarías" ],
+			[ "entallaría" ],
+			[ "entallaríamos" ],
+			[ "entallaríais", "entallarían" ],
+			[ "entallarían" ]
+		],
+		"7" : [
+			[ "entallaré" ],
+			[ "entallarás" ],
+			[ "entallará" ],
+			[ "entallaremos" ],
+			[ "entallaréis", "entallarán" ],
+			[ "entallarán" ]
+		],
+		"8" : [
+			[ "entalle" ],
+			[ "entalles" ],
+			[ "entalle" ],
+			[ "entallemos" ],
+			[ "entalléis", "entallen" ],
+			[ "entallen" ]
+		],
+		"9" : [
+			[ "entallara" ],
+			[ "entallaras" ],
+			[ "entallara" ],
+			[ "entalláramos" ],
+			[ "entallarais", "entallaran" ],
+			[ "entallaran" ]
+		],
+		"10" : [
+			[ "entallase" ],
+			[ "entallases" ],
+			[ "entallase" ],
+			[ "entallásemos" ],
+			[ "entallaseis", "entallasen" ],
+			[ "entallasen" ]
+		],
+		"11" : [
+			[ "entallare" ],
+			[ "entallares" ],
+			[ "entallare" ],
+			[ "entalláremos" ],
+			[ "entallareis", "entallaren" ],
+			[ "entallaren" ]
+		],
+		"12" : {
+			"1" : [ "entalla" ],
+			"2" : [ "entalle" ],
+			"3" : [ "entallemos" ],
+			"4" : [ "entallad" ],
+			"5" : [ "entallen" ]
+		}
+	}
+}

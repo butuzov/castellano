@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reexaminar",
+	"word" : "reexaminar",
+	"infinitivo" : "reexaminar",
+	"participio" : [ "reexaminado" ],
+	"gerundio" : [ "reexaminando" ],
+	"tenses" : {
+		"3" : [
+			[ "reexamino" ],
+			[ "reexaminas", "reexaminás" ],
+			[ "reexamina" ],
+			[ "reexaminamos" ],
+			[ "reexamináis", "reexaminan" ],
+			[ "reexaminan" ]
+		],
+		"4" : [
+			[ "reexaminé" ],
+			[ "reexaminaste" ],
+			[ "reexaminó" ],
+			[ "reexaminamos" ],
+			[ "reexaminasteis", "reexaminaron" ],
+			[ "reexaminaron" ]
+		],
+		"5" : [
+			[ "reexaminaba" ],
+			[ "reexaminabas" ],
+			[ "reexaminaba" ],
+			[ "reexaminábamos" ],
+			[ "reexaminabais", "reexaminaban" ],
+			[ "reexaminaban" ]
+		],
+		"6" : [
+			[ "reexaminaría" ],
+			[ "reexaminarías" ],
+			[ "reexaminaría" ],
+			[ "reexaminaríamos" ],
+			[ "reexaminaríais", "reexaminarían" ],
+			[ "reexaminarían" ]
+		],
+		"7" : [
+			[ "reexaminaré" ],
+			[ "reexaminarás" ],
+			[ "reexaminará" ],
+			[ "reexaminaremos" ],
+			[ "reexaminaréis", "reexaminarán" ],
+			[ "reexaminarán" ]
+		],
+		"8" : [
+			[ "reexamine" ],
+			[ "reexamines" ],
+			[ "reexamine" ],
+			[ "reexaminemos" ],
+			[ "reexaminéis", "reexaminen" ],
+			[ "reexaminen" ]
+		],
+		"9" : [
+			[ "reexaminara" ],
+			[ "reexaminaras" ],
+			[ "reexaminara" ],
+			[ "reexamináramos" ],
+			[ "reexaminarais", "reexaminaran" ],
+			[ "reexaminaran" ]
+		],
+		"10" : [
+			[ "reexaminase" ],
+			[ "reexaminases" ],
+			[ "reexaminase" ],
+			[ "reexaminásemos" ],
+			[ "reexaminaseis", "reexaminasen" ],
+			[ "reexaminasen" ]
+		],
+		"11" : [
+			[ "reexaminare" ],
+			[ "reexaminares" ],
+			[ "reexaminare" ],
+			[ "reexamináremos" ],
+			[ "reexaminareis", "reexaminaren" ],
+			[ "reexaminaren" ]
+		],
+		"12" : {
+			"1" : [ "reexamina" ],
+			"2" : [ "reexamine" ],
+			"3" : [ "reexaminemos" ],
+			"4" : [ "reexaminad" ],
+			"5" : [ "reexaminen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=zaherir",
+	"word" : "zaherir",
+	"infinitivo" : "zaherir",
+	"participio" : [ "zaherido" ],
+	"gerundio" : [ "zahiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "zahiero" ],
+			[ "zahieres", "zaherís" ],
+			[ "zahiere" ],
+			[ "zaherimos" ],
+			[ "zaherís", "zahieren" ],
+			[ "zahieren" ]
+		],
+		"4" : [
+			[ "zaherí" ],
+			[ "zaheriste" ],
+			[ "zahirió" ],
+			[ "zaherimos" ],
+			[ "zaheristeis", "zahirieron" ],
+			[ "zahirieron" ]
+		],
+		"5" : [
+			[ "zahería" ],
+			[ "zaherías" ],
+			[ "zahería" ],
+			[ "zaheríamos" ],
+			[ "zaheríais", "zaherían" ],
+			[ "zaherían" ]
+		],
+		"6" : [
+			[ "zaheriría" ],
+			[ "zaherirías" ],
+			[ "zaheriría" ],
+			[ "zaheriríamos" ],
+			[ "zaheriríais", "zaherirían" ],
+			[ "zaherirían" ]
+		],
+		"7" : [
+			[ "zaheriré" ],
+			[ "zaherirás" ],
+			[ "zaherirá" ],
+			[ "zaheriremos" ],
+			[ "zaheriréis", "zaherirán" ],
+			[ "zaherirán" ]
+		],
+		"8" : [
+			[ "zahiera" ],
+			[ "zahieras" ],
+			[ "zahiera" ],
+			[ "zahiramos" ],
+			[ "zahiráis", "zahieran" ],
+			[ "zahieran" ]
+		],
+		"9" : [
+			[ "zahiriera" ],
+			[ "zahirieras" ],
+			[ "zahiriera" ],
+			[ "zahiriéramos" ],
+			[ "zahirierais", "zahirieran" ],
+			[ "zahirieran" ]
+		],
+		"10" : [
+			[ "zahiriese" ],
+			[ "zahirieses" ],
+			[ "zahiriese" ],
+			[ "zahiriésemos" ],
+			[ "zahirieseis", "zahiriesen" ],
+			[ "zahiriesen" ]
+		],
+		"11" : [
+			[ "zahiriere" ],
+			[ "zahirieres" ],
+			[ "zahiriere" ],
+			[ "zahiriéremos" ],
+			[ "zahiriereis", "zahirieren" ],
+			[ "zahirieren" ]
+		],
+		"12" : {
+			"1" : [ "zahiere" ],
+			"2" : [ "zahiera" ],
+			"3" : [ "zahiramos" ],
+			"4" : [ "zaherid" ],
+			"5" : [ "zahieran" ]
+		}
+	}
+}

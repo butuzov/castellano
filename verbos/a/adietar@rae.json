@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adietar",
+	"word" : "adietar",
+	"infinitivo" : "adietar",
+	"participio" : [ "adietado" ],
+	"gerundio" : [ "adietando" ],
+	"tenses" : {
+		"3" : [
+			[ "adieto" ],
+			[ "adietas", "adietás" ],
+			[ "adieta" ],
+			[ "adietamos" ],
+			[ "adietáis", "adietan" ],
+			[ "adietan" ]
+		],
+		"4" : [
+			[ "adieté" ],
+			[ "adietaste" ],
+			[ "adietó" ],
+			[ "adietamos" ],
+			[ "adietasteis", "adietaron" ],
+			[ "adietaron" ]
+		],
+		"5" : [
+			[ "adietaba" ],
+			[ "adietabas" ],
+			[ "adietaba" ],
+			[ "adietábamos" ],
+			[ "adietabais", "adietaban" ],
+			[ "adietaban" ]
+		],
+		"6" : [
+			[ "adietaría" ],
+			[ "adietarías" ],
+			[ "adietaría" ],
+			[ "adietaríamos" ],
+			[ "adietaríais", "adietarían" ],
+			[ "adietarían" ]
+		],
+		"7" : [
+			[ "adietaré" ],
+			[ "adietarás" ],
+			[ "adietará" ],
+			[ "adietaremos" ],
+			[ "adietaréis", "adietarán" ],
+			[ "adietarán" ]
+		],
+		"8" : [
+			[ "adiete" ],
+			[ "adietes" ],
+			[ "adiete" ],
+			[ "adietemos" ],
+			[ "adietéis", "adieten" ],
+			[ "adieten" ]
+		],
+		"9" : [
+			[ "adietara" ],
+			[ "adietaras" ],
+			[ "adietara" ],
+			[ "adietáramos" ],
+			[ "adietarais", "adietaran" ],
+			[ "adietaran" ]
+		],
+		"10" : [
+			[ "adietase" ],
+			[ "adietases" ],
+			[ "adietase" ],
+			[ "adietásemos" ],
+			[ "adietaseis", "adietasen" ],
+			[ "adietasen" ]
+		],
+		"11" : [
+			[ "adietare" ],
+			[ "adietares" ],
+			[ "adietare" ],
+			[ "adietáremos" ],
+			[ "adietareis", "adietaren" ],
+			[ "adietaren" ]
+		],
+		"12" : {
+			"1" : [ "adieta" ],
+			"2" : [ "adiete" ],
+			"3" : [ "adietemos" ],
+			"4" : [ "adietad" ],
+			"5" : [ "adieten" ]
+		}
+	}
+}

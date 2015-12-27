@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dudar",
+	"word" : "dudar",
+	"infinitivo" : "dudar",
+	"participio" : [ "dudado" ],
+	"gerundio" : [ "dudando" ],
+	"tenses" : {
+		"3" : [
+			[ "dudo" ],
+			[ "dudas", "dudás" ],
+			[ "duda" ],
+			[ "dudamos" ],
+			[ "dudáis", "dudan" ],
+			[ "dudan" ]
+		],
+		"4" : [
+			[ "dudé" ],
+			[ "dudaste" ],
+			[ "dudó" ],
+			[ "dudamos" ],
+			[ "dudasteis", "dudaron" ],
+			[ "dudaron" ]
+		],
+		"5" : [
+			[ "dudaba" ],
+			[ "dudabas" ],
+			[ "dudaba" ],
+			[ "dudábamos" ],
+			[ "dudabais", "dudaban" ],
+			[ "dudaban" ]
+		],
+		"6" : [
+			[ "dudaría" ],
+			[ "dudarías" ],
+			[ "dudaría" ],
+			[ "dudaríamos" ],
+			[ "dudaríais", "dudarían" ],
+			[ "dudarían" ]
+		],
+		"7" : [
+			[ "dudaré" ],
+			[ "dudarás" ],
+			[ "dudará" ],
+			[ "dudaremos" ],
+			[ "dudaréis", "dudarán" ],
+			[ "dudarán" ]
+		],
+		"8" : [
+			[ "dude" ],
+			[ "dudes" ],
+			[ "dude" ],
+			[ "dudemos" ],
+			[ "dudéis", "duden" ],
+			[ "duden" ]
+		],
+		"9" : [
+			[ "dudara" ],
+			[ "dudaras" ],
+			[ "dudara" ],
+			[ "dudáramos" ],
+			[ "dudarais", "dudaran" ],
+			[ "dudaran" ]
+		],
+		"10" : [
+			[ "dudase" ],
+			[ "dudases" ],
+			[ "dudase" ],
+			[ "dudásemos" ],
+			[ "dudaseis", "dudasen" ],
+			[ "dudasen" ]
+		],
+		"11" : [
+			[ "dudare" ],
+			[ "dudares" ],
+			[ "dudare" ],
+			[ "dudáremos" ],
+			[ "dudareis", "dudaren" ],
+			[ "dudaren" ]
+		],
+		"12" : {
+			"1" : [ "duda" ],
+			"2" : [ "dude" ],
+			"3" : [ "dudemos" ],
+			"4" : [ "dudad" ],
+			"5" : [ "duden" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bañar",
+	"word" : "bañar",
+	"infinitivo" : "bañar",
+	"participio" : [ "bañado" ],
+	"gerundio" : [ "bañando" ],
+	"tenses" : {
+		"3" : [
+			[ "baño" ],
+			[ "bañas", "bañás" ],
+			[ "baña" ],
+			[ "bañamos" ],
+			[ "bañáis", "bañan" ],
+			[ "bañan" ]
+		],
+		"4" : [
+			[ "bañé" ],
+			[ "bañaste" ],
+			[ "bañó" ],
+			[ "bañamos" ],
+			[ "bañasteis", "bañaron" ],
+			[ "bañaron" ]
+		],
+		"5" : [
+			[ "bañaba" ],
+			[ "bañabas" ],
+			[ "bañaba" ],
+			[ "bañábamos" ],
+			[ "bañabais", "bañaban" ],
+			[ "bañaban" ]
+		],
+		"6" : [
+			[ "bañaría" ],
+			[ "bañarías" ],
+			[ "bañaría" ],
+			[ "bañaríamos" ],
+			[ "bañaríais", "bañarían" ],
+			[ "bañarían" ]
+		],
+		"7" : [
+			[ "bañaré" ],
+			[ "bañarás" ],
+			[ "bañará" ],
+			[ "bañaremos" ],
+			[ "bañaréis", "bañarán" ],
+			[ "bañarán" ]
+		],
+		"8" : [
+			[ "bañe" ],
+			[ "bañes" ],
+			[ "bañe" ],
+			[ "bañemos" ],
+			[ "bañéis", "bañen" ],
+			[ "bañen" ]
+		],
+		"9" : [
+			[ "bañara" ],
+			[ "bañaras" ],
+			[ "bañara" ],
+			[ "bañáramos" ],
+			[ "bañarais", "bañaran" ],
+			[ "bañaran" ]
+		],
+		"10" : [
+			[ "bañase" ],
+			[ "bañases" ],
+			[ "bañase" ],
+			[ "bañásemos" ],
+			[ "bañaseis", "bañasen" ],
+			[ "bañasen" ]
+		],
+		"11" : [
+			[ "bañare" ],
+			[ "bañares" ],
+			[ "bañare" ],
+			[ "bañáremos" ],
+			[ "bañareis", "bañaren" ],
+			[ "bañaren" ]
+		],
+		"12" : {
+			"1" : [ "baña" ],
+			"2" : [ "bañe" ],
+			"3" : [ "bañemos" ],
+			"4" : [ "bañad" ],
+			"5" : [ "bañen" ]
+		}
+	}
+}

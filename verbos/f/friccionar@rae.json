@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=friccionar",
+	"word" : "friccionar",
+	"infinitivo" : "friccionar",
+	"participio" : [ "friccionado" ],
+	"gerundio" : [ "friccionando" ],
+	"tenses" : {
+		"3" : [
+			[ "fricciono" ],
+			[ "friccionas", "friccionás" ],
+			[ "fricciona" ],
+			[ "friccionamos" ],
+			[ "friccionáis", "friccionan" ],
+			[ "friccionan" ]
+		],
+		"4" : [
+			[ "friccioné" ],
+			[ "friccionaste" ],
+			[ "friccionó" ],
+			[ "friccionamos" ],
+			[ "friccionasteis", "friccionaron" ],
+			[ "friccionaron" ]
+		],
+		"5" : [
+			[ "friccionaba" ],
+			[ "friccionabas" ],
+			[ "friccionaba" ],
+			[ "friccionábamos" ],
+			[ "friccionabais", "friccionaban" ],
+			[ "friccionaban" ]
+		],
+		"6" : [
+			[ "friccionaría" ],
+			[ "friccionarías" ],
+			[ "friccionaría" ],
+			[ "friccionaríamos" ],
+			[ "friccionaríais", "friccionarían" ],
+			[ "friccionarían" ]
+		],
+		"7" : [
+			[ "friccionaré" ],
+			[ "friccionarás" ],
+			[ "friccionará" ],
+			[ "friccionaremos" ],
+			[ "friccionaréis", "friccionarán" ],
+			[ "friccionarán" ]
+		],
+		"8" : [
+			[ "friccione" ],
+			[ "fricciones" ],
+			[ "friccione" ],
+			[ "friccionemos" ],
+			[ "friccionéis", "friccionen" ],
+			[ "friccionen" ]
+		],
+		"9" : [
+			[ "friccionara" ],
+			[ "friccionaras" ],
+			[ "friccionara" ],
+			[ "friccionáramos" ],
+			[ "friccionarais", "friccionaran" ],
+			[ "friccionaran" ]
+		],
+		"10" : [
+			[ "friccionase" ],
+			[ "friccionases" ],
+			[ "friccionase" ],
+			[ "friccionásemos" ],
+			[ "friccionaseis", "friccionasen" ],
+			[ "friccionasen" ]
+		],
+		"11" : [
+			[ "friccionare" ],
+			[ "friccionares" ],
+			[ "friccionare" ],
+			[ "friccionáremos" ],
+			[ "friccionareis", "friccionaren" ],
+			[ "friccionaren" ]
+		],
+		"12" : {
+			"1" : [ "fricciona" ],
+			"2" : [ "friccione" ],
+			"3" : [ "friccionemos" ],
+			"4" : [ "friccionad" ],
+			"5" : [ "friccionen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=defecar",
+	"word" : "defecar",
+	"infinitivo" : "defecar",
+	"participio" : [ "defecado" ],
+	"gerundio" : [ "defecando" ],
+	"tenses" : {
+		"3" : [
+			[ "defeco" ],
+			[ "defecas", "defecás" ],
+			[ "defeca" ],
+			[ "defecamos" ],
+			[ "defecáis", "defecan" ],
+			[ "defecan" ]
+		],
+		"4" : [
+			[ "defequé" ],
+			[ "defecaste" ],
+			[ "defecó" ],
+			[ "defecamos" ],
+			[ "defecasteis", "defecaron" ],
+			[ "defecaron" ]
+		],
+		"5" : [
+			[ "defecaba" ],
+			[ "defecabas" ],
+			[ "defecaba" ],
+			[ "defecábamos" ],
+			[ "defecabais", "defecaban" ],
+			[ "defecaban" ]
+		],
+		"6" : [
+			[ "defecaría" ],
+			[ "defecarías" ],
+			[ "defecaría" ],
+			[ "defecaríamos" ],
+			[ "defecaríais", "defecarían" ],
+			[ "defecarían" ]
+		],
+		"7" : [
+			[ "defecaré" ],
+			[ "defecarás" ],
+			[ "defecará" ],
+			[ "defecaremos" ],
+			[ "defecaréis", "defecarán" ],
+			[ "defecarán" ]
+		],
+		"8" : [
+			[ "defeque" ],
+			[ "defeques" ],
+			[ "defeque" ],
+			[ "defequemos" ],
+			[ "defequéis", "defequen" ],
+			[ "defequen" ]
+		],
+		"9" : [
+			[ "defecara" ],
+			[ "defecaras" ],
+			[ "defecara" ],
+			[ "defecáramos" ],
+			[ "defecarais", "defecaran" ],
+			[ "defecaran" ]
+		],
+		"10" : [
+			[ "defecase" ],
+			[ "defecases" ],
+			[ "defecase" ],
+			[ "defecásemos" ],
+			[ "defecaseis", "defecasen" ],
+			[ "defecasen" ]
+		],
+		"11" : [
+			[ "defecare" ],
+			[ "defecares" ],
+			[ "defecare" ],
+			[ "defecáremos" ],
+			[ "defecareis", "defecaren" ],
+			[ "defecaren" ]
+		],
+		"12" : {
+			"1" : [ "defeca" ],
+			"2" : [ "defeque" ],
+			"3" : [ "defequemos" ],
+			"4" : [ "defecad" ],
+			"5" : [ "defequen" ]
+		}
+	}
+}

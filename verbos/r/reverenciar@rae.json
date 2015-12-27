@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reverenciar",
+	"word" : "reverenciar",
+	"infinitivo" : "reverenciar",
+	"participio" : [ "reverenciado" ],
+	"gerundio" : [ "reverenciando" ],
+	"tenses" : {
+		"3" : [
+			[ "reverencio" ],
+			[ "reverencias", "reverenciás" ],
+			[ "reverencia" ],
+			[ "reverenciamos" ],
+			[ "reverenciáis", "reverencian" ],
+			[ "reverencian" ]
+		],
+		"4" : [
+			[ "reverencié" ],
+			[ "reverenciaste" ],
+			[ "reverenció" ],
+			[ "reverenciamos" ],
+			[ "reverenciasteis", "reverenciaron" ],
+			[ "reverenciaron" ]
+		],
+		"5" : [
+			[ "reverenciaba" ],
+			[ "reverenciabas" ],
+			[ "reverenciaba" ],
+			[ "reverenciábamos" ],
+			[ "reverenciabais", "reverenciaban" ],
+			[ "reverenciaban" ]
+		],
+		"6" : [
+			[ "reverenciaría" ],
+			[ "reverenciarías" ],
+			[ "reverenciaría" ],
+			[ "reverenciaríamos" ],
+			[ "reverenciaríais", "reverenciarían" ],
+			[ "reverenciarían" ]
+		],
+		"7" : [
+			[ "reverenciaré" ],
+			[ "reverenciarás" ],
+			[ "reverenciará" ],
+			[ "reverenciaremos" ],
+			[ "reverenciaréis", "reverenciarán" ],
+			[ "reverenciarán" ]
+		],
+		"8" : [
+			[ "reverencie" ],
+			[ "reverencies" ],
+			[ "reverencie" ],
+			[ "reverenciemos" ],
+			[ "reverenciéis", "reverencien" ],
+			[ "reverencien" ]
+		],
+		"9" : [
+			[ "reverenciara" ],
+			[ "reverenciaras" ],
+			[ "reverenciara" ],
+			[ "reverenciáramos" ],
+			[ "reverenciarais", "reverenciaran" ],
+			[ "reverenciaran" ]
+		],
+		"10" : [
+			[ "reverenciase" ],
+			[ "reverenciases" ],
+			[ "reverenciase" ],
+			[ "reverenciásemos" ],
+			[ "reverenciaseis", "reverenciasen" ],
+			[ "reverenciasen" ]
+		],
+		"11" : [
+			[ "reverenciare" ],
+			[ "reverenciares" ],
+			[ "reverenciare" ],
+			[ "reverenciáremos" ],
+			[ "reverenciareis", "reverenciaren" ],
+			[ "reverenciaren" ]
+		],
+		"12" : {
+			"1" : [ "reverencia" ],
+			"2" : [ "reverencie" ],
+			"3" : [ "reverenciemos" ],
+			"4" : [ "reverenciad" ],
+			"5" : [ "reverencien" ]
+		}
+	}
+}

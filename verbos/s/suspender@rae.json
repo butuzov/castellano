@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=suspender",
+	"word" : "suspender",
+	"infinitivo" : "suspender",
+	"participio" : [ "suspendido" ],
+	"gerundio" : [ "suspendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "suspendo" ],
+			[ "suspendes", "suspendés" ],
+			[ "suspende" ],
+			[ "suspendemos" ],
+			[ "suspendéis", "suspenden" ],
+			[ "suspenden" ]
+		],
+		"4" : [
+			[ "suspendí" ],
+			[ "suspendiste" ],
+			[ "suspendió" ],
+			[ "suspendimos" ],
+			[ "suspendisteis", "suspendieron" ],
+			[ "suspendieron" ]
+		],
+		"5" : [
+			[ "suspendía" ],
+			[ "suspendías" ],
+			[ "suspendía" ],
+			[ "suspendíamos" ],
+			[ "suspendíais", "suspendían" ],
+			[ "suspendían" ]
+		],
+		"6" : [
+			[ "suspendería" ],
+			[ "suspenderías" ],
+			[ "suspendería" ],
+			[ "suspenderíamos" ],
+			[ "suspenderíais", "suspenderían" ],
+			[ "suspenderían" ]
+		],
+		"7" : [
+			[ "suspenderé" ],
+			[ "suspenderás" ],
+			[ "suspenderá" ],
+			[ "suspenderemos" ],
+			[ "suspenderéis", "suspenderán" ],
+			[ "suspenderán" ]
+		],
+		"8" : [
+			[ "suspenda" ],
+			[ "suspendas" ],
+			[ "suspenda" ],
+			[ "suspendamos" ],
+			[ "suspendáis", "suspendan" ],
+			[ "suspendan" ]
+		],
+		"9" : [
+			[ "suspendiera" ],
+			[ "suspendieras" ],
+			[ "suspendiera" ],
+			[ "suspendiéramos" ],
+			[ "suspendierais", "suspendieran" ],
+			[ "suspendieran" ]
+		],
+		"10" : [
+			[ "suspendiese" ],
+			[ "suspendieses" ],
+			[ "suspendiese" ],
+			[ "suspendiésemos" ],
+			[ "suspendieseis", "suspendiesen" ],
+			[ "suspendiesen" ]
+		],
+		"11" : [
+			[ "suspendiere" ],
+			[ "suspendieres" ],
+			[ "suspendiere" ],
+			[ "suspendiéremos" ],
+			[ "suspendiereis", "suspendieren" ],
+			[ "suspendieren" ]
+		],
+		"12" : {
+			"1" : [ "suspende" ],
+			"2" : [ "suspenda" ],
+			"3" : [ "suspendamos" ],
+			"4" : [ "suspended" ],
+			"5" : [ "suspendan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emerger",
+	"word" : "emerger",
+	"infinitivo" : "emerger",
+	"participio" : [ "emergido" ],
+	"gerundio" : [ "emergiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "emerjo" ],
+			[ "emerges", "emergés" ],
+			[ "emerge" ],
+			[ "emergemos" ],
+			[ "emergéis", "emergen" ],
+			[ "emergen" ]
+		],
+		"4" : [
+			[ "emergí" ],
+			[ "emergiste" ],
+			[ "emergió" ],
+			[ "emergimos" ],
+			[ "emergisteis", "emergieron" ],
+			[ "emergieron" ]
+		],
+		"5" : [
+			[ "emergía" ],
+			[ "emergías" ],
+			[ "emergía" ],
+			[ "emergíamos" ],
+			[ "emergíais", "emergían" ],
+			[ "emergían" ]
+		],
+		"6" : [
+			[ "emergería" ],
+			[ "emergerías" ],
+			[ "emergería" ],
+			[ "emergeríamos" ],
+			[ "emergeríais", "emergerían" ],
+			[ "emergerían" ]
+		],
+		"7" : [
+			[ "emergeré" ],
+			[ "emergerás" ],
+			[ "emergerá" ],
+			[ "emergeremos" ],
+			[ "emergeréis", "emergerán" ],
+			[ "emergerán" ]
+		],
+		"8" : [
+			[ "emerja" ],
+			[ "emerjas" ],
+			[ "emerja" ],
+			[ "emerjamos" ],
+			[ "emerjáis", "emerjan" ],
+			[ "emerjan" ]
+		],
+		"9" : [
+			[ "emergiera" ],
+			[ "emergieras" ],
+			[ "emergiera" ],
+			[ "emergiéramos" ],
+			[ "emergierais", "emergieran" ],
+			[ "emergieran" ]
+		],
+		"10" : [
+			[ "emergiese" ],
+			[ "emergieses" ],
+			[ "emergiese" ],
+			[ "emergiésemos" ],
+			[ "emergieseis", "emergiesen" ],
+			[ "emergiesen" ]
+		],
+		"11" : [
+			[ "emergiere" ],
+			[ "emergieres" ],
+			[ "emergiere" ],
+			[ "emergiéremos" ],
+			[ "emergiereis", "emergieren" ],
+			[ "emergieren" ]
+		],
+		"12" : {
+			"1" : [ "emerge" ],
+			"2" : [ "emerja" ],
+			"3" : [ "emerjamos" ],
+			"4" : [ "emerged" ],
+			"5" : [ "emerjan" ]
+		}
+	}
+}

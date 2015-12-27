@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desligar",
+	"word" : "desligar",
+	"infinitivo" : "desligar",
+	"participio" : [ "desligado" ],
+	"gerundio" : [ "desligando" ],
+	"tenses" : {
+		"3" : [
+			[ "desligo" ],
+			[ "desligas", "desligás" ],
+			[ "desliga" ],
+			[ "desligamos" ],
+			[ "desligáis", "desligan" ],
+			[ "desligan" ]
+		],
+		"4" : [
+			[ "desligué" ],
+			[ "desligaste" ],
+			[ "desligó" ],
+			[ "desligamos" ],
+			[ "desligasteis", "desligaron" ],
+			[ "desligaron" ]
+		],
+		"5" : [
+			[ "desligaba" ],
+			[ "desligabas" ],
+			[ "desligaba" ],
+			[ "desligábamos" ],
+			[ "desligabais", "desligaban" ],
+			[ "desligaban" ]
+		],
+		"6" : [
+			[ "desligaría" ],
+			[ "desligarías" ],
+			[ "desligaría" ],
+			[ "desligaríamos" ],
+			[ "desligaríais", "desligarían" ],
+			[ "desligarían" ]
+		],
+		"7" : [
+			[ "desligaré" ],
+			[ "desligarás" ],
+			[ "desligará" ],
+			[ "desligaremos" ],
+			[ "desligaréis", "desligarán" ],
+			[ "desligarán" ]
+		],
+		"8" : [
+			[ "desligue" ],
+			[ "desligues" ],
+			[ "desligue" ],
+			[ "desliguemos" ],
+			[ "desliguéis", "desliguen" ],
+			[ "desliguen" ]
+		],
+		"9" : [
+			[ "desligara" ],
+			[ "desligaras" ],
+			[ "desligara" ],
+			[ "desligáramos" ],
+			[ "desligarais", "desligaran" ],
+			[ "desligaran" ]
+		],
+		"10" : [
+			[ "desligase" ],
+			[ "desligases" ],
+			[ "desligase" ],
+			[ "desligásemos" ],
+			[ "desligaseis", "desligasen" ],
+			[ "desligasen" ]
+		],
+		"11" : [
+			[ "desligare" ],
+			[ "desligares" ],
+			[ "desligare" ],
+			[ "desligáremos" ],
+			[ "desligareis", "desligaren" ],
+			[ "desligaren" ]
+		],
+		"12" : {
+			"1" : [ "desliga" ],
+			"2" : [ "desligue" ],
+			"3" : [ "desliguemos" ],
+			"4" : [ "desligad" ],
+			"5" : [ "desliguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=forzar",
+	"word" : "forzar",
+	"infinitivo" : "forzar",
+	"participio" : [ "forzado" ],
+	"gerundio" : [ "forzando" ],
+	"tenses" : {
+		"3" : [
+			[ "fuerzo" ],
+			[ "fuerzas", "forzás" ],
+			[ "fuerza" ],
+			[ "forzamos" ],
+			[ "forzáis", "fuerzan" ],
+			[ "fuerzan" ]
+		],
+		"4" : [
+			[ "forcé" ],
+			[ "forzaste" ],
+			[ "forzó" ],
+			[ "forzamos" ],
+			[ "forzasteis", "forzaron" ],
+			[ "forzaron" ]
+		],
+		"5" : [
+			[ "forzaba" ],
+			[ "forzabas" ],
+			[ "forzaba" ],
+			[ "forzábamos" ],
+			[ "forzabais", "forzaban" ],
+			[ "forzaban" ]
+		],
+		"6" : [
+			[ "forzaría" ],
+			[ "forzarías" ],
+			[ "forzaría" ],
+			[ "forzaríamos" ],
+			[ "forzaríais", "forzarían" ],
+			[ "forzarían" ]
+		],
+		"7" : [
+			[ "forzaré" ],
+			[ "forzarás" ],
+			[ "forzará" ],
+			[ "forzaremos" ],
+			[ "forzaréis", "forzarán" ],
+			[ "forzarán" ]
+		],
+		"8" : [
+			[ "fuerce" ],
+			[ "fuerces" ],
+			[ "fuerce" ],
+			[ "forcemos" ],
+			[ "forcéis", "fuercen" ],
+			[ "fuercen" ]
+		],
+		"9" : [
+			[ "forzara" ],
+			[ "forzaras" ],
+			[ "forzara" ],
+			[ "forzáramos" ],
+			[ "forzarais", "forzaran" ],
+			[ "forzaran" ]
+		],
+		"10" : [
+			[ "forzase" ],
+			[ "forzases" ],
+			[ "forzase" ],
+			[ "forzásemos" ],
+			[ "forzaseis", "forzasen" ],
+			[ "forzasen" ]
+		],
+		"11" : [
+			[ "forzare" ],
+			[ "forzares" ],
+			[ "forzare" ],
+			[ "forzáremos" ],
+			[ "forzareis", "forzaren" ],
+			[ "forzaren" ]
+		],
+		"12" : {
+			"1" : [ "fuerza" ],
+			"2" : [ "fuerce" ],
+			"3" : [ "forcemos" ],
+			"4" : [ "forzad" ],
+			"5" : [ "fuercen" ]
+		}
+	}
+}

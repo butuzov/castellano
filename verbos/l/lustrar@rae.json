@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lustrar",
+	"word" : "lustrar",
+	"infinitivo" : "lustrar",
+	"participio" : [ "lustrado" ],
+	"gerundio" : [ "lustrando" ],
+	"tenses" : {
+		"3" : [
+			[ "lustro" ],
+			[ "lustras", "lustrás" ],
+			[ "lustra" ],
+			[ "lustramos" ],
+			[ "lustráis", "lustran" ],
+			[ "lustran" ]
+		],
+		"4" : [
+			[ "lustré" ],
+			[ "lustraste" ],
+			[ "lustró" ],
+			[ "lustramos" ],
+			[ "lustrasteis", "lustraron" ],
+			[ "lustraron" ]
+		],
+		"5" : [
+			[ "lustraba" ],
+			[ "lustrabas" ],
+			[ "lustraba" ],
+			[ "lustrábamos" ],
+			[ "lustrabais", "lustraban" ],
+			[ "lustraban" ]
+		],
+		"6" : [
+			[ "lustraría" ],
+			[ "lustrarías" ],
+			[ "lustraría" ],
+			[ "lustraríamos" ],
+			[ "lustraríais", "lustrarían" ],
+			[ "lustrarían" ]
+		],
+		"7" : [
+			[ "lustraré" ],
+			[ "lustrarás" ],
+			[ "lustrará" ],
+			[ "lustraremos" ],
+			[ "lustraréis", "lustrarán" ],
+			[ "lustrarán" ]
+		],
+		"8" : [
+			[ "lustre" ],
+			[ "lustres" ],
+			[ "lustre" ],
+			[ "lustremos" ],
+			[ "lustréis", "lustren" ],
+			[ "lustren" ]
+		],
+		"9" : [
+			[ "lustrara" ],
+			[ "lustraras" ],
+			[ "lustrara" ],
+			[ "lustráramos" ],
+			[ "lustrarais", "lustraran" ],
+			[ "lustraran" ]
+		],
+		"10" : [
+			[ "lustrase" ],
+			[ "lustrases" ],
+			[ "lustrase" ],
+			[ "lustrásemos" ],
+			[ "lustraseis", "lustrasen" ],
+			[ "lustrasen" ]
+		],
+		"11" : [
+			[ "lustrare" ],
+			[ "lustrares" ],
+			[ "lustrare" ],
+			[ "lustráremos" ],
+			[ "lustrareis", "lustraren" ],
+			[ "lustraren" ]
+		],
+		"12" : {
+			"1" : [ "lustra" ],
+			"2" : [ "lustre" ],
+			"3" : [ "lustremos" ],
+			"4" : [ "lustrad" ],
+			"5" : [ "lustren" ]
+		}
+	}
+}

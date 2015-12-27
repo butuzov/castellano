@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escuchar",
+	"word" : "escuchar",
+	"infinitivo" : "escuchar",
+	"participio" : [ "escuchado" ],
+	"gerundio" : [ "escuchando" ],
+	"tenses" : {
+		"3" : [
+			[ "escucho" ],
+			[ "escuchas", "escuchás" ],
+			[ "escucha" ],
+			[ "escuchamos" ],
+			[ "escucháis", "escuchan" ],
+			[ "escuchan" ]
+		],
+		"4" : [
+			[ "escuché" ],
+			[ "escuchaste" ],
+			[ "escuchó" ],
+			[ "escuchamos" ],
+			[ "escuchasteis", "escucharon" ],
+			[ "escucharon" ]
+		],
+		"5" : [
+			[ "escuchaba" ],
+			[ "escuchabas" ],
+			[ "escuchaba" ],
+			[ "escuchábamos" ],
+			[ "escuchabais", "escuchaban" ],
+			[ "escuchaban" ]
+		],
+		"6" : [
+			[ "escucharía" ],
+			[ "escucharías" ],
+			[ "escucharía" ],
+			[ "escucharíamos" ],
+			[ "escucharíais", "escucharían" ],
+			[ "escucharían" ]
+		],
+		"7" : [
+			[ "escucharé" ],
+			[ "escucharás" ],
+			[ "escuchará" ],
+			[ "escucharemos" ],
+			[ "escucharéis", "escucharán" ],
+			[ "escucharán" ]
+		],
+		"8" : [
+			[ "escuche" ],
+			[ "escuches" ],
+			[ "escuche" ],
+			[ "escuchemos" ],
+			[ "escuchéis", "escuchen" ],
+			[ "escuchen" ]
+		],
+		"9" : [
+			[ "escuchara" ],
+			[ "escucharas" ],
+			[ "escuchara" ],
+			[ "escucháramos" ],
+			[ "escucharais", "escucharan" ],
+			[ "escucharan" ]
+		],
+		"10" : [
+			[ "escuchase" ],
+			[ "escuchases" ],
+			[ "escuchase" ],
+			[ "escuchásemos" ],
+			[ "escuchaseis", "escuchasen" ],
+			[ "escuchasen" ]
+		],
+		"11" : [
+			[ "escuchare" ],
+			[ "escuchares" ],
+			[ "escuchare" ],
+			[ "escucháremos" ],
+			[ "escuchareis", "escucharen" ],
+			[ "escucharen" ]
+		],
+		"12" : {
+			"1" : [ "escucha" ],
+			"2" : [ "escuche" ],
+			"3" : [ "escuchemos" ],
+			"4" : [ "escuchad" ],
+			"5" : [ "escuchen" ]
+		}
+	}
+}

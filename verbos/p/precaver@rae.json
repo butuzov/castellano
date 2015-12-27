@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=precaver",
+	"word" : "precaver",
+	"infinitivo" : "precaver",
+	"participio" : [ "precavido" ],
+	"gerundio" : [ "precaviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "precavo" ],
+			[ "precaves", "precavés" ],
+			[ "precave" ],
+			[ "precavemos" ],
+			[ "precavéis", "precaven" ],
+			[ "precaven" ]
+		],
+		"4" : [
+			[ "precaví" ],
+			[ "precaviste" ],
+			[ "precavió" ],
+			[ "precavimos" ],
+			[ "precavisteis", "precavieron" ],
+			[ "precavieron" ]
+		],
+		"5" : [
+			[ "precavía" ],
+			[ "precavías" ],
+			[ "precavía" ],
+			[ "precavíamos" ],
+			[ "precavíais", "precavían" ],
+			[ "precavían" ]
+		],
+		"6" : [
+			[ "precavería" ],
+			[ "precaverías" ],
+			[ "precavería" ],
+			[ "precaveríamos" ],
+			[ "precaveríais", "precaverían" ],
+			[ "precaverían" ]
+		],
+		"7" : [
+			[ "precaveré" ],
+			[ "precaverás" ],
+			[ "precaverá" ],
+			[ "precaveremos" ],
+			[ "precaveréis", "precaverán" ],
+			[ "precaverán" ]
+		],
+		"8" : [
+			[ "precava" ],
+			[ "precavas" ],
+			[ "precava" ],
+			[ "precavamos" ],
+			[ "precaváis", "precavan" ],
+			[ "precavan" ]
+		],
+		"9" : [
+			[ "precaviera" ],
+			[ "precavieras" ],
+			[ "precaviera" ],
+			[ "precaviéramos" ],
+			[ "precavierais", "precavieran" ],
+			[ "precavieran" ]
+		],
+		"10" : [
+			[ "precaviese" ],
+			[ "precavieses" ],
+			[ "precaviese" ],
+			[ "precaviésemos" ],
+			[ "precavieseis", "precaviesen" ],
+			[ "precaviesen" ]
+		],
+		"11" : [
+			[ "precaviere" ],
+			[ "precavieres" ],
+			[ "precaviere" ],
+			[ "precaviéremos" ],
+			[ "precaviereis", "precavieren" ],
+			[ "precavieren" ]
+		],
+		"12" : {
+			"1" : [ "precave" ],
+			"2" : [ "precava" ],
+			"3" : [ "precavamos" ],
+			"4" : [ "precaved" ],
+			"5" : [ "precavan" ]
+		}
+	}
+}

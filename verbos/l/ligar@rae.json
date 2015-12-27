@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ligar",
+	"word" : "ligar",
+	"infinitivo" : "ligar",
+	"participio" : [ "ligado" ],
+	"gerundio" : [ "ligando" ],
+	"tenses" : {
+		"3" : [
+			[ "ligo" ],
+			[ "ligas", "ligás" ],
+			[ "liga" ],
+			[ "ligamos" ],
+			[ "ligáis", "ligan" ],
+			[ "ligan" ]
+		],
+		"4" : [
+			[ "ligué" ],
+			[ "ligaste" ],
+			[ "ligó" ],
+			[ "ligamos" ],
+			[ "ligasteis", "ligaron" ],
+			[ "ligaron" ]
+		],
+		"5" : [
+			[ "ligaba" ],
+			[ "ligabas" ],
+			[ "ligaba" ],
+			[ "ligábamos" ],
+			[ "ligabais", "ligaban" ],
+			[ "ligaban" ]
+		],
+		"6" : [
+			[ "ligaría" ],
+			[ "ligarías" ],
+			[ "ligaría" ],
+			[ "ligaríamos" ],
+			[ "ligaríais", "ligarían" ],
+			[ "ligarían" ]
+		],
+		"7" : [
+			[ "ligaré" ],
+			[ "ligarás" ],
+			[ "ligará" ],
+			[ "ligaremos" ],
+			[ "ligaréis", "ligarán" ],
+			[ "ligarán" ]
+		],
+		"8" : [
+			[ "ligue" ],
+			[ "ligues" ],
+			[ "ligue" ],
+			[ "liguemos" ],
+			[ "liguéis", "liguen" ],
+			[ "liguen" ]
+		],
+		"9" : [
+			[ "ligara" ],
+			[ "ligaras" ],
+			[ "ligara" ],
+			[ "ligáramos" ],
+			[ "ligarais", "ligaran" ],
+			[ "ligaran" ]
+		],
+		"10" : [
+			[ "ligase" ],
+			[ "ligases" ],
+			[ "ligase" ],
+			[ "ligásemos" ],
+			[ "ligaseis", "ligasen" ],
+			[ "ligasen" ]
+		],
+		"11" : [
+			[ "ligare" ],
+			[ "ligares" ],
+			[ "ligare" ],
+			[ "ligáremos" ],
+			[ "ligareis", "ligaren" ],
+			[ "ligaren" ]
+		],
+		"12" : {
+			"1" : [ "liga" ],
+			"2" : [ "ligue" ],
+			"3" : [ "liguemos" ],
+			"4" : [ "ligad" ],
+			"5" : [ "liguen" ]
+		}
+	}
+}

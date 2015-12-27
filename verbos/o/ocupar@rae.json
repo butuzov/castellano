@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ocupar",
+	"word" : "ocupar",
+	"infinitivo" : "ocupar",
+	"participio" : [ "ocupado" ],
+	"gerundio" : [ "ocupando" ],
+	"tenses" : {
+		"3" : [
+			[ "ocupo" ],
+			[ "ocupas", "ocupás" ],
+			[ "ocupa" ],
+			[ "ocupamos" ],
+			[ "ocupáis", "ocupan" ],
+			[ "ocupan" ]
+		],
+		"4" : [
+			[ "ocupé" ],
+			[ "ocupaste" ],
+			[ "ocupó" ],
+			[ "ocupamos" ],
+			[ "ocupasteis", "ocuparon" ],
+			[ "ocuparon" ]
+		],
+		"5" : [
+			[ "ocupaba" ],
+			[ "ocupabas" ],
+			[ "ocupaba" ],
+			[ "ocupábamos" ],
+			[ "ocupabais", "ocupaban" ],
+			[ "ocupaban" ]
+		],
+		"6" : [
+			[ "ocuparía" ],
+			[ "ocuparías" ],
+			[ "ocuparía" ],
+			[ "ocuparíamos" ],
+			[ "ocuparíais", "ocuparían" ],
+			[ "ocuparían" ]
+		],
+		"7" : [
+			[ "ocuparé" ],
+			[ "ocuparás" ],
+			[ "ocupará" ],
+			[ "ocuparemos" ],
+			[ "ocuparéis", "ocuparán" ],
+			[ "ocuparán" ]
+		],
+		"8" : [
+			[ "ocupe" ],
+			[ "ocupes" ],
+			[ "ocupe" ],
+			[ "ocupemos" ],
+			[ "ocupéis", "ocupen" ],
+			[ "ocupen" ]
+		],
+		"9" : [
+			[ "ocupara" ],
+			[ "ocuparas" ],
+			[ "ocupara" ],
+			[ "ocupáramos" ],
+			[ "ocuparais", "ocuparan" ],
+			[ "ocuparan" ]
+		],
+		"10" : [
+			[ "ocupase" ],
+			[ "ocupases" ],
+			[ "ocupase" ],
+			[ "ocupásemos" ],
+			[ "ocupaseis", "ocupasen" ],
+			[ "ocupasen" ]
+		],
+		"11" : [
+			[ "ocupare" ],
+			[ "ocupares" ],
+			[ "ocupare" ],
+			[ "ocupáremos" ],
+			[ "ocupareis", "ocuparen" ],
+			[ "ocuparen" ]
+		],
+		"12" : {
+			"1" : [ "ocupa" ],
+			"2" : [ "ocupe" ],
+			"3" : [ "ocupemos" ],
+			"4" : [ "ocupad" ],
+			"5" : [ "ocupen" ]
+		}
+	}
+}

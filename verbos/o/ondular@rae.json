@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ondular",
+	"word" : "ondular",
+	"infinitivo" : "ondular",
+	"participio" : [ "ondulado" ],
+	"gerundio" : [ "ondulando" ],
+	"tenses" : {
+		"3" : [
+			[ "ondulo" ],
+			[ "ondulas", "ondulás" ],
+			[ "ondula" ],
+			[ "ondulamos" ],
+			[ "onduláis", "ondulan" ],
+			[ "ondulan" ]
+		],
+		"4" : [
+			[ "ondulé" ],
+			[ "ondulaste" ],
+			[ "onduló" ],
+			[ "ondulamos" ],
+			[ "ondulasteis", "ondularon" ],
+			[ "ondularon" ]
+		],
+		"5" : [
+			[ "ondulaba" ],
+			[ "ondulabas" ],
+			[ "ondulaba" ],
+			[ "ondulábamos" ],
+			[ "ondulabais", "ondulaban" ],
+			[ "ondulaban" ]
+		],
+		"6" : [
+			[ "ondularía" ],
+			[ "ondularías" ],
+			[ "ondularía" ],
+			[ "ondularíamos" ],
+			[ "ondularíais", "ondularían" ],
+			[ "ondularían" ]
+		],
+		"7" : [
+			[ "ondularé" ],
+			[ "ondularás" ],
+			[ "ondulará" ],
+			[ "ondularemos" ],
+			[ "ondularéis", "ondularán" ],
+			[ "ondularán" ]
+		],
+		"8" : [
+			[ "ondule" ],
+			[ "ondules" ],
+			[ "ondule" ],
+			[ "ondulemos" ],
+			[ "onduléis", "ondulen" ],
+			[ "ondulen" ]
+		],
+		"9" : [
+			[ "ondulara" ],
+			[ "ondularas" ],
+			[ "ondulara" ],
+			[ "onduláramos" ],
+			[ "ondularais", "ondularan" ],
+			[ "ondularan" ]
+		],
+		"10" : [
+			[ "ondulase" ],
+			[ "ondulases" ],
+			[ "ondulase" ],
+			[ "ondulásemos" ],
+			[ "ondulaseis", "ondulasen" ],
+			[ "ondulasen" ]
+		],
+		"11" : [
+			[ "ondulare" ],
+			[ "ondulares" ],
+			[ "ondulare" ],
+			[ "onduláremos" ],
+			[ "ondulareis", "ondularen" ],
+			[ "ondularen" ]
+		],
+		"12" : {
+			"1" : [ "ondula" ],
+			"2" : [ "ondule" ],
+			"3" : [ "ondulemos" ],
+			"4" : [ "ondulad" ],
+			"5" : [ "ondulen" ]
+		}
+	}
+}

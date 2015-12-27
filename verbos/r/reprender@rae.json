@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reprender",
+	"word" : "reprender",
+	"infinitivo" : "reprender",
+	"participio" : [ "reprendido" ],
+	"gerundio" : [ "reprendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reprendo" ],
+			[ "reprendes", "reprendés" ],
+			[ "reprende" ],
+			[ "reprendemos" ],
+			[ "reprendéis", "reprenden" ],
+			[ "reprenden" ]
+		],
+		"4" : [
+			[ "reprendí" ],
+			[ "reprendiste" ],
+			[ "reprendió" ],
+			[ "reprendimos" ],
+			[ "reprendisteis", "reprendieron" ],
+			[ "reprendieron" ]
+		],
+		"5" : [
+			[ "reprendía" ],
+			[ "reprendías" ],
+			[ "reprendía" ],
+			[ "reprendíamos" ],
+			[ "reprendíais", "reprendían" ],
+			[ "reprendían" ]
+		],
+		"6" : [
+			[ "reprendería" ],
+			[ "reprenderías" ],
+			[ "reprendería" ],
+			[ "reprenderíamos" ],
+			[ "reprenderíais", "reprenderían" ],
+			[ "reprenderían" ]
+		],
+		"7" : [
+			[ "reprenderé" ],
+			[ "reprenderás" ],
+			[ "reprenderá" ],
+			[ "reprenderemos" ],
+			[ "reprenderéis", "reprenderán" ],
+			[ "reprenderán" ]
+		],
+		"8" : [
+			[ "reprenda" ],
+			[ "reprendas" ],
+			[ "reprenda" ],
+			[ "reprendamos" ],
+			[ "reprendáis", "reprendan" ],
+			[ "reprendan" ]
+		],
+		"9" : [
+			[ "reprendiera" ],
+			[ "reprendieras" ],
+			[ "reprendiera" ],
+			[ "reprendiéramos" ],
+			[ "reprendierais", "reprendieran" ],
+			[ "reprendieran" ]
+		],
+		"10" : [
+			[ "reprendiese" ],
+			[ "reprendieses" ],
+			[ "reprendiese" ],
+			[ "reprendiésemos" ],
+			[ "reprendieseis", "reprendiesen" ],
+			[ "reprendiesen" ]
+		],
+		"11" : [
+			[ "reprendiere" ],
+			[ "reprendieres" ],
+			[ "reprendiere" ],
+			[ "reprendiéremos" ],
+			[ "reprendiereis", "reprendieren" ],
+			[ "reprendieren" ]
+		],
+		"12" : {
+			"1" : [ "reprende" ],
+			"2" : [ "reprenda" ],
+			"3" : [ "reprendamos" ],
+			"4" : [ "reprended" ],
+			"5" : [ "reprendan" ]
+		}
+	}
+}

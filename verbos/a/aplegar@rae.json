@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aplegar",
+	"word" : "aplegar",
+	"infinitivo" : "aplegar",
+	"participio" : [ "aplegado" ],
+	"gerundio" : [ "aplegando" ],
+	"tenses" : {
+		"3" : [
+			[ "aplego" ],
+			[ "aplegas", "aplegás" ],
+			[ "aplega" ],
+			[ "aplegamos" ],
+			[ "aplegáis", "aplegan" ],
+			[ "aplegan" ]
+		],
+		"4" : [
+			[ "aplegué" ],
+			[ "aplegaste" ],
+			[ "aplegó" ],
+			[ "aplegamos" ],
+			[ "aplegasteis", "aplegaron" ],
+			[ "aplegaron" ]
+		],
+		"5" : [
+			[ "aplegaba" ],
+			[ "aplegabas" ],
+			[ "aplegaba" ],
+			[ "aplegábamos" ],
+			[ "aplegabais", "aplegaban" ],
+			[ "aplegaban" ]
+		],
+		"6" : [
+			[ "aplegaría" ],
+			[ "aplegarías" ],
+			[ "aplegaría" ],
+			[ "aplegaríamos" ],
+			[ "aplegaríais", "aplegarían" ],
+			[ "aplegarían" ]
+		],
+		"7" : [
+			[ "aplegaré" ],
+			[ "aplegarás" ],
+			[ "aplegará" ],
+			[ "aplegaremos" ],
+			[ "aplegaréis", "aplegarán" ],
+			[ "aplegarán" ]
+		],
+		"8" : [
+			[ "aplegue" ],
+			[ "aplegues" ],
+			[ "aplegue" ],
+			[ "apleguemos" ],
+			[ "apleguéis", "apleguen" ],
+			[ "apleguen" ]
+		],
+		"9" : [
+			[ "aplegara" ],
+			[ "aplegaras" ],
+			[ "aplegara" ],
+			[ "aplegáramos" ],
+			[ "aplegarais", "aplegaran" ],
+			[ "aplegaran" ]
+		],
+		"10" : [
+			[ "aplegase" ],
+			[ "aplegases" ],
+			[ "aplegase" ],
+			[ "aplegásemos" ],
+			[ "aplegaseis", "aplegasen" ],
+			[ "aplegasen" ]
+		],
+		"11" : [
+			[ "aplegare" ],
+			[ "aplegares" ],
+			[ "aplegare" ],
+			[ "aplegáremos" ],
+			[ "aplegareis", "aplegaren" ],
+			[ "aplegaren" ]
+		],
+		"12" : {
+			"1" : [ "aplega" ],
+			"2" : [ "aplegue" ],
+			"3" : [ "apleguemos" ],
+			"4" : [ "aplegad" ],
+			"5" : [ "apleguen" ]
+		}
+	}
+}

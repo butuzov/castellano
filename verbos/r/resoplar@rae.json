@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resoplar",
+	"word" : "resoplar",
+	"infinitivo" : "resoplar",
+	"participio" : [ "resoplado" ],
+	"gerundio" : [ "resoplando" ],
+	"tenses" : {
+		"3" : [
+			[ "resoplo" ],
+			[ "resoplas", "resoplás" ],
+			[ "resopla" ],
+			[ "resoplamos" ],
+			[ "resopláis", "resoplan" ],
+			[ "resoplan" ]
+		],
+		"4" : [
+			[ "resoplé" ],
+			[ "resoplaste" ],
+			[ "resopló" ],
+			[ "resoplamos" ],
+			[ "resoplasteis", "resoplaron" ],
+			[ "resoplaron" ]
+		],
+		"5" : [
+			[ "resoplaba" ],
+			[ "resoplabas" ],
+			[ "resoplaba" ],
+			[ "resoplábamos" ],
+			[ "resoplabais", "resoplaban" ],
+			[ "resoplaban" ]
+		],
+		"6" : [
+			[ "resoplaría" ],
+			[ "resoplarías" ],
+			[ "resoplaría" ],
+			[ "resoplaríamos" ],
+			[ "resoplaríais", "resoplarían" ],
+			[ "resoplarían" ]
+		],
+		"7" : [
+			[ "resoplaré" ],
+			[ "resoplarás" ],
+			[ "resoplará" ],
+			[ "resoplaremos" ],
+			[ "resoplaréis", "resoplarán" ],
+			[ "resoplarán" ]
+		],
+		"8" : [
+			[ "resople" ],
+			[ "resoples" ],
+			[ "resople" ],
+			[ "resoplemos" ],
+			[ "resopléis", "resoplen" ],
+			[ "resoplen" ]
+		],
+		"9" : [
+			[ "resoplara" ],
+			[ "resoplaras" ],
+			[ "resoplara" ],
+			[ "resopláramos" ],
+			[ "resoplarais", "resoplaran" ],
+			[ "resoplaran" ]
+		],
+		"10" : [
+			[ "resoplase" ],
+			[ "resoplases" ],
+			[ "resoplase" ],
+			[ "resoplásemos" ],
+			[ "resoplaseis", "resoplasen" ],
+			[ "resoplasen" ]
+		],
+		"11" : [
+			[ "resoplare" ],
+			[ "resoplares" ],
+			[ "resoplare" ],
+			[ "resopláremos" ],
+			[ "resoplareis", "resoplaren" ],
+			[ "resoplaren" ]
+		],
+		"12" : {
+			"1" : [ "resopla" ],
+			"2" : [ "resople" ],
+			"3" : [ "resoplemos" ],
+			"4" : [ "resoplad" ],
+			"5" : [ "resoplen" ]
+		}
+	}
+}

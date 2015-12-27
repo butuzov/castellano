@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escavar",
+	"word" : "escavar",
+	"infinitivo" : "escavar",
+	"participio" : [ "escavado" ],
+	"gerundio" : [ "escavando" ],
+	"tenses" : {
+		"3" : [
+			[ "escavo" ],
+			[ "escavas", "escavás" ],
+			[ "escava" ],
+			[ "escavamos" ],
+			[ "escaváis", "escavan" ],
+			[ "escavan" ]
+		],
+		"4" : [
+			[ "escavé" ],
+			[ "escavaste" ],
+			[ "escavó" ],
+			[ "escavamos" ],
+			[ "escavasteis", "escavaron" ],
+			[ "escavaron" ]
+		],
+		"5" : [
+			[ "escavaba" ],
+			[ "escavabas" ],
+			[ "escavaba" ],
+			[ "escavábamos" ],
+			[ "escavabais", "escavaban" ],
+			[ "escavaban" ]
+		],
+		"6" : [
+			[ "escavaría" ],
+			[ "escavarías" ],
+			[ "escavaría" ],
+			[ "escavaríamos" ],
+			[ "escavaríais", "escavarían" ],
+			[ "escavarían" ]
+		],
+		"7" : [
+			[ "escavaré" ],
+			[ "escavarás" ],
+			[ "escavará" ],
+			[ "escavaremos" ],
+			[ "escavaréis", "escavarán" ],
+			[ "escavarán" ]
+		],
+		"8" : [
+			[ "escave" ],
+			[ "escaves" ],
+			[ "escave" ],
+			[ "escavemos" ],
+			[ "escavéis", "escaven" ],
+			[ "escaven" ]
+		],
+		"9" : [
+			[ "escavara" ],
+			[ "escavaras" ],
+			[ "escavara" ],
+			[ "escaváramos" ],
+			[ "escavarais", "escavaran" ],
+			[ "escavaran" ]
+		],
+		"10" : [
+			[ "escavase" ],
+			[ "escavases" ],
+			[ "escavase" ],
+			[ "escavásemos" ],
+			[ "escavaseis", "escavasen" ],
+			[ "escavasen" ]
+		],
+		"11" : [
+			[ "escavare" ],
+			[ "escavares" ],
+			[ "escavare" ],
+			[ "escaváremos" ],
+			[ "escavareis", "escavaren" ],
+			[ "escavaren" ]
+		],
+		"12" : {
+			"1" : [ "escava" ],
+			"2" : [ "escave" ],
+			"3" : [ "escavemos" ],
+			"4" : [ "escavad" ],
+			"5" : [ "escaven" ]
+		}
+	}
+}

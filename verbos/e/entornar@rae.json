@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entornar",
+	"word" : "entornar",
+	"infinitivo" : "entornar",
+	"participio" : [ "entornado" ],
+	"gerundio" : [ "entornando" ],
+	"tenses" : {
+		"3" : [
+			[ "entorno" ],
+			[ "entornas", "entornás" ],
+			[ "entorna" ],
+			[ "entornamos" ],
+			[ "entornáis", "entornan" ],
+			[ "entornan" ]
+		],
+		"4" : [
+			[ "entorné" ],
+			[ "entornaste" ],
+			[ "entornó" ],
+			[ "entornamos" ],
+			[ "entornasteis", "entornaron" ],
+			[ "entornaron" ]
+		],
+		"5" : [
+			[ "entornaba" ],
+			[ "entornabas" ],
+			[ "entornaba" ],
+			[ "entornábamos" ],
+			[ "entornabais", "entornaban" ],
+			[ "entornaban" ]
+		],
+		"6" : [
+			[ "entornaría" ],
+			[ "entornarías" ],
+			[ "entornaría" ],
+			[ "entornaríamos" ],
+			[ "entornaríais", "entornarían" ],
+			[ "entornarían" ]
+		],
+		"7" : [
+			[ "entornaré" ],
+			[ "entornarás" ],
+			[ "entornará" ],
+			[ "entornaremos" ],
+			[ "entornaréis", "entornarán" ],
+			[ "entornarán" ]
+		],
+		"8" : [
+			[ "entorne" ],
+			[ "entornes" ],
+			[ "entorne" ],
+			[ "entornemos" ],
+			[ "entornéis", "entornen" ],
+			[ "entornen" ]
+		],
+		"9" : [
+			[ "entornara" ],
+			[ "entornaras" ],
+			[ "entornara" ],
+			[ "entornáramos" ],
+			[ "entornarais", "entornaran" ],
+			[ "entornaran" ]
+		],
+		"10" : [
+			[ "entornase" ],
+			[ "entornases" ],
+			[ "entornase" ],
+			[ "entornásemos" ],
+			[ "entornaseis", "entornasen" ],
+			[ "entornasen" ]
+		],
+		"11" : [
+			[ "entornare" ],
+			[ "entornares" ],
+			[ "entornare" ],
+			[ "entornáremos" ],
+			[ "entornareis", "entornaren" ],
+			[ "entornaren" ]
+		],
+		"12" : {
+			"1" : [ "entorna" ],
+			"2" : [ "entorne" ],
+			"3" : [ "entornemos" ],
+			"4" : [ "entornad" ],
+			"5" : [ "entornen" ]
+		}
+	}
+}

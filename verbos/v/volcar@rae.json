@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=volcar",
+	"word" : "volcar",
+	"infinitivo" : "volcar",
+	"participio" : [ "volcado" ],
+	"gerundio" : [ "volcando" ],
+	"tenses" : {
+		"3" : [
+			[ "vuelco" ],
+			[ "vuelcas", "volcás" ],
+			[ "vuelca" ],
+			[ "volcamos" ],
+			[ "volcáis", "vuelcan" ],
+			[ "vuelcan" ]
+		],
+		"4" : [
+			[ "volqué" ],
+			[ "volcaste" ],
+			[ "volcó" ],
+			[ "volcamos" ],
+			[ "volcasteis", "volcaron" ],
+			[ "volcaron" ]
+		],
+		"5" : [
+			[ "volcaba" ],
+			[ "volcabas" ],
+			[ "volcaba" ],
+			[ "volcábamos" ],
+			[ "volcabais", "volcaban" ],
+			[ "volcaban" ]
+		],
+		"6" : [
+			[ "volcaría" ],
+			[ "volcarías" ],
+			[ "volcaría" ],
+			[ "volcaríamos" ],
+			[ "volcaríais", "volcarían" ],
+			[ "volcarían" ]
+		],
+		"7" : [
+			[ "volcaré" ],
+			[ "volcarás" ],
+			[ "volcará" ],
+			[ "volcaremos" ],
+			[ "volcaréis", "volcarán" ],
+			[ "volcarán" ]
+		],
+		"8" : [
+			[ "vuelque" ],
+			[ "vuelques" ],
+			[ "vuelque" ],
+			[ "volquemos" ],
+			[ "volquéis", "vuelquen" ],
+			[ "vuelquen" ]
+		],
+		"9" : [
+			[ "volcara" ],
+			[ "volcaras" ],
+			[ "volcara" ],
+			[ "volcáramos" ],
+			[ "volcarais", "volcaran" ],
+			[ "volcaran" ]
+		],
+		"10" : [
+			[ "volcase" ],
+			[ "volcases" ],
+			[ "volcase" ],
+			[ "volcásemos" ],
+			[ "volcaseis", "volcasen" ],
+			[ "volcasen" ]
+		],
+		"11" : [
+			[ "volcare" ],
+			[ "volcares" ],
+			[ "volcare" ],
+			[ "volcáremos" ],
+			[ "volcareis", "volcaren" ],
+			[ "volcaren" ]
+		],
+		"12" : {
+			"1" : [ "vuelca" ],
+			"2" : [ "vuelque" ],
+			"3" : [ "volquemos" ],
+			"4" : [ "volcad" ],
+			"5" : [ "vuelquen" ]
+		}
+	}
+}

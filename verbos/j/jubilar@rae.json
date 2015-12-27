@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=jubilar",
+	"word" : "jubilar",
+	"infinitivo" : "jubilar",
+	"participio" : [ "jubilado" ],
+	"gerundio" : [ "jubilando" ],
+	"tenses" : {
+		"3" : [
+			[ "jubilo" ],
+			[ "jubilas", "jubilás" ],
+			[ "jubila" ],
+			[ "jubilamos" ],
+			[ "jubiláis", "jubilan" ],
+			[ "jubilan" ]
+		],
+		"4" : [
+			[ "jubilé" ],
+			[ "jubilaste" ],
+			[ "jubiló" ],
+			[ "jubilamos" ],
+			[ "jubilasteis", "jubilaron" ],
+			[ "jubilaron" ]
+		],
+		"5" : [
+			[ "jubilaba" ],
+			[ "jubilabas" ],
+			[ "jubilaba" ],
+			[ "jubilábamos" ],
+			[ "jubilabais", "jubilaban" ],
+			[ "jubilaban" ]
+		],
+		"6" : [
+			[ "jubilaría" ],
+			[ "jubilarías" ],
+			[ "jubilaría" ],
+			[ "jubilaríamos" ],
+			[ "jubilaríais", "jubilarían" ],
+			[ "jubilarían" ]
+		],
+		"7" : [
+			[ "jubilaré" ],
+			[ "jubilarás" ],
+			[ "jubilará" ],
+			[ "jubilaremos" ],
+			[ "jubilaréis", "jubilarán" ],
+			[ "jubilarán" ]
+		],
+		"8" : [
+			[ "jubile" ],
+			[ "jubiles" ],
+			[ "jubile" ],
+			[ "jubilemos" ],
+			[ "jubiléis", "jubilen" ],
+			[ "jubilen" ]
+		],
+		"9" : [
+			[ "jubilara" ],
+			[ "jubilaras" ],
+			[ "jubilara" ],
+			[ "jubiláramos" ],
+			[ "jubilarais", "jubilaran" ],
+			[ "jubilaran" ]
+		],
+		"10" : [
+			[ "jubilase" ],
+			[ "jubilases" ],
+			[ "jubilase" ],
+			[ "jubilásemos" ],
+			[ "jubilaseis", "jubilasen" ],
+			[ "jubilasen" ]
+		],
+		"11" : [
+			[ "jubilare" ],
+			[ "jubilares" ],
+			[ "jubilare" ],
+			[ "jubiláremos" ],
+			[ "jubilareis", "jubilaren" ],
+			[ "jubilaren" ]
+		],
+		"12" : {
+			"1" : [ "jubila" ],
+			"2" : [ "jubile" ],
+			"3" : [ "jubilemos" ],
+			"4" : [ "jubilad" ],
+			"5" : [ "jubilen" ]
+		}
+	}
+}

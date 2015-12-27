@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asonar",
+	"word" : "asonar",
+	"infinitivo" : "asonar",
+	"participio" : [ "asonado" ],
+	"gerundio" : [ "asonando" ],
+	"tenses" : {
+		"3" : [
+			[ "asueno" ],
+			[ "asuenas", "asonás" ],
+			[ "asuena" ],
+			[ "asonamos" ],
+			[ "asonáis", "asuenan" ],
+			[ "asuenan" ]
+		],
+		"4" : [
+			[ "asoné" ],
+			[ "asonaste" ],
+			[ "asonó" ],
+			[ "asonamos" ],
+			[ "asonasteis", "asonaron" ],
+			[ "asonaron" ]
+		],
+		"5" : [
+			[ "asonaba" ],
+			[ "asonabas" ],
+			[ "asonaba" ],
+			[ "asonábamos" ],
+			[ "asonabais", "asonaban" ],
+			[ "asonaban" ]
+		],
+		"6" : [
+			[ "asonaría" ],
+			[ "asonarías" ],
+			[ "asonaría" ],
+			[ "asonaríamos" ],
+			[ "asonaríais", "asonarían" ],
+			[ "asonarían" ]
+		],
+		"7" : [
+			[ "asonaré" ],
+			[ "asonarás" ],
+			[ "asonará" ],
+			[ "asonaremos" ],
+			[ "asonaréis", "asonarán" ],
+			[ "asonarán" ]
+		],
+		"8" : [
+			[ "asuene" ],
+			[ "asuenes" ],
+			[ "asuene" ],
+			[ "asonemos" ],
+			[ "asonéis", "asuenen" ],
+			[ "asuenen" ]
+		],
+		"9" : [
+			[ "asonara" ],
+			[ "asonaras" ],
+			[ "asonara" ],
+			[ "asonáramos" ],
+			[ "asonarais", "asonaran" ],
+			[ "asonaran" ]
+		],
+		"10" : [
+			[ "asonase" ],
+			[ "asonases" ],
+			[ "asonase" ],
+			[ "asonásemos" ],
+			[ "asonaseis", "asonasen" ],
+			[ "asonasen" ]
+		],
+		"11" : [
+			[ "asonare" ],
+			[ "asonares" ],
+			[ "asonare" ],
+			[ "asonáremos" ],
+			[ "asonareis", "asonaren" ],
+			[ "asonaren" ]
+		],
+		"12" : {
+			"1" : [ "asuena" ],
+			"2" : [ "asuene" ],
+			"3" : [ "asonemos" ],
+			"4" : [ "asonad" ],
+			"5" : [ "asuenen" ]
+		}
+	}
+}

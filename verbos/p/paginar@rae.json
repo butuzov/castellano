@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=paginar",
+	"word" : "paginar",
+	"infinitivo" : "paginar",
+	"participio" : [ "paginado" ],
+	"gerundio" : [ "paginando" ],
+	"tenses" : {
+		"3" : [
+			[ "pagino" ],
+			[ "paginas", "paginás" ],
+			[ "pagina" ],
+			[ "paginamos" ],
+			[ "pagináis", "paginan" ],
+			[ "paginan" ]
+		],
+		"4" : [
+			[ "paginé" ],
+			[ "paginaste" ],
+			[ "paginó" ],
+			[ "paginamos" ],
+			[ "paginasteis", "paginaron" ],
+			[ "paginaron" ]
+		],
+		"5" : [
+			[ "paginaba" ],
+			[ "paginabas" ],
+			[ "paginaba" ],
+			[ "paginábamos" ],
+			[ "paginabais", "paginaban" ],
+			[ "paginaban" ]
+		],
+		"6" : [
+			[ "paginaría" ],
+			[ "paginarías" ],
+			[ "paginaría" ],
+			[ "paginaríamos" ],
+			[ "paginaríais", "paginarían" ],
+			[ "paginarían" ]
+		],
+		"7" : [
+			[ "paginaré" ],
+			[ "paginarás" ],
+			[ "paginará" ],
+			[ "paginaremos" ],
+			[ "paginaréis", "paginarán" ],
+			[ "paginarán" ]
+		],
+		"8" : [
+			[ "pagine" ],
+			[ "pagines" ],
+			[ "pagine" ],
+			[ "paginemos" ],
+			[ "paginéis", "paginen" ],
+			[ "paginen" ]
+		],
+		"9" : [
+			[ "paginara" ],
+			[ "paginaras" ],
+			[ "paginara" ],
+			[ "pagináramos" ],
+			[ "paginarais", "paginaran" ],
+			[ "paginaran" ]
+		],
+		"10" : [
+			[ "paginase" ],
+			[ "paginases" ],
+			[ "paginase" ],
+			[ "paginásemos" ],
+			[ "paginaseis", "paginasen" ],
+			[ "paginasen" ]
+		],
+		"11" : [
+			[ "paginare" ],
+			[ "paginares" ],
+			[ "paginare" ],
+			[ "pagináremos" ],
+			[ "paginareis", "paginaren" ],
+			[ "paginaren" ]
+		],
+		"12" : {
+			"1" : [ "pagina" ],
+			"2" : [ "pagine" ],
+			"3" : [ "paginemos" ],
+			"4" : [ "paginad" ],
+			"5" : [ "paginen" ]
+		}
+	}
+}

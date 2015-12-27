@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tronar",
+	"word" : "tronar",
+	"infinitivo" : "tronar",
+	"participio" : [ "tronado" ],
+	"gerundio" : [ "tronando" ],
+	"tenses" : {
+		"3" : [
+			[ "trueno" ],
+			[ "truenas", "tronás" ],
+			[ "truena" ],
+			[ "tronamos" ],
+			[ "tronáis", "truenan" ],
+			[ "truenan" ]
+		],
+		"4" : [
+			[ "troné" ],
+			[ "tronaste" ],
+			[ "tronó" ],
+			[ "tronamos" ],
+			[ "tronasteis", "tronaron" ],
+			[ "tronaron" ]
+		],
+		"5" : [
+			[ "tronaba" ],
+			[ "tronabas" ],
+			[ "tronaba" ],
+			[ "tronábamos" ],
+			[ "tronabais", "tronaban" ],
+			[ "tronaban" ]
+		],
+		"6" : [
+			[ "tronaría" ],
+			[ "tronarías" ],
+			[ "tronaría" ],
+			[ "tronaríamos" ],
+			[ "tronaríais", "tronarían" ],
+			[ "tronarían" ]
+		],
+		"7" : [
+			[ "tronaré" ],
+			[ "tronarás" ],
+			[ "tronará" ],
+			[ "tronaremos" ],
+			[ "tronaréis", "tronarán" ],
+			[ "tronarán" ]
+		],
+		"8" : [
+			[ "truene" ],
+			[ "truenes" ],
+			[ "truene" ],
+			[ "tronemos" ],
+			[ "tronéis", "truenen" ],
+			[ "truenen" ]
+		],
+		"9" : [
+			[ "tronara" ],
+			[ "tronaras" ],
+			[ "tronara" ],
+			[ "tronáramos" ],
+			[ "tronarais", "tronaran" ],
+			[ "tronaran" ]
+		],
+		"10" : [
+			[ "tronase" ],
+			[ "tronases" ],
+			[ "tronase" ],
+			[ "tronásemos" ],
+			[ "tronaseis", "tronasen" ],
+			[ "tronasen" ]
+		],
+		"11" : [
+			[ "tronare" ],
+			[ "tronares" ],
+			[ "tronare" ],
+			[ "tronáremos" ],
+			[ "tronareis", "tronaren" ],
+			[ "tronaren" ]
+		],
+		"12" : {
+			"1" : [ "truena" ],
+			"2" : [ "truene" ],
+			"3" : [ "tronemos" ],
+			"4" : [ "tronad" ],
+			"5" : [ "truenen" ]
+		}
+	}
+}

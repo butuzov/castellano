@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=diagnosticar",
+	"word" : "diagnosticar",
+	"infinitivo" : "diagnosticar",
+	"participio" : [ "diagnosticado" ],
+	"gerundio" : [ "diagnosticando" ],
+	"tenses" : {
+		"3" : [
+			[ "diagnostico" ],
+			[ "diagnosticas", "diagnosticás" ],
+			[ "diagnostica" ],
+			[ "diagnosticamos" ],
+			[ "diagnosticáis", "diagnostican" ],
+			[ "diagnostican" ]
+		],
+		"4" : [
+			[ "diagnostiqué" ],
+			[ "diagnosticaste" ],
+			[ "diagnosticó" ],
+			[ "diagnosticamos" ],
+			[ "diagnosticasteis", "diagnosticaron" ],
+			[ "diagnosticaron" ]
+		],
+		"5" : [
+			[ "diagnosticaba" ],
+			[ "diagnosticabas" ],
+			[ "diagnosticaba" ],
+			[ "diagnosticábamos" ],
+			[ "diagnosticabais", "diagnosticaban" ],
+			[ "diagnosticaban" ]
+		],
+		"6" : [
+			[ "diagnosticaría" ],
+			[ "diagnosticarías" ],
+			[ "diagnosticaría" ],
+			[ "diagnosticaríamos" ],
+			[ "diagnosticaríais", "diagnosticarían" ],
+			[ "diagnosticarían" ]
+		],
+		"7" : [
+			[ "diagnosticaré" ],
+			[ "diagnosticarás" ],
+			[ "diagnosticará" ],
+			[ "diagnosticaremos" ],
+			[ "diagnosticaréis", "diagnosticarán" ],
+			[ "diagnosticarán" ]
+		],
+		"8" : [
+			[ "diagnostique" ],
+			[ "diagnostiques" ],
+			[ "diagnostique" ],
+			[ "diagnostiquemos" ],
+			[ "diagnostiquéis", "diagnostiquen" ],
+			[ "diagnostiquen" ]
+		],
+		"9" : [
+			[ "diagnosticara" ],
+			[ "diagnosticaras" ],
+			[ "diagnosticara" ],
+			[ "diagnosticáramos" ],
+			[ "diagnosticarais", "diagnosticaran" ],
+			[ "diagnosticaran" ]
+		],
+		"10" : [
+			[ "diagnosticase" ],
+			[ "diagnosticases" ],
+			[ "diagnosticase" ],
+			[ "diagnosticásemos" ],
+			[ "diagnosticaseis", "diagnosticasen" ],
+			[ "diagnosticasen" ]
+		],
+		"11" : [
+			[ "diagnosticare" ],
+			[ "diagnosticares" ],
+			[ "diagnosticare" ],
+			[ "diagnosticáremos" ],
+			[ "diagnosticareis", "diagnosticaren" ],
+			[ "diagnosticaren" ]
+		],
+		"12" : {
+			"1" : [ "diagnostica" ],
+			"2" : [ "diagnostique" ],
+			"3" : [ "diagnostiquemos" ],
+			"4" : [ "diagnosticad" ],
+			"5" : [ "diagnostiquen" ]
+		}
+	}
+}

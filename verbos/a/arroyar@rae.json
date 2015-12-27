@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arroyar",
+	"word" : "arroyar",
+	"infinitivo" : "arroyar",
+	"participio" : [ "arroyado" ],
+	"gerundio" : [ "arroyando" ],
+	"tenses" : {
+		"3" : [
+			[ "arroyo" ],
+			[ "arroyas", "arroyás" ],
+			[ "arroya" ],
+			[ "arroyamos" ],
+			[ "arroyáis", "arroyan" ],
+			[ "arroyan" ]
+		],
+		"4" : [
+			[ "arroyé" ],
+			[ "arroyaste" ],
+			[ "arroyó" ],
+			[ "arroyamos" ],
+			[ "arroyasteis", "arroyaron" ],
+			[ "arroyaron" ]
+		],
+		"5" : [
+			[ "arroyaba" ],
+			[ "arroyabas" ],
+			[ "arroyaba" ],
+			[ "arroyábamos" ],
+			[ "arroyabais", "arroyaban" ],
+			[ "arroyaban" ]
+		],
+		"6" : [
+			[ "arroyaría" ],
+			[ "arroyarías" ],
+			[ "arroyaría" ],
+			[ "arroyaríamos" ],
+			[ "arroyaríais", "arroyarían" ],
+			[ "arroyarían" ]
+		],
+		"7" : [
+			[ "arroyaré" ],
+			[ "arroyarás" ],
+			[ "arroyará" ],
+			[ "arroyaremos" ],
+			[ "arroyaréis", "arroyarán" ],
+			[ "arroyarán" ]
+		],
+		"8" : [
+			[ "arroye" ],
+			[ "arroyes" ],
+			[ "arroye" ],
+			[ "arroyemos" ],
+			[ "arroyéis", "arroyen" ],
+			[ "arroyen" ]
+		],
+		"9" : [
+			[ "arroyara" ],
+			[ "arroyaras" ],
+			[ "arroyara" ],
+			[ "arroyáramos" ],
+			[ "arroyarais", "arroyaran" ],
+			[ "arroyaran" ]
+		],
+		"10" : [
+			[ "arroyase" ],
+			[ "arroyases" ],
+			[ "arroyase" ],
+			[ "arroyásemos" ],
+			[ "arroyaseis", "arroyasen" ],
+			[ "arroyasen" ]
+		],
+		"11" : [
+			[ "arroyare" ],
+			[ "arroyares" ],
+			[ "arroyare" ],
+			[ "arroyáremos" ],
+			[ "arroyareis", "arroyaren" ],
+			[ "arroyaren" ]
+		],
+		"12" : {
+			"1" : [ "arroya" ],
+			"2" : [ "arroye" ],
+			"3" : [ "arroyemos" ],
+			"4" : [ "arroyad" ],
+			"5" : [ "arroyen" ]
+		}
+	}
+}

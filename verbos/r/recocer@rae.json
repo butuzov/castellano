@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recocer",
+	"word" : "recocer",
+	"infinitivo" : "recocer",
+	"participio" : [ "recocido" ],
+	"gerundio" : [ "recociendo" ],
+	"tenses" : {
+		"3" : [
+			[ "recuezo" ],
+			[ "recueces", "recocés" ],
+			[ "recuece" ],
+			[ "recocemos" ],
+			[ "recocéis", "recuecen" ],
+			[ "recuecen" ]
+		],
+		"4" : [
+			[ "recocí" ],
+			[ "recociste" ],
+			[ "recoció" ],
+			[ "recocimos" ],
+			[ "recocisteis", "recocieron" ],
+			[ "recocieron" ]
+		],
+		"5" : [
+			[ "recocía" ],
+			[ "recocías" ],
+			[ "recocía" ],
+			[ "recocíamos" ],
+			[ "recocíais", "recocían" ],
+			[ "recocían" ]
+		],
+		"6" : [
+			[ "recocería" ],
+			[ "recocerías" ],
+			[ "recocería" ],
+			[ "recoceríamos" ],
+			[ "recoceríais", "recocerían" ],
+			[ "recocerían" ]
+		],
+		"7" : [
+			[ "recoceré" ],
+			[ "recocerás" ],
+			[ "recocerá" ],
+			[ "recoceremos" ],
+			[ "recoceréis", "recocerán" ],
+			[ "recocerán" ]
+		],
+		"8" : [
+			[ "recueza" ],
+			[ "recuezas" ],
+			[ "recueza" ],
+			[ "recozamos" ],
+			[ "recozáis", "recuezan" ],
+			[ "recuezan" ]
+		],
+		"9" : [
+			[ "recociera" ],
+			[ "recocieras" ],
+			[ "recociera" ],
+			[ "recociéramos" ],
+			[ "recocierais", "recocieran" ],
+			[ "recocieran" ]
+		],
+		"10" : [
+			[ "recociese" ],
+			[ "recocieses" ],
+			[ "recociese" ],
+			[ "recociésemos" ],
+			[ "recocieseis", "recociesen" ],
+			[ "recociesen" ]
+		],
+		"11" : [
+			[ "recociere" ],
+			[ "recocieres" ],
+			[ "recociere" ],
+			[ "recociéremos" ],
+			[ "recociereis", "recocieren" ],
+			[ "recocieren" ]
+		],
+		"12" : {
+			"1" : [ "recuece" ],
+			"2" : [ "recueza" ],
+			"3" : [ "recozamos" ],
+			"4" : [ "recoced" ],
+			"5" : [ "recuezan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=soportar",
+	"word" : "soportar",
+	"infinitivo" : "soportar",
+	"participio" : [ "soportado" ],
+	"gerundio" : [ "soportando" ],
+	"tenses" : {
+		"3" : [
+			[ "soporto" ],
+			[ "soportas", "soportás" ],
+			[ "soporta" ],
+			[ "soportamos" ],
+			[ "soportáis", "soportan" ],
+			[ "soportan" ]
+		],
+		"4" : [
+			[ "soporté" ],
+			[ "soportaste" ],
+			[ "soportó" ],
+			[ "soportamos" ],
+			[ "soportasteis", "soportaron" ],
+			[ "soportaron" ]
+		],
+		"5" : [
+			[ "soportaba" ],
+			[ "soportabas" ],
+			[ "soportaba" ],
+			[ "soportábamos" ],
+			[ "soportabais", "soportaban" ],
+			[ "soportaban" ]
+		],
+		"6" : [
+			[ "soportaría" ],
+			[ "soportarías" ],
+			[ "soportaría" ],
+			[ "soportaríamos" ],
+			[ "soportaríais", "soportarían" ],
+			[ "soportarían" ]
+		],
+		"7" : [
+			[ "soportaré" ],
+			[ "soportarás" ],
+			[ "soportará" ],
+			[ "soportaremos" ],
+			[ "soportaréis", "soportarán" ],
+			[ "soportarán" ]
+		],
+		"8" : [
+			[ "soporte" ],
+			[ "soportes" ],
+			[ "soporte" ],
+			[ "soportemos" ],
+			[ "soportéis", "soporten" ],
+			[ "soporten" ]
+		],
+		"9" : [
+			[ "soportara" ],
+			[ "soportaras" ],
+			[ "soportara" ],
+			[ "soportáramos" ],
+			[ "soportarais", "soportaran" ],
+			[ "soportaran" ]
+		],
+		"10" : [
+			[ "soportase" ],
+			[ "soportases" ],
+			[ "soportase" ],
+			[ "soportásemos" ],
+			[ "soportaseis", "soportasen" ],
+			[ "soportasen" ]
+		],
+		"11" : [
+			[ "soportare" ],
+			[ "soportares" ],
+			[ "soportare" ],
+			[ "soportáremos" ],
+			[ "soportareis", "soportaren" ],
+			[ "soportaren" ]
+		],
+		"12" : {
+			"1" : [ "soporta" ],
+			"2" : [ "soporte" ],
+			"3" : [ "soportemos" ],
+			"4" : [ "soportad" ],
+			"5" : [ "soporten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agredir",
+	"word" : "agredir",
+	"infinitivo" : "agredir",
+	"participio" : [ "agredido" ],
+	"gerundio" : [ "agrediendo" ],
+	"tenses" : {
+		"3" : [
+			[ "agredo" ],
+			[ "agredes", "agredís" ],
+			[ "agrede" ],
+			[ "agredimos" ],
+			[ "agredís", "agreden" ],
+			[ "agreden" ]
+		],
+		"4" : [
+			[ "agredí" ],
+			[ "agrediste" ],
+			[ "agredió" ],
+			[ "agredimos" ],
+			[ "agredisteis", "agredieron" ],
+			[ "agredieron" ]
+		],
+		"5" : [
+			[ "agredía" ],
+			[ "agredías" ],
+			[ "agredía" ],
+			[ "agredíamos" ],
+			[ "agredíais", "agredían" ],
+			[ "agredían" ]
+		],
+		"6" : [
+			[ "agrediría" ],
+			[ "agredirías" ],
+			[ "agrediría" ],
+			[ "agrediríamos" ],
+			[ "agrediríais", "agredirían" ],
+			[ "agredirían" ]
+		],
+		"7" : [
+			[ "agrediré" ],
+			[ "agredirás" ],
+			[ "agredirá" ],
+			[ "agrediremos" ],
+			[ "agrediréis", "agredirán" ],
+			[ "agredirán" ]
+		],
+		"8" : [
+			[ "agreda" ],
+			[ "agredas" ],
+			[ "agreda" ],
+			[ "agredamos" ],
+			[ "agredáis", "agredan" ],
+			[ "agredan" ]
+		],
+		"9" : [
+			[ "agrediera" ],
+			[ "agredieras" ],
+			[ "agrediera" ],
+			[ "agrediéramos" ],
+			[ "agredierais", "agredieran" ],
+			[ "agredieran" ]
+		],
+		"10" : [
+			[ "agrediese" ],
+			[ "agredieses" ],
+			[ "agrediese" ],
+			[ "agrediésemos" ],
+			[ "agredieseis", "agrediesen" ],
+			[ "agrediesen" ]
+		],
+		"11" : [
+			[ "agrediere" ],
+			[ "agredieres" ],
+			[ "agrediere" ],
+			[ "agrediéremos" ],
+			[ "agrediereis", "agredieren" ],
+			[ "agredieren" ]
+		],
+		"12" : {
+			"1" : [ "agrede" ],
+			"2" : [ "agreda" ],
+			"3" : [ "agredamos" ],
+			"4" : [ "agredid" ],
+			"5" : [ "agredan" ]
+		}
+	}
+}

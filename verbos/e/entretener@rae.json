@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entretener",
+	"word" : "entretener",
+	"infinitivo" : "entretener",
+	"participio" : [ "entretenido" ],
+	"gerundio" : [ "entreteniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "entretengo" ],
+			[ "entretienes", "entretenés" ],
+			[ "entretiene" ],
+			[ "entretenemos" ],
+			[ "entretenéis", "entretienen" ],
+			[ "entretienen" ]
+		],
+		"4" : [
+			[ "entretuve" ],
+			[ "entretuviste" ],
+			[ "entretuvo" ],
+			[ "entretuvimos" ],
+			[ "entretuvisteis", "entretuvieron" ],
+			[ "entretuvieron" ]
+		],
+		"5" : [
+			[ "entretenía" ],
+			[ "entretenías" ],
+			[ "entretenía" ],
+			[ "entreteníamos" ],
+			[ "entreteníais", "entretenían" ],
+			[ "entretenían" ]
+		],
+		"6" : [
+			[ "entretendría" ],
+			[ "entretendrías" ],
+			[ "entretendría" ],
+			[ "entretendríamos" ],
+			[ "entretendríais", "entretendrían" ],
+			[ "entretendrían" ]
+		],
+		"7" : [
+			[ "entretendré" ],
+			[ "entretendrás" ],
+			[ "entretendrá" ],
+			[ "entretendremos" ],
+			[ "entretendréis", "entretendrán" ],
+			[ "entretendrán" ]
+		],
+		"8" : [
+			[ "entretenga" ],
+			[ "entretengas" ],
+			[ "entretenga" ],
+			[ "entretengamos" ],
+			[ "entretengáis", "entretengan" ],
+			[ "entretengan" ]
+		],
+		"9" : [
+			[ "entretuviera" ],
+			[ "entretuvieras" ],
+			[ "entretuviera" ],
+			[ "entretuviéramos" ],
+			[ "entretuvierais", "entretuvieran" ],
+			[ "entretuvieran" ]
+		],
+		"10" : [
+			[ "entretuviese" ],
+			[ "entretuvieses" ],
+			[ "entretuviese" ],
+			[ "entretuviésemos" ],
+			[ "entretuvieseis", "entretuviesen" ],
+			[ "entretuviesen" ]
+		],
+		"11" : [
+			[ "entretuviere" ],
+			[ "entretuvieres" ],
+			[ "entretuviere" ],
+			[ "entretuviéremos" ],
+			[ "entretuviereis", "entretuvieren" ],
+			[ "entretuvieren" ]
+		],
+		"12" : {
+			"1" : [ "entretén" ],
+			"2" : [ "entretenga" ],
+			"3" : [ "entretengamos" ],
+			"4" : [ "entretened" ],
+			"5" : [ "entretengan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encamar",
+	"word" : "encamar",
+	"infinitivo" : "encamar",
+	"participio" : [ "encamado" ],
+	"gerundio" : [ "encamando" ],
+	"tenses" : {
+		"3" : [
+			[ "encamo" ],
+			[ "encamas", "encamás" ],
+			[ "encama" ],
+			[ "encamamos" ],
+			[ "encamáis", "encaman" ],
+			[ "encaman" ]
+		],
+		"4" : [
+			[ "encamé" ],
+			[ "encamaste" ],
+			[ "encamó" ],
+			[ "encamamos" ],
+			[ "encamasteis", "encamaron" ],
+			[ "encamaron" ]
+		],
+		"5" : [
+			[ "encamaba" ],
+			[ "encamabas" ],
+			[ "encamaba" ],
+			[ "encamábamos" ],
+			[ "encamabais", "encamaban" ],
+			[ "encamaban" ]
+		],
+		"6" : [
+			[ "encamaría" ],
+			[ "encamarías" ],
+			[ "encamaría" ],
+			[ "encamaríamos" ],
+			[ "encamaríais", "encamarían" ],
+			[ "encamarían" ]
+		],
+		"7" : [
+			[ "encamaré" ],
+			[ "encamarás" ],
+			[ "encamará" ],
+			[ "encamaremos" ],
+			[ "encamaréis", "encamarán" ],
+			[ "encamarán" ]
+		],
+		"8" : [
+			[ "encame" ],
+			[ "encames" ],
+			[ "encame" ],
+			[ "encamemos" ],
+			[ "encaméis", "encamen" ],
+			[ "encamen" ]
+		],
+		"9" : [
+			[ "encamara" ],
+			[ "encamaras" ],
+			[ "encamara" ],
+			[ "encamáramos" ],
+			[ "encamarais", "encamaran" ],
+			[ "encamaran" ]
+		],
+		"10" : [
+			[ "encamase" ],
+			[ "encamases" ],
+			[ "encamase" ],
+			[ "encamásemos" ],
+			[ "encamaseis", "encamasen" ],
+			[ "encamasen" ]
+		],
+		"11" : [
+			[ "encamare" ],
+			[ "encamares" ],
+			[ "encamare" ],
+			[ "encamáremos" ],
+			[ "encamareis", "encamaren" ],
+			[ "encamaren" ]
+		],
+		"12" : {
+			"1" : [ "encama" ],
+			"2" : [ "encame" ],
+			"3" : [ "encamemos" ],
+			"4" : [ "encamad" ],
+			"5" : [ "encamen" ]
+		}
+	}
+}

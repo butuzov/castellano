@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=respingar",
+	"word" : "respingar",
+	"infinitivo" : "respingar",
+	"participio" : [ "respingado" ],
+	"gerundio" : [ "respingando" ],
+	"tenses" : {
+		"3" : [
+			[ "respingo" ],
+			[ "respingas", "respingás" ],
+			[ "respinga" ],
+			[ "respingamos" ],
+			[ "respingáis", "respingan" ],
+			[ "respingan" ]
+		],
+		"4" : [
+			[ "respingué" ],
+			[ "respingaste" ],
+			[ "respingó" ],
+			[ "respingamos" ],
+			[ "respingasteis", "respingaron" ],
+			[ "respingaron" ]
+		],
+		"5" : [
+			[ "respingaba" ],
+			[ "respingabas" ],
+			[ "respingaba" ],
+			[ "respingábamos" ],
+			[ "respingabais", "respingaban" ],
+			[ "respingaban" ]
+		],
+		"6" : [
+			[ "respingaría" ],
+			[ "respingarías" ],
+			[ "respingaría" ],
+			[ "respingaríamos" ],
+			[ "respingaríais", "respingarían" ],
+			[ "respingarían" ]
+		],
+		"7" : [
+			[ "respingaré" ],
+			[ "respingarás" ],
+			[ "respingará" ],
+			[ "respingaremos" ],
+			[ "respingaréis", "respingarán" ],
+			[ "respingarán" ]
+		],
+		"8" : [
+			[ "respingue" ],
+			[ "respingues" ],
+			[ "respingue" ],
+			[ "respinguemos" ],
+			[ "respinguéis", "respinguen" ],
+			[ "respinguen" ]
+		],
+		"9" : [
+			[ "respingara" ],
+			[ "respingaras" ],
+			[ "respingara" ],
+			[ "respingáramos" ],
+			[ "respingarais", "respingaran" ],
+			[ "respingaran" ]
+		],
+		"10" : [
+			[ "respingase" ],
+			[ "respingases" ],
+			[ "respingase" ],
+			[ "respingásemos" ],
+			[ "respingaseis", "respingasen" ],
+			[ "respingasen" ]
+		],
+		"11" : [
+			[ "respingare" ],
+			[ "respingares" ],
+			[ "respingare" ],
+			[ "respingáremos" ],
+			[ "respingareis", "respingaren" ],
+			[ "respingaren" ]
+		],
+		"12" : {
+			"1" : [ "respinga" ],
+			"2" : [ "respingue" ],
+			"3" : [ "respinguemos" ],
+			"4" : [ "respingad" ],
+			"5" : [ "respinguen" ]
+		}
+	}
+}

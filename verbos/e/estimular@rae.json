@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estimular",
+	"word" : "estimular",
+	"infinitivo" : "estimular",
+	"participio" : [ "estimulado" ],
+	"gerundio" : [ "estimulando" ],
+	"tenses" : {
+		"3" : [
+			[ "estimulo" ],
+			[ "estimulas", "estimulás" ],
+			[ "estimula" ],
+			[ "estimulamos" ],
+			[ "estimuláis", "estimulan" ],
+			[ "estimulan" ]
+		],
+		"4" : [
+			[ "estimulé" ],
+			[ "estimulaste" ],
+			[ "estimuló" ],
+			[ "estimulamos" ],
+			[ "estimulasteis", "estimularon" ],
+			[ "estimularon" ]
+		],
+		"5" : [
+			[ "estimulaba" ],
+			[ "estimulabas" ],
+			[ "estimulaba" ],
+			[ "estimulábamos" ],
+			[ "estimulabais", "estimulaban" ],
+			[ "estimulaban" ]
+		],
+		"6" : [
+			[ "estimularía" ],
+			[ "estimularías" ],
+			[ "estimularía" ],
+			[ "estimularíamos" ],
+			[ "estimularíais", "estimularían" ],
+			[ "estimularían" ]
+		],
+		"7" : [
+			[ "estimularé" ],
+			[ "estimularás" ],
+			[ "estimulará" ],
+			[ "estimularemos" ],
+			[ "estimularéis", "estimularán" ],
+			[ "estimularán" ]
+		],
+		"8" : [
+			[ "estimule" ],
+			[ "estimules" ],
+			[ "estimule" ],
+			[ "estimulemos" ],
+			[ "estimuléis", "estimulen" ],
+			[ "estimulen" ]
+		],
+		"9" : [
+			[ "estimulara" ],
+			[ "estimularas" ],
+			[ "estimulara" ],
+			[ "estimuláramos" ],
+			[ "estimularais", "estimularan" ],
+			[ "estimularan" ]
+		],
+		"10" : [
+			[ "estimulase" ],
+			[ "estimulases" ],
+			[ "estimulase" ],
+			[ "estimulásemos" ],
+			[ "estimulaseis", "estimulasen" ],
+			[ "estimulasen" ]
+		],
+		"11" : [
+			[ "estimulare" ],
+			[ "estimulares" ],
+			[ "estimulare" ],
+			[ "estimuláremos" ],
+			[ "estimulareis", "estimularen" ],
+			[ "estimularen" ]
+		],
+		"12" : {
+			"1" : [ "estimula" ],
+			"2" : [ "estimule" ],
+			"3" : [ "estimulemos" ],
+			"4" : [ "estimulad" ],
+			"5" : [ "estimulen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=templar",
+	"word" : "templar",
+	"infinitivo" : "templar",
+	"participio" : [ "templado" ],
+	"gerundio" : [ "templando" ],
+	"tenses" : {
+		"3" : [
+			[ "tiemplo", "templo" ],
+			[ "tiemplas", "templas", "templás" ],
+			[ "tiempla", "templa" ],
+			[ "templamos" ],
+			[ "templáis", "tiemplan", "templan" ],
+			[ "tiemplan", "templan" ]
+		],
+		"4" : [
+			[ "templé" ],
+			[ "templaste" ],
+			[ "templó" ],
+			[ "templamos" ],
+			[ "templasteis", "templaron" ],
+			[ "templaron" ]
+		],
+		"5" : [
+			[ "templaba" ],
+			[ "templabas" ],
+			[ "templaba" ],
+			[ "templábamos" ],
+			[ "templabais", "templaban" ],
+			[ "templaban" ]
+		],
+		"6" : [
+			[ "templaría" ],
+			[ "templarías" ],
+			[ "templaría" ],
+			[ "templaríamos" ],
+			[ "templaríais", "templarían" ],
+			[ "templarían" ]
+		],
+		"7" : [
+			[ "templaré" ],
+			[ "templarás" ],
+			[ "templará" ],
+			[ "templaremos" ],
+			[ "templaréis", "templarán" ],
+			[ "templarán" ]
+		],
+		"8" : [
+			[ "tiemple", "temple" ],
+			[ "tiemples", "temples" ],
+			[ "tiemple", "temple" ],
+			[ "templemos" ],
+			[ "templéis", "tiemplen", "templen" ],
+			[ "tiemplen", "templen" ]
+		],
+		"9" : [
+			[ "templara" ],
+			[ "templaras" ],
+			[ "templara" ],
+			[ "templáramos" ],
+			[ "templarais", "templaran" ],
+			[ "templaran" ]
+		],
+		"10" : [
+			[ "templase" ],
+			[ "templases" ],
+			[ "templase" ],
+			[ "templásemos" ],
+			[ "templaseis", "templasen" ],
+			[ "templasen" ]
+		],
+		"11" : [
+			[ "templare" ],
+			[ "templares" ],
+			[ "templare" ],
+			[ "templáremos" ],
+			[ "templareis", "templaren" ],
+			[ "templaren" ]
+		],
+		"12" : {
+			"1" : [ "tiempla", "templa" ],
+			"2" : [ "tiemple", "temple" ],
+			"3" : [ "templemos" ],
+			"4" : [ "templad" ],
+			"5" : [ "tiemplen", "templen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entretejer",
+	"word" : "entretejer",
+	"infinitivo" : "entretejer",
+	"participio" : [ "entretejido" ],
+	"gerundio" : [ "entretejiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "entretejo" ],
+			[ "entretejes", "entretejés" ],
+			[ "entreteje" ],
+			[ "entretejemos" ],
+			[ "entretejéis", "entretejen" ],
+			[ "entretejen" ]
+		],
+		"4" : [
+			[ "entretejí" ],
+			[ "entretejiste" ],
+			[ "entretejió" ],
+			[ "entretejimos" ],
+			[ "entretejisteis", "entretejieron" ],
+			[ "entretejieron" ]
+		],
+		"5" : [
+			[ "entretejía" ],
+			[ "entretejías" ],
+			[ "entretejía" ],
+			[ "entretejíamos" ],
+			[ "entretejíais", "entretejían" ],
+			[ "entretejían" ]
+		],
+		"6" : [
+			[ "entretejería" ],
+			[ "entretejerías" ],
+			[ "entretejería" ],
+			[ "entretejeríamos" ],
+			[ "entretejeríais", "entretejerían" ],
+			[ "entretejerían" ]
+		],
+		"7" : [
+			[ "entretejeré" ],
+			[ "entretejerás" ],
+			[ "entretejerá" ],
+			[ "entretejeremos" ],
+			[ "entretejeréis", "entretejerán" ],
+			[ "entretejerán" ]
+		],
+		"8" : [
+			[ "entreteja" ],
+			[ "entretejas" ],
+			[ "entreteja" ],
+			[ "entretejamos" ],
+			[ "entretejáis", "entretejan" ],
+			[ "entretejan" ]
+		],
+		"9" : [
+			[ "entretejiera" ],
+			[ "entretejieras" ],
+			[ "entretejiera" ],
+			[ "entretejiéramos" ],
+			[ "entretejierais", "entretejieran" ],
+			[ "entretejieran" ]
+		],
+		"10" : [
+			[ "entretejiese" ],
+			[ "entretejieses" ],
+			[ "entretejiese" ],
+			[ "entretejiésemos" ],
+			[ "entretejieseis", "entretejiesen" ],
+			[ "entretejiesen" ]
+		],
+		"11" : [
+			[ "entretejiere" ],
+			[ "entretejieres" ],
+			[ "entretejiere" ],
+			[ "entretejiéremos" ],
+			[ "entretejiereis", "entretejieren" ],
+			[ "entretejieren" ]
+		],
+		"12" : {
+			"1" : [ "entreteje" ],
+			"2" : [ "entreteja" ],
+			"3" : [ "entretejamos" ],
+			"4" : [ "entretejed" ],
+			"5" : [ "entretejan" ]
+		}
+	}
+}

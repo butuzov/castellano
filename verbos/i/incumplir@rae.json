@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incumplir",
+	"word" : "incumplir",
+	"infinitivo" : "incumplir",
+	"participio" : [ "incumplido" ],
+	"gerundio" : [ "incumpliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "incumplo" ],
+			[ "incumples", "incumplís" ],
+			[ "incumple" ],
+			[ "incumplimos" ],
+			[ "incumplís", "incumplen" ],
+			[ "incumplen" ]
+		],
+		"4" : [
+			[ "incumplí" ],
+			[ "incumpliste" ],
+			[ "incumplió" ],
+			[ "incumplimos" ],
+			[ "incumplisteis", "incumplieron" ],
+			[ "incumplieron" ]
+		],
+		"5" : [
+			[ "incumplía" ],
+			[ "incumplías" ],
+			[ "incumplía" ],
+			[ "incumplíamos" ],
+			[ "incumplíais", "incumplían" ],
+			[ "incumplían" ]
+		],
+		"6" : [
+			[ "incumpliría" ],
+			[ "incumplirías" ],
+			[ "incumpliría" ],
+			[ "incumpliríamos" ],
+			[ "incumpliríais", "incumplirían" ],
+			[ "incumplirían" ]
+		],
+		"7" : [
+			[ "incumpliré" ],
+			[ "incumplirás" ],
+			[ "incumplirá" ],
+			[ "incumpliremos" ],
+			[ "incumpliréis", "incumplirán" ],
+			[ "incumplirán" ]
+		],
+		"8" : [
+			[ "incumpla" ],
+			[ "incumplas" ],
+			[ "incumpla" ],
+			[ "incumplamos" ],
+			[ "incumpláis", "incumplan" ],
+			[ "incumplan" ]
+		],
+		"9" : [
+			[ "incumpliera" ],
+			[ "incumplieras" ],
+			[ "incumpliera" ],
+			[ "incumpliéramos" ],
+			[ "incumplierais", "incumplieran" ],
+			[ "incumplieran" ]
+		],
+		"10" : [
+			[ "incumpliese" ],
+			[ "incumplieses" ],
+			[ "incumpliese" ],
+			[ "incumpliésemos" ],
+			[ "incumplieseis", "incumpliesen" ],
+			[ "incumpliesen" ]
+		],
+		"11" : [
+			[ "incumpliere" ],
+			[ "incumplieres" ],
+			[ "incumpliere" ],
+			[ "incumpliéremos" ],
+			[ "incumpliereis", "incumplieren" ],
+			[ "incumplieren" ]
+		],
+		"12" : {
+			"1" : [ "incumple" ],
+			"2" : [ "incumpla" ],
+			"3" : [ "incumplamos" ],
+			"4" : [ "incumplid" ],
+			"5" : [ "incumplan" ]
+		}
+	}
+}

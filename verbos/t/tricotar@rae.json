@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tricotar",
+	"word" : "tricotar",
+	"infinitivo" : "tricotar",
+	"participio" : [ "tricotado" ],
+	"gerundio" : [ "tricotando" ],
+	"tenses" : {
+		"3" : [
+			[ "tricoto" ],
+			[ "tricotas", "tricotás" ],
+			[ "tricota" ],
+			[ "tricotamos" ],
+			[ "tricotáis", "tricotan" ],
+			[ "tricotan" ]
+		],
+		"4" : [
+			[ "tricoté" ],
+			[ "tricotaste" ],
+			[ "tricotó" ],
+			[ "tricotamos" ],
+			[ "tricotasteis", "tricotaron" ],
+			[ "tricotaron" ]
+		],
+		"5" : [
+			[ "tricotaba" ],
+			[ "tricotabas" ],
+			[ "tricotaba" ],
+			[ "tricotábamos" ],
+			[ "tricotabais", "tricotaban" ],
+			[ "tricotaban" ]
+		],
+		"6" : [
+			[ "tricotaría" ],
+			[ "tricotarías" ],
+			[ "tricotaría" ],
+			[ "tricotaríamos" ],
+			[ "tricotaríais", "tricotarían" ],
+			[ "tricotarían" ]
+		],
+		"7" : [
+			[ "tricotaré" ],
+			[ "tricotarás" ],
+			[ "tricotará" ],
+			[ "tricotaremos" ],
+			[ "tricotaréis", "tricotarán" ],
+			[ "tricotarán" ]
+		],
+		"8" : [
+			[ "tricote" ],
+			[ "tricotes" ],
+			[ "tricote" ],
+			[ "tricotemos" ],
+			[ "tricotéis", "tricoten" ],
+			[ "tricoten" ]
+		],
+		"9" : [
+			[ "tricotara" ],
+			[ "tricotaras" ],
+			[ "tricotara" ],
+			[ "tricotáramos" ],
+			[ "tricotarais", "tricotaran" ],
+			[ "tricotaran" ]
+		],
+		"10" : [
+			[ "tricotase" ],
+			[ "tricotases" ],
+			[ "tricotase" ],
+			[ "tricotásemos" ],
+			[ "tricotaseis", "tricotasen" ],
+			[ "tricotasen" ]
+		],
+		"11" : [
+			[ "tricotare" ],
+			[ "tricotares" ],
+			[ "tricotare" ],
+			[ "tricotáremos" ],
+			[ "tricotareis", "tricotaren" ],
+			[ "tricotaren" ]
+		],
+		"12" : {
+			"1" : [ "tricota" ],
+			"2" : [ "tricote" ],
+			"3" : [ "tricotemos" ],
+			"4" : [ "tricotad" ],
+			"5" : [ "tricoten" ]
+		}
+	}
+}

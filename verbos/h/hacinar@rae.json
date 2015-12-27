@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hacinar",
+	"word" : "hacinar",
+	"infinitivo" : "hacinar",
+	"participio" : [ "hacinado" ],
+	"gerundio" : [ "hacinando" ],
+	"tenses" : {
+		"3" : [
+			[ "hacino" ],
+			[ "hacinas", "hacinás" ],
+			[ "hacina" ],
+			[ "hacinamos" ],
+			[ "hacináis", "hacinan" ],
+			[ "hacinan" ]
+		],
+		"4" : [
+			[ "haciné" ],
+			[ "hacinaste" ],
+			[ "hacinó" ],
+			[ "hacinamos" ],
+			[ "hacinasteis", "hacinaron" ],
+			[ "hacinaron" ]
+		],
+		"5" : [
+			[ "hacinaba" ],
+			[ "hacinabas" ],
+			[ "hacinaba" ],
+			[ "hacinábamos" ],
+			[ "hacinabais", "hacinaban" ],
+			[ "hacinaban" ]
+		],
+		"6" : [
+			[ "hacinaría" ],
+			[ "hacinarías" ],
+			[ "hacinaría" ],
+			[ "hacinaríamos" ],
+			[ "hacinaríais", "hacinarían" ],
+			[ "hacinarían" ]
+		],
+		"7" : [
+			[ "hacinaré" ],
+			[ "hacinarás" ],
+			[ "hacinará" ],
+			[ "hacinaremos" ],
+			[ "hacinaréis", "hacinarán" ],
+			[ "hacinarán" ]
+		],
+		"8" : [
+			[ "hacine" ],
+			[ "hacines" ],
+			[ "hacine" ],
+			[ "hacinemos" ],
+			[ "hacinéis", "hacinen" ],
+			[ "hacinen" ]
+		],
+		"9" : [
+			[ "hacinara" ],
+			[ "hacinaras" ],
+			[ "hacinara" ],
+			[ "hacináramos" ],
+			[ "hacinarais", "hacinaran" ],
+			[ "hacinaran" ]
+		],
+		"10" : [
+			[ "hacinase" ],
+			[ "hacinases" ],
+			[ "hacinase" ],
+			[ "hacinásemos" ],
+			[ "hacinaseis", "hacinasen" ],
+			[ "hacinasen" ]
+		],
+		"11" : [
+			[ "hacinare" ],
+			[ "hacinares" ],
+			[ "hacinare" ],
+			[ "hacináremos" ],
+			[ "hacinareis", "hacinaren" ],
+			[ "hacinaren" ]
+		],
+		"12" : {
+			"1" : [ "hacina" ],
+			"2" : [ "hacine" ],
+			"3" : [ "hacinemos" ],
+			"4" : [ "hacinad" ],
+			"5" : [ "hacinen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=brincar",
+	"word" : "brincar",
+	"infinitivo" : "brincar",
+	"participio" : [ "brincado" ],
+	"gerundio" : [ "brincando" ],
+	"tenses" : {
+		"3" : [
+			[ "brinco" ],
+			[ "brincas", "brincás" ],
+			[ "brinca" ],
+			[ "brincamos" ],
+			[ "brincáis", "brincan" ],
+			[ "brincan" ]
+		],
+		"4" : [
+			[ "brinqué" ],
+			[ "brincaste" ],
+			[ "brincó" ],
+			[ "brincamos" ],
+			[ "brincasteis", "brincaron" ],
+			[ "brincaron" ]
+		],
+		"5" : [
+			[ "brincaba" ],
+			[ "brincabas" ],
+			[ "brincaba" ],
+			[ "brincábamos" ],
+			[ "brincabais", "brincaban" ],
+			[ "brincaban" ]
+		],
+		"6" : [
+			[ "brincaría" ],
+			[ "brincarías" ],
+			[ "brincaría" ],
+			[ "brincaríamos" ],
+			[ "brincaríais", "brincarían" ],
+			[ "brincarían" ]
+		],
+		"7" : [
+			[ "brincaré" ],
+			[ "brincarás" ],
+			[ "brincará" ],
+			[ "brincaremos" ],
+			[ "brincaréis", "brincarán" ],
+			[ "brincarán" ]
+		],
+		"8" : [
+			[ "brinque" ],
+			[ "brinques" ],
+			[ "brinque" ],
+			[ "brinquemos" ],
+			[ "brinquéis", "brinquen" ],
+			[ "brinquen" ]
+		],
+		"9" : [
+			[ "brincara" ],
+			[ "brincaras" ],
+			[ "brincara" ],
+			[ "brincáramos" ],
+			[ "brincarais", "brincaran" ],
+			[ "brincaran" ]
+		],
+		"10" : [
+			[ "brincase" ],
+			[ "brincases" ],
+			[ "brincase" ],
+			[ "brincásemos" ],
+			[ "brincaseis", "brincasen" ],
+			[ "brincasen" ]
+		],
+		"11" : [
+			[ "brincare" ],
+			[ "brincares" ],
+			[ "brincare" ],
+			[ "brincáremos" ],
+			[ "brincareis", "brincaren" ],
+			[ "brincaren" ]
+		],
+		"12" : {
+			"1" : [ "brinca" ],
+			"2" : [ "brinque" ],
+			"3" : [ "brinquemos" ],
+			"4" : [ "brincad" ],
+			"5" : [ "brinquen" ]
+		}
+	}
+}

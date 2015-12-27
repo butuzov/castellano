@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mimar",
+	"word" : "mimar",
+	"infinitivo" : "mimar",
+	"participio" : [ "mimado" ],
+	"gerundio" : [ "mimando" ],
+	"tenses" : {
+		"3" : [
+			[ "mimo" ],
+			[ "mimas", "mimás" ],
+			[ "mima" ],
+			[ "mimamos" ],
+			[ "mimáis", "miman" ],
+			[ "miman" ]
+		],
+		"4" : [
+			[ "mimé" ],
+			[ "mimaste" ],
+			[ "mimó" ],
+			[ "mimamos" ],
+			[ "mimasteis", "mimaron" ],
+			[ "mimaron" ]
+		],
+		"5" : [
+			[ "mimaba" ],
+			[ "mimabas" ],
+			[ "mimaba" ],
+			[ "mimábamos" ],
+			[ "mimabais", "mimaban" ],
+			[ "mimaban" ]
+		],
+		"6" : [
+			[ "mimaría" ],
+			[ "mimarías" ],
+			[ "mimaría" ],
+			[ "mimaríamos" ],
+			[ "mimaríais", "mimarían" ],
+			[ "mimarían" ]
+		],
+		"7" : [
+			[ "mimaré" ],
+			[ "mimarás" ],
+			[ "mimará" ],
+			[ "mimaremos" ],
+			[ "mimaréis", "mimarán" ],
+			[ "mimarán" ]
+		],
+		"8" : [
+			[ "mime" ],
+			[ "mimes" ],
+			[ "mime" ],
+			[ "mimemos" ],
+			[ "miméis", "mimen" ],
+			[ "mimen" ]
+		],
+		"9" : [
+			[ "mimara" ],
+			[ "mimaras" ],
+			[ "mimara" ],
+			[ "mimáramos" ],
+			[ "mimarais", "mimaran" ],
+			[ "mimaran" ]
+		],
+		"10" : [
+			[ "mimase" ],
+			[ "mimases" ],
+			[ "mimase" ],
+			[ "mimásemos" ],
+			[ "mimaseis", "mimasen" ],
+			[ "mimasen" ]
+		],
+		"11" : [
+			[ "mimare" ],
+			[ "mimares" ],
+			[ "mimare" ],
+			[ "mimáremos" ],
+			[ "mimareis", "mimaren" ],
+			[ "mimaren" ]
+		],
+		"12" : {
+			"1" : [ "mima" ],
+			"2" : [ "mime" ],
+			"3" : [ "mimemos" ],
+			"4" : [ "mimad" ],
+			"5" : [ "mimen" ]
+		}
+	}
+}

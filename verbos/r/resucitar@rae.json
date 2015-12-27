@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resucitar",
+	"word" : "resucitar",
+	"infinitivo" : "resucitar",
+	"participio" : [ "resucitado" ],
+	"gerundio" : [ "resucitando" ],
+	"tenses" : {
+		"3" : [
+			[ "resucito" ],
+			[ "resucitas", "resucitás" ],
+			[ "resucita" ],
+			[ "resucitamos" ],
+			[ "resucitáis", "resucitan" ],
+			[ "resucitan" ]
+		],
+		"4" : [
+			[ "resucité" ],
+			[ "resucitaste" ],
+			[ "resucitó" ],
+			[ "resucitamos" ],
+			[ "resucitasteis", "resucitaron" ],
+			[ "resucitaron" ]
+		],
+		"5" : [
+			[ "resucitaba" ],
+			[ "resucitabas" ],
+			[ "resucitaba" ],
+			[ "resucitábamos" ],
+			[ "resucitabais", "resucitaban" ],
+			[ "resucitaban" ]
+		],
+		"6" : [
+			[ "resucitaría" ],
+			[ "resucitarías" ],
+			[ "resucitaría" ],
+			[ "resucitaríamos" ],
+			[ "resucitaríais", "resucitarían" ],
+			[ "resucitarían" ]
+		],
+		"7" : [
+			[ "resucitaré" ],
+			[ "resucitarás" ],
+			[ "resucitará" ],
+			[ "resucitaremos" ],
+			[ "resucitaréis", "resucitarán" ],
+			[ "resucitarán" ]
+		],
+		"8" : [
+			[ "resucite" ],
+			[ "resucites" ],
+			[ "resucite" ],
+			[ "resucitemos" ],
+			[ "resucitéis", "resuciten" ],
+			[ "resuciten" ]
+		],
+		"9" : [
+			[ "resucitara" ],
+			[ "resucitaras" ],
+			[ "resucitara" ],
+			[ "resucitáramos" ],
+			[ "resucitarais", "resucitaran" ],
+			[ "resucitaran" ]
+		],
+		"10" : [
+			[ "resucitase" ],
+			[ "resucitases" ],
+			[ "resucitase" ],
+			[ "resucitásemos" ],
+			[ "resucitaseis", "resucitasen" ],
+			[ "resucitasen" ]
+		],
+		"11" : [
+			[ "resucitare" ],
+			[ "resucitares" ],
+			[ "resucitare" ],
+			[ "resucitáremos" ],
+			[ "resucitareis", "resucitaren" ],
+			[ "resucitaren" ]
+		],
+		"12" : {
+			"1" : [ "resucita" ],
+			"2" : [ "resucite" ],
+			"3" : [ "resucitemos" ],
+			"4" : [ "resucitad" ],
+			"5" : [ "resuciten" ]
+		}
+	}
+}

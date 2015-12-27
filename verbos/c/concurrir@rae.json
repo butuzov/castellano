@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=concurrir",
+	"word" : "concurrir",
+	"infinitivo" : "concurrir",
+	"participio" : [ "concurrido" ],
+	"gerundio" : [ "concurriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "concurro" ],
+			[ "concurres", "concurrís" ],
+			[ "concurre" ],
+			[ "concurrimos" ],
+			[ "concurrís", "concurren" ],
+			[ "concurren" ]
+		],
+		"4" : [
+			[ "concurrí" ],
+			[ "concurriste" ],
+			[ "concurrió" ],
+			[ "concurrimos" ],
+			[ "concurristeis", "concurrieron" ],
+			[ "concurrieron" ]
+		],
+		"5" : [
+			[ "concurría" ],
+			[ "concurrías" ],
+			[ "concurría" ],
+			[ "concurríamos" ],
+			[ "concurríais", "concurrían" ],
+			[ "concurrían" ]
+		],
+		"6" : [
+			[ "concurriría" ],
+			[ "concurrirías" ],
+			[ "concurriría" ],
+			[ "concurriríamos" ],
+			[ "concurriríais", "concurrirían" ],
+			[ "concurrirían" ]
+		],
+		"7" : [
+			[ "concurriré" ],
+			[ "concurrirás" ],
+			[ "concurrirá" ],
+			[ "concurriremos" ],
+			[ "concurriréis", "concurrirán" ],
+			[ "concurrirán" ]
+		],
+		"8" : [
+			[ "concurra" ],
+			[ "concurras" ],
+			[ "concurra" ],
+			[ "concurramos" ],
+			[ "concurráis", "concurran" ],
+			[ "concurran" ]
+		],
+		"9" : [
+			[ "concurriera" ],
+			[ "concurrieras" ],
+			[ "concurriera" ],
+			[ "concurriéramos" ],
+			[ "concurrierais", "concurrieran" ],
+			[ "concurrieran" ]
+		],
+		"10" : [
+			[ "concurriese" ],
+			[ "concurrieses" ],
+			[ "concurriese" ],
+			[ "concurriésemos" ],
+			[ "concurrieseis", "concurriesen" ],
+			[ "concurriesen" ]
+		],
+		"11" : [
+			[ "concurriere" ],
+			[ "concurrieres" ],
+			[ "concurriere" ],
+			[ "concurriéremos" ],
+			[ "concurriereis", "concurrieren" ],
+			[ "concurrieren" ]
+		],
+		"12" : {
+			"1" : [ "concurre" ],
+			"2" : [ "concurra" ],
+			"3" : [ "concurramos" ],
+			"4" : [ "concurrid" ],
+			"5" : [ "concurran" ]
+		}
+	}
+}

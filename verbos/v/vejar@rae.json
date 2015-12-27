@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vejar",
+	"word" : "vejar",
+	"infinitivo" : "vejar",
+	"participio" : [ "vejado" ],
+	"gerundio" : [ "vejando" ],
+	"tenses" : {
+		"3" : [
+			[ "vejo" ],
+			[ "vejas", "vejás" ],
+			[ "veja" ],
+			[ "vejamos" ],
+			[ "vejáis", "vejan" ],
+			[ "vejan" ]
+		],
+		"4" : [
+			[ "vejé" ],
+			[ "vejaste" ],
+			[ "vejó" ],
+			[ "vejamos" ],
+			[ "vejasteis", "vejaron" ],
+			[ "vejaron" ]
+		],
+		"5" : [
+			[ "vejaba" ],
+			[ "vejabas" ],
+			[ "vejaba" ],
+			[ "vejábamos" ],
+			[ "vejabais", "vejaban" ],
+			[ "vejaban" ]
+		],
+		"6" : [
+			[ "vejaría" ],
+			[ "vejarías" ],
+			[ "vejaría" ],
+			[ "vejaríamos" ],
+			[ "vejaríais", "vejarían" ],
+			[ "vejarían" ]
+		],
+		"7" : [
+			[ "vejaré" ],
+			[ "vejarás" ],
+			[ "vejará" ],
+			[ "vejaremos" ],
+			[ "vejaréis", "vejarán" ],
+			[ "vejarán" ]
+		],
+		"8" : [
+			[ "veje" ],
+			[ "vejes" ],
+			[ "veje" ],
+			[ "vejemos" ],
+			[ "vejéis", "vejen" ],
+			[ "vejen" ]
+		],
+		"9" : [
+			[ "vejara" ],
+			[ "vejaras" ],
+			[ "vejara" ],
+			[ "vejáramos" ],
+			[ "vejarais", "vejaran" ],
+			[ "vejaran" ]
+		],
+		"10" : [
+			[ "vejase" ],
+			[ "vejases" ],
+			[ "vejase" ],
+			[ "vejásemos" ],
+			[ "vejaseis", "vejasen" ],
+			[ "vejasen" ]
+		],
+		"11" : [
+			[ "vejare" ],
+			[ "vejares" ],
+			[ "vejare" ],
+			[ "vejáremos" ],
+			[ "vejareis", "vejaren" ],
+			[ "vejaren" ]
+		],
+		"12" : {
+			"1" : [ "veja" ],
+			"2" : [ "veje" ],
+			"3" : [ "vejemos" ],
+			"4" : [ "vejad" ],
+			"5" : [ "vejen" ]
+		}
+	}
+}

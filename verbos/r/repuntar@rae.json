@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repuntar",
+	"word" : "repuntar",
+	"infinitivo" : "repuntar",
+	"participio" : [ "repuntado" ],
+	"gerundio" : [ "repuntando" ],
+	"tenses" : {
+		"3" : [
+			[ "repunto" ],
+			[ "repuntas", "repuntás" ],
+			[ "repunta" ],
+			[ "repuntamos" ],
+			[ "repuntáis", "repuntan" ],
+			[ "repuntan" ]
+		],
+		"4" : [
+			[ "repunté" ],
+			[ "repuntaste" ],
+			[ "repuntó" ],
+			[ "repuntamos" ],
+			[ "repuntasteis", "repuntaron" ],
+			[ "repuntaron" ]
+		],
+		"5" : [
+			[ "repuntaba" ],
+			[ "repuntabas" ],
+			[ "repuntaba" ],
+			[ "repuntábamos" ],
+			[ "repuntabais", "repuntaban" ],
+			[ "repuntaban" ]
+		],
+		"6" : [
+			[ "repuntaría" ],
+			[ "repuntarías" ],
+			[ "repuntaría" ],
+			[ "repuntaríamos" ],
+			[ "repuntaríais", "repuntarían" ],
+			[ "repuntarían" ]
+		],
+		"7" : [
+			[ "repuntaré" ],
+			[ "repuntarás" ],
+			[ "repuntará" ],
+			[ "repuntaremos" ],
+			[ "repuntaréis", "repuntarán" ],
+			[ "repuntarán" ]
+		],
+		"8" : [
+			[ "repunte" ],
+			[ "repuntes" ],
+			[ "repunte" ],
+			[ "repuntemos" ],
+			[ "repuntéis", "repunten" ],
+			[ "repunten" ]
+		],
+		"9" : [
+			[ "repuntara" ],
+			[ "repuntaras" ],
+			[ "repuntara" ],
+			[ "repuntáramos" ],
+			[ "repuntarais", "repuntaran" ],
+			[ "repuntaran" ]
+		],
+		"10" : [
+			[ "repuntase" ],
+			[ "repuntases" ],
+			[ "repuntase" ],
+			[ "repuntásemos" ],
+			[ "repuntaseis", "repuntasen" ],
+			[ "repuntasen" ]
+		],
+		"11" : [
+			[ "repuntare" ],
+			[ "repuntares" ],
+			[ "repuntare" ],
+			[ "repuntáremos" ],
+			[ "repuntareis", "repuntaren" ],
+			[ "repuntaren" ]
+		],
+		"12" : {
+			"1" : [ "repunta" ],
+			"2" : [ "repunte" ],
+			"3" : [ "repuntemos" ],
+			"4" : [ "repuntad" ],
+			"5" : [ "repunten" ]
+		}
+	}
+}

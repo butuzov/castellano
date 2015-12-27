@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pulir",
+	"word" : "pulir",
+	"infinitivo" : "pulir",
+	"participio" : [ "pulido" ],
+	"gerundio" : [ "puliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "pulo" ],
+			[ "pules", "pulís" ],
+			[ "pule" ],
+			[ "pulimos" ],
+			[ "pulís", "pulen" ],
+			[ "pulen" ]
+		],
+		"4" : [
+			[ "pulí" ],
+			[ "puliste" ],
+			[ "pulió" ],
+			[ "pulimos" ],
+			[ "pulisteis", "pulieron" ],
+			[ "pulieron" ]
+		],
+		"5" : [
+			[ "pulía" ],
+			[ "pulías" ],
+			[ "pulía" ],
+			[ "pulíamos" ],
+			[ "pulíais", "pulían" ],
+			[ "pulían" ]
+		],
+		"6" : [
+			[ "puliría" ],
+			[ "pulirías" ],
+			[ "puliría" ],
+			[ "puliríamos" ],
+			[ "puliríais", "pulirían" ],
+			[ "pulirían" ]
+		],
+		"7" : [
+			[ "puliré" ],
+			[ "pulirás" ],
+			[ "pulirá" ],
+			[ "puliremos" ],
+			[ "puliréis", "pulirán" ],
+			[ "pulirán" ]
+		],
+		"8" : [
+			[ "pula" ],
+			[ "pulas" ],
+			[ "pula" ],
+			[ "pulamos" ],
+			[ "puláis", "pulan" ],
+			[ "pulan" ]
+		],
+		"9" : [
+			[ "puliera" ],
+			[ "pulieras" ],
+			[ "puliera" ],
+			[ "puliéramos" ],
+			[ "pulierais", "pulieran" ],
+			[ "pulieran" ]
+		],
+		"10" : [
+			[ "puliese" ],
+			[ "pulieses" ],
+			[ "puliese" ],
+			[ "puliésemos" ],
+			[ "pulieseis", "puliesen" ],
+			[ "puliesen" ]
+		],
+		"11" : [
+			[ "puliere" ],
+			[ "pulieres" ],
+			[ "puliere" ],
+			[ "puliéremos" ],
+			[ "puliereis", "pulieren" ],
+			[ "pulieren" ]
+		],
+		"12" : {
+			"1" : [ "pule" ],
+			"2" : [ "pula" ],
+			"3" : [ "pulamos" ],
+			"4" : [ "pulid" ],
+			"5" : [ "pulan" ]
+		}
+	}
+}

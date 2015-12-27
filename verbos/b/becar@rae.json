@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=becar",
+	"word" : "becar",
+	"infinitivo" : "becar",
+	"participio" : [ "becado" ],
+	"gerundio" : [ "becando" ],
+	"tenses" : {
+		"3" : [
+			[ "beco" ],
+			[ "becas", "becás" ],
+			[ "beca" ],
+			[ "becamos" ],
+			[ "becáis", "becan" ],
+			[ "becan" ]
+		],
+		"4" : [
+			[ "bequé" ],
+			[ "becaste" ],
+			[ "becó" ],
+			[ "becamos" ],
+			[ "becasteis", "becaron" ],
+			[ "becaron" ]
+		],
+		"5" : [
+			[ "becaba" ],
+			[ "becabas" ],
+			[ "becaba" ],
+			[ "becábamos" ],
+			[ "becabais", "becaban" ],
+			[ "becaban" ]
+		],
+		"6" : [
+			[ "becaría" ],
+			[ "becarías" ],
+			[ "becaría" ],
+			[ "becaríamos" ],
+			[ "becaríais", "becarían" ],
+			[ "becarían" ]
+		],
+		"7" : [
+			[ "becaré" ],
+			[ "becarás" ],
+			[ "becará" ],
+			[ "becaremos" ],
+			[ "becaréis", "becarán" ],
+			[ "becarán" ]
+		],
+		"8" : [
+			[ "beque" ],
+			[ "beques" ],
+			[ "beque" ],
+			[ "bequemos" ],
+			[ "bequéis", "bequen" ],
+			[ "bequen" ]
+		],
+		"9" : [
+			[ "becara" ],
+			[ "becaras" ],
+			[ "becara" ],
+			[ "becáramos" ],
+			[ "becarais", "becaran" ],
+			[ "becaran" ]
+		],
+		"10" : [
+			[ "becase" ],
+			[ "becases" ],
+			[ "becase" ],
+			[ "becásemos" ],
+			[ "becaseis", "becasen" ],
+			[ "becasen" ]
+		],
+		"11" : [
+			[ "becare" ],
+			[ "becares" ],
+			[ "becare" ],
+			[ "becáremos" ],
+			[ "becareis", "becaren" ],
+			[ "becaren" ]
+		],
+		"12" : {
+			"1" : [ "beca" ],
+			"2" : [ "beque" ],
+			"3" : [ "bequemos" ],
+			"4" : [ "becad" ],
+			"5" : [ "bequen" ]
+		}
+	}
+}

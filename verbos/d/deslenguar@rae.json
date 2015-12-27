@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deslenguar",
+	"word" : "deslenguar",
+	"infinitivo" : "deslenguar",
+	"participio" : [ "deslenguado" ],
+	"gerundio" : [ "deslenguando" ],
+	"tenses" : {
+		"3" : [
+			[ "deslenguo" ],
+			[ "deslenguas", "deslenguás" ],
+			[ "deslengua" ],
+			[ "deslenguamos" ],
+			[ "deslenguáis", "deslenguan" ],
+			[ "deslenguan" ]
+		],
+		"4" : [
+			[ "deslengüé" ],
+			[ "deslenguaste" ],
+			[ "deslenguó" ],
+			[ "deslenguamos" ],
+			[ "deslenguasteis", "deslenguaron" ],
+			[ "deslenguaron" ]
+		],
+		"5" : [
+			[ "deslenguaba" ],
+			[ "deslenguabas" ],
+			[ "deslenguaba" ],
+			[ "deslenguábamos" ],
+			[ "deslenguabais", "deslenguaban" ],
+			[ "deslenguaban" ]
+		],
+		"6" : [
+			[ "deslenguaría" ],
+			[ "deslenguarías" ],
+			[ "deslenguaría" ],
+			[ "deslenguaríamos" ],
+			[ "deslenguaríais", "deslenguarían" ],
+			[ "deslenguarían" ]
+		],
+		"7" : [
+			[ "deslenguaré" ],
+			[ "deslenguarás" ],
+			[ "deslenguará" ],
+			[ "deslenguaremos" ],
+			[ "deslenguaréis", "deslenguarán" ],
+			[ "deslenguarán" ]
+		],
+		"8" : [
+			[ "deslengüe" ],
+			[ "deslengües" ],
+			[ "deslengüe" ],
+			[ "deslengüemos" ],
+			[ "deslengüéis", "deslengüen" ],
+			[ "deslengüen" ]
+		],
+		"9" : [
+			[ "deslenguara" ],
+			[ "deslenguaras" ],
+			[ "deslenguara" ],
+			[ "deslenguáramos" ],
+			[ "deslenguarais", "deslenguaran" ],
+			[ "deslenguaran" ]
+		],
+		"10" : [
+			[ "deslenguase" ],
+			[ "deslenguases" ],
+			[ "deslenguase" ],
+			[ "deslenguásemos" ],
+			[ "deslenguaseis", "deslenguasen" ],
+			[ "deslenguasen" ]
+		],
+		"11" : [
+			[ "deslenguare" ],
+			[ "deslenguares" ],
+			[ "deslenguare" ],
+			[ "deslenguáremos" ],
+			[ "deslenguareis", "deslenguaren" ],
+			[ "deslenguaren" ]
+		],
+		"12" : {
+			"1" : [ "deslengua" ],
+			"2" : [ "deslengüe" ],
+			"3" : [ "deslengüemos" ],
+			"4" : [ "deslenguad" ],
+			"5" : [ "deslengüen" ]
+		}
+	}
+}

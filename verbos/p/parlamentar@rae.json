@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=parlamentar",
+	"word" : "parlamentar",
+	"infinitivo" : "parlamentar",
+	"participio" : [ "parlamentado" ],
+	"gerundio" : [ "parlamentando" ],
+	"tenses" : {
+		"3" : [
+			[ "parlamento" ],
+			[ "parlamentas", "parlamentás" ],
+			[ "parlamenta" ],
+			[ "parlamentamos" ],
+			[ "parlamentáis", "parlamentan" ],
+			[ "parlamentan" ]
+		],
+		"4" : [
+			[ "parlamenté" ],
+			[ "parlamentaste" ],
+			[ "parlamentó" ],
+			[ "parlamentamos" ],
+			[ "parlamentasteis", "parlamentaron" ],
+			[ "parlamentaron" ]
+		],
+		"5" : [
+			[ "parlamentaba" ],
+			[ "parlamentabas" ],
+			[ "parlamentaba" ],
+			[ "parlamentábamos" ],
+			[ "parlamentabais", "parlamentaban" ],
+			[ "parlamentaban" ]
+		],
+		"6" : [
+			[ "parlamentaría" ],
+			[ "parlamentarías" ],
+			[ "parlamentaría" ],
+			[ "parlamentaríamos" ],
+			[ "parlamentaríais", "parlamentarían" ],
+			[ "parlamentarían" ]
+		],
+		"7" : [
+			[ "parlamentaré" ],
+			[ "parlamentarás" ],
+			[ "parlamentará" ],
+			[ "parlamentaremos" ],
+			[ "parlamentaréis", "parlamentarán" ],
+			[ "parlamentarán" ]
+		],
+		"8" : [
+			[ "parlamente" ],
+			[ "parlamentes" ],
+			[ "parlamente" ],
+			[ "parlamentemos" ],
+			[ "parlamentéis", "parlamenten" ],
+			[ "parlamenten" ]
+		],
+		"9" : [
+			[ "parlamentara" ],
+			[ "parlamentaras" ],
+			[ "parlamentara" ],
+			[ "parlamentáramos" ],
+			[ "parlamentarais", "parlamentaran" ],
+			[ "parlamentaran" ]
+		],
+		"10" : [
+			[ "parlamentase" ],
+			[ "parlamentases" ],
+			[ "parlamentase" ],
+			[ "parlamentásemos" ],
+			[ "parlamentaseis", "parlamentasen" ],
+			[ "parlamentasen" ]
+		],
+		"11" : [
+			[ "parlamentare" ],
+			[ "parlamentares" ],
+			[ "parlamentare" ],
+			[ "parlamentáremos" ],
+			[ "parlamentareis", "parlamentaren" ],
+			[ "parlamentaren" ]
+		],
+		"12" : {
+			"1" : [ "parlamenta" ],
+			"2" : [ "parlamente" ],
+			"3" : [ "parlamentemos" ],
+			"4" : [ "parlamentad" ],
+			"5" : [ "parlamenten" ]
+		}
+	}
+}

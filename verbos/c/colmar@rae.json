@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=colmar",
+	"word" : "colmar",
+	"infinitivo" : "colmar",
+	"participio" : [ "colmado" ],
+	"gerundio" : [ "colmando" ],
+	"tenses" : {
+		"3" : [
+			[ "colmo" ],
+			[ "colmas", "colmás" ],
+			[ "colma" ],
+			[ "colmamos" ],
+			[ "colmáis", "colman" ],
+			[ "colman" ]
+		],
+		"4" : [
+			[ "colmé" ],
+			[ "colmaste" ],
+			[ "colmó" ],
+			[ "colmamos" ],
+			[ "colmasteis", "colmaron" ],
+			[ "colmaron" ]
+		],
+		"5" : [
+			[ "colmaba" ],
+			[ "colmabas" ],
+			[ "colmaba" ],
+			[ "colmábamos" ],
+			[ "colmabais", "colmaban" ],
+			[ "colmaban" ]
+		],
+		"6" : [
+			[ "colmaría" ],
+			[ "colmarías" ],
+			[ "colmaría" ],
+			[ "colmaríamos" ],
+			[ "colmaríais", "colmarían" ],
+			[ "colmarían" ]
+		],
+		"7" : [
+			[ "colmaré" ],
+			[ "colmarás" ],
+			[ "colmará" ],
+			[ "colmaremos" ],
+			[ "colmaréis", "colmarán" ],
+			[ "colmarán" ]
+		],
+		"8" : [
+			[ "colme" ],
+			[ "colmes" ],
+			[ "colme" ],
+			[ "colmemos" ],
+			[ "colméis", "colmen" ],
+			[ "colmen" ]
+		],
+		"9" : [
+			[ "colmara" ],
+			[ "colmaras" ],
+			[ "colmara" ],
+			[ "colmáramos" ],
+			[ "colmarais", "colmaran" ],
+			[ "colmaran" ]
+		],
+		"10" : [
+			[ "colmase" ],
+			[ "colmases" ],
+			[ "colmase" ],
+			[ "colmásemos" ],
+			[ "colmaseis", "colmasen" ],
+			[ "colmasen" ]
+		],
+		"11" : [
+			[ "colmare" ],
+			[ "colmares" ],
+			[ "colmare" ],
+			[ "colmáremos" ],
+			[ "colmareis", "colmaren" ],
+			[ "colmaren" ]
+		],
+		"12" : {
+			"1" : [ "colma" ],
+			"2" : [ "colme" ],
+			"3" : [ "colmemos" ],
+			"4" : [ "colmad" ],
+			"5" : [ "colmen" ]
+		}
+	}
+}

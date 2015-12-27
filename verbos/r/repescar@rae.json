@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repescar",
+	"word" : "repescar",
+	"infinitivo" : "repescar",
+	"participio" : [ "repescado" ],
+	"gerundio" : [ "repescando" ],
+	"tenses" : {
+		"3" : [
+			[ "repesco" ],
+			[ "repescas", "repescás" ],
+			[ "repesca" ],
+			[ "repescamos" ],
+			[ "repescáis", "repescan" ],
+			[ "repescan" ]
+		],
+		"4" : [
+			[ "repesqué" ],
+			[ "repescaste" ],
+			[ "repescó" ],
+			[ "repescamos" ],
+			[ "repescasteis", "repescaron" ],
+			[ "repescaron" ]
+		],
+		"5" : [
+			[ "repescaba" ],
+			[ "repescabas" ],
+			[ "repescaba" ],
+			[ "repescábamos" ],
+			[ "repescabais", "repescaban" ],
+			[ "repescaban" ]
+		],
+		"6" : [
+			[ "repescaría" ],
+			[ "repescarías" ],
+			[ "repescaría" ],
+			[ "repescaríamos" ],
+			[ "repescaríais", "repescarían" ],
+			[ "repescarían" ]
+		],
+		"7" : [
+			[ "repescaré" ],
+			[ "repescarás" ],
+			[ "repescará" ],
+			[ "repescaremos" ],
+			[ "repescaréis", "repescarán" ],
+			[ "repescarán" ]
+		],
+		"8" : [
+			[ "repesque" ],
+			[ "repesques" ],
+			[ "repesque" ],
+			[ "repesquemos" ],
+			[ "repesquéis", "repesquen" ],
+			[ "repesquen" ]
+		],
+		"9" : [
+			[ "repescara" ],
+			[ "repescaras" ],
+			[ "repescara" ],
+			[ "repescáramos" ],
+			[ "repescarais", "repescaran" ],
+			[ "repescaran" ]
+		],
+		"10" : [
+			[ "repescase" ],
+			[ "repescases" ],
+			[ "repescase" ],
+			[ "repescásemos" ],
+			[ "repescaseis", "repescasen" ],
+			[ "repescasen" ]
+		],
+		"11" : [
+			[ "repescare" ],
+			[ "repescares" ],
+			[ "repescare" ],
+			[ "repescáremos" ],
+			[ "repescareis", "repescaren" ],
+			[ "repescaren" ]
+		],
+		"12" : {
+			"1" : [ "repesca" ],
+			"2" : [ "repesque" ],
+			"3" : [ "repesquemos" ],
+			"4" : [ "repescad" ],
+			"5" : [ "repesquen" ]
+		}
+	}
+}

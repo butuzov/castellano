@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=nacer",
+	"word" : "nacer",
+	"infinitivo" : "nacer",
+	"participio" : [ "nacido" ],
+	"gerundio" : [ "naciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "nazco" ],
+			[ "naces", "nacés" ],
+			[ "nace" ],
+			[ "nacemos" ],
+			[ "nacéis", "nacen" ],
+			[ "nacen" ]
+		],
+		"4" : [
+			[ "nací" ],
+			[ "naciste" ],
+			[ "nació" ],
+			[ "nacimos" ],
+			[ "nacisteis", "nacieron" ],
+			[ "nacieron" ]
+		],
+		"5" : [
+			[ "nacía" ],
+			[ "nacías" ],
+			[ "nacía" ],
+			[ "nacíamos" ],
+			[ "nacíais", "nacían" ],
+			[ "nacían" ]
+		],
+		"6" : [
+			[ "nacería" ],
+			[ "nacerías" ],
+			[ "nacería" ],
+			[ "naceríamos" ],
+			[ "naceríais", "nacerían" ],
+			[ "nacerían" ]
+		],
+		"7" : [
+			[ "naceré" ],
+			[ "nacerás" ],
+			[ "nacerá" ],
+			[ "naceremos" ],
+			[ "naceréis", "nacerán" ],
+			[ "nacerán" ]
+		],
+		"8" : [
+			[ "nazca" ],
+			[ "nazcas" ],
+			[ "nazca" ],
+			[ "nazcamos" ],
+			[ "nazcáis", "nazcan" ],
+			[ "nazcan" ]
+		],
+		"9" : [
+			[ "naciera" ],
+			[ "nacieras" ],
+			[ "naciera" ],
+			[ "naciéramos" ],
+			[ "nacierais", "nacieran" ],
+			[ "nacieran" ]
+		],
+		"10" : [
+			[ "naciese" ],
+			[ "nacieses" ],
+			[ "naciese" ],
+			[ "naciésemos" ],
+			[ "nacieseis", "naciesen" ],
+			[ "naciesen" ]
+		],
+		"11" : [
+			[ "naciere" ],
+			[ "nacieres" ],
+			[ "naciere" ],
+			[ "naciéremos" ],
+			[ "naciereis", "nacieren" ],
+			[ "nacieren" ]
+		],
+		"12" : {
+			"1" : [ "nace" ],
+			"2" : [ "nazca" ],
+			"3" : [ "nazcamos" ],
+			"4" : [ "naced" ],
+			"5" : [ "nazcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prefigurar",
+	"word" : "prefigurar",
+	"infinitivo" : "prefigurar",
+	"participio" : [ "prefigurado" ],
+	"gerundio" : [ "prefigurando" ],
+	"tenses" : {
+		"3" : [
+			[ "prefiguro" ],
+			[ "prefiguras", "prefigurás" ],
+			[ "prefigura" ],
+			[ "prefiguramos" ],
+			[ "prefiguráis", "prefiguran" ],
+			[ "prefiguran" ]
+		],
+		"4" : [
+			[ "prefiguré" ],
+			[ "prefiguraste" ],
+			[ "prefiguró" ],
+			[ "prefiguramos" ],
+			[ "prefigurasteis", "prefiguraron" ],
+			[ "prefiguraron" ]
+		],
+		"5" : [
+			[ "prefiguraba" ],
+			[ "prefigurabas" ],
+			[ "prefiguraba" ],
+			[ "prefigurábamos" ],
+			[ "prefigurabais", "prefiguraban" ],
+			[ "prefiguraban" ]
+		],
+		"6" : [
+			[ "prefiguraría" ],
+			[ "prefigurarías" ],
+			[ "prefiguraría" ],
+			[ "prefiguraríamos" ],
+			[ "prefiguraríais", "prefigurarían" ],
+			[ "prefigurarían" ]
+		],
+		"7" : [
+			[ "prefiguraré" ],
+			[ "prefigurarás" ],
+			[ "prefigurará" ],
+			[ "prefiguraremos" ],
+			[ "prefiguraréis", "prefigurarán" ],
+			[ "prefigurarán" ]
+		],
+		"8" : [
+			[ "prefigure" ],
+			[ "prefigures" ],
+			[ "prefigure" ],
+			[ "prefiguremos" ],
+			[ "prefiguréis", "prefiguren" ],
+			[ "prefiguren" ]
+		],
+		"9" : [
+			[ "prefigurara" ],
+			[ "prefiguraras" ],
+			[ "prefigurara" ],
+			[ "prefiguráramos" ],
+			[ "prefigurarais", "prefiguraran" ],
+			[ "prefiguraran" ]
+		],
+		"10" : [
+			[ "prefigurase" ],
+			[ "prefigurases" ],
+			[ "prefigurase" ],
+			[ "prefigurásemos" ],
+			[ "prefiguraseis", "prefigurasen" ],
+			[ "prefigurasen" ]
+		],
+		"11" : [
+			[ "prefigurare" ],
+			[ "prefigurares" ],
+			[ "prefigurare" ],
+			[ "prefiguráremos" ],
+			[ "prefigurareis", "prefiguraren" ],
+			[ "prefiguraren" ]
+		],
+		"12" : {
+			"1" : [ "prefigura" ],
+			"2" : [ "prefigure" ],
+			"3" : [ "prefiguremos" ],
+			"4" : [ "prefigurad" ],
+			"5" : [ "prefiguren" ]
+		}
+	}
+}

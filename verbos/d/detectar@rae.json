@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=detectar",
+	"word" : "detectar",
+	"infinitivo" : "detectar",
+	"participio" : [ "detectado" ],
+	"gerundio" : [ "detectando" ],
+	"tenses" : {
+		"3" : [
+			[ "detecto" ],
+			[ "detectas", "detectás" ],
+			[ "detecta" ],
+			[ "detectamos" ],
+			[ "detectáis", "detectan" ],
+			[ "detectan" ]
+		],
+		"4" : [
+			[ "detecté" ],
+			[ "detectaste" ],
+			[ "detectó" ],
+			[ "detectamos" ],
+			[ "detectasteis", "detectaron" ],
+			[ "detectaron" ]
+		],
+		"5" : [
+			[ "detectaba" ],
+			[ "detectabas" ],
+			[ "detectaba" ],
+			[ "detectábamos" ],
+			[ "detectabais", "detectaban" ],
+			[ "detectaban" ]
+		],
+		"6" : [
+			[ "detectaría" ],
+			[ "detectarías" ],
+			[ "detectaría" ],
+			[ "detectaríamos" ],
+			[ "detectaríais", "detectarían" ],
+			[ "detectarían" ]
+		],
+		"7" : [
+			[ "detectaré" ],
+			[ "detectarás" ],
+			[ "detectará" ],
+			[ "detectaremos" ],
+			[ "detectaréis", "detectarán" ],
+			[ "detectarán" ]
+		],
+		"8" : [
+			[ "detecte" ],
+			[ "detectes" ],
+			[ "detecte" ],
+			[ "detectemos" ],
+			[ "detectéis", "detecten" ],
+			[ "detecten" ]
+		],
+		"9" : [
+			[ "detectara" ],
+			[ "detectaras" ],
+			[ "detectara" ],
+			[ "detectáramos" ],
+			[ "detectarais", "detectaran" ],
+			[ "detectaran" ]
+		],
+		"10" : [
+			[ "detectase" ],
+			[ "detectases" ],
+			[ "detectase" ],
+			[ "detectásemos" ],
+			[ "detectaseis", "detectasen" ],
+			[ "detectasen" ]
+		],
+		"11" : [
+			[ "detectare" ],
+			[ "detectares" ],
+			[ "detectare" ],
+			[ "detectáremos" ],
+			[ "detectareis", "detectaren" ],
+			[ "detectaren" ]
+		],
+		"12" : {
+			"1" : [ "detecta" ],
+			"2" : [ "detecte" ],
+			"3" : [ "detectemos" ],
+			"4" : [ "detectad" ],
+			"5" : [ "detecten" ]
+		}
+	}
+}

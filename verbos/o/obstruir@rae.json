@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=obstruir",
+	"word" : "obstruir",
+	"infinitivo" : "obstruir",
+	"participio" : [ "obstruido" ],
+	"gerundio" : [ "obstruyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "obstruyo" ],
+			[ "obstruyes", "obstruís" ],
+			[ "obstruye" ],
+			[ "obstruimos" ],
+			[ "obstruís", "obstruyen" ],
+			[ "obstruyen" ]
+		],
+		"4" : [
+			[ "obstruí" ],
+			[ "obstruiste" ],
+			[ "obstruyó" ],
+			[ "obstruimos" ],
+			[ "obstruisteis", "obstruyeron" ],
+			[ "obstruyeron" ]
+		],
+		"5" : [
+			[ "obstruía" ],
+			[ "obstruías" ],
+			[ "obstruía" ],
+			[ "obstruíamos" ],
+			[ "obstruíais", "obstruían" ],
+			[ "obstruían" ]
+		],
+		"6" : [
+			[ "obstruiría" ],
+			[ "obstruirías" ],
+			[ "obstruiría" ],
+			[ "obstruiríamos" ],
+			[ "obstruiríais", "obstruirían" ],
+			[ "obstruirían" ]
+		],
+		"7" : [
+			[ "obstruiré" ],
+			[ "obstruirás" ],
+			[ "obstruirá" ],
+			[ "obstruiremos" ],
+			[ "obstruiréis", "obstruirán" ],
+			[ "obstruirán" ]
+		],
+		"8" : [
+			[ "obstruya" ],
+			[ "obstruyas" ],
+			[ "obstruya" ],
+			[ "obstruyamos" ],
+			[ "obstruyáis", "obstruyan" ],
+			[ "obstruyan" ]
+		],
+		"9" : [
+			[ "obstruyera" ],
+			[ "obstruyeras" ],
+			[ "obstruyera" ],
+			[ "obstruyéramos" ],
+			[ "obstruyerais", "obstruyeran" ],
+			[ "obstruyeran" ]
+		],
+		"10" : [
+			[ "obstruyese" ],
+			[ "obstruyeses" ],
+			[ "obstruyese" ],
+			[ "obstruyésemos" ],
+			[ "obstruyeseis", "obstruyesen" ],
+			[ "obstruyesen" ]
+		],
+		"11" : [
+			[ "obstruyere" ],
+			[ "obstruyeres" ],
+			[ "obstruyere" ],
+			[ "obstruyéremos" ],
+			[ "obstruyereis", "obstruyeren" ],
+			[ "obstruyeren" ]
+		],
+		"12" : {
+			"1" : [ "obstruye" ],
+			"2" : [ "obstruya" ],
+			"3" : [ "obstruyamos" ],
+			"4" : [ "obstruid" ],
+			"5" : [ "obstruyan" ]
+		}
+	}
+}

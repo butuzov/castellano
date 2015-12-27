@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=difamar",
+	"word" : "difamar",
+	"infinitivo" : "difamar",
+	"participio" : [ "difamado" ],
+	"gerundio" : [ "difamando" ],
+	"tenses" : {
+		"3" : [
+			[ "difamo" ],
+			[ "difamas", "difamás" ],
+			[ "difama" ],
+			[ "difamamos" ],
+			[ "difamáis", "difaman" ],
+			[ "difaman" ]
+		],
+		"4" : [
+			[ "difamé" ],
+			[ "difamaste" ],
+			[ "difamó" ],
+			[ "difamamos" ],
+			[ "difamasteis", "difamaron" ],
+			[ "difamaron" ]
+		],
+		"5" : [
+			[ "difamaba" ],
+			[ "difamabas" ],
+			[ "difamaba" ],
+			[ "difamábamos" ],
+			[ "difamabais", "difamaban" ],
+			[ "difamaban" ]
+		],
+		"6" : [
+			[ "difamaría" ],
+			[ "difamarías" ],
+			[ "difamaría" ],
+			[ "difamaríamos" ],
+			[ "difamaríais", "difamarían" ],
+			[ "difamarían" ]
+		],
+		"7" : [
+			[ "difamaré" ],
+			[ "difamarás" ],
+			[ "difamará" ],
+			[ "difamaremos" ],
+			[ "difamaréis", "difamarán" ],
+			[ "difamarán" ]
+		],
+		"8" : [
+			[ "difame" ],
+			[ "difames" ],
+			[ "difame" ],
+			[ "difamemos" ],
+			[ "difaméis", "difamen" ],
+			[ "difamen" ]
+		],
+		"9" : [
+			[ "difamara" ],
+			[ "difamaras" ],
+			[ "difamara" ],
+			[ "difamáramos" ],
+			[ "difamarais", "difamaran" ],
+			[ "difamaran" ]
+		],
+		"10" : [
+			[ "difamase" ],
+			[ "difamases" ],
+			[ "difamase" ],
+			[ "difamásemos" ],
+			[ "difamaseis", "difamasen" ],
+			[ "difamasen" ]
+		],
+		"11" : [
+			[ "difamare" ],
+			[ "difamares" ],
+			[ "difamare" ],
+			[ "difamáremos" ],
+			[ "difamareis", "difamaren" ],
+			[ "difamaren" ]
+		],
+		"12" : {
+			"1" : [ "difama" ],
+			"2" : [ "difame" ],
+			"3" : [ "difamemos" ],
+			"4" : [ "difamad" ],
+			"5" : [ "difamen" ]
+		}
+	}
+}

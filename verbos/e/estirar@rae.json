@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estirar",
+	"word" : "estirar",
+	"infinitivo" : "estirar",
+	"participio" : [ "estirado" ],
+	"gerundio" : [ "estirando" ],
+	"tenses" : {
+		"3" : [
+			[ "estiro" ],
+			[ "estiras", "estirás" ],
+			[ "estira" ],
+			[ "estiramos" ],
+			[ "estiráis", "estiran" ],
+			[ "estiran" ]
+		],
+		"4" : [
+			[ "estiré" ],
+			[ "estiraste" ],
+			[ "estiró" ],
+			[ "estiramos" ],
+			[ "estirasteis", "estiraron" ],
+			[ "estiraron" ]
+		],
+		"5" : [
+			[ "estiraba" ],
+			[ "estirabas" ],
+			[ "estiraba" ],
+			[ "estirábamos" ],
+			[ "estirabais", "estiraban" ],
+			[ "estiraban" ]
+		],
+		"6" : [
+			[ "estiraría" ],
+			[ "estirarías" ],
+			[ "estiraría" ],
+			[ "estiraríamos" ],
+			[ "estiraríais", "estirarían" ],
+			[ "estirarían" ]
+		],
+		"7" : [
+			[ "estiraré" ],
+			[ "estirarás" ],
+			[ "estirará" ],
+			[ "estiraremos" ],
+			[ "estiraréis", "estirarán" ],
+			[ "estirarán" ]
+		],
+		"8" : [
+			[ "estire" ],
+			[ "estires" ],
+			[ "estire" ],
+			[ "estiremos" ],
+			[ "estiréis", "estiren" ],
+			[ "estiren" ]
+		],
+		"9" : [
+			[ "estirara" ],
+			[ "estiraras" ],
+			[ "estirara" ],
+			[ "estiráramos" ],
+			[ "estirarais", "estiraran" ],
+			[ "estiraran" ]
+		],
+		"10" : [
+			[ "estirase" ],
+			[ "estirases" ],
+			[ "estirase" ],
+			[ "estirásemos" ],
+			[ "estiraseis", "estirasen" ],
+			[ "estirasen" ]
+		],
+		"11" : [
+			[ "estirare" ],
+			[ "estirares" ],
+			[ "estirare" ],
+			[ "estiráremos" ],
+			[ "estirareis", "estiraren" ],
+			[ "estiraren" ]
+		],
+		"12" : {
+			"1" : [ "estira" ],
+			"2" : [ "estire" ],
+			"3" : [ "estiremos" ],
+			"4" : [ "estirad" ],
+			"5" : [ "estiren" ]
+		}
+	}
+}

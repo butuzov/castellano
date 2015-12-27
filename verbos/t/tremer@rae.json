@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tremer",
+	"word" : "tremer",
+	"infinitivo" : "tremer",
+	"participio" : [ "tremido" ],
+	"gerundio" : [ "tremiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "tremo" ],
+			[ "tremes", "tremés" ],
+			[ "treme" ],
+			[ "trememos" ],
+			[ "treméis", "tremen" ],
+			[ "tremen" ]
+		],
+		"4" : [
+			[ "tremí" ],
+			[ "tremiste" ],
+			[ "tremió" ],
+			[ "tremimos" ],
+			[ "tremisteis", "tremieron" ],
+			[ "tremieron" ]
+		],
+		"5" : [
+			[ "tremía" ],
+			[ "tremías" ],
+			[ "tremía" ],
+			[ "tremíamos" ],
+			[ "tremíais", "tremían" ],
+			[ "tremían" ]
+		],
+		"6" : [
+			[ "tremería" ],
+			[ "tremerías" ],
+			[ "tremería" ],
+			[ "tremeríamos" ],
+			[ "tremeríais", "tremerían" ],
+			[ "tremerían" ]
+		],
+		"7" : [
+			[ "tremeré" ],
+			[ "tremerás" ],
+			[ "tremerá" ],
+			[ "tremeremos" ],
+			[ "tremeréis", "tremerán" ],
+			[ "tremerán" ]
+		],
+		"8" : [
+			[ "trema" ],
+			[ "tremas" ],
+			[ "trema" ],
+			[ "tremamos" ],
+			[ "tremáis", "treman" ],
+			[ "treman" ]
+		],
+		"9" : [
+			[ "tremiera" ],
+			[ "tremieras" ],
+			[ "tremiera" ],
+			[ "tremiéramos" ],
+			[ "tremierais", "tremieran" ],
+			[ "tremieran" ]
+		],
+		"10" : [
+			[ "tremiese" ],
+			[ "tremieses" ],
+			[ "tremiese" ],
+			[ "tremiésemos" ],
+			[ "tremieseis", "tremiesen" ],
+			[ "tremiesen" ]
+		],
+		"11" : [
+			[ "tremiere" ],
+			[ "tremieres" ],
+			[ "tremiere" ],
+			[ "tremiéremos" ],
+			[ "tremiereis", "tremieren" ],
+			[ "tremieren" ]
+		],
+		"12" : {
+			"1" : [ "treme" ],
+			"2" : [ "trema" ],
+			"3" : [ "tremamos" ],
+			"4" : [ "tremed" ],
+			"5" : [ "treman" ]
+		}
+	}
+}

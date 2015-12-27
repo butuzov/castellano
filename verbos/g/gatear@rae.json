@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gatear",
+	"word" : "gatear",
+	"infinitivo" : "gatear",
+	"participio" : [ "gateado" ],
+	"gerundio" : [ "gateando" ],
+	"tenses" : {
+		"3" : [
+			[ "gateo" ],
+			[ "gateas", "gateás" ],
+			[ "gatea" ],
+			[ "gateamos" ],
+			[ "gateáis", "gatean" ],
+			[ "gatean" ]
+		],
+		"4" : [
+			[ "gateé" ],
+			[ "gateaste" ],
+			[ "gateó" ],
+			[ "gateamos" ],
+			[ "gateasteis", "gatearon" ],
+			[ "gatearon" ]
+		],
+		"5" : [
+			[ "gateaba" ],
+			[ "gateabas" ],
+			[ "gateaba" ],
+			[ "gateábamos" ],
+			[ "gateabais", "gateaban" ],
+			[ "gateaban" ]
+		],
+		"6" : [
+			[ "gatearía" ],
+			[ "gatearías" ],
+			[ "gatearía" ],
+			[ "gatearíamos" ],
+			[ "gatearíais", "gatearían" ],
+			[ "gatearían" ]
+		],
+		"7" : [
+			[ "gatearé" ],
+			[ "gatearás" ],
+			[ "gateará" ],
+			[ "gatearemos" ],
+			[ "gatearéis", "gatearán" ],
+			[ "gatearán" ]
+		],
+		"8" : [
+			[ "gatee" ],
+			[ "gatees" ],
+			[ "gatee" ],
+			[ "gateemos" ],
+			[ "gateéis", "gateen" ],
+			[ "gateen" ]
+		],
+		"9" : [
+			[ "gateara" ],
+			[ "gatearas" ],
+			[ "gateara" ],
+			[ "gateáramos" ],
+			[ "gatearais", "gatearan" ],
+			[ "gatearan" ]
+		],
+		"10" : [
+			[ "gatease" ],
+			[ "gateases" ],
+			[ "gatease" ],
+			[ "gateásemos" ],
+			[ "gateaseis", "gateasen" ],
+			[ "gateasen" ]
+		],
+		"11" : [
+			[ "gateare" ],
+			[ "gateares" ],
+			[ "gateare" ],
+			[ "gateáremos" ],
+			[ "gateareis", "gatearen" ],
+			[ "gatearen" ]
+		],
+		"12" : {
+			"1" : [ "gatea" ],
+			"2" : [ "gatee" ],
+			"3" : [ "gateemos" ],
+			"4" : [ "gatead" ],
+			"5" : [ "gateen" ]
+		}
+	}
+}

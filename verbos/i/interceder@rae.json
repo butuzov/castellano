@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=interceder",
+	"word" : "interceder",
+	"infinitivo" : "interceder",
+	"participio" : [ "intercedido" ],
+	"gerundio" : [ "intercediendo" ],
+	"tenses" : {
+		"3" : [
+			[ "intercedo" ],
+			[ "intercedes", "intercedés" ],
+			[ "intercede" ],
+			[ "intercedemos" ],
+			[ "intercedéis", "interceden" ],
+			[ "interceden" ]
+		],
+		"4" : [
+			[ "intercedí" ],
+			[ "intercediste" ],
+			[ "intercedió" ],
+			[ "intercedimos" ],
+			[ "intercedisteis", "intercedieron" ],
+			[ "intercedieron" ]
+		],
+		"5" : [
+			[ "intercedía" ],
+			[ "intercedías" ],
+			[ "intercedía" ],
+			[ "intercedíamos" ],
+			[ "intercedíais", "intercedían" ],
+			[ "intercedían" ]
+		],
+		"6" : [
+			[ "intercedería" ],
+			[ "intercederías" ],
+			[ "intercedería" ],
+			[ "intercederíamos" ],
+			[ "intercederíais", "intercederían" ],
+			[ "intercederían" ]
+		],
+		"7" : [
+			[ "intercederé" ],
+			[ "intercederás" ],
+			[ "intercederá" ],
+			[ "intercederemos" ],
+			[ "intercederéis", "intercederán" ],
+			[ "intercederán" ]
+		],
+		"8" : [
+			[ "interceda" ],
+			[ "intercedas" ],
+			[ "interceda" ],
+			[ "intercedamos" ],
+			[ "intercedáis", "intercedan" ],
+			[ "intercedan" ]
+		],
+		"9" : [
+			[ "intercediera" ],
+			[ "intercedieras" ],
+			[ "intercediera" ],
+			[ "intercediéramos" ],
+			[ "intercedierais", "intercedieran" ],
+			[ "intercedieran" ]
+		],
+		"10" : [
+			[ "intercediese" ],
+			[ "intercedieses" ],
+			[ "intercediese" ],
+			[ "intercediésemos" ],
+			[ "intercedieseis", "intercediesen" ],
+			[ "intercediesen" ]
+		],
+		"11" : [
+			[ "intercediere" ],
+			[ "intercedieres" ],
+			[ "intercediere" ],
+			[ "intercediéremos" ],
+			[ "intercediereis", "intercedieren" ],
+			[ "intercedieren" ]
+		],
+		"12" : {
+			"1" : [ "intercede" ],
+			"2" : [ "interceda" ],
+			"3" : [ "intercedamos" ],
+			"4" : [ "interceded" ],
+			"5" : [ "intercedan" ]
+		}
+	}
+}

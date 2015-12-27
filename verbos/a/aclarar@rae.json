@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aclarar",
+	"word" : "aclarar",
+	"infinitivo" : "aclarar",
+	"participio" : [ "aclarado" ],
+	"gerundio" : [ "aclarando" ],
+	"tenses" : {
+		"3" : [
+			[ "aclaro" ],
+			[ "aclaras", "aclarás" ],
+			[ "aclara" ],
+			[ "aclaramos" ],
+			[ "aclaráis", "aclaran" ],
+			[ "aclaran" ]
+		],
+		"4" : [
+			[ "aclaré" ],
+			[ "aclaraste" ],
+			[ "aclaró" ],
+			[ "aclaramos" ],
+			[ "aclarasteis", "aclararon" ],
+			[ "aclararon" ]
+		],
+		"5" : [
+			[ "aclaraba" ],
+			[ "aclarabas" ],
+			[ "aclaraba" ],
+			[ "aclarábamos" ],
+			[ "aclarabais", "aclaraban" ],
+			[ "aclaraban" ]
+		],
+		"6" : [
+			[ "aclararía" ],
+			[ "aclararías" ],
+			[ "aclararía" ],
+			[ "aclararíamos" ],
+			[ "aclararíais", "aclararían" ],
+			[ "aclararían" ]
+		],
+		"7" : [
+			[ "aclararé" ],
+			[ "aclararás" ],
+			[ "aclarará" ],
+			[ "aclararemos" ],
+			[ "aclararéis", "aclararán" ],
+			[ "aclararán" ]
+		],
+		"8" : [
+			[ "aclare" ],
+			[ "aclares" ],
+			[ "aclare" ],
+			[ "aclaremos" ],
+			[ "aclaréis", "aclaren" ],
+			[ "aclaren" ]
+		],
+		"9" : [
+			[ "aclarara" ],
+			[ "aclararas" ],
+			[ "aclarara" ],
+			[ "aclaráramos" ],
+			[ "aclararais", "aclararan" ],
+			[ "aclararan" ]
+		],
+		"10" : [
+			[ "aclarase" ],
+			[ "aclarases" ],
+			[ "aclarase" ],
+			[ "aclarásemos" ],
+			[ "aclaraseis", "aclarasen" ],
+			[ "aclarasen" ]
+		],
+		"11" : [
+			[ "aclarare" ],
+			[ "aclarares" ],
+			[ "aclarare" ],
+			[ "aclaráremos" ],
+			[ "aclarareis", "aclararen" ],
+			[ "aclararen" ]
+		],
+		"12" : {
+			"1" : [ "aclara" ],
+			"2" : [ "aclare" ],
+			"3" : [ "aclaremos" ],
+			"4" : [ "aclarad" ],
+			"5" : [ "aclaren" ]
+		}
+	}
+}

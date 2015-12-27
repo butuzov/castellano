@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=guarir",
+	"word" : "guarir",
+	"infinitivo" : "guarir",
+	"participio" : [ "guarido" ],
+	"gerundio" : [ "guariendo" ],
+	"tenses" : {
+		"3" : [
+			[ "guaro" ],
+			[ "guares", "guarís" ],
+			[ "guare" ],
+			[ "guarimos" ],
+			[ "guarís", "guaren" ],
+			[ "guaren" ]
+		],
+		"4" : [
+			[ "guarí" ],
+			[ "guariste" ],
+			[ "guarió" ],
+			[ "guarimos" ],
+			[ "guaristeis", "guarieron" ],
+			[ "guarieron" ]
+		],
+		"5" : [
+			[ "guaría" ],
+			[ "guarías" ],
+			[ "guaría" ],
+			[ "guaríamos" ],
+			[ "guaríais", "guarían" ],
+			[ "guarían" ]
+		],
+		"6" : [
+			[ "guariría" ],
+			[ "guarirías" ],
+			[ "guariría" ],
+			[ "guariríamos" ],
+			[ "guariríais", "guarirían" ],
+			[ "guarirían" ]
+		],
+		"7" : [
+			[ "guariré" ],
+			[ "guarirás" ],
+			[ "guarirá" ],
+			[ "guariremos" ],
+			[ "guariréis", "guarirán" ],
+			[ "guarirán" ]
+		],
+		"8" : [
+			[ "guara" ],
+			[ "guaras" ],
+			[ "guara" ],
+			[ "guaramos" ],
+			[ "guaráis", "guaran" ],
+			[ "guaran" ]
+		],
+		"9" : [
+			[ "guariera" ],
+			[ "guarieras" ],
+			[ "guariera" ],
+			[ "guariéramos" ],
+			[ "guarierais", "guarieran" ],
+			[ "guarieran" ]
+		],
+		"10" : [
+			[ "guariese" ],
+			[ "guarieses" ],
+			[ "guariese" ],
+			[ "guariésemos" ],
+			[ "guarieseis", "guariesen" ],
+			[ "guariesen" ]
+		],
+		"11" : [
+			[ "guariere" ],
+			[ "guarieres" ],
+			[ "guariere" ],
+			[ "guariéremos" ],
+			[ "guariereis", "guarieren" ],
+			[ "guarieren" ]
+		],
+		"12" : {
+			"1" : [ "guare" ],
+			"2" : [ "guara" ],
+			"3" : [ "guaramos" ],
+			"4" : [ "guarid" ],
+			"5" : [ "guaran" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=valsar",
+	"word" : "valsar",
+	"infinitivo" : "valsar",
+	"participio" : [ "valsado" ],
+	"gerundio" : [ "valsando" ],
+	"tenses" : {
+		"3" : [
+			[ "valso" ],
+			[ "valsas", "valsás" ],
+			[ "valsa" ],
+			[ "valsamos" ],
+			[ "valsáis", "valsan" ],
+			[ "valsan" ]
+		],
+		"4" : [
+			[ "valsé" ],
+			[ "valsaste" ],
+			[ "valsó" ],
+			[ "valsamos" ],
+			[ "valsasteis", "valsaron" ],
+			[ "valsaron" ]
+		],
+		"5" : [
+			[ "valsaba" ],
+			[ "valsabas" ],
+			[ "valsaba" ],
+			[ "valsábamos" ],
+			[ "valsabais", "valsaban" ],
+			[ "valsaban" ]
+		],
+		"6" : [
+			[ "valsaría" ],
+			[ "valsarías" ],
+			[ "valsaría" ],
+			[ "valsaríamos" ],
+			[ "valsaríais", "valsarían" ],
+			[ "valsarían" ]
+		],
+		"7" : [
+			[ "valsaré" ],
+			[ "valsarás" ],
+			[ "valsará" ],
+			[ "valsaremos" ],
+			[ "valsaréis", "valsarán" ],
+			[ "valsarán" ]
+		],
+		"8" : [
+			[ "valse" ],
+			[ "valses" ],
+			[ "valse" ],
+			[ "valsemos" ],
+			[ "valséis", "valsen" ],
+			[ "valsen" ]
+		],
+		"9" : [
+			[ "valsara" ],
+			[ "valsaras" ],
+			[ "valsara" ],
+			[ "valsáramos" ],
+			[ "valsarais", "valsaran" ],
+			[ "valsaran" ]
+		],
+		"10" : [
+			[ "valsase" ],
+			[ "valsases" ],
+			[ "valsase" ],
+			[ "valsásemos" ],
+			[ "valsaseis", "valsasen" ],
+			[ "valsasen" ]
+		],
+		"11" : [
+			[ "valsare" ],
+			[ "valsares" ],
+			[ "valsare" ],
+			[ "valsáremos" ],
+			[ "valsareis", "valsaren" ],
+			[ "valsaren" ]
+		],
+		"12" : {
+			"1" : [ "valsa" ],
+			"2" : [ "valse" ],
+			"3" : [ "valsemos" ],
+			"4" : [ "valsad" ],
+			"5" : [ "valsen" ]
+		}
+	}
+}

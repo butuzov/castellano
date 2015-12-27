@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atontar",
+	"word" : "atontar",
+	"infinitivo" : "atontar",
+	"participio" : [ "atontado" ],
+	"gerundio" : [ "atontando" ],
+	"tenses" : {
+		"3" : [
+			[ "atonto" ],
+			[ "atontas", "atontás" ],
+			[ "atonta" ],
+			[ "atontamos" ],
+			[ "atontáis", "atontan" ],
+			[ "atontan" ]
+		],
+		"4" : [
+			[ "atonté" ],
+			[ "atontaste" ],
+			[ "atontó" ],
+			[ "atontamos" ],
+			[ "atontasteis", "atontaron" ],
+			[ "atontaron" ]
+		],
+		"5" : [
+			[ "atontaba" ],
+			[ "atontabas" ],
+			[ "atontaba" ],
+			[ "atontábamos" ],
+			[ "atontabais", "atontaban" ],
+			[ "atontaban" ]
+		],
+		"6" : [
+			[ "atontaría" ],
+			[ "atontarías" ],
+			[ "atontaría" ],
+			[ "atontaríamos" ],
+			[ "atontaríais", "atontarían" ],
+			[ "atontarían" ]
+		],
+		"7" : [
+			[ "atontaré" ],
+			[ "atontarás" ],
+			[ "atontará" ],
+			[ "atontaremos" ],
+			[ "atontaréis", "atontarán" ],
+			[ "atontarán" ]
+		],
+		"8" : [
+			[ "atonte" ],
+			[ "atontes" ],
+			[ "atonte" ],
+			[ "atontemos" ],
+			[ "atontéis", "atonten" ],
+			[ "atonten" ]
+		],
+		"9" : [
+			[ "atontara" ],
+			[ "atontaras" ],
+			[ "atontara" ],
+			[ "atontáramos" ],
+			[ "atontarais", "atontaran" ],
+			[ "atontaran" ]
+		],
+		"10" : [
+			[ "atontase" ],
+			[ "atontases" ],
+			[ "atontase" ],
+			[ "atontásemos" ],
+			[ "atontaseis", "atontasen" ],
+			[ "atontasen" ]
+		],
+		"11" : [
+			[ "atontare" ],
+			[ "atontares" ],
+			[ "atontare" ],
+			[ "atontáremos" ],
+			[ "atontareis", "atontaren" ],
+			[ "atontaren" ]
+		],
+		"12" : {
+			"1" : [ "atonta" ],
+			"2" : [ "atonte" ],
+			"3" : [ "atontemos" ],
+			"4" : [ "atontad" ],
+			"5" : [ "atonten" ]
+		}
+	}
+}

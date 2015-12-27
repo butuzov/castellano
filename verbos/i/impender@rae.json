@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=impender",
+	"word" : "impender",
+	"infinitivo" : "impender",
+	"participio" : [ "impendido" ],
+	"gerundio" : [ "impendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "impendo" ],
+			[ "impendes", "impendés" ],
+			[ "impende" ],
+			[ "impendemos" ],
+			[ "impendéis", "impenden" ],
+			[ "impenden" ]
+		],
+		"4" : [
+			[ "impendí" ],
+			[ "impendiste" ],
+			[ "impendió" ],
+			[ "impendimos" ],
+			[ "impendisteis", "impendieron" ],
+			[ "impendieron" ]
+		],
+		"5" : [
+			[ "impendía" ],
+			[ "impendías" ],
+			[ "impendía" ],
+			[ "impendíamos" ],
+			[ "impendíais", "impendían" ],
+			[ "impendían" ]
+		],
+		"6" : [
+			[ "impendería" ],
+			[ "impenderías" ],
+			[ "impendería" ],
+			[ "impenderíamos" ],
+			[ "impenderíais", "impenderían" ],
+			[ "impenderían" ]
+		],
+		"7" : [
+			[ "impenderé" ],
+			[ "impenderás" ],
+			[ "impenderá" ],
+			[ "impenderemos" ],
+			[ "impenderéis", "impenderán" ],
+			[ "impenderán" ]
+		],
+		"8" : [
+			[ "impenda" ],
+			[ "impendas" ],
+			[ "impenda" ],
+			[ "impendamos" ],
+			[ "impendáis", "impendan" ],
+			[ "impendan" ]
+		],
+		"9" : [
+			[ "impendiera" ],
+			[ "impendieras" ],
+			[ "impendiera" ],
+			[ "impendiéramos" ],
+			[ "impendierais", "impendieran" ],
+			[ "impendieran" ]
+		],
+		"10" : [
+			[ "impendiese" ],
+			[ "impendieses" ],
+			[ "impendiese" ],
+			[ "impendiésemos" ],
+			[ "impendieseis", "impendiesen" ],
+			[ "impendiesen" ]
+		],
+		"11" : [
+			[ "impendiere" ],
+			[ "impendieres" ],
+			[ "impendiere" ],
+			[ "impendiéremos" ],
+			[ "impendiereis", "impendieren" ],
+			[ "impendieren" ]
+		],
+		"12" : {
+			"1" : [ "impende" ],
+			"2" : [ "impenda" ],
+			"3" : [ "impendamos" ],
+			"4" : [ "impended" ],
+			"5" : [ "impendan" ]
+		}
+	}
+}

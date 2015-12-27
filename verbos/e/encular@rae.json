@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encular",
+	"word" : "encular",
+	"infinitivo" : "encular",
+	"participio" : [ "enculado" ],
+	"gerundio" : [ "enculando" ],
+	"tenses" : {
+		"3" : [
+			[ "enculo" ],
+			[ "enculas", "enculás" ],
+			[ "encula" ],
+			[ "enculamos" ],
+			[ "enculáis", "enculan" ],
+			[ "enculan" ]
+		],
+		"4" : [
+			[ "enculé" ],
+			[ "enculaste" ],
+			[ "enculó" ],
+			[ "enculamos" ],
+			[ "enculasteis", "encularon" ],
+			[ "encularon" ]
+		],
+		"5" : [
+			[ "enculaba" ],
+			[ "enculabas" ],
+			[ "enculaba" ],
+			[ "enculábamos" ],
+			[ "enculabais", "enculaban" ],
+			[ "enculaban" ]
+		],
+		"6" : [
+			[ "encularía" ],
+			[ "encularías" ],
+			[ "encularía" ],
+			[ "encularíamos" ],
+			[ "encularíais", "encularían" ],
+			[ "encularían" ]
+		],
+		"7" : [
+			[ "encularé" ],
+			[ "encularás" ],
+			[ "enculará" ],
+			[ "encularemos" ],
+			[ "encularéis", "encularán" ],
+			[ "encularán" ]
+		],
+		"8" : [
+			[ "encule" ],
+			[ "encules" ],
+			[ "encule" ],
+			[ "enculemos" ],
+			[ "enculéis", "enculen" ],
+			[ "enculen" ]
+		],
+		"9" : [
+			[ "enculara" ],
+			[ "encularas" ],
+			[ "enculara" ],
+			[ "enculáramos" ],
+			[ "encularais", "encularan" ],
+			[ "encularan" ]
+		],
+		"10" : [
+			[ "enculase" ],
+			[ "enculases" ],
+			[ "enculase" ],
+			[ "enculásemos" ],
+			[ "enculaseis", "enculasen" ],
+			[ "enculasen" ]
+		],
+		"11" : [
+			[ "enculare" ],
+			[ "enculares" ],
+			[ "enculare" ],
+			[ "enculáremos" ],
+			[ "enculareis", "encularen" ],
+			[ "encularen" ]
+		],
+		"12" : {
+			"1" : [ "encula" ],
+			"2" : [ "encule" ],
+			"3" : [ "enculemos" ],
+			"4" : [ "enculad" ],
+			"5" : [ "enculen" ]
+		}
+	}
+}

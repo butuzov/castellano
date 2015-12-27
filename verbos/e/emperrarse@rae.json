@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emperrarse",
+	"word" : "emperrarse",
+	"infinitivo" : "emperrarse",
+	"participio" : [ "emperrado" ],
+	"gerundio" : [ "emperrándome", "emperrándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me emperro" ],
+			[ "te emperras", "te emperrás" ],
+			[ "se emperra" ],
+			[ "nos emperramos" ],
+			[ "os emperráis", "se emperran" ],
+			[ "se emperran" ]
+		],
+		"4" : [
+			[ "me emperré" ],
+			[ "te emperraste" ],
+			[ "se emperró" ],
+			[ "nos emperramos" ],
+			[ "os emperrasteis", "se emperraron" ],
+			[ "se emperraron" ]
+		],
+		"5" : [
+			[ "me emperraba" ],
+			[ "te emperrabas" ],
+			[ "se emperraba" ],
+			[ "nos emperrábamos" ],
+			[ "os emperrabais", "se emperraban" ],
+			[ "se emperraban" ]
+		],
+		"6" : [
+			[ "me emperraría" ],
+			[ "te emperrarías" ],
+			[ "se emperraría" ],
+			[ "nos emperraríamos" ],
+			[ "os emperraríais", "se emperrarían" ],
+			[ "se emperrarían" ]
+		],
+		"7" : [
+			[ "me emperraré" ],
+			[ "te emperrarás" ],
+			[ "se emperrará" ],
+			[ "nos emperraremos" ],
+			[ "os emperraréis", "se emperrarán" ],
+			[ "se emperrarán" ]
+		],
+		"8" : [
+			[ "me emperre" ],
+			[ "te emperres" ],
+			[ "se emperre" ],
+			[ "nos emperremos" ],
+			[ "os emperréis", "se emperren" ],
+			[ "se emperren" ]
+		],
+		"9" : [
+			[ "me emperrara" ],
+			[ "te emperraras" ],
+			[ "se emperrara" ],
+			[ "nos emperráramos" ],
+			[ "os emperrarais", "se emperraran" ],
+			[ "se emperraran" ]
+		],
+		"10" : [
+			[ "me emperrase" ],
+			[ "te emperrases" ],
+			[ "se emperrase" ],
+			[ "nos emperrásemos" ],
+			[ "os emperraseis", "se emperrasen" ],
+			[ "se emperrasen" ]
+		],
+		"11" : [
+			[ "me emperrare" ],
+			[ "te emperrares" ],
+			[ "se emperrare" ],
+			[ "nos emperráremos" ],
+			[ "os emperrareis", "se emperraren" ],
+			[ "se emperraren" ]
+		],
+		"12" : {
+			"1" : [ "empérrate" ],
+			"2" : [ "emperre" ],
+			"3" : [ "emperremos" ],
+			"4" : [ "emperraos" ],
+			"5" : [ "empérrense" ]
+		}
+	}
+}

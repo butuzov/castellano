@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=avivar",
+	"word" : "avivar",
+	"infinitivo" : "avivar",
+	"participio" : [ "avivado" ],
+	"gerundio" : [ "avivando" ],
+	"tenses" : {
+		"3" : [
+			[ "avivo" ],
+			[ "avivas", "avivás" ],
+			[ "aviva" ],
+			[ "avivamos" ],
+			[ "aviváis", "avivan" ],
+			[ "avivan" ]
+		],
+		"4" : [
+			[ "avivé" ],
+			[ "avivaste" ],
+			[ "avivó" ],
+			[ "avivamos" ],
+			[ "avivasteis", "avivaron" ],
+			[ "avivaron" ]
+		],
+		"5" : [
+			[ "avivaba" ],
+			[ "avivabas" ],
+			[ "avivaba" ],
+			[ "avivábamos" ],
+			[ "avivabais", "avivaban" ],
+			[ "avivaban" ]
+		],
+		"6" : [
+			[ "avivaría" ],
+			[ "avivarías" ],
+			[ "avivaría" ],
+			[ "avivaríamos" ],
+			[ "avivaríais", "avivarían" ],
+			[ "avivarían" ]
+		],
+		"7" : [
+			[ "avivaré" ],
+			[ "avivarás" ],
+			[ "avivará" ],
+			[ "avivaremos" ],
+			[ "avivaréis", "avivarán" ],
+			[ "avivarán" ]
+		],
+		"8" : [
+			[ "avive" ],
+			[ "avives" ],
+			[ "avive" ],
+			[ "avivemos" ],
+			[ "avivéis", "aviven" ],
+			[ "aviven" ]
+		],
+		"9" : [
+			[ "avivara" ],
+			[ "avivaras" ],
+			[ "avivara" ],
+			[ "aviváramos" ],
+			[ "avivarais", "avivaran" ],
+			[ "avivaran" ]
+		],
+		"10" : [
+			[ "avivase" ],
+			[ "avivases" ],
+			[ "avivase" ],
+			[ "avivásemos" ],
+			[ "avivaseis", "avivasen" ],
+			[ "avivasen" ]
+		],
+		"11" : [
+			[ "avivare" ],
+			[ "avivares" ],
+			[ "avivare" ],
+			[ "aviváremos" ],
+			[ "avivareis", "avivaren" ],
+			[ "avivaren" ]
+		],
+		"12" : {
+			"1" : [ "aviva" ],
+			"2" : [ "avive" ],
+			"3" : [ "avivemos" ],
+			"4" : [ "avivad" ],
+			"5" : [ "aviven" ]
+		}
+	}
+}

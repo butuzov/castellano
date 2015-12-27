@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desaguar",
+	"word" : "desaguar",
+	"infinitivo" : "desaguar",
+	"participio" : [ "desaguado" ],
+	"gerundio" : [ "desaguando" ],
+	"tenses" : {
+		"3" : [
+			[ "desaguo" ],
+			[ "desaguas", "desaguás" ],
+			[ "desagua" ],
+			[ "desaguamos" ],
+			[ "desaguáis", "desaguan" ],
+			[ "desaguan" ]
+		],
+		"4" : [
+			[ "desagüé" ],
+			[ "desaguaste" ],
+			[ "desaguó" ],
+			[ "desaguamos" ],
+			[ "desaguasteis", "desaguaron" ],
+			[ "desaguaron" ]
+		],
+		"5" : [
+			[ "desaguaba" ],
+			[ "desaguabas" ],
+			[ "desaguaba" ],
+			[ "desaguábamos" ],
+			[ "desaguabais", "desaguaban" ],
+			[ "desaguaban" ]
+		],
+		"6" : [
+			[ "desaguaría" ],
+			[ "desaguarías" ],
+			[ "desaguaría" ],
+			[ "desaguaríamos" ],
+			[ "desaguaríais", "desaguarían" ],
+			[ "desaguarían" ]
+		],
+		"7" : [
+			[ "desaguaré" ],
+			[ "desaguarás" ],
+			[ "desaguará" ],
+			[ "desaguaremos" ],
+			[ "desaguaréis", "desaguarán" ],
+			[ "desaguarán" ]
+		],
+		"8" : [
+			[ "desagüe" ],
+			[ "desagües" ],
+			[ "desagüe" ],
+			[ "desagüemos" ],
+			[ "desagüéis", "desagüen" ],
+			[ "desagüen" ]
+		],
+		"9" : [
+			[ "desaguara" ],
+			[ "desaguaras" ],
+			[ "desaguara" ],
+			[ "desaguáramos" ],
+			[ "desaguarais", "desaguaran" ],
+			[ "desaguaran" ]
+		],
+		"10" : [
+			[ "desaguase" ],
+			[ "desaguases" ],
+			[ "desaguase" ],
+			[ "desaguásemos" ],
+			[ "desaguaseis", "desaguasen" ],
+			[ "desaguasen" ]
+		],
+		"11" : [
+			[ "desaguare" ],
+			[ "desaguares" ],
+			[ "desaguare" ],
+			[ "desaguáremos" ],
+			[ "desaguareis", "desaguaren" ],
+			[ "desaguaren" ]
+		],
+		"12" : {
+			"1" : [ "desagua" ],
+			"2" : [ "desagüe" ],
+			"3" : [ "desagüemos" ],
+			"4" : [ "desaguad" ],
+			"5" : [ "desagüen" ]
+		}
+	}
+}

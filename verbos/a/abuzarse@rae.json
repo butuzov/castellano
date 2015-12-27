@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abuzarse",
+	"word" : "abuzarse",
+	"infinitivo" : "abuzarse",
+	"participio" : [ "abuzado" ],
+	"gerundio" : [ "abuzándome", "abuzándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me abuzo" ],
+			[ "te abuzas", "te abuzás" ],
+			[ "se abuza" ],
+			[ "nos abuzamos" ],
+			[ "os abuzáis", "se abuzan" ],
+			[ "se abuzan" ]
+		],
+		"4" : [
+			[ "me abucé" ],
+			[ "te abuzaste" ],
+			[ "se abuzó" ],
+			[ "nos abuzamos" ],
+			[ "os abuzasteis", "se abuzaron" ],
+			[ "se abuzaron" ]
+		],
+		"5" : [
+			[ "me abuzaba" ],
+			[ "te abuzabas" ],
+			[ "se abuzaba" ],
+			[ "nos abuzábamos" ],
+			[ "os abuzabais", "se abuzaban" ],
+			[ "se abuzaban" ]
+		],
+		"6" : [
+			[ "me abuzaría" ],
+			[ "te abuzarías" ],
+			[ "se abuzaría" ],
+			[ "nos abuzaríamos" ],
+			[ "os abuzaríais", "se abuzarían" ],
+			[ "se abuzarían" ]
+		],
+		"7" : [
+			[ "me abuzaré" ],
+			[ "te abuzarás" ],
+			[ "se abuzará" ],
+			[ "nos abuzaremos" ],
+			[ "os abuzaréis", "se abuzarán" ],
+			[ "se abuzarán" ]
+		],
+		"8" : [
+			[ "me abuce" ],
+			[ "te abuces" ],
+			[ "se abuce" ],
+			[ "nos abucemos" ],
+			[ "os abucéis", "se abucen" ],
+			[ "se abucen" ]
+		],
+		"9" : [
+			[ "me abuzara" ],
+			[ "te abuzaras" ],
+			[ "se abuzara" ],
+			[ "nos abuzáramos" ],
+			[ "os abuzarais", "se abuzaran" ],
+			[ "se abuzaran" ]
+		],
+		"10" : [
+			[ "me abuzase" ],
+			[ "te abuzases" ],
+			[ "se abuzase" ],
+			[ "nos abuzásemos" ],
+			[ "os abuzaseis", "se abuzasen" ],
+			[ "se abuzasen" ]
+		],
+		"11" : [
+			[ "me abuzare" ],
+			[ "te abuzares" ],
+			[ "se abuzare" ],
+			[ "nos abuzáremos" ],
+			[ "os abuzareis", "se abuzaren" ],
+			[ "se abuzaren" ]
+		],
+		"12" : {
+			"1" : [ "abúzate" ],
+			"2" : [ "abuce" ],
+			"3" : [ "abucemos" ],
+			"4" : [ "abuzaos" ],
+			"5" : [ "abúcense" ]
+		}
+	}
+}

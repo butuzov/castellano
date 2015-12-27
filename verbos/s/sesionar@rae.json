@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sesionar",
+	"word" : "sesionar",
+	"infinitivo" : "sesionar",
+	"participio" : [ "sesionado" ],
+	"gerundio" : [ "sesionando" ],
+	"tenses" : {
+		"3" : [
+			[ "sesiono" ],
+			[ "sesionas", "sesionás" ],
+			[ "sesiona" ],
+			[ "sesionamos" ],
+			[ "sesionáis", "sesionan" ],
+			[ "sesionan" ]
+		],
+		"4" : [
+			[ "sesioné" ],
+			[ "sesionaste" ],
+			[ "sesionó" ],
+			[ "sesionamos" ],
+			[ "sesionasteis", "sesionaron" ],
+			[ "sesionaron" ]
+		],
+		"5" : [
+			[ "sesionaba" ],
+			[ "sesionabas" ],
+			[ "sesionaba" ],
+			[ "sesionábamos" ],
+			[ "sesionabais", "sesionaban" ],
+			[ "sesionaban" ]
+		],
+		"6" : [
+			[ "sesionaría" ],
+			[ "sesionarías" ],
+			[ "sesionaría" ],
+			[ "sesionaríamos" ],
+			[ "sesionaríais", "sesionarían" ],
+			[ "sesionarían" ]
+		],
+		"7" : [
+			[ "sesionaré" ],
+			[ "sesionarás" ],
+			[ "sesionará" ],
+			[ "sesionaremos" ],
+			[ "sesionaréis", "sesionarán" ],
+			[ "sesionarán" ]
+		],
+		"8" : [
+			[ "sesione" ],
+			[ "sesiones" ],
+			[ "sesione" ],
+			[ "sesionemos" ],
+			[ "sesionéis", "sesionen" ],
+			[ "sesionen" ]
+		],
+		"9" : [
+			[ "sesionara" ],
+			[ "sesionaras" ],
+			[ "sesionara" ],
+			[ "sesionáramos" ],
+			[ "sesionarais", "sesionaran" ],
+			[ "sesionaran" ]
+		],
+		"10" : [
+			[ "sesionase" ],
+			[ "sesionases" ],
+			[ "sesionase" ],
+			[ "sesionásemos" ],
+			[ "sesionaseis", "sesionasen" ],
+			[ "sesionasen" ]
+		],
+		"11" : [
+			[ "sesionare" ],
+			[ "sesionares" ],
+			[ "sesionare" ],
+			[ "sesionáremos" ],
+			[ "sesionareis", "sesionaren" ],
+			[ "sesionaren" ]
+		],
+		"12" : {
+			"1" : [ "sesiona" ],
+			"2" : [ "sesione" ],
+			"3" : [ "sesionemos" ],
+			"4" : [ "sesionad" ],
+			"5" : [ "sesionen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encargar",
+	"word" : "encargar",
+	"infinitivo" : "encargar",
+	"participio" : [ "encargado" ],
+	"gerundio" : [ "encargando" ],
+	"tenses" : {
+		"3" : [
+			[ "encargo" ],
+			[ "encargas", "encargás" ],
+			[ "encarga" ],
+			[ "encargamos" ],
+			[ "encargáis", "encargan" ],
+			[ "encargan" ]
+		],
+		"4" : [
+			[ "encargué" ],
+			[ "encargaste" ],
+			[ "encargó" ],
+			[ "encargamos" ],
+			[ "encargasteis", "encargaron" ],
+			[ "encargaron" ]
+		],
+		"5" : [
+			[ "encargaba" ],
+			[ "encargabas" ],
+			[ "encargaba" ],
+			[ "encargábamos" ],
+			[ "encargabais", "encargaban" ],
+			[ "encargaban" ]
+		],
+		"6" : [
+			[ "encargaría" ],
+			[ "encargarías" ],
+			[ "encargaría" ],
+			[ "encargaríamos" ],
+			[ "encargaríais", "encargarían" ],
+			[ "encargarían" ]
+		],
+		"7" : [
+			[ "encargaré" ],
+			[ "encargarás" ],
+			[ "encargará" ],
+			[ "encargaremos" ],
+			[ "encargaréis", "encargarán" ],
+			[ "encargarán" ]
+		],
+		"8" : [
+			[ "encargue" ],
+			[ "encargues" ],
+			[ "encargue" ],
+			[ "encarguemos" ],
+			[ "encarguéis", "encarguen" ],
+			[ "encarguen" ]
+		],
+		"9" : [
+			[ "encargara" ],
+			[ "encargaras" ],
+			[ "encargara" ],
+			[ "encargáramos" ],
+			[ "encargarais", "encargaran" ],
+			[ "encargaran" ]
+		],
+		"10" : [
+			[ "encargase" ],
+			[ "encargases" ],
+			[ "encargase" ],
+			[ "encargásemos" ],
+			[ "encargaseis", "encargasen" ],
+			[ "encargasen" ]
+		],
+		"11" : [
+			[ "encargare" ],
+			[ "encargares" ],
+			[ "encargare" ],
+			[ "encargáremos" ],
+			[ "encargareis", "encargaren" ],
+			[ "encargaren" ]
+		],
+		"12" : {
+			"1" : [ "encarga" ],
+			"2" : [ "encargue" ],
+			"3" : [ "encarguemos" ],
+			"4" : [ "encargad" ],
+			"5" : [ "encarguen" ]
+		}
+	}
+}

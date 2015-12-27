@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=proferir",
+	"word" : "proferir",
+	"infinitivo" : "proferir",
+	"participio" : [ "proferido" ],
+	"gerundio" : [ "profiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "profiero" ],
+			[ "profieres", "proferís" ],
+			[ "profiere" ],
+			[ "proferimos" ],
+			[ "proferís", "profieren" ],
+			[ "profieren" ]
+		],
+		"4" : [
+			[ "proferí" ],
+			[ "proferiste" ],
+			[ "profirió" ],
+			[ "proferimos" ],
+			[ "proferisteis", "profirieron" ],
+			[ "profirieron" ]
+		],
+		"5" : [
+			[ "profería" ],
+			[ "proferías" ],
+			[ "profería" ],
+			[ "proferíamos" ],
+			[ "proferíais", "proferían" ],
+			[ "proferían" ]
+		],
+		"6" : [
+			[ "proferiría" ],
+			[ "proferirías" ],
+			[ "proferiría" ],
+			[ "proferiríamos" ],
+			[ "proferiríais", "proferirían" ],
+			[ "proferirían" ]
+		],
+		"7" : [
+			[ "proferiré" ],
+			[ "proferirás" ],
+			[ "proferirá" ],
+			[ "proferiremos" ],
+			[ "proferiréis", "proferirán" ],
+			[ "proferirán" ]
+		],
+		"8" : [
+			[ "profiera" ],
+			[ "profieras" ],
+			[ "profiera" ],
+			[ "profiramos" ],
+			[ "profiráis", "profieran" ],
+			[ "profieran" ]
+		],
+		"9" : [
+			[ "profiriera" ],
+			[ "profirieras" ],
+			[ "profiriera" ],
+			[ "profiriéramos" ],
+			[ "profirierais", "profirieran" ],
+			[ "profirieran" ]
+		],
+		"10" : [
+			[ "profiriese" ],
+			[ "profirieses" ],
+			[ "profiriese" ],
+			[ "profiriésemos" ],
+			[ "profirieseis", "profiriesen" ],
+			[ "profiriesen" ]
+		],
+		"11" : [
+			[ "profiriere" ],
+			[ "profirieres" ],
+			[ "profiriere" ],
+			[ "profiriéremos" ],
+			[ "profiriereis", "profirieren" ],
+			[ "profirieren" ]
+		],
+		"12" : {
+			"1" : [ "profiere" ],
+			"2" : [ "profiera" ],
+			"3" : [ "profiramos" ],
+			"4" : [ "proferid" ],
+			"5" : [ "profieran" ]
+		}
+	}
+}

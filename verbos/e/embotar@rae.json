@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embotar",
+	"word" : "embotar",
+	"infinitivo" : "embotar",
+	"participio" : [ "embotado" ],
+	"gerundio" : [ "embotando" ],
+	"tenses" : {
+		"3" : [
+			[ "emboto" ],
+			[ "embotas", "embotás" ],
+			[ "embota" ],
+			[ "embotamos" ],
+			[ "embotáis", "embotan" ],
+			[ "embotan" ]
+		],
+		"4" : [
+			[ "emboté" ],
+			[ "embotaste" ],
+			[ "embotó" ],
+			[ "embotamos" ],
+			[ "embotasteis", "embotaron" ],
+			[ "embotaron" ]
+		],
+		"5" : [
+			[ "embotaba" ],
+			[ "embotabas" ],
+			[ "embotaba" ],
+			[ "embotábamos" ],
+			[ "embotabais", "embotaban" ],
+			[ "embotaban" ]
+		],
+		"6" : [
+			[ "embotaría" ],
+			[ "embotarías" ],
+			[ "embotaría" ],
+			[ "embotaríamos" ],
+			[ "embotaríais", "embotarían" ],
+			[ "embotarían" ]
+		],
+		"7" : [
+			[ "embotaré" ],
+			[ "embotarás" ],
+			[ "embotará" ],
+			[ "embotaremos" ],
+			[ "embotaréis", "embotarán" ],
+			[ "embotarán" ]
+		],
+		"8" : [
+			[ "embote" ],
+			[ "embotes" ],
+			[ "embote" ],
+			[ "embotemos" ],
+			[ "embotéis", "emboten" ],
+			[ "emboten" ]
+		],
+		"9" : [
+			[ "embotara" ],
+			[ "embotaras" ],
+			[ "embotara" ],
+			[ "embotáramos" ],
+			[ "embotarais", "embotaran" ],
+			[ "embotaran" ]
+		],
+		"10" : [
+			[ "embotase" ],
+			[ "embotases" ],
+			[ "embotase" ],
+			[ "embotásemos" ],
+			[ "embotaseis", "embotasen" ],
+			[ "embotasen" ]
+		],
+		"11" : [
+			[ "embotare" ],
+			[ "embotares" ],
+			[ "embotare" ],
+			[ "embotáremos" ],
+			[ "embotareis", "embotaren" ],
+			[ "embotaren" ]
+		],
+		"12" : {
+			"1" : [ "embota" ],
+			"2" : [ "embote" ],
+			"3" : [ "embotemos" ],
+			"4" : [ "embotad" ],
+			"5" : [ "emboten" ]
+		}
+	}
+}

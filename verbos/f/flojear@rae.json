@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=flojear",
+	"word" : "flojear",
+	"infinitivo" : "flojear",
+	"participio" : [ "flojeado" ],
+	"gerundio" : [ "flojeando" ],
+	"tenses" : {
+		"3" : [
+			[ "flojeo" ],
+			[ "flojeas", "flojeás" ],
+			[ "flojea" ],
+			[ "flojeamos" ],
+			[ "flojeáis", "flojean" ],
+			[ "flojean" ]
+		],
+		"4" : [
+			[ "flojeé" ],
+			[ "flojeaste" ],
+			[ "flojeó" ],
+			[ "flojeamos" ],
+			[ "flojeasteis", "flojearon" ],
+			[ "flojearon" ]
+		],
+		"5" : [
+			[ "flojeaba" ],
+			[ "flojeabas" ],
+			[ "flojeaba" ],
+			[ "flojeábamos" ],
+			[ "flojeabais", "flojeaban" ],
+			[ "flojeaban" ]
+		],
+		"6" : [
+			[ "flojearía" ],
+			[ "flojearías" ],
+			[ "flojearía" ],
+			[ "flojearíamos" ],
+			[ "flojearíais", "flojearían" ],
+			[ "flojearían" ]
+		],
+		"7" : [
+			[ "flojearé" ],
+			[ "flojearás" ],
+			[ "flojeará" ],
+			[ "flojearemos" ],
+			[ "flojearéis", "flojearán" ],
+			[ "flojearán" ]
+		],
+		"8" : [
+			[ "flojee" ],
+			[ "flojees" ],
+			[ "flojee" ],
+			[ "flojeemos" ],
+			[ "flojeéis", "flojeen" ],
+			[ "flojeen" ]
+		],
+		"9" : [
+			[ "flojeara" ],
+			[ "flojearas" ],
+			[ "flojeara" ],
+			[ "flojeáramos" ],
+			[ "flojearais", "flojearan" ],
+			[ "flojearan" ]
+		],
+		"10" : [
+			[ "flojease" ],
+			[ "flojeases" ],
+			[ "flojease" ],
+			[ "flojeásemos" ],
+			[ "flojeaseis", "flojeasen" ],
+			[ "flojeasen" ]
+		],
+		"11" : [
+			[ "flojeare" ],
+			[ "flojeares" ],
+			[ "flojeare" ],
+			[ "flojeáremos" ],
+			[ "flojeareis", "flojearen" ],
+			[ "flojearen" ]
+		],
+		"12" : {
+			"1" : [ "flojea" ],
+			"2" : [ "flojee" ],
+			"3" : [ "flojeemos" ],
+			"4" : [ "flojead" ],
+			"5" : [ "flojeen" ]
+		}
+	}
+}

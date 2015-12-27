@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alocar",
+	"word" : "alocar",
+	"infinitivo" : "alocar",
+	"participio" : [ "alocado" ],
+	"gerundio" : [ "alocando" ],
+	"tenses" : {
+		"3" : [
+			[ "aloco" ],
+			[ "alocas", "alocás" ],
+			[ "aloca" ],
+			[ "alocamos" ],
+			[ "alocáis", "alocan" ],
+			[ "alocan" ]
+		],
+		"4" : [
+			[ "aloqué" ],
+			[ "alocaste" ],
+			[ "alocó" ],
+			[ "alocamos" ],
+			[ "alocasteis", "alocaron" ],
+			[ "alocaron" ]
+		],
+		"5" : [
+			[ "alocaba" ],
+			[ "alocabas" ],
+			[ "alocaba" ],
+			[ "alocábamos" ],
+			[ "alocabais", "alocaban" ],
+			[ "alocaban" ]
+		],
+		"6" : [
+			[ "alocaría" ],
+			[ "alocarías" ],
+			[ "alocaría" ],
+			[ "alocaríamos" ],
+			[ "alocaríais", "alocarían" ],
+			[ "alocarían" ]
+		],
+		"7" : [
+			[ "alocaré" ],
+			[ "alocarás" ],
+			[ "alocará" ],
+			[ "alocaremos" ],
+			[ "alocaréis", "alocarán" ],
+			[ "alocarán" ]
+		],
+		"8" : [
+			[ "aloque" ],
+			[ "aloques" ],
+			[ "aloque" ],
+			[ "aloquemos" ],
+			[ "aloquéis", "aloquen" ],
+			[ "aloquen" ]
+		],
+		"9" : [
+			[ "alocara" ],
+			[ "alocaras" ],
+			[ "alocara" ],
+			[ "alocáramos" ],
+			[ "alocarais", "alocaran" ],
+			[ "alocaran" ]
+		],
+		"10" : [
+			[ "alocase" ],
+			[ "alocases" ],
+			[ "alocase" ],
+			[ "alocásemos" ],
+			[ "alocaseis", "alocasen" ],
+			[ "alocasen" ]
+		],
+		"11" : [
+			[ "alocare" ],
+			[ "alocares" ],
+			[ "alocare" ],
+			[ "alocáremos" ],
+			[ "alocareis", "alocaren" ],
+			[ "alocaren" ]
+		],
+		"12" : {
+			"1" : [ "aloca" ],
+			"2" : [ "aloque" ],
+			"3" : [ "aloquemos" ],
+			"4" : [ "alocad" ],
+			"5" : [ "aloquen" ]
+		}
+	}
+}

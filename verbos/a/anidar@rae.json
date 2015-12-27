@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anidar",
+	"word" : "anidar",
+	"infinitivo" : "anidar",
+	"participio" : [ "anidado" ],
+	"gerundio" : [ "anidando" ],
+	"tenses" : {
+		"3" : [
+			[ "anido" ],
+			[ "anidas", "anidás" ],
+			[ "anida" ],
+			[ "anidamos" ],
+			[ "anidáis", "anidan" ],
+			[ "anidan" ]
+		],
+		"4" : [
+			[ "anidé" ],
+			[ "anidaste" ],
+			[ "anidó" ],
+			[ "anidamos" ],
+			[ "anidasteis", "anidaron" ],
+			[ "anidaron" ]
+		],
+		"5" : [
+			[ "anidaba" ],
+			[ "anidabas" ],
+			[ "anidaba" ],
+			[ "anidábamos" ],
+			[ "anidabais", "anidaban" ],
+			[ "anidaban" ]
+		],
+		"6" : [
+			[ "anidaría" ],
+			[ "anidarías" ],
+			[ "anidaría" ],
+			[ "anidaríamos" ],
+			[ "anidaríais", "anidarían" ],
+			[ "anidarían" ]
+		],
+		"7" : [
+			[ "anidaré" ],
+			[ "anidarás" ],
+			[ "anidará" ],
+			[ "anidaremos" ],
+			[ "anidaréis", "anidarán" ],
+			[ "anidarán" ]
+		],
+		"8" : [
+			[ "anide" ],
+			[ "anides" ],
+			[ "anide" ],
+			[ "anidemos" ],
+			[ "anidéis", "aniden" ],
+			[ "aniden" ]
+		],
+		"9" : [
+			[ "anidara" ],
+			[ "anidaras" ],
+			[ "anidara" ],
+			[ "anidáramos" ],
+			[ "anidarais", "anidaran" ],
+			[ "anidaran" ]
+		],
+		"10" : [
+			[ "anidase" ],
+			[ "anidases" ],
+			[ "anidase" ],
+			[ "anidásemos" ],
+			[ "anidaseis", "anidasen" ],
+			[ "anidasen" ]
+		],
+		"11" : [
+			[ "anidare" ],
+			[ "anidares" ],
+			[ "anidare" ],
+			[ "anidáremos" ],
+			[ "anidareis", "anidaren" ],
+			[ "anidaren" ]
+		],
+		"12" : {
+			"1" : [ "anida" ],
+			"2" : [ "anide" ],
+			"3" : [ "anidemos" ],
+			"4" : [ "anidad" ],
+			"5" : [ "aniden" ]
+		}
+	}
+}

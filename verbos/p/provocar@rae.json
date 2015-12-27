@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=provocar",
+	"word" : "provocar",
+	"infinitivo" : "provocar",
+	"participio" : [ "provocado" ],
+	"gerundio" : [ "provocando" ],
+	"tenses" : {
+		"3" : [
+			[ "provoco" ],
+			[ "provocas", "provocás" ],
+			[ "provoca" ],
+			[ "provocamos" ],
+			[ "provocáis", "provocan" ],
+			[ "provocan" ]
+		],
+		"4" : [
+			[ "provoqué" ],
+			[ "provocaste" ],
+			[ "provocó" ],
+			[ "provocamos" ],
+			[ "provocasteis", "provocaron" ],
+			[ "provocaron" ]
+		],
+		"5" : [
+			[ "provocaba" ],
+			[ "provocabas" ],
+			[ "provocaba" ],
+			[ "provocábamos" ],
+			[ "provocabais", "provocaban" ],
+			[ "provocaban" ]
+		],
+		"6" : [
+			[ "provocaría" ],
+			[ "provocarías" ],
+			[ "provocaría" ],
+			[ "provocaríamos" ],
+			[ "provocaríais", "provocarían" ],
+			[ "provocarían" ]
+		],
+		"7" : [
+			[ "provocaré" ],
+			[ "provocarás" ],
+			[ "provocará" ],
+			[ "provocaremos" ],
+			[ "provocaréis", "provocarán" ],
+			[ "provocarán" ]
+		],
+		"8" : [
+			[ "provoque" ],
+			[ "provoques" ],
+			[ "provoque" ],
+			[ "provoquemos" ],
+			[ "provoquéis", "provoquen" ],
+			[ "provoquen" ]
+		],
+		"9" : [
+			[ "provocara" ],
+			[ "provocaras" ],
+			[ "provocara" ],
+			[ "provocáramos" ],
+			[ "provocarais", "provocaran" ],
+			[ "provocaran" ]
+		],
+		"10" : [
+			[ "provocase" ],
+			[ "provocases" ],
+			[ "provocase" ],
+			[ "provocásemos" ],
+			[ "provocaseis", "provocasen" ],
+			[ "provocasen" ]
+		],
+		"11" : [
+			[ "provocare" ],
+			[ "provocares" ],
+			[ "provocare" ],
+			[ "provocáremos" ],
+			[ "provocareis", "provocaren" ],
+			[ "provocaren" ]
+		],
+		"12" : {
+			"1" : [ "provoca" ],
+			"2" : [ "provoque" ],
+			"3" : [ "provoquemos" ],
+			"4" : [ "provocad" ],
+			"5" : [ "provoquen" ]
+		}
+	}
+}

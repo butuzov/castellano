@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=levitar",
+	"word" : "levitar",
+	"infinitivo" : "levitar",
+	"participio" : [ "levitado" ],
+	"gerundio" : [ "levitando" ],
+	"tenses" : {
+		"3" : [
+			[ "levito" ],
+			[ "levitas", "levitás" ],
+			[ "levita" ],
+			[ "levitamos" ],
+			[ "levitáis", "levitan" ],
+			[ "levitan" ]
+		],
+		"4" : [
+			[ "levité" ],
+			[ "levitaste" ],
+			[ "levitó" ],
+			[ "levitamos" ],
+			[ "levitasteis", "levitaron" ],
+			[ "levitaron" ]
+		],
+		"5" : [
+			[ "levitaba" ],
+			[ "levitabas" ],
+			[ "levitaba" ],
+			[ "levitábamos" ],
+			[ "levitabais", "levitaban" ],
+			[ "levitaban" ]
+		],
+		"6" : [
+			[ "levitaría" ],
+			[ "levitarías" ],
+			[ "levitaría" ],
+			[ "levitaríamos" ],
+			[ "levitaríais", "levitarían" ],
+			[ "levitarían" ]
+		],
+		"7" : [
+			[ "levitaré" ],
+			[ "levitarás" ],
+			[ "levitará" ],
+			[ "levitaremos" ],
+			[ "levitaréis", "levitarán" ],
+			[ "levitarán" ]
+		],
+		"8" : [
+			[ "levite" ],
+			[ "levites" ],
+			[ "levite" ],
+			[ "levitemos" ],
+			[ "levitéis", "leviten" ],
+			[ "leviten" ]
+		],
+		"9" : [
+			[ "levitara" ],
+			[ "levitaras" ],
+			[ "levitara" ],
+			[ "levitáramos" ],
+			[ "levitarais", "levitaran" ],
+			[ "levitaran" ]
+		],
+		"10" : [
+			[ "levitase" ],
+			[ "levitases" ],
+			[ "levitase" ],
+			[ "levitásemos" ],
+			[ "levitaseis", "levitasen" ],
+			[ "levitasen" ]
+		],
+		"11" : [
+			[ "levitare" ],
+			[ "levitares" ],
+			[ "levitare" ],
+			[ "levitáremos" ],
+			[ "levitareis", "levitaren" ],
+			[ "levitaren" ]
+		],
+		"12" : {
+			"1" : [ "levita" ],
+			"2" : [ "levite" ],
+			"3" : [ "levitemos" ],
+			"4" : [ "levitad" ],
+			"5" : [ "leviten" ]
+		}
+	}
+}

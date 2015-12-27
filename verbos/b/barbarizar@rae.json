@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=barbarizar",
+	"word" : "barbarizar",
+	"infinitivo" : "barbarizar",
+	"participio" : [ "barbarizado" ],
+	"gerundio" : [ "barbarizando" ],
+	"tenses" : {
+		"3" : [
+			[ "barbarizo" ],
+			[ "barbarizas", "barbarizás" ],
+			[ "barbariza" ],
+			[ "barbarizamos" ],
+			[ "barbarizáis", "barbarizan" ],
+			[ "barbarizan" ]
+		],
+		"4" : [
+			[ "barbaricé" ],
+			[ "barbarizaste" ],
+			[ "barbarizó" ],
+			[ "barbarizamos" ],
+			[ "barbarizasteis", "barbarizaron" ],
+			[ "barbarizaron" ]
+		],
+		"5" : [
+			[ "barbarizaba" ],
+			[ "barbarizabas" ],
+			[ "barbarizaba" ],
+			[ "barbarizábamos" ],
+			[ "barbarizabais", "barbarizaban" ],
+			[ "barbarizaban" ]
+		],
+		"6" : [
+			[ "barbarizaría" ],
+			[ "barbarizarías" ],
+			[ "barbarizaría" ],
+			[ "barbarizaríamos" ],
+			[ "barbarizaríais", "barbarizarían" ],
+			[ "barbarizarían" ]
+		],
+		"7" : [
+			[ "barbarizaré" ],
+			[ "barbarizarás" ],
+			[ "barbarizará" ],
+			[ "barbarizaremos" ],
+			[ "barbarizaréis", "barbarizarán" ],
+			[ "barbarizarán" ]
+		],
+		"8" : [
+			[ "barbarice" ],
+			[ "barbarices" ],
+			[ "barbarice" ],
+			[ "barbaricemos" ],
+			[ "barbaricéis", "barbaricen" ],
+			[ "barbaricen" ]
+		],
+		"9" : [
+			[ "barbarizara" ],
+			[ "barbarizaras" ],
+			[ "barbarizara" ],
+			[ "barbarizáramos" ],
+			[ "barbarizarais", "barbarizaran" ],
+			[ "barbarizaran" ]
+		],
+		"10" : [
+			[ "barbarizase" ],
+			[ "barbarizases" ],
+			[ "barbarizase" ],
+			[ "barbarizásemos" ],
+			[ "barbarizaseis", "barbarizasen" ],
+			[ "barbarizasen" ]
+		],
+		"11" : [
+			[ "barbarizare" ],
+			[ "barbarizares" ],
+			[ "barbarizare" ],
+			[ "barbarizáremos" ],
+			[ "barbarizareis", "barbarizaren" ],
+			[ "barbarizaren" ]
+		],
+		"12" : {
+			"1" : [ "barbariza" ],
+			"2" : [ "barbarice" ],
+			"3" : [ "barbaricemos" ],
+			"4" : [ "barbarizad" ],
+			"5" : [ "barbaricen" ]
+		}
+	}
+}

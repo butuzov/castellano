@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=infligir",
+	"word" : "infligir",
+	"infinitivo" : "infligir",
+	"participio" : [ "infligido" ],
+	"gerundio" : [ "infligiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "inflijo" ],
+			[ "infliges", "infligís" ],
+			[ "inflige" ],
+			[ "infligimos" ],
+			[ "infligís", "infligen" ],
+			[ "infligen" ]
+		],
+		"4" : [
+			[ "infligí" ],
+			[ "infligiste" ],
+			[ "infligió" ],
+			[ "infligimos" ],
+			[ "infligisteis", "infligieron" ],
+			[ "infligieron" ]
+		],
+		"5" : [
+			[ "infligía" ],
+			[ "infligías" ],
+			[ "infligía" ],
+			[ "infligíamos" ],
+			[ "infligíais", "infligían" ],
+			[ "infligían" ]
+		],
+		"6" : [
+			[ "infligiría" ],
+			[ "infligirías" ],
+			[ "infligiría" ],
+			[ "infligiríamos" ],
+			[ "infligiríais", "infligirían" ],
+			[ "infligirían" ]
+		],
+		"7" : [
+			[ "infligiré" ],
+			[ "infligirás" ],
+			[ "infligirá" ],
+			[ "infligiremos" ],
+			[ "infligiréis", "infligirán" ],
+			[ "infligirán" ]
+		],
+		"8" : [
+			[ "inflija" ],
+			[ "inflijas" ],
+			[ "inflija" ],
+			[ "inflijamos" ],
+			[ "inflijáis", "inflijan" ],
+			[ "inflijan" ]
+		],
+		"9" : [
+			[ "infligiera" ],
+			[ "infligieras" ],
+			[ "infligiera" ],
+			[ "infligiéramos" ],
+			[ "infligierais", "infligieran" ],
+			[ "infligieran" ]
+		],
+		"10" : [
+			[ "infligiese" ],
+			[ "infligieses" ],
+			[ "infligiese" ],
+			[ "infligiésemos" ],
+			[ "infligieseis", "infligiesen" ],
+			[ "infligiesen" ]
+		],
+		"11" : [
+			[ "infligiere" ],
+			[ "infligieres" ],
+			[ "infligiere" ],
+			[ "infligiéremos" ],
+			[ "infligiereis", "infligieren" ],
+			[ "infligieren" ]
+		],
+		"12" : {
+			"1" : [ "inflige" ],
+			"2" : [ "inflija" ],
+			"3" : [ "inflijamos" ],
+			"4" : [ "infligid" ],
+			"5" : [ "inflijan" ]
+		}
+	}
+}

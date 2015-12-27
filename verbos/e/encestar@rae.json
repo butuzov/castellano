@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encestar",
+	"word" : "encestar",
+	"infinitivo" : "encestar",
+	"participio" : [ "encestado" ],
+	"gerundio" : [ "encestando" ],
+	"tenses" : {
+		"3" : [
+			[ "encesto" ],
+			[ "encestas", "encestás" ],
+			[ "encesta" ],
+			[ "encestamos" ],
+			[ "encestáis", "encestan" ],
+			[ "encestan" ]
+		],
+		"4" : [
+			[ "encesté" ],
+			[ "encestaste" ],
+			[ "encestó" ],
+			[ "encestamos" ],
+			[ "encestasteis", "encestaron" ],
+			[ "encestaron" ]
+		],
+		"5" : [
+			[ "encestaba" ],
+			[ "encestabas" ],
+			[ "encestaba" ],
+			[ "encestábamos" ],
+			[ "encestabais", "encestaban" ],
+			[ "encestaban" ]
+		],
+		"6" : [
+			[ "encestaría" ],
+			[ "encestarías" ],
+			[ "encestaría" ],
+			[ "encestaríamos" ],
+			[ "encestaríais", "encestarían" ],
+			[ "encestarían" ]
+		],
+		"7" : [
+			[ "encestaré" ],
+			[ "encestarás" ],
+			[ "encestará" ],
+			[ "encestaremos" ],
+			[ "encestaréis", "encestarán" ],
+			[ "encestarán" ]
+		],
+		"8" : [
+			[ "enceste" ],
+			[ "encestes" ],
+			[ "enceste" ],
+			[ "encestemos" ],
+			[ "encestéis", "encesten" ],
+			[ "encesten" ]
+		],
+		"9" : [
+			[ "encestara" ],
+			[ "encestaras" ],
+			[ "encestara" ],
+			[ "encestáramos" ],
+			[ "encestarais", "encestaran" ],
+			[ "encestaran" ]
+		],
+		"10" : [
+			[ "encestase" ],
+			[ "encestases" ],
+			[ "encestase" ],
+			[ "encestásemos" ],
+			[ "encestaseis", "encestasen" ],
+			[ "encestasen" ]
+		],
+		"11" : [
+			[ "encestare" ],
+			[ "encestares" ],
+			[ "encestare" ],
+			[ "encestáremos" ],
+			[ "encestareis", "encestaren" ],
+			[ "encestaren" ]
+		],
+		"12" : {
+			"1" : [ "encesta" ],
+			"2" : [ "enceste" ],
+			"3" : [ "encestemos" ],
+			"4" : [ "encestad" ],
+			"5" : [ "encesten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conservar",
+	"word" : "conservar",
+	"infinitivo" : "conservar",
+	"participio" : [ "conservado" ],
+	"gerundio" : [ "conservando" ],
+	"tenses" : {
+		"3" : [
+			[ "conservo" ],
+			[ "conservas", "conservás" ],
+			[ "conserva" ],
+			[ "conservamos" ],
+			[ "conserváis", "conservan" ],
+			[ "conservan" ]
+		],
+		"4" : [
+			[ "conservé" ],
+			[ "conservaste" ],
+			[ "conservó" ],
+			[ "conservamos" ],
+			[ "conservasteis", "conservaron" ],
+			[ "conservaron" ]
+		],
+		"5" : [
+			[ "conservaba" ],
+			[ "conservabas" ],
+			[ "conservaba" ],
+			[ "conservábamos" ],
+			[ "conservabais", "conservaban" ],
+			[ "conservaban" ]
+		],
+		"6" : [
+			[ "conservaría" ],
+			[ "conservarías" ],
+			[ "conservaría" ],
+			[ "conservaríamos" ],
+			[ "conservaríais", "conservarían" ],
+			[ "conservarían" ]
+		],
+		"7" : [
+			[ "conservaré" ],
+			[ "conservarás" ],
+			[ "conservará" ],
+			[ "conservaremos" ],
+			[ "conservaréis", "conservarán" ],
+			[ "conservarán" ]
+		],
+		"8" : [
+			[ "conserve" ],
+			[ "conserves" ],
+			[ "conserve" ],
+			[ "conservemos" ],
+			[ "conservéis", "conserven" ],
+			[ "conserven" ]
+		],
+		"9" : [
+			[ "conservara" ],
+			[ "conservaras" ],
+			[ "conservara" ],
+			[ "conserváramos" ],
+			[ "conservarais", "conservaran" ],
+			[ "conservaran" ]
+		],
+		"10" : [
+			[ "conservase" ],
+			[ "conservases" ],
+			[ "conservase" ],
+			[ "conservásemos" ],
+			[ "conservaseis", "conservasen" ],
+			[ "conservasen" ]
+		],
+		"11" : [
+			[ "conservare" ],
+			[ "conservares" ],
+			[ "conservare" ],
+			[ "conserváremos" ],
+			[ "conservareis", "conservaren" ],
+			[ "conservaren" ]
+		],
+		"12" : {
+			"1" : [ "conserva" ],
+			"2" : [ "conserve" ],
+			"3" : [ "conservemos" ],
+			"4" : [ "conservad" ],
+			"5" : [ "conserven" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=modelar",
+	"word" : "modelar",
+	"infinitivo" : "modelar",
+	"participio" : [ "modelado" ],
+	"gerundio" : [ "modelando" ],
+	"tenses" : {
+		"3" : [
+			[ "modelo" ],
+			[ "modelas", "modelás" ],
+			[ "modela" ],
+			[ "modelamos" ],
+			[ "modeláis", "modelan" ],
+			[ "modelan" ]
+		],
+		"4" : [
+			[ "modelé" ],
+			[ "modelaste" ],
+			[ "modeló" ],
+			[ "modelamos" ],
+			[ "modelasteis", "modelaron" ],
+			[ "modelaron" ]
+		],
+		"5" : [
+			[ "modelaba" ],
+			[ "modelabas" ],
+			[ "modelaba" ],
+			[ "modelábamos" ],
+			[ "modelabais", "modelaban" ],
+			[ "modelaban" ]
+		],
+		"6" : [
+			[ "modelaría" ],
+			[ "modelarías" ],
+			[ "modelaría" ],
+			[ "modelaríamos" ],
+			[ "modelaríais", "modelarían" ],
+			[ "modelarían" ]
+		],
+		"7" : [
+			[ "modelaré" ],
+			[ "modelarás" ],
+			[ "modelará" ],
+			[ "modelaremos" ],
+			[ "modelaréis", "modelarán" ],
+			[ "modelarán" ]
+		],
+		"8" : [
+			[ "modele" ],
+			[ "modeles" ],
+			[ "modele" ],
+			[ "modelemos" ],
+			[ "modeléis", "modelen" ],
+			[ "modelen" ]
+		],
+		"9" : [
+			[ "modelara" ],
+			[ "modelaras" ],
+			[ "modelara" ],
+			[ "modeláramos" ],
+			[ "modelarais", "modelaran" ],
+			[ "modelaran" ]
+		],
+		"10" : [
+			[ "modelase" ],
+			[ "modelases" ],
+			[ "modelase" ],
+			[ "modelásemos" ],
+			[ "modelaseis", "modelasen" ],
+			[ "modelasen" ]
+		],
+		"11" : [
+			[ "modelare" ],
+			[ "modelares" ],
+			[ "modelare" ],
+			[ "modeláremos" ],
+			[ "modelareis", "modelaren" ],
+			[ "modelaren" ]
+		],
+		"12" : {
+			"1" : [ "modela" ],
+			"2" : [ "modele" ],
+			"3" : [ "modelemos" ],
+			"4" : [ "modelad" ],
+			"5" : [ "modelen" ]
+		}
+	}
+}

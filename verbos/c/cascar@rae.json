@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cascar",
+	"word" : "cascar",
+	"infinitivo" : "cascar",
+	"participio" : [ "cascado" ],
+	"gerundio" : [ "cascando" ],
+	"tenses" : {
+		"3" : [
+			[ "casco" ],
+			[ "cascas", "cascás" ],
+			[ "casca" ],
+			[ "cascamos" ],
+			[ "cascáis", "cascan" ],
+			[ "cascan" ]
+		],
+		"4" : [
+			[ "casqué" ],
+			[ "cascaste" ],
+			[ "cascó" ],
+			[ "cascamos" ],
+			[ "cascasteis", "cascaron" ],
+			[ "cascaron" ]
+		],
+		"5" : [
+			[ "cascaba" ],
+			[ "cascabas" ],
+			[ "cascaba" ],
+			[ "cascábamos" ],
+			[ "cascabais", "cascaban" ],
+			[ "cascaban" ]
+		],
+		"6" : [
+			[ "cascaría" ],
+			[ "cascarías" ],
+			[ "cascaría" ],
+			[ "cascaríamos" ],
+			[ "cascaríais", "cascarían" ],
+			[ "cascarían" ]
+		],
+		"7" : [
+			[ "cascaré" ],
+			[ "cascarás" ],
+			[ "cascará" ],
+			[ "cascaremos" ],
+			[ "cascaréis", "cascarán" ],
+			[ "cascarán" ]
+		],
+		"8" : [
+			[ "casque" ],
+			[ "casques" ],
+			[ "casque" ],
+			[ "casquemos" ],
+			[ "casquéis", "casquen" ],
+			[ "casquen" ]
+		],
+		"9" : [
+			[ "cascara" ],
+			[ "cascaras" ],
+			[ "cascara" ],
+			[ "cascáramos" ],
+			[ "cascarais", "cascaran" ],
+			[ "cascaran" ]
+		],
+		"10" : [
+			[ "cascase" ],
+			[ "cascases" ],
+			[ "cascase" ],
+			[ "cascásemos" ],
+			[ "cascaseis", "cascasen" ],
+			[ "cascasen" ]
+		],
+		"11" : [
+			[ "cascare" ],
+			[ "cascares" ],
+			[ "cascare" ],
+			[ "cascáremos" ],
+			[ "cascareis", "cascaren" ],
+			[ "cascaren" ]
+		],
+		"12" : {
+			"1" : [ "casca" ],
+			"2" : [ "casque" ],
+			"3" : [ "casquemos" ],
+			"4" : [ "cascad" ],
+			"5" : [ "casquen" ]
+		}
+	}
+}

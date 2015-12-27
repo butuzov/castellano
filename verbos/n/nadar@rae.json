@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=nadar",
+	"word" : "nadar",
+	"infinitivo" : "nadar",
+	"participio" : [ "nadado" ],
+	"gerundio" : [ "nadando" ],
+	"tenses" : {
+		"3" : [
+			[ "nado" ],
+			[ "nadas", "nadás" ],
+			[ "nada" ],
+			[ "nadamos" ],
+			[ "nadáis", "nadan" ],
+			[ "nadan" ]
+		],
+		"4" : [
+			[ "nadé" ],
+			[ "nadaste" ],
+			[ "nadó" ],
+			[ "nadamos" ],
+			[ "nadasteis", "nadaron" ],
+			[ "nadaron" ]
+		],
+		"5" : [
+			[ "nadaba" ],
+			[ "nadabas" ],
+			[ "nadaba" ],
+			[ "nadábamos" ],
+			[ "nadabais", "nadaban" ],
+			[ "nadaban" ]
+		],
+		"6" : [
+			[ "nadaría" ],
+			[ "nadarías" ],
+			[ "nadaría" ],
+			[ "nadaríamos" ],
+			[ "nadaríais", "nadarían" ],
+			[ "nadarían" ]
+		],
+		"7" : [
+			[ "nadaré" ],
+			[ "nadarás" ],
+			[ "nadará" ],
+			[ "nadaremos" ],
+			[ "nadaréis", "nadarán" ],
+			[ "nadarán" ]
+		],
+		"8" : [
+			[ "nade" ],
+			[ "nades" ],
+			[ "nade" ],
+			[ "nademos" ],
+			[ "nadéis", "naden" ],
+			[ "naden" ]
+		],
+		"9" : [
+			[ "nadara" ],
+			[ "nadaras" ],
+			[ "nadara" ],
+			[ "nadáramos" ],
+			[ "nadarais", "nadaran" ],
+			[ "nadaran" ]
+		],
+		"10" : [
+			[ "nadase" ],
+			[ "nadases" ],
+			[ "nadase" ],
+			[ "nadásemos" ],
+			[ "nadaseis", "nadasen" ],
+			[ "nadasen" ]
+		],
+		"11" : [
+			[ "nadare" ],
+			[ "nadares" ],
+			[ "nadare" ],
+			[ "nadáremos" ],
+			[ "nadareis", "nadaren" ],
+			[ "nadaren" ]
+		],
+		"12" : {
+			"1" : [ "nada" ],
+			"2" : [ "nade" ],
+			"3" : [ "nademos" ],
+			"4" : [ "nadad" ],
+			"5" : [ "naden" ]
+		}
+	}
+}

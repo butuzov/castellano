@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=camelar",
+	"word" : "camelar",
+	"infinitivo" : "camelar",
+	"participio" : [ "camelado" ],
+	"gerundio" : [ "camelando" ],
+	"tenses" : {
+		"3" : [
+			[ "camelo" ],
+			[ "camelas", "camelás" ],
+			[ "camela" ],
+			[ "camelamos" ],
+			[ "cameláis", "camelan" ],
+			[ "camelan" ]
+		],
+		"4" : [
+			[ "camelé" ],
+			[ "camelaste" ],
+			[ "cameló" ],
+			[ "camelamos" ],
+			[ "camelasteis", "camelaron" ],
+			[ "camelaron" ]
+		],
+		"5" : [
+			[ "camelaba" ],
+			[ "camelabas" ],
+			[ "camelaba" ],
+			[ "camelábamos" ],
+			[ "camelabais", "camelaban" ],
+			[ "camelaban" ]
+		],
+		"6" : [
+			[ "camelaría" ],
+			[ "camelarías" ],
+			[ "camelaría" ],
+			[ "camelaríamos" ],
+			[ "camelaríais", "camelarían" ],
+			[ "camelarían" ]
+		],
+		"7" : [
+			[ "camelaré" ],
+			[ "camelarás" ],
+			[ "camelará" ],
+			[ "camelaremos" ],
+			[ "camelaréis", "camelarán" ],
+			[ "camelarán" ]
+		],
+		"8" : [
+			[ "camele" ],
+			[ "cameles" ],
+			[ "camele" ],
+			[ "camelemos" ],
+			[ "cameléis", "camelen" ],
+			[ "camelen" ]
+		],
+		"9" : [
+			[ "camelara" ],
+			[ "camelaras" ],
+			[ "camelara" ],
+			[ "cameláramos" ],
+			[ "camelarais", "camelaran" ],
+			[ "camelaran" ]
+		],
+		"10" : [
+			[ "camelase" ],
+			[ "camelases" ],
+			[ "camelase" ],
+			[ "camelásemos" ],
+			[ "camelaseis", "camelasen" ],
+			[ "camelasen" ]
+		],
+		"11" : [
+			[ "camelare" ],
+			[ "camelares" ],
+			[ "camelare" ],
+			[ "cameláremos" ],
+			[ "camelareis", "camelaren" ],
+			[ "camelaren" ]
+		],
+		"12" : {
+			"1" : [ "camela" ],
+			"2" : [ "camele" ],
+			"3" : [ "camelemos" ],
+			"4" : [ "camelad" ],
+			"5" : [ "camelen" ]
+		}
+	}
+}

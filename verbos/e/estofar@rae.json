@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estofar",
+	"word" : "estofar",
+	"infinitivo" : "estofar",
+	"participio" : [ "estofado" ],
+	"gerundio" : [ "estofando" ],
+	"tenses" : {
+		"3" : [
+			[ "estofo" ],
+			[ "estofas", "estofás" ],
+			[ "estofa" ],
+			[ "estofamos" ],
+			[ "estofáis", "estofan" ],
+			[ "estofan" ]
+		],
+		"4" : [
+			[ "estofé" ],
+			[ "estofaste" ],
+			[ "estofó" ],
+			[ "estofamos" ],
+			[ "estofasteis", "estofaron" ],
+			[ "estofaron" ]
+		],
+		"5" : [
+			[ "estofaba" ],
+			[ "estofabas" ],
+			[ "estofaba" ],
+			[ "estofábamos" ],
+			[ "estofabais", "estofaban" ],
+			[ "estofaban" ]
+		],
+		"6" : [
+			[ "estofaría" ],
+			[ "estofarías" ],
+			[ "estofaría" ],
+			[ "estofaríamos" ],
+			[ "estofaríais", "estofarían" ],
+			[ "estofarían" ]
+		],
+		"7" : [
+			[ "estofaré" ],
+			[ "estofarás" ],
+			[ "estofará" ],
+			[ "estofaremos" ],
+			[ "estofaréis", "estofarán" ],
+			[ "estofarán" ]
+		],
+		"8" : [
+			[ "estofe" ],
+			[ "estofes" ],
+			[ "estofe" ],
+			[ "estofemos" ],
+			[ "estoféis", "estofen" ],
+			[ "estofen" ]
+		],
+		"9" : [
+			[ "estofara" ],
+			[ "estofaras" ],
+			[ "estofara" ],
+			[ "estofáramos" ],
+			[ "estofarais", "estofaran" ],
+			[ "estofaran" ]
+		],
+		"10" : [
+			[ "estofase" ],
+			[ "estofases" ],
+			[ "estofase" ],
+			[ "estofásemos" ],
+			[ "estofaseis", "estofasen" ],
+			[ "estofasen" ]
+		],
+		"11" : [
+			[ "estofare" ],
+			[ "estofares" ],
+			[ "estofare" ],
+			[ "estofáremos" ],
+			[ "estofareis", "estofaren" ],
+			[ "estofaren" ]
+		],
+		"12" : {
+			"1" : [ "estofa" ],
+			"2" : [ "estofe" ],
+			"3" : [ "estofemos" ],
+			"4" : [ "estofad" ],
+			"5" : [ "estofen" ]
+		}
+	}
+}

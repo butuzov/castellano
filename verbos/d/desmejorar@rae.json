@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmejorar",
+	"word" : "desmejorar",
+	"infinitivo" : "desmejorar",
+	"participio" : [ "desmejorado" ],
+	"gerundio" : [ "desmejorando" ],
+	"tenses" : {
+		"3" : [
+			[ "desmejoro" ],
+			[ "desmejoras", "desmejorás" ],
+			[ "desmejora" ],
+			[ "desmejoramos" ],
+			[ "desmejoráis", "desmejoran" ],
+			[ "desmejoran" ]
+		],
+		"4" : [
+			[ "desmejoré" ],
+			[ "desmejoraste" ],
+			[ "desmejoró" ],
+			[ "desmejoramos" ],
+			[ "desmejorasteis", "desmejoraron" ],
+			[ "desmejoraron" ]
+		],
+		"5" : [
+			[ "desmejoraba" ],
+			[ "desmejorabas" ],
+			[ "desmejoraba" ],
+			[ "desmejorábamos" ],
+			[ "desmejorabais", "desmejoraban" ],
+			[ "desmejoraban" ]
+		],
+		"6" : [
+			[ "desmejoraría" ],
+			[ "desmejorarías" ],
+			[ "desmejoraría" ],
+			[ "desmejoraríamos" ],
+			[ "desmejoraríais", "desmejorarían" ],
+			[ "desmejorarían" ]
+		],
+		"7" : [
+			[ "desmejoraré" ],
+			[ "desmejorarás" ],
+			[ "desmejorará" ],
+			[ "desmejoraremos" ],
+			[ "desmejoraréis", "desmejorarán" ],
+			[ "desmejorarán" ]
+		],
+		"8" : [
+			[ "desmejore" ],
+			[ "desmejores" ],
+			[ "desmejore" ],
+			[ "desmejoremos" ],
+			[ "desmejoréis", "desmejoren" ],
+			[ "desmejoren" ]
+		],
+		"9" : [
+			[ "desmejorara" ],
+			[ "desmejoraras" ],
+			[ "desmejorara" ],
+			[ "desmejoráramos" ],
+			[ "desmejorarais", "desmejoraran" ],
+			[ "desmejoraran" ]
+		],
+		"10" : [
+			[ "desmejorase" ],
+			[ "desmejorases" ],
+			[ "desmejorase" ],
+			[ "desmejorásemos" ],
+			[ "desmejoraseis", "desmejorasen" ],
+			[ "desmejorasen" ]
+		],
+		"11" : [
+			[ "desmejorare" ],
+			[ "desmejorares" ],
+			[ "desmejorare" ],
+			[ "desmejoráremos" ],
+			[ "desmejorareis", "desmejoraren" ],
+			[ "desmejoraren" ]
+		],
+		"12" : {
+			"1" : [ "desmejora" ],
+			"2" : [ "desmejore" ],
+			"3" : [ "desmejoremos" ],
+			"4" : [ "desmejorad" ],
+			"5" : [ "desmejoren" ]
+		}
+	}
+}

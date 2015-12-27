@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=actualizar",
+	"word" : "actualizar",
+	"infinitivo" : "actualizar",
+	"participio" : [ "actualizado" ],
+	"gerundio" : [ "actualizando" ],
+	"tenses" : {
+		"3" : [
+			[ "actualizo" ],
+			[ "actualizas", "actualizás" ],
+			[ "actualiza" ],
+			[ "actualizamos" ],
+			[ "actualizáis", "actualizan" ],
+			[ "actualizan" ]
+		],
+		"4" : [
+			[ "actualicé" ],
+			[ "actualizaste" ],
+			[ "actualizó" ],
+			[ "actualizamos" ],
+			[ "actualizasteis", "actualizaron" ],
+			[ "actualizaron" ]
+		],
+		"5" : [
+			[ "actualizaba" ],
+			[ "actualizabas" ],
+			[ "actualizaba" ],
+			[ "actualizábamos" ],
+			[ "actualizabais", "actualizaban" ],
+			[ "actualizaban" ]
+		],
+		"6" : [
+			[ "actualizaría" ],
+			[ "actualizarías" ],
+			[ "actualizaría" ],
+			[ "actualizaríamos" ],
+			[ "actualizaríais", "actualizarían" ],
+			[ "actualizarían" ]
+		],
+		"7" : [
+			[ "actualizaré" ],
+			[ "actualizarás" ],
+			[ "actualizará" ],
+			[ "actualizaremos" ],
+			[ "actualizaréis", "actualizarán" ],
+			[ "actualizarán" ]
+		],
+		"8" : [
+			[ "actualice" ],
+			[ "actualices" ],
+			[ "actualice" ],
+			[ "actualicemos" ],
+			[ "actualicéis", "actualicen" ],
+			[ "actualicen" ]
+		],
+		"9" : [
+			[ "actualizara" ],
+			[ "actualizaras" ],
+			[ "actualizara" ],
+			[ "actualizáramos" ],
+			[ "actualizarais", "actualizaran" ],
+			[ "actualizaran" ]
+		],
+		"10" : [
+			[ "actualizase" ],
+			[ "actualizases" ],
+			[ "actualizase" ],
+			[ "actualizásemos" ],
+			[ "actualizaseis", "actualizasen" ],
+			[ "actualizasen" ]
+		],
+		"11" : [
+			[ "actualizare" ],
+			[ "actualizares" ],
+			[ "actualizare" ],
+			[ "actualizáremos" ],
+			[ "actualizareis", "actualizaren" ],
+			[ "actualizaren" ]
+		],
+		"12" : {
+			"1" : [ "actualiza" ],
+			"2" : [ "actualice" ],
+			"3" : [ "actualicemos" ],
+			"4" : [ "actualizad" ],
+			"5" : [ "actualicen" ]
+		}
+	}
+}

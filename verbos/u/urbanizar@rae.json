@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=urbanizar",
+	"word" : "urbanizar",
+	"infinitivo" : "urbanizar",
+	"participio" : [ "urbanizado" ],
+	"gerundio" : [ "urbanizando" ],
+	"tenses" : {
+		"3" : [
+			[ "urbanizo" ],
+			[ "urbanizas", "urbanizás" ],
+			[ "urbaniza" ],
+			[ "urbanizamos" ],
+			[ "urbanizáis", "urbanizan" ],
+			[ "urbanizan" ]
+		],
+		"4" : [
+			[ "urbanicé" ],
+			[ "urbanizaste" ],
+			[ "urbanizó" ],
+			[ "urbanizamos" ],
+			[ "urbanizasteis", "urbanizaron" ],
+			[ "urbanizaron" ]
+		],
+		"5" : [
+			[ "urbanizaba" ],
+			[ "urbanizabas" ],
+			[ "urbanizaba" ],
+			[ "urbanizábamos" ],
+			[ "urbanizabais", "urbanizaban" ],
+			[ "urbanizaban" ]
+		],
+		"6" : [
+			[ "urbanizaría" ],
+			[ "urbanizarías" ],
+			[ "urbanizaría" ],
+			[ "urbanizaríamos" ],
+			[ "urbanizaríais", "urbanizarían" ],
+			[ "urbanizarían" ]
+		],
+		"7" : [
+			[ "urbanizaré" ],
+			[ "urbanizarás" ],
+			[ "urbanizará" ],
+			[ "urbanizaremos" ],
+			[ "urbanizaréis", "urbanizarán" ],
+			[ "urbanizarán" ]
+		],
+		"8" : [
+			[ "urbanice" ],
+			[ "urbanices" ],
+			[ "urbanice" ],
+			[ "urbanicemos" ],
+			[ "urbanicéis", "urbanicen" ],
+			[ "urbanicen" ]
+		],
+		"9" : [
+			[ "urbanizara" ],
+			[ "urbanizaras" ],
+			[ "urbanizara" ],
+			[ "urbanizáramos" ],
+			[ "urbanizarais", "urbanizaran" ],
+			[ "urbanizaran" ]
+		],
+		"10" : [
+			[ "urbanizase" ],
+			[ "urbanizases" ],
+			[ "urbanizase" ],
+			[ "urbanizásemos" ],
+			[ "urbanizaseis", "urbanizasen" ],
+			[ "urbanizasen" ]
+		],
+		"11" : [
+			[ "urbanizare" ],
+			[ "urbanizares" ],
+			[ "urbanizare" ],
+			[ "urbanizáremos" ],
+			[ "urbanizareis", "urbanizaren" ],
+			[ "urbanizaren" ]
+		],
+		"12" : {
+			"1" : [ "urbaniza" ],
+			"2" : [ "urbanice" ],
+			"3" : [ "urbanicemos" ],
+			"4" : [ "urbanizad" ],
+			"5" : [ "urbanicen" ]
+		}
+	}
+}

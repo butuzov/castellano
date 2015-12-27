@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=planchar",
+	"word" : "planchar",
+	"infinitivo" : "planchar",
+	"participio" : [ "planchado" ],
+	"gerundio" : [ "planchando" ],
+	"tenses" : {
+		"3" : [
+			[ "plancho" ],
+			[ "planchas", "planchás" ],
+			[ "plancha" ],
+			[ "planchamos" ],
+			[ "plancháis", "planchan" ],
+			[ "planchan" ]
+		],
+		"4" : [
+			[ "planché" ],
+			[ "planchaste" ],
+			[ "planchó" ],
+			[ "planchamos" ],
+			[ "planchasteis", "plancharon" ],
+			[ "plancharon" ]
+		],
+		"5" : [
+			[ "planchaba" ],
+			[ "planchabas" ],
+			[ "planchaba" ],
+			[ "planchábamos" ],
+			[ "planchabais", "planchaban" ],
+			[ "planchaban" ]
+		],
+		"6" : [
+			[ "plancharía" ],
+			[ "plancharías" ],
+			[ "plancharía" ],
+			[ "plancharíamos" ],
+			[ "plancharíais", "plancharían" ],
+			[ "plancharían" ]
+		],
+		"7" : [
+			[ "plancharé" ],
+			[ "plancharás" ],
+			[ "planchará" ],
+			[ "plancharemos" ],
+			[ "plancharéis", "plancharán" ],
+			[ "plancharán" ]
+		],
+		"8" : [
+			[ "planche" ],
+			[ "planches" ],
+			[ "planche" ],
+			[ "planchemos" ],
+			[ "planchéis", "planchen" ],
+			[ "planchen" ]
+		],
+		"9" : [
+			[ "planchara" ],
+			[ "plancharas" ],
+			[ "planchara" ],
+			[ "plancháramos" ],
+			[ "plancharais", "plancharan" ],
+			[ "plancharan" ]
+		],
+		"10" : [
+			[ "planchase" ],
+			[ "planchases" ],
+			[ "planchase" ],
+			[ "planchásemos" ],
+			[ "planchaseis", "planchasen" ],
+			[ "planchasen" ]
+		],
+		"11" : [
+			[ "planchare" ],
+			[ "planchares" ],
+			[ "planchare" ],
+			[ "plancháremos" ],
+			[ "planchareis", "plancharen" ],
+			[ "plancharen" ]
+		],
+		"12" : {
+			"1" : [ "plancha" ],
+			"2" : [ "planche" ],
+			"3" : [ "planchemos" ],
+			"4" : [ "planchad" ],
+			"5" : [ "planchen" ]
+		}
+	}
+}

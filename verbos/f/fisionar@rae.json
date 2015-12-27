@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fisionar",
+	"word" : "fisionar",
+	"infinitivo" : "fisionar",
+	"participio" : [ "fisionado" ],
+	"gerundio" : [ "fisionando" ],
+	"tenses" : {
+		"3" : [
+			[ "fisiono" ],
+			[ "fisionas", "fisionás" ],
+			[ "fisiona" ],
+			[ "fisionamos" ],
+			[ "fisionáis", "fisionan" ],
+			[ "fisionan" ]
+		],
+		"4" : [
+			[ "fisioné" ],
+			[ "fisionaste" ],
+			[ "fisionó" ],
+			[ "fisionamos" ],
+			[ "fisionasteis", "fisionaron" ],
+			[ "fisionaron" ]
+		],
+		"5" : [
+			[ "fisionaba" ],
+			[ "fisionabas" ],
+			[ "fisionaba" ],
+			[ "fisionábamos" ],
+			[ "fisionabais", "fisionaban" ],
+			[ "fisionaban" ]
+		],
+		"6" : [
+			[ "fisionaría" ],
+			[ "fisionarías" ],
+			[ "fisionaría" ],
+			[ "fisionaríamos" ],
+			[ "fisionaríais", "fisionarían" ],
+			[ "fisionarían" ]
+		],
+		"7" : [
+			[ "fisionaré" ],
+			[ "fisionarás" ],
+			[ "fisionará" ],
+			[ "fisionaremos" ],
+			[ "fisionaréis", "fisionarán" ],
+			[ "fisionarán" ]
+		],
+		"8" : [
+			[ "fisione" ],
+			[ "fisiones" ],
+			[ "fisione" ],
+			[ "fisionemos" ],
+			[ "fisionéis", "fisionen" ],
+			[ "fisionen" ]
+		],
+		"9" : [
+			[ "fisionara" ],
+			[ "fisionaras" ],
+			[ "fisionara" ],
+			[ "fisionáramos" ],
+			[ "fisionarais", "fisionaran" ],
+			[ "fisionaran" ]
+		],
+		"10" : [
+			[ "fisionase" ],
+			[ "fisionases" ],
+			[ "fisionase" ],
+			[ "fisionásemos" ],
+			[ "fisionaseis", "fisionasen" ],
+			[ "fisionasen" ]
+		],
+		"11" : [
+			[ "fisionare" ],
+			[ "fisionares" ],
+			[ "fisionare" ],
+			[ "fisionáremos" ],
+			[ "fisionareis", "fisionaren" ],
+			[ "fisionaren" ]
+		],
+		"12" : {
+			"1" : [ "fisiona" ],
+			"2" : [ "fisione" ],
+			"3" : [ "fisionemos" ],
+			"4" : [ "fisionad" ],
+			"5" : [ "fisionen" ]
+		}
+	}
+}

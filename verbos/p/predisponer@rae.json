@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=predisponer",
+	"word" : "predisponer",
+	"infinitivo" : "predisponer",
+	"participio" : [ "predispuesto" ],
+	"gerundio" : [ "predisponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "predispongo" ],
+			[ "predispones", "predisponés" ],
+			[ "predispone" ],
+			[ "predisponemos" ],
+			[ "predisponéis", "predisponen" ],
+			[ "predisponen" ]
+		],
+		"4" : [
+			[ "predispuse" ],
+			[ "predispusiste" ],
+			[ "predispuso" ],
+			[ "predispusimos" ],
+			[ "predispusisteis", "predispusieron" ],
+			[ "predispusieron" ]
+		],
+		"5" : [
+			[ "predisponía" ],
+			[ "predisponías" ],
+			[ "predisponía" ],
+			[ "predisponíamos" ],
+			[ "predisponíais", "predisponían" ],
+			[ "predisponían" ]
+		],
+		"6" : [
+			[ "predispondría" ],
+			[ "predispondrías" ],
+			[ "predispondría" ],
+			[ "predispondríamos" ],
+			[ "predispondríais", "predispondrían" ],
+			[ "predispondrían" ]
+		],
+		"7" : [
+			[ "predispondré" ],
+			[ "predispondrás" ],
+			[ "predispondrá" ],
+			[ "predispondremos" ],
+			[ "predispondréis", "predispondrán" ],
+			[ "predispondrán" ]
+		],
+		"8" : [
+			[ "predisponga" ],
+			[ "predispongas" ],
+			[ "predisponga" ],
+			[ "predispongamos" ],
+			[ "predispongáis", "predispongan" ],
+			[ "predispongan" ]
+		],
+		"9" : [
+			[ "predispusiera" ],
+			[ "predispusieras" ],
+			[ "predispusiera" ],
+			[ "predispusiéramos" ],
+			[ "predispusierais", "predispusieran" ],
+			[ "predispusieran" ]
+		],
+		"10" : [
+			[ "predispusiese" ],
+			[ "predispusieses" ],
+			[ "predispusiese" ],
+			[ "predispusiésemos" ],
+			[ "predispusieseis", "predispusiesen" ],
+			[ "predispusiesen" ]
+		],
+		"11" : [
+			[ "predispusiere" ],
+			[ "predispusieres" ],
+			[ "predispusiere" ],
+			[ "predispusiéremos" ],
+			[ "predispusiereis", "predispusieren" ],
+			[ "predispusieren" ]
+		],
+		"12" : {
+			"1" : [ "predispón" ],
+			"2" : [ "predisponga" ],
+			"3" : [ "predispongamos" ],
+			"4" : [ "predisponed" ],
+			"5" : [ "predispongan" ]
+		}
+	}
+}

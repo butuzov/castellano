@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sentenciar",
+	"word" : "sentenciar",
+	"infinitivo" : "sentenciar",
+	"participio" : [ "sentenciado" ],
+	"gerundio" : [ "sentenciando" ],
+	"tenses" : {
+		"3" : [
+			[ "sentencio" ],
+			[ "sentencias", "sentenciás" ],
+			[ "sentencia" ],
+			[ "sentenciamos" ],
+			[ "sentenciáis", "sentencian" ],
+			[ "sentencian" ]
+		],
+		"4" : [
+			[ "sentencié" ],
+			[ "sentenciaste" ],
+			[ "sentenció" ],
+			[ "sentenciamos" ],
+			[ "sentenciasteis", "sentenciaron" ],
+			[ "sentenciaron" ]
+		],
+		"5" : [
+			[ "sentenciaba" ],
+			[ "sentenciabas" ],
+			[ "sentenciaba" ],
+			[ "sentenciábamos" ],
+			[ "sentenciabais", "sentenciaban" ],
+			[ "sentenciaban" ]
+		],
+		"6" : [
+			[ "sentenciaría" ],
+			[ "sentenciarías" ],
+			[ "sentenciaría" ],
+			[ "sentenciaríamos" ],
+			[ "sentenciaríais", "sentenciarían" ],
+			[ "sentenciarían" ]
+		],
+		"7" : [
+			[ "sentenciaré" ],
+			[ "sentenciarás" ],
+			[ "sentenciará" ],
+			[ "sentenciaremos" ],
+			[ "sentenciaréis", "sentenciarán" ],
+			[ "sentenciarán" ]
+		],
+		"8" : [
+			[ "sentencie" ],
+			[ "sentencies" ],
+			[ "sentencie" ],
+			[ "sentenciemos" ],
+			[ "sentenciéis", "sentencien" ],
+			[ "sentencien" ]
+		],
+		"9" : [
+			[ "sentenciara" ],
+			[ "sentenciaras" ],
+			[ "sentenciara" ],
+			[ "sentenciáramos" ],
+			[ "sentenciarais", "sentenciaran" ],
+			[ "sentenciaran" ]
+		],
+		"10" : [
+			[ "sentenciase" ],
+			[ "sentenciases" ],
+			[ "sentenciase" ],
+			[ "sentenciásemos" ],
+			[ "sentenciaseis", "sentenciasen" ],
+			[ "sentenciasen" ]
+		],
+		"11" : [
+			[ "sentenciare" ],
+			[ "sentenciares" ],
+			[ "sentenciare" ],
+			[ "sentenciáremos" ],
+			[ "sentenciareis", "sentenciaren" ],
+			[ "sentenciaren" ]
+		],
+		"12" : {
+			"1" : [ "sentencia" ],
+			"2" : [ "sentencie" ],
+			"3" : [ "sentenciemos" ],
+			"4" : [ "sentenciad" ],
+			"5" : [ "sentencien" ]
+		}
+	}
+}

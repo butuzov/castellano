@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=serrar",
+	"word" : "serrar",
+	"infinitivo" : "serrar",
+	"participio" : [ "serrado" ],
+	"gerundio" : [ "serrando" ],
+	"tenses" : {
+		"3" : [
+			[ "sierro" ],
+			[ "sierras", "serrás" ],
+			[ "sierra" ],
+			[ "serramos" ],
+			[ "serráis", "sierran" ],
+			[ "sierran" ]
+		],
+		"4" : [
+			[ "serré" ],
+			[ "serraste" ],
+			[ "serró" ],
+			[ "serramos" ],
+			[ "serrasteis", "serraron" ],
+			[ "serraron" ]
+		],
+		"5" : [
+			[ "serraba" ],
+			[ "serrabas" ],
+			[ "serraba" ],
+			[ "serrábamos" ],
+			[ "serrabais", "serraban" ],
+			[ "serraban" ]
+		],
+		"6" : [
+			[ "serraría" ],
+			[ "serrarías" ],
+			[ "serraría" ],
+			[ "serraríamos" ],
+			[ "serraríais", "serrarían" ],
+			[ "serrarían" ]
+		],
+		"7" : [
+			[ "serraré" ],
+			[ "serrarás" ],
+			[ "serrará" ],
+			[ "serraremos" ],
+			[ "serraréis", "serrarán" ],
+			[ "serrarán" ]
+		],
+		"8" : [
+			[ "sierre" ],
+			[ "sierres" ],
+			[ "sierre" ],
+			[ "serremos" ],
+			[ "serréis", "sierren" ],
+			[ "sierren" ]
+		],
+		"9" : [
+			[ "serrara" ],
+			[ "serraras" ],
+			[ "serrara" ],
+			[ "serráramos" ],
+			[ "serrarais", "serraran" ],
+			[ "serraran" ]
+		],
+		"10" : [
+			[ "serrase" ],
+			[ "serrases" ],
+			[ "serrase" ],
+			[ "serrásemos" ],
+			[ "serraseis", "serrasen" ],
+			[ "serrasen" ]
+		],
+		"11" : [
+			[ "serrare" ],
+			[ "serrares" ],
+			[ "serrare" ],
+			[ "serráremos" ],
+			[ "serrareis", "serraren" ],
+			[ "serraren" ]
+		],
+		"12" : {
+			"1" : [ "sierra" ],
+			"2" : [ "sierre" ],
+			"3" : [ "serremos" ],
+			"4" : [ "serrad" ],
+			"5" : [ "sierren" ]
+		}
+	}
+}

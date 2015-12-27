@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=preponer",
+	"word" : "preponer",
+	"infinitivo" : "preponer",
+	"participio" : [ "prepuesto" ],
+	"gerundio" : [ "preponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "prepongo" ],
+			[ "prepones", "preponés" ],
+			[ "prepone" ],
+			[ "preponemos" ],
+			[ "preponéis", "preponen" ],
+			[ "preponen" ]
+		],
+		"4" : [
+			[ "prepuse" ],
+			[ "prepusiste" ],
+			[ "prepuso" ],
+			[ "prepusimos" ],
+			[ "prepusisteis", "prepusieron" ],
+			[ "prepusieron" ]
+		],
+		"5" : [
+			[ "preponía" ],
+			[ "preponías" ],
+			[ "preponía" ],
+			[ "preponíamos" ],
+			[ "preponíais", "preponían" ],
+			[ "preponían" ]
+		],
+		"6" : [
+			[ "prepondría" ],
+			[ "prepondrías" ],
+			[ "prepondría" ],
+			[ "prepondríamos" ],
+			[ "prepondríais", "prepondrían" ],
+			[ "prepondrían" ]
+		],
+		"7" : [
+			[ "prepondré" ],
+			[ "prepondrás" ],
+			[ "prepondrá" ],
+			[ "prepondremos" ],
+			[ "prepondréis", "prepondrán" ],
+			[ "prepondrán" ]
+		],
+		"8" : [
+			[ "preponga" ],
+			[ "prepongas" ],
+			[ "preponga" ],
+			[ "prepongamos" ],
+			[ "prepongáis", "prepongan" ],
+			[ "prepongan" ]
+		],
+		"9" : [
+			[ "prepusiera" ],
+			[ "prepusieras" ],
+			[ "prepusiera" ],
+			[ "prepusiéramos" ],
+			[ "prepusierais", "prepusieran" ],
+			[ "prepusieran" ]
+		],
+		"10" : [
+			[ "prepusiese" ],
+			[ "prepusieses" ],
+			[ "prepusiese" ],
+			[ "prepusiésemos" ],
+			[ "prepusieseis", "prepusiesen" ],
+			[ "prepusiesen" ]
+		],
+		"11" : [
+			[ "prepusiere" ],
+			[ "prepusieres" ],
+			[ "prepusiere" ],
+			[ "prepusiéremos" ],
+			[ "prepusiereis", "prepusieren" ],
+			[ "prepusieren" ]
+		],
+		"12" : {
+			"1" : [ "prepón" ],
+			"2" : [ "preponga" ],
+			"3" : [ "prepongamos" ],
+			"4" : [ "preponed" ],
+			"5" : [ "prepongan" ]
+		}
+	}
+}

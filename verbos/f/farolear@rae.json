@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=farolear",
+	"word" : "farolear",
+	"infinitivo" : "farolear",
+	"participio" : [ "faroleado" ],
+	"gerundio" : [ "faroleando" ],
+	"tenses" : {
+		"3" : [
+			[ "faroleo" ],
+			[ "faroleas", "faroleás" ],
+			[ "farolea" ],
+			[ "faroleamos" ],
+			[ "faroleáis", "farolean" ],
+			[ "farolean" ]
+		],
+		"4" : [
+			[ "faroleé" ],
+			[ "faroleaste" ],
+			[ "faroleó" ],
+			[ "faroleamos" ],
+			[ "faroleasteis", "farolearon" ],
+			[ "farolearon" ]
+		],
+		"5" : [
+			[ "faroleaba" ],
+			[ "faroleabas" ],
+			[ "faroleaba" ],
+			[ "faroleábamos" ],
+			[ "faroleabais", "faroleaban" ],
+			[ "faroleaban" ]
+		],
+		"6" : [
+			[ "farolearía" ],
+			[ "farolearías" ],
+			[ "farolearía" ],
+			[ "farolearíamos" ],
+			[ "farolearíais", "farolearían" ],
+			[ "farolearían" ]
+		],
+		"7" : [
+			[ "farolearé" ],
+			[ "farolearás" ],
+			[ "faroleará" ],
+			[ "farolearemos" ],
+			[ "farolearéis", "farolearán" ],
+			[ "farolearán" ]
+		],
+		"8" : [
+			[ "farolee" ],
+			[ "farolees" ],
+			[ "farolee" ],
+			[ "faroleemos" ],
+			[ "faroleéis", "faroleen" ],
+			[ "faroleen" ]
+		],
+		"9" : [
+			[ "faroleara" ],
+			[ "farolearas" ],
+			[ "faroleara" ],
+			[ "faroleáramos" ],
+			[ "farolearais", "farolearan" ],
+			[ "farolearan" ]
+		],
+		"10" : [
+			[ "farolease" ],
+			[ "faroleases" ],
+			[ "farolease" ],
+			[ "faroleásemos" ],
+			[ "faroleaseis", "faroleasen" ],
+			[ "faroleasen" ]
+		],
+		"11" : [
+			[ "faroleare" ],
+			[ "faroleares" ],
+			[ "faroleare" ],
+			[ "faroleáremos" ],
+			[ "faroleareis", "farolearen" ],
+			[ "farolearen" ]
+		],
+		"12" : {
+			"1" : [ "farolea" ],
+			"2" : [ "farolee" ],
+			"3" : [ "faroleemos" ],
+			"4" : [ "farolead" ],
+			"5" : [ "faroleen" ]
+		}
+	}
+}

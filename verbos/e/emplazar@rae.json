@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emplazar",
+	"word" : "emplazar",
+	"infinitivo" : "emplazar",
+	"participio" : [ "emplazado" ],
+	"gerundio" : [ "emplazando" ],
+	"tenses" : {
+		"3" : [
+			[ "emplazo" ],
+			[ "emplazas", "emplazás" ],
+			[ "emplaza" ],
+			[ "emplazamos" ],
+			[ "emplazáis", "emplazan" ],
+			[ "emplazan" ]
+		],
+		"4" : [
+			[ "emplacé" ],
+			[ "emplazaste" ],
+			[ "emplazó" ],
+			[ "emplazamos" ],
+			[ "emplazasteis", "emplazaron" ],
+			[ "emplazaron" ]
+		],
+		"5" : [
+			[ "emplazaba" ],
+			[ "emplazabas" ],
+			[ "emplazaba" ],
+			[ "emplazábamos" ],
+			[ "emplazabais", "emplazaban" ],
+			[ "emplazaban" ]
+		],
+		"6" : [
+			[ "emplazaría" ],
+			[ "emplazarías" ],
+			[ "emplazaría" ],
+			[ "emplazaríamos" ],
+			[ "emplazaríais", "emplazarían" ],
+			[ "emplazarían" ]
+		],
+		"7" : [
+			[ "emplazaré" ],
+			[ "emplazarás" ],
+			[ "emplazará" ],
+			[ "emplazaremos" ],
+			[ "emplazaréis", "emplazarán" ],
+			[ "emplazarán" ]
+		],
+		"8" : [
+			[ "emplace" ],
+			[ "emplaces" ],
+			[ "emplace" ],
+			[ "emplacemos" ],
+			[ "emplacéis", "emplacen" ],
+			[ "emplacen" ]
+		],
+		"9" : [
+			[ "emplazara" ],
+			[ "emplazaras" ],
+			[ "emplazara" ],
+			[ "emplazáramos" ],
+			[ "emplazarais", "emplazaran" ],
+			[ "emplazaran" ]
+		],
+		"10" : [
+			[ "emplazase" ],
+			[ "emplazases" ],
+			[ "emplazase" ],
+			[ "emplazásemos" ],
+			[ "emplazaseis", "emplazasen" ],
+			[ "emplazasen" ]
+		],
+		"11" : [
+			[ "emplazare" ],
+			[ "emplazares" ],
+			[ "emplazare" ],
+			[ "emplazáremos" ],
+			[ "emplazareis", "emplazaren" ],
+			[ "emplazaren" ]
+		],
+		"12" : {
+			"1" : [ "emplaza" ],
+			"2" : [ "emplace" ],
+			"3" : [ "emplacemos" ],
+			"4" : [ "emplazad" ],
+			"5" : [ "emplacen" ]
+		}
+	}
+}

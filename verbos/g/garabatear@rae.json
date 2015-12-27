@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=garabatear",
+	"word" : "garabatear",
+	"infinitivo" : "garabatear",
+	"participio" : [ "garabateado" ],
+	"gerundio" : [ "garabateando" ],
+	"tenses" : {
+		"3" : [
+			[ "garabateo" ],
+			[ "garabateas", "garabateás" ],
+			[ "garabatea" ],
+			[ "garabateamos" ],
+			[ "garabateáis", "garabatean" ],
+			[ "garabatean" ]
+		],
+		"4" : [
+			[ "garabateé" ],
+			[ "garabateaste" ],
+			[ "garabateó" ],
+			[ "garabateamos" ],
+			[ "garabateasteis", "garabatearon" ],
+			[ "garabatearon" ]
+		],
+		"5" : [
+			[ "garabateaba" ],
+			[ "garabateabas" ],
+			[ "garabateaba" ],
+			[ "garabateábamos" ],
+			[ "garabateabais", "garabateaban" ],
+			[ "garabateaban" ]
+		],
+		"6" : [
+			[ "garabatearía" ],
+			[ "garabatearías" ],
+			[ "garabatearía" ],
+			[ "garabatearíamos" ],
+			[ "garabatearíais", "garabatearían" ],
+			[ "garabatearían" ]
+		],
+		"7" : [
+			[ "garabatearé" ],
+			[ "garabatearás" ],
+			[ "garabateará" ],
+			[ "garabatearemos" ],
+			[ "garabatearéis", "garabatearán" ],
+			[ "garabatearán" ]
+		],
+		"8" : [
+			[ "garabatee" ],
+			[ "garabatees" ],
+			[ "garabatee" ],
+			[ "garabateemos" ],
+			[ "garabateéis", "garabateen" ],
+			[ "garabateen" ]
+		],
+		"9" : [
+			[ "garabateara" ],
+			[ "garabatearas" ],
+			[ "garabateara" ],
+			[ "garabateáramos" ],
+			[ "garabatearais", "garabatearan" ],
+			[ "garabatearan" ]
+		],
+		"10" : [
+			[ "garabatease" ],
+			[ "garabateases" ],
+			[ "garabatease" ],
+			[ "garabateásemos" ],
+			[ "garabateaseis", "garabateasen" ],
+			[ "garabateasen" ]
+		],
+		"11" : [
+			[ "garabateare" ],
+			[ "garabateares" ],
+			[ "garabateare" ],
+			[ "garabateáremos" ],
+			[ "garabateareis", "garabatearen" ],
+			[ "garabatearen" ]
+		],
+		"12" : {
+			"1" : [ "garabatea" ],
+			"2" : [ "garabatee" ],
+			"3" : [ "garabateemos" ],
+			"4" : [ "garabatead" ],
+			"5" : [ "garabateen" ]
+		}
+	}
+}

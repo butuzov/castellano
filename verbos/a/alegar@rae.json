@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alegar",
+	"word" : "alegar",
+	"infinitivo" : "alegar",
+	"participio" : [ "alegado" ],
+	"gerundio" : [ "alegando" ],
+	"tenses" : {
+		"3" : [
+			[ "alego" ],
+			[ "alegas", "alegás" ],
+			[ "alega" ],
+			[ "alegamos" ],
+			[ "alegáis", "alegan" ],
+			[ "alegan" ]
+		],
+		"4" : [
+			[ "alegué" ],
+			[ "alegaste" ],
+			[ "alegó" ],
+			[ "alegamos" ],
+			[ "alegasteis", "alegaron" ],
+			[ "alegaron" ]
+		],
+		"5" : [
+			[ "alegaba" ],
+			[ "alegabas" ],
+			[ "alegaba" ],
+			[ "alegábamos" ],
+			[ "alegabais", "alegaban" ],
+			[ "alegaban" ]
+		],
+		"6" : [
+			[ "alegaría" ],
+			[ "alegarías" ],
+			[ "alegaría" ],
+			[ "alegaríamos" ],
+			[ "alegaríais", "alegarían" ],
+			[ "alegarían" ]
+		],
+		"7" : [
+			[ "alegaré" ],
+			[ "alegarás" ],
+			[ "alegará" ],
+			[ "alegaremos" ],
+			[ "alegaréis", "alegarán" ],
+			[ "alegarán" ]
+		],
+		"8" : [
+			[ "alegue" ],
+			[ "alegues" ],
+			[ "alegue" ],
+			[ "aleguemos" ],
+			[ "aleguéis", "aleguen" ],
+			[ "aleguen" ]
+		],
+		"9" : [
+			[ "alegara" ],
+			[ "alegaras" ],
+			[ "alegara" ],
+			[ "alegáramos" ],
+			[ "alegarais", "alegaran" ],
+			[ "alegaran" ]
+		],
+		"10" : [
+			[ "alegase" ],
+			[ "alegases" ],
+			[ "alegase" ],
+			[ "alegásemos" ],
+			[ "alegaseis", "alegasen" ],
+			[ "alegasen" ]
+		],
+		"11" : [
+			[ "alegare" ],
+			[ "alegares" ],
+			[ "alegare" ],
+			[ "alegáremos" ],
+			[ "alegareis", "alegaren" ],
+			[ "alegaren" ]
+		],
+		"12" : {
+			"1" : [ "alega" ],
+			"2" : [ "alegue" ],
+			"3" : [ "aleguemos" ],
+			"4" : [ "alegad" ],
+			"5" : [ "aleguen" ]
+		}
+	}
+}

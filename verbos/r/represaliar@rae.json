@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=represaliar",
+	"word" : "represaliar",
+	"infinitivo" : "represaliar",
+	"participio" : [ "represaliado" ],
+	"gerundio" : [ "represaliando" ],
+	"tenses" : {
+		"3" : [
+			[ "represalio" ],
+			[ "represalias", "represaliás" ],
+			[ "represalia" ],
+			[ "represaliamos" ],
+			[ "represaliáis", "represalian" ],
+			[ "represalian" ]
+		],
+		"4" : [
+			[ "represalié" ],
+			[ "represaliaste" ],
+			[ "represalió" ],
+			[ "represaliamos" ],
+			[ "represaliasteis", "represaliaron" ],
+			[ "represaliaron" ]
+		],
+		"5" : [
+			[ "represaliaba" ],
+			[ "represaliabas" ],
+			[ "represaliaba" ],
+			[ "represaliábamos" ],
+			[ "represaliabais", "represaliaban" ],
+			[ "represaliaban" ]
+		],
+		"6" : [
+			[ "represaliaría" ],
+			[ "represaliarías" ],
+			[ "represaliaría" ],
+			[ "represaliaríamos" ],
+			[ "represaliaríais", "represaliarían" ],
+			[ "represaliarían" ]
+		],
+		"7" : [
+			[ "represaliaré" ],
+			[ "represaliarás" ],
+			[ "represaliará" ],
+			[ "represaliaremos" ],
+			[ "represaliaréis", "represaliarán" ],
+			[ "represaliarán" ]
+		],
+		"8" : [
+			[ "represalie" ],
+			[ "represalies" ],
+			[ "represalie" ],
+			[ "represaliemos" ],
+			[ "represaliéis", "represalien" ],
+			[ "represalien" ]
+		],
+		"9" : [
+			[ "represaliara" ],
+			[ "represaliaras" ],
+			[ "represaliara" ],
+			[ "represaliáramos" ],
+			[ "represaliarais", "represaliaran" ],
+			[ "represaliaran" ]
+		],
+		"10" : [
+			[ "represaliase" ],
+			[ "represaliases" ],
+			[ "represaliase" ],
+			[ "represaliásemos" ],
+			[ "represaliaseis", "represaliasen" ],
+			[ "represaliasen" ]
+		],
+		"11" : [
+			[ "represaliare" ],
+			[ "represaliares" ],
+			[ "represaliare" ],
+			[ "represaliáremos" ],
+			[ "represaliareis", "represaliaren" ],
+			[ "represaliaren" ]
+		],
+		"12" : {
+			"1" : [ "represalia" ],
+			"2" : [ "represalie" ],
+			"3" : [ "represaliemos" ],
+			"4" : [ "represaliad" ],
+			"5" : [ "represalien" ]
+		}
+	}
+}

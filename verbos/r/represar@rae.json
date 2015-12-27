@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=represar",
+	"word" : "represar",
+	"infinitivo" : "represar",
+	"participio" : [ "represado" ],
+	"gerundio" : [ "represando" ],
+	"tenses" : {
+		"3" : [
+			[ "represo" ],
+			[ "represas", "represás" ],
+			[ "represa" ],
+			[ "represamos" ],
+			[ "represáis", "represan" ],
+			[ "represan" ]
+		],
+		"4" : [
+			[ "represé" ],
+			[ "represaste" ],
+			[ "represó" ],
+			[ "represamos" ],
+			[ "represasteis", "represaron" ],
+			[ "represaron" ]
+		],
+		"5" : [
+			[ "represaba" ],
+			[ "represabas" ],
+			[ "represaba" ],
+			[ "represábamos" ],
+			[ "represabais", "represaban" ],
+			[ "represaban" ]
+		],
+		"6" : [
+			[ "represaría" ],
+			[ "represarías" ],
+			[ "represaría" ],
+			[ "represaríamos" ],
+			[ "represaríais", "represarían" ],
+			[ "represarían" ]
+		],
+		"7" : [
+			[ "represaré" ],
+			[ "represarás" ],
+			[ "represará" ],
+			[ "represaremos" ],
+			[ "represaréis", "represarán" ],
+			[ "represarán" ]
+		],
+		"8" : [
+			[ "represe" ],
+			[ "represes" ],
+			[ "represe" ],
+			[ "represemos" ],
+			[ "represéis", "represen" ],
+			[ "represen" ]
+		],
+		"9" : [
+			[ "represara" ],
+			[ "represaras" ],
+			[ "represara" ],
+			[ "represáramos" ],
+			[ "represarais", "represaran" ],
+			[ "represaran" ]
+		],
+		"10" : [
+			[ "represase" ],
+			[ "represases" ],
+			[ "represase" ],
+			[ "represásemos" ],
+			[ "represaseis", "represasen" ],
+			[ "represasen" ]
+		],
+		"11" : [
+			[ "represare" ],
+			[ "represares" ],
+			[ "represare" ],
+			[ "represáremos" ],
+			[ "represareis", "represaren" ],
+			[ "represaren" ]
+		],
+		"12" : {
+			"1" : [ "represa" ],
+			"2" : [ "represe" ],
+			"3" : [ "represemos" ],
+			"4" : [ "represad" ],
+			"5" : [ "represen" ]
+		}
+	}
+}

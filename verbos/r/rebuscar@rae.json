@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rebuscar",
+	"word" : "rebuscar",
+	"infinitivo" : "rebuscar",
+	"participio" : [ "rebuscado" ],
+	"gerundio" : [ "rebuscando" ],
+	"tenses" : {
+		"3" : [
+			[ "rebusco" ],
+			[ "rebuscas", "rebuscás" ],
+			[ "rebusca" ],
+			[ "rebuscamos" ],
+			[ "rebuscáis", "rebuscan" ],
+			[ "rebuscan" ]
+		],
+		"4" : [
+			[ "rebusqué" ],
+			[ "rebuscaste" ],
+			[ "rebuscó" ],
+			[ "rebuscamos" ],
+			[ "rebuscasteis", "rebuscaron" ],
+			[ "rebuscaron" ]
+		],
+		"5" : [
+			[ "rebuscaba" ],
+			[ "rebuscabas" ],
+			[ "rebuscaba" ],
+			[ "rebuscábamos" ],
+			[ "rebuscabais", "rebuscaban" ],
+			[ "rebuscaban" ]
+		],
+		"6" : [
+			[ "rebuscaría" ],
+			[ "rebuscarías" ],
+			[ "rebuscaría" ],
+			[ "rebuscaríamos" ],
+			[ "rebuscaríais", "rebuscarían" ],
+			[ "rebuscarían" ]
+		],
+		"7" : [
+			[ "rebuscaré" ],
+			[ "rebuscarás" ],
+			[ "rebuscará" ],
+			[ "rebuscaremos" ],
+			[ "rebuscaréis", "rebuscarán" ],
+			[ "rebuscarán" ]
+		],
+		"8" : [
+			[ "rebusque" ],
+			[ "rebusques" ],
+			[ "rebusque" ],
+			[ "rebusquemos" ],
+			[ "rebusquéis", "rebusquen" ],
+			[ "rebusquen" ]
+		],
+		"9" : [
+			[ "rebuscara" ],
+			[ "rebuscaras" ],
+			[ "rebuscara" ],
+			[ "rebuscáramos" ],
+			[ "rebuscarais", "rebuscaran" ],
+			[ "rebuscaran" ]
+		],
+		"10" : [
+			[ "rebuscase" ],
+			[ "rebuscases" ],
+			[ "rebuscase" ],
+			[ "rebuscásemos" ],
+			[ "rebuscaseis", "rebuscasen" ],
+			[ "rebuscasen" ]
+		],
+		"11" : [
+			[ "rebuscare" ],
+			[ "rebuscares" ],
+			[ "rebuscare" ],
+			[ "rebuscáremos" ],
+			[ "rebuscareis", "rebuscaren" ],
+			[ "rebuscaren" ]
+		],
+		"12" : {
+			"1" : [ "rebusca" ],
+			"2" : [ "rebusque" ],
+			"3" : [ "rebusquemos" ],
+			"4" : [ "rebuscad" ],
+			"5" : [ "rebusquen" ]
+		}
+	}
+}

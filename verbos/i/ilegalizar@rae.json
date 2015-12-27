@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ilegalizar",
+	"word" : "ilegalizar",
+	"infinitivo" : "ilegalizar",
+	"participio" : [ "ilegalizado" ],
+	"gerundio" : [ "ilegalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "ilegalizo" ],
+			[ "ilegalizas", "ilegalizás" ],
+			[ "ilegaliza" ],
+			[ "ilegalizamos" ],
+			[ "ilegalizáis", "ilegalizan" ],
+			[ "ilegalizan" ]
+		],
+		"4" : [
+			[ "ilegalicé" ],
+			[ "ilegalizaste" ],
+			[ "ilegalizó" ],
+			[ "ilegalizamos" ],
+			[ "ilegalizasteis", "ilegalizaron" ],
+			[ "ilegalizaron" ]
+		],
+		"5" : [
+			[ "ilegalizaba" ],
+			[ "ilegalizabas" ],
+			[ "ilegalizaba" ],
+			[ "ilegalizábamos" ],
+			[ "ilegalizabais", "ilegalizaban" ],
+			[ "ilegalizaban" ]
+		],
+		"6" : [
+			[ "ilegalizaría" ],
+			[ "ilegalizarías" ],
+			[ "ilegalizaría" ],
+			[ "ilegalizaríamos" ],
+			[ "ilegalizaríais", "ilegalizarían" ],
+			[ "ilegalizarían" ]
+		],
+		"7" : [
+			[ "ilegalizaré" ],
+			[ "ilegalizarás" ],
+			[ "ilegalizará" ],
+			[ "ilegalizaremos" ],
+			[ "ilegalizaréis", "ilegalizarán" ],
+			[ "ilegalizarán" ]
+		],
+		"8" : [
+			[ "ilegalice" ],
+			[ "ilegalices" ],
+			[ "ilegalice" ],
+			[ "ilegalicemos" ],
+			[ "ilegalicéis", "ilegalicen" ],
+			[ "ilegalicen" ]
+		],
+		"9" : [
+			[ "ilegalizara" ],
+			[ "ilegalizaras" ],
+			[ "ilegalizara" ],
+			[ "ilegalizáramos" ],
+			[ "ilegalizarais", "ilegalizaran" ],
+			[ "ilegalizaran" ]
+		],
+		"10" : [
+			[ "ilegalizase" ],
+			[ "ilegalizases" ],
+			[ "ilegalizase" ],
+			[ "ilegalizásemos" ],
+			[ "ilegalizaseis", "ilegalizasen" ],
+			[ "ilegalizasen" ]
+		],
+		"11" : [
+			[ "ilegalizare" ],
+			[ "ilegalizares" ],
+			[ "ilegalizare" ],
+			[ "ilegalizáremos" ],
+			[ "ilegalizareis", "ilegalizaren" ],
+			[ "ilegalizaren" ]
+		],
+		"12" : {
+			"1" : [ "ilegaliza" ],
+			"2" : [ "ilegalice" ],
+			"3" : [ "ilegalicemos" ],
+			"4" : [ "ilegalizad" ],
+			"5" : [ "ilegalicen" ]
+		}
+	}
+}

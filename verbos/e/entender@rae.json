@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entender",
+	"word" : "entender",
+	"infinitivo" : "entender",
+	"participio" : [ "entendido" ],
+	"gerundio" : [ "entendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "entiendo" ],
+			[ "entiendes", "entendés" ],
+			[ "entiende" ],
+			[ "entendemos" ],
+			[ "entendéis", "entienden" ],
+			[ "entienden" ]
+		],
+		"4" : [
+			[ "entendí" ],
+			[ "entendiste" ],
+			[ "entendió" ],
+			[ "entendimos" ],
+			[ "entendisteis", "entendieron" ],
+			[ "entendieron" ]
+		],
+		"5" : [
+			[ "entendía" ],
+			[ "entendías" ],
+			[ "entendía" ],
+			[ "entendíamos" ],
+			[ "entendíais", "entendían" ],
+			[ "entendían" ]
+		],
+		"6" : [
+			[ "entendería" ],
+			[ "entenderías" ],
+			[ "entendería" ],
+			[ "entenderíamos" ],
+			[ "entenderíais", "entenderían" ],
+			[ "entenderían" ]
+		],
+		"7" : [
+			[ "entenderé" ],
+			[ "entenderás" ],
+			[ "entenderá" ],
+			[ "entenderemos" ],
+			[ "entenderéis", "entenderán" ],
+			[ "entenderán" ]
+		],
+		"8" : [
+			[ "entienda" ],
+			[ "entiendas" ],
+			[ "entienda" ],
+			[ "entendamos" ],
+			[ "entendáis", "entiendan" ],
+			[ "entiendan" ]
+		],
+		"9" : [
+			[ "entendiera" ],
+			[ "entendieras" ],
+			[ "entendiera" ],
+			[ "entendiéramos" ],
+			[ "entendierais", "entendieran" ],
+			[ "entendieran" ]
+		],
+		"10" : [
+			[ "entendiese" ],
+			[ "entendieses" ],
+			[ "entendiese" ],
+			[ "entendiésemos" ],
+			[ "entendieseis", "entendiesen" ],
+			[ "entendiesen" ]
+		],
+		"11" : [
+			[ "entendiere" ],
+			[ "entendieres" ],
+			[ "entendiere" ],
+			[ "entendiéremos" ],
+			[ "entendiereis", "entendieren" ],
+			[ "entendieren" ]
+		],
+		"12" : {
+			"1" : [ "entiende" ],
+			"2" : [ "entienda" ],
+			"3" : [ "entendamos" ],
+			"4" : [ "entended" ],
+			"5" : [ "entiendan" ]
+		}
+	}
+}

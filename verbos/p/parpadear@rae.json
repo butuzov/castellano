@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=parpadear",
+	"word" : "parpadear",
+	"infinitivo" : "parpadear",
+	"participio" : [ "parpadeado" ],
+	"gerundio" : [ "parpadeando" ],
+	"tenses" : {
+		"3" : [
+			[ "parpadeo" ],
+			[ "parpadeas", "parpadeás" ],
+			[ "parpadea" ],
+			[ "parpadeamos" ],
+			[ "parpadeáis", "parpadean" ],
+			[ "parpadean" ]
+		],
+		"4" : [
+			[ "parpadeé" ],
+			[ "parpadeaste" ],
+			[ "parpadeó" ],
+			[ "parpadeamos" ],
+			[ "parpadeasteis", "parpadearon" ],
+			[ "parpadearon" ]
+		],
+		"5" : [
+			[ "parpadeaba" ],
+			[ "parpadeabas" ],
+			[ "parpadeaba" ],
+			[ "parpadeábamos" ],
+			[ "parpadeabais", "parpadeaban" ],
+			[ "parpadeaban" ]
+		],
+		"6" : [
+			[ "parpadearía" ],
+			[ "parpadearías" ],
+			[ "parpadearía" ],
+			[ "parpadearíamos" ],
+			[ "parpadearíais", "parpadearían" ],
+			[ "parpadearían" ]
+		],
+		"7" : [
+			[ "parpadearé" ],
+			[ "parpadearás" ],
+			[ "parpadeará" ],
+			[ "parpadearemos" ],
+			[ "parpadearéis", "parpadearán" ],
+			[ "parpadearán" ]
+		],
+		"8" : [
+			[ "parpadee" ],
+			[ "parpadees" ],
+			[ "parpadee" ],
+			[ "parpadeemos" ],
+			[ "parpadeéis", "parpadeen" ],
+			[ "parpadeen" ]
+		],
+		"9" : [
+			[ "parpadeara" ],
+			[ "parpadearas" ],
+			[ "parpadeara" ],
+			[ "parpadeáramos" ],
+			[ "parpadearais", "parpadearan" ],
+			[ "parpadearan" ]
+		],
+		"10" : [
+			[ "parpadease" ],
+			[ "parpadeases" ],
+			[ "parpadease" ],
+			[ "parpadeásemos" ],
+			[ "parpadeaseis", "parpadeasen" ],
+			[ "parpadeasen" ]
+		],
+		"11" : [
+			[ "parpadeare" ],
+			[ "parpadeares" ],
+			[ "parpadeare" ],
+			[ "parpadeáremos" ],
+			[ "parpadeareis", "parpadearen" ],
+			[ "parpadearen" ]
+		],
+		"12" : {
+			"1" : [ "parpadea" ],
+			"2" : [ "parpadee" ],
+			"3" : [ "parpadeemos" ],
+			"4" : [ "parpadead" ],
+			"5" : [ "parpadeen" ]
+		}
+	}
+}

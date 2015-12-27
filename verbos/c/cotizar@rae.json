@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cotizar",
+	"word" : "cotizar",
+	"infinitivo" : "cotizar",
+	"participio" : [ "cotizado" ],
+	"gerundio" : [ "cotizando" ],
+	"tenses" : {
+		"3" : [
+			[ "cotizo" ],
+			[ "cotizas", "cotizás" ],
+			[ "cotiza" ],
+			[ "cotizamos" ],
+			[ "cotizáis", "cotizan" ],
+			[ "cotizan" ]
+		],
+		"4" : [
+			[ "coticé" ],
+			[ "cotizaste" ],
+			[ "cotizó" ],
+			[ "cotizamos" ],
+			[ "cotizasteis", "cotizaron" ],
+			[ "cotizaron" ]
+		],
+		"5" : [
+			[ "cotizaba" ],
+			[ "cotizabas" ],
+			[ "cotizaba" ],
+			[ "cotizábamos" ],
+			[ "cotizabais", "cotizaban" ],
+			[ "cotizaban" ]
+		],
+		"6" : [
+			[ "cotizaría" ],
+			[ "cotizarías" ],
+			[ "cotizaría" ],
+			[ "cotizaríamos" ],
+			[ "cotizaríais", "cotizarían" ],
+			[ "cotizarían" ]
+		],
+		"7" : [
+			[ "cotizaré" ],
+			[ "cotizarás" ],
+			[ "cotizará" ],
+			[ "cotizaremos" ],
+			[ "cotizaréis", "cotizarán" ],
+			[ "cotizarán" ]
+		],
+		"8" : [
+			[ "cotice" ],
+			[ "cotices" ],
+			[ "cotice" ],
+			[ "coticemos" ],
+			[ "coticéis", "coticen" ],
+			[ "coticen" ]
+		],
+		"9" : [
+			[ "cotizara" ],
+			[ "cotizaras" ],
+			[ "cotizara" ],
+			[ "cotizáramos" ],
+			[ "cotizarais", "cotizaran" ],
+			[ "cotizaran" ]
+		],
+		"10" : [
+			[ "cotizase" ],
+			[ "cotizases" ],
+			[ "cotizase" ],
+			[ "cotizásemos" ],
+			[ "cotizaseis", "cotizasen" ],
+			[ "cotizasen" ]
+		],
+		"11" : [
+			[ "cotizare" ],
+			[ "cotizares" ],
+			[ "cotizare" ],
+			[ "cotizáremos" ],
+			[ "cotizareis", "cotizaren" ],
+			[ "cotizaren" ]
+		],
+		"12" : {
+			"1" : [ "cotiza" ],
+			"2" : [ "cotice" ],
+			"3" : [ "coticemos" ],
+			"4" : [ "cotizad" ],
+			"5" : [ "coticen" ]
+		}
+	}
+}

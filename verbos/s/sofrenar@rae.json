@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sofrenar",
+	"word" : "sofrenar",
+	"infinitivo" : "sofrenar",
+	"participio" : [ "sofrenado" ],
+	"gerundio" : [ "sofrenando" ],
+	"tenses" : {
+		"3" : [
+			[ "sofreno" ],
+			[ "sofrenas", "sofrenás" ],
+			[ "sofrena" ],
+			[ "sofrenamos" ],
+			[ "sofrenáis", "sofrenan" ],
+			[ "sofrenan" ]
+		],
+		"4" : [
+			[ "sofrené" ],
+			[ "sofrenaste" ],
+			[ "sofrenó" ],
+			[ "sofrenamos" ],
+			[ "sofrenasteis", "sofrenaron" ],
+			[ "sofrenaron" ]
+		],
+		"5" : [
+			[ "sofrenaba" ],
+			[ "sofrenabas" ],
+			[ "sofrenaba" ],
+			[ "sofrenábamos" ],
+			[ "sofrenabais", "sofrenaban" ],
+			[ "sofrenaban" ]
+		],
+		"6" : [
+			[ "sofrenaría" ],
+			[ "sofrenarías" ],
+			[ "sofrenaría" ],
+			[ "sofrenaríamos" ],
+			[ "sofrenaríais", "sofrenarían" ],
+			[ "sofrenarían" ]
+		],
+		"7" : [
+			[ "sofrenaré" ],
+			[ "sofrenarás" ],
+			[ "sofrenará" ],
+			[ "sofrenaremos" ],
+			[ "sofrenaréis", "sofrenarán" ],
+			[ "sofrenarán" ]
+		],
+		"8" : [
+			[ "sofrene" ],
+			[ "sofrenes" ],
+			[ "sofrene" ],
+			[ "sofrenemos" ],
+			[ "sofrenéis", "sofrenen" ],
+			[ "sofrenen" ]
+		],
+		"9" : [
+			[ "sofrenara" ],
+			[ "sofrenaras" ],
+			[ "sofrenara" ],
+			[ "sofrenáramos" ],
+			[ "sofrenarais", "sofrenaran" ],
+			[ "sofrenaran" ]
+		],
+		"10" : [
+			[ "sofrenase" ],
+			[ "sofrenases" ],
+			[ "sofrenase" ],
+			[ "sofrenásemos" ],
+			[ "sofrenaseis", "sofrenasen" ],
+			[ "sofrenasen" ]
+		],
+		"11" : [
+			[ "sofrenare" ],
+			[ "sofrenares" ],
+			[ "sofrenare" ],
+			[ "sofrenáremos" ],
+			[ "sofrenareis", "sofrenaren" ],
+			[ "sofrenaren" ]
+		],
+		"12" : {
+			"1" : [ "sofrena" ],
+			"2" : [ "sofrene" ],
+			"3" : [ "sofrenemos" ],
+			"4" : [ "sofrenad" ],
+			"5" : [ "sofrenen" ]
+		}
+	}
+}

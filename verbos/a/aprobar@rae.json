@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aprobar",
+	"word" : "aprobar",
+	"infinitivo" : "aprobar",
+	"participio" : [ "aprobado" ],
+	"gerundio" : [ "aprobando" ],
+	"tenses" : {
+		"3" : [
+			[ "apruebo" ],
+			[ "apruebas", "aprobás" ],
+			[ "aprueba" ],
+			[ "aprobamos" ],
+			[ "aprobáis", "aprueban" ],
+			[ "aprueban" ]
+		],
+		"4" : [
+			[ "aprobé" ],
+			[ "aprobaste" ],
+			[ "aprobó" ],
+			[ "aprobamos" ],
+			[ "aprobasteis", "aprobaron" ],
+			[ "aprobaron" ]
+		],
+		"5" : [
+			[ "aprobaba" ],
+			[ "aprobabas" ],
+			[ "aprobaba" ],
+			[ "aprobábamos" ],
+			[ "aprobabais", "aprobaban" ],
+			[ "aprobaban" ]
+		],
+		"6" : [
+			[ "aprobaría" ],
+			[ "aprobarías" ],
+			[ "aprobaría" ],
+			[ "aprobaríamos" ],
+			[ "aprobaríais", "aprobarían" ],
+			[ "aprobarían" ]
+		],
+		"7" : [
+			[ "aprobaré" ],
+			[ "aprobarás" ],
+			[ "aprobará" ],
+			[ "aprobaremos" ],
+			[ "aprobaréis", "aprobarán" ],
+			[ "aprobarán" ]
+		],
+		"8" : [
+			[ "apruebe" ],
+			[ "apruebes" ],
+			[ "apruebe" ],
+			[ "aprobemos" ],
+			[ "aprobéis", "aprueben" ],
+			[ "aprueben" ]
+		],
+		"9" : [
+			[ "aprobara" ],
+			[ "aprobaras" ],
+			[ "aprobara" ],
+			[ "aprobáramos" ],
+			[ "aprobarais", "aprobaran" ],
+			[ "aprobaran" ]
+		],
+		"10" : [
+			[ "aprobase" ],
+			[ "aprobases" ],
+			[ "aprobase" ],
+			[ "aprobásemos" ],
+			[ "aprobaseis", "aprobasen" ],
+			[ "aprobasen" ]
+		],
+		"11" : [
+			[ "aprobare" ],
+			[ "aprobares" ],
+			[ "aprobare" ],
+			[ "aprobáremos" ],
+			[ "aprobareis", "aprobaren" ],
+			[ "aprobaren" ]
+		],
+		"12" : {
+			"1" : [ "aprueba" ],
+			"2" : [ "apruebe" ],
+			"3" : [ "aprobemos" ],
+			"4" : [ "aprobad" ],
+			"5" : [ "aprueben" ]
+		}
+	}
+}

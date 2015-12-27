@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=persistir",
+	"word" : "persistir",
+	"infinitivo" : "persistir",
+	"participio" : [ "persistido" ],
+	"gerundio" : [ "persistiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "persisto" ],
+			[ "persistes", "persistís" ],
+			[ "persiste" ],
+			[ "persistimos" ],
+			[ "persistís", "persisten" ],
+			[ "persisten" ]
+		],
+		"4" : [
+			[ "persistí" ],
+			[ "persististe" ],
+			[ "persistió" ],
+			[ "persistimos" ],
+			[ "persististeis", "persistieron" ],
+			[ "persistieron" ]
+		],
+		"5" : [
+			[ "persistía" ],
+			[ "persistías" ],
+			[ "persistía" ],
+			[ "persistíamos" ],
+			[ "persistíais", "persistían" ],
+			[ "persistían" ]
+		],
+		"6" : [
+			[ "persistiría" ],
+			[ "persistirías" ],
+			[ "persistiría" ],
+			[ "persistiríamos" ],
+			[ "persistiríais", "persistirían" ],
+			[ "persistirían" ]
+		],
+		"7" : [
+			[ "persistiré" ],
+			[ "persistirás" ],
+			[ "persistirá" ],
+			[ "persistiremos" ],
+			[ "persistiréis", "persistirán" ],
+			[ "persistirán" ]
+		],
+		"8" : [
+			[ "persista" ],
+			[ "persistas" ],
+			[ "persista" ],
+			[ "persistamos" ],
+			[ "persistáis", "persistan" ],
+			[ "persistan" ]
+		],
+		"9" : [
+			[ "persistiera" ],
+			[ "persistieras" ],
+			[ "persistiera" ],
+			[ "persistiéramos" ],
+			[ "persistierais", "persistieran" ],
+			[ "persistieran" ]
+		],
+		"10" : [
+			[ "persistiese" ],
+			[ "persistieses" ],
+			[ "persistiese" ],
+			[ "persistiésemos" ],
+			[ "persistieseis", "persistiesen" ],
+			[ "persistiesen" ]
+		],
+		"11" : [
+			[ "persistiere" ],
+			[ "persistieres" ],
+			[ "persistiere" ],
+			[ "persistiéremos" ],
+			[ "persistiereis", "persistieren" ],
+			[ "persistieren" ]
+		],
+		"12" : {
+			"1" : [ "persiste" ],
+			"2" : [ "persista" ],
+			"3" : [ "persistamos" ],
+			"4" : [ "persistid" ],
+			"5" : [ "persistan" ]
+		}
+	}
+}

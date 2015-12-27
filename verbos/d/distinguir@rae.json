@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=distinguir",
+	"word" : "distinguir",
+	"infinitivo" : "distinguir",
+	"participio" : [ "distinguido" ],
+	"gerundio" : [ "distinguiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "distingo" ],
+			[ "distingues", "distinguís" ],
+			[ "distingue" ],
+			[ "distinguimos" ],
+			[ "distinguís", "distinguen" ],
+			[ "distinguen" ]
+		],
+		"4" : [
+			[ "distinguí" ],
+			[ "distinguiste" ],
+			[ "distinguió" ],
+			[ "distinguimos" ],
+			[ "distinguisteis", "distinguieron" ],
+			[ "distinguieron" ]
+		],
+		"5" : [
+			[ "distinguía" ],
+			[ "distinguías" ],
+			[ "distinguía" ],
+			[ "distinguíamos" ],
+			[ "distinguíais", "distinguían" ],
+			[ "distinguían" ]
+		],
+		"6" : [
+			[ "distinguiría" ],
+			[ "distinguirías" ],
+			[ "distinguiría" ],
+			[ "distinguiríamos" ],
+			[ "distinguiríais", "distinguirían" ],
+			[ "distinguirían" ]
+		],
+		"7" : [
+			[ "distinguiré" ],
+			[ "distinguirás" ],
+			[ "distinguirá" ],
+			[ "distinguiremos" ],
+			[ "distinguiréis", "distinguirán" ],
+			[ "distinguirán" ]
+		],
+		"8" : [
+			[ "distinga" ],
+			[ "distingas" ],
+			[ "distinga" ],
+			[ "distingamos" ],
+			[ "distingáis", "distingan" ],
+			[ "distingan" ]
+		],
+		"9" : [
+			[ "distinguiera" ],
+			[ "distinguieras" ],
+			[ "distinguiera" ],
+			[ "distinguiéramos" ],
+			[ "distinguierais", "distinguieran" ],
+			[ "distinguieran" ]
+		],
+		"10" : [
+			[ "distinguiese" ],
+			[ "distinguieses" ],
+			[ "distinguiese" ],
+			[ "distinguiésemos" ],
+			[ "distinguieseis", "distinguiesen" ],
+			[ "distinguiesen" ]
+		],
+		"11" : [
+			[ "distinguiere" ],
+			[ "distinguieres" ],
+			[ "distinguiere" ],
+			[ "distinguiéremos" ],
+			[ "distinguiereis", "distinguieren" ],
+			[ "distinguieren" ]
+		],
+		"12" : {
+			"1" : [ "distingue" ],
+			"2" : [ "distinga" ],
+			"3" : [ "distingamos" ],
+			"4" : [ "distinguid" ],
+			"5" : [ "distingan" ]
+		}
+	}
+}

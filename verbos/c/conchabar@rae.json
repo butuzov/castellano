@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conchabar",
+	"word" : "conchabar",
+	"infinitivo" : "conchabar",
+	"participio" : [ "conchabado" ],
+	"gerundio" : [ "conchabando" ],
+	"tenses" : {
+		"3" : [
+			[ "conchabo" ],
+			[ "conchabas", "conchabás" ],
+			[ "conchaba" ],
+			[ "conchabamos" ],
+			[ "conchabáis", "conchaban" ],
+			[ "conchaban" ]
+		],
+		"4" : [
+			[ "conchabé" ],
+			[ "conchabaste" ],
+			[ "conchabó" ],
+			[ "conchabamos" ],
+			[ "conchabasteis", "conchabaron" ],
+			[ "conchabaron" ]
+		],
+		"5" : [
+			[ "conchababa" ],
+			[ "conchababas" ],
+			[ "conchababa" ],
+			[ "conchabábamos" ],
+			[ "conchababais", "conchababan" ],
+			[ "conchababan" ]
+		],
+		"6" : [
+			[ "conchabaría" ],
+			[ "conchabarías" ],
+			[ "conchabaría" ],
+			[ "conchabaríamos" ],
+			[ "conchabaríais", "conchabarían" ],
+			[ "conchabarían" ]
+		],
+		"7" : [
+			[ "conchabaré" ],
+			[ "conchabarás" ],
+			[ "conchabará" ],
+			[ "conchabaremos" ],
+			[ "conchabaréis", "conchabarán" ],
+			[ "conchabarán" ]
+		],
+		"8" : [
+			[ "conchabe" ],
+			[ "conchabes" ],
+			[ "conchabe" ],
+			[ "conchabemos" ],
+			[ "conchabéis", "conchaben" ],
+			[ "conchaben" ]
+		],
+		"9" : [
+			[ "conchabara" ],
+			[ "conchabaras" ],
+			[ "conchabara" ],
+			[ "conchabáramos" ],
+			[ "conchabarais", "conchabaran" ],
+			[ "conchabaran" ]
+		],
+		"10" : [
+			[ "conchabase" ],
+			[ "conchabases" ],
+			[ "conchabase" ],
+			[ "conchabásemos" ],
+			[ "conchabaseis", "conchabasen" ],
+			[ "conchabasen" ]
+		],
+		"11" : [
+			[ "conchabare" ],
+			[ "conchabares" ],
+			[ "conchabare" ],
+			[ "conchabáremos" ],
+			[ "conchabareis", "conchabaren" ],
+			[ "conchabaren" ]
+		],
+		"12" : {
+			"1" : [ "conchaba" ],
+			"2" : [ "conchabe" ],
+			"3" : [ "conchabemos" ],
+			"4" : [ "conchabad" ],
+			"5" : [ "conchaben" ]
+		}
+	}
+}

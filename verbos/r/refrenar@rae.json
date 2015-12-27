@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=refrenar",
+	"word" : "refrenar",
+	"infinitivo" : "refrenar",
+	"participio" : [ "refrenado" ],
+	"gerundio" : [ "refrenando" ],
+	"tenses" : {
+		"3" : [
+			[ "refreno" ],
+			[ "refrenas", "refrenás" ],
+			[ "refrena" ],
+			[ "refrenamos" ],
+			[ "refrenáis", "refrenan" ],
+			[ "refrenan" ]
+		],
+		"4" : [
+			[ "refrené" ],
+			[ "refrenaste" ],
+			[ "refrenó" ],
+			[ "refrenamos" ],
+			[ "refrenasteis", "refrenaron" ],
+			[ "refrenaron" ]
+		],
+		"5" : [
+			[ "refrenaba" ],
+			[ "refrenabas" ],
+			[ "refrenaba" ],
+			[ "refrenábamos" ],
+			[ "refrenabais", "refrenaban" ],
+			[ "refrenaban" ]
+		],
+		"6" : [
+			[ "refrenaría" ],
+			[ "refrenarías" ],
+			[ "refrenaría" ],
+			[ "refrenaríamos" ],
+			[ "refrenaríais", "refrenarían" ],
+			[ "refrenarían" ]
+		],
+		"7" : [
+			[ "refrenaré" ],
+			[ "refrenarás" ],
+			[ "refrenará" ],
+			[ "refrenaremos" ],
+			[ "refrenaréis", "refrenarán" ],
+			[ "refrenarán" ]
+		],
+		"8" : [
+			[ "refrene" ],
+			[ "refrenes" ],
+			[ "refrene" ],
+			[ "refrenemos" ],
+			[ "refrenéis", "refrenen" ],
+			[ "refrenen" ]
+		],
+		"9" : [
+			[ "refrenara" ],
+			[ "refrenaras" ],
+			[ "refrenara" ],
+			[ "refrenáramos" ],
+			[ "refrenarais", "refrenaran" ],
+			[ "refrenaran" ]
+		],
+		"10" : [
+			[ "refrenase" ],
+			[ "refrenases" ],
+			[ "refrenase" ],
+			[ "refrenásemos" ],
+			[ "refrenaseis", "refrenasen" ],
+			[ "refrenasen" ]
+		],
+		"11" : [
+			[ "refrenare" ],
+			[ "refrenares" ],
+			[ "refrenare" ],
+			[ "refrenáremos" ],
+			[ "refrenareis", "refrenaren" ],
+			[ "refrenaren" ]
+		],
+		"12" : {
+			"1" : [ "refrena" ],
+			"2" : [ "refrene" ],
+			"3" : [ "refrenemos" ],
+			"4" : [ "refrenad" ],
+			"5" : [ "refrenen" ]
+		}
+	}
+}

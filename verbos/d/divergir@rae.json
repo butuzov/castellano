@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=divergir",
+	"word" : "divergir",
+	"infinitivo" : "divergir",
+	"participio" : [ "divergido" ],
+	"gerundio" : [ "divergiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "diverjo" ],
+			[ "diverges", "divergís" ],
+			[ "diverge" ],
+			[ "divergimos" ],
+			[ "divergís", "divergen" ],
+			[ "divergen" ]
+		],
+		"4" : [
+			[ "divergí" ],
+			[ "divergiste" ],
+			[ "divergió" ],
+			[ "divergimos" ],
+			[ "divergisteis", "divergieron" ],
+			[ "divergieron" ]
+		],
+		"5" : [
+			[ "divergía" ],
+			[ "divergías" ],
+			[ "divergía" ],
+			[ "divergíamos" ],
+			[ "divergíais", "divergían" ],
+			[ "divergían" ]
+		],
+		"6" : [
+			[ "divergiría" ],
+			[ "divergirías" ],
+			[ "divergiría" ],
+			[ "divergiríamos" ],
+			[ "divergiríais", "divergirían" ],
+			[ "divergirían" ]
+		],
+		"7" : [
+			[ "divergiré" ],
+			[ "divergirás" ],
+			[ "divergirá" ],
+			[ "divergiremos" ],
+			[ "divergiréis", "divergirán" ],
+			[ "divergirán" ]
+		],
+		"8" : [
+			[ "diverja" ],
+			[ "diverjas" ],
+			[ "diverja" ],
+			[ "diverjamos" ],
+			[ "diverjáis", "diverjan" ],
+			[ "diverjan" ]
+		],
+		"9" : [
+			[ "divergiera" ],
+			[ "divergieras" ],
+			[ "divergiera" ],
+			[ "divergiéramos" ],
+			[ "divergierais", "divergieran" ],
+			[ "divergieran" ]
+		],
+		"10" : [
+			[ "divergiese" ],
+			[ "divergieses" ],
+			[ "divergiese" ],
+			[ "divergiésemos" ],
+			[ "divergieseis", "divergiesen" ],
+			[ "divergiesen" ]
+		],
+		"11" : [
+			[ "divergiere" ],
+			[ "divergieres" ],
+			[ "divergiere" ],
+			[ "divergiéremos" ],
+			[ "divergiereis", "divergieren" ],
+			[ "divergieren" ]
+		],
+		"12" : {
+			"1" : [ "diverge" ],
+			"2" : [ "diverja" ],
+			"3" : [ "diverjamos" ],
+			"4" : [ "divergid" ],
+			"5" : [ "diverjan" ]
+		}
+	}
+}

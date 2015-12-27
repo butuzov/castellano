@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=avalentar",
+	"word" : "avalentar",
+	"infinitivo" : "avalentar",
+	"participio" : [ "avalentado" ],
+	"gerundio" : [ "avalentando" ],
+	"tenses" : {
+		"3" : [
+			[ "avalento" ],
+			[ "avalentas", "avalentás" ],
+			[ "avalenta" ],
+			[ "avalentamos" ],
+			[ "avalentáis", "avalentan" ],
+			[ "avalentan" ]
+		],
+		"4" : [
+			[ "avalenté" ],
+			[ "avalentaste" ],
+			[ "avalentó" ],
+			[ "avalentamos" ],
+			[ "avalentasteis", "avalentaron" ],
+			[ "avalentaron" ]
+		],
+		"5" : [
+			[ "avalentaba" ],
+			[ "avalentabas" ],
+			[ "avalentaba" ],
+			[ "avalentábamos" ],
+			[ "avalentabais", "avalentaban" ],
+			[ "avalentaban" ]
+		],
+		"6" : [
+			[ "avalentaría" ],
+			[ "avalentarías" ],
+			[ "avalentaría" ],
+			[ "avalentaríamos" ],
+			[ "avalentaríais", "avalentarían" ],
+			[ "avalentarían" ]
+		],
+		"7" : [
+			[ "avalentaré" ],
+			[ "avalentarás" ],
+			[ "avalentará" ],
+			[ "avalentaremos" ],
+			[ "avalentaréis", "avalentarán" ],
+			[ "avalentarán" ]
+		],
+		"8" : [
+			[ "avalente" ],
+			[ "avalentes" ],
+			[ "avalente" ],
+			[ "avalentemos" ],
+			[ "avalentéis", "avalenten" ],
+			[ "avalenten" ]
+		],
+		"9" : [
+			[ "avalentara" ],
+			[ "avalentaras" ],
+			[ "avalentara" ],
+			[ "avalentáramos" ],
+			[ "avalentarais", "avalentaran" ],
+			[ "avalentaran" ]
+		],
+		"10" : [
+			[ "avalentase" ],
+			[ "avalentases" ],
+			[ "avalentase" ],
+			[ "avalentásemos" ],
+			[ "avalentaseis", "avalentasen" ],
+			[ "avalentasen" ]
+		],
+		"11" : [
+			[ "avalentare" ],
+			[ "avalentares" ],
+			[ "avalentare" ],
+			[ "avalentáremos" ],
+			[ "avalentareis", "avalentaren" ],
+			[ "avalentaren" ]
+		],
+		"12" : {
+			"1" : [ "avalenta" ],
+			"2" : [ "avalente" ],
+			"3" : [ "avalentemos" ],
+			"4" : [ "avalentad" ],
+			"5" : [ "avalenten" ]
+		}
+	}
+}

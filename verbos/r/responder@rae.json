@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=responder",
+	"word" : "responder",
+	"infinitivo" : "responder",
+	"participio" : [ "respondido" ],
+	"gerundio" : [ "respondiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "respondo" ],
+			[ "respondes", "respondés" ],
+			[ "responde" ],
+			[ "respondemos" ],
+			[ "respondéis", "responden" ],
+			[ "responden" ]
+		],
+		"4" : [
+			[ "respondí" ],
+			[ "respondiste" ],
+			[ "respondió" ],
+			[ "respondimos" ],
+			[ "respondisteis", "respondieron" ],
+			[ "respondieron" ]
+		],
+		"5" : [
+			[ "respondía" ],
+			[ "respondías" ],
+			[ "respondía" ],
+			[ "respondíamos" ],
+			[ "respondíais", "respondían" ],
+			[ "respondían" ]
+		],
+		"6" : [
+			[ "respondería" ],
+			[ "responderías" ],
+			[ "respondería" ],
+			[ "responderíamos" ],
+			[ "responderíais", "responderían" ],
+			[ "responderían" ]
+		],
+		"7" : [
+			[ "responderé" ],
+			[ "responderás" ],
+			[ "responderá" ],
+			[ "responderemos" ],
+			[ "responderéis", "responderán" ],
+			[ "responderán" ]
+		],
+		"8" : [
+			[ "responda" ],
+			[ "respondas" ],
+			[ "responda" ],
+			[ "respondamos" ],
+			[ "respondáis", "respondan" ],
+			[ "respondan" ]
+		],
+		"9" : [
+			[ "respondiera" ],
+			[ "respondieras" ],
+			[ "respondiera" ],
+			[ "respondiéramos" ],
+			[ "respondierais", "respondieran" ],
+			[ "respondieran" ]
+		],
+		"10" : [
+			[ "respondiese" ],
+			[ "respondieses" ],
+			[ "respondiese" ],
+			[ "respondiésemos" ],
+			[ "respondieseis", "respondiesen" ],
+			[ "respondiesen" ]
+		],
+		"11" : [
+			[ "respondiere" ],
+			[ "respondieres" ],
+			[ "respondiere" ],
+			[ "respondiéremos" ],
+			[ "respondiereis", "respondieren" ],
+			[ "respondieren" ]
+		],
+		"12" : {
+			"1" : [ "responde" ],
+			"2" : [ "responda" ],
+			"3" : [ "respondamos" ],
+			"4" : [ "responded" ],
+			"5" : [ "respondan" ]
+		}
+	}
+}

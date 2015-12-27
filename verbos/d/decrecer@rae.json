@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=decrecer",
+	"word" : "decrecer",
+	"infinitivo" : "decrecer",
+	"participio" : [ "decrecido" ],
+	"gerundio" : [ "decreciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "decrezco" ],
+			[ "decreces", "decrecés" ],
+			[ "decrece" ],
+			[ "decrecemos" ],
+			[ "decrecéis", "decrecen" ],
+			[ "decrecen" ]
+		],
+		"4" : [
+			[ "decrecí" ],
+			[ "decreciste" ],
+			[ "decreció" ],
+			[ "decrecimos" ],
+			[ "decrecisteis", "decrecieron" ],
+			[ "decrecieron" ]
+		],
+		"5" : [
+			[ "decrecía" ],
+			[ "decrecías" ],
+			[ "decrecía" ],
+			[ "decrecíamos" ],
+			[ "decrecíais", "decrecían" ],
+			[ "decrecían" ]
+		],
+		"6" : [
+			[ "decrecería" ],
+			[ "decrecerías" ],
+			[ "decrecería" ],
+			[ "decreceríamos" ],
+			[ "decreceríais", "decrecerían" ],
+			[ "decrecerían" ]
+		],
+		"7" : [
+			[ "decreceré" ],
+			[ "decrecerás" ],
+			[ "decrecerá" ],
+			[ "decreceremos" ],
+			[ "decreceréis", "decrecerán" ],
+			[ "decrecerán" ]
+		],
+		"8" : [
+			[ "decrezca" ],
+			[ "decrezcas" ],
+			[ "decrezca" ],
+			[ "decrezcamos" ],
+			[ "decrezcáis", "decrezcan" ],
+			[ "decrezcan" ]
+		],
+		"9" : [
+			[ "decreciera" ],
+			[ "decrecieras" ],
+			[ "decreciera" ],
+			[ "decreciéramos" ],
+			[ "decrecierais", "decrecieran" ],
+			[ "decrecieran" ]
+		],
+		"10" : [
+			[ "decreciese" ],
+			[ "decrecieses" ],
+			[ "decreciese" ],
+			[ "decreciésemos" ],
+			[ "decrecieseis", "decreciesen" ],
+			[ "decreciesen" ]
+		],
+		"11" : [
+			[ "decreciere" ],
+			[ "decrecieres" ],
+			[ "decreciere" ],
+			[ "decreciéremos" ],
+			[ "decreciereis", "decrecieren" ],
+			[ "decrecieren" ]
+		],
+		"12" : {
+			"1" : [ "decrece" ],
+			"2" : [ "decrezca" ],
+			"3" : [ "decrezcamos" ],
+			"4" : [ "decreced" ],
+			"5" : [ "decrezcan" ]
+		}
+	}
+}

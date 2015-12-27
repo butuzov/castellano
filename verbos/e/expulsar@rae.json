@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=expulsar",
+	"word" : "expulsar",
+	"infinitivo" : "expulsar",
+	"participio" : [ "expulsado" ],
+	"gerundio" : [ "expulsando" ],
+	"tenses" : {
+		"3" : [
+			[ "expulso" ],
+			[ "expulsas", "expulsás" ],
+			[ "expulsa" ],
+			[ "expulsamos" ],
+			[ "expulsáis", "expulsan" ],
+			[ "expulsan" ]
+		],
+		"4" : [
+			[ "expulsé" ],
+			[ "expulsaste" ],
+			[ "expulsó" ],
+			[ "expulsamos" ],
+			[ "expulsasteis", "expulsaron" ],
+			[ "expulsaron" ]
+		],
+		"5" : [
+			[ "expulsaba" ],
+			[ "expulsabas" ],
+			[ "expulsaba" ],
+			[ "expulsábamos" ],
+			[ "expulsabais", "expulsaban" ],
+			[ "expulsaban" ]
+		],
+		"6" : [
+			[ "expulsaría" ],
+			[ "expulsarías" ],
+			[ "expulsaría" ],
+			[ "expulsaríamos" ],
+			[ "expulsaríais", "expulsarían" ],
+			[ "expulsarían" ]
+		],
+		"7" : [
+			[ "expulsaré" ],
+			[ "expulsarás" ],
+			[ "expulsará" ],
+			[ "expulsaremos" ],
+			[ "expulsaréis", "expulsarán" ],
+			[ "expulsarán" ]
+		],
+		"8" : [
+			[ "expulse" ],
+			[ "expulses" ],
+			[ "expulse" ],
+			[ "expulsemos" ],
+			[ "expulséis", "expulsen" ],
+			[ "expulsen" ]
+		],
+		"9" : [
+			[ "expulsara" ],
+			[ "expulsaras" ],
+			[ "expulsara" ],
+			[ "expulsáramos" ],
+			[ "expulsarais", "expulsaran" ],
+			[ "expulsaran" ]
+		],
+		"10" : [
+			[ "expulsase" ],
+			[ "expulsases" ],
+			[ "expulsase" ],
+			[ "expulsásemos" ],
+			[ "expulsaseis", "expulsasen" ],
+			[ "expulsasen" ]
+		],
+		"11" : [
+			[ "expulsare" ],
+			[ "expulsares" ],
+			[ "expulsare" ],
+			[ "expulsáremos" ],
+			[ "expulsareis", "expulsaren" ],
+			[ "expulsaren" ]
+		],
+		"12" : {
+			"1" : [ "expulsa" ],
+			"2" : [ "expulse" ],
+			"3" : [ "expulsemos" ],
+			"4" : [ "expulsad" ],
+			"5" : [ "expulsen" ]
+		}
+	}
+}

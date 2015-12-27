@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conciliar",
+	"word" : "conciliar",
+	"infinitivo" : "conciliar",
+	"participio" : [ "conciliado" ],
+	"gerundio" : [ "conciliando" ],
+	"tenses" : {
+		"3" : [
+			[ "concilio" ],
+			[ "concilias", "conciliás" ],
+			[ "concilia" ],
+			[ "conciliamos" ],
+			[ "conciliáis", "concilian" ],
+			[ "concilian" ]
+		],
+		"4" : [
+			[ "concilié" ],
+			[ "conciliaste" ],
+			[ "concilió" ],
+			[ "conciliamos" ],
+			[ "conciliasteis", "conciliaron" ],
+			[ "conciliaron" ]
+		],
+		"5" : [
+			[ "conciliaba" ],
+			[ "conciliabas" ],
+			[ "conciliaba" ],
+			[ "conciliábamos" ],
+			[ "conciliabais", "conciliaban" ],
+			[ "conciliaban" ]
+		],
+		"6" : [
+			[ "conciliaría" ],
+			[ "conciliarías" ],
+			[ "conciliaría" ],
+			[ "conciliaríamos" ],
+			[ "conciliaríais", "conciliarían" ],
+			[ "conciliarían" ]
+		],
+		"7" : [
+			[ "conciliaré" ],
+			[ "conciliarás" ],
+			[ "conciliará" ],
+			[ "conciliaremos" ],
+			[ "conciliaréis", "conciliarán" ],
+			[ "conciliarán" ]
+		],
+		"8" : [
+			[ "concilie" ],
+			[ "concilies" ],
+			[ "concilie" ],
+			[ "conciliemos" ],
+			[ "conciliéis", "concilien" ],
+			[ "concilien" ]
+		],
+		"9" : [
+			[ "conciliara" ],
+			[ "conciliaras" ],
+			[ "conciliara" ],
+			[ "conciliáramos" ],
+			[ "conciliarais", "conciliaran" ],
+			[ "conciliaran" ]
+		],
+		"10" : [
+			[ "conciliase" ],
+			[ "conciliases" ],
+			[ "conciliase" ],
+			[ "conciliásemos" ],
+			[ "conciliaseis", "conciliasen" ],
+			[ "conciliasen" ]
+		],
+		"11" : [
+			[ "conciliare" ],
+			[ "conciliares" ],
+			[ "conciliare" ],
+			[ "conciliáremos" ],
+			[ "conciliareis", "conciliaren" ],
+			[ "conciliaren" ]
+		],
+		"12" : {
+			"1" : [ "concilia" ],
+			"2" : [ "concilie" ],
+			"3" : [ "conciliemos" ],
+			"4" : [ "conciliad" ],
+			"5" : [ "concilien" ]
+		}
+	}
+}

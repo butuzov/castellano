@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=exponer",
+	"word" : "exponer",
+	"infinitivo" : "exponer",
+	"participio" : [ "expuesto" ],
+	"gerundio" : [ "exponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "expongo" ],
+			[ "expones", "exponés" ],
+			[ "expone" ],
+			[ "exponemos" ],
+			[ "exponéis", "exponen" ],
+			[ "exponen" ]
+		],
+		"4" : [
+			[ "expuse" ],
+			[ "expusiste" ],
+			[ "expuso" ],
+			[ "expusimos" ],
+			[ "expusisteis", "expusieron" ],
+			[ "expusieron" ]
+		],
+		"5" : [
+			[ "exponía" ],
+			[ "exponías" ],
+			[ "exponía" ],
+			[ "exponíamos" ],
+			[ "exponíais", "exponían" ],
+			[ "exponían" ]
+		],
+		"6" : [
+			[ "expondría" ],
+			[ "expondrías" ],
+			[ "expondría" ],
+			[ "expondríamos" ],
+			[ "expondríais", "expondrían" ],
+			[ "expondrían" ]
+		],
+		"7" : [
+			[ "expondré" ],
+			[ "expondrás" ],
+			[ "expondrá" ],
+			[ "expondremos" ],
+			[ "expondréis", "expondrán" ],
+			[ "expondrán" ]
+		],
+		"8" : [
+			[ "exponga" ],
+			[ "expongas" ],
+			[ "exponga" ],
+			[ "expongamos" ],
+			[ "expongáis", "expongan" ],
+			[ "expongan" ]
+		],
+		"9" : [
+			[ "expusiera" ],
+			[ "expusieras" ],
+			[ "expusiera" ],
+			[ "expusiéramos" ],
+			[ "expusierais", "expusieran" ],
+			[ "expusieran" ]
+		],
+		"10" : [
+			[ "expusiese" ],
+			[ "expusieses" ],
+			[ "expusiese" ],
+			[ "expusiésemos" ],
+			[ "expusieseis", "expusiesen" ],
+			[ "expusiesen" ]
+		],
+		"11" : [
+			[ "expusiere" ],
+			[ "expusieres" ],
+			[ "expusiere" ],
+			[ "expusiéremos" ],
+			[ "expusiereis", "expusieren" ],
+			[ "expusieren" ]
+		],
+		"12" : {
+			"1" : [ "expón" ],
+			"2" : [ "exponga" ],
+			"3" : [ "expongamos" ],
+			"4" : [ "exponed" ],
+			"5" : [ "expongan" ]
+		}
+	}
+}

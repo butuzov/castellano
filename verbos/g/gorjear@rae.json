@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gorjear",
+	"word" : "gorjear",
+	"infinitivo" : "gorjear",
+	"participio" : [ "gorjeado" ],
+	"gerundio" : [ "gorjeando" ],
+	"tenses" : {
+		"3" : [
+			[ "gorjeo" ],
+			[ "gorjeas", "gorjeás" ],
+			[ "gorjea" ],
+			[ "gorjeamos" ],
+			[ "gorjeáis", "gorjean" ],
+			[ "gorjean" ]
+		],
+		"4" : [
+			[ "gorjeé" ],
+			[ "gorjeaste" ],
+			[ "gorjeó" ],
+			[ "gorjeamos" ],
+			[ "gorjeasteis", "gorjearon" ],
+			[ "gorjearon" ]
+		],
+		"5" : [
+			[ "gorjeaba" ],
+			[ "gorjeabas" ],
+			[ "gorjeaba" ],
+			[ "gorjeábamos" ],
+			[ "gorjeabais", "gorjeaban" ],
+			[ "gorjeaban" ]
+		],
+		"6" : [
+			[ "gorjearía" ],
+			[ "gorjearías" ],
+			[ "gorjearía" ],
+			[ "gorjearíamos" ],
+			[ "gorjearíais", "gorjearían" ],
+			[ "gorjearían" ]
+		],
+		"7" : [
+			[ "gorjearé" ],
+			[ "gorjearás" ],
+			[ "gorjeará" ],
+			[ "gorjearemos" ],
+			[ "gorjearéis", "gorjearán" ],
+			[ "gorjearán" ]
+		],
+		"8" : [
+			[ "gorjee" ],
+			[ "gorjees" ],
+			[ "gorjee" ],
+			[ "gorjeemos" ],
+			[ "gorjeéis", "gorjeen" ],
+			[ "gorjeen" ]
+		],
+		"9" : [
+			[ "gorjeara" ],
+			[ "gorjearas" ],
+			[ "gorjeara" ],
+			[ "gorjeáramos" ],
+			[ "gorjearais", "gorjearan" ],
+			[ "gorjearan" ]
+		],
+		"10" : [
+			[ "gorjease" ],
+			[ "gorjeases" ],
+			[ "gorjease" ],
+			[ "gorjeásemos" ],
+			[ "gorjeaseis", "gorjeasen" ],
+			[ "gorjeasen" ]
+		],
+		"11" : [
+			[ "gorjeare" ],
+			[ "gorjeares" ],
+			[ "gorjeare" ],
+			[ "gorjeáremos" ],
+			[ "gorjeareis", "gorjearen" ],
+			[ "gorjearen" ]
+		],
+		"12" : {
+			"1" : [ "gorjea" ],
+			"2" : [ "gorjee" ],
+			"3" : [ "gorjeemos" ],
+			"4" : [ "gorjead" ],
+			"5" : [ "gorjeen" ]
+		}
+	}
+}

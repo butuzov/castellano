@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ambicionar",
+	"word" : "ambicionar",
+	"infinitivo" : "ambicionar",
+	"participio" : [ "ambicionado" ],
+	"gerundio" : [ "ambicionando" ],
+	"tenses" : {
+		"3" : [
+			[ "ambiciono" ],
+			[ "ambicionas", "ambicionás" ],
+			[ "ambiciona" ],
+			[ "ambicionamos" ],
+			[ "ambicionáis", "ambicionan" ],
+			[ "ambicionan" ]
+		],
+		"4" : [
+			[ "ambicioné" ],
+			[ "ambicionaste" ],
+			[ "ambicionó" ],
+			[ "ambicionamos" ],
+			[ "ambicionasteis", "ambicionaron" ],
+			[ "ambicionaron" ]
+		],
+		"5" : [
+			[ "ambicionaba" ],
+			[ "ambicionabas" ],
+			[ "ambicionaba" ],
+			[ "ambicionábamos" ],
+			[ "ambicionabais", "ambicionaban" ],
+			[ "ambicionaban" ]
+		],
+		"6" : [
+			[ "ambicionaría" ],
+			[ "ambicionarías" ],
+			[ "ambicionaría" ],
+			[ "ambicionaríamos" ],
+			[ "ambicionaríais", "ambicionarían" ],
+			[ "ambicionarían" ]
+		],
+		"7" : [
+			[ "ambicionaré" ],
+			[ "ambicionarás" ],
+			[ "ambicionará" ],
+			[ "ambicionaremos" ],
+			[ "ambicionaréis", "ambicionarán" ],
+			[ "ambicionarán" ]
+		],
+		"8" : [
+			[ "ambicione" ],
+			[ "ambiciones" ],
+			[ "ambicione" ],
+			[ "ambicionemos" ],
+			[ "ambicionéis", "ambicionen" ],
+			[ "ambicionen" ]
+		],
+		"9" : [
+			[ "ambicionara" ],
+			[ "ambicionaras" ],
+			[ "ambicionara" ],
+			[ "ambicionáramos" ],
+			[ "ambicionarais", "ambicionaran" ],
+			[ "ambicionaran" ]
+		],
+		"10" : [
+			[ "ambicionase" ],
+			[ "ambicionases" ],
+			[ "ambicionase" ],
+			[ "ambicionásemos" ],
+			[ "ambicionaseis", "ambicionasen" ],
+			[ "ambicionasen" ]
+		],
+		"11" : [
+			[ "ambicionare" ],
+			[ "ambicionares" ],
+			[ "ambicionare" ],
+			[ "ambicionáremos" ],
+			[ "ambicionareis", "ambicionaren" ],
+			[ "ambicionaren" ]
+		],
+		"12" : {
+			"1" : [ "ambiciona" ],
+			"2" : [ "ambicione" ],
+			"3" : [ "ambicionemos" ],
+			"4" : [ "ambicionad" ],
+			"5" : [ "ambicionen" ]
+		}
+	}
+}

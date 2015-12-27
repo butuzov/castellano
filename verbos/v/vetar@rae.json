@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vetar",
+	"word" : "vetar",
+	"infinitivo" : "vetar",
+	"participio" : [ "vetado" ],
+	"gerundio" : [ "vetando" ],
+	"tenses" : {
+		"3" : [
+			[ "veto" ],
+			[ "vetas", "vetás" ],
+			[ "veta" ],
+			[ "vetamos" ],
+			[ "vetáis", "vetan" ],
+			[ "vetan" ]
+		],
+		"4" : [
+			[ "veté" ],
+			[ "vetaste" ],
+			[ "vetó" ],
+			[ "vetamos" ],
+			[ "vetasteis", "vetaron" ],
+			[ "vetaron" ]
+		],
+		"5" : [
+			[ "vetaba" ],
+			[ "vetabas" ],
+			[ "vetaba" ],
+			[ "vetábamos" ],
+			[ "vetabais", "vetaban" ],
+			[ "vetaban" ]
+		],
+		"6" : [
+			[ "vetaría" ],
+			[ "vetarías" ],
+			[ "vetaría" ],
+			[ "vetaríamos" ],
+			[ "vetaríais", "vetarían" ],
+			[ "vetarían" ]
+		],
+		"7" : [
+			[ "vetaré" ],
+			[ "vetarás" ],
+			[ "vetará" ],
+			[ "vetaremos" ],
+			[ "vetaréis", "vetarán" ],
+			[ "vetarán" ]
+		],
+		"8" : [
+			[ "vete" ],
+			[ "vetes" ],
+			[ "vete" ],
+			[ "vetemos" ],
+			[ "vetéis", "veten" ],
+			[ "veten" ]
+		],
+		"9" : [
+			[ "vetara" ],
+			[ "vetaras" ],
+			[ "vetara" ],
+			[ "vetáramos" ],
+			[ "vetarais", "vetaran" ],
+			[ "vetaran" ]
+		],
+		"10" : [
+			[ "vetase" ],
+			[ "vetases" ],
+			[ "vetase" ],
+			[ "vetásemos" ],
+			[ "vetaseis", "vetasen" ],
+			[ "vetasen" ]
+		],
+		"11" : [
+			[ "vetare" ],
+			[ "vetares" ],
+			[ "vetare" ],
+			[ "vetáremos" ],
+			[ "vetareis", "vetaren" ],
+			[ "vetaren" ]
+		],
+		"12" : {
+			"1" : [ "veta" ],
+			"2" : [ "vete" ],
+			"3" : [ "vetemos" ],
+			"4" : [ "vetad" ],
+			"5" : [ "veten" ]
+		}
+	}
+}

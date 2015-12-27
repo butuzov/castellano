@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comer",
+	"word" : "comer",
+	"infinitivo" : "comer",
+	"participio" : [ "comido" ],
+	"gerundio" : [ "comiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "como" ],
+			[ "comes", "comés" ],
+			[ "come" ],
+			[ "comemos" ],
+			[ "coméis", "comen" ],
+			[ "comen" ]
+		],
+		"4" : [
+			[ "comí" ],
+			[ "comiste" ],
+			[ "comió" ],
+			[ "comimos" ],
+			[ "comisteis", "comieron" ],
+			[ "comieron" ]
+		],
+		"5" : [
+			[ "comía" ],
+			[ "comías" ],
+			[ "comía" ],
+			[ "comíamos" ],
+			[ "comíais", "comían" ],
+			[ "comían" ]
+		],
+		"6" : [
+			[ "comería" ],
+			[ "comerías" ],
+			[ "comería" ],
+			[ "comeríamos" ],
+			[ "comeríais", "comerían" ],
+			[ "comerían" ]
+		],
+		"7" : [
+			[ "comeré" ],
+			[ "comerás" ],
+			[ "comerá" ],
+			[ "comeremos" ],
+			[ "comeréis", "comerán" ],
+			[ "comerán" ]
+		],
+		"8" : [
+			[ "coma" ],
+			[ "comas" ],
+			[ "coma" ],
+			[ "comamos" ],
+			[ "comáis", "coman" ],
+			[ "coman" ]
+		],
+		"9" : [
+			[ "comiera" ],
+			[ "comieras" ],
+			[ "comiera" ],
+			[ "comiéramos" ],
+			[ "comierais", "comieran" ],
+			[ "comieran" ]
+		],
+		"10" : [
+			[ "comiese" ],
+			[ "comieses" ],
+			[ "comiese" ],
+			[ "comiésemos" ],
+			[ "comieseis", "comiesen" ],
+			[ "comiesen" ]
+		],
+		"11" : [
+			[ "comiere" ],
+			[ "comieres" ],
+			[ "comiere" ],
+			[ "comiéremos" ],
+			[ "comiereis", "comieren" ],
+			[ "comieren" ]
+		],
+		"12" : {
+			"1" : [ "come" ],
+			"2" : [ "coma" ],
+			"3" : [ "comamos" ],
+			"4" : [ "comed" ],
+			"5" : [ "coman" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mojar",
+	"word" : "mojar",
+	"infinitivo" : "mojar",
+	"participio" : [ "mojado" ],
+	"gerundio" : [ "mojando" ],
+	"tenses" : {
+		"3" : [
+			[ "mojo" ],
+			[ "mojas", "mojás" ],
+			[ "moja" ],
+			[ "mojamos" ],
+			[ "mojáis", "mojan" ],
+			[ "mojan" ]
+		],
+		"4" : [
+			[ "mojé" ],
+			[ "mojaste" ],
+			[ "mojó" ],
+			[ "mojamos" ],
+			[ "mojasteis", "mojaron" ],
+			[ "mojaron" ]
+		],
+		"5" : [
+			[ "mojaba" ],
+			[ "mojabas" ],
+			[ "mojaba" ],
+			[ "mojábamos" ],
+			[ "mojabais", "mojaban" ],
+			[ "mojaban" ]
+		],
+		"6" : [
+			[ "mojaría" ],
+			[ "mojarías" ],
+			[ "mojaría" ],
+			[ "mojaríamos" ],
+			[ "mojaríais", "mojarían" ],
+			[ "mojarían" ]
+		],
+		"7" : [
+			[ "mojaré" ],
+			[ "mojarás" ],
+			[ "mojará" ],
+			[ "mojaremos" ],
+			[ "mojaréis", "mojarán" ],
+			[ "mojarán" ]
+		],
+		"8" : [
+			[ "moje" ],
+			[ "mojes" ],
+			[ "moje" ],
+			[ "mojemos" ],
+			[ "mojéis", "mojen" ],
+			[ "mojen" ]
+		],
+		"9" : [
+			[ "mojara" ],
+			[ "mojaras" ],
+			[ "mojara" ],
+			[ "mojáramos" ],
+			[ "mojarais", "mojaran" ],
+			[ "mojaran" ]
+		],
+		"10" : [
+			[ "mojase" ],
+			[ "mojases" ],
+			[ "mojase" ],
+			[ "mojásemos" ],
+			[ "mojaseis", "mojasen" ],
+			[ "mojasen" ]
+		],
+		"11" : [
+			[ "mojare" ],
+			[ "mojares" ],
+			[ "mojare" ],
+			[ "mojáremos" ],
+			[ "mojareis", "mojaren" ],
+			[ "mojaren" ]
+		],
+		"12" : {
+			"1" : [ "moja" ],
+			"2" : [ "moje" ],
+			"3" : [ "mojemos" ],
+			"4" : [ "mojad" ],
+			"5" : [ "mojen" ]
+		}
+	}
+}

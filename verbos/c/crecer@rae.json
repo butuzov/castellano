@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=crecer",
+	"word" : "crecer",
+	"infinitivo" : "crecer",
+	"participio" : [ "crecido" ],
+	"gerundio" : [ "creciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "crezco" ],
+			[ "creces", "crecés" ],
+			[ "crece" ],
+			[ "crecemos" ],
+			[ "crecéis", "crecen" ],
+			[ "crecen" ]
+		],
+		"4" : [
+			[ "crecí" ],
+			[ "creciste" ],
+			[ "creció" ],
+			[ "crecimos" ],
+			[ "crecisteis", "crecieron" ],
+			[ "crecieron" ]
+		],
+		"5" : [
+			[ "crecía" ],
+			[ "crecías" ],
+			[ "crecía" ],
+			[ "crecíamos" ],
+			[ "crecíais", "crecían" ],
+			[ "crecían" ]
+		],
+		"6" : [
+			[ "crecería" ],
+			[ "crecerías" ],
+			[ "crecería" ],
+			[ "creceríamos" ],
+			[ "creceríais", "crecerían" ],
+			[ "crecerían" ]
+		],
+		"7" : [
+			[ "creceré" ],
+			[ "crecerás" ],
+			[ "crecerá" ],
+			[ "creceremos" ],
+			[ "creceréis", "crecerán" ],
+			[ "crecerán" ]
+		],
+		"8" : [
+			[ "crezca" ],
+			[ "crezcas" ],
+			[ "crezca" ],
+			[ "crezcamos" ],
+			[ "crezcáis", "crezcan" ],
+			[ "crezcan" ]
+		],
+		"9" : [
+			[ "creciera" ],
+			[ "crecieras" ],
+			[ "creciera" ],
+			[ "creciéramos" ],
+			[ "crecierais", "crecieran" ],
+			[ "crecieran" ]
+		],
+		"10" : [
+			[ "creciese" ],
+			[ "crecieses" ],
+			[ "creciese" ],
+			[ "creciésemos" ],
+			[ "crecieseis", "creciesen" ],
+			[ "creciesen" ]
+		],
+		"11" : [
+			[ "creciere" ],
+			[ "crecieres" ],
+			[ "creciere" ],
+			[ "creciéremos" ],
+			[ "creciereis", "crecieren" ],
+			[ "crecieren" ]
+		],
+		"12" : {
+			"1" : [ "crece" ],
+			"2" : [ "crezca" ],
+			"3" : [ "crezcamos" ],
+			"4" : [ "creced" ],
+			"5" : [ "crezcan" ]
+		}
+	}
+}

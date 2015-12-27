@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ver",
+	"word" : "ver",
+	"infinitivo" : "ver",
+	"participio" : [ "visto" ],
+	"gerundio" : [ "viendo" ],
+	"tenses" : {
+		"3" : [
+			[ "veo" ],
+			[ "ves" ],
+			[ "ve" ],
+			[ "vemos" ],
+			[ "veis", "ven" ],
+			[ "ven" ]
+		],
+		"4" : [
+			[ "vi" ],
+			[ "viste" ],
+			[ "vio" ],
+			[ "vimos" ],
+			[ "visteis", "vieron" ],
+			[ "vieron" ]
+		],
+		"5" : [
+			[ "veía" ],
+			[ "veías" ],
+			[ "veía" ],
+			[ "veíamos" ],
+			[ "veíais", "veían" ],
+			[ "veían" ]
+		],
+		"6" : [
+			[ "vería" ],
+			[ "verías" ],
+			[ "vería" ],
+			[ "veríamos" ],
+			[ "veríais", "verían" ],
+			[ "verían" ]
+		],
+		"7" : [
+			[ "veré" ],
+			[ "verás" ],
+			[ "verá" ],
+			[ "veremos" ],
+			[ "veréis", "verán" ],
+			[ "verán" ]
+		],
+		"8" : [
+			[ "vea" ],
+			[ "veas" ],
+			[ "vea" ],
+			[ "veamos" ],
+			[ "veáis", "vean" ],
+			[ "vean" ]
+		],
+		"9" : [
+			[ "viera" ],
+			[ "vieras" ],
+			[ "viera" ],
+			[ "viéramos" ],
+			[ "vierais", "vieran" ],
+			[ "vieran" ]
+		],
+		"10" : [
+			[ "viese" ],
+			[ "vieses" ],
+			[ "viese" ],
+			[ "viésemos" ],
+			[ "vieseis", "viesen" ],
+			[ "viesen" ]
+		],
+		"11" : [
+			[ "viere" ],
+			[ "vieres" ],
+			[ "viere" ],
+			[ "viéremos" ],
+			[ "viereis", "vieren" ],
+			[ "vieren" ]
+		],
+		"12" : {
+			"1" : [ "ve" ],
+			"2" : [ "vea" ],
+			"3" : [ "veamos" ],
+			"4" : [ "ved" ],
+			"5" : [ "vean" ]
+		}
+	}
+}

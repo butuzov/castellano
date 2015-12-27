@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=engrandecer",
+	"word" : "engrandecer",
+	"infinitivo" : "engrandecer",
+	"participio" : [ "engrandecido" ],
+	"gerundio" : [ "engrandeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "engrandezco" ],
+			[ "engrandeces", "engrandecés" ],
+			[ "engrandece" ],
+			[ "engrandecemos" ],
+			[ "engrandecéis", "engrandecen" ],
+			[ "engrandecen" ]
+		],
+		"4" : [
+			[ "engrandecí" ],
+			[ "engrandeciste" ],
+			[ "engrandeció" ],
+			[ "engrandecimos" ],
+			[ "engrandecisteis", "engrandecieron" ],
+			[ "engrandecieron" ]
+		],
+		"5" : [
+			[ "engrandecía" ],
+			[ "engrandecías" ],
+			[ "engrandecía" ],
+			[ "engrandecíamos" ],
+			[ "engrandecíais", "engrandecían" ],
+			[ "engrandecían" ]
+		],
+		"6" : [
+			[ "engrandecería" ],
+			[ "engrandecerías" ],
+			[ "engrandecería" ],
+			[ "engrandeceríamos" ],
+			[ "engrandeceríais", "engrandecerían" ],
+			[ "engrandecerían" ]
+		],
+		"7" : [
+			[ "engrandeceré" ],
+			[ "engrandecerás" ],
+			[ "engrandecerá" ],
+			[ "engrandeceremos" ],
+			[ "engrandeceréis", "engrandecerán" ],
+			[ "engrandecerán" ]
+		],
+		"8" : [
+			[ "engrandezca" ],
+			[ "engrandezcas" ],
+			[ "engrandezca" ],
+			[ "engrandezcamos" ],
+			[ "engrandezcáis", "engrandezcan" ],
+			[ "engrandezcan" ]
+		],
+		"9" : [
+			[ "engrandeciera" ],
+			[ "engrandecieras" ],
+			[ "engrandeciera" ],
+			[ "engrandeciéramos" ],
+			[ "engrandecierais", "engrandecieran" ],
+			[ "engrandecieran" ]
+		],
+		"10" : [
+			[ "engrandeciese" ],
+			[ "engrandecieses" ],
+			[ "engrandeciese" ],
+			[ "engrandeciésemos" ],
+			[ "engrandecieseis", "engrandeciesen" ],
+			[ "engrandeciesen" ]
+		],
+		"11" : [
+			[ "engrandeciere" ],
+			[ "engrandecieres" ],
+			[ "engrandeciere" ],
+			[ "engrandeciéremos" ],
+			[ "engrandeciereis", "engrandecieren" ],
+			[ "engrandecieren" ]
+		],
+		"12" : {
+			"1" : [ "engrandece" ],
+			"2" : [ "engrandezca" ],
+			"3" : [ "engrandezcamos" ],
+			"4" : [ "engrandeced" ],
+			"5" : [ "engrandezcan" ]
+		}
+	}
+}

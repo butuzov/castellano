@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emitir",
+	"word" : "emitir",
+	"infinitivo" : "emitir",
+	"participio" : [ "emitido" ],
+	"gerundio" : [ "emitiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "emito" ],
+			[ "emites", "emitís" ],
+			[ "emite" ],
+			[ "emitimos" ],
+			[ "emitís", "emiten" ],
+			[ "emiten" ]
+		],
+		"4" : [
+			[ "emití" ],
+			[ "emitiste" ],
+			[ "emitió" ],
+			[ "emitimos" ],
+			[ "emitisteis", "emitieron" ],
+			[ "emitieron" ]
+		],
+		"5" : [
+			[ "emitía" ],
+			[ "emitías" ],
+			[ "emitía" ],
+			[ "emitíamos" ],
+			[ "emitíais", "emitían" ],
+			[ "emitían" ]
+		],
+		"6" : [
+			[ "emitiría" ],
+			[ "emitirías" ],
+			[ "emitiría" ],
+			[ "emitiríamos" ],
+			[ "emitiríais", "emitirían" ],
+			[ "emitirían" ]
+		],
+		"7" : [
+			[ "emitiré" ],
+			[ "emitirás" ],
+			[ "emitirá" ],
+			[ "emitiremos" ],
+			[ "emitiréis", "emitirán" ],
+			[ "emitirán" ]
+		],
+		"8" : [
+			[ "emita" ],
+			[ "emitas" ],
+			[ "emita" ],
+			[ "emitamos" ],
+			[ "emitáis", "emitan" ],
+			[ "emitan" ]
+		],
+		"9" : [
+			[ "emitiera" ],
+			[ "emitieras" ],
+			[ "emitiera" ],
+			[ "emitiéramos" ],
+			[ "emitierais", "emitieran" ],
+			[ "emitieran" ]
+		],
+		"10" : [
+			[ "emitiese" ],
+			[ "emitieses" ],
+			[ "emitiese" ],
+			[ "emitiésemos" ],
+			[ "emitieseis", "emitiesen" ],
+			[ "emitiesen" ]
+		],
+		"11" : [
+			[ "emitiere" ],
+			[ "emitieres" ],
+			[ "emitiere" ],
+			[ "emitiéremos" ],
+			[ "emitiereis", "emitieren" ],
+			[ "emitieren" ]
+		],
+		"12" : {
+			"1" : [ "emite" ],
+			"2" : [ "emita" ],
+			"3" : [ "emitamos" ],
+			"4" : [ "emitid" ],
+			"5" : [ "emitan" ]
+		}
+	}
+}

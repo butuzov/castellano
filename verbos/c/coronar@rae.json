@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=coronar",
+	"word" : "coronar",
+	"infinitivo" : "coronar",
+	"participio" : [ "coronado" ],
+	"gerundio" : [ "coronando" ],
+	"tenses" : {
+		"3" : [
+			[ "corono" ],
+			[ "coronas", "coronás" ],
+			[ "corona" ],
+			[ "coronamos" ],
+			[ "coronáis", "coronan" ],
+			[ "coronan" ]
+		],
+		"4" : [
+			[ "coroné" ],
+			[ "coronaste" ],
+			[ "coronó" ],
+			[ "coronamos" ],
+			[ "coronasteis", "coronaron" ],
+			[ "coronaron" ]
+		],
+		"5" : [
+			[ "coronaba" ],
+			[ "coronabas" ],
+			[ "coronaba" ],
+			[ "coronábamos" ],
+			[ "coronabais", "coronaban" ],
+			[ "coronaban" ]
+		],
+		"6" : [
+			[ "coronaría" ],
+			[ "coronarías" ],
+			[ "coronaría" ],
+			[ "coronaríamos" ],
+			[ "coronaríais", "coronarían" ],
+			[ "coronarían" ]
+		],
+		"7" : [
+			[ "coronaré" ],
+			[ "coronarás" ],
+			[ "coronará" ],
+			[ "coronaremos" ],
+			[ "coronaréis", "coronarán" ],
+			[ "coronarán" ]
+		],
+		"8" : [
+			[ "corone" ],
+			[ "corones" ],
+			[ "corone" ],
+			[ "coronemos" ],
+			[ "coronéis", "coronen" ],
+			[ "coronen" ]
+		],
+		"9" : [
+			[ "coronara" ],
+			[ "coronaras" ],
+			[ "coronara" ],
+			[ "coronáramos" ],
+			[ "coronarais", "coronaran" ],
+			[ "coronaran" ]
+		],
+		"10" : [
+			[ "coronase" ],
+			[ "coronases" ],
+			[ "coronase" ],
+			[ "coronásemos" ],
+			[ "coronaseis", "coronasen" ],
+			[ "coronasen" ]
+		],
+		"11" : [
+			[ "coronare" ],
+			[ "coronares" ],
+			[ "coronare" ],
+			[ "coronáremos" ],
+			[ "coronareis", "coronaren" ],
+			[ "coronaren" ]
+		],
+		"12" : {
+			"1" : [ "corona" ],
+			"2" : [ "corone" ],
+			"3" : [ "coronemos" ],
+			"4" : [ "coronad" ],
+			"5" : [ "coronen" ]
+		}
+	}
+}

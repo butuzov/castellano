@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ajar",
+	"word" : "ajar",
+	"infinitivo" : "ajar",
+	"participio" : [ "ajado" ],
+	"gerundio" : [ "ajando" ],
+	"tenses" : {
+		"3" : [
+			[ "ajo" ],
+			[ "ajas", "ajás" ],
+			[ "aja" ],
+			[ "ajamos" ],
+			[ "ajáis", "ajan" ],
+			[ "ajan" ]
+		],
+		"4" : [
+			[ "ajé" ],
+			[ "ajaste" ],
+			[ "ajó" ],
+			[ "ajamos" ],
+			[ "ajasteis", "ajaron" ],
+			[ "ajaron" ]
+		],
+		"5" : [
+			[ "ajaba" ],
+			[ "ajabas" ],
+			[ "ajaba" ],
+			[ "ajábamos" ],
+			[ "ajabais", "ajaban" ],
+			[ "ajaban" ]
+		],
+		"6" : [
+			[ "ajaría" ],
+			[ "ajarías" ],
+			[ "ajaría" ],
+			[ "ajaríamos" ],
+			[ "ajaríais", "ajarían" ],
+			[ "ajarían" ]
+		],
+		"7" : [
+			[ "ajaré" ],
+			[ "ajarás" ],
+			[ "ajará" ],
+			[ "ajaremos" ],
+			[ "ajaréis", "ajarán" ],
+			[ "ajarán" ]
+		],
+		"8" : [
+			[ "aje" ],
+			[ "ajes" ],
+			[ "aje" ],
+			[ "ajemos" ],
+			[ "ajéis", "ajen" ],
+			[ "ajen" ]
+		],
+		"9" : [
+			[ "ajara" ],
+			[ "ajaras" ],
+			[ "ajara" ],
+			[ "ajáramos" ],
+			[ "ajarais", "ajaran" ],
+			[ "ajaran" ]
+		],
+		"10" : [
+			[ "ajase" ],
+			[ "ajases" ],
+			[ "ajase" ],
+			[ "ajásemos" ],
+			[ "ajaseis", "ajasen" ],
+			[ "ajasen" ]
+		],
+		"11" : [
+			[ "ajare" ],
+			[ "ajares" ],
+			[ "ajare" ],
+			[ "ajáremos" ],
+			[ "ajareis", "ajaren" ],
+			[ "ajaren" ]
+		],
+		"12" : {
+			"1" : [ "aja" ],
+			"2" : [ "aje" ],
+			"3" : [ "ajemos" ],
+			"4" : [ "ajad" ],
+			"5" : [ "ajen" ]
+		}
+	}
+}

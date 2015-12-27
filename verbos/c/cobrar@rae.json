@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cobrar",
+	"word" : "cobrar",
+	"infinitivo" : "cobrar",
+	"participio" : [ "cobrado" ],
+	"gerundio" : [ "cobrando" ],
+	"tenses" : {
+		"3" : [
+			[ "cobro" ],
+			[ "cobras", "cobrás" ],
+			[ "cobra" ],
+			[ "cobramos" ],
+			[ "cobráis", "cobran" ],
+			[ "cobran" ]
+		],
+		"4" : [
+			[ "cobré" ],
+			[ "cobraste" ],
+			[ "cobró" ],
+			[ "cobramos" ],
+			[ "cobrasteis", "cobraron" ],
+			[ "cobraron" ]
+		],
+		"5" : [
+			[ "cobraba" ],
+			[ "cobrabas" ],
+			[ "cobraba" ],
+			[ "cobrábamos" ],
+			[ "cobrabais", "cobraban" ],
+			[ "cobraban" ]
+		],
+		"6" : [
+			[ "cobraría" ],
+			[ "cobrarías" ],
+			[ "cobraría" ],
+			[ "cobraríamos" ],
+			[ "cobraríais", "cobrarían" ],
+			[ "cobrarían" ]
+		],
+		"7" : [
+			[ "cobraré" ],
+			[ "cobrarás" ],
+			[ "cobrará" ],
+			[ "cobraremos" ],
+			[ "cobraréis", "cobrarán" ],
+			[ "cobrarán" ]
+		],
+		"8" : [
+			[ "cobre" ],
+			[ "cobres" ],
+			[ "cobre" ],
+			[ "cobremos" ],
+			[ "cobréis", "cobren" ],
+			[ "cobren" ]
+		],
+		"9" : [
+			[ "cobrara" ],
+			[ "cobraras" ],
+			[ "cobrara" ],
+			[ "cobráramos" ],
+			[ "cobrarais", "cobraran" ],
+			[ "cobraran" ]
+		],
+		"10" : [
+			[ "cobrase" ],
+			[ "cobrases" ],
+			[ "cobrase" ],
+			[ "cobrásemos" ],
+			[ "cobraseis", "cobrasen" ],
+			[ "cobrasen" ]
+		],
+		"11" : [
+			[ "cobrare" ],
+			[ "cobrares" ],
+			[ "cobrare" ],
+			[ "cobráremos" ],
+			[ "cobrareis", "cobraren" ],
+			[ "cobraren" ]
+		],
+		"12" : {
+			"1" : [ "cobra" ],
+			"2" : [ "cobre" ],
+			"3" : [ "cobremos" ],
+			"4" : [ "cobrad" ],
+			"5" : [ "cobren" ]
+		}
+	}
+}

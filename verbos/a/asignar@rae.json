@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asignar",
+	"word" : "asignar",
+	"infinitivo" : "asignar",
+	"participio" : [ "asignado" ],
+	"gerundio" : [ "asignando" ],
+	"tenses" : {
+		"3" : [
+			[ "asigno" ],
+			[ "asignas", "asignás" ],
+			[ "asigna" ],
+			[ "asignamos" ],
+			[ "asignáis", "asignan" ],
+			[ "asignan" ]
+		],
+		"4" : [
+			[ "asigné" ],
+			[ "asignaste" ],
+			[ "asignó" ],
+			[ "asignamos" ],
+			[ "asignasteis", "asignaron" ],
+			[ "asignaron" ]
+		],
+		"5" : [
+			[ "asignaba" ],
+			[ "asignabas" ],
+			[ "asignaba" ],
+			[ "asignábamos" ],
+			[ "asignabais", "asignaban" ],
+			[ "asignaban" ]
+		],
+		"6" : [
+			[ "asignaría" ],
+			[ "asignarías" ],
+			[ "asignaría" ],
+			[ "asignaríamos" ],
+			[ "asignaríais", "asignarían" ],
+			[ "asignarían" ]
+		],
+		"7" : [
+			[ "asignaré" ],
+			[ "asignarás" ],
+			[ "asignará" ],
+			[ "asignaremos" ],
+			[ "asignaréis", "asignarán" ],
+			[ "asignarán" ]
+		],
+		"8" : [
+			[ "asigne" ],
+			[ "asignes" ],
+			[ "asigne" ],
+			[ "asignemos" ],
+			[ "asignéis", "asignen" ],
+			[ "asignen" ]
+		],
+		"9" : [
+			[ "asignara" ],
+			[ "asignaras" ],
+			[ "asignara" ],
+			[ "asignáramos" ],
+			[ "asignarais", "asignaran" ],
+			[ "asignaran" ]
+		],
+		"10" : [
+			[ "asignase" ],
+			[ "asignases" ],
+			[ "asignase" ],
+			[ "asignásemos" ],
+			[ "asignaseis", "asignasen" ],
+			[ "asignasen" ]
+		],
+		"11" : [
+			[ "asignare" ],
+			[ "asignares" ],
+			[ "asignare" ],
+			[ "asignáremos" ],
+			[ "asignareis", "asignaren" ],
+			[ "asignaren" ]
+		],
+		"12" : {
+			"1" : [ "asigna" ],
+			"2" : [ "asigne" ],
+			"3" : [ "asignemos" ],
+			"4" : [ "asignad" ],
+			"5" : [ "asignen" ]
+		}
+	}
+}

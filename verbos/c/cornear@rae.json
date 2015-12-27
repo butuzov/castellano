@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cornear",
+	"word" : "cornear",
+	"infinitivo" : "cornear",
+	"participio" : [ "corneado" ],
+	"gerundio" : [ "corneando" ],
+	"tenses" : {
+		"3" : [
+			[ "corneo" ],
+			[ "corneas", "corneás" ],
+			[ "cornea" ],
+			[ "corneamos" ],
+			[ "corneáis", "cornean" ],
+			[ "cornean" ]
+		],
+		"4" : [
+			[ "corneé" ],
+			[ "corneaste" ],
+			[ "corneó" ],
+			[ "corneamos" ],
+			[ "corneasteis", "cornearon" ],
+			[ "cornearon" ]
+		],
+		"5" : [
+			[ "corneaba" ],
+			[ "corneabas" ],
+			[ "corneaba" ],
+			[ "corneábamos" ],
+			[ "corneabais", "corneaban" ],
+			[ "corneaban" ]
+		],
+		"6" : [
+			[ "cornearía" ],
+			[ "cornearías" ],
+			[ "cornearía" ],
+			[ "cornearíamos" ],
+			[ "cornearíais", "cornearían" ],
+			[ "cornearían" ]
+		],
+		"7" : [
+			[ "cornearé" ],
+			[ "cornearás" ],
+			[ "corneará" ],
+			[ "cornearemos" ],
+			[ "cornearéis", "cornearán" ],
+			[ "cornearán" ]
+		],
+		"8" : [
+			[ "cornee" ],
+			[ "cornees" ],
+			[ "cornee" ],
+			[ "corneemos" ],
+			[ "corneéis", "corneen" ],
+			[ "corneen" ]
+		],
+		"9" : [
+			[ "corneara" ],
+			[ "cornearas" ],
+			[ "corneara" ],
+			[ "corneáramos" ],
+			[ "cornearais", "cornearan" ],
+			[ "cornearan" ]
+		],
+		"10" : [
+			[ "cornease" ],
+			[ "corneases" ],
+			[ "cornease" ],
+			[ "corneásemos" ],
+			[ "corneaseis", "corneasen" ],
+			[ "corneasen" ]
+		],
+		"11" : [
+			[ "corneare" ],
+			[ "corneares" ],
+			[ "corneare" ],
+			[ "corneáremos" ],
+			[ "corneareis", "cornearen" ],
+			[ "cornearen" ]
+		],
+		"12" : {
+			"1" : [ "cornea" ],
+			"2" : [ "cornee" ],
+			"3" : [ "corneemos" ],
+			"4" : [ "cornead" ],
+			"5" : [ "corneen" ]
+		}
+	}
+}

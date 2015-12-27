@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inaugurar",
+	"word" : "inaugurar",
+	"infinitivo" : "inaugurar",
+	"participio" : [ "inaugurado" ],
+	"gerundio" : [ "inaugurando" ],
+	"tenses" : {
+		"3" : [
+			[ "inauguro" ],
+			[ "inauguras", "inaugurás" ],
+			[ "inaugura" ],
+			[ "inauguramos" ],
+			[ "inauguráis", "inauguran" ],
+			[ "inauguran" ]
+		],
+		"4" : [
+			[ "inauguré" ],
+			[ "inauguraste" ],
+			[ "inauguró" ],
+			[ "inauguramos" ],
+			[ "inaugurasteis", "inauguraron" ],
+			[ "inauguraron" ]
+		],
+		"5" : [
+			[ "inauguraba" ],
+			[ "inaugurabas" ],
+			[ "inauguraba" ],
+			[ "inaugurábamos" ],
+			[ "inaugurabais", "inauguraban" ],
+			[ "inauguraban" ]
+		],
+		"6" : [
+			[ "inauguraría" ],
+			[ "inaugurarías" ],
+			[ "inauguraría" ],
+			[ "inauguraríamos" ],
+			[ "inauguraríais", "inaugurarían" ],
+			[ "inaugurarían" ]
+		],
+		"7" : [
+			[ "inauguraré" ],
+			[ "inaugurarás" ],
+			[ "inaugurará" ],
+			[ "inauguraremos" ],
+			[ "inauguraréis", "inaugurarán" ],
+			[ "inaugurarán" ]
+		],
+		"8" : [
+			[ "inaugure" ],
+			[ "inaugures" ],
+			[ "inaugure" ],
+			[ "inauguremos" ],
+			[ "inauguréis", "inauguren" ],
+			[ "inauguren" ]
+		],
+		"9" : [
+			[ "inaugurara" ],
+			[ "inauguraras" ],
+			[ "inaugurara" ],
+			[ "inauguráramos" ],
+			[ "inaugurarais", "inauguraran" ],
+			[ "inauguraran" ]
+		],
+		"10" : [
+			[ "inaugurase" ],
+			[ "inaugurases" ],
+			[ "inaugurase" ],
+			[ "inaugurásemos" ],
+			[ "inauguraseis", "inaugurasen" ],
+			[ "inaugurasen" ]
+		],
+		"11" : [
+			[ "inaugurare" ],
+			[ "inaugurares" ],
+			[ "inaugurare" ],
+			[ "inauguráremos" ],
+			[ "inaugurareis", "inauguraren" ],
+			[ "inauguraren" ]
+		],
+		"12" : {
+			"1" : [ "inaugura" ],
+			"2" : [ "inaugure" ],
+			"3" : [ "inauguremos" ],
+			"4" : [ "inaugurad" ],
+			"5" : [ "inauguren" ]
+		}
+	}
+}

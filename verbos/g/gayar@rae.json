@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gayar",
+	"word" : "gayar",
+	"infinitivo" : "gayar",
+	"participio" : [ "gayado" ],
+	"gerundio" : [ "gayando" ],
+	"tenses" : {
+		"3" : [
+			[ "gayo" ],
+			[ "gayas", "gayás" ],
+			[ "gaya" ],
+			[ "gayamos" ],
+			[ "gayáis", "gayan" ],
+			[ "gayan" ]
+		],
+		"4" : [
+			[ "gayé" ],
+			[ "gayaste" ],
+			[ "gayó" ],
+			[ "gayamos" ],
+			[ "gayasteis", "gayaron" ],
+			[ "gayaron" ]
+		],
+		"5" : [
+			[ "gayaba" ],
+			[ "gayabas" ],
+			[ "gayaba" ],
+			[ "gayábamos" ],
+			[ "gayabais", "gayaban" ],
+			[ "gayaban" ]
+		],
+		"6" : [
+			[ "gayaría" ],
+			[ "gayarías" ],
+			[ "gayaría" ],
+			[ "gayaríamos" ],
+			[ "gayaríais", "gayarían" ],
+			[ "gayarían" ]
+		],
+		"7" : [
+			[ "gayaré" ],
+			[ "gayarás" ],
+			[ "gayará" ],
+			[ "gayaremos" ],
+			[ "gayaréis", "gayarán" ],
+			[ "gayarán" ]
+		],
+		"8" : [
+			[ "gaye" ],
+			[ "gayes" ],
+			[ "gaye" ],
+			[ "gayemos" ],
+			[ "gayéis", "gayen" ],
+			[ "gayen" ]
+		],
+		"9" : [
+			[ "gayara" ],
+			[ "gayaras" ],
+			[ "gayara" ],
+			[ "gayáramos" ],
+			[ "gayarais", "gayaran" ],
+			[ "gayaran" ]
+		],
+		"10" : [
+			[ "gayase" ],
+			[ "gayases" ],
+			[ "gayase" ],
+			[ "gayásemos" ],
+			[ "gayaseis", "gayasen" ],
+			[ "gayasen" ]
+		],
+		"11" : [
+			[ "gayare" ],
+			[ "gayares" ],
+			[ "gayare" ],
+			[ "gayáremos" ],
+			[ "gayareis", "gayaren" ],
+			[ "gayaren" ]
+		],
+		"12" : {
+			"1" : [ "gaya" ],
+			"2" : [ "gaye" ],
+			"3" : [ "gayemos" ],
+			"4" : [ "gayad" ],
+			"5" : [ "gayen" ]
+		}
+	}
+}

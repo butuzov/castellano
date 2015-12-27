@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=notar",
+	"word" : "notar",
+	"infinitivo" : "notar",
+	"participio" : [ "notado" ],
+	"gerundio" : [ "notando" ],
+	"tenses" : {
+		"3" : [
+			[ "noto" ],
+			[ "notas", "notás" ],
+			[ "nota" ],
+			[ "notamos" ],
+			[ "notáis", "notan" ],
+			[ "notan" ]
+		],
+		"4" : [
+			[ "noté" ],
+			[ "notaste" ],
+			[ "notó" ],
+			[ "notamos" ],
+			[ "notasteis", "notaron" ],
+			[ "notaron" ]
+		],
+		"5" : [
+			[ "notaba" ],
+			[ "notabas" ],
+			[ "notaba" ],
+			[ "notábamos" ],
+			[ "notabais", "notaban" ],
+			[ "notaban" ]
+		],
+		"6" : [
+			[ "notaría" ],
+			[ "notarías" ],
+			[ "notaría" ],
+			[ "notaríamos" ],
+			[ "notaríais", "notarían" ],
+			[ "notarían" ]
+		],
+		"7" : [
+			[ "notaré" ],
+			[ "notarás" ],
+			[ "notará" ],
+			[ "notaremos" ],
+			[ "notaréis", "notarán" ],
+			[ "notarán" ]
+		],
+		"8" : [
+			[ "note" ],
+			[ "notes" ],
+			[ "note" ],
+			[ "notemos" ],
+			[ "notéis", "noten" ],
+			[ "noten" ]
+		],
+		"9" : [
+			[ "notara" ],
+			[ "notaras" ],
+			[ "notara" ],
+			[ "notáramos" ],
+			[ "notarais", "notaran" ],
+			[ "notaran" ]
+		],
+		"10" : [
+			[ "notase" ],
+			[ "notases" ],
+			[ "notase" ],
+			[ "notásemos" ],
+			[ "notaseis", "notasen" ],
+			[ "notasen" ]
+		],
+		"11" : [
+			[ "notare" ],
+			[ "notares" ],
+			[ "notare" ],
+			[ "notáremos" ],
+			[ "notareis", "notaren" ],
+			[ "notaren" ]
+		],
+		"12" : {
+			"1" : [ "nota" ],
+			"2" : [ "note" ],
+			"3" : [ "notemos" ],
+			"4" : [ "notad" ],
+			"5" : [ "noten" ]
+		}
+	}
+}

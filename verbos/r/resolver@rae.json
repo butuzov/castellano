@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resolver",
+	"word" : "resolver",
+	"infinitivo" : "resolver",
+	"participio" : [ "resuelto" ],
+	"gerundio" : [ "resolviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "resuelvo" ],
+			[ "resuelves", "resolvés" ],
+			[ "resuelve" ],
+			[ "resolvemos" ],
+			[ "resolvéis", "resuelven" ],
+			[ "resuelven" ]
+		],
+		"4" : [
+			[ "resolví" ],
+			[ "resolviste" ],
+			[ "resolvió" ],
+			[ "resolvimos" ],
+			[ "resolvisteis", "resolvieron" ],
+			[ "resolvieron" ]
+		],
+		"5" : [
+			[ "resolvía" ],
+			[ "resolvías" ],
+			[ "resolvía" ],
+			[ "resolvíamos" ],
+			[ "resolvíais", "resolvían" ],
+			[ "resolvían" ]
+		],
+		"6" : [
+			[ "resolvería" ],
+			[ "resolverías" ],
+			[ "resolvería" ],
+			[ "resolveríamos" ],
+			[ "resolveríais", "resolverían" ],
+			[ "resolverían" ]
+		],
+		"7" : [
+			[ "resolveré" ],
+			[ "resolverás" ],
+			[ "resolverá" ],
+			[ "resolveremos" ],
+			[ "resolveréis", "resolverán" ],
+			[ "resolverán" ]
+		],
+		"8" : [
+			[ "resuelva" ],
+			[ "resuelvas" ],
+			[ "resuelva" ],
+			[ "resolvamos" ],
+			[ "resolváis", "resuelvan" ],
+			[ "resuelvan" ]
+		],
+		"9" : [
+			[ "resolviera" ],
+			[ "resolvieras" ],
+			[ "resolviera" ],
+			[ "resolviéramos" ],
+			[ "resolvierais", "resolvieran" ],
+			[ "resolvieran" ]
+		],
+		"10" : [
+			[ "resolviese" ],
+			[ "resolvieses" ],
+			[ "resolviese" ],
+			[ "resolviésemos" ],
+			[ "resolvieseis", "resolviesen" ],
+			[ "resolviesen" ]
+		],
+		"11" : [
+			[ "resolviere" ],
+			[ "resolvieres" ],
+			[ "resolviere" ],
+			[ "resolviéremos" ],
+			[ "resolviereis", "resolvieren" ],
+			[ "resolvieren" ]
+		],
+		"12" : {
+			"1" : [ "resuelve" ],
+			"2" : [ "resuelva" ],
+			"3" : [ "resolvamos" ],
+			"4" : [ "resolved" ],
+			"5" : [ "resuelvan" ]
+		}
+	}
+}

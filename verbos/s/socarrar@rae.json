@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=socarrar",
+	"word" : "socarrar",
+	"infinitivo" : "socarrar",
+	"participio" : [ "socarrado" ],
+	"gerundio" : [ "socarrando" ],
+	"tenses" : {
+		"3" : [
+			[ "socarro" ],
+			[ "socarras", "socarrás" ],
+			[ "socarra" ],
+			[ "socarramos" ],
+			[ "socarráis", "socarran" ],
+			[ "socarran" ]
+		],
+		"4" : [
+			[ "socarré" ],
+			[ "socarraste" ],
+			[ "socarró" ],
+			[ "socarramos" ],
+			[ "socarrasteis", "socarraron" ],
+			[ "socarraron" ]
+		],
+		"5" : [
+			[ "socarraba" ],
+			[ "socarrabas" ],
+			[ "socarraba" ],
+			[ "socarrábamos" ],
+			[ "socarrabais", "socarraban" ],
+			[ "socarraban" ]
+		],
+		"6" : [
+			[ "socarraría" ],
+			[ "socarrarías" ],
+			[ "socarraría" ],
+			[ "socarraríamos" ],
+			[ "socarraríais", "socarrarían" ],
+			[ "socarrarían" ]
+		],
+		"7" : [
+			[ "socarraré" ],
+			[ "socarrarás" ],
+			[ "socarrará" ],
+			[ "socarraremos" ],
+			[ "socarraréis", "socarrarán" ],
+			[ "socarrarán" ]
+		],
+		"8" : [
+			[ "socarre" ],
+			[ "socarres" ],
+			[ "socarre" ],
+			[ "socarremos" ],
+			[ "socarréis", "socarren" ],
+			[ "socarren" ]
+		],
+		"9" : [
+			[ "socarrara" ],
+			[ "socarraras" ],
+			[ "socarrara" ],
+			[ "socarráramos" ],
+			[ "socarrarais", "socarraran" ],
+			[ "socarraran" ]
+		],
+		"10" : [
+			[ "socarrase" ],
+			[ "socarrases" ],
+			[ "socarrase" ],
+			[ "socarrásemos" ],
+			[ "socarraseis", "socarrasen" ],
+			[ "socarrasen" ]
+		],
+		"11" : [
+			[ "socarrare" ],
+			[ "socarrares" ],
+			[ "socarrare" ],
+			[ "socarráremos" ],
+			[ "socarrareis", "socarraren" ],
+			[ "socarraren" ]
+		],
+		"12" : {
+			"1" : [ "socarra" ],
+			"2" : [ "socarre" ],
+			"3" : [ "socarremos" ],
+			"4" : [ "socarrad" ],
+			"5" : [ "socarren" ]
+		}
+	}
+}

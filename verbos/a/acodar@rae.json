@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acodar",
+	"word" : "acodar",
+	"infinitivo" : "acodar",
+	"participio" : [ "acodado" ],
+	"gerundio" : [ "acodando" ],
+	"tenses" : {
+		"3" : [
+			[ "acodo" ],
+			[ "acodas", "acodás" ],
+			[ "acoda" ],
+			[ "acodamos" ],
+			[ "acodáis", "acodan" ],
+			[ "acodan" ]
+		],
+		"4" : [
+			[ "acodé" ],
+			[ "acodaste" ],
+			[ "acodó" ],
+			[ "acodamos" ],
+			[ "acodasteis", "acodaron" ],
+			[ "acodaron" ]
+		],
+		"5" : [
+			[ "acodaba" ],
+			[ "acodabas" ],
+			[ "acodaba" ],
+			[ "acodábamos" ],
+			[ "acodabais", "acodaban" ],
+			[ "acodaban" ]
+		],
+		"6" : [
+			[ "acodaría" ],
+			[ "acodarías" ],
+			[ "acodaría" ],
+			[ "acodaríamos" ],
+			[ "acodaríais", "acodarían" ],
+			[ "acodarían" ]
+		],
+		"7" : [
+			[ "acodaré" ],
+			[ "acodarás" ],
+			[ "acodará" ],
+			[ "acodaremos" ],
+			[ "acodaréis", "acodarán" ],
+			[ "acodarán" ]
+		],
+		"8" : [
+			[ "acode" ],
+			[ "acodes" ],
+			[ "acode" ],
+			[ "acodemos" ],
+			[ "acodéis", "acoden" ],
+			[ "acoden" ]
+		],
+		"9" : [
+			[ "acodara" ],
+			[ "acodaras" ],
+			[ "acodara" ],
+			[ "acodáramos" ],
+			[ "acodarais", "acodaran" ],
+			[ "acodaran" ]
+		],
+		"10" : [
+			[ "acodase" ],
+			[ "acodases" ],
+			[ "acodase" ],
+			[ "acodásemos" ],
+			[ "acodaseis", "acodasen" ],
+			[ "acodasen" ]
+		],
+		"11" : [
+			[ "acodare" ],
+			[ "acodares" ],
+			[ "acodare" ],
+			[ "acodáremos" ],
+			[ "acodareis", "acodaren" ],
+			[ "acodaren" ]
+		],
+		"12" : {
+			"1" : [ "acoda" ],
+			"2" : [ "acode" ],
+			"3" : [ "acodemos" ],
+			"4" : [ "acodad" ],
+			"5" : [ "acoden" ]
+		}
+	}
+}

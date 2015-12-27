@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=subseguir",
+	"word" : "subseguir",
+	"infinitivo" : "subseguir",
+	"participio" : [ "subseguido" ],
+	"gerundio" : [ "subsiguiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "subsigo" ],
+			[ "subsigues", "subseguís" ],
+			[ "subsigue" ],
+			[ "subseguimos" ],
+			[ "subseguís", "subsiguen" ],
+			[ "subsiguen" ]
+		],
+		"4" : [
+			[ "subseguí" ],
+			[ "subseguiste" ],
+			[ "subsiguió" ],
+			[ "subseguimos" ],
+			[ "subseguisteis", "subsiguieron" ],
+			[ "subsiguieron" ]
+		],
+		"5" : [
+			[ "subseguía" ],
+			[ "subseguías" ],
+			[ "subseguía" ],
+			[ "subseguíamos" ],
+			[ "subseguíais", "subseguían" ],
+			[ "subseguían" ]
+		],
+		"6" : [
+			[ "subseguiría" ],
+			[ "subseguirías" ],
+			[ "subseguiría" ],
+			[ "subseguiríamos" ],
+			[ "subseguiríais", "subseguirían" ],
+			[ "subseguirían" ]
+		],
+		"7" : [
+			[ "subseguiré" ],
+			[ "subseguirás" ],
+			[ "subseguirá" ],
+			[ "subseguiremos" ],
+			[ "subseguiréis", "subseguirán" ],
+			[ "subseguirán" ]
+		],
+		"8" : [
+			[ "subsiga" ],
+			[ "subsigas" ],
+			[ "subsiga" ],
+			[ "subsigamos" ],
+			[ "subsigáis", "subsigan" ],
+			[ "subsigan" ]
+		],
+		"9" : [
+			[ "subsiguiera" ],
+			[ "subsiguieras" ],
+			[ "subsiguiera" ],
+			[ "subsiguiéramos" ],
+			[ "subsiguierais", "subsiguieran" ],
+			[ "subsiguieran" ]
+		],
+		"10" : [
+			[ "subsiguiese" ],
+			[ "subsiguieses" ],
+			[ "subsiguiese" ],
+			[ "subsiguiésemos" ],
+			[ "subsiguieseis", "subsiguiesen" ],
+			[ "subsiguiesen" ]
+		],
+		"11" : [
+			[ "subsiguiere" ],
+			[ "subsiguieres" ],
+			[ "subsiguiere" ],
+			[ "subsiguiéremos" ],
+			[ "subsiguiereis", "subsiguieren" ],
+			[ "subsiguieren" ]
+		],
+		"12" : {
+			"1" : [ "subsigue" ],
+			"2" : [ "subsiga" ],
+			"3" : [ "subsigamos" ],
+			"4" : [ "subseguid" ],
+			"5" : [ "subsigan" ]
+		}
+	}
+}

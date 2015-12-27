@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alborear",
+	"word" : "alborear",
+	"infinitivo" : "alborear",
+	"participio" : [ "alboreado" ],
+	"gerundio" : [ "alboreando" ],
+	"tenses" : {
+		"3" : [
+			[ "alboreo" ],
+			[ "alboreas", "alboreás" ],
+			[ "alborea" ],
+			[ "alboreamos" ],
+			[ "alboreáis", "alborean" ],
+			[ "alborean" ]
+		],
+		"4" : [
+			[ "alboreé" ],
+			[ "alboreaste" ],
+			[ "alboreó" ],
+			[ "alboreamos" ],
+			[ "alboreasteis", "alborearon" ],
+			[ "alborearon" ]
+		],
+		"5" : [
+			[ "alboreaba" ],
+			[ "alboreabas" ],
+			[ "alboreaba" ],
+			[ "alboreábamos" ],
+			[ "alboreabais", "alboreaban" ],
+			[ "alboreaban" ]
+		],
+		"6" : [
+			[ "alborearía" ],
+			[ "alborearías" ],
+			[ "alborearía" ],
+			[ "alborearíamos" ],
+			[ "alborearíais", "alborearían" ],
+			[ "alborearían" ]
+		],
+		"7" : [
+			[ "alborearé" ],
+			[ "alborearás" ],
+			[ "alboreará" ],
+			[ "alborearemos" ],
+			[ "alborearéis", "alborearán" ],
+			[ "alborearán" ]
+		],
+		"8" : [
+			[ "alboree" ],
+			[ "alborees" ],
+			[ "alboree" ],
+			[ "alboreemos" ],
+			[ "alboreéis", "alboreen" ],
+			[ "alboreen" ]
+		],
+		"9" : [
+			[ "alboreara" ],
+			[ "alborearas" ],
+			[ "alboreara" ],
+			[ "alboreáramos" ],
+			[ "alborearais", "alborearan" ],
+			[ "alborearan" ]
+		],
+		"10" : [
+			[ "alborease" ],
+			[ "alboreases" ],
+			[ "alborease" ],
+			[ "alboreásemos" ],
+			[ "alboreaseis", "alboreasen" ],
+			[ "alboreasen" ]
+		],
+		"11" : [
+			[ "alboreare" ],
+			[ "alboreares" ],
+			[ "alboreare" ],
+			[ "alboreáremos" ],
+			[ "alboreareis", "alborearen" ],
+			[ "alborearen" ]
+		],
+		"12" : {
+			"1" : [ "alborea" ],
+			"2" : [ "alboree" ],
+			"3" : [ "alboreemos" ],
+			"4" : [ "alboread" ],
+			"5" : [ "alboreen" ]
+		}
+	}
+}

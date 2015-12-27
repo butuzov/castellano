@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=afear",
+	"word" : "afear",
+	"infinitivo" : "afear",
+	"participio" : [ "afeado" ],
+	"gerundio" : [ "afeando" ],
+	"tenses" : {
+		"3" : [
+			[ "afeo" ],
+			[ "afeas", "afeás" ],
+			[ "afea" ],
+			[ "afeamos" ],
+			[ "afeáis", "afean" ],
+			[ "afean" ]
+		],
+		"4" : [
+			[ "afeé" ],
+			[ "afeaste" ],
+			[ "afeó" ],
+			[ "afeamos" ],
+			[ "afeasteis", "afearon" ],
+			[ "afearon" ]
+		],
+		"5" : [
+			[ "afeaba" ],
+			[ "afeabas" ],
+			[ "afeaba" ],
+			[ "afeábamos" ],
+			[ "afeabais", "afeaban" ],
+			[ "afeaban" ]
+		],
+		"6" : [
+			[ "afearía" ],
+			[ "afearías" ],
+			[ "afearía" ],
+			[ "afearíamos" ],
+			[ "afearíais", "afearían" ],
+			[ "afearían" ]
+		],
+		"7" : [
+			[ "afearé" ],
+			[ "afearás" ],
+			[ "afeará" ],
+			[ "afearemos" ],
+			[ "afearéis", "afearán" ],
+			[ "afearán" ]
+		],
+		"8" : [
+			[ "afee" ],
+			[ "afees" ],
+			[ "afee" ],
+			[ "afeemos" ],
+			[ "afeéis", "afeen" ],
+			[ "afeen" ]
+		],
+		"9" : [
+			[ "afeara" ],
+			[ "afearas" ],
+			[ "afeara" ],
+			[ "afeáramos" ],
+			[ "afearais", "afearan" ],
+			[ "afearan" ]
+		],
+		"10" : [
+			[ "afease" ],
+			[ "afeases" ],
+			[ "afease" ],
+			[ "afeásemos" ],
+			[ "afeaseis", "afeasen" ],
+			[ "afeasen" ]
+		],
+		"11" : [
+			[ "afeare" ],
+			[ "afeares" ],
+			[ "afeare" ],
+			[ "afeáremos" ],
+			[ "afeareis", "afearen" ],
+			[ "afearen" ]
+		],
+		"12" : {
+			"1" : [ "afea" ],
+			"2" : [ "afee" ],
+			"3" : [ "afeemos" ],
+			"4" : [ "afead" ],
+			"5" : [ "afeen" ]
+		}
+	}
+}

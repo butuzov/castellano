@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=justar",
+	"word" : "justar",
+	"infinitivo" : "justar",
+	"participio" : [ "justado" ],
+	"gerundio" : [ "justando" ],
+	"tenses" : {
+		"3" : [
+			[ "justo" ],
+			[ "justas", "justás" ],
+			[ "justa" ],
+			[ "justamos" ],
+			[ "justáis", "justan" ],
+			[ "justan" ]
+		],
+		"4" : [
+			[ "justé" ],
+			[ "justaste" ],
+			[ "justó" ],
+			[ "justamos" ],
+			[ "justasteis", "justaron" ],
+			[ "justaron" ]
+		],
+		"5" : [
+			[ "justaba" ],
+			[ "justabas" ],
+			[ "justaba" ],
+			[ "justábamos" ],
+			[ "justabais", "justaban" ],
+			[ "justaban" ]
+		],
+		"6" : [
+			[ "justaría" ],
+			[ "justarías" ],
+			[ "justaría" ],
+			[ "justaríamos" ],
+			[ "justaríais", "justarían" ],
+			[ "justarían" ]
+		],
+		"7" : [
+			[ "justaré" ],
+			[ "justarás" ],
+			[ "justará" ],
+			[ "justaremos" ],
+			[ "justaréis", "justarán" ],
+			[ "justarán" ]
+		],
+		"8" : [
+			[ "juste" ],
+			[ "justes" ],
+			[ "juste" ],
+			[ "justemos" ],
+			[ "justéis", "justen" ],
+			[ "justen" ]
+		],
+		"9" : [
+			[ "justara" ],
+			[ "justaras" ],
+			[ "justara" ],
+			[ "justáramos" ],
+			[ "justarais", "justaran" ],
+			[ "justaran" ]
+		],
+		"10" : [
+			[ "justase" ],
+			[ "justases" ],
+			[ "justase" ],
+			[ "justásemos" ],
+			[ "justaseis", "justasen" ],
+			[ "justasen" ]
+		],
+		"11" : [
+			[ "justare" ],
+			[ "justares" ],
+			[ "justare" ],
+			[ "justáremos" ],
+			[ "justareis", "justaren" ],
+			[ "justaren" ]
+		],
+		"12" : {
+			"1" : [ "justa" ],
+			"2" : [ "juste" ],
+			"3" : [ "justemos" ],
+			"4" : [ "justad" ],
+			"5" : [ "justen" ]
+		}
+	}
+}

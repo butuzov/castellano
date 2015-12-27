@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apocar",
+	"word" : "apocar",
+	"infinitivo" : "apocar",
+	"participio" : [ "apocado" ],
+	"gerundio" : [ "apocando" ],
+	"tenses" : {
+		"3" : [
+			[ "apoco" ],
+			[ "apocas", "apocás" ],
+			[ "apoca" ],
+			[ "apocamos" ],
+			[ "apocáis", "apocan" ],
+			[ "apocan" ]
+		],
+		"4" : [
+			[ "apoqué" ],
+			[ "apocaste" ],
+			[ "apocó" ],
+			[ "apocamos" ],
+			[ "apocasteis", "apocaron" ],
+			[ "apocaron" ]
+		],
+		"5" : [
+			[ "apocaba" ],
+			[ "apocabas" ],
+			[ "apocaba" ],
+			[ "apocábamos" ],
+			[ "apocabais", "apocaban" ],
+			[ "apocaban" ]
+		],
+		"6" : [
+			[ "apocaría" ],
+			[ "apocarías" ],
+			[ "apocaría" ],
+			[ "apocaríamos" ],
+			[ "apocaríais", "apocarían" ],
+			[ "apocarían" ]
+		],
+		"7" : [
+			[ "apocaré" ],
+			[ "apocarás" ],
+			[ "apocará" ],
+			[ "apocaremos" ],
+			[ "apocaréis", "apocarán" ],
+			[ "apocarán" ]
+		],
+		"8" : [
+			[ "apoque" ],
+			[ "apoques" ],
+			[ "apoque" ],
+			[ "apoquemos" ],
+			[ "apoquéis", "apoquen" ],
+			[ "apoquen" ]
+		],
+		"9" : [
+			[ "apocara" ],
+			[ "apocaras" ],
+			[ "apocara" ],
+			[ "apocáramos" ],
+			[ "apocarais", "apocaran" ],
+			[ "apocaran" ]
+		],
+		"10" : [
+			[ "apocase" ],
+			[ "apocases" ],
+			[ "apocase" ],
+			[ "apocásemos" ],
+			[ "apocaseis", "apocasen" ],
+			[ "apocasen" ]
+		],
+		"11" : [
+			[ "apocare" ],
+			[ "apocares" ],
+			[ "apocare" ],
+			[ "apocáremos" ],
+			[ "apocareis", "apocaren" ],
+			[ "apocaren" ]
+		],
+		"12" : {
+			"1" : [ "apoca" ],
+			"2" : [ "apoque" ],
+			"3" : [ "apoquemos" ],
+			"4" : [ "apocad" ],
+			"5" : [ "apoquen" ]
+		}
+	}
+}

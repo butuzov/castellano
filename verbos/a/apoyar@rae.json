@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apoyar",
+	"word" : "apoyar",
+	"infinitivo" : "apoyar",
+	"participio" : [ "apoyado" ],
+	"gerundio" : [ "apoyando" ],
+	"tenses" : {
+		"3" : [
+			[ "apoyo" ],
+			[ "apoyas", "apoyás" ],
+			[ "apoya" ],
+			[ "apoyamos" ],
+			[ "apoyáis", "apoyan" ],
+			[ "apoyan" ]
+		],
+		"4" : [
+			[ "apoyé" ],
+			[ "apoyaste" ],
+			[ "apoyó" ],
+			[ "apoyamos" ],
+			[ "apoyasteis", "apoyaron" ],
+			[ "apoyaron" ]
+		],
+		"5" : [
+			[ "apoyaba" ],
+			[ "apoyabas" ],
+			[ "apoyaba" ],
+			[ "apoyábamos" ],
+			[ "apoyabais", "apoyaban" ],
+			[ "apoyaban" ]
+		],
+		"6" : [
+			[ "apoyaría" ],
+			[ "apoyarías" ],
+			[ "apoyaría" ],
+			[ "apoyaríamos" ],
+			[ "apoyaríais", "apoyarían" ],
+			[ "apoyarían" ]
+		],
+		"7" : [
+			[ "apoyaré" ],
+			[ "apoyarás" ],
+			[ "apoyará" ],
+			[ "apoyaremos" ],
+			[ "apoyaréis", "apoyarán" ],
+			[ "apoyarán" ]
+		],
+		"8" : [
+			[ "apoye" ],
+			[ "apoyes" ],
+			[ "apoye" ],
+			[ "apoyemos" ],
+			[ "apoyéis", "apoyen" ],
+			[ "apoyen" ]
+		],
+		"9" : [
+			[ "apoyara" ],
+			[ "apoyaras" ],
+			[ "apoyara" ],
+			[ "apoyáramos" ],
+			[ "apoyarais", "apoyaran" ],
+			[ "apoyaran" ]
+		],
+		"10" : [
+			[ "apoyase" ],
+			[ "apoyases" ],
+			[ "apoyase" ],
+			[ "apoyásemos" ],
+			[ "apoyaseis", "apoyasen" ],
+			[ "apoyasen" ]
+		],
+		"11" : [
+			[ "apoyare" ],
+			[ "apoyares" ],
+			[ "apoyare" ],
+			[ "apoyáremos" ],
+			[ "apoyareis", "apoyaren" ],
+			[ "apoyaren" ]
+		],
+		"12" : {
+			"1" : [ "apoya" ],
+			"2" : [ "apoye" ],
+			"3" : [ "apoyemos" ],
+			"4" : [ "apoyad" ],
+			"5" : [ "apoyen" ]
+		}
+	}
+}

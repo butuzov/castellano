@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=circuir",
+	"word" : "circuir",
+	"infinitivo" : "circuir",
+	"participio" : [ "circuido" ],
+	"gerundio" : [ "circuyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "circuyo" ],
+			[ "circuyes", "circuís" ],
+			[ "circuye" ],
+			[ "circuimos" ],
+			[ "circuís", "circuyen" ],
+			[ "circuyen" ]
+		],
+		"4" : [
+			[ "circuí" ],
+			[ "circuiste" ],
+			[ "circuyó" ],
+			[ "circuimos" ],
+			[ "circuisteis", "circuyeron" ],
+			[ "circuyeron" ]
+		],
+		"5" : [
+			[ "circuía" ],
+			[ "circuías" ],
+			[ "circuía" ],
+			[ "circuíamos" ],
+			[ "circuíais", "circuían" ],
+			[ "circuían" ]
+		],
+		"6" : [
+			[ "circuiría" ],
+			[ "circuirías" ],
+			[ "circuiría" ],
+			[ "circuiríamos" ],
+			[ "circuiríais", "circuirían" ],
+			[ "circuirían" ]
+		],
+		"7" : [
+			[ "circuiré" ],
+			[ "circuirás" ],
+			[ "circuirá" ],
+			[ "circuiremos" ],
+			[ "circuiréis", "circuirán" ],
+			[ "circuirán" ]
+		],
+		"8" : [
+			[ "circuya" ],
+			[ "circuyas" ],
+			[ "circuya" ],
+			[ "circuyamos" ],
+			[ "circuyáis", "circuyan" ],
+			[ "circuyan" ]
+		],
+		"9" : [
+			[ "circuyera" ],
+			[ "circuyeras" ],
+			[ "circuyera" ],
+			[ "circuyéramos" ],
+			[ "circuyerais", "circuyeran" ],
+			[ "circuyeran" ]
+		],
+		"10" : [
+			[ "circuyese" ],
+			[ "circuyeses" ],
+			[ "circuyese" ],
+			[ "circuyésemos" ],
+			[ "circuyeseis", "circuyesen" ],
+			[ "circuyesen" ]
+		],
+		"11" : [
+			[ "circuyere" ],
+			[ "circuyeres" ],
+			[ "circuyere" ],
+			[ "circuyéremos" ],
+			[ "circuyereis", "circuyeren" ],
+			[ "circuyeren" ]
+		],
+		"12" : {
+			"1" : [ "circuye" ],
+			"2" : [ "circuya" ],
+			"3" : [ "circuyamos" ],
+			"4" : [ "circuid" ],
+			"5" : [ "circuyan" ]
+		}
+	}
+}

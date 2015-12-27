@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chillar",
+	"word" : "chillar",
+	"infinitivo" : "chillar",
+	"participio" : [ "chillado" ],
+	"gerundio" : [ "chillando" ],
+	"tenses" : {
+		"3" : [
+			[ "chillo" ],
+			[ "chillas", "chillás" ],
+			[ "chilla" ],
+			[ "chillamos" ],
+			[ "chilláis", "chillan" ],
+			[ "chillan" ]
+		],
+		"4" : [
+			[ "chillé" ],
+			[ "chillaste" ],
+			[ "chilló" ],
+			[ "chillamos" ],
+			[ "chillasteis", "chillaron" ],
+			[ "chillaron" ]
+		],
+		"5" : [
+			[ "chillaba" ],
+			[ "chillabas" ],
+			[ "chillaba" ],
+			[ "chillábamos" ],
+			[ "chillabais", "chillaban" ],
+			[ "chillaban" ]
+		],
+		"6" : [
+			[ "chillaría" ],
+			[ "chillarías" ],
+			[ "chillaría" ],
+			[ "chillaríamos" ],
+			[ "chillaríais", "chillarían" ],
+			[ "chillarían" ]
+		],
+		"7" : [
+			[ "chillaré" ],
+			[ "chillarás" ],
+			[ "chillará" ],
+			[ "chillaremos" ],
+			[ "chillaréis", "chillarán" ],
+			[ "chillarán" ]
+		],
+		"8" : [
+			[ "chille" ],
+			[ "chilles" ],
+			[ "chille" ],
+			[ "chillemos" ],
+			[ "chilléis", "chillen" ],
+			[ "chillen" ]
+		],
+		"9" : [
+			[ "chillara" ],
+			[ "chillaras" ],
+			[ "chillara" ],
+			[ "chilláramos" ],
+			[ "chillarais", "chillaran" ],
+			[ "chillaran" ]
+		],
+		"10" : [
+			[ "chillase" ],
+			[ "chillases" ],
+			[ "chillase" ],
+			[ "chillásemos" ],
+			[ "chillaseis", "chillasen" ],
+			[ "chillasen" ]
+		],
+		"11" : [
+			[ "chillare" ],
+			[ "chillares" ],
+			[ "chillare" ],
+			[ "chilláremos" ],
+			[ "chillareis", "chillaren" ],
+			[ "chillaren" ]
+		],
+		"12" : {
+			"1" : [ "chilla" ],
+			"2" : [ "chille" ],
+			"3" : [ "chillemos" ],
+			"4" : [ "chillad" ],
+			"5" : [ "chillen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enlutar",
+	"word" : "enlutar",
+	"infinitivo" : "enlutar",
+	"participio" : [ "enlutado" ],
+	"gerundio" : [ "enlutando" ],
+	"tenses" : {
+		"3" : [
+			[ "enluto" ],
+			[ "enlutas", "enlutás" ],
+			[ "enluta" ],
+			[ "enlutamos" ],
+			[ "enlutáis", "enlutan" ],
+			[ "enlutan" ]
+		],
+		"4" : [
+			[ "enluté" ],
+			[ "enlutaste" ],
+			[ "enlutó" ],
+			[ "enlutamos" ],
+			[ "enlutasteis", "enlutaron" ],
+			[ "enlutaron" ]
+		],
+		"5" : [
+			[ "enlutaba" ],
+			[ "enlutabas" ],
+			[ "enlutaba" ],
+			[ "enlutábamos" ],
+			[ "enlutabais", "enlutaban" ],
+			[ "enlutaban" ]
+		],
+		"6" : [
+			[ "enlutaría" ],
+			[ "enlutarías" ],
+			[ "enlutaría" ],
+			[ "enlutaríamos" ],
+			[ "enlutaríais", "enlutarían" ],
+			[ "enlutarían" ]
+		],
+		"7" : [
+			[ "enlutaré" ],
+			[ "enlutarás" ],
+			[ "enlutará" ],
+			[ "enlutaremos" ],
+			[ "enlutaréis", "enlutarán" ],
+			[ "enlutarán" ]
+		],
+		"8" : [
+			[ "enlute" ],
+			[ "enlutes" ],
+			[ "enlute" ],
+			[ "enlutemos" ],
+			[ "enlutéis", "enluten" ],
+			[ "enluten" ]
+		],
+		"9" : [
+			[ "enlutara" ],
+			[ "enlutaras" ],
+			[ "enlutara" ],
+			[ "enlutáramos" ],
+			[ "enlutarais", "enlutaran" ],
+			[ "enlutaran" ]
+		],
+		"10" : [
+			[ "enlutase" ],
+			[ "enlutases" ],
+			[ "enlutase" ],
+			[ "enlutásemos" ],
+			[ "enlutaseis", "enlutasen" ],
+			[ "enlutasen" ]
+		],
+		"11" : [
+			[ "enlutare" ],
+			[ "enlutares" ],
+			[ "enlutare" ],
+			[ "enlutáremos" ],
+			[ "enlutareis", "enlutaren" ],
+			[ "enlutaren" ]
+		],
+		"12" : {
+			"1" : [ "enluta" ],
+			"2" : [ "enlute" ],
+			"3" : [ "enlutemos" ],
+			"4" : [ "enlutad" ],
+			"5" : [ "enluten" ]
+		}
+	}
+}

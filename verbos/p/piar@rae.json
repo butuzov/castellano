@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=piar",
+	"word" : "piar",
+	"infinitivo" : "piar",
+	"participio" : [ "piado" ],
+	"gerundio" : [ "piando" ],
+	"tenses" : {
+		"3" : [
+			[ "pío" ],
+			[ "pías", "pias" ],
+			[ "pía" ],
+			[ "piamos" ],
+			[ "piais", "pían" ],
+			[ "pían" ]
+		],
+		"4" : [
+			[ "pie" ],
+			[ "piaste" ],
+			[ "pio" ],
+			[ "piamos" ],
+			[ "piasteis", "piaron" ],
+			[ "piaron" ]
+		],
+		"5" : [
+			[ "piaba" ],
+			[ "piabas" ],
+			[ "piaba" ],
+			[ "piábamos" ],
+			[ "piabais", "piaban" ],
+			[ "piaban" ]
+		],
+		"6" : [
+			[ "piaría" ],
+			[ "piarías" ],
+			[ "piaría" ],
+			[ "piaríamos" ],
+			[ "piaríais", "piarían" ],
+			[ "piarían" ]
+		],
+		"7" : [
+			[ "piaré" ],
+			[ "piarás" ],
+			[ "piará" ],
+			[ "piaremos" ],
+			[ "piaréis", "piarán" ],
+			[ "piarán" ]
+		],
+		"8" : [
+			[ "píe" ],
+			[ "píes" ],
+			[ "píe" ],
+			[ "piemos" ],
+			[ "pieis", "píen" ],
+			[ "píen" ]
+		],
+		"9" : [
+			[ "piara" ],
+			[ "piaras" ],
+			[ "piara" ],
+			[ "piáramos" ],
+			[ "piarais", "piaran" ],
+			[ "piaran" ]
+		],
+		"10" : [
+			[ "piase" ],
+			[ "piases" ],
+			[ "piase" ],
+			[ "piásemos" ],
+			[ "piaseis", "piasen" ],
+			[ "piasen" ]
+		],
+		"11" : [
+			[ "piare" ],
+			[ "piares" ],
+			[ "piare" ],
+			[ "piáremos" ],
+			[ "piareis", "piaren" ],
+			[ "piaren" ]
+		],
+		"12" : {
+			"1" : [ "pía" ],
+			"2" : [ "píe" ],
+			"3" : [ "piemos" ],
+			"4" : [ "piad" ],
+			"5" : [ "píen" ]
+		}
+	}
+}

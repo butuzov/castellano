@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acabar",
+	"word" : "acabar",
+	"infinitivo" : "acabar",
+	"participio" : [ "acabado" ],
+	"gerundio" : [ "acabando" ],
+	"tenses" : {
+		"3" : [
+			[ "acabo" ],
+			[ "acabas", "acabás" ],
+			[ "acaba" ],
+			[ "acabamos" ],
+			[ "acabáis", "acaban" ],
+			[ "acaban" ]
+		],
+		"4" : [
+			[ "acabé" ],
+			[ "acabaste" ],
+			[ "acabó" ],
+			[ "acabamos" ],
+			[ "acabasteis", "acabaron" ],
+			[ "acabaron" ]
+		],
+		"5" : [
+			[ "acababa" ],
+			[ "acababas" ],
+			[ "acababa" ],
+			[ "acabábamos" ],
+			[ "acababais", "acababan" ],
+			[ "acababan" ]
+		],
+		"6" : [
+			[ "acabaría" ],
+			[ "acabarías" ],
+			[ "acabaría" ],
+			[ "acabaríamos" ],
+			[ "acabaríais", "acabarían" ],
+			[ "acabarían" ]
+		],
+		"7" : [
+			[ "acabaré" ],
+			[ "acabarás" ],
+			[ "acabará" ],
+			[ "acabaremos" ],
+			[ "acabaréis", "acabarán" ],
+			[ "acabarán" ]
+		],
+		"8" : [
+			[ "acabe" ],
+			[ "acabes" ],
+			[ "acabe" ],
+			[ "acabemos" ],
+			[ "acabéis", "acaben" ],
+			[ "acaben" ]
+		],
+		"9" : [
+			[ "acabara" ],
+			[ "acabaras" ],
+			[ "acabara" ],
+			[ "acabáramos" ],
+			[ "acabarais", "acabaran" ],
+			[ "acabaran" ]
+		],
+		"10" : [
+			[ "acabase" ],
+			[ "acabases" ],
+			[ "acabase" ],
+			[ "acabásemos" ],
+			[ "acabaseis", "acabasen" ],
+			[ "acabasen" ]
+		],
+		"11" : [
+			[ "acabare" ],
+			[ "acabares" ],
+			[ "acabare" ],
+			[ "acabáremos" ],
+			[ "acabareis", "acabaren" ],
+			[ "acabaren" ]
+		],
+		"12" : {
+			"1" : [ "acaba" ],
+			"2" : [ "acabe" ],
+			"3" : [ "acabemos" ],
+			"4" : [ "acabad" ],
+			"5" : [ "acaben" ]
+		}
+	}
+}

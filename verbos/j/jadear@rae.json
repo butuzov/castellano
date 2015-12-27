@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=jadear",
+	"word" : "jadear",
+	"infinitivo" : "jadear",
+	"participio" : [ "jadeado" ],
+	"gerundio" : [ "jadeando" ],
+	"tenses" : {
+		"3" : [
+			[ "jadeo" ],
+			[ "jadeas", "jadeás" ],
+			[ "jadea" ],
+			[ "jadeamos" ],
+			[ "jadeáis", "jadean" ],
+			[ "jadean" ]
+		],
+		"4" : [
+			[ "jadeé" ],
+			[ "jadeaste" ],
+			[ "jadeó" ],
+			[ "jadeamos" ],
+			[ "jadeasteis", "jadearon" ],
+			[ "jadearon" ]
+		],
+		"5" : [
+			[ "jadeaba" ],
+			[ "jadeabas" ],
+			[ "jadeaba" ],
+			[ "jadeábamos" ],
+			[ "jadeabais", "jadeaban" ],
+			[ "jadeaban" ]
+		],
+		"6" : [
+			[ "jadearía" ],
+			[ "jadearías" ],
+			[ "jadearía" ],
+			[ "jadearíamos" ],
+			[ "jadearíais", "jadearían" ],
+			[ "jadearían" ]
+		],
+		"7" : [
+			[ "jadearé" ],
+			[ "jadearás" ],
+			[ "jadeará" ],
+			[ "jadearemos" ],
+			[ "jadearéis", "jadearán" ],
+			[ "jadearán" ]
+		],
+		"8" : [
+			[ "jadee" ],
+			[ "jadees" ],
+			[ "jadee" ],
+			[ "jadeemos" ],
+			[ "jadeéis", "jadeen" ],
+			[ "jadeen" ]
+		],
+		"9" : [
+			[ "jadeara" ],
+			[ "jadearas" ],
+			[ "jadeara" ],
+			[ "jadeáramos" ],
+			[ "jadearais", "jadearan" ],
+			[ "jadearan" ]
+		],
+		"10" : [
+			[ "jadease" ],
+			[ "jadeases" ],
+			[ "jadease" ],
+			[ "jadeásemos" ],
+			[ "jadeaseis", "jadeasen" ],
+			[ "jadeasen" ]
+		],
+		"11" : [
+			[ "jadeare" ],
+			[ "jadeares" ],
+			[ "jadeare" ],
+			[ "jadeáremos" ],
+			[ "jadeareis", "jadearen" ],
+			[ "jadearen" ]
+		],
+		"12" : {
+			"1" : [ "jadea" ],
+			"2" : [ "jadee" ],
+			"3" : [ "jadeemos" ],
+			"4" : [ "jadead" ],
+			"5" : [ "jadeen" ]
+		}
+	}
+}

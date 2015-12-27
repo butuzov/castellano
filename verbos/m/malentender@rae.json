@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=malentender",
+	"word" : "malentender",
+	"infinitivo" : "malentender",
+	"participio" : [ "malentendido" ],
+	"gerundio" : [ "malentendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "malentiendo" ],
+			[ "malentiendes", "malentendés" ],
+			[ "malentiende" ],
+			[ "malentendemos" ],
+			[ "malentendéis", "malentienden" ],
+			[ "malentienden" ]
+		],
+		"4" : [
+			[ "malentendí" ],
+			[ "malentendiste" ],
+			[ "malentendió" ],
+			[ "malentendimos" ],
+			[ "malentendisteis", "malentendieron" ],
+			[ "malentendieron" ]
+		],
+		"5" : [
+			[ "malentendía" ],
+			[ "malentendías" ],
+			[ "malentendía" ],
+			[ "malentendíamos" ],
+			[ "malentendíais", "malentendían" ],
+			[ "malentendían" ]
+		],
+		"6" : [
+			[ "malentendería" ],
+			[ "malentenderías" ],
+			[ "malentendería" ],
+			[ "malentenderíamos" ],
+			[ "malentenderíais", "malentenderían" ],
+			[ "malentenderían" ]
+		],
+		"7" : [
+			[ "malentenderé" ],
+			[ "malentenderás" ],
+			[ "malentenderá" ],
+			[ "malentenderemos" ],
+			[ "malentenderéis", "malentenderán" ],
+			[ "malentenderán" ]
+		],
+		"8" : [
+			[ "malentienda" ],
+			[ "malentiendas" ],
+			[ "malentienda" ],
+			[ "malentendamos" ],
+			[ "malentendáis", "malentiendan" ],
+			[ "malentiendan" ]
+		],
+		"9" : [
+			[ "malentendiera" ],
+			[ "malentendieras" ],
+			[ "malentendiera" ],
+			[ "malentendiéramos" ],
+			[ "malentendierais", "malentendieran" ],
+			[ "malentendieran" ]
+		],
+		"10" : [
+			[ "malentendiese" ],
+			[ "malentendieses" ],
+			[ "malentendiese" ],
+			[ "malentendiésemos" ],
+			[ "malentendieseis", "malentendiesen" ],
+			[ "malentendiesen" ]
+		],
+		"11" : [
+			[ "malentendiere" ],
+			[ "malentendieres" ],
+			[ "malentendiere" ],
+			[ "malentendiéremos" ],
+			[ "malentendiereis", "malentendieren" ],
+			[ "malentendieren" ]
+		],
+		"12" : {
+			"1" : [ "malentiende" ],
+			"2" : [ "malentienda" ],
+			"3" : [ "malentendamos" ],
+			"4" : [ "malentended" ],
+			"5" : [ "malentiendan" ]
+		}
+	}
+}

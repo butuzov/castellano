@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abarcar",
+	"word" : "abarcar",
+	"infinitivo" : "abarcar",
+	"participio" : [ "abarcado" ],
+	"gerundio" : [ "abarcando" ],
+	"tenses" : {
+		"3" : [
+			[ "abarco" ],
+			[ "abarcas", "abarcás" ],
+			[ "abarca" ],
+			[ "abarcamos" ],
+			[ "abarcáis", "abarcan" ],
+			[ "abarcan" ]
+		],
+		"4" : [
+			[ "abarqué" ],
+			[ "abarcaste" ],
+			[ "abarcó" ],
+			[ "abarcamos" ],
+			[ "abarcasteis", "abarcaron" ],
+			[ "abarcaron" ]
+		],
+		"5" : [
+			[ "abarcaba" ],
+			[ "abarcabas" ],
+			[ "abarcaba" ],
+			[ "abarcábamos" ],
+			[ "abarcabais", "abarcaban" ],
+			[ "abarcaban" ]
+		],
+		"6" : [
+			[ "abarcaría" ],
+			[ "abarcarías" ],
+			[ "abarcaría" ],
+			[ "abarcaríamos" ],
+			[ "abarcaríais", "abarcarían" ],
+			[ "abarcarían" ]
+		],
+		"7" : [
+			[ "abarcaré" ],
+			[ "abarcarás" ],
+			[ "abarcará" ],
+			[ "abarcaremos" ],
+			[ "abarcaréis", "abarcarán" ],
+			[ "abarcarán" ]
+		],
+		"8" : [
+			[ "abarque" ],
+			[ "abarques" ],
+			[ "abarque" ],
+			[ "abarquemos" ],
+			[ "abarquéis", "abarquen" ],
+			[ "abarquen" ]
+		],
+		"9" : [
+			[ "abarcara" ],
+			[ "abarcaras" ],
+			[ "abarcara" ],
+			[ "abarcáramos" ],
+			[ "abarcarais", "abarcaran" ],
+			[ "abarcaran" ]
+		],
+		"10" : [
+			[ "abarcase" ],
+			[ "abarcases" ],
+			[ "abarcase" ],
+			[ "abarcásemos" ],
+			[ "abarcaseis", "abarcasen" ],
+			[ "abarcasen" ]
+		],
+		"11" : [
+			[ "abarcare" ],
+			[ "abarcares" ],
+			[ "abarcare" ],
+			[ "abarcáremos" ],
+			[ "abarcareis", "abarcaren" ],
+			[ "abarcaren" ]
+		],
+		"12" : {
+			"1" : [ "abarca" ],
+			"2" : [ "abarque" ],
+			"3" : [ "abarquemos" ],
+			"4" : [ "abarcad" ],
+			"5" : [ "abarquen" ]
+		}
+	}
+}

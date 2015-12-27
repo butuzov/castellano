@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=capear",
+	"word" : "capear",
+	"infinitivo" : "capear",
+	"participio" : [ "capeado" ],
+	"gerundio" : [ "capeando" ],
+	"tenses" : {
+		"3" : [
+			[ "capeo" ],
+			[ "capeas", "capeás" ],
+			[ "capea" ],
+			[ "capeamos" ],
+			[ "capeáis", "capean" ],
+			[ "capean" ]
+		],
+		"4" : [
+			[ "capeé" ],
+			[ "capeaste" ],
+			[ "capeó" ],
+			[ "capeamos" ],
+			[ "capeasteis", "capearon" ],
+			[ "capearon" ]
+		],
+		"5" : [
+			[ "capeaba" ],
+			[ "capeabas" ],
+			[ "capeaba" ],
+			[ "capeábamos" ],
+			[ "capeabais", "capeaban" ],
+			[ "capeaban" ]
+		],
+		"6" : [
+			[ "capearía" ],
+			[ "capearías" ],
+			[ "capearía" ],
+			[ "capearíamos" ],
+			[ "capearíais", "capearían" ],
+			[ "capearían" ]
+		],
+		"7" : [
+			[ "capearé" ],
+			[ "capearás" ],
+			[ "capeará" ],
+			[ "capearemos" ],
+			[ "capearéis", "capearán" ],
+			[ "capearán" ]
+		],
+		"8" : [
+			[ "capee" ],
+			[ "capees" ],
+			[ "capee" ],
+			[ "capeemos" ],
+			[ "capeéis", "capeen" ],
+			[ "capeen" ]
+		],
+		"9" : [
+			[ "capeara" ],
+			[ "capearas" ],
+			[ "capeara" ],
+			[ "capeáramos" ],
+			[ "capearais", "capearan" ],
+			[ "capearan" ]
+		],
+		"10" : [
+			[ "capease" ],
+			[ "capeases" ],
+			[ "capease" ],
+			[ "capeásemos" ],
+			[ "capeaseis", "capeasen" ],
+			[ "capeasen" ]
+		],
+		"11" : [
+			[ "capeare" ],
+			[ "capeares" ],
+			[ "capeare" ],
+			[ "capeáremos" ],
+			[ "capeareis", "capearen" ],
+			[ "capearen" ]
+		],
+		"12" : {
+			"1" : [ "capea" ],
+			"2" : [ "capee" ],
+			"3" : [ "capeemos" ],
+			"4" : [ "capead" ],
+			"5" : [ "capeen" ]
+		}
+	}
+}

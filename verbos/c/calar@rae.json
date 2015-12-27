@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=calar",
+	"word" : "calar",
+	"infinitivo" : "calar",
+	"participio" : [ "calado" ],
+	"gerundio" : [ "calando" ],
+	"tenses" : {
+		"3" : [
+			[ "calo" ],
+			[ "calas", "calás" ],
+			[ "cala" ],
+			[ "calamos" ],
+			[ "caláis", "calan" ],
+			[ "calan" ]
+		],
+		"4" : [
+			[ "calé" ],
+			[ "calaste" ],
+			[ "caló" ],
+			[ "calamos" ],
+			[ "calasteis", "calaron" ],
+			[ "calaron" ]
+		],
+		"5" : [
+			[ "calaba" ],
+			[ "calabas" ],
+			[ "calaba" ],
+			[ "calábamos" ],
+			[ "calabais", "calaban" ],
+			[ "calaban" ]
+		],
+		"6" : [
+			[ "calaría" ],
+			[ "calarías" ],
+			[ "calaría" ],
+			[ "calaríamos" ],
+			[ "calaríais", "calarían" ],
+			[ "calarían" ]
+		],
+		"7" : [
+			[ "calaré" ],
+			[ "calarás" ],
+			[ "calará" ],
+			[ "calaremos" ],
+			[ "calaréis", "calarán" ],
+			[ "calarán" ]
+		],
+		"8" : [
+			[ "cale" ],
+			[ "cales" ],
+			[ "cale" ],
+			[ "calemos" ],
+			[ "caléis", "calen" ],
+			[ "calen" ]
+		],
+		"9" : [
+			[ "calara" ],
+			[ "calaras" ],
+			[ "calara" ],
+			[ "caláramos" ],
+			[ "calarais", "calaran" ],
+			[ "calaran" ]
+		],
+		"10" : [
+			[ "calase" ],
+			[ "calases" ],
+			[ "calase" ],
+			[ "calásemos" ],
+			[ "calaseis", "calasen" ],
+			[ "calasen" ]
+		],
+		"11" : [
+			[ "calare" ],
+			[ "calares" ],
+			[ "calare" ],
+			[ "caláremos" ],
+			[ "calareis", "calaren" ],
+			[ "calaren" ]
+		],
+		"12" : {
+			"1" : [ "cala" ],
+			"2" : [ "cale" ],
+			"3" : [ "calemos" ],
+			"4" : [ "calad" ],
+			"5" : [ "calen" ]
+		}
+	}
+}

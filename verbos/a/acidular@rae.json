@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acidular",
+	"word" : "acidular",
+	"infinitivo" : "acidular",
+	"participio" : [ "acidulado" ],
+	"gerundio" : [ "acidulando" ],
+	"tenses" : {
+		"3" : [
+			[ "acidulo" ],
+			[ "acidulas", "acidulás" ],
+			[ "acidula" ],
+			[ "acidulamos" ],
+			[ "aciduláis", "acidulan" ],
+			[ "acidulan" ]
+		],
+		"4" : [
+			[ "acidulé" ],
+			[ "acidulaste" ],
+			[ "aciduló" ],
+			[ "acidulamos" ],
+			[ "acidulasteis", "acidularon" ],
+			[ "acidularon" ]
+		],
+		"5" : [
+			[ "acidulaba" ],
+			[ "acidulabas" ],
+			[ "acidulaba" ],
+			[ "acidulábamos" ],
+			[ "acidulabais", "acidulaban" ],
+			[ "acidulaban" ]
+		],
+		"6" : [
+			[ "acidularía" ],
+			[ "acidularías" ],
+			[ "acidularía" ],
+			[ "acidularíamos" ],
+			[ "acidularíais", "acidularían" ],
+			[ "acidularían" ]
+		],
+		"7" : [
+			[ "acidularé" ],
+			[ "acidularás" ],
+			[ "acidulará" ],
+			[ "acidularemos" ],
+			[ "acidularéis", "acidularán" ],
+			[ "acidularán" ]
+		],
+		"8" : [
+			[ "acidule" ],
+			[ "acidules" ],
+			[ "acidule" ],
+			[ "acidulemos" ],
+			[ "aciduléis", "acidulen" ],
+			[ "acidulen" ]
+		],
+		"9" : [
+			[ "acidulara" ],
+			[ "acidularas" ],
+			[ "acidulara" ],
+			[ "aciduláramos" ],
+			[ "acidularais", "acidularan" ],
+			[ "acidularan" ]
+		],
+		"10" : [
+			[ "acidulase" ],
+			[ "acidulases" ],
+			[ "acidulase" ],
+			[ "acidulásemos" ],
+			[ "acidulaseis", "acidulasen" ],
+			[ "acidulasen" ]
+		],
+		"11" : [
+			[ "acidulare" ],
+			[ "acidulares" ],
+			[ "acidulare" ],
+			[ "aciduláremos" ],
+			[ "acidulareis", "acidularen" ],
+			[ "acidularen" ]
+		],
+		"12" : {
+			"1" : [ "acidula" ],
+			"2" : [ "acidule" ],
+			"3" : [ "acidulemos" ],
+			"4" : [ "acidulad" ],
+			"5" : [ "acidulen" ]
+		}
+	}
+}

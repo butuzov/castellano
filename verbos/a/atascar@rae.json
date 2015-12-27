@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atascar",
+	"word" : "atascar",
+	"infinitivo" : "atascar",
+	"participio" : [ "atascado" ],
+	"gerundio" : [ "atascando" ],
+	"tenses" : {
+		"3" : [
+			[ "atasco" ],
+			[ "atascas", "atascás" ],
+			[ "atasca" ],
+			[ "atascamos" ],
+			[ "atascáis", "atascan" ],
+			[ "atascan" ]
+		],
+		"4" : [
+			[ "atasqué" ],
+			[ "atascaste" ],
+			[ "atascó" ],
+			[ "atascamos" ],
+			[ "atascasteis", "atascaron" ],
+			[ "atascaron" ]
+		],
+		"5" : [
+			[ "atascaba" ],
+			[ "atascabas" ],
+			[ "atascaba" ],
+			[ "atascábamos" ],
+			[ "atascabais", "atascaban" ],
+			[ "atascaban" ]
+		],
+		"6" : [
+			[ "atascaría" ],
+			[ "atascarías" ],
+			[ "atascaría" ],
+			[ "atascaríamos" ],
+			[ "atascaríais", "atascarían" ],
+			[ "atascarían" ]
+		],
+		"7" : [
+			[ "atascaré" ],
+			[ "atascarás" ],
+			[ "atascará" ],
+			[ "atascaremos" ],
+			[ "atascaréis", "atascarán" ],
+			[ "atascarán" ]
+		],
+		"8" : [
+			[ "atasque" ],
+			[ "atasques" ],
+			[ "atasque" ],
+			[ "atasquemos" ],
+			[ "atasquéis", "atasquen" ],
+			[ "atasquen" ]
+		],
+		"9" : [
+			[ "atascara" ],
+			[ "atascaras" ],
+			[ "atascara" ],
+			[ "atascáramos" ],
+			[ "atascarais", "atascaran" ],
+			[ "atascaran" ]
+		],
+		"10" : [
+			[ "atascase" ],
+			[ "atascases" ],
+			[ "atascase" ],
+			[ "atascásemos" ],
+			[ "atascaseis", "atascasen" ],
+			[ "atascasen" ]
+		],
+		"11" : [
+			[ "atascare" ],
+			[ "atascares" ],
+			[ "atascare" ],
+			[ "atascáremos" ],
+			[ "atascareis", "atascaren" ],
+			[ "atascaren" ]
+		],
+		"12" : {
+			"1" : [ "atasca" ],
+			"2" : [ "atasque" ],
+			"3" : [ "atasquemos" ],
+			"4" : [ "atascad" ],
+			"5" : [ "atasquen" ]
+		}
+	}
+}

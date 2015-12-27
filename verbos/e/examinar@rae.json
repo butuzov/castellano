@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=examinar",
+	"word" : "examinar",
+	"infinitivo" : "examinar",
+	"participio" : [ "examinado" ],
+	"gerundio" : [ "examinando" ],
+	"tenses" : {
+		"3" : [
+			[ "examino" ],
+			[ "examinas", "examinás" ],
+			[ "examina" ],
+			[ "examinamos" ],
+			[ "examináis", "examinan" ],
+			[ "examinan" ]
+		],
+		"4" : [
+			[ "examiné" ],
+			[ "examinaste" ],
+			[ "examinó" ],
+			[ "examinamos" ],
+			[ "examinasteis", "examinaron" ],
+			[ "examinaron" ]
+		],
+		"5" : [
+			[ "examinaba" ],
+			[ "examinabas" ],
+			[ "examinaba" ],
+			[ "examinábamos" ],
+			[ "examinabais", "examinaban" ],
+			[ "examinaban" ]
+		],
+		"6" : [
+			[ "examinaría" ],
+			[ "examinarías" ],
+			[ "examinaría" ],
+			[ "examinaríamos" ],
+			[ "examinaríais", "examinarían" ],
+			[ "examinarían" ]
+		],
+		"7" : [
+			[ "examinaré" ],
+			[ "examinarás" ],
+			[ "examinará" ],
+			[ "examinaremos" ],
+			[ "examinaréis", "examinarán" ],
+			[ "examinarán" ]
+		],
+		"8" : [
+			[ "examine" ],
+			[ "examines" ],
+			[ "examine" ],
+			[ "examinemos" ],
+			[ "examinéis", "examinen" ],
+			[ "examinen" ]
+		],
+		"9" : [
+			[ "examinara" ],
+			[ "examinaras" ],
+			[ "examinara" ],
+			[ "examináramos" ],
+			[ "examinarais", "examinaran" ],
+			[ "examinaran" ]
+		],
+		"10" : [
+			[ "examinase" ],
+			[ "examinases" ],
+			[ "examinase" ],
+			[ "examinásemos" ],
+			[ "examinaseis", "examinasen" ],
+			[ "examinasen" ]
+		],
+		"11" : [
+			[ "examinare" ],
+			[ "examinares" ],
+			[ "examinare" ],
+			[ "examináremos" ],
+			[ "examinareis", "examinaren" ],
+			[ "examinaren" ]
+		],
+		"12" : {
+			"1" : [ "examina" ],
+			"2" : [ "examine" ],
+			"3" : [ "examinemos" ],
+			"4" : [ "examinad" ],
+			"5" : [ "examinen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=percudir",
+	"word" : "percudir",
+	"infinitivo" : "percudir",
+	"participio" : [ "percudido" ],
+	"gerundio" : [ "percudiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "percudo" ],
+			[ "percudes", "percudís" ],
+			[ "percude" ],
+			[ "percudimos" ],
+			[ "percudís", "percuden" ],
+			[ "percuden" ]
+		],
+		"4" : [
+			[ "percudí" ],
+			[ "percudiste" ],
+			[ "percudió" ],
+			[ "percudimos" ],
+			[ "percudisteis", "percudieron" ],
+			[ "percudieron" ]
+		],
+		"5" : [
+			[ "percudía" ],
+			[ "percudías" ],
+			[ "percudía" ],
+			[ "percudíamos" ],
+			[ "percudíais", "percudían" ],
+			[ "percudían" ]
+		],
+		"6" : [
+			[ "percudiría" ],
+			[ "percudirías" ],
+			[ "percudiría" ],
+			[ "percudiríamos" ],
+			[ "percudiríais", "percudirían" ],
+			[ "percudirían" ]
+		],
+		"7" : [
+			[ "percudiré" ],
+			[ "percudirás" ],
+			[ "percudirá" ],
+			[ "percudiremos" ],
+			[ "percudiréis", "percudirán" ],
+			[ "percudirán" ]
+		],
+		"8" : [
+			[ "percuda" ],
+			[ "percudas" ],
+			[ "percuda" ],
+			[ "percudamos" ],
+			[ "percudáis", "percudan" ],
+			[ "percudan" ]
+		],
+		"9" : [
+			[ "percudiera" ],
+			[ "percudieras" ],
+			[ "percudiera" ],
+			[ "percudiéramos" ],
+			[ "percudierais", "percudieran" ],
+			[ "percudieran" ]
+		],
+		"10" : [
+			[ "percudiese" ],
+			[ "percudieses" ],
+			[ "percudiese" ],
+			[ "percudiésemos" ],
+			[ "percudieseis", "percudiesen" ],
+			[ "percudiesen" ]
+		],
+		"11" : [
+			[ "percudiere" ],
+			[ "percudieres" ],
+			[ "percudiere" ],
+			[ "percudiéremos" ],
+			[ "percudiereis", "percudieren" ],
+			[ "percudieren" ]
+		],
+		"12" : {
+			"1" : [ "percude" ],
+			"2" : [ "percuda" ],
+			"3" : [ "percudamos" ],
+			"4" : [ "percudid" ],
+			"5" : [ "percudan" ]
+		}
+	}
+}

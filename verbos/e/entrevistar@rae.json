@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entrevistar",
+	"word" : "entrevistar",
+	"infinitivo" : "entrevistar",
+	"participio" : [ "entrevistado" ],
+	"gerundio" : [ "entrevistando" ],
+	"tenses" : {
+		"3" : [
+			[ "entrevisto" ],
+			[ "entrevistas", "entrevistás" ],
+			[ "entrevista" ],
+			[ "entrevistamos" ],
+			[ "entrevistáis", "entrevistan" ],
+			[ "entrevistan" ]
+		],
+		"4" : [
+			[ "entrevisté" ],
+			[ "entrevistaste" ],
+			[ "entrevistó" ],
+			[ "entrevistamos" ],
+			[ "entrevistasteis", "entrevistaron" ],
+			[ "entrevistaron" ]
+		],
+		"5" : [
+			[ "entrevistaba" ],
+			[ "entrevistabas" ],
+			[ "entrevistaba" ],
+			[ "entrevistábamos" ],
+			[ "entrevistabais", "entrevistaban" ],
+			[ "entrevistaban" ]
+		],
+		"6" : [
+			[ "entrevistaría" ],
+			[ "entrevistarías" ],
+			[ "entrevistaría" ],
+			[ "entrevistaríamos" ],
+			[ "entrevistaríais", "entrevistarían" ],
+			[ "entrevistarían" ]
+		],
+		"7" : [
+			[ "entrevistaré" ],
+			[ "entrevistarás" ],
+			[ "entrevistará" ],
+			[ "entrevistaremos" ],
+			[ "entrevistaréis", "entrevistarán" ],
+			[ "entrevistarán" ]
+		],
+		"8" : [
+			[ "entreviste" ],
+			[ "entrevistes" ],
+			[ "entreviste" ],
+			[ "entrevistemos" ],
+			[ "entrevistéis", "entrevisten" ],
+			[ "entrevisten" ]
+		],
+		"9" : [
+			[ "entrevistara" ],
+			[ "entrevistaras" ],
+			[ "entrevistara" ],
+			[ "entrevistáramos" ],
+			[ "entrevistarais", "entrevistaran" ],
+			[ "entrevistaran" ]
+		],
+		"10" : [
+			[ "entrevistase" ],
+			[ "entrevistases" ],
+			[ "entrevistase" ],
+			[ "entrevistásemos" ],
+			[ "entrevistaseis", "entrevistasen" ],
+			[ "entrevistasen" ]
+		],
+		"11" : [
+			[ "entrevistare" ],
+			[ "entrevistares" ],
+			[ "entrevistare" ],
+			[ "entrevistáremos" ],
+			[ "entrevistareis", "entrevistaren" ],
+			[ "entrevistaren" ]
+		],
+		"12" : {
+			"1" : [ "entrevista" ],
+			"2" : [ "entreviste" ],
+			"3" : [ "entrevistemos" ],
+			"4" : [ "entrevistad" ],
+			"5" : [ "entrevisten" ]
+		}
+	}
+}

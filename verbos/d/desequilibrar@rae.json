@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desequilibrar",
+	"word" : "desequilibrar",
+	"infinitivo" : "desequilibrar",
+	"participio" : [ "desequilibrado" ],
+	"gerundio" : [ "desequilibrando" ],
+	"tenses" : {
+		"3" : [
+			[ "desequilibro" ],
+			[ "desequilibras", "desequilibrás" ],
+			[ "desequilibra" ],
+			[ "desequilibramos" ],
+			[ "desequilibráis", "desequilibran" ],
+			[ "desequilibran" ]
+		],
+		"4" : [
+			[ "desequilibré" ],
+			[ "desequilibraste" ],
+			[ "desequilibró" ],
+			[ "desequilibramos" ],
+			[ "desequilibrasteis", "desequilibraron" ],
+			[ "desequilibraron" ]
+		],
+		"5" : [
+			[ "desequilibraba" ],
+			[ "desequilibrabas" ],
+			[ "desequilibraba" ],
+			[ "desequilibrábamos" ],
+			[ "desequilibrabais", "desequilibraban" ],
+			[ "desequilibraban" ]
+		],
+		"6" : [
+			[ "desequilibraría" ],
+			[ "desequilibrarías" ],
+			[ "desequilibraría" ],
+			[ "desequilibraríamos" ],
+			[ "desequilibraríais", "desequilibrarían" ],
+			[ "desequilibrarían" ]
+		],
+		"7" : [
+			[ "desequilibraré" ],
+			[ "desequilibrarás" ],
+			[ "desequilibrará" ],
+			[ "desequilibraremos" ],
+			[ "desequilibraréis", "desequilibrarán" ],
+			[ "desequilibrarán" ]
+		],
+		"8" : [
+			[ "desequilibre" ],
+			[ "desequilibres" ],
+			[ "desequilibre" ],
+			[ "desequilibremos" ],
+			[ "desequilibréis", "desequilibren" ],
+			[ "desequilibren" ]
+		],
+		"9" : [
+			[ "desequilibrara" ],
+			[ "desequilibraras" ],
+			[ "desequilibrara" ],
+			[ "desequilibráramos" ],
+			[ "desequilibrarais", "desequilibraran" ],
+			[ "desequilibraran" ]
+		],
+		"10" : [
+			[ "desequilibrase" ],
+			[ "desequilibrases" ],
+			[ "desequilibrase" ],
+			[ "desequilibrásemos" ],
+			[ "desequilibraseis", "desequilibrasen" ],
+			[ "desequilibrasen" ]
+		],
+		"11" : [
+			[ "desequilibrare" ],
+			[ "desequilibrares" ],
+			[ "desequilibrare" ],
+			[ "desequilibráremos" ],
+			[ "desequilibrareis", "desequilibraren" ],
+			[ "desequilibraren" ]
+		],
+		"12" : {
+			"1" : [ "desequilibra" ],
+			"2" : [ "desequilibre" ],
+			"3" : [ "desequilibremos" ],
+			"4" : [ "desequilibrad" ],
+			"5" : [ "desequilibren" ]
+		}
+	}
+}

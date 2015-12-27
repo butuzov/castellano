@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apear",
+	"word" : "apear",
+	"infinitivo" : "apear",
+	"participio" : [ "apeado" ],
+	"gerundio" : [ "apeando" ],
+	"tenses" : {
+		"3" : [
+			[ "apeo" ],
+			[ "apeas", "apeás" ],
+			[ "apea" ],
+			[ "apeamos" ],
+			[ "apeáis", "apean" ],
+			[ "apean" ]
+		],
+		"4" : [
+			[ "apeé" ],
+			[ "apeaste" ],
+			[ "apeó" ],
+			[ "apeamos" ],
+			[ "apeasteis", "apearon" ],
+			[ "apearon" ]
+		],
+		"5" : [
+			[ "apeaba" ],
+			[ "apeabas" ],
+			[ "apeaba" ],
+			[ "apeábamos" ],
+			[ "apeabais", "apeaban" ],
+			[ "apeaban" ]
+		],
+		"6" : [
+			[ "apearía" ],
+			[ "apearías" ],
+			[ "apearía" ],
+			[ "apearíamos" ],
+			[ "apearíais", "apearían" ],
+			[ "apearían" ]
+		],
+		"7" : [
+			[ "apearé" ],
+			[ "apearás" ],
+			[ "apeará" ],
+			[ "apearemos" ],
+			[ "apearéis", "apearán" ],
+			[ "apearán" ]
+		],
+		"8" : [
+			[ "apee" ],
+			[ "apees" ],
+			[ "apee" ],
+			[ "apeemos" ],
+			[ "apeéis", "apeen" ],
+			[ "apeen" ]
+		],
+		"9" : [
+			[ "apeara" ],
+			[ "apearas" ],
+			[ "apeara" ],
+			[ "apeáramos" ],
+			[ "apearais", "apearan" ],
+			[ "apearan" ]
+		],
+		"10" : [
+			[ "apease" ],
+			[ "apeases" ],
+			[ "apease" ],
+			[ "apeásemos" ],
+			[ "apeaseis", "apeasen" ],
+			[ "apeasen" ]
+		],
+		"11" : [
+			[ "apeare" ],
+			[ "apeares" ],
+			[ "apeare" ],
+			[ "apeáremos" ],
+			[ "apeareis", "apearen" ],
+			[ "apearen" ]
+		],
+		"12" : {
+			"1" : [ "apea" ],
+			"2" : [ "apee" ],
+			"3" : [ "apeemos" ],
+			"4" : [ "apead" ],
+			"5" : [ "apeen" ]
+		}
+	}
+}

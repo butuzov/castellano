@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=traducir",
+	"word" : "traducir",
+	"infinitivo" : "traducir",
+	"participio" : [ "traducido" ],
+	"gerundio" : [ "traduciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "traduzco" ],
+			[ "traduces", "traducís" ],
+			[ "traduce" ],
+			[ "traducimos" ],
+			[ "traducís", "traducen" ],
+			[ "traducen" ]
+		],
+		"4" : [
+			[ "traduje" ],
+			[ "tradujiste" ],
+			[ "tradujo" ],
+			[ "tradujimos" ],
+			[ "tradujisteis", "tradujeron" ],
+			[ "tradujeron" ]
+		],
+		"5" : [
+			[ "traducía" ],
+			[ "traducías" ],
+			[ "traducía" ],
+			[ "traducíamos" ],
+			[ "traducíais", "traducían" ],
+			[ "traducían" ]
+		],
+		"6" : [
+			[ "traduciría" ],
+			[ "traducirías" ],
+			[ "traduciría" ],
+			[ "traduciríamos" ],
+			[ "traduciríais", "traducirían" ],
+			[ "traducirían" ]
+		],
+		"7" : [
+			[ "traduciré" ],
+			[ "traducirás" ],
+			[ "traducirá" ],
+			[ "traduciremos" ],
+			[ "traduciréis", "traducirán" ],
+			[ "traducirán" ]
+		],
+		"8" : [
+			[ "traduzca" ],
+			[ "traduzcas" ],
+			[ "traduzca" ],
+			[ "traduzcamos" ],
+			[ "traduzcáis", "traduzcan" ],
+			[ "traduzcan" ]
+		],
+		"9" : [
+			[ "tradujera" ],
+			[ "tradujeras" ],
+			[ "tradujera" ],
+			[ "tradujéramos" ],
+			[ "tradujerais", "tradujeran" ],
+			[ "tradujeran" ]
+		],
+		"10" : [
+			[ "tradujese" ],
+			[ "tradujeses" ],
+			[ "tradujese" ],
+			[ "tradujésemos" ],
+			[ "tradujeseis", "tradujesen" ],
+			[ "tradujesen" ]
+		],
+		"11" : [
+			[ "tradujere" ],
+			[ "tradujeres" ],
+			[ "tradujere" ],
+			[ "tradujéremos" ],
+			[ "tradujereis", "tradujeren" ],
+			[ "tradujeren" ]
+		],
+		"12" : {
+			"1" : [ "traduce" ],
+			"2" : [ "traduzca" ],
+			"3" : [ "traduzcamos" ],
+			"4" : [ "traducid" ],
+			"5" : [ "traduzcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estacar",
+	"word" : "estacar",
+	"infinitivo" : "estacar",
+	"participio" : [ "estacado" ],
+	"gerundio" : [ "estacando" ],
+	"tenses" : {
+		"3" : [
+			[ "estaco" ],
+			[ "estacas", "estacás" ],
+			[ "estaca" ],
+			[ "estacamos" ],
+			[ "estacáis", "estacan" ],
+			[ "estacan" ]
+		],
+		"4" : [
+			[ "estaqué" ],
+			[ "estacaste" ],
+			[ "estacó" ],
+			[ "estacamos" ],
+			[ "estacasteis", "estacaron" ],
+			[ "estacaron" ]
+		],
+		"5" : [
+			[ "estacaba" ],
+			[ "estacabas" ],
+			[ "estacaba" ],
+			[ "estacábamos" ],
+			[ "estacabais", "estacaban" ],
+			[ "estacaban" ]
+		],
+		"6" : [
+			[ "estacaría" ],
+			[ "estacarías" ],
+			[ "estacaría" ],
+			[ "estacaríamos" ],
+			[ "estacaríais", "estacarían" ],
+			[ "estacarían" ]
+		],
+		"7" : [
+			[ "estacaré" ],
+			[ "estacarás" ],
+			[ "estacará" ],
+			[ "estacaremos" ],
+			[ "estacaréis", "estacarán" ],
+			[ "estacarán" ]
+		],
+		"8" : [
+			[ "estaque" ],
+			[ "estaques" ],
+			[ "estaque" ],
+			[ "estaquemos" ],
+			[ "estaquéis", "estaquen" ],
+			[ "estaquen" ]
+		],
+		"9" : [
+			[ "estacara" ],
+			[ "estacaras" ],
+			[ "estacara" ],
+			[ "estacáramos" ],
+			[ "estacarais", "estacaran" ],
+			[ "estacaran" ]
+		],
+		"10" : [
+			[ "estacase" ],
+			[ "estacases" ],
+			[ "estacase" ],
+			[ "estacásemos" ],
+			[ "estacaseis", "estacasen" ],
+			[ "estacasen" ]
+		],
+		"11" : [
+			[ "estacare" ],
+			[ "estacares" ],
+			[ "estacare" ],
+			[ "estacáremos" ],
+			[ "estacareis", "estacaren" ],
+			[ "estacaren" ]
+		],
+		"12" : {
+			"1" : [ "estaca" ],
+			"2" : [ "estaque" ],
+			"3" : [ "estaquemos" ],
+			"4" : [ "estacad" ],
+			"5" : [ "estaquen" ]
+		}
+	}
+}

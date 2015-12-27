@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lijar",
+	"word" : "lijar",
+	"infinitivo" : "lijar",
+	"participio" : [ "lijado" ],
+	"gerundio" : [ "lijando" ],
+	"tenses" : {
+		"3" : [
+			[ "lijo" ],
+			[ "lijas", "lijás" ],
+			[ "lija" ],
+			[ "lijamos" ],
+			[ "lijáis", "lijan" ],
+			[ "lijan" ]
+		],
+		"4" : [
+			[ "lijé" ],
+			[ "lijaste" ],
+			[ "lijó" ],
+			[ "lijamos" ],
+			[ "lijasteis", "lijaron" ],
+			[ "lijaron" ]
+		],
+		"5" : [
+			[ "lijaba" ],
+			[ "lijabas" ],
+			[ "lijaba" ],
+			[ "lijábamos" ],
+			[ "lijabais", "lijaban" ],
+			[ "lijaban" ]
+		],
+		"6" : [
+			[ "lijaría" ],
+			[ "lijarías" ],
+			[ "lijaría" ],
+			[ "lijaríamos" ],
+			[ "lijaríais", "lijarían" ],
+			[ "lijarían" ]
+		],
+		"7" : [
+			[ "lijaré" ],
+			[ "lijarás" ],
+			[ "lijará" ],
+			[ "lijaremos" ],
+			[ "lijaréis", "lijarán" ],
+			[ "lijarán" ]
+		],
+		"8" : [
+			[ "lije" ],
+			[ "lijes" ],
+			[ "lije" ],
+			[ "lijemos" ],
+			[ "lijéis", "lijen" ],
+			[ "lijen" ]
+		],
+		"9" : [
+			[ "lijara" ],
+			[ "lijaras" ],
+			[ "lijara" ],
+			[ "lijáramos" ],
+			[ "lijarais", "lijaran" ],
+			[ "lijaran" ]
+		],
+		"10" : [
+			[ "lijase" ],
+			[ "lijases" ],
+			[ "lijase" ],
+			[ "lijásemos" ],
+			[ "lijaseis", "lijasen" ],
+			[ "lijasen" ]
+		],
+		"11" : [
+			[ "lijare" ],
+			[ "lijares" ],
+			[ "lijare" ],
+			[ "lijáremos" ],
+			[ "lijareis", "lijaren" ],
+			[ "lijaren" ]
+		],
+		"12" : {
+			"1" : [ "lija" ],
+			"2" : [ "lije" ],
+			"3" : [ "lijemos" ],
+			"4" : [ "lijad" ],
+			"5" : [ "lijen" ]
+		}
+	}
+}

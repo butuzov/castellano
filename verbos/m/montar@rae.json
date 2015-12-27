@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=montar",
+	"word" : "montar",
+	"infinitivo" : "montar",
+	"participio" : [ "montado" ],
+	"gerundio" : [ "montando" ],
+	"tenses" : {
+		"3" : [
+			[ "monto" ],
+			[ "montas", "montás" ],
+			[ "monta" ],
+			[ "montamos" ],
+			[ "montáis", "montan" ],
+			[ "montan" ]
+		],
+		"4" : [
+			[ "monté" ],
+			[ "montaste" ],
+			[ "montó" ],
+			[ "montamos" ],
+			[ "montasteis", "montaron" ],
+			[ "montaron" ]
+		],
+		"5" : [
+			[ "montaba" ],
+			[ "montabas" ],
+			[ "montaba" ],
+			[ "montábamos" ],
+			[ "montabais", "montaban" ],
+			[ "montaban" ]
+		],
+		"6" : [
+			[ "montaría" ],
+			[ "montarías" ],
+			[ "montaría" ],
+			[ "montaríamos" ],
+			[ "montaríais", "montarían" ],
+			[ "montarían" ]
+		],
+		"7" : [
+			[ "montaré" ],
+			[ "montarás" ],
+			[ "montará" ],
+			[ "montaremos" ],
+			[ "montaréis", "montarán" ],
+			[ "montarán" ]
+		],
+		"8" : [
+			[ "monte" ],
+			[ "montes" ],
+			[ "monte" ],
+			[ "montemos" ],
+			[ "montéis", "monten" ],
+			[ "monten" ]
+		],
+		"9" : [
+			[ "montara" ],
+			[ "montaras" ],
+			[ "montara" ],
+			[ "montáramos" ],
+			[ "montarais", "montaran" ],
+			[ "montaran" ]
+		],
+		"10" : [
+			[ "montase" ],
+			[ "montases" ],
+			[ "montase" ],
+			[ "montásemos" ],
+			[ "montaseis", "montasen" ],
+			[ "montasen" ]
+		],
+		"11" : [
+			[ "montare" ],
+			[ "montares" ],
+			[ "montare" ],
+			[ "montáremos" ],
+			[ "montareis", "montaren" ],
+			[ "montaren" ]
+		],
+		"12" : {
+			"1" : [ "monta" ],
+			"2" : [ "monte" ],
+			"3" : [ "montemos" ],
+			"4" : [ "montad" ],
+			"5" : [ "monten" ]
+		}
+	}
+}

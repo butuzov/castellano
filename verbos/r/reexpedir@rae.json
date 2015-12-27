@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reexpedir",
+	"word" : "reexpedir",
+	"infinitivo" : "reexpedir",
+	"participio" : [ "reexpedido" ],
+	"gerundio" : [ "reexpidiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reexpido" ],
+			[ "reexpides", "reexpedís" ],
+			[ "reexpide" ],
+			[ "reexpedimos" ],
+			[ "reexpedís", "reexpiden" ],
+			[ "reexpiden" ]
+		],
+		"4" : [
+			[ "reexpedí" ],
+			[ "reexpediste" ],
+			[ "reexpidió" ],
+			[ "reexpedimos" ],
+			[ "reexpedisteis", "reexpidieron" ],
+			[ "reexpidieron" ]
+		],
+		"5" : [
+			[ "reexpedía" ],
+			[ "reexpedías" ],
+			[ "reexpedía" ],
+			[ "reexpedíamos" ],
+			[ "reexpedíais", "reexpedían" ],
+			[ "reexpedían" ]
+		],
+		"6" : [
+			[ "reexpediría" ],
+			[ "reexpedirías" ],
+			[ "reexpediría" ],
+			[ "reexpediríamos" ],
+			[ "reexpediríais", "reexpedirían" ],
+			[ "reexpedirían" ]
+		],
+		"7" : [
+			[ "reexpediré" ],
+			[ "reexpedirás" ],
+			[ "reexpedirá" ],
+			[ "reexpediremos" ],
+			[ "reexpediréis", "reexpedirán" ],
+			[ "reexpedirán" ]
+		],
+		"8" : [
+			[ "reexpida" ],
+			[ "reexpidas" ],
+			[ "reexpida" ],
+			[ "reexpidamos" ],
+			[ "reexpidáis", "reexpidan" ],
+			[ "reexpidan" ]
+		],
+		"9" : [
+			[ "reexpidiera" ],
+			[ "reexpidieras" ],
+			[ "reexpidiera" ],
+			[ "reexpidiéramos" ],
+			[ "reexpidierais", "reexpidieran" ],
+			[ "reexpidieran" ]
+		],
+		"10" : [
+			[ "reexpidiese" ],
+			[ "reexpidieses" ],
+			[ "reexpidiese" ],
+			[ "reexpidiésemos" ],
+			[ "reexpidieseis", "reexpidiesen" ],
+			[ "reexpidiesen" ]
+		],
+		"11" : [
+			[ "reexpidiere" ],
+			[ "reexpidieres" ],
+			[ "reexpidiere" ],
+			[ "reexpidiéremos" ],
+			[ "reexpidiereis", "reexpidieren" ],
+			[ "reexpidieren" ]
+		],
+		"12" : {
+			"1" : [ "reexpide" ],
+			"2" : [ "reexpida" ],
+			"3" : [ "reexpidamos" ],
+			"4" : [ "reexpedid" ],
+			"5" : [ "reexpidan" ]
+		}
+	}
+}

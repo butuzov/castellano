@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enfermar",
+	"word" : "enfermar",
+	"infinitivo" : "enfermar",
+	"participio" : [ "enfermado" ],
+	"gerundio" : [ "enfermando" ],
+	"tenses" : {
+		"3" : [
+			[ "enfermo" ],
+			[ "enfermas", "enfermás" ],
+			[ "enferma" ],
+			[ "enfermamos" ],
+			[ "enfermáis", "enferman" ],
+			[ "enferman" ]
+		],
+		"4" : [
+			[ "enfermé" ],
+			[ "enfermaste" ],
+			[ "enfermó" ],
+			[ "enfermamos" ],
+			[ "enfermasteis", "enfermaron" ],
+			[ "enfermaron" ]
+		],
+		"5" : [
+			[ "enfermaba" ],
+			[ "enfermabas" ],
+			[ "enfermaba" ],
+			[ "enfermábamos" ],
+			[ "enfermabais", "enfermaban" ],
+			[ "enfermaban" ]
+		],
+		"6" : [
+			[ "enfermaría" ],
+			[ "enfermarías" ],
+			[ "enfermaría" ],
+			[ "enfermaríamos" ],
+			[ "enfermaríais", "enfermarían" ],
+			[ "enfermarían" ]
+		],
+		"7" : [
+			[ "enfermaré" ],
+			[ "enfermarás" ],
+			[ "enfermará" ],
+			[ "enfermaremos" ],
+			[ "enfermaréis", "enfermarán" ],
+			[ "enfermarán" ]
+		],
+		"8" : [
+			[ "enferme" ],
+			[ "enfermes" ],
+			[ "enferme" ],
+			[ "enfermemos" ],
+			[ "enferméis", "enfermen" ],
+			[ "enfermen" ]
+		],
+		"9" : [
+			[ "enfermara" ],
+			[ "enfermaras" ],
+			[ "enfermara" ],
+			[ "enfermáramos" ],
+			[ "enfermarais", "enfermaran" ],
+			[ "enfermaran" ]
+		],
+		"10" : [
+			[ "enfermase" ],
+			[ "enfermases" ],
+			[ "enfermase" ],
+			[ "enfermásemos" ],
+			[ "enfermaseis", "enfermasen" ],
+			[ "enfermasen" ]
+		],
+		"11" : [
+			[ "enfermare" ],
+			[ "enfermares" ],
+			[ "enfermare" ],
+			[ "enfermáremos" ],
+			[ "enfermareis", "enfermaren" ],
+			[ "enfermaren" ]
+		],
+		"12" : {
+			"1" : [ "enferma" ],
+			"2" : [ "enferme" ],
+			"3" : [ "enfermemos" ],
+			"4" : [ "enfermad" ],
+			"5" : [ "enfermen" ]
+		}
+	}
+}

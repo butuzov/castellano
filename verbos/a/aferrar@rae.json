@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aferrar",
+	"word" : "aferrar",
+	"infinitivo" : "aferrar",
+	"participio" : [ "aferrado" ],
+	"gerundio" : [ "aferrando" ],
+	"tenses" : {
+		"3" : [
+			[ "aferro" ],
+			[ "aferras", "aferrás" ],
+			[ "aferra" ],
+			[ "aferramos" ],
+			[ "aferráis", "aferran" ],
+			[ "aferran" ]
+		],
+		"4" : [
+			[ "aferré" ],
+			[ "aferraste" ],
+			[ "aferró" ],
+			[ "aferramos" ],
+			[ "aferrasteis", "aferraron" ],
+			[ "aferraron" ]
+		],
+		"5" : [
+			[ "aferraba" ],
+			[ "aferrabas" ],
+			[ "aferraba" ],
+			[ "aferrábamos" ],
+			[ "aferrabais", "aferraban" ],
+			[ "aferraban" ]
+		],
+		"6" : [
+			[ "aferraría" ],
+			[ "aferrarías" ],
+			[ "aferraría" ],
+			[ "aferraríamos" ],
+			[ "aferraríais", "aferrarían" ],
+			[ "aferrarían" ]
+		],
+		"7" : [
+			[ "aferraré" ],
+			[ "aferrarás" ],
+			[ "aferrará" ],
+			[ "aferraremos" ],
+			[ "aferraréis", "aferrarán" ],
+			[ "aferrarán" ]
+		],
+		"8" : [
+			[ "aferre" ],
+			[ "aferres" ],
+			[ "aferre" ],
+			[ "aferremos" ],
+			[ "aferréis", "aferren" ],
+			[ "aferren" ]
+		],
+		"9" : [
+			[ "aferrara" ],
+			[ "aferraras" ],
+			[ "aferrara" ],
+			[ "aferráramos" ],
+			[ "aferrarais", "aferraran" ],
+			[ "aferraran" ]
+		],
+		"10" : [
+			[ "aferrase" ],
+			[ "aferrases" ],
+			[ "aferrase" ],
+			[ "aferrásemos" ],
+			[ "aferraseis", "aferrasen" ],
+			[ "aferrasen" ]
+		],
+		"11" : [
+			[ "aferrare" ],
+			[ "aferrares" ],
+			[ "aferrare" ],
+			[ "aferráremos" ],
+			[ "aferrareis", "aferraren" ],
+			[ "aferraren" ]
+		],
+		"12" : {
+			"1" : [ "aferra" ],
+			"2" : [ "aferre" ],
+			"3" : [ "aferremos" ],
+			"4" : [ "aferrad" ],
+			"5" : [ "aferren" ]
+		}
+	}
+}

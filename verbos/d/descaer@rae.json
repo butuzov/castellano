@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descaer",
+	"word" : "descaer",
+	"infinitivo" : "descaer",
+	"participio" : [ "descaído" ],
+	"gerundio" : [ "descayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "descaigo" ],
+			[ "descaes", "descaés" ],
+			[ "descae" ],
+			[ "descaemos" ],
+			[ "descaéis", "descaen" ],
+			[ "descaen" ]
+		],
+		"4" : [
+			[ "descaí" ],
+			[ "descaíste" ],
+			[ "descayó" ],
+			[ "descaímos" ],
+			[ "descaísteis", "descayeron" ],
+			[ "descayeron" ]
+		],
+		"5" : [
+			[ "descaía" ],
+			[ "descaías" ],
+			[ "descaía" ],
+			[ "descaíamos" ],
+			[ "descaíais", "descaían" ],
+			[ "descaían" ]
+		],
+		"6" : [
+			[ "descaería" ],
+			[ "descaerías" ],
+			[ "descaería" ],
+			[ "descaeríamos" ],
+			[ "descaeríais", "descaerían" ],
+			[ "descaerían" ]
+		],
+		"7" : [
+			[ "descaeré" ],
+			[ "descaerás" ],
+			[ "descaerá" ],
+			[ "descaeremos" ],
+			[ "descaeréis", "descaerán" ],
+			[ "descaerán" ]
+		],
+		"8" : [
+			[ "descaiga" ],
+			[ "descaigas" ],
+			[ "descaiga" ],
+			[ "descaigamos" ],
+			[ "descaigáis", "descaigan" ],
+			[ "descaigan" ]
+		],
+		"9" : [
+			[ "descayera" ],
+			[ "descayeras" ],
+			[ "descayera" ],
+			[ "descayéramos" ],
+			[ "descayerais", "descayeran" ],
+			[ "descayeran" ]
+		],
+		"10" : [
+			[ "descayese" ],
+			[ "descayeses" ],
+			[ "descayese" ],
+			[ "descayésemos" ],
+			[ "descayeseis", "descayesen" ],
+			[ "descayesen" ]
+		],
+		"11" : [
+			[ "descayere" ],
+			[ "descayeres" ],
+			[ "descayere" ],
+			[ "descayéremos" ],
+			[ "descayereis", "descayeren" ],
+			[ "descayeren" ]
+		],
+		"12" : {
+			"1" : [ "descae" ],
+			"2" : [ "descaiga" ],
+			"3" : [ "descaigamos" ],
+			"4" : [ "descaed" ],
+			"5" : [ "descaigan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=calendar",
+	"word" : "calendar",
+	"infinitivo" : "calendar",
+	"participio" : [ "calendado" ],
+	"gerundio" : [ "calendando" ],
+	"tenses" : {
+		"3" : [
+			[ "calendo" ],
+			[ "calendas", "calendás" ],
+			[ "calenda" ],
+			[ "calendamos" ],
+			[ "calendáis", "calendan" ],
+			[ "calendan" ]
+		],
+		"4" : [
+			[ "calendé" ],
+			[ "calendaste" ],
+			[ "calendó" ],
+			[ "calendamos" ],
+			[ "calendasteis", "calendaron" ],
+			[ "calendaron" ]
+		],
+		"5" : [
+			[ "calendaba" ],
+			[ "calendabas" ],
+			[ "calendaba" ],
+			[ "calendábamos" ],
+			[ "calendabais", "calendaban" ],
+			[ "calendaban" ]
+		],
+		"6" : [
+			[ "calendaría" ],
+			[ "calendarías" ],
+			[ "calendaría" ],
+			[ "calendaríamos" ],
+			[ "calendaríais", "calendarían" ],
+			[ "calendarían" ]
+		],
+		"7" : [
+			[ "calendaré" ],
+			[ "calendarás" ],
+			[ "calendará" ],
+			[ "calendaremos" ],
+			[ "calendaréis", "calendarán" ],
+			[ "calendarán" ]
+		],
+		"8" : [
+			[ "calende" ],
+			[ "calendes" ],
+			[ "calende" ],
+			[ "calendemos" ],
+			[ "calendéis", "calenden" ],
+			[ "calenden" ]
+		],
+		"9" : [
+			[ "calendara" ],
+			[ "calendaras" ],
+			[ "calendara" ],
+			[ "calendáramos" ],
+			[ "calendarais", "calendaran" ],
+			[ "calendaran" ]
+		],
+		"10" : [
+			[ "calendase" ],
+			[ "calendases" ],
+			[ "calendase" ],
+			[ "calendásemos" ],
+			[ "calendaseis", "calendasen" ],
+			[ "calendasen" ]
+		],
+		"11" : [
+			[ "calendare" ],
+			[ "calendares" ],
+			[ "calendare" ],
+			[ "calendáremos" ],
+			[ "calendareis", "calendaren" ],
+			[ "calendaren" ]
+		],
+		"12" : {
+			"1" : [ "calenda" ],
+			"2" : [ "calende" ],
+			"3" : [ "calendemos" ],
+			"4" : [ "calendad" ],
+			"5" : [ "calenden" ]
+		}
+	}
+}

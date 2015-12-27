@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=consistir",
+	"word" : "consistir",
+	"infinitivo" : "consistir",
+	"participio" : [ "consistido" ],
+	"gerundio" : [ "consistiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "consisto" ],
+			[ "consistes", "consistís" ],
+			[ "consiste" ],
+			[ "consistimos" ],
+			[ "consistís", "consisten" ],
+			[ "consisten" ]
+		],
+		"4" : [
+			[ "consistí" ],
+			[ "consististe" ],
+			[ "consistió" ],
+			[ "consistimos" ],
+			[ "consististeis", "consistieron" ],
+			[ "consistieron" ]
+		],
+		"5" : [
+			[ "consistía" ],
+			[ "consistías" ],
+			[ "consistía" ],
+			[ "consistíamos" ],
+			[ "consistíais", "consistían" ],
+			[ "consistían" ]
+		],
+		"6" : [
+			[ "consistiría" ],
+			[ "consistirías" ],
+			[ "consistiría" ],
+			[ "consistiríamos" ],
+			[ "consistiríais", "consistirían" ],
+			[ "consistirían" ]
+		],
+		"7" : [
+			[ "consistiré" ],
+			[ "consistirás" ],
+			[ "consistirá" ],
+			[ "consistiremos" ],
+			[ "consistiréis", "consistirán" ],
+			[ "consistirán" ]
+		],
+		"8" : [
+			[ "consista" ],
+			[ "consistas" ],
+			[ "consista" ],
+			[ "consistamos" ],
+			[ "consistáis", "consistan" ],
+			[ "consistan" ]
+		],
+		"9" : [
+			[ "consistiera" ],
+			[ "consistieras" ],
+			[ "consistiera" ],
+			[ "consistiéramos" ],
+			[ "consistierais", "consistieran" ],
+			[ "consistieran" ]
+		],
+		"10" : [
+			[ "consistiese" ],
+			[ "consistieses" ],
+			[ "consistiese" ],
+			[ "consistiésemos" ],
+			[ "consistieseis", "consistiesen" ],
+			[ "consistiesen" ]
+		],
+		"11" : [
+			[ "consistiere" ],
+			[ "consistieres" ],
+			[ "consistiere" ],
+			[ "consistiéremos" ],
+			[ "consistiereis", "consistieren" ],
+			[ "consistieren" ]
+		],
+		"12" : {
+			"1" : [ "consiste" ],
+			"2" : [ "consista" ],
+			"3" : [ "consistamos" ],
+			"4" : [ "consistid" ],
+			"5" : [ "consistan" ]
+		}
+	}
+}

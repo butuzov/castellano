@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mediar",
+	"word" : "mediar",
+	"infinitivo" : "mediar",
+	"participio" : [ "mediado" ],
+	"gerundio" : [ "mediando" ],
+	"tenses" : {
+		"3" : [
+			[ "medio" ],
+			[ "medias", "mediás" ],
+			[ "media" ],
+			[ "mediamos" ],
+			[ "mediáis", "median" ],
+			[ "median" ]
+		],
+		"4" : [
+			[ "medié" ],
+			[ "mediaste" ],
+			[ "medió" ],
+			[ "mediamos" ],
+			[ "mediasteis", "mediaron" ],
+			[ "mediaron" ]
+		],
+		"5" : [
+			[ "mediaba" ],
+			[ "mediabas" ],
+			[ "mediaba" ],
+			[ "mediábamos" ],
+			[ "mediabais", "mediaban" ],
+			[ "mediaban" ]
+		],
+		"6" : [
+			[ "mediaría" ],
+			[ "mediarías" ],
+			[ "mediaría" ],
+			[ "mediaríamos" ],
+			[ "mediaríais", "mediarían" ],
+			[ "mediarían" ]
+		],
+		"7" : [
+			[ "mediaré" ],
+			[ "mediarás" ],
+			[ "mediará" ],
+			[ "mediaremos" ],
+			[ "mediaréis", "mediarán" ],
+			[ "mediarán" ]
+		],
+		"8" : [
+			[ "medie" ],
+			[ "medies" ],
+			[ "medie" ],
+			[ "mediemos" ],
+			[ "mediéis", "medien" ],
+			[ "medien" ]
+		],
+		"9" : [
+			[ "mediara" ],
+			[ "mediaras" ],
+			[ "mediara" ],
+			[ "mediáramos" ],
+			[ "mediarais", "mediaran" ],
+			[ "mediaran" ]
+		],
+		"10" : [
+			[ "mediase" ],
+			[ "mediases" ],
+			[ "mediase" ],
+			[ "mediásemos" ],
+			[ "mediaseis", "mediasen" ],
+			[ "mediasen" ]
+		],
+		"11" : [
+			[ "mediare" ],
+			[ "mediares" ],
+			[ "mediare" ],
+			[ "mediáremos" ],
+			[ "mediareis", "mediaren" ],
+			[ "mediaren" ]
+		],
+		"12" : {
+			"1" : [ "media" ],
+			"2" : [ "medie" ],
+			"3" : [ "mediemos" ],
+			"4" : [ "mediad" ],
+			"5" : [ "medien" ]
+		}
+	}
+}

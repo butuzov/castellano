@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adonecer",
+	"word" : "adonecer",
+	"infinitivo" : "adonecer",
+	"participio" : [ "adonecido" ],
+	"gerundio" : [ "adoneciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "adonezco" ],
+			[ "adoneces", "adonecés" ],
+			[ "adonece" ],
+			[ "adonecemos" ],
+			[ "adonecéis", "adonecen" ],
+			[ "adonecen" ]
+		],
+		"4" : [
+			[ "adonecí" ],
+			[ "adoneciste" ],
+			[ "adoneció" ],
+			[ "adonecimos" ],
+			[ "adonecisteis", "adonecieron" ],
+			[ "adonecieron" ]
+		],
+		"5" : [
+			[ "adonecía" ],
+			[ "adonecías" ],
+			[ "adonecía" ],
+			[ "adonecíamos" ],
+			[ "adonecíais", "adonecían" ],
+			[ "adonecían" ]
+		],
+		"6" : [
+			[ "adonecería" ],
+			[ "adonecerías" ],
+			[ "adonecería" ],
+			[ "adoneceríamos" ],
+			[ "adoneceríais", "adonecerían" ],
+			[ "adonecerían" ]
+		],
+		"7" : [
+			[ "adoneceré" ],
+			[ "adonecerás" ],
+			[ "adonecerá" ],
+			[ "adoneceremos" ],
+			[ "adoneceréis", "adonecerán" ],
+			[ "adonecerán" ]
+		],
+		"8" : [
+			[ "adonezca" ],
+			[ "adonezcas" ],
+			[ "adonezca" ],
+			[ "adonezcamos" ],
+			[ "adonezcáis", "adonezcan" ],
+			[ "adonezcan" ]
+		],
+		"9" : [
+			[ "adoneciera" ],
+			[ "adonecieras" ],
+			[ "adoneciera" ],
+			[ "adoneciéramos" ],
+			[ "adonecierais", "adonecieran" ],
+			[ "adonecieran" ]
+		],
+		"10" : [
+			[ "adoneciese" ],
+			[ "adonecieses" ],
+			[ "adoneciese" ],
+			[ "adoneciésemos" ],
+			[ "adonecieseis", "adoneciesen" ],
+			[ "adoneciesen" ]
+		],
+		"11" : [
+			[ "adoneciere" ],
+			[ "adonecieres" ],
+			[ "adoneciere" ],
+			[ "adoneciéremos" ],
+			[ "adoneciereis", "adonecieren" ],
+			[ "adonecieren" ]
+		],
+		"12" : {
+			"1" : [ "adonece" ],
+			"2" : [ "adonezca" ],
+			"3" : [ "adonezcamos" ],
+			"4" : [ "adoneced" ],
+			"5" : [ "adonezcan" ]
+		}
+	}
+}

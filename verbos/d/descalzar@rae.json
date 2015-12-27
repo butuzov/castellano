@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descalzar",
+	"word" : "descalzar",
+	"infinitivo" : "descalzar",
+	"participio" : [ "descalzado" ],
+	"gerundio" : [ "descalzando" ],
+	"tenses" : {
+		"3" : [
+			[ "descalzo" ],
+			[ "descalzas", "descalzás" ],
+			[ "descalza" ],
+			[ "descalzamos" ],
+			[ "descalzáis", "descalzan" ],
+			[ "descalzan" ]
+		],
+		"4" : [
+			[ "descalcé" ],
+			[ "descalzaste" ],
+			[ "descalzó" ],
+			[ "descalzamos" ],
+			[ "descalzasteis", "descalzaron" ],
+			[ "descalzaron" ]
+		],
+		"5" : [
+			[ "descalzaba" ],
+			[ "descalzabas" ],
+			[ "descalzaba" ],
+			[ "descalzábamos" ],
+			[ "descalzabais", "descalzaban" ],
+			[ "descalzaban" ]
+		],
+		"6" : [
+			[ "descalzaría" ],
+			[ "descalzarías" ],
+			[ "descalzaría" ],
+			[ "descalzaríamos" ],
+			[ "descalzaríais", "descalzarían" ],
+			[ "descalzarían" ]
+		],
+		"7" : [
+			[ "descalzaré" ],
+			[ "descalzarás" ],
+			[ "descalzará" ],
+			[ "descalzaremos" ],
+			[ "descalzaréis", "descalzarán" ],
+			[ "descalzarán" ]
+		],
+		"8" : [
+			[ "descalce" ],
+			[ "descalces" ],
+			[ "descalce" ],
+			[ "descalcemos" ],
+			[ "descalcéis", "descalcen" ],
+			[ "descalcen" ]
+		],
+		"9" : [
+			[ "descalzara" ],
+			[ "descalzaras" ],
+			[ "descalzara" ],
+			[ "descalzáramos" ],
+			[ "descalzarais", "descalzaran" ],
+			[ "descalzaran" ]
+		],
+		"10" : [
+			[ "descalzase" ],
+			[ "descalzases" ],
+			[ "descalzase" ],
+			[ "descalzásemos" ],
+			[ "descalzaseis", "descalzasen" ],
+			[ "descalzasen" ]
+		],
+		"11" : [
+			[ "descalzare" ],
+			[ "descalzares" ],
+			[ "descalzare" ],
+			[ "descalzáremos" ],
+			[ "descalzareis", "descalzaren" ],
+			[ "descalzaren" ]
+		],
+		"12" : {
+			"1" : [ "descalza" ],
+			"2" : [ "descalce" ],
+			"3" : [ "descalcemos" ],
+			"4" : [ "descalzad" ],
+			"5" : [ "descalcen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=preconocer",
+	"word" : "preconocer",
+	"infinitivo" : "preconocer",
+	"participio" : [ "preconocido" ],
+	"gerundio" : [ "preconociendo" ],
+	"tenses" : {
+		"3" : [
+			[ "preconozco" ],
+			[ "preconoces", "preconocés" ],
+			[ "preconoce" ],
+			[ "preconocemos" ],
+			[ "preconocéis", "preconocen" ],
+			[ "preconocen" ]
+		],
+		"4" : [
+			[ "preconocí" ],
+			[ "preconociste" ],
+			[ "preconoció" ],
+			[ "preconocimos" ],
+			[ "preconocisteis", "preconocieron" ],
+			[ "preconocieron" ]
+		],
+		"5" : [
+			[ "preconocía" ],
+			[ "preconocías" ],
+			[ "preconocía" ],
+			[ "preconocíamos" ],
+			[ "preconocíais", "preconocían" ],
+			[ "preconocían" ]
+		],
+		"6" : [
+			[ "preconocería" ],
+			[ "preconocerías" ],
+			[ "preconocería" ],
+			[ "preconoceríamos" ],
+			[ "preconoceríais", "preconocerían" ],
+			[ "preconocerían" ]
+		],
+		"7" : [
+			[ "preconoceré" ],
+			[ "preconocerás" ],
+			[ "preconocerá" ],
+			[ "preconoceremos" ],
+			[ "preconoceréis", "preconocerán" ],
+			[ "preconocerán" ]
+		],
+		"8" : [
+			[ "preconozca" ],
+			[ "preconozcas" ],
+			[ "preconozca" ],
+			[ "preconozcamos" ],
+			[ "preconozcáis", "preconozcan" ],
+			[ "preconozcan" ]
+		],
+		"9" : [
+			[ "preconociera" ],
+			[ "preconocieras" ],
+			[ "preconociera" ],
+			[ "preconociéramos" ],
+			[ "preconocierais", "preconocieran" ],
+			[ "preconocieran" ]
+		],
+		"10" : [
+			[ "preconociese" ],
+			[ "preconocieses" ],
+			[ "preconociese" ],
+			[ "preconociésemos" ],
+			[ "preconocieseis", "preconociesen" ],
+			[ "preconociesen" ]
+		],
+		"11" : [
+			[ "preconociere" ],
+			[ "preconocieres" ],
+			[ "preconociere" ],
+			[ "preconociéremos" ],
+			[ "preconociereis", "preconocieren" ],
+			[ "preconocieren" ]
+		],
+		"12" : {
+			"1" : [ "preconoce" ],
+			"2" : [ "preconozca" ],
+			"3" : [ "preconozcamos" ],
+			"4" : [ "preconoced" ],
+			"5" : [ "preconozcan" ]
+		}
+	}
+}

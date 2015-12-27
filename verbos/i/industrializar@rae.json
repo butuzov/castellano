@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=industrializar",
+	"word" : "industrializar",
+	"infinitivo" : "industrializar",
+	"participio" : [ "industrializado" ],
+	"gerundio" : [ "industrializando" ],
+	"tenses" : {
+		"3" : [
+			[ "industrializo" ],
+			[ "industrializas", "industrializás" ],
+			[ "industrializa" ],
+			[ "industrializamos" ],
+			[ "industrializáis", "industrializan" ],
+			[ "industrializan" ]
+		],
+		"4" : [
+			[ "industrialicé" ],
+			[ "industrializaste" ],
+			[ "industrializó" ],
+			[ "industrializamos" ],
+			[ "industrializasteis", "industrializaron" ],
+			[ "industrializaron" ]
+		],
+		"5" : [
+			[ "industrializaba" ],
+			[ "industrializabas" ],
+			[ "industrializaba" ],
+			[ "industrializábamos" ],
+			[ "industrializabais", "industrializaban" ],
+			[ "industrializaban" ]
+		],
+		"6" : [
+			[ "industrializaría" ],
+			[ "industrializarías" ],
+			[ "industrializaría" ],
+			[ "industrializaríamos" ],
+			[ "industrializaríais", "industrializarían" ],
+			[ "industrializarían" ]
+		],
+		"7" : [
+			[ "industrializaré" ],
+			[ "industrializarás" ],
+			[ "industrializará" ],
+			[ "industrializaremos" ],
+			[ "industrializaréis", "industrializarán" ],
+			[ "industrializarán" ]
+		],
+		"8" : [
+			[ "industrialice" ],
+			[ "industrialices" ],
+			[ "industrialice" ],
+			[ "industrialicemos" ],
+			[ "industrialicéis", "industrialicen" ],
+			[ "industrialicen" ]
+		],
+		"9" : [
+			[ "industrializara" ],
+			[ "industrializaras" ],
+			[ "industrializara" ],
+			[ "industrializáramos" ],
+			[ "industrializarais", "industrializaran" ],
+			[ "industrializaran" ]
+		],
+		"10" : [
+			[ "industrializase" ],
+			[ "industrializases" ],
+			[ "industrializase" ],
+			[ "industrializásemos" ],
+			[ "industrializaseis", "industrializasen" ],
+			[ "industrializasen" ]
+		],
+		"11" : [
+			[ "industrializare" ],
+			[ "industrializares" ],
+			[ "industrializare" ],
+			[ "industrializáremos" ],
+			[ "industrializareis", "industrializaren" ],
+			[ "industrializaren" ]
+		],
+		"12" : {
+			"1" : [ "industrializa" ],
+			"2" : [ "industrialice" ],
+			"3" : [ "industrialicemos" ],
+			"4" : [ "industrializad" ],
+			"5" : [ "industrialicen" ]
+		}
+	}
+}

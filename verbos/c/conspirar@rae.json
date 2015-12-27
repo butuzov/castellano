@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conspirar",
+	"word" : "conspirar",
+	"infinitivo" : "conspirar",
+	"participio" : [ "conspirado" ],
+	"gerundio" : [ "conspirando" ],
+	"tenses" : {
+		"3" : [
+			[ "conspiro" ],
+			[ "conspiras", "conspirás" ],
+			[ "conspira" ],
+			[ "conspiramos" ],
+			[ "conspiráis", "conspiran" ],
+			[ "conspiran" ]
+		],
+		"4" : [
+			[ "conspiré" ],
+			[ "conspiraste" ],
+			[ "conspiró" ],
+			[ "conspiramos" ],
+			[ "conspirasteis", "conspiraron" ],
+			[ "conspiraron" ]
+		],
+		"5" : [
+			[ "conspiraba" ],
+			[ "conspirabas" ],
+			[ "conspiraba" ],
+			[ "conspirábamos" ],
+			[ "conspirabais", "conspiraban" ],
+			[ "conspiraban" ]
+		],
+		"6" : [
+			[ "conspiraría" ],
+			[ "conspirarías" ],
+			[ "conspiraría" ],
+			[ "conspiraríamos" ],
+			[ "conspiraríais", "conspirarían" ],
+			[ "conspirarían" ]
+		],
+		"7" : [
+			[ "conspiraré" ],
+			[ "conspirarás" ],
+			[ "conspirará" ],
+			[ "conspiraremos" ],
+			[ "conspiraréis", "conspirarán" ],
+			[ "conspirarán" ]
+		],
+		"8" : [
+			[ "conspire" ],
+			[ "conspires" ],
+			[ "conspire" ],
+			[ "conspiremos" ],
+			[ "conspiréis", "conspiren" ],
+			[ "conspiren" ]
+		],
+		"9" : [
+			[ "conspirara" ],
+			[ "conspiraras" ],
+			[ "conspirara" ],
+			[ "conspiráramos" ],
+			[ "conspirarais", "conspiraran" ],
+			[ "conspiraran" ]
+		],
+		"10" : [
+			[ "conspirase" ],
+			[ "conspirases" ],
+			[ "conspirase" ],
+			[ "conspirásemos" ],
+			[ "conspiraseis", "conspirasen" ],
+			[ "conspirasen" ]
+		],
+		"11" : [
+			[ "conspirare" ],
+			[ "conspirares" ],
+			[ "conspirare" ],
+			[ "conspiráremos" ],
+			[ "conspirareis", "conspiraren" ],
+			[ "conspiraren" ]
+		],
+		"12" : {
+			"1" : [ "conspira" ],
+			"2" : [ "conspire" ],
+			"3" : [ "conspiremos" ],
+			"4" : [ "conspirad" ],
+			"5" : [ "conspiren" ]
+		}
+	}
+}

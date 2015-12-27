@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embarcar",
+	"word" : "embarcar",
+	"infinitivo" : "embarcar",
+	"participio" : [ "embarcado" ],
+	"gerundio" : [ "embarcando" ],
+	"tenses" : {
+		"3" : [
+			[ "embarco" ],
+			[ "embarcas", "embarcás" ],
+			[ "embarca" ],
+			[ "embarcamos" ],
+			[ "embarcáis", "embarcan" ],
+			[ "embarcan" ]
+		],
+		"4" : [
+			[ "embarqué" ],
+			[ "embarcaste" ],
+			[ "embarcó" ],
+			[ "embarcamos" ],
+			[ "embarcasteis", "embarcaron" ],
+			[ "embarcaron" ]
+		],
+		"5" : [
+			[ "embarcaba" ],
+			[ "embarcabas" ],
+			[ "embarcaba" ],
+			[ "embarcábamos" ],
+			[ "embarcabais", "embarcaban" ],
+			[ "embarcaban" ]
+		],
+		"6" : [
+			[ "embarcaría" ],
+			[ "embarcarías" ],
+			[ "embarcaría" ],
+			[ "embarcaríamos" ],
+			[ "embarcaríais", "embarcarían" ],
+			[ "embarcarían" ]
+		],
+		"7" : [
+			[ "embarcaré" ],
+			[ "embarcarás" ],
+			[ "embarcará" ],
+			[ "embarcaremos" ],
+			[ "embarcaréis", "embarcarán" ],
+			[ "embarcarán" ]
+		],
+		"8" : [
+			[ "embarque" ],
+			[ "embarques" ],
+			[ "embarque" ],
+			[ "embarquemos" ],
+			[ "embarquéis", "embarquen" ],
+			[ "embarquen" ]
+		],
+		"9" : [
+			[ "embarcara" ],
+			[ "embarcaras" ],
+			[ "embarcara" ],
+			[ "embarcáramos" ],
+			[ "embarcarais", "embarcaran" ],
+			[ "embarcaran" ]
+		],
+		"10" : [
+			[ "embarcase" ],
+			[ "embarcases" ],
+			[ "embarcase" ],
+			[ "embarcásemos" ],
+			[ "embarcaseis", "embarcasen" ],
+			[ "embarcasen" ]
+		],
+		"11" : [
+			[ "embarcare" ],
+			[ "embarcares" ],
+			[ "embarcare" ],
+			[ "embarcáremos" ],
+			[ "embarcareis", "embarcaren" ],
+			[ "embarcaren" ]
+		],
+		"12" : {
+			"1" : [ "embarca" ],
+			"2" : [ "embarque" ],
+			"3" : [ "embarquemos" ],
+			"4" : [ "embarcad" ],
+			"5" : [ "embarquen" ]
+		}
+	}
+}

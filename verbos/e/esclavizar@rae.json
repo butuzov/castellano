@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esclavizar",
+	"word" : "esclavizar",
+	"infinitivo" : "esclavizar",
+	"participio" : [ "esclavizado" ],
+	"gerundio" : [ "esclavizando" ],
+	"tenses" : {
+		"3" : [
+			[ "esclavizo" ],
+			[ "esclavizas", "esclavizás" ],
+			[ "esclaviza" ],
+			[ "esclavizamos" ],
+			[ "esclavizáis", "esclavizan" ],
+			[ "esclavizan" ]
+		],
+		"4" : [
+			[ "esclavicé" ],
+			[ "esclavizaste" ],
+			[ "esclavizó" ],
+			[ "esclavizamos" ],
+			[ "esclavizasteis", "esclavizaron" ],
+			[ "esclavizaron" ]
+		],
+		"5" : [
+			[ "esclavizaba" ],
+			[ "esclavizabas" ],
+			[ "esclavizaba" ],
+			[ "esclavizábamos" ],
+			[ "esclavizabais", "esclavizaban" ],
+			[ "esclavizaban" ]
+		],
+		"6" : [
+			[ "esclavizaría" ],
+			[ "esclavizarías" ],
+			[ "esclavizaría" ],
+			[ "esclavizaríamos" ],
+			[ "esclavizaríais", "esclavizarían" ],
+			[ "esclavizarían" ]
+		],
+		"7" : [
+			[ "esclavizaré" ],
+			[ "esclavizarás" ],
+			[ "esclavizará" ],
+			[ "esclavizaremos" ],
+			[ "esclavizaréis", "esclavizarán" ],
+			[ "esclavizarán" ]
+		],
+		"8" : [
+			[ "esclavice" ],
+			[ "esclavices" ],
+			[ "esclavice" ],
+			[ "esclavicemos" ],
+			[ "esclavicéis", "esclavicen" ],
+			[ "esclavicen" ]
+		],
+		"9" : [
+			[ "esclavizara" ],
+			[ "esclavizaras" ],
+			[ "esclavizara" ],
+			[ "esclavizáramos" ],
+			[ "esclavizarais", "esclavizaran" ],
+			[ "esclavizaran" ]
+		],
+		"10" : [
+			[ "esclavizase" ],
+			[ "esclavizases" ],
+			[ "esclavizase" ],
+			[ "esclavizásemos" ],
+			[ "esclavizaseis", "esclavizasen" ],
+			[ "esclavizasen" ]
+		],
+		"11" : [
+			[ "esclavizare" ],
+			[ "esclavizares" ],
+			[ "esclavizare" ],
+			[ "esclavizáremos" ],
+			[ "esclavizareis", "esclavizaren" ],
+			[ "esclavizaren" ]
+		],
+		"12" : {
+			"1" : [ "esclaviza" ],
+			"2" : [ "esclavice" ],
+			"3" : [ "esclavicemos" ],
+			"4" : [ "esclavizad" ],
+			"5" : [ "esclavicen" ]
+		}
+	}
+}

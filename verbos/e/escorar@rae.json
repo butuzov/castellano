@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escorar",
+	"word" : "escorar",
+	"infinitivo" : "escorar",
+	"participio" : [ "escorado" ],
+	"gerundio" : [ "escorando" ],
+	"tenses" : {
+		"3" : [
+			[ "escoro" ],
+			[ "escoras", "escorás" ],
+			[ "escora" ],
+			[ "escoramos" ],
+			[ "escoráis", "escoran" ],
+			[ "escoran" ]
+		],
+		"4" : [
+			[ "escoré" ],
+			[ "escoraste" ],
+			[ "escoró" ],
+			[ "escoramos" ],
+			[ "escorasteis", "escoraron" ],
+			[ "escoraron" ]
+		],
+		"5" : [
+			[ "escoraba" ],
+			[ "escorabas" ],
+			[ "escoraba" ],
+			[ "escorábamos" ],
+			[ "escorabais", "escoraban" ],
+			[ "escoraban" ]
+		],
+		"6" : [
+			[ "escoraría" ],
+			[ "escorarías" ],
+			[ "escoraría" ],
+			[ "escoraríamos" ],
+			[ "escoraríais", "escorarían" ],
+			[ "escorarían" ]
+		],
+		"7" : [
+			[ "escoraré" ],
+			[ "escorarás" ],
+			[ "escorará" ],
+			[ "escoraremos" ],
+			[ "escoraréis", "escorarán" ],
+			[ "escorarán" ]
+		],
+		"8" : [
+			[ "escore" ],
+			[ "escores" ],
+			[ "escore" ],
+			[ "escoremos" ],
+			[ "escoréis", "escoren" ],
+			[ "escoren" ]
+		],
+		"9" : [
+			[ "escorara" ],
+			[ "escoraras" ],
+			[ "escorara" ],
+			[ "escoráramos" ],
+			[ "escorarais", "escoraran" ],
+			[ "escoraran" ]
+		],
+		"10" : [
+			[ "escorase" ],
+			[ "escorases" ],
+			[ "escorase" ],
+			[ "escorásemos" ],
+			[ "escoraseis", "escorasen" ],
+			[ "escorasen" ]
+		],
+		"11" : [
+			[ "escorare" ],
+			[ "escorares" ],
+			[ "escorare" ],
+			[ "escoráremos" ],
+			[ "escorareis", "escoraren" ],
+			[ "escoraren" ]
+		],
+		"12" : {
+			"1" : [ "escora" ],
+			"2" : [ "escore" ],
+			"3" : [ "escoremos" ],
+			"4" : [ "escorad" ],
+			"5" : [ "escoren" ]
+		}
+	}
+}

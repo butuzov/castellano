@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vigilar",
+	"word" : "vigilar",
+	"infinitivo" : "vigilar",
+	"participio" : [ "vigilado" ],
+	"gerundio" : [ "vigilando" ],
+	"tenses" : {
+		"3" : [
+			[ "vigilo" ],
+			[ "vigilas", "vigilás" ],
+			[ "vigila" ],
+			[ "vigilamos" ],
+			[ "vigiláis", "vigilan" ],
+			[ "vigilan" ]
+		],
+		"4" : [
+			[ "vigilé" ],
+			[ "vigilaste" ],
+			[ "vigiló" ],
+			[ "vigilamos" ],
+			[ "vigilasteis", "vigilaron" ],
+			[ "vigilaron" ]
+		],
+		"5" : [
+			[ "vigilaba" ],
+			[ "vigilabas" ],
+			[ "vigilaba" ],
+			[ "vigilábamos" ],
+			[ "vigilabais", "vigilaban" ],
+			[ "vigilaban" ]
+		],
+		"6" : [
+			[ "vigilaría" ],
+			[ "vigilarías" ],
+			[ "vigilaría" ],
+			[ "vigilaríamos" ],
+			[ "vigilaríais", "vigilarían" ],
+			[ "vigilarían" ]
+		],
+		"7" : [
+			[ "vigilaré" ],
+			[ "vigilarás" ],
+			[ "vigilará" ],
+			[ "vigilaremos" ],
+			[ "vigilaréis", "vigilarán" ],
+			[ "vigilarán" ]
+		],
+		"8" : [
+			[ "vigile" ],
+			[ "vigiles" ],
+			[ "vigile" ],
+			[ "vigilemos" ],
+			[ "vigiléis", "vigilen" ],
+			[ "vigilen" ]
+		],
+		"9" : [
+			[ "vigilara" ],
+			[ "vigilaras" ],
+			[ "vigilara" ],
+			[ "vigiláramos" ],
+			[ "vigilarais", "vigilaran" ],
+			[ "vigilaran" ]
+		],
+		"10" : [
+			[ "vigilase" ],
+			[ "vigilases" ],
+			[ "vigilase" ],
+			[ "vigilásemos" ],
+			[ "vigilaseis", "vigilasen" ],
+			[ "vigilasen" ]
+		],
+		"11" : [
+			[ "vigilare" ],
+			[ "vigilares" ],
+			[ "vigilare" ],
+			[ "vigiláremos" ],
+			[ "vigilareis", "vigilaren" ],
+			[ "vigilaren" ]
+		],
+		"12" : {
+			"1" : [ "vigila" ],
+			"2" : [ "vigile" ],
+			"3" : [ "vigilemos" ],
+			"4" : [ "vigilad" ],
+			"5" : [ "vigilen" ]
+		}
+	}
+}

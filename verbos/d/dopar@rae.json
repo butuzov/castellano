@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dopar",
+	"word" : "dopar",
+	"infinitivo" : "dopar",
+	"participio" : [ "dopado" ],
+	"gerundio" : [ "dopando" ],
+	"tenses" : {
+		"3" : [
+			[ "dopo" ],
+			[ "dopas", "dopás" ],
+			[ "dopa" ],
+			[ "dopamos" ],
+			[ "dopáis", "dopan" ],
+			[ "dopan" ]
+		],
+		"4" : [
+			[ "dopé" ],
+			[ "dopaste" ],
+			[ "dopó" ],
+			[ "dopamos" ],
+			[ "dopasteis", "doparon" ],
+			[ "doparon" ]
+		],
+		"5" : [
+			[ "dopaba" ],
+			[ "dopabas" ],
+			[ "dopaba" ],
+			[ "dopábamos" ],
+			[ "dopabais", "dopaban" ],
+			[ "dopaban" ]
+		],
+		"6" : [
+			[ "doparía" ],
+			[ "doparías" ],
+			[ "doparía" ],
+			[ "doparíamos" ],
+			[ "doparíais", "doparían" ],
+			[ "doparían" ]
+		],
+		"7" : [
+			[ "doparé" ],
+			[ "doparás" ],
+			[ "dopará" ],
+			[ "doparemos" ],
+			[ "doparéis", "doparán" ],
+			[ "doparán" ]
+		],
+		"8" : [
+			[ "dope" ],
+			[ "dopes" ],
+			[ "dope" ],
+			[ "dopemos" ],
+			[ "dopéis", "dopen" ],
+			[ "dopen" ]
+		],
+		"9" : [
+			[ "dopara" ],
+			[ "doparas" ],
+			[ "dopara" ],
+			[ "dopáramos" ],
+			[ "doparais", "doparan" ],
+			[ "doparan" ]
+		],
+		"10" : [
+			[ "dopase" ],
+			[ "dopases" ],
+			[ "dopase" ],
+			[ "dopásemos" ],
+			[ "dopaseis", "dopasen" ],
+			[ "dopasen" ]
+		],
+		"11" : [
+			[ "dopare" ],
+			[ "dopares" ],
+			[ "dopare" ],
+			[ "dopáremos" ],
+			[ "dopareis", "doparen" ],
+			[ "doparen" ]
+		],
+		"12" : {
+			"1" : [ "dopa" ],
+			"2" : [ "dope" ],
+			"3" : [ "dopemos" ],
+			"4" : [ "dopad" ],
+			"5" : [ "dopen" ]
+		}
+	}
+}

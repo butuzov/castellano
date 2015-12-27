@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abemolar",
+	"word" : "abemolar",
+	"infinitivo" : "abemolar",
+	"participio" : [ "abemolado" ],
+	"gerundio" : [ "abemolando" ],
+	"tenses" : {
+		"3" : [
+			[ "abemolo" ],
+			[ "abemolas", "abemolás" ],
+			[ "abemola" ],
+			[ "abemolamos" ],
+			[ "abemoláis", "abemolan" ],
+			[ "abemolan" ]
+		],
+		"4" : [
+			[ "abemolé" ],
+			[ "abemolaste" ],
+			[ "abemoló" ],
+			[ "abemolamos" ],
+			[ "abemolasteis", "abemolaron" ],
+			[ "abemolaron" ]
+		],
+		"5" : [
+			[ "abemolaba" ],
+			[ "abemolabas" ],
+			[ "abemolaba" ],
+			[ "abemolábamos" ],
+			[ "abemolabais", "abemolaban" ],
+			[ "abemolaban" ]
+		],
+		"6" : [
+			[ "abemolaría" ],
+			[ "abemolarías" ],
+			[ "abemolaría" ],
+			[ "abemolaríamos" ],
+			[ "abemolaríais", "abemolarían" ],
+			[ "abemolarían" ]
+		],
+		"7" : [
+			[ "abemolaré" ],
+			[ "abemolarás" ],
+			[ "abemolará" ],
+			[ "abemolaremos" ],
+			[ "abemolaréis", "abemolarán" ],
+			[ "abemolarán" ]
+		],
+		"8" : [
+			[ "abemole" ],
+			[ "abemoles" ],
+			[ "abemole" ],
+			[ "abemolemos" ],
+			[ "abemoléis", "abemolen" ],
+			[ "abemolen" ]
+		],
+		"9" : [
+			[ "abemolara" ],
+			[ "abemolaras" ],
+			[ "abemolara" ],
+			[ "abemoláramos" ],
+			[ "abemolarais", "abemolaran" ],
+			[ "abemolaran" ]
+		],
+		"10" : [
+			[ "abemolase" ],
+			[ "abemolases" ],
+			[ "abemolase" ],
+			[ "abemolásemos" ],
+			[ "abemolaseis", "abemolasen" ],
+			[ "abemolasen" ]
+		],
+		"11" : [
+			[ "abemolare" ],
+			[ "abemolares" ],
+			[ "abemolare" ],
+			[ "abemoláremos" ],
+			[ "abemolareis", "abemolaren" ],
+			[ "abemolaren" ]
+		],
+		"12" : {
+			"1" : [ "abemola" ],
+			"2" : [ "abemole" ],
+			"3" : [ "abemolemos" ],
+			"4" : [ "abemolad" ],
+			"5" : [ "abemolen" ]
+		}
+	}
+}

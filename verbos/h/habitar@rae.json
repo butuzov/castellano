@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=habitar",
+	"word" : "habitar",
+	"infinitivo" : "habitar",
+	"participio" : [ "habitado" ],
+	"gerundio" : [ "habitando" ],
+	"tenses" : {
+		"3" : [
+			[ "habito" ],
+			[ "habitas", "habitás" ],
+			[ "habita" ],
+			[ "habitamos" ],
+			[ "habitáis", "habitan" ],
+			[ "habitan" ]
+		],
+		"4" : [
+			[ "habité" ],
+			[ "habitaste" ],
+			[ "habitó" ],
+			[ "habitamos" ],
+			[ "habitasteis", "habitaron" ],
+			[ "habitaron" ]
+		],
+		"5" : [
+			[ "habitaba" ],
+			[ "habitabas" ],
+			[ "habitaba" ],
+			[ "habitábamos" ],
+			[ "habitabais", "habitaban" ],
+			[ "habitaban" ]
+		],
+		"6" : [
+			[ "habitaría" ],
+			[ "habitarías" ],
+			[ "habitaría" ],
+			[ "habitaríamos" ],
+			[ "habitaríais", "habitarían" ],
+			[ "habitarían" ]
+		],
+		"7" : [
+			[ "habitaré" ],
+			[ "habitarás" ],
+			[ "habitará" ],
+			[ "habitaremos" ],
+			[ "habitaréis", "habitarán" ],
+			[ "habitarán" ]
+		],
+		"8" : [
+			[ "habite" ],
+			[ "habites" ],
+			[ "habite" ],
+			[ "habitemos" ],
+			[ "habitéis", "habiten" ],
+			[ "habiten" ]
+		],
+		"9" : [
+			[ "habitara" ],
+			[ "habitaras" ],
+			[ "habitara" ],
+			[ "habitáramos" ],
+			[ "habitarais", "habitaran" ],
+			[ "habitaran" ]
+		],
+		"10" : [
+			[ "habitase" ],
+			[ "habitases" ],
+			[ "habitase" ],
+			[ "habitásemos" ],
+			[ "habitaseis", "habitasen" ],
+			[ "habitasen" ]
+		],
+		"11" : [
+			[ "habitare" ],
+			[ "habitares" ],
+			[ "habitare" ],
+			[ "habitáremos" ],
+			[ "habitareis", "habitaren" ],
+			[ "habitaren" ]
+		],
+		"12" : {
+			"1" : [ "habita" ],
+			"2" : [ "habite" ],
+			"3" : [ "habitemos" ],
+			"4" : [ "habitad" ],
+			"5" : [ "habiten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=favorecer",
+	"word" : "favorecer",
+	"infinitivo" : "favorecer",
+	"participio" : [ "favorecido" ],
+	"gerundio" : [ "favoreciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "favorezco" ],
+			[ "favoreces", "favorecés" ],
+			[ "favorece" ],
+			[ "favorecemos" ],
+			[ "favorecéis", "favorecen" ],
+			[ "favorecen" ]
+		],
+		"4" : [
+			[ "favorecí" ],
+			[ "favoreciste" ],
+			[ "favoreció" ],
+			[ "favorecimos" ],
+			[ "favorecisteis", "favorecieron" ],
+			[ "favorecieron" ]
+		],
+		"5" : [
+			[ "favorecía" ],
+			[ "favorecías" ],
+			[ "favorecía" ],
+			[ "favorecíamos" ],
+			[ "favorecíais", "favorecían" ],
+			[ "favorecían" ]
+		],
+		"6" : [
+			[ "favorecería" ],
+			[ "favorecerías" ],
+			[ "favorecería" ],
+			[ "favoreceríamos" ],
+			[ "favoreceríais", "favorecerían" ],
+			[ "favorecerían" ]
+		],
+		"7" : [
+			[ "favoreceré" ],
+			[ "favorecerás" ],
+			[ "favorecerá" ],
+			[ "favoreceremos" ],
+			[ "favoreceréis", "favorecerán" ],
+			[ "favorecerán" ]
+		],
+		"8" : [
+			[ "favorezca" ],
+			[ "favorezcas" ],
+			[ "favorezca" ],
+			[ "favorezcamos" ],
+			[ "favorezcáis", "favorezcan" ],
+			[ "favorezcan" ]
+		],
+		"9" : [
+			[ "favoreciera" ],
+			[ "favorecieras" ],
+			[ "favoreciera" ],
+			[ "favoreciéramos" ],
+			[ "favorecierais", "favorecieran" ],
+			[ "favorecieran" ]
+		],
+		"10" : [
+			[ "favoreciese" ],
+			[ "favorecieses" ],
+			[ "favoreciese" ],
+			[ "favoreciésemos" ],
+			[ "favorecieseis", "favoreciesen" ],
+			[ "favoreciesen" ]
+		],
+		"11" : [
+			[ "favoreciere" ],
+			[ "favorecieres" ],
+			[ "favoreciere" ],
+			[ "favoreciéremos" ],
+			[ "favoreciereis", "favorecieren" ],
+			[ "favorecieren" ]
+		],
+		"12" : {
+			"1" : [ "favorece" ],
+			"2" : [ "favorezca" ],
+			"3" : [ "favorezcamos" ],
+			"4" : [ "favoreced" ],
+			"5" : [ "favorezcan" ]
+		}
+	}
+}

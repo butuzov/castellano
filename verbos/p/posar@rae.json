@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=posar",
+	"word" : "posar",
+	"infinitivo" : "posar",
+	"participio" : [ "posado" ],
+	"gerundio" : [ "posando" ],
+	"tenses" : {
+		"3" : [
+			[ "poso" ],
+			[ "posas", "posás" ],
+			[ "posa" ],
+			[ "posamos" ],
+			[ "posáis", "posan" ],
+			[ "posan" ]
+		],
+		"4" : [
+			[ "posé" ],
+			[ "posaste" ],
+			[ "posó" ],
+			[ "posamos" ],
+			[ "posasteis", "posaron" ],
+			[ "posaron" ]
+		],
+		"5" : [
+			[ "posaba" ],
+			[ "posabas" ],
+			[ "posaba" ],
+			[ "posábamos" ],
+			[ "posabais", "posaban" ],
+			[ "posaban" ]
+		],
+		"6" : [
+			[ "posaría" ],
+			[ "posarías" ],
+			[ "posaría" ],
+			[ "posaríamos" ],
+			[ "posaríais", "posarían" ],
+			[ "posarían" ]
+		],
+		"7" : [
+			[ "posaré" ],
+			[ "posarás" ],
+			[ "posará" ],
+			[ "posaremos" ],
+			[ "posaréis", "posarán" ],
+			[ "posarán" ]
+		],
+		"8" : [
+			[ "pose" ],
+			[ "poses" ],
+			[ "pose" ],
+			[ "posemos" ],
+			[ "poséis", "posen" ],
+			[ "posen" ]
+		],
+		"9" : [
+			[ "posara" ],
+			[ "posaras" ],
+			[ "posara" ],
+			[ "posáramos" ],
+			[ "posarais", "posaran" ],
+			[ "posaran" ]
+		],
+		"10" : [
+			[ "posase" ],
+			[ "posases" ],
+			[ "posase" ],
+			[ "posásemos" ],
+			[ "posaseis", "posasen" ],
+			[ "posasen" ]
+		],
+		"11" : [
+			[ "posare" ],
+			[ "posares" ],
+			[ "posare" ],
+			[ "posáremos" ],
+			[ "posareis", "posaren" ],
+			[ "posaren" ]
+		],
+		"12" : {
+			"1" : [ "posa" ],
+			"2" : [ "pose" ],
+			"3" : [ "posemos" ],
+			"4" : [ "posad" ],
+			"5" : [ "posen" ]
+		}
+	}
+}

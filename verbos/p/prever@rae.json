@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prever",
+	"word" : "prever",
+	"infinitivo" : "prever",
+	"participio" : [ "previsto" ],
+	"gerundio" : [ "previendo" ],
+	"tenses" : {
+		"3" : [
+			[ "preveo" ],
+			[ "prevés" ],
+			[ "prevé" ],
+			[ "prevemos" ],
+			[ "prevéis", "prevén" ],
+			[ "prevén" ]
+		],
+		"4" : [
+			[ "preví" ],
+			[ "previste" ],
+			[ "previó" ],
+			[ "previmos" ],
+			[ "previsteis", "previeron" ],
+			[ "previeron" ]
+		],
+		"5" : [
+			[ "preveía" ],
+			[ "preveías" ],
+			[ "preveía" ],
+			[ "preveíamos" ],
+			[ "preveíais", "preveían" ],
+			[ "preveían" ]
+		],
+		"6" : [
+			[ "prevería" ],
+			[ "preverías" ],
+			[ "prevería" ],
+			[ "preveríamos" ],
+			[ "preveríais", "preverían" ],
+			[ "preverían" ]
+		],
+		"7" : [
+			[ "preveré" ],
+			[ "preverás" ],
+			[ "preverá" ],
+			[ "preveremos" ],
+			[ "preveréis", "preverán" ],
+			[ "preverán" ]
+		],
+		"8" : [
+			[ "prevea" ],
+			[ "preveas" ],
+			[ "prevea" ],
+			[ "preveamos" ],
+			[ "preveáis", "prevean" ],
+			[ "prevean" ]
+		],
+		"9" : [
+			[ "previera" ],
+			[ "previeras" ],
+			[ "previera" ],
+			[ "previéramos" ],
+			[ "previerais", "previeran" ],
+			[ "previeran" ]
+		],
+		"10" : [
+			[ "previese" ],
+			[ "previeses" ],
+			[ "previese" ],
+			[ "previésemos" ],
+			[ "previeseis", "previesen" ],
+			[ "previesen" ]
+		],
+		"11" : [
+			[ "previere" ],
+			[ "previeres" ],
+			[ "previere" ],
+			[ "previéremos" ],
+			[ "previereis", "previeren" ],
+			[ "previeren" ]
+		],
+		"12" : {
+			"1" : [ "prevé" ],
+			"2" : [ "prevea" ],
+			"3" : [ "preveamos" ],
+			"4" : [ "preved" ],
+			"5" : [ "prevean" ]
+		}
+	}
+}

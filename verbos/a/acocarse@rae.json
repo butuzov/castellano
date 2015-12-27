@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acocarse",
+	"word" : "acocarse",
+	"infinitivo" : "acocarse",
+	"participio" : [ "acocado" ],
+	"gerundio" : [ "acocándome", "acocándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me acoco" ],
+			[ "te acocas", "te acocás" ],
+			[ "se acoca" ],
+			[ "nos acocamos" ],
+			[ "os acocáis", "se acocan" ],
+			[ "se acocan" ]
+		],
+		"4" : [
+			[ "me acoqué" ],
+			[ "te acocaste" ],
+			[ "se acocó" ],
+			[ "nos acocamos" ],
+			[ "os acocasteis", "se acocaron" ],
+			[ "se acocaron" ]
+		],
+		"5" : [
+			[ "me acocaba" ],
+			[ "te acocabas" ],
+			[ "se acocaba" ],
+			[ "nos acocábamos" ],
+			[ "os acocabais", "se acocaban" ],
+			[ "se acocaban" ]
+		],
+		"6" : [
+			[ "me acocaría" ],
+			[ "te acocarías" ],
+			[ "se acocaría" ],
+			[ "nos acocaríamos" ],
+			[ "os acocaríais", "se acocarían" ],
+			[ "se acocarían" ]
+		],
+		"7" : [
+			[ "me acocaré" ],
+			[ "te acocarás" ],
+			[ "se acocará" ],
+			[ "nos acocaremos" ],
+			[ "os acocaréis", "se acocarán" ],
+			[ "se acocarán" ]
+		],
+		"8" : [
+			[ "me acoque" ],
+			[ "te acoques" ],
+			[ "se acoque" ],
+			[ "nos acoquemos" ],
+			[ "os acoquéis", "se acoquen" ],
+			[ "se acoquen" ]
+		],
+		"9" : [
+			[ "me acocara" ],
+			[ "te acocaras" ],
+			[ "se acocara" ],
+			[ "nos acocáramos" ],
+			[ "os acocarais", "se acocaran" ],
+			[ "se acocaran" ]
+		],
+		"10" : [
+			[ "me acocase" ],
+			[ "te acocases" ],
+			[ "se acocase" ],
+			[ "nos acocásemos" ],
+			[ "os acocaseis", "se acocasen" ],
+			[ "se acocasen" ]
+		],
+		"11" : [
+			[ "me acocare" ],
+			[ "te acocares" ],
+			[ "se acocare" ],
+			[ "nos acocáremos" ],
+			[ "os acocareis", "se acocaren" ],
+			[ "se acocaren" ]
+		],
+		"12" : {
+			"1" : [ "acócate" ],
+			"2" : [ "acoque" ],
+			"3" : [ "acoquemos" ],
+			"4" : [ "acocaos" ],
+			"5" : [ "acóquense" ]
+		}
+	}
+}

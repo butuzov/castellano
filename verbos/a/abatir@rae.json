@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abatir",
+	"word" : "abatir",
+	"infinitivo" : "abatir",
+	"participio" : [ "abatido" ],
+	"gerundio" : [ "abatiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "abato" ],
+			[ "abates", "abatís" ],
+			[ "abate" ],
+			[ "abatimos" ],
+			[ "abatís", "abaten" ],
+			[ "abaten" ]
+		],
+		"4" : [
+			[ "abatí" ],
+			[ "abatiste" ],
+			[ "abatió" ],
+			[ "abatimos" ],
+			[ "abatisteis", "abatieron" ],
+			[ "abatieron" ]
+		],
+		"5" : [
+			[ "abatía" ],
+			[ "abatías" ],
+			[ "abatía" ],
+			[ "abatíamos" ],
+			[ "abatíais", "abatían" ],
+			[ "abatían" ]
+		],
+		"6" : [
+			[ "abatiría" ],
+			[ "abatirías" ],
+			[ "abatiría" ],
+			[ "abatiríamos" ],
+			[ "abatiríais", "abatirían" ],
+			[ "abatirían" ]
+		],
+		"7" : [
+			[ "abatiré" ],
+			[ "abatirás" ],
+			[ "abatirá" ],
+			[ "abatiremos" ],
+			[ "abatiréis", "abatirán" ],
+			[ "abatirán" ]
+		],
+		"8" : [
+			[ "abata" ],
+			[ "abatas" ],
+			[ "abata" ],
+			[ "abatamos" ],
+			[ "abatáis", "abatan" ],
+			[ "abatan" ]
+		],
+		"9" : [
+			[ "abatiera" ],
+			[ "abatieras" ],
+			[ "abatiera" ],
+			[ "abatiéramos" ],
+			[ "abatierais", "abatieran" ],
+			[ "abatieran" ]
+		],
+		"10" : [
+			[ "abatiese" ],
+			[ "abatieses" ],
+			[ "abatiese" ],
+			[ "abatiésemos" ],
+			[ "abatieseis", "abatiesen" ],
+			[ "abatiesen" ]
+		],
+		"11" : [
+			[ "abatiere" ],
+			[ "abatieres" ],
+			[ "abatiere" ],
+			[ "abatiéremos" ],
+			[ "abatiereis", "abatieren" ],
+			[ "abatieren" ]
+		],
+		"12" : {
+			"1" : [ "abate" ],
+			"2" : [ "abata" ],
+			"3" : [ "abatamos" ],
+			"4" : [ "abatid" ],
+			"5" : [ "abatan" ]
+		}
+	}
+}

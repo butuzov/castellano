@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repeler",
+	"word" : "repeler",
+	"infinitivo" : "repeler",
+	"participio" : [ "repelido" ],
+	"gerundio" : [ "repeliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "repelo" ],
+			[ "repeles", "repelés" ],
+			[ "repele" ],
+			[ "repelemos" ],
+			[ "repeléis", "repelen" ],
+			[ "repelen" ]
+		],
+		"4" : [
+			[ "repelí" ],
+			[ "repeliste" ],
+			[ "repelió" ],
+			[ "repelimos" ],
+			[ "repelisteis", "repelieron" ],
+			[ "repelieron" ]
+		],
+		"5" : [
+			[ "repelía" ],
+			[ "repelías" ],
+			[ "repelía" ],
+			[ "repelíamos" ],
+			[ "repelíais", "repelían" ],
+			[ "repelían" ]
+		],
+		"6" : [
+			[ "repelería" ],
+			[ "repelerías" ],
+			[ "repelería" ],
+			[ "repeleríamos" ],
+			[ "repeleríais", "repelerían" ],
+			[ "repelerían" ]
+		],
+		"7" : [
+			[ "repeleré" ],
+			[ "repelerás" ],
+			[ "repelerá" ],
+			[ "repeleremos" ],
+			[ "repeleréis", "repelerán" ],
+			[ "repelerán" ]
+		],
+		"8" : [
+			[ "repela" ],
+			[ "repelas" ],
+			[ "repela" ],
+			[ "repelamos" ],
+			[ "repeláis", "repelan" ],
+			[ "repelan" ]
+		],
+		"9" : [
+			[ "repeliera" ],
+			[ "repelieras" ],
+			[ "repeliera" ],
+			[ "repeliéramos" ],
+			[ "repelierais", "repelieran" ],
+			[ "repelieran" ]
+		],
+		"10" : [
+			[ "repeliese" ],
+			[ "repelieses" ],
+			[ "repeliese" ],
+			[ "repeliésemos" ],
+			[ "repelieseis", "repeliesen" ],
+			[ "repeliesen" ]
+		],
+		"11" : [
+			[ "repeliere" ],
+			[ "repelieres" ],
+			[ "repeliere" ],
+			[ "repeliéremos" ],
+			[ "repeliereis", "repelieren" ],
+			[ "repelieren" ]
+		],
+		"12" : {
+			"1" : [ "repele" ],
+			"2" : [ "repela" ],
+			"3" : [ "repelamos" ],
+			"4" : [ "repeled" ],
+			"5" : [ "repelan" ]
+		}
+	}
+}

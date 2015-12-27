@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remeter",
+	"word" : "remeter",
+	"infinitivo" : "remeter",
+	"participio" : [ "remetido" ],
+	"gerundio" : [ "remetiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "remeto" ],
+			[ "remetes", "remetés" ],
+			[ "remete" ],
+			[ "remetemos" ],
+			[ "remetéis", "remeten" ],
+			[ "remeten" ]
+		],
+		"4" : [
+			[ "remetí" ],
+			[ "remetiste" ],
+			[ "remetió" ],
+			[ "remetimos" ],
+			[ "remetisteis", "remetieron" ],
+			[ "remetieron" ]
+		],
+		"5" : [
+			[ "remetía" ],
+			[ "remetías" ],
+			[ "remetía" ],
+			[ "remetíamos" ],
+			[ "remetíais", "remetían" ],
+			[ "remetían" ]
+		],
+		"6" : [
+			[ "remetería" ],
+			[ "remeterías" ],
+			[ "remetería" ],
+			[ "remeteríamos" ],
+			[ "remeteríais", "remeterían" ],
+			[ "remeterían" ]
+		],
+		"7" : [
+			[ "remeteré" ],
+			[ "remeterás" ],
+			[ "remeterá" ],
+			[ "remeteremos" ],
+			[ "remeteréis", "remeterán" ],
+			[ "remeterán" ]
+		],
+		"8" : [
+			[ "remeta" ],
+			[ "remetas" ],
+			[ "remeta" ],
+			[ "remetamos" ],
+			[ "remetáis", "remetan" ],
+			[ "remetan" ]
+		],
+		"9" : [
+			[ "remetiera" ],
+			[ "remetieras" ],
+			[ "remetiera" ],
+			[ "remetiéramos" ],
+			[ "remetierais", "remetieran" ],
+			[ "remetieran" ]
+		],
+		"10" : [
+			[ "remetiese" ],
+			[ "remetieses" ],
+			[ "remetiese" ],
+			[ "remetiésemos" ],
+			[ "remetieseis", "remetiesen" ],
+			[ "remetiesen" ]
+		],
+		"11" : [
+			[ "remetiere" ],
+			[ "remetieres" ],
+			[ "remetiere" ],
+			[ "remetiéremos" ],
+			[ "remetiereis", "remetieren" ],
+			[ "remetieren" ]
+		],
+		"12" : {
+			"1" : [ "remete" ],
+			"2" : [ "remeta" ],
+			"3" : [ "remetamos" ],
+			"4" : [ "remeted" ],
+			"5" : [ "remetan" ]
+		}
+	}
+}

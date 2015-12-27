@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=revertir",
+	"word" : "revertir",
+	"infinitivo" : "revertir",
+	"participio" : [ "revertido" ],
+	"gerundio" : [ "revirtiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "revierto" ],
+			[ "reviertes", "revertís" ],
+			[ "revierte" ],
+			[ "revertimos" ],
+			[ "revertís", "revierten" ],
+			[ "revierten" ]
+		],
+		"4" : [
+			[ "revertí" ],
+			[ "revertiste" ],
+			[ "revirtió" ],
+			[ "revertimos" ],
+			[ "revertisteis", "revirtieron" ],
+			[ "revirtieron" ]
+		],
+		"5" : [
+			[ "revertía" ],
+			[ "revertías" ],
+			[ "revertía" ],
+			[ "revertíamos" ],
+			[ "revertíais", "revertían" ],
+			[ "revertían" ]
+		],
+		"6" : [
+			[ "revertiría" ],
+			[ "revertirías" ],
+			[ "revertiría" ],
+			[ "revertiríamos" ],
+			[ "revertiríais", "revertirían" ],
+			[ "revertirían" ]
+		],
+		"7" : [
+			[ "revertiré" ],
+			[ "revertirás" ],
+			[ "revertirá" ],
+			[ "revertiremos" ],
+			[ "revertiréis", "revertirán" ],
+			[ "revertirán" ]
+		],
+		"8" : [
+			[ "revierta" ],
+			[ "reviertas" ],
+			[ "revierta" ],
+			[ "revirtamos" ],
+			[ "revirtáis", "reviertan" ],
+			[ "reviertan" ]
+		],
+		"9" : [
+			[ "revirtiera" ],
+			[ "revirtieras" ],
+			[ "revirtiera" ],
+			[ "revirtiéramos" ],
+			[ "revirtierais", "revirtieran" ],
+			[ "revirtieran" ]
+		],
+		"10" : [
+			[ "revirtiese" ],
+			[ "revirtieses" ],
+			[ "revirtiese" ],
+			[ "revirtiésemos" ],
+			[ "revirtieseis", "revirtiesen" ],
+			[ "revirtiesen" ]
+		],
+		"11" : [
+			[ "revirtiere" ],
+			[ "revirtieres" ],
+			[ "revirtiere" ],
+			[ "revirtiéremos" ],
+			[ "revirtiereis", "revirtieren" ],
+			[ "revirtieren" ]
+		],
+		"12" : {
+			"1" : [ "revierte" ],
+			"2" : [ "revierta" ],
+			"3" : [ "revirtamos" ],
+			"4" : [ "revertid" ],
+			"5" : [ "reviertan" ]
+		}
+	}
+}

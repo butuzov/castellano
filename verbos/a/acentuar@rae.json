@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acentuar",
+	"word" : "acentuar",
+	"infinitivo" : "acentuar",
+	"participio" : [ "acentuado" ],
+	"gerundio" : [ "acentuando" ],
+	"tenses" : {
+		"3" : [
+			[ "acentúo" ],
+			[ "acentúas", "acentuás" ],
+			[ "acentúa" ],
+			[ "acentuamos" ],
+			[ "acentuáis", "acentúan" ],
+			[ "acentúan" ]
+		],
+		"4" : [
+			[ "acentué" ],
+			[ "acentuaste" ],
+			[ "acentuó" ],
+			[ "acentuamos" ],
+			[ "acentuasteis", "acentuaron" ],
+			[ "acentuaron" ]
+		],
+		"5" : [
+			[ "acentuaba" ],
+			[ "acentuabas" ],
+			[ "acentuaba" ],
+			[ "acentuábamos" ],
+			[ "acentuabais", "acentuaban" ],
+			[ "acentuaban" ]
+		],
+		"6" : [
+			[ "acentuaría" ],
+			[ "acentuarías" ],
+			[ "acentuaría" ],
+			[ "acentuaríamos" ],
+			[ "acentuaríais", "acentuarían" ],
+			[ "acentuarían" ]
+		],
+		"7" : [
+			[ "acentuaré" ],
+			[ "acentuarás" ],
+			[ "acentuará" ],
+			[ "acentuaremos" ],
+			[ "acentuaréis", "acentuarán" ],
+			[ "acentuarán" ]
+		],
+		"8" : [
+			[ "acentúe" ],
+			[ "acentúes" ],
+			[ "acentúe" ],
+			[ "acentuemos" ],
+			[ "acentuéis", "acentúen" ],
+			[ "acentúen" ]
+		],
+		"9" : [
+			[ "acentuara" ],
+			[ "acentuaras" ],
+			[ "acentuara" ],
+			[ "acentuáramos" ],
+			[ "acentuarais", "acentuaran" ],
+			[ "acentuaran" ]
+		],
+		"10" : [
+			[ "acentuase" ],
+			[ "acentuases" ],
+			[ "acentuase" ],
+			[ "acentuásemos" ],
+			[ "acentuaseis", "acentuasen" ],
+			[ "acentuasen" ]
+		],
+		"11" : [
+			[ "acentuare" ],
+			[ "acentuares" ],
+			[ "acentuare" ],
+			[ "acentuáremos" ],
+			[ "acentuareis", "acentuaren" ],
+			[ "acentuaren" ]
+		],
+		"12" : {
+			"1" : [ "acentúa" ],
+			"2" : [ "acentúe" ],
+			"3" : [ "acentuemos" ],
+			"4" : [ "acentuad" ],
+			"5" : [ "acentúen" ]
+		}
+	}
+}

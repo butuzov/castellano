@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recudir",
+	"word" : "recudir",
+	"infinitivo" : "recudir",
+	"participio" : [ "recudido" ],
+	"gerundio" : [ "recudiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "recudo" ],
+			[ "recudes", "recudís" ],
+			[ "recude" ],
+			[ "recudimos" ],
+			[ "recudís", "recuden" ],
+			[ "recuden" ]
+		],
+		"4" : [
+			[ "recudí" ],
+			[ "recudiste" ],
+			[ "recudió" ],
+			[ "recudimos" ],
+			[ "recudisteis", "recudieron" ],
+			[ "recudieron" ]
+		],
+		"5" : [
+			[ "recudía" ],
+			[ "recudías" ],
+			[ "recudía" ],
+			[ "recudíamos" ],
+			[ "recudíais", "recudían" ],
+			[ "recudían" ]
+		],
+		"6" : [
+			[ "recudiría" ],
+			[ "recudirías" ],
+			[ "recudiría" ],
+			[ "recudiríamos" ],
+			[ "recudiríais", "recudirían" ],
+			[ "recudirían" ]
+		],
+		"7" : [
+			[ "recudiré" ],
+			[ "recudirás" ],
+			[ "recudirá" ],
+			[ "recudiremos" ],
+			[ "recudiréis", "recudirán" ],
+			[ "recudirán" ]
+		],
+		"8" : [
+			[ "recuda" ],
+			[ "recudas" ],
+			[ "recuda" ],
+			[ "recudamos" ],
+			[ "recudáis", "recudan" ],
+			[ "recudan" ]
+		],
+		"9" : [
+			[ "recudiera" ],
+			[ "recudieras" ],
+			[ "recudiera" ],
+			[ "recudiéramos" ],
+			[ "recudierais", "recudieran" ],
+			[ "recudieran" ]
+		],
+		"10" : [
+			[ "recudiese" ],
+			[ "recudieses" ],
+			[ "recudiese" ],
+			[ "recudiésemos" ],
+			[ "recudieseis", "recudiesen" ],
+			[ "recudiesen" ]
+		],
+		"11" : [
+			[ "recudiere" ],
+			[ "recudieres" ],
+			[ "recudiere" ],
+			[ "recudiéremos" ],
+			[ "recudiereis", "recudieren" ],
+			[ "recudieren" ]
+		],
+		"12" : {
+			"1" : [ "recude" ],
+			"2" : [ "recuda" ],
+			"3" : [ "recudamos" ],
+			"4" : [ "recudid" ],
+			"5" : [ "recudan" ]
+		}
+	}
+}

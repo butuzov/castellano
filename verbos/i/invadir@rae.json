@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=invadir",
+	"word" : "invadir",
+	"infinitivo" : "invadir",
+	"participio" : [ "invadido" ],
+	"gerundio" : [ "invadiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "invado" ],
+			[ "invades", "invadís" ],
+			[ "invade" ],
+			[ "invadimos" ],
+			[ "invadís", "invaden" ],
+			[ "invaden" ]
+		],
+		"4" : [
+			[ "invadí" ],
+			[ "invadiste" ],
+			[ "invadió" ],
+			[ "invadimos" ],
+			[ "invadisteis", "invadieron" ],
+			[ "invadieron" ]
+		],
+		"5" : [
+			[ "invadía" ],
+			[ "invadías" ],
+			[ "invadía" ],
+			[ "invadíamos" ],
+			[ "invadíais", "invadían" ],
+			[ "invadían" ]
+		],
+		"6" : [
+			[ "invadiría" ],
+			[ "invadirías" ],
+			[ "invadiría" ],
+			[ "invadiríamos" ],
+			[ "invadiríais", "invadirían" ],
+			[ "invadirían" ]
+		],
+		"7" : [
+			[ "invadiré" ],
+			[ "invadirás" ],
+			[ "invadirá" ],
+			[ "invadiremos" ],
+			[ "invadiréis", "invadirán" ],
+			[ "invadirán" ]
+		],
+		"8" : [
+			[ "invada" ],
+			[ "invadas" ],
+			[ "invada" ],
+			[ "invadamos" ],
+			[ "invadáis", "invadan" ],
+			[ "invadan" ]
+		],
+		"9" : [
+			[ "invadiera" ],
+			[ "invadieras" ],
+			[ "invadiera" ],
+			[ "invadiéramos" ],
+			[ "invadierais", "invadieran" ],
+			[ "invadieran" ]
+		],
+		"10" : [
+			[ "invadiese" ],
+			[ "invadieses" ],
+			[ "invadiese" ],
+			[ "invadiésemos" ],
+			[ "invadieseis", "invadiesen" ],
+			[ "invadiesen" ]
+		],
+		"11" : [
+			[ "invadiere" ],
+			[ "invadieres" ],
+			[ "invadiere" ],
+			[ "invadiéremos" ],
+			[ "invadiereis", "invadieren" ],
+			[ "invadieren" ]
+		],
+		"12" : {
+			"1" : [ "invade" ],
+			"2" : [ "invada" ],
+			"3" : [ "invadamos" ],
+			"4" : [ "invadid" ],
+			"5" : [ "invadan" ]
+		}
+	}
+}

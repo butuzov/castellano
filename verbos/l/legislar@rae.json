@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=legislar",
+	"word" : "legislar",
+	"infinitivo" : "legislar",
+	"participio" : [ "legislado" ],
+	"gerundio" : [ "legislando" ],
+	"tenses" : {
+		"3" : [
+			[ "legislo" ],
+			[ "legislas", "legislás" ],
+			[ "legisla" ],
+			[ "legislamos" ],
+			[ "legisláis", "legislan" ],
+			[ "legislan" ]
+		],
+		"4" : [
+			[ "legislé" ],
+			[ "legislaste" ],
+			[ "legisló" ],
+			[ "legislamos" ],
+			[ "legislasteis", "legislaron" ],
+			[ "legislaron" ]
+		],
+		"5" : [
+			[ "legislaba" ],
+			[ "legislabas" ],
+			[ "legislaba" ],
+			[ "legislábamos" ],
+			[ "legislabais", "legislaban" ],
+			[ "legislaban" ]
+		],
+		"6" : [
+			[ "legislaría" ],
+			[ "legislarías" ],
+			[ "legislaría" ],
+			[ "legislaríamos" ],
+			[ "legislaríais", "legislarían" ],
+			[ "legislarían" ]
+		],
+		"7" : [
+			[ "legislaré" ],
+			[ "legislarás" ],
+			[ "legislará" ],
+			[ "legislaremos" ],
+			[ "legislaréis", "legislarán" ],
+			[ "legislarán" ]
+		],
+		"8" : [
+			[ "legisle" ],
+			[ "legisles" ],
+			[ "legisle" ],
+			[ "legislemos" ],
+			[ "legisléis", "legislen" ],
+			[ "legislen" ]
+		],
+		"9" : [
+			[ "legislara" ],
+			[ "legislaras" ],
+			[ "legislara" ],
+			[ "legisláramos" ],
+			[ "legislarais", "legislaran" ],
+			[ "legislaran" ]
+		],
+		"10" : [
+			[ "legislase" ],
+			[ "legislases" ],
+			[ "legislase" ],
+			[ "legislásemos" ],
+			[ "legislaseis", "legislasen" ],
+			[ "legislasen" ]
+		],
+		"11" : [
+			[ "legislare" ],
+			[ "legislares" ],
+			[ "legislare" ],
+			[ "legisláremos" ],
+			[ "legislareis", "legislaren" ],
+			[ "legislaren" ]
+		],
+		"12" : {
+			"1" : [ "legisla" ],
+			"2" : [ "legisle" ],
+			"3" : [ "legislemos" ],
+			"4" : [ "legislad" ],
+			"5" : [ "legislen" ]
+		}
+	}
+}

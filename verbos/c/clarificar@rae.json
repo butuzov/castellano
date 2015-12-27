@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=clarificar",
+	"word" : "clarificar",
+	"infinitivo" : "clarificar",
+	"participio" : [ "clarificado" ],
+	"gerundio" : [ "clarificando" ],
+	"tenses" : {
+		"3" : [
+			[ "clarifico" ],
+			[ "clarificas", "clarificás" ],
+			[ "clarifica" ],
+			[ "clarificamos" ],
+			[ "clarificáis", "clarifican" ],
+			[ "clarifican" ]
+		],
+		"4" : [
+			[ "clarifiqué" ],
+			[ "clarificaste" ],
+			[ "clarificó" ],
+			[ "clarificamos" ],
+			[ "clarificasteis", "clarificaron" ],
+			[ "clarificaron" ]
+		],
+		"5" : [
+			[ "clarificaba" ],
+			[ "clarificabas" ],
+			[ "clarificaba" ],
+			[ "clarificábamos" ],
+			[ "clarificabais", "clarificaban" ],
+			[ "clarificaban" ]
+		],
+		"6" : [
+			[ "clarificaría" ],
+			[ "clarificarías" ],
+			[ "clarificaría" ],
+			[ "clarificaríamos" ],
+			[ "clarificaríais", "clarificarían" ],
+			[ "clarificarían" ]
+		],
+		"7" : [
+			[ "clarificaré" ],
+			[ "clarificarás" ],
+			[ "clarificará" ],
+			[ "clarificaremos" ],
+			[ "clarificaréis", "clarificarán" ],
+			[ "clarificarán" ]
+		],
+		"8" : [
+			[ "clarifique" ],
+			[ "clarifiques" ],
+			[ "clarifique" ],
+			[ "clarifiquemos" ],
+			[ "clarifiquéis", "clarifiquen" ],
+			[ "clarifiquen" ]
+		],
+		"9" : [
+			[ "clarificara" ],
+			[ "clarificaras" ],
+			[ "clarificara" ],
+			[ "clarificáramos" ],
+			[ "clarificarais", "clarificaran" ],
+			[ "clarificaran" ]
+		],
+		"10" : [
+			[ "clarificase" ],
+			[ "clarificases" ],
+			[ "clarificase" ],
+			[ "clarificásemos" ],
+			[ "clarificaseis", "clarificasen" ],
+			[ "clarificasen" ]
+		],
+		"11" : [
+			[ "clarificare" ],
+			[ "clarificares" ],
+			[ "clarificare" ],
+			[ "clarificáremos" ],
+			[ "clarificareis", "clarificaren" ],
+			[ "clarificaren" ]
+		],
+		"12" : {
+			"1" : [ "clarifica" ],
+			"2" : [ "clarifique" ],
+			"3" : [ "clarifiquemos" ],
+			"4" : [ "clarificad" ],
+			"5" : [ "clarifiquen" ]
+		}
+	}
+}

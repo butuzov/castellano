@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=elevar",
+	"word" : "elevar",
+	"infinitivo" : "elevar",
+	"participio" : [ "elevado" ],
+	"gerundio" : [ "elevando" ],
+	"tenses" : {
+		"3" : [
+			[ "elevo" ],
+			[ "elevas", "elevás" ],
+			[ "eleva" ],
+			[ "elevamos" ],
+			[ "eleváis", "elevan" ],
+			[ "elevan" ]
+		],
+		"4" : [
+			[ "elevé" ],
+			[ "elevaste" ],
+			[ "elevó" ],
+			[ "elevamos" ],
+			[ "elevasteis", "elevaron" ],
+			[ "elevaron" ]
+		],
+		"5" : [
+			[ "elevaba" ],
+			[ "elevabas" ],
+			[ "elevaba" ],
+			[ "elevábamos" ],
+			[ "elevabais", "elevaban" ],
+			[ "elevaban" ]
+		],
+		"6" : [
+			[ "elevaría" ],
+			[ "elevarías" ],
+			[ "elevaría" ],
+			[ "elevaríamos" ],
+			[ "elevaríais", "elevarían" ],
+			[ "elevarían" ]
+		],
+		"7" : [
+			[ "elevaré" ],
+			[ "elevarás" ],
+			[ "elevará" ],
+			[ "elevaremos" ],
+			[ "elevaréis", "elevarán" ],
+			[ "elevarán" ]
+		],
+		"8" : [
+			[ "eleve" ],
+			[ "eleves" ],
+			[ "eleve" ],
+			[ "elevemos" ],
+			[ "elevéis", "eleven" ],
+			[ "eleven" ]
+		],
+		"9" : [
+			[ "elevara" ],
+			[ "elevaras" ],
+			[ "elevara" ],
+			[ "eleváramos" ],
+			[ "elevarais", "elevaran" ],
+			[ "elevaran" ]
+		],
+		"10" : [
+			[ "elevase" ],
+			[ "elevases" ],
+			[ "elevase" ],
+			[ "elevásemos" ],
+			[ "elevaseis", "elevasen" ],
+			[ "elevasen" ]
+		],
+		"11" : [
+			[ "elevare" ],
+			[ "elevares" ],
+			[ "elevare" ],
+			[ "eleváremos" ],
+			[ "elevareis", "elevaren" ],
+			[ "elevaren" ]
+		],
+		"12" : {
+			"1" : [ "eleva" ],
+			"2" : [ "eleve" ],
+			"3" : [ "elevemos" ],
+			"4" : [ "elevad" ],
+			"5" : [ "eleven" ]
+		}
+	}
+}

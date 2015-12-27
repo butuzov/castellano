@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=compilar",
+	"word" : "compilar",
+	"infinitivo" : "compilar",
+	"participio" : [ "compilado" ],
+	"gerundio" : [ "compilando" ],
+	"tenses" : {
+		"3" : [
+			[ "compilo" ],
+			[ "compilas", "compilás" ],
+			[ "compila" ],
+			[ "compilamos" ],
+			[ "compiláis", "compilan" ],
+			[ "compilan" ]
+		],
+		"4" : [
+			[ "compilé" ],
+			[ "compilaste" ],
+			[ "compiló" ],
+			[ "compilamos" ],
+			[ "compilasteis", "compilaron" ],
+			[ "compilaron" ]
+		],
+		"5" : [
+			[ "compilaba" ],
+			[ "compilabas" ],
+			[ "compilaba" ],
+			[ "compilábamos" ],
+			[ "compilabais", "compilaban" ],
+			[ "compilaban" ]
+		],
+		"6" : [
+			[ "compilaría" ],
+			[ "compilarías" ],
+			[ "compilaría" ],
+			[ "compilaríamos" ],
+			[ "compilaríais", "compilarían" ],
+			[ "compilarían" ]
+		],
+		"7" : [
+			[ "compilaré" ],
+			[ "compilarás" ],
+			[ "compilará" ],
+			[ "compilaremos" ],
+			[ "compilaréis", "compilarán" ],
+			[ "compilarán" ]
+		],
+		"8" : [
+			[ "compile" ],
+			[ "compiles" ],
+			[ "compile" ],
+			[ "compilemos" ],
+			[ "compiléis", "compilen" ],
+			[ "compilen" ]
+		],
+		"9" : [
+			[ "compilara" ],
+			[ "compilaras" ],
+			[ "compilara" ],
+			[ "compiláramos" ],
+			[ "compilarais", "compilaran" ],
+			[ "compilaran" ]
+		],
+		"10" : [
+			[ "compilase" ],
+			[ "compilases" ],
+			[ "compilase" ],
+			[ "compilásemos" ],
+			[ "compilaseis", "compilasen" ],
+			[ "compilasen" ]
+		],
+		"11" : [
+			[ "compilare" ],
+			[ "compilares" ],
+			[ "compilare" ],
+			[ "compiláremos" ],
+			[ "compilareis", "compilaren" ],
+			[ "compilaren" ]
+		],
+		"12" : {
+			"1" : [ "compila" ],
+			"2" : [ "compile" ],
+			"3" : [ "compilemos" ],
+			"4" : [ "compilad" ],
+			"5" : [ "compilen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=humedecer",
+	"word" : "humedecer",
+	"infinitivo" : "humedecer",
+	"participio" : [ "humedecido" ],
+	"gerundio" : [ "humedeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "humedezco" ],
+			[ "humedeces", "humedecés" ],
+			[ "humedece" ],
+			[ "humedecemos" ],
+			[ "humedecéis", "humedecen" ],
+			[ "humedecen" ]
+		],
+		"4" : [
+			[ "humedecí" ],
+			[ "humedeciste" ],
+			[ "humedeció" ],
+			[ "humedecimos" ],
+			[ "humedecisteis", "humedecieron" ],
+			[ "humedecieron" ]
+		],
+		"5" : [
+			[ "humedecía" ],
+			[ "humedecías" ],
+			[ "humedecía" ],
+			[ "humedecíamos" ],
+			[ "humedecíais", "humedecían" ],
+			[ "humedecían" ]
+		],
+		"6" : [
+			[ "humedecería" ],
+			[ "humedecerías" ],
+			[ "humedecería" ],
+			[ "humedeceríamos" ],
+			[ "humedeceríais", "humedecerían" ],
+			[ "humedecerían" ]
+		],
+		"7" : [
+			[ "humedeceré" ],
+			[ "humedecerás" ],
+			[ "humedecerá" ],
+			[ "humedeceremos" ],
+			[ "humedeceréis", "humedecerán" ],
+			[ "humedecerán" ]
+		],
+		"8" : [
+			[ "humedezca" ],
+			[ "humedezcas" ],
+			[ "humedezca" ],
+			[ "humedezcamos" ],
+			[ "humedezcáis", "humedezcan" ],
+			[ "humedezcan" ]
+		],
+		"9" : [
+			[ "humedeciera" ],
+			[ "humedecieras" ],
+			[ "humedeciera" ],
+			[ "humedeciéramos" ],
+			[ "humedecierais", "humedecieran" ],
+			[ "humedecieran" ]
+		],
+		"10" : [
+			[ "humedeciese" ],
+			[ "humedecieses" ],
+			[ "humedeciese" ],
+			[ "humedeciésemos" ],
+			[ "humedecieseis", "humedeciesen" ],
+			[ "humedeciesen" ]
+		],
+		"11" : [
+			[ "humedeciere" ],
+			[ "humedecieres" ],
+			[ "humedeciere" ],
+			[ "humedeciéremos" ],
+			[ "humedeciereis", "humedecieren" ],
+			[ "humedecieren" ]
+		],
+		"12" : {
+			"1" : [ "humedece" ],
+			"2" : [ "humedezca" ],
+			"3" : [ "humedezcamos" ],
+			"4" : [ "humedeced" ],
+			"5" : [ "humedezcan" ]
+		}
+	}
+}

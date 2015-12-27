@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mapear",
+	"word" : "mapear",
+	"infinitivo" : "mapear",
+	"participio" : [ "mapeado" ],
+	"gerundio" : [ "mapeando" ],
+	"tenses" : {
+		"3" : [
+			[ "mapeo" ],
+			[ "mapeas", "mapeás" ],
+			[ "mapea" ],
+			[ "mapeamos" ],
+			[ "mapeáis", "mapean" ],
+			[ "mapean" ]
+		],
+		"4" : [
+			[ "mapeé" ],
+			[ "mapeaste" ],
+			[ "mapeó" ],
+			[ "mapeamos" ],
+			[ "mapeasteis", "mapearon" ],
+			[ "mapearon" ]
+		],
+		"5" : [
+			[ "mapeaba" ],
+			[ "mapeabas" ],
+			[ "mapeaba" ],
+			[ "mapeábamos" ],
+			[ "mapeabais", "mapeaban" ],
+			[ "mapeaban" ]
+		],
+		"6" : [
+			[ "mapearía" ],
+			[ "mapearías" ],
+			[ "mapearía" ],
+			[ "mapearíamos" ],
+			[ "mapearíais", "mapearían" ],
+			[ "mapearían" ]
+		],
+		"7" : [
+			[ "mapearé" ],
+			[ "mapearás" ],
+			[ "mapeará" ],
+			[ "mapearemos" ],
+			[ "mapearéis", "mapearán" ],
+			[ "mapearán" ]
+		],
+		"8" : [
+			[ "mapee" ],
+			[ "mapees" ],
+			[ "mapee" ],
+			[ "mapeemos" ],
+			[ "mapeéis", "mapeen" ],
+			[ "mapeen" ]
+		],
+		"9" : [
+			[ "mapeara" ],
+			[ "mapearas" ],
+			[ "mapeara" ],
+			[ "mapeáramos" ],
+			[ "mapearais", "mapearan" ],
+			[ "mapearan" ]
+		],
+		"10" : [
+			[ "mapease" ],
+			[ "mapeases" ],
+			[ "mapease" ],
+			[ "mapeásemos" ],
+			[ "mapeaseis", "mapeasen" ],
+			[ "mapeasen" ]
+		],
+		"11" : [
+			[ "mapeare" ],
+			[ "mapeares" ],
+			[ "mapeare" ],
+			[ "mapeáremos" ],
+			[ "mapeareis", "mapearen" ],
+			[ "mapearen" ]
+		],
+		"12" : {
+			"1" : [ "mapea" ],
+			"2" : [ "mapee" ],
+			"3" : [ "mapeemos" ],
+			"4" : [ "mapead" ],
+			"5" : [ "mapeen" ]
+		}
+	}
+}

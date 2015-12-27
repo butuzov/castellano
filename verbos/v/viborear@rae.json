@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=viborear",
+	"word" : "viborear",
+	"infinitivo" : "viborear",
+	"participio" : [ "viboreado" ],
+	"gerundio" : [ "viboreando" ],
+	"tenses" : {
+		"3" : [
+			[ "viboreo" ],
+			[ "viboreas", "viboreás" ],
+			[ "viborea" ],
+			[ "viboreamos" ],
+			[ "viboreáis", "viborean" ],
+			[ "viborean" ]
+		],
+		"4" : [
+			[ "viboreé" ],
+			[ "viboreaste" ],
+			[ "viboreó" ],
+			[ "viboreamos" ],
+			[ "viboreasteis", "viborearon" ],
+			[ "viborearon" ]
+		],
+		"5" : [
+			[ "viboreaba" ],
+			[ "viboreabas" ],
+			[ "viboreaba" ],
+			[ "viboreábamos" ],
+			[ "viboreabais", "viboreaban" ],
+			[ "viboreaban" ]
+		],
+		"6" : [
+			[ "viborearía" ],
+			[ "viborearías" ],
+			[ "viborearía" ],
+			[ "viborearíamos" ],
+			[ "viborearíais", "viborearían" ],
+			[ "viborearían" ]
+		],
+		"7" : [
+			[ "viborearé" ],
+			[ "viborearás" ],
+			[ "viboreará" ],
+			[ "viborearemos" ],
+			[ "viborearéis", "viborearán" ],
+			[ "viborearán" ]
+		],
+		"8" : [
+			[ "viboree" ],
+			[ "viborees" ],
+			[ "viboree" ],
+			[ "viboreemos" ],
+			[ "viboreéis", "viboreen" ],
+			[ "viboreen" ]
+		],
+		"9" : [
+			[ "viboreara" ],
+			[ "viborearas" ],
+			[ "viboreara" ],
+			[ "viboreáramos" ],
+			[ "viborearais", "viborearan" ],
+			[ "viborearan" ]
+		],
+		"10" : [
+			[ "viborease" ],
+			[ "viboreases" ],
+			[ "viborease" ],
+			[ "viboreásemos" ],
+			[ "viboreaseis", "viboreasen" ],
+			[ "viboreasen" ]
+		],
+		"11" : [
+			[ "viboreare" ],
+			[ "viboreares" ],
+			[ "viboreare" ],
+			[ "viboreáremos" ],
+			[ "viboreareis", "viborearen" ],
+			[ "viborearen" ]
+		],
+		"12" : {
+			"1" : [ "viborea" ],
+			"2" : [ "viboree" ],
+			"3" : [ "viboreemos" ],
+			"4" : [ "viboread" ],
+			"5" : [ "viboreen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=releer",
+	"word" : "releer",
+	"infinitivo" : "releer",
+	"participio" : [ "releído" ],
+	"gerundio" : [ "releyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "releo" ],
+			[ "relees", "releés" ],
+			[ "relee" ],
+			[ "releemos" ],
+			[ "releéis", "releen" ],
+			[ "releen" ]
+		],
+		"4" : [
+			[ "releí" ],
+			[ "releíste" ],
+			[ "releyó" ],
+			[ "releímos" ],
+			[ "releísteis", "releyeron" ],
+			[ "releyeron" ]
+		],
+		"5" : [
+			[ "releía" ],
+			[ "releías" ],
+			[ "releía" ],
+			[ "releíamos" ],
+			[ "releíais", "releían" ],
+			[ "releían" ]
+		],
+		"6" : [
+			[ "releería" ],
+			[ "releerías" ],
+			[ "releería" ],
+			[ "releeríamos" ],
+			[ "releeríais", "releerían" ],
+			[ "releerían" ]
+		],
+		"7" : [
+			[ "releeré" ],
+			[ "releerás" ],
+			[ "releerá" ],
+			[ "releeremos" ],
+			[ "releeréis", "releerán" ],
+			[ "releerán" ]
+		],
+		"8" : [
+			[ "relea" ],
+			[ "releas" ],
+			[ "relea" ],
+			[ "releamos" ],
+			[ "releáis", "relean" ],
+			[ "relean" ]
+		],
+		"9" : [
+			[ "releyera" ],
+			[ "releyeras" ],
+			[ "releyera" ],
+			[ "releyéramos" ],
+			[ "releyerais", "releyeran" ],
+			[ "releyeran" ]
+		],
+		"10" : [
+			[ "releyese" ],
+			[ "releyeses" ],
+			[ "releyese" ],
+			[ "releyésemos" ],
+			[ "releyeseis", "releyesen" ],
+			[ "releyesen" ]
+		],
+		"11" : [
+			[ "releyere" ],
+			[ "releyeres" ],
+			[ "releyere" ],
+			[ "releyéremos" ],
+			[ "releyereis", "releyeren" ],
+			[ "releyeren" ]
+		],
+		"12" : {
+			"1" : [ "relee" ],
+			"2" : [ "relea" ],
+			"3" : [ "releamos" ],
+			"4" : [ "releed" ],
+			"5" : [ "relean" ]
+		}
+	}
+}

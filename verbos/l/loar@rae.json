@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=loar",
+	"word" : "loar",
+	"infinitivo" : "loar",
+	"participio" : [ "loado" ],
+	"gerundio" : [ "loando" ],
+	"tenses" : {
+		"3" : [
+			[ "loo" ],
+			[ "loas", "loás" ],
+			[ "loa" ],
+			[ "loamos" ],
+			[ "loáis", "loan" ],
+			[ "loan" ]
+		],
+		"4" : [
+			[ "loé" ],
+			[ "loaste" ],
+			[ "loó" ],
+			[ "loamos" ],
+			[ "loasteis", "loaron" ],
+			[ "loaron" ]
+		],
+		"5" : [
+			[ "loaba" ],
+			[ "loabas" ],
+			[ "loaba" ],
+			[ "loábamos" ],
+			[ "loabais", "loaban" ],
+			[ "loaban" ]
+		],
+		"6" : [
+			[ "loaría" ],
+			[ "loarías" ],
+			[ "loaría" ],
+			[ "loaríamos" ],
+			[ "loaríais", "loarían" ],
+			[ "loarían" ]
+		],
+		"7" : [
+			[ "loaré" ],
+			[ "loarás" ],
+			[ "loará" ],
+			[ "loaremos" ],
+			[ "loaréis", "loarán" ],
+			[ "loarán" ]
+		],
+		"8" : [
+			[ "loe" ],
+			[ "loes" ],
+			[ "loe" ],
+			[ "loemos" ],
+			[ "loéis", "loen" ],
+			[ "loen" ]
+		],
+		"9" : [
+			[ "loara" ],
+			[ "loaras" ],
+			[ "loara" ],
+			[ "loáramos" ],
+			[ "loarais", "loaran" ],
+			[ "loaran" ]
+		],
+		"10" : [
+			[ "loase" ],
+			[ "loases" ],
+			[ "loase" ],
+			[ "loásemos" ],
+			[ "loaseis", "loasen" ],
+			[ "loasen" ]
+		],
+		"11" : [
+			[ "loare" ],
+			[ "loares" ],
+			[ "loare" ],
+			[ "loáremos" ],
+			[ "loareis", "loaren" ],
+			[ "loaren" ]
+		],
+		"12" : {
+			"1" : [ "loa" ],
+			"2" : [ "loe" ],
+			"3" : [ "loemos" ],
+			"4" : [ "load" ],
+			"5" : [ "loen" ]
+		}
+	}
+}

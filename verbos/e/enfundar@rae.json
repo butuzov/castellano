@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enfundar",
+	"word" : "enfundar",
+	"infinitivo" : "enfundar",
+	"participio" : [ "enfundado" ],
+	"gerundio" : [ "enfundando" ],
+	"tenses" : {
+		"3" : [
+			[ "enfundo" ],
+			[ "enfundas", "enfundás" ],
+			[ "enfunda" ],
+			[ "enfundamos" ],
+			[ "enfundáis", "enfundan" ],
+			[ "enfundan" ]
+		],
+		"4" : [
+			[ "enfundé" ],
+			[ "enfundaste" ],
+			[ "enfundó" ],
+			[ "enfundamos" ],
+			[ "enfundasteis", "enfundaron" ],
+			[ "enfundaron" ]
+		],
+		"5" : [
+			[ "enfundaba" ],
+			[ "enfundabas" ],
+			[ "enfundaba" ],
+			[ "enfundábamos" ],
+			[ "enfundabais", "enfundaban" ],
+			[ "enfundaban" ]
+		],
+		"6" : [
+			[ "enfundaría" ],
+			[ "enfundarías" ],
+			[ "enfundaría" ],
+			[ "enfundaríamos" ],
+			[ "enfundaríais", "enfundarían" ],
+			[ "enfundarían" ]
+		],
+		"7" : [
+			[ "enfundaré" ],
+			[ "enfundarás" ],
+			[ "enfundará" ],
+			[ "enfundaremos" ],
+			[ "enfundaréis", "enfundarán" ],
+			[ "enfundarán" ]
+		],
+		"8" : [
+			[ "enfunde" ],
+			[ "enfundes" ],
+			[ "enfunde" ],
+			[ "enfundemos" ],
+			[ "enfundéis", "enfunden" ],
+			[ "enfunden" ]
+		],
+		"9" : [
+			[ "enfundara" ],
+			[ "enfundaras" ],
+			[ "enfundara" ],
+			[ "enfundáramos" ],
+			[ "enfundarais", "enfundaran" ],
+			[ "enfundaran" ]
+		],
+		"10" : [
+			[ "enfundase" ],
+			[ "enfundases" ],
+			[ "enfundase" ],
+			[ "enfundásemos" ],
+			[ "enfundaseis", "enfundasen" ],
+			[ "enfundasen" ]
+		],
+		"11" : [
+			[ "enfundare" ],
+			[ "enfundares" ],
+			[ "enfundare" ],
+			[ "enfundáremos" ],
+			[ "enfundareis", "enfundaren" ],
+			[ "enfundaren" ]
+		],
+		"12" : {
+			"1" : [ "enfunda" ],
+			"2" : [ "enfunde" ],
+			"3" : [ "enfundemos" ],
+			"4" : [ "enfundad" ],
+			"5" : [ "enfunden" ]
+		}
+	}
+}

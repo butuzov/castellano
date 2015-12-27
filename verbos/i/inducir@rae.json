@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inducir",
+	"word" : "inducir",
+	"infinitivo" : "inducir",
+	"participio" : [ "inducido" ],
+	"gerundio" : [ "induciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "induzco" ],
+			[ "induces", "inducís" ],
+			[ "induce" ],
+			[ "inducimos" ],
+			[ "inducís", "inducen" ],
+			[ "inducen" ]
+		],
+		"4" : [
+			[ "induje" ],
+			[ "indujiste" ],
+			[ "indujo" ],
+			[ "indujimos" ],
+			[ "indujisteis", "indujeron" ],
+			[ "indujeron" ]
+		],
+		"5" : [
+			[ "inducía" ],
+			[ "inducías" ],
+			[ "inducía" ],
+			[ "inducíamos" ],
+			[ "inducíais", "inducían" ],
+			[ "inducían" ]
+		],
+		"6" : [
+			[ "induciría" ],
+			[ "inducirías" ],
+			[ "induciría" ],
+			[ "induciríamos" ],
+			[ "induciríais", "inducirían" ],
+			[ "inducirían" ]
+		],
+		"7" : [
+			[ "induciré" ],
+			[ "inducirás" ],
+			[ "inducirá" ],
+			[ "induciremos" ],
+			[ "induciréis", "inducirán" ],
+			[ "inducirán" ]
+		],
+		"8" : [
+			[ "induzca" ],
+			[ "induzcas" ],
+			[ "induzca" ],
+			[ "induzcamos" ],
+			[ "induzcáis", "induzcan" ],
+			[ "induzcan" ]
+		],
+		"9" : [
+			[ "indujera" ],
+			[ "indujeras" ],
+			[ "indujera" ],
+			[ "indujéramos" ],
+			[ "indujerais", "indujeran" ],
+			[ "indujeran" ]
+		],
+		"10" : [
+			[ "indujese" ],
+			[ "indujeses" ],
+			[ "indujese" ],
+			[ "indujésemos" ],
+			[ "indujeseis", "indujesen" ],
+			[ "indujesen" ]
+		],
+		"11" : [
+			[ "indujere" ],
+			[ "indujeres" ],
+			[ "indujere" ],
+			[ "indujéremos" ],
+			[ "indujereis", "indujeren" ],
+			[ "indujeren" ]
+		],
+		"12" : {
+			"1" : [ "induce" ],
+			"2" : [ "induzca" ],
+			"3" : [ "induzcamos" ],
+			"4" : [ "inducid" ],
+			"5" : [ "induzcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amar",
+	"word" : "amar",
+	"infinitivo" : "amar",
+	"participio" : [ "amado" ],
+	"gerundio" : [ "amando" ],
+	"tenses" : {
+		"3" : [
+			[ "amo" ],
+			[ "amas", "amás" ],
+			[ "ama" ],
+			[ "amamos" ],
+			[ "amáis", "aman" ],
+			[ "aman" ]
+		],
+		"4" : [
+			[ "amé" ],
+			[ "amaste" ],
+			[ "amó" ],
+			[ "amamos" ],
+			[ "amasteis", "amaron" ],
+			[ "amaron" ]
+		],
+		"5" : [
+			[ "amaba" ],
+			[ "amabas" ],
+			[ "amaba" ],
+			[ "amábamos" ],
+			[ "amabais", "amaban" ],
+			[ "amaban" ]
+		],
+		"6" : [
+			[ "amaría" ],
+			[ "amarías" ],
+			[ "amaría" ],
+			[ "amaríamos" ],
+			[ "amaríais", "amarían" ],
+			[ "amarían" ]
+		],
+		"7" : [
+			[ "amaré" ],
+			[ "amarás" ],
+			[ "amará" ],
+			[ "amaremos" ],
+			[ "amaréis", "amarán" ],
+			[ "amarán" ]
+		],
+		"8" : [
+			[ "ame" ],
+			[ "ames" ],
+			[ "ame" ],
+			[ "amemos" ],
+			[ "améis", "amen" ],
+			[ "amen" ]
+		],
+		"9" : [
+			[ "amara" ],
+			[ "amaras" ],
+			[ "amara" ],
+			[ "amáramos" ],
+			[ "amarais", "amaran" ],
+			[ "amaran" ]
+		],
+		"10" : [
+			[ "amase" ],
+			[ "amases" ],
+			[ "amase" ],
+			[ "amásemos" ],
+			[ "amaseis", "amasen" ],
+			[ "amasen" ]
+		],
+		"11" : [
+			[ "amare" ],
+			[ "amares" ],
+			[ "amare" ],
+			[ "amáremos" ],
+			[ "amareis", "amaren" ],
+			[ "amaren" ]
+		],
+		"12" : {
+			"1" : [ "ama" ],
+			"2" : [ "ame" ],
+			"3" : [ "amemos" ],
+			"4" : [ "amad" ],
+			"5" : [ "amen" ]
+		}
+	}
+}

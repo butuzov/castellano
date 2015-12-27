@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ulcerar",
+	"word" : "ulcerar",
+	"infinitivo" : "ulcerar",
+	"participio" : [ "ulcerado" ],
+	"gerundio" : [ "ulcerando" ],
+	"tenses" : {
+		"3" : [
+			[ "ulcero" ],
+			[ "ulceras", "ulcerás" ],
+			[ "ulcera" ],
+			[ "ulceramos" ],
+			[ "ulceráis", "ulceran" ],
+			[ "ulceran" ]
+		],
+		"4" : [
+			[ "ulceré" ],
+			[ "ulceraste" ],
+			[ "ulceró" ],
+			[ "ulceramos" ],
+			[ "ulcerasteis", "ulceraron" ],
+			[ "ulceraron" ]
+		],
+		"5" : [
+			[ "ulceraba" ],
+			[ "ulcerabas" ],
+			[ "ulceraba" ],
+			[ "ulcerábamos" ],
+			[ "ulcerabais", "ulceraban" ],
+			[ "ulceraban" ]
+		],
+		"6" : [
+			[ "ulceraría" ],
+			[ "ulcerarías" ],
+			[ "ulceraría" ],
+			[ "ulceraríamos" ],
+			[ "ulceraríais", "ulcerarían" ],
+			[ "ulcerarían" ]
+		],
+		"7" : [
+			[ "ulceraré" ],
+			[ "ulcerarás" ],
+			[ "ulcerará" ],
+			[ "ulceraremos" ],
+			[ "ulceraréis", "ulcerarán" ],
+			[ "ulcerarán" ]
+		],
+		"8" : [
+			[ "ulcere" ],
+			[ "ulceres" ],
+			[ "ulcere" ],
+			[ "ulceremos" ],
+			[ "ulceréis", "ulceren" ],
+			[ "ulceren" ]
+		],
+		"9" : [
+			[ "ulcerara" ],
+			[ "ulceraras" ],
+			[ "ulcerara" ],
+			[ "ulceráramos" ],
+			[ "ulcerarais", "ulceraran" ],
+			[ "ulceraran" ]
+		],
+		"10" : [
+			[ "ulcerase" ],
+			[ "ulcerases" ],
+			[ "ulcerase" ],
+			[ "ulcerásemos" ],
+			[ "ulceraseis", "ulcerasen" ],
+			[ "ulcerasen" ]
+		],
+		"11" : [
+			[ "ulcerare" ],
+			[ "ulcerares" ],
+			[ "ulcerare" ],
+			[ "ulceráremos" ],
+			[ "ulcerareis", "ulceraren" ],
+			[ "ulceraren" ]
+		],
+		"12" : {
+			"1" : [ "ulcera" ],
+			"2" : [ "ulcere" ],
+			"3" : [ "ulceremos" ],
+			"4" : [ "ulcerad" ],
+			"5" : [ "ulceren" ]
+		}
+	}
+}

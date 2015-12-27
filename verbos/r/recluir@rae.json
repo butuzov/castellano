@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recluir",
+	"word" : "recluir",
+	"infinitivo" : "recluir",
+	"participio" : [ "recluido" ],
+	"gerundio" : [ "recluyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "recluyo" ],
+			[ "recluyes", "recluís" ],
+			[ "recluye" ],
+			[ "recluimos" ],
+			[ "recluís", "recluyen" ],
+			[ "recluyen" ]
+		],
+		"4" : [
+			[ "recluí" ],
+			[ "recluiste" ],
+			[ "recluyó" ],
+			[ "recluimos" ],
+			[ "recluisteis", "recluyeron" ],
+			[ "recluyeron" ]
+		],
+		"5" : [
+			[ "recluía" ],
+			[ "recluías" ],
+			[ "recluía" ],
+			[ "recluíamos" ],
+			[ "recluíais", "recluían" ],
+			[ "recluían" ]
+		],
+		"6" : [
+			[ "recluiría" ],
+			[ "recluirías" ],
+			[ "recluiría" ],
+			[ "recluiríamos" ],
+			[ "recluiríais", "recluirían" ],
+			[ "recluirían" ]
+		],
+		"7" : [
+			[ "recluiré" ],
+			[ "recluirás" ],
+			[ "recluirá" ],
+			[ "recluiremos" ],
+			[ "recluiréis", "recluirán" ],
+			[ "recluirán" ]
+		],
+		"8" : [
+			[ "recluya" ],
+			[ "recluyas" ],
+			[ "recluya" ],
+			[ "recluyamos" ],
+			[ "recluyáis", "recluyan" ],
+			[ "recluyan" ]
+		],
+		"9" : [
+			[ "recluyera" ],
+			[ "recluyeras" ],
+			[ "recluyera" ],
+			[ "recluyéramos" ],
+			[ "recluyerais", "recluyeran" ],
+			[ "recluyeran" ]
+		],
+		"10" : [
+			[ "recluyese" ],
+			[ "recluyeses" ],
+			[ "recluyese" ],
+			[ "recluyésemos" ],
+			[ "recluyeseis", "recluyesen" ],
+			[ "recluyesen" ]
+		],
+		"11" : [
+			[ "recluyere" ],
+			[ "recluyeres" ],
+			[ "recluyere" ],
+			[ "recluyéremos" ],
+			[ "recluyereis", "recluyeren" ],
+			[ "recluyeren" ]
+		],
+		"12" : {
+			"1" : [ "recluye" ],
+			"2" : [ "recluya" ],
+			"3" : [ "recluyamos" ],
+			"4" : [ "recluid" ],
+			"5" : [ "recluyan" ]
+		}
+	}
+}

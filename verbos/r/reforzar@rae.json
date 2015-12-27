@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reforzar",
+	"word" : "reforzar",
+	"infinitivo" : "reforzar",
+	"participio" : [ "reforzado" ],
+	"gerundio" : [ "reforzando" ],
+	"tenses" : {
+		"3" : [
+			[ "refuerzo" ],
+			[ "refuerzas", "reforzás" ],
+			[ "refuerza" ],
+			[ "reforzamos" ],
+			[ "reforzáis", "refuerzan" ],
+			[ "refuerzan" ]
+		],
+		"4" : [
+			[ "reforcé" ],
+			[ "reforzaste" ],
+			[ "reforzó" ],
+			[ "reforzamos" ],
+			[ "reforzasteis", "reforzaron" ],
+			[ "reforzaron" ]
+		],
+		"5" : [
+			[ "reforzaba" ],
+			[ "reforzabas" ],
+			[ "reforzaba" ],
+			[ "reforzábamos" ],
+			[ "reforzabais", "reforzaban" ],
+			[ "reforzaban" ]
+		],
+		"6" : [
+			[ "reforzaría" ],
+			[ "reforzarías" ],
+			[ "reforzaría" ],
+			[ "reforzaríamos" ],
+			[ "reforzaríais", "reforzarían" ],
+			[ "reforzarían" ]
+		],
+		"7" : [
+			[ "reforzaré" ],
+			[ "reforzarás" ],
+			[ "reforzará" ],
+			[ "reforzaremos" ],
+			[ "reforzaréis", "reforzarán" ],
+			[ "reforzarán" ]
+		],
+		"8" : [
+			[ "refuerce" ],
+			[ "refuerces" ],
+			[ "refuerce" ],
+			[ "reforcemos" ],
+			[ "reforcéis", "refuercen" ],
+			[ "refuercen" ]
+		],
+		"9" : [
+			[ "reforzara" ],
+			[ "reforzaras" ],
+			[ "reforzara" ],
+			[ "reforzáramos" ],
+			[ "reforzarais", "reforzaran" ],
+			[ "reforzaran" ]
+		],
+		"10" : [
+			[ "reforzase" ],
+			[ "reforzases" ],
+			[ "reforzase" ],
+			[ "reforzásemos" ],
+			[ "reforzaseis", "reforzasen" ],
+			[ "reforzasen" ]
+		],
+		"11" : [
+			[ "reforzare" ],
+			[ "reforzares" ],
+			[ "reforzare" ],
+			[ "reforzáremos" ],
+			[ "reforzareis", "reforzaren" ],
+			[ "reforzaren" ]
+		],
+		"12" : {
+			"1" : [ "refuerza" ],
+			"2" : [ "refuerce" ],
+			"3" : [ "reforcemos" ],
+			"4" : [ "reforzad" ],
+			"5" : [ "refuercen" ]
+		}
+	}
+}

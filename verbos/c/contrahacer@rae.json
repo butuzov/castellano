@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contrahacer",
+	"word" : "contrahacer",
+	"infinitivo" : "contrahacer",
+	"participio" : [ "contrahecho" ],
+	"gerundio" : [ "contrahaciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "contrahago" ],
+			[ "contrahaces", "contrahacés" ],
+			[ "contrahace" ],
+			[ "contrahacemos" ],
+			[ "contrahacéis", "contrahacen" ],
+			[ "contrahacen" ]
+		],
+		"4" : [
+			[ "contrahíce" ],
+			[ "contrahiciste" ],
+			[ "contrahízo" ],
+			[ "contrahicimos" ],
+			[ "contrahicisteis", "contrahicieron" ],
+			[ "contrahicieron" ]
+		],
+		"5" : [
+			[ "contrahacía" ],
+			[ "contrahacías" ],
+			[ "contrahacía" ],
+			[ "contrahacíamos" ],
+			[ "contrahacíais", "contrahacían" ],
+			[ "contrahacían" ]
+		],
+		"6" : [
+			[ "contraharía" ],
+			[ "contraharías" ],
+			[ "contraharía" ],
+			[ "contraharíamos" ],
+			[ "contraharíais", "contraharían" ],
+			[ "contraharían" ]
+		],
+		"7" : [
+			[ "contraharé" ],
+			[ "contraharás" ],
+			[ "contrahará" ],
+			[ "contraharemos" ],
+			[ "contraharéis", "contraharán" ],
+			[ "contraharán" ]
+		],
+		"8" : [
+			[ "contrahaga" ],
+			[ "contrahagas" ],
+			[ "contrahaga" ],
+			[ "contrahagamos" ],
+			[ "contrahagáis", "contrahagan" ],
+			[ "contrahagan" ]
+		],
+		"9" : [
+			[ "contrahiciera" ],
+			[ "contrahicieras" ],
+			[ "contrahiciera" ],
+			[ "contrahiciéramos" ],
+			[ "contrahicierais", "contrahicieran" ],
+			[ "contrahicieran" ]
+		],
+		"10" : [
+			[ "contrahiciese" ],
+			[ "contrahicieses" ],
+			[ "contrahiciese" ],
+			[ "contrahiciésemos" ],
+			[ "contrahicieseis", "contrahiciesen" ],
+			[ "contrahiciesen" ]
+		],
+		"11" : [
+			[ "contrahiciere" ],
+			[ "contrahicieres" ],
+			[ "contrahiciere" ],
+			[ "contrahiciéremos" ],
+			[ "contrahiciereis", "contrahicieren" ],
+			[ "contrahicieren" ]
+		],
+		"12" : {
+			"1" : [ "contrahaz" ],
+			"2" : [ "contrahaga" ],
+			"3" : [ "contrahagamos" ],
+			"4" : [ "contrahaced" ],
+			"5" : [ "contrahagan" ]
+		}
+	}
+}

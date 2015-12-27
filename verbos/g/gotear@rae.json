@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gotear",
+	"word" : "gotear",
+	"infinitivo" : "gotear",
+	"participio" : [ "goteado" ],
+	"gerundio" : [ "goteando" ],
+	"tenses" : {
+		"3" : [
+			[ "goteo" ],
+			[ "goteas", "goteás" ],
+			[ "gotea" ],
+			[ "goteamos" ],
+			[ "goteáis", "gotean" ],
+			[ "gotean" ]
+		],
+		"4" : [
+			[ "goteé" ],
+			[ "goteaste" ],
+			[ "goteó" ],
+			[ "goteamos" ],
+			[ "goteasteis", "gotearon" ],
+			[ "gotearon" ]
+		],
+		"5" : [
+			[ "goteaba" ],
+			[ "goteabas" ],
+			[ "goteaba" ],
+			[ "goteábamos" ],
+			[ "goteabais", "goteaban" ],
+			[ "goteaban" ]
+		],
+		"6" : [
+			[ "gotearía" ],
+			[ "gotearías" ],
+			[ "gotearía" ],
+			[ "gotearíamos" ],
+			[ "gotearíais", "gotearían" ],
+			[ "gotearían" ]
+		],
+		"7" : [
+			[ "gotearé" ],
+			[ "gotearás" ],
+			[ "goteará" ],
+			[ "gotearemos" ],
+			[ "gotearéis", "gotearán" ],
+			[ "gotearán" ]
+		],
+		"8" : [
+			[ "gotee" ],
+			[ "gotees" ],
+			[ "gotee" ],
+			[ "goteemos" ],
+			[ "goteéis", "goteen" ],
+			[ "goteen" ]
+		],
+		"9" : [
+			[ "goteara" ],
+			[ "gotearas" ],
+			[ "goteara" ],
+			[ "goteáramos" ],
+			[ "gotearais", "gotearan" ],
+			[ "gotearan" ]
+		],
+		"10" : [
+			[ "gotease" ],
+			[ "goteases" ],
+			[ "gotease" ],
+			[ "goteásemos" ],
+			[ "goteaseis", "goteasen" ],
+			[ "goteasen" ]
+		],
+		"11" : [
+			[ "goteare" ],
+			[ "goteares" ],
+			[ "goteare" ],
+			[ "goteáremos" ],
+			[ "goteareis", "gotearen" ],
+			[ "gotearen" ]
+		],
+		"12" : {
+			"1" : [ "gotea" ],
+			"2" : [ "gotee" ],
+			"3" : [ "goteemos" ],
+			"4" : [ "gotead" ],
+			"5" : [ "goteen" ]
+		}
+	}
+}

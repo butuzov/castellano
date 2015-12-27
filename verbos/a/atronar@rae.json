@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atronar",
+	"word" : "atronar",
+	"infinitivo" : "atronar",
+	"participio" : [ "atronado" ],
+	"gerundio" : [ "atronando" ],
+	"tenses" : {
+		"3" : [
+			[ "atrueno" ],
+			[ "atruenas", "atronás" ],
+			[ "atruena" ],
+			[ "atronamos" ],
+			[ "atronáis", "atruenan" ],
+			[ "atruenan" ]
+		],
+		"4" : [
+			[ "atroné" ],
+			[ "atronaste" ],
+			[ "atronó" ],
+			[ "atronamos" ],
+			[ "atronasteis", "atronaron" ],
+			[ "atronaron" ]
+		],
+		"5" : [
+			[ "atronaba" ],
+			[ "atronabas" ],
+			[ "atronaba" ],
+			[ "atronábamos" ],
+			[ "atronabais", "atronaban" ],
+			[ "atronaban" ]
+		],
+		"6" : [
+			[ "atronaría" ],
+			[ "atronarías" ],
+			[ "atronaría" ],
+			[ "atronaríamos" ],
+			[ "atronaríais", "atronarían" ],
+			[ "atronarían" ]
+		],
+		"7" : [
+			[ "atronaré" ],
+			[ "atronarás" ],
+			[ "atronará" ],
+			[ "atronaremos" ],
+			[ "atronaréis", "atronarán" ],
+			[ "atronarán" ]
+		],
+		"8" : [
+			[ "atruene" ],
+			[ "atruenes" ],
+			[ "atruene" ],
+			[ "atronemos" ],
+			[ "atronéis", "atruenen" ],
+			[ "atruenen" ]
+		],
+		"9" : [
+			[ "atronara" ],
+			[ "atronaras" ],
+			[ "atronara" ],
+			[ "atronáramos" ],
+			[ "atronarais", "atronaran" ],
+			[ "atronaran" ]
+		],
+		"10" : [
+			[ "atronase" ],
+			[ "atronases" ],
+			[ "atronase" ],
+			[ "atronásemos" ],
+			[ "atronaseis", "atronasen" ],
+			[ "atronasen" ]
+		],
+		"11" : [
+			[ "atronare" ],
+			[ "atronares" ],
+			[ "atronare" ],
+			[ "atronáremos" ],
+			[ "atronareis", "atronaren" ],
+			[ "atronaren" ]
+		],
+		"12" : {
+			"1" : [ "atruena" ],
+			"2" : [ "atruene" ],
+			"3" : [ "atronemos" ],
+			"4" : [ "atronad" ],
+			"5" : [ "atruenen" ]
+		}
+	}
+}

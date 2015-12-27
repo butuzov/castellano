@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abominar",
+	"word" : "abominar",
+	"infinitivo" : "abominar",
+	"participio" : [ "abominado" ],
+	"gerundio" : [ "abominando" ],
+	"tenses" : {
+		"3" : [
+			[ "abomino" ],
+			[ "abominas", "abominás" ],
+			[ "abomina" ],
+			[ "abominamos" ],
+			[ "abomináis", "abominan" ],
+			[ "abominan" ]
+		],
+		"4" : [
+			[ "abominé" ],
+			[ "abominaste" ],
+			[ "abominó" ],
+			[ "abominamos" ],
+			[ "abominasteis", "abominaron" ],
+			[ "abominaron" ]
+		],
+		"5" : [
+			[ "abominaba" ],
+			[ "abominabas" ],
+			[ "abominaba" ],
+			[ "abominábamos" ],
+			[ "abominabais", "abominaban" ],
+			[ "abominaban" ]
+		],
+		"6" : [
+			[ "abominaría" ],
+			[ "abominarías" ],
+			[ "abominaría" ],
+			[ "abominaríamos" ],
+			[ "abominaríais", "abominarían" ],
+			[ "abominarían" ]
+		],
+		"7" : [
+			[ "abominaré" ],
+			[ "abominarás" ],
+			[ "abominará" ],
+			[ "abominaremos" ],
+			[ "abominaréis", "abominarán" ],
+			[ "abominarán" ]
+		],
+		"8" : [
+			[ "abomine" ],
+			[ "abomines" ],
+			[ "abomine" ],
+			[ "abominemos" ],
+			[ "abominéis", "abominen" ],
+			[ "abominen" ]
+		],
+		"9" : [
+			[ "abominara" ],
+			[ "abominaras" ],
+			[ "abominara" ],
+			[ "abomináramos" ],
+			[ "abominarais", "abominaran" ],
+			[ "abominaran" ]
+		],
+		"10" : [
+			[ "abominase" ],
+			[ "abominases" ],
+			[ "abominase" ],
+			[ "abominásemos" ],
+			[ "abominaseis", "abominasen" ],
+			[ "abominasen" ]
+		],
+		"11" : [
+			[ "abominare" ],
+			[ "abominares" ],
+			[ "abominare" ],
+			[ "abomináremos" ],
+			[ "abominareis", "abominaren" ],
+			[ "abominaren" ]
+		],
+		"12" : {
+			"1" : [ "abomina" ],
+			"2" : [ "abomine" ],
+			"3" : [ "abominemos" ],
+			"4" : [ "abominad" ],
+			"5" : [ "abominen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=compeler",
+	"word" : "compeler",
+	"infinitivo" : "compeler",
+	"participio" : [ "compelido" ],
+	"gerundio" : [ "compeliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "compelo" ],
+			[ "compeles", "compelés" ],
+			[ "compele" ],
+			[ "compelemos" ],
+			[ "compeléis", "compelen" ],
+			[ "compelen" ]
+		],
+		"4" : [
+			[ "compelí" ],
+			[ "compeliste" ],
+			[ "compelió" ],
+			[ "compelimos" ],
+			[ "compelisteis", "compelieron" ],
+			[ "compelieron" ]
+		],
+		"5" : [
+			[ "compelía" ],
+			[ "compelías" ],
+			[ "compelía" ],
+			[ "compelíamos" ],
+			[ "compelíais", "compelían" ],
+			[ "compelían" ]
+		],
+		"6" : [
+			[ "compelería" ],
+			[ "compelerías" ],
+			[ "compelería" ],
+			[ "compeleríamos" ],
+			[ "compeleríais", "compelerían" ],
+			[ "compelerían" ]
+		],
+		"7" : [
+			[ "compeleré" ],
+			[ "compelerás" ],
+			[ "compelerá" ],
+			[ "compeleremos" ],
+			[ "compeleréis", "compelerán" ],
+			[ "compelerán" ]
+		],
+		"8" : [
+			[ "compela" ],
+			[ "compelas" ],
+			[ "compela" ],
+			[ "compelamos" ],
+			[ "compeláis", "compelan" ],
+			[ "compelan" ]
+		],
+		"9" : [
+			[ "compeliera" ],
+			[ "compelieras" ],
+			[ "compeliera" ],
+			[ "compeliéramos" ],
+			[ "compelierais", "compelieran" ],
+			[ "compelieran" ]
+		],
+		"10" : [
+			[ "compeliese" ],
+			[ "compelieses" ],
+			[ "compeliese" ],
+			[ "compeliésemos" ],
+			[ "compelieseis", "compeliesen" ],
+			[ "compeliesen" ]
+		],
+		"11" : [
+			[ "compeliere" ],
+			[ "compelieres" ],
+			[ "compeliere" ],
+			[ "compeliéremos" ],
+			[ "compeliereis", "compelieren" ],
+			[ "compelieren" ]
+		],
+		"12" : {
+			"1" : [ "compele" ],
+			"2" : [ "compela" ],
+			"3" : [ "compelamos" ],
+			"4" : [ "compeled" ],
+			"5" : [ "compelan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=especular",
+	"word" : "especular",
+	"infinitivo" : "especular",
+	"participio" : [ "especulado" ],
+	"gerundio" : [ "especulando" ],
+	"tenses" : {
+		"3" : [
+			[ "especulo" ],
+			[ "especulas", "especulás" ],
+			[ "especula" ],
+			[ "especulamos" ],
+			[ "especuláis", "especulan" ],
+			[ "especulan" ]
+		],
+		"4" : [
+			[ "especulé" ],
+			[ "especulaste" ],
+			[ "especuló" ],
+			[ "especulamos" ],
+			[ "especulasteis", "especularon" ],
+			[ "especularon" ]
+		],
+		"5" : [
+			[ "especulaba" ],
+			[ "especulabas" ],
+			[ "especulaba" ],
+			[ "especulábamos" ],
+			[ "especulabais", "especulaban" ],
+			[ "especulaban" ]
+		],
+		"6" : [
+			[ "especularía" ],
+			[ "especularías" ],
+			[ "especularía" ],
+			[ "especularíamos" ],
+			[ "especularíais", "especularían" ],
+			[ "especularían" ]
+		],
+		"7" : [
+			[ "especularé" ],
+			[ "especularás" ],
+			[ "especulará" ],
+			[ "especularemos" ],
+			[ "especularéis", "especularán" ],
+			[ "especularán" ]
+		],
+		"8" : [
+			[ "especule" ],
+			[ "especules" ],
+			[ "especule" ],
+			[ "especulemos" ],
+			[ "especuléis", "especulen" ],
+			[ "especulen" ]
+		],
+		"9" : [
+			[ "especulara" ],
+			[ "especularas" ],
+			[ "especulara" ],
+			[ "especuláramos" ],
+			[ "especularais", "especularan" ],
+			[ "especularan" ]
+		],
+		"10" : [
+			[ "especulase" ],
+			[ "especulases" ],
+			[ "especulase" ],
+			[ "especulásemos" ],
+			[ "especulaseis", "especulasen" ],
+			[ "especulasen" ]
+		],
+		"11" : [
+			[ "especulare" ],
+			[ "especulares" ],
+			[ "especulare" ],
+			[ "especuláremos" ],
+			[ "especulareis", "especularen" ],
+			[ "especularen" ]
+		],
+		"12" : {
+			"1" : [ "especula" ],
+			"2" : [ "especule" ],
+			"3" : [ "especulemos" ],
+			"4" : [ "especulad" ],
+			"5" : [ "especulen" ]
+		}
+	}
+}

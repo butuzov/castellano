@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inseminar",
+	"word" : "inseminar",
+	"infinitivo" : "inseminar",
+	"participio" : [ "inseminado" ],
+	"gerundio" : [ "inseminando" ],
+	"tenses" : {
+		"3" : [
+			[ "insemino" ],
+			[ "inseminas", "inseminás" ],
+			[ "insemina" ],
+			[ "inseminamos" ],
+			[ "insemináis", "inseminan" ],
+			[ "inseminan" ]
+		],
+		"4" : [
+			[ "inseminé" ],
+			[ "inseminaste" ],
+			[ "inseminó" ],
+			[ "inseminamos" ],
+			[ "inseminasteis", "inseminaron" ],
+			[ "inseminaron" ]
+		],
+		"5" : [
+			[ "inseminaba" ],
+			[ "inseminabas" ],
+			[ "inseminaba" ],
+			[ "inseminábamos" ],
+			[ "inseminabais", "inseminaban" ],
+			[ "inseminaban" ]
+		],
+		"6" : [
+			[ "inseminaría" ],
+			[ "inseminarías" ],
+			[ "inseminaría" ],
+			[ "inseminaríamos" ],
+			[ "inseminaríais", "inseminarían" ],
+			[ "inseminarían" ]
+		],
+		"7" : [
+			[ "inseminaré" ],
+			[ "inseminarás" ],
+			[ "inseminará" ],
+			[ "inseminaremos" ],
+			[ "inseminaréis", "inseminarán" ],
+			[ "inseminarán" ]
+		],
+		"8" : [
+			[ "insemine" ],
+			[ "insemines" ],
+			[ "insemine" ],
+			[ "inseminemos" ],
+			[ "inseminéis", "inseminen" ],
+			[ "inseminen" ]
+		],
+		"9" : [
+			[ "inseminara" ],
+			[ "inseminaras" ],
+			[ "inseminara" ],
+			[ "insemináramos" ],
+			[ "inseminarais", "inseminaran" ],
+			[ "inseminaran" ]
+		],
+		"10" : [
+			[ "inseminase" ],
+			[ "inseminases" ],
+			[ "inseminase" ],
+			[ "inseminásemos" ],
+			[ "inseminaseis", "inseminasen" ],
+			[ "inseminasen" ]
+		],
+		"11" : [
+			[ "inseminare" ],
+			[ "inseminares" ],
+			[ "inseminare" ],
+			[ "insemináremos" ],
+			[ "inseminareis", "inseminaren" ],
+			[ "inseminaren" ]
+		],
+		"12" : {
+			"1" : [ "insemina" ],
+			"2" : [ "insemine" ],
+			"3" : [ "inseminemos" ],
+			"4" : [ "inseminad" ],
+			"5" : [ "inseminen" ]
+		}
+	}
+}

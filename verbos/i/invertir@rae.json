@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=invertir",
+	"word" : "invertir",
+	"infinitivo" : "invertir",
+	"participio" : [ "invertido" ],
+	"gerundio" : [ "invirtiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "invierto" ],
+			[ "inviertes", "invertís" ],
+			[ "invierte" ],
+			[ "invertimos" ],
+			[ "invertís", "invierten" ],
+			[ "invierten" ]
+		],
+		"4" : [
+			[ "invertí" ],
+			[ "invertiste" ],
+			[ "invirtió" ],
+			[ "invertimos" ],
+			[ "invertisteis", "invirtieron" ],
+			[ "invirtieron" ]
+		],
+		"5" : [
+			[ "invertía" ],
+			[ "invertías" ],
+			[ "invertía" ],
+			[ "invertíamos" ],
+			[ "invertíais", "invertían" ],
+			[ "invertían" ]
+		],
+		"6" : [
+			[ "invertiría" ],
+			[ "invertirías" ],
+			[ "invertiría" ],
+			[ "invertiríamos" ],
+			[ "invertiríais", "invertirían" ],
+			[ "invertirían" ]
+		],
+		"7" : [
+			[ "invertiré" ],
+			[ "invertirás" ],
+			[ "invertirá" ],
+			[ "invertiremos" ],
+			[ "invertiréis", "invertirán" ],
+			[ "invertirán" ]
+		],
+		"8" : [
+			[ "invierta" ],
+			[ "inviertas" ],
+			[ "invierta" ],
+			[ "invirtamos" ],
+			[ "invirtáis", "inviertan" ],
+			[ "inviertan" ]
+		],
+		"9" : [
+			[ "invirtiera" ],
+			[ "invirtieras" ],
+			[ "invirtiera" ],
+			[ "invirtiéramos" ],
+			[ "invirtierais", "invirtieran" ],
+			[ "invirtieran" ]
+		],
+		"10" : [
+			[ "invirtiese" ],
+			[ "invirtieses" ],
+			[ "invirtiese" ],
+			[ "invirtiésemos" ],
+			[ "invirtieseis", "invirtiesen" ],
+			[ "invirtiesen" ]
+		],
+		"11" : [
+			[ "invirtiere" ],
+			[ "invirtieres" ],
+			[ "invirtiere" ],
+			[ "invirtiéremos" ],
+			[ "invirtiereis", "invirtieren" ],
+			[ "invirtieren" ]
+		],
+		"12" : {
+			"1" : [ "invierte" ],
+			"2" : [ "invierta" ],
+			"3" : [ "invirtamos" ],
+			"4" : [ "invertid" ],
+			"5" : [ "inviertan" ]
+		}
+	}
+}

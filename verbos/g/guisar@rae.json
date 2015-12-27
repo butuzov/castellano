@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=guisar",
+	"word" : "guisar",
+	"infinitivo" : "guisar",
+	"participio" : [ "guisado" ],
+	"gerundio" : [ "guisando" ],
+	"tenses" : {
+		"3" : [
+			[ "guiso" ],
+			[ "guisas", "guisás" ],
+			[ "guisa" ],
+			[ "guisamos" ],
+			[ "guisáis", "guisan" ],
+			[ "guisan" ]
+		],
+		"4" : [
+			[ "guisé" ],
+			[ "guisaste" ],
+			[ "guisó" ],
+			[ "guisamos" ],
+			[ "guisasteis", "guisaron" ],
+			[ "guisaron" ]
+		],
+		"5" : [
+			[ "guisaba" ],
+			[ "guisabas" ],
+			[ "guisaba" ],
+			[ "guisábamos" ],
+			[ "guisabais", "guisaban" ],
+			[ "guisaban" ]
+		],
+		"6" : [
+			[ "guisaría" ],
+			[ "guisarías" ],
+			[ "guisaría" ],
+			[ "guisaríamos" ],
+			[ "guisaríais", "guisarían" ],
+			[ "guisarían" ]
+		],
+		"7" : [
+			[ "guisaré" ],
+			[ "guisarás" ],
+			[ "guisará" ],
+			[ "guisaremos" ],
+			[ "guisaréis", "guisarán" ],
+			[ "guisarán" ]
+		],
+		"8" : [
+			[ "guise" ],
+			[ "guises" ],
+			[ "guise" ],
+			[ "guisemos" ],
+			[ "guiséis", "guisen" ],
+			[ "guisen" ]
+		],
+		"9" : [
+			[ "guisara" ],
+			[ "guisaras" ],
+			[ "guisara" ],
+			[ "guisáramos" ],
+			[ "guisarais", "guisaran" ],
+			[ "guisaran" ]
+		],
+		"10" : [
+			[ "guisase" ],
+			[ "guisases" ],
+			[ "guisase" ],
+			[ "guisásemos" ],
+			[ "guisaseis", "guisasen" ],
+			[ "guisasen" ]
+		],
+		"11" : [
+			[ "guisare" ],
+			[ "guisares" ],
+			[ "guisare" ],
+			[ "guisáremos" ],
+			[ "guisareis", "guisaren" ],
+			[ "guisaren" ]
+		],
+		"12" : {
+			"1" : [ "guisa" ],
+			"2" : [ "guise" ],
+			"3" : [ "guisemos" ],
+			"4" : [ "guisad" ],
+			"5" : [ "guisen" ]
+		}
+	}
+}

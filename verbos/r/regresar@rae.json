@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=regresar",
+	"word" : "regresar",
+	"infinitivo" : "regresar",
+	"participio" : [ "regresado" ],
+	"gerundio" : [ "regresando" ],
+	"tenses" : {
+		"3" : [
+			[ "regreso" ],
+			[ "regresas", "regresás" ],
+			[ "regresa" ],
+			[ "regresamos" ],
+			[ "regresáis", "regresan" ],
+			[ "regresan" ]
+		],
+		"4" : [
+			[ "regresé" ],
+			[ "regresaste" ],
+			[ "regresó" ],
+			[ "regresamos" ],
+			[ "regresasteis", "regresaron" ],
+			[ "regresaron" ]
+		],
+		"5" : [
+			[ "regresaba" ],
+			[ "regresabas" ],
+			[ "regresaba" ],
+			[ "regresábamos" ],
+			[ "regresabais", "regresaban" ],
+			[ "regresaban" ]
+		],
+		"6" : [
+			[ "regresaría" ],
+			[ "regresarías" ],
+			[ "regresaría" ],
+			[ "regresaríamos" ],
+			[ "regresaríais", "regresarían" ],
+			[ "regresarían" ]
+		],
+		"7" : [
+			[ "regresaré" ],
+			[ "regresarás" ],
+			[ "regresará" ],
+			[ "regresaremos" ],
+			[ "regresaréis", "regresarán" ],
+			[ "regresarán" ]
+		],
+		"8" : [
+			[ "regrese" ],
+			[ "regreses" ],
+			[ "regrese" ],
+			[ "regresemos" ],
+			[ "regreséis", "regresen" ],
+			[ "regresen" ]
+		],
+		"9" : [
+			[ "regresara" ],
+			[ "regresaras" ],
+			[ "regresara" ],
+			[ "regresáramos" ],
+			[ "regresarais", "regresaran" ],
+			[ "regresaran" ]
+		],
+		"10" : [
+			[ "regresase" ],
+			[ "regresases" ],
+			[ "regresase" ],
+			[ "regresásemos" ],
+			[ "regresaseis", "regresasen" ],
+			[ "regresasen" ]
+		],
+		"11" : [
+			[ "regresare" ],
+			[ "regresares" ],
+			[ "regresare" ],
+			[ "regresáremos" ],
+			[ "regresareis", "regresaren" ],
+			[ "regresaren" ]
+		],
+		"12" : {
+			"1" : [ "regresa" ],
+			"2" : [ "regrese" ],
+			"3" : [ "regresemos" ],
+			"4" : [ "regresad" ],
+			"5" : [ "regresen" ]
+		}
+	}
+}

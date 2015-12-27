@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=denominar",
+	"word" : "denominar",
+	"infinitivo" : "denominar",
+	"participio" : [ "denominado" ],
+	"gerundio" : [ "denominando" ],
+	"tenses" : {
+		"3" : [
+			[ "denomino" ],
+			[ "denominas", "denominás" ],
+			[ "denomina" ],
+			[ "denominamos" ],
+			[ "denomináis", "denominan" ],
+			[ "denominan" ]
+		],
+		"4" : [
+			[ "denominé" ],
+			[ "denominaste" ],
+			[ "denominó" ],
+			[ "denominamos" ],
+			[ "denominasteis", "denominaron" ],
+			[ "denominaron" ]
+		],
+		"5" : [
+			[ "denominaba" ],
+			[ "denominabas" ],
+			[ "denominaba" ],
+			[ "denominábamos" ],
+			[ "denominabais", "denominaban" ],
+			[ "denominaban" ]
+		],
+		"6" : [
+			[ "denominaría" ],
+			[ "denominarías" ],
+			[ "denominaría" ],
+			[ "denominaríamos" ],
+			[ "denominaríais", "denominarían" ],
+			[ "denominarían" ]
+		],
+		"7" : [
+			[ "denominaré" ],
+			[ "denominarás" ],
+			[ "denominará" ],
+			[ "denominaremos" ],
+			[ "denominaréis", "denominarán" ],
+			[ "denominarán" ]
+		],
+		"8" : [
+			[ "denomine" ],
+			[ "denomines" ],
+			[ "denomine" ],
+			[ "denominemos" ],
+			[ "denominéis", "denominen" ],
+			[ "denominen" ]
+		],
+		"9" : [
+			[ "denominara" ],
+			[ "denominaras" ],
+			[ "denominara" ],
+			[ "denomináramos" ],
+			[ "denominarais", "denominaran" ],
+			[ "denominaran" ]
+		],
+		"10" : [
+			[ "denominase" ],
+			[ "denominases" ],
+			[ "denominase" ],
+			[ "denominásemos" ],
+			[ "denominaseis", "denominasen" ],
+			[ "denominasen" ]
+		],
+		"11" : [
+			[ "denominare" ],
+			[ "denominares" ],
+			[ "denominare" ],
+			[ "denomináremos" ],
+			[ "denominareis", "denominaren" ],
+			[ "denominaren" ]
+		],
+		"12" : {
+			"1" : [ "denomina" ],
+			"2" : [ "denomine" ],
+			"3" : [ "denominemos" ],
+			"4" : [ "denominad" ],
+			"5" : [ "denominen" ]
+		}
+	}
+}

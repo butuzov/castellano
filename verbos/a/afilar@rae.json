@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=afilar",
+	"word" : "afilar",
+	"infinitivo" : "afilar",
+	"participio" : [ "afilado" ],
+	"gerundio" : [ "afilando" ],
+	"tenses" : {
+		"3" : [
+			[ "afilo" ],
+			[ "afilas", "afilás" ],
+			[ "afila" ],
+			[ "afilamos" ],
+			[ "afiláis", "afilan" ],
+			[ "afilan" ]
+		],
+		"4" : [
+			[ "afilé" ],
+			[ "afilaste" ],
+			[ "afiló" ],
+			[ "afilamos" ],
+			[ "afilasteis", "afilaron" ],
+			[ "afilaron" ]
+		],
+		"5" : [
+			[ "afilaba" ],
+			[ "afilabas" ],
+			[ "afilaba" ],
+			[ "afilábamos" ],
+			[ "afilabais", "afilaban" ],
+			[ "afilaban" ]
+		],
+		"6" : [
+			[ "afilaría" ],
+			[ "afilarías" ],
+			[ "afilaría" ],
+			[ "afilaríamos" ],
+			[ "afilaríais", "afilarían" ],
+			[ "afilarían" ]
+		],
+		"7" : [
+			[ "afilaré" ],
+			[ "afilarás" ],
+			[ "afilará" ],
+			[ "afilaremos" ],
+			[ "afilaréis", "afilarán" ],
+			[ "afilarán" ]
+		],
+		"8" : [
+			[ "afile" ],
+			[ "afiles" ],
+			[ "afile" ],
+			[ "afilemos" ],
+			[ "afiléis", "afilen" ],
+			[ "afilen" ]
+		],
+		"9" : [
+			[ "afilara" ],
+			[ "afilaras" ],
+			[ "afilara" ],
+			[ "afiláramos" ],
+			[ "afilarais", "afilaran" ],
+			[ "afilaran" ]
+		],
+		"10" : [
+			[ "afilase" ],
+			[ "afilases" ],
+			[ "afilase" ],
+			[ "afilásemos" ],
+			[ "afilaseis", "afilasen" ],
+			[ "afilasen" ]
+		],
+		"11" : [
+			[ "afilare" ],
+			[ "afilares" ],
+			[ "afilare" ],
+			[ "afiláremos" ],
+			[ "afilareis", "afilaren" ],
+			[ "afilaren" ]
+		],
+		"12" : {
+			"1" : [ "afila" ],
+			"2" : [ "afile" ],
+			"3" : [ "afilemos" ],
+			"4" : [ "afilad" ],
+			"5" : [ "afilen" ]
+		}
+	}
+}

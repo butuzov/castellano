@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmochar",
+	"word" : "desmochar",
+	"infinitivo" : "desmochar",
+	"participio" : [ "desmochado" ],
+	"gerundio" : [ "desmochando" ],
+	"tenses" : {
+		"3" : [
+			[ "desmocho" ],
+			[ "desmochas", "desmochás" ],
+			[ "desmocha" ],
+			[ "desmochamos" ],
+			[ "desmocháis", "desmochan" ],
+			[ "desmochan" ]
+		],
+		"4" : [
+			[ "desmoché" ],
+			[ "desmochaste" ],
+			[ "desmochó" ],
+			[ "desmochamos" ],
+			[ "desmochasteis", "desmocharon" ],
+			[ "desmocharon" ]
+		],
+		"5" : [
+			[ "desmochaba" ],
+			[ "desmochabas" ],
+			[ "desmochaba" ],
+			[ "desmochábamos" ],
+			[ "desmochabais", "desmochaban" ],
+			[ "desmochaban" ]
+		],
+		"6" : [
+			[ "desmocharía" ],
+			[ "desmocharías" ],
+			[ "desmocharía" ],
+			[ "desmocharíamos" ],
+			[ "desmocharíais", "desmocharían" ],
+			[ "desmocharían" ]
+		],
+		"7" : [
+			[ "desmocharé" ],
+			[ "desmocharás" ],
+			[ "desmochará" ],
+			[ "desmocharemos" ],
+			[ "desmocharéis", "desmocharán" ],
+			[ "desmocharán" ]
+		],
+		"8" : [
+			[ "desmoche" ],
+			[ "desmoches" ],
+			[ "desmoche" ],
+			[ "desmochemos" ],
+			[ "desmochéis", "desmochen" ],
+			[ "desmochen" ]
+		],
+		"9" : [
+			[ "desmochara" ],
+			[ "desmocharas" ],
+			[ "desmochara" ],
+			[ "desmocháramos" ],
+			[ "desmocharais", "desmocharan" ],
+			[ "desmocharan" ]
+		],
+		"10" : [
+			[ "desmochase" ],
+			[ "desmochases" ],
+			[ "desmochase" ],
+			[ "desmochásemos" ],
+			[ "desmochaseis", "desmochasen" ],
+			[ "desmochasen" ]
+		],
+		"11" : [
+			[ "desmochare" ],
+			[ "desmochares" ],
+			[ "desmochare" ],
+			[ "desmocháremos" ],
+			[ "desmochareis", "desmocharen" ],
+			[ "desmocharen" ]
+		],
+		"12" : {
+			"1" : [ "desmocha" ],
+			"2" : [ "desmoche" ],
+			"3" : [ "desmochemos" ],
+			"4" : [ "desmochad" ],
+			"5" : [ "desmochen" ]
+		}
+	}
+}

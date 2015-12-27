@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tornear",
+	"word" : "tornear",
+	"infinitivo" : "tornear",
+	"participio" : [ "torneado" ],
+	"gerundio" : [ "torneando" ],
+	"tenses" : {
+		"3" : [
+			[ "torneo" ],
+			[ "torneas", "torneás" ],
+			[ "tornea" ],
+			[ "torneamos" ],
+			[ "torneáis", "tornean" ],
+			[ "tornean" ]
+		],
+		"4" : [
+			[ "torneé" ],
+			[ "torneaste" ],
+			[ "torneó" ],
+			[ "torneamos" ],
+			[ "torneasteis", "tornearon" ],
+			[ "tornearon" ]
+		],
+		"5" : [
+			[ "torneaba" ],
+			[ "torneabas" ],
+			[ "torneaba" ],
+			[ "torneábamos" ],
+			[ "torneabais", "torneaban" ],
+			[ "torneaban" ]
+		],
+		"6" : [
+			[ "tornearía" ],
+			[ "tornearías" ],
+			[ "tornearía" ],
+			[ "tornearíamos" ],
+			[ "tornearíais", "tornearían" ],
+			[ "tornearían" ]
+		],
+		"7" : [
+			[ "tornearé" ],
+			[ "tornearás" ],
+			[ "torneará" ],
+			[ "tornearemos" ],
+			[ "tornearéis", "tornearán" ],
+			[ "tornearán" ]
+		],
+		"8" : [
+			[ "tornee" ],
+			[ "tornees" ],
+			[ "tornee" ],
+			[ "torneemos" ],
+			[ "torneéis", "torneen" ],
+			[ "torneen" ]
+		],
+		"9" : [
+			[ "torneara" ],
+			[ "tornearas" ],
+			[ "torneara" ],
+			[ "torneáramos" ],
+			[ "tornearais", "tornearan" ],
+			[ "tornearan" ]
+		],
+		"10" : [
+			[ "tornease" ],
+			[ "torneases" ],
+			[ "tornease" ],
+			[ "torneásemos" ],
+			[ "torneaseis", "torneasen" ],
+			[ "torneasen" ]
+		],
+		"11" : [
+			[ "torneare" ],
+			[ "torneares" ],
+			[ "torneare" ],
+			[ "torneáremos" ],
+			[ "torneareis", "tornearen" ],
+			[ "tornearen" ]
+		],
+		"12" : {
+			"1" : [ "tornea" ],
+			"2" : [ "tornee" ],
+			"3" : [ "torneemos" ],
+			"4" : [ "tornead" ],
+			"5" : [ "torneen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repostar",
+	"word" : "repostar",
+	"infinitivo" : "repostar",
+	"participio" : [ "repostado" ],
+	"gerundio" : [ "repostando" ],
+	"tenses" : {
+		"3" : [
+			[ "reposto" ],
+			[ "repostas", "repostás" ],
+			[ "reposta" ],
+			[ "repostamos" ],
+			[ "repostáis", "repostan" ],
+			[ "repostan" ]
+		],
+		"4" : [
+			[ "reposté" ],
+			[ "repostaste" ],
+			[ "repostó" ],
+			[ "repostamos" ],
+			[ "repostasteis", "repostaron" ],
+			[ "repostaron" ]
+		],
+		"5" : [
+			[ "repostaba" ],
+			[ "repostabas" ],
+			[ "repostaba" ],
+			[ "repostábamos" ],
+			[ "repostabais", "repostaban" ],
+			[ "repostaban" ]
+		],
+		"6" : [
+			[ "repostaría" ],
+			[ "repostarías" ],
+			[ "repostaría" ],
+			[ "repostaríamos" ],
+			[ "repostaríais", "repostarían" ],
+			[ "repostarían" ]
+		],
+		"7" : [
+			[ "repostaré" ],
+			[ "repostarás" ],
+			[ "repostará" ],
+			[ "repostaremos" ],
+			[ "repostaréis", "repostarán" ],
+			[ "repostarán" ]
+		],
+		"8" : [
+			[ "reposte" ],
+			[ "repostes" ],
+			[ "reposte" ],
+			[ "repostemos" ],
+			[ "repostéis", "reposten" ],
+			[ "reposten" ]
+		],
+		"9" : [
+			[ "repostara" ],
+			[ "repostaras" ],
+			[ "repostara" ],
+			[ "repostáramos" ],
+			[ "repostarais", "repostaran" ],
+			[ "repostaran" ]
+		],
+		"10" : [
+			[ "repostase" ],
+			[ "repostases" ],
+			[ "repostase" ],
+			[ "repostásemos" ],
+			[ "repostaseis", "repostasen" ],
+			[ "repostasen" ]
+		],
+		"11" : [
+			[ "repostare" ],
+			[ "repostares" ],
+			[ "repostare" ],
+			[ "repostáremos" ],
+			[ "repostareis", "repostaren" ],
+			[ "repostaren" ]
+		],
+		"12" : {
+			"1" : [ "reposta" ],
+			"2" : [ "reposte" ],
+			"3" : [ "repostemos" ],
+			"4" : [ "repostad" ],
+			"5" : [ "reposten" ]
+		}
+	}
+}

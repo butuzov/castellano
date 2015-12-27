@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trabajar",
+	"word" : "trabajar",
+	"infinitivo" : "trabajar",
+	"participio" : [ "trabajado" ],
+	"gerundio" : [ "trabajando" ],
+	"tenses" : {
+		"3" : [
+			[ "trabajo" ],
+			[ "trabajas", "trabajás" ],
+			[ "trabaja" ],
+			[ "trabajamos" ],
+			[ "trabajáis", "trabajan" ],
+			[ "trabajan" ]
+		],
+		"4" : [
+			[ "trabajé" ],
+			[ "trabajaste" ],
+			[ "trabajó" ],
+			[ "trabajamos" ],
+			[ "trabajasteis", "trabajaron" ],
+			[ "trabajaron" ]
+		],
+		"5" : [
+			[ "trabajaba" ],
+			[ "trabajabas" ],
+			[ "trabajaba" ],
+			[ "trabajábamos" ],
+			[ "trabajabais", "trabajaban" ],
+			[ "trabajaban" ]
+		],
+		"6" : [
+			[ "trabajaría" ],
+			[ "trabajarías" ],
+			[ "trabajaría" ],
+			[ "trabajaríamos" ],
+			[ "trabajaríais", "trabajarían" ],
+			[ "trabajarían" ]
+		],
+		"7" : [
+			[ "trabajaré" ],
+			[ "trabajarás" ],
+			[ "trabajará" ],
+			[ "trabajaremos" ],
+			[ "trabajaréis", "trabajarán" ],
+			[ "trabajarán" ]
+		],
+		"8" : [
+			[ "trabaje" ],
+			[ "trabajes" ],
+			[ "trabaje" ],
+			[ "trabajemos" ],
+			[ "trabajéis", "trabajen" ],
+			[ "trabajen" ]
+		],
+		"9" : [
+			[ "trabajara" ],
+			[ "trabajaras" ],
+			[ "trabajara" ],
+			[ "trabajáramos" ],
+			[ "trabajarais", "trabajaran" ],
+			[ "trabajaran" ]
+		],
+		"10" : [
+			[ "trabajase" ],
+			[ "trabajases" ],
+			[ "trabajase" ],
+			[ "trabajásemos" ],
+			[ "trabajaseis", "trabajasen" ],
+			[ "trabajasen" ]
+		],
+		"11" : [
+			[ "trabajare" ],
+			[ "trabajares" ],
+			[ "trabajare" ],
+			[ "trabajáremos" ],
+			[ "trabajareis", "trabajaren" ],
+			[ "trabajaren" ]
+		],
+		"12" : {
+			"1" : [ "trabaja" ],
+			"2" : [ "trabaje" ],
+			"3" : [ "trabajemos" ],
+			"4" : [ "trabajad" ],
+			"5" : [ "trabajen" ]
+		}
+	}
+}

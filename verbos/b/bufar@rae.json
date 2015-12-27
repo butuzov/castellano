@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bufar",
+	"word" : "bufar",
+	"infinitivo" : "bufar",
+	"participio" : [ "bufado" ],
+	"gerundio" : [ "bufando" ],
+	"tenses" : {
+		"3" : [
+			[ "bufo" ],
+			[ "bufas", "bufás" ],
+			[ "bufa" ],
+			[ "bufamos" ],
+			[ "bufáis", "bufan" ],
+			[ "bufan" ]
+		],
+		"4" : [
+			[ "bufé" ],
+			[ "bufaste" ],
+			[ "bufó" ],
+			[ "bufamos" ],
+			[ "bufasteis", "bufaron" ],
+			[ "bufaron" ]
+		],
+		"5" : [
+			[ "bufaba" ],
+			[ "bufabas" ],
+			[ "bufaba" ],
+			[ "bufábamos" ],
+			[ "bufabais", "bufaban" ],
+			[ "bufaban" ]
+		],
+		"6" : [
+			[ "bufaría" ],
+			[ "bufarías" ],
+			[ "bufaría" ],
+			[ "bufaríamos" ],
+			[ "bufaríais", "bufarían" ],
+			[ "bufarían" ]
+		],
+		"7" : [
+			[ "bufaré" ],
+			[ "bufarás" ],
+			[ "bufará" ],
+			[ "bufaremos" ],
+			[ "bufaréis", "bufarán" ],
+			[ "bufarán" ]
+		],
+		"8" : [
+			[ "bufe" ],
+			[ "bufes" ],
+			[ "bufe" ],
+			[ "bufemos" ],
+			[ "buféis", "bufen" ],
+			[ "bufen" ]
+		],
+		"9" : [
+			[ "bufara" ],
+			[ "bufaras" ],
+			[ "bufara" ],
+			[ "bufáramos" ],
+			[ "bufarais", "bufaran" ],
+			[ "bufaran" ]
+		],
+		"10" : [
+			[ "bufase" ],
+			[ "bufases" ],
+			[ "bufase" ],
+			[ "bufásemos" ],
+			[ "bufaseis", "bufasen" ],
+			[ "bufasen" ]
+		],
+		"11" : [
+			[ "bufare" ],
+			[ "bufares" ],
+			[ "bufare" ],
+			[ "bufáremos" ],
+			[ "bufareis", "bufaren" ],
+			[ "bufaren" ]
+		],
+		"12" : {
+			"1" : [ "bufa" ],
+			"2" : [ "bufe" ],
+			"3" : [ "bufemos" ],
+			"4" : [ "bufad" ],
+			"5" : [ "bufen" ]
+		}
+	}
+}

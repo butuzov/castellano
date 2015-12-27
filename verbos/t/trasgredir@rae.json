@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trasgredir",
+	"word" : "trasgredir",
+	"infinitivo" : "trasgredir",
+	"participio" : [ "trasgredido" ],
+	"gerundio" : [ "trasgrediendo" ],
+	"tenses" : {
+		"3" : [
+			[ "trasgredo" ],
+			[ "trasgredes", "trasgredís" ],
+			[ "trasgrede" ],
+			[ "trasgredimos" ],
+			[ "trasgredís", "trasgreden" ],
+			[ "trasgreden" ]
+		],
+		"4" : [
+			[ "trasgredí" ],
+			[ "trasgrediste" ],
+			[ "trasgredió" ],
+			[ "trasgredimos" ],
+			[ "trasgredisteis", "trasgredieron" ],
+			[ "trasgredieron" ]
+		],
+		"5" : [
+			[ "trasgredía" ],
+			[ "trasgredías" ],
+			[ "trasgredía" ],
+			[ "trasgredíamos" ],
+			[ "trasgredíais", "trasgredían" ],
+			[ "trasgredían" ]
+		],
+		"6" : [
+			[ "trasgrediría" ],
+			[ "trasgredirías" ],
+			[ "trasgrediría" ],
+			[ "trasgrediríamos" ],
+			[ "trasgrediríais", "trasgredirían" ],
+			[ "trasgredirían" ]
+		],
+		"7" : [
+			[ "trasgrediré" ],
+			[ "trasgredirás" ],
+			[ "trasgredirá" ],
+			[ "trasgrediremos" ],
+			[ "trasgrediréis", "trasgredirán" ],
+			[ "trasgredirán" ]
+		],
+		"8" : [
+			[ "trasgreda" ],
+			[ "trasgredas" ],
+			[ "trasgreda" ],
+			[ "trasgredamos" ],
+			[ "trasgredáis", "trasgredan" ],
+			[ "trasgredan" ]
+		],
+		"9" : [
+			[ "trasgrediera" ],
+			[ "trasgredieras" ],
+			[ "trasgrediera" ],
+			[ "trasgrediéramos" ],
+			[ "trasgredierais", "trasgredieran" ],
+			[ "trasgredieran" ]
+		],
+		"10" : [
+			[ "trasgrediese" ],
+			[ "trasgredieses" ],
+			[ "trasgrediese" ],
+			[ "trasgrediésemos" ],
+			[ "trasgredieseis", "trasgrediesen" ],
+			[ "trasgrediesen" ]
+		],
+		"11" : [
+			[ "trasgrediere" ],
+			[ "trasgredieres" ],
+			[ "trasgrediere" ],
+			[ "trasgrediéremos" ],
+			[ "trasgrediereis", "trasgredieren" ],
+			[ "trasgredieren" ]
+		],
+		"12" : {
+			"1" : [ "trasgrede" ],
+			"2" : [ "trasgreda" ],
+			"3" : [ "trasgredamos" ],
+			"4" : [ "trasgredid" ],
+			"5" : [ "trasgredan" ]
+		}
+	}
+}

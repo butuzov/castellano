@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=compensar",
+	"word" : "compensar",
+	"infinitivo" : "compensar",
+	"participio" : [ "compensado" ],
+	"gerundio" : [ "compensando" ],
+	"tenses" : {
+		"3" : [
+			[ "compenso" ],
+			[ "compensas", "compensás" ],
+			[ "compensa" ],
+			[ "compensamos" ],
+			[ "compensáis", "compensan" ],
+			[ "compensan" ]
+		],
+		"4" : [
+			[ "compensé" ],
+			[ "compensaste" ],
+			[ "compensó" ],
+			[ "compensamos" ],
+			[ "compensasteis", "compensaron" ],
+			[ "compensaron" ]
+		],
+		"5" : [
+			[ "compensaba" ],
+			[ "compensabas" ],
+			[ "compensaba" ],
+			[ "compensábamos" ],
+			[ "compensabais", "compensaban" ],
+			[ "compensaban" ]
+		],
+		"6" : [
+			[ "compensaría" ],
+			[ "compensarías" ],
+			[ "compensaría" ],
+			[ "compensaríamos" ],
+			[ "compensaríais", "compensarían" ],
+			[ "compensarían" ]
+		],
+		"7" : [
+			[ "compensaré" ],
+			[ "compensarás" ],
+			[ "compensará" ],
+			[ "compensaremos" ],
+			[ "compensaréis", "compensarán" ],
+			[ "compensarán" ]
+		],
+		"8" : [
+			[ "compense" ],
+			[ "compenses" ],
+			[ "compense" ],
+			[ "compensemos" ],
+			[ "compenséis", "compensen" ],
+			[ "compensen" ]
+		],
+		"9" : [
+			[ "compensara" ],
+			[ "compensaras" ],
+			[ "compensara" ],
+			[ "compensáramos" ],
+			[ "compensarais", "compensaran" ],
+			[ "compensaran" ]
+		],
+		"10" : [
+			[ "compensase" ],
+			[ "compensases" ],
+			[ "compensase" ],
+			[ "compensásemos" ],
+			[ "compensaseis", "compensasen" ],
+			[ "compensasen" ]
+		],
+		"11" : [
+			[ "compensare" ],
+			[ "compensares" ],
+			[ "compensare" ],
+			[ "compensáremos" ],
+			[ "compensareis", "compensaren" ],
+			[ "compensaren" ]
+		],
+		"12" : {
+			"1" : [ "compensa" ],
+			"2" : [ "compense" ],
+			"3" : [ "compensemos" ],
+			"4" : [ "compensad" ],
+			"5" : [ "compensen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=autenticar",
+	"word" : "autenticar",
+	"infinitivo" : "autenticar",
+	"participio" : [ "autenticado" ],
+	"gerundio" : [ "autenticando" ],
+	"tenses" : {
+		"3" : [
+			[ "autentico" ],
+			[ "autenticas", "autenticás" ],
+			[ "autentica" ],
+			[ "autenticamos" ],
+			[ "autenticáis", "autentican" ],
+			[ "autentican" ]
+		],
+		"4" : [
+			[ "autentiqué" ],
+			[ "autenticaste" ],
+			[ "autenticó" ],
+			[ "autenticamos" ],
+			[ "autenticasteis", "autenticaron" ],
+			[ "autenticaron" ]
+		],
+		"5" : [
+			[ "autenticaba" ],
+			[ "autenticabas" ],
+			[ "autenticaba" ],
+			[ "autenticábamos" ],
+			[ "autenticabais", "autenticaban" ],
+			[ "autenticaban" ]
+		],
+		"6" : [
+			[ "autenticaría" ],
+			[ "autenticarías" ],
+			[ "autenticaría" ],
+			[ "autenticaríamos" ],
+			[ "autenticaríais", "autenticarían" ],
+			[ "autenticarían" ]
+		],
+		"7" : [
+			[ "autenticaré" ],
+			[ "autenticarás" ],
+			[ "autenticará" ],
+			[ "autenticaremos" ],
+			[ "autenticaréis", "autenticarán" ],
+			[ "autenticarán" ]
+		],
+		"8" : [
+			[ "autentique" ],
+			[ "autentiques" ],
+			[ "autentique" ],
+			[ "autentiquemos" ],
+			[ "autentiquéis", "autentiquen" ],
+			[ "autentiquen" ]
+		],
+		"9" : [
+			[ "autenticara" ],
+			[ "autenticaras" ],
+			[ "autenticara" ],
+			[ "autenticáramos" ],
+			[ "autenticarais", "autenticaran" ],
+			[ "autenticaran" ]
+		],
+		"10" : [
+			[ "autenticase" ],
+			[ "autenticases" ],
+			[ "autenticase" ],
+			[ "autenticásemos" ],
+			[ "autenticaseis", "autenticasen" ],
+			[ "autenticasen" ]
+		],
+		"11" : [
+			[ "autenticare" ],
+			[ "autenticares" ],
+			[ "autenticare" ],
+			[ "autenticáremos" ],
+			[ "autenticareis", "autenticaren" ],
+			[ "autenticaren" ]
+		],
+		"12" : {
+			"1" : [ "autentica" ],
+			"2" : [ "autentique" ],
+			"3" : [ "autentiquemos" ],
+			"4" : [ "autenticad" ],
+			"5" : [ "autentiquen" ]
+		}
+	}
+}

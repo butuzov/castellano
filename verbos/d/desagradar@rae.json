@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desagradar",
+	"word" : "desagradar",
+	"infinitivo" : "desagradar",
+	"participio" : [ "desagradado" ],
+	"gerundio" : [ "desagradando" ],
+	"tenses" : {
+		"3" : [
+			[ "desagrado" ],
+			[ "desagradas", "desagradás" ],
+			[ "desagrada" ],
+			[ "desagradamos" ],
+			[ "desagradáis", "desagradan" ],
+			[ "desagradan" ]
+		],
+		"4" : [
+			[ "desagradé" ],
+			[ "desagradaste" ],
+			[ "desagradó" ],
+			[ "desagradamos" ],
+			[ "desagradasteis", "desagradaron" ],
+			[ "desagradaron" ]
+		],
+		"5" : [
+			[ "desagradaba" ],
+			[ "desagradabas" ],
+			[ "desagradaba" ],
+			[ "desagradábamos" ],
+			[ "desagradabais", "desagradaban" ],
+			[ "desagradaban" ]
+		],
+		"6" : [
+			[ "desagradaría" ],
+			[ "desagradarías" ],
+			[ "desagradaría" ],
+			[ "desagradaríamos" ],
+			[ "desagradaríais", "desagradarían" ],
+			[ "desagradarían" ]
+		],
+		"7" : [
+			[ "desagradaré" ],
+			[ "desagradarás" ],
+			[ "desagradará" ],
+			[ "desagradaremos" ],
+			[ "desagradaréis", "desagradarán" ],
+			[ "desagradarán" ]
+		],
+		"8" : [
+			[ "desagrade" ],
+			[ "desagrades" ],
+			[ "desagrade" ],
+			[ "desagrademos" ],
+			[ "desagradéis", "desagraden" ],
+			[ "desagraden" ]
+		],
+		"9" : [
+			[ "desagradara" ],
+			[ "desagradaras" ],
+			[ "desagradara" ],
+			[ "desagradáramos" ],
+			[ "desagradarais", "desagradaran" ],
+			[ "desagradaran" ]
+		],
+		"10" : [
+			[ "desagradase" ],
+			[ "desagradases" ],
+			[ "desagradase" ],
+			[ "desagradásemos" ],
+			[ "desagradaseis", "desagradasen" ],
+			[ "desagradasen" ]
+		],
+		"11" : [
+			[ "desagradare" ],
+			[ "desagradares" ],
+			[ "desagradare" ],
+			[ "desagradáremos" ],
+			[ "desagradareis", "desagradaren" ],
+			[ "desagradaren" ]
+		],
+		"12" : {
+			"1" : [ "desagrada" ],
+			"2" : [ "desagrade" ],
+			"3" : [ "desagrademos" ],
+			"4" : [ "desagradad" ],
+			"5" : [ "desagraden" ]
+		}
+	}
+}

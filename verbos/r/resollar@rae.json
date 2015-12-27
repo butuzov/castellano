@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resollar",
+	"word" : "resollar",
+	"infinitivo" : "resollar",
+	"participio" : [ "resollado" ],
+	"gerundio" : [ "resollando" ],
+	"tenses" : {
+		"3" : [
+			[ "resuello" ],
+			[ "resuellas", "resollás" ],
+			[ "resuella" ],
+			[ "resollamos" ],
+			[ "resolláis", "resuellan" ],
+			[ "resuellan" ]
+		],
+		"4" : [
+			[ "resollé" ],
+			[ "resollaste" ],
+			[ "resolló" ],
+			[ "resollamos" ],
+			[ "resollasteis", "resollaron" ],
+			[ "resollaron" ]
+		],
+		"5" : [
+			[ "resollaba" ],
+			[ "resollabas" ],
+			[ "resollaba" ],
+			[ "resollábamos" ],
+			[ "resollabais", "resollaban" ],
+			[ "resollaban" ]
+		],
+		"6" : [
+			[ "resollaría" ],
+			[ "resollarías" ],
+			[ "resollaría" ],
+			[ "resollaríamos" ],
+			[ "resollaríais", "resollarían" ],
+			[ "resollarían" ]
+		],
+		"7" : [
+			[ "resollaré" ],
+			[ "resollarás" ],
+			[ "resollará" ],
+			[ "resollaremos" ],
+			[ "resollaréis", "resollarán" ],
+			[ "resollarán" ]
+		],
+		"8" : [
+			[ "resuelle" ],
+			[ "resuelles" ],
+			[ "resuelle" ],
+			[ "resollemos" ],
+			[ "resolléis", "resuellen" ],
+			[ "resuellen" ]
+		],
+		"9" : [
+			[ "resollara" ],
+			[ "resollaras" ],
+			[ "resollara" ],
+			[ "resolláramos" ],
+			[ "resollarais", "resollaran" ],
+			[ "resollaran" ]
+		],
+		"10" : [
+			[ "resollase" ],
+			[ "resollases" ],
+			[ "resollase" ],
+			[ "resollásemos" ],
+			[ "resollaseis", "resollasen" ],
+			[ "resollasen" ]
+		],
+		"11" : [
+			[ "resollare" ],
+			[ "resollares" ],
+			[ "resollare" ],
+			[ "resolláremos" ],
+			[ "resollareis", "resollaren" ],
+			[ "resollaren" ]
+		],
+		"12" : {
+			"1" : [ "resuella" ],
+			"2" : [ "resuelle" ],
+			"3" : [ "resollemos" ],
+			"4" : [ "resollad" ],
+			"5" : [ "resuellen" ]
+		}
+	}
+}

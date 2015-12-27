@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aludir",
+	"word" : "aludir",
+	"infinitivo" : "aludir",
+	"participio" : [ "aludido" ],
+	"gerundio" : [ "aludiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aludo" ],
+			[ "aludes", "aludís" ],
+			[ "alude" ],
+			[ "aludimos" ],
+			[ "aludís", "aluden" ],
+			[ "aluden" ]
+		],
+		"4" : [
+			[ "aludí" ],
+			[ "aludiste" ],
+			[ "aludió" ],
+			[ "aludimos" ],
+			[ "aludisteis", "aludieron" ],
+			[ "aludieron" ]
+		],
+		"5" : [
+			[ "aludía" ],
+			[ "aludías" ],
+			[ "aludía" ],
+			[ "aludíamos" ],
+			[ "aludíais", "aludían" ],
+			[ "aludían" ]
+		],
+		"6" : [
+			[ "aludiría" ],
+			[ "aludirías" ],
+			[ "aludiría" ],
+			[ "aludiríamos" ],
+			[ "aludiríais", "aludirían" ],
+			[ "aludirían" ]
+		],
+		"7" : [
+			[ "aludiré" ],
+			[ "aludirás" ],
+			[ "aludirá" ],
+			[ "aludiremos" ],
+			[ "aludiréis", "aludirán" ],
+			[ "aludirán" ]
+		],
+		"8" : [
+			[ "aluda" ],
+			[ "aludas" ],
+			[ "aluda" ],
+			[ "aludamos" ],
+			[ "aludáis", "aludan" ],
+			[ "aludan" ]
+		],
+		"9" : [
+			[ "aludiera" ],
+			[ "aludieras" ],
+			[ "aludiera" ],
+			[ "aludiéramos" ],
+			[ "aludierais", "aludieran" ],
+			[ "aludieran" ]
+		],
+		"10" : [
+			[ "aludiese" ],
+			[ "aludieses" ],
+			[ "aludiese" ],
+			[ "aludiésemos" ],
+			[ "aludieseis", "aludiesen" ],
+			[ "aludiesen" ]
+		],
+		"11" : [
+			[ "aludiere" ],
+			[ "aludieres" ],
+			[ "aludiere" ],
+			[ "aludiéremos" ],
+			[ "aludiereis", "aludieren" ],
+			[ "aludieren" ]
+		],
+		"12" : {
+			"1" : [ "alude" ],
+			"2" : [ "aluda" ],
+			"3" : [ "aludamos" ],
+			"4" : [ "aludid" ],
+			"5" : [ "aludan" ]
+		}
+	}
+}

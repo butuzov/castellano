@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encubrir",
+	"word" : "encubrir",
+	"infinitivo" : "encubrir",
+	"participio" : [ "encubierto" ],
+	"gerundio" : [ "encubriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "encubro" ],
+			[ "encubres", "encubrís" ],
+			[ "encubre" ],
+			[ "encubrimos" ],
+			[ "encubrís", "encubren" ],
+			[ "encubren" ]
+		],
+		"4" : [
+			[ "encubrí" ],
+			[ "encubriste" ],
+			[ "encubrió" ],
+			[ "encubrimos" ],
+			[ "encubristeis", "encubrieron" ],
+			[ "encubrieron" ]
+		],
+		"5" : [
+			[ "encubría" ],
+			[ "encubrías" ],
+			[ "encubría" ],
+			[ "encubríamos" ],
+			[ "encubríais", "encubrían" ],
+			[ "encubrían" ]
+		],
+		"6" : [
+			[ "encubriría" ],
+			[ "encubrirías" ],
+			[ "encubriría" ],
+			[ "encubriríamos" ],
+			[ "encubriríais", "encubrirían" ],
+			[ "encubrirían" ]
+		],
+		"7" : [
+			[ "encubriré" ],
+			[ "encubrirás" ],
+			[ "encubrirá" ],
+			[ "encubriremos" ],
+			[ "encubriréis", "encubrirán" ],
+			[ "encubrirán" ]
+		],
+		"8" : [
+			[ "encubra" ],
+			[ "encubras" ],
+			[ "encubra" ],
+			[ "encubramos" ],
+			[ "encubráis", "encubran" ],
+			[ "encubran" ]
+		],
+		"9" : [
+			[ "encubriera" ],
+			[ "encubrieras" ],
+			[ "encubriera" ],
+			[ "encubriéramos" ],
+			[ "encubrierais", "encubrieran" ],
+			[ "encubrieran" ]
+		],
+		"10" : [
+			[ "encubriese" ],
+			[ "encubrieses" ],
+			[ "encubriese" ],
+			[ "encubriésemos" ],
+			[ "encubrieseis", "encubriesen" ],
+			[ "encubriesen" ]
+		],
+		"11" : [
+			[ "encubriere" ],
+			[ "encubrieres" ],
+			[ "encubriere" ],
+			[ "encubriéremos" ],
+			[ "encubriereis", "encubrieren" ],
+			[ "encubrieren" ]
+		],
+		"12" : {
+			"1" : [ "encubre" ],
+			"2" : [ "encubra" ],
+			"3" : [ "encubramos" ],
+			"4" : [ "encubrid" ],
+			"5" : [ "encubran" ]
+		}
+	}
+}

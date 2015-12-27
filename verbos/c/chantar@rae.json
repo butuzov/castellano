@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chantar",
+	"word" : "chantar",
+	"infinitivo" : "chantar",
+	"participio" : [ "chantado" ],
+	"gerundio" : [ "chantando" ],
+	"tenses" : {
+		"3" : [
+			[ "chanto" ],
+			[ "chantas", "chantás" ],
+			[ "chanta" ],
+			[ "chantamos" ],
+			[ "chantáis", "chantan" ],
+			[ "chantan" ]
+		],
+		"4" : [
+			[ "chanté" ],
+			[ "chantaste" ],
+			[ "chantó" ],
+			[ "chantamos" ],
+			[ "chantasteis", "chantaron" ],
+			[ "chantaron" ]
+		],
+		"5" : [
+			[ "chantaba" ],
+			[ "chantabas" ],
+			[ "chantaba" ],
+			[ "chantábamos" ],
+			[ "chantabais", "chantaban" ],
+			[ "chantaban" ]
+		],
+		"6" : [
+			[ "chantaría" ],
+			[ "chantarías" ],
+			[ "chantaría" ],
+			[ "chantaríamos" ],
+			[ "chantaríais", "chantarían" ],
+			[ "chantarían" ]
+		],
+		"7" : [
+			[ "chantaré" ],
+			[ "chantarás" ],
+			[ "chantará" ],
+			[ "chantaremos" ],
+			[ "chantaréis", "chantarán" ],
+			[ "chantarán" ]
+		],
+		"8" : [
+			[ "chante" ],
+			[ "chantes" ],
+			[ "chante" ],
+			[ "chantemos" ],
+			[ "chantéis", "chanten" ],
+			[ "chanten" ]
+		],
+		"9" : [
+			[ "chantara" ],
+			[ "chantaras" ],
+			[ "chantara" ],
+			[ "chantáramos" ],
+			[ "chantarais", "chantaran" ],
+			[ "chantaran" ]
+		],
+		"10" : [
+			[ "chantase" ],
+			[ "chantases" ],
+			[ "chantase" ],
+			[ "chantásemos" ],
+			[ "chantaseis", "chantasen" ],
+			[ "chantasen" ]
+		],
+		"11" : [
+			[ "chantare" ],
+			[ "chantares" ],
+			[ "chantare" ],
+			[ "chantáremos" ],
+			[ "chantareis", "chantaren" ],
+			[ "chantaren" ]
+		],
+		"12" : {
+			"1" : [ "chanta" ],
+			"2" : [ "chante" ],
+			"3" : [ "chantemos" ],
+			"4" : [ "chantad" ],
+			"5" : [ "chanten" ]
+		}
+	}
+}

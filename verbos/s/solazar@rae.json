@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=solazar",
+	"word" : "solazar",
+	"infinitivo" : "solazar",
+	"participio" : [ "solazado" ],
+	"gerundio" : [ "solazando" ],
+	"tenses" : {
+		"3" : [
+			[ "solazo" ],
+			[ "solazas", "solazás" ],
+			[ "solaza" ],
+			[ "solazamos" ],
+			[ "solazáis", "solazan" ],
+			[ "solazan" ]
+		],
+		"4" : [
+			[ "solacé" ],
+			[ "solazaste" ],
+			[ "solazó" ],
+			[ "solazamos" ],
+			[ "solazasteis", "solazaron" ],
+			[ "solazaron" ]
+		],
+		"5" : [
+			[ "solazaba" ],
+			[ "solazabas" ],
+			[ "solazaba" ],
+			[ "solazábamos" ],
+			[ "solazabais", "solazaban" ],
+			[ "solazaban" ]
+		],
+		"6" : [
+			[ "solazaría" ],
+			[ "solazarías" ],
+			[ "solazaría" ],
+			[ "solazaríamos" ],
+			[ "solazaríais", "solazarían" ],
+			[ "solazarían" ]
+		],
+		"7" : [
+			[ "solazaré" ],
+			[ "solazarás" ],
+			[ "solazará" ],
+			[ "solazaremos" ],
+			[ "solazaréis", "solazarán" ],
+			[ "solazarán" ]
+		],
+		"8" : [
+			[ "solace" ],
+			[ "solaces" ],
+			[ "solace" ],
+			[ "solacemos" ],
+			[ "solacéis", "solacen" ],
+			[ "solacen" ]
+		],
+		"9" : [
+			[ "solazara" ],
+			[ "solazaras" ],
+			[ "solazara" ],
+			[ "solazáramos" ],
+			[ "solazarais", "solazaran" ],
+			[ "solazaran" ]
+		],
+		"10" : [
+			[ "solazase" ],
+			[ "solazases" ],
+			[ "solazase" ],
+			[ "solazásemos" ],
+			[ "solazaseis", "solazasen" ],
+			[ "solazasen" ]
+		],
+		"11" : [
+			[ "solazare" ],
+			[ "solazares" ],
+			[ "solazare" ],
+			[ "solazáremos" ],
+			[ "solazareis", "solazaren" ],
+			[ "solazaren" ]
+		],
+		"12" : {
+			"1" : [ "solaza" ],
+			"2" : [ "solace" ],
+			"3" : [ "solacemos" ],
+			"4" : [ "solazad" ],
+			"5" : [ "solacen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acampanar",
+	"word" : "acampanar",
+	"infinitivo" : "acampanar",
+	"participio" : [ "acampanado" ],
+	"gerundio" : [ "acampanando" ],
+	"tenses" : {
+		"3" : [
+			[ "acampano" ],
+			[ "acampanas", "acampanás" ],
+			[ "acampana" ],
+			[ "acampanamos" ],
+			[ "acampanáis", "acampanan" ],
+			[ "acampanan" ]
+		],
+		"4" : [
+			[ "acampané" ],
+			[ "acampanaste" ],
+			[ "acampanó" ],
+			[ "acampanamos" ],
+			[ "acampanasteis", "acampanaron" ],
+			[ "acampanaron" ]
+		],
+		"5" : [
+			[ "acampanaba" ],
+			[ "acampanabas" ],
+			[ "acampanaba" ],
+			[ "acampanábamos" ],
+			[ "acampanabais", "acampanaban" ],
+			[ "acampanaban" ]
+		],
+		"6" : [
+			[ "acampanaría" ],
+			[ "acampanarías" ],
+			[ "acampanaría" ],
+			[ "acampanaríamos" ],
+			[ "acampanaríais", "acampanarían" ],
+			[ "acampanarían" ]
+		],
+		"7" : [
+			[ "acampanaré" ],
+			[ "acampanarás" ],
+			[ "acampanará" ],
+			[ "acampanaremos" ],
+			[ "acampanaréis", "acampanarán" ],
+			[ "acampanarán" ]
+		],
+		"8" : [
+			[ "acampane" ],
+			[ "acampanes" ],
+			[ "acampane" ],
+			[ "acampanemos" ],
+			[ "acampanéis", "acampanen" ],
+			[ "acampanen" ]
+		],
+		"9" : [
+			[ "acampanara" ],
+			[ "acampanaras" ],
+			[ "acampanara" ],
+			[ "acampanáramos" ],
+			[ "acampanarais", "acampanaran" ],
+			[ "acampanaran" ]
+		],
+		"10" : [
+			[ "acampanase" ],
+			[ "acampanases" ],
+			[ "acampanase" ],
+			[ "acampanásemos" ],
+			[ "acampanaseis", "acampanasen" ],
+			[ "acampanasen" ]
+		],
+		"11" : [
+			[ "acampanare" ],
+			[ "acampanares" ],
+			[ "acampanare" ],
+			[ "acampanáremos" ],
+			[ "acampanareis", "acampanaren" ],
+			[ "acampanaren" ]
+		],
+		"12" : {
+			"1" : [ "acampana" ],
+			"2" : [ "acampane" ],
+			"3" : [ "acampanemos" ],
+			"4" : [ "acampanad" ],
+			"5" : [ "acampanen" ]
+		}
+	}
+}

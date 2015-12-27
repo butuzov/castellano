@@ -1,0 +1,45 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acaecer",
+	"word" : "acaecer",
+	"infinitivo" : "acaecer",
+	"participio" : [ "acaecido" ],
+	"gerundio" : [ "acaeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "acaece" ],
+			[ "acaecen" ]
+		],
+		"4" : [
+			[ "acaeció" ],
+			[ "acaecieron" ]
+		],
+		"5" : [
+			[ "acaecía" ],
+			[ "acaecían" ]
+		],
+		"6" : [
+			[ "acaecería" ],
+			[ "acaecerían" ]
+		],
+		"7" : [
+			[ "acaecerá" ],
+			[ "acaecerán" ]
+		],
+		"8" : [
+			[ "acaezca" ],
+			[ "acaezcan" ]
+		],
+		"9" : [
+			[ "acaeciera" ],
+			[ "acaecieran" ]
+		],
+		"10" : [
+			[ "acaeciese" ],
+			[ "acaeciesen" ]
+		],
+		"11" : [
+			[ "acaeciere" ],
+			[ "acaecieren" ]
+		]
+	}
+}

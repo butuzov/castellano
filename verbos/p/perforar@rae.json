@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=perforar",
+	"word" : "perforar",
+	"infinitivo" : "perforar",
+	"participio" : [ "perforado" ],
+	"gerundio" : [ "perforando" ],
+	"tenses" : {
+		"3" : [
+			[ "perforo" ],
+			[ "perforas", "perforás" ],
+			[ "perfora" ],
+			[ "perforamos" ],
+			[ "perforáis", "perforan" ],
+			[ "perforan" ]
+		],
+		"4" : [
+			[ "perforé" ],
+			[ "perforaste" ],
+			[ "perforó" ],
+			[ "perforamos" ],
+			[ "perforasteis", "perforaron" ],
+			[ "perforaron" ]
+		],
+		"5" : [
+			[ "perforaba" ],
+			[ "perforabas" ],
+			[ "perforaba" ],
+			[ "perforábamos" ],
+			[ "perforabais", "perforaban" ],
+			[ "perforaban" ]
+		],
+		"6" : [
+			[ "perforaría" ],
+			[ "perforarías" ],
+			[ "perforaría" ],
+			[ "perforaríamos" ],
+			[ "perforaríais", "perforarían" ],
+			[ "perforarían" ]
+		],
+		"7" : [
+			[ "perforaré" ],
+			[ "perforarás" ],
+			[ "perforará" ],
+			[ "perforaremos" ],
+			[ "perforaréis", "perforarán" ],
+			[ "perforarán" ]
+		],
+		"8" : [
+			[ "perfore" ],
+			[ "perfores" ],
+			[ "perfore" ],
+			[ "perforemos" ],
+			[ "perforéis", "perforen" ],
+			[ "perforen" ]
+		],
+		"9" : [
+			[ "perforara" ],
+			[ "perforaras" ],
+			[ "perforara" ],
+			[ "perforáramos" ],
+			[ "perforarais", "perforaran" ],
+			[ "perforaran" ]
+		],
+		"10" : [
+			[ "perforase" ],
+			[ "perforases" ],
+			[ "perforase" ],
+			[ "perforásemos" ],
+			[ "perforaseis", "perforasen" ],
+			[ "perforasen" ]
+		],
+		"11" : [
+			[ "perforare" ],
+			[ "perforares" ],
+			[ "perforare" ],
+			[ "perforáremos" ],
+			[ "perforareis", "perforaren" ],
+			[ "perforaren" ]
+		],
+		"12" : {
+			"1" : [ "perfora" ],
+			"2" : [ "perfore" ],
+			"3" : [ "perforemos" ],
+			"4" : [ "perforad" ],
+			"5" : [ "perforen" ]
+		}
+	}
+}

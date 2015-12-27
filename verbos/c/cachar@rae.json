@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cachar",
+	"word" : "cachar",
+	"infinitivo" : "cachar",
+	"participio" : [ "cachado" ],
+	"gerundio" : [ "cachando" ],
+	"tenses" : {
+		"3" : [
+			[ "cacho" ],
+			[ "cachas", "cachás" ],
+			[ "cacha" ],
+			[ "cachamos" ],
+			[ "cacháis", "cachan" ],
+			[ "cachan" ]
+		],
+		"4" : [
+			[ "caché" ],
+			[ "cachaste" ],
+			[ "cachó" ],
+			[ "cachamos" ],
+			[ "cachasteis", "cacharon" ],
+			[ "cacharon" ]
+		],
+		"5" : [
+			[ "cachaba" ],
+			[ "cachabas" ],
+			[ "cachaba" ],
+			[ "cachábamos" ],
+			[ "cachabais", "cachaban" ],
+			[ "cachaban" ]
+		],
+		"6" : [
+			[ "cacharía" ],
+			[ "cacharías" ],
+			[ "cacharía" ],
+			[ "cacharíamos" ],
+			[ "cacharíais", "cacharían" ],
+			[ "cacharían" ]
+		],
+		"7" : [
+			[ "cacharé" ],
+			[ "cacharás" ],
+			[ "cachará" ],
+			[ "cacharemos" ],
+			[ "cacharéis", "cacharán" ],
+			[ "cacharán" ]
+		],
+		"8" : [
+			[ "cache" ],
+			[ "caches" ],
+			[ "cache" ],
+			[ "cachemos" ],
+			[ "cachéis", "cachen" ],
+			[ "cachen" ]
+		],
+		"9" : [
+			[ "cachara" ],
+			[ "cacharas" ],
+			[ "cachara" ],
+			[ "cacháramos" ],
+			[ "cacharais", "cacharan" ],
+			[ "cacharan" ]
+		],
+		"10" : [
+			[ "cachase" ],
+			[ "cachases" ],
+			[ "cachase" ],
+			[ "cachásemos" ],
+			[ "cachaseis", "cachasen" ],
+			[ "cachasen" ]
+		],
+		"11" : [
+			[ "cachare" ],
+			[ "cachares" ],
+			[ "cachare" ],
+			[ "cacháremos" ],
+			[ "cachareis", "cacharen" ],
+			[ "cacharen" ]
+		],
+		"12" : {
+			"1" : [ "cacha" ],
+			"2" : [ "cache" ],
+			"3" : [ "cachemos" ],
+			"4" : [ "cachad" ],
+			"5" : [ "cachen" ]
+		}
+	}
+}

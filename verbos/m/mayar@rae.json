@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mayar",
+	"word" : "mayar",
+	"infinitivo" : "mayar",
+	"participio" : [ "mayado" ],
+	"gerundio" : [ "mayando" ],
+	"tenses" : {
+		"3" : [
+			[ "mayo" ],
+			[ "mayas", "mayás" ],
+			[ "maya" ],
+			[ "mayamos" ],
+			[ "mayáis", "mayan" ],
+			[ "mayan" ]
+		],
+		"4" : [
+			[ "mayé" ],
+			[ "mayaste" ],
+			[ "mayó" ],
+			[ "mayamos" ],
+			[ "mayasteis", "mayaron" ],
+			[ "mayaron" ]
+		],
+		"5" : [
+			[ "mayaba" ],
+			[ "mayabas" ],
+			[ "mayaba" ],
+			[ "mayábamos" ],
+			[ "mayabais", "mayaban" ],
+			[ "mayaban" ]
+		],
+		"6" : [
+			[ "mayaría" ],
+			[ "mayarías" ],
+			[ "mayaría" ],
+			[ "mayaríamos" ],
+			[ "mayaríais", "mayarían" ],
+			[ "mayarían" ]
+		],
+		"7" : [
+			[ "mayaré" ],
+			[ "mayarás" ],
+			[ "mayará" ],
+			[ "mayaremos" ],
+			[ "mayaréis", "mayarán" ],
+			[ "mayarán" ]
+		],
+		"8" : [
+			[ "maye" ],
+			[ "mayes" ],
+			[ "maye" ],
+			[ "mayemos" ],
+			[ "mayéis", "mayen" ],
+			[ "mayen" ]
+		],
+		"9" : [
+			[ "mayara" ],
+			[ "mayaras" ],
+			[ "mayara" ],
+			[ "mayáramos" ],
+			[ "mayarais", "mayaran" ],
+			[ "mayaran" ]
+		],
+		"10" : [
+			[ "mayase" ],
+			[ "mayases" ],
+			[ "mayase" ],
+			[ "mayásemos" ],
+			[ "mayaseis", "mayasen" ],
+			[ "mayasen" ]
+		],
+		"11" : [
+			[ "mayare" ],
+			[ "mayares" ],
+			[ "mayare" ],
+			[ "mayáremos" ],
+			[ "mayareis", "mayaren" ],
+			[ "mayaren" ]
+		],
+		"12" : {
+			"1" : [ "maya" ],
+			"2" : [ "maye" ],
+			"3" : [ "mayemos" ],
+			"4" : [ "mayad" ],
+			"5" : [ "mayen" ]
+		}
+	}
+}

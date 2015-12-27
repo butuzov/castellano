@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contentar",
+	"word" : "contentar",
+	"infinitivo" : "contentar",
+	"participio" : [ "contentado" ],
+	"gerundio" : [ "contentando" ],
+	"tenses" : {
+		"3" : [
+			[ "contento" ],
+			[ "contentas", "contentás" ],
+			[ "contenta" ],
+			[ "contentamos" ],
+			[ "contentáis", "contentan" ],
+			[ "contentan" ]
+		],
+		"4" : [
+			[ "contenté" ],
+			[ "contentaste" ],
+			[ "contentó" ],
+			[ "contentamos" ],
+			[ "contentasteis", "contentaron" ],
+			[ "contentaron" ]
+		],
+		"5" : [
+			[ "contentaba" ],
+			[ "contentabas" ],
+			[ "contentaba" ],
+			[ "contentábamos" ],
+			[ "contentabais", "contentaban" ],
+			[ "contentaban" ]
+		],
+		"6" : [
+			[ "contentaría" ],
+			[ "contentarías" ],
+			[ "contentaría" ],
+			[ "contentaríamos" ],
+			[ "contentaríais", "contentarían" ],
+			[ "contentarían" ]
+		],
+		"7" : [
+			[ "contentaré" ],
+			[ "contentarás" ],
+			[ "contentará" ],
+			[ "contentaremos" ],
+			[ "contentaréis", "contentarán" ],
+			[ "contentarán" ]
+		],
+		"8" : [
+			[ "contente" ],
+			[ "contentes" ],
+			[ "contente" ],
+			[ "contentemos" ],
+			[ "contentéis", "contenten" ],
+			[ "contenten" ]
+		],
+		"9" : [
+			[ "contentara" ],
+			[ "contentaras" ],
+			[ "contentara" ],
+			[ "contentáramos" ],
+			[ "contentarais", "contentaran" ],
+			[ "contentaran" ]
+		],
+		"10" : [
+			[ "contentase" ],
+			[ "contentases" ],
+			[ "contentase" ],
+			[ "contentásemos" ],
+			[ "contentaseis", "contentasen" ],
+			[ "contentasen" ]
+		],
+		"11" : [
+			[ "contentare" ],
+			[ "contentares" ],
+			[ "contentare" ],
+			[ "contentáremos" ],
+			[ "contentareis", "contentaren" ],
+			[ "contentaren" ]
+		],
+		"12" : {
+			"1" : [ "contenta" ],
+			"2" : [ "contente" ],
+			"3" : [ "contentemos" ],
+			"4" : [ "contentad" ],
+			"5" : [ "contenten" ]
+		}
+	}
+}

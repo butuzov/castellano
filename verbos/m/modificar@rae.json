@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=modificar",
+	"word" : "modificar",
+	"infinitivo" : "modificar",
+	"participio" : [ "modificado" ],
+	"gerundio" : [ "modificando" ],
+	"tenses" : {
+		"3" : [
+			[ "modifico" ],
+			[ "modificas", "modificás" ],
+			[ "modifica" ],
+			[ "modificamos" ],
+			[ "modificáis", "modifican" ],
+			[ "modifican" ]
+		],
+		"4" : [
+			[ "modifiqué" ],
+			[ "modificaste" ],
+			[ "modificó" ],
+			[ "modificamos" ],
+			[ "modificasteis", "modificaron" ],
+			[ "modificaron" ]
+		],
+		"5" : [
+			[ "modificaba" ],
+			[ "modificabas" ],
+			[ "modificaba" ],
+			[ "modificábamos" ],
+			[ "modificabais", "modificaban" ],
+			[ "modificaban" ]
+		],
+		"6" : [
+			[ "modificaría" ],
+			[ "modificarías" ],
+			[ "modificaría" ],
+			[ "modificaríamos" ],
+			[ "modificaríais", "modificarían" ],
+			[ "modificarían" ]
+		],
+		"7" : [
+			[ "modificaré" ],
+			[ "modificarás" ],
+			[ "modificará" ],
+			[ "modificaremos" ],
+			[ "modificaréis", "modificarán" ],
+			[ "modificarán" ]
+		],
+		"8" : [
+			[ "modifique" ],
+			[ "modifiques" ],
+			[ "modifique" ],
+			[ "modifiquemos" ],
+			[ "modifiquéis", "modifiquen" ],
+			[ "modifiquen" ]
+		],
+		"9" : [
+			[ "modificara" ],
+			[ "modificaras" ],
+			[ "modificara" ],
+			[ "modificáramos" ],
+			[ "modificarais", "modificaran" ],
+			[ "modificaran" ]
+		],
+		"10" : [
+			[ "modificase" ],
+			[ "modificases" ],
+			[ "modificase" ],
+			[ "modificásemos" ],
+			[ "modificaseis", "modificasen" ],
+			[ "modificasen" ]
+		],
+		"11" : [
+			[ "modificare" ],
+			[ "modificares" ],
+			[ "modificare" ],
+			[ "modificáremos" ],
+			[ "modificareis", "modificaren" ],
+			[ "modificaren" ]
+		],
+		"12" : {
+			"1" : [ "modifica" ],
+			"2" : [ "modifique" ],
+			"3" : [ "modifiquemos" ],
+			"4" : [ "modificad" ],
+			"5" : [ "modifiquen" ]
+		}
+	}
+}

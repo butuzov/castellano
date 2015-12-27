@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reencarnar",
+	"word" : "reencarnar",
+	"infinitivo" : "reencarnar",
+	"participio" : [ "reencarnado" ],
+	"gerundio" : [ "reencarnando" ],
+	"tenses" : {
+		"3" : [
+			[ "reencarno" ],
+			[ "reencarnas", "reencarnás" ],
+			[ "reencarna" ],
+			[ "reencarnamos" ],
+			[ "reencarnáis", "reencarnan" ],
+			[ "reencarnan" ]
+		],
+		"4" : [
+			[ "reencarné" ],
+			[ "reencarnaste" ],
+			[ "reencarnó" ],
+			[ "reencarnamos" ],
+			[ "reencarnasteis", "reencarnaron" ],
+			[ "reencarnaron" ]
+		],
+		"5" : [
+			[ "reencarnaba" ],
+			[ "reencarnabas" ],
+			[ "reencarnaba" ],
+			[ "reencarnábamos" ],
+			[ "reencarnabais", "reencarnaban" ],
+			[ "reencarnaban" ]
+		],
+		"6" : [
+			[ "reencarnaría" ],
+			[ "reencarnarías" ],
+			[ "reencarnaría" ],
+			[ "reencarnaríamos" ],
+			[ "reencarnaríais", "reencarnarían" ],
+			[ "reencarnarían" ]
+		],
+		"7" : [
+			[ "reencarnaré" ],
+			[ "reencarnarás" ],
+			[ "reencarnará" ],
+			[ "reencarnaremos" ],
+			[ "reencarnaréis", "reencarnarán" ],
+			[ "reencarnarán" ]
+		],
+		"8" : [
+			[ "reencarne" ],
+			[ "reencarnes" ],
+			[ "reencarne" ],
+			[ "reencarnemos" ],
+			[ "reencarnéis", "reencarnen" ],
+			[ "reencarnen" ]
+		],
+		"9" : [
+			[ "reencarnara" ],
+			[ "reencarnaras" ],
+			[ "reencarnara" ],
+			[ "reencarnáramos" ],
+			[ "reencarnarais", "reencarnaran" ],
+			[ "reencarnaran" ]
+		],
+		"10" : [
+			[ "reencarnase" ],
+			[ "reencarnases" ],
+			[ "reencarnase" ],
+			[ "reencarnásemos" ],
+			[ "reencarnaseis", "reencarnasen" ],
+			[ "reencarnasen" ]
+		],
+		"11" : [
+			[ "reencarnare" ],
+			[ "reencarnares" ],
+			[ "reencarnare" ],
+			[ "reencarnáremos" ],
+			[ "reencarnareis", "reencarnaren" ],
+			[ "reencarnaren" ]
+		],
+		"12" : {
+			"1" : [ "reencarna" ],
+			"2" : [ "reencarne" ],
+			"3" : [ "reencarnemos" ],
+			"4" : [ "reencarnad" ],
+			"5" : [ "reencarnen" ]
+		}
+	}
+}

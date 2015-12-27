@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aguardar",
+	"word" : "aguardar",
+	"infinitivo" : "aguardar",
+	"participio" : [ "aguardado" ],
+	"gerundio" : [ "aguardando" ],
+	"tenses" : {
+		"3" : [
+			[ "aguardo" ],
+			[ "aguardas", "aguardás" ],
+			[ "aguarda" ],
+			[ "aguardamos" ],
+			[ "aguardáis", "aguardan" ],
+			[ "aguardan" ]
+		],
+		"4" : [
+			[ "aguardé" ],
+			[ "aguardaste" ],
+			[ "aguardó" ],
+			[ "aguardamos" ],
+			[ "aguardasteis", "aguardaron" ],
+			[ "aguardaron" ]
+		],
+		"5" : [
+			[ "aguardaba" ],
+			[ "aguardabas" ],
+			[ "aguardaba" ],
+			[ "aguardábamos" ],
+			[ "aguardabais", "aguardaban" ],
+			[ "aguardaban" ]
+		],
+		"6" : [
+			[ "aguardaría" ],
+			[ "aguardarías" ],
+			[ "aguardaría" ],
+			[ "aguardaríamos" ],
+			[ "aguardaríais", "aguardarían" ],
+			[ "aguardarían" ]
+		],
+		"7" : [
+			[ "aguardaré" ],
+			[ "aguardarás" ],
+			[ "aguardará" ],
+			[ "aguardaremos" ],
+			[ "aguardaréis", "aguardarán" ],
+			[ "aguardarán" ]
+		],
+		"8" : [
+			[ "aguarde" ],
+			[ "aguardes" ],
+			[ "aguarde" ],
+			[ "aguardemos" ],
+			[ "aguardéis", "aguarden" ],
+			[ "aguarden" ]
+		],
+		"9" : [
+			[ "aguardara" ],
+			[ "aguardaras" ],
+			[ "aguardara" ],
+			[ "aguardáramos" ],
+			[ "aguardarais", "aguardaran" ],
+			[ "aguardaran" ]
+		],
+		"10" : [
+			[ "aguardase" ],
+			[ "aguardases" ],
+			[ "aguardase" ],
+			[ "aguardásemos" ],
+			[ "aguardaseis", "aguardasen" ],
+			[ "aguardasen" ]
+		],
+		"11" : [
+			[ "aguardare" ],
+			[ "aguardares" ],
+			[ "aguardare" ],
+			[ "aguardáremos" ],
+			[ "aguardareis", "aguardaren" ],
+			[ "aguardaren" ]
+		],
+		"12" : {
+			"1" : [ "aguarda" ],
+			"2" : [ "aguarde" ],
+			"3" : [ "aguardemos" ],
+			"4" : [ "aguardad" ],
+			"5" : [ "aguarden" ]
+		}
+	}
+}

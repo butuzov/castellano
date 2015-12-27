@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trajinar",
+	"word" : "trajinar",
+	"infinitivo" : "trajinar",
+	"participio" : [ "trajinado" ],
+	"gerundio" : [ "trajinando" ],
+	"tenses" : {
+		"3" : [
+			[ "trajino" ],
+			[ "trajinas", "trajinás" ],
+			[ "trajina" ],
+			[ "trajinamos" ],
+			[ "trajináis", "trajinan" ],
+			[ "trajinan" ]
+		],
+		"4" : [
+			[ "trajiné" ],
+			[ "trajinaste" ],
+			[ "trajinó" ],
+			[ "trajinamos" ],
+			[ "trajinasteis", "trajinaron" ],
+			[ "trajinaron" ]
+		],
+		"5" : [
+			[ "trajinaba" ],
+			[ "trajinabas" ],
+			[ "trajinaba" ],
+			[ "trajinábamos" ],
+			[ "trajinabais", "trajinaban" ],
+			[ "trajinaban" ]
+		],
+		"6" : [
+			[ "trajinaría" ],
+			[ "trajinarías" ],
+			[ "trajinaría" ],
+			[ "trajinaríamos" ],
+			[ "trajinaríais", "trajinarían" ],
+			[ "trajinarían" ]
+		],
+		"7" : [
+			[ "trajinaré" ],
+			[ "trajinarás" ],
+			[ "trajinará" ],
+			[ "trajinaremos" ],
+			[ "trajinaréis", "trajinarán" ],
+			[ "trajinarán" ]
+		],
+		"8" : [
+			[ "trajine" ],
+			[ "trajines" ],
+			[ "trajine" ],
+			[ "trajinemos" ],
+			[ "trajinéis", "trajinen" ],
+			[ "trajinen" ]
+		],
+		"9" : [
+			[ "trajinara" ],
+			[ "trajinaras" ],
+			[ "trajinara" ],
+			[ "trajináramos" ],
+			[ "trajinarais", "trajinaran" ],
+			[ "trajinaran" ]
+		],
+		"10" : [
+			[ "trajinase" ],
+			[ "trajinases" ],
+			[ "trajinase" ],
+			[ "trajinásemos" ],
+			[ "trajinaseis", "trajinasen" ],
+			[ "trajinasen" ]
+		],
+		"11" : [
+			[ "trajinare" ],
+			[ "trajinares" ],
+			[ "trajinare" ],
+			[ "trajináremos" ],
+			[ "trajinareis", "trajinaren" ],
+			[ "trajinaren" ]
+		],
+		"12" : {
+			"1" : [ "trajina" ],
+			"2" : [ "trajine" ],
+			"3" : [ "trajinemos" ],
+			"4" : [ "trajinad" ],
+			"5" : [ "trajinen" ]
+		}
+	}
+}

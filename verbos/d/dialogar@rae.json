@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dialogar",
+	"word" : "dialogar",
+	"infinitivo" : "dialogar",
+	"participio" : [ "dialogado" ],
+	"gerundio" : [ "dialogando" ],
+	"tenses" : {
+		"3" : [
+			[ "dialogo" ],
+			[ "dialogas", "dialogás" ],
+			[ "dialoga" ],
+			[ "dialogamos" ],
+			[ "dialogáis", "dialogan" ],
+			[ "dialogan" ]
+		],
+		"4" : [
+			[ "dialogué" ],
+			[ "dialogaste" ],
+			[ "dialogó" ],
+			[ "dialogamos" ],
+			[ "dialogasteis", "dialogaron" ],
+			[ "dialogaron" ]
+		],
+		"5" : [
+			[ "dialogaba" ],
+			[ "dialogabas" ],
+			[ "dialogaba" ],
+			[ "dialogábamos" ],
+			[ "dialogabais", "dialogaban" ],
+			[ "dialogaban" ]
+		],
+		"6" : [
+			[ "dialogaría" ],
+			[ "dialogarías" ],
+			[ "dialogaría" ],
+			[ "dialogaríamos" ],
+			[ "dialogaríais", "dialogarían" ],
+			[ "dialogarían" ]
+		],
+		"7" : [
+			[ "dialogaré" ],
+			[ "dialogarás" ],
+			[ "dialogará" ],
+			[ "dialogaremos" ],
+			[ "dialogaréis", "dialogarán" ],
+			[ "dialogarán" ]
+		],
+		"8" : [
+			[ "dialogue" ],
+			[ "dialogues" ],
+			[ "dialogue" ],
+			[ "dialoguemos" ],
+			[ "dialoguéis", "dialoguen" ],
+			[ "dialoguen" ]
+		],
+		"9" : [
+			[ "dialogara" ],
+			[ "dialogaras" ],
+			[ "dialogara" ],
+			[ "dialogáramos" ],
+			[ "dialogarais", "dialogaran" ],
+			[ "dialogaran" ]
+		],
+		"10" : [
+			[ "dialogase" ],
+			[ "dialogases" ],
+			[ "dialogase" ],
+			[ "dialogásemos" ],
+			[ "dialogaseis", "dialogasen" ],
+			[ "dialogasen" ]
+		],
+		"11" : [
+			[ "dialogare" ],
+			[ "dialogares" ],
+			[ "dialogare" ],
+			[ "dialogáremos" ],
+			[ "dialogareis", "dialogaren" ],
+			[ "dialogaren" ]
+		],
+		"12" : {
+			"1" : [ "dialoga" ],
+			"2" : [ "dialogue" ],
+			"3" : [ "dialoguemos" ],
+			"4" : [ "dialogad" ],
+			"5" : [ "dialoguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comiscar",
+	"word" : "comiscar",
+	"infinitivo" : "comiscar",
+	"participio" : [ "comiscado" ],
+	"gerundio" : [ "comiscando" ],
+	"tenses" : {
+		"3" : [
+			[ "comisco" ],
+			[ "comiscas", "comiscás" ],
+			[ "comisca" ],
+			[ "comiscamos" ],
+			[ "comiscáis", "comiscan" ],
+			[ "comiscan" ]
+		],
+		"4" : [
+			[ "comisqué" ],
+			[ "comiscaste" ],
+			[ "comiscó" ],
+			[ "comiscamos" ],
+			[ "comiscasteis", "comiscaron" ],
+			[ "comiscaron" ]
+		],
+		"5" : [
+			[ "comiscaba" ],
+			[ "comiscabas" ],
+			[ "comiscaba" ],
+			[ "comiscábamos" ],
+			[ "comiscabais", "comiscaban" ],
+			[ "comiscaban" ]
+		],
+		"6" : [
+			[ "comiscaría" ],
+			[ "comiscarías" ],
+			[ "comiscaría" ],
+			[ "comiscaríamos" ],
+			[ "comiscaríais", "comiscarían" ],
+			[ "comiscarían" ]
+		],
+		"7" : [
+			[ "comiscaré" ],
+			[ "comiscarás" ],
+			[ "comiscará" ],
+			[ "comiscaremos" ],
+			[ "comiscaréis", "comiscarán" ],
+			[ "comiscarán" ]
+		],
+		"8" : [
+			[ "comisque" ],
+			[ "comisques" ],
+			[ "comisque" ],
+			[ "comisquemos" ],
+			[ "comisquéis", "comisquen" ],
+			[ "comisquen" ]
+		],
+		"9" : [
+			[ "comiscara" ],
+			[ "comiscaras" ],
+			[ "comiscara" ],
+			[ "comiscáramos" ],
+			[ "comiscarais", "comiscaran" ],
+			[ "comiscaran" ]
+		],
+		"10" : [
+			[ "comiscase" ],
+			[ "comiscases" ],
+			[ "comiscase" ],
+			[ "comiscásemos" ],
+			[ "comiscaseis", "comiscasen" ],
+			[ "comiscasen" ]
+		],
+		"11" : [
+			[ "comiscare" ],
+			[ "comiscares" ],
+			[ "comiscare" ],
+			[ "comiscáremos" ],
+			[ "comiscareis", "comiscaren" ],
+			[ "comiscaren" ]
+		],
+		"12" : {
+			"1" : [ "comisca" ],
+			"2" : [ "comisque" ],
+			"3" : [ "comisquemos" ],
+			"4" : [ "comiscad" ],
+			"5" : [ "comisquen" ]
+		}
+	}
+}

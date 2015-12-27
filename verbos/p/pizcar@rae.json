@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pizcar",
+	"word" : "pizcar",
+	"infinitivo" : "pizcar",
+	"participio" : [ "pizcado" ],
+	"gerundio" : [ "pizcando" ],
+	"tenses" : {
+		"3" : [
+			[ "pizco" ],
+			[ "pizcas", "pizcás" ],
+			[ "pizca" ],
+			[ "pizcamos" ],
+			[ "pizcáis", "pizcan" ],
+			[ "pizcan" ]
+		],
+		"4" : [
+			[ "pizqué" ],
+			[ "pizcaste" ],
+			[ "pizcó" ],
+			[ "pizcamos" ],
+			[ "pizcasteis", "pizcaron" ],
+			[ "pizcaron" ]
+		],
+		"5" : [
+			[ "pizcaba" ],
+			[ "pizcabas" ],
+			[ "pizcaba" ],
+			[ "pizcábamos" ],
+			[ "pizcabais", "pizcaban" ],
+			[ "pizcaban" ]
+		],
+		"6" : [
+			[ "pizcaría" ],
+			[ "pizcarías" ],
+			[ "pizcaría" ],
+			[ "pizcaríamos" ],
+			[ "pizcaríais", "pizcarían" ],
+			[ "pizcarían" ]
+		],
+		"7" : [
+			[ "pizcaré" ],
+			[ "pizcarás" ],
+			[ "pizcará" ],
+			[ "pizcaremos" ],
+			[ "pizcaréis", "pizcarán" ],
+			[ "pizcarán" ]
+		],
+		"8" : [
+			[ "pizque" ],
+			[ "pizques" ],
+			[ "pizque" ],
+			[ "pizquemos" ],
+			[ "pizquéis", "pizquen" ],
+			[ "pizquen" ]
+		],
+		"9" : [
+			[ "pizcara" ],
+			[ "pizcaras" ],
+			[ "pizcara" ],
+			[ "pizcáramos" ],
+			[ "pizcarais", "pizcaran" ],
+			[ "pizcaran" ]
+		],
+		"10" : [
+			[ "pizcase" ],
+			[ "pizcases" ],
+			[ "pizcase" ],
+			[ "pizcásemos" ],
+			[ "pizcaseis", "pizcasen" ],
+			[ "pizcasen" ]
+		],
+		"11" : [
+			[ "pizcare" ],
+			[ "pizcares" ],
+			[ "pizcare" ],
+			[ "pizcáremos" ],
+			[ "pizcareis", "pizcaren" ],
+			[ "pizcaren" ]
+		],
+		"12" : {
+			"1" : [ "pizca" ],
+			"2" : [ "pizque" ],
+			"3" : [ "pizquemos" ],
+			"4" : [ "pizcad" ],
+			"5" : [ "pizquen" ]
+		}
+	}
+}

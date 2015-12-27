@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=afirmar",
+	"word" : "afirmar",
+	"infinitivo" : "afirmar",
+	"participio" : [ "afirmado" ],
+	"gerundio" : [ "afirmando" ],
+	"tenses" : {
+		"3" : [
+			[ "afirmo" ],
+			[ "afirmas", "afirmás" ],
+			[ "afirma" ],
+			[ "afirmamos" ],
+			[ "afirmáis", "afirman" ],
+			[ "afirman" ]
+		],
+		"4" : [
+			[ "afirmé" ],
+			[ "afirmaste" ],
+			[ "afirmó" ],
+			[ "afirmamos" ],
+			[ "afirmasteis", "afirmaron" ],
+			[ "afirmaron" ]
+		],
+		"5" : [
+			[ "afirmaba" ],
+			[ "afirmabas" ],
+			[ "afirmaba" ],
+			[ "afirmábamos" ],
+			[ "afirmabais", "afirmaban" ],
+			[ "afirmaban" ]
+		],
+		"6" : [
+			[ "afirmaría" ],
+			[ "afirmarías" ],
+			[ "afirmaría" ],
+			[ "afirmaríamos" ],
+			[ "afirmaríais", "afirmarían" ],
+			[ "afirmarían" ]
+		],
+		"7" : [
+			[ "afirmaré" ],
+			[ "afirmarás" ],
+			[ "afirmará" ],
+			[ "afirmaremos" ],
+			[ "afirmaréis", "afirmarán" ],
+			[ "afirmarán" ]
+		],
+		"8" : [
+			[ "afirme" ],
+			[ "afirmes" ],
+			[ "afirme" ],
+			[ "afirmemos" ],
+			[ "afirméis", "afirmen" ],
+			[ "afirmen" ]
+		],
+		"9" : [
+			[ "afirmara" ],
+			[ "afirmaras" ],
+			[ "afirmara" ],
+			[ "afirmáramos" ],
+			[ "afirmarais", "afirmaran" ],
+			[ "afirmaran" ]
+		],
+		"10" : [
+			[ "afirmase" ],
+			[ "afirmases" ],
+			[ "afirmase" ],
+			[ "afirmásemos" ],
+			[ "afirmaseis", "afirmasen" ],
+			[ "afirmasen" ]
+		],
+		"11" : [
+			[ "afirmare" ],
+			[ "afirmares" ],
+			[ "afirmare" ],
+			[ "afirmáremos" ],
+			[ "afirmareis", "afirmaren" ],
+			[ "afirmaren" ]
+		],
+		"12" : {
+			"1" : [ "afirma" ],
+			"2" : [ "afirme" ],
+			"3" : [ "afirmemos" ],
+			"4" : [ "afirmad" ],
+			"5" : [ "afirmen" ]
+		}
+	}
+}

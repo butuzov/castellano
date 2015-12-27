@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mandar",
+	"word" : "mandar",
+	"infinitivo" : "mandar",
+	"participio" : [ "mandado" ],
+	"gerundio" : [ "mandando" ],
+	"tenses" : {
+		"3" : [
+			[ "mando" ],
+			[ "mandas", "mandás" ],
+			[ "manda" ],
+			[ "mandamos" ],
+			[ "mandáis", "mandan" ],
+			[ "mandan" ]
+		],
+		"4" : [
+			[ "mandé" ],
+			[ "mandaste" ],
+			[ "mandó" ],
+			[ "mandamos" ],
+			[ "mandasteis", "mandaron" ],
+			[ "mandaron" ]
+		],
+		"5" : [
+			[ "mandaba" ],
+			[ "mandabas" ],
+			[ "mandaba" ],
+			[ "mandábamos" ],
+			[ "mandabais", "mandaban" ],
+			[ "mandaban" ]
+		],
+		"6" : [
+			[ "mandaría" ],
+			[ "mandarías" ],
+			[ "mandaría" ],
+			[ "mandaríamos" ],
+			[ "mandaríais", "mandarían" ],
+			[ "mandarían" ]
+		],
+		"7" : [
+			[ "mandaré" ],
+			[ "mandarás" ],
+			[ "mandará" ],
+			[ "mandaremos" ],
+			[ "mandaréis", "mandarán" ],
+			[ "mandarán" ]
+		],
+		"8" : [
+			[ "mande" ],
+			[ "mandes" ],
+			[ "mande" ],
+			[ "mandemos" ],
+			[ "mandéis", "manden" ],
+			[ "manden" ]
+		],
+		"9" : [
+			[ "mandara" ],
+			[ "mandaras" ],
+			[ "mandara" ],
+			[ "mandáramos" ],
+			[ "mandarais", "mandaran" ],
+			[ "mandaran" ]
+		],
+		"10" : [
+			[ "mandase" ],
+			[ "mandases" ],
+			[ "mandase" ],
+			[ "mandásemos" ],
+			[ "mandaseis", "mandasen" ],
+			[ "mandasen" ]
+		],
+		"11" : [
+			[ "mandare" ],
+			[ "mandares" ],
+			[ "mandare" ],
+			[ "mandáremos" ],
+			[ "mandareis", "mandaren" ],
+			[ "mandaren" ]
+		],
+		"12" : {
+			"1" : [ "manda" ],
+			"2" : [ "mande" ],
+			"3" : [ "mandemos" ],
+			"4" : [ "mandad" ],
+			"5" : [ "manden" ]
+		}
+	}
+}

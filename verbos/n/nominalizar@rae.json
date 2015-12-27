@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=nominalizar",
+	"word" : "nominalizar",
+	"infinitivo" : "nominalizar",
+	"participio" : [ "nominalizado" ],
+	"gerundio" : [ "nominalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "nominalizo" ],
+			[ "nominalizas", "nominalizás" ],
+			[ "nominaliza" ],
+			[ "nominalizamos" ],
+			[ "nominalizáis", "nominalizan" ],
+			[ "nominalizan" ]
+		],
+		"4" : [
+			[ "nominalicé" ],
+			[ "nominalizaste" ],
+			[ "nominalizó" ],
+			[ "nominalizamos" ],
+			[ "nominalizasteis", "nominalizaron" ],
+			[ "nominalizaron" ]
+		],
+		"5" : [
+			[ "nominalizaba" ],
+			[ "nominalizabas" ],
+			[ "nominalizaba" ],
+			[ "nominalizábamos" ],
+			[ "nominalizabais", "nominalizaban" ],
+			[ "nominalizaban" ]
+		],
+		"6" : [
+			[ "nominalizaría" ],
+			[ "nominalizarías" ],
+			[ "nominalizaría" ],
+			[ "nominalizaríamos" ],
+			[ "nominalizaríais", "nominalizarían" ],
+			[ "nominalizarían" ]
+		],
+		"7" : [
+			[ "nominalizaré" ],
+			[ "nominalizarás" ],
+			[ "nominalizará" ],
+			[ "nominalizaremos" ],
+			[ "nominalizaréis", "nominalizarán" ],
+			[ "nominalizarán" ]
+		],
+		"8" : [
+			[ "nominalice" ],
+			[ "nominalices" ],
+			[ "nominalice" ],
+			[ "nominalicemos" ],
+			[ "nominalicéis", "nominalicen" ],
+			[ "nominalicen" ]
+		],
+		"9" : [
+			[ "nominalizara" ],
+			[ "nominalizaras" ],
+			[ "nominalizara" ],
+			[ "nominalizáramos" ],
+			[ "nominalizarais", "nominalizaran" ],
+			[ "nominalizaran" ]
+		],
+		"10" : [
+			[ "nominalizase" ],
+			[ "nominalizases" ],
+			[ "nominalizase" ],
+			[ "nominalizásemos" ],
+			[ "nominalizaseis", "nominalizasen" ],
+			[ "nominalizasen" ]
+		],
+		"11" : [
+			[ "nominalizare" ],
+			[ "nominalizares" ],
+			[ "nominalizare" ],
+			[ "nominalizáremos" ],
+			[ "nominalizareis", "nominalizaren" ],
+			[ "nominalizaren" ]
+		],
+		"12" : {
+			"1" : [ "nominaliza" ],
+			"2" : [ "nominalice" ],
+			"3" : [ "nominalicemos" ],
+			"4" : [ "nominalizad" ],
+			"5" : [ "nominalicen" ]
+		}
+	}
+}

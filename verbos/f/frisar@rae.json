@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=frisar",
+	"word" : "frisar",
+	"infinitivo" : "frisar",
+	"participio" : [ "frisado" ],
+	"gerundio" : [ "frisando" ],
+	"tenses" : {
+		"3" : [
+			[ "friso" ],
+			[ "frisas", "frisás" ],
+			[ "frisa" ],
+			[ "frisamos" ],
+			[ "frisáis", "frisan" ],
+			[ "frisan" ]
+		],
+		"4" : [
+			[ "frisé" ],
+			[ "frisaste" ],
+			[ "frisó" ],
+			[ "frisamos" ],
+			[ "frisasteis", "frisaron" ],
+			[ "frisaron" ]
+		],
+		"5" : [
+			[ "frisaba" ],
+			[ "frisabas" ],
+			[ "frisaba" ],
+			[ "frisábamos" ],
+			[ "frisabais", "frisaban" ],
+			[ "frisaban" ]
+		],
+		"6" : [
+			[ "frisaría" ],
+			[ "frisarías" ],
+			[ "frisaría" ],
+			[ "frisaríamos" ],
+			[ "frisaríais", "frisarían" ],
+			[ "frisarían" ]
+		],
+		"7" : [
+			[ "frisaré" ],
+			[ "frisarás" ],
+			[ "frisará" ],
+			[ "frisaremos" ],
+			[ "frisaréis", "frisarán" ],
+			[ "frisarán" ]
+		],
+		"8" : [
+			[ "frise" ],
+			[ "frises" ],
+			[ "frise" ],
+			[ "frisemos" ],
+			[ "friséis", "frisen" ],
+			[ "frisen" ]
+		],
+		"9" : [
+			[ "frisara" ],
+			[ "frisaras" ],
+			[ "frisara" ],
+			[ "frisáramos" ],
+			[ "frisarais", "frisaran" ],
+			[ "frisaran" ]
+		],
+		"10" : [
+			[ "frisase" ],
+			[ "frisases" ],
+			[ "frisase" ],
+			[ "frisásemos" ],
+			[ "frisaseis", "frisasen" ],
+			[ "frisasen" ]
+		],
+		"11" : [
+			[ "frisare" ],
+			[ "frisares" ],
+			[ "frisare" ],
+			[ "frisáremos" ],
+			[ "frisareis", "frisaren" ],
+			[ "frisaren" ]
+		],
+		"12" : {
+			"1" : [ "frisa" ],
+			"2" : [ "frise" ],
+			"3" : [ "frisemos" ],
+			"4" : [ "frisad" ],
+			"5" : [ "frisen" ]
+		}
+	}
+}

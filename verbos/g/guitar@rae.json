@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=guitar",
+	"word" : "guitar",
+	"infinitivo" : "guitar",
+	"participio" : [ "guitado" ],
+	"gerundio" : [ "guitando" ],
+	"tenses" : {
+		"3" : [
+			[ "guito" ],
+			[ "guitas", "guitás" ],
+			[ "guita" ],
+			[ "guitamos" ],
+			[ "guitáis", "guitan" ],
+			[ "guitan" ]
+		],
+		"4" : [
+			[ "guité" ],
+			[ "guitaste" ],
+			[ "guitó" ],
+			[ "guitamos" ],
+			[ "guitasteis", "guitaron" ],
+			[ "guitaron" ]
+		],
+		"5" : [
+			[ "guitaba" ],
+			[ "guitabas" ],
+			[ "guitaba" ],
+			[ "guitábamos" ],
+			[ "guitabais", "guitaban" ],
+			[ "guitaban" ]
+		],
+		"6" : [
+			[ "guitaría" ],
+			[ "guitarías" ],
+			[ "guitaría" ],
+			[ "guitaríamos" ],
+			[ "guitaríais", "guitarían" ],
+			[ "guitarían" ]
+		],
+		"7" : [
+			[ "guitaré" ],
+			[ "guitarás" ],
+			[ "guitará" ],
+			[ "guitaremos" ],
+			[ "guitaréis", "guitarán" ],
+			[ "guitarán" ]
+		],
+		"8" : [
+			[ "guite" ],
+			[ "guites" ],
+			[ "guite" ],
+			[ "guitemos" ],
+			[ "guitéis", "guiten" ],
+			[ "guiten" ]
+		],
+		"9" : [
+			[ "guitara" ],
+			[ "guitaras" ],
+			[ "guitara" ],
+			[ "guitáramos" ],
+			[ "guitarais", "guitaran" ],
+			[ "guitaran" ]
+		],
+		"10" : [
+			[ "guitase" ],
+			[ "guitases" ],
+			[ "guitase" ],
+			[ "guitásemos" ],
+			[ "guitaseis", "guitasen" ],
+			[ "guitasen" ]
+		],
+		"11" : [
+			[ "guitare" ],
+			[ "guitares" ],
+			[ "guitare" ],
+			[ "guitáremos" ],
+			[ "guitareis", "guitaren" ],
+			[ "guitaren" ]
+		],
+		"12" : {
+			"1" : [ "guita" ],
+			"2" : [ "guite" ],
+			"3" : [ "guitemos" ],
+			"4" : [ "guitad" ],
+			"5" : [ "guiten" ]
+		}
+	}
+}

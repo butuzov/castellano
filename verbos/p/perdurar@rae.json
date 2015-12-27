@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=perdurar",
+	"word" : "perdurar",
+	"infinitivo" : "perdurar",
+	"participio" : [ "perdurado" ],
+	"gerundio" : [ "perdurando" ],
+	"tenses" : {
+		"3" : [
+			[ "perduro" ],
+			[ "perduras", "perdurás" ],
+			[ "perdura" ],
+			[ "perduramos" ],
+			[ "perduráis", "perduran" ],
+			[ "perduran" ]
+		],
+		"4" : [
+			[ "perduré" ],
+			[ "perduraste" ],
+			[ "perduró" ],
+			[ "perduramos" ],
+			[ "perdurasteis", "perduraron" ],
+			[ "perduraron" ]
+		],
+		"5" : [
+			[ "perduraba" ],
+			[ "perdurabas" ],
+			[ "perduraba" ],
+			[ "perdurábamos" ],
+			[ "perdurabais", "perduraban" ],
+			[ "perduraban" ]
+		],
+		"6" : [
+			[ "perduraría" ],
+			[ "perdurarías" ],
+			[ "perduraría" ],
+			[ "perduraríamos" ],
+			[ "perduraríais", "perdurarían" ],
+			[ "perdurarían" ]
+		],
+		"7" : [
+			[ "perduraré" ],
+			[ "perdurarás" ],
+			[ "perdurará" ],
+			[ "perduraremos" ],
+			[ "perduraréis", "perdurarán" ],
+			[ "perdurarán" ]
+		],
+		"8" : [
+			[ "perdure" ],
+			[ "perdures" ],
+			[ "perdure" ],
+			[ "perduremos" ],
+			[ "perduréis", "perduren" ],
+			[ "perduren" ]
+		],
+		"9" : [
+			[ "perdurara" ],
+			[ "perduraras" ],
+			[ "perdurara" ],
+			[ "perduráramos" ],
+			[ "perdurarais", "perduraran" ],
+			[ "perduraran" ]
+		],
+		"10" : [
+			[ "perdurase" ],
+			[ "perdurases" ],
+			[ "perdurase" ],
+			[ "perdurásemos" ],
+			[ "perduraseis", "perdurasen" ],
+			[ "perdurasen" ]
+		],
+		"11" : [
+			[ "perdurare" ],
+			[ "perdurares" ],
+			[ "perdurare" ],
+			[ "perduráremos" ],
+			[ "perdurareis", "perduraren" ],
+			[ "perduraren" ]
+		],
+		"12" : {
+			"1" : [ "perdura" ],
+			"2" : [ "perdure" ],
+			"3" : [ "perduremos" ],
+			"4" : [ "perdurad" ],
+			"5" : [ "perduren" ]
+		}
+	}
+}

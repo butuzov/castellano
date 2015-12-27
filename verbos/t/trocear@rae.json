@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trocear",
+	"word" : "trocear",
+	"infinitivo" : "trocear",
+	"participio" : [ "troceado" ],
+	"gerundio" : [ "troceando" ],
+	"tenses" : {
+		"3" : [
+			[ "troceo" ],
+			[ "troceas", "troceás" ],
+			[ "trocea" ],
+			[ "troceamos" ],
+			[ "troceáis", "trocean" ],
+			[ "trocean" ]
+		],
+		"4" : [
+			[ "troceé" ],
+			[ "troceaste" ],
+			[ "troceó" ],
+			[ "troceamos" ],
+			[ "troceasteis", "trocearon" ],
+			[ "trocearon" ]
+		],
+		"5" : [
+			[ "troceaba" ],
+			[ "troceabas" ],
+			[ "troceaba" ],
+			[ "troceábamos" ],
+			[ "troceabais", "troceaban" ],
+			[ "troceaban" ]
+		],
+		"6" : [
+			[ "trocearía" ],
+			[ "trocearías" ],
+			[ "trocearía" ],
+			[ "trocearíamos" ],
+			[ "trocearíais", "trocearían" ],
+			[ "trocearían" ]
+		],
+		"7" : [
+			[ "trocearé" ],
+			[ "trocearás" ],
+			[ "troceará" ],
+			[ "trocearemos" ],
+			[ "trocearéis", "trocearán" ],
+			[ "trocearán" ]
+		],
+		"8" : [
+			[ "trocee" ],
+			[ "trocees" ],
+			[ "trocee" ],
+			[ "troceemos" ],
+			[ "troceéis", "troceen" ],
+			[ "troceen" ]
+		],
+		"9" : [
+			[ "troceara" ],
+			[ "trocearas" ],
+			[ "troceara" ],
+			[ "troceáramos" ],
+			[ "trocearais", "trocearan" ],
+			[ "trocearan" ]
+		],
+		"10" : [
+			[ "trocease" ],
+			[ "troceases" ],
+			[ "trocease" ],
+			[ "troceásemos" ],
+			[ "troceaseis", "troceasen" ],
+			[ "troceasen" ]
+		],
+		"11" : [
+			[ "troceare" ],
+			[ "troceares" ],
+			[ "troceare" ],
+			[ "troceáremos" ],
+			[ "troceareis", "trocearen" ],
+			[ "trocearen" ]
+		],
+		"12" : {
+			"1" : [ "trocea" ],
+			"2" : [ "trocee" ],
+			"3" : [ "troceemos" ],
+			"4" : [ "trocead" ],
+			"5" : [ "troceen" ]
+		}
+	}
+}

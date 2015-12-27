@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reorganizar",
+	"word" : "reorganizar",
+	"infinitivo" : "reorganizar",
+	"participio" : [ "reorganizado" ],
+	"gerundio" : [ "reorganizando" ],
+	"tenses" : {
+		"3" : [
+			[ "reorganizo" ],
+			[ "reorganizas", "reorganizás" ],
+			[ "reorganiza" ],
+			[ "reorganizamos" ],
+			[ "reorganizáis", "reorganizan" ],
+			[ "reorganizan" ]
+		],
+		"4" : [
+			[ "reorganicé" ],
+			[ "reorganizaste" ],
+			[ "reorganizó" ],
+			[ "reorganizamos" ],
+			[ "reorganizasteis", "reorganizaron" ],
+			[ "reorganizaron" ]
+		],
+		"5" : [
+			[ "reorganizaba" ],
+			[ "reorganizabas" ],
+			[ "reorganizaba" ],
+			[ "reorganizábamos" ],
+			[ "reorganizabais", "reorganizaban" ],
+			[ "reorganizaban" ]
+		],
+		"6" : [
+			[ "reorganizaría" ],
+			[ "reorganizarías" ],
+			[ "reorganizaría" ],
+			[ "reorganizaríamos" ],
+			[ "reorganizaríais", "reorganizarían" ],
+			[ "reorganizarían" ]
+		],
+		"7" : [
+			[ "reorganizaré" ],
+			[ "reorganizarás" ],
+			[ "reorganizará" ],
+			[ "reorganizaremos" ],
+			[ "reorganizaréis", "reorganizarán" ],
+			[ "reorganizarán" ]
+		],
+		"8" : [
+			[ "reorganice" ],
+			[ "reorganices" ],
+			[ "reorganice" ],
+			[ "reorganicemos" ],
+			[ "reorganicéis", "reorganicen" ],
+			[ "reorganicen" ]
+		],
+		"9" : [
+			[ "reorganizara" ],
+			[ "reorganizaras" ],
+			[ "reorganizara" ],
+			[ "reorganizáramos" ],
+			[ "reorganizarais", "reorganizaran" ],
+			[ "reorganizaran" ]
+		],
+		"10" : [
+			[ "reorganizase" ],
+			[ "reorganizases" ],
+			[ "reorganizase" ],
+			[ "reorganizásemos" ],
+			[ "reorganizaseis", "reorganizasen" ],
+			[ "reorganizasen" ]
+		],
+		"11" : [
+			[ "reorganizare" ],
+			[ "reorganizares" ],
+			[ "reorganizare" ],
+			[ "reorganizáremos" ],
+			[ "reorganizareis", "reorganizaren" ],
+			[ "reorganizaren" ]
+		],
+		"12" : {
+			"1" : [ "reorganiza" ],
+			"2" : [ "reorganice" ],
+			"3" : [ "reorganicemos" ],
+			"4" : [ "reorganizad" ],
+			"5" : [ "reorganicen" ]
+		}
+	}
+}

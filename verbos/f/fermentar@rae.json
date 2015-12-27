@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fermentar",
+	"word" : "fermentar",
+	"infinitivo" : "fermentar",
+	"participio" : [ "fermentado" ],
+	"gerundio" : [ "fermentando" ],
+	"tenses" : {
+		"3" : [
+			[ "fermento" ],
+			[ "fermentas", "fermentás" ],
+			[ "fermenta" ],
+			[ "fermentamos" ],
+			[ "fermentáis", "fermentan" ],
+			[ "fermentan" ]
+		],
+		"4" : [
+			[ "fermenté" ],
+			[ "fermentaste" ],
+			[ "fermentó" ],
+			[ "fermentamos" ],
+			[ "fermentasteis", "fermentaron" ],
+			[ "fermentaron" ]
+		],
+		"5" : [
+			[ "fermentaba" ],
+			[ "fermentabas" ],
+			[ "fermentaba" ],
+			[ "fermentábamos" ],
+			[ "fermentabais", "fermentaban" ],
+			[ "fermentaban" ]
+		],
+		"6" : [
+			[ "fermentaría" ],
+			[ "fermentarías" ],
+			[ "fermentaría" ],
+			[ "fermentaríamos" ],
+			[ "fermentaríais", "fermentarían" ],
+			[ "fermentarían" ]
+		],
+		"7" : [
+			[ "fermentaré" ],
+			[ "fermentarás" ],
+			[ "fermentará" ],
+			[ "fermentaremos" ],
+			[ "fermentaréis", "fermentarán" ],
+			[ "fermentarán" ]
+		],
+		"8" : [
+			[ "fermente" ],
+			[ "fermentes" ],
+			[ "fermente" ],
+			[ "fermentemos" ],
+			[ "fermentéis", "fermenten" ],
+			[ "fermenten" ]
+		],
+		"9" : [
+			[ "fermentara" ],
+			[ "fermentaras" ],
+			[ "fermentara" ],
+			[ "fermentáramos" ],
+			[ "fermentarais", "fermentaran" ],
+			[ "fermentaran" ]
+		],
+		"10" : [
+			[ "fermentase" ],
+			[ "fermentases" ],
+			[ "fermentase" ],
+			[ "fermentásemos" ],
+			[ "fermentaseis", "fermentasen" ],
+			[ "fermentasen" ]
+		],
+		"11" : [
+			[ "fermentare" ],
+			[ "fermentares" ],
+			[ "fermentare" ],
+			[ "fermentáremos" ],
+			[ "fermentareis", "fermentaren" ],
+			[ "fermentaren" ]
+		],
+		"12" : {
+			"1" : [ "fermenta" ],
+			"2" : [ "fermente" ],
+			"3" : [ "fermentemos" ],
+			"4" : [ "fermentad" ],
+			"5" : [ "fermenten" ]
+		}
+	}
+}

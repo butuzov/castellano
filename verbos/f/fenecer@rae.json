@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fenecer",
+	"word" : "fenecer",
+	"infinitivo" : "fenecer",
+	"participio" : [ "fenecido" ],
+	"gerundio" : [ "feneciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "fenezco" ],
+			[ "feneces", "fenecés" ],
+			[ "fenece" ],
+			[ "fenecemos" ],
+			[ "fenecéis", "fenecen" ],
+			[ "fenecen" ]
+		],
+		"4" : [
+			[ "fenecí" ],
+			[ "feneciste" ],
+			[ "feneció" ],
+			[ "fenecimos" ],
+			[ "fenecisteis", "fenecieron" ],
+			[ "fenecieron" ]
+		],
+		"5" : [
+			[ "fenecía" ],
+			[ "fenecías" ],
+			[ "fenecía" ],
+			[ "fenecíamos" ],
+			[ "fenecíais", "fenecían" ],
+			[ "fenecían" ]
+		],
+		"6" : [
+			[ "fenecería" ],
+			[ "fenecerías" ],
+			[ "fenecería" ],
+			[ "feneceríamos" ],
+			[ "feneceríais", "fenecerían" ],
+			[ "fenecerían" ]
+		],
+		"7" : [
+			[ "feneceré" ],
+			[ "fenecerás" ],
+			[ "fenecerá" ],
+			[ "feneceremos" ],
+			[ "feneceréis", "fenecerán" ],
+			[ "fenecerán" ]
+		],
+		"8" : [
+			[ "fenezca" ],
+			[ "fenezcas" ],
+			[ "fenezca" ],
+			[ "fenezcamos" ],
+			[ "fenezcáis", "fenezcan" ],
+			[ "fenezcan" ]
+		],
+		"9" : [
+			[ "feneciera" ],
+			[ "fenecieras" ],
+			[ "feneciera" ],
+			[ "feneciéramos" ],
+			[ "fenecierais", "fenecieran" ],
+			[ "fenecieran" ]
+		],
+		"10" : [
+			[ "feneciese" ],
+			[ "fenecieses" ],
+			[ "feneciese" ],
+			[ "feneciésemos" ],
+			[ "fenecieseis", "feneciesen" ],
+			[ "feneciesen" ]
+		],
+		"11" : [
+			[ "feneciere" ],
+			[ "fenecieres" ],
+			[ "feneciere" ],
+			[ "feneciéremos" ],
+			[ "feneciereis", "fenecieren" ],
+			[ "fenecieren" ]
+		],
+		"12" : {
+			"1" : [ "fenece" ],
+			"2" : [ "fenezca" ],
+			"3" : [ "fenezcamos" ],
+			"4" : [ "feneced" ],
+			"5" : [ "fenezcan" ]
+		}
+	}
+}

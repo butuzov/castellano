@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aumentar",
+	"word" : "aumentar",
+	"infinitivo" : "aumentar",
+	"participio" : [ "aumentado" ],
+	"gerundio" : [ "aumentando" ],
+	"tenses" : {
+		"3" : [
+			[ "aumento" ],
+			[ "aumentas", "aumentás" ],
+			[ "aumenta" ],
+			[ "aumentamos" ],
+			[ "aumentáis", "aumentan" ],
+			[ "aumentan" ]
+		],
+		"4" : [
+			[ "aumenté" ],
+			[ "aumentaste" ],
+			[ "aumentó" ],
+			[ "aumentamos" ],
+			[ "aumentasteis", "aumentaron" ],
+			[ "aumentaron" ]
+		],
+		"5" : [
+			[ "aumentaba" ],
+			[ "aumentabas" ],
+			[ "aumentaba" ],
+			[ "aumentábamos" ],
+			[ "aumentabais", "aumentaban" ],
+			[ "aumentaban" ]
+		],
+		"6" : [
+			[ "aumentaría" ],
+			[ "aumentarías" ],
+			[ "aumentaría" ],
+			[ "aumentaríamos" ],
+			[ "aumentaríais", "aumentarían" ],
+			[ "aumentarían" ]
+		],
+		"7" : [
+			[ "aumentaré" ],
+			[ "aumentarás" ],
+			[ "aumentará" ],
+			[ "aumentaremos" ],
+			[ "aumentaréis", "aumentarán" ],
+			[ "aumentarán" ]
+		],
+		"8" : [
+			[ "aumente" ],
+			[ "aumentes" ],
+			[ "aumente" ],
+			[ "aumentemos" ],
+			[ "aumentéis", "aumenten" ],
+			[ "aumenten" ]
+		],
+		"9" : [
+			[ "aumentara" ],
+			[ "aumentaras" ],
+			[ "aumentara" ],
+			[ "aumentáramos" ],
+			[ "aumentarais", "aumentaran" ],
+			[ "aumentaran" ]
+		],
+		"10" : [
+			[ "aumentase" ],
+			[ "aumentases" ],
+			[ "aumentase" ],
+			[ "aumentásemos" ],
+			[ "aumentaseis", "aumentasen" ],
+			[ "aumentasen" ]
+		],
+		"11" : [
+			[ "aumentare" ],
+			[ "aumentares" ],
+			[ "aumentare" ],
+			[ "aumentáremos" ],
+			[ "aumentareis", "aumentaren" ],
+			[ "aumentaren" ]
+		],
+		"12" : {
+			"1" : [ "aumenta" ],
+			"2" : [ "aumente" ],
+			"3" : [ "aumentemos" ],
+			"4" : [ "aumentad" ],
+			"5" : [ "aumenten" ]
+		}
+	}
+}

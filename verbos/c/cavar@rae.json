@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cavar",
+	"word" : "cavar",
+	"infinitivo" : "cavar",
+	"participio" : [ "cavado" ],
+	"gerundio" : [ "cavando" ],
+	"tenses" : {
+		"3" : [
+			[ "cavo" ],
+			[ "cavas", "cavás" ],
+			[ "cava" ],
+			[ "cavamos" ],
+			[ "caváis", "cavan" ],
+			[ "cavan" ]
+		],
+		"4" : [
+			[ "cavé" ],
+			[ "cavaste" ],
+			[ "cavó" ],
+			[ "cavamos" ],
+			[ "cavasteis", "cavaron" ],
+			[ "cavaron" ]
+		],
+		"5" : [
+			[ "cavaba" ],
+			[ "cavabas" ],
+			[ "cavaba" ],
+			[ "cavábamos" ],
+			[ "cavabais", "cavaban" ],
+			[ "cavaban" ]
+		],
+		"6" : [
+			[ "cavaría" ],
+			[ "cavarías" ],
+			[ "cavaría" ],
+			[ "cavaríamos" ],
+			[ "cavaríais", "cavarían" ],
+			[ "cavarían" ]
+		],
+		"7" : [
+			[ "cavaré" ],
+			[ "cavarás" ],
+			[ "cavará" ],
+			[ "cavaremos" ],
+			[ "cavaréis", "cavarán" ],
+			[ "cavarán" ]
+		],
+		"8" : [
+			[ "cave" ],
+			[ "caves" ],
+			[ "cave" ],
+			[ "cavemos" ],
+			[ "cavéis", "caven" ],
+			[ "caven" ]
+		],
+		"9" : [
+			[ "cavara" ],
+			[ "cavaras" ],
+			[ "cavara" ],
+			[ "caváramos" ],
+			[ "cavarais", "cavaran" ],
+			[ "cavaran" ]
+		],
+		"10" : [
+			[ "cavase" ],
+			[ "cavases" ],
+			[ "cavase" ],
+			[ "cavásemos" ],
+			[ "cavaseis", "cavasen" ],
+			[ "cavasen" ]
+		],
+		"11" : [
+			[ "cavare" ],
+			[ "cavares" ],
+			[ "cavare" ],
+			[ "caváremos" ],
+			[ "cavareis", "cavaren" ],
+			[ "cavaren" ]
+		],
+		"12" : {
+			"1" : [ "cava" ],
+			"2" : [ "cave" ],
+			"3" : [ "cavemos" ],
+			"4" : [ "cavad" ],
+			"5" : [ "caven" ]
+		}
+	}
+}

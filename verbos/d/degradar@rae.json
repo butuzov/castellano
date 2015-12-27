@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=degradar",
+	"word" : "degradar",
+	"infinitivo" : "degradar",
+	"participio" : [ "degradado" ],
+	"gerundio" : [ "degradando" ],
+	"tenses" : {
+		"3" : [
+			[ "degrado" ],
+			[ "degradas", "degradás" ],
+			[ "degrada" ],
+			[ "degradamos" ],
+			[ "degradáis", "degradan" ],
+			[ "degradan" ]
+		],
+		"4" : [
+			[ "degradé" ],
+			[ "degradaste" ],
+			[ "degradó" ],
+			[ "degradamos" ],
+			[ "degradasteis", "degradaron" ],
+			[ "degradaron" ]
+		],
+		"5" : [
+			[ "degradaba" ],
+			[ "degradabas" ],
+			[ "degradaba" ],
+			[ "degradábamos" ],
+			[ "degradabais", "degradaban" ],
+			[ "degradaban" ]
+		],
+		"6" : [
+			[ "degradaría" ],
+			[ "degradarías" ],
+			[ "degradaría" ],
+			[ "degradaríamos" ],
+			[ "degradaríais", "degradarían" ],
+			[ "degradarían" ]
+		],
+		"7" : [
+			[ "degradaré" ],
+			[ "degradarás" ],
+			[ "degradará" ],
+			[ "degradaremos" ],
+			[ "degradaréis", "degradarán" ],
+			[ "degradarán" ]
+		],
+		"8" : [
+			[ "degrade" ],
+			[ "degrades" ],
+			[ "degrade" ],
+			[ "degrademos" ],
+			[ "degradéis", "degraden" ],
+			[ "degraden" ]
+		],
+		"9" : [
+			[ "degradara" ],
+			[ "degradaras" ],
+			[ "degradara" ],
+			[ "degradáramos" ],
+			[ "degradarais", "degradaran" ],
+			[ "degradaran" ]
+		],
+		"10" : [
+			[ "degradase" ],
+			[ "degradases" ],
+			[ "degradase" ],
+			[ "degradásemos" ],
+			[ "degradaseis", "degradasen" ],
+			[ "degradasen" ]
+		],
+		"11" : [
+			[ "degradare" ],
+			[ "degradares" ],
+			[ "degradare" ],
+			[ "degradáremos" ],
+			[ "degradareis", "degradaren" ],
+			[ "degradaren" ]
+		],
+		"12" : {
+			"1" : [ "degrada" ],
+			"2" : [ "degrade" ],
+			"3" : [ "degrademos" ],
+			"4" : [ "degradad" ],
+			"5" : [ "degraden" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=secuenciar",
+	"word" : "secuenciar",
+	"infinitivo" : "secuenciar",
+	"participio" : [ "secuenciado" ],
+	"gerundio" : [ "secuenciando" ],
+	"tenses" : {
+		"3" : [
+			[ "secuencio" ],
+			[ "secuencias", "secuenciás" ],
+			[ "secuencia" ],
+			[ "secuenciamos" ],
+			[ "secuenciáis", "secuencian" ],
+			[ "secuencian" ]
+		],
+		"4" : [
+			[ "secuencié" ],
+			[ "secuenciaste" ],
+			[ "secuenció" ],
+			[ "secuenciamos" ],
+			[ "secuenciasteis", "secuenciaron" ],
+			[ "secuenciaron" ]
+		],
+		"5" : [
+			[ "secuenciaba" ],
+			[ "secuenciabas" ],
+			[ "secuenciaba" ],
+			[ "secuenciábamos" ],
+			[ "secuenciabais", "secuenciaban" ],
+			[ "secuenciaban" ]
+		],
+		"6" : [
+			[ "secuenciaría" ],
+			[ "secuenciarías" ],
+			[ "secuenciaría" ],
+			[ "secuenciaríamos" ],
+			[ "secuenciaríais", "secuenciarían" ],
+			[ "secuenciarían" ]
+		],
+		"7" : [
+			[ "secuenciaré" ],
+			[ "secuenciarás" ],
+			[ "secuenciará" ],
+			[ "secuenciaremos" ],
+			[ "secuenciaréis", "secuenciarán" ],
+			[ "secuenciarán" ]
+		],
+		"8" : [
+			[ "secuencie" ],
+			[ "secuencies" ],
+			[ "secuencie" ],
+			[ "secuenciemos" ],
+			[ "secuenciéis", "secuencien" ],
+			[ "secuencien" ]
+		],
+		"9" : [
+			[ "secuenciara" ],
+			[ "secuenciaras" ],
+			[ "secuenciara" ],
+			[ "secuenciáramos" ],
+			[ "secuenciarais", "secuenciaran" ],
+			[ "secuenciaran" ]
+		],
+		"10" : [
+			[ "secuenciase" ],
+			[ "secuenciases" ],
+			[ "secuenciase" ],
+			[ "secuenciásemos" ],
+			[ "secuenciaseis", "secuenciasen" ],
+			[ "secuenciasen" ]
+		],
+		"11" : [
+			[ "secuenciare" ],
+			[ "secuenciares" ],
+			[ "secuenciare" ],
+			[ "secuenciáremos" ],
+			[ "secuenciareis", "secuenciaren" ],
+			[ "secuenciaren" ]
+		],
+		"12" : {
+			"1" : [ "secuencia" ],
+			"2" : [ "secuencie" ],
+			"3" : [ "secuenciemos" ],
+			"4" : [ "secuenciad" ],
+			"5" : [ "secuencien" ]
+		}
+	}
+}

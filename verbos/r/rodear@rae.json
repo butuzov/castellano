@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rodear",
+	"word" : "rodear",
+	"infinitivo" : "rodear",
+	"participio" : [ "rodeado" ],
+	"gerundio" : [ "rodeando" ],
+	"tenses" : {
+		"3" : [
+			[ "rodeo" ],
+			[ "rodeas", "rodeás" ],
+			[ "rodea" ],
+			[ "rodeamos" ],
+			[ "rodeáis", "rodean" ],
+			[ "rodean" ]
+		],
+		"4" : [
+			[ "rodeé" ],
+			[ "rodeaste" ],
+			[ "rodeó" ],
+			[ "rodeamos" ],
+			[ "rodeasteis", "rodearon" ],
+			[ "rodearon" ]
+		],
+		"5" : [
+			[ "rodeaba" ],
+			[ "rodeabas" ],
+			[ "rodeaba" ],
+			[ "rodeábamos" ],
+			[ "rodeabais", "rodeaban" ],
+			[ "rodeaban" ]
+		],
+		"6" : [
+			[ "rodearía" ],
+			[ "rodearías" ],
+			[ "rodearía" ],
+			[ "rodearíamos" ],
+			[ "rodearíais", "rodearían" ],
+			[ "rodearían" ]
+		],
+		"7" : [
+			[ "rodearé" ],
+			[ "rodearás" ],
+			[ "rodeará" ],
+			[ "rodearemos" ],
+			[ "rodearéis", "rodearán" ],
+			[ "rodearán" ]
+		],
+		"8" : [
+			[ "rodee" ],
+			[ "rodees" ],
+			[ "rodee" ],
+			[ "rodeemos" ],
+			[ "rodeéis", "rodeen" ],
+			[ "rodeen" ]
+		],
+		"9" : [
+			[ "rodeara" ],
+			[ "rodearas" ],
+			[ "rodeara" ],
+			[ "rodeáramos" ],
+			[ "rodearais", "rodearan" ],
+			[ "rodearan" ]
+		],
+		"10" : [
+			[ "rodease" ],
+			[ "rodeases" ],
+			[ "rodease" ],
+			[ "rodeásemos" ],
+			[ "rodeaseis", "rodeasen" ],
+			[ "rodeasen" ]
+		],
+		"11" : [
+			[ "rodeare" ],
+			[ "rodeares" ],
+			[ "rodeare" ],
+			[ "rodeáremos" ],
+			[ "rodeareis", "rodearen" ],
+			[ "rodearen" ]
+		],
+		"12" : {
+			"1" : [ "rodea" ],
+			"2" : [ "rodee" ],
+			"3" : [ "rodeemos" ],
+			"4" : [ "rodead" ],
+			"5" : [ "rodeen" ]
+		}
+	}
+}

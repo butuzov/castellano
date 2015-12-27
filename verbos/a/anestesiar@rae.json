@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anestesiar",
+	"word" : "anestesiar",
+	"infinitivo" : "anestesiar",
+	"participio" : [ "anestesiado" ],
+	"gerundio" : [ "anestesiando" ],
+	"tenses" : {
+		"3" : [
+			[ "anestesio" ],
+			[ "anestesias", "anestesiás" ],
+			[ "anestesia" ],
+			[ "anestesiamos" ],
+			[ "anestesiáis", "anestesian" ],
+			[ "anestesian" ]
+		],
+		"4" : [
+			[ "anestesié" ],
+			[ "anestesiaste" ],
+			[ "anestesió" ],
+			[ "anestesiamos" ],
+			[ "anestesiasteis", "anestesiaron" ],
+			[ "anestesiaron" ]
+		],
+		"5" : [
+			[ "anestesiaba" ],
+			[ "anestesiabas" ],
+			[ "anestesiaba" ],
+			[ "anestesiábamos" ],
+			[ "anestesiabais", "anestesiaban" ],
+			[ "anestesiaban" ]
+		],
+		"6" : [
+			[ "anestesiaría" ],
+			[ "anestesiarías" ],
+			[ "anestesiaría" ],
+			[ "anestesiaríamos" ],
+			[ "anestesiaríais", "anestesiarían" ],
+			[ "anestesiarían" ]
+		],
+		"7" : [
+			[ "anestesiaré" ],
+			[ "anestesiarás" ],
+			[ "anestesiará" ],
+			[ "anestesiaremos" ],
+			[ "anestesiaréis", "anestesiarán" ],
+			[ "anestesiarán" ]
+		],
+		"8" : [
+			[ "anestesie" ],
+			[ "anestesies" ],
+			[ "anestesie" ],
+			[ "anestesiemos" ],
+			[ "anestesiéis", "anestesien" ],
+			[ "anestesien" ]
+		],
+		"9" : [
+			[ "anestesiara" ],
+			[ "anestesiaras" ],
+			[ "anestesiara" ],
+			[ "anestesiáramos" ],
+			[ "anestesiarais", "anestesiaran" ],
+			[ "anestesiaran" ]
+		],
+		"10" : [
+			[ "anestesiase" ],
+			[ "anestesiases" ],
+			[ "anestesiase" ],
+			[ "anestesiásemos" ],
+			[ "anestesiaseis", "anestesiasen" ],
+			[ "anestesiasen" ]
+		],
+		"11" : [
+			[ "anestesiare" ],
+			[ "anestesiares" ],
+			[ "anestesiare" ],
+			[ "anestesiáremos" ],
+			[ "anestesiareis", "anestesiaren" ],
+			[ "anestesiaren" ]
+		],
+		"12" : {
+			"1" : [ "anestesia" ],
+			"2" : [ "anestesie" ],
+			"3" : [ "anestesiemos" ],
+			"4" : [ "anestesiad" ],
+			"5" : [ "anestesien" ]
+		}
+	}
+}

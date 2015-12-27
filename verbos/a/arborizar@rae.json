@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arborizar",
+	"word" : "arborizar",
+	"infinitivo" : "arborizar",
+	"participio" : [ "arborizado" ],
+	"gerundio" : [ "arborizando" ],
+	"tenses" : {
+		"3" : [
+			[ "arborizo" ],
+			[ "arborizas", "arborizás" ],
+			[ "arboriza" ],
+			[ "arborizamos" ],
+			[ "arborizáis", "arborizan" ],
+			[ "arborizan" ]
+		],
+		"4" : [
+			[ "arboricé" ],
+			[ "arborizaste" ],
+			[ "arborizó" ],
+			[ "arborizamos" ],
+			[ "arborizasteis", "arborizaron" ],
+			[ "arborizaron" ]
+		],
+		"5" : [
+			[ "arborizaba" ],
+			[ "arborizabas" ],
+			[ "arborizaba" ],
+			[ "arborizábamos" ],
+			[ "arborizabais", "arborizaban" ],
+			[ "arborizaban" ]
+		],
+		"6" : [
+			[ "arborizaría" ],
+			[ "arborizarías" ],
+			[ "arborizaría" ],
+			[ "arborizaríamos" ],
+			[ "arborizaríais", "arborizarían" ],
+			[ "arborizarían" ]
+		],
+		"7" : [
+			[ "arborizaré" ],
+			[ "arborizarás" ],
+			[ "arborizará" ],
+			[ "arborizaremos" ],
+			[ "arborizaréis", "arborizarán" ],
+			[ "arborizarán" ]
+		],
+		"8" : [
+			[ "arborice" ],
+			[ "arborices" ],
+			[ "arborice" ],
+			[ "arboricemos" ],
+			[ "arboricéis", "arboricen" ],
+			[ "arboricen" ]
+		],
+		"9" : [
+			[ "arborizara" ],
+			[ "arborizaras" ],
+			[ "arborizara" ],
+			[ "arborizáramos" ],
+			[ "arborizarais", "arborizaran" ],
+			[ "arborizaran" ]
+		],
+		"10" : [
+			[ "arborizase" ],
+			[ "arborizases" ],
+			[ "arborizase" ],
+			[ "arborizásemos" ],
+			[ "arborizaseis", "arborizasen" ],
+			[ "arborizasen" ]
+		],
+		"11" : [
+			[ "arborizare" ],
+			[ "arborizares" ],
+			[ "arborizare" ],
+			[ "arborizáremos" ],
+			[ "arborizareis", "arborizaren" ],
+			[ "arborizaren" ]
+		],
+		"12" : {
+			"1" : [ "arboriza" ],
+			"2" : [ "arborice" ],
+			"3" : [ "arboricemos" ],
+			"4" : [ "arborizad" ],
+			"5" : [ "arboricen" ]
+		}
+	}
+}

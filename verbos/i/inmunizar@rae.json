@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inmunizar",
+	"word" : "inmunizar",
+	"infinitivo" : "inmunizar",
+	"participio" : [ "inmunizado" ],
+	"gerundio" : [ "inmunizando" ],
+	"tenses" : {
+		"3" : [
+			[ "inmunizo" ],
+			[ "inmunizas", "inmunizás" ],
+			[ "inmuniza" ],
+			[ "inmunizamos" ],
+			[ "inmunizáis", "inmunizan" ],
+			[ "inmunizan" ]
+		],
+		"4" : [
+			[ "inmunicé" ],
+			[ "inmunizaste" ],
+			[ "inmunizó" ],
+			[ "inmunizamos" ],
+			[ "inmunizasteis", "inmunizaron" ],
+			[ "inmunizaron" ]
+		],
+		"5" : [
+			[ "inmunizaba" ],
+			[ "inmunizabas" ],
+			[ "inmunizaba" ],
+			[ "inmunizábamos" ],
+			[ "inmunizabais", "inmunizaban" ],
+			[ "inmunizaban" ]
+		],
+		"6" : [
+			[ "inmunizaría" ],
+			[ "inmunizarías" ],
+			[ "inmunizaría" ],
+			[ "inmunizaríamos" ],
+			[ "inmunizaríais", "inmunizarían" ],
+			[ "inmunizarían" ]
+		],
+		"7" : [
+			[ "inmunizaré" ],
+			[ "inmunizarás" ],
+			[ "inmunizará" ],
+			[ "inmunizaremos" ],
+			[ "inmunizaréis", "inmunizarán" ],
+			[ "inmunizarán" ]
+		],
+		"8" : [
+			[ "inmunice" ],
+			[ "inmunices" ],
+			[ "inmunice" ],
+			[ "inmunicemos" ],
+			[ "inmunicéis", "inmunicen" ],
+			[ "inmunicen" ]
+		],
+		"9" : [
+			[ "inmunizara" ],
+			[ "inmunizaras" ],
+			[ "inmunizara" ],
+			[ "inmunizáramos" ],
+			[ "inmunizarais", "inmunizaran" ],
+			[ "inmunizaran" ]
+		],
+		"10" : [
+			[ "inmunizase" ],
+			[ "inmunizases" ],
+			[ "inmunizase" ],
+			[ "inmunizásemos" ],
+			[ "inmunizaseis", "inmunizasen" ],
+			[ "inmunizasen" ]
+		],
+		"11" : [
+			[ "inmunizare" ],
+			[ "inmunizares" ],
+			[ "inmunizare" ],
+			[ "inmunizáremos" ],
+			[ "inmunizareis", "inmunizaren" ],
+			[ "inmunizaren" ]
+		],
+		"12" : {
+			"1" : [ "inmuniza" ],
+			"2" : [ "inmunice" ],
+			"3" : [ "inmunicemos" ],
+			"4" : [ "inmunizad" ],
+			"5" : [ "inmunicen" ]
+		}
+	}
+}

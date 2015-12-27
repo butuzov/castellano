@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bocinar",
+	"word" : "bocinar",
+	"infinitivo" : "bocinar",
+	"participio" : [ "bocinado" ],
+	"gerundio" : [ "bocinando" ],
+	"tenses" : {
+		"3" : [
+			[ "bocino" ],
+			[ "bocinas", "bocinás" ],
+			[ "bocina" ],
+			[ "bocinamos" ],
+			[ "bocináis", "bocinan" ],
+			[ "bocinan" ]
+		],
+		"4" : [
+			[ "bociné" ],
+			[ "bocinaste" ],
+			[ "bocinó" ],
+			[ "bocinamos" ],
+			[ "bocinasteis", "bocinaron" ],
+			[ "bocinaron" ]
+		],
+		"5" : [
+			[ "bocinaba" ],
+			[ "bocinabas" ],
+			[ "bocinaba" ],
+			[ "bocinábamos" ],
+			[ "bocinabais", "bocinaban" ],
+			[ "bocinaban" ]
+		],
+		"6" : [
+			[ "bocinaría" ],
+			[ "bocinarías" ],
+			[ "bocinaría" ],
+			[ "bocinaríamos" ],
+			[ "bocinaríais", "bocinarían" ],
+			[ "bocinarían" ]
+		],
+		"7" : [
+			[ "bocinaré" ],
+			[ "bocinarás" ],
+			[ "bocinará" ],
+			[ "bocinaremos" ],
+			[ "bocinaréis", "bocinarán" ],
+			[ "bocinarán" ]
+		],
+		"8" : [
+			[ "bocine" ],
+			[ "bocines" ],
+			[ "bocine" ],
+			[ "bocinemos" ],
+			[ "bocinéis", "bocinen" ],
+			[ "bocinen" ]
+		],
+		"9" : [
+			[ "bocinara" ],
+			[ "bocinaras" ],
+			[ "bocinara" ],
+			[ "bocináramos" ],
+			[ "bocinarais", "bocinaran" ],
+			[ "bocinaran" ]
+		],
+		"10" : [
+			[ "bocinase" ],
+			[ "bocinases" ],
+			[ "bocinase" ],
+			[ "bocinásemos" ],
+			[ "bocinaseis", "bocinasen" ],
+			[ "bocinasen" ]
+		],
+		"11" : [
+			[ "bocinare" ],
+			[ "bocinares" ],
+			[ "bocinare" ],
+			[ "bocináremos" ],
+			[ "bocinareis", "bocinaren" ],
+			[ "bocinaren" ]
+		],
+		"12" : {
+			"1" : [ "bocina" ],
+			"2" : [ "bocine" ],
+			"3" : [ "bocinemos" ],
+			"4" : [ "bocinad" ],
+			"5" : [ "bocinen" ]
+		}
+	}
+}

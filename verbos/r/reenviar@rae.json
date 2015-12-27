@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reenviar",
+	"word" : "reenviar",
+	"infinitivo" : "reenviar",
+	"participio" : [ "reenviado" ],
+	"gerundio" : [ "reenviando" ],
+	"tenses" : {
+		"3" : [
+			[ "reenvío" ],
+			[ "reenvías", "reenviás" ],
+			[ "reenvía" ],
+			[ "reenviamos" ],
+			[ "reenviáis", "reenvían" ],
+			[ "reenvían" ]
+		],
+		"4" : [
+			[ "reenvié" ],
+			[ "reenviaste" ],
+			[ "reenvió" ],
+			[ "reenviamos" ],
+			[ "reenviasteis", "reenviaron" ],
+			[ "reenviaron" ]
+		],
+		"5" : [
+			[ "reenviaba" ],
+			[ "reenviabas" ],
+			[ "reenviaba" ],
+			[ "reenviábamos" ],
+			[ "reenviabais", "reenviaban" ],
+			[ "reenviaban" ]
+		],
+		"6" : [
+			[ "reenviaría" ],
+			[ "reenviarías" ],
+			[ "reenviaría" ],
+			[ "reenviaríamos" ],
+			[ "reenviaríais", "reenviarían" ],
+			[ "reenviarían" ]
+		],
+		"7" : [
+			[ "reenviaré" ],
+			[ "reenviarás" ],
+			[ "reenviará" ],
+			[ "reenviaremos" ],
+			[ "reenviaréis", "reenviarán" ],
+			[ "reenviarán" ]
+		],
+		"8" : [
+			[ "reenvíe" ],
+			[ "reenvíes" ],
+			[ "reenvíe" ],
+			[ "reenviemos" ],
+			[ "reenviéis", "reenvíen" ],
+			[ "reenvíen" ]
+		],
+		"9" : [
+			[ "reenviara" ],
+			[ "reenviaras" ],
+			[ "reenviara" ],
+			[ "reenviáramos" ],
+			[ "reenviarais", "reenviaran" ],
+			[ "reenviaran" ]
+		],
+		"10" : [
+			[ "reenviase" ],
+			[ "reenviases" ],
+			[ "reenviase" ],
+			[ "reenviásemos" ],
+			[ "reenviaseis", "reenviasen" ],
+			[ "reenviasen" ]
+		],
+		"11" : [
+			[ "reenviare" ],
+			[ "reenviares" ],
+			[ "reenviare" ],
+			[ "reenviáremos" ],
+			[ "reenviareis", "reenviaren" ],
+			[ "reenviaren" ]
+		],
+		"12" : {
+			"1" : [ "reenvía" ],
+			"2" : [ "reenvíe" ],
+			"3" : [ "reenviemos" ],
+			"4" : [ "reenviad" ],
+			"5" : [ "reenvíen" ]
+		}
+	}
+}

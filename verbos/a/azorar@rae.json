@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=azorar",
+	"word" : "azorar",
+	"infinitivo" : "azorar",
+	"participio" : [ "azorado" ],
+	"gerundio" : [ "azorando" ],
+	"tenses" : {
+		"3" : [
+			[ "azoro" ],
+			[ "azoras", "azorás" ],
+			[ "azora" ],
+			[ "azoramos" ],
+			[ "azoráis", "azoran" ],
+			[ "azoran" ]
+		],
+		"4" : [
+			[ "azoré" ],
+			[ "azoraste" ],
+			[ "azoró" ],
+			[ "azoramos" ],
+			[ "azorasteis", "azoraron" ],
+			[ "azoraron" ]
+		],
+		"5" : [
+			[ "azoraba" ],
+			[ "azorabas" ],
+			[ "azoraba" ],
+			[ "azorábamos" ],
+			[ "azorabais", "azoraban" ],
+			[ "azoraban" ]
+		],
+		"6" : [
+			[ "azoraría" ],
+			[ "azorarías" ],
+			[ "azoraría" ],
+			[ "azoraríamos" ],
+			[ "azoraríais", "azorarían" ],
+			[ "azorarían" ]
+		],
+		"7" : [
+			[ "azoraré" ],
+			[ "azorarás" ],
+			[ "azorará" ],
+			[ "azoraremos" ],
+			[ "azoraréis", "azorarán" ],
+			[ "azorarán" ]
+		],
+		"8" : [
+			[ "azore" ],
+			[ "azores" ],
+			[ "azore" ],
+			[ "azoremos" ],
+			[ "azoréis", "azoren" ],
+			[ "azoren" ]
+		],
+		"9" : [
+			[ "azorara" ],
+			[ "azoraras" ],
+			[ "azorara" ],
+			[ "azoráramos" ],
+			[ "azorarais", "azoraran" ],
+			[ "azoraran" ]
+		],
+		"10" : [
+			[ "azorase" ],
+			[ "azorases" ],
+			[ "azorase" ],
+			[ "azorásemos" ],
+			[ "azoraseis", "azorasen" ],
+			[ "azorasen" ]
+		],
+		"11" : [
+			[ "azorare" ],
+			[ "azorares" ],
+			[ "azorare" ],
+			[ "azoráremos" ],
+			[ "azorareis", "azoraren" ],
+			[ "azoraren" ]
+		],
+		"12" : {
+			"1" : [ "azora" ],
+			"2" : [ "azore" ],
+			"3" : [ "azoremos" ],
+			"4" : [ "azorad" ],
+			"5" : [ "azoren" ]
+		}
+	}
+}

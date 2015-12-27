@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=orinar",
+	"word" : "orinar",
+	"infinitivo" : "orinar",
+	"participio" : [ "orinado" ],
+	"gerundio" : [ "orinando" ],
+	"tenses" : {
+		"3" : [
+			[ "orino" ],
+			[ "orinas", "orinás" ],
+			[ "orina" ],
+			[ "orinamos" ],
+			[ "orináis", "orinan" ],
+			[ "orinan" ]
+		],
+		"4" : [
+			[ "oriné" ],
+			[ "orinaste" ],
+			[ "orinó" ],
+			[ "orinamos" ],
+			[ "orinasteis", "orinaron" ],
+			[ "orinaron" ]
+		],
+		"5" : [
+			[ "orinaba" ],
+			[ "orinabas" ],
+			[ "orinaba" ],
+			[ "orinábamos" ],
+			[ "orinabais", "orinaban" ],
+			[ "orinaban" ]
+		],
+		"6" : [
+			[ "orinaría" ],
+			[ "orinarías" ],
+			[ "orinaría" ],
+			[ "orinaríamos" ],
+			[ "orinaríais", "orinarían" ],
+			[ "orinarían" ]
+		],
+		"7" : [
+			[ "orinaré" ],
+			[ "orinarás" ],
+			[ "orinará" ],
+			[ "orinaremos" ],
+			[ "orinaréis", "orinarán" ],
+			[ "orinarán" ]
+		],
+		"8" : [
+			[ "orine" ],
+			[ "orines" ],
+			[ "orine" ],
+			[ "orinemos" ],
+			[ "orinéis", "orinen" ],
+			[ "orinen" ]
+		],
+		"9" : [
+			[ "orinara" ],
+			[ "orinaras" ],
+			[ "orinara" ],
+			[ "orináramos" ],
+			[ "orinarais", "orinaran" ],
+			[ "orinaran" ]
+		],
+		"10" : [
+			[ "orinase" ],
+			[ "orinases" ],
+			[ "orinase" ],
+			[ "orinásemos" ],
+			[ "orinaseis", "orinasen" ],
+			[ "orinasen" ]
+		],
+		"11" : [
+			[ "orinare" ],
+			[ "orinares" ],
+			[ "orinare" ],
+			[ "orináremos" ],
+			[ "orinareis", "orinaren" ],
+			[ "orinaren" ]
+		],
+		"12" : {
+			"1" : [ "orina" ],
+			"2" : [ "orine" ],
+			"3" : [ "orinemos" ],
+			"4" : [ "orinad" ],
+			"5" : [ "orinen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=caldear",
+	"word" : "caldear",
+	"infinitivo" : "caldear",
+	"participio" : [ "caldeado" ],
+	"gerundio" : [ "caldeando" ],
+	"tenses" : {
+		"3" : [
+			[ "caldeo" ],
+			[ "caldeas", "caldeás" ],
+			[ "caldea" ],
+			[ "caldeamos" ],
+			[ "caldeáis", "caldean" ],
+			[ "caldean" ]
+		],
+		"4" : [
+			[ "caldeé" ],
+			[ "caldeaste" ],
+			[ "caldeó" ],
+			[ "caldeamos" ],
+			[ "caldeasteis", "caldearon" ],
+			[ "caldearon" ]
+		],
+		"5" : [
+			[ "caldeaba" ],
+			[ "caldeabas" ],
+			[ "caldeaba" ],
+			[ "caldeábamos" ],
+			[ "caldeabais", "caldeaban" ],
+			[ "caldeaban" ]
+		],
+		"6" : [
+			[ "caldearía" ],
+			[ "caldearías" ],
+			[ "caldearía" ],
+			[ "caldearíamos" ],
+			[ "caldearíais", "caldearían" ],
+			[ "caldearían" ]
+		],
+		"7" : [
+			[ "caldearé" ],
+			[ "caldearás" ],
+			[ "caldeará" ],
+			[ "caldearemos" ],
+			[ "caldearéis", "caldearán" ],
+			[ "caldearán" ]
+		],
+		"8" : [
+			[ "caldee" ],
+			[ "caldees" ],
+			[ "caldee" ],
+			[ "caldeemos" ],
+			[ "caldeéis", "caldeen" ],
+			[ "caldeen" ]
+		],
+		"9" : [
+			[ "caldeara" ],
+			[ "caldearas" ],
+			[ "caldeara" ],
+			[ "caldeáramos" ],
+			[ "caldearais", "caldearan" ],
+			[ "caldearan" ]
+		],
+		"10" : [
+			[ "caldease" ],
+			[ "caldeases" ],
+			[ "caldease" ],
+			[ "caldeásemos" ],
+			[ "caldeaseis", "caldeasen" ],
+			[ "caldeasen" ]
+		],
+		"11" : [
+			[ "caldeare" ],
+			[ "caldeares" ],
+			[ "caldeare" ],
+			[ "caldeáremos" ],
+			[ "caldeareis", "caldearen" ],
+			[ "caldearen" ]
+		],
+		"12" : {
+			"1" : [ "caldea" ],
+			"2" : [ "caldee" ],
+			"3" : [ "caldeemos" ],
+			"4" : [ "caldead" ],
+			"5" : [ "caldeen" ]
+		}
+	}
+}

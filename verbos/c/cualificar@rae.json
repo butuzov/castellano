@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cualificar",
+	"word" : "cualificar",
+	"infinitivo" : "cualificar",
+	"participio" : [ "cualificado" ],
+	"gerundio" : [ "cualificando" ],
+	"tenses" : {
+		"3" : [
+			[ "cualifico" ],
+			[ "cualificas", "cualificás" ],
+			[ "cualifica" ],
+			[ "cualificamos" ],
+			[ "cualificáis", "cualifican" ],
+			[ "cualifican" ]
+		],
+		"4" : [
+			[ "cualifiqué" ],
+			[ "cualificaste" ],
+			[ "cualificó" ],
+			[ "cualificamos" ],
+			[ "cualificasteis", "cualificaron" ],
+			[ "cualificaron" ]
+		],
+		"5" : [
+			[ "cualificaba" ],
+			[ "cualificabas" ],
+			[ "cualificaba" ],
+			[ "cualificábamos" ],
+			[ "cualificabais", "cualificaban" ],
+			[ "cualificaban" ]
+		],
+		"6" : [
+			[ "cualificaría" ],
+			[ "cualificarías" ],
+			[ "cualificaría" ],
+			[ "cualificaríamos" ],
+			[ "cualificaríais", "cualificarían" ],
+			[ "cualificarían" ]
+		],
+		"7" : [
+			[ "cualificaré" ],
+			[ "cualificarás" ],
+			[ "cualificará" ],
+			[ "cualificaremos" ],
+			[ "cualificaréis", "cualificarán" ],
+			[ "cualificarán" ]
+		],
+		"8" : [
+			[ "cualifique" ],
+			[ "cualifiques" ],
+			[ "cualifique" ],
+			[ "cualifiquemos" ],
+			[ "cualifiquéis", "cualifiquen" ],
+			[ "cualifiquen" ]
+		],
+		"9" : [
+			[ "cualificara" ],
+			[ "cualificaras" ],
+			[ "cualificara" ],
+			[ "cualificáramos" ],
+			[ "cualificarais", "cualificaran" ],
+			[ "cualificaran" ]
+		],
+		"10" : [
+			[ "cualificase" ],
+			[ "cualificases" ],
+			[ "cualificase" ],
+			[ "cualificásemos" ],
+			[ "cualificaseis", "cualificasen" ],
+			[ "cualificasen" ]
+		],
+		"11" : [
+			[ "cualificare" ],
+			[ "cualificares" ],
+			[ "cualificare" ],
+			[ "cualificáremos" ],
+			[ "cualificareis", "cualificaren" ],
+			[ "cualificaren" ]
+		],
+		"12" : {
+			"1" : [ "cualifica" ],
+			"2" : [ "cualifique" ],
+			"3" : [ "cualifiquemos" ],
+			"4" : [ "cualificad" ],
+			"5" : [ "cualifiquen" ]
+		}
+	}
+}

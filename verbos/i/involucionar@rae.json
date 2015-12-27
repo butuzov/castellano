@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=involucionar",
+	"word" : "involucionar",
+	"infinitivo" : "involucionar",
+	"participio" : [ "involucionado" ],
+	"gerundio" : [ "involucionando" ],
+	"tenses" : {
+		"3" : [
+			[ "involuciono" ],
+			[ "involucionas", "involucionás" ],
+			[ "involuciona" ],
+			[ "involucionamos" ],
+			[ "involucionáis", "involucionan" ],
+			[ "involucionan" ]
+		],
+		"4" : [
+			[ "involucioné" ],
+			[ "involucionaste" ],
+			[ "involucionó" ],
+			[ "involucionamos" ],
+			[ "involucionasteis", "involucionaron" ],
+			[ "involucionaron" ]
+		],
+		"5" : [
+			[ "involucionaba" ],
+			[ "involucionabas" ],
+			[ "involucionaba" ],
+			[ "involucionábamos" ],
+			[ "involucionabais", "involucionaban" ],
+			[ "involucionaban" ]
+		],
+		"6" : [
+			[ "involucionaría" ],
+			[ "involucionarías" ],
+			[ "involucionaría" ],
+			[ "involucionaríamos" ],
+			[ "involucionaríais", "involucionarían" ],
+			[ "involucionarían" ]
+		],
+		"7" : [
+			[ "involucionaré" ],
+			[ "involucionarás" ],
+			[ "involucionará" ],
+			[ "involucionaremos" ],
+			[ "involucionaréis", "involucionarán" ],
+			[ "involucionarán" ]
+		],
+		"8" : [
+			[ "involucione" ],
+			[ "involuciones" ],
+			[ "involucione" ],
+			[ "involucionemos" ],
+			[ "involucionéis", "involucionen" ],
+			[ "involucionen" ]
+		],
+		"9" : [
+			[ "involucionara" ],
+			[ "involucionaras" ],
+			[ "involucionara" ],
+			[ "involucionáramos" ],
+			[ "involucionarais", "involucionaran" ],
+			[ "involucionaran" ]
+		],
+		"10" : [
+			[ "involucionase" ],
+			[ "involucionases" ],
+			[ "involucionase" ],
+			[ "involucionásemos" ],
+			[ "involucionaseis", "involucionasen" ],
+			[ "involucionasen" ]
+		],
+		"11" : [
+			[ "involucionare" ],
+			[ "involucionares" ],
+			[ "involucionare" ],
+			[ "involucionáremos" ],
+			[ "involucionareis", "involucionaren" ],
+			[ "involucionaren" ]
+		],
+		"12" : {
+			"1" : [ "involuciona" ],
+			"2" : [ "involucione" ],
+			"3" : [ "involucionemos" ],
+			"4" : [ "involucionad" ],
+			"5" : [ "involucionen" ]
+		}
+	}
+}

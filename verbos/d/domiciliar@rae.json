@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=domiciliar",
+	"word" : "domiciliar",
+	"infinitivo" : "domiciliar",
+	"participio" : [ "domiciliado" ],
+	"gerundio" : [ "domiciliando" ],
+	"tenses" : {
+		"3" : [
+			[ "domicilio" ],
+			[ "domicilias", "domiciliás" ],
+			[ "domicilia" ],
+			[ "domiciliamos" ],
+			[ "domiciliáis", "domicilian" ],
+			[ "domicilian" ]
+		],
+		"4" : [
+			[ "domicilié" ],
+			[ "domiciliaste" ],
+			[ "domicilió" ],
+			[ "domiciliamos" ],
+			[ "domiciliasteis", "domiciliaron" ],
+			[ "domiciliaron" ]
+		],
+		"5" : [
+			[ "domiciliaba" ],
+			[ "domiciliabas" ],
+			[ "domiciliaba" ],
+			[ "domiciliábamos" ],
+			[ "domiciliabais", "domiciliaban" ],
+			[ "domiciliaban" ]
+		],
+		"6" : [
+			[ "domiciliaría" ],
+			[ "domiciliarías" ],
+			[ "domiciliaría" ],
+			[ "domiciliaríamos" ],
+			[ "domiciliaríais", "domiciliarían" ],
+			[ "domiciliarían" ]
+		],
+		"7" : [
+			[ "domiciliaré" ],
+			[ "domiciliarás" ],
+			[ "domiciliará" ],
+			[ "domiciliaremos" ],
+			[ "domiciliaréis", "domiciliarán" ],
+			[ "domiciliarán" ]
+		],
+		"8" : [
+			[ "domicilie" ],
+			[ "domicilies" ],
+			[ "domicilie" ],
+			[ "domiciliemos" ],
+			[ "domiciliéis", "domicilien" ],
+			[ "domicilien" ]
+		],
+		"9" : [
+			[ "domiciliara" ],
+			[ "domiciliaras" ],
+			[ "domiciliara" ],
+			[ "domiciliáramos" ],
+			[ "domiciliarais", "domiciliaran" ],
+			[ "domiciliaran" ]
+		],
+		"10" : [
+			[ "domiciliase" ],
+			[ "domiciliases" ],
+			[ "domiciliase" ],
+			[ "domiciliásemos" ],
+			[ "domiciliaseis", "domiciliasen" ],
+			[ "domiciliasen" ]
+		],
+		"11" : [
+			[ "domiciliare" ],
+			[ "domiciliares" ],
+			[ "domiciliare" ],
+			[ "domiciliáremos" ],
+			[ "domiciliareis", "domiciliaren" ],
+			[ "domiciliaren" ]
+		],
+		"12" : {
+			"1" : [ "domicilia" ],
+			"2" : [ "domicilie" ],
+			"3" : [ "domiciliemos" ],
+			"4" : [ "domiciliad" ],
+			"5" : [ "domicilien" ]
+		}
+	}
+}

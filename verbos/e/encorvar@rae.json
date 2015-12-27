@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encorvar",
+	"word" : "encorvar",
+	"infinitivo" : "encorvar",
+	"participio" : [ "encorvado" ],
+	"gerundio" : [ "encorvando" ],
+	"tenses" : {
+		"3" : [
+			[ "encorvo" ],
+			[ "encorvas", "encorvás" ],
+			[ "encorva" ],
+			[ "encorvamos" ],
+			[ "encorváis", "encorvan" ],
+			[ "encorvan" ]
+		],
+		"4" : [
+			[ "encorvé" ],
+			[ "encorvaste" ],
+			[ "encorvó" ],
+			[ "encorvamos" ],
+			[ "encorvasteis", "encorvaron" ],
+			[ "encorvaron" ]
+		],
+		"5" : [
+			[ "encorvaba" ],
+			[ "encorvabas" ],
+			[ "encorvaba" ],
+			[ "encorvábamos" ],
+			[ "encorvabais", "encorvaban" ],
+			[ "encorvaban" ]
+		],
+		"6" : [
+			[ "encorvaría" ],
+			[ "encorvarías" ],
+			[ "encorvaría" ],
+			[ "encorvaríamos" ],
+			[ "encorvaríais", "encorvarían" ],
+			[ "encorvarían" ]
+		],
+		"7" : [
+			[ "encorvaré" ],
+			[ "encorvarás" ],
+			[ "encorvará" ],
+			[ "encorvaremos" ],
+			[ "encorvaréis", "encorvarán" ],
+			[ "encorvarán" ]
+		],
+		"8" : [
+			[ "encorve" ],
+			[ "encorves" ],
+			[ "encorve" ],
+			[ "encorvemos" ],
+			[ "encorvéis", "encorven" ],
+			[ "encorven" ]
+		],
+		"9" : [
+			[ "encorvara" ],
+			[ "encorvaras" ],
+			[ "encorvara" ],
+			[ "encorváramos" ],
+			[ "encorvarais", "encorvaran" ],
+			[ "encorvaran" ]
+		],
+		"10" : [
+			[ "encorvase" ],
+			[ "encorvases" ],
+			[ "encorvase" ],
+			[ "encorvásemos" ],
+			[ "encorvaseis", "encorvasen" ],
+			[ "encorvasen" ]
+		],
+		"11" : [
+			[ "encorvare" ],
+			[ "encorvares" ],
+			[ "encorvare" ],
+			[ "encorváremos" ],
+			[ "encorvareis", "encorvaren" ],
+			[ "encorvaren" ]
+		],
+		"12" : {
+			"1" : [ "encorva" ],
+			"2" : [ "encorve" ],
+			"3" : [ "encorvemos" ],
+			"4" : [ "encorvad" ],
+			"5" : [ "encorven" ]
+		}
+	}
+}

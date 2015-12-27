@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=maular",
+	"word" : "maular",
+	"infinitivo" : "maular",
+	"participio" : [ "maulado" ],
+	"gerundio" : [ "maulando" ],
+	"tenses" : {
+		"3" : [
+			[ "maulo" ],
+			[ "maulas", "maulás" ],
+			[ "maula" ],
+			[ "maulamos" ],
+			[ "mauláis", "maulan" ],
+			[ "maulan" ]
+		],
+		"4" : [
+			[ "maulé" ],
+			[ "maulaste" ],
+			[ "mauló" ],
+			[ "maulamos" ],
+			[ "maulasteis", "maularon" ],
+			[ "maularon" ]
+		],
+		"5" : [
+			[ "maulaba" ],
+			[ "maulabas" ],
+			[ "maulaba" ],
+			[ "maulábamos" ],
+			[ "maulabais", "maulaban" ],
+			[ "maulaban" ]
+		],
+		"6" : [
+			[ "maularía" ],
+			[ "maularías" ],
+			[ "maularía" ],
+			[ "maularíamos" ],
+			[ "maularíais", "maularían" ],
+			[ "maularían" ]
+		],
+		"7" : [
+			[ "maularé" ],
+			[ "maularás" ],
+			[ "maulará" ],
+			[ "maularemos" ],
+			[ "maularéis", "maularán" ],
+			[ "maularán" ]
+		],
+		"8" : [
+			[ "maule" ],
+			[ "maules" ],
+			[ "maule" ],
+			[ "maulemos" ],
+			[ "mauléis", "maulen" ],
+			[ "maulen" ]
+		],
+		"9" : [
+			[ "maulara" ],
+			[ "maularas" ],
+			[ "maulara" ],
+			[ "mauláramos" ],
+			[ "maularais", "maularan" ],
+			[ "maularan" ]
+		],
+		"10" : [
+			[ "maulase" ],
+			[ "maulases" ],
+			[ "maulase" ],
+			[ "maulásemos" ],
+			[ "maulaseis", "maulasen" ],
+			[ "maulasen" ]
+		],
+		"11" : [
+			[ "maulare" ],
+			[ "maulares" ],
+			[ "maulare" ],
+			[ "mauláremos" ],
+			[ "maulareis", "maularen" ],
+			[ "maularen" ]
+		],
+		"12" : {
+			"1" : [ "maula" ],
+			"2" : [ "maule" ],
+			"3" : [ "maulemos" ],
+			"4" : [ "maulad" ],
+			"5" : [ "maulen" ]
+		}
+	}
+}

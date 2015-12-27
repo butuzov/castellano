@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pirar",
+	"word" : "pirar",
+	"infinitivo" : "pirar",
+	"participio" : [ "pirado" ],
+	"gerundio" : [ "pirando" ],
+	"tenses" : {
+		"3" : [
+			[ "piro" ],
+			[ "piras", "pirás" ],
+			[ "pira" ],
+			[ "piramos" ],
+			[ "piráis", "piran" ],
+			[ "piran" ]
+		],
+		"4" : [
+			[ "piré" ],
+			[ "piraste" ],
+			[ "piró" ],
+			[ "piramos" ],
+			[ "pirasteis", "piraron" ],
+			[ "piraron" ]
+		],
+		"5" : [
+			[ "piraba" ],
+			[ "pirabas" ],
+			[ "piraba" ],
+			[ "pirábamos" ],
+			[ "pirabais", "piraban" ],
+			[ "piraban" ]
+		],
+		"6" : [
+			[ "piraría" ],
+			[ "pirarías" ],
+			[ "piraría" ],
+			[ "piraríamos" ],
+			[ "piraríais", "pirarían" ],
+			[ "pirarían" ]
+		],
+		"7" : [
+			[ "piraré" ],
+			[ "pirarás" ],
+			[ "pirará" ],
+			[ "piraremos" ],
+			[ "piraréis", "pirarán" ],
+			[ "pirarán" ]
+		],
+		"8" : [
+			[ "pire" ],
+			[ "pires" ],
+			[ "pire" ],
+			[ "piremos" ],
+			[ "piréis", "piren" ],
+			[ "piren" ]
+		],
+		"9" : [
+			[ "pirara" ],
+			[ "piraras" ],
+			[ "pirara" ],
+			[ "piráramos" ],
+			[ "pirarais", "piraran" ],
+			[ "piraran" ]
+		],
+		"10" : [
+			[ "pirase" ],
+			[ "pirases" ],
+			[ "pirase" ],
+			[ "pirásemos" ],
+			[ "piraseis", "pirasen" ],
+			[ "pirasen" ]
+		],
+		"11" : [
+			[ "pirare" ],
+			[ "pirares" ],
+			[ "pirare" ],
+			[ "piráremos" ],
+			[ "pirareis", "piraren" ],
+			[ "piraren" ]
+		],
+		"12" : {
+			"1" : [ "pira" ],
+			"2" : [ "pire" ],
+			"3" : [ "piremos" ],
+			"4" : [ "pirad" ],
+			"5" : [ "piren" ]
+		}
+	}
+}

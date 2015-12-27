@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sabotear",
+	"word" : "sabotear",
+	"infinitivo" : "sabotear",
+	"participio" : [ "saboteado" ],
+	"gerundio" : [ "saboteando" ],
+	"tenses" : {
+		"3" : [
+			[ "saboteo" ],
+			[ "saboteas", "saboteás" ],
+			[ "sabotea" ],
+			[ "saboteamos" ],
+			[ "saboteáis", "sabotean" ],
+			[ "sabotean" ]
+		],
+		"4" : [
+			[ "saboteé" ],
+			[ "saboteaste" ],
+			[ "saboteó" ],
+			[ "saboteamos" ],
+			[ "saboteasteis", "sabotearon" ],
+			[ "sabotearon" ]
+		],
+		"5" : [
+			[ "saboteaba" ],
+			[ "saboteabas" ],
+			[ "saboteaba" ],
+			[ "saboteábamos" ],
+			[ "saboteabais", "saboteaban" ],
+			[ "saboteaban" ]
+		],
+		"6" : [
+			[ "sabotearía" ],
+			[ "sabotearías" ],
+			[ "sabotearía" ],
+			[ "sabotearíamos" ],
+			[ "sabotearíais", "sabotearían" ],
+			[ "sabotearían" ]
+		],
+		"7" : [
+			[ "sabotearé" ],
+			[ "sabotearás" ],
+			[ "saboteará" ],
+			[ "sabotearemos" ],
+			[ "sabotearéis", "sabotearán" ],
+			[ "sabotearán" ]
+		],
+		"8" : [
+			[ "sabotee" ],
+			[ "sabotees" ],
+			[ "sabotee" ],
+			[ "saboteemos" ],
+			[ "saboteéis", "saboteen" ],
+			[ "saboteen" ]
+		],
+		"9" : [
+			[ "saboteara" ],
+			[ "sabotearas" ],
+			[ "saboteara" ],
+			[ "saboteáramos" ],
+			[ "sabotearais", "sabotearan" ],
+			[ "sabotearan" ]
+		],
+		"10" : [
+			[ "sabotease" ],
+			[ "saboteases" ],
+			[ "sabotease" ],
+			[ "saboteásemos" ],
+			[ "saboteaseis", "saboteasen" ],
+			[ "saboteasen" ]
+		],
+		"11" : [
+			[ "saboteare" ],
+			[ "saboteares" ],
+			[ "saboteare" ],
+			[ "saboteáremos" ],
+			[ "saboteareis", "sabotearen" ],
+			[ "sabotearen" ]
+		],
+		"12" : {
+			"1" : [ "sabotea" ],
+			"2" : [ "sabotee" ],
+			"3" : [ "saboteemos" ],
+			"4" : [ "sabotead" ],
+			"5" : [ "saboteen" ]
+		}
+	}
+}

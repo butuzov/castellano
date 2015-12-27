@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desactivar",
+	"word" : "desactivar",
+	"infinitivo" : "desactivar",
+	"participio" : [ "desactivado" ],
+	"gerundio" : [ "desactivando" ],
+	"tenses" : {
+		"3" : [
+			[ "desactivo" ],
+			[ "desactivas", "desactivás" ],
+			[ "desactiva" ],
+			[ "desactivamos" ],
+			[ "desactiváis", "desactivan" ],
+			[ "desactivan" ]
+		],
+		"4" : [
+			[ "desactivé" ],
+			[ "desactivaste" ],
+			[ "desactivó" ],
+			[ "desactivamos" ],
+			[ "desactivasteis", "desactivaron" ],
+			[ "desactivaron" ]
+		],
+		"5" : [
+			[ "desactivaba" ],
+			[ "desactivabas" ],
+			[ "desactivaba" ],
+			[ "desactivábamos" ],
+			[ "desactivabais", "desactivaban" ],
+			[ "desactivaban" ]
+		],
+		"6" : [
+			[ "desactivaría" ],
+			[ "desactivarías" ],
+			[ "desactivaría" ],
+			[ "desactivaríamos" ],
+			[ "desactivaríais", "desactivarían" ],
+			[ "desactivarían" ]
+		],
+		"7" : [
+			[ "desactivaré" ],
+			[ "desactivarás" ],
+			[ "desactivará" ],
+			[ "desactivaremos" ],
+			[ "desactivaréis", "desactivarán" ],
+			[ "desactivarán" ]
+		],
+		"8" : [
+			[ "desactive" ],
+			[ "desactives" ],
+			[ "desactive" ],
+			[ "desactivemos" ],
+			[ "desactivéis", "desactiven" ],
+			[ "desactiven" ]
+		],
+		"9" : [
+			[ "desactivara" ],
+			[ "desactivaras" ],
+			[ "desactivara" ],
+			[ "desactiváramos" ],
+			[ "desactivarais", "desactivaran" ],
+			[ "desactivaran" ]
+		],
+		"10" : [
+			[ "desactivase" ],
+			[ "desactivases" ],
+			[ "desactivase" ],
+			[ "desactivásemos" ],
+			[ "desactivaseis", "desactivasen" ],
+			[ "desactivasen" ]
+		],
+		"11" : [
+			[ "desactivare" ],
+			[ "desactivares" ],
+			[ "desactivare" ],
+			[ "desactiváremos" ],
+			[ "desactivareis", "desactivaren" ],
+			[ "desactivaren" ]
+		],
+		"12" : {
+			"1" : [ "desactiva" ],
+			"2" : [ "desactive" ],
+			"3" : [ "desactivemos" ],
+			"4" : [ "desactivad" ],
+			"5" : [ "desactiven" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dorar",
+	"word" : "dorar",
+	"infinitivo" : "dorar",
+	"participio" : [ "dorado" ],
+	"gerundio" : [ "dorando" ],
+	"tenses" : {
+		"3" : [
+			[ "doro" ],
+			[ "doras", "dorás" ],
+			[ "dora" ],
+			[ "doramos" ],
+			[ "doráis", "doran" ],
+			[ "doran" ]
+		],
+		"4" : [
+			[ "doré" ],
+			[ "doraste" ],
+			[ "doró" ],
+			[ "doramos" ],
+			[ "dorasteis", "doraron" ],
+			[ "doraron" ]
+		],
+		"5" : [
+			[ "doraba" ],
+			[ "dorabas" ],
+			[ "doraba" ],
+			[ "dorábamos" ],
+			[ "dorabais", "doraban" ],
+			[ "doraban" ]
+		],
+		"6" : [
+			[ "doraría" ],
+			[ "dorarías" ],
+			[ "doraría" ],
+			[ "doraríamos" ],
+			[ "doraríais", "dorarían" ],
+			[ "dorarían" ]
+		],
+		"7" : [
+			[ "doraré" ],
+			[ "dorarás" ],
+			[ "dorará" ],
+			[ "doraremos" ],
+			[ "doraréis", "dorarán" ],
+			[ "dorarán" ]
+		],
+		"8" : [
+			[ "dore" ],
+			[ "dores" ],
+			[ "dore" ],
+			[ "doremos" ],
+			[ "doréis", "doren" ],
+			[ "doren" ]
+		],
+		"9" : [
+			[ "dorara" ],
+			[ "doraras" ],
+			[ "dorara" ],
+			[ "doráramos" ],
+			[ "dorarais", "doraran" ],
+			[ "doraran" ]
+		],
+		"10" : [
+			[ "dorase" ],
+			[ "dorases" ],
+			[ "dorase" ],
+			[ "dorásemos" ],
+			[ "doraseis", "dorasen" ],
+			[ "dorasen" ]
+		],
+		"11" : [
+			[ "dorare" ],
+			[ "dorares" ],
+			[ "dorare" ],
+			[ "doráremos" ],
+			[ "dorareis", "doraren" ],
+			[ "doraren" ]
+		],
+		"12" : {
+			"1" : [ "dora" ],
+			"2" : [ "dore" ],
+			"3" : [ "doremos" ],
+			"4" : [ "dorad" ],
+			"5" : [ "doren" ]
+		}
+	}
+}

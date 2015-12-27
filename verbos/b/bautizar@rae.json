@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bautizar",
+	"word" : "bautizar",
+	"infinitivo" : "bautizar",
+	"participio" : [ "bautizado" ],
+	"gerundio" : [ "bautizando" ],
+	"tenses" : {
+		"3" : [
+			[ "bautizo" ],
+			[ "bautizas", "bautizás" ],
+			[ "bautiza" ],
+			[ "bautizamos" ],
+			[ "bautizáis", "bautizan" ],
+			[ "bautizan" ]
+		],
+		"4" : [
+			[ "bauticé" ],
+			[ "bautizaste" ],
+			[ "bautizó" ],
+			[ "bautizamos" ],
+			[ "bautizasteis", "bautizaron" ],
+			[ "bautizaron" ]
+		],
+		"5" : [
+			[ "bautizaba" ],
+			[ "bautizabas" ],
+			[ "bautizaba" ],
+			[ "bautizábamos" ],
+			[ "bautizabais", "bautizaban" ],
+			[ "bautizaban" ]
+		],
+		"6" : [
+			[ "bautizaría" ],
+			[ "bautizarías" ],
+			[ "bautizaría" ],
+			[ "bautizaríamos" ],
+			[ "bautizaríais", "bautizarían" ],
+			[ "bautizarían" ]
+		],
+		"7" : [
+			[ "bautizaré" ],
+			[ "bautizarás" ],
+			[ "bautizará" ],
+			[ "bautizaremos" ],
+			[ "bautizaréis", "bautizarán" ],
+			[ "bautizarán" ]
+		],
+		"8" : [
+			[ "bautice" ],
+			[ "bautices" ],
+			[ "bautice" ],
+			[ "bauticemos" ],
+			[ "bauticéis", "bauticen" ],
+			[ "bauticen" ]
+		],
+		"9" : [
+			[ "bautizara" ],
+			[ "bautizaras" ],
+			[ "bautizara" ],
+			[ "bautizáramos" ],
+			[ "bautizarais", "bautizaran" ],
+			[ "bautizaran" ]
+		],
+		"10" : [
+			[ "bautizase" ],
+			[ "bautizases" ],
+			[ "bautizase" ],
+			[ "bautizásemos" ],
+			[ "bautizaseis", "bautizasen" ],
+			[ "bautizasen" ]
+		],
+		"11" : [
+			[ "bautizare" ],
+			[ "bautizares" ],
+			[ "bautizare" ],
+			[ "bautizáremos" ],
+			[ "bautizareis", "bautizaren" ],
+			[ "bautizaren" ]
+		],
+		"12" : {
+			"1" : [ "bautiza" ],
+			"2" : [ "bautice" ],
+			"3" : [ "bauticemos" ],
+			"4" : [ "bautizad" ],
+			"5" : [ "bauticen" ]
+		}
+	}
+}

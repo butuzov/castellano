@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=astillar",
+	"word" : "astillar",
+	"infinitivo" : "astillar",
+	"participio" : [ "astillado" ],
+	"gerundio" : [ "astillando" ],
+	"tenses" : {
+		"3" : [
+			[ "astillo" ],
+			[ "astillas", "astillás" ],
+			[ "astilla" ],
+			[ "astillamos" ],
+			[ "astilláis", "astillan" ],
+			[ "astillan" ]
+		],
+		"4" : [
+			[ "astillé" ],
+			[ "astillaste" ],
+			[ "astilló" ],
+			[ "astillamos" ],
+			[ "astillasteis", "astillaron" ],
+			[ "astillaron" ]
+		],
+		"5" : [
+			[ "astillaba" ],
+			[ "astillabas" ],
+			[ "astillaba" ],
+			[ "astillábamos" ],
+			[ "astillabais", "astillaban" ],
+			[ "astillaban" ]
+		],
+		"6" : [
+			[ "astillaría" ],
+			[ "astillarías" ],
+			[ "astillaría" ],
+			[ "astillaríamos" ],
+			[ "astillaríais", "astillarían" ],
+			[ "astillarían" ]
+		],
+		"7" : [
+			[ "astillaré" ],
+			[ "astillarás" ],
+			[ "astillará" ],
+			[ "astillaremos" ],
+			[ "astillaréis", "astillarán" ],
+			[ "astillarán" ]
+		],
+		"8" : [
+			[ "astille" ],
+			[ "astilles" ],
+			[ "astille" ],
+			[ "astillemos" ],
+			[ "astilléis", "astillen" ],
+			[ "astillen" ]
+		],
+		"9" : [
+			[ "astillara" ],
+			[ "astillaras" ],
+			[ "astillara" ],
+			[ "astilláramos" ],
+			[ "astillarais", "astillaran" ],
+			[ "astillaran" ]
+		],
+		"10" : [
+			[ "astillase" ],
+			[ "astillases" ],
+			[ "astillase" ],
+			[ "astillásemos" ],
+			[ "astillaseis", "astillasen" ],
+			[ "astillasen" ]
+		],
+		"11" : [
+			[ "astillare" ],
+			[ "astillares" ],
+			[ "astillare" ],
+			[ "astilláremos" ],
+			[ "astillareis", "astillaren" ],
+			[ "astillaren" ]
+		],
+		"12" : {
+			"1" : [ "astilla" ],
+			"2" : [ "astille" ],
+			"3" : [ "astillemos" ],
+			"4" : [ "astillad" ],
+			"5" : [ "astillen" ]
+		}
+	}
+}

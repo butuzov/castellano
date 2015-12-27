@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rehabilitar",
+	"word" : "rehabilitar",
+	"infinitivo" : "rehabilitar",
+	"participio" : [ "rehabilitado" ],
+	"gerundio" : [ "rehabilitando" ],
+	"tenses" : {
+		"3" : [
+			[ "rehabilito" ],
+			[ "rehabilitas", "rehabilitás" ],
+			[ "rehabilita" ],
+			[ "rehabilitamos" ],
+			[ "rehabilitáis", "rehabilitan" ],
+			[ "rehabilitan" ]
+		],
+		"4" : [
+			[ "rehabilité" ],
+			[ "rehabilitaste" ],
+			[ "rehabilitó" ],
+			[ "rehabilitamos" ],
+			[ "rehabilitasteis", "rehabilitaron" ],
+			[ "rehabilitaron" ]
+		],
+		"5" : [
+			[ "rehabilitaba" ],
+			[ "rehabilitabas" ],
+			[ "rehabilitaba" ],
+			[ "rehabilitábamos" ],
+			[ "rehabilitabais", "rehabilitaban" ],
+			[ "rehabilitaban" ]
+		],
+		"6" : [
+			[ "rehabilitaría" ],
+			[ "rehabilitarías" ],
+			[ "rehabilitaría" ],
+			[ "rehabilitaríamos" ],
+			[ "rehabilitaríais", "rehabilitarían" ],
+			[ "rehabilitarían" ]
+		],
+		"7" : [
+			[ "rehabilitaré" ],
+			[ "rehabilitarás" ],
+			[ "rehabilitará" ],
+			[ "rehabilitaremos" ],
+			[ "rehabilitaréis", "rehabilitarán" ],
+			[ "rehabilitarán" ]
+		],
+		"8" : [
+			[ "rehabilite" ],
+			[ "rehabilites" ],
+			[ "rehabilite" ],
+			[ "rehabilitemos" ],
+			[ "rehabilitéis", "rehabiliten" ],
+			[ "rehabiliten" ]
+		],
+		"9" : [
+			[ "rehabilitara" ],
+			[ "rehabilitaras" ],
+			[ "rehabilitara" ],
+			[ "rehabilitáramos" ],
+			[ "rehabilitarais", "rehabilitaran" ],
+			[ "rehabilitaran" ]
+		],
+		"10" : [
+			[ "rehabilitase" ],
+			[ "rehabilitases" ],
+			[ "rehabilitase" ],
+			[ "rehabilitásemos" ],
+			[ "rehabilitaseis", "rehabilitasen" ],
+			[ "rehabilitasen" ]
+		],
+		"11" : [
+			[ "rehabilitare" ],
+			[ "rehabilitares" ],
+			[ "rehabilitare" ],
+			[ "rehabilitáremos" ],
+			[ "rehabilitareis", "rehabilitaren" ],
+			[ "rehabilitaren" ]
+		],
+		"12" : {
+			"1" : [ "rehabilita" ],
+			"2" : [ "rehabilite" ],
+			"3" : [ "rehabilitemos" ],
+			"4" : [ "rehabilitad" ],
+			"5" : [ "rehabiliten" ]
+		}
+	}
+}

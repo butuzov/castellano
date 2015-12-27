@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=corresponder",
+	"word" : "corresponder",
+	"infinitivo" : "corresponder",
+	"participio" : [ "correspondido" ],
+	"gerundio" : [ "correspondiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "correspondo" ],
+			[ "correspondes", "correspondés" ],
+			[ "corresponde" ],
+			[ "correspondemos" ],
+			[ "correspondéis", "corresponden" ],
+			[ "corresponden" ]
+		],
+		"4" : [
+			[ "correspondí" ],
+			[ "correspondiste" ],
+			[ "correspondió" ],
+			[ "correspondimos" ],
+			[ "correspondisteis", "correspondieron" ],
+			[ "correspondieron" ]
+		],
+		"5" : [
+			[ "correspondía" ],
+			[ "correspondías" ],
+			[ "correspondía" ],
+			[ "correspondíamos" ],
+			[ "correspondíais", "correspondían" ],
+			[ "correspondían" ]
+		],
+		"6" : [
+			[ "correspondería" ],
+			[ "corresponderías" ],
+			[ "correspondería" ],
+			[ "corresponderíamos" ],
+			[ "corresponderíais", "corresponderían" ],
+			[ "corresponderían" ]
+		],
+		"7" : [
+			[ "corresponderé" ],
+			[ "corresponderás" ],
+			[ "corresponderá" ],
+			[ "corresponderemos" ],
+			[ "corresponderéis", "corresponderán" ],
+			[ "corresponderán" ]
+		],
+		"8" : [
+			[ "corresponda" ],
+			[ "correspondas" ],
+			[ "corresponda" ],
+			[ "correspondamos" ],
+			[ "correspondáis", "correspondan" ],
+			[ "correspondan" ]
+		],
+		"9" : [
+			[ "correspondiera" ],
+			[ "correspondieras" ],
+			[ "correspondiera" ],
+			[ "correspondiéramos" ],
+			[ "correspondierais", "correspondieran" ],
+			[ "correspondieran" ]
+		],
+		"10" : [
+			[ "correspondiese" ],
+			[ "correspondieses" ],
+			[ "correspondiese" ],
+			[ "correspondiésemos" ],
+			[ "correspondieseis", "correspondiesen" ],
+			[ "correspondiesen" ]
+		],
+		"11" : [
+			[ "correspondiere" ],
+			[ "correspondieres" ],
+			[ "correspondiere" ],
+			[ "correspondiéremos" ],
+			[ "correspondiereis", "correspondieren" ],
+			[ "correspondieren" ]
+		],
+		"12" : {
+			"1" : [ "corresponde" ],
+			"2" : [ "corresponda" ],
+			"3" : [ "correspondamos" ],
+			"4" : [ "corresponded" ],
+			"5" : [ "correspondan" ]
+		}
+	}
+}

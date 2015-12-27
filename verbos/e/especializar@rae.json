@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=especializar",
+	"word" : "especializar",
+	"infinitivo" : "especializar",
+	"participio" : [ "especializado" ],
+	"gerundio" : [ "especializando" ],
+	"tenses" : {
+		"3" : [
+			[ "especializo" ],
+			[ "especializas", "especializás" ],
+			[ "especializa" ],
+			[ "especializamos" ],
+			[ "especializáis", "especializan" ],
+			[ "especializan" ]
+		],
+		"4" : [
+			[ "especialicé" ],
+			[ "especializaste" ],
+			[ "especializó" ],
+			[ "especializamos" ],
+			[ "especializasteis", "especializaron" ],
+			[ "especializaron" ]
+		],
+		"5" : [
+			[ "especializaba" ],
+			[ "especializabas" ],
+			[ "especializaba" ],
+			[ "especializábamos" ],
+			[ "especializabais", "especializaban" ],
+			[ "especializaban" ]
+		],
+		"6" : [
+			[ "especializaría" ],
+			[ "especializarías" ],
+			[ "especializaría" ],
+			[ "especializaríamos" ],
+			[ "especializaríais", "especializarían" ],
+			[ "especializarían" ]
+		],
+		"7" : [
+			[ "especializaré" ],
+			[ "especializarás" ],
+			[ "especializará" ],
+			[ "especializaremos" ],
+			[ "especializaréis", "especializarán" ],
+			[ "especializarán" ]
+		],
+		"8" : [
+			[ "especialice" ],
+			[ "especialices" ],
+			[ "especialice" ],
+			[ "especialicemos" ],
+			[ "especialicéis", "especialicen" ],
+			[ "especialicen" ]
+		],
+		"9" : [
+			[ "especializara" ],
+			[ "especializaras" ],
+			[ "especializara" ],
+			[ "especializáramos" ],
+			[ "especializarais", "especializaran" ],
+			[ "especializaran" ]
+		],
+		"10" : [
+			[ "especializase" ],
+			[ "especializases" ],
+			[ "especializase" ],
+			[ "especializásemos" ],
+			[ "especializaseis", "especializasen" ],
+			[ "especializasen" ]
+		],
+		"11" : [
+			[ "especializare" ],
+			[ "especializares" ],
+			[ "especializare" ],
+			[ "especializáremos" ],
+			[ "especializareis", "especializaren" ],
+			[ "especializaren" ]
+		],
+		"12" : {
+			"1" : [ "especializa" ],
+			"2" : [ "especialice" ],
+			"3" : [ "especialicemos" ],
+			"4" : [ "especializad" ],
+			"5" : [ "especialicen" ]
+		}
+	}
+}

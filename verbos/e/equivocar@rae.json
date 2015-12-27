@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=equivocar",
+	"word" : "equivocar",
+	"infinitivo" : "equivocar",
+	"participio" : [ "equivocado" ],
+	"gerundio" : [ "equivocando" ],
+	"tenses" : {
+		"3" : [
+			[ "equivoco" ],
+			[ "equivocas", "equivocás" ],
+			[ "equivoca" ],
+			[ "equivocamos" ],
+			[ "equivocáis", "equivocan" ],
+			[ "equivocan" ]
+		],
+		"4" : [
+			[ "equivoqué" ],
+			[ "equivocaste" ],
+			[ "equivocó" ],
+			[ "equivocamos" ],
+			[ "equivocasteis", "equivocaron" ],
+			[ "equivocaron" ]
+		],
+		"5" : [
+			[ "equivocaba" ],
+			[ "equivocabas" ],
+			[ "equivocaba" ],
+			[ "equivocábamos" ],
+			[ "equivocabais", "equivocaban" ],
+			[ "equivocaban" ]
+		],
+		"6" : [
+			[ "equivocaría" ],
+			[ "equivocarías" ],
+			[ "equivocaría" ],
+			[ "equivocaríamos" ],
+			[ "equivocaríais", "equivocarían" ],
+			[ "equivocarían" ]
+		],
+		"7" : [
+			[ "equivocaré" ],
+			[ "equivocarás" ],
+			[ "equivocará" ],
+			[ "equivocaremos" ],
+			[ "equivocaréis", "equivocarán" ],
+			[ "equivocarán" ]
+		],
+		"8" : [
+			[ "equivoque" ],
+			[ "equivoques" ],
+			[ "equivoque" ],
+			[ "equivoquemos" ],
+			[ "equivoquéis", "equivoquen" ],
+			[ "equivoquen" ]
+		],
+		"9" : [
+			[ "equivocara" ],
+			[ "equivocaras" ],
+			[ "equivocara" ],
+			[ "equivocáramos" ],
+			[ "equivocarais", "equivocaran" ],
+			[ "equivocaran" ]
+		],
+		"10" : [
+			[ "equivocase" ],
+			[ "equivocases" ],
+			[ "equivocase" ],
+			[ "equivocásemos" ],
+			[ "equivocaseis", "equivocasen" ],
+			[ "equivocasen" ]
+		],
+		"11" : [
+			[ "equivocare" ],
+			[ "equivocares" ],
+			[ "equivocare" ],
+			[ "equivocáremos" ],
+			[ "equivocareis", "equivocaren" ],
+			[ "equivocaren" ]
+		],
+		"12" : {
+			"1" : [ "equivoca" ],
+			"2" : [ "equivoque" ],
+			"3" : [ "equivoquemos" ],
+			"4" : [ "equivocad" ],
+			"5" : [ "equivoquen" ]
+		}
+	}
+}

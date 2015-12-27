@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rebinar",
+	"word" : "rebinar",
+	"infinitivo" : "rebinar",
+	"participio" : [ "rebinado" ],
+	"gerundio" : [ "rebinando" ],
+	"tenses" : {
+		"3" : [
+			[ "rebino" ],
+			[ "rebinas", "rebinás" ],
+			[ "rebina" ],
+			[ "rebinamos" ],
+			[ "rebináis", "rebinan" ],
+			[ "rebinan" ]
+		],
+		"4" : [
+			[ "rebiné" ],
+			[ "rebinaste" ],
+			[ "rebinó" ],
+			[ "rebinamos" ],
+			[ "rebinasteis", "rebinaron" ],
+			[ "rebinaron" ]
+		],
+		"5" : [
+			[ "rebinaba" ],
+			[ "rebinabas" ],
+			[ "rebinaba" ],
+			[ "rebinábamos" ],
+			[ "rebinabais", "rebinaban" ],
+			[ "rebinaban" ]
+		],
+		"6" : [
+			[ "rebinaría" ],
+			[ "rebinarías" ],
+			[ "rebinaría" ],
+			[ "rebinaríamos" ],
+			[ "rebinaríais", "rebinarían" ],
+			[ "rebinarían" ]
+		],
+		"7" : [
+			[ "rebinaré" ],
+			[ "rebinarás" ],
+			[ "rebinará" ],
+			[ "rebinaremos" ],
+			[ "rebinaréis", "rebinarán" ],
+			[ "rebinarán" ]
+		],
+		"8" : [
+			[ "rebine" ],
+			[ "rebines" ],
+			[ "rebine" ],
+			[ "rebinemos" ],
+			[ "rebinéis", "rebinen" ],
+			[ "rebinen" ]
+		],
+		"9" : [
+			[ "rebinara" ],
+			[ "rebinaras" ],
+			[ "rebinara" ],
+			[ "rebináramos" ],
+			[ "rebinarais", "rebinaran" ],
+			[ "rebinaran" ]
+		],
+		"10" : [
+			[ "rebinase" ],
+			[ "rebinases" ],
+			[ "rebinase" ],
+			[ "rebinásemos" ],
+			[ "rebinaseis", "rebinasen" ],
+			[ "rebinasen" ]
+		],
+		"11" : [
+			[ "rebinare" ],
+			[ "rebinares" ],
+			[ "rebinare" ],
+			[ "rebináremos" ],
+			[ "rebinareis", "rebinaren" ],
+			[ "rebinaren" ]
+		],
+		"12" : {
+			"1" : [ "rebina" ],
+			"2" : [ "rebine" ],
+			"3" : [ "rebinemos" ],
+			"4" : [ "rebinad" ],
+			"5" : [ "rebinen" ]
+		}
+	}
+}

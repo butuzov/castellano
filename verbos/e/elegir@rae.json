@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=elegir",
+	"word" : "elegir",
+	"infinitivo" : "elegir",
+	"participio" : [ "elegido", "electo" ],
+	"gerundio" : [ "eligiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "elijo" ],
+			[ "eliges", "elegís" ],
+			[ "elige" ],
+			[ "elegimos" ],
+			[ "elegís", "eligen" ],
+			[ "eligen" ]
+		],
+		"4" : [
+			[ "elegí" ],
+			[ "elegiste" ],
+			[ "eligió" ],
+			[ "elegimos" ],
+			[ "elegisteis", "eligieron" ],
+			[ "eligieron" ]
+		],
+		"5" : [
+			[ "elegía" ],
+			[ "elegías" ],
+			[ "elegía" ],
+			[ "elegíamos" ],
+			[ "elegíais", "elegían" ],
+			[ "elegían" ]
+		],
+		"6" : [
+			[ "elegiría" ],
+			[ "elegirías" ],
+			[ "elegiría" ],
+			[ "elegiríamos" ],
+			[ "elegiríais", "elegirían" ],
+			[ "elegirían" ]
+		],
+		"7" : [
+			[ "elegiré" ],
+			[ "elegirás" ],
+			[ "elegirá" ],
+			[ "elegiremos" ],
+			[ "elegiréis", "elegirán" ],
+			[ "elegirán" ]
+		],
+		"8" : [
+			[ "elija" ],
+			[ "elijas" ],
+			[ "elija" ],
+			[ "elijamos" ],
+			[ "elijáis", "elijan" ],
+			[ "elijan" ]
+		],
+		"9" : [
+			[ "eligiera" ],
+			[ "eligieras" ],
+			[ "eligiera" ],
+			[ "eligiéramos" ],
+			[ "eligierais", "eligieran" ],
+			[ "eligieran" ]
+		],
+		"10" : [
+			[ "eligiese" ],
+			[ "eligieses" ],
+			[ "eligiese" ],
+			[ "eligiésemos" ],
+			[ "eligieseis", "eligiesen" ],
+			[ "eligiesen" ]
+		],
+		"11" : [
+			[ "eligiere" ],
+			[ "eligieres" ],
+			[ "eligiere" ],
+			[ "eligiéremos" ],
+			[ "eligiereis", "eligieren" ],
+			[ "eligieren" ]
+		],
+		"12" : {
+			"1" : [ "elige" ],
+			"2" : [ "elija" ],
+			"3" : [ "elijamos" ],
+			"4" : [ "elegid" ],
+			"5" : [ "elijan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acometer",
+	"word" : "acometer",
+	"infinitivo" : "acometer",
+	"participio" : [ "acometido" ],
+	"gerundio" : [ "acometiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "acometo" ],
+			[ "acometes", "acometés" ],
+			[ "acomete" ],
+			[ "acometemos" ],
+			[ "acometéis", "acometen" ],
+			[ "acometen" ]
+		],
+		"4" : [
+			[ "acometí" ],
+			[ "acometiste" ],
+			[ "acometió" ],
+			[ "acometimos" ],
+			[ "acometisteis", "acometieron" ],
+			[ "acometieron" ]
+		],
+		"5" : [
+			[ "acometía" ],
+			[ "acometías" ],
+			[ "acometía" ],
+			[ "acometíamos" ],
+			[ "acometíais", "acometían" ],
+			[ "acometían" ]
+		],
+		"6" : [
+			[ "acometería" ],
+			[ "acometerías" ],
+			[ "acometería" ],
+			[ "acometeríamos" ],
+			[ "acometeríais", "acometerían" ],
+			[ "acometerían" ]
+		],
+		"7" : [
+			[ "acometeré" ],
+			[ "acometerás" ],
+			[ "acometerá" ],
+			[ "acometeremos" ],
+			[ "acometeréis", "acometerán" ],
+			[ "acometerán" ]
+		],
+		"8" : [
+			[ "acometa" ],
+			[ "acometas" ],
+			[ "acometa" ],
+			[ "acometamos" ],
+			[ "acometáis", "acometan" ],
+			[ "acometan" ]
+		],
+		"9" : [
+			[ "acometiera" ],
+			[ "acometieras" ],
+			[ "acometiera" ],
+			[ "acometiéramos" ],
+			[ "acometierais", "acometieran" ],
+			[ "acometieran" ]
+		],
+		"10" : [
+			[ "acometiese" ],
+			[ "acometieses" ],
+			[ "acometiese" ],
+			[ "acometiésemos" ],
+			[ "acometieseis", "acometiesen" ],
+			[ "acometiesen" ]
+		],
+		"11" : [
+			[ "acometiere" ],
+			[ "acometieres" ],
+			[ "acometiere" ],
+			[ "acometiéremos" ],
+			[ "acometiereis", "acometieren" ],
+			[ "acometieren" ]
+		],
+		"12" : {
+			"1" : [ "acomete" ],
+			"2" : [ "acometa" ],
+			"3" : [ "acometamos" ],
+			"4" : [ "acometed" ],
+			"5" : [ "acometan" ]
+		}
+	}
+}

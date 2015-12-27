@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descabezar",
+	"word" : "descabezar",
+	"infinitivo" : "descabezar",
+	"participio" : [ "descabezado" ],
+	"gerundio" : [ "descabezando" ],
+	"tenses" : {
+		"3" : [
+			[ "descabezo" ],
+			[ "descabezas", "descabezás" ],
+			[ "descabeza" ],
+			[ "descabezamos" ],
+			[ "descabezáis", "descabezan" ],
+			[ "descabezan" ]
+		],
+		"4" : [
+			[ "descabecé" ],
+			[ "descabezaste" ],
+			[ "descabezó" ],
+			[ "descabezamos" ],
+			[ "descabezasteis", "descabezaron" ],
+			[ "descabezaron" ]
+		],
+		"5" : [
+			[ "descabezaba" ],
+			[ "descabezabas" ],
+			[ "descabezaba" ],
+			[ "descabezábamos" ],
+			[ "descabezabais", "descabezaban" ],
+			[ "descabezaban" ]
+		],
+		"6" : [
+			[ "descabezaría" ],
+			[ "descabezarías" ],
+			[ "descabezaría" ],
+			[ "descabezaríamos" ],
+			[ "descabezaríais", "descabezarían" ],
+			[ "descabezarían" ]
+		],
+		"7" : [
+			[ "descabezaré" ],
+			[ "descabezarás" ],
+			[ "descabezará" ],
+			[ "descabezaremos" ],
+			[ "descabezaréis", "descabezarán" ],
+			[ "descabezarán" ]
+		],
+		"8" : [
+			[ "descabece" ],
+			[ "descabeces" ],
+			[ "descabece" ],
+			[ "descabecemos" ],
+			[ "descabecéis", "descabecen" ],
+			[ "descabecen" ]
+		],
+		"9" : [
+			[ "descabezara" ],
+			[ "descabezaras" ],
+			[ "descabezara" ],
+			[ "descabezáramos" ],
+			[ "descabezarais", "descabezaran" ],
+			[ "descabezaran" ]
+		],
+		"10" : [
+			[ "descabezase" ],
+			[ "descabezases" ],
+			[ "descabezase" ],
+			[ "descabezásemos" ],
+			[ "descabezaseis", "descabezasen" ],
+			[ "descabezasen" ]
+		],
+		"11" : [
+			[ "descabezare" ],
+			[ "descabezares" ],
+			[ "descabezare" ],
+			[ "descabezáremos" ],
+			[ "descabezareis", "descabezaren" ],
+			[ "descabezaren" ]
+		],
+		"12" : {
+			"1" : [ "descabeza" ],
+			"2" : [ "descabece" ],
+			"3" : [ "descabecemos" ],
+			"4" : [ "descabezad" ],
+			"5" : [ "descabecen" ]
+		}
+	}
+}

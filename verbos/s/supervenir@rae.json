@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=supervenir",
+	"word" : "supervenir",
+	"infinitivo" : "supervenir",
+	"participio" : [ "supervenido" ],
+	"gerundio" : [ "superviniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "supervengo" ],
+			[ "supervienes", "supervenís" ],
+			[ "superviene" ],
+			[ "supervenimos" ],
+			[ "supervenís", "supervienen" ],
+			[ "supervienen" ]
+		],
+		"4" : [
+			[ "supervine" ],
+			[ "superviniste" ],
+			[ "supervino" ],
+			[ "supervinimos" ],
+			[ "supervinisteis", "supervinieron" ],
+			[ "supervinieron" ]
+		],
+		"5" : [
+			[ "supervenía" ],
+			[ "supervenías" ],
+			[ "supervenía" ],
+			[ "superveníamos" ],
+			[ "superveníais", "supervenían" ],
+			[ "supervenían" ]
+		],
+		"6" : [
+			[ "supervendría" ],
+			[ "supervendrías" ],
+			[ "supervendría" ],
+			[ "supervendríamos" ],
+			[ "supervendríais", "supervendrían" ],
+			[ "supervendrían" ]
+		],
+		"7" : [
+			[ "supervendré" ],
+			[ "supervendrás" ],
+			[ "supervendrá" ],
+			[ "supervendremos" ],
+			[ "supervendréis", "supervendrán" ],
+			[ "supervendrán" ]
+		],
+		"8" : [
+			[ "supervenga" ],
+			[ "supervengas" ],
+			[ "supervenga" ],
+			[ "supervengamos" ],
+			[ "supervengáis", "supervengan" ],
+			[ "supervengan" ]
+		],
+		"9" : [
+			[ "superviniera" ],
+			[ "supervinieras" ],
+			[ "superviniera" ],
+			[ "superviniéramos" ],
+			[ "supervinierais", "supervinieran" ],
+			[ "supervinieran" ]
+		],
+		"10" : [
+			[ "superviniese" ],
+			[ "supervinieses" ],
+			[ "superviniese" ],
+			[ "superviniésemos" ],
+			[ "supervinieseis", "superviniesen" ],
+			[ "superviniesen" ]
+		],
+		"11" : [
+			[ "superviniere" ],
+			[ "supervinieres" ],
+			[ "superviniere" ],
+			[ "superviniéremos" ],
+			[ "superviniereis", "supervinieren" ],
+			[ "supervinieren" ]
+		],
+		"12" : {
+			"1" : [ "supervén" ],
+			"2" : [ "supervenga" ],
+			"3" : [ "supervengamos" ],
+			"4" : [ "supervenid" ],
+			"5" : [ "supervengan" ]
+		}
+	}
+}

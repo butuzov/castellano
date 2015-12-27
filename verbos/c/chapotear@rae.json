@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chapotear",
+	"word" : "chapotear",
+	"infinitivo" : "chapotear",
+	"participio" : [ "chapoteado" ],
+	"gerundio" : [ "chapoteando" ],
+	"tenses" : {
+		"3" : [
+			[ "chapoteo" ],
+			[ "chapoteas", "chapoteás" ],
+			[ "chapotea" ],
+			[ "chapoteamos" ],
+			[ "chapoteáis", "chapotean" ],
+			[ "chapotean" ]
+		],
+		"4" : [
+			[ "chapoteé" ],
+			[ "chapoteaste" ],
+			[ "chapoteó" ],
+			[ "chapoteamos" ],
+			[ "chapoteasteis", "chapotearon" ],
+			[ "chapotearon" ]
+		],
+		"5" : [
+			[ "chapoteaba" ],
+			[ "chapoteabas" ],
+			[ "chapoteaba" ],
+			[ "chapoteábamos" ],
+			[ "chapoteabais", "chapoteaban" ],
+			[ "chapoteaban" ]
+		],
+		"6" : [
+			[ "chapotearía" ],
+			[ "chapotearías" ],
+			[ "chapotearía" ],
+			[ "chapotearíamos" ],
+			[ "chapotearíais", "chapotearían" ],
+			[ "chapotearían" ]
+		],
+		"7" : [
+			[ "chapotearé" ],
+			[ "chapotearás" ],
+			[ "chapoteará" ],
+			[ "chapotearemos" ],
+			[ "chapotearéis", "chapotearán" ],
+			[ "chapotearán" ]
+		],
+		"8" : [
+			[ "chapotee" ],
+			[ "chapotees" ],
+			[ "chapotee" ],
+			[ "chapoteemos" ],
+			[ "chapoteéis", "chapoteen" ],
+			[ "chapoteen" ]
+		],
+		"9" : [
+			[ "chapoteara" ],
+			[ "chapotearas" ],
+			[ "chapoteara" ],
+			[ "chapoteáramos" ],
+			[ "chapotearais", "chapotearan" ],
+			[ "chapotearan" ]
+		],
+		"10" : [
+			[ "chapotease" ],
+			[ "chapoteases" ],
+			[ "chapotease" ],
+			[ "chapoteásemos" ],
+			[ "chapoteaseis", "chapoteasen" ],
+			[ "chapoteasen" ]
+		],
+		"11" : [
+			[ "chapoteare" ],
+			[ "chapoteares" ],
+			[ "chapoteare" ],
+			[ "chapoteáremos" ],
+			[ "chapoteareis", "chapotearen" ],
+			[ "chapotearen" ]
+		],
+		"12" : {
+			"1" : [ "chapotea" ],
+			"2" : [ "chapotee" ],
+			"3" : [ "chapoteemos" ],
+			"4" : [ "chapotead" ],
+			"5" : [ "chapoteen" ]
+		}
+	}
+}

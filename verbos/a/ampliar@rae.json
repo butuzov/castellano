@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ampliar",
+	"word" : "ampliar",
+	"infinitivo" : "ampliar",
+	"participio" : [ "ampliado" ],
+	"gerundio" : [ "ampliando" ],
+	"tenses" : {
+		"3" : [
+			[ "amplío" ],
+			[ "amplías", "ampliás" ],
+			[ "amplía" ],
+			[ "ampliamos" ],
+			[ "ampliáis", "amplían" ],
+			[ "amplían" ]
+		],
+		"4" : [
+			[ "amplié" ],
+			[ "ampliaste" ],
+			[ "amplió" ],
+			[ "ampliamos" ],
+			[ "ampliasteis", "ampliaron" ],
+			[ "ampliaron" ]
+		],
+		"5" : [
+			[ "ampliaba" ],
+			[ "ampliabas" ],
+			[ "ampliaba" ],
+			[ "ampliábamos" ],
+			[ "ampliabais", "ampliaban" ],
+			[ "ampliaban" ]
+		],
+		"6" : [
+			[ "ampliaría" ],
+			[ "ampliarías" ],
+			[ "ampliaría" ],
+			[ "ampliaríamos" ],
+			[ "ampliaríais", "ampliarían" ],
+			[ "ampliarían" ]
+		],
+		"7" : [
+			[ "ampliaré" ],
+			[ "ampliarás" ],
+			[ "ampliará" ],
+			[ "ampliaremos" ],
+			[ "ampliaréis", "ampliarán" ],
+			[ "ampliarán" ]
+		],
+		"8" : [
+			[ "amplíe" ],
+			[ "amplíes" ],
+			[ "amplíe" ],
+			[ "ampliemos" ],
+			[ "ampliéis", "amplíen" ],
+			[ "amplíen" ]
+		],
+		"9" : [
+			[ "ampliara" ],
+			[ "ampliaras" ],
+			[ "ampliara" ],
+			[ "ampliáramos" ],
+			[ "ampliarais", "ampliaran" ],
+			[ "ampliaran" ]
+		],
+		"10" : [
+			[ "ampliase" ],
+			[ "ampliases" ],
+			[ "ampliase" ],
+			[ "ampliásemos" ],
+			[ "ampliaseis", "ampliasen" ],
+			[ "ampliasen" ]
+		],
+		"11" : [
+			[ "ampliare" ],
+			[ "ampliares" ],
+			[ "ampliare" ],
+			[ "ampliáremos" ],
+			[ "ampliareis", "ampliaren" ],
+			[ "ampliaren" ]
+		],
+		"12" : {
+			"1" : [ "amplía" ],
+			"2" : [ "amplíe" ],
+			"3" : [ "ampliemos" ],
+			"4" : [ "ampliad" ],
+			"5" : [ "amplíen" ]
+		}
+	}
+}

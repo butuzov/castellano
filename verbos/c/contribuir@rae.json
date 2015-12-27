@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contribuir",
+	"word" : "contribuir",
+	"infinitivo" : "contribuir",
+	"participio" : [ "contribuido" ],
+	"gerundio" : [ "contribuyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "contribuyo" ],
+			[ "contribuyes", "contribuís" ],
+			[ "contribuye" ],
+			[ "contribuimos" ],
+			[ "contribuís", "contribuyen" ],
+			[ "contribuyen" ]
+		],
+		"4" : [
+			[ "contribuí" ],
+			[ "contribuiste" ],
+			[ "contribuyó" ],
+			[ "contribuimos" ],
+			[ "contribuisteis", "contribuyeron" ],
+			[ "contribuyeron" ]
+		],
+		"5" : [
+			[ "contribuía" ],
+			[ "contribuías" ],
+			[ "contribuía" ],
+			[ "contribuíamos" ],
+			[ "contribuíais", "contribuían" ],
+			[ "contribuían" ]
+		],
+		"6" : [
+			[ "contribuiría" ],
+			[ "contribuirías" ],
+			[ "contribuiría" ],
+			[ "contribuiríamos" ],
+			[ "contribuiríais", "contribuirían" ],
+			[ "contribuirían" ]
+		],
+		"7" : [
+			[ "contribuiré" ],
+			[ "contribuirás" ],
+			[ "contribuirá" ],
+			[ "contribuiremos" ],
+			[ "contribuiréis", "contribuirán" ],
+			[ "contribuirán" ]
+		],
+		"8" : [
+			[ "contribuya" ],
+			[ "contribuyas" ],
+			[ "contribuya" ],
+			[ "contribuyamos" ],
+			[ "contribuyáis", "contribuyan" ],
+			[ "contribuyan" ]
+		],
+		"9" : [
+			[ "contribuyera" ],
+			[ "contribuyeras" ],
+			[ "contribuyera" ],
+			[ "contribuyéramos" ],
+			[ "contribuyerais", "contribuyeran" ],
+			[ "contribuyeran" ]
+		],
+		"10" : [
+			[ "contribuyese" ],
+			[ "contribuyeses" ],
+			[ "contribuyese" ],
+			[ "contribuyésemos" ],
+			[ "contribuyeseis", "contribuyesen" ],
+			[ "contribuyesen" ]
+		],
+		"11" : [
+			[ "contribuyere" ],
+			[ "contribuyeres" ],
+			[ "contribuyere" ],
+			[ "contribuyéremos" ],
+			[ "contribuyereis", "contribuyeren" ],
+			[ "contribuyeren" ]
+		],
+		"12" : {
+			"1" : [ "contribuye" ],
+			"2" : [ "contribuya" ],
+			"3" : [ "contribuyamos" ],
+			"4" : [ "contribuid" ],
+			"5" : [ "contribuyan" ]
+		}
+	}
+}

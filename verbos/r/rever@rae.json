@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rever",
+	"word" : "rever",
+	"infinitivo" : "rever",
+	"participio" : [ "revisto" ],
+	"gerundio" : [ "reviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reveo" ],
+			[ "revés" ],
+			[ "revé" ],
+			[ "revemos" ],
+			[ "revéis", "revén" ],
+			[ "revén" ]
+		],
+		"4" : [
+			[ "reví" ],
+			[ "reviste" ],
+			[ "revió" ],
+			[ "revimos" ],
+			[ "revisteis", "revieron" ],
+			[ "revieron" ]
+		],
+		"5" : [
+			[ "reveía" ],
+			[ "reveías" ],
+			[ "reveía" ],
+			[ "reveíamos" ],
+			[ "reveíais", "reveían" ],
+			[ "reveían" ]
+		],
+		"6" : [
+			[ "revería" ],
+			[ "reverías" ],
+			[ "revería" ],
+			[ "reveríamos" ],
+			[ "reveríais", "reverían" ],
+			[ "reverían" ]
+		],
+		"7" : [
+			[ "reveré" ],
+			[ "reverás" ],
+			[ "reverá" ],
+			[ "reveremos" ],
+			[ "reveréis", "reverán" ],
+			[ "reverán" ]
+		],
+		"8" : [
+			[ "revea" ],
+			[ "reveas" ],
+			[ "revea" ],
+			[ "reveamos" ],
+			[ "reveáis", "revean" ],
+			[ "revean" ]
+		],
+		"9" : [
+			[ "reviera" ],
+			[ "revieras" ],
+			[ "reviera" ],
+			[ "reviéramos" ],
+			[ "revierais", "revieran" ],
+			[ "revieran" ]
+		],
+		"10" : [
+			[ "reviese" ],
+			[ "revieses" ],
+			[ "reviese" ],
+			[ "reviésemos" ],
+			[ "revieseis", "reviesen" ],
+			[ "reviesen" ]
+		],
+		"11" : [
+			[ "reviere" ],
+			[ "revieres" ],
+			[ "reviere" ],
+			[ "reviéremos" ],
+			[ "reviereis", "revieren" ],
+			[ "revieren" ]
+		],
+		"12" : {
+			"1" : [ "revé" ],
+			"2" : [ "revea" ],
+			"3" : [ "reveamos" ],
+			"4" : [ "reved" ],
+			"5" : [ "revean" ]
+		}
+	}
+}

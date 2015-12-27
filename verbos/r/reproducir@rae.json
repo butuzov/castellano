@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reproducir",
+	"word" : "reproducir",
+	"infinitivo" : "reproducir",
+	"participio" : [ "reproducido" ],
+	"gerundio" : [ "reproduciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reproduzco" ],
+			[ "reproduces", "reproducís" ],
+			[ "reproduce" ],
+			[ "reproducimos" ],
+			[ "reproducís", "reproducen" ],
+			[ "reproducen" ]
+		],
+		"4" : [
+			[ "reproduje" ],
+			[ "reprodujiste" ],
+			[ "reprodujo" ],
+			[ "reprodujimos" ],
+			[ "reprodujisteis", "reprodujeron" ],
+			[ "reprodujeron" ]
+		],
+		"5" : [
+			[ "reproducía" ],
+			[ "reproducías" ],
+			[ "reproducía" ],
+			[ "reproducíamos" ],
+			[ "reproducíais", "reproducían" ],
+			[ "reproducían" ]
+		],
+		"6" : [
+			[ "reproduciría" ],
+			[ "reproducirías" ],
+			[ "reproduciría" ],
+			[ "reproduciríamos" ],
+			[ "reproduciríais", "reproducirían" ],
+			[ "reproducirían" ]
+		],
+		"7" : [
+			[ "reproduciré" ],
+			[ "reproducirás" ],
+			[ "reproducirá" ],
+			[ "reproduciremos" ],
+			[ "reproduciréis", "reproducirán" ],
+			[ "reproducirán" ]
+		],
+		"8" : [
+			[ "reproduzca" ],
+			[ "reproduzcas" ],
+			[ "reproduzca" ],
+			[ "reproduzcamos" ],
+			[ "reproduzcáis", "reproduzcan" ],
+			[ "reproduzcan" ]
+		],
+		"9" : [
+			[ "reprodujera" ],
+			[ "reprodujeras" ],
+			[ "reprodujera" ],
+			[ "reprodujéramos" ],
+			[ "reprodujerais", "reprodujeran" ],
+			[ "reprodujeran" ]
+		],
+		"10" : [
+			[ "reprodujese" ],
+			[ "reprodujeses" ],
+			[ "reprodujese" ],
+			[ "reprodujésemos" ],
+			[ "reprodujeseis", "reprodujesen" ],
+			[ "reprodujesen" ]
+		],
+		"11" : [
+			[ "reprodujere" ],
+			[ "reprodujeres" ],
+			[ "reprodujere" ],
+			[ "reprodujéremos" ],
+			[ "reprodujereis", "reprodujeren" ],
+			[ "reprodujeren" ]
+		],
+		"12" : {
+			"1" : [ "reproduce" ],
+			"2" : [ "reproduzca" ],
+			"3" : [ "reproduzcamos" ],
+			"4" : [ "reproducid" ],
+			"5" : [ "reproduzcan" ]
+		}
+	}
+}

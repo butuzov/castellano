@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cargar",
+	"word" : "cargar",
+	"infinitivo" : "cargar",
+	"participio" : [ "cargado" ],
+	"gerundio" : [ "cargando" ],
+	"tenses" : {
+		"3" : [
+			[ "cargo" ],
+			[ "cargas", "cargás" ],
+			[ "carga" ],
+			[ "cargamos" ],
+			[ "cargáis", "cargan" ],
+			[ "cargan" ]
+		],
+		"4" : [
+			[ "cargué" ],
+			[ "cargaste" ],
+			[ "cargó" ],
+			[ "cargamos" ],
+			[ "cargasteis", "cargaron" ],
+			[ "cargaron" ]
+		],
+		"5" : [
+			[ "cargaba" ],
+			[ "cargabas" ],
+			[ "cargaba" ],
+			[ "cargábamos" ],
+			[ "cargabais", "cargaban" ],
+			[ "cargaban" ]
+		],
+		"6" : [
+			[ "cargaría" ],
+			[ "cargarías" ],
+			[ "cargaría" ],
+			[ "cargaríamos" ],
+			[ "cargaríais", "cargarían" ],
+			[ "cargarían" ]
+		],
+		"7" : [
+			[ "cargaré" ],
+			[ "cargarás" ],
+			[ "cargará" ],
+			[ "cargaremos" ],
+			[ "cargaréis", "cargarán" ],
+			[ "cargarán" ]
+		],
+		"8" : [
+			[ "cargue" ],
+			[ "cargues" ],
+			[ "cargue" ],
+			[ "carguemos" ],
+			[ "carguéis", "carguen" ],
+			[ "carguen" ]
+		],
+		"9" : [
+			[ "cargara" ],
+			[ "cargaras" ],
+			[ "cargara" ],
+			[ "cargáramos" ],
+			[ "cargarais", "cargaran" ],
+			[ "cargaran" ]
+		],
+		"10" : [
+			[ "cargase" ],
+			[ "cargases" ],
+			[ "cargase" ],
+			[ "cargásemos" ],
+			[ "cargaseis", "cargasen" ],
+			[ "cargasen" ]
+		],
+		"11" : [
+			[ "cargare" ],
+			[ "cargares" ],
+			[ "cargare" ],
+			[ "cargáremos" ],
+			[ "cargareis", "cargaren" ],
+			[ "cargaren" ]
+		],
+		"12" : {
+			"1" : [ "carga" ],
+			"2" : [ "cargue" ],
+			"3" : [ "carguemos" ],
+			"4" : [ "cargad" ],
+			"5" : [ "carguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hidratar",
+	"word" : "hidratar",
+	"infinitivo" : "hidratar",
+	"participio" : [ "hidratado" ],
+	"gerundio" : [ "hidratando" ],
+	"tenses" : {
+		"3" : [
+			[ "hidrato" ],
+			[ "hidratas", "hidratás" ],
+			[ "hidrata" ],
+			[ "hidratamos" ],
+			[ "hidratáis", "hidratan" ],
+			[ "hidratan" ]
+		],
+		"4" : [
+			[ "hidraté" ],
+			[ "hidrataste" ],
+			[ "hidrató" ],
+			[ "hidratamos" ],
+			[ "hidratasteis", "hidrataron" ],
+			[ "hidrataron" ]
+		],
+		"5" : [
+			[ "hidrataba" ],
+			[ "hidratabas" ],
+			[ "hidrataba" ],
+			[ "hidratábamos" ],
+			[ "hidratabais", "hidrataban" ],
+			[ "hidrataban" ]
+		],
+		"6" : [
+			[ "hidrataría" ],
+			[ "hidratarías" ],
+			[ "hidrataría" ],
+			[ "hidrataríamos" ],
+			[ "hidrataríais", "hidratarían" ],
+			[ "hidratarían" ]
+		],
+		"7" : [
+			[ "hidrataré" ],
+			[ "hidratarás" ],
+			[ "hidratará" ],
+			[ "hidrataremos" ],
+			[ "hidrataréis", "hidratarán" ],
+			[ "hidratarán" ]
+		],
+		"8" : [
+			[ "hidrate" ],
+			[ "hidrates" ],
+			[ "hidrate" ],
+			[ "hidratemos" ],
+			[ "hidratéis", "hidraten" ],
+			[ "hidraten" ]
+		],
+		"9" : [
+			[ "hidratara" ],
+			[ "hidrataras" ],
+			[ "hidratara" ],
+			[ "hidratáramos" ],
+			[ "hidratarais", "hidrataran" ],
+			[ "hidrataran" ]
+		],
+		"10" : [
+			[ "hidratase" ],
+			[ "hidratases" ],
+			[ "hidratase" ],
+			[ "hidratásemos" ],
+			[ "hidrataseis", "hidratasen" ],
+			[ "hidratasen" ]
+		],
+		"11" : [
+			[ "hidratare" ],
+			[ "hidratares" ],
+			[ "hidratare" ],
+			[ "hidratáremos" ],
+			[ "hidratareis", "hidrataren" ],
+			[ "hidrataren" ]
+		],
+		"12" : {
+			"1" : [ "hidrata" ],
+			"2" : [ "hidrate" ],
+			"3" : [ "hidratemos" ],
+			"4" : [ "hidratad" ],
+			"5" : [ "hidraten" ]
+		}
+	}
+}

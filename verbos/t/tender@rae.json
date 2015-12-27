@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tender",
+	"word" : "tender",
+	"infinitivo" : "tender",
+	"participio" : [ "tendido" ],
+	"gerundio" : [ "tendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "tiendo" ],
+			[ "tiendes", "tendés" ],
+			[ "tiende" ],
+			[ "tendemos" ],
+			[ "tendéis", "tienden" ],
+			[ "tienden" ]
+		],
+		"4" : [
+			[ "tendí" ],
+			[ "tendiste" ],
+			[ "tendió" ],
+			[ "tendimos" ],
+			[ "tendisteis", "tendieron" ],
+			[ "tendieron" ]
+		],
+		"5" : [
+			[ "tendía" ],
+			[ "tendías" ],
+			[ "tendía" ],
+			[ "tendíamos" ],
+			[ "tendíais", "tendían" ],
+			[ "tendían" ]
+		],
+		"6" : [
+			[ "tendería" ],
+			[ "tenderías" ],
+			[ "tendería" ],
+			[ "tenderíamos" ],
+			[ "tenderíais", "tenderían" ],
+			[ "tenderían" ]
+		],
+		"7" : [
+			[ "tenderé" ],
+			[ "tenderás" ],
+			[ "tenderá" ],
+			[ "tenderemos" ],
+			[ "tenderéis", "tenderán" ],
+			[ "tenderán" ]
+		],
+		"8" : [
+			[ "tienda" ],
+			[ "tiendas" ],
+			[ "tienda" ],
+			[ "tendamos" ],
+			[ "tendáis", "tiendan" ],
+			[ "tiendan" ]
+		],
+		"9" : [
+			[ "tendiera" ],
+			[ "tendieras" ],
+			[ "tendiera" ],
+			[ "tendiéramos" ],
+			[ "tendierais", "tendieran" ],
+			[ "tendieran" ]
+		],
+		"10" : [
+			[ "tendiese" ],
+			[ "tendieses" ],
+			[ "tendiese" ],
+			[ "tendiésemos" ],
+			[ "tendieseis", "tendiesen" ],
+			[ "tendiesen" ]
+		],
+		"11" : [
+			[ "tendiere" ],
+			[ "tendieres" ],
+			[ "tendiere" ],
+			[ "tendiéremos" ],
+			[ "tendiereis", "tendieren" ],
+			[ "tendieren" ]
+		],
+		"12" : {
+			"1" : [ "tiende" ],
+			"2" : [ "tienda" ],
+			"3" : [ "tendamos" ],
+			"4" : [ "tended" ],
+			"5" : [ "tiendan" ]
+		}
+	}
+}

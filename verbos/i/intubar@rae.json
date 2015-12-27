@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=intubar",
+	"word" : "intubar",
+	"infinitivo" : "intubar",
+	"participio" : [ "intubado" ],
+	"gerundio" : [ "intubando" ],
+	"tenses" : {
+		"3" : [
+			[ "intubo" ],
+			[ "intubas", "intubás" ],
+			[ "intuba" ],
+			[ "intubamos" ],
+			[ "intubáis", "intuban" ],
+			[ "intuban" ]
+		],
+		"4" : [
+			[ "intubé" ],
+			[ "intubaste" ],
+			[ "intubó" ],
+			[ "intubamos" ],
+			[ "intubasteis", "intubaron" ],
+			[ "intubaron" ]
+		],
+		"5" : [
+			[ "intubaba" ],
+			[ "intubabas" ],
+			[ "intubaba" ],
+			[ "intubábamos" ],
+			[ "intubabais", "intubaban" ],
+			[ "intubaban" ]
+		],
+		"6" : [
+			[ "intubaría" ],
+			[ "intubarías" ],
+			[ "intubaría" ],
+			[ "intubaríamos" ],
+			[ "intubaríais", "intubarían" ],
+			[ "intubarían" ]
+		],
+		"7" : [
+			[ "intubaré" ],
+			[ "intubarás" ],
+			[ "intubará" ],
+			[ "intubaremos" ],
+			[ "intubaréis", "intubarán" ],
+			[ "intubarán" ]
+		],
+		"8" : [
+			[ "intube" ],
+			[ "intubes" ],
+			[ "intube" ],
+			[ "intubemos" ],
+			[ "intubéis", "intuben" ],
+			[ "intuben" ]
+		],
+		"9" : [
+			[ "intubara" ],
+			[ "intubaras" ],
+			[ "intubara" ],
+			[ "intubáramos" ],
+			[ "intubarais", "intubaran" ],
+			[ "intubaran" ]
+		],
+		"10" : [
+			[ "intubase" ],
+			[ "intubases" ],
+			[ "intubase" ],
+			[ "intubásemos" ],
+			[ "intubaseis", "intubasen" ],
+			[ "intubasen" ]
+		],
+		"11" : [
+			[ "intubare" ],
+			[ "intubares" ],
+			[ "intubare" ],
+			[ "intubáremos" ],
+			[ "intubareis", "intubaren" ],
+			[ "intubaren" ]
+		],
+		"12" : {
+			"1" : [ "intuba" ],
+			"2" : [ "intube" ],
+			"3" : [ "intubemos" ],
+			"4" : [ "intubad" ],
+			"5" : [ "intuben" ]
+		}
+	}
+}

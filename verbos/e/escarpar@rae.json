@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escarpar",
+	"word" : "escarpar",
+	"infinitivo" : "escarpar",
+	"participio" : [ "escarpado" ],
+	"gerundio" : [ "escarpando" ],
+	"tenses" : {
+		"3" : [
+			[ "escarpo" ],
+			[ "escarpas", "escarpás" ],
+			[ "escarpa" ],
+			[ "escarpamos" ],
+			[ "escarpáis", "escarpan" ],
+			[ "escarpan" ]
+		],
+		"4" : [
+			[ "escarpé" ],
+			[ "escarpaste" ],
+			[ "escarpó" ],
+			[ "escarpamos" ],
+			[ "escarpasteis", "escarparon" ],
+			[ "escarparon" ]
+		],
+		"5" : [
+			[ "escarpaba" ],
+			[ "escarpabas" ],
+			[ "escarpaba" ],
+			[ "escarpábamos" ],
+			[ "escarpabais", "escarpaban" ],
+			[ "escarpaban" ]
+		],
+		"6" : [
+			[ "escarparía" ],
+			[ "escarparías" ],
+			[ "escarparía" ],
+			[ "escarparíamos" ],
+			[ "escarparíais", "escarparían" ],
+			[ "escarparían" ]
+		],
+		"7" : [
+			[ "escarparé" ],
+			[ "escarparás" ],
+			[ "escarpará" ],
+			[ "escarparemos" ],
+			[ "escarparéis", "escarparán" ],
+			[ "escarparán" ]
+		],
+		"8" : [
+			[ "escarpe" ],
+			[ "escarpes" ],
+			[ "escarpe" ],
+			[ "escarpemos" ],
+			[ "escarpéis", "escarpen" ],
+			[ "escarpen" ]
+		],
+		"9" : [
+			[ "escarpara" ],
+			[ "escarparas" ],
+			[ "escarpara" ],
+			[ "escarpáramos" ],
+			[ "escarparais", "escarparan" ],
+			[ "escarparan" ]
+		],
+		"10" : [
+			[ "escarpase" ],
+			[ "escarpases" ],
+			[ "escarpase" ],
+			[ "escarpásemos" ],
+			[ "escarpaseis", "escarpasen" ],
+			[ "escarpasen" ]
+		],
+		"11" : [
+			[ "escarpare" ],
+			[ "escarpares" ],
+			[ "escarpare" ],
+			[ "escarpáremos" ],
+			[ "escarpareis", "escarparen" ],
+			[ "escarparen" ]
+		],
+		"12" : {
+			"1" : [ "escarpa" ],
+			"2" : [ "escarpe" ],
+			"3" : [ "escarpemos" ],
+			"4" : [ "escarpad" ],
+			"5" : [ "escarpen" ]
+		}
+	}
+}

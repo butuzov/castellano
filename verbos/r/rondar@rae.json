@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rondar",
+	"word" : "rondar",
+	"infinitivo" : "rondar",
+	"participio" : [ "rondado" ],
+	"gerundio" : [ "rondando" ],
+	"tenses" : {
+		"3" : [
+			[ "rondo" ],
+			[ "rondas", "rondás" ],
+			[ "ronda" ],
+			[ "rondamos" ],
+			[ "rondáis", "rondan" ],
+			[ "rondan" ]
+		],
+		"4" : [
+			[ "rondé" ],
+			[ "rondaste" ],
+			[ "rondó" ],
+			[ "rondamos" ],
+			[ "rondasteis", "rondaron" ],
+			[ "rondaron" ]
+		],
+		"5" : [
+			[ "rondaba" ],
+			[ "rondabas" ],
+			[ "rondaba" ],
+			[ "rondábamos" ],
+			[ "rondabais", "rondaban" ],
+			[ "rondaban" ]
+		],
+		"6" : [
+			[ "rondaría" ],
+			[ "rondarías" ],
+			[ "rondaría" ],
+			[ "rondaríamos" ],
+			[ "rondaríais", "rondarían" ],
+			[ "rondarían" ]
+		],
+		"7" : [
+			[ "rondaré" ],
+			[ "rondarás" ],
+			[ "rondará" ],
+			[ "rondaremos" ],
+			[ "rondaréis", "rondarán" ],
+			[ "rondarán" ]
+		],
+		"8" : [
+			[ "ronde" ],
+			[ "rondes" ],
+			[ "ronde" ],
+			[ "rondemos" ],
+			[ "rondéis", "ronden" ],
+			[ "ronden" ]
+		],
+		"9" : [
+			[ "rondara" ],
+			[ "rondaras" ],
+			[ "rondara" ],
+			[ "rondáramos" ],
+			[ "rondarais", "rondaran" ],
+			[ "rondaran" ]
+		],
+		"10" : [
+			[ "rondase" ],
+			[ "rondases" ],
+			[ "rondase" ],
+			[ "rondásemos" ],
+			[ "rondaseis", "rondasen" ],
+			[ "rondasen" ]
+		],
+		"11" : [
+			[ "rondare" ],
+			[ "rondares" ],
+			[ "rondare" ],
+			[ "rondáremos" ],
+			[ "rondareis", "rondaren" ],
+			[ "rondaren" ]
+		],
+		"12" : {
+			"1" : [ "ronda" ],
+			"2" : [ "ronde" ],
+			"3" : [ "rondemos" ],
+			"4" : [ "rondad" ],
+			"5" : [ "ronden" ]
+		}
+	}
+}

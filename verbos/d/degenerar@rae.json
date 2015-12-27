@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=degenerar",
+	"word" : "degenerar",
+	"infinitivo" : "degenerar",
+	"participio" : [ "degenerado" ],
+	"gerundio" : [ "degenerando" ],
+	"tenses" : {
+		"3" : [
+			[ "degenero" ],
+			[ "degeneras", "degenerás" ],
+			[ "degenera" ],
+			[ "degeneramos" ],
+			[ "degeneráis", "degeneran" ],
+			[ "degeneran" ]
+		],
+		"4" : [
+			[ "degeneré" ],
+			[ "degeneraste" ],
+			[ "degeneró" ],
+			[ "degeneramos" ],
+			[ "degenerasteis", "degeneraron" ],
+			[ "degeneraron" ]
+		],
+		"5" : [
+			[ "degeneraba" ],
+			[ "degenerabas" ],
+			[ "degeneraba" ],
+			[ "degenerábamos" ],
+			[ "degenerabais", "degeneraban" ],
+			[ "degeneraban" ]
+		],
+		"6" : [
+			[ "degeneraría" ],
+			[ "degenerarías" ],
+			[ "degeneraría" ],
+			[ "degeneraríamos" ],
+			[ "degeneraríais", "degenerarían" ],
+			[ "degenerarían" ]
+		],
+		"7" : [
+			[ "degeneraré" ],
+			[ "degenerarás" ],
+			[ "degenerará" ],
+			[ "degeneraremos" ],
+			[ "degeneraréis", "degenerarán" ],
+			[ "degenerarán" ]
+		],
+		"8" : [
+			[ "degenere" ],
+			[ "degeneres" ],
+			[ "degenere" ],
+			[ "degeneremos" ],
+			[ "degeneréis", "degeneren" ],
+			[ "degeneren" ]
+		],
+		"9" : [
+			[ "degenerara" ],
+			[ "degeneraras" ],
+			[ "degenerara" ],
+			[ "degeneráramos" ],
+			[ "degenerarais", "degeneraran" ],
+			[ "degeneraran" ]
+		],
+		"10" : [
+			[ "degenerase" ],
+			[ "degenerases" ],
+			[ "degenerase" ],
+			[ "degenerásemos" ],
+			[ "degeneraseis", "degenerasen" ],
+			[ "degenerasen" ]
+		],
+		"11" : [
+			[ "degenerare" ],
+			[ "degenerares" ],
+			[ "degenerare" ],
+			[ "degeneráremos" ],
+			[ "degenerareis", "degeneraren" ],
+			[ "degeneraren" ]
+		],
+		"12" : {
+			"1" : [ "degenera" ],
+			"2" : [ "degenere" ],
+			"3" : [ "degeneremos" ],
+			"4" : [ "degenerad" ],
+			"5" : [ "degeneren" ]
+		}
+	}
+}

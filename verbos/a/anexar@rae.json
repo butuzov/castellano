@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anexar",
+	"word" : "anexar",
+	"infinitivo" : "anexar",
+	"participio" : [ "anexado" ],
+	"gerundio" : [ "anexando" ],
+	"tenses" : {
+		"3" : [
+			[ "anexo" ],
+			[ "anexas", "anexás" ],
+			[ "anexa" ],
+			[ "anexamos" ],
+			[ "anexáis", "anexan" ],
+			[ "anexan" ]
+		],
+		"4" : [
+			[ "anexé" ],
+			[ "anexaste" ],
+			[ "anexó" ],
+			[ "anexamos" ],
+			[ "anexasteis", "anexaron" ],
+			[ "anexaron" ]
+		],
+		"5" : [
+			[ "anexaba" ],
+			[ "anexabas" ],
+			[ "anexaba" ],
+			[ "anexábamos" ],
+			[ "anexabais", "anexaban" ],
+			[ "anexaban" ]
+		],
+		"6" : [
+			[ "anexaría" ],
+			[ "anexarías" ],
+			[ "anexaría" ],
+			[ "anexaríamos" ],
+			[ "anexaríais", "anexarían" ],
+			[ "anexarían" ]
+		],
+		"7" : [
+			[ "anexaré" ],
+			[ "anexarás" ],
+			[ "anexará" ],
+			[ "anexaremos" ],
+			[ "anexaréis", "anexarán" ],
+			[ "anexarán" ]
+		],
+		"8" : [
+			[ "anexe" ],
+			[ "anexes" ],
+			[ "anexe" ],
+			[ "anexemos" ],
+			[ "anexéis", "anexen" ],
+			[ "anexen" ]
+		],
+		"9" : [
+			[ "anexara" ],
+			[ "anexaras" ],
+			[ "anexara" ],
+			[ "anexáramos" ],
+			[ "anexarais", "anexaran" ],
+			[ "anexaran" ]
+		],
+		"10" : [
+			[ "anexase" ],
+			[ "anexases" ],
+			[ "anexase" ],
+			[ "anexásemos" ],
+			[ "anexaseis", "anexasen" ],
+			[ "anexasen" ]
+		],
+		"11" : [
+			[ "anexare" ],
+			[ "anexares" ],
+			[ "anexare" ],
+			[ "anexáremos" ],
+			[ "anexareis", "anexaren" ],
+			[ "anexaren" ]
+		],
+		"12" : {
+			"1" : [ "anexa" ],
+			"2" : [ "anexe" ],
+			"3" : [ "anexemos" ],
+			"4" : [ "anexad" ],
+			"5" : [ "anexen" ]
+		}
+	}
+}

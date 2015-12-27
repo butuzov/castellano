@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=detraer",
+	"word" : "detraer",
+	"infinitivo" : "detraer",
+	"participio" : [ "detraído" ],
+	"gerundio" : [ "detrayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "detraigo" ],
+			[ "detraes", "detraés" ],
+			[ "detrae" ],
+			[ "detraemos" ],
+			[ "detraéis", "detraen" ],
+			[ "detraen" ]
+		],
+		"4" : [
+			[ "detraje" ],
+			[ "detrajiste" ],
+			[ "detrajo" ],
+			[ "detrajimos" ],
+			[ "detrajisteis", "detrajeron" ],
+			[ "detrajeron" ]
+		],
+		"5" : [
+			[ "detraía" ],
+			[ "detraías" ],
+			[ "detraía" ],
+			[ "detraíamos" ],
+			[ "detraíais", "detraían" ],
+			[ "detraían" ]
+		],
+		"6" : [
+			[ "detraería" ],
+			[ "detraerías" ],
+			[ "detraería" ],
+			[ "detraeríamos" ],
+			[ "detraeríais", "detraerían" ],
+			[ "detraerían" ]
+		],
+		"7" : [
+			[ "detraeré" ],
+			[ "detraerás" ],
+			[ "detraerá" ],
+			[ "detraeremos" ],
+			[ "detraeréis", "detraerán" ],
+			[ "detraerán" ]
+		],
+		"8" : [
+			[ "detraiga" ],
+			[ "detraigas" ],
+			[ "detraiga" ],
+			[ "detraigamos" ],
+			[ "detraigáis", "detraigan" ],
+			[ "detraigan" ]
+		],
+		"9" : [
+			[ "detrajera" ],
+			[ "detrajeras" ],
+			[ "detrajera" ],
+			[ "detrajéramos" ],
+			[ "detrajerais", "detrajeran" ],
+			[ "detrajeran" ]
+		],
+		"10" : [
+			[ "detrajese" ],
+			[ "detrajeses" ],
+			[ "detrajese" ],
+			[ "detrajésemos" ],
+			[ "detrajeseis", "detrajesen" ],
+			[ "detrajesen" ]
+		],
+		"11" : [
+			[ "detrajere" ],
+			[ "detrajeres" ],
+			[ "detrajere" ],
+			[ "detrajéremos" ],
+			[ "detrajereis", "detrajeren" ],
+			[ "detrajeren" ]
+		],
+		"12" : {
+			"1" : [ "detrae" ],
+			"2" : [ "detraiga" ],
+			"3" : [ "detraigamos" ],
+			"4" : [ "detraed" ],
+			"5" : [ "detraigan" ]
+		}
+	}
+}

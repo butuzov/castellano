@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abusar",
+	"word" : "abusar",
+	"infinitivo" : "abusar",
+	"participio" : [ "abusado" ],
+	"gerundio" : [ "abusando" ],
+	"tenses" : {
+		"3" : [
+			[ "abuso" ],
+			[ "abusas", "abusás" ],
+			[ "abusa" ],
+			[ "abusamos" ],
+			[ "abusáis", "abusan" ],
+			[ "abusan" ]
+		],
+		"4" : [
+			[ "abusé" ],
+			[ "abusaste" ],
+			[ "abusó" ],
+			[ "abusamos" ],
+			[ "abusasteis", "abusaron" ],
+			[ "abusaron" ]
+		],
+		"5" : [
+			[ "abusaba" ],
+			[ "abusabas" ],
+			[ "abusaba" ],
+			[ "abusábamos" ],
+			[ "abusabais", "abusaban" ],
+			[ "abusaban" ]
+		],
+		"6" : [
+			[ "abusaría" ],
+			[ "abusarías" ],
+			[ "abusaría" ],
+			[ "abusaríamos" ],
+			[ "abusaríais", "abusarían" ],
+			[ "abusarían" ]
+		],
+		"7" : [
+			[ "abusaré" ],
+			[ "abusarás" ],
+			[ "abusará" ],
+			[ "abusaremos" ],
+			[ "abusaréis", "abusarán" ],
+			[ "abusarán" ]
+		],
+		"8" : [
+			[ "abuse" ],
+			[ "abuses" ],
+			[ "abuse" ],
+			[ "abusemos" ],
+			[ "abuséis", "abusen" ],
+			[ "abusen" ]
+		],
+		"9" : [
+			[ "abusara" ],
+			[ "abusaras" ],
+			[ "abusara" ],
+			[ "abusáramos" ],
+			[ "abusarais", "abusaran" ],
+			[ "abusaran" ]
+		],
+		"10" : [
+			[ "abusase" ],
+			[ "abusases" ],
+			[ "abusase" ],
+			[ "abusásemos" ],
+			[ "abusaseis", "abusasen" ],
+			[ "abusasen" ]
+		],
+		"11" : [
+			[ "abusare" ],
+			[ "abusares" ],
+			[ "abusare" ],
+			[ "abusáremos" ],
+			[ "abusareis", "abusaren" ],
+			[ "abusaren" ]
+		],
+		"12" : {
+			"1" : [ "abusa" ],
+			"2" : [ "abuse" ],
+			"3" : [ "abusemos" ],
+			"4" : [ "abusad" ],
+			"5" : [ "abusen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=perecer",
+	"word" : "perecer",
+	"infinitivo" : "perecer",
+	"participio" : [ "perecido" ],
+	"gerundio" : [ "pereciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "perezco" ],
+			[ "pereces", "perecés" ],
+			[ "perece" ],
+			[ "perecemos" ],
+			[ "perecéis", "perecen" ],
+			[ "perecen" ]
+		],
+		"4" : [
+			[ "perecí" ],
+			[ "pereciste" ],
+			[ "pereció" ],
+			[ "perecimos" ],
+			[ "perecisteis", "perecieron" ],
+			[ "perecieron" ]
+		],
+		"5" : [
+			[ "perecía" ],
+			[ "perecías" ],
+			[ "perecía" ],
+			[ "perecíamos" ],
+			[ "perecíais", "perecían" ],
+			[ "perecían" ]
+		],
+		"6" : [
+			[ "perecería" ],
+			[ "perecerías" ],
+			[ "perecería" ],
+			[ "pereceríamos" ],
+			[ "pereceríais", "perecerían" ],
+			[ "perecerían" ]
+		],
+		"7" : [
+			[ "pereceré" ],
+			[ "perecerás" ],
+			[ "perecerá" ],
+			[ "pereceremos" ],
+			[ "pereceréis", "perecerán" ],
+			[ "perecerán" ]
+		],
+		"8" : [
+			[ "perezca" ],
+			[ "perezcas" ],
+			[ "perezca" ],
+			[ "perezcamos" ],
+			[ "perezcáis", "perezcan" ],
+			[ "perezcan" ]
+		],
+		"9" : [
+			[ "pereciera" ],
+			[ "perecieras" ],
+			[ "pereciera" ],
+			[ "pereciéramos" ],
+			[ "perecierais", "perecieran" ],
+			[ "perecieran" ]
+		],
+		"10" : [
+			[ "pereciese" ],
+			[ "perecieses" ],
+			[ "pereciese" ],
+			[ "pereciésemos" ],
+			[ "perecieseis", "pereciesen" ],
+			[ "pereciesen" ]
+		],
+		"11" : [
+			[ "pereciere" ],
+			[ "perecieres" ],
+			[ "pereciere" ],
+			[ "pereciéremos" ],
+			[ "pereciereis", "perecieren" ],
+			[ "perecieren" ]
+		],
+		"12" : {
+			"1" : [ "perece" ],
+			"2" : [ "perezca" ],
+			"3" : [ "perezcamos" ],
+			"4" : [ "pereced" ],
+			"5" : [ "perezcan" ]
+		}
+	}
+}

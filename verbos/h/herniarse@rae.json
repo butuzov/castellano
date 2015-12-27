@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=herniarse",
+	"word" : "herniarse",
+	"infinitivo" : "herniarse",
+	"participio" : [ "herniado" ],
+	"gerundio" : [ "herniándome", "herniándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me hernio" ],
+			[ "te hernias", "te herniás" ],
+			[ "se hernia" ],
+			[ "nos herniamos" ],
+			[ "os herniáis", "se hernian" ],
+			[ "se hernian" ]
+		],
+		"4" : [
+			[ "me hernié" ],
+			[ "te herniaste" ],
+			[ "se hernió" ],
+			[ "nos herniamos" ],
+			[ "os herniasteis", "se herniaron" ],
+			[ "se herniaron" ]
+		],
+		"5" : [
+			[ "me herniaba" ],
+			[ "te herniabas" ],
+			[ "se herniaba" ],
+			[ "nos herniábamos" ],
+			[ "os herniabais", "se herniaban" ],
+			[ "se herniaban" ]
+		],
+		"6" : [
+			[ "me herniaría" ],
+			[ "te herniarías" ],
+			[ "se herniaría" ],
+			[ "nos herniaríamos" ],
+			[ "os herniaríais", "se herniarían" ],
+			[ "se herniarían" ]
+		],
+		"7" : [
+			[ "me herniaré" ],
+			[ "te herniarás" ],
+			[ "se herniará" ],
+			[ "nos herniaremos" ],
+			[ "os herniaréis", "se herniarán" ],
+			[ "se herniarán" ]
+		],
+		"8" : [
+			[ "me hernie" ],
+			[ "te hernies" ],
+			[ "se hernie" ],
+			[ "nos herniemos" ],
+			[ "os herniéis", "se hernien" ],
+			[ "se hernien" ]
+		],
+		"9" : [
+			[ "me herniara" ],
+			[ "te herniaras" ],
+			[ "se herniara" ],
+			[ "nos herniáramos" ],
+			[ "os herniarais", "se herniaran" ],
+			[ "se herniaran" ]
+		],
+		"10" : [
+			[ "me herniase" ],
+			[ "te herniases" ],
+			[ "se herniase" ],
+			[ "nos herniásemos" ],
+			[ "os herniaseis", "se herniasen" ],
+			[ "se herniasen" ]
+		],
+		"11" : [
+			[ "me herniare" ],
+			[ "te herniares" ],
+			[ "se herniare" ],
+			[ "nos herniáremos" ],
+			[ "os herniareis", "se herniaren" ],
+			[ "se herniaren" ]
+		],
+		"12" : {
+			"1" : [ "hérniate" ],
+			"2" : [ "hernie" ],
+			"3" : [ "herniemos" ],
+			"4" : [ "herniaos" ],
+			"5" : [ "hérniense" ]
+		}
+	}
+}

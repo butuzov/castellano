@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=brotar",
+	"word" : "brotar",
+	"infinitivo" : "brotar",
+	"participio" : [ "brotado" ],
+	"gerundio" : [ "brotando" ],
+	"tenses" : {
+		"3" : [
+			[ "broto" ],
+			[ "brotas", "brotás" ],
+			[ "brota" ],
+			[ "brotamos" ],
+			[ "brotáis", "brotan" ],
+			[ "brotan" ]
+		],
+		"4" : [
+			[ "broté" ],
+			[ "brotaste" ],
+			[ "brotó" ],
+			[ "brotamos" ],
+			[ "brotasteis", "brotaron" ],
+			[ "brotaron" ]
+		],
+		"5" : [
+			[ "brotaba" ],
+			[ "brotabas" ],
+			[ "brotaba" ],
+			[ "brotábamos" ],
+			[ "brotabais", "brotaban" ],
+			[ "brotaban" ]
+		],
+		"6" : [
+			[ "brotaría" ],
+			[ "brotarías" ],
+			[ "brotaría" ],
+			[ "brotaríamos" ],
+			[ "brotaríais", "brotarían" ],
+			[ "brotarían" ]
+		],
+		"7" : [
+			[ "brotaré" ],
+			[ "brotarás" ],
+			[ "brotará" ],
+			[ "brotaremos" ],
+			[ "brotaréis", "brotarán" ],
+			[ "brotarán" ]
+		],
+		"8" : [
+			[ "brote" ],
+			[ "brotes" ],
+			[ "brote" ],
+			[ "brotemos" ],
+			[ "brotéis", "broten" ],
+			[ "broten" ]
+		],
+		"9" : [
+			[ "brotara" ],
+			[ "brotaras" ],
+			[ "brotara" ],
+			[ "brotáramos" ],
+			[ "brotarais", "brotaran" ],
+			[ "brotaran" ]
+		],
+		"10" : [
+			[ "brotase" ],
+			[ "brotases" ],
+			[ "brotase" ],
+			[ "brotásemos" ],
+			[ "brotaseis", "brotasen" ],
+			[ "brotasen" ]
+		],
+		"11" : [
+			[ "brotare" ],
+			[ "brotares" ],
+			[ "brotare" ],
+			[ "brotáremos" ],
+			[ "brotareis", "brotaren" ],
+			[ "brotaren" ]
+		],
+		"12" : {
+			"1" : [ "brota" ],
+			"2" : [ "brote" ],
+			"3" : [ "brotemos" ],
+			"4" : [ "brotad" ],
+			"5" : [ "broten" ]
+		}
+	}
+}

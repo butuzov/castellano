@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deshacer",
+	"word" : "deshacer",
+	"infinitivo" : "deshacer",
+	"participio" : [ "deshecho" ],
+	"gerundio" : [ "deshaciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "deshago" ],
+			[ "deshaces", "deshacés" ],
+			[ "deshace" ],
+			[ "deshacemos" ],
+			[ "deshacéis", "deshacen" ],
+			[ "deshacen" ]
+		],
+		"4" : [
+			[ "deshice" ],
+			[ "deshiciste" ],
+			[ "deshizo" ],
+			[ "deshicimos" ],
+			[ "deshicisteis", "deshicieron" ],
+			[ "deshicieron" ]
+		],
+		"5" : [
+			[ "deshacía" ],
+			[ "deshacías" ],
+			[ "deshacía" ],
+			[ "deshacíamos" ],
+			[ "deshacíais", "deshacían" ],
+			[ "deshacían" ]
+		],
+		"6" : [
+			[ "desharía" ],
+			[ "desharías" ],
+			[ "desharía" ],
+			[ "desharíamos" ],
+			[ "desharíais", "desharían" ],
+			[ "desharían" ]
+		],
+		"7" : [
+			[ "desharé" ],
+			[ "desharás" ],
+			[ "deshará" ],
+			[ "desharemos" ],
+			[ "desharéis", "desharán" ],
+			[ "desharán" ]
+		],
+		"8" : [
+			[ "deshaga" ],
+			[ "deshagas" ],
+			[ "deshaga" ],
+			[ "deshagamos" ],
+			[ "deshagáis", "deshagan" ],
+			[ "deshagan" ]
+		],
+		"9" : [
+			[ "deshiciera" ],
+			[ "deshicieras" ],
+			[ "deshiciera" ],
+			[ "deshiciéramos" ],
+			[ "deshicierais", "deshicieran" ],
+			[ "deshicieran" ]
+		],
+		"10" : [
+			[ "deshiciese" ],
+			[ "deshicieses" ],
+			[ "deshiciese" ],
+			[ "deshiciésemos" ],
+			[ "deshicieseis", "deshiciesen" ],
+			[ "deshiciesen" ]
+		],
+		"11" : [
+			[ "deshiciere" ],
+			[ "deshicieres" ],
+			[ "deshiciere" ],
+			[ "deshiciéremos" ],
+			[ "deshiciereis", "deshicieren" ],
+			[ "deshicieren" ]
+		],
+		"12" : {
+			"1" : [ "deshaz" ],
+			"2" : [ "deshaga" ],
+			"3" : [ "deshagamos" ],
+			"4" : [ "deshaced" ],
+			"5" : [ "deshagan" ]
+		}
+	}
+}

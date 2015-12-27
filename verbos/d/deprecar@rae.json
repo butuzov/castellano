@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deprecar",
+	"word" : "deprecar",
+	"infinitivo" : "deprecar",
+	"participio" : [ "deprecado" ],
+	"gerundio" : [ "deprecando" ],
+	"tenses" : {
+		"3" : [
+			[ "depreco" ],
+			[ "deprecas", "deprecás" ],
+			[ "depreca" ],
+			[ "deprecamos" ],
+			[ "deprecáis", "deprecan" ],
+			[ "deprecan" ]
+		],
+		"4" : [
+			[ "deprequé" ],
+			[ "deprecaste" ],
+			[ "deprecó" ],
+			[ "deprecamos" ],
+			[ "deprecasteis", "deprecaron" ],
+			[ "deprecaron" ]
+		],
+		"5" : [
+			[ "deprecaba" ],
+			[ "deprecabas" ],
+			[ "deprecaba" ],
+			[ "deprecábamos" ],
+			[ "deprecabais", "deprecaban" ],
+			[ "deprecaban" ]
+		],
+		"6" : [
+			[ "deprecaría" ],
+			[ "deprecarías" ],
+			[ "deprecaría" ],
+			[ "deprecaríamos" ],
+			[ "deprecaríais", "deprecarían" ],
+			[ "deprecarían" ]
+		],
+		"7" : [
+			[ "deprecaré" ],
+			[ "deprecarás" ],
+			[ "deprecará" ],
+			[ "deprecaremos" ],
+			[ "deprecaréis", "deprecarán" ],
+			[ "deprecarán" ]
+		],
+		"8" : [
+			[ "depreque" ],
+			[ "depreques" ],
+			[ "depreque" ],
+			[ "deprequemos" ],
+			[ "deprequéis", "deprequen" ],
+			[ "deprequen" ]
+		],
+		"9" : [
+			[ "deprecara" ],
+			[ "deprecaras" ],
+			[ "deprecara" ],
+			[ "deprecáramos" ],
+			[ "deprecarais", "deprecaran" ],
+			[ "deprecaran" ]
+		],
+		"10" : [
+			[ "deprecase" ],
+			[ "deprecases" ],
+			[ "deprecase" ],
+			[ "deprecásemos" ],
+			[ "deprecaseis", "deprecasen" ],
+			[ "deprecasen" ]
+		],
+		"11" : [
+			[ "deprecare" ],
+			[ "deprecares" ],
+			[ "deprecare" ],
+			[ "deprecáremos" ],
+			[ "deprecareis", "deprecaren" ],
+			[ "deprecaren" ]
+		],
+		"12" : {
+			"1" : [ "depreca" ],
+			"2" : [ "depreque" ],
+			"3" : [ "deprequemos" ],
+			"4" : [ "deprecad" ],
+			"5" : [ "deprequen" ]
+		}
+	}
+}

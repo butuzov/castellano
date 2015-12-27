@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sugerir",
+	"word" : "sugerir",
+	"infinitivo" : "sugerir",
+	"participio" : [ "sugerido" ],
+	"gerundio" : [ "sugiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sugiero" ],
+			[ "sugieres", "sugerís" ],
+			[ "sugiere" ],
+			[ "sugerimos" ],
+			[ "sugerís", "sugieren" ],
+			[ "sugieren" ]
+		],
+		"4" : [
+			[ "sugerí" ],
+			[ "sugeriste" ],
+			[ "sugirió" ],
+			[ "sugerimos" ],
+			[ "sugeristeis", "sugirieron" ],
+			[ "sugirieron" ]
+		],
+		"5" : [
+			[ "sugería" ],
+			[ "sugerías" ],
+			[ "sugería" ],
+			[ "sugeríamos" ],
+			[ "sugeríais", "sugerían" ],
+			[ "sugerían" ]
+		],
+		"6" : [
+			[ "sugeriría" ],
+			[ "sugerirías" ],
+			[ "sugeriría" ],
+			[ "sugeriríamos" ],
+			[ "sugeriríais", "sugerirían" ],
+			[ "sugerirían" ]
+		],
+		"7" : [
+			[ "sugeriré" ],
+			[ "sugerirás" ],
+			[ "sugerirá" ],
+			[ "sugeriremos" ],
+			[ "sugeriréis", "sugerirán" ],
+			[ "sugerirán" ]
+		],
+		"8" : [
+			[ "sugiera" ],
+			[ "sugieras" ],
+			[ "sugiera" ],
+			[ "sugiramos" ],
+			[ "sugiráis", "sugieran" ],
+			[ "sugieran" ]
+		],
+		"9" : [
+			[ "sugiriera" ],
+			[ "sugirieras" ],
+			[ "sugiriera" ],
+			[ "sugiriéramos" ],
+			[ "sugirierais", "sugirieran" ],
+			[ "sugirieran" ]
+		],
+		"10" : [
+			[ "sugiriese" ],
+			[ "sugirieses" ],
+			[ "sugiriese" ],
+			[ "sugiriésemos" ],
+			[ "sugirieseis", "sugiriesen" ],
+			[ "sugiriesen" ]
+		],
+		"11" : [
+			[ "sugiriere" ],
+			[ "sugirieres" ],
+			[ "sugiriere" ],
+			[ "sugiriéremos" ],
+			[ "sugiriereis", "sugirieren" ],
+			[ "sugirieren" ]
+		],
+		"12" : {
+			"1" : [ "sugiere" ],
+			"2" : [ "sugiera" ],
+			"3" : [ "sugiramos" ],
+			"4" : [ "sugerid" ],
+			"5" : [ "sugieran" ]
+		}
+	}
+}

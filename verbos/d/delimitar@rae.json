@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=delimitar",
+	"word" : "delimitar",
+	"infinitivo" : "delimitar",
+	"participio" : [ "delimitado" ],
+	"gerundio" : [ "delimitando" ],
+	"tenses" : {
+		"3" : [
+			[ "delimito" ],
+			[ "delimitas", "delimitás" ],
+			[ "delimita" ],
+			[ "delimitamos" ],
+			[ "delimitáis", "delimitan" ],
+			[ "delimitan" ]
+		],
+		"4" : [
+			[ "delimité" ],
+			[ "delimitaste" ],
+			[ "delimitó" ],
+			[ "delimitamos" ],
+			[ "delimitasteis", "delimitaron" ],
+			[ "delimitaron" ]
+		],
+		"5" : [
+			[ "delimitaba" ],
+			[ "delimitabas" ],
+			[ "delimitaba" ],
+			[ "delimitábamos" ],
+			[ "delimitabais", "delimitaban" ],
+			[ "delimitaban" ]
+		],
+		"6" : [
+			[ "delimitaría" ],
+			[ "delimitarías" ],
+			[ "delimitaría" ],
+			[ "delimitaríamos" ],
+			[ "delimitaríais", "delimitarían" ],
+			[ "delimitarían" ]
+		],
+		"7" : [
+			[ "delimitaré" ],
+			[ "delimitarás" ],
+			[ "delimitará" ],
+			[ "delimitaremos" ],
+			[ "delimitaréis", "delimitarán" ],
+			[ "delimitarán" ]
+		],
+		"8" : [
+			[ "delimite" ],
+			[ "delimites" ],
+			[ "delimite" ],
+			[ "delimitemos" ],
+			[ "delimitéis", "delimiten" ],
+			[ "delimiten" ]
+		],
+		"9" : [
+			[ "delimitara" ],
+			[ "delimitaras" ],
+			[ "delimitara" ],
+			[ "delimitáramos" ],
+			[ "delimitarais", "delimitaran" ],
+			[ "delimitaran" ]
+		],
+		"10" : [
+			[ "delimitase" ],
+			[ "delimitases" ],
+			[ "delimitase" ],
+			[ "delimitásemos" ],
+			[ "delimitaseis", "delimitasen" ],
+			[ "delimitasen" ]
+		],
+		"11" : [
+			[ "delimitare" ],
+			[ "delimitares" ],
+			[ "delimitare" ],
+			[ "delimitáremos" ],
+			[ "delimitareis", "delimitaren" ],
+			[ "delimitaren" ]
+		],
+		"12" : {
+			"1" : [ "delimita" ],
+			"2" : [ "delimite" ],
+			"3" : [ "delimitemos" ],
+			"4" : [ "delimitad" ],
+			"5" : [ "delimiten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=obtener",
+	"word" : "obtener",
+	"infinitivo" : "obtener",
+	"participio" : [ "obtenido" ],
+	"gerundio" : [ "obteniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "obtengo" ],
+			[ "obtienes", "obtenés" ],
+			[ "obtiene" ],
+			[ "obtenemos" ],
+			[ "obtenéis", "obtienen" ],
+			[ "obtienen" ]
+		],
+		"4" : [
+			[ "obtuve" ],
+			[ "obtuviste" ],
+			[ "obtuvo" ],
+			[ "obtuvimos" ],
+			[ "obtuvisteis", "obtuvieron" ],
+			[ "obtuvieron" ]
+		],
+		"5" : [
+			[ "obtenía" ],
+			[ "obtenías" ],
+			[ "obtenía" ],
+			[ "obteníamos" ],
+			[ "obteníais", "obtenían" ],
+			[ "obtenían" ]
+		],
+		"6" : [
+			[ "obtendría" ],
+			[ "obtendrías" ],
+			[ "obtendría" ],
+			[ "obtendríamos" ],
+			[ "obtendríais", "obtendrían" ],
+			[ "obtendrían" ]
+		],
+		"7" : [
+			[ "obtendré" ],
+			[ "obtendrás" ],
+			[ "obtendrá" ],
+			[ "obtendremos" ],
+			[ "obtendréis", "obtendrán" ],
+			[ "obtendrán" ]
+		],
+		"8" : [
+			[ "obtenga" ],
+			[ "obtengas" ],
+			[ "obtenga" ],
+			[ "obtengamos" ],
+			[ "obtengáis", "obtengan" ],
+			[ "obtengan" ]
+		],
+		"9" : [
+			[ "obtuviera" ],
+			[ "obtuvieras" ],
+			[ "obtuviera" ],
+			[ "obtuviéramos" ],
+			[ "obtuvierais", "obtuvieran" ],
+			[ "obtuvieran" ]
+		],
+		"10" : [
+			[ "obtuviese" ],
+			[ "obtuvieses" ],
+			[ "obtuviese" ],
+			[ "obtuviésemos" ],
+			[ "obtuvieseis", "obtuviesen" ],
+			[ "obtuviesen" ]
+		],
+		"11" : [
+			[ "obtuviere" ],
+			[ "obtuvieres" ],
+			[ "obtuviere" ],
+			[ "obtuviéremos" ],
+			[ "obtuviereis", "obtuvieren" ],
+			[ "obtuvieren" ]
+		],
+		"12" : {
+			"1" : [ "obtén" ],
+			"2" : [ "obtenga" ],
+			"3" : [ "obtengamos" ],
+			"4" : [ "obtened" ],
+			"5" : [ "obtengan" ]
+		}
+	}
+}

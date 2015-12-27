@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atrancar",
+	"word" : "atrancar",
+	"infinitivo" : "atrancar",
+	"participio" : [ "atrancado" ],
+	"gerundio" : [ "atrancando" ],
+	"tenses" : {
+		"3" : [
+			[ "atranco" ],
+			[ "atrancas", "atrancás" ],
+			[ "atranca" ],
+			[ "atrancamos" ],
+			[ "atrancáis", "atrancan" ],
+			[ "atrancan" ]
+		],
+		"4" : [
+			[ "atranqué" ],
+			[ "atrancaste" ],
+			[ "atrancó" ],
+			[ "atrancamos" ],
+			[ "atrancasteis", "atrancaron" ],
+			[ "atrancaron" ]
+		],
+		"5" : [
+			[ "atrancaba" ],
+			[ "atrancabas" ],
+			[ "atrancaba" ],
+			[ "atrancábamos" ],
+			[ "atrancabais", "atrancaban" ],
+			[ "atrancaban" ]
+		],
+		"6" : [
+			[ "atrancaría" ],
+			[ "atrancarías" ],
+			[ "atrancaría" ],
+			[ "atrancaríamos" ],
+			[ "atrancaríais", "atrancarían" ],
+			[ "atrancarían" ]
+		],
+		"7" : [
+			[ "atrancaré" ],
+			[ "atrancarás" ],
+			[ "atrancará" ],
+			[ "atrancaremos" ],
+			[ "atrancaréis", "atrancarán" ],
+			[ "atrancarán" ]
+		],
+		"8" : [
+			[ "atranque" ],
+			[ "atranques" ],
+			[ "atranque" ],
+			[ "atranquemos" ],
+			[ "atranquéis", "atranquen" ],
+			[ "atranquen" ]
+		],
+		"9" : [
+			[ "atrancara" ],
+			[ "atrancaras" ],
+			[ "atrancara" ],
+			[ "atrancáramos" ],
+			[ "atrancarais", "atrancaran" ],
+			[ "atrancaran" ]
+		],
+		"10" : [
+			[ "atrancase" ],
+			[ "atrancases" ],
+			[ "atrancase" ],
+			[ "atrancásemos" ],
+			[ "atrancaseis", "atrancasen" ],
+			[ "atrancasen" ]
+		],
+		"11" : [
+			[ "atrancare" ],
+			[ "atrancares" ],
+			[ "atrancare" ],
+			[ "atrancáremos" ],
+			[ "atrancareis", "atrancaren" ],
+			[ "atrancaren" ]
+		],
+		"12" : {
+			"1" : [ "atranca" ],
+			"2" : [ "atranque" ],
+			"3" : [ "atranquemos" ],
+			"4" : [ "atrancad" ],
+			"5" : [ "atranquen" ]
+		}
+	}
+}

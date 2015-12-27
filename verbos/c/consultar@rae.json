@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=consultar",
+	"word" : "consultar",
+	"infinitivo" : "consultar",
+	"participio" : [ "consultado" ],
+	"gerundio" : [ "consultando" ],
+	"tenses" : {
+		"3" : [
+			[ "consulto" ],
+			[ "consultas", "consultás" ],
+			[ "consulta" ],
+			[ "consultamos" ],
+			[ "consultáis", "consultan" ],
+			[ "consultan" ]
+		],
+		"4" : [
+			[ "consulté" ],
+			[ "consultaste" ],
+			[ "consultó" ],
+			[ "consultamos" ],
+			[ "consultasteis", "consultaron" ],
+			[ "consultaron" ]
+		],
+		"5" : [
+			[ "consultaba" ],
+			[ "consultabas" ],
+			[ "consultaba" ],
+			[ "consultábamos" ],
+			[ "consultabais", "consultaban" ],
+			[ "consultaban" ]
+		],
+		"6" : [
+			[ "consultaría" ],
+			[ "consultarías" ],
+			[ "consultaría" ],
+			[ "consultaríamos" ],
+			[ "consultaríais", "consultarían" ],
+			[ "consultarían" ]
+		],
+		"7" : [
+			[ "consultaré" ],
+			[ "consultarás" ],
+			[ "consultará" ],
+			[ "consultaremos" ],
+			[ "consultaréis", "consultarán" ],
+			[ "consultarán" ]
+		],
+		"8" : [
+			[ "consulte" ],
+			[ "consultes" ],
+			[ "consulte" ],
+			[ "consultemos" ],
+			[ "consultéis", "consulten" ],
+			[ "consulten" ]
+		],
+		"9" : [
+			[ "consultara" ],
+			[ "consultaras" ],
+			[ "consultara" ],
+			[ "consultáramos" ],
+			[ "consultarais", "consultaran" ],
+			[ "consultaran" ]
+		],
+		"10" : [
+			[ "consultase" ],
+			[ "consultases" ],
+			[ "consultase" ],
+			[ "consultásemos" ],
+			[ "consultaseis", "consultasen" ],
+			[ "consultasen" ]
+		],
+		"11" : [
+			[ "consultare" ],
+			[ "consultares" ],
+			[ "consultare" ],
+			[ "consultáremos" ],
+			[ "consultareis", "consultaren" ],
+			[ "consultaren" ]
+		],
+		"12" : {
+			"1" : [ "consulta" ],
+			"2" : [ "consulte" ],
+			"3" : [ "consultemos" ],
+			"4" : [ "consultad" ],
+			"5" : [ "consulten" ]
+		}
+	}
+}

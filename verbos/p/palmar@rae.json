@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=palmar",
+	"word" : "palmar",
+	"infinitivo" : "palmar",
+	"participio" : [ "palmado" ],
+	"gerundio" : [ "palmando" ],
+	"tenses" : {
+		"3" : [
+			[ "palmo" ],
+			[ "palmas", "palmás" ],
+			[ "palma" ],
+			[ "palmamos" ],
+			[ "palmáis", "palman" ],
+			[ "palman" ]
+		],
+		"4" : [
+			[ "palmé" ],
+			[ "palmaste" ],
+			[ "palmó" ],
+			[ "palmamos" ],
+			[ "palmasteis", "palmaron" ],
+			[ "palmaron" ]
+		],
+		"5" : [
+			[ "palmaba" ],
+			[ "palmabas" ],
+			[ "palmaba" ],
+			[ "palmábamos" ],
+			[ "palmabais", "palmaban" ],
+			[ "palmaban" ]
+		],
+		"6" : [
+			[ "palmaría" ],
+			[ "palmarías" ],
+			[ "palmaría" ],
+			[ "palmaríamos" ],
+			[ "palmaríais", "palmarían" ],
+			[ "palmarían" ]
+		],
+		"7" : [
+			[ "palmaré" ],
+			[ "palmarás" ],
+			[ "palmará" ],
+			[ "palmaremos" ],
+			[ "palmaréis", "palmarán" ],
+			[ "palmarán" ]
+		],
+		"8" : [
+			[ "palme" ],
+			[ "palmes" ],
+			[ "palme" ],
+			[ "palmemos" ],
+			[ "palméis", "palmen" ],
+			[ "palmen" ]
+		],
+		"9" : [
+			[ "palmara" ],
+			[ "palmaras" ],
+			[ "palmara" ],
+			[ "palmáramos" ],
+			[ "palmarais", "palmaran" ],
+			[ "palmaran" ]
+		],
+		"10" : [
+			[ "palmase" ],
+			[ "palmases" ],
+			[ "palmase" ],
+			[ "palmásemos" ],
+			[ "palmaseis", "palmasen" ],
+			[ "palmasen" ]
+		],
+		"11" : [
+			[ "palmare" ],
+			[ "palmares" ],
+			[ "palmare" ],
+			[ "palmáremos" ],
+			[ "palmareis", "palmaren" ],
+			[ "palmaren" ]
+		],
+		"12" : {
+			"1" : [ "palma" ],
+			"2" : [ "palme" ],
+			"3" : [ "palmemos" ],
+			"4" : [ "palmad" ],
+			"5" : [ "palmen" ]
+		}
+	}
+}

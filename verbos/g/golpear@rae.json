@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=golpear",
+	"word" : "golpear",
+	"infinitivo" : "golpear",
+	"participio" : [ "golpeado" ],
+	"gerundio" : [ "golpeando" ],
+	"tenses" : {
+		"3" : [
+			[ "golpeo" ],
+			[ "golpeas", "golpeás" ],
+			[ "golpea" ],
+			[ "golpeamos" ],
+			[ "golpeáis", "golpean" ],
+			[ "golpean" ]
+		],
+		"4" : [
+			[ "golpeé" ],
+			[ "golpeaste" ],
+			[ "golpeó" ],
+			[ "golpeamos" ],
+			[ "golpeasteis", "golpearon" ],
+			[ "golpearon" ]
+		],
+		"5" : [
+			[ "golpeaba" ],
+			[ "golpeabas" ],
+			[ "golpeaba" ],
+			[ "golpeábamos" ],
+			[ "golpeabais", "golpeaban" ],
+			[ "golpeaban" ]
+		],
+		"6" : [
+			[ "golpearía" ],
+			[ "golpearías" ],
+			[ "golpearía" ],
+			[ "golpearíamos" ],
+			[ "golpearíais", "golpearían" ],
+			[ "golpearían" ]
+		],
+		"7" : [
+			[ "golpearé" ],
+			[ "golpearás" ],
+			[ "golpeará" ],
+			[ "golpearemos" ],
+			[ "golpearéis", "golpearán" ],
+			[ "golpearán" ]
+		],
+		"8" : [
+			[ "golpee" ],
+			[ "golpees" ],
+			[ "golpee" ],
+			[ "golpeemos" ],
+			[ "golpeéis", "golpeen" ],
+			[ "golpeen" ]
+		],
+		"9" : [
+			[ "golpeara" ],
+			[ "golpearas" ],
+			[ "golpeara" ],
+			[ "golpeáramos" ],
+			[ "golpearais", "golpearan" ],
+			[ "golpearan" ]
+		],
+		"10" : [
+			[ "golpease" ],
+			[ "golpeases" ],
+			[ "golpease" ],
+			[ "golpeásemos" ],
+			[ "golpeaseis", "golpeasen" ],
+			[ "golpeasen" ]
+		],
+		"11" : [
+			[ "golpeare" ],
+			[ "golpeares" ],
+			[ "golpeare" ],
+			[ "golpeáremos" ],
+			[ "golpeareis", "golpearen" ],
+			[ "golpearen" ]
+		],
+		"12" : {
+			"1" : [ "golpea" ],
+			"2" : [ "golpee" ],
+			"3" : [ "golpeemos" ],
+			"4" : [ "golpead" ],
+			"5" : [ "golpeen" ]
+		}
+	}
+}

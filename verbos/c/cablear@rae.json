@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cablear",
+	"word" : "cablear",
+	"infinitivo" : "cablear",
+	"participio" : [ "cableado" ],
+	"gerundio" : [ "cableando" ],
+	"tenses" : {
+		"3" : [
+			[ "cableo" ],
+			[ "cableas", "cableás" ],
+			[ "cablea" ],
+			[ "cableamos" ],
+			[ "cableáis", "cablean" ],
+			[ "cablean" ]
+		],
+		"4" : [
+			[ "cableé" ],
+			[ "cableaste" ],
+			[ "cableó" ],
+			[ "cableamos" ],
+			[ "cableasteis", "cablearon" ],
+			[ "cablearon" ]
+		],
+		"5" : [
+			[ "cableaba" ],
+			[ "cableabas" ],
+			[ "cableaba" ],
+			[ "cableábamos" ],
+			[ "cableabais", "cableaban" ],
+			[ "cableaban" ]
+		],
+		"6" : [
+			[ "cablearía" ],
+			[ "cablearías" ],
+			[ "cablearía" ],
+			[ "cablearíamos" ],
+			[ "cablearíais", "cablearían" ],
+			[ "cablearían" ]
+		],
+		"7" : [
+			[ "cablearé" ],
+			[ "cablearás" ],
+			[ "cableará" ],
+			[ "cablearemos" ],
+			[ "cablearéis", "cablearán" ],
+			[ "cablearán" ]
+		],
+		"8" : [
+			[ "cablee" ],
+			[ "cablees" ],
+			[ "cablee" ],
+			[ "cableemos" ],
+			[ "cableéis", "cableen" ],
+			[ "cableen" ]
+		],
+		"9" : [
+			[ "cableara" ],
+			[ "cablearas" ],
+			[ "cableara" ],
+			[ "cableáramos" ],
+			[ "cablearais", "cablearan" ],
+			[ "cablearan" ]
+		],
+		"10" : [
+			[ "cablease" ],
+			[ "cableases" ],
+			[ "cablease" ],
+			[ "cableásemos" ],
+			[ "cableaseis", "cableasen" ],
+			[ "cableasen" ]
+		],
+		"11" : [
+			[ "cableare" ],
+			[ "cableares" ],
+			[ "cableare" ],
+			[ "cableáremos" ],
+			[ "cableareis", "cablearen" ],
+			[ "cablearen" ]
+		],
+		"12" : {
+			"1" : [ "cablea" ],
+			"2" : [ "cablee" ],
+			"3" : [ "cableemos" ],
+			"4" : [ "cablead" ],
+			"5" : [ "cableen" ]
+		}
+	}
+}

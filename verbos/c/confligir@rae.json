@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=confligir",
+	"word" : "confligir",
+	"infinitivo" : "confligir",
+	"participio" : [ "confligido" ],
+	"gerundio" : [ "confligiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "conflijo" ],
+			[ "confliges", "confligís" ],
+			[ "conflige" ],
+			[ "confligimos" ],
+			[ "confligís", "confligen" ],
+			[ "confligen" ]
+		],
+		"4" : [
+			[ "confligí" ],
+			[ "confligiste" ],
+			[ "confligió" ],
+			[ "confligimos" ],
+			[ "confligisteis", "confligieron" ],
+			[ "confligieron" ]
+		],
+		"5" : [
+			[ "confligía" ],
+			[ "confligías" ],
+			[ "confligía" ],
+			[ "confligíamos" ],
+			[ "confligíais", "confligían" ],
+			[ "confligían" ]
+		],
+		"6" : [
+			[ "confligiría" ],
+			[ "confligirías" ],
+			[ "confligiría" ],
+			[ "confligiríamos" ],
+			[ "confligiríais", "confligirían" ],
+			[ "confligirían" ]
+		],
+		"7" : [
+			[ "confligiré" ],
+			[ "confligirás" ],
+			[ "confligirá" ],
+			[ "confligiremos" ],
+			[ "confligiréis", "confligirán" ],
+			[ "confligirán" ]
+		],
+		"8" : [
+			[ "conflija" ],
+			[ "conflijas" ],
+			[ "conflija" ],
+			[ "conflijamos" ],
+			[ "conflijáis", "conflijan" ],
+			[ "conflijan" ]
+		],
+		"9" : [
+			[ "confligiera" ],
+			[ "confligieras" ],
+			[ "confligiera" ],
+			[ "confligiéramos" ],
+			[ "confligierais", "confligieran" ],
+			[ "confligieran" ]
+		],
+		"10" : [
+			[ "confligiese" ],
+			[ "confligieses" ],
+			[ "confligiese" ],
+			[ "confligiésemos" ],
+			[ "confligieseis", "confligiesen" ],
+			[ "confligiesen" ]
+		],
+		"11" : [
+			[ "confligiere" ],
+			[ "confligieres" ],
+			[ "confligiere" ],
+			[ "confligiéremos" ],
+			[ "confligiereis", "confligieren" ],
+			[ "confligieren" ]
+		],
+		"12" : {
+			"1" : [ "conflige" ],
+			"2" : [ "conflija" ],
+			"3" : [ "conflijamos" ],
+			"4" : [ "confligid" ],
+			"5" : [ "conflijan" ]
+		}
+	}
+}

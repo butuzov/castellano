@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=confiar",
+	"word" : "confiar",
+	"infinitivo" : "confiar",
+	"participio" : [ "confiado" ],
+	"gerundio" : [ "confiando" ],
+	"tenses" : {
+		"3" : [
+			[ "confío" ],
+			[ "confías", "confiás" ],
+			[ "confía" ],
+			[ "confiamos" ],
+			[ "confiáis", "confían" ],
+			[ "confían" ]
+		],
+		"4" : [
+			[ "confié" ],
+			[ "confiaste" ],
+			[ "confió" ],
+			[ "confiamos" ],
+			[ "confiasteis", "confiaron" ],
+			[ "confiaron" ]
+		],
+		"5" : [
+			[ "confiaba" ],
+			[ "confiabas" ],
+			[ "confiaba" ],
+			[ "confiábamos" ],
+			[ "confiabais", "confiaban" ],
+			[ "confiaban" ]
+		],
+		"6" : [
+			[ "confiaría" ],
+			[ "confiarías" ],
+			[ "confiaría" ],
+			[ "confiaríamos" ],
+			[ "confiaríais", "confiarían" ],
+			[ "confiarían" ]
+		],
+		"7" : [
+			[ "confiaré" ],
+			[ "confiarás" ],
+			[ "confiará" ],
+			[ "confiaremos" ],
+			[ "confiaréis", "confiarán" ],
+			[ "confiarán" ]
+		],
+		"8" : [
+			[ "confíe" ],
+			[ "confíes" ],
+			[ "confíe" ],
+			[ "confiemos" ],
+			[ "confiéis", "confíen" ],
+			[ "confíen" ]
+		],
+		"9" : [
+			[ "confiara" ],
+			[ "confiaras" ],
+			[ "confiara" ],
+			[ "confiáramos" ],
+			[ "confiarais", "confiaran" ],
+			[ "confiaran" ]
+		],
+		"10" : [
+			[ "confiase" ],
+			[ "confiases" ],
+			[ "confiase" ],
+			[ "confiásemos" ],
+			[ "confiaseis", "confiasen" ],
+			[ "confiasen" ]
+		],
+		"11" : [
+			[ "confiare" ],
+			[ "confiares" ],
+			[ "confiare" ],
+			[ "confiáremos" ],
+			[ "confiareis", "confiaren" ],
+			[ "confiaren" ]
+		],
+		"12" : {
+			"1" : [ "confía" ],
+			"2" : [ "confíe" ],
+			"3" : [ "confiemos" ],
+			"4" : [ "confiad" ],
+			"5" : [ "confíen" ]
+		}
+	}
+}

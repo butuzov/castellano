@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=manar",
+	"word" : "manar",
+	"infinitivo" : "manar",
+	"participio" : [ "manado" ],
+	"gerundio" : [ "manando" ],
+	"tenses" : {
+		"3" : [
+			[ "mano" ],
+			[ "manas", "manás" ],
+			[ "mana" ],
+			[ "manamos" ],
+			[ "manáis", "manan" ],
+			[ "manan" ]
+		],
+		"4" : [
+			[ "mané" ],
+			[ "manaste" ],
+			[ "manó" ],
+			[ "manamos" ],
+			[ "manasteis", "manaron" ],
+			[ "manaron" ]
+		],
+		"5" : [
+			[ "manaba" ],
+			[ "manabas" ],
+			[ "manaba" ],
+			[ "manábamos" ],
+			[ "manabais", "manaban" ],
+			[ "manaban" ]
+		],
+		"6" : [
+			[ "manaría" ],
+			[ "manarías" ],
+			[ "manaría" ],
+			[ "manaríamos" ],
+			[ "manaríais", "manarían" ],
+			[ "manarían" ]
+		],
+		"7" : [
+			[ "manaré" ],
+			[ "manarás" ],
+			[ "manará" ],
+			[ "manaremos" ],
+			[ "manaréis", "manarán" ],
+			[ "manarán" ]
+		],
+		"8" : [
+			[ "mane" ],
+			[ "manes" ],
+			[ "mane" ],
+			[ "manemos" ],
+			[ "manéis", "manen" ],
+			[ "manen" ]
+		],
+		"9" : [
+			[ "manara" ],
+			[ "manaras" ],
+			[ "manara" ],
+			[ "manáramos" ],
+			[ "manarais", "manaran" ],
+			[ "manaran" ]
+		],
+		"10" : [
+			[ "manase" ],
+			[ "manases" ],
+			[ "manase" ],
+			[ "manásemos" ],
+			[ "manaseis", "manasen" ],
+			[ "manasen" ]
+		],
+		"11" : [
+			[ "manare" ],
+			[ "manares" ],
+			[ "manare" ],
+			[ "manáremos" ],
+			[ "manareis", "manaren" ],
+			[ "manaren" ]
+		],
+		"12" : {
+			"1" : [ "mana" ],
+			"2" : [ "mane" ],
+			"3" : [ "manemos" ],
+			"4" : [ "manad" ],
+			"5" : [ "manen" ]
+		}
+	}
+}

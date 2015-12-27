@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anchar",
+	"word" : "anchar",
+	"infinitivo" : "anchar",
+	"participio" : [ "anchado" ],
+	"gerundio" : [ "anchando" ],
+	"tenses" : {
+		"3" : [
+			[ "ancho" ],
+			[ "anchas", "anchás" ],
+			[ "ancha" ],
+			[ "anchamos" ],
+			[ "ancháis", "anchan" ],
+			[ "anchan" ]
+		],
+		"4" : [
+			[ "anché" ],
+			[ "anchaste" ],
+			[ "anchó" ],
+			[ "anchamos" ],
+			[ "anchasteis", "ancharon" ],
+			[ "ancharon" ]
+		],
+		"5" : [
+			[ "anchaba" ],
+			[ "anchabas" ],
+			[ "anchaba" ],
+			[ "anchábamos" ],
+			[ "anchabais", "anchaban" ],
+			[ "anchaban" ]
+		],
+		"6" : [
+			[ "ancharía" ],
+			[ "ancharías" ],
+			[ "ancharía" ],
+			[ "ancharíamos" ],
+			[ "ancharíais", "ancharían" ],
+			[ "ancharían" ]
+		],
+		"7" : [
+			[ "ancharé" ],
+			[ "ancharás" ],
+			[ "anchará" ],
+			[ "ancharemos" ],
+			[ "ancharéis", "ancharán" ],
+			[ "ancharán" ]
+		],
+		"8" : [
+			[ "anche" ],
+			[ "anches" ],
+			[ "anche" ],
+			[ "anchemos" ],
+			[ "anchéis", "anchen" ],
+			[ "anchen" ]
+		],
+		"9" : [
+			[ "anchara" ],
+			[ "ancharas" ],
+			[ "anchara" ],
+			[ "ancháramos" ],
+			[ "ancharais", "ancharan" ],
+			[ "ancharan" ]
+		],
+		"10" : [
+			[ "anchase" ],
+			[ "anchases" ],
+			[ "anchase" ],
+			[ "anchásemos" ],
+			[ "anchaseis", "anchasen" ],
+			[ "anchasen" ]
+		],
+		"11" : [
+			[ "anchare" ],
+			[ "anchares" ],
+			[ "anchare" ],
+			[ "ancháremos" ],
+			[ "anchareis", "ancharen" ],
+			[ "ancharen" ]
+		],
+		"12" : {
+			"1" : [ "ancha" ],
+			"2" : [ "anche" ],
+			"3" : [ "anchemos" ],
+			"4" : [ "anchad" ],
+			"5" : [ "anchen" ]
+		}
+	}
+}

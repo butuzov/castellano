@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reciprocar",
+	"word" : "reciprocar",
+	"infinitivo" : "reciprocar",
+	"participio" : [ "reciprocado" ],
+	"gerundio" : [ "reciprocando" ],
+	"tenses" : {
+		"3" : [
+			[ "reciproco" ],
+			[ "reciprocas", "reciprocás" ],
+			[ "reciproca" ],
+			[ "reciprocamos" ],
+			[ "reciprocáis", "reciprocan" ],
+			[ "reciprocan" ]
+		],
+		"4" : [
+			[ "reciproqué" ],
+			[ "reciprocaste" ],
+			[ "reciprocó" ],
+			[ "reciprocamos" ],
+			[ "reciprocasteis", "reciprocaron" ],
+			[ "reciprocaron" ]
+		],
+		"5" : [
+			[ "reciprocaba" ],
+			[ "reciprocabas" ],
+			[ "reciprocaba" ],
+			[ "reciprocábamos" ],
+			[ "reciprocabais", "reciprocaban" ],
+			[ "reciprocaban" ]
+		],
+		"6" : [
+			[ "reciprocaría" ],
+			[ "reciprocarías" ],
+			[ "reciprocaría" ],
+			[ "reciprocaríamos" ],
+			[ "reciprocaríais", "reciprocarían" ],
+			[ "reciprocarían" ]
+		],
+		"7" : [
+			[ "reciprocaré" ],
+			[ "reciprocarás" ],
+			[ "reciprocará" ],
+			[ "reciprocaremos" ],
+			[ "reciprocaréis", "reciprocarán" ],
+			[ "reciprocarán" ]
+		],
+		"8" : [
+			[ "reciproque" ],
+			[ "reciproques" ],
+			[ "reciproque" ],
+			[ "reciproquemos" ],
+			[ "reciproquéis", "reciproquen" ],
+			[ "reciproquen" ]
+		],
+		"9" : [
+			[ "reciprocara" ],
+			[ "reciprocaras" ],
+			[ "reciprocara" ],
+			[ "reciprocáramos" ],
+			[ "reciprocarais", "reciprocaran" ],
+			[ "reciprocaran" ]
+		],
+		"10" : [
+			[ "reciprocase" ],
+			[ "reciprocases" ],
+			[ "reciprocase" ],
+			[ "reciprocásemos" ],
+			[ "reciprocaseis", "reciprocasen" ],
+			[ "reciprocasen" ]
+		],
+		"11" : [
+			[ "reciprocare" ],
+			[ "reciprocares" ],
+			[ "reciprocare" ],
+			[ "reciprocáremos" ],
+			[ "reciprocareis", "reciprocaren" ],
+			[ "reciprocaren" ]
+		],
+		"12" : {
+			"1" : [ "reciproca" ],
+			"2" : [ "reciproque" ],
+			"3" : [ "reciproquemos" ],
+			"4" : [ "reciprocad" ],
+			"5" : [ "reciproquen" ]
+		}
+	}
+}

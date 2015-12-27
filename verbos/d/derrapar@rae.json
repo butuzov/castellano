@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=derrapar",
+	"word" : "derrapar",
+	"infinitivo" : "derrapar",
+	"participio" : [ "derrapado" ],
+	"gerundio" : [ "derrapando" ],
+	"tenses" : {
+		"3" : [
+			[ "derrapo" ],
+			[ "derrapas", "derrapás" ],
+			[ "derrapa" ],
+			[ "derrapamos" ],
+			[ "derrapáis", "derrapan" ],
+			[ "derrapan" ]
+		],
+		"4" : [
+			[ "derrapé" ],
+			[ "derrapaste" ],
+			[ "derrapó" ],
+			[ "derrapamos" ],
+			[ "derrapasteis", "derraparon" ],
+			[ "derraparon" ]
+		],
+		"5" : [
+			[ "derrapaba" ],
+			[ "derrapabas" ],
+			[ "derrapaba" ],
+			[ "derrapábamos" ],
+			[ "derrapabais", "derrapaban" ],
+			[ "derrapaban" ]
+		],
+		"6" : [
+			[ "derraparía" ],
+			[ "derraparías" ],
+			[ "derraparía" ],
+			[ "derraparíamos" ],
+			[ "derraparíais", "derraparían" ],
+			[ "derraparían" ]
+		],
+		"7" : [
+			[ "derraparé" ],
+			[ "derraparás" ],
+			[ "derrapará" ],
+			[ "derraparemos" ],
+			[ "derraparéis", "derraparán" ],
+			[ "derraparán" ]
+		],
+		"8" : [
+			[ "derrape" ],
+			[ "derrapes" ],
+			[ "derrape" ],
+			[ "derrapemos" ],
+			[ "derrapéis", "derrapen" ],
+			[ "derrapen" ]
+		],
+		"9" : [
+			[ "derrapara" ],
+			[ "derraparas" ],
+			[ "derrapara" ],
+			[ "derrapáramos" ],
+			[ "derraparais", "derraparan" ],
+			[ "derraparan" ]
+		],
+		"10" : [
+			[ "derrapase" ],
+			[ "derrapases" ],
+			[ "derrapase" ],
+			[ "derrapásemos" ],
+			[ "derrapaseis", "derrapasen" ],
+			[ "derrapasen" ]
+		],
+		"11" : [
+			[ "derrapare" ],
+			[ "derrapares" ],
+			[ "derrapare" ],
+			[ "derrapáremos" ],
+			[ "derrapareis", "derraparen" ],
+			[ "derraparen" ]
+		],
+		"12" : {
+			"1" : [ "derrapa" ],
+			"2" : [ "derrape" ],
+			"3" : [ "derrapemos" ],
+			"4" : [ "derrapad" ],
+			"5" : [ "derrapen" ]
+		}
+	}
+}

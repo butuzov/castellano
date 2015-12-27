@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lacear",
+	"word" : "lacear",
+	"infinitivo" : "lacear",
+	"participio" : [ "laceado" ],
+	"gerundio" : [ "laceando" ],
+	"tenses" : {
+		"3" : [
+			[ "laceo" ],
+			[ "laceas", "laceás" ],
+			[ "lacea" ],
+			[ "laceamos" ],
+			[ "laceáis", "lacean" ],
+			[ "lacean" ]
+		],
+		"4" : [
+			[ "laceé" ],
+			[ "laceaste" ],
+			[ "laceó" ],
+			[ "laceamos" ],
+			[ "laceasteis", "lacearon" ],
+			[ "lacearon" ]
+		],
+		"5" : [
+			[ "laceaba" ],
+			[ "laceabas" ],
+			[ "laceaba" ],
+			[ "laceábamos" ],
+			[ "laceabais", "laceaban" ],
+			[ "laceaban" ]
+		],
+		"6" : [
+			[ "lacearía" ],
+			[ "lacearías" ],
+			[ "lacearía" ],
+			[ "lacearíamos" ],
+			[ "lacearíais", "lacearían" ],
+			[ "lacearían" ]
+		],
+		"7" : [
+			[ "lacearé" ],
+			[ "lacearás" ],
+			[ "laceará" ],
+			[ "lacearemos" ],
+			[ "lacearéis", "lacearán" ],
+			[ "lacearán" ]
+		],
+		"8" : [
+			[ "lacee" ],
+			[ "lacees" ],
+			[ "lacee" ],
+			[ "laceemos" ],
+			[ "laceéis", "laceen" ],
+			[ "laceen" ]
+		],
+		"9" : [
+			[ "laceara" ],
+			[ "lacearas" ],
+			[ "laceara" ],
+			[ "laceáramos" ],
+			[ "lacearais", "lacearan" ],
+			[ "lacearan" ]
+		],
+		"10" : [
+			[ "lacease" ],
+			[ "laceases" ],
+			[ "lacease" ],
+			[ "laceásemos" ],
+			[ "laceaseis", "laceasen" ],
+			[ "laceasen" ]
+		],
+		"11" : [
+			[ "laceare" ],
+			[ "laceares" ],
+			[ "laceare" ],
+			[ "laceáremos" ],
+			[ "laceareis", "lacearen" ],
+			[ "lacearen" ]
+		],
+		"12" : {
+			"1" : [ "lacea" ],
+			"2" : [ "lacee" ],
+			"3" : [ "laceemos" ],
+			"4" : [ "lacead" ],
+			"5" : [ "laceen" ]
+		}
+	}
+}

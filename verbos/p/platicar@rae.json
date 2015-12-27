@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=platicar",
+	"word" : "platicar",
+	"infinitivo" : "platicar",
+	"participio" : [ "platicado" ],
+	"gerundio" : [ "platicando" ],
+	"tenses" : {
+		"3" : [
+			[ "platico" ],
+			[ "platicas", "platicás" ],
+			[ "platica" ],
+			[ "platicamos" ],
+			[ "platicáis", "platican" ],
+			[ "platican" ]
+		],
+		"4" : [
+			[ "platiqué" ],
+			[ "platicaste" ],
+			[ "platicó" ],
+			[ "platicamos" ],
+			[ "platicasteis", "platicaron" ],
+			[ "platicaron" ]
+		],
+		"5" : [
+			[ "platicaba" ],
+			[ "platicabas" ],
+			[ "platicaba" ],
+			[ "platicábamos" ],
+			[ "platicabais", "platicaban" ],
+			[ "platicaban" ]
+		],
+		"6" : [
+			[ "platicaría" ],
+			[ "platicarías" ],
+			[ "platicaría" ],
+			[ "platicaríamos" ],
+			[ "platicaríais", "platicarían" ],
+			[ "platicarían" ]
+		],
+		"7" : [
+			[ "platicaré" ],
+			[ "platicarás" ],
+			[ "platicará" ],
+			[ "platicaremos" ],
+			[ "platicaréis", "platicarán" ],
+			[ "platicarán" ]
+		],
+		"8" : [
+			[ "platique" ],
+			[ "platiques" ],
+			[ "platique" ],
+			[ "platiquemos" ],
+			[ "platiquéis", "platiquen" ],
+			[ "platiquen" ]
+		],
+		"9" : [
+			[ "platicara" ],
+			[ "platicaras" ],
+			[ "platicara" ],
+			[ "platicáramos" ],
+			[ "platicarais", "platicaran" ],
+			[ "platicaran" ]
+		],
+		"10" : [
+			[ "platicase" ],
+			[ "platicases" ],
+			[ "platicase" ],
+			[ "platicásemos" ],
+			[ "platicaseis", "platicasen" ],
+			[ "platicasen" ]
+		],
+		"11" : [
+			[ "platicare" ],
+			[ "platicares" ],
+			[ "platicare" ],
+			[ "platicáremos" ],
+			[ "platicareis", "platicaren" ],
+			[ "platicaren" ]
+		],
+		"12" : {
+			"1" : [ "platica" ],
+			"2" : [ "platique" ],
+			"3" : [ "platiquemos" ],
+			"4" : [ "platicad" ],
+			"5" : [ "platiquen" ]
+		}
+	}
+}

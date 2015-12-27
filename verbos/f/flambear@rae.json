@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=flambear",
+	"word" : "flambear",
+	"infinitivo" : "flambear",
+	"participio" : [ "flambeado" ],
+	"gerundio" : [ "flambeando" ],
+	"tenses" : {
+		"3" : [
+			[ "flambeo" ],
+			[ "flambeas", "flambeás" ],
+			[ "flambea" ],
+			[ "flambeamos" ],
+			[ "flambeáis", "flambean" ],
+			[ "flambean" ]
+		],
+		"4" : [
+			[ "flambeé" ],
+			[ "flambeaste" ],
+			[ "flambeó" ],
+			[ "flambeamos" ],
+			[ "flambeasteis", "flambearon" ],
+			[ "flambearon" ]
+		],
+		"5" : [
+			[ "flambeaba" ],
+			[ "flambeabas" ],
+			[ "flambeaba" ],
+			[ "flambeábamos" ],
+			[ "flambeabais", "flambeaban" ],
+			[ "flambeaban" ]
+		],
+		"6" : [
+			[ "flambearía" ],
+			[ "flambearías" ],
+			[ "flambearía" ],
+			[ "flambearíamos" ],
+			[ "flambearíais", "flambearían" ],
+			[ "flambearían" ]
+		],
+		"7" : [
+			[ "flambearé" ],
+			[ "flambearás" ],
+			[ "flambeará" ],
+			[ "flambearemos" ],
+			[ "flambearéis", "flambearán" ],
+			[ "flambearán" ]
+		],
+		"8" : [
+			[ "flambee" ],
+			[ "flambees" ],
+			[ "flambee" ],
+			[ "flambeemos" ],
+			[ "flambeéis", "flambeen" ],
+			[ "flambeen" ]
+		],
+		"9" : [
+			[ "flambeara" ],
+			[ "flambearas" ],
+			[ "flambeara" ],
+			[ "flambeáramos" ],
+			[ "flambearais", "flambearan" ],
+			[ "flambearan" ]
+		],
+		"10" : [
+			[ "flambease" ],
+			[ "flambeases" ],
+			[ "flambease" ],
+			[ "flambeásemos" ],
+			[ "flambeaseis", "flambeasen" ],
+			[ "flambeasen" ]
+		],
+		"11" : [
+			[ "flambeare" ],
+			[ "flambeares" ],
+			[ "flambeare" ],
+			[ "flambeáremos" ],
+			[ "flambeareis", "flambearen" ],
+			[ "flambearen" ]
+		],
+		"12" : {
+			"1" : [ "flambea" ],
+			"2" : [ "flambee" ],
+			"3" : [ "flambeemos" ],
+			"4" : [ "flambead" ],
+			"5" : [ "flambeen" ]
+		}
+	}
+}

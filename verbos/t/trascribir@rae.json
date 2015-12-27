@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trascribir",
+	"word" : "trascribir",
+	"infinitivo" : "trascribir",
+	"participio" : [ "trascrito", "trascripto" ],
+	"gerundio" : [ "trascribiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "trascribo" ],
+			[ "trascribes", "trascribís" ],
+			[ "trascribe" ],
+			[ "trascribimos" ],
+			[ "trascribís", "trascriben" ],
+			[ "trascriben" ]
+		],
+		"4" : [
+			[ "trascribí" ],
+			[ "trascribiste" ],
+			[ "trascribió" ],
+			[ "trascribimos" ],
+			[ "trascribisteis", "trascribieron" ],
+			[ "trascribieron" ]
+		],
+		"5" : [
+			[ "trascribía" ],
+			[ "trascribías" ],
+			[ "trascribía" ],
+			[ "trascribíamos" ],
+			[ "trascribíais", "trascribían" ],
+			[ "trascribían" ]
+		],
+		"6" : [
+			[ "trascribiría" ],
+			[ "trascribirías" ],
+			[ "trascribiría" ],
+			[ "trascribiríamos" ],
+			[ "trascribiríais", "trascribirían" ],
+			[ "trascribirían" ]
+		],
+		"7" : [
+			[ "trascribiré" ],
+			[ "trascribirás" ],
+			[ "trascribirá" ],
+			[ "trascribiremos" ],
+			[ "trascribiréis", "trascribirán" ],
+			[ "trascribirán" ]
+		],
+		"8" : [
+			[ "trascriba" ],
+			[ "trascribas" ],
+			[ "trascriba" ],
+			[ "trascribamos" ],
+			[ "trascribáis", "trascriban" ],
+			[ "trascriban" ]
+		],
+		"9" : [
+			[ "trascribiera" ],
+			[ "trascribieras" ],
+			[ "trascribiera" ],
+			[ "trascribiéramos" ],
+			[ "trascribierais", "trascribieran" ],
+			[ "trascribieran" ]
+		],
+		"10" : [
+			[ "trascribiese" ],
+			[ "trascribieses" ],
+			[ "trascribiese" ],
+			[ "trascribiésemos" ],
+			[ "trascribieseis", "trascribiesen" ],
+			[ "trascribiesen" ]
+		],
+		"11" : [
+			[ "trascribiere" ],
+			[ "trascribieres" ],
+			[ "trascribiere" ],
+			[ "trascribiéremos" ],
+			[ "trascribiereis", "trascribieren" ],
+			[ "trascribieren" ]
+		],
+		"12" : {
+			"1" : [ "trascribe" ],
+			"2" : [ "trascriba" ],
+			"3" : [ "trascribamos" ],
+			"4" : [ "trascribid" ],
+			"5" : [ "trascriban" ]
+		}
+	}
+}

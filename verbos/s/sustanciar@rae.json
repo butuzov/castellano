@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sustanciar",
+	"word" : "sustanciar",
+	"infinitivo" : "sustanciar",
+	"participio" : [ "sustanciado" ],
+	"gerundio" : [ "sustanciando" ],
+	"tenses" : {
+		"3" : [
+			[ "sustancio" ],
+			[ "sustancias", "sustanciás" ],
+			[ "sustancia" ],
+			[ "sustanciamos" ],
+			[ "sustanciáis", "sustancian" ],
+			[ "sustancian" ]
+		],
+		"4" : [
+			[ "sustancié" ],
+			[ "sustanciaste" ],
+			[ "sustanció" ],
+			[ "sustanciamos" ],
+			[ "sustanciasteis", "sustanciaron" ],
+			[ "sustanciaron" ]
+		],
+		"5" : [
+			[ "sustanciaba" ],
+			[ "sustanciabas" ],
+			[ "sustanciaba" ],
+			[ "sustanciábamos" ],
+			[ "sustanciabais", "sustanciaban" ],
+			[ "sustanciaban" ]
+		],
+		"6" : [
+			[ "sustanciaría" ],
+			[ "sustanciarías" ],
+			[ "sustanciaría" ],
+			[ "sustanciaríamos" ],
+			[ "sustanciaríais", "sustanciarían" ],
+			[ "sustanciarían" ]
+		],
+		"7" : [
+			[ "sustanciaré" ],
+			[ "sustanciarás" ],
+			[ "sustanciará" ],
+			[ "sustanciaremos" ],
+			[ "sustanciaréis", "sustanciarán" ],
+			[ "sustanciarán" ]
+		],
+		"8" : [
+			[ "sustancie" ],
+			[ "sustancies" ],
+			[ "sustancie" ],
+			[ "sustanciemos" ],
+			[ "sustanciéis", "sustancien" ],
+			[ "sustancien" ]
+		],
+		"9" : [
+			[ "sustanciara" ],
+			[ "sustanciaras" ],
+			[ "sustanciara" ],
+			[ "sustanciáramos" ],
+			[ "sustanciarais", "sustanciaran" ],
+			[ "sustanciaran" ]
+		],
+		"10" : [
+			[ "sustanciase" ],
+			[ "sustanciases" ],
+			[ "sustanciase" ],
+			[ "sustanciásemos" ],
+			[ "sustanciaseis", "sustanciasen" ],
+			[ "sustanciasen" ]
+		],
+		"11" : [
+			[ "sustanciare" ],
+			[ "sustanciares" ],
+			[ "sustanciare" ],
+			[ "sustanciáremos" ],
+			[ "sustanciareis", "sustanciaren" ],
+			[ "sustanciaren" ]
+		],
+		"12" : {
+			"1" : [ "sustancia" ],
+			"2" : [ "sustancie" ],
+			"3" : [ "sustanciemos" ],
+			"4" : [ "sustanciad" ],
+			"5" : [ "sustancien" ]
+		}
+	}
+}

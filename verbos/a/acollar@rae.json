@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acollar",
+	"word" : "acollar",
+	"infinitivo" : "acollar",
+	"participio" : [ "acollado" ],
+	"gerundio" : [ "acollando" ],
+	"tenses" : {
+		"3" : [
+			[ "acollo" ],
+			[ "acollas", "acollás" ],
+			[ "acolla" ],
+			[ "acollamos" ],
+			[ "acolláis", "acollan" ],
+			[ "acollan" ]
+		],
+		"4" : [
+			[ "acollé" ],
+			[ "acollaste" ],
+			[ "acolló" ],
+			[ "acollamos" ],
+			[ "acollasteis", "acollaron" ],
+			[ "acollaron" ]
+		],
+		"5" : [
+			[ "acollaba" ],
+			[ "acollabas" ],
+			[ "acollaba" ],
+			[ "acollábamos" ],
+			[ "acollabais", "acollaban" ],
+			[ "acollaban" ]
+		],
+		"6" : [
+			[ "acollaría" ],
+			[ "acollarías" ],
+			[ "acollaría" ],
+			[ "acollaríamos" ],
+			[ "acollaríais", "acollarían" ],
+			[ "acollarían" ]
+		],
+		"7" : [
+			[ "acollaré" ],
+			[ "acollarás" ],
+			[ "acollará" ],
+			[ "acollaremos" ],
+			[ "acollaréis", "acollarán" ],
+			[ "acollarán" ]
+		],
+		"8" : [
+			[ "acolle" ],
+			[ "acolles" ],
+			[ "acolle" ],
+			[ "acollemos" ],
+			[ "acolléis", "acollen" ],
+			[ "acollen" ]
+		],
+		"9" : [
+			[ "acollara" ],
+			[ "acollaras" ],
+			[ "acollara" ],
+			[ "acolláramos" ],
+			[ "acollarais", "acollaran" ],
+			[ "acollaran" ]
+		],
+		"10" : [
+			[ "acollase" ],
+			[ "acollases" ],
+			[ "acollase" ],
+			[ "acollásemos" ],
+			[ "acollaseis", "acollasen" ],
+			[ "acollasen" ]
+		],
+		"11" : [
+			[ "acollare" ],
+			[ "acollares" ],
+			[ "acollare" ],
+			[ "acolláremos" ],
+			[ "acollareis", "acollaren" ],
+			[ "acollaren" ]
+		],
+		"12" : {
+			"1" : [ "acolla" ],
+			"2" : [ "acolle" ],
+			"3" : [ "acollemos" ],
+			"4" : [ "acollad" ],
+			"5" : [ "acollen" ]
+		}
+	}
+}

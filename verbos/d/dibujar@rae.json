@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dibujar",
+	"word" : "dibujar",
+	"infinitivo" : "dibujar",
+	"participio" : [ "dibujado" ],
+	"gerundio" : [ "dibujando" ],
+	"tenses" : {
+		"3" : [
+			[ "dibujo" ],
+			[ "dibujas", "dibujás" ],
+			[ "dibuja" ],
+			[ "dibujamos" ],
+			[ "dibujáis", "dibujan" ],
+			[ "dibujan" ]
+		],
+		"4" : [
+			[ "dibujé" ],
+			[ "dibujaste" ],
+			[ "dibujó" ],
+			[ "dibujamos" ],
+			[ "dibujasteis", "dibujaron" ],
+			[ "dibujaron" ]
+		],
+		"5" : [
+			[ "dibujaba" ],
+			[ "dibujabas" ],
+			[ "dibujaba" ],
+			[ "dibujábamos" ],
+			[ "dibujabais", "dibujaban" ],
+			[ "dibujaban" ]
+		],
+		"6" : [
+			[ "dibujaría" ],
+			[ "dibujarías" ],
+			[ "dibujaría" ],
+			[ "dibujaríamos" ],
+			[ "dibujaríais", "dibujarían" ],
+			[ "dibujarían" ]
+		],
+		"7" : [
+			[ "dibujaré" ],
+			[ "dibujarás" ],
+			[ "dibujará" ],
+			[ "dibujaremos" ],
+			[ "dibujaréis", "dibujarán" ],
+			[ "dibujarán" ]
+		],
+		"8" : [
+			[ "dibuje" ],
+			[ "dibujes" ],
+			[ "dibuje" ],
+			[ "dibujemos" ],
+			[ "dibujéis", "dibujen" ],
+			[ "dibujen" ]
+		],
+		"9" : [
+			[ "dibujara" ],
+			[ "dibujaras" ],
+			[ "dibujara" ],
+			[ "dibujáramos" ],
+			[ "dibujarais", "dibujaran" ],
+			[ "dibujaran" ]
+		],
+		"10" : [
+			[ "dibujase" ],
+			[ "dibujases" ],
+			[ "dibujase" ],
+			[ "dibujásemos" ],
+			[ "dibujaseis", "dibujasen" ],
+			[ "dibujasen" ]
+		],
+		"11" : [
+			[ "dibujare" ],
+			[ "dibujares" ],
+			[ "dibujare" ],
+			[ "dibujáremos" ],
+			[ "dibujareis", "dibujaren" ],
+			[ "dibujaren" ]
+		],
+		"12" : {
+			"1" : [ "dibuja" ],
+			"2" : [ "dibuje" ],
+			"3" : [ "dibujemos" ],
+			"4" : [ "dibujad" ],
+			"5" : [ "dibujen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abandonar",
+	"word" : "abandonar",
+	"infinitivo" : "abandonar",
+	"participio" : [ "abandonado" ],
+	"gerundio" : [ "abandonando" ],
+	"tenses" : {
+		"3" : [
+			[ "abandono" ],
+			[ "abandonas", "abandonás" ],
+			[ "abandona" ],
+			[ "abandonamos" ],
+			[ "abandonáis", "abandonan" ],
+			[ "abandonan" ]
+		],
+		"4" : [
+			[ "abandoné" ],
+			[ "abandonaste" ],
+			[ "abandonó" ],
+			[ "abandonamos" ],
+			[ "abandonasteis", "abandonaron" ],
+			[ "abandonaron" ]
+		],
+		"5" : [
+			[ "abandonaba" ],
+			[ "abandonabas" ],
+			[ "abandonaba" ],
+			[ "abandonábamos" ],
+			[ "abandonabais", "abandonaban" ],
+			[ "abandonaban" ]
+		],
+		"6" : [
+			[ "abandonaría" ],
+			[ "abandonarías" ],
+			[ "abandonaría" ],
+			[ "abandonaríamos" ],
+			[ "abandonaríais", "abandonarían" ],
+			[ "abandonarían" ]
+		],
+		"7" : [
+			[ "abandonaré" ],
+			[ "abandonarás" ],
+			[ "abandonará" ],
+			[ "abandonaremos" ],
+			[ "abandonaréis", "abandonarán" ],
+			[ "abandonarán" ]
+		],
+		"8" : [
+			[ "abandone" ],
+			[ "abandones" ],
+			[ "abandone" ],
+			[ "abandonemos" ],
+			[ "abandonéis", "abandonen" ],
+			[ "abandonen" ]
+		],
+		"9" : [
+			[ "abandonara" ],
+			[ "abandonaras" ],
+			[ "abandonara" ],
+			[ "abandonáramos" ],
+			[ "abandonarais", "abandonaran" ],
+			[ "abandonaran" ]
+		],
+		"10" : [
+			[ "abandonase" ],
+			[ "abandonases" ],
+			[ "abandonase" ],
+			[ "abandonásemos" ],
+			[ "abandonaseis", "abandonasen" ],
+			[ "abandonasen" ]
+		],
+		"11" : [
+			[ "abandonare" ],
+			[ "abandonares" ],
+			[ "abandonare" ],
+			[ "abandonáremos" ],
+			[ "abandonareis", "abandonaren" ],
+			[ "abandonaren" ]
+		],
+		"12" : {
+			"1" : [ "abandona" ],
+			"2" : [ "abandone" ],
+			"3" : [ "abandonemos" ],
+			"4" : [ "abandonad" ],
+			"5" : [ "abandonen" ]
+		}
+	}
+}

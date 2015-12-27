@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recurrir",
+	"word" : "recurrir",
+	"infinitivo" : "recurrir",
+	"participio" : [ "recurrido" ],
+	"gerundio" : [ "recurriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "recurro" ],
+			[ "recurres", "recurrís" ],
+			[ "recurre" ],
+			[ "recurrimos" ],
+			[ "recurrís", "recurren" ],
+			[ "recurren" ]
+		],
+		"4" : [
+			[ "recurrí" ],
+			[ "recurriste" ],
+			[ "recurrió" ],
+			[ "recurrimos" ],
+			[ "recurristeis", "recurrieron" ],
+			[ "recurrieron" ]
+		],
+		"5" : [
+			[ "recurría" ],
+			[ "recurrías" ],
+			[ "recurría" ],
+			[ "recurríamos" ],
+			[ "recurríais", "recurrían" ],
+			[ "recurrían" ]
+		],
+		"6" : [
+			[ "recurriría" ],
+			[ "recurrirías" ],
+			[ "recurriría" ],
+			[ "recurriríamos" ],
+			[ "recurriríais", "recurrirían" ],
+			[ "recurrirían" ]
+		],
+		"7" : [
+			[ "recurriré" ],
+			[ "recurrirás" ],
+			[ "recurrirá" ],
+			[ "recurriremos" ],
+			[ "recurriréis", "recurrirán" ],
+			[ "recurrirán" ]
+		],
+		"8" : [
+			[ "recurra" ],
+			[ "recurras" ],
+			[ "recurra" ],
+			[ "recurramos" ],
+			[ "recurráis", "recurran" ],
+			[ "recurran" ]
+		],
+		"9" : [
+			[ "recurriera" ],
+			[ "recurrieras" ],
+			[ "recurriera" ],
+			[ "recurriéramos" ],
+			[ "recurrierais", "recurrieran" ],
+			[ "recurrieran" ]
+		],
+		"10" : [
+			[ "recurriese" ],
+			[ "recurrieses" ],
+			[ "recurriese" ],
+			[ "recurriésemos" ],
+			[ "recurrieseis", "recurriesen" ],
+			[ "recurriesen" ]
+		],
+		"11" : [
+			[ "recurriere" ],
+			[ "recurrieres" ],
+			[ "recurriere" ],
+			[ "recurriéremos" ],
+			[ "recurriereis", "recurrieren" ],
+			[ "recurrieren" ]
+		],
+		"12" : {
+			"1" : [ "recurre" ],
+			"2" : [ "recurra" ],
+			"3" : [ "recurramos" ],
+			"4" : [ "recurrid" ],
+			"5" : [ "recurran" ]
+		}
+	}
+}

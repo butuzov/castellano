@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=invitar",
+	"word" : "invitar",
+	"infinitivo" : "invitar",
+	"participio" : [ "invitado" ],
+	"gerundio" : [ "invitando" ],
+	"tenses" : {
+		"3" : [
+			[ "invito" ],
+			[ "invitas", "invitás" ],
+			[ "invita" ],
+			[ "invitamos" ],
+			[ "invitáis", "invitan" ],
+			[ "invitan" ]
+		],
+		"4" : [
+			[ "invité" ],
+			[ "invitaste" ],
+			[ "invitó" ],
+			[ "invitamos" ],
+			[ "invitasteis", "invitaron" ],
+			[ "invitaron" ]
+		],
+		"5" : [
+			[ "invitaba" ],
+			[ "invitabas" ],
+			[ "invitaba" ],
+			[ "invitábamos" ],
+			[ "invitabais", "invitaban" ],
+			[ "invitaban" ]
+		],
+		"6" : [
+			[ "invitaría" ],
+			[ "invitarías" ],
+			[ "invitaría" ],
+			[ "invitaríamos" ],
+			[ "invitaríais", "invitarían" ],
+			[ "invitarían" ]
+		],
+		"7" : [
+			[ "invitaré" ],
+			[ "invitarás" ],
+			[ "invitará" ],
+			[ "invitaremos" ],
+			[ "invitaréis", "invitarán" ],
+			[ "invitarán" ]
+		],
+		"8" : [
+			[ "invite" ],
+			[ "invites" ],
+			[ "invite" ],
+			[ "invitemos" ],
+			[ "invitéis", "inviten" ],
+			[ "inviten" ]
+		],
+		"9" : [
+			[ "invitara" ],
+			[ "invitaras" ],
+			[ "invitara" ],
+			[ "invitáramos" ],
+			[ "invitarais", "invitaran" ],
+			[ "invitaran" ]
+		],
+		"10" : [
+			[ "invitase" ],
+			[ "invitases" ],
+			[ "invitase" ],
+			[ "invitásemos" ],
+			[ "invitaseis", "invitasen" ],
+			[ "invitasen" ]
+		],
+		"11" : [
+			[ "invitare" ],
+			[ "invitares" ],
+			[ "invitare" ],
+			[ "invitáremos" ],
+			[ "invitareis", "invitaren" ],
+			[ "invitaren" ]
+		],
+		"12" : {
+			"1" : [ "invita" ],
+			"2" : [ "invite" ],
+			"3" : [ "invitemos" ],
+			"4" : [ "invitad" ],
+			"5" : [ "inviten" ]
+		}
+	}
+}

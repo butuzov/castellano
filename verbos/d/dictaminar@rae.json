@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dictaminar",
+	"word" : "dictaminar",
+	"infinitivo" : "dictaminar",
+	"participio" : [ "dictaminado" ],
+	"gerundio" : [ "dictaminando" ],
+	"tenses" : {
+		"3" : [
+			[ "dictamino" ],
+			[ "dictaminas", "dictaminás" ],
+			[ "dictamina" ],
+			[ "dictaminamos" ],
+			[ "dictamináis", "dictaminan" ],
+			[ "dictaminan" ]
+		],
+		"4" : [
+			[ "dictaminé" ],
+			[ "dictaminaste" ],
+			[ "dictaminó" ],
+			[ "dictaminamos" ],
+			[ "dictaminasteis", "dictaminaron" ],
+			[ "dictaminaron" ]
+		],
+		"5" : [
+			[ "dictaminaba" ],
+			[ "dictaminabas" ],
+			[ "dictaminaba" ],
+			[ "dictaminábamos" ],
+			[ "dictaminabais", "dictaminaban" ],
+			[ "dictaminaban" ]
+		],
+		"6" : [
+			[ "dictaminaría" ],
+			[ "dictaminarías" ],
+			[ "dictaminaría" ],
+			[ "dictaminaríamos" ],
+			[ "dictaminaríais", "dictaminarían" ],
+			[ "dictaminarían" ]
+		],
+		"7" : [
+			[ "dictaminaré" ],
+			[ "dictaminarás" ],
+			[ "dictaminará" ],
+			[ "dictaminaremos" ],
+			[ "dictaminaréis", "dictaminarán" ],
+			[ "dictaminarán" ]
+		],
+		"8" : [
+			[ "dictamine" ],
+			[ "dictamines" ],
+			[ "dictamine" ],
+			[ "dictaminemos" ],
+			[ "dictaminéis", "dictaminen" ],
+			[ "dictaminen" ]
+		],
+		"9" : [
+			[ "dictaminara" ],
+			[ "dictaminaras" ],
+			[ "dictaminara" ],
+			[ "dictamináramos" ],
+			[ "dictaminarais", "dictaminaran" ],
+			[ "dictaminaran" ]
+		],
+		"10" : [
+			[ "dictaminase" ],
+			[ "dictaminases" ],
+			[ "dictaminase" ],
+			[ "dictaminásemos" ],
+			[ "dictaminaseis", "dictaminasen" ],
+			[ "dictaminasen" ]
+		],
+		"11" : [
+			[ "dictaminare" ],
+			[ "dictaminares" ],
+			[ "dictaminare" ],
+			[ "dictamináremos" ],
+			[ "dictaminareis", "dictaminaren" ],
+			[ "dictaminaren" ]
+		],
+		"12" : {
+			"1" : [ "dictamina" ],
+			"2" : [ "dictamine" ],
+			"3" : [ "dictaminemos" ],
+			"4" : [ "dictaminad" ],
+			"5" : [ "dictaminen" ]
+		}
+	}
+}

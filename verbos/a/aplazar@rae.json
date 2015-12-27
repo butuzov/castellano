@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aplazar",
+	"word" : "aplazar",
+	"infinitivo" : "aplazar",
+	"participio" : [ "aplazado" ],
+	"gerundio" : [ "aplazando" ],
+	"tenses" : {
+		"3" : [
+			[ "aplazo" ],
+			[ "aplazas", "aplazás" ],
+			[ "aplaza" ],
+			[ "aplazamos" ],
+			[ "aplazáis", "aplazan" ],
+			[ "aplazan" ]
+		],
+		"4" : [
+			[ "aplacé" ],
+			[ "aplazaste" ],
+			[ "aplazó" ],
+			[ "aplazamos" ],
+			[ "aplazasteis", "aplazaron" ],
+			[ "aplazaron" ]
+		],
+		"5" : [
+			[ "aplazaba" ],
+			[ "aplazabas" ],
+			[ "aplazaba" ],
+			[ "aplazábamos" ],
+			[ "aplazabais", "aplazaban" ],
+			[ "aplazaban" ]
+		],
+		"6" : [
+			[ "aplazaría" ],
+			[ "aplazarías" ],
+			[ "aplazaría" ],
+			[ "aplazaríamos" ],
+			[ "aplazaríais", "aplazarían" ],
+			[ "aplazarían" ]
+		],
+		"7" : [
+			[ "aplazaré" ],
+			[ "aplazarás" ],
+			[ "aplazará" ],
+			[ "aplazaremos" ],
+			[ "aplazaréis", "aplazarán" ],
+			[ "aplazarán" ]
+		],
+		"8" : [
+			[ "aplace" ],
+			[ "aplaces" ],
+			[ "aplace" ],
+			[ "aplacemos" ],
+			[ "aplacéis", "aplacen" ],
+			[ "aplacen" ]
+		],
+		"9" : [
+			[ "aplazara" ],
+			[ "aplazaras" ],
+			[ "aplazara" ],
+			[ "aplazáramos" ],
+			[ "aplazarais", "aplazaran" ],
+			[ "aplazaran" ]
+		],
+		"10" : [
+			[ "aplazase" ],
+			[ "aplazases" ],
+			[ "aplazase" ],
+			[ "aplazásemos" ],
+			[ "aplazaseis", "aplazasen" ],
+			[ "aplazasen" ]
+		],
+		"11" : [
+			[ "aplazare" ],
+			[ "aplazares" ],
+			[ "aplazare" ],
+			[ "aplazáremos" ],
+			[ "aplazareis", "aplazaren" ],
+			[ "aplazaren" ]
+		],
+		"12" : {
+			"1" : [ "aplaza" ],
+			"2" : [ "aplace" ],
+			"3" : [ "aplacemos" ],
+			"4" : [ "aplazad" ],
+			"5" : [ "aplacen" ]
+		}
+	}
+}

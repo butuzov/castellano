@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=realizar",
+	"word" : "realizar",
+	"infinitivo" : "realizar",
+	"participio" : [ "realizado" ],
+	"gerundio" : [ "realizando" ],
+	"tenses" : {
+		"3" : [
+			[ "realizo" ],
+			[ "realizas", "realizás" ],
+			[ "realiza" ],
+			[ "realizamos" ],
+			[ "realizáis", "realizan" ],
+			[ "realizan" ]
+		],
+		"4" : [
+			[ "realicé" ],
+			[ "realizaste" ],
+			[ "realizó" ],
+			[ "realizamos" ],
+			[ "realizasteis", "realizaron" ],
+			[ "realizaron" ]
+		],
+		"5" : [
+			[ "realizaba" ],
+			[ "realizabas" ],
+			[ "realizaba" ],
+			[ "realizábamos" ],
+			[ "realizabais", "realizaban" ],
+			[ "realizaban" ]
+		],
+		"6" : [
+			[ "realizaría" ],
+			[ "realizarías" ],
+			[ "realizaría" ],
+			[ "realizaríamos" ],
+			[ "realizaríais", "realizarían" ],
+			[ "realizarían" ]
+		],
+		"7" : [
+			[ "realizaré" ],
+			[ "realizarás" ],
+			[ "realizará" ],
+			[ "realizaremos" ],
+			[ "realizaréis", "realizarán" ],
+			[ "realizarán" ]
+		],
+		"8" : [
+			[ "realice" ],
+			[ "realices" ],
+			[ "realice" ],
+			[ "realicemos" ],
+			[ "realicéis", "realicen" ],
+			[ "realicen" ]
+		],
+		"9" : [
+			[ "realizara" ],
+			[ "realizaras" ],
+			[ "realizara" ],
+			[ "realizáramos" ],
+			[ "realizarais", "realizaran" ],
+			[ "realizaran" ]
+		],
+		"10" : [
+			[ "realizase" ],
+			[ "realizases" ],
+			[ "realizase" ],
+			[ "realizásemos" ],
+			[ "realizaseis", "realizasen" ],
+			[ "realizasen" ]
+		],
+		"11" : [
+			[ "realizare" ],
+			[ "realizares" ],
+			[ "realizare" ],
+			[ "realizáremos" ],
+			[ "realizareis", "realizaren" ],
+			[ "realizaren" ]
+		],
+		"12" : {
+			"1" : [ "realiza" ],
+			"2" : [ "realice" ],
+			"3" : [ "realicemos" ],
+			"4" : [ "realizad" ],
+			"5" : [ "realicen" ]
+		}
+	}
+}

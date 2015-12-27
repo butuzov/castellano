@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=plisar",
+	"word" : "plisar",
+	"infinitivo" : "plisar",
+	"participio" : [ "plisado" ],
+	"gerundio" : [ "plisando" ],
+	"tenses" : {
+		"3" : [
+			[ "pliso" ],
+			[ "plisas", "plisás" ],
+			[ "plisa" ],
+			[ "plisamos" ],
+			[ "plisáis", "plisan" ],
+			[ "plisan" ]
+		],
+		"4" : [
+			[ "plisé" ],
+			[ "plisaste" ],
+			[ "plisó" ],
+			[ "plisamos" ],
+			[ "plisasteis", "plisaron" ],
+			[ "plisaron" ]
+		],
+		"5" : [
+			[ "plisaba" ],
+			[ "plisabas" ],
+			[ "plisaba" ],
+			[ "plisábamos" ],
+			[ "plisabais", "plisaban" ],
+			[ "plisaban" ]
+		],
+		"6" : [
+			[ "plisaría" ],
+			[ "plisarías" ],
+			[ "plisaría" ],
+			[ "plisaríamos" ],
+			[ "plisaríais", "plisarían" ],
+			[ "plisarían" ]
+		],
+		"7" : [
+			[ "plisaré" ],
+			[ "plisarás" ],
+			[ "plisará" ],
+			[ "plisaremos" ],
+			[ "plisaréis", "plisarán" ],
+			[ "plisarán" ]
+		],
+		"8" : [
+			[ "plise" ],
+			[ "plises" ],
+			[ "plise" ],
+			[ "plisemos" ],
+			[ "pliséis", "plisen" ],
+			[ "plisen" ]
+		],
+		"9" : [
+			[ "plisara" ],
+			[ "plisaras" ],
+			[ "plisara" ],
+			[ "plisáramos" ],
+			[ "plisarais", "plisaran" ],
+			[ "plisaran" ]
+		],
+		"10" : [
+			[ "plisase" ],
+			[ "plisases" ],
+			[ "plisase" ],
+			[ "plisásemos" ],
+			[ "plisaseis", "plisasen" ],
+			[ "plisasen" ]
+		],
+		"11" : [
+			[ "plisare" ],
+			[ "plisares" ],
+			[ "plisare" ],
+			[ "plisáremos" ],
+			[ "plisareis", "plisaren" ],
+			[ "plisaren" ]
+		],
+		"12" : {
+			"1" : [ "plisa" ],
+			"2" : [ "plise" ],
+			"3" : [ "plisemos" ],
+			"4" : [ "plisad" ],
+			"5" : [ "plisen" ]
+		}
+	}
+}

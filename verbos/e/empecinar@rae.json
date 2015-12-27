@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empecinar",
+	"word" : "empecinar",
+	"infinitivo" : "empecinar",
+	"participio" : [ "empecinado" ],
+	"gerundio" : [ "empecinando" ],
+	"tenses" : {
+		"3" : [
+			[ "empecino" ],
+			[ "empecinas", "empecinás" ],
+			[ "empecina" ],
+			[ "empecinamos" ],
+			[ "empecináis", "empecinan" ],
+			[ "empecinan" ]
+		],
+		"4" : [
+			[ "empeciné" ],
+			[ "empecinaste" ],
+			[ "empecinó" ],
+			[ "empecinamos" ],
+			[ "empecinasteis", "empecinaron" ],
+			[ "empecinaron" ]
+		],
+		"5" : [
+			[ "empecinaba" ],
+			[ "empecinabas" ],
+			[ "empecinaba" ],
+			[ "empecinábamos" ],
+			[ "empecinabais", "empecinaban" ],
+			[ "empecinaban" ]
+		],
+		"6" : [
+			[ "empecinaría" ],
+			[ "empecinarías" ],
+			[ "empecinaría" ],
+			[ "empecinaríamos" ],
+			[ "empecinaríais", "empecinarían" ],
+			[ "empecinarían" ]
+		],
+		"7" : [
+			[ "empecinaré" ],
+			[ "empecinarás" ],
+			[ "empecinará" ],
+			[ "empecinaremos" ],
+			[ "empecinaréis", "empecinarán" ],
+			[ "empecinarán" ]
+		],
+		"8" : [
+			[ "empecine" ],
+			[ "empecines" ],
+			[ "empecine" ],
+			[ "empecinemos" ],
+			[ "empecinéis", "empecinen" ],
+			[ "empecinen" ]
+		],
+		"9" : [
+			[ "empecinara" ],
+			[ "empecinaras" ],
+			[ "empecinara" ],
+			[ "empecináramos" ],
+			[ "empecinarais", "empecinaran" ],
+			[ "empecinaran" ]
+		],
+		"10" : [
+			[ "empecinase" ],
+			[ "empecinases" ],
+			[ "empecinase" ],
+			[ "empecinásemos" ],
+			[ "empecinaseis", "empecinasen" ],
+			[ "empecinasen" ]
+		],
+		"11" : [
+			[ "empecinare" ],
+			[ "empecinares" ],
+			[ "empecinare" ],
+			[ "empecináremos" ],
+			[ "empecinareis", "empecinaren" ],
+			[ "empecinaren" ]
+		],
+		"12" : {
+			"1" : [ "empecina" ],
+			"2" : [ "empecine" ],
+			"3" : [ "empecinemos" ],
+			"4" : [ "empecinad" ],
+			"5" : [ "empecinen" ]
+		}
+	}
+}

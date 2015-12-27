@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=multiplicar",
+	"word" : "multiplicar",
+	"infinitivo" : "multiplicar",
+	"participio" : [ "multiplicado" ],
+	"gerundio" : [ "multiplicando" ],
+	"tenses" : {
+		"3" : [
+			[ "multiplico" ],
+			[ "multiplicas", "multiplicás" ],
+			[ "multiplica" ],
+			[ "multiplicamos" ],
+			[ "multiplicáis", "multiplican" ],
+			[ "multiplican" ]
+		],
+		"4" : [
+			[ "multipliqué" ],
+			[ "multiplicaste" ],
+			[ "multiplicó" ],
+			[ "multiplicamos" ],
+			[ "multiplicasteis", "multiplicaron" ],
+			[ "multiplicaron" ]
+		],
+		"5" : [
+			[ "multiplicaba" ],
+			[ "multiplicabas" ],
+			[ "multiplicaba" ],
+			[ "multiplicábamos" ],
+			[ "multiplicabais", "multiplicaban" ],
+			[ "multiplicaban" ]
+		],
+		"6" : [
+			[ "multiplicaría" ],
+			[ "multiplicarías" ],
+			[ "multiplicaría" ],
+			[ "multiplicaríamos" ],
+			[ "multiplicaríais", "multiplicarían" ],
+			[ "multiplicarían" ]
+		],
+		"7" : [
+			[ "multiplicaré" ],
+			[ "multiplicarás" ],
+			[ "multiplicará" ],
+			[ "multiplicaremos" ],
+			[ "multiplicaréis", "multiplicarán" ],
+			[ "multiplicarán" ]
+		],
+		"8" : [
+			[ "multiplique" ],
+			[ "multipliques" ],
+			[ "multiplique" ],
+			[ "multipliquemos" ],
+			[ "multipliquéis", "multipliquen" ],
+			[ "multipliquen" ]
+		],
+		"9" : [
+			[ "multiplicara" ],
+			[ "multiplicaras" ],
+			[ "multiplicara" ],
+			[ "multiplicáramos" ],
+			[ "multiplicarais", "multiplicaran" ],
+			[ "multiplicaran" ]
+		],
+		"10" : [
+			[ "multiplicase" ],
+			[ "multiplicases" ],
+			[ "multiplicase" ],
+			[ "multiplicásemos" ],
+			[ "multiplicaseis", "multiplicasen" ],
+			[ "multiplicasen" ]
+		],
+		"11" : [
+			[ "multiplicare" ],
+			[ "multiplicares" ],
+			[ "multiplicare" ],
+			[ "multiplicáremos" ],
+			[ "multiplicareis", "multiplicaren" ],
+			[ "multiplicaren" ]
+		],
+		"12" : {
+			"1" : [ "multiplica" ],
+			"2" : [ "multiplique" ],
+			"3" : [ "multipliquemos" ],
+			"4" : [ "multiplicad" ],
+			"5" : [ "multipliquen" ]
+		}
+	}
+}

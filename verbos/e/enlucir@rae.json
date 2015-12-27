@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enlucir",
+	"word" : "enlucir",
+	"infinitivo" : "enlucir",
+	"participio" : [ "enlucido" ],
+	"gerundio" : [ "enluciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "enluzco" ],
+			[ "enluces", "enlucís" ],
+			[ "enluce" ],
+			[ "enlucimos" ],
+			[ "enlucís", "enlucen" ],
+			[ "enlucen" ]
+		],
+		"4" : [
+			[ "enlucí" ],
+			[ "enluciste" ],
+			[ "enlució" ],
+			[ "enlucimos" ],
+			[ "enlucisteis", "enlucieron" ],
+			[ "enlucieron" ]
+		],
+		"5" : [
+			[ "enlucía" ],
+			[ "enlucías" ],
+			[ "enlucía" ],
+			[ "enlucíamos" ],
+			[ "enlucíais", "enlucían" ],
+			[ "enlucían" ]
+		],
+		"6" : [
+			[ "enluciría" ],
+			[ "enlucirías" ],
+			[ "enluciría" ],
+			[ "enluciríamos" ],
+			[ "enluciríais", "enlucirían" ],
+			[ "enlucirían" ]
+		],
+		"7" : [
+			[ "enluciré" ],
+			[ "enlucirás" ],
+			[ "enlucirá" ],
+			[ "enluciremos" ],
+			[ "enluciréis", "enlucirán" ],
+			[ "enlucirán" ]
+		],
+		"8" : [
+			[ "enluzca" ],
+			[ "enluzcas" ],
+			[ "enluzca" ],
+			[ "enluzcamos" ],
+			[ "enluzcáis", "enluzcan" ],
+			[ "enluzcan" ]
+		],
+		"9" : [
+			[ "enluciera" ],
+			[ "enlucieras" ],
+			[ "enluciera" ],
+			[ "enluciéramos" ],
+			[ "enlucierais", "enlucieran" ],
+			[ "enlucieran" ]
+		],
+		"10" : [
+			[ "enluciese" ],
+			[ "enlucieses" ],
+			[ "enluciese" ],
+			[ "enluciésemos" ],
+			[ "enlucieseis", "enluciesen" ],
+			[ "enluciesen" ]
+		],
+		"11" : [
+			[ "enluciere" ],
+			[ "enlucieres" ],
+			[ "enluciere" ],
+			[ "enluciéremos" ],
+			[ "enluciereis", "enlucieren" ],
+			[ "enlucieren" ]
+		],
+		"12" : {
+			"1" : [ "enluce" ],
+			"2" : [ "enluzca" ],
+			"3" : [ "enluzcamos" ],
+			"4" : [ "enlucid" ],
+			"5" : [ "enluzcan" ]
+		}
+	}
+}

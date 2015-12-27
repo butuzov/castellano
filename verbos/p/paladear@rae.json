@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=paladear",
+	"word" : "paladear",
+	"infinitivo" : "paladear",
+	"participio" : [ "paladeado" ],
+	"gerundio" : [ "paladeando" ],
+	"tenses" : {
+		"3" : [
+			[ "paladeo" ],
+			[ "paladeas", "paladeás" ],
+			[ "paladea" ],
+			[ "paladeamos" ],
+			[ "paladeáis", "paladean" ],
+			[ "paladean" ]
+		],
+		"4" : [
+			[ "paladeé" ],
+			[ "paladeaste" ],
+			[ "paladeó" ],
+			[ "paladeamos" ],
+			[ "paladeasteis", "paladearon" ],
+			[ "paladearon" ]
+		],
+		"5" : [
+			[ "paladeaba" ],
+			[ "paladeabas" ],
+			[ "paladeaba" ],
+			[ "paladeábamos" ],
+			[ "paladeabais", "paladeaban" ],
+			[ "paladeaban" ]
+		],
+		"6" : [
+			[ "paladearía" ],
+			[ "paladearías" ],
+			[ "paladearía" ],
+			[ "paladearíamos" ],
+			[ "paladearíais", "paladearían" ],
+			[ "paladearían" ]
+		],
+		"7" : [
+			[ "paladearé" ],
+			[ "paladearás" ],
+			[ "paladeará" ],
+			[ "paladearemos" ],
+			[ "paladearéis", "paladearán" ],
+			[ "paladearán" ]
+		],
+		"8" : [
+			[ "paladee" ],
+			[ "paladees" ],
+			[ "paladee" ],
+			[ "paladeemos" ],
+			[ "paladeéis", "paladeen" ],
+			[ "paladeen" ]
+		],
+		"9" : [
+			[ "paladeara" ],
+			[ "paladearas" ],
+			[ "paladeara" ],
+			[ "paladeáramos" ],
+			[ "paladearais", "paladearan" ],
+			[ "paladearan" ]
+		],
+		"10" : [
+			[ "paladease" ],
+			[ "paladeases" ],
+			[ "paladease" ],
+			[ "paladeásemos" ],
+			[ "paladeaseis", "paladeasen" ],
+			[ "paladeasen" ]
+		],
+		"11" : [
+			[ "paladeare" ],
+			[ "paladeares" ],
+			[ "paladeare" ],
+			[ "paladeáremos" ],
+			[ "paladeareis", "paladearen" ],
+			[ "paladearen" ]
+		],
+		"12" : {
+			"1" : [ "paladea" ],
+			"2" : [ "paladee" ],
+			"3" : [ "paladeemos" ],
+			"4" : [ "paladead" ],
+			"5" : [ "paladeen" ]
+		}
+	}
+}

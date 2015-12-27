@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=valuar",
+	"word" : "valuar",
+	"infinitivo" : "valuar",
+	"participio" : [ "valuado" ],
+	"gerundio" : [ "valuando" ],
+	"tenses" : {
+		"3" : [
+			[ "valúo" ],
+			[ "valúas", "valuás" ],
+			[ "valúa" ],
+			[ "valuamos" ],
+			[ "valuáis", "valúan" ],
+			[ "valúan" ]
+		],
+		"4" : [
+			[ "valué" ],
+			[ "valuaste" ],
+			[ "valuó" ],
+			[ "valuamos" ],
+			[ "valuasteis", "valuaron" ],
+			[ "valuaron" ]
+		],
+		"5" : [
+			[ "valuaba" ],
+			[ "valuabas" ],
+			[ "valuaba" ],
+			[ "valuábamos" ],
+			[ "valuabais", "valuaban" ],
+			[ "valuaban" ]
+		],
+		"6" : [
+			[ "valuaría" ],
+			[ "valuarías" ],
+			[ "valuaría" ],
+			[ "valuaríamos" ],
+			[ "valuaríais", "valuarían" ],
+			[ "valuarían" ]
+		],
+		"7" : [
+			[ "valuaré" ],
+			[ "valuarás" ],
+			[ "valuará" ],
+			[ "valuaremos" ],
+			[ "valuaréis", "valuarán" ],
+			[ "valuarán" ]
+		],
+		"8" : [
+			[ "valúe" ],
+			[ "valúes" ],
+			[ "valúe" ],
+			[ "valuemos" ],
+			[ "valuéis", "valúen" ],
+			[ "valúen" ]
+		],
+		"9" : [
+			[ "valuara" ],
+			[ "valuaras" ],
+			[ "valuara" ],
+			[ "valuáramos" ],
+			[ "valuarais", "valuaran" ],
+			[ "valuaran" ]
+		],
+		"10" : [
+			[ "valuase" ],
+			[ "valuases" ],
+			[ "valuase" ],
+			[ "valuásemos" ],
+			[ "valuaseis", "valuasen" ],
+			[ "valuasen" ]
+		],
+		"11" : [
+			[ "valuare" ],
+			[ "valuares" ],
+			[ "valuare" ],
+			[ "valuáremos" ],
+			[ "valuareis", "valuaren" ],
+			[ "valuaren" ]
+		],
+		"12" : {
+			"1" : [ "valúa" ],
+			"2" : [ "valúe" ],
+			"3" : [ "valuemos" ],
+			"4" : [ "valuad" ],
+			"5" : [ "valúen" ]
+		}
+	}
+}

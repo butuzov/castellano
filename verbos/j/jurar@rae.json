@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=jurar",
+	"word" : "jurar",
+	"infinitivo" : "jurar",
+	"participio" : [ "jurado" ],
+	"gerundio" : [ "jurando" ],
+	"tenses" : {
+		"3" : [
+			[ "juro" ],
+			[ "juras", "jurás" ],
+			[ "jura" ],
+			[ "juramos" ],
+			[ "juráis", "juran" ],
+			[ "juran" ]
+		],
+		"4" : [
+			[ "juré" ],
+			[ "juraste" ],
+			[ "juró" ],
+			[ "juramos" ],
+			[ "jurasteis", "juraron" ],
+			[ "juraron" ]
+		],
+		"5" : [
+			[ "juraba" ],
+			[ "jurabas" ],
+			[ "juraba" ],
+			[ "jurábamos" ],
+			[ "jurabais", "juraban" ],
+			[ "juraban" ]
+		],
+		"6" : [
+			[ "juraría" ],
+			[ "jurarías" ],
+			[ "juraría" ],
+			[ "juraríamos" ],
+			[ "juraríais", "jurarían" ],
+			[ "jurarían" ]
+		],
+		"7" : [
+			[ "juraré" ],
+			[ "jurarás" ],
+			[ "jurará" ],
+			[ "juraremos" ],
+			[ "juraréis", "jurarán" ],
+			[ "jurarán" ]
+		],
+		"8" : [
+			[ "jure" ],
+			[ "jures" ],
+			[ "jure" ],
+			[ "juremos" ],
+			[ "juréis", "juren" ],
+			[ "juren" ]
+		],
+		"9" : [
+			[ "jurara" ],
+			[ "juraras" ],
+			[ "jurara" ],
+			[ "juráramos" ],
+			[ "jurarais", "juraran" ],
+			[ "juraran" ]
+		],
+		"10" : [
+			[ "jurase" ],
+			[ "jurases" ],
+			[ "jurase" ],
+			[ "jurásemos" ],
+			[ "juraseis", "jurasen" ],
+			[ "jurasen" ]
+		],
+		"11" : [
+			[ "jurare" ],
+			[ "jurares" ],
+			[ "jurare" ],
+			[ "juráremos" ],
+			[ "jurareis", "juraren" ],
+			[ "juraren" ]
+		],
+		"12" : {
+			"1" : [ "jura" ],
+			"2" : [ "jure" ],
+			"3" : [ "juremos" ],
+			"4" : [ "jurad" ],
+			"5" : [ "juren" ]
+		}
+	}
+}

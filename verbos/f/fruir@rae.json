@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fruir",
+	"word" : "fruir",
+	"infinitivo" : "fruir",
+	"participio" : [ "fruido" ],
+	"gerundio" : [ "fruyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "fruyo" ],
+			[ "fruyes", "fruis" ],
+			[ "fruye" ],
+			[ "fruimos" ],
+			[ "fruis", "fruyen" ],
+			[ "fruyen" ]
+		],
+		"4" : [
+			[ "frui" ],
+			[ "fruiste" ],
+			[ "fruyó" ],
+			[ "fruimos" ],
+			[ "fruisteis", "fruyeron" ],
+			[ "fruyeron" ]
+		],
+		"5" : [
+			[ "fruía" ],
+			[ "fruías" ],
+			[ "fruía" ],
+			[ "fruíamos" ],
+			[ "fruíais", "fruían" ],
+			[ "fruían" ]
+		],
+		"6" : [
+			[ "fruiría" ],
+			[ "fruirías" ],
+			[ "fruiría" ],
+			[ "fruiríamos" ],
+			[ "fruiríais", "fruirían" ],
+			[ "fruirían" ]
+		],
+		"7" : [
+			[ "fruiré" ],
+			[ "fruirás" ],
+			[ "fruirá" ],
+			[ "fruiremos" ],
+			[ "fruiréis", "fruirán" ],
+			[ "fruirán" ]
+		],
+		"8" : [
+			[ "fruya" ],
+			[ "fruyas" ],
+			[ "fruya" ],
+			[ "fruyamos" ],
+			[ "fruyáis", "fruyan" ],
+			[ "fruyan" ]
+		],
+		"9" : [
+			[ "fruyera" ],
+			[ "fruyeras" ],
+			[ "fruyera" ],
+			[ "fruyéramos" ],
+			[ "fruyerais", "fruyeran" ],
+			[ "fruyeran" ]
+		],
+		"10" : [
+			[ "fruyese" ],
+			[ "fruyeses" ],
+			[ "fruyese" ],
+			[ "fruyésemos" ],
+			[ "fruyeseis", "fruyesen" ],
+			[ "fruyesen" ]
+		],
+		"11" : [
+			[ "fruyere" ],
+			[ "fruyeres" ],
+			[ "fruyere" ],
+			[ "fruyéremos" ],
+			[ "fruyereis", "fruyeren" ],
+			[ "fruyeren" ]
+		],
+		"12" : {
+			"1" : [ "fruye" ],
+			"2" : [ "fruya" ],
+			"3" : [ "fruyamos" ],
+			"4" : [ "fruid" ],
+			"5" : [ "fruyan" ]
+		}
+	}
+}

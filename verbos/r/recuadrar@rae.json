@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recuadrar",
+	"word" : "recuadrar",
+	"infinitivo" : "recuadrar",
+	"participio" : [ "recuadrado" ],
+	"gerundio" : [ "recuadrando" ],
+	"tenses" : {
+		"3" : [
+			[ "recuadro" ],
+			[ "recuadras", "recuadrás" ],
+			[ "recuadra" ],
+			[ "recuadramos" ],
+			[ "recuadráis", "recuadran" ],
+			[ "recuadran" ]
+		],
+		"4" : [
+			[ "recuadré" ],
+			[ "recuadraste" ],
+			[ "recuadró" ],
+			[ "recuadramos" ],
+			[ "recuadrasteis", "recuadraron" ],
+			[ "recuadraron" ]
+		],
+		"5" : [
+			[ "recuadraba" ],
+			[ "recuadrabas" ],
+			[ "recuadraba" ],
+			[ "recuadrábamos" ],
+			[ "recuadrabais", "recuadraban" ],
+			[ "recuadraban" ]
+		],
+		"6" : [
+			[ "recuadraría" ],
+			[ "recuadrarías" ],
+			[ "recuadraría" ],
+			[ "recuadraríamos" ],
+			[ "recuadraríais", "recuadrarían" ],
+			[ "recuadrarían" ]
+		],
+		"7" : [
+			[ "recuadraré" ],
+			[ "recuadrarás" ],
+			[ "recuadrará" ],
+			[ "recuadraremos" ],
+			[ "recuadraréis", "recuadrarán" ],
+			[ "recuadrarán" ]
+		],
+		"8" : [
+			[ "recuadre" ],
+			[ "recuadres" ],
+			[ "recuadre" ],
+			[ "recuadremos" ],
+			[ "recuadréis", "recuadren" ],
+			[ "recuadren" ]
+		],
+		"9" : [
+			[ "recuadrara" ],
+			[ "recuadraras" ],
+			[ "recuadrara" ],
+			[ "recuadráramos" ],
+			[ "recuadrarais", "recuadraran" ],
+			[ "recuadraran" ]
+		],
+		"10" : [
+			[ "recuadrase" ],
+			[ "recuadrases" ],
+			[ "recuadrase" ],
+			[ "recuadrásemos" ],
+			[ "recuadraseis", "recuadrasen" ],
+			[ "recuadrasen" ]
+		],
+		"11" : [
+			[ "recuadrare" ],
+			[ "recuadrares" ],
+			[ "recuadrare" ],
+			[ "recuadráremos" ],
+			[ "recuadrareis", "recuadraren" ],
+			[ "recuadraren" ]
+		],
+		"12" : {
+			"1" : [ "recuadra" ],
+			"2" : [ "recuadre" ],
+			"3" : [ "recuadremos" ],
+			"4" : [ "recuadrad" ],
+			"5" : [ "recuadren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=marchitar",
+	"word" : "marchitar",
+	"infinitivo" : "marchitar",
+	"participio" : [ "marchitado" ],
+	"gerundio" : [ "marchitando" ],
+	"tenses" : {
+		"3" : [
+			[ "marchito" ],
+			[ "marchitas", "marchitás" ],
+			[ "marchita" ],
+			[ "marchitamos" ],
+			[ "marchitáis", "marchitan" ],
+			[ "marchitan" ]
+		],
+		"4" : [
+			[ "marchité" ],
+			[ "marchitaste" ],
+			[ "marchitó" ],
+			[ "marchitamos" ],
+			[ "marchitasteis", "marchitaron" ],
+			[ "marchitaron" ]
+		],
+		"5" : [
+			[ "marchitaba" ],
+			[ "marchitabas" ],
+			[ "marchitaba" ],
+			[ "marchitábamos" ],
+			[ "marchitabais", "marchitaban" ],
+			[ "marchitaban" ]
+		],
+		"6" : [
+			[ "marchitaría" ],
+			[ "marchitarías" ],
+			[ "marchitaría" ],
+			[ "marchitaríamos" ],
+			[ "marchitaríais", "marchitarían" ],
+			[ "marchitarían" ]
+		],
+		"7" : [
+			[ "marchitaré" ],
+			[ "marchitarás" ],
+			[ "marchitará" ],
+			[ "marchitaremos" ],
+			[ "marchitaréis", "marchitarán" ],
+			[ "marchitarán" ]
+		],
+		"8" : [
+			[ "marchite" ],
+			[ "marchites" ],
+			[ "marchite" ],
+			[ "marchitemos" ],
+			[ "marchitéis", "marchiten" ],
+			[ "marchiten" ]
+		],
+		"9" : [
+			[ "marchitara" ],
+			[ "marchitaras" ],
+			[ "marchitara" ],
+			[ "marchitáramos" ],
+			[ "marchitarais", "marchitaran" ],
+			[ "marchitaran" ]
+		],
+		"10" : [
+			[ "marchitase" ],
+			[ "marchitases" ],
+			[ "marchitase" ],
+			[ "marchitásemos" ],
+			[ "marchitaseis", "marchitasen" ],
+			[ "marchitasen" ]
+		],
+		"11" : [
+			[ "marchitare" ],
+			[ "marchitares" ],
+			[ "marchitare" ],
+			[ "marchitáremos" ],
+			[ "marchitareis", "marchitaren" ],
+			[ "marchitaren" ]
+		],
+		"12" : {
+			"1" : [ "marchita" ],
+			"2" : [ "marchite" ],
+			"3" : [ "marchitemos" ],
+			"4" : [ "marchitad" ],
+			"5" : [ "marchiten" ]
+		}
+	}
+}

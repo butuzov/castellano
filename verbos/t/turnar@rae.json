@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=turnar",
+	"word" : "turnar",
+	"infinitivo" : "turnar",
+	"participio" : [ "turnado" ],
+	"gerundio" : [ "turnando" ],
+	"tenses" : {
+		"3" : [
+			[ "turno" ],
+			[ "turnas", "turnás" ],
+			[ "turna" ],
+			[ "turnamos" ],
+			[ "turnáis", "turnan" ],
+			[ "turnan" ]
+		],
+		"4" : [
+			[ "turné" ],
+			[ "turnaste" ],
+			[ "turnó" ],
+			[ "turnamos" ],
+			[ "turnasteis", "turnaron" ],
+			[ "turnaron" ]
+		],
+		"5" : [
+			[ "turnaba" ],
+			[ "turnabas" ],
+			[ "turnaba" ],
+			[ "turnábamos" ],
+			[ "turnabais", "turnaban" ],
+			[ "turnaban" ]
+		],
+		"6" : [
+			[ "turnaría" ],
+			[ "turnarías" ],
+			[ "turnaría" ],
+			[ "turnaríamos" ],
+			[ "turnaríais", "turnarían" ],
+			[ "turnarían" ]
+		],
+		"7" : [
+			[ "turnaré" ],
+			[ "turnarás" ],
+			[ "turnará" ],
+			[ "turnaremos" ],
+			[ "turnaréis", "turnarán" ],
+			[ "turnarán" ]
+		],
+		"8" : [
+			[ "turne" ],
+			[ "turnes" ],
+			[ "turne" ],
+			[ "turnemos" ],
+			[ "turnéis", "turnen" ],
+			[ "turnen" ]
+		],
+		"9" : [
+			[ "turnara" ],
+			[ "turnaras" ],
+			[ "turnara" ],
+			[ "turnáramos" ],
+			[ "turnarais", "turnaran" ],
+			[ "turnaran" ]
+		],
+		"10" : [
+			[ "turnase" ],
+			[ "turnases" ],
+			[ "turnase" ],
+			[ "turnásemos" ],
+			[ "turnaseis", "turnasen" ],
+			[ "turnasen" ]
+		],
+		"11" : [
+			[ "turnare" ],
+			[ "turnares" ],
+			[ "turnare" ],
+			[ "turnáremos" ],
+			[ "turnareis", "turnaren" ],
+			[ "turnaren" ]
+		],
+		"12" : {
+			"1" : [ "turna" ],
+			"2" : [ "turne" ],
+			"3" : [ "turnemos" ],
+			"4" : [ "turnad" ],
+			"5" : [ "turnen" ]
+		}
+	}
+}

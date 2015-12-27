@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=engomar",
+	"word" : "engomar",
+	"infinitivo" : "engomar",
+	"participio" : [ "engomado" ],
+	"gerundio" : [ "engomando" ],
+	"tenses" : {
+		"3" : [
+			[ "engomo" ],
+			[ "engomas", "engomás" ],
+			[ "engoma" ],
+			[ "engomamos" ],
+			[ "engomáis", "engoman" ],
+			[ "engoman" ]
+		],
+		"4" : [
+			[ "engomé" ],
+			[ "engomaste" ],
+			[ "engomó" ],
+			[ "engomamos" ],
+			[ "engomasteis", "engomaron" ],
+			[ "engomaron" ]
+		],
+		"5" : [
+			[ "engomaba" ],
+			[ "engomabas" ],
+			[ "engomaba" ],
+			[ "engomábamos" ],
+			[ "engomabais", "engomaban" ],
+			[ "engomaban" ]
+		],
+		"6" : [
+			[ "engomaría" ],
+			[ "engomarías" ],
+			[ "engomaría" ],
+			[ "engomaríamos" ],
+			[ "engomaríais", "engomarían" ],
+			[ "engomarían" ]
+		],
+		"7" : [
+			[ "engomaré" ],
+			[ "engomarás" ],
+			[ "engomará" ],
+			[ "engomaremos" ],
+			[ "engomaréis", "engomarán" ],
+			[ "engomarán" ]
+		],
+		"8" : [
+			[ "engome" ],
+			[ "engomes" ],
+			[ "engome" ],
+			[ "engomemos" ],
+			[ "engoméis", "engomen" ],
+			[ "engomen" ]
+		],
+		"9" : [
+			[ "engomara" ],
+			[ "engomaras" ],
+			[ "engomara" ],
+			[ "engomáramos" ],
+			[ "engomarais", "engomaran" ],
+			[ "engomaran" ]
+		],
+		"10" : [
+			[ "engomase" ],
+			[ "engomases" ],
+			[ "engomase" ],
+			[ "engomásemos" ],
+			[ "engomaseis", "engomasen" ],
+			[ "engomasen" ]
+		],
+		"11" : [
+			[ "engomare" ],
+			[ "engomares" ],
+			[ "engomare" ],
+			[ "engomáremos" ],
+			[ "engomareis", "engomaren" ],
+			[ "engomaren" ]
+		],
+		"12" : {
+			"1" : [ "engoma" ],
+			"2" : [ "engome" ],
+			"3" : [ "engomemos" ],
+			"4" : [ "engomad" ],
+			"5" : [ "engomen" ]
+		}
+	}
+}

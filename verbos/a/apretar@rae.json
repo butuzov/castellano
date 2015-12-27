@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apretar",
+	"word" : "apretar",
+	"infinitivo" : "apretar",
+	"participio" : [ "apretado" ],
+	"gerundio" : [ "apretando" ],
+	"tenses" : {
+		"3" : [
+			[ "aprieto" ],
+			[ "aprietas", "apretás" ],
+			[ "aprieta" ],
+			[ "apretamos" ],
+			[ "apretáis", "aprietan" ],
+			[ "aprietan" ]
+		],
+		"4" : [
+			[ "apreté" ],
+			[ "apretaste" ],
+			[ "apretó" ],
+			[ "apretamos" ],
+			[ "apretasteis", "apretaron" ],
+			[ "apretaron" ]
+		],
+		"5" : [
+			[ "apretaba" ],
+			[ "apretabas" ],
+			[ "apretaba" ],
+			[ "apretábamos" ],
+			[ "apretabais", "apretaban" ],
+			[ "apretaban" ]
+		],
+		"6" : [
+			[ "apretaría" ],
+			[ "apretarías" ],
+			[ "apretaría" ],
+			[ "apretaríamos" ],
+			[ "apretaríais", "apretarían" ],
+			[ "apretarían" ]
+		],
+		"7" : [
+			[ "apretaré" ],
+			[ "apretarás" ],
+			[ "apretará" ],
+			[ "apretaremos" ],
+			[ "apretaréis", "apretarán" ],
+			[ "apretarán" ]
+		],
+		"8" : [
+			[ "apriete" ],
+			[ "aprietes" ],
+			[ "apriete" ],
+			[ "apretemos" ],
+			[ "apretéis", "aprieten" ],
+			[ "aprieten" ]
+		],
+		"9" : [
+			[ "apretara" ],
+			[ "apretaras" ],
+			[ "apretara" ],
+			[ "apretáramos" ],
+			[ "apretarais", "apretaran" ],
+			[ "apretaran" ]
+		],
+		"10" : [
+			[ "apretase" ],
+			[ "apretases" ],
+			[ "apretase" ],
+			[ "apretásemos" ],
+			[ "apretaseis", "apretasen" ],
+			[ "apretasen" ]
+		],
+		"11" : [
+			[ "apretare" ],
+			[ "apretares" ],
+			[ "apretare" ],
+			[ "apretáremos" ],
+			[ "apretareis", "apretaren" ],
+			[ "apretaren" ]
+		],
+		"12" : {
+			"1" : [ "aprieta" ],
+			"2" : [ "apriete" ],
+			"3" : [ "apretemos" ],
+			"4" : [ "apretad" ],
+			"5" : [ "aprieten" ]
+		}
+	}
+}

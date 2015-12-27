@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=matar",
+	"word" : "matar",
+	"infinitivo" : "matar",
+	"participio" : [ "matado" ],
+	"gerundio" : [ "matando" ],
+	"tenses" : {
+		"3" : [
+			[ "mato" ],
+			[ "matas", "matás" ],
+			[ "mata" ],
+			[ "matamos" ],
+			[ "matáis", "matan" ],
+			[ "matan" ]
+		],
+		"4" : [
+			[ "maté" ],
+			[ "mataste" ],
+			[ "mató" ],
+			[ "matamos" ],
+			[ "matasteis", "mataron" ],
+			[ "mataron" ]
+		],
+		"5" : [
+			[ "mataba" ],
+			[ "matabas" ],
+			[ "mataba" ],
+			[ "matábamos" ],
+			[ "matabais", "mataban" ],
+			[ "mataban" ]
+		],
+		"6" : [
+			[ "mataría" ],
+			[ "matarías" ],
+			[ "mataría" ],
+			[ "mataríamos" ],
+			[ "mataríais", "matarían" ],
+			[ "matarían" ]
+		],
+		"7" : [
+			[ "mataré" ],
+			[ "matarás" ],
+			[ "matará" ],
+			[ "mataremos" ],
+			[ "mataréis", "matarán" ],
+			[ "matarán" ]
+		],
+		"8" : [
+			[ "mate" ],
+			[ "mates" ],
+			[ "mate" ],
+			[ "matemos" ],
+			[ "matéis", "maten" ],
+			[ "maten" ]
+		],
+		"9" : [
+			[ "matara" ],
+			[ "mataras" ],
+			[ "matara" ],
+			[ "matáramos" ],
+			[ "matarais", "mataran" ],
+			[ "mataran" ]
+		],
+		"10" : [
+			[ "matase" ],
+			[ "matases" ],
+			[ "matase" ],
+			[ "matásemos" ],
+			[ "mataseis", "matasen" ],
+			[ "matasen" ]
+		],
+		"11" : [
+			[ "matare" ],
+			[ "matares" ],
+			[ "matare" ],
+			[ "matáremos" ],
+			[ "matareis", "mataren" ],
+			[ "mataren" ]
+		],
+		"12" : {
+			"1" : [ "mata" ],
+			"2" : [ "mate" ],
+			"3" : [ "matemos" ],
+			"4" : [ "matad" ],
+			"5" : [ "maten" ]
+		}
+	}
+}

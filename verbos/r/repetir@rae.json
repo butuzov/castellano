@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repetir",
+	"word" : "repetir",
+	"infinitivo" : "repetir",
+	"participio" : [ "repetido" ],
+	"gerundio" : [ "repitiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "repito" ],
+			[ "repites", "repetís" ],
+			[ "repite" ],
+			[ "repetimos" ],
+			[ "repetís", "repiten" ],
+			[ "repiten" ]
+		],
+		"4" : [
+			[ "repetí" ],
+			[ "repetiste" ],
+			[ "repitió" ],
+			[ "repetimos" ],
+			[ "repetisteis", "repitieron" ],
+			[ "repitieron" ]
+		],
+		"5" : [
+			[ "repetía" ],
+			[ "repetías" ],
+			[ "repetía" ],
+			[ "repetíamos" ],
+			[ "repetíais", "repetían" ],
+			[ "repetían" ]
+		],
+		"6" : [
+			[ "repetiría" ],
+			[ "repetirías" ],
+			[ "repetiría" ],
+			[ "repetiríamos" ],
+			[ "repetiríais", "repetirían" ],
+			[ "repetirían" ]
+		],
+		"7" : [
+			[ "repetiré" ],
+			[ "repetirás" ],
+			[ "repetirá" ],
+			[ "repetiremos" ],
+			[ "repetiréis", "repetirán" ],
+			[ "repetirán" ]
+		],
+		"8" : [
+			[ "repita" ],
+			[ "repitas" ],
+			[ "repita" ],
+			[ "repitamos" ],
+			[ "repitáis", "repitan" ],
+			[ "repitan" ]
+		],
+		"9" : [
+			[ "repitiera" ],
+			[ "repitieras" ],
+			[ "repitiera" ],
+			[ "repitiéramos" ],
+			[ "repitierais", "repitieran" ],
+			[ "repitieran" ]
+		],
+		"10" : [
+			[ "repitiese" ],
+			[ "repitieses" ],
+			[ "repitiese" ],
+			[ "repitiésemos" ],
+			[ "repitieseis", "repitiesen" ],
+			[ "repitiesen" ]
+		],
+		"11" : [
+			[ "repitiere" ],
+			[ "repitieres" ],
+			[ "repitiere" ],
+			[ "repitiéremos" ],
+			[ "repitiereis", "repitieren" ],
+			[ "repitieren" ]
+		],
+		"12" : {
+			"1" : [ "repite" ],
+			"2" : [ "repita" ],
+			"3" : [ "repitamos" ],
+			"4" : [ "repetid" ],
+			"5" : [ "repitan" ]
+		}
+	}
+}

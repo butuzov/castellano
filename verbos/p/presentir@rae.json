@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=presentir",
+	"word" : "presentir",
+	"infinitivo" : "presentir",
+	"participio" : [ "presentido" ],
+	"gerundio" : [ "presintiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "presiento" ],
+			[ "presientes", "presentís" ],
+			[ "presiente" ],
+			[ "presentimos" ],
+			[ "presentís", "presienten" ],
+			[ "presienten" ]
+		],
+		"4" : [
+			[ "presentí" ],
+			[ "presentiste" ],
+			[ "presintió" ],
+			[ "presentimos" ],
+			[ "presentisteis", "presintieron" ],
+			[ "presintieron" ]
+		],
+		"5" : [
+			[ "presentía" ],
+			[ "presentías" ],
+			[ "presentía" ],
+			[ "presentíamos" ],
+			[ "presentíais", "presentían" ],
+			[ "presentían" ]
+		],
+		"6" : [
+			[ "presentiría" ],
+			[ "presentirías" ],
+			[ "presentiría" ],
+			[ "presentiríamos" ],
+			[ "presentiríais", "presentirían" ],
+			[ "presentirían" ]
+		],
+		"7" : [
+			[ "presentiré" ],
+			[ "presentirás" ],
+			[ "presentirá" ],
+			[ "presentiremos" ],
+			[ "presentiréis", "presentirán" ],
+			[ "presentirán" ]
+		],
+		"8" : [
+			[ "presienta" ],
+			[ "presientas" ],
+			[ "presienta" ],
+			[ "presintamos" ],
+			[ "presintáis", "presientan" ],
+			[ "presientan" ]
+		],
+		"9" : [
+			[ "presintiera" ],
+			[ "presintieras" ],
+			[ "presintiera" ],
+			[ "presintiéramos" ],
+			[ "presintierais", "presintieran" ],
+			[ "presintieran" ]
+		],
+		"10" : [
+			[ "presintiese" ],
+			[ "presintieses" ],
+			[ "presintiese" ],
+			[ "presintiésemos" ],
+			[ "presintieseis", "presintiesen" ],
+			[ "presintiesen" ]
+		],
+		"11" : [
+			[ "presintiere" ],
+			[ "presintieres" ],
+			[ "presintiere" ],
+			[ "presintiéremos" ],
+			[ "presintiereis", "presintieren" ],
+			[ "presintieren" ]
+		],
+		"12" : {
+			"1" : [ "presiente" ],
+			"2" : [ "presienta" ],
+			"3" : [ "presintamos" ],
+			"4" : [ "presentid" ],
+			"5" : [ "presientan" ]
+		}
+	}
+}

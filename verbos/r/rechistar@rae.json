@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rechistar",
+	"word" : "rechistar",
+	"infinitivo" : "rechistar",
+	"participio" : [ "rechistado" ],
+	"gerundio" : [ "rechistando" ],
+	"tenses" : {
+		"3" : [
+			[ "rechisto" ],
+			[ "rechistas", "rechistás" ],
+			[ "rechista" ],
+			[ "rechistamos" ],
+			[ "rechistáis", "rechistan" ],
+			[ "rechistan" ]
+		],
+		"4" : [
+			[ "rechisté" ],
+			[ "rechistaste" ],
+			[ "rechistó" ],
+			[ "rechistamos" ],
+			[ "rechistasteis", "rechistaron" ],
+			[ "rechistaron" ]
+		],
+		"5" : [
+			[ "rechistaba" ],
+			[ "rechistabas" ],
+			[ "rechistaba" ],
+			[ "rechistábamos" ],
+			[ "rechistabais", "rechistaban" ],
+			[ "rechistaban" ]
+		],
+		"6" : [
+			[ "rechistaría" ],
+			[ "rechistarías" ],
+			[ "rechistaría" ],
+			[ "rechistaríamos" ],
+			[ "rechistaríais", "rechistarían" ],
+			[ "rechistarían" ]
+		],
+		"7" : [
+			[ "rechistaré" ],
+			[ "rechistarás" ],
+			[ "rechistará" ],
+			[ "rechistaremos" ],
+			[ "rechistaréis", "rechistarán" ],
+			[ "rechistarán" ]
+		],
+		"8" : [
+			[ "rechiste" ],
+			[ "rechistes" ],
+			[ "rechiste" ],
+			[ "rechistemos" ],
+			[ "rechistéis", "rechisten" ],
+			[ "rechisten" ]
+		],
+		"9" : [
+			[ "rechistara" ],
+			[ "rechistaras" ],
+			[ "rechistara" ],
+			[ "rechistáramos" ],
+			[ "rechistarais", "rechistaran" ],
+			[ "rechistaran" ]
+		],
+		"10" : [
+			[ "rechistase" ],
+			[ "rechistases" ],
+			[ "rechistase" ],
+			[ "rechistásemos" ],
+			[ "rechistaseis", "rechistasen" ],
+			[ "rechistasen" ]
+		],
+		"11" : [
+			[ "rechistare" ],
+			[ "rechistares" ],
+			[ "rechistare" ],
+			[ "rechistáremos" ],
+			[ "rechistareis", "rechistaren" ],
+			[ "rechistaren" ]
+		],
+		"12" : {
+			"1" : [ "rechista" ],
+			"2" : [ "rechiste" ],
+			"3" : [ "rechistemos" ],
+			"4" : [ "rechistad" ],
+			"5" : [ "rechisten" ]
+		}
+	}
+}

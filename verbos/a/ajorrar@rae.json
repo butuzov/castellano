@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ajorrar",
+	"word" : "ajorrar",
+	"infinitivo" : "ajorrar",
+	"participio" : [ "ajorrado" ],
+	"gerundio" : [ "ajorrando" ],
+	"tenses" : {
+		"3" : [
+			[ "ajorro" ],
+			[ "ajorras", "ajorrás" ],
+			[ "ajorra" ],
+			[ "ajorramos" ],
+			[ "ajorráis", "ajorran" ],
+			[ "ajorran" ]
+		],
+		"4" : [
+			[ "ajorré" ],
+			[ "ajorraste" ],
+			[ "ajorró" ],
+			[ "ajorramos" ],
+			[ "ajorrasteis", "ajorraron" ],
+			[ "ajorraron" ]
+		],
+		"5" : [
+			[ "ajorraba" ],
+			[ "ajorrabas" ],
+			[ "ajorraba" ],
+			[ "ajorrábamos" ],
+			[ "ajorrabais", "ajorraban" ],
+			[ "ajorraban" ]
+		],
+		"6" : [
+			[ "ajorraría" ],
+			[ "ajorrarías" ],
+			[ "ajorraría" ],
+			[ "ajorraríamos" ],
+			[ "ajorraríais", "ajorrarían" ],
+			[ "ajorrarían" ]
+		],
+		"7" : [
+			[ "ajorraré" ],
+			[ "ajorrarás" ],
+			[ "ajorrará" ],
+			[ "ajorraremos" ],
+			[ "ajorraréis", "ajorrarán" ],
+			[ "ajorrarán" ]
+		],
+		"8" : [
+			[ "ajorre" ],
+			[ "ajorres" ],
+			[ "ajorre" ],
+			[ "ajorremos" ],
+			[ "ajorréis", "ajorren" ],
+			[ "ajorren" ]
+		],
+		"9" : [
+			[ "ajorrara" ],
+			[ "ajorraras" ],
+			[ "ajorrara" ],
+			[ "ajorráramos" ],
+			[ "ajorrarais", "ajorraran" ],
+			[ "ajorraran" ]
+		],
+		"10" : [
+			[ "ajorrase" ],
+			[ "ajorrases" ],
+			[ "ajorrase" ],
+			[ "ajorrásemos" ],
+			[ "ajorraseis", "ajorrasen" ],
+			[ "ajorrasen" ]
+		],
+		"11" : [
+			[ "ajorrare" ],
+			[ "ajorrares" ],
+			[ "ajorrare" ],
+			[ "ajorráremos" ],
+			[ "ajorrareis", "ajorraren" ],
+			[ "ajorraren" ]
+		],
+		"12" : {
+			"1" : [ "ajorra" ],
+			"2" : [ "ajorre" ],
+			"3" : [ "ajorremos" ],
+			"4" : [ "ajorrad" ],
+			"5" : [ "ajorren" ]
+		}
+	}
+}

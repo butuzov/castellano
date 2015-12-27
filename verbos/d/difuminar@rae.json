@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=difuminar",
+	"word" : "difuminar",
+	"infinitivo" : "difuminar",
+	"participio" : [ "difuminado" ],
+	"gerundio" : [ "difuminando" ],
+	"tenses" : {
+		"3" : [
+			[ "difumino" ],
+			[ "difuminas", "difuminás" ],
+			[ "difumina" ],
+			[ "difuminamos" ],
+			[ "difumináis", "difuminan" ],
+			[ "difuminan" ]
+		],
+		"4" : [
+			[ "difuminé" ],
+			[ "difuminaste" ],
+			[ "difuminó" ],
+			[ "difuminamos" ],
+			[ "difuminasteis", "difuminaron" ],
+			[ "difuminaron" ]
+		],
+		"5" : [
+			[ "difuminaba" ],
+			[ "difuminabas" ],
+			[ "difuminaba" ],
+			[ "difuminábamos" ],
+			[ "difuminabais", "difuminaban" ],
+			[ "difuminaban" ]
+		],
+		"6" : [
+			[ "difuminaría" ],
+			[ "difuminarías" ],
+			[ "difuminaría" ],
+			[ "difuminaríamos" ],
+			[ "difuminaríais", "difuminarían" ],
+			[ "difuminarían" ]
+		],
+		"7" : [
+			[ "difuminaré" ],
+			[ "difuminarás" ],
+			[ "difuminará" ],
+			[ "difuminaremos" ],
+			[ "difuminaréis", "difuminarán" ],
+			[ "difuminarán" ]
+		],
+		"8" : [
+			[ "difumine" ],
+			[ "difumines" ],
+			[ "difumine" ],
+			[ "difuminemos" ],
+			[ "difuminéis", "difuminen" ],
+			[ "difuminen" ]
+		],
+		"9" : [
+			[ "difuminara" ],
+			[ "difuminaras" ],
+			[ "difuminara" ],
+			[ "difumináramos" ],
+			[ "difuminarais", "difuminaran" ],
+			[ "difuminaran" ]
+		],
+		"10" : [
+			[ "difuminase" ],
+			[ "difuminases" ],
+			[ "difuminase" ],
+			[ "difuminásemos" ],
+			[ "difuminaseis", "difuminasen" ],
+			[ "difuminasen" ]
+		],
+		"11" : [
+			[ "difuminare" ],
+			[ "difuminares" ],
+			[ "difuminare" ],
+			[ "difumináremos" ],
+			[ "difuminareis", "difuminaren" ],
+			[ "difuminaren" ]
+		],
+		"12" : {
+			"1" : [ "difumina" ],
+			"2" : [ "difumine" ],
+			"3" : [ "difuminemos" ],
+			"4" : [ "difuminad" ],
+			"5" : [ "difuminen" ]
+		}
+	}
+}

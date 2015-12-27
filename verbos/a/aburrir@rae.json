@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aburrir",
+	"word" : "aburrir",
+	"infinitivo" : "aburrir",
+	"participio" : [ "aburrido" ],
+	"gerundio" : [ "aburriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aburro" ],
+			[ "aburres", "aburrís" ],
+			[ "aburre" ],
+			[ "aburrimos" ],
+			[ "aburrís", "aburren" ],
+			[ "aburren" ]
+		],
+		"4" : [
+			[ "aburrí" ],
+			[ "aburriste" ],
+			[ "aburrió" ],
+			[ "aburrimos" ],
+			[ "aburristeis", "aburrieron" ],
+			[ "aburrieron" ]
+		],
+		"5" : [
+			[ "aburría" ],
+			[ "aburrías" ],
+			[ "aburría" ],
+			[ "aburríamos" ],
+			[ "aburríais", "aburrían" ],
+			[ "aburrían" ]
+		],
+		"6" : [
+			[ "aburriría" ],
+			[ "aburrirías" ],
+			[ "aburriría" ],
+			[ "aburriríamos" ],
+			[ "aburriríais", "aburrirían" ],
+			[ "aburrirían" ]
+		],
+		"7" : [
+			[ "aburriré" ],
+			[ "aburrirás" ],
+			[ "aburrirá" ],
+			[ "aburriremos" ],
+			[ "aburriréis", "aburrirán" ],
+			[ "aburrirán" ]
+		],
+		"8" : [
+			[ "aburra" ],
+			[ "aburras" ],
+			[ "aburra" ],
+			[ "aburramos" ],
+			[ "aburráis", "aburran" ],
+			[ "aburran" ]
+		],
+		"9" : [
+			[ "aburriera" ],
+			[ "aburrieras" ],
+			[ "aburriera" ],
+			[ "aburriéramos" ],
+			[ "aburrierais", "aburrieran" ],
+			[ "aburrieran" ]
+		],
+		"10" : [
+			[ "aburriese" ],
+			[ "aburrieses" ],
+			[ "aburriese" ],
+			[ "aburriésemos" ],
+			[ "aburrieseis", "aburriesen" ],
+			[ "aburriesen" ]
+		],
+		"11" : [
+			[ "aburriere" ],
+			[ "aburrieres" ],
+			[ "aburriere" ],
+			[ "aburriéremos" ],
+			[ "aburriereis", "aburrieren" ],
+			[ "aburrieren" ]
+		],
+		"12" : {
+			"1" : [ "aburre" ],
+			"2" : [ "aburra" ],
+			"3" : [ "aburramos" ],
+			"4" : [ "aburrid" ],
+			"5" : [ "aburran" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sobresalir",
+	"word" : "sobresalir",
+	"infinitivo" : "sobresalir",
+	"participio" : [ "sobresalido" ],
+	"gerundio" : [ "sobresaliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sobresalgo" ],
+			[ "sobresales", "sobresalís" ],
+			[ "sobresale" ],
+			[ "sobresalimos" ],
+			[ "sobresalís", "sobresalen" ],
+			[ "sobresalen" ]
+		],
+		"4" : [
+			[ "sobresalí" ],
+			[ "sobresaliste" ],
+			[ "sobresalió" ],
+			[ "sobresalimos" ],
+			[ "sobresalisteis", "sobresalieron" ],
+			[ "sobresalieron" ]
+		],
+		"5" : [
+			[ "sobresalía" ],
+			[ "sobresalías" ],
+			[ "sobresalía" ],
+			[ "sobresalíamos" ],
+			[ "sobresalíais", "sobresalían" ],
+			[ "sobresalían" ]
+		],
+		"6" : [
+			[ "sobresaldría" ],
+			[ "sobresaldrías" ],
+			[ "sobresaldría" ],
+			[ "sobresaldríamos" ],
+			[ "sobresaldríais", "sobresaldrían" ],
+			[ "sobresaldrían" ]
+		],
+		"7" : [
+			[ "sobresaldré" ],
+			[ "sobresaldrás" ],
+			[ "sobresaldrá" ],
+			[ "sobresaldremos" ],
+			[ "sobresaldréis", "sobresaldrán" ],
+			[ "sobresaldrán" ]
+		],
+		"8" : [
+			[ "sobresalga" ],
+			[ "sobresalgas" ],
+			[ "sobresalga" ],
+			[ "sobresalgamos" ],
+			[ "sobresalgáis", "sobresalgan" ],
+			[ "sobresalgan" ]
+		],
+		"9" : [
+			[ "sobresaliera" ],
+			[ "sobresalieras" ],
+			[ "sobresaliera" ],
+			[ "sobresaliéramos" ],
+			[ "sobresalierais", "sobresalieran" ],
+			[ "sobresalieran" ]
+		],
+		"10" : [
+			[ "sobresaliese" ],
+			[ "sobresalieses" ],
+			[ "sobresaliese" ],
+			[ "sobresaliésemos" ],
+			[ "sobresalieseis", "sobresaliesen" ],
+			[ "sobresaliesen" ]
+		],
+		"11" : [
+			[ "sobresaliere" ],
+			[ "sobresalieres" ],
+			[ "sobresaliere" ],
+			[ "sobresaliéremos" ],
+			[ "sobresaliereis", "sobresalieren" ],
+			[ "sobresalieren" ]
+		],
+		"12" : {
+			"1" : [ "sobresal" ],
+			"2" : [ "sobresalga" ],
+			"3" : [ "sobresalgamos" ],
+			"4" : [ "sobresalid" ],
+			"5" : [ "sobresalgan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empatar",
+	"word" : "empatar",
+	"infinitivo" : "empatar",
+	"participio" : [ "empatado" ],
+	"gerundio" : [ "empatando" ],
+	"tenses" : {
+		"3" : [
+			[ "empato" ],
+			[ "empatas", "empatás" ],
+			[ "empata" ],
+			[ "empatamos" ],
+			[ "empatáis", "empatan" ],
+			[ "empatan" ]
+		],
+		"4" : [
+			[ "empaté" ],
+			[ "empataste" ],
+			[ "empató" ],
+			[ "empatamos" ],
+			[ "empatasteis", "empataron" ],
+			[ "empataron" ]
+		],
+		"5" : [
+			[ "empataba" ],
+			[ "empatabas" ],
+			[ "empataba" ],
+			[ "empatábamos" ],
+			[ "empatabais", "empataban" ],
+			[ "empataban" ]
+		],
+		"6" : [
+			[ "empataría" ],
+			[ "empatarías" ],
+			[ "empataría" ],
+			[ "empataríamos" ],
+			[ "empataríais", "empatarían" ],
+			[ "empatarían" ]
+		],
+		"7" : [
+			[ "empataré" ],
+			[ "empatarás" ],
+			[ "empatará" ],
+			[ "empataremos" ],
+			[ "empataréis", "empatarán" ],
+			[ "empatarán" ]
+		],
+		"8" : [
+			[ "empate" ],
+			[ "empates" ],
+			[ "empate" ],
+			[ "empatemos" ],
+			[ "empatéis", "empaten" ],
+			[ "empaten" ]
+		],
+		"9" : [
+			[ "empatara" ],
+			[ "empataras" ],
+			[ "empatara" ],
+			[ "empatáramos" ],
+			[ "empatarais", "empataran" ],
+			[ "empataran" ]
+		],
+		"10" : [
+			[ "empatase" ],
+			[ "empatases" ],
+			[ "empatase" ],
+			[ "empatásemos" ],
+			[ "empataseis", "empatasen" ],
+			[ "empatasen" ]
+		],
+		"11" : [
+			[ "empatare" ],
+			[ "empatares" ],
+			[ "empatare" ],
+			[ "empatáremos" ],
+			[ "empatareis", "empataren" ],
+			[ "empataren" ]
+		],
+		"12" : {
+			"1" : [ "empata" ],
+			"2" : [ "empate" ],
+			"3" : [ "empatemos" ],
+			"4" : [ "empatad" ],
+			"5" : [ "empaten" ]
+		}
+	}
+}

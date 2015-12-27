@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inmolar",
+	"word" : "inmolar",
+	"infinitivo" : "inmolar",
+	"participio" : [ "inmolado" ],
+	"gerundio" : [ "inmolando" ],
+	"tenses" : {
+		"3" : [
+			[ "inmolo" ],
+			[ "inmolas", "inmolás" ],
+			[ "inmola" ],
+			[ "inmolamos" ],
+			[ "inmoláis", "inmolan" ],
+			[ "inmolan" ]
+		],
+		"4" : [
+			[ "inmolé" ],
+			[ "inmolaste" ],
+			[ "inmoló" ],
+			[ "inmolamos" ],
+			[ "inmolasteis", "inmolaron" ],
+			[ "inmolaron" ]
+		],
+		"5" : [
+			[ "inmolaba" ],
+			[ "inmolabas" ],
+			[ "inmolaba" ],
+			[ "inmolábamos" ],
+			[ "inmolabais", "inmolaban" ],
+			[ "inmolaban" ]
+		],
+		"6" : [
+			[ "inmolaría" ],
+			[ "inmolarías" ],
+			[ "inmolaría" ],
+			[ "inmolaríamos" ],
+			[ "inmolaríais", "inmolarían" ],
+			[ "inmolarían" ]
+		],
+		"7" : [
+			[ "inmolaré" ],
+			[ "inmolarás" ],
+			[ "inmolará" ],
+			[ "inmolaremos" ],
+			[ "inmolaréis", "inmolarán" ],
+			[ "inmolarán" ]
+		],
+		"8" : [
+			[ "inmole" ],
+			[ "inmoles" ],
+			[ "inmole" ],
+			[ "inmolemos" ],
+			[ "inmoléis", "inmolen" ],
+			[ "inmolen" ]
+		],
+		"9" : [
+			[ "inmolara" ],
+			[ "inmolaras" ],
+			[ "inmolara" ],
+			[ "inmoláramos" ],
+			[ "inmolarais", "inmolaran" ],
+			[ "inmolaran" ]
+		],
+		"10" : [
+			[ "inmolase" ],
+			[ "inmolases" ],
+			[ "inmolase" ],
+			[ "inmolásemos" ],
+			[ "inmolaseis", "inmolasen" ],
+			[ "inmolasen" ]
+		],
+		"11" : [
+			[ "inmolare" ],
+			[ "inmolares" ],
+			[ "inmolare" ],
+			[ "inmoláremos" ],
+			[ "inmolareis", "inmolaren" ],
+			[ "inmolaren" ]
+		],
+		"12" : {
+			"1" : [ "inmola" ],
+			"2" : [ "inmole" ],
+			"3" : [ "inmolemos" ],
+			"4" : [ "inmolad" ],
+			"5" : [ "inmolen" ]
+		}
+	}
+}

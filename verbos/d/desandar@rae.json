@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desandar",
+	"word" : "desandar",
+	"infinitivo" : "desandar",
+	"participio" : [ "desandado" ],
+	"gerundio" : [ "desandando" ],
+	"tenses" : {
+		"3" : [
+			[ "desando" ],
+			[ "desandas", "desandás" ],
+			[ "desanda" ],
+			[ "desandamos" ],
+			[ "desandáis", "desandan" ],
+			[ "desandan" ]
+		],
+		"4" : [
+			[ "desanduve" ],
+			[ "desanduviste" ],
+			[ "desanduvo" ],
+			[ "desanduvimos" ],
+			[ "desanduvisteis", "desanduvieron" ],
+			[ "desanduvieron" ]
+		],
+		"5" : [
+			[ "desandaba" ],
+			[ "desandabas" ],
+			[ "desandaba" ],
+			[ "desandábamos" ],
+			[ "desandabais", "desandaban" ],
+			[ "desandaban" ]
+		],
+		"6" : [
+			[ "desandaría" ],
+			[ "desandarías" ],
+			[ "desandaría" ],
+			[ "desandaríamos" ],
+			[ "desandaríais", "desandarían" ],
+			[ "desandarían" ]
+		],
+		"7" : [
+			[ "desandaré" ],
+			[ "desandarás" ],
+			[ "desandará" ],
+			[ "desandaremos" ],
+			[ "desandaréis", "desandarán" ],
+			[ "desandarán" ]
+		],
+		"8" : [
+			[ "desande" ],
+			[ "desandes" ],
+			[ "desande" ],
+			[ "desandemos" ],
+			[ "desandéis", "desanden" ],
+			[ "desanden" ]
+		],
+		"9" : [
+			[ "desanduviera" ],
+			[ "desanduvieras" ],
+			[ "desanduviera" ],
+			[ "desanduviéramos" ],
+			[ "desanduvierais", "desanduvieran" ],
+			[ "desanduvieran" ]
+		],
+		"10" : [
+			[ "desanduviese" ],
+			[ "desanduvieses" ],
+			[ "desanduviese" ],
+			[ "desanduviésemos" ],
+			[ "desanduvieseis", "desanduviesen" ],
+			[ "desanduviesen" ]
+		],
+		"11" : [
+			[ "desanduviere" ],
+			[ "desanduvieres" ],
+			[ "desanduviere" ],
+			[ "desanduviéremos" ],
+			[ "desanduviereis", "desanduvieren" ],
+			[ "desanduvieren" ]
+		],
+		"12" : {
+			"1" : [ "desanda" ],
+			"2" : [ "desande" ],
+			"3" : [ "desandemos" ],
+			"4" : [ "desandad" ],
+			"5" : [ "desanden" ]
+		}
+	}
+}

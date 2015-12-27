@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deportar",
+	"word" : "deportar",
+	"infinitivo" : "deportar",
+	"participio" : [ "deportado" ],
+	"gerundio" : [ "deportando" ],
+	"tenses" : {
+		"3" : [
+			[ "deporto" ],
+			[ "deportas", "deportás" ],
+			[ "deporta" ],
+			[ "deportamos" ],
+			[ "deportáis", "deportan" ],
+			[ "deportan" ]
+		],
+		"4" : [
+			[ "deporté" ],
+			[ "deportaste" ],
+			[ "deportó" ],
+			[ "deportamos" ],
+			[ "deportasteis", "deportaron" ],
+			[ "deportaron" ]
+		],
+		"5" : [
+			[ "deportaba" ],
+			[ "deportabas" ],
+			[ "deportaba" ],
+			[ "deportábamos" ],
+			[ "deportabais", "deportaban" ],
+			[ "deportaban" ]
+		],
+		"6" : [
+			[ "deportaría" ],
+			[ "deportarías" ],
+			[ "deportaría" ],
+			[ "deportaríamos" ],
+			[ "deportaríais", "deportarían" ],
+			[ "deportarían" ]
+		],
+		"7" : [
+			[ "deportaré" ],
+			[ "deportarás" ],
+			[ "deportará" ],
+			[ "deportaremos" ],
+			[ "deportaréis", "deportarán" ],
+			[ "deportarán" ]
+		],
+		"8" : [
+			[ "deporte" ],
+			[ "deportes" ],
+			[ "deporte" ],
+			[ "deportemos" ],
+			[ "deportéis", "deporten" ],
+			[ "deporten" ]
+		],
+		"9" : [
+			[ "deportara" ],
+			[ "deportaras" ],
+			[ "deportara" ],
+			[ "deportáramos" ],
+			[ "deportarais", "deportaran" ],
+			[ "deportaran" ]
+		],
+		"10" : [
+			[ "deportase" ],
+			[ "deportases" ],
+			[ "deportase" ],
+			[ "deportásemos" ],
+			[ "deportaseis", "deportasen" ],
+			[ "deportasen" ]
+		],
+		"11" : [
+			[ "deportare" ],
+			[ "deportares" ],
+			[ "deportare" ],
+			[ "deportáremos" ],
+			[ "deportareis", "deportaren" ],
+			[ "deportaren" ]
+		],
+		"12" : {
+			"1" : [ "deporta" ],
+			"2" : [ "deporte" ],
+			"3" : [ "deportemos" ],
+			"4" : [ "deportad" ],
+			"5" : [ "deporten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asegurar",
+	"word" : "asegurar",
+	"infinitivo" : "asegurar",
+	"participio" : [ "asegurado" ],
+	"gerundio" : [ "asegurando" ],
+	"tenses" : {
+		"3" : [
+			[ "aseguro" ],
+			[ "aseguras", "asegurás" ],
+			[ "asegura" ],
+			[ "aseguramos" ],
+			[ "aseguráis", "aseguran" ],
+			[ "aseguran" ]
+		],
+		"4" : [
+			[ "aseguré" ],
+			[ "aseguraste" ],
+			[ "aseguró" ],
+			[ "aseguramos" ],
+			[ "asegurasteis", "aseguraron" ],
+			[ "aseguraron" ]
+		],
+		"5" : [
+			[ "aseguraba" ],
+			[ "asegurabas" ],
+			[ "aseguraba" ],
+			[ "asegurábamos" ],
+			[ "asegurabais", "aseguraban" ],
+			[ "aseguraban" ]
+		],
+		"6" : [
+			[ "aseguraría" ],
+			[ "asegurarías" ],
+			[ "aseguraría" ],
+			[ "aseguraríamos" ],
+			[ "aseguraríais", "asegurarían" ],
+			[ "asegurarían" ]
+		],
+		"7" : [
+			[ "aseguraré" ],
+			[ "asegurarás" ],
+			[ "asegurará" ],
+			[ "aseguraremos" ],
+			[ "aseguraréis", "asegurarán" ],
+			[ "asegurarán" ]
+		],
+		"8" : [
+			[ "asegure" ],
+			[ "asegures" ],
+			[ "asegure" ],
+			[ "aseguremos" ],
+			[ "aseguréis", "aseguren" ],
+			[ "aseguren" ]
+		],
+		"9" : [
+			[ "asegurara" ],
+			[ "aseguraras" ],
+			[ "asegurara" ],
+			[ "aseguráramos" ],
+			[ "asegurarais", "aseguraran" ],
+			[ "aseguraran" ]
+		],
+		"10" : [
+			[ "asegurase" ],
+			[ "asegurases" ],
+			[ "asegurase" ],
+			[ "asegurásemos" ],
+			[ "aseguraseis", "asegurasen" ],
+			[ "asegurasen" ]
+		],
+		"11" : [
+			[ "asegurare" ],
+			[ "asegurares" ],
+			[ "asegurare" ],
+			[ "aseguráremos" ],
+			[ "asegurareis", "aseguraren" ],
+			[ "aseguraren" ]
+		],
+		"12" : {
+			"1" : [ "asegura" ],
+			"2" : [ "asegure" ],
+			"3" : [ "aseguremos" ],
+			"4" : [ "asegurad" ],
+			"5" : [ "aseguren" ]
+		}
+	}
+}

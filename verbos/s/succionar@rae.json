@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=succionar",
+	"word" : "succionar",
+	"infinitivo" : "succionar",
+	"participio" : [ "succionado" ],
+	"gerundio" : [ "succionando" ],
+	"tenses" : {
+		"3" : [
+			[ "succiono" ],
+			[ "succionas", "succionás" ],
+			[ "succiona" ],
+			[ "succionamos" ],
+			[ "succionáis", "succionan" ],
+			[ "succionan" ]
+		],
+		"4" : [
+			[ "succioné" ],
+			[ "succionaste" ],
+			[ "succionó" ],
+			[ "succionamos" ],
+			[ "succionasteis", "succionaron" ],
+			[ "succionaron" ]
+		],
+		"5" : [
+			[ "succionaba" ],
+			[ "succionabas" ],
+			[ "succionaba" ],
+			[ "succionábamos" ],
+			[ "succionabais", "succionaban" ],
+			[ "succionaban" ]
+		],
+		"6" : [
+			[ "succionaría" ],
+			[ "succionarías" ],
+			[ "succionaría" ],
+			[ "succionaríamos" ],
+			[ "succionaríais", "succionarían" ],
+			[ "succionarían" ]
+		],
+		"7" : [
+			[ "succionaré" ],
+			[ "succionarás" ],
+			[ "succionará" ],
+			[ "succionaremos" ],
+			[ "succionaréis", "succionarán" ],
+			[ "succionarán" ]
+		],
+		"8" : [
+			[ "succione" ],
+			[ "succiones" ],
+			[ "succione" ],
+			[ "succionemos" ],
+			[ "succionéis", "succionen" ],
+			[ "succionen" ]
+		],
+		"9" : [
+			[ "succionara" ],
+			[ "succionaras" ],
+			[ "succionara" ],
+			[ "succionáramos" ],
+			[ "succionarais", "succionaran" ],
+			[ "succionaran" ]
+		],
+		"10" : [
+			[ "succionase" ],
+			[ "succionases" ],
+			[ "succionase" ],
+			[ "succionásemos" ],
+			[ "succionaseis", "succionasen" ],
+			[ "succionasen" ]
+		],
+		"11" : [
+			[ "succionare" ],
+			[ "succionares" ],
+			[ "succionare" ],
+			[ "succionáremos" ],
+			[ "succionareis", "succionaren" ],
+			[ "succionaren" ]
+		],
+		"12" : {
+			"1" : [ "succiona" ],
+			"2" : [ "succione" ],
+			"3" : [ "succionemos" ],
+			"4" : [ "succionad" ],
+			"5" : [ "succionen" ]
+		}
+	}
+}

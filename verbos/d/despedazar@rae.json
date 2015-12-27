@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despedazar",
+	"word" : "despedazar",
+	"infinitivo" : "despedazar",
+	"participio" : [ "despedazado" ],
+	"gerundio" : [ "despedazando" ],
+	"tenses" : {
+		"3" : [
+			[ "despedazo" ],
+			[ "despedazas", "despedazás" ],
+			[ "despedaza" ],
+			[ "despedazamos" ],
+			[ "despedazáis", "despedazan" ],
+			[ "despedazan" ]
+		],
+		"4" : [
+			[ "despedacé" ],
+			[ "despedazaste" ],
+			[ "despedazó" ],
+			[ "despedazamos" ],
+			[ "despedazasteis", "despedazaron" ],
+			[ "despedazaron" ]
+		],
+		"5" : [
+			[ "despedazaba" ],
+			[ "despedazabas" ],
+			[ "despedazaba" ],
+			[ "despedazábamos" ],
+			[ "despedazabais", "despedazaban" ],
+			[ "despedazaban" ]
+		],
+		"6" : [
+			[ "despedazaría" ],
+			[ "despedazarías" ],
+			[ "despedazaría" ],
+			[ "despedazaríamos" ],
+			[ "despedazaríais", "despedazarían" ],
+			[ "despedazarían" ]
+		],
+		"7" : [
+			[ "despedazaré" ],
+			[ "despedazarás" ],
+			[ "despedazará" ],
+			[ "despedazaremos" ],
+			[ "despedazaréis", "despedazarán" ],
+			[ "despedazarán" ]
+		],
+		"8" : [
+			[ "despedace" ],
+			[ "despedaces" ],
+			[ "despedace" ],
+			[ "despedacemos" ],
+			[ "despedacéis", "despedacen" ],
+			[ "despedacen" ]
+		],
+		"9" : [
+			[ "despedazara" ],
+			[ "despedazaras" ],
+			[ "despedazara" ],
+			[ "despedazáramos" ],
+			[ "despedazarais", "despedazaran" ],
+			[ "despedazaran" ]
+		],
+		"10" : [
+			[ "despedazase" ],
+			[ "despedazases" ],
+			[ "despedazase" ],
+			[ "despedazásemos" ],
+			[ "despedazaseis", "despedazasen" ],
+			[ "despedazasen" ]
+		],
+		"11" : [
+			[ "despedazare" ],
+			[ "despedazares" ],
+			[ "despedazare" ],
+			[ "despedazáremos" ],
+			[ "despedazareis", "despedazaren" ],
+			[ "despedazaren" ]
+		],
+		"12" : {
+			"1" : [ "despedaza" ],
+			"2" : [ "despedace" ],
+			"3" : [ "despedacemos" ],
+			"4" : [ "despedazad" ],
+			"5" : [ "despedacen" ]
+		}
+	}
+}

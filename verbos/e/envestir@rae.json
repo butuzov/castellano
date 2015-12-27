@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=envestir",
+	"word" : "envestir",
+	"infinitivo" : "envestir",
+	"participio" : [ "envestido" ],
+	"gerundio" : [ "envistiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "envisto" ],
+			[ "envistes", "envestís" ],
+			[ "enviste" ],
+			[ "envestimos" ],
+			[ "envestís", "envisten" ],
+			[ "envisten" ]
+		],
+		"4" : [
+			[ "envestí" ],
+			[ "envestiste" ],
+			[ "envistió" ],
+			[ "envestimos" ],
+			[ "envestisteis", "envistieron" ],
+			[ "envistieron" ]
+		],
+		"5" : [
+			[ "envestía" ],
+			[ "envestías" ],
+			[ "envestía" ],
+			[ "envestíamos" ],
+			[ "envestíais", "envestían" ],
+			[ "envestían" ]
+		],
+		"6" : [
+			[ "envestiría" ],
+			[ "envestirías" ],
+			[ "envestiría" ],
+			[ "envestiríamos" ],
+			[ "envestiríais", "envestirían" ],
+			[ "envestirían" ]
+		],
+		"7" : [
+			[ "envestiré" ],
+			[ "envestirás" ],
+			[ "envestirá" ],
+			[ "envestiremos" ],
+			[ "envestiréis", "envestirán" ],
+			[ "envestirán" ]
+		],
+		"8" : [
+			[ "envista" ],
+			[ "envistas" ],
+			[ "envista" ],
+			[ "envistamos" ],
+			[ "envistáis", "envistan" ],
+			[ "envistan" ]
+		],
+		"9" : [
+			[ "envistiera" ],
+			[ "envistieras" ],
+			[ "envistiera" ],
+			[ "envistiéramos" ],
+			[ "envistierais", "envistieran" ],
+			[ "envistieran" ]
+		],
+		"10" : [
+			[ "envistiese" ],
+			[ "envistieses" ],
+			[ "envistiese" ],
+			[ "envistiésemos" ],
+			[ "envistieseis", "envistiesen" ],
+			[ "envistiesen" ]
+		],
+		"11" : [
+			[ "envistiere" ],
+			[ "envistieres" ],
+			[ "envistiere" ],
+			[ "envistiéremos" ],
+			[ "envistiereis", "envistieren" ],
+			[ "envistieren" ]
+		],
+		"12" : {
+			"1" : [ "enviste" ],
+			"2" : [ "envista" ],
+			"3" : [ "envistamos" ],
+			"4" : [ "envestid" ],
+			"5" : [ "envistan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trazar",
+	"word" : "trazar",
+	"infinitivo" : "trazar",
+	"participio" : [ "trazado" ],
+	"gerundio" : [ "trazando" ],
+	"tenses" : {
+		"3" : [
+			[ "trazo" ],
+			[ "trazas", "trazás" ],
+			[ "traza" ],
+			[ "trazamos" ],
+			[ "trazáis", "trazan" ],
+			[ "trazan" ]
+		],
+		"4" : [
+			[ "tracé" ],
+			[ "trazaste" ],
+			[ "trazó" ],
+			[ "trazamos" ],
+			[ "trazasteis", "trazaron" ],
+			[ "trazaron" ]
+		],
+		"5" : [
+			[ "trazaba" ],
+			[ "trazabas" ],
+			[ "trazaba" ],
+			[ "trazábamos" ],
+			[ "trazabais", "trazaban" ],
+			[ "trazaban" ]
+		],
+		"6" : [
+			[ "trazaría" ],
+			[ "trazarías" ],
+			[ "trazaría" ],
+			[ "trazaríamos" ],
+			[ "trazaríais", "trazarían" ],
+			[ "trazarían" ]
+		],
+		"7" : [
+			[ "trazaré" ],
+			[ "trazarás" ],
+			[ "trazará" ],
+			[ "trazaremos" ],
+			[ "trazaréis", "trazarán" ],
+			[ "trazarán" ]
+		],
+		"8" : [
+			[ "trace" ],
+			[ "traces" ],
+			[ "trace" ],
+			[ "tracemos" ],
+			[ "tracéis", "tracen" ],
+			[ "tracen" ]
+		],
+		"9" : [
+			[ "trazara" ],
+			[ "trazaras" ],
+			[ "trazara" ],
+			[ "trazáramos" ],
+			[ "trazarais", "trazaran" ],
+			[ "trazaran" ]
+		],
+		"10" : [
+			[ "trazase" ],
+			[ "trazases" ],
+			[ "trazase" ],
+			[ "trazásemos" ],
+			[ "trazaseis", "trazasen" ],
+			[ "trazasen" ]
+		],
+		"11" : [
+			[ "trazare" ],
+			[ "trazares" ],
+			[ "trazare" ],
+			[ "trazáremos" ],
+			[ "trazareis", "trazaren" ],
+			[ "trazaren" ]
+		],
+		"12" : {
+			"1" : [ "traza" ],
+			"2" : [ "trace" ],
+			"3" : [ "tracemos" ],
+			"4" : [ "trazad" ],
+			"5" : [ "tracen" ]
+		}
+	}
+}

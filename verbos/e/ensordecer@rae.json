@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ensordecer",
+	"word" : "ensordecer",
+	"infinitivo" : "ensordecer",
+	"participio" : [ "ensordecido" ],
+	"gerundio" : [ "ensordeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "ensordezco" ],
+			[ "ensordeces", "ensordecés" ],
+			[ "ensordece" ],
+			[ "ensordecemos" ],
+			[ "ensordecéis", "ensordecen" ],
+			[ "ensordecen" ]
+		],
+		"4" : [
+			[ "ensordecí" ],
+			[ "ensordeciste" ],
+			[ "ensordeció" ],
+			[ "ensordecimos" ],
+			[ "ensordecisteis", "ensordecieron" ],
+			[ "ensordecieron" ]
+		],
+		"5" : [
+			[ "ensordecía" ],
+			[ "ensordecías" ],
+			[ "ensordecía" ],
+			[ "ensordecíamos" ],
+			[ "ensordecíais", "ensordecían" ],
+			[ "ensordecían" ]
+		],
+		"6" : [
+			[ "ensordecería" ],
+			[ "ensordecerías" ],
+			[ "ensordecería" ],
+			[ "ensordeceríamos" ],
+			[ "ensordeceríais", "ensordecerían" ],
+			[ "ensordecerían" ]
+		],
+		"7" : [
+			[ "ensordeceré" ],
+			[ "ensordecerás" ],
+			[ "ensordecerá" ],
+			[ "ensordeceremos" ],
+			[ "ensordeceréis", "ensordecerán" ],
+			[ "ensordecerán" ]
+		],
+		"8" : [
+			[ "ensordezca" ],
+			[ "ensordezcas" ],
+			[ "ensordezca" ],
+			[ "ensordezcamos" ],
+			[ "ensordezcáis", "ensordezcan" ],
+			[ "ensordezcan" ]
+		],
+		"9" : [
+			[ "ensordeciera" ],
+			[ "ensordecieras" ],
+			[ "ensordeciera" ],
+			[ "ensordeciéramos" ],
+			[ "ensordecierais", "ensordecieran" ],
+			[ "ensordecieran" ]
+		],
+		"10" : [
+			[ "ensordeciese" ],
+			[ "ensordecieses" ],
+			[ "ensordeciese" ],
+			[ "ensordeciésemos" ],
+			[ "ensordecieseis", "ensordeciesen" ],
+			[ "ensordeciesen" ]
+		],
+		"11" : [
+			[ "ensordeciere" ],
+			[ "ensordecieres" ],
+			[ "ensordeciere" ],
+			[ "ensordeciéremos" ],
+			[ "ensordeciereis", "ensordecieren" ],
+			[ "ensordecieren" ]
+		],
+		"12" : {
+			"1" : [ "ensordece" ],
+			"2" : [ "ensordezca" ],
+			"3" : [ "ensordezcamos" ],
+			"4" : [ "ensordeced" ],
+			"5" : [ "ensordezcan" ]
+		}
+	}
+}

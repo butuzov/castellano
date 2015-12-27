@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escalonar",
+	"word" : "escalonar",
+	"infinitivo" : "escalonar",
+	"participio" : [ "escalonado" ],
+	"gerundio" : [ "escalonando" ],
+	"tenses" : {
+		"3" : [
+			[ "escalono" ],
+			[ "escalonas", "escalonás" ],
+			[ "escalona" ],
+			[ "escalonamos" ],
+			[ "escalonáis", "escalonan" ],
+			[ "escalonan" ]
+		],
+		"4" : [
+			[ "escaloné" ],
+			[ "escalonaste" ],
+			[ "escalonó" ],
+			[ "escalonamos" ],
+			[ "escalonasteis", "escalonaron" ],
+			[ "escalonaron" ]
+		],
+		"5" : [
+			[ "escalonaba" ],
+			[ "escalonabas" ],
+			[ "escalonaba" ],
+			[ "escalonábamos" ],
+			[ "escalonabais", "escalonaban" ],
+			[ "escalonaban" ]
+		],
+		"6" : [
+			[ "escalonaría" ],
+			[ "escalonarías" ],
+			[ "escalonaría" ],
+			[ "escalonaríamos" ],
+			[ "escalonaríais", "escalonarían" ],
+			[ "escalonarían" ]
+		],
+		"7" : [
+			[ "escalonaré" ],
+			[ "escalonarás" ],
+			[ "escalonará" ],
+			[ "escalonaremos" ],
+			[ "escalonaréis", "escalonarán" ],
+			[ "escalonarán" ]
+		],
+		"8" : [
+			[ "escalone" ],
+			[ "escalones" ],
+			[ "escalone" ],
+			[ "escalonemos" ],
+			[ "escalonéis", "escalonen" ],
+			[ "escalonen" ]
+		],
+		"9" : [
+			[ "escalonara" ],
+			[ "escalonaras" ],
+			[ "escalonara" ],
+			[ "escalonáramos" ],
+			[ "escalonarais", "escalonaran" ],
+			[ "escalonaran" ]
+		],
+		"10" : [
+			[ "escalonase" ],
+			[ "escalonases" ],
+			[ "escalonase" ],
+			[ "escalonásemos" ],
+			[ "escalonaseis", "escalonasen" ],
+			[ "escalonasen" ]
+		],
+		"11" : [
+			[ "escalonare" ],
+			[ "escalonares" ],
+			[ "escalonare" ],
+			[ "escalonáremos" ],
+			[ "escalonareis", "escalonaren" ],
+			[ "escalonaren" ]
+		],
+		"12" : {
+			"1" : [ "escalona" ],
+			"2" : [ "escalone" ],
+			"3" : [ "escalonemos" ],
+			"4" : [ "escalonad" ],
+			"5" : [ "escalonen" ]
+		}
+	}
+}

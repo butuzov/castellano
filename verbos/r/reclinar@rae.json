@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reclinar",
+	"word" : "reclinar",
+	"infinitivo" : "reclinar",
+	"participio" : [ "reclinado" ],
+	"gerundio" : [ "reclinando" ],
+	"tenses" : {
+		"3" : [
+			[ "reclino" ],
+			[ "reclinas", "reclinás" ],
+			[ "reclina" ],
+			[ "reclinamos" ],
+			[ "reclináis", "reclinan" ],
+			[ "reclinan" ]
+		],
+		"4" : [
+			[ "recliné" ],
+			[ "reclinaste" ],
+			[ "reclinó" ],
+			[ "reclinamos" ],
+			[ "reclinasteis", "reclinaron" ],
+			[ "reclinaron" ]
+		],
+		"5" : [
+			[ "reclinaba" ],
+			[ "reclinabas" ],
+			[ "reclinaba" ],
+			[ "reclinábamos" ],
+			[ "reclinabais", "reclinaban" ],
+			[ "reclinaban" ]
+		],
+		"6" : [
+			[ "reclinaría" ],
+			[ "reclinarías" ],
+			[ "reclinaría" ],
+			[ "reclinaríamos" ],
+			[ "reclinaríais", "reclinarían" ],
+			[ "reclinarían" ]
+		],
+		"7" : [
+			[ "reclinaré" ],
+			[ "reclinarás" ],
+			[ "reclinará" ],
+			[ "reclinaremos" ],
+			[ "reclinaréis", "reclinarán" ],
+			[ "reclinarán" ]
+		],
+		"8" : [
+			[ "recline" ],
+			[ "reclines" ],
+			[ "recline" ],
+			[ "reclinemos" ],
+			[ "reclinéis", "reclinen" ],
+			[ "reclinen" ]
+		],
+		"9" : [
+			[ "reclinara" ],
+			[ "reclinaras" ],
+			[ "reclinara" ],
+			[ "reclináramos" ],
+			[ "reclinarais", "reclinaran" ],
+			[ "reclinaran" ]
+		],
+		"10" : [
+			[ "reclinase" ],
+			[ "reclinases" ],
+			[ "reclinase" ],
+			[ "reclinásemos" ],
+			[ "reclinaseis", "reclinasen" ],
+			[ "reclinasen" ]
+		],
+		"11" : [
+			[ "reclinare" ],
+			[ "reclinares" ],
+			[ "reclinare" ],
+			[ "reclináremos" ],
+			[ "reclinareis", "reclinaren" ],
+			[ "reclinaren" ]
+		],
+		"12" : {
+			"1" : [ "reclina" ],
+			"2" : [ "recline" ],
+			"3" : [ "reclinemos" ],
+			"4" : [ "reclinad" ],
+			"5" : [ "reclinen" ]
+		}
+	}
+}

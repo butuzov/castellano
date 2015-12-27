@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amanecer",
+	"word" : "amanecer",
+	"infinitivo" : "amanecer",
+	"participio" : [ "amanecido" ],
+	"gerundio" : [ "amaneciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "amanezco" ],
+			[ "amaneces", "amanecés" ],
+			[ "amanece" ],
+			[ "amanecemos" ],
+			[ "amanecéis", "amanecen" ],
+			[ "amanecen" ]
+		],
+		"4" : [
+			[ "amanecí" ],
+			[ "amaneciste" ],
+			[ "amaneció" ],
+			[ "amanecimos" ],
+			[ "amanecisteis", "amanecieron" ],
+			[ "amanecieron" ]
+		],
+		"5" : [
+			[ "amanecía" ],
+			[ "amanecías" ],
+			[ "amanecía" ],
+			[ "amanecíamos" ],
+			[ "amanecíais", "amanecían" ],
+			[ "amanecían" ]
+		],
+		"6" : [
+			[ "amanecería" ],
+			[ "amanecerías" ],
+			[ "amanecería" ],
+			[ "amaneceríamos" ],
+			[ "amaneceríais", "amanecerían" ],
+			[ "amanecerían" ]
+		],
+		"7" : [
+			[ "amaneceré" ],
+			[ "amanecerás" ],
+			[ "amanecerá" ],
+			[ "amaneceremos" ],
+			[ "amaneceréis", "amanecerán" ],
+			[ "amanecerán" ]
+		],
+		"8" : [
+			[ "amanezca" ],
+			[ "amanezcas" ],
+			[ "amanezca" ],
+			[ "amanezcamos" ],
+			[ "amanezcáis", "amanezcan" ],
+			[ "amanezcan" ]
+		],
+		"9" : [
+			[ "amaneciera" ],
+			[ "amanecieras" ],
+			[ "amaneciera" ],
+			[ "amaneciéramos" ],
+			[ "amanecierais", "amanecieran" ],
+			[ "amanecieran" ]
+		],
+		"10" : [
+			[ "amaneciese" ],
+			[ "amanecieses" ],
+			[ "amaneciese" ],
+			[ "amaneciésemos" ],
+			[ "amanecieseis", "amaneciesen" ],
+			[ "amaneciesen" ]
+		],
+		"11" : [
+			[ "amaneciere" ],
+			[ "amanecieres" ],
+			[ "amaneciere" ],
+			[ "amaneciéremos" ],
+			[ "amaneciereis", "amanecieren" ],
+			[ "amanecieren" ]
+		],
+		"12" : {
+			"1" : [ "amanece" ],
+			"2" : [ "amanezca" ],
+			"3" : [ "amanezcamos" ],
+			"4" : [ "amaneced" ],
+			"5" : [ "amanezcan" ]
+		}
+	}
+}

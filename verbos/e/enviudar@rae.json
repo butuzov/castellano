@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enviudar",
+	"word" : "enviudar",
+	"infinitivo" : "enviudar",
+	"participio" : [ "enviudado" ],
+	"gerundio" : [ "enviudando" ],
+	"tenses" : {
+		"3" : [
+			[ "enviudo" ],
+			[ "enviudas", "enviudás" ],
+			[ "enviuda" ],
+			[ "enviudamos" ],
+			[ "enviudáis", "enviudan" ],
+			[ "enviudan" ]
+		],
+		"4" : [
+			[ "enviudé" ],
+			[ "enviudaste" ],
+			[ "enviudó" ],
+			[ "enviudamos" ],
+			[ "enviudasteis", "enviudaron" ],
+			[ "enviudaron" ]
+		],
+		"5" : [
+			[ "enviudaba" ],
+			[ "enviudabas" ],
+			[ "enviudaba" ],
+			[ "enviudábamos" ],
+			[ "enviudabais", "enviudaban" ],
+			[ "enviudaban" ]
+		],
+		"6" : [
+			[ "enviudaría" ],
+			[ "enviudarías" ],
+			[ "enviudaría" ],
+			[ "enviudaríamos" ],
+			[ "enviudaríais", "enviudarían" ],
+			[ "enviudarían" ]
+		],
+		"7" : [
+			[ "enviudaré" ],
+			[ "enviudarás" ],
+			[ "enviudará" ],
+			[ "enviudaremos" ],
+			[ "enviudaréis", "enviudarán" ],
+			[ "enviudarán" ]
+		],
+		"8" : [
+			[ "enviude" ],
+			[ "enviudes" ],
+			[ "enviude" ],
+			[ "enviudemos" ],
+			[ "enviudéis", "enviuden" ],
+			[ "enviuden" ]
+		],
+		"9" : [
+			[ "enviudara" ],
+			[ "enviudaras" ],
+			[ "enviudara" ],
+			[ "enviudáramos" ],
+			[ "enviudarais", "enviudaran" ],
+			[ "enviudaran" ]
+		],
+		"10" : [
+			[ "enviudase" ],
+			[ "enviudases" ],
+			[ "enviudase" ],
+			[ "enviudásemos" ],
+			[ "enviudaseis", "enviudasen" ],
+			[ "enviudasen" ]
+		],
+		"11" : [
+			[ "enviudare" ],
+			[ "enviudares" ],
+			[ "enviudare" ],
+			[ "enviudáremos" ],
+			[ "enviudareis", "enviudaren" ],
+			[ "enviudaren" ]
+		],
+		"12" : {
+			"1" : [ "enviuda" ],
+			"2" : [ "enviude" ],
+			"3" : [ "enviudemos" ],
+			"4" : [ "enviudad" ],
+			"5" : [ "enviuden" ]
+		}
+	}
+}

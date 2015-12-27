@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=colaborar",
+	"word" : "colaborar",
+	"infinitivo" : "colaborar",
+	"participio" : [ "colaborado" ],
+	"gerundio" : [ "colaborando" ],
+	"tenses" : {
+		"3" : [
+			[ "colaboro" ],
+			[ "colaboras", "colaborás" ],
+			[ "colabora" ],
+			[ "colaboramos" ],
+			[ "colaboráis", "colaboran" ],
+			[ "colaboran" ]
+		],
+		"4" : [
+			[ "colaboré" ],
+			[ "colaboraste" ],
+			[ "colaboró" ],
+			[ "colaboramos" ],
+			[ "colaborasteis", "colaboraron" ],
+			[ "colaboraron" ]
+		],
+		"5" : [
+			[ "colaboraba" ],
+			[ "colaborabas" ],
+			[ "colaboraba" ],
+			[ "colaborábamos" ],
+			[ "colaborabais", "colaboraban" ],
+			[ "colaboraban" ]
+		],
+		"6" : [
+			[ "colaboraría" ],
+			[ "colaborarías" ],
+			[ "colaboraría" ],
+			[ "colaboraríamos" ],
+			[ "colaboraríais", "colaborarían" ],
+			[ "colaborarían" ]
+		],
+		"7" : [
+			[ "colaboraré" ],
+			[ "colaborarás" ],
+			[ "colaborará" ],
+			[ "colaboraremos" ],
+			[ "colaboraréis", "colaborarán" ],
+			[ "colaborarán" ]
+		],
+		"8" : [
+			[ "colabore" ],
+			[ "colabores" ],
+			[ "colabore" ],
+			[ "colaboremos" ],
+			[ "colaboréis", "colaboren" ],
+			[ "colaboren" ]
+		],
+		"9" : [
+			[ "colaborara" ],
+			[ "colaboraras" ],
+			[ "colaborara" ],
+			[ "colaboráramos" ],
+			[ "colaborarais", "colaboraran" ],
+			[ "colaboraran" ]
+		],
+		"10" : [
+			[ "colaborase" ],
+			[ "colaborases" ],
+			[ "colaborase" ],
+			[ "colaborásemos" ],
+			[ "colaboraseis", "colaborasen" ],
+			[ "colaborasen" ]
+		],
+		"11" : [
+			[ "colaborare" ],
+			[ "colaborares" ],
+			[ "colaborare" ],
+			[ "colaboráremos" ],
+			[ "colaborareis", "colaboraren" ],
+			[ "colaboraren" ]
+		],
+		"12" : {
+			"1" : [ "colabora" ],
+			"2" : [ "colabore" ],
+			"3" : [ "colaboremos" ],
+			"4" : [ "colaborad" ],
+			"5" : [ "colaboren" ]
+		}
+	}
+}

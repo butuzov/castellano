@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=raspar",
+	"word" : "raspar",
+	"infinitivo" : "raspar",
+	"participio" : [ "raspado" ],
+	"gerundio" : [ "raspando" ],
+	"tenses" : {
+		"3" : [
+			[ "raspo" ],
+			[ "raspas", "raspás" ],
+			[ "raspa" ],
+			[ "raspamos" ],
+			[ "raspáis", "raspan" ],
+			[ "raspan" ]
+		],
+		"4" : [
+			[ "raspé" ],
+			[ "raspaste" ],
+			[ "raspó" ],
+			[ "raspamos" ],
+			[ "raspasteis", "rasparon" ],
+			[ "rasparon" ]
+		],
+		"5" : [
+			[ "raspaba" ],
+			[ "raspabas" ],
+			[ "raspaba" ],
+			[ "raspábamos" ],
+			[ "raspabais", "raspaban" ],
+			[ "raspaban" ]
+		],
+		"6" : [
+			[ "rasparía" ],
+			[ "rasparías" ],
+			[ "rasparía" ],
+			[ "rasparíamos" ],
+			[ "rasparíais", "rasparían" ],
+			[ "rasparían" ]
+		],
+		"7" : [
+			[ "rasparé" ],
+			[ "rasparás" ],
+			[ "raspará" ],
+			[ "rasparemos" ],
+			[ "rasparéis", "rasparán" ],
+			[ "rasparán" ]
+		],
+		"8" : [
+			[ "raspe" ],
+			[ "raspes" ],
+			[ "raspe" ],
+			[ "raspemos" ],
+			[ "raspéis", "raspen" ],
+			[ "raspen" ]
+		],
+		"9" : [
+			[ "raspara" ],
+			[ "rasparas" ],
+			[ "raspara" ],
+			[ "raspáramos" ],
+			[ "rasparais", "rasparan" ],
+			[ "rasparan" ]
+		],
+		"10" : [
+			[ "raspase" ],
+			[ "raspases" ],
+			[ "raspase" ],
+			[ "raspásemos" ],
+			[ "raspaseis", "raspasen" ],
+			[ "raspasen" ]
+		],
+		"11" : [
+			[ "raspare" ],
+			[ "raspares" ],
+			[ "raspare" ],
+			[ "raspáremos" ],
+			[ "raspareis", "rasparen" ],
+			[ "rasparen" ]
+		],
+		"12" : {
+			"1" : [ "raspa" ],
+			"2" : [ "raspe" ],
+			"3" : [ "raspemos" ],
+			"4" : [ "raspad" ],
+			"5" : [ "raspen" ]
+		}
+	}
+}

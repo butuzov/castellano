@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fajar",
+	"word" : "fajar",
+	"infinitivo" : "fajar",
+	"participio" : [ "fajado" ],
+	"gerundio" : [ "fajando" ],
+	"tenses" : {
+		"3" : [
+			[ "fajo" ],
+			[ "fajas", "fajás" ],
+			[ "faja" ],
+			[ "fajamos" ],
+			[ "fajáis", "fajan" ],
+			[ "fajan" ]
+		],
+		"4" : [
+			[ "fajé" ],
+			[ "fajaste" ],
+			[ "fajó" ],
+			[ "fajamos" ],
+			[ "fajasteis", "fajaron" ],
+			[ "fajaron" ]
+		],
+		"5" : [
+			[ "fajaba" ],
+			[ "fajabas" ],
+			[ "fajaba" ],
+			[ "fajábamos" ],
+			[ "fajabais", "fajaban" ],
+			[ "fajaban" ]
+		],
+		"6" : [
+			[ "fajaría" ],
+			[ "fajarías" ],
+			[ "fajaría" ],
+			[ "fajaríamos" ],
+			[ "fajaríais", "fajarían" ],
+			[ "fajarían" ]
+		],
+		"7" : [
+			[ "fajaré" ],
+			[ "fajarás" ],
+			[ "fajará" ],
+			[ "fajaremos" ],
+			[ "fajaréis", "fajarán" ],
+			[ "fajarán" ]
+		],
+		"8" : [
+			[ "faje" ],
+			[ "fajes" ],
+			[ "faje" ],
+			[ "fajemos" ],
+			[ "fajéis", "fajen" ],
+			[ "fajen" ]
+		],
+		"9" : [
+			[ "fajara" ],
+			[ "fajaras" ],
+			[ "fajara" ],
+			[ "fajáramos" ],
+			[ "fajarais", "fajaran" ],
+			[ "fajaran" ]
+		],
+		"10" : [
+			[ "fajase" ],
+			[ "fajases" ],
+			[ "fajase" ],
+			[ "fajásemos" ],
+			[ "fajaseis", "fajasen" ],
+			[ "fajasen" ]
+		],
+		"11" : [
+			[ "fajare" ],
+			[ "fajares" ],
+			[ "fajare" ],
+			[ "fajáremos" ],
+			[ "fajareis", "fajaren" ],
+			[ "fajaren" ]
+		],
+		"12" : {
+			"1" : [ "faja" ],
+			"2" : [ "faje" ],
+			"3" : [ "fajemos" ],
+			"4" : [ "fajad" ],
+			"5" : [ "fajen" ]
+		}
+	}
+}

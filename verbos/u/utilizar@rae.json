@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=utilizar",
+	"word" : "utilizar",
+	"infinitivo" : "utilizar",
+	"participio" : [ "utilizado" ],
+	"gerundio" : [ "utilizando" ],
+	"tenses" : {
+		"3" : [
+			[ "utilizo" ],
+			[ "utilizas", "utilizás" ],
+			[ "utiliza" ],
+			[ "utilizamos" ],
+			[ "utilizáis", "utilizan" ],
+			[ "utilizan" ]
+		],
+		"4" : [
+			[ "utilicé" ],
+			[ "utilizaste" ],
+			[ "utilizó" ],
+			[ "utilizamos" ],
+			[ "utilizasteis", "utilizaron" ],
+			[ "utilizaron" ]
+		],
+		"5" : [
+			[ "utilizaba" ],
+			[ "utilizabas" ],
+			[ "utilizaba" ],
+			[ "utilizábamos" ],
+			[ "utilizabais", "utilizaban" ],
+			[ "utilizaban" ]
+		],
+		"6" : [
+			[ "utilizaría" ],
+			[ "utilizarías" ],
+			[ "utilizaría" ],
+			[ "utilizaríamos" ],
+			[ "utilizaríais", "utilizarían" ],
+			[ "utilizarían" ]
+		],
+		"7" : [
+			[ "utilizaré" ],
+			[ "utilizarás" ],
+			[ "utilizará" ],
+			[ "utilizaremos" ],
+			[ "utilizaréis", "utilizarán" ],
+			[ "utilizarán" ]
+		],
+		"8" : [
+			[ "utilice" ],
+			[ "utilices" ],
+			[ "utilice" ],
+			[ "utilicemos" ],
+			[ "utilicéis", "utilicen" ],
+			[ "utilicen" ]
+		],
+		"9" : [
+			[ "utilizara" ],
+			[ "utilizaras" ],
+			[ "utilizara" ],
+			[ "utilizáramos" ],
+			[ "utilizarais", "utilizaran" ],
+			[ "utilizaran" ]
+		],
+		"10" : [
+			[ "utilizase" ],
+			[ "utilizases" ],
+			[ "utilizase" ],
+			[ "utilizásemos" ],
+			[ "utilizaseis", "utilizasen" ],
+			[ "utilizasen" ]
+		],
+		"11" : [
+			[ "utilizare" ],
+			[ "utilizares" ],
+			[ "utilizare" ],
+			[ "utilizáremos" ],
+			[ "utilizareis", "utilizaren" ],
+			[ "utilizaren" ]
+		],
+		"12" : {
+			"1" : [ "utiliza" ],
+			"2" : [ "utilice" ],
+			"3" : [ "utilicemos" ],
+			"4" : [ "utilizad" ],
+			"5" : [ "utilicen" ]
+		}
+	}
+}

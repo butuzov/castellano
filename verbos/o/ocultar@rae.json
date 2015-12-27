@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ocultar",
+	"word" : "ocultar",
+	"infinitivo" : "ocultar",
+	"participio" : [ "ocultado" ],
+	"gerundio" : [ "ocultando" ],
+	"tenses" : {
+		"3" : [
+			[ "oculto" ],
+			[ "ocultas", "ocultás" ],
+			[ "oculta" ],
+			[ "ocultamos" ],
+			[ "ocultáis", "ocultan" ],
+			[ "ocultan" ]
+		],
+		"4" : [
+			[ "oculté" ],
+			[ "ocultaste" ],
+			[ "ocultó" ],
+			[ "ocultamos" ],
+			[ "ocultasteis", "ocultaron" ],
+			[ "ocultaron" ]
+		],
+		"5" : [
+			[ "ocultaba" ],
+			[ "ocultabas" ],
+			[ "ocultaba" ],
+			[ "ocultábamos" ],
+			[ "ocultabais", "ocultaban" ],
+			[ "ocultaban" ]
+		],
+		"6" : [
+			[ "ocultaría" ],
+			[ "ocultarías" ],
+			[ "ocultaría" ],
+			[ "ocultaríamos" ],
+			[ "ocultaríais", "ocultarían" ],
+			[ "ocultarían" ]
+		],
+		"7" : [
+			[ "ocultaré" ],
+			[ "ocultarás" ],
+			[ "ocultará" ],
+			[ "ocultaremos" ],
+			[ "ocultaréis", "ocultarán" ],
+			[ "ocultarán" ]
+		],
+		"8" : [
+			[ "oculte" ],
+			[ "ocultes" ],
+			[ "oculte" ],
+			[ "ocultemos" ],
+			[ "ocultéis", "oculten" ],
+			[ "oculten" ]
+		],
+		"9" : [
+			[ "ocultara" ],
+			[ "ocultaras" ],
+			[ "ocultara" ],
+			[ "ocultáramos" ],
+			[ "ocultarais", "ocultaran" ],
+			[ "ocultaran" ]
+		],
+		"10" : [
+			[ "ocultase" ],
+			[ "ocultases" ],
+			[ "ocultase" ],
+			[ "ocultásemos" ],
+			[ "ocultaseis", "ocultasen" ],
+			[ "ocultasen" ]
+		],
+		"11" : [
+			[ "ocultare" ],
+			[ "ocultares" ],
+			[ "ocultare" ],
+			[ "ocultáremos" ],
+			[ "ocultareis", "ocultaren" ],
+			[ "ocultaren" ]
+		],
+		"12" : {
+			"1" : [ "oculta" ],
+			"2" : [ "oculte" ],
+			"3" : [ "ocultemos" ],
+			"4" : [ "ocultad" ],
+			"5" : [ "oculten" ]
+		}
+	}
+}

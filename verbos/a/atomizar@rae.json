@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atomizar",
+	"word" : "atomizar",
+	"infinitivo" : "atomizar",
+	"participio" : [ "atomizado" ],
+	"gerundio" : [ "atomizando" ],
+	"tenses" : {
+		"3" : [
+			[ "atomizo" ],
+			[ "atomizas", "atomizás" ],
+			[ "atomiza" ],
+			[ "atomizamos" ],
+			[ "atomizáis", "atomizan" ],
+			[ "atomizan" ]
+		],
+		"4" : [
+			[ "atomicé" ],
+			[ "atomizaste" ],
+			[ "atomizó" ],
+			[ "atomizamos" ],
+			[ "atomizasteis", "atomizaron" ],
+			[ "atomizaron" ]
+		],
+		"5" : [
+			[ "atomizaba" ],
+			[ "atomizabas" ],
+			[ "atomizaba" ],
+			[ "atomizábamos" ],
+			[ "atomizabais", "atomizaban" ],
+			[ "atomizaban" ]
+		],
+		"6" : [
+			[ "atomizaría" ],
+			[ "atomizarías" ],
+			[ "atomizaría" ],
+			[ "atomizaríamos" ],
+			[ "atomizaríais", "atomizarían" ],
+			[ "atomizarían" ]
+		],
+		"7" : [
+			[ "atomizaré" ],
+			[ "atomizarás" ],
+			[ "atomizará" ],
+			[ "atomizaremos" ],
+			[ "atomizaréis", "atomizarán" ],
+			[ "atomizarán" ]
+		],
+		"8" : [
+			[ "atomice" ],
+			[ "atomices" ],
+			[ "atomice" ],
+			[ "atomicemos" ],
+			[ "atomicéis", "atomicen" ],
+			[ "atomicen" ]
+		],
+		"9" : [
+			[ "atomizara" ],
+			[ "atomizaras" ],
+			[ "atomizara" ],
+			[ "atomizáramos" ],
+			[ "atomizarais", "atomizaran" ],
+			[ "atomizaran" ]
+		],
+		"10" : [
+			[ "atomizase" ],
+			[ "atomizases" ],
+			[ "atomizase" ],
+			[ "atomizásemos" ],
+			[ "atomizaseis", "atomizasen" ],
+			[ "atomizasen" ]
+		],
+		"11" : [
+			[ "atomizare" ],
+			[ "atomizares" ],
+			[ "atomizare" ],
+			[ "atomizáremos" ],
+			[ "atomizareis", "atomizaren" ],
+			[ "atomizaren" ]
+		],
+		"12" : {
+			"1" : [ "atomiza" ],
+			"2" : [ "atomice" ],
+			"3" : [ "atomicemos" ],
+			"4" : [ "atomizad" ],
+			"5" : [ "atomicen" ]
+		}
+	}
+}

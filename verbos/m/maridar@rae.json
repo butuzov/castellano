@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=maridar",
+	"word" : "maridar",
+	"infinitivo" : "maridar",
+	"participio" : [ "maridado" ],
+	"gerundio" : [ "maridando" ],
+	"tenses" : {
+		"3" : [
+			[ "marido" ],
+			[ "maridas", "maridás" ],
+			[ "marida" ],
+			[ "maridamos" ],
+			[ "maridáis", "maridan" ],
+			[ "maridan" ]
+		],
+		"4" : [
+			[ "maridé" ],
+			[ "maridaste" ],
+			[ "maridó" ],
+			[ "maridamos" ],
+			[ "maridasteis", "maridaron" ],
+			[ "maridaron" ]
+		],
+		"5" : [
+			[ "maridaba" ],
+			[ "maridabas" ],
+			[ "maridaba" ],
+			[ "maridábamos" ],
+			[ "maridabais", "maridaban" ],
+			[ "maridaban" ]
+		],
+		"6" : [
+			[ "maridaría" ],
+			[ "maridarías" ],
+			[ "maridaría" ],
+			[ "maridaríamos" ],
+			[ "maridaríais", "maridarían" ],
+			[ "maridarían" ]
+		],
+		"7" : [
+			[ "maridaré" ],
+			[ "maridarás" ],
+			[ "maridará" ],
+			[ "maridaremos" ],
+			[ "maridaréis", "maridarán" ],
+			[ "maridarán" ]
+		],
+		"8" : [
+			[ "maride" ],
+			[ "marides" ],
+			[ "maride" ],
+			[ "maridemos" ],
+			[ "maridéis", "mariden" ],
+			[ "mariden" ]
+		],
+		"9" : [
+			[ "maridara" ],
+			[ "maridaras" ],
+			[ "maridara" ],
+			[ "maridáramos" ],
+			[ "maridarais", "maridaran" ],
+			[ "maridaran" ]
+		],
+		"10" : [
+			[ "maridase" ],
+			[ "maridases" ],
+			[ "maridase" ],
+			[ "maridásemos" ],
+			[ "maridaseis", "maridasen" ],
+			[ "maridasen" ]
+		],
+		"11" : [
+			[ "maridare" ],
+			[ "maridares" ],
+			[ "maridare" ],
+			[ "maridáremos" ],
+			[ "maridareis", "maridaren" ],
+			[ "maridaren" ]
+		],
+		"12" : {
+			"1" : [ "marida" ],
+			"2" : [ "maride" ],
+			"3" : [ "maridemos" ],
+			"4" : [ "maridad" ],
+			"5" : [ "mariden" ]
+		}
+	}
+}

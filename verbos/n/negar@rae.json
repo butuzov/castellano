@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=negar",
+	"word" : "negar",
+	"infinitivo" : "negar",
+	"participio" : [ "negado" ],
+	"gerundio" : [ "negando" ],
+	"tenses" : {
+		"3" : [
+			[ "niego" ],
+			[ "niegas", "negás" ],
+			[ "niega" ],
+			[ "negamos" ],
+			[ "negáis", "niegan" ],
+			[ "niegan" ]
+		],
+		"4" : [
+			[ "negué" ],
+			[ "negaste" ],
+			[ "negó" ],
+			[ "negamos" ],
+			[ "negasteis", "negaron" ],
+			[ "negaron" ]
+		],
+		"5" : [
+			[ "negaba" ],
+			[ "negabas" ],
+			[ "negaba" ],
+			[ "negábamos" ],
+			[ "negabais", "negaban" ],
+			[ "negaban" ]
+		],
+		"6" : [
+			[ "negaría" ],
+			[ "negarías" ],
+			[ "negaría" ],
+			[ "negaríamos" ],
+			[ "negaríais", "negarían" ],
+			[ "negarían" ]
+		],
+		"7" : [
+			[ "negaré" ],
+			[ "negarás" ],
+			[ "negará" ],
+			[ "negaremos" ],
+			[ "negaréis", "negarán" ],
+			[ "negarán" ]
+		],
+		"8" : [
+			[ "niegue" ],
+			[ "niegues" ],
+			[ "niegue" ],
+			[ "neguemos" ],
+			[ "neguéis", "nieguen" ],
+			[ "nieguen" ]
+		],
+		"9" : [
+			[ "negara" ],
+			[ "negaras" ],
+			[ "negara" ],
+			[ "negáramos" ],
+			[ "negarais", "negaran" ],
+			[ "negaran" ]
+		],
+		"10" : [
+			[ "negase" ],
+			[ "negases" ],
+			[ "negase" ],
+			[ "negásemos" ],
+			[ "negaseis", "negasen" ],
+			[ "negasen" ]
+		],
+		"11" : [
+			[ "negare" ],
+			[ "negares" ],
+			[ "negare" ],
+			[ "negáremos" ],
+			[ "negareis", "negaren" ],
+			[ "negaren" ]
+		],
+		"12" : {
+			"1" : [ "niega" ],
+			"2" : [ "niegue" ],
+			"3" : [ "neguemos" ],
+			"4" : [ "negad" ],
+			"5" : [ "nieguen" ]
+		}
+	}
+}

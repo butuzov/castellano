@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tener",
+	"word" : "tener",
+	"infinitivo" : "tener",
+	"participio" : [ "tenido" ],
+	"gerundio" : [ "teniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "tengo" ],
+			[ "tienes", "tenés" ],
+			[ "tiene" ],
+			[ "tenemos" ],
+			[ "tenéis", "tienen" ],
+			[ "tienen" ]
+		],
+		"4" : [
+			[ "tuve" ],
+			[ "tuviste" ],
+			[ "tuvo" ],
+			[ "tuvimos" ],
+			[ "tuvisteis", "tuvieron" ],
+			[ "tuvieron" ]
+		],
+		"5" : [
+			[ "tenía" ],
+			[ "tenías" ],
+			[ "tenía" ],
+			[ "teníamos" ],
+			[ "teníais", "tenían" ],
+			[ "tenían" ]
+		],
+		"6" : [
+			[ "tendría" ],
+			[ "tendrías" ],
+			[ "tendría" ],
+			[ "tendríamos" ],
+			[ "tendríais", "tendrían" ],
+			[ "tendrían" ]
+		],
+		"7" : [
+			[ "tendré" ],
+			[ "tendrás" ],
+			[ "tendrá" ],
+			[ "tendremos" ],
+			[ "tendréis", "tendrán" ],
+			[ "tendrán" ]
+		],
+		"8" : [
+			[ "tenga" ],
+			[ "tengas" ],
+			[ "tenga" ],
+			[ "tengamos" ],
+			[ "tengáis", "tengan" ],
+			[ "tengan" ]
+		],
+		"9" : [
+			[ "tuviera" ],
+			[ "tuvieras" ],
+			[ "tuviera" ],
+			[ "tuviéramos" ],
+			[ "tuvierais", "tuvieran" ],
+			[ "tuvieran" ]
+		],
+		"10" : [
+			[ "tuviese" ],
+			[ "tuvieses" ],
+			[ "tuviese" ],
+			[ "tuviésemos" ],
+			[ "tuvieseis", "tuviesen" ],
+			[ "tuviesen" ]
+		],
+		"11" : [
+			[ "tuviere" ],
+			[ "tuvieres" ],
+			[ "tuviere" ],
+			[ "tuviéremos" ],
+			[ "tuviereis", "tuvieren" ],
+			[ "tuvieren" ]
+		],
+		"12" : {
+			"1" : [ "ten" ],
+			"2" : [ "tenga" ],
+			"3" : [ "tengamos" ],
+			"4" : [ "tened" ],
+			"5" : [ "tengan" ]
+		}
+	}
+}

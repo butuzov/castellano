@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmentir",
+	"word" : "desmentir",
+	"infinitivo" : "desmentir",
+	"participio" : [ "desmentido" ],
+	"gerundio" : [ "desmintiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desmiento" ],
+			[ "desmientes", "desmentís" ],
+			[ "desmiente" ],
+			[ "desmentimos" ],
+			[ "desmentís", "desmienten" ],
+			[ "desmienten" ]
+		],
+		"4" : [
+			[ "desmentí" ],
+			[ "desmentiste" ],
+			[ "desmintió" ],
+			[ "desmentimos" ],
+			[ "desmentisteis", "desmintieron" ],
+			[ "desmintieron" ]
+		],
+		"5" : [
+			[ "desmentía" ],
+			[ "desmentías" ],
+			[ "desmentía" ],
+			[ "desmentíamos" ],
+			[ "desmentíais", "desmentían" ],
+			[ "desmentían" ]
+		],
+		"6" : [
+			[ "desmentiría" ],
+			[ "desmentirías" ],
+			[ "desmentiría" ],
+			[ "desmentiríamos" ],
+			[ "desmentiríais", "desmentirían" ],
+			[ "desmentirían" ]
+		],
+		"7" : [
+			[ "desmentiré" ],
+			[ "desmentirás" ],
+			[ "desmentirá" ],
+			[ "desmentiremos" ],
+			[ "desmentiréis", "desmentirán" ],
+			[ "desmentirán" ]
+		],
+		"8" : [
+			[ "desmienta" ],
+			[ "desmientas" ],
+			[ "desmienta" ],
+			[ "desmintamos" ],
+			[ "desmintáis", "desmientan" ],
+			[ "desmientan" ]
+		],
+		"9" : [
+			[ "desmintiera" ],
+			[ "desmintieras" ],
+			[ "desmintiera" ],
+			[ "desmintiéramos" ],
+			[ "desmintierais", "desmintieran" ],
+			[ "desmintieran" ]
+		],
+		"10" : [
+			[ "desmintiese" ],
+			[ "desmintieses" ],
+			[ "desmintiese" ],
+			[ "desmintiésemos" ],
+			[ "desmintieseis", "desmintiesen" ],
+			[ "desmintiesen" ]
+		],
+		"11" : [
+			[ "desmintiere" ],
+			[ "desmintieres" ],
+			[ "desmintiere" ],
+			[ "desmintiéremos" ],
+			[ "desmintiereis", "desmintieren" ],
+			[ "desmintieren" ]
+		],
+		"12" : {
+			"1" : [ "desmiente" ],
+			"2" : [ "desmienta" ],
+			"3" : [ "desmintamos" ],
+			"4" : [ "desmentid" ],
+			"5" : [ "desmientan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enserir",
+	"word" : "enserir",
+	"infinitivo" : "enserir",
+	"participio" : [ "enserido" ],
+	"gerundio" : [ "enseriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "ensero" ],
+			[ "enseres", "enserís" ],
+			[ "ensere" ],
+			[ "enserimos" ],
+			[ "enserís", "enseren" ],
+			[ "enseren" ]
+		],
+		"4" : [
+			[ "enserí" ],
+			[ "enseriste" ],
+			[ "enserió" ],
+			[ "enserimos" ],
+			[ "enseristeis", "enserieron" ],
+			[ "enserieron" ]
+		],
+		"5" : [
+			[ "ensería" ],
+			[ "enserías" ],
+			[ "ensería" ],
+			[ "enseríamos" ],
+			[ "enseríais", "enserían" ],
+			[ "enserían" ]
+		],
+		"6" : [
+			[ "enseriría" ],
+			[ "enserirías" ],
+			[ "enseriría" ],
+			[ "enseriríamos" ],
+			[ "enseriríais", "enserirían" ],
+			[ "enserirían" ]
+		],
+		"7" : [
+			[ "enseriré" ],
+			[ "enserirás" ],
+			[ "enserirá" ],
+			[ "enseriremos" ],
+			[ "enseriréis", "enserirán" ],
+			[ "enserirán" ]
+		],
+		"8" : [
+			[ "ensera" ],
+			[ "enseras" ],
+			[ "ensera" ],
+			[ "enseramos" ],
+			[ "enseráis", "enseran" ],
+			[ "enseran" ]
+		],
+		"9" : [
+			[ "enseriera" ],
+			[ "enserieras" ],
+			[ "enseriera" ],
+			[ "enseriéramos" ],
+			[ "enserierais", "enserieran" ],
+			[ "enserieran" ]
+		],
+		"10" : [
+			[ "enseriese" ],
+			[ "enserieses" ],
+			[ "enseriese" ],
+			[ "enseriésemos" ],
+			[ "enserieseis", "enseriesen" ],
+			[ "enseriesen" ]
+		],
+		"11" : [
+			[ "enseriere" ],
+			[ "enserieres" ],
+			[ "enseriere" ],
+			[ "enseriéremos" ],
+			[ "enseriereis", "enserieren" ],
+			[ "enserieren" ]
+		],
+		"12" : {
+			"1" : [ "ensere" ],
+			"2" : [ "ensera" ],
+			"3" : [ "enseramos" ],
+			"4" : [ "enserid" ],
+			"5" : [ "enseran" ]
+		}
+	}
+}

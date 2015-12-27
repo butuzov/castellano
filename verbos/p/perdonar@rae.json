@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=perdonar",
+	"word" : "perdonar",
+	"infinitivo" : "perdonar",
+	"participio" : [ "perdonado" ],
+	"gerundio" : [ "perdonando" ],
+	"tenses" : {
+		"3" : [
+			[ "perdono" ],
+			[ "perdonas", "perdonás" ],
+			[ "perdona" ],
+			[ "perdonamos" ],
+			[ "perdonáis", "perdonan" ],
+			[ "perdonan" ]
+		],
+		"4" : [
+			[ "perdoné" ],
+			[ "perdonaste" ],
+			[ "perdonó" ],
+			[ "perdonamos" ],
+			[ "perdonasteis", "perdonaron" ],
+			[ "perdonaron" ]
+		],
+		"5" : [
+			[ "perdonaba" ],
+			[ "perdonabas" ],
+			[ "perdonaba" ],
+			[ "perdonábamos" ],
+			[ "perdonabais", "perdonaban" ],
+			[ "perdonaban" ]
+		],
+		"6" : [
+			[ "perdonaría" ],
+			[ "perdonarías" ],
+			[ "perdonaría" ],
+			[ "perdonaríamos" ],
+			[ "perdonaríais", "perdonarían" ],
+			[ "perdonarían" ]
+		],
+		"7" : [
+			[ "perdonaré" ],
+			[ "perdonarás" ],
+			[ "perdonará" ],
+			[ "perdonaremos" ],
+			[ "perdonaréis", "perdonarán" ],
+			[ "perdonarán" ]
+		],
+		"8" : [
+			[ "perdone" ],
+			[ "perdones" ],
+			[ "perdone" ],
+			[ "perdonemos" ],
+			[ "perdonéis", "perdonen" ],
+			[ "perdonen" ]
+		],
+		"9" : [
+			[ "perdonara" ],
+			[ "perdonaras" ],
+			[ "perdonara" ],
+			[ "perdonáramos" ],
+			[ "perdonarais", "perdonaran" ],
+			[ "perdonaran" ]
+		],
+		"10" : [
+			[ "perdonase" ],
+			[ "perdonases" ],
+			[ "perdonase" ],
+			[ "perdonásemos" ],
+			[ "perdonaseis", "perdonasen" ],
+			[ "perdonasen" ]
+		],
+		"11" : [
+			[ "perdonare" ],
+			[ "perdonares" ],
+			[ "perdonare" ],
+			[ "perdonáremos" ],
+			[ "perdonareis", "perdonaren" ],
+			[ "perdonaren" ]
+		],
+		"12" : {
+			"1" : [ "perdona" ],
+			"2" : [ "perdone" ],
+			"3" : [ "perdonemos" ],
+			"4" : [ "perdonad" ],
+			"5" : [ "perdonen" ]
+		}
+	}
+}

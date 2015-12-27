@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=editar",
+	"word" : "editar",
+	"infinitivo" : "editar",
+	"participio" : [ "editado" ],
+	"gerundio" : [ "editando" ],
+	"tenses" : {
+		"3" : [
+			[ "edito" ],
+			[ "editas", "editás" ],
+			[ "edita" ],
+			[ "editamos" ],
+			[ "editáis", "editan" ],
+			[ "editan" ]
+		],
+		"4" : [
+			[ "edité" ],
+			[ "editaste" ],
+			[ "editó" ],
+			[ "editamos" ],
+			[ "editasteis", "editaron" ],
+			[ "editaron" ]
+		],
+		"5" : [
+			[ "editaba" ],
+			[ "editabas" ],
+			[ "editaba" ],
+			[ "editábamos" ],
+			[ "editabais", "editaban" ],
+			[ "editaban" ]
+		],
+		"6" : [
+			[ "editaría" ],
+			[ "editarías" ],
+			[ "editaría" ],
+			[ "editaríamos" ],
+			[ "editaríais", "editarían" ],
+			[ "editarían" ]
+		],
+		"7" : [
+			[ "editaré" ],
+			[ "editarás" ],
+			[ "editará" ],
+			[ "editaremos" ],
+			[ "editaréis", "editarán" ],
+			[ "editarán" ]
+		],
+		"8" : [
+			[ "edite" ],
+			[ "edites" ],
+			[ "edite" ],
+			[ "editemos" ],
+			[ "editéis", "editen" ],
+			[ "editen" ]
+		],
+		"9" : [
+			[ "editara" ],
+			[ "editaras" ],
+			[ "editara" ],
+			[ "editáramos" ],
+			[ "editarais", "editaran" ],
+			[ "editaran" ]
+		],
+		"10" : [
+			[ "editase" ],
+			[ "editases" ],
+			[ "editase" ],
+			[ "editásemos" ],
+			[ "editaseis", "editasen" ],
+			[ "editasen" ]
+		],
+		"11" : [
+			[ "editare" ],
+			[ "editares" ],
+			[ "editare" ],
+			[ "editáremos" ],
+			[ "editareis", "editaren" ],
+			[ "editaren" ]
+		],
+		"12" : {
+			"1" : [ "edita" ],
+			"2" : [ "edite" ],
+			"3" : [ "editemos" ],
+			"4" : [ "editad" ],
+			"5" : [ "editen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=armar",
+	"word" : "armar",
+	"infinitivo" : "armar",
+	"participio" : [ "armado" ],
+	"gerundio" : [ "armando" ],
+	"tenses" : {
+		"3" : [
+			[ "armo" ],
+			[ "armas", "armás" ],
+			[ "arma" ],
+			[ "armamos" ],
+			[ "armáis", "arman" ],
+			[ "arman" ]
+		],
+		"4" : [
+			[ "armé" ],
+			[ "armaste" ],
+			[ "armó" ],
+			[ "armamos" ],
+			[ "armasteis", "armaron" ],
+			[ "armaron" ]
+		],
+		"5" : [
+			[ "armaba" ],
+			[ "armabas" ],
+			[ "armaba" ],
+			[ "armábamos" ],
+			[ "armabais", "armaban" ],
+			[ "armaban" ]
+		],
+		"6" : [
+			[ "armaría" ],
+			[ "armarías" ],
+			[ "armaría" ],
+			[ "armaríamos" ],
+			[ "armaríais", "armarían" ],
+			[ "armarían" ]
+		],
+		"7" : [
+			[ "armaré" ],
+			[ "armarás" ],
+			[ "armará" ],
+			[ "armaremos" ],
+			[ "armaréis", "armarán" ],
+			[ "armarán" ]
+		],
+		"8" : [
+			[ "arme" ],
+			[ "armes" ],
+			[ "arme" ],
+			[ "armemos" ],
+			[ "arméis", "armen" ],
+			[ "armen" ]
+		],
+		"9" : [
+			[ "armara" ],
+			[ "armaras" ],
+			[ "armara" ],
+			[ "armáramos" ],
+			[ "armarais", "armaran" ],
+			[ "armaran" ]
+		],
+		"10" : [
+			[ "armase" ],
+			[ "armases" ],
+			[ "armase" ],
+			[ "armásemos" ],
+			[ "armaseis", "armasen" ],
+			[ "armasen" ]
+		],
+		"11" : [
+			[ "armare" ],
+			[ "armares" ],
+			[ "armare" ],
+			[ "armáremos" ],
+			[ "armareis", "armaren" ],
+			[ "armaren" ]
+		],
+		"12" : {
+			"1" : [ "arma" ],
+			"2" : [ "arme" ],
+			"3" : [ "armemos" ],
+			"4" : [ "armad" ],
+			"5" : [ "armen" ]
+		}
+	}
+}

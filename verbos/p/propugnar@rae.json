@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=propugnar",
+	"word" : "propugnar",
+	"infinitivo" : "propugnar",
+	"participio" : [ "propugnado" ],
+	"gerundio" : [ "propugnando" ],
+	"tenses" : {
+		"3" : [
+			[ "propugno" ],
+			[ "propugnas", "propugnás" ],
+			[ "propugna" ],
+			[ "propugnamos" ],
+			[ "propugnáis", "propugnan" ],
+			[ "propugnan" ]
+		],
+		"4" : [
+			[ "propugné" ],
+			[ "propugnaste" ],
+			[ "propugnó" ],
+			[ "propugnamos" ],
+			[ "propugnasteis", "propugnaron" ],
+			[ "propugnaron" ]
+		],
+		"5" : [
+			[ "propugnaba" ],
+			[ "propugnabas" ],
+			[ "propugnaba" ],
+			[ "propugnábamos" ],
+			[ "propugnabais", "propugnaban" ],
+			[ "propugnaban" ]
+		],
+		"6" : [
+			[ "propugnaría" ],
+			[ "propugnarías" ],
+			[ "propugnaría" ],
+			[ "propugnaríamos" ],
+			[ "propugnaríais", "propugnarían" ],
+			[ "propugnarían" ]
+		],
+		"7" : [
+			[ "propugnaré" ],
+			[ "propugnarás" ],
+			[ "propugnará" ],
+			[ "propugnaremos" ],
+			[ "propugnaréis", "propugnarán" ],
+			[ "propugnarán" ]
+		],
+		"8" : [
+			[ "propugne" ],
+			[ "propugnes" ],
+			[ "propugne" ],
+			[ "propugnemos" ],
+			[ "propugnéis", "propugnen" ],
+			[ "propugnen" ]
+		],
+		"9" : [
+			[ "propugnara" ],
+			[ "propugnaras" ],
+			[ "propugnara" ],
+			[ "propugnáramos" ],
+			[ "propugnarais", "propugnaran" ],
+			[ "propugnaran" ]
+		],
+		"10" : [
+			[ "propugnase" ],
+			[ "propugnases" ],
+			[ "propugnase" ],
+			[ "propugnásemos" ],
+			[ "propugnaseis", "propugnasen" ],
+			[ "propugnasen" ]
+		],
+		"11" : [
+			[ "propugnare" ],
+			[ "propugnares" ],
+			[ "propugnare" ],
+			[ "propugnáremos" ],
+			[ "propugnareis", "propugnaren" ],
+			[ "propugnaren" ]
+		],
+		"12" : {
+			"1" : [ "propugna" ],
+			"2" : [ "propugne" ],
+			"3" : [ "propugnemos" ],
+			"4" : [ "propugnad" ],
+			"5" : [ "propugnen" ]
+		}
+	}
+}

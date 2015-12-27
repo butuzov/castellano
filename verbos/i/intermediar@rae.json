@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=intermediar",
+	"word" : "intermediar",
+	"infinitivo" : "intermediar",
+	"participio" : [ "intermediado" ],
+	"gerundio" : [ "intermediando" ],
+	"tenses" : {
+		"3" : [
+			[ "intermedio" ],
+			[ "intermedias", "intermediás" ],
+			[ "intermedia" ],
+			[ "intermediamos" ],
+			[ "intermediáis", "intermedian" ],
+			[ "intermedian" ]
+		],
+		"4" : [
+			[ "intermedié" ],
+			[ "intermediaste" ],
+			[ "intermedió" ],
+			[ "intermediamos" ],
+			[ "intermediasteis", "intermediaron" ],
+			[ "intermediaron" ]
+		],
+		"5" : [
+			[ "intermediaba" ],
+			[ "intermediabas" ],
+			[ "intermediaba" ],
+			[ "intermediábamos" ],
+			[ "intermediabais", "intermediaban" ],
+			[ "intermediaban" ]
+		],
+		"6" : [
+			[ "intermediaría" ],
+			[ "intermediarías" ],
+			[ "intermediaría" ],
+			[ "intermediaríamos" ],
+			[ "intermediaríais", "intermediarían" ],
+			[ "intermediarían" ]
+		],
+		"7" : [
+			[ "intermediaré" ],
+			[ "intermediarás" ],
+			[ "intermediará" ],
+			[ "intermediaremos" ],
+			[ "intermediaréis", "intermediarán" ],
+			[ "intermediarán" ]
+		],
+		"8" : [
+			[ "intermedie" ],
+			[ "intermedies" ],
+			[ "intermedie" ],
+			[ "intermediemos" ],
+			[ "intermediéis", "intermedien" ],
+			[ "intermedien" ]
+		],
+		"9" : [
+			[ "intermediara" ],
+			[ "intermediaras" ],
+			[ "intermediara" ],
+			[ "intermediáramos" ],
+			[ "intermediarais", "intermediaran" ],
+			[ "intermediaran" ]
+		],
+		"10" : [
+			[ "intermediase" ],
+			[ "intermediases" ],
+			[ "intermediase" ],
+			[ "intermediásemos" ],
+			[ "intermediaseis", "intermediasen" ],
+			[ "intermediasen" ]
+		],
+		"11" : [
+			[ "intermediare" ],
+			[ "intermediares" ],
+			[ "intermediare" ],
+			[ "intermediáremos" ],
+			[ "intermediareis", "intermediaren" ],
+			[ "intermediaren" ]
+		],
+		"12" : {
+			"1" : [ "intermedia" ],
+			"2" : [ "intermedie" ],
+			"3" : [ "intermediemos" ],
+			"4" : [ "intermediad" ],
+			"5" : [ "intermedien" ]
+		}
+	}
+}

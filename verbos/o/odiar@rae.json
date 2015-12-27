@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=odiar",
+	"word" : "odiar",
+	"infinitivo" : "odiar",
+	"participio" : [ "odiado" ],
+	"gerundio" : [ "odiando" ],
+	"tenses" : {
+		"3" : [
+			[ "odio" ],
+			[ "odias", "odiás" ],
+			[ "odia" ],
+			[ "odiamos" ],
+			[ "odiáis", "odian" ],
+			[ "odian" ]
+		],
+		"4" : [
+			[ "odié" ],
+			[ "odiaste" ],
+			[ "odió" ],
+			[ "odiamos" ],
+			[ "odiasteis", "odiaron" ],
+			[ "odiaron" ]
+		],
+		"5" : [
+			[ "odiaba" ],
+			[ "odiabas" ],
+			[ "odiaba" ],
+			[ "odiábamos" ],
+			[ "odiabais", "odiaban" ],
+			[ "odiaban" ]
+		],
+		"6" : [
+			[ "odiaría" ],
+			[ "odiarías" ],
+			[ "odiaría" ],
+			[ "odiaríamos" ],
+			[ "odiaríais", "odiarían" ],
+			[ "odiarían" ]
+		],
+		"7" : [
+			[ "odiaré" ],
+			[ "odiarás" ],
+			[ "odiará" ],
+			[ "odiaremos" ],
+			[ "odiaréis", "odiarán" ],
+			[ "odiarán" ]
+		],
+		"8" : [
+			[ "odie" ],
+			[ "odies" ],
+			[ "odie" ],
+			[ "odiemos" ],
+			[ "odiéis", "odien" ],
+			[ "odien" ]
+		],
+		"9" : [
+			[ "odiara" ],
+			[ "odiaras" ],
+			[ "odiara" ],
+			[ "odiáramos" ],
+			[ "odiarais", "odiaran" ],
+			[ "odiaran" ]
+		],
+		"10" : [
+			[ "odiase" ],
+			[ "odiases" ],
+			[ "odiase" ],
+			[ "odiásemos" ],
+			[ "odiaseis", "odiasen" ],
+			[ "odiasen" ]
+		],
+		"11" : [
+			[ "odiare" ],
+			[ "odiares" ],
+			[ "odiare" ],
+			[ "odiáremos" ],
+			[ "odiareis", "odiaren" ],
+			[ "odiaren" ]
+		],
+		"12" : {
+			"1" : [ "odia" ],
+			"2" : [ "odie" ],
+			"3" : [ "odiemos" ],
+			"4" : [ "odiad" ],
+			"5" : [ "odien" ]
+		}
+	}
+}

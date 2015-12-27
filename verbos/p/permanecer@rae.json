@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=permanecer",
+	"word" : "permanecer",
+	"infinitivo" : "permanecer",
+	"participio" : [ "permanecido" ],
+	"gerundio" : [ "permaneciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "permanezco" ],
+			[ "permaneces", "permanecés" ],
+			[ "permanece" ],
+			[ "permanecemos" ],
+			[ "permanecéis", "permanecen" ],
+			[ "permanecen" ]
+		],
+		"4" : [
+			[ "permanecí" ],
+			[ "permaneciste" ],
+			[ "permaneció" ],
+			[ "permanecimos" ],
+			[ "permanecisteis", "permanecieron" ],
+			[ "permanecieron" ]
+		],
+		"5" : [
+			[ "permanecía" ],
+			[ "permanecías" ],
+			[ "permanecía" ],
+			[ "permanecíamos" ],
+			[ "permanecíais", "permanecían" ],
+			[ "permanecían" ]
+		],
+		"6" : [
+			[ "permanecería" ],
+			[ "permanecerías" ],
+			[ "permanecería" ],
+			[ "permaneceríamos" ],
+			[ "permaneceríais", "permanecerían" ],
+			[ "permanecerían" ]
+		],
+		"7" : [
+			[ "permaneceré" ],
+			[ "permanecerás" ],
+			[ "permanecerá" ],
+			[ "permaneceremos" ],
+			[ "permaneceréis", "permanecerán" ],
+			[ "permanecerán" ]
+		],
+		"8" : [
+			[ "permanezca" ],
+			[ "permanezcas" ],
+			[ "permanezca" ],
+			[ "permanezcamos" ],
+			[ "permanezcáis", "permanezcan" ],
+			[ "permanezcan" ]
+		],
+		"9" : [
+			[ "permaneciera" ],
+			[ "permanecieras" ],
+			[ "permaneciera" ],
+			[ "permaneciéramos" ],
+			[ "permanecierais", "permanecieran" ],
+			[ "permanecieran" ]
+		],
+		"10" : [
+			[ "permaneciese" ],
+			[ "permanecieses" ],
+			[ "permaneciese" ],
+			[ "permaneciésemos" ],
+			[ "permanecieseis", "permaneciesen" ],
+			[ "permaneciesen" ]
+		],
+		"11" : [
+			[ "permaneciere" ],
+			[ "permanecieres" ],
+			[ "permaneciere" ],
+			[ "permaneciéremos" ],
+			[ "permaneciereis", "permanecieren" ],
+			[ "permanecieren" ]
+		],
+		"12" : {
+			"1" : [ "permanece" ],
+			"2" : [ "permanezca" ],
+			"3" : [ "permanezcamos" ],
+			"4" : [ "permaneced" ],
+			"5" : [ "permanezcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conmutar",
+	"word" : "conmutar",
+	"infinitivo" : "conmutar",
+	"participio" : [ "conmutado" ],
+	"gerundio" : [ "conmutando" ],
+	"tenses" : {
+		"3" : [
+			[ "conmuto" ],
+			[ "conmutas", "conmutás" ],
+			[ "conmuta" ],
+			[ "conmutamos" ],
+			[ "conmutáis", "conmutan" ],
+			[ "conmutan" ]
+		],
+		"4" : [
+			[ "conmuté" ],
+			[ "conmutaste" ],
+			[ "conmutó" ],
+			[ "conmutamos" ],
+			[ "conmutasteis", "conmutaron" ],
+			[ "conmutaron" ]
+		],
+		"5" : [
+			[ "conmutaba" ],
+			[ "conmutabas" ],
+			[ "conmutaba" ],
+			[ "conmutábamos" ],
+			[ "conmutabais", "conmutaban" ],
+			[ "conmutaban" ]
+		],
+		"6" : [
+			[ "conmutaría" ],
+			[ "conmutarías" ],
+			[ "conmutaría" ],
+			[ "conmutaríamos" ],
+			[ "conmutaríais", "conmutarían" ],
+			[ "conmutarían" ]
+		],
+		"7" : [
+			[ "conmutaré" ],
+			[ "conmutarás" ],
+			[ "conmutará" ],
+			[ "conmutaremos" ],
+			[ "conmutaréis", "conmutarán" ],
+			[ "conmutarán" ]
+		],
+		"8" : [
+			[ "conmute" ],
+			[ "conmutes" ],
+			[ "conmute" ],
+			[ "conmutemos" ],
+			[ "conmutéis", "conmuten" ],
+			[ "conmuten" ]
+		],
+		"9" : [
+			[ "conmutara" ],
+			[ "conmutaras" ],
+			[ "conmutara" ],
+			[ "conmutáramos" ],
+			[ "conmutarais", "conmutaran" ],
+			[ "conmutaran" ]
+		],
+		"10" : [
+			[ "conmutase" ],
+			[ "conmutases" ],
+			[ "conmutase" ],
+			[ "conmutásemos" ],
+			[ "conmutaseis", "conmutasen" ],
+			[ "conmutasen" ]
+		],
+		"11" : [
+			[ "conmutare" ],
+			[ "conmutares" ],
+			[ "conmutare" ],
+			[ "conmutáremos" ],
+			[ "conmutareis", "conmutaren" ],
+			[ "conmutaren" ]
+		],
+		"12" : {
+			"1" : [ "conmuta" ],
+			"2" : [ "conmute" ],
+			"3" : [ "conmutemos" ],
+			"4" : [ "conmutad" ],
+			"5" : [ "conmuten" ]
+		}
+	}
+}

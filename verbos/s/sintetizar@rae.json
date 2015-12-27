@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sintetizar",
+	"word" : "sintetizar",
+	"infinitivo" : "sintetizar",
+	"participio" : [ "sintetizado" ],
+	"gerundio" : [ "sintetizando" ],
+	"tenses" : {
+		"3" : [
+			[ "sintetizo" ],
+			[ "sintetizas", "sintetizás" ],
+			[ "sintetiza" ],
+			[ "sintetizamos" ],
+			[ "sintetizáis", "sintetizan" ],
+			[ "sintetizan" ]
+		],
+		"4" : [
+			[ "sinteticé" ],
+			[ "sintetizaste" ],
+			[ "sintetizó" ],
+			[ "sintetizamos" ],
+			[ "sintetizasteis", "sintetizaron" ],
+			[ "sintetizaron" ]
+		],
+		"5" : [
+			[ "sintetizaba" ],
+			[ "sintetizabas" ],
+			[ "sintetizaba" ],
+			[ "sintetizábamos" ],
+			[ "sintetizabais", "sintetizaban" ],
+			[ "sintetizaban" ]
+		],
+		"6" : [
+			[ "sintetizaría" ],
+			[ "sintetizarías" ],
+			[ "sintetizaría" ],
+			[ "sintetizaríamos" ],
+			[ "sintetizaríais", "sintetizarían" ],
+			[ "sintetizarían" ]
+		],
+		"7" : [
+			[ "sintetizaré" ],
+			[ "sintetizarás" ],
+			[ "sintetizará" ],
+			[ "sintetizaremos" ],
+			[ "sintetizaréis", "sintetizarán" ],
+			[ "sintetizarán" ]
+		],
+		"8" : [
+			[ "sintetice" ],
+			[ "sintetices" ],
+			[ "sintetice" ],
+			[ "sinteticemos" ],
+			[ "sinteticéis", "sinteticen" ],
+			[ "sinteticen" ]
+		],
+		"9" : [
+			[ "sintetizara" ],
+			[ "sintetizaras" ],
+			[ "sintetizara" ],
+			[ "sintetizáramos" ],
+			[ "sintetizarais", "sintetizaran" ],
+			[ "sintetizaran" ]
+		],
+		"10" : [
+			[ "sintetizase" ],
+			[ "sintetizases" ],
+			[ "sintetizase" ],
+			[ "sintetizásemos" ],
+			[ "sintetizaseis", "sintetizasen" ],
+			[ "sintetizasen" ]
+		],
+		"11" : [
+			[ "sintetizare" ],
+			[ "sintetizares" ],
+			[ "sintetizare" ],
+			[ "sintetizáremos" ],
+			[ "sintetizareis", "sintetizaren" ],
+			[ "sintetizaren" ]
+		],
+		"12" : {
+			"1" : [ "sintetiza" ],
+			"2" : [ "sintetice" ],
+			"3" : [ "sinteticemos" ],
+			"4" : [ "sintetizad" ],
+			"5" : [ "sinteticen" ]
+		}
+	}
+}

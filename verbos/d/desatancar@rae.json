@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desatancar",
+	"word" : "desatancar",
+	"infinitivo" : "desatancar",
+	"participio" : [ "desatancado" ],
+	"gerundio" : [ "desatancando" ],
+	"tenses" : {
+		"3" : [
+			[ "desatanco" ],
+			[ "desatancas", "desatancás" ],
+			[ "desatanca" ],
+			[ "desatancamos" ],
+			[ "desatancáis", "desatancan" ],
+			[ "desatancan" ]
+		],
+		"4" : [
+			[ "desatanqué" ],
+			[ "desatancaste" ],
+			[ "desatancó" ],
+			[ "desatancamos" ],
+			[ "desatancasteis", "desatancaron" ],
+			[ "desatancaron" ]
+		],
+		"5" : [
+			[ "desatancaba" ],
+			[ "desatancabas" ],
+			[ "desatancaba" ],
+			[ "desatancábamos" ],
+			[ "desatancabais", "desatancaban" ],
+			[ "desatancaban" ]
+		],
+		"6" : [
+			[ "desatancaría" ],
+			[ "desatancarías" ],
+			[ "desatancaría" ],
+			[ "desatancaríamos" ],
+			[ "desatancaríais", "desatancarían" ],
+			[ "desatancarían" ]
+		],
+		"7" : [
+			[ "desatancaré" ],
+			[ "desatancarás" ],
+			[ "desatancará" ],
+			[ "desatancaremos" ],
+			[ "desatancaréis", "desatancarán" ],
+			[ "desatancarán" ]
+		],
+		"8" : [
+			[ "desatanque" ],
+			[ "desatanques" ],
+			[ "desatanque" ],
+			[ "desatanquemos" ],
+			[ "desatanquéis", "desatanquen" ],
+			[ "desatanquen" ]
+		],
+		"9" : [
+			[ "desatancara" ],
+			[ "desatancaras" ],
+			[ "desatancara" ],
+			[ "desatancáramos" ],
+			[ "desatancarais", "desatancaran" ],
+			[ "desatancaran" ]
+		],
+		"10" : [
+			[ "desatancase" ],
+			[ "desatancases" ],
+			[ "desatancase" ],
+			[ "desatancásemos" ],
+			[ "desatancaseis", "desatancasen" ],
+			[ "desatancasen" ]
+		],
+		"11" : [
+			[ "desatancare" ],
+			[ "desatancares" ],
+			[ "desatancare" ],
+			[ "desatancáremos" ],
+			[ "desatancareis", "desatancaren" ],
+			[ "desatancaren" ]
+		],
+		"12" : {
+			"1" : [ "desatanca" ],
+			"2" : [ "desatanque" ],
+			"3" : [ "desatanquemos" ],
+			"4" : [ "desatancad" ],
+			"5" : [ "desatanquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disconvenir",
+	"word" : "disconvenir",
+	"infinitivo" : "disconvenir",
+	"participio" : [ "disconvenido" ],
+	"gerundio" : [ "disconviniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "disconvengo" ],
+			[ "disconvienes", "disconvenís" ],
+			[ "disconviene" ],
+			[ "disconvenimos" ],
+			[ "disconvenís", "disconvienen" ],
+			[ "disconvienen" ]
+		],
+		"4" : [
+			[ "disconvine" ],
+			[ "disconviniste" ],
+			[ "disconvino" ],
+			[ "disconvinimos" ],
+			[ "disconvinisteis", "disconvinieron" ],
+			[ "disconvinieron" ]
+		],
+		"5" : [
+			[ "disconvenía" ],
+			[ "disconvenías" ],
+			[ "disconvenía" ],
+			[ "disconveníamos" ],
+			[ "disconveníais", "disconvenían" ],
+			[ "disconvenían" ]
+		],
+		"6" : [
+			[ "disconvendría" ],
+			[ "disconvendrías" ],
+			[ "disconvendría" ],
+			[ "disconvendríamos" ],
+			[ "disconvendríais", "disconvendrían" ],
+			[ "disconvendrían" ]
+		],
+		"7" : [
+			[ "disconvendré" ],
+			[ "disconvendrás" ],
+			[ "disconvendrá" ],
+			[ "disconvendremos" ],
+			[ "disconvendréis", "disconvendrán" ],
+			[ "disconvendrán" ]
+		],
+		"8" : [
+			[ "disconvenga" ],
+			[ "disconvengas" ],
+			[ "disconvenga" ],
+			[ "disconvengamos" ],
+			[ "disconvengáis", "disconvengan" ],
+			[ "disconvengan" ]
+		],
+		"9" : [
+			[ "disconviniera" ],
+			[ "disconvinieras" ],
+			[ "disconviniera" ],
+			[ "disconviniéramos" ],
+			[ "disconvinierais", "disconvinieran" ],
+			[ "disconvinieran" ]
+		],
+		"10" : [
+			[ "disconviniese" ],
+			[ "disconvinieses" ],
+			[ "disconviniese" ],
+			[ "disconviniésemos" ],
+			[ "disconvinieseis", "disconviniesen" ],
+			[ "disconviniesen" ]
+		],
+		"11" : [
+			[ "disconviniere" ],
+			[ "disconvinieres" ],
+			[ "disconviniere" ],
+			[ "disconviniéremos" ],
+			[ "disconviniereis", "disconvinieren" ],
+			[ "disconvinieren" ]
+		],
+		"12" : {
+			"1" : [ "disconvén" ],
+			"2" : [ "disconvenga" ],
+			"3" : [ "disconvengamos" ],
+			"4" : [ "disconvenid" ],
+			"5" : [ "disconvengan" ]
+		}
+	}
+}

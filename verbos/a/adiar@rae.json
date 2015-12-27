@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adiar",
+	"word" : "adiar",
+	"infinitivo" : "adiar",
+	"participio" : [ "adiado" ],
+	"gerundio" : [ "adiando" ],
+	"tenses" : {
+		"3" : [
+			[ "adío" ],
+			[ "adías", "adiás" ],
+			[ "adía" ],
+			[ "adiamos" ],
+			[ "adiáis", "adían" ],
+			[ "adían" ]
+		],
+		"4" : [
+			[ "adié" ],
+			[ "adiaste" ],
+			[ "adió" ],
+			[ "adiamos" ],
+			[ "adiasteis", "adiaron" ],
+			[ "adiaron" ]
+		],
+		"5" : [
+			[ "adiaba" ],
+			[ "adiabas" ],
+			[ "adiaba" ],
+			[ "adiábamos" ],
+			[ "adiabais", "adiaban" ],
+			[ "adiaban" ]
+		],
+		"6" : [
+			[ "adiaría" ],
+			[ "adiarías" ],
+			[ "adiaría" ],
+			[ "adiaríamos" ],
+			[ "adiaríais", "adiarían" ],
+			[ "adiarían" ]
+		],
+		"7" : [
+			[ "adiaré" ],
+			[ "adiarás" ],
+			[ "adiará" ],
+			[ "adiaremos" ],
+			[ "adiaréis", "adiarán" ],
+			[ "adiarán" ]
+		],
+		"8" : [
+			[ "adíe" ],
+			[ "adíes" ],
+			[ "adíe" ],
+			[ "adiemos" ],
+			[ "adiéis", "adíen" ],
+			[ "adíen" ]
+		],
+		"9" : [
+			[ "adiara" ],
+			[ "adiaras" ],
+			[ "adiara" ],
+			[ "adiáramos" ],
+			[ "adiarais", "adiaran" ],
+			[ "adiaran" ]
+		],
+		"10" : [
+			[ "adiase" ],
+			[ "adiases" ],
+			[ "adiase" ],
+			[ "adiásemos" ],
+			[ "adiaseis", "adiasen" ],
+			[ "adiasen" ]
+		],
+		"11" : [
+			[ "adiare" ],
+			[ "adiares" ],
+			[ "adiare" ],
+			[ "adiáremos" ],
+			[ "adiareis", "adiaren" ],
+			[ "adiaren" ]
+		],
+		"12" : {
+			"1" : [ "adía" ],
+			"2" : [ "adíe" ],
+			"3" : [ "adiemos" ],
+			"4" : [ "adiad" ],
+			"5" : [ "adíen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conjurar",
+	"word" : "conjurar",
+	"infinitivo" : "conjurar",
+	"participio" : [ "conjurado" ],
+	"gerundio" : [ "conjurando" ],
+	"tenses" : {
+		"3" : [
+			[ "conjuro" ],
+			[ "conjuras", "conjurás" ],
+			[ "conjura" ],
+			[ "conjuramos" ],
+			[ "conjuráis", "conjuran" ],
+			[ "conjuran" ]
+		],
+		"4" : [
+			[ "conjuré" ],
+			[ "conjuraste" ],
+			[ "conjuró" ],
+			[ "conjuramos" ],
+			[ "conjurasteis", "conjuraron" ],
+			[ "conjuraron" ]
+		],
+		"5" : [
+			[ "conjuraba" ],
+			[ "conjurabas" ],
+			[ "conjuraba" ],
+			[ "conjurábamos" ],
+			[ "conjurabais", "conjuraban" ],
+			[ "conjuraban" ]
+		],
+		"6" : [
+			[ "conjuraría" ],
+			[ "conjurarías" ],
+			[ "conjuraría" ],
+			[ "conjuraríamos" ],
+			[ "conjuraríais", "conjurarían" ],
+			[ "conjurarían" ]
+		],
+		"7" : [
+			[ "conjuraré" ],
+			[ "conjurarás" ],
+			[ "conjurará" ],
+			[ "conjuraremos" ],
+			[ "conjuraréis", "conjurarán" ],
+			[ "conjurarán" ]
+		],
+		"8" : [
+			[ "conjure" ],
+			[ "conjures" ],
+			[ "conjure" ],
+			[ "conjuremos" ],
+			[ "conjuréis", "conjuren" ],
+			[ "conjuren" ]
+		],
+		"9" : [
+			[ "conjurara" ],
+			[ "conjuraras" ],
+			[ "conjurara" ],
+			[ "conjuráramos" ],
+			[ "conjurarais", "conjuraran" ],
+			[ "conjuraran" ]
+		],
+		"10" : [
+			[ "conjurase" ],
+			[ "conjurases" ],
+			[ "conjurase" ],
+			[ "conjurásemos" ],
+			[ "conjuraseis", "conjurasen" ],
+			[ "conjurasen" ]
+		],
+		"11" : [
+			[ "conjurare" ],
+			[ "conjurares" ],
+			[ "conjurare" ],
+			[ "conjuráremos" ],
+			[ "conjurareis", "conjuraren" ],
+			[ "conjuraren" ]
+		],
+		"12" : {
+			"1" : [ "conjura" ],
+			"2" : [ "conjure" ],
+			"3" : [ "conjuremos" ],
+			"4" : [ "conjurad" ],
+			"5" : [ "conjuren" ]
+		}
+	}
+}

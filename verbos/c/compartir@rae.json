@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=compartir",
+	"word" : "compartir",
+	"infinitivo" : "compartir",
+	"participio" : [ "compartido" ],
+	"gerundio" : [ "compartiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "comparto" ],
+			[ "compartes", "compartís" ],
+			[ "comparte" ],
+			[ "compartimos" ],
+			[ "compartís", "comparten" ],
+			[ "comparten" ]
+		],
+		"4" : [
+			[ "compartí" ],
+			[ "compartiste" ],
+			[ "compartió" ],
+			[ "compartimos" ],
+			[ "compartisteis", "compartieron" ],
+			[ "compartieron" ]
+		],
+		"5" : [
+			[ "compartía" ],
+			[ "compartías" ],
+			[ "compartía" ],
+			[ "compartíamos" ],
+			[ "compartíais", "compartían" ],
+			[ "compartían" ]
+		],
+		"6" : [
+			[ "compartiría" ],
+			[ "compartirías" ],
+			[ "compartiría" ],
+			[ "compartiríamos" ],
+			[ "compartiríais", "compartirían" ],
+			[ "compartirían" ]
+		],
+		"7" : [
+			[ "compartiré" ],
+			[ "compartirás" ],
+			[ "compartirá" ],
+			[ "compartiremos" ],
+			[ "compartiréis", "compartirán" ],
+			[ "compartirán" ]
+		],
+		"8" : [
+			[ "comparta" ],
+			[ "compartas" ],
+			[ "comparta" ],
+			[ "compartamos" ],
+			[ "compartáis", "compartan" ],
+			[ "compartan" ]
+		],
+		"9" : [
+			[ "compartiera" ],
+			[ "compartieras" ],
+			[ "compartiera" ],
+			[ "compartiéramos" ],
+			[ "compartierais", "compartieran" ],
+			[ "compartieran" ]
+		],
+		"10" : [
+			[ "compartiese" ],
+			[ "compartieses" ],
+			[ "compartiese" ],
+			[ "compartiésemos" ],
+			[ "compartieseis", "compartiesen" ],
+			[ "compartiesen" ]
+		],
+		"11" : [
+			[ "compartiere" ],
+			[ "compartieres" ],
+			[ "compartiere" ],
+			[ "compartiéremos" ],
+			[ "compartiereis", "compartieren" ],
+			[ "compartieren" ]
+		],
+		"12" : {
+			"1" : [ "comparte" ],
+			"2" : [ "comparta" ],
+			"3" : [ "compartamos" ],
+			"4" : [ "compartid" ],
+			"5" : [ "compartan" ]
+		}
+	}
+}

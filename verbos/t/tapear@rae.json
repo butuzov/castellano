@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tapear",
+	"word" : "tapear",
+	"infinitivo" : "tapear",
+	"participio" : [ "tapeado" ],
+	"gerundio" : [ "tapeando" ],
+	"tenses" : {
+		"3" : [
+			[ "tapeo" ],
+			[ "tapeas", "tapeás" ],
+			[ "tapea" ],
+			[ "tapeamos" ],
+			[ "tapeáis", "tapean" ],
+			[ "tapean" ]
+		],
+		"4" : [
+			[ "tapeé" ],
+			[ "tapeaste" ],
+			[ "tapeó" ],
+			[ "tapeamos" ],
+			[ "tapeasteis", "tapearon" ],
+			[ "tapearon" ]
+		],
+		"5" : [
+			[ "tapeaba" ],
+			[ "tapeabas" ],
+			[ "tapeaba" ],
+			[ "tapeábamos" ],
+			[ "tapeabais", "tapeaban" ],
+			[ "tapeaban" ]
+		],
+		"6" : [
+			[ "tapearía" ],
+			[ "tapearías" ],
+			[ "tapearía" ],
+			[ "tapearíamos" ],
+			[ "tapearíais", "tapearían" ],
+			[ "tapearían" ]
+		],
+		"7" : [
+			[ "tapearé" ],
+			[ "tapearás" ],
+			[ "tapeará" ],
+			[ "tapearemos" ],
+			[ "tapearéis", "tapearán" ],
+			[ "tapearán" ]
+		],
+		"8" : [
+			[ "tapee" ],
+			[ "tapees" ],
+			[ "tapee" ],
+			[ "tapeemos" ],
+			[ "tapeéis", "tapeen" ],
+			[ "tapeen" ]
+		],
+		"9" : [
+			[ "tapeara" ],
+			[ "tapearas" ],
+			[ "tapeara" ],
+			[ "tapeáramos" ],
+			[ "tapearais", "tapearan" ],
+			[ "tapearan" ]
+		],
+		"10" : [
+			[ "tapease" ],
+			[ "tapeases" ],
+			[ "tapease" ],
+			[ "tapeásemos" ],
+			[ "tapeaseis", "tapeasen" ],
+			[ "tapeasen" ]
+		],
+		"11" : [
+			[ "tapeare" ],
+			[ "tapeares" ],
+			[ "tapeare" ],
+			[ "tapeáremos" ],
+			[ "tapeareis", "tapearen" ],
+			[ "tapearen" ]
+		],
+		"12" : {
+			"1" : [ "tapea" ],
+			"2" : [ "tapee" ],
+			"3" : [ "tapeemos" ],
+			"4" : [ "tapead" ],
+			"5" : [ "tapeen" ]
+		}
+	}
+}

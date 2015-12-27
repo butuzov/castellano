@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mantear",
+	"word" : "mantear",
+	"infinitivo" : "mantear",
+	"participio" : [ "manteado" ],
+	"gerundio" : [ "manteando" ],
+	"tenses" : {
+		"3" : [
+			[ "manteo" ],
+			[ "manteas", "manteás" ],
+			[ "mantea" ],
+			[ "manteamos" ],
+			[ "manteáis", "mantean" ],
+			[ "mantean" ]
+		],
+		"4" : [
+			[ "manteé" ],
+			[ "manteaste" ],
+			[ "manteó" ],
+			[ "manteamos" ],
+			[ "manteasteis", "mantearon" ],
+			[ "mantearon" ]
+		],
+		"5" : [
+			[ "manteaba" ],
+			[ "manteabas" ],
+			[ "manteaba" ],
+			[ "manteábamos" ],
+			[ "manteabais", "manteaban" ],
+			[ "manteaban" ]
+		],
+		"6" : [
+			[ "mantearía" ],
+			[ "mantearías" ],
+			[ "mantearía" ],
+			[ "mantearíamos" ],
+			[ "mantearíais", "mantearían" ],
+			[ "mantearían" ]
+		],
+		"7" : [
+			[ "mantearé" ],
+			[ "mantearás" ],
+			[ "manteará" ],
+			[ "mantearemos" ],
+			[ "mantearéis", "mantearán" ],
+			[ "mantearán" ]
+		],
+		"8" : [
+			[ "mantee" ],
+			[ "mantees" ],
+			[ "mantee" ],
+			[ "manteemos" ],
+			[ "manteéis", "manteen" ],
+			[ "manteen" ]
+		],
+		"9" : [
+			[ "manteara" ],
+			[ "mantearas" ],
+			[ "manteara" ],
+			[ "manteáramos" ],
+			[ "mantearais", "mantearan" ],
+			[ "mantearan" ]
+		],
+		"10" : [
+			[ "mantease" ],
+			[ "manteases" ],
+			[ "mantease" ],
+			[ "manteásemos" ],
+			[ "manteaseis", "manteasen" ],
+			[ "manteasen" ]
+		],
+		"11" : [
+			[ "manteare" ],
+			[ "manteares" ],
+			[ "manteare" ],
+			[ "manteáremos" ],
+			[ "manteareis", "mantearen" ],
+			[ "mantearen" ]
+		],
+		"12" : {
+			"1" : [ "mantea" ],
+			"2" : [ "mantee" ],
+			"3" : [ "manteemos" ],
+			"4" : [ "mantead" ],
+			"5" : [ "manteen" ]
+		}
+	}
+}

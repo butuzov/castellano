@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=orar",
+	"word" : "orar",
+	"infinitivo" : "orar",
+	"participio" : [ "orado" ],
+	"gerundio" : [ "orando" ],
+	"tenses" : {
+		"3" : [
+			[ "oro" ],
+			[ "oras", "orás" ],
+			[ "ora" ],
+			[ "oramos" ],
+			[ "oráis", "oran" ],
+			[ "oran" ]
+		],
+		"4" : [
+			[ "oré" ],
+			[ "oraste" ],
+			[ "oró" ],
+			[ "oramos" ],
+			[ "orasteis", "oraron" ],
+			[ "oraron" ]
+		],
+		"5" : [
+			[ "oraba" ],
+			[ "orabas" ],
+			[ "oraba" ],
+			[ "orábamos" ],
+			[ "orabais", "oraban" ],
+			[ "oraban" ]
+		],
+		"6" : [
+			[ "oraría" ],
+			[ "orarías" ],
+			[ "oraría" ],
+			[ "oraríamos" ],
+			[ "oraríais", "orarían" ],
+			[ "orarían" ]
+		],
+		"7" : [
+			[ "oraré" ],
+			[ "orarás" ],
+			[ "orará" ],
+			[ "oraremos" ],
+			[ "oraréis", "orarán" ],
+			[ "orarán" ]
+		],
+		"8" : [
+			[ "ore" ],
+			[ "ores" ],
+			[ "ore" ],
+			[ "oremos" ],
+			[ "oréis", "oren" ],
+			[ "oren" ]
+		],
+		"9" : [
+			[ "orara" ],
+			[ "oraras" ],
+			[ "orara" ],
+			[ "oráramos" ],
+			[ "orarais", "oraran" ],
+			[ "oraran" ]
+		],
+		"10" : [
+			[ "orase" ],
+			[ "orases" ],
+			[ "orase" ],
+			[ "orásemos" ],
+			[ "oraseis", "orasen" ],
+			[ "orasen" ]
+		],
+		"11" : [
+			[ "orare" ],
+			[ "orares" ],
+			[ "orare" ],
+			[ "oráremos" ],
+			[ "orareis", "oraren" ],
+			[ "oraren" ]
+		],
+		"12" : {
+			"1" : [ "ora" ],
+			"2" : [ "ore" ],
+			"3" : [ "oremos" ],
+			"4" : [ "orad" ],
+			"5" : [ "oren" ]
+		}
+	}
+}

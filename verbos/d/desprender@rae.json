@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desprender",
+	"word" : "desprender",
+	"infinitivo" : "desprender",
+	"participio" : [ "desprendido" ],
+	"gerundio" : [ "desprendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desprendo" ],
+			[ "desprendes", "desprendés" ],
+			[ "desprende" ],
+			[ "desprendemos" ],
+			[ "desprendéis", "desprenden" ],
+			[ "desprenden" ]
+		],
+		"4" : [
+			[ "desprendí" ],
+			[ "desprendiste" ],
+			[ "desprendió" ],
+			[ "desprendimos" ],
+			[ "desprendisteis", "desprendieron" ],
+			[ "desprendieron" ]
+		],
+		"5" : [
+			[ "desprendía" ],
+			[ "desprendías" ],
+			[ "desprendía" ],
+			[ "desprendíamos" ],
+			[ "desprendíais", "desprendían" ],
+			[ "desprendían" ]
+		],
+		"6" : [
+			[ "desprendería" ],
+			[ "desprenderías" ],
+			[ "desprendería" ],
+			[ "desprenderíamos" ],
+			[ "desprenderíais", "desprenderían" ],
+			[ "desprenderían" ]
+		],
+		"7" : [
+			[ "desprenderé" ],
+			[ "desprenderás" ],
+			[ "desprenderá" ],
+			[ "desprenderemos" ],
+			[ "desprenderéis", "desprenderán" ],
+			[ "desprenderán" ]
+		],
+		"8" : [
+			[ "desprenda" ],
+			[ "desprendas" ],
+			[ "desprenda" ],
+			[ "desprendamos" ],
+			[ "desprendáis", "desprendan" ],
+			[ "desprendan" ]
+		],
+		"9" : [
+			[ "desprendiera" ],
+			[ "desprendieras" ],
+			[ "desprendiera" ],
+			[ "desprendiéramos" ],
+			[ "desprendierais", "desprendieran" ],
+			[ "desprendieran" ]
+		],
+		"10" : [
+			[ "desprendiese" ],
+			[ "desprendieses" ],
+			[ "desprendiese" ],
+			[ "desprendiésemos" ],
+			[ "desprendieseis", "desprendiesen" ],
+			[ "desprendiesen" ]
+		],
+		"11" : [
+			[ "desprendiere" ],
+			[ "desprendieres" ],
+			[ "desprendiere" ],
+			[ "desprendiéremos" ],
+			[ "desprendiereis", "desprendieren" ],
+			[ "desprendieren" ]
+		],
+		"12" : {
+			"1" : [ "desprende" ],
+			"2" : [ "desprenda" ],
+			"3" : [ "desprendamos" ],
+			"4" : [ "desprended" ],
+			"5" : [ "desprendan" ]
+		}
+	}
+}

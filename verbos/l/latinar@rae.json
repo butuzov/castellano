@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=latinar",
+	"word" : "latinar",
+	"infinitivo" : "latinar",
+	"participio" : [ "latinado" ],
+	"gerundio" : [ "latinando" ],
+	"tenses" : {
+		"3" : [
+			[ "latino" ],
+			[ "latinas", "latinás" ],
+			[ "latina" ],
+			[ "latinamos" ],
+			[ "latináis", "latinan" ],
+			[ "latinan" ]
+		],
+		"4" : [
+			[ "latiné" ],
+			[ "latinaste" ],
+			[ "latinó" ],
+			[ "latinamos" ],
+			[ "latinasteis", "latinaron" ],
+			[ "latinaron" ]
+		],
+		"5" : [
+			[ "latinaba" ],
+			[ "latinabas" ],
+			[ "latinaba" ],
+			[ "latinábamos" ],
+			[ "latinabais", "latinaban" ],
+			[ "latinaban" ]
+		],
+		"6" : [
+			[ "latinaría" ],
+			[ "latinarías" ],
+			[ "latinaría" ],
+			[ "latinaríamos" ],
+			[ "latinaríais", "latinarían" ],
+			[ "latinarían" ]
+		],
+		"7" : [
+			[ "latinaré" ],
+			[ "latinarás" ],
+			[ "latinará" ],
+			[ "latinaremos" ],
+			[ "latinaréis", "latinarán" ],
+			[ "latinarán" ]
+		],
+		"8" : [
+			[ "latine" ],
+			[ "latines" ],
+			[ "latine" ],
+			[ "latinemos" ],
+			[ "latinéis", "latinen" ],
+			[ "latinen" ]
+		],
+		"9" : [
+			[ "latinara" ],
+			[ "latinaras" ],
+			[ "latinara" ],
+			[ "latináramos" ],
+			[ "latinarais", "latinaran" ],
+			[ "latinaran" ]
+		],
+		"10" : [
+			[ "latinase" ],
+			[ "latinases" ],
+			[ "latinase" ],
+			[ "latinásemos" ],
+			[ "latinaseis", "latinasen" ],
+			[ "latinasen" ]
+		],
+		"11" : [
+			[ "latinare" ],
+			[ "latinares" ],
+			[ "latinare" ],
+			[ "latináremos" ],
+			[ "latinareis", "latinaren" ],
+			[ "latinaren" ]
+		],
+		"12" : {
+			"1" : [ "latina" ],
+			"2" : [ "latine" ],
+			"3" : [ "latinemos" ],
+			"4" : [ "latinad" ],
+			"5" : [ "latinen" ]
+		}
+	}
+}

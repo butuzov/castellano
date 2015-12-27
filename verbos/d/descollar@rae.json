@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descollar",
+	"word" : "descollar",
+	"infinitivo" : "descollar",
+	"participio" : [ "descollado" ],
+	"gerundio" : [ "descollando" ],
+	"tenses" : {
+		"3" : [
+			[ "descuello" ],
+			[ "descuellas", "descollás" ],
+			[ "descuella" ],
+			[ "descollamos" ],
+			[ "descolláis", "descuellan" ],
+			[ "descuellan" ]
+		],
+		"4" : [
+			[ "descollé" ],
+			[ "descollaste" ],
+			[ "descolló" ],
+			[ "descollamos" ],
+			[ "descollasteis", "descollaron" ],
+			[ "descollaron" ]
+		],
+		"5" : [
+			[ "descollaba" ],
+			[ "descollabas" ],
+			[ "descollaba" ],
+			[ "descollábamos" ],
+			[ "descollabais", "descollaban" ],
+			[ "descollaban" ]
+		],
+		"6" : [
+			[ "descollaría" ],
+			[ "descollarías" ],
+			[ "descollaría" ],
+			[ "descollaríamos" ],
+			[ "descollaríais", "descollarían" ],
+			[ "descollarían" ]
+		],
+		"7" : [
+			[ "descollaré" ],
+			[ "descollarás" ],
+			[ "descollará" ],
+			[ "descollaremos" ],
+			[ "descollaréis", "descollarán" ],
+			[ "descollarán" ]
+		],
+		"8" : [
+			[ "descuelle" ],
+			[ "descuelles" ],
+			[ "descuelle" ],
+			[ "descollemos" ],
+			[ "descolléis", "descuellen" ],
+			[ "descuellen" ]
+		],
+		"9" : [
+			[ "descollara" ],
+			[ "descollaras" ],
+			[ "descollara" ],
+			[ "descolláramos" ],
+			[ "descollarais", "descollaran" ],
+			[ "descollaran" ]
+		],
+		"10" : [
+			[ "descollase" ],
+			[ "descollases" ],
+			[ "descollase" ],
+			[ "descollásemos" ],
+			[ "descollaseis", "descollasen" ],
+			[ "descollasen" ]
+		],
+		"11" : [
+			[ "descollare" ],
+			[ "descollares" ],
+			[ "descollare" ],
+			[ "descolláremos" ],
+			[ "descollareis", "descollaren" ],
+			[ "descollaren" ]
+		],
+		"12" : {
+			"1" : [ "descuella" ],
+			"2" : [ "descuelle" ],
+			"3" : [ "descollemos" ],
+			"4" : [ "descollad" ],
+			"5" : [ "descuellen" ]
+		}
+	}
+}

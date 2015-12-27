@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=azolar",
+	"word" : "azolar",
+	"infinitivo" : "azolar",
+	"participio" : [ "azolado" ],
+	"gerundio" : [ "azolando" ],
+	"tenses" : {
+		"3" : [
+			[ "azuelo" ],
+			[ "azuelas", "azolás" ],
+			[ "azuela" ],
+			[ "azolamos" ],
+			[ "azoláis", "azuelan" ],
+			[ "azuelan" ]
+		],
+		"4" : [
+			[ "azolé" ],
+			[ "azolaste" ],
+			[ "azoló" ],
+			[ "azolamos" ],
+			[ "azolasteis", "azolaron" ],
+			[ "azolaron" ]
+		],
+		"5" : [
+			[ "azolaba" ],
+			[ "azolabas" ],
+			[ "azolaba" ],
+			[ "azolábamos" ],
+			[ "azolabais", "azolaban" ],
+			[ "azolaban" ]
+		],
+		"6" : [
+			[ "azolaría" ],
+			[ "azolarías" ],
+			[ "azolaría" ],
+			[ "azolaríamos" ],
+			[ "azolaríais", "azolarían" ],
+			[ "azolarían" ]
+		],
+		"7" : [
+			[ "azolaré" ],
+			[ "azolarás" ],
+			[ "azolará" ],
+			[ "azolaremos" ],
+			[ "azolaréis", "azolarán" ],
+			[ "azolarán" ]
+		],
+		"8" : [
+			[ "azuele" ],
+			[ "azueles" ],
+			[ "azuele" ],
+			[ "azolemos" ],
+			[ "azoléis", "azuelen" ],
+			[ "azuelen" ]
+		],
+		"9" : [
+			[ "azolara" ],
+			[ "azolaras" ],
+			[ "azolara" ],
+			[ "azoláramos" ],
+			[ "azolarais", "azolaran" ],
+			[ "azolaran" ]
+		],
+		"10" : [
+			[ "azolase" ],
+			[ "azolases" ],
+			[ "azolase" ],
+			[ "azolásemos" ],
+			[ "azolaseis", "azolasen" ],
+			[ "azolasen" ]
+		],
+		"11" : [
+			[ "azolare" ],
+			[ "azolares" ],
+			[ "azolare" ],
+			[ "azoláremos" ],
+			[ "azolareis", "azolaren" ],
+			[ "azolaren" ]
+		],
+		"12" : {
+			"1" : [ "azuela" ],
+			"2" : [ "azuele" ],
+			"3" : [ "azolemos" ],
+			"4" : [ "azolad" ],
+			"5" : [ "azuelen" ]
+		}
+	}
+}

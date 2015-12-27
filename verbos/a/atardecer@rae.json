@@ -1,0 +1,45 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atardecer",
+	"word" : "atardecer",
+	"infinitivo" : "atardecer",
+	"participio" : [ "atardecido" ],
+	"gerundio" : [ "atardeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "atardece" ],
+			[ "atardecen" ]
+		],
+		"4" : [
+			[ "atardeció" ],
+			[ "atardecieron" ]
+		],
+		"5" : [
+			[ "atardecía" ],
+			[ "atardecían" ]
+		],
+		"6" : [
+			[ "atardecería" ],
+			[ "atardecerían" ]
+		],
+		"7" : [
+			[ "atardecerá" ],
+			[ "atardecerán" ]
+		],
+		"8" : [
+			[ "atardezca" ],
+			[ "atardezcan" ]
+		],
+		"9" : [
+			[ "atardeciera" ],
+			[ "atardecieran" ]
+		],
+		"10" : [
+			[ "atardeciese" ],
+			[ "atardeciesen" ]
+		],
+		"11" : [
+			[ "atardeciere" ],
+			[ "atardecieren" ]
+		]
+	}
+}

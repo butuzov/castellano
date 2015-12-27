@@ -1,0 +1,45 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=granizar",
+	"word" : "granizar",
+	"infinitivo" : "granizar",
+	"participio" : [ "granizado" ],
+	"gerundio" : [ "granizando" ],
+	"tenses" : {
+		"3" : [
+			[ "graniza" ],
+			[ "granizan" ]
+		],
+		"4" : [
+			[ "granizó" ],
+			[ "granizaron" ]
+		],
+		"5" : [
+			[ "granizaba" ],
+			[ "granizaban" ]
+		],
+		"6" : [
+			[ "granizaría" ],
+			[ "granizarían" ]
+		],
+		"7" : [
+			[ "granizará" ],
+			[ "granizarán" ]
+		],
+		"8" : [
+			[ "granice" ],
+			[ "granicen" ]
+		],
+		"9" : [
+			[ "granizara" ],
+			[ "granizaran" ]
+		],
+		"10" : [
+			[ "granizase" ],
+			[ "granizasen" ]
+		],
+		"11" : [
+			[ "granizare" ],
+			[ "granizaren" ]
+		]
+	}
+}

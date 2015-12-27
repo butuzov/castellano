@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=almacenar",
+	"word" : "almacenar",
+	"infinitivo" : "almacenar",
+	"participio" : [ "almacenado" ],
+	"gerundio" : [ "almacenando" ],
+	"tenses" : {
+		"3" : [
+			[ "almaceno" ],
+			[ "almacenas", "almacenás" ],
+			[ "almacena" ],
+			[ "almacenamos" ],
+			[ "almacenáis", "almacenan" ],
+			[ "almacenan" ]
+		],
+		"4" : [
+			[ "almacené" ],
+			[ "almacenaste" ],
+			[ "almacenó" ],
+			[ "almacenamos" ],
+			[ "almacenasteis", "almacenaron" ],
+			[ "almacenaron" ]
+		],
+		"5" : [
+			[ "almacenaba" ],
+			[ "almacenabas" ],
+			[ "almacenaba" ],
+			[ "almacenábamos" ],
+			[ "almacenabais", "almacenaban" ],
+			[ "almacenaban" ]
+		],
+		"6" : [
+			[ "almacenaría" ],
+			[ "almacenarías" ],
+			[ "almacenaría" ],
+			[ "almacenaríamos" ],
+			[ "almacenaríais", "almacenarían" ],
+			[ "almacenarían" ]
+		],
+		"7" : [
+			[ "almacenaré" ],
+			[ "almacenarás" ],
+			[ "almacenará" ],
+			[ "almacenaremos" ],
+			[ "almacenaréis", "almacenarán" ],
+			[ "almacenarán" ]
+		],
+		"8" : [
+			[ "almacene" ],
+			[ "almacenes" ],
+			[ "almacene" ],
+			[ "almacenemos" ],
+			[ "almacenéis", "almacenen" ],
+			[ "almacenen" ]
+		],
+		"9" : [
+			[ "almacenara" ],
+			[ "almacenaras" ],
+			[ "almacenara" ],
+			[ "almacenáramos" ],
+			[ "almacenarais", "almacenaran" ],
+			[ "almacenaran" ]
+		],
+		"10" : [
+			[ "almacenase" ],
+			[ "almacenases" ],
+			[ "almacenase" ],
+			[ "almacenásemos" ],
+			[ "almacenaseis", "almacenasen" ],
+			[ "almacenasen" ]
+		],
+		"11" : [
+			[ "almacenare" ],
+			[ "almacenares" ],
+			[ "almacenare" ],
+			[ "almacenáremos" ],
+			[ "almacenareis", "almacenaren" ],
+			[ "almacenaren" ]
+		],
+		"12" : {
+			"1" : [ "almacena" ],
+			"2" : [ "almacene" ],
+			"3" : [ "almacenemos" ],
+			"4" : [ "almacenad" ],
+			"5" : [ "almacenen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amonarse",
+	"word" : "amonarse",
+	"infinitivo" : "amonarse",
+	"participio" : [ "amonado" ],
+	"gerundio" : [ "amonándome", "amonándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me amono" ],
+			[ "te amonas", "te amonás" ],
+			[ "se amona" ],
+			[ "nos amonamos" ],
+			[ "os amonáis", "se amonan" ],
+			[ "se amonan" ]
+		],
+		"4" : [
+			[ "me amoné" ],
+			[ "te amonaste" ],
+			[ "se amonó" ],
+			[ "nos amonamos" ],
+			[ "os amonasteis", "se amonaron" ],
+			[ "se amonaron" ]
+		],
+		"5" : [
+			[ "me amonaba" ],
+			[ "te amonabas" ],
+			[ "se amonaba" ],
+			[ "nos amonábamos" ],
+			[ "os amonabais", "se amonaban" ],
+			[ "se amonaban" ]
+		],
+		"6" : [
+			[ "me amonaría" ],
+			[ "te amonarías" ],
+			[ "se amonaría" ],
+			[ "nos amonaríamos" ],
+			[ "os amonaríais", "se amonarían" ],
+			[ "se amonarían" ]
+		],
+		"7" : [
+			[ "me amonaré" ],
+			[ "te amonarás" ],
+			[ "se amonará" ],
+			[ "nos amonaremos" ],
+			[ "os amonaréis", "se amonarán" ],
+			[ "se amonarán" ]
+		],
+		"8" : [
+			[ "me amone" ],
+			[ "te amones" ],
+			[ "se amone" ],
+			[ "nos amonemos" ],
+			[ "os amonéis", "se amonen" ],
+			[ "se amonen" ]
+		],
+		"9" : [
+			[ "me amonara" ],
+			[ "te amonaras" ],
+			[ "se amonara" ],
+			[ "nos amonáramos" ],
+			[ "os amonarais", "se amonaran" ],
+			[ "se amonaran" ]
+		],
+		"10" : [
+			[ "me amonase" ],
+			[ "te amonases" ],
+			[ "se amonase" ],
+			[ "nos amonásemos" ],
+			[ "os amonaseis", "se amonasen" ],
+			[ "se amonasen" ]
+		],
+		"11" : [
+			[ "me amonare" ],
+			[ "te amonares" ],
+			[ "se amonare" ],
+			[ "nos amonáremos" ],
+			[ "os amonareis", "se amonaren" ],
+			[ "se amonaren" ]
+		],
+		"12" : {
+			"1" : [ "amónate" ],
+			"2" : [ "amone" ],
+			"3" : [ "amonemos" ],
+			"4" : [ "amonaos" ],
+			"5" : [ "amónense" ]
+		}
+	}
+}

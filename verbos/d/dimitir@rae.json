@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dimitir",
+	"word" : "dimitir",
+	"infinitivo" : "dimitir",
+	"participio" : [ "dimitido" ],
+	"gerundio" : [ "dimitiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "dimito" ],
+			[ "dimites", "dimitís" ],
+			[ "dimite" ],
+			[ "dimitimos" ],
+			[ "dimitís", "dimiten" ],
+			[ "dimiten" ]
+		],
+		"4" : [
+			[ "dimití" ],
+			[ "dimitiste" ],
+			[ "dimitió" ],
+			[ "dimitimos" ],
+			[ "dimitisteis", "dimitieron" ],
+			[ "dimitieron" ]
+		],
+		"5" : [
+			[ "dimitía" ],
+			[ "dimitías" ],
+			[ "dimitía" ],
+			[ "dimitíamos" ],
+			[ "dimitíais", "dimitían" ],
+			[ "dimitían" ]
+		],
+		"6" : [
+			[ "dimitiría" ],
+			[ "dimitirías" ],
+			[ "dimitiría" ],
+			[ "dimitiríamos" ],
+			[ "dimitiríais", "dimitirían" ],
+			[ "dimitirían" ]
+		],
+		"7" : [
+			[ "dimitiré" ],
+			[ "dimitirás" ],
+			[ "dimitirá" ],
+			[ "dimitiremos" ],
+			[ "dimitiréis", "dimitirán" ],
+			[ "dimitirán" ]
+		],
+		"8" : [
+			[ "dimita" ],
+			[ "dimitas" ],
+			[ "dimita" ],
+			[ "dimitamos" ],
+			[ "dimitáis", "dimitan" ],
+			[ "dimitan" ]
+		],
+		"9" : [
+			[ "dimitiera" ],
+			[ "dimitieras" ],
+			[ "dimitiera" ],
+			[ "dimitiéramos" ],
+			[ "dimitierais", "dimitieran" ],
+			[ "dimitieran" ]
+		],
+		"10" : [
+			[ "dimitiese" ],
+			[ "dimitieses" ],
+			[ "dimitiese" ],
+			[ "dimitiésemos" ],
+			[ "dimitieseis", "dimitiesen" ],
+			[ "dimitiesen" ]
+		],
+		"11" : [
+			[ "dimitiere" ],
+			[ "dimitieres" ],
+			[ "dimitiere" ],
+			[ "dimitiéremos" ],
+			[ "dimitiereis", "dimitieren" ],
+			[ "dimitieren" ]
+		],
+		"12" : {
+			"1" : [ "dimite" ],
+			"2" : [ "dimita" ],
+			"3" : [ "dimitamos" ],
+			"4" : [ "dimitid" ],
+			"5" : [ "dimitan" ]
+		}
+	}
+}

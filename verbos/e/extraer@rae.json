@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=extraer",
+	"word" : "extraer",
+	"infinitivo" : "extraer",
+	"participio" : [ "extraído" ],
+	"gerundio" : [ "extrayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "extraigo" ],
+			[ "extraes", "extraés" ],
+			[ "extrae" ],
+			[ "extraemos" ],
+			[ "extraéis", "extraen" ],
+			[ "extraen" ]
+		],
+		"4" : [
+			[ "extraje" ],
+			[ "extrajiste" ],
+			[ "extrajo" ],
+			[ "extrajimos" ],
+			[ "extrajisteis", "extrajeron" ],
+			[ "extrajeron" ]
+		],
+		"5" : [
+			[ "extraía" ],
+			[ "extraías" ],
+			[ "extraía" ],
+			[ "extraíamos" ],
+			[ "extraíais", "extraían" ],
+			[ "extraían" ]
+		],
+		"6" : [
+			[ "extraería" ],
+			[ "extraerías" ],
+			[ "extraería" ],
+			[ "extraeríamos" ],
+			[ "extraeríais", "extraerían" ],
+			[ "extraerían" ]
+		],
+		"7" : [
+			[ "extraeré" ],
+			[ "extraerás" ],
+			[ "extraerá" ],
+			[ "extraeremos" ],
+			[ "extraeréis", "extraerán" ],
+			[ "extraerán" ]
+		],
+		"8" : [
+			[ "extraiga" ],
+			[ "extraigas" ],
+			[ "extraiga" ],
+			[ "extraigamos" ],
+			[ "extraigáis", "extraigan" ],
+			[ "extraigan" ]
+		],
+		"9" : [
+			[ "extrajera" ],
+			[ "extrajeras" ],
+			[ "extrajera" ],
+			[ "extrajéramos" ],
+			[ "extrajerais", "extrajeran" ],
+			[ "extrajeran" ]
+		],
+		"10" : [
+			[ "extrajese" ],
+			[ "extrajeses" ],
+			[ "extrajese" ],
+			[ "extrajésemos" ],
+			[ "extrajeseis", "extrajesen" ],
+			[ "extrajesen" ]
+		],
+		"11" : [
+			[ "extrajere" ],
+			[ "extrajeres" ],
+			[ "extrajere" ],
+			[ "extrajéremos" ],
+			[ "extrajereis", "extrajeren" ],
+			[ "extrajeren" ]
+		],
+		"12" : {
+			"1" : [ "extrae" ],
+			"2" : [ "extraiga" ],
+			"3" : [ "extraigamos" ],
+			"4" : [ "extraed" ],
+			"5" : [ "extraigan" ]
+		}
+	}
+}

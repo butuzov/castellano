@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=traer",
+	"word" : "traer",
+	"infinitivo" : "traer",
+	"participio" : [ "traído" ],
+	"gerundio" : [ "trayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "traigo" ],
+			[ "traes", "traés" ],
+			[ "trae" ],
+			[ "traemos" ],
+			[ "traéis", "traen" ],
+			[ "traen" ]
+		],
+		"4" : [
+			[ "traje" ],
+			[ "trajiste" ],
+			[ "trajo" ],
+			[ "trajimos" ],
+			[ "trajisteis", "trajeron" ],
+			[ "trajeron" ]
+		],
+		"5" : [
+			[ "traía" ],
+			[ "traías" ],
+			[ "traía" ],
+			[ "traíamos" ],
+			[ "traíais", "traían" ],
+			[ "traían" ]
+		],
+		"6" : [
+			[ "traería" ],
+			[ "traerías" ],
+			[ "traería" ],
+			[ "traeríamos" ],
+			[ "traeríais", "traerían" ],
+			[ "traerían" ]
+		],
+		"7" : [
+			[ "traeré" ],
+			[ "traerás" ],
+			[ "traerá" ],
+			[ "traeremos" ],
+			[ "traeréis", "traerán" ],
+			[ "traerán" ]
+		],
+		"8" : [
+			[ "traiga" ],
+			[ "traigas" ],
+			[ "traiga" ],
+			[ "traigamos" ],
+			[ "traigáis", "traigan" ],
+			[ "traigan" ]
+		],
+		"9" : [
+			[ "trajera" ],
+			[ "trajeras" ],
+			[ "trajera" ],
+			[ "trajéramos" ],
+			[ "trajerais", "trajeran" ],
+			[ "trajeran" ]
+		],
+		"10" : [
+			[ "trajese" ],
+			[ "trajeses" ],
+			[ "trajese" ],
+			[ "trajésemos" ],
+			[ "trajeseis", "trajesen" ],
+			[ "trajesen" ]
+		],
+		"11" : [
+			[ "trajere" ],
+			[ "trajeres" ],
+			[ "trajere" ],
+			[ "trajéremos" ],
+			[ "trajereis", "trajeren" ],
+			[ "trajeren" ]
+		],
+		"12" : {
+			"1" : [ "trae" ],
+			"2" : [ "traiga" ],
+			"3" : [ "traigamos" ],
+			"4" : [ "traed" ],
+			"5" : [ "traigan" ]
+		}
+	}
+}

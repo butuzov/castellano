@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disputar",
+	"word" : "disputar",
+	"infinitivo" : "disputar",
+	"participio" : [ "disputado" ],
+	"gerundio" : [ "disputando" ],
+	"tenses" : {
+		"3" : [
+			[ "disputo" ],
+			[ "disputas", "disputás" ],
+			[ "disputa" ],
+			[ "disputamos" ],
+			[ "disputáis", "disputan" ],
+			[ "disputan" ]
+		],
+		"4" : [
+			[ "disputé" ],
+			[ "disputaste" ],
+			[ "disputó" ],
+			[ "disputamos" ],
+			[ "disputasteis", "disputaron" ],
+			[ "disputaron" ]
+		],
+		"5" : [
+			[ "disputaba" ],
+			[ "disputabas" ],
+			[ "disputaba" ],
+			[ "disputábamos" ],
+			[ "disputabais", "disputaban" ],
+			[ "disputaban" ]
+		],
+		"6" : [
+			[ "disputaría" ],
+			[ "disputarías" ],
+			[ "disputaría" ],
+			[ "disputaríamos" ],
+			[ "disputaríais", "disputarían" ],
+			[ "disputarían" ]
+		],
+		"7" : [
+			[ "disputaré" ],
+			[ "disputarás" ],
+			[ "disputará" ],
+			[ "disputaremos" ],
+			[ "disputaréis", "disputarán" ],
+			[ "disputarán" ]
+		],
+		"8" : [
+			[ "dispute" ],
+			[ "disputes" ],
+			[ "dispute" ],
+			[ "disputemos" ],
+			[ "disputéis", "disputen" ],
+			[ "disputen" ]
+		],
+		"9" : [
+			[ "disputara" ],
+			[ "disputaras" ],
+			[ "disputara" ],
+			[ "disputáramos" ],
+			[ "disputarais", "disputaran" ],
+			[ "disputaran" ]
+		],
+		"10" : [
+			[ "disputase" ],
+			[ "disputases" ],
+			[ "disputase" ],
+			[ "disputásemos" ],
+			[ "disputaseis", "disputasen" ],
+			[ "disputasen" ]
+		],
+		"11" : [
+			[ "disputare" ],
+			[ "disputares" ],
+			[ "disputare" ],
+			[ "disputáremos" ],
+			[ "disputareis", "disputaren" ],
+			[ "disputaren" ]
+		],
+		"12" : {
+			"1" : [ "disputa" ],
+			"2" : [ "dispute" ],
+			"3" : [ "disputemos" ],
+			"4" : [ "disputad" ],
+			"5" : [ "disputen" ]
+		}
+	}
+}

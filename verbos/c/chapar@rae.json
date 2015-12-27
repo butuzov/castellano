@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chapar",
+	"word" : "chapar",
+	"infinitivo" : "chapar",
+	"participio" : [ "chapado" ],
+	"gerundio" : [ "chapando" ],
+	"tenses" : {
+		"3" : [
+			[ "chapo" ],
+			[ "chapas", "chapás" ],
+			[ "chapa" ],
+			[ "chapamos" ],
+			[ "chapáis", "chapan" ],
+			[ "chapan" ]
+		],
+		"4" : [
+			[ "chapé" ],
+			[ "chapaste" ],
+			[ "chapó" ],
+			[ "chapamos" ],
+			[ "chapasteis", "chaparon" ],
+			[ "chaparon" ]
+		],
+		"5" : [
+			[ "chapaba" ],
+			[ "chapabas" ],
+			[ "chapaba" ],
+			[ "chapábamos" ],
+			[ "chapabais", "chapaban" ],
+			[ "chapaban" ]
+		],
+		"6" : [
+			[ "chaparía" ],
+			[ "chaparías" ],
+			[ "chaparía" ],
+			[ "chaparíamos" ],
+			[ "chaparíais", "chaparían" ],
+			[ "chaparían" ]
+		],
+		"7" : [
+			[ "chaparé" ],
+			[ "chaparás" ],
+			[ "chapará" ],
+			[ "chaparemos" ],
+			[ "chaparéis", "chaparán" ],
+			[ "chaparán" ]
+		],
+		"8" : [
+			[ "chape" ],
+			[ "chapes" ],
+			[ "chape" ],
+			[ "chapemos" ],
+			[ "chapéis", "chapen" ],
+			[ "chapen" ]
+		],
+		"9" : [
+			[ "chapara" ],
+			[ "chaparas" ],
+			[ "chapara" ],
+			[ "chapáramos" ],
+			[ "chaparais", "chaparan" ],
+			[ "chaparan" ]
+		],
+		"10" : [
+			[ "chapase" ],
+			[ "chapases" ],
+			[ "chapase" ],
+			[ "chapásemos" ],
+			[ "chapaseis", "chapasen" ],
+			[ "chapasen" ]
+		],
+		"11" : [
+			[ "chapare" ],
+			[ "chapares" ],
+			[ "chapare" ],
+			[ "chapáremos" ],
+			[ "chapareis", "chaparen" ],
+			[ "chaparen" ]
+		],
+		"12" : {
+			"1" : [ "chapa" ],
+			"2" : [ "chape" ],
+			"3" : [ "chapemos" ],
+			"4" : [ "chapad" ],
+			"5" : [ "chapen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=improvisar",
+	"word" : "improvisar",
+	"infinitivo" : "improvisar",
+	"participio" : [ "improvisado" ],
+	"gerundio" : [ "improvisando" ],
+	"tenses" : {
+		"3" : [
+			[ "improviso" ],
+			[ "improvisas", "improvisás" ],
+			[ "improvisa" ],
+			[ "improvisamos" ],
+			[ "improvisáis", "improvisan" ],
+			[ "improvisan" ]
+		],
+		"4" : [
+			[ "improvisé" ],
+			[ "improvisaste" ],
+			[ "improvisó" ],
+			[ "improvisamos" ],
+			[ "improvisasteis", "improvisaron" ],
+			[ "improvisaron" ]
+		],
+		"5" : [
+			[ "improvisaba" ],
+			[ "improvisabas" ],
+			[ "improvisaba" ],
+			[ "improvisábamos" ],
+			[ "improvisabais", "improvisaban" ],
+			[ "improvisaban" ]
+		],
+		"6" : [
+			[ "improvisaría" ],
+			[ "improvisarías" ],
+			[ "improvisaría" ],
+			[ "improvisaríamos" ],
+			[ "improvisaríais", "improvisarían" ],
+			[ "improvisarían" ]
+		],
+		"7" : [
+			[ "improvisaré" ],
+			[ "improvisarás" ],
+			[ "improvisará" ],
+			[ "improvisaremos" ],
+			[ "improvisaréis", "improvisarán" ],
+			[ "improvisarán" ]
+		],
+		"8" : [
+			[ "improvise" ],
+			[ "improvises" ],
+			[ "improvise" ],
+			[ "improvisemos" ],
+			[ "improviséis", "improvisen" ],
+			[ "improvisen" ]
+		],
+		"9" : [
+			[ "improvisara" ],
+			[ "improvisaras" ],
+			[ "improvisara" ],
+			[ "improvisáramos" ],
+			[ "improvisarais", "improvisaran" ],
+			[ "improvisaran" ]
+		],
+		"10" : [
+			[ "improvisase" ],
+			[ "improvisases" ],
+			[ "improvisase" ],
+			[ "improvisásemos" ],
+			[ "improvisaseis", "improvisasen" ],
+			[ "improvisasen" ]
+		],
+		"11" : [
+			[ "improvisare" ],
+			[ "improvisares" ],
+			[ "improvisare" ],
+			[ "improvisáremos" ],
+			[ "improvisareis", "improvisaren" ],
+			[ "improvisaren" ]
+		],
+		"12" : {
+			"1" : [ "improvisa" ],
+			"2" : [ "improvise" ],
+			"3" : [ "improvisemos" ],
+			"4" : [ "improvisad" ],
+			"5" : [ "improvisen" ]
+		}
+	}
+}

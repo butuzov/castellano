@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desposeer",
+	"word" : "desposeer",
+	"infinitivo" : "desposeer",
+	"participio" : [ "desposeído" ],
+	"gerundio" : [ "desposeyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desposeo" ],
+			[ "desposees", "desposeés" ],
+			[ "desposee" ],
+			[ "desposeemos" ],
+			[ "desposeéis", "desposeen" ],
+			[ "desposeen" ]
+		],
+		"4" : [
+			[ "desposeí" ],
+			[ "desposeíste" ],
+			[ "desposeyó" ],
+			[ "desposeímos" ],
+			[ "desposeísteis", "desposeyeron" ],
+			[ "desposeyeron" ]
+		],
+		"5" : [
+			[ "desposeía" ],
+			[ "desposeías" ],
+			[ "desposeía" ],
+			[ "desposeíamos" ],
+			[ "desposeíais", "desposeían" ],
+			[ "desposeían" ]
+		],
+		"6" : [
+			[ "desposeería" ],
+			[ "desposeerías" ],
+			[ "desposeería" ],
+			[ "desposeeríamos" ],
+			[ "desposeeríais", "desposeerían" ],
+			[ "desposeerían" ]
+		],
+		"7" : [
+			[ "desposeeré" ],
+			[ "desposeerás" ],
+			[ "desposeerá" ],
+			[ "desposeeremos" ],
+			[ "desposeeréis", "desposeerán" ],
+			[ "desposeerán" ]
+		],
+		"8" : [
+			[ "desposea" ],
+			[ "desposeas" ],
+			[ "desposea" ],
+			[ "desposeamos" ],
+			[ "desposeáis", "desposean" ],
+			[ "desposean" ]
+		],
+		"9" : [
+			[ "desposeyera" ],
+			[ "desposeyeras" ],
+			[ "desposeyera" ],
+			[ "desposeyéramos" ],
+			[ "desposeyerais", "desposeyeran" ],
+			[ "desposeyeran" ]
+		],
+		"10" : [
+			[ "desposeyese" ],
+			[ "desposeyeses" ],
+			[ "desposeyese" ],
+			[ "desposeyésemos" ],
+			[ "desposeyeseis", "desposeyesen" ],
+			[ "desposeyesen" ]
+		],
+		"11" : [
+			[ "desposeyere" ],
+			[ "desposeyeres" ],
+			[ "desposeyere" ],
+			[ "desposeyéremos" ],
+			[ "desposeyereis", "desposeyeren" ],
+			[ "desposeyeren" ]
+		],
+		"12" : {
+			"1" : [ "desposee" ],
+			"2" : [ "desposea" ],
+			"3" : [ "desposeamos" ],
+			"4" : [ "desposeed" ],
+			"5" : [ "desposean" ]
+		}
+	}
+}

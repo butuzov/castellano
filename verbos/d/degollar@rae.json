@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=degollar",
+	"word" : "degollar",
+	"infinitivo" : "degollar",
+	"participio" : [ "degollado" ],
+	"gerundio" : [ "degollando" ],
+	"tenses" : {
+		"3" : [
+			[ "degüello" ],
+			[ "degüellas", "degollás" ],
+			[ "degüella" ],
+			[ "degollamos" ],
+			[ "degolláis", "degüellan" ],
+			[ "degüellan" ]
+		],
+		"4" : [
+			[ "degollé" ],
+			[ "degollaste" ],
+			[ "degolló" ],
+			[ "degollamos" ],
+			[ "degollasteis", "degollaron" ],
+			[ "degollaron" ]
+		],
+		"5" : [
+			[ "degollaba" ],
+			[ "degollabas" ],
+			[ "degollaba" ],
+			[ "degollábamos" ],
+			[ "degollabais", "degollaban" ],
+			[ "degollaban" ]
+		],
+		"6" : [
+			[ "degollaría" ],
+			[ "degollarías" ],
+			[ "degollaría" ],
+			[ "degollaríamos" ],
+			[ "degollaríais", "degollarían" ],
+			[ "degollarían" ]
+		],
+		"7" : [
+			[ "degollaré" ],
+			[ "degollarás" ],
+			[ "degollará" ],
+			[ "degollaremos" ],
+			[ "degollaréis", "degollarán" ],
+			[ "degollarán" ]
+		],
+		"8" : [
+			[ "degüelle" ],
+			[ "degüelles" ],
+			[ "degüelle" ],
+			[ "degollemos" ],
+			[ "degolléis", "degüellen" ],
+			[ "degüellen" ]
+		],
+		"9" : [
+			[ "degollara" ],
+			[ "degollaras" ],
+			[ "degollara" ],
+			[ "degolláramos" ],
+			[ "degollarais", "degollaran" ],
+			[ "degollaran" ]
+		],
+		"10" : [
+			[ "degollase" ],
+			[ "degollases" ],
+			[ "degollase" ],
+			[ "degollásemos" ],
+			[ "degollaseis", "degollasen" ],
+			[ "degollasen" ]
+		],
+		"11" : [
+			[ "degollare" ],
+			[ "degollares" ],
+			[ "degollare" ],
+			[ "degolláremos" ],
+			[ "degollareis", "degollaren" ],
+			[ "degollaren" ]
+		],
+		"12" : {
+			"1" : [ "degüella" ],
+			"2" : [ "degüelle" ],
+			"3" : [ "degollemos" ],
+			"4" : [ "degollad" ],
+			"5" : [ "degüellen" ]
+		}
+	}
+}

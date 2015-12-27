@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tensar",
+	"word" : "tensar",
+	"infinitivo" : "tensar",
+	"participio" : [ "tensado" ],
+	"gerundio" : [ "tensando" ],
+	"tenses" : {
+		"3" : [
+			[ "tenso" ],
+			[ "tensas", "tensás" ],
+			[ "tensa" ],
+			[ "tensamos" ],
+			[ "tensáis", "tensan" ],
+			[ "tensan" ]
+		],
+		"4" : [
+			[ "tensé" ],
+			[ "tensaste" ],
+			[ "tensó" ],
+			[ "tensamos" ],
+			[ "tensasteis", "tensaron" ],
+			[ "tensaron" ]
+		],
+		"5" : [
+			[ "tensaba" ],
+			[ "tensabas" ],
+			[ "tensaba" ],
+			[ "tensábamos" ],
+			[ "tensabais", "tensaban" ],
+			[ "tensaban" ]
+		],
+		"6" : [
+			[ "tensaría" ],
+			[ "tensarías" ],
+			[ "tensaría" ],
+			[ "tensaríamos" ],
+			[ "tensaríais", "tensarían" ],
+			[ "tensarían" ]
+		],
+		"7" : [
+			[ "tensaré" ],
+			[ "tensarás" ],
+			[ "tensará" ],
+			[ "tensaremos" ],
+			[ "tensaréis", "tensarán" ],
+			[ "tensarán" ]
+		],
+		"8" : [
+			[ "tense" ],
+			[ "tenses" ],
+			[ "tense" ],
+			[ "tensemos" ],
+			[ "tenséis", "tensen" ],
+			[ "tensen" ]
+		],
+		"9" : [
+			[ "tensara" ],
+			[ "tensaras" ],
+			[ "tensara" ],
+			[ "tensáramos" ],
+			[ "tensarais", "tensaran" ],
+			[ "tensaran" ]
+		],
+		"10" : [
+			[ "tensase" ],
+			[ "tensases" ],
+			[ "tensase" ],
+			[ "tensásemos" ],
+			[ "tensaseis", "tensasen" ],
+			[ "tensasen" ]
+		],
+		"11" : [
+			[ "tensare" ],
+			[ "tensares" ],
+			[ "tensare" ],
+			[ "tensáremos" ],
+			[ "tensareis", "tensaren" ],
+			[ "tensaren" ]
+		],
+		"12" : {
+			"1" : [ "tensa" ],
+			"2" : [ "tense" ],
+			"3" : [ "tensemos" ],
+			"4" : [ "tensad" ],
+			"5" : [ "tensen" ]
+		}
+	}
+}

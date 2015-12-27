@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=navegar",
+	"word" : "navegar",
+	"infinitivo" : "navegar",
+	"participio" : [ "navegado" ],
+	"gerundio" : [ "navegando" ],
+	"tenses" : {
+		"3" : [
+			[ "navego" ],
+			[ "navegas", "navegás" ],
+			[ "navega" ],
+			[ "navegamos" ],
+			[ "navegáis", "navegan" ],
+			[ "navegan" ]
+		],
+		"4" : [
+			[ "navegué" ],
+			[ "navegaste" ],
+			[ "navegó" ],
+			[ "navegamos" ],
+			[ "navegasteis", "navegaron" ],
+			[ "navegaron" ]
+		],
+		"5" : [
+			[ "navegaba" ],
+			[ "navegabas" ],
+			[ "navegaba" ],
+			[ "navegábamos" ],
+			[ "navegabais", "navegaban" ],
+			[ "navegaban" ]
+		],
+		"6" : [
+			[ "navegaría" ],
+			[ "navegarías" ],
+			[ "navegaría" ],
+			[ "navegaríamos" ],
+			[ "navegaríais", "navegarían" ],
+			[ "navegarían" ]
+		],
+		"7" : [
+			[ "navegaré" ],
+			[ "navegarás" ],
+			[ "navegará" ],
+			[ "navegaremos" ],
+			[ "navegaréis", "navegarán" ],
+			[ "navegarán" ]
+		],
+		"8" : [
+			[ "navegue" ],
+			[ "navegues" ],
+			[ "navegue" ],
+			[ "naveguemos" ],
+			[ "naveguéis", "naveguen" ],
+			[ "naveguen" ]
+		],
+		"9" : [
+			[ "navegara" ],
+			[ "navegaras" ],
+			[ "navegara" ],
+			[ "navegáramos" ],
+			[ "navegarais", "navegaran" ],
+			[ "navegaran" ]
+		],
+		"10" : [
+			[ "navegase" ],
+			[ "navegases" ],
+			[ "navegase" ],
+			[ "navegásemos" ],
+			[ "navegaseis", "navegasen" ],
+			[ "navegasen" ]
+		],
+		"11" : [
+			[ "navegare" ],
+			[ "navegares" ],
+			[ "navegare" ],
+			[ "navegáremos" ],
+			[ "navegareis", "navegaren" ],
+			[ "navegaren" ]
+		],
+		"12" : {
+			"1" : [ "navega" ],
+			"2" : [ "navegue" ],
+			"3" : [ "naveguemos" ],
+			"4" : [ "navegad" ],
+			"5" : [ "naveguen" ]
+		}
+	}
+}

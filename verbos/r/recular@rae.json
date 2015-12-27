@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recular",
+	"word" : "recular",
+	"infinitivo" : "recular",
+	"participio" : [ "reculado" ],
+	"gerundio" : [ "reculando" ],
+	"tenses" : {
+		"3" : [
+			[ "reculo" ],
+			[ "reculas", "reculás" ],
+			[ "recula" ],
+			[ "reculamos" ],
+			[ "reculáis", "reculan" ],
+			[ "reculan" ]
+		],
+		"4" : [
+			[ "reculé" ],
+			[ "reculaste" ],
+			[ "reculó" ],
+			[ "reculamos" ],
+			[ "reculasteis", "recularon" ],
+			[ "recularon" ]
+		],
+		"5" : [
+			[ "reculaba" ],
+			[ "reculabas" ],
+			[ "reculaba" ],
+			[ "reculábamos" ],
+			[ "reculabais", "reculaban" ],
+			[ "reculaban" ]
+		],
+		"6" : [
+			[ "recularía" ],
+			[ "recularías" ],
+			[ "recularía" ],
+			[ "recularíamos" ],
+			[ "recularíais", "recularían" ],
+			[ "recularían" ]
+		],
+		"7" : [
+			[ "recularé" ],
+			[ "recularás" ],
+			[ "reculará" ],
+			[ "recularemos" ],
+			[ "recularéis", "recularán" ],
+			[ "recularán" ]
+		],
+		"8" : [
+			[ "recule" ],
+			[ "recules" ],
+			[ "recule" ],
+			[ "reculemos" ],
+			[ "reculéis", "reculen" ],
+			[ "reculen" ]
+		],
+		"9" : [
+			[ "reculara" ],
+			[ "recularas" ],
+			[ "reculara" ],
+			[ "reculáramos" ],
+			[ "recularais", "recularan" ],
+			[ "recularan" ]
+		],
+		"10" : [
+			[ "reculase" ],
+			[ "reculases" ],
+			[ "reculase" ],
+			[ "reculásemos" ],
+			[ "reculaseis", "reculasen" ],
+			[ "reculasen" ]
+		],
+		"11" : [
+			[ "reculare" ],
+			[ "reculares" ],
+			[ "reculare" ],
+			[ "reculáremos" ],
+			[ "reculareis", "recularen" ],
+			[ "recularen" ]
+		],
+		"12" : {
+			"1" : [ "recula" ],
+			"2" : [ "recule" ],
+			"3" : [ "reculemos" ],
+			"4" : [ "reculad" ],
+			"5" : [ "reculen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=llevar",
+	"word" : "llevar",
+	"infinitivo" : "llevar",
+	"participio" : [ "llevado" ],
+	"gerundio" : [ "llevando" ],
+	"tenses" : {
+		"3" : [
+			[ "llevo" ],
+			[ "llevas", "llevás" ],
+			[ "lleva" ],
+			[ "llevamos" ],
+			[ "lleváis", "llevan" ],
+			[ "llevan" ]
+		],
+		"4" : [
+			[ "llevé" ],
+			[ "llevaste" ],
+			[ "llevó" ],
+			[ "llevamos" ],
+			[ "llevasteis", "llevaron" ],
+			[ "llevaron" ]
+		],
+		"5" : [
+			[ "llevaba" ],
+			[ "llevabas" ],
+			[ "llevaba" ],
+			[ "llevábamos" ],
+			[ "llevabais", "llevaban" ],
+			[ "llevaban" ]
+		],
+		"6" : [
+			[ "llevaría" ],
+			[ "llevarías" ],
+			[ "llevaría" ],
+			[ "llevaríamos" ],
+			[ "llevaríais", "llevarían" ],
+			[ "llevarían" ]
+		],
+		"7" : [
+			[ "llevaré" ],
+			[ "llevarás" ],
+			[ "llevará" ],
+			[ "llevaremos" ],
+			[ "llevaréis", "llevarán" ],
+			[ "llevarán" ]
+		],
+		"8" : [
+			[ "lleve" ],
+			[ "lleves" ],
+			[ "lleve" ],
+			[ "llevemos" ],
+			[ "llevéis", "lleven" ],
+			[ "lleven" ]
+		],
+		"9" : [
+			[ "llevara" ],
+			[ "llevaras" ],
+			[ "llevara" ],
+			[ "lleváramos" ],
+			[ "llevarais", "llevaran" ],
+			[ "llevaran" ]
+		],
+		"10" : [
+			[ "llevase" ],
+			[ "llevases" ],
+			[ "llevase" ],
+			[ "llevásemos" ],
+			[ "llevaseis", "llevasen" ],
+			[ "llevasen" ]
+		],
+		"11" : [
+			[ "llevare" ],
+			[ "llevares" ],
+			[ "llevare" ],
+			[ "lleváremos" ],
+			[ "llevareis", "llevaren" ],
+			[ "llevaren" ]
+		],
+		"12" : {
+			"1" : [ "lleva" ],
+			"2" : [ "lleve" ],
+			"3" : [ "llevemos" ],
+			"4" : [ "llevad" ],
+			"5" : [ "lleven" ]
+		}
+	}
+}

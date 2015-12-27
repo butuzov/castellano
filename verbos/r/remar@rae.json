@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remar",
+	"word" : "remar",
+	"infinitivo" : "remar",
+	"participio" : [ "remado" ],
+	"gerundio" : [ "remando" ],
+	"tenses" : {
+		"3" : [
+			[ "remo" ],
+			[ "remas", "remás" ],
+			[ "rema" ],
+			[ "remamos" ],
+			[ "remáis", "reman" ],
+			[ "reman" ]
+		],
+		"4" : [
+			[ "remé" ],
+			[ "remaste" ],
+			[ "remó" ],
+			[ "remamos" ],
+			[ "remasteis", "remaron" ],
+			[ "remaron" ]
+		],
+		"5" : [
+			[ "remaba" ],
+			[ "remabas" ],
+			[ "remaba" ],
+			[ "remábamos" ],
+			[ "remabais", "remaban" ],
+			[ "remaban" ]
+		],
+		"6" : [
+			[ "remaría" ],
+			[ "remarías" ],
+			[ "remaría" ],
+			[ "remaríamos" ],
+			[ "remaríais", "remarían" ],
+			[ "remarían" ]
+		],
+		"7" : [
+			[ "remaré" ],
+			[ "remarás" ],
+			[ "remará" ],
+			[ "remaremos" ],
+			[ "remaréis", "remarán" ],
+			[ "remarán" ]
+		],
+		"8" : [
+			[ "reme" ],
+			[ "remes" ],
+			[ "reme" ],
+			[ "rememos" ],
+			[ "reméis", "remen" ],
+			[ "remen" ]
+		],
+		"9" : [
+			[ "remara" ],
+			[ "remaras" ],
+			[ "remara" ],
+			[ "remáramos" ],
+			[ "remarais", "remaran" ],
+			[ "remaran" ]
+		],
+		"10" : [
+			[ "remase" ],
+			[ "remases" ],
+			[ "remase" ],
+			[ "remásemos" ],
+			[ "remaseis", "remasen" ],
+			[ "remasen" ]
+		],
+		"11" : [
+			[ "remare" ],
+			[ "remares" ],
+			[ "remare" ],
+			[ "remáremos" ],
+			[ "remareis", "remaren" ],
+			[ "remaren" ]
+		],
+		"12" : {
+			"1" : [ "rema" ],
+			"2" : [ "reme" ],
+			"3" : [ "rememos" ],
+			"4" : [ "remad" ],
+			"5" : [ "remen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ajear",
+	"word" : "ajear",
+	"infinitivo" : "ajear",
+	"participio" : [ "ajeado" ],
+	"gerundio" : [ "ajeando" ],
+	"tenses" : {
+		"3" : [
+			[ "ajeo" ],
+			[ "ajeas", "ajeás" ],
+			[ "ajea" ],
+			[ "ajeamos" ],
+			[ "ajeáis", "ajean" ],
+			[ "ajean" ]
+		],
+		"4" : [
+			[ "ajeé" ],
+			[ "ajeaste" ],
+			[ "ajeó" ],
+			[ "ajeamos" ],
+			[ "ajeasteis", "ajearon" ],
+			[ "ajearon" ]
+		],
+		"5" : [
+			[ "ajeaba" ],
+			[ "ajeabas" ],
+			[ "ajeaba" ],
+			[ "ajeábamos" ],
+			[ "ajeabais", "ajeaban" ],
+			[ "ajeaban" ]
+		],
+		"6" : [
+			[ "ajearía" ],
+			[ "ajearías" ],
+			[ "ajearía" ],
+			[ "ajearíamos" ],
+			[ "ajearíais", "ajearían" ],
+			[ "ajearían" ]
+		],
+		"7" : [
+			[ "ajearé" ],
+			[ "ajearás" ],
+			[ "ajeará" ],
+			[ "ajearemos" ],
+			[ "ajearéis", "ajearán" ],
+			[ "ajearán" ]
+		],
+		"8" : [
+			[ "ajee" ],
+			[ "ajees" ],
+			[ "ajee" ],
+			[ "ajeemos" ],
+			[ "ajeéis", "ajeen" ],
+			[ "ajeen" ]
+		],
+		"9" : [
+			[ "ajeara" ],
+			[ "ajearas" ],
+			[ "ajeara" ],
+			[ "ajeáramos" ],
+			[ "ajearais", "ajearan" ],
+			[ "ajearan" ]
+		],
+		"10" : [
+			[ "ajease" ],
+			[ "ajeases" ],
+			[ "ajease" ],
+			[ "ajeásemos" ],
+			[ "ajeaseis", "ajeasen" ],
+			[ "ajeasen" ]
+		],
+		"11" : [
+			[ "ajeare" ],
+			[ "ajeares" ],
+			[ "ajeare" ],
+			[ "ajeáremos" ],
+			[ "ajeareis", "ajearen" ],
+			[ "ajearen" ]
+		],
+		"12" : {
+			"1" : [ "ajea" ],
+			"2" : [ "ajee" ],
+			"3" : [ "ajeemos" ],
+			"4" : [ "ajead" ],
+			"5" : [ "ajeen" ]
+		}
+	}
+}

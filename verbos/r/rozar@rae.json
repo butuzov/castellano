@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rozar",
+	"word" : "rozar",
+	"infinitivo" : "rozar",
+	"participio" : [ "rozado" ],
+	"gerundio" : [ "rozando" ],
+	"tenses" : {
+		"3" : [
+			[ "rozo" ],
+			[ "rozas", "rozás" ],
+			[ "roza" ],
+			[ "rozamos" ],
+			[ "rozáis", "rozan" ],
+			[ "rozan" ]
+		],
+		"4" : [
+			[ "rocé" ],
+			[ "rozaste" ],
+			[ "rozó" ],
+			[ "rozamos" ],
+			[ "rozasteis", "rozaron" ],
+			[ "rozaron" ]
+		],
+		"5" : [
+			[ "rozaba" ],
+			[ "rozabas" ],
+			[ "rozaba" ],
+			[ "rozábamos" ],
+			[ "rozabais", "rozaban" ],
+			[ "rozaban" ]
+		],
+		"6" : [
+			[ "rozaría" ],
+			[ "rozarías" ],
+			[ "rozaría" ],
+			[ "rozaríamos" ],
+			[ "rozaríais", "rozarían" ],
+			[ "rozarían" ]
+		],
+		"7" : [
+			[ "rozaré" ],
+			[ "rozarás" ],
+			[ "rozará" ],
+			[ "rozaremos" ],
+			[ "rozaréis", "rozarán" ],
+			[ "rozarán" ]
+		],
+		"8" : [
+			[ "roce" ],
+			[ "roces" ],
+			[ "roce" ],
+			[ "rocemos" ],
+			[ "rocéis", "rocen" ],
+			[ "rocen" ]
+		],
+		"9" : [
+			[ "rozara" ],
+			[ "rozaras" ],
+			[ "rozara" ],
+			[ "rozáramos" ],
+			[ "rozarais", "rozaran" ],
+			[ "rozaran" ]
+		],
+		"10" : [
+			[ "rozase" ],
+			[ "rozases" ],
+			[ "rozase" ],
+			[ "rozásemos" ],
+			[ "rozaseis", "rozasen" ],
+			[ "rozasen" ]
+		],
+		"11" : [
+			[ "rozare" ],
+			[ "rozares" ],
+			[ "rozare" ],
+			[ "rozáremos" ],
+			[ "rozareis", "rozaren" ],
+			[ "rozaren" ]
+		],
+		"12" : {
+			"1" : [ "roza" ],
+			"2" : [ "roce" ],
+			"3" : [ "rocemos" ],
+			"4" : [ "rozad" ],
+			"5" : [ "rocen" ]
+		}
+	}
+}

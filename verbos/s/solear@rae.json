@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=solear",
+	"word" : "solear",
+	"infinitivo" : "solear",
+	"participio" : [ "soleado" ],
+	"gerundio" : [ "soleando" ],
+	"tenses" : {
+		"3" : [
+			[ "soleo" ],
+			[ "soleas", "soleás" ],
+			[ "solea" ],
+			[ "soleamos" ],
+			[ "soleáis", "solean" ],
+			[ "solean" ]
+		],
+		"4" : [
+			[ "soleé" ],
+			[ "soleaste" ],
+			[ "soleó" ],
+			[ "soleamos" ],
+			[ "soleasteis", "solearon" ],
+			[ "solearon" ]
+		],
+		"5" : [
+			[ "soleaba" ],
+			[ "soleabas" ],
+			[ "soleaba" ],
+			[ "soleábamos" ],
+			[ "soleabais", "soleaban" ],
+			[ "soleaban" ]
+		],
+		"6" : [
+			[ "solearía" ],
+			[ "solearías" ],
+			[ "solearía" ],
+			[ "solearíamos" ],
+			[ "solearíais", "solearían" ],
+			[ "solearían" ]
+		],
+		"7" : [
+			[ "solearé" ],
+			[ "solearás" ],
+			[ "soleará" ],
+			[ "solearemos" ],
+			[ "solearéis", "solearán" ],
+			[ "solearán" ]
+		],
+		"8" : [
+			[ "solee" ],
+			[ "solees" ],
+			[ "solee" ],
+			[ "soleemos" ],
+			[ "soleéis", "soleen" ],
+			[ "soleen" ]
+		],
+		"9" : [
+			[ "soleara" ],
+			[ "solearas" ],
+			[ "soleara" ],
+			[ "soleáramos" ],
+			[ "solearais", "solearan" ],
+			[ "solearan" ]
+		],
+		"10" : [
+			[ "solease" ],
+			[ "soleases" ],
+			[ "solease" ],
+			[ "soleásemos" ],
+			[ "soleaseis", "soleasen" ],
+			[ "soleasen" ]
+		],
+		"11" : [
+			[ "soleare" ],
+			[ "soleares" ],
+			[ "soleare" ],
+			[ "soleáremos" ],
+			[ "soleareis", "solearen" ],
+			[ "solearen" ]
+		],
+		"12" : {
+			"1" : [ "solea" ],
+			"2" : [ "solee" ],
+			"3" : [ "soleemos" ],
+			"4" : [ "solead" ],
+			"5" : [ "soleen" ]
+		}
+	}
+}

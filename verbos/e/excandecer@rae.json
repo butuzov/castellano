@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=excandecer",
+	"word" : "excandecer",
+	"infinitivo" : "excandecer",
+	"participio" : [ "excandecido" ],
+	"gerundio" : [ "excandeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "excandezco" ],
+			[ "excandeces", "excandecés" ],
+			[ "excandece" ],
+			[ "excandecemos" ],
+			[ "excandecéis", "excandecen" ],
+			[ "excandecen" ]
+		],
+		"4" : [
+			[ "excandecí" ],
+			[ "excandeciste" ],
+			[ "excandeció" ],
+			[ "excandecimos" ],
+			[ "excandecisteis", "excandecieron" ],
+			[ "excandecieron" ]
+		],
+		"5" : [
+			[ "excandecía" ],
+			[ "excandecías" ],
+			[ "excandecía" ],
+			[ "excandecíamos" ],
+			[ "excandecíais", "excandecían" ],
+			[ "excandecían" ]
+		],
+		"6" : [
+			[ "excandecería" ],
+			[ "excandecerías" ],
+			[ "excandecería" ],
+			[ "excandeceríamos" ],
+			[ "excandeceríais", "excandecerían" ],
+			[ "excandecerían" ]
+		],
+		"7" : [
+			[ "excandeceré" ],
+			[ "excandecerás" ],
+			[ "excandecerá" ],
+			[ "excandeceremos" ],
+			[ "excandeceréis", "excandecerán" ],
+			[ "excandecerán" ]
+		],
+		"8" : [
+			[ "excandezca" ],
+			[ "excandezcas" ],
+			[ "excandezca" ],
+			[ "excandezcamos" ],
+			[ "excandezcáis", "excandezcan" ],
+			[ "excandezcan" ]
+		],
+		"9" : [
+			[ "excandeciera" ],
+			[ "excandecieras" ],
+			[ "excandeciera" ],
+			[ "excandeciéramos" ],
+			[ "excandecierais", "excandecieran" ],
+			[ "excandecieran" ]
+		],
+		"10" : [
+			[ "excandeciese" ],
+			[ "excandecieses" ],
+			[ "excandeciese" ],
+			[ "excandeciésemos" ],
+			[ "excandecieseis", "excandeciesen" ],
+			[ "excandeciesen" ]
+		],
+		"11" : [
+			[ "excandeciere" ],
+			[ "excandecieres" ],
+			[ "excandeciere" ],
+			[ "excandeciéremos" ],
+			[ "excandeciereis", "excandecieren" ],
+			[ "excandecieren" ]
+		],
+		"12" : {
+			"1" : [ "excandece" ],
+			"2" : [ "excandezca" ],
+			"3" : [ "excandezcamos" ],
+			"4" : [ "excandeced" ],
+			"5" : [ "excandezcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resfriar",
+	"word" : "resfriar",
+	"infinitivo" : "resfriar",
+	"participio" : [ "resfriado" ],
+	"gerundio" : [ "resfriando" ],
+	"tenses" : {
+		"3" : [
+			[ "resfrío" ],
+			[ "resfrías", "resfriás" ],
+			[ "resfría" ],
+			[ "resfriamos" ],
+			[ "resfriáis", "resfrían" ],
+			[ "resfrían" ]
+		],
+		"4" : [
+			[ "resfrié" ],
+			[ "resfriaste" ],
+			[ "resfrió" ],
+			[ "resfriamos" ],
+			[ "resfriasteis", "resfriaron" ],
+			[ "resfriaron" ]
+		],
+		"5" : [
+			[ "resfriaba" ],
+			[ "resfriabas" ],
+			[ "resfriaba" ],
+			[ "resfriábamos" ],
+			[ "resfriabais", "resfriaban" ],
+			[ "resfriaban" ]
+		],
+		"6" : [
+			[ "resfriaría" ],
+			[ "resfriarías" ],
+			[ "resfriaría" ],
+			[ "resfriaríamos" ],
+			[ "resfriaríais", "resfriarían" ],
+			[ "resfriarían" ]
+		],
+		"7" : [
+			[ "resfriaré" ],
+			[ "resfriarás" ],
+			[ "resfriará" ],
+			[ "resfriaremos" ],
+			[ "resfriaréis", "resfriarán" ],
+			[ "resfriarán" ]
+		],
+		"8" : [
+			[ "resfríe" ],
+			[ "resfríes" ],
+			[ "resfríe" ],
+			[ "resfriemos" ],
+			[ "resfriéis", "resfríen" ],
+			[ "resfríen" ]
+		],
+		"9" : [
+			[ "resfriara" ],
+			[ "resfriaras" ],
+			[ "resfriara" ],
+			[ "resfriáramos" ],
+			[ "resfriarais", "resfriaran" ],
+			[ "resfriaran" ]
+		],
+		"10" : [
+			[ "resfriase" ],
+			[ "resfriases" ],
+			[ "resfriase" ],
+			[ "resfriásemos" ],
+			[ "resfriaseis", "resfriasen" ],
+			[ "resfriasen" ]
+		],
+		"11" : [
+			[ "resfriare" ],
+			[ "resfriares" ],
+			[ "resfriare" ],
+			[ "resfriáremos" ],
+			[ "resfriareis", "resfriaren" ],
+			[ "resfriaren" ]
+		],
+		"12" : {
+			"1" : [ "resfría" ],
+			"2" : [ "resfríe" ],
+			"3" : [ "resfriemos" ],
+			"4" : [ "resfriad" ],
+			"5" : [ "resfríen" ]
+		}
+	}
+}

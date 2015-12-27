@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mejorar",
+	"word" : "mejorar",
+	"infinitivo" : "mejorar",
+	"participio" : [ "mejorado" ],
+	"gerundio" : [ "mejorando" ],
+	"tenses" : {
+		"3" : [
+			[ "mejoro" ],
+			[ "mejoras", "mejorás" ],
+			[ "mejora" ],
+			[ "mejoramos" ],
+			[ "mejoráis", "mejoran" ],
+			[ "mejoran" ]
+		],
+		"4" : [
+			[ "mejoré" ],
+			[ "mejoraste" ],
+			[ "mejoró" ],
+			[ "mejoramos" ],
+			[ "mejorasteis", "mejoraron" ],
+			[ "mejoraron" ]
+		],
+		"5" : [
+			[ "mejoraba" ],
+			[ "mejorabas" ],
+			[ "mejoraba" ],
+			[ "mejorábamos" ],
+			[ "mejorabais", "mejoraban" ],
+			[ "mejoraban" ]
+		],
+		"6" : [
+			[ "mejoraría" ],
+			[ "mejorarías" ],
+			[ "mejoraría" ],
+			[ "mejoraríamos" ],
+			[ "mejoraríais", "mejorarían" ],
+			[ "mejorarían" ]
+		],
+		"7" : [
+			[ "mejoraré" ],
+			[ "mejorarás" ],
+			[ "mejorará" ],
+			[ "mejoraremos" ],
+			[ "mejoraréis", "mejorarán" ],
+			[ "mejorarán" ]
+		],
+		"8" : [
+			[ "mejore" ],
+			[ "mejores" ],
+			[ "mejore" ],
+			[ "mejoremos" ],
+			[ "mejoréis", "mejoren" ],
+			[ "mejoren" ]
+		],
+		"9" : [
+			[ "mejorara" ],
+			[ "mejoraras" ],
+			[ "mejorara" ],
+			[ "mejoráramos" ],
+			[ "mejorarais", "mejoraran" ],
+			[ "mejoraran" ]
+		],
+		"10" : [
+			[ "mejorase" ],
+			[ "mejorases" ],
+			[ "mejorase" ],
+			[ "mejorásemos" ],
+			[ "mejoraseis", "mejorasen" ],
+			[ "mejorasen" ]
+		],
+		"11" : [
+			[ "mejorare" ],
+			[ "mejorares" ],
+			[ "mejorare" ],
+			[ "mejoráremos" ],
+			[ "mejorareis", "mejoraren" ],
+			[ "mejoraren" ]
+		],
+		"12" : {
+			"1" : [ "mejora" ],
+			"2" : [ "mejore" ],
+			"3" : [ "mejoremos" ],
+			"4" : [ "mejorad" ],
+			"5" : [ "mejoren" ]
+		}
+	}
+}

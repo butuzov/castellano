@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=destemplar",
+	"word" : "destemplar",
+	"infinitivo" : "destemplar",
+	"participio" : [ "destemplado" ],
+	"gerundio" : [ "destemplando" ],
+	"tenses" : {
+		"3" : [
+			[ "destemplo" ],
+			[ "destemplas", "destemplás" ],
+			[ "destempla" ],
+			[ "destemplamos" ],
+			[ "destempláis", "destemplan" ],
+			[ "destemplan" ]
+		],
+		"4" : [
+			[ "destemplé" ],
+			[ "destemplaste" ],
+			[ "destempló" ],
+			[ "destemplamos" ],
+			[ "destemplasteis", "destemplaron" ],
+			[ "destemplaron" ]
+		],
+		"5" : [
+			[ "destemplaba" ],
+			[ "destemplabas" ],
+			[ "destemplaba" ],
+			[ "destemplábamos" ],
+			[ "destemplabais", "destemplaban" ],
+			[ "destemplaban" ]
+		],
+		"6" : [
+			[ "destemplaría" ],
+			[ "destemplarías" ],
+			[ "destemplaría" ],
+			[ "destemplaríamos" ],
+			[ "destemplaríais", "destemplarían" ],
+			[ "destemplarían" ]
+		],
+		"7" : [
+			[ "destemplaré" ],
+			[ "destemplarás" ],
+			[ "destemplará" ],
+			[ "destemplaremos" ],
+			[ "destemplaréis", "destemplarán" ],
+			[ "destemplarán" ]
+		],
+		"8" : [
+			[ "destemple" ],
+			[ "destemples" ],
+			[ "destemple" ],
+			[ "destemplemos" ],
+			[ "destempléis", "destemplen" ],
+			[ "destemplen" ]
+		],
+		"9" : [
+			[ "destemplara" ],
+			[ "destemplaras" ],
+			[ "destemplara" ],
+			[ "destempláramos" ],
+			[ "destemplarais", "destemplaran" ],
+			[ "destemplaran" ]
+		],
+		"10" : [
+			[ "destemplase" ],
+			[ "destemplases" ],
+			[ "destemplase" ],
+			[ "destemplásemos" ],
+			[ "destemplaseis", "destemplasen" ],
+			[ "destemplasen" ]
+		],
+		"11" : [
+			[ "destemplare" ],
+			[ "destemplares" ],
+			[ "destemplare" ],
+			[ "destempláremos" ],
+			[ "destemplareis", "destemplaren" ],
+			[ "destemplaren" ]
+		],
+		"12" : {
+			"1" : [ "destempla" ],
+			"2" : [ "destemple" ],
+			"3" : [ "destemplemos" ],
+			"4" : [ "destemplad" ],
+			"5" : [ "destemplen" ]
+		}
+	}
+}

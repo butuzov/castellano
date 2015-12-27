@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rentar",
+	"word" : "rentar",
+	"infinitivo" : "rentar",
+	"participio" : [ "rentado" ],
+	"gerundio" : [ "rentando" ],
+	"tenses" : {
+		"3" : [
+			[ "rento" ],
+			[ "rentas", "rentás" ],
+			[ "renta" ],
+			[ "rentamos" ],
+			[ "rentáis", "rentan" ],
+			[ "rentan" ]
+		],
+		"4" : [
+			[ "renté" ],
+			[ "rentaste" ],
+			[ "rentó" ],
+			[ "rentamos" ],
+			[ "rentasteis", "rentaron" ],
+			[ "rentaron" ]
+		],
+		"5" : [
+			[ "rentaba" ],
+			[ "rentabas" ],
+			[ "rentaba" ],
+			[ "rentábamos" ],
+			[ "rentabais", "rentaban" ],
+			[ "rentaban" ]
+		],
+		"6" : [
+			[ "rentaría" ],
+			[ "rentarías" ],
+			[ "rentaría" ],
+			[ "rentaríamos" ],
+			[ "rentaríais", "rentarían" ],
+			[ "rentarían" ]
+		],
+		"7" : [
+			[ "rentaré" ],
+			[ "rentarás" ],
+			[ "rentará" ],
+			[ "rentaremos" ],
+			[ "rentaréis", "rentarán" ],
+			[ "rentarán" ]
+		],
+		"8" : [
+			[ "rente" ],
+			[ "rentes" ],
+			[ "rente" ],
+			[ "rentemos" ],
+			[ "rentéis", "renten" ],
+			[ "renten" ]
+		],
+		"9" : [
+			[ "rentara" ],
+			[ "rentaras" ],
+			[ "rentara" ],
+			[ "rentáramos" ],
+			[ "rentarais", "rentaran" ],
+			[ "rentaran" ]
+		],
+		"10" : [
+			[ "rentase" ],
+			[ "rentases" ],
+			[ "rentase" ],
+			[ "rentásemos" ],
+			[ "rentaseis", "rentasen" ],
+			[ "rentasen" ]
+		],
+		"11" : [
+			[ "rentare" ],
+			[ "rentares" ],
+			[ "rentare" ],
+			[ "rentáremos" ],
+			[ "rentareis", "rentaren" ],
+			[ "rentaren" ]
+		],
+		"12" : {
+			"1" : [ "renta" ],
+			"2" : [ "rente" ],
+			"3" : [ "rentemos" ],
+			"4" : [ "rentad" ],
+			"5" : [ "renten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abonar",
+	"word" : "abonar",
+	"infinitivo" : "abonar",
+	"participio" : [ "abonado" ],
+	"gerundio" : [ "abonando" ],
+	"tenses" : {
+		"3" : [
+			[ "abono" ],
+			[ "abonas", "abonás" ],
+			[ "abona" ],
+			[ "abonamos" ],
+			[ "abonáis", "abonan" ],
+			[ "abonan" ]
+		],
+		"4" : [
+			[ "aboné" ],
+			[ "abonaste" ],
+			[ "abonó" ],
+			[ "abonamos" ],
+			[ "abonasteis", "abonaron" ],
+			[ "abonaron" ]
+		],
+		"5" : [
+			[ "abonaba" ],
+			[ "abonabas" ],
+			[ "abonaba" ],
+			[ "abonábamos" ],
+			[ "abonabais", "abonaban" ],
+			[ "abonaban" ]
+		],
+		"6" : [
+			[ "abonaría" ],
+			[ "abonarías" ],
+			[ "abonaría" ],
+			[ "abonaríamos" ],
+			[ "abonaríais", "abonarían" ],
+			[ "abonarían" ]
+		],
+		"7" : [
+			[ "abonaré" ],
+			[ "abonarás" ],
+			[ "abonará" ],
+			[ "abonaremos" ],
+			[ "abonaréis", "abonarán" ],
+			[ "abonarán" ]
+		],
+		"8" : [
+			[ "abone" ],
+			[ "abones" ],
+			[ "abone" ],
+			[ "abonemos" ],
+			[ "abonéis", "abonen" ],
+			[ "abonen" ]
+		],
+		"9" : [
+			[ "abonara" ],
+			[ "abonaras" ],
+			[ "abonara" ],
+			[ "abonáramos" ],
+			[ "abonarais", "abonaran" ],
+			[ "abonaran" ]
+		],
+		"10" : [
+			[ "abonase" ],
+			[ "abonases" ],
+			[ "abonase" ],
+			[ "abonásemos" ],
+			[ "abonaseis", "abonasen" ],
+			[ "abonasen" ]
+		],
+		"11" : [
+			[ "abonare" ],
+			[ "abonares" ],
+			[ "abonare" ],
+			[ "abonáremos" ],
+			[ "abonareis", "abonaren" ],
+			[ "abonaren" ]
+		],
+		"12" : {
+			"1" : [ "abona" ],
+			"2" : [ "abone" ],
+			"3" : [ "abonemos" ],
+			"4" : [ "abonad" ],
+			"5" : [ "abonen" ]
+		}
+	}
+}

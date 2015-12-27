@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descartar",
+	"word" : "descartar",
+	"infinitivo" : "descartar",
+	"participio" : [ "descartado" ],
+	"gerundio" : [ "descartando" ],
+	"tenses" : {
+		"3" : [
+			[ "descarto" ],
+			[ "descartas", "descartás" ],
+			[ "descarta" ],
+			[ "descartamos" ],
+			[ "descartáis", "descartan" ],
+			[ "descartan" ]
+		],
+		"4" : [
+			[ "descarté" ],
+			[ "descartaste" ],
+			[ "descartó" ],
+			[ "descartamos" ],
+			[ "descartasteis", "descartaron" ],
+			[ "descartaron" ]
+		],
+		"5" : [
+			[ "descartaba" ],
+			[ "descartabas" ],
+			[ "descartaba" ],
+			[ "descartábamos" ],
+			[ "descartabais", "descartaban" ],
+			[ "descartaban" ]
+		],
+		"6" : [
+			[ "descartaría" ],
+			[ "descartarías" ],
+			[ "descartaría" ],
+			[ "descartaríamos" ],
+			[ "descartaríais", "descartarían" ],
+			[ "descartarían" ]
+		],
+		"7" : [
+			[ "descartaré" ],
+			[ "descartarás" ],
+			[ "descartará" ],
+			[ "descartaremos" ],
+			[ "descartaréis", "descartarán" ],
+			[ "descartarán" ]
+		],
+		"8" : [
+			[ "descarte" ],
+			[ "descartes" ],
+			[ "descarte" ],
+			[ "descartemos" ],
+			[ "descartéis", "descarten" ],
+			[ "descarten" ]
+		],
+		"9" : [
+			[ "descartara" ],
+			[ "descartaras" ],
+			[ "descartara" ],
+			[ "descartáramos" ],
+			[ "descartarais", "descartaran" ],
+			[ "descartaran" ]
+		],
+		"10" : [
+			[ "descartase" ],
+			[ "descartases" ],
+			[ "descartase" ],
+			[ "descartásemos" ],
+			[ "descartaseis", "descartasen" ],
+			[ "descartasen" ]
+		],
+		"11" : [
+			[ "descartare" ],
+			[ "descartares" ],
+			[ "descartare" ],
+			[ "descartáremos" ],
+			[ "descartareis", "descartaren" ],
+			[ "descartaren" ]
+		],
+		"12" : {
+			"1" : [ "descarta" ],
+			"2" : [ "descarte" ],
+			"3" : [ "descartemos" ],
+			"4" : [ "descartad" ],
+			"5" : [ "descarten" ]
+		}
+	}
+}

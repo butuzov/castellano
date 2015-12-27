@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trasver",
+	"word" : "trasver",
+	"infinitivo" : "trasver",
+	"participio" : [ "trasvisto" ],
+	"gerundio" : [ "trasviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "trasveo" ],
+			[ "trasvés" ],
+			[ "trasvé" ],
+			[ "trasvemos" ],
+			[ "trasvéis", "trasvén" ],
+			[ "trasvén" ]
+		],
+		"4" : [
+			[ "trasví" ],
+			[ "trasviste" ],
+			[ "trasvió" ],
+			[ "trasvimos" ],
+			[ "trasvisteis", "trasvieron" ],
+			[ "trasvieron" ]
+		],
+		"5" : [
+			[ "trasveía" ],
+			[ "trasveías" ],
+			[ "trasveía" ],
+			[ "trasveíamos" ],
+			[ "trasveíais", "trasveían" ],
+			[ "trasveían" ]
+		],
+		"6" : [
+			[ "trasvería" ],
+			[ "trasverías" ],
+			[ "trasvería" ],
+			[ "trasveríamos" ],
+			[ "trasveríais", "trasverían" ],
+			[ "trasverían" ]
+		],
+		"7" : [
+			[ "trasveré" ],
+			[ "trasverás" ],
+			[ "trasverá" ],
+			[ "trasveremos" ],
+			[ "trasveréis", "trasverán" ],
+			[ "trasverán" ]
+		],
+		"8" : [
+			[ "trasvea" ],
+			[ "trasveas" ],
+			[ "trasvea" ],
+			[ "trasveamos" ],
+			[ "trasveáis", "trasvean" ],
+			[ "trasvean" ]
+		],
+		"9" : [
+			[ "trasviera" ],
+			[ "trasvieras" ],
+			[ "trasviera" ],
+			[ "trasviéramos" ],
+			[ "trasvierais", "trasvieran" ],
+			[ "trasvieran" ]
+		],
+		"10" : [
+			[ "trasviese" ],
+			[ "trasvieses" ],
+			[ "trasviese" ],
+			[ "trasviésemos" ],
+			[ "trasvieseis", "trasviesen" ],
+			[ "trasviesen" ]
+		],
+		"11" : [
+			[ "trasviere" ],
+			[ "trasvieres" ],
+			[ "trasviere" ],
+			[ "trasviéremos" ],
+			[ "trasviereis", "trasvieren" ],
+			[ "trasvieren" ]
+		],
+		"12" : {
+			"1" : [ "trasvé" ],
+			"2" : [ "trasvea" ],
+			"3" : [ "trasveamos" ],
+			"4" : [ "trasved" ],
+			"5" : [ "trasvean" ]
+		}
+	}
+}

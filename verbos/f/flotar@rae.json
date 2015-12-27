@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=flotar",
+	"word" : "flotar",
+	"infinitivo" : "flotar",
+	"participio" : [ "flotado" ],
+	"gerundio" : [ "flotando" ],
+	"tenses" : {
+		"3" : [
+			[ "floto" ],
+			[ "flotas", "flotás" ],
+			[ "flota" ],
+			[ "flotamos" ],
+			[ "flotáis", "flotan" ],
+			[ "flotan" ]
+		],
+		"4" : [
+			[ "floté" ],
+			[ "flotaste" ],
+			[ "flotó" ],
+			[ "flotamos" ],
+			[ "flotasteis", "flotaron" ],
+			[ "flotaron" ]
+		],
+		"5" : [
+			[ "flotaba" ],
+			[ "flotabas" ],
+			[ "flotaba" ],
+			[ "flotábamos" ],
+			[ "flotabais", "flotaban" ],
+			[ "flotaban" ]
+		],
+		"6" : [
+			[ "flotaría" ],
+			[ "flotarías" ],
+			[ "flotaría" ],
+			[ "flotaríamos" ],
+			[ "flotaríais", "flotarían" ],
+			[ "flotarían" ]
+		],
+		"7" : [
+			[ "flotaré" ],
+			[ "flotarás" ],
+			[ "flotará" ],
+			[ "flotaremos" ],
+			[ "flotaréis", "flotarán" ],
+			[ "flotarán" ]
+		],
+		"8" : [
+			[ "flote" ],
+			[ "flotes" ],
+			[ "flote" ],
+			[ "flotemos" ],
+			[ "flotéis", "floten" ],
+			[ "floten" ]
+		],
+		"9" : [
+			[ "flotara" ],
+			[ "flotaras" ],
+			[ "flotara" ],
+			[ "flotáramos" ],
+			[ "flotarais", "flotaran" ],
+			[ "flotaran" ]
+		],
+		"10" : [
+			[ "flotase" ],
+			[ "flotases" ],
+			[ "flotase" ],
+			[ "flotásemos" ],
+			[ "flotaseis", "flotasen" ],
+			[ "flotasen" ]
+		],
+		"11" : [
+			[ "flotare" ],
+			[ "flotares" ],
+			[ "flotare" ],
+			[ "flotáremos" ],
+			[ "flotareis", "flotaren" ],
+			[ "flotaren" ]
+		],
+		"12" : {
+			"1" : [ "flota" ],
+			"2" : [ "flote" ],
+			"3" : [ "flotemos" ],
+			"4" : [ "flotad" ],
+			"5" : [ "floten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asentar",
+	"word" : "asentar",
+	"infinitivo" : "asentar",
+	"participio" : [ "asentado" ],
+	"gerundio" : [ "asentando" ],
+	"tenses" : {
+		"3" : [
+			[ "asiento" ],
+			[ "asientas", "asentás" ],
+			[ "asienta" ],
+			[ "asentamos" ],
+			[ "asentáis", "asientan" ],
+			[ "asientan" ]
+		],
+		"4" : [
+			[ "asenté" ],
+			[ "asentaste" ],
+			[ "asentó" ],
+			[ "asentamos" ],
+			[ "asentasteis", "asentaron" ],
+			[ "asentaron" ]
+		],
+		"5" : [
+			[ "asentaba" ],
+			[ "asentabas" ],
+			[ "asentaba" ],
+			[ "asentábamos" ],
+			[ "asentabais", "asentaban" ],
+			[ "asentaban" ]
+		],
+		"6" : [
+			[ "asentaría" ],
+			[ "asentarías" ],
+			[ "asentaría" ],
+			[ "asentaríamos" ],
+			[ "asentaríais", "asentarían" ],
+			[ "asentarían" ]
+		],
+		"7" : [
+			[ "asentaré" ],
+			[ "asentarás" ],
+			[ "asentará" ],
+			[ "asentaremos" ],
+			[ "asentaréis", "asentarán" ],
+			[ "asentarán" ]
+		],
+		"8" : [
+			[ "asiente" ],
+			[ "asientes" ],
+			[ "asiente" ],
+			[ "asentemos" ],
+			[ "asentéis", "asienten" ],
+			[ "asienten" ]
+		],
+		"9" : [
+			[ "asentara" ],
+			[ "asentaras" ],
+			[ "asentara" ],
+			[ "asentáramos" ],
+			[ "asentarais", "asentaran" ],
+			[ "asentaran" ]
+		],
+		"10" : [
+			[ "asentase" ],
+			[ "asentases" ],
+			[ "asentase" ],
+			[ "asentásemos" ],
+			[ "asentaseis", "asentasen" ],
+			[ "asentasen" ]
+		],
+		"11" : [
+			[ "asentare" ],
+			[ "asentares" ],
+			[ "asentare" ],
+			[ "asentáremos" ],
+			[ "asentareis", "asentaren" ],
+			[ "asentaren" ]
+		],
+		"12" : {
+			"1" : [ "asienta" ],
+			"2" : [ "asiente" ],
+			"3" : [ "asentemos" ],
+			"4" : [ "asentad" ],
+			"5" : [ "asienten" ]
+		}
+	}
+}

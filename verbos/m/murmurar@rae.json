@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=murmurar",
+	"word" : "murmurar",
+	"infinitivo" : "murmurar",
+	"participio" : [ "murmurado" ],
+	"gerundio" : [ "murmurando" ],
+	"tenses" : {
+		"3" : [
+			[ "murmuro" ],
+			[ "murmuras", "murmurás" ],
+			[ "murmura" ],
+			[ "murmuramos" ],
+			[ "murmuráis", "murmuran" ],
+			[ "murmuran" ]
+		],
+		"4" : [
+			[ "murmuré" ],
+			[ "murmuraste" ],
+			[ "murmuró" ],
+			[ "murmuramos" ],
+			[ "murmurasteis", "murmuraron" ],
+			[ "murmuraron" ]
+		],
+		"5" : [
+			[ "murmuraba" ],
+			[ "murmurabas" ],
+			[ "murmuraba" ],
+			[ "murmurábamos" ],
+			[ "murmurabais", "murmuraban" ],
+			[ "murmuraban" ]
+		],
+		"6" : [
+			[ "murmuraría" ],
+			[ "murmurarías" ],
+			[ "murmuraría" ],
+			[ "murmuraríamos" ],
+			[ "murmuraríais", "murmurarían" ],
+			[ "murmurarían" ]
+		],
+		"7" : [
+			[ "murmuraré" ],
+			[ "murmurarás" ],
+			[ "murmurará" ],
+			[ "murmuraremos" ],
+			[ "murmuraréis", "murmurarán" ],
+			[ "murmurarán" ]
+		],
+		"8" : [
+			[ "murmure" ],
+			[ "murmures" ],
+			[ "murmure" ],
+			[ "murmuremos" ],
+			[ "murmuréis", "murmuren" ],
+			[ "murmuren" ]
+		],
+		"9" : [
+			[ "murmurara" ],
+			[ "murmuraras" ],
+			[ "murmurara" ],
+			[ "murmuráramos" ],
+			[ "murmurarais", "murmuraran" ],
+			[ "murmuraran" ]
+		],
+		"10" : [
+			[ "murmurase" ],
+			[ "murmurases" ],
+			[ "murmurase" ],
+			[ "murmurásemos" ],
+			[ "murmuraseis", "murmurasen" ],
+			[ "murmurasen" ]
+		],
+		"11" : [
+			[ "murmurare" ],
+			[ "murmurares" ],
+			[ "murmurare" ],
+			[ "murmuráremos" ],
+			[ "murmurareis", "murmuraren" ],
+			[ "murmuraren" ]
+		],
+		"12" : {
+			"1" : [ "murmura" ],
+			"2" : [ "murmure" ],
+			"3" : [ "murmuremos" ],
+			"4" : [ "murmurad" ],
+			"5" : [ "murmuren" ]
+		}
+	}
+}

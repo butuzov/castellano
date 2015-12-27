@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fondear",
+	"word" : "fondear",
+	"infinitivo" : "fondear",
+	"participio" : [ "fondeado" ],
+	"gerundio" : [ "fondeando" ],
+	"tenses" : {
+		"3" : [
+			[ "fondeo" ],
+			[ "fondeas", "fondeás" ],
+			[ "fondea" ],
+			[ "fondeamos" ],
+			[ "fondeáis", "fondean" ],
+			[ "fondean" ]
+		],
+		"4" : [
+			[ "fondeé" ],
+			[ "fondeaste" ],
+			[ "fondeó" ],
+			[ "fondeamos" ],
+			[ "fondeasteis", "fondearon" ],
+			[ "fondearon" ]
+		],
+		"5" : [
+			[ "fondeaba" ],
+			[ "fondeabas" ],
+			[ "fondeaba" ],
+			[ "fondeábamos" ],
+			[ "fondeabais", "fondeaban" ],
+			[ "fondeaban" ]
+		],
+		"6" : [
+			[ "fondearía" ],
+			[ "fondearías" ],
+			[ "fondearía" ],
+			[ "fondearíamos" ],
+			[ "fondearíais", "fondearían" ],
+			[ "fondearían" ]
+		],
+		"7" : [
+			[ "fondearé" ],
+			[ "fondearás" ],
+			[ "fondeará" ],
+			[ "fondearemos" ],
+			[ "fondearéis", "fondearán" ],
+			[ "fondearán" ]
+		],
+		"8" : [
+			[ "fondee" ],
+			[ "fondees" ],
+			[ "fondee" ],
+			[ "fondeemos" ],
+			[ "fondeéis", "fondeen" ],
+			[ "fondeen" ]
+		],
+		"9" : [
+			[ "fondeara" ],
+			[ "fondearas" ],
+			[ "fondeara" ],
+			[ "fondeáramos" ],
+			[ "fondearais", "fondearan" ],
+			[ "fondearan" ]
+		],
+		"10" : [
+			[ "fondease" ],
+			[ "fondeases" ],
+			[ "fondease" ],
+			[ "fondeásemos" ],
+			[ "fondeaseis", "fondeasen" ],
+			[ "fondeasen" ]
+		],
+		"11" : [
+			[ "fondeare" ],
+			[ "fondeares" ],
+			[ "fondeare" ],
+			[ "fondeáremos" ],
+			[ "fondeareis", "fondearen" ],
+			[ "fondearen" ]
+		],
+		"12" : {
+			"1" : [ "fondea" ],
+			"2" : [ "fondee" ],
+			"3" : [ "fondeemos" ],
+			"4" : [ "fondead" ],
+			"5" : [ "fondeen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remontar",
+	"word" : "remontar",
+	"infinitivo" : "remontar",
+	"participio" : [ "remontado" ],
+	"gerundio" : [ "remontando" ],
+	"tenses" : {
+		"3" : [
+			[ "remonto" ],
+			[ "remontas", "remontás" ],
+			[ "remonta" ],
+			[ "remontamos" ],
+			[ "remontáis", "remontan" ],
+			[ "remontan" ]
+		],
+		"4" : [
+			[ "remonté" ],
+			[ "remontaste" ],
+			[ "remontó" ],
+			[ "remontamos" ],
+			[ "remontasteis", "remontaron" ],
+			[ "remontaron" ]
+		],
+		"5" : [
+			[ "remontaba" ],
+			[ "remontabas" ],
+			[ "remontaba" ],
+			[ "remontábamos" ],
+			[ "remontabais", "remontaban" ],
+			[ "remontaban" ]
+		],
+		"6" : [
+			[ "remontaría" ],
+			[ "remontarías" ],
+			[ "remontaría" ],
+			[ "remontaríamos" ],
+			[ "remontaríais", "remontarían" ],
+			[ "remontarían" ]
+		],
+		"7" : [
+			[ "remontaré" ],
+			[ "remontarás" ],
+			[ "remontará" ],
+			[ "remontaremos" ],
+			[ "remontaréis", "remontarán" ],
+			[ "remontarán" ]
+		],
+		"8" : [
+			[ "remonte" ],
+			[ "remontes" ],
+			[ "remonte" ],
+			[ "remontemos" ],
+			[ "remontéis", "remonten" ],
+			[ "remonten" ]
+		],
+		"9" : [
+			[ "remontara" ],
+			[ "remontaras" ],
+			[ "remontara" ],
+			[ "remontáramos" ],
+			[ "remontarais", "remontaran" ],
+			[ "remontaran" ]
+		],
+		"10" : [
+			[ "remontase" ],
+			[ "remontases" ],
+			[ "remontase" ],
+			[ "remontásemos" ],
+			[ "remontaseis", "remontasen" ],
+			[ "remontasen" ]
+		],
+		"11" : [
+			[ "remontare" ],
+			[ "remontares" ],
+			[ "remontare" ],
+			[ "remontáremos" ],
+			[ "remontareis", "remontaren" ],
+			[ "remontaren" ]
+		],
+		"12" : {
+			"1" : [ "remonta" ],
+			"2" : [ "remonte" ],
+			"3" : [ "remontemos" ],
+			"4" : [ "remontad" ],
+			"5" : [ "remonten" ]
+		}
+	}
+}

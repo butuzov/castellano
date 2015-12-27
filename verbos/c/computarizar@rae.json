@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=computarizar",
+	"word" : "computarizar",
+	"infinitivo" : "computarizar",
+	"participio" : [ "computarizado" ],
+	"gerundio" : [ "computarizando" ],
+	"tenses" : {
+		"3" : [
+			[ "computarizo" ],
+			[ "computarizas", "computarizás" ],
+			[ "computariza" ],
+			[ "computarizamos" ],
+			[ "computarizáis", "computarizan" ],
+			[ "computarizan" ]
+		],
+		"4" : [
+			[ "computaricé" ],
+			[ "computarizaste" ],
+			[ "computarizó" ],
+			[ "computarizamos" ],
+			[ "computarizasteis", "computarizaron" ],
+			[ "computarizaron" ]
+		],
+		"5" : [
+			[ "computarizaba" ],
+			[ "computarizabas" ],
+			[ "computarizaba" ],
+			[ "computarizábamos" ],
+			[ "computarizabais", "computarizaban" ],
+			[ "computarizaban" ]
+		],
+		"6" : [
+			[ "computarizaría" ],
+			[ "computarizarías" ],
+			[ "computarizaría" ],
+			[ "computarizaríamos" ],
+			[ "computarizaríais", "computarizarían" ],
+			[ "computarizarían" ]
+		],
+		"7" : [
+			[ "computarizaré" ],
+			[ "computarizarás" ],
+			[ "computarizará" ],
+			[ "computarizaremos" ],
+			[ "computarizaréis", "computarizarán" ],
+			[ "computarizarán" ]
+		],
+		"8" : [
+			[ "computarice" ],
+			[ "computarices" ],
+			[ "computarice" ],
+			[ "computaricemos" ],
+			[ "computaricéis", "computaricen" ],
+			[ "computaricen" ]
+		],
+		"9" : [
+			[ "computarizara" ],
+			[ "computarizaras" ],
+			[ "computarizara" ],
+			[ "computarizáramos" ],
+			[ "computarizarais", "computarizaran" ],
+			[ "computarizaran" ]
+		],
+		"10" : [
+			[ "computarizase" ],
+			[ "computarizases" ],
+			[ "computarizase" ],
+			[ "computarizásemos" ],
+			[ "computarizaseis", "computarizasen" ],
+			[ "computarizasen" ]
+		],
+		"11" : [
+			[ "computarizare" ],
+			[ "computarizares" ],
+			[ "computarizare" ],
+			[ "computarizáremos" ],
+			[ "computarizareis", "computarizaren" ],
+			[ "computarizaren" ]
+		],
+		"12" : {
+			"1" : [ "computariza" ],
+			"2" : [ "computarice" ],
+			"3" : [ "computaricemos" ],
+			"4" : [ "computarizad" ],
+			"5" : [ "computaricen" ]
+		}
+	}
+}

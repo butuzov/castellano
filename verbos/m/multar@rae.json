@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=multar",
+	"word" : "multar",
+	"infinitivo" : "multar",
+	"participio" : [ "multado" ],
+	"gerundio" : [ "multando" ],
+	"tenses" : {
+		"3" : [
+			[ "multo" ],
+			[ "multas", "multás" ],
+			[ "multa" ],
+			[ "multamos" ],
+			[ "multáis", "multan" ],
+			[ "multan" ]
+		],
+		"4" : [
+			[ "multé" ],
+			[ "multaste" ],
+			[ "multó" ],
+			[ "multamos" ],
+			[ "multasteis", "multaron" ],
+			[ "multaron" ]
+		],
+		"5" : [
+			[ "multaba" ],
+			[ "multabas" ],
+			[ "multaba" ],
+			[ "multábamos" ],
+			[ "multabais", "multaban" ],
+			[ "multaban" ]
+		],
+		"6" : [
+			[ "multaría" ],
+			[ "multarías" ],
+			[ "multaría" ],
+			[ "multaríamos" ],
+			[ "multaríais", "multarían" ],
+			[ "multarían" ]
+		],
+		"7" : [
+			[ "multaré" ],
+			[ "multarás" ],
+			[ "multará" ],
+			[ "multaremos" ],
+			[ "multaréis", "multarán" ],
+			[ "multarán" ]
+		],
+		"8" : [
+			[ "multe" ],
+			[ "multes" ],
+			[ "multe" ],
+			[ "multemos" ],
+			[ "multéis", "multen" ],
+			[ "multen" ]
+		],
+		"9" : [
+			[ "multara" ],
+			[ "multaras" ],
+			[ "multara" ],
+			[ "multáramos" ],
+			[ "multarais", "multaran" ],
+			[ "multaran" ]
+		],
+		"10" : [
+			[ "multase" ],
+			[ "multases" ],
+			[ "multase" ],
+			[ "multásemos" ],
+			[ "multaseis", "multasen" ],
+			[ "multasen" ]
+		],
+		"11" : [
+			[ "multare" ],
+			[ "multares" ],
+			[ "multare" ],
+			[ "multáremos" ],
+			[ "multareis", "multaren" ],
+			[ "multaren" ]
+		],
+		"12" : {
+			"1" : [ "multa" ],
+			"2" : [ "multe" ],
+			"3" : [ "multemos" ],
+			"4" : [ "multad" ],
+			"5" : [ "multen" ]
+		}
+	}
+}

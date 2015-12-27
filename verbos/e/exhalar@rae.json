@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=exhalar",
+	"word" : "exhalar",
+	"infinitivo" : "exhalar",
+	"participio" : [ "exhalado" ],
+	"gerundio" : [ "exhalando" ],
+	"tenses" : {
+		"3" : [
+			[ "exhalo" ],
+			[ "exhalas", "exhalás" ],
+			[ "exhala" ],
+			[ "exhalamos" ],
+			[ "exhaláis", "exhalan" ],
+			[ "exhalan" ]
+		],
+		"4" : [
+			[ "exhalé" ],
+			[ "exhalaste" ],
+			[ "exhaló" ],
+			[ "exhalamos" ],
+			[ "exhalasteis", "exhalaron" ],
+			[ "exhalaron" ]
+		],
+		"5" : [
+			[ "exhalaba" ],
+			[ "exhalabas" ],
+			[ "exhalaba" ],
+			[ "exhalábamos" ],
+			[ "exhalabais", "exhalaban" ],
+			[ "exhalaban" ]
+		],
+		"6" : [
+			[ "exhalaría" ],
+			[ "exhalarías" ],
+			[ "exhalaría" ],
+			[ "exhalaríamos" ],
+			[ "exhalaríais", "exhalarían" ],
+			[ "exhalarían" ]
+		],
+		"7" : [
+			[ "exhalaré" ],
+			[ "exhalarás" ],
+			[ "exhalará" ],
+			[ "exhalaremos" ],
+			[ "exhalaréis", "exhalarán" ],
+			[ "exhalarán" ]
+		],
+		"8" : [
+			[ "exhale" ],
+			[ "exhales" ],
+			[ "exhale" ],
+			[ "exhalemos" ],
+			[ "exhaléis", "exhalen" ],
+			[ "exhalen" ]
+		],
+		"9" : [
+			[ "exhalara" ],
+			[ "exhalaras" ],
+			[ "exhalara" ],
+			[ "exhaláramos" ],
+			[ "exhalarais", "exhalaran" ],
+			[ "exhalaran" ]
+		],
+		"10" : [
+			[ "exhalase" ],
+			[ "exhalases" ],
+			[ "exhalase" ],
+			[ "exhalásemos" ],
+			[ "exhalaseis", "exhalasen" ],
+			[ "exhalasen" ]
+		],
+		"11" : [
+			[ "exhalare" ],
+			[ "exhalares" ],
+			[ "exhalare" ],
+			[ "exhaláremos" ],
+			[ "exhalareis", "exhalaren" ],
+			[ "exhalaren" ]
+		],
+		"12" : {
+			"1" : [ "exhala" ],
+			"2" : [ "exhale" ],
+			"3" : [ "exhalemos" ],
+			"4" : [ "exhalad" ],
+			"5" : [ "exhalen" ]
+		}
+	}
+}

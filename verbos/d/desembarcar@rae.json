@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desembarcar",
+	"word" : "desembarcar",
+	"infinitivo" : "desembarcar",
+	"participio" : [ "desembarcado" ],
+	"gerundio" : [ "desembarcando" ],
+	"tenses" : {
+		"3" : [
+			[ "desembarco" ],
+			[ "desembarcas", "desembarcás" ],
+			[ "desembarca" ],
+			[ "desembarcamos" ],
+			[ "desembarcáis", "desembarcan" ],
+			[ "desembarcan" ]
+		],
+		"4" : [
+			[ "desembarqué" ],
+			[ "desembarcaste" ],
+			[ "desembarcó" ],
+			[ "desembarcamos" ],
+			[ "desembarcasteis", "desembarcaron" ],
+			[ "desembarcaron" ]
+		],
+		"5" : [
+			[ "desembarcaba" ],
+			[ "desembarcabas" ],
+			[ "desembarcaba" ],
+			[ "desembarcábamos" ],
+			[ "desembarcabais", "desembarcaban" ],
+			[ "desembarcaban" ]
+		],
+		"6" : [
+			[ "desembarcaría" ],
+			[ "desembarcarías" ],
+			[ "desembarcaría" ],
+			[ "desembarcaríamos" ],
+			[ "desembarcaríais", "desembarcarían" ],
+			[ "desembarcarían" ]
+		],
+		"7" : [
+			[ "desembarcaré" ],
+			[ "desembarcarás" ],
+			[ "desembarcará" ],
+			[ "desembarcaremos" ],
+			[ "desembarcaréis", "desembarcarán" ],
+			[ "desembarcarán" ]
+		],
+		"8" : [
+			[ "desembarque" ],
+			[ "desembarques" ],
+			[ "desembarque" ],
+			[ "desembarquemos" ],
+			[ "desembarquéis", "desembarquen" ],
+			[ "desembarquen" ]
+		],
+		"9" : [
+			[ "desembarcara" ],
+			[ "desembarcaras" ],
+			[ "desembarcara" ],
+			[ "desembarcáramos" ],
+			[ "desembarcarais", "desembarcaran" ],
+			[ "desembarcaran" ]
+		],
+		"10" : [
+			[ "desembarcase" ],
+			[ "desembarcases" ],
+			[ "desembarcase" ],
+			[ "desembarcásemos" ],
+			[ "desembarcaseis", "desembarcasen" ],
+			[ "desembarcasen" ]
+		],
+		"11" : [
+			[ "desembarcare" ],
+			[ "desembarcares" ],
+			[ "desembarcare" ],
+			[ "desembarcáremos" ],
+			[ "desembarcareis", "desembarcaren" ],
+			[ "desembarcaren" ]
+		],
+		"12" : {
+			"1" : [ "desembarca" ],
+			"2" : [ "desembarque" ],
+			"3" : [ "desembarquemos" ],
+			"4" : [ "desembarcad" ],
+			"5" : [ "desembarquen" ]
+		}
+	}
+}

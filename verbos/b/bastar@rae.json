@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bastar",
+	"word" : "bastar",
+	"infinitivo" : "bastar",
+	"participio" : [ "bastado" ],
+	"gerundio" : [ "bastando" ],
+	"tenses" : {
+		"3" : [
+			[ "basto" ],
+			[ "bastas", "bastás" ],
+			[ "basta" ],
+			[ "bastamos" ],
+			[ "bastáis", "bastan" ],
+			[ "bastan" ]
+		],
+		"4" : [
+			[ "basté" ],
+			[ "bastaste" ],
+			[ "bastó" ],
+			[ "bastamos" ],
+			[ "bastasteis", "bastaron" ],
+			[ "bastaron" ]
+		],
+		"5" : [
+			[ "bastaba" ],
+			[ "bastabas" ],
+			[ "bastaba" ],
+			[ "bastábamos" ],
+			[ "bastabais", "bastaban" ],
+			[ "bastaban" ]
+		],
+		"6" : [
+			[ "bastaría" ],
+			[ "bastarías" ],
+			[ "bastaría" ],
+			[ "bastaríamos" ],
+			[ "bastaríais", "bastarían" ],
+			[ "bastarían" ]
+		],
+		"7" : [
+			[ "bastaré" ],
+			[ "bastarás" ],
+			[ "bastará" ],
+			[ "bastaremos" ],
+			[ "bastaréis", "bastarán" ],
+			[ "bastarán" ]
+		],
+		"8" : [
+			[ "baste" ],
+			[ "bastes" ],
+			[ "baste" ],
+			[ "bastemos" ],
+			[ "bastéis", "basten" ],
+			[ "basten" ]
+		],
+		"9" : [
+			[ "bastara" ],
+			[ "bastaras" ],
+			[ "bastara" ],
+			[ "bastáramos" ],
+			[ "bastarais", "bastaran" ],
+			[ "bastaran" ]
+		],
+		"10" : [
+			[ "bastase" ],
+			[ "bastases" ],
+			[ "bastase" ],
+			[ "bastásemos" ],
+			[ "bastaseis", "bastasen" ],
+			[ "bastasen" ]
+		],
+		"11" : [
+			[ "bastare" ],
+			[ "bastares" ],
+			[ "bastare" ],
+			[ "bastáremos" ],
+			[ "bastareis", "bastaren" ],
+			[ "bastaren" ]
+		],
+		"12" : {
+			"1" : [ "basta" ],
+			"2" : [ "baste" ],
+			"3" : [ "bastemos" ],
+			"4" : [ "bastad" ],
+			"5" : [ "basten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=yugular",
+	"word" : "yugular",
+	"infinitivo" : "yugular",
+	"participio" : [ "yugulado" ],
+	"gerundio" : [ "yugulando" ],
+	"tenses" : {
+		"3" : [
+			[ "yugulo" ],
+			[ "yugulas", "yugulás" ],
+			[ "yugula" ],
+			[ "yugulamos" ],
+			[ "yuguláis", "yugulan" ],
+			[ "yugulan" ]
+		],
+		"4" : [
+			[ "yugulé" ],
+			[ "yugulaste" ],
+			[ "yuguló" ],
+			[ "yugulamos" ],
+			[ "yugulasteis", "yugularon" ],
+			[ "yugularon" ]
+		],
+		"5" : [
+			[ "yugulaba" ],
+			[ "yugulabas" ],
+			[ "yugulaba" ],
+			[ "yugulábamos" ],
+			[ "yugulabais", "yugulaban" ],
+			[ "yugulaban" ]
+		],
+		"6" : [
+			[ "yugularía" ],
+			[ "yugularías" ],
+			[ "yugularía" ],
+			[ "yugularíamos" ],
+			[ "yugularíais", "yugularían" ],
+			[ "yugularían" ]
+		],
+		"7" : [
+			[ "yugularé" ],
+			[ "yugularás" ],
+			[ "yugulará" ],
+			[ "yugularemos" ],
+			[ "yugularéis", "yugularán" ],
+			[ "yugularán" ]
+		],
+		"8" : [
+			[ "yugule" ],
+			[ "yugules" ],
+			[ "yugule" ],
+			[ "yugulemos" ],
+			[ "yuguléis", "yugulen" ],
+			[ "yugulen" ]
+		],
+		"9" : [
+			[ "yugulara" ],
+			[ "yugularas" ],
+			[ "yugulara" ],
+			[ "yuguláramos" ],
+			[ "yugularais", "yugularan" ],
+			[ "yugularan" ]
+		],
+		"10" : [
+			[ "yugulase" ],
+			[ "yugulases" ],
+			[ "yugulase" ],
+			[ "yugulásemos" ],
+			[ "yugulaseis", "yugulasen" ],
+			[ "yugulasen" ]
+		],
+		"11" : [
+			[ "yugulare" ],
+			[ "yugulares" ],
+			[ "yugulare" ],
+			[ "yuguláremos" ],
+			[ "yugulareis", "yugularen" ],
+			[ "yugularen" ]
+		],
+		"12" : {
+			"1" : [ "yugula" ],
+			"2" : [ "yugule" ],
+			"3" : [ "yugulemos" ],
+			"4" : [ "yugulad" ],
+			"5" : [ "yugulen" ]
+		}
+	}
+}

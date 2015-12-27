@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=postular",
+	"word" : "postular",
+	"infinitivo" : "postular",
+	"participio" : [ "postulado" ],
+	"gerundio" : [ "postulando" ],
+	"tenses" : {
+		"3" : [
+			[ "postulo" ],
+			[ "postulas", "postulás" ],
+			[ "postula" ],
+			[ "postulamos" ],
+			[ "postuláis", "postulan" ],
+			[ "postulan" ]
+		],
+		"4" : [
+			[ "postulé" ],
+			[ "postulaste" ],
+			[ "postuló" ],
+			[ "postulamos" ],
+			[ "postulasteis", "postularon" ],
+			[ "postularon" ]
+		],
+		"5" : [
+			[ "postulaba" ],
+			[ "postulabas" ],
+			[ "postulaba" ],
+			[ "postulábamos" ],
+			[ "postulabais", "postulaban" ],
+			[ "postulaban" ]
+		],
+		"6" : [
+			[ "postularía" ],
+			[ "postularías" ],
+			[ "postularía" ],
+			[ "postularíamos" ],
+			[ "postularíais", "postularían" ],
+			[ "postularían" ]
+		],
+		"7" : [
+			[ "postularé" ],
+			[ "postularás" ],
+			[ "postulará" ],
+			[ "postularemos" ],
+			[ "postularéis", "postularán" ],
+			[ "postularán" ]
+		],
+		"8" : [
+			[ "postule" ],
+			[ "postules" ],
+			[ "postule" ],
+			[ "postulemos" ],
+			[ "postuléis", "postulen" ],
+			[ "postulen" ]
+		],
+		"9" : [
+			[ "postulara" ],
+			[ "postularas" ],
+			[ "postulara" ],
+			[ "postuláramos" ],
+			[ "postularais", "postularan" ],
+			[ "postularan" ]
+		],
+		"10" : [
+			[ "postulase" ],
+			[ "postulases" ],
+			[ "postulase" ],
+			[ "postulásemos" ],
+			[ "postulaseis", "postulasen" ],
+			[ "postulasen" ]
+		],
+		"11" : [
+			[ "postulare" ],
+			[ "postulares" ],
+			[ "postulare" ],
+			[ "postuláremos" ],
+			[ "postulareis", "postularen" ],
+			[ "postularen" ]
+		],
+		"12" : {
+			"1" : [ "postula" ],
+			"2" : [ "postule" ],
+			"3" : [ "postulemos" ],
+			"4" : [ "postulad" ],
+			"5" : [ "postulen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pesar",
+	"word" : "pesar",
+	"infinitivo" : "pesar",
+	"participio" : [ "pesado" ],
+	"gerundio" : [ "pesando" ],
+	"tenses" : {
+		"3" : [
+			[ "peso" ],
+			[ "pesas", "pesás" ],
+			[ "pesa" ],
+			[ "pesamos" ],
+			[ "pesáis", "pesan" ],
+			[ "pesan" ]
+		],
+		"4" : [
+			[ "pesé" ],
+			[ "pesaste" ],
+			[ "pesó" ],
+			[ "pesamos" ],
+			[ "pesasteis", "pesaron" ],
+			[ "pesaron" ]
+		],
+		"5" : [
+			[ "pesaba" ],
+			[ "pesabas" ],
+			[ "pesaba" ],
+			[ "pesábamos" ],
+			[ "pesabais", "pesaban" ],
+			[ "pesaban" ]
+		],
+		"6" : [
+			[ "pesaría" ],
+			[ "pesarías" ],
+			[ "pesaría" ],
+			[ "pesaríamos" ],
+			[ "pesaríais", "pesarían" ],
+			[ "pesarían" ]
+		],
+		"7" : [
+			[ "pesaré" ],
+			[ "pesarás" ],
+			[ "pesará" ],
+			[ "pesaremos" ],
+			[ "pesaréis", "pesarán" ],
+			[ "pesarán" ]
+		],
+		"8" : [
+			[ "pese" ],
+			[ "peses" ],
+			[ "pese" ],
+			[ "pesemos" ],
+			[ "peséis", "pesen" ],
+			[ "pesen" ]
+		],
+		"9" : [
+			[ "pesara" ],
+			[ "pesaras" ],
+			[ "pesara" ],
+			[ "pesáramos" ],
+			[ "pesarais", "pesaran" ],
+			[ "pesaran" ]
+		],
+		"10" : [
+			[ "pesase" ],
+			[ "pesases" ],
+			[ "pesase" ],
+			[ "pesásemos" ],
+			[ "pesaseis", "pesasen" ],
+			[ "pesasen" ]
+		],
+		"11" : [
+			[ "pesare" ],
+			[ "pesares" ],
+			[ "pesare" ],
+			[ "pesáremos" ],
+			[ "pesareis", "pesaren" ],
+			[ "pesaren" ]
+		],
+		"12" : {
+			"1" : [ "pesa" ],
+			"2" : [ "pese" ],
+			"3" : [ "pesemos" ],
+			"4" : [ "pesad" ],
+			"5" : [ "pesen" ]
+		}
+	}
+}

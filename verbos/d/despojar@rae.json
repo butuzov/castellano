@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despojar",
+	"word" : "despojar",
+	"infinitivo" : "despojar",
+	"participio" : [ "despojado" ],
+	"gerundio" : [ "despojando" ],
+	"tenses" : {
+		"3" : [
+			[ "despojo" ],
+			[ "despojas", "despojás" ],
+			[ "despoja" ],
+			[ "despojamos" ],
+			[ "despojáis", "despojan" ],
+			[ "despojan" ]
+		],
+		"4" : [
+			[ "despojé" ],
+			[ "despojaste" ],
+			[ "despojó" ],
+			[ "despojamos" ],
+			[ "despojasteis", "despojaron" ],
+			[ "despojaron" ]
+		],
+		"5" : [
+			[ "despojaba" ],
+			[ "despojabas" ],
+			[ "despojaba" ],
+			[ "despojábamos" ],
+			[ "despojabais", "despojaban" ],
+			[ "despojaban" ]
+		],
+		"6" : [
+			[ "despojaría" ],
+			[ "despojarías" ],
+			[ "despojaría" ],
+			[ "despojaríamos" ],
+			[ "despojaríais", "despojarían" ],
+			[ "despojarían" ]
+		],
+		"7" : [
+			[ "despojaré" ],
+			[ "despojarás" ],
+			[ "despojará" ],
+			[ "despojaremos" ],
+			[ "despojaréis", "despojarán" ],
+			[ "despojarán" ]
+		],
+		"8" : [
+			[ "despoje" ],
+			[ "despojes" ],
+			[ "despoje" ],
+			[ "despojemos" ],
+			[ "despojéis", "despojen" ],
+			[ "despojen" ]
+		],
+		"9" : [
+			[ "despojara" ],
+			[ "despojaras" ],
+			[ "despojara" ],
+			[ "despojáramos" ],
+			[ "despojarais", "despojaran" ],
+			[ "despojaran" ]
+		],
+		"10" : [
+			[ "despojase" ],
+			[ "despojases" ],
+			[ "despojase" ],
+			[ "despojásemos" ],
+			[ "despojaseis", "despojasen" ],
+			[ "despojasen" ]
+		],
+		"11" : [
+			[ "despojare" ],
+			[ "despojares" ],
+			[ "despojare" ],
+			[ "despojáremos" ],
+			[ "despojareis", "despojaren" ],
+			[ "despojaren" ]
+		],
+		"12" : {
+			"1" : [ "despoja" ],
+			"2" : [ "despoje" ],
+			"3" : [ "despojemos" ],
+			"4" : [ "despojad" ],
+			"5" : [ "despojen" ]
+		}
+	}
+}

@@ -1,0 +1,77 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abolir",
+	"word" : "abolir",
+	"infinitivo" : "abolir",
+	"participio" : [ "abolido" ],
+	"gerundio" : [ "aboliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "abolís" ],
+			[ "abolimos" ],
+			[ "abolís" ]
+		],
+		"4" : [
+			[ "abolí" ],
+			[ "aboliste" ],
+			[ "abolió" ],
+			[ "abolimos" ],
+			[ "abolisteis", "abolieron" ],
+			[ "abolieron" ]
+		],
+		"5" : [
+			[ "abolía" ],
+			[ "abolías" ],
+			[ "abolía" ],
+			[ "abolíamos" ],
+			[ "abolíais", "abolían" ],
+			[ "abolían" ]
+		],
+		"6" : [
+			[ "aboliría" ],
+			[ "abolirías" ],
+			[ "aboliría" ],
+			[ "aboliríamos" ],
+			[ "aboliríais", "abolirían" ],
+			[ "abolirían" ]
+		],
+		"7" : [
+			[ "aboliré" ],
+			[ "abolirás" ],
+			[ "abolirá" ],
+			[ "aboliremos" ],
+			[ "aboliréis", "abolirán" ],
+			[ "abolirán" ]
+		],
+		"9" : [
+			[ "aboliera" ],
+			[ "abolieras" ],
+			[ "aboliera" ],
+			[ "aboliéramos" ],
+			[ "abolierais", "abolieran" ],
+			[ "abolieran" ]
+		],
+		"10" : [
+			[ "aboliese" ],
+			[ "abolieses" ],
+			[ "aboliese" ],
+			[ "aboliésemos" ],
+			[ "abolieseis", "aboliesen" ],
+			[ "aboliesen" ]
+		],
+		"11" : [
+			[ "aboliere" ],
+			[ "abolieres" ],
+			[ "aboliere" ],
+			[ "aboliéremos" ],
+			[ "aboliereis", "abolieren" ],
+			[ "abolieren" ]
+		],
+		"12" : {
+			"1" : [ "abolí" ],
+			"2" : null,
+			"3" : null,
+			"4" : [ null ],
+			"5" : [ null ]
+		}
+	}
+}

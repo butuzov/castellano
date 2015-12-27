@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desglosar",
+	"word" : "desglosar",
+	"infinitivo" : "desglosar",
+	"participio" : [ "desglosado" ],
+	"gerundio" : [ "desglosando" ],
+	"tenses" : {
+		"3" : [
+			[ "desgloso" ],
+			[ "desglosas", "desglosás" ],
+			[ "desglosa" ],
+			[ "desglosamos" ],
+			[ "desglosáis", "desglosan" ],
+			[ "desglosan" ]
+		],
+		"4" : [
+			[ "desglosé" ],
+			[ "desglosaste" ],
+			[ "desglosó" ],
+			[ "desglosamos" ],
+			[ "desglosasteis", "desglosaron" ],
+			[ "desglosaron" ]
+		],
+		"5" : [
+			[ "desglosaba" ],
+			[ "desglosabas" ],
+			[ "desglosaba" ],
+			[ "desglosábamos" ],
+			[ "desglosabais", "desglosaban" ],
+			[ "desglosaban" ]
+		],
+		"6" : [
+			[ "desglosaría" ],
+			[ "desglosarías" ],
+			[ "desglosaría" ],
+			[ "desglosaríamos" ],
+			[ "desglosaríais", "desglosarían" ],
+			[ "desglosarían" ]
+		],
+		"7" : [
+			[ "desglosaré" ],
+			[ "desglosarás" ],
+			[ "desglosará" ],
+			[ "desglosaremos" ],
+			[ "desglosaréis", "desglosarán" ],
+			[ "desglosarán" ]
+		],
+		"8" : [
+			[ "desglose" ],
+			[ "desgloses" ],
+			[ "desglose" ],
+			[ "desglosemos" ],
+			[ "desgloséis", "desglosen" ],
+			[ "desglosen" ]
+		],
+		"9" : [
+			[ "desglosara" ],
+			[ "desglosaras" ],
+			[ "desglosara" ],
+			[ "desglosáramos" ],
+			[ "desglosarais", "desglosaran" ],
+			[ "desglosaran" ]
+		],
+		"10" : [
+			[ "desglosase" ],
+			[ "desglosases" ],
+			[ "desglosase" ],
+			[ "desglosásemos" ],
+			[ "desglosaseis", "desglosasen" ],
+			[ "desglosasen" ]
+		],
+		"11" : [
+			[ "desglosare" ],
+			[ "desglosares" ],
+			[ "desglosare" ],
+			[ "desglosáremos" ],
+			[ "desglosareis", "desglosaren" ],
+			[ "desglosaren" ]
+		],
+		"12" : {
+			"1" : [ "desglosa" ],
+			"2" : [ "desglose" ],
+			"3" : [ "desglosemos" ],
+			"4" : [ "desglosad" ],
+			"5" : [ "desglosen" ]
+		}
+	}
+}

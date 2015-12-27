@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=interponer",
+	"word" : "interponer",
+	"infinitivo" : "interponer",
+	"participio" : [ "interpuesto" ],
+	"gerundio" : [ "interponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "interpongo" ],
+			[ "interpones", "interponés" ],
+			[ "interpone" ],
+			[ "interponemos" ],
+			[ "interponéis", "interponen" ],
+			[ "interponen" ]
+		],
+		"4" : [
+			[ "interpuse" ],
+			[ "interpusiste" ],
+			[ "interpuso" ],
+			[ "interpusimos" ],
+			[ "interpusisteis", "interpusieron" ],
+			[ "interpusieron" ]
+		],
+		"5" : [
+			[ "interponía" ],
+			[ "interponías" ],
+			[ "interponía" ],
+			[ "interponíamos" ],
+			[ "interponíais", "interponían" ],
+			[ "interponían" ]
+		],
+		"6" : [
+			[ "interpondría" ],
+			[ "interpondrías" ],
+			[ "interpondría" ],
+			[ "interpondríamos" ],
+			[ "interpondríais", "interpondrían" ],
+			[ "interpondrían" ]
+		],
+		"7" : [
+			[ "interpondré" ],
+			[ "interpondrás" ],
+			[ "interpondrá" ],
+			[ "interpondremos" ],
+			[ "interpondréis", "interpondrán" ],
+			[ "interpondrán" ]
+		],
+		"8" : [
+			[ "interponga" ],
+			[ "interpongas" ],
+			[ "interponga" ],
+			[ "interpongamos" ],
+			[ "interpongáis", "interpongan" ],
+			[ "interpongan" ]
+		],
+		"9" : [
+			[ "interpusiera" ],
+			[ "interpusieras" ],
+			[ "interpusiera" ],
+			[ "interpusiéramos" ],
+			[ "interpusierais", "interpusieran" ],
+			[ "interpusieran" ]
+		],
+		"10" : [
+			[ "interpusiese" ],
+			[ "interpusieses" ],
+			[ "interpusiese" ],
+			[ "interpusiésemos" ],
+			[ "interpusieseis", "interpusiesen" ],
+			[ "interpusiesen" ]
+		],
+		"11" : [
+			[ "interpusiere" ],
+			[ "interpusieres" ],
+			[ "interpusiere" ],
+			[ "interpusiéremos" ],
+			[ "interpusiereis", "interpusieren" ],
+			[ "interpusieren" ]
+		],
+		"12" : {
+			"1" : [ "interpón" ],
+			"2" : [ "interponga" ],
+			"3" : [ "interpongamos" ],
+			"4" : [ "interponed" ],
+			"5" : [ "interpongan" ]
+		}
+	}
+}

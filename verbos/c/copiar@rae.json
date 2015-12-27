@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=copiar",
+	"word" : "copiar",
+	"infinitivo" : "copiar",
+	"participio" : [ "copiado" ],
+	"gerundio" : [ "copiando" ],
+	"tenses" : {
+		"3" : [
+			[ "copio" ],
+			[ "copias", "copiás" ],
+			[ "copia" ],
+			[ "copiamos" ],
+			[ "copiáis", "copian" ],
+			[ "copian" ]
+		],
+		"4" : [
+			[ "copié" ],
+			[ "copiaste" ],
+			[ "copió" ],
+			[ "copiamos" ],
+			[ "copiasteis", "copiaron" ],
+			[ "copiaron" ]
+		],
+		"5" : [
+			[ "copiaba" ],
+			[ "copiabas" ],
+			[ "copiaba" ],
+			[ "copiábamos" ],
+			[ "copiabais", "copiaban" ],
+			[ "copiaban" ]
+		],
+		"6" : [
+			[ "copiaría" ],
+			[ "copiarías" ],
+			[ "copiaría" ],
+			[ "copiaríamos" ],
+			[ "copiaríais", "copiarían" ],
+			[ "copiarían" ]
+		],
+		"7" : [
+			[ "copiaré" ],
+			[ "copiarás" ],
+			[ "copiará" ],
+			[ "copiaremos" ],
+			[ "copiaréis", "copiarán" ],
+			[ "copiarán" ]
+		],
+		"8" : [
+			[ "copie" ],
+			[ "copies" ],
+			[ "copie" ],
+			[ "copiemos" ],
+			[ "copiéis", "copien" ],
+			[ "copien" ]
+		],
+		"9" : [
+			[ "copiara" ],
+			[ "copiaras" ],
+			[ "copiara" ],
+			[ "copiáramos" ],
+			[ "copiarais", "copiaran" ],
+			[ "copiaran" ]
+		],
+		"10" : [
+			[ "copiase" ],
+			[ "copiases" ],
+			[ "copiase" ],
+			[ "copiásemos" ],
+			[ "copiaseis", "copiasen" ],
+			[ "copiasen" ]
+		],
+		"11" : [
+			[ "copiare" ],
+			[ "copiares" ],
+			[ "copiare" ],
+			[ "copiáremos" ],
+			[ "copiareis", "copiaren" ],
+			[ "copiaren" ]
+		],
+		"12" : {
+			"1" : [ "copia" ],
+			"2" : [ "copie" ],
+			"3" : [ "copiemos" ],
+			"4" : [ "copiad" ],
+			"5" : [ "copien" ]
+		}
+	}
+}

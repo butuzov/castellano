@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=altercar",
+	"word" : "altercar",
+	"infinitivo" : "altercar",
+	"participio" : [ "altercado" ],
+	"gerundio" : [ "altercando" ],
+	"tenses" : {
+		"3" : [
+			[ "alterco" ],
+			[ "altercas", "altercás" ],
+			[ "alterca" ],
+			[ "altercamos" ],
+			[ "altercáis", "altercan" ],
+			[ "altercan" ]
+		],
+		"4" : [
+			[ "alterqué" ],
+			[ "altercaste" ],
+			[ "altercó" ],
+			[ "altercamos" ],
+			[ "altercasteis", "altercaron" ],
+			[ "altercaron" ]
+		],
+		"5" : [
+			[ "altercaba" ],
+			[ "altercabas" ],
+			[ "altercaba" ],
+			[ "altercábamos" ],
+			[ "altercabais", "altercaban" ],
+			[ "altercaban" ]
+		],
+		"6" : [
+			[ "altercaría" ],
+			[ "altercarías" ],
+			[ "altercaría" ],
+			[ "altercaríamos" ],
+			[ "altercaríais", "altercarían" ],
+			[ "altercarían" ]
+		],
+		"7" : [
+			[ "altercaré" ],
+			[ "altercarás" ],
+			[ "altercará" ],
+			[ "altercaremos" ],
+			[ "altercaréis", "altercarán" ],
+			[ "altercarán" ]
+		],
+		"8" : [
+			[ "alterque" ],
+			[ "alterques" ],
+			[ "alterque" ],
+			[ "alterquemos" ],
+			[ "alterquéis", "alterquen" ],
+			[ "alterquen" ]
+		],
+		"9" : [
+			[ "altercara" ],
+			[ "altercaras" ],
+			[ "altercara" ],
+			[ "altercáramos" ],
+			[ "altercarais", "altercaran" ],
+			[ "altercaran" ]
+		],
+		"10" : [
+			[ "altercase" ],
+			[ "altercases" ],
+			[ "altercase" ],
+			[ "altercásemos" ],
+			[ "altercaseis", "altercasen" ],
+			[ "altercasen" ]
+		],
+		"11" : [
+			[ "altercare" ],
+			[ "altercares" ],
+			[ "altercare" ],
+			[ "altercáremos" ],
+			[ "altercareis", "altercaren" ],
+			[ "altercaren" ]
+		],
+		"12" : {
+			"1" : [ "alterca" ],
+			"2" : [ "alterque" ],
+			"3" : [ "alterquemos" ],
+			"4" : [ "altercad" ],
+			"5" : [ "alterquen" ]
+		}
+	}
+}

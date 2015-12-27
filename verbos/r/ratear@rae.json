@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ratear",
+	"word" : "ratear",
+	"infinitivo" : "ratear",
+	"participio" : [ "rateado" ],
+	"gerundio" : [ "rateando" ],
+	"tenses" : {
+		"3" : [
+			[ "rateo" ],
+			[ "rateas", "rateás" ],
+			[ "ratea" ],
+			[ "rateamos" ],
+			[ "rateáis", "ratean" ],
+			[ "ratean" ]
+		],
+		"4" : [
+			[ "rateé" ],
+			[ "rateaste" ],
+			[ "rateó" ],
+			[ "rateamos" ],
+			[ "rateasteis", "ratearon" ],
+			[ "ratearon" ]
+		],
+		"5" : [
+			[ "rateaba" ],
+			[ "rateabas" ],
+			[ "rateaba" ],
+			[ "rateábamos" ],
+			[ "rateabais", "rateaban" ],
+			[ "rateaban" ]
+		],
+		"6" : [
+			[ "ratearía" ],
+			[ "ratearías" ],
+			[ "ratearía" ],
+			[ "ratearíamos" ],
+			[ "ratearíais", "ratearían" ],
+			[ "ratearían" ]
+		],
+		"7" : [
+			[ "ratearé" ],
+			[ "ratearás" ],
+			[ "rateará" ],
+			[ "ratearemos" ],
+			[ "ratearéis", "ratearán" ],
+			[ "ratearán" ]
+		],
+		"8" : [
+			[ "ratee" ],
+			[ "ratees" ],
+			[ "ratee" ],
+			[ "rateemos" ],
+			[ "rateéis", "rateen" ],
+			[ "rateen" ]
+		],
+		"9" : [
+			[ "rateara" ],
+			[ "ratearas" ],
+			[ "rateara" ],
+			[ "rateáramos" ],
+			[ "ratearais", "ratearan" ],
+			[ "ratearan" ]
+		],
+		"10" : [
+			[ "ratease" ],
+			[ "rateases" ],
+			[ "ratease" ],
+			[ "rateásemos" ],
+			[ "rateaseis", "rateasen" ],
+			[ "rateasen" ]
+		],
+		"11" : [
+			[ "rateare" ],
+			[ "rateares" ],
+			[ "rateare" ],
+			[ "rateáremos" ],
+			[ "rateareis", "ratearen" ],
+			[ "ratearen" ]
+		],
+		"12" : {
+			"1" : [ "ratea" ],
+			"2" : [ "ratee" ],
+			"3" : [ "rateemos" ],
+			"4" : [ "ratead" ],
+			"5" : [ "rateen" ]
+		}
+	}
+}

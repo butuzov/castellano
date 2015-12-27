@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=intervenir",
+	"word" : "intervenir",
+	"infinitivo" : "intervenir",
+	"participio" : [ "intervenido" ],
+	"gerundio" : [ "interviniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "intervengo" ],
+			[ "intervienes", "intervenís" ],
+			[ "interviene" ],
+			[ "intervenimos" ],
+			[ "intervenís", "intervienen" ],
+			[ "intervienen" ]
+		],
+		"4" : [
+			[ "intervine" ],
+			[ "interviniste" ],
+			[ "intervino" ],
+			[ "intervinimos" ],
+			[ "intervinisteis", "intervinieron" ],
+			[ "intervinieron" ]
+		],
+		"5" : [
+			[ "intervenía" ],
+			[ "intervenías" ],
+			[ "intervenía" ],
+			[ "interveníamos" ],
+			[ "interveníais", "intervenían" ],
+			[ "intervenían" ]
+		],
+		"6" : [
+			[ "intervendría" ],
+			[ "intervendrías" ],
+			[ "intervendría" ],
+			[ "intervendríamos" ],
+			[ "intervendríais", "intervendrían" ],
+			[ "intervendrían" ]
+		],
+		"7" : [
+			[ "intervendré" ],
+			[ "intervendrás" ],
+			[ "intervendrá" ],
+			[ "intervendremos" ],
+			[ "intervendréis", "intervendrán" ],
+			[ "intervendrán" ]
+		],
+		"8" : [
+			[ "intervenga" ],
+			[ "intervengas" ],
+			[ "intervenga" ],
+			[ "intervengamos" ],
+			[ "intervengáis", "intervengan" ],
+			[ "intervengan" ]
+		],
+		"9" : [
+			[ "interviniera" ],
+			[ "intervinieras" ],
+			[ "interviniera" ],
+			[ "interviniéramos" ],
+			[ "intervinierais", "intervinieran" ],
+			[ "intervinieran" ]
+		],
+		"10" : [
+			[ "interviniese" ],
+			[ "intervinieses" ],
+			[ "interviniese" ],
+			[ "interviniésemos" ],
+			[ "intervinieseis", "interviniesen" ],
+			[ "interviniesen" ]
+		],
+		"11" : [
+			[ "interviniere" ],
+			[ "intervinieres" ],
+			[ "interviniere" ],
+			[ "interviniéremos" ],
+			[ "interviniereis", "intervinieren" ],
+			[ "intervinieren" ]
+		],
+		"12" : {
+			"1" : [ "intervén" ],
+			"2" : [ "intervenga" ],
+			"3" : [ "intervengamos" ],
+			"4" : [ "intervenid" ],
+			"5" : [ "intervengan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inscribir",
+	"word" : "inscribir",
+	"infinitivo" : "inscribir",
+	"participio" : [ "inscrito", "inscripto" ],
+	"gerundio" : [ "inscribiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "inscribo" ],
+			[ "inscribes", "inscribís" ],
+			[ "inscribe" ],
+			[ "inscribimos" ],
+			[ "inscribís", "inscriben" ],
+			[ "inscriben" ]
+		],
+		"4" : [
+			[ "inscribí" ],
+			[ "inscribiste" ],
+			[ "inscribió" ],
+			[ "inscribimos" ],
+			[ "inscribisteis", "inscribieron" ],
+			[ "inscribieron" ]
+		],
+		"5" : [
+			[ "inscribía" ],
+			[ "inscribías" ],
+			[ "inscribía" ],
+			[ "inscribíamos" ],
+			[ "inscribíais", "inscribían" ],
+			[ "inscribían" ]
+		],
+		"6" : [
+			[ "inscribiría" ],
+			[ "inscribirías" ],
+			[ "inscribiría" ],
+			[ "inscribiríamos" ],
+			[ "inscribiríais", "inscribirían" ],
+			[ "inscribirían" ]
+		],
+		"7" : [
+			[ "inscribiré" ],
+			[ "inscribirás" ],
+			[ "inscribirá" ],
+			[ "inscribiremos" ],
+			[ "inscribiréis", "inscribirán" ],
+			[ "inscribirán" ]
+		],
+		"8" : [
+			[ "inscriba" ],
+			[ "inscribas" ],
+			[ "inscriba" ],
+			[ "inscribamos" ],
+			[ "inscribáis", "inscriban" ],
+			[ "inscriban" ]
+		],
+		"9" : [
+			[ "inscribiera" ],
+			[ "inscribieras" ],
+			[ "inscribiera" ],
+			[ "inscribiéramos" ],
+			[ "inscribierais", "inscribieran" ],
+			[ "inscribieran" ]
+		],
+		"10" : [
+			[ "inscribiese" ],
+			[ "inscribieses" ],
+			[ "inscribiese" ],
+			[ "inscribiésemos" ],
+			[ "inscribieseis", "inscribiesen" ],
+			[ "inscribiesen" ]
+		],
+		"11" : [
+			[ "inscribiere" ],
+			[ "inscribieres" ],
+			[ "inscribiere" ],
+			[ "inscribiéremos" ],
+			[ "inscribiereis", "inscribieren" ],
+			[ "inscribieren" ]
+		],
+		"12" : {
+			"1" : [ "inscribe" ],
+			"2" : [ "inscriba" ],
+			"3" : [ "inscribamos" ],
+			"4" : [ "inscribid" ],
+			"5" : [ "inscriban" ]
+		}
+	}
+}

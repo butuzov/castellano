@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=someter",
+	"word" : "someter",
+	"infinitivo" : "someter",
+	"participio" : [ "sometido" ],
+	"gerundio" : [ "sometiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "someto" ],
+			[ "sometes", "sometés" ],
+			[ "somete" ],
+			[ "sometemos" ],
+			[ "sometéis", "someten" ],
+			[ "someten" ]
+		],
+		"4" : [
+			[ "sometí" ],
+			[ "sometiste" ],
+			[ "sometió" ],
+			[ "sometimos" ],
+			[ "sometisteis", "sometieron" ],
+			[ "sometieron" ]
+		],
+		"5" : [
+			[ "sometía" ],
+			[ "sometías" ],
+			[ "sometía" ],
+			[ "sometíamos" ],
+			[ "sometíais", "sometían" ],
+			[ "sometían" ]
+		],
+		"6" : [
+			[ "sometería" ],
+			[ "someterías" ],
+			[ "sometería" ],
+			[ "someteríamos" ],
+			[ "someteríais", "someterían" ],
+			[ "someterían" ]
+		],
+		"7" : [
+			[ "someteré" ],
+			[ "someterás" ],
+			[ "someterá" ],
+			[ "someteremos" ],
+			[ "someteréis", "someterán" ],
+			[ "someterán" ]
+		],
+		"8" : [
+			[ "someta" ],
+			[ "sometas" ],
+			[ "someta" ],
+			[ "sometamos" ],
+			[ "sometáis", "sometan" ],
+			[ "sometan" ]
+		],
+		"9" : [
+			[ "sometiera" ],
+			[ "sometieras" ],
+			[ "sometiera" ],
+			[ "sometiéramos" ],
+			[ "sometierais", "sometieran" ],
+			[ "sometieran" ]
+		],
+		"10" : [
+			[ "sometiese" ],
+			[ "sometieses" ],
+			[ "sometiese" ],
+			[ "sometiésemos" ],
+			[ "sometieseis", "sometiesen" ],
+			[ "sometiesen" ]
+		],
+		"11" : [
+			[ "sometiere" ],
+			[ "sometieres" ],
+			[ "sometiere" ],
+			[ "sometiéremos" ],
+			[ "sometiereis", "sometieren" ],
+			[ "sometieren" ]
+		],
+		"12" : {
+			"1" : [ "somete" ],
+			"2" : [ "someta" ],
+			"3" : [ "sometamos" ],
+			"4" : [ "someted" ],
+			"5" : [ "sometan" ]
+		}
+	}
+}

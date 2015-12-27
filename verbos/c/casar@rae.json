@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=casar",
+	"word" : "casar",
+	"infinitivo" : "casar",
+	"participio" : [ "casado" ],
+	"gerundio" : [ "casando" ],
+	"tenses" : {
+		"3" : [
+			[ "caso" ],
+			[ "casas", "casás" ],
+			[ "casa" ],
+			[ "casamos" ],
+			[ "casáis", "casan" ],
+			[ "casan" ]
+		],
+		"4" : [
+			[ "casé" ],
+			[ "casaste" ],
+			[ "casó" ],
+			[ "casamos" ],
+			[ "casasteis", "casaron" ],
+			[ "casaron" ]
+		],
+		"5" : [
+			[ "casaba" ],
+			[ "casabas" ],
+			[ "casaba" ],
+			[ "casábamos" ],
+			[ "casabais", "casaban" ],
+			[ "casaban" ]
+		],
+		"6" : [
+			[ "casaría" ],
+			[ "casarías" ],
+			[ "casaría" ],
+			[ "casaríamos" ],
+			[ "casaríais", "casarían" ],
+			[ "casarían" ]
+		],
+		"7" : [
+			[ "casaré" ],
+			[ "casarás" ],
+			[ "casará" ],
+			[ "casaremos" ],
+			[ "casaréis", "casarán" ],
+			[ "casarán" ]
+		],
+		"8" : [
+			[ "case" ],
+			[ "cases" ],
+			[ "case" ],
+			[ "casemos" ],
+			[ "caséis", "casen" ],
+			[ "casen" ]
+		],
+		"9" : [
+			[ "casara" ],
+			[ "casaras" ],
+			[ "casara" ],
+			[ "casáramos" ],
+			[ "casarais", "casaran" ],
+			[ "casaran" ]
+		],
+		"10" : [
+			[ "casase" ],
+			[ "casases" ],
+			[ "casase" ],
+			[ "casásemos" ],
+			[ "casaseis", "casasen" ],
+			[ "casasen" ]
+		],
+		"11" : [
+			[ "casare" ],
+			[ "casares" ],
+			[ "casare" ],
+			[ "casáremos" ],
+			[ "casareis", "casaren" ],
+			[ "casaren" ]
+		],
+		"12" : {
+			"1" : [ "casa" ],
+			"2" : [ "case" ],
+			"3" : [ "casemos" ],
+			"4" : [ "casad" ],
+			"5" : [ "casen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bombear",
+	"word" : "bombear",
+	"infinitivo" : "bombear",
+	"participio" : [ "bombeado" ],
+	"gerundio" : [ "bombeando" ],
+	"tenses" : {
+		"3" : [
+			[ "bombeo" ],
+			[ "bombeas", "bombeás" ],
+			[ "bombea" ],
+			[ "bombeamos" ],
+			[ "bombeáis", "bombean" ],
+			[ "bombean" ]
+		],
+		"4" : [
+			[ "bombeé" ],
+			[ "bombeaste" ],
+			[ "bombeó" ],
+			[ "bombeamos" ],
+			[ "bombeasteis", "bombearon" ],
+			[ "bombearon" ]
+		],
+		"5" : [
+			[ "bombeaba" ],
+			[ "bombeabas" ],
+			[ "bombeaba" ],
+			[ "bombeábamos" ],
+			[ "bombeabais", "bombeaban" ],
+			[ "bombeaban" ]
+		],
+		"6" : [
+			[ "bombearía" ],
+			[ "bombearías" ],
+			[ "bombearía" ],
+			[ "bombearíamos" ],
+			[ "bombearíais", "bombearían" ],
+			[ "bombearían" ]
+		],
+		"7" : [
+			[ "bombearé" ],
+			[ "bombearás" ],
+			[ "bombeará" ],
+			[ "bombearemos" ],
+			[ "bombearéis", "bombearán" ],
+			[ "bombearán" ]
+		],
+		"8" : [
+			[ "bombee" ],
+			[ "bombees" ],
+			[ "bombee" ],
+			[ "bombeemos" ],
+			[ "bombeéis", "bombeen" ],
+			[ "bombeen" ]
+		],
+		"9" : [
+			[ "bombeara" ],
+			[ "bombearas" ],
+			[ "bombeara" ],
+			[ "bombeáramos" ],
+			[ "bombearais", "bombearan" ],
+			[ "bombearan" ]
+		],
+		"10" : [
+			[ "bombease" ],
+			[ "bombeases" ],
+			[ "bombease" ],
+			[ "bombeásemos" ],
+			[ "bombeaseis", "bombeasen" ],
+			[ "bombeasen" ]
+		],
+		"11" : [
+			[ "bombeare" ],
+			[ "bombeares" ],
+			[ "bombeare" ],
+			[ "bombeáremos" ],
+			[ "bombeareis", "bombearen" ],
+			[ "bombearen" ]
+		],
+		"12" : {
+			"1" : [ "bombea" ],
+			"2" : [ "bombee" ],
+			"3" : [ "bombeemos" ],
+			"4" : [ "bombead" ],
+			"5" : [ "bombeen" ]
+		}
+	}
+}

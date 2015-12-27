@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remorder",
+	"word" : "remorder",
+	"infinitivo" : "remorder",
+	"participio" : [ "remordido" ],
+	"gerundio" : [ "remordiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "remuerdo" ],
+			[ "remuerdes", "remordés" ],
+			[ "remuerde" ],
+			[ "remordemos" ],
+			[ "remordéis", "remuerden" ],
+			[ "remuerden" ]
+		],
+		"4" : [
+			[ "remordí" ],
+			[ "remordiste" ],
+			[ "remordió" ],
+			[ "remordimos" ],
+			[ "remordisteis", "remordieron" ],
+			[ "remordieron" ]
+		],
+		"5" : [
+			[ "remordía" ],
+			[ "remordías" ],
+			[ "remordía" ],
+			[ "remordíamos" ],
+			[ "remordíais", "remordían" ],
+			[ "remordían" ]
+		],
+		"6" : [
+			[ "remordería" ],
+			[ "remorderías" ],
+			[ "remordería" ],
+			[ "remorderíamos" ],
+			[ "remorderíais", "remorderían" ],
+			[ "remorderían" ]
+		],
+		"7" : [
+			[ "remorderé" ],
+			[ "remorderás" ],
+			[ "remorderá" ],
+			[ "remorderemos" ],
+			[ "remorderéis", "remorderán" ],
+			[ "remorderán" ]
+		],
+		"8" : [
+			[ "remuerda" ],
+			[ "remuerdas" ],
+			[ "remuerda" ],
+			[ "remordamos" ],
+			[ "remordáis", "remuerdan" ],
+			[ "remuerdan" ]
+		],
+		"9" : [
+			[ "remordiera" ],
+			[ "remordieras" ],
+			[ "remordiera" ],
+			[ "remordiéramos" ],
+			[ "remordierais", "remordieran" ],
+			[ "remordieran" ]
+		],
+		"10" : [
+			[ "remordiese" ],
+			[ "remordieses" ],
+			[ "remordiese" ],
+			[ "remordiésemos" ],
+			[ "remordieseis", "remordiesen" ],
+			[ "remordiesen" ]
+		],
+		"11" : [
+			[ "remordiere" ],
+			[ "remordieres" ],
+			[ "remordiere" ],
+			[ "remordiéremos" ],
+			[ "remordiereis", "remordieren" ],
+			[ "remordieren" ]
+		],
+		"12" : {
+			"1" : [ "remuerde" ],
+			"2" : [ "remuerda" ],
+			"3" : [ "remordamos" ],
+			"4" : [ "remorded" ],
+			"5" : [ "remuerdan" ]
+		}
+	}
+}

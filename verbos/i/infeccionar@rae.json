@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=infeccionar",
+	"word" : "infeccionar",
+	"infinitivo" : "infeccionar",
+	"participio" : [ "infeccionado" ],
+	"gerundio" : [ "infeccionando" ],
+	"tenses" : {
+		"3" : [
+			[ "infecciono" ],
+			[ "infeccionas", "infeccionás" ],
+			[ "infecciona" ],
+			[ "infeccionamos" ],
+			[ "infeccionáis", "infeccionan" ],
+			[ "infeccionan" ]
+		],
+		"4" : [
+			[ "infeccioné" ],
+			[ "infeccionaste" ],
+			[ "infeccionó" ],
+			[ "infeccionamos" ],
+			[ "infeccionasteis", "infeccionaron" ],
+			[ "infeccionaron" ]
+		],
+		"5" : [
+			[ "infeccionaba" ],
+			[ "infeccionabas" ],
+			[ "infeccionaba" ],
+			[ "infeccionábamos" ],
+			[ "infeccionabais", "infeccionaban" ],
+			[ "infeccionaban" ]
+		],
+		"6" : [
+			[ "infeccionaría" ],
+			[ "infeccionarías" ],
+			[ "infeccionaría" ],
+			[ "infeccionaríamos" ],
+			[ "infeccionaríais", "infeccionarían" ],
+			[ "infeccionarían" ]
+		],
+		"7" : [
+			[ "infeccionaré" ],
+			[ "infeccionarás" ],
+			[ "infeccionará" ],
+			[ "infeccionaremos" ],
+			[ "infeccionaréis", "infeccionarán" ],
+			[ "infeccionarán" ]
+		],
+		"8" : [
+			[ "infeccione" ],
+			[ "infecciones" ],
+			[ "infeccione" ],
+			[ "infeccionemos" ],
+			[ "infeccionéis", "infeccionen" ],
+			[ "infeccionen" ]
+		],
+		"9" : [
+			[ "infeccionara" ],
+			[ "infeccionaras" ],
+			[ "infeccionara" ],
+			[ "infeccionáramos" ],
+			[ "infeccionarais", "infeccionaran" ],
+			[ "infeccionaran" ]
+		],
+		"10" : [
+			[ "infeccionase" ],
+			[ "infeccionases" ],
+			[ "infeccionase" ],
+			[ "infeccionásemos" ],
+			[ "infeccionaseis", "infeccionasen" ],
+			[ "infeccionasen" ]
+		],
+		"11" : [
+			[ "infeccionare" ],
+			[ "infeccionares" ],
+			[ "infeccionare" ],
+			[ "infeccionáremos" ],
+			[ "infeccionareis", "infeccionaren" ],
+			[ "infeccionaren" ]
+		],
+		"12" : {
+			"1" : [ "infecciona" ],
+			"2" : [ "infeccione" ],
+			"3" : [ "infeccionemos" ],
+			"4" : [ "infeccionad" ],
+			"5" : [ "infeccionen" ]
+		}
+	}
+}

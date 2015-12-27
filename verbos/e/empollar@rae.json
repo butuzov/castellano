@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empollar",
+	"word" : "empollar",
+	"infinitivo" : "empollar",
+	"participio" : [ "empollado" ],
+	"gerundio" : [ "empollando" ],
+	"tenses" : {
+		"3" : [
+			[ "empollo" ],
+			[ "empollas", "empollás" ],
+			[ "empolla" ],
+			[ "empollamos" ],
+			[ "empolláis", "empollan" ],
+			[ "empollan" ]
+		],
+		"4" : [
+			[ "empollé" ],
+			[ "empollaste" ],
+			[ "empolló" ],
+			[ "empollamos" ],
+			[ "empollasteis", "empollaron" ],
+			[ "empollaron" ]
+		],
+		"5" : [
+			[ "empollaba" ],
+			[ "empollabas" ],
+			[ "empollaba" ],
+			[ "empollábamos" ],
+			[ "empollabais", "empollaban" ],
+			[ "empollaban" ]
+		],
+		"6" : [
+			[ "empollaría" ],
+			[ "empollarías" ],
+			[ "empollaría" ],
+			[ "empollaríamos" ],
+			[ "empollaríais", "empollarían" ],
+			[ "empollarían" ]
+		],
+		"7" : [
+			[ "empollaré" ],
+			[ "empollarás" ],
+			[ "empollará" ],
+			[ "empollaremos" ],
+			[ "empollaréis", "empollarán" ],
+			[ "empollarán" ]
+		],
+		"8" : [
+			[ "empolle" ],
+			[ "empolles" ],
+			[ "empolle" ],
+			[ "empollemos" ],
+			[ "empolléis", "empollen" ],
+			[ "empollen" ]
+		],
+		"9" : [
+			[ "empollara" ],
+			[ "empollaras" ],
+			[ "empollara" ],
+			[ "empolláramos" ],
+			[ "empollarais", "empollaran" ],
+			[ "empollaran" ]
+		],
+		"10" : [
+			[ "empollase" ],
+			[ "empollases" ],
+			[ "empollase" ],
+			[ "empollásemos" ],
+			[ "empollaseis", "empollasen" ],
+			[ "empollasen" ]
+		],
+		"11" : [
+			[ "empollare" ],
+			[ "empollares" ],
+			[ "empollare" ],
+			[ "empolláremos" ],
+			[ "empollareis", "empollaren" ],
+			[ "empollaren" ]
+		],
+		"12" : {
+			"1" : [ "empolla" ],
+			"2" : [ "empolle" ],
+			"3" : [ "empollemos" ],
+			"4" : [ "empollad" ],
+			"5" : [ "empollen" ]
+		}
+	}
+}

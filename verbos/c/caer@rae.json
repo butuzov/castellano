@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=caer",
+	"word" : "caer",
+	"infinitivo" : "caer",
+	"participio" : [ "caído" ],
+	"gerundio" : [ "cayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "caigo" ],
+			[ "caes", "caés" ],
+			[ "cae" ],
+			[ "caemos" ],
+			[ "caéis", "caen" ],
+			[ "caen" ]
+		],
+		"4" : [
+			[ "caí" ],
+			[ "caíste" ],
+			[ "cayó" ],
+			[ "caímos" ],
+			[ "caísteis", "cayeron" ],
+			[ "cayeron" ]
+		],
+		"5" : [
+			[ "caía" ],
+			[ "caías" ],
+			[ "caía" ],
+			[ "caíamos" ],
+			[ "caíais", "caían" ],
+			[ "caían" ]
+		],
+		"6" : [
+			[ "caería" ],
+			[ "caerías" ],
+			[ "caería" ],
+			[ "caeríamos" ],
+			[ "caeríais", "caerían" ],
+			[ "caerían" ]
+		],
+		"7" : [
+			[ "caeré" ],
+			[ "caerás" ],
+			[ "caerá" ],
+			[ "caeremos" ],
+			[ "caeréis", "caerán" ],
+			[ "caerán" ]
+		],
+		"8" : [
+			[ "caiga" ],
+			[ "caigas" ],
+			[ "caiga" ],
+			[ "caigamos" ],
+			[ "caigáis", "caigan" ],
+			[ "caigan" ]
+		],
+		"9" : [
+			[ "cayera" ],
+			[ "cayeras" ],
+			[ "cayera" ],
+			[ "cayéramos" ],
+			[ "cayerais", "cayeran" ],
+			[ "cayeran" ]
+		],
+		"10" : [
+			[ "cayese" ],
+			[ "cayeses" ],
+			[ "cayese" ],
+			[ "cayésemos" ],
+			[ "cayeseis", "cayesen" ],
+			[ "cayesen" ]
+		],
+		"11" : [
+			[ "cayere" ],
+			[ "cayeres" ],
+			[ "cayere" ],
+			[ "cayéremos" ],
+			[ "cayereis", "cayeren" ],
+			[ "cayeren" ]
+		],
+		"12" : {
+			"1" : [ "cae" ],
+			"2" : [ "caiga" ],
+			"3" : [ "caigamos" ],
+			"4" : [ "caed" ],
+			"5" : [ "caigan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amistar",
+	"word" : "amistar",
+	"infinitivo" : "amistar",
+	"participio" : [ "amistado" ],
+	"gerundio" : [ "amistando" ],
+	"tenses" : {
+		"3" : [
+			[ "amisto" ],
+			[ "amistas", "amistás" ],
+			[ "amista" ],
+			[ "amistamos" ],
+			[ "amistáis", "amistan" ],
+			[ "amistan" ]
+		],
+		"4" : [
+			[ "amisté" ],
+			[ "amistaste" ],
+			[ "amistó" ],
+			[ "amistamos" ],
+			[ "amistasteis", "amistaron" ],
+			[ "amistaron" ]
+		],
+		"5" : [
+			[ "amistaba" ],
+			[ "amistabas" ],
+			[ "amistaba" ],
+			[ "amistábamos" ],
+			[ "amistabais", "amistaban" ],
+			[ "amistaban" ]
+		],
+		"6" : [
+			[ "amistaría" ],
+			[ "amistarías" ],
+			[ "amistaría" ],
+			[ "amistaríamos" ],
+			[ "amistaríais", "amistarían" ],
+			[ "amistarían" ]
+		],
+		"7" : [
+			[ "amistaré" ],
+			[ "amistarás" ],
+			[ "amistará" ],
+			[ "amistaremos" ],
+			[ "amistaréis", "amistarán" ],
+			[ "amistarán" ]
+		],
+		"8" : [
+			[ "amiste" ],
+			[ "amistes" ],
+			[ "amiste" ],
+			[ "amistemos" ],
+			[ "amistéis", "amisten" ],
+			[ "amisten" ]
+		],
+		"9" : [
+			[ "amistara" ],
+			[ "amistaras" ],
+			[ "amistara" ],
+			[ "amistáramos" ],
+			[ "amistarais", "amistaran" ],
+			[ "amistaran" ]
+		],
+		"10" : [
+			[ "amistase" ],
+			[ "amistases" ],
+			[ "amistase" ],
+			[ "amistásemos" ],
+			[ "amistaseis", "amistasen" ],
+			[ "amistasen" ]
+		],
+		"11" : [
+			[ "amistare" ],
+			[ "amistares" ],
+			[ "amistare" ],
+			[ "amistáremos" ],
+			[ "amistareis", "amistaren" ],
+			[ "amistaren" ]
+		],
+		"12" : {
+			"1" : [ "amista" ],
+			"2" : [ "amiste" ],
+			"3" : [ "amistemos" ],
+			"4" : [ "amistad" ],
+			"5" : [ "amisten" ]
+		}
+	}
+}

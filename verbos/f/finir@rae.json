@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=finir",
+	"word" : "finir",
+	"infinitivo" : "finir",
+	"participio" : [ "finido" ],
+	"gerundio" : [ "finiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "fino" ],
+			[ "fines", "finís" ],
+			[ "fine" ],
+			[ "finimos" ],
+			[ "finís", "finen" ],
+			[ "finen" ]
+		],
+		"4" : [
+			[ "finí" ],
+			[ "finiste" ],
+			[ "finió" ],
+			[ "finimos" ],
+			[ "finisteis", "finieron" ],
+			[ "finieron" ]
+		],
+		"5" : [
+			[ "finía" ],
+			[ "finías" ],
+			[ "finía" ],
+			[ "finíamos" ],
+			[ "finíais", "finían" ],
+			[ "finían" ]
+		],
+		"6" : [
+			[ "finiría" ],
+			[ "finirías" ],
+			[ "finiría" ],
+			[ "finiríamos" ],
+			[ "finiríais", "finirían" ],
+			[ "finirían" ]
+		],
+		"7" : [
+			[ "finiré" ],
+			[ "finirás" ],
+			[ "finirá" ],
+			[ "finiremos" ],
+			[ "finiréis", "finirán" ],
+			[ "finirán" ]
+		],
+		"8" : [
+			[ "fina" ],
+			[ "finas" ],
+			[ "fina" ],
+			[ "finamos" ],
+			[ "fináis", "finan" ],
+			[ "finan" ]
+		],
+		"9" : [
+			[ "finiera" ],
+			[ "finieras" ],
+			[ "finiera" ],
+			[ "finiéramos" ],
+			[ "finierais", "finieran" ],
+			[ "finieran" ]
+		],
+		"10" : [
+			[ "finiese" ],
+			[ "finieses" ],
+			[ "finiese" ],
+			[ "finiésemos" ],
+			[ "finieseis", "finiesen" ],
+			[ "finiesen" ]
+		],
+		"11" : [
+			[ "finiere" ],
+			[ "finieres" ],
+			[ "finiere" ],
+			[ "finiéremos" ],
+			[ "finiereis", "finieren" ],
+			[ "finieren" ]
+		],
+		"12" : {
+			"1" : [ "fine" ],
+			"2" : [ "fina" ],
+			"3" : [ "finamos" ],
+			"4" : [ "finid" ],
+			"5" : [ "finan" ]
+		}
+	}
+}

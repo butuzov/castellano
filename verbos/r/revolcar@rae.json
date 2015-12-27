@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=revolcar",
+	"word" : "revolcar",
+	"infinitivo" : "revolcar",
+	"participio" : [ "revolcado" ],
+	"gerundio" : [ "revolcando" ],
+	"tenses" : {
+		"3" : [
+			[ "revuelco" ],
+			[ "revuelcas", "revolcás" ],
+			[ "revuelca" ],
+			[ "revolcamos" ],
+			[ "revolcáis", "revuelcan" ],
+			[ "revuelcan" ]
+		],
+		"4" : [
+			[ "revolqué" ],
+			[ "revolcaste" ],
+			[ "revolcó" ],
+			[ "revolcamos" ],
+			[ "revolcasteis", "revolcaron" ],
+			[ "revolcaron" ]
+		],
+		"5" : [
+			[ "revolcaba" ],
+			[ "revolcabas" ],
+			[ "revolcaba" ],
+			[ "revolcábamos" ],
+			[ "revolcabais", "revolcaban" ],
+			[ "revolcaban" ]
+		],
+		"6" : [
+			[ "revolcaría" ],
+			[ "revolcarías" ],
+			[ "revolcaría" ],
+			[ "revolcaríamos" ],
+			[ "revolcaríais", "revolcarían" ],
+			[ "revolcarían" ]
+		],
+		"7" : [
+			[ "revolcaré" ],
+			[ "revolcarás" ],
+			[ "revolcará" ],
+			[ "revolcaremos" ],
+			[ "revolcaréis", "revolcarán" ],
+			[ "revolcarán" ]
+		],
+		"8" : [
+			[ "revuelque" ],
+			[ "revuelques" ],
+			[ "revuelque" ],
+			[ "revolquemos" ],
+			[ "revolquéis", "revuelquen" ],
+			[ "revuelquen" ]
+		],
+		"9" : [
+			[ "revolcara" ],
+			[ "revolcaras" ],
+			[ "revolcara" ],
+			[ "revolcáramos" ],
+			[ "revolcarais", "revolcaran" ],
+			[ "revolcaran" ]
+		],
+		"10" : [
+			[ "revolcase" ],
+			[ "revolcases" ],
+			[ "revolcase" ],
+			[ "revolcásemos" ],
+			[ "revolcaseis", "revolcasen" ],
+			[ "revolcasen" ]
+		],
+		"11" : [
+			[ "revolcare" ],
+			[ "revolcares" ],
+			[ "revolcare" ],
+			[ "revolcáremos" ],
+			[ "revolcareis", "revolcaren" ],
+			[ "revolcaren" ]
+		],
+		"12" : {
+			"1" : [ "revuelca" ],
+			"2" : [ "revuelque" ],
+			"3" : [ "revolquemos" ],
+			"4" : [ "revolcad" ],
+			"5" : [ "revuelquen" ]
+		}
+	}
+}

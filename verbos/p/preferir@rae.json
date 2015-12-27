@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=preferir",
+	"word" : "preferir",
+	"infinitivo" : "preferir",
+	"participio" : [ "preferido" ],
+	"gerundio" : [ "prefiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "prefiero" ],
+			[ "prefieres", "preferís" ],
+			[ "prefiere" ],
+			[ "preferimos" ],
+			[ "preferís", "prefieren" ],
+			[ "prefieren" ]
+		],
+		"4" : [
+			[ "preferí" ],
+			[ "preferiste" ],
+			[ "prefirió" ],
+			[ "preferimos" ],
+			[ "preferisteis", "prefirieron" ],
+			[ "prefirieron" ]
+		],
+		"5" : [
+			[ "prefería" ],
+			[ "preferías" ],
+			[ "prefería" ],
+			[ "preferíamos" ],
+			[ "preferíais", "preferían" ],
+			[ "preferían" ]
+		],
+		"6" : [
+			[ "preferiría" ],
+			[ "preferirías" ],
+			[ "preferiría" ],
+			[ "preferiríamos" ],
+			[ "preferiríais", "preferirían" ],
+			[ "preferirían" ]
+		],
+		"7" : [
+			[ "preferiré" ],
+			[ "preferirás" ],
+			[ "preferirá" ],
+			[ "preferiremos" ],
+			[ "preferiréis", "preferirán" ],
+			[ "preferirán" ]
+		],
+		"8" : [
+			[ "prefiera" ],
+			[ "prefieras" ],
+			[ "prefiera" ],
+			[ "prefiramos" ],
+			[ "prefiráis", "prefieran" ],
+			[ "prefieran" ]
+		],
+		"9" : [
+			[ "prefiriera" ],
+			[ "prefirieras" ],
+			[ "prefiriera" ],
+			[ "prefiriéramos" ],
+			[ "prefirierais", "prefirieran" ],
+			[ "prefirieran" ]
+		],
+		"10" : [
+			[ "prefiriese" ],
+			[ "prefirieses" ],
+			[ "prefiriese" ],
+			[ "prefiriésemos" ],
+			[ "prefirieseis", "prefiriesen" ],
+			[ "prefiriesen" ]
+		],
+		"11" : [
+			[ "prefiriere" ],
+			[ "prefirieres" ],
+			[ "prefiriere" ],
+			[ "prefiriéremos" ],
+			[ "prefiriereis", "prefirieren" ],
+			[ "prefirieren" ]
+		],
+		"12" : {
+			"1" : [ "prefiere" ],
+			"2" : [ "prefiera" ],
+			"3" : [ "prefiramos" ],
+			"4" : [ "preferid" ],
+			"5" : [ "prefieran" ]
+		}
+	}
+}

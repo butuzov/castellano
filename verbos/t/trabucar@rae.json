@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trabucar",
+	"word" : "trabucar",
+	"infinitivo" : "trabucar",
+	"participio" : [ "trabucado" ],
+	"gerundio" : [ "trabucando" ],
+	"tenses" : {
+		"3" : [
+			[ "trabuco" ],
+			[ "trabucas", "trabucás" ],
+			[ "trabuca" ],
+			[ "trabucamos" ],
+			[ "trabucáis", "trabucan" ],
+			[ "trabucan" ]
+		],
+		"4" : [
+			[ "trabuqué" ],
+			[ "trabucaste" ],
+			[ "trabucó" ],
+			[ "trabucamos" ],
+			[ "trabucasteis", "trabucaron" ],
+			[ "trabucaron" ]
+		],
+		"5" : [
+			[ "trabucaba" ],
+			[ "trabucabas" ],
+			[ "trabucaba" ],
+			[ "trabucábamos" ],
+			[ "trabucabais", "trabucaban" ],
+			[ "trabucaban" ]
+		],
+		"6" : [
+			[ "trabucaría" ],
+			[ "trabucarías" ],
+			[ "trabucaría" ],
+			[ "trabucaríamos" ],
+			[ "trabucaríais", "trabucarían" ],
+			[ "trabucarían" ]
+		],
+		"7" : [
+			[ "trabucaré" ],
+			[ "trabucarás" ],
+			[ "trabucará" ],
+			[ "trabucaremos" ],
+			[ "trabucaréis", "trabucarán" ],
+			[ "trabucarán" ]
+		],
+		"8" : [
+			[ "trabuque" ],
+			[ "trabuques" ],
+			[ "trabuque" ],
+			[ "trabuquemos" ],
+			[ "trabuquéis", "trabuquen" ],
+			[ "trabuquen" ]
+		],
+		"9" : [
+			[ "trabucara" ],
+			[ "trabucaras" ],
+			[ "trabucara" ],
+			[ "trabucáramos" ],
+			[ "trabucarais", "trabucaran" ],
+			[ "trabucaran" ]
+		],
+		"10" : [
+			[ "trabucase" ],
+			[ "trabucases" ],
+			[ "trabucase" ],
+			[ "trabucásemos" ],
+			[ "trabucaseis", "trabucasen" ],
+			[ "trabucasen" ]
+		],
+		"11" : [
+			[ "trabucare" ],
+			[ "trabucares" ],
+			[ "trabucare" ],
+			[ "trabucáremos" ],
+			[ "trabucareis", "trabucaren" ],
+			[ "trabucaren" ]
+		],
+		"12" : {
+			"1" : [ "trabuca" ],
+			"2" : [ "trabuque" ],
+			"3" : [ "trabuquemos" ],
+			"4" : [ "trabucad" ],
+			"5" : [ "trabuquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=jabonar",
+	"word" : "jabonar",
+	"infinitivo" : "jabonar",
+	"participio" : [ "jabonado" ],
+	"gerundio" : [ "jabonando" ],
+	"tenses" : {
+		"3" : [
+			[ "jabono" ],
+			[ "jabonas", "jabonás" ],
+			[ "jabona" ],
+			[ "jabonamos" ],
+			[ "jabonáis", "jabonan" ],
+			[ "jabonan" ]
+		],
+		"4" : [
+			[ "jaboné" ],
+			[ "jabonaste" ],
+			[ "jabonó" ],
+			[ "jabonamos" ],
+			[ "jabonasteis", "jabonaron" ],
+			[ "jabonaron" ]
+		],
+		"5" : [
+			[ "jabonaba" ],
+			[ "jabonabas" ],
+			[ "jabonaba" ],
+			[ "jabonábamos" ],
+			[ "jabonabais", "jabonaban" ],
+			[ "jabonaban" ]
+		],
+		"6" : [
+			[ "jabonaría" ],
+			[ "jabonarías" ],
+			[ "jabonaría" ],
+			[ "jabonaríamos" ],
+			[ "jabonaríais", "jabonarían" ],
+			[ "jabonarían" ]
+		],
+		"7" : [
+			[ "jabonaré" ],
+			[ "jabonarás" ],
+			[ "jabonará" ],
+			[ "jabonaremos" ],
+			[ "jabonaréis", "jabonarán" ],
+			[ "jabonarán" ]
+		],
+		"8" : [
+			[ "jabone" ],
+			[ "jabones" ],
+			[ "jabone" ],
+			[ "jabonemos" ],
+			[ "jabonéis", "jabonen" ],
+			[ "jabonen" ]
+		],
+		"9" : [
+			[ "jabonara" ],
+			[ "jabonaras" ],
+			[ "jabonara" ],
+			[ "jabonáramos" ],
+			[ "jabonarais", "jabonaran" ],
+			[ "jabonaran" ]
+		],
+		"10" : [
+			[ "jabonase" ],
+			[ "jabonases" ],
+			[ "jabonase" ],
+			[ "jabonásemos" ],
+			[ "jabonaseis", "jabonasen" ],
+			[ "jabonasen" ]
+		],
+		"11" : [
+			[ "jabonare" ],
+			[ "jabonares" ],
+			[ "jabonare" ],
+			[ "jabonáremos" ],
+			[ "jabonareis", "jabonaren" ],
+			[ "jabonaren" ]
+		],
+		"12" : {
+			"1" : [ "jabona" ],
+			"2" : [ "jabone" ],
+			"3" : [ "jabonemos" ],
+			"4" : [ "jabonad" ],
+			"5" : [ "jabonen" ]
+		}
+	}
+}

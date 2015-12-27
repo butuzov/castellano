@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emular",
+	"word" : "emular",
+	"infinitivo" : "emular",
+	"participio" : [ "emulado" ],
+	"gerundio" : [ "emulando" ],
+	"tenses" : {
+		"3" : [
+			[ "emulo" ],
+			[ "emulas", "emulás" ],
+			[ "emula" ],
+			[ "emulamos" ],
+			[ "emuláis", "emulan" ],
+			[ "emulan" ]
+		],
+		"4" : [
+			[ "emulé" ],
+			[ "emulaste" ],
+			[ "emuló" ],
+			[ "emulamos" ],
+			[ "emulasteis", "emularon" ],
+			[ "emularon" ]
+		],
+		"5" : [
+			[ "emulaba" ],
+			[ "emulabas" ],
+			[ "emulaba" ],
+			[ "emulábamos" ],
+			[ "emulabais", "emulaban" ],
+			[ "emulaban" ]
+		],
+		"6" : [
+			[ "emularía" ],
+			[ "emularías" ],
+			[ "emularía" ],
+			[ "emularíamos" ],
+			[ "emularíais", "emularían" ],
+			[ "emularían" ]
+		],
+		"7" : [
+			[ "emularé" ],
+			[ "emularás" ],
+			[ "emulará" ],
+			[ "emularemos" ],
+			[ "emularéis", "emularán" ],
+			[ "emularán" ]
+		],
+		"8" : [
+			[ "emule" ],
+			[ "emules" ],
+			[ "emule" ],
+			[ "emulemos" ],
+			[ "emuléis", "emulen" ],
+			[ "emulen" ]
+		],
+		"9" : [
+			[ "emulara" ],
+			[ "emularas" ],
+			[ "emulara" ],
+			[ "emuláramos" ],
+			[ "emularais", "emularan" ],
+			[ "emularan" ]
+		],
+		"10" : [
+			[ "emulase" ],
+			[ "emulases" ],
+			[ "emulase" ],
+			[ "emulásemos" ],
+			[ "emulaseis", "emulasen" ],
+			[ "emulasen" ]
+		],
+		"11" : [
+			[ "emulare" ],
+			[ "emulares" ],
+			[ "emulare" ],
+			[ "emuláremos" ],
+			[ "emulareis", "emularen" ],
+			[ "emularen" ]
+		],
+		"12" : {
+			"1" : [ "emula" ],
+			"2" : [ "emule" ],
+			"3" : [ "emulemos" ],
+			"4" : [ "emulad" ],
+			"5" : [ "emulen" ]
+		}
+	}
+}

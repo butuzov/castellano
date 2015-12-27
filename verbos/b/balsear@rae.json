@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=balsear",
+	"word" : "balsear",
+	"infinitivo" : "balsear",
+	"participio" : [ "balseado" ],
+	"gerundio" : [ "balseando" ],
+	"tenses" : {
+		"3" : [
+			[ "balseo" ],
+			[ "balseas", "balseás" ],
+			[ "balsea" ],
+			[ "balseamos" ],
+			[ "balseáis", "balsean" ],
+			[ "balsean" ]
+		],
+		"4" : [
+			[ "balseé" ],
+			[ "balseaste" ],
+			[ "balseó" ],
+			[ "balseamos" ],
+			[ "balseasteis", "balsearon" ],
+			[ "balsearon" ]
+		],
+		"5" : [
+			[ "balseaba" ],
+			[ "balseabas" ],
+			[ "balseaba" ],
+			[ "balseábamos" ],
+			[ "balseabais", "balseaban" ],
+			[ "balseaban" ]
+		],
+		"6" : [
+			[ "balsearía" ],
+			[ "balsearías" ],
+			[ "balsearía" ],
+			[ "balsearíamos" ],
+			[ "balsearíais", "balsearían" ],
+			[ "balsearían" ]
+		],
+		"7" : [
+			[ "balsearé" ],
+			[ "balsearás" ],
+			[ "balseará" ],
+			[ "balsearemos" ],
+			[ "balsearéis", "balsearán" ],
+			[ "balsearán" ]
+		],
+		"8" : [
+			[ "balsee" ],
+			[ "balsees" ],
+			[ "balsee" ],
+			[ "balseemos" ],
+			[ "balseéis", "balseen" ],
+			[ "balseen" ]
+		],
+		"9" : [
+			[ "balseara" ],
+			[ "balsearas" ],
+			[ "balseara" ],
+			[ "balseáramos" ],
+			[ "balsearais", "balsearan" ],
+			[ "balsearan" ]
+		],
+		"10" : [
+			[ "balsease" ],
+			[ "balseases" ],
+			[ "balsease" ],
+			[ "balseásemos" ],
+			[ "balseaseis", "balseasen" ],
+			[ "balseasen" ]
+		],
+		"11" : [
+			[ "balseare" ],
+			[ "balseares" ],
+			[ "balseare" ],
+			[ "balseáremos" ],
+			[ "balseareis", "balsearen" ],
+			[ "balsearen" ]
+		],
+		"12" : {
+			"1" : [ "balsea" ],
+			"2" : [ "balsee" ],
+			"3" : [ "balseemos" ],
+			"4" : [ "balsead" ],
+			"5" : [ "balseen" ]
+		}
+	}
+}

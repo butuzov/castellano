@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=luchar",
+	"word" : "luchar",
+	"infinitivo" : "luchar",
+	"participio" : [ "luchado" ],
+	"gerundio" : [ "luchando" ],
+	"tenses" : {
+		"3" : [
+			[ "lucho" ],
+			[ "luchas", "luchás" ],
+			[ "lucha" ],
+			[ "luchamos" ],
+			[ "lucháis", "luchan" ],
+			[ "luchan" ]
+		],
+		"4" : [
+			[ "luché" ],
+			[ "luchaste" ],
+			[ "luchó" ],
+			[ "luchamos" ],
+			[ "luchasteis", "lucharon" ],
+			[ "lucharon" ]
+		],
+		"5" : [
+			[ "luchaba" ],
+			[ "luchabas" ],
+			[ "luchaba" ],
+			[ "luchábamos" ],
+			[ "luchabais", "luchaban" ],
+			[ "luchaban" ]
+		],
+		"6" : [
+			[ "lucharía" ],
+			[ "lucharías" ],
+			[ "lucharía" ],
+			[ "lucharíamos" ],
+			[ "lucharíais", "lucharían" ],
+			[ "lucharían" ]
+		],
+		"7" : [
+			[ "lucharé" ],
+			[ "lucharás" ],
+			[ "luchará" ],
+			[ "lucharemos" ],
+			[ "lucharéis", "lucharán" ],
+			[ "lucharán" ]
+		],
+		"8" : [
+			[ "luche" ],
+			[ "luches" ],
+			[ "luche" ],
+			[ "luchemos" ],
+			[ "luchéis", "luchen" ],
+			[ "luchen" ]
+		],
+		"9" : [
+			[ "luchara" ],
+			[ "lucharas" ],
+			[ "luchara" ],
+			[ "lucháramos" ],
+			[ "lucharais", "lucharan" ],
+			[ "lucharan" ]
+		],
+		"10" : [
+			[ "luchase" ],
+			[ "luchases" ],
+			[ "luchase" ],
+			[ "luchásemos" ],
+			[ "luchaseis", "luchasen" ],
+			[ "luchasen" ]
+		],
+		"11" : [
+			[ "luchare" ],
+			[ "luchares" ],
+			[ "luchare" ],
+			[ "lucháremos" ],
+			[ "luchareis", "lucharen" ],
+			[ "lucharen" ]
+		],
+		"12" : {
+			"1" : [ "lucha" ],
+			"2" : [ "luche" ],
+			"3" : [ "luchemos" ],
+			"4" : [ "luchad" ],
+			"5" : [ "luchen" ]
+		}
+	}
+}

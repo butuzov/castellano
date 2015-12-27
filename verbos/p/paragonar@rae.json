@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=paragonar",
+	"word" : "paragonar",
+	"infinitivo" : "paragonar",
+	"participio" : [ "paragonado" ],
+	"gerundio" : [ "paragonando" ],
+	"tenses" : {
+		"3" : [
+			[ "paragono" ],
+			[ "paragonas", "paragonás" ],
+			[ "paragona" ],
+			[ "paragonamos" ],
+			[ "paragonáis", "paragonan" ],
+			[ "paragonan" ]
+		],
+		"4" : [
+			[ "paragoné" ],
+			[ "paragonaste" ],
+			[ "paragonó" ],
+			[ "paragonamos" ],
+			[ "paragonasteis", "paragonaron" ],
+			[ "paragonaron" ]
+		],
+		"5" : [
+			[ "paragonaba" ],
+			[ "paragonabas" ],
+			[ "paragonaba" ],
+			[ "paragonábamos" ],
+			[ "paragonabais", "paragonaban" ],
+			[ "paragonaban" ]
+		],
+		"6" : [
+			[ "paragonaría" ],
+			[ "paragonarías" ],
+			[ "paragonaría" ],
+			[ "paragonaríamos" ],
+			[ "paragonaríais", "paragonarían" ],
+			[ "paragonarían" ]
+		],
+		"7" : [
+			[ "paragonaré" ],
+			[ "paragonarás" ],
+			[ "paragonará" ],
+			[ "paragonaremos" ],
+			[ "paragonaréis", "paragonarán" ],
+			[ "paragonarán" ]
+		],
+		"8" : [
+			[ "paragone" ],
+			[ "paragones" ],
+			[ "paragone" ],
+			[ "paragonemos" ],
+			[ "paragonéis", "paragonen" ],
+			[ "paragonen" ]
+		],
+		"9" : [
+			[ "paragonara" ],
+			[ "paragonaras" ],
+			[ "paragonara" ],
+			[ "paragonáramos" ],
+			[ "paragonarais", "paragonaran" ],
+			[ "paragonaran" ]
+		],
+		"10" : [
+			[ "paragonase" ],
+			[ "paragonases" ],
+			[ "paragonase" ],
+			[ "paragonásemos" ],
+			[ "paragonaseis", "paragonasen" ],
+			[ "paragonasen" ]
+		],
+		"11" : [
+			[ "paragonare" ],
+			[ "paragonares" ],
+			[ "paragonare" ],
+			[ "paragonáremos" ],
+			[ "paragonareis", "paragonaren" ],
+			[ "paragonaren" ]
+		],
+		"12" : {
+			"1" : [ "paragona" ],
+			"2" : [ "paragone" ],
+			"3" : [ "paragonemos" ],
+			"4" : [ "paragonad" ],
+			"5" : [ "paragonen" ]
+		}
+	}
+}

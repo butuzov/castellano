@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enfaldar",
+	"word" : "enfaldar",
+	"infinitivo" : "enfaldar",
+	"participio" : [ "enfaldado" ],
+	"gerundio" : [ "enfaldando" ],
+	"tenses" : {
+		"3" : [
+			[ "enfaldo" ],
+			[ "enfaldas", "enfaldás" ],
+			[ "enfalda" ],
+			[ "enfaldamos" ],
+			[ "enfaldáis", "enfaldan" ],
+			[ "enfaldan" ]
+		],
+		"4" : [
+			[ "enfaldé" ],
+			[ "enfaldaste" ],
+			[ "enfaldó" ],
+			[ "enfaldamos" ],
+			[ "enfaldasteis", "enfaldaron" ],
+			[ "enfaldaron" ]
+		],
+		"5" : [
+			[ "enfaldaba" ],
+			[ "enfaldabas" ],
+			[ "enfaldaba" ],
+			[ "enfaldábamos" ],
+			[ "enfaldabais", "enfaldaban" ],
+			[ "enfaldaban" ]
+		],
+		"6" : [
+			[ "enfaldaría" ],
+			[ "enfaldarías" ],
+			[ "enfaldaría" ],
+			[ "enfaldaríamos" ],
+			[ "enfaldaríais", "enfaldarían" ],
+			[ "enfaldarían" ]
+		],
+		"7" : [
+			[ "enfaldaré" ],
+			[ "enfaldarás" ],
+			[ "enfaldará" ],
+			[ "enfaldaremos" ],
+			[ "enfaldaréis", "enfaldarán" ],
+			[ "enfaldarán" ]
+		],
+		"8" : [
+			[ "enfalde" ],
+			[ "enfaldes" ],
+			[ "enfalde" ],
+			[ "enfaldemos" ],
+			[ "enfaldéis", "enfalden" ],
+			[ "enfalden" ]
+		],
+		"9" : [
+			[ "enfaldara" ],
+			[ "enfaldaras" ],
+			[ "enfaldara" ],
+			[ "enfaldáramos" ],
+			[ "enfaldarais", "enfaldaran" ],
+			[ "enfaldaran" ]
+		],
+		"10" : [
+			[ "enfaldase" ],
+			[ "enfaldases" ],
+			[ "enfaldase" ],
+			[ "enfaldásemos" ],
+			[ "enfaldaseis", "enfaldasen" ],
+			[ "enfaldasen" ]
+		],
+		"11" : [
+			[ "enfaldare" ],
+			[ "enfaldares" ],
+			[ "enfaldare" ],
+			[ "enfaldáremos" ],
+			[ "enfaldareis", "enfaldaren" ],
+			[ "enfaldaren" ]
+		],
+		"12" : {
+			"1" : [ "enfalda" ],
+			"2" : [ "enfalde" ],
+			"3" : [ "enfaldemos" ],
+			"4" : [ "enfaldad" ],
+			"5" : [ "enfalden" ]
+		}
+	}
+}

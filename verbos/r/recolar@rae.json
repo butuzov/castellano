@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recolar",
+	"word" : "recolar",
+	"infinitivo" : "recolar",
+	"participio" : [ "recolado" ],
+	"gerundio" : [ "recolando" ],
+	"tenses" : {
+		"3" : [
+			[ "recuelo" ],
+			[ "recuelas", "recolás" ],
+			[ "recuela" ],
+			[ "recolamos" ],
+			[ "recoláis", "recuelan" ],
+			[ "recuelan" ]
+		],
+		"4" : [
+			[ "recolé" ],
+			[ "recolaste" ],
+			[ "recoló" ],
+			[ "recolamos" ],
+			[ "recolasteis", "recolaron" ],
+			[ "recolaron" ]
+		],
+		"5" : [
+			[ "recolaba" ],
+			[ "recolabas" ],
+			[ "recolaba" ],
+			[ "recolábamos" ],
+			[ "recolabais", "recolaban" ],
+			[ "recolaban" ]
+		],
+		"6" : [
+			[ "recolaría" ],
+			[ "recolarías" ],
+			[ "recolaría" ],
+			[ "recolaríamos" ],
+			[ "recolaríais", "recolarían" ],
+			[ "recolarían" ]
+		],
+		"7" : [
+			[ "recolaré" ],
+			[ "recolarás" ],
+			[ "recolará" ],
+			[ "recolaremos" ],
+			[ "recolaréis", "recolarán" ],
+			[ "recolarán" ]
+		],
+		"8" : [
+			[ "recuele" ],
+			[ "recueles" ],
+			[ "recuele" ],
+			[ "recolemos" ],
+			[ "recoléis", "recuelen" ],
+			[ "recuelen" ]
+		],
+		"9" : [
+			[ "recolara" ],
+			[ "recolaras" ],
+			[ "recolara" ],
+			[ "recoláramos" ],
+			[ "recolarais", "recolaran" ],
+			[ "recolaran" ]
+		],
+		"10" : [
+			[ "recolase" ],
+			[ "recolases" ],
+			[ "recolase" ],
+			[ "recolásemos" ],
+			[ "recolaseis", "recolasen" ],
+			[ "recolasen" ]
+		],
+		"11" : [
+			[ "recolare" ],
+			[ "recolares" ],
+			[ "recolare" ],
+			[ "recoláremos" ],
+			[ "recolareis", "recolaren" ],
+			[ "recolaren" ]
+		],
+		"12" : {
+			"1" : [ "recuela" ],
+			"2" : [ "recuele" ],
+			"3" : [ "recolemos" ],
+			"4" : [ "recolad" ],
+			"5" : [ "recuelen" ]
+		}
+	}
+}

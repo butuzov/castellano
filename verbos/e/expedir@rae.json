@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=expedir",
+	"word" : "expedir",
+	"infinitivo" : "expedir",
+	"participio" : [ "expedido" ],
+	"gerundio" : [ "expidiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "expido" ],
+			[ "expides", "expedís" ],
+			[ "expide" ],
+			[ "expedimos" ],
+			[ "expedís", "expiden" ],
+			[ "expiden" ]
+		],
+		"4" : [
+			[ "expedí" ],
+			[ "expediste" ],
+			[ "expidió" ],
+			[ "expedimos" ],
+			[ "expedisteis", "expidieron" ],
+			[ "expidieron" ]
+		],
+		"5" : [
+			[ "expedía" ],
+			[ "expedías" ],
+			[ "expedía" ],
+			[ "expedíamos" ],
+			[ "expedíais", "expedían" ],
+			[ "expedían" ]
+		],
+		"6" : [
+			[ "expediría" ],
+			[ "expedirías" ],
+			[ "expediría" ],
+			[ "expediríamos" ],
+			[ "expediríais", "expedirían" ],
+			[ "expedirían" ]
+		],
+		"7" : [
+			[ "expediré" ],
+			[ "expedirás" ],
+			[ "expedirá" ],
+			[ "expediremos" ],
+			[ "expediréis", "expedirán" ],
+			[ "expedirán" ]
+		],
+		"8" : [
+			[ "expida" ],
+			[ "expidas" ],
+			[ "expida" ],
+			[ "expidamos" ],
+			[ "expidáis", "expidan" ],
+			[ "expidan" ]
+		],
+		"9" : [
+			[ "expidiera" ],
+			[ "expidieras" ],
+			[ "expidiera" ],
+			[ "expidiéramos" ],
+			[ "expidierais", "expidieran" ],
+			[ "expidieran" ]
+		],
+		"10" : [
+			[ "expidiese" ],
+			[ "expidieses" ],
+			[ "expidiese" ],
+			[ "expidiésemos" ],
+			[ "expidieseis", "expidiesen" ],
+			[ "expidiesen" ]
+		],
+		"11" : [
+			[ "expidiere" ],
+			[ "expidieres" ],
+			[ "expidiere" ],
+			[ "expidiéremos" ],
+			[ "expidiereis", "expidieren" ],
+			[ "expidieren" ]
+		],
+		"12" : {
+			"1" : [ "expide" ],
+			"2" : [ "expida" ],
+			"3" : [ "expidamos" ],
+			"4" : [ "expedid" ],
+			"5" : [ "expidan" ]
+		}
+	}
+}

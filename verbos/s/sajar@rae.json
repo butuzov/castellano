@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sajar",
+	"word" : "sajar",
+	"infinitivo" : "sajar",
+	"participio" : [ "sajado" ],
+	"gerundio" : [ "sajando" ],
+	"tenses" : {
+		"3" : [
+			[ "sajo" ],
+			[ "sajas", "sajás" ],
+			[ "saja" ],
+			[ "sajamos" ],
+			[ "sajáis", "sajan" ],
+			[ "sajan" ]
+		],
+		"4" : [
+			[ "sajé" ],
+			[ "sajaste" ],
+			[ "sajó" ],
+			[ "sajamos" ],
+			[ "sajasteis", "sajaron" ],
+			[ "sajaron" ]
+		],
+		"5" : [
+			[ "sajaba" ],
+			[ "sajabas" ],
+			[ "sajaba" ],
+			[ "sajábamos" ],
+			[ "sajabais", "sajaban" ],
+			[ "sajaban" ]
+		],
+		"6" : [
+			[ "sajaría" ],
+			[ "sajarías" ],
+			[ "sajaría" ],
+			[ "sajaríamos" ],
+			[ "sajaríais", "sajarían" ],
+			[ "sajarían" ]
+		],
+		"7" : [
+			[ "sajaré" ],
+			[ "sajarás" ],
+			[ "sajará" ],
+			[ "sajaremos" ],
+			[ "sajaréis", "sajarán" ],
+			[ "sajarán" ]
+		],
+		"8" : [
+			[ "saje" ],
+			[ "sajes" ],
+			[ "saje" ],
+			[ "sajemos" ],
+			[ "sajéis", "sajen" ],
+			[ "sajen" ]
+		],
+		"9" : [
+			[ "sajara" ],
+			[ "sajaras" ],
+			[ "sajara" ],
+			[ "sajáramos" ],
+			[ "sajarais", "sajaran" ],
+			[ "sajaran" ]
+		],
+		"10" : [
+			[ "sajase" ],
+			[ "sajases" ],
+			[ "sajase" ],
+			[ "sajásemos" ],
+			[ "sajaseis", "sajasen" ],
+			[ "sajasen" ]
+		],
+		"11" : [
+			[ "sajare" ],
+			[ "sajares" ],
+			[ "sajare" ],
+			[ "sajáremos" ],
+			[ "sajareis", "sajaren" ],
+			[ "sajaren" ]
+		],
+		"12" : {
+			"1" : [ "saja" ],
+			"2" : [ "saje" ],
+			"3" : [ "sajemos" ],
+			"4" : [ "sajad" ],
+			"5" : [ "sajen" ]
+		}
+	}
+}

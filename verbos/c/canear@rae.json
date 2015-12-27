@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=canear",
+	"word" : "canear",
+	"infinitivo" : "canear",
+	"participio" : [ "caneado" ],
+	"gerundio" : [ "caneando" ],
+	"tenses" : {
+		"3" : [
+			[ "caneo" ],
+			[ "caneas", "caneás" ],
+			[ "canea" ],
+			[ "caneamos" ],
+			[ "caneáis", "canean" ],
+			[ "canean" ]
+		],
+		"4" : [
+			[ "caneé" ],
+			[ "caneaste" ],
+			[ "caneó" ],
+			[ "caneamos" ],
+			[ "caneasteis", "canearon" ],
+			[ "canearon" ]
+		],
+		"5" : [
+			[ "caneaba" ],
+			[ "caneabas" ],
+			[ "caneaba" ],
+			[ "caneábamos" ],
+			[ "caneabais", "caneaban" ],
+			[ "caneaban" ]
+		],
+		"6" : [
+			[ "canearía" ],
+			[ "canearías" ],
+			[ "canearía" ],
+			[ "canearíamos" ],
+			[ "canearíais", "canearían" ],
+			[ "canearían" ]
+		],
+		"7" : [
+			[ "canearé" ],
+			[ "canearás" ],
+			[ "caneará" ],
+			[ "canearemos" ],
+			[ "canearéis", "canearán" ],
+			[ "canearán" ]
+		],
+		"8" : [
+			[ "canee" ],
+			[ "canees" ],
+			[ "canee" ],
+			[ "caneemos" ],
+			[ "caneéis", "caneen" ],
+			[ "caneen" ]
+		],
+		"9" : [
+			[ "caneara" ],
+			[ "canearas" ],
+			[ "caneara" ],
+			[ "caneáramos" ],
+			[ "canearais", "canearan" ],
+			[ "canearan" ]
+		],
+		"10" : [
+			[ "canease" ],
+			[ "caneases" ],
+			[ "canease" ],
+			[ "caneásemos" ],
+			[ "caneaseis", "caneasen" ],
+			[ "caneasen" ]
+		],
+		"11" : [
+			[ "caneare" ],
+			[ "caneares" ],
+			[ "caneare" ],
+			[ "caneáremos" ],
+			[ "caneareis", "canearen" ],
+			[ "canearen" ]
+		],
+		"12" : {
+			"1" : [ "canea" ],
+			"2" : [ "canee" ],
+			"3" : [ "caneemos" ],
+			"4" : [ "canead" ],
+			"5" : [ "caneen" ]
+		}
+	}
+}

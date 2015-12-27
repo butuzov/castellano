@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sincerar",
+	"word" : "sincerar",
+	"infinitivo" : "sincerar",
+	"participio" : [ "sincerado" ],
+	"gerundio" : [ "sincerando" ],
+	"tenses" : {
+		"3" : [
+			[ "sincero" ],
+			[ "sinceras", "sincerás" ],
+			[ "sincera" ],
+			[ "sinceramos" ],
+			[ "sinceráis", "sinceran" ],
+			[ "sinceran" ]
+		],
+		"4" : [
+			[ "sinceré" ],
+			[ "sinceraste" ],
+			[ "sinceró" ],
+			[ "sinceramos" ],
+			[ "sincerasteis", "sinceraron" ],
+			[ "sinceraron" ]
+		],
+		"5" : [
+			[ "sinceraba" ],
+			[ "sincerabas" ],
+			[ "sinceraba" ],
+			[ "sincerábamos" ],
+			[ "sincerabais", "sinceraban" ],
+			[ "sinceraban" ]
+		],
+		"6" : [
+			[ "sinceraría" ],
+			[ "sincerarías" ],
+			[ "sinceraría" ],
+			[ "sinceraríamos" ],
+			[ "sinceraríais", "sincerarían" ],
+			[ "sincerarían" ]
+		],
+		"7" : [
+			[ "sinceraré" ],
+			[ "sincerarás" ],
+			[ "sincerará" ],
+			[ "sinceraremos" ],
+			[ "sinceraréis", "sincerarán" ],
+			[ "sincerarán" ]
+		],
+		"8" : [
+			[ "sincere" ],
+			[ "sinceres" ],
+			[ "sincere" ],
+			[ "sinceremos" ],
+			[ "sinceréis", "sinceren" ],
+			[ "sinceren" ]
+		],
+		"9" : [
+			[ "sincerara" ],
+			[ "sinceraras" ],
+			[ "sincerara" ],
+			[ "sinceráramos" ],
+			[ "sincerarais", "sinceraran" ],
+			[ "sinceraran" ]
+		],
+		"10" : [
+			[ "sincerase" ],
+			[ "sincerases" ],
+			[ "sincerase" ],
+			[ "sincerásemos" ],
+			[ "sinceraseis", "sincerasen" ],
+			[ "sincerasen" ]
+		],
+		"11" : [
+			[ "sincerare" ],
+			[ "sincerares" ],
+			[ "sincerare" ],
+			[ "sinceráremos" ],
+			[ "sincerareis", "sinceraren" ],
+			[ "sinceraren" ]
+		],
+		"12" : {
+			"1" : [ "sincera" ],
+			"2" : [ "sincere" ],
+			"3" : [ "sinceremos" ],
+			"4" : [ "sincerad" ],
+			"5" : [ "sinceren" ]
+		}
+	}
+}

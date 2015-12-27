@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pajear",
+	"word" : "pajear",
+	"infinitivo" : "pajear",
+	"participio" : [ "pajeado" ],
+	"gerundio" : [ "pajeando" ],
+	"tenses" : {
+		"3" : [
+			[ "pajeo" ],
+			[ "pajeas", "pajeás" ],
+			[ "pajea" ],
+			[ "pajeamos" ],
+			[ "pajeáis", "pajean" ],
+			[ "pajean" ]
+		],
+		"4" : [
+			[ "pajeé" ],
+			[ "pajeaste" ],
+			[ "pajeó" ],
+			[ "pajeamos" ],
+			[ "pajeasteis", "pajearon" ],
+			[ "pajearon" ]
+		],
+		"5" : [
+			[ "pajeaba" ],
+			[ "pajeabas" ],
+			[ "pajeaba" ],
+			[ "pajeábamos" ],
+			[ "pajeabais", "pajeaban" ],
+			[ "pajeaban" ]
+		],
+		"6" : [
+			[ "pajearía" ],
+			[ "pajearías" ],
+			[ "pajearía" ],
+			[ "pajearíamos" ],
+			[ "pajearíais", "pajearían" ],
+			[ "pajearían" ]
+		],
+		"7" : [
+			[ "pajearé" ],
+			[ "pajearás" ],
+			[ "pajeará" ],
+			[ "pajearemos" ],
+			[ "pajearéis", "pajearán" ],
+			[ "pajearán" ]
+		],
+		"8" : [
+			[ "pajee" ],
+			[ "pajees" ],
+			[ "pajee" ],
+			[ "pajeemos" ],
+			[ "pajeéis", "pajeen" ],
+			[ "pajeen" ]
+		],
+		"9" : [
+			[ "pajeara" ],
+			[ "pajearas" ],
+			[ "pajeara" ],
+			[ "pajeáramos" ],
+			[ "pajearais", "pajearan" ],
+			[ "pajearan" ]
+		],
+		"10" : [
+			[ "pajease" ],
+			[ "pajeases" ],
+			[ "pajease" ],
+			[ "pajeásemos" ],
+			[ "pajeaseis", "pajeasen" ],
+			[ "pajeasen" ]
+		],
+		"11" : [
+			[ "pajeare" ],
+			[ "pajeares" ],
+			[ "pajeare" ],
+			[ "pajeáremos" ],
+			[ "pajeareis", "pajearen" ],
+			[ "pajearen" ]
+		],
+		"12" : {
+			"1" : [ "pajea" ],
+			"2" : [ "pajee" ],
+			"3" : [ "pajeemos" ],
+			"4" : [ "pajead" ],
+			"5" : [ "pajeen" ]
+		}
+	}
+}

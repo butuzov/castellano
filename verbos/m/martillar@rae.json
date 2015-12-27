@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=martillar",
+	"word" : "martillar",
+	"infinitivo" : "martillar",
+	"participio" : [ "martillado" ],
+	"gerundio" : [ "martillando" ],
+	"tenses" : {
+		"3" : [
+			[ "martillo" ],
+			[ "martillas", "martillás" ],
+			[ "martilla" ],
+			[ "martillamos" ],
+			[ "martilláis", "martillan" ],
+			[ "martillan" ]
+		],
+		"4" : [
+			[ "martillé" ],
+			[ "martillaste" ],
+			[ "martilló" ],
+			[ "martillamos" ],
+			[ "martillasteis", "martillaron" ],
+			[ "martillaron" ]
+		],
+		"5" : [
+			[ "martillaba" ],
+			[ "martillabas" ],
+			[ "martillaba" ],
+			[ "martillábamos" ],
+			[ "martillabais", "martillaban" ],
+			[ "martillaban" ]
+		],
+		"6" : [
+			[ "martillaría" ],
+			[ "martillarías" ],
+			[ "martillaría" ],
+			[ "martillaríamos" ],
+			[ "martillaríais", "martillarían" ],
+			[ "martillarían" ]
+		],
+		"7" : [
+			[ "martillaré" ],
+			[ "martillarás" ],
+			[ "martillará" ],
+			[ "martillaremos" ],
+			[ "martillaréis", "martillarán" ],
+			[ "martillarán" ]
+		],
+		"8" : [
+			[ "martille" ],
+			[ "martilles" ],
+			[ "martille" ],
+			[ "martillemos" ],
+			[ "martilléis", "martillen" ],
+			[ "martillen" ]
+		],
+		"9" : [
+			[ "martillara" ],
+			[ "martillaras" ],
+			[ "martillara" ],
+			[ "martilláramos" ],
+			[ "martillarais", "martillaran" ],
+			[ "martillaran" ]
+		],
+		"10" : [
+			[ "martillase" ],
+			[ "martillases" ],
+			[ "martillase" ],
+			[ "martillásemos" ],
+			[ "martillaseis", "martillasen" ],
+			[ "martillasen" ]
+		],
+		"11" : [
+			[ "martillare" ],
+			[ "martillares" ],
+			[ "martillare" ],
+			[ "martilláremos" ],
+			[ "martillareis", "martillaren" ],
+			[ "martillaren" ]
+		],
+		"12" : {
+			"1" : [ "martilla" ],
+			"2" : [ "martille" ],
+			"3" : [ "martillemos" ],
+			"4" : [ "martillad" ],
+			"5" : [ "martillen" ]
+		}
+	}
+}

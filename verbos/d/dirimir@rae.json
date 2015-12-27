@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dirimir",
+	"word" : "dirimir",
+	"infinitivo" : "dirimir",
+	"participio" : [ "dirimido" ],
+	"gerundio" : [ "dirimiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "dirimo" ],
+			[ "dirimes", "dirimís" ],
+			[ "dirime" ],
+			[ "dirimimos" ],
+			[ "dirimís", "dirimen" ],
+			[ "dirimen" ]
+		],
+		"4" : [
+			[ "dirimí" ],
+			[ "dirimiste" ],
+			[ "dirimió" ],
+			[ "dirimimos" ],
+			[ "dirimisteis", "dirimieron" ],
+			[ "dirimieron" ]
+		],
+		"5" : [
+			[ "dirimía" ],
+			[ "dirimías" ],
+			[ "dirimía" ],
+			[ "dirimíamos" ],
+			[ "dirimíais", "dirimían" ],
+			[ "dirimían" ]
+		],
+		"6" : [
+			[ "dirimiría" ],
+			[ "dirimirías" ],
+			[ "dirimiría" ],
+			[ "dirimiríamos" ],
+			[ "dirimiríais", "dirimirían" ],
+			[ "dirimirían" ]
+		],
+		"7" : [
+			[ "dirimiré" ],
+			[ "dirimirás" ],
+			[ "dirimirá" ],
+			[ "dirimiremos" ],
+			[ "dirimiréis", "dirimirán" ],
+			[ "dirimirán" ]
+		],
+		"8" : [
+			[ "dirima" ],
+			[ "dirimas" ],
+			[ "dirima" ],
+			[ "dirimamos" ],
+			[ "dirimáis", "diriman" ],
+			[ "diriman" ]
+		],
+		"9" : [
+			[ "dirimiera" ],
+			[ "dirimieras" ],
+			[ "dirimiera" ],
+			[ "dirimiéramos" ],
+			[ "dirimierais", "dirimieran" ],
+			[ "dirimieran" ]
+		],
+		"10" : [
+			[ "dirimiese" ],
+			[ "dirimieses" ],
+			[ "dirimiese" ],
+			[ "dirimiésemos" ],
+			[ "dirimieseis", "dirimiesen" ],
+			[ "dirimiesen" ]
+		],
+		"11" : [
+			[ "dirimiere" ],
+			[ "dirimieres" ],
+			[ "dirimiere" ],
+			[ "dirimiéremos" ],
+			[ "dirimiereis", "dirimieren" ],
+			[ "dirimieren" ]
+		],
+		"12" : {
+			"1" : [ "dirime" ],
+			"2" : [ "dirima" ],
+			"3" : [ "dirimamos" ],
+			"4" : [ "dirimid" ],
+			"5" : [ "diriman" ]
+		}
+	}
+}

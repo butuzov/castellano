@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rimar",
+	"word" : "rimar",
+	"infinitivo" : "rimar",
+	"participio" : [ "rimado" ],
+	"gerundio" : [ "rimando" ],
+	"tenses" : {
+		"3" : [
+			[ "rimo" ],
+			[ "rimas", "rimás" ],
+			[ "rima" ],
+			[ "rimamos" ],
+			[ "rimáis", "riman" ],
+			[ "riman" ]
+		],
+		"4" : [
+			[ "rimé" ],
+			[ "rimaste" ],
+			[ "rimó" ],
+			[ "rimamos" ],
+			[ "rimasteis", "rimaron" ],
+			[ "rimaron" ]
+		],
+		"5" : [
+			[ "rimaba" ],
+			[ "rimabas" ],
+			[ "rimaba" ],
+			[ "rimábamos" ],
+			[ "rimabais", "rimaban" ],
+			[ "rimaban" ]
+		],
+		"6" : [
+			[ "rimaría" ],
+			[ "rimarías" ],
+			[ "rimaría" ],
+			[ "rimaríamos" ],
+			[ "rimaríais", "rimarían" ],
+			[ "rimarían" ]
+		],
+		"7" : [
+			[ "rimaré" ],
+			[ "rimarás" ],
+			[ "rimará" ],
+			[ "rimaremos" ],
+			[ "rimaréis", "rimarán" ],
+			[ "rimarán" ]
+		],
+		"8" : [
+			[ "rime" ],
+			[ "rimes" ],
+			[ "rime" ],
+			[ "rimemos" ],
+			[ "riméis", "rimen" ],
+			[ "rimen" ]
+		],
+		"9" : [
+			[ "rimara" ],
+			[ "rimaras" ],
+			[ "rimara" ],
+			[ "rimáramos" ],
+			[ "rimarais", "rimaran" ],
+			[ "rimaran" ]
+		],
+		"10" : [
+			[ "rimase" ],
+			[ "rimases" ],
+			[ "rimase" ],
+			[ "rimásemos" ],
+			[ "rimaseis", "rimasen" ],
+			[ "rimasen" ]
+		],
+		"11" : [
+			[ "rimare" ],
+			[ "rimares" ],
+			[ "rimare" ],
+			[ "rimáremos" ],
+			[ "rimareis", "rimaren" ],
+			[ "rimaren" ]
+		],
+		"12" : {
+			"1" : [ "rima" ],
+			"2" : [ "rime" ],
+			"3" : [ "rimemos" ],
+			"4" : [ "rimad" ],
+			"5" : [ "rimen" ]
+		}
+	}
+}

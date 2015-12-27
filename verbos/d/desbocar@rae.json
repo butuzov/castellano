@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desbocar",
+	"word" : "desbocar",
+	"infinitivo" : "desbocar",
+	"participio" : [ "desbocado" ],
+	"gerundio" : [ "desbocando" ],
+	"tenses" : {
+		"3" : [
+			[ "desboco" ],
+			[ "desbocas", "desbocás" ],
+			[ "desboca" ],
+			[ "desbocamos" ],
+			[ "desbocáis", "desbocan" ],
+			[ "desbocan" ]
+		],
+		"4" : [
+			[ "desboqué" ],
+			[ "desbocaste" ],
+			[ "desbocó" ],
+			[ "desbocamos" ],
+			[ "desbocasteis", "desbocaron" ],
+			[ "desbocaron" ]
+		],
+		"5" : [
+			[ "desbocaba" ],
+			[ "desbocabas" ],
+			[ "desbocaba" ],
+			[ "desbocábamos" ],
+			[ "desbocabais", "desbocaban" ],
+			[ "desbocaban" ]
+		],
+		"6" : [
+			[ "desbocaría" ],
+			[ "desbocarías" ],
+			[ "desbocaría" ],
+			[ "desbocaríamos" ],
+			[ "desbocaríais", "desbocarían" ],
+			[ "desbocarían" ]
+		],
+		"7" : [
+			[ "desbocaré" ],
+			[ "desbocarás" ],
+			[ "desbocará" ],
+			[ "desbocaremos" ],
+			[ "desbocaréis", "desbocarán" ],
+			[ "desbocarán" ]
+		],
+		"8" : [
+			[ "desboque" ],
+			[ "desboques" ],
+			[ "desboque" ],
+			[ "desboquemos" ],
+			[ "desboquéis", "desboquen" ],
+			[ "desboquen" ]
+		],
+		"9" : [
+			[ "desbocara" ],
+			[ "desbocaras" ],
+			[ "desbocara" ],
+			[ "desbocáramos" ],
+			[ "desbocarais", "desbocaran" ],
+			[ "desbocaran" ]
+		],
+		"10" : [
+			[ "desbocase" ],
+			[ "desbocases" ],
+			[ "desbocase" ],
+			[ "desbocásemos" ],
+			[ "desbocaseis", "desbocasen" ],
+			[ "desbocasen" ]
+		],
+		"11" : [
+			[ "desbocare" ],
+			[ "desbocares" ],
+			[ "desbocare" ],
+			[ "desbocáremos" ],
+			[ "desbocareis", "desbocaren" ],
+			[ "desbocaren" ]
+		],
+		"12" : {
+			"1" : [ "desboca" ],
+			"2" : [ "desboque" ],
+			"3" : [ "desboquemos" ],
+			"4" : [ "desbocad" ],
+			"5" : [ "desboquen" ]
+		}
+	}
+}

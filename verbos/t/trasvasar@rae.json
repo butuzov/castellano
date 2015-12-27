@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trasvasar",
+	"word" : "trasvasar",
+	"infinitivo" : "trasvasar",
+	"participio" : [ "trasvasado" ],
+	"gerundio" : [ "trasvasando" ],
+	"tenses" : {
+		"3" : [
+			[ "trasvaso" ],
+			[ "trasvasas", "trasvasás" ],
+			[ "trasvasa" ],
+			[ "trasvasamos" ],
+			[ "trasvasáis", "trasvasan" ],
+			[ "trasvasan" ]
+		],
+		"4" : [
+			[ "trasvasé" ],
+			[ "trasvasaste" ],
+			[ "trasvasó" ],
+			[ "trasvasamos" ],
+			[ "trasvasasteis", "trasvasaron" ],
+			[ "trasvasaron" ]
+		],
+		"5" : [
+			[ "trasvasaba" ],
+			[ "trasvasabas" ],
+			[ "trasvasaba" ],
+			[ "trasvasábamos" ],
+			[ "trasvasabais", "trasvasaban" ],
+			[ "trasvasaban" ]
+		],
+		"6" : [
+			[ "trasvasaría" ],
+			[ "trasvasarías" ],
+			[ "trasvasaría" ],
+			[ "trasvasaríamos" ],
+			[ "trasvasaríais", "trasvasarían" ],
+			[ "trasvasarían" ]
+		],
+		"7" : [
+			[ "trasvasaré" ],
+			[ "trasvasarás" ],
+			[ "trasvasará" ],
+			[ "trasvasaremos" ],
+			[ "trasvasaréis", "trasvasarán" ],
+			[ "trasvasarán" ]
+		],
+		"8" : [
+			[ "trasvase" ],
+			[ "trasvases" ],
+			[ "trasvase" ],
+			[ "trasvasemos" ],
+			[ "trasvaséis", "trasvasen" ],
+			[ "trasvasen" ]
+		],
+		"9" : [
+			[ "trasvasara" ],
+			[ "trasvasaras" ],
+			[ "trasvasara" ],
+			[ "trasvasáramos" ],
+			[ "trasvasarais", "trasvasaran" ],
+			[ "trasvasaran" ]
+		],
+		"10" : [
+			[ "trasvasase" ],
+			[ "trasvasases" ],
+			[ "trasvasase" ],
+			[ "trasvasásemos" ],
+			[ "trasvasaseis", "trasvasasen" ],
+			[ "trasvasasen" ]
+		],
+		"11" : [
+			[ "trasvasare" ],
+			[ "trasvasares" ],
+			[ "trasvasare" ],
+			[ "trasvasáremos" ],
+			[ "trasvasareis", "trasvasaren" ],
+			[ "trasvasaren" ]
+		],
+		"12" : {
+			"1" : [ "trasvasa" ],
+			"2" : [ "trasvase" ],
+			"3" : [ "trasvasemos" ],
+			"4" : [ "trasvasad" ],
+			"5" : [ "trasvasen" ]
+		}
+	}
+}

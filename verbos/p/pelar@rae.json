@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pelar",
+	"word" : "pelar",
+	"infinitivo" : "pelar",
+	"participio" : [ "pelado" ],
+	"gerundio" : [ "pelando" ],
+	"tenses" : {
+		"3" : [
+			[ "pelo" ],
+			[ "pelas", "pelás" ],
+			[ "pela" ],
+			[ "pelamos" ],
+			[ "peláis", "pelan" ],
+			[ "pelan" ]
+		],
+		"4" : [
+			[ "pelé" ],
+			[ "pelaste" ],
+			[ "peló" ],
+			[ "pelamos" ],
+			[ "pelasteis", "pelaron" ],
+			[ "pelaron" ]
+		],
+		"5" : [
+			[ "pelaba" ],
+			[ "pelabas" ],
+			[ "pelaba" ],
+			[ "pelábamos" ],
+			[ "pelabais", "pelaban" ],
+			[ "pelaban" ]
+		],
+		"6" : [
+			[ "pelaría" ],
+			[ "pelarías" ],
+			[ "pelaría" ],
+			[ "pelaríamos" ],
+			[ "pelaríais", "pelarían" ],
+			[ "pelarían" ]
+		],
+		"7" : [
+			[ "pelaré" ],
+			[ "pelarás" ],
+			[ "pelará" ],
+			[ "pelaremos" ],
+			[ "pelaréis", "pelarán" ],
+			[ "pelarán" ]
+		],
+		"8" : [
+			[ "pele" ],
+			[ "peles" ],
+			[ "pele" ],
+			[ "pelemos" ],
+			[ "peléis", "pelen" ],
+			[ "pelen" ]
+		],
+		"9" : [
+			[ "pelara" ],
+			[ "pelaras" ],
+			[ "pelara" ],
+			[ "peláramos" ],
+			[ "pelarais", "pelaran" ],
+			[ "pelaran" ]
+		],
+		"10" : [
+			[ "pelase" ],
+			[ "pelases" ],
+			[ "pelase" ],
+			[ "pelásemos" ],
+			[ "pelaseis", "pelasen" ],
+			[ "pelasen" ]
+		],
+		"11" : [
+			[ "pelare" ],
+			[ "pelares" ],
+			[ "pelare" ],
+			[ "peláremos" ],
+			[ "pelareis", "pelaren" ],
+			[ "pelaren" ]
+		],
+		"12" : {
+			"1" : [ "pela" ],
+			"2" : [ "pele" ],
+			"3" : [ "pelemos" ],
+			"4" : [ "pelad" ],
+			"5" : [ "pelen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=construir",
+	"word" : "construir",
+	"infinitivo" : "construir",
+	"participio" : [ "construido" ],
+	"gerundio" : [ "construyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "construyo" ],
+			[ "construyes", "construís" ],
+			[ "construye" ],
+			[ "construimos" ],
+			[ "construís", "construyen" ],
+			[ "construyen" ]
+		],
+		"4" : [
+			[ "construí" ],
+			[ "construiste" ],
+			[ "construyó" ],
+			[ "construimos" ],
+			[ "construisteis", "construyeron" ],
+			[ "construyeron" ]
+		],
+		"5" : [
+			[ "construía" ],
+			[ "construías" ],
+			[ "construía" ],
+			[ "construíamos" ],
+			[ "construíais", "construían" ],
+			[ "construían" ]
+		],
+		"6" : [
+			[ "construiría" ],
+			[ "construirías" ],
+			[ "construiría" ],
+			[ "construiríamos" ],
+			[ "construiríais", "construirían" ],
+			[ "construirían" ]
+		],
+		"7" : [
+			[ "construiré" ],
+			[ "construirás" ],
+			[ "construirá" ],
+			[ "construiremos" ],
+			[ "construiréis", "construirán" ],
+			[ "construirán" ]
+		],
+		"8" : [
+			[ "construya" ],
+			[ "construyas" ],
+			[ "construya" ],
+			[ "construyamos" ],
+			[ "construyáis", "construyan" ],
+			[ "construyan" ]
+		],
+		"9" : [
+			[ "construyera" ],
+			[ "construyeras" ],
+			[ "construyera" ],
+			[ "construyéramos" ],
+			[ "construyerais", "construyeran" ],
+			[ "construyeran" ]
+		],
+		"10" : [
+			[ "construyese" ],
+			[ "construyeses" ],
+			[ "construyese" ],
+			[ "construyésemos" ],
+			[ "construyeseis", "construyesen" ],
+			[ "construyesen" ]
+		],
+		"11" : [
+			[ "construyere" ],
+			[ "construyeres" ],
+			[ "construyere" ],
+			[ "construyéremos" ],
+			[ "construyereis", "construyeren" ],
+			[ "construyeren" ]
+		],
+		"12" : {
+			"1" : [ "construye" ],
+			"2" : [ "construya" ],
+			"3" : [ "construyamos" ],
+			"4" : [ "construid" ],
+			"5" : [ "construyan" ]
+		}
+	}
+}

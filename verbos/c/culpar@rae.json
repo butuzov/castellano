@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=culpar",
+	"word" : "culpar",
+	"infinitivo" : "culpar",
+	"participio" : [ "culpado" ],
+	"gerundio" : [ "culpando" ],
+	"tenses" : {
+		"3" : [
+			[ "culpo" ],
+			[ "culpas", "culpás" ],
+			[ "culpa" ],
+			[ "culpamos" ],
+			[ "culpáis", "culpan" ],
+			[ "culpan" ]
+		],
+		"4" : [
+			[ "culpé" ],
+			[ "culpaste" ],
+			[ "culpó" ],
+			[ "culpamos" ],
+			[ "culpasteis", "culparon" ],
+			[ "culparon" ]
+		],
+		"5" : [
+			[ "culpaba" ],
+			[ "culpabas" ],
+			[ "culpaba" ],
+			[ "culpábamos" ],
+			[ "culpabais", "culpaban" ],
+			[ "culpaban" ]
+		],
+		"6" : [
+			[ "culparía" ],
+			[ "culparías" ],
+			[ "culparía" ],
+			[ "culparíamos" ],
+			[ "culparíais", "culparían" ],
+			[ "culparían" ]
+		],
+		"7" : [
+			[ "culparé" ],
+			[ "culparás" ],
+			[ "culpará" ],
+			[ "culparemos" ],
+			[ "culparéis", "culparán" ],
+			[ "culparán" ]
+		],
+		"8" : [
+			[ "culpe" ],
+			[ "culpes" ],
+			[ "culpe" ],
+			[ "culpemos" ],
+			[ "culpéis", "culpen" ],
+			[ "culpen" ]
+		],
+		"9" : [
+			[ "culpara" ],
+			[ "culparas" ],
+			[ "culpara" ],
+			[ "culpáramos" ],
+			[ "culparais", "culparan" ],
+			[ "culparan" ]
+		],
+		"10" : [
+			[ "culpase" ],
+			[ "culpases" ],
+			[ "culpase" ],
+			[ "culpásemos" ],
+			[ "culpaseis", "culpasen" ],
+			[ "culpasen" ]
+		],
+		"11" : [
+			[ "culpare" ],
+			[ "culpares" ],
+			[ "culpare" ],
+			[ "culpáremos" ],
+			[ "culpareis", "culparen" ],
+			[ "culparen" ]
+		],
+		"12" : {
+			"1" : [ "culpa" ],
+			"2" : [ "culpe" ],
+			"3" : [ "culpemos" ],
+			"4" : [ "culpad" ],
+			"5" : [ "culpen" ]
+		}
+	}
+}

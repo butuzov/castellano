@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=polarizar",
+	"word" : "polarizar",
+	"infinitivo" : "polarizar",
+	"participio" : [ "polarizado" ],
+	"gerundio" : [ "polarizando" ],
+	"tenses" : {
+		"3" : [
+			[ "polarizo" ],
+			[ "polarizas", "polarizás" ],
+			[ "polariza" ],
+			[ "polarizamos" ],
+			[ "polarizáis", "polarizan" ],
+			[ "polarizan" ]
+		],
+		"4" : [
+			[ "polaricé" ],
+			[ "polarizaste" ],
+			[ "polarizó" ],
+			[ "polarizamos" ],
+			[ "polarizasteis", "polarizaron" ],
+			[ "polarizaron" ]
+		],
+		"5" : [
+			[ "polarizaba" ],
+			[ "polarizabas" ],
+			[ "polarizaba" ],
+			[ "polarizábamos" ],
+			[ "polarizabais", "polarizaban" ],
+			[ "polarizaban" ]
+		],
+		"6" : [
+			[ "polarizaría" ],
+			[ "polarizarías" ],
+			[ "polarizaría" ],
+			[ "polarizaríamos" ],
+			[ "polarizaríais", "polarizarían" ],
+			[ "polarizarían" ]
+		],
+		"7" : [
+			[ "polarizaré" ],
+			[ "polarizarás" ],
+			[ "polarizará" ],
+			[ "polarizaremos" ],
+			[ "polarizaréis", "polarizarán" ],
+			[ "polarizarán" ]
+		],
+		"8" : [
+			[ "polarice" ],
+			[ "polarices" ],
+			[ "polarice" ],
+			[ "polaricemos" ],
+			[ "polaricéis", "polaricen" ],
+			[ "polaricen" ]
+		],
+		"9" : [
+			[ "polarizara" ],
+			[ "polarizaras" ],
+			[ "polarizara" ],
+			[ "polarizáramos" ],
+			[ "polarizarais", "polarizaran" ],
+			[ "polarizaran" ]
+		],
+		"10" : [
+			[ "polarizase" ],
+			[ "polarizases" ],
+			[ "polarizase" ],
+			[ "polarizásemos" ],
+			[ "polarizaseis", "polarizasen" ],
+			[ "polarizasen" ]
+		],
+		"11" : [
+			[ "polarizare" ],
+			[ "polarizares" ],
+			[ "polarizare" ],
+			[ "polarizáremos" ],
+			[ "polarizareis", "polarizaren" ],
+			[ "polarizaren" ]
+		],
+		"12" : {
+			"1" : [ "polariza" ],
+			"2" : [ "polarice" ],
+			"3" : [ "polaricemos" ],
+			"4" : [ "polarizad" ],
+			"5" : [ "polaricen" ]
+		}
+	}
+}

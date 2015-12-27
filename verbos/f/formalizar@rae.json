@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=formalizar",
+	"word" : "formalizar",
+	"infinitivo" : "formalizar",
+	"participio" : [ "formalizado" ],
+	"gerundio" : [ "formalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "formalizo" ],
+			[ "formalizas", "formalizás" ],
+			[ "formaliza" ],
+			[ "formalizamos" ],
+			[ "formalizáis", "formalizan" ],
+			[ "formalizan" ]
+		],
+		"4" : [
+			[ "formalicé" ],
+			[ "formalizaste" ],
+			[ "formalizó" ],
+			[ "formalizamos" ],
+			[ "formalizasteis", "formalizaron" ],
+			[ "formalizaron" ]
+		],
+		"5" : [
+			[ "formalizaba" ],
+			[ "formalizabas" ],
+			[ "formalizaba" ],
+			[ "formalizábamos" ],
+			[ "formalizabais", "formalizaban" ],
+			[ "formalizaban" ]
+		],
+		"6" : [
+			[ "formalizaría" ],
+			[ "formalizarías" ],
+			[ "formalizaría" ],
+			[ "formalizaríamos" ],
+			[ "formalizaríais", "formalizarían" ],
+			[ "formalizarían" ]
+		],
+		"7" : [
+			[ "formalizaré" ],
+			[ "formalizarás" ],
+			[ "formalizará" ],
+			[ "formalizaremos" ],
+			[ "formalizaréis", "formalizarán" ],
+			[ "formalizarán" ]
+		],
+		"8" : [
+			[ "formalice" ],
+			[ "formalices" ],
+			[ "formalice" ],
+			[ "formalicemos" ],
+			[ "formalicéis", "formalicen" ],
+			[ "formalicen" ]
+		],
+		"9" : [
+			[ "formalizara" ],
+			[ "formalizaras" ],
+			[ "formalizara" ],
+			[ "formalizáramos" ],
+			[ "formalizarais", "formalizaran" ],
+			[ "formalizaran" ]
+		],
+		"10" : [
+			[ "formalizase" ],
+			[ "formalizases" ],
+			[ "formalizase" ],
+			[ "formalizásemos" ],
+			[ "formalizaseis", "formalizasen" ],
+			[ "formalizasen" ]
+		],
+		"11" : [
+			[ "formalizare" ],
+			[ "formalizares" ],
+			[ "formalizare" ],
+			[ "formalizáremos" ],
+			[ "formalizareis", "formalizaren" ],
+			[ "formalizaren" ]
+		],
+		"12" : {
+			"1" : [ "formaliza" ],
+			"2" : [ "formalice" ],
+			"3" : [ "formalicemos" ],
+			"4" : [ "formalizad" ],
+			"5" : [ "formalicen" ]
+		}
+	}
+}

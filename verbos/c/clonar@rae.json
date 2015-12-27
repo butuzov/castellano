@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=clonar",
+	"word" : "clonar",
+	"infinitivo" : "clonar",
+	"participio" : [ "clonado" ],
+	"gerundio" : [ "clonando" ],
+	"tenses" : {
+		"3" : [
+			[ "clono" ],
+			[ "clonas", "clonás" ],
+			[ "clona" ],
+			[ "clonamos" ],
+			[ "clonáis", "clonan" ],
+			[ "clonan" ]
+		],
+		"4" : [
+			[ "cloné" ],
+			[ "clonaste" ],
+			[ "clonó" ],
+			[ "clonamos" ],
+			[ "clonasteis", "clonaron" ],
+			[ "clonaron" ]
+		],
+		"5" : [
+			[ "clonaba" ],
+			[ "clonabas" ],
+			[ "clonaba" ],
+			[ "clonábamos" ],
+			[ "clonabais", "clonaban" ],
+			[ "clonaban" ]
+		],
+		"6" : [
+			[ "clonaría" ],
+			[ "clonarías" ],
+			[ "clonaría" ],
+			[ "clonaríamos" ],
+			[ "clonaríais", "clonarían" ],
+			[ "clonarían" ]
+		],
+		"7" : [
+			[ "clonaré" ],
+			[ "clonarás" ],
+			[ "clonará" ],
+			[ "clonaremos" ],
+			[ "clonaréis", "clonarán" ],
+			[ "clonarán" ]
+		],
+		"8" : [
+			[ "clone" ],
+			[ "clones" ],
+			[ "clone" ],
+			[ "clonemos" ],
+			[ "clonéis", "clonen" ],
+			[ "clonen" ]
+		],
+		"9" : [
+			[ "clonara" ],
+			[ "clonaras" ],
+			[ "clonara" ],
+			[ "clonáramos" ],
+			[ "clonarais", "clonaran" ],
+			[ "clonaran" ]
+		],
+		"10" : [
+			[ "clonase" ],
+			[ "clonases" ],
+			[ "clonase" ],
+			[ "clonásemos" ],
+			[ "clonaseis", "clonasen" ],
+			[ "clonasen" ]
+		],
+		"11" : [
+			[ "clonare" ],
+			[ "clonares" ],
+			[ "clonare" ],
+			[ "clonáremos" ],
+			[ "clonareis", "clonaren" ],
+			[ "clonaren" ]
+		],
+		"12" : {
+			"1" : [ "clona" ],
+			"2" : [ "clone" ],
+			"3" : [ "clonemos" ],
+			"4" : [ "clonad" ],
+			"5" : [ "clonen" ]
+		}
+	}
+}

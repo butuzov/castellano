@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vallar",
+	"word" : "vallar",
+	"infinitivo" : "vallar",
+	"participio" : [ "vallado" ],
+	"gerundio" : [ "vallando" ],
+	"tenses" : {
+		"3" : [
+			[ "vallo" ],
+			[ "vallas", "vallás" ],
+			[ "valla" ],
+			[ "vallamos" ],
+			[ "valláis", "vallan" ],
+			[ "vallan" ]
+		],
+		"4" : [
+			[ "vallé" ],
+			[ "vallaste" ],
+			[ "valló" ],
+			[ "vallamos" ],
+			[ "vallasteis", "vallaron" ],
+			[ "vallaron" ]
+		],
+		"5" : [
+			[ "vallaba" ],
+			[ "vallabas" ],
+			[ "vallaba" ],
+			[ "vallábamos" ],
+			[ "vallabais", "vallaban" ],
+			[ "vallaban" ]
+		],
+		"6" : [
+			[ "vallaría" ],
+			[ "vallarías" ],
+			[ "vallaría" ],
+			[ "vallaríamos" ],
+			[ "vallaríais", "vallarían" ],
+			[ "vallarían" ]
+		],
+		"7" : [
+			[ "vallaré" ],
+			[ "vallarás" ],
+			[ "vallará" ],
+			[ "vallaremos" ],
+			[ "vallaréis", "vallarán" ],
+			[ "vallarán" ]
+		],
+		"8" : [
+			[ "valle" ],
+			[ "valles" ],
+			[ "valle" ],
+			[ "vallemos" ],
+			[ "valléis", "vallen" ],
+			[ "vallen" ]
+		],
+		"9" : [
+			[ "vallara" ],
+			[ "vallaras" ],
+			[ "vallara" ],
+			[ "valláramos" ],
+			[ "vallarais", "vallaran" ],
+			[ "vallaran" ]
+		],
+		"10" : [
+			[ "vallase" ],
+			[ "vallases" ],
+			[ "vallase" ],
+			[ "vallásemos" ],
+			[ "vallaseis", "vallasen" ],
+			[ "vallasen" ]
+		],
+		"11" : [
+			[ "vallare" ],
+			[ "vallares" ],
+			[ "vallare" ],
+			[ "valláremos" ],
+			[ "vallareis", "vallaren" ],
+			[ "vallaren" ]
+		],
+		"12" : {
+			"1" : [ "valla" ],
+			"2" : [ "valle" ],
+			"3" : [ "vallemos" ],
+			"4" : [ "vallad" ],
+			"5" : [ "vallen" ]
+		}
+	}
+}

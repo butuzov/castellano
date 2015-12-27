@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=subdividir",
+	"word" : "subdividir",
+	"infinitivo" : "subdividir",
+	"participio" : [ "subdividido" ],
+	"gerundio" : [ "subdividiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "subdivido" ],
+			[ "subdivides", "subdividís" ],
+			[ "subdivide" ],
+			[ "subdividimos" ],
+			[ "subdividís", "subdividen" ],
+			[ "subdividen" ]
+		],
+		"4" : [
+			[ "subdividí" ],
+			[ "subdividiste" ],
+			[ "subdividió" ],
+			[ "subdividimos" ],
+			[ "subdividisteis", "subdividieron" ],
+			[ "subdividieron" ]
+		],
+		"5" : [
+			[ "subdividía" ],
+			[ "subdividías" ],
+			[ "subdividía" ],
+			[ "subdividíamos" ],
+			[ "subdividíais", "subdividían" ],
+			[ "subdividían" ]
+		],
+		"6" : [
+			[ "subdividiría" ],
+			[ "subdividirías" ],
+			[ "subdividiría" ],
+			[ "subdividiríamos" ],
+			[ "subdividiríais", "subdividirían" ],
+			[ "subdividirían" ]
+		],
+		"7" : [
+			[ "subdividiré" ],
+			[ "subdividirás" ],
+			[ "subdividirá" ],
+			[ "subdividiremos" ],
+			[ "subdividiréis", "subdividirán" ],
+			[ "subdividirán" ]
+		],
+		"8" : [
+			[ "subdivida" ],
+			[ "subdividas" ],
+			[ "subdivida" ],
+			[ "subdividamos" ],
+			[ "subdividáis", "subdividan" ],
+			[ "subdividan" ]
+		],
+		"9" : [
+			[ "subdividiera" ],
+			[ "subdividieras" ],
+			[ "subdividiera" ],
+			[ "subdividiéramos" ],
+			[ "subdividierais", "subdividieran" ],
+			[ "subdividieran" ]
+		],
+		"10" : [
+			[ "subdividiese" ],
+			[ "subdividieses" ],
+			[ "subdividiese" ],
+			[ "subdividiésemos" ],
+			[ "subdividieseis", "subdividiesen" ],
+			[ "subdividiesen" ]
+		],
+		"11" : [
+			[ "subdividiere" ],
+			[ "subdividieres" ],
+			[ "subdividiere" ],
+			[ "subdividiéremos" ],
+			[ "subdividiereis", "subdividieren" ],
+			[ "subdividieren" ]
+		],
+		"12" : {
+			"1" : [ "subdivide" ],
+			"2" : [ "subdivida" ],
+			"3" : [ "subdividamos" ],
+			"4" : [ "subdividid" ],
+			"5" : [ "subdividan" ]
+		}
+	}
+}

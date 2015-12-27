@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sazonar",
+	"word" : "sazonar",
+	"infinitivo" : "sazonar",
+	"participio" : [ "sazonado" ],
+	"gerundio" : [ "sazonando" ],
+	"tenses" : {
+		"3" : [
+			[ "sazono" ],
+			[ "sazonas", "sazonás" ],
+			[ "sazona" ],
+			[ "sazonamos" ],
+			[ "sazonáis", "sazonan" ],
+			[ "sazonan" ]
+		],
+		"4" : [
+			[ "sazoné" ],
+			[ "sazonaste" ],
+			[ "sazonó" ],
+			[ "sazonamos" ],
+			[ "sazonasteis", "sazonaron" ],
+			[ "sazonaron" ]
+		],
+		"5" : [
+			[ "sazonaba" ],
+			[ "sazonabas" ],
+			[ "sazonaba" ],
+			[ "sazonábamos" ],
+			[ "sazonabais", "sazonaban" ],
+			[ "sazonaban" ]
+		],
+		"6" : [
+			[ "sazonaría" ],
+			[ "sazonarías" ],
+			[ "sazonaría" ],
+			[ "sazonaríamos" ],
+			[ "sazonaríais", "sazonarían" ],
+			[ "sazonarían" ]
+		],
+		"7" : [
+			[ "sazonaré" ],
+			[ "sazonarás" ],
+			[ "sazonará" ],
+			[ "sazonaremos" ],
+			[ "sazonaréis", "sazonarán" ],
+			[ "sazonarán" ]
+		],
+		"8" : [
+			[ "sazone" ],
+			[ "sazones" ],
+			[ "sazone" ],
+			[ "sazonemos" ],
+			[ "sazonéis", "sazonen" ],
+			[ "sazonen" ]
+		],
+		"9" : [
+			[ "sazonara" ],
+			[ "sazonaras" ],
+			[ "sazonara" ],
+			[ "sazonáramos" ],
+			[ "sazonarais", "sazonaran" ],
+			[ "sazonaran" ]
+		],
+		"10" : [
+			[ "sazonase" ],
+			[ "sazonases" ],
+			[ "sazonase" ],
+			[ "sazonásemos" ],
+			[ "sazonaseis", "sazonasen" ],
+			[ "sazonasen" ]
+		],
+		"11" : [
+			[ "sazonare" ],
+			[ "sazonares" ],
+			[ "sazonare" ],
+			[ "sazonáremos" ],
+			[ "sazonareis", "sazonaren" ],
+			[ "sazonaren" ]
+		],
+		"12" : {
+			"1" : [ "sazona" ],
+			"2" : [ "sazone" ],
+			"3" : [ "sazonemos" ],
+			"4" : [ "sazonad" ],
+			"5" : [ "sazonen" ]
+		}
+	}
+}

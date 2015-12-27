@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=relevar",
+	"word" : "relevar",
+	"infinitivo" : "relevar",
+	"participio" : [ "relevado" ],
+	"gerundio" : [ "relevando" ],
+	"tenses" : {
+		"3" : [
+			[ "relevo" ],
+			[ "relevas", "relevás" ],
+			[ "releva" ],
+			[ "relevamos" ],
+			[ "releváis", "relevan" ],
+			[ "relevan" ]
+		],
+		"4" : [
+			[ "relevé" ],
+			[ "relevaste" ],
+			[ "relevó" ],
+			[ "relevamos" ],
+			[ "relevasteis", "relevaron" ],
+			[ "relevaron" ]
+		],
+		"5" : [
+			[ "relevaba" ],
+			[ "relevabas" ],
+			[ "relevaba" ],
+			[ "relevábamos" ],
+			[ "relevabais", "relevaban" ],
+			[ "relevaban" ]
+		],
+		"6" : [
+			[ "relevaría" ],
+			[ "relevarías" ],
+			[ "relevaría" ],
+			[ "relevaríamos" ],
+			[ "relevaríais", "relevarían" ],
+			[ "relevarían" ]
+		],
+		"7" : [
+			[ "relevaré" ],
+			[ "relevarás" ],
+			[ "relevará" ],
+			[ "relevaremos" ],
+			[ "relevaréis", "relevarán" ],
+			[ "relevarán" ]
+		],
+		"8" : [
+			[ "releve" ],
+			[ "releves" ],
+			[ "releve" ],
+			[ "relevemos" ],
+			[ "relevéis", "releven" ],
+			[ "releven" ]
+		],
+		"9" : [
+			[ "relevara" ],
+			[ "relevaras" ],
+			[ "relevara" ],
+			[ "releváramos" ],
+			[ "relevarais", "relevaran" ],
+			[ "relevaran" ]
+		],
+		"10" : [
+			[ "relevase" ],
+			[ "relevases" ],
+			[ "relevase" ],
+			[ "relevásemos" ],
+			[ "relevaseis", "relevasen" ],
+			[ "relevasen" ]
+		],
+		"11" : [
+			[ "relevare" ],
+			[ "relevares" ],
+			[ "relevare" ],
+			[ "releváremos" ],
+			[ "relevareis", "relevaren" ],
+			[ "relevaren" ]
+		],
+		"12" : {
+			"1" : [ "releva" ],
+			"2" : [ "releve" ],
+			"3" : [ "relevemos" ],
+			"4" : [ "relevad" ],
+			"5" : [ "releven" ]
+		}
+	}
+}

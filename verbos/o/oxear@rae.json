@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=oxear",
+	"word" : "oxear",
+	"infinitivo" : "oxear",
+	"participio" : [ "oxeado" ],
+	"gerundio" : [ "oxeando" ],
+	"tenses" : {
+		"3" : [
+			[ "oxeo" ],
+			[ "oxeas", "oxeás" ],
+			[ "oxea" ],
+			[ "oxeamos" ],
+			[ "oxeáis", "oxean" ],
+			[ "oxean" ]
+		],
+		"4" : [
+			[ "oxeé" ],
+			[ "oxeaste" ],
+			[ "oxeó" ],
+			[ "oxeamos" ],
+			[ "oxeasteis", "oxearon" ],
+			[ "oxearon" ]
+		],
+		"5" : [
+			[ "oxeaba" ],
+			[ "oxeabas" ],
+			[ "oxeaba" ],
+			[ "oxeábamos" ],
+			[ "oxeabais", "oxeaban" ],
+			[ "oxeaban" ]
+		],
+		"6" : [
+			[ "oxearía" ],
+			[ "oxearías" ],
+			[ "oxearía" ],
+			[ "oxearíamos" ],
+			[ "oxearíais", "oxearían" ],
+			[ "oxearían" ]
+		],
+		"7" : [
+			[ "oxearé" ],
+			[ "oxearás" ],
+			[ "oxeará" ],
+			[ "oxearemos" ],
+			[ "oxearéis", "oxearán" ],
+			[ "oxearán" ]
+		],
+		"8" : [
+			[ "oxee" ],
+			[ "oxees" ],
+			[ "oxee" ],
+			[ "oxeemos" ],
+			[ "oxeéis", "oxeen" ],
+			[ "oxeen" ]
+		],
+		"9" : [
+			[ "oxeara" ],
+			[ "oxearas" ],
+			[ "oxeara" ],
+			[ "oxeáramos" ],
+			[ "oxearais", "oxearan" ],
+			[ "oxearan" ]
+		],
+		"10" : [
+			[ "oxease" ],
+			[ "oxeases" ],
+			[ "oxease" ],
+			[ "oxeásemos" ],
+			[ "oxeaseis", "oxeasen" ],
+			[ "oxeasen" ]
+		],
+		"11" : [
+			[ "oxeare" ],
+			[ "oxeares" ],
+			[ "oxeare" ],
+			[ "oxeáremos" ],
+			[ "oxeareis", "oxearen" ],
+			[ "oxearen" ]
+		],
+		"12" : {
+			"1" : [ "oxea" ],
+			"2" : [ "oxee" ],
+			"3" : [ "oxeemos" ],
+			"4" : [ "oxead" ],
+			"5" : [ "oxeen" ]
+		}
+	}
+}

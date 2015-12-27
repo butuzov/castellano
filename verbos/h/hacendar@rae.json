@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hacendar",
+	"word" : "hacendar",
+	"infinitivo" : "hacendar",
+	"participio" : [ "hacendado" ],
+	"gerundio" : [ "hacendando" ],
+	"tenses" : {
+		"3" : [
+			[ "haciendo" ],
+			[ "haciendas", "hacendás" ],
+			[ "hacienda" ],
+			[ "hacendamos" ],
+			[ "hacendáis", "haciendan" ],
+			[ "haciendan" ]
+		],
+		"4" : [
+			[ "hacendé" ],
+			[ "hacendaste" ],
+			[ "hacendó" ],
+			[ "hacendamos" ],
+			[ "hacendasteis", "hacendaron" ],
+			[ "hacendaron" ]
+		],
+		"5" : [
+			[ "hacendaba" ],
+			[ "hacendabas" ],
+			[ "hacendaba" ],
+			[ "hacendábamos" ],
+			[ "hacendabais", "hacendaban" ],
+			[ "hacendaban" ]
+		],
+		"6" : [
+			[ "hacendaría" ],
+			[ "hacendarías" ],
+			[ "hacendaría" ],
+			[ "hacendaríamos" ],
+			[ "hacendaríais", "hacendarían" ],
+			[ "hacendarían" ]
+		],
+		"7" : [
+			[ "hacendaré" ],
+			[ "hacendarás" ],
+			[ "hacendará" ],
+			[ "hacendaremos" ],
+			[ "hacendaréis", "hacendarán" ],
+			[ "hacendarán" ]
+		],
+		"8" : [
+			[ "haciende" ],
+			[ "haciendes" ],
+			[ "haciende" ],
+			[ "hacendemos" ],
+			[ "hacendéis", "hacienden" ],
+			[ "hacienden" ]
+		],
+		"9" : [
+			[ "hacendara" ],
+			[ "hacendaras" ],
+			[ "hacendara" ],
+			[ "hacendáramos" ],
+			[ "hacendarais", "hacendaran" ],
+			[ "hacendaran" ]
+		],
+		"10" : [
+			[ "hacendase" ],
+			[ "hacendases" ],
+			[ "hacendase" ],
+			[ "hacendásemos" ],
+			[ "hacendaseis", "hacendasen" ],
+			[ "hacendasen" ]
+		],
+		"11" : [
+			[ "hacendare" ],
+			[ "hacendares" ],
+			[ "hacendare" ],
+			[ "hacendáremos" ],
+			[ "hacendareis", "hacendaren" ],
+			[ "hacendaren" ]
+		],
+		"12" : {
+			"1" : [ "hacienda" ],
+			"2" : [ "haciende" ],
+			"3" : [ "hacendemos" ],
+			"4" : [ "hacendad" ],
+			"5" : [ "hacienden" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=clamar",
+	"word" : "clamar",
+	"infinitivo" : "clamar",
+	"participio" : [ "clamado" ],
+	"gerundio" : [ "clamando" ],
+	"tenses" : {
+		"3" : [
+			[ "clamo" ],
+			[ "clamas", "clamás" ],
+			[ "clama" ],
+			[ "clamamos" ],
+			[ "clamáis", "claman" ],
+			[ "claman" ]
+		],
+		"4" : [
+			[ "clamé" ],
+			[ "clamaste" ],
+			[ "clamó" ],
+			[ "clamamos" ],
+			[ "clamasteis", "clamaron" ],
+			[ "clamaron" ]
+		],
+		"5" : [
+			[ "clamaba" ],
+			[ "clamabas" ],
+			[ "clamaba" ],
+			[ "clamábamos" ],
+			[ "clamabais", "clamaban" ],
+			[ "clamaban" ]
+		],
+		"6" : [
+			[ "clamaría" ],
+			[ "clamarías" ],
+			[ "clamaría" ],
+			[ "clamaríamos" ],
+			[ "clamaríais", "clamarían" ],
+			[ "clamarían" ]
+		],
+		"7" : [
+			[ "clamaré" ],
+			[ "clamarás" ],
+			[ "clamará" ],
+			[ "clamaremos" ],
+			[ "clamaréis", "clamarán" ],
+			[ "clamarán" ]
+		],
+		"8" : [
+			[ "clame" ],
+			[ "clames" ],
+			[ "clame" ],
+			[ "clamemos" ],
+			[ "claméis", "clamen" ],
+			[ "clamen" ]
+		],
+		"9" : [
+			[ "clamara" ],
+			[ "clamaras" ],
+			[ "clamara" ],
+			[ "clamáramos" ],
+			[ "clamarais", "clamaran" ],
+			[ "clamaran" ]
+		],
+		"10" : [
+			[ "clamase" ],
+			[ "clamases" ],
+			[ "clamase" ],
+			[ "clamásemos" ],
+			[ "clamaseis", "clamasen" ],
+			[ "clamasen" ]
+		],
+		"11" : [
+			[ "clamare" ],
+			[ "clamares" ],
+			[ "clamare" ],
+			[ "clamáremos" ],
+			[ "clamareis", "clamaren" ],
+			[ "clamaren" ]
+		],
+		"12" : {
+			"1" : [ "clama" ],
+			"2" : [ "clame" ],
+			"3" : [ "clamemos" ],
+			"4" : [ "clamad" ],
+			"5" : [ "clamen" ]
+		}
+	}
+}

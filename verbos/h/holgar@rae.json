@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=holgar",
+	"word" : "holgar",
+	"infinitivo" : "holgar",
+	"participio" : [ "holgado" ],
+	"gerundio" : [ "holgando" ],
+	"tenses" : {
+		"3" : [
+			[ "huelgo" ],
+			[ "huelgas", "holgás" ],
+			[ "huelga" ],
+			[ "holgamos" ],
+			[ "holgáis", "huelgan" ],
+			[ "huelgan" ]
+		],
+		"4" : [
+			[ "holgué" ],
+			[ "holgaste" ],
+			[ "holgó" ],
+			[ "holgamos" ],
+			[ "holgasteis", "holgaron" ],
+			[ "holgaron" ]
+		],
+		"5" : [
+			[ "holgaba" ],
+			[ "holgabas" ],
+			[ "holgaba" ],
+			[ "holgábamos" ],
+			[ "holgabais", "holgaban" ],
+			[ "holgaban" ]
+		],
+		"6" : [
+			[ "holgaría" ],
+			[ "holgarías" ],
+			[ "holgaría" ],
+			[ "holgaríamos" ],
+			[ "holgaríais", "holgarían" ],
+			[ "holgarían" ]
+		],
+		"7" : [
+			[ "holgaré" ],
+			[ "holgarás" ],
+			[ "holgará" ],
+			[ "holgaremos" ],
+			[ "holgaréis", "holgarán" ],
+			[ "holgarán" ]
+		],
+		"8" : [
+			[ "huelgue" ],
+			[ "huelgues" ],
+			[ "huelgue" ],
+			[ "holguemos" ],
+			[ "holguéis", "huelguen" ],
+			[ "huelguen" ]
+		],
+		"9" : [
+			[ "holgara" ],
+			[ "holgaras" ],
+			[ "holgara" ],
+			[ "holgáramos" ],
+			[ "holgarais", "holgaran" ],
+			[ "holgaran" ]
+		],
+		"10" : [
+			[ "holgase" ],
+			[ "holgases" ],
+			[ "holgase" ],
+			[ "holgásemos" ],
+			[ "holgaseis", "holgasen" ],
+			[ "holgasen" ]
+		],
+		"11" : [
+			[ "holgare" ],
+			[ "holgares" ],
+			[ "holgare" ],
+			[ "holgáremos" ],
+			[ "holgareis", "holgaren" ],
+			[ "holgaren" ]
+		],
+		"12" : {
+			"1" : [ "huelga" ],
+			"2" : [ "huelgue" ],
+			"3" : [ "holguemos" ],
+			"4" : [ "holgad" ],
+			"5" : [ "huelguen" ]
+		}
+	}
+}

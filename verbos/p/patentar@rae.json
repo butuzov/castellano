@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=patentar",
+	"word" : "patentar",
+	"infinitivo" : "patentar",
+	"participio" : [ "patentado" ],
+	"gerundio" : [ "patentando" ],
+	"tenses" : {
+		"3" : [
+			[ "patento" ],
+			[ "patentas", "patentás" ],
+			[ "patenta" ],
+			[ "patentamos" ],
+			[ "patentáis", "patentan" ],
+			[ "patentan" ]
+		],
+		"4" : [
+			[ "patenté" ],
+			[ "patentaste" ],
+			[ "patentó" ],
+			[ "patentamos" ],
+			[ "patentasteis", "patentaron" ],
+			[ "patentaron" ]
+		],
+		"5" : [
+			[ "patentaba" ],
+			[ "patentabas" ],
+			[ "patentaba" ],
+			[ "patentábamos" ],
+			[ "patentabais", "patentaban" ],
+			[ "patentaban" ]
+		],
+		"6" : [
+			[ "patentaría" ],
+			[ "patentarías" ],
+			[ "patentaría" ],
+			[ "patentaríamos" ],
+			[ "patentaríais", "patentarían" ],
+			[ "patentarían" ]
+		],
+		"7" : [
+			[ "patentaré" ],
+			[ "patentarás" ],
+			[ "patentará" ],
+			[ "patentaremos" ],
+			[ "patentaréis", "patentarán" ],
+			[ "patentarán" ]
+		],
+		"8" : [
+			[ "patente" ],
+			[ "patentes" ],
+			[ "patente" ],
+			[ "patentemos" ],
+			[ "patentéis", "patenten" ],
+			[ "patenten" ]
+		],
+		"9" : [
+			[ "patentara" ],
+			[ "patentaras" ],
+			[ "patentara" ],
+			[ "patentáramos" ],
+			[ "patentarais", "patentaran" ],
+			[ "patentaran" ]
+		],
+		"10" : [
+			[ "patentase" ],
+			[ "patentases" ],
+			[ "patentase" ],
+			[ "patentásemos" ],
+			[ "patentaseis", "patentasen" ],
+			[ "patentasen" ]
+		],
+		"11" : [
+			[ "patentare" ],
+			[ "patentares" ],
+			[ "patentare" ],
+			[ "patentáremos" ],
+			[ "patentareis", "patentaren" ],
+			[ "patentaren" ]
+		],
+		"12" : {
+			"1" : [ "patenta" ],
+			"2" : [ "patente" ],
+			"3" : [ "patentemos" ],
+			"4" : [ "patentad" ],
+			"5" : [ "patenten" ]
+		}
+	}
+}

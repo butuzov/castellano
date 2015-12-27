@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arramplar",
+	"word" : "arramplar",
+	"infinitivo" : "arramplar",
+	"participio" : [ "arramplado" ],
+	"gerundio" : [ "arramplando" ],
+	"tenses" : {
+		"3" : [
+			[ "arramplo" ],
+			[ "arramplas", "arramplás" ],
+			[ "arrampla" ],
+			[ "arramplamos" ],
+			[ "arrampláis", "arramplan" ],
+			[ "arramplan" ]
+		],
+		"4" : [
+			[ "arramplé" ],
+			[ "arramplaste" ],
+			[ "arrampló" ],
+			[ "arramplamos" ],
+			[ "arramplasteis", "arramplaron" ],
+			[ "arramplaron" ]
+		],
+		"5" : [
+			[ "arramplaba" ],
+			[ "arramplabas" ],
+			[ "arramplaba" ],
+			[ "arramplábamos" ],
+			[ "arramplabais", "arramplaban" ],
+			[ "arramplaban" ]
+		],
+		"6" : [
+			[ "arramplaría" ],
+			[ "arramplarías" ],
+			[ "arramplaría" ],
+			[ "arramplaríamos" ],
+			[ "arramplaríais", "arramplarían" ],
+			[ "arramplarían" ]
+		],
+		"7" : [
+			[ "arramplaré" ],
+			[ "arramplarás" ],
+			[ "arramplará" ],
+			[ "arramplaremos" ],
+			[ "arramplaréis", "arramplarán" ],
+			[ "arramplarán" ]
+		],
+		"8" : [
+			[ "arrample" ],
+			[ "arramples" ],
+			[ "arrample" ],
+			[ "arramplemos" ],
+			[ "arrampléis", "arramplen" ],
+			[ "arramplen" ]
+		],
+		"9" : [
+			[ "arramplara" ],
+			[ "arramplaras" ],
+			[ "arramplara" ],
+			[ "arrampláramos" ],
+			[ "arramplarais", "arramplaran" ],
+			[ "arramplaran" ]
+		],
+		"10" : [
+			[ "arramplase" ],
+			[ "arramplases" ],
+			[ "arramplase" ],
+			[ "arramplásemos" ],
+			[ "arramplaseis", "arramplasen" ],
+			[ "arramplasen" ]
+		],
+		"11" : [
+			[ "arramplare" ],
+			[ "arramplares" ],
+			[ "arramplare" ],
+			[ "arrampláremos" ],
+			[ "arramplareis", "arramplaren" ],
+			[ "arramplaren" ]
+		],
+		"12" : {
+			"1" : [ "arrampla" ],
+			"2" : [ "arrample" ],
+			"3" : [ "arramplemos" ],
+			"4" : [ "arramplad" ],
+			"5" : [ "arramplen" ]
+		}
+	}
+}

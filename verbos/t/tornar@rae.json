@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tornar",
+	"word" : "tornar",
+	"infinitivo" : "tornar",
+	"participio" : [ "tornado" ],
+	"gerundio" : [ "tornando" ],
+	"tenses" : {
+		"3" : [
+			[ "torno" ],
+			[ "tornas", "tornás" ],
+			[ "torna" ],
+			[ "tornamos" ],
+			[ "tornáis", "tornan" ],
+			[ "tornan" ]
+		],
+		"4" : [
+			[ "torné" ],
+			[ "tornaste" ],
+			[ "tornó" ],
+			[ "tornamos" ],
+			[ "tornasteis", "tornaron" ],
+			[ "tornaron" ]
+		],
+		"5" : [
+			[ "tornaba" ],
+			[ "tornabas" ],
+			[ "tornaba" ],
+			[ "tornábamos" ],
+			[ "tornabais", "tornaban" ],
+			[ "tornaban" ]
+		],
+		"6" : [
+			[ "tornaría" ],
+			[ "tornarías" ],
+			[ "tornaría" ],
+			[ "tornaríamos" ],
+			[ "tornaríais", "tornarían" ],
+			[ "tornarían" ]
+		],
+		"7" : [
+			[ "tornaré" ],
+			[ "tornarás" ],
+			[ "tornará" ],
+			[ "tornaremos" ],
+			[ "tornaréis", "tornarán" ],
+			[ "tornarán" ]
+		],
+		"8" : [
+			[ "torne" ],
+			[ "tornes" ],
+			[ "torne" ],
+			[ "tornemos" ],
+			[ "tornéis", "tornen" ],
+			[ "tornen" ]
+		],
+		"9" : [
+			[ "tornara" ],
+			[ "tornaras" ],
+			[ "tornara" ],
+			[ "tornáramos" ],
+			[ "tornarais", "tornaran" ],
+			[ "tornaran" ]
+		],
+		"10" : [
+			[ "tornase" ],
+			[ "tornases" ],
+			[ "tornase" ],
+			[ "tornásemos" ],
+			[ "tornaseis", "tornasen" ],
+			[ "tornasen" ]
+		],
+		"11" : [
+			[ "tornare" ],
+			[ "tornares" ],
+			[ "tornare" ],
+			[ "tornáremos" ],
+			[ "tornareis", "tornaren" ],
+			[ "tornaren" ]
+		],
+		"12" : {
+			"1" : [ "torna" ],
+			"2" : [ "torne" ],
+			"3" : [ "tornemos" ],
+			"4" : [ "tornad" ],
+			"5" : [ "tornen" ]
+		}
+	}
+}

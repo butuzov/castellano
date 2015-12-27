@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=efectuar",
+	"word" : "efectuar",
+	"infinitivo" : "efectuar",
+	"participio" : [ "efectuado" ],
+	"gerundio" : [ "efectuando" ],
+	"tenses" : {
+		"3" : [
+			[ "efectúo" ],
+			[ "efectúas", "efectuás" ],
+			[ "efectúa" ],
+			[ "efectuamos" ],
+			[ "efectuáis", "efectúan" ],
+			[ "efectúan" ]
+		],
+		"4" : [
+			[ "efectué" ],
+			[ "efectuaste" ],
+			[ "efectuó" ],
+			[ "efectuamos" ],
+			[ "efectuasteis", "efectuaron" ],
+			[ "efectuaron" ]
+		],
+		"5" : [
+			[ "efectuaba" ],
+			[ "efectuabas" ],
+			[ "efectuaba" ],
+			[ "efectuábamos" ],
+			[ "efectuabais", "efectuaban" ],
+			[ "efectuaban" ]
+		],
+		"6" : [
+			[ "efectuaría" ],
+			[ "efectuarías" ],
+			[ "efectuaría" ],
+			[ "efectuaríamos" ],
+			[ "efectuaríais", "efectuarían" ],
+			[ "efectuarían" ]
+		],
+		"7" : [
+			[ "efectuaré" ],
+			[ "efectuarás" ],
+			[ "efectuará" ],
+			[ "efectuaremos" ],
+			[ "efectuaréis", "efectuarán" ],
+			[ "efectuarán" ]
+		],
+		"8" : [
+			[ "efectúe" ],
+			[ "efectúes" ],
+			[ "efectúe" ],
+			[ "efectuemos" ],
+			[ "efectuéis", "efectúen" ],
+			[ "efectúen" ]
+		],
+		"9" : [
+			[ "efectuara" ],
+			[ "efectuaras" ],
+			[ "efectuara" ],
+			[ "efectuáramos" ],
+			[ "efectuarais", "efectuaran" ],
+			[ "efectuaran" ]
+		],
+		"10" : [
+			[ "efectuase" ],
+			[ "efectuases" ],
+			[ "efectuase" ],
+			[ "efectuásemos" ],
+			[ "efectuaseis", "efectuasen" ],
+			[ "efectuasen" ]
+		],
+		"11" : [
+			[ "efectuare" ],
+			[ "efectuares" ],
+			[ "efectuare" ],
+			[ "efectuáremos" ],
+			[ "efectuareis", "efectuaren" ],
+			[ "efectuaren" ]
+		],
+		"12" : {
+			"1" : [ "efectúa" ],
+			"2" : [ "efectúe" ],
+			"3" : [ "efectuemos" ],
+			"4" : [ "efectuad" ],
+			"5" : [ "efectúen" ]
+		}
+	}
+}

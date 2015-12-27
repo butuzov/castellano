@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=capsular",
+	"word" : "capsular",
+	"infinitivo" : "capsular",
+	"participio" : [ "capsulado" ],
+	"gerundio" : [ "capsulando" ],
+	"tenses" : {
+		"3" : [
+			[ "capsulo" ],
+			[ "capsulas", "capsulás" ],
+			[ "capsula" ],
+			[ "capsulamos" ],
+			[ "capsuláis", "capsulan" ],
+			[ "capsulan" ]
+		],
+		"4" : [
+			[ "capsulé" ],
+			[ "capsulaste" ],
+			[ "capsuló" ],
+			[ "capsulamos" ],
+			[ "capsulasteis", "capsularon" ],
+			[ "capsularon" ]
+		],
+		"5" : [
+			[ "capsulaba" ],
+			[ "capsulabas" ],
+			[ "capsulaba" ],
+			[ "capsulábamos" ],
+			[ "capsulabais", "capsulaban" ],
+			[ "capsulaban" ]
+		],
+		"6" : [
+			[ "capsularía" ],
+			[ "capsularías" ],
+			[ "capsularía" ],
+			[ "capsularíamos" ],
+			[ "capsularíais", "capsularían" ],
+			[ "capsularían" ]
+		],
+		"7" : [
+			[ "capsularé" ],
+			[ "capsularás" ],
+			[ "capsulará" ],
+			[ "capsularemos" ],
+			[ "capsularéis", "capsularán" ],
+			[ "capsularán" ]
+		],
+		"8" : [
+			[ "capsule" ],
+			[ "capsules" ],
+			[ "capsule" ],
+			[ "capsulemos" ],
+			[ "capsuléis", "capsulen" ],
+			[ "capsulen" ]
+		],
+		"9" : [
+			[ "capsulara" ],
+			[ "capsularas" ],
+			[ "capsulara" ],
+			[ "capsuláramos" ],
+			[ "capsularais", "capsularan" ],
+			[ "capsularan" ]
+		],
+		"10" : [
+			[ "capsulase" ],
+			[ "capsulases" ],
+			[ "capsulase" ],
+			[ "capsulásemos" ],
+			[ "capsulaseis", "capsulasen" ],
+			[ "capsulasen" ]
+		],
+		"11" : [
+			[ "capsulare" ],
+			[ "capsulares" ],
+			[ "capsulare" ],
+			[ "capsuláremos" ],
+			[ "capsulareis", "capsularen" ],
+			[ "capsularen" ]
+		],
+		"12" : {
+			"1" : [ "capsula" ],
+			"2" : [ "capsule" ],
+			"3" : [ "capsulemos" ],
+			"4" : [ "capsulad" ],
+			"5" : [ "capsulen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fletar",
+	"word" : "fletar",
+	"infinitivo" : "fletar",
+	"participio" : [ "fletado" ],
+	"gerundio" : [ "fletando" ],
+	"tenses" : {
+		"3" : [
+			[ "fleto" ],
+			[ "fletas", "fletás" ],
+			[ "fleta" ],
+			[ "fletamos" ],
+			[ "fletáis", "fletan" ],
+			[ "fletan" ]
+		],
+		"4" : [
+			[ "fleté" ],
+			[ "fletaste" ],
+			[ "fletó" ],
+			[ "fletamos" ],
+			[ "fletasteis", "fletaron" ],
+			[ "fletaron" ]
+		],
+		"5" : [
+			[ "fletaba" ],
+			[ "fletabas" ],
+			[ "fletaba" ],
+			[ "fletábamos" ],
+			[ "fletabais", "fletaban" ],
+			[ "fletaban" ]
+		],
+		"6" : [
+			[ "fletaría" ],
+			[ "fletarías" ],
+			[ "fletaría" ],
+			[ "fletaríamos" ],
+			[ "fletaríais", "fletarían" ],
+			[ "fletarían" ]
+		],
+		"7" : [
+			[ "fletaré" ],
+			[ "fletarás" ],
+			[ "fletará" ],
+			[ "fletaremos" ],
+			[ "fletaréis", "fletarán" ],
+			[ "fletarán" ]
+		],
+		"8" : [
+			[ "flete" ],
+			[ "fletes" ],
+			[ "flete" ],
+			[ "fletemos" ],
+			[ "fletéis", "fleten" ],
+			[ "fleten" ]
+		],
+		"9" : [
+			[ "fletara" ],
+			[ "fletaras" ],
+			[ "fletara" ],
+			[ "fletáramos" ],
+			[ "fletarais", "fletaran" ],
+			[ "fletaran" ]
+		],
+		"10" : [
+			[ "fletase" ],
+			[ "fletases" ],
+			[ "fletase" ],
+			[ "fletásemos" ],
+			[ "fletaseis", "fletasen" ],
+			[ "fletasen" ]
+		],
+		"11" : [
+			[ "fletare" ],
+			[ "fletares" ],
+			[ "fletare" ],
+			[ "fletáremos" ],
+			[ "fletareis", "fletaren" ],
+			[ "fletaren" ]
+		],
+		"12" : {
+			"1" : [ "fleta" ],
+			"2" : [ "flete" ],
+			"3" : [ "fletemos" ],
+			"4" : [ "fletad" ],
+			"5" : [ "fleten" ]
+		}
+	}
+}

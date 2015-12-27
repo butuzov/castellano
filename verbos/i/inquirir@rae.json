@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inquirir",
+	"word" : "inquirir",
+	"infinitivo" : "inquirir",
+	"participio" : [ "inquirido" ],
+	"gerundio" : [ "inquiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "inquiero" ],
+			[ "inquieres", "inquirís" ],
+			[ "inquiere" ],
+			[ "inquirimos" ],
+			[ "inquirís", "inquieren" ],
+			[ "inquieren" ]
+		],
+		"4" : [
+			[ "inquirí" ],
+			[ "inquiriste" ],
+			[ "inquirió" ],
+			[ "inquirimos" ],
+			[ "inquiristeis", "inquirieron" ],
+			[ "inquirieron" ]
+		],
+		"5" : [
+			[ "inquiría" ],
+			[ "inquirías" ],
+			[ "inquiría" ],
+			[ "inquiríamos" ],
+			[ "inquiríais", "inquirían" ],
+			[ "inquirían" ]
+		],
+		"6" : [
+			[ "inquiriría" ],
+			[ "inquirirías" ],
+			[ "inquiriría" ],
+			[ "inquiriríamos" ],
+			[ "inquiriríais", "inquirirían" ],
+			[ "inquirirían" ]
+		],
+		"7" : [
+			[ "inquiriré" ],
+			[ "inquirirás" ],
+			[ "inquirirá" ],
+			[ "inquiriremos" ],
+			[ "inquiriréis", "inquirirán" ],
+			[ "inquirirán" ]
+		],
+		"8" : [
+			[ "inquiera" ],
+			[ "inquieras" ],
+			[ "inquiera" ],
+			[ "inquiramos" ],
+			[ "inquiráis", "inquieran" ],
+			[ "inquieran" ]
+		],
+		"9" : [
+			[ "inquiriera" ],
+			[ "inquirieras" ],
+			[ "inquiriera" ],
+			[ "inquiriéramos" ],
+			[ "inquirierais", "inquirieran" ],
+			[ "inquirieran" ]
+		],
+		"10" : [
+			[ "inquiriese" ],
+			[ "inquirieses" ],
+			[ "inquiriese" ],
+			[ "inquiriésemos" ],
+			[ "inquirieseis", "inquiriesen" ],
+			[ "inquiriesen" ]
+		],
+		"11" : [
+			[ "inquiriere" ],
+			[ "inquirieres" ],
+			[ "inquiriere" ],
+			[ "inquiriéremos" ],
+			[ "inquiriereis", "inquirieren" ],
+			[ "inquirieren" ]
+		],
+		"12" : {
+			"1" : [ "inquiere" ],
+			"2" : [ "inquiera" ],
+			"3" : [ "inquiramos" ],
+			"4" : [ "inquirid" ],
+			"5" : [ "inquieran" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chingar",
+	"word" : "chingar",
+	"infinitivo" : "chingar",
+	"participio" : [ "chingado" ],
+	"gerundio" : [ "chingando" ],
+	"tenses" : {
+		"3" : [
+			[ "chingo" ],
+			[ "chingas", "chingás" ],
+			[ "chinga" ],
+			[ "chingamos" ],
+			[ "chingáis", "chingan" ],
+			[ "chingan" ]
+		],
+		"4" : [
+			[ "chingué" ],
+			[ "chingaste" ],
+			[ "chingó" ],
+			[ "chingamos" ],
+			[ "chingasteis", "chingaron" ],
+			[ "chingaron" ]
+		],
+		"5" : [
+			[ "chingaba" ],
+			[ "chingabas" ],
+			[ "chingaba" ],
+			[ "chingábamos" ],
+			[ "chingabais", "chingaban" ],
+			[ "chingaban" ]
+		],
+		"6" : [
+			[ "chingaría" ],
+			[ "chingarías" ],
+			[ "chingaría" ],
+			[ "chingaríamos" ],
+			[ "chingaríais", "chingarían" ],
+			[ "chingarían" ]
+		],
+		"7" : [
+			[ "chingaré" ],
+			[ "chingarás" ],
+			[ "chingará" ],
+			[ "chingaremos" ],
+			[ "chingaréis", "chingarán" ],
+			[ "chingarán" ]
+		],
+		"8" : [
+			[ "chingue" ],
+			[ "chingues" ],
+			[ "chingue" ],
+			[ "chinguemos" ],
+			[ "chinguéis", "chinguen" ],
+			[ "chinguen" ]
+		],
+		"9" : [
+			[ "chingara" ],
+			[ "chingaras" ],
+			[ "chingara" ],
+			[ "chingáramos" ],
+			[ "chingarais", "chingaran" ],
+			[ "chingaran" ]
+		],
+		"10" : [
+			[ "chingase" ],
+			[ "chingases" ],
+			[ "chingase" ],
+			[ "chingásemos" ],
+			[ "chingaseis", "chingasen" ],
+			[ "chingasen" ]
+		],
+		"11" : [
+			[ "chingare" ],
+			[ "chingares" ],
+			[ "chingare" ],
+			[ "chingáremos" ],
+			[ "chingareis", "chingaren" ],
+			[ "chingaren" ]
+		],
+		"12" : {
+			"1" : [ "chinga" ],
+			"2" : [ "chingue" ],
+			"3" : [ "chinguemos" ],
+			"4" : [ "chingad" ],
+			"5" : [ "chinguen" ]
+		}
+	}
+}

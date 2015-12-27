@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contener",
+	"word" : "contener",
+	"infinitivo" : "contener",
+	"participio" : [ "contenido" ],
+	"gerundio" : [ "conteniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "contengo" ],
+			[ "contienes", "contenés" ],
+			[ "contiene" ],
+			[ "contenemos" ],
+			[ "contenéis", "contienen" ],
+			[ "contienen" ]
+		],
+		"4" : [
+			[ "contuve" ],
+			[ "contuviste" ],
+			[ "contuvo" ],
+			[ "contuvimos" ],
+			[ "contuvisteis", "contuvieron" ],
+			[ "contuvieron" ]
+		],
+		"5" : [
+			[ "contenía" ],
+			[ "contenías" ],
+			[ "contenía" ],
+			[ "conteníamos" ],
+			[ "conteníais", "contenían" ],
+			[ "contenían" ]
+		],
+		"6" : [
+			[ "contendría" ],
+			[ "contendrías" ],
+			[ "contendría" ],
+			[ "contendríamos" ],
+			[ "contendríais", "contendrían" ],
+			[ "contendrían" ]
+		],
+		"7" : [
+			[ "contendré" ],
+			[ "contendrás" ],
+			[ "contendrá" ],
+			[ "contendremos" ],
+			[ "contendréis", "contendrán" ],
+			[ "contendrán" ]
+		],
+		"8" : [
+			[ "contenga" ],
+			[ "contengas" ],
+			[ "contenga" ],
+			[ "contengamos" ],
+			[ "contengáis", "contengan" ],
+			[ "contengan" ]
+		],
+		"9" : [
+			[ "contuviera" ],
+			[ "contuvieras" ],
+			[ "contuviera" ],
+			[ "contuviéramos" ],
+			[ "contuvierais", "contuvieran" ],
+			[ "contuvieran" ]
+		],
+		"10" : [
+			[ "contuviese" ],
+			[ "contuvieses" ],
+			[ "contuviese" ],
+			[ "contuviésemos" ],
+			[ "contuvieseis", "contuviesen" ],
+			[ "contuviesen" ]
+		],
+		"11" : [
+			[ "contuviere" ],
+			[ "contuvieres" ],
+			[ "contuviere" ],
+			[ "contuviéremos" ],
+			[ "contuviereis", "contuvieren" ],
+			[ "contuvieren" ]
+		],
+		"12" : {
+			"1" : [ "contén" ],
+			"2" : [ "contenga" ],
+			"3" : [ "contengamos" ],
+			"4" : [ "contened" ],
+			"5" : [ "contengan" ]
+		}
+	}
+}

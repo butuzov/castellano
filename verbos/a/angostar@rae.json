@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=angostar",
+	"word" : "angostar",
+	"infinitivo" : "angostar",
+	"participio" : [ "angostado" ],
+	"gerundio" : [ "angostando" ],
+	"tenses" : {
+		"3" : [
+			[ "angosto" ],
+			[ "angostas", "angostás" ],
+			[ "angosta" ],
+			[ "angostamos" ],
+			[ "angostáis", "angostan" ],
+			[ "angostan" ]
+		],
+		"4" : [
+			[ "angosté" ],
+			[ "angostaste" ],
+			[ "angostó" ],
+			[ "angostamos" ],
+			[ "angostasteis", "angostaron" ],
+			[ "angostaron" ]
+		],
+		"5" : [
+			[ "angostaba" ],
+			[ "angostabas" ],
+			[ "angostaba" ],
+			[ "angostábamos" ],
+			[ "angostabais", "angostaban" ],
+			[ "angostaban" ]
+		],
+		"6" : [
+			[ "angostaría" ],
+			[ "angostarías" ],
+			[ "angostaría" ],
+			[ "angostaríamos" ],
+			[ "angostaríais", "angostarían" ],
+			[ "angostarían" ]
+		],
+		"7" : [
+			[ "angostaré" ],
+			[ "angostarás" ],
+			[ "angostará" ],
+			[ "angostaremos" ],
+			[ "angostaréis", "angostarán" ],
+			[ "angostarán" ]
+		],
+		"8" : [
+			[ "angoste" ],
+			[ "angostes" ],
+			[ "angoste" ],
+			[ "angostemos" ],
+			[ "angostéis", "angosten" ],
+			[ "angosten" ]
+		],
+		"9" : [
+			[ "angostara" ],
+			[ "angostaras" ],
+			[ "angostara" ],
+			[ "angostáramos" ],
+			[ "angostarais", "angostaran" ],
+			[ "angostaran" ]
+		],
+		"10" : [
+			[ "angostase" ],
+			[ "angostases" ],
+			[ "angostase" ],
+			[ "angostásemos" ],
+			[ "angostaseis", "angostasen" ],
+			[ "angostasen" ]
+		],
+		"11" : [
+			[ "angostare" ],
+			[ "angostares" ],
+			[ "angostare" ],
+			[ "angostáremos" ],
+			[ "angostareis", "angostaren" ],
+			[ "angostaren" ]
+		],
+		"12" : {
+			"1" : [ "angosta" ],
+			"2" : [ "angoste" ],
+			"3" : [ "angostemos" ],
+			"4" : [ "angostad" ],
+			"5" : [ "angosten" ]
+		}
+	}
+}

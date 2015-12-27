@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=judicializar",
+	"word" : "judicializar",
+	"infinitivo" : "judicializar",
+	"participio" : [ "judicializado" ],
+	"gerundio" : [ "judicializando" ],
+	"tenses" : {
+		"3" : [
+			[ "judicializo" ],
+			[ "judicializas", "judicializás" ],
+			[ "judicializa" ],
+			[ "judicializamos" ],
+			[ "judicializáis", "judicializan" ],
+			[ "judicializan" ]
+		],
+		"4" : [
+			[ "judicialicé" ],
+			[ "judicializaste" ],
+			[ "judicializó" ],
+			[ "judicializamos" ],
+			[ "judicializasteis", "judicializaron" ],
+			[ "judicializaron" ]
+		],
+		"5" : [
+			[ "judicializaba" ],
+			[ "judicializabas" ],
+			[ "judicializaba" ],
+			[ "judicializábamos" ],
+			[ "judicializabais", "judicializaban" ],
+			[ "judicializaban" ]
+		],
+		"6" : [
+			[ "judicializaría" ],
+			[ "judicializarías" ],
+			[ "judicializaría" ],
+			[ "judicializaríamos" ],
+			[ "judicializaríais", "judicializarían" ],
+			[ "judicializarían" ]
+		],
+		"7" : [
+			[ "judicializaré" ],
+			[ "judicializarás" ],
+			[ "judicializará" ],
+			[ "judicializaremos" ],
+			[ "judicializaréis", "judicializarán" ],
+			[ "judicializarán" ]
+		],
+		"8" : [
+			[ "judicialice" ],
+			[ "judicialices" ],
+			[ "judicialice" ],
+			[ "judicialicemos" ],
+			[ "judicialicéis", "judicialicen" ],
+			[ "judicialicen" ]
+		],
+		"9" : [
+			[ "judicializara" ],
+			[ "judicializaras" ],
+			[ "judicializara" ],
+			[ "judicializáramos" ],
+			[ "judicializarais", "judicializaran" ],
+			[ "judicializaran" ]
+		],
+		"10" : [
+			[ "judicializase" ],
+			[ "judicializases" ],
+			[ "judicializase" ],
+			[ "judicializásemos" ],
+			[ "judicializaseis", "judicializasen" ],
+			[ "judicializasen" ]
+		],
+		"11" : [
+			[ "judicializare" ],
+			[ "judicializares" ],
+			[ "judicializare" ],
+			[ "judicializáremos" ],
+			[ "judicializareis", "judicializaren" ],
+			[ "judicializaren" ]
+		],
+		"12" : {
+			"1" : [ "judicializa" ],
+			"2" : [ "judicialice" ],
+			"3" : [ "judicialicemos" ],
+			"4" : [ "judicializad" ],
+			"5" : [ "judicialicen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=declamar",
+	"word" : "declamar",
+	"infinitivo" : "declamar",
+	"participio" : [ "declamado" ],
+	"gerundio" : [ "declamando" ],
+	"tenses" : {
+		"3" : [
+			[ "declamo" ],
+			[ "declamas", "declamás" ],
+			[ "declama" ],
+			[ "declamamos" ],
+			[ "declamáis", "declaman" ],
+			[ "declaman" ]
+		],
+		"4" : [
+			[ "declamé" ],
+			[ "declamaste" ],
+			[ "declamó" ],
+			[ "declamamos" ],
+			[ "declamasteis", "declamaron" ],
+			[ "declamaron" ]
+		],
+		"5" : [
+			[ "declamaba" ],
+			[ "declamabas" ],
+			[ "declamaba" ],
+			[ "declamábamos" ],
+			[ "declamabais", "declamaban" ],
+			[ "declamaban" ]
+		],
+		"6" : [
+			[ "declamaría" ],
+			[ "declamarías" ],
+			[ "declamaría" ],
+			[ "declamaríamos" ],
+			[ "declamaríais", "declamarían" ],
+			[ "declamarían" ]
+		],
+		"7" : [
+			[ "declamaré" ],
+			[ "declamarás" ],
+			[ "declamará" ],
+			[ "declamaremos" ],
+			[ "declamaréis", "declamarán" ],
+			[ "declamarán" ]
+		],
+		"8" : [
+			[ "declame" ],
+			[ "declames" ],
+			[ "declame" ],
+			[ "declamemos" ],
+			[ "declaméis", "declamen" ],
+			[ "declamen" ]
+		],
+		"9" : [
+			[ "declamara" ],
+			[ "declamaras" ],
+			[ "declamara" ],
+			[ "declamáramos" ],
+			[ "declamarais", "declamaran" ],
+			[ "declamaran" ]
+		],
+		"10" : [
+			[ "declamase" ],
+			[ "declamases" ],
+			[ "declamase" ],
+			[ "declamásemos" ],
+			[ "declamaseis", "declamasen" ],
+			[ "declamasen" ]
+		],
+		"11" : [
+			[ "declamare" ],
+			[ "declamares" ],
+			[ "declamare" ],
+			[ "declamáremos" ],
+			[ "declamareis", "declamaren" ],
+			[ "declamaren" ]
+		],
+		"12" : {
+			"1" : [ "declama" ],
+			"2" : [ "declame" ],
+			"3" : [ "declamemos" ],
+			"4" : [ "declamad" ],
+			"5" : [ "declamen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=llorar",
+	"word" : "llorar",
+	"infinitivo" : "llorar",
+	"participio" : [ "llorado" ],
+	"gerundio" : [ "llorando" ],
+	"tenses" : {
+		"3" : [
+			[ "lloro" ],
+			[ "lloras", "llorás" ],
+			[ "llora" ],
+			[ "lloramos" ],
+			[ "lloráis", "lloran" ],
+			[ "lloran" ]
+		],
+		"4" : [
+			[ "lloré" ],
+			[ "lloraste" ],
+			[ "lloró" ],
+			[ "lloramos" ],
+			[ "llorasteis", "lloraron" ],
+			[ "lloraron" ]
+		],
+		"5" : [
+			[ "lloraba" ],
+			[ "llorabas" ],
+			[ "lloraba" ],
+			[ "llorábamos" ],
+			[ "llorabais", "lloraban" ],
+			[ "lloraban" ]
+		],
+		"6" : [
+			[ "lloraría" ],
+			[ "llorarías" ],
+			[ "lloraría" ],
+			[ "lloraríamos" ],
+			[ "lloraríais", "llorarían" ],
+			[ "llorarían" ]
+		],
+		"7" : [
+			[ "lloraré" ],
+			[ "llorarás" ],
+			[ "llorará" ],
+			[ "lloraremos" ],
+			[ "lloraréis", "llorarán" ],
+			[ "llorarán" ]
+		],
+		"8" : [
+			[ "llore" ],
+			[ "llores" ],
+			[ "llore" ],
+			[ "lloremos" ],
+			[ "lloréis", "lloren" ],
+			[ "lloren" ]
+		],
+		"9" : [
+			[ "llorara" ],
+			[ "lloraras" ],
+			[ "llorara" ],
+			[ "lloráramos" ],
+			[ "llorarais", "lloraran" ],
+			[ "lloraran" ]
+		],
+		"10" : [
+			[ "llorase" ],
+			[ "llorases" ],
+			[ "llorase" ],
+			[ "llorásemos" ],
+			[ "lloraseis", "llorasen" ],
+			[ "llorasen" ]
+		],
+		"11" : [
+			[ "llorare" ],
+			[ "llorares" ],
+			[ "llorare" ],
+			[ "lloráremos" ],
+			[ "llorareis", "lloraren" ],
+			[ "lloraren" ]
+		],
+		"12" : {
+			"1" : [ "llora" ],
+			"2" : [ "llore" ],
+			"3" : [ "lloremos" ],
+			"4" : [ "llorad" ],
+			"5" : [ "lloren" ]
+		}
+	}
+}

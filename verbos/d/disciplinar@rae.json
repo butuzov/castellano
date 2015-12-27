@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disciplinar",
+	"word" : "disciplinar",
+	"infinitivo" : "disciplinar",
+	"participio" : [ "disciplinado" ],
+	"gerundio" : [ "disciplinando" ],
+	"tenses" : {
+		"3" : [
+			[ "disciplino" ],
+			[ "disciplinas", "disciplinás" ],
+			[ "disciplina" ],
+			[ "disciplinamos" ],
+			[ "disciplináis", "disciplinan" ],
+			[ "disciplinan" ]
+		],
+		"4" : [
+			[ "discipliné" ],
+			[ "disciplinaste" ],
+			[ "disciplinó" ],
+			[ "disciplinamos" ],
+			[ "disciplinasteis", "disciplinaron" ],
+			[ "disciplinaron" ]
+		],
+		"5" : [
+			[ "disciplinaba" ],
+			[ "disciplinabas" ],
+			[ "disciplinaba" ],
+			[ "disciplinábamos" ],
+			[ "disciplinabais", "disciplinaban" ],
+			[ "disciplinaban" ]
+		],
+		"6" : [
+			[ "disciplinaría" ],
+			[ "disciplinarías" ],
+			[ "disciplinaría" ],
+			[ "disciplinaríamos" ],
+			[ "disciplinaríais", "disciplinarían" ],
+			[ "disciplinarían" ]
+		],
+		"7" : [
+			[ "disciplinaré" ],
+			[ "disciplinarás" ],
+			[ "disciplinará" ],
+			[ "disciplinaremos" ],
+			[ "disciplinaréis", "disciplinarán" ],
+			[ "disciplinarán" ]
+		],
+		"8" : [
+			[ "discipline" ],
+			[ "disciplines" ],
+			[ "discipline" ],
+			[ "disciplinemos" ],
+			[ "disciplinéis", "disciplinen" ],
+			[ "disciplinen" ]
+		],
+		"9" : [
+			[ "disciplinara" ],
+			[ "disciplinaras" ],
+			[ "disciplinara" ],
+			[ "disciplináramos" ],
+			[ "disciplinarais", "disciplinaran" ],
+			[ "disciplinaran" ]
+		],
+		"10" : [
+			[ "disciplinase" ],
+			[ "disciplinases" ],
+			[ "disciplinase" ],
+			[ "disciplinásemos" ],
+			[ "disciplinaseis", "disciplinasen" ],
+			[ "disciplinasen" ]
+		],
+		"11" : [
+			[ "disciplinare" ],
+			[ "disciplinares" ],
+			[ "disciplinare" ],
+			[ "disciplináremos" ],
+			[ "disciplinareis", "disciplinaren" ],
+			[ "disciplinaren" ]
+		],
+		"12" : {
+			"1" : [ "disciplina" ],
+			"2" : [ "discipline" ],
+			"3" : [ "disciplinemos" ],
+			"4" : [ "disciplinad" ],
+			"5" : [ "disciplinen" ]
+		}
+	}
+}

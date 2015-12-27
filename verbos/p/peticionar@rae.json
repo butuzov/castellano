@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=peticionar",
+	"word" : "peticionar",
+	"infinitivo" : "peticionar",
+	"participio" : [ "peticionado" ],
+	"gerundio" : [ "peticionando" ],
+	"tenses" : {
+		"3" : [
+			[ "peticiono" ],
+			[ "peticionas", "peticionás" ],
+			[ "peticiona" ],
+			[ "peticionamos" ],
+			[ "peticionáis", "peticionan" ],
+			[ "peticionan" ]
+		],
+		"4" : [
+			[ "peticioné" ],
+			[ "peticionaste" ],
+			[ "peticionó" ],
+			[ "peticionamos" ],
+			[ "peticionasteis", "peticionaron" ],
+			[ "peticionaron" ]
+		],
+		"5" : [
+			[ "peticionaba" ],
+			[ "peticionabas" ],
+			[ "peticionaba" ],
+			[ "peticionábamos" ],
+			[ "peticionabais", "peticionaban" ],
+			[ "peticionaban" ]
+		],
+		"6" : [
+			[ "peticionaría" ],
+			[ "peticionarías" ],
+			[ "peticionaría" ],
+			[ "peticionaríamos" ],
+			[ "peticionaríais", "peticionarían" ],
+			[ "peticionarían" ]
+		],
+		"7" : [
+			[ "peticionaré" ],
+			[ "peticionarás" ],
+			[ "peticionará" ],
+			[ "peticionaremos" ],
+			[ "peticionaréis", "peticionarán" ],
+			[ "peticionarán" ]
+		],
+		"8" : [
+			[ "peticione" ],
+			[ "peticiones" ],
+			[ "peticione" ],
+			[ "peticionemos" ],
+			[ "peticionéis", "peticionen" ],
+			[ "peticionen" ]
+		],
+		"9" : [
+			[ "peticionara" ],
+			[ "peticionaras" ],
+			[ "peticionara" ],
+			[ "peticionáramos" ],
+			[ "peticionarais", "peticionaran" ],
+			[ "peticionaran" ]
+		],
+		"10" : [
+			[ "peticionase" ],
+			[ "peticionases" ],
+			[ "peticionase" ],
+			[ "peticionásemos" ],
+			[ "peticionaseis", "peticionasen" ],
+			[ "peticionasen" ]
+		],
+		"11" : [
+			[ "peticionare" ],
+			[ "peticionares" ],
+			[ "peticionare" ],
+			[ "peticionáremos" ],
+			[ "peticionareis", "peticionaren" ],
+			[ "peticionaren" ]
+		],
+		"12" : {
+			"1" : [ "peticiona" ],
+			"2" : [ "peticione" ],
+			"3" : [ "peticionemos" ],
+			"4" : [ "peticionad" ],
+			"5" : [ "peticionen" ]
+		}
+	}
+}

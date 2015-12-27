@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrojar",
+	"word" : "arrojar",
+	"infinitivo" : "arrojar",
+	"participio" : [ "arrojado" ],
+	"gerundio" : [ "arrojando" ],
+	"tenses" : {
+		"3" : [
+			[ "arrojo" ],
+			[ "arrojas", "arrojás" ],
+			[ "arroja" ],
+			[ "arrojamos" ],
+			[ "arrojáis", "arrojan" ],
+			[ "arrojan" ]
+		],
+		"4" : [
+			[ "arrojé" ],
+			[ "arrojaste" ],
+			[ "arrojó" ],
+			[ "arrojamos" ],
+			[ "arrojasteis", "arrojaron" ],
+			[ "arrojaron" ]
+		],
+		"5" : [
+			[ "arrojaba" ],
+			[ "arrojabas" ],
+			[ "arrojaba" ],
+			[ "arrojábamos" ],
+			[ "arrojabais", "arrojaban" ],
+			[ "arrojaban" ]
+		],
+		"6" : [
+			[ "arrojaría" ],
+			[ "arrojarías" ],
+			[ "arrojaría" ],
+			[ "arrojaríamos" ],
+			[ "arrojaríais", "arrojarían" ],
+			[ "arrojarían" ]
+		],
+		"7" : [
+			[ "arrojaré" ],
+			[ "arrojarás" ],
+			[ "arrojará" ],
+			[ "arrojaremos" ],
+			[ "arrojaréis", "arrojarán" ],
+			[ "arrojarán" ]
+		],
+		"8" : [
+			[ "arroje" ],
+			[ "arrojes" ],
+			[ "arroje" ],
+			[ "arrojemos" ],
+			[ "arrojéis", "arrojen" ],
+			[ "arrojen" ]
+		],
+		"9" : [
+			[ "arrojara" ],
+			[ "arrojaras" ],
+			[ "arrojara" ],
+			[ "arrojáramos" ],
+			[ "arrojarais", "arrojaran" ],
+			[ "arrojaran" ]
+		],
+		"10" : [
+			[ "arrojase" ],
+			[ "arrojases" ],
+			[ "arrojase" ],
+			[ "arrojásemos" ],
+			[ "arrojaseis", "arrojasen" ],
+			[ "arrojasen" ]
+		],
+		"11" : [
+			[ "arrojare" ],
+			[ "arrojares" ],
+			[ "arrojare" ],
+			[ "arrojáremos" ],
+			[ "arrojareis", "arrojaren" ],
+			[ "arrojaren" ]
+		],
+		"12" : {
+			"1" : [ "arroja" ],
+			"2" : [ "arroje" ],
+			"3" : [ "arrojemos" ],
+			"4" : [ "arrojad" ],
+			"5" : [ "arrojen" ]
+		}
+	}
+}

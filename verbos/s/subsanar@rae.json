@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=subsanar",
+	"word" : "subsanar",
+	"infinitivo" : "subsanar",
+	"participio" : [ "subsanado" ],
+	"gerundio" : [ "subsanando" ],
+	"tenses" : {
+		"3" : [
+			[ "subsano" ],
+			[ "subsanas", "subsanás" ],
+			[ "subsana" ],
+			[ "subsanamos" ],
+			[ "subsanáis", "subsanan" ],
+			[ "subsanan" ]
+		],
+		"4" : [
+			[ "subsané" ],
+			[ "subsanaste" ],
+			[ "subsanó" ],
+			[ "subsanamos" ],
+			[ "subsanasteis", "subsanaron" ],
+			[ "subsanaron" ]
+		],
+		"5" : [
+			[ "subsanaba" ],
+			[ "subsanabas" ],
+			[ "subsanaba" ],
+			[ "subsanábamos" ],
+			[ "subsanabais", "subsanaban" ],
+			[ "subsanaban" ]
+		],
+		"6" : [
+			[ "subsanaría" ],
+			[ "subsanarías" ],
+			[ "subsanaría" ],
+			[ "subsanaríamos" ],
+			[ "subsanaríais", "subsanarían" ],
+			[ "subsanarían" ]
+		],
+		"7" : [
+			[ "subsanaré" ],
+			[ "subsanarás" ],
+			[ "subsanará" ],
+			[ "subsanaremos" ],
+			[ "subsanaréis", "subsanarán" ],
+			[ "subsanarán" ]
+		],
+		"8" : [
+			[ "subsane" ],
+			[ "subsanes" ],
+			[ "subsane" ],
+			[ "subsanemos" ],
+			[ "subsanéis", "subsanen" ],
+			[ "subsanen" ]
+		],
+		"9" : [
+			[ "subsanara" ],
+			[ "subsanaras" ],
+			[ "subsanara" ],
+			[ "subsanáramos" ],
+			[ "subsanarais", "subsanaran" ],
+			[ "subsanaran" ]
+		],
+		"10" : [
+			[ "subsanase" ],
+			[ "subsanases" ],
+			[ "subsanase" ],
+			[ "subsanásemos" ],
+			[ "subsanaseis", "subsanasen" ],
+			[ "subsanasen" ]
+		],
+		"11" : [
+			[ "subsanare" ],
+			[ "subsanares" ],
+			[ "subsanare" ],
+			[ "subsanáremos" ],
+			[ "subsanareis", "subsanaren" ],
+			[ "subsanaren" ]
+		],
+		"12" : {
+			"1" : [ "subsana" ],
+			"2" : [ "subsane" ],
+			"3" : [ "subsanemos" ],
+			"4" : [ "subsanad" ],
+			"5" : [ "subsanen" ]
+		}
+	}
+}

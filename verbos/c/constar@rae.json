@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=constar",
+	"word" : "constar",
+	"infinitivo" : "constar",
+	"participio" : [ "constado" ],
+	"gerundio" : [ "constando" ],
+	"tenses" : {
+		"3" : [
+			[ "consto" ],
+			[ "constas", "constás" ],
+			[ "consta" ],
+			[ "constamos" ],
+			[ "constáis", "constan" ],
+			[ "constan" ]
+		],
+		"4" : [
+			[ "consté" ],
+			[ "constaste" ],
+			[ "constó" ],
+			[ "constamos" ],
+			[ "constasteis", "constaron" ],
+			[ "constaron" ]
+		],
+		"5" : [
+			[ "constaba" ],
+			[ "constabas" ],
+			[ "constaba" ],
+			[ "constábamos" ],
+			[ "constabais", "constaban" ],
+			[ "constaban" ]
+		],
+		"6" : [
+			[ "constaría" ],
+			[ "constarías" ],
+			[ "constaría" ],
+			[ "constaríamos" ],
+			[ "constaríais", "constarían" ],
+			[ "constarían" ]
+		],
+		"7" : [
+			[ "constaré" ],
+			[ "constarás" ],
+			[ "constará" ],
+			[ "constaremos" ],
+			[ "constaréis", "constarán" ],
+			[ "constarán" ]
+		],
+		"8" : [
+			[ "conste" ],
+			[ "constes" ],
+			[ "conste" ],
+			[ "constemos" ],
+			[ "constéis", "consten" ],
+			[ "consten" ]
+		],
+		"9" : [
+			[ "constara" ],
+			[ "constaras" ],
+			[ "constara" ],
+			[ "constáramos" ],
+			[ "constarais", "constaran" ],
+			[ "constaran" ]
+		],
+		"10" : [
+			[ "constase" ],
+			[ "constases" ],
+			[ "constase" ],
+			[ "constásemos" ],
+			[ "constaseis", "constasen" ],
+			[ "constasen" ]
+		],
+		"11" : [
+			[ "constare" ],
+			[ "constares" ],
+			[ "constare" ],
+			[ "constáremos" ],
+			[ "constareis", "constaren" ],
+			[ "constaren" ]
+		],
+		"12" : {
+			"1" : [ "consta" ],
+			"2" : [ "conste" ],
+			"3" : [ "constemos" ],
+			"4" : [ "constad" ],
+			"5" : [ "consten" ]
+		}
+	}
+}

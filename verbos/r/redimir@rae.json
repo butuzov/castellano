@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=redimir",
+	"word" : "redimir",
+	"infinitivo" : "redimir",
+	"participio" : [ "redimido" ],
+	"gerundio" : [ "redimiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "redimo" ],
+			[ "redimes", "redimís" ],
+			[ "redime" ],
+			[ "redimimos" ],
+			[ "redimís", "redimen" ],
+			[ "redimen" ]
+		],
+		"4" : [
+			[ "redimí" ],
+			[ "redimiste" ],
+			[ "redimió" ],
+			[ "redimimos" ],
+			[ "redimisteis", "redimieron" ],
+			[ "redimieron" ]
+		],
+		"5" : [
+			[ "redimía" ],
+			[ "redimías" ],
+			[ "redimía" ],
+			[ "redimíamos" ],
+			[ "redimíais", "redimían" ],
+			[ "redimían" ]
+		],
+		"6" : [
+			[ "redimiría" ],
+			[ "redimirías" ],
+			[ "redimiría" ],
+			[ "redimiríamos" ],
+			[ "redimiríais", "redimirían" ],
+			[ "redimirían" ]
+		],
+		"7" : [
+			[ "redimiré" ],
+			[ "redimirás" ],
+			[ "redimirá" ],
+			[ "redimiremos" ],
+			[ "redimiréis", "redimirán" ],
+			[ "redimirán" ]
+		],
+		"8" : [
+			[ "redima" ],
+			[ "redimas" ],
+			[ "redima" ],
+			[ "redimamos" ],
+			[ "redimáis", "rediman" ],
+			[ "rediman" ]
+		],
+		"9" : [
+			[ "redimiera" ],
+			[ "redimieras" ],
+			[ "redimiera" ],
+			[ "redimiéramos" ],
+			[ "redimierais", "redimieran" ],
+			[ "redimieran" ]
+		],
+		"10" : [
+			[ "redimiese" ],
+			[ "redimieses" ],
+			[ "redimiese" ],
+			[ "redimiésemos" ],
+			[ "redimieseis", "redimiesen" ],
+			[ "redimiesen" ]
+		],
+		"11" : [
+			[ "redimiere" ],
+			[ "redimieres" ],
+			[ "redimiere" ],
+			[ "redimiéremos" ],
+			[ "redimiereis", "redimieren" ],
+			[ "redimieren" ]
+		],
+		"12" : {
+			"1" : [ "redime" ],
+			"2" : [ "redima" ],
+			"3" : [ "redimamos" ],
+			"4" : [ "redimid" ],
+			"5" : [ "rediman" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=simplificar",
+	"word" : "simplificar",
+	"infinitivo" : "simplificar",
+	"participio" : [ "simplificado" ],
+	"gerundio" : [ "simplificando" ],
+	"tenses" : {
+		"3" : [
+			[ "simplifico" ],
+			[ "simplificas", "simplificás" ],
+			[ "simplifica" ],
+			[ "simplificamos" ],
+			[ "simplificáis", "simplifican" ],
+			[ "simplifican" ]
+		],
+		"4" : [
+			[ "simplifiqué" ],
+			[ "simplificaste" ],
+			[ "simplificó" ],
+			[ "simplificamos" ],
+			[ "simplificasteis", "simplificaron" ],
+			[ "simplificaron" ]
+		],
+		"5" : [
+			[ "simplificaba" ],
+			[ "simplificabas" ],
+			[ "simplificaba" ],
+			[ "simplificábamos" ],
+			[ "simplificabais", "simplificaban" ],
+			[ "simplificaban" ]
+		],
+		"6" : [
+			[ "simplificaría" ],
+			[ "simplificarías" ],
+			[ "simplificaría" ],
+			[ "simplificaríamos" ],
+			[ "simplificaríais", "simplificarían" ],
+			[ "simplificarían" ]
+		],
+		"7" : [
+			[ "simplificaré" ],
+			[ "simplificarás" ],
+			[ "simplificará" ],
+			[ "simplificaremos" ],
+			[ "simplificaréis", "simplificarán" ],
+			[ "simplificarán" ]
+		],
+		"8" : [
+			[ "simplifique" ],
+			[ "simplifiques" ],
+			[ "simplifique" ],
+			[ "simplifiquemos" ],
+			[ "simplifiquéis", "simplifiquen" ],
+			[ "simplifiquen" ]
+		],
+		"9" : [
+			[ "simplificara" ],
+			[ "simplificaras" ],
+			[ "simplificara" ],
+			[ "simplificáramos" ],
+			[ "simplificarais", "simplificaran" ],
+			[ "simplificaran" ]
+		],
+		"10" : [
+			[ "simplificase" ],
+			[ "simplificases" ],
+			[ "simplificase" ],
+			[ "simplificásemos" ],
+			[ "simplificaseis", "simplificasen" ],
+			[ "simplificasen" ]
+		],
+		"11" : [
+			[ "simplificare" ],
+			[ "simplificares" ],
+			[ "simplificare" ],
+			[ "simplificáremos" ],
+			[ "simplificareis", "simplificaren" ],
+			[ "simplificaren" ]
+		],
+		"12" : {
+			"1" : [ "simplifica" ],
+			"2" : [ "simplifique" ],
+			"3" : [ "simplifiquemos" ],
+			"4" : [ "simplificad" ],
+			"5" : [ "simplifiquen" ]
+		}
+	}
+}

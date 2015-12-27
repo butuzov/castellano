@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=normar",
+	"word" : "normar",
+	"infinitivo" : "normar",
+	"participio" : [ "normado" ],
+	"gerundio" : [ "normando" ],
+	"tenses" : {
+		"3" : [
+			[ "normo" ],
+			[ "normas", "normás" ],
+			[ "norma" ],
+			[ "normamos" ],
+			[ "normáis", "norman" ],
+			[ "norman" ]
+		],
+		"4" : [
+			[ "normé" ],
+			[ "normaste" ],
+			[ "normó" ],
+			[ "normamos" ],
+			[ "normasteis", "normaron" ],
+			[ "normaron" ]
+		],
+		"5" : [
+			[ "normaba" ],
+			[ "normabas" ],
+			[ "normaba" ],
+			[ "normábamos" ],
+			[ "normabais", "normaban" ],
+			[ "normaban" ]
+		],
+		"6" : [
+			[ "normaría" ],
+			[ "normarías" ],
+			[ "normaría" ],
+			[ "normaríamos" ],
+			[ "normaríais", "normarían" ],
+			[ "normarían" ]
+		],
+		"7" : [
+			[ "normaré" ],
+			[ "normarás" ],
+			[ "normará" ],
+			[ "normaremos" ],
+			[ "normaréis", "normarán" ],
+			[ "normarán" ]
+		],
+		"8" : [
+			[ "norme" ],
+			[ "normes" ],
+			[ "norme" ],
+			[ "normemos" ],
+			[ "norméis", "normen" ],
+			[ "normen" ]
+		],
+		"9" : [
+			[ "normara" ],
+			[ "normaras" ],
+			[ "normara" ],
+			[ "normáramos" ],
+			[ "normarais", "normaran" ],
+			[ "normaran" ]
+		],
+		"10" : [
+			[ "normase" ],
+			[ "normases" ],
+			[ "normase" ],
+			[ "normásemos" ],
+			[ "normaseis", "normasen" ],
+			[ "normasen" ]
+		],
+		"11" : [
+			[ "normare" ],
+			[ "normares" ],
+			[ "normare" ],
+			[ "normáremos" ],
+			[ "normareis", "normaren" ],
+			[ "normaren" ]
+		],
+		"12" : {
+			"1" : [ "norma" ],
+			"2" : [ "norme" ],
+			"3" : [ "normemos" ],
+			"4" : [ "normad" ],
+			"5" : [ "normen" ]
+		}
+	}
+}

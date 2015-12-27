@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amarar",
+	"word" : "amarar",
+	"infinitivo" : "amarar",
+	"participio" : [ "amarado" ],
+	"gerundio" : [ "amarando" ],
+	"tenses" : {
+		"3" : [
+			[ "amaro" ],
+			[ "amaras", "amarás" ],
+			[ "amara" ],
+			[ "amaramos" ],
+			[ "amaráis", "amaran" ],
+			[ "amaran" ]
+		],
+		"4" : [
+			[ "amaré" ],
+			[ "amaraste" ],
+			[ "amaró" ],
+			[ "amaramos" ],
+			[ "amarasteis", "amararon" ],
+			[ "amararon" ]
+		],
+		"5" : [
+			[ "amaraba" ],
+			[ "amarabas" ],
+			[ "amaraba" ],
+			[ "amarábamos" ],
+			[ "amarabais", "amaraban" ],
+			[ "amaraban" ]
+		],
+		"6" : [
+			[ "amararía" ],
+			[ "amararías" ],
+			[ "amararía" ],
+			[ "amararíamos" ],
+			[ "amararíais", "amararían" ],
+			[ "amararían" ]
+		],
+		"7" : [
+			[ "amararé" ],
+			[ "amararás" ],
+			[ "amarará" ],
+			[ "amararemos" ],
+			[ "amararéis", "amararán" ],
+			[ "amararán" ]
+		],
+		"8" : [
+			[ "amare" ],
+			[ "amares" ],
+			[ "amare" ],
+			[ "amaremos" ],
+			[ "amaréis", "amaren" ],
+			[ "amaren" ]
+		],
+		"9" : [
+			[ "amarara" ],
+			[ "amararas" ],
+			[ "amarara" ],
+			[ "amaráramos" ],
+			[ "amararais", "amararan" ],
+			[ "amararan" ]
+		],
+		"10" : [
+			[ "amarase" ],
+			[ "amarases" ],
+			[ "amarase" ],
+			[ "amarásemos" ],
+			[ "amaraseis", "amarasen" ],
+			[ "amarasen" ]
+		],
+		"11" : [
+			[ "amarare" ],
+			[ "amarares" ],
+			[ "amarare" ],
+			[ "amaráremos" ],
+			[ "amarareis", "amararen" ],
+			[ "amararen" ]
+		],
+		"12" : {
+			"1" : [ "amara" ],
+			"2" : [ "amare" ],
+			"3" : [ "amaremos" ],
+			"4" : [ "amarad" ],
+			"5" : [ "amaren" ]
+		}
+	}
+}

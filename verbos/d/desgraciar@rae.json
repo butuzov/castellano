@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desgraciar",
+	"word" : "desgraciar",
+	"infinitivo" : "desgraciar",
+	"participio" : [ "desgraciado" ],
+	"gerundio" : [ "desgraciando" ],
+	"tenses" : {
+		"3" : [
+			[ "desgracio" ],
+			[ "desgracias", "desgraciás" ],
+			[ "desgracia" ],
+			[ "desgraciamos" ],
+			[ "desgraciáis", "desgracian" ],
+			[ "desgracian" ]
+		],
+		"4" : [
+			[ "desgracié" ],
+			[ "desgraciaste" ],
+			[ "desgració" ],
+			[ "desgraciamos" ],
+			[ "desgraciasteis", "desgraciaron" ],
+			[ "desgraciaron" ]
+		],
+		"5" : [
+			[ "desgraciaba" ],
+			[ "desgraciabas" ],
+			[ "desgraciaba" ],
+			[ "desgraciábamos" ],
+			[ "desgraciabais", "desgraciaban" ],
+			[ "desgraciaban" ]
+		],
+		"6" : [
+			[ "desgraciaría" ],
+			[ "desgraciarías" ],
+			[ "desgraciaría" ],
+			[ "desgraciaríamos" ],
+			[ "desgraciaríais", "desgraciarían" ],
+			[ "desgraciarían" ]
+		],
+		"7" : [
+			[ "desgraciaré" ],
+			[ "desgraciarás" ],
+			[ "desgraciará" ],
+			[ "desgraciaremos" ],
+			[ "desgraciaréis", "desgraciarán" ],
+			[ "desgraciarán" ]
+		],
+		"8" : [
+			[ "desgracie" ],
+			[ "desgracies" ],
+			[ "desgracie" ],
+			[ "desgraciemos" ],
+			[ "desgraciéis", "desgracien" ],
+			[ "desgracien" ]
+		],
+		"9" : [
+			[ "desgraciara" ],
+			[ "desgraciaras" ],
+			[ "desgraciara" ],
+			[ "desgraciáramos" ],
+			[ "desgraciarais", "desgraciaran" ],
+			[ "desgraciaran" ]
+		],
+		"10" : [
+			[ "desgraciase" ],
+			[ "desgraciases" ],
+			[ "desgraciase" ],
+			[ "desgraciásemos" ],
+			[ "desgraciaseis", "desgraciasen" ],
+			[ "desgraciasen" ]
+		],
+		"11" : [
+			[ "desgraciare" ],
+			[ "desgraciares" ],
+			[ "desgraciare" ],
+			[ "desgraciáremos" ],
+			[ "desgraciareis", "desgraciaren" ],
+			[ "desgraciaren" ]
+		],
+		"12" : {
+			"1" : [ "desgracia" ],
+			"2" : [ "desgracie" ],
+			"3" : [ "desgraciemos" ],
+			"4" : [ "desgraciad" ],
+			"5" : [ "desgracien" ]
+		}
+	}
+}

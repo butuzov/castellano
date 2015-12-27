@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=investigar",
+	"word" : "investigar",
+	"infinitivo" : "investigar",
+	"participio" : [ "investigado" ],
+	"gerundio" : [ "investigando" ],
+	"tenses" : {
+		"3" : [
+			[ "investigo" ],
+			[ "investigas", "investigás" ],
+			[ "investiga" ],
+			[ "investigamos" ],
+			[ "investigáis", "investigan" ],
+			[ "investigan" ]
+		],
+		"4" : [
+			[ "investigué" ],
+			[ "investigaste" ],
+			[ "investigó" ],
+			[ "investigamos" ],
+			[ "investigasteis", "investigaron" ],
+			[ "investigaron" ]
+		],
+		"5" : [
+			[ "investigaba" ],
+			[ "investigabas" ],
+			[ "investigaba" ],
+			[ "investigábamos" ],
+			[ "investigabais", "investigaban" ],
+			[ "investigaban" ]
+		],
+		"6" : [
+			[ "investigaría" ],
+			[ "investigarías" ],
+			[ "investigaría" ],
+			[ "investigaríamos" ],
+			[ "investigaríais", "investigarían" ],
+			[ "investigarían" ]
+		],
+		"7" : [
+			[ "investigaré" ],
+			[ "investigarás" ],
+			[ "investigará" ],
+			[ "investigaremos" ],
+			[ "investigaréis", "investigarán" ],
+			[ "investigarán" ]
+		],
+		"8" : [
+			[ "investigue" ],
+			[ "investigues" ],
+			[ "investigue" ],
+			[ "investiguemos" ],
+			[ "investiguéis", "investiguen" ],
+			[ "investiguen" ]
+		],
+		"9" : [
+			[ "investigara" ],
+			[ "investigaras" ],
+			[ "investigara" ],
+			[ "investigáramos" ],
+			[ "investigarais", "investigaran" ],
+			[ "investigaran" ]
+		],
+		"10" : [
+			[ "investigase" ],
+			[ "investigases" ],
+			[ "investigase" ],
+			[ "investigásemos" ],
+			[ "investigaseis", "investigasen" ],
+			[ "investigasen" ]
+		],
+		"11" : [
+			[ "investigare" ],
+			[ "investigares" ],
+			[ "investigare" ],
+			[ "investigáremos" ],
+			[ "investigareis", "investigaren" ],
+			[ "investigaren" ]
+		],
+		"12" : {
+			"1" : [ "investiga" ],
+			"2" : [ "investigue" ],
+			"3" : [ "investiguemos" ],
+			"4" : [ "investigad" ],
+			"5" : [ "investiguen" ]
+		}
+	}
+}

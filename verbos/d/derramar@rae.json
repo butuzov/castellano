@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=derramar",
+	"word" : "derramar",
+	"infinitivo" : "derramar",
+	"participio" : [ "derramado" ],
+	"gerundio" : [ "derramando" ],
+	"tenses" : {
+		"3" : [
+			[ "derramo" ],
+			[ "derramas", "derramás" ],
+			[ "derrama" ],
+			[ "derramamos" ],
+			[ "derramáis", "derraman" ],
+			[ "derraman" ]
+		],
+		"4" : [
+			[ "derramé" ],
+			[ "derramaste" ],
+			[ "derramó" ],
+			[ "derramamos" ],
+			[ "derramasteis", "derramaron" ],
+			[ "derramaron" ]
+		],
+		"5" : [
+			[ "derramaba" ],
+			[ "derramabas" ],
+			[ "derramaba" ],
+			[ "derramábamos" ],
+			[ "derramabais", "derramaban" ],
+			[ "derramaban" ]
+		],
+		"6" : [
+			[ "derramaría" ],
+			[ "derramarías" ],
+			[ "derramaría" ],
+			[ "derramaríamos" ],
+			[ "derramaríais", "derramarían" ],
+			[ "derramarían" ]
+		],
+		"7" : [
+			[ "derramaré" ],
+			[ "derramarás" ],
+			[ "derramará" ],
+			[ "derramaremos" ],
+			[ "derramaréis", "derramarán" ],
+			[ "derramarán" ]
+		],
+		"8" : [
+			[ "derrame" ],
+			[ "derrames" ],
+			[ "derrame" ],
+			[ "derramemos" ],
+			[ "derraméis", "derramen" ],
+			[ "derramen" ]
+		],
+		"9" : [
+			[ "derramara" ],
+			[ "derramaras" ],
+			[ "derramara" ],
+			[ "derramáramos" ],
+			[ "derramarais", "derramaran" ],
+			[ "derramaran" ]
+		],
+		"10" : [
+			[ "derramase" ],
+			[ "derramases" ],
+			[ "derramase" ],
+			[ "derramásemos" ],
+			[ "derramaseis", "derramasen" ],
+			[ "derramasen" ]
+		],
+		"11" : [
+			[ "derramare" ],
+			[ "derramares" ],
+			[ "derramare" ],
+			[ "derramáremos" ],
+			[ "derramareis", "derramaren" ],
+			[ "derramaren" ]
+		],
+		"12" : {
+			"1" : [ "derrama" ],
+			"2" : [ "derrame" ],
+			"3" : [ "derramemos" ],
+			"4" : [ "derramad" ],
+			"5" : [ "derramen" ]
+		}
+	}
+}

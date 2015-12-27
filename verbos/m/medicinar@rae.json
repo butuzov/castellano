@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=medicinar",
+	"word" : "medicinar",
+	"infinitivo" : "medicinar",
+	"participio" : [ "medicinado" ],
+	"gerundio" : [ "medicinando" ],
+	"tenses" : {
+		"3" : [
+			[ "medicino" ],
+			[ "medicinas", "medicinás" ],
+			[ "medicina" ],
+			[ "medicinamos" ],
+			[ "medicináis", "medicinan" ],
+			[ "medicinan" ]
+		],
+		"4" : [
+			[ "mediciné" ],
+			[ "medicinaste" ],
+			[ "medicinó" ],
+			[ "medicinamos" ],
+			[ "medicinasteis", "medicinaron" ],
+			[ "medicinaron" ]
+		],
+		"5" : [
+			[ "medicinaba" ],
+			[ "medicinabas" ],
+			[ "medicinaba" ],
+			[ "medicinábamos" ],
+			[ "medicinabais", "medicinaban" ],
+			[ "medicinaban" ]
+		],
+		"6" : [
+			[ "medicinaría" ],
+			[ "medicinarías" ],
+			[ "medicinaría" ],
+			[ "medicinaríamos" ],
+			[ "medicinaríais", "medicinarían" ],
+			[ "medicinarían" ]
+		],
+		"7" : [
+			[ "medicinaré" ],
+			[ "medicinarás" ],
+			[ "medicinará" ],
+			[ "medicinaremos" ],
+			[ "medicinaréis", "medicinarán" ],
+			[ "medicinarán" ]
+		],
+		"8" : [
+			[ "medicine" ],
+			[ "medicines" ],
+			[ "medicine" ],
+			[ "medicinemos" ],
+			[ "medicinéis", "medicinen" ],
+			[ "medicinen" ]
+		],
+		"9" : [
+			[ "medicinara" ],
+			[ "medicinaras" ],
+			[ "medicinara" ],
+			[ "medicináramos" ],
+			[ "medicinarais", "medicinaran" ],
+			[ "medicinaran" ]
+		],
+		"10" : [
+			[ "medicinase" ],
+			[ "medicinases" ],
+			[ "medicinase" ],
+			[ "medicinásemos" ],
+			[ "medicinaseis", "medicinasen" ],
+			[ "medicinasen" ]
+		],
+		"11" : [
+			[ "medicinare" ],
+			[ "medicinares" ],
+			[ "medicinare" ],
+			[ "medicináremos" ],
+			[ "medicinareis", "medicinaren" ],
+			[ "medicinaren" ]
+		],
+		"12" : {
+			"1" : [ "medicina" ],
+			"2" : [ "medicine" ],
+			"3" : [ "medicinemos" ],
+			"4" : [ "medicinad" ],
+			"5" : [ "medicinen" ]
+		}
+	}
+}

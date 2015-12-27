@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=galopar",
+	"word" : "galopar",
+	"infinitivo" : "galopar",
+	"participio" : [ "galopado" ],
+	"gerundio" : [ "galopando" ],
+	"tenses" : {
+		"3" : [
+			[ "galopo" ],
+			[ "galopas", "galopás" ],
+			[ "galopa" ],
+			[ "galopamos" ],
+			[ "galopáis", "galopan" ],
+			[ "galopan" ]
+		],
+		"4" : [
+			[ "galopé" ],
+			[ "galopaste" ],
+			[ "galopó" ],
+			[ "galopamos" ],
+			[ "galopasteis", "galoparon" ],
+			[ "galoparon" ]
+		],
+		"5" : [
+			[ "galopaba" ],
+			[ "galopabas" ],
+			[ "galopaba" ],
+			[ "galopábamos" ],
+			[ "galopabais", "galopaban" ],
+			[ "galopaban" ]
+		],
+		"6" : [
+			[ "galoparía" ],
+			[ "galoparías" ],
+			[ "galoparía" ],
+			[ "galoparíamos" ],
+			[ "galoparíais", "galoparían" ],
+			[ "galoparían" ]
+		],
+		"7" : [
+			[ "galoparé" ],
+			[ "galoparás" ],
+			[ "galopará" ],
+			[ "galoparemos" ],
+			[ "galoparéis", "galoparán" ],
+			[ "galoparán" ]
+		],
+		"8" : [
+			[ "galope" ],
+			[ "galopes" ],
+			[ "galope" ],
+			[ "galopemos" ],
+			[ "galopéis", "galopen" ],
+			[ "galopen" ]
+		],
+		"9" : [
+			[ "galopara" ],
+			[ "galoparas" ],
+			[ "galopara" ],
+			[ "galopáramos" ],
+			[ "galoparais", "galoparan" ],
+			[ "galoparan" ]
+		],
+		"10" : [
+			[ "galopase" ],
+			[ "galopases" ],
+			[ "galopase" ],
+			[ "galopásemos" ],
+			[ "galopaseis", "galopasen" ],
+			[ "galopasen" ]
+		],
+		"11" : [
+			[ "galopare" ],
+			[ "galopares" ],
+			[ "galopare" ],
+			[ "galopáremos" ],
+			[ "galopareis", "galoparen" ],
+			[ "galoparen" ]
+		],
+		"12" : {
+			"1" : [ "galopa" ],
+			"2" : [ "galope" ],
+			"3" : [ "galopemos" ],
+			"4" : [ "galopad" ],
+			"5" : [ "galopen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=castellanizar",
+	"word" : "castellanizar",
+	"infinitivo" : "castellanizar",
+	"participio" : [ "castellanizado" ],
+	"gerundio" : [ "castellanizando" ],
+	"tenses" : {
+		"3" : [
+			[ "castellanizo" ],
+			[ "castellanizas", "castellanizás" ],
+			[ "castellaniza" ],
+			[ "castellanizamos" ],
+			[ "castellanizáis", "castellanizan" ],
+			[ "castellanizan" ]
+		],
+		"4" : [
+			[ "castellanicé" ],
+			[ "castellanizaste" ],
+			[ "castellanizó" ],
+			[ "castellanizamos" ],
+			[ "castellanizasteis", "castellanizaron" ],
+			[ "castellanizaron" ]
+		],
+		"5" : [
+			[ "castellanizaba" ],
+			[ "castellanizabas" ],
+			[ "castellanizaba" ],
+			[ "castellanizábamos" ],
+			[ "castellanizabais", "castellanizaban" ],
+			[ "castellanizaban" ]
+		],
+		"6" : [
+			[ "castellanizaría" ],
+			[ "castellanizarías" ],
+			[ "castellanizaría" ],
+			[ "castellanizaríamos" ],
+			[ "castellanizaríais", "castellanizarían" ],
+			[ "castellanizarían" ]
+		],
+		"7" : [
+			[ "castellanizaré" ],
+			[ "castellanizarás" ],
+			[ "castellanizará" ],
+			[ "castellanizaremos" ],
+			[ "castellanizaréis", "castellanizarán" ],
+			[ "castellanizarán" ]
+		],
+		"8" : [
+			[ "castellanice" ],
+			[ "castellanices" ],
+			[ "castellanice" ],
+			[ "castellanicemos" ],
+			[ "castellanicéis", "castellanicen" ],
+			[ "castellanicen" ]
+		],
+		"9" : [
+			[ "castellanizara" ],
+			[ "castellanizaras" ],
+			[ "castellanizara" ],
+			[ "castellanizáramos" ],
+			[ "castellanizarais", "castellanizaran" ],
+			[ "castellanizaran" ]
+		],
+		"10" : [
+			[ "castellanizase" ],
+			[ "castellanizases" ],
+			[ "castellanizase" ],
+			[ "castellanizásemos" ],
+			[ "castellanizaseis", "castellanizasen" ],
+			[ "castellanizasen" ]
+		],
+		"11" : [
+			[ "castellanizare" ],
+			[ "castellanizares" ],
+			[ "castellanizare" ],
+			[ "castellanizáremos" ],
+			[ "castellanizareis", "castellanizaren" ],
+			[ "castellanizaren" ]
+		],
+		"12" : {
+			"1" : [ "castellaniza" ],
+			"2" : [ "castellanice" ],
+			"3" : [ "castellanicemos" ],
+			"4" : [ "castellanizad" ],
+			"5" : [ "castellanicen" ]
+		}
+	}
+}

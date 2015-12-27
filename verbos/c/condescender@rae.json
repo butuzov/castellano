@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=condescender",
+	"word" : "condescender",
+	"infinitivo" : "condescender",
+	"participio" : [ "condescendido" ],
+	"gerundio" : [ "condescendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "condesciendo" ],
+			[ "condesciendes", "condescendés" ],
+			[ "condesciende" ],
+			[ "condescendemos" ],
+			[ "condescendéis", "condescienden" ],
+			[ "condescienden" ]
+		],
+		"4" : [
+			[ "condescendí" ],
+			[ "condescendiste" ],
+			[ "condescendió" ],
+			[ "condescendimos" ],
+			[ "condescendisteis", "condescendieron" ],
+			[ "condescendieron" ]
+		],
+		"5" : [
+			[ "condescendía" ],
+			[ "condescendías" ],
+			[ "condescendía" ],
+			[ "condescendíamos" ],
+			[ "condescendíais", "condescendían" ],
+			[ "condescendían" ]
+		],
+		"6" : [
+			[ "condescendería" ],
+			[ "condescenderías" ],
+			[ "condescendería" ],
+			[ "condescenderíamos" ],
+			[ "condescenderíais", "condescenderían" ],
+			[ "condescenderían" ]
+		],
+		"7" : [
+			[ "condescenderé" ],
+			[ "condescenderás" ],
+			[ "condescenderá" ],
+			[ "condescenderemos" ],
+			[ "condescenderéis", "condescenderán" ],
+			[ "condescenderán" ]
+		],
+		"8" : [
+			[ "condescienda" ],
+			[ "condesciendas" ],
+			[ "condescienda" ],
+			[ "condescendamos" ],
+			[ "condescendáis", "condesciendan" ],
+			[ "condesciendan" ]
+		],
+		"9" : [
+			[ "condescendiera" ],
+			[ "condescendieras" ],
+			[ "condescendiera" ],
+			[ "condescendiéramos" ],
+			[ "condescendierais", "condescendieran" ],
+			[ "condescendieran" ]
+		],
+		"10" : [
+			[ "condescendiese" ],
+			[ "condescendieses" ],
+			[ "condescendiese" ],
+			[ "condescendiésemos" ],
+			[ "condescendieseis", "condescendiesen" ],
+			[ "condescendiesen" ]
+		],
+		"11" : [
+			[ "condescendiere" ],
+			[ "condescendieres" ],
+			[ "condescendiere" ],
+			[ "condescendiéremos" ],
+			[ "condescendiereis", "condescendieren" ],
+			[ "condescendieren" ]
+		],
+		"12" : {
+			"1" : [ "condesciende" ],
+			"2" : [ "condescienda" ],
+			"3" : [ "condescendamos" ],
+			"4" : [ "condescended" ],
+			"5" : [ "condesciendan" ]
+		}
+	}
+}

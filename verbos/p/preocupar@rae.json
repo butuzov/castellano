@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=preocupar",
+	"word" : "preocupar",
+	"infinitivo" : "preocupar",
+	"participio" : [ "preocupado" ],
+	"gerundio" : [ "preocupando" ],
+	"tenses" : {
+		"3" : [
+			[ "preocupo" ],
+			[ "preocupas", "preocupás" ],
+			[ "preocupa" ],
+			[ "preocupamos" ],
+			[ "preocupáis", "preocupan" ],
+			[ "preocupan" ]
+		],
+		"4" : [
+			[ "preocupé" ],
+			[ "preocupaste" ],
+			[ "preocupó" ],
+			[ "preocupamos" ],
+			[ "preocupasteis", "preocuparon" ],
+			[ "preocuparon" ]
+		],
+		"5" : [
+			[ "preocupaba" ],
+			[ "preocupabas" ],
+			[ "preocupaba" ],
+			[ "preocupábamos" ],
+			[ "preocupabais", "preocupaban" ],
+			[ "preocupaban" ]
+		],
+		"6" : [
+			[ "preocuparía" ],
+			[ "preocuparías" ],
+			[ "preocuparía" ],
+			[ "preocuparíamos" ],
+			[ "preocuparíais", "preocuparían" ],
+			[ "preocuparían" ]
+		],
+		"7" : [
+			[ "preocuparé" ],
+			[ "preocuparás" ],
+			[ "preocupará" ],
+			[ "preocuparemos" ],
+			[ "preocuparéis", "preocuparán" ],
+			[ "preocuparán" ]
+		],
+		"8" : [
+			[ "preocupe" ],
+			[ "preocupes" ],
+			[ "preocupe" ],
+			[ "preocupemos" ],
+			[ "preocupéis", "preocupen" ],
+			[ "preocupen" ]
+		],
+		"9" : [
+			[ "preocupara" ],
+			[ "preocuparas" ],
+			[ "preocupara" ],
+			[ "preocupáramos" ],
+			[ "preocuparais", "preocuparan" ],
+			[ "preocuparan" ]
+		],
+		"10" : [
+			[ "preocupase" ],
+			[ "preocupases" ],
+			[ "preocupase" ],
+			[ "preocupásemos" ],
+			[ "preocupaseis", "preocupasen" ],
+			[ "preocupasen" ]
+		],
+		"11" : [
+			[ "preocupare" ],
+			[ "preocupares" ],
+			[ "preocupare" ],
+			[ "preocupáremos" ],
+			[ "preocupareis", "preocuparen" ],
+			[ "preocuparen" ]
+		],
+		"12" : {
+			"1" : [ "preocupa" ],
+			"2" : [ "preocupe" ],
+			"3" : [ "preocupemos" ],
+			"4" : [ "preocupad" ],
+			"5" : [ "preocupen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emputarse",
+	"word" : "emputarse",
+	"infinitivo" : "emputarse",
+	"participio" : [ "emputado" ],
+	"gerundio" : [ "emputándome", "emputándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me emputo" ],
+			[ "te emputas", "te emputás" ],
+			[ "se emputa" ],
+			[ "nos emputamos" ],
+			[ "os emputáis", "se emputan" ],
+			[ "se emputan" ]
+		],
+		"4" : [
+			[ "me emputé" ],
+			[ "te emputaste" ],
+			[ "se emputó" ],
+			[ "nos emputamos" ],
+			[ "os emputasteis", "se emputaron" ],
+			[ "se emputaron" ]
+		],
+		"5" : [
+			[ "me emputaba" ],
+			[ "te emputabas" ],
+			[ "se emputaba" ],
+			[ "nos emputábamos" ],
+			[ "os emputabais", "se emputaban" ],
+			[ "se emputaban" ]
+		],
+		"6" : [
+			[ "me emputaría" ],
+			[ "te emputarías" ],
+			[ "se emputaría" ],
+			[ "nos emputaríamos" ],
+			[ "os emputaríais", "se emputarían" ],
+			[ "se emputarían" ]
+		],
+		"7" : [
+			[ "me emputaré" ],
+			[ "te emputarás" ],
+			[ "se emputará" ],
+			[ "nos emputaremos" ],
+			[ "os emputaréis", "se emputarán" ],
+			[ "se emputarán" ]
+		],
+		"8" : [
+			[ "me empute" ],
+			[ "te emputes" ],
+			[ "se empute" ],
+			[ "nos emputemos" ],
+			[ "os emputéis", "se emputen" ],
+			[ "se emputen" ]
+		],
+		"9" : [
+			[ "me emputara" ],
+			[ "te emputaras" ],
+			[ "se emputara" ],
+			[ "nos emputáramos" ],
+			[ "os emputarais", "se emputaran" ],
+			[ "se emputaran" ]
+		],
+		"10" : [
+			[ "me emputase" ],
+			[ "te emputases" ],
+			[ "se emputase" ],
+			[ "nos emputásemos" ],
+			[ "os emputaseis", "se emputasen" ],
+			[ "se emputasen" ]
+		],
+		"11" : [
+			[ "me emputare" ],
+			[ "te emputares" ],
+			[ "se emputare" ],
+			[ "nos emputáremos" ],
+			[ "os emputareis", "se emputaren" ],
+			[ "se emputaren" ]
+		],
+		"12" : {
+			"1" : [ "empútate" ],
+			"2" : [ "empute" ],
+			"3" : [ "emputemos" ],
+			"4" : [ "emputaos" ],
+			"5" : [ "empútense" ]
+		}
+	}
+}

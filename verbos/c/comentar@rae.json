@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comentar",
+	"word" : "comentar",
+	"infinitivo" : "comentar",
+	"participio" : [ "comentado" ],
+	"gerundio" : [ "comentando" ],
+	"tenses" : {
+		"3" : [
+			[ "comento" ],
+			[ "comentas", "comentás" ],
+			[ "comenta" ],
+			[ "comentamos" ],
+			[ "comentáis", "comentan" ],
+			[ "comentan" ]
+		],
+		"4" : [
+			[ "comenté" ],
+			[ "comentaste" ],
+			[ "comentó" ],
+			[ "comentamos" ],
+			[ "comentasteis", "comentaron" ],
+			[ "comentaron" ]
+		],
+		"5" : [
+			[ "comentaba" ],
+			[ "comentabas" ],
+			[ "comentaba" ],
+			[ "comentábamos" ],
+			[ "comentabais", "comentaban" ],
+			[ "comentaban" ]
+		],
+		"6" : [
+			[ "comentaría" ],
+			[ "comentarías" ],
+			[ "comentaría" ],
+			[ "comentaríamos" ],
+			[ "comentaríais", "comentarían" ],
+			[ "comentarían" ]
+		],
+		"7" : [
+			[ "comentaré" ],
+			[ "comentarás" ],
+			[ "comentará" ],
+			[ "comentaremos" ],
+			[ "comentaréis", "comentarán" ],
+			[ "comentarán" ]
+		],
+		"8" : [
+			[ "comente" ],
+			[ "comentes" ],
+			[ "comente" ],
+			[ "comentemos" ],
+			[ "comentéis", "comenten" ],
+			[ "comenten" ]
+		],
+		"9" : [
+			[ "comentara" ],
+			[ "comentaras" ],
+			[ "comentara" ],
+			[ "comentáramos" ],
+			[ "comentarais", "comentaran" ],
+			[ "comentaran" ]
+		],
+		"10" : [
+			[ "comentase" ],
+			[ "comentases" ],
+			[ "comentase" ],
+			[ "comentásemos" ],
+			[ "comentaseis", "comentasen" ],
+			[ "comentasen" ]
+		],
+		"11" : [
+			[ "comentare" ],
+			[ "comentares" ],
+			[ "comentare" ],
+			[ "comentáremos" ],
+			[ "comentareis", "comentaren" ],
+			[ "comentaren" ]
+		],
+		"12" : {
+			"1" : [ "comenta" ],
+			"2" : [ "comente" ],
+			"3" : [ "comentemos" ],
+			"4" : [ "comentad" ],
+			"5" : [ "comenten" ]
+		}
+	}
+}

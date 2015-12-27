@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fornicar",
+	"word" : "fornicar",
+	"infinitivo" : "fornicar",
+	"participio" : [ "fornicado" ],
+	"gerundio" : [ "fornicando" ],
+	"tenses" : {
+		"3" : [
+			[ "fornico" ],
+			[ "fornicas", "fornicás" ],
+			[ "fornica" ],
+			[ "fornicamos" ],
+			[ "fornicáis", "fornican" ],
+			[ "fornican" ]
+		],
+		"4" : [
+			[ "forniqué" ],
+			[ "fornicaste" ],
+			[ "fornicó" ],
+			[ "fornicamos" ],
+			[ "fornicasteis", "fornicaron" ],
+			[ "fornicaron" ]
+		],
+		"5" : [
+			[ "fornicaba" ],
+			[ "fornicabas" ],
+			[ "fornicaba" ],
+			[ "fornicábamos" ],
+			[ "fornicabais", "fornicaban" ],
+			[ "fornicaban" ]
+		],
+		"6" : [
+			[ "fornicaría" ],
+			[ "fornicarías" ],
+			[ "fornicaría" ],
+			[ "fornicaríamos" ],
+			[ "fornicaríais", "fornicarían" ],
+			[ "fornicarían" ]
+		],
+		"7" : [
+			[ "fornicaré" ],
+			[ "fornicarás" ],
+			[ "fornicará" ],
+			[ "fornicaremos" ],
+			[ "fornicaréis", "fornicarán" ],
+			[ "fornicarán" ]
+		],
+		"8" : [
+			[ "fornique" ],
+			[ "forniques" ],
+			[ "fornique" ],
+			[ "forniquemos" ],
+			[ "forniquéis", "forniquen" ],
+			[ "forniquen" ]
+		],
+		"9" : [
+			[ "fornicara" ],
+			[ "fornicaras" ],
+			[ "fornicara" ],
+			[ "fornicáramos" ],
+			[ "fornicarais", "fornicaran" ],
+			[ "fornicaran" ]
+		],
+		"10" : [
+			[ "fornicase" ],
+			[ "fornicases" ],
+			[ "fornicase" ],
+			[ "fornicásemos" ],
+			[ "fornicaseis", "fornicasen" ],
+			[ "fornicasen" ]
+		],
+		"11" : [
+			[ "fornicare" ],
+			[ "fornicares" ],
+			[ "fornicare" ],
+			[ "fornicáremos" ],
+			[ "fornicareis", "fornicaren" ],
+			[ "fornicaren" ]
+		],
+		"12" : {
+			"1" : [ "fornica" ],
+			"2" : [ "fornique" ],
+			"3" : [ "forniquemos" ],
+			"4" : [ "fornicad" ],
+			"5" : [ "forniquen" ]
+		}
+	}
+}

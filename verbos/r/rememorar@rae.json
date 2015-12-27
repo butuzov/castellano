@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rememorar",
+	"word" : "rememorar",
+	"infinitivo" : "rememorar",
+	"participio" : [ "rememorado" ],
+	"gerundio" : [ "rememorando" ],
+	"tenses" : {
+		"3" : [
+			[ "rememoro" ],
+			[ "rememoras", "rememorás" ],
+			[ "rememora" ],
+			[ "rememoramos" ],
+			[ "rememoráis", "rememoran" ],
+			[ "rememoran" ]
+		],
+		"4" : [
+			[ "rememoré" ],
+			[ "rememoraste" ],
+			[ "rememoró" ],
+			[ "rememoramos" ],
+			[ "rememorasteis", "rememoraron" ],
+			[ "rememoraron" ]
+		],
+		"5" : [
+			[ "rememoraba" ],
+			[ "rememorabas" ],
+			[ "rememoraba" ],
+			[ "rememorábamos" ],
+			[ "rememorabais", "rememoraban" ],
+			[ "rememoraban" ]
+		],
+		"6" : [
+			[ "rememoraría" ],
+			[ "rememorarías" ],
+			[ "rememoraría" ],
+			[ "rememoraríamos" ],
+			[ "rememoraríais", "rememorarían" ],
+			[ "rememorarían" ]
+		],
+		"7" : [
+			[ "rememoraré" ],
+			[ "rememorarás" ],
+			[ "rememorará" ],
+			[ "rememoraremos" ],
+			[ "rememoraréis", "rememorarán" ],
+			[ "rememorarán" ]
+		],
+		"8" : [
+			[ "rememore" ],
+			[ "rememores" ],
+			[ "rememore" ],
+			[ "rememoremos" ],
+			[ "rememoréis", "rememoren" ],
+			[ "rememoren" ]
+		],
+		"9" : [
+			[ "rememorara" ],
+			[ "rememoraras" ],
+			[ "rememorara" ],
+			[ "rememoráramos" ],
+			[ "rememorarais", "rememoraran" ],
+			[ "rememoraran" ]
+		],
+		"10" : [
+			[ "rememorase" ],
+			[ "rememorases" ],
+			[ "rememorase" ],
+			[ "rememorásemos" ],
+			[ "rememoraseis", "rememorasen" ],
+			[ "rememorasen" ]
+		],
+		"11" : [
+			[ "rememorare" ],
+			[ "rememorares" ],
+			[ "rememorare" ],
+			[ "rememoráremos" ],
+			[ "rememorareis", "rememoraren" ],
+			[ "rememoraren" ]
+		],
+		"12" : {
+			"1" : [ "rememora" ],
+			"2" : [ "rememore" ],
+			"3" : [ "rememoremos" ],
+			"4" : [ "rememorad" ],
+			"5" : [ "rememoren" ]
+		}
+	}
+}

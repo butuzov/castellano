@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desempacar",
+	"word" : "desempacar",
+	"infinitivo" : "desempacar",
+	"participio" : [ "desempacado" ],
+	"gerundio" : [ "desempacando" ],
+	"tenses" : {
+		"3" : [
+			[ "desempaco" ],
+			[ "desempacas", "desempacás" ],
+			[ "desempaca" ],
+			[ "desempacamos" ],
+			[ "desempacáis", "desempacan" ],
+			[ "desempacan" ]
+		],
+		"4" : [
+			[ "desempaqué" ],
+			[ "desempacaste" ],
+			[ "desempacó" ],
+			[ "desempacamos" ],
+			[ "desempacasteis", "desempacaron" ],
+			[ "desempacaron" ]
+		],
+		"5" : [
+			[ "desempacaba" ],
+			[ "desempacabas" ],
+			[ "desempacaba" ],
+			[ "desempacábamos" ],
+			[ "desempacabais", "desempacaban" ],
+			[ "desempacaban" ]
+		],
+		"6" : [
+			[ "desempacaría" ],
+			[ "desempacarías" ],
+			[ "desempacaría" ],
+			[ "desempacaríamos" ],
+			[ "desempacaríais", "desempacarían" ],
+			[ "desempacarían" ]
+		],
+		"7" : [
+			[ "desempacaré" ],
+			[ "desempacarás" ],
+			[ "desempacará" ],
+			[ "desempacaremos" ],
+			[ "desempacaréis", "desempacarán" ],
+			[ "desempacarán" ]
+		],
+		"8" : [
+			[ "desempaque" ],
+			[ "desempaques" ],
+			[ "desempaque" ],
+			[ "desempaquemos" ],
+			[ "desempaquéis", "desempaquen" ],
+			[ "desempaquen" ]
+		],
+		"9" : [
+			[ "desempacara" ],
+			[ "desempacaras" ],
+			[ "desempacara" ],
+			[ "desempacáramos" ],
+			[ "desempacarais", "desempacaran" ],
+			[ "desempacaran" ]
+		],
+		"10" : [
+			[ "desempacase" ],
+			[ "desempacases" ],
+			[ "desempacase" ],
+			[ "desempacásemos" ],
+			[ "desempacaseis", "desempacasen" ],
+			[ "desempacasen" ]
+		],
+		"11" : [
+			[ "desempacare" ],
+			[ "desempacares" ],
+			[ "desempacare" ],
+			[ "desempacáremos" ],
+			[ "desempacareis", "desempacaren" ],
+			[ "desempacaren" ]
+		],
+		"12" : {
+			"1" : [ "desempaca" ],
+			"2" : [ "desempaque" ],
+			"3" : [ "desempaquemos" ],
+			"4" : [ "desempacad" ],
+			"5" : [ "desempaquen" ]
+		}
+	}
+}

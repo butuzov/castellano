@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=intitular",
+	"word" : "intitular",
+	"infinitivo" : "intitular",
+	"participio" : [ "intitulado" ],
+	"gerundio" : [ "intitulando" ],
+	"tenses" : {
+		"3" : [
+			[ "intitulo" ],
+			[ "intitulas", "intitulás" ],
+			[ "intitula" ],
+			[ "intitulamos" ],
+			[ "intituláis", "intitulan" ],
+			[ "intitulan" ]
+		],
+		"4" : [
+			[ "intitulé" ],
+			[ "intitulaste" ],
+			[ "intituló" ],
+			[ "intitulamos" ],
+			[ "intitulasteis", "intitularon" ],
+			[ "intitularon" ]
+		],
+		"5" : [
+			[ "intitulaba" ],
+			[ "intitulabas" ],
+			[ "intitulaba" ],
+			[ "intitulábamos" ],
+			[ "intitulabais", "intitulaban" ],
+			[ "intitulaban" ]
+		],
+		"6" : [
+			[ "intitularía" ],
+			[ "intitularías" ],
+			[ "intitularía" ],
+			[ "intitularíamos" ],
+			[ "intitularíais", "intitularían" ],
+			[ "intitularían" ]
+		],
+		"7" : [
+			[ "intitularé" ],
+			[ "intitularás" ],
+			[ "intitulará" ],
+			[ "intitularemos" ],
+			[ "intitularéis", "intitularán" ],
+			[ "intitularán" ]
+		],
+		"8" : [
+			[ "intitule" ],
+			[ "intitules" ],
+			[ "intitule" ],
+			[ "intitulemos" ],
+			[ "intituléis", "intitulen" ],
+			[ "intitulen" ]
+		],
+		"9" : [
+			[ "intitulara" ],
+			[ "intitularas" ],
+			[ "intitulara" ],
+			[ "intituláramos" ],
+			[ "intitularais", "intitularan" ],
+			[ "intitularan" ]
+		],
+		"10" : [
+			[ "intitulase" ],
+			[ "intitulases" ],
+			[ "intitulase" ],
+			[ "intitulásemos" ],
+			[ "intitulaseis", "intitulasen" ],
+			[ "intitulasen" ]
+		],
+		"11" : [
+			[ "intitulare" ],
+			[ "intitulares" ],
+			[ "intitulare" ],
+			[ "intituláremos" ],
+			[ "intitulareis", "intitularen" ],
+			[ "intitularen" ]
+		],
+		"12" : {
+			"1" : [ "intitula" ],
+			"2" : [ "intitule" ],
+			"3" : [ "intitulemos" ],
+			"4" : [ "intitulad" ],
+			"5" : [ "intitulen" ]
+		}
+	}
+}

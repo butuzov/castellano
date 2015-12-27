@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=envejecer",
+	"word" : "envejecer",
+	"infinitivo" : "envejecer",
+	"participio" : [ "envejecido" ],
+	"gerundio" : [ "envejeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "envejezco" ],
+			[ "envejeces", "envejecés" ],
+			[ "envejece" ],
+			[ "envejecemos" ],
+			[ "envejecéis", "envejecen" ],
+			[ "envejecen" ]
+		],
+		"4" : [
+			[ "envejecí" ],
+			[ "envejeciste" ],
+			[ "envejeció" ],
+			[ "envejecimos" ],
+			[ "envejecisteis", "envejecieron" ],
+			[ "envejecieron" ]
+		],
+		"5" : [
+			[ "envejecía" ],
+			[ "envejecías" ],
+			[ "envejecía" ],
+			[ "envejecíamos" ],
+			[ "envejecíais", "envejecían" ],
+			[ "envejecían" ]
+		],
+		"6" : [
+			[ "envejecería" ],
+			[ "envejecerías" ],
+			[ "envejecería" ],
+			[ "envejeceríamos" ],
+			[ "envejeceríais", "envejecerían" ],
+			[ "envejecerían" ]
+		],
+		"7" : [
+			[ "envejeceré" ],
+			[ "envejecerás" ],
+			[ "envejecerá" ],
+			[ "envejeceremos" ],
+			[ "envejeceréis", "envejecerán" ],
+			[ "envejecerán" ]
+		],
+		"8" : [
+			[ "envejezca" ],
+			[ "envejezcas" ],
+			[ "envejezca" ],
+			[ "envejezcamos" ],
+			[ "envejezcáis", "envejezcan" ],
+			[ "envejezcan" ]
+		],
+		"9" : [
+			[ "envejeciera" ],
+			[ "envejecieras" ],
+			[ "envejeciera" ],
+			[ "envejeciéramos" ],
+			[ "envejecierais", "envejecieran" ],
+			[ "envejecieran" ]
+		],
+		"10" : [
+			[ "envejeciese" ],
+			[ "envejecieses" ],
+			[ "envejeciese" ],
+			[ "envejeciésemos" ],
+			[ "envejecieseis", "envejeciesen" ],
+			[ "envejeciesen" ]
+		],
+		"11" : [
+			[ "envejeciere" ],
+			[ "envejecieres" ],
+			[ "envejeciere" ],
+			[ "envejeciéremos" ],
+			[ "envejeciereis", "envejecieren" ],
+			[ "envejecieren" ]
+		],
+		"12" : {
+			"1" : [ "envejece" ],
+			"2" : [ "envejezca" ],
+			"3" : [ "envejezcamos" ],
+			"4" : [ "envejeced" ],
+			"5" : [ "envejezcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=filetear",
+	"word" : "filetear",
+	"infinitivo" : "filetear",
+	"participio" : [ "fileteado" ],
+	"gerundio" : [ "fileteando" ],
+	"tenses" : {
+		"3" : [
+			[ "fileteo" ],
+			[ "fileteas", "fileteás" ],
+			[ "filetea" ],
+			[ "fileteamos" ],
+			[ "fileteáis", "filetean" ],
+			[ "filetean" ]
+		],
+		"4" : [
+			[ "fileteé" ],
+			[ "fileteaste" ],
+			[ "fileteó" ],
+			[ "fileteamos" ],
+			[ "fileteasteis", "filetearon" ],
+			[ "filetearon" ]
+		],
+		"5" : [
+			[ "fileteaba" ],
+			[ "fileteabas" ],
+			[ "fileteaba" ],
+			[ "fileteábamos" ],
+			[ "fileteabais", "fileteaban" ],
+			[ "fileteaban" ]
+		],
+		"6" : [
+			[ "filetearía" ],
+			[ "filetearías" ],
+			[ "filetearía" ],
+			[ "filetearíamos" ],
+			[ "filetearíais", "filetearían" ],
+			[ "filetearían" ]
+		],
+		"7" : [
+			[ "filetearé" ],
+			[ "filetearás" ],
+			[ "fileteará" ],
+			[ "filetearemos" ],
+			[ "filetearéis", "filetearán" ],
+			[ "filetearán" ]
+		],
+		"8" : [
+			[ "filetee" ],
+			[ "filetees" ],
+			[ "filetee" ],
+			[ "fileteemos" ],
+			[ "fileteéis", "fileteen" ],
+			[ "fileteen" ]
+		],
+		"9" : [
+			[ "fileteara" ],
+			[ "filetearas" ],
+			[ "fileteara" ],
+			[ "fileteáramos" ],
+			[ "filetearais", "filetearan" ],
+			[ "filetearan" ]
+		],
+		"10" : [
+			[ "filetease" ],
+			[ "fileteases" ],
+			[ "filetease" ],
+			[ "fileteásemos" ],
+			[ "fileteaseis", "fileteasen" ],
+			[ "fileteasen" ]
+		],
+		"11" : [
+			[ "fileteare" ],
+			[ "fileteares" ],
+			[ "fileteare" ],
+			[ "fileteáremos" ],
+			[ "fileteareis", "filetearen" ],
+			[ "filetearen" ]
+		],
+		"12" : {
+			"1" : [ "filetea" ],
+			"2" : [ "filetee" ],
+			"3" : [ "fileteemos" ],
+			"4" : [ "filetead" ],
+			"5" : [ "fileteen" ]
+		}
+	}
+}

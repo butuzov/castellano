@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empadronar",
+	"word" : "empadronar",
+	"infinitivo" : "empadronar",
+	"participio" : [ "empadronado" ],
+	"gerundio" : [ "empadronando" ],
+	"tenses" : {
+		"3" : [
+			[ "empadrono" ],
+			[ "empadronas", "empadronás" ],
+			[ "empadrona" ],
+			[ "empadronamos" ],
+			[ "empadronáis", "empadronan" ],
+			[ "empadronan" ]
+		],
+		"4" : [
+			[ "empadroné" ],
+			[ "empadronaste" ],
+			[ "empadronó" ],
+			[ "empadronamos" ],
+			[ "empadronasteis", "empadronaron" ],
+			[ "empadronaron" ]
+		],
+		"5" : [
+			[ "empadronaba" ],
+			[ "empadronabas" ],
+			[ "empadronaba" ],
+			[ "empadronábamos" ],
+			[ "empadronabais", "empadronaban" ],
+			[ "empadronaban" ]
+		],
+		"6" : [
+			[ "empadronaría" ],
+			[ "empadronarías" ],
+			[ "empadronaría" ],
+			[ "empadronaríamos" ],
+			[ "empadronaríais", "empadronarían" ],
+			[ "empadronarían" ]
+		],
+		"7" : [
+			[ "empadronaré" ],
+			[ "empadronarás" ],
+			[ "empadronará" ],
+			[ "empadronaremos" ],
+			[ "empadronaréis", "empadronarán" ],
+			[ "empadronarán" ]
+		],
+		"8" : [
+			[ "empadrone" ],
+			[ "empadrones" ],
+			[ "empadrone" ],
+			[ "empadronemos" ],
+			[ "empadronéis", "empadronen" ],
+			[ "empadronen" ]
+		],
+		"9" : [
+			[ "empadronara" ],
+			[ "empadronaras" ],
+			[ "empadronara" ],
+			[ "empadronáramos" ],
+			[ "empadronarais", "empadronaran" ],
+			[ "empadronaran" ]
+		],
+		"10" : [
+			[ "empadronase" ],
+			[ "empadronases" ],
+			[ "empadronase" ],
+			[ "empadronásemos" ],
+			[ "empadronaseis", "empadronasen" ],
+			[ "empadronasen" ]
+		],
+		"11" : [
+			[ "empadronare" ],
+			[ "empadronares" ],
+			[ "empadronare" ],
+			[ "empadronáremos" ],
+			[ "empadronareis", "empadronaren" ],
+			[ "empadronaren" ]
+		],
+		"12" : {
+			"1" : [ "empadrona" ],
+			"2" : [ "empadrone" ],
+			"3" : [ "empadronemos" ],
+			"4" : [ "empadronad" ],
+			"5" : [ "empadronen" ]
+		}
+	}
+}

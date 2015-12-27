@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esmerar",
+	"word" : "esmerar",
+	"infinitivo" : "esmerar",
+	"participio" : [ "esmerado" ],
+	"gerundio" : [ "esmerando" ],
+	"tenses" : {
+		"3" : [
+			[ "esmero" ],
+			[ "esmeras", "esmerás" ],
+			[ "esmera" ],
+			[ "esmeramos" ],
+			[ "esmeráis", "esmeran" ],
+			[ "esmeran" ]
+		],
+		"4" : [
+			[ "esmeré" ],
+			[ "esmeraste" ],
+			[ "esmeró" ],
+			[ "esmeramos" ],
+			[ "esmerasteis", "esmeraron" ],
+			[ "esmeraron" ]
+		],
+		"5" : [
+			[ "esmeraba" ],
+			[ "esmerabas" ],
+			[ "esmeraba" ],
+			[ "esmerábamos" ],
+			[ "esmerabais", "esmeraban" ],
+			[ "esmeraban" ]
+		],
+		"6" : [
+			[ "esmeraría" ],
+			[ "esmerarías" ],
+			[ "esmeraría" ],
+			[ "esmeraríamos" ],
+			[ "esmeraríais", "esmerarían" ],
+			[ "esmerarían" ]
+		],
+		"7" : [
+			[ "esmeraré" ],
+			[ "esmerarás" ],
+			[ "esmerará" ],
+			[ "esmeraremos" ],
+			[ "esmeraréis", "esmerarán" ],
+			[ "esmerarán" ]
+		],
+		"8" : [
+			[ "esmere" ],
+			[ "esmeres" ],
+			[ "esmere" ],
+			[ "esmeremos" ],
+			[ "esmeréis", "esmeren" ],
+			[ "esmeren" ]
+		],
+		"9" : [
+			[ "esmerara" ],
+			[ "esmeraras" ],
+			[ "esmerara" ],
+			[ "esmeráramos" ],
+			[ "esmerarais", "esmeraran" ],
+			[ "esmeraran" ]
+		],
+		"10" : [
+			[ "esmerase" ],
+			[ "esmerases" ],
+			[ "esmerase" ],
+			[ "esmerásemos" ],
+			[ "esmeraseis", "esmerasen" ],
+			[ "esmerasen" ]
+		],
+		"11" : [
+			[ "esmerare" ],
+			[ "esmerares" ],
+			[ "esmerare" ],
+			[ "esmeráremos" ],
+			[ "esmerareis", "esmeraren" ],
+			[ "esmeraren" ]
+		],
+		"12" : {
+			"1" : [ "esmera" ],
+			"2" : [ "esmere" ],
+			"3" : [ "esmeremos" ],
+			"4" : [ "esmerad" ],
+			"5" : [ "esmeren" ]
+		}
+	}
+}

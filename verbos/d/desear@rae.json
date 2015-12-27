@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desear",
+	"word" : "desear",
+	"infinitivo" : "desear",
+	"participio" : [ "deseado" ],
+	"gerundio" : [ "deseando" ],
+	"tenses" : {
+		"3" : [
+			[ "deseo" ],
+			[ "deseas", "deseás" ],
+			[ "desea" ],
+			[ "deseamos" ],
+			[ "deseáis", "desean" ],
+			[ "desean" ]
+		],
+		"4" : [
+			[ "deseé" ],
+			[ "deseaste" ],
+			[ "deseó" ],
+			[ "deseamos" ],
+			[ "deseasteis", "desearon" ],
+			[ "desearon" ]
+		],
+		"5" : [
+			[ "deseaba" ],
+			[ "deseabas" ],
+			[ "deseaba" ],
+			[ "deseábamos" ],
+			[ "deseabais", "deseaban" ],
+			[ "deseaban" ]
+		],
+		"6" : [
+			[ "desearía" ],
+			[ "desearías" ],
+			[ "desearía" ],
+			[ "desearíamos" ],
+			[ "desearíais", "desearían" ],
+			[ "desearían" ]
+		],
+		"7" : [
+			[ "desearé" ],
+			[ "desearás" ],
+			[ "deseará" ],
+			[ "desearemos" ],
+			[ "desearéis", "desearán" ],
+			[ "desearán" ]
+		],
+		"8" : [
+			[ "desee" ],
+			[ "desees" ],
+			[ "desee" ],
+			[ "deseemos" ],
+			[ "deseéis", "deseen" ],
+			[ "deseen" ]
+		],
+		"9" : [
+			[ "deseara" ],
+			[ "desearas" ],
+			[ "deseara" ],
+			[ "deseáramos" ],
+			[ "desearais", "desearan" ],
+			[ "desearan" ]
+		],
+		"10" : [
+			[ "desease" ],
+			[ "deseases" ],
+			[ "desease" ],
+			[ "deseásemos" ],
+			[ "deseaseis", "deseasen" ],
+			[ "deseasen" ]
+		],
+		"11" : [
+			[ "deseare" ],
+			[ "deseares" ],
+			[ "deseare" ],
+			[ "deseáremos" ],
+			[ "deseareis", "desearen" ],
+			[ "desearen" ]
+		],
+		"12" : {
+			"1" : [ "desea" ],
+			"2" : [ "desee" ],
+			"3" : [ "deseemos" ],
+			"4" : [ "desead" ],
+			"5" : [ "deseen" ]
+		}
+	}
+}

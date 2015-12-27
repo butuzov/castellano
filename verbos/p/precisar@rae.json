@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=precisar",
+	"word" : "precisar",
+	"infinitivo" : "precisar",
+	"participio" : [ "precisado" ],
+	"gerundio" : [ "precisando" ],
+	"tenses" : {
+		"3" : [
+			[ "preciso" ],
+			[ "precisas", "precisás" ],
+			[ "precisa" ],
+			[ "precisamos" ],
+			[ "precisáis", "precisan" ],
+			[ "precisan" ]
+		],
+		"4" : [
+			[ "precisé" ],
+			[ "precisaste" ],
+			[ "precisó" ],
+			[ "precisamos" ],
+			[ "precisasteis", "precisaron" ],
+			[ "precisaron" ]
+		],
+		"5" : [
+			[ "precisaba" ],
+			[ "precisabas" ],
+			[ "precisaba" ],
+			[ "precisábamos" ],
+			[ "precisabais", "precisaban" ],
+			[ "precisaban" ]
+		],
+		"6" : [
+			[ "precisaría" ],
+			[ "precisarías" ],
+			[ "precisaría" ],
+			[ "precisaríamos" ],
+			[ "precisaríais", "precisarían" ],
+			[ "precisarían" ]
+		],
+		"7" : [
+			[ "precisaré" ],
+			[ "precisarás" ],
+			[ "precisará" ],
+			[ "precisaremos" ],
+			[ "precisaréis", "precisarán" ],
+			[ "precisarán" ]
+		],
+		"8" : [
+			[ "precise" ],
+			[ "precises" ],
+			[ "precise" ],
+			[ "precisemos" ],
+			[ "preciséis", "precisen" ],
+			[ "precisen" ]
+		],
+		"9" : [
+			[ "precisara" ],
+			[ "precisaras" ],
+			[ "precisara" ],
+			[ "precisáramos" ],
+			[ "precisarais", "precisaran" ],
+			[ "precisaran" ]
+		],
+		"10" : [
+			[ "precisase" ],
+			[ "precisases" ],
+			[ "precisase" ],
+			[ "precisásemos" ],
+			[ "precisaseis", "precisasen" ],
+			[ "precisasen" ]
+		],
+		"11" : [
+			[ "precisare" ],
+			[ "precisares" ],
+			[ "precisare" ],
+			[ "precisáremos" ],
+			[ "precisareis", "precisaren" ],
+			[ "precisaren" ]
+		],
+		"12" : {
+			"1" : [ "precisa" ],
+			"2" : [ "precise" ],
+			"3" : [ "precisemos" ],
+			"4" : [ "precisad" ],
+			"5" : [ "precisen" ]
+		}
+	}
+}

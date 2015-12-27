@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tatemar",
+	"word" : "tatemar",
+	"infinitivo" : "tatemar",
+	"participio" : [ "tatemado" ],
+	"gerundio" : [ "tatemando" ],
+	"tenses" : {
+		"3" : [
+			[ "tatemo" ],
+			[ "tatemas", "tatemás" ],
+			[ "tatema" ],
+			[ "tatemamos" ],
+			[ "tatemáis", "tateman" ],
+			[ "tateman" ]
+		],
+		"4" : [
+			[ "tatemé" ],
+			[ "tatemaste" ],
+			[ "tatemó" ],
+			[ "tatemamos" ],
+			[ "tatemasteis", "tatemaron" ],
+			[ "tatemaron" ]
+		],
+		"5" : [
+			[ "tatemaba" ],
+			[ "tatemabas" ],
+			[ "tatemaba" ],
+			[ "tatemábamos" ],
+			[ "tatemabais", "tatemaban" ],
+			[ "tatemaban" ]
+		],
+		"6" : [
+			[ "tatemaría" ],
+			[ "tatemarías" ],
+			[ "tatemaría" ],
+			[ "tatemaríamos" ],
+			[ "tatemaríais", "tatemarían" ],
+			[ "tatemarían" ]
+		],
+		"7" : [
+			[ "tatemaré" ],
+			[ "tatemarás" ],
+			[ "tatemará" ],
+			[ "tatemaremos" ],
+			[ "tatemaréis", "tatemarán" ],
+			[ "tatemarán" ]
+		],
+		"8" : [
+			[ "tateme" ],
+			[ "tatemes" ],
+			[ "tateme" ],
+			[ "tatememos" ],
+			[ "tateméis", "tatemen" ],
+			[ "tatemen" ]
+		],
+		"9" : [
+			[ "tatemara" ],
+			[ "tatemaras" ],
+			[ "tatemara" ],
+			[ "tatemáramos" ],
+			[ "tatemarais", "tatemaran" ],
+			[ "tatemaran" ]
+		],
+		"10" : [
+			[ "tatemase" ],
+			[ "tatemases" ],
+			[ "tatemase" ],
+			[ "tatemásemos" ],
+			[ "tatemaseis", "tatemasen" ],
+			[ "tatemasen" ]
+		],
+		"11" : [
+			[ "tatemare" ],
+			[ "tatemares" ],
+			[ "tatemare" ],
+			[ "tatemáremos" ],
+			[ "tatemareis", "tatemaren" ],
+			[ "tatemaren" ]
+		],
+		"12" : {
+			"1" : [ "tatema" ],
+			"2" : [ "tateme" ],
+			"3" : [ "tatememos" ],
+			"4" : [ "tatemad" ],
+			"5" : [ "tatemen" ]
+		}
+	}
+}

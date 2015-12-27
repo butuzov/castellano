@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pajarear",
+	"word" : "pajarear",
+	"infinitivo" : "pajarear",
+	"participio" : [ "pajareado" ],
+	"gerundio" : [ "pajareando" ],
+	"tenses" : {
+		"3" : [
+			[ "pajareo" ],
+			[ "pajareas", "pajareás" ],
+			[ "pajarea" ],
+			[ "pajareamos" ],
+			[ "pajareáis", "pajarean" ],
+			[ "pajarean" ]
+		],
+		"4" : [
+			[ "pajareé" ],
+			[ "pajareaste" ],
+			[ "pajareó" ],
+			[ "pajareamos" ],
+			[ "pajareasteis", "pajarearon" ],
+			[ "pajarearon" ]
+		],
+		"5" : [
+			[ "pajareaba" ],
+			[ "pajareabas" ],
+			[ "pajareaba" ],
+			[ "pajareábamos" ],
+			[ "pajareabais", "pajareaban" ],
+			[ "pajareaban" ]
+		],
+		"6" : [
+			[ "pajarearía" ],
+			[ "pajarearías" ],
+			[ "pajarearía" ],
+			[ "pajarearíamos" ],
+			[ "pajarearíais", "pajarearían" ],
+			[ "pajarearían" ]
+		],
+		"7" : [
+			[ "pajarearé" ],
+			[ "pajarearás" ],
+			[ "pajareará" ],
+			[ "pajarearemos" ],
+			[ "pajarearéis", "pajarearán" ],
+			[ "pajarearán" ]
+		],
+		"8" : [
+			[ "pajaree" ],
+			[ "pajarees" ],
+			[ "pajaree" ],
+			[ "pajareemos" ],
+			[ "pajareéis", "pajareen" ],
+			[ "pajareen" ]
+		],
+		"9" : [
+			[ "pajareara" ],
+			[ "pajarearas" ],
+			[ "pajareara" ],
+			[ "pajareáramos" ],
+			[ "pajarearais", "pajarearan" ],
+			[ "pajarearan" ]
+		],
+		"10" : [
+			[ "pajarease" ],
+			[ "pajareases" ],
+			[ "pajarease" ],
+			[ "pajareásemos" ],
+			[ "pajareaseis", "pajareasen" ],
+			[ "pajareasen" ]
+		],
+		"11" : [
+			[ "pajareare" ],
+			[ "pajareares" ],
+			[ "pajareare" ],
+			[ "pajareáremos" ],
+			[ "pajareareis", "pajarearen" ],
+			[ "pajarearen" ]
+		],
+		"12" : {
+			"1" : [ "pajarea" ],
+			"2" : [ "pajaree" ],
+			"3" : [ "pajareemos" ],
+			"4" : [ "pajaread" ],
+			"5" : [ "pajareen" ]
+		}
+	}
+}

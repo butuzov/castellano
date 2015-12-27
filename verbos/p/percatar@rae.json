@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=percatar",
+	"word" : "percatar",
+	"infinitivo" : "percatar",
+	"participio" : [ "percatado" ],
+	"gerundio" : [ "percatando" ],
+	"tenses" : {
+		"3" : [
+			[ "percato" ],
+			[ "percatas", "percatás" ],
+			[ "percata" ],
+			[ "percatamos" ],
+			[ "percatáis", "percatan" ],
+			[ "percatan" ]
+		],
+		"4" : [
+			[ "percaté" ],
+			[ "percataste" ],
+			[ "percató" ],
+			[ "percatamos" ],
+			[ "percatasteis", "percataron" ],
+			[ "percataron" ]
+		],
+		"5" : [
+			[ "percataba" ],
+			[ "percatabas" ],
+			[ "percataba" ],
+			[ "percatábamos" ],
+			[ "percatabais", "percataban" ],
+			[ "percataban" ]
+		],
+		"6" : [
+			[ "percataría" ],
+			[ "percatarías" ],
+			[ "percataría" ],
+			[ "percataríamos" ],
+			[ "percataríais", "percatarían" ],
+			[ "percatarían" ]
+		],
+		"7" : [
+			[ "percataré" ],
+			[ "percatarás" ],
+			[ "percatará" ],
+			[ "percataremos" ],
+			[ "percataréis", "percatarán" ],
+			[ "percatarán" ]
+		],
+		"8" : [
+			[ "percate" ],
+			[ "percates" ],
+			[ "percate" ],
+			[ "percatemos" ],
+			[ "percatéis", "percaten" ],
+			[ "percaten" ]
+		],
+		"9" : [
+			[ "percatara" ],
+			[ "percataras" ],
+			[ "percatara" ],
+			[ "percatáramos" ],
+			[ "percatarais", "percataran" ],
+			[ "percataran" ]
+		],
+		"10" : [
+			[ "percatase" ],
+			[ "percatases" ],
+			[ "percatase" ],
+			[ "percatásemos" ],
+			[ "percataseis", "percatasen" ],
+			[ "percatasen" ]
+		],
+		"11" : [
+			[ "percatare" ],
+			[ "percatares" ],
+			[ "percatare" ],
+			[ "percatáremos" ],
+			[ "percatareis", "percataren" ],
+			[ "percataren" ]
+		],
+		"12" : {
+			"1" : [ "percata" ],
+			"2" : [ "percate" ],
+			"3" : [ "percatemos" ],
+			"4" : [ "percatad" ],
+			"5" : [ "percaten" ]
+		}
+	}
+}

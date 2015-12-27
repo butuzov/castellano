@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=readmitir",
+	"word" : "readmitir",
+	"infinitivo" : "readmitir",
+	"participio" : [ "readmitido" ],
+	"gerundio" : [ "readmitiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "readmito" ],
+			[ "readmites", "readmitís" ],
+			[ "readmite" ],
+			[ "readmitimos" ],
+			[ "readmitís", "readmiten" ],
+			[ "readmiten" ]
+		],
+		"4" : [
+			[ "readmití" ],
+			[ "readmitiste" ],
+			[ "readmitió" ],
+			[ "readmitimos" ],
+			[ "readmitisteis", "readmitieron" ],
+			[ "readmitieron" ]
+		],
+		"5" : [
+			[ "readmitía" ],
+			[ "readmitías" ],
+			[ "readmitía" ],
+			[ "readmitíamos" ],
+			[ "readmitíais", "readmitían" ],
+			[ "readmitían" ]
+		],
+		"6" : [
+			[ "readmitiría" ],
+			[ "readmitirías" ],
+			[ "readmitiría" ],
+			[ "readmitiríamos" ],
+			[ "readmitiríais", "readmitirían" ],
+			[ "readmitirían" ]
+		],
+		"7" : [
+			[ "readmitiré" ],
+			[ "readmitirás" ],
+			[ "readmitirá" ],
+			[ "readmitiremos" ],
+			[ "readmitiréis", "readmitirán" ],
+			[ "readmitirán" ]
+		],
+		"8" : [
+			[ "readmita" ],
+			[ "readmitas" ],
+			[ "readmita" ],
+			[ "readmitamos" ],
+			[ "readmitáis", "readmitan" ],
+			[ "readmitan" ]
+		],
+		"9" : [
+			[ "readmitiera" ],
+			[ "readmitieras" ],
+			[ "readmitiera" ],
+			[ "readmitiéramos" ],
+			[ "readmitierais", "readmitieran" ],
+			[ "readmitieran" ]
+		],
+		"10" : [
+			[ "readmitiese" ],
+			[ "readmitieses" ],
+			[ "readmitiese" ],
+			[ "readmitiésemos" ],
+			[ "readmitieseis", "readmitiesen" ],
+			[ "readmitiesen" ]
+		],
+		"11" : [
+			[ "readmitiere" ],
+			[ "readmitieres" ],
+			[ "readmitiere" ],
+			[ "readmitiéremos" ],
+			[ "readmitiereis", "readmitieren" ],
+			[ "readmitieren" ]
+		],
+		"12" : {
+			"1" : [ "readmite" ],
+			"2" : [ "readmita" ],
+			"3" : [ "readmitamos" ],
+			"4" : [ "readmitid" ],
+			"5" : [ "readmitan" ]
+		}
+	}
+}

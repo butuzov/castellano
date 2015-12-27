@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=persuadir",
+	"word" : "persuadir",
+	"infinitivo" : "persuadir",
+	"participio" : [ "persuadido" ],
+	"gerundio" : [ "persuadiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "persuado" ],
+			[ "persuades", "persuadís" ],
+			[ "persuade" ],
+			[ "persuadimos" ],
+			[ "persuadís", "persuaden" ],
+			[ "persuaden" ]
+		],
+		"4" : [
+			[ "persuadí" ],
+			[ "persuadiste" ],
+			[ "persuadió" ],
+			[ "persuadimos" ],
+			[ "persuadisteis", "persuadieron" ],
+			[ "persuadieron" ]
+		],
+		"5" : [
+			[ "persuadía" ],
+			[ "persuadías" ],
+			[ "persuadía" ],
+			[ "persuadíamos" ],
+			[ "persuadíais", "persuadían" ],
+			[ "persuadían" ]
+		],
+		"6" : [
+			[ "persuadiría" ],
+			[ "persuadirías" ],
+			[ "persuadiría" ],
+			[ "persuadiríamos" ],
+			[ "persuadiríais", "persuadirían" ],
+			[ "persuadirían" ]
+		],
+		"7" : [
+			[ "persuadiré" ],
+			[ "persuadirás" ],
+			[ "persuadirá" ],
+			[ "persuadiremos" ],
+			[ "persuadiréis", "persuadirán" ],
+			[ "persuadirán" ]
+		],
+		"8" : [
+			[ "persuada" ],
+			[ "persuadas" ],
+			[ "persuada" ],
+			[ "persuadamos" ],
+			[ "persuadáis", "persuadan" ],
+			[ "persuadan" ]
+		],
+		"9" : [
+			[ "persuadiera" ],
+			[ "persuadieras" ],
+			[ "persuadiera" ],
+			[ "persuadiéramos" ],
+			[ "persuadierais", "persuadieran" ],
+			[ "persuadieran" ]
+		],
+		"10" : [
+			[ "persuadiese" ],
+			[ "persuadieses" ],
+			[ "persuadiese" ],
+			[ "persuadiésemos" ],
+			[ "persuadieseis", "persuadiesen" ],
+			[ "persuadiesen" ]
+		],
+		"11" : [
+			[ "persuadiere" ],
+			[ "persuadieres" ],
+			[ "persuadiere" ],
+			[ "persuadiéremos" ],
+			[ "persuadiereis", "persuadieren" ],
+			[ "persuadieren" ]
+		],
+		"12" : {
+			"1" : [ "persuade" ],
+			"2" : [ "persuada" ],
+			"3" : [ "persuadamos" ],
+			"4" : [ "persuadid" ],
+			"5" : [ "persuadan" ]
+		}
+	}
+}

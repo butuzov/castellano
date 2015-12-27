@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=donar",
+	"word" : "donar",
+	"infinitivo" : "donar",
+	"participio" : [ "donado" ],
+	"gerundio" : [ "donando" ],
+	"tenses" : {
+		"3" : [
+			[ "dono" ],
+			[ "donas", "donás" ],
+			[ "dona" ],
+			[ "donamos" ],
+			[ "donáis", "donan" ],
+			[ "donan" ]
+		],
+		"4" : [
+			[ "doné" ],
+			[ "donaste" ],
+			[ "donó" ],
+			[ "donamos" ],
+			[ "donasteis", "donaron" ],
+			[ "donaron" ]
+		],
+		"5" : [
+			[ "donaba" ],
+			[ "donabas" ],
+			[ "donaba" ],
+			[ "donábamos" ],
+			[ "donabais", "donaban" ],
+			[ "donaban" ]
+		],
+		"6" : [
+			[ "donaría" ],
+			[ "donarías" ],
+			[ "donaría" ],
+			[ "donaríamos" ],
+			[ "donaríais", "donarían" ],
+			[ "donarían" ]
+		],
+		"7" : [
+			[ "donaré" ],
+			[ "donarás" ],
+			[ "donará" ],
+			[ "donaremos" ],
+			[ "donaréis", "donarán" ],
+			[ "donarán" ]
+		],
+		"8" : [
+			[ "done" ],
+			[ "dones" ],
+			[ "done" ],
+			[ "donemos" ],
+			[ "donéis", "donen" ],
+			[ "donen" ]
+		],
+		"9" : [
+			[ "donara" ],
+			[ "donaras" ],
+			[ "donara" ],
+			[ "donáramos" ],
+			[ "donarais", "donaran" ],
+			[ "donaran" ]
+		],
+		"10" : [
+			[ "donase" ],
+			[ "donases" ],
+			[ "donase" ],
+			[ "donásemos" ],
+			[ "donaseis", "donasen" ],
+			[ "donasen" ]
+		],
+		"11" : [
+			[ "donare" ],
+			[ "donares" ],
+			[ "donare" ],
+			[ "donáremos" ],
+			[ "donareis", "donaren" ],
+			[ "donaren" ]
+		],
+		"12" : {
+			"1" : [ "dona" ],
+			"2" : [ "done" ],
+			"3" : [ "donemos" ],
+			"4" : [ "donad" ],
+			"5" : [ "donen" ]
+		}
+	}
+}

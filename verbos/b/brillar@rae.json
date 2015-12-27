@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=brillar",
+	"word" : "brillar",
+	"infinitivo" : "brillar",
+	"participio" : [ "brillado" ],
+	"gerundio" : [ "brillando" ],
+	"tenses" : {
+		"3" : [
+			[ "brillo" ],
+			[ "brillas", "brillás" ],
+			[ "brilla" ],
+			[ "brillamos" ],
+			[ "brilláis", "brillan" ],
+			[ "brillan" ]
+		],
+		"4" : [
+			[ "brillé" ],
+			[ "brillaste" ],
+			[ "brilló" ],
+			[ "brillamos" ],
+			[ "brillasteis", "brillaron" ],
+			[ "brillaron" ]
+		],
+		"5" : [
+			[ "brillaba" ],
+			[ "brillabas" ],
+			[ "brillaba" ],
+			[ "brillábamos" ],
+			[ "brillabais", "brillaban" ],
+			[ "brillaban" ]
+		],
+		"6" : [
+			[ "brillaría" ],
+			[ "brillarías" ],
+			[ "brillaría" ],
+			[ "brillaríamos" ],
+			[ "brillaríais", "brillarían" ],
+			[ "brillarían" ]
+		],
+		"7" : [
+			[ "brillaré" ],
+			[ "brillarás" ],
+			[ "brillará" ],
+			[ "brillaremos" ],
+			[ "brillaréis", "brillarán" ],
+			[ "brillarán" ]
+		],
+		"8" : [
+			[ "brille" ],
+			[ "brilles" ],
+			[ "brille" ],
+			[ "brillemos" ],
+			[ "brilléis", "brillen" ],
+			[ "brillen" ]
+		],
+		"9" : [
+			[ "brillara" ],
+			[ "brillaras" ],
+			[ "brillara" ],
+			[ "brilláramos" ],
+			[ "brillarais", "brillaran" ],
+			[ "brillaran" ]
+		],
+		"10" : [
+			[ "brillase" ],
+			[ "brillases" ],
+			[ "brillase" ],
+			[ "brillásemos" ],
+			[ "brillaseis", "brillasen" ],
+			[ "brillasen" ]
+		],
+		"11" : [
+			[ "brillare" ],
+			[ "brillares" ],
+			[ "brillare" ],
+			[ "brilláremos" ],
+			[ "brillareis", "brillaren" ],
+			[ "brillaren" ]
+		],
+		"12" : {
+			"1" : [ "brilla" ],
+			"2" : [ "brille" ],
+			"3" : [ "brillemos" ],
+			"4" : [ "brillad" ],
+			"5" : [ "brillen" ]
+		}
+	}
+}

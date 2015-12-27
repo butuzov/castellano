@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=linear",
+	"word" : "linear",
+	"infinitivo" : "linear",
+	"participio" : [ "lineado" ],
+	"gerundio" : [ "lineando" ],
+	"tenses" : {
+		"3" : [
+			[ "lineo" ],
+			[ "lineas", "lineás" ],
+			[ "linea" ],
+			[ "lineamos" ],
+			[ "lineáis", "linean" ],
+			[ "linean" ]
+		],
+		"4" : [
+			[ "lineé" ],
+			[ "lineaste" ],
+			[ "lineó" ],
+			[ "lineamos" ],
+			[ "lineasteis", "linearon" ],
+			[ "linearon" ]
+		],
+		"5" : [
+			[ "lineaba" ],
+			[ "lineabas" ],
+			[ "lineaba" ],
+			[ "lineábamos" ],
+			[ "lineabais", "lineaban" ],
+			[ "lineaban" ]
+		],
+		"6" : [
+			[ "linearía" ],
+			[ "linearías" ],
+			[ "linearía" ],
+			[ "linearíamos" ],
+			[ "linearíais", "linearían" ],
+			[ "linearían" ]
+		],
+		"7" : [
+			[ "linearé" ],
+			[ "linearás" ],
+			[ "lineará" ],
+			[ "linearemos" ],
+			[ "linearéis", "linearán" ],
+			[ "linearán" ]
+		],
+		"8" : [
+			[ "linee" ],
+			[ "linees" ],
+			[ "linee" ],
+			[ "lineemos" ],
+			[ "lineéis", "lineen" ],
+			[ "lineen" ]
+		],
+		"9" : [
+			[ "lineara" ],
+			[ "linearas" ],
+			[ "lineara" ],
+			[ "lineáramos" ],
+			[ "linearais", "linearan" ],
+			[ "linearan" ]
+		],
+		"10" : [
+			[ "linease" ],
+			[ "lineases" ],
+			[ "linease" ],
+			[ "lineásemos" ],
+			[ "lineaseis", "lineasen" ],
+			[ "lineasen" ]
+		],
+		"11" : [
+			[ "lineare" ],
+			[ "lineares" ],
+			[ "lineare" ],
+			[ "lineáremos" ],
+			[ "lineareis", "linearen" ],
+			[ "linearen" ]
+		],
+		"12" : {
+			"1" : [ "linea" ],
+			"2" : [ "linee" ],
+			"3" : [ "lineemos" ],
+			"4" : [ "linead" ],
+			"5" : [ "lineen" ]
+		}
+	}
+}

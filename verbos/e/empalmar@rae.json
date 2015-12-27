@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empalmar",
+	"word" : "empalmar",
+	"infinitivo" : "empalmar",
+	"participio" : [ "empalmado" ],
+	"gerundio" : [ "empalmando" ],
+	"tenses" : {
+		"3" : [
+			[ "empalmo" ],
+			[ "empalmas", "empalmás" ],
+			[ "empalma" ],
+			[ "empalmamos" ],
+			[ "empalmáis", "empalman" ],
+			[ "empalman" ]
+		],
+		"4" : [
+			[ "empalmé" ],
+			[ "empalmaste" ],
+			[ "empalmó" ],
+			[ "empalmamos" ],
+			[ "empalmasteis", "empalmaron" ],
+			[ "empalmaron" ]
+		],
+		"5" : [
+			[ "empalmaba" ],
+			[ "empalmabas" ],
+			[ "empalmaba" ],
+			[ "empalmábamos" ],
+			[ "empalmabais", "empalmaban" ],
+			[ "empalmaban" ]
+		],
+		"6" : [
+			[ "empalmaría" ],
+			[ "empalmarías" ],
+			[ "empalmaría" ],
+			[ "empalmaríamos" ],
+			[ "empalmaríais", "empalmarían" ],
+			[ "empalmarían" ]
+		],
+		"7" : [
+			[ "empalmaré" ],
+			[ "empalmarás" ],
+			[ "empalmará" ],
+			[ "empalmaremos" ],
+			[ "empalmaréis", "empalmarán" ],
+			[ "empalmarán" ]
+		],
+		"8" : [
+			[ "empalme" ],
+			[ "empalmes" ],
+			[ "empalme" ],
+			[ "empalmemos" ],
+			[ "empalméis", "empalmen" ],
+			[ "empalmen" ]
+		],
+		"9" : [
+			[ "empalmara" ],
+			[ "empalmaras" ],
+			[ "empalmara" ],
+			[ "empalmáramos" ],
+			[ "empalmarais", "empalmaran" ],
+			[ "empalmaran" ]
+		],
+		"10" : [
+			[ "empalmase" ],
+			[ "empalmases" ],
+			[ "empalmase" ],
+			[ "empalmásemos" ],
+			[ "empalmaseis", "empalmasen" ],
+			[ "empalmasen" ]
+		],
+		"11" : [
+			[ "empalmare" ],
+			[ "empalmares" ],
+			[ "empalmare" ],
+			[ "empalmáremos" ],
+			[ "empalmareis", "empalmaren" ],
+			[ "empalmaren" ]
+		],
+		"12" : {
+			"1" : [ "empalma" ],
+			"2" : [ "empalme" ],
+			"3" : [ "empalmemos" ],
+			"4" : [ "empalmad" ],
+			"5" : [ "empalmen" ]
+		}
+	}
+}

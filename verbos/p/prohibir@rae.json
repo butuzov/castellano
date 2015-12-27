@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prohibir",
+	"word" : "prohibir",
+	"infinitivo" : "prohibir",
+	"participio" : [ "prohibido" ],
+	"gerundio" : [ "prohibiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "prohíbo" ],
+			[ "prohíbes", "prohibís" ],
+			[ "prohíbe" ],
+			[ "prohibimos" ],
+			[ "prohibís", "prohíben" ],
+			[ "prohíben" ]
+		],
+		"4" : [
+			[ "prohibí" ],
+			[ "prohibiste" ],
+			[ "prohibió" ],
+			[ "prohibimos" ],
+			[ "prohibisteis", "prohibieron" ],
+			[ "prohibieron" ]
+		],
+		"5" : [
+			[ "prohibía" ],
+			[ "prohibías" ],
+			[ "prohibía" ],
+			[ "prohibíamos" ],
+			[ "prohibíais", "prohibían" ],
+			[ "prohibían" ]
+		],
+		"6" : [
+			[ "prohibiría" ],
+			[ "prohibirías" ],
+			[ "prohibiría" ],
+			[ "prohibiríamos" ],
+			[ "prohibiríais", "prohibirían" ],
+			[ "prohibirían" ]
+		],
+		"7" : [
+			[ "prohibiré" ],
+			[ "prohibirás" ],
+			[ "prohibirá" ],
+			[ "prohibiremos" ],
+			[ "prohibiréis", "prohibirán" ],
+			[ "prohibirán" ]
+		],
+		"8" : [
+			[ "prohíba" ],
+			[ "prohíbas" ],
+			[ "prohíba" ],
+			[ "prohibamos" ],
+			[ "prohibáis", "prohíban" ],
+			[ "prohíban" ]
+		],
+		"9" : [
+			[ "prohibiera" ],
+			[ "prohibieras" ],
+			[ "prohibiera" ],
+			[ "prohibiéramos" ],
+			[ "prohibierais", "prohibieran" ],
+			[ "prohibieran" ]
+		],
+		"10" : [
+			[ "prohibiese" ],
+			[ "prohibieses" ],
+			[ "prohibiese" ],
+			[ "prohibiésemos" ],
+			[ "prohibieseis", "prohibiesen" ],
+			[ "prohibiesen" ]
+		],
+		"11" : [
+			[ "prohibiere" ],
+			[ "prohibieres" ],
+			[ "prohibiere" ],
+			[ "prohibiéremos" ],
+			[ "prohibiereis", "prohibieren" ],
+			[ "prohibieren" ]
+		],
+		"12" : {
+			"1" : [ "prohíbe" ],
+			"2" : [ "prohíba" ],
+			"3" : [ "prohibamos" ],
+			"4" : [ "prohibid" ],
+			"5" : [ "prohíban" ]
+		}
+	}
+}

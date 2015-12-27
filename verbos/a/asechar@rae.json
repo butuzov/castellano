@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asechar",
+	"word" : "asechar",
+	"infinitivo" : "asechar",
+	"participio" : [ "asechado" ],
+	"gerundio" : [ "asechando" ],
+	"tenses" : {
+		"3" : [
+			[ "asecho" ],
+			[ "asechas", "asechás" ],
+			[ "asecha" ],
+			[ "asechamos" ],
+			[ "asecháis", "asechan" ],
+			[ "asechan" ]
+		],
+		"4" : [
+			[ "aseché" ],
+			[ "asechaste" ],
+			[ "asechó" ],
+			[ "asechamos" ],
+			[ "asechasteis", "asecharon" ],
+			[ "asecharon" ]
+		],
+		"5" : [
+			[ "asechaba" ],
+			[ "asechabas" ],
+			[ "asechaba" ],
+			[ "asechábamos" ],
+			[ "asechabais", "asechaban" ],
+			[ "asechaban" ]
+		],
+		"6" : [
+			[ "asecharía" ],
+			[ "asecharías" ],
+			[ "asecharía" ],
+			[ "asecharíamos" ],
+			[ "asecharíais", "asecharían" ],
+			[ "asecharían" ]
+		],
+		"7" : [
+			[ "asecharé" ],
+			[ "asecharás" ],
+			[ "asechará" ],
+			[ "asecharemos" ],
+			[ "asecharéis", "asecharán" ],
+			[ "asecharán" ]
+		],
+		"8" : [
+			[ "aseche" ],
+			[ "aseches" ],
+			[ "aseche" ],
+			[ "asechemos" ],
+			[ "asechéis", "asechen" ],
+			[ "asechen" ]
+		],
+		"9" : [
+			[ "asechara" ],
+			[ "asecharas" ],
+			[ "asechara" ],
+			[ "asecháramos" ],
+			[ "asecharais", "asecharan" ],
+			[ "asecharan" ]
+		],
+		"10" : [
+			[ "asechase" ],
+			[ "asechases" ],
+			[ "asechase" ],
+			[ "asechásemos" ],
+			[ "asechaseis", "asechasen" ],
+			[ "asechasen" ]
+		],
+		"11" : [
+			[ "asechare" ],
+			[ "asechares" ],
+			[ "asechare" ],
+			[ "asecháremos" ],
+			[ "asechareis", "asecharen" ],
+			[ "asecharen" ]
+		],
+		"12" : {
+			"1" : [ "asecha" ],
+			"2" : [ "aseche" ],
+			"3" : [ "asechemos" ],
+			"4" : [ "asechad" ],
+			"5" : [ "asechen" ]
+		}
+	}
+}

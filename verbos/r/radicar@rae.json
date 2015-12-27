@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=radicar",
+	"word" : "radicar",
+	"infinitivo" : "radicar",
+	"participio" : [ "radicado" ],
+	"gerundio" : [ "radicando" ],
+	"tenses" : {
+		"3" : [
+			[ "radico" ],
+			[ "radicas", "radicás" ],
+			[ "radica" ],
+			[ "radicamos" ],
+			[ "radicáis", "radican" ],
+			[ "radican" ]
+		],
+		"4" : [
+			[ "radiqué" ],
+			[ "radicaste" ],
+			[ "radicó" ],
+			[ "radicamos" ],
+			[ "radicasteis", "radicaron" ],
+			[ "radicaron" ]
+		],
+		"5" : [
+			[ "radicaba" ],
+			[ "radicabas" ],
+			[ "radicaba" ],
+			[ "radicábamos" ],
+			[ "radicabais", "radicaban" ],
+			[ "radicaban" ]
+		],
+		"6" : [
+			[ "radicaría" ],
+			[ "radicarías" ],
+			[ "radicaría" ],
+			[ "radicaríamos" ],
+			[ "radicaríais", "radicarían" ],
+			[ "radicarían" ]
+		],
+		"7" : [
+			[ "radicaré" ],
+			[ "radicarás" ],
+			[ "radicará" ],
+			[ "radicaremos" ],
+			[ "radicaréis", "radicarán" ],
+			[ "radicarán" ]
+		],
+		"8" : [
+			[ "radique" ],
+			[ "radiques" ],
+			[ "radique" ],
+			[ "radiquemos" ],
+			[ "radiquéis", "radiquen" ],
+			[ "radiquen" ]
+		],
+		"9" : [
+			[ "radicara" ],
+			[ "radicaras" ],
+			[ "radicara" ],
+			[ "radicáramos" ],
+			[ "radicarais", "radicaran" ],
+			[ "radicaran" ]
+		],
+		"10" : [
+			[ "radicase" ],
+			[ "radicases" ],
+			[ "radicase" ],
+			[ "radicásemos" ],
+			[ "radicaseis", "radicasen" ],
+			[ "radicasen" ]
+		],
+		"11" : [
+			[ "radicare" ],
+			[ "radicares" ],
+			[ "radicare" ],
+			[ "radicáremos" ],
+			[ "radicareis", "radicaren" ],
+			[ "radicaren" ]
+		],
+		"12" : {
+			"1" : [ "radica" ],
+			"2" : [ "radique" ],
+			"3" : [ "radiquemos" ],
+			"4" : [ "radicad" ],
+			"5" : [ "radiquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abrasar",
+	"word" : "abrasar",
+	"infinitivo" : "abrasar",
+	"participio" : [ "abrasado" ],
+	"gerundio" : [ "abrasando" ],
+	"tenses" : {
+		"3" : [
+			[ "abraso" ],
+			[ "abrasas", "abrasás" ],
+			[ "abrasa" ],
+			[ "abrasamos" ],
+			[ "abrasáis", "abrasan" ],
+			[ "abrasan" ]
+		],
+		"4" : [
+			[ "abrasé" ],
+			[ "abrasaste" ],
+			[ "abrasó" ],
+			[ "abrasamos" ],
+			[ "abrasasteis", "abrasaron" ],
+			[ "abrasaron" ]
+		],
+		"5" : [
+			[ "abrasaba" ],
+			[ "abrasabas" ],
+			[ "abrasaba" ],
+			[ "abrasábamos" ],
+			[ "abrasabais", "abrasaban" ],
+			[ "abrasaban" ]
+		],
+		"6" : [
+			[ "abrasaría" ],
+			[ "abrasarías" ],
+			[ "abrasaría" ],
+			[ "abrasaríamos" ],
+			[ "abrasaríais", "abrasarían" ],
+			[ "abrasarían" ]
+		],
+		"7" : [
+			[ "abrasaré" ],
+			[ "abrasarás" ],
+			[ "abrasará" ],
+			[ "abrasaremos" ],
+			[ "abrasaréis", "abrasarán" ],
+			[ "abrasarán" ]
+		],
+		"8" : [
+			[ "abrase" ],
+			[ "abrases" ],
+			[ "abrase" ],
+			[ "abrasemos" ],
+			[ "abraséis", "abrasen" ],
+			[ "abrasen" ]
+		],
+		"9" : [
+			[ "abrasara" ],
+			[ "abrasaras" ],
+			[ "abrasara" ],
+			[ "abrasáramos" ],
+			[ "abrasarais", "abrasaran" ],
+			[ "abrasaran" ]
+		],
+		"10" : [
+			[ "abrasase" ],
+			[ "abrasases" ],
+			[ "abrasase" ],
+			[ "abrasásemos" ],
+			[ "abrasaseis", "abrasasen" ],
+			[ "abrasasen" ]
+		],
+		"11" : [
+			[ "abrasare" ],
+			[ "abrasares" ],
+			[ "abrasare" ],
+			[ "abrasáremos" ],
+			[ "abrasareis", "abrasaren" ],
+			[ "abrasaren" ]
+		],
+		"12" : {
+			"1" : [ "abrasa" ],
+			"2" : [ "abrase" ],
+			"3" : [ "abrasemos" ],
+			"4" : [ "abrasad" ],
+			"5" : [ "abrasen" ]
+		}
+	}
+}

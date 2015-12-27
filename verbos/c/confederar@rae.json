@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=confederar",
+	"word" : "confederar",
+	"infinitivo" : "confederar",
+	"participio" : [ "confederado" ],
+	"gerundio" : [ "confederando" ],
+	"tenses" : {
+		"3" : [
+			[ "confedero" ],
+			[ "confederas", "confederás" ],
+			[ "confedera" ],
+			[ "confederamos" ],
+			[ "confederáis", "confederan" ],
+			[ "confederan" ]
+		],
+		"4" : [
+			[ "confederé" ],
+			[ "confederaste" ],
+			[ "confederó" ],
+			[ "confederamos" ],
+			[ "confederasteis", "confederaron" ],
+			[ "confederaron" ]
+		],
+		"5" : [
+			[ "confederaba" ],
+			[ "confederabas" ],
+			[ "confederaba" ],
+			[ "confederábamos" ],
+			[ "confederabais", "confederaban" ],
+			[ "confederaban" ]
+		],
+		"6" : [
+			[ "confederaría" ],
+			[ "confederarías" ],
+			[ "confederaría" ],
+			[ "confederaríamos" ],
+			[ "confederaríais", "confederarían" ],
+			[ "confederarían" ]
+		],
+		"7" : [
+			[ "confederaré" ],
+			[ "confederarás" ],
+			[ "confederará" ],
+			[ "confederaremos" ],
+			[ "confederaréis", "confederarán" ],
+			[ "confederarán" ]
+		],
+		"8" : [
+			[ "confedere" ],
+			[ "confederes" ],
+			[ "confedere" ],
+			[ "confederemos" ],
+			[ "confederéis", "confederen" ],
+			[ "confederen" ]
+		],
+		"9" : [
+			[ "confederara" ],
+			[ "confederaras" ],
+			[ "confederara" ],
+			[ "confederáramos" ],
+			[ "confederarais", "confederaran" ],
+			[ "confederaran" ]
+		],
+		"10" : [
+			[ "confederase" ],
+			[ "confederases" ],
+			[ "confederase" ],
+			[ "confederásemos" ],
+			[ "confederaseis", "confederasen" ],
+			[ "confederasen" ]
+		],
+		"11" : [
+			[ "confederare" ],
+			[ "confederares" ],
+			[ "confederare" ],
+			[ "confederáremos" ],
+			[ "confederareis", "confederaren" ],
+			[ "confederaren" ]
+		],
+		"12" : {
+			"1" : [ "confedera" ],
+			"2" : [ "confedere" ],
+			"3" : [ "confederemos" ],
+			"4" : [ "confederad" ],
+			"5" : [ "confederen" ]
+		}
+	}
+}

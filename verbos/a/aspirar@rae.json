@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aspirar",
+	"word" : "aspirar",
+	"infinitivo" : "aspirar",
+	"participio" : [ "aspirado" ],
+	"gerundio" : [ "aspirando" ],
+	"tenses" : {
+		"3" : [
+			[ "aspiro" ],
+			[ "aspiras", "aspirás" ],
+			[ "aspira" ],
+			[ "aspiramos" ],
+			[ "aspiráis", "aspiran" ],
+			[ "aspiran" ]
+		],
+		"4" : [
+			[ "aspiré" ],
+			[ "aspiraste" ],
+			[ "aspiró" ],
+			[ "aspiramos" ],
+			[ "aspirasteis", "aspiraron" ],
+			[ "aspiraron" ]
+		],
+		"5" : [
+			[ "aspiraba" ],
+			[ "aspirabas" ],
+			[ "aspiraba" ],
+			[ "aspirábamos" ],
+			[ "aspirabais", "aspiraban" ],
+			[ "aspiraban" ]
+		],
+		"6" : [
+			[ "aspiraría" ],
+			[ "aspirarías" ],
+			[ "aspiraría" ],
+			[ "aspiraríamos" ],
+			[ "aspiraríais", "aspirarían" ],
+			[ "aspirarían" ]
+		],
+		"7" : [
+			[ "aspiraré" ],
+			[ "aspirarás" ],
+			[ "aspirará" ],
+			[ "aspiraremos" ],
+			[ "aspiraréis", "aspirarán" ],
+			[ "aspirarán" ]
+		],
+		"8" : [
+			[ "aspire" ],
+			[ "aspires" ],
+			[ "aspire" ],
+			[ "aspiremos" ],
+			[ "aspiréis", "aspiren" ],
+			[ "aspiren" ]
+		],
+		"9" : [
+			[ "aspirara" ],
+			[ "aspiraras" ],
+			[ "aspirara" ],
+			[ "aspiráramos" ],
+			[ "aspirarais", "aspiraran" ],
+			[ "aspiraran" ]
+		],
+		"10" : [
+			[ "aspirase" ],
+			[ "aspirases" ],
+			[ "aspirase" ],
+			[ "aspirásemos" ],
+			[ "aspiraseis", "aspirasen" ],
+			[ "aspirasen" ]
+		],
+		"11" : [
+			[ "aspirare" ],
+			[ "aspirares" ],
+			[ "aspirare" ],
+			[ "aspiráremos" ],
+			[ "aspirareis", "aspiraren" ],
+			[ "aspiraren" ]
+		],
+		"12" : {
+			"1" : [ "aspira" ],
+			"2" : [ "aspire" ],
+			"3" : [ "aspiremos" ],
+			"4" : [ "aspirad" ],
+			"5" : [ "aspiren" ]
+		}
+	}
+}

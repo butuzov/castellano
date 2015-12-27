@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empellar",
+	"word" : "empellar",
+	"infinitivo" : "empellar",
+	"participio" : [ "empellado" ],
+	"gerundio" : [ "empellando" ],
+	"tenses" : {
+		"3" : [
+			[ "empello" ],
+			[ "empellas", "empellás" ],
+			[ "empella" ],
+			[ "empellamos" ],
+			[ "empelláis", "empellan" ],
+			[ "empellan" ]
+		],
+		"4" : [
+			[ "empellé" ],
+			[ "empellaste" ],
+			[ "empelló" ],
+			[ "empellamos" ],
+			[ "empellasteis", "empellaron" ],
+			[ "empellaron" ]
+		],
+		"5" : [
+			[ "empellaba" ],
+			[ "empellabas" ],
+			[ "empellaba" ],
+			[ "empellábamos" ],
+			[ "empellabais", "empellaban" ],
+			[ "empellaban" ]
+		],
+		"6" : [
+			[ "empellaría" ],
+			[ "empellarías" ],
+			[ "empellaría" ],
+			[ "empellaríamos" ],
+			[ "empellaríais", "empellarían" ],
+			[ "empellarían" ]
+		],
+		"7" : [
+			[ "empellaré" ],
+			[ "empellarás" ],
+			[ "empellará" ],
+			[ "empellaremos" ],
+			[ "empellaréis", "empellarán" ],
+			[ "empellarán" ]
+		],
+		"8" : [
+			[ "empelle" ],
+			[ "empelles" ],
+			[ "empelle" ],
+			[ "empellemos" ],
+			[ "empelléis", "empellen" ],
+			[ "empellen" ]
+		],
+		"9" : [
+			[ "empellara" ],
+			[ "empellaras" ],
+			[ "empellara" ],
+			[ "empelláramos" ],
+			[ "empellarais", "empellaran" ],
+			[ "empellaran" ]
+		],
+		"10" : [
+			[ "empellase" ],
+			[ "empellases" ],
+			[ "empellase" ],
+			[ "empellásemos" ],
+			[ "empellaseis", "empellasen" ],
+			[ "empellasen" ]
+		],
+		"11" : [
+			[ "empellare" ],
+			[ "empellares" ],
+			[ "empellare" ],
+			[ "empelláremos" ],
+			[ "empellareis", "empellaren" ],
+			[ "empellaren" ]
+		],
+		"12" : {
+			"1" : [ "empella" ],
+			"2" : [ "empelle" ],
+			"3" : [ "empellemos" ],
+			"4" : [ "empellad" ],
+			"5" : [ "empellen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lograr",
+	"word" : "lograr",
+	"infinitivo" : "lograr",
+	"participio" : [ "logrado" ],
+	"gerundio" : [ "logrando" ],
+	"tenses" : {
+		"3" : [
+			[ "logro" ],
+			[ "logras", "lográs" ],
+			[ "logra" ],
+			[ "logramos" ],
+			[ "lográis", "logran" ],
+			[ "logran" ]
+		],
+		"4" : [
+			[ "logré" ],
+			[ "lograste" ],
+			[ "logró" ],
+			[ "logramos" ],
+			[ "lograsteis", "lograron" ],
+			[ "lograron" ]
+		],
+		"5" : [
+			[ "lograba" ],
+			[ "lograbas" ],
+			[ "lograba" ],
+			[ "lográbamos" ],
+			[ "lograbais", "lograban" ],
+			[ "lograban" ]
+		],
+		"6" : [
+			[ "lograría" ],
+			[ "lograrías" ],
+			[ "lograría" ],
+			[ "lograríamos" ],
+			[ "lograríais", "lograrían" ],
+			[ "lograrían" ]
+		],
+		"7" : [
+			[ "lograré" ],
+			[ "lograrás" ],
+			[ "logrará" ],
+			[ "lograremos" ],
+			[ "lograréis", "lograrán" ],
+			[ "lograrán" ]
+		],
+		"8" : [
+			[ "logre" ],
+			[ "logres" ],
+			[ "logre" ],
+			[ "logremos" ],
+			[ "logréis", "logren" ],
+			[ "logren" ]
+		],
+		"9" : [
+			[ "lograra" ],
+			[ "lograras" ],
+			[ "lograra" ],
+			[ "lográramos" ],
+			[ "lograrais", "lograran" ],
+			[ "lograran" ]
+		],
+		"10" : [
+			[ "lograse" ],
+			[ "lograses" ],
+			[ "lograse" ],
+			[ "lográsemos" ],
+			[ "lograseis", "lograsen" ],
+			[ "lograsen" ]
+		],
+		"11" : [
+			[ "lograre" ],
+			[ "lograres" ],
+			[ "lograre" ],
+			[ "lográremos" ],
+			[ "lograreis", "lograren" ],
+			[ "lograren" ]
+		],
+		"12" : {
+			"1" : [ "logra" ],
+			"2" : [ "logre" ],
+			"3" : [ "logremos" ],
+			"4" : [ "lograd" ],
+			"5" : [ "logren" ]
+		}
+	}
+}

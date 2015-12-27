@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=zarandar",
+	"word" : "zarandar",
+	"infinitivo" : "zarandar",
+	"participio" : [ "zarandado" ],
+	"gerundio" : [ "zarandando" ],
+	"tenses" : {
+		"3" : [
+			[ "zarando" ],
+			[ "zarandas", "zarandás" ],
+			[ "zaranda" ],
+			[ "zarandamos" ],
+			[ "zarandáis", "zarandan" ],
+			[ "zarandan" ]
+		],
+		"4" : [
+			[ "zarandé" ],
+			[ "zarandaste" ],
+			[ "zarandó" ],
+			[ "zarandamos" ],
+			[ "zarandasteis", "zarandaron" ],
+			[ "zarandaron" ]
+		],
+		"5" : [
+			[ "zarandaba" ],
+			[ "zarandabas" ],
+			[ "zarandaba" ],
+			[ "zarandábamos" ],
+			[ "zarandabais", "zarandaban" ],
+			[ "zarandaban" ]
+		],
+		"6" : [
+			[ "zarandaría" ],
+			[ "zarandarías" ],
+			[ "zarandaría" ],
+			[ "zarandaríamos" ],
+			[ "zarandaríais", "zarandarían" ],
+			[ "zarandarían" ]
+		],
+		"7" : [
+			[ "zarandaré" ],
+			[ "zarandarás" ],
+			[ "zarandará" ],
+			[ "zarandaremos" ],
+			[ "zarandaréis", "zarandarán" ],
+			[ "zarandarán" ]
+		],
+		"8" : [
+			[ "zarande" ],
+			[ "zarandes" ],
+			[ "zarande" ],
+			[ "zarandemos" ],
+			[ "zarandéis", "zaranden" ],
+			[ "zaranden" ]
+		],
+		"9" : [
+			[ "zarandara" ],
+			[ "zarandaras" ],
+			[ "zarandara" ],
+			[ "zarandáramos" ],
+			[ "zarandarais", "zarandaran" ],
+			[ "zarandaran" ]
+		],
+		"10" : [
+			[ "zarandase" ],
+			[ "zarandases" ],
+			[ "zarandase" ],
+			[ "zarandásemos" ],
+			[ "zarandaseis", "zarandasen" ],
+			[ "zarandasen" ]
+		],
+		"11" : [
+			[ "zarandare" ],
+			[ "zarandares" ],
+			[ "zarandare" ],
+			[ "zarandáremos" ],
+			[ "zarandareis", "zarandaren" ],
+			[ "zarandaren" ]
+		],
+		"12" : {
+			"1" : [ "zaranda" ],
+			"2" : [ "zarande" ],
+			"3" : [ "zarandemos" ],
+			"4" : [ "zarandad" ],
+			"5" : [ "zaranden" ]
+		}
+	}
+}

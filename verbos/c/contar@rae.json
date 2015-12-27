@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contar",
+	"word" : "contar",
+	"infinitivo" : "contar",
+	"participio" : [ "contado" ],
+	"gerundio" : [ "contando" ],
+	"tenses" : {
+		"3" : [
+			[ "cuento" ],
+			[ "cuentas", "contás" ],
+			[ "cuenta" ],
+			[ "contamos" ],
+			[ "contáis", "cuentan" ],
+			[ "cuentan" ]
+		],
+		"4" : [
+			[ "conté" ],
+			[ "contaste" ],
+			[ "contó" ],
+			[ "contamos" ],
+			[ "contasteis", "contaron" ],
+			[ "contaron" ]
+		],
+		"5" : [
+			[ "contaba" ],
+			[ "contabas" ],
+			[ "contaba" ],
+			[ "contábamos" ],
+			[ "contabais", "contaban" ],
+			[ "contaban" ]
+		],
+		"6" : [
+			[ "contaría" ],
+			[ "contarías" ],
+			[ "contaría" ],
+			[ "contaríamos" ],
+			[ "contaríais", "contarían" ],
+			[ "contarían" ]
+		],
+		"7" : [
+			[ "contaré" ],
+			[ "contarás" ],
+			[ "contará" ],
+			[ "contaremos" ],
+			[ "contaréis", "contarán" ],
+			[ "contarán" ]
+		],
+		"8" : [
+			[ "cuente" ],
+			[ "cuentes" ],
+			[ "cuente" ],
+			[ "contemos" ],
+			[ "contéis", "cuenten" ],
+			[ "cuenten" ]
+		],
+		"9" : [
+			[ "contara" ],
+			[ "contaras" ],
+			[ "contara" ],
+			[ "contáramos" ],
+			[ "contarais", "contaran" ],
+			[ "contaran" ]
+		],
+		"10" : [
+			[ "contase" ],
+			[ "contases" ],
+			[ "contase" ],
+			[ "contásemos" ],
+			[ "contaseis", "contasen" ],
+			[ "contasen" ]
+		],
+		"11" : [
+			[ "contare" ],
+			[ "contares" ],
+			[ "contare" ],
+			[ "contáremos" ],
+			[ "contareis", "contaren" ],
+			[ "contaren" ]
+		],
+		"12" : {
+			"1" : [ "cuenta" ],
+			"2" : [ "cuente" ],
+			"3" : [ "contemos" ],
+			"4" : [ "contad" ],
+			"5" : [ "cuenten" ]
+		}
+	}
+}

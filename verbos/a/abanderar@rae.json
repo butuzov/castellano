@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abanderar",
+	"word" : "abanderar",
+	"infinitivo" : "abanderar",
+	"participio" : [ "abanderado" ],
+	"gerundio" : [ "abanderando" ],
+	"tenses" : {
+		"3" : [
+			[ "abandero" ],
+			[ "abanderas", "abanderás" ],
+			[ "abandera" ],
+			[ "abanderamos" ],
+			[ "abanderáis", "abanderan" ],
+			[ "abanderan" ]
+		],
+		"4" : [
+			[ "abanderé" ],
+			[ "abanderaste" ],
+			[ "abanderó" ],
+			[ "abanderamos" ],
+			[ "abanderasteis", "abanderaron" ],
+			[ "abanderaron" ]
+		],
+		"5" : [
+			[ "abanderaba" ],
+			[ "abanderabas" ],
+			[ "abanderaba" ],
+			[ "abanderábamos" ],
+			[ "abanderabais", "abanderaban" ],
+			[ "abanderaban" ]
+		],
+		"6" : [
+			[ "abanderaría" ],
+			[ "abanderarías" ],
+			[ "abanderaría" ],
+			[ "abanderaríamos" ],
+			[ "abanderaríais", "abanderarían" ],
+			[ "abanderarían" ]
+		],
+		"7" : [
+			[ "abanderaré" ],
+			[ "abanderarás" ],
+			[ "abanderará" ],
+			[ "abanderaremos" ],
+			[ "abanderaréis", "abanderarán" ],
+			[ "abanderarán" ]
+		],
+		"8" : [
+			[ "abandere" ],
+			[ "abanderes" ],
+			[ "abandere" ],
+			[ "abanderemos" ],
+			[ "abanderéis", "abanderen" ],
+			[ "abanderen" ]
+		],
+		"9" : [
+			[ "abanderara" ],
+			[ "abanderaras" ],
+			[ "abanderara" ],
+			[ "abanderáramos" ],
+			[ "abanderarais", "abanderaran" ],
+			[ "abanderaran" ]
+		],
+		"10" : [
+			[ "abanderase" ],
+			[ "abanderases" ],
+			[ "abanderase" ],
+			[ "abanderásemos" ],
+			[ "abanderaseis", "abanderasen" ],
+			[ "abanderasen" ]
+		],
+		"11" : [
+			[ "abanderare" ],
+			[ "abanderares" ],
+			[ "abanderare" ],
+			[ "abanderáremos" ],
+			[ "abanderareis", "abanderaren" ],
+			[ "abanderaren" ]
+		],
+		"12" : {
+			"1" : [ "abandera" ],
+			"2" : [ "abandere" ],
+			"3" : [ "abanderemos" ],
+			"4" : [ "abanderad" ],
+			"5" : [ "abanderen" ]
+		}
+	}
+}

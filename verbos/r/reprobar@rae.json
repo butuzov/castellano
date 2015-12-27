@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reprobar",
+	"word" : "reprobar",
+	"infinitivo" : "reprobar",
+	"participio" : [ "reprobado" ],
+	"gerundio" : [ "reprobando" ],
+	"tenses" : {
+		"3" : [
+			[ "repruebo" ],
+			[ "repruebas", "reprobás" ],
+			[ "reprueba" ],
+			[ "reprobamos" ],
+			[ "reprobáis", "reprueban" ],
+			[ "reprueban" ]
+		],
+		"4" : [
+			[ "reprobé" ],
+			[ "reprobaste" ],
+			[ "reprobó" ],
+			[ "reprobamos" ],
+			[ "reprobasteis", "reprobaron" ],
+			[ "reprobaron" ]
+		],
+		"5" : [
+			[ "reprobaba" ],
+			[ "reprobabas" ],
+			[ "reprobaba" ],
+			[ "reprobábamos" ],
+			[ "reprobabais", "reprobaban" ],
+			[ "reprobaban" ]
+		],
+		"6" : [
+			[ "reprobaría" ],
+			[ "reprobarías" ],
+			[ "reprobaría" ],
+			[ "reprobaríamos" ],
+			[ "reprobaríais", "reprobarían" ],
+			[ "reprobarían" ]
+		],
+		"7" : [
+			[ "reprobaré" ],
+			[ "reprobarás" ],
+			[ "reprobará" ],
+			[ "reprobaremos" ],
+			[ "reprobaréis", "reprobarán" ],
+			[ "reprobarán" ]
+		],
+		"8" : [
+			[ "repruebe" ],
+			[ "repruebes" ],
+			[ "repruebe" ],
+			[ "reprobemos" ],
+			[ "reprobéis", "reprueben" ],
+			[ "reprueben" ]
+		],
+		"9" : [
+			[ "reprobara" ],
+			[ "reprobaras" ],
+			[ "reprobara" ],
+			[ "reprobáramos" ],
+			[ "reprobarais", "reprobaran" ],
+			[ "reprobaran" ]
+		],
+		"10" : [
+			[ "reprobase" ],
+			[ "reprobases" ],
+			[ "reprobase" ],
+			[ "reprobásemos" ],
+			[ "reprobaseis", "reprobasen" ],
+			[ "reprobasen" ]
+		],
+		"11" : [
+			[ "reprobare" ],
+			[ "reprobares" ],
+			[ "reprobare" ],
+			[ "reprobáremos" ],
+			[ "reprobareis", "reprobaren" ],
+			[ "reprobaren" ]
+		],
+		"12" : {
+			"1" : [ "reprueba" ],
+			"2" : [ "repruebe" ],
+			"3" : [ "reprobemos" ],
+			"4" : [ "reprobad" ],
+			"5" : [ "reprueben" ]
+		}
+	}
+}

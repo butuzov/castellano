@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bregar",
+	"word" : "bregar",
+	"infinitivo" : "bregar",
+	"participio" : [ "bregado" ],
+	"gerundio" : [ "bregando" ],
+	"tenses" : {
+		"3" : [
+			[ "brego" ],
+			[ "bregas", "bregás" ],
+			[ "brega" ],
+			[ "bregamos" ],
+			[ "bregáis", "bregan" ],
+			[ "bregan" ]
+		],
+		"4" : [
+			[ "bregué" ],
+			[ "bregaste" ],
+			[ "bregó" ],
+			[ "bregamos" ],
+			[ "bregasteis", "bregaron" ],
+			[ "bregaron" ]
+		],
+		"5" : [
+			[ "bregaba" ],
+			[ "bregabas" ],
+			[ "bregaba" ],
+			[ "bregábamos" ],
+			[ "bregabais", "bregaban" ],
+			[ "bregaban" ]
+		],
+		"6" : [
+			[ "bregaría" ],
+			[ "bregarías" ],
+			[ "bregaría" ],
+			[ "bregaríamos" ],
+			[ "bregaríais", "bregarían" ],
+			[ "bregarían" ]
+		],
+		"7" : [
+			[ "bregaré" ],
+			[ "bregarás" ],
+			[ "bregará" ],
+			[ "bregaremos" ],
+			[ "bregaréis", "bregarán" ],
+			[ "bregarán" ]
+		],
+		"8" : [
+			[ "bregue" ],
+			[ "bregues" ],
+			[ "bregue" ],
+			[ "breguemos" ],
+			[ "breguéis", "breguen" ],
+			[ "breguen" ]
+		],
+		"9" : [
+			[ "bregara" ],
+			[ "bregaras" ],
+			[ "bregara" ],
+			[ "bregáramos" ],
+			[ "bregarais", "bregaran" ],
+			[ "bregaran" ]
+		],
+		"10" : [
+			[ "bregase" ],
+			[ "bregases" ],
+			[ "bregase" ],
+			[ "bregásemos" ],
+			[ "bregaseis", "bregasen" ],
+			[ "bregasen" ]
+		],
+		"11" : [
+			[ "bregare" ],
+			[ "bregares" ],
+			[ "bregare" ],
+			[ "bregáremos" ],
+			[ "bregareis", "bregaren" ],
+			[ "bregaren" ]
+		],
+		"12" : {
+			"1" : [ "brega" ],
+			"2" : [ "bregue" ],
+			"3" : [ "breguemos" ],
+			"4" : [ "bregad" ],
+			"5" : [ "breguen" ]
+		}
+	}
+}

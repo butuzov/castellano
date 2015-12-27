@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=convocar",
+	"word" : "convocar",
+	"infinitivo" : "convocar",
+	"participio" : [ "convocado" ],
+	"gerundio" : [ "convocando" ],
+	"tenses" : {
+		"3" : [
+			[ "convoco" ],
+			[ "convocas", "convocás" ],
+			[ "convoca" ],
+			[ "convocamos" ],
+			[ "convocáis", "convocan" ],
+			[ "convocan" ]
+		],
+		"4" : [
+			[ "convoqué" ],
+			[ "convocaste" ],
+			[ "convocó" ],
+			[ "convocamos" ],
+			[ "convocasteis", "convocaron" ],
+			[ "convocaron" ]
+		],
+		"5" : [
+			[ "convocaba" ],
+			[ "convocabas" ],
+			[ "convocaba" ],
+			[ "convocábamos" ],
+			[ "convocabais", "convocaban" ],
+			[ "convocaban" ]
+		],
+		"6" : [
+			[ "convocaría" ],
+			[ "convocarías" ],
+			[ "convocaría" ],
+			[ "convocaríamos" ],
+			[ "convocaríais", "convocarían" ],
+			[ "convocarían" ]
+		],
+		"7" : [
+			[ "convocaré" ],
+			[ "convocarás" ],
+			[ "convocará" ],
+			[ "convocaremos" ],
+			[ "convocaréis", "convocarán" ],
+			[ "convocarán" ]
+		],
+		"8" : [
+			[ "convoque" ],
+			[ "convoques" ],
+			[ "convoque" ],
+			[ "convoquemos" ],
+			[ "convoquéis", "convoquen" ],
+			[ "convoquen" ]
+		],
+		"9" : [
+			[ "convocara" ],
+			[ "convocaras" ],
+			[ "convocara" ],
+			[ "convocáramos" ],
+			[ "convocarais", "convocaran" ],
+			[ "convocaran" ]
+		],
+		"10" : [
+			[ "convocase" ],
+			[ "convocases" ],
+			[ "convocase" ],
+			[ "convocásemos" ],
+			[ "convocaseis", "convocasen" ],
+			[ "convocasen" ]
+		],
+		"11" : [
+			[ "convocare" ],
+			[ "convocares" ],
+			[ "convocare" ],
+			[ "convocáremos" ],
+			[ "convocareis", "convocaren" ],
+			[ "convocaren" ]
+		],
+		"12" : {
+			"1" : [ "convoca" ],
+			"2" : [ "convoque" ],
+			"3" : [ "convoquemos" ],
+			"4" : [ "convocad" ],
+			"5" : [ "convoquen" ]
+		}
+	}
+}

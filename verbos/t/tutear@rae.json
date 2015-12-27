@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tutear",
+	"word" : "tutear",
+	"infinitivo" : "tutear",
+	"participio" : [ "tuteado" ],
+	"gerundio" : [ "tuteando" ],
+	"tenses" : {
+		"3" : [
+			[ "tuteo" ],
+			[ "tuteas", "tuteás" ],
+			[ "tutea" ],
+			[ "tuteamos" ],
+			[ "tuteáis", "tutean" ],
+			[ "tutean" ]
+		],
+		"4" : [
+			[ "tuteé" ],
+			[ "tuteaste" ],
+			[ "tuteó" ],
+			[ "tuteamos" ],
+			[ "tuteasteis", "tutearon" ],
+			[ "tutearon" ]
+		],
+		"5" : [
+			[ "tuteaba" ],
+			[ "tuteabas" ],
+			[ "tuteaba" ],
+			[ "tuteábamos" ],
+			[ "tuteabais", "tuteaban" ],
+			[ "tuteaban" ]
+		],
+		"6" : [
+			[ "tutearía" ],
+			[ "tutearías" ],
+			[ "tutearía" ],
+			[ "tutearíamos" ],
+			[ "tutearíais", "tutearían" ],
+			[ "tutearían" ]
+		],
+		"7" : [
+			[ "tutearé" ],
+			[ "tutearás" ],
+			[ "tuteará" ],
+			[ "tutearemos" ],
+			[ "tutearéis", "tutearán" ],
+			[ "tutearán" ]
+		],
+		"8" : [
+			[ "tutee" ],
+			[ "tutees" ],
+			[ "tutee" ],
+			[ "tuteemos" ],
+			[ "tuteéis", "tuteen" ],
+			[ "tuteen" ]
+		],
+		"9" : [
+			[ "tuteara" ],
+			[ "tutearas" ],
+			[ "tuteara" ],
+			[ "tuteáramos" ],
+			[ "tutearais", "tutearan" ],
+			[ "tutearan" ]
+		],
+		"10" : [
+			[ "tutease" ],
+			[ "tuteases" ],
+			[ "tutease" ],
+			[ "tuteásemos" ],
+			[ "tuteaseis", "tuteasen" ],
+			[ "tuteasen" ]
+		],
+		"11" : [
+			[ "tuteare" ],
+			[ "tuteares" ],
+			[ "tuteare" ],
+			[ "tuteáremos" ],
+			[ "tuteareis", "tutearen" ],
+			[ "tutearen" ]
+		],
+		"12" : {
+			"1" : [ "tutea" ],
+			"2" : [ "tutee" ],
+			"3" : [ "tuteemos" ],
+			"4" : [ "tutead" ],
+			"5" : [ "tuteen" ]
+		}
+	}
+}

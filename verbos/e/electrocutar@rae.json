@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=electrocutar",
+	"word" : "electrocutar",
+	"infinitivo" : "electrocutar",
+	"participio" : [ "electrocutado" ],
+	"gerundio" : [ "electrocutando" ],
+	"tenses" : {
+		"3" : [
+			[ "electrocuto" ],
+			[ "electrocutas", "electrocutás" ],
+			[ "electrocuta" ],
+			[ "electrocutamos" ],
+			[ "electrocutáis", "electrocutan" ],
+			[ "electrocutan" ]
+		],
+		"4" : [
+			[ "electrocuté" ],
+			[ "electrocutaste" ],
+			[ "electrocutó" ],
+			[ "electrocutamos" ],
+			[ "electrocutasteis", "electrocutaron" ],
+			[ "electrocutaron" ]
+		],
+		"5" : [
+			[ "electrocutaba" ],
+			[ "electrocutabas" ],
+			[ "electrocutaba" ],
+			[ "electrocutábamos" ],
+			[ "electrocutabais", "electrocutaban" ],
+			[ "electrocutaban" ]
+		],
+		"6" : [
+			[ "electrocutaría" ],
+			[ "electrocutarías" ],
+			[ "electrocutaría" ],
+			[ "electrocutaríamos" ],
+			[ "electrocutaríais", "electrocutarían" ],
+			[ "electrocutarían" ]
+		],
+		"7" : [
+			[ "electrocutaré" ],
+			[ "electrocutarás" ],
+			[ "electrocutará" ],
+			[ "electrocutaremos" ],
+			[ "electrocutaréis", "electrocutarán" ],
+			[ "electrocutarán" ]
+		],
+		"8" : [
+			[ "electrocute" ],
+			[ "electrocutes" ],
+			[ "electrocute" ],
+			[ "electrocutemos" ],
+			[ "electrocutéis", "electrocuten" ],
+			[ "electrocuten" ]
+		],
+		"9" : [
+			[ "electrocutara" ],
+			[ "electrocutaras" ],
+			[ "electrocutara" ],
+			[ "electrocutáramos" ],
+			[ "electrocutarais", "electrocutaran" ],
+			[ "electrocutaran" ]
+		],
+		"10" : [
+			[ "electrocutase" ],
+			[ "electrocutases" ],
+			[ "electrocutase" ],
+			[ "electrocutásemos" ],
+			[ "electrocutaseis", "electrocutasen" ],
+			[ "electrocutasen" ]
+		],
+		"11" : [
+			[ "electrocutare" ],
+			[ "electrocutares" ],
+			[ "electrocutare" ],
+			[ "electrocutáremos" ],
+			[ "electrocutareis", "electrocutaren" ],
+			[ "electrocutaren" ]
+		],
+		"12" : {
+			"1" : [ "electrocuta" ],
+			"2" : [ "electrocute" ],
+			"3" : [ "electrocutemos" ],
+			"4" : [ "electrocutad" ],
+			"5" : [ "electrocuten" ]
+		}
+	}
+}

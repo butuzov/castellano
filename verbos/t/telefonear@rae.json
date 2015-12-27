@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=telefonear",
+	"word" : "telefonear",
+	"infinitivo" : "telefonear",
+	"participio" : [ "telefoneado" ],
+	"gerundio" : [ "telefoneando" ],
+	"tenses" : {
+		"3" : [
+			[ "telefoneo" ],
+			[ "telefoneas", "telefoneás" ],
+			[ "telefonea" ],
+			[ "telefoneamos" ],
+			[ "telefoneáis", "telefonean" ],
+			[ "telefonean" ]
+		],
+		"4" : [
+			[ "telefoneé" ],
+			[ "telefoneaste" ],
+			[ "telefoneó" ],
+			[ "telefoneamos" ],
+			[ "telefoneasteis", "telefonearon" ],
+			[ "telefonearon" ]
+		],
+		"5" : [
+			[ "telefoneaba" ],
+			[ "telefoneabas" ],
+			[ "telefoneaba" ],
+			[ "telefoneábamos" ],
+			[ "telefoneabais", "telefoneaban" ],
+			[ "telefoneaban" ]
+		],
+		"6" : [
+			[ "telefonearía" ],
+			[ "telefonearías" ],
+			[ "telefonearía" ],
+			[ "telefonearíamos" ],
+			[ "telefonearíais", "telefonearían" ],
+			[ "telefonearían" ]
+		],
+		"7" : [
+			[ "telefonearé" ],
+			[ "telefonearás" ],
+			[ "telefoneará" ],
+			[ "telefonearemos" ],
+			[ "telefonearéis", "telefonearán" ],
+			[ "telefonearán" ]
+		],
+		"8" : [
+			[ "telefonee" ],
+			[ "telefonees" ],
+			[ "telefonee" ],
+			[ "telefoneemos" ],
+			[ "telefoneéis", "telefoneen" ],
+			[ "telefoneen" ]
+		],
+		"9" : [
+			[ "telefoneara" ],
+			[ "telefonearas" ],
+			[ "telefoneara" ],
+			[ "telefoneáramos" ],
+			[ "telefonearais", "telefonearan" ],
+			[ "telefonearan" ]
+		],
+		"10" : [
+			[ "telefonease" ],
+			[ "telefoneases" ],
+			[ "telefonease" ],
+			[ "telefoneásemos" ],
+			[ "telefoneaseis", "telefoneasen" ],
+			[ "telefoneasen" ]
+		],
+		"11" : [
+			[ "telefoneare" ],
+			[ "telefoneares" ],
+			[ "telefoneare" ],
+			[ "telefoneáremos" ],
+			[ "telefoneareis", "telefonearen" ],
+			[ "telefonearen" ]
+		],
+		"12" : {
+			"1" : [ "telefonea" ],
+			"2" : [ "telefonee" ],
+			"3" : [ "telefoneemos" ],
+			"4" : [ "telefonead" ],
+			"5" : [ "telefoneen" ]
+		}
+	}
+}

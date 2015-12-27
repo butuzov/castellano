@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resistir",
+	"word" : "resistir",
+	"infinitivo" : "resistir",
+	"participio" : [ "resistido" ],
+	"gerundio" : [ "resistiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "resisto" ],
+			[ "resistes", "resistís" ],
+			[ "resiste" ],
+			[ "resistimos" ],
+			[ "resistís", "resisten" ],
+			[ "resisten" ]
+		],
+		"4" : [
+			[ "resistí" ],
+			[ "resististe" ],
+			[ "resistió" ],
+			[ "resistimos" ],
+			[ "resististeis", "resistieron" ],
+			[ "resistieron" ]
+		],
+		"5" : [
+			[ "resistía" ],
+			[ "resistías" ],
+			[ "resistía" ],
+			[ "resistíamos" ],
+			[ "resistíais", "resistían" ],
+			[ "resistían" ]
+		],
+		"6" : [
+			[ "resistiría" ],
+			[ "resistirías" ],
+			[ "resistiría" ],
+			[ "resistiríamos" ],
+			[ "resistiríais", "resistirían" ],
+			[ "resistirían" ]
+		],
+		"7" : [
+			[ "resistiré" ],
+			[ "resistirás" ],
+			[ "resistirá" ],
+			[ "resistiremos" ],
+			[ "resistiréis", "resistirán" ],
+			[ "resistirán" ]
+		],
+		"8" : [
+			[ "resista" ],
+			[ "resistas" ],
+			[ "resista" ],
+			[ "resistamos" ],
+			[ "resistáis", "resistan" ],
+			[ "resistan" ]
+		],
+		"9" : [
+			[ "resistiera" ],
+			[ "resistieras" ],
+			[ "resistiera" ],
+			[ "resistiéramos" ],
+			[ "resistierais", "resistieran" ],
+			[ "resistieran" ]
+		],
+		"10" : [
+			[ "resistiese" ],
+			[ "resistieses" ],
+			[ "resistiese" ],
+			[ "resistiésemos" ],
+			[ "resistieseis", "resistiesen" ],
+			[ "resistiesen" ]
+		],
+		"11" : [
+			[ "resistiere" ],
+			[ "resistieres" ],
+			[ "resistiere" ],
+			[ "resistiéremos" ],
+			[ "resistiereis", "resistieren" ],
+			[ "resistieren" ]
+		],
+		"12" : {
+			"1" : [ "resiste" ],
+			"2" : [ "resista" ],
+			"3" : [ "resistamos" ],
+			"4" : [ "resistid" ],
+			"5" : [ "resistan" ]
+		}
+	}
+}

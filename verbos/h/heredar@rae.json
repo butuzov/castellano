@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=heredar",
+	"word" : "heredar",
+	"infinitivo" : "heredar",
+	"participio" : [ "heredado" ],
+	"gerundio" : [ "heredando" ],
+	"tenses" : {
+		"3" : [
+			[ "heredo" ],
+			[ "heredas", "heredás" ],
+			[ "hereda" ],
+			[ "heredamos" ],
+			[ "heredáis", "heredan" ],
+			[ "heredan" ]
+		],
+		"4" : [
+			[ "heredé" ],
+			[ "heredaste" ],
+			[ "heredó" ],
+			[ "heredamos" ],
+			[ "heredasteis", "heredaron" ],
+			[ "heredaron" ]
+		],
+		"5" : [
+			[ "heredaba" ],
+			[ "heredabas" ],
+			[ "heredaba" ],
+			[ "heredábamos" ],
+			[ "heredabais", "heredaban" ],
+			[ "heredaban" ]
+		],
+		"6" : [
+			[ "heredaría" ],
+			[ "heredarías" ],
+			[ "heredaría" ],
+			[ "heredaríamos" ],
+			[ "heredaríais", "heredarían" ],
+			[ "heredarían" ]
+		],
+		"7" : [
+			[ "heredaré" ],
+			[ "heredarás" ],
+			[ "heredará" ],
+			[ "heredaremos" ],
+			[ "heredaréis", "heredarán" ],
+			[ "heredarán" ]
+		],
+		"8" : [
+			[ "herede" ],
+			[ "heredes" ],
+			[ "herede" ],
+			[ "heredemos" ],
+			[ "heredéis", "hereden" ],
+			[ "hereden" ]
+		],
+		"9" : [
+			[ "heredara" ],
+			[ "heredaras" ],
+			[ "heredara" ],
+			[ "heredáramos" ],
+			[ "heredarais", "heredaran" ],
+			[ "heredaran" ]
+		],
+		"10" : [
+			[ "heredase" ],
+			[ "heredases" ],
+			[ "heredase" ],
+			[ "heredásemos" ],
+			[ "heredaseis", "heredasen" ],
+			[ "heredasen" ]
+		],
+		"11" : [
+			[ "heredare" ],
+			[ "heredares" ],
+			[ "heredare" ],
+			[ "heredáremos" ],
+			[ "heredareis", "heredaren" ],
+			[ "heredaren" ]
+		],
+		"12" : {
+			"1" : [ "hereda" ],
+			"2" : [ "herede" ],
+			"3" : [ "heredemos" ],
+			"4" : [ "heredad" ],
+			"5" : [ "hereden" ]
+		}
+	}
+}

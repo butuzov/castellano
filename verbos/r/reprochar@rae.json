@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reprochar",
+	"word" : "reprochar",
+	"infinitivo" : "reprochar",
+	"participio" : [ "reprochado" ],
+	"gerundio" : [ "reprochando" ],
+	"tenses" : {
+		"3" : [
+			[ "reprocho" ],
+			[ "reprochas", "reprochás" ],
+			[ "reprocha" ],
+			[ "reprochamos" ],
+			[ "reprocháis", "reprochan" ],
+			[ "reprochan" ]
+		],
+		"4" : [
+			[ "reproché" ],
+			[ "reprochaste" ],
+			[ "reprochó" ],
+			[ "reprochamos" ],
+			[ "reprochasteis", "reprocharon" ],
+			[ "reprocharon" ]
+		],
+		"5" : [
+			[ "reprochaba" ],
+			[ "reprochabas" ],
+			[ "reprochaba" ],
+			[ "reprochábamos" ],
+			[ "reprochabais", "reprochaban" ],
+			[ "reprochaban" ]
+		],
+		"6" : [
+			[ "reprocharía" ],
+			[ "reprocharías" ],
+			[ "reprocharía" ],
+			[ "reprocharíamos" ],
+			[ "reprocharíais", "reprocharían" ],
+			[ "reprocharían" ]
+		],
+		"7" : [
+			[ "reprocharé" ],
+			[ "reprocharás" ],
+			[ "reprochará" ],
+			[ "reprocharemos" ],
+			[ "reprocharéis", "reprocharán" ],
+			[ "reprocharán" ]
+		],
+		"8" : [
+			[ "reproche" ],
+			[ "reproches" ],
+			[ "reproche" ],
+			[ "reprochemos" ],
+			[ "reprochéis", "reprochen" ],
+			[ "reprochen" ]
+		],
+		"9" : [
+			[ "reprochara" ],
+			[ "reprocharas" ],
+			[ "reprochara" ],
+			[ "reprocháramos" ],
+			[ "reprocharais", "reprocharan" ],
+			[ "reprocharan" ]
+		],
+		"10" : [
+			[ "reprochase" ],
+			[ "reprochases" ],
+			[ "reprochase" ],
+			[ "reprochásemos" ],
+			[ "reprochaseis", "reprochasen" ],
+			[ "reprochasen" ]
+		],
+		"11" : [
+			[ "reprochare" ],
+			[ "reprochares" ],
+			[ "reprochare" ],
+			[ "reprocháremos" ],
+			[ "reprochareis", "reprocharen" ],
+			[ "reprocharen" ]
+		],
+		"12" : {
+			"1" : [ "reprocha" ],
+			"2" : [ "reproche" ],
+			"3" : [ "reprochemos" ],
+			"4" : [ "reprochad" ],
+			"5" : [ "reprochen" ]
+		}
+	}
+}

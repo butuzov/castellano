@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vaporizar",
+	"word" : "vaporizar",
+	"infinitivo" : "vaporizar",
+	"participio" : [ "vaporizado" ],
+	"gerundio" : [ "vaporizando" ],
+	"tenses" : {
+		"3" : [
+			[ "vaporizo" ],
+			[ "vaporizas", "vaporizás" ],
+			[ "vaporiza" ],
+			[ "vaporizamos" ],
+			[ "vaporizáis", "vaporizan" ],
+			[ "vaporizan" ]
+		],
+		"4" : [
+			[ "vaporicé" ],
+			[ "vaporizaste" ],
+			[ "vaporizó" ],
+			[ "vaporizamos" ],
+			[ "vaporizasteis", "vaporizaron" ],
+			[ "vaporizaron" ]
+		],
+		"5" : [
+			[ "vaporizaba" ],
+			[ "vaporizabas" ],
+			[ "vaporizaba" ],
+			[ "vaporizábamos" ],
+			[ "vaporizabais", "vaporizaban" ],
+			[ "vaporizaban" ]
+		],
+		"6" : [
+			[ "vaporizaría" ],
+			[ "vaporizarías" ],
+			[ "vaporizaría" ],
+			[ "vaporizaríamos" ],
+			[ "vaporizaríais", "vaporizarían" ],
+			[ "vaporizarían" ]
+		],
+		"7" : [
+			[ "vaporizaré" ],
+			[ "vaporizarás" ],
+			[ "vaporizará" ],
+			[ "vaporizaremos" ],
+			[ "vaporizaréis", "vaporizarán" ],
+			[ "vaporizarán" ]
+		],
+		"8" : [
+			[ "vaporice" ],
+			[ "vaporices" ],
+			[ "vaporice" ],
+			[ "vaporicemos" ],
+			[ "vaporicéis", "vaporicen" ],
+			[ "vaporicen" ]
+		],
+		"9" : [
+			[ "vaporizara" ],
+			[ "vaporizaras" ],
+			[ "vaporizara" ],
+			[ "vaporizáramos" ],
+			[ "vaporizarais", "vaporizaran" ],
+			[ "vaporizaran" ]
+		],
+		"10" : [
+			[ "vaporizase" ],
+			[ "vaporizases" ],
+			[ "vaporizase" ],
+			[ "vaporizásemos" ],
+			[ "vaporizaseis", "vaporizasen" ],
+			[ "vaporizasen" ]
+		],
+		"11" : [
+			[ "vaporizare" ],
+			[ "vaporizares" ],
+			[ "vaporizare" ],
+			[ "vaporizáremos" ],
+			[ "vaporizareis", "vaporizaren" ],
+			[ "vaporizaren" ]
+		],
+		"12" : {
+			"1" : [ "vaporiza" ],
+			"2" : [ "vaporice" ],
+			"3" : [ "vaporicemos" ],
+			"4" : [ "vaporizad" ],
+			"5" : [ "vaporicen" ]
+		}
+	}
+}

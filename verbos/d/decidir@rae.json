@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=decidir",
+	"word" : "decidir",
+	"infinitivo" : "decidir",
+	"participio" : [ "decidido" ],
+	"gerundio" : [ "decidiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "decido" ],
+			[ "decides", "decidís" ],
+			[ "decide" ],
+			[ "decidimos" ],
+			[ "decidís", "deciden" ],
+			[ "deciden" ]
+		],
+		"4" : [
+			[ "decidí" ],
+			[ "decidiste" ],
+			[ "decidió" ],
+			[ "decidimos" ],
+			[ "decidisteis", "decidieron" ],
+			[ "decidieron" ]
+		],
+		"5" : [
+			[ "decidía" ],
+			[ "decidías" ],
+			[ "decidía" ],
+			[ "decidíamos" ],
+			[ "decidíais", "decidían" ],
+			[ "decidían" ]
+		],
+		"6" : [
+			[ "decidiría" ],
+			[ "decidirías" ],
+			[ "decidiría" ],
+			[ "decidiríamos" ],
+			[ "decidiríais", "decidirían" ],
+			[ "decidirían" ]
+		],
+		"7" : [
+			[ "decidiré" ],
+			[ "decidirás" ],
+			[ "decidirá" ],
+			[ "decidiremos" ],
+			[ "decidiréis", "decidirán" ],
+			[ "decidirán" ]
+		],
+		"8" : [
+			[ "decida" ],
+			[ "decidas" ],
+			[ "decida" ],
+			[ "decidamos" ],
+			[ "decidáis", "decidan" ],
+			[ "decidan" ]
+		],
+		"9" : [
+			[ "decidiera" ],
+			[ "decidieras" ],
+			[ "decidiera" ],
+			[ "decidiéramos" ],
+			[ "decidierais", "decidieran" ],
+			[ "decidieran" ]
+		],
+		"10" : [
+			[ "decidiese" ],
+			[ "decidieses" ],
+			[ "decidiese" ],
+			[ "decidiésemos" ],
+			[ "decidieseis", "decidiesen" ],
+			[ "decidiesen" ]
+		],
+		"11" : [
+			[ "decidiere" ],
+			[ "decidieres" ],
+			[ "decidiere" ],
+			[ "decidiéremos" ],
+			[ "decidiereis", "decidieren" ],
+			[ "decidieren" ]
+		],
+		"12" : {
+			"1" : [ "decide" ],
+			"2" : [ "decida" ],
+			"3" : [ "decidamos" ],
+			"4" : [ "decidid" ],
+			"5" : [ "decidan" ]
+		}
+	}
+}

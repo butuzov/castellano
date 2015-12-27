@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=citar",
+	"word" : "citar",
+	"infinitivo" : "citar",
+	"participio" : [ "citado" ],
+	"gerundio" : [ "citando" ],
+	"tenses" : {
+		"3" : [
+			[ "cito" ],
+			[ "citas", "citás" ],
+			[ "cita" ],
+			[ "citamos" ],
+			[ "citáis", "citan" ],
+			[ "citan" ]
+		],
+		"4" : [
+			[ "cité" ],
+			[ "citaste" ],
+			[ "citó" ],
+			[ "citamos" ],
+			[ "citasteis", "citaron" ],
+			[ "citaron" ]
+		],
+		"5" : [
+			[ "citaba" ],
+			[ "citabas" ],
+			[ "citaba" ],
+			[ "citábamos" ],
+			[ "citabais", "citaban" ],
+			[ "citaban" ]
+		],
+		"6" : [
+			[ "citaría" ],
+			[ "citarías" ],
+			[ "citaría" ],
+			[ "citaríamos" ],
+			[ "citaríais", "citarían" ],
+			[ "citarían" ]
+		],
+		"7" : [
+			[ "citaré" ],
+			[ "citarás" ],
+			[ "citará" ],
+			[ "citaremos" ],
+			[ "citaréis", "citarán" ],
+			[ "citarán" ]
+		],
+		"8" : [
+			[ "cite" ],
+			[ "cites" ],
+			[ "cite" ],
+			[ "citemos" ],
+			[ "citéis", "citen" ],
+			[ "citen" ]
+		],
+		"9" : [
+			[ "citara" ],
+			[ "citaras" ],
+			[ "citara" ],
+			[ "citáramos" ],
+			[ "citarais", "citaran" ],
+			[ "citaran" ]
+		],
+		"10" : [
+			[ "citase" ],
+			[ "citases" ],
+			[ "citase" ],
+			[ "citásemos" ],
+			[ "citaseis", "citasen" ],
+			[ "citasen" ]
+		],
+		"11" : [
+			[ "citare" ],
+			[ "citares" ],
+			[ "citare" ],
+			[ "citáremos" ],
+			[ "citareis", "citaren" ],
+			[ "citaren" ]
+		],
+		"12" : {
+			"1" : [ "cita" ],
+			"2" : [ "cite" ],
+			"3" : [ "citemos" ],
+			"4" : [ "citad" ],
+			"5" : [ "citen" ]
+		}
+	}
+}

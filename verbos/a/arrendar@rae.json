@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrendar",
+	"word" : "arrendar",
+	"infinitivo" : "arrendar",
+	"participio" : [ "arrendado" ],
+	"gerundio" : [ "arrendando" ],
+	"tenses" : {
+		"3" : [
+			[ "arriendo" ],
+			[ "arriendas", "arrendás" ],
+			[ "arrienda" ],
+			[ "arrendamos" ],
+			[ "arrendáis", "arriendan" ],
+			[ "arriendan" ]
+		],
+		"4" : [
+			[ "arrendé" ],
+			[ "arrendaste" ],
+			[ "arrendó" ],
+			[ "arrendamos" ],
+			[ "arrendasteis", "arrendaron" ],
+			[ "arrendaron" ]
+		],
+		"5" : [
+			[ "arrendaba" ],
+			[ "arrendabas" ],
+			[ "arrendaba" ],
+			[ "arrendábamos" ],
+			[ "arrendabais", "arrendaban" ],
+			[ "arrendaban" ]
+		],
+		"6" : [
+			[ "arrendaría" ],
+			[ "arrendarías" ],
+			[ "arrendaría" ],
+			[ "arrendaríamos" ],
+			[ "arrendaríais", "arrendarían" ],
+			[ "arrendarían" ]
+		],
+		"7" : [
+			[ "arrendaré" ],
+			[ "arrendarás" ],
+			[ "arrendará" ],
+			[ "arrendaremos" ],
+			[ "arrendaréis", "arrendarán" ],
+			[ "arrendarán" ]
+		],
+		"8" : [
+			[ "arriende" ],
+			[ "arriendes" ],
+			[ "arriende" ],
+			[ "arrendemos" ],
+			[ "arrendéis", "arrienden" ],
+			[ "arrienden" ]
+		],
+		"9" : [
+			[ "arrendara" ],
+			[ "arrendaras" ],
+			[ "arrendara" ],
+			[ "arrendáramos" ],
+			[ "arrendarais", "arrendaran" ],
+			[ "arrendaran" ]
+		],
+		"10" : [
+			[ "arrendase" ],
+			[ "arrendases" ],
+			[ "arrendase" ],
+			[ "arrendásemos" ],
+			[ "arrendaseis", "arrendasen" ],
+			[ "arrendasen" ]
+		],
+		"11" : [
+			[ "arrendare" ],
+			[ "arrendares" ],
+			[ "arrendare" ],
+			[ "arrendáremos" ],
+			[ "arrendareis", "arrendaren" ],
+			[ "arrendaren" ]
+		],
+		"12" : {
+			"1" : [ "arrienda" ],
+			"2" : [ "arriende" ],
+			"3" : [ "arrendemos" ],
+			"4" : [ "arrendad" ],
+			"5" : [ "arrienden" ]
+		}
+	}
+}

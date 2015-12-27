@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conversar",
+	"word" : "conversar",
+	"infinitivo" : "conversar",
+	"participio" : [ "conversado" ],
+	"gerundio" : [ "conversando" ],
+	"tenses" : {
+		"3" : [
+			[ "converso" ],
+			[ "conversas", "conversás" ],
+			[ "conversa" ],
+			[ "conversamos" ],
+			[ "conversáis", "conversan" ],
+			[ "conversan" ]
+		],
+		"4" : [
+			[ "conversé" ],
+			[ "conversaste" ],
+			[ "conversó" ],
+			[ "conversamos" ],
+			[ "conversasteis", "conversaron" ],
+			[ "conversaron" ]
+		],
+		"5" : [
+			[ "conversaba" ],
+			[ "conversabas" ],
+			[ "conversaba" ],
+			[ "conversábamos" ],
+			[ "conversabais", "conversaban" ],
+			[ "conversaban" ]
+		],
+		"6" : [
+			[ "conversaría" ],
+			[ "conversarías" ],
+			[ "conversaría" ],
+			[ "conversaríamos" ],
+			[ "conversaríais", "conversarían" ],
+			[ "conversarían" ]
+		],
+		"7" : [
+			[ "conversaré" ],
+			[ "conversarás" ],
+			[ "conversará" ],
+			[ "conversaremos" ],
+			[ "conversaréis", "conversarán" ],
+			[ "conversarán" ]
+		],
+		"8" : [
+			[ "converse" ],
+			[ "converses" ],
+			[ "converse" ],
+			[ "conversemos" ],
+			[ "converséis", "conversen" ],
+			[ "conversen" ]
+		],
+		"9" : [
+			[ "conversara" ],
+			[ "conversaras" ],
+			[ "conversara" ],
+			[ "conversáramos" ],
+			[ "conversarais", "conversaran" ],
+			[ "conversaran" ]
+		],
+		"10" : [
+			[ "conversase" ],
+			[ "conversases" ],
+			[ "conversase" ],
+			[ "conversásemos" ],
+			[ "conversaseis", "conversasen" ],
+			[ "conversasen" ]
+		],
+		"11" : [
+			[ "conversare" ],
+			[ "conversares" ],
+			[ "conversare" ],
+			[ "conversáremos" ],
+			[ "conversareis", "conversaren" ],
+			[ "conversaren" ]
+		],
+		"12" : {
+			"1" : [ "conversa" ],
+			"2" : [ "converse" ],
+			"3" : [ "conversemos" ],
+			"4" : [ "conversad" ],
+			"5" : [ "conversen" ]
+		}
+	}
+}

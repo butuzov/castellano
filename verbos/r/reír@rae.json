@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reír",
+	"word" : "reír",
+	"infinitivo" : "reír",
+	"participio" : [ "reído" ],
+	"gerundio" : [ "riendo" ],
+	"tenses" : {
+		"3" : [
+			[ "río" ],
+			[ "ríes", "reís" ],
+			[ "ríe" ],
+			[ "reímos" ],
+			[ "reís", "ríen" ],
+			[ "ríen" ]
+		],
+		"4" : [
+			[ "reí" ],
+			[ "reíste" ],
+			[ "rio" ],
+			[ "reímos" ],
+			[ "reísteis", "rieron" ],
+			[ "rieron" ]
+		],
+		"5" : [
+			[ "reía" ],
+			[ "reías" ],
+			[ "reía" ],
+			[ "reíamos" ],
+			[ "reíais", "reían" ],
+			[ "reían" ]
+		],
+		"6" : [
+			[ "reiría" ],
+			[ "reirías" ],
+			[ "reiría" ],
+			[ "reiríamos" ],
+			[ "reiríais", "reirían" ],
+			[ "reirían" ]
+		],
+		"7" : [
+			[ "reiré" ],
+			[ "reirás" ],
+			[ "reirá" ],
+			[ "reiremos" ],
+			[ "reiréis", "reirán" ],
+			[ "reirán" ]
+		],
+		"8" : [
+			[ "ría" ],
+			[ "rías" ],
+			[ "ría" ],
+			[ "riamos" ],
+			[ "riais", "rían" ],
+			[ "rían" ]
+		],
+		"9" : [
+			[ "riera" ],
+			[ "rieras" ],
+			[ "riera" ],
+			[ "riéramos" ],
+			[ "rierais", "rieran" ],
+			[ "rieran" ]
+		],
+		"10" : [
+			[ "riese" ],
+			[ "rieses" ],
+			[ "riese" ],
+			[ "riésemos" ],
+			[ "rieseis", "riesen" ],
+			[ "riesen" ]
+		],
+		"11" : [
+			[ "riere" ],
+			[ "rieres" ],
+			[ "riere" ],
+			[ "riéremos" ],
+			[ "riereis", "rieren" ],
+			[ "rieren" ]
+		],
+		"12" : {
+			"1" : [ "ríe" ],
+			"2" : [ "ría" ],
+			"3" : [ "riamos" ],
+			"4" : [ "reíd" ],
+			"5" : [ "rían" ]
+		}
+	}
+}

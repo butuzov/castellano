@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enrojecer",
+	"word" : "enrojecer",
+	"infinitivo" : "enrojecer",
+	"participio" : [ "enrojecido" ],
+	"gerundio" : [ "enrojeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "enrojezco" ],
+			[ "enrojeces", "enrojecés" ],
+			[ "enrojece" ],
+			[ "enrojecemos" ],
+			[ "enrojecéis", "enrojecen" ],
+			[ "enrojecen" ]
+		],
+		"4" : [
+			[ "enrojecí" ],
+			[ "enrojeciste" ],
+			[ "enrojeció" ],
+			[ "enrojecimos" ],
+			[ "enrojecisteis", "enrojecieron" ],
+			[ "enrojecieron" ]
+		],
+		"5" : [
+			[ "enrojecía" ],
+			[ "enrojecías" ],
+			[ "enrojecía" ],
+			[ "enrojecíamos" ],
+			[ "enrojecíais", "enrojecían" ],
+			[ "enrojecían" ]
+		],
+		"6" : [
+			[ "enrojecería" ],
+			[ "enrojecerías" ],
+			[ "enrojecería" ],
+			[ "enrojeceríamos" ],
+			[ "enrojeceríais", "enrojecerían" ],
+			[ "enrojecerían" ]
+		],
+		"7" : [
+			[ "enrojeceré" ],
+			[ "enrojecerás" ],
+			[ "enrojecerá" ],
+			[ "enrojeceremos" ],
+			[ "enrojeceréis", "enrojecerán" ],
+			[ "enrojecerán" ]
+		],
+		"8" : [
+			[ "enrojezca" ],
+			[ "enrojezcas" ],
+			[ "enrojezca" ],
+			[ "enrojezcamos" ],
+			[ "enrojezcáis", "enrojezcan" ],
+			[ "enrojezcan" ]
+		],
+		"9" : [
+			[ "enrojeciera" ],
+			[ "enrojecieras" ],
+			[ "enrojeciera" ],
+			[ "enrojeciéramos" ],
+			[ "enrojecierais", "enrojecieran" ],
+			[ "enrojecieran" ]
+		],
+		"10" : [
+			[ "enrojeciese" ],
+			[ "enrojecieses" ],
+			[ "enrojeciese" ],
+			[ "enrojeciésemos" ],
+			[ "enrojecieseis", "enrojeciesen" ],
+			[ "enrojeciesen" ]
+		],
+		"11" : [
+			[ "enrojeciere" ],
+			[ "enrojecieres" ],
+			[ "enrojeciere" ],
+			[ "enrojeciéremos" ],
+			[ "enrojeciereis", "enrojecieren" ],
+			[ "enrojecieren" ]
+		],
+		"12" : {
+			"1" : [ "enrojece" ],
+			"2" : [ "enrojezca" ],
+			"3" : [ "enrojezcamos" ],
+			"4" : [ "enrojeced" ],
+			"5" : [ "enrojezcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hesitar",
+	"word" : "hesitar",
+	"infinitivo" : "hesitar",
+	"participio" : [ "hesitado" ],
+	"gerundio" : [ "hesitando" ],
+	"tenses" : {
+		"3" : [
+			[ "hesito" ],
+			[ "hesitas", "hesitás" ],
+			[ "hesita" ],
+			[ "hesitamos" ],
+			[ "hesitáis", "hesitan" ],
+			[ "hesitan" ]
+		],
+		"4" : [
+			[ "hesité" ],
+			[ "hesitaste" ],
+			[ "hesitó" ],
+			[ "hesitamos" ],
+			[ "hesitasteis", "hesitaron" ],
+			[ "hesitaron" ]
+		],
+		"5" : [
+			[ "hesitaba" ],
+			[ "hesitabas" ],
+			[ "hesitaba" ],
+			[ "hesitábamos" ],
+			[ "hesitabais", "hesitaban" ],
+			[ "hesitaban" ]
+		],
+		"6" : [
+			[ "hesitaría" ],
+			[ "hesitarías" ],
+			[ "hesitaría" ],
+			[ "hesitaríamos" ],
+			[ "hesitaríais", "hesitarían" ],
+			[ "hesitarían" ]
+		],
+		"7" : [
+			[ "hesitaré" ],
+			[ "hesitarás" ],
+			[ "hesitará" ],
+			[ "hesitaremos" ],
+			[ "hesitaréis", "hesitarán" ],
+			[ "hesitarán" ]
+		],
+		"8" : [
+			[ "hesite" ],
+			[ "hesites" ],
+			[ "hesite" ],
+			[ "hesitemos" ],
+			[ "hesitéis", "hesiten" ],
+			[ "hesiten" ]
+		],
+		"9" : [
+			[ "hesitara" ],
+			[ "hesitaras" ],
+			[ "hesitara" ],
+			[ "hesitáramos" ],
+			[ "hesitarais", "hesitaran" ],
+			[ "hesitaran" ]
+		],
+		"10" : [
+			[ "hesitase" ],
+			[ "hesitases" ],
+			[ "hesitase" ],
+			[ "hesitásemos" ],
+			[ "hesitaseis", "hesitasen" ],
+			[ "hesitasen" ]
+		],
+		"11" : [
+			[ "hesitare" ],
+			[ "hesitares" ],
+			[ "hesitare" ],
+			[ "hesitáremos" ],
+			[ "hesitareis", "hesitaren" ],
+			[ "hesitaren" ]
+		],
+		"12" : {
+			"1" : [ "hesita" ],
+			"2" : [ "hesite" ],
+			"3" : [ "hesitemos" ],
+			"4" : [ "hesitad" ],
+			"5" : [ "hesiten" ]
+		}
+	}
+}

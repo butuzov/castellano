@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mantener",
+	"word" : "mantener",
+	"infinitivo" : "mantener",
+	"participio" : [ "mantenido" ],
+	"gerundio" : [ "manteniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "mantengo" ],
+			[ "mantienes", "mantenés" ],
+			[ "mantiene" ],
+			[ "mantenemos" ],
+			[ "mantenéis", "mantienen" ],
+			[ "mantienen" ]
+		],
+		"4" : [
+			[ "mantuve" ],
+			[ "mantuviste" ],
+			[ "mantuvo" ],
+			[ "mantuvimos" ],
+			[ "mantuvisteis", "mantuvieron" ],
+			[ "mantuvieron" ]
+		],
+		"5" : [
+			[ "mantenía" ],
+			[ "mantenías" ],
+			[ "mantenía" ],
+			[ "manteníamos" ],
+			[ "manteníais", "mantenían" ],
+			[ "mantenían" ]
+		],
+		"6" : [
+			[ "mantendría" ],
+			[ "mantendrías" ],
+			[ "mantendría" ],
+			[ "mantendríamos" ],
+			[ "mantendríais", "mantendrían" ],
+			[ "mantendrían" ]
+		],
+		"7" : [
+			[ "mantendré" ],
+			[ "mantendrás" ],
+			[ "mantendrá" ],
+			[ "mantendremos" ],
+			[ "mantendréis", "mantendrán" ],
+			[ "mantendrán" ]
+		],
+		"8" : [
+			[ "mantenga" ],
+			[ "mantengas" ],
+			[ "mantenga" ],
+			[ "mantengamos" ],
+			[ "mantengáis", "mantengan" ],
+			[ "mantengan" ]
+		],
+		"9" : [
+			[ "mantuviera" ],
+			[ "mantuvieras" ],
+			[ "mantuviera" ],
+			[ "mantuviéramos" ],
+			[ "mantuvierais", "mantuvieran" ],
+			[ "mantuvieran" ]
+		],
+		"10" : [
+			[ "mantuviese" ],
+			[ "mantuvieses" ],
+			[ "mantuviese" ],
+			[ "mantuviésemos" ],
+			[ "mantuvieseis", "mantuviesen" ],
+			[ "mantuviesen" ]
+		],
+		"11" : [
+			[ "mantuviere" ],
+			[ "mantuvieres" ],
+			[ "mantuviere" ],
+			[ "mantuviéremos" ],
+			[ "mantuviereis", "mantuvieren" ],
+			[ "mantuvieren" ]
+		],
+		"12" : {
+			"1" : [ "mantén" ],
+			"2" : [ "mantenga" ],
+			"3" : [ "mantengamos" ],
+			"4" : [ "mantened" ],
+			"5" : [ "mantengan" ]
+		}
+	}
+}

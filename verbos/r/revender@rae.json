@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=revender",
+	"word" : "revender",
+	"infinitivo" : "revender",
+	"participio" : [ "revendido" ],
+	"gerundio" : [ "revendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "revendo" ],
+			[ "revendes", "revendés" ],
+			[ "revende" ],
+			[ "revendemos" ],
+			[ "revendéis", "revenden" ],
+			[ "revenden" ]
+		],
+		"4" : [
+			[ "revendí" ],
+			[ "revendiste" ],
+			[ "revendió" ],
+			[ "revendimos" ],
+			[ "revendisteis", "revendieron" ],
+			[ "revendieron" ]
+		],
+		"5" : [
+			[ "revendía" ],
+			[ "revendías" ],
+			[ "revendía" ],
+			[ "revendíamos" ],
+			[ "revendíais", "revendían" ],
+			[ "revendían" ]
+		],
+		"6" : [
+			[ "revendería" ],
+			[ "revenderías" ],
+			[ "revendería" ],
+			[ "revenderíamos" ],
+			[ "revenderíais", "revenderían" ],
+			[ "revenderían" ]
+		],
+		"7" : [
+			[ "revenderé" ],
+			[ "revenderás" ],
+			[ "revenderá" ],
+			[ "revenderemos" ],
+			[ "revenderéis", "revenderán" ],
+			[ "revenderán" ]
+		],
+		"8" : [
+			[ "revenda" ],
+			[ "revendas" ],
+			[ "revenda" ],
+			[ "revendamos" ],
+			[ "revendáis", "revendan" ],
+			[ "revendan" ]
+		],
+		"9" : [
+			[ "revendiera" ],
+			[ "revendieras" ],
+			[ "revendiera" ],
+			[ "revendiéramos" ],
+			[ "revendierais", "revendieran" ],
+			[ "revendieran" ]
+		],
+		"10" : [
+			[ "revendiese" ],
+			[ "revendieses" ],
+			[ "revendiese" ],
+			[ "revendiésemos" ],
+			[ "revendieseis", "revendiesen" ],
+			[ "revendiesen" ]
+		],
+		"11" : [
+			[ "revendiere" ],
+			[ "revendieres" ],
+			[ "revendiere" ],
+			[ "revendiéremos" ],
+			[ "revendiereis", "revendieren" ],
+			[ "revendieren" ]
+		],
+		"12" : {
+			"1" : [ "revende" ],
+			"2" : [ "revenda" ],
+			"3" : [ "revendamos" ],
+			"4" : [ "revended" ],
+			"5" : [ "revendan" ]
+		}
+	}
+}

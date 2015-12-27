@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=quedar",
+	"word" : "quedar",
+	"infinitivo" : "quedar",
+	"participio" : [ "quedado" ],
+	"gerundio" : [ "quedando" ],
+	"tenses" : {
+		"3" : [
+			[ "quedo" ],
+			[ "quedas", "quedás" ],
+			[ "queda" ],
+			[ "quedamos" ],
+			[ "quedáis", "quedan" ],
+			[ "quedan" ]
+		],
+		"4" : [
+			[ "quedé" ],
+			[ "quedaste" ],
+			[ "quedó" ],
+			[ "quedamos" ],
+			[ "quedasteis", "quedaron" ],
+			[ "quedaron" ]
+		],
+		"5" : [
+			[ "quedaba" ],
+			[ "quedabas" ],
+			[ "quedaba" ],
+			[ "quedábamos" ],
+			[ "quedabais", "quedaban" ],
+			[ "quedaban" ]
+		],
+		"6" : [
+			[ "quedaría" ],
+			[ "quedarías" ],
+			[ "quedaría" ],
+			[ "quedaríamos" ],
+			[ "quedaríais", "quedarían" ],
+			[ "quedarían" ]
+		],
+		"7" : [
+			[ "quedaré" ],
+			[ "quedarás" ],
+			[ "quedará" ],
+			[ "quedaremos" ],
+			[ "quedaréis", "quedarán" ],
+			[ "quedarán" ]
+		],
+		"8" : [
+			[ "quede" ],
+			[ "quedes" ],
+			[ "quede" ],
+			[ "quedemos" ],
+			[ "quedéis", "queden" ],
+			[ "queden" ]
+		],
+		"9" : [
+			[ "quedara" ],
+			[ "quedaras" ],
+			[ "quedara" ],
+			[ "quedáramos" ],
+			[ "quedarais", "quedaran" ],
+			[ "quedaran" ]
+		],
+		"10" : [
+			[ "quedase" ],
+			[ "quedases" ],
+			[ "quedase" ],
+			[ "quedásemos" ],
+			[ "quedaseis", "quedasen" ],
+			[ "quedasen" ]
+		],
+		"11" : [
+			[ "quedare" ],
+			[ "quedares" ],
+			[ "quedare" ],
+			[ "quedáremos" ],
+			[ "quedareis", "quedaren" ],
+			[ "quedaren" ]
+		],
+		"12" : {
+			"1" : [ "queda" ],
+			"2" : [ "quede" ],
+			"3" : [ "quedemos" ],
+			"4" : [ "quedad" ],
+			"5" : [ "queden" ]
+		}
+	}
+}

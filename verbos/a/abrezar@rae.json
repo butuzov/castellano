@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abrezar",
+	"word" : "abrezar",
+	"infinitivo" : "abrezar",
+	"participio" : [ "abrezado" ],
+	"gerundio" : [ "abrezando" ],
+	"tenses" : {
+		"3" : [
+			[ "abrezo" ],
+			[ "abrezas", "abrezás" ],
+			[ "abreza" ],
+			[ "abrezamos" ],
+			[ "abrezáis", "abrezan" ],
+			[ "abrezan" ]
+		],
+		"4" : [
+			[ "abrecé" ],
+			[ "abrezaste" ],
+			[ "abrezó" ],
+			[ "abrezamos" ],
+			[ "abrezasteis", "abrezaron" ],
+			[ "abrezaron" ]
+		],
+		"5" : [
+			[ "abrezaba" ],
+			[ "abrezabas" ],
+			[ "abrezaba" ],
+			[ "abrezábamos" ],
+			[ "abrezabais", "abrezaban" ],
+			[ "abrezaban" ]
+		],
+		"6" : [
+			[ "abrezaría" ],
+			[ "abrezarías" ],
+			[ "abrezaría" ],
+			[ "abrezaríamos" ],
+			[ "abrezaríais", "abrezarían" ],
+			[ "abrezarían" ]
+		],
+		"7" : [
+			[ "abrezaré" ],
+			[ "abrezarás" ],
+			[ "abrezará" ],
+			[ "abrezaremos" ],
+			[ "abrezaréis", "abrezarán" ],
+			[ "abrezarán" ]
+		],
+		"8" : [
+			[ "abrece" ],
+			[ "abreces" ],
+			[ "abrece" ],
+			[ "abrecemos" ],
+			[ "abrecéis", "abrecen" ],
+			[ "abrecen" ]
+		],
+		"9" : [
+			[ "abrezara" ],
+			[ "abrezaras" ],
+			[ "abrezara" ],
+			[ "abrezáramos" ],
+			[ "abrezarais", "abrezaran" ],
+			[ "abrezaran" ]
+		],
+		"10" : [
+			[ "abrezase" ],
+			[ "abrezases" ],
+			[ "abrezase" ],
+			[ "abrezásemos" ],
+			[ "abrezaseis", "abrezasen" ],
+			[ "abrezasen" ]
+		],
+		"11" : [
+			[ "abrezare" ],
+			[ "abrezares" ],
+			[ "abrezare" ],
+			[ "abrezáremos" ],
+			[ "abrezareis", "abrezaren" ],
+			[ "abrezaren" ]
+		],
+		"12" : {
+			"1" : [ "abreza" ],
+			"2" : [ "abrece" ],
+			"3" : [ "abrecemos" ],
+			"4" : [ "abrezad" ],
+			"5" : [ "abrecen" ]
+		}
+	}
+}

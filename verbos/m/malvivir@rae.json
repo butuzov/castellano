@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=malvivir",
+	"word" : "malvivir",
+	"infinitivo" : "malvivir",
+	"participio" : [ "malvivido" ],
+	"gerundio" : [ "malviviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "malvivo" ],
+			[ "malvives", "malvivís" ],
+			[ "malvive" ],
+			[ "malvivimos" ],
+			[ "malvivís", "malviven" ],
+			[ "malviven" ]
+		],
+		"4" : [
+			[ "malviví" ],
+			[ "malviviste" ],
+			[ "malvivió" ],
+			[ "malvivimos" ],
+			[ "malvivisteis", "malvivieron" ],
+			[ "malvivieron" ]
+		],
+		"5" : [
+			[ "malvivía" ],
+			[ "malvivías" ],
+			[ "malvivía" ],
+			[ "malvivíamos" ],
+			[ "malvivíais", "malvivían" ],
+			[ "malvivían" ]
+		],
+		"6" : [
+			[ "malviviría" ],
+			[ "malvivirías" ],
+			[ "malviviría" ],
+			[ "malviviríamos" ],
+			[ "malviviríais", "malvivirían" ],
+			[ "malvivirían" ]
+		],
+		"7" : [
+			[ "malviviré" ],
+			[ "malvivirás" ],
+			[ "malvivirá" ],
+			[ "malviviremos" ],
+			[ "malviviréis", "malvivirán" ],
+			[ "malvivirán" ]
+		],
+		"8" : [
+			[ "malviva" ],
+			[ "malvivas" ],
+			[ "malviva" ],
+			[ "malvivamos" ],
+			[ "malviváis", "malvivan" ],
+			[ "malvivan" ]
+		],
+		"9" : [
+			[ "malviviera" ],
+			[ "malvivieras" ],
+			[ "malviviera" ],
+			[ "malviviéramos" ],
+			[ "malvivierais", "malvivieran" ],
+			[ "malvivieran" ]
+		],
+		"10" : [
+			[ "malviviese" ],
+			[ "malvivieses" ],
+			[ "malviviese" ],
+			[ "malviviésemos" ],
+			[ "malvivieseis", "malviviesen" ],
+			[ "malviviesen" ]
+		],
+		"11" : [
+			[ "malviviere" ],
+			[ "malvivieres" ],
+			[ "malviviere" ],
+			[ "malviviéremos" ],
+			[ "malviviereis", "malvivieren" ],
+			[ "malvivieren" ]
+		],
+		"12" : {
+			"1" : [ "malvive" ],
+			"2" : [ "malviva" ],
+			"3" : [ "malvivamos" ],
+			"4" : [ "malvivid" ],
+			"5" : [ "malvivan" ]
+		}
+	}
+}

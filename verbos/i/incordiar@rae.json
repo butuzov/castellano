@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incordiar",
+	"word" : "incordiar",
+	"infinitivo" : "incordiar",
+	"participio" : [ "incordiado" ],
+	"gerundio" : [ "incordiando" ],
+	"tenses" : {
+		"3" : [
+			[ "incordio" ],
+			[ "incordias", "incordiás" ],
+			[ "incordia" ],
+			[ "incordiamos" ],
+			[ "incordiáis", "incordian" ],
+			[ "incordian" ]
+		],
+		"4" : [
+			[ "incordié" ],
+			[ "incordiaste" ],
+			[ "incordió" ],
+			[ "incordiamos" ],
+			[ "incordiasteis", "incordiaron" ],
+			[ "incordiaron" ]
+		],
+		"5" : [
+			[ "incordiaba" ],
+			[ "incordiabas" ],
+			[ "incordiaba" ],
+			[ "incordiábamos" ],
+			[ "incordiabais", "incordiaban" ],
+			[ "incordiaban" ]
+		],
+		"6" : [
+			[ "incordiaría" ],
+			[ "incordiarías" ],
+			[ "incordiaría" ],
+			[ "incordiaríamos" ],
+			[ "incordiaríais", "incordiarían" ],
+			[ "incordiarían" ]
+		],
+		"7" : [
+			[ "incordiaré" ],
+			[ "incordiarás" ],
+			[ "incordiará" ],
+			[ "incordiaremos" ],
+			[ "incordiaréis", "incordiarán" ],
+			[ "incordiarán" ]
+		],
+		"8" : [
+			[ "incordie" ],
+			[ "incordies" ],
+			[ "incordie" ],
+			[ "incordiemos" ],
+			[ "incordiéis", "incordien" ],
+			[ "incordien" ]
+		],
+		"9" : [
+			[ "incordiara" ],
+			[ "incordiaras" ],
+			[ "incordiara" ],
+			[ "incordiáramos" ],
+			[ "incordiarais", "incordiaran" ],
+			[ "incordiaran" ]
+		],
+		"10" : [
+			[ "incordiase" ],
+			[ "incordiases" ],
+			[ "incordiase" ],
+			[ "incordiásemos" ],
+			[ "incordiaseis", "incordiasen" ],
+			[ "incordiasen" ]
+		],
+		"11" : [
+			[ "incordiare" ],
+			[ "incordiares" ],
+			[ "incordiare" ],
+			[ "incordiáremos" ],
+			[ "incordiareis", "incordiaren" ],
+			[ "incordiaren" ]
+		],
+		"12" : {
+			"1" : [ "incordia" ],
+			"2" : [ "incordie" ],
+			"3" : [ "incordiemos" ],
+			"4" : [ "incordiad" ],
+			"5" : [ "incordien" ]
+		}
+	}
+}

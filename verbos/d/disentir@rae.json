@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disentir",
+	"word" : "disentir",
+	"infinitivo" : "disentir",
+	"participio" : [ "disentido" ],
+	"gerundio" : [ "disintiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "disiento" ],
+			[ "disientes", "disentís" ],
+			[ "disiente" ],
+			[ "disentimos" ],
+			[ "disentís", "disienten" ],
+			[ "disienten" ]
+		],
+		"4" : [
+			[ "disentí" ],
+			[ "disentiste" ],
+			[ "disintió" ],
+			[ "disentimos" ],
+			[ "disentisteis", "disintieron" ],
+			[ "disintieron" ]
+		],
+		"5" : [
+			[ "disentía" ],
+			[ "disentías" ],
+			[ "disentía" ],
+			[ "disentíamos" ],
+			[ "disentíais", "disentían" ],
+			[ "disentían" ]
+		],
+		"6" : [
+			[ "disentiría" ],
+			[ "disentirías" ],
+			[ "disentiría" ],
+			[ "disentiríamos" ],
+			[ "disentiríais", "disentirían" ],
+			[ "disentirían" ]
+		],
+		"7" : [
+			[ "disentiré" ],
+			[ "disentirás" ],
+			[ "disentirá" ],
+			[ "disentiremos" ],
+			[ "disentiréis", "disentirán" ],
+			[ "disentirán" ]
+		],
+		"8" : [
+			[ "disienta" ],
+			[ "disientas" ],
+			[ "disienta" ],
+			[ "disintamos" ],
+			[ "disintáis", "disientan" ],
+			[ "disientan" ]
+		],
+		"9" : [
+			[ "disintiera" ],
+			[ "disintieras" ],
+			[ "disintiera" ],
+			[ "disintiéramos" ],
+			[ "disintierais", "disintieran" ],
+			[ "disintieran" ]
+		],
+		"10" : [
+			[ "disintiese" ],
+			[ "disintieses" ],
+			[ "disintiese" ],
+			[ "disintiésemos" ],
+			[ "disintieseis", "disintiesen" ],
+			[ "disintiesen" ]
+		],
+		"11" : [
+			[ "disintiere" ],
+			[ "disintieres" ],
+			[ "disintiere" ],
+			[ "disintiéremos" ],
+			[ "disintiereis", "disintieren" ],
+			[ "disintieren" ]
+		],
+		"12" : {
+			"1" : [ "disiente" ],
+			"2" : [ "disienta" ],
+			"3" : [ "disintamos" ],
+			"4" : [ "disentid" ],
+			"5" : [ "disientan" ]
+		}
+	}
+}

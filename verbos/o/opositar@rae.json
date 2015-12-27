@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=opositar",
+	"word" : "opositar",
+	"infinitivo" : "opositar",
+	"participio" : [ "opositado" ],
+	"gerundio" : [ "opositando" ],
+	"tenses" : {
+		"3" : [
+			[ "oposito" ],
+			[ "opositas", "opositás" ],
+			[ "oposita" ],
+			[ "opositamos" ],
+			[ "opositáis", "opositan" ],
+			[ "opositan" ]
+		],
+		"4" : [
+			[ "oposité" ],
+			[ "opositaste" ],
+			[ "opositó" ],
+			[ "opositamos" ],
+			[ "opositasteis", "opositaron" ],
+			[ "opositaron" ]
+		],
+		"5" : [
+			[ "opositaba" ],
+			[ "opositabas" ],
+			[ "opositaba" ],
+			[ "opositábamos" ],
+			[ "opositabais", "opositaban" ],
+			[ "opositaban" ]
+		],
+		"6" : [
+			[ "opositaría" ],
+			[ "opositarías" ],
+			[ "opositaría" ],
+			[ "opositaríamos" ],
+			[ "opositaríais", "opositarían" ],
+			[ "opositarían" ]
+		],
+		"7" : [
+			[ "opositaré" ],
+			[ "opositarás" ],
+			[ "opositará" ],
+			[ "opositaremos" ],
+			[ "opositaréis", "opositarán" ],
+			[ "opositarán" ]
+		],
+		"8" : [
+			[ "oposite" ],
+			[ "oposites" ],
+			[ "oposite" ],
+			[ "opositemos" ],
+			[ "opositéis", "opositen" ],
+			[ "opositen" ]
+		],
+		"9" : [
+			[ "opositara" ],
+			[ "opositaras" ],
+			[ "opositara" ],
+			[ "opositáramos" ],
+			[ "opositarais", "opositaran" ],
+			[ "opositaran" ]
+		],
+		"10" : [
+			[ "opositase" ],
+			[ "opositases" ],
+			[ "opositase" ],
+			[ "opositásemos" ],
+			[ "opositaseis", "opositasen" ],
+			[ "opositasen" ]
+		],
+		"11" : [
+			[ "opositare" ],
+			[ "opositares" ],
+			[ "opositare" ],
+			[ "opositáremos" ],
+			[ "opositareis", "opositaren" ],
+			[ "opositaren" ]
+		],
+		"12" : {
+			"1" : [ "oposita" ],
+			"2" : [ "oposite" ],
+			"3" : [ "opositemos" ],
+			"4" : [ "opositad" ],
+			"5" : [ "opositen" ]
+		}
+	}
+}

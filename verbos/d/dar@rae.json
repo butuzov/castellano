@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dar",
+	"word" : "dar",
+	"infinitivo" : "dar",
+	"participio" : [ "dado" ],
+	"gerundio" : [ "dando" ],
+	"tenses" : {
+		"3" : [
+			[ "doy" ],
+			[ "das" ],
+			[ "da" ],
+			[ "damos" ],
+			[ "dais", "dan" ],
+			[ "dan" ]
+		],
+		"4" : [
+			[ "di" ],
+			[ "diste" ],
+			[ "dio" ],
+			[ "dimos" ],
+			[ "disteis", "dieron" ],
+			[ "dieron" ]
+		],
+		"5" : [
+			[ "daba" ],
+			[ "dabas" ],
+			[ "daba" ],
+			[ "dábamos" ],
+			[ "dabais", "daban" ],
+			[ "daban" ]
+		],
+		"6" : [
+			[ "daría" ],
+			[ "darías" ],
+			[ "daría" ],
+			[ "daríamos" ],
+			[ "daríais", "darían" ],
+			[ "darían" ]
+		],
+		"7" : [
+			[ "daré" ],
+			[ "darás" ],
+			[ "dará" ],
+			[ "daremos" ],
+			[ "daréis", "darán" ],
+			[ "darán" ]
+		],
+		"8" : [
+			[ "dé" ],
+			[ "des" ],
+			[ "dé" ],
+			[ "demos" ],
+			[ "deis", "den" ],
+			[ "den" ]
+		],
+		"9" : [
+			[ "diera" ],
+			[ "dieras" ],
+			[ "diera" ],
+			[ "diéramos" ],
+			[ "dierais", "dieran" ],
+			[ "dieran" ]
+		],
+		"10" : [
+			[ "diese" ],
+			[ "dieses" ],
+			[ "diese" ],
+			[ "diésemos" ],
+			[ "dieseis", "diesen" ],
+			[ "diesen" ]
+		],
+		"11" : [
+			[ "diere" ],
+			[ "dieres" ],
+			[ "diere" ],
+			[ "diéremos" ],
+			[ "diereis", "dieren" ],
+			[ "dieren" ]
+		],
+		"12" : {
+			"1" : [ "da" ],
+			"2" : [ "dé" ],
+			"3" : [ "demos" ],
+			"4" : [ "dad" ],
+			"5" : [ "den" ]
+		}
+	}
+}

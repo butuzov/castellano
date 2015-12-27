@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=relanzar",
+	"word" : "relanzar",
+	"infinitivo" : "relanzar",
+	"participio" : [ "relanzado" ],
+	"gerundio" : [ "relanzando" ],
+	"tenses" : {
+		"3" : [
+			[ "relanzo" ],
+			[ "relanzas", "relanzás" ],
+			[ "relanza" ],
+			[ "relanzamos" ],
+			[ "relanzáis", "relanzan" ],
+			[ "relanzan" ]
+		],
+		"4" : [
+			[ "relancé" ],
+			[ "relanzaste" ],
+			[ "relanzó" ],
+			[ "relanzamos" ],
+			[ "relanzasteis", "relanzaron" ],
+			[ "relanzaron" ]
+		],
+		"5" : [
+			[ "relanzaba" ],
+			[ "relanzabas" ],
+			[ "relanzaba" ],
+			[ "relanzábamos" ],
+			[ "relanzabais", "relanzaban" ],
+			[ "relanzaban" ]
+		],
+		"6" : [
+			[ "relanzaría" ],
+			[ "relanzarías" ],
+			[ "relanzaría" ],
+			[ "relanzaríamos" ],
+			[ "relanzaríais", "relanzarían" ],
+			[ "relanzarían" ]
+		],
+		"7" : [
+			[ "relanzaré" ],
+			[ "relanzarás" ],
+			[ "relanzará" ],
+			[ "relanzaremos" ],
+			[ "relanzaréis", "relanzarán" ],
+			[ "relanzarán" ]
+		],
+		"8" : [
+			[ "relance" ],
+			[ "relances" ],
+			[ "relance" ],
+			[ "relancemos" ],
+			[ "relancéis", "relancen" ],
+			[ "relancen" ]
+		],
+		"9" : [
+			[ "relanzara" ],
+			[ "relanzaras" ],
+			[ "relanzara" ],
+			[ "relanzáramos" ],
+			[ "relanzarais", "relanzaran" ],
+			[ "relanzaran" ]
+		],
+		"10" : [
+			[ "relanzase" ],
+			[ "relanzases" ],
+			[ "relanzase" ],
+			[ "relanzásemos" ],
+			[ "relanzaseis", "relanzasen" ],
+			[ "relanzasen" ]
+		],
+		"11" : [
+			[ "relanzare" ],
+			[ "relanzares" ],
+			[ "relanzare" ],
+			[ "relanzáremos" ],
+			[ "relanzareis", "relanzaren" ],
+			[ "relanzaren" ]
+		],
+		"12" : {
+			"1" : [ "relanza" ],
+			"2" : [ "relance" ],
+			"3" : [ "relancemos" ],
+			"4" : [ "relanzad" ],
+			"5" : [ "relancen" ]
+		}
+	}
+}

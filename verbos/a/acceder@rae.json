@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acceder",
+	"word" : "acceder",
+	"infinitivo" : "acceder",
+	"participio" : [ "accedido" ],
+	"gerundio" : [ "accediendo" ],
+	"tenses" : {
+		"3" : [
+			[ "accedo" ],
+			[ "accedes", "accedés" ],
+			[ "accede" ],
+			[ "accedemos" ],
+			[ "accedéis", "acceden" ],
+			[ "acceden" ]
+		],
+		"4" : [
+			[ "accedí" ],
+			[ "accediste" ],
+			[ "accedió" ],
+			[ "accedimos" ],
+			[ "accedisteis", "accedieron" ],
+			[ "accedieron" ]
+		],
+		"5" : [
+			[ "accedía" ],
+			[ "accedías" ],
+			[ "accedía" ],
+			[ "accedíamos" ],
+			[ "accedíais", "accedían" ],
+			[ "accedían" ]
+		],
+		"6" : [
+			[ "accedería" ],
+			[ "accederías" ],
+			[ "accedería" ],
+			[ "accederíamos" ],
+			[ "accederíais", "accederían" ],
+			[ "accederían" ]
+		],
+		"7" : [
+			[ "accederé" ],
+			[ "accederás" ],
+			[ "accederá" ],
+			[ "accederemos" ],
+			[ "accederéis", "accederán" ],
+			[ "accederán" ]
+		],
+		"8" : [
+			[ "acceda" ],
+			[ "accedas" ],
+			[ "acceda" ],
+			[ "accedamos" ],
+			[ "accedáis", "accedan" ],
+			[ "accedan" ]
+		],
+		"9" : [
+			[ "accediera" ],
+			[ "accedieras" ],
+			[ "accediera" ],
+			[ "accediéramos" ],
+			[ "accedierais", "accedieran" ],
+			[ "accedieran" ]
+		],
+		"10" : [
+			[ "accediese" ],
+			[ "accedieses" ],
+			[ "accediese" ],
+			[ "accediésemos" ],
+			[ "accedieseis", "accediesen" ],
+			[ "accediesen" ]
+		],
+		"11" : [
+			[ "accediere" ],
+			[ "accedieres" ],
+			[ "accediere" ],
+			[ "accediéremos" ],
+			[ "accediereis", "accedieren" ],
+			[ "accedieren" ]
+		],
+		"12" : {
+			"1" : [ "accede" ],
+			"2" : [ "acceda" ],
+			"3" : [ "accedamos" ],
+			"4" : [ "acceded" ],
+			"5" : [ "accedan" ]
+		}
+	}
+}

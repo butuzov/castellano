@@ -1,0 +1,52 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=antojarse",
+	"word" : "antojar",
+	"infinitivo" : "antojarse",
+	"participio" : [ "antojado" ],
+	"gerundio" : [ "antojándome", "antojándote" ],
+	"tenses" : {
+		"3" : [
+			[ "se antoja" ],
+			[ "se antojan" ],
+			[ "" ]
+		],
+		"4" : [
+			[ "se antojó" ],
+			[ "se antojaron" ],
+			[ "" ]
+		],
+		"5" : [
+			[ "se antojaba" ],
+			[ "se antojaban" ],
+			[ "" ]
+		],
+		"6" : [
+			[ "se antojaría" ],
+			[ "se antojarían" ],
+			[ "" ]
+		],
+		"7" : [
+			[ "se antojará" ],
+			[ "se antojarán" ],
+			[ "" ]
+		],
+		"8" : [
+			[ "se antoje" ],
+			[ "se antojen" ],
+			[ "" ]
+		],
+		"9" : [
+			[ "se antojara" ],
+			[ "se antojaran" ]
+		],
+		"10" : [
+			[ "se antojase" ],
+			[ "se antojasen" ]
+		],
+		"11" : [
+			[ "se antojare" ],
+			[ "se antojaren" ],
+			[ "" ]
+		]
+	}
+}

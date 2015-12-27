@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resignar",
+	"word" : "resignar",
+	"infinitivo" : "resignar",
+	"participio" : [ "resignado" ],
+	"gerundio" : [ "resignando" ],
+	"tenses" : {
+		"3" : [
+			[ "resigno" ],
+			[ "resignas", "resignás" ],
+			[ "resigna" ],
+			[ "resignamos" ],
+			[ "resignáis", "resignan" ],
+			[ "resignan" ]
+		],
+		"4" : [
+			[ "resigné" ],
+			[ "resignaste" ],
+			[ "resignó" ],
+			[ "resignamos" ],
+			[ "resignasteis", "resignaron" ],
+			[ "resignaron" ]
+		],
+		"5" : [
+			[ "resignaba" ],
+			[ "resignabas" ],
+			[ "resignaba" ],
+			[ "resignábamos" ],
+			[ "resignabais", "resignaban" ],
+			[ "resignaban" ]
+		],
+		"6" : [
+			[ "resignaría" ],
+			[ "resignarías" ],
+			[ "resignaría" ],
+			[ "resignaríamos" ],
+			[ "resignaríais", "resignarían" ],
+			[ "resignarían" ]
+		],
+		"7" : [
+			[ "resignaré" ],
+			[ "resignarás" ],
+			[ "resignará" ],
+			[ "resignaremos" ],
+			[ "resignaréis", "resignarán" ],
+			[ "resignarán" ]
+		],
+		"8" : [
+			[ "resigne" ],
+			[ "resignes" ],
+			[ "resigne" ],
+			[ "resignemos" ],
+			[ "resignéis", "resignen" ],
+			[ "resignen" ]
+		],
+		"9" : [
+			[ "resignara" ],
+			[ "resignaras" ],
+			[ "resignara" ],
+			[ "resignáramos" ],
+			[ "resignarais", "resignaran" ],
+			[ "resignaran" ]
+		],
+		"10" : [
+			[ "resignase" ],
+			[ "resignases" ],
+			[ "resignase" ],
+			[ "resignásemos" ],
+			[ "resignaseis", "resignasen" ],
+			[ "resignasen" ]
+		],
+		"11" : [
+			[ "resignare" ],
+			[ "resignares" ],
+			[ "resignare" ],
+			[ "resignáremos" ],
+			[ "resignareis", "resignaren" ],
+			[ "resignaren" ]
+		],
+		"12" : {
+			"1" : [ "resigna" ],
+			"2" : [ "resigne" ],
+			"3" : [ "resignemos" ],
+			"4" : [ "resignad" ],
+			"5" : [ "resignen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abreviar",
+	"word" : "abreviar",
+	"infinitivo" : "abreviar",
+	"participio" : [ "abreviado" ],
+	"gerundio" : [ "abreviando" ],
+	"tenses" : {
+		"3" : [
+			[ "abrevio" ],
+			[ "abrevias", "abreviás" ],
+			[ "abrevia" ],
+			[ "abreviamos" ],
+			[ "abreviáis", "abrevian" ],
+			[ "abrevian" ]
+		],
+		"4" : [
+			[ "abrevié" ],
+			[ "abreviaste" ],
+			[ "abrevió" ],
+			[ "abreviamos" ],
+			[ "abreviasteis", "abreviaron" ],
+			[ "abreviaron" ]
+		],
+		"5" : [
+			[ "abreviaba" ],
+			[ "abreviabas" ],
+			[ "abreviaba" ],
+			[ "abreviábamos" ],
+			[ "abreviabais", "abreviaban" ],
+			[ "abreviaban" ]
+		],
+		"6" : [
+			[ "abreviaría" ],
+			[ "abreviarías" ],
+			[ "abreviaría" ],
+			[ "abreviaríamos" ],
+			[ "abreviaríais", "abreviarían" ],
+			[ "abreviarían" ]
+		],
+		"7" : [
+			[ "abreviaré" ],
+			[ "abreviarás" ],
+			[ "abreviará" ],
+			[ "abreviaremos" ],
+			[ "abreviaréis", "abreviarán" ],
+			[ "abreviarán" ]
+		],
+		"8" : [
+			[ "abrevie" ],
+			[ "abrevies" ],
+			[ "abrevie" ],
+			[ "abreviemos" ],
+			[ "abreviéis", "abrevien" ],
+			[ "abrevien" ]
+		],
+		"9" : [
+			[ "abreviara" ],
+			[ "abreviaras" ],
+			[ "abreviara" ],
+			[ "abreviáramos" ],
+			[ "abreviarais", "abreviaran" ],
+			[ "abreviaran" ]
+		],
+		"10" : [
+			[ "abreviase" ],
+			[ "abreviases" ],
+			[ "abreviase" ],
+			[ "abreviásemos" ],
+			[ "abreviaseis", "abreviasen" ],
+			[ "abreviasen" ]
+		],
+		"11" : [
+			[ "abreviare" ],
+			[ "abreviares" ],
+			[ "abreviare" ],
+			[ "abreviáremos" ],
+			[ "abreviareis", "abreviaren" ],
+			[ "abreviaren" ]
+		],
+		"12" : {
+			"1" : [ "abrevia" ],
+			"2" : [ "abrevie" ],
+			"3" : [ "abreviemos" ],
+			"4" : [ "abreviad" ],
+			"5" : [ "abrevien" ]
+		}
+	}
+}

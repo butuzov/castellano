@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recusar",
+	"word" : "recusar",
+	"infinitivo" : "recusar",
+	"participio" : [ "recusado" ],
+	"gerundio" : [ "recusando" ],
+	"tenses" : {
+		"3" : [
+			[ "recuso" ],
+			[ "recusas", "recusás" ],
+			[ "recusa" ],
+			[ "recusamos" ],
+			[ "recusáis", "recusan" ],
+			[ "recusan" ]
+		],
+		"4" : [
+			[ "recusé" ],
+			[ "recusaste" ],
+			[ "recusó" ],
+			[ "recusamos" ],
+			[ "recusasteis", "recusaron" ],
+			[ "recusaron" ]
+		],
+		"5" : [
+			[ "recusaba" ],
+			[ "recusabas" ],
+			[ "recusaba" ],
+			[ "recusábamos" ],
+			[ "recusabais", "recusaban" ],
+			[ "recusaban" ]
+		],
+		"6" : [
+			[ "recusaría" ],
+			[ "recusarías" ],
+			[ "recusaría" ],
+			[ "recusaríamos" ],
+			[ "recusaríais", "recusarían" ],
+			[ "recusarían" ]
+		],
+		"7" : [
+			[ "recusaré" ],
+			[ "recusarás" ],
+			[ "recusará" ],
+			[ "recusaremos" ],
+			[ "recusaréis", "recusarán" ],
+			[ "recusarán" ]
+		],
+		"8" : [
+			[ "recuse" ],
+			[ "recuses" ],
+			[ "recuse" ],
+			[ "recusemos" ],
+			[ "recuséis", "recusen" ],
+			[ "recusen" ]
+		],
+		"9" : [
+			[ "recusara" ],
+			[ "recusaras" ],
+			[ "recusara" ],
+			[ "recusáramos" ],
+			[ "recusarais", "recusaran" ],
+			[ "recusaran" ]
+		],
+		"10" : [
+			[ "recusase" ],
+			[ "recusases" ],
+			[ "recusase" ],
+			[ "recusásemos" ],
+			[ "recusaseis", "recusasen" ],
+			[ "recusasen" ]
+		],
+		"11" : [
+			[ "recusare" ],
+			[ "recusares" ],
+			[ "recusare" ],
+			[ "recusáremos" ],
+			[ "recusareis", "recusaren" ],
+			[ "recusaren" ]
+		],
+		"12" : {
+			"1" : [ "recusa" ],
+			"2" : [ "recuse" ],
+			"3" : [ "recusemos" ],
+			"4" : [ "recusad" ],
+			"5" : [ "recusen" ]
+		}
+	}
+}

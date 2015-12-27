@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rular",
+	"word" : "rular",
+	"infinitivo" : "rular",
+	"participio" : [ "rulado" ],
+	"gerundio" : [ "rulando" ],
+	"tenses" : {
+		"3" : [
+			[ "rulo" ],
+			[ "rulas", "rulás" ],
+			[ "rula" ],
+			[ "rulamos" ],
+			[ "ruláis", "rulan" ],
+			[ "rulan" ]
+		],
+		"4" : [
+			[ "rulé" ],
+			[ "rulaste" ],
+			[ "ruló" ],
+			[ "rulamos" ],
+			[ "rulasteis", "rularon" ],
+			[ "rularon" ]
+		],
+		"5" : [
+			[ "rulaba" ],
+			[ "rulabas" ],
+			[ "rulaba" ],
+			[ "rulábamos" ],
+			[ "rulabais", "rulaban" ],
+			[ "rulaban" ]
+		],
+		"6" : [
+			[ "rularía" ],
+			[ "rularías" ],
+			[ "rularía" ],
+			[ "rularíamos" ],
+			[ "rularíais", "rularían" ],
+			[ "rularían" ]
+		],
+		"7" : [
+			[ "rularé" ],
+			[ "rularás" ],
+			[ "rulará" ],
+			[ "rularemos" ],
+			[ "rularéis", "rularán" ],
+			[ "rularán" ]
+		],
+		"8" : [
+			[ "rule" ],
+			[ "rules" ],
+			[ "rule" ],
+			[ "rulemos" ],
+			[ "ruléis", "rulen" ],
+			[ "rulen" ]
+		],
+		"9" : [
+			[ "rulara" ],
+			[ "rularas" ],
+			[ "rulara" ],
+			[ "ruláramos" ],
+			[ "rularais", "rularan" ],
+			[ "rularan" ]
+		],
+		"10" : [
+			[ "rulase" ],
+			[ "rulases" ],
+			[ "rulase" ],
+			[ "rulásemos" ],
+			[ "rulaseis", "rulasen" ],
+			[ "rulasen" ]
+		],
+		"11" : [
+			[ "rulare" ],
+			[ "rulares" ],
+			[ "rulare" ],
+			[ "ruláremos" ],
+			[ "rulareis", "rularen" ],
+			[ "rularen" ]
+		],
+		"12" : {
+			"1" : [ "rula" ],
+			"2" : [ "rule" ],
+			"3" : [ "rulemos" ],
+			"4" : [ "rulad" ],
+			"5" : [ "rulen" ]
+		}
+	}
+}

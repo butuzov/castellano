@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pactar",
+	"word" : "pactar",
+	"infinitivo" : "pactar",
+	"participio" : [ "pactado" ],
+	"gerundio" : [ "pactando" ],
+	"tenses" : {
+		"3" : [
+			[ "pacto" ],
+			[ "pactas", "pactás" ],
+			[ "pacta" ],
+			[ "pactamos" ],
+			[ "pactáis", "pactan" ],
+			[ "pactan" ]
+		],
+		"4" : [
+			[ "pacté" ],
+			[ "pactaste" ],
+			[ "pactó" ],
+			[ "pactamos" ],
+			[ "pactasteis", "pactaron" ],
+			[ "pactaron" ]
+		],
+		"5" : [
+			[ "pactaba" ],
+			[ "pactabas" ],
+			[ "pactaba" ],
+			[ "pactábamos" ],
+			[ "pactabais", "pactaban" ],
+			[ "pactaban" ]
+		],
+		"6" : [
+			[ "pactaría" ],
+			[ "pactarías" ],
+			[ "pactaría" ],
+			[ "pactaríamos" ],
+			[ "pactaríais", "pactarían" ],
+			[ "pactarían" ]
+		],
+		"7" : [
+			[ "pactaré" ],
+			[ "pactarás" ],
+			[ "pactará" ],
+			[ "pactaremos" ],
+			[ "pactaréis", "pactarán" ],
+			[ "pactarán" ]
+		],
+		"8" : [
+			[ "pacte" ],
+			[ "pactes" ],
+			[ "pacte" ],
+			[ "pactemos" ],
+			[ "pactéis", "pacten" ],
+			[ "pacten" ]
+		],
+		"9" : [
+			[ "pactara" ],
+			[ "pactaras" ],
+			[ "pactara" ],
+			[ "pactáramos" ],
+			[ "pactarais", "pactaran" ],
+			[ "pactaran" ]
+		],
+		"10" : [
+			[ "pactase" ],
+			[ "pactases" ],
+			[ "pactase" ],
+			[ "pactásemos" ],
+			[ "pactaseis", "pactasen" ],
+			[ "pactasen" ]
+		],
+		"11" : [
+			[ "pactare" ],
+			[ "pactares" ],
+			[ "pactare" ],
+			[ "pactáremos" ],
+			[ "pactareis", "pactaren" ],
+			[ "pactaren" ]
+		],
+		"12" : {
+			"1" : [ "pacta" ],
+			"2" : [ "pacte" ],
+			"3" : [ "pactemos" ],
+			"4" : [ "pactad" ],
+			"5" : [ "pacten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abanar",
+	"word" : "abanar",
+	"infinitivo" : "abanar",
+	"participio" : [ "abanado" ],
+	"gerundio" : [ "abanando" ],
+	"tenses" : {
+		"3" : [
+			[ "abano" ],
+			[ "abanas", "abanás" ],
+			[ "abana" ],
+			[ "abanamos" ],
+			[ "abanáis", "abanan" ],
+			[ "abanan" ]
+		],
+		"4" : [
+			[ "abané" ],
+			[ "abanaste" ],
+			[ "abanó" ],
+			[ "abanamos" ],
+			[ "abanasteis", "abanaron" ],
+			[ "abanaron" ]
+		],
+		"5" : [
+			[ "abanaba" ],
+			[ "abanabas" ],
+			[ "abanaba" ],
+			[ "abanábamos" ],
+			[ "abanabais", "abanaban" ],
+			[ "abanaban" ]
+		],
+		"6" : [
+			[ "abanaría" ],
+			[ "abanarías" ],
+			[ "abanaría" ],
+			[ "abanaríamos" ],
+			[ "abanaríais", "abanarían" ],
+			[ "abanarían" ]
+		],
+		"7" : [
+			[ "abanaré" ],
+			[ "abanarás" ],
+			[ "abanará" ],
+			[ "abanaremos" ],
+			[ "abanaréis", "abanarán" ],
+			[ "abanarán" ]
+		],
+		"8" : [
+			[ "abane" ],
+			[ "abanes" ],
+			[ "abane" ],
+			[ "abanemos" ],
+			[ "abanéis", "abanen" ],
+			[ "abanen" ]
+		],
+		"9" : [
+			[ "abanara" ],
+			[ "abanaras" ],
+			[ "abanara" ],
+			[ "abanáramos" ],
+			[ "abanarais", "abanaran" ],
+			[ "abanaran" ]
+		],
+		"10" : [
+			[ "abanase" ],
+			[ "abanases" ],
+			[ "abanase" ],
+			[ "abanásemos" ],
+			[ "abanaseis", "abanasen" ],
+			[ "abanasen" ]
+		],
+		"11" : [
+			[ "abanare" ],
+			[ "abanares" ],
+			[ "abanare" ],
+			[ "abanáremos" ],
+			[ "abanareis", "abanaren" ],
+			[ "abanaren" ]
+		],
+		"12" : {
+			"1" : [ "abana" ],
+			"2" : [ "abane" ],
+			"3" : [ "abanemos" ],
+			"4" : [ "abanad" ],
+			"5" : [ "abanen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=columpiar",
+	"word" : "columpiar",
+	"infinitivo" : "columpiar",
+	"participio" : [ "columpiado" ],
+	"gerundio" : [ "columpiando" ],
+	"tenses" : {
+		"3" : [
+			[ "columpio" ],
+			[ "columpias", "columpiás" ],
+			[ "columpia" ],
+			[ "columpiamos" ],
+			[ "columpiáis", "columpian" ],
+			[ "columpian" ]
+		],
+		"4" : [
+			[ "columpié" ],
+			[ "columpiaste" ],
+			[ "columpió" ],
+			[ "columpiamos" ],
+			[ "columpiasteis", "columpiaron" ],
+			[ "columpiaron" ]
+		],
+		"5" : [
+			[ "columpiaba" ],
+			[ "columpiabas" ],
+			[ "columpiaba" ],
+			[ "columpiábamos" ],
+			[ "columpiabais", "columpiaban" ],
+			[ "columpiaban" ]
+		],
+		"6" : [
+			[ "columpiaría" ],
+			[ "columpiarías" ],
+			[ "columpiaría" ],
+			[ "columpiaríamos" ],
+			[ "columpiaríais", "columpiarían" ],
+			[ "columpiarían" ]
+		],
+		"7" : [
+			[ "columpiaré" ],
+			[ "columpiarás" ],
+			[ "columpiará" ],
+			[ "columpiaremos" ],
+			[ "columpiaréis", "columpiarán" ],
+			[ "columpiarán" ]
+		],
+		"8" : [
+			[ "columpie" ],
+			[ "columpies" ],
+			[ "columpie" ],
+			[ "columpiemos" ],
+			[ "columpiéis", "columpien" ],
+			[ "columpien" ]
+		],
+		"9" : [
+			[ "columpiara" ],
+			[ "columpiaras" ],
+			[ "columpiara" ],
+			[ "columpiáramos" ],
+			[ "columpiarais", "columpiaran" ],
+			[ "columpiaran" ]
+		],
+		"10" : [
+			[ "columpiase" ],
+			[ "columpiases" ],
+			[ "columpiase" ],
+			[ "columpiásemos" ],
+			[ "columpiaseis", "columpiasen" ],
+			[ "columpiasen" ]
+		],
+		"11" : [
+			[ "columpiare" ],
+			[ "columpiares" ],
+			[ "columpiare" ],
+			[ "columpiáremos" ],
+			[ "columpiareis", "columpiaren" ],
+			[ "columpiaren" ]
+		],
+		"12" : {
+			"1" : [ "columpia" ],
+			"2" : [ "columpie" ],
+			"3" : [ "columpiemos" ],
+			"4" : [ "columpiad" ],
+			"5" : [ "columpien" ]
+		}
+	}
+}

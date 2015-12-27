@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=endosar",
+	"word" : "endosar",
+	"infinitivo" : "endosar",
+	"participio" : [ "endosado" ],
+	"gerundio" : [ "endosando" ],
+	"tenses" : {
+		"3" : [
+			[ "endoso" ],
+			[ "endosas", "endosás" ],
+			[ "endosa" ],
+			[ "endosamos" ],
+			[ "endosáis", "endosan" ],
+			[ "endosan" ]
+		],
+		"4" : [
+			[ "endosé" ],
+			[ "endosaste" ],
+			[ "endosó" ],
+			[ "endosamos" ],
+			[ "endosasteis", "endosaron" ],
+			[ "endosaron" ]
+		],
+		"5" : [
+			[ "endosaba" ],
+			[ "endosabas" ],
+			[ "endosaba" ],
+			[ "endosábamos" ],
+			[ "endosabais", "endosaban" ],
+			[ "endosaban" ]
+		],
+		"6" : [
+			[ "endosaría" ],
+			[ "endosarías" ],
+			[ "endosaría" ],
+			[ "endosaríamos" ],
+			[ "endosaríais", "endosarían" ],
+			[ "endosarían" ]
+		],
+		"7" : [
+			[ "endosaré" ],
+			[ "endosarás" ],
+			[ "endosará" ],
+			[ "endosaremos" ],
+			[ "endosaréis", "endosarán" ],
+			[ "endosarán" ]
+		],
+		"8" : [
+			[ "endose" ],
+			[ "endoses" ],
+			[ "endose" ],
+			[ "endosemos" ],
+			[ "endoséis", "endosen" ],
+			[ "endosen" ]
+		],
+		"9" : [
+			[ "endosara" ],
+			[ "endosaras" ],
+			[ "endosara" ],
+			[ "endosáramos" ],
+			[ "endosarais", "endosaran" ],
+			[ "endosaran" ]
+		],
+		"10" : [
+			[ "endosase" ],
+			[ "endosases" ],
+			[ "endosase" ],
+			[ "endosásemos" ],
+			[ "endosaseis", "endosasen" ],
+			[ "endosasen" ]
+		],
+		"11" : [
+			[ "endosare" ],
+			[ "endosares" ],
+			[ "endosare" ],
+			[ "endosáremos" ],
+			[ "endosareis", "endosaren" ],
+			[ "endosaren" ]
+		],
+		"12" : {
+			"1" : [ "endosa" ],
+			"2" : [ "endose" ],
+			"3" : [ "endosemos" ],
+			"4" : [ "endosad" ],
+			"5" : [ "endosen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estragar",
+	"word" : "estragar",
+	"infinitivo" : "estragar",
+	"participio" : [ "estragado" ],
+	"gerundio" : [ "estragando" ],
+	"tenses" : {
+		"3" : [
+			[ "estrago" ],
+			[ "estragas", "estragás" ],
+			[ "estraga" ],
+			[ "estragamos" ],
+			[ "estragáis", "estragan" ],
+			[ "estragan" ]
+		],
+		"4" : [
+			[ "estragué" ],
+			[ "estragaste" ],
+			[ "estragó" ],
+			[ "estragamos" ],
+			[ "estragasteis", "estragaron" ],
+			[ "estragaron" ]
+		],
+		"5" : [
+			[ "estragaba" ],
+			[ "estragabas" ],
+			[ "estragaba" ],
+			[ "estragábamos" ],
+			[ "estragabais", "estragaban" ],
+			[ "estragaban" ]
+		],
+		"6" : [
+			[ "estragaría" ],
+			[ "estragarías" ],
+			[ "estragaría" ],
+			[ "estragaríamos" ],
+			[ "estragaríais", "estragarían" ],
+			[ "estragarían" ]
+		],
+		"7" : [
+			[ "estragaré" ],
+			[ "estragarás" ],
+			[ "estragará" ],
+			[ "estragaremos" ],
+			[ "estragaréis", "estragarán" ],
+			[ "estragarán" ]
+		],
+		"8" : [
+			[ "estrague" ],
+			[ "estragues" ],
+			[ "estrague" ],
+			[ "estraguemos" ],
+			[ "estraguéis", "estraguen" ],
+			[ "estraguen" ]
+		],
+		"9" : [
+			[ "estragara" ],
+			[ "estragaras" ],
+			[ "estragara" ],
+			[ "estragáramos" ],
+			[ "estragarais", "estragaran" ],
+			[ "estragaran" ]
+		],
+		"10" : [
+			[ "estragase" ],
+			[ "estragases" ],
+			[ "estragase" ],
+			[ "estragásemos" ],
+			[ "estragaseis", "estragasen" ],
+			[ "estragasen" ]
+		],
+		"11" : [
+			[ "estragare" ],
+			[ "estragares" ],
+			[ "estragare" ],
+			[ "estragáremos" ],
+			[ "estragareis", "estragaren" ],
+			[ "estragaren" ]
+		],
+		"12" : {
+			"1" : [ "estraga" ],
+			"2" : [ "estrague" ],
+			"3" : [ "estraguemos" ],
+			"4" : [ "estragad" ],
+			"5" : [ "estraguen" ]
+		}
+	}
+}

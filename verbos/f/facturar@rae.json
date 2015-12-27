@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=facturar",
+	"word" : "facturar",
+	"infinitivo" : "facturar",
+	"participio" : [ "facturado" ],
+	"gerundio" : [ "facturando" ],
+	"tenses" : {
+		"3" : [
+			[ "facturo" ],
+			[ "facturas", "facturás" ],
+			[ "factura" ],
+			[ "facturamos" ],
+			[ "facturáis", "facturan" ],
+			[ "facturan" ]
+		],
+		"4" : [
+			[ "facturé" ],
+			[ "facturaste" ],
+			[ "facturó" ],
+			[ "facturamos" ],
+			[ "facturasteis", "facturaron" ],
+			[ "facturaron" ]
+		],
+		"5" : [
+			[ "facturaba" ],
+			[ "facturabas" ],
+			[ "facturaba" ],
+			[ "facturábamos" ],
+			[ "facturabais", "facturaban" ],
+			[ "facturaban" ]
+		],
+		"6" : [
+			[ "facturaría" ],
+			[ "facturarías" ],
+			[ "facturaría" ],
+			[ "facturaríamos" ],
+			[ "facturaríais", "facturarían" ],
+			[ "facturarían" ]
+		],
+		"7" : [
+			[ "facturaré" ],
+			[ "facturarás" ],
+			[ "facturará" ],
+			[ "facturaremos" ],
+			[ "facturaréis", "facturarán" ],
+			[ "facturarán" ]
+		],
+		"8" : [
+			[ "facture" ],
+			[ "factures" ],
+			[ "facture" ],
+			[ "facturemos" ],
+			[ "facturéis", "facturen" ],
+			[ "facturen" ]
+		],
+		"9" : [
+			[ "facturara" ],
+			[ "facturaras" ],
+			[ "facturara" ],
+			[ "facturáramos" ],
+			[ "facturarais", "facturaran" ],
+			[ "facturaran" ]
+		],
+		"10" : [
+			[ "facturase" ],
+			[ "facturases" ],
+			[ "facturase" ],
+			[ "facturásemos" ],
+			[ "facturaseis", "facturasen" ],
+			[ "facturasen" ]
+		],
+		"11" : [
+			[ "facturare" ],
+			[ "facturares" ],
+			[ "facturare" ],
+			[ "facturáremos" ],
+			[ "facturareis", "facturaren" ],
+			[ "facturaren" ]
+		],
+		"12" : {
+			"1" : [ "factura" ],
+			"2" : [ "facture" ],
+			"3" : [ "facturemos" ],
+			"4" : [ "facturad" ],
+			"5" : [ "facturen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disolver",
+	"word" : "disolver",
+	"infinitivo" : "disolver",
+	"participio" : [ "disuelto" ],
+	"gerundio" : [ "disolviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "disuelvo" ],
+			[ "disuelves", "disolvés" ],
+			[ "disuelve" ],
+			[ "disolvemos" ],
+			[ "disolvéis", "disuelven" ],
+			[ "disuelven" ]
+		],
+		"4" : [
+			[ "disolví" ],
+			[ "disolviste" ],
+			[ "disolvió" ],
+			[ "disolvimos" ],
+			[ "disolvisteis", "disolvieron" ],
+			[ "disolvieron" ]
+		],
+		"5" : [
+			[ "disolvía" ],
+			[ "disolvías" ],
+			[ "disolvía" ],
+			[ "disolvíamos" ],
+			[ "disolvíais", "disolvían" ],
+			[ "disolvían" ]
+		],
+		"6" : [
+			[ "disolvería" ],
+			[ "disolverías" ],
+			[ "disolvería" ],
+			[ "disolveríamos" ],
+			[ "disolveríais", "disolverían" ],
+			[ "disolverían" ]
+		],
+		"7" : [
+			[ "disolveré" ],
+			[ "disolverás" ],
+			[ "disolverá" ],
+			[ "disolveremos" ],
+			[ "disolveréis", "disolverán" ],
+			[ "disolverán" ]
+		],
+		"8" : [
+			[ "disuelva" ],
+			[ "disuelvas" ],
+			[ "disuelva" ],
+			[ "disolvamos" ],
+			[ "disolváis", "disuelvan" ],
+			[ "disuelvan" ]
+		],
+		"9" : [
+			[ "disolviera" ],
+			[ "disolvieras" ],
+			[ "disolviera" ],
+			[ "disolviéramos" ],
+			[ "disolvierais", "disolvieran" ],
+			[ "disolvieran" ]
+		],
+		"10" : [
+			[ "disolviese" ],
+			[ "disolvieses" ],
+			[ "disolviese" ],
+			[ "disolviésemos" ],
+			[ "disolvieseis", "disolviesen" ],
+			[ "disolviesen" ]
+		],
+		"11" : [
+			[ "disolviere" ],
+			[ "disolvieres" ],
+			[ "disolviere" ],
+			[ "disolviéremos" ],
+			[ "disolviereis", "disolvieren" ],
+			[ "disolvieren" ]
+		],
+		"12" : {
+			"1" : [ "disuelve" ],
+			"2" : [ "disuelva" ],
+			"3" : [ "disolvamos" ],
+			"4" : [ "disolved" ],
+			"5" : [ "disuelvan" ]
+		}
+	}
+}

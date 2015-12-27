@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=decretar",
+	"word" : "decretar",
+	"infinitivo" : "decretar",
+	"participio" : [ "decretado" ],
+	"gerundio" : [ "decretando" ],
+	"tenses" : {
+		"3" : [
+			[ "decreto" ],
+			[ "decretas", "decretás" ],
+			[ "decreta" ],
+			[ "decretamos" ],
+			[ "decretáis", "decretan" ],
+			[ "decretan" ]
+		],
+		"4" : [
+			[ "decreté" ],
+			[ "decretaste" ],
+			[ "decretó" ],
+			[ "decretamos" ],
+			[ "decretasteis", "decretaron" ],
+			[ "decretaron" ]
+		],
+		"5" : [
+			[ "decretaba" ],
+			[ "decretabas" ],
+			[ "decretaba" ],
+			[ "decretábamos" ],
+			[ "decretabais", "decretaban" ],
+			[ "decretaban" ]
+		],
+		"6" : [
+			[ "decretaría" ],
+			[ "decretarías" ],
+			[ "decretaría" ],
+			[ "decretaríamos" ],
+			[ "decretaríais", "decretarían" ],
+			[ "decretarían" ]
+		],
+		"7" : [
+			[ "decretaré" ],
+			[ "decretarás" ],
+			[ "decretará" ],
+			[ "decretaremos" ],
+			[ "decretaréis", "decretarán" ],
+			[ "decretarán" ]
+		],
+		"8" : [
+			[ "decrete" ],
+			[ "decretes" ],
+			[ "decrete" ],
+			[ "decretemos" ],
+			[ "decretéis", "decreten" ],
+			[ "decreten" ]
+		],
+		"9" : [
+			[ "decretara" ],
+			[ "decretaras" ],
+			[ "decretara" ],
+			[ "decretáramos" ],
+			[ "decretarais", "decretaran" ],
+			[ "decretaran" ]
+		],
+		"10" : [
+			[ "decretase" ],
+			[ "decretases" ],
+			[ "decretase" ],
+			[ "decretásemos" ],
+			[ "decretaseis", "decretasen" ],
+			[ "decretasen" ]
+		],
+		"11" : [
+			[ "decretare" ],
+			[ "decretares" ],
+			[ "decretare" ],
+			[ "decretáremos" ],
+			[ "decretareis", "decretaren" ],
+			[ "decretaren" ]
+		],
+		"12" : {
+			"1" : [ "decreta" ],
+			"2" : [ "decrete" ],
+			"3" : [ "decretemos" ],
+			"4" : [ "decretad" ],
+			"5" : [ "decreten" ]
+		}
+	}
+}

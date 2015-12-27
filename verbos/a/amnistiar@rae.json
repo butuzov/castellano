@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amnistiar",
+	"word" : "amnistiar",
+	"infinitivo" : "amnistiar",
+	"participio" : [ "amnistiado" ],
+	"gerundio" : [ "amnistiando" ],
+	"tenses" : {
+		"3" : [
+			[ "amnistío" ],
+			[ "amnistías", "amnistiás" ],
+			[ "amnistía" ],
+			[ "amnistiamos" ],
+			[ "amnistiáis", "amnistían" ],
+			[ "amnistían" ]
+		],
+		"4" : [
+			[ "amnistié" ],
+			[ "amnistiaste" ],
+			[ "amnistió" ],
+			[ "amnistiamos" ],
+			[ "amnistiasteis", "amnistiaron" ],
+			[ "amnistiaron" ]
+		],
+		"5" : [
+			[ "amnistiaba" ],
+			[ "amnistiabas" ],
+			[ "amnistiaba" ],
+			[ "amnistiábamos" ],
+			[ "amnistiabais", "amnistiaban" ],
+			[ "amnistiaban" ]
+		],
+		"6" : [
+			[ "amnistiaría" ],
+			[ "amnistiarías" ],
+			[ "amnistiaría" ],
+			[ "amnistiaríamos" ],
+			[ "amnistiaríais", "amnistiarían" ],
+			[ "amnistiarían" ]
+		],
+		"7" : [
+			[ "amnistiaré" ],
+			[ "amnistiarás" ],
+			[ "amnistiará" ],
+			[ "amnistiaremos" ],
+			[ "amnistiaréis", "amnistiarán" ],
+			[ "amnistiarán" ]
+		],
+		"8" : [
+			[ "amnistíe" ],
+			[ "amnistíes" ],
+			[ "amnistíe" ],
+			[ "amnistiemos" ],
+			[ "amnistiéis", "amnistíen" ],
+			[ "amnistíen" ]
+		],
+		"9" : [
+			[ "amnistiara" ],
+			[ "amnistiaras" ],
+			[ "amnistiara" ],
+			[ "amnistiáramos" ],
+			[ "amnistiarais", "amnistiaran" ],
+			[ "amnistiaran" ]
+		],
+		"10" : [
+			[ "amnistiase" ],
+			[ "amnistiases" ],
+			[ "amnistiase" ],
+			[ "amnistiásemos" ],
+			[ "amnistiaseis", "amnistiasen" ],
+			[ "amnistiasen" ]
+		],
+		"11" : [
+			[ "amnistiare" ],
+			[ "amnistiares" ],
+			[ "amnistiare" ],
+			[ "amnistiáremos" ],
+			[ "amnistiareis", "amnistiaren" ],
+			[ "amnistiaren" ]
+		],
+		"12" : {
+			"1" : [ "amnistía" ],
+			"2" : [ "amnistíe" ],
+			"3" : [ "amnistiemos" ],
+			"4" : [ "amnistiad" ],
+			"5" : [ "amnistíen" ]
+		}
+	}
+}

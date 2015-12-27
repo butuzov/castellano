@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=grillarse",
+	"word" : "grillarse",
+	"infinitivo" : "grillarse",
+	"participio" : [ "grillado" ],
+	"gerundio" : [ "grillándome", "grillándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me grillo" ],
+			[ "te grillas", "te grillás" ],
+			[ "se grilla" ],
+			[ "nos grillamos" ],
+			[ "os grilláis", "se grillan" ],
+			[ "se grillan" ]
+		],
+		"4" : [
+			[ "me grillé" ],
+			[ "te grillaste" ],
+			[ "se grilló" ],
+			[ "nos grillamos" ],
+			[ "os grillasteis", "se grillaron" ],
+			[ "se grillaron" ]
+		],
+		"5" : [
+			[ "me grillaba" ],
+			[ "te grillabas" ],
+			[ "se grillaba" ],
+			[ "nos grillábamos" ],
+			[ "os grillabais", "se grillaban" ],
+			[ "se grillaban" ]
+		],
+		"6" : [
+			[ "me grillaría" ],
+			[ "te grillarías" ],
+			[ "se grillaría" ],
+			[ "nos grillaríamos" ],
+			[ "os grillaríais", "se grillarían" ],
+			[ "se grillarían" ]
+		],
+		"7" : [
+			[ "me grillaré" ],
+			[ "te grillarás" ],
+			[ "se grillará" ],
+			[ "nos grillaremos" ],
+			[ "os grillaréis", "se grillarán" ],
+			[ "se grillarán" ]
+		],
+		"8" : [
+			[ "me grille" ],
+			[ "te grilles" ],
+			[ "se grille" ],
+			[ "nos grillemos" ],
+			[ "os grilléis", "se grillen" ],
+			[ "se grillen" ]
+		],
+		"9" : [
+			[ "me grillara" ],
+			[ "te grillaras" ],
+			[ "se grillara" ],
+			[ "nos grilláramos" ],
+			[ "os grillarais", "se grillaran" ],
+			[ "se grillaran" ]
+		],
+		"10" : [
+			[ "me grillase" ],
+			[ "te grillases" ],
+			[ "se grillase" ],
+			[ "nos grillásemos" ],
+			[ "os grillaseis", "se grillasen" ],
+			[ "se grillasen" ]
+		],
+		"11" : [
+			[ "me grillare" ],
+			[ "te grillares" ],
+			[ "se grillare" ],
+			[ "nos grilláremos" ],
+			[ "os grillareis", "se grillaren" ],
+			[ "se grillaren" ]
+		],
+		"12" : {
+			"1" : [ "gríllate" ],
+			"2" : [ "grille" ],
+			"3" : [ "grillemos" ],
+			"4" : [ "grillaos" ],
+			"5" : [ "gríllense" ]
+		}
+	}
+}

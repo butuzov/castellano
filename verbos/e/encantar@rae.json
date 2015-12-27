@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encantar",
+	"word" : "encantar",
+	"infinitivo" : "encantar",
+	"participio" : [ "encantado" ],
+	"gerundio" : [ "encantando" ],
+	"tenses" : {
+		"3" : [
+			[ "encanto" ],
+			[ "encantas", "encantás" ],
+			[ "encanta" ],
+			[ "encantamos" ],
+			[ "encantáis", "encantan" ],
+			[ "encantan" ]
+		],
+		"4" : [
+			[ "encanté" ],
+			[ "encantaste" ],
+			[ "encantó" ],
+			[ "encantamos" ],
+			[ "encantasteis", "encantaron" ],
+			[ "encantaron" ]
+		],
+		"5" : [
+			[ "encantaba" ],
+			[ "encantabas" ],
+			[ "encantaba" ],
+			[ "encantábamos" ],
+			[ "encantabais", "encantaban" ],
+			[ "encantaban" ]
+		],
+		"6" : [
+			[ "encantaría" ],
+			[ "encantarías" ],
+			[ "encantaría" ],
+			[ "encantaríamos" ],
+			[ "encantaríais", "encantarían" ],
+			[ "encantarían" ]
+		],
+		"7" : [
+			[ "encantaré" ],
+			[ "encantarás" ],
+			[ "encantará" ],
+			[ "encantaremos" ],
+			[ "encantaréis", "encantarán" ],
+			[ "encantarán" ]
+		],
+		"8" : [
+			[ "encante" ],
+			[ "encantes" ],
+			[ "encante" ],
+			[ "encantemos" ],
+			[ "encantéis", "encanten" ],
+			[ "encanten" ]
+		],
+		"9" : [
+			[ "encantara" ],
+			[ "encantaras" ],
+			[ "encantara" ],
+			[ "encantáramos" ],
+			[ "encantarais", "encantaran" ],
+			[ "encantaran" ]
+		],
+		"10" : [
+			[ "encantase" ],
+			[ "encantases" ],
+			[ "encantase" ],
+			[ "encantásemos" ],
+			[ "encantaseis", "encantasen" ],
+			[ "encantasen" ]
+		],
+		"11" : [
+			[ "encantare" ],
+			[ "encantares" ],
+			[ "encantare" ],
+			[ "encantáremos" ],
+			[ "encantareis", "encantaren" ],
+			[ "encantaren" ]
+		],
+		"12" : {
+			"1" : [ "encanta" ],
+			"2" : [ "encante" ],
+			"3" : [ "encantemos" ],
+			"4" : [ "encantad" ],
+			"5" : [ "encanten" ]
+		}
+	}
+}

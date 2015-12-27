@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=penalizar",
+	"word" : "penalizar",
+	"infinitivo" : "penalizar",
+	"participio" : [ "penalizado" ],
+	"gerundio" : [ "penalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "penalizo" ],
+			[ "penalizas", "penalizás" ],
+			[ "penaliza" ],
+			[ "penalizamos" ],
+			[ "penalizáis", "penalizan" ],
+			[ "penalizan" ]
+		],
+		"4" : [
+			[ "penalicé" ],
+			[ "penalizaste" ],
+			[ "penalizó" ],
+			[ "penalizamos" ],
+			[ "penalizasteis", "penalizaron" ],
+			[ "penalizaron" ]
+		],
+		"5" : [
+			[ "penalizaba" ],
+			[ "penalizabas" ],
+			[ "penalizaba" ],
+			[ "penalizábamos" ],
+			[ "penalizabais", "penalizaban" ],
+			[ "penalizaban" ]
+		],
+		"6" : [
+			[ "penalizaría" ],
+			[ "penalizarías" ],
+			[ "penalizaría" ],
+			[ "penalizaríamos" ],
+			[ "penalizaríais", "penalizarían" ],
+			[ "penalizarían" ]
+		],
+		"7" : [
+			[ "penalizaré" ],
+			[ "penalizarás" ],
+			[ "penalizará" ],
+			[ "penalizaremos" ],
+			[ "penalizaréis", "penalizarán" ],
+			[ "penalizarán" ]
+		],
+		"8" : [
+			[ "penalice" ],
+			[ "penalices" ],
+			[ "penalice" ],
+			[ "penalicemos" ],
+			[ "penalicéis", "penalicen" ],
+			[ "penalicen" ]
+		],
+		"9" : [
+			[ "penalizara" ],
+			[ "penalizaras" ],
+			[ "penalizara" ],
+			[ "penalizáramos" ],
+			[ "penalizarais", "penalizaran" ],
+			[ "penalizaran" ]
+		],
+		"10" : [
+			[ "penalizase" ],
+			[ "penalizases" ],
+			[ "penalizase" ],
+			[ "penalizásemos" ],
+			[ "penalizaseis", "penalizasen" ],
+			[ "penalizasen" ]
+		],
+		"11" : [
+			[ "penalizare" ],
+			[ "penalizares" ],
+			[ "penalizare" ],
+			[ "penalizáremos" ],
+			[ "penalizareis", "penalizaren" ],
+			[ "penalizaren" ]
+		],
+		"12" : {
+			"1" : [ "penaliza" ],
+			"2" : [ "penalice" ],
+			"3" : [ "penalicemos" ],
+			"4" : [ "penalizad" ],
+			"5" : [ "penalicen" ]
+		}
+	}
+}

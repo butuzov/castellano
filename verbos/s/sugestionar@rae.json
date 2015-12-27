@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sugestionar",
+	"word" : "sugestionar",
+	"infinitivo" : "sugestionar",
+	"participio" : [ "sugestionado" ],
+	"gerundio" : [ "sugestionando" ],
+	"tenses" : {
+		"3" : [
+			[ "sugestiono" ],
+			[ "sugestionas", "sugestionás" ],
+			[ "sugestiona" ],
+			[ "sugestionamos" ],
+			[ "sugestionáis", "sugestionan" ],
+			[ "sugestionan" ]
+		],
+		"4" : [
+			[ "sugestioné" ],
+			[ "sugestionaste" ],
+			[ "sugestionó" ],
+			[ "sugestionamos" ],
+			[ "sugestionasteis", "sugestionaron" ],
+			[ "sugestionaron" ]
+		],
+		"5" : [
+			[ "sugestionaba" ],
+			[ "sugestionabas" ],
+			[ "sugestionaba" ],
+			[ "sugestionábamos" ],
+			[ "sugestionabais", "sugestionaban" ],
+			[ "sugestionaban" ]
+		],
+		"6" : [
+			[ "sugestionaría" ],
+			[ "sugestionarías" ],
+			[ "sugestionaría" ],
+			[ "sugestionaríamos" ],
+			[ "sugestionaríais", "sugestionarían" ],
+			[ "sugestionarían" ]
+		],
+		"7" : [
+			[ "sugestionaré" ],
+			[ "sugestionarás" ],
+			[ "sugestionará" ],
+			[ "sugestionaremos" ],
+			[ "sugestionaréis", "sugestionarán" ],
+			[ "sugestionarán" ]
+		],
+		"8" : [
+			[ "sugestione" ],
+			[ "sugestiones" ],
+			[ "sugestione" ],
+			[ "sugestionemos" ],
+			[ "sugestionéis", "sugestionen" ],
+			[ "sugestionen" ]
+		],
+		"9" : [
+			[ "sugestionara" ],
+			[ "sugestionaras" ],
+			[ "sugestionara" ],
+			[ "sugestionáramos" ],
+			[ "sugestionarais", "sugestionaran" ],
+			[ "sugestionaran" ]
+		],
+		"10" : [
+			[ "sugestionase" ],
+			[ "sugestionases" ],
+			[ "sugestionase" ],
+			[ "sugestionásemos" ],
+			[ "sugestionaseis", "sugestionasen" ],
+			[ "sugestionasen" ]
+		],
+		"11" : [
+			[ "sugestionare" ],
+			[ "sugestionares" ],
+			[ "sugestionare" ],
+			[ "sugestionáremos" ],
+			[ "sugestionareis", "sugestionaren" ],
+			[ "sugestionaren" ]
+		],
+		"12" : {
+			"1" : [ "sugestiona" ],
+			"2" : [ "sugestione" ],
+			"3" : [ "sugestionemos" ],
+			"4" : [ "sugestionad" ],
+			"5" : [ "sugestionen" ]
+		}
+	}
+}

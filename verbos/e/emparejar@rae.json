@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emparejar",
+	"word" : "emparejar",
+	"infinitivo" : "emparejar",
+	"participio" : [ "emparejado" ],
+	"gerundio" : [ "emparejando" ],
+	"tenses" : {
+		"3" : [
+			[ "emparejo" ],
+			[ "emparejas", "emparejás" ],
+			[ "empareja" ],
+			[ "emparejamos" ],
+			[ "emparejáis", "emparejan" ],
+			[ "emparejan" ]
+		],
+		"4" : [
+			[ "emparejé" ],
+			[ "emparejaste" ],
+			[ "emparejó" ],
+			[ "emparejamos" ],
+			[ "emparejasteis", "emparejaron" ],
+			[ "emparejaron" ]
+		],
+		"5" : [
+			[ "emparejaba" ],
+			[ "emparejabas" ],
+			[ "emparejaba" ],
+			[ "emparejábamos" ],
+			[ "emparejabais", "emparejaban" ],
+			[ "emparejaban" ]
+		],
+		"6" : [
+			[ "emparejaría" ],
+			[ "emparejarías" ],
+			[ "emparejaría" ],
+			[ "emparejaríamos" ],
+			[ "emparejaríais", "emparejarían" ],
+			[ "emparejarían" ]
+		],
+		"7" : [
+			[ "emparejaré" ],
+			[ "emparejarás" ],
+			[ "emparejará" ],
+			[ "emparejaremos" ],
+			[ "emparejaréis", "emparejarán" ],
+			[ "emparejarán" ]
+		],
+		"8" : [
+			[ "empareje" ],
+			[ "emparejes" ],
+			[ "empareje" ],
+			[ "emparejemos" ],
+			[ "emparejéis", "emparejen" ],
+			[ "emparejen" ]
+		],
+		"9" : [
+			[ "emparejara" ],
+			[ "emparejaras" ],
+			[ "emparejara" ],
+			[ "emparejáramos" ],
+			[ "emparejarais", "emparejaran" ],
+			[ "emparejaran" ]
+		],
+		"10" : [
+			[ "emparejase" ],
+			[ "emparejases" ],
+			[ "emparejase" ],
+			[ "emparejásemos" ],
+			[ "emparejaseis", "emparejasen" ],
+			[ "emparejasen" ]
+		],
+		"11" : [
+			[ "emparejare" ],
+			[ "emparejares" ],
+			[ "emparejare" ],
+			[ "emparejáremos" ],
+			[ "emparejareis", "emparejaren" ],
+			[ "emparejaren" ]
+		],
+		"12" : {
+			"1" : [ "empareja" ],
+			"2" : [ "empareje" ],
+			"3" : [ "emparejemos" ],
+			"4" : [ "emparejad" ],
+			"5" : [ "emparejen" ]
+		}
+	}
+}

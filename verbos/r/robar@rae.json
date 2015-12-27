@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=robar",
+	"word" : "robar",
+	"infinitivo" : "robar",
+	"participio" : [ "robado" ],
+	"gerundio" : [ "robando" ],
+	"tenses" : {
+		"3" : [
+			[ "robo" ],
+			[ "robas", "robás" ],
+			[ "roba" ],
+			[ "robamos" ],
+			[ "robáis", "roban" ],
+			[ "roban" ]
+		],
+		"4" : [
+			[ "robé" ],
+			[ "robaste" ],
+			[ "robó" ],
+			[ "robamos" ],
+			[ "robasteis", "robaron" ],
+			[ "robaron" ]
+		],
+		"5" : [
+			[ "robaba" ],
+			[ "robabas" ],
+			[ "robaba" ],
+			[ "robábamos" ],
+			[ "robabais", "robaban" ],
+			[ "robaban" ]
+		],
+		"6" : [
+			[ "robaría" ],
+			[ "robarías" ],
+			[ "robaría" ],
+			[ "robaríamos" ],
+			[ "robaríais", "robarían" ],
+			[ "robarían" ]
+		],
+		"7" : [
+			[ "robaré" ],
+			[ "robarás" ],
+			[ "robará" ],
+			[ "robaremos" ],
+			[ "robaréis", "robarán" ],
+			[ "robarán" ]
+		],
+		"8" : [
+			[ "robe" ],
+			[ "robes" ],
+			[ "robe" ],
+			[ "robemos" ],
+			[ "robéis", "roben" ],
+			[ "roben" ]
+		],
+		"9" : [
+			[ "robara" ],
+			[ "robaras" ],
+			[ "robara" ],
+			[ "robáramos" ],
+			[ "robarais", "robaran" ],
+			[ "robaran" ]
+		],
+		"10" : [
+			[ "robase" ],
+			[ "robases" ],
+			[ "robase" ],
+			[ "robásemos" ],
+			[ "robaseis", "robasen" ],
+			[ "robasen" ]
+		],
+		"11" : [
+			[ "robare" ],
+			[ "robares" ],
+			[ "robare" ],
+			[ "robáremos" ],
+			[ "robareis", "robaren" ],
+			[ "robaren" ]
+		],
+		"12" : {
+			"1" : [ "roba" ],
+			"2" : [ "robe" ],
+			"3" : [ "robemos" ],
+			"4" : [ "robad" ],
+			"5" : [ "roben" ]
+		}
+	}
+}

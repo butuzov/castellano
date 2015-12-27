@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=truncar",
+	"word" : "truncar",
+	"infinitivo" : "truncar",
+	"participio" : [ "truncado" ],
+	"gerundio" : [ "truncando" ],
+	"tenses" : {
+		"3" : [
+			[ "trunco" ],
+			[ "truncas", "truncás" ],
+			[ "trunca" ],
+			[ "truncamos" ],
+			[ "truncáis", "truncan" ],
+			[ "truncan" ]
+		],
+		"4" : [
+			[ "trunqué" ],
+			[ "truncaste" ],
+			[ "truncó" ],
+			[ "truncamos" ],
+			[ "truncasteis", "truncaron" ],
+			[ "truncaron" ]
+		],
+		"5" : [
+			[ "truncaba" ],
+			[ "truncabas" ],
+			[ "truncaba" ],
+			[ "truncábamos" ],
+			[ "truncabais", "truncaban" ],
+			[ "truncaban" ]
+		],
+		"6" : [
+			[ "truncaría" ],
+			[ "truncarías" ],
+			[ "truncaría" ],
+			[ "truncaríamos" ],
+			[ "truncaríais", "truncarían" ],
+			[ "truncarían" ]
+		],
+		"7" : [
+			[ "truncaré" ],
+			[ "truncarás" ],
+			[ "truncará" ],
+			[ "truncaremos" ],
+			[ "truncaréis", "truncarán" ],
+			[ "truncarán" ]
+		],
+		"8" : [
+			[ "trunque" ],
+			[ "trunques" ],
+			[ "trunque" ],
+			[ "trunquemos" ],
+			[ "trunquéis", "trunquen" ],
+			[ "trunquen" ]
+		],
+		"9" : [
+			[ "truncara" ],
+			[ "truncaras" ],
+			[ "truncara" ],
+			[ "truncáramos" ],
+			[ "truncarais", "truncaran" ],
+			[ "truncaran" ]
+		],
+		"10" : [
+			[ "truncase" ],
+			[ "truncases" ],
+			[ "truncase" ],
+			[ "truncásemos" ],
+			[ "truncaseis", "truncasen" ],
+			[ "truncasen" ]
+		],
+		"11" : [
+			[ "truncare" ],
+			[ "truncares" ],
+			[ "truncare" ],
+			[ "truncáremos" ],
+			[ "truncareis", "truncaren" ],
+			[ "truncaren" ]
+		],
+		"12" : {
+			"1" : [ "trunca" ],
+			"2" : [ "trunque" ],
+			"3" : [ "trunquemos" ],
+			"4" : [ "truncad" ],
+			"5" : [ "trunquen" ]
+		}
+	}
+}

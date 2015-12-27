@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=eximir",
+	"word" : "eximir",
+	"infinitivo" : "eximir",
+	"participio" : [ "eximido" ],
+	"gerundio" : [ "eximiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "eximo" ],
+			[ "eximes", "eximís" ],
+			[ "exime" ],
+			[ "eximimos" ],
+			[ "eximís", "eximen" ],
+			[ "eximen" ]
+		],
+		"4" : [
+			[ "eximí" ],
+			[ "eximiste" ],
+			[ "eximió" ],
+			[ "eximimos" ],
+			[ "eximisteis", "eximieron" ],
+			[ "eximieron" ]
+		],
+		"5" : [
+			[ "eximía" ],
+			[ "eximías" ],
+			[ "eximía" ],
+			[ "eximíamos" ],
+			[ "eximíais", "eximían" ],
+			[ "eximían" ]
+		],
+		"6" : [
+			[ "eximiría" ],
+			[ "eximirías" ],
+			[ "eximiría" ],
+			[ "eximiríamos" ],
+			[ "eximiríais", "eximirían" ],
+			[ "eximirían" ]
+		],
+		"7" : [
+			[ "eximiré" ],
+			[ "eximirás" ],
+			[ "eximirá" ],
+			[ "eximiremos" ],
+			[ "eximiréis", "eximirán" ],
+			[ "eximirán" ]
+		],
+		"8" : [
+			[ "exima" ],
+			[ "eximas" ],
+			[ "exima" ],
+			[ "eximamos" ],
+			[ "eximáis", "eximan" ],
+			[ "eximan" ]
+		],
+		"9" : [
+			[ "eximiera" ],
+			[ "eximieras" ],
+			[ "eximiera" ],
+			[ "eximiéramos" ],
+			[ "eximierais", "eximieran" ],
+			[ "eximieran" ]
+		],
+		"10" : [
+			[ "eximiese" ],
+			[ "eximieses" ],
+			[ "eximiese" ],
+			[ "eximiésemos" ],
+			[ "eximieseis", "eximiesen" ],
+			[ "eximiesen" ]
+		],
+		"11" : [
+			[ "eximiere" ],
+			[ "eximieres" ],
+			[ "eximiere" ],
+			[ "eximiéremos" ],
+			[ "eximiereis", "eximieren" ],
+			[ "eximieren" ]
+		],
+		"12" : {
+			"1" : [ "exime" ],
+			"2" : [ "exima" ],
+			"3" : [ "eximamos" ],
+			"4" : [ "eximid" ],
+			"5" : [ "eximan" ]
+		}
+	}
+}

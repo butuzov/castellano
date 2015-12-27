@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=punzar",
+	"word" : "punzar",
+	"infinitivo" : "punzar",
+	"participio" : [ "punzado" ],
+	"gerundio" : [ "punzando" ],
+	"tenses" : {
+		"3" : [
+			[ "punzo" ],
+			[ "punzas", "punzás" ],
+			[ "punza" ],
+			[ "punzamos" ],
+			[ "punzáis", "punzan" ],
+			[ "punzan" ]
+		],
+		"4" : [
+			[ "puncé" ],
+			[ "punzaste" ],
+			[ "punzó" ],
+			[ "punzamos" ],
+			[ "punzasteis", "punzaron" ],
+			[ "punzaron" ]
+		],
+		"5" : [
+			[ "punzaba" ],
+			[ "punzabas" ],
+			[ "punzaba" ],
+			[ "punzábamos" ],
+			[ "punzabais", "punzaban" ],
+			[ "punzaban" ]
+		],
+		"6" : [
+			[ "punzaría" ],
+			[ "punzarías" ],
+			[ "punzaría" ],
+			[ "punzaríamos" ],
+			[ "punzaríais", "punzarían" ],
+			[ "punzarían" ]
+		],
+		"7" : [
+			[ "punzaré" ],
+			[ "punzarás" ],
+			[ "punzará" ],
+			[ "punzaremos" ],
+			[ "punzaréis", "punzarán" ],
+			[ "punzarán" ]
+		],
+		"8" : [
+			[ "punce" ],
+			[ "punces" ],
+			[ "punce" ],
+			[ "puncemos" ],
+			[ "puncéis", "puncen" ],
+			[ "puncen" ]
+		],
+		"9" : [
+			[ "punzara" ],
+			[ "punzaras" ],
+			[ "punzara" ],
+			[ "punzáramos" ],
+			[ "punzarais", "punzaran" ],
+			[ "punzaran" ]
+		],
+		"10" : [
+			[ "punzase" ],
+			[ "punzases" ],
+			[ "punzase" ],
+			[ "punzásemos" ],
+			[ "punzaseis", "punzasen" ],
+			[ "punzasen" ]
+		],
+		"11" : [
+			[ "punzare" ],
+			[ "punzares" ],
+			[ "punzare" ],
+			[ "punzáremos" ],
+			[ "punzareis", "punzaren" ],
+			[ "punzaren" ]
+		],
+		"12" : {
+			"1" : [ "punza" ],
+			"2" : [ "punce" ],
+			"3" : [ "puncemos" ],
+			"4" : [ "punzad" ],
+			"5" : [ "puncen" ]
+		}
+	}
+}

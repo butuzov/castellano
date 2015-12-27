@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cenar",
+	"word" : "cenar",
+	"infinitivo" : "cenar",
+	"participio" : [ "cenado" ],
+	"gerundio" : [ "cenando" ],
+	"tenses" : {
+		"3" : [
+			[ "ceno" ],
+			[ "cenas", "cenás" ],
+			[ "cena" ],
+			[ "cenamos" ],
+			[ "cenáis", "cenan" ],
+			[ "cenan" ]
+		],
+		"4" : [
+			[ "cené" ],
+			[ "cenaste" ],
+			[ "cenó" ],
+			[ "cenamos" ],
+			[ "cenasteis", "cenaron" ],
+			[ "cenaron" ]
+		],
+		"5" : [
+			[ "cenaba" ],
+			[ "cenabas" ],
+			[ "cenaba" ],
+			[ "cenábamos" ],
+			[ "cenabais", "cenaban" ],
+			[ "cenaban" ]
+		],
+		"6" : [
+			[ "cenaría" ],
+			[ "cenarías" ],
+			[ "cenaría" ],
+			[ "cenaríamos" ],
+			[ "cenaríais", "cenarían" ],
+			[ "cenarían" ]
+		],
+		"7" : [
+			[ "cenaré" ],
+			[ "cenarás" ],
+			[ "cenará" ],
+			[ "cenaremos" ],
+			[ "cenaréis", "cenarán" ],
+			[ "cenarán" ]
+		],
+		"8" : [
+			[ "cene" ],
+			[ "cenes" ],
+			[ "cene" ],
+			[ "cenemos" ],
+			[ "cenéis", "cenen" ],
+			[ "cenen" ]
+		],
+		"9" : [
+			[ "cenara" ],
+			[ "cenaras" ],
+			[ "cenara" ],
+			[ "cenáramos" ],
+			[ "cenarais", "cenaran" ],
+			[ "cenaran" ]
+		],
+		"10" : [
+			[ "cenase" ],
+			[ "cenases" ],
+			[ "cenase" ],
+			[ "cenásemos" ],
+			[ "cenaseis", "cenasen" ],
+			[ "cenasen" ]
+		],
+		"11" : [
+			[ "cenare" ],
+			[ "cenares" ],
+			[ "cenare" ],
+			[ "cenáremos" ],
+			[ "cenareis", "cenaren" ],
+			[ "cenaren" ]
+		],
+		"12" : {
+			"1" : [ "cena" ],
+			"2" : [ "cene" ],
+			"3" : [ "cenemos" ],
+			"4" : [ "cenad" ],
+			"5" : [ "cenen" ]
+		}
+	}
+}

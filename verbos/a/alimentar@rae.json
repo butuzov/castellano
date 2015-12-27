@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alimentar",
+	"word" : "alimentar",
+	"infinitivo" : "alimentar",
+	"participio" : [ "alimentado" ],
+	"gerundio" : [ "alimentando" ],
+	"tenses" : {
+		"3" : [
+			[ "alimento" ],
+			[ "alimentas", "alimentás" ],
+			[ "alimenta" ],
+			[ "alimentamos" ],
+			[ "alimentáis", "alimentan" ],
+			[ "alimentan" ]
+		],
+		"4" : [
+			[ "alimenté" ],
+			[ "alimentaste" ],
+			[ "alimentó" ],
+			[ "alimentamos" ],
+			[ "alimentasteis", "alimentaron" ],
+			[ "alimentaron" ]
+		],
+		"5" : [
+			[ "alimentaba" ],
+			[ "alimentabas" ],
+			[ "alimentaba" ],
+			[ "alimentábamos" ],
+			[ "alimentabais", "alimentaban" ],
+			[ "alimentaban" ]
+		],
+		"6" : [
+			[ "alimentaría" ],
+			[ "alimentarías" ],
+			[ "alimentaría" ],
+			[ "alimentaríamos" ],
+			[ "alimentaríais", "alimentarían" ],
+			[ "alimentarían" ]
+		],
+		"7" : [
+			[ "alimentaré" ],
+			[ "alimentarás" ],
+			[ "alimentará" ],
+			[ "alimentaremos" ],
+			[ "alimentaréis", "alimentarán" ],
+			[ "alimentarán" ]
+		],
+		"8" : [
+			[ "alimente" ],
+			[ "alimentes" ],
+			[ "alimente" ],
+			[ "alimentemos" ],
+			[ "alimentéis", "alimenten" ],
+			[ "alimenten" ]
+		],
+		"9" : [
+			[ "alimentara" ],
+			[ "alimentaras" ],
+			[ "alimentara" ],
+			[ "alimentáramos" ],
+			[ "alimentarais", "alimentaran" ],
+			[ "alimentaran" ]
+		],
+		"10" : [
+			[ "alimentase" ],
+			[ "alimentases" ],
+			[ "alimentase" ],
+			[ "alimentásemos" ],
+			[ "alimentaseis", "alimentasen" ],
+			[ "alimentasen" ]
+		],
+		"11" : [
+			[ "alimentare" ],
+			[ "alimentares" ],
+			[ "alimentare" ],
+			[ "alimentáremos" ],
+			[ "alimentareis", "alimentaren" ],
+			[ "alimentaren" ]
+		],
+		"12" : {
+			"1" : [ "alimenta" ],
+			"2" : [ "alimente" ],
+			"3" : [ "alimentemos" ],
+			"4" : [ "alimentad" ],
+			"5" : [ "alimenten" ]
+		}
+	}
+}

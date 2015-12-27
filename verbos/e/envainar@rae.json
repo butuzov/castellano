@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=envainar",
+	"word" : "envainar",
+	"infinitivo" : "envainar",
+	"participio" : [ "envainado" ],
+	"gerundio" : [ "envainando" ],
+	"tenses" : {
+		"3" : [
+			[ "envaino" ],
+			[ "envainas", "envainás" ],
+			[ "envaina" ],
+			[ "envainamos" ],
+			[ "envaináis", "envainan" ],
+			[ "envainan" ]
+		],
+		"4" : [
+			[ "envainé" ],
+			[ "envainaste" ],
+			[ "envainó" ],
+			[ "envainamos" ],
+			[ "envainasteis", "envainaron" ],
+			[ "envainaron" ]
+		],
+		"5" : [
+			[ "envainaba" ],
+			[ "envainabas" ],
+			[ "envainaba" ],
+			[ "envainábamos" ],
+			[ "envainabais", "envainaban" ],
+			[ "envainaban" ]
+		],
+		"6" : [
+			[ "envainaría" ],
+			[ "envainarías" ],
+			[ "envainaría" ],
+			[ "envainaríamos" ],
+			[ "envainaríais", "envainarían" ],
+			[ "envainarían" ]
+		],
+		"7" : [
+			[ "envainaré" ],
+			[ "envainarás" ],
+			[ "envainará" ],
+			[ "envainaremos" ],
+			[ "envainaréis", "envainarán" ],
+			[ "envainarán" ]
+		],
+		"8" : [
+			[ "envaine" ],
+			[ "envaines" ],
+			[ "envaine" ],
+			[ "envainemos" ],
+			[ "envainéis", "envainen" ],
+			[ "envainen" ]
+		],
+		"9" : [
+			[ "envainara" ],
+			[ "envainaras" ],
+			[ "envainara" ],
+			[ "envaináramos" ],
+			[ "envainarais", "envainaran" ],
+			[ "envainaran" ]
+		],
+		"10" : [
+			[ "envainase" ],
+			[ "envainases" ],
+			[ "envainase" ],
+			[ "envainásemos" ],
+			[ "envainaseis", "envainasen" ],
+			[ "envainasen" ]
+		],
+		"11" : [
+			[ "envainare" ],
+			[ "envainares" ],
+			[ "envainare" ],
+			[ "envaináremos" ],
+			[ "envainareis", "envainaren" ],
+			[ "envainaren" ]
+		],
+		"12" : {
+			"1" : [ "envaina" ],
+			"2" : [ "envaine" ],
+			"3" : [ "envainemos" ],
+			"4" : [ "envainad" ],
+			"5" : [ "envainen" ]
+		}
+	}
+}

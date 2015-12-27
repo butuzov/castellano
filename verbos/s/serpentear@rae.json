@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=serpentear",
+	"word" : "serpentear",
+	"infinitivo" : "serpentear",
+	"participio" : [ "serpenteado" ],
+	"gerundio" : [ "serpenteando" ],
+	"tenses" : {
+		"3" : [
+			[ "serpenteo" ],
+			[ "serpenteas", "serpenteás" ],
+			[ "serpentea" ],
+			[ "serpenteamos" ],
+			[ "serpenteáis", "serpentean" ],
+			[ "serpentean" ]
+		],
+		"4" : [
+			[ "serpenteé" ],
+			[ "serpenteaste" ],
+			[ "serpenteó" ],
+			[ "serpenteamos" ],
+			[ "serpenteasteis", "serpentearon" ],
+			[ "serpentearon" ]
+		],
+		"5" : [
+			[ "serpenteaba" ],
+			[ "serpenteabas" ],
+			[ "serpenteaba" ],
+			[ "serpenteábamos" ],
+			[ "serpenteabais", "serpenteaban" ],
+			[ "serpenteaban" ]
+		],
+		"6" : [
+			[ "serpentearía" ],
+			[ "serpentearías" ],
+			[ "serpentearía" ],
+			[ "serpentearíamos" ],
+			[ "serpentearíais", "serpentearían" ],
+			[ "serpentearían" ]
+		],
+		"7" : [
+			[ "serpentearé" ],
+			[ "serpentearás" ],
+			[ "serpenteará" ],
+			[ "serpentearemos" ],
+			[ "serpentearéis", "serpentearán" ],
+			[ "serpentearán" ]
+		],
+		"8" : [
+			[ "serpentee" ],
+			[ "serpentees" ],
+			[ "serpentee" ],
+			[ "serpenteemos" ],
+			[ "serpenteéis", "serpenteen" ],
+			[ "serpenteen" ]
+		],
+		"9" : [
+			[ "serpenteara" ],
+			[ "serpentearas" ],
+			[ "serpenteara" ],
+			[ "serpenteáramos" ],
+			[ "serpentearais", "serpentearan" ],
+			[ "serpentearan" ]
+		],
+		"10" : [
+			[ "serpentease" ],
+			[ "serpenteases" ],
+			[ "serpentease" ],
+			[ "serpenteásemos" ],
+			[ "serpenteaseis", "serpenteasen" ],
+			[ "serpenteasen" ]
+		],
+		"11" : [
+			[ "serpenteare" ],
+			[ "serpenteares" ],
+			[ "serpenteare" ],
+			[ "serpenteáremos" ],
+			[ "serpenteareis", "serpentearen" ],
+			[ "serpentearen" ]
+		],
+		"12" : {
+			"1" : [ "serpentea" ],
+			"2" : [ "serpentee" ],
+			"3" : [ "serpenteemos" ],
+			"4" : [ "serpentead" ],
+			"5" : [ "serpenteen" ]
+		}
+	}
+}

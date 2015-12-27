@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fotografiar",
+	"word" : "fotografiar",
+	"infinitivo" : "fotografiar",
+	"participio" : [ "fotografiado" ],
+	"gerundio" : [ "fotografiando" ],
+	"tenses" : {
+		"3" : [
+			[ "fotografío" ],
+			[ "fotografías", "fotografiás" ],
+			[ "fotografía" ],
+			[ "fotografiamos" ],
+			[ "fotografiáis", "fotografían" ],
+			[ "fotografían" ]
+		],
+		"4" : [
+			[ "fotografié" ],
+			[ "fotografiaste" ],
+			[ "fotografió" ],
+			[ "fotografiamos" ],
+			[ "fotografiasteis", "fotografiaron" ],
+			[ "fotografiaron" ]
+		],
+		"5" : [
+			[ "fotografiaba" ],
+			[ "fotografiabas" ],
+			[ "fotografiaba" ],
+			[ "fotografiábamos" ],
+			[ "fotografiabais", "fotografiaban" ],
+			[ "fotografiaban" ]
+		],
+		"6" : [
+			[ "fotografiaría" ],
+			[ "fotografiarías" ],
+			[ "fotografiaría" ],
+			[ "fotografiaríamos" ],
+			[ "fotografiaríais", "fotografiarían" ],
+			[ "fotografiarían" ]
+		],
+		"7" : [
+			[ "fotografiaré" ],
+			[ "fotografiarás" ],
+			[ "fotografiará" ],
+			[ "fotografiaremos" ],
+			[ "fotografiaréis", "fotografiarán" ],
+			[ "fotografiarán" ]
+		],
+		"8" : [
+			[ "fotografíe" ],
+			[ "fotografíes" ],
+			[ "fotografíe" ],
+			[ "fotografiemos" ],
+			[ "fotografiéis", "fotografíen" ],
+			[ "fotografíen" ]
+		],
+		"9" : [
+			[ "fotografiara" ],
+			[ "fotografiaras" ],
+			[ "fotografiara" ],
+			[ "fotografiáramos" ],
+			[ "fotografiarais", "fotografiaran" ],
+			[ "fotografiaran" ]
+		],
+		"10" : [
+			[ "fotografiase" ],
+			[ "fotografiases" ],
+			[ "fotografiase" ],
+			[ "fotografiásemos" ],
+			[ "fotografiaseis", "fotografiasen" ],
+			[ "fotografiasen" ]
+		],
+		"11" : [
+			[ "fotografiare" ],
+			[ "fotografiares" ],
+			[ "fotografiare" ],
+			[ "fotografiáremos" ],
+			[ "fotografiareis", "fotografiaren" ],
+			[ "fotografiaren" ]
+		],
+		"12" : {
+			"1" : [ "fotografía" ],
+			"2" : [ "fotografíe" ],
+			"3" : [ "fotografiemos" ],
+			"4" : [ "fotografiad" ],
+			"5" : [ "fotografíen" ]
+		}
+	}
+}

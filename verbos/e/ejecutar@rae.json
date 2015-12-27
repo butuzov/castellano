@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ejecutar",
+	"word" : "ejecutar",
+	"infinitivo" : "ejecutar",
+	"participio" : [ "ejecutado" ],
+	"gerundio" : [ "ejecutando" ],
+	"tenses" : {
+		"3" : [
+			[ "ejecuto" ],
+			[ "ejecutas", "ejecutás" ],
+			[ "ejecuta" ],
+			[ "ejecutamos" ],
+			[ "ejecutáis", "ejecutan" ],
+			[ "ejecutan" ]
+		],
+		"4" : [
+			[ "ejecuté" ],
+			[ "ejecutaste" ],
+			[ "ejecutó" ],
+			[ "ejecutamos" ],
+			[ "ejecutasteis", "ejecutaron" ],
+			[ "ejecutaron" ]
+		],
+		"5" : [
+			[ "ejecutaba" ],
+			[ "ejecutabas" ],
+			[ "ejecutaba" ],
+			[ "ejecutábamos" ],
+			[ "ejecutabais", "ejecutaban" ],
+			[ "ejecutaban" ]
+		],
+		"6" : [
+			[ "ejecutaría" ],
+			[ "ejecutarías" ],
+			[ "ejecutaría" ],
+			[ "ejecutaríamos" ],
+			[ "ejecutaríais", "ejecutarían" ],
+			[ "ejecutarían" ]
+		],
+		"7" : [
+			[ "ejecutaré" ],
+			[ "ejecutarás" ],
+			[ "ejecutará" ],
+			[ "ejecutaremos" ],
+			[ "ejecutaréis", "ejecutarán" ],
+			[ "ejecutarán" ]
+		],
+		"8" : [
+			[ "ejecute" ],
+			[ "ejecutes" ],
+			[ "ejecute" ],
+			[ "ejecutemos" ],
+			[ "ejecutéis", "ejecuten" ],
+			[ "ejecuten" ]
+		],
+		"9" : [
+			[ "ejecutara" ],
+			[ "ejecutaras" ],
+			[ "ejecutara" ],
+			[ "ejecutáramos" ],
+			[ "ejecutarais", "ejecutaran" ],
+			[ "ejecutaran" ]
+		],
+		"10" : [
+			[ "ejecutase" ],
+			[ "ejecutases" ],
+			[ "ejecutase" ],
+			[ "ejecutásemos" ],
+			[ "ejecutaseis", "ejecutasen" ],
+			[ "ejecutasen" ]
+		],
+		"11" : [
+			[ "ejecutare" ],
+			[ "ejecutares" ],
+			[ "ejecutare" ],
+			[ "ejecutáremos" ],
+			[ "ejecutareis", "ejecutaren" ],
+			[ "ejecutaren" ]
+		],
+		"12" : {
+			"1" : [ "ejecuta" ],
+			"2" : [ "ejecute" ],
+			"3" : [ "ejecutemos" ],
+			"4" : [ "ejecutad" ],
+			"5" : [ "ejecuten" ]
+		}
+	}
+}

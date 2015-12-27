@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emplear",
+	"word" : "emplear",
+	"infinitivo" : "emplear",
+	"participio" : [ "empleado" ],
+	"gerundio" : [ "empleando" ],
+	"tenses" : {
+		"3" : [
+			[ "empleo" ],
+			[ "empleas", "empleás" ],
+			[ "emplea" ],
+			[ "empleamos" ],
+			[ "empleáis", "emplean" ],
+			[ "emplean" ]
+		],
+		"4" : [
+			[ "empleé" ],
+			[ "empleaste" ],
+			[ "empleó" ],
+			[ "empleamos" ],
+			[ "empleasteis", "emplearon" ],
+			[ "emplearon" ]
+		],
+		"5" : [
+			[ "empleaba" ],
+			[ "empleabas" ],
+			[ "empleaba" ],
+			[ "empleábamos" ],
+			[ "empleabais", "empleaban" ],
+			[ "empleaban" ]
+		],
+		"6" : [
+			[ "emplearía" ],
+			[ "emplearías" ],
+			[ "emplearía" ],
+			[ "emplearíamos" ],
+			[ "emplearíais", "emplearían" ],
+			[ "emplearían" ]
+		],
+		"7" : [
+			[ "emplearé" ],
+			[ "emplearás" ],
+			[ "empleará" ],
+			[ "emplearemos" ],
+			[ "emplearéis", "emplearán" ],
+			[ "emplearán" ]
+		],
+		"8" : [
+			[ "emplee" ],
+			[ "emplees" ],
+			[ "emplee" ],
+			[ "empleemos" ],
+			[ "empleéis", "empleen" ],
+			[ "empleen" ]
+		],
+		"9" : [
+			[ "empleara" ],
+			[ "emplearas" ],
+			[ "empleara" ],
+			[ "empleáramos" ],
+			[ "emplearais", "emplearan" ],
+			[ "emplearan" ]
+		],
+		"10" : [
+			[ "emplease" ],
+			[ "empleases" ],
+			[ "emplease" ],
+			[ "empleásemos" ],
+			[ "empleaseis", "empleasen" ],
+			[ "empleasen" ]
+		],
+		"11" : [
+			[ "empleare" ],
+			[ "empleares" ],
+			[ "empleare" ],
+			[ "empleáremos" ],
+			[ "empleareis", "emplearen" ],
+			[ "emplearen" ]
+		],
+		"12" : {
+			"1" : [ "emplea" ],
+			"2" : [ "emplee" ],
+			"3" : [ "empleemos" ],
+			"4" : [ "emplead" ],
+			"5" : [ "empleen" ]
+		}
+	}
+}

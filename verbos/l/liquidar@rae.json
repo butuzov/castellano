@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=liquidar",
+	"word" : "liquidar",
+	"infinitivo" : "liquidar",
+	"participio" : [ "liquidado" ],
+	"gerundio" : [ "liquidando" ],
+	"tenses" : {
+		"3" : [
+			[ "liquido" ],
+			[ "liquidas", "liquidás" ],
+			[ "liquida" ],
+			[ "liquidamos" ],
+			[ "liquidáis", "liquidan" ],
+			[ "liquidan" ]
+		],
+		"4" : [
+			[ "liquidé" ],
+			[ "liquidaste" ],
+			[ "liquidó" ],
+			[ "liquidamos" ],
+			[ "liquidasteis", "liquidaron" ],
+			[ "liquidaron" ]
+		],
+		"5" : [
+			[ "liquidaba" ],
+			[ "liquidabas" ],
+			[ "liquidaba" ],
+			[ "liquidábamos" ],
+			[ "liquidabais", "liquidaban" ],
+			[ "liquidaban" ]
+		],
+		"6" : [
+			[ "liquidaría" ],
+			[ "liquidarías" ],
+			[ "liquidaría" ],
+			[ "liquidaríamos" ],
+			[ "liquidaríais", "liquidarían" ],
+			[ "liquidarían" ]
+		],
+		"7" : [
+			[ "liquidaré" ],
+			[ "liquidarás" ],
+			[ "liquidará" ],
+			[ "liquidaremos" ],
+			[ "liquidaréis", "liquidarán" ],
+			[ "liquidarán" ]
+		],
+		"8" : [
+			[ "liquide" ],
+			[ "liquides" ],
+			[ "liquide" ],
+			[ "liquidemos" ],
+			[ "liquidéis", "liquiden" ],
+			[ "liquiden" ]
+		],
+		"9" : [
+			[ "liquidara" ],
+			[ "liquidaras" ],
+			[ "liquidara" ],
+			[ "liquidáramos" ],
+			[ "liquidarais", "liquidaran" ],
+			[ "liquidaran" ]
+		],
+		"10" : [
+			[ "liquidase" ],
+			[ "liquidases" ],
+			[ "liquidase" ],
+			[ "liquidásemos" ],
+			[ "liquidaseis", "liquidasen" ],
+			[ "liquidasen" ]
+		],
+		"11" : [
+			[ "liquidare" ],
+			[ "liquidares" ],
+			[ "liquidare" ],
+			[ "liquidáremos" ],
+			[ "liquidareis", "liquidaren" ],
+			[ "liquidaren" ]
+		],
+		"12" : {
+			"1" : [ "liquida" ],
+			"2" : [ "liquide" ],
+			"3" : [ "liquidemos" ],
+			"4" : [ "liquidad" ],
+			"5" : [ "liquiden" ]
+		}
+	}
+}

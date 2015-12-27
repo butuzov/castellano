@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despiezar",
+	"word" : "despiezar",
+	"infinitivo" : "despiezar",
+	"participio" : [ "despiezado" ],
+	"gerundio" : [ "despiezando" ],
+	"tenses" : {
+		"3" : [
+			[ "despiezo" ],
+			[ "despiezas", "despiezás" ],
+			[ "despieza" ],
+			[ "despiezamos" ],
+			[ "despiezáis", "despiezan" ],
+			[ "despiezan" ]
+		],
+		"4" : [
+			[ "despiecé" ],
+			[ "despiezaste" ],
+			[ "despiezó" ],
+			[ "despiezamos" ],
+			[ "despiezasteis", "despiezaron" ],
+			[ "despiezaron" ]
+		],
+		"5" : [
+			[ "despiezaba" ],
+			[ "despiezabas" ],
+			[ "despiezaba" ],
+			[ "despiezábamos" ],
+			[ "despiezabais", "despiezaban" ],
+			[ "despiezaban" ]
+		],
+		"6" : [
+			[ "despiezaría" ],
+			[ "despiezarías" ],
+			[ "despiezaría" ],
+			[ "despiezaríamos" ],
+			[ "despiezaríais", "despiezarían" ],
+			[ "despiezarían" ]
+		],
+		"7" : [
+			[ "despiezaré" ],
+			[ "despiezarás" ],
+			[ "despiezará" ],
+			[ "despiezaremos" ],
+			[ "despiezaréis", "despiezarán" ],
+			[ "despiezarán" ]
+		],
+		"8" : [
+			[ "despiece" ],
+			[ "despieces" ],
+			[ "despiece" ],
+			[ "despiecemos" ],
+			[ "despiecéis", "despiecen" ],
+			[ "despiecen" ]
+		],
+		"9" : [
+			[ "despiezara" ],
+			[ "despiezaras" ],
+			[ "despiezara" ],
+			[ "despiezáramos" ],
+			[ "despiezarais", "despiezaran" ],
+			[ "despiezaran" ]
+		],
+		"10" : [
+			[ "despiezase" ],
+			[ "despiezases" ],
+			[ "despiezase" ],
+			[ "despiezásemos" ],
+			[ "despiezaseis", "despiezasen" ],
+			[ "despiezasen" ]
+		],
+		"11" : [
+			[ "despiezare" ],
+			[ "despiezares" ],
+			[ "despiezare" ],
+			[ "despiezáremos" ],
+			[ "despiezareis", "despiezaren" ],
+			[ "despiezaren" ]
+		],
+		"12" : {
+			"1" : [ "despieza" ],
+			"2" : [ "despiece" ],
+			"3" : [ "despiecemos" ],
+			"4" : [ "despiezad" ],
+			"5" : [ "despiecen" ]
+		}
+	}
+}

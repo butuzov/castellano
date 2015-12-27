@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=precintar",
+	"word" : "precintar",
+	"infinitivo" : "precintar",
+	"participio" : [ "precintado" ],
+	"gerundio" : [ "precintando" ],
+	"tenses" : {
+		"3" : [
+			[ "precinto" ],
+			[ "precintas", "precintás" ],
+			[ "precinta" ],
+			[ "precintamos" ],
+			[ "precintáis", "precintan" ],
+			[ "precintan" ]
+		],
+		"4" : [
+			[ "precinté" ],
+			[ "precintaste" ],
+			[ "precintó" ],
+			[ "precintamos" ],
+			[ "precintasteis", "precintaron" ],
+			[ "precintaron" ]
+		],
+		"5" : [
+			[ "precintaba" ],
+			[ "precintabas" ],
+			[ "precintaba" ],
+			[ "precintábamos" ],
+			[ "precintabais", "precintaban" ],
+			[ "precintaban" ]
+		],
+		"6" : [
+			[ "precintaría" ],
+			[ "precintarías" ],
+			[ "precintaría" ],
+			[ "precintaríamos" ],
+			[ "precintaríais", "precintarían" ],
+			[ "precintarían" ]
+		],
+		"7" : [
+			[ "precintaré" ],
+			[ "precintarás" ],
+			[ "precintará" ],
+			[ "precintaremos" ],
+			[ "precintaréis", "precintarán" ],
+			[ "precintarán" ]
+		],
+		"8" : [
+			[ "precinte" ],
+			[ "precintes" ],
+			[ "precinte" ],
+			[ "precintemos" ],
+			[ "precintéis", "precinten" ],
+			[ "precinten" ]
+		],
+		"9" : [
+			[ "precintara" ],
+			[ "precintaras" ],
+			[ "precintara" ],
+			[ "precintáramos" ],
+			[ "precintarais", "precintaran" ],
+			[ "precintaran" ]
+		],
+		"10" : [
+			[ "precintase" ],
+			[ "precintases" ],
+			[ "precintase" ],
+			[ "precintásemos" ],
+			[ "precintaseis", "precintasen" ],
+			[ "precintasen" ]
+		],
+		"11" : [
+			[ "precintare" ],
+			[ "precintares" ],
+			[ "precintare" ],
+			[ "precintáremos" ],
+			[ "precintareis", "precintaren" ],
+			[ "precintaren" ]
+		],
+		"12" : {
+			"1" : [ "precinta" ],
+			"2" : [ "precinte" ],
+			"3" : [ "precintemos" ],
+			"4" : [ "precintad" ],
+			"5" : [ "precinten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=señalar",
+	"word" : "señalar",
+	"infinitivo" : "señalar",
+	"participio" : [ "señalado" ],
+	"gerundio" : [ "señalando" ],
+	"tenses" : {
+		"3" : [
+			[ "señalo" ],
+			[ "señalas", "señalás" ],
+			[ "señala" ],
+			[ "señalamos" ],
+			[ "señaláis", "señalan" ],
+			[ "señalan" ]
+		],
+		"4" : [
+			[ "señalé" ],
+			[ "señalaste" ],
+			[ "señaló" ],
+			[ "señalamos" ],
+			[ "señalasteis", "señalaron" ],
+			[ "señalaron" ]
+		],
+		"5" : [
+			[ "señalaba" ],
+			[ "señalabas" ],
+			[ "señalaba" ],
+			[ "señalábamos" ],
+			[ "señalabais", "señalaban" ],
+			[ "señalaban" ]
+		],
+		"6" : [
+			[ "señalaría" ],
+			[ "señalarías" ],
+			[ "señalaría" ],
+			[ "señalaríamos" ],
+			[ "señalaríais", "señalarían" ],
+			[ "señalarían" ]
+		],
+		"7" : [
+			[ "señalaré" ],
+			[ "señalarás" ],
+			[ "señalará" ],
+			[ "señalaremos" ],
+			[ "señalaréis", "señalarán" ],
+			[ "señalarán" ]
+		],
+		"8" : [
+			[ "señale" ],
+			[ "señales" ],
+			[ "señale" ],
+			[ "señalemos" ],
+			[ "señaléis", "señalen" ],
+			[ "señalen" ]
+		],
+		"9" : [
+			[ "señalara" ],
+			[ "señalaras" ],
+			[ "señalara" ],
+			[ "señaláramos" ],
+			[ "señalarais", "señalaran" ],
+			[ "señalaran" ]
+		],
+		"10" : [
+			[ "señalase" ],
+			[ "señalases" ],
+			[ "señalase" ],
+			[ "señalásemos" ],
+			[ "señalaseis", "señalasen" ],
+			[ "señalasen" ]
+		],
+		"11" : [
+			[ "señalare" ],
+			[ "señalares" ],
+			[ "señalare" ],
+			[ "señaláremos" ],
+			[ "señalareis", "señalaren" ],
+			[ "señalaren" ]
+		],
+		"12" : {
+			"1" : [ "señala" ],
+			"2" : [ "señale" ],
+			"3" : [ "señalemos" ],
+			"4" : [ "señalad" ],
+			"5" : [ "señalen" ]
+		}
+	}
+}

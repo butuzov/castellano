@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encallar",
+	"word" : "encallar",
+	"infinitivo" : "encallar",
+	"participio" : [ "encallado" ],
+	"gerundio" : [ "encallando" ],
+	"tenses" : {
+		"3" : [
+			[ "encallo" ],
+			[ "encallas", "encallás" ],
+			[ "encalla" ],
+			[ "encallamos" ],
+			[ "encalláis", "encallan" ],
+			[ "encallan" ]
+		],
+		"4" : [
+			[ "encallé" ],
+			[ "encallaste" ],
+			[ "encalló" ],
+			[ "encallamos" ],
+			[ "encallasteis", "encallaron" ],
+			[ "encallaron" ]
+		],
+		"5" : [
+			[ "encallaba" ],
+			[ "encallabas" ],
+			[ "encallaba" ],
+			[ "encallábamos" ],
+			[ "encallabais", "encallaban" ],
+			[ "encallaban" ]
+		],
+		"6" : [
+			[ "encallaría" ],
+			[ "encallarías" ],
+			[ "encallaría" ],
+			[ "encallaríamos" ],
+			[ "encallaríais", "encallarían" ],
+			[ "encallarían" ]
+		],
+		"7" : [
+			[ "encallaré" ],
+			[ "encallarás" ],
+			[ "encallará" ],
+			[ "encallaremos" ],
+			[ "encallaréis", "encallarán" ],
+			[ "encallarán" ]
+		],
+		"8" : [
+			[ "encalle" ],
+			[ "encalles" ],
+			[ "encalle" ],
+			[ "encallemos" ],
+			[ "encalléis", "encallen" ],
+			[ "encallen" ]
+		],
+		"9" : [
+			[ "encallara" ],
+			[ "encallaras" ],
+			[ "encallara" ],
+			[ "encalláramos" ],
+			[ "encallarais", "encallaran" ],
+			[ "encallaran" ]
+		],
+		"10" : [
+			[ "encallase" ],
+			[ "encallases" ],
+			[ "encallase" ],
+			[ "encallásemos" ],
+			[ "encallaseis", "encallasen" ],
+			[ "encallasen" ]
+		],
+		"11" : [
+			[ "encallare" ],
+			[ "encallares" ],
+			[ "encallare" ],
+			[ "encalláremos" ],
+			[ "encallareis", "encallaren" ],
+			[ "encallaren" ]
+		],
+		"12" : {
+			"1" : [ "encalla" ],
+			"2" : [ "encalle" ],
+			"3" : [ "encallemos" ],
+			"4" : [ "encallad" ],
+			"5" : [ "encallen" ]
+		}
+	}
+}

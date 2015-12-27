@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empeller",
+	"word" : "empeller",
+	"infinitivo" : "empeller",
+	"participio" : [ "empellido" ],
+	"gerundio" : [ "empellendo" ],
+	"tenses" : {
+		"3" : [
+			[ "empello" ],
+			[ "empelles", "empellés" ],
+			[ "empelle" ],
+			[ "empellemos" ],
+			[ "empelléis", "empellen" ],
+			[ "empellen" ]
+		],
+		"4" : [
+			[ "empellí" ],
+			[ "empelliste" ],
+			[ "empelló" ],
+			[ "empellimos" ],
+			[ "empellisteis", "empelleron" ],
+			[ "empelleron" ]
+		],
+		"5" : [
+			[ "empellía" ],
+			[ "empellías" ],
+			[ "empellía" ],
+			[ "empellíamos" ],
+			[ "empellíais", "empellían" ],
+			[ "empellían" ]
+		],
+		"6" : [
+			[ "empellería" ],
+			[ "empellerías" ],
+			[ "empellería" ],
+			[ "empelleríamos" ],
+			[ "empelleríais", "empellerían" ],
+			[ "empellerían" ]
+		],
+		"7" : [
+			[ "empelleré" ],
+			[ "empellerás" ],
+			[ "empellerá" ],
+			[ "empelleremos" ],
+			[ "empelleréis", "empellerán" ],
+			[ "empellerán" ]
+		],
+		"8" : [
+			[ "empella" ],
+			[ "empellas" ],
+			[ "empella" ],
+			[ "empellamos" ],
+			[ "empelláis", "empellan" ],
+			[ "empellan" ]
+		],
+		"9" : [
+			[ "empellera" ],
+			[ "empelleras" ],
+			[ "empellera" ],
+			[ "empelléramos" ],
+			[ "empellerais", "empelleran" ],
+			[ "empelleran" ]
+		],
+		"10" : [
+			[ "empellese" ],
+			[ "empelleses" ],
+			[ "empellese" ],
+			[ "empellésemos" ],
+			[ "empelleseis", "empellesen" ],
+			[ "empellesen" ]
+		],
+		"11" : [
+			[ "empellere" ],
+			[ "empelleres" ],
+			[ "empellere" ],
+			[ "empelléremos" ],
+			[ "empellereis", "empelleren" ],
+			[ "empelleren" ]
+		],
+		"12" : {
+			"1" : [ "empelle" ],
+			"2" : [ "empella" ],
+			"3" : [ "empellamos" ],
+			"4" : [ "empelled" ],
+			"5" : [ "empellan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adivinar",
+	"word" : "adivinar",
+	"infinitivo" : "adivinar",
+	"participio" : [ "adivinado" ],
+	"gerundio" : [ "adivinando" ],
+	"tenses" : {
+		"3" : [
+			[ "adivino" ],
+			[ "adivinas", "adivinás" ],
+			[ "adivina" ],
+			[ "adivinamos" ],
+			[ "adivináis", "adivinan" ],
+			[ "adivinan" ]
+		],
+		"4" : [
+			[ "adiviné" ],
+			[ "adivinaste" ],
+			[ "adivinó" ],
+			[ "adivinamos" ],
+			[ "adivinasteis", "adivinaron" ],
+			[ "adivinaron" ]
+		],
+		"5" : [
+			[ "adivinaba" ],
+			[ "adivinabas" ],
+			[ "adivinaba" ],
+			[ "adivinábamos" ],
+			[ "adivinabais", "adivinaban" ],
+			[ "adivinaban" ]
+		],
+		"6" : [
+			[ "adivinaría" ],
+			[ "adivinarías" ],
+			[ "adivinaría" ],
+			[ "adivinaríamos" ],
+			[ "adivinaríais", "adivinarían" ],
+			[ "adivinarían" ]
+		],
+		"7" : [
+			[ "adivinaré" ],
+			[ "adivinarás" ],
+			[ "adivinará" ],
+			[ "adivinaremos" ],
+			[ "adivinaréis", "adivinarán" ],
+			[ "adivinarán" ]
+		],
+		"8" : [
+			[ "adivine" ],
+			[ "adivines" ],
+			[ "adivine" ],
+			[ "adivinemos" ],
+			[ "adivinéis", "adivinen" ],
+			[ "adivinen" ]
+		],
+		"9" : [
+			[ "adivinara" ],
+			[ "adivinaras" ],
+			[ "adivinara" ],
+			[ "adivináramos" ],
+			[ "adivinarais", "adivinaran" ],
+			[ "adivinaran" ]
+		],
+		"10" : [
+			[ "adivinase" ],
+			[ "adivinases" ],
+			[ "adivinase" ],
+			[ "adivinásemos" ],
+			[ "adivinaseis", "adivinasen" ],
+			[ "adivinasen" ]
+		],
+		"11" : [
+			[ "adivinare" ],
+			[ "adivinares" ],
+			[ "adivinare" ],
+			[ "adivináremos" ],
+			[ "adivinareis", "adivinaren" ],
+			[ "adivinaren" ]
+		],
+		"12" : {
+			"1" : [ "adivina" ],
+			"2" : [ "adivine" ],
+			"3" : [ "adivinemos" ],
+			"4" : [ "adivinad" ],
+			"5" : [ "adivinen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=copar",
+	"word" : "copar",
+	"infinitivo" : "copar",
+	"participio" : [ "copado" ],
+	"gerundio" : [ "copando" ],
+	"tenses" : {
+		"3" : [
+			[ "copo" ],
+			[ "copas", "copás" ],
+			[ "copa" ],
+			[ "copamos" ],
+			[ "copáis", "copan" ],
+			[ "copan" ]
+		],
+		"4" : [
+			[ "copé" ],
+			[ "copaste" ],
+			[ "copó" ],
+			[ "copamos" ],
+			[ "copasteis", "coparon" ],
+			[ "coparon" ]
+		],
+		"5" : [
+			[ "copaba" ],
+			[ "copabas" ],
+			[ "copaba" ],
+			[ "copábamos" ],
+			[ "copabais", "copaban" ],
+			[ "copaban" ]
+		],
+		"6" : [
+			[ "coparía" ],
+			[ "coparías" ],
+			[ "coparía" ],
+			[ "coparíamos" ],
+			[ "coparíais", "coparían" ],
+			[ "coparían" ]
+		],
+		"7" : [
+			[ "coparé" ],
+			[ "coparás" ],
+			[ "copará" ],
+			[ "coparemos" ],
+			[ "coparéis", "coparán" ],
+			[ "coparán" ]
+		],
+		"8" : [
+			[ "cope" ],
+			[ "copes" ],
+			[ "cope" ],
+			[ "copemos" ],
+			[ "copéis", "copen" ],
+			[ "copen" ]
+		],
+		"9" : [
+			[ "copara" ],
+			[ "coparas" ],
+			[ "copara" ],
+			[ "copáramos" ],
+			[ "coparais", "coparan" ],
+			[ "coparan" ]
+		],
+		"10" : [
+			[ "copase" ],
+			[ "copases" ],
+			[ "copase" ],
+			[ "copásemos" ],
+			[ "copaseis", "copasen" ],
+			[ "copasen" ]
+		],
+		"11" : [
+			[ "copare" ],
+			[ "copares" ],
+			[ "copare" ],
+			[ "copáremos" ],
+			[ "copareis", "coparen" ],
+			[ "coparen" ]
+		],
+		"12" : {
+			"1" : [ "copa" ],
+			"2" : [ "cope" ],
+			"3" : [ "copemos" ],
+			"4" : [ "copad" ],
+			"5" : [ "copen" ]
+		}
+	}
+}

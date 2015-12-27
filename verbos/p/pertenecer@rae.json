@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pertenecer",
+	"word" : "pertenecer",
+	"infinitivo" : "pertenecer",
+	"participio" : [ "pertenecido" ],
+	"gerundio" : [ "perteneciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "pertenezco" ],
+			[ "perteneces", "pertenecés" ],
+			[ "pertenece" ],
+			[ "pertenecemos" ],
+			[ "pertenecéis", "pertenecen" ],
+			[ "pertenecen" ]
+		],
+		"4" : [
+			[ "pertenecí" ],
+			[ "perteneciste" ],
+			[ "perteneció" ],
+			[ "pertenecimos" ],
+			[ "pertenecisteis", "pertenecieron" ],
+			[ "pertenecieron" ]
+		],
+		"5" : [
+			[ "pertenecía" ],
+			[ "pertenecías" ],
+			[ "pertenecía" ],
+			[ "pertenecíamos" ],
+			[ "pertenecíais", "pertenecían" ],
+			[ "pertenecían" ]
+		],
+		"6" : [
+			[ "pertenecería" ],
+			[ "pertenecerías" ],
+			[ "pertenecería" ],
+			[ "perteneceríamos" ],
+			[ "perteneceríais", "pertenecerían" ],
+			[ "pertenecerían" ]
+		],
+		"7" : [
+			[ "perteneceré" ],
+			[ "pertenecerás" ],
+			[ "pertenecerá" ],
+			[ "perteneceremos" ],
+			[ "perteneceréis", "pertenecerán" ],
+			[ "pertenecerán" ]
+		],
+		"8" : [
+			[ "pertenezca" ],
+			[ "pertenezcas" ],
+			[ "pertenezca" ],
+			[ "pertenezcamos" ],
+			[ "pertenezcáis", "pertenezcan" ],
+			[ "pertenezcan" ]
+		],
+		"9" : [
+			[ "perteneciera" ],
+			[ "pertenecieras" ],
+			[ "perteneciera" ],
+			[ "perteneciéramos" ],
+			[ "pertenecierais", "pertenecieran" ],
+			[ "pertenecieran" ]
+		],
+		"10" : [
+			[ "perteneciese" ],
+			[ "pertenecieses" ],
+			[ "perteneciese" ],
+			[ "perteneciésemos" ],
+			[ "pertenecieseis", "perteneciesen" ],
+			[ "perteneciesen" ]
+		],
+		"11" : [
+			[ "perteneciere" ],
+			[ "pertenecieres" ],
+			[ "perteneciere" ],
+			[ "perteneciéremos" ],
+			[ "perteneciereis", "pertenecieren" ],
+			[ "pertenecieren" ]
+		],
+		"12" : {
+			"1" : [ "pertenece" ],
+			"2" : [ "pertenezca" ],
+			"3" : [ "pertenezcamos" ],
+			"4" : [ "perteneced" ],
+			"5" : [ "pertenezcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disgustar",
+	"word" : "disgustar",
+	"infinitivo" : "disgustar",
+	"participio" : [ "disgustado" ],
+	"gerundio" : [ "disgustando" ],
+	"tenses" : {
+		"3" : [
+			[ "disgusto" ],
+			[ "disgustas", "disgustás" ],
+			[ "disgusta" ],
+			[ "disgustamos" ],
+			[ "disgustáis", "disgustan" ],
+			[ "disgustan" ]
+		],
+		"4" : [
+			[ "disgusté" ],
+			[ "disgustaste" ],
+			[ "disgustó" ],
+			[ "disgustamos" ],
+			[ "disgustasteis", "disgustaron" ],
+			[ "disgustaron" ]
+		],
+		"5" : [
+			[ "disgustaba" ],
+			[ "disgustabas" ],
+			[ "disgustaba" ],
+			[ "disgustábamos" ],
+			[ "disgustabais", "disgustaban" ],
+			[ "disgustaban" ]
+		],
+		"6" : [
+			[ "disgustaría" ],
+			[ "disgustarías" ],
+			[ "disgustaría" ],
+			[ "disgustaríamos" ],
+			[ "disgustaríais", "disgustarían" ],
+			[ "disgustarían" ]
+		],
+		"7" : [
+			[ "disgustaré" ],
+			[ "disgustarás" ],
+			[ "disgustará" ],
+			[ "disgustaremos" ],
+			[ "disgustaréis", "disgustarán" ],
+			[ "disgustarán" ]
+		],
+		"8" : [
+			[ "disguste" ],
+			[ "disgustes" ],
+			[ "disguste" ],
+			[ "disgustemos" ],
+			[ "disgustéis", "disgusten" ],
+			[ "disgusten" ]
+		],
+		"9" : [
+			[ "disgustara" ],
+			[ "disgustaras" ],
+			[ "disgustara" ],
+			[ "disgustáramos" ],
+			[ "disgustarais", "disgustaran" ],
+			[ "disgustaran" ]
+		],
+		"10" : [
+			[ "disgustase" ],
+			[ "disgustases" ],
+			[ "disgustase" ],
+			[ "disgustásemos" ],
+			[ "disgustaseis", "disgustasen" ],
+			[ "disgustasen" ]
+		],
+		"11" : [
+			[ "disgustare" ],
+			[ "disgustares" ],
+			[ "disgustare" ],
+			[ "disgustáremos" ],
+			[ "disgustareis", "disgustaren" ],
+			[ "disgustaren" ]
+		],
+		"12" : {
+			"1" : [ "disgusta" ],
+			"2" : [ "disguste" ],
+			"3" : [ "disgustemos" ],
+			"4" : [ "disgustad" ],
+			"5" : [ "disgusten" ]
+		}
+	}
+}

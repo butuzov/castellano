@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tundir",
+	"word" : "tundir",
+	"infinitivo" : "tundir",
+	"participio" : [ "tundido" ],
+	"gerundio" : [ "tundiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "tundo" ],
+			[ "tundes", "tundís" ],
+			[ "tunde" ],
+			[ "tundimos" ],
+			[ "tundís", "tunden" ],
+			[ "tunden" ]
+		],
+		"4" : [
+			[ "tundí" ],
+			[ "tundiste" ],
+			[ "tundió" ],
+			[ "tundimos" ],
+			[ "tundisteis", "tundieron" ],
+			[ "tundieron" ]
+		],
+		"5" : [
+			[ "tundía" ],
+			[ "tundías" ],
+			[ "tundía" ],
+			[ "tundíamos" ],
+			[ "tundíais", "tundían" ],
+			[ "tundían" ]
+		],
+		"6" : [
+			[ "tundiría" ],
+			[ "tundirías" ],
+			[ "tundiría" ],
+			[ "tundiríamos" ],
+			[ "tundiríais", "tundirían" ],
+			[ "tundirían" ]
+		],
+		"7" : [
+			[ "tundiré" ],
+			[ "tundirás" ],
+			[ "tundirá" ],
+			[ "tundiremos" ],
+			[ "tundiréis", "tundirán" ],
+			[ "tundirán" ]
+		],
+		"8" : [
+			[ "tunda" ],
+			[ "tundas" ],
+			[ "tunda" ],
+			[ "tundamos" ],
+			[ "tundáis", "tundan" ],
+			[ "tundan" ]
+		],
+		"9" : [
+			[ "tundiera" ],
+			[ "tundieras" ],
+			[ "tundiera" ],
+			[ "tundiéramos" ],
+			[ "tundierais", "tundieran" ],
+			[ "tundieran" ]
+		],
+		"10" : [
+			[ "tundiese" ],
+			[ "tundieses" ],
+			[ "tundiese" ],
+			[ "tundiésemos" ],
+			[ "tundieseis", "tundiesen" ],
+			[ "tundiesen" ]
+		],
+		"11" : [
+			[ "tundiere" ],
+			[ "tundieres" ],
+			[ "tundiere" ],
+			[ "tundiéremos" ],
+			[ "tundiereis", "tundieren" ],
+			[ "tundieren" ]
+		],
+		"12" : {
+			"1" : [ "tunde" ],
+			"2" : [ "tunda" ],
+			"3" : [ "tundamos" ],
+			"4" : [ "tundid" ],
+			"5" : [ "tundan" ]
+		}
+	}
+}

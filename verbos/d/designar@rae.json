@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=designar",
+	"word" : "designar",
+	"infinitivo" : "designar",
+	"participio" : [ "designado" ],
+	"gerundio" : [ "designando" ],
+	"tenses" : {
+		"3" : [
+			[ "designo" ],
+			[ "designas", "designás" ],
+			[ "designa" ],
+			[ "designamos" ],
+			[ "designáis", "designan" ],
+			[ "designan" ]
+		],
+		"4" : [
+			[ "designé" ],
+			[ "designaste" ],
+			[ "designó" ],
+			[ "designamos" ],
+			[ "designasteis", "designaron" ],
+			[ "designaron" ]
+		],
+		"5" : [
+			[ "designaba" ],
+			[ "designabas" ],
+			[ "designaba" ],
+			[ "designábamos" ],
+			[ "designabais", "designaban" ],
+			[ "designaban" ]
+		],
+		"6" : [
+			[ "designaría" ],
+			[ "designarías" ],
+			[ "designaría" ],
+			[ "designaríamos" ],
+			[ "designaríais", "designarían" ],
+			[ "designarían" ]
+		],
+		"7" : [
+			[ "designaré" ],
+			[ "designarás" ],
+			[ "designará" ],
+			[ "designaremos" ],
+			[ "designaréis", "designarán" ],
+			[ "designarán" ]
+		],
+		"8" : [
+			[ "designe" ],
+			[ "designes" ],
+			[ "designe" ],
+			[ "designemos" ],
+			[ "designéis", "designen" ],
+			[ "designen" ]
+		],
+		"9" : [
+			[ "designara" ],
+			[ "designaras" ],
+			[ "designara" ],
+			[ "designáramos" ],
+			[ "designarais", "designaran" ],
+			[ "designaran" ]
+		],
+		"10" : [
+			[ "designase" ],
+			[ "designases" ],
+			[ "designase" ],
+			[ "designásemos" ],
+			[ "designaseis", "designasen" ],
+			[ "designasen" ]
+		],
+		"11" : [
+			[ "designare" ],
+			[ "designares" ],
+			[ "designare" ],
+			[ "designáremos" ],
+			[ "designareis", "designaren" ],
+			[ "designaren" ]
+		],
+		"12" : {
+			"1" : [ "designa" ],
+			"2" : [ "designe" ],
+			"3" : [ "designemos" ],
+			"4" : [ "designad" ],
+			"5" : [ "designen" ]
+		}
+	}
+}

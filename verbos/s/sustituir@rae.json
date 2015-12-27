@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sustituir",
+	"word" : "sustituir",
+	"infinitivo" : "sustituir",
+	"participio" : [ "sustituido" ],
+	"gerundio" : [ "sustituyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sustituyo" ],
+			[ "sustituyes", "sustituís" ],
+			[ "sustituye" ],
+			[ "sustituimos" ],
+			[ "sustituís", "sustituyen" ],
+			[ "sustituyen" ]
+		],
+		"4" : [
+			[ "sustituí" ],
+			[ "sustituiste" ],
+			[ "sustituyó" ],
+			[ "sustituimos" ],
+			[ "sustituisteis", "sustituyeron" ],
+			[ "sustituyeron" ]
+		],
+		"5" : [
+			[ "sustituía" ],
+			[ "sustituías" ],
+			[ "sustituía" ],
+			[ "sustituíamos" ],
+			[ "sustituíais", "sustituían" ],
+			[ "sustituían" ]
+		],
+		"6" : [
+			[ "sustituiría" ],
+			[ "sustituirías" ],
+			[ "sustituiría" ],
+			[ "sustituiríamos" ],
+			[ "sustituiríais", "sustituirían" ],
+			[ "sustituirían" ]
+		],
+		"7" : [
+			[ "sustituiré" ],
+			[ "sustituirás" ],
+			[ "sustituirá" ],
+			[ "sustituiremos" ],
+			[ "sustituiréis", "sustituirán" ],
+			[ "sustituirán" ]
+		],
+		"8" : [
+			[ "sustituya" ],
+			[ "sustituyas" ],
+			[ "sustituya" ],
+			[ "sustituyamos" ],
+			[ "sustituyáis", "sustituyan" ],
+			[ "sustituyan" ]
+		],
+		"9" : [
+			[ "sustituyera" ],
+			[ "sustituyeras" ],
+			[ "sustituyera" ],
+			[ "sustituyéramos" ],
+			[ "sustituyerais", "sustituyeran" ],
+			[ "sustituyeran" ]
+		],
+		"10" : [
+			[ "sustituyese" ],
+			[ "sustituyeses" ],
+			[ "sustituyese" ],
+			[ "sustituyésemos" ],
+			[ "sustituyeseis", "sustituyesen" ],
+			[ "sustituyesen" ]
+		],
+		"11" : [
+			[ "sustituyere" ],
+			[ "sustituyeres" ],
+			[ "sustituyere" ],
+			[ "sustituyéremos" ],
+			[ "sustituyereis", "sustituyeren" ],
+			[ "sustituyeren" ]
+		],
+		"12" : {
+			"1" : [ "sustituye" ],
+			"2" : [ "sustituya" ],
+			"3" : [ "sustituyamos" ],
+			"4" : [ "sustituid" ],
+			"5" : [ "sustituyan" ]
+		}
+	}
+}

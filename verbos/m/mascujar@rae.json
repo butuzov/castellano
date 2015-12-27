@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mascujar",
+	"word" : "mascujar",
+	"infinitivo" : "mascujar",
+	"participio" : [ "mascujado" ],
+	"gerundio" : [ "mascujando" ],
+	"tenses" : {
+		"3" : [
+			[ "mascujo" ],
+			[ "mascujas", "mascujás" ],
+			[ "mascuja" ],
+			[ "mascujamos" ],
+			[ "mascujáis", "mascujan" ],
+			[ "mascujan" ]
+		],
+		"4" : [
+			[ "mascujé" ],
+			[ "mascujaste" ],
+			[ "mascujó" ],
+			[ "mascujamos" ],
+			[ "mascujasteis", "mascujaron" ],
+			[ "mascujaron" ]
+		],
+		"5" : [
+			[ "mascujaba" ],
+			[ "mascujabas" ],
+			[ "mascujaba" ],
+			[ "mascujábamos" ],
+			[ "mascujabais", "mascujaban" ],
+			[ "mascujaban" ]
+		],
+		"6" : [
+			[ "mascujaría" ],
+			[ "mascujarías" ],
+			[ "mascujaría" ],
+			[ "mascujaríamos" ],
+			[ "mascujaríais", "mascujarían" ],
+			[ "mascujarían" ]
+		],
+		"7" : [
+			[ "mascujaré" ],
+			[ "mascujarás" ],
+			[ "mascujará" ],
+			[ "mascujaremos" ],
+			[ "mascujaréis", "mascujarán" ],
+			[ "mascujarán" ]
+		],
+		"8" : [
+			[ "mascuje" ],
+			[ "mascujes" ],
+			[ "mascuje" ],
+			[ "mascujemos" ],
+			[ "mascujéis", "mascujen" ],
+			[ "mascujen" ]
+		],
+		"9" : [
+			[ "mascujara" ],
+			[ "mascujaras" ],
+			[ "mascujara" ],
+			[ "mascujáramos" ],
+			[ "mascujarais", "mascujaran" ],
+			[ "mascujaran" ]
+		],
+		"10" : [
+			[ "mascujase" ],
+			[ "mascujases" ],
+			[ "mascujase" ],
+			[ "mascujásemos" ],
+			[ "mascujaseis", "mascujasen" ],
+			[ "mascujasen" ]
+		],
+		"11" : [
+			[ "mascujare" ],
+			[ "mascujares" ],
+			[ "mascujare" ],
+			[ "mascujáremos" ],
+			[ "mascujareis", "mascujaren" ],
+			[ "mascujaren" ]
+		],
+		"12" : {
+			"1" : [ "mascuja" ],
+			"2" : [ "mascuje" ],
+			"3" : [ "mascujemos" ],
+			"4" : [ "mascujad" ],
+			"5" : [ "mascujen" ]
+		}
+	}
+}

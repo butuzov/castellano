@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tancar",
+	"word" : "tancar",
+	"infinitivo" : "tancar",
+	"participio" : [ "tancado" ],
+	"gerundio" : [ "tancando" ],
+	"tenses" : {
+		"3" : [
+			[ "tanco" ],
+			[ "tancas", "tancás" ],
+			[ "tanca" ],
+			[ "tancamos" ],
+			[ "tancáis", "tancan" ],
+			[ "tancan" ]
+		],
+		"4" : [
+			[ "tanqué" ],
+			[ "tancaste" ],
+			[ "tancó" ],
+			[ "tancamos" ],
+			[ "tancasteis", "tancaron" ],
+			[ "tancaron" ]
+		],
+		"5" : [
+			[ "tancaba" ],
+			[ "tancabas" ],
+			[ "tancaba" ],
+			[ "tancábamos" ],
+			[ "tancabais", "tancaban" ],
+			[ "tancaban" ]
+		],
+		"6" : [
+			[ "tancaría" ],
+			[ "tancarías" ],
+			[ "tancaría" ],
+			[ "tancaríamos" ],
+			[ "tancaríais", "tancarían" ],
+			[ "tancarían" ]
+		],
+		"7" : [
+			[ "tancaré" ],
+			[ "tancarás" ],
+			[ "tancará" ],
+			[ "tancaremos" ],
+			[ "tancaréis", "tancarán" ],
+			[ "tancarán" ]
+		],
+		"8" : [
+			[ "tanque" ],
+			[ "tanques" ],
+			[ "tanque" ],
+			[ "tanquemos" ],
+			[ "tanquéis", "tanquen" ],
+			[ "tanquen" ]
+		],
+		"9" : [
+			[ "tancara" ],
+			[ "tancaras" ],
+			[ "tancara" ],
+			[ "tancáramos" ],
+			[ "tancarais", "tancaran" ],
+			[ "tancaran" ]
+		],
+		"10" : [
+			[ "tancase" ],
+			[ "tancases" ],
+			[ "tancase" ],
+			[ "tancásemos" ],
+			[ "tancaseis", "tancasen" ],
+			[ "tancasen" ]
+		],
+		"11" : [
+			[ "tancare" ],
+			[ "tancares" ],
+			[ "tancare" ],
+			[ "tancáremos" ],
+			[ "tancareis", "tancaren" ],
+			[ "tancaren" ]
+		],
+		"12" : {
+			"1" : [ "tanca" ],
+			"2" : [ "tanque" ],
+			"3" : [ "tanquemos" ],
+			"4" : [ "tancad" ],
+			"5" : [ "tanquen" ]
+		}
+	}
+}

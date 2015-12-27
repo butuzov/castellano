@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=saquear",
+	"word" : "saquear",
+	"infinitivo" : "saquear",
+	"participio" : [ "saqueado" ],
+	"gerundio" : [ "saqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "saqueo" ],
+			[ "saqueas", "saqueás" ],
+			[ "saquea" ],
+			[ "saqueamos" ],
+			[ "saqueáis", "saquean" ],
+			[ "saquean" ]
+		],
+		"4" : [
+			[ "saqueé" ],
+			[ "saqueaste" ],
+			[ "saqueó" ],
+			[ "saqueamos" ],
+			[ "saqueasteis", "saquearon" ],
+			[ "saquearon" ]
+		],
+		"5" : [
+			[ "saqueaba" ],
+			[ "saqueabas" ],
+			[ "saqueaba" ],
+			[ "saqueábamos" ],
+			[ "saqueabais", "saqueaban" ],
+			[ "saqueaban" ]
+		],
+		"6" : [
+			[ "saquearía" ],
+			[ "saquearías" ],
+			[ "saquearía" ],
+			[ "saquearíamos" ],
+			[ "saquearíais", "saquearían" ],
+			[ "saquearían" ]
+		],
+		"7" : [
+			[ "saquearé" ],
+			[ "saquearás" ],
+			[ "saqueará" ],
+			[ "saquearemos" ],
+			[ "saquearéis", "saquearán" ],
+			[ "saquearán" ]
+		],
+		"8" : [
+			[ "saquee" ],
+			[ "saquees" ],
+			[ "saquee" ],
+			[ "saqueemos" ],
+			[ "saqueéis", "saqueen" ],
+			[ "saqueen" ]
+		],
+		"9" : [
+			[ "saqueara" ],
+			[ "saquearas" ],
+			[ "saqueara" ],
+			[ "saqueáramos" ],
+			[ "saquearais", "saquearan" ],
+			[ "saquearan" ]
+		],
+		"10" : [
+			[ "saquease" ],
+			[ "saqueases" ],
+			[ "saquease" ],
+			[ "saqueásemos" ],
+			[ "saqueaseis", "saqueasen" ],
+			[ "saqueasen" ]
+		],
+		"11" : [
+			[ "saqueare" ],
+			[ "saqueares" ],
+			[ "saqueare" ],
+			[ "saqueáremos" ],
+			[ "saqueareis", "saquearen" ],
+			[ "saquearen" ]
+		],
+		"12" : {
+			"1" : [ "saquea" ],
+			"2" : [ "saquee" ],
+			"3" : [ "saqueemos" ],
+			"4" : [ "saquead" ],
+			"5" : [ "saqueen" ]
+		}
+	}
+}

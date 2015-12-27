@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entumecer",
+	"word" : "entumecer",
+	"infinitivo" : "entumecer",
+	"participio" : [ "entumecido" ],
+	"gerundio" : [ "entumeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "entumezco" ],
+			[ "entumeces", "entumecés" ],
+			[ "entumece" ],
+			[ "entumecemos" ],
+			[ "entumecéis", "entumecen" ],
+			[ "entumecen" ]
+		],
+		"4" : [
+			[ "entumecí" ],
+			[ "entumeciste" ],
+			[ "entumeció" ],
+			[ "entumecimos" ],
+			[ "entumecisteis", "entumecieron" ],
+			[ "entumecieron" ]
+		],
+		"5" : [
+			[ "entumecía" ],
+			[ "entumecías" ],
+			[ "entumecía" ],
+			[ "entumecíamos" ],
+			[ "entumecíais", "entumecían" ],
+			[ "entumecían" ]
+		],
+		"6" : [
+			[ "entumecería" ],
+			[ "entumecerías" ],
+			[ "entumecería" ],
+			[ "entumeceríamos" ],
+			[ "entumeceríais", "entumecerían" ],
+			[ "entumecerían" ]
+		],
+		"7" : [
+			[ "entumeceré" ],
+			[ "entumecerás" ],
+			[ "entumecerá" ],
+			[ "entumeceremos" ],
+			[ "entumeceréis", "entumecerán" ],
+			[ "entumecerán" ]
+		],
+		"8" : [
+			[ "entumezca" ],
+			[ "entumezcas" ],
+			[ "entumezca" ],
+			[ "entumezcamos" ],
+			[ "entumezcáis", "entumezcan" ],
+			[ "entumezcan" ]
+		],
+		"9" : [
+			[ "entumeciera" ],
+			[ "entumecieras" ],
+			[ "entumeciera" ],
+			[ "entumeciéramos" ],
+			[ "entumecierais", "entumecieran" ],
+			[ "entumecieran" ]
+		],
+		"10" : [
+			[ "entumeciese" ],
+			[ "entumecieses" ],
+			[ "entumeciese" ],
+			[ "entumeciésemos" ],
+			[ "entumecieseis", "entumeciesen" ],
+			[ "entumeciesen" ]
+		],
+		"11" : [
+			[ "entumeciere" ],
+			[ "entumecieres" ],
+			[ "entumeciere" ],
+			[ "entumeciéremos" ],
+			[ "entumeciereis", "entumecieren" ],
+			[ "entumecieren" ]
+		],
+		"12" : {
+			"1" : [ "entumece" ],
+			"2" : [ "entumezca" ],
+			"3" : [ "entumezcamos" ],
+			"4" : [ "entumeced" ],
+			"5" : [ "entumezcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contraer",
+	"word" : "contraer",
+	"infinitivo" : "contraer",
+	"participio" : [ "contraído" ],
+	"gerundio" : [ "contrayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "contraigo" ],
+			[ "contraes", "contraés" ],
+			[ "contrae" ],
+			[ "contraemos" ],
+			[ "contraéis", "contraen" ],
+			[ "contraen" ]
+		],
+		"4" : [
+			[ "contraje" ],
+			[ "contrajiste" ],
+			[ "contrajo" ],
+			[ "contrajimos" ],
+			[ "contrajisteis", "contrajeron" ],
+			[ "contrajeron" ]
+		],
+		"5" : [
+			[ "contraía" ],
+			[ "contraías" ],
+			[ "contraía" ],
+			[ "contraíamos" ],
+			[ "contraíais", "contraían" ],
+			[ "contraían" ]
+		],
+		"6" : [
+			[ "contraería" ],
+			[ "contraerías" ],
+			[ "contraería" ],
+			[ "contraeríamos" ],
+			[ "contraeríais", "contraerían" ],
+			[ "contraerían" ]
+		],
+		"7" : [
+			[ "contraeré" ],
+			[ "contraerás" ],
+			[ "contraerá" ],
+			[ "contraeremos" ],
+			[ "contraeréis", "contraerán" ],
+			[ "contraerán" ]
+		],
+		"8" : [
+			[ "contraiga" ],
+			[ "contraigas" ],
+			[ "contraiga" ],
+			[ "contraigamos" ],
+			[ "contraigáis", "contraigan" ],
+			[ "contraigan" ]
+		],
+		"9" : [
+			[ "contrajera" ],
+			[ "contrajeras" ],
+			[ "contrajera" ],
+			[ "contrajéramos" ],
+			[ "contrajerais", "contrajeran" ],
+			[ "contrajeran" ]
+		],
+		"10" : [
+			[ "contrajese" ],
+			[ "contrajeses" ],
+			[ "contrajese" ],
+			[ "contrajésemos" ],
+			[ "contrajeseis", "contrajesen" ],
+			[ "contrajesen" ]
+		],
+		"11" : [
+			[ "contrajere" ],
+			[ "contrajeres" ],
+			[ "contrajere" ],
+			[ "contrajéremos" ],
+			[ "contrajereis", "contrajeren" ],
+			[ "contrajeren" ]
+		],
+		"12" : {
+			"1" : [ "contrae" ],
+			"2" : [ "contraiga" ],
+			"3" : [ "contraigamos" ],
+			"4" : [ "contraed" ],
+			"5" : [ "contraigan" ]
+		}
+	}
+}

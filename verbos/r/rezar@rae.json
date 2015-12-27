@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rezar",
+	"word" : "rezar",
+	"infinitivo" : "rezar",
+	"participio" : [ "rezado" ],
+	"gerundio" : [ "rezando" ],
+	"tenses" : {
+		"3" : [
+			[ "rezo" ],
+			[ "rezas", "rezás" ],
+			[ "reza" ],
+			[ "rezamos" ],
+			[ "rezáis", "rezan" ],
+			[ "rezan" ]
+		],
+		"4" : [
+			[ "recé" ],
+			[ "rezaste" ],
+			[ "rezó" ],
+			[ "rezamos" ],
+			[ "rezasteis", "rezaron" ],
+			[ "rezaron" ]
+		],
+		"5" : [
+			[ "rezaba" ],
+			[ "rezabas" ],
+			[ "rezaba" ],
+			[ "rezábamos" ],
+			[ "rezabais", "rezaban" ],
+			[ "rezaban" ]
+		],
+		"6" : [
+			[ "rezaría" ],
+			[ "rezarías" ],
+			[ "rezaría" ],
+			[ "rezaríamos" ],
+			[ "rezaríais", "rezarían" ],
+			[ "rezarían" ]
+		],
+		"7" : [
+			[ "rezaré" ],
+			[ "rezarás" ],
+			[ "rezará" ],
+			[ "rezaremos" ],
+			[ "rezaréis", "rezarán" ],
+			[ "rezarán" ]
+		],
+		"8" : [
+			[ "rece" ],
+			[ "reces" ],
+			[ "rece" ],
+			[ "recemos" ],
+			[ "recéis", "recen" ],
+			[ "recen" ]
+		],
+		"9" : [
+			[ "rezara" ],
+			[ "rezaras" ],
+			[ "rezara" ],
+			[ "rezáramos" ],
+			[ "rezarais", "rezaran" ],
+			[ "rezaran" ]
+		],
+		"10" : [
+			[ "rezase" ],
+			[ "rezases" ],
+			[ "rezase" ],
+			[ "rezásemos" ],
+			[ "rezaseis", "rezasen" ],
+			[ "rezasen" ]
+		],
+		"11" : [
+			[ "rezare" ],
+			[ "rezares" ],
+			[ "rezare" ],
+			[ "rezáremos" ],
+			[ "rezareis", "rezaren" ],
+			[ "rezaren" ]
+		],
+		"12" : {
+			"1" : [ "reza" ],
+			"2" : [ "rece" ],
+			"3" : [ "recemos" ],
+			"4" : [ "rezad" ],
+			"5" : [ "recen" ]
+		}
+	}
+}

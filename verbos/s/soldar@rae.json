@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=soldar",
+	"word" : "soldar",
+	"infinitivo" : "soldar",
+	"participio" : [ "soldado" ],
+	"gerundio" : [ "soldando" ],
+	"tenses" : {
+		"3" : [
+			[ "sueldo" ],
+			[ "sueldas", "soldás" ],
+			[ "suelda" ],
+			[ "soldamos" ],
+			[ "soldáis", "sueldan" ],
+			[ "sueldan" ]
+		],
+		"4" : [
+			[ "soldé" ],
+			[ "soldaste" ],
+			[ "soldó" ],
+			[ "soldamos" ],
+			[ "soldasteis", "soldaron" ],
+			[ "soldaron" ]
+		],
+		"5" : [
+			[ "soldaba" ],
+			[ "soldabas" ],
+			[ "soldaba" ],
+			[ "soldábamos" ],
+			[ "soldabais", "soldaban" ],
+			[ "soldaban" ]
+		],
+		"6" : [
+			[ "soldaría" ],
+			[ "soldarías" ],
+			[ "soldaría" ],
+			[ "soldaríamos" ],
+			[ "soldaríais", "soldarían" ],
+			[ "soldarían" ]
+		],
+		"7" : [
+			[ "soldaré" ],
+			[ "soldarás" ],
+			[ "soldará" ],
+			[ "soldaremos" ],
+			[ "soldaréis", "soldarán" ],
+			[ "soldarán" ]
+		],
+		"8" : [
+			[ "suelde" ],
+			[ "sueldes" ],
+			[ "suelde" ],
+			[ "soldemos" ],
+			[ "soldéis", "suelden" ],
+			[ "suelden" ]
+		],
+		"9" : [
+			[ "soldara" ],
+			[ "soldaras" ],
+			[ "soldara" ],
+			[ "soldáramos" ],
+			[ "soldarais", "soldaran" ],
+			[ "soldaran" ]
+		],
+		"10" : [
+			[ "soldase" ],
+			[ "soldases" ],
+			[ "soldase" ],
+			[ "soldásemos" ],
+			[ "soldaseis", "soldasen" ],
+			[ "soldasen" ]
+		],
+		"11" : [
+			[ "soldare" ],
+			[ "soldares" ],
+			[ "soldare" ],
+			[ "soldáremos" ],
+			[ "soldareis", "soldaren" ],
+			[ "soldaren" ]
+		],
+		"12" : {
+			"1" : [ "suelda" ],
+			"2" : [ "suelde" ],
+			"3" : [ "soldemos" ],
+			"4" : [ "soldad" ],
+			"5" : [ "suelden" ]
+		}
+	}
+}

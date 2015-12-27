@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=transitar",
+	"word" : "transitar",
+	"infinitivo" : "transitar",
+	"participio" : [ "transitado" ],
+	"gerundio" : [ "transitando" ],
+	"tenses" : {
+		"3" : [
+			[ "transito" ],
+			[ "transitas", "transitás" ],
+			[ "transita" ],
+			[ "transitamos" ],
+			[ "transitáis", "transitan" ],
+			[ "transitan" ]
+		],
+		"4" : [
+			[ "transité" ],
+			[ "transitaste" ],
+			[ "transitó" ],
+			[ "transitamos" ],
+			[ "transitasteis", "transitaron" ],
+			[ "transitaron" ]
+		],
+		"5" : [
+			[ "transitaba" ],
+			[ "transitabas" ],
+			[ "transitaba" ],
+			[ "transitábamos" ],
+			[ "transitabais", "transitaban" ],
+			[ "transitaban" ]
+		],
+		"6" : [
+			[ "transitaría" ],
+			[ "transitarías" ],
+			[ "transitaría" ],
+			[ "transitaríamos" ],
+			[ "transitaríais", "transitarían" ],
+			[ "transitarían" ]
+		],
+		"7" : [
+			[ "transitaré" ],
+			[ "transitarás" ],
+			[ "transitará" ],
+			[ "transitaremos" ],
+			[ "transitaréis", "transitarán" ],
+			[ "transitarán" ]
+		],
+		"8" : [
+			[ "transite" ],
+			[ "transites" ],
+			[ "transite" ],
+			[ "transitemos" ],
+			[ "transitéis", "transiten" ],
+			[ "transiten" ]
+		],
+		"9" : [
+			[ "transitara" ],
+			[ "transitaras" ],
+			[ "transitara" ],
+			[ "transitáramos" ],
+			[ "transitarais", "transitaran" ],
+			[ "transitaran" ]
+		],
+		"10" : [
+			[ "transitase" ],
+			[ "transitases" ],
+			[ "transitase" ],
+			[ "transitásemos" ],
+			[ "transitaseis", "transitasen" ],
+			[ "transitasen" ]
+		],
+		"11" : [
+			[ "transitare" ],
+			[ "transitares" ],
+			[ "transitare" ],
+			[ "transitáremos" ],
+			[ "transitareis", "transitaren" ],
+			[ "transitaren" ]
+		],
+		"12" : {
+			"1" : [ "transita" ],
+			"2" : [ "transite" ],
+			"3" : [ "transitemos" ],
+			"4" : [ "transitad" ],
+			"5" : [ "transiten" ]
+		}
+	}
+}

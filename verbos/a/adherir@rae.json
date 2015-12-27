@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adherir",
+	"word" : "adherir",
+	"infinitivo" : "adherir",
+	"participio" : [ "adherido" ],
+	"gerundio" : [ "adhiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "adhiero" ],
+			[ "adhieres", "adherís" ],
+			[ "adhiere" ],
+			[ "adherimos" ],
+			[ "adherís", "adhieren" ],
+			[ "adhieren" ]
+		],
+		"4" : [
+			[ "adherí" ],
+			[ "adheriste" ],
+			[ "adhirió" ],
+			[ "adherimos" ],
+			[ "adheristeis", "adhirieron" ],
+			[ "adhirieron" ]
+		],
+		"5" : [
+			[ "adhería" ],
+			[ "adherías" ],
+			[ "adhería" ],
+			[ "adheríamos" ],
+			[ "adheríais", "adherían" ],
+			[ "adherían" ]
+		],
+		"6" : [
+			[ "adheriría" ],
+			[ "adherirías" ],
+			[ "adheriría" ],
+			[ "adheriríamos" ],
+			[ "adheriríais", "adherirían" ],
+			[ "adherirían" ]
+		],
+		"7" : [
+			[ "adheriré" ],
+			[ "adherirás" ],
+			[ "adherirá" ],
+			[ "adheriremos" ],
+			[ "adheriréis", "adherirán" ],
+			[ "adherirán" ]
+		],
+		"8" : [
+			[ "adhiera" ],
+			[ "adhieras" ],
+			[ "adhiera" ],
+			[ "adhiramos" ],
+			[ "adhiráis", "adhieran" ],
+			[ "adhieran" ]
+		],
+		"9" : [
+			[ "adhiriera" ],
+			[ "adhirieras" ],
+			[ "adhiriera" ],
+			[ "adhiriéramos" ],
+			[ "adhirierais", "adhirieran" ],
+			[ "adhirieran" ]
+		],
+		"10" : [
+			[ "adhiriese" ],
+			[ "adhirieses" ],
+			[ "adhiriese" ],
+			[ "adhiriésemos" ],
+			[ "adhirieseis", "adhiriesen" ],
+			[ "adhiriesen" ]
+		],
+		"11" : [
+			[ "adhiriere" ],
+			[ "adhirieres" ],
+			[ "adhiriere" ],
+			[ "adhiriéremos" ],
+			[ "adhiriereis", "adhirieren" ],
+			[ "adhirieren" ]
+		],
+		"12" : {
+			"1" : [ "adhiere" ],
+			"2" : [ "adhiera" ],
+			"3" : [ "adhiramos" ],
+			"4" : [ "adherid" ],
+			"5" : [ "adhieran" ]
+		}
+	}
+}

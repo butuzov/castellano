@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=compactar",
+	"word" : "compactar",
+	"infinitivo" : "compactar",
+	"participio" : [ "compactado" ],
+	"gerundio" : [ "compactando" ],
+	"tenses" : {
+		"3" : [
+			[ "compacto" ],
+			[ "compactas", "compactás" ],
+			[ "compacta" ],
+			[ "compactamos" ],
+			[ "compactáis", "compactan" ],
+			[ "compactan" ]
+		],
+		"4" : [
+			[ "compacté" ],
+			[ "compactaste" ],
+			[ "compactó" ],
+			[ "compactamos" ],
+			[ "compactasteis", "compactaron" ],
+			[ "compactaron" ]
+		],
+		"5" : [
+			[ "compactaba" ],
+			[ "compactabas" ],
+			[ "compactaba" ],
+			[ "compactábamos" ],
+			[ "compactabais", "compactaban" ],
+			[ "compactaban" ]
+		],
+		"6" : [
+			[ "compactaría" ],
+			[ "compactarías" ],
+			[ "compactaría" ],
+			[ "compactaríamos" ],
+			[ "compactaríais", "compactarían" ],
+			[ "compactarían" ]
+		],
+		"7" : [
+			[ "compactaré" ],
+			[ "compactarás" ],
+			[ "compactará" ],
+			[ "compactaremos" ],
+			[ "compactaréis", "compactarán" ],
+			[ "compactarán" ]
+		],
+		"8" : [
+			[ "compacte" ],
+			[ "compactes" ],
+			[ "compacte" ],
+			[ "compactemos" ],
+			[ "compactéis", "compacten" ],
+			[ "compacten" ]
+		],
+		"9" : [
+			[ "compactara" ],
+			[ "compactaras" ],
+			[ "compactara" ],
+			[ "compactáramos" ],
+			[ "compactarais", "compactaran" ],
+			[ "compactaran" ]
+		],
+		"10" : [
+			[ "compactase" ],
+			[ "compactases" ],
+			[ "compactase" ],
+			[ "compactásemos" ],
+			[ "compactaseis", "compactasen" ],
+			[ "compactasen" ]
+		],
+		"11" : [
+			[ "compactare" ],
+			[ "compactares" ],
+			[ "compactare" ],
+			[ "compactáremos" ],
+			[ "compactareis", "compactaren" ],
+			[ "compactaren" ]
+		],
+		"12" : {
+			"1" : [ "compacta" ],
+			"2" : [ "compacte" ],
+			"3" : [ "compactemos" ],
+			"4" : [ "compactad" ],
+			"5" : [ "compacten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abstenerse",
+	"word" : "abstenerse",
+	"infinitivo" : "abstenerse",
+	"participio" : [ "abstenido" ],
+	"gerundio" : [ "absteniéndome", "absteniéndote" ],
+	"tenses" : {
+		"3" : [
+			[ "me abstengo" ],
+			[ "te abstienes", "te abstenés" ],
+			[ "se abstiene" ],
+			[ "nos abstenemos" ],
+			[ "os abstenéis", "se abstienen" ],
+			[ "se abstienen" ]
+		],
+		"4" : [
+			[ "me abstuve" ],
+			[ "te abstuviste" ],
+			[ "se abstuvo" ],
+			[ "nos abstuvimos" ],
+			[ "os abstuvisteis", "se abstuvieron" ],
+			[ "se abstuvieron" ]
+		],
+		"5" : [
+			[ "me abstenía" ],
+			[ "te abstenías" ],
+			[ "se abstenía" ],
+			[ "nos absteníamos" ],
+			[ "os absteníais", "se abstenían" ],
+			[ "se abstenían" ]
+		],
+		"6" : [
+			[ "me abstendría" ],
+			[ "te abstendrías" ],
+			[ "se abstendría" ],
+			[ "nos abstendríamos" ],
+			[ "os abstendríais", "se abstendrían" ],
+			[ "se abstendrían" ]
+		],
+		"7" : [
+			[ "me abstendré" ],
+			[ "te abstendrás" ],
+			[ "se abstendrá" ],
+			[ "nos abstendremos" ],
+			[ "os abstendréis", "se abstendrán" ],
+			[ "se abstendrán" ]
+		],
+		"8" : [
+			[ "me abstenga" ],
+			[ "te abstengas" ],
+			[ "se abstenga" ],
+			[ "nos abstengamos" ],
+			[ "os abstengáis", "se abstengan" ],
+			[ "se abstengan" ]
+		],
+		"9" : [
+			[ "me abstuviera" ],
+			[ "te abstuvieras" ],
+			[ "se abstuviera" ],
+			[ "nos abstuviéramos" ],
+			[ "os abstuvierais", "se abstuvieran" ],
+			[ "se abstuvieran" ]
+		],
+		"10" : [
+			[ "me abstuviese" ],
+			[ "te abstuvieses" ],
+			[ "se abstuviese" ],
+			[ "nos abstuviésemos" ],
+			[ "os abstuvieseis", "se abstuviesen" ],
+			[ "se abstuviesen" ]
+		],
+		"11" : [
+			[ "me abstuviere" ],
+			[ "te abstuvieres" ],
+			[ "se abstuviere" ],
+			[ "nos abstuviéremos" ],
+			[ "os abstuviereis", "se abstuvieren" ],
+			[ "se abstuvieren" ]
+		],
+		"12" : {
+			"1" : [ "abstente" ],
+			"2" : [ "abstenga" ],
+			"3" : [ "abstengamos" ],
+			"4" : [ "absteneos" ],
+			"5" : [ "absténganse" ]
+		}
+	}
+}

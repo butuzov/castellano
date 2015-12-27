@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=convivir",
+	"word" : "convivir",
+	"infinitivo" : "convivir",
+	"participio" : [ "convivido" ],
+	"gerundio" : [ "conviviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "convivo" ],
+			[ "convives", "convivís" ],
+			[ "convive" ],
+			[ "convivimos" ],
+			[ "convivís", "conviven" ],
+			[ "conviven" ]
+		],
+		"4" : [
+			[ "conviví" ],
+			[ "conviviste" ],
+			[ "convivió" ],
+			[ "convivimos" ],
+			[ "convivisteis", "convivieron" ],
+			[ "convivieron" ]
+		],
+		"5" : [
+			[ "convivía" ],
+			[ "convivías" ],
+			[ "convivía" ],
+			[ "convivíamos" ],
+			[ "convivíais", "convivían" ],
+			[ "convivían" ]
+		],
+		"6" : [
+			[ "conviviría" ],
+			[ "convivirías" ],
+			[ "conviviría" ],
+			[ "conviviríamos" ],
+			[ "conviviríais", "convivirían" ],
+			[ "convivirían" ]
+		],
+		"7" : [
+			[ "conviviré" ],
+			[ "convivirás" ],
+			[ "convivirá" ],
+			[ "conviviremos" ],
+			[ "conviviréis", "convivirán" ],
+			[ "convivirán" ]
+		],
+		"8" : [
+			[ "conviva" ],
+			[ "convivas" ],
+			[ "conviva" ],
+			[ "convivamos" ],
+			[ "conviváis", "convivan" ],
+			[ "convivan" ]
+		],
+		"9" : [
+			[ "conviviera" ],
+			[ "convivieras" ],
+			[ "conviviera" ],
+			[ "conviviéramos" ],
+			[ "convivierais", "convivieran" ],
+			[ "convivieran" ]
+		],
+		"10" : [
+			[ "conviviese" ],
+			[ "convivieses" ],
+			[ "conviviese" ],
+			[ "conviviésemos" ],
+			[ "convivieseis", "conviviesen" ],
+			[ "conviviesen" ]
+		],
+		"11" : [
+			[ "conviviere" ],
+			[ "convivieres" ],
+			[ "conviviere" ],
+			[ "conviviéremos" ],
+			[ "conviviereis", "convivieren" ],
+			[ "convivieren" ]
+		],
+		"12" : {
+			"1" : [ "convive" ],
+			"2" : [ "conviva" ],
+			"3" : [ "convivamos" ],
+			"4" : [ "convivid" ],
+			"5" : [ "convivan" ]
+		}
+	}
+}

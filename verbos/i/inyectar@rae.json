@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inyectar",
+	"word" : "inyectar",
+	"infinitivo" : "inyectar",
+	"participio" : [ "inyectado" ],
+	"gerundio" : [ "inyectando" ],
+	"tenses" : {
+		"3" : [
+			[ "inyecto" ],
+			[ "inyectas", "inyectás" ],
+			[ "inyecta" ],
+			[ "inyectamos" ],
+			[ "inyectáis", "inyectan" ],
+			[ "inyectan" ]
+		],
+		"4" : [
+			[ "inyecté" ],
+			[ "inyectaste" ],
+			[ "inyectó" ],
+			[ "inyectamos" ],
+			[ "inyectasteis", "inyectaron" ],
+			[ "inyectaron" ]
+		],
+		"5" : [
+			[ "inyectaba" ],
+			[ "inyectabas" ],
+			[ "inyectaba" ],
+			[ "inyectábamos" ],
+			[ "inyectabais", "inyectaban" ],
+			[ "inyectaban" ]
+		],
+		"6" : [
+			[ "inyectaría" ],
+			[ "inyectarías" ],
+			[ "inyectaría" ],
+			[ "inyectaríamos" ],
+			[ "inyectaríais", "inyectarían" ],
+			[ "inyectarían" ]
+		],
+		"7" : [
+			[ "inyectaré" ],
+			[ "inyectarás" ],
+			[ "inyectará" ],
+			[ "inyectaremos" ],
+			[ "inyectaréis", "inyectarán" ],
+			[ "inyectarán" ]
+		],
+		"8" : [
+			[ "inyecte" ],
+			[ "inyectes" ],
+			[ "inyecte" ],
+			[ "inyectemos" ],
+			[ "inyectéis", "inyecten" ],
+			[ "inyecten" ]
+		],
+		"9" : [
+			[ "inyectara" ],
+			[ "inyectaras" ],
+			[ "inyectara" ],
+			[ "inyectáramos" ],
+			[ "inyectarais", "inyectaran" ],
+			[ "inyectaran" ]
+		],
+		"10" : [
+			[ "inyectase" ],
+			[ "inyectases" ],
+			[ "inyectase" ],
+			[ "inyectásemos" ],
+			[ "inyectaseis", "inyectasen" ],
+			[ "inyectasen" ]
+		],
+		"11" : [
+			[ "inyectare" ],
+			[ "inyectares" ],
+			[ "inyectare" ],
+			[ "inyectáremos" ],
+			[ "inyectareis", "inyectaren" ],
+			[ "inyectaren" ]
+		],
+		"12" : {
+			"1" : [ "inyecta" ],
+			"2" : [ "inyecte" ],
+			"3" : [ "inyectemos" ],
+			"4" : [ "inyectad" ],
+			"5" : [ "inyecten" ]
+		}
+	}
+}

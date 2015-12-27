@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apalear",
+	"word" : "apalear",
+	"infinitivo" : "apalear",
+	"participio" : [ "apaleado" ],
+	"gerundio" : [ "apaleando" ],
+	"tenses" : {
+		"3" : [
+			[ "apaleo" ],
+			[ "apaleas", "apaleás" ],
+			[ "apalea" ],
+			[ "apaleamos" ],
+			[ "apaleáis", "apalean" ],
+			[ "apalean" ]
+		],
+		"4" : [
+			[ "apaleé" ],
+			[ "apaleaste" ],
+			[ "apaleó" ],
+			[ "apaleamos" ],
+			[ "apaleasteis", "apalearon" ],
+			[ "apalearon" ]
+		],
+		"5" : [
+			[ "apaleaba" ],
+			[ "apaleabas" ],
+			[ "apaleaba" ],
+			[ "apaleábamos" ],
+			[ "apaleabais", "apaleaban" ],
+			[ "apaleaban" ]
+		],
+		"6" : [
+			[ "apalearía" ],
+			[ "apalearías" ],
+			[ "apalearía" ],
+			[ "apalearíamos" ],
+			[ "apalearíais", "apalearían" ],
+			[ "apalearían" ]
+		],
+		"7" : [
+			[ "apalearé" ],
+			[ "apalearás" ],
+			[ "apaleará" ],
+			[ "apalearemos" ],
+			[ "apalearéis", "apalearán" ],
+			[ "apalearán" ]
+		],
+		"8" : [
+			[ "apalee" ],
+			[ "apalees" ],
+			[ "apalee" ],
+			[ "apaleemos" ],
+			[ "apaleéis", "apaleen" ],
+			[ "apaleen" ]
+		],
+		"9" : [
+			[ "apaleara" ],
+			[ "apalearas" ],
+			[ "apaleara" ],
+			[ "apaleáramos" ],
+			[ "apalearais", "apalearan" ],
+			[ "apalearan" ]
+		],
+		"10" : [
+			[ "apalease" ],
+			[ "apaleases" ],
+			[ "apalease" ],
+			[ "apaleásemos" ],
+			[ "apaleaseis", "apaleasen" ],
+			[ "apaleasen" ]
+		],
+		"11" : [
+			[ "apaleare" ],
+			[ "apaleares" ],
+			[ "apaleare" ],
+			[ "apaleáremos" ],
+			[ "apaleareis", "apalearen" ],
+			[ "apalearen" ]
+		],
+		"12" : {
+			"1" : [ "apalea" ],
+			"2" : [ "apalee" ],
+			"3" : [ "apaleemos" ],
+			"4" : [ "apalead" ],
+			"5" : [ "apaleen" ]
+		}
+	}
+}

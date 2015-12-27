@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cerrar",
+	"word" : "cerrar",
+	"infinitivo" : "cerrar",
+	"participio" : [ "cerrado" ],
+	"gerundio" : [ "cerrando" ],
+	"tenses" : {
+		"3" : [
+			[ "cierro" ],
+			[ "cierras", "cerrás" ],
+			[ "cierra" ],
+			[ "cerramos" ],
+			[ "cerráis", "cierran" ],
+			[ "cierran" ]
+		],
+		"4" : [
+			[ "cerré" ],
+			[ "cerraste" ],
+			[ "cerró" ],
+			[ "cerramos" ],
+			[ "cerrasteis", "cerraron" ],
+			[ "cerraron" ]
+		],
+		"5" : [
+			[ "cerraba" ],
+			[ "cerrabas" ],
+			[ "cerraba" ],
+			[ "cerrábamos" ],
+			[ "cerrabais", "cerraban" ],
+			[ "cerraban" ]
+		],
+		"6" : [
+			[ "cerraría" ],
+			[ "cerrarías" ],
+			[ "cerraría" ],
+			[ "cerraríamos" ],
+			[ "cerraríais", "cerrarían" ],
+			[ "cerrarían" ]
+		],
+		"7" : [
+			[ "cerraré" ],
+			[ "cerrarás" ],
+			[ "cerrará" ],
+			[ "cerraremos" ],
+			[ "cerraréis", "cerrarán" ],
+			[ "cerrarán" ]
+		],
+		"8" : [
+			[ "cierre" ],
+			[ "cierres" ],
+			[ "cierre" ],
+			[ "cerremos" ],
+			[ "cerréis", "cierren" ],
+			[ "cierren" ]
+		],
+		"9" : [
+			[ "cerrara" ],
+			[ "cerraras" ],
+			[ "cerrara" ],
+			[ "cerráramos" ],
+			[ "cerrarais", "cerraran" ],
+			[ "cerraran" ]
+		],
+		"10" : [
+			[ "cerrase" ],
+			[ "cerrases" ],
+			[ "cerrase" ],
+			[ "cerrásemos" ],
+			[ "cerraseis", "cerrasen" ],
+			[ "cerrasen" ]
+		],
+		"11" : [
+			[ "cerrare" ],
+			[ "cerrares" ],
+			[ "cerrare" ],
+			[ "cerráremos" ],
+			[ "cerrareis", "cerraren" ],
+			[ "cerraren" ]
+		],
+		"12" : {
+			"1" : [ "cierra" ],
+			"2" : [ "cierre" ],
+			"3" : [ "cerremos" ],
+			"4" : [ "cerrad" ],
+			"5" : [ "cierren" ]
+		}
+	}
+}

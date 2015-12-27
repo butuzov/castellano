@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=destocar",
+	"word" : "destocar",
+	"infinitivo" : "destocar",
+	"participio" : [ "destocado" ],
+	"gerundio" : [ "destocando" ],
+	"tenses" : {
+		"3" : [
+			[ "destoco" ],
+			[ "destocas", "destocás" ],
+			[ "destoca" ],
+			[ "destocamos" ],
+			[ "destocáis", "destocan" ],
+			[ "destocan" ]
+		],
+		"4" : [
+			[ "destoqué" ],
+			[ "destocaste" ],
+			[ "destocó" ],
+			[ "destocamos" ],
+			[ "destocasteis", "destocaron" ],
+			[ "destocaron" ]
+		],
+		"5" : [
+			[ "destocaba" ],
+			[ "destocabas" ],
+			[ "destocaba" ],
+			[ "destocábamos" ],
+			[ "destocabais", "destocaban" ],
+			[ "destocaban" ]
+		],
+		"6" : [
+			[ "destocaría" ],
+			[ "destocarías" ],
+			[ "destocaría" ],
+			[ "destocaríamos" ],
+			[ "destocaríais", "destocarían" ],
+			[ "destocarían" ]
+		],
+		"7" : [
+			[ "destocaré" ],
+			[ "destocarás" ],
+			[ "destocará" ],
+			[ "destocaremos" ],
+			[ "destocaréis", "destocarán" ],
+			[ "destocarán" ]
+		],
+		"8" : [
+			[ "destoque" ],
+			[ "destoques" ],
+			[ "destoque" ],
+			[ "destoquemos" ],
+			[ "destoquéis", "destoquen" ],
+			[ "destoquen" ]
+		],
+		"9" : [
+			[ "destocara" ],
+			[ "destocaras" ],
+			[ "destocara" ],
+			[ "destocáramos" ],
+			[ "destocarais", "destocaran" ],
+			[ "destocaran" ]
+		],
+		"10" : [
+			[ "destocase" ],
+			[ "destocases" ],
+			[ "destocase" ],
+			[ "destocásemos" ],
+			[ "destocaseis", "destocasen" ],
+			[ "destocasen" ]
+		],
+		"11" : [
+			[ "destocare" ],
+			[ "destocares" ],
+			[ "destocare" ],
+			[ "destocáremos" ],
+			[ "destocareis", "destocaren" ],
+			[ "destocaren" ]
+		],
+		"12" : {
+			"1" : [ "destoca" ],
+			"2" : [ "destoque" ],
+			"3" : [ "destoquemos" ],
+			"4" : [ "destocad" ],
+			"5" : [ "destoquen" ]
+		}
+	}
+}

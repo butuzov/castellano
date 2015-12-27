@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=curiosear",
+	"word" : "curiosear",
+	"infinitivo" : "curiosear",
+	"participio" : [ "curioseado" ],
+	"gerundio" : [ "curioseando" ],
+	"tenses" : {
+		"3" : [
+			[ "curioseo" ],
+			[ "curioseas", "curioseás" ],
+			[ "curiosea" ],
+			[ "curioseamos" ],
+			[ "curioseáis", "curiosean" ],
+			[ "curiosean" ]
+		],
+		"4" : [
+			[ "curioseé" ],
+			[ "curioseaste" ],
+			[ "curioseó" ],
+			[ "curioseamos" ],
+			[ "curioseasteis", "curiosearon" ],
+			[ "curiosearon" ]
+		],
+		"5" : [
+			[ "curioseaba" ],
+			[ "curioseabas" ],
+			[ "curioseaba" ],
+			[ "curioseábamos" ],
+			[ "curioseabais", "curioseaban" ],
+			[ "curioseaban" ]
+		],
+		"6" : [
+			[ "curiosearía" ],
+			[ "curiosearías" ],
+			[ "curiosearía" ],
+			[ "curiosearíamos" ],
+			[ "curiosearíais", "curiosearían" ],
+			[ "curiosearían" ]
+		],
+		"7" : [
+			[ "curiosearé" ],
+			[ "curiosearás" ],
+			[ "curioseará" ],
+			[ "curiosearemos" ],
+			[ "curiosearéis", "curiosearán" ],
+			[ "curiosearán" ]
+		],
+		"8" : [
+			[ "curiosee" ],
+			[ "curiosees" ],
+			[ "curiosee" ],
+			[ "curioseemos" ],
+			[ "curioseéis", "curioseen" ],
+			[ "curioseen" ]
+		],
+		"9" : [
+			[ "curioseara" ],
+			[ "curiosearas" ],
+			[ "curioseara" ],
+			[ "curioseáramos" ],
+			[ "curiosearais", "curiosearan" ],
+			[ "curiosearan" ]
+		],
+		"10" : [
+			[ "curiosease" ],
+			[ "curioseases" ],
+			[ "curiosease" ],
+			[ "curioseásemos" ],
+			[ "curioseaseis", "curioseasen" ],
+			[ "curioseasen" ]
+		],
+		"11" : [
+			[ "curioseare" ],
+			[ "curioseares" ],
+			[ "curioseare" ],
+			[ "curioseáremos" ],
+			[ "curioseareis", "curiosearen" ],
+			[ "curiosearen" ]
+		],
+		"12" : {
+			"1" : [ "curiosea" ],
+			"2" : [ "curiosee" ],
+			"3" : [ "curioseemos" ],
+			"4" : [ "curiosead" ],
+			"5" : [ "curioseen" ]
+		}
+	}
+}

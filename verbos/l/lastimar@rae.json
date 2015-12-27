@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lastimar",
+	"word" : "lastimar",
+	"infinitivo" : "lastimar",
+	"participio" : [ "lastimado" ],
+	"gerundio" : [ "lastimando" ],
+	"tenses" : {
+		"3" : [
+			[ "lastimo" ],
+			[ "lastimas", "lastimás" ],
+			[ "lastima" ],
+			[ "lastimamos" ],
+			[ "lastimáis", "lastiman" ],
+			[ "lastiman" ]
+		],
+		"4" : [
+			[ "lastimé" ],
+			[ "lastimaste" ],
+			[ "lastimó" ],
+			[ "lastimamos" ],
+			[ "lastimasteis", "lastimaron" ],
+			[ "lastimaron" ]
+		],
+		"5" : [
+			[ "lastimaba" ],
+			[ "lastimabas" ],
+			[ "lastimaba" ],
+			[ "lastimábamos" ],
+			[ "lastimabais", "lastimaban" ],
+			[ "lastimaban" ]
+		],
+		"6" : [
+			[ "lastimaría" ],
+			[ "lastimarías" ],
+			[ "lastimaría" ],
+			[ "lastimaríamos" ],
+			[ "lastimaríais", "lastimarían" ],
+			[ "lastimarían" ]
+		],
+		"7" : [
+			[ "lastimaré" ],
+			[ "lastimarás" ],
+			[ "lastimará" ],
+			[ "lastimaremos" ],
+			[ "lastimaréis", "lastimarán" ],
+			[ "lastimarán" ]
+		],
+		"8" : [
+			[ "lastime" ],
+			[ "lastimes" ],
+			[ "lastime" ],
+			[ "lastimemos" ],
+			[ "lastiméis", "lastimen" ],
+			[ "lastimen" ]
+		],
+		"9" : [
+			[ "lastimara" ],
+			[ "lastimaras" ],
+			[ "lastimara" ],
+			[ "lastimáramos" ],
+			[ "lastimarais", "lastimaran" ],
+			[ "lastimaran" ]
+		],
+		"10" : [
+			[ "lastimase" ],
+			[ "lastimases" ],
+			[ "lastimase" ],
+			[ "lastimásemos" ],
+			[ "lastimaseis", "lastimasen" ],
+			[ "lastimasen" ]
+		],
+		"11" : [
+			[ "lastimare" ],
+			[ "lastimares" ],
+			[ "lastimare" ],
+			[ "lastimáremos" ],
+			[ "lastimareis", "lastimaren" ],
+			[ "lastimaren" ]
+		],
+		"12" : {
+			"1" : [ "lastima" ],
+			"2" : [ "lastime" ],
+			"3" : [ "lastimemos" ],
+			"4" : [ "lastimad" ],
+			"5" : [ "lastimen" ]
+		}
+	}
+}

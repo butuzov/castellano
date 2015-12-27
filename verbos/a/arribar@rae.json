@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arribar",
+	"word" : "arribar",
+	"infinitivo" : "arribar",
+	"participio" : [ "arribado" ],
+	"gerundio" : [ "arribando" ],
+	"tenses" : {
+		"3" : [
+			[ "arribo" ],
+			[ "arribas", "arribás" ],
+			[ "arriba" ],
+			[ "arribamos" ],
+			[ "arribáis", "arriban" ],
+			[ "arriban" ]
+		],
+		"4" : [
+			[ "arribé" ],
+			[ "arribaste" ],
+			[ "arribó" ],
+			[ "arribamos" ],
+			[ "arribasteis", "arribaron" ],
+			[ "arribaron" ]
+		],
+		"5" : [
+			[ "arribaba" ],
+			[ "arribabas" ],
+			[ "arribaba" ],
+			[ "arribábamos" ],
+			[ "arribabais", "arribaban" ],
+			[ "arribaban" ]
+		],
+		"6" : [
+			[ "arribaría" ],
+			[ "arribarías" ],
+			[ "arribaría" ],
+			[ "arribaríamos" ],
+			[ "arribaríais", "arribarían" ],
+			[ "arribarían" ]
+		],
+		"7" : [
+			[ "arribaré" ],
+			[ "arribarás" ],
+			[ "arribará" ],
+			[ "arribaremos" ],
+			[ "arribaréis", "arribarán" ],
+			[ "arribarán" ]
+		],
+		"8" : [
+			[ "arribe" ],
+			[ "arribes" ],
+			[ "arribe" ],
+			[ "arribemos" ],
+			[ "arribéis", "arriben" ],
+			[ "arriben" ]
+		],
+		"9" : [
+			[ "arribara" ],
+			[ "arribaras" ],
+			[ "arribara" ],
+			[ "arribáramos" ],
+			[ "arribarais", "arribaran" ],
+			[ "arribaran" ]
+		],
+		"10" : [
+			[ "arribase" ],
+			[ "arribases" ],
+			[ "arribase" ],
+			[ "arribásemos" ],
+			[ "arribaseis", "arribasen" ],
+			[ "arribasen" ]
+		],
+		"11" : [
+			[ "arribare" ],
+			[ "arribares" ],
+			[ "arribare" ],
+			[ "arribáremos" ],
+			[ "arribareis", "arribaren" ],
+			[ "arribaren" ]
+		],
+		"12" : {
+			"1" : [ "arriba" ],
+			"2" : [ "arribe" ],
+			"3" : [ "arribemos" ],
+			"4" : [ "arribad" ],
+			"5" : [ "arriben" ]
+		}
+	}
+}

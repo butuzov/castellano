@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=indizar",
+	"word" : "indizar",
+	"infinitivo" : "indizar",
+	"participio" : [ "indizado" ],
+	"gerundio" : [ "indizando" ],
+	"tenses" : {
+		"3" : [
+			[ "indizo" ],
+			[ "indizas", "indizás" ],
+			[ "indiza" ],
+			[ "indizamos" ],
+			[ "indizáis", "indizan" ],
+			[ "indizan" ]
+		],
+		"4" : [
+			[ "indicé" ],
+			[ "indizaste" ],
+			[ "indizó" ],
+			[ "indizamos" ],
+			[ "indizasteis", "indizaron" ],
+			[ "indizaron" ]
+		],
+		"5" : [
+			[ "indizaba" ],
+			[ "indizabas" ],
+			[ "indizaba" ],
+			[ "indizábamos" ],
+			[ "indizabais", "indizaban" ],
+			[ "indizaban" ]
+		],
+		"6" : [
+			[ "indizaría" ],
+			[ "indizarías" ],
+			[ "indizaría" ],
+			[ "indizaríamos" ],
+			[ "indizaríais", "indizarían" ],
+			[ "indizarían" ]
+		],
+		"7" : [
+			[ "indizaré" ],
+			[ "indizarás" ],
+			[ "indizará" ],
+			[ "indizaremos" ],
+			[ "indizaréis", "indizarán" ],
+			[ "indizarán" ]
+		],
+		"8" : [
+			[ "indice" ],
+			[ "indices" ],
+			[ "indice" ],
+			[ "indicemos" ],
+			[ "indicéis", "indicen" ],
+			[ "indicen" ]
+		],
+		"9" : [
+			[ "indizara" ],
+			[ "indizaras" ],
+			[ "indizara" ],
+			[ "indizáramos" ],
+			[ "indizarais", "indizaran" ],
+			[ "indizaran" ]
+		],
+		"10" : [
+			[ "indizase" ],
+			[ "indizases" ],
+			[ "indizase" ],
+			[ "indizásemos" ],
+			[ "indizaseis", "indizasen" ],
+			[ "indizasen" ]
+		],
+		"11" : [
+			[ "indizare" ],
+			[ "indizares" ],
+			[ "indizare" ],
+			[ "indizáremos" ],
+			[ "indizareis", "indizaren" ],
+			[ "indizaren" ]
+		],
+		"12" : {
+			"1" : [ "indiza" ],
+			"2" : [ "indice" ],
+			"3" : [ "indicemos" ],
+			"4" : [ "indizad" ],
+			"5" : [ "indicen" ]
+		}
+	}
+}

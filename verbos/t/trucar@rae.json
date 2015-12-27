@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trucar",
+	"word" : "trucar",
+	"infinitivo" : "trucar",
+	"participio" : [ "trucado" ],
+	"gerundio" : [ "trucando" ],
+	"tenses" : {
+		"3" : [
+			[ "truco" ],
+			[ "trucas", "trucás" ],
+			[ "truca" ],
+			[ "trucamos" ],
+			[ "trucáis", "trucan" ],
+			[ "trucan" ]
+		],
+		"4" : [
+			[ "truqué" ],
+			[ "trucaste" ],
+			[ "trucó" ],
+			[ "trucamos" ],
+			[ "trucasteis", "trucaron" ],
+			[ "trucaron" ]
+		],
+		"5" : [
+			[ "trucaba" ],
+			[ "trucabas" ],
+			[ "trucaba" ],
+			[ "trucábamos" ],
+			[ "trucabais", "trucaban" ],
+			[ "trucaban" ]
+		],
+		"6" : [
+			[ "trucaría" ],
+			[ "trucarías" ],
+			[ "trucaría" ],
+			[ "trucaríamos" ],
+			[ "trucaríais", "trucarían" ],
+			[ "trucarían" ]
+		],
+		"7" : [
+			[ "trucaré" ],
+			[ "trucarás" ],
+			[ "trucará" ],
+			[ "trucaremos" ],
+			[ "trucaréis", "trucarán" ],
+			[ "trucarán" ]
+		],
+		"8" : [
+			[ "truque" ],
+			[ "truques" ],
+			[ "truque" ],
+			[ "truquemos" ],
+			[ "truquéis", "truquen" ],
+			[ "truquen" ]
+		],
+		"9" : [
+			[ "trucara" ],
+			[ "trucaras" ],
+			[ "trucara" ],
+			[ "trucáramos" ],
+			[ "trucarais", "trucaran" ],
+			[ "trucaran" ]
+		],
+		"10" : [
+			[ "trucase" ],
+			[ "trucases" ],
+			[ "trucase" ],
+			[ "trucásemos" ],
+			[ "trucaseis", "trucasen" ],
+			[ "trucasen" ]
+		],
+		"11" : [
+			[ "trucare" ],
+			[ "trucares" ],
+			[ "trucare" ],
+			[ "trucáremos" ],
+			[ "trucareis", "trucaren" ],
+			[ "trucaren" ]
+		],
+		"12" : {
+			"1" : [ "truca" ],
+			"2" : [ "truque" ],
+			"3" : [ "truquemos" ],
+			"4" : [ "trucad" ],
+			"5" : [ "truquen" ]
+		}
+	}
+}

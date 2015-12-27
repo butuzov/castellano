@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=demediar",
+	"word" : "demediar",
+	"infinitivo" : "demediar",
+	"participio" : [ "demediado" ],
+	"gerundio" : [ "demediando" ],
+	"tenses" : {
+		"3" : [
+			[ "demedio" ],
+			[ "demedias", "demediás" ],
+			[ "demedia" ],
+			[ "demediamos" ],
+			[ "demediáis", "demedian" ],
+			[ "demedian" ]
+		],
+		"4" : [
+			[ "demedié" ],
+			[ "demediaste" ],
+			[ "demedió" ],
+			[ "demediamos" ],
+			[ "demediasteis", "demediaron" ],
+			[ "demediaron" ]
+		],
+		"5" : [
+			[ "demediaba" ],
+			[ "demediabas" ],
+			[ "demediaba" ],
+			[ "demediábamos" ],
+			[ "demediabais", "demediaban" ],
+			[ "demediaban" ]
+		],
+		"6" : [
+			[ "demediaría" ],
+			[ "demediarías" ],
+			[ "demediaría" ],
+			[ "demediaríamos" ],
+			[ "demediaríais", "demediarían" ],
+			[ "demediarían" ]
+		],
+		"7" : [
+			[ "demediaré" ],
+			[ "demediarás" ],
+			[ "demediará" ],
+			[ "demediaremos" ],
+			[ "demediaréis", "demediarán" ],
+			[ "demediarán" ]
+		],
+		"8" : [
+			[ "demedie" ],
+			[ "demedies" ],
+			[ "demedie" ],
+			[ "demediemos" ],
+			[ "demediéis", "demedien" ],
+			[ "demedien" ]
+		],
+		"9" : [
+			[ "demediara" ],
+			[ "demediaras" ],
+			[ "demediara" ],
+			[ "demediáramos" ],
+			[ "demediarais", "demediaran" ],
+			[ "demediaran" ]
+		],
+		"10" : [
+			[ "demediase" ],
+			[ "demediases" ],
+			[ "demediase" ],
+			[ "demediásemos" ],
+			[ "demediaseis", "demediasen" ],
+			[ "demediasen" ]
+		],
+		"11" : [
+			[ "demediare" ],
+			[ "demediares" ],
+			[ "demediare" ],
+			[ "demediáremos" ],
+			[ "demediareis", "demediaren" ],
+			[ "demediaren" ]
+		],
+		"12" : {
+			"1" : [ "demedia" ],
+			"2" : [ "demedie" ],
+			"3" : [ "demediemos" ],
+			"4" : [ "demediad" ],
+			"5" : [ "demedien" ]
+		}
+	}
+}

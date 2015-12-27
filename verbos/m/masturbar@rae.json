@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=masturbar",
+	"word" : "masturbar",
+	"infinitivo" : "masturbar",
+	"participio" : [ "masturbado" ],
+	"gerundio" : [ "masturbando" ],
+	"tenses" : {
+		"3" : [
+			[ "masturbo" ],
+			[ "masturbas", "masturbás" ],
+			[ "masturba" ],
+			[ "masturbamos" ],
+			[ "masturbáis", "masturban" ],
+			[ "masturban" ]
+		],
+		"4" : [
+			[ "masturbé" ],
+			[ "masturbaste" ],
+			[ "masturbó" ],
+			[ "masturbamos" ],
+			[ "masturbasteis", "masturbaron" ],
+			[ "masturbaron" ]
+		],
+		"5" : [
+			[ "masturbaba" ],
+			[ "masturbabas" ],
+			[ "masturbaba" ],
+			[ "masturbábamos" ],
+			[ "masturbabais", "masturbaban" ],
+			[ "masturbaban" ]
+		],
+		"6" : [
+			[ "masturbaría" ],
+			[ "masturbarías" ],
+			[ "masturbaría" ],
+			[ "masturbaríamos" ],
+			[ "masturbaríais", "masturbarían" ],
+			[ "masturbarían" ]
+		],
+		"7" : [
+			[ "masturbaré" ],
+			[ "masturbarás" ],
+			[ "masturbará" ],
+			[ "masturbaremos" ],
+			[ "masturbaréis", "masturbarán" ],
+			[ "masturbarán" ]
+		],
+		"8" : [
+			[ "masturbe" ],
+			[ "masturbes" ],
+			[ "masturbe" ],
+			[ "masturbemos" ],
+			[ "masturbéis", "masturben" ],
+			[ "masturben" ]
+		],
+		"9" : [
+			[ "masturbara" ],
+			[ "masturbaras" ],
+			[ "masturbara" ],
+			[ "masturbáramos" ],
+			[ "masturbarais", "masturbaran" ],
+			[ "masturbaran" ]
+		],
+		"10" : [
+			[ "masturbase" ],
+			[ "masturbases" ],
+			[ "masturbase" ],
+			[ "masturbásemos" ],
+			[ "masturbaseis", "masturbasen" ],
+			[ "masturbasen" ]
+		],
+		"11" : [
+			[ "masturbare" ],
+			[ "masturbares" ],
+			[ "masturbare" ],
+			[ "masturbáremos" ],
+			[ "masturbareis", "masturbaren" ],
+			[ "masturbaren" ]
+		],
+		"12" : {
+			"1" : [ "masturba" ],
+			"2" : [ "masturbe" ],
+			"3" : [ "masturbemos" ],
+			"4" : [ "masturbad" ],
+			"5" : [ "masturben" ]
+		}
+	}
+}

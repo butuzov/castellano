@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=decir",
+	"word" : "decir",
+	"infinitivo" : "decir",
+	"participio" : [ "dicho" ],
+	"gerundio" : [ "diciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "digo" ],
+			[ "dices", "decís" ],
+			[ "dice" ],
+			[ "decimos" ],
+			[ "decís", "dicen" ],
+			[ "dicen" ]
+		],
+		"4" : [
+			[ "dije" ],
+			[ "dijiste" ],
+			[ "dijo" ],
+			[ "dijimos" ],
+			[ "dijisteis", "dijeron" ],
+			[ "dijeron" ]
+		],
+		"5" : [
+			[ "decía" ],
+			[ "decías" ],
+			[ "decía" ],
+			[ "decíamos" ],
+			[ "decíais", "decían" ],
+			[ "decían" ]
+		],
+		"6" : [
+			[ "diría" ],
+			[ "dirías" ],
+			[ "diría" ],
+			[ "diríamos" ],
+			[ "diríais", "dirían" ],
+			[ "dirían" ]
+		],
+		"7" : [
+			[ "diré" ],
+			[ "dirás" ],
+			[ "dirá" ],
+			[ "diremos" ],
+			[ "diréis", "dirán" ],
+			[ "dirán" ]
+		],
+		"8" : [
+			[ "diga" ],
+			[ "digas" ],
+			[ "diga" ],
+			[ "digamos" ],
+			[ "digáis", "digan" ],
+			[ "digan" ]
+		],
+		"9" : [
+			[ "dijera" ],
+			[ "dijeras" ],
+			[ "dijera" ],
+			[ "dijéramos" ],
+			[ "dijerais", "dijeran" ],
+			[ "dijeran" ]
+		],
+		"10" : [
+			[ "dijese" ],
+			[ "dijeses" ],
+			[ "dijese" ],
+			[ "dijésemos" ],
+			[ "dijeseis", "dijesen" ],
+			[ "dijesen" ]
+		],
+		"11" : [
+			[ "dijere" ],
+			[ "dijeres" ],
+			[ "dijere" ],
+			[ "dijéremos" ],
+			[ "dijereis", "dijeren" ],
+			[ "dijeren" ]
+		],
+		"12" : {
+			"1" : [ "di" ],
+			"2" : [ "diga" ],
+			"3" : [ "digamos" ],
+			"4" : [ "decid" ],
+			"5" : [ "digan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recuperar",
+	"word" : "recuperar",
+	"infinitivo" : "recuperar",
+	"participio" : [ "recuperado" ],
+	"gerundio" : [ "recuperando" ],
+	"tenses" : {
+		"3" : [
+			[ "recupero" ],
+			[ "recuperas", "recuperás" ],
+			[ "recupera" ],
+			[ "recuperamos" ],
+			[ "recuperáis", "recuperan" ],
+			[ "recuperan" ]
+		],
+		"4" : [
+			[ "recuperé" ],
+			[ "recuperaste" ],
+			[ "recuperó" ],
+			[ "recuperamos" ],
+			[ "recuperasteis", "recuperaron" ],
+			[ "recuperaron" ]
+		],
+		"5" : [
+			[ "recuperaba" ],
+			[ "recuperabas" ],
+			[ "recuperaba" ],
+			[ "recuperábamos" ],
+			[ "recuperabais", "recuperaban" ],
+			[ "recuperaban" ]
+		],
+		"6" : [
+			[ "recuperaría" ],
+			[ "recuperarías" ],
+			[ "recuperaría" ],
+			[ "recuperaríamos" ],
+			[ "recuperaríais", "recuperarían" ],
+			[ "recuperarían" ]
+		],
+		"7" : [
+			[ "recuperaré" ],
+			[ "recuperarás" ],
+			[ "recuperará" ],
+			[ "recuperaremos" ],
+			[ "recuperaréis", "recuperarán" ],
+			[ "recuperarán" ]
+		],
+		"8" : [
+			[ "recupere" ],
+			[ "recuperes" ],
+			[ "recupere" ],
+			[ "recuperemos" ],
+			[ "recuperéis", "recuperen" ],
+			[ "recuperen" ]
+		],
+		"9" : [
+			[ "recuperara" ],
+			[ "recuperaras" ],
+			[ "recuperara" ],
+			[ "recuperáramos" ],
+			[ "recuperarais", "recuperaran" ],
+			[ "recuperaran" ]
+		],
+		"10" : [
+			[ "recuperase" ],
+			[ "recuperases" ],
+			[ "recuperase" ],
+			[ "recuperásemos" ],
+			[ "recuperaseis", "recuperasen" ],
+			[ "recuperasen" ]
+		],
+		"11" : [
+			[ "recuperare" ],
+			[ "recuperares" ],
+			[ "recuperare" ],
+			[ "recuperáremos" ],
+			[ "recuperareis", "recuperaren" ],
+			[ "recuperaren" ]
+		],
+		"12" : {
+			"1" : [ "recupera" ],
+			"2" : [ "recupere" ],
+			"3" : [ "recuperemos" ],
+			"4" : [ "recuperad" ],
+			"5" : [ "recuperen" ]
+		}
+	}
+}

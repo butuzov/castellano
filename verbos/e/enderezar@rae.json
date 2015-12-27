@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enderezar",
+	"word" : "enderezar",
+	"infinitivo" : "enderezar",
+	"participio" : [ "enderezado" ],
+	"gerundio" : [ "enderezando" ],
+	"tenses" : {
+		"3" : [
+			[ "enderezo" ],
+			[ "enderezas", "enderezás" ],
+			[ "endereza" ],
+			[ "enderezamos" ],
+			[ "enderezáis", "enderezan" ],
+			[ "enderezan" ]
+		],
+		"4" : [
+			[ "enderecé" ],
+			[ "enderezaste" ],
+			[ "enderezó" ],
+			[ "enderezamos" ],
+			[ "enderezasteis", "enderezaron" ],
+			[ "enderezaron" ]
+		],
+		"5" : [
+			[ "enderezaba" ],
+			[ "enderezabas" ],
+			[ "enderezaba" ],
+			[ "enderezábamos" ],
+			[ "enderezabais", "enderezaban" ],
+			[ "enderezaban" ]
+		],
+		"6" : [
+			[ "enderezaría" ],
+			[ "enderezarías" ],
+			[ "enderezaría" ],
+			[ "enderezaríamos" ],
+			[ "enderezaríais", "enderezarían" ],
+			[ "enderezarían" ]
+		],
+		"7" : [
+			[ "enderezaré" ],
+			[ "enderezarás" ],
+			[ "enderezará" ],
+			[ "enderezaremos" ],
+			[ "enderezaréis", "enderezarán" ],
+			[ "enderezarán" ]
+		],
+		"8" : [
+			[ "enderece" ],
+			[ "endereces" ],
+			[ "enderece" ],
+			[ "enderecemos" ],
+			[ "enderecéis", "enderecen" ],
+			[ "enderecen" ]
+		],
+		"9" : [
+			[ "enderezara" ],
+			[ "enderezaras" ],
+			[ "enderezara" ],
+			[ "enderezáramos" ],
+			[ "enderezarais", "enderezaran" ],
+			[ "enderezaran" ]
+		],
+		"10" : [
+			[ "enderezase" ],
+			[ "enderezases" ],
+			[ "enderezase" ],
+			[ "enderezásemos" ],
+			[ "enderezaseis", "enderezasen" ],
+			[ "enderezasen" ]
+		],
+		"11" : [
+			[ "enderezare" ],
+			[ "enderezares" ],
+			[ "enderezare" ],
+			[ "enderezáremos" ],
+			[ "enderezareis", "enderezaren" ],
+			[ "enderezaren" ]
+		],
+		"12" : {
+			"1" : [ "endereza" ],
+			"2" : [ "enderece" ],
+			"3" : [ "enderecemos" ],
+			"4" : [ "enderezad" ],
+			"5" : [ "enderecen" ]
+		}
+	}
+}

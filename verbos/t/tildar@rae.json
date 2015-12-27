@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tildar",
+	"word" : "tildar",
+	"infinitivo" : "tildar",
+	"participio" : [ "tildado" ],
+	"gerundio" : [ "tildando" ],
+	"tenses" : {
+		"3" : [
+			[ "tildo" ],
+			[ "tildas", "tildás" ],
+			[ "tilda" ],
+			[ "tildamos" ],
+			[ "tildáis", "tildan" ],
+			[ "tildan" ]
+		],
+		"4" : [
+			[ "tildé" ],
+			[ "tildaste" ],
+			[ "tildó" ],
+			[ "tildamos" ],
+			[ "tildasteis", "tildaron" ],
+			[ "tildaron" ]
+		],
+		"5" : [
+			[ "tildaba" ],
+			[ "tildabas" ],
+			[ "tildaba" ],
+			[ "tildábamos" ],
+			[ "tildabais", "tildaban" ],
+			[ "tildaban" ]
+		],
+		"6" : [
+			[ "tildaría" ],
+			[ "tildarías" ],
+			[ "tildaría" ],
+			[ "tildaríamos" ],
+			[ "tildaríais", "tildarían" ],
+			[ "tildarían" ]
+		],
+		"7" : [
+			[ "tildaré" ],
+			[ "tildarás" ],
+			[ "tildará" ],
+			[ "tildaremos" ],
+			[ "tildaréis", "tildarán" ],
+			[ "tildarán" ]
+		],
+		"8" : [
+			[ "tilde" ],
+			[ "tildes" ],
+			[ "tilde" ],
+			[ "tildemos" ],
+			[ "tildéis", "tilden" ],
+			[ "tilden" ]
+		],
+		"9" : [
+			[ "tildara" ],
+			[ "tildaras" ],
+			[ "tildara" ],
+			[ "tildáramos" ],
+			[ "tildarais", "tildaran" ],
+			[ "tildaran" ]
+		],
+		"10" : [
+			[ "tildase" ],
+			[ "tildases" ],
+			[ "tildase" ],
+			[ "tildásemos" ],
+			[ "tildaseis", "tildasen" ],
+			[ "tildasen" ]
+		],
+		"11" : [
+			[ "tildare" ],
+			[ "tildares" ],
+			[ "tildare" ],
+			[ "tildáremos" ],
+			[ "tildareis", "tildaren" ],
+			[ "tildaren" ]
+		],
+		"12" : {
+			"1" : [ "tilda" ],
+			"2" : [ "tilde" ],
+			"3" : [ "tildemos" ],
+			"4" : [ "tildad" ],
+			"5" : [ "tilden" ]
+		}
+	}
+}

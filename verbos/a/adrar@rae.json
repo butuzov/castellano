@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adrar",
+	"word" : "adrar",
+	"infinitivo" : "adrar",
+	"participio" : [ "adrado" ],
+	"gerundio" : [ "adrando" ],
+	"tenses" : {
+		"3" : [
+			[ "adro" ],
+			[ "adras", "adrás" ],
+			[ "adra" ],
+			[ "adramos" ],
+			[ "adráis", "adran" ],
+			[ "adran" ]
+		],
+		"4" : [
+			[ "adré" ],
+			[ "adraste" ],
+			[ "adró" ],
+			[ "adramos" ],
+			[ "adrasteis", "adraron" ],
+			[ "adraron" ]
+		],
+		"5" : [
+			[ "adraba" ],
+			[ "adrabas" ],
+			[ "adraba" ],
+			[ "adrábamos" ],
+			[ "adrabais", "adraban" ],
+			[ "adraban" ]
+		],
+		"6" : [
+			[ "adraría" ],
+			[ "adrarías" ],
+			[ "adraría" ],
+			[ "adraríamos" ],
+			[ "adraríais", "adrarían" ],
+			[ "adrarían" ]
+		],
+		"7" : [
+			[ "adraré" ],
+			[ "adrarás" ],
+			[ "adrará" ],
+			[ "adraremos" ],
+			[ "adraréis", "adrarán" ],
+			[ "adrarán" ]
+		],
+		"8" : [
+			[ "adre" ],
+			[ "adres" ],
+			[ "adre" ],
+			[ "adremos" ],
+			[ "adréis", "adren" ],
+			[ "adren" ]
+		],
+		"9" : [
+			[ "adrara" ],
+			[ "adraras" ],
+			[ "adrara" ],
+			[ "adráramos" ],
+			[ "adrarais", "adraran" ],
+			[ "adraran" ]
+		],
+		"10" : [
+			[ "adrase" ],
+			[ "adrases" ],
+			[ "adrase" ],
+			[ "adrásemos" ],
+			[ "adraseis", "adrasen" ],
+			[ "adrasen" ]
+		],
+		"11" : [
+			[ "adrare" ],
+			[ "adrares" ],
+			[ "adrare" ],
+			[ "adráremos" ],
+			[ "adrareis", "adraren" ],
+			[ "adraren" ]
+		],
+		"12" : {
+			"1" : [ "adra" ],
+			"2" : [ "adre" ],
+			"3" : [ "adremos" ],
+			"4" : [ "adrad" ],
+			"5" : [ "adren" ]
+		}
+	}
+}

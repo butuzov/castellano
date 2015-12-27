@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fracturar",
+	"word" : "fracturar",
+	"infinitivo" : "fracturar",
+	"participio" : [ "fracturado" ],
+	"gerundio" : [ "fracturando" ],
+	"tenses" : {
+		"3" : [
+			[ "fracturo" ],
+			[ "fracturas", "fracturás" ],
+			[ "fractura" ],
+			[ "fracturamos" ],
+			[ "fracturáis", "fracturan" ],
+			[ "fracturan" ]
+		],
+		"4" : [
+			[ "fracturé" ],
+			[ "fracturaste" ],
+			[ "fracturó" ],
+			[ "fracturamos" ],
+			[ "fracturasteis", "fracturaron" ],
+			[ "fracturaron" ]
+		],
+		"5" : [
+			[ "fracturaba" ],
+			[ "fracturabas" ],
+			[ "fracturaba" ],
+			[ "fracturábamos" ],
+			[ "fracturabais", "fracturaban" ],
+			[ "fracturaban" ]
+		],
+		"6" : [
+			[ "fracturaría" ],
+			[ "fracturarías" ],
+			[ "fracturaría" ],
+			[ "fracturaríamos" ],
+			[ "fracturaríais", "fracturarían" ],
+			[ "fracturarían" ]
+		],
+		"7" : [
+			[ "fracturaré" ],
+			[ "fracturarás" ],
+			[ "fracturará" ],
+			[ "fracturaremos" ],
+			[ "fracturaréis", "fracturarán" ],
+			[ "fracturarán" ]
+		],
+		"8" : [
+			[ "fracture" ],
+			[ "fractures" ],
+			[ "fracture" ],
+			[ "fracturemos" ],
+			[ "fracturéis", "fracturen" ],
+			[ "fracturen" ]
+		],
+		"9" : [
+			[ "fracturara" ],
+			[ "fracturaras" ],
+			[ "fracturara" ],
+			[ "fracturáramos" ],
+			[ "fracturarais", "fracturaran" ],
+			[ "fracturaran" ]
+		],
+		"10" : [
+			[ "fracturase" ],
+			[ "fracturases" ],
+			[ "fracturase" ],
+			[ "fracturásemos" ],
+			[ "fracturaseis", "fracturasen" ],
+			[ "fracturasen" ]
+		],
+		"11" : [
+			[ "fracturare" ],
+			[ "fracturares" ],
+			[ "fracturare" ],
+			[ "fracturáremos" ],
+			[ "fracturareis", "fracturaren" ],
+			[ "fracturaren" ]
+		],
+		"12" : {
+			"1" : [ "fractura" ],
+			"2" : [ "fracture" ],
+			"3" : [ "fracturemos" ],
+			"4" : [ "fracturad" ],
+			"5" : [ "fracturen" ]
+		}
+	}
+}

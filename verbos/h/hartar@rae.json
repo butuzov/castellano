@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hartar",
+	"word" : "hartar",
+	"infinitivo" : "hartar",
+	"participio" : [ "hartado" ],
+	"gerundio" : [ "hartando" ],
+	"tenses" : {
+		"3" : [
+			[ "harto" ],
+			[ "hartas", "hartás" ],
+			[ "harta" ],
+			[ "hartamos" ],
+			[ "hartáis", "hartan" ],
+			[ "hartan" ]
+		],
+		"4" : [
+			[ "harté" ],
+			[ "hartaste" ],
+			[ "hartó" ],
+			[ "hartamos" ],
+			[ "hartasteis", "hartaron" ],
+			[ "hartaron" ]
+		],
+		"5" : [
+			[ "hartaba" ],
+			[ "hartabas" ],
+			[ "hartaba" ],
+			[ "hartábamos" ],
+			[ "hartabais", "hartaban" ],
+			[ "hartaban" ]
+		],
+		"6" : [
+			[ "hartaría" ],
+			[ "hartarías" ],
+			[ "hartaría" ],
+			[ "hartaríamos" ],
+			[ "hartaríais", "hartarían" ],
+			[ "hartarían" ]
+		],
+		"7" : [
+			[ "hartaré" ],
+			[ "hartarás" ],
+			[ "hartará" ],
+			[ "hartaremos" ],
+			[ "hartaréis", "hartarán" ],
+			[ "hartarán" ]
+		],
+		"8" : [
+			[ "harte" ],
+			[ "hartes" ],
+			[ "harte" ],
+			[ "hartemos" ],
+			[ "hartéis", "harten" ],
+			[ "harten" ]
+		],
+		"9" : [
+			[ "hartara" ],
+			[ "hartaras" ],
+			[ "hartara" ],
+			[ "hartáramos" ],
+			[ "hartarais", "hartaran" ],
+			[ "hartaran" ]
+		],
+		"10" : [
+			[ "hartase" ],
+			[ "hartases" ],
+			[ "hartase" ],
+			[ "hartásemos" ],
+			[ "hartaseis", "hartasen" ],
+			[ "hartasen" ]
+		],
+		"11" : [
+			[ "hartare" ],
+			[ "hartares" ],
+			[ "hartare" ],
+			[ "hartáremos" ],
+			[ "hartareis", "hartaren" ],
+			[ "hartaren" ]
+		],
+		"12" : {
+			"1" : [ "harta" ],
+			"2" : [ "harte" ],
+			"3" : [ "hartemos" ],
+			"4" : [ "hartad" ],
+			"5" : [ "harten" ]
+		}
+	}
+}

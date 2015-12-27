@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=timar",
+	"word" : "timar",
+	"infinitivo" : "timar",
+	"participio" : [ "timado" ],
+	"gerundio" : [ "timando" ],
+	"tenses" : {
+		"3" : [
+			[ "timo" ],
+			[ "timas", "timás" ],
+			[ "tima" ],
+			[ "timamos" ],
+			[ "timáis", "timan" ],
+			[ "timan" ]
+		],
+		"4" : [
+			[ "timé" ],
+			[ "timaste" ],
+			[ "timó" ],
+			[ "timamos" ],
+			[ "timasteis", "timaron" ],
+			[ "timaron" ]
+		],
+		"5" : [
+			[ "timaba" ],
+			[ "timabas" ],
+			[ "timaba" ],
+			[ "timábamos" ],
+			[ "timabais", "timaban" ],
+			[ "timaban" ]
+		],
+		"6" : [
+			[ "timaría" ],
+			[ "timarías" ],
+			[ "timaría" ],
+			[ "timaríamos" ],
+			[ "timaríais", "timarían" ],
+			[ "timarían" ]
+		],
+		"7" : [
+			[ "timaré" ],
+			[ "timarás" ],
+			[ "timará" ],
+			[ "timaremos" ],
+			[ "timaréis", "timarán" ],
+			[ "timarán" ]
+		],
+		"8" : [
+			[ "time" ],
+			[ "times" ],
+			[ "time" ],
+			[ "timemos" ],
+			[ "timéis", "timen" ],
+			[ "timen" ]
+		],
+		"9" : [
+			[ "timara" ],
+			[ "timaras" ],
+			[ "timara" ],
+			[ "timáramos" ],
+			[ "timarais", "timaran" ],
+			[ "timaran" ]
+		],
+		"10" : [
+			[ "timase" ],
+			[ "timases" ],
+			[ "timase" ],
+			[ "timásemos" ],
+			[ "timaseis", "timasen" ],
+			[ "timasen" ]
+		],
+		"11" : [
+			[ "timare" ],
+			[ "timares" ],
+			[ "timare" ],
+			[ "timáremos" ],
+			[ "timareis", "timaren" ],
+			[ "timaren" ]
+		],
+		"12" : {
+			"1" : [ "tima" ],
+			"2" : [ "time" ],
+			"3" : [ "timemos" ],
+			"4" : [ "timad" ],
+			"5" : [ "timen" ]
+		}
+	}
+}

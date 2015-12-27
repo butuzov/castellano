@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=orientar",
+	"word" : "orientar",
+	"infinitivo" : "orientar",
+	"participio" : [ "orientado" ],
+	"gerundio" : [ "orientando" ],
+	"tenses" : {
+		"3" : [
+			[ "oriento" ],
+			[ "orientas", "orientás" ],
+			[ "orienta" ],
+			[ "orientamos" ],
+			[ "orientáis", "orientan" ],
+			[ "orientan" ]
+		],
+		"4" : [
+			[ "orienté" ],
+			[ "orientaste" ],
+			[ "orientó" ],
+			[ "orientamos" ],
+			[ "orientasteis", "orientaron" ],
+			[ "orientaron" ]
+		],
+		"5" : [
+			[ "orientaba" ],
+			[ "orientabas" ],
+			[ "orientaba" ],
+			[ "orientábamos" ],
+			[ "orientabais", "orientaban" ],
+			[ "orientaban" ]
+		],
+		"6" : [
+			[ "orientaría" ],
+			[ "orientarías" ],
+			[ "orientaría" ],
+			[ "orientaríamos" ],
+			[ "orientaríais", "orientarían" ],
+			[ "orientarían" ]
+		],
+		"7" : [
+			[ "orientaré" ],
+			[ "orientarás" ],
+			[ "orientará" ],
+			[ "orientaremos" ],
+			[ "orientaréis", "orientarán" ],
+			[ "orientarán" ]
+		],
+		"8" : [
+			[ "oriente" ],
+			[ "orientes" ],
+			[ "oriente" ],
+			[ "orientemos" ],
+			[ "orientéis", "orienten" ],
+			[ "orienten" ]
+		],
+		"9" : [
+			[ "orientara" ],
+			[ "orientaras" ],
+			[ "orientara" ],
+			[ "orientáramos" ],
+			[ "orientarais", "orientaran" ],
+			[ "orientaran" ]
+		],
+		"10" : [
+			[ "orientase" ],
+			[ "orientases" ],
+			[ "orientase" ],
+			[ "orientásemos" ],
+			[ "orientaseis", "orientasen" ],
+			[ "orientasen" ]
+		],
+		"11" : [
+			[ "orientare" ],
+			[ "orientares" ],
+			[ "orientare" ],
+			[ "orientáremos" ],
+			[ "orientareis", "orientaren" ],
+			[ "orientaren" ]
+		],
+		"12" : {
+			"1" : [ "orienta" ],
+			"2" : [ "oriente" ],
+			"3" : [ "orientemos" ],
+			"4" : [ "orientad" ],
+			"5" : [ "orienten" ]
+		}
+	}
+}

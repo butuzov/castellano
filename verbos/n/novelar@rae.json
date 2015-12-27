@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=novelar",
+	"word" : "novelar",
+	"infinitivo" : "novelar",
+	"participio" : [ "novelado" ],
+	"gerundio" : [ "novelando" ],
+	"tenses" : {
+		"3" : [
+			[ "novelo" ],
+			[ "novelas", "novelás" ],
+			[ "novela" ],
+			[ "novelamos" ],
+			[ "noveláis", "novelan" ],
+			[ "novelan" ]
+		],
+		"4" : [
+			[ "novelé" ],
+			[ "novelaste" ],
+			[ "noveló" ],
+			[ "novelamos" ],
+			[ "novelasteis", "novelaron" ],
+			[ "novelaron" ]
+		],
+		"5" : [
+			[ "novelaba" ],
+			[ "novelabas" ],
+			[ "novelaba" ],
+			[ "novelábamos" ],
+			[ "novelabais", "novelaban" ],
+			[ "novelaban" ]
+		],
+		"6" : [
+			[ "novelaría" ],
+			[ "novelarías" ],
+			[ "novelaría" ],
+			[ "novelaríamos" ],
+			[ "novelaríais", "novelarían" ],
+			[ "novelarían" ]
+		],
+		"7" : [
+			[ "novelaré" ],
+			[ "novelarás" ],
+			[ "novelará" ],
+			[ "novelaremos" ],
+			[ "novelaréis", "novelarán" ],
+			[ "novelarán" ]
+		],
+		"8" : [
+			[ "novele" ],
+			[ "noveles" ],
+			[ "novele" ],
+			[ "novelemos" ],
+			[ "noveléis", "novelen" ],
+			[ "novelen" ]
+		],
+		"9" : [
+			[ "novelara" ],
+			[ "novelaras" ],
+			[ "novelara" ],
+			[ "noveláramos" ],
+			[ "novelarais", "novelaran" ],
+			[ "novelaran" ]
+		],
+		"10" : [
+			[ "novelase" ],
+			[ "novelases" ],
+			[ "novelase" ],
+			[ "novelásemos" ],
+			[ "novelaseis", "novelasen" ],
+			[ "novelasen" ]
+		],
+		"11" : [
+			[ "novelare" ],
+			[ "novelares" ],
+			[ "novelare" ],
+			[ "noveláremos" ],
+			[ "novelareis", "novelaren" ],
+			[ "novelaren" ]
+		],
+		"12" : {
+			"1" : [ "novela" ],
+			"2" : [ "novele" ],
+			"3" : [ "novelemos" ],
+			"4" : [ "novelad" ],
+			"5" : [ "novelen" ]
+		}
+	}
+}

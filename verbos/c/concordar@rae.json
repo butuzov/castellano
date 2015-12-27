@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=concordar",
+	"word" : "concordar",
+	"infinitivo" : "concordar",
+	"participio" : [ "concordado" ],
+	"gerundio" : [ "concordando" ],
+	"tenses" : {
+		"3" : [
+			[ "concuerdo" ],
+			[ "concuerdas", "concordás" ],
+			[ "concuerda" ],
+			[ "concordamos" ],
+			[ "concordáis", "concuerdan" ],
+			[ "concuerdan" ]
+		],
+		"4" : [
+			[ "concordé" ],
+			[ "concordaste" ],
+			[ "concordó" ],
+			[ "concordamos" ],
+			[ "concordasteis", "concordaron" ],
+			[ "concordaron" ]
+		],
+		"5" : [
+			[ "concordaba" ],
+			[ "concordabas" ],
+			[ "concordaba" ],
+			[ "concordábamos" ],
+			[ "concordabais", "concordaban" ],
+			[ "concordaban" ]
+		],
+		"6" : [
+			[ "concordaría" ],
+			[ "concordarías" ],
+			[ "concordaría" ],
+			[ "concordaríamos" ],
+			[ "concordaríais", "concordarían" ],
+			[ "concordarían" ]
+		],
+		"7" : [
+			[ "concordaré" ],
+			[ "concordarás" ],
+			[ "concordará" ],
+			[ "concordaremos" ],
+			[ "concordaréis", "concordarán" ],
+			[ "concordarán" ]
+		],
+		"8" : [
+			[ "concuerde" ],
+			[ "concuerdes" ],
+			[ "concuerde" ],
+			[ "concordemos" ],
+			[ "concordéis", "concuerden" ],
+			[ "concuerden" ]
+		],
+		"9" : [
+			[ "concordara" ],
+			[ "concordaras" ],
+			[ "concordara" ],
+			[ "concordáramos" ],
+			[ "concordarais", "concordaran" ],
+			[ "concordaran" ]
+		],
+		"10" : [
+			[ "concordase" ],
+			[ "concordases" ],
+			[ "concordase" ],
+			[ "concordásemos" ],
+			[ "concordaseis", "concordasen" ],
+			[ "concordasen" ]
+		],
+		"11" : [
+			[ "concordare" ],
+			[ "concordares" ],
+			[ "concordare" ],
+			[ "concordáremos" ],
+			[ "concordareis", "concordaren" ],
+			[ "concordaren" ]
+		],
+		"12" : {
+			"1" : [ "concuerda" ],
+			"2" : [ "concuerde" ],
+			"3" : [ "concordemos" ],
+			"4" : [ "concordad" ],
+			"5" : [ "concuerden" ]
+		}
+	}
+}

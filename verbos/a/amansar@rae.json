@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amansar",
+	"word" : "amansar",
+	"infinitivo" : "amansar",
+	"participio" : [ "amansado" ],
+	"gerundio" : [ "amansando" ],
+	"tenses" : {
+		"3" : [
+			[ "amanso" ],
+			[ "amansas", "amansás" ],
+			[ "amansa" ],
+			[ "amansamos" ],
+			[ "amansáis", "amansan" ],
+			[ "amansan" ]
+		],
+		"4" : [
+			[ "amansé" ],
+			[ "amansaste" ],
+			[ "amansó" ],
+			[ "amansamos" ],
+			[ "amansasteis", "amansaron" ],
+			[ "amansaron" ]
+		],
+		"5" : [
+			[ "amansaba" ],
+			[ "amansabas" ],
+			[ "amansaba" ],
+			[ "amansábamos" ],
+			[ "amansabais", "amansaban" ],
+			[ "amansaban" ]
+		],
+		"6" : [
+			[ "amansaría" ],
+			[ "amansarías" ],
+			[ "amansaría" ],
+			[ "amansaríamos" ],
+			[ "amansaríais", "amansarían" ],
+			[ "amansarían" ]
+		],
+		"7" : [
+			[ "amansaré" ],
+			[ "amansarás" ],
+			[ "amansará" ],
+			[ "amansaremos" ],
+			[ "amansaréis", "amansarán" ],
+			[ "amansarán" ]
+		],
+		"8" : [
+			[ "amanse" ],
+			[ "amanses" ],
+			[ "amanse" ],
+			[ "amansemos" ],
+			[ "amanséis", "amansen" ],
+			[ "amansen" ]
+		],
+		"9" : [
+			[ "amansara" ],
+			[ "amansaras" ],
+			[ "amansara" ],
+			[ "amansáramos" ],
+			[ "amansarais", "amansaran" ],
+			[ "amansaran" ]
+		],
+		"10" : [
+			[ "amansase" ],
+			[ "amansases" ],
+			[ "amansase" ],
+			[ "amansásemos" ],
+			[ "amansaseis", "amansasen" ],
+			[ "amansasen" ]
+		],
+		"11" : [
+			[ "amansare" ],
+			[ "amansares" ],
+			[ "amansare" ],
+			[ "amansáremos" ],
+			[ "amansareis", "amansaren" ],
+			[ "amansaren" ]
+		],
+		"12" : {
+			"1" : [ "amansa" ],
+			"2" : [ "amanse" ],
+			"3" : [ "amansemos" ],
+			"4" : [ "amansad" ],
+			"5" : [ "amansen" ]
+		}
+	}
+}

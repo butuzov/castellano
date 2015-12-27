@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fachar",
+	"word" : "fachar",
+	"infinitivo" : "fachar",
+	"participio" : [ "fachado" ],
+	"gerundio" : [ "fachando" ],
+	"tenses" : {
+		"3" : [
+			[ "facho" ],
+			[ "fachas", "fachás" ],
+			[ "facha" ],
+			[ "fachamos" ],
+			[ "facháis", "fachan" ],
+			[ "fachan" ]
+		],
+		"4" : [
+			[ "faché" ],
+			[ "fachaste" ],
+			[ "fachó" ],
+			[ "fachamos" ],
+			[ "fachasteis", "facharon" ],
+			[ "facharon" ]
+		],
+		"5" : [
+			[ "fachaba" ],
+			[ "fachabas" ],
+			[ "fachaba" ],
+			[ "fachábamos" ],
+			[ "fachabais", "fachaban" ],
+			[ "fachaban" ]
+		],
+		"6" : [
+			[ "facharía" ],
+			[ "facharías" ],
+			[ "facharía" ],
+			[ "facharíamos" ],
+			[ "facharíais", "facharían" ],
+			[ "facharían" ]
+		],
+		"7" : [
+			[ "facharé" ],
+			[ "facharás" ],
+			[ "fachará" ],
+			[ "facharemos" ],
+			[ "facharéis", "facharán" ],
+			[ "facharán" ]
+		],
+		"8" : [
+			[ "fache" ],
+			[ "faches" ],
+			[ "fache" ],
+			[ "fachemos" ],
+			[ "fachéis", "fachen" ],
+			[ "fachen" ]
+		],
+		"9" : [
+			[ "fachara" ],
+			[ "facharas" ],
+			[ "fachara" ],
+			[ "facháramos" ],
+			[ "facharais", "facharan" ],
+			[ "facharan" ]
+		],
+		"10" : [
+			[ "fachase" ],
+			[ "fachases" ],
+			[ "fachase" ],
+			[ "fachásemos" ],
+			[ "fachaseis", "fachasen" ],
+			[ "fachasen" ]
+		],
+		"11" : [
+			[ "fachare" ],
+			[ "fachares" ],
+			[ "fachare" ],
+			[ "facháremos" ],
+			[ "fachareis", "facharen" ],
+			[ "facharen" ]
+		],
+		"12" : {
+			"1" : [ "facha" ],
+			"2" : [ "fache" ],
+			"3" : [ "fachemos" ],
+			"4" : [ "fachad" ],
+			"5" : [ "fachen" ]
+		}
+	}
+}

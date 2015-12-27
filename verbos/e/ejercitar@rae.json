@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ejercitar",
+	"word" : "ejercitar",
+	"infinitivo" : "ejercitar",
+	"participio" : [ "ejercitado" ],
+	"gerundio" : [ "ejercitando" ],
+	"tenses" : {
+		"3" : [
+			[ "ejercito" ],
+			[ "ejercitas", "ejercitás" ],
+			[ "ejercita" ],
+			[ "ejercitamos" ],
+			[ "ejercitáis", "ejercitan" ],
+			[ "ejercitan" ]
+		],
+		"4" : [
+			[ "ejercité" ],
+			[ "ejercitaste" ],
+			[ "ejercitó" ],
+			[ "ejercitamos" ],
+			[ "ejercitasteis", "ejercitaron" ],
+			[ "ejercitaron" ]
+		],
+		"5" : [
+			[ "ejercitaba" ],
+			[ "ejercitabas" ],
+			[ "ejercitaba" ],
+			[ "ejercitábamos" ],
+			[ "ejercitabais", "ejercitaban" ],
+			[ "ejercitaban" ]
+		],
+		"6" : [
+			[ "ejercitaría" ],
+			[ "ejercitarías" ],
+			[ "ejercitaría" ],
+			[ "ejercitaríamos" ],
+			[ "ejercitaríais", "ejercitarían" ],
+			[ "ejercitarían" ]
+		],
+		"7" : [
+			[ "ejercitaré" ],
+			[ "ejercitarás" ],
+			[ "ejercitará" ],
+			[ "ejercitaremos" ],
+			[ "ejercitaréis", "ejercitarán" ],
+			[ "ejercitarán" ]
+		],
+		"8" : [
+			[ "ejercite" ],
+			[ "ejercites" ],
+			[ "ejercite" ],
+			[ "ejercitemos" ],
+			[ "ejercitéis", "ejerciten" ],
+			[ "ejerciten" ]
+		],
+		"9" : [
+			[ "ejercitara" ],
+			[ "ejercitaras" ],
+			[ "ejercitara" ],
+			[ "ejercitáramos" ],
+			[ "ejercitarais", "ejercitaran" ],
+			[ "ejercitaran" ]
+		],
+		"10" : [
+			[ "ejercitase" ],
+			[ "ejercitases" ],
+			[ "ejercitase" ],
+			[ "ejercitásemos" ],
+			[ "ejercitaseis", "ejercitasen" ],
+			[ "ejercitasen" ]
+		],
+		"11" : [
+			[ "ejercitare" ],
+			[ "ejercitares" ],
+			[ "ejercitare" ],
+			[ "ejercitáremos" ],
+			[ "ejercitareis", "ejercitaren" ],
+			[ "ejercitaren" ]
+		],
+		"12" : {
+			"1" : [ "ejercita" ],
+			"2" : [ "ejercite" ],
+			"3" : [ "ejercitemos" ],
+			"4" : [ "ejercitad" ],
+			"5" : [ "ejerciten" ]
+		}
+	}
+}

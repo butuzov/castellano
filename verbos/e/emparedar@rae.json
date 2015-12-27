@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emparedar",
+	"word" : "emparedar",
+	"infinitivo" : "emparedar",
+	"participio" : [ "emparedado" ],
+	"gerundio" : [ "emparedando" ],
+	"tenses" : {
+		"3" : [
+			[ "emparedo" ],
+			[ "emparedas", "emparedás" ],
+			[ "empareda" ],
+			[ "emparedamos" ],
+			[ "emparedáis", "emparedan" ],
+			[ "emparedan" ]
+		],
+		"4" : [
+			[ "emparedé" ],
+			[ "emparedaste" ],
+			[ "emparedó" ],
+			[ "emparedamos" ],
+			[ "emparedasteis", "emparedaron" ],
+			[ "emparedaron" ]
+		],
+		"5" : [
+			[ "emparedaba" ],
+			[ "emparedabas" ],
+			[ "emparedaba" ],
+			[ "emparedábamos" ],
+			[ "emparedabais", "emparedaban" ],
+			[ "emparedaban" ]
+		],
+		"6" : [
+			[ "emparedaría" ],
+			[ "emparedarías" ],
+			[ "emparedaría" ],
+			[ "emparedaríamos" ],
+			[ "emparedaríais", "emparedarían" ],
+			[ "emparedarían" ]
+		],
+		"7" : [
+			[ "emparedaré" ],
+			[ "emparedarás" ],
+			[ "emparedará" ],
+			[ "emparedaremos" ],
+			[ "emparedaréis", "emparedarán" ],
+			[ "emparedarán" ]
+		],
+		"8" : [
+			[ "emparede" ],
+			[ "emparedes" ],
+			[ "emparede" ],
+			[ "emparedemos" ],
+			[ "emparedéis", "empareden" ],
+			[ "empareden" ]
+		],
+		"9" : [
+			[ "emparedara" ],
+			[ "emparedaras" ],
+			[ "emparedara" ],
+			[ "emparedáramos" ],
+			[ "emparedarais", "emparedaran" ],
+			[ "emparedaran" ]
+		],
+		"10" : [
+			[ "emparedase" ],
+			[ "emparedases" ],
+			[ "emparedase" ],
+			[ "emparedásemos" ],
+			[ "emparedaseis", "emparedasen" ],
+			[ "emparedasen" ]
+		],
+		"11" : [
+			[ "emparedare" ],
+			[ "emparedares" ],
+			[ "emparedare" ],
+			[ "emparedáremos" ],
+			[ "emparedareis", "emparedaren" ],
+			[ "emparedaren" ]
+		],
+		"12" : {
+			"1" : [ "empareda" ],
+			"2" : [ "emparede" ],
+			"3" : [ "emparedemos" ],
+			"4" : [ "emparedad" ],
+			"5" : [ "empareden" ]
+		}
+	}
+}

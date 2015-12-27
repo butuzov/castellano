@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despuntar",
+	"word" : "despuntar",
+	"infinitivo" : "despuntar",
+	"participio" : [ "despuntado" ],
+	"gerundio" : [ "despuntando" ],
+	"tenses" : {
+		"3" : [
+			[ "despunto" ],
+			[ "despuntas", "despuntás" ],
+			[ "despunta" ],
+			[ "despuntamos" ],
+			[ "despuntáis", "despuntan" ],
+			[ "despuntan" ]
+		],
+		"4" : [
+			[ "despunté" ],
+			[ "despuntaste" ],
+			[ "despuntó" ],
+			[ "despuntamos" ],
+			[ "despuntasteis", "despuntaron" ],
+			[ "despuntaron" ]
+		],
+		"5" : [
+			[ "despuntaba" ],
+			[ "despuntabas" ],
+			[ "despuntaba" ],
+			[ "despuntábamos" ],
+			[ "despuntabais", "despuntaban" ],
+			[ "despuntaban" ]
+		],
+		"6" : [
+			[ "despuntaría" ],
+			[ "despuntarías" ],
+			[ "despuntaría" ],
+			[ "despuntaríamos" ],
+			[ "despuntaríais", "despuntarían" ],
+			[ "despuntarían" ]
+		],
+		"7" : [
+			[ "despuntaré" ],
+			[ "despuntarás" ],
+			[ "despuntará" ],
+			[ "despuntaremos" ],
+			[ "despuntaréis", "despuntarán" ],
+			[ "despuntarán" ]
+		],
+		"8" : [
+			[ "despunte" ],
+			[ "despuntes" ],
+			[ "despunte" ],
+			[ "despuntemos" ],
+			[ "despuntéis", "despunten" ],
+			[ "despunten" ]
+		],
+		"9" : [
+			[ "despuntara" ],
+			[ "despuntaras" ],
+			[ "despuntara" ],
+			[ "despuntáramos" ],
+			[ "despuntarais", "despuntaran" ],
+			[ "despuntaran" ]
+		],
+		"10" : [
+			[ "despuntase" ],
+			[ "despuntases" ],
+			[ "despuntase" ],
+			[ "despuntásemos" ],
+			[ "despuntaseis", "despuntasen" ],
+			[ "despuntasen" ]
+		],
+		"11" : [
+			[ "despuntare" ],
+			[ "despuntares" ],
+			[ "despuntare" ],
+			[ "despuntáremos" ],
+			[ "despuntareis", "despuntaren" ],
+			[ "despuntaren" ]
+		],
+		"12" : {
+			"1" : [ "despunta" ],
+			"2" : [ "despunte" ],
+			"3" : [ "despuntemos" ],
+			"4" : [ "despuntad" ],
+			"5" : [ "despunten" ]
+		}
+	}
+}

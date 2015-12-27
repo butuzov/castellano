@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chispear",
+	"word" : "chispear",
+	"infinitivo" : "chispear",
+	"participio" : [ "chispeado" ],
+	"gerundio" : [ "chispeando" ],
+	"tenses" : {
+		"3" : [
+			[ "chispeo" ],
+			[ "chispeas", "chispeás" ],
+			[ "chispea" ],
+			[ "chispeamos" ],
+			[ "chispeáis", "chispean" ],
+			[ "chispean" ]
+		],
+		"4" : [
+			[ "chispeé" ],
+			[ "chispeaste" ],
+			[ "chispeó" ],
+			[ "chispeamos" ],
+			[ "chispeasteis", "chispearon" ],
+			[ "chispearon" ]
+		],
+		"5" : [
+			[ "chispeaba" ],
+			[ "chispeabas" ],
+			[ "chispeaba" ],
+			[ "chispeábamos" ],
+			[ "chispeabais", "chispeaban" ],
+			[ "chispeaban" ]
+		],
+		"6" : [
+			[ "chispearía" ],
+			[ "chispearías" ],
+			[ "chispearía" ],
+			[ "chispearíamos" ],
+			[ "chispearíais", "chispearían" ],
+			[ "chispearían" ]
+		],
+		"7" : [
+			[ "chispearé" ],
+			[ "chispearás" ],
+			[ "chispeará" ],
+			[ "chispearemos" ],
+			[ "chispearéis", "chispearán" ],
+			[ "chispearán" ]
+		],
+		"8" : [
+			[ "chispee" ],
+			[ "chispees" ],
+			[ "chispee" ],
+			[ "chispeemos" ],
+			[ "chispeéis", "chispeen" ],
+			[ "chispeen" ]
+		],
+		"9" : [
+			[ "chispeara" ],
+			[ "chispearas" ],
+			[ "chispeara" ],
+			[ "chispeáramos" ],
+			[ "chispearais", "chispearan" ],
+			[ "chispearan" ]
+		],
+		"10" : [
+			[ "chispease" ],
+			[ "chispeases" ],
+			[ "chispease" ],
+			[ "chispeásemos" ],
+			[ "chispeaseis", "chispeasen" ],
+			[ "chispeasen" ]
+		],
+		"11" : [
+			[ "chispeare" ],
+			[ "chispeares" ],
+			[ "chispeare" ],
+			[ "chispeáremos" ],
+			[ "chispeareis", "chispearen" ],
+			[ "chispearen" ]
+		],
+		"12" : {
+			"1" : [ "chispea" ],
+			"2" : [ "chispee" ],
+			"3" : [ "chispeemos" ],
+			"4" : [ "chispead" ],
+			"5" : [ "chispeen" ]
+		}
+	}
+}

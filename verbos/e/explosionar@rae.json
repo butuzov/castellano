@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=explosionar",
+	"word" : "explosionar",
+	"infinitivo" : "explosionar",
+	"participio" : [ "explosionado" ],
+	"gerundio" : [ "explosionando" ],
+	"tenses" : {
+		"3" : [
+			[ "explosiono" ],
+			[ "explosionas", "explosionás" ],
+			[ "explosiona" ],
+			[ "explosionamos" ],
+			[ "explosionáis", "explosionan" ],
+			[ "explosionan" ]
+		],
+		"4" : [
+			[ "explosioné" ],
+			[ "explosionaste" ],
+			[ "explosionó" ],
+			[ "explosionamos" ],
+			[ "explosionasteis", "explosionaron" ],
+			[ "explosionaron" ]
+		],
+		"5" : [
+			[ "explosionaba" ],
+			[ "explosionabas" ],
+			[ "explosionaba" ],
+			[ "explosionábamos" ],
+			[ "explosionabais", "explosionaban" ],
+			[ "explosionaban" ]
+		],
+		"6" : [
+			[ "explosionaría" ],
+			[ "explosionarías" ],
+			[ "explosionaría" ],
+			[ "explosionaríamos" ],
+			[ "explosionaríais", "explosionarían" ],
+			[ "explosionarían" ]
+		],
+		"7" : [
+			[ "explosionaré" ],
+			[ "explosionarás" ],
+			[ "explosionará" ],
+			[ "explosionaremos" ],
+			[ "explosionaréis", "explosionarán" ],
+			[ "explosionarán" ]
+		],
+		"8" : [
+			[ "explosione" ],
+			[ "explosiones" ],
+			[ "explosione" ],
+			[ "explosionemos" ],
+			[ "explosionéis", "explosionen" ],
+			[ "explosionen" ]
+		],
+		"9" : [
+			[ "explosionara" ],
+			[ "explosionaras" ],
+			[ "explosionara" ],
+			[ "explosionáramos" ],
+			[ "explosionarais", "explosionaran" ],
+			[ "explosionaran" ]
+		],
+		"10" : [
+			[ "explosionase" ],
+			[ "explosionases" ],
+			[ "explosionase" ],
+			[ "explosionásemos" ],
+			[ "explosionaseis", "explosionasen" ],
+			[ "explosionasen" ]
+		],
+		"11" : [
+			[ "explosionare" ],
+			[ "explosionares" ],
+			[ "explosionare" ],
+			[ "explosionáremos" ],
+			[ "explosionareis", "explosionaren" ],
+			[ "explosionaren" ]
+		],
+		"12" : {
+			"1" : [ "explosiona" ],
+			"2" : [ "explosione" ],
+			"3" : [ "explosionemos" ],
+			"4" : [ "explosionad" ],
+			"5" : [ "explosionen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=impeler",
+	"word" : "impeler",
+	"infinitivo" : "impeler",
+	"participio" : [ "impelido" ],
+	"gerundio" : [ "impeliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "impelo" ],
+			[ "impeles", "impelés" ],
+			[ "impele" ],
+			[ "impelemos" ],
+			[ "impeléis", "impelen" ],
+			[ "impelen" ]
+		],
+		"4" : [
+			[ "impelí" ],
+			[ "impeliste" ],
+			[ "impelió" ],
+			[ "impelimos" ],
+			[ "impelisteis", "impelieron" ],
+			[ "impelieron" ]
+		],
+		"5" : [
+			[ "impelía" ],
+			[ "impelías" ],
+			[ "impelía" ],
+			[ "impelíamos" ],
+			[ "impelíais", "impelían" ],
+			[ "impelían" ]
+		],
+		"6" : [
+			[ "impelería" ],
+			[ "impelerías" ],
+			[ "impelería" ],
+			[ "impeleríamos" ],
+			[ "impeleríais", "impelerían" ],
+			[ "impelerían" ]
+		],
+		"7" : [
+			[ "impeleré" ],
+			[ "impelerás" ],
+			[ "impelerá" ],
+			[ "impeleremos" ],
+			[ "impeleréis", "impelerán" ],
+			[ "impelerán" ]
+		],
+		"8" : [
+			[ "impela" ],
+			[ "impelas" ],
+			[ "impela" ],
+			[ "impelamos" ],
+			[ "impeláis", "impelan" ],
+			[ "impelan" ]
+		],
+		"9" : [
+			[ "impeliera" ],
+			[ "impelieras" ],
+			[ "impeliera" ],
+			[ "impeliéramos" ],
+			[ "impelierais", "impelieran" ],
+			[ "impelieran" ]
+		],
+		"10" : [
+			[ "impeliese" ],
+			[ "impelieses" ],
+			[ "impeliese" ],
+			[ "impeliésemos" ],
+			[ "impelieseis", "impeliesen" ],
+			[ "impeliesen" ]
+		],
+		"11" : [
+			[ "impeliere" ],
+			[ "impelieres" ],
+			[ "impeliere" ],
+			[ "impeliéremos" ],
+			[ "impeliereis", "impelieren" ],
+			[ "impelieren" ]
+		],
+		"12" : {
+			"1" : [ "impele" ],
+			"2" : [ "impela" ],
+			"3" : [ "impelamos" ],
+			"4" : [ "impeled" ],
+			"5" : [ "impelan" ]
+		}
+	}
+}

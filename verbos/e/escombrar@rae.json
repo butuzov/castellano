@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escombrar",
+	"word" : "escombrar",
+	"infinitivo" : "escombrar",
+	"participio" : [ "escombrado" ],
+	"gerundio" : [ "escombrando" ],
+	"tenses" : {
+		"3" : [
+			[ "escombro" ],
+			[ "escombras", "escombrás" ],
+			[ "escombra" ],
+			[ "escombramos" ],
+			[ "escombráis", "escombran" ],
+			[ "escombran" ]
+		],
+		"4" : [
+			[ "escombré" ],
+			[ "escombraste" ],
+			[ "escombró" ],
+			[ "escombramos" ],
+			[ "escombrasteis", "escombraron" ],
+			[ "escombraron" ]
+		],
+		"5" : [
+			[ "escombraba" ],
+			[ "escombrabas" ],
+			[ "escombraba" ],
+			[ "escombrábamos" ],
+			[ "escombrabais", "escombraban" ],
+			[ "escombraban" ]
+		],
+		"6" : [
+			[ "escombraría" ],
+			[ "escombrarías" ],
+			[ "escombraría" ],
+			[ "escombraríamos" ],
+			[ "escombraríais", "escombrarían" ],
+			[ "escombrarían" ]
+		],
+		"7" : [
+			[ "escombraré" ],
+			[ "escombrarás" ],
+			[ "escombrará" ],
+			[ "escombraremos" ],
+			[ "escombraréis", "escombrarán" ],
+			[ "escombrarán" ]
+		],
+		"8" : [
+			[ "escombre" ],
+			[ "escombres" ],
+			[ "escombre" ],
+			[ "escombremos" ],
+			[ "escombréis", "escombren" ],
+			[ "escombren" ]
+		],
+		"9" : [
+			[ "escombrara" ],
+			[ "escombraras" ],
+			[ "escombrara" ],
+			[ "escombráramos" ],
+			[ "escombrarais", "escombraran" ],
+			[ "escombraran" ]
+		],
+		"10" : [
+			[ "escombrase" ],
+			[ "escombrases" ],
+			[ "escombrase" ],
+			[ "escombrásemos" ],
+			[ "escombraseis", "escombrasen" ],
+			[ "escombrasen" ]
+		],
+		"11" : [
+			[ "escombrare" ],
+			[ "escombrares" ],
+			[ "escombrare" ],
+			[ "escombráremos" ],
+			[ "escombrareis", "escombraren" ],
+			[ "escombraren" ]
+		],
+		"12" : {
+			"1" : [ "escombra" ],
+			"2" : [ "escombre" ],
+			"3" : [ "escombremos" ],
+			"4" : [ "escombrad" ],
+			"5" : [ "escombren" ]
+		}
+	}
+}

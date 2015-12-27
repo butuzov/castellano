@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=finalizar",
+	"word" : "finalizar",
+	"infinitivo" : "finalizar",
+	"participio" : [ "finalizado" ],
+	"gerundio" : [ "finalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "finalizo" ],
+			[ "finalizas", "finalizás" ],
+			[ "finaliza" ],
+			[ "finalizamos" ],
+			[ "finalizáis", "finalizan" ],
+			[ "finalizan" ]
+		],
+		"4" : [
+			[ "finalicé" ],
+			[ "finalizaste" ],
+			[ "finalizó" ],
+			[ "finalizamos" ],
+			[ "finalizasteis", "finalizaron" ],
+			[ "finalizaron" ]
+		],
+		"5" : [
+			[ "finalizaba" ],
+			[ "finalizabas" ],
+			[ "finalizaba" ],
+			[ "finalizábamos" ],
+			[ "finalizabais", "finalizaban" ],
+			[ "finalizaban" ]
+		],
+		"6" : [
+			[ "finalizaría" ],
+			[ "finalizarías" ],
+			[ "finalizaría" ],
+			[ "finalizaríamos" ],
+			[ "finalizaríais", "finalizarían" ],
+			[ "finalizarían" ]
+		],
+		"7" : [
+			[ "finalizaré" ],
+			[ "finalizarás" ],
+			[ "finalizará" ],
+			[ "finalizaremos" ],
+			[ "finalizaréis", "finalizarán" ],
+			[ "finalizarán" ]
+		],
+		"8" : [
+			[ "finalice" ],
+			[ "finalices" ],
+			[ "finalice" ],
+			[ "finalicemos" ],
+			[ "finalicéis", "finalicen" ],
+			[ "finalicen" ]
+		],
+		"9" : [
+			[ "finalizara" ],
+			[ "finalizaras" ],
+			[ "finalizara" ],
+			[ "finalizáramos" ],
+			[ "finalizarais", "finalizaran" ],
+			[ "finalizaran" ]
+		],
+		"10" : [
+			[ "finalizase" ],
+			[ "finalizases" ],
+			[ "finalizase" ],
+			[ "finalizásemos" ],
+			[ "finalizaseis", "finalizasen" ],
+			[ "finalizasen" ]
+		],
+		"11" : [
+			[ "finalizare" ],
+			[ "finalizares" ],
+			[ "finalizare" ],
+			[ "finalizáremos" ],
+			[ "finalizareis", "finalizaren" ],
+			[ "finalizaren" ]
+		],
+		"12" : {
+			"1" : [ "finaliza" ],
+			"2" : [ "finalice" ],
+			"3" : [ "finalicemos" ],
+			"4" : [ "finalizad" ],
+			"5" : [ "finalicen" ]
+		}
+	}
+}

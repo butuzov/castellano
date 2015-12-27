@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=perfeccionar",
+	"word" : "perfeccionar",
+	"infinitivo" : "perfeccionar",
+	"participio" : [ "perfeccionado" ],
+	"gerundio" : [ "perfeccionando" ],
+	"tenses" : {
+		"3" : [
+			[ "perfecciono" ],
+			[ "perfeccionas", "perfeccionás" ],
+			[ "perfecciona" ],
+			[ "perfeccionamos" ],
+			[ "perfeccionáis", "perfeccionan" ],
+			[ "perfeccionan" ]
+		],
+		"4" : [
+			[ "perfeccioné" ],
+			[ "perfeccionaste" ],
+			[ "perfeccionó" ],
+			[ "perfeccionamos" ],
+			[ "perfeccionasteis", "perfeccionaron" ],
+			[ "perfeccionaron" ]
+		],
+		"5" : [
+			[ "perfeccionaba" ],
+			[ "perfeccionabas" ],
+			[ "perfeccionaba" ],
+			[ "perfeccionábamos" ],
+			[ "perfeccionabais", "perfeccionaban" ],
+			[ "perfeccionaban" ]
+		],
+		"6" : [
+			[ "perfeccionaría" ],
+			[ "perfeccionarías" ],
+			[ "perfeccionaría" ],
+			[ "perfeccionaríamos" ],
+			[ "perfeccionaríais", "perfeccionarían" ],
+			[ "perfeccionarían" ]
+		],
+		"7" : [
+			[ "perfeccionaré" ],
+			[ "perfeccionarás" ],
+			[ "perfeccionará" ],
+			[ "perfeccionaremos" ],
+			[ "perfeccionaréis", "perfeccionarán" ],
+			[ "perfeccionarán" ]
+		],
+		"8" : [
+			[ "perfeccione" ],
+			[ "perfecciones" ],
+			[ "perfeccione" ],
+			[ "perfeccionemos" ],
+			[ "perfeccionéis", "perfeccionen" ],
+			[ "perfeccionen" ]
+		],
+		"9" : [
+			[ "perfeccionara" ],
+			[ "perfeccionaras" ],
+			[ "perfeccionara" ],
+			[ "perfeccionáramos" ],
+			[ "perfeccionarais", "perfeccionaran" ],
+			[ "perfeccionaran" ]
+		],
+		"10" : [
+			[ "perfeccionase" ],
+			[ "perfeccionases" ],
+			[ "perfeccionase" ],
+			[ "perfeccionásemos" ],
+			[ "perfeccionaseis", "perfeccionasen" ],
+			[ "perfeccionasen" ]
+		],
+		"11" : [
+			[ "perfeccionare" ],
+			[ "perfeccionares" ],
+			[ "perfeccionare" ],
+			[ "perfeccionáremos" ],
+			[ "perfeccionareis", "perfeccionaren" ],
+			[ "perfeccionaren" ]
+		],
+		"12" : {
+			"1" : [ "perfecciona" ],
+			"2" : [ "perfeccione" ],
+			"3" : [ "perfeccionemos" ],
+			"4" : [ "perfeccionad" ],
+			"5" : [ "perfeccionen" ]
+		}
+	}
+}

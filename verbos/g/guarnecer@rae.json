@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=guarnecer",
+	"word" : "guarnecer",
+	"infinitivo" : "guarnecer",
+	"participio" : [ "guarnecido" ],
+	"gerundio" : [ "guarneciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "guarnezco" ],
+			[ "guarneces", "guarnecés" ],
+			[ "guarnece" ],
+			[ "guarnecemos" ],
+			[ "guarnecéis", "guarnecen" ],
+			[ "guarnecen" ]
+		],
+		"4" : [
+			[ "guarnecí" ],
+			[ "guarneciste" ],
+			[ "guarneció" ],
+			[ "guarnecimos" ],
+			[ "guarnecisteis", "guarnecieron" ],
+			[ "guarnecieron" ]
+		],
+		"5" : [
+			[ "guarnecía" ],
+			[ "guarnecías" ],
+			[ "guarnecía" ],
+			[ "guarnecíamos" ],
+			[ "guarnecíais", "guarnecían" ],
+			[ "guarnecían" ]
+		],
+		"6" : [
+			[ "guarnecería" ],
+			[ "guarnecerías" ],
+			[ "guarnecería" ],
+			[ "guarneceríamos" ],
+			[ "guarneceríais", "guarnecerían" ],
+			[ "guarnecerían" ]
+		],
+		"7" : [
+			[ "guarneceré" ],
+			[ "guarnecerás" ],
+			[ "guarnecerá" ],
+			[ "guarneceremos" ],
+			[ "guarneceréis", "guarnecerán" ],
+			[ "guarnecerán" ]
+		],
+		"8" : [
+			[ "guarnezca" ],
+			[ "guarnezcas" ],
+			[ "guarnezca" ],
+			[ "guarnezcamos" ],
+			[ "guarnezcáis", "guarnezcan" ],
+			[ "guarnezcan" ]
+		],
+		"9" : [
+			[ "guarneciera" ],
+			[ "guarnecieras" ],
+			[ "guarneciera" ],
+			[ "guarneciéramos" ],
+			[ "guarnecierais", "guarnecieran" ],
+			[ "guarnecieran" ]
+		],
+		"10" : [
+			[ "guarneciese" ],
+			[ "guarnecieses" ],
+			[ "guarneciese" ],
+			[ "guarneciésemos" ],
+			[ "guarnecieseis", "guarneciesen" ],
+			[ "guarneciesen" ]
+		],
+		"11" : [
+			[ "guarneciere" ],
+			[ "guarnecieres" ],
+			[ "guarneciere" ],
+			[ "guarneciéremos" ],
+			[ "guarneciereis", "guarnecieren" ],
+			[ "guarnecieren" ]
+		],
+		"12" : {
+			"1" : [ "guarnece" ],
+			"2" : [ "guarnezca" ],
+			"3" : [ "guarnezcamos" ],
+			"4" : [ "guarneced" ],
+			"5" : [ "guarnezcan" ]
+		}
+	}
+}

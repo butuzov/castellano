@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prevaler",
+	"word" : "prevaler",
+	"infinitivo" : "prevaler",
+	"participio" : [ "prevalido" ],
+	"gerundio" : [ "prevaliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "prevalgo" ],
+			[ "prevales", "prevalés" ],
+			[ "prevale" ],
+			[ "prevalemos" ],
+			[ "prevaléis", "prevalen" ],
+			[ "prevalen" ]
+		],
+		"4" : [
+			[ "prevalí" ],
+			[ "prevaliste" ],
+			[ "prevalió" ],
+			[ "prevalimos" ],
+			[ "prevalisteis", "prevalieron" ],
+			[ "prevalieron" ]
+		],
+		"5" : [
+			[ "prevalía" ],
+			[ "prevalías" ],
+			[ "prevalía" ],
+			[ "prevalíamos" ],
+			[ "prevalíais", "prevalían" ],
+			[ "prevalían" ]
+		],
+		"6" : [
+			[ "prevaldría" ],
+			[ "prevaldrías" ],
+			[ "prevaldría" ],
+			[ "prevaldríamos" ],
+			[ "prevaldríais", "prevaldrían" ],
+			[ "prevaldrían" ]
+		],
+		"7" : [
+			[ "prevaldré" ],
+			[ "prevaldrás" ],
+			[ "prevaldrá" ],
+			[ "prevaldremos" ],
+			[ "prevaldréis", "prevaldrán" ],
+			[ "prevaldrán" ]
+		],
+		"8" : [
+			[ "prevalga" ],
+			[ "prevalgas" ],
+			[ "prevalga" ],
+			[ "prevalgamos" ],
+			[ "prevalgáis", "prevalgan" ],
+			[ "prevalgan" ]
+		],
+		"9" : [
+			[ "prevaliera" ],
+			[ "prevalieras" ],
+			[ "prevaliera" ],
+			[ "prevaliéramos" ],
+			[ "prevalierais", "prevalieran" ],
+			[ "prevalieran" ]
+		],
+		"10" : [
+			[ "prevaliese" ],
+			[ "prevalieses" ],
+			[ "prevaliese" ],
+			[ "prevaliésemos" ],
+			[ "prevalieseis", "prevaliesen" ],
+			[ "prevaliesen" ]
+		],
+		"11" : [
+			[ "prevaliere" ],
+			[ "prevalieres" ],
+			[ "prevaliere" ],
+			[ "prevaliéremos" ],
+			[ "prevaliereis", "prevalieren" ],
+			[ "prevalieren" ]
+		],
+		"12" : {
+			"1" : [ "prevale" ],
+			"2" : [ "prevalga" ],
+			"3" : [ "prevalgamos" ],
+			"4" : [ "prevaled" ],
+			"5" : [ "prevalgan" ]
+		}
+	}
+}

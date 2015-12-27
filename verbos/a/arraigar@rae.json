@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arraigar",
+	"word" : "arraigar",
+	"infinitivo" : "arraigar",
+	"participio" : [ "arraigado" ],
+	"gerundio" : [ "arraigando" ],
+	"tenses" : {
+		"3" : [
+			[ "arraigo" ],
+			[ "arraigas", "arraigás" ],
+			[ "arraiga" ],
+			[ "arraigamos" ],
+			[ "arraigáis", "arraigan" ],
+			[ "arraigan" ]
+		],
+		"4" : [
+			[ "arraigué" ],
+			[ "arraigaste" ],
+			[ "arraigó" ],
+			[ "arraigamos" ],
+			[ "arraigasteis", "arraigaron" ],
+			[ "arraigaron" ]
+		],
+		"5" : [
+			[ "arraigaba" ],
+			[ "arraigabas" ],
+			[ "arraigaba" ],
+			[ "arraigábamos" ],
+			[ "arraigabais", "arraigaban" ],
+			[ "arraigaban" ]
+		],
+		"6" : [
+			[ "arraigaría" ],
+			[ "arraigarías" ],
+			[ "arraigaría" ],
+			[ "arraigaríamos" ],
+			[ "arraigaríais", "arraigarían" ],
+			[ "arraigarían" ]
+		],
+		"7" : [
+			[ "arraigaré" ],
+			[ "arraigarás" ],
+			[ "arraigará" ],
+			[ "arraigaremos" ],
+			[ "arraigaréis", "arraigarán" ],
+			[ "arraigarán" ]
+		],
+		"8" : [
+			[ "arraigue" ],
+			[ "arraigues" ],
+			[ "arraigue" ],
+			[ "arraiguemos" ],
+			[ "arraiguéis", "arraiguen" ],
+			[ "arraiguen" ]
+		],
+		"9" : [
+			[ "arraigara" ],
+			[ "arraigaras" ],
+			[ "arraigara" ],
+			[ "arraigáramos" ],
+			[ "arraigarais", "arraigaran" ],
+			[ "arraigaran" ]
+		],
+		"10" : [
+			[ "arraigase" ],
+			[ "arraigases" ],
+			[ "arraigase" ],
+			[ "arraigásemos" ],
+			[ "arraigaseis", "arraigasen" ],
+			[ "arraigasen" ]
+		],
+		"11" : [
+			[ "arraigare" ],
+			[ "arraigares" ],
+			[ "arraigare" ],
+			[ "arraigáremos" ],
+			[ "arraigareis", "arraigaren" ],
+			[ "arraigaren" ]
+		],
+		"12" : {
+			"1" : [ "arraiga" ],
+			"2" : [ "arraigue" ],
+			"3" : [ "arraiguemos" ],
+			"4" : [ "arraigad" ],
+			"5" : [ "arraiguen" ]
+		}
+	}
+}

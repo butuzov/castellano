@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=renovar",
+	"word" : "renovar",
+	"infinitivo" : "renovar",
+	"participio" : [ "renovado" ],
+	"gerundio" : [ "renovando" ],
+	"tenses" : {
+		"3" : [
+			[ "renuevo" ],
+			[ "renuevas", "renovás" ],
+			[ "renueva" ],
+			[ "renovamos" ],
+			[ "renováis", "renuevan" ],
+			[ "renuevan" ]
+		],
+		"4" : [
+			[ "renové" ],
+			[ "renovaste" ],
+			[ "renovó" ],
+			[ "renovamos" ],
+			[ "renovasteis", "renovaron" ],
+			[ "renovaron" ]
+		],
+		"5" : [
+			[ "renovaba" ],
+			[ "renovabas" ],
+			[ "renovaba" ],
+			[ "renovábamos" ],
+			[ "renovabais", "renovaban" ],
+			[ "renovaban" ]
+		],
+		"6" : [
+			[ "renovaría" ],
+			[ "renovarías" ],
+			[ "renovaría" ],
+			[ "renovaríamos" ],
+			[ "renovaríais", "renovarían" ],
+			[ "renovarían" ]
+		],
+		"7" : [
+			[ "renovaré" ],
+			[ "renovarás" ],
+			[ "renovará" ],
+			[ "renovaremos" ],
+			[ "renovaréis", "renovarán" ],
+			[ "renovarán" ]
+		],
+		"8" : [
+			[ "renueve" ],
+			[ "renueves" ],
+			[ "renueve" ],
+			[ "renovemos" ],
+			[ "renovéis", "renueven" ],
+			[ "renueven" ]
+		],
+		"9" : [
+			[ "renovara" ],
+			[ "renovaras" ],
+			[ "renovara" ],
+			[ "renováramos" ],
+			[ "renovarais", "renovaran" ],
+			[ "renovaran" ]
+		],
+		"10" : [
+			[ "renovase" ],
+			[ "renovases" ],
+			[ "renovase" ],
+			[ "renovásemos" ],
+			[ "renovaseis", "renovasen" ],
+			[ "renovasen" ]
+		],
+		"11" : [
+			[ "renovare" ],
+			[ "renovares" ],
+			[ "renovare" ],
+			[ "renováremos" ],
+			[ "renovareis", "renovaren" ],
+			[ "renovaren" ]
+		],
+		"12" : {
+			"1" : [ "renueva" ],
+			"2" : [ "renueve" ],
+			"3" : [ "renovemos" ],
+			"4" : [ "renovad" ],
+			"5" : [ "renueven" ]
+		}
+	}
+}

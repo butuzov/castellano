@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=envidiar",
+	"word" : "envidiar",
+	"infinitivo" : "envidiar",
+	"participio" : [ "envidiado" ],
+	"gerundio" : [ "envidiando" ],
+	"tenses" : {
+		"3" : [
+			[ "envidio" ],
+			[ "envidias", "envidiás" ],
+			[ "envidia" ],
+			[ "envidiamos" ],
+			[ "envidiáis", "envidian" ],
+			[ "envidian" ]
+		],
+		"4" : [
+			[ "envidié" ],
+			[ "envidiaste" ],
+			[ "envidió" ],
+			[ "envidiamos" ],
+			[ "envidiasteis", "envidiaron" ],
+			[ "envidiaron" ]
+		],
+		"5" : [
+			[ "envidiaba" ],
+			[ "envidiabas" ],
+			[ "envidiaba" ],
+			[ "envidiábamos" ],
+			[ "envidiabais", "envidiaban" ],
+			[ "envidiaban" ]
+		],
+		"6" : [
+			[ "envidiaría" ],
+			[ "envidiarías" ],
+			[ "envidiaría" ],
+			[ "envidiaríamos" ],
+			[ "envidiaríais", "envidiarían" ],
+			[ "envidiarían" ]
+		],
+		"7" : [
+			[ "envidiaré" ],
+			[ "envidiarás" ],
+			[ "envidiará" ],
+			[ "envidiaremos" ],
+			[ "envidiaréis", "envidiarán" ],
+			[ "envidiarán" ]
+		],
+		"8" : [
+			[ "envidie" ],
+			[ "envidies" ],
+			[ "envidie" ],
+			[ "envidiemos" ],
+			[ "envidiéis", "envidien" ],
+			[ "envidien" ]
+		],
+		"9" : [
+			[ "envidiara" ],
+			[ "envidiaras" ],
+			[ "envidiara" ],
+			[ "envidiáramos" ],
+			[ "envidiarais", "envidiaran" ],
+			[ "envidiaran" ]
+		],
+		"10" : [
+			[ "envidiase" ],
+			[ "envidiases" ],
+			[ "envidiase" ],
+			[ "envidiásemos" ],
+			[ "envidiaseis", "envidiasen" ],
+			[ "envidiasen" ]
+		],
+		"11" : [
+			[ "envidiare" ],
+			[ "envidiares" ],
+			[ "envidiare" ],
+			[ "envidiáremos" ],
+			[ "envidiareis", "envidiaren" ],
+			[ "envidiaren" ]
+		],
+		"12" : {
+			"1" : [ "envidia" ],
+			"2" : [ "envidie" ],
+			"3" : [ "envidiemos" ],
+			"4" : [ "envidiad" ],
+			"5" : [ "envidien" ]
+		}
+	}
+}

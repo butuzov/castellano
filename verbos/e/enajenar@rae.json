@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enajenar",
+	"word" : "enajenar",
+	"infinitivo" : "enajenar",
+	"participio" : [ "enajenado" ],
+	"gerundio" : [ "enajenando" ],
+	"tenses" : {
+		"3" : [
+			[ "enajeno" ],
+			[ "enajenas", "enajenás" ],
+			[ "enajena" ],
+			[ "enajenamos" ],
+			[ "enajenáis", "enajenan" ],
+			[ "enajenan" ]
+		],
+		"4" : [
+			[ "enajené" ],
+			[ "enajenaste" ],
+			[ "enajenó" ],
+			[ "enajenamos" ],
+			[ "enajenasteis", "enajenaron" ],
+			[ "enajenaron" ]
+		],
+		"5" : [
+			[ "enajenaba" ],
+			[ "enajenabas" ],
+			[ "enajenaba" ],
+			[ "enajenábamos" ],
+			[ "enajenabais", "enajenaban" ],
+			[ "enajenaban" ]
+		],
+		"6" : [
+			[ "enajenaría" ],
+			[ "enajenarías" ],
+			[ "enajenaría" ],
+			[ "enajenaríamos" ],
+			[ "enajenaríais", "enajenarían" ],
+			[ "enajenarían" ]
+		],
+		"7" : [
+			[ "enajenaré" ],
+			[ "enajenarás" ],
+			[ "enajenará" ],
+			[ "enajenaremos" ],
+			[ "enajenaréis", "enajenarán" ],
+			[ "enajenarán" ]
+		],
+		"8" : [
+			[ "enajene" ],
+			[ "enajenes" ],
+			[ "enajene" ],
+			[ "enajenemos" ],
+			[ "enajenéis", "enajenen" ],
+			[ "enajenen" ]
+		],
+		"9" : [
+			[ "enajenara" ],
+			[ "enajenaras" ],
+			[ "enajenara" ],
+			[ "enajenáramos" ],
+			[ "enajenarais", "enajenaran" ],
+			[ "enajenaran" ]
+		],
+		"10" : [
+			[ "enajenase" ],
+			[ "enajenases" ],
+			[ "enajenase" ],
+			[ "enajenásemos" ],
+			[ "enajenaseis", "enajenasen" ],
+			[ "enajenasen" ]
+		],
+		"11" : [
+			[ "enajenare" ],
+			[ "enajenares" ],
+			[ "enajenare" ],
+			[ "enajenáremos" ],
+			[ "enajenareis", "enajenaren" ],
+			[ "enajenaren" ]
+		],
+		"12" : {
+			"1" : [ "enajena" ],
+			"2" : [ "enajene" ],
+			"3" : [ "enajenemos" ],
+			"4" : [ "enajenad" ],
+			"5" : [ "enajenen" ]
+		}
+	}
+}

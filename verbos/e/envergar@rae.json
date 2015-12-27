@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=envergar",
+	"word" : "envergar",
+	"infinitivo" : "envergar",
+	"participio" : [ "envergado" ],
+	"gerundio" : [ "envergando" ],
+	"tenses" : {
+		"3" : [
+			[ "envergo" ],
+			[ "envergas", "envergás" ],
+			[ "enverga" ],
+			[ "envergamos" ],
+			[ "envergáis", "envergan" ],
+			[ "envergan" ]
+		],
+		"4" : [
+			[ "envergué" ],
+			[ "envergaste" ],
+			[ "envergó" ],
+			[ "envergamos" ],
+			[ "envergasteis", "envergaron" ],
+			[ "envergaron" ]
+		],
+		"5" : [
+			[ "envergaba" ],
+			[ "envergabas" ],
+			[ "envergaba" ],
+			[ "envergábamos" ],
+			[ "envergabais", "envergaban" ],
+			[ "envergaban" ]
+		],
+		"6" : [
+			[ "envergaría" ],
+			[ "envergarías" ],
+			[ "envergaría" ],
+			[ "envergaríamos" ],
+			[ "envergaríais", "envergarían" ],
+			[ "envergarían" ]
+		],
+		"7" : [
+			[ "envergaré" ],
+			[ "envergarás" ],
+			[ "envergará" ],
+			[ "envergaremos" ],
+			[ "envergaréis", "envergarán" ],
+			[ "envergarán" ]
+		],
+		"8" : [
+			[ "envergue" ],
+			[ "envergues" ],
+			[ "envergue" ],
+			[ "enverguemos" ],
+			[ "enverguéis", "enverguen" ],
+			[ "enverguen" ]
+		],
+		"9" : [
+			[ "envergara" ],
+			[ "envergaras" ],
+			[ "envergara" ],
+			[ "envergáramos" ],
+			[ "envergarais", "envergaran" ],
+			[ "envergaran" ]
+		],
+		"10" : [
+			[ "envergase" ],
+			[ "envergases" ],
+			[ "envergase" ],
+			[ "envergásemos" ],
+			[ "envergaseis", "envergasen" ],
+			[ "envergasen" ]
+		],
+		"11" : [
+			[ "envergare" ],
+			[ "envergares" ],
+			[ "envergare" ],
+			[ "envergáremos" ],
+			[ "envergareis", "envergaren" ],
+			[ "envergaren" ]
+		],
+		"12" : {
+			"1" : [ "enverga" ],
+			"2" : [ "envergue" ],
+			"3" : [ "enverguemos" ],
+			"4" : [ "envergad" ],
+			"5" : [ "enverguen" ]
+		}
+	}
+}

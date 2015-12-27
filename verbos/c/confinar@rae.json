@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=confinar",
+	"word" : "confinar",
+	"infinitivo" : "confinar",
+	"participio" : [ "confinado" ],
+	"gerundio" : [ "confinando" ],
+	"tenses" : {
+		"3" : [
+			[ "confino" ],
+			[ "confinas", "confinás" ],
+			[ "confina" ],
+			[ "confinamos" ],
+			[ "confináis", "confinan" ],
+			[ "confinan" ]
+		],
+		"4" : [
+			[ "confiné" ],
+			[ "confinaste" ],
+			[ "confinó" ],
+			[ "confinamos" ],
+			[ "confinasteis", "confinaron" ],
+			[ "confinaron" ]
+		],
+		"5" : [
+			[ "confinaba" ],
+			[ "confinabas" ],
+			[ "confinaba" ],
+			[ "confinábamos" ],
+			[ "confinabais", "confinaban" ],
+			[ "confinaban" ]
+		],
+		"6" : [
+			[ "confinaría" ],
+			[ "confinarías" ],
+			[ "confinaría" ],
+			[ "confinaríamos" ],
+			[ "confinaríais", "confinarían" ],
+			[ "confinarían" ]
+		],
+		"7" : [
+			[ "confinaré" ],
+			[ "confinarás" ],
+			[ "confinará" ],
+			[ "confinaremos" ],
+			[ "confinaréis", "confinarán" ],
+			[ "confinarán" ]
+		],
+		"8" : [
+			[ "confine" ],
+			[ "confines" ],
+			[ "confine" ],
+			[ "confinemos" ],
+			[ "confinéis", "confinen" ],
+			[ "confinen" ]
+		],
+		"9" : [
+			[ "confinara" ],
+			[ "confinaras" ],
+			[ "confinara" ],
+			[ "confináramos" ],
+			[ "confinarais", "confinaran" ],
+			[ "confinaran" ]
+		],
+		"10" : [
+			[ "confinase" ],
+			[ "confinases" ],
+			[ "confinase" ],
+			[ "confinásemos" ],
+			[ "confinaseis", "confinasen" ],
+			[ "confinasen" ]
+		],
+		"11" : [
+			[ "confinare" ],
+			[ "confinares" ],
+			[ "confinare" ],
+			[ "confináremos" ],
+			[ "confinareis", "confinaren" ],
+			[ "confinaren" ]
+		],
+		"12" : {
+			"1" : [ "confina" ],
+			"2" : [ "confine" ],
+			"3" : [ "confinemos" ],
+			"4" : [ "confinad" ],
+			"5" : [ "confinen" ]
+		}
+	}
+}

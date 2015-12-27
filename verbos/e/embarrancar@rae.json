@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embarrancar",
+	"word" : "embarrancar",
+	"infinitivo" : "embarrancar",
+	"participio" : [ "embarrancado" ],
+	"gerundio" : [ "embarrancando" ],
+	"tenses" : {
+		"3" : [
+			[ "embarranco" ],
+			[ "embarrancas", "embarrancás" ],
+			[ "embarranca" ],
+			[ "embarrancamos" ],
+			[ "embarrancáis", "embarrancan" ],
+			[ "embarrancan" ]
+		],
+		"4" : [
+			[ "embarranqué" ],
+			[ "embarrancaste" ],
+			[ "embarrancó" ],
+			[ "embarrancamos" ],
+			[ "embarrancasteis", "embarrancaron" ],
+			[ "embarrancaron" ]
+		],
+		"5" : [
+			[ "embarrancaba" ],
+			[ "embarrancabas" ],
+			[ "embarrancaba" ],
+			[ "embarrancábamos" ],
+			[ "embarrancabais", "embarrancaban" ],
+			[ "embarrancaban" ]
+		],
+		"6" : [
+			[ "embarrancaría" ],
+			[ "embarrancarías" ],
+			[ "embarrancaría" ],
+			[ "embarrancaríamos" ],
+			[ "embarrancaríais", "embarrancarían" ],
+			[ "embarrancarían" ]
+		],
+		"7" : [
+			[ "embarrancaré" ],
+			[ "embarrancarás" ],
+			[ "embarrancará" ],
+			[ "embarrancaremos" ],
+			[ "embarrancaréis", "embarrancarán" ],
+			[ "embarrancarán" ]
+		],
+		"8" : [
+			[ "embarranque" ],
+			[ "embarranques" ],
+			[ "embarranque" ],
+			[ "embarranquemos" ],
+			[ "embarranquéis", "embarranquen" ],
+			[ "embarranquen" ]
+		],
+		"9" : [
+			[ "embarrancara" ],
+			[ "embarrancaras" ],
+			[ "embarrancara" ],
+			[ "embarrancáramos" ],
+			[ "embarrancarais", "embarrancaran" ],
+			[ "embarrancaran" ]
+		],
+		"10" : [
+			[ "embarrancase" ],
+			[ "embarrancases" ],
+			[ "embarrancase" ],
+			[ "embarrancásemos" ],
+			[ "embarrancaseis", "embarrancasen" ],
+			[ "embarrancasen" ]
+		],
+		"11" : [
+			[ "embarrancare" ],
+			[ "embarrancares" ],
+			[ "embarrancare" ],
+			[ "embarrancáremos" ],
+			[ "embarrancareis", "embarrancaren" ],
+			[ "embarrancaren" ]
+		],
+		"12" : {
+			"1" : [ "embarranca" ],
+			"2" : [ "embarranque" ],
+			"3" : [ "embarranquemos" ],
+			"4" : [ "embarrancad" ],
+			"5" : [ "embarranquen" ]
+		}
+	}
+}

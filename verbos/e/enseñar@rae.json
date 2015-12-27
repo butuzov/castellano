@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enseñar",
+	"word" : "enseñar",
+	"infinitivo" : "enseñar",
+	"participio" : [ "enseñado" ],
+	"gerundio" : [ "enseñando" ],
+	"tenses" : {
+		"3" : [
+			[ "enseño" ],
+			[ "enseñas", "enseñás" ],
+			[ "enseña" ],
+			[ "enseñamos" ],
+			[ "enseñáis", "enseñan" ],
+			[ "enseñan" ]
+		],
+		"4" : [
+			[ "enseñé" ],
+			[ "enseñaste" ],
+			[ "enseñó" ],
+			[ "enseñamos" ],
+			[ "enseñasteis", "enseñaron" ],
+			[ "enseñaron" ]
+		],
+		"5" : [
+			[ "enseñaba" ],
+			[ "enseñabas" ],
+			[ "enseñaba" ],
+			[ "enseñábamos" ],
+			[ "enseñabais", "enseñaban" ],
+			[ "enseñaban" ]
+		],
+		"6" : [
+			[ "enseñaría" ],
+			[ "enseñarías" ],
+			[ "enseñaría" ],
+			[ "enseñaríamos" ],
+			[ "enseñaríais", "enseñarían" ],
+			[ "enseñarían" ]
+		],
+		"7" : [
+			[ "enseñaré" ],
+			[ "enseñarás" ],
+			[ "enseñará" ],
+			[ "enseñaremos" ],
+			[ "enseñaréis", "enseñarán" ],
+			[ "enseñarán" ]
+		],
+		"8" : [
+			[ "enseñe" ],
+			[ "enseñes" ],
+			[ "enseñe" ],
+			[ "enseñemos" ],
+			[ "enseñéis", "enseñen" ],
+			[ "enseñen" ]
+		],
+		"9" : [
+			[ "enseñara" ],
+			[ "enseñaras" ],
+			[ "enseñara" ],
+			[ "enseñáramos" ],
+			[ "enseñarais", "enseñaran" ],
+			[ "enseñaran" ]
+		],
+		"10" : [
+			[ "enseñase" ],
+			[ "enseñases" ],
+			[ "enseñase" ],
+			[ "enseñásemos" ],
+			[ "enseñaseis", "enseñasen" ],
+			[ "enseñasen" ]
+		],
+		"11" : [
+			[ "enseñare" ],
+			[ "enseñares" ],
+			[ "enseñare" ],
+			[ "enseñáremos" ],
+			[ "enseñareis", "enseñaren" ],
+			[ "enseñaren" ]
+		],
+		"12" : {
+			"1" : [ "enseña" ],
+			"2" : [ "enseñe" ],
+			"3" : [ "enseñemos" ],
+			"4" : [ "enseñad" ],
+			"5" : [ "enseñen" ]
+		}
+	}
+}

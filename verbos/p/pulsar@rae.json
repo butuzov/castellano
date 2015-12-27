@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pulsar",
+	"word" : "pulsar",
+	"infinitivo" : "pulsar",
+	"participio" : [ "pulsado" ],
+	"gerundio" : [ "pulsando" ],
+	"tenses" : {
+		"3" : [
+			[ "pulso" ],
+			[ "pulsas", "pulsás" ],
+			[ "pulsa" ],
+			[ "pulsamos" ],
+			[ "pulsáis", "pulsan" ],
+			[ "pulsan" ]
+		],
+		"4" : [
+			[ "pulsé" ],
+			[ "pulsaste" ],
+			[ "pulsó" ],
+			[ "pulsamos" ],
+			[ "pulsasteis", "pulsaron" ],
+			[ "pulsaron" ]
+		],
+		"5" : [
+			[ "pulsaba" ],
+			[ "pulsabas" ],
+			[ "pulsaba" ],
+			[ "pulsábamos" ],
+			[ "pulsabais", "pulsaban" ],
+			[ "pulsaban" ]
+		],
+		"6" : [
+			[ "pulsaría" ],
+			[ "pulsarías" ],
+			[ "pulsaría" ],
+			[ "pulsaríamos" ],
+			[ "pulsaríais", "pulsarían" ],
+			[ "pulsarían" ]
+		],
+		"7" : [
+			[ "pulsaré" ],
+			[ "pulsarás" ],
+			[ "pulsará" ],
+			[ "pulsaremos" ],
+			[ "pulsaréis", "pulsarán" ],
+			[ "pulsarán" ]
+		],
+		"8" : [
+			[ "pulse" ],
+			[ "pulses" ],
+			[ "pulse" ],
+			[ "pulsemos" ],
+			[ "pulséis", "pulsen" ],
+			[ "pulsen" ]
+		],
+		"9" : [
+			[ "pulsara" ],
+			[ "pulsaras" ],
+			[ "pulsara" ],
+			[ "pulsáramos" ],
+			[ "pulsarais", "pulsaran" ],
+			[ "pulsaran" ]
+		],
+		"10" : [
+			[ "pulsase" ],
+			[ "pulsases" ],
+			[ "pulsase" ],
+			[ "pulsásemos" ],
+			[ "pulsaseis", "pulsasen" ],
+			[ "pulsasen" ]
+		],
+		"11" : [
+			[ "pulsare" ],
+			[ "pulsares" ],
+			[ "pulsare" ],
+			[ "pulsáremos" ],
+			[ "pulsareis", "pulsaren" ],
+			[ "pulsaren" ]
+		],
+		"12" : {
+			"1" : [ "pulsa" ],
+			"2" : [ "pulse" ],
+			"3" : [ "pulsemos" ],
+			"4" : [ "pulsad" ],
+			"5" : [ "pulsen" ]
+		}
+	}
+}

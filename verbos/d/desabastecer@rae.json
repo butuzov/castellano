@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desabastecer",
+	"word" : "desabastecer",
+	"infinitivo" : "desabastecer",
+	"participio" : [ "desabastecido" ],
+	"gerundio" : [ "desabasteciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desabastezco" ],
+			[ "desabasteces", "desabastecés" ],
+			[ "desabastece" ],
+			[ "desabastecemos" ],
+			[ "desabastecéis", "desabastecen" ],
+			[ "desabastecen" ]
+		],
+		"4" : [
+			[ "desabastecí" ],
+			[ "desabasteciste" ],
+			[ "desabasteció" ],
+			[ "desabastecimos" ],
+			[ "desabastecisteis", "desabastecieron" ],
+			[ "desabastecieron" ]
+		],
+		"5" : [
+			[ "desabastecía" ],
+			[ "desabastecías" ],
+			[ "desabastecía" ],
+			[ "desabastecíamos" ],
+			[ "desabastecíais", "desabastecían" ],
+			[ "desabastecían" ]
+		],
+		"6" : [
+			[ "desabastecería" ],
+			[ "desabastecerías" ],
+			[ "desabastecería" ],
+			[ "desabasteceríamos" ],
+			[ "desabasteceríais", "desabastecerían" ],
+			[ "desabastecerían" ]
+		],
+		"7" : [
+			[ "desabasteceré" ],
+			[ "desabastecerás" ],
+			[ "desabastecerá" ],
+			[ "desabasteceremos" ],
+			[ "desabasteceréis", "desabastecerán" ],
+			[ "desabastecerán" ]
+		],
+		"8" : [
+			[ "desabastezca" ],
+			[ "desabastezcas" ],
+			[ "desabastezca" ],
+			[ "desabastezcamos" ],
+			[ "desabastezcáis", "desabastezcan" ],
+			[ "desabastezcan" ]
+		],
+		"9" : [
+			[ "desabasteciera" ],
+			[ "desabastecieras" ],
+			[ "desabasteciera" ],
+			[ "desabasteciéramos" ],
+			[ "desabastecierais", "desabastecieran" ],
+			[ "desabastecieran" ]
+		],
+		"10" : [
+			[ "desabasteciese" ],
+			[ "desabastecieses" ],
+			[ "desabasteciese" ],
+			[ "desabasteciésemos" ],
+			[ "desabastecieseis", "desabasteciesen" ],
+			[ "desabasteciesen" ]
+		],
+		"11" : [
+			[ "desabasteciere" ],
+			[ "desabastecieres" ],
+			[ "desabasteciere" ],
+			[ "desabasteciéremos" ],
+			[ "desabasteciereis", "desabastecieren" ],
+			[ "desabastecieren" ]
+		],
+		"12" : {
+			"1" : [ "desabastece" ],
+			"2" : [ "desabastezca" ],
+			"3" : [ "desabastezcamos" ],
+			"4" : [ "desabasteced" ],
+			"5" : [ "desabastezcan" ]
+		}
+	}
+}

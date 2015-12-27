@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dietar",
+	"word" : "dietar",
+	"infinitivo" : "dietar",
+	"participio" : [ "dietado" ],
+	"gerundio" : [ "dietando" ],
+	"tenses" : {
+		"3" : [
+			[ "dieto" ],
+			[ "dietas", "dietás" ],
+			[ "dieta" ],
+			[ "dietamos" ],
+			[ "dietáis", "dietan" ],
+			[ "dietan" ]
+		],
+		"4" : [
+			[ "dieté" ],
+			[ "dietaste" ],
+			[ "dietó" ],
+			[ "dietamos" ],
+			[ "dietasteis", "dietaron" ],
+			[ "dietaron" ]
+		],
+		"5" : [
+			[ "dietaba" ],
+			[ "dietabas" ],
+			[ "dietaba" ],
+			[ "dietábamos" ],
+			[ "dietabais", "dietaban" ],
+			[ "dietaban" ]
+		],
+		"6" : [
+			[ "dietaría" ],
+			[ "dietarías" ],
+			[ "dietaría" ],
+			[ "dietaríamos" ],
+			[ "dietaríais", "dietarían" ],
+			[ "dietarían" ]
+		],
+		"7" : [
+			[ "dietaré" ],
+			[ "dietarás" ],
+			[ "dietará" ],
+			[ "dietaremos" ],
+			[ "dietaréis", "dietarán" ],
+			[ "dietarán" ]
+		],
+		"8" : [
+			[ "diete" ],
+			[ "dietes" ],
+			[ "diete" ],
+			[ "dietemos" ],
+			[ "dietéis", "dieten" ],
+			[ "dieten" ]
+		],
+		"9" : [
+			[ "dietara" ],
+			[ "dietaras" ],
+			[ "dietara" ],
+			[ "dietáramos" ],
+			[ "dietarais", "dietaran" ],
+			[ "dietaran" ]
+		],
+		"10" : [
+			[ "dietase" ],
+			[ "dietases" ],
+			[ "dietase" ],
+			[ "dietásemos" ],
+			[ "dietaseis", "dietasen" ],
+			[ "dietasen" ]
+		],
+		"11" : [
+			[ "dietare" ],
+			[ "dietares" ],
+			[ "dietare" ],
+			[ "dietáremos" ],
+			[ "dietareis", "dietaren" ],
+			[ "dietaren" ]
+		],
+		"12" : {
+			"1" : [ "dieta" ],
+			"2" : [ "diete" ],
+			"3" : [ "dietemos" ],
+			"4" : [ "dietad" ],
+			"5" : [ "dieten" ]
+		}
+	}
+}

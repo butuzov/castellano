@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=parear",
+	"word" : "parear",
+	"infinitivo" : "parear",
+	"participio" : [ "pareado" ],
+	"gerundio" : [ "pareando" ],
+	"tenses" : {
+		"3" : [
+			[ "pareo" ],
+			[ "pareas", "pareás" ],
+			[ "parea" ],
+			[ "pareamos" ],
+			[ "pareáis", "parean" ],
+			[ "parean" ]
+		],
+		"4" : [
+			[ "pareé" ],
+			[ "pareaste" ],
+			[ "pareó" ],
+			[ "pareamos" ],
+			[ "pareasteis", "parearon" ],
+			[ "parearon" ]
+		],
+		"5" : [
+			[ "pareaba" ],
+			[ "pareabas" ],
+			[ "pareaba" ],
+			[ "pareábamos" ],
+			[ "pareabais", "pareaban" ],
+			[ "pareaban" ]
+		],
+		"6" : [
+			[ "parearía" ],
+			[ "parearías" ],
+			[ "parearía" ],
+			[ "parearíamos" ],
+			[ "parearíais", "parearían" ],
+			[ "parearían" ]
+		],
+		"7" : [
+			[ "parearé" ],
+			[ "parearás" ],
+			[ "pareará" ],
+			[ "parearemos" ],
+			[ "parearéis", "parearán" ],
+			[ "parearán" ]
+		],
+		"8" : [
+			[ "paree" ],
+			[ "parees" ],
+			[ "paree" ],
+			[ "pareemos" ],
+			[ "pareéis", "pareen" ],
+			[ "pareen" ]
+		],
+		"9" : [
+			[ "pareara" ],
+			[ "parearas" ],
+			[ "pareara" ],
+			[ "pareáramos" ],
+			[ "parearais", "parearan" ],
+			[ "parearan" ]
+		],
+		"10" : [
+			[ "parease" ],
+			[ "pareases" ],
+			[ "parease" ],
+			[ "pareásemos" ],
+			[ "pareaseis", "pareasen" ],
+			[ "pareasen" ]
+		],
+		"11" : [
+			[ "pareare" ],
+			[ "pareares" ],
+			[ "pareare" ],
+			[ "pareáremos" ],
+			[ "pareareis", "parearen" ],
+			[ "parearen" ]
+		],
+		"12" : {
+			"1" : [ "parea" ],
+			"2" : [ "paree" ],
+			"3" : [ "pareemos" ],
+			"4" : [ "paread" ],
+			"5" : [ "pareen" ]
+		}
+	}
+}

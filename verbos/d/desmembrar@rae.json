@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmembrar",
+	"word" : "desmembrar",
+	"infinitivo" : "desmembrar",
+	"participio" : [ "desmembrado" ],
+	"gerundio" : [ "desmembrando" ],
+	"tenses" : {
+		"3" : [
+			[ "desmiembro" ],
+			[ "desmiembras", "desmembrás" ],
+			[ "desmiembra" ],
+			[ "desmembramos" ],
+			[ "desmembráis", "desmiembran" ],
+			[ "desmiembran" ]
+		],
+		"4" : [
+			[ "desmembré" ],
+			[ "desmembraste" ],
+			[ "desmembró" ],
+			[ "desmembramos" ],
+			[ "desmembrasteis", "desmembraron" ],
+			[ "desmembraron" ]
+		],
+		"5" : [
+			[ "desmembraba" ],
+			[ "desmembrabas" ],
+			[ "desmembraba" ],
+			[ "desmembrábamos" ],
+			[ "desmembrabais", "desmembraban" ],
+			[ "desmembraban" ]
+		],
+		"6" : [
+			[ "desmembraría" ],
+			[ "desmembrarías" ],
+			[ "desmembraría" ],
+			[ "desmembraríamos" ],
+			[ "desmembraríais", "desmembrarían" ],
+			[ "desmembrarían" ]
+		],
+		"7" : [
+			[ "desmembraré" ],
+			[ "desmembrarás" ],
+			[ "desmembrará" ],
+			[ "desmembraremos" ],
+			[ "desmembraréis", "desmembrarán" ],
+			[ "desmembrarán" ]
+		],
+		"8" : [
+			[ "desmiembre" ],
+			[ "desmiembres" ],
+			[ "desmiembre" ],
+			[ "desmembremos" ],
+			[ "desmembréis", "desmiembren" ],
+			[ "desmiembren" ]
+		],
+		"9" : [
+			[ "desmembrara" ],
+			[ "desmembraras" ],
+			[ "desmembrara" ],
+			[ "desmembráramos" ],
+			[ "desmembrarais", "desmembraran" ],
+			[ "desmembraran" ]
+		],
+		"10" : [
+			[ "desmembrase" ],
+			[ "desmembrases" ],
+			[ "desmembrase" ],
+			[ "desmembrásemos" ],
+			[ "desmembraseis", "desmembrasen" ],
+			[ "desmembrasen" ]
+		],
+		"11" : [
+			[ "desmembrare" ],
+			[ "desmembrares" ],
+			[ "desmembrare" ],
+			[ "desmembráremos" ],
+			[ "desmembrareis", "desmembraren" ],
+			[ "desmembraren" ]
+		],
+		"12" : {
+			"1" : [ "desmiembra" ],
+			"2" : [ "desmiembre" ],
+			"3" : [ "desmembremos" ],
+			"4" : [ "desmembrad" ],
+			"5" : [ "desmiembren" ]
+		}
+	}
+}

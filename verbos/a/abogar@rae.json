@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abogar",
+	"word" : "abogar",
+	"infinitivo" : "abogar",
+	"participio" : [ "abogado" ],
+	"gerundio" : [ "abogando" ],
+	"tenses" : {
+		"3" : [
+			[ "abogo" ],
+			[ "abogas", "abogás" ],
+			[ "aboga" ],
+			[ "abogamos" ],
+			[ "abogáis", "abogan" ],
+			[ "abogan" ]
+		],
+		"4" : [
+			[ "abogué" ],
+			[ "abogaste" ],
+			[ "abogó" ],
+			[ "abogamos" ],
+			[ "abogasteis", "abogaron" ],
+			[ "abogaron" ]
+		],
+		"5" : [
+			[ "abogaba" ],
+			[ "abogabas" ],
+			[ "abogaba" ],
+			[ "abogábamos" ],
+			[ "abogabais", "abogaban" ],
+			[ "abogaban" ]
+		],
+		"6" : [
+			[ "abogaría" ],
+			[ "abogarías" ],
+			[ "abogaría" ],
+			[ "abogaríamos" ],
+			[ "abogaríais", "abogarían" ],
+			[ "abogarían" ]
+		],
+		"7" : [
+			[ "abogaré" ],
+			[ "abogarás" ],
+			[ "abogará" ],
+			[ "abogaremos" ],
+			[ "abogaréis", "abogarán" ],
+			[ "abogarán" ]
+		],
+		"8" : [
+			[ "abogue" ],
+			[ "abogues" ],
+			[ "abogue" ],
+			[ "aboguemos" ],
+			[ "aboguéis", "aboguen" ],
+			[ "aboguen" ]
+		],
+		"9" : [
+			[ "abogara" ],
+			[ "abogaras" ],
+			[ "abogara" ],
+			[ "abogáramos" ],
+			[ "abogarais", "abogaran" ],
+			[ "abogaran" ]
+		],
+		"10" : [
+			[ "abogase" ],
+			[ "abogases" ],
+			[ "abogase" ],
+			[ "abogásemos" ],
+			[ "abogaseis", "abogasen" ],
+			[ "abogasen" ]
+		],
+		"11" : [
+			[ "abogare" ],
+			[ "abogares" ],
+			[ "abogare" ],
+			[ "abogáremos" ],
+			[ "abogareis", "abogaren" ],
+			[ "abogaren" ]
+		],
+		"12" : {
+			"1" : [ "aboga" ],
+			"2" : [ "abogue" ],
+			"3" : [ "aboguemos" ],
+			"4" : [ "abogad" ],
+			"5" : [ "aboguen" ]
+		}
+	}
+}

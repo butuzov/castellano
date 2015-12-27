@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estatuar",
+	"word" : "estatuar",
+	"infinitivo" : "estatuar",
+	"participio" : [ "estatuado" ],
+	"gerundio" : [ "estatuando" ],
+	"tenses" : {
+		"3" : [
+			[ "estatuo" ],
+			[ "estatuas", "estatuás" ],
+			[ "estatua" ],
+			[ "estatuamos" ],
+			[ "estatuáis", "estatuan" ],
+			[ "estatuan" ]
+		],
+		"4" : [
+			[ "estatué" ],
+			[ "estatuaste" ],
+			[ "estatuó" ],
+			[ "estatuamos" ],
+			[ "estatuasteis", "estatuaron" ],
+			[ "estatuaron" ]
+		],
+		"5" : [
+			[ "estatuaba" ],
+			[ "estatuabas" ],
+			[ "estatuaba" ],
+			[ "estatuábamos" ],
+			[ "estatuabais", "estatuaban" ],
+			[ "estatuaban" ]
+		],
+		"6" : [
+			[ "estatuaría" ],
+			[ "estatuarías" ],
+			[ "estatuaría" ],
+			[ "estatuaríamos" ],
+			[ "estatuaríais", "estatuarían" ],
+			[ "estatuarían" ]
+		],
+		"7" : [
+			[ "estatuaré" ],
+			[ "estatuarás" ],
+			[ "estatuará" ],
+			[ "estatuaremos" ],
+			[ "estatuaréis", "estatuarán" ],
+			[ "estatuarán" ]
+		],
+		"8" : [
+			[ "estatue" ],
+			[ "estatues" ],
+			[ "estatue" ],
+			[ "estatuemos" ],
+			[ "estatuéis", "estatuen" ],
+			[ "estatuen" ]
+		],
+		"9" : [
+			[ "estatuara" ],
+			[ "estatuaras" ],
+			[ "estatuara" ],
+			[ "estatuáramos" ],
+			[ "estatuarais", "estatuaran" ],
+			[ "estatuaran" ]
+		],
+		"10" : [
+			[ "estatuase" ],
+			[ "estatuases" ],
+			[ "estatuase" ],
+			[ "estatuásemos" ],
+			[ "estatuaseis", "estatuasen" ],
+			[ "estatuasen" ]
+		],
+		"11" : [
+			[ "estatuare" ],
+			[ "estatuares" ],
+			[ "estatuare" ],
+			[ "estatuáremos" ],
+			[ "estatuareis", "estatuaren" ],
+			[ "estatuaren" ]
+		],
+		"12" : {
+			"1" : [ "estatua" ],
+			"2" : [ "estatue" ],
+			"3" : [ "estatuemos" ],
+			"4" : [ "estatuad" ],
+			"5" : [ "estatuen" ]
+		}
+	}
+}

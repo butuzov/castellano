@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cunear",
+	"word" : "cunear",
+	"infinitivo" : "cunear",
+	"participio" : [ "cuneado" ],
+	"gerundio" : [ "cuneando" ],
+	"tenses" : {
+		"3" : [
+			[ "cuneo" ],
+			[ "cuneas", "cuneás" ],
+			[ "cunea" ],
+			[ "cuneamos" ],
+			[ "cuneáis", "cunean" ],
+			[ "cunean" ]
+		],
+		"4" : [
+			[ "cuneé" ],
+			[ "cuneaste" ],
+			[ "cuneó" ],
+			[ "cuneamos" ],
+			[ "cuneasteis", "cunearon" ],
+			[ "cunearon" ]
+		],
+		"5" : [
+			[ "cuneaba" ],
+			[ "cuneabas" ],
+			[ "cuneaba" ],
+			[ "cuneábamos" ],
+			[ "cuneabais", "cuneaban" ],
+			[ "cuneaban" ]
+		],
+		"6" : [
+			[ "cunearía" ],
+			[ "cunearías" ],
+			[ "cunearía" ],
+			[ "cunearíamos" ],
+			[ "cunearíais", "cunearían" ],
+			[ "cunearían" ]
+		],
+		"7" : [
+			[ "cunearé" ],
+			[ "cunearás" ],
+			[ "cuneará" ],
+			[ "cunearemos" ],
+			[ "cunearéis", "cunearán" ],
+			[ "cunearán" ]
+		],
+		"8" : [
+			[ "cunee" ],
+			[ "cunees" ],
+			[ "cunee" ],
+			[ "cuneemos" ],
+			[ "cuneéis", "cuneen" ],
+			[ "cuneen" ]
+		],
+		"9" : [
+			[ "cuneara" ],
+			[ "cunearas" ],
+			[ "cuneara" ],
+			[ "cuneáramos" ],
+			[ "cunearais", "cunearan" ],
+			[ "cunearan" ]
+		],
+		"10" : [
+			[ "cunease" ],
+			[ "cuneases" ],
+			[ "cunease" ],
+			[ "cuneásemos" ],
+			[ "cuneaseis", "cuneasen" ],
+			[ "cuneasen" ]
+		],
+		"11" : [
+			[ "cuneare" ],
+			[ "cuneares" ],
+			[ "cuneare" ],
+			[ "cuneáremos" ],
+			[ "cuneareis", "cunearen" ],
+			[ "cunearen" ]
+		],
+		"12" : {
+			"1" : [ "cunea" ],
+			"2" : [ "cunee" ],
+			"3" : [ "cuneemos" ],
+			"4" : [ "cunead" ],
+			"5" : [ "cuneen" ]
+		}
+	}
+}

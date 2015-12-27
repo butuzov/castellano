@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desaprobar",
+	"word" : "desaprobar",
+	"infinitivo" : "desaprobar",
+	"participio" : [ "desaprobado" ],
+	"gerundio" : [ "desaprobando" ],
+	"tenses" : {
+		"3" : [
+			[ "desapruebo" ],
+			[ "desapruebas", "desaprobás" ],
+			[ "desaprueba" ],
+			[ "desaprobamos" ],
+			[ "desaprobáis", "desaprueban" ],
+			[ "desaprueban" ]
+		],
+		"4" : [
+			[ "desaprobé" ],
+			[ "desaprobaste" ],
+			[ "desaprobó" ],
+			[ "desaprobamos" ],
+			[ "desaprobasteis", "desaprobaron" ],
+			[ "desaprobaron" ]
+		],
+		"5" : [
+			[ "desaprobaba" ],
+			[ "desaprobabas" ],
+			[ "desaprobaba" ],
+			[ "desaprobábamos" ],
+			[ "desaprobabais", "desaprobaban" ],
+			[ "desaprobaban" ]
+		],
+		"6" : [
+			[ "desaprobaría" ],
+			[ "desaprobarías" ],
+			[ "desaprobaría" ],
+			[ "desaprobaríamos" ],
+			[ "desaprobaríais", "desaprobarían" ],
+			[ "desaprobarían" ]
+		],
+		"7" : [
+			[ "desaprobaré" ],
+			[ "desaprobarás" ],
+			[ "desaprobará" ],
+			[ "desaprobaremos" ],
+			[ "desaprobaréis", "desaprobarán" ],
+			[ "desaprobarán" ]
+		],
+		"8" : [
+			[ "desapruebe" ],
+			[ "desapruebes" ],
+			[ "desapruebe" ],
+			[ "desaprobemos" ],
+			[ "desaprobéis", "desaprueben" ],
+			[ "desaprueben" ]
+		],
+		"9" : [
+			[ "desaprobara" ],
+			[ "desaprobaras" ],
+			[ "desaprobara" ],
+			[ "desaprobáramos" ],
+			[ "desaprobarais", "desaprobaran" ],
+			[ "desaprobaran" ]
+		],
+		"10" : [
+			[ "desaprobase" ],
+			[ "desaprobases" ],
+			[ "desaprobase" ],
+			[ "desaprobásemos" ],
+			[ "desaprobaseis", "desaprobasen" ],
+			[ "desaprobasen" ]
+		],
+		"11" : [
+			[ "desaprobare" ],
+			[ "desaprobares" ],
+			[ "desaprobare" ],
+			[ "desaprobáremos" ],
+			[ "desaprobareis", "desaprobaren" ],
+			[ "desaprobaren" ]
+		],
+		"12" : {
+			"1" : [ "desaprueba" ],
+			"2" : [ "desapruebe" ],
+			"3" : [ "desaprobemos" ],
+			"4" : [ "desaprobad" ],
+			"5" : [ "desaprueben" ]
+		}
+	}
+}

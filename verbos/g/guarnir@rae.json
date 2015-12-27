@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=guarnir",
+	"word" : "guarnir",
+	"infinitivo" : "guarnir",
+	"participio" : [ "guarnido" ],
+	"gerundio" : [ "guarniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "guarno" ],
+			[ "guarnes", "guarnís" ],
+			[ "guarne" ],
+			[ "guarnimos" ],
+			[ "guarnís", "guarnen" ],
+			[ "guarnen" ]
+		],
+		"4" : [
+			[ "guarní" ],
+			[ "guarniste" ],
+			[ "guarnió" ],
+			[ "guarnimos" ],
+			[ "guarnisteis", "guarnieron" ],
+			[ "guarnieron" ]
+		],
+		"5" : [
+			[ "guarnía" ],
+			[ "guarnías" ],
+			[ "guarnía" ],
+			[ "guarníamos" ],
+			[ "guarníais", "guarnían" ],
+			[ "guarnían" ]
+		],
+		"6" : [
+			[ "guarniría" ],
+			[ "guarnirías" ],
+			[ "guarniría" ],
+			[ "guarniríamos" ],
+			[ "guarniríais", "guarnirían" ],
+			[ "guarnirían" ]
+		],
+		"7" : [
+			[ "guarniré" ],
+			[ "guarnirás" ],
+			[ "guarnirá" ],
+			[ "guarniremos" ],
+			[ "guarniréis", "guarnirán" ],
+			[ "guarnirán" ]
+		],
+		"8" : [
+			[ "guarna" ],
+			[ "guarnas" ],
+			[ "guarna" ],
+			[ "guarnamos" ],
+			[ "guarnáis", "guarnan" ],
+			[ "guarnan" ]
+		],
+		"9" : [
+			[ "guarniera" ],
+			[ "guarnieras" ],
+			[ "guarniera" ],
+			[ "guarniéramos" ],
+			[ "guarnierais", "guarnieran" ],
+			[ "guarnieran" ]
+		],
+		"10" : [
+			[ "guarniese" ],
+			[ "guarnieses" ],
+			[ "guarniese" ],
+			[ "guarniésemos" ],
+			[ "guarnieseis", "guarniesen" ],
+			[ "guarniesen" ]
+		],
+		"11" : [
+			[ "guarniere" ],
+			[ "guarnieres" ],
+			[ "guarniere" ],
+			[ "guarniéremos" ],
+			[ "guarniereis", "guarnieren" ],
+			[ "guarnieren" ]
+		],
+		"12" : {
+			"1" : [ "guarne" ],
+			"2" : [ "guarna" ],
+			"3" : [ "guarnamos" ],
+			"4" : [ "guarnid" ],
+			"5" : [ "guarnan" ]
+		}
+	}
+}

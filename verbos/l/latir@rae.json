@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=latir",
+	"word" : "latir",
+	"infinitivo" : "latir",
+	"participio" : [ "latido" ],
+	"gerundio" : [ "latiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "lato" ],
+			[ "lates", "latís" ],
+			[ "late" ],
+			[ "latimos" ],
+			[ "latís", "laten" ],
+			[ "laten" ]
+		],
+		"4" : [
+			[ "latí" ],
+			[ "latiste" ],
+			[ "latió" ],
+			[ "latimos" ],
+			[ "latisteis", "latieron" ],
+			[ "latieron" ]
+		],
+		"5" : [
+			[ "latía" ],
+			[ "latías" ],
+			[ "latía" ],
+			[ "latíamos" ],
+			[ "latíais", "latían" ],
+			[ "latían" ]
+		],
+		"6" : [
+			[ "latiría" ],
+			[ "latirías" ],
+			[ "latiría" ],
+			[ "latiríamos" ],
+			[ "latiríais", "latirían" ],
+			[ "latirían" ]
+		],
+		"7" : [
+			[ "latiré" ],
+			[ "latirás" ],
+			[ "latirá" ],
+			[ "latiremos" ],
+			[ "latiréis", "latirán" ],
+			[ "latirán" ]
+		],
+		"8" : [
+			[ "lata" ],
+			[ "latas" ],
+			[ "lata" ],
+			[ "latamos" ],
+			[ "latáis", "latan" ],
+			[ "latan" ]
+		],
+		"9" : [
+			[ "latiera" ],
+			[ "latieras" ],
+			[ "latiera" ],
+			[ "latiéramos" ],
+			[ "latierais", "latieran" ],
+			[ "latieran" ]
+		],
+		"10" : [
+			[ "latiese" ],
+			[ "latieses" ],
+			[ "latiese" ],
+			[ "latiésemos" ],
+			[ "latieseis", "latiesen" ],
+			[ "latiesen" ]
+		],
+		"11" : [
+			[ "latiere" ],
+			[ "latieres" ],
+			[ "latiere" ],
+			[ "latiéremos" ],
+			[ "latiereis", "latieren" ],
+			[ "latieren" ]
+		],
+		"12" : {
+			"1" : [ "late" ],
+			"2" : [ "lata" ],
+			"3" : [ "latamos" ],
+			"4" : [ "latid" ],
+			"5" : [ "latan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ondear",
+	"word" : "ondear",
+	"infinitivo" : "ondear",
+	"participio" : [ "ondeado" ],
+	"gerundio" : [ "ondeando" ],
+	"tenses" : {
+		"3" : [
+			[ "ondeo" ],
+			[ "ondeas", "ondeás" ],
+			[ "ondea" ],
+			[ "ondeamos" ],
+			[ "ondeáis", "ondean" ],
+			[ "ondean" ]
+		],
+		"4" : [
+			[ "ondeé" ],
+			[ "ondeaste" ],
+			[ "ondeó" ],
+			[ "ondeamos" ],
+			[ "ondeasteis", "ondearon" ],
+			[ "ondearon" ]
+		],
+		"5" : [
+			[ "ondeaba" ],
+			[ "ondeabas" ],
+			[ "ondeaba" ],
+			[ "ondeábamos" ],
+			[ "ondeabais", "ondeaban" ],
+			[ "ondeaban" ]
+		],
+		"6" : [
+			[ "ondearía" ],
+			[ "ondearías" ],
+			[ "ondearía" ],
+			[ "ondearíamos" ],
+			[ "ondearíais", "ondearían" ],
+			[ "ondearían" ]
+		],
+		"7" : [
+			[ "ondearé" ],
+			[ "ondearás" ],
+			[ "ondeará" ],
+			[ "ondearemos" ],
+			[ "ondearéis", "ondearán" ],
+			[ "ondearán" ]
+		],
+		"8" : [
+			[ "ondee" ],
+			[ "ondees" ],
+			[ "ondee" ],
+			[ "ondeemos" ],
+			[ "ondeéis", "ondeen" ],
+			[ "ondeen" ]
+		],
+		"9" : [
+			[ "ondeara" ],
+			[ "ondearas" ],
+			[ "ondeara" ],
+			[ "ondeáramos" ],
+			[ "ondearais", "ondearan" ],
+			[ "ondearan" ]
+		],
+		"10" : [
+			[ "ondease" ],
+			[ "ondeases" ],
+			[ "ondease" ],
+			[ "ondeásemos" ],
+			[ "ondeaseis", "ondeasen" ],
+			[ "ondeasen" ]
+		],
+		"11" : [
+			[ "ondeare" ],
+			[ "ondeares" ],
+			[ "ondeare" ],
+			[ "ondeáremos" ],
+			[ "ondeareis", "ondearen" ],
+			[ "ondearen" ]
+		],
+		"12" : {
+			"1" : [ "ondea" ],
+			"2" : [ "ondee" ],
+			"3" : [ "ondeemos" ],
+			"4" : [ "ondead" ],
+			"5" : [ "ondeen" ]
+		}
+	}
+}

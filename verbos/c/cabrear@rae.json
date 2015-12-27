@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cabrear",
+	"word" : "cabrear",
+	"infinitivo" : "cabrear",
+	"participio" : [ "cabreado" ],
+	"gerundio" : [ "cabreando" ],
+	"tenses" : {
+		"3" : [
+			[ "cabreo" ],
+			[ "cabreas", "cabreás" ],
+			[ "cabrea" ],
+			[ "cabreamos" ],
+			[ "cabreáis", "cabrean" ],
+			[ "cabrean" ]
+		],
+		"4" : [
+			[ "cabreé" ],
+			[ "cabreaste" ],
+			[ "cabreó" ],
+			[ "cabreamos" ],
+			[ "cabreasteis", "cabrearon" ],
+			[ "cabrearon" ]
+		],
+		"5" : [
+			[ "cabreaba" ],
+			[ "cabreabas" ],
+			[ "cabreaba" ],
+			[ "cabreábamos" ],
+			[ "cabreabais", "cabreaban" ],
+			[ "cabreaban" ]
+		],
+		"6" : [
+			[ "cabrearía" ],
+			[ "cabrearías" ],
+			[ "cabrearía" ],
+			[ "cabrearíamos" ],
+			[ "cabrearíais", "cabrearían" ],
+			[ "cabrearían" ]
+		],
+		"7" : [
+			[ "cabrearé" ],
+			[ "cabrearás" ],
+			[ "cabreará" ],
+			[ "cabrearemos" ],
+			[ "cabrearéis", "cabrearán" ],
+			[ "cabrearán" ]
+		],
+		"8" : [
+			[ "cabree" ],
+			[ "cabrees" ],
+			[ "cabree" ],
+			[ "cabreemos" ],
+			[ "cabreéis", "cabreen" ],
+			[ "cabreen" ]
+		],
+		"9" : [
+			[ "cabreara" ],
+			[ "cabrearas" ],
+			[ "cabreara" ],
+			[ "cabreáramos" ],
+			[ "cabrearais", "cabrearan" ],
+			[ "cabrearan" ]
+		],
+		"10" : [
+			[ "cabrease" ],
+			[ "cabreases" ],
+			[ "cabrease" ],
+			[ "cabreásemos" ],
+			[ "cabreaseis", "cabreasen" ],
+			[ "cabreasen" ]
+		],
+		"11" : [
+			[ "cabreare" ],
+			[ "cabreares" ],
+			[ "cabreare" ],
+			[ "cabreáremos" ],
+			[ "cabreareis", "cabrearen" ],
+			[ "cabrearen" ]
+		],
+		"12" : {
+			"1" : [ "cabrea" ],
+			"2" : [ "cabree" ],
+			"3" : [ "cabreemos" ],
+			"4" : [ "cabread" ],
+			"5" : [ "cabreen" ]
+		}
+	}
+}

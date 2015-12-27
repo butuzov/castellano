@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=triplicar",
+	"word" : "triplicar",
+	"infinitivo" : "triplicar",
+	"participio" : [ "triplicado" ],
+	"gerundio" : [ "triplicando" ],
+	"tenses" : {
+		"3" : [
+			[ "triplico" ],
+			[ "triplicas", "triplicás" ],
+			[ "triplica" ],
+			[ "triplicamos" ],
+			[ "triplicáis", "triplican" ],
+			[ "triplican" ]
+		],
+		"4" : [
+			[ "tripliqué" ],
+			[ "triplicaste" ],
+			[ "triplicó" ],
+			[ "triplicamos" ],
+			[ "triplicasteis", "triplicaron" ],
+			[ "triplicaron" ]
+		],
+		"5" : [
+			[ "triplicaba" ],
+			[ "triplicabas" ],
+			[ "triplicaba" ],
+			[ "triplicábamos" ],
+			[ "triplicabais", "triplicaban" ],
+			[ "triplicaban" ]
+		],
+		"6" : [
+			[ "triplicaría" ],
+			[ "triplicarías" ],
+			[ "triplicaría" ],
+			[ "triplicaríamos" ],
+			[ "triplicaríais", "triplicarían" ],
+			[ "triplicarían" ]
+		],
+		"7" : [
+			[ "triplicaré" ],
+			[ "triplicarás" ],
+			[ "triplicará" ],
+			[ "triplicaremos" ],
+			[ "triplicaréis", "triplicarán" ],
+			[ "triplicarán" ]
+		],
+		"8" : [
+			[ "triplique" ],
+			[ "tripliques" ],
+			[ "triplique" ],
+			[ "tripliquemos" ],
+			[ "tripliquéis", "tripliquen" ],
+			[ "tripliquen" ]
+		],
+		"9" : [
+			[ "triplicara" ],
+			[ "triplicaras" ],
+			[ "triplicara" ],
+			[ "triplicáramos" ],
+			[ "triplicarais", "triplicaran" ],
+			[ "triplicaran" ]
+		],
+		"10" : [
+			[ "triplicase" ],
+			[ "triplicases" ],
+			[ "triplicase" ],
+			[ "triplicásemos" ],
+			[ "triplicaseis", "triplicasen" ],
+			[ "triplicasen" ]
+		],
+		"11" : [
+			[ "triplicare" ],
+			[ "triplicares" ],
+			[ "triplicare" ],
+			[ "triplicáremos" ],
+			[ "triplicareis", "triplicaren" ],
+			[ "triplicaren" ]
+		],
+		"12" : {
+			"1" : [ "triplica" ],
+			"2" : [ "triplique" ],
+			"3" : [ "tripliquemos" ],
+			"4" : [ "triplicad" ],
+			"5" : [ "tripliquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fungir",
+	"word" : "fungir",
+	"infinitivo" : "fungir",
+	"participio" : [ "fungido" ],
+	"gerundio" : [ "fungiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "funjo" ],
+			[ "funges", "fungís" ],
+			[ "funge" ],
+			[ "fungimos" ],
+			[ "fungís", "fungen" ],
+			[ "fungen" ]
+		],
+		"4" : [
+			[ "fungí" ],
+			[ "fungiste" ],
+			[ "fungió" ],
+			[ "fungimos" ],
+			[ "fungisteis", "fungieron" ],
+			[ "fungieron" ]
+		],
+		"5" : [
+			[ "fungía" ],
+			[ "fungías" ],
+			[ "fungía" ],
+			[ "fungíamos" ],
+			[ "fungíais", "fungían" ],
+			[ "fungían" ]
+		],
+		"6" : [
+			[ "fungiría" ],
+			[ "fungirías" ],
+			[ "fungiría" ],
+			[ "fungiríamos" ],
+			[ "fungiríais", "fungirían" ],
+			[ "fungirían" ]
+		],
+		"7" : [
+			[ "fungiré" ],
+			[ "fungirás" ],
+			[ "fungirá" ],
+			[ "fungiremos" ],
+			[ "fungiréis", "fungirán" ],
+			[ "fungirán" ]
+		],
+		"8" : [
+			[ "funja" ],
+			[ "funjas" ],
+			[ "funja" ],
+			[ "funjamos" ],
+			[ "funjáis", "funjan" ],
+			[ "funjan" ]
+		],
+		"9" : [
+			[ "fungiera" ],
+			[ "fungieras" ],
+			[ "fungiera" ],
+			[ "fungiéramos" ],
+			[ "fungierais", "fungieran" ],
+			[ "fungieran" ]
+		],
+		"10" : [
+			[ "fungiese" ],
+			[ "fungieses" ],
+			[ "fungiese" ],
+			[ "fungiésemos" ],
+			[ "fungieseis", "fungiesen" ],
+			[ "fungiesen" ]
+		],
+		"11" : [
+			[ "fungiere" ],
+			[ "fungieres" ],
+			[ "fungiere" ],
+			[ "fungiéremos" ],
+			[ "fungiereis", "fungieren" ],
+			[ "fungieren" ]
+		],
+		"12" : {
+			"1" : [ "funge" ],
+			"2" : [ "funja" ],
+			"3" : [ "funjamos" ],
+			"4" : [ "fungid" ],
+			"5" : [ "funjan" ]
+		}
+	}
+}

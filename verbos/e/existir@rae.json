@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=existir",
+	"word" : "existir",
+	"infinitivo" : "existir",
+	"participio" : [ "existido" ],
+	"gerundio" : [ "existiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "existo" ],
+			[ "existes", "existís" ],
+			[ "existe" ],
+			[ "existimos" ],
+			[ "existís", "existen" ],
+			[ "existen" ]
+		],
+		"4" : [
+			[ "existí" ],
+			[ "exististe" ],
+			[ "existió" ],
+			[ "existimos" ],
+			[ "exististeis", "existieron" ],
+			[ "existieron" ]
+		],
+		"5" : [
+			[ "existía" ],
+			[ "existías" ],
+			[ "existía" ],
+			[ "existíamos" ],
+			[ "existíais", "existían" ],
+			[ "existían" ]
+		],
+		"6" : [
+			[ "existiría" ],
+			[ "existirías" ],
+			[ "existiría" ],
+			[ "existiríamos" ],
+			[ "existiríais", "existirían" ],
+			[ "existirían" ]
+		],
+		"7" : [
+			[ "existiré" ],
+			[ "existirás" ],
+			[ "existirá" ],
+			[ "existiremos" ],
+			[ "existiréis", "existirán" ],
+			[ "existirán" ]
+		],
+		"8" : [
+			[ "exista" ],
+			[ "existas" ],
+			[ "exista" ],
+			[ "existamos" ],
+			[ "existáis", "existan" ],
+			[ "existan" ]
+		],
+		"9" : [
+			[ "existiera" ],
+			[ "existieras" ],
+			[ "existiera" ],
+			[ "existiéramos" ],
+			[ "existierais", "existieran" ],
+			[ "existieran" ]
+		],
+		"10" : [
+			[ "existiese" ],
+			[ "existieses" ],
+			[ "existiese" ],
+			[ "existiésemos" ],
+			[ "existieseis", "existiesen" ],
+			[ "existiesen" ]
+		],
+		"11" : [
+			[ "existiere" ],
+			[ "existieres" ],
+			[ "existiere" ],
+			[ "existiéremos" ],
+			[ "existiereis", "existieren" ],
+			[ "existieren" ]
+		],
+		"12" : {
+			"1" : [ "existe" ],
+			"2" : [ "exista" ],
+			"3" : [ "existamos" ],
+			"4" : [ "existid" ],
+			"5" : [ "existan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=liderar",
+	"word" : "liderar",
+	"infinitivo" : "liderar",
+	"participio" : [ "liderado" ],
+	"gerundio" : [ "liderando" ],
+	"tenses" : {
+		"3" : [
+			[ "lidero" ],
+			[ "lideras", "liderás" ],
+			[ "lidera" ],
+			[ "lideramos" ],
+			[ "lideráis", "lideran" ],
+			[ "lideran" ]
+		],
+		"4" : [
+			[ "lideré" ],
+			[ "lideraste" ],
+			[ "lideró" ],
+			[ "lideramos" ],
+			[ "liderasteis", "lideraron" ],
+			[ "lideraron" ]
+		],
+		"5" : [
+			[ "lideraba" ],
+			[ "liderabas" ],
+			[ "lideraba" ],
+			[ "liderábamos" ],
+			[ "liderabais", "lideraban" ],
+			[ "lideraban" ]
+		],
+		"6" : [
+			[ "lideraría" ],
+			[ "liderarías" ],
+			[ "lideraría" ],
+			[ "lideraríamos" ],
+			[ "lideraríais", "liderarían" ],
+			[ "liderarían" ]
+		],
+		"7" : [
+			[ "lideraré" ],
+			[ "liderarás" ],
+			[ "liderará" ],
+			[ "lideraremos" ],
+			[ "lideraréis", "liderarán" ],
+			[ "liderarán" ]
+		],
+		"8" : [
+			[ "lidere" ],
+			[ "lideres" ],
+			[ "lidere" ],
+			[ "lideremos" ],
+			[ "lideréis", "lideren" ],
+			[ "lideren" ]
+		],
+		"9" : [
+			[ "liderara" ],
+			[ "lideraras" ],
+			[ "liderara" ],
+			[ "lideráramos" ],
+			[ "liderarais", "lideraran" ],
+			[ "lideraran" ]
+		],
+		"10" : [
+			[ "liderase" ],
+			[ "liderases" ],
+			[ "liderase" ],
+			[ "liderásemos" ],
+			[ "lideraseis", "liderasen" ],
+			[ "liderasen" ]
+		],
+		"11" : [
+			[ "liderare" ],
+			[ "liderares" ],
+			[ "liderare" ],
+			[ "lideráremos" ],
+			[ "liderareis", "lideraren" ],
+			[ "lideraren" ]
+		],
+		"12" : {
+			"1" : [ "lidera" ],
+			"2" : [ "lidere" ],
+			"3" : [ "lideremos" ],
+			"4" : [ "liderad" ],
+			"5" : [ "lideren" ]
+		}
+	}
+}

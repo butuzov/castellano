@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=magnificar",
+	"word" : "magnificar",
+	"infinitivo" : "magnificar",
+	"participio" : [ "magnificado" ],
+	"gerundio" : [ "magnificando" ],
+	"tenses" : {
+		"3" : [
+			[ "magnifico" ],
+			[ "magnificas", "magnificás" ],
+			[ "magnifica" ],
+			[ "magnificamos" ],
+			[ "magnificáis", "magnifican" ],
+			[ "magnifican" ]
+		],
+		"4" : [
+			[ "magnifiqué" ],
+			[ "magnificaste" ],
+			[ "magnificó" ],
+			[ "magnificamos" ],
+			[ "magnificasteis", "magnificaron" ],
+			[ "magnificaron" ]
+		],
+		"5" : [
+			[ "magnificaba" ],
+			[ "magnificabas" ],
+			[ "magnificaba" ],
+			[ "magnificábamos" ],
+			[ "magnificabais", "magnificaban" ],
+			[ "magnificaban" ]
+		],
+		"6" : [
+			[ "magnificaría" ],
+			[ "magnificarías" ],
+			[ "magnificaría" ],
+			[ "magnificaríamos" ],
+			[ "magnificaríais", "magnificarían" ],
+			[ "magnificarían" ]
+		],
+		"7" : [
+			[ "magnificaré" ],
+			[ "magnificarás" ],
+			[ "magnificará" ],
+			[ "magnificaremos" ],
+			[ "magnificaréis", "magnificarán" ],
+			[ "magnificarán" ]
+		],
+		"8" : [
+			[ "magnifique" ],
+			[ "magnifiques" ],
+			[ "magnifique" ],
+			[ "magnifiquemos" ],
+			[ "magnifiquéis", "magnifiquen" ],
+			[ "magnifiquen" ]
+		],
+		"9" : [
+			[ "magnificara" ],
+			[ "magnificaras" ],
+			[ "magnificara" ],
+			[ "magnificáramos" ],
+			[ "magnificarais", "magnificaran" ],
+			[ "magnificaran" ]
+		],
+		"10" : [
+			[ "magnificase" ],
+			[ "magnificases" ],
+			[ "magnificase" ],
+			[ "magnificásemos" ],
+			[ "magnificaseis", "magnificasen" ],
+			[ "magnificasen" ]
+		],
+		"11" : [
+			[ "magnificare" ],
+			[ "magnificares" ],
+			[ "magnificare" ],
+			[ "magnificáremos" ],
+			[ "magnificareis", "magnificaren" ],
+			[ "magnificaren" ]
+		],
+		"12" : {
+			"1" : [ "magnifica" ],
+			"2" : [ "magnifique" ],
+			"3" : [ "magnifiquemos" ],
+			"4" : [ "magnificad" ],
+			"5" : [ "magnifiquen" ]
+		}
+	}
+}

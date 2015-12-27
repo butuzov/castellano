@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=andar",
+	"word" : "andar",
+	"infinitivo" : "andar",
+	"participio" : [ "andado" ],
+	"gerundio" : [ "andando" ],
+	"tenses" : {
+		"3" : [
+			[ "ando" ],
+			[ "andas", "andás" ],
+			[ "anda" ],
+			[ "andamos" ],
+			[ "andáis", "andan" ],
+			[ "andan" ]
+		],
+		"4" : [
+			[ "anduve" ],
+			[ "anduviste" ],
+			[ "anduvo" ],
+			[ "anduvimos" ],
+			[ "anduvisteis", "anduvieron" ],
+			[ "anduvieron" ]
+		],
+		"5" : [
+			[ "andaba" ],
+			[ "andabas" ],
+			[ "andaba" ],
+			[ "andábamos" ],
+			[ "andabais", "andaban" ],
+			[ "andaban" ]
+		],
+		"6" : [
+			[ "andaría" ],
+			[ "andarías" ],
+			[ "andaría" ],
+			[ "andaríamos" ],
+			[ "andaríais", "andarían" ],
+			[ "andarían" ]
+		],
+		"7" : [
+			[ "andaré" ],
+			[ "andarás" ],
+			[ "andará" ],
+			[ "andaremos" ],
+			[ "andaréis", "andarán" ],
+			[ "andarán" ]
+		],
+		"8" : [
+			[ "ande" ],
+			[ "andes" ],
+			[ "ande" ],
+			[ "andemos" ],
+			[ "andéis", "anden" ],
+			[ "anden" ]
+		],
+		"9" : [
+			[ "anduviera" ],
+			[ "anduvieras" ],
+			[ "anduviera" ],
+			[ "anduviéramos" ],
+			[ "anduvierais", "anduvieran" ],
+			[ "anduvieran" ]
+		],
+		"10" : [
+			[ "anduviese" ],
+			[ "anduvieses" ],
+			[ "anduviese" ],
+			[ "anduviésemos" ],
+			[ "anduvieseis", "anduviesen" ],
+			[ "anduviesen" ]
+		],
+		"11" : [
+			[ "anduviere" ],
+			[ "anduvieres" ],
+			[ "anduviere" ],
+			[ "anduviéremos" ],
+			[ "anduviereis", "anduvieren" ],
+			[ "anduvieren" ]
+		],
+		"12" : {
+			"1" : [ "anda" ],
+			"2" : [ "ande" ],
+			"3" : [ "andemos" ],
+			"4" : [ "andad" ],
+			"5" : [ "anden" ]
+		}
+	}
+}

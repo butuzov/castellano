@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=malversar",
+	"word" : "malversar",
+	"infinitivo" : "malversar",
+	"participio" : [ "malversado" ],
+	"gerundio" : [ "malversando" ],
+	"tenses" : {
+		"3" : [
+			[ "malverso" ],
+			[ "malversas", "malversás" ],
+			[ "malversa" ],
+			[ "malversamos" ],
+			[ "malversáis", "malversan" ],
+			[ "malversan" ]
+		],
+		"4" : [
+			[ "malversé" ],
+			[ "malversaste" ],
+			[ "malversó" ],
+			[ "malversamos" ],
+			[ "malversasteis", "malversaron" ],
+			[ "malversaron" ]
+		],
+		"5" : [
+			[ "malversaba" ],
+			[ "malversabas" ],
+			[ "malversaba" ],
+			[ "malversábamos" ],
+			[ "malversabais", "malversaban" ],
+			[ "malversaban" ]
+		],
+		"6" : [
+			[ "malversaría" ],
+			[ "malversarías" ],
+			[ "malversaría" ],
+			[ "malversaríamos" ],
+			[ "malversaríais", "malversarían" ],
+			[ "malversarían" ]
+		],
+		"7" : [
+			[ "malversaré" ],
+			[ "malversarás" ],
+			[ "malversará" ],
+			[ "malversaremos" ],
+			[ "malversaréis", "malversarán" ],
+			[ "malversarán" ]
+		],
+		"8" : [
+			[ "malverse" ],
+			[ "malverses" ],
+			[ "malverse" ],
+			[ "malversemos" ],
+			[ "malverséis", "malversen" ],
+			[ "malversen" ]
+		],
+		"9" : [
+			[ "malversara" ],
+			[ "malversaras" ],
+			[ "malversara" ],
+			[ "malversáramos" ],
+			[ "malversarais", "malversaran" ],
+			[ "malversaran" ]
+		],
+		"10" : [
+			[ "malversase" ],
+			[ "malversases" ],
+			[ "malversase" ],
+			[ "malversásemos" ],
+			[ "malversaseis", "malversasen" ],
+			[ "malversasen" ]
+		],
+		"11" : [
+			[ "malversare" ],
+			[ "malversares" ],
+			[ "malversare" ],
+			[ "malversáremos" ],
+			[ "malversareis", "malversaren" ],
+			[ "malversaren" ]
+		],
+		"12" : {
+			"1" : [ "malversa" ],
+			"2" : [ "malverse" ],
+			"3" : [ "malversemos" ],
+			"4" : [ "malversad" ],
+			"5" : [ "malversen" ]
+		}
+	}
+}

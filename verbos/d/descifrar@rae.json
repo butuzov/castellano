@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descifrar",
+	"word" : "descifrar",
+	"infinitivo" : "descifrar",
+	"participio" : [ "descifrado" ],
+	"gerundio" : [ "descifrando" ],
+	"tenses" : {
+		"3" : [
+			[ "descifro" ],
+			[ "descifras", "descifrás" ],
+			[ "descifra" ],
+			[ "desciframos" ],
+			[ "descifráis", "descifran" ],
+			[ "descifran" ]
+		],
+		"4" : [
+			[ "descifré" ],
+			[ "descifraste" ],
+			[ "descifró" ],
+			[ "desciframos" ],
+			[ "descifrasteis", "descifraron" ],
+			[ "descifraron" ]
+		],
+		"5" : [
+			[ "descifraba" ],
+			[ "descifrabas" ],
+			[ "descifraba" ],
+			[ "descifrábamos" ],
+			[ "descifrabais", "descifraban" ],
+			[ "descifraban" ]
+		],
+		"6" : [
+			[ "descifraría" ],
+			[ "descifrarías" ],
+			[ "descifraría" ],
+			[ "descifraríamos" ],
+			[ "descifraríais", "descifrarían" ],
+			[ "descifrarían" ]
+		],
+		"7" : [
+			[ "descifraré" ],
+			[ "descifrarás" ],
+			[ "descifrará" ],
+			[ "descifraremos" ],
+			[ "descifraréis", "descifrarán" ],
+			[ "descifrarán" ]
+		],
+		"8" : [
+			[ "descifre" ],
+			[ "descifres" ],
+			[ "descifre" ],
+			[ "descifremos" ],
+			[ "descifréis", "descifren" ],
+			[ "descifren" ]
+		],
+		"9" : [
+			[ "descifrara" ],
+			[ "descifraras" ],
+			[ "descifrara" ],
+			[ "descifráramos" ],
+			[ "descifrarais", "descifraran" ],
+			[ "descifraran" ]
+		],
+		"10" : [
+			[ "descifrase" ],
+			[ "descifrases" ],
+			[ "descifrase" ],
+			[ "descifrásemos" ],
+			[ "descifraseis", "descifrasen" ],
+			[ "descifrasen" ]
+		],
+		"11" : [
+			[ "descifrare" ],
+			[ "descifrares" ],
+			[ "descifrare" ],
+			[ "descifráremos" ],
+			[ "descifrareis", "descifraren" ],
+			[ "descifraren" ]
+		],
+		"12" : {
+			"1" : [ "descifra" ],
+			"2" : [ "descifre" ],
+			"3" : [ "descifremos" ],
+			"4" : [ "descifrad" ],
+			"5" : [ "descifren" ]
+		}
+	}
+}

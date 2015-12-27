@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desvolver",
+	"word" : "desvolver",
+	"infinitivo" : "desvolver",
+	"participio" : [ "desvuelto" ],
+	"gerundio" : [ "desvolviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desvuelvo" ],
+			[ "desvuelves", "desvolvés" ],
+			[ "desvuelve" ],
+			[ "desvolvemos" ],
+			[ "desvolvéis", "desvuelven" ],
+			[ "desvuelven" ]
+		],
+		"4" : [
+			[ "desvolví" ],
+			[ "desvolviste" ],
+			[ "desvolvió" ],
+			[ "desvolvimos" ],
+			[ "desvolvisteis", "desvolvieron" ],
+			[ "desvolvieron" ]
+		],
+		"5" : [
+			[ "desvolvía" ],
+			[ "desvolvías" ],
+			[ "desvolvía" ],
+			[ "desvolvíamos" ],
+			[ "desvolvíais", "desvolvían" ],
+			[ "desvolvían" ]
+		],
+		"6" : [
+			[ "desvolvería" ],
+			[ "desvolverías" ],
+			[ "desvolvería" ],
+			[ "desvolveríamos" ],
+			[ "desvolveríais", "desvolverían" ],
+			[ "desvolverían" ]
+		],
+		"7" : [
+			[ "desvolveré" ],
+			[ "desvolverás" ],
+			[ "desvolverá" ],
+			[ "desvolveremos" ],
+			[ "desvolveréis", "desvolverán" ],
+			[ "desvolverán" ]
+		],
+		"8" : [
+			[ "desvuelva" ],
+			[ "desvuelvas" ],
+			[ "desvuelva" ],
+			[ "desvolvamos" ],
+			[ "desvolváis", "desvuelvan" ],
+			[ "desvuelvan" ]
+		],
+		"9" : [
+			[ "desvolviera" ],
+			[ "desvolvieras" ],
+			[ "desvolviera" ],
+			[ "desvolviéramos" ],
+			[ "desvolvierais", "desvolvieran" ],
+			[ "desvolvieran" ]
+		],
+		"10" : [
+			[ "desvolviese" ],
+			[ "desvolvieses" ],
+			[ "desvolviese" ],
+			[ "desvolviésemos" ],
+			[ "desvolvieseis", "desvolviesen" ],
+			[ "desvolviesen" ]
+		],
+		"11" : [
+			[ "desvolviere" ],
+			[ "desvolvieres" ],
+			[ "desvolviere" ],
+			[ "desvolviéremos" ],
+			[ "desvolviereis", "desvolvieren" ],
+			[ "desvolvieren" ]
+		],
+		"12" : {
+			"1" : [ "desvuelve" ],
+			"2" : [ "desvuelva" ],
+			"3" : [ "desvolvamos" ],
+			"4" : [ "desvolved" ],
+			"5" : [ "desvuelvan" ]
+		}
+	}
+}

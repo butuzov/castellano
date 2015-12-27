@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=saltar",
+	"word" : "saltar",
+	"infinitivo" : "saltar",
+	"participio" : [ "saltado" ],
+	"gerundio" : [ "saltando" ],
+	"tenses" : {
+		"3" : [
+			[ "salto" ],
+			[ "saltas", "saltás" ],
+			[ "salta" ],
+			[ "saltamos" ],
+			[ "saltáis", "saltan" ],
+			[ "saltan" ]
+		],
+		"4" : [
+			[ "salté" ],
+			[ "saltaste" ],
+			[ "saltó" ],
+			[ "saltamos" ],
+			[ "saltasteis", "saltaron" ],
+			[ "saltaron" ]
+		],
+		"5" : [
+			[ "saltaba" ],
+			[ "saltabas" ],
+			[ "saltaba" ],
+			[ "saltábamos" ],
+			[ "saltabais", "saltaban" ],
+			[ "saltaban" ]
+		],
+		"6" : [
+			[ "saltaría" ],
+			[ "saltarías" ],
+			[ "saltaría" ],
+			[ "saltaríamos" ],
+			[ "saltaríais", "saltarían" ],
+			[ "saltarían" ]
+		],
+		"7" : [
+			[ "saltaré" ],
+			[ "saltarás" ],
+			[ "saltará" ],
+			[ "saltaremos" ],
+			[ "saltaréis", "saltarán" ],
+			[ "saltarán" ]
+		],
+		"8" : [
+			[ "salte" ],
+			[ "saltes" ],
+			[ "salte" ],
+			[ "saltemos" ],
+			[ "saltéis", "salten" ],
+			[ "salten" ]
+		],
+		"9" : [
+			[ "saltara" ],
+			[ "saltaras" ],
+			[ "saltara" ],
+			[ "saltáramos" ],
+			[ "saltarais", "saltaran" ],
+			[ "saltaran" ]
+		],
+		"10" : [
+			[ "saltase" ],
+			[ "saltases" ],
+			[ "saltase" ],
+			[ "saltásemos" ],
+			[ "saltaseis", "saltasen" ],
+			[ "saltasen" ]
+		],
+		"11" : [
+			[ "saltare" ],
+			[ "saltares" ],
+			[ "saltare" ],
+			[ "saltáremos" ],
+			[ "saltareis", "saltaren" ],
+			[ "saltaren" ]
+		],
+		"12" : {
+			"1" : [ "salta" ],
+			"2" : [ "salte" ],
+			"3" : [ "saltemos" ],
+			"4" : [ "saltad" ],
+			"5" : [ "salten" ]
+		}
+	}
+}

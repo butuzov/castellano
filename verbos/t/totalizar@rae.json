@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=totalizar",
+	"word" : "totalizar",
+	"infinitivo" : "totalizar",
+	"participio" : [ "totalizado" ],
+	"gerundio" : [ "totalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "totalizo" ],
+			[ "totalizas", "totalizás" ],
+			[ "totaliza" ],
+			[ "totalizamos" ],
+			[ "totalizáis", "totalizan" ],
+			[ "totalizan" ]
+		],
+		"4" : [
+			[ "totalicé" ],
+			[ "totalizaste" ],
+			[ "totalizó" ],
+			[ "totalizamos" ],
+			[ "totalizasteis", "totalizaron" ],
+			[ "totalizaron" ]
+		],
+		"5" : [
+			[ "totalizaba" ],
+			[ "totalizabas" ],
+			[ "totalizaba" ],
+			[ "totalizábamos" ],
+			[ "totalizabais", "totalizaban" ],
+			[ "totalizaban" ]
+		],
+		"6" : [
+			[ "totalizaría" ],
+			[ "totalizarías" ],
+			[ "totalizaría" ],
+			[ "totalizaríamos" ],
+			[ "totalizaríais", "totalizarían" ],
+			[ "totalizarían" ]
+		],
+		"7" : [
+			[ "totalizaré" ],
+			[ "totalizarás" ],
+			[ "totalizará" ],
+			[ "totalizaremos" ],
+			[ "totalizaréis", "totalizarán" ],
+			[ "totalizarán" ]
+		],
+		"8" : [
+			[ "totalice" ],
+			[ "totalices" ],
+			[ "totalice" ],
+			[ "totalicemos" ],
+			[ "totalicéis", "totalicen" ],
+			[ "totalicen" ]
+		],
+		"9" : [
+			[ "totalizara" ],
+			[ "totalizaras" ],
+			[ "totalizara" ],
+			[ "totalizáramos" ],
+			[ "totalizarais", "totalizaran" ],
+			[ "totalizaran" ]
+		],
+		"10" : [
+			[ "totalizase" ],
+			[ "totalizases" ],
+			[ "totalizase" ],
+			[ "totalizásemos" ],
+			[ "totalizaseis", "totalizasen" ],
+			[ "totalizasen" ]
+		],
+		"11" : [
+			[ "totalizare" ],
+			[ "totalizares" ],
+			[ "totalizare" ],
+			[ "totalizáremos" ],
+			[ "totalizareis", "totalizaren" ],
+			[ "totalizaren" ]
+		],
+		"12" : {
+			"1" : [ "totaliza" ],
+			"2" : [ "totalice" ],
+			"3" : [ "totalicemos" ],
+			"4" : [ "totalizad" ],
+			"5" : [ "totalicen" ]
+		}
+	}
+}

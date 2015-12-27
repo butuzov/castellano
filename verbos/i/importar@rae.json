@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=importar",
+	"word" : "importar",
+	"infinitivo" : "importar",
+	"participio" : [ "importado" ],
+	"gerundio" : [ "importando" ],
+	"tenses" : {
+		"3" : [
+			[ "importo" ],
+			[ "importas", "importás" ],
+			[ "importa" ],
+			[ "importamos" ],
+			[ "importáis", "importan" ],
+			[ "importan" ]
+		],
+		"4" : [
+			[ "importé" ],
+			[ "importaste" ],
+			[ "importó" ],
+			[ "importamos" ],
+			[ "importasteis", "importaron" ],
+			[ "importaron" ]
+		],
+		"5" : [
+			[ "importaba" ],
+			[ "importabas" ],
+			[ "importaba" ],
+			[ "importábamos" ],
+			[ "importabais", "importaban" ],
+			[ "importaban" ]
+		],
+		"6" : [
+			[ "importaría" ],
+			[ "importarías" ],
+			[ "importaría" ],
+			[ "importaríamos" ],
+			[ "importaríais", "importarían" ],
+			[ "importarían" ]
+		],
+		"7" : [
+			[ "importaré" ],
+			[ "importarás" ],
+			[ "importará" ],
+			[ "importaremos" ],
+			[ "importaréis", "importarán" ],
+			[ "importarán" ]
+		],
+		"8" : [
+			[ "importe" ],
+			[ "importes" ],
+			[ "importe" ],
+			[ "importemos" ],
+			[ "importéis", "importen" ],
+			[ "importen" ]
+		],
+		"9" : [
+			[ "importara" ],
+			[ "importaras" ],
+			[ "importara" ],
+			[ "importáramos" ],
+			[ "importarais", "importaran" ],
+			[ "importaran" ]
+		],
+		"10" : [
+			[ "importase" ],
+			[ "importases" ],
+			[ "importase" ],
+			[ "importásemos" ],
+			[ "importaseis", "importasen" ],
+			[ "importasen" ]
+		],
+		"11" : [
+			[ "importare" ],
+			[ "importares" ],
+			[ "importare" ],
+			[ "importáremos" ],
+			[ "importareis", "importaren" ],
+			[ "importaren" ]
+		],
+		"12" : {
+			"1" : [ "importa" ],
+			"2" : [ "importe" ],
+			"3" : [ "importemos" ],
+			"4" : [ "importad" ],
+			"5" : [ "importen" ]
+		}
+	}
+}

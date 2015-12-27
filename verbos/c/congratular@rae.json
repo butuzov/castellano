@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=congratular",
+	"word" : "congratular",
+	"infinitivo" : "congratular",
+	"participio" : [ "congratulado" ],
+	"gerundio" : [ "congratulando" ],
+	"tenses" : {
+		"3" : [
+			[ "congratulo" ],
+			[ "congratulas", "congratulás" ],
+			[ "congratula" ],
+			[ "congratulamos" ],
+			[ "congratuláis", "congratulan" ],
+			[ "congratulan" ]
+		],
+		"4" : [
+			[ "congratulé" ],
+			[ "congratulaste" ],
+			[ "congratuló" ],
+			[ "congratulamos" ],
+			[ "congratulasteis", "congratularon" ],
+			[ "congratularon" ]
+		],
+		"5" : [
+			[ "congratulaba" ],
+			[ "congratulabas" ],
+			[ "congratulaba" ],
+			[ "congratulábamos" ],
+			[ "congratulabais", "congratulaban" ],
+			[ "congratulaban" ]
+		],
+		"6" : [
+			[ "congratularía" ],
+			[ "congratularías" ],
+			[ "congratularía" ],
+			[ "congratularíamos" ],
+			[ "congratularíais", "congratularían" ],
+			[ "congratularían" ]
+		],
+		"7" : [
+			[ "congratularé" ],
+			[ "congratularás" ],
+			[ "congratulará" ],
+			[ "congratularemos" ],
+			[ "congratularéis", "congratularán" ],
+			[ "congratularán" ]
+		],
+		"8" : [
+			[ "congratule" ],
+			[ "congratules" ],
+			[ "congratule" ],
+			[ "congratulemos" ],
+			[ "congratuléis", "congratulen" ],
+			[ "congratulen" ]
+		],
+		"9" : [
+			[ "congratulara" ],
+			[ "congratularas" ],
+			[ "congratulara" ],
+			[ "congratuláramos" ],
+			[ "congratularais", "congratularan" ],
+			[ "congratularan" ]
+		],
+		"10" : [
+			[ "congratulase" ],
+			[ "congratulases" ],
+			[ "congratulase" ],
+			[ "congratulásemos" ],
+			[ "congratulaseis", "congratulasen" ],
+			[ "congratulasen" ]
+		],
+		"11" : [
+			[ "congratulare" ],
+			[ "congratulares" ],
+			[ "congratulare" ],
+			[ "congratuláremos" ],
+			[ "congratulareis", "congratularen" ],
+			[ "congratularen" ]
+		],
+		"12" : {
+			"1" : [ "congratula" ],
+			"2" : [ "congratule" ],
+			"3" : [ "congratulemos" ],
+			"4" : [ "congratulad" ],
+			"5" : [ "congratulen" ]
+		}
+	}
+}

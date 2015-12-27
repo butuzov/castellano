@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=absterger",
+	"word" : "absterger",
+	"infinitivo" : "absterger",
+	"participio" : [ "abstergido" ],
+	"gerundio" : [ "abstergiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "absterjo" ],
+			[ "absterges", "abstergés" ],
+			[ "absterge" ],
+			[ "abstergemos" ],
+			[ "abstergéis", "abstergen" ],
+			[ "abstergen" ]
+		],
+		"4" : [
+			[ "abstergí" ],
+			[ "abstergiste" ],
+			[ "abstergió" ],
+			[ "abstergimos" ],
+			[ "abstergisteis", "abstergieron" ],
+			[ "abstergieron" ]
+		],
+		"5" : [
+			[ "abstergía" ],
+			[ "abstergías" ],
+			[ "abstergía" ],
+			[ "abstergíamos" ],
+			[ "abstergíais", "abstergían" ],
+			[ "abstergían" ]
+		],
+		"6" : [
+			[ "abstergería" ],
+			[ "abstergerías" ],
+			[ "abstergería" ],
+			[ "abstergeríamos" ],
+			[ "abstergeríais", "abstergerían" ],
+			[ "abstergerían" ]
+		],
+		"7" : [
+			[ "abstergeré" ],
+			[ "abstergerás" ],
+			[ "abstergerá" ],
+			[ "abstergeremos" ],
+			[ "abstergeréis", "abstergerán" ],
+			[ "abstergerán" ]
+		],
+		"8" : [
+			[ "absterja" ],
+			[ "absterjas" ],
+			[ "absterja" ],
+			[ "absterjamos" ],
+			[ "absterjáis", "absterjan" ],
+			[ "absterjan" ]
+		],
+		"9" : [
+			[ "abstergiera" ],
+			[ "abstergieras" ],
+			[ "abstergiera" ],
+			[ "abstergiéramos" ],
+			[ "abstergierais", "abstergieran" ],
+			[ "abstergieran" ]
+		],
+		"10" : [
+			[ "abstergiese" ],
+			[ "abstergieses" ],
+			[ "abstergiese" ],
+			[ "abstergiésemos" ],
+			[ "abstergieseis", "abstergiesen" ],
+			[ "abstergiesen" ]
+		],
+		"11" : [
+			[ "abstergiere" ],
+			[ "abstergieres" ],
+			[ "abstergiere" ],
+			[ "abstergiéremos" ],
+			[ "abstergiereis", "abstergieren" ],
+			[ "abstergieren" ]
+		],
+		"12" : {
+			"1" : [ "absterge" ],
+			"2" : [ "absterja" ],
+			"3" : [ "absterjamos" ],
+			"4" : [ "absterged" ],
+			"5" : [ "absterjan" ]
+		}
+	}
+}

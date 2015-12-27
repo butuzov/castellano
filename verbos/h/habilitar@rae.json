@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=habilitar",
+	"word" : "habilitar",
+	"infinitivo" : "habilitar",
+	"participio" : [ "habilitado" ],
+	"gerundio" : [ "habilitando" ],
+	"tenses" : {
+		"3" : [
+			[ "habilito" ],
+			[ "habilitas", "habilitás" ],
+			[ "habilita" ],
+			[ "habilitamos" ],
+			[ "habilitáis", "habilitan" ],
+			[ "habilitan" ]
+		],
+		"4" : [
+			[ "habilité" ],
+			[ "habilitaste" ],
+			[ "habilitó" ],
+			[ "habilitamos" ],
+			[ "habilitasteis", "habilitaron" ],
+			[ "habilitaron" ]
+		],
+		"5" : [
+			[ "habilitaba" ],
+			[ "habilitabas" ],
+			[ "habilitaba" ],
+			[ "habilitábamos" ],
+			[ "habilitabais", "habilitaban" ],
+			[ "habilitaban" ]
+		],
+		"6" : [
+			[ "habilitaría" ],
+			[ "habilitarías" ],
+			[ "habilitaría" ],
+			[ "habilitaríamos" ],
+			[ "habilitaríais", "habilitarían" ],
+			[ "habilitarían" ]
+		],
+		"7" : [
+			[ "habilitaré" ],
+			[ "habilitarás" ],
+			[ "habilitará" ],
+			[ "habilitaremos" ],
+			[ "habilitaréis", "habilitarán" ],
+			[ "habilitarán" ]
+		],
+		"8" : [
+			[ "habilite" ],
+			[ "habilites" ],
+			[ "habilite" ],
+			[ "habilitemos" ],
+			[ "habilitéis", "habiliten" ],
+			[ "habiliten" ]
+		],
+		"9" : [
+			[ "habilitara" ],
+			[ "habilitaras" ],
+			[ "habilitara" ],
+			[ "habilitáramos" ],
+			[ "habilitarais", "habilitaran" ],
+			[ "habilitaran" ]
+		],
+		"10" : [
+			[ "habilitase" ],
+			[ "habilitases" ],
+			[ "habilitase" ],
+			[ "habilitásemos" ],
+			[ "habilitaseis", "habilitasen" ],
+			[ "habilitasen" ]
+		],
+		"11" : [
+			[ "habilitare" ],
+			[ "habilitares" ],
+			[ "habilitare" ],
+			[ "habilitáremos" ],
+			[ "habilitareis", "habilitaren" ],
+			[ "habilitaren" ]
+		],
+		"12" : {
+			"1" : [ "habilita" ],
+			"2" : [ "habilite" ],
+			"3" : [ "habilitemos" ],
+			"4" : [ "habilitad" ],
+			"5" : [ "habiliten" ]
+		}
+	}
+}

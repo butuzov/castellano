@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escoger",
+	"word" : "escoger",
+	"infinitivo" : "escoger",
+	"participio" : [ "escogido" ],
+	"gerundio" : [ "escogiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "escojo" ],
+			[ "escoges", "escogés" ],
+			[ "escoge" ],
+			[ "escogemos" ],
+			[ "escogéis", "escogen" ],
+			[ "escogen" ]
+		],
+		"4" : [
+			[ "escogí" ],
+			[ "escogiste" ],
+			[ "escogió" ],
+			[ "escogimos" ],
+			[ "escogisteis", "escogieron" ],
+			[ "escogieron" ]
+		],
+		"5" : [
+			[ "escogía" ],
+			[ "escogías" ],
+			[ "escogía" ],
+			[ "escogíamos" ],
+			[ "escogíais", "escogían" ],
+			[ "escogían" ]
+		],
+		"6" : [
+			[ "escogería" ],
+			[ "escogerías" ],
+			[ "escogería" ],
+			[ "escogeríamos" ],
+			[ "escogeríais", "escogerían" ],
+			[ "escogerían" ]
+		],
+		"7" : [
+			[ "escogeré" ],
+			[ "escogerás" ],
+			[ "escogerá" ],
+			[ "escogeremos" ],
+			[ "escogeréis", "escogerán" ],
+			[ "escogerán" ]
+		],
+		"8" : [
+			[ "escoja" ],
+			[ "escojas" ],
+			[ "escoja" ],
+			[ "escojamos" ],
+			[ "escojáis", "escojan" ],
+			[ "escojan" ]
+		],
+		"9" : [
+			[ "escogiera" ],
+			[ "escogieras" ],
+			[ "escogiera" ],
+			[ "escogiéramos" ],
+			[ "escogierais", "escogieran" ],
+			[ "escogieran" ]
+		],
+		"10" : [
+			[ "escogiese" ],
+			[ "escogieses" ],
+			[ "escogiese" ],
+			[ "escogiésemos" ],
+			[ "escogieseis", "escogiesen" ],
+			[ "escogiesen" ]
+		],
+		"11" : [
+			[ "escogiere" ],
+			[ "escogieres" ],
+			[ "escogiere" ],
+			[ "escogiéremos" ],
+			[ "escogiereis", "escogieren" ],
+			[ "escogieren" ]
+		],
+		"12" : {
+			"1" : [ "escoge" ],
+			"2" : [ "escoja" ],
+			"3" : [ "escojamos" ],
+			"4" : [ "escoged" ],
+			"5" : [ "escojan" ]
+		}
+	}
+}

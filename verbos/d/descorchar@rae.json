@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descorchar",
+	"word" : "descorchar",
+	"infinitivo" : "descorchar",
+	"participio" : [ "descorchado" ],
+	"gerundio" : [ "descorchando" ],
+	"tenses" : {
+		"3" : [
+			[ "descorcho" ],
+			[ "descorchas", "descorchás" ],
+			[ "descorcha" ],
+			[ "descorchamos" ],
+			[ "descorcháis", "descorchan" ],
+			[ "descorchan" ]
+		],
+		"4" : [
+			[ "descorché" ],
+			[ "descorchaste" ],
+			[ "descorchó" ],
+			[ "descorchamos" ],
+			[ "descorchasteis", "descorcharon" ],
+			[ "descorcharon" ]
+		],
+		"5" : [
+			[ "descorchaba" ],
+			[ "descorchabas" ],
+			[ "descorchaba" ],
+			[ "descorchábamos" ],
+			[ "descorchabais", "descorchaban" ],
+			[ "descorchaban" ]
+		],
+		"6" : [
+			[ "descorcharía" ],
+			[ "descorcharías" ],
+			[ "descorcharía" ],
+			[ "descorcharíamos" ],
+			[ "descorcharíais", "descorcharían" ],
+			[ "descorcharían" ]
+		],
+		"7" : [
+			[ "descorcharé" ],
+			[ "descorcharás" ],
+			[ "descorchará" ],
+			[ "descorcharemos" ],
+			[ "descorcharéis", "descorcharán" ],
+			[ "descorcharán" ]
+		],
+		"8" : [
+			[ "descorche" ],
+			[ "descorches" ],
+			[ "descorche" ],
+			[ "descorchemos" ],
+			[ "descorchéis", "descorchen" ],
+			[ "descorchen" ]
+		],
+		"9" : [
+			[ "descorchara" ],
+			[ "descorcharas" ],
+			[ "descorchara" ],
+			[ "descorcháramos" ],
+			[ "descorcharais", "descorcharan" ],
+			[ "descorcharan" ]
+		],
+		"10" : [
+			[ "descorchase" ],
+			[ "descorchases" ],
+			[ "descorchase" ],
+			[ "descorchásemos" ],
+			[ "descorchaseis", "descorchasen" ],
+			[ "descorchasen" ]
+		],
+		"11" : [
+			[ "descorchare" ],
+			[ "descorchares" ],
+			[ "descorchare" ],
+			[ "descorcháremos" ],
+			[ "descorchareis", "descorcharen" ],
+			[ "descorcharen" ]
+		],
+		"12" : {
+			"1" : [ "descorcha" ],
+			"2" : [ "descorche" ],
+			"3" : [ "descorchemos" ],
+			"4" : [ "descorchad" ],
+			"5" : [ "descorchen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entintar",
+	"word" : "entintar",
+	"infinitivo" : "entintar",
+	"participio" : [ "entintado" ],
+	"gerundio" : [ "entintando" ],
+	"tenses" : {
+		"3" : [
+			[ "entinto" ],
+			[ "entintas", "entintás" ],
+			[ "entinta" ],
+			[ "entintamos" ],
+			[ "entintáis", "entintan" ],
+			[ "entintan" ]
+		],
+		"4" : [
+			[ "entinté" ],
+			[ "entintaste" ],
+			[ "entintó" ],
+			[ "entintamos" ],
+			[ "entintasteis", "entintaron" ],
+			[ "entintaron" ]
+		],
+		"5" : [
+			[ "entintaba" ],
+			[ "entintabas" ],
+			[ "entintaba" ],
+			[ "entintábamos" ],
+			[ "entintabais", "entintaban" ],
+			[ "entintaban" ]
+		],
+		"6" : [
+			[ "entintaría" ],
+			[ "entintarías" ],
+			[ "entintaría" ],
+			[ "entintaríamos" ],
+			[ "entintaríais", "entintarían" ],
+			[ "entintarían" ]
+		],
+		"7" : [
+			[ "entintaré" ],
+			[ "entintarás" ],
+			[ "entintará" ],
+			[ "entintaremos" ],
+			[ "entintaréis", "entintarán" ],
+			[ "entintarán" ]
+		],
+		"8" : [
+			[ "entinte" ],
+			[ "entintes" ],
+			[ "entinte" ],
+			[ "entintemos" ],
+			[ "entintéis", "entinten" ],
+			[ "entinten" ]
+		],
+		"9" : [
+			[ "entintara" ],
+			[ "entintaras" ],
+			[ "entintara" ],
+			[ "entintáramos" ],
+			[ "entintarais", "entintaran" ],
+			[ "entintaran" ]
+		],
+		"10" : [
+			[ "entintase" ],
+			[ "entintases" ],
+			[ "entintase" ],
+			[ "entintásemos" ],
+			[ "entintaseis", "entintasen" ],
+			[ "entintasen" ]
+		],
+		"11" : [
+			[ "entintare" ],
+			[ "entintares" ],
+			[ "entintare" ],
+			[ "entintáremos" ],
+			[ "entintareis", "entintaren" ],
+			[ "entintaren" ]
+		],
+		"12" : {
+			"1" : [ "entinta" ],
+			"2" : [ "entinte" ],
+			"3" : [ "entintemos" ],
+			"4" : [ "entintad" ],
+			"5" : [ "entinten" ]
+		}
+	}
+}

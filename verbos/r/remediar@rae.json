@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remediar",
+	"word" : "remediar",
+	"infinitivo" : "remediar",
+	"participio" : [ "remediado" ],
+	"gerundio" : [ "remediando" ],
+	"tenses" : {
+		"3" : [
+			[ "remedio" ],
+			[ "remedias", "remediás" ],
+			[ "remedia" ],
+			[ "remediamos" ],
+			[ "remediáis", "remedian" ],
+			[ "remedian" ]
+		],
+		"4" : [
+			[ "remedié" ],
+			[ "remediaste" ],
+			[ "remedió" ],
+			[ "remediamos" ],
+			[ "remediasteis", "remediaron" ],
+			[ "remediaron" ]
+		],
+		"5" : [
+			[ "remediaba" ],
+			[ "remediabas" ],
+			[ "remediaba" ],
+			[ "remediábamos" ],
+			[ "remediabais", "remediaban" ],
+			[ "remediaban" ]
+		],
+		"6" : [
+			[ "remediaría" ],
+			[ "remediarías" ],
+			[ "remediaría" ],
+			[ "remediaríamos" ],
+			[ "remediaríais", "remediarían" ],
+			[ "remediarían" ]
+		],
+		"7" : [
+			[ "remediaré" ],
+			[ "remediarás" ],
+			[ "remediará" ],
+			[ "remediaremos" ],
+			[ "remediaréis", "remediarán" ],
+			[ "remediarán" ]
+		],
+		"8" : [
+			[ "remedie" ],
+			[ "remedies" ],
+			[ "remedie" ],
+			[ "remediemos" ],
+			[ "remediéis", "remedien" ],
+			[ "remedien" ]
+		],
+		"9" : [
+			[ "remediara" ],
+			[ "remediaras" ],
+			[ "remediara" ],
+			[ "remediáramos" ],
+			[ "remediarais", "remediaran" ],
+			[ "remediaran" ]
+		],
+		"10" : [
+			[ "remediase" ],
+			[ "remediases" ],
+			[ "remediase" ],
+			[ "remediásemos" ],
+			[ "remediaseis", "remediasen" ],
+			[ "remediasen" ]
+		],
+		"11" : [
+			[ "remediare" ],
+			[ "remediares" ],
+			[ "remediare" ],
+			[ "remediáremos" ],
+			[ "remediareis", "remediaren" ],
+			[ "remediaren" ]
+		],
+		"12" : {
+			"1" : [ "remedia" ],
+			"2" : [ "remedie" ],
+			"3" : [ "remediemos" ],
+			"4" : [ "remediad" ],
+			"5" : [ "remedien" ]
+		}
+	}
+}

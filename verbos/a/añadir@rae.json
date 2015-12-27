@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=añadir",
+	"word" : "añadir",
+	"infinitivo" : "añadir",
+	"participio" : [ "añadido" ],
+	"gerundio" : [ "añadiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "añado" ],
+			[ "añades", "añadís" ],
+			[ "añade" ],
+			[ "añadimos" ],
+			[ "añadís", "añaden" ],
+			[ "añaden" ]
+		],
+		"4" : [
+			[ "añadí" ],
+			[ "añadiste" ],
+			[ "añadió" ],
+			[ "añadimos" ],
+			[ "añadisteis", "añadieron" ],
+			[ "añadieron" ]
+		],
+		"5" : [
+			[ "añadía" ],
+			[ "añadías" ],
+			[ "añadía" ],
+			[ "añadíamos" ],
+			[ "añadíais", "añadían" ],
+			[ "añadían" ]
+		],
+		"6" : [
+			[ "añadiría" ],
+			[ "añadirías" ],
+			[ "añadiría" ],
+			[ "añadiríamos" ],
+			[ "añadiríais", "añadirían" ],
+			[ "añadirían" ]
+		],
+		"7" : [
+			[ "añadiré" ],
+			[ "añadirás" ],
+			[ "añadirá" ],
+			[ "añadiremos" ],
+			[ "añadiréis", "añadirán" ],
+			[ "añadirán" ]
+		],
+		"8" : [
+			[ "añada" ],
+			[ "añadas" ],
+			[ "añada" ],
+			[ "añadamos" ],
+			[ "añadáis", "añadan" ],
+			[ "añadan" ]
+		],
+		"9" : [
+			[ "añadiera" ],
+			[ "añadieras" ],
+			[ "añadiera" ],
+			[ "añadiéramos" ],
+			[ "añadierais", "añadieran" ],
+			[ "añadieran" ]
+		],
+		"10" : [
+			[ "añadiese" ],
+			[ "añadieses" ],
+			[ "añadiese" ],
+			[ "añadiésemos" ],
+			[ "añadieseis", "añadiesen" ],
+			[ "añadiesen" ]
+		],
+		"11" : [
+			[ "añadiere" ],
+			[ "añadieres" ],
+			[ "añadiere" ],
+			[ "añadiéremos" ],
+			[ "añadiereis", "añadieren" ],
+			[ "añadieren" ]
+		],
+		"12" : {
+			"1" : [ "añade" ],
+			"2" : [ "añada" ],
+			"3" : [ "añadamos" ],
+			"4" : [ "añadid" ],
+			"5" : [ "añadan" ]
+		}
+	}
+}

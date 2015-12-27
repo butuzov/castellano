@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aconsejar",
+	"word" : "aconsejar",
+	"infinitivo" : "aconsejar",
+	"participio" : [ "aconsejado" ],
+	"gerundio" : [ "aconsejando" ],
+	"tenses" : {
+		"3" : [
+			[ "aconsejo" ],
+			[ "aconsejas", "aconsejás" ],
+			[ "aconseja" ],
+			[ "aconsejamos" ],
+			[ "aconsejáis", "aconsejan" ],
+			[ "aconsejan" ]
+		],
+		"4" : [
+			[ "aconsejé" ],
+			[ "aconsejaste" ],
+			[ "aconsejó" ],
+			[ "aconsejamos" ],
+			[ "aconsejasteis", "aconsejaron" ],
+			[ "aconsejaron" ]
+		],
+		"5" : [
+			[ "aconsejaba" ],
+			[ "aconsejabas" ],
+			[ "aconsejaba" ],
+			[ "aconsejábamos" ],
+			[ "aconsejabais", "aconsejaban" ],
+			[ "aconsejaban" ]
+		],
+		"6" : [
+			[ "aconsejaría" ],
+			[ "aconsejarías" ],
+			[ "aconsejaría" ],
+			[ "aconsejaríamos" ],
+			[ "aconsejaríais", "aconsejarían" ],
+			[ "aconsejarían" ]
+		],
+		"7" : [
+			[ "aconsejaré" ],
+			[ "aconsejarás" ],
+			[ "aconsejará" ],
+			[ "aconsejaremos" ],
+			[ "aconsejaréis", "aconsejarán" ],
+			[ "aconsejarán" ]
+		],
+		"8" : [
+			[ "aconseje" ],
+			[ "aconsejes" ],
+			[ "aconseje" ],
+			[ "aconsejemos" ],
+			[ "aconsejéis", "aconsejen" ],
+			[ "aconsejen" ]
+		],
+		"9" : [
+			[ "aconsejara" ],
+			[ "aconsejaras" ],
+			[ "aconsejara" ],
+			[ "aconsejáramos" ],
+			[ "aconsejarais", "aconsejaran" ],
+			[ "aconsejaran" ]
+		],
+		"10" : [
+			[ "aconsejase" ],
+			[ "aconsejases" ],
+			[ "aconsejase" ],
+			[ "aconsejásemos" ],
+			[ "aconsejaseis", "aconsejasen" ],
+			[ "aconsejasen" ]
+		],
+		"11" : [
+			[ "aconsejare" ],
+			[ "aconsejares" ],
+			[ "aconsejare" ],
+			[ "aconsejáremos" ],
+			[ "aconsejareis", "aconsejaren" ],
+			[ "aconsejaren" ]
+		],
+		"12" : {
+			"1" : [ "aconseja" ],
+			"2" : [ "aconseje" ],
+			"3" : [ "aconsejemos" ],
+			"4" : [ "aconsejad" ],
+			"5" : [ "aconsejen" ]
+		}
+	}
+}

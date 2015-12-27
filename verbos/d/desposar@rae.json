@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desposar",
+	"word" : "desposar",
+	"infinitivo" : "desposar",
+	"participio" : [ "desposado" ],
+	"gerundio" : [ "desposando" ],
+	"tenses" : {
+		"3" : [
+			[ "desposo" ],
+			[ "desposas", "desposás" ],
+			[ "desposa" ],
+			[ "desposamos" ],
+			[ "desposáis", "desposan" ],
+			[ "desposan" ]
+		],
+		"4" : [
+			[ "desposé" ],
+			[ "desposaste" ],
+			[ "desposó" ],
+			[ "desposamos" ],
+			[ "desposasteis", "desposaron" ],
+			[ "desposaron" ]
+		],
+		"5" : [
+			[ "desposaba" ],
+			[ "desposabas" ],
+			[ "desposaba" ],
+			[ "desposábamos" ],
+			[ "desposabais", "desposaban" ],
+			[ "desposaban" ]
+		],
+		"6" : [
+			[ "desposaría" ],
+			[ "desposarías" ],
+			[ "desposaría" ],
+			[ "desposaríamos" ],
+			[ "desposaríais", "desposarían" ],
+			[ "desposarían" ]
+		],
+		"7" : [
+			[ "desposaré" ],
+			[ "desposarás" ],
+			[ "desposará" ],
+			[ "desposaremos" ],
+			[ "desposaréis", "desposarán" ],
+			[ "desposarán" ]
+		],
+		"8" : [
+			[ "despose" ],
+			[ "desposes" ],
+			[ "despose" ],
+			[ "desposemos" ],
+			[ "desposéis", "desposen" ],
+			[ "desposen" ]
+		],
+		"9" : [
+			[ "desposara" ],
+			[ "desposaras" ],
+			[ "desposara" ],
+			[ "desposáramos" ],
+			[ "desposarais", "desposaran" ],
+			[ "desposaran" ]
+		],
+		"10" : [
+			[ "desposase" ],
+			[ "desposases" ],
+			[ "desposase" ],
+			[ "desposásemos" ],
+			[ "desposaseis", "desposasen" ],
+			[ "desposasen" ]
+		],
+		"11" : [
+			[ "desposare" ],
+			[ "desposares" ],
+			[ "desposare" ],
+			[ "desposáremos" ],
+			[ "desposareis", "desposaren" ],
+			[ "desposaren" ]
+		],
+		"12" : {
+			"1" : [ "desposa" ],
+			"2" : [ "despose" ],
+			"3" : [ "desposemos" ],
+			"4" : [ "desposad" ],
+			"5" : [ "desposen" ]
+		}
+	}
+}

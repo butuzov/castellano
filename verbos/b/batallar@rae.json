@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=batallar",
+	"word" : "batallar",
+	"infinitivo" : "batallar",
+	"participio" : [ "batallado" ],
+	"gerundio" : [ "batallando" ],
+	"tenses" : {
+		"3" : [
+			[ "batallo" ],
+			[ "batallas", "batallás" ],
+			[ "batalla" ],
+			[ "batallamos" ],
+			[ "batalláis", "batallan" ],
+			[ "batallan" ]
+		],
+		"4" : [
+			[ "batallé" ],
+			[ "batallaste" ],
+			[ "batalló" ],
+			[ "batallamos" ],
+			[ "batallasteis", "batallaron" ],
+			[ "batallaron" ]
+		],
+		"5" : [
+			[ "batallaba" ],
+			[ "batallabas" ],
+			[ "batallaba" ],
+			[ "batallábamos" ],
+			[ "batallabais", "batallaban" ],
+			[ "batallaban" ]
+		],
+		"6" : [
+			[ "batallaría" ],
+			[ "batallarías" ],
+			[ "batallaría" ],
+			[ "batallaríamos" ],
+			[ "batallaríais", "batallarían" ],
+			[ "batallarían" ]
+		],
+		"7" : [
+			[ "batallaré" ],
+			[ "batallarás" ],
+			[ "batallará" ],
+			[ "batallaremos" ],
+			[ "batallaréis", "batallarán" ],
+			[ "batallarán" ]
+		],
+		"8" : [
+			[ "batalle" ],
+			[ "batalles" ],
+			[ "batalle" ],
+			[ "batallemos" ],
+			[ "batalléis", "batallen" ],
+			[ "batallen" ]
+		],
+		"9" : [
+			[ "batallara" ],
+			[ "batallaras" ],
+			[ "batallara" ],
+			[ "batalláramos" ],
+			[ "batallarais", "batallaran" ],
+			[ "batallaran" ]
+		],
+		"10" : [
+			[ "batallase" ],
+			[ "batallases" ],
+			[ "batallase" ],
+			[ "batallásemos" ],
+			[ "batallaseis", "batallasen" ],
+			[ "batallasen" ]
+		],
+		"11" : [
+			[ "batallare" ],
+			[ "batallares" ],
+			[ "batallare" ],
+			[ "batalláremos" ],
+			[ "batallareis", "batallaren" ],
+			[ "batallaren" ]
+		],
+		"12" : {
+			"1" : [ "batalla" ],
+			"2" : [ "batalle" ],
+			"3" : [ "batallemos" ],
+			"4" : [ "batallad" ],
+			"5" : [ "batallen" ]
+		}
+	}
+}

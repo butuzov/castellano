@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=avistar",
+	"word" : "avistar",
+	"infinitivo" : "avistar",
+	"participio" : [ "avistado" ],
+	"gerundio" : [ "avistando" ],
+	"tenses" : {
+		"3" : [
+			[ "avisto" ],
+			[ "avistas", "avistás" ],
+			[ "avista" ],
+			[ "avistamos" ],
+			[ "avistáis", "avistan" ],
+			[ "avistan" ]
+		],
+		"4" : [
+			[ "avisté" ],
+			[ "avistaste" ],
+			[ "avistó" ],
+			[ "avistamos" ],
+			[ "avistasteis", "avistaron" ],
+			[ "avistaron" ]
+		],
+		"5" : [
+			[ "avistaba" ],
+			[ "avistabas" ],
+			[ "avistaba" ],
+			[ "avistábamos" ],
+			[ "avistabais", "avistaban" ],
+			[ "avistaban" ]
+		],
+		"6" : [
+			[ "avistaría" ],
+			[ "avistarías" ],
+			[ "avistaría" ],
+			[ "avistaríamos" ],
+			[ "avistaríais", "avistarían" ],
+			[ "avistarían" ]
+		],
+		"7" : [
+			[ "avistaré" ],
+			[ "avistarás" ],
+			[ "avistará" ],
+			[ "avistaremos" ],
+			[ "avistaréis", "avistarán" ],
+			[ "avistarán" ]
+		],
+		"8" : [
+			[ "aviste" ],
+			[ "avistes" ],
+			[ "aviste" ],
+			[ "avistemos" ],
+			[ "avistéis", "avisten" ],
+			[ "avisten" ]
+		],
+		"9" : [
+			[ "avistara" ],
+			[ "avistaras" ],
+			[ "avistara" ],
+			[ "avistáramos" ],
+			[ "avistarais", "avistaran" ],
+			[ "avistaran" ]
+		],
+		"10" : [
+			[ "avistase" ],
+			[ "avistases" ],
+			[ "avistase" ],
+			[ "avistásemos" ],
+			[ "avistaseis", "avistasen" ],
+			[ "avistasen" ]
+		],
+		"11" : [
+			[ "avistare" ],
+			[ "avistares" ],
+			[ "avistare" ],
+			[ "avistáremos" ],
+			[ "avistareis", "avistaren" ],
+			[ "avistaren" ]
+		],
+		"12" : {
+			"1" : [ "avista" ],
+			"2" : [ "aviste" ],
+			"3" : [ "avistemos" ],
+			"4" : [ "avistad" ],
+			"5" : [ "avisten" ]
+		}
+	}
+}

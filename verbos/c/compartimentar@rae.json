@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=compartimentar",
+	"word" : "compartimentar",
+	"infinitivo" : "compartimentar",
+	"participio" : [ "compartimentado" ],
+	"gerundio" : [ "compartimentando" ],
+	"tenses" : {
+		"3" : [
+			[ "compartimento" ],
+			[ "compartimentas", "compartimentás" ],
+			[ "compartimenta" ],
+			[ "compartimentamos" ],
+			[ "compartimentáis", "compartimentan" ],
+			[ "compartimentan" ]
+		],
+		"4" : [
+			[ "compartimenté" ],
+			[ "compartimentaste" ],
+			[ "compartimentó" ],
+			[ "compartimentamos" ],
+			[ "compartimentasteis", "compartimentaron" ],
+			[ "compartimentaron" ]
+		],
+		"5" : [
+			[ "compartimentaba" ],
+			[ "compartimentabas" ],
+			[ "compartimentaba" ],
+			[ "compartimentábamos" ],
+			[ "compartimentabais", "compartimentaban" ],
+			[ "compartimentaban" ]
+		],
+		"6" : [
+			[ "compartimentaría" ],
+			[ "compartimentarías" ],
+			[ "compartimentaría" ],
+			[ "compartimentaríamos" ],
+			[ "compartimentaríais", "compartimentarían" ],
+			[ "compartimentarían" ]
+		],
+		"7" : [
+			[ "compartimentaré" ],
+			[ "compartimentarás" ],
+			[ "compartimentará" ],
+			[ "compartimentaremos" ],
+			[ "compartimentaréis", "compartimentarán" ],
+			[ "compartimentarán" ]
+		],
+		"8" : [
+			[ "compartimente" ],
+			[ "compartimentes" ],
+			[ "compartimente" ],
+			[ "compartimentemos" ],
+			[ "compartimentéis", "compartimenten" ],
+			[ "compartimenten" ]
+		],
+		"9" : [
+			[ "compartimentara" ],
+			[ "compartimentaras" ],
+			[ "compartimentara" ],
+			[ "compartimentáramos" ],
+			[ "compartimentarais", "compartimentaran" ],
+			[ "compartimentaran" ]
+		],
+		"10" : [
+			[ "compartimentase" ],
+			[ "compartimentases" ],
+			[ "compartimentase" ],
+			[ "compartimentásemos" ],
+			[ "compartimentaseis", "compartimentasen" ],
+			[ "compartimentasen" ]
+		],
+		"11" : [
+			[ "compartimentare" ],
+			[ "compartimentares" ],
+			[ "compartimentare" ],
+			[ "compartimentáremos" ],
+			[ "compartimentareis", "compartimentaren" ],
+			[ "compartimentaren" ]
+		],
+		"12" : {
+			"1" : [ "compartimenta" ],
+			"2" : [ "compartimente" ],
+			"3" : [ "compartimentemos" ],
+			"4" : [ "compartimentad" ],
+			"5" : [ "compartimenten" ]
+		}
+	}
+}

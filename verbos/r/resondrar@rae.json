@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resondrar",
+	"word" : "resondrar",
+	"infinitivo" : "resondrar",
+	"participio" : [ "resondrado" ],
+	"gerundio" : [ "resondrando" ],
+	"tenses" : {
+		"3" : [
+			[ "resondro" ],
+			[ "resondras", "resondrás" ],
+			[ "resondra" ],
+			[ "resondramos" ],
+			[ "resondráis", "resondran" ],
+			[ "resondran" ]
+		],
+		"4" : [
+			[ "resondré" ],
+			[ "resondraste" ],
+			[ "resondró" ],
+			[ "resondramos" ],
+			[ "resondrasteis", "resondraron" ],
+			[ "resondraron" ]
+		],
+		"5" : [
+			[ "resondraba" ],
+			[ "resondrabas" ],
+			[ "resondraba" ],
+			[ "resondrábamos" ],
+			[ "resondrabais", "resondraban" ],
+			[ "resondraban" ]
+		],
+		"6" : [
+			[ "resondraría" ],
+			[ "resondrarías" ],
+			[ "resondraría" ],
+			[ "resondraríamos" ],
+			[ "resondraríais", "resondrarían" ],
+			[ "resondrarían" ]
+		],
+		"7" : [
+			[ "resondraré" ],
+			[ "resondrarás" ],
+			[ "resondrará" ],
+			[ "resondraremos" ],
+			[ "resondraréis", "resondrarán" ],
+			[ "resondrarán" ]
+		],
+		"8" : [
+			[ "resondre" ],
+			[ "resondres" ],
+			[ "resondre" ],
+			[ "resondremos" ],
+			[ "resondréis", "resondren" ],
+			[ "resondren" ]
+		],
+		"9" : [
+			[ "resondrara" ],
+			[ "resondraras" ],
+			[ "resondrara" ],
+			[ "resondráramos" ],
+			[ "resondrarais", "resondraran" ],
+			[ "resondraran" ]
+		],
+		"10" : [
+			[ "resondrase" ],
+			[ "resondrases" ],
+			[ "resondrase" ],
+			[ "resondrásemos" ],
+			[ "resondraseis", "resondrasen" ],
+			[ "resondrasen" ]
+		],
+		"11" : [
+			[ "resondrare" ],
+			[ "resondrares" ],
+			[ "resondrare" ],
+			[ "resondráremos" ],
+			[ "resondrareis", "resondraren" ],
+			[ "resondraren" ]
+		],
+		"12" : {
+			"1" : [ "resondra" ],
+			"2" : [ "resondre" ],
+			"3" : [ "resondremos" ],
+			"4" : [ "resondrad" ],
+			"5" : [ "resondren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=surcar",
+	"word" : "surcar",
+	"infinitivo" : "surcar",
+	"participio" : [ "surcado" ],
+	"gerundio" : [ "surcando" ],
+	"tenses" : {
+		"3" : [
+			[ "surco" ],
+			[ "surcas", "surcás" ],
+			[ "surca" ],
+			[ "surcamos" ],
+			[ "surcáis", "surcan" ],
+			[ "surcan" ]
+		],
+		"4" : [
+			[ "surqué" ],
+			[ "surcaste" ],
+			[ "surcó" ],
+			[ "surcamos" ],
+			[ "surcasteis", "surcaron" ],
+			[ "surcaron" ]
+		],
+		"5" : [
+			[ "surcaba" ],
+			[ "surcabas" ],
+			[ "surcaba" ],
+			[ "surcábamos" ],
+			[ "surcabais", "surcaban" ],
+			[ "surcaban" ]
+		],
+		"6" : [
+			[ "surcaría" ],
+			[ "surcarías" ],
+			[ "surcaría" ],
+			[ "surcaríamos" ],
+			[ "surcaríais", "surcarían" ],
+			[ "surcarían" ]
+		],
+		"7" : [
+			[ "surcaré" ],
+			[ "surcarás" ],
+			[ "surcará" ],
+			[ "surcaremos" ],
+			[ "surcaréis", "surcarán" ],
+			[ "surcarán" ]
+		],
+		"8" : [
+			[ "surque" ],
+			[ "surques" ],
+			[ "surque" ],
+			[ "surquemos" ],
+			[ "surquéis", "surquen" ],
+			[ "surquen" ]
+		],
+		"9" : [
+			[ "surcara" ],
+			[ "surcaras" ],
+			[ "surcara" ],
+			[ "surcáramos" ],
+			[ "surcarais", "surcaran" ],
+			[ "surcaran" ]
+		],
+		"10" : [
+			[ "surcase" ],
+			[ "surcases" ],
+			[ "surcase" ],
+			[ "surcásemos" ],
+			[ "surcaseis", "surcasen" ],
+			[ "surcasen" ]
+		],
+		"11" : [
+			[ "surcare" ],
+			[ "surcares" ],
+			[ "surcare" ],
+			[ "surcáremos" ],
+			[ "surcareis", "surcaren" ],
+			[ "surcaren" ]
+		],
+		"12" : {
+			"1" : [ "surca" ],
+			"2" : [ "surque" ],
+			"3" : [ "surquemos" ],
+			"4" : [ "surcad" ],
+			"5" : [ "surquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atravesar",
+	"word" : "atravesar",
+	"infinitivo" : "atravesar",
+	"participio" : [ "atravesado" ],
+	"gerundio" : [ "atravesando" ],
+	"tenses" : {
+		"3" : [
+			[ "atravieso" ],
+			[ "atraviesas", "atravesás" ],
+			[ "atraviesa" ],
+			[ "atravesamos" ],
+			[ "atravesáis", "atraviesan" ],
+			[ "atraviesan" ]
+		],
+		"4" : [
+			[ "atravesé" ],
+			[ "atravesaste" ],
+			[ "atravesó" ],
+			[ "atravesamos" ],
+			[ "atravesasteis", "atravesaron" ],
+			[ "atravesaron" ]
+		],
+		"5" : [
+			[ "atravesaba" ],
+			[ "atravesabas" ],
+			[ "atravesaba" ],
+			[ "atravesábamos" ],
+			[ "atravesabais", "atravesaban" ],
+			[ "atravesaban" ]
+		],
+		"6" : [
+			[ "atravesaría" ],
+			[ "atravesarías" ],
+			[ "atravesaría" ],
+			[ "atravesaríamos" ],
+			[ "atravesaríais", "atravesarían" ],
+			[ "atravesarían" ]
+		],
+		"7" : [
+			[ "atravesaré" ],
+			[ "atravesarás" ],
+			[ "atravesará" ],
+			[ "atravesaremos" ],
+			[ "atravesaréis", "atravesarán" ],
+			[ "atravesarán" ]
+		],
+		"8" : [
+			[ "atraviese" ],
+			[ "atravieses" ],
+			[ "atraviese" ],
+			[ "atravesemos" ],
+			[ "atraveséis", "atraviesen" ],
+			[ "atraviesen" ]
+		],
+		"9" : [
+			[ "atravesara" ],
+			[ "atravesaras" ],
+			[ "atravesara" ],
+			[ "atravesáramos" ],
+			[ "atravesarais", "atravesaran" ],
+			[ "atravesaran" ]
+		],
+		"10" : [
+			[ "atravesase" ],
+			[ "atravesases" ],
+			[ "atravesase" ],
+			[ "atravesásemos" ],
+			[ "atravesaseis", "atravesasen" ],
+			[ "atravesasen" ]
+		],
+		"11" : [
+			[ "atravesare" ],
+			[ "atravesares" ],
+			[ "atravesare" ],
+			[ "atravesáremos" ],
+			[ "atravesareis", "atravesaren" ],
+			[ "atravesaren" ]
+		],
+		"12" : {
+			"1" : [ "atraviesa" ],
+			"2" : [ "atraviese" ],
+			"3" : [ "atravesemos" ],
+			"4" : [ "atravesad" ],
+			"5" : [ "atraviesen" ]
+		}
+	}
+}

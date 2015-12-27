@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=predominar",
+	"word" : "predominar",
+	"infinitivo" : "predominar",
+	"participio" : [ "predominado" ],
+	"gerundio" : [ "predominando" ],
+	"tenses" : {
+		"3" : [
+			[ "predomino" ],
+			[ "predominas", "predominás" ],
+			[ "predomina" ],
+			[ "predominamos" ],
+			[ "predomináis", "predominan" ],
+			[ "predominan" ]
+		],
+		"4" : [
+			[ "predominé" ],
+			[ "predominaste" ],
+			[ "predominó" ],
+			[ "predominamos" ],
+			[ "predominasteis", "predominaron" ],
+			[ "predominaron" ]
+		],
+		"5" : [
+			[ "predominaba" ],
+			[ "predominabas" ],
+			[ "predominaba" ],
+			[ "predominábamos" ],
+			[ "predominabais", "predominaban" ],
+			[ "predominaban" ]
+		],
+		"6" : [
+			[ "predominaría" ],
+			[ "predominarías" ],
+			[ "predominaría" ],
+			[ "predominaríamos" ],
+			[ "predominaríais", "predominarían" ],
+			[ "predominarían" ]
+		],
+		"7" : [
+			[ "predominaré" ],
+			[ "predominarás" ],
+			[ "predominará" ],
+			[ "predominaremos" ],
+			[ "predominaréis", "predominarán" ],
+			[ "predominarán" ]
+		],
+		"8" : [
+			[ "predomine" ],
+			[ "predomines" ],
+			[ "predomine" ],
+			[ "predominemos" ],
+			[ "predominéis", "predominen" ],
+			[ "predominen" ]
+		],
+		"9" : [
+			[ "predominara" ],
+			[ "predominaras" ],
+			[ "predominara" ],
+			[ "predomináramos" ],
+			[ "predominarais", "predominaran" ],
+			[ "predominaran" ]
+		],
+		"10" : [
+			[ "predominase" ],
+			[ "predominases" ],
+			[ "predominase" ],
+			[ "predominásemos" ],
+			[ "predominaseis", "predominasen" ],
+			[ "predominasen" ]
+		],
+		"11" : [
+			[ "predominare" ],
+			[ "predominares" ],
+			[ "predominare" ],
+			[ "predomináremos" ],
+			[ "predominareis", "predominaren" ],
+			[ "predominaren" ]
+		],
+		"12" : {
+			"1" : [ "predomina" ],
+			"2" : [ "predomine" ],
+			"3" : [ "predominemos" ],
+			"4" : [ "predominad" ],
+			"5" : [ "predominen" ]
+		}
+	}
+}

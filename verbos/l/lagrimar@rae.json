@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lagrimar",
+	"word" : "lagrimar",
+	"infinitivo" : "lagrimar",
+	"participio" : [ "lagrimado" ],
+	"gerundio" : [ "lagrimando" ],
+	"tenses" : {
+		"3" : [
+			[ "lagrimo" ],
+			[ "lagrimas", "lagrimás" ],
+			[ "lagrima" ],
+			[ "lagrimamos" ],
+			[ "lagrimáis", "lagriman" ],
+			[ "lagriman" ]
+		],
+		"4" : [
+			[ "lagrimé" ],
+			[ "lagrimaste" ],
+			[ "lagrimó" ],
+			[ "lagrimamos" ],
+			[ "lagrimasteis", "lagrimaron" ],
+			[ "lagrimaron" ]
+		],
+		"5" : [
+			[ "lagrimaba" ],
+			[ "lagrimabas" ],
+			[ "lagrimaba" ],
+			[ "lagrimábamos" ],
+			[ "lagrimabais", "lagrimaban" ],
+			[ "lagrimaban" ]
+		],
+		"6" : [
+			[ "lagrimaría" ],
+			[ "lagrimarías" ],
+			[ "lagrimaría" ],
+			[ "lagrimaríamos" ],
+			[ "lagrimaríais", "lagrimarían" ],
+			[ "lagrimarían" ]
+		],
+		"7" : [
+			[ "lagrimaré" ],
+			[ "lagrimarás" ],
+			[ "lagrimará" ],
+			[ "lagrimaremos" ],
+			[ "lagrimaréis", "lagrimarán" ],
+			[ "lagrimarán" ]
+		],
+		"8" : [
+			[ "lagrime" ],
+			[ "lagrimes" ],
+			[ "lagrime" ],
+			[ "lagrimemos" ],
+			[ "lagriméis", "lagrimen" ],
+			[ "lagrimen" ]
+		],
+		"9" : [
+			[ "lagrimara" ],
+			[ "lagrimaras" ],
+			[ "lagrimara" ],
+			[ "lagrimáramos" ],
+			[ "lagrimarais", "lagrimaran" ],
+			[ "lagrimaran" ]
+		],
+		"10" : [
+			[ "lagrimase" ],
+			[ "lagrimases" ],
+			[ "lagrimase" ],
+			[ "lagrimásemos" ],
+			[ "lagrimaseis", "lagrimasen" ],
+			[ "lagrimasen" ]
+		],
+		"11" : [
+			[ "lagrimare" ],
+			[ "lagrimares" ],
+			[ "lagrimare" ],
+			[ "lagrimáremos" ],
+			[ "lagrimareis", "lagrimaren" ],
+			[ "lagrimaren" ]
+		],
+		"12" : {
+			"1" : [ "lagrima" ],
+			"2" : [ "lagrime" ],
+			"3" : [ "lagrimemos" ],
+			"4" : [ "lagrimad" ],
+			"5" : [ "lagrimen" ]
+		}
+	}
+}

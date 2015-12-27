@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=binar",
+	"word" : "binar",
+	"infinitivo" : "binar",
+	"participio" : [ "binado" ],
+	"gerundio" : [ "binando" ],
+	"tenses" : {
+		"3" : [
+			[ "bino" ],
+			[ "binas", "binás" ],
+			[ "bina" ],
+			[ "binamos" ],
+			[ "bináis", "binan" ],
+			[ "binan" ]
+		],
+		"4" : [
+			[ "biné" ],
+			[ "binaste" ],
+			[ "binó" ],
+			[ "binamos" ],
+			[ "binasteis", "binaron" ],
+			[ "binaron" ]
+		],
+		"5" : [
+			[ "binaba" ],
+			[ "binabas" ],
+			[ "binaba" ],
+			[ "binábamos" ],
+			[ "binabais", "binaban" ],
+			[ "binaban" ]
+		],
+		"6" : [
+			[ "binaría" ],
+			[ "binarías" ],
+			[ "binaría" ],
+			[ "binaríamos" ],
+			[ "binaríais", "binarían" ],
+			[ "binarían" ]
+		],
+		"7" : [
+			[ "binaré" ],
+			[ "binarás" ],
+			[ "binará" ],
+			[ "binaremos" ],
+			[ "binaréis", "binarán" ],
+			[ "binarán" ]
+		],
+		"8" : [
+			[ "bine" ],
+			[ "bines" ],
+			[ "bine" ],
+			[ "binemos" ],
+			[ "binéis", "binen" ],
+			[ "binen" ]
+		],
+		"9" : [
+			[ "binara" ],
+			[ "binaras" ],
+			[ "binara" ],
+			[ "bináramos" ],
+			[ "binarais", "binaran" ],
+			[ "binaran" ]
+		],
+		"10" : [
+			[ "binase" ],
+			[ "binases" ],
+			[ "binase" ],
+			[ "binásemos" ],
+			[ "binaseis", "binasen" ],
+			[ "binasen" ]
+		],
+		"11" : [
+			[ "binare" ],
+			[ "binares" ],
+			[ "binare" ],
+			[ "bináremos" ],
+			[ "binareis", "binaren" ],
+			[ "binaren" ]
+		],
+		"12" : {
+			"1" : [ "bina" ],
+			"2" : [ "bine" ],
+			"3" : [ "binemos" ],
+			"4" : [ "binad" ],
+			"5" : [ "binen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sudar",
+	"word" : "sudar",
+	"infinitivo" : "sudar",
+	"participio" : [ "sudado" ],
+	"gerundio" : [ "sudando" ],
+	"tenses" : {
+		"3" : [
+			[ "sudo" ],
+			[ "sudas", "sudás" ],
+			[ "suda" ],
+			[ "sudamos" ],
+			[ "sudáis", "sudan" ],
+			[ "sudan" ]
+		],
+		"4" : [
+			[ "sudé" ],
+			[ "sudaste" ],
+			[ "sudó" ],
+			[ "sudamos" ],
+			[ "sudasteis", "sudaron" ],
+			[ "sudaron" ]
+		],
+		"5" : [
+			[ "sudaba" ],
+			[ "sudabas" ],
+			[ "sudaba" ],
+			[ "sudábamos" ],
+			[ "sudabais", "sudaban" ],
+			[ "sudaban" ]
+		],
+		"6" : [
+			[ "sudaría" ],
+			[ "sudarías" ],
+			[ "sudaría" ],
+			[ "sudaríamos" ],
+			[ "sudaríais", "sudarían" ],
+			[ "sudarían" ]
+		],
+		"7" : [
+			[ "sudaré" ],
+			[ "sudarás" ],
+			[ "sudará" ],
+			[ "sudaremos" ],
+			[ "sudaréis", "sudarán" ],
+			[ "sudarán" ]
+		],
+		"8" : [
+			[ "sude" ],
+			[ "sudes" ],
+			[ "sude" ],
+			[ "sudemos" ],
+			[ "sudéis", "suden" ],
+			[ "suden" ]
+		],
+		"9" : [
+			[ "sudara" ],
+			[ "sudaras" ],
+			[ "sudara" ],
+			[ "sudáramos" ],
+			[ "sudarais", "sudaran" ],
+			[ "sudaran" ]
+		],
+		"10" : [
+			[ "sudase" ],
+			[ "sudases" ],
+			[ "sudase" ],
+			[ "sudásemos" ],
+			[ "sudaseis", "sudasen" ],
+			[ "sudasen" ]
+		],
+		"11" : [
+			[ "sudare" ],
+			[ "sudares" ],
+			[ "sudare" ],
+			[ "sudáremos" ],
+			[ "sudareis", "sudaren" ],
+			[ "sudaren" ]
+		],
+		"12" : {
+			"1" : [ "suda" ],
+			"2" : [ "sude" ],
+			"3" : [ "sudemos" ],
+			"4" : [ "sudad" ],
+			"5" : [ "suden" ]
+		}
+	}
+}

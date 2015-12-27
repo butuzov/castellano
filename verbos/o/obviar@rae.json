@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=obviar",
+	"word" : "obviar",
+	"infinitivo" : "obviar",
+	"participio" : [ "obviado" ],
+	"gerundio" : [ "obviando" ],
+	"tenses" : {
+		"3" : [
+			[ "obvio" ],
+			[ "obvias", "obviás" ],
+			[ "obvia" ],
+			[ "obviamos" ],
+			[ "obviáis", "obvian" ],
+			[ "obvian" ]
+		],
+		"4" : [
+			[ "obvié" ],
+			[ "obviaste" ],
+			[ "obvió" ],
+			[ "obviamos" ],
+			[ "obviasteis", "obviaron" ],
+			[ "obviaron" ]
+		],
+		"5" : [
+			[ "obviaba" ],
+			[ "obviabas" ],
+			[ "obviaba" ],
+			[ "obviábamos" ],
+			[ "obviabais", "obviaban" ],
+			[ "obviaban" ]
+		],
+		"6" : [
+			[ "obviaría" ],
+			[ "obviarías" ],
+			[ "obviaría" ],
+			[ "obviaríamos" ],
+			[ "obviaríais", "obviarían" ],
+			[ "obviarían" ]
+		],
+		"7" : [
+			[ "obviaré" ],
+			[ "obviarás" ],
+			[ "obviará" ],
+			[ "obviaremos" ],
+			[ "obviaréis", "obviarán" ],
+			[ "obviarán" ]
+		],
+		"8" : [
+			[ "obvie" ],
+			[ "obvies" ],
+			[ "obvie" ],
+			[ "obviemos" ],
+			[ "obviéis", "obvien" ],
+			[ "obvien" ]
+		],
+		"9" : [
+			[ "obviara" ],
+			[ "obviaras" ],
+			[ "obviara" ],
+			[ "obviáramos" ],
+			[ "obviarais", "obviaran" ],
+			[ "obviaran" ]
+		],
+		"10" : [
+			[ "obviase" ],
+			[ "obviases" ],
+			[ "obviase" ],
+			[ "obviásemos" ],
+			[ "obviaseis", "obviasen" ],
+			[ "obviasen" ]
+		],
+		"11" : [
+			[ "obviare" ],
+			[ "obviares" ],
+			[ "obviare" ],
+			[ "obviáremos" ],
+			[ "obviareis", "obviaren" ],
+			[ "obviaren" ]
+		],
+		"12" : {
+			"1" : [ "obvia" ],
+			"2" : [ "obvie" ],
+			"3" : [ "obviemos" ],
+			"4" : [ "obviad" ],
+			"5" : [ "obvien" ]
+		}
+	}
+}

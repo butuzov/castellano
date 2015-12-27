@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agrupar",
+	"word" : "agrupar",
+	"infinitivo" : "agrupar",
+	"participio" : [ "agrupado" ],
+	"gerundio" : [ "agrupando" ],
+	"tenses" : {
+		"3" : [
+			[ "agrupo" ],
+			[ "agrupas", "agrupás" ],
+			[ "agrupa" ],
+			[ "agrupamos" ],
+			[ "agrupáis", "agrupan" ],
+			[ "agrupan" ]
+		],
+		"4" : [
+			[ "agrupé" ],
+			[ "agrupaste" ],
+			[ "agrupó" ],
+			[ "agrupamos" ],
+			[ "agrupasteis", "agruparon" ],
+			[ "agruparon" ]
+		],
+		"5" : [
+			[ "agrupaba" ],
+			[ "agrupabas" ],
+			[ "agrupaba" ],
+			[ "agrupábamos" ],
+			[ "agrupabais", "agrupaban" ],
+			[ "agrupaban" ]
+		],
+		"6" : [
+			[ "agruparía" ],
+			[ "agruparías" ],
+			[ "agruparía" ],
+			[ "agruparíamos" ],
+			[ "agruparíais", "agruparían" ],
+			[ "agruparían" ]
+		],
+		"7" : [
+			[ "agruparé" ],
+			[ "agruparás" ],
+			[ "agrupará" ],
+			[ "agruparemos" ],
+			[ "agruparéis", "agruparán" ],
+			[ "agruparán" ]
+		],
+		"8" : [
+			[ "agrupe" ],
+			[ "agrupes" ],
+			[ "agrupe" ],
+			[ "agrupemos" ],
+			[ "agrupéis", "agrupen" ],
+			[ "agrupen" ]
+		],
+		"9" : [
+			[ "agrupara" ],
+			[ "agruparas" ],
+			[ "agrupara" ],
+			[ "agrupáramos" ],
+			[ "agruparais", "agruparan" ],
+			[ "agruparan" ]
+		],
+		"10" : [
+			[ "agrupase" ],
+			[ "agrupases" ],
+			[ "agrupase" ],
+			[ "agrupásemos" ],
+			[ "agrupaseis", "agrupasen" ],
+			[ "agrupasen" ]
+		],
+		"11" : [
+			[ "agrupare" ],
+			[ "agrupares" ],
+			[ "agrupare" ],
+			[ "agrupáremos" ],
+			[ "agrupareis", "agruparen" ],
+			[ "agruparen" ]
+		],
+		"12" : {
+			"1" : [ "agrupa" ],
+			"2" : [ "agrupe" ],
+			"3" : [ "agrupemos" ],
+			"4" : [ "agrupad" ],
+			"5" : [ "agrupen" ]
+		}
+	}
+}

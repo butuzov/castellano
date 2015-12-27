@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=refinar",
+	"word" : "refinar",
+	"infinitivo" : "refinar",
+	"participio" : [ "refinado" ],
+	"gerundio" : [ "refinando" ],
+	"tenses" : {
+		"3" : [
+			[ "refino" ],
+			[ "refinas", "refinás" ],
+			[ "refina" ],
+			[ "refinamos" ],
+			[ "refináis", "refinan" ],
+			[ "refinan" ]
+		],
+		"4" : [
+			[ "refiné" ],
+			[ "refinaste" ],
+			[ "refinó" ],
+			[ "refinamos" ],
+			[ "refinasteis", "refinaron" ],
+			[ "refinaron" ]
+		],
+		"5" : [
+			[ "refinaba" ],
+			[ "refinabas" ],
+			[ "refinaba" ],
+			[ "refinábamos" ],
+			[ "refinabais", "refinaban" ],
+			[ "refinaban" ]
+		],
+		"6" : [
+			[ "refinaría" ],
+			[ "refinarías" ],
+			[ "refinaría" ],
+			[ "refinaríamos" ],
+			[ "refinaríais", "refinarían" ],
+			[ "refinarían" ]
+		],
+		"7" : [
+			[ "refinaré" ],
+			[ "refinarás" ],
+			[ "refinará" ],
+			[ "refinaremos" ],
+			[ "refinaréis", "refinarán" ],
+			[ "refinarán" ]
+		],
+		"8" : [
+			[ "refine" ],
+			[ "refines" ],
+			[ "refine" ],
+			[ "refinemos" ],
+			[ "refinéis", "refinen" ],
+			[ "refinen" ]
+		],
+		"9" : [
+			[ "refinara" ],
+			[ "refinaras" ],
+			[ "refinara" ],
+			[ "refináramos" ],
+			[ "refinarais", "refinaran" ],
+			[ "refinaran" ]
+		],
+		"10" : [
+			[ "refinase" ],
+			[ "refinases" ],
+			[ "refinase" ],
+			[ "refinásemos" ],
+			[ "refinaseis", "refinasen" ],
+			[ "refinasen" ]
+		],
+		"11" : [
+			[ "refinare" ],
+			[ "refinares" ],
+			[ "refinare" ],
+			[ "refináremos" ],
+			[ "refinareis", "refinaren" ],
+			[ "refinaren" ]
+		],
+		"12" : {
+			"1" : [ "refina" ],
+			"2" : [ "refine" ],
+			"3" : [ "refinemos" ],
+			"4" : [ "refinad" ],
+			"5" : [ "refinen" ]
+		}
+	}
+}

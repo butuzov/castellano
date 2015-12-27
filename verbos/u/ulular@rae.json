@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ulular",
+	"word" : "ulular",
+	"infinitivo" : "ulular",
+	"participio" : [ "ululado" ],
+	"gerundio" : [ "ululando" ],
+	"tenses" : {
+		"3" : [
+			[ "ululo" ],
+			[ "ululas", "ululás" ],
+			[ "ulula" ],
+			[ "ululamos" ],
+			[ "ululáis", "ululan" ],
+			[ "ululan" ]
+		],
+		"4" : [
+			[ "ululé" ],
+			[ "ululaste" ],
+			[ "ululó" ],
+			[ "ululamos" ],
+			[ "ululasteis", "ulularon" ],
+			[ "ulularon" ]
+		],
+		"5" : [
+			[ "ululaba" ],
+			[ "ululabas" ],
+			[ "ululaba" ],
+			[ "ululábamos" ],
+			[ "ululabais", "ululaban" ],
+			[ "ululaban" ]
+		],
+		"6" : [
+			[ "ulularía" ],
+			[ "ulularías" ],
+			[ "ulularía" ],
+			[ "ulularíamos" ],
+			[ "ulularíais", "ulularían" ],
+			[ "ulularían" ]
+		],
+		"7" : [
+			[ "ulularé" ],
+			[ "ulularás" ],
+			[ "ululará" ],
+			[ "ulularemos" ],
+			[ "ulularéis", "ulularán" ],
+			[ "ulularán" ]
+		],
+		"8" : [
+			[ "ulule" ],
+			[ "ulules" ],
+			[ "ulule" ],
+			[ "ululemos" ],
+			[ "ululéis", "ululen" ],
+			[ "ululen" ]
+		],
+		"9" : [
+			[ "ululara" ],
+			[ "ulularas" ],
+			[ "ululara" ],
+			[ "ululáramos" ],
+			[ "ulularais", "ulularan" ],
+			[ "ulularan" ]
+		],
+		"10" : [
+			[ "ululase" ],
+			[ "ululases" ],
+			[ "ululase" ],
+			[ "ululásemos" ],
+			[ "ululaseis", "ululasen" ],
+			[ "ululasen" ]
+		],
+		"11" : [
+			[ "ululare" ],
+			[ "ululares" ],
+			[ "ululare" ],
+			[ "ululáremos" ],
+			[ "ululareis", "ulularen" ],
+			[ "ulularen" ]
+		],
+		"12" : {
+			"1" : [ "ulula" ],
+			"2" : [ "ulule" ],
+			"3" : [ "ululemos" ],
+			"4" : [ "ululad" ],
+			"5" : [ "ululen" ]
+		}
+	}
+}

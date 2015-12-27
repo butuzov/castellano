@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=colgar",
+	"word" : "colgar",
+	"infinitivo" : "colgar",
+	"participio" : [ "colgado" ],
+	"gerundio" : [ "colgando" ],
+	"tenses" : {
+		"3" : [
+			[ "cuelgo" ],
+			[ "cuelgas", "colgás" ],
+			[ "cuelga" ],
+			[ "colgamos" ],
+			[ "colgáis", "cuelgan" ],
+			[ "cuelgan" ]
+		],
+		"4" : [
+			[ "colgué" ],
+			[ "colgaste" ],
+			[ "colgó" ],
+			[ "colgamos" ],
+			[ "colgasteis", "colgaron" ],
+			[ "colgaron" ]
+		],
+		"5" : [
+			[ "colgaba" ],
+			[ "colgabas" ],
+			[ "colgaba" ],
+			[ "colgábamos" ],
+			[ "colgabais", "colgaban" ],
+			[ "colgaban" ]
+		],
+		"6" : [
+			[ "colgaría" ],
+			[ "colgarías" ],
+			[ "colgaría" ],
+			[ "colgaríamos" ],
+			[ "colgaríais", "colgarían" ],
+			[ "colgarían" ]
+		],
+		"7" : [
+			[ "colgaré" ],
+			[ "colgarás" ],
+			[ "colgará" ],
+			[ "colgaremos" ],
+			[ "colgaréis", "colgarán" ],
+			[ "colgarán" ]
+		],
+		"8" : [
+			[ "cuelgue" ],
+			[ "cuelgues" ],
+			[ "cuelgue" ],
+			[ "colguemos" ],
+			[ "colguéis", "cuelguen" ],
+			[ "cuelguen" ]
+		],
+		"9" : [
+			[ "colgara" ],
+			[ "colgaras" ],
+			[ "colgara" ],
+			[ "colgáramos" ],
+			[ "colgarais", "colgaran" ],
+			[ "colgaran" ]
+		],
+		"10" : [
+			[ "colgase" ],
+			[ "colgases" ],
+			[ "colgase" ],
+			[ "colgásemos" ],
+			[ "colgaseis", "colgasen" ],
+			[ "colgasen" ]
+		],
+		"11" : [
+			[ "colgare" ],
+			[ "colgares" ],
+			[ "colgare" ],
+			[ "colgáremos" ],
+			[ "colgareis", "colgaren" ],
+			[ "colgaren" ]
+		],
+		"12" : {
+			"1" : [ "cuelga" ],
+			"2" : [ "cuelgue" ],
+			"3" : [ "colguemos" ],
+			"4" : [ "colgad" ],
+			"5" : [ "cuelguen" ]
+		}
+	}
+}

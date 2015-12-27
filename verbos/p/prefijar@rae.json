@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prefijar",
+	"word" : "prefijar",
+	"infinitivo" : "prefijar",
+	"participio" : [ "prefijado" ],
+	"gerundio" : [ "prefijando" ],
+	"tenses" : {
+		"3" : [
+			[ "prefijo" ],
+			[ "prefijas", "prefijás" ],
+			[ "prefija" ],
+			[ "prefijamos" ],
+			[ "prefijáis", "prefijan" ],
+			[ "prefijan" ]
+		],
+		"4" : [
+			[ "prefijé" ],
+			[ "prefijaste" ],
+			[ "prefijó" ],
+			[ "prefijamos" ],
+			[ "prefijasteis", "prefijaron" ],
+			[ "prefijaron" ]
+		],
+		"5" : [
+			[ "prefijaba" ],
+			[ "prefijabas" ],
+			[ "prefijaba" ],
+			[ "prefijábamos" ],
+			[ "prefijabais", "prefijaban" ],
+			[ "prefijaban" ]
+		],
+		"6" : [
+			[ "prefijaría" ],
+			[ "prefijarías" ],
+			[ "prefijaría" ],
+			[ "prefijaríamos" ],
+			[ "prefijaríais", "prefijarían" ],
+			[ "prefijarían" ]
+		],
+		"7" : [
+			[ "prefijaré" ],
+			[ "prefijarás" ],
+			[ "prefijará" ],
+			[ "prefijaremos" ],
+			[ "prefijaréis", "prefijarán" ],
+			[ "prefijarán" ]
+		],
+		"8" : [
+			[ "prefije" ],
+			[ "prefijes" ],
+			[ "prefije" ],
+			[ "prefijemos" ],
+			[ "prefijéis", "prefijen" ],
+			[ "prefijen" ]
+		],
+		"9" : [
+			[ "prefijara" ],
+			[ "prefijaras" ],
+			[ "prefijara" ],
+			[ "prefijáramos" ],
+			[ "prefijarais", "prefijaran" ],
+			[ "prefijaran" ]
+		],
+		"10" : [
+			[ "prefijase" ],
+			[ "prefijases" ],
+			[ "prefijase" ],
+			[ "prefijásemos" ],
+			[ "prefijaseis", "prefijasen" ],
+			[ "prefijasen" ]
+		],
+		"11" : [
+			[ "prefijare" ],
+			[ "prefijares" ],
+			[ "prefijare" ],
+			[ "prefijáremos" ],
+			[ "prefijareis", "prefijaren" ],
+			[ "prefijaren" ]
+		],
+		"12" : {
+			"1" : [ "prefija" ],
+			"2" : [ "prefije" ],
+			"3" : [ "prefijemos" ],
+			"4" : [ "prefijad" ],
+			"5" : [ "prefijen" ]
+		}
+	}
+}

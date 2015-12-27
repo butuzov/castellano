@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cansar",
+	"word" : "cansar",
+	"infinitivo" : "cansar",
+	"participio" : [ "cansado" ],
+	"gerundio" : [ "cansando" ],
+	"tenses" : {
+		"3" : [
+			[ "canso" ],
+			[ "cansas", "cansás" ],
+			[ "cansa" ],
+			[ "cansamos" ],
+			[ "cansáis", "cansan" ],
+			[ "cansan" ]
+		],
+		"4" : [
+			[ "cansé" ],
+			[ "cansaste" ],
+			[ "cansó" ],
+			[ "cansamos" ],
+			[ "cansasteis", "cansaron" ],
+			[ "cansaron" ]
+		],
+		"5" : [
+			[ "cansaba" ],
+			[ "cansabas" ],
+			[ "cansaba" ],
+			[ "cansábamos" ],
+			[ "cansabais", "cansaban" ],
+			[ "cansaban" ]
+		],
+		"6" : [
+			[ "cansaría" ],
+			[ "cansarías" ],
+			[ "cansaría" ],
+			[ "cansaríamos" ],
+			[ "cansaríais", "cansarían" ],
+			[ "cansarían" ]
+		],
+		"7" : [
+			[ "cansaré" ],
+			[ "cansarás" ],
+			[ "cansará" ],
+			[ "cansaremos" ],
+			[ "cansaréis", "cansarán" ],
+			[ "cansarán" ]
+		],
+		"8" : [
+			[ "canse" ],
+			[ "canses" ],
+			[ "canse" ],
+			[ "cansemos" ],
+			[ "canséis", "cansen" ],
+			[ "cansen" ]
+		],
+		"9" : [
+			[ "cansara" ],
+			[ "cansaras" ],
+			[ "cansara" ],
+			[ "cansáramos" ],
+			[ "cansarais", "cansaran" ],
+			[ "cansaran" ]
+		],
+		"10" : [
+			[ "cansase" ],
+			[ "cansases" ],
+			[ "cansase" ],
+			[ "cansásemos" ],
+			[ "cansaseis", "cansasen" ],
+			[ "cansasen" ]
+		],
+		"11" : [
+			[ "cansare" ],
+			[ "cansares" ],
+			[ "cansare" ],
+			[ "cansáremos" ],
+			[ "cansareis", "cansaren" ],
+			[ "cansaren" ]
+		],
+		"12" : {
+			"1" : [ "cansa" ],
+			"2" : [ "canse" ],
+			"3" : [ "cansemos" ],
+			"4" : [ "cansad" ],
+			"5" : [ "cansen" ]
+		}
+	}
+}

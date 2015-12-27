@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agotar",
+	"word" : "agotar",
+	"infinitivo" : "agotar",
+	"participio" : [ "agotado" ],
+	"gerundio" : [ "agotando" ],
+	"tenses" : {
+		"3" : [
+			[ "agoto" ],
+			[ "agotas", "agotás" ],
+			[ "agota" ],
+			[ "agotamos" ],
+			[ "agotáis", "agotan" ],
+			[ "agotan" ]
+		],
+		"4" : [
+			[ "agoté" ],
+			[ "agotaste" ],
+			[ "agotó" ],
+			[ "agotamos" ],
+			[ "agotasteis", "agotaron" ],
+			[ "agotaron" ]
+		],
+		"5" : [
+			[ "agotaba" ],
+			[ "agotabas" ],
+			[ "agotaba" ],
+			[ "agotábamos" ],
+			[ "agotabais", "agotaban" ],
+			[ "agotaban" ]
+		],
+		"6" : [
+			[ "agotaría" ],
+			[ "agotarías" ],
+			[ "agotaría" ],
+			[ "agotaríamos" ],
+			[ "agotaríais", "agotarían" ],
+			[ "agotarían" ]
+		],
+		"7" : [
+			[ "agotaré" ],
+			[ "agotarás" ],
+			[ "agotará" ],
+			[ "agotaremos" ],
+			[ "agotaréis", "agotarán" ],
+			[ "agotarán" ]
+		],
+		"8" : [
+			[ "agote" ],
+			[ "agotes" ],
+			[ "agote" ],
+			[ "agotemos" ],
+			[ "agotéis", "agoten" ],
+			[ "agoten" ]
+		],
+		"9" : [
+			[ "agotara" ],
+			[ "agotaras" ],
+			[ "agotara" ],
+			[ "agotáramos" ],
+			[ "agotarais", "agotaran" ],
+			[ "agotaran" ]
+		],
+		"10" : [
+			[ "agotase" ],
+			[ "agotases" ],
+			[ "agotase" ],
+			[ "agotásemos" ],
+			[ "agotaseis", "agotasen" ],
+			[ "agotasen" ]
+		],
+		"11" : [
+			[ "agotare" ],
+			[ "agotares" ],
+			[ "agotare" ],
+			[ "agotáremos" ],
+			[ "agotareis", "agotaren" ],
+			[ "agotaren" ]
+		],
+		"12" : {
+			"1" : [ "agota" ],
+			"2" : [ "agote" ],
+			"3" : [ "agotemos" ],
+			"4" : [ "agotad" ],
+			"5" : [ "agoten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=labrar",
+	"word" : "labrar",
+	"infinitivo" : "labrar",
+	"participio" : [ "labrado" ],
+	"gerundio" : [ "labrando" ],
+	"tenses" : {
+		"3" : [
+			[ "labro" ],
+			[ "labras", "labrás" ],
+			[ "labra" ],
+			[ "labramos" ],
+			[ "labráis", "labran" ],
+			[ "labran" ]
+		],
+		"4" : [
+			[ "labré" ],
+			[ "labraste" ],
+			[ "labró" ],
+			[ "labramos" ],
+			[ "labrasteis", "labraron" ],
+			[ "labraron" ]
+		],
+		"5" : [
+			[ "labraba" ],
+			[ "labrabas" ],
+			[ "labraba" ],
+			[ "labrábamos" ],
+			[ "labrabais", "labraban" ],
+			[ "labraban" ]
+		],
+		"6" : [
+			[ "labraría" ],
+			[ "labrarías" ],
+			[ "labraría" ],
+			[ "labraríamos" ],
+			[ "labraríais", "labrarían" ],
+			[ "labrarían" ]
+		],
+		"7" : [
+			[ "labraré" ],
+			[ "labrarás" ],
+			[ "labrará" ],
+			[ "labraremos" ],
+			[ "labraréis", "labrarán" ],
+			[ "labrarán" ]
+		],
+		"8" : [
+			[ "labre" ],
+			[ "labres" ],
+			[ "labre" ],
+			[ "labremos" ],
+			[ "labréis", "labren" ],
+			[ "labren" ]
+		],
+		"9" : [
+			[ "labrara" ],
+			[ "labraras" ],
+			[ "labrara" ],
+			[ "labráramos" ],
+			[ "labrarais", "labraran" ],
+			[ "labraran" ]
+		],
+		"10" : [
+			[ "labrase" ],
+			[ "labrases" ],
+			[ "labrase" ],
+			[ "labrásemos" ],
+			[ "labraseis", "labrasen" ],
+			[ "labrasen" ]
+		],
+		"11" : [
+			[ "labrare" ],
+			[ "labrares" ],
+			[ "labrare" ],
+			[ "labráremos" ],
+			[ "labrareis", "labraren" ],
+			[ "labraren" ]
+		],
+		"12" : {
+			"1" : [ "labra" ],
+			"2" : [ "labre" ],
+			"3" : [ "labremos" ],
+			"4" : [ "labrad" ],
+			"5" : [ "labren" ]
+		}
+	}
+}

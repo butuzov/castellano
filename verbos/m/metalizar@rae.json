@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=metalizar",
+	"word" : "metalizar",
+	"infinitivo" : "metalizar",
+	"participio" : [ "metalizado" ],
+	"gerundio" : [ "metalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "metalizo" ],
+			[ "metalizas", "metalizás" ],
+			[ "metaliza" ],
+			[ "metalizamos" ],
+			[ "metalizáis", "metalizan" ],
+			[ "metalizan" ]
+		],
+		"4" : [
+			[ "metalicé" ],
+			[ "metalizaste" ],
+			[ "metalizó" ],
+			[ "metalizamos" ],
+			[ "metalizasteis", "metalizaron" ],
+			[ "metalizaron" ]
+		],
+		"5" : [
+			[ "metalizaba" ],
+			[ "metalizabas" ],
+			[ "metalizaba" ],
+			[ "metalizábamos" ],
+			[ "metalizabais", "metalizaban" ],
+			[ "metalizaban" ]
+		],
+		"6" : [
+			[ "metalizaría" ],
+			[ "metalizarías" ],
+			[ "metalizaría" ],
+			[ "metalizaríamos" ],
+			[ "metalizaríais", "metalizarían" ],
+			[ "metalizarían" ]
+		],
+		"7" : [
+			[ "metalizaré" ],
+			[ "metalizarás" ],
+			[ "metalizará" ],
+			[ "metalizaremos" ],
+			[ "metalizaréis", "metalizarán" ],
+			[ "metalizarán" ]
+		],
+		"8" : [
+			[ "metalice" ],
+			[ "metalices" ],
+			[ "metalice" ],
+			[ "metalicemos" ],
+			[ "metalicéis", "metalicen" ],
+			[ "metalicen" ]
+		],
+		"9" : [
+			[ "metalizara" ],
+			[ "metalizaras" ],
+			[ "metalizara" ],
+			[ "metalizáramos" ],
+			[ "metalizarais", "metalizaran" ],
+			[ "metalizaran" ]
+		],
+		"10" : [
+			[ "metalizase" ],
+			[ "metalizases" ],
+			[ "metalizase" ],
+			[ "metalizásemos" ],
+			[ "metalizaseis", "metalizasen" ],
+			[ "metalizasen" ]
+		],
+		"11" : [
+			[ "metalizare" ],
+			[ "metalizares" ],
+			[ "metalizare" ],
+			[ "metalizáremos" ],
+			[ "metalizareis", "metalizaren" ],
+			[ "metalizaren" ]
+		],
+		"12" : {
+			"1" : [ "metaliza" ],
+			"2" : [ "metalice" ],
+			"3" : [ "metalicemos" ],
+			"4" : [ "metalizad" ],
+			"5" : [ "metalicen" ]
+		}
+	}
+}

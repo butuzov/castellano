@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=impostar",
+	"word" : "impostar",
+	"infinitivo" : "impostar",
+	"participio" : [ "impostado" ],
+	"gerundio" : [ "impostando" ],
+	"tenses" : {
+		"3" : [
+			[ "imposto" ],
+			[ "impostas", "impostás" ],
+			[ "imposta" ],
+			[ "impostamos" ],
+			[ "impostáis", "impostan" ],
+			[ "impostan" ]
+		],
+		"4" : [
+			[ "imposté" ],
+			[ "impostaste" ],
+			[ "impostó" ],
+			[ "impostamos" ],
+			[ "impostasteis", "impostaron" ],
+			[ "impostaron" ]
+		],
+		"5" : [
+			[ "impostaba" ],
+			[ "impostabas" ],
+			[ "impostaba" ],
+			[ "impostábamos" ],
+			[ "impostabais", "impostaban" ],
+			[ "impostaban" ]
+		],
+		"6" : [
+			[ "impostaría" ],
+			[ "impostarías" ],
+			[ "impostaría" ],
+			[ "impostaríamos" ],
+			[ "impostaríais", "impostarían" ],
+			[ "impostarían" ]
+		],
+		"7" : [
+			[ "impostaré" ],
+			[ "impostarás" ],
+			[ "impostará" ],
+			[ "impostaremos" ],
+			[ "impostaréis", "impostarán" ],
+			[ "impostarán" ]
+		],
+		"8" : [
+			[ "imposte" ],
+			[ "impostes" ],
+			[ "imposte" ],
+			[ "impostemos" ],
+			[ "impostéis", "imposten" ],
+			[ "imposten" ]
+		],
+		"9" : [
+			[ "impostara" ],
+			[ "impostaras" ],
+			[ "impostara" ],
+			[ "impostáramos" ],
+			[ "impostarais", "impostaran" ],
+			[ "impostaran" ]
+		],
+		"10" : [
+			[ "impostase" ],
+			[ "impostases" ],
+			[ "impostase" ],
+			[ "impostásemos" ],
+			[ "impostaseis", "impostasen" ],
+			[ "impostasen" ]
+		],
+		"11" : [
+			[ "impostare" ],
+			[ "impostares" ],
+			[ "impostare" ],
+			[ "impostáremos" ],
+			[ "impostareis", "impostaren" ],
+			[ "impostaren" ]
+		],
+		"12" : {
+			"1" : [ "imposta" ],
+			"2" : [ "imposte" ],
+			"3" : [ "impostemos" ],
+			"4" : [ "impostad" ],
+			"5" : [ "imposten" ]
+		}
+	}
+}

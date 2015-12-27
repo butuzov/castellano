@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abellacar",
+	"word" : "abellacar",
+	"infinitivo" : "abellacar",
+	"participio" : [ "abellacado" ],
+	"gerundio" : [ "abellacando" ],
+	"tenses" : {
+		"3" : [
+			[ "abellaco" ],
+			[ "abellacas", "abellacás" ],
+			[ "abellaca" ],
+			[ "abellacamos" ],
+			[ "abellacáis", "abellacan" ],
+			[ "abellacan" ]
+		],
+		"4" : [
+			[ "abellaqué" ],
+			[ "abellacaste" ],
+			[ "abellacó" ],
+			[ "abellacamos" ],
+			[ "abellacasteis", "abellacaron" ],
+			[ "abellacaron" ]
+		],
+		"5" : [
+			[ "abellacaba" ],
+			[ "abellacabas" ],
+			[ "abellacaba" ],
+			[ "abellacábamos" ],
+			[ "abellacabais", "abellacaban" ],
+			[ "abellacaban" ]
+		],
+		"6" : [
+			[ "abellacaría" ],
+			[ "abellacarías" ],
+			[ "abellacaría" ],
+			[ "abellacaríamos" ],
+			[ "abellacaríais", "abellacarían" ],
+			[ "abellacarían" ]
+		],
+		"7" : [
+			[ "abellacaré" ],
+			[ "abellacarás" ],
+			[ "abellacará" ],
+			[ "abellacaremos" ],
+			[ "abellacaréis", "abellacarán" ],
+			[ "abellacarán" ]
+		],
+		"8" : [
+			[ "abellaque" ],
+			[ "abellaques" ],
+			[ "abellaque" ],
+			[ "abellaquemos" ],
+			[ "abellaquéis", "abellaquen" ],
+			[ "abellaquen" ]
+		],
+		"9" : [
+			[ "abellacara" ],
+			[ "abellacaras" ],
+			[ "abellacara" ],
+			[ "abellacáramos" ],
+			[ "abellacarais", "abellacaran" ],
+			[ "abellacaran" ]
+		],
+		"10" : [
+			[ "abellacase" ],
+			[ "abellacases" ],
+			[ "abellacase" ],
+			[ "abellacásemos" ],
+			[ "abellacaseis", "abellacasen" ],
+			[ "abellacasen" ]
+		],
+		"11" : [
+			[ "abellacare" ],
+			[ "abellacares" ],
+			[ "abellacare" ],
+			[ "abellacáremos" ],
+			[ "abellacareis", "abellacaren" ],
+			[ "abellacaren" ]
+		],
+		"12" : {
+			"1" : [ "abellaca" ],
+			"2" : [ "abellaque" ],
+			"3" : [ "abellaquemos" ],
+			"4" : [ "abellacad" ],
+			"5" : [ "abellaquen" ]
+		}
+	}
+}

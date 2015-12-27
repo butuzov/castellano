@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=peinar",
+	"word" : "peinar",
+	"infinitivo" : "peinar",
+	"participio" : [ "peinado" ],
+	"gerundio" : [ "peinando" ],
+	"tenses" : {
+		"3" : [
+			[ "peino" ],
+			[ "peinas", "peinás" ],
+			[ "peina" ],
+			[ "peinamos" ],
+			[ "peináis", "peinan" ],
+			[ "peinan" ]
+		],
+		"4" : [
+			[ "peiné" ],
+			[ "peinaste" ],
+			[ "peinó" ],
+			[ "peinamos" ],
+			[ "peinasteis", "peinaron" ],
+			[ "peinaron" ]
+		],
+		"5" : [
+			[ "peinaba" ],
+			[ "peinabas" ],
+			[ "peinaba" ],
+			[ "peinábamos" ],
+			[ "peinabais", "peinaban" ],
+			[ "peinaban" ]
+		],
+		"6" : [
+			[ "peinaría" ],
+			[ "peinarías" ],
+			[ "peinaría" ],
+			[ "peinaríamos" ],
+			[ "peinaríais", "peinarían" ],
+			[ "peinarían" ]
+		],
+		"7" : [
+			[ "peinaré" ],
+			[ "peinarás" ],
+			[ "peinará" ],
+			[ "peinaremos" ],
+			[ "peinaréis", "peinarán" ],
+			[ "peinarán" ]
+		],
+		"8" : [
+			[ "peine" ],
+			[ "peines" ],
+			[ "peine" ],
+			[ "peinemos" ],
+			[ "peinéis", "peinen" ],
+			[ "peinen" ]
+		],
+		"9" : [
+			[ "peinara" ],
+			[ "peinaras" ],
+			[ "peinara" ],
+			[ "peináramos" ],
+			[ "peinarais", "peinaran" ],
+			[ "peinaran" ]
+		],
+		"10" : [
+			[ "peinase" ],
+			[ "peinases" ],
+			[ "peinase" ],
+			[ "peinásemos" ],
+			[ "peinaseis", "peinasen" ],
+			[ "peinasen" ]
+		],
+		"11" : [
+			[ "peinare" ],
+			[ "peinares" ],
+			[ "peinare" ],
+			[ "peináremos" ],
+			[ "peinareis", "peinaren" ],
+			[ "peinaren" ]
+		],
+		"12" : {
+			"1" : [ "peina" ],
+			"2" : [ "peine" ],
+			"3" : [ "peinemos" ],
+			"4" : [ "peinad" ],
+			"5" : [ "peinen" ]
+		}
+	}
+}

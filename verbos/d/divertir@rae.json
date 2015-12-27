@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=divertir",
+	"word" : "divertir",
+	"infinitivo" : "divertir",
+	"participio" : [ "divertido" ],
+	"gerundio" : [ "divirtiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "divierto" ],
+			[ "diviertes", "divertís" ],
+			[ "divierte" ],
+			[ "divertimos" ],
+			[ "divertís", "divierten" ],
+			[ "divierten" ]
+		],
+		"4" : [
+			[ "divertí" ],
+			[ "divertiste" ],
+			[ "divirtió" ],
+			[ "divertimos" ],
+			[ "divertisteis", "divirtieron" ],
+			[ "divirtieron" ]
+		],
+		"5" : [
+			[ "divertía" ],
+			[ "divertías" ],
+			[ "divertía" ],
+			[ "divertíamos" ],
+			[ "divertíais", "divertían" ],
+			[ "divertían" ]
+		],
+		"6" : [
+			[ "divertiría" ],
+			[ "divertirías" ],
+			[ "divertiría" ],
+			[ "divertiríamos" ],
+			[ "divertiríais", "divertirían" ],
+			[ "divertirían" ]
+		],
+		"7" : [
+			[ "divertiré" ],
+			[ "divertirás" ],
+			[ "divertirá" ],
+			[ "divertiremos" ],
+			[ "divertiréis", "divertirán" ],
+			[ "divertirán" ]
+		],
+		"8" : [
+			[ "divierta" ],
+			[ "diviertas" ],
+			[ "divierta" ],
+			[ "divirtamos" ],
+			[ "divirtáis", "diviertan" ],
+			[ "diviertan" ]
+		],
+		"9" : [
+			[ "divirtiera" ],
+			[ "divirtieras" ],
+			[ "divirtiera" ],
+			[ "divirtiéramos" ],
+			[ "divirtierais", "divirtieran" ],
+			[ "divirtieran" ]
+		],
+		"10" : [
+			[ "divirtiese" ],
+			[ "divirtieses" ],
+			[ "divirtiese" ],
+			[ "divirtiésemos" ],
+			[ "divirtieseis", "divirtiesen" ],
+			[ "divirtiesen" ]
+		],
+		"11" : [
+			[ "divirtiere" ],
+			[ "divirtieres" ],
+			[ "divirtiere" ],
+			[ "divirtiéremos" ],
+			[ "divirtiereis", "divirtieren" ],
+			[ "divirtieren" ]
+		],
+		"12" : {
+			"1" : [ "divierte" ],
+			"2" : [ "divierta" ],
+			"3" : [ "divirtamos" ],
+			"4" : [ "divertid" ],
+			"5" : [ "diviertan" ]
+		}
+	}
+}

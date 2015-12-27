@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=erguir",
+	"word" : "erguir",
+	"infinitivo" : "erguir",
+	"participio" : [ "erguido" ],
+	"gerundio" : [ "irguiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "yergo", "irgo" ],
+			[ "yergues", "irgues", "erguís" ],
+			[ "yergue", "irgue" ],
+			[ "erguimos" ],
+			[ "erguís", "yerguen", "irguen" ],
+			[ "yerguen", "irguen" ]
+		],
+		"4" : [
+			[ "erguí" ],
+			[ "erguiste" ],
+			[ "irguió" ],
+			[ "erguimos" ],
+			[ "erguisteis", "irguieron" ],
+			[ "irguieron" ]
+		],
+		"5" : [
+			[ "erguía" ],
+			[ "erguías" ],
+			[ "erguía" ],
+			[ "erguíamos" ],
+			[ "erguíais", "erguían" ],
+			[ "erguían" ]
+		],
+		"6" : [
+			[ "erguiría" ],
+			[ "erguirías" ],
+			[ "erguiría" ],
+			[ "erguiríamos" ],
+			[ "erguiríais", "erguirían" ],
+			[ "erguirían" ]
+		],
+		"7" : [
+			[ "erguiré" ],
+			[ "erguirás" ],
+			[ "erguirá" ],
+			[ "erguiremos" ],
+			[ "erguiréis", "erguirán" ],
+			[ "erguirán" ]
+		],
+		"8" : [
+			[ "yerga", "irga" ],
+			[ "yergas", "irgas" ],
+			[ "yerga", "irga" ],
+			[ "irgamos" ],
+			[ "irgáis", "yergan", "irgan" ],
+			[ "yergan", "irgan" ]
+		],
+		"9" : [
+			[ "irguiera" ],
+			[ "irguieras" ],
+			[ "irguiera" ],
+			[ "irguiéramos" ],
+			[ "irguierais", "irguieran" ],
+			[ "irguieran" ]
+		],
+		"10" : [
+			[ "irguiese" ],
+			[ "irguieses" ],
+			[ "irguiese" ],
+			[ "irguiésemos" ],
+			[ "irguieseis", "irguiesen" ],
+			[ "irguiesen" ]
+		],
+		"11" : [
+			[ "irguiere" ],
+			[ "irguieres" ],
+			[ "irguiere" ],
+			[ "irguiéremos" ],
+			[ "irguiereis", "irguieren" ],
+			[ "irguieren" ]
+		],
+		"12" : {
+			"1" : [ "yergue", "irgue" ],
+			"2" : [ "yerga", "irga" ],
+			"3" : [ "irgamos" ],
+			"4" : [ "erguid" ],
+			"5" : [ "yergan", "irgan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entremeter",
+	"word" : "entremeter",
+	"infinitivo" : "entremeter",
+	"participio" : [ "entremetido" ],
+	"gerundio" : [ "entremetiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "entremeto" ],
+			[ "entremetes", "entremetés" ],
+			[ "entremete" ],
+			[ "entremetemos" ],
+			[ "entremetéis", "entremeten" ],
+			[ "entremeten" ]
+		],
+		"4" : [
+			[ "entremetí" ],
+			[ "entremetiste" ],
+			[ "entremetió" ],
+			[ "entremetimos" ],
+			[ "entremetisteis", "entremetieron" ],
+			[ "entremetieron" ]
+		],
+		"5" : [
+			[ "entremetía" ],
+			[ "entremetías" ],
+			[ "entremetía" ],
+			[ "entremetíamos" ],
+			[ "entremetíais", "entremetían" ],
+			[ "entremetían" ]
+		],
+		"6" : [
+			[ "entremetería" ],
+			[ "entremeterías" ],
+			[ "entremetería" ],
+			[ "entremeteríamos" ],
+			[ "entremeteríais", "entremeterían" ],
+			[ "entremeterían" ]
+		],
+		"7" : [
+			[ "entremeteré" ],
+			[ "entremeterás" ],
+			[ "entremeterá" ],
+			[ "entremeteremos" ],
+			[ "entremeteréis", "entremeterán" ],
+			[ "entremeterán" ]
+		],
+		"8" : [
+			[ "entremeta" ],
+			[ "entremetas" ],
+			[ "entremeta" ],
+			[ "entremetamos" ],
+			[ "entremetáis", "entremetan" ],
+			[ "entremetan" ]
+		],
+		"9" : [
+			[ "entremetiera" ],
+			[ "entremetieras" ],
+			[ "entremetiera" ],
+			[ "entremetiéramos" ],
+			[ "entremetierais", "entremetieran" ],
+			[ "entremetieran" ]
+		],
+		"10" : [
+			[ "entremetiese" ],
+			[ "entremetieses" ],
+			[ "entremetiese" ],
+			[ "entremetiésemos" ],
+			[ "entremetieseis", "entremetiesen" ],
+			[ "entremetiesen" ]
+		],
+		"11" : [
+			[ "entremetiere" ],
+			[ "entremetieres" ],
+			[ "entremetiere" ],
+			[ "entremetiéremos" ],
+			[ "entremetiereis", "entremetieren" ],
+			[ "entremetieren" ]
+		],
+		"12" : {
+			"1" : [ "entremete" ],
+			"2" : [ "entremeta" ],
+			"3" : [ "entremetamos" ],
+			"4" : [ "entremeted" ],
+			"5" : [ "entremetan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entregar",
+	"word" : "entregar",
+	"infinitivo" : "entregar",
+	"participio" : [ "entregado" ],
+	"gerundio" : [ "entregando" ],
+	"tenses" : {
+		"3" : [
+			[ "entrego" ],
+			[ "entregas", "entregás" ],
+			[ "entrega" ],
+			[ "entregamos" ],
+			[ "entregáis", "entregan" ],
+			[ "entregan" ]
+		],
+		"4" : [
+			[ "entregué" ],
+			[ "entregaste" ],
+			[ "entregó" ],
+			[ "entregamos" ],
+			[ "entregasteis", "entregaron" ],
+			[ "entregaron" ]
+		],
+		"5" : [
+			[ "entregaba" ],
+			[ "entregabas" ],
+			[ "entregaba" ],
+			[ "entregábamos" ],
+			[ "entregabais", "entregaban" ],
+			[ "entregaban" ]
+		],
+		"6" : [
+			[ "entregaría" ],
+			[ "entregarías" ],
+			[ "entregaría" ],
+			[ "entregaríamos" ],
+			[ "entregaríais", "entregarían" ],
+			[ "entregarían" ]
+		],
+		"7" : [
+			[ "entregaré" ],
+			[ "entregarás" ],
+			[ "entregará" ],
+			[ "entregaremos" ],
+			[ "entregaréis", "entregarán" ],
+			[ "entregarán" ]
+		],
+		"8" : [
+			[ "entregue" ],
+			[ "entregues" ],
+			[ "entregue" ],
+			[ "entreguemos" ],
+			[ "entreguéis", "entreguen" ],
+			[ "entreguen" ]
+		],
+		"9" : [
+			[ "entregara" ],
+			[ "entregaras" ],
+			[ "entregara" ],
+			[ "entregáramos" ],
+			[ "entregarais", "entregaran" ],
+			[ "entregaran" ]
+		],
+		"10" : [
+			[ "entregase" ],
+			[ "entregases" ],
+			[ "entregase" ],
+			[ "entregásemos" ],
+			[ "entregaseis", "entregasen" ],
+			[ "entregasen" ]
+		],
+		"11" : [
+			[ "entregare" ],
+			[ "entregares" ],
+			[ "entregare" ],
+			[ "entregáremos" ],
+			[ "entregareis", "entregaren" ],
+			[ "entregaren" ]
+		],
+		"12" : {
+			"1" : [ "entrega" ],
+			"2" : [ "entregue" ],
+			"3" : [ "entreguemos" ],
+			"4" : [ "entregad" ],
+			"5" : [ "entreguen" ]
+		}
+	}
+}

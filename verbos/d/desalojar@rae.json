@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desalojar",
+	"word" : "desalojar",
+	"infinitivo" : "desalojar",
+	"participio" : [ "desalojado" ],
+	"gerundio" : [ "desalojando" ],
+	"tenses" : {
+		"3" : [
+			[ "desalojo" ],
+			[ "desalojas", "desalojás" ],
+			[ "desaloja" ],
+			[ "desalojamos" ],
+			[ "desalojáis", "desalojan" ],
+			[ "desalojan" ]
+		],
+		"4" : [
+			[ "desalojé" ],
+			[ "desalojaste" ],
+			[ "desalojó" ],
+			[ "desalojamos" ],
+			[ "desalojasteis", "desalojaron" ],
+			[ "desalojaron" ]
+		],
+		"5" : [
+			[ "desalojaba" ],
+			[ "desalojabas" ],
+			[ "desalojaba" ],
+			[ "desalojábamos" ],
+			[ "desalojabais", "desalojaban" ],
+			[ "desalojaban" ]
+		],
+		"6" : [
+			[ "desalojaría" ],
+			[ "desalojarías" ],
+			[ "desalojaría" ],
+			[ "desalojaríamos" ],
+			[ "desalojaríais", "desalojarían" ],
+			[ "desalojarían" ]
+		],
+		"7" : [
+			[ "desalojaré" ],
+			[ "desalojarás" ],
+			[ "desalojará" ],
+			[ "desalojaremos" ],
+			[ "desalojaréis", "desalojarán" ],
+			[ "desalojarán" ]
+		],
+		"8" : [
+			[ "desaloje" ],
+			[ "desalojes" ],
+			[ "desaloje" ],
+			[ "desalojemos" ],
+			[ "desalojéis", "desalojen" ],
+			[ "desalojen" ]
+		],
+		"9" : [
+			[ "desalojara" ],
+			[ "desalojaras" ],
+			[ "desalojara" ],
+			[ "desalojáramos" ],
+			[ "desalojarais", "desalojaran" ],
+			[ "desalojaran" ]
+		],
+		"10" : [
+			[ "desalojase" ],
+			[ "desalojases" ],
+			[ "desalojase" ],
+			[ "desalojásemos" ],
+			[ "desalojaseis", "desalojasen" ],
+			[ "desalojasen" ]
+		],
+		"11" : [
+			[ "desalojare" ],
+			[ "desalojares" ],
+			[ "desalojare" ],
+			[ "desalojáremos" ],
+			[ "desalojareis", "desalojaren" ],
+			[ "desalojaren" ]
+		],
+		"12" : {
+			"1" : [ "desaloja" ],
+			"2" : [ "desaloje" ],
+			"3" : [ "desalojemos" ],
+			"4" : [ "desalojad" ],
+			"5" : [ "desalojen" ]
+		}
+	}
+}

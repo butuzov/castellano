@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empalagar",
+	"word" : "empalagar",
+	"infinitivo" : "empalagar",
+	"participio" : [ "empalagado" ],
+	"gerundio" : [ "empalagando" ],
+	"tenses" : {
+		"3" : [
+			[ "empalago" ],
+			[ "empalagas", "empalagás" ],
+			[ "empalaga" ],
+			[ "empalagamos" ],
+			[ "empalagáis", "empalagan" ],
+			[ "empalagan" ]
+		],
+		"4" : [
+			[ "empalagué" ],
+			[ "empalagaste" ],
+			[ "empalagó" ],
+			[ "empalagamos" ],
+			[ "empalagasteis", "empalagaron" ],
+			[ "empalagaron" ]
+		],
+		"5" : [
+			[ "empalagaba" ],
+			[ "empalagabas" ],
+			[ "empalagaba" ],
+			[ "empalagábamos" ],
+			[ "empalagabais", "empalagaban" ],
+			[ "empalagaban" ]
+		],
+		"6" : [
+			[ "empalagaría" ],
+			[ "empalagarías" ],
+			[ "empalagaría" ],
+			[ "empalagaríamos" ],
+			[ "empalagaríais", "empalagarían" ],
+			[ "empalagarían" ]
+		],
+		"7" : [
+			[ "empalagaré" ],
+			[ "empalagarás" ],
+			[ "empalagará" ],
+			[ "empalagaremos" ],
+			[ "empalagaréis", "empalagarán" ],
+			[ "empalagarán" ]
+		],
+		"8" : [
+			[ "empalague" ],
+			[ "empalagues" ],
+			[ "empalague" ],
+			[ "empalaguemos" ],
+			[ "empalaguéis", "empalaguen" ],
+			[ "empalaguen" ]
+		],
+		"9" : [
+			[ "empalagara" ],
+			[ "empalagaras" ],
+			[ "empalagara" ],
+			[ "empalagáramos" ],
+			[ "empalagarais", "empalagaran" ],
+			[ "empalagaran" ]
+		],
+		"10" : [
+			[ "empalagase" ],
+			[ "empalagases" ],
+			[ "empalagase" ],
+			[ "empalagásemos" ],
+			[ "empalagaseis", "empalagasen" ],
+			[ "empalagasen" ]
+		],
+		"11" : [
+			[ "empalagare" ],
+			[ "empalagares" ],
+			[ "empalagare" ],
+			[ "empalagáremos" ],
+			[ "empalagareis", "empalagaren" ],
+			[ "empalagaren" ]
+		],
+		"12" : {
+			"1" : [ "empalaga" ],
+			"2" : [ "empalague" ],
+			"3" : [ "empalaguemos" ],
+			"4" : [ "empalagad" ],
+			"5" : [ "empalaguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embarrar",
+	"word" : "embarrar",
+	"infinitivo" : "embarrar",
+	"participio" : [ "embarrado" ],
+	"gerundio" : [ "embarrando" ],
+	"tenses" : {
+		"3" : [
+			[ "embarro" ],
+			[ "embarras", "embarrás" ],
+			[ "embarra" ],
+			[ "embarramos" ],
+			[ "embarráis", "embarran" ],
+			[ "embarran" ]
+		],
+		"4" : [
+			[ "embarré" ],
+			[ "embarraste" ],
+			[ "embarró" ],
+			[ "embarramos" ],
+			[ "embarrasteis", "embarraron" ],
+			[ "embarraron" ]
+		],
+		"5" : [
+			[ "embarraba" ],
+			[ "embarrabas" ],
+			[ "embarraba" ],
+			[ "embarrábamos" ],
+			[ "embarrabais", "embarraban" ],
+			[ "embarraban" ]
+		],
+		"6" : [
+			[ "embarraría" ],
+			[ "embarrarías" ],
+			[ "embarraría" ],
+			[ "embarraríamos" ],
+			[ "embarraríais", "embarrarían" ],
+			[ "embarrarían" ]
+		],
+		"7" : [
+			[ "embarraré" ],
+			[ "embarrarás" ],
+			[ "embarrará" ],
+			[ "embarraremos" ],
+			[ "embarraréis", "embarrarán" ],
+			[ "embarrarán" ]
+		],
+		"8" : [
+			[ "embarre" ],
+			[ "embarres" ],
+			[ "embarre" ],
+			[ "embarremos" ],
+			[ "embarréis", "embarren" ],
+			[ "embarren" ]
+		],
+		"9" : [
+			[ "embarrara" ],
+			[ "embarraras" ],
+			[ "embarrara" ],
+			[ "embarráramos" ],
+			[ "embarrarais", "embarraran" ],
+			[ "embarraran" ]
+		],
+		"10" : [
+			[ "embarrase" ],
+			[ "embarrases" ],
+			[ "embarrase" ],
+			[ "embarrásemos" ],
+			[ "embarraseis", "embarrasen" ],
+			[ "embarrasen" ]
+		],
+		"11" : [
+			[ "embarrare" ],
+			[ "embarrares" ],
+			[ "embarrare" ],
+			[ "embarráremos" ],
+			[ "embarrareis", "embarraren" ],
+			[ "embarraren" ]
+		],
+		"12" : {
+			"1" : [ "embarra" ],
+			"2" : [ "embarre" ],
+			"3" : [ "embarremos" ],
+			"4" : [ "embarrad" ],
+			"5" : [ "embarren" ]
+		}
+	}
+}

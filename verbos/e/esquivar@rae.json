@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esquivar",
+	"word" : "esquivar",
+	"infinitivo" : "esquivar",
+	"participio" : [ "esquivado" ],
+	"gerundio" : [ "esquivando" ],
+	"tenses" : {
+		"3" : [
+			[ "esquivo" ],
+			[ "esquivas", "esquivás" ],
+			[ "esquiva" ],
+			[ "esquivamos" ],
+			[ "esquiváis", "esquivan" ],
+			[ "esquivan" ]
+		],
+		"4" : [
+			[ "esquivé" ],
+			[ "esquivaste" ],
+			[ "esquivó" ],
+			[ "esquivamos" ],
+			[ "esquivasteis", "esquivaron" ],
+			[ "esquivaron" ]
+		],
+		"5" : [
+			[ "esquivaba" ],
+			[ "esquivabas" ],
+			[ "esquivaba" ],
+			[ "esquivábamos" ],
+			[ "esquivabais", "esquivaban" ],
+			[ "esquivaban" ]
+		],
+		"6" : [
+			[ "esquivaría" ],
+			[ "esquivarías" ],
+			[ "esquivaría" ],
+			[ "esquivaríamos" ],
+			[ "esquivaríais", "esquivarían" ],
+			[ "esquivarían" ]
+		],
+		"7" : [
+			[ "esquivaré" ],
+			[ "esquivarás" ],
+			[ "esquivará" ],
+			[ "esquivaremos" ],
+			[ "esquivaréis", "esquivarán" ],
+			[ "esquivarán" ]
+		],
+		"8" : [
+			[ "esquive" ],
+			[ "esquives" ],
+			[ "esquive" ],
+			[ "esquivemos" ],
+			[ "esquivéis", "esquiven" ],
+			[ "esquiven" ]
+		],
+		"9" : [
+			[ "esquivara" ],
+			[ "esquivaras" ],
+			[ "esquivara" ],
+			[ "esquiváramos" ],
+			[ "esquivarais", "esquivaran" ],
+			[ "esquivaran" ]
+		],
+		"10" : [
+			[ "esquivase" ],
+			[ "esquivases" ],
+			[ "esquivase" ],
+			[ "esquivásemos" ],
+			[ "esquivaseis", "esquivasen" ],
+			[ "esquivasen" ]
+		],
+		"11" : [
+			[ "esquivare" ],
+			[ "esquivares" ],
+			[ "esquivare" ],
+			[ "esquiváremos" ],
+			[ "esquivareis", "esquivaren" ],
+			[ "esquivaren" ]
+		],
+		"12" : {
+			"1" : [ "esquiva" ],
+			"2" : [ "esquive" ],
+			"3" : [ "esquivemos" ],
+			"4" : [ "esquivad" ],
+			"5" : [ "esquiven" ]
+		}
+	}
+}

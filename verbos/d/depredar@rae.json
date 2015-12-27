@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=depredar",
+	"word" : "depredar",
+	"infinitivo" : "depredar",
+	"participio" : [ "depredado" ],
+	"gerundio" : [ "depredando" ],
+	"tenses" : {
+		"3" : [
+			[ "depredo" ],
+			[ "depredas", "depredás" ],
+			[ "depreda" ],
+			[ "depredamos" ],
+			[ "depredáis", "depredan" ],
+			[ "depredan" ]
+		],
+		"4" : [
+			[ "depredé" ],
+			[ "depredaste" ],
+			[ "depredó" ],
+			[ "depredamos" ],
+			[ "depredasteis", "depredaron" ],
+			[ "depredaron" ]
+		],
+		"5" : [
+			[ "depredaba" ],
+			[ "depredabas" ],
+			[ "depredaba" ],
+			[ "depredábamos" ],
+			[ "depredabais", "depredaban" ],
+			[ "depredaban" ]
+		],
+		"6" : [
+			[ "depredaría" ],
+			[ "depredarías" ],
+			[ "depredaría" ],
+			[ "depredaríamos" ],
+			[ "depredaríais", "depredarían" ],
+			[ "depredarían" ]
+		],
+		"7" : [
+			[ "depredaré" ],
+			[ "depredarás" ],
+			[ "depredará" ],
+			[ "depredaremos" ],
+			[ "depredaréis", "depredarán" ],
+			[ "depredarán" ]
+		],
+		"8" : [
+			[ "deprede" ],
+			[ "depredes" ],
+			[ "deprede" ],
+			[ "depredemos" ],
+			[ "depredéis", "depreden" ],
+			[ "depreden" ]
+		],
+		"9" : [
+			[ "depredara" ],
+			[ "depredaras" ],
+			[ "depredara" ],
+			[ "depredáramos" ],
+			[ "depredarais", "depredaran" ],
+			[ "depredaran" ]
+		],
+		"10" : [
+			[ "depredase" ],
+			[ "depredases" ],
+			[ "depredase" ],
+			[ "depredásemos" ],
+			[ "depredaseis", "depredasen" ],
+			[ "depredasen" ]
+		],
+		"11" : [
+			[ "depredare" ],
+			[ "depredares" ],
+			[ "depredare" ],
+			[ "depredáremos" ],
+			[ "depredareis", "depredaren" ],
+			[ "depredaren" ]
+		],
+		"12" : {
+			"1" : [ "depreda" ],
+			"2" : [ "deprede" ],
+			"3" : [ "depredemos" ],
+			"4" : [ "depredad" ],
+			"5" : [ "depreden" ]
+		}
+	}
+}

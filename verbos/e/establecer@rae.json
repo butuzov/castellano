@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=establecer",
+	"word" : "establecer",
+	"infinitivo" : "establecer",
+	"participio" : [ "establecido" ],
+	"gerundio" : [ "estableciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "establezco" ],
+			[ "estableces", "establecés" ],
+			[ "establece" ],
+			[ "establecemos" ],
+			[ "establecéis", "establecen" ],
+			[ "establecen" ]
+		],
+		"4" : [
+			[ "establecí" ],
+			[ "estableciste" ],
+			[ "estableció" ],
+			[ "establecimos" ],
+			[ "establecisteis", "establecieron" ],
+			[ "establecieron" ]
+		],
+		"5" : [
+			[ "establecía" ],
+			[ "establecías" ],
+			[ "establecía" ],
+			[ "establecíamos" ],
+			[ "establecíais", "establecían" ],
+			[ "establecían" ]
+		],
+		"6" : [
+			[ "establecería" ],
+			[ "establecerías" ],
+			[ "establecería" ],
+			[ "estableceríamos" ],
+			[ "estableceríais", "establecerían" ],
+			[ "establecerían" ]
+		],
+		"7" : [
+			[ "estableceré" ],
+			[ "establecerás" ],
+			[ "establecerá" ],
+			[ "estableceremos" ],
+			[ "estableceréis", "establecerán" ],
+			[ "establecerán" ]
+		],
+		"8" : [
+			[ "establezca" ],
+			[ "establezcas" ],
+			[ "establezca" ],
+			[ "establezcamos" ],
+			[ "establezcáis", "establezcan" ],
+			[ "establezcan" ]
+		],
+		"9" : [
+			[ "estableciera" ],
+			[ "establecieras" ],
+			[ "estableciera" ],
+			[ "estableciéramos" ],
+			[ "establecierais", "establecieran" ],
+			[ "establecieran" ]
+		],
+		"10" : [
+			[ "estableciese" ],
+			[ "establecieses" ],
+			[ "estableciese" ],
+			[ "estableciésemos" ],
+			[ "establecieseis", "estableciesen" ],
+			[ "estableciesen" ]
+		],
+		"11" : [
+			[ "estableciere" ],
+			[ "establecieres" ],
+			[ "estableciere" ],
+			[ "estableciéremos" ],
+			[ "estableciereis", "establecieren" ],
+			[ "establecieren" ]
+		],
+		"12" : {
+			"1" : [ "establece" ],
+			"2" : [ "establezca" ],
+			"3" : [ "establezcamos" ],
+			"4" : [ "estableced" ],
+			"5" : [ "establezcan" ]
+		}
+	}
+}

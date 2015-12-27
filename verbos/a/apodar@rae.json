@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apodar",
+	"word" : "apodar",
+	"infinitivo" : "apodar",
+	"participio" : [ "apodado" ],
+	"gerundio" : [ "apodando" ],
+	"tenses" : {
+		"3" : [
+			[ "apodo" ],
+			[ "apodas", "apodás" ],
+			[ "apoda" ],
+			[ "apodamos" ],
+			[ "apodáis", "apodan" ],
+			[ "apodan" ]
+		],
+		"4" : [
+			[ "apodé" ],
+			[ "apodaste" ],
+			[ "apodó" ],
+			[ "apodamos" ],
+			[ "apodasteis", "apodaron" ],
+			[ "apodaron" ]
+		],
+		"5" : [
+			[ "apodaba" ],
+			[ "apodabas" ],
+			[ "apodaba" ],
+			[ "apodábamos" ],
+			[ "apodabais", "apodaban" ],
+			[ "apodaban" ]
+		],
+		"6" : [
+			[ "apodaría" ],
+			[ "apodarías" ],
+			[ "apodaría" ],
+			[ "apodaríamos" ],
+			[ "apodaríais", "apodarían" ],
+			[ "apodarían" ]
+		],
+		"7" : [
+			[ "apodaré" ],
+			[ "apodarás" ],
+			[ "apodará" ],
+			[ "apodaremos" ],
+			[ "apodaréis", "apodarán" ],
+			[ "apodarán" ]
+		],
+		"8" : [
+			[ "apode" ],
+			[ "apodes" ],
+			[ "apode" ],
+			[ "apodemos" ],
+			[ "apodéis", "apoden" ],
+			[ "apoden" ]
+		],
+		"9" : [
+			[ "apodara" ],
+			[ "apodaras" ],
+			[ "apodara" ],
+			[ "apodáramos" ],
+			[ "apodarais", "apodaran" ],
+			[ "apodaran" ]
+		],
+		"10" : [
+			[ "apodase" ],
+			[ "apodases" ],
+			[ "apodase" ],
+			[ "apodásemos" ],
+			[ "apodaseis", "apodasen" ],
+			[ "apodasen" ]
+		],
+		"11" : [
+			[ "apodare" ],
+			[ "apodares" ],
+			[ "apodare" ],
+			[ "apodáremos" ],
+			[ "apodareis", "apodaren" ],
+			[ "apodaren" ]
+		],
+		"12" : {
+			"1" : [ "apoda" ],
+			"2" : [ "apode" ],
+			"3" : [ "apodemos" ],
+			"4" : [ "apodad" ],
+			"5" : [ "apoden" ]
+		}
+	}
+}

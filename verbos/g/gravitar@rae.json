@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gravitar",
+	"word" : "gravitar",
+	"infinitivo" : "gravitar",
+	"participio" : [ "gravitado" ],
+	"gerundio" : [ "gravitando" ],
+	"tenses" : {
+		"3" : [
+			[ "gravito" ],
+			[ "gravitas", "gravitás" ],
+			[ "gravita" ],
+			[ "gravitamos" ],
+			[ "gravitáis", "gravitan" ],
+			[ "gravitan" ]
+		],
+		"4" : [
+			[ "gravité" ],
+			[ "gravitaste" ],
+			[ "gravitó" ],
+			[ "gravitamos" ],
+			[ "gravitasteis", "gravitaron" ],
+			[ "gravitaron" ]
+		],
+		"5" : [
+			[ "gravitaba" ],
+			[ "gravitabas" ],
+			[ "gravitaba" ],
+			[ "gravitábamos" ],
+			[ "gravitabais", "gravitaban" ],
+			[ "gravitaban" ]
+		],
+		"6" : [
+			[ "gravitaría" ],
+			[ "gravitarías" ],
+			[ "gravitaría" ],
+			[ "gravitaríamos" ],
+			[ "gravitaríais", "gravitarían" ],
+			[ "gravitarían" ]
+		],
+		"7" : [
+			[ "gravitaré" ],
+			[ "gravitarás" ],
+			[ "gravitará" ],
+			[ "gravitaremos" ],
+			[ "gravitaréis", "gravitarán" ],
+			[ "gravitarán" ]
+		],
+		"8" : [
+			[ "gravite" ],
+			[ "gravites" ],
+			[ "gravite" ],
+			[ "gravitemos" ],
+			[ "gravitéis", "graviten" ],
+			[ "graviten" ]
+		],
+		"9" : [
+			[ "gravitara" ],
+			[ "gravitaras" ],
+			[ "gravitara" ],
+			[ "gravitáramos" ],
+			[ "gravitarais", "gravitaran" ],
+			[ "gravitaran" ]
+		],
+		"10" : [
+			[ "gravitase" ],
+			[ "gravitases" ],
+			[ "gravitase" ],
+			[ "gravitásemos" ],
+			[ "gravitaseis", "gravitasen" ],
+			[ "gravitasen" ]
+		],
+		"11" : [
+			[ "gravitare" ],
+			[ "gravitares" ],
+			[ "gravitare" ],
+			[ "gravitáremos" ],
+			[ "gravitareis", "gravitaren" ],
+			[ "gravitaren" ]
+		],
+		"12" : {
+			"1" : [ "gravita" ],
+			"2" : [ "gravite" ],
+			"3" : [ "gravitemos" ],
+			"4" : [ "gravitad" ],
+			"5" : [ "graviten" ]
+		}
+	}
+}

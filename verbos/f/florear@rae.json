@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=florear",
+	"word" : "florear",
+	"infinitivo" : "florear",
+	"participio" : [ "floreado" ],
+	"gerundio" : [ "floreando" ],
+	"tenses" : {
+		"3" : [
+			[ "floreo" ],
+			[ "floreas", "floreás" ],
+			[ "florea" ],
+			[ "floreamos" ],
+			[ "floreáis", "florean" ],
+			[ "florean" ]
+		],
+		"4" : [
+			[ "floreé" ],
+			[ "floreaste" ],
+			[ "floreó" ],
+			[ "floreamos" ],
+			[ "floreasteis", "florearon" ],
+			[ "florearon" ]
+		],
+		"5" : [
+			[ "floreaba" ],
+			[ "floreabas" ],
+			[ "floreaba" ],
+			[ "floreábamos" ],
+			[ "floreabais", "floreaban" ],
+			[ "floreaban" ]
+		],
+		"6" : [
+			[ "florearía" ],
+			[ "florearías" ],
+			[ "florearía" ],
+			[ "florearíamos" ],
+			[ "florearíais", "florearían" ],
+			[ "florearían" ]
+		],
+		"7" : [
+			[ "florearé" ],
+			[ "florearás" ],
+			[ "floreará" ],
+			[ "florearemos" ],
+			[ "florearéis", "florearán" ],
+			[ "florearán" ]
+		],
+		"8" : [
+			[ "floree" ],
+			[ "florees" ],
+			[ "floree" ],
+			[ "floreemos" ],
+			[ "floreéis", "floreen" ],
+			[ "floreen" ]
+		],
+		"9" : [
+			[ "floreara" ],
+			[ "florearas" ],
+			[ "floreara" ],
+			[ "floreáramos" ],
+			[ "florearais", "florearan" ],
+			[ "florearan" ]
+		],
+		"10" : [
+			[ "florease" ],
+			[ "floreases" ],
+			[ "florease" ],
+			[ "floreásemos" ],
+			[ "floreaseis", "floreasen" ],
+			[ "floreasen" ]
+		],
+		"11" : [
+			[ "floreare" ],
+			[ "floreares" ],
+			[ "floreare" ],
+			[ "floreáremos" ],
+			[ "floreareis", "florearen" ],
+			[ "florearen" ]
+		],
+		"12" : {
+			"1" : [ "florea" ],
+			"2" : [ "floree" ],
+			"3" : [ "floreemos" ],
+			"4" : [ "floread" ],
+			"5" : [ "floreen" ]
+		}
+	}
+}

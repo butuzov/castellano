@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=minar",
+	"word" : "minar",
+	"infinitivo" : "minar",
+	"participio" : [ "minado" ],
+	"gerundio" : [ "minando" ],
+	"tenses" : {
+		"3" : [
+			[ "mino" ],
+			[ "minas", "minás" ],
+			[ "mina" ],
+			[ "minamos" ],
+			[ "mináis", "minan" ],
+			[ "minan" ]
+		],
+		"4" : [
+			[ "miné" ],
+			[ "minaste" ],
+			[ "minó" ],
+			[ "minamos" ],
+			[ "minasteis", "minaron" ],
+			[ "minaron" ]
+		],
+		"5" : [
+			[ "minaba" ],
+			[ "minabas" ],
+			[ "minaba" ],
+			[ "minábamos" ],
+			[ "minabais", "minaban" ],
+			[ "minaban" ]
+		],
+		"6" : [
+			[ "minaría" ],
+			[ "minarías" ],
+			[ "minaría" ],
+			[ "minaríamos" ],
+			[ "minaríais", "minarían" ],
+			[ "minarían" ]
+		],
+		"7" : [
+			[ "minaré" ],
+			[ "minarás" ],
+			[ "minará" ],
+			[ "minaremos" ],
+			[ "minaréis", "minarán" ],
+			[ "minarán" ]
+		],
+		"8" : [
+			[ "mine" ],
+			[ "mines" ],
+			[ "mine" ],
+			[ "minemos" ],
+			[ "minéis", "minen" ],
+			[ "minen" ]
+		],
+		"9" : [
+			[ "minara" ],
+			[ "minaras" ],
+			[ "minara" ],
+			[ "mináramos" ],
+			[ "minarais", "minaran" ],
+			[ "minaran" ]
+		],
+		"10" : [
+			[ "minase" ],
+			[ "minases" ],
+			[ "minase" ],
+			[ "minásemos" ],
+			[ "minaseis", "minasen" ],
+			[ "minasen" ]
+		],
+		"11" : [
+			[ "minare" ],
+			[ "minares" ],
+			[ "minare" ],
+			[ "mináremos" ],
+			[ "minareis", "minaren" ],
+			[ "minaren" ]
+		],
+		"12" : {
+			"1" : [ "mina" ],
+			"2" : [ "mine" ],
+			"3" : [ "minemos" ],
+			"4" : [ "minad" ],
+			"5" : [ "minen" ]
+		}
+	}
+}

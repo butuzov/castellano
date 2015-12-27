@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atezar",
+	"word" : "atezar",
+	"infinitivo" : "atezar",
+	"participio" : [ "atezado" ],
+	"gerundio" : [ "atezando" ],
+	"tenses" : {
+		"3" : [
+			[ "atezo" ],
+			[ "atezas", "atezás" ],
+			[ "ateza" ],
+			[ "atezamos" ],
+			[ "atezáis", "atezan" ],
+			[ "atezan" ]
+		],
+		"4" : [
+			[ "atecé" ],
+			[ "atezaste" ],
+			[ "atezó" ],
+			[ "atezamos" ],
+			[ "atezasteis", "atezaron" ],
+			[ "atezaron" ]
+		],
+		"5" : [
+			[ "atezaba" ],
+			[ "atezabas" ],
+			[ "atezaba" ],
+			[ "atezábamos" ],
+			[ "atezabais", "atezaban" ],
+			[ "atezaban" ]
+		],
+		"6" : [
+			[ "atezaría" ],
+			[ "atezarías" ],
+			[ "atezaría" ],
+			[ "atezaríamos" ],
+			[ "atezaríais", "atezarían" ],
+			[ "atezarían" ]
+		],
+		"7" : [
+			[ "atezaré" ],
+			[ "atezarás" ],
+			[ "atezará" ],
+			[ "atezaremos" ],
+			[ "atezaréis", "atezarán" ],
+			[ "atezarán" ]
+		],
+		"8" : [
+			[ "atece" ],
+			[ "ateces" ],
+			[ "atece" ],
+			[ "atecemos" ],
+			[ "atecéis", "atecen" ],
+			[ "atecen" ]
+		],
+		"9" : [
+			[ "atezara" ],
+			[ "atezaras" ],
+			[ "atezara" ],
+			[ "atezáramos" ],
+			[ "atezarais", "atezaran" ],
+			[ "atezaran" ]
+		],
+		"10" : [
+			[ "atezase" ],
+			[ "atezases" ],
+			[ "atezase" ],
+			[ "atezásemos" ],
+			[ "atezaseis", "atezasen" ],
+			[ "atezasen" ]
+		],
+		"11" : [
+			[ "atezare" ],
+			[ "atezares" ],
+			[ "atezare" ],
+			[ "atezáremos" ],
+			[ "atezareis", "atezaren" ],
+			[ "atezaren" ]
+		],
+		"12" : {
+			"1" : [ "ateza" ],
+			"2" : [ "atece" ],
+			"3" : [ "atecemos" ],
+			"4" : [ "atezad" ],
+			"5" : [ "atecen" ]
+		}
+	}
+}

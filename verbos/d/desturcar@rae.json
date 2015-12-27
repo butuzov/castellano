@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desturcar",
+	"word" : "desturcar",
+	"infinitivo" : "desturcar",
+	"participio" : [ "desturcado" ],
+	"gerundio" : [ "desturcando" ],
+	"tenses" : {
+		"3" : [
+			[ "desturco" ],
+			[ "desturcas", "desturcás" ],
+			[ "desturca" ],
+			[ "desturcamos" ],
+			[ "desturcáis", "desturcan" ],
+			[ "desturcan" ]
+		],
+		"4" : [
+			[ "desturqué" ],
+			[ "desturcaste" ],
+			[ "desturcó" ],
+			[ "desturcamos" ],
+			[ "desturcasteis", "desturcaron" ],
+			[ "desturcaron" ]
+		],
+		"5" : [
+			[ "desturcaba" ],
+			[ "desturcabas" ],
+			[ "desturcaba" ],
+			[ "desturcábamos" ],
+			[ "desturcabais", "desturcaban" ],
+			[ "desturcaban" ]
+		],
+		"6" : [
+			[ "desturcaría" ],
+			[ "desturcarías" ],
+			[ "desturcaría" ],
+			[ "desturcaríamos" ],
+			[ "desturcaríais", "desturcarían" ],
+			[ "desturcarían" ]
+		],
+		"7" : [
+			[ "desturcaré" ],
+			[ "desturcarás" ],
+			[ "desturcará" ],
+			[ "desturcaremos" ],
+			[ "desturcaréis", "desturcarán" ],
+			[ "desturcarán" ]
+		],
+		"8" : [
+			[ "desturque" ],
+			[ "desturques" ],
+			[ "desturque" ],
+			[ "desturquemos" ],
+			[ "desturquéis", "desturquen" ],
+			[ "desturquen" ]
+		],
+		"9" : [
+			[ "desturcara" ],
+			[ "desturcaras" ],
+			[ "desturcara" ],
+			[ "desturcáramos" ],
+			[ "desturcarais", "desturcaran" ],
+			[ "desturcaran" ]
+		],
+		"10" : [
+			[ "desturcase" ],
+			[ "desturcases" ],
+			[ "desturcase" ],
+			[ "desturcásemos" ],
+			[ "desturcaseis", "desturcasen" ],
+			[ "desturcasen" ]
+		],
+		"11" : [
+			[ "desturcare" ],
+			[ "desturcares" ],
+			[ "desturcare" ],
+			[ "desturcáremos" ],
+			[ "desturcareis", "desturcaren" ],
+			[ "desturcaren" ]
+		],
+		"12" : {
+			"1" : [ "desturca" ],
+			"2" : [ "desturque" ],
+			"3" : [ "desturquemos" ],
+			"4" : [ "desturcad" ],
+			"5" : [ "desturquen" ]
+		}
+	}
+}

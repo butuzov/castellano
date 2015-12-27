@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=extinguir",
+	"word" : "extinguir",
+	"infinitivo" : "extinguir",
+	"participio" : [ "extinguido" ],
+	"gerundio" : [ "extinguiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "extingo" ],
+			[ "extingues", "extinguís" ],
+			[ "extingue" ],
+			[ "extinguimos" ],
+			[ "extinguís", "extinguen" ],
+			[ "extinguen" ]
+		],
+		"4" : [
+			[ "extinguí" ],
+			[ "extinguiste" ],
+			[ "extinguió" ],
+			[ "extinguimos" ],
+			[ "extinguisteis", "extinguieron" ],
+			[ "extinguieron" ]
+		],
+		"5" : [
+			[ "extinguía" ],
+			[ "extinguías" ],
+			[ "extinguía" ],
+			[ "extinguíamos" ],
+			[ "extinguíais", "extinguían" ],
+			[ "extinguían" ]
+		],
+		"6" : [
+			[ "extinguiría" ],
+			[ "extinguirías" ],
+			[ "extinguiría" ],
+			[ "extinguiríamos" ],
+			[ "extinguiríais", "extinguirían" ],
+			[ "extinguirían" ]
+		],
+		"7" : [
+			[ "extinguiré" ],
+			[ "extinguirás" ],
+			[ "extinguirá" ],
+			[ "extinguiremos" ],
+			[ "extinguiréis", "extinguirán" ],
+			[ "extinguirán" ]
+		],
+		"8" : [
+			[ "extinga" ],
+			[ "extingas" ],
+			[ "extinga" ],
+			[ "extingamos" ],
+			[ "extingáis", "extingan" ],
+			[ "extingan" ]
+		],
+		"9" : [
+			[ "extinguiera" ],
+			[ "extinguieras" ],
+			[ "extinguiera" ],
+			[ "extinguiéramos" ],
+			[ "extinguierais", "extinguieran" ],
+			[ "extinguieran" ]
+		],
+		"10" : [
+			[ "extinguiese" ],
+			[ "extinguieses" ],
+			[ "extinguiese" ],
+			[ "extinguiésemos" ],
+			[ "extinguieseis", "extinguiesen" ],
+			[ "extinguiesen" ]
+		],
+		"11" : [
+			[ "extinguiere" ],
+			[ "extinguieres" ],
+			[ "extinguiere" ],
+			[ "extinguiéremos" ],
+			[ "extinguiereis", "extinguieren" ],
+			[ "extinguieren" ]
+		],
+		"12" : {
+			"1" : [ "extingue" ],
+			"2" : [ "extinga" ],
+			"3" : [ "extingamos" ],
+			"4" : [ "extinguid" ],
+			"5" : [ "extingan" ]
+		}
+	}
+}

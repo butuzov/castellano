@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rescatar",
+	"word" : "rescatar",
+	"infinitivo" : "rescatar",
+	"participio" : [ "rescatado" ],
+	"gerundio" : [ "rescatando" ],
+	"tenses" : {
+		"3" : [
+			[ "rescato" ],
+			[ "rescatas", "rescatás" ],
+			[ "rescata" ],
+			[ "rescatamos" ],
+			[ "rescatáis", "rescatan" ],
+			[ "rescatan" ]
+		],
+		"4" : [
+			[ "rescaté" ],
+			[ "rescataste" ],
+			[ "rescató" ],
+			[ "rescatamos" ],
+			[ "rescatasteis", "rescataron" ],
+			[ "rescataron" ]
+		],
+		"5" : [
+			[ "rescataba" ],
+			[ "rescatabas" ],
+			[ "rescataba" ],
+			[ "rescatábamos" ],
+			[ "rescatabais", "rescataban" ],
+			[ "rescataban" ]
+		],
+		"6" : [
+			[ "rescataría" ],
+			[ "rescatarías" ],
+			[ "rescataría" ],
+			[ "rescataríamos" ],
+			[ "rescataríais", "rescatarían" ],
+			[ "rescatarían" ]
+		],
+		"7" : [
+			[ "rescataré" ],
+			[ "rescatarás" ],
+			[ "rescatará" ],
+			[ "rescataremos" ],
+			[ "rescataréis", "rescatarán" ],
+			[ "rescatarán" ]
+		],
+		"8" : [
+			[ "rescate" ],
+			[ "rescates" ],
+			[ "rescate" ],
+			[ "rescatemos" ],
+			[ "rescatéis", "rescaten" ],
+			[ "rescaten" ]
+		],
+		"9" : [
+			[ "rescatara" ],
+			[ "rescataras" ],
+			[ "rescatara" ],
+			[ "rescatáramos" ],
+			[ "rescatarais", "rescataran" ],
+			[ "rescataran" ]
+		],
+		"10" : [
+			[ "rescatase" ],
+			[ "rescatases" ],
+			[ "rescatase" ],
+			[ "rescatásemos" ],
+			[ "rescataseis", "rescatasen" ],
+			[ "rescatasen" ]
+		],
+		"11" : [
+			[ "rescatare" ],
+			[ "rescatares" ],
+			[ "rescatare" ],
+			[ "rescatáremos" ],
+			[ "rescatareis", "rescataren" ],
+			[ "rescataren" ]
+		],
+		"12" : {
+			"1" : [ "rescata" ],
+			"2" : [ "rescate" ],
+			"3" : [ "rescatemos" ],
+			"4" : [ "rescatad" ],
+			"5" : [ "rescaten" ]
+		}
+	}
+}

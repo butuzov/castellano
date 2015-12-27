@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=traicionar",
+	"word" : "traicionar",
+	"infinitivo" : "traicionar",
+	"participio" : [ "traicionado" ],
+	"gerundio" : [ "traicionando" ],
+	"tenses" : {
+		"3" : [
+			[ "traiciono" ],
+			[ "traicionas", "traicionás" ],
+			[ "traiciona" ],
+			[ "traicionamos" ],
+			[ "traicionáis", "traicionan" ],
+			[ "traicionan" ]
+		],
+		"4" : [
+			[ "traicioné" ],
+			[ "traicionaste" ],
+			[ "traicionó" ],
+			[ "traicionamos" ],
+			[ "traicionasteis", "traicionaron" ],
+			[ "traicionaron" ]
+		],
+		"5" : [
+			[ "traicionaba" ],
+			[ "traicionabas" ],
+			[ "traicionaba" ],
+			[ "traicionábamos" ],
+			[ "traicionabais", "traicionaban" ],
+			[ "traicionaban" ]
+		],
+		"6" : [
+			[ "traicionaría" ],
+			[ "traicionarías" ],
+			[ "traicionaría" ],
+			[ "traicionaríamos" ],
+			[ "traicionaríais", "traicionarían" ],
+			[ "traicionarían" ]
+		],
+		"7" : [
+			[ "traicionaré" ],
+			[ "traicionarás" ],
+			[ "traicionará" ],
+			[ "traicionaremos" ],
+			[ "traicionaréis", "traicionarán" ],
+			[ "traicionarán" ]
+		],
+		"8" : [
+			[ "traicione" ],
+			[ "traiciones" ],
+			[ "traicione" ],
+			[ "traicionemos" ],
+			[ "traicionéis", "traicionen" ],
+			[ "traicionen" ]
+		],
+		"9" : [
+			[ "traicionara" ],
+			[ "traicionaras" ],
+			[ "traicionara" ],
+			[ "traicionáramos" ],
+			[ "traicionarais", "traicionaran" ],
+			[ "traicionaran" ]
+		],
+		"10" : [
+			[ "traicionase" ],
+			[ "traicionases" ],
+			[ "traicionase" ],
+			[ "traicionásemos" ],
+			[ "traicionaseis", "traicionasen" ],
+			[ "traicionasen" ]
+		],
+		"11" : [
+			[ "traicionare" ],
+			[ "traicionares" ],
+			[ "traicionare" ],
+			[ "traicionáremos" ],
+			[ "traicionareis", "traicionaren" ],
+			[ "traicionaren" ]
+		],
+		"12" : {
+			"1" : [ "traiciona" ],
+			"2" : [ "traicione" ],
+			"3" : [ "traicionemos" ],
+			"4" : [ "traicionad" ],
+			"5" : [ "traicionen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=espantar",
+	"word" : "espantar",
+	"infinitivo" : "espantar",
+	"participio" : [ "espantado" ],
+	"gerundio" : [ "espantando" ],
+	"tenses" : {
+		"3" : [
+			[ "espanto" ],
+			[ "espantas", "espantás" ],
+			[ "espanta" ],
+			[ "espantamos" ],
+			[ "espantáis", "espantan" ],
+			[ "espantan" ]
+		],
+		"4" : [
+			[ "espanté" ],
+			[ "espantaste" ],
+			[ "espantó" ],
+			[ "espantamos" ],
+			[ "espantasteis", "espantaron" ],
+			[ "espantaron" ]
+		],
+		"5" : [
+			[ "espantaba" ],
+			[ "espantabas" ],
+			[ "espantaba" ],
+			[ "espantábamos" ],
+			[ "espantabais", "espantaban" ],
+			[ "espantaban" ]
+		],
+		"6" : [
+			[ "espantaría" ],
+			[ "espantarías" ],
+			[ "espantaría" ],
+			[ "espantaríamos" ],
+			[ "espantaríais", "espantarían" ],
+			[ "espantarían" ]
+		],
+		"7" : [
+			[ "espantaré" ],
+			[ "espantarás" ],
+			[ "espantará" ],
+			[ "espantaremos" ],
+			[ "espantaréis", "espantarán" ],
+			[ "espantarán" ]
+		],
+		"8" : [
+			[ "espante" ],
+			[ "espantes" ],
+			[ "espante" ],
+			[ "espantemos" ],
+			[ "espantéis", "espanten" ],
+			[ "espanten" ]
+		],
+		"9" : [
+			[ "espantara" ],
+			[ "espantaras" ],
+			[ "espantara" ],
+			[ "espantáramos" ],
+			[ "espantarais", "espantaran" ],
+			[ "espantaran" ]
+		],
+		"10" : [
+			[ "espantase" ],
+			[ "espantases" ],
+			[ "espantase" ],
+			[ "espantásemos" ],
+			[ "espantaseis", "espantasen" ],
+			[ "espantasen" ]
+		],
+		"11" : [
+			[ "espantare" ],
+			[ "espantares" ],
+			[ "espantare" ],
+			[ "espantáremos" ],
+			[ "espantareis", "espantaren" ],
+			[ "espantaren" ]
+		],
+		"12" : {
+			"1" : [ "espanta" ],
+			"2" : [ "espante" ],
+			"3" : [ "espantemos" ],
+			"4" : [ "espantad" ],
+			"5" : [ "espanten" ]
+		}
+	}
+}

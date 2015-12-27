@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encementar",
+	"word" : "encementar",
+	"infinitivo" : "encementar",
+	"participio" : [ "encementado" ],
+	"gerundio" : [ "encementando" ],
+	"tenses" : {
+		"3" : [
+			[ "encemento" ],
+			[ "encementas", "encementás" ],
+			[ "encementa" ],
+			[ "encementamos" ],
+			[ "encementáis", "encementan" ],
+			[ "encementan" ]
+		],
+		"4" : [
+			[ "encementé" ],
+			[ "encementaste" ],
+			[ "encementó" ],
+			[ "encementamos" ],
+			[ "encementasteis", "encementaron" ],
+			[ "encementaron" ]
+		],
+		"5" : [
+			[ "encementaba" ],
+			[ "encementabas" ],
+			[ "encementaba" ],
+			[ "encementábamos" ],
+			[ "encementabais", "encementaban" ],
+			[ "encementaban" ]
+		],
+		"6" : [
+			[ "encementaría" ],
+			[ "encementarías" ],
+			[ "encementaría" ],
+			[ "encementaríamos" ],
+			[ "encementaríais", "encementarían" ],
+			[ "encementarían" ]
+		],
+		"7" : [
+			[ "encementaré" ],
+			[ "encementarás" ],
+			[ "encementará" ],
+			[ "encementaremos" ],
+			[ "encementaréis", "encementarán" ],
+			[ "encementarán" ]
+		],
+		"8" : [
+			[ "encemente" ],
+			[ "encementes" ],
+			[ "encemente" ],
+			[ "encementemos" ],
+			[ "encementéis", "encementen" ],
+			[ "encementen" ]
+		],
+		"9" : [
+			[ "encementara" ],
+			[ "encementaras" ],
+			[ "encementara" ],
+			[ "encementáramos" ],
+			[ "encementarais", "encementaran" ],
+			[ "encementaran" ]
+		],
+		"10" : [
+			[ "encementase" ],
+			[ "encementases" ],
+			[ "encementase" ],
+			[ "encementásemos" ],
+			[ "encementaseis", "encementasen" ],
+			[ "encementasen" ]
+		],
+		"11" : [
+			[ "encementare" ],
+			[ "encementares" ],
+			[ "encementare" ],
+			[ "encementáremos" ],
+			[ "encementareis", "encementaren" ],
+			[ "encementaren" ]
+		],
+		"12" : {
+			"1" : [ "encementa" ],
+			"2" : [ "encemente" ],
+			"3" : [ "encementemos" ],
+			"4" : [ "encementad" ],
+			"5" : [ "encementen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escurrir",
+	"word" : "escurrir",
+	"infinitivo" : "escurrir",
+	"participio" : [ "escurrido" ],
+	"gerundio" : [ "escurriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "escurro" ],
+			[ "escurres", "escurrís" ],
+			[ "escurre" ],
+			[ "escurrimos" ],
+			[ "escurrís", "escurren" ],
+			[ "escurren" ]
+		],
+		"4" : [
+			[ "escurrí" ],
+			[ "escurriste" ],
+			[ "escurrió" ],
+			[ "escurrimos" ],
+			[ "escurristeis", "escurrieron" ],
+			[ "escurrieron" ]
+		],
+		"5" : [
+			[ "escurría" ],
+			[ "escurrías" ],
+			[ "escurría" ],
+			[ "escurríamos" ],
+			[ "escurríais", "escurrían" ],
+			[ "escurrían" ]
+		],
+		"6" : [
+			[ "escurriría" ],
+			[ "escurrirías" ],
+			[ "escurriría" ],
+			[ "escurriríamos" ],
+			[ "escurriríais", "escurrirían" ],
+			[ "escurrirían" ]
+		],
+		"7" : [
+			[ "escurriré" ],
+			[ "escurrirás" ],
+			[ "escurrirá" ],
+			[ "escurriremos" ],
+			[ "escurriréis", "escurrirán" ],
+			[ "escurrirán" ]
+		],
+		"8" : [
+			[ "escurra" ],
+			[ "escurras" ],
+			[ "escurra" ],
+			[ "escurramos" ],
+			[ "escurráis", "escurran" ],
+			[ "escurran" ]
+		],
+		"9" : [
+			[ "escurriera" ],
+			[ "escurrieras" ],
+			[ "escurriera" ],
+			[ "escurriéramos" ],
+			[ "escurrierais", "escurrieran" ],
+			[ "escurrieran" ]
+		],
+		"10" : [
+			[ "escurriese" ],
+			[ "escurrieses" ],
+			[ "escurriese" ],
+			[ "escurriésemos" ],
+			[ "escurrieseis", "escurriesen" ],
+			[ "escurriesen" ]
+		],
+		"11" : [
+			[ "escurriere" ],
+			[ "escurrieres" ],
+			[ "escurriere" ],
+			[ "escurriéremos" ],
+			[ "escurriereis", "escurrieren" ],
+			[ "escurrieren" ]
+		],
+		"12" : {
+			"1" : [ "escurre" ],
+			"2" : [ "escurra" ],
+			"3" : [ "escurramos" ],
+			"4" : [ "escurrid" ],
+			"5" : [ "escurran" ]
+		}
+	}
+}

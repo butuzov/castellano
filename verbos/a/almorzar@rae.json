@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=almorzar",
+	"word" : "almorzar",
+	"infinitivo" : "almorzar",
+	"participio" : [ "almorzado" ],
+	"gerundio" : [ "almorzando" ],
+	"tenses" : {
+		"3" : [
+			[ "almuerzo" ],
+			[ "almuerzas", "almorzás" ],
+			[ "almuerza" ],
+			[ "almorzamos" ],
+			[ "almorzáis", "almuerzan" ],
+			[ "almuerzan" ]
+		],
+		"4" : [
+			[ "almorcé" ],
+			[ "almorzaste" ],
+			[ "almorzó" ],
+			[ "almorzamos" ],
+			[ "almorzasteis", "almorzaron" ],
+			[ "almorzaron" ]
+		],
+		"5" : [
+			[ "almorzaba" ],
+			[ "almorzabas" ],
+			[ "almorzaba" ],
+			[ "almorzábamos" ],
+			[ "almorzabais", "almorzaban" ],
+			[ "almorzaban" ]
+		],
+		"6" : [
+			[ "almorzaría" ],
+			[ "almorzarías" ],
+			[ "almorzaría" ],
+			[ "almorzaríamos" ],
+			[ "almorzaríais", "almorzarían" ],
+			[ "almorzarían" ]
+		],
+		"7" : [
+			[ "almorzaré" ],
+			[ "almorzarás" ],
+			[ "almorzará" ],
+			[ "almorzaremos" ],
+			[ "almorzaréis", "almorzarán" ],
+			[ "almorzarán" ]
+		],
+		"8" : [
+			[ "almuerce" ],
+			[ "almuerces" ],
+			[ "almuerce" ],
+			[ "almorcemos" ],
+			[ "almorcéis", "almuercen" ],
+			[ "almuercen" ]
+		],
+		"9" : [
+			[ "almorzara" ],
+			[ "almorzaras" ],
+			[ "almorzara" ],
+			[ "almorzáramos" ],
+			[ "almorzarais", "almorzaran" ],
+			[ "almorzaran" ]
+		],
+		"10" : [
+			[ "almorzase" ],
+			[ "almorzases" ],
+			[ "almorzase" ],
+			[ "almorzásemos" ],
+			[ "almorzaseis", "almorzasen" ],
+			[ "almorzasen" ]
+		],
+		"11" : [
+			[ "almorzare" ],
+			[ "almorzares" ],
+			[ "almorzare" ],
+			[ "almorzáremos" ],
+			[ "almorzareis", "almorzaren" ],
+			[ "almorzaren" ]
+		],
+		"12" : {
+			"1" : [ "almuerza" ],
+			"2" : [ "almuerce" ],
+			"3" : [ "almorcemos" ],
+			"4" : [ "almorzad" ],
+			"5" : [ "almuercen" ]
+		}
+	}
+}

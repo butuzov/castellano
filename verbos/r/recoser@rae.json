@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recoser",
+	"word" : "recoser",
+	"infinitivo" : "recoser",
+	"participio" : [ "recosido" ],
+	"gerundio" : [ "recosiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "recoso" ],
+			[ "recoses", "recosés" ],
+			[ "recose" ],
+			[ "recosemos" ],
+			[ "recoséis", "recosen" ],
+			[ "recosen" ]
+		],
+		"4" : [
+			[ "recosí" ],
+			[ "recosiste" ],
+			[ "recosió" ],
+			[ "recosimos" ],
+			[ "recosisteis", "recosieron" ],
+			[ "recosieron" ]
+		],
+		"5" : [
+			[ "recosía" ],
+			[ "recosías" ],
+			[ "recosía" ],
+			[ "recosíamos" ],
+			[ "recosíais", "recosían" ],
+			[ "recosían" ]
+		],
+		"6" : [
+			[ "recosería" ],
+			[ "recoserías" ],
+			[ "recosería" ],
+			[ "recoseríamos" ],
+			[ "recoseríais", "recoserían" ],
+			[ "recoserían" ]
+		],
+		"7" : [
+			[ "recoseré" ],
+			[ "recoserás" ],
+			[ "recoserá" ],
+			[ "recoseremos" ],
+			[ "recoseréis", "recoserán" ],
+			[ "recoserán" ]
+		],
+		"8" : [
+			[ "recosa" ],
+			[ "recosas" ],
+			[ "recosa" ],
+			[ "recosamos" ],
+			[ "recosáis", "recosan" ],
+			[ "recosan" ]
+		],
+		"9" : [
+			[ "recosiera" ],
+			[ "recosieras" ],
+			[ "recosiera" ],
+			[ "recosiéramos" ],
+			[ "recosierais", "recosieran" ],
+			[ "recosieran" ]
+		],
+		"10" : [
+			[ "recosiese" ],
+			[ "recosieses" ],
+			[ "recosiese" ],
+			[ "recosiésemos" ],
+			[ "recosieseis", "recosiesen" ],
+			[ "recosiesen" ]
+		],
+		"11" : [
+			[ "recosiere" ],
+			[ "recosieres" ],
+			[ "recosiere" ],
+			[ "recosiéremos" ],
+			[ "recosiereis", "recosieren" ],
+			[ "recosieren" ]
+		],
+		"12" : {
+			"1" : [ "recose" ],
+			"2" : [ "recosa" ],
+			"3" : [ "recosamos" ],
+			"4" : [ "recosed" ],
+			"5" : [ "recosan" ]
+		}
+	}
+}

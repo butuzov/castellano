@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desvainar",
+	"word" : "desvainar",
+	"infinitivo" : "desvainar",
+	"participio" : [ "desvainado" ],
+	"gerundio" : [ "desvainando" ],
+	"tenses" : {
+		"3" : [
+			[ "desvaino" ],
+			[ "desvainas", "desvainás" ],
+			[ "desvaina" ],
+			[ "desvainamos" ],
+			[ "desvaináis", "desvainan" ],
+			[ "desvainan" ]
+		],
+		"4" : [
+			[ "desvainé" ],
+			[ "desvainaste" ],
+			[ "desvainó" ],
+			[ "desvainamos" ],
+			[ "desvainasteis", "desvainaron" ],
+			[ "desvainaron" ]
+		],
+		"5" : [
+			[ "desvainaba" ],
+			[ "desvainabas" ],
+			[ "desvainaba" ],
+			[ "desvainábamos" ],
+			[ "desvainabais", "desvainaban" ],
+			[ "desvainaban" ]
+		],
+		"6" : [
+			[ "desvainaría" ],
+			[ "desvainarías" ],
+			[ "desvainaría" ],
+			[ "desvainaríamos" ],
+			[ "desvainaríais", "desvainarían" ],
+			[ "desvainarían" ]
+		],
+		"7" : [
+			[ "desvainaré" ],
+			[ "desvainarás" ],
+			[ "desvainará" ],
+			[ "desvainaremos" ],
+			[ "desvainaréis", "desvainarán" ],
+			[ "desvainarán" ]
+		],
+		"8" : [
+			[ "desvaine" ],
+			[ "desvaines" ],
+			[ "desvaine" ],
+			[ "desvainemos" ],
+			[ "desvainéis", "desvainen" ],
+			[ "desvainen" ]
+		],
+		"9" : [
+			[ "desvainara" ],
+			[ "desvainaras" ],
+			[ "desvainara" ],
+			[ "desvaináramos" ],
+			[ "desvainarais", "desvainaran" ],
+			[ "desvainaran" ]
+		],
+		"10" : [
+			[ "desvainase" ],
+			[ "desvainases" ],
+			[ "desvainase" ],
+			[ "desvainásemos" ],
+			[ "desvainaseis", "desvainasen" ],
+			[ "desvainasen" ]
+		],
+		"11" : [
+			[ "desvainare" ],
+			[ "desvainares" ],
+			[ "desvainare" ],
+			[ "desvaináremos" ],
+			[ "desvainareis", "desvainaren" ],
+			[ "desvainaren" ]
+		],
+		"12" : {
+			"1" : [ "desvaina" ],
+			"2" : [ "desvaine" ],
+			"3" : [ "desvainemos" ],
+			"4" : [ "desvainad" ],
+			"5" : [ "desvainen" ]
+		}
+	}
+}

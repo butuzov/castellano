@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abrazar",
+	"word" : "abrazar",
+	"infinitivo" : "abrazar",
+	"participio" : [ "abrazado" ],
+	"gerundio" : [ "abrazando" ],
+	"tenses" : {
+		"3" : [
+			[ "abrazo" ],
+			[ "abrazas", "abrazás" ],
+			[ "abraza" ],
+			[ "abrazamos" ],
+			[ "abrazáis", "abrazan" ],
+			[ "abrazan" ]
+		],
+		"4" : [
+			[ "abracé" ],
+			[ "abrazaste" ],
+			[ "abrazó" ],
+			[ "abrazamos" ],
+			[ "abrazasteis", "abrazaron" ],
+			[ "abrazaron" ]
+		],
+		"5" : [
+			[ "abrazaba" ],
+			[ "abrazabas" ],
+			[ "abrazaba" ],
+			[ "abrazábamos" ],
+			[ "abrazabais", "abrazaban" ],
+			[ "abrazaban" ]
+		],
+		"6" : [
+			[ "abrazaría" ],
+			[ "abrazarías" ],
+			[ "abrazaría" ],
+			[ "abrazaríamos" ],
+			[ "abrazaríais", "abrazarían" ],
+			[ "abrazarían" ]
+		],
+		"7" : [
+			[ "abrazaré" ],
+			[ "abrazarás" ],
+			[ "abrazará" ],
+			[ "abrazaremos" ],
+			[ "abrazaréis", "abrazarán" ],
+			[ "abrazarán" ]
+		],
+		"8" : [
+			[ "abrace" ],
+			[ "abraces" ],
+			[ "abrace" ],
+			[ "abracemos" ],
+			[ "abracéis", "abracen" ],
+			[ "abracen" ]
+		],
+		"9" : [
+			[ "abrazara" ],
+			[ "abrazaras" ],
+			[ "abrazara" ],
+			[ "abrazáramos" ],
+			[ "abrazarais", "abrazaran" ],
+			[ "abrazaran" ]
+		],
+		"10" : [
+			[ "abrazase" ],
+			[ "abrazases" ],
+			[ "abrazase" ],
+			[ "abrazásemos" ],
+			[ "abrazaseis", "abrazasen" ],
+			[ "abrazasen" ]
+		],
+		"11" : [
+			[ "abrazare" ],
+			[ "abrazares" ],
+			[ "abrazare" ],
+			[ "abrazáremos" ],
+			[ "abrazareis", "abrazaren" ],
+			[ "abrazaren" ]
+		],
+		"12" : {
+			"1" : [ "abraza" ],
+			"2" : [ "abrace" ],
+			"3" : [ "abracemos" ],
+			"4" : [ "abrazad" ],
+			"5" : [ "abracen" ]
+		}
+	}
+}

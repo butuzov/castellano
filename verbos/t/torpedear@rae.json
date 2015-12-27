@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=torpedear",
+	"word" : "torpedear",
+	"infinitivo" : "torpedear",
+	"participio" : [ "torpedeado" ],
+	"gerundio" : [ "torpedeando" ],
+	"tenses" : {
+		"3" : [
+			[ "torpedeo" ],
+			[ "torpedeas", "torpedeás" ],
+			[ "torpedea" ],
+			[ "torpedeamos" ],
+			[ "torpedeáis", "torpedean" ],
+			[ "torpedean" ]
+		],
+		"4" : [
+			[ "torpedeé" ],
+			[ "torpedeaste" ],
+			[ "torpedeó" ],
+			[ "torpedeamos" ],
+			[ "torpedeasteis", "torpedearon" ],
+			[ "torpedearon" ]
+		],
+		"5" : [
+			[ "torpedeaba" ],
+			[ "torpedeabas" ],
+			[ "torpedeaba" ],
+			[ "torpedeábamos" ],
+			[ "torpedeabais", "torpedeaban" ],
+			[ "torpedeaban" ]
+		],
+		"6" : [
+			[ "torpedearía" ],
+			[ "torpedearías" ],
+			[ "torpedearía" ],
+			[ "torpedearíamos" ],
+			[ "torpedearíais", "torpedearían" ],
+			[ "torpedearían" ]
+		],
+		"7" : [
+			[ "torpedearé" ],
+			[ "torpedearás" ],
+			[ "torpedeará" ],
+			[ "torpedearemos" ],
+			[ "torpedearéis", "torpedearán" ],
+			[ "torpedearán" ]
+		],
+		"8" : [
+			[ "torpedee" ],
+			[ "torpedees" ],
+			[ "torpedee" ],
+			[ "torpedeemos" ],
+			[ "torpedeéis", "torpedeen" ],
+			[ "torpedeen" ]
+		],
+		"9" : [
+			[ "torpedeara" ],
+			[ "torpedearas" ],
+			[ "torpedeara" ],
+			[ "torpedeáramos" ],
+			[ "torpedearais", "torpedearan" ],
+			[ "torpedearan" ]
+		],
+		"10" : [
+			[ "torpedease" ],
+			[ "torpedeases" ],
+			[ "torpedease" ],
+			[ "torpedeásemos" ],
+			[ "torpedeaseis", "torpedeasen" ],
+			[ "torpedeasen" ]
+		],
+		"11" : [
+			[ "torpedeare" ],
+			[ "torpedeares" ],
+			[ "torpedeare" ],
+			[ "torpedeáremos" ],
+			[ "torpedeareis", "torpedearen" ],
+			[ "torpedearen" ]
+		],
+		"12" : {
+			"1" : [ "torpedea" ],
+			"2" : [ "torpedee" ],
+			"3" : [ "torpedeemos" ],
+			"4" : [ "torpedead" ],
+			"5" : [ "torpedeen" ]
+		}
+	}
+}

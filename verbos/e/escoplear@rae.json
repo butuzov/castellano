@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escoplear",
+	"word" : "escoplear",
+	"infinitivo" : "escoplear",
+	"participio" : [ "escopleado" ],
+	"gerundio" : [ "escopleando" ],
+	"tenses" : {
+		"3" : [
+			[ "escopleo" ],
+			[ "escopleas", "escopleás" ],
+			[ "escoplea" ],
+			[ "escopleamos" ],
+			[ "escopleáis", "escoplean" ],
+			[ "escoplean" ]
+		],
+		"4" : [
+			[ "escopleé" ],
+			[ "escopleaste" ],
+			[ "escopleó" ],
+			[ "escopleamos" ],
+			[ "escopleasteis", "escoplearon" ],
+			[ "escoplearon" ]
+		],
+		"5" : [
+			[ "escopleaba" ],
+			[ "escopleabas" ],
+			[ "escopleaba" ],
+			[ "escopleábamos" ],
+			[ "escopleabais", "escopleaban" ],
+			[ "escopleaban" ]
+		],
+		"6" : [
+			[ "escoplearía" ],
+			[ "escoplearías" ],
+			[ "escoplearía" ],
+			[ "escoplearíamos" ],
+			[ "escoplearíais", "escoplearían" ],
+			[ "escoplearían" ]
+		],
+		"7" : [
+			[ "escoplearé" ],
+			[ "escoplearás" ],
+			[ "escopleará" ],
+			[ "escoplearemos" ],
+			[ "escoplearéis", "escoplearán" ],
+			[ "escoplearán" ]
+		],
+		"8" : [
+			[ "escoplee" ],
+			[ "escoplees" ],
+			[ "escoplee" ],
+			[ "escopleemos" ],
+			[ "escopleéis", "escopleen" ],
+			[ "escopleen" ]
+		],
+		"9" : [
+			[ "escopleara" ],
+			[ "escoplearas" ],
+			[ "escopleara" ],
+			[ "escopleáramos" ],
+			[ "escoplearais", "escoplearan" ],
+			[ "escoplearan" ]
+		],
+		"10" : [
+			[ "escoplease" ],
+			[ "escopleases" ],
+			[ "escoplease" ],
+			[ "escopleásemos" ],
+			[ "escopleaseis", "escopleasen" ],
+			[ "escopleasen" ]
+		],
+		"11" : [
+			[ "escopleare" ],
+			[ "escopleares" ],
+			[ "escopleare" ],
+			[ "escopleáremos" ],
+			[ "escopleareis", "escoplearen" ],
+			[ "escoplearen" ]
+		],
+		"12" : {
+			"1" : [ "escoplea" ],
+			"2" : [ "escoplee" ],
+			"3" : [ "escopleemos" ],
+			"4" : [ "escoplead" ],
+			"5" : [ "escopleen" ]
+		}
+	}
+}

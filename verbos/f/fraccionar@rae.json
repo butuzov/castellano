@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fraccionar",
+	"word" : "fraccionar",
+	"infinitivo" : "fraccionar",
+	"participio" : [ "fraccionado" ],
+	"gerundio" : [ "fraccionando" ],
+	"tenses" : {
+		"3" : [
+			[ "fracciono" ],
+			[ "fraccionas", "fraccionás" ],
+			[ "fracciona" ],
+			[ "fraccionamos" ],
+			[ "fraccionáis", "fraccionan" ],
+			[ "fraccionan" ]
+		],
+		"4" : [
+			[ "fraccioné" ],
+			[ "fraccionaste" ],
+			[ "fraccionó" ],
+			[ "fraccionamos" ],
+			[ "fraccionasteis", "fraccionaron" ],
+			[ "fraccionaron" ]
+		],
+		"5" : [
+			[ "fraccionaba" ],
+			[ "fraccionabas" ],
+			[ "fraccionaba" ],
+			[ "fraccionábamos" ],
+			[ "fraccionabais", "fraccionaban" ],
+			[ "fraccionaban" ]
+		],
+		"6" : [
+			[ "fraccionaría" ],
+			[ "fraccionarías" ],
+			[ "fraccionaría" ],
+			[ "fraccionaríamos" ],
+			[ "fraccionaríais", "fraccionarían" ],
+			[ "fraccionarían" ]
+		],
+		"7" : [
+			[ "fraccionaré" ],
+			[ "fraccionarás" ],
+			[ "fraccionará" ],
+			[ "fraccionaremos" ],
+			[ "fraccionaréis", "fraccionarán" ],
+			[ "fraccionarán" ]
+		],
+		"8" : [
+			[ "fraccione" ],
+			[ "fracciones" ],
+			[ "fraccione" ],
+			[ "fraccionemos" ],
+			[ "fraccionéis", "fraccionen" ],
+			[ "fraccionen" ]
+		],
+		"9" : [
+			[ "fraccionara" ],
+			[ "fraccionaras" ],
+			[ "fraccionara" ],
+			[ "fraccionáramos" ],
+			[ "fraccionarais", "fraccionaran" ],
+			[ "fraccionaran" ]
+		],
+		"10" : [
+			[ "fraccionase" ],
+			[ "fraccionases" ],
+			[ "fraccionase" ],
+			[ "fraccionásemos" ],
+			[ "fraccionaseis", "fraccionasen" ],
+			[ "fraccionasen" ]
+		],
+		"11" : [
+			[ "fraccionare" ],
+			[ "fraccionares" ],
+			[ "fraccionare" ],
+			[ "fraccionáremos" ],
+			[ "fraccionareis", "fraccionaren" ],
+			[ "fraccionaren" ]
+		],
+		"12" : {
+			"1" : [ "fracciona" ],
+			"2" : [ "fraccione" ],
+			"3" : [ "fraccionemos" ],
+			"4" : [ "fraccionad" ],
+			"5" : [ "fraccionen" ]
+		}
+	}
+}

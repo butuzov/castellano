@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acrecentar",
+	"word" : "acrecentar",
+	"infinitivo" : "acrecentar",
+	"participio" : [ "acrecentado" ],
+	"gerundio" : [ "acrecentando" ],
+	"tenses" : {
+		"3" : [
+			[ "acreciento" ],
+			[ "acrecientas", "acrecentás" ],
+			[ "acrecienta" ],
+			[ "acrecentamos" ],
+			[ "acrecentáis", "acrecientan" ],
+			[ "acrecientan" ]
+		],
+		"4" : [
+			[ "acrecenté" ],
+			[ "acrecentaste" ],
+			[ "acrecentó" ],
+			[ "acrecentamos" ],
+			[ "acrecentasteis", "acrecentaron" ],
+			[ "acrecentaron" ]
+		],
+		"5" : [
+			[ "acrecentaba" ],
+			[ "acrecentabas" ],
+			[ "acrecentaba" ],
+			[ "acrecentábamos" ],
+			[ "acrecentabais", "acrecentaban" ],
+			[ "acrecentaban" ]
+		],
+		"6" : [
+			[ "acrecentaría" ],
+			[ "acrecentarías" ],
+			[ "acrecentaría" ],
+			[ "acrecentaríamos" ],
+			[ "acrecentaríais", "acrecentarían" ],
+			[ "acrecentarían" ]
+		],
+		"7" : [
+			[ "acrecentaré" ],
+			[ "acrecentarás" ],
+			[ "acrecentará" ],
+			[ "acrecentaremos" ],
+			[ "acrecentaréis", "acrecentarán" ],
+			[ "acrecentarán" ]
+		],
+		"8" : [
+			[ "acreciente" ],
+			[ "acrecientes" ],
+			[ "acreciente" ],
+			[ "acrecentemos" ],
+			[ "acrecentéis", "acrecienten" ],
+			[ "acrecienten" ]
+		],
+		"9" : [
+			[ "acrecentara" ],
+			[ "acrecentaras" ],
+			[ "acrecentara" ],
+			[ "acrecentáramos" ],
+			[ "acrecentarais", "acrecentaran" ],
+			[ "acrecentaran" ]
+		],
+		"10" : [
+			[ "acrecentase" ],
+			[ "acrecentases" ],
+			[ "acrecentase" ],
+			[ "acrecentásemos" ],
+			[ "acrecentaseis", "acrecentasen" ],
+			[ "acrecentasen" ]
+		],
+		"11" : [
+			[ "acrecentare" ],
+			[ "acrecentares" ],
+			[ "acrecentare" ],
+			[ "acrecentáremos" ],
+			[ "acrecentareis", "acrecentaren" ],
+			[ "acrecentaren" ]
+		],
+		"12" : {
+			"1" : [ "acrecienta" ],
+			"2" : [ "acreciente" ],
+			"3" : [ "acrecentemos" ],
+			"4" : [ "acrecentad" ],
+			"5" : [ "acrecienten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=equipar",
+	"word" : "equipar",
+	"infinitivo" : "equipar",
+	"participio" : [ "equipado" ],
+	"gerundio" : [ "equipando" ],
+	"tenses" : {
+		"3" : [
+			[ "equipo" ],
+			[ "equipas", "equipás" ],
+			[ "equipa" ],
+			[ "equipamos" ],
+			[ "equipáis", "equipan" ],
+			[ "equipan" ]
+		],
+		"4" : [
+			[ "equipé" ],
+			[ "equipaste" ],
+			[ "equipó" ],
+			[ "equipamos" ],
+			[ "equipasteis", "equiparon" ],
+			[ "equiparon" ]
+		],
+		"5" : [
+			[ "equipaba" ],
+			[ "equipabas" ],
+			[ "equipaba" ],
+			[ "equipábamos" ],
+			[ "equipabais", "equipaban" ],
+			[ "equipaban" ]
+		],
+		"6" : [
+			[ "equiparía" ],
+			[ "equiparías" ],
+			[ "equiparía" ],
+			[ "equiparíamos" ],
+			[ "equiparíais", "equiparían" ],
+			[ "equiparían" ]
+		],
+		"7" : [
+			[ "equiparé" ],
+			[ "equiparás" ],
+			[ "equipará" ],
+			[ "equiparemos" ],
+			[ "equiparéis", "equiparán" ],
+			[ "equiparán" ]
+		],
+		"8" : [
+			[ "equipe" ],
+			[ "equipes" ],
+			[ "equipe" ],
+			[ "equipemos" ],
+			[ "equipéis", "equipen" ],
+			[ "equipen" ]
+		],
+		"9" : [
+			[ "equipara" ],
+			[ "equiparas" ],
+			[ "equipara" ],
+			[ "equipáramos" ],
+			[ "equiparais", "equiparan" ],
+			[ "equiparan" ]
+		],
+		"10" : [
+			[ "equipase" ],
+			[ "equipases" ],
+			[ "equipase" ],
+			[ "equipásemos" ],
+			[ "equipaseis", "equipasen" ],
+			[ "equipasen" ]
+		],
+		"11" : [
+			[ "equipare" ],
+			[ "equipares" ],
+			[ "equipare" ],
+			[ "equipáremos" ],
+			[ "equipareis", "equiparen" ],
+			[ "equiparen" ]
+		],
+		"12" : {
+			"1" : [ "equipa" ],
+			"2" : [ "equipe" ],
+			"3" : [ "equipemos" ],
+			"4" : [ "equipad" ],
+			"5" : [ "equipen" ]
+		}
+	}
+}

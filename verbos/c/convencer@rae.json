@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=convencer",
+	"word" : "convencer",
+	"infinitivo" : "convencer",
+	"participio" : [ "convencido" ],
+	"gerundio" : [ "convenciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "convenzo" ],
+			[ "convences", "convencés" ],
+			[ "convence" ],
+			[ "convencemos" ],
+			[ "convencéis", "convencen" ],
+			[ "convencen" ]
+		],
+		"4" : [
+			[ "convencí" ],
+			[ "convenciste" ],
+			[ "convenció" ],
+			[ "convencimos" ],
+			[ "convencisteis", "convencieron" ],
+			[ "convencieron" ]
+		],
+		"5" : [
+			[ "convencía" ],
+			[ "convencías" ],
+			[ "convencía" ],
+			[ "convencíamos" ],
+			[ "convencíais", "convencían" ],
+			[ "convencían" ]
+		],
+		"6" : [
+			[ "convencería" ],
+			[ "convencerías" ],
+			[ "convencería" ],
+			[ "convenceríamos" ],
+			[ "convenceríais", "convencerían" ],
+			[ "convencerían" ]
+		],
+		"7" : [
+			[ "convenceré" ],
+			[ "convencerás" ],
+			[ "convencerá" ],
+			[ "convenceremos" ],
+			[ "convenceréis", "convencerán" ],
+			[ "convencerán" ]
+		],
+		"8" : [
+			[ "convenza" ],
+			[ "convenzas" ],
+			[ "convenza" ],
+			[ "convenzamos" ],
+			[ "convenzáis", "convenzan" ],
+			[ "convenzan" ]
+		],
+		"9" : [
+			[ "convenciera" ],
+			[ "convencieras" ],
+			[ "convenciera" ],
+			[ "convenciéramos" ],
+			[ "convencierais", "convencieran" ],
+			[ "convencieran" ]
+		],
+		"10" : [
+			[ "convenciese" ],
+			[ "convencieses" ],
+			[ "convenciese" ],
+			[ "convenciésemos" ],
+			[ "convencieseis", "convenciesen" ],
+			[ "convenciesen" ]
+		],
+		"11" : [
+			[ "convenciere" ],
+			[ "convencieres" ],
+			[ "convenciere" ],
+			[ "convenciéremos" ],
+			[ "convenciereis", "convencieren" ],
+			[ "convencieren" ]
+		],
+		"12" : {
+			"1" : [ "convence" ],
+			"2" : [ "convenza" ],
+			"3" : [ "convenzamos" ],
+			"4" : [ "convenced" ],
+			"5" : [ "convenzan" ]
+		}
+	}
+}

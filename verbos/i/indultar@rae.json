@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=indultar",
+	"word" : "indultar",
+	"infinitivo" : "indultar",
+	"participio" : [ "indultado" ],
+	"gerundio" : [ "indultando" ],
+	"tenses" : {
+		"3" : [
+			[ "indulto" ],
+			[ "indultas", "indultás" ],
+			[ "indulta" ],
+			[ "indultamos" ],
+			[ "indultáis", "indultan" ],
+			[ "indultan" ]
+		],
+		"4" : [
+			[ "indulté" ],
+			[ "indultaste" ],
+			[ "indultó" ],
+			[ "indultamos" ],
+			[ "indultasteis", "indultaron" ],
+			[ "indultaron" ]
+		],
+		"5" : [
+			[ "indultaba" ],
+			[ "indultabas" ],
+			[ "indultaba" ],
+			[ "indultábamos" ],
+			[ "indultabais", "indultaban" ],
+			[ "indultaban" ]
+		],
+		"6" : [
+			[ "indultaría" ],
+			[ "indultarías" ],
+			[ "indultaría" ],
+			[ "indultaríamos" ],
+			[ "indultaríais", "indultarían" ],
+			[ "indultarían" ]
+		],
+		"7" : [
+			[ "indultaré" ],
+			[ "indultarás" ],
+			[ "indultará" ],
+			[ "indultaremos" ],
+			[ "indultaréis", "indultarán" ],
+			[ "indultarán" ]
+		],
+		"8" : [
+			[ "indulte" ],
+			[ "indultes" ],
+			[ "indulte" ],
+			[ "indultemos" ],
+			[ "indultéis", "indulten" ],
+			[ "indulten" ]
+		],
+		"9" : [
+			[ "indultara" ],
+			[ "indultaras" ],
+			[ "indultara" ],
+			[ "indultáramos" ],
+			[ "indultarais", "indultaran" ],
+			[ "indultaran" ]
+		],
+		"10" : [
+			[ "indultase" ],
+			[ "indultases" ],
+			[ "indultase" ],
+			[ "indultásemos" ],
+			[ "indultaseis", "indultasen" ],
+			[ "indultasen" ]
+		],
+		"11" : [
+			[ "indultare" ],
+			[ "indultares" ],
+			[ "indultare" ],
+			[ "indultáremos" ],
+			[ "indultareis", "indultaren" ],
+			[ "indultaren" ]
+		],
+		"12" : {
+			"1" : [ "indulta" ],
+			"2" : [ "indulte" ],
+			"3" : [ "indultemos" ],
+			"4" : [ "indultad" ],
+			"5" : [ "indulten" ]
+		}
+	}
+}

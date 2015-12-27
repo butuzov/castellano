@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remozar",
+	"word" : "remozar",
+	"infinitivo" : "remozar",
+	"participio" : [ "remozado" ],
+	"gerundio" : [ "remozando" ],
+	"tenses" : {
+		"3" : [
+			[ "remozo" ],
+			[ "remozas", "remozás" ],
+			[ "remoza" ],
+			[ "remozamos" ],
+			[ "remozáis", "remozan" ],
+			[ "remozan" ]
+		],
+		"4" : [
+			[ "remocé" ],
+			[ "remozaste" ],
+			[ "remozó" ],
+			[ "remozamos" ],
+			[ "remozasteis", "remozaron" ],
+			[ "remozaron" ]
+		],
+		"5" : [
+			[ "remozaba" ],
+			[ "remozabas" ],
+			[ "remozaba" ],
+			[ "remozábamos" ],
+			[ "remozabais", "remozaban" ],
+			[ "remozaban" ]
+		],
+		"6" : [
+			[ "remozaría" ],
+			[ "remozarías" ],
+			[ "remozaría" ],
+			[ "remozaríamos" ],
+			[ "remozaríais", "remozarían" ],
+			[ "remozarían" ]
+		],
+		"7" : [
+			[ "remozaré" ],
+			[ "remozarás" ],
+			[ "remozará" ],
+			[ "remozaremos" ],
+			[ "remozaréis", "remozarán" ],
+			[ "remozarán" ]
+		],
+		"8" : [
+			[ "remoce" ],
+			[ "remoces" ],
+			[ "remoce" ],
+			[ "remocemos" ],
+			[ "remocéis", "remocen" ],
+			[ "remocen" ]
+		],
+		"9" : [
+			[ "remozara" ],
+			[ "remozaras" ],
+			[ "remozara" ],
+			[ "remozáramos" ],
+			[ "remozarais", "remozaran" ],
+			[ "remozaran" ]
+		],
+		"10" : [
+			[ "remozase" ],
+			[ "remozases" ],
+			[ "remozase" ],
+			[ "remozásemos" ],
+			[ "remozaseis", "remozasen" ],
+			[ "remozasen" ]
+		],
+		"11" : [
+			[ "remozare" ],
+			[ "remozares" ],
+			[ "remozare" ],
+			[ "remozáremos" ],
+			[ "remozareis", "remozaren" ],
+			[ "remozaren" ]
+		],
+		"12" : {
+			"1" : [ "remoza" ],
+			"2" : [ "remoce" ],
+			"3" : [ "remocemos" ],
+			"4" : [ "remozad" ],
+			"5" : [ "remocen" ]
+		}
+	}
+}

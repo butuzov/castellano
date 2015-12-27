@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anotar",
+	"word" : "anotar",
+	"infinitivo" : "anotar",
+	"participio" : [ "anotado" ],
+	"gerundio" : [ "anotando" ],
+	"tenses" : {
+		"3" : [
+			[ "anoto" ],
+			[ "anotas", "anotás" ],
+			[ "anota" ],
+			[ "anotamos" ],
+			[ "anotáis", "anotan" ],
+			[ "anotan" ]
+		],
+		"4" : [
+			[ "anoté" ],
+			[ "anotaste" ],
+			[ "anotó" ],
+			[ "anotamos" ],
+			[ "anotasteis", "anotaron" ],
+			[ "anotaron" ]
+		],
+		"5" : [
+			[ "anotaba" ],
+			[ "anotabas" ],
+			[ "anotaba" ],
+			[ "anotábamos" ],
+			[ "anotabais", "anotaban" ],
+			[ "anotaban" ]
+		],
+		"6" : [
+			[ "anotaría" ],
+			[ "anotarías" ],
+			[ "anotaría" ],
+			[ "anotaríamos" ],
+			[ "anotaríais", "anotarían" ],
+			[ "anotarían" ]
+		],
+		"7" : [
+			[ "anotaré" ],
+			[ "anotarás" ],
+			[ "anotará" ],
+			[ "anotaremos" ],
+			[ "anotaréis", "anotarán" ],
+			[ "anotarán" ]
+		],
+		"8" : [
+			[ "anote" ],
+			[ "anotes" ],
+			[ "anote" ],
+			[ "anotemos" ],
+			[ "anotéis", "anoten" ],
+			[ "anoten" ]
+		],
+		"9" : [
+			[ "anotara" ],
+			[ "anotaras" ],
+			[ "anotara" ],
+			[ "anotáramos" ],
+			[ "anotarais", "anotaran" ],
+			[ "anotaran" ]
+		],
+		"10" : [
+			[ "anotase" ],
+			[ "anotases" ],
+			[ "anotase" ],
+			[ "anotásemos" ],
+			[ "anotaseis", "anotasen" ],
+			[ "anotasen" ]
+		],
+		"11" : [
+			[ "anotare" ],
+			[ "anotares" ],
+			[ "anotare" ],
+			[ "anotáremos" ],
+			[ "anotareis", "anotaren" ],
+			[ "anotaren" ]
+		],
+		"12" : {
+			"1" : [ "anota" ],
+			"2" : [ "anote" ],
+			"3" : [ "anotemos" ],
+			"4" : [ "anotad" ],
+			"5" : [ "anoten" ]
+		}
+	}
+}

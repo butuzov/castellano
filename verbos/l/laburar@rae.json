@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=laburar",
+	"word" : "laburar",
+	"infinitivo" : "laburar",
+	"participio" : [ "laburado" ],
+	"gerundio" : [ "laburando" ],
+	"tenses" : {
+		"3" : [
+			[ "laburo" ],
+			[ "laburas", "laburás" ],
+			[ "labura" ],
+			[ "laburamos" ],
+			[ "laburáis", "laburan" ],
+			[ "laburan" ]
+		],
+		"4" : [
+			[ "laburé" ],
+			[ "laburaste" ],
+			[ "laburó" ],
+			[ "laburamos" ],
+			[ "laburasteis", "laburaron" ],
+			[ "laburaron" ]
+		],
+		"5" : [
+			[ "laburaba" ],
+			[ "laburabas" ],
+			[ "laburaba" ],
+			[ "laburábamos" ],
+			[ "laburabais", "laburaban" ],
+			[ "laburaban" ]
+		],
+		"6" : [
+			[ "laburaría" ],
+			[ "laburarías" ],
+			[ "laburaría" ],
+			[ "laburaríamos" ],
+			[ "laburaríais", "laburarían" ],
+			[ "laburarían" ]
+		],
+		"7" : [
+			[ "laburaré" ],
+			[ "laburarás" ],
+			[ "laburará" ],
+			[ "laburaremos" ],
+			[ "laburaréis", "laburarán" ],
+			[ "laburarán" ]
+		],
+		"8" : [
+			[ "labure" ],
+			[ "labures" ],
+			[ "labure" ],
+			[ "laburemos" ],
+			[ "laburéis", "laburen" ],
+			[ "laburen" ]
+		],
+		"9" : [
+			[ "laburara" ],
+			[ "laburaras" ],
+			[ "laburara" ],
+			[ "laburáramos" ],
+			[ "laburarais", "laburaran" ],
+			[ "laburaran" ]
+		],
+		"10" : [
+			[ "laburase" ],
+			[ "laburases" ],
+			[ "laburase" ],
+			[ "laburásemos" ],
+			[ "laburaseis", "laburasen" ],
+			[ "laburasen" ]
+		],
+		"11" : [
+			[ "laburare" ],
+			[ "laburares" ],
+			[ "laburare" ],
+			[ "laburáremos" ],
+			[ "laburareis", "laburaren" ],
+			[ "laburaren" ]
+		],
+		"12" : {
+			"1" : [ "labura" ],
+			"2" : [ "labure" ],
+			"3" : [ "laburemos" ],
+			"4" : [ "laburad" ],
+			"5" : [ "laburen" ]
+		}
+	}
+}

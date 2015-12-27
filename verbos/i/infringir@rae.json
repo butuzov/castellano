@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=infringir",
+	"word" : "infringir",
+	"infinitivo" : "infringir",
+	"participio" : [ "infringido" ],
+	"gerundio" : [ "infringiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "infrinjo" ],
+			[ "infringes", "infringís" ],
+			[ "infringe" ],
+			[ "infringimos" ],
+			[ "infringís", "infringen" ],
+			[ "infringen" ]
+		],
+		"4" : [
+			[ "infringí" ],
+			[ "infringiste" ],
+			[ "infringió" ],
+			[ "infringimos" ],
+			[ "infringisteis", "infringieron" ],
+			[ "infringieron" ]
+		],
+		"5" : [
+			[ "infringía" ],
+			[ "infringías" ],
+			[ "infringía" ],
+			[ "infringíamos" ],
+			[ "infringíais", "infringían" ],
+			[ "infringían" ]
+		],
+		"6" : [
+			[ "infringiría" ],
+			[ "infringirías" ],
+			[ "infringiría" ],
+			[ "infringiríamos" ],
+			[ "infringiríais", "infringirían" ],
+			[ "infringirían" ]
+		],
+		"7" : [
+			[ "infringiré" ],
+			[ "infringirás" ],
+			[ "infringirá" ],
+			[ "infringiremos" ],
+			[ "infringiréis", "infringirán" ],
+			[ "infringirán" ]
+		],
+		"8" : [
+			[ "infrinja" ],
+			[ "infrinjas" ],
+			[ "infrinja" ],
+			[ "infrinjamos" ],
+			[ "infrinjáis", "infrinjan" ],
+			[ "infrinjan" ]
+		],
+		"9" : [
+			[ "infringiera" ],
+			[ "infringieras" ],
+			[ "infringiera" ],
+			[ "infringiéramos" ],
+			[ "infringierais", "infringieran" ],
+			[ "infringieran" ]
+		],
+		"10" : [
+			[ "infringiese" ],
+			[ "infringieses" ],
+			[ "infringiese" ],
+			[ "infringiésemos" ],
+			[ "infringieseis", "infringiesen" ],
+			[ "infringiesen" ]
+		],
+		"11" : [
+			[ "infringiere" ],
+			[ "infringieres" ],
+			[ "infringiere" ],
+			[ "infringiéremos" ],
+			[ "infringiereis", "infringieren" ],
+			[ "infringieren" ]
+		],
+		"12" : {
+			"1" : [ "infringe" ],
+			"2" : [ "infrinja" ],
+			"3" : [ "infrinjamos" ],
+			"4" : [ "infringid" ],
+			"5" : [ "infrinjan" ]
+		}
+	}
+}

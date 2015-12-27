@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=minorar",
+	"word" : "minorar",
+	"infinitivo" : "minorar",
+	"participio" : [ "minorado" ],
+	"gerundio" : [ "minorando" ],
+	"tenses" : {
+		"3" : [
+			[ "minoro" ],
+			[ "minoras", "minorás" ],
+			[ "minora" ],
+			[ "minoramos" ],
+			[ "minoráis", "minoran" ],
+			[ "minoran" ]
+		],
+		"4" : [
+			[ "minoré" ],
+			[ "minoraste" ],
+			[ "minoró" ],
+			[ "minoramos" ],
+			[ "minorasteis", "minoraron" ],
+			[ "minoraron" ]
+		],
+		"5" : [
+			[ "minoraba" ],
+			[ "minorabas" ],
+			[ "minoraba" ],
+			[ "minorábamos" ],
+			[ "minorabais", "minoraban" ],
+			[ "minoraban" ]
+		],
+		"6" : [
+			[ "minoraría" ],
+			[ "minorarías" ],
+			[ "minoraría" ],
+			[ "minoraríamos" ],
+			[ "minoraríais", "minorarían" ],
+			[ "minorarían" ]
+		],
+		"7" : [
+			[ "minoraré" ],
+			[ "minorarás" ],
+			[ "minorará" ],
+			[ "minoraremos" ],
+			[ "minoraréis", "minorarán" ],
+			[ "minorarán" ]
+		],
+		"8" : [
+			[ "minore" ],
+			[ "minores" ],
+			[ "minore" ],
+			[ "minoremos" ],
+			[ "minoréis", "minoren" ],
+			[ "minoren" ]
+		],
+		"9" : [
+			[ "minorara" ],
+			[ "minoraras" ],
+			[ "minorara" ],
+			[ "minoráramos" ],
+			[ "minorarais", "minoraran" ],
+			[ "minoraran" ]
+		],
+		"10" : [
+			[ "minorase" ],
+			[ "minorases" ],
+			[ "minorase" ],
+			[ "minorásemos" ],
+			[ "minoraseis", "minorasen" ],
+			[ "minorasen" ]
+		],
+		"11" : [
+			[ "minorare" ],
+			[ "minorares" ],
+			[ "minorare" ],
+			[ "minoráremos" ],
+			[ "minorareis", "minoraren" ],
+			[ "minoraren" ]
+		],
+		"12" : {
+			"1" : [ "minora" ],
+			"2" : [ "minore" ],
+			"3" : [ "minoremos" ],
+			"4" : [ "minorad" ],
+			"5" : [ "minoren" ]
+		}
+	}
+}

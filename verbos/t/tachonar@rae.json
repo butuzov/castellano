@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tachonar",
+	"word" : "tachonar",
+	"infinitivo" : "tachonar",
+	"participio" : [ "tachonado" ],
+	"gerundio" : [ "tachonando" ],
+	"tenses" : {
+		"3" : [
+			[ "tachono" ],
+			[ "tachonas", "tachonás" ],
+			[ "tachona" ],
+			[ "tachonamos" ],
+			[ "tachonáis", "tachonan" ],
+			[ "tachonan" ]
+		],
+		"4" : [
+			[ "tachoné" ],
+			[ "tachonaste" ],
+			[ "tachonó" ],
+			[ "tachonamos" ],
+			[ "tachonasteis", "tachonaron" ],
+			[ "tachonaron" ]
+		],
+		"5" : [
+			[ "tachonaba" ],
+			[ "tachonabas" ],
+			[ "tachonaba" ],
+			[ "tachonábamos" ],
+			[ "tachonabais", "tachonaban" ],
+			[ "tachonaban" ]
+		],
+		"6" : [
+			[ "tachonaría" ],
+			[ "tachonarías" ],
+			[ "tachonaría" ],
+			[ "tachonaríamos" ],
+			[ "tachonaríais", "tachonarían" ],
+			[ "tachonarían" ]
+		],
+		"7" : [
+			[ "tachonaré" ],
+			[ "tachonarás" ],
+			[ "tachonará" ],
+			[ "tachonaremos" ],
+			[ "tachonaréis", "tachonarán" ],
+			[ "tachonarán" ]
+		],
+		"8" : [
+			[ "tachone" ],
+			[ "tachones" ],
+			[ "tachone" ],
+			[ "tachonemos" ],
+			[ "tachonéis", "tachonen" ],
+			[ "tachonen" ]
+		],
+		"9" : [
+			[ "tachonara" ],
+			[ "tachonaras" ],
+			[ "tachonara" ],
+			[ "tachonáramos" ],
+			[ "tachonarais", "tachonaran" ],
+			[ "tachonaran" ]
+		],
+		"10" : [
+			[ "tachonase" ],
+			[ "tachonases" ],
+			[ "tachonase" ],
+			[ "tachonásemos" ],
+			[ "tachonaseis", "tachonasen" ],
+			[ "tachonasen" ]
+		],
+		"11" : [
+			[ "tachonare" ],
+			[ "tachonares" ],
+			[ "tachonare" ],
+			[ "tachonáremos" ],
+			[ "tachonareis", "tachonaren" ],
+			[ "tachonaren" ]
+		],
+		"12" : {
+			"1" : [ "tachona" ],
+			"2" : [ "tachone" ],
+			"3" : [ "tachonemos" ],
+			"4" : [ "tachonad" ],
+			"5" : [ "tachonen" ]
+		}
+	}
+}

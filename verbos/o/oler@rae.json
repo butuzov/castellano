@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=oler",
+	"word" : "oler",
+	"infinitivo" : "oler",
+	"participio" : [ "olido" ],
+	"gerundio" : [ "oliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "huelo" ],
+			[ "hueles", "olés" ],
+			[ "huele" ],
+			[ "olemos" ],
+			[ "oléis", "huelen" ],
+			[ "huelen" ]
+		],
+		"4" : [
+			[ "olí" ],
+			[ "oliste" ],
+			[ "olió" ],
+			[ "olimos" ],
+			[ "olisteis", "olieron" ],
+			[ "olieron" ]
+		],
+		"5" : [
+			[ "olía" ],
+			[ "olías" ],
+			[ "olía" ],
+			[ "olíamos" ],
+			[ "olíais", "olían" ],
+			[ "olían" ]
+		],
+		"6" : [
+			[ "olería" ],
+			[ "olerías" ],
+			[ "olería" ],
+			[ "oleríamos" ],
+			[ "oleríais", "olerían" ],
+			[ "olerían" ]
+		],
+		"7" : [
+			[ "oleré" ],
+			[ "olerás" ],
+			[ "olerá" ],
+			[ "oleremos" ],
+			[ "oleréis", "olerán" ],
+			[ "olerán" ]
+		],
+		"8" : [
+			[ "huela" ],
+			[ "huelas" ],
+			[ "huela" ],
+			[ "olamos" ],
+			[ "oláis", "huelan" ],
+			[ "huelan" ]
+		],
+		"9" : [
+			[ "oliera" ],
+			[ "olieras" ],
+			[ "oliera" ],
+			[ "oliéramos" ],
+			[ "olierais", "olieran" ],
+			[ "olieran" ]
+		],
+		"10" : [
+			[ "oliese" ],
+			[ "olieses" ],
+			[ "oliese" ],
+			[ "oliésemos" ],
+			[ "olieseis", "oliesen" ],
+			[ "oliesen" ]
+		],
+		"11" : [
+			[ "oliere" ],
+			[ "olieres" ],
+			[ "oliere" ],
+			[ "oliéremos" ],
+			[ "oliereis", "olieren" ],
+			[ "olieren" ]
+		],
+		"12" : {
+			"1" : [ "huele" ],
+			"2" : [ "huela" ],
+			"3" : [ "olamos" ],
+			"4" : [ "oled" ],
+			"5" : [ "huelan" ]
+		}
+	}
+}

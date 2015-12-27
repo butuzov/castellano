@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fantasear",
+	"word" : "fantasear",
+	"infinitivo" : "fantasear",
+	"participio" : [ "fantaseado" ],
+	"gerundio" : [ "fantaseando" ],
+	"tenses" : {
+		"3" : [
+			[ "fantaseo" ],
+			[ "fantaseas", "fantaseás" ],
+			[ "fantasea" ],
+			[ "fantaseamos" ],
+			[ "fantaseáis", "fantasean" ],
+			[ "fantasean" ]
+		],
+		"4" : [
+			[ "fantaseé" ],
+			[ "fantaseaste" ],
+			[ "fantaseó" ],
+			[ "fantaseamos" ],
+			[ "fantaseasteis", "fantasearon" ],
+			[ "fantasearon" ]
+		],
+		"5" : [
+			[ "fantaseaba" ],
+			[ "fantaseabas" ],
+			[ "fantaseaba" ],
+			[ "fantaseábamos" ],
+			[ "fantaseabais", "fantaseaban" ],
+			[ "fantaseaban" ]
+		],
+		"6" : [
+			[ "fantasearía" ],
+			[ "fantasearías" ],
+			[ "fantasearía" ],
+			[ "fantasearíamos" ],
+			[ "fantasearíais", "fantasearían" ],
+			[ "fantasearían" ]
+		],
+		"7" : [
+			[ "fantasearé" ],
+			[ "fantasearás" ],
+			[ "fantaseará" ],
+			[ "fantasearemos" ],
+			[ "fantasearéis", "fantasearán" ],
+			[ "fantasearán" ]
+		],
+		"8" : [
+			[ "fantasee" ],
+			[ "fantasees" ],
+			[ "fantasee" ],
+			[ "fantaseemos" ],
+			[ "fantaseéis", "fantaseen" ],
+			[ "fantaseen" ]
+		],
+		"9" : [
+			[ "fantaseara" ],
+			[ "fantasearas" ],
+			[ "fantaseara" ],
+			[ "fantaseáramos" ],
+			[ "fantasearais", "fantasearan" ],
+			[ "fantasearan" ]
+		],
+		"10" : [
+			[ "fantasease" ],
+			[ "fantaseases" ],
+			[ "fantasease" ],
+			[ "fantaseásemos" ],
+			[ "fantaseaseis", "fantaseasen" ],
+			[ "fantaseasen" ]
+		],
+		"11" : [
+			[ "fantaseare" ],
+			[ "fantaseares" ],
+			[ "fantaseare" ],
+			[ "fantaseáremos" ],
+			[ "fantaseareis", "fantasearen" ],
+			[ "fantasearen" ]
+		],
+		"12" : {
+			"1" : [ "fantasea" ],
+			"2" : [ "fantasee" ],
+			"3" : [ "fantaseemos" ],
+			"4" : [ "fantasead" ],
+			"5" : [ "fantaseen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=guarecer",
+	"word" : "guarecer",
+	"infinitivo" : "guarecer",
+	"participio" : [ "guarecido" ],
+	"gerundio" : [ "guareciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "guarezco" ],
+			[ "guareces", "guarecés" ],
+			[ "guarece" ],
+			[ "guarecemos" ],
+			[ "guarecéis", "guarecen" ],
+			[ "guarecen" ]
+		],
+		"4" : [
+			[ "guarecí" ],
+			[ "guareciste" ],
+			[ "guareció" ],
+			[ "guarecimos" ],
+			[ "guarecisteis", "guarecieron" ],
+			[ "guarecieron" ]
+		],
+		"5" : [
+			[ "guarecía" ],
+			[ "guarecías" ],
+			[ "guarecía" ],
+			[ "guarecíamos" ],
+			[ "guarecíais", "guarecían" ],
+			[ "guarecían" ]
+		],
+		"6" : [
+			[ "guarecería" ],
+			[ "guarecerías" ],
+			[ "guarecería" ],
+			[ "guareceríamos" ],
+			[ "guareceríais", "guarecerían" ],
+			[ "guarecerían" ]
+		],
+		"7" : [
+			[ "guareceré" ],
+			[ "guarecerás" ],
+			[ "guarecerá" ],
+			[ "guareceremos" ],
+			[ "guareceréis", "guarecerán" ],
+			[ "guarecerán" ]
+		],
+		"8" : [
+			[ "guarezca" ],
+			[ "guarezcas" ],
+			[ "guarezca" ],
+			[ "guarezcamos" ],
+			[ "guarezcáis", "guarezcan" ],
+			[ "guarezcan" ]
+		],
+		"9" : [
+			[ "guareciera" ],
+			[ "guarecieras" ],
+			[ "guareciera" ],
+			[ "guareciéramos" ],
+			[ "guarecierais", "guarecieran" ],
+			[ "guarecieran" ]
+		],
+		"10" : [
+			[ "guareciese" ],
+			[ "guarecieses" ],
+			[ "guareciese" ],
+			[ "guareciésemos" ],
+			[ "guarecieseis", "guareciesen" ],
+			[ "guareciesen" ]
+		],
+		"11" : [
+			[ "guareciere" ],
+			[ "guarecieres" ],
+			[ "guareciere" ],
+			[ "guareciéremos" ],
+			[ "guareciereis", "guarecieren" ],
+			[ "guarecieren" ]
+		],
+		"12" : {
+			"1" : [ "guarece" ],
+			"2" : [ "guarezca" ],
+			"3" : [ "guarezcamos" ],
+			"4" : [ "guareced" ],
+			"5" : [ "guarezcan" ]
+		}
+	}
+}

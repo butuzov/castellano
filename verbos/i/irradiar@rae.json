@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=irradiar",
+	"word" : "irradiar",
+	"infinitivo" : "irradiar",
+	"participio" : [ "irradiado" ],
+	"gerundio" : [ "irradiando" ],
+	"tenses" : {
+		"3" : [
+			[ "irradio" ],
+			[ "irradias", "irradiás" ],
+			[ "irradia" ],
+			[ "irradiamos" ],
+			[ "irradiáis", "irradian" ],
+			[ "irradian" ]
+		],
+		"4" : [
+			[ "irradié" ],
+			[ "irradiaste" ],
+			[ "irradió" ],
+			[ "irradiamos" ],
+			[ "irradiasteis", "irradiaron" ],
+			[ "irradiaron" ]
+		],
+		"5" : [
+			[ "irradiaba" ],
+			[ "irradiabas" ],
+			[ "irradiaba" ],
+			[ "irradiábamos" ],
+			[ "irradiabais", "irradiaban" ],
+			[ "irradiaban" ]
+		],
+		"6" : [
+			[ "irradiaría" ],
+			[ "irradiarías" ],
+			[ "irradiaría" ],
+			[ "irradiaríamos" ],
+			[ "irradiaríais", "irradiarían" ],
+			[ "irradiarían" ]
+		],
+		"7" : [
+			[ "irradiaré" ],
+			[ "irradiarás" ],
+			[ "irradiará" ],
+			[ "irradiaremos" ],
+			[ "irradiaréis", "irradiarán" ],
+			[ "irradiarán" ]
+		],
+		"8" : [
+			[ "irradie" ],
+			[ "irradies" ],
+			[ "irradie" ],
+			[ "irradiemos" ],
+			[ "irradiéis", "irradien" ],
+			[ "irradien" ]
+		],
+		"9" : [
+			[ "irradiara" ],
+			[ "irradiaras" ],
+			[ "irradiara" ],
+			[ "irradiáramos" ],
+			[ "irradiarais", "irradiaran" ],
+			[ "irradiaran" ]
+		],
+		"10" : [
+			[ "irradiase" ],
+			[ "irradiases" ],
+			[ "irradiase" ],
+			[ "irradiásemos" ],
+			[ "irradiaseis", "irradiasen" ],
+			[ "irradiasen" ]
+		],
+		"11" : [
+			[ "irradiare" ],
+			[ "irradiares" ],
+			[ "irradiare" ],
+			[ "irradiáremos" ],
+			[ "irradiareis", "irradiaren" ],
+			[ "irradiaren" ]
+		],
+		"12" : {
+			"1" : [ "irradia" ],
+			"2" : [ "irradie" ],
+			"3" : [ "irradiemos" ],
+			"4" : [ "irradiad" ],
+			"5" : [ "irradien" ]
+		}
+	}
+}

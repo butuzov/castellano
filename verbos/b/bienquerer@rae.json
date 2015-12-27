@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bienquerer",
+	"word" : "bienquerer",
+	"infinitivo" : "bienquerer",
+	"participio" : [ "bienquerido", "bienquisto" ],
+	"gerundio" : [ "bienqueriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "bienquiero" ],
+			[ "bienquieres", "bienquerés" ],
+			[ "bienquiere" ],
+			[ "bienqueremos" ],
+			[ "bienqueréis", "bienquieren" ],
+			[ "bienquieren" ]
+		],
+		"4" : [
+			[ "bienquise" ],
+			[ "bienquisiste" ],
+			[ "bienquiso" ],
+			[ "bienquisimos" ],
+			[ "bienquisisteis", "bienquisieron" ],
+			[ "bienquisieron" ]
+		],
+		"5" : [
+			[ "bienquería" ],
+			[ "bienquerías" ],
+			[ "bienquería" ],
+			[ "bienqueríamos" ],
+			[ "bienqueríais", "bienquerían" ],
+			[ "bienquerían" ]
+		],
+		"6" : [
+			[ "bienquerría" ],
+			[ "bienquerrías" ],
+			[ "bienquerría" ],
+			[ "bienquerríamos" ],
+			[ "bienquerríais", "bienquerrían" ],
+			[ "bienquerrían" ]
+		],
+		"7" : [
+			[ "bienquerré" ],
+			[ "bienquerrás" ],
+			[ "bienquerrá" ],
+			[ "bienquerremos" ],
+			[ "bienquerréis", "bienquerrán" ],
+			[ "bienquerrán" ]
+		],
+		"8" : [
+			[ "bienquiera" ],
+			[ "bienquieras" ],
+			[ "bienquiera" ],
+			[ "bienqueramos" ],
+			[ "bienqueráis", "bienquieran" ],
+			[ "bienquieran" ]
+		],
+		"9" : [
+			[ "bienquisiera" ],
+			[ "bienquisieras" ],
+			[ "bienquisiera" ],
+			[ "bienquisiéramos" ],
+			[ "bienquisierais", "bienquisieran" ],
+			[ "bienquisieran" ]
+		],
+		"10" : [
+			[ "bienquisiese" ],
+			[ "bienquisieses" ],
+			[ "bienquisiese" ],
+			[ "bienquisiésemos" ],
+			[ "bienquisieseis", "bienquisiesen" ],
+			[ "bienquisiesen" ]
+		],
+		"11" : [
+			[ "bienquisiere" ],
+			[ "bienquisieres" ],
+			[ "bienquisiere" ],
+			[ "bienquisiéremos" ],
+			[ "bienquisiereis", "bienquisieren" ],
+			[ "bienquisieren" ]
+		],
+		"12" : {
+			"1" : [ "bienquiere" ],
+			"2" : [ "bienquiera" ],
+			"3" : [ "bienqueramos" ],
+			"4" : [ "bienquered" ],
+			"5" : [ "bienquieran" ]
+		}
+	}
+}

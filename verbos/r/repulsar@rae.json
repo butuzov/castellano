@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repulsar",
+	"word" : "repulsar",
+	"infinitivo" : "repulsar",
+	"participio" : [ "repulsado" ],
+	"gerundio" : [ "repulsando" ],
+	"tenses" : {
+		"3" : [
+			[ "repulso" ],
+			[ "repulsas", "repulsás" ],
+			[ "repulsa" ],
+			[ "repulsamos" ],
+			[ "repulsáis", "repulsan" ],
+			[ "repulsan" ]
+		],
+		"4" : [
+			[ "repulsé" ],
+			[ "repulsaste" ],
+			[ "repulsó" ],
+			[ "repulsamos" ],
+			[ "repulsasteis", "repulsaron" ],
+			[ "repulsaron" ]
+		],
+		"5" : [
+			[ "repulsaba" ],
+			[ "repulsabas" ],
+			[ "repulsaba" ],
+			[ "repulsábamos" ],
+			[ "repulsabais", "repulsaban" ],
+			[ "repulsaban" ]
+		],
+		"6" : [
+			[ "repulsaría" ],
+			[ "repulsarías" ],
+			[ "repulsaría" ],
+			[ "repulsaríamos" ],
+			[ "repulsaríais", "repulsarían" ],
+			[ "repulsarían" ]
+		],
+		"7" : [
+			[ "repulsaré" ],
+			[ "repulsarás" ],
+			[ "repulsará" ],
+			[ "repulsaremos" ],
+			[ "repulsaréis", "repulsarán" ],
+			[ "repulsarán" ]
+		],
+		"8" : [
+			[ "repulse" ],
+			[ "repulses" ],
+			[ "repulse" ],
+			[ "repulsemos" ],
+			[ "repulséis", "repulsen" ],
+			[ "repulsen" ]
+		],
+		"9" : [
+			[ "repulsara" ],
+			[ "repulsaras" ],
+			[ "repulsara" ],
+			[ "repulsáramos" ],
+			[ "repulsarais", "repulsaran" ],
+			[ "repulsaran" ]
+		],
+		"10" : [
+			[ "repulsase" ],
+			[ "repulsases" ],
+			[ "repulsase" ],
+			[ "repulsásemos" ],
+			[ "repulsaseis", "repulsasen" ],
+			[ "repulsasen" ]
+		],
+		"11" : [
+			[ "repulsare" ],
+			[ "repulsares" ],
+			[ "repulsare" ],
+			[ "repulsáremos" ],
+			[ "repulsareis", "repulsaren" ],
+			[ "repulsaren" ]
+		],
+		"12" : {
+			"1" : [ "repulsa" ],
+			"2" : [ "repulse" ],
+			"3" : [ "repulsemos" ],
+			"4" : [ "repulsad" ],
+			"5" : [ "repulsen" ]
+		}
+	}
+}

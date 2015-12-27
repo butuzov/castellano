@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hurtar",
+	"word" : "hurtar",
+	"infinitivo" : "hurtar",
+	"participio" : [ "hurtado" ],
+	"gerundio" : [ "hurtando" ],
+	"tenses" : {
+		"3" : [
+			[ "hurto" ],
+			[ "hurtas", "hurtás" ],
+			[ "hurta" ],
+			[ "hurtamos" ],
+			[ "hurtáis", "hurtan" ],
+			[ "hurtan" ]
+		],
+		"4" : [
+			[ "hurté" ],
+			[ "hurtaste" ],
+			[ "hurtó" ],
+			[ "hurtamos" ],
+			[ "hurtasteis", "hurtaron" ],
+			[ "hurtaron" ]
+		],
+		"5" : [
+			[ "hurtaba" ],
+			[ "hurtabas" ],
+			[ "hurtaba" ],
+			[ "hurtábamos" ],
+			[ "hurtabais", "hurtaban" ],
+			[ "hurtaban" ]
+		],
+		"6" : [
+			[ "hurtaría" ],
+			[ "hurtarías" ],
+			[ "hurtaría" ],
+			[ "hurtaríamos" ],
+			[ "hurtaríais", "hurtarían" ],
+			[ "hurtarían" ]
+		],
+		"7" : [
+			[ "hurtaré" ],
+			[ "hurtarás" ],
+			[ "hurtará" ],
+			[ "hurtaremos" ],
+			[ "hurtaréis", "hurtarán" ],
+			[ "hurtarán" ]
+		],
+		"8" : [
+			[ "hurte" ],
+			[ "hurtes" ],
+			[ "hurte" ],
+			[ "hurtemos" ],
+			[ "hurtéis", "hurten" ],
+			[ "hurten" ]
+		],
+		"9" : [
+			[ "hurtara" ],
+			[ "hurtaras" ],
+			[ "hurtara" ],
+			[ "hurtáramos" ],
+			[ "hurtarais", "hurtaran" ],
+			[ "hurtaran" ]
+		],
+		"10" : [
+			[ "hurtase" ],
+			[ "hurtases" ],
+			[ "hurtase" ],
+			[ "hurtásemos" ],
+			[ "hurtaseis", "hurtasen" ],
+			[ "hurtasen" ]
+		],
+		"11" : [
+			[ "hurtare" ],
+			[ "hurtares" ],
+			[ "hurtare" ],
+			[ "hurtáremos" ],
+			[ "hurtareis", "hurtaren" ],
+			[ "hurtaren" ]
+		],
+		"12" : {
+			"1" : [ "hurta" ],
+			"2" : [ "hurte" ],
+			"3" : [ "hurtemos" ],
+			"4" : [ "hurtad" ],
+			"5" : [ "hurten" ]
+		}
+	}
+}

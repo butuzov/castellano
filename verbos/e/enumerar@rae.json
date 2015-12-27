@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enumerar",
+	"word" : "enumerar",
+	"infinitivo" : "enumerar",
+	"participio" : [ "enumerado" ],
+	"gerundio" : [ "enumerando" ],
+	"tenses" : {
+		"3" : [
+			[ "enumero" ],
+			[ "enumeras", "enumerás" ],
+			[ "enumera" ],
+			[ "enumeramos" ],
+			[ "enumeráis", "enumeran" ],
+			[ "enumeran" ]
+		],
+		"4" : [
+			[ "enumeré" ],
+			[ "enumeraste" ],
+			[ "enumeró" ],
+			[ "enumeramos" ],
+			[ "enumerasteis", "enumeraron" ],
+			[ "enumeraron" ]
+		],
+		"5" : [
+			[ "enumeraba" ],
+			[ "enumerabas" ],
+			[ "enumeraba" ],
+			[ "enumerábamos" ],
+			[ "enumerabais", "enumeraban" ],
+			[ "enumeraban" ]
+		],
+		"6" : [
+			[ "enumeraría" ],
+			[ "enumerarías" ],
+			[ "enumeraría" ],
+			[ "enumeraríamos" ],
+			[ "enumeraríais", "enumerarían" ],
+			[ "enumerarían" ]
+		],
+		"7" : [
+			[ "enumeraré" ],
+			[ "enumerarás" ],
+			[ "enumerará" ],
+			[ "enumeraremos" ],
+			[ "enumeraréis", "enumerarán" ],
+			[ "enumerarán" ]
+		],
+		"8" : [
+			[ "enumere" ],
+			[ "enumeres" ],
+			[ "enumere" ],
+			[ "enumeremos" ],
+			[ "enumeréis", "enumeren" ],
+			[ "enumeren" ]
+		],
+		"9" : [
+			[ "enumerara" ],
+			[ "enumeraras" ],
+			[ "enumerara" ],
+			[ "enumeráramos" ],
+			[ "enumerarais", "enumeraran" ],
+			[ "enumeraran" ]
+		],
+		"10" : [
+			[ "enumerase" ],
+			[ "enumerases" ],
+			[ "enumerase" ],
+			[ "enumerásemos" ],
+			[ "enumeraseis", "enumerasen" ],
+			[ "enumerasen" ]
+		],
+		"11" : [
+			[ "enumerare" ],
+			[ "enumerares" ],
+			[ "enumerare" ],
+			[ "enumeráremos" ],
+			[ "enumerareis", "enumeraren" ],
+			[ "enumeraren" ]
+		],
+		"12" : {
+			"1" : [ "enumera" ],
+			"2" : [ "enumere" ],
+			"3" : [ "enumeremos" ],
+			"4" : [ "enumerad" ],
+			"5" : [ "enumeren" ]
+		}
+	}
+}

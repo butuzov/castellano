@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ausentar",
+	"word" : "ausentar",
+	"infinitivo" : "ausentar",
+	"participio" : [ "ausentado" ],
+	"gerundio" : [ "ausentando" ],
+	"tenses" : {
+		"3" : [
+			[ "ausento" ],
+			[ "ausentas", "ausentás" ],
+			[ "ausenta" ],
+			[ "ausentamos" ],
+			[ "ausentáis", "ausentan" ],
+			[ "ausentan" ]
+		],
+		"4" : [
+			[ "ausenté" ],
+			[ "ausentaste" ],
+			[ "ausentó" ],
+			[ "ausentamos" ],
+			[ "ausentasteis", "ausentaron" ],
+			[ "ausentaron" ]
+		],
+		"5" : [
+			[ "ausentaba" ],
+			[ "ausentabas" ],
+			[ "ausentaba" ],
+			[ "ausentábamos" ],
+			[ "ausentabais", "ausentaban" ],
+			[ "ausentaban" ]
+		],
+		"6" : [
+			[ "ausentaría" ],
+			[ "ausentarías" ],
+			[ "ausentaría" ],
+			[ "ausentaríamos" ],
+			[ "ausentaríais", "ausentarían" ],
+			[ "ausentarían" ]
+		],
+		"7" : [
+			[ "ausentaré" ],
+			[ "ausentarás" ],
+			[ "ausentará" ],
+			[ "ausentaremos" ],
+			[ "ausentaréis", "ausentarán" ],
+			[ "ausentarán" ]
+		],
+		"8" : [
+			[ "ausente" ],
+			[ "ausentes" ],
+			[ "ausente" ],
+			[ "ausentemos" ],
+			[ "ausentéis", "ausenten" ],
+			[ "ausenten" ]
+		],
+		"9" : [
+			[ "ausentara" ],
+			[ "ausentaras" ],
+			[ "ausentara" ],
+			[ "ausentáramos" ],
+			[ "ausentarais", "ausentaran" ],
+			[ "ausentaran" ]
+		],
+		"10" : [
+			[ "ausentase" ],
+			[ "ausentases" ],
+			[ "ausentase" ],
+			[ "ausentásemos" ],
+			[ "ausentaseis", "ausentasen" ],
+			[ "ausentasen" ]
+		],
+		"11" : [
+			[ "ausentare" ],
+			[ "ausentares" ],
+			[ "ausentare" ],
+			[ "ausentáremos" ],
+			[ "ausentareis", "ausentaren" ],
+			[ "ausentaren" ]
+		],
+		"12" : {
+			"1" : [ "ausenta" ],
+			"2" : [ "ausente" ],
+			"3" : [ "ausentemos" ],
+			"4" : [ "ausentad" ],
+			"5" : [ "ausenten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=medicar",
+	"word" : "medicar",
+	"infinitivo" : "medicar",
+	"participio" : [ "medicado" ],
+	"gerundio" : [ "medicando" ],
+	"tenses" : {
+		"3" : [
+			[ "medico" ],
+			[ "medicas", "medicás" ],
+			[ "medica" ],
+			[ "medicamos" ],
+			[ "medicáis", "medican" ],
+			[ "medican" ]
+		],
+		"4" : [
+			[ "mediqué" ],
+			[ "medicaste" ],
+			[ "medicó" ],
+			[ "medicamos" ],
+			[ "medicasteis", "medicaron" ],
+			[ "medicaron" ]
+		],
+		"5" : [
+			[ "medicaba" ],
+			[ "medicabas" ],
+			[ "medicaba" ],
+			[ "medicábamos" ],
+			[ "medicabais", "medicaban" ],
+			[ "medicaban" ]
+		],
+		"6" : [
+			[ "medicaría" ],
+			[ "medicarías" ],
+			[ "medicaría" ],
+			[ "medicaríamos" ],
+			[ "medicaríais", "medicarían" ],
+			[ "medicarían" ]
+		],
+		"7" : [
+			[ "medicaré" ],
+			[ "medicarás" ],
+			[ "medicará" ],
+			[ "medicaremos" ],
+			[ "medicaréis", "medicarán" ],
+			[ "medicarán" ]
+		],
+		"8" : [
+			[ "medique" ],
+			[ "mediques" ],
+			[ "medique" ],
+			[ "mediquemos" ],
+			[ "mediquéis", "mediquen" ],
+			[ "mediquen" ]
+		],
+		"9" : [
+			[ "medicara" ],
+			[ "medicaras" ],
+			[ "medicara" ],
+			[ "medicáramos" ],
+			[ "medicarais", "medicaran" ],
+			[ "medicaran" ]
+		],
+		"10" : [
+			[ "medicase" ],
+			[ "medicases" ],
+			[ "medicase" ],
+			[ "medicásemos" ],
+			[ "medicaseis", "medicasen" ],
+			[ "medicasen" ]
+		],
+		"11" : [
+			[ "medicare" ],
+			[ "medicares" ],
+			[ "medicare" ],
+			[ "medicáremos" ],
+			[ "medicareis", "medicaren" ],
+			[ "medicaren" ]
+		],
+		"12" : {
+			"1" : [ "medica" ],
+			"2" : [ "medique" ],
+			"3" : [ "mediquemos" ],
+			"4" : [ "medicad" ],
+			"5" : [ "mediquen" ]
+		}
+	}
+}

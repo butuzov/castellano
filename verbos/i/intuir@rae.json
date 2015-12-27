@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=intuir",
+	"word" : "intuir",
+	"infinitivo" : "intuir",
+	"participio" : [ "intuido" ],
+	"gerundio" : [ "intuyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "intuyo" ],
+			[ "intuyes", "intuís" ],
+			[ "intuye" ],
+			[ "intuimos" ],
+			[ "intuís", "intuyen" ],
+			[ "intuyen" ]
+		],
+		"4" : [
+			[ "intuí" ],
+			[ "intuiste" ],
+			[ "intuyó" ],
+			[ "intuimos" ],
+			[ "intuisteis", "intuyeron" ],
+			[ "intuyeron" ]
+		],
+		"5" : [
+			[ "intuía" ],
+			[ "intuías" ],
+			[ "intuía" ],
+			[ "intuíamos" ],
+			[ "intuíais", "intuían" ],
+			[ "intuían" ]
+		],
+		"6" : [
+			[ "intuiría" ],
+			[ "intuirías" ],
+			[ "intuiría" ],
+			[ "intuiríamos" ],
+			[ "intuiríais", "intuirían" ],
+			[ "intuirían" ]
+		],
+		"7" : [
+			[ "intuiré" ],
+			[ "intuirás" ],
+			[ "intuirá" ],
+			[ "intuiremos" ],
+			[ "intuiréis", "intuirán" ],
+			[ "intuirán" ]
+		],
+		"8" : [
+			[ "intuya" ],
+			[ "intuyas" ],
+			[ "intuya" ],
+			[ "intuyamos" ],
+			[ "intuyáis", "intuyan" ],
+			[ "intuyan" ]
+		],
+		"9" : [
+			[ "intuyera" ],
+			[ "intuyeras" ],
+			[ "intuyera" ],
+			[ "intuyéramos" ],
+			[ "intuyerais", "intuyeran" ],
+			[ "intuyeran" ]
+		],
+		"10" : [
+			[ "intuyese" ],
+			[ "intuyeses" ],
+			[ "intuyese" ],
+			[ "intuyésemos" ],
+			[ "intuyeseis", "intuyesen" ],
+			[ "intuyesen" ]
+		],
+		"11" : [
+			[ "intuyere" ],
+			[ "intuyeres" ],
+			[ "intuyere" ],
+			[ "intuyéremos" ],
+			[ "intuyereis", "intuyeren" ],
+			[ "intuyeren" ]
+		],
+		"12" : {
+			"1" : [ "intuye" ],
+			"2" : [ "intuya" ],
+			"3" : [ "intuyamos" ],
+			"4" : [ "intuid" ],
+			"5" : [ "intuyan" ]
+		}
+	}
+}

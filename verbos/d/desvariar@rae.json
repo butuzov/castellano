@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desvariar",
+	"word" : "desvariar",
+	"infinitivo" : "desvariar",
+	"participio" : [ "desvariado" ],
+	"gerundio" : [ "desvariando" ],
+	"tenses" : {
+		"3" : [
+			[ "desvarío" ],
+			[ "desvarías", "desvariás" ],
+			[ "desvaría" ],
+			[ "desvariamos" ],
+			[ "desvariáis", "desvarían" ],
+			[ "desvarían" ]
+		],
+		"4" : [
+			[ "desvarié" ],
+			[ "desvariaste" ],
+			[ "desvarió" ],
+			[ "desvariamos" ],
+			[ "desvariasteis", "desvariaron" ],
+			[ "desvariaron" ]
+		],
+		"5" : [
+			[ "desvariaba" ],
+			[ "desvariabas" ],
+			[ "desvariaba" ],
+			[ "desvariábamos" ],
+			[ "desvariabais", "desvariaban" ],
+			[ "desvariaban" ]
+		],
+		"6" : [
+			[ "desvariaría" ],
+			[ "desvariarías" ],
+			[ "desvariaría" ],
+			[ "desvariaríamos" ],
+			[ "desvariaríais", "desvariarían" ],
+			[ "desvariarían" ]
+		],
+		"7" : [
+			[ "desvariaré" ],
+			[ "desvariarás" ],
+			[ "desvariará" ],
+			[ "desvariaremos" ],
+			[ "desvariaréis", "desvariarán" ],
+			[ "desvariarán" ]
+		],
+		"8" : [
+			[ "desvaríe" ],
+			[ "desvaríes" ],
+			[ "desvaríe" ],
+			[ "desvariemos" ],
+			[ "desvariéis", "desvaríen" ],
+			[ "desvaríen" ]
+		],
+		"9" : [
+			[ "desvariara" ],
+			[ "desvariaras" ],
+			[ "desvariara" ],
+			[ "desvariáramos" ],
+			[ "desvariarais", "desvariaran" ],
+			[ "desvariaran" ]
+		],
+		"10" : [
+			[ "desvariase" ],
+			[ "desvariases" ],
+			[ "desvariase" ],
+			[ "desvariásemos" ],
+			[ "desvariaseis", "desvariasen" ],
+			[ "desvariasen" ]
+		],
+		"11" : [
+			[ "desvariare" ],
+			[ "desvariares" ],
+			[ "desvariare" ],
+			[ "desvariáremos" ],
+			[ "desvariareis", "desvariaren" ],
+			[ "desvariaren" ]
+		],
+		"12" : {
+			"1" : [ "desvaría" ],
+			"2" : [ "desvaríe" ],
+			"3" : [ "desvariemos" ],
+			"4" : [ "desvariad" ],
+			"5" : [ "desvaríen" ]
+		}
+	}
+}

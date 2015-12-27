@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=engrasar",
+	"word" : "engrasar",
+	"infinitivo" : "engrasar",
+	"participio" : [ "engrasado" ],
+	"gerundio" : [ "engrasando" ],
+	"tenses" : {
+		"3" : [
+			[ "engraso" ],
+			[ "engrasas", "engrasás" ],
+			[ "engrasa" ],
+			[ "engrasamos" ],
+			[ "engrasáis", "engrasan" ],
+			[ "engrasan" ]
+		],
+		"4" : [
+			[ "engrasé" ],
+			[ "engrasaste" ],
+			[ "engrasó" ],
+			[ "engrasamos" ],
+			[ "engrasasteis", "engrasaron" ],
+			[ "engrasaron" ]
+		],
+		"5" : [
+			[ "engrasaba" ],
+			[ "engrasabas" ],
+			[ "engrasaba" ],
+			[ "engrasábamos" ],
+			[ "engrasabais", "engrasaban" ],
+			[ "engrasaban" ]
+		],
+		"6" : [
+			[ "engrasaría" ],
+			[ "engrasarías" ],
+			[ "engrasaría" ],
+			[ "engrasaríamos" ],
+			[ "engrasaríais", "engrasarían" ],
+			[ "engrasarían" ]
+		],
+		"7" : [
+			[ "engrasaré" ],
+			[ "engrasarás" ],
+			[ "engrasará" ],
+			[ "engrasaremos" ],
+			[ "engrasaréis", "engrasarán" ],
+			[ "engrasarán" ]
+		],
+		"8" : [
+			[ "engrase" ],
+			[ "engrases" ],
+			[ "engrase" ],
+			[ "engrasemos" ],
+			[ "engraséis", "engrasen" ],
+			[ "engrasen" ]
+		],
+		"9" : [
+			[ "engrasara" ],
+			[ "engrasaras" ],
+			[ "engrasara" ],
+			[ "engrasáramos" ],
+			[ "engrasarais", "engrasaran" ],
+			[ "engrasaran" ]
+		],
+		"10" : [
+			[ "engrasase" ],
+			[ "engrasases" ],
+			[ "engrasase" ],
+			[ "engrasásemos" ],
+			[ "engrasaseis", "engrasasen" ],
+			[ "engrasasen" ]
+		],
+		"11" : [
+			[ "engrasare" ],
+			[ "engrasares" ],
+			[ "engrasare" ],
+			[ "engrasáremos" ],
+			[ "engrasareis", "engrasaren" ],
+			[ "engrasaren" ]
+		],
+		"12" : {
+			"1" : [ "engrasa" ],
+			"2" : [ "engrase" ],
+			"3" : [ "engrasemos" ],
+			"4" : [ "engrasad" ],
+			"5" : [ "engrasen" ]
+		}
+	}
+}

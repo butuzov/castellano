@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agrandar",
+	"word" : "agrandar",
+	"infinitivo" : "agrandar",
+	"participio" : [ "agrandado" ],
+	"gerundio" : [ "agrandando" ],
+	"tenses" : {
+		"3" : [
+			[ "agrando" ],
+			[ "agrandas", "agrandás" ],
+			[ "agranda" ],
+			[ "agrandamos" ],
+			[ "agrandáis", "agrandan" ],
+			[ "agrandan" ]
+		],
+		"4" : [
+			[ "agrandé" ],
+			[ "agrandaste" ],
+			[ "agrandó" ],
+			[ "agrandamos" ],
+			[ "agrandasteis", "agrandaron" ],
+			[ "agrandaron" ]
+		],
+		"5" : [
+			[ "agrandaba" ],
+			[ "agrandabas" ],
+			[ "agrandaba" ],
+			[ "agrandábamos" ],
+			[ "agrandabais", "agrandaban" ],
+			[ "agrandaban" ]
+		],
+		"6" : [
+			[ "agrandaría" ],
+			[ "agrandarías" ],
+			[ "agrandaría" ],
+			[ "agrandaríamos" ],
+			[ "agrandaríais", "agrandarían" ],
+			[ "agrandarían" ]
+		],
+		"7" : [
+			[ "agrandaré" ],
+			[ "agrandarás" ],
+			[ "agrandará" ],
+			[ "agrandaremos" ],
+			[ "agrandaréis", "agrandarán" ],
+			[ "agrandarán" ]
+		],
+		"8" : [
+			[ "agrande" ],
+			[ "agrandes" ],
+			[ "agrande" ],
+			[ "agrandemos" ],
+			[ "agrandéis", "agranden" ],
+			[ "agranden" ]
+		],
+		"9" : [
+			[ "agrandara" ],
+			[ "agrandaras" ],
+			[ "agrandara" ],
+			[ "agrandáramos" ],
+			[ "agrandarais", "agrandaran" ],
+			[ "agrandaran" ]
+		],
+		"10" : [
+			[ "agrandase" ],
+			[ "agrandases" ],
+			[ "agrandase" ],
+			[ "agrandásemos" ],
+			[ "agrandaseis", "agrandasen" ],
+			[ "agrandasen" ]
+		],
+		"11" : [
+			[ "agrandare" ],
+			[ "agrandares" ],
+			[ "agrandare" ],
+			[ "agrandáremos" ],
+			[ "agrandareis", "agrandaren" ],
+			[ "agrandaren" ]
+		],
+		"12" : {
+			"1" : [ "agranda" ],
+			"2" : [ "agrande" ],
+			"3" : [ "agrandemos" ],
+			"4" : [ "agrandad" ],
+			"5" : [ "agranden" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anisar",
+	"word" : "anisar",
+	"infinitivo" : "anisar",
+	"participio" : [ "anisado" ],
+	"gerundio" : [ "anisando" ],
+	"tenses" : {
+		"3" : [
+			[ "aniso" ],
+			[ "anisas", "anisás" ],
+			[ "anisa" ],
+			[ "anisamos" ],
+			[ "anisáis", "anisan" ],
+			[ "anisan" ]
+		],
+		"4" : [
+			[ "anisé" ],
+			[ "anisaste" ],
+			[ "anisó" ],
+			[ "anisamos" ],
+			[ "anisasteis", "anisaron" ],
+			[ "anisaron" ]
+		],
+		"5" : [
+			[ "anisaba" ],
+			[ "anisabas" ],
+			[ "anisaba" ],
+			[ "anisábamos" ],
+			[ "anisabais", "anisaban" ],
+			[ "anisaban" ]
+		],
+		"6" : [
+			[ "anisaría" ],
+			[ "anisarías" ],
+			[ "anisaría" ],
+			[ "anisaríamos" ],
+			[ "anisaríais", "anisarían" ],
+			[ "anisarían" ]
+		],
+		"7" : [
+			[ "anisaré" ],
+			[ "anisarás" ],
+			[ "anisará" ],
+			[ "anisaremos" ],
+			[ "anisaréis", "anisarán" ],
+			[ "anisarán" ]
+		],
+		"8" : [
+			[ "anise" ],
+			[ "anises" ],
+			[ "anise" ],
+			[ "anisemos" ],
+			[ "aniséis", "anisen" ],
+			[ "anisen" ]
+		],
+		"9" : [
+			[ "anisara" ],
+			[ "anisaras" ],
+			[ "anisara" ],
+			[ "anisáramos" ],
+			[ "anisarais", "anisaran" ],
+			[ "anisaran" ]
+		],
+		"10" : [
+			[ "anisase" ],
+			[ "anisases" ],
+			[ "anisase" ],
+			[ "anisásemos" ],
+			[ "anisaseis", "anisasen" ],
+			[ "anisasen" ]
+		],
+		"11" : [
+			[ "anisare" ],
+			[ "anisares" ],
+			[ "anisare" ],
+			[ "anisáremos" ],
+			[ "anisareis", "anisaren" ],
+			[ "anisaren" ]
+		],
+		"12" : {
+			"1" : [ "anisa" ],
+			"2" : [ "anise" ],
+			"3" : [ "anisemos" ],
+			"4" : [ "anisad" ],
+			"5" : [ "anisen" ]
+		}
+	}
+}

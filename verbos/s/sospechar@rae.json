@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sospechar",
+	"word" : "sospechar",
+	"infinitivo" : "sospechar",
+	"participio" : [ "sospechado" ],
+	"gerundio" : [ "sospechando" ],
+	"tenses" : {
+		"3" : [
+			[ "sospecho" ],
+			[ "sospechas", "sospechás" ],
+			[ "sospecha" ],
+			[ "sospechamos" ],
+			[ "sospecháis", "sospechan" ],
+			[ "sospechan" ]
+		],
+		"4" : [
+			[ "sospeché" ],
+			[ "sospechaste" ],
+			[ "sospechó" ],
+			[ "sospechamos" ],
+			[ "sospechasteis", "sospecharon" ],
+			[ "sospecharon" ]
+		],
+		"5" : [
+			[ "sospechaba" ],
+			[ "sospechabas" ],
+			[ "sospechaba" ],
+			[ "sospechábamos" ],
+			[ "sospechabais", "sospechaban" ],
+			[ "sospechaban" ]
+		],
+		"6" : [
+			[ "sospecharía" ],
+			[ "sospecharías" ],
+			[ "sospecharía" ],
+			[ "sospecharíamos" ],
+			[ "sospecharíais", "sospecharían" ],
+			[ "sospecharían" ]
+		],
+		"7" : [
+			[ "sospecharé" ],
+			[ "sospecharás" ],
+			[ "sospechará" ],
+			[ "sospecharemos" ],
+			[ "sospecharéis", "sospecharán" ],
+			[ "sospecharán" ]
+		],
+		"8" : [
+			[ "sospeche" ],
+			[ "sospeches" ],
+			[ "sospeche" ],
+			[ "sospechemos" ],
+			[ "sospechéis", "sospechen" ],
+			[ "sospechen" ]
+		],
+		"9" : [
+			[ "sospechara" ],
+			[ "sospecharas" ],
+			[ "sospechara" ],
+			[ "sospecháramos" ],
+			[ "sospecharais", "sospecharan" ],
+			[ "sospecharan" ]
+		],
+		"10" : [
+			[ "sospechase" ],
+			[ "sospechases" ],
+			[ "sospechase" ],
+			[ "sospechásemos" ],
+			[ "sospechaseis", "sospechasen" ],
+			[ "sospechasen" ]
+		],
+		"11" : [
+			[ "sospechare" ],
+			[ "sospechares" ],
+			[ "sospechare" ],
+			[ "sospecháremos" ],
+			[ "sospechareis", "sospecharen" ],
+			[ "sospecharen" ]
+		],
+		"12" : {
+			"1" : [ "sospecha" ],
+			"2" : [ "sospeche" ],
+			"3" : [ "sospechemos" ],
+			"4" : [ "sospechad" ],
+			"5" : [ "sospechen" ]
+		}
+	}
+}

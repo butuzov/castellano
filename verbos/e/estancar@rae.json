@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estancar",
+	"word" : "estancar",
+	"infinitivo" : "estancar",
+	"participio" : [ "estancado" ],
+	"gerundio" : [ "estancando" ],
+	"tenses" : {
+		"3" : [
+			[ "estanco" ],
+			[ "estancas", "estancás" ],
+			[ "estanca" ],
+			[ "estancamos" ],
+			[ "estancáis", "estancan" ],
+			[ "estancan" ]
+		],
+		"4" : [
+			[ "estanqué" ],
+			[ "estancaste" ],
+			[ "estancó" ],
+			[ "estancamos" ],
+			[ "estancasteis", "estancaron" ],
+			[ "estancaron" ]
+		],
+		"5" : [
+			[ "estancaba" ],
+			[ "estancabas" ],
+			[ "estancaba" ],
+			[ "estancábamos" ],
+			[ "estancabais", "estancaban" ],
+			[ "estancaban" ]
+		],
+		"6" : [
+			[ "estancaría" ],
+			[ "estancarías" ],
+			[ "estancaría" ],
+			[ "estancaríamos" ],
+			[ "estancaríais", "estancarían" ],
+			[ "estancarían" ]
+		],
+		"7" : [
+			[ "estancaré" ],
+			[ "estancarás" ],
+			[ "estancará" ],
+			[ "estancaremos" ],
+			[ "estancaréis", "estancarán" ],
+			[ "estancarán" ]
+		],
+		"8" : [
+			[ "estanque" ],
+			[ "estanques" ],
+			[ "estanque" ],
+			[ "estanquemos" ],
+			[ "estanquéis", "estanquen" ],
+			[ "estanquen" ]
+		],
+		"9" : [
+			[ "estancara" ],
+			[ "estancaras" ],
+			[ "estancara" ],
+			[ "estancáramos" ],
+			[ "estancarais", "estancaran" ],
+			[ "estancaran" ]
+		],
+		"10" : [
+			[ "estancase" ],
+			[ "estancases" ],
+			[ "estancase" ],
+			[ "estancásemos" ],
+			[ "estancaseis", "estancasen" ],
+			[ "estancasen" ]
+		],
+		"11" : [
+			[ "estancare" ],
+			[ "estancares" ],
+			[ "estancare" ],
+			[ "estancáremos" ],
+			[ "estancareis", "estancaren" ],
+			[ "estancaren" ]
+		],
+		"12" : {
+			"1" : [ "estanca" ],
+			"2" : [ "estanque" ],
+			"3" : [ "estanquemos" ],
+			"4" : [ "estancad" ],
+			"5" : [ "estanquen" ]
+		}
+	}
+}

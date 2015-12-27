@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encuadrar",
+	"word" : "encuadrar",
+	"infinitivo" : "encuadrar",
+	"participio" : [ "encuadrado" ],
+	"gerundio" : [ "encuadrando" ],
+	"tenses" : {
+		"3" : [
+			[ "encuadro" ],
+			[ "encuadras", "encuadrás" ],
+			[ "encuadra" ],
+			[ "encuadramos" ],
+			[ "encuadráis", "encuadran" ],
+			[ "encuadran" ]
+		],
+		"4" : [
+			[ "encuadré" ],
+			[ "encuadraste" ],
+			[ "encuadró" ],
+			[ "encuadramos" ],
+			[ "encuadrasteis", "encuadraron" ],
+			[ "encuadraron" ]
+		],
+		"5" : [
+			[ "encuadraba" ],
+			[ "encuadrabas" ],
+			[ "encuadraba" ],
+			[ "encuadrábamos" ],
+			[ "encuadrabais", "encuadraban" ],
+			[ "encuadraban" ]
+		],
+		"6" : [
+			[ "encuadraría" ],
+			[ "encuadrarías" ],
+			[ "encuadraría" ],
+			[ "encuadraríamos" ],
+			[ "encuadraríais", "encuadrarían" ],
+			[ "encuadrarían" ]
+		],
+		"7" : [
+			[ "encuadraré" ],
+			[ "encuadrarás" ],
+			[ "encuadrará" ],
+			[ "encuadraremos" ],
+			[ "encuadraréis", "encuadrarán" ],
+			[ "encuadrarán" ]
+		],
+		"8" : [
+			[ "encuadre" ],
+			[ "encuadres" ],
+			[ "encuadre" ],
+			[ "encuadremos" ],
+			[ "encuadréis", "encuadren" ],
+			[ "encuadren" ]
+		],
+		"9" : [
+			[ "encuadrara" ],
+			[ "encuadraras" ],
+			[ "encuadrara" ],
+			[ "encuadráramos" ],
+			[ "encuadrarais", "encuadraran" ],
+			[ "encuadraran" ]
+		],
+		"10" : [
+			[ "encuadrase" ],
+			[ "encuadrases" ],
+			[ "encuadrase" ],
+			[ "encuadrásemos" ],
+			[ "encuadraseis", "encuadrasen" ],
+			[ "encuadrasen" ]
+		],
+		"11" : [
+			[ "encuadrare" ],
+			[ "encuadrares" ],
+			[ "encuadrare" ],
+			[ "encuadráremos" ],
+			[ "encuadrareis", "encuadraren" ],
+			[ "encuadraren" ]
+		],
+		"12" : {
+			"1" : [ "encuadra" ],
+			"2" : [ "encuadre" ],
+			"3" : [ "encuadremos" ],
+			"4" : [ "encuadrad" ],
+			"5" : [ "encuadren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rociar",
+	"word" : "rociar",
+	"infinitivo" : "rociar",
+	"participio" : [ "rociado" ],
+	"gerundio" : [ "rociando" ],
+	"tenses" : {
+		"3" : [
+			[ "rocío" ],
+			[ "rocías", "rociás" ],
+			[ "rocía" ],
+			[ "rociamos" ],
+			[ "rociáis", "rocían" ],
+			[ "rocían" ]
+		],
+		"4" : [
+			[ "rocié" ],
+			[ "rociaste" ],
+			[ "roció" ],
+			[ "rociamos" ],
+			[ "rociasteis", "rociaron" ],
+			[ "rociaron" ]
+		],
+		"5" : [
+			[ "rociaba" ],
+			[ "rociabas" ],
+			[ "rociaba" ],
+			[ "rociábamos" ],
+			[ "rociabais", "rociaban" ],
+			[ "rociaban" ]
+		],
+		"6" : [
+			[ "rociaría" ],
+			[ "rociarías" ],
+			[ "rociaría" ],
+			[ "rociaríamos" ],
+			[ "rociaríais", "rociarían" ],
+			[ "rociarían" ]
+		],
+		"7" : [
+			[ "rociaré" ],
+			[ "rociarás" ],
+			[ "rociará" ],
+			[ "rociaremos" ],
+			[ "rociaréis", "rociarán" ],
+			[ "rociarán" ]
+		],
+		"8" : [
+			[ "rocíe" ],
+			[ "rocíes" ],
+			[ "rocíe" ],
+			[ "rociemos" ],
+			[ "rociéis", "rocíen" ],
+			[ "rocíen" ]
+		],
+		"9" : [
+			[ "rociara" ],
+			[ "rociaras" ],
+			[ "rociara" ],
+			[ "rociáramos" ],
+			[ "rociarais", "rociaran" ],
+			[ "rociaran" ]
+		],
+		"10" : [
+			[ "rociase" ],
+			[ "rociases" ],
+			[ "rociase" ],
+			[ "rociásemos" ],
+			[ "rociaseis", "rociasen" ],
+			[ "rociasen" ]
+		],
+		"11" : [
+			[ "rociare" ],
+			[ "rociares" ],
+			[ "rociare" ],
+			[ "rociáremos" ],
+			[ "rociareis", "rociaren" ],
+			[ "rociaren" ]
+		],
+		"12" : {
+			"1" : [ "rocía" ],
+			"2" : [ "rocíe" ],
+			"3" : [ "rociemos" ],
+			"4" : [ "rociad" ],
+			"5" : [ "rocíen" ]
+		}
+	}
+}

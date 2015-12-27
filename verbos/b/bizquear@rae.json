@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bizquear",
+	"word" : "bizquear",
+	"infinitivo" : "bizquear",
+	"participio" : [ "bizqueado" ],
+	"gerundio" : [ "bizqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "bizqueo" ],
+			[ "bizqueas", "bizqueás" ],
+			[ "bizquea" ],
+			[ "bizqueamos" ],
+			[ "bizqueáis", "bizquean" ],
+			[ "bizquean" ]
+		],
+		"4" : [
+			[ "bizqueé" ],
+			[ "bizqueaste" ],
+			[ "bizqueó" ],
+			[ "bizqueamos" ],
+			[ "bizqueasteis", "bizquearon" ],
+			[ "bizquearon" ]
+		],
+		"5" : [
+			[ "bizqueaba" ],
+			[ "bizqueabas" ],
+			[ "bizqueaba" ],
+			[ "bizqueábamos" ],
+			[ "bizqueabais", "bizqueaban" ],
+			[ "bizqueaban" ]
+		],
+		"6" : [
+			[ "bizquearía" ],
+			[ "bizquearías" ],
+			[ "bizquearía" ],
+			[ "bizquearíamos" ],
+			[ "bizquearíais", "bizquearían" ],
+			[ "bizquearían" ]
+		],
+		"7" : [
+			[ "bizquearé" ],
+			[ "bizquearás" ],
+			[ "bizqueará" ],
+			[ "bizquearemos" ],
+			[ "bizquearéis", "bizquearán" ],
+			[ "bizquearán" ]
+		],
+		"8" : [
+			[ "bizquee" ],
+			[ "bizquees" ],
+			[ "bizquee" ],
+			[ "bizqueemos" ],
+			[ "bizqueéis", "bizqueen" ],
+			[ "bizqueen" ]
+		],
+		"9" : [
+			[ "bizqueara" ],
+			[ "bizquearas" ],
+			[ "bizqueara" ],
+			[ "bizqueáramos" ],
+			[ "bizquearais", "bizquearan" ],
+			[ "bizquearan" ]
+		],
+		"10" : [
+			[ "bizquease" ],
+			[ "bizqueases" ],
+			[ "bizquease" ],
+			[ "bizqueásemos" ],
+			[ "bizqueaseis", "bizqueasen" ],
+			[ "bizqueasen" ]
+		],
+		"11" : [
+			[ "bizqueare" ],
+			[ "bizqueares" ],
+			[ "bizqueare" ],
+			[ "bizqueáremos" ],
+			[ "bizqueareis", "bizquearen" ],
+			[ "bizquearen" ]
+		],
+		"12" : {
+			"1" : [ "bizquea" ],
+			"2" : [ "bizquee" ],
+			"3" : [ "bizqueemos" ],
+			"4" : [ "bizquead" ],
+			"5" : [ "bizqueen" ]
+		}
+	}
+}

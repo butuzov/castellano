@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conexionarse",
+	"word" : "conexionarse",
+	"infinitivo" : "conexionarse",
+	"participio" : [ "conexionado" ],
+	"gerundio" : [ "conexionándome", "conexionándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me conexiono" ],
+			[ "te conexionas", "te conexionás" ],
+			[ "se conexiona" ],
+			[ "nos conexionamos" ],
+			[ "os conexionáis", "se conexionan" ],
+			[ "se conexionan" ]
+		],
+		"4" : [
+			[ "me conexioné" ],
+			[ "te conexionaste" ],
+			[ "se conexionó" ],
+			[ "nos conexionamos" ],
+			[ "os conexionasteis", "se conexionaron" ],
+			[ "se conexionaron" ]
+		],
+		"5" : [
+			[ "me conexionaba" ],
+			[ "te conexionabas" ],
+			[ "se conexionaba" ],
+			[ "nos conexionábamos" ],
+			[ "os conexionabais", "se conexionaban" ],
+			[ "se conexionaban" ]
+		],
+		"6" : [
+			[ "me conexionaría" ],
+			[ "te conexionarías" ],
+			[ "se conexionaría" ],
+			[ "nos conexionaríamos" ],
+			[ "os conexionaríais", "se conexionarían" ],
+			[ "se conexionarían" ]
+		],
+		"7" : [
+			[ "me conexionaré" ],
+			[ "te conexionarás" ],
+			[ "se conexionará" ],
+			[ "nos conexionaremos" ],
+			[ "os conexionaréis", "se conexionarán" ],
+			[ "se conexionarán" ]
+		],
+		"8" : [
+			[ "me conexione" ],
+			[ "te conexiones" ],
+			[ "se conexione" ],
+			[ "nos conexionemos" ],
+			[ "os conexionéis", "se conexionen" ],
+			[ "se conexionen" ]
+		],
+		"9" : [
+			[ "me conexionara" ],
+			[ "te conexionaras" ],
+			[ "se conexionara" ],
+			[ "nos conexionáramos" ],
+			[ "os conexionarais", "se conexionaran" ],
+			[ "se conexionaran" ]
+		],
+		"10" : [
+			[ "me conexionase" ],
+			[ "te conexionases" ],
+			[ "se conexionase" ],
+			[ "nos conexionásemos" ],
+			[ "os conexionaseis", "se conexionasen" ],
+			[ "se conexionasen" ]
+		],
+		"11" : [
+			[ "me conexionare" ],
+			[ "te conexionares" ],
+			[ "se conexionare" ],
+			[ "nos conexionáremos" ],
+			[ "os conexionareis", "se conexionaren" ],
+			[ "se conexionaren" ]
+		],
+		"12" : {
+			"1" : [ "conexiónate" ],
+			"2" : [ "conexione" ],
+			"3" : [ "conexionemos" ],
+			"4" : [ "conexionaos" ],
+			"5" : [ "conexiónense" ]
+		}
+	}
+}

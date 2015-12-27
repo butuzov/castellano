@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=invalidar",
+	"word" : "invalidar",
+	"infinitivo" : "invalidar",
+	"participio" : [ "invalidado" ],
+	"gerundio" : [ "invalidando" ],
+	"tenses" : {
+		"3" : [
+			[ "invalido" ],
+			[ "invalidas", "invalidás" ],
+			[ "invalida" ],
+			[ "invalidamos" ],
+			[ "invalidáis", "invalidan" ],
+			[ "invalidan" ]
+		],
+		"4" : [
+			[ "invalidé" ],
+			[ "invalidaste" ],
+			[ "invalidó" ],
+			[ "invalidamos" ],
+			[ "invalidasteis", "invalidaron" ],
+			[ "invalidaron" ]
+		],
+		"5" : [
+			[ "invalidaba" ],
+			[ "invalidabas" ],
+			[ "invalidaba" ],
+			[ "invalidábamos" ],
+			[ "invalidabais", "invalidaban" ],
+			[ "invalidaban" ]
+		],
+		"6" : [
+			[ "invalidaría" ],
+			[ "invalidarías" ],
+			[ "invalidaría" ],
+			[ "invalidaríamos" ],
+			[ "invalidaríais", "invalidarían" ],
+			[ "invalidarían" ]
+		],
+		"7" : [
+			[ "invalidaré" ],
+			[ "invalidarás" ],
+			[ "invalidará" ],
+			[ "invalidaremos" ],
+			[ "invalidaréis", "invalidarán" ],
+			[ "invalidarán" ]
+		],
+		"8" : [
+			[ "invalide" ],
+			[ "invalides" ],
+			[ "invalide" ],
+			[ "invalidemos" ],
+			[ "invalidéis", "invaliden" ],
+			[ "invaliden" ]
+		],
+		"9" : [
+			[ "invalidara" ],
+			[ "invalidaras" ],
+			[ "invalidara" ],
+			[ "invalidáramos" ],
+			[ "invalidarais", "invalidaran" ],
+			[ "invalidaran" ]
+		],
+		"10" : [
+			[ "invalidase" ],
+			[ "invalidases" ],
+			[ "invalidase" ],
+			[ "invalidásemos" ],
+			[ "invalidaseis", "invalidasen" ],
+			[ "invalidasen" ]
+		],
+		"11" : [
+			[ "invalidare" ],
+			[ "invalidares" ],
+			[ "invalidare" ],
+			[ "invalidáremos" ],
+			[ "invalidareis", "invalidaren" ],
+			[ "invalidaren" ]
+		],
+		"12" : {
+			"1" : [ "invalida" ],
+			"2" : [ "invalide" ],
+			"3" : [ "invalidemos" ],
+			"4" : [ "invalidad" ],
+			"5" : [ "invaliden" ]
+		}
+	}
+}

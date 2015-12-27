@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alejar",
+	"word" : "alejar",
+	"infinitivo" : "alejar",
+	"participio" : [ "alejado" ],
+	"gerundio" : [ "alejando" ],
+	"tenses" : {
+		"3" : [
+			[ "alejo" ],
+			[ "alejas", "alejás" ],
+			[ "aleja" ],
+			[ "alejamos" ],
+			[ "alejáis", "alejan" ],
+			[ "alejan" ]
+		],
+		"4" : [
+			[ "alejé" ],
+			[ "alejaste" ],
+			[ "alejó" ],
+			[ "alejamos" ],
+			[ "alejasteis", "alejaron" ],
+			[ "alejaron" ]
+		],
+		"5" : [
+			[ "alejaba" ],
+			[ "alejabas" ],
+			[ "alejaba" ],
+			[ "alejábamos" ],
+			[ "alejabais", "alejaban" ],
+			[ "alejaban" ]
+		],
+		"6" : [
+			[ "alejaría" ],
+			[ "alejarías" ],
+			[ "alejaría" ],
+			[ "alejaríamos" ],
+			[ "alejaríais", "alejarían" ],
+			[ "alejarían" ]
+		],
+		"7" : [
+			[ "alejaré" ],
+			[ "alejarás" ],
+			[ "alejará" ],
+			[ "alejaremos" ],
+			[ "alejaréis", "alejarán" ],
+			[ "alejarán" ]
+		],
+		"8" : [
+			[ "aleje" ],
+			[ "alejes" ],
+			[ "aleje" ],
+			[ "alejemos" ],
+			[ "alejéis", "alejen" ],
+			[ "alejen" ]
+		],
+		"9" : [
+			[ "alejara" ],
+			[ "alejaras" ],
+			[ "alejara" ],
+			[ "alejáramos" ],
+			[ "alejarais", "alejaran" ],
+			[ "alejaran" ]
+		],
+		"10" : [
+			[ "alejase" ],
+			[ "alejases" ],
+			[ "alejase" ],
+			[ "alejásemos" ],
+			[ "alejaseis", "alejasen" ],
+			[ "alejasen" ]
+		],
+		"11" : [
+			[ "alejare" ],
+			[ "alejares" ],
+			[ "alejare" ],
+			[ "alejáremos" ],
+			[ "alejareis", "alejaren" ],
+			[ "alejaren" ]
+		],
+		"12" : {
+			"1" : [ "aleja" ],
+			"2" : [ "aleje" ],
+			"3" : [ "alejemos" ],
+			"4" : [ "alejad" ],
+			"5" : [ "alejen" ]
+		}
+	}
+}

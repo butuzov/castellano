@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=interdecir",
+	"word" : "interdecir",
+	"infinitivo" : "interdecir",
+	"participio" : [ "interdicho" ],
+	"gerundio" : [ "interdiciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "interdigo" ],
+			[ "interdices", "interdecís" ],
+			[ "interdice" ],
+			[ "interdecimos" ],
+			[ "interdecís", "interdicen" ],
+			[ "interdicen" ]
+		],
+		"4" : [
+			[ "interdije" ],
+			[ "interdijiste" ],
+			[ "interdijo" ],
+			[ "interdijimos" ],
+			[ "interdijisteis", "interdijeron" ],
+			[ "interdijeron" ]
+		],
+		"5" : [
+			[ "interdecía" ],
+			[ "interdecías" ],
+			[ "interdecía" ],
+			[ "interdecíamos" ],
+			[ "interdecíais", "interdecían" ],
+			[ "interdecían" ]
+		],
+		"6" : [
+			[ "interdiría" ],
+			[ "interdirías" ],
+			[ "interdiría" ],
+			[ "interdiríamos" ],
+			[ "interdiríais", "interdirían" ],
+			[ "interdirían" ]
+		],
+		"7" : [
+			[ "interdiré" ],
+			[ "interdirás" ],
+			[ "interdirá" ],
+			[ "interdiremos" ],
+			[ "interdiréis", "interdirán" ],
+			[ "interdirán" ]
+		],
+		"8" : [
+			[ "interdiga" ],
+			[ "interdigas" ],
+			[ "interdiga" ],
+			[ "interdigamos" ],
+			[ "interdigáis", "interdigan" ],
+			[ "interdigan" ]
+		],
+		"9" : [
+			[ "interdijera" ],
+			[ "interdijeras" ],
+			[ "interdijera" ],
+			[ "interdijéramos" ],
+			[ "interdijerais", "interdijeran" ],
+			[ "interdijeran" ]
+		],
+		"10" : [
+			[ "interdijese" ],
+			[ "interdijeses" ],
+			[ "interdijese" ],
+			[ "interdijésemos" ],
+			[ "interdijeseis", "interdijesen" ],
+			[ "interdijesen" ]
+		],
+		"11" : [
+			[ "interdijere" ],
+			[ "interdijeres" ],
+			[ "interdijere" ],
+			[ "interdijéremos" ],
+			[ "interdijereis", "interdijeren" ],
+			[ "interdijeren" ]
+		],
+		"12" : {
+			"1" : [ "interdice" ],
+			"2" : [ "interdiga" ],
+			"3" : [ "interdigamos" ],
+			"4" : [ "interdecid" ],
+			"5" : [ "interdigan" ]
+		}
+	}
+}

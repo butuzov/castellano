@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ansiar",
+	"word" : "ansiar",
+	"infinitivo" : "ansiar",
+	"participio" : [ "ansiado" ],
+	"gerundio" : [ "ansiando" ],
+	"tenses" : {
+		"3" : [
+			[ "ansío" ],
+			[ "ansías", "ansiás" ],
+			[ "ansía" ],
+			[ "ansiamos" ],
+			[ "ansiáis", "ansían" ],
+			[ "ansían" ]
+		],
+		"4" : [
+			[ "ansié" ],
+			[ "ansiaste" ],
+			[ "ansió" ],
+			[ "ansiamos" ],
+			[ "ansiasteis", "ansiaron" ],
+			[ "ansiaron" ]
+		],
+		"5" : [
+			[ "ansiaba" ],
+			[ "ansiabas" ],
+			[ "ansiaba" ],
+			[ "ansiábamos" ],
+			[ "ansiabais", "ansiaban" ],
+			[ "ansiaban" ]
+		],
+		"6" : [
+			[ "ansiaría" ],
+			[ "ansiarías" ],
+			[ "ansiaría" ],
+			[ "ansiaríamos" ],
+			[ "ansiaríais", "ansiarían" ],
+			[ "ansiarían" ]
+		],
+		"7" : [
+			[ "ansiaré" ],
+			[ "ansiarás" ],
+			[ "ansiará" ],
+			[ "ansiaremos" ],
+			[ "ansiaréis", "ansiarán" ],
+			[ "ansiarán" ]
+		],
+		"8" : [
+			[ "ansíe" ],
+			[ "ansíes" ],
+			[ "ansíe" ],
+			[ "ansiemos" ],
+			[ "ansiéis", "ansíen" ],
+			[ "ansíen" ]
+		],
+		"9" : [
+			[ "ansiara" ],
+			[ "ansiaras" ],
+			[ "ansiara" ],
+			[ "ansiáramos" ],
+			[ "ansiarais", "ansiaran" ],
+			[ "ansiaran" ]
+		],
+		"10" : [
+			[ "ansiase" ],
+			[ "ansiases" ],
+			[ "ansiase" ],
+			[ "ansiásemos" ],
+			[ "ansiaseis", "ansiasen" ],
+			[ "ansiasen" ]
+		],
+		"11" : [
+			[ "ansiare" ],
+			[ "ansiares" ],
+			[ "ansiare" ],
+			[ "ansiáremos" ],
+			[ "ansiareis", "ansiaren" ],
+			[ "ansiaren" ]
+		],
+		"12" : {
+			"1" : [ "ansía" ],
+			"2" : [ "ansíe" ],
+			"3" : [ "ansiemos" ],
+			"4" : [ "ansiad" ],
+			"5" : [ "ansíen" ]
+		}
+	}
+}

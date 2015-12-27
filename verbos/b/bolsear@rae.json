@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bolsear",
+	"word" : "bolsear",
+	"infinitivo" : "bolsear",
+	"participio" : [ "bolseado" ],
+	"gerundio" : [ "bolseando" ],
+	"tenses" : {
+		"3" : [
+			[ "bolseo" ],
+			[ "bolseas", "bolseás" ],
+			[ "bolsea" ],
+			[ "bolseamos" ],
+			[ "bolseáis", "bolsean" ],
+			[ "bolsean" ]
+		],
+		"4" : [
+			[ "bolseé" ],
+			[ "bolseaste" ],
+			[ "bolseó" ],
+			[ "bolseamos" ],
+			[ "bolseasteis", "bolsearon" ],
+			[ "bolsearon" ]
+		],
+		"5" : [
+			[ "bolseaba" ],
+			[ "bolseabas" ],
+			[ "bolseaba" ],
+			[ "bolseábamos" ],
+			[ "bolseabais", "bolseaban" ],
+			[ "bolseaban" ]
+		],
+		"6" : [
+			[ "bolsearía" ],
+			[ "bolsearías" ],
+			[ "bolsearía" ],
+			[ "bolsearíamos" ],
+			[ "bolsearíais", "bolsearían" ],
+			[ "bolsearían" ]
+		],
+		"7" : [
+			[ "bolsearé" ],
+			[ "bolsearás" ],
+			[ "bolseará" ],
+			[ "bolsearemos" ],
+			[ "bolsearéis", "bolsearán" ],
+			[ "bolsearán" ]
+		],
+		"8" : [
+			[ "bolsee" ],
+			[ "bolsees" ],
+			[ "bolsee" ],
+			[ "bolseemos" ],
+			[ "bolseéis", "bolseen" ],
+			[ "bolseen" ]
+		],
+		"9" : [
+			[ "bolseara" ],
+			[ "bolsearas" ],
+			[ "bolseara" ],
+			[ "bolseáramos" ],
+			[ "bolsearais", "bolsearan" ],
+			[ "bolsearan" ]
+		],
+		"10" : [
+			[ "bolsease" ],
+			[ "bolseases" ],
+			[ "bolsease" ],
+			[ "bolseásemos" ],
+			[ "bolseaseis", "bolseasen" ],
+			[ "bolseasen" ]
+		],
+		"11" : [
+			[ "bolseare" ],
+			[ "bolseares" ],
+			[ "bolseare" ],
+			[ "bolseáremos" ],
+			[ "bolseareis", "bolsearen" ],
+			[ "bolsearen" ]
+		],
+		"12" : {
+			"1" : [ "bolsea" ],
+			"2" : [ "bolsee" ],
+			"3" : [ "bolseemos" ],
+			"4" : [ "bolsead" ],
+			"5" : [ "bolseen" ]
+		}
+	}
+}

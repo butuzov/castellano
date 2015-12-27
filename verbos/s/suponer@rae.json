@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=suponer",
+	"word" : "suponer",
+	"infinitivo" : "suponer",
+	"participio" : [ "supuesto" ],
+	"gerundio" : [ "suponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "supongo" ],
+			[ "supones", "suponés" ],
+			[ "supone" ],
+			[ "suponemos" ],
+			[ "suponéis", "suponen" ],
+			[ "suponen" ]
+		],
+		"4" : [
+			[ "supuse" ],
+			[ "supusiste" ],
+			[ "supuso" ],
+			[ "supusimos" ],
+			[ "supusisteis", "supusieron" ],
+			[ "supusieron" ]
+		],
+		"5" : [
+			[ "suponía" ],
+			[ "suponías" ],
+			[ "suponía" ],
+			[ "suponíamos" ],
+			[ "suponíais", "suponían" ],
+			[ "suponían" ]
+		],
+		"6" : [
+			[ "supondría" ],
+			[ "supondrías" ],
+			[ "supondría" ],
+			[ "supondríamos" ],
+			[ "supondríais", "supondrían" ],
+			[ "supondrían" ]
+		],
+		"7" : [
+			[ "supondré" ],
+			[ "supondrás" ],
+			[ "supondrá" ],
+			[ "supondremos" ],
+			[ "supondréis", "supondrán" ],
+			[ "supondrán" ]
+		],
+		"8" : [
+			[ "suponga" ],
+			[ "supongas" ],
+			[ "suponga" ],
+			[ "supongamos" ],
+			[ "supongáis", "supongan" ],
+			[ "supongan" ]
+		],
+		"9" : [
+			[ "supusiera" ],
+			[ "supusieras" ],
+			[ "supusiera" ],
+			[ "supusiéramos" ],
+			[ "supusierais", "supusieran" ],
+			[ "supusieran" ]
+		],
+		"10" : [
+			[ "supusiese" ],
+			[ "supusieses" ],
+			[ "supusiese" ],
+			[ "supusiésemos" ],
+			[ "supusieseis", "supusiesen" ],
+			[ "supusiesen" ]
+		],
+		"11" : [
+			[ "supusiere" ],
+			[ "supusieres" ],
+			[ "supusiere" ],
+			[ "supusiéremos" ],
+			[ "supusiereis", "supusieren" ],
+			[ "supusieren" ]
+		],
+		"12" : {
+			"1" : [ "supón" ],
+			"2" : [ "suponga" ],
+			"3" : [ "supongamos" ],
+			"4" : [ "suponed" ],
+			"5" : [ "supongan" ]
+		}
+	}
+}

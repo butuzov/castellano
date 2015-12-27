@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=colindar",
+	"word" : "colindar",
+	"infinitivo" : "colindar",
+	"participio" : [ "colindado" ],
+	"gerundio" : [ "colindando" ],
+	"tenses" : {
+		"3" : [
+			[ "colindo" ],
+			[ "colindas", "colindás" ],
+			[ "colinda" ],
+			[ "colindamos" ],
+			[ "colindáis", "colindan" ],
+			[ "colindan" ]
+		],
+		"4" : [
+			[ "colindé" ],
+			[ "colindaste" ],
+			[ "colindó" ],
+			[ "colindamos" ],
+			[ "colindasteis", "colindaron" ],
+			[ "colindaron" ]
+		],
+		"5" : [
+			[ "colindaba" ],
+			[ "colindabas" ],
+			[ "colindaba" ],
+			[ "colindábamos" ],
+			[ "colindabais", "colindaban" ],
+			[ "colindaban" ]
+		],
+		"6" : [
+			[ "colindaría" ],
+			[ "colindarías" ],
+			[ "colindaría" ],
+			[ "colindaríamos" ],
+			[ "colindaríais", "colindarían" ],
+			[ "colindarían" ]
+		],
+		"7" : [
+			[ "colindaré" ],
+			[ "colindarás" ],
+			[ "colindará" ],
+			[ "colindaremos" ],
+			[ "colindaréis", "colindarán" ],
+			[ "colindarán" ]
+		],
+		"8" : [
+			[ "colinde" ],
+			[ "colindes" ],
+			[ "colinde" ],
+			[ "colindemos" ],
+			[ "colindéis", "colinden" ],
+			[ "colinden" ]
+		],
+		"9" : [
+			[ "colindara" ],
+			[ "colindaras" ],
+			[ "colindara" ],
+			[ "colindáramos" ],
+			[ "colindarais", "colindaran" ],
+			[ "colindaran" ]
+		],
+		"10" : [
+			[ "colindase" ],
+			[ "colindases" ],
+			[ "colindase" ],
+			[ "colindásemos" ],
+			[ "colindaseis", "colindasen" ],
+			[ "colindasen" ]
+		],
+		"11" : [
+			[ "colindare" ],
+			[ "colindares" ],
+			[ "colindare" ],
+			[ "colindáremos" ],
+			[ "colindareis", "colindaren" ],
+			[ "colindaren" ]
+		],
+		"12" : {
+			"1" : [ "colinda" ],
+			"2" : [ "colinde" ],
+			"3" : [ "colindemos" ],
+			"4" : [ "colindad" ],
+			"5" : [ "colinden" ]
+		}
+	}
+}

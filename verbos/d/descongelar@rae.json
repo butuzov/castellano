@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descongelar",
+	"word" : "descongelar",
+	"infinitivo" : "descongelar",
+	"participio" : [ "descongelado" ],
+	"gerundio" : [ "descongelando" ],
+	"tenses" : {
+		"3" : [
+			[ "descongelo" ],
+			[ "descongelas", "descongelás" ],
+			[ "descongela" ],
+			[ "descongelamos" ],
+			[ "descongeláis", "descongelan" ],
+			[ "descongelan" ]
+		],
+		"4" : [
+			[ "descongelé" ],
+			[ "descongelaste" ],
+			[ "descongeló" ],
+			[ "descongelamos" ],
+			[ "descongelasteis", "descongelaron" ],
+			[ "descongelaron" ]
+		],
+		"5" : [
+			[ "descongelaba" ],
+			[ "descongelabas" ],
+			[ "descongelaba" ],
+			[ "descongelábamos" ],
+			[ "descongelabais", "descongelaban" ],
+			[ "descongelaban" ]
+		],
+		"6" : [
+			[ "descongelaría" ],
+			[ "descongelarías" ],
+			[ "descongelaría" ],
+			[ "descongelaríamos" ],
+			[ "descongelaríais", "descongelarían" ],
+			[ "descongelarían" ]
+		],
+		"7" : [
+			[ "descongelaré" ],
+			[ "descongelarás" ],
+			[ "descongelará" ],
+			[ "descongelaremos" ],
+			[ "descongelaréis", "descongelarán" ],
+			[ "descongelarán" ]
+		],
+		"8" : [
+			[ "descongele" ],
+			[ "descongeles" ],
+			[ "descongele" ],
+			[ "descongelemos" ],
+			[ "descongeléis", "descongelen" ],
+			[ "descongelen" ]
+		],
+		"9" : [
+			[ "descongelara" ],
+			[ "descongelaras" ],
+			[ "descongelara" ],
+			[ "descongeláramos" ],
+			[ "descongelarais", "descongelaran" ],
+			[ "descongelaran" ]
+		],
+		"10" : [
+			[ "descongelase" ],
+			[ "descongelases" ],
+			[ "descongelase" ],
+			[ "descongelásemos" ],
+			[ "descongelaseis", "descongelasen" ],
+			[ "descongelasen" ]
+		],
+		"11" : [
+			[ "descongelare" ],
+			[ "descongelares" ],
+			[ "descongelare" ],
+			[ "descongeláremos" ],
+			[ "descongelareis", "descongelaren" ],
+			[ "descongelaren" ]
+		],
+		"12" : {
+			"1" : [ "descongela" ],
+			"2" : [ "descongele" ],
+			"3" : [ "descongelemos" ],
+			"4" : [ "descongelad" ],
+			"5" : [ "descongelen" ]
+		}
+	}
+}

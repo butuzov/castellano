@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ladrar",
+	"word" : "ladrar",
+	"infinitivo" : "ladrar",
+	"participio" : [ "ladrado" ],
+	"gerundio" : [ "ladrando" ],
+	"tenses" : {
+		"3" : [
+			[ "ladro" ],
+			[ "ladras", "ladrás" ],
+			[ "ladra" ],
+			[ "ladramos" ],
+			[ "ladráis", "ladran" ],
+			[ "ladran" ]
+		],
+		"4" : [
+			[ "ladré" ],
+			[ "ladraste" ],
+			[ "ladró" ],
+			[ "ladramos" ],
+			[ "ladrasteis", "ladraron" ],
+			[ "ladraron" ]
+		],
+		"5" : [
+			[ "ladraba" ],
+			[ "ladrabas" ],
+			[ "ladraba" ],
+			[ "ladrábamos" ],
+			[ "ladrabais", "ladraban" ],
+			[ "ladraban" ]
+		],
+		"6" : [
+			[ "ladraría" ],
+			[ "ladrarías" ],
+			[ "ladraría" ],
+			[ "ladraríamos" ],
+			[ "ladraríais", "ladrarían" ],
+			[ "ladrarían" ]
+		],
+		"7" : [
+			[ "ladraré" ],
+			[ "ladrarás" ],
+			[ "ladrará" ],
+			[ "ladraremos" ],
+			[ "ladraréis", "ladrarán" ],
+			[ "ladrarán" ]
+		],
+		"8" : [
+			[ "ladre" ],
+			[ "ladres" ],
+			[ "ladre" ],
+			[ "ladremos" ],
+			[ "ladréis", "ladren" ],
+			[ "ladren" ]
+		],
+		"9" : [
+			[ "ladrara" ],
+			[ "ladraras" ],
+			[ "ladrara" ],
+			[ "ladráramos" ],
+			[ "ladrarais", "ladraran" ],
+			[ "ladraran" ]
+		],
+		"10" : [
+			[ "ladrase" ],
+			[ "ladrases" ],
+			[ "ladrase" ],
+			[ "ladrásemos" ],
+			[ "ladraseis", "ladrasen" ],
+			[ "ladrasen" ]
+		],
+		"11" : [
+			[ "ladrare" ],
+			[ "ladrares" ],
+			[ "ladrare" ],
+			[ "ladráremos" ],
+			[ "ladrareis", "ladraren" ],
+			[ "ladraren" ]
+		],
+		"12" : {
+			"1" : [ "ladra" ],
+			"2" : [ "ladre" ],
+			"3" : [ "ladremos" ],
+			"4" : [ "ladrad" ],
+			"5" : [ "ladren" ]
+		}
+	}
+}

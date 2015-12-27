@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disparar",
+	"word" : "disparar",
+	"infinitivo" : "disparar",
+	"participio" : [ "disparado" ],
+	"gerundio" : [ "disparando" ],
+	"tenses" : {
+		"3" : [
+			[ "disparo" ],
+			[ "disparas", "disparás" ],
+			[ "dispara" ],
+			[ "disparamos" ],
+			[ "disparáis", "disparan" ],
+			[ "disparan" ]
+		],
+		"4" : [
+			[ "disparé" ],
+			[ "disparaste" ],
+			[ "disparó" ],
+			[ "disparamos" ],
+			[ "disparasteis", "dispararon" ],
+			[ "dispararon" ]
+		],
+		"5" : [
+			[ "disparaba" ],
+			[ "disparabas" ],
+			[ "disparaba" ],
+			[ "disparábamos" ],
+			[ "disparabais", "disparaban" ],
+			[ "disparaban" ]
+		],
+		"6" : [
+			[ "dispararía" ],
+			[ "dispararías" ],
+			[ "dispararía" ],
+			[ "dispararíamos" ],
+			[ "dispararíais", "dispararían" ],
+			[ "dispararían" ]
+		],
+		"7" : [
+			[ "dispararé" ],
+			[ "dispararás" ],
+			[ "disparará" ],
+			[ "dispararemos" ],
+			[ "dispararéis", "dispararán" ],
+			[ "dispararán" ]
+		],
+		"8" : [
+			[ "dispare" ],
+			[ "dispares" ],
+			[ "dispare" ],
+			[ "disparemos" ],
+			[ "disparéis", "disparen" ],
+			[ "disparen" ]
+		],
+		"9" : [
+			[ "disparara" ],
+			[ "dispararas" ],
+			[ "disparara" ],
+			[ "disparáramos" ],
+			[ "dispararais", "dispararan" ],
+			[ "dispararan" ]
+		],
+		"10" : [
+			[ "disparase" ],
+			[ "disparases" ],
+			[ "disparase" ],
+			[ "disparásemos" ],
+			[ "disparaseis", "disparasen" ],
+			[ "disparasen" ]
+		],
+		"11" : [
+			[ "disparare" ],
+			[ "disparares" ],
+			[ "disparare" ],
+			[ "disparáremos" ],
+			[ "disparareis", "dispararen" ],
+			[ "dispararen" ]
+		],
+		"12" : {
+			"1" : [ "dispara" ],
+			"2" : [ "dispare" ],
+			"3" : [ "disparemos" ],
+			"4" : [ "disparad" ],
+			"5" : [ "disparen" ]
+		}
+	}
+}

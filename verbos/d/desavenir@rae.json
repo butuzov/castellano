@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desavenir",
+	"word" : "desavenir",
+	"infinitivo" : "desavenir",
+	"participio" : [ "desavenido" ],
+	"gerundio" : [ "desaviniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desavengo" ],
+			[ "desavienes", "desavenís" ],
+			[ "desaviene" ],
+			[ "desavenimos" ],
+			[ "desavenís", "desavienen" ],
+			[ "desavienen" ]
+		],
+		"4" : [
+			[ "desavine" ],
+			[ "desaviniste" ],
+			[ "desavino" ],
+			[ "desavinimos" ],
+			[ "desavinisteis", "desavinieron" ],
+			[ "desavinieron" ]
+		],
+		"5" : [
+			[ "desavenía" ],
+			[ "desavenías" ],
+			[ "desavenía" ],
+			[ "desaveníamos" ],
+			[ "desaveníais", "desavenían" ],
+			[ "desavenían" ]
+		],
+		"6" : [
+			[ "desavendría" ],
+			[ "desavendrías" ],
+			[ "desavendría" ],
+			[ "desavendríamos" ],
+			[ "desavendríais", "desavendrían" ],
+			[ "desavendrían" ]
+		],
+		"7" : [
+			[ "desavendré" ],
+			[ "desavendrás" ],
+			[ "desavendrá" ],
+			[ "desavendremos" ],
+			[ "desavendréis", "desavendrán" ],
+			[ "desavendrán" ]
+		],
+		"8" : [
+			[ "desavenga" ],
+			[ "desavengas" ],
+			[ "desavenga" ],
+			[ "desavengamos" ],
+			[ "desavengáis", "desavengan" ],
+			[ "desavengan" ]
+		],
+		"9" : [
+			[ "desaviniera" ],
+			[ "desavinieras" ],
+			[ "desaviniera" ],
+			[ "desaviniéramos" ],
+			[ "desavinierais", "desavinieran" ],
+			[ "desavinieran" ]
+		],
+		"10" : [
+			[ "desaviniese" ],
+			[ "desavinieses" ],
+			[ "desaviniese" ],
+			[ "desaviniésemos" ],
+			[ "desavinieseis", "desaviniesen" ],
+			[ "desaviniesen" ]
+		],
+		"11" : [
+			[ "desaviniere" ],
+			[ "desavinieres" ],
+			[ "desaviniere" ],
+			[ "desaviniéremos" ],
+			[ "desaviniereis", "desavinieren" ],
+			[ "desavinieren" ]
+		],
+		"12" : {
+			"1" : [ "desavén" ],
+			"2" : [ "desavenga" ],
+			"3" : [ "desavengamos" ],
+			"4" : [ "desavenid" ],
+			"5" : [ "desavengan" ]
+		}
+	}
+}

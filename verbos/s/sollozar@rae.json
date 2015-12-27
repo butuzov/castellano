@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sollozar",
+	"word" : "sollozar",
+	"infinitivo" : "sollozar",
+	"participio" : [ "sollozado" ],
+	"gerundio" : [ "sollozando" ],
+	"tenses" : {
+		"3" : [
+			[ "sollozo" ],
+			[ "sollozas", "sollozás" ],
+			[ "solloza" ],
+			[ "sollozamos" ],
+			[ "sollozáis", "sollozan" ],
+			[ "sollozan" ]
+		],
+		"4" : [
+			[ "sollocé" ],
+			[ "sollozaste" ],
+			[ "sollozó" ],
+			[ "sollozamos" ],
+			[ "sollozasteis", "sollozaron" ],
+			[ "sollozaron" ]
+		],
+		"5" : [
+			[ "sollozaba" ],
+			[ "sollozabas" ],
+			[ "sollozaba" ],
+			[ "sollozábamos" ],
+			[ "sollozabais", "sollozaban" ],
+			[ "sollozaban" ]
+		],
+		"6" : [
+			[ "sollozaría" ],
+			[ "sollozarías" ],
+			[ "sollozaría" ],
+			[ "sollozaríamos" ],
+			[ "sollozaríais", "sollozarían" ],
+			[ "sollozarían" ]
+		],
+		"7" : [
+			[ "sollozaré" ],
+			[ "sollozarás" ],
+			[ "sollozará" ],
+			[ "sollozaremos" ],
+			[ "sollozaréis", "sollozarán" ],
+			[ "sollozarán" ]
+		],
+		"8" : [
+			[ "solloce" ],
+			[ "solloces" ],
+			[ "solloce" ],
+			[ "sollocemos" ],
+			[ "sollocéis", "sollocen" ],
+			[ "sollocen" ]
+		],
+		"9" : [
+			[ "sollozara" ],
+			[ "sollozaras" ],
+			[ "sollozara" ],
+			[ "sollozáramos" ],
+			[ "sollozarais", "sollozaran" ],
+			[ "sollozaran" ]
+		],
+		"10" : [
+			[ "sollozase" ],
+			[ "sollozases" ],
+			[ "sollozase" ],
+			[ "sollozásemos" ],
+			[ "sollozaseis", "sollozasen" ],
+			[ "sollozasen" ]
+		],
+		"11" : [
+			[ "sollozare" ],
+			[ "sollozares" ],
+			[ "sollozare" ],
+			[ "sollozáremos" ],
+			[ "sollozareis", "sollozaren" ],
+			[ "sollozaren" ]
+		],
+		"12" : {
+			"1" : [ "solloza" ],
+			"2" : [ "solloce" ],
+			"3" : [ "sollocemos" ],
+			"4" : [ "sollozad" ],
+			"5" : [ "sollocen" ]
+		}
+	}
+}

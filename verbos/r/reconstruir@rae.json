@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reconstruir",
+	"word" : "reconstruir",
+	"infinitivo" : "reconstruir",
+	"participio" : [ "reconstruido" ],
+	"gerundio" : [ "reconstruyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reconstruyo" ],
+			[ "reconstruyes", "reconstruís" ],
+			[ "reconstruye" ],
+			[ "reconstruimos" ],
+			[ "reconstruís", "reconstruyen" ],
+			[ "reconstruyen" ]
+		],
+		"4" : [
+			[ "reconstruí" ],
+			[ "reconstruiste" ],
+			[ "reconstruyó" ],
+			[ "reconstruimos" ],
+			[ "reconstruisteis", "reconstruyeron" ],
+			[ "reconstruyeron" ]
+		],
+		"5" : [
+			[ "reconstruía" ],
+			[ "reconstruías" ],
+			[ "reconstruía" ],
+			[ "reconstruíamos" ],
+			[ "reconstruíais", "reconstruían" ],
+			[ "reconstruían" ]
+		],
+		"6" : [
+			[ "reconstruiría" ],
+			[ "reconstruirías" ],
+			[ "reconstruiría" ],
+			[ "reconstruiríamos" ],
+			[ "reconstruiríais", "reconstruirían" ],
+			[ "reconstruirían" ]
+		],
+		"7" : [
+			[ "reconstruiré" ],
+			[ "reconstruirás" ],
+			[ "reconstruirá" ],
+			[ "reconstruiremos" ],
+			[ "reconstruiréis", "reconstruirán" ],
+			[ "reconstruirán" ]
+		],
+		"8" : [
+			[ "reconstruya" ],
+			[ "reconstruyas" ],
+			[ "reconstruya" ],
+			[ "reconstruyamos" ],
+			[ "reconstruyáis", "reconstruyan" ],
+			[ "reconstruyan" ]
+		],
+		"9" : [
+			[ "reconstruyera" ],
+			[ "reconstruyeras" ],
+			[ "reconstruyera" ],
+			[ "reconstruyéramos" ],
+			[ "reconstruyerais", "reconstruyeran" ],
+			[ "reconstruyeran" ]
+		],
+		"10" : [
+			[ "reconstruyese" ],
+			[ "reconstruyeses" ],
+			[ "reconstruyese" ],
+			[ "reconstruyésemos" ],
+			[ "reconstruyeseis", "reconstruyesen" ],
+			[ "reconstruyesen" ]
+		],
+		"11" : [
+			[ "reconstruyere" ],
+			[ "reconstruyeres" ],
+			[ "reconstruyere" ],
+			[ "reconstruyéremos" ],
+			[ "reconstruyereis", "reconstruyeren" ],
+			[ "reconstruyeren" ]
+		],
+		"12" : {
+			"1" : [ "reconstruye" ],
+			"2" : [ "reconstruya" ],
+			"3" : [ "reconstruyamos" ],
+			"4" : [ "reconstruid" ],
+			"5" : [ "reconstruyan" ]
+		}
+	}
+}

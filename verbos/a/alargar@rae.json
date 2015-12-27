@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alargar",
+	"word" : "alargar",
+	"infinitivo" : "alargar",
+	"participio" : [ "alargado" ],
+	"gerundio" : [ "alargando" ],
+	"tenses" : {
+		"3" : [
+			[ "alargo" ],
+			[ "alargas", "alargás" ],
+			[ "alarga" ],
+			[ "alargamos" ],
+			[ "alargáis", "alargan" ],
+			[ "alargan" ]
+		],
+		"4" : [
+			[ "alargué" ],
+			[ "alargaste" ],
+			[ "alargó" ],
+			[ "alargamos" ],
+			[ "alargasteis", "alargaron" ],
+			[ "alargaron" ]
+		],
+		"5" : [
+			[ "alargaba" ],
+			[ "alargabas" ],
+			[ "alargaba" ],
+			[ "alargábamos" ],
+			[ "alargabais", "alargaban" ],
+			[ "alargaban" ]
+		],
+		"6" : [
+			[ "alargaría" ],
+			[ "alargarías" ],
+			[ "alargaría" ],
+			[ "alargaríamos" ],
+			[ "alargaríais", "alargarían" ],
+			[ "alargarían" ]
+		],
+		"7" : [
+			[ "alargaré" ],
+			[ "alargarás" ],
+			[ "alargará" ],
+			[ "alargaremos" ],
+			[ "alargaréis", "alargarán" ],
+			[ "alargarán" ]
+		],
+		"8" : [
+			[ "alargue" ],
+			[ "alargues" ],
+			[ "alargue" ],
+			[ "alarguemos" ],
+			[ "alarguéis", "alarguen" ],
+			[ "alarguen" ]
+		],
+		"9" : [
+			[ "alargara" ],
+			[ "alargaras" ],
+			[ "alargara" ],
+			[ "alargáramos" ],
+			[ "alargarais", "alargaran" ],
+			[ "alargaran" ]
+		],
+		"10" : [
+			[ "alargase" ],
+			[ "alargases" ],
+			[ "alargase" ],
+			[ "alargásemos" ],
+			[ "alargaseis", "alargasen" ],
+			[ "alargasen" ]
+		],
+		"11" : [
+			[ "alargare" ],
+			[ "alargares" ],
+			[ "alargare" ],
+			[ "alargáremos" ],
+			[ "alargareis", "alargaren" ],
+			[ "alargaren" ]
+		],
+		"12" : {
+			"1" : [ "alarga" ],
+			"2" : [ "alargue" ],
+			"3" : [ "alarguemos" ],
+			"4" : [ "alargad" ],
+			"5" : [ "alarguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pringar",
+	"word" : "pringar",
+	"infinitivo" : "pringar",
+	"participio" : [ "pringado" ],
+	"gerundio" : [ "pringando" ],
+	"tenses" : {
+		"3" : [
+			[ "pringo" ],
+			[ "pringas", "pringás" ],
+			[ "pringa" ],
+			[ "pringamos" ],
+			[ "pringáis", "pringan" ],
+			[ "pringan" ]
+		],
+		"4" : [
+			[ "pringué" ],
+			[ "pringaste" ],
+			[ "pringó" ],
+			[ "pringamos" ],
+			[ "pringasteis", "pringaron" ],
+			[ "pringaron" ]
+		],
+		"5" : [
+			[ "pringaba" ],
+			[ "pringabas" ],
+			[ "pringaba" ],
+			[ "pringábamos" ],
+			[ "pringabais", "pringaban" ],
+			[ "pringaban" ]
+		],
+		"6" : [
+			[ "pringaría" ],
+			[ "pringarías" ],
+			[ "pringaría" ],
+			[ "pringaríamos" ],
+			[ "pringaríais", "pringarían" ],
+			[ "pringarían" ]
+		],
+		"7" : [
+			[ "pringaré" ],
+			[ "pringarás" ],
+			[ "pringará" ],
+			[ "pringaremos" ],
+			[ "pringaréis", "pringarán" ],
+			[ "pringarán" ]
+		],
+		"8" : [
+			[ "pringue" ],
+			[ "pringues" ],
+			[ "pringue" ],
+			[ "pringuemos" ],
+			[ "pringuéis", "pringuen" ],
+			[ "pringuen" ]
+		],
+		"9" : [
+			[ "pringara" ],
+			[ "pringaras" ],
+			[ "pringara" ],
+			[ "pringáramos" ],
+			[ "pringarais", "pringaran" ],
+			[ "pringaran" ]
+		],
+		"10" : [
+			[ "pringase" ],
+			[ "pringases" ],
+			[ "pringase" ],
+			[ "pringásemos" ],
+			[ "pringaseis", "pringasen" ],
+			[ "pringasen" ]
+		],
+		"11" : [
+			[ "pringare" ],
+			[ "pringares" ],
+			[ "pringare" ],
+			[ "pringáremos" ],
+			[ "pringareis", "pringaren" ],
+			[ "pringaren" ]
+		],
+		"12" : {
+			"1" : [ "pringa" ],
+			"2" : [ "pringue" ],
+			"3" : [ "pringuemos" ],
+			"4" : [ "pringad" ],
+			"5" : [ "pringuen" ]
+		}
+	}
+}

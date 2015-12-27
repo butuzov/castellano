@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conferir",
+	"word" : "conferir",
+	"infinitivo" : "conferir",
+	"participio" : [ "conferido" ],
+	"gerundio" : [ "confiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "confiero" ],
+			[ "confieres", "conferís" ],
+			[ "confiere" ],
+			[ "conferimos" ],
+			[ "conferís", "confieren" ],
+			[ "confieren" ]
+		],
+		"4" : [
+			[ "conferí" ],
+			[ "conferiste" ],
+			[ "confirió" ],
+			[ "conferimos" ],
+			[ "conferisteis", "confirieron" ],
+			[ "confirieron" ]
+		],
+		"5" : [
+			[ "confería" ],
+			[ "conferías" ],
+			[ "confería" ],
+			[ "conferíamos" ],
+			[ "conferíais", "conferían" ],
+			[ "conferían" ]
+		],
+		"6" : [
+			[ "conferiría" ],
+			[ "conferirías" ],
+			[ "conferiría" ],
+			[ "conferiríamos" ],
+			[ "conferiríais", "conferirían" ],
+			[ "conferirían" ]
+		],
+		"7" : [
+			[ "conferiré" ],
+			[ "conferirás" ],
+			[ "conferirá" ],
+			[ "conferiremos" ],
+			[ "conferiréis", "conferirán" ],
+			[ "conferirán" ]
+		],
+		"8" : [
+			[ "confiera" ],
+			[ "confieras" ],
+			[ "confiera" ],
+			[ "confiramos" ],
+			[ "confiráis", "confieran" ],
+			[ "confieran" ]
+		],
+		"9" : [
+			[ "confiriera" ],
+			[ "confirieras" ],
+			[ "confiriera" ],
+			[ "confiriéramos" ],
+			[ "confirierais", "confirieran" ],
+			[ "confirieran" ]
+		],
+		"10" : [
+			[ "confiriese" ],
+			[ "confirieses" ],
+			[ "confiriese" ],
+			[ "confiriésemos" ],
+			[ "confirieseis", "confiriesen" ],
+			[ "confiriesen" ]
+		],
+		"11" : [
+			[ "confiriere" ],
+			[ "confirieres" ],
+			[ "confiriere" ],
+			[ "confiriéremos" ],
+			[ "confiriereis", "confirieren" ],
+			[ "confirieren" ]
+		],
+		"12" : {
+			"1" : [ "confiere" ],
+			"2" : [ "confiera" ],
+			"3" : [ "confiramos" ],
+			"4" : [ "conferid" ],
+			"5" : [ "confieran" ]
+		}
+	}
+}

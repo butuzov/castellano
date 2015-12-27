@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=falsar",
+	"word" : "falsar",
+	"infinitivo" : "falsar",
+	"participio" : [ "falsado" ],
+	"gerundio" : [ "falsando" ],
+	"tenses" : {
+		"3" : [
+			[ "falso" ],
+			[ "falsas", "falsás" ],
+			[ "falsa" ],
+			[ "falsamos" ],
+			[ "falsáis", "falsan" ],
+			[ "falsan" ]
+		],
+		"4" : [
+			[ "falsé" ],
+			[ "falsaste" ],
+			[ "falsó" ],
+			[ "falsamos" ],
+			[ "falsasteis", "falsaron" ],
+			[ "falsaron" ]
+		],
+		"5" : [
+			[ "falsaba" ],
+			[ "falsabas" ],
+			[ "falsaba" ],
+			[ "falsábamos" ],
+			[ "falsabais", "falsaban" ],
+			[ "falsaban" ]
+		],
+		"6" : [
+			[ "falsaría" ],
+			[ "falsarías" ],
+			[ "falsaría" ],
+			[ "falsaríamos" ],
+			[ "falsaríais", "falsarían" ],
+			[ "falsarían" ]
+		],
+		"7" : [
+			[ "falsaré" ],
+			[ "falsarás" ],
+			[ "falsará" ],
+			[ "falsaremos" ],
+			[ "falsaréis", "falsarán" ],
+			[ "falsarán" ]
+		],
+		"8" : [
+			[ "false" ],
+			[ "falses" ],
+			[ "false" ],
+			[ "falsemos" ],
+			[ "falséis", "falsen" ],
+			[ "falsen" ]
+		],
+		"9" : [
+			[ "falsara" ],
+			[ "falsaras" ],
+			[ "falsara" ],
+			[ "falsáramos" ],
+			[ "falsarais", "falsaran" ],
+			[ "falsaran" ]
+		],
+		"10" : [
+			[ "falsase" ],
+			[ "falsases" ],
+			[ "falsase" ],
+			[ "falsásemos" ],
+			[ "falsaseis", "falsasen" ],
+			[ "falsasen" ]
+		],
+		"11" : [
+			[ "falsare" ],
+			[ "falsares" ],
+			[ "falsare" ],
+			[ "falsáremos" ],
+			[ "falsareis", "falsaren" ],
+			[ "falsaren" ]
+		],
+		"12" : {
+			"1" : [ "falsa" ],
+			"2" : [ "false" ],
+			"3" : [ "falsemos" ],
+			"4" : [ "falsad" ],
+			"5" : [ "falsen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reconcentrar",
+	"word" : "reconcentrar",
+	"infinitivo" : "reconcentrar",
+	"participio" : [ "reconcentrado" ],
+	"gerundio" : [ "reconcentrando" ],
+	"tenses" : {
+		"3" : [
+			[ "reconcentro" ],
+			[ "reconcentras", "reconcentrás" ],
+			[ "reconcentra" ],
+			[ "reconcentramos" ],
+			[ "reconcentráis", "reconcentran" ],
+			[ "reconcentran" ]
+		],
+		"4" : [
+			[ "reconcentré" ],
+			[ "reconcentraste" ],
+			[ "reconcentró" ],
+			[ "reconcentramos" ],
+			[ "reconcentrasteis", "reconcentraron" ],
+			[ "reconcentraron" ]
+		],
+		"5" : [
+			[ "reconcentraba" ],
+			[ "reconcentrabas" ],
+			[ "reconcentraba" ],
+			[ "reconcentrábamos" ],
+			[ "reconcentrabais", "reconcentraban" ],
+			[ "reconcentraban" ]
+		],
+		"6" : [
+			[ "reconcentraría" ],
+			[ "reconcentrarías" ],
+			[ "reconcentraría" ],
+			[ "reconcentraríamos" ],
+			[ "reconcentraríais", "reconcentrarían" ],
+			[ "reconcentrarían" ]
+		],
+		"7" : [
+			[ "reconcentraré" ],
+			[ "reconcentrarás" ],
+			[ "reconcentrará" ],
+			[ "reconcentraremos" ],
+			[ "reconcentraréis", "reconcentrarán" ],
+			[ "reconcentrarán" ]
+		],
+		"8" : [
+			[ "reconcentre" ],
+			[ "reconcentres" ],
+			[ "reconcentre" ],
+			[ "reconcentremos" ],
+			[ "reconcentréis", "reconcentren" ],
+			[ "reconcentren" ]
+		],
+		"9" : [
+			[ "reconcentrara" ],
+			[ "reconcentraras" ],
+			[ "reconcentrara" ],
+			[ "reconcentráramos" ],
+			[ "reconcentrarais", "reconcentraran" ],
+			[ "reconcentraran" ]
+		],
+		"10" : [
+			[ "reconcentrase" ],
+			[ "reconcentrases" ],
+			[ "reconcentrase" ],
+			[ "reconcentrásemos" ],
+			[ "reconcentraseis", "reconcentrasen" ],
+			[ "reconcentrasen" ]
+		],
+		"11" : [
+			[ "reconcentrare" ],
+			[ "reconcentrares" ],
+			[ "reconcentrare" ],
+			[ "reconcentráremos" ],
+			[ "reconcentrareis", "reconcentraren" ],
+			[ "reconcentraren" ]
+		],
+		"12" : {
+			"1" : [ "reconcentra" ],
+			"2" : [ "reconcentre" ],
+			"3" : [ "reconcentremos" ],
+			"4" : [ "reconcentrad" ],
+			"5" : [ "reconcentren" ]
+		}
+	}
+}

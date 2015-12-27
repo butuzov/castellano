@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despearse",
+	"word" : "despearse",
+	"infinitivo" : "despearse",
+	"participio" : [ "despeado" ],
+	"gerundio" : [ "despeándome", "despeándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me despeo" ],
+			[ "te despeas", "te despeás" ],
+			[ "se despea" ],
+			[ "nos despeamos" ],
+			[ "os despeáis", "se despean" ],
+			[ "se despean" ]
+		],
+		"4" : [
+			[ "me despeé" ],
+			[ "te despeaste" ],
+			[ "se despeó" ],
+			[ "nos despeamos" ],
+			[ "os despeasteis", "se despearon" ],
+			[ "se despearon" ]
+		],
+		"5" : [
+			[ "me despeaba" ],
+			[ "te despeabas" ],
+			[ "se despeaba" ],
+			[ "nos despeábamos" ],
+			[ "os despeabais", "se despeaban" ],
+			[ "se despeaban" ]
+		],
+		"6" : [
+			[ "me despearía" ],
+			[ "te despearías" ],
+			[ "se despearía" ],
+			[ "nos despearíamos" ],
+			[ "os despearíais", "se despearían" ],
+			[ "se despearían" ]
+		],
+		"7" : [
+			[ "me despearé" ],
+			[ "te despearás" ],
+			[ "se despeará" ],
+			[ "nos despearemos" ],
+			[ "os despearéis", "se despearán" ],
+			[ "se despearán" ]
+		],
+		"8" : [
+			[ "me despee" ],
+			[ "te despees" ],
+			[ "se despee" ],
+			[ "nos despeemos" ],
+			[ "os despeéis", "se despeen" ],
+			[ "se despeen" ]
+		],
+		"9" : [
+			[ "me despeara" ],
+			[ "te despearas" ],
+			[ "se despeara" ],
+			[ "nos despeáramos" ],
+			[ "os despearais", "se despearan" ],
+			[ "se despearan" ]
+		],
+		"10" : [
+			[ "me despease" ],
+			[ "te despeases" ],
+			[ "se despease" ],
+			[ "nos despeásemos" ],
+			[ "os despeaseis", "se despeasen" ],
+			[ "se despeasen" ]
+		],
+		"11" : [
+			[ "me despeare" ],
+			[ "te despeares" ],
+			[ "se despeare" ],
+			[ "nos despeáremos" ],
+			[ "os despeareis", "se despearen" ],
+			[ "se despearen" ]
+		],
+		"12" : {
+			"1" : [ "despéate" ],
+			"2" : [ "despee" ],
+			"3" : [ "despeemos" ],
+			"4" : [ "despeaos" ],
+			"5" : [ "despéense" ]
+		}
+	}
+}

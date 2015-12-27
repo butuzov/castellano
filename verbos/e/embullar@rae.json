@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embullar",
+	"word" : "embullar",
+	"infinitivo" : "embullar",
+	"participio" : [ "embullado" ],
+	"gerundio" : [ "embullando" ],
+	"tenses" : {
+		"3" : [
+			[ "embullo" ],
+			[ "embullas", "embullás" ],
+			[ "embulla" ],
+			[ "embullamos" ],
+			[ "embulláis", "embullan" ],
+			[ "embullan" ]
+		],
+		"4" : [
+			[ "embullé" ],
+			[ "embullaste" ],
+			[ "embulló" ],
+			[ "embullamos" ],
+			[ "embullasteis", "embullaron" ],
+			[ "embullaron" ]
+		],
+		"5" : [
+			[ "embullaba" ],
+			[ "embullabas" ],
+			[ "embullaba" ],
+			[ "embullábamos" ],
+			[ "embullabais", "embullaban" ],
+			[ "embullaban" ]
+		],
+		"6" : [
+			[ "embullaría" ],
+			[ "embullarías" ],
+			[ "embullaría" ],
+			[ "embullaríamos" ],
+			[ "embullaríais", "embullarían" ],
+			[ "embullarían" ]
+		],
+		"7" : [
+			[ "embullaré" ],
+			[ "embullarás" ],
+			[ "embullará" ],
+			[ "embullaremos" ],
+			[ "embullaréis", "embullarán" ],
+			[ "embullarán" ]
+		],
+		"8" : [
+			[ "embulle" ],
+			[ "embulles" ],
+			[ "embulle" ],
+			[ "embullemos" ],
+			[ "embulléis", "embullen" ],
+			[ "embullen" ]
+		],
+		"9" : [
+			[ "embullara" ],
+			[ "embullaras" ],
+			[ "embullara" ],
+			[ "embulláramos" ],
+			[ "embullarais", "embullaran" ],
+			[ "embullaran" ]
+		],
+		"10" : [
+			[ "embullase" ],
+			[ "embullases" ],
+			[ "embullase" ],
+			[ "embullásemos" ],
+			[ "embullaseis", "embullasen" ],
+			[ "embullasen" ]
+		],
+		"11" : [
+			[ "embullare" ],
+			[ "embullares" ],
+			[ "embullare" ],
+			[ "embulláremos" ],
+			[ "embullareis", "embullaren" ],
+			[ "embullaren" ]
+		],
+		"12" : {
+			"1" : [ "embulla" ],
+			"2" : [ "embulle" ],
+			"3" : [ "embullemos" ],
+			"4" : [ "embullad" ],
+			"5" : [ "embullen" ]
+		}
+	}
+}

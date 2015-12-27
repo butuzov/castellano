@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=traspasar",
+	"word" : "traspasar",
+	"infinitivo" : "traspasar",
+	"participio" : [ "traspasado" ],
+	"gerundio" : [ "traspasando" ],
+	"tenses" : {
+		"3" : [
+			[ "traspaso" ],
+			[ "traspasas", "traspasás" ],
+			[ "traspasa" ],
+			[ "traspasamos" ],
+			[ "traspasáis", "traspasan" ],
+			[ "traspasan" ]
+		],
+		"4" : [
+			[ "traspasé" ],
+			[ "traspasaste" ],
+			[ "traspasó" ],
+			[ "traspasamos" ],
+			[ "traspasasteis", "traspasaron" ],
+			[ "traspasaron" ]
+		],
+		"5" : [
+			[ "traspasaba" ],
+			[ "traspasabas" ],
+			[ "traspasaba" ],
+			[ "traspasábamos" ],
+			[ "traspasabais", "traspasaban" ],
+			[ "traspasaban" ]
+		],
+		"6" : [
+			[ "traspasaría" ],
+			[ "traspasarías" ],
+			[ "traspasaría" ],
+			[ "traspasaríamos" ],
+			[ "traspasaríais", "traspasarían" ],
+			[ "traspasarían" ]
+		],
+		"7" : [
+			[ "traspasaré" ],
+			[ "traspasarás" ],
+			[ "traspasará" ],
+			[ "traspasaremos" ],
+			[ "traspasaréis", "traspasarán" ],
+			[ "traspasarán" ]
+		],
+		"8" : [
+			[ "traspase" ],
+			[ "traspases" ],
+			[ "traspase" ],
+			[ "traspasemos" ],
+			[ "traspaséis", "traspasen" ],
+			[ "traspasen" ]
+		],
+		"9" : [
+			[ "traspasara" ],
+			[ "traspasaras" ],
+			[ "traspasara" ],
+			[ "traspasáramos" ],
+			[ "traspasarais", "traspasaran" ],
+			[ "traspasaran" ]
+		],
+		"10" : [
+			[ "traspasase" ],
+			[ "traspasases" ],
+			[ "traspasase" ],
+			[ "traspasásemos" ],
+			[ "traspasaseis", "traspasasen" ],
+			[ "traspasasen" ]
+		],
+		"11" : [
+			[ "traspasare" ],
+			[ "traspasares" ],
+			[ "traspasare" ],
+			[ "traspasáremos" ],
+			[ "traspasareis", "traspasaren" ],
+			[ "traspasaren" ]
+		],
+		"12" : {
+			"1" : [ "traspasa" ],
+			"2" : [ "traspase" ],
+			"3" : [ "traspasemos" ],
+			"4" : [ "traspasad" ],
+			"5" : [ "traspasen" ]
+		}
+	}
+}

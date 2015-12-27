@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=continuar",
+	"word" : "continuar",
+	"infinitivo" : "continuar",
+	"participio" : [ "continuado" ],
+	"gerundio" : [ "continuando" ],
+	"tenses" : {
+		"3" : [
+			[ "continúo" ],
+			[ "continúas", "continuás" ],
+			[ "continúa" ],
+			[ "continuamos" ],
+			[ "continuáis", "continúan" ],
+			[ "continúan" ]
+		],
+		"4" : [
+			[ "continué" ],
+			[ "continuaste" ],
+			[ "continuó" ],
+			[ "continuamos" ],
+			[ "continuasteis", "continuaron" ],
+			[ "continuaron" ]
+		],
+		"5" : [
+			[ "continuaba" ],
+			[ "continuabas" ],
+			[ "continuaba" ],
+			[ "continuábamos" ],
+			[ "continuabais", "continuaban" ],
+			[ "continuaban" ]
+		],
+		"6" : [
+			[ "continuaría" ],
+			[ "continuarías" ],
+			[ "continuaría" ],
+			[ "continuaríamos" ],
+			[ "continuaríais", "continuarían" ],
+			[ "continuarían" ]
+		],
+		"7" : [
+			[ "continuaré" ],
+			[ "continuarás" ],
+			[ "continuará" ],
+			[ "continuaremos" ],
+			[ "continuaréis", "continuarán" ],
+			[ "continuarán" ]
+		],
+		"8" : [
+			[ "continúe" ],
+			[ "continúes" ],
+			[ "continúe" ],
+			[ "continuemos" ],
+			[ "continuéis", "continúen" ],
+			[ "continúen" ]
+		],
+		"9" : [
+			[ "continuara" ],
+			[ "continuaras" ],
+			[ "continuara" ],
+			[ "continuáramos" ],
+			[ "continuarais", "continuaran" ],
+			[ "continuaran" ]
+		],
+		"10" : [
+			[ "continuase" ],
+			[ "continuases" ],
+			[ "continuase" ],
+			[ "continuásemos" ],
+			[ "continuaseis", "continuasen" ],
+			[ "continuasen" ]
+		],
+		"11" : [
+			[ "continuare" ],
+			[ "continuares" ],
+			[ "continuare" ],
+			[ "continuáremos" ],
+			[ "continuareis", "continuaren" ],
+			[ "continuaren" ]
+		],
+		"12" : {
+			"1" : [ "continúa" ],
+			"2" : [ "continúe" ],
+			"3" : [ "continuemos" ],
+			"4" : [ "continuad" ],
+			"5" : [ "continúen" ]
+		}
+	}
+}

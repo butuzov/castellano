@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recobrar",
+	"word" : "recobrar",
+	"infinitivo" : "recobrar",
+	"participio" : [ "recobrado" ],
+	"gerundio" : [ "recobrando" ],
+	"tenses" : {
+		"3" : [
+			[ "recobro" ],
+			[ "recobras", "recobrás" ],
+			[ "recobra" ],
+			[ "recobramos" ],
+			[ "recobráis", "recobran" ],
+			[ "recobran" ]
+		],
+		"4" : [
+			[ "recobré" ],
+			[ "recobraste" ],
+			[ "recobró" ],
+			[ "recobramos" ],
+			[ "recobrasteis", "recobraron" ],
+			[ "recobraron" ]
+		],
+		"5" : [
+			[ "recobraba" ],
+			[ "recobrabas" ],
+			[ "recobraba" ],
+			[ "recobrábamos" ],
+			[ "recobrabais", "recobraban" ],
+			[ "recobraban" ]
+		],
+		"6" : [
+			[ "recobraría" ],
+			[ "recobrarías" ],
+			[ "recobraría" ],
+			[ "recobraríamos" ],
+			[ "recobraríais", "recobrarían" ],
+			[ "recobrarían" ]
+		],
+		"7" : [
+			[ "recobraré" ],
+			[ "recobrarás" ],
+			[ "recobrará" ],
+			[ "recobraremos" ],
+			[ "recobraréis", "recobrarán" ],
+			[ "recobrarán" ]
+		],
+		"8" : [
+			[ "recobre" ],
+			[ "recobres" ],
+			[ "recobre" ],
+			[ "recobremos" ],
+			[ "recobréis", "recobren" ],
+			[ "recobren" ]
+		],
+		"9" : [
+			[ "recobrara" ],
+			[ "recobraras" ],
+			[ "recobrara" ],
+			[ "recobráramos" ],
+			[ "recobrarais", "recobraran" ],
+			[ "recobraran" ]
+		],
+		"10" : [
+			[ "recobrase" ],
+			[ "recobrases" ],
+			[ "recobrase" ],
+			[ "recobrásemos" ],
+			[ "recobraseis", "recobrasen" ],
+			[ "recobrasen" ]
+		],
+		"11" : [
+			[ "recobrare" ],
+			[ "recobrares" ],
+			[ "recobrare" ],
+			[ "recobráremos" ],
+			[ "recobrareis", "recobraren" ],
+			[ "recobraren" ]
+		],
+		"12" : {
+			"1" : [ "recobra" ],
+			"2" : [ "recobre" ],
+			"3" : [ "recobremos" ],
+			"4" : [ "recobrad" ],
+			"5" : [ "recobren" ]
+		}
+	}
+}

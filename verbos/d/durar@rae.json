@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=durar",
+	"word" : "durar",
+	"infinitivo" : "durar",
+	"participio" : [ "durado" ],
+	"gerundio" : [ "durando" ],
+	"tenses" : {
+		"3" : [
+			[ "duro" ],
+			[ "duras", "durás" ],
+			[ "dura" ],
+			[ "duramos" ],
+			[ "duráis", "duran" ],
+			[ "duran" ]
+		],
+		"4" : [
+			[ "duré" ],
+			[ "duraste" ],
+			[ "duró" ],
+			[ "duramos" ],
+			[ "durasteis", "duraron" ],
+			[ "duraron" ]
+		],
+		"5" : [
+			[ "duraba" ],
+			[ "durabas" ],
+			[ "duraba" ],
+			[ "durábamos" ],
+			[ "durabais", "duraban" ],
+			[ "duraban" ]
+		],
+		"6" : [
+			[ "duraría" ],
+			[ "durarías" ],
+			[ "duraría" ],
+			[ "duraríamos" ],
+			[ "duraríais", "durarían" ],
+			[ "durarían" ]
+		],
+		"7" : [
+			[ "duraré" ],
+			[ "durarás" ],
+			[ "durará" ],
+			[ "duraremos" ],
+			[ "duraréis", "durarán" ],
+			[ "durarán" ]
+		],
+		"8" : [
+			[ "dure" ],
+			[ "dures" ],
+			[ "dure" ],
+			[ "duremos" ],
+			[ "duréis", "duren" ],
+			[ "duren" ]
+		],
+		"9" : [
+			[ "durara" ],
+			[ "duraras" ],
+			[ "durara" ],
+			[ "duráramos" ],
+			[ "durarais", "duraran" ],
+			[ "duraran" ]
+		],
+		"10" : [
+			[ "durase" ],
+			[ "durases" ],
+			[ "durase" ],
+			[ "durásemos" ],
+			[ "duraseis", "durasen" ],
+			[ "durasen" ]
+		],
+		"11" : [
+			[ "durare" ],
+			[ "durares" ],
+			[ "durare" ],
+			[ "duráremos" ],
+			[ "durareis", "duraren" ],
+			[ "duraren" ]
+		],
+		"12" : {
+			"1" : [ "dura" ],
+			"2" : [ "dure" ],
+			"3" : [ "duremos" ],
+			"4" : [ "durad" ],
+			"5" : [ "duren" ]
+		}
+	}
+}

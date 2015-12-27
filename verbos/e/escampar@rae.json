@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escampar",
+	"word" : "escampar",
+	"infinitivo" : "escampar",
+	"participio" : [ "escampado" ],
+	"gerundio" : [ "escampando" ],
+	"tenses" : {
+		"3" : [
+			[ "escampo" ],
+			[ "escampas", "escampás" ],
+			[ "escampa" ],
+			[ "escampamos" ],
+			[ "escampáis", "escampan" ],
+			[ "escampan" ]
+		],
+		"4" : [
+			[ "escampé" ],
+			[ "escampaste" ],
+			[ "escampó" ],
+			[ "escampamos" ],
+			[ "escampasteis", "escamparon" ],
+			[ "escamparon" ]
+		],
+		"5" : [
+			[ "escampaba" ],
+			[ "escampabas" ],
+			[ "escampaba" ],
+			[ "escampábamos" ],
+			[ "escampabais", "escampaban" ],
+			[ "escampaban" ]
+		],
+		"6" : [
+			[ "escamparía" ],
+			[ "escamparías" ],
+			[ "escamparía" ],
+			[ "escamparíamos" ],
+			[ "escamparíais", "escamparían" ],
+			[ "escamparían" ]
+		],
+		"7" : [
+			[ "escamparé" ],
+			[ "escamparás" ],
+			[ "escampará" ],
+			[ "escamparemos" ],
+			[ "escamparéis", "escamparán" ],
+			[ "escamparán" ]
+		],
+		"8" : [
+			[ "escampe" ],
+			[ "escampes" ],
+			[ "escampe" ],
+			[ "escampemos" ],
+			[ "escampéis", "escampen" ],
+			[ "escampen" ]
+		],
+		"9" : [
+			[ "escampara" ],
+			[ "escamparas" ],
+			[ "escampara" ],
+			[ "escampáramos" ],
+			[ "escamparais", "escamparan" ],
+			[ "escamparan" ]
+		],
+		"10" : [
+			[ "escampase" ],
+			[ "escampases" ],
+			[ "escampase" ],
+			[ "escampásemos" ],
+			[ "escampaseis", "escampasen" ],
+			[ "escampasen" ]
+		],
+		"11" : [
+			[ "escampare" ],
+			[ "escampares" ],
+			[ "escampare" ],
+			[ "escampáremos" ],
+			[ "escampareis", "escamparen" ],
+			[ "escamparen" ]
+		],
+		"12" : {
+			"1" : [ "escampa" ],
+			"2" : [ "escampe" ],
+			"3" : [ "escampemos" ],
+			"4" : [ "escampad" ],
+			"5" : [ "escampen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abjurar",
+	"word" : "abjurar",
+	"infinitivo" : "abjurar",
+	"participio" : [ "abjurado" ],
+	"gerundio" : [ "abjurando" ],
+	"tenses" : {
+		"3" : [
+			[ "abjuro" ],
+			[ "abjuras", "abjurás" ],
+			[ "abjura" ],
+			[ "abjuramos" ],
+			[ "abjuráis", "abjuran" ],
+			[ "abjuran" ]
+		],
+		"4" : [
+			[ "abjuré" ],
+			[ "abjuraste" ],
+			[ "abjuró" ],
+			[ "abjuramos" ],
+			[ "abjurasteis", "abjuraron" ],
+			[ "abjuraron" ]
+		],
+		"5" : [
+			[ "abjuraba" ],
+			[ "abjurabas" ],
+			[ "abjuraba" ],
+			[ "abjurábamos" ],
+			[ "abjurabais", "abjuraban" ],
+			[ "abjuraban" ]
+		],
+		"6" : [
+			[ "abjuraría" ],
+			[ "abjurarías" ],
+			[ "abjuraría" ],
+			[ "abjuraríamos" ],
+			[ "abjuraríais", "abjurarían" ],
+			[ "abjurarían" ]
+		],
+		"7" : [
+			[ "abjuraré" ],
+			[ "abjurarás" ],
+			[ "abjurará" ],
+			[ "abjuraremos" ],
+			[ "abjuraréis", "abjurarán" ],
+			[ "abjurarán" ]
+		],
+		"8" : [
+			[ "abjure" ],
+			[ "abjures" ],
+			[ "abjure" ],
+			[ "abjuremos" ],
+			[ "abjuréis", "abjuren" ],
+			[ "abjuren" ]
+		],
+		"9" : [
+			[ "abjurara" ],
+			[ "abjuraras" ],
+			[ "abjurara" ],
+			[ "abjuráramos" ],
+			[ "abjurarais", "abjuraran" ],
+			[ "abjuraran" ]
+		],
+		"10" : [
+			[ "abjurase" ],
+			[ "abjurases" ],
+			[ "abjurase" ],
+			[ "abjurásemos" ],
+			[ "abjuraseis", "abjurasen" ],
+			[ "abjurasen" ]
+		],
+		"11" : [
+			[ "abjurare" ],
+			[ "abjurares" ],
+			[ "abjurare" ],
+			[ "abjuráremos" ],
+			[ "abjurareis", "abjuraren" ],
+			[ "abjuraren" ]
+		],
+		"12" : {
+			"1" : [ "abjura" ],
+			"2" : [ "abjure" ],
+			"3" : [ "abjuremos" ],
+			"4" : [ "abjurad" ],
+			"5" : [ "abjuren" ]
+		}
+	}
+}

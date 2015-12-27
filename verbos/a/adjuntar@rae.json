@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adjuntar",
+	"word" : "adjuntar",
+	"infinitivo" : "adjuntar",
+	"participio" : [ "adjuntado" ],
+	"gerundio" : [ "adjuntando" ],
+	"tenses" : {
+		"3" : [
+			[ "adjunto" ],
+			[ "adjuntas", "adjuntás" ],
+			[ "adjunta" ],
+			[ "adjuntamos" ],
+			[ "adjuntáis", "adjuntan" ],
+			[ "adjuntan" ]
+		],
+		"4" : [
+			[ "adjunté" ],
+			[ "adjuntaste" ],
+			[ "adjuntó" ],
+			[ "adjuntamos" ],
+			[ "adjuntasteis", "adjuntaron" ],
+			[ "adjuntaron" ]
+		],
+		"5" : [
+			[ "adjuntaba" ],
+			[ "adjuntabas" ],
+			[ "adjuntaba" ],
+			[ "adjuntábamos" ],
+			[ "adjuntabais", "adjuntaban" ],
+			[ "adjuntaban" ]
+		],
+		"6" : [
+			[ "adjuntaría" ],
+			[ "adjuntarías" ],
+			[ "adjuntaría" ],
+			[ "adjuntaríamos" ],
+			[ "adjuntaríais", "adjuntarían" ],
+			[ "adjuntarían" ]
+		],
+		"7" : [
+			[ "adjuntaré" ],
+			[ "adjuntarás" ],
+			[ "adjuntará" ],
+			[ "adjuntaremos" ],
+			[ "adjuntaréis", "adjuntarán" ],
+			[ "adjuntarán" ]
+		],
+		"8" : [
+			[ "adjunte" ],
+			[ "adjuntes" ],
+			[ "adjunte" ],
+			[ "adjuntemos" ],
+			[ "adjuntéis", "adjunten" ],
+			[ "adjunten" ]
+		],
+		"9" : [
+			[ "adjuntara" ],
+			[ "adjuntaras" ],
+			[ "adjuntara" ],
+			[ "adjuntáramos" ],
+			[ "adjuntarais", "adjuntaran" ],
+			[ "adjuntaran" ]
+		],
+		"10" : [
+			[ "adjuntase" ],
+			[ "adjuntases" ],
+			[ "adjuntase" ],
+			[ "adjuntásemos" ],
+			[ "adjuntaseis", "adjuntasen" ],
+			[ "adjuntasen" ]
+		],
+		"11" : [
+			[ "adjuntare" ],
+			[ "adjuntares" ],
+			[ "adjuntare" ],
+			[ "adjuntáremos" ],
+			[ "adjuntareis", "adjuntaren" ],
+			[ "adjuntaren" ]
+		],
+		"12" : {
+			"1" : [ "adjunta" ],
+			"2" : [ "adjunte" ],
+			"3" : [ "adjuntemos" ],
+			"4" : [ "adjuntad" ],
+			"5" : [ "adjunten" ]
+		}
+	}
+}

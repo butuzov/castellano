@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recrear",
+	"word" : "recrear",
+	"infinitivo" : "recrear",
+	"participio" : [ "recreado" ],
+	"gerundio" : [ "recreando" ],
+	"tenses" : {
+		"3" : [
+			[ "recreo" ],
+			[ "recreas", "recreás" ],
+			[ "recrea" ],
+			[ "recreamos" ],
+			[ "recreáis", "recrean" ],
+			[ "recrean" ]
+		],
+		"4" : [
+			[ "recreé" ],
+			[ "recreaste" ],
+			[ "recreó" ],
+			[ "recreamos" ],
+			[ "recreasteis", "recrearon" ],
+			[ "recrearon" ]
+		],
+		"5" : [
+			[ "recreaba" ],
+			[ "recreabas" ],
+			[ "recreaba" ],
+			[ "recreábamos" ],
+			[ "recreabais", "recreaban" ],
+			[ "recreaban" ]
+		],
+		"6" : [
+			[ "recrearía" ],
+			[ "recrearías" ],
+			[ "recrearía" ],
+			[ "recrearíamos" ],
+			[ "recrearíais", "recrearían" ],
+			[ "recrearían" ]
+		],
+		"7" : [
+			[ "recrearé" ],
+			[ "recrearás" ],
+			[ "recreará" ],
+			[ "recrearemos" ],
+			[ "recrearéis", "recrearán" ],
+			[ "recrearán" ]
+		],
+		"8" : [
+			[ "recree" ],
+			[ "recrees" ],
+			[ "recree" ],
+			[ "recreemos" ],
+			[ "recreéis", "recreen" ],
+			[ "recreen" ]
+		],
+		"9" : [
+			[ "recreara" ],
+			[ "recrearas" ],
+			[ "recreara" ],
+			[ "recreáramos" ],
+			[ "recrearais", "recrearan" ],
+			[ "recrearan" ]
+		],
+		"10" : [
+			[ "recrease" ],
+			[ "recreases" ],
+			[ "recrease" ],
+			[ "recreásemos" ],
+			[ "recreaseis", "recreasen" ],
+			[ "recreasen" ]
+		],
+		"11" : [
+			[ "recreare" ],
+			[ "recreares" ],
+			[ "recreare" ],
+			[ "recreáremos" ],
+			[ "recreareis", "recrearen" ],
+			[ "recrearen" ]
+		],
+		"12" : {
+			"1" : [ "recrea" ],
+			"2" : [ "recree" ],
+			"3" : [ "recreemos" ],
+			"4" : [ "recread" ],
+			"5" : [ "recreen" ]
+		}
+	}
+}

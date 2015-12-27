@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dragar",
+	"word" : "dragar",
+	"infinitivo" : "dragar",
+	"participio" : [ "dragado" ],
+	"gerundio" : [ "dragando" ],
+	"tenses" : {
+		"3" : [
+			[ "drago" ],
+			[ "dragas", "dragás" ],
+			[ "draga" ],
+			[ "dragamos" ],
+			[ "dragáis", "dragan" ],
+			[ "dragan" ]
+		],
+		"4" : [
+			[ "dragué" ],
+			[ "dragaste" ],
+			[ "dragó" ],
+			[ "dragamos" ],
+			[ "dragasteis", "dragaron" ],
+			[ "dragaron" ]
+		],
+		"5" : [
+			[ "dragaba" ],
+			[ "dragabas" ],
+			[ "dragaba" ],
+			[ "dragábamos" ],
+			[ "dragabais", "dragaban" ],
+			[ "dragaban" ]
+		],
+		"6" : [
+			[ "dragaría" ],
+			[ "dragarías" ],
+			[ "dragaría" ],
+			[ "dragaríamos" ],
+			[ "dragaríais", "dragarían" ],
+			[ "dragarían" ]
+		],
+		"7" : [
+			[ "dragaré" ],
+			[ "dragarás" ],
+			[ "dragará" ],
+			[ "dragaremos" ],
+			[ "dragaréis", "dragarán" ],
+			[ "dragarán" ]
+		],
+		"8" : [
+			[ "drague" ],
+			[ "dragues" ],
+			[ "drague" ],
+			[ "draguemos" ],
+			[ "draguéis", "draguen" ],
+			[ "draguen" ]
+		],
+		"9" : [
+			[ "dragara" ],
+			[ "dragaras" ],
+			[ "dragara" ],
+			[ "dragáramos" ],
+			[ "dragarais", "dragaran" ],
+			[ "dragaran" ]
+		],
+		"10" : [
+			[ "dragase" ],
+			[ "dragases" ],
+			[ "dragase" ],
+			[ "dragásemos" ],
+			[ "dragaseis", "dragasen" ],
+			[ "dragasen" ]
+		],
+		"11" : [
+			[ "dragare" ],
+			[ "dragares" ],
+			[ "dragare" ],
+			[ "dragáremos" ],
+			[ "dragareis", "dragaren" ],
+			[ "dragaren" ]
+		],
+		"12" : {
+			"1" : [ "draga" ],
+			"2" : [ "drague" ],
+			"3" : [ "draguemos" ],
+			"4" : [ "dragad" ],
+			"5" : [ "draguen" ]
+		}
+	}
+}

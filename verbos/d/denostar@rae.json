@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=denostar",
+	"word" : "denostar",
+	"infinitivo" : "denostar",
+	"participio" : [ "denostado" ],
+	"gerundio" : [ "denostando" ],
+	"tenses" : {
+		"3" : [
+			[ "denuesto" ],
+			[ "denuestas", "denostás" ],
+			[ "denuesta" ],
+			[ "denostamos" ],
+			[ "denostáis", "denuestan" ],
+			[ "denuestan" ]
+		],
+		"4" : [
+			[ "denosté" ],
+			[ "denostaste" ],
+			[ "denostó" ],
+			[ "denostamos" ],
+			[ "denostasteis", "denostaron" ],
+			[ "denostaron" ]
+		],
+		"5" : [
+			[ "denostaba" ],
+			[ "denostabas" ],
+			[ "denostaba" ],
+			[ "denostábamos" ],
+			[ "denostabais", "denostaban" ],
+			[ "denostaban" ]
+		],
+		"6" : [
+			[ "denostaría" ],
+			[ "denostarías" ],
+			[ "denostaría" ],
+			[ "denostaríamos" ],
+			[ "denostaríais", "denostarían" ],
+			[ "denostarían" ]
+		],
+		"7" : [
+			[ "denostaré" ],
+			[ "denostarás" ],
+			[ "denostará" ],
+			[ "denostaremos" ],
+			[ "denostaréis", "denostarán" ],
+			[ "denostarán" ]
+		],
+		"8" : [
+			[ "denueste" ],
+			[ "denuestes" ],
+			[ "denueste" ],
+			[ "denostemos" ],
+			[ "denostéis", "denuesten" ],
+			[ "denuesten" ]
+		],
+		"9" : [
+			[ "denostara" ],
+			[ "denostaras" ],
+			[ "denostara" ],
+			[ "denostáramos" ],
+			[ "denostarais", "denostaran" ],
+			[ "denostaran" ]
+		],
+		"10" : [
+			[ "denostase" ],
+			[ "denostases" ],
+			[ "denostase" ],
+			[ "denostásemos" ],
+			[ "denostaseis", "denostasen" ],
+			[ "denostasen" ]
+		],
+		"11" : [
+			[ "denostare" ],
+			[ "denostares" ],
+			[ "denostare" ],
+			[ "denostáremos" ],
+			[ "denostareis", "denostaren" ],
+			[ "denostaren" ]
+		],
+		"12" : {
+			"1" : [ "denuesta" ],
+			"2" : [ "denueste" ],
+			"3" : [ "denostemos" ],
+			"4" : [ "denostad" ],
+			"5" : [ "denuesten" ]
+		}
+	}
+}

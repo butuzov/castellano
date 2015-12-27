@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desairar",
+	"word" : "desairar",
+	"infinitivo" : "desairar",
+	"participio" : [ "desairado" ],
+	"gerundio" : [ "desairando" ],
+	"tenses" : {
+		"3" : [
+			[ "desairo" ],
+			[ "desairas", "desairás" ],
+			[ "desaira" ],
+			[ "desairamos" ],
+			[ "desairáis", "desairan" ],
+			[ "desairan" ]
+		],
+		"4" : [
+			[ "desairé" ],
+			[ "desairaste" ],
+			[ "desairó" ],
+			[ "desairamos" ],
+			[ "desairasteis", "desairaron" ],
+			[ "desairaron" ]
+		],
+		"5" : [
+			[ "desairaba" ],
+			[ "desairabas" ],
+			[ "desairaba" ],
+			[ "desairábamos" ],
+			[ "desairabais", "desairaban" ],
+			[ "desairaban" ]
+		],
+		"6" : [
+			[ "desairaría" ],
+			[ "desairarías" ],
+			[ "desairaría" ],
+			[ "desairaríamos" ],
+			[ "desairaríais", "desairarían" ],
+			[ "desairarían" ]
+		],
+		"7" : [
+			[ "desairaré" ],
+			[ "desairarás" ],
+			[ "desairará" ],
+			[ "desairaremos" ],
+			[ "desairaréis", "desairarán" ],
+			[ "desairarán" ]
+		],
+		"8" : [
+			[ "desaire" ],
+			[ "desaires" ],
+			[ "desaire" ],
+			[ "desairemos" ],
+			[ "desairéis", "desairen" ],
+			[ "desairen" ]
+		],
+		"9" : [
+			[ "desairara" ],
+			[ "desairaras" ],
+			[ "desairara" ],
+			[ "desairáramos" ],
+			[ "desairarais", "desairaran" ],
+			[ "desairaran" ]
+		],
+		"10" : [
+			[ "desairase" ],
+			[ "desairases" ],
+			[ "desairase" ],
+			[ "desairásemos" ],
+			[ "desairaseis", "desairasen" ],
+			[ "desairasen" ]
+		],
+		"11" : [
+			[ "desairare" ],
+			[ "desairares" ],
+			[ "desairare" ],
+			[ "desairáremos" ],
+			[ "desairareis", "desairaren" ],
+			[ "desairaren" ]
+		],
+		"12" : {
+			"1" : [ "desaira" ],
+			"2" : [ "desaire" ],
+			"3" : [ "desairemos" ],
+			"4" : [ "desairad" ],
+			"5" : [ "desairen" ]
+		}
+	}
+}

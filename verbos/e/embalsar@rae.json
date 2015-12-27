@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embalsar",
+	"word" : "embalsar",
+	"infinitivo" : "embalsar",
+	"participio" : [ "embalsado" ],
+	"gerundio" : [ "embalsando" ],
+	"tenses" : {
+		"3" : [
+			[ "embalso" ],
+			[ "embalsas", "embalsás" ],
+			[ "embalsa" ],
+			[ "embalsamos" ],
+			[ "embalsáis", "embalsan" ],
+			[ "embalsan" ]
+		],
+		"4" : [
+			[ "embalsé" ],
+			[ "embalsaste" ],
+			[ "embalsó" ],
+			[ "embalsamos" ],
+			[ "embalsasteis", "embalsaron" ],
+			[ "embalsaron" ]
+		],
+		"5" : [
+			[ "embalsaba" ],
+			[ "embalsabas" ],
+			[ "embalsaba" ],
+			[ "embalsábamos" ],
+			[ "embalsabais", "embalsaban" ],
+			[ "embalsaban" ]
+		],
+		"6" : [
+			[ "embalsaría" ],
+			[ "embalsarías" ],
+			[ "embalsaría" ],
+			[ "embalsaríamos" ],
+			[ "embalsaríais", "embalsarían" ],
+			[ "embalsarían" ]
+		],
+		"7" : [
+			[ "embalsaré" ],
+			[ "embalsarás" ],
+			[ "embalsará" ],
+			[ "embalsaremos" ],
+			[ "embalsaréis", "embalsarán" ],
+			[ "embalsarán" ]
+		],
+		"8" : [
+			[ "embalse" ],
+			[ "embalses" ],
+			[ "embalse" ],
+			[ "embalsemos" ],
+			[ "embalséis", "embalsen" ],
+			[ "embalsen" ]
+		],
+		"9" : [
+			[ "embalsara" ],
+			[ "embalsaras" ],
+			[ "embalsara" ],
+			[ "embalsáramos" ],
+			[ "embalsarais", "embalsaran" ],
+			[ "embalsaran" ]
+		],
+		"10" : [
+			[ "embalsase" ],
+			[ "embalsases" ],
+			[ "embalsase" ],
+			[ "embalsásemos" ],
+			[ "embalsaseis", "embalsasen" ],
+			[ "embalsasen" ]
+		],
+		"11" : [
+			[ "embalsare" ],
+			[ "embalsares" ],
+			[ "embalsare" ],
+			[ "embalsáremos" ],
+			[ "embalsareis", "embalsaren" ],
+			[ "embalsaren" ]
+		],
+		"12" : {
+			"1" : [ "embalsa" ],
+			"2" : [ "embalse" ],
+			"3" : [ "embalsemos" ],
+			"4" : [ "embalsad" ],
+			"5" : [ "embalsen" ]
+		}
+	}
+}

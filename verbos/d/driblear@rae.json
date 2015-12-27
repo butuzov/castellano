@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=driblear",
+	"word" : "driblear",
+	"infinitivo" : "driblear",
+	"participio" : [ "dribleado" ],
+	"gerundio" : [ "dribleando" ],
+	"tenses" : {
+		"3" : [
+			[ "dribleo" ],
+			[ "dribleas", "dribleás" ],
+			[ "driblea" ],
+			[ "dribleamos" ],
+			[ "dribleáis", "driblean" ],
+			[ "driblean" ]
+		],
+		"4" : [
+			[ "dribleé" ],
+			[ "dribleaste" ],
+			[ "dribleó" ],
+			[ "dribleamos" ],
+			[ "dribleasteis", "driblearon" ],
+			[ "driblearon" ]
+		],
+		"5" : [
+			[ "dribleaba" ],
+			[ "dribleabas" ],
+			[ "dribleaba" ],
+			[ "dribleábamos" ],
+			[ "dribleabais", "dribleaban" ],
+			[ "dribleaban" ]
+		],
+		"6" : [
+			[ "driblearía" ],
+			[ "driblearías" ],
+			[ "driblearía" ],
+			[ "driblearíamos" ],
+			[ "driblearíais", "driblearían" ],
+			[ "driblearían" ]
+		],
+		"7" : [
+			[ "driblearé" ],
+			[ "driblearás" ],
+			[ "dribleará" ],
+			[ "driblearemos" ],
+			[ "driblearéis", "driblearán" ],
+			[ "driblearán" ]
+		],
+		"8" : [
+			[ "driblee" ],
+			[ "driblees" ],
+			[ "driblee" ],
+			[ "dribleemos" ],
+			[ "dribleéis", "dribleen" ],
+			[ "dribleen" ]
+		],
+		"9" : [
+			[ "dribleara" ],
+			[ "driblearas" ],
+			[ "dribleara" ],
+			[ "dribleáramos" ],
+			[ "driblearais", "driblearan" ],
+			[ "driblearan" ]
+		],
+		"10" : [
+			[ "driblease" ],
+			[ "dribleases" ],
+			[ "driblease" ],
+			[ "dribleásemos" ],
+			[ "dribleaseis", "dribleasen" ],
+			[ "dribleasen" ]
+		],
+		"11" : [
+			[ "dribleare" ],
+			[ "dribleares" ],
+			[ "dribleare" ],
+			[ "dribleáremos" ],
+			[ "dribleareis", "driblearen" ],
+			[ "driblearen" ]
+		],
+		"12" : {
+			"1" : [ "driblea" ],
+			"2" : [ "driblee" ],
+			"3" : [ "dribleemos" ],
+			"4" : [ "driblead" ],
+			"5" : [ "dribleen" ]
+		}
+	}
+}

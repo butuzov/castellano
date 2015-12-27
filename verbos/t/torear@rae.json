@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=torear",
+	"word" : "torear",
+	"infinitivo" : "torear",
+	"participio" : [ "toreado" ],
+	"gerundio" : [ "toreando" ],
+	"tenses" : {
+		"3" : [
+			[ "toreo" ],
+			[ "toreas", "toreás" ],
+			[ "torea" ],
+			[ "toreamos" ],
+			[ "toreáis", "torean" ],
+			[ "torean" ]
+		],
+		"4" : [
+			[ "toreé" ],
+			[ "toreaste" ],
+			[ "toreó" ],
+			[ "toreamos" ],
+			[ "toreasteis", "torearon" ],
+			[ "torearon" ]
+		],
+		"5" : [
+			[ "toreaba" ],
+			[ "toreabas" ],
+			[ "toreaba" ],
+			[ "toreábamos" ],
+			[ "toreabais", "toreaban" ],
+			[ "toreaban" ]
+		],
+		"6" : [
+			[ "torearía" ],
+			[ "torearías" ],
+			[ "torearía" ],
+			[ "torearíamos" ],
+			[ "torearíais", "torearían" ],
+			[ "torearían" ]
+		],
+		"7" : [
+			[ "torearé" ],
+			[ "torearás" ],
+			[ "toreará" ],
+			[ "torearemos" ],
+			[ "torearéis", "torearán" ],
+			[ "torearán" ]
+		],
+		"8" : [
+			[ "toree" ],
+			[ "torees" ],
+			[ "toree" ],
+			[ "toreemos" ],
+			[ "toreéis", "toreen" ],
+			[ "toreen" ]
+		],
+		"9" : [
+			[ "toreara" ],
+			[ "torearas" ],
+			[ "toreara" ],
+			[ "toreáramos" ],
+			[ "torearais", "torearan" ],
+			[ "torearan" ]
+		],
+		"10" : [
+			[ "torease" ],
+			[ "toreases" ],
+			[ "torease" ],
+			[ "toreásemos" ],
+			[ "toreaseis", "toreasen" ],
+			[ "toreasen" ]
+		],
+		"11" : [
+			[ "toreare" ],
+			[ "toreares" ],
+			[ "toreare" ],
+			[ "toreáremos" ],
+			[ "toreareis", "torearen" ],
+			[ "torearen" ]
+		],
+		"12" : {
+			"1" : [ "torea" ],
+			"2" : [ "toree" ],
+			"3" : [ "toreemos" ],
+			"4" : [ "toread" ],
+			"5" : [ "toreen" ]
+		}
+	}
+}

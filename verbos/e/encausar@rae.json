@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encausar",
+	"word" : "encausar",
+	"infinitivo" : "encausar",
+	"participio" : [ "encausado" ],
+	"gerundio" : [ "encausando" ],
+	"tenses" : {
+		"3" : [
+			[ "encauso" ],
+			[ "encausas", "encausás" ],
+			[ "encausa" ],
+			[ "encausamos" ],
+			[ "encausáis", "encausan" ],
+			[ "encausan" ]
+		],
+		"4" : [
+			[ "encausé" ],
+			[ "encausaste" ],
+			[ "encausó" ],
+			[ "encausamos" ],
+			[ "encausasteis", "encausaron" ],
+			[ "encausaron" ]
+		],
+		"5" : [
+			[ "encausaba" ],
+			[ "encausabas" ],
+			[ "encausaba" ],
+			[ "encausábamos" ],
+			[ "encausabais", "encausaban" ],
+			[ "encausaban" ]
+		],
+		"6" : [
+			[ "encausaría" ],
+			[ "encausarías" ],
+			[ "encausaría" ],
+			[ "encausaríamos" ],
+			[ "encausaríais", "encausarían" ],
+			[ "encausarían" ]
+		],
+		"7" : [
+			[ "encausaré" ],
+			[ "encausarás" ],
+			[ "encausará" ],
+			[ "encausaremos" ],
+			[ "encausaréis", "encausarán" ],
+			[ "encausarán" ]
+		],
+		"8" : [
+			[ "encause" ],
+			[ "encauses" ],
+			[ "encause" ],
+			[ "encausemos" ],
+			[ "encauséis", "encausen" ],
+			[ "encausen" ]
+		],
+		"9" : [
+			[ "encausara" ],
+			[ "encausaras" ],
+			[ "encausara" ],
+			[ "encausáramos" ],
+			[ "encausarais", "encausaran" ],
+			[ "encausaran" ]
+		],
+		"10" : [
+			[ "encausase" ],
+			[ "encausases" ],
+			[ "encausase" ],
+			[ "encausásemos" ],
+			[ "encausaseis", "encausasen" ],
+			[ "encausasen" ]
+		],
+		"11" : [
+			[ "encausare" ],
+			[ "encausares" ],
+			[ "encausare" ],
+			[ "encausáremos" ],
+			[ "encausareis", "encausaren" ],
+			[ "encausaren" ]
+		],
+		"12" : {
+			"1" : [ "encausa" ],
+			"2" : [ "encause" ],
+			"3" : [ "encausemos" ],
+			"4" : [ "encausad" ],
+			"5" : [ "encausen" ]
+		}
+	}
+}

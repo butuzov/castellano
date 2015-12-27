@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=malvender",
+	"word" : "malvender",
+	"infinitivo" : "malvender",
+	"participio" : [ "malvendido" ],
+	"gerundio" : [ "malvendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "malvendo" ],
+			[ "malvendes", "malvendés" ],
+			[ "malvende" ],
+			[ "malvendemos" ],
+			[ "malvendéis", "malvenden" ],
+			[ "malvenden" ]
+		],
+		"4" : [
+			[ "malvendí" ],
+			[ "malvendiste" ],
+			[ "malvendió" ],
+			[ "malvendimos" ],
+			[ "malvendisteis", "malvendieron" ],
+			[ "malvendieron" ]
+		],
+		"5" : [
+			[ "malvendía" ],
+			[ "malvendías" ],
+			[ "malvendía" ],
+			[ "malvendíamos" ],
+			[ "malvendíais", "malvendían" ],
+			[ "malvendían" ]
+		],
+		"6" : [
+			[ "malvendería" ],
+			[ "malvenderías" ],
+			[ "malvendería" ],
+			[ "malvenderíamos" ],
+			[ "malvenderíais", "malvenderían" ],
+			[ "malvenderían" ]
+		],
+		"7" : [
+			[ "malvenderé" ],
+			[ "malvenderás" ],
+			[ "malvenderá" ],
+			[ "malvenderemos" ],
+			[ "malvenderéis", "malvenderán" ],
+			[ "malvenderán" ]
+		],
+		"8" : [
+			[ "malvenda" ],
+			[ "malvendas" ],
+			[ "malvenda" ],
+			[ "malvendamos" ],
+			[ "malvendáis", "malvendan" ],
+			[ "malvendan" ]
+		],
+		"9" : [
+			[ "malvendiera" ],
+			[ "malvendieras" ],
+			[ "malvendiera" ],
+			[ "malvendiéramos" ],
+			[ "malvendierais", "malvendieran" ],
+			[ "malvendieran" ]
+		],
+		"10" : [
+			[ "malvendiese" ],
+			[ "malvendieses" ],
+			[ "malvendiese" ],
+			[ "malvendiésemos" ],
+			[ "malvendieseis", "malvendiesen" ],
+			[ "malvendiesen" ]
+		],
+		"11" : [
+			[ "malvendiere" ],
+			[ "malvendieres" ],
+			[ "malvendiere" ],
+			[ "malvendiéremos" ],
+			[ "malvendiereis", "malvendieren" ],
+			[ "malvendieren" ]
+		],
+		"12" : {
+			"1" : [ "malvende" ],
+			"2" : [ "malvenda" ],
+			"3" : [ "malvendamos" ],
+			"4" : [ "malvended" ],
+			"5" : [ "malvendan" ]
+		}
+	}
+}

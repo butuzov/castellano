@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=averiguar",
+	"word" : "averiguar",
+	"infinitivo" : "averiguar",
+	"participio" : [ "averiguado" ],
+	"gerundio" : [ "averiguando" ],
+	"tenses" : {
+		"3" : [
+			[ "averiguo" ],
+			[ "averiguas", "averiguás" ],
+			[ "averigua" ],
+			[ "averiguamos" ],
+			[ "averiguáis", "averiguan" ],
+			[ "averiguan" ]
+		],
+		"4" : [
+			[ "averigüé" ],
+			[ "averiguaste" ],
+			[ "averiguó" ],
+			[ "averiguamos" ],
+			[ "averiguasteis", "averiguaron" ],
+			[ "averiguaron" ]
+		],
+		"5" : [
+			[ "averiguaba" ],
+			[ "averiguabas" ],
+			[ "averiguaba" ],
+			[ "averiguábamos" ],
+			[ "averiguabais", "averiguaban" ],
+			[ "averiguaban" ]
+		],
+		"6" : [
+			[ "averiguaría" ],
+			[ "averiguarías" ],
+			[ "averiguaría" ],
+			[ "averiguaríamos" ],
+			[ "averiguaríais", "averiguarían" ],
+			[ "averiguarían" ]
+		],
+		"7" : [
+			[ "averiguaré" ],
+			[ "averiguarás" ],
+			[ "averiguará" ],
+			[ "averiguaremos" ],
+			[ "averiguaréis", "averiguarán" ],
+			[ "averiguarán" ]
+		],
+		"8" : [
+			[ "averigüe" ],
+			[ "averigües" ],
+			[ "averigüe" ],
+			[ "averigüemos" ],
+			[ "averigüéis", "averigüen" ],
+			[ "averigüen" ]
+		],
+		"9" : [
+			[ "averiguara" ],
+			[ "averiguaras" ],
+			[ "averiguara" ],
+			[ "averiguáramos" ],
+			[ "averiguarais", "averiguaran" ],
+			[ "averiguaran" ]
+		],
+		"10" : [
+			[ "averiguase" ],
+			[ "averiguases" ],
+			[ "averiguase" ],
+			[ "averiguásemos" ],
+			[ "averiguaseis", "averiguasen" ],
+			[ "averiguasen" ]
+		],
+		"11" : [
+			[ "averiguare" ],
+			[ "averiguares" ],
+			[ "averiguare" ],
+			[ "averiguáremos" ],
+			[ "averiguareis", "averiguaren" ],
+			[ "averiguaren" ]
+		],
+		"12" : {
+			"1" : [ "averigua" ],
+			"2" : [ "averigüe" ],
+			"3" : [ "averigüemos" ],
+			"4" : [ "averiguad" ],
+			"5" : [ "averigüen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descender",
+	"word" : "descender",
+	"infinitivo" : "descender",
+	"participio" : [ "descendido" ],
+	"gerundio" : [ "descendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desciendo" ],
+			[ "desciendes", "descendés" ],
+			[ "desciende" ],
+			[ "descendemos" ],
+			[ "descendéis", "descienden" ],
+			[ "descienden" ]
+		],
+		"4" : [
+			[ "descendí" ],
+			[ "descendiste" ],
+			[ "descendió" ],
+			[ "descendimos" ],
+			[ "descendisteis", "descendieron" ],
+			[ "descendieron" ]
+		],
+		"5" : [
+			[ "descendía" ],
+			[ "descendías" ],
+			[ "descendía" ],
+			[ "descendíamos" ],
+			[ "descendíais", "descendían" ],
+			[ "descendían" ]
+		],
+		"6" : [
+			[ "descendería" ],
+			[ "descenderías" ],
+			[ "descendería" ],
+			[ "descenderíamos" ],
+			[ "descenderíais", "descenderían" ],
+			[ "descenderían" ]
+		],
+		"7" : [
+			[ "descenderé" ],
+			[ "descenderás" ],
+			[ "descenderá" ],
+			[ "descenderemos" ],
+			[ "descenderéis", "descenderán" ],
+			[ "descenderán" ]
+		],
+		"8" : [
+			[ "descienda" ],
+			[ "desciendas" ],
+			[ "descienda" ],
+			[ "descendamos" ],
+			[ "descendáis", "desciendan" ],
+			[ "desciendan" ]
+		],
+		"9" : [
+			[ "descendiera" ],
+			[ "descendieras" ],
+			[ "descendiera" ],
+			[ "descendiéramos" ],
+			[ "descendierais", "descendieran" ],
+			[ "descendieran" ]
+		],
+		"10" : [
+			[ "descendiese" ],
+			[ "descendieses" ],
+			[ "descendiese" ],
+			[ "descendiésemos" ],
+			[ "descendieseis", "descendiesen" ],
+			[ "descendiesen" ]
+		],
+		"11" : [
+			[ "descendiere" ],
+			[ "descendieres" ],
+			[ "descendiere" ],
+			[ "descendiéremos" ],
+			[ "descendiereis", "descendieren" ],
+			[ "descendieren" ]
+		],
+		"12" : {
+			"1" : [ "desciende" ],
+			"2" : [ "descienda" ],
+			"3" : [ "descendamos" ],
+			"4" : [ "descended" ],
+			"5" : [ "desciendan" ]
+		}
+	}
+}

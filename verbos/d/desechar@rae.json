@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desechar",
+	"word" : "desechar",
+	"infinitivo" : "desechar",
+	"participio" : [ "desechado" ],
+	"gerundio" : [ "desechando" ],
+	"tenses" : {
+		"3" : [
+			[ "desecho" ],
+			[ "desechas", "desechás" ],
+			[ "desecha" ],
+			[ "desechamos" ],
+			[ "desecháis", "desechan" ],
+			[ "desechan" ]
+		],
+		"4" : [
+			[ "deseché" ],
+			[ "desechaste" ],
+			[ "desechó" ],
+			[ "desechamos" ],
+			[ "desechasteis", "desecharon" ],
+			[ "desecharon" ]
+		],
+		"5" : [
+			[ "desechaba" ],
+			[ "desechabas" ],
+			[ "desechaba" ],
+			[ "desechábamos" ],
+			[ "desechabais", "desechaban" ],
+			[ "desechaban" ]
+		],
+		"6" : [
+			[ "desecharía" ],
+			[ "desecharías" ],
+			[ "desecharía" ],
+			[ "desecharíamos" ],
+			[ "desecharíais", "desecharían" ],
+			[ "desecharían" ]
+		],
+		"7" : [
+			[ "desecharé" ],
+			[ "desecharás" ],
+			[ "desechará" ],
+			[ "desecharemos" ],
+			[ "desecharéis", "desecharán" ],
+			[ "desecharán" ]
+		],
+		"8" : [
+			[ "deseche" ],
+			[ "deseches" ],
+			[ "deseche" ],
+			[ "desechemos" ],
+			[ "desechéis", "desechen" ],
+			[ "desechen" ]
+		],
+		"9" : [
+			[ "desechara" ],
+			[ "desecharas" ],
+			[ "desechara" ],
+			[ "desecháramos" ],
+			[ "desecharais", "desecharan" ],
+			[ "desecharan" ]
+		],
+		"10" : [
+			[ "desechase" ],
+			[ "desechases" ],
+			[ "desechase" ],
+			[ "desechásemos" ],
+			[ "desechaseis", "desechasen" ],
+			[ "desechasen" ]
+		],
+		"11" : [
+			[ "desechare" ],
+			[ "desechares" ],
+			[ "desechare" ],
+			[ "desecháremos" ],
+			[ "desechareis", "desecharen" ],
+			[ "desecharen" ]
+		],
+		"12" : {
+			"1" : [ "desecha" ],
+			"2" : [ "deseche" ],
+			"3" : [ "desechemos" ],
+			"4" : [ "desechad" ],
+			"5" : [ "desechen" ]
+		}
+	}
+}

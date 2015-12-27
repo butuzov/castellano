@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=derrengar",
+	"word" : "derrengar",
+	"infinitivo" : "derrengar",
+	"participio" : [ "derrengado" ],
+	"gerundio" : [ "derrengando" ],
+	"tenses" : {
+		"3" : [
+			[ "derrengo" ],
+			[ "derrengas", "derrengás" ],
+			[ "derrenga" ],
+			[ "derrengamos" ],
+			[ "derrengáis", "derrengan" ],
+			[ "derrengan" ]
+		],
+		"4" : [
+			[ "derrengué" ],
+			[ "derrengaste" ],
+			[ "derrengó" ],
+			[ "derrengamos" ],
+			[ "derrengasteis", "derrengaron" ],
+			[ "derrengaron" ]
+		],
+		"5" : [
+			[ "derrengaba" ],
+			[ "derrengabas" ],
+			[ "derrengaba" ],
+			[ "derrengábamos" ],
+			[ "derrengabais", "derrengaban" ],
+			[ "derrengaban" ]
+		],
+		"6" : [
+			[ "derrengaría" ],
+			[ "derrengarías" ],
+			[ "derrengaría" ],
+			[ "derrengaríamos" ],
+			[ "derrengaríais", "derrengarían" ],
+			[ "derrengarían" ]
+		],
+		"7" : [
+			[ "derrengaré" ],
+			[ "derrengarás" ],
+			[ "derrengará" ],
+			[ "derrengaremos" ],
+			[ "derrengaréis", "derrengarán" ],
+			[ "derrengarán" ]
+		],
+		"8" : [
+			[ "derrengue" ],
+			[ "derrengues" ],
+			[ "derrengue" ],
+			[ "derrenguemos" ],
+			[ "derrenguéis", "derrenguen" ],
+			[ "derrenguen" ]
+		],
+		"9" : [
+			[ "derrengara" ],
+			[ "derrengaras" ],
+			[ "derrengara" ],
+			[ "derrengáramos" ],
+			[ "derrengarais", "derrengaran" ],
+			[ "derrengaran" ]
+		],
+		"10" : [
+			[ "derrengase" ],
+			[ "derrengases" ],
+			[ "derrengase" ],
+			[ "derrengásemos" ],
+			[ "derrengaseis", "derrengasen" ],
+			[ "derrengasen" ]
+		],
+		"11" : [
+			[ "derrengare" ],
+			[ "derrengares" ],
+			[ "derrengare" ],
+			[ "derrengáremos" ],
+			[ "derrengareis", "derrengaren" ],
+			[ "derrengaren" ]
+		],
+		"12" : {
+			"1" : [ "derrenga" ],
+			"2" : [ "derrengue" ],
+			"3" : [ "derrenguemos" ],
+			"4" : [ "derrengad" ],
+			"5" : [ "derrenguen" ]
+		}
+	}
+}

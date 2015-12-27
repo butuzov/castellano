@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=motivar",
+	"word" : "motivar",
+	"infinitivo" : "motivar",
+	"participio" : [ "motivado" ],
+	"gerundio" : [ "motivando" ],
+	"tenses" : {
+		"3" : [
+			[ "motivo" ],
+			[ "motivas", "motivás" ],
+			[ "motiva" ],
+			[ "motivamos" ],
+			[ "motiváis", "motivan" ],
+			[ "motivan" ]
+		],
+		"4" : [
+			[ "motivé" ],
+			[ "motivaste" ],
+			[ "motivó" ],
+			[ "motivamos" ],
+			[ "motivasteis", "motivaron" ],
+			[ "motivaron" ]
+		],
+		"5" : [
+			[ "motivaba" ],
+			[ "motivabas" ],
+			[ "motivaba" ],
+			[ "motivábamos" ],
+			[ "motivabais", "motivaban" ],
+			[ "motivaban" ]
+		],
+		"6" : [
+			[ "motivaría" ],
+			[ "motivarías" ],
+			[ "motivaría" ],
+			[ "motivaríamos" ],
+			[ "motivaríais", "motivarían" ],
+			[ "motivarían" ]
+		],
+		"7" : [
+			[ "motivaré" ],
+			[ "motivarás" ],
+			[ "motivará" ],
+			[ "motivaremos" ],
+			[ "motivaréis", "motivarán" ],
+			[ "motivarán" ]
+		],
+		"8" : [
+			[ "motive" ],
+			[ "motives" ],
+			[ "motive" ],
+			[ "motivemos" ],
+			[ "motivéis", "motiven" ],
+			[ "motiven" ]
+		],
+		"9" : [
+			[ "motivara" ],
+			[ "motivaras" ],
+			[ "motivara" ],
+			[ "motiváramos" ],
+			[ "motivarais", "motivaran" ],
+			[ "motivaran" ]
+		],
+		"10" : [
+			[ "motivase" ],
+			[ "motivases" ],
+			[ "motivase" ],
+			[ "motivásemos" ],
+			[ "motivaseis", "motivasen" ],
+			[ "motivasen" ]
+		],
+		"11" : [
+			[ "motivare" ],
+			[ "motivares" ],
+			[ "motivare" ],
+			[ "motiváremos" ],
+			[ "motivareis", "motivaren" ],
+			[ "motivaren" ]
+		],
+		"12" : {
+			"1" : [ "motiva" ],
+			"2" : [ "motive" ],
+			"3" : [ "motivemos" ],
+			"4" : [ "motivad" ],
+			"5" : [ "motiven" ]
+		}
+	}
+}

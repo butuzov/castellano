@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=menar",
+	"word" : "menar",
+	"infinitivo" : "menar",
+	"participio" : [ "menado" ],
+	"gerundio" : [ "menando" ],
+	"tenses" : {
+		"3" : [
+			[ "meno" ],
+			[ "menas", "menás" ],
+			[ "mena" ],
+			[ "menamos" ],
+			[ "menáis", "menan" ],
+			[ "menan" ]
+		],
+		"4" : [
+			[ "mené" ],
+			[ "menaste" ],
+			[ "menó" ],
+			[ "menamos" ],
+			[ "menasteis", "menaron" ],
+			[ "menaron" ]
+		],
+		"5" : [
+			[ "menaba" ],
+			[ "menabas" ],
+			[ "menaba" ],
+			[ "menábamos" ],
+			[ "menabais", "menaban" ],
+			[ "menaban" ]
+		],
+		"6" : [
+			[ "menaría" ],
+			[ "menarías" ],
+			[ "menaría" ],
+			[ "menaríamos" ],
+			[ "menaríais", "menarían" ],
+			[ "menarían" ]
+		],
+		"7" : [
+			[ "menaré" ],
+			[ "menarás" ],
+			[ "menará" ],
+			[ "menaremos" ],
+			[ "menaréis", "menarán" ],
+			[ "menarán" ]
+		],
+		"8" : [
+			[ "mene" ],
+			[ "menes" ],
+			[ "mene" ],
+			[ "menemos" ],
+			[ "menéis", "menen" ],
+			[ "menen" ]
+		],
+		"9" : [
+			[ "menara" ],
+			[ "menaras" ],
+			[ "menara" ],
+			[ "menáramos" ],
+			[ "menarais", "menaran" ],
+			[ "menaran" ]
+		],
+		"10" : [
+			[ "menase" ],
+			[ "menases" ],
+			[ "menase" ],
+			[ "menásemos" ],
+			[ "menaseis", "menasen" ],
+			[ "menasen" ]
+		],
+		"11" : [
+			[ "menare" ],
+			[ "menares" ],
+			[ "menare" ],
+			[ "menáremos" ],
+			[ "menareis", "menaren" ],
+			[ "menaren" ]
+		],
+		"12" : {
+			"1" : [ "mena" ],
+			"2" : [ "mene" ],
+			"3" : [ "menemos" ],
+			"4" : [ "menad" ],
+			"5" : [ "menen" ]
+		}
+	}
+}

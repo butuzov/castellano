@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=segregar",
+	"word" : "segregar",
+	"infinitivo" : "segregar",
+	"participio" : [ "segregado" ],
+	"gerundio" : [ "segregando" ],
+	"tenses" : {
+		"3" : [
+			[ "segrego" ],
+			[ "segregas", "segregás" ],
+			[ "segrega" ],
+			[ "segregamos" ],
+			[ "segregáis", "segregan" ],
+			[ "segregan" ]
+		],
+		"4" : [
+			[ "segregué" ],
+			[ "segregaste" ],
+			[ "segregó" ],
+			[ "segregamos" ],
+			[ "segregasteis", "segregaron" ],
+			[ "segregaron" ]
+		],
+		"5" : [
+			[ "segregaba" ],
+			[ "segregabas" ],
+			[ "segregaba" ],
+			[ "segregábamos" ],
+			[ "segregabais", "segregaban" ],
+			[ "segregaban" ]
+		],
+		"6" : [
+			[ "segregaría" ],
+			[ "segregarías" ],
+			[ "segregaría" ],
+			[ "segregaríamos" ],
+			[ "segregaríais", "segregarían" ],
+			[ "segregarían" ]
+		],
+		"7" : [
+			[ "segregaré" ],
+			[ "segregarás" ],
+			[ "segregará" ],
+			[ "segregaremos" ],
+			[ "segregaréis", "segregarán" ],
+			[ "segregarán" ]
+		],
+		"8" : [
+			[ "segregue" ],
+			[ "segregues" ],
+			[ "segregue" ],
+			[ "segreguemos" ],
+			[ "segreguéis", "segreguen" ],
+			[ "segreguen" ]
+		],
+		"9" : [
+			[ "segregara" ],
+			[ "segregaras" ],
+			[ "segregara" ],
+			[ "segregáramos" ],
+			[ "segregarais", "segregaran" ],
+			[ "segregaran" ]
+		],
+		"10" : [
+			[ "segregase" ],
+			[ "segregases" ],
+			[ "segregase" ],
+			[ "segregásemos" ],
+			[ "segregaseis", "segregasen" ],
+			[ "segregasen" ]
+		],
+		"11" : [
+			[ "segregare" ],
+			[ "segregares" ],
+			[ "segregare" ],
+			[ "segregáremos" ],
+			[ "segregareis", "segregaren" ],
+			[ "segregaren" ]
+		],
+		"12" : {
+			"1" : [ "segrega" ],
+			"2" : [ "segregue" ],
+			"3" : [ "segreguemos" ],
+			"4" : [ "segregad" ],
+			"5" : [ "segreguen" ]
+		}
+	}
+}

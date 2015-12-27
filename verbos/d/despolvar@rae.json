@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despolvar",
+	"word" : "despolvar",
+	"infinitivo" : "despolvar",
+	"participio" : [ "despolvado" ],
+	"gerundio" : [ "despolvando" ],
+	"tenses" : {
+		"3" : [
+			[ "despolvo" ],
+			[ "despolvas", "despolvás" ],
+			[ "despolva" ],
+			[ "despolvamos" ],
+			[ "despolváis", "despolvan" ],
+			[ "despolvan" ]
+		],
+		"4" : [
+			[ "despolvé" ],
+			[ "despolvaste" ],
+			[ "despolvó" ],
+			[ "despolvamos" ],
+			[ "despolvasteis", "despolvaron" ],
+			[ "despolvaron" ]
+		],
+		"5" : [
+			[ "despolvaba" ],
+			[ "despolvabas" ],
+			[ "despolvaba" ],
+			[ "despolvábamos" ],
+			[ "despolvabais", "despolvaban" ],
+			[ "despolvaban" ]
+		],
+		"6" : [
+			[ "despolvaría" ],
+			[ "despolvarías" ],
+			[ "despolvaría" ],
+			[ "despolvaríamos" ],
+			[ "despolvaríais", "despolvarían" ],
+			[ "despolvarían" ]
+		],
+		"7" : [
+			[ "despolvaré" ],
+			[ "despolvarás" ],
+			[ "despolvará" ],
+			[ "despolvaremos" ],
+			[ "despolvaréis", "despolvarán" ],
+			[ "despolvarán" ]
+		],
+		"8" : [
+			[ "despolve" ],
+			[ "despolves" ],
+			[ "despolve" ],
+			[ "despolvemos" ],
+			[ "despolvéis", "despolven" ],
+			[ "despolven" ]
+		],
+		"9" : [
+			[ "despolvara" ],
+			[ "despolvaras" ],
+			[ "despolvara" ],
+			[ "despolváramos" ],
+			[ "despolvarais", "despolvaran" ],
+			[ "despolvaran" ]
+		],
+		"10" : [
+			[ "despolvase" ],
+			[ "despolvases" ],
+			[ "despolvase" ],
+			[ "despolvásemos" ],
+			[ "despolvaseis", "despolvasen" ],
+			[ "despolvasen" ]
+		],
+		"11" : [
+			[ "despolvare" ],
+			[ "despolvares" ],
+			[ "despolvare" ],
+			[ "despolváremos" ],
+			[ "despolvareis", "despolvaren" ],
+			[ "despolvaren" ]
+		],
+		"12" : {
+			"1" : [ "despolva" ],
+			"2" : [ "despolve" ],
+			"3" : [ "despolvemos" ],
+			"4" : [ "despolvad" ],
+			"5" : [ "despolven" ]
+		}
+	}
+}

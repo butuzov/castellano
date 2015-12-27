@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contactar",
+	"word" : "contactar",
+	"infinitivo" : "contactar",
+	"participio" : [ "contactado" ],
+	"gerundio" : [ "contactando" ],
+	"tenses" : {
+		"3" : [
+			[ "contacto" ],
+			[ "contactas", "contactás" ],
+			[ "contacta" ],
+			[ "contactamos" ],
+			[ "contactáis", "contactan" ],
+			[ "contactan" ]
+		],
+		"4" : [
+			[ "contacté" ],
+			[ "contactaste" ],
+			[ "contactó" ],
+			[ "contactamos" ],
+			[ "contactasteis", "contactaron" ],
+			[ "contactaron" ]
+		],
+		"5" : [
+			[ "contactaba" ],
+			[ "contactabas" ],
+			[ "contactaba" ],
+			[ "contactábamos" ],
+			[ "contactabais", "contactaban" ],
+			[ "contactaban" ]
+		],
+		"6" : [
+			[ "contactaría" ],
+			[ "contactarías" ],
+			[ "contactaría" ],
+			[ "contactaríamos" ],
+			[ "contactaríais", "contactarían" ],
+			[ "contactarían" ]
+		],
+		"7" : [
+			[ "contactaré" ],
+			[ "contactarás" ],
+			[ "contactará" ],
+			[ "contactaremos" ],
+			[ "contactaréis", "contactarán" ],
+			[ "contactarán" ]
+		],
+		"8" : [
+			[ "contacte" ],
+			[ "contactes" ],
+			[ "contacte" ],
+			[ "contactemos" ],
+			[ "contactéis", "contacten" ],
+			[ "contacten" ]
+		],
+		"9" : [
+			[ "contactara" ],
+			[ "contactaras" ],
+			[ "contactara" ],
+			[ "contactáramos" ],
+			[ "contactarais", "contactaran" ],
+			[ "contactaran" ]
+		],
+		"10" : [
+			[ "contactase" ],
+			[ "contactases" ],
+			[ "contactase" ],
+			[ "contactásemos" ],
+			[ "contactaseis", "contactasen" ],
+			[ "contactasen" ]
+		],
+		"11" : [
+			[ "contactare" ],
+			[ "contactares" ],
+			[ "contactare" ],
+			[ "contactáremos" ],
+			[ "contactareis", "contactaren" ],
+			[ "contactaren" ]
+		],
+		"12" : {
+			"1" : [ "contacta" ],
+			"2" : [ "contacte" ],
+			"3" : [ "contactemos" ],
+			"4" : [ "contactad" ],
+			"5" : [ "contacten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enojar",
+	"word" : "enojar",
+	"infinitivo" : "enojar",
+	"participio" : [ "enojado" ],
+	"gerundio" : [ "enojando" ],
+	"tenses" : {
+		"3" : [
+			[ "enojo" ],
+			[ "enojas", "enojás" ],
+			[ "enoja" ],
+			[ "enojamos" ],
+			[ "enojáis", "enojan" ],
+			[ "enojan" ]
+		],
+		"4" : [
+			[ "enojé" ],
+			[ "enojaste" ],
+			[ "enojó" ],
+			[ "enojamos" ],
+			[ "enojasteis", "enojaron" ],
+			[ "enojaron" ]
+		],
+		"5" : [
+			[ "enojaba" ],
+			[ "enojabas" ],
+			[ "enojaba" ],
+			[ "enojábamos" ],
+			[ "enojabais", "enojaban" ],
+			[ "enojaban" ]
+		],
+		"6" : [
+			[ "enojaría" ],
+			[ "enojarías" ],
+			[ "enojaría" ],
+			[ "enojaríamos" ],
+			[ "enojaríais", "enojarían" ],
+			[ "enojarían" ]
+		],
+		"7" : [
+			[ "enojaré" ],
+			[ "enojarás" ],
+			[ "enojará" ],
+			[ "enojaremos" ],
+			[ "enojaréis", "enojarán" ],
+			[ "enojarán" ]
+		],
+		"8" : [
+			[ "enoje" ],
+			[ "enojes" ],
+			[ "enoje" ],
+			[ "enojemos" ],
+			[ "enojéis", "enojen" ],
+			[ "enojen" ]
+		],
+		"9" : [
+			[ "enojara" ],
+			[ "enojaras" ],
+			[ "enojara" ],
+			[ "enojáramos" ],
+			[ "enojarais", "enojaran" ],
+			[ "enojaran" ]
+		],
+		"10" : [
+			[ "enojase" ],
+			[ "enojases" ],
+			[ "enojase" ],
+			[ "enojásemos" ],
+			[ "enojaseis", "enojasen" ],
+			[ "enojasen" ]
+		],
+		"11" : [
+			[ "enojare" ],
+			[ "enojares" ],
+			[ "enojare" ],
+			[ "enojáremos" ],
+			[ "enojareis", "enojaren" ],
+			[ "enojaren" ]
+		],
+		"12" : {
+			"1" : [ "enoja" ],
+			"2" : [ "enoje" ],
+			"3" : [ "enojemos" ],
+			"4" : [ "enojad" ],
+			"5" : [ "enojen" ]
+		}
+	}
+}

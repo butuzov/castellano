@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enlosar",
+	"word" : "enlosar",
+	"infinitivo" : "enlosar",
+	"participio" : [ "enlosado" ],
+	"gerundio" : [ "enlosando" ],
+	"tenses" : {
+		"3" : [
+			[ "enloso" ],
+			[ "enlosas", "enlosás" ],
+			[ "enlosa" ],
+			[ "enlosamos" ],
+			[ "enlosáis", "enlosan" ],
+			[ "enlosan" ]
+		],
+		"4" : [
+			[ "enlosé" ],
+			[ "enlosaste" ],
+			[ "enlosó" ],
+			[ "enlosamos" ],
+			[ "enlosasteis", "enlosaron" ],
+			[ "enlosaron" ]
+		],
+		"5" : [
+			[ "enlosaba" ],
+			[ "enlosabas" ],
+			[ "enlosaba" ],
+			[ "enlosábamos" ],
+			[ "enlosabais", "enlosaban" ],
+			[ "enlosaban" ]
+		],
+		"6" : [
+			[ "enlosaría" ],
+			[ "enlosarías" ],
+			[ "enlosaría" ],
+			[ "enlosaríamos" ],
+			[ "enlosaríais", "enlosarían" ],
+			[ "enlosarían" ]
+		],
+		"7" : [
+			[ "enlosaré" ],
+			[ "enlosarás" ],
+			[ "enlosará" ],
+			[ "enlosaremos" ],
+			[ "enlosaréis", "enlosarán" ],
+			[ "enlosarán" ]
+		],
+		"8" : [
+			[ "enlose" ],
+			[ "enloses" ],
+			[ "enlose" ],
+			[ "enlosemos" ],
+			[ "enloséis", "enlosen" ],
+			[ "enlosen" ]
+		],
+		"9" : [
+			[ "enlosara" ],
+			[ "enlosaras" ],
+			[ "enlosara" ],
+			[ "enlosáramos" ],
+			[ "enlosarais", "enlosaran" ],
+			[ "enlosaran" ]
+		],
+		"10" : [
+			[ "enlosase" ],
+			[ "enlosases" ],
+			[ "enlosase" ],
+			[ "enlosásemos" ],
+			[ "enlosaseis", "enlosasen" ],
+			[ "enlosasen" ]
+		],
+		"11" : [
+			[ "enlosare" ],
+			[ "enlosares" ],
+			[ "enlosare" ],
+			[ "enlosáremos" ],
+			[ "enlosareis", "enlosaren" ],
+			[ "enlosaren" ]
+		],
+		"12" : {
+			"1" : [ "enlosa" ],
+			"2" : [ "enlose" ],
+			"3" : [ "enlosemos" ],
+			"4" : [ "enlosad" ],
+			"5" : [ "enlosen" ]
+		}
+	}
+}

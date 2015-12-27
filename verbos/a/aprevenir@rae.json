@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aprevenir",
+	"word" : "aprevenir",
+	"infinitivo" : "aprevenir",
+	"participio" : [ "aprevenido" ],
+	"gerundio" : [ "apreviniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aprevengo" ],
+			[ "aprevienes", "aprevenís" ],
+			[ "apreviene" ],
+			[ "aprevenimos" ],
+			[ "aprevenís", "aprevienen" ],
+			[ "aprevienen" ]
+		],
+		"4" : [
+			[ "aprevine" ],
+			[ "apreviniste" ],
+			[ "aprevino" ],
+			[ "aprevinimos" ],
+			[ "aprevinisteis", "aprevinieron" ],
+			[ "aprevinieron" ]
+		],
+		"5" : [
+			[ "aprevenía" ],
+			[ "aprevenías" ],
+			[ "aprevenía" ],
+			[ "apreveníamos" ],
+			[ "apreveníais", "aprevenían" ],
+			[ "aprevenían" ]
+		],
+		"6" : [
+			[ "aprevendría" ],
+			[ "aprevendrías" ],
+			[ "aprevendría" ],
+			[ "aprevendríamos" ],
+			[ "aprevendríais", "aprevendrían" ],
+			[ "aprevendrían" ]
+		],
+		"7" : [
+			[ "aprevendré" ],
+			[ "aprevendrás" ],
+			[ "aprevendrá" ],
+			[ "aprevendremos" ],
+			[ "aprevendréis", "aprevendrán" ],
+			[ "aprevendrán" ]
+		],
+		"8" : [
+			[ "aprevenga" ],
+			[ "aprevengas" ],
+			[ "aprevenga" ],
+			[ "aprevengamos" ],
+			[ "aprevengáis", "aprevengan" ],
+			[ "aprevengan" ]
+		],
+		"9" : [
+			[ "apreviniera" ],
+			[ "aprevinieras" ],
+			[ "apreviniera" ],
+			[ "apreviniéramos" ],
+			[ "aprevinierais", "aprevinieran" ],
+			[ "aprevinieran" ]
+		],
+		"10" : [
+			[ "apreviniese" ],
+			[ "aprevinieses" ],
+			[ "apreviniese" ],
+			[ "apreviniésemos" ],
+			[ "aprevinieseis", "apreviniesen" ],
+			[ "apreviniesen" ]
+		],
+		"11" : [
+			[ "apreviniere" ],
+			[ "aprevinieres" ],
+			[ "apreviniere" ],
+			[ "apreviniéremos" ],
+			[ "apreviniereis", "aprevinieren" ],
+			[ "aprevinieren" ]
+		],
+		"12" : {
+			"1" : [ "aprevén" ],
+			"2" : [ "aprevenga" ],
+			"3" : [ "aprevengamos" ],
+			"4" : [ "aprevenid" ],
+			"5" : [ "aprevengan" ]
+		}
+	}
+}

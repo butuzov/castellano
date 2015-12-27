@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=masar",
+	"word" : "masar",
+	"infinitivo" : "masar",
+	"participio" : [ "masado" ],
+	"gerundio" : [ "masando" ],
+	"tenses" : {
+		"3" : [
+			[ "maso" ],
+			[ "masas", "masás" ],
+			[ "masa" ],
+			[ "masamos" ],
+			[ "masáis", "masan" ],
+			[ "masan" ]
+		],
+		"4" : [
+			[ "masé" ],
+			[ "masaste" ],
+			[ "masó" ],
+			[ "masamos" ],
+			[ "masasteis", "masaron" ],
+			[ "masaron" ]
+		],
+		"5" : [
+			[ "masaba" ],
+			[ "masabas" ],
+			[ "masaba" ],
+			[ "masábamos" ],
+			[ "masabais", "masaban" ],
+			[ "masaban" ]
+		],
+		"6" : [
+			[ "masaría" ],
+			[ "masarías" ],
+			[ "masaría" ],
+			[ "masaríamos" ],
+			[ "masaríais", "masarían" ],
+			[ "masarían" ]
+		],
+		"7" : [
+			[ "masaré" ],
+			[ "masarás" ],
+			[ "masará" ],
+			[ "masaremos" ],
+			[ "masaréis", "masarán" ],
+			[ "masarán" ]
+		],
+		"8" : [
+			[ "mase" ],
+			[ "mases" ],
+			[ "mase" ],
+			[ "masemos" ],
+			[ "maséis", "masen" ],
+			[ "masen" ]
+		],
+		"9" : [
+			[ "masara" ],
+			[ "masaras" ],
+			[ "masara" ],
+			[ "masáramos" ],
+			[ "masarais", "masaran" ],
+			[ "masaran" ]
+		],
+		"10" : [
+			[ "masase" ],
+			[ "masases" ],
+			[ "masase" ],
+			[ "masásemos" ],
+			[ "masaseis", "masasen" ],
+			[ "masasen" ]
+		],
+		"11" : [
+			[ "masare" ],
+			[ "masares" ],
+			[ "masare" ],
+			[ "masáremos" ],
+			[ "masareis", "masaren" ],
+			[ "masaren" ]
+		],
+		"12" : {
+			"1" : [ "masa" ],
+			"2" : [ "mase" ],
+			"3" : [ "masemos" ],
+			"4" : [ "masad" ],
+			"5" : [ "masen" ]
+		}
+	}
+}

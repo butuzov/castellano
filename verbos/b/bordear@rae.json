@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bordear",
+	"word" : "bordear",
+	"infinitivo" : "bordear",
+	"participio" : [ "bordeado" ],
+	"gerundio" : [ "bordeando" ],
+	"tenses" : {
+		"3" : [
+			[ "bordeo" ],
+			[ "bordeas", "bordeás" ],
+			[ "bordea" ],
+			[ "bordeamos" ],
+			[ "bordeáis", "bordean" ],
+			[ "bordean" ]
+		],
+		"4" : [
+			[ "bordeé" ],
+			[ "bordeaste" ],
+			[ "bordeó" ],
+			[ "bordeamos" ],
+			[ "bordeasteis", "bordearon" ],
+			[ "bordearon" ]
+		],
+		"5" : [
+			[ "bordeaba" ],
+			[ "bordeabas" ],
+			[ "bordeaba" ],
+			[ "bordeábamos" ],
+			[ "bordeabais", "bordeaban" ],
+			[ "bordeaban" ]
+		],
+		"6" : [
+			[ "bordearía" ],
+			[ "bordearías" ],
+			[ "bordearía" ],
+			[ "bordearíamos" ],
+			[ "bordearíais", "bordearían" ],
+			[ "bordearían" ]
+		],
+		"7" : [
+			[ "bordearé" ],
+			[ "bordearás" ],
+			[ "bordeará" ],
+			[ "bordearemos" ],
+			[ "bordearéis", "bordearán" ],
+			[ "bordearán" ]
+		],
+		"8" : [
+			[ "bordee" ],
+			[ "bordees" ],
+			[ "bordee" ],
+			[ "bordeemos" ],
+			[ "bordeéis", "bordeen" ],
+			[ "bordeen" ]
+		],
+		"9" : [
+			[ "bordeara" ],
+			[ "bordearas" ],
+			[ "bordeara" ],
+			[ "bordeáramos" ],
+			[ "bordearais", "bordearan" ],
+			[ "bordearan" ]
+		],
+		"10" : [
+			[ "bordease" ],
+			[ "bordeases" ],
+			[ "bordease" ],
+			[ "bordeásemos" ],
+			[ "bordeaseis", "bordeasen" ],
+			[ "bordeasen" ]
+		],
+		"11" : [
+			[ "bordeare" ],
+			[ "bordeares" ],
+			[ "bordeare" ],
+			[ "bordeáremos" ],
+			[ "bordeareis", "bordearen" ],
+			[ "bordearen" ]
+		],
+		"12" : {
+			"1" : [ "bordea" ],
+			"2" : [ "bordee" ],
+			"3" : [ "bordeemos" ],
+			"4" : [ "bordead" ],
+			"5" : [ "bordeen" ]
+		}
+	}
+}

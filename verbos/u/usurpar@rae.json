@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=usurpar",
+	"word" : "usurpar",
+	"infinitivo" : "usurpar",
+	"participio" : [ "usurpado" ],
+	"gerundio" : [ "usurpando" ],
+	"tenses" : {
+		"3" : [
+			[ "usurpo" ],
+			[ "usurpas", "usurpás" ],
+			[ "usurpa" ],
+			[ "usurpamos" ],
+			[ "usurpáis", "usurpan" ],
+			[ "usurpan" ]
+		],
+		"4" : [
+			[ "usurpé" ],
+			[ "usurpaste" ],
+			[ "usurpó" ],
+			[ "usurpamos" ],
+			[ "usurpasteis", "usurparon" ],
+			[ "usurparon" ]
+		],
+		"5" : [
+			[ "usurpaba" ],
+			[ "usurpabas" ],
+			[ "usurpaba" ],
+			[ "usurpábamos" ],
+			[ "usurpabais", "usurpaban" ],
+			[ "usurpaban" ]
+		],
+		"6" : [
+			[ "usurparía" ],
+			[ "usurparías" ],
+			[ "usurparía" ],
+			[ "usurparíamos" ],
+			[ "usurparíais", "usurparían" ],
+			[ "usurparían" ]
+		],
+		"7" : [
+			[ "usurparé" ],
+			[ "usurparás" ],
+			[ "usurpará" ],
+			[ "usurparemos" ],
+			[ "usurparéis", "usurparán" ],
+			[ "usurparán" ]
+		],
+		"8" : [
+			[ "usurpe" ],
+			[ "usurpes" ],
+			[ "usurpe" ],
+			[ "usurpemos" ],
+			[ "usurpéis", "usurpen" ],
+			[ "usurpen" ]
+		],
+		"9" : [
+			[ "usurpara" ],
+			[ "usurparas" ],
+			[ "usurpara" ],
+			[ "usurpáramos" ],
+			[ "usurparais", "usurparan" ],
+			[ "usurparan" ]
+		],
+		"10" : [
+			[ "usurpase" ],
+			[ "usurpases" ],
+			[ "usurpase" ],
+			[ "usurpásemos" ],
+			[ "usurpaseis", "usurpasen" ],
+			[ "usurpasen" ]
+		],
+		"11" : [
+			[ "usurpare" ],
+			[ "usurpares" ],
+			[ "usurpare" ],
+			[ "usurpáremos" ],
+			[ "usurpareis", "usurparen" ],
+			[ "usurparen" ]
+		],
+		"12" : {
+			"1" : [ "usurpa" ],
+			"2" : [ "usurpe" ],
+			"3" : [ "usurpemos" ],
+			"4" : [ "usurpad" ],
+			"5" : [ "usurpen" ]
+		}
+	}
+}

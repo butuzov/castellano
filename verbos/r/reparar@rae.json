@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reparar",
+	"word" : "reparar",
+	"infinitivo" : "reparar",
+	"participio" : [ "reparado" ],
+	"gerundio" : [ "reparando" ],
+	"tenses" : {
+		"3" : [
+			[ "reparo" ],
+			[ "reparas", "reparás" ],
+			[ "repara" ],
+			[ "reparamos" ],
+			[ "reparáis", "reparan" ],
+			[ "reparan" ]
+		],
+		"4" : [
+			[ "reparé" ],
+			[ "reparaste" ],
+			[ "reparó" ],
+			[ "reparamos" ],
+			[ "reparasteis", "repararon" ],
+			[ "repararon" ]
+		],
+		"5" : [
+			[ "reparaba" ],
+			[ "reparabas" ],
+			[ "reparaba" ],
+			[ "reparábamos" ],
+			[ "reparabais", "reparaban" ],
+			[ "reparaban" ]
+		],
+		"6" : [
+			[ "repararía" ],
+			[ "repararías" ],
+			[ "repararía" ],
+			[ "repararíamos" ],
+			[ "repararíais", "repararían" ],
+			[ "repararían" ]
+		],
+		"7" : [
+			[ "repararé" ],
+			[ "repararás" ],
+			[ "reparará" ],
+			[ "repararemos" ],
+			[ "repararéis", "repararán" ],
+			[ "repararán" ]
+		],
+		"8" : [
+			[ "repare" ],
+			[ "repares" ],
+			[ "repare" ],
+			[ "reparemos" ],
+			[ "reparéis", "reparen" ],
+			[ "reparen" ]
+		],
+		"9" : [
+			[ "reparara" ],
+			[ "repararas" ],
+			[ "reparara" ],
+			[ "reparáramos" ],
+			[ "repararais", "repararan" ],
+			[ "repararan" ]
+		],
+		"10" : [
+			[ "reparase" ],
+			[ "reparases" ],
+			[ "reparase" ],
+			[ "reparásemos" ],
+			[ "reparaseis", "reparasen" ],
+			[ "reparasen" ]
+		],
+		"11" : [
+			[ "reparare" ],
+			[ "reparares" ],
+			[ "reparare" ],
+			[ "reparáremos" ],
+			[ "reparareis", "repararen" ],
+			[ "repararen" ]
+		],
+		"12" : {
+			"1" : [ "repara" ],
+			"2" : [ "repare" ],
+			"3" : [ "reparemos" ],
+			"4" : [ "reparad" ],
+			"5" : [ "reparen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=redefinir",
+	"word" : "redefinir",
+	"infinitivo" : "redefinir",
+	"participio" : [ "redefinido" ],
+	"gerundio" : [ "redefiniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "redefino" ],
+			[ "redefines", "redefinís" ],
+			[ "redefine" ],
+			[ "redefinimos" ],
+			[ "redefinís", "redefinen" ],
+			[ "redefinen" ]
+		],
+		"4" : [
+			[ "redefiní" ],
+			[ "redefiniste" ],
+			[ "redefinió" ],
+			[ "redefinimos" ],
+			[ "redefinisteis", "redefinieron" ],
+			[ "redefinieron" ]
+		],
+		"5" : [
+			[ "redefinía" ],
+			[ "redefinías" ],
+			[ "redefinía" ],
+			[ "redefiníamos" ],
+			[ "redefiníais", "redefinían" ],
+			[ "redefinían" ]
+		],
+		"6" : [
+			[ "redefiniría" ],
+			[ "redefinirías" ],
+			[ "redefiniría" ],
+			[ "redefiniríamos" ],
+			[ "redefiniríais", "redefinirían" ],
+			[ "redefinirían" ]
+		],
+		"7" : [
+			[ "redefiniré" ],
+			[ "redefinirás" ],
+			[ "redefinirá" ],
+			[ "redefiniremos" ],
+			[ "redefiniréis", "redefinirán" ],
+			[ "redefinirán" ]
+		],
+		"8" : [
+			[ "redefina" ],
+			[ "redefinas" ],
+			[ "redefina" ],
+			[ "redefinamos" ],
+			[ "redefináis", "redefinan" ],
+			[ "redefinan" ]
+		],
+		"9" : [
+			[ "redefiniera" ],
+			[ "redefinieras" ],
+			[ "redefiniera" ],
+			[ "redefiniéramos" ],
+			[ "redefinierais", "redefinieran" ],
+			[ "redefinieran" ]
+		],
+		"10" : [
+			[ "redefiniese" ],
+			[ "redefinieses" ],
+			[ "redefiniese" ],
+			[ "redefiniésemos" ],
+			[ "redefinieseis", "redefiniesen" ],
+			[ "redefiniesen" ]
+		],
+		"11" : [
+			[ "redefiniere" ],
+			[ "redefinieres" ],
+			[ "redefiniere" ],
+			[ "redefiniéremos" ],
+			[ "redefiniereis", "redefinieren" ],
+			[ "redefinieren" ]
+		],
+		"12" : {
+			"1" : [ "redefine" ],
+			"2" : [ "redefina" ],
+			"3" : [ "redefinamos" ],
+			"4" : [ "redefinid" ],
+			"5" : [ "redefinan" ]
+		}
+	}
+}

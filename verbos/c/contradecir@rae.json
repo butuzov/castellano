@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contradecir",
+	"word" : "contradecir",
+	"infinitivo" : "contradecir",
+	"participio" : [ "contradicho" ],
+	"gerundio" : [ "contradiciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "contradigo" ],
+			[ "contradices", "contradecís" ],
+			[ "contradice" ],
+			[ "contradecimos" ],
+			[ "contradecís", "contradicen" ],
+			[ "contradicen" ]
+		],
+		"4" : [
+			[ "contradije" ],
+			[ "contradijiste" ],
+			[ "contradijo" ],
+			[ "contradijimos" ],
+			[ "contradijisteis", "contradijeron" ],
+			[ "contradijeron" ]
+		],
+		"5" : [
+			[ "contradecía" ],
+			[ "contradecías" ],
+			[ "contradecía" ],
+			[ "contradecíamos" ],
+			[ "contradecíais", "contradecían" ],
+			[ "contradecían" ]
+		],
+		"6" : [
+			[ "contradiría" ],
+			[ "contradirías" ],
+			[ "contradiría" ],
+			[ "contradiríamos" ],
+			[ "contradiríais", "contradirían" ],
+			[ "contradirían" ]
+		],
+		"7" : [
+			[ "contradiré" ],
+			[ "contradirás" ],
+			[ "contradirá" ],
+			[ "contradiremos" ],
+			[ "contradiréis", "contradirán" ],
+			[ "contradirán" ]
+		],
+		"8" : [
+			[ "contradiga" ],
+			[ "contradigas" ],
+			[ "contradiga" ],
+			[ "contradigamos" ],
+			[ "contradigáis", "contradigan" ],
+			[ "contradigan" ]
+		],
+		"9" : [
+			[ "contradijera" ],
+			[ "contradijeras" ],
+			[ "contradijera" ],
+			[ "contradijéramos" ],
+			[ "contradijerais", "contradijeran" ],
+			[ "contradijeran" ]
+		],
+		"10" : [
+			[ "contradijese" ],
+			[ "contradijeses" ],
+			[ "contradijese" ],
+			[ "contradijésemos" ],
+			[ "contradijeseis", "contradijesen" ],
+			[ "contradijesen" ]
+		],
+		"11" : [
+			[ "contradijere" ],
+			[ "contradijeres" ],
+			[ "contradijere" ],
+			[ "contradijéremos" ],
+			[ "contradijereis", "contradijeren" ],
+			[ "contradijeren" ]
+		],
+		"12" : {
+			"1" : [ "contradice" ],
+			"2" : [ "contradiga" ],
+			"3" : [ "contradigamos" ],
+			"4" : [ "contradecid" ],
+			"5" : [ "contradigan" ]
+		}
+	}
+}

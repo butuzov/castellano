@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=presumir",
+	"word" : "presumir",
+	"infinitivo" : "presumir",
+	"participio" : [ "presumido" ],
+	"gerundio" : [ "presumiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "presumo" ],
+			[ "presumes", "presumís" ],
+			[ "presume" ],
+			[ "presumimos" ],
+			[ "presumís", "presumen" ],
+			[ "presumen" ]
+		],
+		"4" : [
+			[ "presumí" ],
+			[ "presumiste" ],
+			[ "presumió" ],
+			[ "presumimos" ],
+			[ "presumisteis", "presumieron" ],
+			[ "presumieron" ]
+		],
+		"5" : [
+			[ "presumía" ],
+			[ "presumías" ],
+			[ "presumía" ],
+			[ "presumíamos" ],
+			[ "presumíais", "presumían" ],
+			[ "presumían" ]
+		],
+		"6" : [
+			[ "presumiría" ],
+			[ "presumirías" ],
+			[ "presumiría" ],
+			[ "presumiríamos" ],
+			[ "presumiríais", "presumirían" ],
+			[ "presumirían" ]
+		],
+		"7" : [
+			[ "presumiré" ],
+			[ "presumirás" ],
+			[ "presumirá" ],
+			[ "presumiremos" ],
+			[ "presumiréis", "presumirán" ],
+			[ "presumirán" ]
+		],
+		"8" : [
+			[ "presuma" ],
+			[ "presumas" ],
+			[ "presuma" ],
+			[ "presumamos" ],
+			[ "presumáis", "presuman" ],
+			[ "presuman" ]
+		],
+		"9" : [
+			[ "presumiera" ],
+			[ "presumieras" ],
+			[ "presumiera" ],
+			[ "presumiéramos" ],
+			[ "presumierais", "presumieran" ],
+			[ "presumieran" ]
+		],
+		"10" : [
+			[ "presumiese" ],
+			[ "presumieses" ],
+			[ "presumiese" ],
+			[ "presumiésemos" ],
+			[ "presumieseis", "presumiesen" ],
+			[ "presumiesen" ]
+		],
+		"11" : [
+			[ "presumiere" ],
+			[ "presumieres" ],
+			[ "presumiere" ],
+			[ "presumiéremos" ],
+			[ "presumiereis", "presumieren" ],
+			[ "presumieren" ]
+		],
+		"12" : {
+			"1" : [ "presume" ],
+			"2" : [ "presuma" ],
+			"3" : [ "presumamos" ],
+			"4" : [ "presumid" ],
+			"5" : [ "presuman" ]
+		}
+	}
+}

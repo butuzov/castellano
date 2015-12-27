@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=drenar",
+	"word" : "drenar",
+	"infinitivo" : "drenar",
+	"participio" : [ "drenado" ],
+	"gerundio" : [ "drenando" ],
+	"tenses" : {
+		"3" : [
+			[ "dreno" ],
+			[ "drenas", "drenás" ],
+			[ "drena" ],
+			[ "drenamos" ],
+			[ "drenáis", "drenan" ],
+			[ "drenan" ]
+		],
+		"4" : [
+			[ "drené" ],
+			[ "drenaste" ],
+			[ "drenó" ],
+			[ "drenamos" ],
+			[ "drenasteis", "drenaron" ],
+			[ "drenaron" ]
+		],
+		"5" : [
+			[ "drenaba" ],
+			[ "drenabas" ],
+			[ "drenaba" ],
+			[ "drenábamos" ],
+			[ "drenabais", "drenaban" ],
+			[ "drenaban" ]
+		],
+		"6" : [
+			[ "drenaría" ],
+			[ "drenarías" ],
+			[ "drenaría" ],
+			[ "drenaríamos" ],
+			[ "drenaríais", "drenarían" ],
+			[ "drenarían" ]
+		],
+		"7" : [
+			[ "drenaré" ],
+			[ "drenarás" ],
+			[ "drenará" ],
+			[ "drenaremos" ],
+			[ "drenaréis", "drenarán" ],
+			[ "drenarán" ]
+		],
+		"8" : [
+			[ "drene" ],
+			[ "drenes" ],
+			[ "drene" ],
+			[ "drenemos" ],
+			[ "drenéis", "drenen" ],
+			[ "drenen" ]
+		],
+		"9" : [
+			[ "drenara" ],
+			[ "drenaras" ],
+			[ "drenara" ],
+			[ "drenáramos" ],
+			[ "drenarais", "drenaran" ],
+			[ "drenaran" ]
+		],
+		"10" : [
+			[ "drenase" ],
+			[ "drenases" ],
+			[ "drenase" ],
+			[ "drenásemos" ],
+			[ "drenaseis", "drenasen" ],
+			[ "drenasen" ]
+		],
+		"11" : [
+			[ "drenare" ],
+			[ "drenares" ],
+			[ "drenare" ],
+			[ "drenáremos" ],
+			[ "drenareis", "drenaren" ],
+			[ "drenaren" ]
+		],
+		"12" : {
+			"1" : [ "drena" ],
+			"2" : [ "drene" ],
+			"3" : [ "drenemos" ],
+			"4" : [ "drenad" ],
+			"5" : [ "drenen" ]
+		}
+	}
+}

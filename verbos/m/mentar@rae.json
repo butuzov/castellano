@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mentar",
+	"word" : "mentar",
+	"infinitivo" : "mentar",
+	"participio" : [ "mentado" ],
+	"gerundio" : [ "mentando" ],
+	"tenses" : {
+		"3" : [
+			[ "miento" ],
+			[ "mientas", "mentás" ],
+			[ "mienta" ],
+			[ "mentamos" ],
+			[ "mentáis", "mientan" ],
+			[ "mientan" ]
+		],
+		"4" : [
+			[ "menté" ],
+			[ "mentaste" ],
+			[ "mentó" ],
+			[ "mentamos" ],
+			[ "mentasteis", "mentaron" ],
+			[ "mentaron" ]
+		],
+		"5" : [
+			[ "mentaba" ],
+			[ "mentabas" ],
+			[ "mentaba" ],
+			[ "mentábamos" ],
+			[ "mentabais", "mentaban" ],
+			[ "mentaban" ]
+		],
+		"6" : [
+			[ "mentaría" ],
+			[ "mentarías" ],
+			[ "mentaría" ],
+			[ "mentaríamos" ],
+			[ "mentaríais", "mentarían" ],
+			[ "mentarían" ]
+		],
+		"7" : [
+			[ "mentaré" ],
+			[ "mentarás" ],
+			[ "mentará" ],
+			[ "mentaremos" ],
+			[ "mentaréis", "mentarán" ],
+			[ "mentarán" ]
+		],
+		"8" : [
+			[ "miente" ],
+			[ "mientes" ],
+			[ "miente" ],
+			[ "mentemos" ],
+			[ "mentéis", "mienten" ],
+			[ "mienten" ]
+		],
+		"9" : [
+			[ "mentara" ],
+			[ "mentaras" ],
+			[ "mentara" ],
+			[ "mentáramos" ],
+			[ "mentarais", "mentaran" ],
+			[ "mentaran" ]
+		],
+		"10" : [
+			[ "mentase" ],
+			[ "mentases" ],
+			[ "mentase" ],
+			[ "mentásemos" ],
+			[ "mentaseis", "mentasen" ],
+			[ "mentasen" ]
+		],
+		"11" : [
+			[ "mentare" ],
+			[ "mentares" ],
+			[ "mentare" ],
+			[ "mentáremos" ],
+			[ "mentareis", "mentaren" ],
+			[ "mentaren" ]
+		],
+		"12" : {
+			"1" : [ "mienta" ],
+			"2" : [ "miente" ],
+			"3" : [ "mentemos" ],
+			"4" : [ "mentad" ],
+			"5" : [ "mienten" ]
+		}
+	}
+}

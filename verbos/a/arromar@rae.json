@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arromar",
+	"word" : "arromar",
+	"infinitivo" : "arromar",
+	"participio" : [ "arromado" ],
+	"gerundio" : [ "arromando" ],
+	"tenses" : {
+		"3" : [
+			[ "arromo" ],
+			[ "arromas", "arromás" ],
+			[ "arroma" ],
+			[ "arromamos" ],
+			[ "arromáis", "arroman" ],
+			[ "arroman" ]
+		],
+		"4" : [
+			[ "arromé" ],
+			[ "arromaste" ],
+			[ "arromó" ],
+			[ "arromamos" ],
+			[ "arromasteis", "arromaron" ],
+			[ "arromaron" ]
+		],
+		"5" : [
+			[ "arromaba" ],
+			[ "arromabas" ],
+			[ "arromaba" ],
+			[ "arromábamos" ],
+			[ "arromabais", "arromaban" ],
+			[ "arromaban" ]
+		],
+		"6" : [
+			[ "arromaría" ],
+			[ "arromarías" ],
+			[ "arromaría" ],
+			[ "arromaríamos" ],
+			[ "arromaríais", "arromarían" ],
+			[ "arromarían" ]
+		],
+		"7" : [
+			[ "arromaré" ],
+			[ "arromarás" ],
+			[ "arromará" ],
+			[ "arromaremos" ],
+			[ "arromaréis", "arromarán" ],
+			[ "arromarán" ]
+		],
+		"8" : [
+			[ "arrome" ],
+			[ "arromes" ],
+			[ "arrome" ],
+			[ "arromemos" ],
+			[ "arroméis", "arromen" ],
+			[ "arromen" ]
+		],
+		"9" : [
+			[ "arromara" ],
+			[ "arromaras" ],
+			[ "arromara" ],
+			[ "arromáramos" ],
+			[ "arromarais", "arromaran" ],
+			[ "arromaran" ]
+		],
+		"10" : [
+			[ "arromase" ],
+			[ "arromases" ],
+			[ "arromase" ],
+			[ "arromásemos" ],
+			[ "arromaseis", "arromasen" ],
+			[ "arromasen" ]
+		],
+		"11" : [
+			[ "arromare" ],
+			[ "arromares" ],
+			[ "arromare" ],
+			[ "arromáremos" ],
+			[ "arromareis", "arromaren" ],
+			[ "arromaren" ]
+		],
+		"12" : {
+			"1" : [ "arroma" ],
+			"2" : [ "arrome" ],
+			"3" : [ "arromemos" ],
+			"4" : [ "arromad" ],
+			"5" : [ "arromen" ]
+		}
+	}
+}

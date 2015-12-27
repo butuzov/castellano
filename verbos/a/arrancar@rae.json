@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrancar",
+	"word" : "arrancar",
+	"infinitivo" : "arrancar",
+	"participio" : [ "arrancado" ],
+	"gerundio" : [ "arrancando" ],
+	"tenses" : {
+		"3" : [
+			[ "arranco" ],
+			[ "arrancas", "arrancás" ],
+			[ "arranca" ],
+			[ "arrancamos" ],
+			[ "arrancáis", "arrancan" ],
+			[ "arrancan" ]
+		],
+		"4" : [
+			[ "arranqué" ],
+			[ "arrancaste" ],
+			[ "arrancó" ],
+			[ "arrancamos" ],
+			[ "arrancasteis", "arrancaron" ],
+			[ "arrancaron" ]
+		],
+		"5" : [
+			[ "arrancaba" ],
+			[ "arrancabas" ],
+			[ "arrancaba" ],
+			[ "arrancábamos" ],
+			[ "arrancabais", "arrancaban" ],
+			[ "arrancaban" ]
+		],
+		"6" : [
+			[ "arrancaría" ],
+			[ "arrancarías" ],
+			[ "arrancaría" ],
+			[ "arrancaríamos" ],
+			[ "arrancaríais", "arrancarían" ],
+			[ "arrancarían" ]
+		],
+		"7" : [
+			[ "arrancaré" ],
+			[ "arrancarás" ],
+			[ "arrancará" ],
+			[ "arrancaremos" ],
+			[ "arrancaréis", "arrancarán" ],
+			[ "arrancarán" ]
+		],
+		"8" : [
+			[ "arranque" ],
+			[ "arranques" ],
+			[ "arranque" ],
+			[ "arranquemos" ],
+			[ "arranquéis", "arranquen" ],
+			[ "arranquen" ]
+		],
+		"9" : [
+			[ "arrancara" ],
+			[ "arrancaras" ],
+			[ "arrancara" ],
+			[ "arrancáramos" ],
+			[ "arrancarais", "arrancaran" ],
+			[ "arrancaran" ]
+		],
+		"10" : [
+			[ "arrancase" ],
+			[ "arrancases" ],
+			[ "arrancase" ],
+			[ "arrancásemos" ],
+			[ "arrancaseis", "arrancasen" ],
+			[ "arrancasen" ]
+		],
+		"11" : [
+			[ "arrancare" ],
+			[ "arrancares" ],
+			[ "arrancare" ],
+			[ "arrancáremos" ],
+			[ "arrancareis", "arrancaren" ],
+			[ "arrancaren" ]
+		],
+		"12" : {
+			"1" : [ "arranca" ],
+			"2" : [ "arranque" ],
+			"3" : [ "arranquemos" ],
+			"4" : [ "arrancad" ],
+			"5" : [ "arranquen" ]
+		}
+	}
+}

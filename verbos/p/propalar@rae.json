@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=propalar",
+	"word" : "propalar",
+	"infinitivo" : "propalar",
+	"participio" : [ "propalado" ],
+	"gerundio" : [ "propalando" ],
+	"tenses" : {
+		"3" : [
+			[ "propalo" ],
+			[ "propalas", "propalás" ],
+			[ "propala" ],
+			[ "propalamos" ],
+			[ "propaláis", "propalan" ],
+			[ "propalan" ]
+		],
+		"4" : [
+			[ "propalé" ],
+			[ "propalaste" ],
+			[ "propaló" ],
+			[ "propalamos" ],
+			[ "propalasteis", "propalaron" ],
+			[ "propalaron" ]
+		],
+		"5" : [
+			[ "propalaba" ],
+			[ "propalabas" ],
+			[ "propalaba" ],
+			[ "propalábamos" ],
+			[ "propalabais", "propalaban" ],
+			[ "propalaban" ]
+		],
+		"6" : [
+			[ "propalaría" ],
+			[ "propalarías" ],
+			[ "propalaría" ],
+			[ "propalaríamos" ],
+			[ "propalaríais", "propalarían" ],
+			[ "propalarían" ]
+		],
+		"7" : [
+			[ "propalaré" ],
+			[ "propalarás" ],
+			[ "propalará" ],
+			[ "propalaremos" ],
+			[ "propalaréis", "propalarán" ],
+			[ "propalarán" ]
+		],
+		"8" : [
+			[ "propale" ],
+			[ "propales" ],
+			[ "propale" ],
+			[ "propalemos" ],
+			[ "propaléis", "propalen" ],
+			[ "propalen" ]
+		],
+		"9" : [
+			[ "propalara" ],
+			[ "propalaras" ],
+			[ "propalara" ],
+			[ "propaláramos" ],
+			[ "propalarais", "propalaran" ],
+			[ "propalaran" ]
+		],
+		"10" : [
+			[ "propalase" ],
+			[ "propalases" ],
+			[ "propalase" ],
+			[ "propalásemos" ],
+			[ "propalaseis", "propalasen" ],
+			[ "propalasen" ]
+		],
+		"11" : [
+			[ "propalare" ],
+			[ "propalares" ],
+			[ "propalare" ],
+			[ "propaláremos" ],
+			[ "propalareis", "propalaren" ],
+			[ "propalaren" ]
+		],
+		"12" : {
+			"1" : [ "propala" ],
+			"2" : [ "propale" ],
+			"3" : [ "propalemos" ],
+			"4" : [ "propalad" ],
+			"5" : [ "propalen" ]
+		}
+	}
+}

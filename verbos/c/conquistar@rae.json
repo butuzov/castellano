@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conquistar",
+	"word" : "conquistar",
+	"infinitivo" : "conquistar",
+	"participio" : [ "conquistado" ],
+	"gerundio" : [ "conquistando" ],
+	"tenses" : {
+		"3" : [
+			[ "conquisto" ],
+			[ "conquistas", "conquistás" ],
+			[ "conquista" ],
+			[ "conquistamos" ],
+			[ "conquistáis", "conquistan" ],
+			[ "conquistan" ]
+		],
+		"4" : [
+			[ "conquisté" ],
+			[ "conquistaste" ],
+			[ "conquistó" ],
+			[ "conquistamos" ],
+			[ "conquistasteis", "conquistaron" ],
+			[ "conquistaron" ]
+		],
+		"5" : [
+			[ "conquistaba" ],
+			[ "conquistabas" ],
+			[ "conquistaba" ],
+			[ "conquistábamos" ],
+			[ "conquistabais", "conquistaban" ],
+			[ "conquistaban" ]
+		],
+		"6" : [
+			[ "conquistaría" ],
+			[ "conquistarías" ],
+			[ "conquistaría" ],
+			[ "conquistaríamos" ],
+			[ "conquistaríais", "conquistarían" ],
+			[ "conquistarían" ]
+		],
+		"7" : [
+			[ "conquistaré" ],
+			[ "conquistarás" ],
+			[ "conquistará" ],
+			[ "conquistaremos" ],
+			[ "conquistaréis", "conquistarán" ],
+			[ "conquistarán" ]
+		],
+		"8" : [
+			[ "conquiste" ],
+			[ "conquistes" ],
+			[ "conquiste" ],
+			[ "conquistemos" ],
+			[ "conquistéis", "conquisten" ],
+			[ "conquisten" ]
+		],
+		"9" : [
+			[ "conquistara" ],
+			[ "conquistaras" ],
+			[ "conquistara" ],
+			[ "conquistáramos" ],
+			[ "conquistarais", "conquistaran" ],
+			[ "conquistaran" ]
+		],
+		"10" : [
+			[ "conquistase" ],
+			[ "conquistases" ],
+			[ "conquistase" ],
+			[ "conquistásemos" ],
+			[ "conquistaseis", "conquistasen" ],
+			[ "conquistasen" ]
+		],
+		"11" : [
+			[ "conquistare" ],
+			[ "conquistares" ],
+			[ "conquistare" ],
+			[ "conquistáremos" ],
+			[ "conquistareis", "conquistaren" ],
+			[ "conquistaren" ]
+		],
+		"12" : {
+			"1" : [ "conquista" ],
+			"2" : [ "conquiste" ],
+			"3" : [ "conquistemos" ],
+			"4" : [ "conquistad" ],
+			"5" : [ "conquisten" ]
+		}
+	}
+}

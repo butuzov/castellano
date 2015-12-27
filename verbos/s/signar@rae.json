@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=signar",
+	"word" : "signar",
+	"infinitivo" : "signar",
+	"participio" : [ "signado" ],
+	"gerundio" : [ "signando" ],
+	"tenses" : {
+		"3" : [
+			[ "signo" ],
+			[ "signas", "signás" ],
+			[ "signa" ],
+			[ "signamos" ],
+			[ "signáis", "signan" ],
+			[ "signan" ]
+		],
+		"4" : [
+			[ "signé" ],
+			[ "signaste" ],
+			[ "signó" ],
+			[ "signamos" ],
+			[ "signasteis", "signaron" ],
+			[ "signaron" ]
+		],
+		"5" : [
+			[ "signaba" ],
+			[ "signabas" ],
+			[ "signaba" ],
+			[ "signábamos" ],
+			[ "signabais", "signaban" ],
+			[ "signaban" ]
+		],
+		"6" : [
+			[ "signaría" ],
+			[ "signarías" ],
+			[ "signaría" ],
+			[ "signaríamos" ],
+			[ "signaríais", "signarían" ],
+			[ "signarían" ]
+		],
+		"7" : [
+			[ "signaré" ],
+			[ "signarás" ],
+			[ "signará" ],
+			[ "signaremos" ],
+			[ "signaréis", "signarán" ],
+			[ "signarán" ]
+		],
+		"8" : [
+			[ "signe" ],
+			[ "signes" ],
+			[ "signe" ],
+			[ "signemos" ],
+			[ "signéis", "signen" ],
+			[ "signen" ]
+		],
+		"9" : [
+			[ "signara" ],
+			[ "signaras" ],
+			[ "signara" ],
+			[ "signáramos" ],
+			[ "signarais", "signaran" ],
+			[ "signaran" ]
+		],
+		"10" : [
+			[ "signase" ],
+			[ "signases" ],
+			[ "signase" ],
+			[ "signásemos" ],
+			[ "signaseis", "signasen" ],
+			[ "signasen" ]
+		],
+		"11" : [
+			[ "signare" ],
+			[ "signares" ],
+			[ "signare" ],
+			[ "signáremos" ],
+			[ "signareis", "signaren" ],
+			[ "signaren" ]
+		],
+		"12" : {
+			"1" : [ "signa" ],
+			"2" : [ "signe" ],
+			"3" : [ "signemos" ],
+			"4" : [ "signad" ],
+			"5" : [ "signen" ]
+		}
+	}
+}

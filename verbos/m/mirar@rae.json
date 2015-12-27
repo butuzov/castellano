@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mirar",
+	"word" : "mirar",
+	"infinitivo" : "mirar",
+	"participio" : [ "mirado" ],
+	"gerundio" : [ "mirando" ],
+	"tenses" : {
+		"3" : [
+			[ "miro" ],
+			[ "miras", "mirás" ],
+			[ "mira" ],
+			[ "miramos" ],
+			[ "miráis", "miran" ],
+			[ "miran" ]
+		],
+		"4" : [
+			[ "miré" ],
+			[ "miraste" ],
+			[ "miró" ],
+			[ "miramos" ],
+			[ "mirasteis", "miraron" ],
+			[ "miraron" ]
+		],
+		"5" : [
+			[ "miraba" ],
+			[ "mirabas" ],
+			[ "miraba" ],
+			[ "mirábamos" ],
+			[ "mirabais", "miraban" ],
+			[ "miraban" ]
+		],
+		"6" : [
+			[ "miraría" ],
+			[ "mirarías" ],
+			[ "miraría" ],
+			[ "miraríamos" ],
+			[ "miraríais", "mirarían" ],
+			[ "mirarían" ]
+		],
+		"7" : [
+			[ "miraré" ],
+			[ "mirarás" ],
+			[ "mirará" ],
+			[ "miraremos" ],
+			[ "miraréis", "mirarán" ],
+			[ "mirarán" ]
+		],
+		"8" : [
+			[ "mire" ],
+			[ "mires" ],
+			[ "mire" ],
+			[ "miremos" ],
+			[ "miréis", "miren" ],
+			[ "miren" ]
+		],
+		"9" : [
+			[ "mirara" ],
+			[ "miraras" ],
+			[ "mirara" ],
+			[ "miráramos" ],
+			[ "mirarais", "miraran" ],
+			[ "miraran" ]
+		],
+		"10" : [
+			[ "mirase" ],
+			[ "mirases" ],
+			[ "mirase" ],
+			[ "mirásemos" ],
+			[ "miraseis", "mirasen" ],
+			[ "mirasen" ]
+		],
+		"11" : [
+			[ "mirare" ],
+			[ "mirares" ],
+			[ "mirare" ],
+			[ "miráremos" ],
+			[ "mirareis", "miraren" ],
+			[ "miraren" ]
+		],
+		"12" : {
+			"1" : [ "mira" ],
+			"2" : [ "mire" ],
+			"3" : [ "miremos" ],
+			"4" : [ "mirad" ],
+			"5" : [ "miren" ]
+		}
+	}
+}

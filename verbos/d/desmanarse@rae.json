@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmanarse",
+	"word" : "desmanarse",
+	"infinitivo" : "desmanarse",
+	"participio" : [ "desmanado" ],
+	"gerundio" : [ "desmanándome", "desmanándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me desmano" ],
+			[ "te desmanas", "te desmanás" ],
+			[ "se desmana" ],
+			[ "nos desmanamos" ],
+			[ "os desmanáis", "se desmanan" ],
+			[ "se desmanan" ]
+		],
+		"4" : [
+			[ "me desmané" ],
+			[ "te desmanaste" ],
+			[ "se desmanó" ],
+			[ "nos desmanamos" ],
+			[ "os desmanasteis", "se desmanaron" ],
+			[ "se desmanaron" ]
+		],
+		"5" : [
+			[ "me desmanaba" ],
+			[ "te desmanabas" ],
+			[ "se desmanaba" ],
+			[ "nos desmanábamos" ],
+			[ "os desmanabais", "se desmanaban" ],
+			[ "se desmanaban" ]
+		],
+		"6" : [
+			[ "me desmanaría" ],
+			[ "te desmanarías" ],
+			[ "se desmanaría" ],
+			[ "nos desmanaríamos" ],
+			[ "os desmanaríais", "se desmanarían" ],
+			[ "se desmanarían" ]
+		],
+		"7" : [
+			[ "me desmanaré" ],
+			[ "te desmanarás" ],
+			[ "se desmanará" ],
+			[ "nos desmanaremos" ],
+			[ "os desmanaréis", "se desmanarán" ],
+			[ "se desmanarán" ]
+		],
+		"8" : [
+			[ "me desmane" ],
+			[ "te desmanes" ],
+			[ "se desmane" ],
+			[ "nos desmanemos" ],
+			[ "os desmanéis", "se desmanen" ],
+			[ "se desmanen" ]
+		],
+		"9" : [
+			[ "me desmanara" ],
+			[ "te desmanaras" ],
+			[ "se desmanara" ],
+			[ "nos desmanáramos" ],
+			[ "os desmanarais", "se desmanaran" ],
+			[ "se desmanaran" ]
+		],
+		"10" : [
+			[ "me desmanase" ],
+			[ "te desmanases" ],
+			[ "se desmanase" ],
+			[ "nos desmanásemos" ],
+			[ "os desmanaseis", "se desmanasen" ],
+			[ "se desmanasen" ]
+		],
+		"11" : [
+			[ "me desmanare" ],
+			[ "te desmanares" ],
+			[ "se desmanare" ],
+			[ "nos desmanáremos" ],
+			[ "os desmanareis", "se desmanaren" ],
+			[ "se desmanaren" ]
+		],
+		"12" : {
+			"1" : [ "desmánate" ],
+			"2" : [ "desmane" ],
+			"3" : [ "desmanemos" ],
+			"4" : [ "desmanaos" ],
+			"5" : [ "desmánense" ]
+		}
+	}
+}

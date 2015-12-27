@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=paralelar",
+	"word" : "paralelar",
+	"infinitivo" : "paralelar",
+	"participio" : [ "paralelado" ],
+	"gerundio" : [ "paralelando" ],
+	"tenses" : {
+		"3" : [
+			[ "paralelo" ],
+			[ "paralelas", "paralelás" ],
+			[ "paralela" ],
+			[ "paralelamos" ],
+			[ "paraleláis", "paralelan" ],
+			[ "paralelan" ]
+		],
+		"4" : [
+			[ "paralelé" ],
+			[ "paralelaste" ],
+			[ "paraleló" ],
+			[ "paralelamos" ],
+			[ "paralelasteis", "paralelaron" ],
+			[ "paralelaron" ]
+		],
+		"5" : [
+			[ "paralelaba" ],
+			[ "paralelabas" ],
+			[ "paralelaba" ],
+			[ "paralelábamos" ],
+			[ "paralelabais", "paralelaban" ],
+			[ "paralelaban" ]
+		],
+		"6" : [
+			[ "paralelaría" ],
+			[ "paralelarías" ],
+			[ "paralelaría" ],
+			[ "paralelaríamos" ],
+			[ "paralelaríais", "paralelarían" ],
+			[ "paralelarían" ]
+		],
+		"7" : [
+			[ "paralelaré" ],
+			[ "paralelarás" ],
+			[ "paralelará" ],
+			[ "paralelaremos" ],
+			[ "paralelaréis", "paralelarán" ],
+			[ "paralelarán" ]
+		],
+		"8" : [
+			[ "paralele" ],
+			[ "paraleles" ],
+			[ "paralele" ],
+			[ "paralelemos" ],
+			[ "paraleléis", "paralelen" ],
+			[ "paralelen" ]
+		],
+		"9" : [
+			[ "paralelara" ],
+			[ "paralelaras" ],
+			[ "paralelara" ],
+			[ "paraleláramos" ],
+			[ "paralelarais", "paralelaran" ],
+			[ "paralelaran" ]
+		],
+		"10" : [
+			[ "paralelase" ],
+			[ "paralelases" ],
+			[ "paralelase" ],
+			[ "paralelásemos" ],
+			[ "paralelaseis", "paralelasen" ],
+			[ "paralelasen" ]
+		],
+		"11" : [
+			[ "paralelare" ],
+			[ "paralelares" ],
+			[ "paralelare" ],
+			[ "paraleláremos" ],
+			[ "paralelareis", "paralelaren" ],
+			[ "paralelaren" ]
+		],
+		"12" : {
+			"1" : [ "paralela" ],
+			"2" : [ "paralele" ],
+			"3" : [ "paralelemos" ],
+			"4" : [ "paralelad" ],
+			"5" : [ "paralelen" ]
+		}
+	}
+}

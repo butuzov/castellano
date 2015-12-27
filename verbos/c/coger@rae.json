@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=coger",
+	"word" : "coger",
+	"infinitivo" : "coger",
+	"participio" : [ "cogido" ],
+	"gerundio" : [ "cogiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "cojo" ],
+			[ "coges", "cogés" ],
+			[ "coge" ],
+			[ "cogemos" ],
+			[ "cogéis", "cogen" ],
+			[ "cogen" ]
+		],
+		"4" : [
+			[ "cogí" ],
+			[ "cogiste" ],
+			[ "cogió" ],
+			[ "cogimos" ],
+			[ "cogisteis", "cogieron" ],
+			[ "cogieron" ]
+		],
+		"5" : [
+			[ "cogía" ],
+			[ "cogías" ],
+			[ "cogía" ],
+			[ "cogíamos" ],
+			[ "cogíais", "cogían" ],
+			[ "cogían" ]
+		],
+		"6" : [
+			[ "cogería" ],
+			[ "cogerías" ],
+			[ "cogería" ],
+			[ "cogeríamos" ],
+			[ "cogeríais", "cogerían" ],
+			[ "cogerían" ]
+		],
+		"7" : [
+			[ "cogeré" ],
+			[ "cogerás" ],
+			[ "cogerá" ],
+			[ "cogeremos" ],
+			[ "cogeréis", "cogerán" ],
+			[ "cogerán" ]
+		],
+		"8" : [
+			[ "coja" ],
+			[ "cojas" ],
+			[ "coja" ],
+			[ "cojamos" ],
+			[ "cojáis", "cojan" ],
+			[ "cojan" ]
+		],
+		"9" : [
+			[ "cogiera" ],
+			[ "cogieras" ],
+			[ "cogiera" ],
+			[ "cogiéramos" ],
+			[ "cogierais", "cogieran" ],
+			[ "cogieran" ]
+		],
+		"10" : [
+			[ "cogiese" ],
+			[ "cogieses" ],
+			[ "cogiese" ],
+			[ "cogiésemos" ],
+			[ "cogieseis", "cogiesen" ],
+			[ "cogiesen" ]
+		],
+		"11" : [
+			[ "cogiere" ],
+			[ "cogieres" ],
+			[ "cogiere" ],
+			[ "cogiéremos" ],
+			[ "cogiereis", "cogieren" ],
+			[ "cogieren" ]
+		],
+		"12" : {
+			"1" : [ "coge" ],
+			"2" : [ "coja" ],
+			"3" : [ "cojamos" ],
+			"4" : [ "coged" ],
+			"5" : [ "cojan" ]
+		}
+	}
+}

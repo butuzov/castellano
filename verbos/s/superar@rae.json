@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=superar",
+	"word" : "superar",
+	"infinitivo" : "superar",
+	"participio" : [ "superado" ],
+	"gerundio" : [ "superando" ],
+	"tenses" : {
+		"3" : [
+			[ "supero" ],
+			[ "superas", "superás" ],
+			[ "supera" ],
+			[ "superamos" ],
+			[ "superáis", "superan" ],
+			[ "superan" ]
+		],
+		"4" : [
+			[ "superé" ],
+			[ "superaste" ],
+			[ "superó" ],
+			[ "superamos" ],
+			[ "superasteis", "superaron" ],
+			[ "superaron" ]
+		],
+		"5" : [
+			[ "superaba" ],
+			[ "superabas" ],
+			[ "superaba" ],
+			[ "superábamos" ],
+			[ "superabais", "superaban" ],
+			[ "superaban" ]
+		],
+		"6" : [
+			[ "superaría" ],
+			[ "superarías" ],
+			[ "superaría" ],
+			[ "superaríamos" ],
+			[ "superaríais", "superarían" ],
+			[ "superarían" ]
+		],
+		"7" : [
+			[ "superaré" ],
+			[ "superarás" ],
+			[ "superará" ],
+			[ "superaremos" ],
+			[ "superaréis", "superarán" ],
+			[ "superarán" ]
+		],
+		"8" : [
+			[ "supere" ],
+			[ "superes" ],
+			[ "supere" ],
+			[ "superemos" ],
+			[ "superéis", "superen" ],
+			[ "superen" ]
+		],
+		"9" : [
+			[ "superara" ],
+			[ "superaras" ],
+			[ "superara" ],
+			[ "superáramos" ],
+			[ "superarais", "superaran" ],
+			[ "superaran" ]
+		],
+		"10" : [
+			[ "superase" ],
+			[ "superases" ],
+			[ "superase" ],
+			[ "superásemos" ],
+			[ "superaseis", "superasen" ],
+			[ "superasen" ]
+		],
+		"11" : [
+			[ "superare" ],
+			[ "superares" ],
+			[ "superare" ],
+			[ "superáremos" ],
+			[ "superareis", "superaren" ],
+			[ "superaren" ]
+		],
+		"12" : {
+			"1" : [ "supera" ],
+			"2" : [ "supere" ],
+			"3" : [ "superemos" ],
+			"4" : [ "superad" ],
+			"5" : [ "superen" ]
+		}
+	}
+}

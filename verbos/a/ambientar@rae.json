@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ambientar",
+	"word" : "ambientar",
+	"infinitivo" : "ambientar",
+	"participio" : [ "ambientado" ],
+	"gerundio" : [ "ambientando" ],
+	"tenses" : {
+		"3" : [
+			[ "ambiento" ],
+			[ "ambientas", "ambientás" ],
+			[ "ambienta" ],
+			[ "ambientamos" ],
+			[ "ambientáis", "ambientan" ],
+			[ "ambientan" ]
+		],
+		"4" : [
+			[ "ambienté" ],
+			[ "ambientaste" ],
+			[ "ambientó" ],
+			[ "ambientamos" ],
+			[ "ambientasteis", "ambientaron" ],
+			[ "ambientaron" ]
+		],
+		"5" : [
+			[ "ambientaba" ],
+			[ "ambientabas" ],
+			[ "ambientaba" ],
+			[ "ambientábamos" ],
+			[ "ambientabais", "ambientaban" ],
+			[ "ambientaban" ]
+		],
+		"6" : [
+			[ "ambientaría" ],
+			[ "ambientarías" ],
+			[ "ambientaría" ],
+			[ "ambientaríamos" ],
+			[ "ambientaríais", "ambientarían" ],
+			[ "ambientarían" ]
+		],
+		"7" : [
+			[ "ambientaré" ],
+			[ "ambientarás" ],
+			[ "ambientará" ],
+			[ "ambientaremos" ],
+			[ "ambientaréis", "ambientarán" ],
+			[ "ambientarán" ]
+		],
+		"8" : [
+			[ "ambiente" ],
+			[ "ambientes" ],
+			[ "ambiente" ],
+			[ "ambientemos" ],
+			[ "ambientéis", "ambienten" ],
+			[ "ambienten" ]
+		],
+		"9" : [
+			[ "ambientara" ],
+			[ "ambientaras" ],
+			[ "ambientara" ],
+			[ "ambientáramos" ],
+			[ "ambientarais", "ambientaran" ],
+			[ "ambientaran" ]
+		],
+		"10" : [
+			[ "ambientase" ],
+			[ "ambientases" ],
+			[ "ambientase" ],
+			[ "ambientásemos" ],
+			[ "ambientaseis", "ambientasen" ],
+			[ "ambientasen" ]
+		],
+		"11" : [
+			[ "ambientare" ],
+			[ "ambientares" ],
+			[ "ambientare" ],
+			[ "ambientáremos" ],
+			[ "ambientareis", "ambientaren" ],
+			[ "ambientaren" ]
+		],
+		"12" : {
+			"1" : [ "ambienta" ],
+			"2" : [ "ambiente" ],
+			"3" : [ "ambientemos" ],
+			"4" : [ "ambientad" ],
+			"5" : [ "ambienten" ]
+		}
+	}
+}

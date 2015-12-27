@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=independizar",
+	"word" : "independizar",
+	"infinitivo" : "independizar",
+	"participio" : [ "independizado" ],
+	"gerundio" : [ "independizando" ],
+	"tenses" : {
+		"3" : [
+			[ "independizo" ],
+			[ "independizas", "independizás" ],
+			[ "independiza" ],
+			[ "independizamos" ],
+			[ "independizáis", "independizan" ],
+			[ "independizan" ]
+		],
+		"4" : [
+			[ "independicé" ],
+			[ "independizaste" ],
+			[ "independizó" ],
+			[ "independizamos" ],
+			[ "independizasteis", "independizaron" ],
+			[ "independizaron" ]
+		],
+		"5" : [
+			[ "independizaba" ],
+			[ "independizabas" ],
+			[ "independizaba" ],
+			[ "independizábamos" ],
+			[ "independizabais", "independizaban" ],
+			[ "independizaban" ]
+		],
+		"6" : [
+			[ "independizaría" ],
+			[ "independizarías" ],
+			[ "independizaría" ],
+			[ "independizaríamos" ],
+			[ "independizaríais", "independizarían" ],
+			[ "independizarían" ]
+		],
+		"7" : [
+			[ "independizaré" ],
+			[ "independizarás" ],
+			[ "independizará" ],
+			[ "independizaremos" ],
+			[ "independizaréis", "independizarán" ],
+			[ "independizarán" ]
+		],
+		"8" : [
+			[ "independice" ],
+			[ "independices" ],
+			[ "independice" ],
+			[ "independicemos" ],
+			[ "independicéis", "independicen" ],
+			[ "independicen" ]
+		],
+		"9" : [
+			[ "independizara" ],
+			[ "independizaras" ],
+			[ "independizara" ],
+			[ "independizáramos" ],
+			[ "independizarais", "independizaran" ],
+			[ "independizaran" ]
+		],
+		"10" : [
+			[ "independizase" ],
+			[ "independizases" ],
+			[ "independizase" ],
+			[ "independizásemos" ],
+			[ "independizaseis", "independizasen" ],
+			[ "independizasen" ]
+		],
+		"11" : [
+			[ "independizare" ],
+			[ "independizares" ],
+			[ "independizare" ],
+			[ "independizáremos" ],
+			[ "independizareis", "independizaren" ],
+			[ "independizaren" ]
+		],
+		"12" : {
+			"1" : [ "independiza" ],
+			"2" : [ "independice" ],
+			"3" : [ "independicemos" ],
+			"4" : [ "independizad" ],
+			"5" : [ "independicen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=corromper",
+	"word" : "corromper",
+	"infinitivo" : "corromper",
+	"participio" : [ "corrompido" ],
+	"gerundio" : [ "corrompiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "corrompo" ],
+			[ "corrompes", "corrompés" ],
+			[ "corrompe" ],
+			[ "corrompemos" ],
+			[ "corrompéis", "corrompen" ],
+			[ "corrompen" ]
+		],
+		"4" : [
+			[ "corrompí" ],
+			[ "corrompiste" ],
+			[ "corrompió" ],
+			[ "corrompimos" ],
+			[ "corrompisteis", "corrompieron" ],
+			[ "corrompieron" ]
+		],
+		"5" : [
+			[ "corrompía" ],
+			[ "corrompías" ],
+			[ "corrompía" ],
+			[ "corrompíamos" ],
+			[ "corrompíais", "corrompían" ],
+			[ "corrompían" ]
+		],
+		"6" : [
+			[ "corrompería" ],
+			[ "corromperías" ],
+			[ "corrompería" ],
+			[ "corromperíamos" ],
+			[ "corromperíais", "corromperían" ],
+			[ "corromperían" ]
+		],
+		"7" : [
+			[ "corromperé" ],
+			[ "corromperás" ],
+			[ "corromperá" ],
+			[ "corromperemos" ],
+			[ "corromperéis", "corromperán" ],
+			[ "corromperán" ]
+		],
+		"8" : [
+			[ "corrompa" ],
+			[ "corrompas" ],
+			[ "corrompa" ],
+			[ "corrompamos" ],
+			[ "corrompáis", "corrompan" ],
+			[ "corrompan" ]
+		],
+		"9" : [
+			[ "corrompiera" ],
+			[ "corrompieras" ],
+			[ "corrompiera" ],
+			[ "corrompiéramos" ],
+			[ "corrompierais", "corrompieran" ],
+			[ "corrompieran" ]
+		],
+		"10" : [
+			[ "corrompiese" ],
+			[ "corrompieses" ],
+			[ "corrompiese" ],
+			[ "corrompiésemos" ],
+			[ "corrompieseis", "corrompiesen" ],
+			[ "corrompiesen" ]
+		],
+		"11" : [
+			[ "corrompiere" ],
+			[ "corrompieres" ],
+			[ "corrompiere" ],
+			[ "corrompiéremos" ],
+			[ "corrompiereis", "corrompieren" ],
+			[ "corrompieren" ]
+		],
+		"12" : {
+			"1" : [ "corrompe" ],
+			"2" : [ "corrompa" ],
+			"3" : [ "corrompamos" ],
+			"4" : [ "corromped" ],
+			"5" : [ "corrompan" ]
+		}
+	}
+}

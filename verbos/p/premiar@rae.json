@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=premiar",
+	"word" : "premiar",
+	"infinitivo" : "premiar",
+	"participio" : [ "premiado" ],
+	"gerundio" : [ "premiando" ],
+	"tenses" : {
+		"3" : [
+			[ "premio" ],
+			[ "premias", "premiás" ],
+			[ "premia" ],
+			[ "premiamos" ],
+			[ "premiáis", "premian" ],
+			[ "premian" ]
+		],
+		"4" : [
+			[ "premié" ],
+			[ "premiaste" ],
+			[ "premió" ],
+			[ "premiamos" ],
+			[ "premiasteis", "premiaron" ],
+			[ "premiaron" ]
+		],
+		"5" : [
+			[ "premiaba" ],
+			[ "premiabas" ],
+			[ "premiaba" ],
+			[ "premiábamos" ],
+			[ "premiabais", "premiaban" ],
+			[ "premiaban" ]
+		],
+		"6" : [
+			[ "premiaría" ],
+			[ "premiarías" ],
+			[ "premiaría" ],
+			[ "premiaríamos" ],
+			[ "premiaríais", "premiarían" ],
+			[ "premiarían" ]
+		],
+		"7" : [
+			[ "premiaré" ],
+			[ "premiarás" ],
+			[ "premiará" ],
+			[ "premiaremos" ],
+			[ "premiaréis", "premiarán" ],
+			[ "premiarán" ]
+		],
+		"8" : [
+			[ "premie" ],
+			[ "premies" ],
+			[ "premie" ],
+			[ "premiemos" ],
+			[ "premiéis", "premien" ],
+			[ "premien" ]
+		],
+		"9" : [
+			[ "premiara" ],
+			[ "premiaras" ],
+			[ "premiara" ],
+			[ "premiáramos" ],
+			[ "premiarais", "premiaran" ],
+			[ "premiaran" ]
+		],
+		"10" : [
+			[ "premiase" ],
+			[ "premiases" ],
+			[ "premiase" ],
+			[ "premiásemos" ],
+			[ "premiaseis", "premiasen" ],
+			[ "premiasen" ]
+		],
+		"11" : [
+			[ "premiare" ],
+			[ "premiares" ],
+			[ "premiare" ],
+			[ "premiáremos" ],
+			[ "premiareis", "premiaren" ],
+			[ "premiaren" ]
+		],
+		"12" : {
+			"1" : [ "premia" ],
+			"2" : [ "premie" ],
+			"3" : [ "premiemos" ],
+			"4" : [ "premiad" ],
+			"5" : [ "premien" ]
+		}
+	}
+}

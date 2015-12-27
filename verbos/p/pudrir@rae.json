@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pudrir",
+	"word" : "pudrir",
+	"infinitivo" : "pudrir",
+	"participio" : [ "podrido" ],
+	"gerundio" : [ "pudriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "pudro" ],
+			[ "pudres", "pudrís" ],
+			[ "pudre" ],
+			[ "pudrimos" ],
+			[ "pudrís", "pudren" ],
+			[ "pudren" ]
+		],
+		"4" : [
+			[ "pudrí" ],
+			[ "pudriste" ],
+			[ "pudrió" ],
+			[ "pudrimos" ],
+			[ "pudristeis", "pudrieron" ],
+			[ "pudrieron" ]
+		],
+		"5" : [
+			[ "pudría" ],
+			[ "pudrías" ],
+			[ "pudría" ],
+			[ "pudríamos" ],
+			[ "pudríais", "pudrían" ],
+			[ "pudrían" ]
+		],
+		"6" : [
+			[ "pudriría" ],
+			[ "pudrirías" ],
+			[ "pudriría" ],
+			[ "pudriríamos" ],
+			[ "pudriríais", "pudrirían" ],
+			[ "pudrirían" ]
+		],
+		"7" : [
+			[ "pudriré" ],
+			[ "pudrirás" ],
+			[ "pudrirá" ],
+			[ "pudriremos" ],
+			[ "pudriréis", "pudrirán" ],
+			[ "pudrirán" ]
+		],
+		"8" : [
+			[ "pudra" ],
+			[ "pudras" ],
+			[ "pudra" ],
+			[ "pudramos" ],
+			[ "pudráis", "pudran" ],
+			[ "pudran" ]
+		],
+		"9" : [
+			[ "pudriera" ],
+			[ "pudrieras" ],
+			[ "pudriera" ],
+			[ "pudriéramos" ],
+			[ "pudrierais", "pudrieran" ],
+			[ "pudrieran" ]
+		],
+		"10" : [
+			[ "pudriese" ],
+			[ "pudrieses" ],
+			[ "pudriese" ],
+			[ "pudriésemos" ],
+			[ "pudrieseis", "pudriesen" ],
+			[ "pudriesen" ]
+		],
+		"11" : [
+			[ "pudriere" ],
+			[ "pudrieres" ],
+			[ "pudriere" ],
+			[ "pudriéremos" ],
+			[ "pudriereis", "pudrieren" ],
+			[ "pudrieren" ]
+		],
+		"12" : {
+			"1" : [ "pudre" ],
+			"2" : [ "pudra" ],
+			"3" : [ "pudramos" ],
+			"4" : [ "pudrid" ],
+			"5" : [ "pudran" ]
+		}
+	}
+}

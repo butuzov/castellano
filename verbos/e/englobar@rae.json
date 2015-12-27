@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=englobar",
+	"word" : "englobar",
+	"infinitivo" : "englobar",
+	"participio" : [ "englobado" ],
+	"gerundio" : [ "englobando" ],
+	"tenses" : {
+		"3" : [
+			[ "englobo" ],
+			[ "englobas", "englobás" ],
+			[ "engloba" ],
+			[ "englobamos" ],
+			[ "englobáis", "engloban" ],
+			[ "engloban" ]
+		],
+		"4" : [
+			[ "englobé" ],
+			[ "englobaste" ],
+			[ "englobó" ],
+			[ "englobamos" ],
+			[ "englobasteis", "englobaron" ],
+			[ "englobaron" ]
+		],
+		"5" : [
+			[ "englobaba" ],
+			[ "englobabas" ],
+			[ "englobaba" ],
+			[ "englobábamos" ],
+			[ "englobabais", "englobaban" ],
+			[ "englobaban" ]
+		],
+		"6" : [
+			[ "englobaría" ],
+			[ "englobarías" ],
+			[ "englobaría" ],
+			[ "englobaríamos" ],
+			[ "englobaríais", "englobarían" ],
+			[ "englobarían" ]
+		],
+		"7" : [
+			[ "englobaré" ],
+			[ "englobarás" ],
+			[ "englobará" ],
+			[ "englobaremos" ],
+			[ "englobaréis", "englobarán" ],
+			[ "englobarán" ]
+		],
+		"8" : [
+			[ "englobe" ],
+			[ "englobes" ],
+			[ "englobe" ],
+			[ "englobemos" ],
+			[ "englobéis", "engloben" ],
+			[ "engloben" ]
+		],
+		"9" : [
+			[ "englobara" ],
+			[ "englobaras" ],
+			[ "englobara" ],
+			[ "englobáramos" ],
+			[ "englobarais", "englobaran" ],
+			[ "englobaran" ]
+		],
+		"10" : [
+			[ "englobase" ],
+			[ "englobases" ],
+			[ "englobase" ],
+			[ "englobásemos" ],
+			[ "englobaseis", "englobasen" ],
+			[ "englobasen" ]
+		],
+		"11" : [
+			[ "englobare" ],
+			[ "englobares" ],
+			[ "englobare" ],
+			[ "englobáremos" ],
+			[ "englobareis", "englobaren" ],
+			[ "englobaren" ]
+		],
+		"12" : {
+			"1" : [ "engloba" ],
+			"2" : [ "englobe" ],
+			"3" : [ "englobemos" ],
+			"4" : [ "englobad" ],
+			"5" : [ "engloben" ]
+		}
+	}
+}

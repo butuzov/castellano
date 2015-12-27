@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=madurar",
+	"word" : "madurar",
+	"infinitivo" : "madurar",
+	"participio" : [ "madurado" ],
+	"gerundio" : [ "madurando" ],
+	"tenses" : {
+		"3" : [
+			[ "maduro" ],
+			[ "maduras", "madurás" ],
+			[ "madura" ],
+			[ "maduramos" ],
+			[ "maduráis", "maduran" ],
+			[ "maduran" ]
+		],
+		"4" : [
+			[ "maduré" ],
+			[ "maduraste" ],
+			[ "maduró" ],
+			[ "maduramos" ],
+			[ "madurasteis", "maduraron" ],
+			[ "maduraron" ]
+		],
+		"5" : [
+			[ "maduraba" ],
+			[ "madurabas" ],
+			[ "maduraba" ],
+			[ "madurábamos" ],
+			[ "madurabais", "maduraban" ],
+			[ "maduraban" ]
+		],
+		"6" : [
+			[ "maduraría" ],
+			[ "madurarías" ],
+			[ "maduraría" ],
+			[ "maduraríamos" ],
+			[ "maduraríais", "madurarían" ],
+			[ "madurarían" ]
+		],
+		"7" : [
+			[ "maduraré" ],
+			[ "madurarás" ],
+			[ "madurará" ],
+			[ "maduraremos" ],
+			[ "maduraréis", "madurarán" ],
+			[ "madurarán" ]
+		],
+		"8" : [
+			[ "madure" ],
+			[ "madures" ],
+			[ "madure" ],
+			[ "maduremos" ],
+			[ "maduréis", "maduren" ],
+			[ "maduren" ]
+		],
+		"9" : [
+			[ "madurara" ],
+			[ "maduraras" ],
+			[ "madurara" ],
+			[ "maduráramos" ],
+			[ "madurarais", "maduraran" ],
+			[ "maduraran" ]
+		],
+		"10" : [
+			[ "madurase" ],
+			[ "madurases" ],
+			[ "madurase" ],
+			[ "madurásemos" ],
+			[ "maduraseis", "madurasen" ],
+			[ "madurasen" ]
+		],
+		"11" : [
+			[ "madurare" ],
+			[ "madurares" ],
+			[ "madurare" ],
+			[ "maduráremos" ],
+			[ "madurareis", "maduraren" ],
+			[ "maduraren" ]
+		],
+		"12" : {
+			"1" : [ "madura" ],
+			"2" : [ "madure" ],
+			"3" : [ "maduremos" ],
+			"4" : [ "madurad" ],
+			"5" : [ "maduren" ]
+		}
+	}
+}

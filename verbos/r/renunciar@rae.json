@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=renunciar",
+	"word" : "renunciar",
+	"infinitivo" : "renunciar",
+	"participio" : [ "renunciado" ],
+	"gerundio" : [ "renunciando" ],
+	"tenses" : {
+		"3" : [
+			[ "renuncio" ],
+			[ "renuncias", "renunciás" ],
+			[ "renuncia" ],
+			[ "renunciamos" ],
+			[ "renunciáis", "renuncian" ],
+			[ "renuncian" ]
+		],
+		"4" : [
+			[ "renuncié" ],
+			[ "renunciaste" ],
+			[ "renunció" ],
+			[ "renunciamos" ],
+			[ "renunciasteis", "renunciaron" ],
+			[ "renunciaron" ]
+		],
+		"5" : [
+			[ "renunciaba" ],
+			[ "renunciabas" ],
+			[ "renunciaba" ],
+			[ "renunciábamos" ],
+			[ "renunciabais", "renunciaban" ],
+			[ "renunciaban" ]
+		],
+		"6" : [
+			[ "renunciaría" ],
+			[ "renunciarías" ],
+			[ "renunciaría" ],
+			[ "renunciaríamos" ],
+			[ "renunciaríais", "renunciarían" ],
+			[ "renunciarían" ]
+		],
+		"7" : [
+			[ "renunciaré" ],
+			[ "renunciarás" ],
+			[ "renunciará" ],
+			[ "renunciaremos" ],
+			[ "renunciaréis", "renunciarán" ],
+			[ "renunciarán" ]
+		],
+		"8" : [
+			[ "renuncie" ],
+			[ "renuncies" ],
+			[ "renuncie" ],
+			[ "renunciemos" ],
+			[ "renunciéis", "renuncien" ],
+			[ "renuncien" ]
+		],
+		"9" : [
+			[ "renunciara" ],
+			[ "renunciaras" ],
+			[ "renunciara" ],
+			[ "renunciáramos" ],
+			[ "renunciarais", "renunciaran" ],
+			[ "renunciaran" ]
+		],
+		"10" : [
+			[ "renunciase" ],
+			[ "renunciases" ],
+			[ "renunciase" ],
+			[ "renunciásemos" ],
+			[ "renunciaseis", "renunciasen" ],
+			[ "renunciasen" ]
+		],
+		"11" : [
+			[ "renunciare" ],
+			[ "renunciares" ],
+			[ "renunciare" ],
+			[ "renunciáremos" ],
+			[ "renunciareis", "renunciaren" ],
+			[ "renunciaren" ]
+		],
+		"12" : {
+			"1" : [ "renuncia" ],
+			"2" : [ "renuncie" ],
+			"3" : [ "renunciemos" ],
+			"4" : [ "renunciad" ],
+			"5" : [ "renuncien" ]
+		}
+	}
+}

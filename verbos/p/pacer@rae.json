@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pacer",
+	"word" : "pacer",
+	"infinitivo" : "pacer",
+	"participio" : [ "pacido" ],
+	"gerundio" : [ "paciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "pazco" ],
+			[ "paces", "pacés" ],
+			[ "pace" ],
+			[ "pacemos" ],
+			[ "pacéis", "pacen" ],
+			[ "pacen" ]
+		],
+		"4" : [
+			[ "pací" ],
+			[ "paciste" ],
+			[ "pació" ],
+			[ "pacimos" ],
+			[ "pacisteis", "pacieron" ],
+			[ "pacieron" ]
+		],
+		"5" : [
+			[ "pacía" ],
+			[ "pacías" ],
+			[ "pacía" ],
+			[ "pacíamos" ],
+			[ "pacíais", "pacían" ],
+			[ "pacían" ]
+		],
+		"6" : [
+			[ "pacería" ],
+			[ "pacerías" ],
+			[ "pacería" ],
+			[ "paceríamos" ],
+			[ "paceríais", "pacerían" ],
+			[ "pacerían" ]
+		],
+		"7" : [
+			[ "paceré" ],
+			[ "pacerás" ],
+			[ "pacerá" ],
+			[ "paceremos" ],
+			[ "paceréis", "pacerán" ],
+			[ "pacerán" ]
+		],
+		"8" : [
+			[ "pazca" ],
+			[ "pazcas" ],
+			[ "pazca" ],
+			[ "pazcamos" ],
+			[ "pazcáis", "pazcan" ],
+			[ "pazcan" ]
+		],
+		"9" : [
+			[ "paciera" ],
+			[ "pacieras" ],
+			[ "paciera" ],
+			[ "paciéramos" ],
+			[ "pacierais", "pacieran" ],
+			[ "pacieran" ]
+		],
+		"10" : [
+			[ "paciese" ],
+			[ "pacieses" ],
+			[ "paciese" ],
+			[ "paciésemos" ],
+			[ "pacieseis", "paciesen" ],
+			[ "paciesen" ]
+		],
+		"11" : [
+			[ "paciere" ],
+			[ "pacieres" ],
+			[ "paciere" ],
+			[ "paciéremos" ],
+			[ "paciereis", "pacieren" ],
+			[ "pacieren" ]
+		],
+		"12" : {
+			"1" : [ "pace" ],
+			"2" : [ "pazca" ],
+			"3" : [ "pazcamos" ],
+			"4" : [ "paced" ],
+			"5" : [ "pazcan" ]
+		}
+	}
+}

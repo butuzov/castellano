@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atraer",
+	"word" : "atraer",
+	"infinitivo" : "atraer",
+	"participio" : [ "atraído" ],
+	"gerundio" : [ "atrayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "atraigo" ],
+			[ "atraes", "atraés" ],
+			[ "atrae" ],
+			[ "atraemos" ],
+			[ "atraéis", "atraen" ],
+			[ "atraen" ]
+		],
+		"4" : [
+			[ "atraje" ],
+			[ "atrajiste" ],
+			[ "atrajo" ],
+			[ "atrajimos" ],
+			[ "atrajisteis", "atrajeron" ],
+			[ "atrajeron" ]
+		],
+		"5" : [
+			[ "atraía" ],
+			[ "atraías" ],
+			[ "atraía" ],
+			[ "atraíamos" ],
+			[ "atraíais", "atraían" ],
+			[ "atraían" ]
+		],
+		"6" : [
+			[ "atraería" ],
+			[ "atraerías" ],
+			[ "atraería" ],
+			[ "atraeríamos" ],
+			[ "atraeríais", "atraerían" ],
+			[ "atraerían" ]
+		],
+		"7" : [
+			[ "atraeré" ],
+			[ "atraerás" ],
+			[ "atraerá" ],
+			[ "atraeremos" ],
+			[ "atraeréis", "atraerán" ],
+			[ "atraerán" ]
+		],
+		"8" : [
+			[ "atraiga" ],
+			[ "atraigas" ],
+			[ "atraiga" ],
+			[ "atraigamos" ],
+			[ "atraigáis", "atraigan" ],
+			[ "atraigan" ]
+		],
+		"9" : [
+			[ "atrajera" ],
+			[ "atrajeras" ],
+			[ "atrajera" ],
+			[ "atrajéramos" ],
+			[ "atrajerais", "atrajeran" ],
+			[ "atrajeran" ]
+		],
+		"10" : [
+			[ "atrajese" ],
+			[ "atrajeses" ],
+			[ "atrajese" ],
+			[ "atrajésemos" ],
+			[ "atrajeseis", "atrajesen" ],
+			[ "atrajesen" ]
+		],
+		"11" : [
+			[ "atrajere" ],
+			[ "atrajeres" ],
+			[ "atrajere" ],
+			[ "atrajéremos" ],
+			[ "atrajereis", "atrajeren" ],
+			[ "atrajeren" ]
+		],
+		"12" : {
+			"1" : [ "atrae" ],
+			"2" : [ "atraiga" ],
+			"3" : [ "atraigamos" ],
+			"4" : [ "atraed" ],
+			"5" : [ "atraigan" ]
+		}
+	}
+}

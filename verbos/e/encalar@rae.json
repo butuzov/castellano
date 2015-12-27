@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encalar",
+	"word" : "encalar",
+	"infinitivo" : "encalar",
+	"participio" : [ "encalado" ],
+	"gerundio" : [ "encalando" ],
+	"tenses" : {
+		"3" : [
+			[ "encalo" ],
+			[ "encalas", "encalás" ],
+			[ "encala" ],
+			[ "encalamos" ],
+			[ "encaláis", "encalan" ],
+			[ "encalan" ]
+		],
+		"4" : [
+			[ "encalé" ],
+			[ "encalaste" ],
+			[ "encaló" ],
+			[ "encalamos" ],
+			[ "encalasteis", "encalaron" ],
+			[ "encalaron" ]
+		],
+		"5" : [
+			[ "encalaba" ],
+			[ "encalabas" ],
+			[ "encalaba" ],
+			[ "encalábamos" ],
+			[ "encalabais", "encalaban" ],
+			[ "encalaban" ]
+		],
+		"6" : [
+			[ "encalaría" ],
+			[ "encalarías" ],
+			[ "encalaría" ],
+			[ "encalaríamos" ],
+			[ "encalaríais", "encalarían" ],
+			[ "encalarían" ]
+		],
+		"7" : [
+			[ "encalaré" ],
+			[ "encalarás" ],
+			[ "encalará" ],
+			[ "encalaremos" ],
+			[ "encalaréis", "encalarán" ],
+			[ "encalarán" ]
+		],
+		"8" : [
+			[ "encale" ],
+			[ "encales" ],
+			[ "encale" ],
+			[ "encalemos" ],
+			[ "encaléis", "encalen" ],
+			[ "encalen" ]
+		],
+		"9" : [
+			[ "encalara" ],
+			[ "encalaras" ],
+			[ "encalara" ],
+			[ "encaláramos" ],
+			[ "encalarais", "encalaran" ],
+			[ "encalaran" ]
+		],
+		"10" : [
+			[ "encalase" ],
+			[ "encalases" ],
+			[ "encalase" ],
+			[ "encalásemos" ],
+			[ "encalaseis", "encalasen" ],
+			[ "encalasen" ]
+		],
+		"11" : [
+			[ "encalare" ],
+			[ "encalares" ],
+			[ "encalare" ],
+			[ "encaláremos" ],
+			[ "encalareis", "encalaren" ],
+			[ "encalaren" ]
+		],
+		"12" : {
+			"1" : [ "encala" ],
+			"2" : [ "encale" ],
+			"3" : [ "encalemos" ],
+			"4" : [ "encalad" ],
+			"5" : [ "encalen" ]
+		}
+	}
+}

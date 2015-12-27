@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=representar",
+	"word" : "representar",
+	"infinitivo" : "representar",
+	"participio" : [ "representado" ],
+	"gerundio" : [ "representando" ],
+	"tenses" : {
+		"3" : [
+			[ "represento" ],
+			[ "representas", "representás" ],
+			[ "representa" ],
+			[ "representamos" ],
+			[ "representáis", "representan" ],
+			[ "representan" ]
+		],
+		"4" : [
+			[ "representé" ],
+			[ "representaste" ],
+			[ "representó" ],
+			[ "representamos" ],
+			[ "representasteis", "representaron" ],
+			[ "representaron" ]
+		],
+		"5" : [
+			[ "representaba" ],
+			[ "representabas" ],
+			[ "representaba" ],
+			[ "representábamos" ],
+			[ "representabais", "representaban" ],
+			[ "representaban" ]
+		],
+		"6" : [
+			[ "representaría" ],
+			[ "representarías" ],
+			[ "representaría" ],
+			[ "representaríamos" ],
+			[ "representaríais", "representarían" ],
+			[ "representarían" ]
+		],
+		"7" : [
+			[ "representaré" ],
+			[ "representarás" ],
+			[ "representará" ],
+			[ "representaremos" ],
+			[ "representaréis", "representarán" ],
+			[ "representarán" ]
+		],
+		"8" : [
+			[ "represente" ],
+			[ "representes" ],
+			[ "represente" ],
+			[ "representemos" ],
+			[ "representéis", "representen" ],
+			[ "representen" ]
+		],
+		"9" : [
+			[ "representara" ],
+			[ "representaras" ],
+			[ "representara" ],
+			[ "representáramos" ],
+			[ "representarais", "representaran" ],
+			[ "representaran" ]
+		],
+		"10" : [
+			[ "representase" ],
+			[ "representases" ],
+			[ "representase" ],
+			[ "representásemos" ],
+			[ "representaseis", "representasen" ],
+			[ "representasen" ]
+		],
+		"11" : [
+			[ "representare" ],
+			[ "representares" ],
+			[ "representare" ],
+			[ "representáremos" ],
+			[ "representareis", "representaren" ],
+			[ "representaren" ]
+		],
+		"12" : {
+			"1" : [ "representa" ],
+			"2" : [ "represente" ],
+			"3" : [ "representemos" ],
+			"4" : [ "representad" ],
+			"5" : [ "representen" ]
+		}
+	}
+}

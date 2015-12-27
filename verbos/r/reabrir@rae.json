@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reabrir",
+	"word" : "reabrir",
+	"infinitivo" : "reabrir",
+	"participio" : [ "reabierto" ],
+	"gerundio" : [ "reabriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reabro" ],
+			[ "reabres", "reabrís" ],
+			[ "reabre" ],
+			[ "reabrimos" ],
+			[ "reabrís", "reabren" ],
+			[ "reabren" ]
+		],
+		"4" : [
+			[ "reabrí" ],
+			[ "reabriste" ],
+			[ "reabrió" ],
+			[ "reabrimos" ],
+			[ "reabristeis", "reabrieron" ],
+			[ "reabrieron" ]
+		],
+		"5" : [
+			[ "reabría" ],
+			[ "reabrías" ],
+			[ "reabría" ],
+			[ "reabríamos" ],
+			[ "reabríais", "reabrían" ],
+			[ "reabrían" ]
+		],
+		"6" : [
+			[ "reabriría" ],
+			[ "reabrirías" ],
+			[ "reabriría" ],
+			[ "reabriríamos" ],
+			[ "reabriríais", "reabrirían" ],
+			[ "reabrirían" ]
+		],
+		"7" : [
+			[ "reabriré" ],
+			[ "reabrirás" ],
+			[ "reabrirá" ],
+			[ "reabriremos" ],
+			[ "reabriréis", "reabrirán" ],
+			[ "reabrirán" ]
+		],
+		"8" : [
+			[ "reabra" ],
+			[ "reabras" ],
+			[ "reabra" ],
+			[ "reabramos" ],
+			[ "reabráis", "reabran" ],
+			[ "reabran" ]
+		],
+		"9" : [
+			[ "reabriera" ],
+			[ "reabrieras" ],
+			[ "reabriera" ],
+			[ "reabriéramos" ],
+			[ "reabrierais", "reabrieran" ],
+			[ "reabrieran" ]
+		],
+		"10" : [
+			[ "reabriese" ],
+			[ "reabrieses" ],
+			[ "reabriese" ],
+			[ "reabriésemos" ],
+			[ "reabrieseis", "reabriesen" ],
+			[ "reabriesen" ]
+		],
+		"11" : [
+			[ "reabriere" ],
+			[ "reabrieres" ],
+			[ "reabriere" ],
+			[ "reabriéremos" ],
+			[ "reabriereis", "reabrieren" ],
+			[ "reabrieren" ]
+		],
+		"12" : {
+			"1" : [ "reabre" ],
+			"2" : [ "reabra" ],
+			"3" : [ "reabramos" ],
+			"4" : [ "reabrid" ],
+			"5" : [ "reabran" ]
+		}
+	}
+}

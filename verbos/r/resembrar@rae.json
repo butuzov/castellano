@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resembrar",
+	"word" : "resembrar",
+	"infinitivo" : "resembrar",
+	"participio" : [ "resembrado" ],
+	"gerundio" : [ "resembrando" ],
+	"tenses" : {
+		"3" : [
+			[ "resiembro" ],
+			[ "resiembras", "resembrás" ],
+			[ "resiembra" ],
+			[ "resembramos" ],
+			[ "resembráis", "resiembran" ],
+			[ "resiembran" ]
+		],
+		"4" : [
+			[ "resembré" ],
+			[ "resembraste" ],
+			[ "resembró" ],
+			[ "resembramos" ],
+			[ "resembrasteis", "resembraron" ],
+			[ "resembraron" ]
+		],
+		"5" : [
+			[ "resembraba" ],
+			[ "resembrabas" ],
+			[ "resembraba" ],
+			[ "resembrábamos" ],
+			[ "resembrabais", "resembraban" ],
+			[ "resembraban" ]
+		],
+		"6" : [
+			[ "resembraría" ],
+			[ "resembrarías" ],
+			[ "resembraría" ],
+			[ "resembraríamos" ],
+			[ "resembraríais", "resembrarían" ],
+			[ "resembrarían" ]
+		],
+		"7" : [
+			[ "resembraré" ],
+			[ "resembrarás" ],
+			[ "resembrará" ],
+			[ "resembraremos" ],
+			[ "resembraréis", "resembrarán" ],
+			[ "resembrarán" ]
+		],
+		"8" : [
+			[ "resiembre" ],
+			[ "resiembres" ],
+			[ "resiembre" ],
+			[ "resembremos" ],
+			[ "resembréis", "resiembren" ],
+			[ "resiembren" ]
+		],
+		"9" : [
+			[ "resembrara" ],
+			[ "resembraras" ],
+			[ "resembrara" ],
+			[ "resembráramos" ],
+			[ "resembrarais", "resembraran" ],
+			[ "resembraran" ]
+		],
+		"10" : [
+			[ "resembrase" ],
+			[ "resembrases" ],
+			[ "resembrase" ],
+			[ "resembrásemos" ],
+			[ "resembraseis", "resembrasen" ],
+			[ "resembrasen" ]
+		],
+		"11" : [
+			[ "resembrare" ],
+			[ "resembrares" ],
+			[ "resembrare" ],
+			[ "resembráremos" ],
+			[ "resembrareis", "resembraren" ],
+			[ "resembraren" ]
+		],
+		"12" : {
+			"1" : [ "resiembra" ],
+			"2" : [ "resiembre" ],
+			"3" : [ "resembremos" ],
+			"4" : [ "resembrad" ],
+			"5" : [ "resiembren" ]
+		}
+	}
+}

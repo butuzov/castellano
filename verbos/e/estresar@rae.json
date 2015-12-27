@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estresar",
+	"word" : "estresar",
+	"infinitivo" : "estresar",
+	"participio" : [ "estresado" ],
+	"gerundio" : [ "estresando" ],
+	"tenses" : {
+		"3" : [
+			[ "estreso" ],
+			[ "estresas", "estresás" ],
+			[ "estresa" ],
+			[ "estresamos" ],
+			[ "estresáis", "estresan" ],
+			[ "estresan" ]
+		],
+		"4" : [
+			[ "estresé" ],
+			[ "estresaste" ],
+			[ "estresó" ],
+			[ "estresamos" ],
+			[ "estresasteis", "estresaron" ],
+			[ "estresaron" ]
+		],
+		"5" : [
+			[ "estresaba" ],
+			[ "estresabas" ],
+			[ "estresaba" ],
+			[ "estresábamos" ],
+			[ "estresabais", "estresaban" ],
+			[ "estresaban" ]
+		],
+		"6" : [
+			[ "estresaría" ],
+			[ "estresarías" ],
+			[ "estresaría" ],
+			[ "estresaríamos" ],
+			[ "estresaríais", "estresarían" ],
+			[ "estresarían" ]
+		],
+		"7" : [
+			[ "estresaré" ],
+			[ "estresarás" ],
+			[ "estresará" ],
+			[ "estresaremos" ],
+			[ "estresaréis", "estresarán" ],
+			[ "estresarán" ]
+		],
+		"8" : [
+			[ "estrese" ],
+			[ "estreses" ],
+			[ "estrese" ],
+			[ "estresemos" ],
+			[ "estreséis", "estresen" ],
+			[ "estresen" ]
+		],
+		"9" : [
+			[ "estresara" ],
+			[ "estresaras" ],
+			[ "estresara" ],
+			[ "estresáramos" ],
+			[ "estresarais", "estresaran" ],
+			[ "estresaran" ]
+		],
+		"10" : [
+			[ "estresase" ],
+			[ "estresases" ],
+			[ "estresase" ],
+			[ "estresásemos" ],
+			[ "estresaseis", "estresasen" ],
+			[ "estresasen" ]
+		],
+		"11" : [
+			[ "estresare" ],
+			[ "estresares" ],
+			[ "estresare" ],
+			[ "estresáremos" ],
+			[ "estresareis", "estresaren" ],
+			[ "estresaren" ]
+		],
+		"12" : {
+			"1" : [ "estresa" ],
+			"2" : [ "estrese" ],
+			"3" : [ "estresemos" ],
+			"4" : [ "estresad" ],
+			"5" : [ "estresen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=calzar",
+	"word" : "calzar",
+	"infinitivo" : "calzar",
+	"participio" : [ "calzado" ],
+	"gerundio" : [ "calzando" ],
+	"tenses" : {
+		"3" : [
+			[ "calzo" ],
+			[ "calzas", "calzás" ],
+			[ "calza" ],
+			[ "calzamos" ],
+			[ "calzáis", "calzan" ],
+			[ "calzan" ]
+		],
+		"4" : [
+			[ "calcé" ],
+			[ "calzaste" ],
+			[ "calzó" ],
+			[ "calzamos" ],
+			[ "calzasteis", "calzaron" ],
+			[ "calzaron" ]
+		],
+		"5" : [
+			[ "calzaba" ],
+			[ "calzabas" ],
+			[ "calzaba" ],
+			[ "calzábamos" ],
+			[ "calzabais", "calzaban" ],
+			[ "calzaban" ]
+		],
+		"6" : [
+			[ "calzaría" ],
+			[ "calzarías" ],
+			[ "calzaría" ],
+			[ "calzaríamos" ],
+			[ "calzaríais", "calzarían" ],
+			[ "calzarían" ]
+		],
+		"7" : [
+			[ "calzaré" ],
+			[ "calzarás" ],
+			[ "calzará" ],
+			[ "calzaremos" ],
+			[ "calzaréis", "calzarán" ],
+			[ "calzarán" ]
+		],
+		"8" : [
+			[ "calce" ],
+			[ "calces" ],
+			[ "calce" ],
+			[ "calcemos" ],
+			[ "calcéis", "calcen" ],
+			[ "calcen" ]
+		],
+		"9" : [
+			[ "calzara" ],
+			[ "calzaras" ],
+			[ "calzara" ],
+			[ "calzáramos" ],
+			[ "calzarais", "calzaran" ],
+			[ "calzaran" ]
+		],
+		"10" : [
+			[ "calzase" ],
+			[ "calzases" ],
+			[ "calzase" ],
+			[ "calzásemos" ],
+			[ "calzaseis", "calzasen" ],
+			[ "calzasen" ]
+		],
+		"11" : [
+			[ "calzare" ],
+			[ "calzares" ],
+			[ "calzare" ],
+			[ "calzáremos" ],
+			[ "calzareis", "calzaren" ],
+			[ "calzaren" ]
+		],
+		"12" : {
+			"1" : [ "calza" ],
+			"2" : [ "calce" ],
+			"3" : [ "calcemos" ],
+			"4" : [ "calzad" ],
+			"5" : [ "calcen" ]
+		}
+	}
+}

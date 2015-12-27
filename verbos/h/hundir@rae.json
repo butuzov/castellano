@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hundir",
+	"word" : "hundir",
+	"infinitivo" : "hundir",
+	"participio" : [ "hundido" ],
+	"gerundio" : [ "hundiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "hundo" ],
+			[ "hundes", "hundís" ],
+			[ "hunde" ],
+			[ "hundimos" ],
+			[ "hundís", "hunden" ],
+			[ "hunden" ]
+		],
+		"4" : [
+			[ "hundí" ],
+			[ "hundiste" ],
+			[ "hundió" ],
+			[ "hundimos" ],
+			[ "hundisteis", "hundieron" ],
+			[ "hundieron" ]
+		],
+		"5" : [
+			[ "hundía" ],
+			[ "hundías" ],
+			[ "hundía" ],
+			[ "hundíamos" ],
+			[ "hundíais", "hundían" ],
+			[ "hundían" ]
+		],
+		"6" : [
+			[ "hundiría" ],
+			[ "hundirías" ],
+			[ "hundiría" ],
+			[ "hundiríamos" ],
+			[ "hundiríais", "hundirían" ],
+			[ "hundirían" ]
+		],
+		"7" : [
+			[ "hundiré" ],
+			[ "hundirás" ],
+			[ "hundirá" ],
+			[ "hundiremos" ],
+			[ "hundiréis", "hundirán" ],
+			[ "hundirán" ]
+		],
+		"8" : [
+			[ "hunda" ],
+			[ "hundas" ],
+			[ "hunda" ],
+			[ "hundamos" ],
+			[ "hundáis", "hundan" ],
+			[ "hundan" ]
+		],
+		"9" : [
+			[ "hundiera" ],
+			[ "hundieras" ],
+			[ "hundiera" ],
+			[ "hundiéramos" ],
+			[ "hundierais", "hundieran" ],
+			[ "hundieran" ]
+		],
+		"10" : [
+			[ "hundiese" ],
+			[ "hundieses" ],
+			[ "hundiese" ],
+			[ "hundiésemos" ],
+			[ "hundieseis", "hundiesen" ],
+			[ "hundiesen" ]
+		],
+		"11" : [
+			[ "hundiere" ],
+			[ "hundieres" ],
+			[ "hundiere" ],
+			[ "hundiéremos" ],
+			[ "hundiereis", "hundieren" ],
+			[ "hundieren" ]
+		],
+		"12" : {
+			"1" : [ "hunde" ],
+			"2" : [ "hunda" ],
+			"3" : [ "hundamos" ],
+			"4" : [ "hundid" ],
+			"5" : [ "hundan" ]
+		}
+	}
+}

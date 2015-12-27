@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=geminar",
+	"word" : "geminar",
+	"infinitivo" : "geminar",
+	"participio" : [ "geminado" ],
+	"gerundio" : [ "geminando" ],
+	"tenses" : {
+		"3" : [
+			[ "gemino" ],
+			[ "geminas", "geminás" ],
+			[ "gemina" ],
+			[ "geminamos" ],
+			[ "gemináis", "geminan" ],
+			[ "geminan" ]
+		],
+		"4" : [
+			[ "geminé" ],
+			[ "geminaste" ],
+			[ "geminó" ],
+			[ "geminamos" ],
+			[ "geminasteis", "geminaron" ],
+			[ "geminaron" ]
+		],
+		"5" : [
+			[ "geminaba" ],
+			[ "geminabas" ],
+			[ "geminaba" ],
+			[ "geminábamos" ],
+			[ "geminabais", "geminaban" ],
+			[ "geminaban" ]
+		],
+		"6" : [
+			[ "geminaría" ],
+			[ "geminarías" ],
+			[ "geminaría" ],
+			[ "geminaríamos" ],
+			[ "geminaríais", "geminarían" ],
+			[ "geminarían" ]
+		],
+		"7" : [
+			[ "geminaré" ],
+			[ "geminarás" ],
+			[ "geminará" ],
+			[ "geminaremos" ],
+			[ "geminaréis", "geminarán" ],
+			[ "geminarán" ]
+		],
+		"8" : [
+			[ "gemine" ],
+			[ "gemines" ],
+			[ "gemine" ],
+			[ "geminemos" ],
+			[ "geminéis", "geminen" ],
+			[ "geminen" ]
+		],
+		"9" : [
+			[ "geminara" ],
+			[ "geminaras" ],
+			[ "geminara" ],
+			[ "gemináramos" ],
+			[ "geminarais", "geminaran" ],
+			[ "geminaran" ]
+		],
+		"10" : [
+			[ "geminase" ],
+			[ "geminases" ],
+			[ "geminase" ],
+			[ "geminásemos" ],
+			[ "geminaseis", "geminasen" ],
+			[ "geminasen" ]
+		],
+		"11" : [
+			[ "geminare" ],
+			[ "geminares" ],
+			[ "geminare" ],
+			[ "gemináremos" ],
+			[ "geminareis", "geminaren" ],
+			[ "geminaren" ]
+		],
+		"12" : {
+			"1" : [ "gemina" ],
+			"2" : [ "gemine" ],
+			"3" : [ "geminemos" ],
+			"4" : [ "geminad" ],
+			"5" : [ "geminen" ]
+		}
+	}
+}

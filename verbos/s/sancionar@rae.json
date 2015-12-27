@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sancionar",
+	"word" : "sancionar",
+	"infinitivo" : "sancionar",
+	"participio" : [ "sancionado" ],
+	"gerundio" : [ "sancionando" ],
+	"tenses" : {
+		"3" : [
+			[ "sanciono" ],
+			[ "sancionas", "sancionás" ],
+			[ "sanciona" ],
+			[ "sancionamos" ],
+			[ "sancionáis", "sancionan" ],
+			[ "sancionan" ]
+		],
+		"4" : [
+			[ "sancioné" ],
+			[ "sancionaste" ],
+			[ "sancionó" ],
+			[ "sancionamos" ],
+			[ "sancionasteis", "sancionaron" ],
+			[ "sancionaron" ]
+		],
+		"5" : [
+			[ "sancionaba" ],
+			[ "sancionabas" ],
+			[ "sancionaba" ],
+			[ "sancionábamos" ],
+			[ "sancionabais", "sancionaban" ],
+			[ "sancionaban" ]
+		],
+		"6" : [
+			[ "sancionaría" ],
+			[ "sancionarías" ],
+			[ "sancionaría" ],
+			[ "sancionaríamos" ],
+			[ "sancionaríais", "sancionarían" ],
+			[ "sancionarían" ]
+		],
+		"7" : [
+			[ "sancionaré" ],
+			[ "sancionarás" ],
+			[ "sancionará" ],
+			[ "sancionaremos" ],
+			[ "sancionaréis", "sancionarán" ],
+			[ "sancionarán" ]
+		],
+		"8" : [
+			[ "sancione" ],
+			[ "sanciones" ],
+			[ "sancione" ],
+			[ "sancionemos" ],
+			[ "sancionéis", "sancionen" ],
+			[ "sancionen" ]
+		],
+		"9" : [
+			[ "sancionara" ],
+			[ "sancionaras" ],
+			[ "sancionara" ],
+			[ "sancionáramos" ],
+			[ "sancionarais", "sancionaran" ],
+			[ "sancionaran" ]
+		],
+		"10" : [
+			[ "sancionase" ],
+			[ "sancionases" ],
+			[ "sancionase" ],
+			[ "sancionásemos" ],
+			[ "sancionaseis", "sancionasen" ],
+			[ "sancionasen" ]
+		],
+		"11" : [
+			[ "sancionare" ],
+			[ "sancionares" ],
+			[ "sancionare" ],
+			[ "sancionáremos" ],
+			[ "sancionareis", "sancionaren" ],
+			[ "sancionaren" ]
+		],
+		"12" : {
+			"1" : [ "sanciona" ],
+			"2" : [ "sancione" ],
+			"3" : [ "sancionemos" ],
+			"4" : [ "sancionad" ],
+			"5" : [ "sancionen" ]
+		}
+	}
+}

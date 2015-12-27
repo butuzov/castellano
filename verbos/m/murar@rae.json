@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=murar",
+	"word" : "murar",
+	"infinitivo" : "murar",
+	"participio" : [ "murado" ],
+	"gerundio" : [ "murando" ],
+	"tenses" : {
+		"3" : [
+			[ "muro" ],
+			[ "muras", "murás" ],
+			[ "mura" ],
+			[ "muramos" ],
+			[ "muráis", "muran" ],
+			[ "muran" ]
+		],
+		"4" : [
+			[ "muré" ],
+			[ "muraste" ],
+			[ "muró" ],
+			[ "muramos" ],
+			[ "murasteis", "muraron" ],
+			[ "muraron" ]
+		],
+		"5" : [
+			[ "muraba" ],
+			[ "murabas" ],
+			[ "muraba" ],
+			[ "murábamos" ],
+			[ "murabais", "muraban" ],
+			[ "muraban" ]
+		],
+		"6" : [
+			[ "muraría" ],
+			[ "murarías" ],
+			[ "muraría" ],
+			[ "muraríamos" ],
+			[ "muraríais", "murarían" ],
+			[ "murarían" ]
+		],
+		"7" : [
+			[ "muraré" ],
+			[ "murarás" ],
+			[ "murará" ],
+			[ "muraremos" ],
+			[ "muraréis", "murarán" ],
+			[ "murarán" ]
+		],
+		"8" : [
+			[ "mure" ],
+			[ "mures" ],
+			[ "mure" ],
+			[ "muremos" ],
+			[ "muréis", "muren" ],
+			[ "muren" ]
+		],
+		"9" : [
+			[ "murara" ],
+			[ "muraras" ],
+			[ "murara" ],
+			[ "muráramos" ],
+			[ "murarais", "muraran" ],
+			[ "muraran" ]
+		],
+		"10" : [
+			[ "murase" ],
+			[ "murases" ],
+			[ "murase" ],
+			[ "murásemos" ],
+			[ "muraseis", "murasen" ],
+			[ "murasen" ]
+		],
+		"11" : [
+			[ "murare" ],
+			[ "murares" ],
+			[ "murare" ],
+			[ "muráremos" ],
+			[ "murareis", "muraren" ],
+			[ "muraren" ]
+		],
+		"12" : {
+			"1" : [ "mura" ],
+			"2" : [ "mure" ],
+			"3" : [ "muremos" ],
+			"4" : [ "murad" ],
+			"5" : [ "muren" ]
+		}
+	}
+}

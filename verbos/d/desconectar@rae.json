@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desconectar",
+	"word" : "desconectar",
+	"infinitivo" : "desconectar",
+	"participio" : [ "desconectado" ],
+	"gerundio" : [ "desconectando" ],
+	"tenses" : {
+		"3" : [
+			[ "desconecto" ],
+			[ "desconectas", "desconectás" ],
+			[ "desconecta" ],
+			[ "desconectamos" ],
+			[ "desconectáis", "desconectan" ],
+			[ "desconectan" ]
+		],
+		"4" : [
+			[ "desconecté" ],
+			[ "desconectaste" ],
+			[ "desconectó" ],
+			[ "desconectamos" ],
+			[ "desconectasteis", "desconectaron" ],
+			[ "desconectaron" ]
+		],
+		"5" : [
+			[ "desconectaba" ],
+			[ "desconectabas" ],
+			[ "desconectaba" ],
+			[ "desconectábamos" ],
+			[ "desconectabais", "desconectaban" ],
+			[ "desconectaban" ]
+		],
+		"6" : [
+			[ "desconectaría" ],
+			[ "desconectarías" ],
+			[ "desconectaría" ],
+			[ "desconectaríamos" ],
+			[ "desconectaríais", "desconectarían" ],
+			[ "desconectarían" ]
+		],
+		"7" : [
+			[ "desconectaré" ],
+			[ "desconectarás" ],
+			[ "desconectará" ],
+			[ "desconectaremos" ],
+			[ "desconectaréis", "desconectarán" ],
+			[ "desconectarán" ]
+		],
+		"8" : [
+			[ "desconecte" ],
+			[ "desconectes" ],
+			[ "desconecte" ],
+			[ "desconectemos" ],
+			[ "desconectéis", "desconecten" ],
+			[ "desconecten" ]
+		],
+		"9" : [
+			[ "desconectara" ],
+			[ "desconectaras" ],
+			[ "desconectara" ],
+			[ "desconectáramos" ],
+			[ "desconectarais", "desconectaran" ],
+			[ "desconectaran" ]
+		],
+		"10" : [
+			[ "desconectase" ],
+			[ "desconectases" ],
+			[ "desconectase" ],
+			[ "desconectásemos" ],
+			[ "desconectaseis", "desconectasen" ],
+			[ "desconectasen" ]
+		],
+		"11" : [
+			[ "desconectare" ],
+			[ "desconectares" ],
+			[ "desconectare" ],
+			[ "desconectáremos" ],
+			[ "desconectareis", "desconectaren" ],
+			[ "desconectaren" ]
+		],
+		"12" : {
+			"1" : [ "desconecta" ],
+			"2" : [ "desconecte" ],
+			"3" : [ "desconectemos" ],
+			"4" : [ "desconectad" ],
+			"5" : [ "desconecten" ]
+		}
+	}
+}

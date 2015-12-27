@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inhibir",
+	"word" : "inhibir",
+	"infinitivo" : "inhibir",
+	"participio" : [ "inhibido" ],
+	"gerundio" : [ "inhibiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "inhibo" ],
+			[ "inhibes", "inhibís" ],
+			[ "inhibe" ],
+			[ "inhibimos" ],
+			[ "inhibís", "inhiben" ],
+			[ "inhiben" ]
+		],
+		"4" : [
+			[ "inhibí" ],
+			[ "inhibiste" ],
+			[ "inhibió" ],
+			[ "inhibimos" ],
+			[ "inhibisteis", "inhibieron" ],
+			[ "inhibieron" ]
+		],
+		"5" : [
+			[ "inhibía" ],
+			[ "inhibías" ],
+			[ "inhibía" ],
+			[ "inhibíamos" ],
+			[ "inhibíais", "inhibían" ],
+			[ "inhibían" ]
+		],
+		"6" : [
+			[ "inhibiría" ],
+			[ "inhibirías" ],
+			[ "inhibiría" ],
+			[ "inhibiríamos" ],
+			[ "inhibiríais", "inhibirían" ],
+			[ "inhibirían" ]
+		],
+		"7" : [
+			[ "inhibiré" ],
+			[ "inhibirás" ],
+			[ "inhibirá" ],
+			[ "inhibiremos" ],
+			[ "inhibiréis", "inhibirán" ],
+			[ "inhibirán" ]
+		],
+		"8" : [
+			[ "inhiba" ],
+			[ "inhibas" ],
+			[ "inhiba" ],
+			[ "inhibamos" ],
+			[ "inhibáis", "inhiban" ],
+			[ "inhiban" ]
+		],
+		"9" : [
+			[ "inhibiera" ],
+			[ "inhibieras" ],
+			[ "inhibiera" ],
+			[ "inhibiéramos" ],
+			[ "inhibierais", "inhibieran" ],
+			[ "inhibieran" ]
+		],
+		"10" : [
+			[ "inhibiese" ],
+			[ "inhibieses" ],
+			[ "inhibiese" ],
+			[ "inhibiésemos" ],
+			[ "inhibieseis", "inhibiesen" ],
+			[ "inhibiesen" ]
+		],
+		"11" : [
+			[ "inhibiere" ],
+			[ "inhibieres" ],
+			[ "inhibiere" ],
+			[ "inhibiéremos" ],
+			[ "inhibiereis", "inhibieren" ],
+			[ "inhibieren" ]
+		],
+		"12" : {
+			"1" : [ "inhibe" ],
+			"2" : [ "inhiba" ],
+			"3" : [ "inhibamos" ],
+			"4" : [ "inhibid" ],
+			"5" : [ "inhiban" ]
+		}
+	}
+}

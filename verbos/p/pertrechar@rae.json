@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pertrechar",
+	"word" : "pertrechar",
+	"infinitivo" : "pertrechar",
+	"participio" : [ "pertrechado" ],
+	"gerundio" : [ "pertrechando" ],
+	"tenses" : {
+		"3" : [
+			[ "pertrecho" ],
+			[ "pertrechas", "pertrechás" ],
+			[ "pertrecha" ],
+			[ "pertrechamos" ],
+			[ "pertrecháis", "pertrechan" ],
+			[ "pertrechan" ]
+		],
+		"4" : [
+			[ "pertreché" ],
+			[ "pertrechaste" ],
+			[ "pertrechó" ],
+			[ "pertrechamos" ],
+			[ "pertrechasteis", "pertrecharon" ],
+			[ "pertrecharon" ]
+		],
+		"5" : [
+			[ "pertrechaba" ],
+			[ "pertrechabas" ],
+			[ "pertrechaba" ],
+			[ "pertrechábamos" ],
+			[ "pertrechabais", "pertrechaban" ],
+			[ "pertrechaban" ]
+		],
+		"6" : [
+			[ "pertrecharía" ],
+			[ "pertrecharías" ],
+			[ "pertrecharía" ],
+			[ "pertrecharíamos" ],
+			[ "pertrecharíais", "pertrecharían" ],
+			[ "pertrecharían" ]
+		],
+		"7" : [
+			[ "pertrecharé" ],
+			[ "pertrecharás" ],
+			[ "pertrechará" ],
+			[ "pertrecharemos" ],
+			[ "pertrecharéis", "pertrecharán" ],
+			[ "pertrecharán" ]
+		],
+		"8" : [
+			[ "pertreche" ],
+			[ "pertreches" ],
+			[ "pertreche" ],
+			[ "pertrechemos" ],
+			[ "pertrechéis", "pertrechen" ],
+			[ "pertrechen" ]
+		],
+		"9" : [
+			[ "pertrechara" ],
+			[ "pertrecharas" ],
+			[ "pertrechara" ],
+			[ "pertrecháramos" ],
+			[ "pertrecharais", "pertrecharan" ],
+			[ "pertrecharan" ]
+		],
+		"10" : [
+			[ "pertrechase" ],
+			[ "pertrechases" ],
+			[ "pertrechase" ],
+			[ "pertrechásemos" ],
+			[ "pertrechaseis", "pertrechasen" ],
+			[ "pertrechasen" ]
+		],
+		"11" : [
+			[ "pertrechare" ],
+			[ "pertrechares" ],
+			[ "pertrechare" ],
+			[ "pertrecháremos" ],
+			[ "pertrechareis", "pertrecharen" ],
+			[ "pertrecharen" ]
+		],
+		"12" : {
+			"1" : [ "pertrecha" ],
+			"2" : [ "pertreche" ],
+			"3" : [ "pertrechemos" ],
+			"4" : [ "pertrechad" ],
+			"5" : [ "pertrechen" ]
+		}
+	}
+}

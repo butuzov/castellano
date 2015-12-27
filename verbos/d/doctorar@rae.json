@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=doctorar",
+	"word" : "doctorar",
+	"infinitivo" : "doctorar",
+	"participio" : [ "doctorado" ],
+	"gerundio" : [ "doctorando" ],
+	"tenses" : {
+		"3" : [
+			[ "doctoro" ],
+			[ "doctoras", "doctorás" ],
+			[ "doctora" ],
+			[ "doctoramos" ],
+			[ "doctoráis", "doctoran" ],
+			[ "doctoran" ]
+		],
+		"4" : [
+			[ "doctoré" ],
+			[ "doctoraste" ],
+			[ "doctoró" ],
+			[ "doctoramos" ],
+			[ "doctorasteis", "doctoraron" ],
+			[ "doctoraron" ]
+		],
+		"5" : [
+			[ "doctoraba" ],
+			[ "doctorabas" ],
+			[ "doctoraba" ],
+			[ "doctorábamos" ],
+			[ "doctorabais", "doctoraban" ],
+			[ "doctoraban" ]
+		],
+		"6" : [
+			[ "doctoraría" ],
+			[ "doctorarías" ],
+			[ "doctoraría" ],
+			[ "doctoraríamos" ],
+			[ "doctoraríais", "doctorarían" ],
+			[ "doctorarían" ]
+		],
+		"7" : [
+			[ "doctoraré" ],
+			[ "doctorarás" ],
+			[ "doctorará" ],
+			[ "doctoraremos" ],
+			[ "doctoraréis", "doctorarán" ],
+			[ "doctorarán" ]
+		],
+		"8" : [
+			[ "doctore" ],
+			[ "doctores" ],
+			[ "doctore" ],
+			[ "doctoremos" ],
+			[ "doctoréis", "doctoren" ],
+			[ "doctoren" ]
+		],
+		"9" : [
+			[ "doctorara" ],
+			[ "doctoraras" ],
+			[ "doctorara" ],
+			[ "doctoráramos" ],
+			[ "doctorarais", "doctoraran" ],
+			[ "doctoraran" ]
+		],
+		"10" : [
+			[ "doctorase" ],
+			[ "doctorases" ],
+			[ "doctorase" ],
+			[ "doctorásemos" ],
+			[ "doctoraseis", "doctorasen" ],
+			[ "doctorasen" ]
+		],
+		"11" : [
+			[ "doctorare" ],
+			[ "doctorares" ],
+			[ "doctorare" ],
+			[ "doctoráremos" ],
+			[ "doctorareis", "doctoraren" ],
+			[ "doctoraren" ]
+		],
+		"12" : {
+			"1" : [ "doctora" ],
+			"2" : [ "doctore" ],
+			"3" : [ "doctoremos" ],
+			"4" : [ "doctorad" ],
+			"5" : [ "doctoren" ]
+		}
+	}
+}

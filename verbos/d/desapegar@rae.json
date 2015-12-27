@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desapegar",
+	"word" : "desapegar",
+	"infinitivo" : "desapegar",
+	"participio" : [ "desapegado" ],
+	"gerundio" : [ "desapegando" ],
+	"tenses" : {
+		"3" : [
+			[ "desapego" ],
+			[ "desapegas", "desapegás" ],
+			[ "desapega" ],
+			[ "desapegamos" ],
+			[ "desapegáis", "desapegan" ],
+			[ "desapegan" ]
+		],
+		"4" : [
+			[ "desapegué" ],
+			[ "desapegaste" ],
+			[ "desapegó" ],
+			[ "desapegamos" ],
+			[ "desapegasteis", "desapegaron" ],
+			[ "desapegaron" ]
+		],
+		"5" : [
+			[ "desapegaba" ],
+			[ "desapegabas" ],
+			[ "desapegaba" ],
+			[ "desapegábamos" ],
+			[ "desapegabais", "desapegaban" ],
+			[ "desapegaban" ]
+		],
+		"6" : [
+			[ "desapegaría" ],
+			[ "desapegarías" ],
+			[ "desapegaría" ],
+			[ "desapegaríamos" ],
+			[ "desapegaríais", "desapegarían" ],
+			[ "desapegarían" ]
+		],
+		"7" : [
+			[ "desapegaré" ],
+			[ "desapegarás" ],
+			[ "desapegará" ],
+			[ "desapegaremos" ],
+			[ "desapegaréis", "desapegarán" ],
+			[ "desapegarán" ]
+		],
+		"8" : [
+			[ "desapegue" ],
+			[ "desapegues" ],
+			[ "desapegue" ],
+			[ "desapeguemos" ],
+			[ "desapeguéis", "desapeguen" ],
+			[ "desapeguen" ]
+		],
+		"9" : [
+			[ "desapegara" ],
+			[ "desapegaras" ],
+			[ "desapegara" ],
+			[ "desapegáramos" ],
+			[ "desapegarais", "desapegaran" ],
+			[ "desapegaran" ]
+		],
+		"10" : [
+			[ "desapegase" ],
+			[ "desapegases" ],
+			[ "desapegase" ],
+			[ "desapegásemos" ],
+			[ "desapegaseis", "desapegasen" ],
+			[ "desapegasen" ]
+		],
+		"11" : [
+			[ "desapegare" ],
+			[ "desapegares" ],
+			[ "desapegare" ],
+			[ "desapegáremos" ],
+			[ "desapegareis", "desapegaren" ],
+			[ "desapegaren" ]
+		],
+		"12" : {
+			"1" : [ "desapega" ],
+			"2" : [ "desapegue" ],
+			"3" : [ "desapeguemos" ],
+			"4" : [ "desapegad" ],
+			"5" : [ "desapeguen" ]
+		}
+	}
+}

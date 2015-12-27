@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adiestrar",
+	"word" : "adiestrar",
+	"infinitivo" : "adiestrar",
+	"participio" : [ "adiestrado" ],
+	"gerundio" : [ "adiestrando" ],
+	"tenses" : {
+		"3" : [
+			[ "adiestro" ],
+			[ "adiestras", "adiestrás" ],
+			[ "adiestra" ],
+			[ "adiestramos" ],
+			[ "adiestráis", "adiestran" ],
+			[ "adiestran" ]
+		],
+		"4" : [
+			[ "adiestré" ],
+			[ "adiestraste" ],
+			[ "adiestró" ],
+			[ "adiestramos" ],
+			[ "adiestrasteis", "adiestraron" ],
+			[ "adiestraron" ]
+		],
+		"5" : [
+			[ "adiestraba" ],
+			[ "adiestrabas" ],
+			[ "adiestraba" ],
+			[ "adiestrábamos" ],
+			[ "adiestrabais", "adiestraban" ],
+			[ "adiestraban" ]
+		],
+		"6" : [
+			[ "adiestraría" ],
+			[ "adiestrarías" ],
+			[ "adiestraría" ],
+			[ "adiestraríamos" ],
+			[ "adiestraríais", "adiestrarían" ],
+			[ "adiestrarían" ]
+		],
+		"7" : [
+			[ "adiestraré" ],
+			[ "adiestrarás" ],
+			[ "adiestrará" ],
+			[ "adiestraremos" ],
+			[ "adiestraréis", "adiestrarán" ],
+			[ "adiestrarán" ]
+		],
+		"8" : [
+			[ "adiestre" ],
+			[ "adiestres" ],
+			[ "adiestre" ],
+			[ "adiestremos" ],
+			[ "adiestréis", "adiestren" ],
+			[ "adiestren" ]
+		],
+		"9" : [
+			[ "adiestrara" ],
+			[ "adiestraras" ],
+			[ "adiestrara" ],
+			[ "adiestráramos" ],
+			[ "adiestrarais", "adiestraran" ],
+			[ "adiestraran" ]
+		],
+		"10" : [
+			[ "adiestrase" ],
+			[ "adiestrases" ],
+			[ "adiestrase" ],
+			[ "adiestrásemos" ],
+			[ "adiestraseis", "adiestrasen" ],
+			[ "adiestrasen" ]
+		],
+		"11" : [
+			[ "adiestrare" ],
+			[ "adiestrares" ],
+			[ "adiestrare" ],
+			[ "adiestráremos" ],
+			[ "adiestrareis", "adiestraren" ],
+			[ "adiestraren" ]
+		],
+		"12" : {
+			"1" : [ "adiestra" ],
+			"2" : [ "adiestre" ],
+			"3" : [ "adiestremos" ],
+			"4" : [ "adiestrad" ],
+			"5" : [ "adiestren" ]
+		}
+	}
+}

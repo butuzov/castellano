@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trovar",
+	"word" : "trovar",
+	"infinitivo" : "trovar",
+	"participio" : [ "trovado" ],
+	"gerundio" : [ "trovando" ],
+	"tenses" : {
+		"3" : [
+			[ "trovo" ],
+			[ "trovas", "trovás" ],
+			[ "trova" ],
+			[ "trovamos" ],
+			[ "trováis", "trovan" ],
+			[ "trovan" ]
+		],
+		"4" : [
+			[ "trové" ],
+			[ "trovaste" ],
+			[ "trovó" ],
+			[ "trovamos" ],
+			[ "trovasteis", "trovaron" ],
+			[ "trovaron" ]
+		],
+		"5" : [
+			[ "trovaba" ],
+			[ "trovabas" ],
+			[ "trovaba" ],
+			[ "trovábamos" ],
+			[ "trovabais", "trovaban" ],
+			[ "trovaban" ]
+		],
+		"6" : [
+			[ "trovaría" ],
+			[ "trovarías" ],
+			[ "trovaría" ],
+			[ "trovaríamos" ],
+			[ "trovaríais", "trovarían" ],
+			[ "trovarían" ]
+		],
+		"7" : [
+			[ "trovaré" ],
+			[ "trovarás" ],
+			[ "trovará" ],
+			[ "trovaremos" ],
+			[ "trovaréis", "trovarán" ],
+			[ "trovarán" ]
+		],
+		"8" : [
+			[ "trove" ],
+			[ "troves" ],
+			[ "trove" ],
+			[ "trovemos" ],
+			[ "trovéis", "troven" ],
+			[ "troven" ]
+		],
+		"9" : [
+			[ "trovara" ],
+			[ "trovaras" ],
+			[ "trovara" ],
+			[ "trováramos" ],
+			[ "trovarais", "trovaran" ],
+			[ "trovaran" ]
+		],
+		"10" : [
+			[ "trovase" ],
+			[ "trovases" ],
+			[ "trovase" ],
+			[ "trovásemos" ],
+			[ "trovaseis", "trovasen" ],
+			[ "trovasen" ]
+		],
+		"11" : [
+			[ "trovare" ],
+			[ "trovares" ],
+			[ "trovare" ],
+			[ "trováremos" ],
+			[ "trovareis", "trovaren" ],
+			[ "trovaren" ]
+		],
+		"12" : {
+			"1" : [ "trova" ],
+			"2" : [ "trove" ],
+			"3" : [ "trovemos" ],
+			"4" : [ "trovad" ],
+			"5" : [ "troven" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=zapatear",
+	"word" : "zapatear",
+	"infinitivo" : "zapatear",
+	"participio" : [ "zapateado" ],
+	"gerundio" : [ "zapateando" ],
+	"tenses" : {
+		"3" : [
+			[ "zapateo" ],
+			[ "zapateas", "zapateás" ],
+			[ "zapatea" ],
+			[ "zapateamos" ],
+			[ "zapateáis", "zapatean" ],
+			[ "zapatean" ]
+		],
+		"4" : [
+			[ "zapateé" ],
+			[ "zapateaste" ],
+			[ "zapateó" ],
+			[ "zapateamos" ],
+			[ "zapateasteis", "zapatearon" ],
+			[ "zapatearon" ]
+		],
+		"5" : [
+			[ "zapateaba" ],
+			[ "zapateabas" ],
+			[ "zapateaba" ],
+			[ "zapateábamos" ],
+			[ "zapateabais", "zapateaban" ],
+			[ "zapateaban" ]
+		],
+		"6" : [
+			[ "zapatearía" ],
+			[ "zapatearías" ],
+			[ "zapatearía" ],
+			[ "zapatearíamos" ],
+			[ "zapatearíais", "zapatearían" ],
+			[ "zapatearían" ]
+		],
+		"7" : [
+			[ "zapatearé" ],
+			[ "zapatearás" ],
+			[ "zapateará" ],
+			[ "zapatearemos" ],
+			[ "zapatearéis", "zapatearán" ],
+			[ "zapatearán" ]
+		],
+		"8" : [
+			[ "zapatee" ],
+			[ "zapatees" ],
+			[ "zapatee" ],
+			[ "zapateemos" ],
+			[ "zapateéis", "zapateen" ],
+			[ "zapateen" ]
+		],
+		"9" : [
+			[ "zapateara" ],
+			[ "zapatearas" ],
+			[ "zapateara" ],
+			[ "zapateáramos" ],
+			[ "zapatearais", "zapatearan" ],
+			[ "zapatearan" ]
+		],
+		"10" : [
+			[ "zapatease" ],
+			[ "zapateases" ],
+			[ "zapatease" ],
+			[ "zapateásemos" ],
+			[ "zapateaseis", "zapateasen" ],
+			[ "zapateasen" ]
+		],
+		"11" : [
+			[ "zapateare" ],
+			[ "zapateares" ],
+			[ "zapateare" ],
+			[ "zapateáremos" ],
+			[ "zapateareis", "zapatearen" ],
+			[ "zapatearen" ]
+		],
+		"12" : {
+			"1" : [ "zapatea" ],
+			"2" : [ "zapatee" ],
+			"3" : [ "zapateemos" ],
+			"4" : [ "zapatead" ],
+			"5" : [ "zapateen" ]
+		}
+	}
+}

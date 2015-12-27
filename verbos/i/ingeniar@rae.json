@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ingeniar",
+	"word" : "ingeniar",
+	"infinitivo" : "ingeniar",
+	"participio" : [ "ingeniado" ],
+	"gerundio" : [ "ingeniando" ],
+	"tenses" : {
+		"3" : [
+			[ "ingenio" ],
+			[ "ingenias", "ingeniás" ],
+			[ "ingenia" ],
+			[ "ingeniamos" ],
+			[ "ingeniáis", "ingenian" ],
+			[ "ingenian" ]
+		],
+		"4" : [
+			[ "ingenié" ],
+			[ "ingeniaste" ],
+			[ "ingenió" ],
+			[ "ingeniamos" ],
+			[ "ingeniasteis", "ingeniaron" ],
+			[ "ingeniaron" ]
+		],
+		"5" : [
+			[ "ingeniaba" ],
+			[ "ingeniabas" ],
+			[ "ingeniaba" ],
+			[ "ingeniábamos" ],
+			[ "ingeniabais", "ingeniaban" ],
+			[ "ingeniaban" ]
+		],
+		"6" : [
+			[ "ingeniaría" ],
+			[ "ingeniarías" ],
+			[ "ingeniaría" ],
+			[ "ingeniaríamos" ],
+			[ "ingeniaríais", "ingeniarían" ],
+			[ "ingeniarían" ]
+		],
+		"7" : [
+			[ "ingeniaré" ],
+			[ "ingeniarás" ],
+			[ "ingeniará" ],
+			[ "ingeniaremos" ],
+			[ "ingeniaréis", "ingeniarán" ],
+			[ "ingeniarán" ]
+		],
+		"8" : [
+			[ "ingenie" ],
+			[ "ingenies" ],
+			[ "ingenie" ],
+			[ "ingeniemos" ],
+			[ "ingeniéis", "ingenien" ],
+			[ "ingenien" ]
+		],
+		"9" : [
+			[ "ingeniara" ],
+			[ "ingeniaras" ],
+			[ "ingeniara" ],
+			[ "ingeniáramos" ],
+			[ "ingeniarais", "ingeniaran" ],
+			[ "ingeniaran" ]
+		],
+		"10" : [
+			[ "ingeniase" ],
+			[ "ingeniases" ],
+			[ "ingeniase" ],
+			[ "ingeniásemos" ],
+			[ "ingeniaseis", "ingeniasen" ],
+			[ "ingeniasen" ]
+		],
+		"11" : [
+			[ "ingeniare" ],
+			[ "ingeniares" ],
+			[ "ingeniare" ],
+			[ "ingeniáremos" ],
+			[ "ingeniareis", "ingeniaren" ],
+			[ "ingeniaren" ]
+		],
+		"12" : {
+			"1" : [ "ingenia" ],
+			"2" : [ "ingenie" ],
+			"3" : [ "ingeniemos" ],
+			"4" : [ "ingeniad" ],
+			"5" : [ "ingenien" ]
+		}
+	}
+}

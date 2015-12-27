@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vender",
+	"word" : "vender",
+	"infinitivo" : "vender",
+	"participio" : [ "vendido" ],
+	"gerundio" : [ "vendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "vendo" ],
+			[ "vendes", "vendés" ],
+			[ "vende" ],
+			[ "vendemos" ],
+			[ "vendéis", "venden" ],
+			[ "venden" ]
+		],
+		"4" : [
+			[ "vendí" ],
+			[ "vendiste" ],
+			[ "vendió" ],
+			[ "vendimos" ],
+			[ "vendisteis", "vendieron" ],
+			[ "vendieron" ]
+		],
+		"5" : [
+			[ "vendía" ],
+			[ "vendías" ],
+			[ "vendía" ],
+			[ "vendíamos" ],
+			[ "vendíais", "vendían" ],
+			[ "vendían" ]
+		],
+		"6" : [
+			[ "vendería" ],
+			[ "venderías" ],
+			[ "vendería" ],
+			[ "venderíamos" ],
+			[ "venderíais", "venderían" ],
+			[ "venderían" ]
+		],
+		"7" : [
+			[ "venderé" ],
+			[ "venderás" ],
+			[ "venderá" ],
+			[ "venderemos" ],
+			[ "venderéis", "venderán" ],
+			[ "venderán" ]
+		],
+		"8" : [
+			[ "venda" ],
+			[ "vendas" ],
+			[ "venda" ],
+			[ "vendamos" ],
+			[ "vendáis", "vendan" ],
+			[ "vendan" ]
+		],
+		"9" : [
+			[ "vendiera" ],
+			[ "vendieras" ],
+			[ "vendiera" ],
+			[ "vendiéramos" ],
+			[ "vendierais", "vendieran" ],
+			[ "vendieran" ]
+		],
+		"10" : [
+			[ "vendiese" ],
+			[ "vendieses" ],
+			[ "vendiese" ],
+			[ "vendiésemos" ],
+			[ "vendieseis", "vendiesen" ],
+			[ "vendiesen" ]
+		],
+		"11" : [
+			[ "vendiere" ],
+			[ "vendieres" ],
+			[ "vendiere" ],
+			[ "vendiéremos" ],
+			[ "vendiereis", "vendieren" ],
+			[ "vendieren" ]
+		],
+		"12" : {
+			"1" : [ "vende" ],
+			"2" : [ "venda" ],
+			"3" : [ "vendamos" ],
+			"4" : [ "vended" ],
+			"5" : [ "vendan" ]
+		}
+	}
+}

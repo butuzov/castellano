@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=glasear",
+	"word" : "glasear",
+	"infinitivo" : "glasear",
+	"participio" : [ "glaseado" ],
+	"gerundio" : [ "glaseando" ],
+	"tenses" : {
+		"3" : [
+			[ "glaseo" ],
+			[ "glaseas", "glaseás" ],
+			[ "glasea" ],
+			[ "glaseamos" ],
+			[ "glaseáis", "glasean" ],
+			[ "glasean" ]
+		],
+		"4" : [
+			[ "glaseé" ],
+			[ "glaseaste" ],
+			[ "glaseó" ],
+			[ "glaseamos" ],
+			[ "glaseasteis", "glasearon" ],
+			[ "glasearon" ]
+		],
+		"5" : [
+			[ "glaseaba" ],
+			[ "glaseabas" ],
+			[ "glaseaba" ],
+			[ "glaseábamos" ],
+			[ "glaseabais", "glaseaban" ],
+			[ "glaseaban" ]
+		],
+		"6" : [
+			[ "glasearía" ],
+			[ "glasearías" ],
+			[ "glasearía" ],
+			[ "glasearíamos" ],
+			[ "glasearíais", "glasearían" ],
+			[ "glasearían" ]
+		],
+		"7" : [
+			[ "glasearé" ],
+			[ "glasearás" ],
+			[ "glaseará" ],
+			[ "glasearemos" ],
+			[ "glasearéis", "glasearán" ],
+			[ "glasearán" ]
+		],
+		"8" : [
+			[ "glasee" ],
+			[ "glasees" ],
+			[ "glasee" ],
+			[ "glaseemos" ],
+			[ "glaseéis", "glaseen" ],
+			[ "glaseen" ]
+		],
+		"9" : [
+			[ "glaseara" ],
+			[ "glasearas" ],
+			[ "glaseara" ],
+			[ "glaseáramos" ],
+			[ "glasearais", "glasearan" ],
+			[ "glasearan" ]
+		],
+		"10" : [
+			[ "glasease" ],
+			[ "glaseases" ],
+			[ "glasease" ],
+			[ "glaseásemos" ],
+			[ "glaseaseis", "glaseasen" ],
+			[ "glaseasen" ]
+		],
+		"11" : [
+			[ "glaseare" ],
+			[ "glaseares" ],
+			[ "glaseare" ],
+			[ "glaseáremos" ],
+			[ "glaseareis", "glasearen" ],
+			[ "glasearen" ]
+		],
+		"12" : {
+			"1" : [ "glasea" ],
+			"2" : [ "glasee" ],
+			"3" : [ "glaseemos" ],
+			"4" : [ "glasead" ],
+			"5" : [ "glaseen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agonizar",
+	"word" : "agonizar",
+	"infinitivo" : "agonizar",
+	"participio" : [ "agonizado" ],
+	"gerundio" : [ "agonizando" ],
+	"tenses" : {
+		"3" : [
+			[ "agonizo" ],
+			[ "agonizas", "agonizás" ],
+			[ "agoniza" ],
+			[ "agonizamos" ],
+			[ "agonizáis", "agonizan" ],
+			[ "agonizan" ]
+		],
+		"4" : [
+			[ "agonicé" ],
+			[ "agonizaste" ],
+			[ "agonizó" ],
+			[ "agonizamos" ],
+			[ "agonizasteis", "agonizaron" ],
+			[ "agonizaron" ]
+		],
+		"5" : [
+			[ "agonizaba" ],
+			[ "agonizabas" ],
+			[ "agonizaba" ],
+			[ "agonizábamos" ],
+			[ "agonizabais", "agonizaban" ],
+			[ "agonizaban" ]
+		],
+		"6" : [
+			[ "agonizaría" ],
+			[ "agonizarías" ],
+			[ "agonizaría" ],
+			[ "agonizaríamos" ],
+			[ "agonizaríais", "agonizarían" ],
+			[ "agonizarían" ]
+		],
+		"7" : [
+			[ "agonizaré" ],
+			[ "agonizarás" ],
+			[ "agonizará" ],
+			[ "agonizaremos" ],
+			[ "agonizaréis", "agonizarán" ],
+			[ "agonizarán" ]
+		],
+		"8" : [
+			[ "agonice" ],
+			[ "agonices" ],
+			[ "agonice" ],
+			[ "agonicemos" ],
+			[ "agonicéis", "agonicen" ],
+			[ "agonicen" ]
+		],
+		"9" : [
+			[ "agonizara" ],
+			[ "agonizaras" ],
+			[ "agonizara" ],
+			[ "agonizáramos" ],
+			[ "agonizarais", "agonizaran" ],
+			[ "agonizaran" ]
+		],
+		"10" : [
+			[ "agonizase" ],
+			[ "agonizases" ],
+			[ "agonizase" ],
+			[ "agonizásemos" ],
+			[ "agonizaseis", "agonizasen" ],
+			[ "agonizasen" ]
+		],
+		"11" : [
+			[ "agonizare" ],
+			[ "agonizares" ],
+			[ "agonizare" ],
+			[ "agonizáremos" ],
+			[ "agonizareis", "agonizaren" ],
+			[ "agonizaren" ]
+		],
+		"12" : {
+			"1" : [ "agoniza" ],
+			"2" : [ "agonice" ],
+			"3" : [ "agonicemos" ],
+			"4" : [ "agonizad" ],
+			"5" : [ "agonicen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=retejar",
+	"word" : "retejar",
+	"infinitivo" : "retejar",
+	"participio" : [ "retejado" ],
+	"gerundio" : [ "retejando" ],
+	"tenses" : {
+		"3" : [
+			[ "retejo" ],
+			[ "retejas", "retejás" ],
+			[ "reteja" ],
+			[ "retejamos" ],
+			[ "retejáis", "retejan" ],
+			[ "retejan" ]
+		],
+		"4" : [
+			[ "retejé" ],
+			[ "retejaste" ],
+			[ "retejó" ],
+			[ "retejamos" ],
+			[ "retejasteis", "retejaron" ],
+			[ "retejaron" ]
+		],
+		"5" : [
+			[ "retejaba" ],
+			[ "retejabas" ],
+			[ "retejaba" ],
+			[ "retejábamos" ],
+			[ "retejabais", "retejaban" ],
+			[ "retejaban" ]
+		],
+		"6" : [
+			[ "retejaría" ],
+			[ "retejarías" ],
+			[ "retejaría" ],
+			[ "retejaríamos" ],
+			[ "retejaríais", "retejarían" ],
+			[ "retejarían" ]
+		],
+		"7" : [
+			[ "retejaré" ],
+			[ "retejarás" ],
+			[ "retejará" ],
+			[ "retejaremos" ],
+			[ "retejaréis", "retejarán" ],
+			[ "retejarán" ]
+		],
+		"8" : [
+			[ "reteje" ],
+			[ "retejes" ],
+			[ "reteje" ],
+			[ "retejemos" ],
+			[ "retejéis", "retejen" ],
+			[ "retejen" ]
+		],
+		"9" : [
+			[ "retejara" ],
+			[ "retejaras" ],
+			[ "retejara" ],
+			[ "retejáramos" ],
+			[ "retejarais", "retejaran" ],
+			[ "retejaran" ]
+		],
+		"10" : [
+			[ "retejase" ],
+			[ "retejases" ],
+			[ "retejase" ],
+			[ "retejásemos" ],
+			[ "retejaseis", "retejasen" ],
+			[ "retejasen" ]
+		],
+		"11" : [
+			[ "retejare" ],
+			[ "retejares" ],
+			[ "retejare" ],
+			[ "retejáremos" ],
+			[ "retejareis", "retejaren" ],
+			[ "retejaren" ]
+		],
+		"12" : {
+			"1" : [ "reteja" ],
+			"2" : [ "reteje" ],
+			"3" : [ "retejemos" ],
+			"4" : [ "retejad" ],
+			"5" : [ "retejen" ]
+		}
+	}
+}

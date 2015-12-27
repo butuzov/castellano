@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sanar",
+	"word" : "sanar",
+	"infinitivo" : "sanar",
+	"participio" : [ "sanado" ],
+	"gerundio" : [ "sanando" ],
+	"tenses" : {
+		"3" : [
+			[ "sano" ],
+			[ "sanas", "sanás" ],
+			[ "sana" ],
+			[ "sanamos" ],
+			[ "sanáis", "sanan" ],
+			[ "sanan" ]
+		],
+		"4" : [
+			[ "sané" ],
+			[ "sanaste" ],
+			[ "sanó" ],
+			[ "sanamos" ],
+			[ "sanasteis", "sanaron" ],
+			[ "sanaron" ]
+		],
+		"5" : [
+			[ "sanaba" ],
+			[ "sanabas" ],
+			[ "sanaba" ],
+			[ "sanábamos" ],
+			[ "sanabais", "sanaban" ],
+			[ "sanaban" ]
+		],
+		"6" : [
+			[ "sanaría" ],
+			[ "sanarías" ],
+			[ "sanaría" ],
+			[ "sanaríamos" ],
+			[ "sanaríais", "sanarían" ],
+			[ "sanarían" ]
+		],
+		"7" : [
+			[ "sanaré" ],
+			[ "sanarás" ],
+			[ "sanará" ],
+			[ "sanaremos" ],
+			[ "sanaréis", "sanarán" ],
+			[ "sanarán" ]
+		],
+		"8" : [
+			[ "sane" ],
+			[ "sanes" ],
+			[ "sane" ],
+			[ "sanemos" ],
+			[ "sanéis", "sanen" ],
+			[ "sanen" ]
+		],
+		"9" : [
+			[ "sanara" ],
+			[ "sanaras" ],
+			[ "sanara" ],
+			[ "sanáramos" ],
+			[ "sanarais", "sanaran" ],
+			[ "sanaran" ]
+		],
+		"10" : [
+			[ "sanase" ],
+			[ "sanases" ],
+			[ "sanase" ],
+			[ "sanásemos" ],
+			[ "sanaseis", "sanasen" ],
+			[ "sanasen" ]
+		],
+		"11" : [
+			[ "sanare" ],
+			[ "sanares" ],
+			[ "sanare" ],
+			[ "sanáremos" ],
+			[ "sanareis", "sanaren" ],
+			[ "sanaren" ]
+		],
+		"12" : {
+			"1" : [ "sana" ],
+			"2" : [ "sane" ],
+			"3" : [ "sanemos" ],
+			"4" : [ "sanad" ],
+			"5" : [ "sanen" ]
+		}
+	}
+}

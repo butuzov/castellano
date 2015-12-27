@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=germanizar",
+	"word" : "germanizar",
+	"infinitivo" : "germanizar",
+	"participio" : [ "germanizado" ],
+	"gerundio" : [ "germanizando" ],
+	"tenses" : {
+		"3" : [
+			[ "germanizo" ],
+			[ "germanizas", "germanizás" ],
+			[ "germaniza" ],
+			[ "germanizamos" ],
+			[ "germanizáis", "germanizan" ],
+			[ "germanizan" ]
+		],
+		"4" : [
+			[ "germanicé" ],
+			[ "germanizaste" ],
+			[ "germanizó" ],
+			[ "germanizamos" ],
+			[ "germanizasteis", "germanizaron" ],
+			[ "germanizaron" ]
+		],
+		"5" : [
+			[ "germanizaba" ],
+			[ "germanizabas" ],
+			[ "germanizaba" ],
+			[ "germanizábamos" ],
+			[ "germanizabais", "germanizaban" ],
+			[ "germanizaban" ]
+		],
+		"6" : [
+			[ "germanizaría" ],
+			[ "germanizarías" ],
+			[ "germanizaría" ],
+			[ "germanizaríamos" ],
+			[ "germanizaríais", "germanizarían" ],
+			[ "germanizarían" ]
+		],
+		"7" : [
+			[ "germanizaré" ],
+			[ "germanizarás" ],
+			[ "germanizará" ],
+			[ "germanizaremos" ],
+			[ "germanizaréis", "germanizarán" ],
+			[ "germanizarán" ]
+		],
+		"8" : [
+			[ "germanice" ],
+			[ "germanices" ],
+			[ "germanice" ],
+			[ "germanicemos" ],
+			[ "germanicéis", "germanicen" ],
+			[ "germanicen" ]
+		],
+		"9" : [
+			[ "germanizara" ],
+			[ "germanizaras" ],
+			[ "germanizara" ],
+			[ "germanizáramos" ],
+			[ "germanizarais", "germanizaran" ],
+			[ "germanizaran" ]
+		],
+		"10" : [
+			[ "germanizase" ],
+			[ "germanizases" ],
+			[ "germanizase" ],
+			[ "germanizásemos" ],
+			[ "germanizaseis", "germanizasen" ],
+			[ "germanizasen" ]
+		],
+		"11" : [
+			[ "germanizare" ],
+			[ "germanizares" ],
+			[ "germanizare" ],
+			[ "germanizáremos" ],
+			[ "germanizareis", "germanizaren" ],
+			[ "germanizaren" ]
+		],
+		"12" : {
+			"1" : [ "germaniza" ],
+			"2" : [ "germanice" ],
+			"3" : [ "germanicemos" ],
+			"4" : [ "germanizad" ],
+			"5" : [ "germanicen" ]
+		}
+	}
+}

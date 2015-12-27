@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=elogiar",
+	"word" : "elogiar",
+	"infinitivo" : "elogiar",
+	"participio" : [ "elogiado" ],
+	"gerundio" : [ "elogiando" ],
+	"tenses" : {
+		"3" : [
+			[ "elogio" ],
+			[ "elogias", "elogiás" ],
+			[ "elogia" ],
+			[ "elogiamos" ],
+			[ "elogiáis", "elogian" ],
+			[ "elogian" ]
+		],
+		"4" : [
+			[ "elogié" ],
+			[ "elogiaste" ],
+			[ "elogió" ],
+			[ "elogiamos" ],
+			[ "elogiasteis", "elogiaron" ],
+			[ "elogiaron" ]
+		],
+		"5" : [
+			[ "elogiaba" ],
+			[ "elogiabas" ],
+			[ "elogiaba" ],
+			[ "elogiábamos" ],
+			[ "elogiabais", "elogiaban" ],
+			[ "elogiaban" ]
+		],
+		"6" : [
+			[ "elogiaría" ],
+			[ "elogiarías" ],
+			[ "elogiaría" ],
+			[ "elogiaríamos" ],
+			[ "elogiaríais", "elogiarían" ],
+			[ "elogiarían" ]
+		],
+		"7" : [
+			[ "elogiaré" ],
+			[ "elogiarás" ],
+			[ "elogiará" ],
+			[ "elogiaremos" ],
+			[ "elogiaréis", "elogiarán" ],
+			[ "elogiarán" ]
+		],
+		"8" : [
+			[ "elogie" ],
+			[ "elogies" ],
+			[ "elogie" ],
+			[ "elogiemos" ],
+			[ "elogiéis", "elogien" ],
+			[ "elogien" ]
+		],
+		"9" : [
+			[ "elogiara" ],
+			[ "elogiaras" ],
+			[ "elogiara" ],
+			[ "elogiáramos" ],
+			[ "elogiarais", "elogiaran" ],
+			[ "elogiaran" ]
+		],
+		"10" : [
+			[ "elogiase" ],
+			[ "elogiases" ],
+			[ "elogiase" ],
+			[ "elogiásemos" ],
+			[ "elogiaseis", "elogiasen" ],
+			[ "elogiasen" ]
+		],
+		"11" : [
+			[ "elogiare" ],
+			[ "elogiares" ],
+			[ "elogiare" ],
+			[ "elogiáremos" ],
+			[ "elogiareis", "elogiaren" ],
+			[ "elogiaren" ]
+		],
+		"12" : {
+			"1" : [ "elogia" ],
+			"2" : [ "elogie" ],
+			"3" : [ "elogiemos" ],
+			"4" : [ "elogiad" ],
+			"5" : [ "elogien" ]
+		}
+	}
+}

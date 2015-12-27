@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=delatar",
+	"word" : "delatar",
+	"infinitivo" : "delatar",
+	"participio" : [ "delatado" ],
+	"gerundio" : [ "delatando" ],
+	"tenses" : {
+		"3" : [
+			[ "delato" ],
+			[ "delatas", "delatás" ],
+			[ "delata" ],
+			[ "delatamos" ],
+			[ "delatáis", "delatan" ],
+			[ "delatan" ]
+		],
+		"4" : [
+			[ "delaté" ],
+			[ "delataste" ],
+			[ "delató" ],
+			[ "delatamos" ],
+			[ "delatasteis", "delataron" ],
+			[ "delataron" ]
+		],
+		"5" : [
+			[ "delataba" ],
+			[ "delatabas" ],
+			[ "delataba" ],
+			[ "delatábamos" ],
+			[ "delatabais", "delataban" ],
+			[ "delataban" ]
+		],
+		"6" : [
+			[ "delataría" ],
+			[ "delatarías" ],
+			[ "delataría" ],
+			[ "delataríamos" ],
+			[ "delataríais", "delatarían" ],
+			[ "delatarían" ]
+		],
+		"7" : [
+			[ "delataré" ],
+			[ "delatarás" ],
+			[ "delatará" ],
+			[ "delataremos" ],
+			[ "delataréis", "delatarán" ],
+			[ "delatarán" ]
+		],
+		"8" : [
+			[ "delate" ],
+			[ "delates" ],
+			[ "delate" ],
+			[ "delatemos" ],
+			[ "delatéis", "delaten" ],
+			[ "delaten" ]
+		],
+		"9" : [
+			[ "delatara" ],
+			[ "delataras" ],
+			[ "delatara" ],
+			[ "delatáramos" ],
+			[ "delatarais", "delataran" ],
+			[ "delataran" ]
+		],
+		"10" : [
+			[ "delatase" ],
+			[ "delatases" ],
+			[ "delatase" ],
+			[ "delatásemos" ],
+			[ "delataseis", "delatasen" ],
+			[ "delatasen" ]
+		],
+		"11" : [
+			[ "delatare" ],
+			[ "delatares" ],
+			[ "delatare" ],
+			[ "delatáremos" ],
+			[ "delatareis", "delataren" ],
+			[ "delataren" ]
+		],
+		"12" : {
+			"1" : [ "delata" ],
+			"2" : [ "delate" ],
+			"3" : [ "delatemos" ],
+			"4" : [ "delatad" ],
+			"5" : [ "delaten" ]
+		}
+	}
+}

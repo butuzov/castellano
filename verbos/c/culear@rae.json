@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=culear",
+	"word" : "culear",
+	"infinitivo" : "culear",
+	"participio" : [ "culeado" ],
+	"gerundio" : [ "culeando" ],
+	"tenses" : {
+		"3" : [
+			[ "culeo" ],
+			[ "culeas", "culeás" ],
+			[ "culea" ],
+			[ "culeamos" ],
+			[ "culeáis", "culean" ],
+			[ "culean" ]
+		],
+		"4" : [
+			[ "culeé" ],
+			[ "culeaste" ],
+			[ "culeó" ],
+			[ "culeamos" ],
+			[ "culeasteis", "culearon" ],
+			[ "culearon" ]
+		],
+		"5" : [
+			[ "culeaba" ],
+			[ "culeabas" ],
+			[ "culeaba" ],
+			[ "culeábamos" ],
+			[ "culeabais", "culeaban" ],
+			[ "culeaban" ]
+		],
+		"6" : [
+			[ "culearía" ],
+			[ "culearías" ],
+			[ "culearía" ],
+			[ "culearíamos" ],
+			[ "culearíais", "culearían" ],
+			[ "culearían" ]
+		],
+		"7" : [
+			[ "culearé" ],
+			[ "culearás" ],
+			[ "culeará" ],
+			[ "culearemos" ],
+			[ "culearéis", "culearán" ],
+			[ "culearán" ]
+		],
+		"8" : [
+			[ "culee" ],
+			[ "culees" ],
+			[ "culee" ],
+			[ "culeemos" ],
+			[ "culeéis", "culeen" ],
+			[ "culeen" ]
+		],
+		"9" : [
+			[ "culeara" ],
+			[ "culearas" ],
+			[ "culeara" ],
+			[ "culeáramos" ],
+			[ "culearais", "culearan" ],
+			[ "culearan" ]
+		],
+		"10" : [
+			[ "culease" ],
+			[ "culeases" ],
+			[ "culease" ],
+			[ "culeásemos" ],
+			[ "culeaseis", "culeasen" ],
+			[ "culeasen" ]
+		],
+		"11" : [
+			[ "culeare" ],
+			[ "culeares" ],
+			[ "culeare" ],
+			[ "culeáremos" ],
+			[ "culeareis", "culearen" ],
+			[ "culearen" ]
+		],
+		"12" : {
+			"1" : [ "culea" ],
+			"2" : [ "culee" ],
+			"3" : [ "culeemos" ],
+			"4" : [ "culead" ],
+			"5" : [ "culeen" ]
+		}
+	}
+}

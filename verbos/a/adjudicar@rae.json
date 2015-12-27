@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adjudicar",
+	"word" : "adjudicar",
+	"infinitivo" : "adjudicar",
+	"participio" : [ "adjudicado" ],
+	"gerundio" : [ "adjudicando" ],
+	"tenses" : {
+		"3" : [
+			[ "adjudico" ],
+			[ "adjudicas", "adjudicás" ],
+			[ "adjudica" ],
+			[ "adjudicamos" ],
+			[ "adjudicáis", "adjudican" ],
+			[ "adjudican" ]
+		],
+		"4" : [
+			[ "adjudiqué" ],
+			[ "adjudicaste" ],
+			[ "adjudicó" ],
+			[ "adjudicamos" ],
+			[ "adjudicasteis", "adjudicaron" ],
+			[ "adjudicaron" ]
+		],
+		"5" : [
+			[ "adjudicaba" ],
+			[ "adjudicabas" ],
+			[ "adjudicaba" ],
+			[ "adjudicábamos" ],
+			[ "adjudicabais", "adjudicaban" ],
+			[ "adjudicaban" ]
+		],
+		"6" : [
+			[ "adjudicaría" ],
+			[ "adjudicarías" ],
+			[ "adjudicaría" ],
+			[ "adjudicaríamos" ],
+			[ "adjudicaríais", "adjudicarían" ],
+			[ "adjudicarían" ]
+		],
+		"7" : [
+			[ "adjudicaré" ],
+			[ "adjudicarás" ],
+			[ "adjudicará" ],
+			[ "adjudicaremos" ],
+			[ "adjudicaréis", "adjudicarán" ],
+			[ "adjudicarán" ]
+		],
+		"8" : [
+			[ "adjudique" ],
+			[ "adjudiques" ],
+			[ "adjudique" ],
+			[ "adjudiquemos" ],
+			[ "adjudiquéis", "adjudiquen" ],
+			[ "adjudiquen" ]
+		],
+		"9" : [
+			[ "adjudicara" ],
+			[ "adjudicaras" ],
+			[ "adjudicara" ],
+			[ "adjudicáramos" ],
+			[ "adjudicarais", "adjudicaran" ],
+			[ "adjudicaran" ]
+		],
+		"10" : [
+			[ "adjudicase" ],
+			[ "adjudicases" ],
+			[ "adjudicase" ],
+			[ "adjudicásemos" ],
+			[ "adjudicaseis", "adjudicasen" ],
+			[ "adjudicasen" ]
+		],
+		"11" : [
+			[ "adjudicare" ],
+			[ "adjudicares" ],
+			[ "adjudicare" ],
+			[ "adjudicáremos" ],
+			[ "adjudicareis", "adjudicaren" ],
+			[ "adjudicaren" ]
+		],
+		"12" : {
+			"1" : [ "adjudica" ],
+			"2" : [ "adjudique" ],
+			"3" : [ "adjudiquemos" ],
+			"4" : [ "adjudicad" ],
+			"5" : [ "adjudiquen" ]
+		}
+	}
+}

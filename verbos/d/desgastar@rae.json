@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desgastar",
+	"word" : "desgastar",
+	"infinitivo" : "desgastar",
+	"participio" : [ "desgastado" ],
+	"gerundio" : [ "desgastando" ],
+	"tenses" : {
+		"3" : [
+			[ "desgasto" ],
+			[ "desgastas", "desgastás" ],
+			[ "desgasta" ],
+			[ "desgastamos" ],
+			[ "desgastáis", "desgastan" ],
+			[ "desgastan" ]
+		],
+		"4" : [
+			[ "desgasté" ],
+			[ "desgastaste" ],
+			[ "desgastó" ],
+			[ "desgastamos" ],
+			[ "desgastasteis", "desgastaron" ],
+			[ "desgastaron" ]
+		],
+		"5" : [
+			[ "desgastaba" ],
+			[ "desgastabas" ],
+			[ "desgastaba" ],
+			[ "desgastábamos" ],
+			[ "desgastabais", "desgastaban" ],
+			[ "desgastaban" ]
+		],
+		"6" : [
+			[ "desgastaría" ],
+			[ "desgastarías" ],
+			[ "desgastaría" ],
+			[ "desgastaríamos" ],
+			[ "desgastaríais", "desgastarían" ],
+			[ "desgastarían" ]
+		],
+		"7" : [
+			[ "desgastaré" ],
+			[ "desgastarás" ],
+			[ "desgastará" ],
+			[ "desgastaremos" ],
+			[ "desgastaréis", "desgastarán" ],
+			[ "desgastarán" ]
+		],
+		"8" : [
+			[ "desgaste" ],
+			[ "desgastes" ],
+			[ "desgaste" ],
+			[ "desgastemos" ],
+			[ "desgastéis", "desgasten" ],
+			[ "desgasten" ]
+		],
+		"9" : [
+			[ "desgastara" ],
+			[ "desgastaras" ],
+			[ "desgastara" ],
+			[ "desgastáramos" ],
+			[ "desgastarais", "desgastaran" ],
+			[ "desgastaran" ]
+		],
+		"10" : [
+			[ "desgastase" ],
+			[ "desgastases" ],
+			[ "desgastase" ],
+			[ "desgastásemos" ],
+			[ "desgastaseis", "desgastasen" ],
+			[ "desgastasen" ]
+		],
+		"11" : [
+			[ "desgastare" ],
+			[ "desgastares" ],
+			[ "desgastare" ],
+			[ "desgastáremos" ],
+			[ "desgastareis", "desgastaren" ],
+			[ "desgastaren" ]
+		],
+		"12" : {
+			"1" : [ "desgasta" ],
+			"2" : [ "desgaste" ],
+			"3" : [ "desgastemos" ],
+			"4" : [ "desgastad" ],
+			"5" : [ "desgasten" ]
+		}
+	}
+}

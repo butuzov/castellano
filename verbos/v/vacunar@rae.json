@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vacunar",
+	"word" : "vacunar",
+	"infinitivo" : "vacunar",
+	"participio" : [ "vacunado" ],
+	"gerundio" : [ "vacunando" ],
+	"tenses" : {
+		"3" : [
+			[ "vacuno" ],
+			[ "vacunas", "vacunás" ],
+			[ "vacuna" ],
+			[ "vacunamos" ],
+			[ "vacunáis", "vacunan" ],
+			[ "vacunan" ]
+		],
+		"4" : [
+			[ "vacuné" ],
+			[ "vacunaste" ],
+			[ "vacunó" ],
+			[ "vacunamos" ],
+			[ "vacunasteis", "vacunaron" ],
+			[ "vacunaron" ]
+		],
+		"5" : [
+			[ "vacunaba" ],
+			[ "vacunabas" ],
+			[ "vacunaba" ],
+			[ "vacunábamos" ],
+			[ "vacunabais", "vacunaban" ],
+			[ "vacunaban" ]
+		],
+		"6" : [
+			[ "vacunaría" ],
+			[ "vacunarías" ],
+			[ "vacunaría" ],
+			[ "vacunaríamos" ],
+			[ "vacunaríais", "vacunarían" ],
+			[ "vacunarían" ]
+		],
+		"7" : [
+			[ "vacunaré" ],
+			[ "vacunarás" ],
+			[ "vacunará" ],
+			[ "vacunaremos" ],
+			[ "vacunaréis", "vacunarán" ],
+			[ "vacunarán" ]
+		],
+		"8" : [
+			[ "vacune" ],
+			[ "vacunes" ],
+			[ "vacune" ],
+			[ "vacunemos" ],
+			[ "vacunéis", "vacunen" ],
+			[ "vacunen" ]
+		],
+		"9" : [
+			[ "vacunara" ],
+			[ "vacunaras" ],
+			[ "vacunara" ],
+			[ "vacunáramos" ],
+			[ "vacunarais", "vacunaran" ],
+			[ "vacunaran" ]
+		],
+		"10" : [
+			[ "vacunase" ],
+			[ "vacunases" ],
+			[ "vacunase" ],
+			[ "vacunásemos" ],
+			[ "vacunaseis", "vacunasen" ],
+			[ "vacunasen" ]
+		],
+		"11" : [
+			[ "vacunare" ],
+			[ "vacunares" ],
+			[ "vacunare" ],
+			[ "vacunáremos" ],
+			[ "vacunareis", "vacunaren" ],
+			[ "vacunaren" ]
+		],
+		"12" : {
+			"1" : [ "vacuna" ],
+			"2" : [ "vacune" ],
+			"3" : [ "vacunemos" ],
+			"4" : [ "vacunad" ],
+			"5" : [ "vacunen" ]
+		}
+	}
+}

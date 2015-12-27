@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vincular",
+	"word" : "vincular",
+	"infinitivo" : "vincular",
+	"participio" : [ "vinculado" ],
+	"gerundio" : [ "vinculando" ],
+	"tenses" : {
+		"3" : [
+			[ "vinculo" ],
+			[ "vinculas", "vinculás" ],
+			[ "vincula" ],
+			[ "vinculamos" ],
+			[ "vinculáis", "vinculan" ],
+			[ "vinculan" ]
+		],
+		"4" : [
+			[ "vinculé" ],
+			[ "vinculaste" ],
+			[ "vinculó" ],
+			[ "vinculamos" ],
+			[ "vinculasteis", "vincularon" ],
+			[ "vincularon" ]
+		],
+		"5" : [
+			[ "vinculaba" ],
+			[ "vinculabas" ],
+			[ "vinculaba" ],
+			[ "vinculábamos" ],
+			[ "vinculabais", "vinculaban" ],
+			[ "vinculaban" ]
+		],
+		"6" : [
+			[ "vincularía" ],
+			[ "vincularías" ],
+			[ "vincularía" ],
+			[ "vincularíamos" ],
+			[ "vincularíais", "vincularían" ],
+			[ "vincularían" ]
+		],
+		"7" : [
+			[ "vincularé" ],
+			[ "vincularás" ],
+			[ "vinculará" ],
+			[ "vincularemos" ],
+			[ "vincularéis", "vincularán" ],
+			[ "vincularán" ]
+		],
+		"8" : [
+			[ "vincule" ],
+			[ "vincules" ],
+			[ "vincule" ],
+			[ "vinculemos" ],
+			[ "vinculéis", "vinculen" ],
+			[ "vinculen" ]
+		],
+		"9" : [
+			[ "vinculara" ],
+			[ "vincularas" ],
+			[ "vinculara" ],
+			[ "vinculáramos" ],
+			[ "vincularais", "vincularan" ],
+			[ "vincularan" ]
+		],
+		"10" : [
+			[ "vinculase" ],
+			[ "vinculases" ],
+			[ "vinculase" ],
+			[ "vinculásemos" ],
+			[ "vinculaseis", "vinculasen" ],
+			[ "vinculasen" ]
+		],
+		"11" : [
+			[ "vinculare" ],
+			[ "vinculares" ],
+			[ "vinculare" ],
+			[ "vinculáremos" ],
+			[ "vinculareis", "vincularen" ],
+			[ "vincularen" ]
+		],
+		"12" : {
+			"1" : [ "vincula" ],
+			"2" : [ "vincule" ],
+			"3" : [ "vinculemos" ],
+			"4" : [ "vinculad" ],
+			"5" : [ "vinculen" ]
+		}
+	}
+}

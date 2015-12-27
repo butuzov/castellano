@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aplacar",
+	"word" : "aplacar",
+	"infinitivo" : "aplacar",
+	"participio" : [ "aplacado" ],
+	"gerundio" : [ "aplacando" ],
+	"tenses" : {
+		"3" : [
+			[ "aplaco" ],
+			[ "aplacas", "aplacás" ],
+			[ "aplaca" ],
+			[ "aplacamos" ],
+			[ "aplacáis", "aplacan" ],
+			[ "aplacan" ]
+		],
+		"4" : [
+			[ "aplaqué" ],
+			[ "aplacaste" ],
+			[ "aplacó" ],
+			[ "aplacamos" ],
+			[ "aplacasteis", "aplacaron" ],
+			[ "aplacaron" ]
+		],
+		"5" : [
+			[ "aplacaba" ],
+			[ "aplacabas" ],
+			[ "aplacaba" ],
+			[ "aplacábamos" ],
+			[ "aplacabais", "aplacaban" ],
+			[ "aplacaban" ]
+		],
+		"6" : [
+			[ "aplacaría" ],
+			[ "aplacarías" ],
+			[ "aplacaría" ],
+			[ "aplacaríamos" ],
+			[ "aplacaríais", "aplacarían" ],
+			[ "aplacarían" ]
+		],
+		"7" : [
+			[ "aplacaré" ],
+			[ "aplacarás" ],
+			[ "aplacará" ],
+			[ "aplacaremos" ],
+			[ "aplacaréis", "aplacarán" ],
+			[ "aplacarán" ]
+		],
+		"8" : [
+			[ "aplaque" ],
+			[ "aplaques" ],
+			[ "aplaque" ],
+			[ "aplaquemos" ],
+			[ "aplaquéis", "aplaquen" ],
+			[ "aplaquen" ]
+		],
+		"9" : [
+			[ "aplacara" ],
+			[ "aplacaras" ],
+			[ "aplacara" ],
+			[ "aplacáramos" ],
+			[ "aplacarais", "aplacaran" ],
+			[ "aplacaran" ]
+		],
+		"10" : [
+			[ "aplacase" ],
+			[ "aplacases" ],
+			[ "aplacase" ],
+			[ "aplacásemos" ],
+			[ "aplacaseis", "aplacasen" ],
+			[ "aplacasen" ]
+		],
+		"11" : [
+			[ "aplacare" ],
+			[ "aplacares" ],
+			[ "aplacare" ],
+			[ "aplacáremos" ],
+			[ "aplacareis", "aplacaren" ],
+			[ "aplacaren" ]
+		],
+		"12" : {
+			"1" : [ "aplaca" ],
+			"2" : [ "aplaque" ],
+			"3" : [ "aplaquemos" ],
+			"4" : [ "aplacad" ],
+			"5" : [ "aplaquen" ]
+		}
+	}
+}

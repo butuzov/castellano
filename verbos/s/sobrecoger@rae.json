@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sobrecoger",
+	"word" : "sobrecoger",
+	"infinitivo" : "sobrecoger",
+	"participio" : [ "sobrecogido" ],
+	"gerundio" : [ "sobrecogiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sobrecojo" ],
+			[ "sobrecoges", "sobrecogés" ],
+			[ "sobrecoge" ],
+			[ "sobrecogemos" ],
+			[ "sobrecogéis", "sobrecogen" ],
+			[ "sobrecogen" ]
+		],
+		"4" : [
+			[ "sobrecogí" ],
+			[ "sobrecogiste" ],
+			[ "sobrecogió" ],
+			[ "sobrecogimos" ],
+			[ "sobrecogisteis", "sobrecogieron" ],
+			[ "sobrecogieron" ]
+		],
+		"5" : [
+			[ "sobrecogía" ],
+			[ "sobrecogías" ],
+			[ "sobrecogía" ],
+			[ "sobrecogíamos" ],
+			[ "sobrecogíais", "sobrecogían" ],
+			[ "sobrecogían" ]
+		],
+		"6" : [
+			[ "sobrecogería" ],
+			[ "sobrecogerías" ],
+			[ "sobrecogería" ],
+			[ "sobrecogeríamos" ],
+			[ "sobrecogeríais", "sobrecogerían" ],
+			[ "sobrecogerían" ]
+		],
+		"7" : [
+			[ "sobrecogeré" ],
+			[ "sobrecogerás" ],
+			[ "sobrecogerá" ],
+			[ "sobrecogeremos" ],
+			[ "sobrecogeréis", "sobrecogerán" ],
+			[ "sobrecogerán" ]
+		],
+		"8" : [
+			[ "sobrecoja" ],
+			[ "sobrecojas" ],
+			[ "sobrecoja" ],
+			[ "sobrecojamos" ],
+			[ "sobrecojáis", "sobrecojan" ],
+			[ "sobrecojan" ]
+		],
+		"9" : [
+			[ "sobrecogiera" ],
+			[ "sobrecogieras" ],
+			[ "sobrecogiera" ],
+			[ "sobrecogiéramos" ],
+			[ "sobrecogierais", "sobrecogieran" ],
+			[ "sobrecogieran" ]
+		],
+		"10" : [
+			[ "sobrecogiese" ],
+			[ "sobrecogieses" ],
+			[ "sobrecogiese" ],
+			[ "sobrecogiésemos" ],
+			[ "sobrecogieseis", "sobrecogiesen" ],
+			[ "sobrecogiesen" ]
+		],
+		"11" : [
+			[ "sobrecogiere" ],
+			[ "sobrecogieres" ],
+			[ "sobrecogiere" ],
+			[ "sobrecogiéremos" ],
+			[ "sobrecogiereis", "sobrecogieren" ],
+			[ "sobrecogieren" ]
+		],
+		"12" : {
+			"1" : [ "sobrecoge" ],
+			"2" : [ "sobrecoja" ],
+			"3" : [ "sobrecojamos" ],
+			"4" : [ "sobrecoged" ],
+			"5" : [ "sobrecojan" ]
+		}
+	}
+}

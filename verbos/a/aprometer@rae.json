@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aprometer",
+	"word" : "aprometer",
+	"infinitivo" : "aprometer",
+	"participio" : [ "aprometido" ],
+	"gerundio" : [ "aprometiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aprometo" ],
+			[ "aprometes", "aprometés" ],
+			[ "apromete" ],
+			[ "aprometemos" ],
+			[ "aprometéis", "aprometen" ],
+			[ "aprometen" ]
+		],
+		"4" : [
+			[ "aprometí" ],
+			[ "aprometiste" ],
+			[ "aprometió" ],
+			[ "aprometimos" ],
+			[ "aprometisteis", "aprometieron" ],
+			[ "aprometieron" ]
+		],
+		"5" : [
+			[ "aprometía" ],
+			[ "aprometías" ],
+			[ "aprometía" ],
+			[ "aprometíamos" ],
+			[ "aprometíais", "aprometían" ],
+			[ "aprometían" ]
+		],
+		"6" : [
+			[ "aprometería" ],
+			[ "aprometerías" ],
+			[ "aprometería" ],
+			[ "aprometeríamos" ],
+			[ "aprometeríais", "aprometerían" ],
+			[ "aprometerían" ]
+		],
+		"7" : [
+			[ "aprometeré" ],
+			[ "aprometerás" ],
+			[ "aprometerá" ],
+			[ "aprometeremos" ],
+			[ "aprometeréis", "aprometerán" ],
+			[ "aprometerán" ]
+		],
+		"8" : [
+			[ "aprometa" ],
+			[ "aprometas" ],
+			[ "aprometa" ],
+			[ "aprometamos" ],
+			[ "aprometáis", "aprometan" ],
+			[ "aprometan" ]
+		],
+		"9" : [
+			[ "aprometiera" ],
+			[ "aprometieras" ],
+			[ "aprometiera" ],
+			[ "aprometiéramos" ],
+			[ "aprometierais", "aprometieran" ],
+			[ "aprometieran" ]
+		],
+		"10" : [
+			[ "aprometiese" ],
+			[ "aprometieses" ],
+			[ "aprometiese" ],
+			[ "aprometiésemos" ],
+			[ "aprometieseis", "aprometiesen" ],
+			[ "aprometiesen" ]
+		],
+		"11" : [
+			[ "aprometiere" ],
+			[ "aprometieres" ],
+			[ "aprometiere" ],
+			[ "aprometiéremos" ],
+			[ "aprometiereis", "aprometieren" ],
+			[ "aprometieren" ]
+		],
+		"12" : {
+			"1" : [ "apromete" ],
+			"2" : [ "aprometa" ],
+			"3" : [ "aprometamos" ],
+			"4" : [ "aprometed" ],
+			"5" : [ "aprometan" ]
+		}
+	}
+}

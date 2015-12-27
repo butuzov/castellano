@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=obedecer",
+	"word" : "obedecer",
+	"infinitivo" : "obedecer",
+	"participio" : [ "obedecido" ],
+	"gerundio" : [ "obedeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "obedezco" ],
+			[ "obedeces", "obedecés" ],
+			[ "obedece" ],
+			[ "obedecemos" ],
+			[ "obedecéis", "obedecen" ],
+			[ "obedecen" ]
+		],
+		"4" : [
+			[ "obedecí" ],
+			[ "obedeciste" ],
+			[ "obedeció" ],
+			[ "obedecimos" ],
+			[ "obedecisteis", "obedecieron" ],
+			[ "obedecieron" ]
+		],
+		"5" : [
+			[ "obedecía" ],
+			[ "obedecías" ],
+			[ "obedecía" ],
+			[ "obedecíamos" ],
+			[ "obedecíais", "obedecían" ],
+			[ "obedecían" ]
+		],
+		"6" : [
+			[ "obedecería" ],
+			[ "obedecerías" ],
+			[ "obedecería" ],
+			[ "obedeceríamos" ],
+			[ "obedeceríais", "obedecerían" ],
+			[ "obedecerían" ]
+		],
+		"7" : [
+			[ "obedeceré" ],
+			[ "obedecerás" ],
+			[ "obedecerá" ],
+			[ "obedeceremos" ],
+			[ "obedeceréis", "obedecerán" ],
+			[ "obedecerán" ]
+		],
+		"8" : [
+			[ "obedezca" ],
+			[ "obedezcas" ],
+			[ "obedezca" ],
+			[ "obedezcamos" ],
+			[ "obedezcáis", "obedezcan" ],
+			[ "obedezcan" ]
+		],
+		"9" : [
+			[ "obedeciera" ],
+			[ "obedecieras" ],
+			[ "obedeciera" ],
+			[ "obedeciéramos" ],
+			[ "obedecierais", "obedecieran" ],
+			[ "obedecieran" ]
+		],
+		"10" : [
+			[ "obedeciese" ],
+			[ "obedecieses" ],
+			[ "obedeciese" ],
+			[ "obedeciésemos" ],
+			[ "obedecieseis", "obedeciesen" ],
+			[ "obedeciesen" ]
+		],
+		"11" : [
+			[ "obedeciere" ],
+			[ "obedecieres" ],
+			[ "obedeciere" ],
+			[ "obedeciéremos" ],
+			[ "obedeciereis", "obedecieren" ],
+			[ "obedecieren" ]
+		],
+		"12" : {
+			"1" : [ "obedece" ],
+			"2" : [ "obedezca" ],
+			"3" : [ "obedezcamos" ],
+			"4" : [ "obedeced" ],
+			"5" : [ "obedezcan" ]
+		}
+	}
+}

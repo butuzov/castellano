@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=basar",
+	"word" : "basar",
+	"infinitivo" : "basar",
+	"participio" : [ "basado" ],
+	"gerundio" : [ "basando" ],
+	"tenses" : {
+		"3" : [
+			[ "baso" ],
+			[ "basas", "basás" ],
+			[ "basa" ],
+			[ "basamos" ],
+			[ "basáis", "basan" ],
+			[ "basan" ]
+		],
+		"4" : [
+			[ "basé" ],
+			[ "basaste" ],
+			[ "basó" ],
+			[ "basamos" ],
+			[ "basasteis", "basaron" ],
+			[ "basaron" ]
+		],
+		"5" : [
+			[ "basaba" ],
+			[ "basabas" ],
+			[ "basaba" ],
+			[ "basábamos" ],
+			[ "basabais", "basaban" ],
+			[ "basaban" ]
+		],
+		"6" : [
+			[ "basaría" ],
+			[ "basarías" ],
+			[ "basaría" ],
+			[ "basaríamos" ],
+			[ "basaríais", "basarían" ],
+			[ "basarían" ]
+		],
+		"7" : [
+			[ "basaré" ],
+			[ "basarás" ],
+			[ "basará" ],
+			[ "basaremos" ],
+			[ "basaréis", "basarán" ],
+			[ "basarán" ]
+		],
+		"8" : [
+			[ "base" ],
+			[ "bases" ],
+			[ "base" ],
+			[ "basemos" ],
+			[ "baséis", "basen" ],
+			[ "basen" ]
+		],
+		"9" : [
+			[ "basara" ],
+			[ "basaras" ],
+			[ "basara" ],
+			[ "basáramos" ],
+			[ "basarais", "basaran" ],
+			[ "basaran" ]
+		],
+		"10" : [
+			[ "basase" ],
+			[ "basases" ],
+			[ "basase" ],
+			[ "basásemos" ],
+			[ "basaseis", "basasen" ],
+			[ "basasen" ]
+		],
+		"11" : [
+			[ "basare" ],
+			[ "basares" ],
+			[ "basare" ],
+			[ "basáremos" ],
+			[ "basareis", "basaren" ],
+			[ "basaren" ]
+		],
+		"12" : {
+			"1" : [ "basa" ],
+			"2" : [ "base" ],
+			"3" : [ "basemos" ],
+			"4" : [ "basad" ],
+			"5" : [ "basen" ]
+		}
+	}
+}

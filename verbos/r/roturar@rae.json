@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=roturar",
+	"word" : "roturar",
+	"infinitivo" : "roturar",
+	"participio" : [ "roturado" ],
+	"gerundio" : [ "roturando" ],
+	"tenses" : {
+		"3" : [
+			[ "roturo" ],
+			[ "roturas", "roturás" ],
+			[ "rotura" ],
+			[ "roturamos" ],
+			[ "roturáis", "roturan" ],
+			[ "roturan" ]
+		],
+		"4" : [
+			[ "roturé" ],
+			[ "roturaste" ],
+			[ "roturó" ],
+			[ "roturamos" ],
+			[ "roturasteis", "roturaron" ],
+			[ "roturaron" ]
+		],
+		"5" : [
+			[ "roturaba" ],
+			[ "roturabas" ],
+			[ "roturaba" ],
+			[ "roturábamos" ],
+			[ "roturabais", "roturaban" ],
+			[ "roturaban" ]
+		],
+		"6" : [
+			[ "roturaría" ],
+			[ "roturarías" ],
+			[ "roturaría" ],
+			[ "roturaríamos" ],
+			[ "roturaríais", "roturarían" ],
+			[ "roturarían" ]
+		],
+		"7" : [
+			[ "roturaré" ],
+			[ "roturarás" ],
+			[ "roturará" ],
+			[ "roturaremos" ],
+			[ "roturaréis", "roturarán" ],
+			[ "roturarán" ]
+		],
+		"8" : [
+			[ "roture" ],
+			[ "rotures" ],
+			[ "roture" ],
+			[ "roturemos" ],
+			[ "roturéis", "roturen" ],
+			[ "roturen" ]
+		],
+		"9" : [
+			[ "roturara" ],
+			[ "roturaras" ],
+			[ "roturara" ],
+			[ "roturáramos" ],
+			[ "roturarais", "roturaran" ],
+			[ "roturaran" ]
+		],
+		"10" : [
+			[ "roturase" ],
+			[ "roturases" ],
+			[ "roturase" ],
+			[ "roturásemos" ],
+			[ "roturaseis", "roturasen" ],
+			[ "roturasen" ]
+		],
+		"11" : [
+			[ "roturare" ],
+			[ "roturares" ],
+			[ "roturare" ],
+			[ "roturáremos" ],
+			[ "roturareis", "roturaren" ],
+			[ "roturaren" ]
+		],
+		"12" : {
+			"1" : [ "rotura" ],
+			"2" : [ "roture" ],
+			"3" : [ "roturemos" ],
+			"4" : [ "roturad" ],
+			"5" : [ "roturen" ]
+		}
+	}
+}

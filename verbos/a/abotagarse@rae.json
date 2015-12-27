@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abotagarse",
+	"word" : "abotagarse",
+	"infinitivo" : "abotagarse",
+	"participio" : [ "abotagado" ],
+	"gerundio" : [ "abotagándome", "abotagándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me abotago" ],
+			[ "te abotagas", "te abotagás" ],
+			[ "se abotaga" ],
+			[ "nos abotagamos" ],
+			[ "os abotagáis", "se abotagan" ],
+			[ "se abotagan" ]
+		],
+		"4" : [
+			[ "me abotagué" ],
+			[ "te abotagaste" ],
+			[ "se abotagó" ],
+			[ "nos abotagamos" ],
+			[ "os abotagasteis", "se abotagaron" ],
+			[ "se abotagaron" ]
+		],
+		"5" : [
+			[ "me abotagaba" ],
+			[ "te abotagabas" ],
+			[ "se abotagaba" ],
+			[ "nos abotagábamos" ],
+			[ "os abotagabais", "se abotagaban" ],
+			[ "se abotagaban" ]
+		],
+		"6" : [
+			[ "me abotagaría" ],
+			[ "te abotagarías" ],
+			[ "se abotagaría" ],
+			[ "nos abotagaríamos" ],
+			[ "os abotagaríais", "se abotagarían" ],
+			[ "se abotagarían" ]
+		],
+		"7" : [
+			[ "me abotagaré" ],
+			[ "te abotagarás" ],
+			[ "se abotagará" ],
+			[ "nos abotagaremos" ],
+			[ "os abotagaréis", "se abotagarán" ],
+			[ "se abotagarán" ]
+		],
+		"8" : [
+			[ "me abotague" ],
+			[ "te abotagues" ],
+			[ "se abotague" ],
+			[ "nos abotaguemos" ],
+			[ "os abotaguéis", "se abotaguen" ],
+			[ "se abotaguen" ]
+		],
+		"9" : [
+			[ "me abotagara" ],
+			[ "te abotagaras" ],
+			[ "se abotagara" ],
+			[ "nos abotagáramos" ],
+			[ "os abotagarais", "se abotagaran" ],
+			[ "se abotagaran" ]
+		],
+		"10" : [
+			[ "me abotagase" ],
+			[ "te abotagases" ],
+			[ "se abotagase" ],
+			[ "nos abotagásemos" ],
+			[ "os abotagaseis", "se abotagasen" ],
+			[ "se abotagasen" ]
+		],
+		"11" : [
+			[ "me abotagare" ],
+			[ "te abotagares" ],
+			[ "se abotagare" ],
+			[ "nos abotagáremos" ],
+			[ "os abotagareis", "se abotagaren" ],
+			[ "se abotagaren" ]
+		],
+		"12" : {
+			"1" : [ "abotágate" ],
+			"2" : [ "abotague" ],
+			"3" : [ "abotaguemos" ],
+			"4" : [ "abotagaos" ],
+			"5" : [ "abotáguense" ]
+		}
+	}
+}

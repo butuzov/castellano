@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aperrear",
+	"word" : "aperrear",
+	"infinitivo" : "aperrear",
+	"participio" : [ "aperreado" ],
+	"gerundio" : [ "aperreando" ],
+	"tenses" : {
+		"3" : [
+			[ "aperreo" ],
+			[ "aperreas", "aperreás" ],
+			[ "aperrea" ],
+			[ "aperreamos" ],
+			[ "aperreáis", "aperrean" ],
+			[ "aperrean" ]
+		],
+		"4" : [
+			[ "aperreé" ],
+			[ "aperreaste" ],
+			[ "aperreó" ],
+			[ "aperreamos" ],
+			[ "aperreasteis", "aperrearon" ],
+			[ "aperrearon" ]
+		],
+		"5" : [
+			[ "aperreaba" ],
+			[ "aperreabas" ],
+			[ "aperreaba" ],
+			[ "aperreábamos" ],
+			[ "aperreabais", "aperreaban" ],
+			[ "aperreaban" ]
+		],
+		"6" : [
+			[ "aperrearía" ],
+			[ "aperrearías" ],
+			[ "aperrearía" ],
+			[ "aperrearíamos" ],
+			[ "aperrearíais", "aperrearían" ],
+			[ "aperrearían" ]
+		],
+		"7" : [
+			[ "aperrearé" ],
+			[ "aperrearás" ],
+			[ "aperreará" ],
+			[ "aperrearemos" ],
+			[ "aperrearéis", "aperrearán" ],
+			[ "aperrearán" ]
+		],
+		"8" : [
+			[ "aperree" ],
+			[ "aperrees" ],
+			[ "aperree" ],
+			[ "aperreemos" ],
+			[ "aperreéis", "aperreen" ],
+			[ "aperreen" ]
+		],
+		"9" : [
+			[ "aperreara" ],
+			[ "aperrearas" ],
+			[ "aperreara" ],
+			[ "aperreáramos" ],
+			[ "aperrearais", "aperrearan" ],
+			[ "aperrearan" ]
+		],
+		"10" : [
+			[ "aperrease" ],
+			[ "aperreases" ],
+			[ "aperrease" ],
+			[ "aperreásemos" ],
+			[ "aperreaseis", "aperreasen" ],
+			[ "aperreasen" ]
+		],
+		"11" : [
+			[ "aperreare" ],
+			[ "aperreares" ],
+			[ "aperreare" ],
+			[ "aperreáremos" ],
+			[ "aperreareis", "aperrearen" ],
+			[ "aperrearen" ]
+		],
+		"12" : {
+			"1" : [ "aperrea" ],
+			"2" : [ "aperree" ],
+			"3" : [ "aperreemos" ],
+			"4" : [ "aperread" ],
+			"5" : [ "aperreen" ]
+		}
+	}
+}

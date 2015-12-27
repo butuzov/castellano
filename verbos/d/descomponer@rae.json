@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descomponer",
+	"word" : "descomponer",
+	"infinitivo" : "descomponer",
+	"participio" : [ "descompuesto" ],
+	"gerundio" : [ "descomponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "descompongo" ],
+			[ "descompones", "descomponés" ],
+			[ "descompone" ],
+			[ "descomponemos" ],
+			[ "descomponéis", "descomponen" ],
+			[ "descomponen" ]
+		],
+		"4" : [
+			[ "descompuse" ],
+			[ "descompusiste" ],
+			[ "descompuso" ],
+			[ "descompusimos" ],
+			[ "descompusisteis", "descompusieron" ],
+			[ "descompusieron" ]
+		],
+		"5" : [
+			[ "descomponía" ],
+			[ "descomponías" ],
+			[ "descomponía" ],
+			[ "descomponíamos" ],
+			[ "descomponíais", "descomponían" ],
+			[ "descomponían" ]
+		],
+		"6" : [
+			[ "descompondría" ],
+			[ "descompondrías" ],
+			[ "descompondría" ],
+			[ "descompondríamos" ],
+			[ "descompondríais", "descompondrían" ],
+			[ "descompondrían" ]
+		],
+		"7" : [
+			[ "descompondré" ],
+			[ "descompondrás" ],
+			[ "descompondrá" ],
+			[ "descompondremos" ],
+			[ "descompondréis", "descompondrán" ],
+			[ "descompondrán" ]
+		],
+		"8" : [
+			[ "descomponga" ],
+			[ "descompongas" ],
+			[ "descomponga" ],
+			[ "descompongamos" ],
+			[ "descompongáis", "descompongan" ],
+			[ "descompongan" ]
+		],
+		"9" : [
+			[ "descompusiera" ],
+			[ "descompusieras" ],
+			[ "descompusiera" ],
+			[ "descompusiéramos" ],
+			[ "descompusierais", "descompusieran" ],
+			[ "descompusieran" ]
+		],
+		"10" : [
+			[ "descompusiese" ],
+			[ "descompusieses" ],
+			[ "descompusiese" ],
+			[ "descompusiésemos" ],
+			[ "descompusieseis", "descompusiesen" ],
+			[ "descompusiesen" ]
+		],
+		"11" : [
+			[ "descompusiere" ],
+			[ "descompusieres" ],
+			[ "descompusiere" ],
+			[ "descompusiéremos" ],
+			[ "descompusiereis", "descompusieren" ],
+			[ "descompusieren" ]
+		],
+		"12" : {
+			"1" : [ "descompón" ],
+			"2" : [ "descomponga" ],
+			"3" : [ "descompongamos" ],
+			"4" : [ "descomponed" ],
+			"5" : [ "descompongan" ]
+		}
+	}
+}

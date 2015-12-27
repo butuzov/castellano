@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cabalgar",
+	"word" : "cabalgar",
+	"infinitivo" : "cabalgar",
+	"participio" : [ "cabalgado" ],
+	"gerundio" : [ "cabalgando" ],
+	"tenses" : {
+		"3" : [
+			[ "cabalgo" ],
+			[ "cabalgas", "cabalgás" ],
+			[ "cabalga" ],
+			[ "cabalgamos" ],
+			[ "cabalgáis", "cabalgan" ],
+			[ "cabalgan" ]
+		],
+		"4" : [
+			[ "cabalgué" ],
+			[ "cabalgaste" ],
+			[ "cabalgó" ],
+			[ "cabalgamos" ],
+			[ "cabalgasteis", "cabalgaron" ],
+			[ "cabalgaron" ]
+		],
+		"5" : [
+			[ "cabalgaba" ],
+			[ "cabalgabas" ],
+			[ "cabalgaba" ],
+			[ "cabalgábamos" ],
+			[ "cabalgabais", "cabalgaban" ],
+			[ "cabalgaban" ]
+		],
+		"6" : [
+			[ "cabalgaría" ],
+			[ "cabalgarías" ],
+			[ "cabalgaría" ],
+			[ "cabalgaríamos" ],
+			[ "cabalgaríais", "cabalgarían" ],
+			[ "cabalgarían" ]
+		],
+		"7" : [
+			[ "cabalgaré" ],
+			[ "cabalgarás" ],
+			[ "cabalgará" ],
+			[ "cabalgaremos" ],
+			[ "cabalgaréis", "cabalgarán" ],
+			[ "cabalgarán" ]
+		],
+		"8" : [
+			[ "cabalgue" ],
+			[ "cabalgues" ],
+			[ "cabalgue" ],
+			[ "cabalguemos" ],
+			[ "cabalguéis", "cabalguen" ],
+			[ "cabalguen" ]
+		],
+		"9" : [
+			[ "cabalgara" ],
+			[ "cabalgaras" ],
+			[ "cabalgara" ],
+			[ "cabalgáramos" ],
+			[ "cabalgarais", "cabalgaran" ],
+			[ "cabalgaran" ]
+		],
+		"10" : [
+			[ "cabalgase" ],
+			[ "cabalgases" ],
+			[ "cabalgase" ],
+			[ "cabalgásemos" ],
+			[ "cabalgaseis", "cabalgasen" ],
+			[ "cabalgasen" ]
+		],
+		"11" : [
+			[ "cabalgare" ],
+			[ "cabalgares" ],
+			[ "cabalgare" ],
+			[ "cabalgáremos" ],
+			[ "cabalgareis", "cabalgaren" ],
+			[ "cabalgaren" ]
+		],
+		"12" : {
+			"1" : [ "cabalga" ],
+			"2" : [ "cabalgue" ],
+			"3" : [ "cabalguemos" ],
+			"4" : [ "cabalgad" ],
+			"5" : [ "cabalguen" ]
+		}
+	}
+}

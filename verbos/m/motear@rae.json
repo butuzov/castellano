@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=motear",
+	"word" : "motear",
+	"infinitivo" : "motear",
+	"participio" : [ "moteado" ],
+	"gerundio" : [ "moteando" ],
+	"tenses" : {
+		"3" : [
+			[ "moteo" ],
+			[ "moteas", "moteás" ],
+			[ "motea" ],
+			[ "moteamos" ],
+			[ "moteáis", "motean" ],
+			[ "motean" ]
+		],
+		"4" : [
+			[ "moteé" ],
+			[ "moteaste" ],
+			[ "moteó" ],
+			[ "moteamos" ],
+			[ "moteasteis", "motearon" ],
+			[ "motearon" ]
+		],
+		"5" : [
+			[ "moteaba" ],
+			[ "moteabas" ],
+			[ "moteaba" ],
+			[ "moteábamos" ],
+			[ "moteabais", "moteaban" ],
+			[ "moteaban" ]
+		],
+		"6" : [
+			[ "motearía" ],
+			[ "motearías" ],
+			[ "motearía" ],
+			[ "motearíamos" ],
+			[ "motearíais", "motearían" ],
+			[ "motearían" ]
+		],
+		"7" : [
+			[ "motearé" ],
+			[ "motearás" ],
+			[ "moteará" ],
+			[ "motearemos" ],
+			[ "motearéis", "motearán" ],
+			[ "motearán" ]
+		],
+		"8" : [
+			[ "motee" ],
+			[ "motees" ],
+			[ "motee" ],
+			[ "moteemos" ],
+			[ "moteéis", "moteen" ],
+			[ "moteen" ]
+		],
+		"9" : [
+			[ "moteara" ],
+			[ "motearas" ],
+			[ "moteara" ],
+			[ "moteáramos" ],
+			[ "motearais", "motearan" ],
+			[ "motearan" ]
+		],
+		"10" : [
+			[ "motease" ],
+			[ "moteases" ],
+			[ "motease" ],
+			[ "moteásemos" ],
+			[ "moteaseis", "moteasen" ],
+			[ "moteasen" ]
+		],
+		"11" : [
+			[ "moteare" ],
+			[ "moteares" ],
+			[ "moteare" ],
+			[ "moteáremos" ],
+			[ "moteareis", "motearen" ],
+			[ "motearen" ]
+		],
+		"12" : {
+			"1" : [ "motea" ],
+			"2" : [ "motee" ],
+			"3" : [ "moteemos" ],
+			"4" : [ "motead" ],
+			"5" : [ "moteen" ]
+		}
+	}
+}

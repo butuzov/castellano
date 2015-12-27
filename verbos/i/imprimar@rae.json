@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=imprimar",
+	"word" : "imprimar",
+	"infinitivo" : "imprimar",
+	"participio" : [ "imprimado" ],
+	"gerundio" : [ "imprimando" ],
+	"tenses" : {
+		"3" : [
+			[ "imprimo" ],
+			[ "imprimas", "imprimás" ],
+			[ "imprima" ],
+			[ "imprimamos" ],
+			[ "imprimáis", "impriman" ],
+			[ "impriman" ]
+		],
+		"4" : [
+			[ "imprimé" ],
+			[ "imprimaste" ],
+			[ "imprimó" ],
+			[ "imprimamos" ],
+			[ "imprimasteis", "imprimaron" ],
+			[ "imprimaron" ]
+		],
+		"5" : [
+			[ "imprimaba" ],
+			[ "imprimabas" ],
+			[ "imprimaba" ],
+			[ "imprimábamos" ],
+			[ "imprimabais", "imprimaban" ],
+			[ "imprimaban" ]
+		],
+		"6" : [
+			[ "imprimaría" ],
+			[ "imprimarías" ],
+			[ "imprimaría" ],
+			[ "imprimaríamos" ],
+			[ "imprimaríais", "imprimarían" ],
+			[ "imprimarían" ]
+		],
+		"7" : [
+			[ "imprimaré" ],
+			[ "imprimarás" ],
+			[ "imprimará" ],
+			[ "imprimaremos" ],
+			[ "imprimaréis", "imprimarán" ],
+			[ "imprimarán" ]
+		],
+		"8" : [
+			[ "imprime" ],
+			[ "imprimes" ],
+			[ "imprime" ],
+			[ "imprimemos" ],
+			[ "impriméis", "imprimen" ],
+			[ "imprimen" ]
+		],
+		"9" : [
+			[ "imprimara" ],
+			[ "imprimaras" ],
+			[ "imprimara" ],
+			[ "imprimáramos" ],
+			[ "imprimarais", "imprimaran" ],
+			[ "imprimaran" ]
+		],
+		"10" : [
+			[ "imprimase" ],
+			[ "imprimases" ],
+			[ "imprimase" ],
+			[ "imprimásemos" ],
+			[ "imprimaseis", "imprimasen" ],
+			[ "imprimasen" ]
+		],
+		"11" : [
+			[ "imprimare" ],
+			[ "imprimares" ],
+			[ "imprimare" ],
+			[ "imprimáremos" ],
+			[ "imprimareis", "imprimaren" ],
+			[ "imprimaren" ]
+		],
+		"12" : {
+			"1" : [ "imprima" ],
+			"2" : [ "imprime" ],
+			"3" : [ "imprimemos" ],
+			"4" : [ "imprimad" ],
+			"5" : [ "imprimen" ]
+		}
+	}
+}

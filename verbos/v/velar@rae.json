@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=velar",
+	"word" : "velar",
+	"infinitivo" : "velar",
+	"participio" : [ "velado" ],
+	"gerundio" : [ "velando" ],
+	"tenses" : {
+		"3" : [
+			[ "velo" ],
+			[ "velas", "velás" ],
+			[ "vela" ],
+			[ "velamos" ],
+			[ "veláis", "velan" ],
+			[ "velan" ]
+		],
+		"4" : [
+			[ "velé" ],
+			[ "velaste" ],
+			[ "veló" ],
+			[ "velamos" ],
+			[ "velasteis", "velaron" ],
+			[ "velaron" ]
+		],
+		"5" : [
+			[ "velaba" ],
+			[ "velabas" ],
+			[ "velaba" ],
+			[ "velábamos" ],
+			[ "velabais", "velaban" ],
+			[ "velaban" ]
+		],
+		"6" : [
+			[ "velaría" ],
+			[ "velarías" ],
+			[ "velaría" ],
+			[ "velaríamos" ],
+			[ "velaríais", "velarían" ],
+			[ "velarían" ]
+		],
+		"7" : [
+			[ "velaré" ],
+			[ "velarás" ],
+			[ "velará" ],
+			[ "velaremos" ],
+			[ "velaréis", "velarán" ],
+			[ "velarán" ]
+		],
+		"8" : [
+			[ "vele" ],
+			[ "veles" ],
+			[ "vele" ],
+			[ "velemos" ],
+			[ "veléis", "velen" ],
+			[ "velen" ]
+		],
+		"9" : [
+			[ "velara" ],
+			[ "velaras" ],
+			[ "velara" ],
+			[ "veláramos" ],
+			[ "velarais", "velaran" ],
+			[ "velaran" ]
+		],
+		"10" : [
+			[ "velase" ],
+			[ "velases" ],
+			[ "velase" ],
+			[ "velásemos" ],
+			[ "velaseis", "velasen" ],
+			[ "velasen" ]
+		],
+		"11" : [
+			[ "velare" ],
+			[ "velares" ],
+			[ "velare" ],
+			[ "veláremos" ],
+			[ "velareis", "velaren" ],
+			[ "velaren" ]
+		],
+		"12" : {
+			"1" : [ "vela" ],
+			"2" : [ "vele" ],
+			"3" : [ "velemos" ],
+			"4" : [ "velad" ],
+			"5" : [ "velen" ]
+		}
+	}
+}

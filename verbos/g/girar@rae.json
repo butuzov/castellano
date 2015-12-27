@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=girar",
+	"word" : "girar",
+	"infinitivo" : "girar",
+	"participio" : [ "girado" ],
+	"gerundio" : [ "girando" ],
+	"tenses" : {
+		"3" : [
+			[ "giro" ],
+			[ "giras", "girás" ],
+			[ "gira" ],
+			[ "giramos" ],
+			[ "giráis", "giran" ],
+			[ "giran" ]
+		],
+		"4" : [
+			[ "giré" ],
+			[ "giraste" ],
+			[ "giró" ],
+			[ "giramos" ],
+			[ "girasteis", "giraron" ],
+			[ "giraron" ]
+		],
+		"5" : [
+			[ "giraba" ],
+			[ "girabas" ],
+			[ "giraba" ],
+			[ "girábamos" ],
+			[ "girabais", "giraban" ],
+			[ "giraban" ]
+		],
+		"6" : [
+			[ "giraría" ],
+			[ "girarías" ],
+			[ "giraría" ],
+			[ "giraríamos" ],
+			[ "giraríais", "girarían" ],
+			[ "girarían" ]
+		],
+		"7" : [
+			[ "giraré" ],
+			[ "girarás" ],
+			[ "girará" ],
+			[ "giraremos" ],
+			[ "giraréis", "girarán" ],
+			[ "girarán" ]
+		],
+		"8" : [
+			[ "gire" ],
+			[ "gires" ],
+			[ "gire" ],
+			[ "giremos" ],
+			[ "giréis", "giren" ],
+			[ "giren" ]
+		],
+		"9" : [
+			[ "girara" ],
+			[ "giraras" ],
+			[ "girara" ],
+			[ "giráramos" ],
+			[ "girarais", "giraran" ],
+			[ "giraran" ]
+		],
+		"10" : [
+			[ "girase" ],
+			[ "girases" ],
+			[ "girase" ],
+			[ "girásemos" ],
+			[ "giraseis", "girasen" ],
+			[ "girasen" ]
+		],
+		"11" : [
+			[ "girare" ],
+			[ "girares" ],
+			[ "girare" ],
+			[ "giráremos" ],
+			[ "girareis", "giraren" ],
+			[ "giraren" ]
+		],
+		"12" : {
+			"1" : [ "gira" ],
+			"2" : [ "gire" ],
+			"3" : [ "giremos" ],
+			"4" : [ "girad" ],
+			"5" : [ "giren" ]
+		}
+	}
+}

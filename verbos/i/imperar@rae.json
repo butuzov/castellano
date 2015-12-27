@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=imperar",
+	"word" : "imperar",
+	"infinitivo" : "imperar",
+	"participio" : [ "imperado" ],
+	"gerundio" : [ "imperando" ],
+	"tenses" : {
+		"3" : [
+			[ "impero" ],
+			[ "imperas", "imperás" ],
+			[ "impera" ],
+			[ "imperamos" ],
+			[ "imperáis", "imperan" ],
+			[ "imperan" ]
+		],
+		"4" : [
+			[ "imperé" ],
+			[ "imperaste" ],
+			[ "imperó" ],
+			[ "imperamos" ],
+			[ "imperasteis", "imperaron" ],
+			[ "imperaron" ]
+		],
+		"5" : [
+			[ "imperaba" ],
+			[ "imperabas" ],
+			[ "imperaba" ],
+			[ "imperábamos" ],
+			[ "imperabais", "imperaban" ],
+			[ "imperaban" ]
+		],
+		"6" : [
+			[ "imperaría" ],
+			[ "imperarías" ],
+			[ "imperaría" ],
+			[ "imperaríamos" ],
+			[ "imperaríais", "imperarían" ],
+			[ "imperarían" ]
+		],
+		"7" : [
+			[ "imperaré" ],
+			[ "imperarás" ],
+			[ "imperará" ],
+			[ "imperaremos" ],
+			[ "imperaréis", "imperarán" ],
+			[ "imperarán" ]
+		],
+		"8" : [
+			[ "impere" ],
+			[ "imperes" ],
+			[ "impere" ],
+			[ "imperemos" ],
+			[ "imperéis", "imperen" ],
+			[ "imperen" ]
+		],
+		"9" : [
+			[ "imperara" ],
+			[ "imperaras" ],
+			[ "imperara" ],
+			[ "imperáramos" ],
+			[ "imperarais", "imperaran" ],
+			[ "imperaran" ]
+		],
+		"10" : [
+			[ "imperase" ],
+			[ "imperases" ],
+			[ "imperase" ],
+			[ "imperásemos" ],
+			[ "imperaseis", "imperasen" ],
+			[ "imperasen" ]
+		],
+		"11" : [
+			[ "imperare" ],
+			[ "imperares" ],
+			[ "imperare" ],
+			[ "imperáremos" ],
+			[ "imperareis", "imperaren" ],
+			[ "imperaren" ]
+		],
+		"12" : {
+			"1" : [ "impera" ],
+			"2" : [ "impere" ],
+			"3" : [ "imperemos" ],
+			"4" : [ "imperad" ],
+			"5" : [ "imperen" ]
+		}
+	}
+}

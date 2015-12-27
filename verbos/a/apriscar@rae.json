@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apriscar",
+	"word" : "apriscar",
+	"infinitivo" : "apriscar",
+	"participio" : [ "apriscado" ],
+	"gerundio" : [ "apriscando" ],
+	"tenses" : {
+		"3" : [
+			[ "aprisco" ],
+			[ "apriscas", "apriscás" ],
+			[ "aprisca" ],
+			[ "apriscamos" ],
+			[ "apriscáis", "apriscan" ],
+			[ "apriscan" ]
+		],
+		"4" : [
+			[ "aprisqué" ],
+			[ "apriscaste" ],
+			[ "apriscó" ],
+			[ "apriscamos" ],
+			[ "apriscasteis", "apriscaron" ],
+			[ "apriscaron" ]
+		],
+		"5" : [
+			[ "apriscaba" ],
+			[ "apriscabas" ],
+			[ "apriscaba" ],
+			[ "apriscábamos" ],
+			[ "apriscabais", "apriscaban" ],
+			[ "apriscaban" ]
+		],
+		"6" : [
+			[ "apriscaría" ],
+			[ "apriscarías" ],
+			[ "apriscaría" ],
+			[ "apriscaríamos" ],
+			[ "apriscaríais", "apriscarían" ],
+			[ "apriscarían" ]
+		],
+		"7" : [
+			[ "apriscaré" ],
+			[ "apriscarás" ],
+			[ "apriscará" ],
+			[ "apriscaremos" ],
+			[ "apriscaréis", "apriscarán" ],
+			[ "apriscarán" ]
+		],
+		"8" : [
+			[ "aprisque" ],
+			[ "aprisques" ],
+			[ "aprisque" ],
+			[ "aprisquemos" ],
+			[ "aprisquéis", "aprisquen" ],
+			[ "aprisquen" ]
+		],
+		"9" : [
+			[ "apriscara" ],
+			[ "apriscaras" ],
+			[ "apriscara" ],
+			[ "apriscáramos" ],
+			[ "apriscarais", "apriscaran" ],
+			[ "apriscaran" ]
+		],
+		"10" : [
+			[ "apriscase" ],
+			[ "apriscases" ],
+			[ "apriscase" ],
+			[ "apriscásemos" ],
+			[ "apriscaseis", "apriscasen" ],
+			[ "apriscasen" ]
+		],
+		"11" : [
+			[ "apriscare" ],
+			[ "apriscares" ],
+			[ "apriscare" ],
+			[ "apriscáremos" ],
+			[ "apriscareis", "apriscaren" ],
+			[ "apriscaren" ]
+		],
+		"12" : {
+			"1" : [ "aprisca" ],
+			"2" : [ "aprisque" ],
+			"3" : [ "aprisquemos" ],
+			"4" : [ "apriscad" ],
+			"5" : [ "aprisquen" ]
+		}
+	}
+}

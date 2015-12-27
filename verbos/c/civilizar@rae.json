@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=civilizar",
+	"word" : "civilizar",
+	"infinitivo" : "civilizar",
+	"participio" : [ "civilizado" ],
+	"gerundio" : [ "civilizando" ],
+	"tenses" : {
+		"3" : [
+			[ "civilizo" ],
+			[ "civilizas", "civilizás" ],
+			[ "civiliza" ],
+			[ "civilizamos" ],
+			[ "civilizáis", "civilizan" ],
+			[ "civilizan" ]
+		],
+		"4" : [
+			[ "civilicé" ],
+			[ "civilizaste" ],
+			[ "civilizó" ],
+			[ "civilizamos" ],
+			[ "civilizasteis", "civilizaron" ],
+			[ "civilizaron" ]
+		],
+		"5" : [
+			[ "civilizaba" ],
+			[ "civilizabas" ],
+			[ "civilizaba" ],
+			[ "civilizábamos" ],
+			[ "civilizabais", "civilizaban" ],
+			[ "civilizaban" ]
+		],
+		"6" : [
+			[ "civilizaría" ],
+			[ "civilizarías" ],
+			[ "civilizaría" ],
+			[ "civilizaríamos" ],
+			[ "civilizaríais", "civilizarían" ],
+			[ "civilizarían" ]
+		],
+		"7" : [
+			[ "civilizaré" ],
+			[ "civilizarás" ],
+			[ "civilizará" ],
+			[ "civilizaremos" ],
+			[ "civilizaréis", "civilizarán" ],
+			[ "civilizarán" ]
+		],
+		"8" : [
+			[ "civilice" ],
+			[ "civilices" ],
+			[ "civilice" ],
+			[ "civilicemos" ],
+			[ "civilicéis", "civilicen" ],
+			[ "civilicen" ]
+		],
+		"9" : [
+			[ "civilizara" ],
+			[ "civilizaras" ],
+			[ "civilizara" ],
+			[ "civilizáramos" ],
+			[ "civilizarais", "civilizaran" ],
+			[ "civilizaran" ]
+		],
+		"10" : [
+			[ "civilizase" ],
+			[ "civilizases" ],
+			[ "civilizase" ],
+			[ "civilizásemos" ],
+			[ "civilizaseis", "civilizasen" ],
+			[ "civilizasen" ]
+		],
+		"11" : [
+			[ "civilizare" ],
+			[ "civilizares" ],
+			[ "civilizare" ],
+			[ "civilizáremos" ],
+			[ "civilizareis", "civilizaren" ],
+			[ "civilizaren" ]
+		],
+		"12" : {
+			"1" : [ "civiliza" ],
+			"2" : [ "civilice" ],
+			"3" : [ "civilicemos" ],
+			"4" : [ "civilizad" ],
+			"5" : [ "civilicen" ]
+		}
+	}
+}

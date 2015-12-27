@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=redecir",
+	"word" : "redecir",
+	"infinitivo" : "redecir",
+	"participio" : [ "redicho" ],
+	"gerundio" : [ "rediciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "redigo" ],
+			[ "redices", "redecís" ],
+			[ "redice" ],
+			[ "redecimos" ],
+			[ "redecís", "redicen" ],
+			[ "redicen" ]
+		],
+		"4" : [
+			[ "redije" ],
+			[ "redijiste" ],
+			[ "redijo" ],
+			[ "redijimos" ],
+			[ "redijisteis", "redijeron" ],
+			[ "redijeron" ]
+		],
+		"5" : [
+			[ "redecía" ],
+			[ "redecías" ],
+			[ "redecía" ],
+			[ "redecíamos" ],
+			[ "redecíais", "redecían" ],
+			[ "redecían" ]
+		],
+		"6" : [
+			[ "rediría" ],
+			[ "redirías" ],
+			[ "rediría" ],
+			[ "rediríamos" ],
+			[ "rediríais", "redirían" ],
+			[ "redirían" ]
+		],
+		"7" : [
+			[ "rediré" ],
+			[ "redirás" ],
+			[ "redirá" ],
+			[ "rediremos" ],
+			[ "rediréis", "redirán" ],
+			[ "redirán" ]
+		],
+		"8" : [
+			[ "rediga" ],
+			[ "redigas" ],
+			[ "rediga" ],
+			[ "redigamos" ],
+			[ "redigáis", "redigan" ],
+			[ "redigan" ]
+		],
+		"9" : [
+			[ "redijera" ],
+			[ "redijeras" ],
+			[ "redijera" ],
+			[ "redijéramos" ],
+			[ "redijerais", "redijeran" ],
+			[ "redijeran" ]
+		],
+		"10" : [
+			[ "redijese" ],
+			[ "redijeses" ],
+			[ "redijese" ],
+			[ "redijésemos" ],
+			[ "redijeseis", "redijesen" ],
+			[ "redijesen" ]
+		],
+		"11" : [
+			[ "redijere" ],
+			[ "redijeres" ],
+			[ "redijere" ],
+			[ "redijéremos" ],
+			[ "redijereis", "redijeren" ],
+			[ "redijeren" ]
+		],
+		"12" : {
+			"1" : [ "redice" ],
+			"2" : [ "rediga" ],
+			"3" : [ "redigamos" ],
+			"4" : [ "redecid" ],
+			"5" : [ "redigan" ]
+		}
+	}
+}

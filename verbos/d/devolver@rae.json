@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=devolver",
+	"word" : "devolver",
+	"infinitivo" : "devolver",
+	"participio" : [ "devuelto" ],
+	"gerundio" : [ "devolviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "devuelvo" ],
+			[ "devuelves", "devolvés" ],
+			[ "devuelve" ],
+			[ "devolvemos" ],
+			[ "devolvéis", "devuelven" ],
+			[ "devuelven" ]
+		],
+		"4" : [
+			[ "devolví" ],
+			[ "devolviste" ],
+			[ "devolvió" ],
+			[ "devolvimos" ],
+			[ "devolvisteis", "devolvieron" ],
+			[ "devolvieron" ]
+		],
+		"5" : [
+			[ "devolvía" ],
+			[ "devolvías" ],
+			[ "devolvía" ],
+			[ "devolvíamos" ],
+			[ "devolvíais", "devolvían" ],
+			[ "devolvían" ]
+		],
+		"6" : [
+			[ "devolvería" ],
+			[ "devolverías" ],
+			[ "devolvería" ],
+			[ "devolveríamos" ],
+			[ "devolveríais", "devolverían" ],
+			[ "devolverían" ]
+		],
+		"7" : [
+			[ "devolveré" ],
+			[ "devolverás" ],
+			[ "devolverá" ],
+			[ "devolveremos" ],
+			[ "devolveréis", "devolverán" ],
+			[ "devolverán" ]
+		],
+		"8" : [
+			[ "devuelva" ],
+			[ "devuelvas" ],
+			[ "devuelva" ],
+			[ "devolvamos" ],
+			[ "devolváis", "devuelvan" ],
+			[ "devuelvan" ]
+		],
+		"9" : [
+			[ "devolviera" ],
+			[ "devolvieras" ],
+			[ "devolviera" ],
+			[ "devolviéramos" ],
+			[ "devolvierais", "devolvieran" ],
+			[ "devolvieran" ]
+		],
+		"10" : [
+			[ "devolviese" ],
+			[ "devolvieses" ],
+			[ "devolviese" ],
+			[ "devolviésemos" ],
+			[ "devolvieseis", "devolviesen" ],
+			[ "devolviesen" ]
+		],
+		"11" : [
+			[ "devolviere" ],
+			[ "devolvieres" ],
+			[ "devolviere" ],
+			[ "devolviéremos" ],
+			[ "devolviereis", "devolvieren" ],
+			[ "devolvieren" ]
+		],
+		"12" : {
+			"1" : [ "devuelve" ],
+			"2" : [ "devuelva" ],
+			"3" : [ "devolvamos" ],
+			"4" : [ "devolved" ],
+			"5" : [ "devuelvan" ]
+		}
+	}
+}

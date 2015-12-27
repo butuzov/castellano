@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=divorciar",
+	"word" : "divorciar",
+	"infinitivo" : "divorciar",
+	"participio" : [ "divorciado" ],
+	"gerundio" : [ "divorciando" ],
+	"tenses" : {
+		"3" : [
+			[ "divorcio" ],
+			[ "divorcias", "divorciás" ],
+			[ "divorcia" ],
+			[ "divorciamos" ],
+			[ "divorciáis", "divorcian" ],
+			[ "divorcian" ]
+		],
+		"4" : [
+			[ "divorcié" ],
+			[ "divorciaste" ],
+			[ "divorció" ],
+			[ "divorciamos" ],
+			[ "divorciasteis", "divorciaron" ],
+			[ "divorciaron" ]
+		],
+		"5" : [
+			[ "divorciaba" ],
+			[ "divorciabas" ],
+			[ "divorciaba" ],
+			[ "divorciábamos" ],
+			[ "divorciabais", "divorciaban" ],
+			[ "divorciaban" ]
+		],
+		"6" : [
+			[ "divorciaría" ],
+			[ "divorciarías" ],
+			[ "divorciaría" ],
+			[ "divorciaríamos" ],
+			[ "divorciaríais", "divorciarían" ],
+			[ "divorciarían" ]
+		],
+		"7" : [
+			[ "divorciaré" ],
+			[ "divorciarás" ],
+			[ "divorciará" ],
+			[ "divorciaremos" ],
+			[ "divorciaréis", "divorciarán" ],
+			[ "divorciarán" ]
+		],
+		"8" : [
+			[ "divorcie" ],
+			[ "divorcies" ],
+			[ "divorcie" ],
+			[ "divorciemos" ],
+			[ "divorciéis", "divorcien" ],
+			[ "divorcien" ]
+		],
+		"9" : [
+			[ "divorciara" ],
+			[ "divorciaras" ],
+			[ "divorciara" ],
+			[ "divorciáramos" ],
+			[ "divorciarais", "divorciaran" ],
+			[ "divorciaran" ]
+		],
+		"10" : [
+			[ "divorciase" ],
+			[ "divorciases" ],
+			[ "divorciase" ],
+			[ "divorciásemos" ],
+			[ "divorciaseis", "divorciasen" ],
+			[ "divorciasen" ]
+		],
+		"11" : [
+			[ "divorciare" ],
+			[ "divorciares" ],
+			[ "divorciare" ],
+			[ "divorciáremos" ],
+			[ "divorciareis", "divorciaren" ],
+			[ "divorciaren" ]
+		],
+		"12" : {
+			"1" : [ "divorcia" ],
+			"2" : [ "divorcie" ],
+			"3" : [ "divorciemos" ],
+			"4" : [ "divorciad" ],
+			"5" : [ "divorcien" ]
+		}
+	}
+}

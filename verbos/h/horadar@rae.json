@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=horadar",
+	"word" : "horadar",
+	"infinitivo" : "horadar",
+	"participio" : [ "horadado" ],
+	"gerundio" : [ "horadando" ],
+	"tenses" : {
+		"3" : [
+			[ "horado" ],
+			[ "horadas", "horadás" ],
+			[ "horada" ],
+			[ "horadamos" ],
+			[ "horadáis", "horadan" ],
+			[ "horadan" ]
+		],
+		"4" : [
+			[ "horadé" ],
+			[ "horadaste" ],
+			[ "horadó" ],
+			[ "horadamos" ],
+			[ "horadasteis", "horadaron" ],
+			[ "horadaron" ]
+		],
+		"5" : [
+			[ "horadaba" ],
+			[ "horadabas" ],
+			[ "horadaba" ],
+			[ "horadábamos" ],
+			[ "horadabais", "horadaban" ],
+			[ "horadaban" ]
+		],
+		"6" : [
+			[ "horadaría" ],
+			[ "horadarías" ],
+			[ "horadaría" ],
+			[ "horadaríamos" ],
+			[ "horadaríais", "horadarían" ],
+			[ "horadarían" ]
+		],
+		"7" : [
+			[ "horadaré" ],
+			[ "horadarás" ],
+			[ "horadará" ],
+			[ "horadaremos" ],
+			[ "horadaréis", "horadarán" ],
+			[ "horadarán" ]
+		],
+		"8" : [
+			[ "horade" ],
+			[ "horades" ],
+			[ "horade" ],
+			[ "horademos" ],
+			[ "horadéis", "horaden" ],
+			[ "horaden" ]
+		],
+		"9" : [
+			[ "horadara" ],
+			[ "horadaras" ],
+			[ "horadara" ],
+			[ "horadáramos" ],
+			[ "horadarais", "horadaran" ],
+			[ "horadaran" ]
+		],
+		"10" : [
+			[ "horadase" ],
+			[ "horadases" ],
+			[ "horadase" ],
+			[ "horadásemos" ],
+			[ "horadaseis", "horadasen" ],
+			[ "horadasen" ]
+		],
+		"11" : [
+			[ "horadare" ],
+			[ "horadares" ],
+			[ "horadare" ],
+			[ "horadáremos" ],
+			[ "horadareis", "horadaren" ],
+			[ "horadaren" ]
+		],
+		"12" : {
+			"1" : [ "horada" ],
+			"2" : [ "horade" ],
+			"3" : [ "horademos" ],
+			"4" : [ "horadad" ],
+			"5" : [ "horaden" ]
+		}
+	}
+}

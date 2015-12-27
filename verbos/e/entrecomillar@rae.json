@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entrecomillar",
+	"word" : "entrecomillar",
+	"infinitivo" : "entrecomillar",
+	"participio" : [ "entrecomillado" ],
+	"gerundio" : [ "entrecomillando" ],
+	"tenses" : {
+		"3" : [
+			[ "entrecomillo" ],
+			[ "entrecomillas", "entrecomillás" ],
+			[ "entrecomilla" ],
+			[ "entrecomillamos" ],
+			[ "entrecomilláis", "entrecomillan" ],
+			[ "entrecomillan" ]
+		],
+		"4" : [
+			[ "entrecomillé" ],
+			[ "entrecomillaste" ],
+			[ "entrecomilló" ],
+			[ "entrecomillamos" ],
+			[ "entrecomillasteis", "entrecomillaron" ],
+			[ "entrecomillaron" ]
+		],
+		"5" : [
+			[ "entrecomillaba" ],
+			[ "entrecomillabas" ],
+			[ "entrecomillaba" ],
+			[ "entrecomillábamos" ],
+			[ "entrecomillabais", "entrecomillaban" ],
+			[ "entrecomillaban" ]
+		],
+		"6" : [
+			[ "entrecomillaría" ],
+			[ "entrecomillarías" ],
+			[ "entrecomillaría" ],
+			[ "entrecomillaríamos" ],
+			[ "entrecomillaríais", "entrecomillarían" ],
+			[ "entrecomillarían" ]
+		],
+		"7" : [
+			[ "entrecomillaré" ],
+			[ "entrecomillarás" ],
+			[ "entrecomillará" ],
+			[ "entrecomillaremos" ],
+			[ "entrecomillaréis", "entrecomillarán" ],
+			[ "entrecomillarán" ]
+		],
+		"8" : [
+			[ "entrecomille" ],
+			[ "entrecomilles" ],
+			[ "entrecomille" ],
+			[ "entrecomillemos" ],
+			[ "entrecomilléis", "entrecomillen" ],
+			[ "entrecomillen" ]
+		],
+		"9" : [
+			[ "entrecomillara" ],
+			[ "entrecomillaras" ],
+			[ "entrecomillara" ],
+			[ "entrecomilláramos" ],
+			[ "entrecomillarais", "entrecomillaran" ],
+			[ "entrecomillaran" ]
+		],
+		"10" : [
+			[ "entrecomillase" ],
+			[ "entrecomillases" ],
+			[ "entrecomillase" ],
+			[ "entrecomillásemos" ],
+			[ "entrecomillaseis", "entrecomillasen" ],
+			[ "entrecomillasen" ]
+		],
+		"11" : [
+			[ "entrecomillare" ],
+			[ "entrecomillares" ],
+			[ "entrecomillare" ],
+			[ "entrecomilláremos" ],
+			[ "entrecomillareis", "entrecomillaren" ],
+			[ "entrecomillaren" ]
+		],
+		"12" : {
+			"1" : [ "entrecomilla" ],
+			"2" : [ "entrecomille" ],
+			"3" : [ "entrecomillemos" ],
+			"4" : [ "entrecomillad" ],
+			"5" : [ "entrecomillen" ]
+		}
+	}
+}

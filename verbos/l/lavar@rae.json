@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lavar",
+	"word" : "lavar",
+	"infinitivo" : "lavar",
+	"participio" : [ "lavado" ],
+	"gerundio" : [ "lavando" ],
+	"tenses" : {
+		"3" : [
+			[ "lavo" ],
+			[ "lavas", "lavás" ],
+			[ "lava" ],
+			[ "lavamos" ],
+			[ "laváis", "lavan" ],
+			[ "lavan" ]
+		],
+		"4" : [
+			[ "lavé" ],
+			[ "lavaste" ],
+			[ "lavó" ],
+			[ "lavamos" ],
+			[ "lavasteis", "lavaron" ],
+			[ "lavaron" ]
+		],
+		"5" : [
+			[ "lavaba" ],
+			[ "lavabas" ],
+			[ "lavaba" ],
+			[ "lavábamos" ],
+			[ "lavabais", "lavaban" ],
+			[ "lavaban" ]
+		],
+		"6" : [
+			[ "lavaría" ],
+			[ "lavarías" ],
+			[ "lavaría" ],
+			[ "lavaríamos" ],
+			[ "lavaríais", "lavarían" ],
+			[ "lavarían" ]
+		],
+		"7" : [
+			[ "lavaré" ],
+			[ "lavarás" ],
+			[ "lavará" ],
+			[ "lavaremos" ],
+			[ "lavaréis", "lavarán" ],
+			[ "lavarán" ]
+		],
+		"8" : [
+			[ "lave" ],
+			[ "laves" ],
+			[ "lave" ],
+			[ "lavemos" ],
+			[ "lavéis", "laven" ],
+			[ "laven" ]
+		],
+		"9" : [
+			[ "lavara" ],
+			[ "lavaras" ],
+			[ "lavara" ],
+			[ "laváramos" ],
+			[ "lavarais", "lavaran" ],
+			[ "lavaran" ]
+		],
+		"10" : [
+			[ "lavase" ],
+			[ "lavases" ],
+			[ "lavase" ],
+			[ "lavásemos" ],
+			[ "lavaseis", "lavasen" ],
+			[ "lavasen" ]
+		],
+		"11" : [
+			[ "lavare" ],
+			[ "lavares" ],
+			[ "lavare" ],
+			[ "laváremos" ],
+			[ "lavareis", "lavaren" ],
+			[ "lavaren" ]
+		],
+		"12" : {
+			"1" : [ "lava" ],
+			"2" : [ "lave" ],
+			"3" : [ "lavemos" ],
+			"4" : [ "lavad" ],
+			"5" : [ "laven" ]
+		}
+	}
+}

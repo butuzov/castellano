@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=oxigenar",
+	"word" : "oxigenar",
+	"infinitivo" : "oxigenar",
+	"participio" : [ "oxigenado" ],
+	"gerundio" : [ "oxigenando" ],
+	"tenses" : {
+		"3" : [
+			[ "oxigeno" ],
+			[ "oxigenas", "oxigenás" ],
+			[ "oxigena" ],
+			[ "oxigenamos" ],
+			[ "oxigenáis", "oxigenan" ],
+			[ "oxigenan" ]
+		],
+		"4" : [
+			[ "oxigené" ],
+			[ "oxigenaste" ],
+			[ "oxigenó" ],
+			[ "oxigenamos" ],
+			[ "oxigenasteis", "oxigenaron" ],
+			[ "oxigenaron" ]
+		],
+		"5" : [
+			[ "oxigenaba" ],
+			[ "oxigenabas" ],
+			[ "oxigenaba" ],
+			[ "oxigenábamos" ],
+			[ "oxigenabais", "oxigenaban" ],
+			[ "oxigenaban" ]
+		],
+		"6" : [
+			[ "oxigenaría" ],
+			[ "oxigenarías" ],
+			[ "oxigenaría" ],
+			[ "oxigenaríamos" ],
+			[ "oxigenaríais", "oxigenarían" ],
+			[ "oxigenarían" ]
+		],
+		"7" : [
+			[ "oxigenaré" ],
+			[ "oxigenarás" ],
+			[ "oxigenará" ],
+			[ "oxigenaremos" ],
+			[ "oxigenaréis", "oxigenarán" ],
+			[ "oxigenarán" ]
+		],
+		"8" : [
+			[ "oxigene" ],
+			[ "oxigenes" ],
+			[ "oxigene" ],
+			[ "oxigenemos" ],
+			[ "oxigenéis", "oxigenen" ],
+			[ "oxigenen" ]
+		],
+		"9" : [
+			[ "oxigenara" ],
+			[ "oxigenaras" ],
+			[ "oxigenara" ],
+			[ "oxigenáramos" ],
+			[ "oxigenarais", "oxigenaran" ],
+			[ "oxigenaran" ]
+		],
+		"10" : [
+			[ "oxigenase" ],
+			[ "oxigenases" ],
+			[ "oxigenase" ],
+			[ "oxigenásemos" ],
+			[ "oxigenaseis", "oxigenasen" ],
+			[ "oxigenasen" ]
+		],
+		"11" : [
+			[ "oxigenare" ],
+			[ "oxigenares" ],
+			[ "oxigenare" ],
+			[ "oxigenáremos" ],
+			[ "oxigenareis", "oxigenaren" ],
+			[ "oxigenaren" ]
+		],
+		"12" : {
+			"1" : [ "oxigena" ],
+			"2" : [ "oxigene" ],
+			"3" : [ "oxigenemos" ],
+			"4" : [ "oxigenad" ],
+			"5" : [ "oxigenen" ]
+		}
+	}
+}

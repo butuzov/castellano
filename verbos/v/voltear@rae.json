@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=voltear",
+	"word" : "voltear",
+	"infinitivo" : "voltear",
+	"participio" : [ "volteado" ],
+	"gerundio" : [ "volteando" ],
+	"tenses" : {
+		"3" : [
+			[ "volteo" ],
+			[ "volteas", "volteás" ],
+			[ "voltea" ],
+			[ "volteamos" ],
+			[ "volteáis", "voltean" ],
+			[ "voltean" ]
+		],
+		"4" : [
+			[ "volteé" ],
+			[ "volteaste" ],
+			[ "volteó" ],
+			[ "volteamos" ],
+			[ "volteasteis", "voltearon" ],
+			[ "voltearon" ]
+		],
+		"5" : [
+			[ "volteaba" ],
+			[ "volteabas" ],
+			[ "volteaba" ],
+			[ "volteábamos" ],
+			[ "volteabais", "volteaban" ],
+			[ "volteaban" ]
+		],
+		"6" : [
+			[ "voltearía" ],
+			[ "voltearías" ],
+			[ "voltearía" ],
+			[ "voltearíamos" ],
+			[ "voltearíais", "voltearían" ],
+			[ "voltearían" ]
+		],
+		"7" : [
+			[ "voltearé" ],
+			[ "voltearás" ],
+			[ "volteará" ],
+			[ "voltearemos" ],
+			[ "voltearéis", "voltearán" ],
+			[ "voltearán" ]
+		],
+		"8" : [
+			[ "voltee" ],
+			[ "voltees" ],
+			[ "voltee" ],
+			[ "volteemos" ],
+			[ "volteéis", "volteen" ],
+			[ "volteen" ]
+		],
+		"9" : [
+			[ "volteara" ],
+			[ "voltearas" ],
+			[ "volteara" ],
+			[ "volteáramos" ],
+			[ "voltearais", "voltearan" ],
+			[ "voltearan" ]
+		],
+		"10" : [
+			[ "voltease" ],
+			[ "volteases" ],
+			[ "voltease" ],
+			[ "volteásemos" ],
+			[ "volteaseis", "volteasen" ],
+			[ "volteasen" ]
+		],
+		"11" : [
+			[ "volteare" ],
+			[ "volteares" ],
+			[ "volteare" ],
+			[ "volteáremos" ],
+			[ "volteareis", "voltearen" ],
+			[ "voltearen" ]
+		],
+		"12" : {
+			"1" : [ "voltea" ],
+			"2" : [ "voltee" ],
+			"3" : [ "volteemos" ],
+			"4" : [ "voltead" ],
+			"5" : [ "volteen" ]
+		}
+	}
+}

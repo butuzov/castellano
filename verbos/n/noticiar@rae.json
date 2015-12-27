@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=noticiar",
+	"word" : "noticiar",
+	"infinitivo" : "noticiar",
+	"participio" : [ "noticiado" ],
+	"gerundio" : [ "noticiando" ],
+	"tenses" : {
+		"3" : [
+			[ "noticio" ],
+			[ "noticias", "noticiás" ],
+			[ "noticia" ],
+			[ "noticiamos" ],
+			[ "noticiáis", "notician" ],
+			[ "notician" ]
+		],
+		"4" : [
+			[ "noticié" ],
+			[ "noticiaste" ],
+			[ "notició" ],
+			[ "noticiamos" ],
+			[ "noticiasteis", "noticiaron" ],
+			[ "noticiaron" ]
+		],
+		"5" : [
+			[ "noticiaba" ],
+			[ "noticiabas" ],
+			[ "noticiaba" ],
+			[ "noticiábamos" ],
+			[ "noticiabais", "noticiaban" ],
+			[ "noticiaban" ]
+		],
+		"6" : [
+			[ "noticiaría" ],
+			[ "noticiarías" ],
+			[ "noticiaría" ],
+			[ "noticiaríamos" ],
+			[ "noticiaríais", "noticiarían" ],
+			[ "noticiarían" ]
+		],
+		"7" : [
+			[ "noticiaré" ],
+			[ "noticiarás" ],
+			[ "noticiará" ],
+			[ "noticiaremos" ],
+			[ "noticiaréis", "noticiarán" ],
+			[ "noticiarán" ]
+		],
+		"8" : [
+			[ "noticie" ],
+			[ "noticies" ],
+			[ "noticie" ],
+			[ "noticiemos" ],
+			[ "noticiéis", "noticien" ],
+			[ "noticien" ]
+		],
+		"9" : [
+			[ "noticiara" ],
+			[ "noticiaras" ],
+			[ "noticiara" ],
+			[ "noticiáramos" ],
+			[ "noticiarais", "noticiaran" ],
+			[ "noticiaran" ]
+		],
+		"10" : [
+			[ "noticiase" ],
+			[ "noticiases" ],
+			[ "noticiase" ],
+			[ "noticiásemos" ],
+			[ "noticiaseis", "noticiasen" ],
+			[ "noticiasen" ]
+		],
+		"11" : [
+			[ "noticiare" ],
+			[ "noticiares" ],
+			[ "noticiare" ],
+			[ "noticiáremos" ],
+			[ "noticiareis", "noticiaren" ],
+			[ "noticiaren" ]
+		],
+		"12" : {
+			"1" : [ "noticia" ],
+			"2" : [ "noticie" ],
+			"3" : [ "noticiemos" ],
+			"4" : [ "noticiad" ],
+			"5" : [ "noticien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encumbrar",
+	"word" : "encumbrar",
+	"infinitivo" : "encumbrar",
+	"participio" : [ "encumbrado" ],
+	"gerundio" : [ "encumbrando" ],
+	"tenses" : {
+		"3" : [
+			[ "encumbro" ],
+			[ "encumbras", "encumbrás" ],
+			[ "encumbra" ],
+			[ "encumbramos" ],
+			[ "encumbráis", "encumbran" ],
+			[ "encumbran" ]
+		],
+		"4" : [
+			[ "encumbré" ],
+			[ "encumbraste" ],
+			[ "encumbró" ],
+			[ "encumbramos" ],
+			[ "encumbrasteis", "encumbraron" ],
+			[ "encumbraron" ]
+		],
+		"5" : [
+			[ "encumbraba" ],
+			[ "encumbrabas" ],
+			[ "encumbraba" ],
+			[ "encumbrábamos" ],
+			[ "encumbrabais", "encumbraban" ],
+			[ "encumbraban" ]
+		],
+		"6" : [
+			[ "encumbraría" ],
+			[ "encumbrarías" ],
+			[ "encumbraría" ],
+			[ "encumbraríamos" ],
+			[ "encumbraríais", "encumbrarían" ],
+			[ "encumbrarían" ]
+		],
+		"7" : [
+			[ "encumbraré" ],
+			[ "encumbrarás" ],
+			[ "encumbrará" ],
+			[ "encumbraremos" ],
+			[ "encumbraréis", "encumbrarán" ],
+			[ "encumbrarán" ]
+		],
+		"8" : [
+			[ "encumbre" ],
+			[ "encumbres" ],
+			[ "encumbre" ],
+			[ "encumbremos" ],
+			[ "encumbréis", "encumbren" ],
+			[ "encumbren" ]
+		],
+		"9" : [
+			[ "encumbrara" ],
+			[ "encumbraras" ],
+			[ "encumbrara" ],
+			[ "encumbráramos" ],
+			[ "encumbrarais", "encumbraran" ],
+			[ "encumbraran" ]
+		],
+		"10" : [
+			[ "encumbrase" ],
+			[ "encumbrases" ],
+			[ "encumbrase" ],
+			[ "encumbrásemos" ],
+			[ "encumbraseis", "encumbrasen" ],
+			[ "encumbrasen" ]
+		],
+		"11" : [
+			[ "encumbrare" ],
+			[ "encumbrares" ],
+			[ "encumbrare" ],
+			[ "encumbráremos" ],
+			[ "encumbrareis", "encumbraren" ],
+			[ "encumbraren" ]
+		],
+		"12" : {
+			"1" : [ "encumbra" ],
+			"2" : [ "encumbre" ],
+			"3" : [ "encumbremos" ],
+			"4" : [ "encumbrad" ],
+			"5" : [ "encumbren" ]
+		}
+	}
+}

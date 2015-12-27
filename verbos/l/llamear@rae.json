@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=llamear",
+	"word" : "llamear",
+	"infinitivo" : "llamear",
+	"participio" : [ "llameado" ],
+	"gerundio" : [ "llameando" ],
+	"tenses" : {
+		"3" : [
+			[ "llameo" ],
+			[ "llameas", "llameás" ],
+			[ "llamea" ],
+			[ "llameamos" ],
+			[ "llameáis", "llamean" ],
+			[ "llamean" ]
+		],
+		"4" : [
+			[ "llameé" ],
+			[ "llameaste" ],
+			[ "llameó" ],
+			[ "llameamos" ],
+			[ "llameasteis", "llamearon" ],
+			[ "llamearon" ]
+		],
+		"5" : [
+			[ "llameaba" ],
+			[ "llameabas" ],
+			[ "llameaba" ],
+			[ "llameábamos" ],
+			[ "llameabais", "llameaban" ],
+			[ "llameaban" ]
+		],
+		"6" : [
+			[ "llamearía" ],
+			[ "llamearías" ],
+			[ "llamearía" ],
+			[ "llamearíamos" ],
+			[ "llamearíais", "llamearían" ],
+			[ "llamearían" ]
+		],
+		"7" : [
+			[ "llamearé" ],
+			[ "llamearás" ],
+			[ "llameará" ],
+			[ "llamearemos" ],
+			[ "llamearéis", "llamearán" ],
+			[ "llamearán" ]
+		],
+		"8" : [
+			[ "llamee" ],
+			[ "llamees" ],
+			[ "llamee" ],
+			[ "llameemos" ],
+			[ "llameéis", "llameen" ],
+			[ "llameen" ]
+		],
+		"9" : [
+			[ "llameara" ],
+			[ "llamearas" ],
+			[ "llameara" ],
+			[ "llameáramos" ],
+			[ "llamearais", "llamearan" ],
+			[ "llamearan" ]
+		],
+		"10" : [
+			[ "llamease" ],
+			[ "llameases" ],
+			[ "llamease" ],
+			[ "llameásemos" ],
+			[ "llameaseis", "llameasen" ],
+			[ "llameasen" ]
+		],
+		"11" : [
+			[ "llameare" ],
+			[ "llameares" ],
+			[ "llameare" ],
+			[ "llameáremos" ],
+			[ "llameareis", "llamearen" ],
+			[ "llamearen" ]
+		],
+		"12" : {
+			"1" : [ "llamea" ],
+			"2" : [ "llamee" ],
+			"3" : [ "llameemos" ],
+			"4" : [ "llamead" ],
+			"5" : [ "llameen" ]
+		}
+	}
+}

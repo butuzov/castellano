@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prodigar",
+	"word" : "prodigar",
+	"infinitivo" : "prodigar",
+	"participio" : [ "prodigado" ],
+	"gerundio" : [ "prodigando" ],
+	"tenses" : {
+		"3" : [
+			[ "prodigo" ],
+			[ "prodigas", "prodigás" ],
+			[ "prodiga" ],
+			[ "prodigamos" ],
+			[ "prodigáis", "prodigan" ],
+			[ "prodigan" ]
+		],
+		"4" : [
+			[ "prodigué" ],
+			[ "prodigaste" ],
+			[ "prodigó" ],
+			[ "prodigamos" ],
+			[ "prodigasteis", "prodigaron" ],
+			[ "prodigaron" ]
+		],
+		"5" : [
+			[ "prodigaba" ],
+			[ "prodigabas" ],
+			[ "prodigaba" ],
+			[ "prodigábamos" ],
+			[ "prodigabais", "prodigaban" ],
+			[ "prodigaban" ]
+		],
+		"6" : [
+			[ "prodigaría" ],
+			[ "prodigarías" ],
+			[ "prodigaría" ],
+			[ "prodigaríamos" ],
+			[ "prodigaríais", "prodigarían" ],
+			[ "prodigarían" ]
+		],
+		"7" : [
+			[ "prodigaré" ],
+			[ "prodigarás" ],
+			[ "prodigará" ],
+			[ "prodigaremos" ],
+			[ "prodigaréis", "prodigarán" ],
+			[ "prodigarán" ]
+		],
+		"8" : [
+			[ "prodigue" ],
+			[ "prodigues" ],
+			[ "prodigue" ],
+			[ "prodiguemos" ],
+			[ "prodiguéis", "prodiguen" ],
+			[ "prodiguen" ]
+		],
+		"9" : [
+			[ "prodigara" ],
+			[ "prodigaras" ],
+			[ "prodigara" ],
+			[ "prodigáramos" ],
+			[ "prodigarais", "prodigaran" ],
+			[ "prodigaran" ]
+		],
+		"10" : [
+			[ "prodigase" ],
+			[ "prodigases" ],
+			[ "prodigase" ],
+			[ "prodigásemos" ],
+			[ "prodigaseis", "prodigasen" ],
+			[ "prodigasen" ]
+		],
+		"11" : [
+			[ "prodigare" ],
+			[ "prodigares" ],
+			[ "prodigare" ],
+			[ "prodigáremos" ],
+			[ "prodigareis", "prodigaren" ],
+			[ "prodigaren" ]
+		],
+		"12" : {
+			"1" : [ "prodiga" ],
+			"2" : [ "prodigue" ],
+			"3" : [ "prodiguemos" ],
+			"4" : [ "prodigad" ],
+			"5" : [ "prodiguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bendecir",
+	"word" : "bendecir",
+	"infinitivo" : "bendecir",
+	"participio" : [ "bendecido", "bendito" ],
+	"gerundio" : [ "bendiciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "bendigo" ],
+			[ "bendices", "bendecís" ],
+			[ "bendice" ],
+			[ "bendecimos" ],
+			[ "bendecís", "bendicen" ],
+			[ "bendicen" ]
+		],
+		"4" : [
+			[ "bendije" ],
+			[ "bendijiste" ],
+			[ "bendijo" ],
+			[ "bendijimos" ],
+			[ "bendijisteis", "bendijeron" ],
+			[ "bendijeron" ]
+		],
+		"5" : [
+			[ "bendecía" ],
+			[ "bendecías" ],
+			[ "bendecía" ],
+			[ "bendecíamos" ],
+			[ "bendecíais", "bendecían" ],
+			[ "bendecían" ]
+		],
+		"6" : [
+			[ "bendeciría" ],
+			[ "bendecirías" ],
+			[ "bendeciría" ],
+			[ "bendeciríamos" ],
+			[ "bendeciríais", "bendecirían" ],
+			[ "bendecirían" ]
+		],
+		"7" : [
+			[ "bendeciré" ],
+			[ "bendecirás" ],
+			[ "bendecirá" ],
+			[ "bendeciremos" ],
+			[ "bendeciréis", "bendecirán" ],
+			[ "bendecirán" ]
+		],
+		"8" : [
+			[ "bendiga" ],
+			[ "bendigas" ],
+			[ "bendiga" ],
+			[ "bendigamos" ],
+			[ "bendigáis", "bendigan" ],
+			[ "bendigan" ]
+		],
+		"9" : [
+			[ "bendijera" ],
+			[ "bendijeras" ],
+			[ "bendijera" ],
+			[ "bendijéramos" ],
+			[ "bendijerais", "bendijeran" ],
+			[ "bendijeran" ]
+		],
+		"10" : [
+			[ "bendijese" ],
+			[ "bendijeses" ],
+			[ "bendijese" ],
+			[ "bendijésemos" ],
+			[ "bendijeseis", "bendijesen" ],
+			[ "bendijesen" ]
+		],
+		"11" : [
+			[ "bendijere" ],
+			[ "bendijeres" ],
+			[ "bendijere" ],
+			[ "bendijéremos" ],
+			[ "bendijereis", "bendijeren" ],
+			[ "bendijeren" ]
+		],
+		"12" : {
+			"1" : [ "bendice" ],
+			"2" : [ "bendiga" ],
+			"3" : [ "bendigamos" ],
+			"4" : [ "bendecid" ],
+			"5" : [ "bendigan" ]
+		}
+	}
+}

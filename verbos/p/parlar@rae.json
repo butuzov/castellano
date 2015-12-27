@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=parlar",
+	"word" : "parlar",
+	"infinitivo" : "parlar",
+	"participio" : [ "parlado" ],
+	"gerundio" : [ "parlando" ],
+	"tenses" : {
+		"3" : [
+			[ "parlo" ],
+			[ "parlas", "parlás" ],
+			[ "parla" ],
+			[ "parlamos" ],
+			[ "parláis", "parlan" ],
+			[ "parlan" ]
+		],
+		"4" : [
+			[ "parlé" ],
+			[ "parlaste" ],
+			[ "parló" ],
+			[ "parlamos" ],
+			[ "parlasteis", "parlaron" ],
+			[ "parlaron" ]
+		],
+		"5" : [
+			[ "parlaba" ],
+			[ "parlabas" ],
+			[ "parlaba" ],
+			[ "parlábamos" ],
+			[ "parlabais", "parlaban" ],
+			[ "parlaban" ]
+		],
+		"6" : [
+			[ "parlaría" ],
+			[ "parlarías" ],
+			[ "parlaría" ],
+			[ "parlaríamos" ],
+			[ "parlaríais", "parlarían" ],
+			[ "parlarían" ]
+		],
+		"7" : [
+			[ "parlaré" ],
+			[ "parlarás" ],
+			[ "parlará" ],
+			[ "parlaremos" ],
+			[ "parlaréis", "parlarán" ],
+			[ "parlarán" ]
+		],
+		"8" : [
+			[ "parle" ],
+			[ "parles" ],
+			[ "parle" ],
+			[ "parlemos" ],
+			[ "parléis", "parlen" ],
+			[ "parlen" ]
+		],
+		"9" : [
+			[ "parlara" ],
+			[ "parlaras" ],
+			[ "parlara" ],
+			[ "parláramos" ],
+			[ "parlarais", "parlaran" ],
+			[ "parlaran" ]
+		],
+		"10" : [
+			[ "parlase" ],
+			[ "parlases" ],
+			[ "parlase" ],
+			[ "parlásemos" ],
+			[ "parlaseis", "parlasen" ],
+			[ "parlasen" ]
+		],
+		"11" : [
+			[ "parlare" ],
+			[ "parlares" ],
+			[ "parlare" ],
+			[ "parláremos" ],
+			[ "parlareis", "parlaren" ],
+			[ "parlaren" ]
+		],
+		"12" : {
+			"1" : [ "parla" ],
+			"2" : [ "parle" ],
+			"3" : [ "parlemos" ],
+			"4" : [ "parlad" ],
+			"5" : [ "parlen" ]
+		}
+	}
+}

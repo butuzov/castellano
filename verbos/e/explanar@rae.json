@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=explanar",
+	"word" : "explanar",
+	"infinitivo" : "explanar",
+	"participio" : [ "explanado" ],
+	"gerundio" : [ "explanando" ],
+	"tenses" : {
+		"3" : [
+			[ "explano" ],
+			[ "explanas", "explanás" ],
+			[ "explana" ],
+			[ "explanamos" ],
+			[ "explanáis", "explanan" ],
+			[ "explanan" ]
+		],
+		"4" : [
+			[ "explané" ],
+			[ "explanaste" ],
+			[ "explanó" ],
+			[ "explanamos" ],
+			[ "explanasteis", "explanaron" ],
+			[ "explanaron" ]
+		],
+		"5" : [
+			[ "explanaba" ],
+			[ "explanabas" ],
+			[ "explanaba" ],
+			[ "explanábamos" ],
+			[ "explanabais", "explanaban" ],
+			[ "explanaban" ]
+		],
+		"6" : [
+			[ "explanaría" ],
+			[ "explanarías" ],
+			[ "explanaría" ],
+			[ "explanaríamos" ],
+			[ "explanaríais", "explanarían" ],
+			[ "explanarían" ]
+		],
+		"7" : [
+			[ "explanaré" ],
+			[ "explanarás" ],
+			[ "explanará" ],
+			[ "explanaremos" ],
+			[ "explanaréis", "explanarán" ],
+			[ "explanarán" ]
+		],
+		"8" : [
+			[ "explane" ],
+			[ "explanes" ],
+			[ "explane" ],
+			[ "explanemos" ],
+			[ "explanéis", "explanen" ],
+			[ "explanen" ]
+		],
+		"9" : [
+			[ "explanara" ],
+			[ "explanaras" ],
+			[ "explanara" ],
+			[ "explanáramos" ],
+			[ "explanarais", "explanaran" ],
+			[ "explanaran" ]
+		],
+		"10" : [
+			[ "explanase" ],
+			[ "explanases" ],
+			[ "explanase" ],
+			[ "explanásemos" ],
+			[ "explanaseis", "explanasen" ],
+			[ "explanasen" ]
+		],
+		"11" : [
+			[ "explanare" ],
+			[ "explanares" ],
+			[ "explanare" ],
+			[ "explanáremos" ],
+			[ "explanareis", "explanaren" ],
+			[ "explanaren" ]
+		],
+		"12" : {
+			"1" : [ "explana" ],
+			"2" : [ "explane" ],
+			"3" : [ "explanemos" ],
+			"4" : [ "explanad" ],
+			"5" : [ "explanen" ]
+		}
+	}
+}

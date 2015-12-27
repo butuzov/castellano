@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cagar",
+	"word" : "cagar",
+	"infinitivo" : "cagar",
+	"participio" : [ "cagado" ],
+	"gerundio" : [ "cagando" ],
+	"tenses" : {
+		"3" : [
+			[ "cago" ],
+			[ "cagas", "cagás" ],
+			[ "caga" ],
+			[ "cagamos" ],
+			[ "cagáis", "cagan" ],
+			[ "cagan" ]
+		],
+		"4" : [
+			[ "cagué" ],
+			[ "cagaste" ],
+			[ "cagó" ],
+			[ "cagamos" ],
+			[ "cagasteis", "cagaron" ],
+			[ "cagaron" ]
+		],
+		"5" : [
+			[ "cagaba" ],
+			[ "cagabas" ],
+			[ "cagaba" ],
+			[ "cagábamos" ],
+			[ "cagabais", "cagaban" ],
+			[ "cagaban" ]
+		],
+		"6" : [
+			[ "cagaría" ],
+			[ "cagarías" ],
+			[ "cagaría" ],
+			[ "cagaríamos" ],
+			[ "cagaríais", "cagarían" ],
+			[ "cagarían" ]
+		],
+		"7" : [
+			[ "cagaré" ],
+			[ "cagarás" ],
+			[ "cagará" ],
+			[ "cagaremos" ],
+			[ "cagaréis", "cagarán" ],
+			[ "cagarán" ]
+		],
+		"8" : [
+			[ "cague" ],
+			[ "cagues" ],
+			[ "cague" ],
+			[ "caguemos" ],
+			[ "caguéis", "caguen" ],
+			[ "caguen" ]
+		],
+		"9" : [
+			[ "cagara" ],
+			[ "cagaras" ],
+			[ "cagara" ],
+			[ "cagáramos" ],
+			[ "cagarais", "cagaran" ],
+			[ "cagaran" ]
+		],
+		"10" : [
+			[ "cagase" ],
+			[ "cagases" ],
+			[ "cagase" ],
+			[ "cagásemos" ],
+			[ "cagaseis", "cagasen" ],
+			[ "cagasen" ]
+		],
+		"11" : [
+			[ "cagare" ],
+			[ "cagares" ],
+			[ "cagare" ],
+			[ "cagáremos" ],
+			[ "cagareis", "cagaren" ],
+			[ "cagaren" ]
+		],
+		"12" : {
+			"1" : [ "caga" ],
+			"2" : [ "cague" ],
+			"3" : [ "caguemos" ],
+			"4" : [ "cagad" ],
+			"5" : [ "caguen" ]
+		}
+	}
+}

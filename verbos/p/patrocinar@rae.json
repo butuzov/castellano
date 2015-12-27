@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=patrocinar",
+	"word" : "patrocinar",
+	"infinitivo" : "patrocinar",
+	"participio" : [ "patrocinado" ],
+	"gerundio" : [ "patrocinando" ],
+	"tenses" : {
+		"3" : [
+			[ "patrocino" ],
+			[ "patrocinas", "patrocinás" ],
+			[ "patrocina" ],
+			[ "patrocinamos" ],
+			[ "patrocináis", "patrocinan" ],
+			[ "patrocinan" ]
+		],
+		"4" : [
+			[ "patrociné" ],
+			[ "patrocinaste" ],
+			[ "patrocinó" ],
+			[ "patrocinamos" ],
+			[ "patrocinasteis", "patrocinaron" ],
+			[ "patrocinaron" ]
+		],
+		"5" : [
+			[ "patrocinaba" ],
+			[ "patrocinabas" ],
+			[ "patrocinaba" ],
+			[ "patrocinábamos" ],
+			[ "patrocinabais", "patrocinaban" ],
+			[ "patrocinaban" ]
+		],
+		"6" : [
+			[ "patrocinaría" ],
+			[ "patrocinarías" ],
+			[ "patrocinaría" ],
+			[ "patrocinaríamos" ],
+			[ "patrocinaríais", "patrocinarían" ],
+			[ "patrocinarían" ]
+		],
+		"7" : [
+			[ "patrocinaré" ],
+			[ "patrocinarás" ],
+			[ "patrocinará" ],
+			[ "patrocinaremos" ],
+			[ "patrocinaréis", "patrocinarán" ],
+			[ "patrocinarán" ]
+		],
+		"8" : [
+			[ "patrocine" ],
+			[ "patrocines" ],
+			[ "patrocine" ],
+			[ "patrocinemos" ],
+			[ "patrocinéis", "patrocinen" ],
+			[ "patrocinen" ]
+		],
+		"9" : [
+			[ "patrocinara" ],
+			[ "patrocinaras" ],
+			[ "patrocinara" ],
+			[ "patrocináramos" ],
+			[ "patrocinarais", "patrocinaran" ],
+			[ "patrocinaran" ]
+		],
+		"10" : [
+			[ "patrocinase" ],
+			[ "patrocinases" ],
+			[ "patrocinase" ],
+			[ "patrocinásemos" ],
+			[ "patrocinaseis", "patrocinasen" ],
+			[ "patrocinasen" ]
+		],
+		"11" : [
+			[ "patrocinare" ],
+			[ "patrocinares" ],
+			[ "patrocinare" ],
+			[ "patrocináremos" ],
+			[ "patrocinareis", "patrocinaren" ],
+			[ "patrocinaren" ]
+		],
+		"12" : {
+			"1" : [ "patrocina" ],
+			"2" : [ "patrocine" ],
+			"3" : [ "patrocinemos" ],
+			"4" : [ "patrocinad" ],
+			"5" : [ "patrocinen" ]
+		}
+	}
+}

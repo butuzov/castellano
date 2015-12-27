@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=perseguir",
+	"word" : "perseguir",
+	"infinitivo" : "perseguir",
+	"participio" : [ "perseguido" ],
+	"gerundio" : [ "persiguiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "persigo" ],
+			[ "persigues", "perseguís" ],
+			[ "persigue" ],
+			[ "perseguimos" ],
+			[ "perseguís", "persiguen" ],
+			[ "persiguen" ]
+		],
+		"4" : [
+			[ "perseguí" ],
+			[ "perseguiste" ],
+			[ "persiguió" ],
+			[ "perseguimos" ],
+			[ "perseguisteis", "persiguieron" ],
+			[ "persiguieron" ]
+		],
+		"5" : [
+			[ "perseguía" ],
+			[ "perseguías" ],
+			[ "perseguía" ],
+			[ "perseguíamos" ],
+			[ "perseguíais", "perseguían" ],
+			[ "perseguían" ]
+		],
+		"6" : [
+			[ "perseguiría" ],
+			[ "perseguirías" ],
+			[ "perseguiría" ],
+			[ "perseguiríamos" ],
+			[ "perseguiríais", "perseguirían" ],
+			[ "perseguirían" ]
+		],
+		"7" : [
+			[ "perseguiré" ],
+			[ "perseguirás" ],
+			[ "perseguirá" ],
+			[ "perseguiremos" ],
+			[ "perseguiréis", "perseguirán" ],
+			[ "perseguirán" ]
+		],
+		"8" : [
+			[ "persiga" ],
+			[ "persigas" ],
+			[ "persiga" ],
+			[ "persigamos" ],
+			[ "persigáis", "persigan" ],
+			[ "persigan" ]
+		],
+		"9" : [
+			[ "persiguiera" ],
+			[ "persiguieras" ],
+			[ "persiguiera" ],
+			[ "persiguiéramos" ],
+			[ "persiguierais", "persiguieran" ],
+			[ "persiguieran" ]
+		],
+		"10" : [
+			[ "persiguiese" ],
+			[ "persiguieses" ],
+			[ "persiguiese" ],
+			[ "persiguiésemos" ],
+			[ "persiguieseis", "persiguiesen" ],
+			[ "persiguiesen" ]
+		],
+		"11" : [
+			[ "persiguiere" ],
+			[ "persiguieres" ],
+			[ "persiguiere" ],
+			[ "persiguiéremos" ],
+			[ "persiguiereis", "persiguieren" ],
+			[ "persiguieren" ]
+		],
+		"12" : {
+			"1" : [ "persigue" ],
+			"2" : [ "persiga" ],
+			"3" : [ "persigamos" ],
+			"4" : [ "perseguid" ],
+			"5" : [ "persigan" ]
+		}
+	}
+}

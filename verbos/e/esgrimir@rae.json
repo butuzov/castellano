@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esgrimir",
+	"word" : "esgrimir",
+	"infinitivo" : "esgrimir",
+	"participio" : [ "esgrimido" ],
+	"gerundio" : [ "esgrimiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "esgrimo" ],
+			[ "esgrimes", "esgrimís" ],
+			[ "esgrime" ],
+			[ "esgrimimos" ],
+			[ "esgrimís", "esgrimen" ],
+			[ "esgrimen" ]
+		],
+		"4" : [
+			[ "esgrimí" ],
+			[ "esgrimiste" ],
+			[ "esgrimió" ],
+			[ "esgrimimos" ],
+			[ "esgrimisteis", "esgrimieron" ],
+			[ "esgrimieron" ]
+		],
+		"5" : [
+			[ "esgrimía" ],
+			[ "esgrimías" ],
+			[ "esgrimía" ],
+			[ "esgrimíamos" ],
+			[ "esgrimíais", "esgrimían" ],
+			[ "esgrimían" ]
+		],
+		"6" : [
+			[ "esgrimiría" ],
+			[ "esgrimirías" ],
+			[ "esgrimiría" ],
+			[ "esgrimiríamos" ],
+			[ "esgrimiríais", "esgrimirían" ],
+			[ "esgrimirían" ]
+		],
+		"7" : [
+			[ "esgrimiré" ],
+			[ "esgrimirás" ],
+			[ "esgrimirá" ],
+			[ "esgrimiremos" ],
+			[ "esgrimiréis", "esgrimirán" ],
+			[ "esgrimirán" ]
+		],
+		"8" : [
+			[ "esgrima" ],
+			[ "esgrimas" ],
+			[ "esgrima" ],
+			[ "esgrimamos" ],
+			[ "esgrimáis", "esgriman" ],
+			[ "esgriman" ]
+		],
+		"9" : [
+			[ "esgrimiera" ],
+			[ "esgrimieras" ],
+			[ "esgrimiera" ],
+			[ "esgrimiéramos" ],
+			[ "esgrimierais", "esgrimieran" ],
+			[ "esgrimieran" ]
+		],
+		"10" : [
+			[ "esgrimiese" ],
+			[ "esgrimieses" ],
+			[ "esgrimiese" ],
+			[ "esgrimiésemos" ],
+			[ "esgrimieseis", "esgrimiesen" ],
+			[ "esgrimiesen" ]
+		],
+		"11" : [
+			[ "esgrimiere" ],
+			[ "esgrimieres" ],
+			[ "esgrimiere" ],
+			[ "esgrimiéremos" ],
+			[ "esgrimiereis", "esgrimieren" ],
+			[ "esgrimieren" ]
+		],
+		"12" : {
+			"1" : [ "esgrime" ],
+			"2" : [ "esgrima" ],
+			"3" : [ "esgrimamos" ],
+			"4" : [ "esgrimid" ],
+			"5" : [ "esgriman" ]
+		}
+	}
+}

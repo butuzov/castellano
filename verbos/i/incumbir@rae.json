@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incumbir",
+	"word" : "incumbir",
+	"infinitivo" : "incumbir",
+	"participio" : [ "incumbido" ],
+	"gerundio" : [ "incumbiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "incumbo" ],
+			[ "incumbes", "incumbís" ],
+			[ "incumbe" ],
+			[ "incumbimos" ],
+			[ "incumbís", "incumben" ],
+			[ "incumben" ]
+		],
+		"4" : [
+			[ "incumbí" ],
+			[ "incumbiste" ],
+			[ "incumbió" ],
+			[ "incumbimos" ],
+			[ "incumbisteis", "incumbieron" ],
+			[ "incumbieron" ]
+		],
+		"5" : [
+			[ "incumbía" ],
+			[ "incumbías" ],
+			[ "incumbía" ],
+			[ "incumbíamos" ],
+			[ "incumbíais", "incumbían" ],
+			[ "incumbían" ]
+		],
+		"6" : [
+			[ "incumbiría" ],
+			[ "incumbirías" ],
+			[ "incumbiría" ],
+			[ "incumbiríamos" ],
+			[ "incumbiríais", "incumbirían" ],
+			[ "incumbirían" ]
+		],
+		"7" : [
+			[ "incumbiré" ],
+			[ "incumbirás" ],
+			[ "incumbirá" ],
+			[ "incumbiremos" ],
+			[ "incumbiréis", "incumbirán" ],
+			[ "incumbirán" ]
+		],
+		"8" : [
+			[ "incumba" ],
+			[ "incumbas" ],
+			[ "incumba" ],
+			[ "incumbamos" ],
+			[ "incumbáis", "incumban" ],
+			[ "incumban" ]
+		],
+		"9" : [
+			[ "incumbiera" ],
+			[ "incumbieras" ],
+			[ "incumbiera" ],
+			[ "incumbiéramos" ],
+			[ "incumbierais", "incumbieran" ],
+			[ "incumbieran" ]
+		],
+		"10" : [
+			[ "incumbiese" ],
+			[ "incumbieses" ],
+			[ "incumbiese" ],
+			[ "incumbiésemos" ],
+			[ "incumbieseis", "incumbiesen" ],
+			[ "incumbiesen" ]
+		],
+		"11" : [
+			[ "incumbiere" ],
+			[ "incumbieres" ],
+			[ "incumbiere" ],
+			[ "incumbiéremos" ],
+			[ "incumbiereis", "incumbieren" ],
+			[ "incumbieren" ]
+		],
+		"12" : {
+			"1" : [ "incumbe" ],
+			"2" : [ "incumba" ],
+			"3" : [ "incumbamos" ],
+			"4" : [ "incumbid" ],
+			"5" : [ "incumban" ]
+		}
+	}
+}

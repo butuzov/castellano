@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lubricar",
+	"word" : "lubricar",
+	"infinitivo" : "lubricar",
+	"participio" : [ "lubricado" ],
+	"gerundio" : [ "lubricando" ],
+	"tenses" : {
+		"3" : [
+			[ "lubrico" ],
+			[ "lubricas", "lubricás" ],
+			[ "lubrica" ],
+			[ "lubricamos" ],
+			[ "lubricáis", "lubrican" ],
+			[ "lubrican" ]
+		],
+		"4" : [
+			[ "lubriqué" ],
+			[ "lubricaste" ],
+			[ "lubricó" ],
+			[ "lubricamos" ],
+			[ "lubricasteis", "lubricaron" ],
+			[ "lubricaron" ]
+		],
+		"5" : [
+			[ "lubricaba" ],
+			[ "lubricabas" ],
+			[ "lubricaba" ],
+			[ "lubricábamos" ],
+			[ "lubricabais", "lubricaban" ],
+			[ "lubricaban" ]
+		],
+		"6" : [
+			[ "lubricaría" ],
+			[ "lubricarías" ],
+			[ "lubricaría" ],
+			[ "lubricaríamos" ],
+			[ "lubricaríais", "lubricarían" ],
+			[ "lubricarían" ]
+		],
+		"7" : [
+			[ "lubricaré" ],
+			[ "lubricarás" ],
+			[ "lubricará" ],
+			[ "lubricaremos" ],
+			[ "lubricaréis", "lubricarán" ],
+			[ "lubricarán" ]
+		],
+		"8" : [
+			[ "lubrique" ],
+			[ "lubriques" ],
+			[ "lubrique" ],
+			[ "lubriquemos" ],
+			[ "lubriquéis", "lubriquen" ],
+			[ "lubriquen" ]
+		],
+		"9" : [
+			[ "lubricara" ],
+			[ "lubricaras" ],
+			[ "lubricara" ],
+			[ "lubricáramos" ],
+			[ "lubricarais", "lubricaran" ],
+			[ "lubricaran" ]
+		],
+		"10" : [
+			[ "lubricase" ],
+			[ "lubricases" ],
+			[ "lubricase" ],
+			[ "lubricásemos" ],
+			[ "lubricaseis", "lubricasen" ],
+			[ "lubricasen" ]
+		],
+		"11" : [
+			[ "lubricare" ],
+			[ "lubricares" ],
+			[ "lubricare" ],
+			[ "lubricáremos" ],
+			[ "lubricareis", "lubricaren" ],
+			[ "lubricaren" ]
+		],
+		"12" : {
+			"1" : [ "lubrica" ],
+			"2" : [ "lubrique" ],
+			"3" : [ "lubriquemos" ],
+			"4" : [ "lubricad" ],
+			"5" : [ "lubriquen" ]
+		}
+	}
+}

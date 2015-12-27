@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remachar",
+	"word" : "remachar",
+	"infinitivo" : "remachar",
+	"participio" : [ "remachado" ],
+	"gerundio" : [ "remachando" ],
+	"tenses" : {
+		"3" : [
+			[ "remacho" ],
+			[ "remachas", "remachás" ],
+			[ "remacha" ],
+			[ "remachamos" ],
+			[ "remacháis", "remachan" ],
+			[ "remachan" ]
+		],
+		"4" : [
+			[ "remaché" ],
+			[ "remachaste" ],
+			[ "remachó" ],
+			[ "remachamos" ],
+			[ "remachasteis", "remacharon" ],
+			[ "remacharon" ]
+		],
+		"5" : [
+			[ "remachaba" ],
+			[ "remachabas" ],
+			[ "remachaba" ],
+			[ "remachábamos" ],
+			[ "remachabais", "remachaban" ],
+			[ "remachaban" ]
+		],
+		"6" : [
+			[ "remacharía" ],
+			[ "remacharías" ],
+			[ "remacharía" ],
+			[ "remacharíamos" ],
+			[ "remacharíais", "remacharían" ],
+			[ "remacharían" ]
+		],
+		"7" : [
+			[ "remacharé" ],
+			[ "remacharás" ],
+			[ "remachará" ],
+			[ "remacharemos" ],
+			[ "remacharéis", "remacharán" ],
+			[ "remacharán" ]
+		],
+		"8" : [
+			[ "remache" ],
+			[ "remaches" ],
+			[ "remache" ],
+			[ "remachemos" ],
+			[ "remachéis", "remachen" ],
+			[ "remachen" ]
+		],
+		"9" : [
+			[ "remachara" ],
+			[ "remacharas" ],
+			[ "remachara" ],
+			[ "remacháramos" ],
+			[ "remacharais", "remacharan" ],
+			[ "remacharan" ]
+		],
+		"10" : [
+			[ "remachase" ],
+			[ "remachases" ],
+			[ "remachase" ],
+			[ "remachásemos" ],
+			[ "remachaseis", "remachasen" ],
+			[ "remachasen" ]
+		],
+		"11" : [
+			[ "remachare" ],
+			[ "remachares" ],
+			[ "remachare" ],
+			[ "remacháremos" ],
+			[ "remachareis", "remacharen" ],
+			[ "remacharen" ]
+		],
+		"12" : {
+			"1" : [ "remacha" ],
+			"2" : [ "remache" ],
+			"3" : [ "remachemos" ],
+			"4" : [ "remachad" ],
+			"5" : [ "remachen" ]
+		}
+	}
+}

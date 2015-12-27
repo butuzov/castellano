@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=implicar",
+	"word" : "implicar",
+	"infinitivo" : "implicar",
+	"participio" : [ "implicado" ],
+	"gerundio" : [ "implicando" ],
+	"tenses" : {
+		"3" : [
+			[ "implico" ],
+			[ "implicas", "implicás" ],
+			[ "implica" ],
+			[ "implicamos" ],
+			[ "implicáis", "implican" ],
+			[ "implican" ]
+		],
+		"4" : [
+			[ "impliqué" ],
+			[ "implicaste" ],
+			[ "implicó" ],
+			[ "implicamos" ],
+			[ "implicasteis", "implicaron" ],
+			[ "implicaron" ]
+		],
+		"5" : [
+			[ "implicaba" ],
+			[ "implicabas" ],
+			[ "implicaba" ],
+			[ "implicábamos" ],
+			[ "implicabais", "implicaban" ],
+			[ "implicaban" ]
+		],
+		"6" : [
+			[ "implicaría" ],
+			[ "implicarías" ],
+			[ "implicaría" ],
+			[ "implicaríamos" ],
+			[ "implicaríais", "implicarían" ],
+			[ "implicarían" ]
+		],
+		"7" : [
+			[ "implicaré" ],
+			[ "implicarás" ],
+			[ "implicará" ],
+			[ "implicaremos" ],
+			[ "implicaréis", "implicarán" ],
+			[ "implicarán" ]
+		],
+		"8" : [
+			[ "implique" ],
+			[ "impliques" ],
+			[ "implique" ],
+			[ "impliquemos" ],
+			[ "impliquéis", "impliquen" ],
+			[ "impliquen" ]
+		],
+		"9" : [
+			[ "implicara" ],
+			[ "implicaras" ],
+			[ "implicara" ],
+			[ "implicáramos" ],
+			[ "implicarais", "implicaran" ],
+			[ "implicaran" ]
+		],
+		"10" : [
+			[ "implicase" ],
+			[ "implicases" ],
+			[ "implicase" ],
+			[ "implicásemos" ],
+			[ "implicaseis", "implicasen" ],
+			[ "implicasen" ]
+		],
+		"11" : [
+			[ "implicare" ],
+			[ "implicares" ],
+			[ "implicare" ],
+			[ "implicáremos" ],
+			[ "implicareis", "implicaren" ],
+			[ "implicaren" ]
+		],
+		"12" : {
+			"1" : [ "implica" ],
+			"2" : [ "implique" ],
+			"3" : [ "impliquemos" ],
+			"4" : [ "implicad" ],
+			"5" : [ "impliquen" ]
+		}
+	}
+}

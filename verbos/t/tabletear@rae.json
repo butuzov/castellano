@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tabletear",
+	"word" : "tabletear",
+	"infinitivo" : "tabletear",
+	"participio" : [ "tableteado" ],
+	"gerundio" : [ "tableteando" ],
+	"tenses" : {
+		"3" : [
+			[ "tableteo" ],
+			[ "tableteas", "tableteás" ],
+			[ "tabletea" ],
+			[ "tableteamos" ],
+			[ "tableteáis", "tabletean" ],
+			[ "tabletean" ]
+		],
+		"4" : [
+			[ "tableteé" ],
+			[ "tableteaste" ],
+			[ "tableteó" ],
+			[ "tableteamos" ],
+			[ "tableteasteis", "tabletearon" ],
+			[ "tabletearon" ]
+		],
+		"5" : [
+			[ "tableteaba" ],
+			[ "tableteabas" ],
+			[ "tableteaba" ],
+			[ "tableteábamos" ],
+			[ "tableteabais", "tableteaban" ],
+			[ "tableteaban" ]
+		],
+		"6" : [
+			[ "tabletearía" ],
+			[ "tabletearías" ],
+			[ "tabletearía" ],
+			[ "tabletearíamos" ],
+			[ "tabletearíais", "tabletearían" ],
+			[ "tabletearían" ]
+		],
+		"7" : [
+			[ "tabletearé" ],
+			[ "tabletearás" ],
+			[ "tableteará" ],
+			[ "tabletearemos" ],
+			[ "tabletearéis", "tabletearán" ],
+			[ "tabletearán" ]
+		],
+		"8" : [
+			[ "tabletee" ],
+			[ "tabletees" ],
+			[ "tabletee" ],
+			[ "tableteemos" ],
+			[ "tableteéis", "tableteen" ],
+			[ "tableteen" ]
+		],
+		"9" : [
+			[ "tableteara" ],
+			[ "tabletearas" ],
+			[ "tableteara" ],
+			[ "tableteáramos" ],
+			[ "tabletearais", "tabletearan" ],
+			[ "tabletearan" ]
+		],
+		"10" : [
+			[ "tabletease" ],
+			[ "tableteases" ],
+			[ "tabletease" ],
+			[ "tableteásemos" ],
+			[ "tableteaseis", "tableteasen" ],
+			[ "tableteasen" ]
+		],
+		"11" : [
+			[ "tableteare" ],
+			[ "tableteares" ],
+			[ "tableteare" ],
+			[ "tableteáremos" ],
+			[ "tableteareis", "tabletearen" ],
+			[ "tabletearen" ]
+		],
+		"12" : {
+			"1" : [ "tabletea" ],
+			"2" : [ "tabletee" ],
+			"3" : [ "tableteemos" ],
+			"4" : [ "tabletead" ],
+			"5" : [ "tableteen" ]
+		}
+	}
+}

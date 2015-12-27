@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=derrocar",
+	"word" : "derrocar",
+	"infinitivo" : "derrocar",
+	"participio" : [ "derrocado" ],
+	"gerundio" : [ "derrocando" ],
+	"tenses" : {
+		"3" : [
+			[ "derroco" ],
+			[ "derrocas", "derrocás" ],
+			[ "derroca" ],
+			[ "derrocamos" ],
+			[ "derrocáis", "derrocan" ],
+			[ "derrocan" ]
+		],
+		"4" : [
+			[ "derroqué" ],
+			[ "derrocaste" ],
+			[ "derrocó" ],
+			[ "derrocamos" ],
+			[ "derrocasteis", "derrocaron" ],
+			[ "derrocaron" ]
+		],
+		"5" : [
+			[ "derrocaba" ],
+			[ "derrocabas" ],
+			[ "derrocaba" ],
+			[ "derrocábamos" ],
+			[ "derrocabais", "derrocaban" ],
+			[ "derrocaban" ]
+		],
+		"6" : [
+			[ "derrocaría" ],
+			[ "derrocarías" ],
+			[ "derrocaría" ],
+			[ "derrocaríamos" ],
+			[ "derrocaríais", "derrocarían" ],
+			[ "derrocarían" ]
+		],
+		"7" : [
+			[ "derrocaré" ],
+			[ "derrocarás" ],
+			[ "derrocará" ],
+			[ "derrocaremos" ],
+			[ "derrocaréis", "derrocarán" ],
+			[ "derrocarán" ]
+		],
+		"8" : [
+			[ "derroque" ],
+			[ "derroques" ],
+			[ "derroque" ],
+			[ "derroquemos" ],
+			[ "derroquéis", "derroquen" ],
+			[ "derroquen" ]
+		],
+		"9" : [
+			[ "derrocara" ],
+			[ "derrocaras" ],
+			[ "derrocara" ],
+			[ "derrocáramos" ],
+			[ "derrocarais", "derrocaran" ],
+			[ "derrocaran" ]
+		],
+		"10" : [
+			[ "derrocase" ],
+			[ "derrocases" ],
+			[ "derrocase" ],
+			[ "derrocásemos" ],
+			[ "derrocaseis", "derrocasen" ],
+			[ "derrocasen" ]
+		],
+		"11" : [
+			[ "derrocare" ],
+			[ "derrocares" ],
+			[ "derrocare" ],
+			[ "derrocáremos" ],
+			[ "derrocareis", "derrocaren" ],
+			[ "derrocaren" ]
+		],
+		"12" : {
+			"1" : [ "derroca" ],
+			"2" : [ "derroque" ],
+			"3" : [ "derroquemos" ],
+			"4" : [ "derrocad" ],
+			"5" : [ "derroquen" ]
+		}
+	}
+}

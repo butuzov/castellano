@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desinteresarse",
+	"word" : "desinteresarse",
+	"infinitivo" : "desinteresarse",
+	"participio" : [ "desinteresado" ],
+	"gerundio" : [ "desinteresándome", "desinteresándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me desintereso" ],
+			[ "te desinteresas", "te desinteresás" ],
+			[ "se desinteresa" ],
+			[ "nos desinteresamos" ],
+			[ "os desinteresáis", "se desinteresan" ],
+			[ "se desinteresan" ]
+		],
+		"4" : [
+			[ "me desinteresé" ],
+			[ "te desinteresaste" ],
+			[ "se desinteresó" ],
+			[ "nos desinteresamos" ],
+			[ "os desinteresasteis", "se desinteresaron" ],
+			[ "se desinteresaron" ]
+		],
+		"5" : [
+			[ "me desinteresaba" ],
+			[ "te desinteresabas" ],
+			[ "se desinteresaba" ],
+			[ "nos desinteresábamos" ],
+			[ "os desinteresabais", "se desinteresaban" ],
+			[ "se desinteresaban" ]
+		],
+		"6" : [
+			[ "me desinteresaría" ],
+			[ "te desinteresarías" ],
+			[ "se desinteresaría" ],
+			[ "nos desinteresaríamos" ],
+			[ "os desinteresaríais", "se desinteresarían" ],
+			[ "se desinteresarían" ]
+		],
+		"7" : [
+			[ "me desinteresaré" ],
+			[ "te desinteresarás" ],
+			[ "se desinteresará" ],
+			[ "nos desinteresaremos" ],
+			[ "os desinteresaréis", "se desinteresarán" ],
+			[ "se desinteresarán" ]
+		],
+		"8" : [
+			[ "me desinterese" ],
+			[ "te desintereses" ],
+			[ "se desinterese" ],
+			[ "nos desinteresemos" ],
+			[ "os desintereséis", "se desinteresen" ],
+			[ "se desinteresen" ]
+		],
+		"9" : [
+			[ "me desinteresara" ],
+			[ "te desinteresaras" ],
+			[ "se desinteresara" ],
+			[ "nos desinteresáramos" ],
+			[ "os desinteresarais", "se desinteresaran" ],
+			[ "se desinteresaran" ]
+		],
+		"10" : [
+			[ "me desinteresase" ],
+			[ "te desinteresases" ],
+			[ "se desinteresase" ],
+			[ "nos desinteresásemos" ],
+			[ "os desinteresaseis", "se desinteresasen" ],
+			[ "se desinteresasen" ]
+		],
+		"11" : [
+			[ "me desinteresare" ],
+			[ "te desinteresares" ],
+			[ "se desinteresare" ],
+			[ "nos desinteresáremos" ],
+			[ "os desinteresareis", "se desinteresaren" ],
+			[ "se desinteresaren" ]
+		],
+		"12" : {
+			"1" : [ "desinterésate" ],
+			"2" : [ "desinterese" ],
+			"3" : [ "desinteresemos" ],
+			"4" : [ "desinteresaos" ],
+			"5" : [ "desinterésense" ]
+		}
+	}
+}

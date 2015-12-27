@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recomendar",
+	"word" : "recomendar",
+	"infinitivo" : "recomendar",
+	"participio" : [ "recomendado" ],
+	"gerundio" : [ "recomendando" ],
+	"tenses" : {
+		"3" : [
+			[ "recomiendo" ],
+			[ "recomiendas", "recomendás" ],
+			[ "recomienda" ],
+			[ "recomendamos" ],
+			[ "recomendáis", "recomiendan" ],
+			[ "recomiendan" ]
+		],
+		"4" : [
+			[ "recomendé" ],
+			[ "recomendaste" ],
+			[ "recomendó" ],
+			[ "recomendamos" ],
+			[ "recomendasteis", "recomendaron" ],
+			[ "recomendaron" ]
+		],
+		"5" : [
+			[ "recomendaba" ],
+			[ "recomendabas" ],
+			[ "recomendaba" ],
+			[ "recomendábamos" ],
+			[ "recomendabais", "recomendaban" ],
+			[ "recomendaban" ]
+		],
+		"6" : [
+			[ "recomendaría" ],
+			[ "recomendarías" ],
+			[ "recomendaría" ],
+			[ "recomendaríamos" ],
+			[ "recomendaríais", "recomendarían" ],
+			[ "recomendarían" ]
+		],
+		"7" : [
+			[ "recomendaré" ],
+			[ "recomendarás" ],
+			[ "recomendará" ],
+			[ "recomendaremos" ],
+			[ "recomendaréis", "recomendarán" ],
+			[ "recomendarán" ]
+		],
+		"8" : [
+			[ "recomiende" ],
+			[ "recomiendes" ],
+			[ "recomiende" ],
+			[ "recomendemos" ],
+			[ "recomendéis", "recomienden" ],
+			[ "recomienden" ]
+		],
+		"9" : [
+			[ "recomendara" ],
+			[ "recomendaras" ],
+			[ "recomendara" ],
+			[ "recomendáramos" ],
+			[ "recomendarais", "recomendaran" ],
+			[ "recomendaran" ]
+		],
+		"10" : [
+			[ "recomendase" ],
+			[ "recomendases" ],
+			[ "recomendase" ],
+			[ "recomendásemos" ],
+			[ "recomendaseis", "recomendasen" ],
+			[ "recomendasen" ]
+		],
+		"11" : [
+			[ "recomendare" ],
+			[ "recomendares" ],
+			[ "recomendare" ],
+			[ "recomendáremos" ],
+			[ "recomendareis", "recomendaren" ],
+			[ "recomendaren" ]
+		],
+		"12" : {
+			"1" : [ "recomienda" ],
+			"2" : [ "recomiende" ],
+			"3" : [ "recomendemos" ],
+			"4" : [ "recomendad" ],
+			"5" : [ "recomienden" ]
+		}
+	}
+}

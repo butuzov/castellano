@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=complementar",
+	"word" : "complementar",
+	"infinitivo" : "complementar",
+	"participio" : [ "complementado" ],
+	"gerundio" : [ "complementando" ],
+	"tenses" : {
+		"3" : [
+			[ "complemento" ],
+			[ "complementas", "complementás" ],
+			[ "complementa" ],
+			[ "complementamos" ],
+			[ "complementáis", "complementan" ],
+			[ "complementan" ]
+		],
+		"4" : [
+			[ "complementé" ],
+			[ "complementaste" ],
+			[ "complementó" ],
+			[ "complementamos" ],
+			[ "complementasteis", "complementaron" ],
+			[ "complementaron" ]
+		],
+		"5" : [
+			[ "complementaba" ],
+			[ "complementabas" ],
+			[ "complementaba" ],
+			[ "complementábamos" ],
+			[ "complementabais", "complementaban" ],
+			[ "complementaban" ]
+		],
+		"6" : [
+			[ "complementaría" ],
+			[ "complementarías" ],
+			[ "complementaría" ],
+			[ "complementaríamos" ],
+			[ "complementaríais", "complementarían" ],
+			[ "complementarían" ]
+		],
+		"7" : [
+			[ "complementaré" ],
+			[ "complementarás" ],
+			[ "complementará" ],
+			[ "complementaremos" ],
+			[ "complementaréis", "complementarán" ],
+			[ "complementarán" ]
+		],
+		"8" : [
+			[ "complemente" ],
+			[ "complementes" ],
+			[ "complemente" ],
+			[ "complementemos" ],
+			[ "complementéis", "complementen" ],
+			[ "complementen" ]
+		],
+		"9" : [
+			[ "complementara" ],
+			[ "complementaras" ],
+			[ "complementara" ],
+			[ "complementáramos" ],
+			[ "complementarais", "complementaran" ],
+			[ "complementaran" ]
+		],
+		"10" : [
+			[ "complementase" ],
+			[ "complementases" ],
+			[ "complementase" ],
+			[ "complementásemos" ],
+			[ "complementaseis", "complementasen" ],
+			[ "complementasen" ]
+		],
+		"11" : [
+			[ "complementare" ],
+			[ "complementares" ],
+			[ "complementare" ],
+			[ "complementáremos" ],
+			[ "complementareis", "complementaren" ],
+			[ "complementaren" ]
+		],
+		"12" : {
+			"1" : [ "complementa" ],
+			"2" : [ "complemente" ],
+			"3" : [ "complementemos" ],
+			"4" : [ "complementad" ],
+			"5" : [ "complementen" ]
+		}
+	}
+}

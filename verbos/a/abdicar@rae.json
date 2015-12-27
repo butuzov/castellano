@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abdicar",
+	"word" : "abdicar",
+	"infinitivo" : "abdicar",
+	"participio" : [ "abdicado" ],
+	"gerundio" : [ "abdicando" ],
+	"tenses" : {
+		"3" : [
+			[ "abdico" ],
+			[ "abdicas", "abdicás" ],
+			[ "abdica" ],
+			[ "abdicamos" ],
+			[ "abdicáis", "abdican" ],
+			[ "abdican" ]
+		],
+		"4" : [
+			[ "abdiqué" ],
+			[ "abdicaste" ],
+			[ "abdicó" ],
+			[ "abdicamos" ],
+			[ "abdicasteis", "abdicaron" ],
+			[ "abdicaron" ]
+		],
+		"5" : [
+			[ "abdicaba" ],
+			[ "abdicabas" ],
+			[ "abdicaba" ],
+			[ "abdicábamos" ],
+			[ "abdicabais", "abdicaban" ],
+			[ "abdicaban" ]
+		],
+		"6" : [
+			[ "abdicaría" ],
+			[ "abdicarías" ],
+			[ "abdicaría" ],
+			[ "abdicaríamos" ],
+			[ "abdicaríais", "abdicarían" ],
+			[ "abdicarían" ]
+		],
+		"7" : [
+			[ "abdicaré" ],
+			[ "abdicarás" ],
+			[ "abdicará" ],
+			[ "abdicaremos" ],
+			[ "abdicaréis", "abdicarán" ],
+			[ "abdicarán" ]
+		],
+		"8" : [
+			[ "abdique" ],
+			[ "abdiques" ],
+			[ "abdique" ],
+			[ "abdiquemos" ],
+			[ "abdiquéis", "abdiquen" ],
+			[ "abdiquen" ]
+		],
+		"9" : [
+			[ "abdicara" ],
+			[ "abdicaras" ],
+			[ "abdicara" ],
+			[ "abdicáramos" ],
+			[ "abdicarais", "abdicaran" ],
+			[ "abdicaran" ]
+		],
+		"10" : [
+			[ "abdicase" ],
+			[ "abdicases" ],
+			[ "abdicase" ],
+			[ "abdicásemos" ],
+			[ "abdicaseis", "abdicasen" ],
+			[ "abdicasen" ]
+		],
+		"11" : [
+			[ "abdicare" ],
+			[ "abdicares" ],
+			[ "abdicare" ],
+			[ "abdicáremos" ],
+			[ "abdicareis", "abdicaren" ],
+			[ "abdicaren" ]
+		],
+		"12" : {
+			"1" : [ "abdica" ],
+			"2" : [ "abdique" ],
+			"3" : [ "abdiquemos" ],
+			"4" : [ "abdicad" ],
+			"5" : [ "abdiquen" ]
+		}
+	}
+}

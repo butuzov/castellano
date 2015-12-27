@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tambalear",
+	"word" : "tambalear",
+	"infinitivo" : "tambalear",
+	"participio" : [ "tambaleado" ],
+	"gerundio" : [ "tambaleando" ],
+	"tenses" : {
+		"3" : [
+			[ "tambaleo" ],
+			[ "tambaleas", "tambaleás" ],
+			[ "tambalea" ],
+			[ "tambaleamos" ],
+			[ "tambaleáis", "tambalean" ],
+			[ "tambalean" ]
+		],
+		"4" : [
+			[ "tambaleé" ],
+			[ "tambaleaste" ],
+			[ "tambaleó" ],
+			[ "tambaleamos" ],
+			[ "tambaleasteis", "tambalearon" ],
+			[ "tambalearon" ]
+		],
+		"5" : [
+			[ "tambaleaba" ],
+			[ "tambaleabas" ],
+			[ "tambaleaba" ],
+			[ "tambaleábamos" ],
+			[ "tambaleabais", "tambaleaban" ],
+			[ "tambaleaban" ]
+		],
+		"6" : [
+			[ "tambalearía" ],
+			[ "tambalearías" ],
+			[ "tambalearía" ],
+			[ "tambalearíamos" ],
+			[ "tambalearíais", "tambalearían" ],
+			[ "tambalearían" ]
+		],
+		"7" : [
+			[ "tambalearé" ],
+			[ "tambalearás" ],
+			[ "tambaleará" ],
+			[ "tambalearemos" ],
+			[ "tambalearéis", "tambalearán" ],
+			[ "tambalearán" ]
+		],
+		"8" : [
+			[ "tambalee" ],
+			[ "tambalees" ],
+			[ "tambalee" ],
+			[ "tambaleemos" ],
+			[ "tambaleéis", "tambaleen" ],
+			[ "tambaleen" ]
+		],
+		"9" : [
+			[ "tambaleara" ],
+			[ "tambalearas" ],
+			[ "tambaleara" ],
+			[ "tambaleáramos" ],
+			[ "tambalearais", "tambalearan" ],
+			[ "tambalearan" ]
+		],
+		"10" : [
+			[ "tambalease" ],
+			[ "tambaleases" ],
+			[ "tambalease" ],
+			[ "tambaleásemos" ],
+			[ "tambaleaseis", "tambaleasen" ],
+			[ "tambaleasen" ]
+		],
+		"11" : [
+			[ "tambaleare" ],
+			[ "tambaleares" ],
+			[ "tambaleare" ],
+			[ "tambaleáremos" ],
+			[ "tambaleareis", "tambalearen" ],
+			[ "tambalearen" ]
+		],
+		"12" : {
+			"1" : [ "tambalea" ],
+			"2" : [ "tambalee" ],
+			"3" : [ "tambaleemos" ],
+			"4" : [ "tambalead" ],
+			"5" : [ "tambaleen" ]
+		}
+	}
+}

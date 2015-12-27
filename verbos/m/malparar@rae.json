@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=malparar",
+	"word" : "malparar",
+	"infinitivo" : "malparar",
+	"participio" : [ "malparado" ],
+	"gerundio" : [ "malparando" ],
+	"tenses" : {
+		"3" : [
+			[ "malparo" ],
+			[ "malparas", "malparás" ],
+			[ "malpara" ],
+			[ "malparamos" ],
+			[ "malparáis", "malparan" ],
+			[ "malparan" ]
+		],
+		"4" : [
+			[ "malparé" ],
+			[ "malparaste" ],
+			[ "malparó" ],
+			[ "malparamos" ],
+			[ "malparasteis", "malpararon" ],
+			[ "malpararon" ]
+		],
+		"5" : [
+			[ "malparaba" ],
+			[ "malparabas" ],
+			[ "malparaba" ],
+			[ "malparábamos" ],
+			[ "malparabais", "malparaban" ],
+			[ "malparaban" ]
+		],
+		"6" : [
+			[ "malpararía" ],
+			[ "malpararías" ],
+			[ "malpararía" ],
+			[ "malpararíamos" ],
+			[ "malpararíais", "malpararían" ],
+			[ "malpararían" ]
+		],
+		"7" : [
+			[ "malpararé" ],
+			[ "malpararás" ],
+			[ "malparará" ],
+			[ "malpararemos" ],
+			[ "malpararéis", "malpararán" ],
+			[ "malpararán" ]
+		],
+		"8" : [
+			[ "malpare" ],
+			[ "malpares" ],
+			[ "malpare" ],
+			[ "malparemos" ],
+			[ "malparéis", "malparen" ],
+			[ "malparen" ]
+		],
+		"9" : [
+			[ "malparara" ],
+			[ "malpararas" ],
+			[ "malparara" ],
+			[ "malparáramos" ],
+			[ "malpararais", "malpararan" ],
+			[ "malpararan" ]
+		],
+		"10" : [
+			[ "malparase" ],
+			[ "malparases" ],
+			[ "malparase" ],
+			[ "malparásemos" ],
+			[ "malparaseis", "malparasen" ],
+			[ "malparasen" ]
+		],
+		"11" : [
+			[ "malparare" ],
+			[ "malparares" ],
+			[ "malparare" ],
+			[ "malparáremos" ],
+			[ "malparareis", "malpararen" ],
+			[ "malpararen" ]
+		],
+		"12" : {
+			"1" : [ "malpara" ],
+			"2" : [ "malpare" ],
+			"3" : [ "malparemos" ],
+			"4" : [ "malparad" ],
+			"5" : [ "malparen" ]
+		}
+	}
+}

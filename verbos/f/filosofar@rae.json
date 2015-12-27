@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=filosofar",
+	"word" : "filosofar",
+	"infinitivo" : "filosofar",
+	"participio" : [ "filosofado" ],
+	"gerundio" : [ "filosofando" ],
+	"tenses" : {
+		"3" : [
+			[ "filosofo" ],
+			[ "filosofas", "filosofás" ],
+			[ "filosofa" ],
+			[ "filosofamos" ],
+			[ "filosofáis", "filosofan" ],
+			[ "filosofan" ]
+		],
+		"4" : [
+			[ "filosofé" ],
+			[ "filosofaste" ],
+			[ "filosofó" ],
+			[ "filosofamos" ],
+			[ "filosofasteis", "filosofaron" ],
+			[ "filosofaron" ]
+		],
+		"5" : [
+			[ "filosofaba" ],
+			[ "filosofabas" ],
+			[ "filosofaba" ],
+			[ "filosofábamos" ],
+			[ "filosofabais", "filosofaban" ],
+			[ "filosofaban" ]
+		],
+		"6" : [
+			[ "filosofaría" ],
+			[ "filosofarías" ],
+			[ "filosofaría" ],
+			[ "filosofaríamos" ],
+			[ "filosofaríais", "filosofarían" ],
+			[ "filosofarían" ]
+		],
+		"7" : [
+			[ "filosofaré" ],
+			[ "filosofarás" ],
+			[ "filosofará" ],
+			[ "filosofaremos" ],
+			[ "filosofaréis", "filosofarán" ],
+			[ "filosofarán" ]
+		],
+		"8" : [
+			[ "filosofe" ],
+			[ "filosofes" ],
+			[ "filosofe" ],
+			[ "filosofemos" ],
+			[ "filosoféis", "filosofen" ],
+			[ "filosofen" ]
+		],
+		"9" : [
+			[ "filosofara" ],
+			[ "filosofaras" ],
+			[ "filosofara" ],
+			[ "filosofáramos" ],
+			[ "filosofarais", "filosofaran" ],
+			[ "filosofaran" ]
+		],
+		"10" : [
+			[ "filosofase" ],
+			[ "filosofases" ],
+			[ "filosofase" ],
+			[ "filosofásemos" ],
+			[ "filosofaseis", "filosofasen" ],
+			[ "filosofasen" ]
+		],
+		"11" : [
+			[ "filosofare" ],
+			[ "filosofares" ],
+			[ "filosofare" ],
+			[ "filosofáremos" ],
+			[ "filosofareis", "filosofaren" ],
+			[ "filosofaren" ]
+		],
+		"12" : {
+			"1" : [ "filosofa" ],
+			"2" : [ "filosofe" ],
+			"3" : [ "filosofemos" ],
+			"4" : [ "filosofad" ],
+			"5" : [ "filosofen" ]
+		}
+	}
+}

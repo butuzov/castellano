@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=patinar",
+	"word" : "patinar",
+	"infinitivo" : "patinar",
+	"participio" : [ "patinado" ],
+	"gerundio" : [ "patinando" ],
+	"tenses" : {
+		"3" : [
+			[ "patino" ],
+			[ "patinas", "patinás" ],
+			[ "patina" ],
+			[ "patinamos" ],
+			[ "patináis", "patinan" ],
+			[ "patinan" ]
+		],
+		"4" : [
+			[ "patiné" ],
+			[ "patinaste" ],
+			[ "patinó" ],
+			[ "patinamos" ],
+			[ "patinasteis", "patinaron" ],
+			[ "patinaron" ]
+		],
+		"5" : [
+			[ "patinaba" ],
+			[ "patinabas" ],
+			[ "patinaba" ],
+			[ "patinábamos" ],
+			[ "patinabais", "patinaban" ],
+			[ "patinaban" ]
+		],
+		"6" : [
+			[ "patinaría" ],
+			[ "patinarías" ],
+			[ "patinaría" ],
+			[ "patinaríamos" ],
+			[ "patinaríais", "patinarían" ],
+			[ "patinarían" ]
+		],
+		"7" : [
+			[ "patinaré" ],
+			[ "patinarás" ],
+			[ "patinará" ],
+			[ "patinaremos" ],
+			[ "patinaréis", "patinarán" ],
+			[ "patinarán" ]
+		],
+		"8" : [
+			[ "patine" ],
+			[ "patines" ],
+			[ "patine" ],
+			[ "patinemos" ],
+			[ "patinéis", "patinen" ],
+			[ "patinen" ]
+		],
+		"9" : [
+			[ "patinara" ],
+			[ "patinaras" ],
+			[ "patinara" ],
+			[ "patináramos" ],
+			[ "patinarais", "patinaran" ],
+			[ "patinaran" ]
+		],
+		"10" : [
+			[ "patinase" ],
+			[ "patinases" ],
+			[ "patinase" ],
+			[ "patinásemos" ],
+			[ "patinaseis", "patinasen" ],
+			[ "patinasen" ]
+		],
+		"11" : [
+			[ "patinare" ],
+			[ "patinares" ],
+			[ "patinare" ],
+			[ "patináremos" ],
+			[ "patinareis", "patinaren" ],
+			[ "patinaren" ]
+		],
+		"12" : {
+			"1" : [ "patina" ],
+			"2" : [ "patine" ],
+			"3" : [ "patinemos" ],
+			"4" : [ "patinad" ],
+			"5" : [ "patinen" ]
+		}
+	}
+}

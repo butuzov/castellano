@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=erradicar",
+	"word" : "erradicar",
+	"infinitivo" : "erradicar",
+	"participio" : [ "erradicado" ],
+	"gerundio" : [ "erradicando" ],
+	"tenses" : {
+		"3" : [
+			[ "erradico" ],
+			[ "erradicas", "erradicás" ],
+			[ "erradica" ],
+			[ "erradicamos" ],
+			[ "erradicáis", "erradican" ],
+			[ "erradican" ]
+		],
+		"4" : [
+			[ "erradiqué" ],
+			[ "erradicaste" ],
+			[ "erradicó" ],
+			[ "erradicamos" ],
+			[ "erradicasteis", "erradicaron" ],
+			[ "erradicaron" ]
+		],
+		"5" : [
+			[ "erradicaba" ],
+			[ "erradicabas" ],
+			[ "erradicaba" ],
+			[ "erradicábamos" ],
+			[ "erradicabais", "erradicaban" ],
+			[ "erradicaban" ]
+		],
+		"6" : [
+			[ "erradicaría" ],
+			[ "erradicarías" ],
+			[ "erradicaría" ],
+			[ "erradicaríamos" ],
+			[ "erradicaríais", "erradicarían" ],
+			[ "erradicarían" ]
+		],
+		"7" : [
+			[ "erradicaré" ],
+			[ "erradicarás" ],
+			[ "erradicará" ],
+			[ "erradicaremos" ],
+			[ "erradicaréis", "erradicarán" ],
+			[ "erradicarán" ]
+		],
+		"8" : [
+			[ "erradique" ],
+			[ "erradiques" ],
+			[ "erradique" ],
+			[ "erradiquemos" ],
+			[ "erradiquéis", "erradiquen" ],
+			[ "erradiquen" ]
+		],
+		"9" : [
+			[ "erradicara" ],
+			[ "erradicaras" ],
+			[ "erradicara" ],
+			[ "erradicáramos" ],
+			[ "erradicarais", "erradicaran" ],
+			[ "erradicaran" ]
+		],
+		"10" : [
+			[ "erradicase" ],
+			[ "erradicases" ],
+			[ "erradicase" ],
+			[ "erradicásemos" ],
+			[ "erradicaseis", "erradicasen" ],
+			[ "erradicasen" ]
+		],
+		"11" : [
+			[ "erradicare" ],
+			[ "erradicares" ],
+			[ "erradicare" ],
+			[ "erradicáremos" ],
+			[ "erradicareis", "erradicaren" ],
+			[ "erradicaren" ]
+		],
+		"12" : {
+			"1" : [ "erradica" ],
+			"2" : [ "erradique" ],
+			"3" : [ "erradiquemos" ],
+			"4" : [ "erradicad" ],
+			"5" : [ "erradiquen" ]
+		}
+	}
+}

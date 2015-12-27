@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=divisar",
+	"word" : "divisar",
+	"infinitivo" : "divisar",
+	"participio" : [ "divisado" ],
+	"gerundio" : [ "divisando" ],
+	"tenses" : {
+		"3" : [
+			[ "diviso" ],
+			[ "divisas", "divisás" ],
+			[ "divisa" ],
+			[ "divisamos" ],
+			[ "divisáis", "divisan" ],
+			[ "divisan" ]
+		],
+		"4" : [
+			[ "divisé" ],
+			[ "divisaste" ],
+			[ "divisó" ],
+			[ "divisamos" ],
+			[ "divisasteis", "divisaron" ],
+			[ "divisaron" ]
+		],
+		"5" : [
+			[ "divisaba" ],
+			[ "divisabas" ],
+			[ "divisaba" ],
+			[ "divisábamos" ],
+			[ "divisabais", "divisaban" ],
+			[ "divisaban" ]
+		],
+		"6" : [
+			[ "divisaría" ],
+			[ "divisarías" ],
+			[ "divisaría" ],
+			[ "divisaríamos" ],
+			[ "divisaríais", "divisarían" ],
+			[ "divisarían" ]
+		],
+		"7" : [
+			[ "divisaré" ],
+			[ "divisarás" ],
+			[ "divisará" ],
+			[ "divisaremos" ],
+			[ "divisaréis", "divisarán" ],
+			[ "divisarán" ]
+		],
+		"8" : [
+			[ "divise" ],
+			[ "divises" ],
+			[ "divise" ],
+			[ "divisemos" ],
+			[ "diviséis", "divisen" ],
+			[ "divisen" ]
+		],
+		"9" : [
+			[ "divisara" ],
+			[ "divisaras" ],
+			[ "divisara" ],
+			[ "divisáramos" ],
+			[ "divisarais", "divisaran" ],
+			[ "divisaran" ]
+		],
+		"10" : [
+			[ "divisase" ],
+			[ "divisases" ],
+			[ "divisase" ],
+			[ "divisásemos" ],
+			[ "divisaseis", "divisasen" ],
+			[ "divisasen" ]
+		],
+		"11" : [
+			[ "divisare" ],
+			[ "divisares" ],
+			[ "divisare" ],
+			[ "divisáremos" ],
+			[ "divisareis", "divisaren" ],
+			[ "divisaren" ]
+		],
+		"12" : {
+			"1" : [ "divisa" ],
+			"2" : [ "divise" ],
+			"3" : [ "divisemos" ],
+			"4" : [ "divisad" ],
+			"5" : [ "divisen" ]
+		}
+	}
+}

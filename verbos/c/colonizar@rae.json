@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=colonizar",
+	"word" : "colonizar",
+	"infinitivo" : "colonizar",
+	"participio" : [ "colonizado" ],
+	"gerundio" : [ "colonizando" ],
+	"tenses" : {
+		"3" : [
+			[ "colonizo" ],
+			[ "colonizas", "colonizás" ],
+			[ "coloniza" ],
+			[ "colonizamos" ],
+			[ "colonizáis", "colonizan" ],
+			[ "colonizan" ]
+		],
+		"4" : [
+			[ "colonicé" ],
+			[ "colonizaste" ],
+			[ "colonizó" ],
+			[ "colonizamos" ],
+			[ "colonizasteis", "colonizaron" ],
+			[ "colonizaron" ]
+		],
+		"5" : [
+			[ "colonizaba" ],
+			[ "colonizabas" ],
+			[ "colonizaba" ],
+			[ "colonizábamos" ],
+			[ "colonizabais", "colonizaban" ],
+			[ "colonizaban" ]
+		],
+		"6" : [
+			[ "colonizaría" ],
+			[ "colonizarías" ],
+			[ "colonizaría" ],
+			[ "colonizaríamos" ],
+			[ "colonizaríais", "colonizarían" ],
+			[ "colonizarían" ]
+		],
+		"7" : [
+			[ "colonizaré" ],
+			[ "colonizarás" ],
+			[ "colonizará" ],
+			[ "colonizaremos" ],
+			[ "colonizaréis", "colonizarán" ],
+			[ "colonizarán" ]
+		],
+		"8" : [
+			[ "colonice" ],
+			[ "colonices" ],
+			[ "colonice" ],
+			[ "colonicemos" ],
+			[ "colonicéis", "colonicen" ],
+			[ "colonicen" ]
+		],
+		"9" : [
+			[ "colonizara" ],
+			[ "colonizaras" ],
+			[ "colonizara" ],
+			[ "colonizáramos" ],
+			[ "colonizarais", "colonizaran" ],
+			[ "colonizaran" ]
+		],
+		"10" : [
+			[ "colonizase" ],
+			[ "colonizases" ],
+			[ "colonizase" ],
+			[ "colonizásemos" ],
+			[ "colonizaseis", "colonizasen" ],
+			[ "colonizasen" ]
+		],
+		"11" : [
+			[ "colonizare" ],
+			[ "colonizares" ],
+			[ "colonizare" ],
+			[ "colonizáremos" ],
+			[ "colonizareis", "colonizaren" ],
+			[ "colonizaren" ]
+		],
+		"12" : {
+			"1" : [ "coloniza" ],
+			"2" : [ "colonice" ],
+			"3" : [ "colonicemos" ],
+			"4" : [ "colonizad" ],
+			"5" : [ "colonicen" ]
+		}
+	}
+}

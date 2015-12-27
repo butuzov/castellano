@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disponer",
+	"word" : "disponer",
+	"infinitivo" : "disponer",
+	"participio" : [ "dispuesto" ],
+	"gerundio" : [ "disponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "dispongo" ],
+			[ "dispones", "disponés" ],
+			[ "dispone" ],
+			[ "disponemos" ],
+			[ "disponéis", "disponen" ],
+			[ "disponen" ]
+		],
+		"4" : [
+			[ "dispuse" ],
+			[ "dispusiste" ],
+			[ "dispuso" ],
+			[ "dispusimos" ],
+			[ "dispusisteis", "dispusieron" ],
+			[ "dispusieron" ]
+		],
+		"5" : [
+			[ "disponía" ],
+			[ "disponías" ],
+			[ "disponía" ],
+			[ "disponíamos" ],
+			[ "disponíais", "disponían" ],
+			[ "disponían" ]
+		],
+		"6" : [
+			[ "dispondría" ],
+			[ "dispondrías" ],
+			[ "dispondría" ],
+			[ "dispondríamos" ],
+			[ "dispondríais", "dispondrían" ],
+			[ "dispondrían" ]
+		],
+		"7" : [
+			[ "dispondré" ],
+			[ "dispondrás" ],
+			[ "dispondrá" ],
+			[ "dispondremos" ],
+			[ "dispondréis", "dispondrán" ],
+			[ "dispondrán" ]
+		],
+		"8" : [
+			[ "disponga" ],
+			[ "dispongas" ],
+			[ "disponga" ],
+			[ "dispongamos" ],
+			[ "dispongáis", "dispongan" ],
+			[ "dispongan" ]
+		],
+		"9" : [
+			[ "dispusiera" ],
+			[ "dispusieras" ],
+			[ "dispusiera" ],
+			[ "dispusiéramos" ],
+			[ "dispusierais", "dispusieran" ],
+			[ "dispusieran" ]
+		],
+		"10" : [
+			[ "dispusiese" ],
+			[ "dispusieses" ],
+			[ "dispusiese" ],
+			[ "dispusiésemos" ],
+			[ "dispusieseis", "dispusiesen" ],
+			[ "dispusiesen" ]
+		],
+		"11" : [
+			[ "dispusiere" ],
+			[ "dispusieres" ],
+			[ "dispusiere" ],
+			[ "dispusiéremos" ],
+			[ "dispusiereis", "dispusieren" ],
+			[ "dispusieren" ]
+		],
+		"12" : {
+			"1" : [ "dispón" ],
+			"2" : [ "disponga" ],
+			"3" : [ "dispongamos" ],
+			"4" : [ "disponed" ],
+			"5" : [ "dispongan" ]
+		}
+	}
+}

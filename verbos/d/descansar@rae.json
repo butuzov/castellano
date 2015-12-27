@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descansar",
+	"word" : "descansar",
+	"infinitivo" : "descansar",
+	"participio" : [ "descansado" ],
+	"gerundio" : [ "descansando" ],
+	"tenses" : {
+		"3" : [
+			[ "descanso" ],
+			[ "descansas", "descansás" ],
+			[ "descansa" ],
+			[ "descansamos" ],
+			[ "descansáis", "descansan" ],
+			[ "descansan" ]
+		],
+		"4" : [
+			[ "descansé" ],
+			[ "descansaste" ],
+			[ "descansó" ],
+			[ "descansamos" ],
+			[ "descansasteis", "descansaron" ],
+			[ "descansaron" ]
+		],
+		"5" : [
+			[ "descansaba" ],
+			[ "descansabas" ],
+			[ "descansaba" ],
+			[ "descansábamos" ],
+			[ "descansabais", "descansaban" ],
+			[ "descansaban" ]
+		],
+		"6" : [
+			[ "descansaría" ],
+			[ "descansarías" ],
+			[ "descansaría" ],
+			[ "descansaríamos" ],
+			[ "descansaríais", "descansarían" ],
+			[ "descansarían" ]
+		],
+		"7" : [
+			[ "descansaré" ],
+			[ "descansarás" ],
+			[ "descansará" ],
+			[ "descansaremos" ],
+			[ "descansaréis", "descansarán" ],
+			[ "descansarán" ]
+		],
+		"8" : [
+			[ "descanse" ],
+			[ "descanses" ],
+			[ "descanse" ],
+			[ "descansemos" ],
+			[ "descanséis", "descansen" ],
+			[ "descansen" ]
+		],
+		"9" : [
+			[ "descansara" ],
+			[ "descansaras" ],
+			[ "descansara" ],
+			[ "descansáramos" ],
+			[ "descansarais", "descansaran" ],
+			[ "descansaran" ]
+		],
+		"10" : [
+			[ "descansase" ],
+			[ "descansases" ],
+			[ "descansase" ],
+			[ "descansásemos" ],
+			[ "descansaseis", "descansasen" ],
+			[ "descansasen" ]
+		],
+		"11" : [
+			[ "descansare" ],
+			[ "descansares" ],
+			[ "descansare" ],
+			[ "descansáremos" ],
+			[ "descansareis", "descansaren" ],
+			[ "descansaren" ]
+		],
+		"12" : {
+			"1" : [ "descansa" ],
+			"2" : [ "descanse" ],
+			"3" : [ "descansemos" ],
+			"4" : [ "descansad" ],
+			"5" : [ "descansen" ]
+		}
+	}
+}

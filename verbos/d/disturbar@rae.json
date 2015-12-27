@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disturbar",
+	"word" : "disturbar",
+	"infinitivo" : "disturbar",
+	"participio" : [ "disturbado" ],
+	"gerundio" : [ "disturbando" ],
+	"tenses" : {
+		"3" : [
+			[ "disturbo" ],
+			[ "disturbas", "disturbás" ],
+			[ "disturba" ],
+			[ "disturbamos" ],
+			[ "disturbáis", "disturban" ],
+			[ "disturban" ]
+		],
+		"4" : [
+			[ "disturbé" ],
+			[ "disturbaste" ],
+			[ "disturbó" ],
+			[ "disturbamos" ],
+			[ "disturbasteis", "disturbaron" ],
+			[ "disturbaron" ]
+		],
+		"5" : [
+			[ "disturbaba" ],
+			[ "disturbabas" ],
+			[ "disturbaba" ],
+			[ "disturbábamos" ],
+			[ "disturbabais", "disturbaban" ],
+			[ "disturbaban" ]
+		],
+		"6" : [
+			[ "disturbaría" ],
+			[ "disturbarías" ],
+			[ "disturbaría" ],
+			[ "disturbaríamos" ],
+			[ "disturbaríais", "disturbarían" ],
+			[ "disturbarían" ]
+		],
+		"7" : [
+			[ "disturbaré" ],
+			[ "disturbarás" ],
+			[ "disturbará" ],
+			[ "disturbaremos" ],
+			[ "disturbaréis", "disturbarán" ],
+			[ "disturbarán" ]
+		],
+		"8" : [
+			[ "disturbe" ],
+			[ "disturbes" ],
+			[ "disturbe" ],
+			[ "disturbemos" ],
+			[ "disturbéis", "disturben" ],
+			[ "disturben" ]
+		],
+		"9" : [
+			[ "disturbara" ],
+			[ "disturbaras" ],
+			[ "disturbara" ],
+			[ "disturbáramos" ],
+			[ "disturbarais", "disturbaran" ],
+			[ "disturbaran" ]
+		],
+		"10" : [
+			[ "disturbase" ],
+			[ "disturbases" ],
+			[ "disturbase" ],
+			[ "disturbásemos" ],
+			[ "disturbaseis", "disturbasen" ],
+			[ "disturbasen" ]
+		],
+		"11" : [
+			[ "disturbare" ],
+			[ "disturbares" ],
+			[ "disturbare" ],
+			[ "disturbáremos" ],
+			[ "disturbareis", "disturbaren" ],
+			[ "disturbaren" ]
+		],
+		"12" : {
+			"1" : [ "disturba" ],
+			"2" : [ "disturbe" ],
+			"3" : [ "disturbemos" ],
+			"4" : [ "disturbad" ],
+			"5" : [ "disturben" ]
+		}
+	}
+}

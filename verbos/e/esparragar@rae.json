@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esparragar",
+	"word" : "esparragar",
+	"infinitivo" : "esparragar",
+	"participio" : [ "esparragado" ],
+	"gerundio" : [ "esparragando" ],
+	"tenses" : {
+		"3" : [
+			[ "esparrago" ],
+			[ "esparragas", "esparragás" ],
+			[ "esparraga" ],
+			[ "esparragamos" ],
+			[ "esparragáis", "esparragan" ],
+			[ "esparragan" ]
+		],
+		"4" : [
+			[ "esparragué" ],
+			[ "esparragaste" ],
+			[ "esparragó" ],
+			[ "esparragamos" ],
+			[ "esparragasteis", "esparragaron" ],
+			[ "esparragaron" ]
+		],
+		"5" : [
+			[ "esparragaba" ],
+			[ "esparragabas" ],
+			[ "esparragaba" ],
+			[ "esparragábamos" ],
+			[ "esparragabais", "esparragaban" ],
+			[ "esparragaban" ]
+		],
+		"6" : [
+			[ "esparragaría" ],
+			[ "esparragarías" ],
+			[ "esparragaría" ],
+			[ "esparragaríamos" ],
+			[ "esparragaríais", "esparragarían" ],
+			[ "esparragarían" ]
+		],
+		"7" : [
+			[ "esparragaré" ],
+			[ "esparragarás" ],
+			[ "esparragará" ],
+			[ "esparragaremos" ],
+			[ "esparragaréis", "esparragarán" ],
+			[ "esparragarán" ]
+		],
+		"8" : [
+			[ "esparrague" ],
+			[ "esparragues" ],
+			[ "esparrague" ],
+			[ "esparraguemos" ],
+			[ "esparraguéis", "esparraguen" ],
+			[ "esparraguen" ]
+		],
+		"9" : [
+			[ "esparragara" ],
+			[ "esparragaras" ],
+			[ "esparragara" ],
+			[ "esparragáramos" ],
+			[ "esparragarais", "esparragaran" ],
+			[ "esparragaran" ]
+		],
+		"10" : [
+			[ "esparragase" ],
+			[ "esparragases" ],
+			[ "esparragase" ],
+			[ "esparragásemos" ],
+			[ "esparragaseis", "esparragasen" ],
+			[ "esparragasen" ]
+		],
+		"11" : [
+			[ "esparragare" ],
+			[ "esparragares" ],
+			[ "esparragare" ],
+			[ "esparragáremos" ],
+			[ "esparragareis", "esparragaren" ],
+			[ "esparragaren" ]
+		],
+		"12" : {
+			"1" : [ "esparraga" ],
+			"2" : [ "esparrague" ],
+			"3" : [ "esparraguemos" ],
+			"4" : [ "esparragad" ],
+			"5" : [ "esparraguen" ]
+		}
+	}
+}

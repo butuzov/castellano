@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gorrear",
+	"word" : "gorrear",
+	"infinitivo" : "gorrear",
+	"participio" : [ "gorreado" ],
+	"gerundio" : [ "gorreando" ],
+	"tenses" : {
+		"3" : [
+			[ "gorreo" ],
+			[ "gorreas", "gorreás" ],
+			[ "gorrea" ],
+			[ "gorreamos" ],
+			[ "gorreáis", "gorrean" ],
+			[ "gorrean" ]
+		],
+		"4" : [
+			[ "gorreé" ],
+			[ "gorreaste" ],
+			[ "gorreó" ],
+			[ "gorreamos" ],
+			[ "gorreasteis", "gorrearon" ],
+			[ "gorrearon" ]
+		],
+		"5" : [
+			[ "gorreaba" ],
+			[ "gorreabas" ],
+			[ "gorreaba" ],
+			[ "gorreábamos" ],
+			[ "gorreabais", "gorreaban" ],
+			[ "gorreaban" ]
+		],
+		"6" : [
+			[ "gorrearía" ],
+			[ "gorrearías" ],
+			[ "gorrearía" ],
+			[ "gorrearíamos" ],
+			[ "gorrearíais", "gorrearían" ],
+			[ "gorrearían" ]
+		],
+		"7" : [
+			[ "gorrearé" ],
+			[ "gorrearás" ],
+			[ "gorreará" ],
+			[ "gorrearemos" ],
+			[ "gorrearéis", "gorrearán" ],
+			[ "gorrearán" ]
+		],
+		"8" : [
+			[ "gorree" ],
+			[ "gorrees" ],
+			[ "gorree" ],
+			[ "gorreemos" ],
+			[ "gorreéis", "gorreen" ],
+			[ "gorreen" ]
+		],
+		"9" : [
+			[ "gorreara" ],
+			[ "gorrearas" ],
+			[ "gorreara" ],
+			[ "gorreáramos" ],
+			[ "gorrearais", "gorrearan" ],
+			[ "gorrearan" ]
+		],
+		"10" : [
+			[ "gorrease" ],
+			[ "gorreases" ],
+			[ "gorrease" ],
+			[ "gorreásemos" ],
+			[ "gorreaseis", "gorreasen" ],
+			[ "gorreasen" ]
+		],
+		"11" : [
+			[ "gorreare" ],
+			[ "gorreares" ],
+			[ "gorreare" ],
+			[ "gorreáremos" ],
+			[ "gorreareis", "gorrearen" ],
+			[ "gorrearen" ]
+		],
+		"12" : {
+			"1" : [ "gorrea" ],
+			"2" : [ "gorree" ],
+			"3" : [ "gorreemos" ],
+			"4" : [ "gorread" ],
+			"5" : [ "gorreen" ]
+		}
+	}
+}

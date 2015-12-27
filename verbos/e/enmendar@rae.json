@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enmendar",
+	"word" : "enmendar",
+	"infinitivo" : "enmendar",
+	"participio" : [ "enmendado" ],
+	"gerundio" : [ "enmendando" ],
+	"tenses" : {
+		"3" : [
+			[ "enmiendo" ],
+			[ "enmiendas", "enmendás" ],
+			[ "enmienda" ],
+			[ "enmendamos" ],
+			[ "enmendáis", "enmiendan" ],
+			[ "enmiendan" ]
+		],
+		"4" : [
+			[ "enmendé" ],
+			[ "enmendaste" ],
+			[ "enmendó" ],
+			[ "enmendamos" ],
+			[ "enmendasteis", "enmendaron" ],
+			[ "enmendaron" ]
+		],
+		"5" : [
+			[ "enmendaba" ],
+			[ "enmendabas" ],
+			[ "enmendaba" ],
+			[ "enmendábamos" ],
+			[ "enmendabais", "enmendaban" ],
+			[ "enmendaban" ]
+		],
+		"6" : [
+			[ "enmendaría" ],
+			[ "enmendarías" ],
+			[ "enmendaría" ],
+			[ "enmendaríamos" ],
+			[ "enmendaríais", "enmendarían" ],
+			[ "enmendarían" ]
+		],
+		"7" : [
+			[ "enmendaré" ],
+			[ "enmendarás" ],
+			[ "enmendará" ],
+			[ "enmendaremos" ],
+			[ "enmendaréis", "enmendarán" ],
+			[ "enmendarán" ]
+		],
+		"8" : [
+			[ "enmiende" ],
+			[ "enmiendes" ],
+			[ "enmiende" ],
+			[ "enmendemos" ],
+			[ "enmendéis", "enmienden" ],
+			[ "enmienden" ]
+		],
+		"9" : [
+			[ "enmendara" ],
+			[ "enmendaras" ],
+			[ "enmendara" ],
+			[ "enmendáramos" ],
+			[ "enmendarais", "enmendaran" ],
+			[ "enmendaran" ]
+		],
+		"10" : [
+			[ "enmendase" ],
+			[ "enmendases" ],
+			[ "enmendase" ],
+			[ "enmendásemos" ],
+			[ "enmendaseis", "enmendasen" ],
+			[ "enmendasen" ]
+		],
+		"11" : [
+			[ "enmendare" ],
+			[ "enmendares" ],
+			[ "enmendare" ],
+			[ "enmendáremos" ],
+			[ "enmendareis", "enmendaren" ],
+			[ "enmendaren" ]
+		],
+		"12" : {
+			"1" : [ "enmienda" ],
+			"2" : [ "enmiende" ],
+			"3" : [ "enmendemos" ],
+			"4" : [ "enmendad" ],
+			"5" : [ "enmienden" ]
+		}
+	}
+}

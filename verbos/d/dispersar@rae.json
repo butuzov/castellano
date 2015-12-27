@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dispersar",
+	"word" : "dispersar",
+	"infinitivo" : "dispersar",
+	"participio" : [ "dispersado" ],
+	"gerundio" : [ "dispersando" ],
+	"tenses" : {
+		"3" : [
+			[ "disperso" ],
+			[ "dispersas", "dispersás" ],
+			[ "dispersa" ],
+			[ "dispersamos" ],
+			[ "dispersáis", "dispersan" ],
+			[ "dispersan" ]
+		],
+		"4" : [
+			[ "dispersé" ],
+			[ "dispersaste" ],
+			[ "dispersó" ],
+			[ "dispersamos" ],
+			[ "dispersasteis", "dispersaron" ],
+			[ "dispersaron" ]
+		],
+		"5" : [
+			[ "dispersaba" ],
+			[ "dispersabas" ],
+			[ "dispersaba" ],
+			[ "dispersábamos" ],
+			[ "dispersabais", "dispersaban" ],
+			[ "dispersaban" ]
+		],
+		"6" : [
+			[ "dispersaría" ],
+			[ "dispersarías" ],
+			[ "dispersaría" ],
+			[ "dispersaríamos" ],
+			[ "dispersaríais", "dispersarían" ],
+			[ "dispersarían" ]
+		],
+		"7" : [
+			[ "dispersaré" ],
+			[ "dispersarás" ],
+			[ "dispersará" ],
+			[ "dispersaremos" ],
+			[ "dispersaréis", "dispersarán" ],
+			[ "dispersarán" ]
+		],
+		"8" : [
+			[ "disperse" ],
+			[ "disperses" ],
+			[ "disperse" ],
+			[ "dispersemos" ],
+			[ "disperséis", "dispersen" ],
+			[ "dispersen" ]
+		],
+		"9" : [
+			[ "dispersara" ],
+			[ "dispersaras" ],
+			[ "dispersara" ],
+			[ "dispersáramos" ],
+			[ "dispersarais", "dispersaran" ],
+			[ "dispersaran" ]
+		],
+		"10" : [
+			[ "dispersase" ],
+			[ "dispersases" ],
+			[ "dispersase" ],
+			[ "dispersásemos" ],
+			[ "dispersaseis", "dispersasen" ],
+			[ "dispersasen" ]
+		],
+		"11" : [
+			[ "dispersare" ],
+			[ "dispersares" ],
+			[ "dispersare" ],
+			[ "dispersáremos" ],
+			[ "dispersareis", "dispersaren" ],
+			[ "dispersaren" ]
+		],
+		"12" : {
+			"1" : [ "dispersa" ],
+			"2" : [ "disperse" ],
+			"3" : [ "dispersemos" ],
+			"4" : [ "dispersad" ],
+			"5" : [ "dispersen" ]
+		}
+	}
+}

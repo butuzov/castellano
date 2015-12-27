@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=concebir",
+	"word" : "concebir",
+	"infinitivo" : "concebir",
+	"participio" : [ "concebido" ],
+	"gerundio" : [ "concibiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "concibo" ],
+			[ "concibes", "concebís" ],
+			[ "concibe" ],
+			[ "concebimos" ],
+			[ "concebís", "conciben" ],
+			[ "conciben" ]
+		],
+		"4" : [
+			[ "concebí" ],
+			[ "concebiste" ],
+			[ "concibió" ],
+			[ "concebimos" ],
+			[ "concebisteis", "concibieron" ],
+			[ "concibieron" ]
+		],
+		"5" : [
+			[ "concebía" ],
+			[ "concebías" ],
+			[ "concebía" ],
+			[ "concebíamos" ],
+			[ "concebíais", "concebían" ],
+			[ "concebían" ]
+		],
+		"6" : [
+			[ "concebiría" ],
+			[ "concebirías" ],
+			[ "concebiría" ],
+			[ "concebiríamos" ],
+			[ "concebiríais", "concebirían" ],
+			[ "concebirían" ]
+		],
+		"7" : [
+			[ "concebiré" ],
+			[ "concebirás" ],
+			[ "concebirá" ],
+			[ "concebiremos" ],
+			[ "concebiréis", "concebirán" ],
+			[ "concebirán" ]
+		],
+		"8" : [
+			[ "conciba" ],
+			[ "concibas" ],
+			[ "conciba" ],
+			[ "concibamos" ],
+			[ "concibáis", "conciban" ],
+			[ "conciban" ]
+		],
+		"9" : [
+			[ "concibiera" ],
+			[ "concibieras" ],
+			[ "concibiera" ],
+			[ "concibiéramos" ],
+			[ "concibierais", "concibieran" ],
+			[ "concibieran" ]
+		],
+		"10" : [
+			[ "concibiese" ],
+			[ "concibieses" ],
+			[ "concibiese" ],
+			[ "concibiésemos" ],
+			[ "concibieseis", "concibiesen" ],
+			[ "concibiesen" ]
+		],
+		"11" : [
+			[ "concibiere" ],
+			[ "concibieres" ],
+			[ "concibiere" ],
+			[ "concibiéremos" ],
+			[ "concibiereis", "concibieren" ],
+			[ "concibieren" ]
+		],
+		"12" : {
+			"1" : [ "concibe" ],
+			"2" : [ "conciba" ],
+			"3" : [ "concibamos" ],
+			"4" : [ "concebid" ],
+			"5" : [ "conciban" ]
+		}
+	}
+}

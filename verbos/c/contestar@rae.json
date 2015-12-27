@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contestar",
+	"word" : "contestar",
+	"infinitivo" : "contestar",
+	"participio" : [ "contestado" ],
+	"gerundio" : [ "contestando" ],
+	"tenses" : {
+		"3" : [
+			[ "contesto" ],
+			[ "contestas", "contestás" ],
+			[ "contesta" ],
+			[ "contestamos" ],
+			[ "contestáis", "contestan" ],
+			[ "contestan" ]
+		],
+		"4" : [
+			[ "contesté" ],
+			[ "contestaste" ],
+			[ "contestó" ],
+			[ "contestamos" ],
+			[ "contestasteis", "contestaron" ],
+			[ "contestaron" ]
+		],
+		"5" : [
+			[ "contestaba" ],
+			[ "contestabas" ],
+			[ "contestaba" ],
+			[ "contestábamos" ],
+			[ "contestabais", "contestaban" ],
+			[ "contestaban" ]
+		],
+		"6" : [
+			[ "contestaría" ],
+			[ "contestarías" ],
+			[ "contestaría" ],
+			[ "contestaríamos" ],
+			[ "contestaríais", "contestarían" ],
+			[ "contestarían" ]
+		],
+		"7" : [
+			[ "contestaré" ],
+			[ "contestarás" ],
+			[ "contestará" ],
+			[ "contestaremos" ],
+			[ "contestaréis", "contestarán" ],
+			[ "contestarán" ]
+		],
+		"8" : [
+			[ "conteste" ],
+			[ "contestes" ],
+			[ "conteste" ],
+			[ "contestemos" ],
+			[ "contestéis", "contesten" ],
+			[ "contesten" ]
+		],
+		"9" : [
+			[ "contestara" ],
+			[ "contestaras" ],
+			[ "contestara" ],
+			[ "contestáramos" ],
+			[ "contestarais", "contestaran" ],
+			[ "contestaran" ]
+		],
+		"10" : [
+			[ "contestase" ],
+			[ "contestases" ],
+			[ "contestase" ],
+			[ "contestásemos" ],
+			[ "contestaseis", "contestasen" ],
+			[ "contestasen" ]
+		],
+		"11" : [
+			[ "contestare" ],
+			[ "contestares" ],
+			[ "contestare" ],
+			[ "contestáremos" ],
+			[ "contestareis", "contestaren" ],
+			[ "contestaren" ]
+		],
+		"12" : {
+			"1" : [ "contesta" ],
+			"2" : [ "conteste" ],
+			"3" : [ "contestemos" ],
+			"4" : [ "contestad" ],
+			"5" : [ "contesten" ]
+		}
+	}
+}

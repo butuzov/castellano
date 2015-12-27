@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vencer",
+	"word" : "vencer",
+	"infinitivo" : "vencer",
+	"participio" : [ "vencido" ],
+	"gerundio" : [ "venciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "venzo" ],
+			[ "vences", "vencés" ],
+			[ "vence" ],
+			[ "vencemos" ],
+			[ "vencéis", "vencen" ],
+			[ "vencen" ]
+		],
+		"4" : [
+			[ "vencí" ],
+			[ "venciste" ],
+			[ "venció" ],
+			[ "vencimos" ],
+			[ "vencisteis", "vencieron" ],
+			[ "vencieron" ]
+		],
+		"5" : [
+			[ "vencía" ],
+			[ "vencías" ],
+			[ "vencía" ],
+			[ "vencíamos" ],
+			[ "vencíais", "vencían" ],
+			[ "vencían" ]
+		],
+		"6" : [
+			[ "vencería" ],
+			[ "vencerías" ],
+			[ "vencería" ],
+			[ "venceríamos" ],
+			[ "venceríais", "vencerían" ],
+			[ "vencerían" ]
+		],
+		"7" : [
+			[ "venceré" ],
+			[ "vencerás" ],
+			[ "vencerá" ],
+			[ "venceremos" ],
+			[ "venceréis", "vencerán" ],
+			[ "vencerán" ]
+		],
+		"8" : [
+			[ "venza" ],
+			[ "venzas" ],
+			[ "venza" ],
+			[ "venzamos" ],
+			[ "venzáis", "venzan" ],
+			[ "venzan" ]
+		],
+		"9" : [
+			[ "venciera" ],
+			[ "vencieras" ],
+			[ "venciera" ],
+			[ "venciéramos" ],
+			[ "vencierais", "vencieran" ],
+			[ "vencieran" ]
+		],
+		"10" : [
+			[ "venciese" ],
+			[ "vencieses" ],
+			[ "venciese" ],
+			[ "venciésemos" ],
+			[ "vencieseis", "venciesen" ],
+			[ "venciesen" ]
+		],
+		"11" : [
+			[ "venciere" ],
+			[ "vencieres" ],
+			[ "venciere" ],
+			[ "venciéremos" ],
+			[ "venciereis", "vencieren" ],
+			[ "vencieren" ]
+		],
+		"12" : {
+			"1" : [ "vence" ],
+			"2" : [ "venza" ],
+			"3" : [ "venzamos" ],
+			"4" : [ "venced" ],
+			"5" : [ "venzan" ]
+		}
+	}
+}

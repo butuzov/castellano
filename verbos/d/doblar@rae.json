@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=doblar",
+	"word" : "doblar",
+	"infinitivo" : "doblar",
+	"participio" : [ "doblado" ],
+	"gerundio" : [ "doblando" ],
+	"tenses" : {
+		"3" : [
+			[ "doblo" ],
+			[ "doblas", "doblás" ],
+			[ "dobla" ],
+			[ "doblamos" ],
+			[ "dobláis", "doblan" ],
+			[ "doblan" ]
+		],
+		"4" : [
+			[ "doblé" ],
+			[ "doblaste" ],
+			[ "dobló" ],
+			[ "doblamos" ],
+			[ "doblasteis", "doblaron" ],
+			[ "doblaron" ]
+		],
+		"5" : [
+			[ "doblaba" ],
+			[ "doblabas" ],
+			[ "doblaba" ],
+			[ "doblábamos" ],
+			[ "doblabais", "doblaban" ],
+			[ "doblaban" ]
+		],
+		"6" : [
+			[ "doblaría" ],
+			[ "doblarías" ],
+			[ "doblaría" ],
+			[ "doblaríamos" ],
+			[ "doblaríais", "doblarían" ],
+			[ "doblarían" ]
+		],
+		"7" : [
+			[ "doblaré" ],
+			[ "doblarás" ],
+			[ "doblará" ],
+			[ "doblaremos" ],
+			[ "doblaréis", "doblarán" ],
+			[ "doblarán" ]
+		],
+		"8" : [
+			[ "doble" ],
+			[ "dobles" ],
+			[ "doble" ],
+			[ "doblemos" ],
+			[ "dobléis", "doblen" ],
+			[ "doblen" ]
+		],
+		"9" : [
+			[ "doblara" ],
+			[ "doblaras" ],
+			[ "doblara" ],
+			[ "dobláramos" ],
+			[ "doblarais", "doblaran" ],
+			[ "doblaran" ]
+		],
+		"10" : [
+			[ "doblase" ],
+			[ "doblases" ],
+			[ "doblase" ],
+			[ "doblásemos" ],
+			[ "doblaseis", "doblasen" ],
+			[ "doblasen" ]
+		],
+		"11" : [
+			[ "doblare" ],
+			[ "doblares" ],
+			[ "doblare" ],
+			[ "dobláremos" ],
+			[ "doblareis", "doblaren" ],
+			[ "doblaren" ]
+		],
+		"12" : {
+			"1" : [ "dobla" ],
+			"2" : [ "doble" ],
+			"3" : [ "doblemos" ],
+			"4" : [ "doblad" ],
+			"5" : [ "doblen" ]
+		}
+	}
+}

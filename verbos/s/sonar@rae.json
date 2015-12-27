@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sonar",
+	"word" : "sonar",
+	"infinitivo" : "sonar",
+	"participio" : [ "sonado" ],
+	"gerundio" : [ "sonando" ],
+	"tenses" : {
+		"3" : [
+			[ "sueno" ],
+			[ "suenas", "sonás" ],
+			[ "suena" ],
+			[ "sonamos" ],
+			[ "sonáis", "suenan" ],
+			[ "suenan" ]
+		],
+		"4" : [
+			[ "soné" ],
+			[ "sonaste" ],
+			[ "sonó" ],
+			[ "sonamos" ],
+			[ "sonasteis", "sonaron" ],
+			[ "sonaron" ]
+		],
+		"5" : [
+			[ "sonaba" ],
+			[ "sonabas" ],
+			[ "sonaba" ],
+			[ "sonábamos" ],
+			[ "sonabais", "sonaban" ],
+			[ "sonaban" ]
+		],
+		"6" : [
+			[ "sonaría" ],
+			[ "sonarías" ],
+			[ "sonaría" ],
+			[ "sonaríamos" ],
+			[ "sonaríais", "sonarían" ],
+			[ "sonarían" ]
+		],
+		"7" : [
+			[ "sonaré" ],
+			[ "sonarás" ],
+			[ "sonará" ],
+			[ "sonaremos" ],
+			[ "sonaréis", "sonarán" ],
+			[ "sonarán" ]
+		],
+		"8" : [
+			[ "suene" ],
+			[ "suenes" ],
+			[ "suene" ],
+			[ "sonemos" ],
+			[ "sonéis", "suenen" ],
+			[ "suenen" ]
+		],
+		"9" : [
+			[ "sonara" ],
+			[ "sonaras" ],
+			[ "sonara" ],
+			[ "sonáramos" ],
+			[ "sonarais", "sonaran" ],
+			[ "sonaran" ]
+		],
+		"10" : [
+			[ "sonase" ],
+			[ "sonases" ],
+			[ "sonase" ],
+			[ "sonásemos" ],
+			[ "sonaseis", "sonasen" ],
+			[ "sonasen" ]
+		],
+		"11" : [
+			[ "sonare" ],
+			[ "sonares" ],
+			[ "sonare" ],
+			[ "sonáremos" ],
+			[ "sonareis", "sonaren" ],
+			[ "sonaren" ]
+		],
+		"12" : {
+			"1" : [ "suena" ],
+			"2" : [ "suene" ],
+			"3" : [ "sonemos" ],
+			"4" : [ "sonad" ],
+			"5" : [ "suenen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=complacer",
+	"word" : "complacer",
+	"infinitivo" : "complacer",
+	"participio" : [ "complacido" ],
+	"gerundio" : [ "complaciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "complazco" ],
+			[ "complaces", "complacés" ],
+			[ "complace" ],
+			[ "complacemos" ],
+			[ "complacéis", "complacen" ],
+			[ "complacen" ]
+		],
+		"4" : [
+			[ "complací" ],
+			[ "complaciste" ],
+			[ "complació" ],
+			[ "complacimos" ],
+			[ "complacisteis", "complacieron" ],
+			[ "complacieron" ]
+		],
+		"5" : [
+			[ "complacía" ],
+			[ "complacías" ],
+			[ "complacía" ],
+			[ "complacíamos" ],
+			[ "complacíais", "complacían" ],
+			[ "complacían" ]
+		],
+		"6" : [
+			[ "complacería" ],
+			[ "complacerías" ],
+			[ "complacería" ],
+			[ "complaceríamos" ],
+			[ "complaceríais", "complacerían" ],
+			[ "complacerían" ]
+		],
+		"7" : [
+			[ "complaceré" ],
+			[ "complacerás" ],
+			[ "complacerá" ],
+			[ "complaceremos" ],
+			[ "complaceréis", "complacerán" ],
+			[ "complacerán" ]
+		],
+		"8" : [
+			[ "complazca" ],
+			[ "complazcas" ],
+			[ "complazca" ],
+			[ "complazcamos" ],
+			[ "complazcáis", "complazcan" ],
+			[ "complazcan" ]
+		],
+		"9" : [
+			[ "complaciera" ],
+			[ "complacieras" ],
+			[ "complaciera" ],
+			[ "complaciéramos" ],
+			[ "complacierais", "complacieran" ],
+			[ "complacieran" ]
+		],
+		"10" : [
+			[ "complaciese" ],
+			[ "complacieses" ],
+			[ "complaciese" ],
+			[ "complaciésemos" ],
+			[ "complacieseis", "complaciesen" ],
+			[ "complaciesen" ]
+		],
+		"11" : [
+			[ "complaciere" ],
+			[ "complacieres" ],
+			[ "complaciere" ],
+			[ "complaciéremos" ],
+			[ "complaciereis", "complacieren" ],
+			[ "complacieren" ]
+		],
+		"12" : {
+			"1" : [ "complace" ],
+			"2" : [ "complazca" ],
+			"3" : [ "complazcamos" ],
+			"4" : [ "complaced" ],
+			"5" : [ "complazcan" ]
+		}
+	}
+}

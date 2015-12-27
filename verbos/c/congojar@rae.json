@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=congojar",
+	"word" : "congojar",
+	"infinitivo" : "congojar",
+	"participio" : [ "congojado" ],
+	"gerundio" : [ "congojando" ],
+	"tenses" : {
+		"3" : [
+			[ "congojo" ],
+			[ "congojas", "congojás" ],
+			[ "congoja" ],
+			[ "congojamos" ],
+			[ "congojáis", "congojan" ],
+			[ "congojan" ]
+		],
+		"4" : [
+			[ "congojé" ],
+			[ "congojaste" ],
+			[ "congojó" ],
+			[ "congojamos" ],
+			[ "congojasteis", "congojaron" ],
+			[ "congojaron" ]
+		],
+		"5" : [
+			[ "congojaba" ],
+			[ "congojabas" ],
+			[ "congojaba" ],
+			[ "congojábamos" ],
+			[ "congojabais", "congojaban" ],
+			[ "congojaban" ]
+		],
+		"6" : [
+			[ "congojaría" ],
+			[ "congojarías" ],
+			[ "congojaría" ],
+			[ "congojaríamos" ],
+			[ "congojaríais", "congojarían" ],
+			[ "congojarían" ]
+		],
+		"7" : [
+			[ "congojaré" ],
+			[ "congojarás" ],
+			[ "congojará" ],
+			[ "congojaremos" ],
+			[ "congojaréis", "congojarán" ],
+			[ "congojarán" ]
+		],
+		"8" : [
+			[ "congoje" ],
+			[ "congojes" ],
+			[ "congoje" ],
+			[ "congojemos" ],
+			[ "congojéis", "congojen" ],
+			[ "congojen" ]
+		],
+		"9" : [
+			[ "congojara" ],
+			[ "congojaras" ],
+			[ "congojara" ],
+			[ "congojáramos" ],
+			[ "congojarais", "congojaran" ],
+			[ "congojaran" ]
+		],
+		"10" : [
+			[ "congojase" ],
+			[ "congojases" ],
+			[ "congojase" ],
+			[ "congojásemos" ],
+			[ "congojaseis", "congojasen" ],
+			[ "congojasen" ]
+		],
+		"11" : [
+			[ "congojare" ],
+			[ "congojares" ],
+			[ "congojare" ],
+			[ "congojáremos" ],
+			[ "congojareis", "congojaren" ],
+			[ "congojaren" ]
+		],
+		"12" : {
+			"1" : [ "congoja" ],
+			"2" : [ "congoje" ],
+			"3" : [ "congojemos" ],
+			"4" : [ "congojad" ],
+			"5" : [ "congojen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=imprecar",
+	"word" : "imprecar",
+	"infinitivo" : "imprecar",
+	"participio" : [ "imprecado" ],
+	"gerundio" : [ "imprecando" ],
+	"tenses" : {
+		"3" : [
+			[ "impreco" ],
+			[ "imprecas", "imprecás" ],
+			[ "impreca" ],
+			[ "imprecamos" ],
+			[ "imprecáis", "imprecan" ],
+			[ "imprecan" ]
+		],
+		"4" : [
+			[ "imprequé" ],
+			[ "imprecaste" ],
+			[ "imprecó" ],
+			[ "imprecamos" ],
+			[ "imprecasteis", "imprecaron" ],
+			[ "imprecaron" ]
+		],
+		"5" : [
+			[ "imprecaba" ],
+			[ "imprecabas" ],
+			[ "imprecaba" ],
+			[ "imprecábamos" ],
+			[ "imprecabais", "imprecaban" ],
+			[ "imprecaban" ]
+		],
+		"6" : [
+			[ "imprecaría" ],
+			[ "imprecarías" ],
+			[ "imprecaría" ],
+			[ "imprecaríamos" ],
+			[ "imprecaríais", "imprecarían" ],
+			[ "imprecarían" ]
+		],
+		"7" : [
+			[ "imprecaré" ],
+			[ "imprecarás" ],
+			[ "imprecará" ],
+			[ "imprecaremos" ],
+			[ "imprecaréis", "imprecarán" ],
+			[ "imprecarán" ]
+		],
+		"8" : [
+			[ "impreque" ],
+			[ "impreques" ],
+			[ "impreque" ],
+			[ "imprequemos" ],
+			[ "imprequéis", "imprequen" ],
+			[ "imprequen" ]
+		],
+		"9" : [
+			[ "imprecara" ],
+			[ "imprecaras" ],
+			[ "imprecara" ],
+			[ "imprecáramos" ],
+			[ "imprecarais", "imprecaran" ],
+			[ "imprecaran" ]
+		],
+		"10" : [
+			[ "imprecase" ],
+			[ "imprecases" ],
+			[ "imprecase" ],
+			[ "imprecásemos" ],
+			[ "imprecaseis", "imprecasen" ],
+			[ "imprecasen" ]
+		],
+		"11" : [
+			[ "imprecare" ],
+			[ "imprecares" ],
+			[ "imprecare" ],
+			[ "imprecáremos" ],
+			[ "imprecareis", "imprecaren" ],
+			[ "imprecaren" ]
+		],
+		"12" : {
+			"1" : [ "impreca" ],
+			"2" : [ "impreque" ],
+			"3" : [ "imprequemos" ],
+			"4" : [ "imprecad" ],
+			"5" : [ "imprequen" ]
+		}
+	}
+}

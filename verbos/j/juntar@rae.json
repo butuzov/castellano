@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=juntar",
+	"word" : "juntar",
+	"infinitivo" : "juntar",
+	"participio" : [ "juntado" ],
+	"gerundio" : [ "juntando" ],
+	"tenses" : {
+		"3" : [
+			[ "junto" ],
+			[ "juntas", "juntás" ],
+			[ "junta" ],
+			[ "juntamos" ],
+			[ "juntáis", "juntan" ],
+			[ "juntan" ]
+		],
+		"4" : [
+			[ "junté" ],
+			[ "juntaste" ],
+			[ "juntó" ],
+			[ "juntamos" ],
+			[ "juntasteis", "juntaron" ],
+			[ "juntaron" ]
+		],
+		"5" : [
+			[ "juntaba" ],
+			[ "juntabas" ],
+			[ "juntaba" ],
+			[ "juntábamos" ],
+			[ "juntabais", "juntaban" ],
+			[ "juntaban" ]
+		],
+		"6" : [
+			[ "juntaría" ],
+			[ "juntarías" ],
+			[ "juntaría" ],
+			[ "juntaríamos" ],
+			[ "juntaríais", "juntarían" ],
+			[ "juntarían" ]
+		],
+		"7" : [
+			[ "juntaré" ],
+			[ "juntarás" ],
+			[ "juntará" ],
+			[ "juntaremos" ],
+			[ "juntaréis", "juntarán" ],
+			[ "juntarán" ]
+		],
+		"8" : [
+			[ "junte" ],
+			[ "juntes" ],
+			[ "junte" ],
+			[ "juntemos" ],
+			[ "juntéis", "junten" ],
+			[ "junten" ]
+		],
+		"9" : [
+			[ "juntara" ],
+			[ "juntaras" ],
+			[ "juntara" ],
+			[ "juntáramos" ],
+			[ "juntarais", "juntaran" ],
+			[ "juntaran" ]
+		],
+		"10" : [
+			[ "juntase" ],
+			[ "juntases" ],
+			[ "juntase" ],
+			[ "juntásemos" ],
+			[ "juntaseis", "juntasen" ],
+			[ "juntasen" ]
+		],
+		"11" : [
+			[ "juntare" ],
+			[ "juntares" ],
+			[ "juntare" ],
+			[ "juntáremos" ],
+			[ "juntareis", "juntaren" ],
+			[ "juntaren" ]
+		],
+		"12" : {
+			"1" : [ "junta" ],
+			"2" : [ "junte" ],
+			"3" : [ "juntemos" ],
+			"4" : [ "juntad" ],
+			"5" : [ "junten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reeducar",
+	"word" : "reeducar",
+	"infinitivo" : "reeducar",
+	"participio" : [ "reeducado" ],
+	"gerundio" : [ "reeducando" ],
+	"tenses" : {
+		"3" : [
+			[ "reeduco" ],
+			[ "reeducas", "reeducás" ],
+			[ "reeduca" ],
+			[ "reeducamos" ],
+			[ "reeducáis", "reeducan" ],
+			[ "reeducan" ]
+		],
+		"4" : [
+			[ "reeduqué" ],
+			[ "reeducaste" ],
+			[ "reeducó" ],
+			[ "reeducamos" ],
+			[ "reeducasteis", "reeducaron" ],
+			[ "reeducaron" ]
+		],
+		"5" : [
+			[ "reeducaba" ],
+			[ "reeducabas" ],
+			[ "reeducaba" ],
+			[ "reeducábamos" ],
+			[ "reeducabais", "reeducaban" ],
+			[ "reeducaban" ]
+		],
+		"6" : [
+			[ "reeducaría" ],
+			[ "reeducarías" ],
+			[ "reeducaría" ],
+			[ "reeducaríamos" ],
+			[ "reeducaríais", "reeducarían" ],
+			[ "reeducarían" ]
+		],
+		"7" : [
+			[ "reeducaré" ],
+			[ "reeducarás" ],
+			[ "reeducará" ],
+			[ "reeducaremos" ],
+			[ "reeducaréis", "reeducarán" ],
+			[ "reeducarán" ]
+		],
+		"8" : [
+			[ "reeduque" ],
+			[ "reeduques" ],
+			[ "reeduque" ],
+			[ "reeduquemos" ],
+			[ "reeduquéis", "reeduquen" ],
+			[ "reeduquen" ]
+		],
+		"9" : [
+			[ "reeducara" ],
+			[ "reeducaras" ],
+			[ "reeducara" ],
+			[ "reeducáramos" ],
+			[ "reeducarais", "reeducaran" ],
+			[ "reeducaran" ]
+		],
+		"10" : [
+			[ "reeducase" ],
+			[ "reeducases" ],
+			[ "reeducase" ],
+			[ "reeducásemos" ],
+			[ "reeducaseis", "reeducasen" ],
+			[ "reeducasen" ]
+		],
+		"11" : [
+			[ "reeducare" ],
+			[ "reeducares" ],
+			[ "reeducare" ],
+			[ "reeducáremos" ],
+			[ "reeducareis", "reeducaren" ],
+			[ "reeducaren" ]
+		],
+		"12" : {
+			"1" : [ "reeduca" ],
+			"2" : [ "reeduque" ],
+			"3" : [ "reeduquemos" ],
+			"4" : [ "reeducad" ],
+			"5" : [ "reeduquen" ]
+		}
+	}
+}

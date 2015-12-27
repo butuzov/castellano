@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=teorizar",
+	"word" : "teorizar",
+	"infinitivo" : "teorizar",
+	"participio" : [ "teorizado" ],
+	"gerundio" : [ "teorizando" ],
+	"tenses" : {
+		"3" : [
+			[ "teorizo" ],
+			[ "teorizas", "teorizás" ],
+			[ "teoriza" ],
+			[ "teorizamos" ],
+			[ "teorizáis", "teorizan" ],
+			[ "teorizan" ]
+		],
+		"4" : [
+			[ "teoricé" ],
+			[ "teorizaste" ],
+			[ "teorizó" ],
+			[ "teorizamos" ],
+			[ "teorizasteis", "teorizaron" ],
+			[ "teorizaron" ]
+		],
+		"5" : [
+			[ "teorizaba" ],
+			[ "teorizabas" ],
+			[ "teorizaba" ],
+			[ "teorizábamos" ],
+			[ "teorizabais", "teorizaban" ],
+			[ "teorizaban" ]
+		],
+		"6" : [
+			[ "teorizaría" ],
+			[ "teorizarías" ],
+			[ "teorizaría" ],
+			[ "teorizaríamos" ],
+			[ "teorizaríais", "teorizarían" ],
+			[ "teorizarían" ]
+		],
+		"7" : [
+			[ "teorizaré" ],
+			[ "teorizarás" ],
+			[ "teorizará" ],
+			[ "teorizaremos" ],
+			[ "teorizaréis", "teorizarán" ],
+			[ "teorizarán" ]
+		],
+		"8" : [
+			[ "teorice" ],
+			[ "teorices" ],
+			[ "teorice" ],
+			[ "teoricemos" ],
+			[ "teoricéis", "teoricen" ],
+			[ "teoricen" ]
+		],
+		"9" : [
+			[ "teorizara" ],
+			[ "teorizaras" ],
+			[ "teorizara" ],
+			[ "teorizáramos" ],
+			[ "teorizarais", "teorizaran" ],
+			[ "teorizaran" ]
+		],
+		"10" : [
+			[ "teorizase" ],
+			[ "teorizases" ],
+			[ "teorizase" ],
+			[ "teorizásemos" ],
+			[ "teorizaseis", "teorizasen" ],
+			[ "teorizasen" ]
+		],
+		"11" : [
+			[ "teorizare" ],
+			[ "teorizares" ],
+			[ "teorizare" ],
+			[ "teorizáremos" ],
+			[ "teorizareis", "teorizaren" ],
+			[ "teorizaren" ]
+		],
+		"12" : {
+			"1" : [ "teoriza" ],
+			"2" : [ "teorice" ],
+			"3" : [ "teoricemos" ],
+			"4" : [ "teorizad" ],
+			"5" : [ "teoricen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=educar",
+	"word" : "educar",
+	"infinitivo" : "educar",
+	"participio" : [ "educado" ],
+	"gerundio" : [ "educando" ],
+	"tenses" : {
+		"3" : [
+			[ "educo" ],
+			[ "educas", "educás" ],
+			[ "educa" ],
+			[ "educamos" ],
+			[ "educáis", "educan" ],
+			[ "educan" ]
+		],
+		"4" : [
+			[ "eduqué" ],
+			[ "educaste" ],
+			[ "educó" ],
+			[ "educamos" ],
+			[ "educasteis", "educaron" ],
+			[ "educaron" ]
+		],
+		"5" : [
+			[ "educaba" ],
+			[ "educabas" ],
+			[ "educaba" ],
+			[ "educábamos" ],
+			[ "educabais", "educaban" ],
+			[ "educaban" ]
+		],
+		"6" : [
+			[ "educaría" ],
+			[ "educarías" ],
+			[ "educaría" ],
+			[ "educaríamos" ],
+			[ "educaríais", "educarían" ],
+			[ "educarían" ]
+		],
+		"7" : [
+			[ "educaré" ],
+			[ "educarás" ],
+			[ "educará" ],
+			[ "educaremos" ],
+			[ "educaréis", "educarán" ],
+			[ "educarán" ]
+		],
+		"8" : [
+			[ "eduque" ],
+			[ "eduques" ],
+			[ "eduque" ],
+			[ "eduquemos" ],
+			[ "eduquéis", "eduquen" ],
+			[ "eduquen" ]
+		],
+		"9" : [
+			[ "educara" ],
+			[ "educaras" ],
+			[ "educara" ],
+			[ "educáramos" ],
+			[ "educarais", "educaran" ],
+			[ "educaran" ]
+		],
+		"10" : [
+			[ "educase" ],
+			[ "educases" ],
+			[ "educase" ],
+			[ "educásemos" ],
+			[ "educaseis", "educasen" ],
+			[ "educasen" ]
+		],
+		"11" : [
+			[ "educare" ],
+			[ "educares" ],
+			[ "educare" ],
+			[ "educáremos" ],
+			[ "educareis", "educaren" ],
+			[ "educaren" ]
+		],
+		"12" : {
+			"1" : [ "educa" ],
+			"2" : [ "eduque" ],
+			"3" : [ "eduquemos" ],
+			"4" : [ "educad" ],
+			"5" : [ "eduquen" ]
+		}
+	}
+}

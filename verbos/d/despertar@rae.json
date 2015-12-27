@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=despertar",
+	"word" : "despertar",
+	"infinitivo" : "despertar",
+	"participio" : [ "despertado" ],
+	"gerundio" : [ "despertando" ],
+	"tenses" : {
+		"3" : [
+			[ "despierto" ],
+			[ "despiertas", "despertás" ],
+			[ "despierta" ],
+			[ "despertamos" ],
+			[ "despertáis", "despiertan" ],
+			[ "despiertan" ]
+		],
+		"4" : [
+			[ "desperté" ],
+			[ "despertaste" ],
+			[ "despertó" ],
+			[ "despertamos" ],
+			[ "despertasteis", "despertaron" ],
+			[ "despertaron" ]
+		],
+		"5" : [
+			[ "despertaba" ],
+			[ "despertabas" ],
+			[ "despertaba" ],
+			[ "despertábamos" ],
+			[ "despertabais", "despertaban" ],
+			[ "despertaban" ]
+		],
+		"6" : [
+			[ "despertaría" ],
+			[ "despertarías" ],
+			[ "despertaría" ],
+			[ "despertaríamos" ],
+			[ "despertaríais", "despertarían" ],
+			[ "despertarían" ]
+		],
+		"7" : [
+			[ "despertaré" ],
+			[ "despertarás" ],
+			[ "despertará" ],
+			[ "despertaremos" ],
+			[ "despertaréis", "despertarán" ],
+			[ "despertarán" ]
+		],
+		"8" : [
+			[ "despierte" ],
+			[ "despiertes" ],
+			[ "despierte" ],
+			[ "despertemos" ],
+			[ "despertéis", "despierten" ],
+			[ "despierten" ]
+		],
+		"9" : [
+			[ "despertara" ],
+			[ "despertaras" ],
+			[ "despertara" ],
+			[ "despertáramos" ],
+			[ "despertarais", "despertaran" ],
+			[ "despertaran" ]
+		],
+		"10" : [
+			[ "despertase" ],
+			[ "despertases" ],
+			[ "despertase" ],
+			[ "despertásemos" ],
+			[ "despertaseis", "despertasen" ],
+			[ "despertasen" ]
+		],
+		"11" : [
+			[ "despertare" ],
+			[ "despertares" ],
+			[ "despertare" ],
+			[ "despertáremos" ],
+			[ "despertareis", "despertaren" ],
+			[ "despertaren" ]
+		],
+		"12" : {
+			"1" : [ "despierta" ],
+			"2" : [ "despierte" ],
+			"3" : [ "despertemos" ],
+			"4" : [ "despertad" ],
+			"5" : [ "despierten" ]
+		}
+	}
+}

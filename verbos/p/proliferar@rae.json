@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=proliferar",
+	"word" : "proliferar",
+	"infinitivo" : "proliferar",
+	"participio" : [ "proliferado" ],
+	"gerundio" : [ "proliferando" ],
+	"tenses" : {
+		"3" : [
+			[ "prolifero" ],
+			[ "proliferas", "proliferás" ],
+			[ "prolifera" ],
+			[ "proliferamos" ],
+			[ "proliferáis", "proliferan" ],
+			[ "proliferan" ]
+		],
+		"4" : [
+			[ "proliferé" ],
+			[ "proliferaste" ],
+			[ "proliferó" ],
+			[ "proliferamos" ],
+			[ "proliferasteis", "proliferaron" ],
+			[ "proliferaron" ]
+		],
+		"5" : [
+			[ "proliferaba" ],
+			[ "proliferabas" ],
+			[ "proliferaba" ],
+			[ "proliferábamos" ],
+			[ "proliferabais", "proliferaban" ],
+			[ "proliferaban" ]
+		],
+		"6" : [
+			[ "proliferaría" ],
+			[ "proliferarías" ],
+			[ "proliferaría" ],
+			[ "proliferaríamos" ],
+			[ "proliferaríais", "proliferarían" ],
+			[ "proliferarían" ]
+		],
+		"7" : [
+			[ "proliferaré" ],
+			[ "proliferarás" ],
+			[ "proliferará" ],
+			[ "proliferaremos" ],
+			[ "proliferaréis", "proliferarán" ],
+			[ "proliferarán" ]
+		],
+		"8" : [
+			[ "prolifere" ],
+			[ "proliferes" ],
+			[ "prolifere" ],
+			[ "proliferemos" ],
+			[ "proliferéis", "proliferen" ],
+			[ "proliferen" ]
+		],
+		"9" : [
+			[ "proliferara" ],
+			[ "proliferaras" ],
+			[ "proliferara" ],
+			[ "proliferáramos" ],
+			[ "proliferarais", "proliferaran" ],
+			[ "proliferaran" ]
+		],
+		"10" : [
+			[ "proliferase" ],
+			[ "proliferases" ],
+			[ "proliferase" ],
+			[ "proliferásemos" ],
+			[ "proliferaseis", "proliferasen" ],
+			[ "proliferasen" ]
+		],
+		"11" : [
+			[ "proliferare" ],
+			[ "proliferares" ],
+			[ "proliferare" ],
+			[ "proliferáremos" ],
+			[ "proliferareis", "proliferaren" ],
+			[ "proliferaren" ]
+		],
+		"12" : {
+			"1" : [ "prolifera" ],
+			"2" : [ "prolifere" ],
+			"3" : [ "proliferemos" ],
+			"4" : [ "proliferad" ],
+			"5" : [ "proliferen" ]
+		}
+	}
+}

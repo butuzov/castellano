@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=solventar",
+	"word" : "solventar",
+	"infinitivo" : "solventar",
+	"participio" : [ "solventado" ],
+	"gerundio" : [ "solventando" ],
+	"tenses" : {
+		"3" : [
+			[ "solvento" ],
+			[ "solventas", "solventás" ],
+			[ "solventa" ],
+			[ "solventamos" ],
+			[ "solventáis", "solventan" ],
+			[ "solventan" ]
+		],
+		"4" : [
+			[ "solventé" ],
+			[ "solventaste" ],
+			[ "solventó" ],
+			[ "solventamos" ],
+			[ "solventasteis", "solventaron" ],
+			[ "solventaron" ]
+		],
+		"5" : [
+			[ "solventaba" ],
+			[ "solventabas" ],
+			[ "solventaba" ],
+			[ "solventábamos" ],
+			[ "solventabais", "solventaban" ],
+			[ "solventaban" ]
+		],
+		"6" : [
+			[ "solventaría" ],
+			[ "solventarías" ],
+			[ "solventaría" ],
+			[ "solventaríamos" ],
+			[ "solventaríais", "solventarían" ],
+			[ "solventarían" ]
+		],
+		"7" : [
+			[ "solventaré" ],
+			[ "solventarás" ],
+			[ "solventará" ],
+			[ "solventaremos" ],
+			[ "solventaréis", "solventarán" ],
+			[ "solventarán" ]
+		],
+		"8" : [
+			[ "solvente" ],
+			[ "solventes" ],
+			[ "solvente" ],
+			[ "solventemos" ],
+			[ "solventéis", "solventen" ],
+			[ "solventen" ]
+		],
+		"9" : [
+			[ "solventara" ],
+			[ "solventaras" ],
+			[ "solventara" ],
+			[ "solventáramos" ],
+			[ "solventarais", "solventaran" ],
+			[ "solventaran" ]
+		],
+		"10" : [
+			[ "solventase" ],
+			[ "solventases" ],
+			[ "solventase" ],
+			[ "solventásemos" ],
+			[ "solventaseis", "solventasen" ],
+			[ "solventasen" ]
+		],
+		"11" : [
+			[ "solventare" ],
+			[ "solventares" ],
+			[ "solventare" ],
+			[ "solventáremos" ],
+			[ "solventareis", "solventaren" ],
+			[ "solventaren" ]
+		],
+		"12" : {
+			"1" : [ "solventa" ],
+			"2" : [ "solvente" ],
+			"3" : [ "solventemos" ],
+			"4" : [ "solventad" ],
+			"5" : [ "solventen" ]
+		}
+	}
+}

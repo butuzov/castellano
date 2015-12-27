@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=referir",
+	"word" : "referir",
+	"infinitivo" : "referir",
+	"participio" : [ "referido" ],
+	"gerundio" : [ "refiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "refiero" ],
+			[ "refieres", "referís" ],
+			[ "refiere" ],
+			[ "referimos" ],
+			[ "referís", "refieren" ],
+			[ "refieren" ]
+		],
+		"4" : [
+			[ "referí" ],
+			[ "referiste" ],
+			[ "refirió" ],
+			[ "referimos" ],
+			[ "referisteis", "refirieron" ],
+			[ "refirieron" ]
+		],
+		"5" : [
+			[ "refería" ],
+			[ "referías" ],
+			[ "refería" ],
+			[ "referíamos" ],
+			[ "referíais", "referían" ],
+			[ "referían" ]
+		],
+		"6" : [
+			[ "referiría" ],
+			[ "referirías" ],
+			[ "referiría" ],
+			[ "referiríamos" ],
+			[ "referiríais", "referirían" ],
+			[ "referirían" ]
+		],
+		"7" : [
+			[ "referiré" ],
+			[ "referirás" ],
+			[ "referirá" ],
+			[ "referiremos" ],
+			[ "referiréis", "referirán" ],
+			[ "referirán" ]
+		],
+		"8" : [
+			[ "refiera" ],
+			[ "refieras" ],
+			[ "refiera" ],
+			[ "refiramos" ],
+			[ "refiráis", "refieran" ],
+			[ "refieran" ]
+		],
+		"9" : [
+			[ "refiriera" ],
+			[ "refirieras" ],
+			[ "refiriera" ],
+			[ "refiriéramos" ],
+			[ "refirierais", "refirieran" ],
+			[ "refirieran" ]
+		],
+		"10" : [
+			[ "refiriese" ],
+			[ "refirieses" ],
+			[ "refiriese" ],
+			[ "refiriésemos" ],
+			[ "refirieseis", "refiriesen" ],
+			[ "refiriesen" ]
+		],
+		"11" : [
+			[ "refiriere" ],
+			[ "refirieres" ],
+			[ "refiriere" ],
+			[ "refiriéremos" ],
+			[ "refiriereis", "refirieren" ],
+			[ "refirieren" ]
+		],
+		"12" : {
+			"1" : [ "refiere" ],
+			"2" : [ "refiera" ],
+			"3" : [ "refiramos" ],
+			"4" : [ "referid" ],
+			"5" : [ "refieran" ]
+		}
+	}
+}

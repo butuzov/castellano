@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=birlar",
+	"word" : "birlar",
+	"infinitivo" : "birlar",
+	"participio" : [ "birlado" ],
+	"gerundio" : [ "birlando" ],
+	"tenses" : {
+		"3" : [
+			[ "birlo" ],
+			[ "birlas", "birlás" ],
+			[ "birla" ],
+			[ "birlamos" ],
+			[ "birláis", "birlan" ],
+			[ "birlan" ]
+		],
+		"4" : [
+			[ "birlé" ],
+			[ "birlaste" ],
+			[ "birló" ],
+			[ "birlamos" ],
+			[ "birlasteis", "birlaron" ],
+			[ "birlaron" ]
+		],
+		"5" : [
+			[ "birlaba" ],
+			[ "birlabas" ],
+			[ "birlaba" ],
+			[ "birlábamos" ],
+			[ "birlabais", "birlaban" ],
+			[ "birlaban" ]
+		],
+		"6" : [
+			[ "birlaría" ],
+			[ "birlarías" ],
+			[ "birlaría" ],
+			[ "birlaríamos" ],
+			[ "birlaríais", "birlarían" ],
+			[ "birlarían" ]
+		],
+		"7" : [
+			[ "birlaré" ],
+			[ "birlarás" ],
+			[ "birlará" ],
+			[ "birlaremos" ],
+			[ "birlaréis", "birlarán" ],
+			[ "birlarán" ]
+		],
+		"8" : [
+			[ "birle" ],
+			[ "birles" ],
+			[ "birle" ],
+			[ "birlemos" ],
+			[ "birléis", "birlen" ],
+			[ "birlen" ]
+		],
+		"9" : [
+			[ "birlara" ],
+			[ "birlaras" ],
+			[ "birlara" ],
+			[ "birláramos" ],
+			[ "birlarais", "birlaran" ],
+			[ "birlaran" ]
+		],
+		"10" : [
+			[ "birlase" ],
+			[ "birlases" ],
+			[ "birlase" ],
+			[ "birlásemos" ],
+			[ "birlaseis", "birlasen" ],
+			[ "birlasen" ]
+		],
+		"11" : [
+			[ "birlare" ],
+			[ "birlares" ],
+			[ "birlare" ],
+			[ "birláremos" ],
+			[ "birlareis", "birlaren" ],
+			[ "birlaren" ]
+		],
+		"12" : {
+			"1" : [ "birla" ],
+			"2" : [ "birle" ],
+			"3" : [ "birlemos" ],
+			"4" : [ "birlad" ],
+			"5" : [ "birlen" ]
+		}
+	}
+}

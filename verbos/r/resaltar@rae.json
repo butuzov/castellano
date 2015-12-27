@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resaltar",
+	"word" : "resaltar",
+	"infinitivo" : "resaltar",
+	"participio" : [ "resaltado" ],
+	"gerundio" : [ "resaltando" ],
+	"tenses" : {
+		"3" : [
+			[ "resalto" ],
+			[ "resaltas", "resaltás" ],
+			[ "resalta" ],
+			[ "resaltamos" ],
+			[ "resaltáis", "resaltan" ],
+			[ "resaltan" ]
+		],
+		"4" : [
+			[ "resalté" ],
+			[ "resaltaste" ],
+			[ "resaltó" ],
+			[ "resaltamos" ],
+			[ "resaltasteis", "resaltaron" ],
+			[ "resaltaron" ]
+		],
+		"5" : [
+			[ "resaltaba" ],
+			[ "resaltabas" ],
+			[ "resaltaba" ],
+			[ "resaltábamos" ],
+			[ "resaltabais", "resaltaban" ],
+			[ "resaltaban" ]
+		],
+		"6" : [
+			[ "resaltaría" ],
+			[ "resaltarías" ],
+			[ "resaltaría" ],
+			[ "resaltaríamos" ],
+			[ "resaltaríais", "resaltarían" ],
+			[ "resaltarían" ]
+		],
+		"7" : [
+			[ "resaltaré" ],
+			[ "resaltarás" ],
+			[ "resaltará" ],
+			[ "resaltaremos" ],
+			[ "resaltaréis", "resaltarán" ],
+			[ "resaltarán" ]
+		],
+		"8" : [
+			[ "resalte" ],
+			[ "resaltes" ],
+			[ "resalte" ],
+			[ "resaltemos" ],
+			[ "resaltéis", "resalten" ],
+			[ "resalten" ]
+		],
+		"9" : [
+			[ "resaltara" ],
+			[ "resaltaras" ],
+			[ "resaltara" ],
+			[ "resaltáramos" ],
+			[ "resaltarais", "resaltaran" ],
+			[ "resaltaran" ]
+		],
+		"10" : [
+			[ "resaltase" ],
+			[ "resaltases" ],
+			[ "resaltase" ],
+			[ "resaltásemos" ],
+			[ "resaltaseis", "resaltasen" ],
+			[ "resaltasen" ]
+		],
+		"11" : [
+			[ "resaltare" ],
+			[ "resaltares" ],
+			[ "resaltare" ],
+			[ "resaltáremos" ],
+			[ "resaltareis", "resaltaren" ],
+			[ "resaltaren" ]
+		],
+		"12" : {
+			"1" : [ "resalta" ],
+			"2" : [ "resalte" ],
+			"3" : [ "resaltemos" ],
+			"4" : [ "resaltad" ],
+			"5" : [ "resalten" ]
+		}
+	}
+}

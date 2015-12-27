@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=motorizar",
+	"word" : "motorizar",
+	"infinitivo" : "motorizar",
+	"participio" : [ "motorizado" ],
+	"gerundio" : [ "motorizando" ],
+	"tenses" : {
+		"3" : [
+			[ "motorizo" ],
+			[ "motorizas", "motorizás" ],
+			[ "motoriza" ],
+			[ "motorizamos" ],
+			[ "motorizáis", "motorizan" ],
+			[ "motorizan" ]
+		],
+		"4" : [
+			[ "motoricé" ],
+			[ "motorizaste" ],
+			[ "motorizó" ],
+			[ "motorizamos" ],
+			[ "motorizasteis", "motorizaron" ],
+			[ "motorizaron" ]
+		],
+		"5" : [
+			[ "motorizaba" ],
+			[ "motorizabas" ],
+			[ "motorizaba" ],
+			[ "motorizábamos" ],
+			[ "motorizabais", "motorizaban" ],
+			[ "motorizaban" ]
+		],
+		"6" : [
+			[ "motorizaría" ],
+			[ "motorizarías" ],
+			[ "motorizaría" ],
+			[ "motorizaríamos" ],
+			[ "motorizaríais", "motorizarían" ],
+			[ "motorizarían" ]
+		],
+		"7" : [
+			[ "motorizaré" ],
+			[ "motorizarás" ],
+			[ "motorizará" ],
+			[ "motorizaremos" ],
+			[ "motorizaréis", "motorizarán" ],
+			[ "motorizarán" ]
+		],
+		"8" : [
+			[ "motorice" ],
+			[ "motorices" ],
+			[ "motorice" ],
+			[ "motoricemos" ],
+			[ "motoricéis", "motoricen" ],
+			[ "motoricen" ]
+		],
+		"9" : [
+			[ "motorizara" ],
+			[ "motorizaras" ],
+			[ "motorizara" ],
+			[ "motorizáramos" ],
+			[ "motorizarais", "motorizaran" ],
+			[ "motorizaran" ]
+		],
+		"10" : [
+			[ "motorizase" ],
+			[ "motorizases" ],
+			[ "motorizase" ],
+			[ "motorizásemos" ],
+			[ "motorizaseis", "motorizasen" ],
+			[ "motorizasen" ]
+		],
+		"11" : [
+			[ "motorizare" ],
+			[ "motorizares" ],
+			[ "motorizare" ],
+			[ "motorizáremos" ],
+			[ "motorizareis", "motorizaren" ],
+			[ "motorizaren" ]
+		],
+		"12" : {
+			"1" : [ "motoriza" ],
+			"2" : [ "motorice" ],
+			"3" : [ "motoricemos" ],
+			"4" : [ "motorizad" ],
+			"5" : [ "motoricen" ]
+		}
+	}
+}

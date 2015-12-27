@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incluir",
+	"word" : "incluir",
+	"infinitivo" : "incluir",
+	"participio" : [ "incluido" ],
+	"gerundio" : [ "incluyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "incluyo" ],
+			[ "incluyes", "incluís" ],
+			[ "incluye" ],
+			[ "incluimos" ],
+			[ "incluís", "incluyen" ],
+			[ "incluyen" ]
+		],
+		"4" : [
+			[ "incluí" ],
+			[ "incluiste" ],
+			[ "incluyó" ],
+			[ "incluimos" ],
+			[ "incluisteis", "incluyeron" ],
+			[ "incluyeron" ]
+		],
+		"5" : [
+			[ "incluía" ],
+			[ "incluías" ],
+			[ "incluía" ],
+			[ "incluíamos" ],
+			[ "incluíais", "incluían" ],
+			[ "incluían" ]
+		],
+		"6" : [
+			[ "incluiría" ],
+			[ "incluirías" ],
+			[ "incluiría" ],
+			[ "incluiríamos" ],
+			[ "incluiríais", "incluirían" ],
+			[ "incluirían" ]
+		],
+		"7" : [
+			[ "incluiré" ],
+			[ "incluirás" ],
+			[ "incluirá" ],
+			[ "incluiremos" ],
+			[ "incluiréis", "incluirán" ],
+			[ "incluirán" ]
+		],
+		"8" : [
+			[ "incluya" ],
+			[ "incluyas" ],
+			[ "incluya" ],
+			[ "incluyamos" ],
+			[ "incluyáis", "incluyan" ],
+			[ "incluyan" ]
+		],
+		"9" : [
+			[ "incluyera" ],
+			[ "incluyeras" ],
+			[ "incluyera" ],
+			[ "incluyéramos" ],
+			[ "incluyerais", "incluyeran" ],
+			[ "incluyeran" ]
+		],
+		"10" : [
+			[ "incluyese" ],
+			[ "incluyeses" ],
+			[ "incluyese" ],
+			[ "incluyésemos" ],
+			[ "incluyeseis", "incluyesen" ],
+			[ "incluyesen" ]
+		],
+		"11" : [
+			[ "incluyere" ],
+			[ "incluyeres" ],
+			[ "incluyere" ],
+			[ "incluyéremos" ],
+			[ "incluyereis", "incluyeren" ],
+			[ "incluyeren" ]
+		],
+		"12" : {
+			"1" : [ "incluye" ],
+			"2" : [ "incluya" ],
+			"3" : [ "incluyamos" ],
+			"4" : [ "incluid" ],
+			"5" : [ "incluyan" ]
+		}
+	}
+}

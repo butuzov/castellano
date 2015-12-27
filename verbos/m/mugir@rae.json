@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mugir",
+	"word" : "mugir",
+	"infinitivo" : "mugir",
+	"participio" : [ "mugido" ],
+	"gerundio" : [ "mugiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "mujo" ],
+			[ "muges", "mugís" ],
+			[ "muge" ],
+			[ "mugimos" ],
+			[ "mugís", "mugen" ],
+			[ "mugen" ]
+		],
+		"4" : [
+			[ "mugí" ],
+			[ "mugiste" ],
+			[ "mugió" ],
+			[ "mugimos" ],
+			[ "mugisteis", "mugieron" ],
+			[ "mugieron" ]
+		],
+		"5" : [
+			[ "mugía" ],
+			[ "mugías" ],
+			[ "mugía" ],
+			[ "mugíamos" ],
+			[ "mugíais", "mugían" ],
+			[ "mugían" ]
+		],
+		"6" : [
+			[ "mugiría" ],
+			[ "mugirías" ],
+			[ "mugiría" ],
+			[ "mugiríamos" ],
+			[ "mugiríais", "mugirían" ],
+			[ "mugirían" ]
+		],
+		"7" : [
+			[ "mugiré" ],
+			[ "mugirás" ],
+			[ "mugirá" ],
+			[ "mugiremos" ],
+			[ "mugiréis", "mugirán" ],
+			[ "mugirán" ]
+		],
+		"8" : [
+			[ "muja" ],
+			[ "mujas" ],
+			[ "muja" ],
+			[ "mujamos" ],
+			[ "mujáis", "mujan" ],
+			[ "mujan" ]
+		],
+		"9" : [
+			[ "mugiera" ],
+			[ "mugieras" ],
+			[ "mugiera" ],
+			[ "mugiéramos" ],
+			[ "mugierais", "mugieran" ],
+			[ "mugieran" ]
+		],
+		"10" : [
+			[ "mugiese" ],
+			[ "mugieses" ],
+			[ "mugiese" ],
+			[ "mugiésemos" ],
+			[ "mugieseis", "mugiesen" ],
+			[ "mugiesen" ]
+		],
+		"11" : [
+			[ "mugiere" ],
+			[ "mugieres" ],
+			[ "mugiere" ],
+			[ "mugiéremos" ],
+			[ "mugiereis", "mugieren" ],
+			[ "mugieren" ]
+		],
+		"12" : {
+			"1" : [ "muge" ],
+			"2" : [ "muja" ],
+			"3" : [ "mujamos" ],
+			"4" : [ "mugid" ],
+			"5" : [ "mujan" ]
+		}
+	}
+}

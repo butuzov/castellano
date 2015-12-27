@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=insultar",
+	"word" : "insultar",
+	"infinitivo" : "insultar",
+	"participio" : [ "insultado" ],
+	"gerundio" : [ "insultando" ],
+	"tenses" : {
+		"3" : [
+			[ "insulto" ],
+			[ "insultas", "insultás" ],
+			[ "insulta" ],
+			[ "insultamos" ],
+			[ "insultáis", "insultan" ],
+			[ "insultan" ]
+		],
+		"4" : [
+			[ "insulté" ],
+			[ "insultaste" ],
+			[ "insultó" ],
+			[ "insultamos" ],
+			[ "insultasteis", "insultaron" ],
+			[ "insultaron" ]
+		],
+		"5" : [
+			[ "insultaba" ],
+			[ "insultabas" ],
+			[ "insultaba" ],
+			[ "insultábamos" ],
+			[ "insultabais", "insultaban" ],
+			[ "insultaban" ]
+		],
+		"6" : [
+			[ "insultaría" ],
+			[ "insultarías" ],
+			[ "insultaría" ],
+			[ "insultaríamos" ],
+			[ "insultaríais", "insultarían" ],
+			[ "insultarían" ]
+		],
+		"7" : [
+			[ "insultaré" ],
+			[ "insultarás" ],
+			[ "insultará" ],
+			[ "insultaremos" ],
+			[ "insultaréis", "insultarán" ],
+			[ "insultarán" ]
+		],
+		"8" : [
+			[ "insulte" ],
+			[ "insultes" ],
+			[ "insulte" ],
+			[ "insultemos" ],
+			[ "insultéis", "insulten" ],
+			[ "insulten" ]
+		],
+		"9" : [
+			[ "insultara" ],
+			[ "insultaras" ],
+			[ "insultara" ],
+			[ "insultáramos" ],
+			[ "insultarais", "insultaran" ],
+			[ "insultaran" ]
+		],
+		"10" : [
+			[ "insultase" ],
+			[ "insultases" ],
+			[ "insultase" ],
+			[ "insultásemos" ],
+			[ "insultaseis", "insultasen" ],
+			[ "insultasen" ]
+		],
+		"11" : [
+			[ "insultare" ],
+			[ "insultares" ],
+			[ "insultare" ],
+			[ "insultáremos" ],
+			[ "insultareis", "insultaren" ],
+			[ "insultaren" ]
+		],
+		"12" : {
+			"1" : [ "insulta" ],
+			"2" : [ "insulte" ],
+			"3" : [ "insultemos" ],
+			"4" : [ "insultad" ],
+			"5" : [ "insulten" ]
+		}
+	}
+}

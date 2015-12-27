@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=faltar",
+	"word" : "faltar",
+	"infinitivo" : "faltar",
+	"participio" : [ "faltado" ],
+	"gerundio" : [ "faltando" ],
+	"tenses" : {
+		"3" : [
+			[ "falto" ],
+			[ "faltas", "faltás" ],
+			[ "falta" ],
+			[ "faltamos" ],
+			[ "faltáis", "faltan" ],
+			[ "faltan" ]
+		],
+		"4" : [
+			[ "falté" ],
+			[ "faltaste" ],
+			[ "faltó" ],
+			[ "faltamos" ],
+			[ "faltasteis", "faltaron" ],
+			[ "faltaron" ]
+		],
+		"5" : [
+			[ "faltaba" ],
+			[ "faltabas" ],
+			[ "faltaba" ],
+			[ "faltábamos" ],
+			[ "faltabais", "faltaban" ],
+			[ "faltaban" ]
+		],
+		"6" : [
+			[ "faltaría" ],
+			[ "faltarías" ],
+			[ "faltaría" ],
+			[ "faltaríamos" ],
+			[ "faltaríais", "faltarían" ],
+			[ "faltarían" ]
+		],
+		"7" : [
+			[ "faltaré" ],
+			[ "faltarás" ],
+			[ "faltará" ],
+			[ "faltaremos" ],
+			[ "faltaréis", "faltarán" ],
+			[ "faltarán" ]
+		],
+		"8" : [
+			[ "falte" ],
+			[ "faltes" ],
+			[ "falte" ],
+			[ "faltemos" ],
+			[ "faltéis", "falten" ],
+			[ "falten" ]
+		],
+		"9" : [
+			[ "faltara" ],
+			[ "faltaras" ],
+			[ "faltara" ],
+			[ "faltáramos" ],
+			[ "faltarais", "faltaran" ],
+			[ "faltaran" ]
+		],
+		"10" : [
+			[ "faltase" ],
+			[ "faltases" ],
+			[ "faltase" ],
+			[ "faltásemos" ],
+			[ "faltaseis", "faltasen" ],
+			[ "faltasen" ]
+		],
+		"11" : [
+			[ "faltare" ],
+			[ "faltares" ],
+			[ "faltare" ],
+			[ "faltáremos" ],
+			[ "faltareis", "faltaren" ],
+			[ "faltaren" ]
+		],
+		"12" : {
+			"1" : [ "falta" ],
+			"2" : [ "falte" ],
+			"3" : [ "faltemos" ],
+			"4" : [ "faltad" ],
+			"5" : [ "falten" ]
+		}
+	}
+}

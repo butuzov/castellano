@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alternar",
+	"word" : "alternar",
+	"infinitivo" : "alternar",
+	"participio" : [ "alternado" ],
+	"gerundio" : [ "alternando" ],
+	"tenses" : {
+		"3" : [
+			[ "alterno" ],
+			[ "alternas", "alternás" ],
+			[ "alterna" ],
+			[ "alternamos" ],
+			[ "alternáis", "alternan" ],
+			[ "alternan" ]
+		],
+		"4" : [
+			[ "alterné" ],
+			[ "alternaste" ],
+			[ "alternó" ],
+			[ "alternamos" ],
+			[ "alternasteis", "alternaron" ],
+			[ "alternaron" ]
+		],
+		"5" : [
+			[ "alternaba" ],
+			[ "alternabas" ],
+			[ "alternaba" ],
+			[ "alternábamos" ],
+			[ "alternabais", "alternaban" ],
+			[ "alternaban" ]
+		],
+		"6" : [
+			[ "alternaría" ],
+			[ "alternarías" ],
+			[ "alternaría" ],
+			[ "alternaríamos" ],
+			[ "alternaríais", "alternarían" ],
+			[ "alternarían" ]
+		],
+		"7" : [
+			[ "alternaré" ],
+			[ "alternarás" ],
+			[ "alternará" ],
+			[ "alternaremos" ],
+			[ "alternaréis", "alternarán" ],
+			[ "alternarán" ]
+		],
+		"8" : [
+			[ "alterne" ],
+			[ "alternes" ],
+			[ "alterne" ],
+			[ "alternemos" ],
+			[ "alternéis", "alternen" ],
+			[ "alternen" ]
+		],
+		"9" : [
+			[ "alternara" ],
+			[ "alternaras" ],
+			[ "alternara" ],
+			[ "alternáramos" ],
+			[ "alternarais", "alternaran" ],
+			[ "alternaran" ]
+		],
+		"10" : [
+			[ "alternase" ],
+			[ "alternases" ],
+			[ "alternase" ],
+			[ "alternásemos" ],
+			[ "alternaseis", "alternasen" ],
+			[ "alternasen" ]
+		],
+		"11" : [
+			[ "alternare" ],
+			[ "alternares" ],
+			[ "alternare" ],
+			[ "alternáremos" ],
+			[ "alternareis", "alternaren" ],
+			[ "alternaren" ]
+		],
+		"12" : {
+			"1" : [ "alterna" ],
+			"2" : [ "alterne" ],
+			"3" : [ "alternemos" ],
+			"4" : [ "alternad" ],
+			"5" : [ "alternen" ]
+		}
+	}
+}

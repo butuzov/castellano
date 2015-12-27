@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=corear",
+	"word" : "corear",
+	"infinitivo" : "corear",
+	"participio" : [ "coreado" ],
+	"gerundio" : [ "coreando" ],
+	"tenses" : {
+		"3" : [
+			[ "coreo" ],
+			[ "coreas", "coreás" ],
+			[ "corea" ],
+			[ "coreamos" ],
+			[ "coreáis", "corean" ],
+			[ "corean" ]
+		],
+		"4" : [
+			[ "coreé" ],
+			[ "coreaste" ],
+			[ "coreó" ],
+			[ "coreamos" ],
+			[ "coreasteis", "corearon" ],
+			[ "corearon" ]
+		],
+		"5" : [
+			[ "coreaba" ],
+			[ "coreabas" ],
+			[ "coreaba" ],
+			[ "coreábamos" ],
+			[ "coreabais", "coreaban" ],
+			[ "coreaban" ]
+		],
+		"6" : [
+			[ "corearía" ],
+			[ "corearías" ],
+			[ "corearía" ],
+			[ "corearíamos" ],
+			[ "corearíais", "corearían" ],
+			[ "corearían" ]
+		],
+		"7" : [
+			[ "corearé" ],
+			[ "corearás" ],
+			[ "coreará" ],
+			[ "corearemos" ],
+			[ "corearéis", "corearán" ],
+			[ "corearán" ]
+		],
+		"8" : [
+			[ "coree" ],
+			[ "corees" ],
+			[ "coree" ],
+			[ "coreemos" ],
+			[ "coreéis", "coreen" ],
+			[ "coreen" ]
+		],
+		"9" : [
+			[ "coreara" ],
+			[ "corearas" ],
+			[ "coreara" ],
+			[ "coreáramos" ],
+			[ "corearais", "corearan" ],
+			[ "corearan" ]
+		],
+		"10" : [
+			[ "corease" ],
+			[ "coreases" ],
+			[ "corease" ],
+			[ "coreásemos" ],
+			[ "coreaseis", "coreasen" ],
+			[ "coreasen" ]
+		],
+		"11" : [
+			[ "coreare" ],
+			[ "coreares" ],
+			[ "coreare" ],
+			[ "coreáremos" ],
+			[ "coreareis", "corearen" ],
+			[ "corearen" ]
+		],
+		"12" : {
+			"1" : [ "corea" ],
+			"2" : [ "coree" ],
+			"3" : [ "coreemos" ],
+			"4" : [ "coread" ],
+			"5" : [ "coreen" ]
+		}
+	}
+}

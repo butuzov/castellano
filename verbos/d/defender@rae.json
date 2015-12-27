@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=defender",
+	"word" : "defender",
+	"infinitivo" : "defender",
+	"participio" : [ "defendido" ],
+	"gerundio" : [ "defendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "defiendo" ],
+			[ "defiendes", "defendés" ],
+			[ "defiende" ],
+			[ "defendemos" ],
+			[ "defendéis", "defienden" ],
+			[ "defienden" ]
+		],
+		"4" : [
+			[ "defendí" ],
+			[ "defendiste" ],
+			[ "defendió" ],
+			[ "defendimos" ],
+			[ "defendisteis", "defendieron" ],
+			[ "defendieron" ]
+		],
+		"5" : [
+			[ "defendía" ],
+			[ "defendías" ],
+			[ "defendía" ],
+			[ "defendíamos" ],
+			[ "defendíais", "defendían" ],
+			[ "defendían" ]
+		],
+		"6" : [
+			[ "defendería" ],
+			[ "defenderías" ],
+			[ "defendería" ],
+			[ "defenderíamos" ],
+			[ "defenderíais", "defenderían" ],
+			[ "defenderían" ]
+		],
+		"7" : [
+			[ "defenderé" ],
+			[ "defenderás" ],
+			[ "defenderá" ],
+			[ "defenderemos" ],
+			[ "defenderéis", "defenderán" ],
+			[ "defenderán" ]
+		],
+		"8" : [
+			[ "defienda" ],
+			[ "defiendas" ],
+			[ "defienda" ],
+			[ "defendamos" ],
+			[ "defendáis", "defiendan" ],
+			[ "defiendan" ]
+		],
+		"9" : [
+			[ "defendiera" ],
+			[ "defendieras" ],
+			[ "defendiera" ],
+			[ "defendiéramos" ],
+			[ "defendierais", "defendieran" ],
+			[ "defendieran" ]
+		],
+		"10" : [
+			[ "defendiese" ],
+			[ "defendieses" ],
+			[ "defendiese" ],
+			[ "defendiésemos" ],
+			[ "defendieseis", "defendiesen" ],
+			[ "defendiesen" ]
+		],
+		"11" : [
+			[ "defendiere" ],
+			[ "defendieres" ],
+			[ "defendiere" ],
+			[ "defendiéremos" ],
+			[ "defendiereis", "defendieren" ],
+			[ "defendieren" ]
+		],
+		"12" : {
+			"1" : [ "defiende" ],
+			"2" : [ "defienda" ],
+			"3" : [ "defendamos" ],
+			"4" : [ "defended" ],
+			"5" : [ "defiendan" ]
+		}
+	}
+}

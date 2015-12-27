@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recostar",
+	"word" : "recostar",
+	"infinitivo" : "recostar",
+	"participio" : [ "recostado" ],
+	"gerundio" : [ "recostando" ],
+	"tenses" : {
+		"3" : [
+			[ "recuesto" ],
+			[ "recuestas", "recostás" ],
+			[ "recuesta" ],
+			[ "recostamos" ],
+			[ "recostáis", "recuestan" ],
+			[ "recuestan" ]
+		],
+		"4" : [
+			[ "recosté" ],
+			[ "recostaste" ],
+			[ "recostó" ],
+			[ "recostamos" ],
+			[ "recostasteis", "recostaron" ],
+			[ "recostaron" ]
+		],
+		"5" : [
+			[ "recostaba" ],
+			[ "recostabas" ],
+			[ "recostaba" ],
+			[ "recostábamos" ],
+			[ "recostabais", "recostaban" ],
+			[ "recostaban" ]
+		],
+		"6" : [
+			[ "recostaría" ],
+			[ "recostarías" ],
+			[ "recostaría" ],
+			[ "recostaríamos" ],
+			[ "recostaríais", "recostarían" ],
+			[ "recostarían" ]
+		],
+		"7" : [
+			[ "recostaré" ],
+			[ "recostarás" ],
+			[ "recostará" ],
+			[ "recostaremos" ],
+			[ "recostaréis", "recostarán" ],
+			[ "recostarán" ]
+		],
+		"8" : [
+			[ "recueste" ],
+			[ "recuestes" ],
+			[ "recueste" ],
+			[ "recostemos" ],
+			[ "recostéis", "recuesten" ],
+			[ "recuesten" ]
+		],
+		"9" : [
+			[ "recostara" ],
+			[ "recostaras" ],
+			[ "recostara" ],
+			[ "recostáramos" ],
+			[ "recostarais", "recostaran" ],
+			[ "recostaran" ]
+		],
+		"10" : [
+			[ "recostase" ],
+			[ "recostases" ],
+			[ "recostase" ],
+			[ "recostásemos" ],
+			[ "recostaseis", "recostasen" ],
+			[ "recostasen" ]
+		],
+		"11" : [
+			[ "recostare" ],
+			[ "recostares" ],
+			[ "recostare" ],
+			[ "recostáremos" ],
+			[ "recostareis", "recostaren" ],
+			[ "recostaren" ]
+		],
+		"12" : {
+			"1" : [ "recuesta" ],
+			"2" : [ "recueste" ],
+			"3" : [ "recostemos" ],
+			"4" : [ "recostad" ],
+			"5" : [ "recuesten" ]
+		}
+	}
+}

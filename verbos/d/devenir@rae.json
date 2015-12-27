@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=devenir",
+	"word" : "devenir",
+	"infinitivo" : "devenir",
+	"participio" : [ "devenido" ],
+	"gerundio" : [ "deviniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "devengo" ],
+			[ "devienes", "devenís" ],
+			[ "deviene" ],
+			[ "devenimos" ],
+			[ "devenís", "devienen" ],
+			[ "devienen" ]
+		],
+		"4" : [
+			[ "devine" ],
+			[ "deviniste" ],
+			[ "devino" ],
+			[ "devinimos" ],
+			[ "devinisteis", "devinieron" ],
+			[ "devinieron" ]
+		],
+		"5" : [
+			[ "devenía" ],
+			[ "devenías" ],
+			[ "devenía" ],
+			[ "deveníamos" ],
+			[ "deveníais", "devenían" ],
+			[ "devenían" ]
+		],
+		"6" : [
+			[ "devendría" ],
+			[ "devendrías" ],
+			[ "devendría" ],
+			[ "devendríamos" ],
+			[ "devendríais", "devendrían" ],
+			[ "devendrían" ]
+		],
+		"7" : [
+			[ "devendré" ],
+			[ "devendrás" ],
+			[ "devendrá" ],
+			[ "devendremos" ],
+			[ "devendréis", "devendrán" ],
+			[ "devendrán" ]
+		],
+		"8" : [
+			[ "devenga" ],
+			[ "devengas" ],
+			[ "devenga" ],
+			[ "devengamos" ],
+			[ "devengáis", "devengan" ],
+			[ "devengan" ]
+		],
+		"9" : [
+			[ "deviniera" ],
+			[ "devinieras" ],
+			[ "deviniera" ],
+			[ "deviniéramos" ],
+			[ "devinierais", "devinieran" ],
+			[ "devinieran" ]
+		],
+		"10" : [
+			[ "deviniese" ],
+			[ "devinieses" ],
+			[ "deviniese" ],
+			[ "deviniésemos" ],
+			[ "devinieseis", "deviniesen" ],
+			[ "deviniesen" ]
+		],
+		"11" : [
+			[ "deviniere" ],
+			[ "devinieres" ],
+			[ "deviniere" ],
+			[ "deviniéremos" ],
+			[ "deviniereis", "devinieren" ],
+			[ "devinieren" ]
+		],
+		"12" : {
+			"1" : [ "devén" ],
+			"2" : [ "devenga" ],
+			"3" : [ "devengamos" ],
+			"4" : [ "devenid" ],
+			"5" : [ "devengan" ]
+		}
+	}
+}

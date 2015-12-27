@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sombrar",
+	"word" : "sombrar",
+	"infinitivo" : "sombrar",
+	"participio" : [ "sombrado" ],
+	"gerundio" : [ "sombrando" ],
+	"tenses" : {
+		"3" : [
+			[ "sombro" ],
+			[ "sombras", "sombrás" ],
+			[ "sombra" ],
+			[ "sombramos" ],
+			[ "sombráis", "sombran" ],
+			[ "sombran" ]
+		],
+		"4" : [
+			[ "sombré" ],
+			[ "sombraste" ],
+			[ "sombró" ],
+			[ "sombramos" ],
+			[ "sombrasteis", "sombraron" ],
+			[ "sombraron" ]
+		],
+		"5" : [
+			[ "sombraba" ],
+			[ "sombrabas" ],
+			[ "sombraba" ],
+			[ "sombrábamos" ],
+			[ "sombrabais", "sombraban" ],
+			[ "sombraban" ]
+		],
+		"6" : [
+			[ "sombraría" ],
+			[ "sombrarías" ],
+			[ "sombraría" ],
+			[ "sombraríamos" ],
+			[ "sombraríais", "sombrarían" ],
+			[ "sombrarían" ]
+		],
+		"7" : [
+			[ "sombraré" ],
+			[ "sombrarás" ],
+			[ "sombrará" ],
+			[ "sombraremos" ],
+			[ "sombraréis", "sombrarán" ],
+			[ "sombrarán" ]
+		],
+		"8" : [
+			[ "sombre" ],
+			[ "sombres" ],
+			[ "sombre" ],
+			[ "sombremos" ],
+			[ "sombréis", "sombren" ],
+			[ "sombren" ]
+		],
+		"9" : [
+			[ "sombrara" ],
+			[ "sombraras" ],
+			[ "sombrara" ],
+			[ "sombráramos" ],
+			[ "sombrarais", "sombraran" ],
+			[ "sombraran" ]
+		],
+		"10" : [
+			[ "sombrase" ],
+			[ "sombrases" ],
+			[ "sombrase" ],
+			[ "sombrásemos" ],
+			[ "sombraseis", "sombrasen" ],
+			[ "sombrasen" ]
+		],
+		"11" : [
+			[ "sombrare" ],
+			[ "sombrares" ],
+			[ "sombrare" ],
+			[ "sombráremos" ],
+			[ "sombrareis", "sombraren" ],
+			[ "sombraren" ]
+		],
+		"12" : {
+			"1" : [ "sombra" ],
+			"2" : [ "sombre" ],
+			"3" : [ "sombremos" ],
+			"4" : [ "sombrad" ],
+			"5" : [ "sombren" ]
+		}
+	}
+}

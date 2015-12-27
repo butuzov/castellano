@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=informatizar",
+	"word" : "informatizar",
+	"infinitivo" : "informatizar",
+	"participio" : [ "informatizado" ],
+	"gerundio" : [ "informatizando" ],
+	"tenses" : {
+		"3" : [
+			[ "informatizo" ],
+			[ "informatizas", "informatizás" ],
+			[ "informatiza" ],
+			[ "informatizamos" ],
+			[ "informatizáis", "informatizan" ],
+			[ "informatizan" ]
+		],
+		"4" : [
+			[ "informaticé" ],
+			[ "informatizaste" ],
+			[ "informatizó" ],
+			[ "informatizamos" ],
+			[ "informatizasteis", "informatizaron" ],
+			[ "informatizaron" ]
+		],
+		"5" : [
+			[ "informatizaba" ],
+			[ "informatizabas" ],
+			[ "informatizaba" ],
+			[ "informatizábamos" ],
+			[ "informatizabais", "informatizaban" ],
+			[ "informatizaban" ]
+		],
+		"6" : [
+			[ "informatizaría" ],
+			[ "informatizarías" ],
+			[ "informatizaría" ],
+			[ "informatizaríamos" ],
+			[ "informatizaríais", "informatizarían" ],
+			[ "informatizarían" ]
+		],
+		"7" : [
+			[ "informatizaré" ],
+			[ "informatizarás" ],
+			[ "informatizará" ],
+			[ "informatizaremos" ],
+			[ "informatizaréis", "informatizarán" ],
+			[ "informatizarán" ]
+		],
+		"8" : [
+			[ "informatice" ],
+			[ "informatices" ],
+			[ "informatice" ],
+			[ "informaticemos" ],
+			[ "informaticéis", "informaticen" ],
+			[ "informaticen" ]
+		],
+		"9" : [
+			[ "informatizara" ],
+			[ "informatizaras" ],
+			[ "informatizara" ],
+			[ "informatizáramos" ],
+			[ "informatizarais", "informatizaran" ],
+			[ "informatizaran" ]
+		],
+		"10" : [
+			[ "informatizase" ],
+			[ "informatizases" ],
+			[ "informatizase" ],
+			[ "informatizásemos" ],
+			[ "informatizaseis", "informatizasen" ],
+			[ "informatizasen" ]
+		],
+		"11" : [
+			[ "informatizare" ],
+			[ "informatizares" ],
+			[ "informatizare" ],
+			[ "informatizáremos" ],
+			[ "informatizareis", "informatizaren" ],
+			[ "informatizaren" ]
+		],
+		"12" : {
+			"1" : [ "informatiza" ],
+			"2" : [ "informatice" ],
+			"3" : [ "informaticemos" ],
+			"4" : [ "informatizad" ],
+			"5" : [ "informaticen" ]
+		}
+	}
+}

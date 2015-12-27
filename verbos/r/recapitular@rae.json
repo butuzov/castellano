@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recapitular",
+	"word" : "recapitular",
+	"infinitivo" : "recapitular",
+	"participio" : [ "recapitulado" ],
+	"gerundio" : [ "recapitulando" ],
+	"tenses" : {
+		"3" : [
+			[ "recapitulo" ],
+			[ "recapitulas", "recapitulás" ],
+			[ "recapitula" ],
+			[ "recapitulamos" ],
+			[ "recapituláis", "recapitulan" ],
+			[ "recapitulan" ]
+		],
+		"4" : [
+			[ "recapitulé" ],
+			[ "recapitulaste" ],
+			[ "recapituló" ],
+			[ "recapitulamos" ],
+			[ "recapitulasteis", "recapitularon" ],
+			[ "recapitularon" ]
+		],
+		"5" : [
+			[ "recapitulaba" ],
+			[ "recapitulabas" ],
+			[ "recapitulaba" ],
+			[ "recapitulábamos" ],
+			[ "recapitulabais", "recapitulaban" ],
+			[ "recapitulaban" ]
+		],
+		"6" : [
+			[ "recapitularía" ],
+			[ "recapitularías" ],
+			[ "recapitularía" ],
+			[ "recapitularíamos" ],
+			[ "recapitularíais", "recapitularían" ],
+			[ "recapitularían" ]
+		],
+		"7" : [
+			[ "recapitularé" ],
+			[ "recapitularás" ],
+			[ "recapitulará" ],
+			[ "recapitularemos" ],
+			[ "recapitularéis", "recapitularán" ],
+			[ "recapitularán" ]
+		],
+		"8" : [
+			[ "recapitule" ],
+			[ "recapitules" ],
+			[ "recapitule" ],
+			[ "recapitulemos" ],
+			[ "recapituléis", "recapitulen" ],
+			[ "recapitulen" ]
+		],
+		"9" : [
+			[ "recapitulara" ],
+			[ "recapitularas" ],
+			[ "recapitulara" ],
+			[ "recapituláramos" ],
+			[ "recapitularais", "recapitularan" ],
+			[ "recapitularan" ]
+		],
+		"10" : [
+			[ "recapitulase" ],
+			[ "recapitulases" ],
+			[ "recapitulase" ],
+			[ "recapitulásemos" ],
+			[ "recapitulaseis", "recapitulasen" ],
+			[ "recapitulasen" ]
+		],
+		"11" : [
+			[ "recapitulare" ],
+			[ "recapitulares" ],
+			[ "recapitulare" ],
+			[ "recapituláremos" ],
+			[ "recapitulareis", "recapitularen" ],
+			[ "recapitularen" ]
+		],
+		"12" : {
+			"1" : [ "recapitula" ],
+			"2" : [ "recapitule" ],
+			"3" : [ "recapitulemos" ],
+			"4" : [ "recapitulad" ],
+			"5" : [ "recapitulen" ]
+		}
+	}
+}

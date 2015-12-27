@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bullir",
+	"word" : "bullir",
+	"infinitivo" : "bullir",
+	"participio" : [ "bullido" ],
+	"gerundio" : [ "bullendo" ],
+	"tenses" : {
+		"3" : [
+			[ "bullo" ],
+			[ "bulles", "bullís" ],
+			[ "bulle" ],
+			[ "bullimos" ],
+			[ "bullís", "bullen" ],
+			[ "bullen" ]
+		],
+		"4" : [
+			[ "bullí" ],
+			[ "bulliste" ],
+			[ "bulló" ],
+			[ "bullimos" ],
+			[ "bullisteis", "bulleron" ],
+			[ "bulleron" ]
+		],
+		"5" : [
+			[ "bullía" ],
+			[ "bullías" ],
+			[ "bullía" ],
+			[ "bullíamos" ],
+			[ "bullíais", "bullían" ],
+			[ "bullían" ]
+		],
+		"6" : [
+			[ "bulliría" ],
+			[ "bullirías" ],
+			[ "bulliría" ],
+			[ "bulliríamos" ],
+			[ "bulliríais", "bullirían" ],
+			[ "bullirían" ]
+		],
+		"7" : [
+			[ "bulliré" ],
+			[ "bullirás" ],
+			[ "bullirá" ],
+			[ "bulliremos" ],
+			[ "bulliréis", "bullirán" ],
+			[ "bullirán" ]
+		],
+		"8" : [
+			[ "bulla" ],
+			[ "bullas" ],
+			[ "bulla" ],
+			[ "bullamos" ],
+			[ "bulláis", "bullan" ],
+			[ "bullan" ]
+		],
+		"9" : [
+			[ "bullera" ],
+			[ "bulleras" ],
+			[ "bullera" ],
+			[ "bulléramos" ],
+			[ "bullerais", "bulleran" ],
+			[ "bulleran" ]
+		],
+		"10" : [
+			[ "bullese" ],
+			[ "bulleses" ],
+			[ "bullese" ],
+			[ "bullésemos" ],
+			[ "bulleseis", "bullesen" ],
+			[ "bullesen" ]
+		],
+		"11" : [
+			[ "bullere" ],
+			[ "bulleres" ],
+			[ "bullere" ],
+			[ "bulléremos" ],
+			[ "bullereis", "bulleren" ],
+			[ "bulleren" ]
+		],
+		"12" : {
+			"1" : [ "bulle" ],
+			"2" : [ "bulla" ],
+			"3" : [ "bullamos" ],
+			"4" : [ "bullid" ],
+			"5" : [ "bullan" ]
+		}
+	}
+}

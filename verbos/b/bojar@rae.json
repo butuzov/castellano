@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bojar",
+	"word" : "bojar",
+	"infinitivo" : "bojar",
+	"participio" : [ "bojado" ],
+	"gerundio" : [ "bojando" ],
+	"tenses" : {
+		"3" : [
+			[ "bojo" ],
+			[ "bojas", "bojás" ],
+			[ "boja" ],
+			[ "bojamos" ],
+			[ "bojáis", "bojan" ],
+			[ "bojan" ]
+		],
+		"4" : [
+			[ "bojé" ],
+			[ "bojaste" ],
+			[ "bojó" ],
+			[ "bojamos" ],
+			[ "bojasteis", "bojaron" ],
+			[ "bojaron" ]
+		],
+		"5" : [
+			[ "bojaba" ],
+			[ "bojabas" ],
+			[ "bojaba" ],
+			[ "bojábamos" ],
+			[ "bojabais", "bojaban" ],
+			[ "bojaban" ]
+		],
+		"6" : [
+			[ "bojaría" ],
+			[ "bojarías" ],
+			[ "bojaría" ],
+			[ "bojaríamos" ],
+			[ "bojaríais", "bojarían" ],
+			[ "bojarían" ]
+		],
+		"7" : [
+			[ "bojaré" ],
+			[ "bojarás" ],
+			[ "bojará" ],
+			[ "bojaremos" ],
+			[ "bojaréis", "bojarán" ],
+			[ "bojarán" ]
+		],
+		"8" : [
+			[ "boje" ],
+			[ "bojes" ],
+			[ "boje" ],
+			[ "bojemos" ],
+			[ "bojéis", "bojen" ],
+			[ "bojen" ]
+		],
+		"9" : [
+			[ "bojara" ],
+			[ "bojaras" ],
+			[ "bojara" ],
+			[ "bojáramos" ],
+			[ "bojarais", "bojaran" ],
+			[ "bojaran" ]
+		],
+		"10" : [
+			[ "bojase" ],
+			[ "bojases" ],
+			[ "bojase" ],
+			[ "bojásemos" ],
+			[ "bojaseis", "bojasen" ],
+			[ "bojasen" ]
+		],
+		"11" : [
+			[ "bojare" ],
+			[ "bojares" ],
+			[ "bojare" ],
+			[ "bojáremos" ],
+			[ "bojareis", "bojaren" ],
+			[ "bojaren" ]
+		],
+		"12" : {
+			"1" : [ "boja" ],
+			"2" : [ "boje" ],
+			"3" : [ "bojemos" ],
+			"4" : [ "bojad" ],
+			"5" : [ "bojen" ]
+		}
+	}
+}

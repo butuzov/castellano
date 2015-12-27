@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deambular",
+	"word" : "deambular",
+	"infinitivo" : "deambular",
+	"participio" : [ "deambulado" ],
+	"gerundio" : [ "deambulando" ],
+	"tenses" : {
+		"3" : [
+			[ "deambulo" ],
+			[ "deambulas", "deambulás" ],
+			[ "deambula" ],
+			[ "deambulamos" ],
+			[ "deambuláis", "deambulan" ],
+			[ "deambulan" ]
+		],
+		"4" : [
+			[ "deambulé" ],
+			[ "deambulaste" ],
+			[ "deambuló" ],
+			[ "deambulamos" ],
+			[ "deambulasteis", "deambularon" ],
+			[ "deambularon" ]
+		],
+		"5" : [
+			[ "deambulaba" ],
+			[ "deambulabas" ],
+			[ "deambulaba" ],
+			[ "deambulábamos" ],
+			[ "deambulabais", "deambulaban" ],
+			[ "deambulaban" ]
+		],
+		"6" : [
+			[ "deambularía" ],
+			[ "deambularías" ],
+			[ "deambularía" ],
+			[ "deambularíamos" ],
+			[ "deambularíais", "deambularían" ],
+			[ "deambularían" ]
+		],
+		"7" : [
+			[ "deambularé" ],
+			[ "deambularás" ],
+			[ "deambulará" ],
+			[ "deambularemos" ],
+			[ "deambularéis", "deambularán" ],
+			[ "deambularán" ]
+		],
+		"8" : [
+			[ "deambule" ],
+			[ "deambules" ],
+			[ "deambule" ],
+			[ "deambulemos" ],
+			[ "deambuléis", "deambulen" ],
+			[ "deambulen" ]
+		],
+		"9" : [
+			[ "deambulara" ],
+			[ "deambularas" ],
+			[ "deambulara" ],
+			[ "deambuláramos" ],
+			[ "deambularais", "deambularan" ],
+			[ "deambularan" ]
+		],
+		"10" : [
+			[ "deambulase" ],
+			[ "deambulases" ],
+			[ "deambulase" ],
+			[ "deambulásemos" ],
+			[ "deambulaseis", "deambulasen" ],
+			[ "deambulasen" ]
+		],
+		"11" : [
+			[ "deambulare" ],
+			[ "deambulares" ],
+			[ "deambulare" ],
+			[ "deambuláremos" ],
+			[ "deambulareis", "deambularen" ],
+			[ "deambularen" ]
+		],
+		"12" : {
+			"1" : [ "deambula" ],
+			"2" : [ "deambule" ],
+			"3" : [ "deambulemos" ],
+			"4" : [ "deambulad" ],
+			"5" : [ "deambulen" ]
+		}
+	}
+}

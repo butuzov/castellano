@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=convalidar",
+	"word" : "convalidar",
+	"infinitivo" : "convalidar",
+	"participio" : [ "convalidado" ],
+	"gerundio" : [ "convalidando" ],
+	"tenses" : {
+		"3" : [
+			[ "convalido" ],
+			[ "convalidas", "convalidás" ],
+			[ "convalida" ],
+			[ "convalidamos" ],
+			[ "convalidáis", "convalidan" ],
+			[ "convalidan" ]
+		],
+		"4" : [
+			[ "convalidé" ],
+			[ "convalidaste" ],
+			[ "convalidó" ],
+			[ "convalidamos" ],
+			[ "convalidasteis", "convalidaron" ],
+			[ "convalidaron" ]
+		],
+		"5" : [
+			[ "convalidaba" ],
+			[ "convalidabas" ],
+			[ "convalidaba" ],
+			[ "convalidábamos" ],
+			[ "convalidabais", "convalidaban" ],
+			[ "convalidaban" ]
+		],
+		"6" : [
+			[ "convalidaría" ],
+			[ "convalidarías" ],
+			[ "convalidaría" ],
+			[ "convalidaríamos" ],
+			[ "convalidaríais", "convalidarían" ],
+			[ "convalidarían" ]
+		],
+		"7" : [
+			[ "convalidaré" ],
+			[ "convalidarás" ],
+			[ "convalidará" ],
+			[ "convalidaremos" ],
+			[ "convalidaréis", "convalidarán" ],
+			[ "convalidarán" ]
+		],
+		"8" : [
+			[ "convalide" ],
+			[ "convalides" ],
+			[ "convalide" ],
+			[ "convalidemos" ],
+			[ "convalidéis", "convaliden" ],
+			[ "convaliden" ]
+		],
+		"9" : [
+			[ "convalidara" ],
+			[ "convalidaras" ],
+			[ "convalidara" ],
+			[ "convalidáramos" ],
+			[ "convalidarais", "convalidaran" ],
+			[ "convalidaran" ]
+		],
+		"10" : [
+			[ "convalidase" ],
+			[ "convalidases" ],
+			[ "convalidase" ],
+			[ "convalidásemos" ],
+			[ "convalidaseis", "convalidasen" ],
+			[ "convalidasen" ]
+		],
+		"11" : [
+			[ "convalidare" ],
+			[ "convalidares" ],
+			[ "convalidare" ],
+			[ "convalidáremos" ],
+			[ "convalidareis", "convalidaren" ],
+			[ "convalidaren" ]
+		],
+		"12" : {
+			"1" : [ "convalida" ],
+			"2" : [ "convalide" ],
+			"3" : [ "convalidemos" ],
+			"4" : [ "convalidad" ],
+			"5" : [ "convaliden" ]
+		}
+	}
+}

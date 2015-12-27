@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=decaer",
+	"word" : "decaer",
+	"infinitivo" : "decaer",
+	"participio" : [ "decaído" ],
+	"gerundio" : [ "decayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "decaigo" ],
+			[ "decaes", "decaés" ],
+			[ "decae" ],
+			[ "decaemos" ],
+			[ "decaéis", "decaen" ],
+			[ "decaen" ]
+		],
+		"4" : [
+			[ "decaí" ],
+			[ "decaíste" ],
+			[ "decayó" ],
+			[ "decaímos" ],
+			[ "decaísteis", "decayeron" ],
+			[ "decayeron" ]
+		],
+		"5" : [
+			[ "decaía" ],
+			[ "decaías" ],
+			[ "decaía" ],
+			[ "decaíamos" ],
+			[ "decaíais", "decaían" ],
+			[ "decaían" ]
+		],
+		"6" : [
+			[ "decaería" ],
+			[ "decaerías" ],
+			[ "decaería" ],
+			[ "decaeríamos" ],
+			[ "decaeríais", "decaerían" ],
+			[ "decaerían" ]
+		],
+		"7" : [
+			[ "decaeré" ],
+			[ "decaerás" ],
+			[ "decaerá" ],
+			[ "decaeremos" ],
+			[ "decaeréis", "decaerán" ],
+			[ "decaerán" ]
+		],
+		"8" : [
+			[ "decaiga" ],
+			[ "decaigas" ],
+			[ "decaiga" ],
+			[ "decaigamos" ],
+			[ "decaigáis", "decaigan" ],
+			[ "decaigan" ]
+		],
+		"9" : [
+			[ "decayera" ],
+			[ "decayeras" ],
+			[ "decayera" ],
+			[ "decayéramos" ],
+			[ "decayerais", "decayeran" ],
+			[ "decayeran" ]
+		],
+		"10" : [
+			[ "decayese" ],
+			[ "decayeses" ],
+			[ "decayese" ],
+			[ "decayésemos" ],
+			[ "decayeseis", "decayesen" ],
+			[ "decayesen" ]
+		],
+		"11" : [
+			[ "decayere" ],
+			[ "decayeres" ],
+			[ "decayere" ],
+			[ "decayéremos" ],
+			[ "decayereis", "decayeren" ],
+			[ "decayeren" ]
+		],
+		"12" : {
+			"1" : [ "decae" ],
+			"2" : [ "decaiga" ],
+			"3" : [ "decaigamos" ],
+			"4" : [ "decaed" ],
+			"5" : [ "decaigan" ]
+		}
+	}
+}

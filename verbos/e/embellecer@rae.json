@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embellecer",
+	"word" : "embellecer",
+	"infinitivo" : "embellecer",
+	"participio" : [ "embellecido" ],
+	"gerundio" : [ "embelleciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "embellezco" ],
+			[ "embelleces", "embellecés" ],
+			[ "embellece" ],
+			[ "embellecemos" ],
+			[ "embellecéis", "embellecen" ],
+			[ "embellecen" ]
+		],
+		"4" : [
+			[ "embellecí" ],
+			[ "embelleciste" ],
+			[ "embelleció" ],
+			[ "embellecimos" ],
+			[ "embellecisteis", "embellecieron" ],
+			[ "embellecieron" ]
+		],
+		"5" : [
+			[ "embellecía" ],
+			[ "embellecías" ],
+			[ "embellecía" ],
+			[ "embellecíamos" ],
+			[ "embellecíais", "embellecían" ],
+			[ "embellecían" ]
+		],
+		"6" : [
+			[ "embellecería" ],
+			[ "embellecerías" ],
+			[ "embellecería" ],
+			[ "embelleceríamos" ],
+			[ "embelleceríais", "embellecerían" ],
+			[ "embellecerían" ]
+		],
+		"7" : [
+			[ "embelleceré" ],
+			[ "embellecerás" ],
+			[ "embellecerá" ],
+			[ "embelleceremos" ],
+			[ "embelleceréis", "embellecerán" ],
+			[ "embellecerán" ]
+		],
+		"8" : [
+			[ "embellezca" ],
+			[ "embellezcas" ],
+			[ "embellezca" ],
+			[ "embellezcamos" ],
+			[ "embellezcáis", "embellezcan" ],
+			[ "embellezcan" ]
+		],
+		"9" : [
+			[ "embelleciera" ],
+			[ "embellecieras" ],
+			[ "embelleciera" ],
+			[ "embelleciéramos" ],
+			[ "embellecierais", "embellecieran" ],
+			[ "embellecieran" ]
+		],
+		"10" : [
+			[ "embelleciese" ],
+			[ "embellecieses" ],
+			[ "embelleciese" ],
+			[ "embelleciésemos" ],
+			[ "embellecieseis", "embelleciesen" ],
+			[ "embelleciesen" ]
+		],
+		"11" : [
+			[ "embelleciere" ],
+			[ "embellecieres" ],
+			[ "embelleciere" ],
+			[ "embelleciéremos" ],
+			[ "embelleciereis", "embellecieren" ],
+			[ "embellecieren" ]
+		],
+		"12" : {
+			"1" : [ "embellece" ],
+			"2" : [ "embellezca" ],
+			"3" : [ "embellezcamos" ],
+			"4" : [ "embelleced" ],
+			"5" : [ "embellezcan" ]
+		}
+	}
+}

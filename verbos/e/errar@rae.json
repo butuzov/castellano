@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=errar",
+	"word" : "errar",
+	"infinitivo" : "errar",
+	"participio" : [ "errado" ],
+	"gerundio" : [ "errando" ],
+	"tenses" : {
+		"3" : [
+			[ "yerro", "erro" ],
+			[ "yerras", "erras", "errás" ],
+			[ "yerra", "erra" ],
+			[ "erramos" ],
+			[ "erráis", "yerran", "erran" ],
+			[ "yerran", "erran" ]
+		],
+		"4" : [
+			[ "erré" ],
+			[ "erraste" ],
+			[ "erró" ],
+			[ "erramos" ],
+			[ "errasteis", "erraron" ],
+			[ "erraron" ]
+		],
+		"5" : [
+			[ "erraba" ],
+			[ "errabas" ],
+			[ "erraba" ],
+			[ "errábamos" ],
+			[ "errabais", "erraban" ],
+			[ "erraban" ]
+		],
+		"6" : [
+			[ "erraría" ],
+			[ "errarías" ],
+			[ "erraría" ],
+			[ "erraríamos" ],
+			[ "erraríais", "errarían" ],
+			[ "errarían" ]
+		],
+		"7" : [
+			[ "erraré" ],
+			[ "errarás" ],
+			[ "errará" ],
+			[ "erraremos" ],
+			[ "erraréis", "errarán" ],
+			[ "errarán" ]
+		],
+		"8" : [
+			[ "yerre", "erre" ],
+			[ "yerres", "erres" ],
+			[ "yerre", "erre" ],
+			[ "erremos" ],
+			[ "erréis", "yerren", "erren" ],
+			[ "yerren", "erren" ]
+		],
+		"9" : [
+			[ "errara" ],
+			[ "erraras" ],
+			[ "errara" ],
+			[ "erráramos" ],
+			[ "errarais", "erraran" ],
+			[ "erraran" ]
+		],
+		"10" : [
+			[ "errase" ],
+			[ "errases" ],
+			[ "errase" ],
+			[ "errásemos" ],
+			[ "erraseis", "errasen" ],
+			[ "errasen" ]
+		],
+		"11" : [
+			[ "errare" ],
+			[ "errares" ],
+			[ "errare" ],
+			[ "erráremos" ],
+			[ "errareis", "erraren" ],
+			[ "erraren" ]
+		],
+		"12" : {
+			"1" : [ "yerra", "erra" ],
+			"2" : [ "yerre", "erre" ],
+			"3" : [ "erremos" ],
+			"4" : [ "errad" ],
+			"5" : [ "yerren", "erren" ]
+		}
+	}
+}

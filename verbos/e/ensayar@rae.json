@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ensayar",
+	"word" : "ensayar",
+	"infinitivo" : "ensayar",
+	"participio" : [ "ensayado" ],
+	"gerundio" : [ "ensayando" ],
+	"tenses" : {
+		"3" : [
+			[ "ensayo" ],
+			[ "ensayas", "ensayás" ],
+			[ "ensaya" ],
+			[ "ensayamos" ],
+			[ "ensayáis", "ensayan" ],
+			[ "ensayan" ]
+		],
+		"4" : [
+			[ "ensayé" ],
+			[ "ensayaste" ],
+			[ "ensayó" ],
+			[ "ensayamos" ],
+			[ "ensayasteis", "ensayaron" ],
+			[ "ensayaron" ]
+		],
+		"5" : [
+			[ "ensayaba" ],
+			[ "ensayabas" ],
+			[ "ensayaba" ],
+			[ "ensayábamos" ],
+			[ "ensayabais", "ensayaban" ],
+			[ "ensayaban" ]
+		],
+		"6" : [
+			[ "ensayaría" ],
+			[ "ensayarías" ],
+			[ "ensayaría" ],
+			[ "ensayaríamos" ],
+			[ "ensayaríais", "ensayarían" ],
+			[ "ensayarían" ]
+		],
+		"7" : [
+			[ "ensayaré" ],
+			[ "ensayarás" ],
+			[ "ensayará" ],
+			[ "ensayaremos" ],
+			[ "ensayaréis", "ensayarán" ],
+			[ "ensayarán" ]
+		],
+		"8" : [
+			[ "ensaye" ],
+			[ "ensayes" ],
+			[ "ensaye" ],
+			[ "ensayemos" ],
+			[ "ensayéis", "ensayen" ],
+			[ "ensayen" ]
+		],
+		"9" : [
+			[ "ensayara" ],
+			[ "ensayaras" ],
+			[ "ensayara" ],
+			[ "ensayáramos" ],
+			[ "ensayarais", "ensayaran" ],
+			[ "ensayaran" ]
+		],
+		"10" : [
+			[ "ensayase" ],
+			[ "ensayases" ],
+			[ "ensayase" ],
+			[ "ensayásemos" ],
+			[ "ensayaseis", "ensayasen" ],
+			[ "ensayasen" ]
+		],
+		"11" : [
+			[ "ensayare" ],
+			[ "ensayares" ],
+			[ "ensayare" ],
+			[ "ensayáremos" ],
+			[ "ensayareis", "ensayaren" ],
+			[ "ensayaren" ]
+		],
+		"12" : {
+			"1" : [ "ensaya" ],
+			"2" : [ "ensaye" ],
+			"3" : [ "ensayemos" ],
+			"4" : [ "ensayad" ],
+			"5" : [ "ensayen" ]
+		}
+	}
+}

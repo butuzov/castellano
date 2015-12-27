@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=transpirar",
+	"word" : "transpirar",
+	"infinitivo" : "transpirar",
+	"participio" : [ "transpirado" ],
+	"gerundio" : [ "transpirando" ],
+	"tenses" : {
+		"3" : [
+			[ "transpiro" ],
+			[ "transpiras", "transpirás" ],
+			[ "transpira" ],
+			[ "transpiramos" ],
+			[ "transpiráis", "transpiran" ],
+			[ "transpiran" ]
+		],
+		"4" : [
+			[ "transpiré" ],
+			[ "transpiraste" ],
+			[ "transpiró" ],
+			[ "transpiramos" ],
+			[ "transpirasteis", "transpiraron" ],
+			[ "transpiraron" ]
+		],
+		"5" : [
+			[ "transpiraba" ],
+			[ "transpirabas" ],
+			[ "transpiraba" ],
+			[ "transpirábamos" ],
+			[ "transpirabais", "transpiraban" ],
+			[ "transpiraban" ]
+		],
+		"6" : [
+			[ "transpiraría" ],
+			[ "transpirarías" ],
+			[ "transpiraría" ],
+			[ "transpiraríamos" ],
+			[ "transpiraríais", "transpirarían" ],
+			[ "transpirarían" ]
+		],
+		"7" : [
+			[ "transpiraré" ],
+			[ "transpirarás" ],
+			[ "transpirará" ],
+			[ "transpiraremos" ],
+			[ "transpiraréis", "transpirarán" ],
+			[ "transpirarán" ]
+		],
+		"8" : [
+			[ "transpire" ],
+			[ "transpires" ],
+			[ "transpire" ],
+			[ "transpiremos" ],
+			[ "transpiréis", "transpiren" ],
+			[ "transpiren" ]
+		],
+		"9" : [
+			[ "transpirara" ],
+			[ "transpiraras" ],
+			[ "transpirara" ],
+			[ "transpiráramos" ],
+			[ "transpirarais", "transpiraran" ],
+			[ "transpiraran" ]
+		],
+		"10" : [
+			[ "transpirase" ],
+			[ "transpirases" ],
+			[ "transpirase" ],
+			[ "transpirásemos" ],
+			[ "transpiraseis", "transpirasen" ],
+			[ "transpirasen" ]
+		],
+		"11" : [
+			[ "transpirare" ],
+			[ "transpirares" ],
+			[ "transpirare" ],
+			[ "transpiráremos" ],
+			[ "transpirareis", "transpiraren" ],
+			[ "transpiraren" ]
+		],
+		"12" : {
+			"1" : [ "transpira" ],
+			"2" : [ "transpire" ],
+			"3" : [ "transpiremos" ],
+			"4" : [ "transpirad" ],
+			"5" : [ "transpiren" ]
+		}
+	}
+}

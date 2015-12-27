@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=expeditar",
+	"word" : "expeditar",
+	"infinitivo" : "expeditar",
+	"participio" : [ "expeditado" ],
+	"gerundio" : [ "expeditando" ],
+	"tenses" : {
+		"3" : [
+			[ "expedito" ],
+			[ "expeditas", "expeditás" ],
+			[ "expedita" ],
+			[ "expeditamos" ],
+			[ "expeditáis", "expeditan" ],
+			[ "expeditan" ]
+		],
+		"4" : [
+			[ "expedité" ],
+			[ "expeditaste" ],
+			[ "expeditó" ],
+			[ "expeditamos" ],
+			[ "expeditasteis", "expeditaron" ],
+			[ "expeditaron" ]
+		],
+		"5" : [
+			[ "expeditaba" ],
+			[ "expeditabas" ],
+			[ "expeditaba" ],
+			[ "expeditábamos" ],
+			[ "expeditabais", "expeditaban" ],
+			[ "expeditaban" ]
+		],
+		"6" : [
+			[ "expeditaría" ],
+			[ "expeditarías" ],
+			[ "expeditaría" ],
+			[ "expeditaríamos" ],
+			[ "expeditaríais", "expeditarían" ],
+			[ "expeditarían" ]
+		],
+		"7" : [
+			[ "expeditaré" ],
+			[ "expeditarás" ],
+			[ "expeditará" ],
+			[ "expeditaremos" ],
+			[ "expeditaréis", "expeditarán" ],
+			[ "expeditarán" ]
+		],
+		"8" : [
+			[ "expedite" ],
+			[ "expedites" ],
+			[ "expedite" ],
+			[ "expeditemos" ],
+			[ "expeditéis", "expediten" ],
+			[ "expediten" ]
+		],
+		"9" : [
+			[ "expeditara" ],
+			[ "expeditaras" ],
+			[ "expeditara" ],
+			[ "expeditáramos" ],
+			[ "expeditarais", "expeditaran" ],
+			[ "expeditaran" ]
+		],
+		"10" : [
+			[ "expeditase" ],
+			[ "expeditases" ],
+			[ "expeditase" ],
+			[ "expeditásemos" ],
+			[ "expeditaseis", "expeditasen" ],
+			[ "expeditasen" ]
+		],
+		"11" : [
+			[ "expeditare" ],
+			[ "expeditares" ],
+			[ "expeditare" ],
+			[ "expeditáremos" ],
+			[ "expeditareis", "expeditaren" ],
+			[ "expeditaren" ]
+		],
+		"12" : {
+			"1" : [ "expedita" ],
+			"2" : [ "expedite" ],
+			"3" : [ "expeditemos" ],
+			"4" : [ "expeditad" ],
+			"5" : [ "expediten" ]
+		}
+	}
+}

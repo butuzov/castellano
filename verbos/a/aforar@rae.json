@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aforar",
+	"word" : "aforar",
+	"infinitivo" : "aforar",
+	"participio" : [ "aforado" ],
+	"gerundio" : [ "aforando" ],
+	"tenses" : {
+		"3" : [
+			[ "afuero", "aforo" ],
+			[ "afueras", "aforas", "aforás" ],
+			[ "afuera", "afora" ],
+			[ "aforamos" ],
+			[ "aforáis", "afueran", "aforan" ],
+			[ "afueran", "aforan" ]
+		],
+		"4" : [
+			[ "aforé" ],
+			[ "aforaste" ],
+			[ "aforó" ],
+			[ "aforamos" ],
+			[ "aforasteis", "aforaron" ],
+			[ "aforaron" ]
+		],
+		"5" : [
+			[ "aforaba" ],
+			[ "aforabas" ],
+			[ "aforaba" ],
+			[ "aforábamos" ],
+			[ "aforabais", "aforaban" ],
+			[ "aforaban" ]
+		],
+		"6" : [
+			[ "aforaría" ],
+			[ "aforarías" ],
+			[ "aforaría" ],
+			[ "aforaríamos" ],
+			[ "aforaríais", "aforarían" ],
+			[ "aforarían" ]
+		],
+		"7" : [
+			[ "aforaré" ],
+			[ "aforarás" ],
+			[ "aforará" ],
+			[ "aforaremos" ],
+			[ "aforaréis", "aforarán" ],
+			[ "aforarán" ]
+		],
+		"8" : [
+			[ "afuere", "afore" ],
+			[ "afueres", "afores" ],
+			[ "afuere", "afore" ],
+			[ "aforemos" ],
+			[ "aforéis", "afueren", "aforen" ],
+			[ "afueren", "aforen" ]
+		],
+		"9" : [
+			[ "aforara" ],
+			[ "aforaras" ],
+			[ "aforara" ],
+			[ "aforáramos" ],
+			[ "aforarais", "aforaran" ],
+			[ "aforaran" ]
+		],
+		"10" : [
+			[ "aforase" ],
+			[ "aforases" ],
+			[ "aforase" ],
+			[ "aforásemos" ],
+			[ "aforaseis", "aforasen" ],
+			[ "aforasen" ]
+		],
+		"11" : [
+			[ "aforare" ],
+			[ "aforares" ],
+			[ "aforare" ],
+			[ "aforáremos" ],
+			[ "aforareis", "aforaren" ],
+			[ "aforaren" ]
+		],
+		"12" : {
+			"1" : [ "afuera", "afora" ],
+			"2" : [ "afuere", "afore" ],
+			"3" : [ "aforemos" ],
+			"4" : [ "aforad" ],
+			"5" : [ "afueren", "aforen" ]
+		}
+	}
+}

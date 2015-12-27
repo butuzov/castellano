@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aminorar",
+	"word" : "aminorar",
+	"infinitivo" : "aminorar",
+	"participio" : [ "aminorado" ],
+	"gerundio" : [ "aminorando" ],
+	"tenses" : {
+		"3" : [
+			[ "aminoro" ],
+			[ "aminoras", "aminorás" ],
+			[ "aminora" ],
+			[ "aminoramos" ],
+			[ "aminoráis", "aminoran" ],
+			[ "aminoran" ]
+		],
+		"4" : [
+			[ "aminoré" ],
+			[ "aminoraste" ],
+			[ "aminoró" ],
+			[ "aminoramos" ],
+			[ "aminorasteis", "aminoraron" ],
+			[ "aminoraron" ]
+		],
+		"5" : [
+			[ "aminoraba" ],
+			[ "aminorabas" ],
+			[ "aminoraba" ],
+			[ "aminorábamos" ],
+			[ "aminorabais", "aminoraban" ],
+			[ "aminoraban" ]
+		],
+		"6" : [
+			[ "aminoraría" ],
+			[ "aminorarías" ],
+			[ "aminoraría" ],
+			[ "aminoraríamos" ],
+			[ "aminoraríais", "aminorarían" ],
+			[ "aminorarían" ]
+		],
+		"7" : [
+			[ "aminoraré" ],
+			[ "aminorarás" ],
+			[ "aminorará" ],
+			[ "aminoraremos" ],
+			[ "aminoraréis", "aminorarán" ],
+			[ "aminorarán" ]
+		],
+		"8" : [
+			[ "aminore" ],
+			[ "aminores" ],
+			[ "aminore" ],
+			[ "aminoremos" ],
+			[ "aminoréis", "aminoren" ],
+			[ "aminoren" ]
+		],
+		"9" : [
+			[ "aminorara" ],
+			[ "aminoraras" ],
+			[ "aminorara" ],
+			[ "aminoráramos" ],
+			[ "aminorarais", "aminoraran" ],
+			[ "aminoraran" ]
+		],
+		"10" : [
+			[ "aminorase" ],
+			[ "aminorases" ],
+			[ "aminorase" ],
+			[ "aminorásemos" ],
+			[ "aminoraseis", "aminorasen" ],
+			[ "aminorasen" ]
+		],
+		"11" : [
+			[ "aminorare" ],
+			[ "aminorares" ],
+			[ "aminorare" ],
+			[ "aminoráremos" ],
+			[ "aminorareis", "aminoraren" ],
+			[ "aminoraren" ]
+		],
+		"12" : {
+			"1" : [ "aminora" ],
+			"2" : [ "aminore" ],
+			"3" : [ "aminoremos" ],
+			"4" : [ "aminorad" ],
+			"5" : [ "aminoren" ]
+		}
+	}
+}

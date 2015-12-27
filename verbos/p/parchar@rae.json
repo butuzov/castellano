@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=parchar",
+	"word" : "parchar",
+	"infinitivo" : "parchar",
+	"participio" : [ "parchado" ],
+	"gerundio" : [ "parchando" ],
+	"tenses" : {
+		"3" : [
+			[ "parcho" ],
+			[ "parchas", "parchás" ],
+			[ "parcha" ],
+			[ "parchamos" ],
+			[ "parcháis", "parchan" ],
+			[ "parchan" ]
+		],
+		"4" : [
+			[ "parché" ],
+			[ "parchaste" ],
+			[ "parchó" ],
+			[ "parchamos" ],
+			[ "parchasteis", "parcharon" ],
+			[ "parcharon" ]
+		],
+		"5" : [
+			[ "parchaba" ],
+			[ "parchabas" ],
+			[ "parchaba" ],
+			[ "parchábamos" ],
+			[ "parchabais", "parchaban" ],
+			[ "parchaban" ]
+		],
+		"6" : [
+			[ "parcharía" ],
+			[ "parcharías" ],
+			[ "parcharía" ],
+			[ "parcharíamos" ],
+			[ "parcharíais", "parcharían" ],
+			[ "parcharían" ]
+		],
+		"7" : [
+			[ "parcharé" ],
+			[ "parcharás" ],
+			[ "parchará" ],
+			[ "parcharemos" ],
+			[ "parcharéis", "parcharán" ],
+			[ "parcharán" ]
+		],
+		"8" : [
+			[ "parche" ],
+			[ "parches" ],
+			[ "parche" ],
+			[ "parchemos" ],
+			[ "parchéis", "parchen" ],
+			[ "parchen" ]
+		],
+		"9" : [
+			[ "parchara" ],
+			[ "parcharas" ],
+			[ "parchara" ],
+			[ "parcháramos" ],
+			[ "parcharais", "parcharan" ],
+			[ "parcharan" ]
+		],
+		"10" : [
+			[ "parchase" ],
+			[ "parchases" ],
+			[ "parchase" ],
+			[ "parchásemos" ],
+			[ "parchaseis", "parchasen" ],
+			[ "parchasen" ]
+		],
+		"11" : [
+			[ "parchare" ],
+			[ "parchares" ],
+			[ "parchare" ],
+			[ "parcháremos" ],
+			[ "parchareis", "parcharen" ],
+			[ "parcharen" ]
+		],
+		"12" : {
+			"1" : [ "parcha" ],
+			"2" : [ "parche" ],
+			"3" : [ "parchemos" ],
+			"4" : [ "parchad" ],
+			"5" : [ "parchen" ]
+		}
+	}
+}

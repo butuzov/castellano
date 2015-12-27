@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=suscribir",
+	"word" : "suscribir",
+	"infinitivo" : "suscribir",
+	"participio" : [ "suscrito", "suscripto" ],
+	"gerundio" : [ "suscribiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "suscribo" ],
+			[ "suscribes", "suscribís" ],
+			[ "suscribe" ],
+			[ "suscribimos" ],
+			[ "suscribís", "suscriben" ],
+			[ "suscriben" ]
+		],
+		"4" : [
+			[ "suscribí" ],
+			[ "suscribiste" ],
+			[ "suscribió" ],
+			[ "suscribimos" ],
+			[ "suscribisteis", "suscribieron" ],
+			[ "suscribieron" ]
+		],
+		"5" : [
+			[ "suscribía" ],
+			[ "suscribías" ],
+			[ "suscribía" ],
+			[ "suscribíamos" ],
+			[ "suscribíais", "suscribían" ],
+			[ "suscribían" ]
+		],
+		"6" : [
+			[ "suscribiría" ],
+			[ "suscribirías" ],
+			[ "suscribiría" ],
+			[ "suscribiríamos" ],
+			[ "suscribiríais", "suscribirían" ],
+			[ "suscribirían" ]
+		],
+		"7" : [
+			[ "suscribiré" ],
+			[ "suscribirás" ],
+			[ "suscribirá" ],
+			[ "suscribiremos" ],
+			[ "suscribiréis", "suscribirán" ],
+			[ "suscribirán" ]
+		],
+		"8" : [
+			[ "suscriba" ],
+			[ "suscribas" ],
+			[ "suscriba" ],
+			[ "suscribamos" ],
+			[ "suscribáis", "suscriban" ],
+			[ "suscriban" ]
+		],
+		"9" : [
+			[ "suscribiera" ],
+			[ "suscribieras" ],
+			[ "suscribiera" ],
+			[ "suscribiéramos" ],
+			[ "suscribierais", "suscribieran" ],
+			[ "suscribieran" ]
+		],
+		"10" : [
+			[ "suscribiese" ],
+			[ "suscribieses" ],
+			[ "suscribiese" ],
+			[ "suscribiésemos" ],
+			[ "suscribieseis", "suscribiesen" ],
+			[ "suscribiesen" ]
+		],
+		"11" : [
+			[ "suscribiere" ],
+			[ "suscribieres" ],
+			[ "suscribiere" ],
+			[ "suscribiéremos" ],
+			[ "suscribiereis", "suscribieren" ],
+			[ "suscribieren" ]
+		],
+		"12" : {
+			"1" : [ "suscribe" ],
+			"2" : [ "suscriba" ],
+			"3" : [ "suscribamos" ],
+			"4" : [ "suscribid" ],
+			"5" : [ "suscriban" ]
+		}
+	}
+}

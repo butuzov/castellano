@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=costar",
+	"word" : "costar",
+	"infinitivo" : "costar",
+	"participio" : [ "costado" ],
+	"gerundio" : [ "costando" ],
+	"tenses" : {
+		"3" : [
+			[ "cuesto" ],
+			[ "cuestas", "costás" ],
+			[ "cuesta" ],
+			[ "costamos" ],
+			[ "costáis", "cuestan" ],
+			[ "cuestan" ]
+		],
+		"4" : [
+			[ "costé" ],
+			[ "costaste" ],
+			[ "costó" ],
+			[ "costamos" ],
+			[ "costasteis", "costaron" ],
+			[ "costaron" ]
+		],
+		"5" : [
+			[ "costaba" ],
+			[ "costabas" ],
+			[ "costaba" ],
+			[ "costábamos" ],
+			[ "costabais", "costaban" ],
+			[ "costaban" ]
+		],
+		"6" : [
+			[ "costaría" ],
+			[ "costarías" ],
+			[ "costaría" ],
+			[ "costaríamos" ],
+			[ "costaríais", "costarían" ],
+			[ "costarían" ]
+		],
+		"7" : [
+			[ "costaré" ],
+			[ "costarás" ],
+			[ "costará" ],
+			[ "costaremos" ],
+			[ "costaréis", "costarán" ],
+			[ "costarán" ]
+		],
+		"8" : [
+			[ "cueste" ],
+			[ "cuestes" ],
+			[ "cueste" ],
+			[ "costemos" ],
+			[ "costéis", "cuesten" ],
+			[ "cuesten" ]
+		],
+		"9" : [
+			[ "costara" ],
+			[ "costaras" ],
+			[ "costara" ],
+			[ "costáramos" ],
+			[ "costarais", "costaran" ],
+			[ "costaran" ]
+		],
+		"10" : [
+			[ "costase" ],
+			[ "costases" ],
+			[ "costase" ],
+			[ "costásemos" ],
+			[ "costaseis", "costasen" ],
+			[ "costasen" ]
+		],
+		"11" : [
+			[ "costare" ],
+			[ "costares" ],
+			[ "costare" ],
+			[ "costáremos" ],
+			[ "costareis", "costaren" ],
+			[ "costaren" ]
+		],
+		"12" : {
+			"1" : [ "cuesta" ],
+			"2" : [ "cueste" ],
+			"3" : [ "costemos" ],
+			"4" : [ "costad" ],
+			"5" : [ "cuesten" ]
+		}
+	}
+}

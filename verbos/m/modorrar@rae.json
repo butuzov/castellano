@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=modorrar",
+	"word" : "modorrar",
+	"infinitivo" : "modorrar",
+	"participio" : [ "modorrado" ],
+	"gerundio" : [ "modorrando" ],
+	"tenses" : {
+		"3" : [
+			[ "modorro" ],
+			[ "modorras", "modorrás" ],
+			[ "modorra" ],
+			[ "modorramos" ],
+			[ "modorráis", "modorran" ],
+			[ "modorran" ]
+		],
+		"4" : [
+			[ "modorré" ],
+			[ "modorraste" ],
+			[ "modorró" ],
+			[ "modorramos" ],
+			[ "modorrasteis", "modorraron" ],
+			[ "modorraron" ]
+		],
+		"5" : [
+			[ "modorraba" ],
+			[ "modorrabas" ],
+			[ "modorraba" ],
+			[ "modorrábamos" ],
+			[ "modorrabais", "modorraban" ],
+			[ "modorraban" ]
+		],
+		"6" : [
+			[ "modorraría" ],
+			[ "modorrarías" ],
+			[ "modorraría" ],
+			[ "modorraríamos" ],
+			[ "modorraríais", "modorrarían" ],
+			[ "modorrarían" ]
+		],
+		"7" : [
+			[ "modorraré" ],
+			[ "modorrarás" ],
+			[ "modorrará" ],
+			[ "modorraremos" ],
+			[ "modorraréis", "modorrarán" ],
+			[ "modorrarán" ]
+		],
+		"8" : [
+			[ "modorre" ],
+			[ "modorres" ],
+			[ "modorre" ],
+			[ "modorremos" ],
+			[ "modorréis", "modorren" ],
+			[ "modorren" ]
+		],
+		"9" : [
+			[ "modorrara" ],
+			[ "modorraras" ],
+			[ "modorrara" ],
+			[ "modorráramos" ],
+			[ "modorrarais", "modorraran" ],
+			[ "modorraran" ]
+		],
+		"10" : [
+			[ "modorrase" ],
+			[ "modorrases" ],
+			[ "modorrase" ],
+			[ "modorrásemos" ],
+			[ "modorraseis", "modorrasen" ],
+			[ "modorrasen" ]
+		],
+		"11" : [
+			[ "modorrare" ],
+			[ "modorrares" ],
+			[ "modorrare" ],
+			[ "modorráremos" ],
+			[ "modorrareis", "modorraren" ],
+			[ "modorraren" ]
+		],
+		"12" : {
+			"1" : [ "modorra" ],
+			"2" : [ "modorre" ],
+			"3" : [ "modorremos" ],
+			"4" : [ "modorrad" ],
+			"5" : [ "modorren" ]
+		}
+	}
+}

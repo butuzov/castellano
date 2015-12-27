@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disociar",
+	"word" : "disociar",
+	"infinitivo" : "disociar",
+	"participio" : [ "disociado" ],
+	"gerundio" : [ "disociando" ],
+	"tenses" : {
+		"3" : [
+			[ "disocio" ],
+			[ "disocias", "disociás" ],
+			[ "disocia" ],
+			[ "disociamos" ],
+			[ "disociáis", "disocian" ],
+			[ "disocian" ]
+		],
+		"4" : [
+			[ "disocié" ],
+			[ "disociaste" ],
+			[ "disoció" ],
+			[ "disociamos" ],
+			[ "disociasteis", "disociaron" ],
+			[ "disociaron" ]
+		],
+		"5" : [
+			[ "disociaba" ],
+			[ "disociabas" ],
+			[ "disociaba" ],
+			[ "disociábamos" ],
+			[ "disociabais", "disociaban" ],
+			[ "disociaban" ]
+		],
+		"6" : [
+			[ "disociaría" ],
+			[ "disociarías" ],
+			[ "disociaría" ],
+			[ "disociaríamos" ],
+			[ "disociaríais", "disociarían" ],
+			[ "disociarían" ]
+		],
+		"7" : [
+			[ "disociaré" ],
+			[ "disociarás" ],
+			[ "disociará" ],
+			[ "disociaremos" ],
+			[ "disociaréis", "disociarán" ],
+			[ "disociarán" ]
+		],
+		"8" : [
+			[ "disocie" ],
+			[ "disocies" ],
+			[ "disocie" ],
+			[ "disociemos" ],
+			[ "disociéis", "disocien" ],
+			[ "disocien" ]
+		],
+		"9" : [
+			[ "disociara" ],
+			[ "disociaras" ],
+			[ "disociara" ],
+			[ "disociáramos" ],
+			[ "disociarais", "disociaran" ],
+			[ "disociaran" ]
+		],
+		"10" : [
+			[ "disociase" ],
+			[ "disociases" ],
+			[ "disociase" ],
+			[ "disociásemos" ],
+			[ "disociaseis", "disociasen" ],
+			[ "disociasen" ]
+		],
+		"11" : [
+			[ "disociare" ],
+			[ "disociares" ],
+			[ "disociare" ],
+			[ "disociáremos" ],
+			[ "disociareis", "disociaren" ],
+			[ "disociaren" ]
+		],
+		"12" : {
+			"1" : [ "disocia" ],
+			"2" : [ "disocie" ],
+			"3" : [ "disociemos" ],
+			"4" : [ "disociad" ],
+			"5" : [ "disocien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pulular",
+	"word" : "pulular",
+	"infinitivo" : "pulular",
+	"participio" : [ "pululado" ],
+	"gerundio" : [ "pululando" ],
+	"tenses" : {
+		"3" : [
+			[ "pululo" ],
+			[ "pululas", "pululás" ],
+			[ "pulula" ],
+			[ "pululamos" ],
+			[ "pululáis", "pululan" ],
+			[ "pululan" ]
+		],
+		"4" : [
+			[ "pululé" ],
+			[ "pululaste" ],
+			[ "pululó" ],
+			[ "pululamos" ],
+			[ "pululasteis", "pulularon" ],
+			[ "pulularon" ]
+		],
+		"5" : [
+			[ "pululaba" ],
+			[ "pululabas" ],
+			[ "pululaba" ],
+			[ "pululábamos" ],
+			[ "pululabais", "pululaban" ],
+			[ "pululaban" ]
+		],
+		"6" : [
+			[ "pulularía" ],
+			[ "pulularías" ],
+			[ "pulularía" ],
+			[ "pulularíamos" ],
+			[ "pulularíais", "pulularían" ],
+			[ "pulularían" ]
+		],
+		"7" : [
+			[ "pulularé" ],
+			[ "pulularás" ],
+			[ "pululará" ],
+			[ "pulularemos" ],
+			[ "pulularéis", "pulularán" ],
+			[ "pulularán" ]
+		],
+		"8" : [
+			[ "pulule" ],
+			[ "pulules" ],
+			[ "pulule" ],
+			[ "pululemos" ],
+			[ "pululéis", "pululen" ],
+			[ "pululen" ]
+		],
+		"9" : [
+			[ "pululara" ],
+			[ "pulularas" ],
+			[ "pululara" ],
+			[ "pululáramos" ],
+			[ "pulularais", "pulularan" ],
+			[ "pulularan" ]
+		],
+		"10" : [
+			[ "pululase" ],
+			[ "pululases" ],
+			[ "pululase" ],
+			[ "pululásemos" ],
+			[ "pululaseis", "pululasen" ],
+			[ "pululasen" ]
+		],
+		"11" : [
+			[ "pululare" ],
+			[ "pululares" ],
+			[ "pululare" ],
+			[ "pululáremos" ],
+			[ "pululareis", "pulularen" ],
+			[ "pulularen" ]
+		],
+		"12" : {
+			"1" : [ "pulula" ],
+			"2" : [ "pulule" ],
+			"3" : [ "pululemos" ],
+			"4" : [ "pululad" ],
+			"5" : [ "pululen" ]
+		}
+	}
+}

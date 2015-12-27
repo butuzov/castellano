@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arreglar",
+	"word" : "arreglar",
+	"infinitivo" : "arreglar",
+	"participio" : [ "arreglado" ],
+	"gerundio" : [ "arreglando" ],
+	"tenses" : {
+		"3" : [
+			[ "arreglo" ],
+			[ "arreglas", "arreglás" ],
+			[ "arregla" ],
+			[ "arreglamos" ],
+			[ "arregláis", "arreglan" ],
+			[ "arreglan" ]
+		],
+		"4" : [
+			[ "arreglé" ],
+			[ "arreglaste" ],
+			[ "arregló" ],
+			[ "arreglamos" ],
+			[ "arreglasteis", "arreglaron" ],
+			[ "arreglaron" ]
+		],
+		"5" : [
+			[ "arreglaba" ],
+			[ "arreglabas" ],
+			[ "arreglaba" ],
+			[ "arreglábamos" ],
+			[ "arreglabais", "arreglaban" ],
+			[ "arreglaban" ]
+		],
+		"6" : [
+			[ "arreglaría" ],
+			[ "arreglarías" ],
+			[ "arreglaría" ],
+			[ "arreglaríamos" ],
+			[ "arreglaríais", "arreglarían" ],
+			[ "arreglarían" ]
+		],
+		"7" : [
+			[ "arreglaré" ],
+			[ "arreglarás" ],
+			[ "arreglará" ],
+			[ "arreglaremos" ],
+			[ "arreglaréis", "arreglarán" ],
+			[ "arreglarán" ]
+		],
+		"8" : [
+			[ "arregle" ],
+			[ "arregles" ],
+			[ "arregle" ],
+			[ "arreglemos" ],
+			[ "arregléis", "arreglen" ],
+			[ "arreglen" ]
+		],
+		"9" : [
+			[ "arreglara" ],
+			[ "arreglaras" ],
+			[ "arreglara" ],
+			[ "arregláramos" ],
+			[ "arreglarais", "arreglaran" ],
+			[ "arreglaran" ]
+		],
+		"10" : [
+			[ "arreglase" ],
+			[ "arreglases" ],
+			[ "arreglase" ],
+			[ "arreglásemos" ],
+			[ "arreglaseis", "arreglasen" ],
+			[ "arreglasen" ]
+		],
+		"11" : [
+			[ "arreglare" ],
+			[ "arreglares" ],
+			[ "arreglare" ],
+			[ "arregláremos" ],
+			[ "arreglareis", "arreglaren" ],
+			[ "arreglaren" ]
+		],
+		"12" : {
+			"1" : [ "arregla" ],
+			"2" : [ "arregle" ],
+			"3" : [ "arreglemos" ],
+			"4" : [ "arreglad" ],
+			"5" : [ "arreglen" ]
+		}
+	}
+}

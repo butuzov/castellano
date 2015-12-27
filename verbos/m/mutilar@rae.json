@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mutilar",
+	"word" : "mutilar",
+	"infinitivo" : "mutilar",
+	"participio" : [ "mutilado" ],
+	"gerundio" : [ "mutilando" ],
+	"tenses" : {
+		"3" : [
+			[ "mutilo" ],
+			[ "mutilas", "mutilás" ],
+			[ "mutila" ],
+			[ "mutilamos" ],
+			[ "mutiláis", "mutilan" ],
+			[ "mutilan" ]
+		],
+		"4" : [
+			[ "mutilé" ],
+			[ "mutilaste" ],
+			[ "mutiló" ],
+			[ "mutilamos" ],
+			[ "mutilasteis", "mutilaron" ],
+			[ "mutilaron" ]
+		],
+		"5" : [
+			[ "mutilaba" ],
+			[ "mutilabas" ],
+			[ "mutilaba" ],
+			[ "mutilábamos" ],
+			[ "mutilabais", "mutilaban" ],
+			[ "mutilaban" ]
+		],
+		"6" : [
+			[ "mutilaría" ],
+			[ "mutilarías" ],
+			[ "mutilaría" ],
+			[ "mutilaríamos" ],
+			[ "mutilaríais", "mutilarían" ],
+			[ "mutilarían" ]
+		],
+		"7" : [
+			[ "mutilaré" ],
+			[ "mutilarás" ],
+			[ "mutilará" ],
+			[ "mutilaremos" ],
+			[ "mutilaréis", "mutilarán" ],
+			[ "mutilarán" ]
+		],
+		"8" : [
+			[ "mutile" ],
+			[ "mutiles" ],
+			[ "mutile" ],
+			[ "mutilemos" ],
+			[ "mutiléis", "mutilen" ],
+			[ "mutilen" ]
+		],
+		"9" : [
+			[ "mutilara" ],
+			[ "mutilaras" ],
+			[ "mutilara" ],
+			[ "mutiláramos" ],
+			[ "mutilarais", "mutilaran" ],
+			[ "mutilaran" ]
+		],
+		"10" : [
+			[ "mutilase" ],
+			[ "mutilases" ],
+			[ "mutilase" ],
+			[ "mutilásemos" ],
+			[ "mutilaseis", "mutilasen" ],
+			[ "mutilasen" ]
+		],
+		"11" : [
+			[ "mutilare" ],
+			[ "mutilares" ],
+			[ "mutilare" ],
+			[ "mutiláremos" ],
+			[ "mutilareis", "mutilaren" ],
+			[ "mutilaren" ]
+		],
+		"12" : {
+			"1" : [ "mutila" ],
+			"2" : [ "mutile" ],
+			"3" : [ "mutilemos" ],
+			"4" : [ "mutilad" ],
+			"5" : [ "mutilen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=involucrar",
+	"word" : "involucrar",
+	"infinitivo" : "involucrar",
+	"participio" : [ "involucrado" ],
+	"gerundio" : [ "involucrando" ],
+	"tenses" : {
+		"3" : [
+			[ "involucro" ],
+			[ "involucras", "involucrás" ],
+			[ "involucra" ],
+			[ "involucramos" ],
+			[ "involucráis", "involucran" ],
+			[ "involucran" ]
+		],
+		"4" : [
+			[ "involucré" ],
+			[ "involucraste" ],
+			[ "involucró" ],
+			[ "involucramos" ],
+			[ "involucrasteis", "involucraron" ],
+			[ "involucraron" ]
+		],
+		"5" : [
+			[ "involucraba" ],
+			[ "involucrabas" ],
+			[ "involucraba" ],
+			[ "involucrábamos" ],
+			[ "involucrabais", "involucraban" ],
+			[ "involucraban" ]
+		],
+		"6" : [
+			[ "involucraría" ],
+			[ "involucrarías" ],
+			[ "involucraría" ],
+			[ "involucraríamos" ],
+			[ "involucraríais", "involucrarían" ],
+			[ "involucrarían" ]
+		],
+		"7" : [
+			[ "involucraré" ],
+			[ "involucrarás" ],
+			[ "involucrará" ],
+			[ "involucraremos" ],
+			[ "involucraréis", "involucrarán" ],
+			[ "involucrarán" ]
+		],
+		"8" : [
+			[ "involucre" ],
+			[ "involucres" ],
+			[ "involucre" ],
+			[ "involucremos" ],
+			[ "involucréis", "involucren" ],
+			[ "involucren" ]
+		],
+		"9" : [
+			[ "involucrara" ],
+			[ "involucraras" ],
+			[ "involucrara" ],
+			[ "involucráramos" ],
+			[ "involucrarais", "involucraran" ],
+			[ "involucraran" ]
+		],
+		"10" : [
+			[ "involucrase" ],
+			[ "involucrases" ],
+			[ "involucrase" ],
+			[ "involucrásemos" ],
+			[ "involucraseis", "involucrasen" ],
+			[ "involucrasen" ]
+		],
+		"11" : [
+			[ "involucrare" ],
+			[ "involucrares" ],
+			[ "involucrare" ],
+			[ "involucráremos" ],
+			[ "involucrareis", "involucraren" ],
+			[ "involucraren" ]
+		],
+		"12" : {
+			"1" : [ "involucra" ],
+			"2" : [ "involucre" ],
+			"3" : [ "involucremos" ],
+			"4" : [ "involucrad" ],
+			"5" : [ "involucren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=frasear",
+	"word" : "frasear",
+	"infinitivo" : "frasear",
+	"participio" : [ "fraseado" ],
+	"gerundio" : [ "fraseando" ],
+	"tenses" : {
+		"3" : [
+			[ "fraseo" ],
+			[ "fraseas", "fraseás" ],
+			[ "frasea" ],
+			[ "fraseamos" ],
+			[ "fraseáis", "frasean" ],
+			[ "frasean" ]
+		],
+		"4" : [
+			[ "fraseé" ],
+			[ "fraseaste" ],
+			[ "fraseó" ],
+			[ "fraseamos" ],
+			[ "fraseasteis", "frasearon" ],
+			[ "frasearon" ]
+		],
+		"5" : [
+			[ "fraseaba" ],
+			[ "fraseabas" ],
+			[ "fraseaba" ],
+			[ "fraseábamos" ],
+			[ "fraseabais", "fraseaban" ],
+			[ "fraseaban" ]
+		],
+		"6" : [
+			[ "frasearía" ],
+			[ "frasearías" ],
+			[ "frasearía" ],
+			[ "frasearíamos" ],
+			[ "frasearíais", "frasearían" ],
+			[ "frasearían" ]
+		],
+		"7" : [
+			[ "frasearé" ],
+			[ "frasearás" ],
+			[ "fraseará" ],
+			[ "frasearemos" ],
+			[ "frasearéis", "frasearán" ],
+			[ "frasearán" ]
+		],
+		"8" : [
+			[ "frasee" ],
+			[ "frasees" ],
+			[ "frasee" ],
+			[ "fraseemos" ],
+			[ "fraseéis", "fraseen" ],
+			[ "fraseen" ]
+		],
+		"9" : [
+			[ "fraseara" ],
+			[ "frasearas" ],
+			[ "fraseara" ],
+			[ "fraseáramos" ],
+			[ "frasearais", "frasearan" ],
+			[ "frasearan" ]
+		],
+		"10" : [
+			[ "frasease" ],
+			[ "fraseases" ],
+			[ "frasease" ],
+			[ "fraseásemos" ],
+			[ "fraseaseis", "fraseasen" ],
+			[ "fraseasen" ]
+		],
+		"11" : [
+			[ "fraseare" ],
+			[ "fraseares" ],
+			[ "fraseare" ],
+			[ "fraseáremos" ],
+			[ "fraseareis", "frasearen" ],
+			[ "frasearen" ]
+		],
+		"12" : {
+			"1" : [ "frasea" ],
+			"2" : [ "frasee" ],
+			"3" : [ "fraseemos" ],
+			"4" : [ "frasead" ],
+			"5" : [ "fraseen" ]
+		}
+	}
+}

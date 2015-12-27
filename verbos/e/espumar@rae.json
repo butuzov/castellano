@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=espumar",
+	"word" : "espumar",
+	"infinitivo" : "espumar",
+	"participio" : [ "espumado" ],
+	"gerundio" : [ "espumando" ],
+	"tenses" : {
+		"3" : [
+			[ "espumo" ],
+			[ "espumas", "espumás" ],
+			[ "espuma" ],
+			[ "espumamos" ],
+			[ "espumáis", "espuman" ],
+			[ "espuman" ]
+		],
+		"4" : [
+			[ "espumé" ],
+			[ "espumaste" ],
+			[ "espumó" ],
+			[ "espumamos" ],
+			[ "espumasteis", "espumaron" ],
+			[ "espumaron" ]
+		],
+		"5" : [
+			[ "espumaba" ],
+			[ "espumabas" ],
+			[ "espumaba" ],
+			[ "espumábamos" ],
+			[ "espumabais", "espumaban" ],
+			[ "espumaban" ]
+		],
+		"6" : [
+			[ "espumaría" ],
+			[ "espumarías" ],
+			[ "espumaría" ],
+			[ "espumaríamos" ],
+			[ "espumaríais", "espumarían" ],
+			[ "espumarían" ]
+		],
+		"7" : [
+			[ "espumaré" ],
+			[ "espumarás" ],
+			[ "espumará" ],
+			[ "espumaremos" ],
+			[ "espumaréis", "espumarán" ],
+			[ "espumarán" ]
+		],
+		"8" : [
+			[ "espume" ],
+			[ "espumes" ],
+			[ "espume" ],
+			[ "espumemos" ],
+			[ "espuméis", "espumen" ],
+			[ "espumen" ]
+		],
+		"9" : [
+			[ "espumara" ],
+			[ "espumaras" ],
+			[ "espumara" ],
+			[ "espumáramos" ],
+			[ "espumarais", "espumaran" ],
+			[ "espumaran" ]
+		],
+		"10" : [
+			[ "espumase" ],
+			[ "espumases" ],
+			[ "espumase" ],
+			[ "espumásemos" ],
+			[ "espumaseis", "espumasen" ],
+			[ "espumasen" ]
+		],
+		"11" : [
+			[ "espumare" ],
+			[ "espumares" ],
+			[ "espumare" ],
+			[ "espumáremos" ],
+			[ "espumareis", "espumaren" ],
+			[ "espumaren" ]
+		],
+		"12" : {
+			"1" : [ "espuma" ],
+			"2" : [ "espume" ],
+			"3" : [ "espumemos" ],
+			"4" : [ "espumad" ],
+			"5" : [ "espumen" ]
+		}
+	}
+}

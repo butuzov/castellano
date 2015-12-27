@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=llavear",
+	"word" : "llavear",
+	"infinitivo" : "llavear",
+	"participio" : [ "llaveado" ],
+	"gerundio" : [ "llaveando" ],
+	"tenses" : {
+		"3" : [
+			[ "llaveo" ],
+			[ "llaveas", "llaveás" ],
+			[ "llavea" ],
+			[ "llaveamos" ],
+			[ "llaveáis", "llavean" ],
+			[ "llavean" ]
+		],
+		"4" : [
+			[ "llaveé" ],
+			[ "llaveaste" ],
+			[ "llaveó" ],
+			[ "llaveamos" ],
+			[ "llaveasteis", "llavearon" ],
+			[ "llavearon" ]
+		],
+		"5" : [
+			[ "llaveaba" ],
+			[ "llaveabas" ],
+			[ "llaveaba" ],
+			[ "llaveábamos" ],
+			[ "llaveabais", "llaveaban" ],
+			[ "llaveaban" ]
+		],
+		"6" : [
+			[ "llavearía" ],
+			[ "llavearías" ],
+			[ "llavearía" ],
+			[ "llavearíamos" ],
+			[ "llavearíais", "llavearían" ],
+			[ "llavearían" ]
+		],
+		"7" : [
+			[ "llavearé" ],
+			[ "llavearás" ],
+			[ "llaveará" ],
+			[ "llavearemos" ],
+			[ "llavearéis", "llavearán" ],
+			[ "llavearán" ]
+		],
+		"8" : [
+			[ "llavee" ],
+			[ "llavees" ],
+			[ "llavee" ],
+			[ "llaveemos" ],
+			[ "llaveéis", "llaveen" ],
+			[ "llaveen" ]
+		],
+		"9" : [
+			[ "llaveara" ],
+			[ "llavearas" ],
+			[ "llaveara" ],
+			[ "llaveáramos" ],
+			[ "llavearais", "llavearan" ],
+			[ "llavearan" ]
+		],
+		"10" : [
+			[ "llavease" ],
+			[ "llaveases" ],
+			[ "llavease" ],
+			[ "llaveásemos" ],
+			[ "llaveaseis", "llaveasen" ],
+			[ "llaveasen" ]
+		],
+		"11" : [
+			[ "llaveare" ],
+			[ "llaveares" ],
+			[ "llaveare" ],
+			[ "llaveáremos" ],
+			[ "llaveareis", "llavearen" ],
+			[ "llavearen" ]
+		],
+		"12" : {
+			"1" : [ "llavea" ],
+			"2" : [ "llavee" ],
+			"3" : [ "llaveemos" ],
+			"4" : [ "llavead" ],
+			"5" : [ "llaveen" ]
+		}
+	}
+}

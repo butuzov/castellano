@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=meter",
+	"word" : "meter",
+	"infinitivo" : "meter",
+	"participio" : [ "metido" ],
+	"gerundio" : [ "metiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "meto" ],
+			[ "metes", "metés" ],
+			[ "mete" ],
+			[ "metemos" ],
+			[ "metéis", "meten" ],
+			[ "meten" ]
+		],
+		"4" : [
+			[ "metí" ],
+			[ "metiste" ],
+			[ "metió" ],
+			[ "metimos" ],
+			[ "metisteis", "metieron" ],
+			[ "metieron" ]
+		],
+		"5" : [
+			[ "metía" ],
+			[ "metías" ],
+			[ "metía" ],
+			[ "metíamos" ],
+			[ "metíais", "metían" ],
+			[ "metían" ]
+		],
+		"6" : [
+			[ "metería" ],
+			[ "meterías" ],
+			[ "metería" ],
+			[ "meteríamos" ],
+			[ "meteríais", "meterían" ],
+			[ "meterían" ]
+		],
+		"7" : [
+			[ "meteré" ],
+			[ "meterás" ],
+			[ "meterá" ],
+			[ "meteremos" ],
+			[ "meteréis", "meterán" ],
+			[ "meterán" ]
+		],
+		"8" : [
+			[ "meta" ],
+			[ "metas" ],
+			[ "meta" ],
+			[ "metamos" ],
+			[ "metáis", "metan" ],
+			[ "metan" ]
+		],
+		"9" : [
+			[ "metiera" ],
+			[ "metieras" ],
+			[ "metiera" ],
+			[ "metiéramos" ],
+			[ "metierais", "metieran" ],
+			[ "metieran" ]
+		],
+		"10" : [
+			[ "metiese" ],
+			[ "metieses" ],
+			[ "metiese" ],
+			[ "metiésemos" ],
+			[ "metieseis", "metiesen" ],
+			[ "metiesen" ]
+		],
+		"11" : [
+			[ "metiere" ],
+			[ "metieres" ],
+			[ "metiere" ],
+			[ "metiéremos" ],
+			[ "metiereis", "metieren" ],
+			[ "metieren" ]
+		],
+		"12" : {
+			"1" : [ "mete" ],
+			"2" : [ "meta" ],
+			"3" : [ "metamos" ],
+			"4" : [ "meted" ],
+			"5" : [ "metan" ]
+		}
+	}
+}

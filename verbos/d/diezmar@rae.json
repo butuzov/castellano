@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=diezmar",
+	"word" : "diezmar",
+	"infinitivo" : "diezmar",
+	"participio" : [ "diezmado" ],
+	"gerundio" : [ "diezmando" ],
+	"tenses" : {
+		"3" : [
+			[ "diezmo" ],
+			[ "diezmas", "diezmás" ],
+			[ "diezma" ],
+			[ "diezmamos" ],
+			[ "diezmáis", "diezman" ],
+			[ "diezman" ]
+		],
+		"4" : [
+			[ "diezmé" ],
+			[ "diezmaste" ],
+			[ "diezmó" ],
+			[ "diezmamos" ],
+			[ "diezmasteis", "diezmaron" ],
+			[ "diezmaron" ]
+		],
+		"5" : [
+			[ "diezmaba" ],
+			[ "diezmabas" ],
+			[ "diezmaba" ],
+			[ "diezmábamos" ],
+			[ "diezmabais", "diezmaban" ],
+			[ "diezmaban" ]
+		],
+		"6" : [
+			[ "diezmaría" ],
+			[ "diezmarías" ],
+			[ "diezmaría" ],
+			[ "diezmaríamos" ],
+			[ "diezmaríais", "diezmarían" ],
+			[ "diezmarían" ]
+		],
+		"7" : [
+			[ "diezmaré" ],
+			[ "diezmarás" ],
+			[ "diezmará" ],
+			[ "diezmaremos" ],
+			[ "diezmaréis", "diezmarán" ],
+			[ "diezmarán" ]
+		],
+		"8" : [
+			[ "diezme" ],
+			[ "diezmes" ],
+			[ "diezme" ],
+			[ "diezmemos" ],
+			[ "diezméis", "diezmen" ],
+			[ "diezmen" ]
+		],
+		"9" : [
+			[ "diezmara" ],
+			[ "diezmaras" ],
+			[ "diezmara" ],
+			[ "diezmáramos" ],
+			[ "diezmarais", "diezmaran" ],
+			[ "diezmaran" ]
+		],
+		"10" : [
+			[ "diezmase" ],
+			[ "diezmases" ],
+			[ "diezmase" ],
+			[ "diezmásemos" ],
+			[ "diezmaseis", "diezmasen" ],
+			[ "diezmasen" ]
+		],
+		"11" : [
+			[ "diezmare" ],
+			[ "diezmares" ],
+			[ "diezmare" ],
+			[ "diezmáremos" ],
+			[ "diezmareis", "diezmaren" ],
+			[ "diezmaren" ]
+		],
+		"12" : {
+			"1" : [ "diezma" ],
+			"2" : [ "diezme" ],
+			"3" : [ "diezmemos" ],
+			"4" : [ "diezmad" ],
+			"5" : [ "diezmen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=soñar",
+	"word" : "soñar",
+	"infinitivo" : "soñar",
+	"participio" : [ "soñado" ],
+	"gerundio" : [ "soñando" ],
+	"tenses" : {
+		"3" : [
+			[ "sueño" ],
+			[ "sueñas", "soñás" ],
+			[ "sueña" ],
+			[ "soñamos" ],
+			[ "soñáis", "sueñan" ],
+			[ "sueñan" ]
+		],
+		"4" : [
+			[ "soñé" ],
+			[ "soñaste" ],
+			[ "soñó" ],
+			[ "soñamos" ],
+			[ "soñasteis", "soñaron" ],
+			[ "soñaron" ]
+		],
+		"5" : [
+			[ "soñaba" ],
+			[ "soñabas" ],
+			[ "soñaba" ],
+			[ "soñábamos" ],
+			[ "soñabais", "soñaban" ],
+			[ "soñaban" ]
+		],
+		"6" : [
+			[ "soñaría" ],
+			[ "soñarías" ],
+			[ "soñaría" ],
+			[ "soñaríamos" ],
+			[ "soñaríais", "soñarían" ],
+			[ "soñarían" ]
+		],
+		"7" : [
+			[ "soñaré" ],
+			[ "soñarás" ],
+			[ "soñará" ],
+			[ "soñaremos" ],
+			[ "soñaréis", "soñarán" ],
+			[ "soñarán" ]
+		],
+		"8" : [
+			[ "sueñe" ],
+			[ "sueñes" ],
+			[ "sueñe" ],
+			[ "soñemos" ],
+			[ "soñéis", "sueñen" ],
+			[ "sueñen" ]
+		],
+		"9" : [
+			[ "soñara" ],
+			[ "soñaras" ],
+			[ "soñara" ],
+			[ "soñáramos" ],
+			[ "soñarais", "soñaran" ],
+			[ "soñaran" ]
+		],
+		"10" : [
+			[ "soñase" ],
+			[ "soñases" ],
+			[ "soñase" ],
+			[ "soñásemos" ],
+			[ "soñaseis", "soñasen" ],
+			[ "soñasen" ]
+		],
+		"11" : [
+			[ "soñare" ],
+			[ "soñares" ],
+			[ "soñare" ],
+			[ "soñáremos" ],
+			[ "soñareis", "soñaren" ],
+			[ "soñaren" ]
+		],
+		"12" : {
+			"1" : [ "sueña" ],
+			"2" : [ "sueñe" ],
+			"3" : [ "soñemos" ],
+			"4" : [ "soñad" ],
+			"5" : [ "sueñen" ]
+		}
+	}
+}

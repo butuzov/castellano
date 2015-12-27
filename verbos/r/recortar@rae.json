@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recortar",
+	"word" : "recortar",
+	"infinitivo" : "recortar",
+	"participio" : [ "recortado" ],
+	"gerundio" : [ "recortando" ],
+	"tenses" : {
+		"3" : [
+			[ "recorto" ],
+			[ "recortas", "recortás" ],
+			[ "recorta" ],
+			[ "recortamos" ],
+			[ "recortáis", "recortan" ],
+			[ "recortan" ]
+		],
+		"4" : [
+			[ "recorté" ],
+			[ "recortaste" ],
+			[ "recortó" ],
+			[ "recortamos" ],
+			[ "recortasteis", "recortaron" ],
+			[ "recortaron" ]
+		],
+		"5" : [
+			[ "recortaba" ],
+			[ "recortabas" ],
+			[ "recortaba" ],
+			[ "recortábamos" ],
+			[ "recortabais", "recortaban" ],
+			[ "recortaban" ]
+		],
+		"6" : [
+			[ "recortaría" ],
+			[ "recortarías" ],
+			[ "recortaría" ],
+			[ "recortaríamos" ],
+			[ "recortaríais", "recortarían" ],
+			[ "recortarían" ]
+		],
+		"7" : [
+			[ "recortaré" ],
+			[ "recortarás" ],
+			[ "recortará" ],
+			[ "recortaremos" ],
+			[ "recortaréis", "recortarán" ],
+			[ "recortarán" ]
+		],
+		"8" : [
+			[ "recorte" ],
+			[ "recortes" ],
+			[ "recorte" ],
+			[ "recortemos" ],
+			[ "recortéis", "recorten" ],
+			[ "recorten" ]
+		],
+		"9" : [
+			[ "recortara" ],
+			[ "recortaras" ],
+			[ "recortara" ],
+			[ "recortáramos" ],
+			[ "recortarais", "recortaran" ],
+			[ "recortaran" ]
+		],
+		"10" : [
+			[ "recortase" ],
+			[ "recortases" ],
+			[ "recortase" ],
+			[ "recortásemos" ],
+			[ "recortaseis", "recortasen" ],
+			[ "recortasen" ]
+		],
+		"11" : [
+			[ "recortare" ],
+			[ "recortares" ],
+			[ "recortare" ],
+			[ "recortáremos" ],
+			[ "recortareis", "recortaren" ],
+			[ "recortaren" ]
+		],
+		"12" : {
+			"1" : [ "recorta" ],
+			"2" : [ "recorte" ],
+			"3" : [ "recortemos" ],
+			"4" : [ "recortad" ],
+			"5" : [ "recorten" ]
+		}
+	}
+}

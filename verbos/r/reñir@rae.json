@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reñir",
+	"word" : "reñir",
+	"infinitivo" : "reñir",
+	"participio" : [ "reñido" ],
+	"gerundio" : [ "riñendo" ],
+	"tenses" : {
+		"3" : [
+			[ "riño" ],
+			[ "riñes", "reñís" ],
+			[ "riñe" ],
+			[ "reñimos" ],
+			[ "reñís", "riñen" ],
+			[ "riñen" ]
+		],
+		"4" : [
+			[ "reñí" ],
+			[ "reñiste" ],
+			[ "riñó" ],
+			[ "reñimos" ],
+			[ "reñisteis", "riñeron" ],
+			[ "riñeron" ]
+		],
+		"5" : [
+			[ "reñía" ],
+			[ "reñías" ],
+			[ "reñía" ],
+			[ "reñíamos" ],
+			[ "reñíais", "reñían" ],
+			[ "reñían" ]
+		],
+		"6" : [
+			[ "reñiría" ],
+			[ "reñirías" ],
+			[ "reñiría" ],
+			[ "reñiríamos" ],
+			[ "reñiríais", "reñirían" ],
+			[ "reñirían" ]
+		],
+		"7" : [
+			[ "reñiré" ],
+			[ "reñirás" ],
+			[ "reñirá" ],
+			[ "reñiremos" ],
+			[ "reñiréis", "reñirán" ],
+			[ "reñirán" ]
+		],
+		"8" : [
+			[ "riña" ],
+			[ "riñas" ],
+			[ "riña" ],
+			[ "riñamos" ],
+			[ "riñáis", "riñan" ],
+			[ "riñan" ]
+		],
+		"9" : [
+			[ "riñera" ],
+			[ "riñeras" ],
+			[ "riñera" ],
+			[ "riñéramos" ],
+			[ "riñerais", "riñeran" ],
+			[ "riñeran" ]
+		],
+		"10" : [
+			[ "riñese" ],
+			[ "riñeses" ],
+			[ "riñese" ],
+			[ "riñésemos" ],
+			[ "riñeseis", "riñesen" ],
+			[ "riñesen" ]
+		],
+		"11" : [
+			[ "riñere" ],
+			[ "riñeres" ],
+			[ "riñere" ],
+			[ "riñéremos" ],
+			[ "riñereis", "riñeren" ],
+			[ "riñeren" ]
+		],
+		"12" : {
+			"1" : [ "riñe" ],
+			"2" : [ "riña" ],
+			"3" : [ "riñamos" ],
+			"4" : [ "reñid" ],
+			"5" : [ "riñan" ]
+		}
+	}
+}

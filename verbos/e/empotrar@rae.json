@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empotrar",
+	"word" : "empotrar",
+	"infinitivo" : "empotrar",
+	"participio" : [ "empotrado" ],
+	"gerundio" : [ "empotrando" ],
+	"tenses" : {
+		"3" : [
+			[ "empotro" ],
+			[ "empotras", "empotrás" ],
+			[ "empotra" ],
+			[ "empotramos" ],
+			[ "empotráis", "empotran" ],
+			[ "empotran" ]
+		],
+		"4" : [
+			[ "empotré" ],
+			[ "empotraste" ],
+			[ "empotró" ],
+			[ "empotramos" ],
+			[ "empotrasteis", "empotraron" ],
+			[ "empotraron" ]
+		],
+		"5" : [
+			[ "empotraba" ],
+			[ "empotrabas" ],
+			[ "empotraba" ],
+			[ "empotrábamos" ],
+			[ "empotrabais", "empotraban" ],
+			[ "empotraban" ]
+		],
+		"6" : [
+			[ "empotraría" ],
+			[ "empotrarías" ],
+			[ "empotraría" ],
+			[ "empotraríamos" ],
+			[ "empotraríais", "empotrarían" ],
+			[ "empotrarían" ]
+		],
+		"7" : [
+			[ "empotraré" ],
+			[ "empotrarás" ],
+			[ "empotrará" ],
+			[ "empotraremos" ],
+			[ "empotraréis", "empotrarán" ],
+			[ "empotrarán" ]
+		],
+		"8" : [
+			[ "empotre" ],
+			[ "empotres" ],
+			[ "empotre" ],
+			[ "empotremos" ],
+			[ "empotréis", "empotren" ],
+			[ "empotren" ]
+		],
+		"9" : [
+			[ "empotrara" ],
+			[ "empotraras" ],
+			[ "empotrara" ],
+			[ "empotráramos" ],
+			[ "empotrarais", "empotraran" ],
+			[ "empotraran" ]
+		],
+		"10" : [
+			[ "empotrase" ],
+			[ "empotrases" ],
+			[ "empotrase" ],
+			[ "empotrásemos" ],
+			[ "empotraseis", "empotrasen" ],
+			[ "empotrasen" ]
+		],
+		"11" : [
+			[ "empotrare" ],
+			[ "empotrares" ],
+			[ "empotrare" ],
+			[ "empotráremos" ],
+			[ "empotrareis", "empotraren" ],
+			[ "empotraren" ]
+		],
+		"12" : {
+			"1" : [ "empotra" ],
+			"2" : [ "empotre" ],
+			"3" : [ "empotremos" ],
+			"4" : [ "empotrad" ],
+			"5" : [ "empotren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=besar",
+	"word" : "besar",
+	"infinitivo" : "besar",
+	"participio" : [ "besado" ],
+	"gerundio" : [ "besando" ],
+	"tenses" : {
+		"3" : [
+			[ "beso" ],
+			[ "besas", "besás" ],
+			[ "besa" ],
+			[ "besamos" ],
+			[ "besáis", "besan" ],
+			[ "besan" ]
+		],
+		"4" : [
+			[ "besé" ],
+			[ "besaste" ],
+			[ "besó" ],
+			[ "besamos" ],
+			[ "besasteis", "besaron" ],
+			[ "besaron" ]
+		],
+		"5" : [
+			[ "besaba" ],
+			[ "besabas" ],
+			[ "besaba" ],
+			[ "besábamos" ],
+			[ "besabais", "besaban" ],
+			[ "besaban" ]
+		],
+		"6" : [
+			[ "besaría" ],
+			[ "besarías" ],
+			[ "besaría" ],
+			[ "besaríamos" ],
+			[ "besaríais", "besarían" ],
+			[ "besarían" ]
+		],
+		"7" : [
+			[ "besaré" ],
+			[ "besarás" ],
+			[ "besará" ],
+			[ "besaremos" ],
+			[ "besaréis", "besarán" ],
+			[ "besarán" ]
+		],
+		"8" : [
+			[ "bese" ],
+			[ "beses" ],
+			[ "bese" ],
+			[ "besemos" ],
+			[ "beséis", "besen" ],
+			[ "besen" ]
+		],
+		"9" : [
+			[ "besara" ],
+			[ "besaras" ],
+			[ "besara" ],
+			[ "besáramos" ],
+			[ "besarais", "besaran" ],
+			[ "besaran" ]
+		],
+		"10" : [
+			[ "besase" ],
+			[ "besases" ],
+			[ "besase" ],
+			[ "besásemos" ],
+			[ "besaseis", "besasen" ],
+			[ "besasen" ]
+		],
+		"11" : [
+			[ "besare" ],
+			[ "besares" ],
+			[ "besare" ],
+			[ "besáremos" ],
+			[ "besareis", "besaren" ],
+			[ "besaren" ]
+		],
+		"12" : {
+			"1" : [ "besa" ],
+			"2" : [ "bese" ],
+			"3" : [ "besemos" ],
+			"4" : [ "besad" ],
+			"5" : [ "besen" ]
+		}
+	}
+}

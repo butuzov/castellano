@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cuadriplicar",
+	"word" : "cuadriplicar",
+	"infinitivo" : "cuadriplicar",
+	"participio" : [ "cuadriplicado" ],
+	"gerundio" : [ "cuadriplicando" ],
+	"tenses" : {
+		"3" : [
+			[ "cuadriplico" ],
+			[ "cuadriplicas", "cuadriplicás" ],
+			[ "cuadriplica" ],
+			[ "cuadriplicamos" ],
+			[ "cuadriplicáis", "cuadriplican" ],
+			[ "cuadriplican" ]
+		],
+		"4" : [
+			[ "cuadripliqué" ],
+			[ "cuadriplicaste" ],
+			[ "cuadriplicó" ],
+			[ "cuadriplicamos" ],
+			[ "cuadriplicasteis", "cuadriplicaron" ],
+			[ "cuadriplicaron" ]
+		],
+		"5" : [
+			[ "cuadriplicaba" ],
+			[ "cuadriplicabas" ],
+			[ "cuadriplicaba" ],
+			[ "cuadriplicábamos" ],
+			[ "cuadriplicabais", "cuadriplicaban" ],
+			[ "cuadriplicaban" ]
+		],
+		"6" : [
+			[ "cuadriplicaría" ],
+			[ "cuadriplicarías" ],
+			[ "cuadriplicaría" ],
+			[ "cuadriplicaríamos" ],
+			[ "cuadriplicaríais", "cuadriplicarían" ],
+			[ "cuadriplicarían" ]
+		],
+		"7" : [
+			[ "cuadriplicaré" ],
+			[ "cuadriplicarás" ],
+			[ "cuadriplicará" ],
+			[ "cuadriplicaremos" ],
+			[ "cuadriplicaréis", "cuadriplicarán" ],
+			[ "cuadriplicarán" ]
+		],
+		"8" : [
+			[ "cuadriplique" ],
+			[ "cuadripliques" ],
+			[ "cuadriplique" ],
+			[ "cuadripliquemos" ],
+			[ "cuadripliquéis", "cuadripliquen" ],
+			[ "cuadripliquen" ]
+		],
+		"9" : [
+			[ "cuadriplicara" ],
+			[ "cuadriplicaras" ],
+			[ "cuadriplicara" ],
+			[ "cuadriplicáramos" ],
+			[ "cuadriplicarais", "cuadriplicaran" ],
+			[ "cuadriplicaran" ]
+		],
+		"10" : [
+			[ "cuadriplicase" ],
+			[ "cuadriplicases" ],
+			[ "cuadriplicase" ],
+			[ "cuadriplicásemos" ],
+			[ "cuadriplicaseis", "cuadriplicasen" ],
+			[ "cuadriplicasen" ]
+		],
+		"11" : [
+			[ "cuadriplicare" ],
+			[ "cuadriplicares" ],
+			[ "cuadriplicare" ],
+			[ "cuadriplicáremos" ],
+			[ "cuadriplicareis", "cuadriplicaren" ],
+			[ "cuadriplicaren" ]
+		],
+		"12" : {
+			"1" : [ "cuadriplica" ],
+			"2" : [ "cuadriplique" ],
+			"3" : [ "cuadripliquemos" ],
+			"4" : [ "cuadriplicad" ],
+			"5" : [ "cuadripliquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acechar",
+	"word" : "acechar",
+	"infinitivo" : "acechar",
+	"participio" : [ "acechado" ],
+	"gerundio" : [ "acechando" ],
+	"tenses" : {
+		"3" : [
+			[ "acecho" ],
+			[ "acechas", "acechás" ],
+			[ "acecha" ],
+			[ "acechamos" ],
+			[ "acecháis", "acechan" ],
+			[ "acechan" ]
+		],
+		"4" : [
+			[ "aceché" ],
+			[ "acechaste" ],
+			[ "acechó" ],
+			[ "acechamos" ],
+			[ "acechasteis", "acecharon" ],
+			[ "acecharon" ]
+		],
+		"5" : [
+			[ "acechaba" ],
+			[ "acechabas" ],
+			[ "acechaba" ],
+			[ "acechábamos" ],
+			[ "acechabais", "acechaban" ],
+			[ "acechaban" ]
+		],
+		"6" : [
+			[ "acecharía" ],
+			[ "acecharías" ],
+			[ "acecharía" ],
+			[ "acecharíamos" ],
+			[ "acecharíais", "acecharían" ],
+			[ "acecharían" ]
+		],
+		"7" : [
+			[ "acecharé" ],
+			[ "acecharás" ],
+			[ "acechará" ],
+			[ "acecharemos" ],
+			[ "acecharéis", "acecharán" ],
+			[ "acecharán" ]
+		],
+		"8" : [
+			[ "aceche" ],
+			[ "aceches" ],
+			[ "aceche" ],
+			[ "acechemos" ],
+			[ "acechéis", "acechen" ],
+			[ "acechen" ]
+		],
+		"9" : [
+			[ "acechara" ],
+			[ "acecharas" ],
+			[ "acechara" ],
+			[ "acecháramos" ],
+			[ "acecharais", "acecharan" ],
+			[ "acecharan" ]
+		],
+		"10" : [
+			[ "acechase" ],
+			[ "acechases" ],
+			[ "acechase" ],
+			[ "acechásemos" ],
+			[ "acechaseis", "acechasen" ],
+			[ "acechasen" ]
+		],
+		"11" : [
+			[ "acechare" ],
+			[ "acechares" ],
+			[ "acechare" ],
+			[ "acecháremos" ],
+			[ "acechareis", "acecharen" ],
+			[ "acecharen" ]
+		],
+		"12" : {
+			"1" : [ "acecha" ],
+			"2" : [ "aceche" ],
+			"3" : [ "acechemos" ],
+			"4" : [ "acechad" ],
+			"5" : [ "acechen" ]
+		}
+	}
+}

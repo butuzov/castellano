@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atesar",
+	"word" : "atesar",
+	"infinitivo" : "atesar",
+	"participio" : [ "atesado" ],
+	"gerundio" : [ "atesando" ],
+	"tenses" : {
+		"3" : [
+			[ "ateso" ],
+			[ "atesas", "atesás" ],
+			[ "atesa" ],
+			[ "atesamos" ],
+			[ "atesáis", "atesan" ],
+			[ "atesan" ]
+		],
+		"4" : [
+			[ "atesé" ],
+			[ "atesaste" ],
+			[ "atesó" ],
+			[ "atesamos" ],
+			[ "atesasteis", "atesaron" ],
+			[ "atesaron" ]
+		],
+		"5" : [
+			[ "atesaba" ],
+			[ "atesabas" ],
+			[ "atesaba" ],
+			[ "atesábamos" ],
+			[ "atesabais", "atesaban" ],
+			[ "atesaban" ]
+		],
+		"6" : [
+			[ "atesaría" ],
+			[ "atesarías" ],
+			[ "atesaría" ],
+			[ "atesaríamos" ],
+			[ "atesaríais", "atesarían" ],
+			[ "atesarían" ]
+		],
+		"7" : [
+			[ "atesaré" ],
+			[ "atesarás" ],
+			[ "atesará" ],
+			[ "atesaremos" ],
+			[ "atesaréis", "atesarán" ],
+			[ "atesarán" ]
+		],
+		"8" : [
+			[ "atese" ],
+			[ "ateses" ],
+			[ "atese" ],
+			[ "atesemos" ],
+			[ "ateséis", "atesen" ],
+			[ "atesen" ]
+		],
+		"9" : [
+			[ "atesara" ],
+			[ "atesaras" ],
+			[ "atesara" ],
+			[ "atesáramos" ],
+			[ "atesarais", "atesaran" ],
+			[ "atesaran" ]
+		],
+		"10" : [
+			[ "atesase" ],
+			[ "atesases" ],
+			[ "atesase" ],
+			[ "atesásemos" ],
+			[ "atesaseis", "atesasen" ],
+			[ "atesasen" ]
+		],
+		"11" : [
+			[ "atesare" ],
+			[ "atesares" ],
+			[ "atesare" ],
+			[ "atesáremos" ],
+			[ "atesareis", "atesaren" ],
+			[ "atesaren" ]
+		],
+		"12" : {
+			"1" : [ "atesa" ],
+			"2" : [ "atese" ],
+			"3" : [ "atesemos" ],
+			"4" : [ "atesad" ],
+			"5" : [ "atesen" ]
+		}
+	}
+}

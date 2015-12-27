@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=joder",
+	"word" : "joder",
+	"infinitivo" : "joder",
+	"participio" : [ "jodido" ],
+	"gerundio" : [ "jodiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "jodo" ],
+			[ "jodes", "jodés" ],
+			[ "jode" ],
+			[ "jodemos" ],
+			[ "jodéis", "joden" ],
+			[ "joden" ]
+		],
+		"4" : [
+			[ "jodí" ],
+			[ "jodiste" ],
+			[ "jodió" ],
+			[ "jodimos" ],
+			[ "jodisteis", "jodieron" ],
+			[ "jodieron" ]
+		],
+		"5" : [
+			[ "jodía" ],
+			[ "jodías" ],
+			[ "jodía" ],
+			[ "jodíamos" ],
+			[ "jodíais", "jodían" ],
+			[ "jodían" ]
+		],
+		"6" : [
+			[ "jodería" ],
+			[ "joderías" ],
+			[ "jodería" ],
+			[ "joderíamos" ],
+			[ "joderíais", "joderían" ],
+			[ "joderían" ]
+		],
+		"7" : [
+			[ "joderé" ],
+			[ "joderás" ],
+			[ "joderá" ],
+			[ "joderemos" ],
+			[ "joderéis", "joderán" ],
+			[ "joderán" ]
+		],
+		"8" : [
+			[ "joda" ],
+			[ "jodas" ],
+			[ "joda" ],
+			[ "jodamos" ],
+			[ "jodáis", "jodan" ],
+			[ "jodan" ]
+		],
+		"9" : [
+			[ "jodiera" ],
+			[ "jodieras" ],
+			[ "jodiera" ],
+			[ "jodiéramos" ],
+			[ "jodierais", "jodieran" ],
+			[ "jodieran" ]
+		],
+		"10" : [
+			[ "jodiese" ],
+			[ "jodieses" ],
+			[ "jodiese" ],
+			[ "jodiésemos" ],
+			[ "jodieseis", "jodiesen" ],
+			[ "jodiesen" ]
+		],
+		"11" : [
+			[ "jodiere" ],
+			[ "jodieres" ],
+			[ "jodiere" ],
+			[ "jodiéremos" ],
+			[ "jodiereis", "jodieren" ],
+			[ "jodieren" ]
+		],
+		"12" : {
+			"1" : [ "jode" ],
+			"2" : [ "joda" ],
+			"3" : [ "jodamos" ],
+			"4" : [ "joded" ],
+			"5" : [ "jodan" ]
+		}
+	}
+}

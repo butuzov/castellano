@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=confirmar",
+	"word" : "confirmar",
+	"infinitivo" : "confirmar",
+	"participio" : [ "confirmado" ],
+	"gerundio" : [ "confirmando" ],
+	"tenses" : {
+		"3" : [
+			[ "confirmo" ],
+			[ "confirmas", "confirmás" ],
+			[ "confirma" ],
+			[ "confirmamos" ],
+			[ "confirmáis", "confirman" ],
+			[ "confirman" ]
+		],
+		"4" : [
+			[ "confirmé" ],
+			[ "confirmaste" ],
+			[ "confirmó" ],
+			[ "confirmamos" ],
+			[ "confirmasteis", "confirmaron" ],
+			[ "confirmaron" ]
+		],
+		"5" : [
+			[ "confirmaba" ],
+			[ "confirmabas" ],
+			[ "confirmaba" ],
+			[ "confirmábamos" ],
+			[ "confirmabais", "confirmaban" ],
+			[ "confirmaban" ]
+		],
+		"6" : [
+			[ "confirmaría" ],
+			[ "confirmarías" ],
+			[ "confirmaría" ],
+			[ "confirmaríamos" ],
+			[ "confirmaríais", "confirmarían" ],
+			[ "confirmarían" ]
+		],
+		"7" : [
+			[ "confirmaré" ],
+			[ "confirmarás" ],
+			[ "confirmará" ],
+			[ "confirmaremos" ],
+			[ "confirmaréis", "confirmarán" ],
+			[ "confirmarán" ]
+		],
+		"8" : [
+			[ "confirme" ],
+			[ "confirmes" ],
+			[ "confirme" ],
+			[ "confirmemos" ],
+			[ "confirméis", "confirmen" ],
+			[ "confirmen" ]
+		],
+		"9" : [
+			[ "confirmara" ],
+			[ "confirmaras" ],
+			[ "confirmara" ],
+			[ "confirmáramos" ],
+			[ "confirmarais", "confirmaran" ],
+			[ "confirmaran" ]
+		],
+		"10" : [
+			[ "confirmase" ],
+			[ "confirmases" ],
+			[ "confirmase" ],
+			[ "confirmásemos" ],
+			[ "confirmaseis", "confirmasen" ],
+			[ "confirmasen" ]
+		],
+		"11" : [
+			[ "confirmare" ],
+			[ "confirmares" ],
+			[ "confirmare" ],
+			[ "confirmáremos" ],
+			[ "confirmareis", "confirmaren" ],
+			[ "confirmaren" ]
+		],
+		"12" : {
+			"1" : [ "confirma" ],
+			"2" : [ "confirme" ],
+			"3" : [ "confirmemos" ],
+			"4" : [ "confirmad" ],
+			"5" : [ "confirmen" ]
+		}
+	}
+}

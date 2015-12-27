@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desdecir",
+	"word" : "desdecir",
+	"infinitivo" : "desdecir",
+	"participio" : [ "desdicho" ],
+	"gerundio" : [ "desdiciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desdigo" ],
+			[ "desdices", "desdecís" ],
+			[ "desdice" ],
+			[ "desdecimos" ],
+			[ "desdecís", "desdicen" ],
+			[ "desdicen" ]
+		],
+		"4" : [
+			[ "desdije" ],
+			[ "desdijiste" ],
+			[ "desdijo" ],
+			[ "desdijimos" ],
+			[ "desdijisteis", "desdijeron" ],
+			[ "desdijeron" ]
+		],
+		"5" : [
+			[ "desdecía" ],
+			[ "desdecías" ],
+			[ "desdecía" ],
+			[ "desdecíamos" ],
+			[ "desdecíais", "desdecían" ],
+			[ "desdecían" ]
+		],
+		"6" : [
+			[ "desdiría" ],
+			[ "desdirías" ],
+			[ "desdiría" ],
+			[ "desdiríamos" ],
+			[ "desdiríais", "desdirían" ],
+			[ "desdirían" ]
+		],
+		"7" : [
+			[ "desdiré" ],
+			[ "desdirás" ],
+			[ "desdirá" ],
+			[ "desdiremos" ],
+			[ "desdiréis", "desdirán" ],
+			[ "desdirán" ]
+		],
+		"8" : [
+			[ "desdiga" ],
+			[ "desdigas" ],
+			[ "desdiga" ],
+			[ "desdigamos" ],
+			[ "desdigáis", "desdigan" ],
+			[ "desdigan" ]
+		],
+		"9" : [
+			[ "desdijera" ],
+			[ "desdijeras" ],
+			[ "desdijera" ],
+			[ "desdijéramos" ],
+			[ "desdijerais", "desdijeran" ],
+			[ "desdijeran" ]
+		],
+		"10" : [
+			[ "desdijese" ],
+			[ "desdijeses" ],
+			[ "desdijese" ],
+			[ "desdijésemos" ],
+			[ "desdijeseis", "desdijesen" ],
+			[ "desdijesen" ]
+		],
+		"11" : [
+			[ "desdijere" ],
+			[ "desdijeres" ],
+			[ "desdijere" ],
+			[ "desdijéremos" ],
+			[ "desdijereis", "desdijeren" ],
+			[ "desdijeren" ]
+		],
+		"12" : {
+			"1" : [ "desdice" ],
+			"2" : [ "desdiga" ],
+			"3" : [ "desdigamos" ],
+			"4" : [ "desdecid" ],
+			"5" : [ "desdigan" ]
+		}
+	}
+}

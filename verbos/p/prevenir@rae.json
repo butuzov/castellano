@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prevenir",
+	"word" : "prevenir",
+	"infinitivo" : "prevenir",
+	"participio" : [ "prevenido" ],
+	"gerundio" : [ "previniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "prevengo" ],
+			[ "previenes", "prevenís" ],
+			[ "previene" ],
+			[ "prevenimos" ],
+			[ "prevenís", "previenen" ],
+			[ "previenen" ]
+		],
+		"4" : [
+			[ "previne" ],
+			[ "previniste" ],
+			[ "previno" ],
+			[ "previnimos" ],
+			[ "previnisteis", "previnieron" ],
+			[ "previnieron" ]
+		],
+		"5" : [
+			[ "prevenía" ],
+			[ "prevenías" ],
+			[ "prevenía" ],
+			[ "preveníamos" ],
+			[ "preveníais", "prevenían" ],
+			[ "prevenían" ]
+		],
+		"6" : [
+			[ "prevendría" ],
+			[ "prevendrías" ],
+			[ "prevendría" ],
+			[ "prevendríamos" ],
+			[ "prevendríais", "prevendrían" ],
+			[ "prevendrían" ]
+		],
+		"7" : [
+			[ "prevendré" ],
+			[ "prevendrás" ],
+			[ "prevendrá" ],
+			[ "prevendremos" ],
+			[ "prevendréis", "prevendrán" ],
+			[ "prevendrán" ]
+		],
+		"8" : [
+			[ "prevenga" ],
+			[ "prevengas" ],
+			[ "prevenga" ],
+			[ "prevengamos" ],
+			[ "prevengáis", "prevengan" ],
+			[ "prevengan" ]
+		],
+		"9" : [
+			[ "previniera" ],
+			[ "previnieras" ],
+			[ "previniera" ],
+			[ "previniéramos" ],
+			[ "previnierais", "previnieran" ],
+			[ "previnieran" ]
+		],
+		"10" : [
+			[ "previniese" ],
+			[ "previnieses" ],
+			[ "previniese" ],
+			[ "previniésemos" ],
+			[ "previnieseis", "previniesen" ],
+			[ "previniesen" ]
+		],
+		"11" : [
+			[ "previniere" ],
+			[ "previnieres" ],
+			[ "previniere" ],
+			[ "previniéremos" ],
+			[ "previniereis", "previnieren" ],
+			[ "previnieren" ]
+		],
+		"12" : {
+			"1" : [ "prevén" ],
+			"2" : [ "prevenga" ],
+			"3" : [ "prevengamos" ],
+			"4" : [ "prevenid" ],
+			"5" : [ "prevengan" ]
+		}
+	}
+}

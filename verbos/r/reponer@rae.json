@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reponer",
+	"word" : "reponer",
+	"infinitivo" : "reponer",
+	"participio" : [ "repuesto" ],
+	"gerundio" : [ "reponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "repongo" ],
+			[ "repones", "reponés" ],
+			[ "repone" ],
+			[ "reponemos" ],
+			[ "reponéis", "reponen" ],
+			[ "reponen" ]
+		],
+		"4" : [
+			[ "repuse" ],
+			[ "repusiste" ],
+			[ "repuso" ],
+			[ "repusimos" ],
+			[ "repusisteis", "repusieron" ],
+			[ "repusieron" ]
+		],
+		"5" : [
+			[ "reponía" ],
+			[ "reponías" ],
+			[ "reponía" ],
+			[ "reponíamos" ],
+			[ "reponíais", "reponían" ],
+			[ "reponían" ]
+		],
+		"6" : [
+			[ "repondría" ],
+			[ "repondrías" ],
+			[ "repondría" ],
+			[ "repondríamos" ],
+			[ "repondríais", "repondrían" ],
+			[ "repondrían" ]
+		],
+		"7" : [
+			[ "repondré" ],
+			[ "repondrás" ],
+			[ "repondrá" ],
+			[ "repondremos" ],
+			[ "repondréis", "repondrán" ],
+			[ "repondrán" ]
+		],
+		"8" : [
+			[ "reponga" ],
+			[ "repongas" ],
+			[ "reponga" ],
+			[ "repongamos" ],
+			[ "repongáis", "repongan" ],
+			[ "repongan" ]
+		],
+		"9" : [
+			[ "repusiera" ],
+			[ "repusieras" ],
+			[ "repusiera" ],
+			[ "repusiéramos" ],
+			[ "repusierais", "repusieran" ],
+			[ "repusieran" ]
+		],
+		"10" : [
+			[ "repusiese" ],
+			[ "repusieses" ],
+			[ "repusiese" ],
+			[ "repusiésemos" ],
+			[ "repusieseis", "repusiesen" ],
+			[ "repusiesen" ]
+		],
+		"11" : [
+			[ "repusiere" ],
+			[ "repusieres" ],
+			[ "repusiere" ],
+			[ "repusiéremos" ],
+			[ "repusiereis", "repusieren" ],
+			[ "repusieren" ]
+		],
+		"12" : {
+			"1" : [ "repón" ],
+			"2" : [ "reponga" ],
+			"3" : [ "repongamos" ],
+			"4" : [ "reponed" ],
+			"5" : [ "repongan" ]
+		}
+	}
+}

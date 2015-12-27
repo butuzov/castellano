@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desamistarse",
+	"word" : "desamistarse",
+	"infinitivo" : "desamistarse",
+	"participio" : [ "desamistado" ],
+	"gerundio" : [ "desamistándome", "desamistándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me desamisto" ],
+			[ "te desamistas", "te desamistás" ],
+			[ "se desamista" ],
+			[ "nos desamistamos" ],
+			[ "os desamistáis", "se desamistan" ],
+			[ "se desamistan" ]
+		],
+		"4" : [
+			[ "me desamisté" ],
+			[ "te desamistaste" ],
+			[ "se desamistó" ],
+			[ "nos desamistamos" ],
+			[ "os desamistasteis", "se desamistaron" ],
+			[ "se desamistaron" ]
+		],
+		"5" : [
+			[ "me desamistaba" ],
+			[ "te desamistabas" ],
+			[ "se desamistaba" ],
+			[ "nos desamistábamos" ],
+			[ "os desamistabais", "se desamistaban" ],
+			[ "se desamistaban" ]
+		],
+		"6" : [
+			[ "me desamistaría" ],
+			[ "te desamistarías" ],
+			[ "se desamistaría" ],
+			[ "nos desamistaríamos" ],
+			[ "os desamistaríais", "se desamistarían" ],
+			[ "se desamistarían" ]
+		],
+		"7" : [
+			[ "me desamistaré" ],
+			[ "te desamistarás" ],
+			[ "se desamistará" ],
+			[ "nos desamistaremos" ],
+			[ "os desamistaréis", "se desamistarán" ],
+			[ "se desamistarán" ]
+		],
+		"8" : [
+			[ "me desamiste" ],
+			[ "te desamistes" ],
+			[ "se desamiste" ],
+			[ "nos desamistemos" ],
+			[ "os desamistéis", "se desamisten" ],
+			[ "se desamisten" ]
+		],
+		"9" : [
+			[ "me desamistara" ],
+			[ "te desamistaras" ],
+			[ "se desamistara" ],
+			[ "nos desamistáramos" ],
+			[ "os desamistarais", "se desamistaran" ],
+			[ "se desamistaran" ]
+		],
+		"10" : [
+			[ "me desamistase" ],
+			[ "te desamistases" ],
+			[ "se desamistase" ],
+			[ "nos desamistásemos" ],
+			[ "os desamistaseis", "se desamistasen" ],
+			[ "se desamistasen" ]
+		],
+		"11" : [
+			[ "me desamistare" ],
+			[ "te desamistares" ],
+			[ "se desamistare" ],
+			[ "nos desamistáremos" ],
+			[ "os desamistareis", "se desamistaren" ],
+			[ "se desamistaren" ]
+		],
+		"12" : {
+			"1" : [ "desamístate" ],
+			"2" : [ "desamiste" ],
+			"3" : [ "desamistemos" ],
+			"4" : [ "desamistaos" ],
+			"5" : [ "desamístense" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=detallar",
+	"word" : "detallar",
+	"infinitivo" : "detallar",
+	"participio" : [ "detallado" ],
+	"gerundio" : [ "detallando" ],
+	"tenses" : {
+		"3" : [
+			[ "detallo" ],
+			[ "detallas", "detallás" ],
+			[ "detalla" ],
+			[ "detallamos" ],
+			[ "detalláis", "detallan" ],
+			[ "detallan" ]
+		],
+		"4" : [
+			[ "detallé" ],
+			[ "detallaste" ],
+			[ "detalló" ],
+			[ "detallamos" ],
+			[ "detallasteis", "detallaron" ],
+			[ "detallaron" ]
+		],
+		"5" : [
+			[ "detallaba" ],
+			[ "detallabas" ],
+			[ "detallaba" ],
+			[ "detallábamos" ],
+			[ "detallabais", "detallaban" ],
+			[ "detallaban" ]
+		],
+		"6" : [
+			[ "detallaría" ],
+			[ "detallarías" ],
+			[ "detallaría" ],
+			[ "detallaríamos" ],
+			[ "detallaríais", "detallarían" ],
+			[ "detallarían" ]
+		],
+		"7" : [
+			[ "detallaré" ],
+			[ "detallarás" ],
+			[ "detallará" ],
+			[ "detallaremos" ],
+			[ "detallaréis", "detallarán" ],
+			[ "detallarán" ]
+		],
+		"8" : [
+			[ "detalle" ],
+			[ "detalles" ],
+			[ "detalle" ],
+			[ "detallemos" ],
+			[ "detalléis", "detallen" ],
+			[ "detallen" ]
+		],
+		"9" : [
+			[ "detallara" ],
+			[ "detallaras" ],
+			[ "detallara" ],
+			[ "detalláramos" ],
+			[ "detallarais", "detallaran" ],
+			[ "detallaran" ]
+		],
+		"10" : [
+			[ "detallase" ],
+			[ "detallases" ],
+			[ "detallase" ],
+			[ "detallásemos" ],
+			[ "detallaseis", "detallasen" ],
+			[ "detallasen" ]
+		],
+		"11" : [
+			[ "detallare" ],
+			[ "detallares" ],
+			[ "detallare" ],
+			[ "detalláremos" ],
+			[ "detallareis", "detallaren" ],
+			[ "detallaren" ]
+		],
+		"12" : {
+			"1" : [ "detalla" ],
+			"2" : [ "detalle" ],
+			"3" : [ "detallemos" ],
+			"4" : [ "detallad" ],
+			"5" : [ "detallen" ]
+		}
+	}
+}

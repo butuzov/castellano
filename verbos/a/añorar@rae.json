@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=añorar",
+	"word" : "añorar",
+	"infinitivo" : "añorar",
+	"participio" : [ "añorado" ],
+	"gerundio" : [ "añorando" ],
+	"tenses" : {
+		"3" : [
+			[ "añoro" ],
+			[ "añoras", "añorás" ],
+			[ "añora" ],
+			[ "añoramos" ],
+			[ "añoráis", "añoran" ],
+			[ "añoran" ]
+		],
+		"4" : [
+			[ "añoré" ],
+			[ "añoraste" ],
+			[ "añoró" ],
+			[ "añoramos" ],
+			[ "añorasteis", "añoraron" ],
+			[ "añoraron" ]
+		],
+		"5" : [
+			[ "añoraba" ],
+			[ "añorabas" ],
+			[ "añoraba" ],
+			[ "añorábamos" ],
+			[ "añorabais", "añoraban" ],
+			[ "añoraban" ]
+		],
+		"6" : [
+			[ "añoraría" ],
+			[ "añorarías" ],
+			[ "añoraría" ],
+			[ "añoraríamos" ],
+			[ "añoraríais", "añorarían" ],
+			[ "añorarían" ]
+		],
+		"7" : [
+			[ "añoraré" ],
+			[ "añorarás" ],
+			[ "añorará" ],
+			[ "añoraremos" ],
+			[ "añoraréis", "añorarán" ],
+			[ "añorarán" ]
+		],
+		"8" : [
+			[ "añore" ],
+			[ "añores" ],
+			[ "añore" ],
+			[ "añoremos" ],
+			[ "añoréis", "añoren" ],
+			[ "añoren" ]
+		],
+		"9" : [
+			[ "añorara" ],
+			[ "añoraras" ],
+			[ "añorara" ],
+			[ "añoráramos" ],
+			[ "añorarais", "añoraran" ],
+			[ "añoraran" ]
+		],
+		"10" : [
+			[ "añorase" ],
+			[ "añorases" ],
+			[ "añorase" ],
+			[ "añorásemos" ],
+			[ "añoraseis", "añorasen" ],
+			[ "añorasen" ]
+		],
+		"11" : [
+			[ "añorare" ],
+			[ "añorares" ],
+			[ "añorare" ],
+			[ "añoráremos" ],
+			[ "añorareis", "añoraren" ],
+			[ "añoraren" ]
+		],
+		"12" : {
+			"1" : [ "añora" ],
+			"2" : [ "añore" ],
+			"3" : [ "añoremos" ],
+			"4" : [ "añorad" ],
+			"5" : [ "añoren" ]
+		}
+	}
+}

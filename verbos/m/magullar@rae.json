@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=magullar",
+	"word" : "magullar",
+	"infinitivo" : "magullar",
+	"participio" : [ "magullado" ],
+	"gerundio" : [ "magullando" ],
+	"tenses" : {
+		"3" : [
+			[ "magullo" ],
+			[ "magullas", "magullás" ],
+			[ "magulla" ],
+			[ "magullamos" ],
+			[ "magulláis", "magullan" ],
+			[ "magullan" ]
+		],
+		"4" : [
+			[ "magullé" ],
+			[ "magullaste" ],
+			[ "magulló" ],
+			[ "magullamos" ],
+			[ "magullasteis", "magullaron" ],
+			[ "magullaron" ]
+		],
+		"5" : [
+			[ "magullaba" ],
+			[ "magullabas" ],
+			[ "magullaba" ],
+			[ "magullábamos" ],
+			[ "magullabais", "magullaban" ],
+			[ "magullaban" ]
+		],
+		"6" : [
+			[ "magullaría" ],
+			[ "magullarías" ],
+			[ "magullaría" ],
+			[ "magullaríamos" ],
+			[ "magullaríais", "magullarían" ],
+			[ "magullarían" ]
+		],
+		"7" : [
+			[ "magullaré" ],
+			[ "magullarás" ],
+			[ "magullará" ],
+			[ "magullaremos" ],
+			[ "magullaréis", "magullarán" ],
+			[ "magullarán" ]
+		],
+		"8" : [
+			[ "magulle" ],
+			[ "magulles" ],
+			[ "magulle" ],
+			[ "magullemos" ],
+			[ "magulléis", "magullen" ],
+			[ "magullen" ]
+		],
+		"9" : [
+			[ "magullara" ],
+			[ "magullaras" ],
+			[ "magullara" ],
+			[ "magulláramos" ],
+			[ "magullarais", "magullaran" ],
+			[ "magullaran" ]
+		],
+		"10" : [
+			[ "magullase" ],
+			[ "magullases" ],
+			[ "magullase" ],
+			[ "magullásemos" ],
+			[ "magullaseis", "magullasen" ],
+			[ "magullasen" ]
+		],
+		"11" : [
+			[ "magullare" ],
+			[ "magullares" ],
+			[ "magullare" ],
+			[ "magulláremos" ],
+			[ "magullareis", "magullaren" ],
+			[ "magullaren" ]
+		],
+		"12" : {
+			"1" : [ "magulla" ],
+			"2" : [ "magulle" ],
+			"3" : [ "magullemos" ],
+			"4" : [ "magullad" ],
+			"5" : [ "magullen" ]
+		}
+	}
+}

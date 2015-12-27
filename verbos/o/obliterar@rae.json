@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=obliterar",
+	"word" : "obliterar",
+	"infinitivo" : "obliterar",
+	"participio" : [ "obliterado" ],
+	"gerundio" : [ "obliterando" ],
+	"tenses" : {
+		"3" : [
+			[ "oblitero" ],
+			[ "obliteras", "obliterás" ],
+			[ "oblitera" ],
+			[ "obliteramos" ],
+			[ "obliteráis", "obliteran" ],
+			[ "obliteran" ]
+		],
+		"4" : [
+			[ "obliteré" ],
+			[ "obliteraste" ],
+			[ "obliteró" ],
+			[ "obliteramos" ],
+			[ "obliterasteis", "obliteraron" ],
+			[ "obliteraron" ]
+		],
+		"5" : [
+			[ "obliteraba" ],
+			[ "obliterabas" ],
+			[ "obliteraba" ],
+			[ "obliterábamos" ],
+			[ "obliterabais", "obliteraban" ],
+			[ "obliteraban" ]
+		],
+		"6" : [
+			[ "obliteraría" ],
+			[ "obliterarías" ],
+			[ "obliteraría" ],
+			[ "obliteraríamos" ],
+			[ "obliteraríais", "obliterarían" ],
+			[ "obliterarían" ]
+		],
+		"7" : [
+			[ "obliteraré" ],
+			[ "obliterarás" ],
+			[ "obliterará" ],
+			[ "obliteraremos" ],
+			[ "obliteraréis", "obliterarán" ],
+			[ "obliterarán" ]
+		],
+		"8" : [
+			[ "oblitere" ],
+			[ "obliteres" ],
+			[ "oblitere" ],
+			[ "obliteremos" ],
+			[ "obliteréis", "obliteren" ],
+			[ "obliteren" ]
+		],
+		"9" : [
+			[ "obliterara" ],
+			[ "obliteraras" ],
+			[ "obliterara" ],
+			[ "obliteráramos" ],
+			[ "obliterarais", "obliteraran" ],
+			[ "obliteraran" ]
+		],
+		"10" : [
+			[ "obliterase" ],
+			[ "obliterases" ],
+			[ "obliterase" ],
+			[ "obliterásemos" ],
+			[ "obliteraseis", "obliterasen" ],
+			[ "obliterasen" ]
+		],
+		"11" : [
+			[ "obliterare" ],
+			[ "obliterares" ],
+			[ "obliterare" ],
+			[ "obliteráremos" ],
+			[ "obliterareis", "obliteraren" ],
+			[ "obliteraren" ]
+		],
+		"12" : {
+			"1" : [ "oblitera" ],
+			"2" : [ "oblitere" ],
+			"3" : [ "obliteremos" ],
+			"4" : [ "obliterad" ],
+			"5" : [ "obliteren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=topetar",
+	"word" : "topetar",
+	"infinitivo" : "topetar",
+	"participio" : [ "topetado" ],
+	"gerundio" : [ "topetando" ],
+	"tenses" : {
+		"3" : [
+			[ "topeto" ],
+			[ "topetas", "topetás" ],
+			[ "topeta" ],
+			[ "topetamos" ],
+			[ "topetáis", "topetan" ],
+			[ "topetan" ]
+		],
+		"4" : [
+			[ "topeté" ],
+			[ "topetaste" ],
+			[ "topetó" ],
+			[ "topetamos" ],
+			[ "topetasteis", "topetaron" ],
+			[ "topetaron" ]
+		],
+		"5" : [
+			[ "topetaba" ],
+			[ "topetabas" ],
+			[ "topetaba" ],
+			[ "topetábamos" ],
+			[ "topetabais", "topetaban" ],
+			[ "topetaban" ]
+		],
+		"6" : [
+			[ "topetaría" ],
+			[ "topetarías" ],
+			[ "topetaría" ],
+			[ "topetaríamos" ],
+			[ "topetaríais", "topetarían" ],
+			[ "topetarían" ]
+		],
+		"7" : [
+			[ "topetaré" ],
+			[ "topetarás" ],
+			[ "topetará" ],
+			[ "topetaremos" ],
+			[ "topetaréis", "topetarán" ],
+			[ "topetarán" ]
+		],
+		"8" : [
+			[ "topete" ],
+			[ "topetes" ],
+			[ "topete" ],
+			[ "topetemos" ],
+			[ "topetéis", "topeten" ],
+			[ "topeten" ]
+		],
+		"9" : [
+			[ "topetara" ],
+			[ "topetaras" ],
+			[ "topetara" ],
+			[ "topetáramos" ],
+			[ "topetarais", "topetaran" ],
+			[ "topetaran" ]
+		],
+		"10" : [
+			[ "topetase" ],
+			[ "topetases" ],
+			[ "topetase" ],
+			[ "topetásemos" ],
+			[ "topetaseis", "topetasen" ],
+			[ "topetasen" ]
+		],
+		"11" : [
+			[ "topetare" ],
+			[ "topetares" ],
+			[ "topetare" ],
+			[ "topetáremos" ],
+			[ "topetareis", "topetaren" ],
+			[ "topetaren" ]
+		],
+		"12" : {
+			"1" : [ "topeta" ],
+			"2" : [ "topete" ],
+			"3" : [ "topetemos" ],
+			"4" : [ "topetad" ],
+			"5" : [ "topeten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inculpar",
+	"word" : "inculpar",
+	"infinitivo" : "inculpar",
+	"participio" : [ "inculpado" ],
+	"gerundio" : [ "inculpando" ],
+	"tenses" : {
+		"3" : [
+			[ "inculpo" ],
+			[ "inculpas", "inculpás" ],
+			[ "inculpa" ],
+			[ "inculpamos" ],
+			[ "inculpáis", "inculpan" ],
+			[ "inculpan" ]
+		],
+		"4" : [
+			[ "inculpé" ],
+			[ "inculpaste" ],
+			[ "inculpó" ],
+			[ "inculpamos" ],
+			[ "inculpasteis", "inculparon" ],
+			[ "inculparon" ]
+		],
+		"5" : [
+			[ "inculpaba" ],
+			[ "inculpabas" ],
+			[ "inculpaba" ],
+			[ "inculpábamos" ],
+			[ "inculpabais", "inculpaban" ],
+			[ "inculpaban" ]
+		],
+		"6" : [
+			[ "inculparía" ],
+			[ "inculparías" ],
+			[ "inculparía" ],
+			[ "inculparíamos" ],
+			[ "inculparíais", "inculparían" ],
+			[ "inculparían" ]
+		],
+		"7" : [
+			[ "inculparé" ],
+			[ "inculparás" ],
+			[ "inculpará" ],
+			[ "inculparemos" ],
+			[ "inculparéis", "inculparán" ],
+			[ "inculparán" ]
+		],
+		"8" : [
+			[ "inculpe" ],
+			[ "inculpes" ],
+			[ "inculpe" ],
+			[ "inculpemos" ],
+			[ "inculpéis", "inculpen" ],
+			[ "inculpen" ]
+		],
+		"9" : [
+			[ "inculpara" ],
+			[ "inculparas" ],
+			[ "inculpara" ],
+			[ "inculpáramos" ],
+			[ "inculparais", "inculparan" ],
+			[ "inculparan" ]
+		],
+		"10" : [
+			[ "inculpase" ],
+			[ "inculpases" ],
+			[ "inculpase" ],
+			[ "inculpásemos" ],
+			[ "inculpaseis", "inculpasen" ],
+			[ "inculpasen" ]
+		],
+		"11" : [
+			[ "inculpare" ],
+			[ "inculpares" ],
+			[ "inculpare" ],
+			[ "inculpáremos" ],
+			[ "inculpareis", "inculparen" ],
+			[ "inculparen" ]
+		],
+		"12" : {
+			"1" : [ "inculpa" ],
+			"2" : [ "inculpe" ],
+			"3" : [ "inculpemos" ],
+			"4" : [ "inculpad" ],
+			"5" : [ "inculpen" ]
+		}
+	}
+}

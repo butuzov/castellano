@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desfallecer",
+	"word" : "desfallecer",
+	"infinitivo" : "desfallecer",
+	"participio" : [ "desfallecido" ],
+	"gerundio" : [ "desfalleciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desfallezco" ],
+			[ "desfalleces", "desfallecés" ],
+			[ "desfallece" ],
+			[ "desfallecemos" ],
+			[ "desfallecéis", "desfallecen" ],
+			[ "desfallecen" ]
+		],
+		"4" : [
+			[ "desfallecí" ],
+			[ "desfalleciste" ],
+			[ "desfalleció" ],
+			[ "desfallecimos" ],
+			[ "desfallecisteis", "desfallecieron" ],
+			[ "desfallecieron" ]
+		],
+		"5" : [
+			[ "desfallecía" ],
+			[ "desfallecías" ],
+			[ "desfallecía" ],
+			[ "desfallecíamos" ],
+			[ "desfallecíais", "desfallecían" ],
+			[ "desfallecían" ]
+		],
+		"6" : [
+			[ "desfallecería" ],
+			[ "desfallecerías" ],
+			[ "desfallecería" ],
+			[ "desfalleceríamos" ],
+			[ "desfalleceríais", "desfallecerían" ],
+			[ "desfallecerían" ]
+		],
+		"7" : [
+			[ "desfalleceré" ],
+			[ "desfallecerás" ],
+			[ "desfallecerá" ],
+			[ "desfalleceremos" ],
+			[ "desfalleceréis", "desfallecerán" ],
+			[ "desfallecerán" ]
+		],
+		"8" : [
+			[ "desfallezca" ],
+			[ "desfallezcas" ],
+			[ "desfallezca" ],
+			[ "desfallezcamos" ],
+			[ "desfallezcáis", "desfallezcan" ],
+			[ "desfallezcan" ]
+		],
+		"9" : [
+			[ "desfalleciera" ],
+			[ "desfallecieras" ],
+			[ "desfalleciera" ],
+			[ "desfalleciéramos" ],
+			[ "desfallecierais", "desfallecieran" ],
+			[ "desfallecieran" ]
+		],
+		"10" : [
+			[ "desfalleciese" ],
+			[ "desfallecieses" ],
+			[ "desfalleciese" ],
+			[ "desfalleciésemos" ],
+			[ "desfallecieseis", "desfalleciesen" ],
+			[ "desfalleciesen" ]
+		],
+		"11" : [
+			[ "desfalleciere" ],
+			[ "desfallecieres" ],
+			[ "desfalleciere" ],
+			[ "desfalleciéremos" ],
+			[ "desfalleciereis", "desfallecieren" ],
+			[ "desfallecieren" ]
+		],
+		"12" : {
+			"1" : [ "desfallece" ],
+			"2" : [ "desfallezca" ],
+			"3" : [ "desfallezcamos" ],
+			"4" : [ "desfalleced" ],
+			"5" : [ "desfallezcan" ]
+		}
+	}
+}

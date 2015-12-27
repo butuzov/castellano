@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=follar",
+	"word" : "follar",
+	"infinitivo" : "follar",
+	"participio" : [ "follado" ],
+	"gerundio" : [ "follando" ],
+	"tenses" : {
+		"3" : [
+			[ "fuello", "follo" ],
+			[ "fuellas", "follas", "follás" ],
+			[ "fuella", "folla" ],
+			[ "follamos" ],
+			[ "folláis" ],
+			[ "fuellan", "follan" ]
+		],
+		"4" : [
+			[ "follé" ],
+			[ "follaste" ],
+			[ "folló" ],
+			[ "follamos" ],
+			[ "follasteis", "follaron" ],
+			[ "follaron" ]
+		],
+		"5" : [
+			[ "follaba" ],
+			[ "follabas" ],
+			[ "follaba" ],
+			[ "follábamos" ],
+			[ "follabais", "follaban" ],
+			[ "follaban" ]
+		],
+		"6" : [
+			[ "follaría" ],
+			[ "follarías" ],
+			[ "follaría" ],
+			[ "follaríamos" ],
+			[ "follaríais", "follarían" ],
+			[ "follarían" ]
+		],
+		"7" : [
+			[ "follaré" ],
+			[ "follarás" ],
+			[ "follará" ],
+			[ "follaremos" ],
+			[ "follaréis", "follarán" ],
+			[ "follarán" ]
+		],
+		"8" : [
+			[ "fuelle" , "folle"],
+			[ "fuelles" , "folles" ],
+			[ "fuelle", "folle" ],
+			[ "follemos" ],
+			[ "folléis", "fuellen" ],
+			[ "fuellen", "follen" ]
+		],
+		"9" : [
+			[ "follara" ],
+			[ "follaras" ],
+			[ "follara" ],
+			[ "folláramos" ],
+			[ "follarais", "follaran" ],
+			[ "follaran" ]
+		],
+		"10" : [
+			[ "follase" ],
+			[ "follases" ],
+			[ "follase" ],
+			[ "follásemos" ],
+			[ "follaseis", "follasen" ],
+			[ "follasen" ]
+		],
+		"11" : [
+			[ "follare" ],
+			[ "follares" ],
+			[ "follare" ],
+			[ "folláremos" ],
+			[ "follareis", "follaren" ],
+			[ "follaren" ]
+		],
+		"12" : {
+			"1" : [ "fuella", "folla" ],
+			"2" : [ "fuelle" , "folle" ],
+			"3" : [ "follemos" ],
+			"4" : [ "follad" ],
+			"5" : [ "fuellen", "follen" ]
+		}
+	}
+}

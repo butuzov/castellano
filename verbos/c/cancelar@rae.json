@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cancelar",
+	"word" : "cancelar",
+	"infinitivo" : "cancelar",
+	"participio" : [ "cancelado" ],
+	"gerundio" : [ "cancelando" ],
+	"tenses" : {
+		"3" : [
+			[ "cancelo" ],
+			[ "cancelas", "cancelás" ],
+			[ "cancela" ],
+			[ "cancelamos" ],
+			[ "canceláis", "cancelan" ],
+			[ "cancelan" ]
+		],
+		"4" : [
+			[ "cancelé" ],
+			[ "cancelaste" ],
+			[ "canceló" ],
+			[ "cancelamos" ],
+			[ "cancelasteis", "cancelaron" ],
+			[ "cancelaron" ]
+		],
+		"5" : [
+			[ "cancelaba" ],
+			[ "cancelabas" ],
+			[ "cancelaba" ],
+			[ "cancelábamos" ],
+			[ "cancelabais", "cancelaban" ],
+			[ "cancelaban" ]
+		],
+		"6" : [
+			[ "cancelaría" ],
+			[ "cancelarías" ],
+			[ "cancelaría" ],
+			[ "cancelaríamos" ],
+			[ "cancelaríais", "cancelarían" ],
+			[ "cancelarían" ]
+		],
+		"7" : [
+			[ "cancelaré" ],
+			[ "cancelarás" ],
+			[ "cancelará" ],
+			[ "cancelaremos" ],
+			[ "cancelaréis", "cancelarán" ],
+			[ "cancelarán" ]
+		],
+		"8" : [
+			[ "cancele" ],
+			[ "canceles" ],
+			[ "cancele" ],
+			[ "cancelemos" ],
+			[ "canceléis", "cancelen" ],
+			[ "cancelen" ]
+		],
+		"9" : [
+			[ "cancelara" ],
+			[ "cancelaras" ],
+			[ "cancelara" ],
+			[ "canceláramos" ],
+			[ "cancelarais", "cancelaran" ],
+			[ "cancelaran" ]
+		],
+		"10" : [
+			[ "cancelase" ],
+			[ "cancelases" ],
+			[ "cancelase" ],
+			[ "cancelásemos" ],
+			[ "cancelaseis", "cancelasen" ],
+			[ "cancelasen" ]
+		],
+		"11" : [
+			[ "cancelare" ],
+			[ "cancelares" ],
+			[ "cancelare" ],
+			[ "canceláremos" ],
+			[ "cancelareis", "cancelaren" ],
+			[ "cancelaren" ]
+		],
+		"12" : {
+			"1" : [ "cancela" ],
+			"2" : [ "cancele" ],
+			"3" : [ "cancelemos" ],
+			"4" : [ "cancelad" ],
+			"5" : [ "cancelen" ]
+		}
+	}
+}

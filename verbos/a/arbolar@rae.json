@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arbolar",
+	"word" : "arbolar",
+	"infinitivo" : "arbolar",
+	"participio" : [ "arbolado" ],
+	"gerundio" : [ "arbolando" ],
+	"tenses" : {
+		"3" : [
+			[ "arbolo" ],
+			[ "arbolas", "arbolás" ],
+			[ "arbola" ],
+			[ "arbolamos" ],
+			[ "arboláis", "arbolan" ],
+			[ "arbolan" ]
+		],
+		"4" : [
+			[ "arbolé" ],
+			[ "arbolaste" ],
+			[ "arboló" ],
+			[ "arbolamos" ],
+			[ "arbolasteis", "arbolaron" ],
+			[ "arbolaron" ]
+		],
+		"5" : [
+			[ "arbolaba" ],
+			[ "arbolabas" ],
+			[ "arbolaba" ],
+			[ "arbolábamos" ],
+			[ "arbolabais", "arbolaban" ],
+			[ "arbolaban" ]
+		],
+		"6" : [
+			[ "arbolaría" ],
+			[ "arbolarías" ],
+			[ "arbolaría" ],
+			[ "arbolaríamos" ],
+			[ "arbolaríais", "arbolarían" ],
+			[ "arbolarían" ]
+		],
+		"7" : [
+			[ "arbolaré" ],
+			[ "arbolarás" ],
+			[ "arbolará" ],
+			[ "arbolaremos" ],
+			[ "arbolaréis", "arbolarán" ],
+			[ "arbolarán" ]
+		],
+		"8" : [
+			[ "arbole" ],
+			[ "arboles" ],
+			[ "arbole" ],
+			[ "arbolemos" ],
+			[ "arboléis", "arbolen" ],
+			[ "arbolen" ]
+		],
+		"9" : [
+			[ "arbolara" ],
+			[ "arbolaras" ],
+			[ "arbolara" ],
+			[ "arboláramos" ],
+			[ "arbolarais", "arbolaran" ],
+			[ "arbolaran" ]
+		],
+		"10" : [
+			[ "arbolase" ],
+			[ "arbolases" ],
+			[ "arbolase" ],
+			[ "arbolásemos" ],
+			[ "arbolaseis", "arbolasen" ],
+			[ "arbolasen" ]
+		],
+		"11" : [
+			[ "arbolare" ],
+			[ "arbolares" ],
+			[ "arbolare" ],
+			[ "arboláremos" ],
+			[ "arbolareis", "arbolaren" ],
+			[ "arbolaren" ]
+		],
+		"12" : {
+			"1" : [ "arbola" ],
+			"2" : [ "arbole" ],
+			"3" : [ "arbolemos" ],
+			"4" : [ "arbolad" ],
+			"5" : [ "arbolen" ]
+		}
+	}
+}

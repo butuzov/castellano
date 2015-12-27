@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anzolar",
+	"word" : "anzolar",
+	"infinitivo" : "anzolar",
+	"participio" : [ "anzolado" ],
+	"gerundio" : [ "anzolando" ],
+	"tenses" : {
+		"3" : [
+			[ "anzolo" ],
+			[ "anzolas", "anzolás" ],
+			[ "anzola" ],
+			[ "anzolamos" ],
+			[ "anzoláis", "anzolan" ],
+			[ "anzolan" ]
+		],
+		"4" : [
+			[ "anzolé" ],
+			[ "anzolaste" ],
+			[ "anzoló" ],
+			[ "anzolamos" ],
+			[ "anzolasteis", "anzolaron" ],
+			[ "anzolaron" ]
+		],
+		"5" : [
+			[ "anzolaba" ],
+			[ "anzolabas" ],
+			[ "anzolaba" ],
+			[ "anzolábamos" ],
+			[ "anzolabais", "anzolaban" ],
+			[ "anzolaban" ]
+		],
+		"6" : [
+			[ "anzolaría" ],
+			[ "anzolarías" ],
+			[ "anzolaría" ],
+			[ "anzolaríamos" ],
+			[ "anzolaríais", "anzolarían" ],
+			[ "anzolarían" ]
+		],
+		"7" : [
+			[ "anzolaré" ],
+			[ "anzolarás" ],
+			[ "anzolará" ],
+			[ "anzolaremos" ],
+			[ "anzolaréis", "anzolarán" ],
+			[ "anzolarán" ]
+		],
+		"8" : [
+			[ "anzole" ],
+			[ "anzoles" ],
+			[ "anzole" ],
+			[ "anzolemos" ],
+			[ "anzoléis", "anzolen" ],
+			[ "anzolen" ]
+		],
+		"9" : [
+			[ "anzolara" ],
+			[ "anzolaras" ],
+			[ "anzolara" ],
+			[ "anzoláramos" ],
+			[ "anzolarais", "anzolaran" ],
+			[ "anzolaran" ]
+		],
+		"10" : [
+			[ "anzolase" ],
+			[ "anzolases" ],
+			[ "anzolase" ],
+			[ "anzolásemos" ],
+			[ "anzolaseis", "anzolasen" ],
+			[ "anzolasen" ]
+		],
+		"11" : [
+			[ "anzolare" ],
+			[ "anzolares" ],
+			[ "anzolare" ],
+			[ "anzoláremos" ],
+			[ "anzolareis", "anzolaren" ],
+			[ "anzolaren" ]
+		],
+		"12" : {
+			"1" : [ "anzola" ],
+			"2" : [ "anzole" ],
+			"3" : [ "anzolemos" ],
+			"4" : [ "anzolad" ],
+			"5" : [ "anzolen" ]
+		}
+	}
+}

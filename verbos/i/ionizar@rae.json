@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ionizar",
+	"word" : "ionizar",
+	"infinitivo" : "ionizar",
+	"participio" : [ "ionizado" ],
+	"gerundio" : [ "ionizando" ],
+	"tenses" : {
+		"3" : [
+			[ "ionizo" ],
+			[ "ionizas", "ionizás" ],
+			[ "ioniza" ],
+			[ "ionizamos" ],
+			[ "ionizáis", "ionizan" ],
+			[ "ionizan" ]
+		],
+		"4" : [
+			[ "ionicé" ],
+			[ "ionizaste" ],
+			[ "ionizó" ],
+			[ "ionizamos" ],
+			[ "ionizasteis", "ionizaron" ],
+			[ "ionizaron" ]
+		],
+		"5" : [
+			[ "ionizaba" ],
+			[ "ionizabas" ],
+			[ "ionizaba" ],
+			[ "ionizábamos" ],
+			[ "ionizabais", "ionizaban" ],
+			[ "ionizaban" ]
+		],
+		"6" : [
+			[ "ionizaría" ],
+			[ "ionizarías" ],
+			[ "ionizaría" ],
+			[ "ionizaríamos" ],
+			[ "ionizaríais", "ionizarían" ],
+			[ "ionizarían" ]
+		],
+		"7" : [
+			[ "ionizaré" ],
+			[ "ionizarás" ],
+			[ "ionizará" ],
+			[ "ionizaremos" ],
+			[ "ionizaréis", "ionizarán" ],
+			[ "ionizarán" ]
+		],
+		"8" : [
+			[ "ionice" ],
+			[ "ionices" ],
+			[ "ionice" ],
+			[ "ionicemos" ],
+			[ "ionicéis", "ionicen" ],
+			[ "ionicen" ]
+		],
+		"9" : [
+			[ "ionizara" ],
+			[ "ionizaras" ],
+			[ "ionizara" ],
+			[ "ionizáramos" ],
+			[ "ionizarais", "ionizaran" ],
+			[ "ionizaran" ]
+		],
+		"10" : [
+			[ "ionizase" ],
+			[ "ionizases" ],
+			[ "ionizase" ],
+			[ "ionizásemos" ],
+			[ "ionizaseis", "ionizasen" ],
+			[ "ionizasen" ]
+		],
+		"11" : [
+			[ "ionizare" ],
+			[ "ionizares" ],
+			[ "ionizare" ],
+			[ "ionizáremos" ],
+			[ "ionizareis", "ionizaren" ],
+			[ "ionizaren" ]
+		],
+		"12" : {
+			"1" : [ "ioniza" ],
+			"2" : [ "ionice" ],
+			"3" : [ "ionicemos" ],
+			"4" : [ "ionizad" ],
+			"5" : [ "ionicen" ]
+		}
+	}
+}

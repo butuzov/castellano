@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gruñir",
+	"word" : "gruñir",
+	"infinitivo" : "gruñir",
+	"participio" : [ "gruñido" ],
+	"gerundio" : [ "gruñendo" ],
+	"tenses" : {
+		"3" : [
+			[ "gruño" ],
+			[ "gruñes", "gruñís" ],
+			[ "gruñe" ],
+			[ "gruñimos" ],
+			[ "gruñís", "gruñen" ],
+			[ "gruñen" ]
+		],
+		"4" : [
+			[ "gruñí" ],
+			[ "gruñiste" ],
+			[ "gruñó" ],
+			[ "gruñimos" ],
+			[ "gruñisteis", "gruñeron" ],
+			[ "gruñeron" ]
+		],
+		"5" : [
+			[ "gruñía" ],
+			[ "gruñías" ],
+			[ "gruñía" ],
+			[ "gruñíamos" ],
+			[ "gruñíais", "gruñían" ],
+			[ "gruñían" ]
+		],
+		"6" : [
+			[ "gruñiría" ],
+			[ "gruñirías" ],
+			[ "gruñiría" ],
+			[ "gruñiríamos" ],
+			[ "gruñiríais", "gruñirían" ],
+			[ "gruñirían" ]
+		],
+		"7" : [
+			[ "gruñiré" ],
+			[ "gruñirás" ],
+			[ "gruñirá" ],
+			[ "gruñiremos" ],
+			[ "gruñiréis", "gruñirán" ],
+			[ "gruñirán" ]
+		],
+		"8" : [
+			[ "gruña" ],
+			[ "gruñas" ],
+			[ "gruña" ],
+			[ "gruñamos" ],
+			[ "gruñáis", "gruñan" ],
+			[ "gruñan" ]
+		],
+		"9" : [
+			[ "gruñera" ],
+			[ "gruñeras" ],
+			[ "gruñera" ],
+			[ "gruñéramos" ],
+			[ "gruñerais", "gruñeran" ],
+			[ "gruñeran" ]
+		],
+		"10" : [
+			[ "gruñese" ],
+			[ "gruñeses" ],
+			[ "gruñese" ],
+			[ "gruñésemos" ],
+			[ "gruñeseis", "gruñesen" ],
+			[ "gruñesen" ]
+		],
+		"11" : [
+			[ "gruñere" ],
+			[ "gruñeres" ],
+			[ "gruñere" ],
+			[ "gruñéremos" ],
+			[ "gruñereis", "gruñeren" ],
+			[ "gruñeren" ]
+		],
+		"12" : {
+			"1" : [ "gruñe" ],
+			"2" : [ "gruña" ],
+			"3" : [ "gruñamos" ],
+			"4" : [ "gruñid" ],
+			"5" : [ "gruñan" ]
+		}
+	}
+}

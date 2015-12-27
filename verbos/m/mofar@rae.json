@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mofar",
+	"word" : "mofar",
+	"infinitivo" : "mofar",
+	"participio" : [ "mofado" ],
+	"gerundio" : [ "mofando" ],
+	"tenses" : {
+		"3" : [
+			[ "mofo" ],
+			[ "mofas", "mofás" ],
+			[ "mofa" ],
+			[ "mofamos" ],
+			[ "mofáis", "mofan" ],
+			[ "mofan" ]
+		],
+		"4" : [
+			[ "mofé" ],
+			[ "mofaste" ],
+			[ "mofó" ],
+			[ "mofamos" ],
+			[ "mofasteis", "mofaron" ],
+			[ "mofaron" ]
+		],
+		"5" : [
+			[ "mofaba" ],
+			[ "mofabas" ],
+			[ "mofaba" ],
+			[ "mofábamos" ],
+			[ "mofabais", "mofaban" ],
+			[ "mofaban" ]
+		],
+		"6" : [
+			[ "mofaría" ],
+			[ "mofarías" ],
+			[ "mofaría" ],
+			[ "mofaríamos" ],
+			[ "mofaríais", "mofarían" ],
+			[ "mofarían" ]
+		],
+		"7" : [
+			[ "mofaré" ],
+			[ "mofarás" ],
+			[ "mofará" ],
+			[ "mofaremos" ],
+			[ "mofaréis", "mofarán" ],
+			[ "mofarán" ]
+		],
+		"8" : [
+			[ "mofe" ],
+			[ "mofes" ],
+			[ "mofe" ],
+			[ "mofemos" ],
+			[ "moféis", "mofen" ],
+			[ "mofen" ]
+		],
+		"9" : [
+			[ "mofara" ],
+			[ "mofaras" ],
+			[ "mofara" ],
+			[ "mofáramos" ],
+			[ "mofarais", "mofaran" ],
+			[ "mofaran" ]
+		],
+		"10" : [
+			[ "mofase" ],
+			[ "mofases" ],
+			[ "mofase" ],
+			[ "mofásemos" ],
+			[ "mofaseis", "mofasen" ],
+			[ "mofasen" ]
+		],
+		"11" : [
+			[ "mofare" ],
+			[ "mofares" ],
+			[ "mofare" ],
+			[ "mofáremos" ],
+			[ "mofareis", "mofaren" ],
+			[ "mofaren" ]
+		],
+		"12" : {
+			"1" : [ "mofa" ],
+			"2" : [ "mofe" ],
+			"3" : [ "mofemos" ],
+			"4" : [ "mofad" ],
+			"5" : [ "mofen" ]
+		}
+	}
+}

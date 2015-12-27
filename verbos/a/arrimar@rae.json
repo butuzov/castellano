@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrimar",
+	"word" : "arrimar",
+	"infinitivo" : "arrimar",
+	"participio" : [ "arrimado" ],
+	"gerundio" : [ "arrimando" ],
+	"tenses" : {
+		"3" : [
+			[ "arrimo" ],
+			[ "arrimas", "arrimás" ],
+			[ "arrima" ],
+			[ "arrimamos" ],
+			[ "arrimáis", "arriman" ],
+			[ "arriman" ]
+		],
+		"4" : [
+			[ "arrimé" ],
+			[ "arrimaste" ],
+			[ "arrimó" ],
+			[ "arrimamos" ],
+			[ "arrimasteis", "arrimaron" ],
+			[ "arrimaron" ]
+		],
+		"5" : [
+			[ "arrimaba" ],
+			[ "arrimabas" ],
+			[ "arrimaba" ],
+			[ "arrimábamos" ],
+			[ "arrimabais", "arrimaban" ],
+			[ "arrimaban" ]
+		],
+		"6" : [
+			[ "arrimaría" ],
+			[ "arrimarías" ],
+			[ "arrimaría" ],
+			[ "arrimaríamos" ],
+			[ "arrimaríais", "arrimarían" ],
+			[ "arrimarían" ]
+		],
+		"7" : [
+			[ "arrimaré" ],
+			[ "arrimarás" ],
+			[ "arrimará" ],
+			[ "arrimaremos" ],
+			[ "arrimaréis", "arrimarán" ],
+			[ "arrimarán" ]
+		],
+		"8" : [
+			[ "arrime" ],
+			[ "arrimes" ],
+			[ "arrime" ],
+			[ "arrimemos" ],
+			[ "arriméis", "arrimen" ],
+			[ "arrimen" ]
+		],
+		"9" : [
+			[ "arrimara" ],
+			[ "arrimaras" ],
+			[ "arrimara" ],
+			[ "arrimáramos" ],
+			[ "arrimarais", "arrimaran" ],
+			[ "arrimaran" ]
+		],
+		"10" : [
+			[ "arrimase" ],
+			[ "arrimases" ],
+			[ "arrimase" ],
+			[ "arrimásemos" ],
+			[ "arrimaseis", "arrimasen" ],
+			[ "arrimasen" ]
+		],
+		"11" : [
+			[ "arrimare" ],
+			[ "arrimares" ],
+			[ "arrimare" ],
+			[ "arrimáremos" ],
+			[ "arrimareis", "arrimaren" ],
+			[ "arrimaren" ]
+		],
+		"12" : {
+			"1" : [ "arrima" ],
+			"2" : [ "arrime" ],
+			"3" : [ "arrimemos" ],
+			"4" : [ "arrimad" ],
+			"5" : [ "arrimen" ]
+		}
+	}
+}

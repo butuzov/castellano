@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conducir",
+	"word" : "conducir",
+	"infinitivo" : "conducir",
+	"participio" : [ "conducido" ],
+	"gerundio" : [ "conduciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "conduzco" ],
+			[ "conduces", "conducís" ],
+			[ "conduce" ],
+			[ "conducimos" ],
+			[ "conducís", "conducen" ],
+			[ "conducen" ]
+		],
+		"4" : [
+			[ "conduje" ],
+			[ "condujiste" ],
+			[ "condujo" ],
+			[ "condujimos" ],
+			[ "condujisteis", "condujeron" ],
+			[ "condujeron" ]
+		],
+		"5" : [
+			[ "conducía" ],
+			[ "conducías" ],
+			[ "conducía" ],
+			[ "conducíamos" ],
+			[ "conducíais", "conducían" ],
+			[ "conducían" ]
+		],
+		"6" : [
+			[ "conduciría" ],
+			[ "conducirías" ],
+			[ "conduciría" ],
+			[ "conduciríamos" ],
+			[ "conduciríais", "conducirían" ],
+			[ "conducirían" ]
+		],
+		"7" : [
+			[ "conduciré" ],
+			[ "conducirás" ],
+			[ "conducirá" ],
+			[ "conduciremos" ],
+			[ "conduciréis", "conducirán" ],
+			[ "conducirán" ]
+		],
+		"8" : [
+			[ "conduzca" ],
+			[ "conduzcas" ],
+			[ "conduzca" ],
+			[ "conduzcamos" ],
+			[ "conduzcáis", "conduzcan" ],
+			[ "conduzcan" ]
+		],
+		"9" : [
+			[ "condujera" ],
+			[ "condujeras" ],
+			[ "condujera" ],
+			[ "condujéramos" ],
+			[ "condujerais", "condujeran" ],
+			[ "condujeran" ]
+		],
+		"10" : [
+			[ "condujese" ],
+			[ "condujeses" ],
+			[ "condujese" ],
+			[ "condujésemos" ],
+			[ "condujeseis", "condujesen" ],
+			[ "condujesen" ]
+		],
+		"11" : [
+			[ "condujere" ],
+			[ "condujeres" ],
+			[ "condujere" ],
+			[ "condujéremos" ],
+			[ "condujereis", "condujeren" ],
+			[ "condujeren" ]
+		],
+		"12" : {
+			"1" : [ "conduce" ],
+			"2" : [ "conduzca" ],
+			"3" : [ "conduzcamos" ],
+			"4" : [ "conducid" ],
+			"5" : [ "conduzcan" ]
+		}
+	}
+}

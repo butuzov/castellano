@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=colectar",
+	"word" : "colectar",
+	"infinitivo" : "colectar",
+	"participio" : [ "colectado" ],
+	"gerundio" : [ "colectando" ],
+	"tenses" : {
+		"3" : [
+			[ "colecto" ],
+			[ "colectas", "colectás" ],
+			[ "colecta" ],
+			[ "colectamos" ],
+			[ "colectáis", "colectan" ],
+			[ "colectan" ]
+		],
+		"4" : [
+			[ "colecté" ],
+			[ "colectaste" ],
+			[ "colectó" ],
+			[ "colectamos" ],
+			[ "colectasteis", "colectaron" ],
+			[ "colectaron" ]
+		],
+		"5" : [
+			[ "colectaba" ],
+			[ "colectabas" ],
+			[ "colectaba" ],
+			[ "colectábamos" ],
+			[ "colectabais", "colectaban" ],
+			[ "colectaban" ]
+		],
+		"6" : [
+			[ "colectaría" ],
+			[ "colectarías" ],
+			[ "colectaría" ],
+			[ "colectaríamos" ],
+			[ "colectaríais", "colectarían" ],
+			[ "colectarían" ]
+		],
+		"7" : [
+			[ "colectaré" ],
+			[ "colectarás" ],
+			[ "colectará" ],
+			[ "colectaremos" ],
+			[ "colectaréis", "colectarán" ],
+			[ "colectarán" ]
+		],
+		"8" : [
+			[ "colecte" ],
+			[ "colectes" ],
+			[ "colecte" ],
+			[ "colectemos" ],
+			[ "colectéis", "colecten" ],
+			[ "colecten" ]
+		],
+		"9" : [
+			[ "colectara" ],
+			[ "colectaras" ],
+			[ "colectara" ],
+			[ "colectáramos" ],
+			[ "colectarais", "colectaran" ],
+			[ "colectaran" ]
+		],
+		"10" : [
+			[ "colectase" ],
+			[ "colectases" ],
+			[ "colectase" ],
+			[ "colectásemos" ],
+			[ "colectaseis", "colectasen" ],
+			[ "colectasen" ]
+		],
+		"11" : [
+			[ "colectare" ],
+			[ "colectares" ],
+			[ "colectare" ],
+			[ "colectáremos" ],
+			[ "colectareis", "colectaren" ],
+			[ "colectaren" ]
+		],
+		"12" : {
+			"1" : [ "colecta" ],
+			"2" : [ "colecte" ],
+			"3" : [ "colectemos" ],
+			"4" : [ "colectad" ],
+			"5" : [ "colecten" ]
+		}
+	}
+}

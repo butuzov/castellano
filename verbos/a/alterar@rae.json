@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alterar",
+	"word" : "alterar",
+	"infinitivo" : "alterar",
+	"participio" : [ "alterado" ],
+	"gerundio" : [ "alterando" ],
+	"tenses" : {
+		"3" : [
+			[ "altero" ],
+			[ "alteras", "alterás" ],
+			[ "altera" ],
+			[ "alteramos" ],
+			[ "alteráis", "alteran" ],
+			[ "alteran" ]
+		],
+		"4" : [
+			[ "alteré" ],
+			[ "alteraste" ],
+			[ "alteró" ],
+			[ "alteramos" ],
+			[ "alterasteis", "alteraron" ],
+			[ "alteraron" ]
+		],
+		"5" : [
+			[ "alteraba" ],
+			[ "alterabas" ],
+			[ "alteraba" ],
+			[ "alterábamos" ],
+			[ "alterabais", "alteraban" ],
+			[ "alteraban" ]
+		],
+		"6" : [
+			[ "alteraría" ],
+			[ "alterarías" ],
+			[ "alteraría" ],
+			[ "alteraríamos" ],
+			[ "alteraríais", "alterarían" ],
+			[ "alterarían" ]
+		],
+		"7" : [
+			[ "alteraré" ],
+			[ "alterarás" ],
+			[ "alterará" ],
+			[ "alteraremos" ],
+			[ "alteraréis", "alterarán" ],
+			[ "alterarán" ]
+		],
+		"8" : [
+			[ "altere" ],
+			[ "alteres" ],
+			[ "altere" ],
+			[ "alteremos" ],
+			[ "alteréis", "alteren" ],
+			[ "alteren" ]
+		],
+		"9" : [
+			[ "alterara" ],
+			[ "alteraras" ],
+			[ "alterara" ],
+			[ "alteráramos" ],
+			[ "alterarais", "alteraran" ],
+			[ "alteraran" ]
+		],
+		"10" : [
+			[ "alterase" ],
+			[ "alterases" ],
+			[ "alterase" ],
+			[ "alterásemos" ],
+			[ "alteraseis", "alterasen" ],
+			[ "alterasen" ]
+		],
+		"11" : [
+			[ "alterare" ],
+			[ "alterares" ],
+			[ "alterare" ],
+			[ "alteráremos" ],
+			[ "alterareis", "alteraren" ],
+			[ "alteraren" ]
+		],
+		"12" : {
+			"1" : [ "altera" ],
+			"2" : [ "altere" ],
+			"3" : [ "alteremos" ],
+			"4" : [ "alterad" ],
+			"5" : [ "alteren" ]
+		}
+	}
+}

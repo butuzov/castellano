@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=computar",
+	"word" : "computar",
+	"infinitivo" : "computar",
+	"participio" : [ "computado" ],
+	"gerundio" : [ "computando" ],
+	"tenses" : {
+		"3" : [
+			[ "computo" ],
+			[ "computas", "computás" ],
+			[ "computa" ],
+			[ "computamos" ],
+			[ "computáis", "computan" ],
+			[ "computan" ]
+		],
+		"4" : [
+			[ "computé" ],
+			[ "computaste" ],
+			[ "computó" ],
+			[ "computamos" ],
+			[ "computasteis", "computaron" ],
+			[ "computaron" ]
+		],
+		"5" : [
+			[ "computaba" ],
+			[ "computabas" ],
+			[ "computaba" ],
+			[ "computábamos" ],
+			[ "computabais", "computaban" ],
+			[ "computaban" ]
+		],
+		"6" : [
+			[ "computaría" ],
+			[ "computarías" ],
+			[ "computaría" ],
+			[ "computaríamos" ],
+			[ "computaríais", "computarían" ],
+			[ "computarían" ]
+		],
+		"7" : [
+			[ "computaré" ],
+			[ "computarás" ],
+			[ "computará" ],
+			[ "computaremos" ],
+			[ "computaréis", "computarán" ],
+			[ "computarán" ]
+		],
+		"8" : [
+			[ "compute" ],
+			[ "computes" ],
+			[ "compute" ],
+			[ "computemos" ],
+			[ "computéis", "computen" ],
+			[ "computen" ]
+		],
+		"9" : [
+			[ "computara" ],
+			[ "computaras" ],
+			[ "computara" ],
+			[ "computáramos" ],
+			[ "computarais", "computaran" ],
+			[ "computaran" ]
+		],
+		"10" : [
+			[ "computase" ],
+			[ "computases" ],
+			[ "computase" ],
+			[ "computásemos" ],
+			[ "computaseis", "computasen" ],
+			[ "computasen" ]
+		],
+		"11" : [
+			[ "computare" ],
+			[ "computares" ],
+			[ "computare" ],
+			[ "computáremos" ],
+			[ "computareis", "computaren" ],
+			[ "computaren" ]
+		],
+		"12" : {
+			"1" : [ "computa" ],
+			"2" : [ "compute" ],
+			"3" : [ "computemos" ],
+			"4" : [ "computad" ],
+			"5" : [ "computen" ]
+		}
+	}
+}

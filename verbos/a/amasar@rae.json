@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amasar",
+	"word" : "amasar",
+	"infinitivo" : "amasar",
+	"participio" : [ "amasado" ],
+	"gerundio" : [ "amasando" ],
+	"tenses" : {
+		"3" : [
+			[ "amaso" ],
+			[ "amasas", "amasás" ],
+			[ "amasa" ],
+			[ "amasamos" ],
+			[ "amasáis", "amasan" ],
+			[ "amasan" ]
+		],
+		"4" : [
+			[ "amasé" ],
+			[ "amasaste" ],
+			[ "amasó" ],
+			[ "amasamos" ],
+			[ "amasasteis", "amasaron" ],
+			[ "amasaron" ]
+		],
+		"5" : [
+			[ "amasaba" ],
+			[ "amasabas" ],
+			[ "amasaba" ],
+			[ "amasábamos" ],
+			[ "amasabais", "amasaban" ],
+			[ "amasaban" ]
+		],
+		"6" : [
+			[ "amasaría" ],
+			[ "amasarías" ],
+			[ "amasaría" ],
+			[ "amasaríamos" ],
+			[ "amasaríais", "amasarían" ],
+			[ "amasarían" ]
+		],
+		"7" : [
+			[ "amasaré" ],
+			[ "amasarás" ],
+			[ "amasará" ],
+			[ "amasaremos" ],
+			[ "amasaréis", "amasarán" ],
+			[ "amasarán" ]
+		],
+		"8" : [
+			[ "amase" ],
+			[ "amases" ],
+			[ "amase" ],
+			[ "amasemos" ],
+			[ "amaséis", "amasen" ],
+			[ "amasen" ]
+		],
+		"9" : [
+			[ "amasara" ],
+			[ "amasaras" ],
+			[ "amasara" ],
+			[ "amasáramos" ],
+			[ "amasarais", "amasaran" ],
+			[ "amasaran" ]
+		],
+		"10" : [
+			[ "amasase" ],
+			[ "amasases" ],
+			[ "amasase" ],
+			[ "amasásemos" ],
+			[ "amasaseis", "amasasen" ],
+			[ "amasasen" ]
+		],
+		"11" : [
+			[ "amasare" ],
+			[ "amasares" ],
+			[ "amasare" ],
+			[ "amasáremos" ],
+			[ "amasareis", "amasaren" ],
+			[ "amasaren" ]
+		],
+		"12" : {
+			"1" : [ "amasa" ],
+			"2" : [ "amase" ],
+			"3" : [ "amasemos" ],
+			"4" : [ "amasad" ],
+			"5" : [ "amasen" ]
+		}
+	}
+}

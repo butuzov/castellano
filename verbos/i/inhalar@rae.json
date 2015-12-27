@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inhalar",
+	"word" : "inhalar",
+	"infinitivo" : "inhalar",
+	"participio" : [ "inhalado" ],
+	"gerundio" : [ "inhalando" ],
+	"tenses" : {
+		"3" : [
+			[ "inhalo" ],
+			[ "inhalas", "inhalás" ],
+			[ "inhala" ],
+			[ "inhalamos" ],
+			[ "inhaláis", "inhalan" ],
+			[ "inhalan" ]
+		],
+		"4" : [
+			[ "inhalé" ],
+			[ "inhalaste" ],
+			[ "inhaló" ],
+			[ "inhalamos" ],
+			[ "inhalasteis", "inhalaron" ],
+			[ "inhalaron" ]
+		],
+		"5" : [
+			[ "inhalaba" ],
+			[ "inhalabas" ],
+			[ "inhalaba" ],
+			[ "inhalábamos" ],
+			[ "inhalabais", "inhalaban" ],
+			[ "inhalaban" ]
+		],
+		"6" : [
+			[ "inhalaría" ],
+			[ "inhalarías" ],
+			[ "inhalaría" ],
+			[ "inhalaríamos" ],
+			[ "inhalaríais", "inhalarían" ],
+			[ "inhalarían" ]
+		],
+		"7" : [
+			[ "inhalaré" ],
+			[ "inhalarás" ],
+			[ "inhalará" ],
+			[ "inhalaremos" ],
+			[ "inhalaréis", "inhalarán" ],
+			[ "inhalarán" ]
+		],
+		"8" : [
+			[ "inhale" ],
+			[ "inhales" ],
+			[ "inhale" ],
+			[ "inhalemos" ],
+			[ "inhaléis", "inhalen" ],
+			[ "inhalen" ]
+		],
+		"9" : [
+			[ "inhalara" ],
+			[ "inhalaras" ],
+			[ "inhalara" ],
+			[ "inhaláramos" ],
+			[ "inhalarais", "inhalaran" ],
+			[ "inhalaran" ]
+		],
+		"10" : [
+			[ "inhalase" ],
+			[ "inhalases" ],
+			[ "inhalase" ],
+			[ "inhalásemos" ],
+			[ "inhalaseis", "inhalasen" ],
+			[ "inhalasen" ]
+		],
+		"11" : [
+			[ "inhalare" ],
+			[ "inhalares" ],
+			[ "inhalare" ],
+			[ "inhaláremos" ],
+			[ "inhalareis", "inhalaren" ],
+			[ "inhalaren" ]
+		],
+		"12" : {
+			"1" : [ "inhala" ],
+			"2" : [ "inhale" ],
+			"3" : [ "inhalemos" ],
+			"4" : [ "inhalad" ],
+			"5" : [ "inhalen" ]
+		}
+	}
+}

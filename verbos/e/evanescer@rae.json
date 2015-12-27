@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=evanescer",
+	"word" : "evanescer",
+	"infinitivo" : "evanescer",
+	"participio" : [ "evanescido" ],
+	"gerundio" : [ "evanesciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "evanesco" ],
+			[ "evanesces", "evanescés" ],
+			[ "evanesce" ],
+			[ "evanescemos" ],
+			[ "evanescéis", "evanescen" ],
+			[ "evanescen" ]
+		],
+		"4" : [
+			[ "evanescí" ],
+			[ "evanesciste" ],
+			[ "evanesció" ],
+			[ "evanescimos" ],
+			[ "evanescisteis", "evanescieron" ],
+			[ "evanescieron" ]
+		],
+		"5" : [
+			[ "evanescía" ],
+			[ "evanescías" ],
+			[ "evanescía" ],
+			[ "evanescíamos" ],
+			[ "evanescíais", "evanescían" ],
+			[ "evanescían" ]
+		],
+		"6" : [
+			[ "evanescería" ],
+			[ "evanescerías" ],
+			[ "evanescería" ],
+			[ "evanesceríamos" ],
+			[ "evanesceríais", "evanescerían" ],
+			[ "evanescerían" ]
+		],
+		"7" : [
+			[ "evanesceré" ],
+			[ "evanescerás" ],
+			[ "evanescerá" ],
+			[ "evanesceremos" ],
+			[ "evanesceréis", "evanescerán" ],
+			[ "evanescerán" ]
+		],
+		"8" : [
+			[ "evanesca" ],
+			[ "evanescas" ],
+			[ "evanesca" ],
+			[ "evanescamos" ],
+			[ "evanescáis", "evanescan" ],
+			[ "evanescan" ]
+		],
+		"9" : [
+			[ "evanesciera" ],
+			[ "evanescieras" ],
+			[ "evanesciera" ],
+			[ "evanesciéramos" ],
+			[ "evanescierais", "evanescieran" ],
+			[ "evanescieran" ]
+		],
+		"10" : [
+			[ "evanesciese" ],
+			[ "evanescieses" ],
+			[ "evanesciese" ],
+			[ "evanesciésemos" ],
+			[ "evanescieseis", "evanesciesen" ],
+			[ "evanesciesen" ]
+		],
+		"11" : [
+			[ "evanesciere" ],
+			[ "evanescieres" ],
+			[ "evanesciere" ],
+			[ "evanesciéremos" ],
+			[ "evanesciereis", "evanescieren" ],
+			[ "evanescieren" ]
+		],
+		"12" : {
+			"1" : [ "evanesce" ],
+			"2" : [ "evanesca" ],
+			"3" : [ "evanescamos" ],
+			"4" : [ "evanesced" ],
+			"5" : [ "evanescan" ]
+		}
+	}
+}

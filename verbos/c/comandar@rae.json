@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comandar",
+	"word" : "comandar",
+	"infinitivo" : "comandar",
+	"participio" : [ "comandado" ],
+	"gerundio" : [ "comandando" ],
+	"tenses" : {
+		"3" : [
+			[ "comando" ],
+			[ "comandas", "comandás" ],
+			[ "comanda" ],
+			[ "comandamos" ],
+			[ "comandáis", "comandan" ],
+			[ "comandan" ]
+		],
+		"4" : [
+			[ "comandé" ],
+			[ "comandaste" ],
+			[ "comandó" ],
+			[ "comandamos" ],
+			[ "comandasteis", "comandaron" ],
+			[ "comandaron" ]
+		],
+		"5" : [
+			[ "comandaba" ],
+			[ "comandabas" ],
+			[ "comandaba" ],
+			[ "comandábamos" ],
+			[ "comandabais", "comandaban" ],
+			[ "comandaban" ]
+		],
+		"6" : [
+			[ "comandaría" ],
+			[ "comandarías" ],
+			[ "comandaría" ],
+			[ "comandaríamos" ],
+			[ "comandaríais", "comandarían" ],
+			[ "comandarían" ]
+		],
+		"7" : [
+			[ "comandaré" ],
+			[ "comandarás" ],
+			[ "comandará" ],
+			[ "comandaremos" ],
+			[ "comandaréis", "comandarán" ],
+			[ "comandarán" ]
+		],
+		"8" : [
+			[ "comande" ],
+			[ "comandes" ],
+			[ "comande" ],
+			[ "comandemos" ],
+			[ "comandéis", "comanden" ],
+			[ "comanden" ]
+		],
+		"9" : [
+			[ "comandara" ],
+			[ "comandaras" ],
+			[ "comandara" ],
+			[ "comandáramos" ],
+			[ "comandarais", "comandaran" ],
+			[ "comandaran" ]
+		],
+		"10" : [
+			[ "comandase" ],
+			[ "comandases" ],
+			[ "comandase" ],
+			[ "comandásemos" ],
+			[ "comandaseis", "comandasen" ],
+			[ "comandasen" ]
+		],
+		"11" : [
+			[ "comandare" ],
+			[ "comandares" ],
+			[ "comandare" ],
+			[ "comandáremos" ],
+			[ "comandareis", "comandaren" ],
+			[ "comandaren" ]
+		],
+		"12" : {
+			"1" : [ "comanda" ],
+			"2" : [ "comande" ],
+			"3" : [ "comandemos" ],
+			"4" : [ "comandad" ],
+			"5" : [ "comanden" ]
+		}
+	}
+}

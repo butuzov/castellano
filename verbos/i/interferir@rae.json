@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=interferir",
+	"word" : "interferir",
+	"infinitivo" : "interferir",
+	"participio" : [ "interferido" ],
+	"gerundio" : [ "interfiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "interfiero" ],
+			[ "interfieres", "interferís" ],
+			[ "interfiere" ],
+			[ "interferimos" ],
+			[ "interferís", "interfieren" ],
+			[ "interfieren" ]
+		],
+		"4" : [
+			[ "interferí" ],
+			[ "interferiste" ],
+			[ "interfirió" ],
+			[ "interferimos" ],
+			[ "interferisteis", "interfirieron" ],
+			[ "interfirieron" ]
+		],
+		"5" : [
+			[ "interfería" ],
+			[ "interferías" ],
+			[ "interfería" ],
+			[ "interferíamos" ],
+			[ "interferíais", "interferían" ],
+			[ "interferían" ]
+		],
+		"6" : [
+			[ "interferiría" ],
+			[ "interferirías" ],
+			[ "interferiría" ],
+			[ "interferiríamos" ],
+			[ "interferiríais", "interferirían" ],
+			[ "interferirían" ]
+		],
+		"7" : [
+			[ "interferiré" ],
+			[ "interferirás" ],
+			[ "interferirá" ],
+			[ "interferiremos" ],
+			[ "interferiréis", "interferirán" ],
+			[ "interferirán" ]
+		],
+		"8" : [
+			[ "interfiera" ],
+			[ "interfieras" ],
+			[ "interfiera" ],
+			[ "interfiramos" ],
+			[ "interfiráis", "interfieran" ],
+			[ "interfieran" ]
+		],
+		"9" : [
+			[ "interfiriera" ],
+			[ "interfirieras" ],
+			[ "interfiriera" ],
+			[ "interfiriéramos" ],
+			[ "interfirierais", "interfirieran" ],
+			[ "interfirieran" ]
+		],
+		"10" : [
+			[ "interfiriese" ],
+			[ "interfirieses" ],
+			[ "interfiriese" ],
+			[ "interfiriésemos" ],
+			[ "interfirieseis", "interfiriesen" ],
+			[ "interfiriesen" ]
+		],
+		"11" : [
+			[ "interfiriere" ],
+			[ "interfirieres" ],
+			[ "interfiriere" ],
+			[ "interfiriéremos" ],
+			[ "interfiriereis", "interfirieren" ],
+			[ "interfirieren" ]
+		],
+		"12" : {
+			"1" : [ "interfiere" ],
+			"2" : [ "interfiera" ],
+			"3" : [ "interfiramos" ],
+			"4" : [ "interferid" ],
+			"5" : [ "interfieran" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=predestinar",
+	"word" : "predestinar",
+	"infinitivo" : "predestinar",
+	"participio" : [ "predestinado" ],
+	"gerundio" : [ "predestinando" ],
+	"tenses" : {
+		"3" : [
+			[ "predestino" ],
+			[ "predestinas", "predestinás" ],
+			[ "predestina" ],
+			[ "predestinamos" ],
+			[ "predestináis", "predestinan" ],
+			[ "predestinan" ]
+		],
+		"4" : [
+			[ "predestiné" ],
+			[ "predestinaste" ],
+			[ "predestinó" ],
+			[ "predestinamos" ],
+			[ "predestinasteis", "predestinaron" ],
+			[ "predestinaron" ]
+		],
+		"5" : [
+			[ "predestinaba" ],
+			[ "predestinabas" ],
+			[ "predestinaba" ],
+			[ "predestinábamos" ],
+			[ "predestinabais", "predestinaban" ],
+			[ "predestinaban" ]
+		],
+		"6" : [
+			[ "predestinaría" ],
+			[ "predestinarías" ],
+			[ "predestinaría" ],
+			[ "predestinaríamos" ],
+			[ "predestinaríais", "predestinarían" ],
+			[ "predestinarían" ]
+		],
+		"7" : [
+			[ "predestinaré" ],
+			[ "predestinarás" ],
+			[ "predestinará" ],
+			[ "predestinaremos" ],
+			[ "predestinaréis", "predestinarán" ],
+			[ "predestinarán" ]
+		],
+		"8" : [
+			[ "predestine" ],
+			[ "predestines" ],
+			[ "predestine" ],
+			[ "predestinemos" ],
+			[ "predestinéis", "predestinen" ],
+			[ "predestinen" ]
+		],
+		"9" : [
+			[ "predestinara" ],
+			[ "predestinaras" ],
+			[ "predestinara" ],
+			[ "predestináramos" ],
+			[ "predestinarais", "predestinaran" ],
+			[ "predestinaran" ]
+		],
+		"10" : [
+			[ "predestinase" ],
+			[ "predestinases" ],
+			[ "predestinase" ],
+			[ "predestinásemos" ],
+			[ "predestinaseis", "predestinasen" ],
+			[ "predestinasen" ]
+		],
+		"11" : [
+			[ "predestinare" ],
+			[ "predestinares" ],
+			[ "predestinare" ],
+			[ "predestináremos" ],
+			[ "predestinareis", "predestinaren" ],
+			[ "predestinaren" ]
+		],
+		"12" : {
+			"1" : [ "predestina" ],
+			"2" : [ "predestine" ],
+			"3" : [ "predestinemos" ],
+			"4" : [ "predestinad" ],
+			"5" : [ "predestinen" ]
+		}
+	}
+}

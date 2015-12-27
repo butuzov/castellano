@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encomiar",
+	"word" : "encomiar",
+	"infinitivo" : "encomiar",
+	"participio" : [ "encomiado" ],
+	"gerundio" : [ "encomiando" ],
+	"tenses" : {
+		"3" : [
+			[ "encomio" ],
+			[ "encomias", "encomiás" ],
+			[ "encomia" ],
+			[ "encomiamos" ],
+			[ "encomiáis", "encomian" ],
+			[ "encomian" ]
+		],
+		"4" : [
+			[ "encomié" ],
+			[ "encomiaste" ],
+			[ "encomió" ],
+			[ "encomiamos" ],
+			[ "encomiasteis", "encomiaron" ],
+			[ "encomiaron" ]
+		],
+		"5" : [
+			[ "encomiaba" ],
+			[ "encomiabas" ],
+			[ "encomiaba" ],
+			[ "encomiábamos" ],
+			[ "encomiabais", "encomiaban" ],
+			[ "encomiaban" ]
+		],
+		"6" : [
+			[ "encomiaría" ],
+			[ "encomiarías" ],
+			[ "encomiaría" ],
+			[ "encomiaríamos" ],
+			[ "encomiaríais", "encomiarían" ],
+			[ "encomiarían" ]
+		],
+		"7" : [
+			[ "encomiaré" ],
+			[ "encomiarás" ],
+			[ "encomiará" ],
+			[ "encomiaremos" ],
+			[ "encomiaréis", "encomiarán" ],
+			[ "encomiarán" ]
+		],
+		"8" : [
+			[ "encomie" ],
+			[ "encomies" ],
+			[ "encomie" ],
+			[ "encomiemos" ],
+			[ "encomiéis", "encomien" ],
+			[ "encomien" ]
+		],
+		"9" : [
+			[ "encomiara" ],
+			[ "encomiaras" ],
+			[ "encomiara" ],
+			[ "encomiáramos" ],
+			[ "encomiarais", "encomiaran" ],
+			[ "encomiaran" ]
+		],
+		"10" : [
+			[ "encomiase" ],
+			[ "encomiases" ],
+			[ "encomiase" ],
+			[ "encomiásemos" ],
+			[ "encomiaseis", "encomiasen" ],
+			[ "encomiasen" ]
+		],
+		"11" : [
+			[ "encomiare" ],
+			[ "encomiares" ],
+			[ "encomiare" ],
+			[ "encomiáremos" ],
+			[ "encomiareis", "encomiaren" ],
+			[ "encomiaren" ]
+		],
+		"12" : {
+			"1" : [ "encomia" ],
+			"2" : [ "encomie" ],
+			"3" : [ "encomiemos" ],
+			"4" : [ "encomiad" ],
+			"5" : [ "encomien" ]
+		}
+	}
+}

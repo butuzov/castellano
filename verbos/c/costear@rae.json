@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=costear",
+	"word" : "costear",
+	"infinitivo" : "costear",
+	"participio" : [ "costeado" ],
+	"gerundio" : [ "costeando" ],
+	"tenses" : {
+		"3" : [
+			[ "costeo" ],
+			[ "costeas", "costeás" ],
+			[ "costea" ],
+			[ "costeamos" ],
+			[ "costeáis", "costean" ],
+			[ "costean" ]
+		],
+		"4" : [
+			[ "costeé" ],
+			[ "costeaste" ],
+			[ "costeó" ],
+			[ "costeamos" ],
+			[ "costeasteis", "costearon" ],
+			[ "costearon" ]
+		],
+		"5" : [
+			[ "costeaba" ],
+			[ "costeabas" ],
+			[ "costeaba" ],
+			[ "costeábamos" ],
+			[ "costeabais", "costeaban" ],
+			[ "costeaban" ]
+		],
+		"6" : [
+			[ "costearía" ],
+			[ "costearías" ],
+			[ "costearía" ],
+			[ "costearíamos" ],
+			[ "costearíais", "costearían" ],
+			[ "costearían" ]
+		],
+		"7" : [
+			[ "costearé" ],
+			[ "costearás" ],
+			[ "costeará" ],
+			[ "costearemos" ],
+			[ "costearéis", "costearán" ],
+			[ "costearán" ]
+		],
+		"8" : [
+			[ "costee" ],
+			[ "costees" ],
+			[ "costee" ],
+			[ "costeemos" ],
+			[ "costeéis", "costeen" ],
+			[ "costeen" ]
+		],
+		"9" : [
+			[ "costeara" ],
+			[ "costearas" ],
+			[ "costeara" ],
+			[ "costeáramos" ],
+			[ "costearais", "costearan" ],
+			[ "costearan" ]
+		],
+		"10" : [
+			[ "costease" ],
+			[ "costeases" ],
+			[ "costease" ],
+			[ "costeásemos" ],
+			[ "costeaseis", "costeasen" ],
+			[ "costeasen" ]
+		],
+		"11" : [
+			[ "costeare" ],
+			[ "costeares" ],
+			[ "costeare" ],
+			[ "costeáremos" ],
+			[ "costeareis", "costearen" ],
+			[ "costearen" ]
+		],
+		"12" : {
+			"1" : [ "costea" ],
+			"2" : [ "costee" ],
+			"3" : [ "costeemos" ],
+			"4" : [ "costead" ],
+			"5" : [ "costeen" ]
+		}
+	}
+}

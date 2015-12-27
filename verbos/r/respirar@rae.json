@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=respirar",
+	"word" : "respirar",
+	"infinitivo" : "respirar",
+	"participio" : [ "respirado" ],
+	"gerundio" : [ "respirando" ],
+	"tenses" : {
+		"3" : [
+			[ "respiro" ],
+			[ "respiras", "respirás" ],
+			[ "respira" ],
+			[ "respiramos" ],
+			[ "respiráis", "respiran" ],
+			[ "respiran" ]
+		],
+		"4" : [
+			[ "respiré" ],
+			[ "respiraste" ],
+			[ "respiró" ],
+			[ "respiramos" ],
+			[ "respirasteis", "respiraron" ],
+			[ "respiraron" ]
+		],
+		"5" : [
+			[ "respiraba" ],
+			[ "respirabas" ],
+			[ "respiraba" ],
+			[ "respirábamos" ],
+			[ "respirabais", "respiraban" ],
+			[ "respiraban" ]
+		],
+		"6" : [
+			[ "respiraría" ],
+			[ "respirarías" ],
+			[ "respiraría" ],
+			[ "respiraríamos" ],
+			[ "respiraríais", "respirarían" ],
+			[ "respirarían" ]
+		],
+		"7" : [
+			[ "respiraré" ],
+			[ "respirarás" ],
+			[ "respirará" ],
+			[ "respiraremos" ],
+			[ "respiraréis", "respirarán" ],
+			[ "respirarán" ]
+		],
+		"8" : [
+			[ "respire" ],
+			[ "respires" ],
+			[ "respire" ],
+			[ "respiremos" ],
+			[ "respiréis", "respiren" ],
+			[ "respiren" ]
+		],
+		"9" : [
+			[ "respirara" ],
+			[ "respiraras" ],
+			[ "respirara" ],
+			[ "respiráramos" ],
+			[ "respirarais", "respiraran" ],
+			[ "respiraran" ]
+		],
+		"10" : [
+			[ "respirase" ],
+			[ "respirases" ],
+			[ "respirase" ],
+			[ "respirásemos" ],
+			[ "respiraseis", "respirasen" ],
+			[ "respirasen" ]
+		],
+		"11" : [
+			[ "respirare" ],
+			[ "respirares" ],
+			[ "respirare" ],
+			[ "respiráremos" ],
+			[ "respirareis", "respiraren" ],
+			[ "respiraren" ]
+		],
+		"12" : {
+			"1" : [ "respira" ],
+			"2" : [ "respire" ],
+			"3" : [ "respiremos" ],
+			"4" : [ "respirad" ],
+			"5" : [ "respiren" ]
+		}
+	}
+}

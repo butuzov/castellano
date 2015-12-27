@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rebatir",
+	"word" : "rebatir",
+	"infinitivo" : "rebatir",
+	"participio" : [ "rebatido" ],
+	"gerundio" : [ "rebatiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "rebato" ],
+			[ "rebates", "rebatís" ],
+			[ "rebate" ],
+			[ "rebatimos" ],
+			[ "rebatís", "rebaten" ],
+			[ "rebaten" ]
+		],
+		"4" : [
+			[ "rebatí" ],
+			[ "rebatiste" ],
+			[ "rebatió" ],
+			[ "rebatimos" ],
+			[ "rebatisteis", "rebatieron" ],
+			[ "rebatieron" ]
+		],
+		"5" : [
+			[ "rebatía" ],
+			[ "rebatías" ],
+			[ "rebatía" ],
+			[ "rebatíamos" ],
+			[ "rebatíais", "rebatían" ],
+			[ "rebatían" ]
+		],
+		"6" : [
+			[ "rebatiría" ],
+			[ "rebatirías" ],
+			[ "rebatiría" ],
+			[ "rebatiríamos" ],
+			[ "rebatiríais", "rebatirían" ],
+			[ "rebatirían" ]
+		],
+		"7" : [
+			[ "rebatiré" ],
+			[ "rebatirás" ],
+			[ "rebatirá" ],
+			[ "rebatiremos" ],
+			[ "rebatiréis", "rebatirán" ],
+			[ "rebatirán" ]
+		],
+		"8" : [
+			[ "rebata" ],
+			[ "rebatas" ],
+			[ "rebata" ],
+			[ "rebatamos" ],
+			[ "rebatáis", "rebatan" ],
+			[ "rebatan" ]
+		],
+		"9" : [
+			[ "rebatiera" ],
+			[ "rebatieras" ],
+			[ "rebatiera" ],
+			[ "rebatiéramos" ],
+			[ "rebatierais", "rebatieran" ],
+			[ "rebatieran" ]
+		],
+		"10" : [
+			[ "rebatiese" ],
+			[ "rebatieses" ],
+			[ "rebatiese" ],
+			[ "rebatiésemos" ],
+			[ "rebatieseis", "rebatiesen" ],
+			[ "rebatiesen" ]
+		],
+		"11" : [
+			[ "rebatiere" ],
+			[ "rebatieres" ],
+			[ "rebatiere" ],
+			[ "rebatiéremos" ],
+			[ "rebatiereis", "rebatieren" ],
+			[ "rebatieren" ]
+		],
+		"12" : {
+			"1" : [ "rebate" ],
+			"2" : [ "rebata" ],
+			"3" : [ "rebatamos" ],
+			"4" : [ "rebatid" ],
+			"5" : [ "rebatan" ]
+		}
+	}
+}

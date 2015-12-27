@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=achatar",
+	"word" : "achatar",
+	"infinitivo" : "achatar",
+	"participio" : [ "achatado" ],
+	"gerundio" : [ "achatando" ],
+	"tenses" : {
+		"3" : [
+			[ "achato" ],
+			[ "achatas", "achatás" ],
+			[ "achata" ],
+			[ "achatamos" ],
+			[ "achatáis", "achatan" ],
+			[ "achatan" ]
+		],
+		"4" : [
+			[ "achaté" ],
+			[ "achataste" ],
+			[ "acható" ],
+			[ "achatamos" ],
+			[ "achatasteis", "achataron" ],
+			[ "achataron" ]
+		],
+		"5" : [
+			[ "achataba" ],
+			[ "achatabas" ],
+			[ "achataba" ],
+			[ "achatábamos" ],
+			[ "achatabais", "achataban" ],
+			[ "achataban" ]
+		],
+		"6" : [
+			[ "achataría" ],
+			[ "achatarías" ],
+			[ "achataría" ],
+			[ "achataríamos" ],
+			[ "achataríais", "achatarían" ],
+			[ "achatarían" ]
+		],
+		"7" : [
+			[ "achataré" ],
+			[ "achatarás" ],
+			[ "achatará" ],
+			[ "achataremos" ],
+			[ "achataréis", "achatarán" ],
+			[ "achatarán" ]
+		],
+		"8" : [
+			[ "achate" ],
+			[ "achates" ],
+			[ "achate" ],
+			[ "achatemos" ],
+			[ "achatéis", "achaten" ],
+			[ "achaten" ]
+		],
+		"9" : [
+			[ "achatara" ],
+			[ "achataras" ],
+			[ "achatara" ],
+			[ "achatáramos" ],
+			[ "achatarais", "achataran" ],
+			[ "achataran" ]
+		],
+		"10" : [
+			[ "achatase" ],
+			[ "achatases" ],
+			[ "achatase" ],
+			[ "achatásemos" ],
+			[ "achataseis", "achatasen" ],
+			[ "achatasen" ]
+		],
+		"11" : [
+			[ "achatare" ],
+			[ "achatares" ],
+			[ "achatare" ],
+			[ "achatáremos" ],
+			[ "achatareis", "achataren" ],
+			[ "achataren" ]
+		],
+		"12" : {
+			"1" : [ "achata" ],
+			"2" : [ "achate" ],
+			"3" : [ "achatemos" ],
+			"4" : [ "achatad" ],
+			"5" : [ "achaten" ]
+		}
+	}
+}

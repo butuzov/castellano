@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cuartear",
+	"word" : "cuartear",
+	"infinitivo" : "cuartear",
+	"participio" : [ "cuarteado" ],
+	"gerundio" : [ "cuarteando" ],
+	"tenses" : {
+		"3" : [
+			[ "cuarteo" ],
+			[ "cuarteas", "cuarteás" ],
+			[ "cuartea" ],
+			[ "cuarteamos" ],
+			[ "cuarteáis", "cuartean" ],
+			[ "cuartean" ]
+		],
+		"4" : [
+			[ "cuarteé" ],
+			[ "cuarteaste" ],
+			[ "cuarteó" ],
+			[ "cuarteamos" ],
+			[ "cuarteasteis", "cuartearon" ],
+			[ "cuartearon" ]
+		],
+		"5" : [
+			[ "cuarteaba" ],
+			[ "cuarteabas" ],
+			[ "cuarteaba" ],
+			[ "cuarteábamos" ],
+			[ "cuarteabais", "cuarteaban" ],
+			[ "cuarteaban" ]
+		],
+		"6" : [
+			[ "cuartearía" ],
+			[ "cuartearías" ],
+			[ "cuartearía" ],
+			[ "cuartearíamos" ],
+			[ "cuartearíais", "cuartearían" ],
+			[ "cuartearían" ]
+		],
+		"7" : [
+			[ "cuartearé" ],
+			[ "cuartearás" ],
+			[ "cuarteará" ],
+			[ "cuartearemos" ],
+			[ "cuartearéis", "cuartearán" ],
+			[ "cuartearán" ]
+		],
+		"8" : [
+			[ "cuartee" ],
+			[ "cuartees" ],
+			[ "cuartee" ],
+			[ "cuarteemos" ],
+			[ "cuarteéis", "cuarteen" ],
+			[ "cuarteen" ]
+		],
+		"9" : [
+			[ "cuarteara" ],
+			[ "cuartearas" ],
+			[ "cuarteara" ],
+			[ "cuarteáramos" ],
+			[ "cuartearais", "cuartearan" ],
+			[ "cuartearan" ]
+		],
+		"10" : [
+			[ "cuartease" ],
+			[ "cuarteases" ],
+			[ "cuartease" ],
+			[ "cuarteásemos" ],
+			[ "cuarteaseis", "cuarteasen" ],
+			[ "cuarteasen" ]
+		],
+		"11" : [
+			[ "cuarteare" ],
+			[ "cuarteares" ],
+			[ "cuarteare" ],
+			[ "cuarteáremos" ],
+			[ "cuarteareis", "cuartearen" ],
+			[ "cuartearen" ]
+		],
+		"12" : {
+			"1" : [ "cuartea" ],
+			"2" : [ "cuartee" ],
+			"3" : [ "cuarteemos" ],
+			"4" : [ "cuartead" ],
+			"5" : [ "cuarteen" ]
+		}
+	}
+}

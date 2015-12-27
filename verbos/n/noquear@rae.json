@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=noquear",
+	"word" : "noquear",
+	"infinitivo" : "noquear",
+	"participio" : [ "noqueado" ],
+	"gerundio" : [ "noqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "noqueo" ],
+			[ "noqueas", "noqueás" ],
+			[ "noquea" ],
+			[ "noqueamos" ],
+			[ "noqueáis", "noquean" ],
+			[ "noquean" ]
+		],
+		"4" : [
+			[ "noqueé" ],
+			[ "noqueaste" ],
+			[ "noqueó" ],
+			[ "noqueamos" ],
+			[ "noqueasteis", "noquearon" ],
+			[ "noquearon" ]
+		],
+		"5" : [
+			[ "noqueaba" ],
+			[ "noqueabas" ],
+			[ "noqueaba" ],
+			[ "noqueábamos" ],
+			[ "noqueabais", "noqueaban" ],
+			[ "noqueaban" ]
+		],
+		"6" : [
+			[ "noquearía" ],
+			[ "noquearías" ],
+			[ "noquearía" ],
+			[ "noquearíamos" ],
+			[ "noquearíais", "noquearían" ],
+			[ "noquearían" ]
+		],
+		"7" : [
+			[ "noquearé" ],
+			[ "noquearás" ],
+			[ "noqueará" ],
+			[ "noquearemos" ],
+			[ "noquearéis", "noquearán" ],
+			[ "noquearán" ]
+		],
+		"8" : [
+			[ "noquee" ],
+			[ "noquees" ],
+			[ "noquee" ],
+			[ "noqueemos" ],
+			[ "noqueéis", "noqueen" ],
+			[ "noqueen" ]
+		],
+		"9" : [
+			[ "noqueara" ],
+			[ "noquearas" ],
+			[ "noqueara" ],
+			[ "noqueáramos" ],
+			[ "noquearais", "noquearan" ],
+			[ "noquearan" ]
+		],
+		"10" : [
+			[ "noquease" ],
+			[ "noqueases" ],
+			[ "noquease" ],
+			[ "noqueásemos" ],
+			[ "noqueaseis", "noqueasen" ],
+			[ "noqueasen" ]
+		],
+		"11" : [
+			[ "noqueare" ],
+			[ "noqueares" ],
+			[ "noqueare" ],
+			[ "noqueáremos" ],
+			[ "noqueareis", "noquearen" ],
+			[ "noquearen" ]
+		],
+		"12" : {
+			"1" : [ "noquea" ],
+			"2" : [ "noquee" ],
+			"3" : [ "noqueemos" ],
+			"4" : [ "noquead" ],
+			"5" : [ "noqueen" ]
+		}
+	}
+}

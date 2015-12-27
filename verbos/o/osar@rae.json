@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=osar",
+	"word" : "osar",
+	"infinitivo" : "osar",
+	"participio" : [ "osado" ],
+	"gerundio" : [ "osando" ],
+	"tenses" : {
+		"3" : [
+			[ "oso" ],
+			[ "osas", "osás" ],
+			[ "osa" ],
+			[ "osamos" ],
+			[ "osáis", "osan" ],
+			[ "osan" ]
+		],
+		"4" : [
+			[ "osé" ],
+			[ "osaste" ],
+			[ "osó" ],
+			[ "osamos" ],
+			[ "osasteis", "osaron" ],
+			[ "osaron" ]
+		],
+		"5" : [
+			[ "osaba" ],
+			[ "osabas" ],
+			[ "osaba" ],
+			[ "osábamos" ],
+			[ "osabais", "osaban" ],
+			[ "osaban" ]
+		],
+		"6" : [
+			[ "osaría" ],
+			[ "osarías" ],
+			[ "osaría" ],
+			[ "osaríamos" ],
+			[ "osaríais", "osarían" ],
+			[ "osarían" ]
+		],
+		"7" : [
+			[ "osaré" ],
+			[ "osarás" ],
+			[ "osará" ],
+			[ "osaremos" ],
+			[ "osaréis", "osarán" ],
+			[ "osarán" ]
+		],
+		"8" : [
+			[ "ose" ],
+			[ "oses" ],
+			[ "ose" ],
+			[ "osemos" ],
+			[ "oséis", "osen" ],
+			[ "osen" ]
+		],
+		"9" : [
+			[ "osara" ],
+			[ "osaras" ],
+			[ "osara" ],
+			[ "osáramos" ],
+			[ "osarais", "osaran" ],
+			[ "osaran" ]
+		],
+		"10" : [
+			[ "osase" ],
+			[ "osases" ],
+			[ "osase" ],
+			[ "osásemos" ],
+			[ "osaseis", "osasen" ],
+			[ "osasen" ]
+		],
+		"11" : [
+			[ "osare" ],
+			[ "osares" ],
+			[ "osare" ],
+			[ "osáremos" ],
+			[ "osareis", "osaren" ],
+			[ "osaren" ]
+		],
+		"12" : {
+			"1" : [ "osa" ],
+			"2" : [ "ose" ],
+			"3" : [ "osemos" ],
+			"4" : [ "osad" ],
+			"5" : [ "osen" ]
+		}
+	}
+}

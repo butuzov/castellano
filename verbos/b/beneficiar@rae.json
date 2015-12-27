@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=beneficiar",
+	"word" : "beneficiar",
+	"infinitivo" : "beneficiar",
+	"participio" : [ "beneficiado" ],
+	"gerundio" : [ "beneficiando" ],
+	"tenses" : {
+		"3" : [
+			[ "beneficio" ],
+			[ "beneficias", "beneficiás" ],
+			[ "beneficia" ],
+			[ "beneficiamos" ],
+			[ "beneficiáis", "benefician" ],
+			[ "benefician" ]
+		],
+		"4" : [
+			[ "beneficié" ],
+			[ "beneficiaste" ],
+			[ "benefició" ],
+			[ "beneficiamos" ],
+			[ "beneficiasteis", "beneficiaron" ],
+			[ "beneficiaron" ]
+		],
+		"5" : [
+			[ "beneficiaba" ],
+			[ "beneficiabas" ],
+			[ "beneficiaba" ],
+			[ "beneficiábamos" ],
+			[ "beneficiabais", "beneficiaban" ],
+			[ "beneficiaban" ]
+		],
+		"6" : [
+			[ "beneficiaría" ],
+			[ "beneficiarías" ],
+			[ "beneficiaría" ],
+			[ "beneficiaríamos" ],
+			[ "beneficiaríais", "beneficiarían" ],
+			[ "beneficiarían" ]
+		],
+		"7" : [
+			[ "beneficiaré" ],
+			[ "beneficiarás" ],
+			[ "beneficiará" ],
+			[ "beneficiaremos" ],
+			[ "beneficiaréis", "beneficiarán" ],
+			[ "beneficiarán" ]
+		],
+		"8" : [
+			[ "beneficie" ],
+			[ "beneficies" ],
+			[ "beneficie" ],
+			[ "beneficiemos" ],
+			[ "beneficiéis", "beneficien" ],
+			[ "beneficien" ]
+		],
+		"9" : [
+			[ "beneficiara" ],
+			[ "beneficiaras" ],
+			[ "beneficiara" ],
+			[ "beneficiáramos" ],
+			[ "beneficiarais", "beneficiaran" ],
+			[ "beneficiaran" ]
+		],
+		"10" : [
+			[ "beneficiase" ],
+			[ "beneficiases" ],
+			[ "beneficiase" ],
+			[ "beneficiásemos" ],
+			[ "beneficiaseis", "beneficiasen" ],
+			[ "beneficiasen" ]
+		],
+		"11" : [
+			[ "beneficiare" ],
+			[ "beneficiares" ],
+			[ "beneficiare" ],
+			[ "beneficiáremos" ],
+			[ "beneficiareis", "beneficiaren" ],
+			[ "beneficiaren" ]
+		],
+		"12" : {
+			"1" : [ "beneficia" ],
+			"2" : [ "beneficie" ],
+			"3" : [ "beneficiemos" ],
+			"4" : [ "beneficiad" ],
+			"5" : [ "beneficien" ]
+		}
+	}
+}

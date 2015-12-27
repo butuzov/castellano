@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lancear",
+	"word" : "lancear",
+	"infinitivo" : "lancear",
+	"participio" : [ "lanceado" ],
+	"gerundio" : [ "lanceando" ],
+	"tenses" : {
+		"3" : [
+			[ "lanceo" ],
+			[ "lanceas", "lanceás" ],
+			[ "lancea" ],
+			[ "lanceamos" ],
+			[ "lanceáis", "lancean" ],
+			[ "lancean" ]
+		],
+		"4" : [
+			[ "lanceé" ],
+			[ "lanceaste" ],
+			[ "lanceó" ],
+			[ "lanceamos" ],
+			[ "lanceasteis", "lancearon" ],
+			[ "lancearon" ]
+		],
+		"5" : [
+			[ "lanceaba" ],
+			[ "lanceabas" ],
+			[ "lanceaba" ],
+			[ "lanceábamos" ],
+			[ "lanceabais", "lanceaban" ],
+			[ "lanceaban" ]
+		],
+		"6" : [
+			[ "lancearía" ],
+			[ "lancearías" ],
+			[ "lancearía" ],
+			[ "lancearíamos" ],
+			[ "lancearíais", "lancearían" ],
+			[ "lancearían" ]
+		],
+		"7" : [
+			[ "lancearé" ],
+			[ "lancearás" ],
+			[ "lanceará" ],
+			[ "lancearemos" ],
+			[ "lancearéis", "lancearán" ],
+			[ "lancearán" ]
+		],
+		"8" : [
+			[ "lancee" ],
+			[ "lancees" ],
+			[ "lancee" ],
+			[ "lanceemos" ],
+			[ "lanceéis", "lanceen" ],
+			[ "lanceen" ]
+		],
+		"9" : [
+			[ "lanceara" ],
+			[ "lancearas" ],
+			[ "lanceara" ],
+			[ "lanceáramos" ],
+			[ "lancearais", "lancearan" ],
+			[ "lancearan" ]
+		],
+		"10" : [
+			[ "lancease" ],
+			[ "lanceases" ],
+			[ "lancease" ],
+			[ "lanceásemos" ],
+			[ "lanceaseis", "lanceasen" ],
+			[ "lanceasen" ]
+		],
+		"11" : [
+			[ "lanceare" ],
+			[ "lanceares" ],
+			[ "lanceare" ],
+			[ "lanceáremos" ],
+			[ "lanceareis", "lancearen" ],
+			[ "lancearen" ]
+		],
+		"12" : {
+			"1" : [ "lancea" ],
+			"2" : [ "lancee" ],
+			"3" : [ "lanceemos" ],
+			"4" : [ "lancead" ],
+			"5" : [ "lanceen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aboyar",
+	"word" : "aboyar",
+	"infinitivo" : "aboyar",
+	"participio" : [ "aboyado" ],
+	"gerundio" : [ "aboyando" ],
+	"tenses" : {
+		"3" : [
+			[ "aboyo" ],
+			[ "aboyas", "aboyás" ],
+			[ "aboya" ],
+			[ "aboyamos" ],
+			[ "aboyáis", "aboyan" ],
+			[ "aboyan" ]
+		],
+		"4" : [
+			[ "aboyé" ],
+			[ "aboyaste" ],
+			[ "aboyó" ],
+			[ "aboyamos" ],
+			[ "aboyasteis", "aboyaron" ],
+			[ "aboyaron" ]
+		],
+		"5" : [
+			[ "aboyaba" ],
+			[ "aboyabas" ],
+			[ "aboyaba" ],
+			[ "aboyábamos" ],
+			[ "aboyabais", "aboyaban" ],
+			[ "aboyaban" ]
+		],
+		"6" : [
+			[ "aboyaría" ],
+			[ "aboyarías" ],
+			[ "aboyaría" ],
+			[ "aboyaríamos" ],
+			[ "aboyaríais", "aboyarían" ],
+			[ "aboyarían" ]
+		],
+		"7" : [
+			[ "aboyaré" ],
+			[ "aboyarás" ],
+			[ "aboyará" ],
+			[ "aboyaremos" ],
+			[ "aboyaréis", "aboyarán" ],
+			[ "aboyarán" ]
+		],
+		"8" : [
+			[ "aboye" ],
+			[ "aboyes" ],
+			[ "aboye" ],
+			[ "aboyemos" ],
+			[ "aboyéis", "aboyen" ],
+			[ "aboyen" ]
+		],
+		"9" : [
+			[ "aboyara" ],
+			[ "aboyaras" ],
+			[ "aboyara" ],
+			[ "aboyáramos" ],
+			[ "aboyarais", "aboyaran" ],
+			[ "aboyaran" ]
+		],
+		"10" : [
+			[ "aboyase" ],
+			[ "aboyases" ],
+			[ "aboyase" ],
+			[ "aboyásemos" ],
+			[ "aboyaseis", "aboyasen" ],
+			[ "aboyasen" ]
+		],
+		"11" : [
+			[ "aboyare" ],
+			[ "aboyares" ],
+			[ "aboyare" ],
+			[ "aboyáremos" ],
+			[ "aboyareis", "aboyaren" ],
+			[ "aboyaren" ]
+		],
+		"12" : {
+			"1" : [ "aboya" ],
+			"2" : [ "aboye" ],
+			"3" : [ "aboyemos" ],
+			"4" : [ "aboyad" ],
+			"5" : [ "aboyen" ]
+		}
+	}
+}

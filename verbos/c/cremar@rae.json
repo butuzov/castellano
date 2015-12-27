@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cremar",
+	"word" : "cremar",
+	"infinitivo" : "cremar",
+	"participio" : [ "cremado" ],
+	"gerundio" : [ "cremando" ],
+	"tenses" : {
+		"3" : [
+			[ "cremo" ],
+			[ "cremas", "cremás" ],
+			[ "crema" ],
+			[ "cremamos" ],
+			[ "cremáis", "creman" ],
+			[ "creman" ]
+		],
+		"4" : [
+			[ "cremé" ],
+			[ "cremaste" ],
+			[ "cremó" ],
+			[ "cremamos" ],
+			[ "cremasteis", "cremaron" ],
+			[ "cremaron" ]
+		],
+		"5" : [
+			[ "cremaba" ],
+			[ "cremabas" ],
+			[ "cremaba" ],
+			[ "cremábamos" ],
+			[ "cremabais", "cremaban" ],
+			[ "cremaban" ]
+		],
+		"6" : [
+			[ "cremaría" ],
+			[ "cremarías" ],
+			[ "cremaría" ],
+			[ "cremaríamos" ],
+			[ "cremaríais", "cremarían" ],
+			[ "cremarían" ]
+		],
+		"7" : [
+			[ "cremaré" ],
+			[ "cremarás" ],
+			[ "cremará" ],
+			[ "cremaremos" ],
+			[ "cremaréis", "cremarán" ],
+			[ "cremarán" ]
+		],
+		"8" : [
+			[ "creme" ],
+			[ "cremes" ],
+			[ "creme" ],
+			[ "crememos" ],
+			[ "creméis", "cremen" ],
+			[ "cremen" ]
+		],
+		"9" : [
+			[ "cremara" ],
+			[ "cremaras" ],
+			[ "cremara" ],
+			[ "cremáramos" ],
+			[ "cremarais", "cremaran" ],
+			[ "cremaran" ]
+		],
+		"10" : [
+			[ "cremase" ],
+			[ "cremases" ],
+			[ "cremase" ],
+			[ "cremásemos" ],
+			[ "cremaseis", "cremasen" ],
+			[ "cremasen" ]
+		],
+		"11" : [
+			[ "cremare" ],
+			[ "cremares" ],
+			[ "cremare" ],
+			[ "cremáremos" ],
+			[ "cremareis", "cremaren" ],
+			[ "cremaren" ]
+		],
+		"12" : {
+			"1" : [ "crema" ],
+			"2" : [ "creme" ],
+			"3" : [ "crememos" ],
+			"4" : [ "cremad" ],
+			"5" : [ "cremen" ]
+		}
+	}
+}

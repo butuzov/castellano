@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=transmutar",
+	"word" : "transmutar",
+	"infinitivo" : "transmutar",
+	"participio" : [ "transmutado" ],
+	"gerundio" : [ "transmutando" ],
+	"tenses" : {
+		"3" : [
+			[ "transmuto" ],
+			[ "transmutas", "transmutás" ],
+			[ "transmuta" ],
+			[ "transmutamos" ],
+			[ "transmutáis", "transmutan" ],
+			[ "transmutan" ]
+		],
+		"4" : [
+			[ "transmuté" ],
+			[ "transmutaste" ],
+			[ "transmutó" ],
+			[ "transmutamos" ],
+			[ "transmutasteis", "transmutaron" ],
+			[ "transmutaron" ]
+		],
+		"5" : [
+			[ "transmutaba" ],
+			[ "transmutabas" ],
+			[ "transmutaba" ],
+			[ "transmutábamos" ],
+			[ "transmutabais", "transmutaban" ],
+			[ "transmutaban" ]
+		],
+		"6" : [
+			[ "transmutaría" ],
+			[ "transmutarías" ],
+			[ "transmutaría" ],
+			[ "transmutaríamos" ],
+			[ "transmutaríais", "transmutarían" ],
+			[ "transmutarían" ]
+		],
+		"7" : [
+			[ "transmutaré" ],
+			[ "transmutarás" ],
+			[ "transmutará" ],
+			[ "transmutaremos" ],
+			[ "transmutaréis", "transmutarán" ],
+			[ "transmutarán" ]
+		],
+		"8" : [
+			[ "transmute" ],
+			[ "transmutes" ],
+			[ "transmute" ],
+			[ "transmutemos" ],
+			[ "transmutéis", "transmuten" ],
+			[ "transmuten" ]
+		],
+		"9" : [
+			[ "transmutara" ],
+			[ "transmutaras" ],
+			[ "transmutara" ],
+			[ "transmutáramos" ],
+			[ "transmutarais", "transmutaran" ],
+			[ "transmutaran" ]
+		],
+		"10" : [
+			[ "transmutase" ],
+			[ "transmutases" ],
+			[ "transmutase" ],
+			[ "transmutásemos" ],
+			[ "transmutaseis", "transmutasen" ],
+			[ "transmutasen" ]
+		],
+		"11" : [
+			[ "transmutare" ],
+			[ "transmutares" ],
+			[ "transmutare" ],
+			[ "transmutáremos" ],
+			[ "transmutareis", "transmutaren" ],
+			[ "transmutaren" ]
+		],
+		"12" : {
+			"1" : [ "transmuta" ],
+			"2" : [ "transmute" ],
+			"3" : [ "transmutemos" ],
+			"4" : [ "transmutad" ],
+			"5" : [ "transmuten" ]
+		}
+	}
+}

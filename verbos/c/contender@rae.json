@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contender",
+	"word" : "contender",
+	"infinitivo" : "contender",
+	"participio" : [ "contendido" ],
+	"gerundio" : [ "contendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "contiendo" ],
+			[ "contiendes", "contendés" ],
+			[ "contiende" ],
+			[ "contendemos" ],
+			[ "contendéis", "contienden" ],
+			[ "contienden" ]
+		],
+		"4" : [
+			[ "contendí" ],
+			[ "contendiste" ],
+			[ "contendió" ],
+			[ "contendimos" ],
+			[ "contendisteis", "contendieron" ],
+			[ "contendieron" ]
+		],
+		"5" : [
+			[ "contendía" ],
+			[ "contendías" ],
+			[ "contendía" ],
+			[ "contendíamos" ],
+			[ "contendíais", "contendían" ],
+			[ "contendían" ]
+		],
+		"6" : [
+			[ "contendería" ],
+			[ "contenderías" ],
+			[ "contendería" ],
+			[ "contenderíamos" ],
+			[ "contenderíais", "contenderían" ],
+			[ "contenderían" ]
+		],
+		"7" : [
+			[ "contenderé" ],
+			[ "contenderás" ],
+			[ "contenderá" ],
+			[ "contenderemos" ],
+			[ "contenderéis", "contenderán" ],
+			[ "contenderán" ]
+		],
+		"8" : [
+			[ "contienda" ],
+			[ "contiendas" ],
+			[ "contienda" ],
+			[ "contendamos" ],
+			[ "contendáis", "contiendan" ],
+			[ "contiendan" ]
+		],
+		"9" : [
+			[ "contendiera" ],
+			[ "contendieras" ],
+			[ "contendiera" ],
+			[ "contendiéramos" ],
+			[ "contendierais", "contendieran" ],
+			[ "contendieran" ]
+		],
+		"10" : [
+			[ "contendiese" ],
+			[ "contendieses" ],
+			[ "contendiese" ],
+			[ "contendiésemos" ],
+			[ "contendieseis", "contendiesen" ],
+			[ "contendiesen" ]
+		],
+		"11" : [
+			[ "contendiere" ],
+			[ "contendieres" ],
+			[ "contendiere" ],
+			[ "contendiéremos" ],
+			[ "contendiereis", "contendieren" ],
+			[ "contendieren" ]
+		],
+		"12" : {
+			"1" : [ "contiende" ],
+			"2" : [ "contienda" ],
+			"3" : [ "contendamos" ],
+			"4" : [ "contended" ],
+			"5" : [ "contiendan" ]
+		}
+	}
+}

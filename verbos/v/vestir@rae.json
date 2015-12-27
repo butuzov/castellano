@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vestir",
+	"word" : "vestir",
+	"infinitivo" : "vestir",
+	"participio" : [ "vestido" ],
+	"gerundio" : [ "vistiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "visto" ],
+			[ "vistes", "vestís" ],
+			[ "viste" ],
+			[ "vestimos" ],
+			[ "vestís", "visten" ],
+			[ "visten" ]
+		],
+		"4" : [
+			[ "vestí" ],
+			[ "vestiste" ],
+			[ "vistió" ],
+			[ "vestimos" ],
+			[ "vestisteis", "vistieron" ],
+			[ "vistieron" ]
+		],
+		"5" : [
+			[ "vestía" ],
+			[ "vestías" ],
+			[ "vestía" ],
+			[ "vestíamos" ],
+			[ "vestíais", "vestían" ],
+			[ "vestían" ]
+		],
+		"6" : [
+			[ "vestiría" ],
+			[ "vestirías" ],
+			[ "vestiría" ],
+			[ "vestiríamos" ],
+			[ "vestiríais", "vestirían" ],
+			[ "vestirían" ]
+		],
+		"7" : [
+			[ "vestiré" ],
+			[ "vestirás" ],
+			[ "vestirá" ],
+			[ "vestiremos" ],
+			[ "vestiréis", "vestirán" ],
+			[ "vestirán" ]
+		],
+		"8" : [
+			[ "vista" ],
+			[ "vistas" ],
+			[ "vista" ],
+			[ "vistamos" ],
+			[ "vistáis", "vistan" ],
+			[ "vistan" ]
+		],
+		"9" : [
+			[ "vistiera" ],
+			[ "vistieras" ],
+			[ "vistiera" ],
+			[ "vistiéramos" ],
+			[ "vistierais", "vistieran" ],
+			[ "vistieran" ]
+		],
+		"10" : [
+			[ "vistiese" ],
+			[ "vistieses" ],
+			[ "vistiese" ],
+			[ "vistiésemos" ],
+			[ "vistieseis", "vistiesen" ],
+			[ "vistiesen" ]
+		],
+		"11" : [
+			[ "vistiere" ],
+			[ "vistieres" ],
+			[ "vistiere" ],
+			[ "vistiéremos" ],
+			[ "vistiereis", "vistieren" ],
+			[ "vistieren" ]
+		],
+		"12" : {
+			"1" : [ "viste" ],
+			"2" : [ "vista" ],
+			"3" : [ "vistamos" ],
+			"4" : [ "vestid" ],
+			"5" : [ "vistan" ]
+		}
+	}
+}

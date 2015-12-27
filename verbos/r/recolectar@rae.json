@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recolectar",
+	"word" : "recolectar",
+	"infinitivo" : "recolectar",
+	"participio" : [ "recolectado" ],
+	"gerundio" : [ "recolectando" ],
+	"tenses" : {
+		"3" : [
+			[ "recolecto" ],
+			[ "recolectas", "recolectás" ],
+			[ "recolecta" ],
+			[ "recolectamos" ],
+			[ "recolectáis", "recolectan" ],
+			[ "recolectan" ]
+		],
+		"4" : [
+			[ "recolecté" ],
+			[ "recolectaste" ],
+			[ "recolectó" ],
+			[ "recolectamos" ],
+			[ "recolectasteis", "recolectaron" ],
+			[ "recolectaron" ]
+		],
+		"5" : [
+			[ "recolectaba" ],
+			[ "recolectabas" ],
+			[ "recolectaba" ],
+			[ "recolectábamos" ],
+			[ "recolectabais", "recolectaban" ],
+			[ "recolectaban" ]
+		],
+		"6" : [
+			[ "recolectaría" ],
+			[ "recolectarías" ],
+			[ "recolectaría" ],
+			[ "recolectaríamos" ],
+			[ "recolectaríais", "recolectarían" ],
+			[ "recolectarían" ]
+		],
+		"7" : [
+			[ "recolectaré" ],
+			[ "recolectarás" ],
+			[ "recolectará" ],
+			[ "recolectaremos" ],
+			[ "recolectaréis", "recolectarán" ],
+			[ "recolectarán" ]
+		],
+		"8" : [
+			[ "recolecte" ],
+			[ "recolectes" ],
+			[ "recolecte" ],
+			[ "recolectemos" ],
+			[ "recolectéis", "recolecten" ],
+			[ "recolecten" ]
+		],
+		"9" : [
+			[ "recolectara" ],
+			[ "recolectaras" ],
+			[ "recolectara" ],
+			[ "recolectáramos" ],
+			[ "recolectarais", "recolectaran" ],
+			[ "recolectaran" ]
+		],
+		"10" : [
+			[ "recolectase" ],
+			[ "recolectases" ],
+			[ "recolectase" ],
+			[ "recolectásemos" ],
+			[ "recolectaseis", "recolectasen" ],
+			[ "recolectasen" ]
+		],
+		"11" : [
+			[ "recolectare" ],
+			[ "recolectares" ],
+			[ "recolectare" ],
+			[ "recolectáremos" ],
+			[ "recolectareis", "recolectaren" ],
+			[ "recolectaren" ]
+		],
+		"12" : {
+			"1" : [ "recolecta" ],
+			"2" : [ "recolecte" ],
+			"3" : [ "recolectemos" ],
+			"4" : [ "recolectad" ],
+			"5" : [ "recolecten" ]
+		}
+	}
+}

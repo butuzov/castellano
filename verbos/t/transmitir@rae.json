@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=transmitir",
+	"word" : "transmitir",
+	"infinitivo" : "transmitir",
+	"participio" : [ "transmitido" ],
+	"gerundio" : [ "transmitiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "transmito" ],
+			[ "transmites", "transmitís" ],
+			[ "transmite" ],
+			[ "transmitimos" ],
+			[ "transmitís", "transmiten" ],
+			[ "transmiten" ]
+		],
+		"4" : [
+			[ "transmití" ],
+			[ "transmitiste" ],
+			[ "transmitió" ],
+			[ "transmitimos" ],
+			[ "transmitisteis", "transmitieron" ],
+			[ "transmitieron" ]
+		],
+		"5" : [
+			[ "transmitía" ],
+			[ "transmitías" ],
+			[ "transmitía" ],
+			[ "transmitíamos" ],
+			[ "transmitíais", "transmitían" ],
+			[ "transmitían" ]
+		],
+		"6" : [
+			[ "transmitiría" ],
+			[ "transmitirías" ],
+			[ "transmitiría" ],
+			[ "transmitiríamos" ],
+			[ "transmitiríais", "transmitirían" ],
+			[ "transmitirían" ]
+		],
+		"7" : [
+			[ "transmitiré" ],
+			[ "transmitirás" ],
+			[ "transmitirá" ],
+			[ "transmitiremos" ],
+			[ "transmitiréis", "transmitirán" ],
+			[ "transmitirán" ]
+		],
+		"8" : [
+			[ "transmita" ],
+			[ "transmitas" ],
+			[ "transmita" ],
+			[ "transmitamos" ],
+			[ "transmitáis", "transmitan" ],
+			[ "transmitan" ]
+		],
+		"9" : [
+			[ "transmitiera" ],
+			[ "transmitieras" ],
+			[ "transmitiera" ],
+			[ "transmitiéramos" ],
+			[ "transmitierais", "transmitieran" ],
+			[ "transmitieran" ]
+		],
+		"10" : [
+			[ "transmitiese" ],
+			[ "transmitieses" ],
+			[ "transmitiese" ],
+			[ "transmitiésemos" ],
+			[ "transmitieseis", "transmitiesen" ],
+			[ "transmitiesen" ]
+		],
+		"11" : [
+			[ "transmitiere" ],
+			[ "transmitieres" ],
+			[ "transmitiere" ],
+			[ "transmitiéremos" ],
+			[ "transmitiereis", "transmitieren" ],
+			[ "transmitieren" ]
+		],
+		"12" : {
+			"1" : [ "transmite" ],
+			"2" : [ "transmita" ],
+			"3" : [ "transmitamos" ],
+			"4" : [ "transmitid" ],
+			"5" : [ "transmitan" ]
+		}
+	}
+}

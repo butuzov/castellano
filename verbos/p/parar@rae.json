@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=parar",
+	"word" : "parar",
+	"infinitivo" : "parar",
+	"participio" : [ "parado" ],
+	"gerundio" : [ "parando" ],
+	"tenses" : {
+		"3" : [
+			[ "paro" ],
+			[ "paras", "parás" ],
+			[ "para" ],
+			[ "paramos" ],
+			[ "paráis", "paran" ],
+			[ "paran" ]
+		],
+		"4" : [
+			[ "paré" ],
+			[ "paraste" ],
+			[ "paró" ],
+			[ "paramos" ],
+			[ "parasteis", "pararon" ],
+			[ "pararon" ]
+		],
+		"5" : [
+			[ "paraba" ],
+			[ "parabas" ],
+			[ "paraba" ],
+			[ "parábamos" ],
+			[ "parabais", "paraban" ],
+			[ "paraban" ]
+		],
+		"6" : [
+			[ "pararía" ],
+			[ "pararías" ],
+			[ "pararía" ],
+			[ "pararíamos" ],
+			[ "pararíais", "pararían" ],
+			[ "pararían" ]
+		],
+		"7" : [
+			[ "pararé" ],
+			[ "pararás" ],
+			[ "parará" ],
+			[ "pararemos" ],
+			[ "pararéis", "pararán" ],
+			[ "pararán" ]
+		],
+		"8" : [
+			[ "pare" ],
+			[ "pares" ],
+			[ "pare" ],
+			[ "paremos" ],
+			[ "paréis", "paren" ],
+			[ "paren" ]
+		],
+		"9" : [
+			[ "parara" ],
+			[ "pararas" ],
+			[ "parara" ],
+			[ "paráramos" ],
+			[ "pararais", "pararan" ],
+			[ "pararan" ]
+		],
+		"10" : [
+			[ "parase" ],
+			[ "parases" ],
+			[ "parase" ],
+			[ "parásemos" ],
+			[ "paraseis", "parasen" ],
+			[ "parasen" ]
+		],
+		"11" : [
+			[ "parare" ],
+			[ "parares" ],
+			[ "parare" ],
+			[ "paráremos" ],
+			[ "parareis", "pararen" ],
+			[ "pararen" ]
+		],
+		"12" : {
+			"1" : [ "para" ],
+			"2" : [ "pare" ],
+			"3" : [ "paremos" ],
+			"4" : [ "parad" ],
+			"5" : [ "paren" ]
+		}
+	}
+}

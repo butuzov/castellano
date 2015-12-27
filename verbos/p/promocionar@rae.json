@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=promocionar",
+	"word" : "promocionar",
+	"infinitivo" : "promocionar",
+	"participio" : [ "promocionado" ],
+	"gerundio" : [ "promocionando" ],
+	"tenses" : {
+		"3" : [
+			[ "promociono" ],
+			[ "promocionas", "promocionás" ],
+			[ "promociona" ],
+			[ "promocionamos" ],
+			[ "promocionáis", "promocionan" ],
+			[ "promocionan" ]
+		],
+		"4" : [
+			[ "promocioné" ],
+			[ "promocionaste" ],
+			[ "promocionó" ],
+			[ "promocionamos" ],
+			[ "promocionasteis", "promocionaron" ],
+			[ "promocionaron" ]
+		],
+		"5" : [
+			[ "promocionaba" ],
+			[ "promocionabas" ],
+			[ "promocionaba" ],
+			[ "promocionábamos" ],
+			[ "promocionabais", "promocionaban" ],
+			[ "promocionaban" ]
+		],
+		"6" : [
+			[ "promocionaría" ],
+			[ "promocionarías" ],
+			[ "promocionaría" ],
+			[ "promocionaríamos" ],
+			[ "promocionaríais", "promocionarían" ],
+			[ "promocionarían" ]
+		],
+		"7" : [
+			[ "promocionaré" ],
+			[ "promocionarás" ],
+			[ "promocionará" ],
+			[ "promocionaremos" ],
+			[ "promocionaréis", "promocionarán" ],
+			[ "promocionarán" ]
+		],
+		"8" : [
+			[ "promocione" ],
+			[ "promociones" ],
+			[ "promocione" ],
+			[ "promocionemos" ],
+			[ "promocionéis", "promocionen" ],
+			[ "promocionen" ]
+		],
+		"9" : [
+			[ "promocionara" ],
+			[ "promocionaras" ],
+			[ "promocionara" ],
+			[ "promocionáramos" ],
+			[ "promocionarais", "promocionaran" ],
+			[ "promocionaran" ]
+		],
+		"10" : [
+			[ "promocionase" ],
+			[ "promocionases" ],
+			[ "promocionase" ],
+			[ "promocionásemos" ],
+			[ "promocionaseis", "promocionasen" ],
+			[ "promocionasen" ]
+		],
+		"11" : [
+			[ "promocionare" ],
+			[ "promocionares" ],
+			[ "promocionare" ],
+			[ "promocionáremos" ],
+			[ "promocionareis", "promocionaren" ],
+			[ "promocionaren" ]
+		],
+		"12" : {
+			"1" : [ "promociona" ],
+			"2" : [ "promocione" ],
+			"3" : [ "promocionemos" ],
+			"4" : [ "promocionad" ],
+			"5" : [ "promocionen" ]
+		}
+	}
+}

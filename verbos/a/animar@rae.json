@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=animar",
+	"word" : "animar",
+	"infinitivo" : "animar",
+	"participio" : [ "animado" ],
+	"gerundio" : [ "animando" ],
+	"tenses" : {
+		"3" : [
+			[ "animo" ],
+			[ "animas", "animás" ],
+			[ "anima" ],
+			[ "animamos" ],
+			[ "animáis", "animan" ],
+			[ "animan" ]
+		],
+		"4" : [
+			[ "animé" ],
+			[ "animaste" ],
+			[ "animó" ],
+			[ "animamos" ],
+			[ "animasteis", "animaron" ],
+			[ "animaron" ]
+		],
+		"5" : [
+			[ "animaba" ],
+			[ "animabas" ],
+			[ "animaba" ],
+			[ "animábamos" ],
+			[ "animabais", "animaban" ],
+			[ "animaban" ]
+		],
+		"6" : [
+			[ "animaría" ],
+			[ "animarías" ],
+			[ "animaría" ],
+			[ "animaríamos" ],
+			[ "animaríais", "animarían" ],
+			[ "animarían" ]
+		],
+		"7" : [
+			[ "animaré" ],
+			[ "animarás" ],
+			[ "animará" ],
+			[ "animaremos" ],
+			[ "animaréis", "animarán" ],
+			[ "animarán" ]
+		],
+		"8" : [
+			[ "anime" ],
+			[ "animes" ],
+			[ "anime" ],
+			[ "animemos" ],
+			[ "animéis", "animen" ],
+			[ "animen" ]
+		],
+		"9" : [
+			[ "animara" ],
+			[ "animaras" ],
+			[ "animara" ],
+			[ "animáramos" ],
+			[ "animarais", "animaran" ],
+			[ "animaran" ]
+		],
+		"10" : [
+			[ "animase" ],
+			[ "animases" ],
+			[ "animase" ],
+			[ "animásemos" ],
+			[ "animaseis", "animasen" ],
+			[ "animasen" ]
+		],
+		"11" : [
+			[ "animare" ],
+			[ "animares" ],
+			[ "animare" ],
+			[ "animáremos" ],
+			[ "animareis", "animaren" ],
+			[ "animaren" ]
+		],
+		"12" : {
+			"1" : [ "anima" ],
+			"2" : [ "anime" ],
+			"3" : [ "animemos" ],
+			"4" : [ "animad" ],
+			"5" : [ "animen" ]
+		}
+	}
+}

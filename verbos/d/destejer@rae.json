@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=destejer",
+	"word" : "destejer",
+	"infinitivo" : "destejer",
+	"participio" : [ "destejido" ],
+	"gerundio" : [ "destejiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "destejo" ],
+			[ "destejes", "destejés" ],
+			[ "desteje" ],
+			[ "destejemos" ],
+			[ "destejéis", "destejen" ],
+			[ "destejen" ]
+		],
+		"4" : [
+			[ "destejí" ],
+			[ "destejiste" ],
+			[ "destejió" ],
+			[ "destejimos" ],
+			[ "destejisteis", "destejieron" ],
+			[ "destejieron" ]
+		],
+		"5" : [
+			[ "destejía" ],
+			[ "destejías" ],
+			[ "destejía" ],
+			[ "destejíamos" ],
+			[ "destejíais", "destejían" ],
+			[ "destejían" ]
+		],
+		"6" : [
+			[ "destejería" ],
+			[ "destejerías" ],
+			[ "destejería" ],
+			[ "destejeríamos" ],
+			[ "destejeríais", "destejerían" ],
+			[ "destejerían" ]
+		],
+		"7" : [
+			[ "destejeré" ],
+			[ "destejerás" ],
+			[ "destejerá" ],
+			[ "destejeremos" ],
+			[ "destejeréis", "destejerán" ],
+			[ "destejerán" ]
+		],
+		"8" : [
+			[ "desteja" ],
+			[ "destejas" ],
+			[ "desteja" ],
+			[ "destejamos" ],
+			[ "destejáis", "destejan" ],
+			[ "destejan" ]
+		],
+		"9" : [
+			[ "destejiera" ],
+			[ "destejieras" ],
+			[ "destejiera" ],
+			[ "destejiéramos" ],
+			[ "destejierais", "destejieran" ],
+			[ "destejieran" ]
+		],
+		"10" : [
+			[ "destejiese" ],
+			[ "destejieses" ],
+			[ "destejiese" ],
+			[ "destejiésemos" ],
+			[ "destejieseis", "destejiesen" ],
+			[ "destejiesen" ]
+		],
+		"11" : [
+			[ "destejiere" ],
+			[ "destejieres" ],
+			[ "destejiere" ],
+			[ "destejiéremos" ],
+			[ "destejiereis", "destejieren" ],
+			[ "destejieren" ]
+		],
+		"12" : {
+			"1" : [ "desteje" ],
+			"2" : [ "desteja" ],
+			"3" : [ "destejamos" ],
+			"4" : [ "destejed" ],
+			"5" : [ "destejan" ]
+		}
+	}
+}

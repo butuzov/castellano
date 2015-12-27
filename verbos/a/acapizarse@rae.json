@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acapizarse",
+	"word" : "acapizarse",
+	"infinitivo" : "acapizarse",
+	"participio" : [ "acapizado" ],
+	"gerundio" : [ "acapizándome", "acapizándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me acapizo" ],
+			[ "te acapizas", "te acapizás" ],
+			[ "se acapiza" ],
+			[ "nos acapizamos" ],
+			[ "os acapizáis", "se acapizan" ],
+			[ "se acapizan" ]
+		],
+		"4" : [
+			[ "me acapicé" ],
+			[ "te acapizaste" ],
+			[ "se acapizó" ],
+			[ "nos acapizamos" ],
+			[ "os acapizasteis", "se acapizaron" ],
+			[ "se acapizaron" ]
+		],
+		"5" : [
+			[ "me acapizaba" ],
+			[ "te acapizabas" ],
+			[ "se acapizaba" ],
+			[ "nos acapizábamos" ],
+			[ "os acapizabais", "se acapizaban" ],
+			[ "se acapizaban" ]
+		],
+		"6" : [
+			[ "me acapizaría" ],
+			[ "te acapizarías" ],
+			[ "se acapizaría" ],
+			[ "nos acapizaríamos" ],
+			[ "os acapizaríais", "se acapizarían" ],
+			[ "se acapizarían" ]
+		],
+		"7" : [
+			[ "me acapizaré" ],
+			[ "te acapizarás" ],
+			[ "se acapizará" ],
+			[ "nos acapizaremos" ],
+			[ "os acapizaréis", "se acapizarán" ],
+			[ "se acapizarán" ]
+		],
+		"8" : [
+			[ "me acapice" ],
+			[ "te acapices" ],
+			[ "se acapice" ],
+			[ "nos acapicemos" ],
+			[ "os acapicéis", "se acapicen" ],
+			[ "se acapicen" ]
+		],
+		"9" : [
+			[ "me acapizara" ],
+			[ "te acapizaras" ],
+			[ "se acapizara" ],
+			[ "nos acapizáramos" ],
+			[ "os acapizarais", "se acapizaran" ],
+			[ "se acapizaran" ]
+		],
+		"10" : [
+			[ "me acapizase" ],
+			[ "te acapizases" ],
+			[ "se acapizase" ],
+			[ "nos acapizásemos" ],
+			[ "os acapizaseis", "se acapizasen" ],
+			[ "se acapizasen" ]
+		],
+		"11" : [
+			[ "me acapizare" ],
+			[ "te acapizares" ],
+			[ "se acapizare" ],
+			[ "nos acapizáremos" ],
+			[ "os acapizareis", "se acapizaren" ],
+			[ "se acapizaren" ]
+		],
+		"12" : {
+			"1" : [ "acapízate" ],
+			"2" : [ "acapice" ],
+			"3" : [ "acapicemos" ],
+			"4" : [ "acapizaos" ],
+			"5" : [ "acapícense" ]
+		}
+	}
+}

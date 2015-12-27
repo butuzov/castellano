@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desocupar",
+	"word" : "desocupar",
+	"infinitivo" : "desocupar",
+	"participio" : [ "desocupado" ],
+	"gerundio" : [ "desocupando" ],
+	"tenses" : {
+		"3" : [
+			[ "desocupo" ],
+			[ "desocupas", "desocupás" ],
+			[ "desocupa" ],
+			[ "desocupamos" ],
+			[ "desocupáis", "desocupan" ],
+			[ "desocupan" ]
+		],
+		"4" : [
+			[ "desocupé" ],
+			[ "desocupaste" ],
+			[ "desocupó" ],
+			[ "desocupamos" ],
+			[ "desocupasteis", "desocuparon" ],
+			[ "desocuparon" ]
+		],
+		"5" : [
+			[ "desocupaba" ],
+			[ "desocupabas" ],
+			[ "desocupaba" ],
+			[ "desocupábamos" ],
+			[ "desocupabais", "desocupaban" ],
+			[ "desocupaban" ]
+		],
+		"6" : [
+			[ "desocuparía" ],
+			[ "desocuparías" ],
+			[ "desocuparía" ],
+			[ "desocuparíamos" ],
+			[ "desocuparíais", "desocuparían" ],
+			[ "desocuparían" ]
+		],
+		"7" : [
+			[ "desocuparé" ],
+			[ "desocuparás" ],
+			[ "desocupará" ],
+			[ "desocuparemos" ],
+			[ "desocuparéis", "desocuparán" ],
+			[ "desocuparán" ]
+		],
+		"8" : [
+			[ "desocupe" ],
+			[ "desocupes" ],
+			[ "desocupe" ],
+			[ "desocupemos" ],
+			[ "desocupéis", "desocupen" ],
+			[ "desocupen" ]
+		],
+		"9" : [
+			[ "desocupara" ],
+			[ "desocuparas" ],
+			[ "desocupara" ],
+			[ "desocupáramos" ],
+			[ "desocuparais", "desocuparan" ],
+			[ "desocuparan" ]
+		],
+		"10" : [
+			[ "desocupase" ],
+			[ "desocupases" ],
+			[ "desocupase" ],
+			[ "desocupásemos" ],
+			[ "desocupaseis", "desocupasen" ],
+			[ "desocupasen" ]
+		],
+		"11" : [
+			[ "desocupare" ],
+			[ "desocupares" ],
+			[ "desocupare" ],
+			[ "desocupáremos" ],
+			[ "desocupareis", "desocuparen" ],
+			[ "desocuparen" ]
+		],
+		"12" : {
+			"1" : [ "desocupa" ],
+			"2" : [ "desocupe" ],
+			"3" : [ "desocupemos" ],
+			"4" : [ "desocupad" ],
+			"5" : [ "desocupen" ]
+		}
+	}
+}

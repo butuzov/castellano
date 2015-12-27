@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entrelazar",
+	"word" : "entrelazar",
+	"infinitivo" : "entrelazar",
+	"participio" : [ "entrelazado" ],
+	"gerundio" : [ "entrelazando" ],
+	"tenses" : {
+		"3" : [
+			[ "entrelazo" ],
+			[ "entrelazas", "entrelazás" ],
+			[ "entrelaza" ],
+			[ "entrelazamos" ],
+			[ "entrelazáis", "entrelazan" ],
+			[ "entrelazan" ]
+		],
+		"4" : [
+			[ "entrelacé" ],
+			[ "entrelazaste" ],
+			[ "entrelazó" ],
+			[ "entrelazamos" ],
+			[ "entrelazasteis", "entrelazaron" ],
+			[ "entrelazaron" ]
+		],
+		"5" : [
+			[ "entrelazaba" ],
+			[ "entrelazabas" ],
+			[ "entrelazaba" ],
+			[ "entrelazábamos" ],
+			[ "entrelazabais", "entrelazaban" ],
+			[ "entrelazaban" ]
+		],
+		"6" : [
+			[ "entrelazaría" ],
+			[ "entrelazarías" ],
+			[ "entrelazaría" ],
+			[ "entrelazaríamos" ],
+			[ "entrelazaríais", "entrelazarían" ],
+			[ "entrelazarían" ]
+		],
+		"7" : [
+			[ "entrelazaré" ],
+			[ "entrelazarás" ],
+			[ "entrelazará" ],
+			[ "entrelazaremos" ],
+			[ "entrelazaréis", "entrelazarán" ],
+			[ "entrelazarán" ]
+		],
+		"8" : [
+			[ "entrelace" ],
+			[ "entrelaces" ],
+			[ "entrelace" ],
+			[ "entrelacemos" ],
+			[ "entrelacéis", "entrelacen" ],
+			[ "entrelacen" ]
+		],
+		"9" : [
+			[ "entrelazara" ],
+			[ "entrelazaras" ],
+			[ "entrelazara" ],
+			[ "entrelazáramos" ],
+			[ "entrelazarais", "entrelazaran" ],
+			[ "entrelazaran" ]
+		],
+		"10" : [
+			[ "entrelazase" ],
+			[ "entrelazases" ],
+			[ "entrelazase" ],
+			[ "entrelazásemos" ],
+			[ "entrelazaseis", "entrelazasen" ],
+			[ "entrelazasen" ]
+		],
+		"11" : [
+			[ "entrelazare" ],
+			[ "entrelazares" ],
+			[ "entrelazare" ],
+			[ "entrelazáremos" ],
+			[ "entrelazareis", "entrelazaren" ],
+			[ "entrelazaren" ]
+		],
+		"12" : {
+			"1" : [ "entrelaza" ],
+			"2" : [ "entrelace" ],
+			"3" : [ "entrelacemos" ],
+			"4" : [ "entrelazad" ],
+			"5" : [ "entrelacen" ]
+		}
+	}
+}

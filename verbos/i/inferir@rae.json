@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inferir",
+	"word" : "inferir",
+	"infinitivo" : "inferir",
+	"participio" : [ "inferido" ],
+	"gerundio" : [ "infiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "infiero" ],
+			[ "infieres", "inferís" ],
+			[ "infiere" ],
+			[ "inferimos" ],
+			[ "inferís", "infieren" ],
+			[ "infieren" ]
+		],
+		"4" : [
+			[ "inferí" ],
+			[ "inferiste" ],
+			[ "infirió" ],
+			[ "inferimos" ],
+			[ "inferisteis", "infirieron" ],
+			[ "infirieron" ]
+		],
+		"5" : [
+			[ "infería" ],
+			[ "inferías" ],
+			[ "infería" ],
+			[ "inferíamos" ],
+			[ "inferíais", "inferían" ],
+			[ "inferían" ]
+		],
+		"6" : [
+			[ "inferiría" ],
+			[ "inferirías" ],
+			[ "inferiría" ],
+			[ "inferiríamos" ],
+			[ "inferiríais", "inferirían" ],
+			[ "inferirían" ]
+		],
+		"7" : [
+			[ "inferiré" ],
+			[ "inferirás" ],
+			[ "inferirá" ],
+			[ "inferiremos" ],
+			[ "inferiréis", "inferirán" ],
+			[ "inferirán" ]
+		],
+		"8" : [
+			[ "infiera" ],
+			[ "infieras" ],
+			[ "infiera" ],
+			[ "infiramos" ],
+			[ "infiráis", "infieran" ],
+			[ "infieran" ]
+		],
+		"9" : [
+			[ "infiriera" ],
+			[ "infirieras" ],
+			[ "infiriera" ],
+			[ "infiriéramos" ],
+			[ "infirierais", "infirieran" ],
+			[ "infirieran" ]
+		],
+		"10" : [
+			[ "infiriese" ],
+			[ "infirieses" ],
+			[ "infiriese" ],
+			[ "infiriésemos" ],
+			[ "infirieseis", "infiriesen" ],
+			[ "infiriesen" ]
+		],
+		"11" : [
+			[ "infiriere" ],
+			[ "infirieres" ],
+			[ "infiriere" ],
+			[ "infiriéremos" ],
+			[ "infiriereis", "infirieren" ],
+			[ "infirieren" ]
+		],
+		"12" : {
+			"1" : [ "infiere" ],
+			"2" : [ "infiera" ],
+			"3" : [ "infiramos" ],
+			"4" : [ "inferid" ],
+			"5" : [ "infieran" ]
+		}
+	}
+}

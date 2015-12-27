@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ralear",
+	"word" : "ralear",
+	"infinitivo" : "ralear",
+	"participio" : [ "raleado" ],
+	"gerundio" : [ "raleando" ],
+	"tenses" : {
+		"3" : [
+			[ "raleo" ],
+			[ "raleas", "raleás" ],
+			[ "ralea" ],
+			[ "raleamos" ],
+			[ "raleáis", "ralean" ],
+			[ "ralean" ]
+		],
+		"4" : [
+			[ "raleé" ],
+			[ "raleaste" ],
+			[ "raleó" ],
+			[ "raleamos" ],
+			[ "raleasteis", "ralearon" ],
+			[ "ralearon" ]
+		],
+		"5" : [
+			[ "raleaba" ],
+			[ "raleabas" ],
+			[ "raleaba" ],
+			[ "raleábamos" ],
+			[ "raleabais", "raleaban" ],
+			[ "raleaban" ]
+		],
+		"6" : [
+			[ "ralearía" ],
+			[ "ralearías" ],
+			[ "ralearía" ],
+			[ "ralearíamos" ],
+			[ "ralearíais", "ralearían" ],
+			[ "ralearían" ]
+		],
+		"7" : [
+			[ "ralearé" ],
+			[ "ralearás" ],
+			[ "raleará" ],
+			[ "ralearemos" ],
+			[ "ralearéis", "ralearán" ],
+			[ "ralearán" ]
+		],
+		"8" : [
+			[ "ralee" ],
+			[ "ralees" ],
+			[ "ralee" ],
+			[ "raleemos" ],
+			[ "raleéis", "raleen" ],
+			[ "raleen" ]
+		],
+		"9" : [
+			[ "raleara" ],
+			[ "ralearas" ],
+			[ "raleara" ],
+			[ "raleáramos" ],
+			[ "ralearais", "ralearan" ],
+			[ "ralearan" ]
+		],
+		"10" : [
+			[ "ralease" ],
+			[ "raleases" ],
+			[ "ralease" ],
+			[ "raleásemos" ],
+			[ "raleaseis", "raleasen" ],
+			[ "raleasen" ]
+		],
+		"11" : [
+			[ "raleare" ],
+			[ "raleares" ],
+			[ "raleare" ],
+			[ "raleáremos" ],
+			[ "raleareis", "ralearen" ],
+			[ "ralearen" ]
+		],
+		"12" : {
+			"1" : [ "ralea" ],
+			"2" : [ "ralee" ],
+			"3" : [ "raleemos" ],
+			"4" : [ "ralead" ],
+			"5" : [ "raleen" ]
+		}
+	}
+}

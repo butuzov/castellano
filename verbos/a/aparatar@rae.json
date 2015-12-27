@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aparatar",
+	"word" : "aparatar",
+	"infinitivo" : "aparatar",
+	"participio" : [ "aparatado" ],
+	"gerundio" : [ "aparatando" ],
+	"tenses" : {
+		"3" : [
+			[ "aparato" ],
+			[ "aparatas", "aparatás" ],
+			[ "aparata" ],
+			[ "aparatamos" ],
+			[ "aparatáis", "aparatan" ],
+			[ "aparatan" ]
+		],
+		"4" : [
+			[ "aparaté" ],
+			[ "aparataste" ],
+			[ "aparató" ],
+			[ "aparatamos" ],
+			[ "aparatasteis", "aparataron" ],
+			[ "aparataron" ]
+		],
+		"5" : [
+			[ "aparataba" ],
+			[ "aparatabas" ],
+			[ "aparataba" ],
+			[ "aparatábamos" ],
+			[ "aparatabais", "aparataban" ],
+			[ "aparataban" ]
+		],
+		"6" : [
+			[ "aparataría" ],
+			[ "aparatarías" ],
+			[ "aparataría" ],
+			[ "aparataríamos" ],
+			[ "aparataríais", "aparatarían" ],
+			[ "aparatarían" ]
+		],
+		"7" : [
+			[ "aparataré" ],
+			[ "aparatarás" ],
+			[ "aparatará" ],
+			[ "aparataremos" ],
+			[ "aparataréis", "aparatarán" ],
+			[ "aparatarán" ]
+		],
+		"8" : [
+			[ "aparate" ],
+			[ "aparates" ],
+			[ "aparate" ],
+			[ "aparatemos" ],
+			[ "aparatéis", "aparaten" ],
+			[ "aparaten" ]
+		],
+		"9" : [
+			[ "aparatara" ],
+			[ "aparataras" ],
+			[ "aparatara" ],
+			[ "aparatáramos" ],
+			[ "aparatarais", "aparataran" ],
+			[ "aparataran" ]
+		],
+		"10" : [
+			[ "aparatase" ],
+			[ "aparatases" ],
+			[ "aparatase" ],
+			[ "aparatásemos" ],
+			[ "aparataseis", "aparatasen" ],
+			[ "aparatasen" ]
+		],
+		"11" : [
+			[ "aparatare" ],
+			[ "aparatares" ],
+			[ "aparatare" ],
+			[ "aparatáremos" ],
+			[ "aparatareis", "aparataren" ],
+			[ "aparataren" ]
+		],
+		"12" : {
+			"1" : [ "aparata" ],
+			"2" : [ "aparate" ],
+			"3" : [ "aparatemos" ],
+			"4" : [ "aparatad" ],
+			"5" : [ "aparaten" ]
+		}
+	}
+}

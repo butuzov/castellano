@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=medrar",
+	"word" : "medrar",
+	"infinitivo" : "medrar",
+	"participio" : [ "medrado" ],
+	"gerundio" : [ "medrando" ],
+	"tenses" : {
+		"3" : [
+			[ "medro" ],
+			[ "medras", "medrás" ],
+			[ "medra" ],
+			[ "medramos" ],
+			[ "medráis", "medran" ],
+			[ "medran" ]
+		],
+		"4" : [
+			[ "medré" ],
+			[ "medraste" ],
+			[ "medró" ],
+			[ "medramos" ],
+			[ "medrasteis", "medraron" ],
+			[ "medraron" ]
+		],
+		"5" : [
+			[ "medraba" ],
+			[ "medrabas" ],
+			[ "medraba" ],
+			[ "medrábamos" ],
+			[ "medrabais", "medraban" ],
+			[ "medraban" ]
+		],
+		"6" : [
+			[ "medraría" ],
+			[ "medrarías" ],
+			[ "medraría" ],
+			[ "medraríamos" ],
+			[ "medraríais", "medrarían" ],
+			[ "medrarían" ]
+		],
+		"7" : [
+			[ "medraré" ],
+			[ "medrarás" ],
+			[ "medrará" ],
+			[ "medraremos" ],
+			[ "medraréis", "medrarán" ],
+			[ "medrarán" ]
+		],
+		"8" : [
+			[ "medre" ],
+			[ "medres" ],
+			[ "medre" ],
+			[ "medremos" ],
+			[ "medréis", "medren" ],
+			[ "medren" ]
+		],
+		"9" : [
+			[ "medrara" ],
+			[ "medraras" ],
+			[ "medrara" ],
+			[ "medráramos" ],
+			[ "medrarais", "medraran" ],
+			[ "medraran" ]
+		],
+		"10" : [
+			[ "medrase" ],
+			[ "medrases" ],
+			[ "medrase" ],
+			[ "medrásemos" ],
+			[ "medraseis", "medrasen" ],
+			[ "medrasen" ]
+		],
+		"11" : [
+			[ "medrare" ],
+			[ "medrares" ],
+			[ "medrare" ],
+			[ "medráremos" ],
+			[ "medrareis", "medraren" ],
+			[ "medraren" ]
+		],
+		"12" : {
+			"1" : [ "medra" ],
+			"2" : [ "medre" ],
+			"3" : [ "medremos" ],
+			"4" : [ "medrad" ],
+			"5" : [ "medren" ]
+		}
+	}
+}

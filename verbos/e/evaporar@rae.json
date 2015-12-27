@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=evaporar",
+	"word" : "evaporar",
+	"infinitivo" : "evaporar",
+	"participio" : [ "evaporado" ],
+	"gerundio" : [ "evaporando" ],
+	"tenses" : {
+		"3" : [
+			[ "evaporo" ],
+			[ "evaporas", "evaporás" ],
+			[ "evapora" ],
+			[ "evaporamos" ],
+			[ "evaporáis", "evaporan" ],
+			[ "evaporan" ]
+		],
+		"4" : [
+			[ "evaporé" ],
+			[ "evaporaste" ],
+			[ "evaporó" ],
+			[ "evaporamos" ],
+			[ "evaporasteis", "evaporaron" ],
+			[ "evaporaron" ]
+		],
+		"5" : [
+			[ "evaporaba" ],
+			[ "evaporabas" ],
+			[ "evaporaba" ],
+			[ "evaporábamos" ],
+			[ "evaporabais", "evaporaban" ],
+			[ "evaporaban" ]
+		],
+		"6" : [
+			[ "evaporaría" ],
+			[ "evaporarías" ],
+			[ "evaporaría" ],
+			[ "evaporaríamos" ],
+			[ "evaporaríais", "evaporarían" ],
+			[ "evaporarían" ]
+		],
+		"7" : [
+			[ "evaporaré" ],
+			[ "evaporarás" ],
+			[ "evaporará" ],
+			[ "evaporaremos" ],
+			[ "evaporaréis", "evaporarán" ],
+			[ "evaporarán" ]
+		],
+		"8" : [
+			[ "evapore" ],
+			[ "evapores" ],
+			[ "evapore" ],
+			[ "evaporemos" ],
+			[ "evaporéis", "evaporen" ],
+			[ "evaporen" ]
+		],
+		"9" : [
+			[ "evaporara" ],
+			[ "evaporaras" ],
+			[ "evaporara" ],
+			[ "evaporáramos" ],
+			[ "evaporarais", "evaporaran" ],
+			[ "evaporaran" ]
+		],
+		"10" : [
+			[ "evaporase" ],
+			[ "evaporases" ],
+			[ "evaporase" ],
+			[ "evaporásemos" ],
+			[ "evaporaseis", "evaporasen" ],
+			[ "evaporasen" ]
+		],
+		"11" : [
+			[ "evaporare" ],
+			[ "evaporares" ],
+			[ "evaporare" ],
+			[ "evaporáremos" ],
+			[ "evaporareis", "evaporaren" ],
+			[ "evaporaren" ]
+		],
+		"12" : {
+			"1" : [ "evapora" ],
+			"2" : [ "evapore" ],
+			"3" : [ "evaporemos" ],
+			"4" : [ "evaporad" ],
+			"5" : [ "evaporen" ]
+		}
+	}
+}

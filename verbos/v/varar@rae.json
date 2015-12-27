@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=varar",
+	"word" : "varar",
+	"infinitivo" : "varar",
+	"participio" : [ "varado" ],
+	"gerundio" : [ "varando" ],
+	"tenses" : {
+		"3" : [
+			[ "varo" ],
+			[ "varas", "varás" ],
+			[ "vara" ],
+			[ "varamos" ],
+			[ "varáis", "varan" ],
+			[ "varan" ]
+		],
+		"4" : [
+			[ "varé" ],
+			[ "varaste" ],
+			[ "varó" ],
+			[ "varamos" ],
+			[ "varasteis", "vararon" ],
+			[ "vararon" ]
+		],
+		"5" : [
+			[ "varaba" ],
+			[ "varabas" ],
+			[ "varaba" ],
+			[ "varábamos" ],
+			[ "varabais", "varaban" ],
+			[ "varaban" ]
+		],
+		"6" : [
+			[ "vararía" ],
+			[ "vararías" ],
+			[ "vararía" ],
+			[ "vararíamos" ],
+			[ "vararíais", "vararían" ],
+			[ "vararían" ]
+		],
+		"7" : [
+			[ "vararé" ],
+			[ "vararás" ],
+			[ "varará" ],
+			[ "vararemos" ],
+			[ "vararéis", "vararán" ],
+			[ "vararán" ]
+		],
+		"8" : [
+			[ "vare" ],
+			[ "vares" ],
+			[ "vare" ],
+			[ "varemos" ],
+			[ "varéis", "varen" ],
+			[ "varen" ]
+		],
+		"9" : [
+			[ "varara" ],
+			[ "vararas" ],
+			[ "varara" ],
+			[ "varáramos" ],
+			[ "vararais", "vararan" ],
+			[ "vararan" ]
+		],
+		"10" : [
+			[ "varase" ],
+			[ "varases" ],
+			[ "varase" ],
+			[ "varásemos" ],
+			[ "varaseis", "varasen" ],
+			[ "varasen" ]
+		],
+		"11" : [
+			[ "varare" ],
+			[ "varares" ],
+			[ "varare" ],
+			[ "varáremos" ],
+			[ "varareis", "vararen" ],
+			[ "vararen" ]
+		],
+		"12" : {
+			"1" : [ "vara" ],
+			"2" : [ "vare" ],
+			"3" : [ "varemos" ],
+			"4" : [ "varad" ],
+			"5" : [ "varen" ]
+		}
+	}
+}

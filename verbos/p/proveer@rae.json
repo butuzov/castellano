@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=proveer",
+	"word" : "proveer",
+	"infinitivo" : "proveer",
+	"participio" : [ "proveído", "provisto" ],
+	"gerundio" : [ "proveyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "proveo" ],
+			[ "provees", "proveés" ],
+			[ "provee" ],
+			[ "proveemos" ],
+			[ "proveéis", "proveen" ],
+			[ "proveen" ]
+		],
+		"4" : [
+			[ "proveí" ],
+			[ "proveíste" ],
+			[ "proveyó" ],
+			[ "proveímos" ],
+			[ "proveísteis", "proveyeron" ],
+			[ "proveyeron" ]
+		],
+		"5" : [
+			[ "proveía" ],
+			[ "proveías" ],
+			[ "proveía" ],
+			[ "proveíamos" ],
+			[ "proveíais", "proveían" ],
+			[ "proveían" ]
+		],
+		"6" : [
+			[ "proveería" ],
+			[ "proveerías" ],
+			[ "proveería" ],
+			[ "proveeríamos" ],
+			[ "proveeríais", "proveerían" ],
+			[ "proveerían" ]
+		],
+		"7" : [
+			[ "proveeré" ],
+			[ "proveerás" ],
+			[ "proveerá" ],
+			[ "proveeremos" ],
+			[ "proveeréis", "proveerán" ],
+			[ "proveerán" ]
+		],
+		"8" : [
+			[ "provea" ],
+			[ "proveas" ],
+			[ "provea" ],
+			[ "proveamos" ],
+			[ "proveáis", "provean" ],
+			[ "provean" ]
+		],
+		"9" : [
+			[ "proveyera" ],
+			[ "proveyeras" ],
+			[ "proveyera" ],
+			[ "proveyéramos" ],
+			[ "proveyerais", "proveyeran" ],
+			[ "proveyeran" ]
+		],
+		"10" : [
+			[ "proveyese" ],
+			[ "proveyeses" ],
+			[ "proveyese" ],
+			[ "proveyésemos" ],
+			[ "proveyeseis", "proveyesen" ],
+			[ "proveyesen" ]
+		],
+		"11" : [
+			[ "proveyere" ],
+			[ "proveyeres" ],
+			[ "proveyere" ],
+			[ "proveyéremos" ],
+			[ "proveyereis", "proveyeren" ],
+			[ "proveyeren" ]
+		],
+		"12" : {
+			"1" : [ "provee" ],
+			"2" : [ "provea" ],
+			"3" : [ "proveamos" ],
+			"4" : [ "proveed" ],
+			"5" : [ "provean" ]
+		}
+	}
+}

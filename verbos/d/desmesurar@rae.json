@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmesurar",
+	"word" : "desmesurar",
+	"infinitivo" : "desmesurar",
+	"participio" : [ "desmesurado" ],
+	"gerundio" : [ "desmesurando" ],
+	"tenses" : {
+		"3" : [
+			[ "desmesuro" ],
+			[ "desmesuras", "desmesurás" ],
+			[ "desmesura" ],
+			[ "desmesuramos" ],
+			[ "desmesuráis", "desmesuran" ],
+			[ "desmesuran" ]
+		],
+		"4" : [
+			[ "desmesuré" ],
+			[ "desmesuraste" ],
+			[ "desmesuró" ],
+			[ "desmesuramos" ],
+			[ "desmesurasteis", "desmesuraron" ],
+			[ "desmesuraron" ]
+		],
+		"5" : [
+			[ "desmesuraba" ],
+			[ "desmesurabas" ],
+			[ "desmesuraba" ],
+			[ "desmesurábamos" ],
+			[ "desmesurabais", "desmesuraban" ],
+			[ "desmesuraban" ]
+		],
+		"6" : [
+			[ "desmesuraría" ],
+			[ "desmesurarías" ],
+			[ "desmesuraría" ],
+			[ "desmesuraríamos" ],
+			[ "desmesuraríais", "desmesurarían" ],
+			[ "desmesurarían" ]
+		],
+		"7" : [
+			[ "desmesuraré" ],
+			[ "desmesurarás" ],
+			[ "desmesurará" ],
+			[ "desmesuraremos" ],
+			[ "desmesuraréis", "desmesurarán" ],
+			[ "desmesurarán" ]
+		],
+		"8" : [
+			[ "desmesure" ],
+			[ "desmesures" ],
+			[ "desmesure" ],
+			[ "desmesuremos" ],
+			[ "desmesuréis", "desmesuren" ],
+			[ "desmesuren" ]
+		],
+		"9" : [
+			[ "desmesurara" ],
+			[ "desmesuraras" ],
+			[ "desmesurara" ],
+			[ "desmesuráramos" ],
+			[ "desmesurarais", "desmesuraran" ],
+			[ "desmesuraran" ]
+		],
+		"10" : [
+			[ "desmesurase" ],
+			[ "desmesurases" ],
+			[ "desmesurase" ],
+			[ "desmesurásemos" ],
+			[ "desmesuraseis", "desmesurasen" ],
+			[ "desmesurasen" ]
+		],
+		"11" : [
+			[ "desmesurare" ],
+			[ "desmesurares" ],
+			[ "desmesurare" ],
+			[ "desmesuráremos" ],
+			[ "desmesurareis", "desmesuraren" ],
+			[ "desmesuraren" ]
+		],
+		"12" : {
+			"1" : [ "desmesura" ],
+			"2" : [ "desmesure" ],
+			"3" : [ "desmesuremos" ],
+			"4" : [ "desmesurad" ],
+			"5" : [ "desmesuren" ]
+		}
+	}
+}

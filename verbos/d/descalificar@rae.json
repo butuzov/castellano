@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descalificar",
+	"word" : "descalificar",
+	"infinitivo" : "descalificar",
+	"participio" : [ "descalificado" ],
+	"gerundio" : [ "descalificando" ],
+	"tenses" : {
+		"3" : [
+			[ "descalifico" ],
+			[ "descalificas", "descalificás" ],
+			[ "descalifica" ],
+			[ "descalificamos" ],
+			[ "descalificáis", "descalifican" ],
+			[ "descalifican" ]
+		],
+		"4" : [
+			[ "descalifiqué" ],
+			[ "descalificaste" ],
+			[ "descalificó" ],
+			[ "descalificamos" ],
+			[ "descalificasteis", "descalificaron" ],
+			[ "descalificaron" ]
+		],
+		"5" : [
+			[ "descalificaba" ],
+			[ "descalificabas" ],
+			[ "descalificaba" ],
+			[ "descalificábamos" ],
+			[ "descalificabais", "descalificaban" ],
+			[ "descalificaban" ]
+		],
+		"6" : [
+			[ "descalificaría" ],
+			[ "descalificarías" ],
+			[ "descalificaría" ],
+			[ "descalificaríamos" ],
+			[ "descalificaríais", "descalificarían" ],
+			[ "descalificarían" ]
+		],
+		"7" : [
+			[ "descalificaré" ],
+			[ "descalificarás" ],
+			[ "descalificará" ],
+			[ "descalificaremos" ],
+			[ "descalificaréis", "descalificarán" ],
+			[ "descalificarán" ]
+		],
+		"8" : [
+			[ "descalifique" ],
+			[ "descalifiques" ],
+			[ "descalifique" ],
+			[ "descalifiquemos" ],
+			[ "descalifiquéis", "descalifiquen" ],
+			[ "descalifiquen" ]
+		],
+		"9" : [
+			[ "descalificara" ],
+			[ "descalificaras" ],
+			[ "descalificara" ],
+			[ "descalificáramos" ],
+			[ "descalificarais", "descalificaran" ],
+			[ "descalificaran" ]
+		],
+		"10" : [
+			[ "descalificase" ],
+			[ "descalificases" ],
+			[ "descalificase" ],
+			[ "descalificásemos" ],
+			[ "descalificaseis", "descalificasen" ],
+			[ "descalificasen" ]
+		],
+		"11" : [
+			[ "descalificare" ],
+			[ "descalificares" ],
+			[ "descalificare" ],
+			[ "descalificáremos" ],
+			[ "descalificareis", "descalificaren" ],
+			[ "descalificaren" ]
+		],
+		"12" : {
+			"1" : [ "descalifica" ],
+			"2" : [ "descalifique" ],
+			"3" : [ "descalifiquemos" ],
+			"4" : [ "descalificad" ],
+			"5" : [ "descalifiquen" ]
+		}
+	}
+}

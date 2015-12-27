@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asoldar",
+	"word" : "asoldar",
+	"infinitivo" : "asoldar",
+	"participio" : [ "asoldado" ],
+	"gerundio" : [ "asoldando" ],
+	"tenses" : {
+		"3" : [
+			[ "asoldo" ],
+			[ "asoldas", "asoldás" ],
+			[ "asolda" ],
+			[ "asoldamos" ],
+			[ "asoldáis", "asoldan" ],
+			[ "asoldan" ]
+		],
+		"4" : [
+			[ "asoldé" ],
+			[ "asoldaste" ],
+			[ "asoldó" ],
+			[ "asoldamos" ],
+			[ "asoldasteis", "asoldaron" ],
+			[ "asoldaron" ]
+		],
+		"5" : [
+			[ "asoldaba" ],
+			[ "asoldabas" ],
+			[ "asoldaba" ],
+			[ "asoldábamos" ],
+			[ "asoldabais", "asoldaban" ],
+			[ "asoldaban" ]
+		],
+		"6" : [
+			[ "asoldaría" ],
+			[ "asoldarías" ],
+			[ "asoldaría" ],
+			[ "asoldaríamos" ],
+			[ "asoldaríais", "asoldarían" ],
+			[ "asoldarían" ]
+		],
+		"7" : [
+			[ "asoldaré" ],
+			[ "asoldarás" ],
+			[ "asoldará" ],
+			[ "asoldaremos" ],
+			[ "asoldaréis", "asoldarán" ],
+			[ "asoldarán" ]
+		],
+		"8" : [
+			[ "asolde" ],
+			[ "asoldes" ],
+			[ "asolde" ],
+			[ "asoldemos" ],
+			[ "asoldéis", "asolden" ],
+			[ "asolden" ]
+		],
+		"9" : [
+			[ "asoldara" ],
+			[ "asoldaras" ],
+			[ "asoldara" ],
+			[ "asoldáramos" ],
+			[ "asoldarais", "asoldaran" ],
+			[ "asoldaran" ]
+		],
+		"10" : [
+			[ "asoldase" ],
+			[ "asoldases" ],
+			[ "asoldase" ],
+			[ "asoldásemos" ],
+			[ "asoldaseis", "asoldasen" ],
+			[ "asoldasen" ]
+		],
+		"11" : [
+			[ "asoldare" ],
+			[ "asoldares" ],
+			[ "asoldare" ],
+			[ "asoldáremos" ],
+			[ "asoldareis", "asoldaren" ],
+			[ "asoldaren" ]
+		],
+		"12" : {
+			"1" : [ "asolda" ],
+			"2" : [ "asolde" ],
+			"3" : [ "asoldemos" ],
+			"4" : [ "asoldad" ],
+			"5" : [ "asolden" ]
+		}
+	}
+}

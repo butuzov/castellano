@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=coagular",
+	"word" : "coagular",
+	"infinitivo" : "coagular",
+	"participio" : [ "coagulado" ],
+	"gerundio" : [ "coagulando" ],
+	"tenses" : {
+		"3" : [
+			[ "coagulo" ],
+			[ "coagulas", "coagulás" ],
+			[ "coagula" ],
+			[ "coagulamos" ],
+			[ "coaguláis", "coagulan" ],
+			[ "coagulan" ]
+		],
+		"4" : [
+			[ "coagulé" ],
+			[ "coagulaste" ],
+			[ "coaguló" ],
+			[ "coagulamos" ],
+			[ "coagulasteis", "coagularon" ],
+			[ "coagularon" ]
+		],
+		"5" : [
+			[ "coagulaba" ],
+			[ "coagulabas" ],
+			[ "coagulaba" ],
+			[ "coagulábamos" ],
+			[ "coagulabais", "coagulaban" ],
+			[ "coagulaban" ]
+		],
+		"6" : [
+			[ "coagularía" ],
+			[ "coagularías" ],
+			[ "coagularía" ],
+			[ "coagularíamos" ],
+			[ "coagularíais", "coagularían" ],
+			[ "coagularían" ]
+		],
+		"7" : [
+			[ "coagularé" ],
+			[ "coagularás" ],
+			[ "coagulará" ],
+			[ "coagularemos" ],
+			[ "coagularéis", "coagularán" ],
+			[ "coagularán" ]
+		],
+		"8" : [
+			[ "coagule" ],
+			[ "coagules" ],
+			[ "coagule" ],
+			[ "coagulemos" ],
+			[ "coaguléis", "coagulen" ],
+			[ "coagulen" ]
+		],
+		"9" : [
+			[ "coagulara" ],
+			[ "coagularas" ],
+			[ "coagulara" ],
+			[ "coaguláramos" ],
+			[ "coagularais", "coagularan" ],
+			[ "coagularan" ]
+		],
+		"10" : [
+			[ "coagulase" ],
+			[ "coagulases" ],
+			[ "coagulase" ],
+			[ "coagulásemos" ],
+			[ "coagulaseis", "coagulasen" ],
+			[ "coagulasen" ]
+		],
+		"11" : [
+			[ "coagulare" ],
+			[ "coagulares" ],
+			[ "coagulare" ],
+			[ "coaguláremos" ],
+			[ "coagulareis", "coagularen" ],
+			[ "coagularen" ]
+		],
+		"12" : {
+			"1" : [ "coagula" ],
+			"2" : [ "coagule" ],
+			"3" : [ "coagulemos" ],
+			"4" : [ "coagulad" ],
+			"5" : [ "coagulen" ]
+		}
+	}
+}

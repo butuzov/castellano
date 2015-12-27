@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=engranar",
+	"word" : "engranar",
+	"infinitivo" : "engranar",
+	"participio" : [ "engranado" ],
+	"gerundio" : [ "engranando" ],
+	"tenses" : {
+		"3" : [
+			[ "engrano" ],
+			[ "engranas", "engranás" ],
+			[ "engrana" ],
+			[ "engranamos" ],
+			[ "engranáis", "engranan" ],
+			[ "engranan" ]
+		],
+		"4" : [
+			[ "engrané" ],
+			[ "engranaste" ],
+			[ "engranó" ],
+			[ "engranamos" ],
+			[ "engranasteis", "engranaron" ],
+			[ "engranaron" ]
+		],
+		"5" : [
+			[ "engranaba" ],
+			[ "engranabas" ],
+			[ "engranaba" ],
+			[ "engranábamos" ],
+			[ "engranabais", "engranaban" ],
+			[ "engranaban" ]
+		],
+		"6" : [
+			[ "engranaría" ],
+			[ "engranarías" ],
+			[ "engranaría" ],
+			[ "engranaríamos" ],
+			[ "engranaríais", "engranarían" ],
+			[ "engranarían" ]
+		],
+		"7" : [
+			[ "engranaré" ],
+			[ "engranarás" ],
+			[ "engranará" ],
+			[ "engranaremos" ],
+			[ "engranaréis", "engranarán" ],
+			[ "engranarán" ]
+		],
+		"8" : [
+			[ "engrane" ],
+			[ "engranes" ],
+			[ "engrane" ],
+			[ "engranemos" ],
+			[ "engranéis", "engranen" ],
+			[ "engranen" ]
+		],
+		"9" : [
+			[ "engranara" ],
+			[ "engranaras" ],
+			[ "engranara" ],
+			[ "engranáramos" ],
+			[ "engranarais", "engranaran" ],
+			[ "engranaran" ]
+		],
+		"10" : [
+			[ "engranase" ],
+			[ "engranases" ],
+			[ "engranase" ],
+			[ "engranásemos" ],
+			[ "engranaseis", "engranasen" ],
+			[ "engranasen" ]
+		],
+		"11" : [
+			[ "engranare" ],
+			[ "engranares" ],
+			[ "engranare" ],
+			[ "engranáremos" ],
+			[ "engranareis", "engranaren" ],
+			[ "engranaren" ]
+		],
+		"12" : {
+			"1" : [ "engrana" ],
+			"2" : [ "engrane" ],
+			"3" : [ "engranemos" ],
+			"4" : [ "engranad" ],
+			"5" : [ "engranen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=singar",
+	"word" : "singar",
+	"infinitivo" : "singar",
+	"participio" : [ "singado" ],
+	"gerundio" : [ "singando" ],
+	"tenses" : {
+		"3" : [
+			[ "singo" ],
+			[ "singas", "singás" ],
+			[ "singa" ],
+			[ "singamos" ],
+			[ "singáis", "singan" ],
+			[ "singan" ]
+		],
+		"4" : [
+			[ "singué" ],
+			[ "singaste" ],
+			[ "singó" ],
+			[ "singamos" ],
+			[ "singasteis", "singaron" ],
+			[ "singaron" ]
+		],
+		"5" : [
+			[ "singaba" ],
+			[ "singabas" ],
+			[ "singaba" ],
+			[ "singábamos" ],
+			[ "singabais", "singaban" ],
+			[ "singaban" ]
+		],
+		"6" : [
+			[ "singaría" ],
+			[ "singarías" ],
+			[ "singaría" ],
+			[ "singaríamos" ],
+			[ "singaríais", "singarían" ],
+			[ "singarían" ]
+		],
+		"7" : [
+			[ "singaré" ],
+			[ "singarás" ],
+			[ "singará" ],
+			[ "singaremos" ],
+			[ "singaréis", "singarán" ],
+			[ "singarán" ]
+		],
+		"8" : [
+			[ "singue" ],
+			[ "singues" ],
+			[ "singue" ],
+			[ "singuemos" ],
+			[ "singuéis", "singuen" ],
+			[ "singuen" ]
+		],
+		"9" : [
+			[ "singara" ],
+			[ "singaras" ],
+			[ "singara" ],
+			[ "singáramos" ],
+			[ "singarais", "singaran" ],
+			[ "singaran" ]
+		],
+		"10" : [
+			[ "singase" ],
+			[ "singases" ],
+			[ "singase" ],
+			[ "singásemos" ],
+			[ "singaseis", "singasen" ],
+			[ "singasen" ]
+		],
+		"11" : [
+			[ "singare" ],
+			[ "singares" ],
+			[ "singare" ],
+			[ "singáremos" ],
+			[ "singareis", "singaren" ],
+			[ "singaren" ]
+		],
+		"12" : {
+			"1" : [ "singa" ],
+			"2" : [ "singue" ],
+			"3" : [ "singuemos" ],
+			"4" : [ "singad" ],
+			"5" : [ "singuen" ]
+		}
+	}
+}

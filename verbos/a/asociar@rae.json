@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asociar",
+	"word" : "asociar",
+	"infinitivo" : "asociar",
+	"participio" : [ "asociado" ],
+	"gerundio" : [ "asociando" ],
+	"tenses" : {
+		"3" : [
+			[ "asocio" ],
+			[ "asocias", "asociás" ],
+			[ "asocia" ],
+			[ "asociamos" ],
+			[ "asociáis", "asocian" ],
+			[ "asocian" ]
+		],
+		"4" : [
+			[ "asocié" ],
+			[ "asociaste" ],
+			[ "asoció" ],
+			[ "asociamos" ],
+			[ "asociasteis", "asociaron" ],
+			[ "asociaron" ]
+		],
+		"5" : [
+			[ "asociaba" ],
+			[ "asociabas" ],
+			[ "asociaba" ],
+			[ "asociábamos" ],
+			[ "asociabais", "asociaban" ],
+			[ "asociaban" ]
+		],
+		"6" : [
+			[ "asociaría" ],
+			[ "asociarías" ],
+			[ "asociaría" ],
+			[ "asociaríamos" ],
+			[ "asociaríais", "asociarían" ],
+			[ "asociarían" ]
+		],
+		"7" : [
+			[ "asociaré" ],
+			[ "asociarás" ],
+			[ "asociará" ],
+			[ "asociaremos" ],
+			[ "asociaréis", "asociarán" ],
+			[ "asociarán" ]
+		],
+		"8" : [
+			[ "asocie" ],
+			[ "asocies" ],
+			[ "asocie" ],
+			[ "asociemos" ],
+			[ "asociéis", "asocien" ],
+			[ "asocien" ]
+		],
+		"9" : [
+			[ "asociara" ],
+			[ "asociaras" ],
+			[ "asociara" ],
+			[ "asociáramos" ],
+			[ "asociarais", "asociaran" ],
+			[ "asociaran" ]
+		],
+		"10" : [
+			[ "asociase" ],
+			[ "asociases" ],
+			[ "asociase" ],
+			[ "asociásemos" ],
+			[ "asociaseis", "asociasen" ],
+			[ "asociasen" ]
+		],
+		"11" : [
+			[ "asociare" ],
+			[ "asociares" ],
+			[ "asociare" ],
+			[ "asociáremos" ],
+			[ "asociareis", "asociaren" ],
+			[ "asociaren" ]
+		],
+		"12" : {
+			"1" : [ "asocia" ],
+			"2" : [ "asocie" ],
+			"3" : [ "asociemos" ],
+			"4" : [ "asociad" ],
+			"5" : [ "asocien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alabear",
+	"word" : "alabear",
+	"infinitivo" : "alabear",
+	"participio" : [ "alabeado" ],
+	"gerundio" : [ "alabeando" ],
+	"tenses" : {
+		"3" : [
+			[ "alabeo" ],
+			[ "alabeas", "alabeás" ],
+			[ "alabea" ],
+			[ "alabeamos" ],
+			[ "alabeáis", "alabean" ],
+			[ "alabean" ]
+		],
+		"4" : [
+			[ "alabeé" ],
+			[ "alabeaste" ],
+			[ "alabeó" ],
+			[ "alabeamos" ],
+			[ "alabeasteis", "alabearon" ],
+			[ "alabearon" ]
+		],
+		"5" : [
+			[ "alabeaba" ],
+			[ "alabeabas" ],
+			[ "alabeaba" ],
+			[ "alabeábamos" ],
+			[ "alabeabais", "alabeaban" ],
+			[ "alabeaban" ]
+		],
+		"6" : [
+			[ "alabearía" ],
+			[ "alabearías" ],
+			[ "alabearía" ],
+			[ "alabearíamos" ],
+			[ "alabearíais", "alabearían" ],
+			[ "alabearían" ]
+		],
+		"7" : [
+			[ "alabearé" ],
+			[ "alabearás" ],
+			[ "alabeará" ],
+			[ "alabearemos" ],
+			[ "alabearéis", "alabearán" ],
+			[ "alabearán" ]
+		],
+		"8" : [
+			[ "alabee" ],
+			[ "alabees" ],
+			[ "alabee" ],
+			[ "alabeemos" ],
+			[ "alabeéis", "alabeen" ],
+			[ "alabeen" ]
+		],
+		"9" : [
+			[ "alabeara" ],
+			[ "alabearas" ],
+			[ "alabeara" ],
+			[ "alabeáramos" ],
+			[ "alabearais", "alabearan" ],
+			[ "alabearan" ]
+		],
+		"10" : [
+			[ "alabease" ],
+			[ "alabeases" ],
+			[ "alabease" ],
+			[ "alabeásemos" ],
+			[ "alabeaseis", "alabeasen" ],
+			[ "alabeasen" ]
+		],
+		"11" : [
+			[ "alabeare" ],
+			[ "alabeares" ],
+			[ "alabeare" ],
+			[ "alabeáremos" ],
+			[ "alabeareis", "alabearen" ],
+			[ "alabearen" ]
+		],
+		"12" : {
+			"1" : [ "alabea" ],
+			"2" : [ "alabee" ],
+			"3" : [ "alabeemos" ],
+			"4" : [ "alabead" ],
+			"5" : [ "alabeen" ]
+		}
+	}
+}

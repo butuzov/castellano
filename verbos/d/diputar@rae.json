@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=diputar",
+	"word" : "diputar",
+	"infinitivo" : "diputar",
+	"participio" : [ "diputado" ],
+	"gerundio" : [ "diputando" ],
+	"tenses" : {
+		"3" : [
+			[ "diputo" ],
+			[ "diputas", "diputás" ],
+			[ "diputa" ],
+			[ "diputamos" ],
+			[ "diputáis", "diputan" ],
+			[ "diputan" ]
+		],
+		"4" : [
+			[ "diputé" ],
+			[ "diputaste" ],
+			[ "diputó" ],
+			[ "diputamos" ],
+			[ "diputasteis", "diputaron" ],
+			[ "diputaron" ]
+		],
+		"5" : [
+			[ "diputaba" ],
+			[ "diputabas" ],
+			[ "diputaba" ],
+			[ "diputábamos" ],
+			[ "diputabais", "diputaban" ],
+			[ "diputaban" ]
+		],
+		"6" : [
+			[ "diputaría" ],
+			[ "diputarías" ],
+			[ "diputaría" ],
+			[ "diputaríamos" ],
+			[ "diputaríais", "diputarían" ],
+			[ "diputarían" ]
+		],
+		"7" : [
+			[ "diputaré" ],
+			[ "diputarás" ],
+			[ "diputará" ],
+			[ "diputaremos" ],
+			[ "diputaréis", "diputarán" ],
+			[ "diputarán" ]
+		],
+		"8" : [
+			[ "dipute" ],
+			[ "diputes" ],
+			[ "dipute" ],
+			[ "diputemos" ],
+			[ "diputéis", "diputen" ],
+			[ "diputen" ]
+		],
+		"9" : [
+			[ "diputara" ],
+			[ "diputaras" ],
+			[ "diputara" ],
+			[ "diputáramos" ],
+			[ "diputarais", "diputaran" ],
+			[ "diputaran" ]
+		],
+		"10" : [
+			[ "diputase" ],
+			[ "diputases" ],
+			[ "diputase" ],
+			[ "diputásemos" ],
+			[ "diputaseis", "diputasen" ],
+			[ "diputasen" ]
+		],
+		"11" : [
+			[ "diputare" ],
+			[ "diputares" ],
+			[ "diputare" ],
+			[ "diputáremos" ],
+			[ "diputareis", "diputaren" ],
+			[ "diputaren" ]
+		],
+		"12" : {
+			"1" : [ "diputa" ],
+			"2" : [ "dipute" ],
+			"3" : [ "diputemos" ],
+			"4" : [ "diputad" ],
+			"5" : [ "diputen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hablar",
+	"word" : "hablar",
+	"infinitivo" : "hablar",
+	"participio" : [ "hablado" ],
+	"gerundio" : [ "hablando" ],
+	"tenses" : {
+		"3" : [
+			[ "hablo" ],
+			[ "hablas", "hablás" ],
+			[ "habla" ],
+			[ "hablamos" ],
+			[ "habláis", "hablan" ],
+			[ "hablan" ]
+		],
+		"4" : [
+			[ "hablé" ],
+			[ "hablaste" ],
+			[ "habló" ],
+			[ "hablamos" ],
+			[ "hablasteis", "hablaron" ],
+			[ "hablaron" ]
+		],
+		"5" : [
+			[ "hablaba" ],
+			[ "hablabas" ],
+			[ "hablaba" ],
+			[ "hablábamos" ],
+			[ "hablabais", "hablaban" ],
+			[ "hablaban" ]
+		],
+		"6" : [
+			[ "hablaría" ],
+			[ "hablarías" ],
+			[ "hablaría" ],
+			[ "hablaríamos" ],
+			[ "hablaríais", "hablarían" ],
+			[ "hablarían" ]
+		],
+		"7" : [
+			[ "hablaré" ],
+			[ "hablarás" ],
+			[ "hablará" ],
+			[ "hablaremos" ],
+			[ "hablaréis", "hablarán" ],
+			[ "hablarán" ]
+		],
+		"8" : [
+			[ "hable" ],
+			[ "hables" ],
+			[ "hable" ],
+			[ "hablemos" ],
+			[ "habléis", "hablen" ],
+			[ "hablen" ]
+		],
+		"9" : [
+			[ "hablara" ],
+			[ "hablaras" ],
+			[ "hablara" ],
+			[ "habláramos" ],
+			[ "hablarais", "hablaran" ],
+			[ "hablaran" ]
+		],
+		"10" : [
+			[ "hablase" ],
+			[ "hablases" ],
+			[ "hablase" ],
+			[ "hablásemos" ],
+			[ "hablaseis", "hablasen" ],
+			[ "hablasen" ]
+		],
+		"11" : [
+			[ "hablare" ],
+			[ "hablares" ],
+			[ "hablare" ],
+			[ "habláremos" ],
+			[ "hablareis", "hablaren" ],
+			[ "hablaren" ]
+		],
+		"12" : {
+			"1" : [ "habla" ],
+			"2" : [ "hable" ],
+			"3" : [ "hablemos" ],
+			"4" : [ "hablad" ],
+			"5" : [ "hablen" ]
+		}
+	}
+}

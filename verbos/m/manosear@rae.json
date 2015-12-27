@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=manosear",
+	"word" : "manosear",
+	"infinitivo" : "manosear",
+	"participio" : [ "manoseado" ],
+	"gerundio" : [ "manoseando" ],
+	"tenses" : {
+		"3" : [
+			[ "manoseo" ],
+			[ "manoseas", "manoseás" ],
+			[ "manosea" ],
+			[ "manoseamos" ],
+			[ "manoseáis", "manosean" ],
+			[ "manosean" ]
+		],
+		"4" : [
+			[ "manoseé" ],
+			[ "manoseaste" ],
+			[ "manoseó" ],
+			[ "manoseamos" ],
+			[ "manoseasteis", "manosearon" ],
+			[ "manosearon" ]
+		],
+		"5" : [
+			[ "manoseaba" ],
+			[ "manoseabas" ],
+			[ "manoseaba" ],
+			[ "manoseábamos" ],
+			[ "manoseabais", "manoseaban" ],
+			[ "manoseaban" ]
+		],
+		"6" : [
+			[ "manosearía" ],
+			[ "manosearías" ],
+			[ "manosearía" ],
+			[ "manosearíamos" ],
+			[ "manosearíais", "manosearían" ],
+			[ "manosearían" ]
+		],
+		"7" : [
+			[ "manosearé" ],
+			[ "manosearás" ],
+			[ "manoseará" ],
+			[ "manosearemos" ],
+			[ "manosearéis", "manosearán" ],
+			[ "manosearán" ]
+		],
+		"8" : [
+			[ "manosee" ],
+			[ "manosees" ],
+			[ "manosee" ],
+			[ "manoseemos" ],
+			[ "manoseéis", "manoseen" ],
+			[ "manoseen" ]
+		],
+		"9" : [
+			[ "manoseara" ],
+			[ "manosearas" ],
+			[ "manoseara" ],
+			[ "manoseáramos" ],
+			[ "manosearais", "manosearan" ],
+			[ "manosearan" ]
+		],
+		"10" : [
+			[ "manosease" ],
+			[ "manoseases" ],
+			[ "manosease" ],
+			[ "manoseásemos" ],
+			[ "manoseaseis", "manoseasen" ],
+			[ "manoseasen" ]
+		],
+		"11" : [
+			[ "manoseare" ],
+			[ "manoseares" ],
+			[ "manoseare" ],
+			[ "manoseáremos" ],
+			[ "manoseareis", "manosearen" ],
+			[ "manosearen" ]
+		],
+		"12" : {
+			"1" : [ "manosea" ],
+			"2" : [ "manosee" ],
+			"3" : [ "manoseemos" ],
+			"4" : [ "manosead" ],
+			"5" : [ "manoseen" ]
+		}
+	}
+}

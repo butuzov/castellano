@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=licuar",
+	"word" : "licuar",
+	"infinitivo" : "licuar",
+	"participio" : [ "licuado" ],
+	"gerundio" : [ "licuando" ],
+	"tenses" : {
+		"3" : [
+			[ "licúo", "licuo" ],
+			[ "licúas", "licuas", "licuás" ],
+			[ "licúa", "licua" ],
+			[ "licuamos" ],
+			[ "licuáis", "licúan", "licuan" ],
+			[ "licúan", "licuan" ]
+		],
+		"4" : [
+			[ "licué" ],
+			[ "licuaste" ],
+			[ "licuó" ],
+			[ "licuamos" ],
+			[ "licuasteis", "licuaron" ],
+			[ "licuaron" ]
+		],
+		"5" : [
+			[ "licuaba" ],
+			[ "licuabas" ],
+			[ "licuaba" ],
+			[ "licuábamos" ],
+			[ "licuabais", "licuaban" ],
+			[ "licuaban" ]
+		],
+		"6" : [
+			[ "licuaría" ],
+			[ "licuarías" ],
+			[ "licuaría" ],
+			[ "licuaríamos" ],
+			[ "licuaríais", "licuarían" ],
+			[ "licuarían" ]
+		],
+		"7" : [
+			[ "licuaré" ],
+			[ "licuarás" ],
+			[ "licuará" ],
+			[ "licuaremos" ],
+			[ "licuaréis", "licuarán" ],
+			[ "licuarán" ]
+		],
+		"8" : [
+			[ "licúe", "licue" ],
+			[ "licúes", "licues" ],
+			[ "licúe", "licue" ],
+			[ "licuemos" ],
+			[ "licuéis", "licúen", "licuen" ],
+			[ "licúen", "licuen" ]
+		],
+		"9" : [
+			[ "licuara" ],
+			[ "licuaras" ],
+			[ "licuara" ],
+			[ "licuáramos" ],
+			[ "licuarais", "licuaran" ],
+			[ "licuaran" ]
+		],
+		"10" : [
+			[ "licuase" ],
+			[ "licuases" ],
+			[ "licuase" ],
+			[ "licuásemos" ],
+			[ "licuaseis", "licuasen" ],
+			[ "licuasen" ]
+		],
+		"11" : [
+			[ "licuare" ],
+			[ "licuares" ],
+			[ "licuare" ],
+			[ "licuáremos" ],
+			[ "licuareis", "licuaren" ],
+			[ "licuaren" ]
+		],
+		"12" : {
+			"1" : [ "licúa", "licua" ],
+			"2" : [ "licúe", "licue" ],
+			"3" : [ "licuemos" ],
+			"4" : [ "licuad" ],
+			"5" : [ "licúen", "licuen" ]
+		}
+	}
+}

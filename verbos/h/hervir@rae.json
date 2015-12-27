@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hervir",
+	"word" : "hervir",
+	"infinitivo" : "hervir",
+	"participio" : [ "hervido" ],
+	"gerundio" : [ "hirviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "hiervo" ],
+			[ "hierves", "hervís" ],
+			[ "hierve" ],
+			[ "hervimos" ],
+			[ "hervís", "hierven" ],
+			[ "hierven" ]
+		],
+		"4" : [
+			[ "herví" ],
+			[ "herviste" ],
+			[ "hirvió" ],
+			[ "hervimos" ],
+			[ "hervisteis", "hirvieron" ],
+			[ "hirvieron" ]
+		],
+		"5" : [
+			[ "hervía" ],
+			[ "hervías" ],
+			[ "hervía" ],
+			[ "hervíamos" ],
+			[ "hervíais", "hervían" ],
+			[ "hervían" ]
+		],
+		"6" : [
+			[ "herviría" ],
+			[ "hervirías" ],
+			[ "herviría" ],
+			[ "herviríamos" ],
+			[ "herviríais", "hervirían" ],
+			[ "hervirían" ]
+		],
+		"7" : [
+			[ "herviré" ],
+			[ "hervirás" ],
+			[ "hervirá" ],
+			[ "herviremos" ],
+			[ "herviréis", "hervirán" ],
+			[ "hervirán" ]
+		],
+		"8" : [
+			[ "hierva" ],
+			[ "hiervas" ],
+			[ "hierva" ],
+			[ "hirvamos" ],
+			[ "hirváis", "hiervan" ],
+			[ "hiervan" ]
+		],
+		"9" : [
+			[ "hirviera" ],
+			[ "hirvieras" ],
+			[ "hirviera" ],
+			[ "hirviéramos" ],
+			[ "hirvierais", "hirvieran" ],
+			[ "hirvieran" ]
+		],
+		"10" : [
+			[ "hirviese" ],
+			[ "hirvieses" ],
+			[ "hirviese" ],
+			[ "hirviésemos" ],
+			[ "hirvieseis", "hirviesen" ],
+			[ "hirviesen" ]
+		],
+		"11" : [
+			[ "hirviere" ],
+			[ "hirvieres" ],
+			[ "hirviere" ],
+			[ "hirviéremos" ],
+			[ "hirviereis", "hirvieren" ],
+			[ "hirvieren" ]
+		],
+		"12" : {
+			"1" : [ "hierve" ],
+			"2" : [ "hierva" ],
+			"3" : [ "hirvamos" ],
+			"4" : [ "hervid" ],
+			"5" : [ "hiervan" ]
+		}
+	}
+}

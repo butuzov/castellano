@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asilar",
+	"word" : "asilar",
+	"infinitivo" : "asilar",
+	"participio" : [ "asilado" ],
+	"gerundio" : [ "asilando" ],
+	"tenses" : {
+		"3" : [
+			[ "asilo" ],
+			[ "asilas", "asilás" ],
+			[ "asila" ],
+			[ "asilamos" ],
+			[ "asiláis", "asilan" ],
+			[ "asilan" ]
+		],
+		"4" : [
+			[ "asilé" ],
+			[ "asilaste" ],
+			[ "asiló" ],
+			[ "asilamos" ],
+			[ "asilasteis", "asilaron" ],
+			[ "asilaron" ]
+		],
+		"5" : [
+			[ "asilaba" ],
+			[ "asilabas" ],
+			[ "asilaba" ],
+			[ "asilábamos" ],
+			[ "asilabais", "asilaban" ],
+			[ "asilaban" ]
+		],
+		"6" : [
+			[ "asilaría" ],
+			[ "asilarías" ],
+			[ "asilaría" ],
+			[ "asilaríamos" ],
+			[ "asilaríais", "asilarían" ],
+			[ "asilarían" ]
+		],
+		"7" : [
+			[ "asilaré" ],
+			[ "asilarás" ],
+			[ "asilará" ],
+			[ "asilaremos" ],
+			[ "asilaréis", "asilarán" ],
+			[ "asilarán" ]
+		],
+		"8" : [
+			[ "asile" ],
+			[ "asiles" ],
+			[ "asile" ],
+			[ "asilemos" ],
+			[ "asiléis", "asilen" ],
+			[ "asilen" ]
+		],
+		"9" : [
+			[ "asilara" ],
+			[ "asilaras" ],
+			[ "asilara" ],
+			[ "asiláramos" ],
+			[ "asilarais", "asilaran" ],
+			[ "asilaran" ]
+		],
+		"10" : [
+			[ "asilase" ],
+			[ "asilases" ],
+			[ "asilase" ],
+			[ "asilásemos" ],
+			[ "asilaseis", "asilasen" ],
+			[ "asilasen" ]
+		],
+		"11" : [
+			[ "asilare" ],
+			[ "asilares" ],
+			[ "asilare" ],
+			[ "asiláremos" ],
+			[ "asilareis", "asilaren" ],
+			[ "asilaren" ]
+		],
+		"12" : {
+			"1" : [ "asila" ],
+			"2" : [ "asile" ],
+			"3" : [ "asilemos" ],
+			"4" : [ "asilad" ],
+			"5" : [ "asilen" ]
+		}
+	}
+}

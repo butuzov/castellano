@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=constatar",
+	"word" : "constatar",
+	"infinitivo" : "constatar",
+	"participio" : [ "constatado" ],
+	"gerundio" : [ "constatando" ],
+	"tenses" : {
+		"3" : [
+			[ "constato" ],
+			[ "constatas", "constatás" ],
+			[ "constata" ],
+			[ "constatamos" ],
+			[ "constatáis", "constatan" ],
+			[ "constatan" ]
+		],
+		"4" : [
+			[ "constaté" ],
+			[ "constataste" ],
+			[ "constató" ],
+			[ "constatamos" ],
+			[ "constatasteis", "constataron" ],
+			[ "constataron" ]
+		],
+		"5" : [
+			[ "constataba" ],
+			[ "constatabas" ],
+			[ "constataba" ],
+			[ "constatábamos" ],
+			[ "constatabais", "constataban" ],
+			[ "constataban" ]
+		],
+		"6" : [
+			[ "constataría" ],
+			[ "constatarías" ],
+			[ "constataría" ],
+			[ "constataríamos" ],
+			[ "constataríais", "constatarían" ],
+			[ "constatarían" ]
+		],
+		"7" : [
+			[ "constataré" ],
+			[ "constatarás" ],
+			[ "constatará" ],
+			[ "constataremos" ],
+			[ "constataréis", "constatarán" ],
+			[ "constatarán" ]
+		],
+		"8" : [
+			[ "constate" ],
+			[ "constates" ],
+			[ "constate" ],
+			[ "constatemos" ],
+			[ "constatéis", "constaten" ],
+			[ "constaten" ]
+		],
+		"9" : [
+			[ "constatara" ],
+			[ "constataras" ],
+			[ "constatara" ],
+			[ "constatáramos" ],
+			[ "constatarais", "constataran" ],
+			[ "constataran" ]
+		],
+		"10" : [
+			[ "constatase" ],
+			[ "constatases" ],
+			[ "constatase" ],
+			[ "constatásemos" ],
+			[ "constataseis", "constatasen" ],
+			[ "constatasen" ]
+		],
+		"11" : [
+			[ "constatare" ],
+			[ "constatares" ],
+			[ "constatare" ],
+			[ "constatáremos" ],
+			[ "constatareis", "constataren" ],
+			[ "constataren" ]
+		],
+		"12" : {
+			"1" : [ "constata" ],
+			"2" : [ "constate" ],
+			"3" : [ "constatemos" ],
+			"4" : [ "constatad" ],
+			"5" : [ "constaten" ]
+		}
+	}
+}

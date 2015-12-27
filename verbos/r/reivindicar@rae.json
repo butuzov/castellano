@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reivindicar",
+	"word" : "reivindicar",
+	"infinitivo" : "reivindicar",
+	"participio" : [ "reivindicado" ],
+	"gerundio" : [ "reivindicando" ],
+	"tenses" : {
+		"3" : [
+			[ "reivindico" ],
+			[ "reivindicas", "reivindicás" ],
+			[ "reivindica" ],
+			[ "reivindicamos" ],
+			[ "reivindicáis", "reivindican" ],
+			[ "reivindican" ]
+		],
+		"4" : [
+			[ "reivindiqué" ],
+			[ "reivindicaste" ],
+			[ "reivindicó" ],
+			[ "reivindicamos" ],
+			[ "reivindicasteis", "reivindicaron" ],
+			[ "reivindicaron" ]
+		],
+		"5" : [
+			[ "reivindicaba" ],
+			[ "reivindicabas" ],
+			[ "reivindicaba" ],
+			[ "reivindicábamos" ],
+			[ "reivindicabais", "reivindicaban" ],
+			[ "reivindicaban" ]
+		],
+		"6" : [
+			[ "reivindicaría" ],
+			[ "reivindicarías" ],
+			[ "reivindicaría" ],
+			[ "reivindicaríamos" ],
+			[ "reivindicaríais", "reivindicarían" ],
+			[ "reivindicarían" ]
+		],
+		"7" : [
+			[ "reivindicaré" ],
+			[ "reivindicarás" ],
+			[ "reivindicará" ],
+			[ "reivindicaremos" ],
+			[ "reivindicaréis", "reivindicarán" ],
+			[ "reivindicarán" ]
+		],
+		"8" : [
+			[ "reivindique" ],
+			[ "reivindiques" ],
+			[ "reivindique" ],
+			[ "reivindiquemos" ],
+			[ "reivindiquéis", "reivindiquen" ],
+			[ "reivindiquen" ]
+		],
+		"9" : [
+			[ "reivindicara" ],
+			[ "reivindicaras" ],
+			[ "reivindicara" ],
+			[ "reivindicáramos" ],
+			[ "reivindicarais", "reivindicaran" ],
+			[ "reivindicaran" ]
+		],
+		"10" : [
+			[ "reivindicase" ],
+			[ "reivindicases" ],
+			[ "reivindicase" ],
+			[ "reivindicásemos" ],
+			[ "reivindicaseis", "reivindicasen" ],
+			[ "reivindicasen" ]
+		],
+		"11" : [
+			[ "reivindicare" ],
+			[ "reivindicares" ],
+			[ "reivindicare" ],
+			[ "reivindicáremos" ],
+			[ "reivindicareis", "reivindicaren" ],
+			[ "reivindicaren" ]
+		],
+		"12" : {
+			"1" : [ "reivindica" ],
+			"2" : [ "reivindique" ],
+			"3" : [ "reivindiquemos" ],
+			"4" : [ "reivindicad" ],
+			"5" : [ "reivindiquen" ]
+		}
+	}
+}

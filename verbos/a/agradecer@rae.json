@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agradecer",
+	"word" : "agradecer",
+	"infinitivo" : "agradecer",
+	"participio" : [ "agradecido" ],
+	"gerundio" : [ "agradeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "agradezco" ],
+			[ "agradeces", "agradecés" ],
+			[ "agradece" ],
+			[ "agradecemos" ],
+			[ "agradecéis", "agradecen" ],
+			[ "agradecen" ]
+		],
+		"4" : [
+			[ "agradecí" ],
+			[ "agradeciste" ],
+			[ "agradeció" ],
+			[ "agradecimos" ],
+			[ "agradecisteis", "agradecieron" ],
+			[ "agradecieron" ]
+		],
+		"5" : [
+			[ "agradecía" ],
+			[ "agradecías" ],
+			[ "agradecía" ],
+			[ "agradecíamos" ],
+			[ "agradecíais", "agradecían" ],
+			[ "agradecían" ]
+		],
+		"6" : [
+			[ "agradecería" ],
+			[ "agradecerías" ],
+			[ "agradecería" ],
+			[ "agradeceríamos" ],
+			[ "agradeceríais", "agradecerían" ],
+			[ "agradecerían" ]
+		],
+		"7" : [
+			[ "agradeceré" ],
+			[ "agradecerás" ],
+			[ "agradecerá" ],
+			[ "agradeceremos" ],
+			[ "agradeceréis", "agradecerán" ],
+			[ "agradecerán" ]
+		],
+		"8" : [
+			[ "agradezca" ],
+			[ "agradezcas" ],
+			[ "agradezca" ],
+			[ "agradezcamos" ],
+			[ "agradezcáis", "agradezcan" ],
+			[ "agradezcan" ]
+		],
+		"9" : [
+			[ "agradeciera" ],
+			[ "agradecieras" ],
+			[ "agradeciera" ],
+			[ "agradeciéramos" ],
+			[ "agradecierais", "agradecieran" ],
+			[ "agradecieran" ]
+		],
+		"10" : [
+			[ "agradeciese" ],
+			[ "agradecieses" ],
+			[ "agradeciese" ],
+			[ "agradeciésemos" ],
+			[ "agradecieseis", "agradeciesen" ],
+			[ "agradeciesen" ]
+		],
+		"11" : [
+			[ "agradeciere" ],
+			[ "agradecieres" ],
+			[ "agradeciere" ],
+			[ "agradeciéremos" ],
+			[ "agradeciereis", "agradecieren" ],
+			[ "agradecieren" ]
+		],
+		"12" : {
+			"1" : [ "agradece" ],
+			"2" : [ "agradezca" ],
+			"3" : [ "agradezcamos" ],
+			"4" : [ "agradeced" ],
+			"5" : [ "agradezcan" ]
+		}
+	}
+}

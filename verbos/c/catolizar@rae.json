@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=catolizar",
+	"word" : "catolizar",
+	"infinitivo" : "catolizar",
+	"participio" : [ "catolizado" ],
+	"gerundio" : [ "catolizando" ],
+	"tenses" : {
+		"3" : [
+			[ "catolizo" ],
+			[ "catolizas", "catolizás" ],
+			[ "catoliza" ],
+			[ "catolizamos" ],
+			[ "catolizáis", "catolizan" ],
+			[ "catolizan" ]
+		],
+		"4" : [
+			[ "catolicé" ],
+			[ "catolizaste" ],
+			[ "catolizó" ],
+			[ "catolizamos" ],
+			[ "catolizasteis", "catolizaron" ],
+			[ "catolizaron" ]
+		],
+		"5" : [
+			[ "catolizaba" ],
+			[ "catolizabas" ],
+			[ "catolizaba" ],
+			[ "catolizábamos" ],
+			[ "catolizabais", "catolizaban" ],
+			[ "catolizaban" ]
+		],
+		"6" : [
+			[ "catolizaría" ],
+			[ "catolizarías" ],
+			[ "catolizaría" ],
+			[ "catolizaríamos" ],
+			[ "catolizaríais", "catolizarían" ],
+			[ "catolizarían" ]
+		],
+		"7" : [
+			[ "catolizaré" ],
+			[ "catolizarás" ],
+			[ "catolizará" ],
+			[ "catolizaremos" ],
+			[ "catolizaréis", "catolizarán" ],
+			[ "catolizarán" ]
+		],
+		"8" : [
+			[ "catolice" ],
+			[ "catolices" ],
+			[ "catolice" ],
+			[ "catolicemos" ],
+			[ "catolicéis", "catolicen" ],
+			[ "catolicen" ]
+		],
+		"9" : [
+			[ "catolizara" ],
+			[ "catolizaras" ],
+			[ "catolizara" ],
+			[ "catolizáramos" ],
+			[ "catolizarais", "catolizaran" ],
+			[ "catolizaran" ]
+		],
+		"10" : [
+			[ "catolizase" ],
+			[ "catolizases" ],
+			[ "catolizase" ],
+			[ "catolizásemos" ],
+			[ "catolizaseis", "catolizasen" ],
+			[ "catolizasen" ]
+		],
+		"11" : [
+			[ "catolizare" ],
+			[ "catolizares" ],
+			[ "catolizare" ],
+			[ "catolizáremos" ],
+			[ "catolizareis", "catolizaren" ],
+			[ "catolizaren" ]
+		],
+		"12" : {
+			"1" : [ "catoliza" ],
+			"2" : [ "catolice" ],
+			"3" : [ "catolicemos" ],
+			"4" : [ "catolizad" ],
+			"5" : [ "catolicen" ]
+		}
+	}
+}

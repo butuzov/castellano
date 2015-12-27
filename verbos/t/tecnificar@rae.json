@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tecnificar",
+	"word" : "tecnificar",
+	"infinitivo" : "tecnificar",
+	"participio" : [ "tecnificado" ],
+	"gerundio" : [ "tecnificando" ],
+	"tenses" : {
+		"3" : [
+			[ "tecnifico" ],
+			[ "tecnificas", "tecnificás" ],
+			[ "tecnifica" ],
+			[ "tecnificamos" ],
+			[ "tecnificáis", "tecnifican" ],
+			[ "tecnifican" ]
+		],
+		"4" : [
+			[ "tecnifiqué" ],
+			[ "tecnificaste" ],
+			[ "tecnificó" ],
+			[ "tecnificamos" ],
+			[ "tecnificasteis", "tecnificaron" ],
+			[ "tecnificaron" ]
+		],
+		"5" : [
+			[ "tecnificaba" ],
+			[ "tecnificabas" ],
+			[ "tecnificaba" ],
+			[ "tecnificábamos" ],
+			[ "tecnificabais", "tecnificaban" ],
+			[ "tecnificaban" ]
+		],
+		"6" : [
+			[ "tecnificaría" ],
+			[ "tecnificarías" ],
+			[ "tecnificaría" ],
+			[ "tecnificaríamos" ],
+			[ "tecnificaríais", "tecnificarían" ],
+			[ "tecnificarían" ]
+		],
+		"7" : [
+			[ "tecnificaré" ],
+			[ "tecnificarás" ],
+			[ "tecnificará" ],
+			[ "tecnificaremos" ],
+			[ "tecnificaréis", "tecnificarán" ],
+			[ "tecnificarán" ]
+		],
+		"8" : [
+			[ "tecnifique" ],
+			[ "tecnifiques" ],
+			[ "tecnifique" ],
+			[ "tecnifiquemos" ],
+			[ "tecnifiquéis", "tecnifiquen" ],
+			[ "tecnifiquen" ]
+		],
+		"9" : [
+			[ "tecnificara" ],
+			[ "tecnificaras" ],
+			[ "tecnificara" ],
+			[ "tecnificáramos" ],
+			[ "tecnificarais", "tecnificaran" ],
+			[ "tecnificaran" ]
+		],
+		"10" : [
+			[ "tecnificase" ],
+			[ "tecnificases" ],
+			[ "tecnificase" ],
+			[ "tecnificásemos" ],
+			[ "tecnificaseis", "tecnificasen" ],
+			[ "tecnificasen" ]
+		],
+		"11" : [
+			[ "tecnificare" ],
+			[ "tecnificares" ],
+			[ "tecnificare" ],
+			[ "tecnificáremos" ],
+			[ "tecnificareis", "tecnificaren" ],
+			[ "tecnificaren" ]
+		],
+		"12" : {
+			"1" : [ "tecnifica" ],
+			"2" : [ "tecnifique" ],
+			"3" : [ "tecnifiquemos" ],
+			"4" : [ "tecnificad" ],
+			"5" : [ "tecnifiquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=solar",
+	"word" : "solar",
+	"infinitivo" : "solar",
+	"participio" : [ "solado" ],
+	"gerundio" : [ "solando" ],
+	"tenses" : {
+		"3" : [
+			[ "suelo" ],
+			[ "suelas", "solás" ],
+			[ "suela" ],
+			[ "solamos" ],
+			[ "soláis", "suelan" ],
+			[ "suelan" ]
+		],
+		"4" : [
+			[ "solé" ],
+			[ "solaste" ],
+			[ "soló" ],
+			[ "solamos" ],
+			[ "solasteis", "solaron" ],
+			[ "solaron" ]
+		],
+		"5" : [
+			[ "solaba" ],
+			[ "solabas" ],
+			[ "solaba" ],
+			[ "solábamos" ],
+			[ "solabais", "solaban" ],
+			[ "solaban" ]
+		],
+		"6" : [
+			[ "solaría" ],
+			[ "solarías" ],
+			[ "solaría" ],
+			[ "solaríamos" ],
+			[ "solaríais", "solarían" ],
+			[ "solarían" ]
+		],
+		"7" : [
+			[ "solaré" ],
+			[ "solarás" ],
+			[ "solará" ],
+			[ "solaremos" ],
+			[ "solaréis", "solarán" ],
+			[ "solarán" ]
+		],
+		"8" : [
+			[ "suele" ],
+			[ "sueles" ],
+			[ "suele" ],
+			[ "solemos" ],
+			[ "soléis", "suelen" ],
+			[ "suelen" ]
+		],
+		"9" : [
+			[ "solara" ],
+			[ "solaras" ],
+			[ "solara" ],
+			[ "soláramos" ],
+			[ "solarais", "solaran" ],
+			[ "solaran" ]
+		],
+		"10" : [
+			[ "solase" ],
+			[ "solases" ],
+			[ "solase" ],
+			[ "solásemos" ],
+			[ "solaseis", "solasen" ],
+			[ "solasen" ]
+		],
+		"11" : [
+			[ "solare" ],
+			[ "solares" ],
+			[ "solare" ],
+			[ "soláremos" ],
+			[ "solareis", "solaren" ],
+			[ "solaren" ]
+		],
+		"12" : {
+			"1" : [ "suela" ],
+			"2" : [ "suele" ],
+			"3" : [ "solemos" ],
+			"4" : [ "solad" ],
+			"5" : [ "suelen" ]
+		}
+	}
+}

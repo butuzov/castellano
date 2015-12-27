@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acallar",
+	"word" : "acallar",
+	"infinitivo" : "acallar",
+	"participio" : [ "acallado" ],
+	"gerundio" : [ "acallando" ],
+	"tenses" : {
+		"3" : [
+			[ "acallo" ],
+			[ "acallas", "acallás" ],
+			[ "acalla" ],
+			[ "acallamos" ],
+			[ "acalláis", "acallan" ],
+			[ "acallan" ]
+		],
+		"4" : [
+			[ "acallé" ],
+			[ "acallaste" ],
+			[ "acalló" ],
+			[ "acallamos" ],
+			[ "acallasteis", "acallaron" ],
+			[ "acallaron" ]
+		],
+		"5" : [
+			[ "acallaba" ],
+			[ "acallabas" ],
+			[ "acallaba" ],
+			[ "acallábamos" ],
+			[ "acallabais", "acallaban" ],
+			[ "acallaban" ]
+		],
+		"6" : [
+			[ "acallaría" ],
+			[ "acallarías" ],
+			[ "acallaría" ],
+			[ "acallaríamos" ],
+			[ "acallaríais", "acallarían" ],
+			[ "acallarían" ]
+		],
+		"7" : [
+			[ "acallaré" ],
+			[ "acallarás" ],
+			[ "acallará" ],
+			[ "acallaremos" ],
+			[ "acallaréis", "acallarán" ],
+			[ "acallarán" ]
+		],
+		"8" : [
+			[ "acalle" ],
+			[ "acalles" ],
+			[ "acalle" ],
+			[ "acallemos" ],
+			[ "acalléis", "acallen" ],
+			[ "acallen" ]
+		],
+		"9" : [
+			[ "acallara" ],
+			[ "acallaras" ],
+			[ "acallara" ],
+			[ "acalláramos" ],
+			[ "acallarais", "acallaran" ],
+			[ "acallaran" ]
+		],
+		"10" : [
+			[ "acallase" ],
+			[ "acallases" ],
+			[ "acallase" ],
+			[ "acallásemos" ],
+			[ "acallaseis", "acallasen" ],
+			[ "acallasen" ]
+		],
+		"11" : [
+			[ "acallare" ],
+			[ "acallares" ],
+			[ "acallare" ],
+			[ "acalláremos" ],
+			[ "acallareis", "acallaren" ],
+			[ "acallaren" ]
+		],
+		"12" : {
+			"1" : [ "acalla" ],
+			"2" : [ "acalle" ],
+			"3" : [ "acallemos" ],
+			"4" : [ "acallad" ],
+			"5" : [ "acallen" ]
+		}
+	}
+}

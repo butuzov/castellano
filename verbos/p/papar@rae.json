@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=papar",
+	"word" : "papar",
+	"infinitivo" : "papar",
+	"participio" : [ "papado" ],
+	"gerundio" : [ "papando" ],
+	"tenses" : {
+		"3" : [
+			[ "papo" ],
+			[ "papas", "papás" ],
+			[ "papa" ],
+			[ "papamos" ],
+			[ "papáis", "papan" ],
+			[ "papan" ]
+		],
+		"4" : [
+			[ "papé" ],
+			[ "papaste" ],
+			[ "papó" ],
+			[ "papamos" ],
+			[ "papasteis", "paparon" ],
+			[ "paparon" ]
+		],
+		"5" : [
+			[ "papaba" ],
+			[ "papabas" ],
+			[ "papaba" ],
+			[ "papábamos" ],
+			[ "papabais", "papaban" ],
+			[ "papaban" ]
+		],
+		"6" : [
+			[ "paparía" ],
+			[ "paparías" ],
+			[ "paparía" ],
+			[ "paparíamos" ],
+			[ "paparíais", "paparían" ],
+			[ "paparían" ]
+		],
+		"7" : [
+			[ "paparé" ],
+			[ "paparás" ],
+			[ "papará" ],
+			[ "paparemos" ],
+			[ "paparéis", "paparán" ],
+			[ "paparán" ]
+		],
+		"8" : [
+			[ "pape" ],
+			[ "papes" ],
+			[ "pape" ],
+			[ "papemos" ],
+			[ "papéis", "papen" ],
+			[ "papen" ]
+		],
+		"9" : [
+			[ "papara" ],
+			[ "paparas" ],
+			[ "papara" ],
+			[ "papáramos" ],
+			[ "paparais", "paparan" ],
+			[ "paparan" ]
+		],
+		"10" : [
+			[ "papase" ],
+			[ "papases" ],
+			[ "papase" ],
+			[ "papásemos" ],
+			[ "papaseis", "papasen" ],
+			[ "papasen" ]
+		],
+		"11" : [
+			[ "papare" ],
+			[ "papares" ],
+			[ "papare" ],
+			[ "papáremos" ],
+			[ "papareis", "paparen" ],
+			[ "paparen" ]
+		],
+		"12" : {
+			"1" : [ "papa" ],
+			"2" : [ "pape" ],
+			"3" : [ "papemos" ],
+			"4" : [ "papad" ],
+			"5" : [ "papen" ]
+		}
+	}
+}

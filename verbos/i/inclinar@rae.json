@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inclinar",
+	"word" : "inclinar",
+	"infinitivo" : "inclinar",
+	"participio" : [ "inclinado" ],
+	"gerundio" : [ "inclinando" ],
+	"tenses" : {
+		"3" : [
+			[ "inclino" ],
+			[ "inclinas", "inclinás" ],
+			[ "inclina" ],
+			[ "inclinamos" ],
+			[ "inclináis", "inclinan" ],
+			[ "inclinan" ]
+		],
+		"4" : [
+			[ "incliné" ],
+			[ "inclinaste" ],
+			[ "inclinó" ],
+			[ "inclinamos" ],
+			[ "inclinasteis", "inclinaron" ],
+			[ "inclinaron" ]
+		],
+		"5" : [
+			[ "inclinaba" ],
+			[ "inclinabas" ],
+			[ "inclinaba" ],
+			[ "inclinábamos" ],
+			[ "inclinabais", "inclinaban" ],
+			[ "inclinaban" ]
+		],
+		"6" : [
+			[ "inclinaría" ],
+			[ "inclinarías" ],
+			[ "inclinaría" ],
+			[ "inclinaríamos" ],
+			[ "inclinaríais", "inclinarían" ],
+			[ "inclinarían" ]
+		],
+		"7" : [
+			[ "inclinaré" ],
+			[ "inclinarás" ],
+			[ "inclinará" ],
+			[ "inclinaremos" ],
+			[ "inclinaréis", "inclinarán" ],
+			[ "inclinarán" ]
+		],
+		"8" : [
+			[ "incline" ],
+			[ "inclines" ],
+			[ "incline" ],
+			[ "inclinemos" ],
+			[ "inclinéis", "inclinen" ],
+			[ "inclinen" ]
+		],
+		"9" : [
+			[ "inclinara" ],
+			[ "inclinaras" ],
+			[ "inclinara" ],
+			[ "inclináramos" ],
+			[ "inclinarais", "inclinaran" ],
+			[ "inclinaran" ]
+		],
+		"10" : [
+			[ "inclinase" ],
+			[ "inclinases" ],
+			[ "inclinase" ],
+			[ "inclinásemos" ],
+			[ "inclinaseis", "inclinasen" ],
+			[ "inclinasen" ]
+		],
+		"11" : [
+			[ "inclinare" ],
+			[ "inclinares" ],
+			[ "inclinare" ],
+			[ "inclináremos" ],
+			[ "inclinareis", "inclinaren" ],
+			[ "inclinaren" ]
+		],
+		"12" : {
+			"1" : [ "inclina" ],
+			"2" : [ "incline" ],
+			"3" : [ "inclinemos" ],
+			"4" : [ "inclinad" ],
+			"5" : [ "inclinen" ]
+		}
+	}
+}

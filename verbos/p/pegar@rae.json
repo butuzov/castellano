@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pegar",
+	"word" : "pegar",
+	"infinitivo" : "pegar",
+	"participio" : [ "pegado" ],
+	"gerundio" : [ "pegando" ],
+	"tenses" : {
+		"3" : [
+			[ "pego" ],
+			[ "pegas", "pegás" ],
+			[ "pega" ],
+			[ "pegamos" ],
+			[ "pegáis", "pegan" ],
+			[ "pegan" ]
+		],
+		"4" : [
+			[ "pegué" ],
+			[ "pegaste" ],
+			[ "pegó" ],
+			[ "pegamos" ],
+			[ "pegasteis", "pegaron" ],
+			[ "pegaron" ]
+		],
+		"5" : [
+			[ "pegaba" ],
+			[ "pegabas" ],
+			[ "pegaba" ],
+			[ "pegábamos" ],
+			[ "pegabais", "pegaban" ],
+			[ "pegaban" ]
+		],
+		"6" : [
+			[ "pegaría" ],
+			[ "pegarías" ],
+			[ "pegaría" ],
+			[ "pegaríamos" ],
+			[ "pegaríais", "pegarían" ],
+			[ "pegarían" ]
+		],
+		"7" : [
+			[ "pegaré" ],
+			[ "pegarás" ],
+			[ "pegará" ],
+			[ "pegaremos" ],
+			[ "pegaréis", "pegarán" ],
+			[ "pegarán" ]
+		],
+		"8" : [
+			[ "pegue" ],
+			[ "pegues" ],
+			[ "pegue" ],
+			[ "peguemos" ],
+			[ "peguéis", "peguen" ],
+			[ "peguen" ]
+		],
+		"9" : [
+			[ "pegara" ],
+			[ "pegaras" ],
+			[ "pegara" ],
+			[ "pegáramos" ],
+			[ "pegarais", "pegaran" ],
+			[ "pegaran" ]
+		],
+		"10" : [
+			[ "pegase" ],
+			[ "pegases" ],
+			[ "pegase" ],
+			[ "pegásemos" ],
+			[ "pegaseis", "pegasen" ],
+			[ "pegasen" ]
+		],
+		"11" : [
+			[ "pegare" ],
+			[ "pegares" ],
+			[ "pegare" ],
+			[ "pegáremos" ],
+			[ "pegareis", "pegaren" ],
+			[ "pegaren" ]
+		],
+		"12" : {
+			"1" : [ "pega" ],
+			"2" : [ "pegue" ],
+			"3" : [ "peguemos" ],
+			"4" : [ "pegad" ],
+			"5" : [ "peguen" ]
+		}
+	}
+}

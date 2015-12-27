@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=legrar",
+	"word" : "legrar",
+	"infinitivo" : "legrar",
+	"participio" : [ "legrado" ],
+	"gerundio" : [ "legrando" ],
+	"tenses" : {
+		"3" : [
+			[ "legro" ],
+			[ "legras", "legrás" ],
+			[ "legra" ],
+			[ "legramos" ],
+			[ "legráis", "legran" ],
+			[ "legran" ]
+		],
+		"4" : [
+			[ "legré" ],
+			[ "legraste" ],
+			[ "legró" ],
+			[ "legramos" ],
+			[ "legrasteis", "legraron" ],
+			[ "legraron" ]
+		],
+		"5" : [
+			[ "legraba" ],
+			[ "legrabas" ],
+			[ "legraba" ],
+			[ "legrábamos" ],
+			[ "legrabais", "legraban" ],
+			[ "legraban" ]
+		],
+		"6" : [
+			[ "legraría" ],
+			[ "legrarías" ],
+			[ "legraría" ],
+			[ "legraríamos" ],
+			[ "legraríais", "legrarían" ],
+			[ "legrarían" ]
+		],
+		"7" : [
+			[ "legraré" ],
+			[ "legrarás" ],
+			[ "legrará" ],
+			[ "legraremos" ],
+			[ "legraréis", "legrarán" ],
+			[ "legrarán" ]
+		],
+		"8" : [
+			[ "legre" ],
+			[ "legres" ],
+			[ "legre" ],
+			[ "legremos" ],
+			[ "legréis", "legren" ],
+			[ "legren" ]
+		],
+		"9" : [
+			[ "legrara" ],
+			[ "legraras" ],
+			[ "legrara" ],
+			[ "legráramos" ],
+			[ "legrarais", "legraran" ],
+			[ "legraran" ]
+		],
+		"10" : [
+			[ "legrase" ],
+			[ "legrases" ],
+			[ "legrase" ],
+			[ "legrásemos" ],
+			[ "legraseis", "legrasen" ],
+			[ "legrasen" ]
+		],
+		"11" : [
+			[ "legrare" ],
+			[ "legrares" ],
+			[ "legrare" ],
+			[ "legráremos" ],
+			[ "legrareis", "legraren" ],
+			[ "legraren" ]
+		],
+		"12" : {
+			"1" : [ "legra" ],
+			"2" : [ "legre" ],
+			"3" : [ "legremos" ],
+			"4" : [ "legrad" ],
+			"5" : [ "legren" ]
+		}
+	}
+}

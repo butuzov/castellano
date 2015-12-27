@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bifurcarse",
+	"word" : "bifurcarse",
+	"infinitivo" : "bifurcarse",
+	"participio" : [ "bifurcado" ],
+	"gerundio" : [ "bifurcándome", "bifurcándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me bifurco" ],
+			[ "te bifurcas", "te bifurcás" ],
+			[ "se bifurca" ],
+			[ "nos bifurcamos" ],
+			[ "os bifurcáis", "se bifurcan" ],
+			[ "se bifurcan" ]
+		],
+		"4" : [
+			[ "me bifurqué" ],
+			[ "te bifurcaste" ],
+			[ "se bifurcó" ],
+			[ "nos bifurcamos" ],
+			[ "os bifurcasteis", "se bifurcaron" ],
+			[ "se bifurcaron" ]
+		],
+		"5" : [
+			[ "me bifurcaba" ],
+			[ "te bifurcabas" ],
+			[ "se bifurcaba" ],
+			[ "nos bifurcábamos" ],
+			[ "os bifurcabais", "se bifurcaban" ],
+			[ "se bifurcaban" ]
+		],
+		"6" : [
+			[ "me bifurcaría" ],
+			[ "te bifurcarías" ],
+			[ "se bifurcaría" ],
+			[ "nos bifurcaríamos" ],
+			[ "os bifurcaríais", "se bifurcarían" ],
+			[ "se bifurcarían" ]
+		],
+		"7" : [
+			[ "me bifurcaré" ],
+			[ "te bifurcarás" ],
+			[ "se bifurcará" ],
+			[ "nos bifurcaremos" ],
+			[ "os bifurcaréis", "se bifurcarán" ],
+			[ "se bifurcarán" ]
+		],
+		"8" : [
+			[ "me bifurque" ],
+			[ "te bifurques" ],
+			[ "se bifurque" ],
+			[ "nos bifurquemos" ],
+			[ "os bifurquéis", "se bifurquen" ],
+			[ "se bifurquen" ]
+		],
+		"9" : [
+			[ "me bifurcara" ],
+			[ "te bifurcaras" ],
+			[ "se bifurcara" ],
+			[ "nos bifurcáramos" ],
+			[ "os bifurcarais", "se bifurcaran" ],
+			[ "se bifurcaran" ]
+		],
+		"10" : [
+			[ "me bifurcase" ],
+			[ "te bifurcases" ],
+			[ "se bifurcase" ],
+			[ "nos bifurcásemos" ],
+			[ "os bifurcaseis", "se bifurcasen" ],
+			[ "se bifurcasen" ]
+		],
+		"11" : [
+			[ "me bifurcare" ],
+			[ "te bifurcares" ],
+			[ "se bifurcare" ],
+			[ "nos bifurcáremos" ],
+			[ "os bifurcareis", "se bifurcaren" ],
+			[ "se bifurcaren" ]
+		],
+		"12" : {
+			"1" : [ "bifúrcate" ],
+			"2" : [ "bifurque" ],
+			"3" : [ "bifurquemos" ],
+			"4" : [ "bifurcaos" ],
+			"5" : [ "bifúrquense" ]
+		}
+	}
+}

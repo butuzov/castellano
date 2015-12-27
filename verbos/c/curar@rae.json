@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=curar",
+	"word" : "curar",
+	"infinitivo" : "curar",
+	"participio" : [ "curado" ],
+	"gerundio" : [ "curando" ],
+	"tenses" : {
+		"3" : [
+			[ "curo" ],
+			[ "curas", "curás" ],
+			[ "cura" ],
+			[ "curamos" ],
+			[ "curáis", "curan" ],
+			[ "curan" ]
+		],
+		"4" : [
+			[ "curé" ],
+			[ "curaste" ],
+			[ "curó" ],
+			[ "curamos" ],
+			[ "curasteis", "curaron" ],
+			[ "curaron" ]
+		],
+		"5" : [
+			[ "curaba" ],
+			[ "curabas" ],
+			[ "curaba" ],
+			[ "curábamos" ],
+			[ "curabais", "curaban" ],
+			[ "curaban" ]
+		],
+		"6" : [
+			[ "curaría" ],
+			[ "curarías" ],
+			[ "curaría" ],
+			[ "curaríamos" ],
+			[ "curaríais", "curarían" ],
+			[ "curarían" ]
+		],
+		"7" : [
+			[ "curaré" ],
+			[ "curarás" ],
+			[ "curará" ],
+			[ "curaremos" ],
+			[ "curaréis", "curarán" ],
+			[ "curarán" ]
+		],
+		"8" : [
+			[ "cure" ],
+			[ "cures" ],
+			[ "cure" ],
+			[ "curemos" ],
+			[ "curéis", "curen" ],
+			[ "curen" ]
+		],
+		"9" : [
+			[ "curara" ],
+			[ "curaras" ],
+			[ "curara" ],
+			[ "curáramos" ],
+			[ "curarais", "curaran" ],
+			[ "curaran" ]
+		],
+		"10" : [
+			[ "curase" ],
+			[ "curases" ],
+			[ "curase" ],
+			[ "curásemos" ],
+			[ "curaseis", "curasen" ],
+			[ "curasen" ]
+		],
+		"11" : [
+			[ "curare" ],
+			[ "curares" ],
+			[ "curare" ],
+			[ "curáremos" ],
+			[ "curareis", "curaren" ],
+			[ "curaren" ]
+		],
+		"12" : {
+			"1" : [ "cura" ],
+			"2" : [ "cure" ],
+			"3" : [ "curemos" ],
+			"4" : [ "curad" ],
+			"5" : [ "curen" ]
+		}
+	}
+}

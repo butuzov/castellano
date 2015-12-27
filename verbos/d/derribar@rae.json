@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=derribar",
+	"word" : "derribar",
+	"infinitivo" : "derribar",
+	"participio" : [ "derribado" ],
+	"gerundio" : [ "derribando" ],
+	"tenses" : {
+		"3" : [
+			[ "derribo" ],
+			[ "derribas", "derribás" ],
+			[ "derriba" ],
+			[ "derribamos" ],
+			[ "derribáis", "derriban" ],
+			[ "derriban" ]
+		],
+		"4" : [
+			[ "derribé" ],
+			[ "derribaste" ],
+			[ "derribó" ],
+			[ "derribamos" ],
+			[ "derribasteis", "derribaron" ],
+			[ "derribaron" ]
+		],
+		"5" : [
+			[ "derribaba" ],
+			[ "derribabas" ],
+			[ "derribaba" ],
+			[ "derribábamos" ],
+			[ "derribabais", "derribaban" ],
+			[ "derribaban" ]
+		],
+		"6" : [
+			[ "derribaría" ],
+			[ "derribarías" ],
+			[ "derribaría" ],
+			[ "derribaríamos" ],
+			[ "derribaríais", "derribarían" ],
+			[ "derribarían" ]
+		],
+		"7" : [
+			[ "derribaré" ],
+			[ "derribarás" ],
+			[ "derribará" ],
+			[ "derribaremos" ],
+			[ "derribaréis", "derribarán" ],
+			[ "derribarán" ]
+		],
+		"8" : [
+			[ "derribe" ],
+			[ "derribes" ],
+			[ "derribe" ],
+			[ "derribemos" ],
+			[ "derribéis", "derriben" ],
+			[ "derriben" ]
+		],
+		"9" : [
+			[ "derribara" ],
+			[ "derribaras" ],
+			[ "derribara" ],
+			[ "derribáramos" ],
+			[ "derribarais", "derribaran" ],
+			[ "derribaran" ]
+		],
+		"10" : [
+			[ "derribase" ],
+			[ "derribases" ],
+			[ "derribase" ],
+			[ "derribásemos" ],
+			[ "derribaseis", "derribasen" ],
+			[ "derribasen" ]
+		],
+		"11" : [
+			[ "derribare" ],
+			[ "derribares" ],
+			[ "derribare" ],
+			[ "derribáremos" ],
+			[ "derribareis", "derribaren" ],
+			[ "derribaren" ]
+		],
+		"12" : {
+			"1" : [ "derriba" ],
+			"2" : [ "derribe" ],
+			"3" : [ "derribemos" ],
+			"4" : [ "derribad" ],
+			"5" : [ "derriben" ]
+		}
+	}
+}

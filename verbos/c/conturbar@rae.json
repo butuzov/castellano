@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conturbar",
+	"word" : "conturbar",
+	"infinitivo" : "conturbar",
+	"participio" : [ "conturbado" ],
+	"gerundio" : [ "conturbando" ],
+	"tenses" : {
+		"3" : [
+			[ "conturbo" ],
+			[ "conturbas", "conturbás" ],
+			[ "conturba" ],
+			[ "conturbamos" ],
+			[ "conturbáis", "conturban" ],
+			[ "conturban" ]
+		],
+		"4" : [
+			[ "conturbé" ],
+			[ "conturbaste" ],
+			[ "conturbó" ],
+			[ "conturbamos" ],
+			[ "conturbasteis", "conturbaron" ],
+			[ "conturbaron" ]
+		],
+		"5" : [
+			[ "conturbaba" ],
+			[ "conturbabas" ],
+			[ "conturbaba" ],
+			[ "conturbábamos" ],
+			[ "conturbabais", "conturbaban" ],
+			[ "conturbaban" ]
+		],
+		"6" : [
+			[ "conturbaría" ],
+			[ "conturbarías" ],
+			[ "conturbaría" ],
+			[ "conturbaríamos" ],
+			[ "conturbaríais", "conturbarían" ],
+			[ "conturbarían" ]
+		],
+		"7" : [
+			[ "conturbaré" ],
+			[ "conturbarás" ],
+			[ "conturbará" ],
+			[ "conturbaremos" ],
+			[ "conturbaréis", "conturbarán" ],
+			[ "conturbarán" ]
+		],
+		"8" : [
+			[ "conturbe" ],
+			[ "conturbes" ],
+			[ "conturbe" ],
+			[ "conturbemos" ],
+			[ "conturbéis", "conturben" ],
+			[ "conturben" ]
+		],
+		"9" : [
+			[ "conturbara" ],
+			[ "conturbaras" ],
+			[ "conturbara" ],
+			[ "conturbáramos" ],
+			[ "conturbarais", "conturbaran" ],
+			[ "conturbaran" ]
+		],
+		"10" : [
+			[ "conturbase" ],
+			[ "conturbases" ],
+			[ "conturbase" ],
+			[ "conturbásemos" ],
+			[ "conturbaseis", "conturbasen" ],
+			[ "conturbasen" ]
+		],
+		"11" : [
+			[ "conturbare" ],
+			[ "conturbares" ],
+			[ "conturbare" ],
+			[ "conturbáremos" ],
+			[ "conturbareis", "conturbaren" ],
+			[ "conturbaren" ]
+		],
+		"12" : {
+			"1" : [ "conturba" ],
+			"2" : [ "conturbe" ],
+			"3" : [ "conturbemos" ],
+			"4" : [ "conturbad" ],
+			"5" : [ "conturben" ]
+		}
+	}
+}

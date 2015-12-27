@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=blanquear",
+	"word" : "blanquear",
+	"infinitivo" : "blanquear",
+	"participio" : [ "blanqueado" ],
+	"gerundio" : [ "blanqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "blanqueo" ],
+			[ "blanqueas", "blanqueás" ],
+			[ "blanquea" ],
+			[ "blanqueamos" ],
+			[ "blanqueáis", "blanquean" ],
+			[ "blanquean" ]
+		],
+		"4" : [
+			[ "blanqueé" ],
+			[ "blanqueaste" ],
+			[ "blanqueó" ],
+			[ "blanqueamos" ],
+			[ "blanqueasteis", "blanquearon" ],
+			[ "blanquearon" ]
+		],
+		"5" : [
+			[ "blanqueaba" ],
+			[ "blanqueabas" ],
+			[ "blanqueaba" ],
+			[ "blanqueábamos" ],
+			[ "blanqueabais", "blanqueaban" ],
+			[ "blanqueaban" ]
+		],
+		"6" : [
+			[ "blanquearía" ],
+			[ "blanquearías" ],
+			[ "blanquearía" ],
+			[ "blanquearíamos" ],
+			[ "blanquearíais", "blanquearían" ],
+			[ "blanquearían" ]
+		],
+		"7" : [
+			[ "blanquearé" ],
+			[ "blanquearás" ],
+			[ "blanqueará" ],
+			[ "blanquearemos" ],
+			[ "blanquearéis", "blanquearán" ],
+			[ "blanquearán" ]
+		],
+		"8" : [
+			[ "blanquee" ],
+			[ "blanquees" ],
+			[ "blanquee" ],
+			[ "blanqueemos" ],
+			[ "blanqueéis", "blanqueen" ],
+			[ "blanqueen" ]
+		],
+		"9" : [
+			[ "blanqueara" ],
+			[ "blanquearas" ],
+			[ "blanqueara" ],
+			[ "blanqueáramos" ],
+			[ "blanquearais", "blanquearan" ],
+			[ "blanquearan" ]
+		],
+		"10" : [
+			[ "blanquease" ],
+			[ "blanqueases" ],
+			[ "blanquease" ],
+			[ "blanqueásemos" ],
+			[ "blanqueaseis", "blanqueasen" ],
+			[ "blanqueasen" ]
+		],
+		"11" : [
+			[ "blanqueare" ],
+			[ "blanqueares" ],
+			[ "blanqueare" ],
+			[ "blanqueáremos" ],
+			[ "blanqueareis", "blanquearen" ],
+			[ "blanquearen" ]
+		],
+		"12" : {
+			"1" : [ "blanquea" ],
+			"2" : [ "blanquee" ],
+			"3" : [ "blanqueemos" ],
+			"4" : [ "blanquead" ],
+			"5" : [ "blanqueen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ser",
+	"word" : "ser",
+	"infinitivo" : "ser",
+	"participio" : [ "sido" ],
+	"gerundio" : [ "siendo" ],
+	"tenses" : {
+		"3" : [
+			[ "soy" ],
+			[ "eres", "sos" ],
+			[ "es" ],
+			[ "somos" ],
+			[ "sois", "son" ],
+			[ "son" ]
+		],
+		"4" : [
+			[ "fui" ],
+			[ "fuiste" ],
+			[ "fue" ],
+			[ "fuimos" ],
+			[ "fuisteis", "fueron" ],
+			[ "fueron" ]
+		],
+		"5" : [
+			[ "era" ],
+			[ "eras" ],
+			[ "era" ],
+			[ "éramos" ],
+			[ "erais", "eran" ],
+			[ "eran" ]
+		],
+		"6" : [
+			[ "sería" ],
+			[ "serías" ],
+			[ "sería" ],
+			[ "seríamos" ],
+			[ "seríais", "serían" ],
+			[ "serían" ]
+		],
+		"7" : [
+			[ "seré" ],
+			[ "serás" ],
+			[ "será" ],
+			[ "seremos" ],
+			[ "seréis", "serán" ],
+			[ "serán" ]
+		],
+		"8" : [
+			[ "sea" ],
+			[ "seas" ],
+			[ "sea" ],
+			[ "seamos" ],
+			[ "seáis", "sean" ],
+			[ "sean" ]
+		],
+		"9" : [
+			[ "fuera" ],
+			[ "fueras" ],
+			[ "fuera" ],
+			[ "fuéramos" ],
+			[ "fuerais", "fueran" ],
+			[ "fueran" ]
+		],
+		"10" : [
+			[ "fuese" ],
+			[ "fueses" ],
+			[ "fuese" ],
+			[ "fuésemos" ],
+			[ "fueseis", "fuesen" ],
+			[ "fuesen" ]
+		],
+		"11" : [
+			[ "fuere" ],
+			[ "fueres" ],
+			[ "fuere" ],
+			[ "fuéremos" ],
+			[ "fuereis", "fueren" ],
+			[ "fueren" ]
+		],
+		"12" : {
+			"1" : [ "sé" ],
+			"2" : [ "sea" ],
+			"3" : [ "seamos" ],
+			"4" : [ "sed" ],
+			"5" : [ "sean" ]
+		}
+	}
+}

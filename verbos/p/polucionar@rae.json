@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=polucionar",
+	"word" : "polucionar",
+	"infinitivo" : "polucionar",
+	"participio" : [ "polucionado" ],
+	"gerundio" : [ "polucionando" ],
+	"tenses" : {
+		"3" : [
+			[ "poluciono" ],
+			[ "polucionas", "polucionás" ],
+			[ "poluciona" ],
+			[ "polucionamos" ],
+			[ "polucionáis", "polucionan" ],
+			[ "polucionan" ]
+		],
+		"4" : [
+			[ "polucioné" ],
+			[ "polucionaste" ],
+			[ "polucionó" ],
+			[ "polucionamos" ],
+			[ "polucionasteis", "polucionaron" ],
+			[ "polucionaron" ]
+		],
+		"5" : [
+			[ "polucionaba" ],
+			[ "polucionabas" ],
+			[ "polucionaba" ],
+			[ "polucionábamos" ],
+			[ "polucionabais", "polucionaban" ],
+			[ "polucionaban" ]
+		],
+		"6" : [
+			[ "polucionaría" ],
+			[ "polucionarías" ],
+			[ "polucionaría" ],
+			[ "polucionaríamos" ],
+			[ "polucionaríais", "polucionarían" ],
+			[ "polucionarían" ]
+		],
+		"7" : [
+			[ "polucionaré" ],
+			[ "polucionarás" ],
+			[ "polucionará" ],
+			[ "polucionaremos" ],
+			[ "polucionaréis", "polucionarán" ],
+			[ "polucionarán" ]
+		],
+		"8" : [
+			[ "polucione" ],
+			[ "poluciones" ],
+			[ "polucione" ],
+			[ "polucionemos" ],
+			[ "polucionéis", "polucionen" ],
+			[ "polucionen" ]
+		],
+		"9" : [
+			[ "polucionara" ],
+			[ "polucionaras" ],
+			[ "polucionara" ],
+			[ "polucionáramos" ],
+			[ "polucionarais", "polucionaran" ],
+			[ "polucionaran" ]
+		],
+		"10" : [
+			[ "polucionase" ],
+			[ "polucionases" ],
+			[ "polucionase" ],
+			[ "polucionásemos" ],
+			[ "polucionaseis", "polucionasen" ],
+			[ "polucionasen" ]
+		],
+		"11" : [
+			[ "polucionare" ],
+			[ "polucionares" ],
+			[ "polucionare" ],
+			[ "polucionáremos" ],
+			[ "polucionareis", "polucionaren" ],
+			[ "polucionaren" ]
+		],
+		"12" : {
+			"1" : [ "poluciona" ],
+			"2" : [ "polucione" ],
+			"3" : [ "polucionemos" ],
+			"4" : [ "polucionad" ],
+			"5" : [ "polucionen" ]
+		}
+	}
+}

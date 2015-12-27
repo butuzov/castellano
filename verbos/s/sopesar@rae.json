@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sopesar",
+	"word" : "sopesar",
+	"infinitivo" : "sopesar",
+	"participio" : [ "sopesado" ],
+	"gerundio" : [ "sopesando" ],
+	"tenses" : {
+		"3" : [
+			[ "sopeso" ],
+			[ "sopesas", "sopesás" ],
+			[ "sopesa" ],
+			[ "sopesamos" ],
+			[ "sopesáis", "sopesan" ],
+			[ "sopesan" ]
+		],
+		"4" : [
+			[ "sopesé" ],
+			[ "sopesaste" ],
+			[ "sopesó" ],
+			[ "sopesamos" ],
+			[ "sopesasteis", "sopesaron" ],
+			[ "sopesaron" ]
+		],
+		"5" : [
+			[ "sopesaba" ],
+			[ "sopesabas" ],
+			[ "sopesaba" ],
+			[ "sopesábamos" ],
+			[ "sopesabais", "sopesaban" ],
+			[ "sopesaban" ]
+		],
+		"6" : [
+			[ "sopesaría" ],
+			[ "sopesarías" ],
+			[ "sopesaría" ],
+			[ "sopesaríamos" ],
+			[ "sopesaríais", "sopesarían" ],
+			[ "sopesarían" ]
+		],
+		"7" : [
+			[ "sopesaré" ],
+			[ "sopesarás" ],
+			[ "sopesará" ],
+			[ "sopesaremos" ],
+			[ "sopesaréis", "sopesarán" ],
+			[ "sopesarán" ]
+		],
+		"8" : [
+			[ "sopese" ],
+			[ "sopeses" ],
+			[ "sopese" ],
+			[ "sopesemos" ],
+			[ "sopeséis", "sopesen" ],
+			[ "sopesen" ]
+		],
+		"9" : [
+			[ "sopesara" ],
+			[ "sopesaras" ],
+			[ "sopesara" ],
+			[ "sopesáramos" ],
+			[ "sopesarais", "sopesaran" ],
+			[ "sopesaran" ]
+		],
+		"10" : [
+			[ "sopesase" ],
+			[ "sopesases" ],
+			[ "sopesase" ],
+			[ "sopesásemos" ],
+			[ "sopesaseis", "sopesasen" ],
+			[ "sopesasen" ]
+		],
+		"11" : [
+			[ "sopesare" ],
+			[ "sopesares" ],
+			[ "sopesare" ],
+			[ "sopesáremos" ],
+			[ "sopesareis", "sopesaren" ],
+			[ "sopesaren" ]
+		],
+		"12" : {
+			"1" : [ "sopesa" ],
+			"2" : [ "sopese" ],
+			"3" : [ "sopesemos" ],
+			"4" : [ "sopesad" ],
+			"5" : [ "sopesen" ]
+		}
+	}
+}

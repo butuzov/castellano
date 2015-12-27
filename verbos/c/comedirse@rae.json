@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comedirse",
+	"word" : "comedirse",
+	"infinitivo" : "comedirse",
+	"participio" : [ "comedido" ],
+	"gerundio" : [ "comidiéndome", "comidiéndote" ],
+	"tenses" : {
+		"3" : [
+			[ "me comido" ],
+			[ "te comides", "te comedís" ],
+			[ "se comide" ],
+			[ "nos comedimos" ],
+			[ "os comedís", "se comiden" ],
+			[ "se comiden" ]
+		],
+		"4" : [
+			[ "me comedí" ],
+			[ "te comediste" ],
+			[ "se comidió" ],
+			[ "nos comedimos" ],
+			[ "os comedisteis", "se comidieron" ],
+			[ "se comidieron" ]
+		],
+		"5" : [
+			[ "me comedía" ],
+			[ "te comedías" ],
+			[ "se comedía" ],
+			[ "nos comedíamos" ],
+			[ "os comedíais", "se comedían" ],
+			[ "se comedían" ]
+		],
+		"6" : [
+			[ "me comediría" ],
+			[ "te comedirías" ],
+			[ "se comediría" ],
+			[ "nos comediríamos" ],
+			[ "os comediríais", "se comedirían" ],
+			[ "se comedirían" ]
+		],
+		"7" : [
+			[ "me comediré" ],
+			[ "te comedirás" ],
+			[ "se comedirá" ],
+			[ "nos comediremos" ],
+			[ "os comediréis", "se comedirán" ],
+			[ "se comedirán" ]
+		],
+		"8" : [
+			[ "me comida" ],
+			[ "te comidas" ],
+			[ "se comida" ],
+			[ "nos comidamos" ],
+			[ "os comidáis", "se comidan" ],
+			[ "se comidan" ]
+		],
+		"9" : [
+			[ "me comidiera" ],
+			[ "te comidieras" ],
+			[ "se comidiera" ],
+			[ "nos comidiéramos" ],
+			[ "os comidierais", "se comidieran" ],
+			[ "se comidieran" ]
+		],
+		"10" : [
+			[ "me comidiese" ],
+			[ "te comidieses" ],
+			[ "se comidiese" ],
+			[ "nos comidiésemos" ],
+			[ "os comidieseis", "se comidiesen" ],
+			[ "se comidiesen" ]
+		],
+		"11" : [
+			[ "me comidiere" ],
+			[ "te comidieres" ],
+			[ "se comidiere" ],
+			[ "nos comidiéremos" ],
+			[ "os comidiereis", "se comidieren" ],
+			[ "se comidieren" ]
+		],
+		"12" : {
+			"1" : [ "comídete" ],
+			"2" : [ "comida" ],
+			"3" : [ "comidamos" ],
+			"4" : [ "comedíos" ],
+			"5" : [ "comídanse" ]
+		}
+	}
+}

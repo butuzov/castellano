@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reinar",
+	"word" : "reinar",
+	"infinitivo" : "reinar",
+	"participio" : [ "reinado" ],
+	"gerundio" : [ "reinando" ],
+	"tenses" : {
+		"3" : [
+			[ "reino" ],
+			[ "reinas", "reinás" ],
+			[ "reina" ],
+			[ "reinamos" ],
+			[ "reináis", "reinan" ],
+			[ "reinan" ]
+		],
+		"4" : [
+			[ "reiné" ],
+			[ "reinaste" ],
+			[ "reinó" ],
+			[ "reinamos" ],
+			[ "reinasteis", "reinaron" ],
+			[ "reinaron" ]
+		],
+		"5" : [
+			[ "reinaba" ],
+			[ "reinabas" ],
+			[ "reinaba" ],
+			[ "reinábamos" ],
+			[ "reinabais", "reinaban" ],
+			[ "reinaban" ]
+		],
+		"6" : [
+			[ "reinaría" ],
+			[ "reinarías" ],
+			[ "reinaría" ],
+			[ "reinaríamos" ],
+			[ "reinaríais", "reinarían" ],
+			[ "reinarían" ]
+		],
+		"7" : [
+			[ "reinaré" ],
+			[ "reinarás" ],
+			[ "reinará" ],
+			[ "reinaremos" ],
+			[ "reinaréis", "reinarán" ],
+			[ "reinarán" ]
+		],
+		"8" : [
+			[ "reine" ],
+			[ "reines" ],
+			[ "reine" ],
+			[ "reinemos" ],
+			[ "reinéis", "reinen" ],
+			[ "reinen" ]
+		],
+		"9" : [
+			[ "reinara" ],
+			[ "reinaras" ],
+			[ "reinara" ],
+			[ "reináramos" ],
+			[ "reinarais", "reinaran" ],
+			[ "reinaran" ]
+		],
+		"10" : [
+			[ "reinase" ],
+			[ "reinases" ],
+			[ "reinase" ],
+			[ "reinásemos" ],
+			[ "reinaseis", "reinasen" ],
+			[ "reinasen" ]
+		],
+		"11" : [
+			[ "reinare" ],
+			[ "reinares" ],
+			[ "reinare" ],
+			[ "reináremos" ],
+			[ "reinareis", "reinaren" ],
+			[ "reinaren" ]
+		],
+		"12" : {
+			"1" : [ "reina" ],
+			"2" : [ "reine" ],
+			"3" : [ "reinemos" ],
+			"4" : [ "reinad" ],
+			"5" : [ "reinen" ]
+		}
+	}
+}

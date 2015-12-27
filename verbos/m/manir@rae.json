@@ -1,0 +1,73 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=manir",
+	"word" : "manir",
+	"infinitivo" : "manir",
+	"participio" : [ "manido" ],
+	"gerundio" : [ "maniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "manís" ],
+			[ "manimos" ],
+			[ "manís", "" ]
+		],
+		"4" : [
+			[ "maní" ],
+			[ "maniste" ],
+			[ "manió" ],
+			[ "manimos" ],
+			[ "manisteis", "manieron" ],
+			[ "manieron" ]
+		],
+		"5" : [
+			[ "manía" ],
+			[ "manías" ],
+			[ "manía" ],
+			[ "maníamos" ],
+			[ "maníais", "manían" ],
+			[ "manían" ]
+		],
+		"6" : [
+			[ "maniría" ],
+			[ "manirías" ],
+			[ "maniría" ],
+			[ "maniríamos" ],
+			[ "maniríais", "manirían" ],
+			[ "manirían" ]
+		],
+		"7" : [
+			[ "maniré" ],
+			[ "manirás" ],
+			[ "manirá" ],
+			[ "maniremos" ],
+			[ "maniréis", "manirán" ],
+			[ "manirán" ]
+		],
+		"9" : [
+			[ "maniera" ],
+			[ "manieras" ],
+			[ "maniera" ],
+			[ "maniéramos" ],
+			[ "manierais", "manieran" ],
+			[ "manieran" ]
+		],
+		"10" : [
+			[ "maniese" ],
+			[ "manieses" ],
+			[ "maniese" ],
+			[ "maniésemos" ],
+			[ "manieseis", "maniesen" ],
+			[ "maniesen" ]
+		],
+		"11" : [
+			[ "maniere" ],
+			[ "manieres" ],
+			[ "maniere" ],
+			[ "maniéremos" ],
+			[ "maniereis", "manieren" ],
+			[ "manieren" ]
+		],
+		"12" : {
+			"1" : [ "maní" ]
+		}
+	}
+}

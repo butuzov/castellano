@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=retener",
+	"word" : "retener",
+	"infinitivo" : "retener",
+	"participio" : [ "retenido" ],
+	"gerundio" : [ "reteniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "retengo" ],
+			[ "retienes", "retenés" ],
+			[ "retiene" ],
+			[ "retenemos" ],
+			[ "retenéis", "retienen" ],
+			[ "retienen" ]
+		],
+		"4" : [
+			[ "retuve" ],
+			[ "retuviste" ],
+			[ "retuvo" ],
+			[ "retuvimos" ],
+			[ "retuvisteis", "retuvieron" ],
+			[ "retuvieron" ]
+		],
+		"5" : [
+			[ "retenía" ],
+			[ "retenías" ],
+			[ "retenía" ],
+			[ "reteníamos" ],
+			[ "reteníais", "retenían" ],
+			[ "retenían" ]
+		],
+		"6" : [
+			[ "retendría" ],
+			[ "retendrías" ],
+			[ "retendría" ],
+			[ "retendríamos" ],
+			[ "retendríais", "retendrían" ],
+			[ "retendrían" ]
+		],
+		"7" : [
+			[ "retendré" ],
+			[ "retendrás" ],
+			[ "retendrá" ],
+			[ "retendremos" ],
+			[ "retendréis", "retendrán" ],
+			[ "retendrán" ]
+		],
+		"8" : [
+			[ "retenga" ],
+			[ "retengas" ],
+			[ "retenga" ],
+			[ "retengamos" ],
+			[ "retengáis", "retengan" ],
+			[ "retengan" ]
+		],
+		"9" : [
+			[ "retuviera" ],
+			[ "retuvieras" ],
+			[ "retuviera" ],
+			[ "retuviéramos" ],
+			[ "retuvierais", "retuvieran" ],
+			[ "retuvieran" ]
+		],
+		"10" : [
+			[ "retuviese" ],
+			[ "retuvieses" ],
+			[ "retuviese" ],
+			[ "retuviésemos" ],
+			[ "retuvieseis", "retuviesen" ],
+			[ "retuviesen" ]
+		],
+		"11" : [
+			[ "retuviere" ],
+			[ "retuvieres" ],
+			[ "retuviere" ],
+			[ "retuviéremos" ],
+			[ "retuviereis", "retuvieren" ],
+			[ "retuvieren" ]
+		],
+		"12" : {
+			"1" : [ "retén" ],
+			"2" : [ "retenga" ],
+			"3" : [ "retengamos" ],
+			"4" : [ "retened" ],
+			"5" : [ "retengan" ]
+		}
+	}
+}

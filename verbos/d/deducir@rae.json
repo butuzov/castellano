@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deducir",
+	"word" : "deducir",
+	"infinitivo" : "deducir",
+	"participio" : [ "deducido" ],
+	"gerundio" : [ "deduciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "deduzco" ],
+			[ "deduces", "deducís" ],
+			[ "deduce" ],
+			[ "deducimos" ],
+			[ "deducís", "deducen" ],
+			[ "deducen" ]
+		],
+		"4" : [
+			[ "deduje" ],
+			[ "dedujiste" ],
+			[ "dedujo" ],
+			[ "dedujimos" ],
+			[ "dedujisteis", "dedujeron" ],
+			[ "dedujeron" ]
+		],
+		"5" : [
+			[ "deducía" ],
+			[ "deducías" ],
+			[ "deducía" ],
+			[ "deducíamos" ],
+			[ "deducíais", "deducían" ],
+			[ "deducían" ]
+		],
+		"6" : [
+			[ "deduciría" ],
+			[ "deducirías" ],
+			[ "deduciría" ],
+			[ "deduciríamos" ],
+			[ "deduciríais", "deducirían" ],
+			[ "deducirían" ]
+		],
+		"7" : [
+			[ "deduciré" ],
+			[ "deducirás" ],
+			[ "deducirá" ],
+			[ "deduciremos" ],
+			[ "deduciréis", "deducirán" ],
+			[ "deducirán" ]
+		],
+		"8" : [
+			[ "deduzca" ],
+			[ "deduzcas" ],
+			[ "deduzca" ],
+			[ "deduzcamos" ],
+			[ "deduzcáis", "deduzcan" ],
+			[ "deduzcan" ]
+		],
+		"9" : [
+			[ "dedujera" ],
+			[ "dedujeras" ],
+			[ "dedujera" ],
+			[ "dedujéramos" ],
+			[ "dedujerais", "dedujeran" ],
+			[ "dedujeran" ]
+		],
+		"10" : [
+			[ "dedujese" ],
+			[ "dedujeses" ],
+			[ "dedujese" ],
+			[ "dedujésemos" ],
+			[ "dedujeseis", "dedujesen" ],
+			[ "dedujesen" ]
+		],
+		"11" : [
+			[ "dedujere" ],
+			[ "dedujeres" ],
+			[ "dedujere" ],
+			[ "dedujéremos" ],
+			[ "dedujereis", "dedujeren" ],
+			[ "dedujeren" ]
+		],
+		"12" : {
+			"1" : [ "deduce" ],
+			"2" : [ "deduzca" ],
+			"3" : [ "deduzcamos" ],
+			"4" : [ "deducid" ],
+			"5" : [ "deduzcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arrogar",
+	"word" : "arrogar",
+	"infinitivo" : "arrogar",
+	"participio" : [ "arrogado" ],
+	"gerundio" : [ "arrogando" ],
+	"tenses" : {
+		"3" : [
+			[ "arrogo" ],
+			[ "arrogas", "arrogás" ],
+			[ "arroga" ],
+			[ "arrogamos" ],
+			[ "arrogáis", "arrogan" ],
+			[ "arrogan" ]
+		],
+		"4" : [
+			[ "arrogué" ],
+			[ "arrogaste" ],
+			[ "arrogó" ],
+			[ "arrogamos" ],
+			[ "arrogasteis", "arrogaron" ],
+			[ "arrogaron" ]
+		],
+		"5" : [
+			[ "arrogaba" ],
+			[ "arrogabas" ],
+			[ "arrogaba" ],
+			[ "arrogábamos" ],
+			[ "arrogabais", "arrogaban" ],
+			[ "arrogaban" ]
+		],
+		"6" : [
+			[ "arrogaría" ],
+			[ "arrogarías" ],
+			[ "arrogaría" ],
+			[ "arrogaríamos" ],
+			[ "arrogaríais", "arrogarían" ],
+			[ "arrogarían" ]
+		],
+		"7" : [
+			[ "arrogaré" ],
+			[ "arrogarás" ],
+			[ "arrogará" ],
+			[ "arrogaremos" ],
+			[ "arrogaréis", "arrogarán" ],
+			[ "arrogarán" ]
+		],
+		"8" : [
+			[ "arrogue" ],
+			[ "arrogues" ],
+			[ "arrogue" ],
+			[ "arroguemos" ],
+			[ "arroguéis", "arroguen" ],
+			[ "arroguen" ]
+		],
+		"9" : [
+			[ "arrogara" ],
+			[ "arrogaras" ],
+			[ "arrogara" ],
+			[ "arrogáramos" ],
+			[ "arrogarais", "arrogaran" ],
+			[ "arrogaran" ]
+		],
+		"10" : [
+			[ "arrogase" ],
+			[ "arrogases" ],
+			[ "arrogase" ],
+			[ "arrogásemos" ],
+			[ "arrogaseis", "arrogasen" ],
+			[ "arrogasen" ]
+		],
+		"11" : [
+			[ "arrogare" ],
+			[ "arrogares" ],
+			[ "arrogare" ],
+			[ "arrogáremos" ],
+			[ "arrogareis", "arrogaren" ],
+			[ "arrogaren" ]
+		],
+		"12" : {
+			"1" : [ "arroga" ],
+			"2" : [ "arrogue" ],
+			"3" : [ "arroguemos" ],
+			"4" : [ "arrogad" ],
+			"5" : [ "arroguen" ]
+		}
+	}
+}

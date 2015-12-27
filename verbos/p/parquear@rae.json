@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=parquear",
+	"word" : "parquear",
+	"infinitivo" : "parquear",
+	"participio" : [ "parqueado" ],
+	"gerundio" : [ "parqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "parqueo" ],
+			[ "parqueas", "parqueás" ],
+			[ "parquea" ],
+			[ "parqueamos" ],
+			[ "parqueáis", "parquean" ],
+			[ "parquean" ]
+		],
+		"4" : [
+			[ "parqueé" ],
+			[ "parqueaste" ],
+			[ "parqueó" ],
+			[ "parqueamos" ],
+			[ "parqueasteis", "parquearon" ],
+			[ "parquearon" ]
+		],
+		"5" : [
+			[ "parqueaba" ],
+			[ "parqueabas" ],
+			[ "parqueaba" ],
+			[ "parqueábamos" ],
+			[ "parqueabais", "parqueaban" ],
+			[ "parqueaban" ]
+		],
+		"6" : [
+			[ "parquearía" ],
+			[ "parquearías" ],
+			[ "parquearía" ],
+			[ "parquearíamos" ],
+			[ "parquearíais", "parquearían" ],
+			[ "parquearían" ]
+		],
+		"7" : [
+			[ "parquearé" ],
+			[ "parquearás" ],
+			[ "parqueará" ],
+			[ "parquearemos" ],
+			[ "parquearéis", "parquearán" ],
+			[ "parquearán" ]
+		],
+		"8" : [
+			[ "parquee" ],
+			[ "parquees" ],
+			[ "parquee" ],
+			[ "parqueemos" ],
+			[ "parqueéis", "parqueen" ],
+			[ "parqueen" ]
+		],
+		"9" : [
+			[ "parqueara" ],
+			[ "parquearas" ],
+			[ "parqueara" ],
+			[ "parqueáramos" ],
+			[ "parquearais", "parquearan" ],
+			[ "parquearan" ]
+		],
+		"10" : [
+			[ "parquease" ],
+			[ "parqueases" ],
+			[ "parquease" ],
+			[ "parqueásemos" ],
+			[ "parqueaseis", "parqueasen" ],
+			[ "parqueasen" ]
+		],
+		"11" : [
+			[ "parqueare" ],
+			[ "parqueares" ],
+			[ "parqueare" ],
+			[ "parqueáremos" ],
+			[ "parqueareis", "parquearen" ],
+			[ "parquearen" ]
+		],
+		"12" : {
+			"1" : [ "parquea" ],
+			"2" : [ "parquee" ],
+			"3" : [ "parqueemos" ],
+			"4" : [ "parquead" ],
+			"5" : [ "parqueen" ]
+		}
+	}
+}

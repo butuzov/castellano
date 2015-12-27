@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atibar",
+	"word" : "atibar",
+	"infinitivo" : "atibar",
+	"participio" : [ "atibado" ],
+	"gerundio" : [ "atibando" ],
+	"tenses" : {
+		"3" : [
+			[ "atibo" ],
+			[ "atibas", "atibás" ],
+			[ "atiba" ],
+			[ "atibamos" ],
+			[ "atibáis", "atiban" ],
+			[ "atiban" ]
+		],
+		"4" : [
+			[ "atibé" ],
+			[ "atibaste" ],
+			[ "atibó" ],
+			[ "atibamos" ],
+			[ "atibasteis", "atibaron" ],
+			[ "atibaron" ]
+		],
+		"5" : [
+			[ "atibaba" ],
+			[ "atibabas" ],
+			[ "atibaba" ],
+			[ "atibábamos" ],
+			[ "atibabais", "atibaban" ],
+			[ "atibaban" ]
+		],
+		"6" : [
+			[ "atibaría" ],
+			[ "atibarías" ],
+			[ "atibaría" ],
+			[ "atibaríamos" ],
+			[ "atibaríais", "atibarían" ],
+			[ "atibarían" ]
+		],
+		"7" : [
+			[ "atibaré" ],
+			[ "atibarás" ],
+			[ "atibará" ],
+			[ "atibaremos" ],
+			[ "atibaréis", "atibarán" ],
+			[ "atibarán" ]
+		],
+		"8" : [
+			[ "atibe" ],
+			[ "atibes" ],
+			[ "atibe" ],
+			[ "atibemos" ],
+			[ "atibéis", "atiben" ],
+			[ "atiben" ]
+		],
+		"9" : [
+			[ "atibara" ],
+			[ "atibaras" ],
+			[ "atibara" ],
+			[ "atibáramos" ],
+			[ "atibarais", "atibaran" ],
+			[ "atibaran" ]
+		],
+		"10" : [
+			[ "atibase" ],
+			[ "atibases" ],
+			[ "atibase" ],
+			[ "atibásemos" ],
+			[ "atibaseis", "atibasen" ],
+			[ "atibasen" ]
+		],
+		"11" : [
+			[ "atibare" ],
+			[ "atibares" ],
+			[ "atibare" ],
+			[ "atibáremos" ],
+			[ "atibareis", "atibaren" ],
+			[ "atibaren" ]
+		],
+		"12" : {
+			"1" : [ "atiba" ],
+			"2" : [ "atibe" ],
+			"3" : [ "atibemos" ],
+			"4" : [ "atibad" ],
+			"5" : [ "atiben" ]
+		}
+	}
+}

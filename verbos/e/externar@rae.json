@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=externar",
+	"word" : "externar",
+	"infinitivo" : "externar",
+	"participio" : [ "externado" ],
+	"gerundio" : [ "externando" ],
+	"tenses" : {
+		"3" : [
+			[ "externo" ],
+			[ "externas", "externás" ],
+			[ "externa" ],
+			[ "externamos" ],
+			[ "externáis", "externan" ],
+			[ "externan" ]
+		],
+		"4" : [
+			[ "externé" ],
+			[ "externaste" ],
+			[ "externó" ],
+			[ "externamos" ],
+			[ "externasteis", "externaron" ],
+			[ "externaron" ]
+		],
+		"5" : [
+			[ "externaba" ],
+			[ "externabas" ],
+			[ "externaba" ],
+			[ "externábamos" ],
+			[ "externabais", "externaban" ],
+			[ "externaban" ]
+		],
+		"6" : [
+			[ "externaría" ],
+			[ "externarías" ],
+			[ "externaría" ],
+			[ "externaríamos" ],
+			[ "externaríais", "externarían" ],
+			[ "externarían" ]
+		],
+		"7" : [
+			[ "externaré" ],
+			[ "externarás" ],
+			[ "externará" ],
+			[ "externaremos" ],
+			[ "externaréis", "externarán" ],
+			[ "externarán" ]
+		],
+		"8" : [
+			[ "externe" ],
+			[ "externes" ],
+			[ "externe" ],
+			[ "externemos" ],
+			[ "externéis", "externen" ],
+			[ "externen" ]
+		],
+		"9" : [
+			[ "externara" ],
+			[ "externaras" ],
+			[ "externara" ],
+			[ "externáramos" ],
+			[ "externarais", "externaran" ],
+			[ "externaran" ]
+		],
+		"10" : [
+			[ "externase" ],
+			[ "externases" ],
+			[ "externase" ],
+			[ "externásemos" ],
+			[ "externaseis", "externasen" ],
+			[ "externasen" ]
+		],
+		"11" : [
+			[ "externare" ],
+			[ "externares" ],
+			[ "externare" ],
+			[ "externáremos" ],
+			[ "externareis", "externaren" ],
+			[ "externaren" ]
+		],
+		"12" : {
+			"1" : [ "externa" ],
+			"2" : [ "externe" ],
+			"3" : [ "externemos" ],
+			"4" : [ "externad" ],
+			"5" : [ "externen" ]
+		}
+	}
+}

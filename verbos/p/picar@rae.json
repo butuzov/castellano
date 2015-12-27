@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=picar",
+	"word" : "picar",
+	"infinitivo" : "picar",
+	"participio" : [ "picado" ],
+	"gerundio" : [ "picando" ],
+	"tenses" : {
+		"3" : [
+			[ "pico" ],
+			[ "picas", "picás" ],
+			[ "pica" ],
+			[ "picamos" ],
+			[ "picáis", "pican" ],
+			[ "pican" ]
+		],
+		"4" : [
+			[ "piqué" ],
+			[ "picaste" ],
+			[ "picó" ],
+			[ "picamos" ],
+			[ "picasteis", "picaron" ],
+			[ "picaron" ]
+		],
+		"5" : [
+			[ "picaba" ],
+			[ "picabas" ],
+			[ "picaba" ],
+			[ "picábamos" ],
+			[ "picabais", "picaban" ],
+			[ "picaban" ]
+		],
+		"6" : [
+			[ "picaría" ],
+			[ "picarías" ],
+			[ "picaría" ],
+			[ "picaríamos" ],
+			[ "picaríais", "picarían" ],
+			[ "picarían" ]
+		],
+		"7" : [
+			[ "picaré" ],
+			[ "picarás" ],
+			[ "picará" ],
+			[ "picaremos" ],
+			[ "picaréis", "picarán" ],
+			[ "picarán" ]
+		],
+		"8" : [
+			[ "pique" ],
+			[ "piques" ],
+			[ "pique" ],
+			[ "piquemos" ],
+			[ "piquéis", "piquen" ],
+			[ "piquen" ]
+		],
+		"9" : [
+			[ "picara" ],
+			[ "picaras" ],
+			[ "picara" ],
+			[ "picáramos" ],
+			[ "picarais", "picaran" ],
+			[ "picaran" ]
+		],
+		"10" : [
+			[ "picase" ],
+			[ "picases" ],
+			[ "picase" ],
+			[ "picásemos" ],
+			[ "picaseis", "picasen" ],
+			[ "picasen" ]
+		],
+		"11" : [
+			[ "picare" ],
+			[ "picares" ],
+			[ "picare" ],
+			[ "picáremos" ],
+			[ "picareis", "picaren" ],
+			[ "picaren" ]
+		],
+		"12" : {
+			"1" : [ "pica" ],
+			"2" : [ "pique" ],
+			"3" : [ "piquemos" ],
+			"4" : [ "picad" ],
+			"5" : [ "piquen" ]
+		}
+	}
+}

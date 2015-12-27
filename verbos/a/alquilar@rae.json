@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alquilar",
+	"word" : "alquilar",
+	"infinitivo" : "alquilar",
+	"participio" : [ "alquilado" ],
+	"gerundio" : [ "alquilando" ],
+	"tenses" : {
+		"3" : [
+			[ "alquilo" ],
+			[ "alquilas", "alquilás" ],
+			[ "alquila" ],
+			[ "alquilamos" ],
+			[ "alquiláis", "alquilan" ],
+			[ "alquilan" ]
+		],
+		"4" : [
+			[ "alquilé" ],
+			[ "alquilaste" ],
+			[ "alquiló" ],
+			[ "alquilamos" ],
+			[ "alquilasteis", "alquilaron" ],
+			[ "alquilaron" ]
+		],
+		"5" : [
+			[ "alquilaba" ],
+			[ "alquilabas" ],
+			[ "alquilaba" ],
+			[ "alquilábamos" ],
+			[ "alquilabais", "alquilaban" ],
+			[ "alquilaban" ]
+		],
+		"6" : [
+			[ "alquilaría" ],
+			[ "alquilarías" ],
+			[ "alquilaría" ],
+			[ "alquilaríamos" ],
+			[ "alquilaríais", "alquilarían" ],
+			[ "alquilarían" ]
+		],
+		"7" : [
+			[ "alquilaré" ],
+			[ "alquilarás" ],
+			[ "alquilará" ],
+			[ "alquilaremos" ],
+			[ "alquilaréis", "alquilarán" ],
+			[ "alquilarán" ]
+		],
+		"8" : [
+			[ "alquile" ],
+			[ "alquiles" ],
+			[ "alquile" ],
+			[ "alquilemos" ],
+			[ "alquiléis", "alquilen" ],
+			[ "alquilen" ]
+		],
+		"9" : [
+			[ "alquilara" ],
+			[ "alquilaras" ],
+			[ "alquilara" ],
+			[ "alquiláramos" ],
+			[ "alquilarais", "alquilaran" ],
+			[ "alquilaran" ]
+		],
+		"10" : [
+			[ "alquilase" ],
+			[ "alquilases" ],
+			[ "alquilase" ],
+			[ "alquilásemos" ],
+			[ "alquilaseis", "alquilasen" ],
+			[ "alquilasen" ]
+		],
+		"11" : [
+			[ "alquilare" ],
+			[ "alquilares" ],
+			[ "alquilare" ],
+			[ "alquiláremos" ],
+			[ "alquilareis", "alquilaren" ],
+			[ "alquilaren" ]
+		],
+		"12" : {
+			"1" : [ "alquila" ],
+			"2" : [ "alquile" ],
+			"3" : [ "alquilemos" ],
+			"4" : [ "alquilad" ],
+			"5" : [ "alquilen" ]
+		}
+	}
+}

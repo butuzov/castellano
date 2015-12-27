@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conjugar",
+	"word" : "conjugar",
+	"infinitivo" : "conjugar",
+	"participio" : [ "conjugado" ],
+	"gerundio" : [ "conjugando" ],
+	"tenses" : {
+		"3" : [
+			[ "conjugo" ],
+			[ "conjugas", "conjugás" ],
+			[ "conjuga" ],
+			[ "conjugamos" ],
+			[ "conjugáis", "conjugan" ],
+			[ "conjugan" ]
+		],
+		"4" : [
+			[ "conjugué" ],
+			[ "conjugaste" ],
+			[ "conjugó" ],
+			[ "conjugamos" ],
+			[ "conjugasteis", "conjugaron" ],
+			[ "conjugaron" ]
+		],
+		"5" : [
+			[ "conjugaba" ],
+			[ "conjugabas" ],
+			[ "conjugaba" ],
+			[ "conjugábamos" ],
+			[ "conjugabais", "conjugaban" ],
+			[ "conjugaban" ]
+		],
+		"6" : [
+			[ "conjugaría" ],
+			[ "conjugarías" ],
+			[ "conjugaría" ],
+			[ "conjugaríamos" ],
+			[ "conjugaríais", "conjugarían" ],
+			[ "conjugarían" ]
+		],
+		"7" : [
+			[ "conjugaré" ],
+			[ "conjugarás" ],
+			[ "conjugará" ],
+			[ "conjugaremos" ],
+			[ "conjugaréis", "conjugarán" ],
+			[ "conjugarán" ]
+		],
+		"8" : [
+			[ "conjugue" ],
+			[ "conjugues" ],
+			[ "conjugue" ],
+			[ "conjuguemos" ],
+			[ "conjuguéis", "conjuguen" ],
+			[ "conjuguen" ]
+		],
+		"9" : [
+			[ "conjugara" ],
+			[ "conjugaras" ],
+			[ "conjugara" ],
+			[ "conjugáramos" ],
+			[ "conjugarais", "conjugaran" ],
+			[ "conjugaran" ]
+		],
+		"10" : [
+			[ "conjugase" ],
+			[ "conjugases" ],
+			[ "conjugase" ],
+			[ "conjugásemos" ],
+			[ "conjugaseis", "conjugasen" ],
+			[ "conjugasen" ]
+		],
+		"11" : [
+			[ "conjugare" ],
+			[ "conjugares" ],
+			[ "conjugare" ],
+			[ "conjugáremos" ],
+			[ "conjugareis", "conjugaren" ],
+			[ "conjugaren" ]
+		],
+		"12" : {
+			"1" : [ "conjuga" ],
+			"2" : [ "conjugue" ],
+			"3" : [ "conjuguemos" ],
+			"4" : [ "conjugad" ],
+			"5" : [ "conjuguen" ]
+		}
+	}
+}

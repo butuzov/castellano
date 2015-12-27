@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mascar",
+	"word" : "mascar",
+	"infinitivo" : "mascar",
+	"participio" : [ "mascado" ],
+	"gerundio" : [ "mascando" ],
+	"tenses" : {
+		"3" : [
+			[ "masco" ],
+			[ "mascas", "mascás" ],
+			[ "masca" ],
+			[ "mascamos" ],
+			[ "mascáis", "mascan" ],
+			[ "mascan" ]
+		],
+		"4" : [
+			[ "masqué" ],
+			[ "mascaste" ],
+			[ "mascó" ],
+			[ "mascamos" ],
+			[ "mascasteis", "mascaron" ],
+			[ "mascaron" ]
+		],
+		"5" : [
+			[ "mascaba" ],
+			[ "mascabas" ],
+			[ "mascaba" ],
+			[ "mascábamos" ],
+			[ "mascabais", "mascaban" ],
+			[ "mascaban" ]
+		],
+		"6" : [
+			[ "mascaría" ],
+			[ "mascarías" ],
+			[ "mascaría" ],
+			[ "mascaríamos" ],
+			[ "mascaríais", "mascarían" ],
+			[ "mascarían" ]
+		],
+		"7" : [
+			[ "mascaré" ],
+			[ "mascarás" ],
+			[ "mascará" ],
+			[ "mascaremos" ],
+			[ "mascaréis", "mascarán" ],
+			[ "mascarán" ]
+		],
+		"8" : [
+			[ "masque" ],
+			[ "masques" ],
+			[ "masque" ],
+			[ "masquemos" ],
+			[ "masquéis", "masquen" ],
+			[ "masquen" ]
+		],
+		"9" : [
+			[ "mascara" ],
+			[ "mascaras" ],
+			[ "mascara" ],
+			[ "mascáramos" ],
+			[ "mascarais", "mascaran" ],
+			[ "mascaran" ]
+		],
+		"10" : [
+			[ "mascase" ],
+			[ "mascases" ],
+			[ "mascase" ],
+			[ "mascásemos" ],
+			[ "mascaseis", "mascasen" ],
+			[ "mascasen" ]
+		],
+		"11" : [
+			[ "mascare" ],
+			[ "mascares" ],
+			[ "mascare" ],
+			[ "mascáremos" ],
+			[ "mascareis", "mascaren" ],
+			[ "mascaren" ]
+		],
+		"12" : {
+			"1" : [ "masca" ],
+			"2" : [ "masque" ],
+			"3" : [ "masquemos" ],
+			"4" : [ "mascad" ],
+			"5" : [ "masquen" ]
+		}
+	}
+}

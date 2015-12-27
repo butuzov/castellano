@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=carcomer",
+	"word" : "carcomer",
+	"infinitivo" : "carcomer",
+	"participio" : [ "carcomido" ],
+	"gerundio" : [ "carcomiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "carcomo" ],
+			[ "carcomes", "carcomés" ],
+			[ "carcome" ],
+			[ "carcomemos" ],
+			[ "carcoméis", "carcomen" ],
+			[ "carcomen" ]
+		],
+		"4" : [
+			[ "carcomí" ],
+			[ "carcomiste" ],
+			[ "carcomió" ],
+			[ "carcomimos" ],
+			[ "carcomisteis", "carcomieron" ],
+			[ "carcomieron" ]
+		],
+		"5" : [
+			[ "carcomía" ],
+			[ "carcomías" ],
+			[ "carcomía" ],
+			[ "carcomíamos" ],
+			[ "carcomíais", "carcomían" ],
+			[ "carcomían" ]
+		],
+		"6" : [
+			[ "carcomería" ],
+			[ "carcomerías" ],
+			[ "carcomería" ],
+			[ "carcomeríamos" ],
+			[ "carcomeríais", "carcomerían" ],
+			[ "carcomerían" ]
+		],
+		"7" : [
+			[ "carcomeré" ],
+			[ "carcomerás" ],
+			[ "carcomerá" ],
+			[ "carcomeremos" ],
+			[ "carcomeréis", "carcomerán" ],
+			[ "carcomerán" ]
+		],
+		"8" : [
+			[ "carcoma" ],
+			[ "carcomas" ],
+			[ "carcoma" ],
+			[ "carcomamos" ],
+			[ "carcomáis", "carcoman" ],
+			[ "carcoman" ]
+		],
+		"9" : [
+			[ "carcomiera" ],
+			[ "carcomieras" ],
+			[ "carcomiera" ],
+			[ "carcomiéramos" ],
+			[ "carcomierais", "carcomieran" ],
+			[ "carcomieran" ]
+		],
+		"10" : [
+			[ "carcomiese" ],
+			[ "carcomieses" ],
+			[ "carcomiese" ],
+			[ "carcomiésemos" ],
+			[ "carcomieseis", "carcomiesen" ],
+			[ "carcomiesen" ]
+		],
+		"11" : [
+			[ "carcomiere" ],
+			[ "carcomieres" ],
+			[ "carcomiere" ],
+			[ "carcomiéremos" ],
+			[ "carcomiereis", "carcomieren" ],
+			[ "carcomieren" ]
+		],
+		"12" : {
+			"1" : [ "carcome" ],
+			"2" : [ "carcoma" ],
+			"3" : [ "carcomamos" ],
+			"4" : [ "carcomed" ],
+			"5" : [ "carcoman" ]
+		}
+	}
+}

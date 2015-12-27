@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fallar",
+	"word" : "fallar",
+	"infinitivo" : "fallar",
+	"participio" : [ "fallado" ],
+	"gerundio" : [ "fallando" ],
+	"tenses" : {
+		"3" : [
+			[ "fallo" ],
+			[ "fallas", "fallás" ],
+			[ "falla" ],
+			[ "fallamos" ],
+			[ "falláis", "fallan" ],
+			[ "fallan" ]
+		],
+		"4" : [
+			[ "fallé" ],
+			[ "fallaste" ],
+			[ "falló" ],
+			[ "fallamos" ],
+			[ "fallasteis", "fallaron" ],
+			[ "fallaron" ]
+		],
+		"5" : [
+			[ "fallaba" ],
+			[ "fallabas" ],
+			[ "fallaba" ],
+			[ "fallábamos" ],
+			[ "fallabais", "fallaban" ],
+			[ "fallaban" ]
+		],
+		"6" : [
+			[ "fallaría" ],
+			[ "fallarías" ],
+			[ "fallaría" ],
+			[ "fallaríamos" ],
+			[ "fallaríais", "fallarían" ],
+			[ "fallarían" ]
+		],
+		"7" : [
+			[ "fallaré" ],
+			[ "fallarás" ],
+			[ "fallará" ],
+			[ "fallaremos" ],
+			[ "fallaréis", "fallarán" ],
+			[ "fallarán" ]
+		],
+		"8" : [
+			[ "falle" ],
+			[ "falles" ],
+			[ "falle" ],
+			[ "fallemos" ],
+			[ "falléis", "fallen" ],
+			[ "fallen" ]
+		],
+		"9" : [
+			[ "fallara" ],
+			[ "fallaras" ],
+			[ "fallara" ],
+			[ "falláramos" ],
+			[ "fallarais", "fallaran" ],
+			[ "fallaran" ]
+		],
+		"10" : [
+			[ "fallase" ],
+			[ "fallases" ],
+			[ "fallase" ],
+			[ "fallásemos" ],
+			[ "fallaseis", "fallasen" ],
+			[ "fallasen" ]
+		],
+		"11" : [
+			[ "fallare" ],
+			[ "fallares" ],
+			[ "fallare" ],
+			[ "falláremos" ],
+			[ "fallareis", "fallaren" ],
+			[ "fallaren" ]
+		],
+		"12" : {
+			"1" : [ "falla" ],
+			"2" : [ "falle" ],
+			"3" : [ "fallemos" ],
+			"4" : [ "fallad" ],
+			"5" : [ "fallen" ]
+		}
+	}
+}

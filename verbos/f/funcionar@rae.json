@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=funcionar",
+	"word" : "funcionar",
+	"infinitivo" : "funcionar",
+	"participio" : [ "funcionado" ],
+	"gerundio" : [ "funcionando" ],
+	"tenses" : {
+		"3" : [
+			[ "funciono" ],
+			[ "funcionas", "funcionás" ],
+			[ "funciona" ],
+			[ "funcionamos" ],
+			[ "funcionáis", "funcionan" ],
+			[ "funcionan" ]
+		],
+		"4" : [
+			[ "funcioné" ],
+			[ "funcionaste" ],
+			[ "funcionó" ],
+			[ "funcionamos" ],
+			[ "funcionasteis", "funcionaron" ],
+			[ "funcionaron" ]
+		],
+		"5" : [
+			[ "funcionaba" ],
+			[ "funcionabas" ],
+			[ "funcionaba" ],
+			[ "funcionábamos" ],
+			[ "funcionabais", "funcionaban" ],
+			[ "funcionaban" ]
+		],
+		"6" : [
+			[ "funcionaría" ],
+			[ "funcionarías" ],
+			[ "funcionaría" ],
+			[ "funcionaríamos" ],
+			[ "funcionaríais", "funcionarían" ],
+			[ "funcionarían" ]
+		],
+		"7" : [
+			[ "funcionaré" ],
+			[ "funcionarás" ],
+			[ "funcionará" ],
+			[ "funcionaremos" ],
+			[ "funcionaréis", "funcionarán" ],
+			[ "funcionarán" ]
+		],
+		"8" : [
+			[ "funcione" ],
+			[ "funciones" ],
+			[ "funcione" ],
+			[ "funcionemos" ],
+			[ "funcionéis", "funcionen" ],
+			[ "funcionen" ]
+		],
+		"9" : [
+			[ "funcionara" ],
+			[ "funcionaras" ],
+			[ "funcionara" ],
+			[ "funcionáramos" ],
+			[ "funcionarais", "funcionaran" ],
+			[ "funcionaran" ]
+		],
+		"10" : [
+			[ "funcionase" ],
+			[ "funcionases" ],
+			[ "funcionase" ],
+			[ "funcionásemos" ],
+			[ "funcionaseis", "funcionasen" ],
+			[ "funcionasen" ]
+		],
+		"11" : [
+			[ "funcionare" ],
+			[ "funcionares" ],
+			[ "funcionare" ],
+			[ "funcionáremos" ],
+			[ "funcionareis", "funcionaren" ],
+			[ "funcionaren" ]
+		],
+		"12" : {
+			"1" : [ "funciona" ],
+			"2" : [ "funcione" ],
+			"3" : [ "funcionemos" ],
+			"4" : [ "funcionad" ],
+			"5" : [ "funcionen" ]
+		}
+	}
+}

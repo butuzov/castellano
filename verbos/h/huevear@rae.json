@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=huevear",
+	"word" : "huevear",
+	"infinitivo" : "huevear",
+	"participio" : [ "hueveado" ],
+	"gerundio" : [ "hueveando" ],
+	"tenses" : {
+		"3" : [
+			[ "hueveo" ],
+			[ "hueveas", "hueveás" ],
+			[ "huevea" ],
+			[ "hueveamos" ],
+			[ "hueveáis", "huevean" ],
+			[ "huevean" ]
+		],
+		"4" : [
+			[ "hueveé" ],
+			[ "hueveaste" ],
+			[ "hueveó" ],
+			[ "hueveamos" ],
+			[ "hueveasteis", "huevearon" ],
+			[ "huevearon" ]
+		],
+		"5" : [
+			[ "hueveaba" ],
+			[ "hueveabas" ],
+			[ "hueveaba" ],
+			[ "hueveábamos" ],
+			[ "hueveabais", "hueveaban" ],
+			[ "hueveaban" ]
+		],
+		"6" : [
+			[ "huevearía" ],
+			[ "huevearías" ],
+			[ "huevearía" ],
+			[ "huevearíamos" ],
+			[ "huevearíais", "huevearían" ],
+			[ "huevearían" ]
+		],
+		"7" : [
+			[ "huevearé" ],
+			[ "huevearás" ],
+			[ "hueveará" ],
+			[ "huevearemos" ],
+			[ "huevearéis", "huevearán" ],
+			[ "huevearán" ]
+		],
+		"8" : [
+			[ "huevee" ],
+			[ "huevees" ],
+			[ "huevee" ],
+			[ "hueveemos" ],
+			[ "hueveéis", "hueveen" ],
+			[ "hueveen" ]
+		],
+		"9" : [
+			[ "hueveara" ],
+			[ "huevearas" ],
+			[ "hueveara" ],
+			[ "hueveáramos" ],
+			[ "huevearais", "huevearan" ],
+			[ "huevearan" ]
+		],
+		"10" : [
+			[ "huevease" ],
+			[ "hueveases" ],
+			[ "huevease" ],
+			[ "hueveásemos" ],
+			[ "hueveaseis", "hueveasen" ],
+			[ "hueveasen" ]
+		],
+		"11" : [
+			[ "hueveare" ],
+			[ "hueveares" ],
+			[ "hueveare" ],
+			[ "hueveáremos" ],
+			[ "hueveareis", "huevearen" ],
+			[ "huevearen" ]
+		],
+		"12" : {
+			"1" : [ "huevea" ],
+			"2" : [ "huevee" ],
+			"3" : [ "hueveemos" ],
+			"4" : [ "huevead" ],
+			"5" : [ "hueveen" ]
+		}
+	}
+}

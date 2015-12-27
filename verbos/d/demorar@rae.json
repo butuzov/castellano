@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=demorar",
+	"word" : "demorar",
+	"infinitivo" : "demorar",
+	"participio" : [ "demorado" ],
+	"gerundio" : [ "demorando" ],
+	"tenses" : {
+		"3" : [
+			[ "demoro" ],
+			[ "demoras", "demorás" ],
+			[ "demora" ],
+			[ "demoramos" ],
+			[ "demoráis", "demoran" ],
+			[ "demoran" ]
+		],
+		"4" : [
+			[ "demoré" ],
+			[ "demoraste" ],
+			[ "demoró" ],
+			[ "demoramos" ],
+			[ "demorasteis", "demoraron" ],
+			[ "demoraron" ]
+		],
+		"5" : [
+			[ "demoraba" ],
+			[ "demorabas" ],
+			[ "demoraba" ],
+			[ "demorábamos" ],
+			[ "demorabais", "demoraban" ],
+			[ "demoraban" ]
+		],
+		"6" : [
+			[ "demoraría" ],
+			[ "demorarías" ],
+			[ "demoraría" ],
+			[ "demoraríamos" ],
+			[ "demoraríais", "demorarían" ],
+			[ "demorarían" ]
+		],
+		"7" : [
+			[ "demoraré" ],
+			[ "demorarás" ],
+			[ "demorará" ],
+			[ "demoraremos" ],
+			[ "demoraréis", "demorarán" ],
+			[ "demorarán" ]
+		],
+		"8" : [
+			[ "demore" ],
+			[ "demores" ],
+			[ "demore" ],
+			[ "demoremos" ],
+			[ "demoréis", "demoren" ],
+			[ "demoren" ]
+		],
+		"9" : [
+			[ "demorara" ],
+			[ "demoraras" ],
+			[ "demorara" ],
+			[ "demoráramos" ],
+			[ "demorarais", "demoraran" ],
+			[ "demoraran" ]
+		],
+		"10" : [
+			[ "demorase" ],
+			[ "demorases" ],
+			[ "demorase" ],
+			[ "demorásemos" ],
+			[ "demoraseis", "demorasen" ],
+			[ "demorasen" ]
+		],
+		"11" : [
+			[ "demorare" ],
+			[ "demorares" ],
+			[ "demorare" ],
+			[ "demoráremos" ],
+			[ "demorareis", "demoraren" ],
+			[ "demoraren" ]
+		],
+		"12" : {
+			"1" : [ "demora" ],
+			"2" : [ "demore" ],
+			"3" : [ "demoremos" ],
+			"4" : [ "demorad" ],
+			"5" : [ "demoren" ]
+		}
+	}
+}

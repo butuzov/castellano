@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enternecer",
+	"word" : "enternecer",
+	"infinitivo" : "enternecer",
+	"participio" : [ "enternecido" ],
+	"gerundio" : [ "enterneciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "enternezco" ],
+			[ "enterneces", "enternecés" ],
+			[ "enternece" ],
+			[ "enternecemos" ],
+			[ "enternecéis", "enternecen" ],
+			[ "enternecen" ]
+		],
+		"4" : [
+			[ "enternecí" ],
+			[ "enterneciste" ],
+			[ "enterneció" ],
+			[ "enternecimos" ],
+			[ "enternecisteis", "enternecieron" ],
+			[ "enternecieron" ]
+		],
+		"5" : [
+			[ "enternecía" ],
+			[ "enternecías" ],
+			[ "enternecía" ],
+			[ "enternecíamos" ],
+			[ "enternecíais", "enternecían" ],
+			[ "enternecían" ]
+		],
+		"6" : [
+			[ "enternecería" ],
+			[ "enternecerías" ],
+			[ "enternecería" ],
+			[ "enterneceríamos" ],
+			[ "enterneceríais", "enternecerían" ],
+			[ "enternecerían" ]
+		],
+		"7" : [
+			[ "enterneceré" ],
+			[ "enternecerás" ],
+			[ "enternecerá" ],
+			[ "enterneceremos" ],
+			[ "enterneceréis", "enternecerán" ],
+			[ "enternecerán" ]
+		],
+		"8" : [
+			[ "enternezca" ],
+			[ "enternezcas" ],
+			[ "enternezca" ],
+			[ "enternezcamos" ],
+			[ "enternezcáis", "enternezcan" ],
+			[ "enternezcan" ]
+		],
+		"9" : [
+			[ "enterneciera" ],
+			[ "enternecieras" ],
+			[ "enterneciera" ],
+			[ "enterneciéramos" ],
+			[ "enternecierais", "enternecieran" ],
+			[ "enternecieran" ]
+		],
+		"10" : [
+			[ "enterneciese" ],
+			[ "enternecieses" ],
+			[ "enterneciese" ],
+			[ "enterneciésemos" ],
+			[ "enternecieseis", "enterneciesen" ],
+			[ "enterneciesen" ]
+		],
+		"11" : [
+			[ "enterneciere" ],
+			[ "enternecieres" ],
+			[ "enterneciere" ],
+			[ "enterneciéremos" ],
+			[ "enterneciereis", "enternecieren" ],
+			[ "enternecieren" ]
+		],
+		"12" : {
+			"1" : [ "enternece" ],
+			"2" : [ "enternezca" ],
+			"3" : [ "enternezcamos" ],
+			"4" : [ "enterneced" ],
+			"5" : [ "enternezcan" ]
+		}
+	}
+}

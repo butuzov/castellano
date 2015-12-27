@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=callejear",
+	"word" : "callejear",
+	"infinitivo" : "callejear",
+	"participio" : [ "callejeado" ],
+	"gerundio" : [ "callejeando" ],
+	"tenses" : {
+		"3" : [
+			[ "callejeo" ],
+			[ "callejeas", "callejeás" ],
+			[ "callejea" ],
+			[ "callejeamos" ],
+			[ "callejeáis", "callejean" ],
+			[ "callejean" ]
+		],
+		"4" : [
+			[ "callejeé" ],
+			[ "callejeaste" ],
+			[ "callejeó" ],
+			[ "callejeamos" ],
+			[ "callejeasteis", "callejearon" ],
+			[ "callejearon" ]
+		],
+		"5" : [
+			[ "callejeaba" ],
+			[ "callejeabas" ],
+			[ "callejeaba" ],
+			[ "callejeábamos" ],
+			[ "callejeabais", "callejeaban" ],
+			[ "callejeaban" ]
+		],
+		"6" : [
+			[ "callejearía" ],
+			[ "callejearías" ],
+			[ "callejearía" ],
+			[ "callejearíamos" ],
+			[ "callejearíais", "callejearían" ],
+			[ "callejearían" ]
+		],
+		"7" : [
+			[ "callejearé" ],
+			[ "callejearás" ],
+			[ "callejeará" ],
+			[ "callejearemos" ],
+			[ "callejearéis", "callejearán" ],
+			[ "callejearán" ]
+		],
+		"8" : [
+			[ "callejee" ],
+			[ "callejees" ],
+			[ "callejee" ],
+			[ "callejeemos" ],
+			[ "callejeéis", "callejeen" ],
+			[ "callejeen" ]
+		],
+		"9" : [
+			[ "callejeara" ],
+			[ "callejearas" ],
+			[ "callejeara" ],
+			[ "callejeáramos" ],
+			[ "callejearais", "callejearan" ],
+			[ "callejearan" ]
+		],
+		"10" : [
+			[ "callejease" ],
+			[ "callejeases" ],
+			[ "callejease" ],
+			[ "callejeásemos" ],
+			[ "callejeaseis", "callejeasen" ],
+			[ "callejeasen" ]
+		],
+		"11" : [
+			[ "callejeare" ],
+			[ "callejeares" ],
+			[ "callejeare" ],
+			[ "callejeáremos" ],
+			[ "callejeareis", "callejearen" ],
+			[ "callejearen" ]
+		],
+		"12" : {
+			"1" : [ "callejea" ],
+			"2" : [ "callejee" ],
+			"3" : [ "callejeemos" ],
+			"4" : [ "callejead" ],
+			"5" : [ "callejeen" ]
+		}
+	}
+}

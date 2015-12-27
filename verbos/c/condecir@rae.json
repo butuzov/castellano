@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=condecir",
+	"word" : "condecir",
+	"infinitivo" : "condecir",
+	"participio" : [ "condicho" ],
+	"gerundio" : [ "condiciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "condigo" ],
+			[ "condices", "condecís" ],
+			[ "condice" ],
+			[ "condecimos" ],
+			[ "condecís", "condicen" ],
+			[ "condicen" ]
+		],
+		"4" : [
+			[ "condije" ],
+			[ "condijiste" ],
+			[ "condijo" ],
+			[ "condijimos" ],
+			[ "condijisteis", "condijeron" ],
+			[ "condijeron" ]
+		],
+		"5" : [
+			[ "condecía" ],
+			[ "condecías" ],
+			[ "condecía" ],
+			[ "condecíamos" ],
+			[ "condecíais", "condecían" ],
+			[ "condecían" ]
+		],
+		"6" : [
+			[ "condiría" ],
+			[ "condirías" ],
+			[ "condiría" ],
+			[ "condiríamos" ],
+			[ "condiríais", "condirían" ],
+			[ "condirían" ]
+		],
+		"7" : [
+			[ "condiré" ],
+			[ "condirás" ],
+			[ "condirá" ],
+			[ "condiremos" ],
+			[ "condiréis", "condirán" ],
+			[ "condirán" ]
+		],
+		"8" : [
+			[ "condiga" ],
+			[ "condigas" ],
+			[ "condiga" ],
+			[ "condigamos" ],
+			[ "condigáis", "condigan" ],
+			[ "condigan" ]
+		],
+		"9" : [
+			[ "condijera" ],
+			[ "condijeras" ],
+			[ "condijera" ],
+			[ "condijéramos" ],
+			[ "condijerais", "condijeran" ],
+			[ "condijeran" ]
+		],
+		"10" : [
+			[ "condijese" ],
+			[ "condijeses" ],
+			[ "condijese" ],
+			[ "condijésemos" ],
+			[ "condijeseis", "condijesen" ],
+			[ "condijesen" ]
+		],
+		"11" : [
+			[ "condijere" ],
+			[ "condijeres" ],
+			[ "condijere" ],
+			[ "condijéremos" ],
+			[ "condijereis", "condijeren" ],
+			[ "condijeren" ]
+		],
+		"12" : {
+			"1" : [ "condice" ],
+			"2" : [ "condiga" ],
+			"3" : [ "condigamos" ],
+			"4" : [ "condecid" ],
+			"5" : [ "condigan" ]
+		}
+	}
+}

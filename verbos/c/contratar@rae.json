@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contratar",
+	"word" : "contratar",
+	"infinitivo" : "contratar",
+	"participio" : [ "contratado" ],
+	"gerundio" : [ "contratando" ],
+	"tenses" : {
+		"3" : [
+			[ "contrato" ],
+			[ "contratas", "contratás" ],
+			[ "contrata" ],
+			[ "contratamos" ],
+			[ "contratáis", "contratan" ],
+			[ "contratan" ]
+		],
+		"4" : [
+			[ "contraté" ],
+			[ "contrataste" ],
+			[ "contrató" ],
+			[ "contratamos" ],
+			[ "contratasteis", "contrataron" ],
+			[ "contrataron" ]
+		],
+		"5" : [
+			[ "contrataba" ],
+			[ "contratabas" ],
+			[ "contrataba" ],
+			[ "contratábamos" ],
+			[ "contratabais", "contrataban" ],
+			[ "contrataban" ]
+		],
+		"6" : [
+			[ "contrataría" ],
+			[ "contratarías" ],
+			[ "contrataría" ],
+			[ "contrataríamos" ],
+			[ "contrataríais", "contratarían" ],
+			[ "contratarían" ]
+		],
+		"7" : [
+			[ "contrataré" ],
+			[ "contratarás" ],
+			[ "contratará" ],
+			[ "contrataremos" ],
+			[ "contrataréis", "contratarán" ],
+			[ "contratarán" ]
+		],
+		"8" : [
+			[ "contrate" ],
+			[ "contrates" ],
+			[ "contrate" ],
+			[ "contratemos" ],
+			[ "contratéis", "contraten" ],
+			[ "contraten" ]
+		],
+		"9" : [
+			[ "contratara" ],
+			[ "contrataras" ],
+			[ "contratara" ],
+			[ "contratáramos" ],
+			[ "contratarais", "contrataran" ],
+			[ "contrataran" ]
+		],
+		"10" : [
+			[ "contratase" ],
+			[ "contratases" ],
+			[ "contratase" ],
+			[ "contratásemos" ],
+			[ "contrataseis", "contratasen" ],
+			[ "contratasen" ]
+		],
+		"11" : [
+			[ "contratare" ],
+			[ "contratares" ],
+			[ "contratare" ],
+			[ "contratáremos" ],
+			[ "contratareis", "contrataren" ],
+			[ "contrataren" ]
+		],
+		"12" : {
+			"1" : [ "contrata" ],
+			"2" : [ "contrate" ],
+			"3" : [ "contratemos" ],
+			"4" : [ "contratad" ],
+			"5" : [ "contraten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=concadenar",
+	"word" : "concadenar",
+	"infinitivo" : "concadenar",
+	"participio" : [ "concadenado" ],
+	"gerundio" : [ "concadenando" ],
+	"tenses" : {
+		"3" : [
+			[ "concadeno" ],
+			[ "concadenas", "concadenás" ],
+			[ "concadena" ],
+			[ "concadenamos" ],
+			[ "concadenáis", "concadenan" ],
+			[ "concadenan" ]
+		],
+		"4" : [
+			[ "concadené" ],
+			[ "concadenaste" ],
+			[ "concadenó" ],
+			[ "concadenamos" ],
+			[ "concadenasteis", "concadenaron" ],
+			[ "concadenaron" ]
+		],
+		"5" : [
+			[ "concadenaba" ],
+			[ "concadenabas" ],
+			[ "concadenaba" ],
+			[ "concadenábamos" ],
+			[ "concadenabais", "concadenaban" ],
+			[ "concadenaban" ]
+		],
+		"6" : [
+			[ "concadenaría" ],
+			[ "concadenarías" ],
+			[ "concadenaría" ],
+			[ "concadenaríamos" ],
+			[ "concadenaríais", "concadenarían" ],
+			[ "concadenarían" ]
+		],
+		"7" : [
+			[ "concadenaré" ],
+			[ "concadenarás" ],
+			[ "concadenará" ],
+			[ "concadenaremos" ],
+			[ "concadenaréis", "concadenarán" ],
+			[ "concadenarán" ]
+		],
+		"8" : [
+			[ "concadene" ],
+			[ "concadenes" ],
+			[ "concadene" ],
+			[ "concadenemos" ],
+			[ "concadenéis", "concadenen" ],
+			[ "concadenen" ]
+		],
+		"9" : [
+			[ "concadenara" ],
+			[ "concadenaras" ],
+			[ "concadenara" ],
+			[ "concadenáramos" ],
+			[ "concadenarais", "concadenaran" ],
+			[ "concadenaran" ]
+		],
+		"10" : [
+			[ "concadenase" ],
+			[ "concadenases" ],
+			[ "concadenase" ],
+			[ "concadenásemos" ],
+			[ "concadenaseis", "concadenasen" ],
+			[ "concadenasen" ]
+		],
+		"11" : [
+			[ "concadenare" ],
+			[ "concadenares" ],
+			[ "concadenare" ],
+			[ "concadenáremos" ],
+			[ "concadenareis", "concadenaren" ],
+			[ "concadenaren" ]
+		],
+		"12" : {
+			"1" : [ "concadena" ],
+			"2" : [ "concadene" ],
+			"3" : [ "concadenemos" ],
+			"4" : [ "concadenad" ],
+			"5" : [ "concadenen" ]
+		}
+	}
+}

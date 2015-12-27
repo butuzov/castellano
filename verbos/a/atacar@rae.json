@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atacar",
+	"word" : "atacar",
+	"infinitivo" : "atacar",
+	"participio" : [ "atacado" ],
+	"gerundio" : [ "atacando" ],
+	"tenses" : {
+		"3" : [
+			[ "ataco" ],
+			[ "atacas", "atacás" ],
+			[ "ataca" ],
+			[ "atacamos" ],
+			[ "atacáis", "atacan" ],
+			[ "atacan" ]
+		],
+		"4" : [
+			[ "ataqué" ],
+			[ "atacaste" ],
+			[ "atacó" ],
+			[ "atacamos" ],
+			[ "atacasteis", "atacaron" ],
+			[ "atacaron" ]
+		],
+		"5" : [
+			[ "atacaba" ],
+			[ "atacabas" ],
+			[ "atacaba" ],
+			[ "atacábamos" ],
+			[ "atacabais", "atacaban" ],
+			[ "atacaban" ]
+		],
+		"6" : [
+			[ "atacaría" ],
+			[ "atacarías" ],
+			[ "atacaría" ],
+			[ "atacaríamos" ],
+			[ "atacaríais", "atacarían" ],
+			[ "atacarían" ]
+		],
+		"7" : [
+			[ "atacaré" ],
+			[ "atacarás" ],
+			[ "atacará" ],
+			[ "atacaremos" ],
+			[ "atacaréis", "atacarán" ],
+			[ "atacarán" ]
+		],
+		"8" : [
+			[ "ataque" ],
+			[ "ataques" ],
+			[ "ataque" ],
+			[ "ataquemos" ],
+			[ "ataquéis", "ataquen" ],
+			[ "ataquen" ]
+		],
+		"9" : [
+			[ "atacara" ],
+			[ "atacaras" ],
+			[ "atacara" ],
+			[ "atacáramos" ],
+			[ "atacarais", "atacaran" ],
+			[ "atacaran" ]
+		],
+		"10" : [
+			[ "atacase" ],
+			[ "atacases" ],
+			[ "atacase" ],
+			[ "atacásemos" ],
+			[ "atacaseis", "atacasen" ],
+			[ "atacasen" ]
+		],
+		"11" : [
+			[ "atacare" ],
+			[ "atacares" ],
+			[ "atacare" ],
+			[ "atacáremos" ],
+			[ "atacareis", "atacaren" ],
+			[ "atacaren" ]
+		],
+		"12" : {
+			"1" : [ "ataca" ],
+			"2" : [ "ataque" ],
+			"3" : [ "ataquemos" ],
+			"4" : [ "atacad" ],
+			"5" : [ "ataquen" ]
+		}
+	}
+}

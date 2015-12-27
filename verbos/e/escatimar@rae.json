@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escatimar",
+	"word" : "escatimar",
+	"infinitivo" : "escatimar",
+	"participio" : [ "escatimado" ],
+	"gerundio" : [ "escatimando" ],
+	"tenses" : {
+		"3" : [
+			[ "escatimo" ],
+			[ "escatimas", "escatimás" ],
+			[ "escatima" ],
+			[ "escatimamos" ],
+			[ "escatimáis", "escatiman" ],
+			[ "escatiman" ]
+		],
+		"4" : [
+			[ "escatimé" ],
+			[ "escatimaste" ],
+			[ "escatimó" ],
+			[ "escatimamos" ],
+			[ "escatimasteis", "escatimaron" ],
+			[ "escatimaron" ]
+		],
+		"5" : [
+			[ "escatimaba" ],
+			[ "escatimabas" ],
+			[ "escatimaba" ],
+			[ "escatimábamos" ],
+			[ "escatimabais", "escatimaban" ],
+			[ "escatimaban" ]
+		],
+		"6" : [
+			[ "escatimaría" ],
+			[ "escatimarías" ],
+			[ "escatimaría" ],
+			[ "escatimaríamos" ],
+			[ "escatimaríais", "escatimarían" ],
+			[ "escatimarían" ]
+		],
+		"7" : [
+			[ "escatimaré" ],
+			[ "escatimarás" ],
+			[ "escatimará" ],
+			[ "escatimaremos" ],
+			[ "escatimaréis", "escatimarán" ],
+			[ "escatimarán" ]
+		],
+		"8" : [
+			[ "escatime" ],
+			[ "escatimes" ],
+			[ "escatime" ],
+			[ "escatimemos" ],
+			[ "escatiméis", "escatimen" ],
+			[ "escatimen" ]
+		],
+		"9" : [
+			[ "escatimara" ],
+			[ "escatimaras" ],
+			[ "escatimara" ],
+			[ "escatimáramos" ],
+			[ "escatimarais", "escatimaran" ],
+			[ "escatimaran" ]
+		],
+		"10" : [
+			[ "escatimase" ],
+			[ "escatimases" ],
+			[ "escatimase" ],
+			[ "escatimásemos" ],
+			[ "escatimaseis", "escatimasen" ],
+			[ "escatimasen" ]
+		],
+		"11" : [
+			[ "escatimare" ],
+			[ "escatimares" ],
+			[ "escatimare" ],
+			[ "escatimáremos" ],
+			[ "escatimareis", "escatimaren" ],
+			[ "escatimaren" ]
+		],
+		"12" : {
+			"1" : [ "escatima" ],
+			"2" : [ "escatime" ],
+			"3" : [ "escatimemos" ],
+			"4" : [ "escatimad" ],
+			"5" : [ "escatimen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=listar",
+	"word" : "listar",
+	"infinitivo" : "listar",
+	"participio" : [ "listado" ],
+	"gerundio" : [ "listando" ],
+	"tenses" : {
+		"3" : [
+			[ "listo" ],
+			[ "listas", "listás" ],
+			[ "lista" ],
+			[ "listamos" ],
+			[ "listáis", "listan" ],
+			[ "listan" ]
+		],
+		"4" : [
+			[ "listé" ],
+			[ "listaste" ],
+			[ "listó" ],
+			[ "listamos" ],
+			[ "listasteis", "listaron" ],
+			[ "listaron" ]
+		],
+		"5" : [
+			[ "listaba" ],
+			[ "listabas" ],
+			[ "listaba" ],
+			[ "listábamos" ],
+			[ "listabais", "listaban" ],
+			[ "listaban" ]
+		],
+		"6" : [
+			[ "listaría" ],
+			[ "listarías" ],
+			[ "listaría" ],
+			[ "listaríamos" ],
+			[ "listaríais", "listarían" ],
+			[ "listarían" ]
+		],
+		"7" : [
+			[ "listaré" ],
+			[ "listarás" ],
+			[ "listará" ],
+			[ "listaremos" ],
+			[ "listaréis", "listarán" ],
+			[ "listarán" ]
+		],
+		"8" : [
+			[ "liste" ],
+			[ "listes" ],
+			[ "liste" ],
+			[ "listemos" ],
+			[ "listéis", "listen" ],
+			[ "listen" ]
+		],
+		"9" : [
+			[ "listara" ],
+			[ "listaras" ],
+			[ "listara" ],
+			[ "listáramos" ],
+			[ "listarais", "listaran" ],
+			[ "listaran" ]
+		],
+		"10" : [
+			[ "listase" ],
+			[ "listases" ],
+			[ "listase" ],
+			[ "listásemos" ],
+			[ "listaseis", "listasen" ],
+			[ "listasen" ]
+		],
+		"11" : [
+			[ "listare" ],
+			[ "listares" ],
+			[ "listare" ],
+			[ "listáremos" ],
+			[ "listareis", "listaren" ],
+			[ "listaren" ]
+		],
+		"12" : {
+			"1" : [ "lista" ],
+			"2" : [ "liste" ],
+			"3" : [ "listemos" ],
+			"4" : [ "listad" ],
+			"5" : [ "listen" ]
+		}
+	}
+}

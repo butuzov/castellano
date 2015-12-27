@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=connotar",
+	"word" : "connotar",
+	"infinitivo" : "connotar",
+	"participio" : [ "connotado" ],
+	"gerundio" : [ "connotando" ],
+	"tenses" : {
+		"3" : [
+			[ "connoto" ],
+			[ "connotas", "connotás" ],
+			[ "connota" ],
+			[ "connotamos" ],
+			[ "connotáis", "connotan" ],
+			[ "connotan" ]
+		],
+		"4" : [
+			[ "connoté" ],
+			[ "connotaste" ],
+			[ "connotó" ],
+			[ "connotamos" ],
+			[ "connotasteis", "connotaron" ],
+			[ "connotaron" ]
+		],
+		"5" : [
+			[ "connotaba" ],
+			[ "connotabas" ],
+			[ "connotaba" ],
+			[ "connotábamos" ],
+			[ "connotabais", "connotaban" ],
+			[ "connotaban" ]
+		],
+		"6" : [
+			[ "connotaría" ],
+			[ "connotarías" ],
+			[ "connotaría" ],
+			[ "connotaríamos" ],
+			[ "connotaríais", "connotarían" ],
+			[ "connotarían" ]
+		],
+		"7" : [
+			[ "connotaré" ],
+			[ "connotarás" ],
+			[ "connotará" ],
+			[ "connotaremos" ],
+			[ "connotaréis", "connotarán" ],
+			[ "connotarán" ]
+		],
+		"8" : [
+			[ "connote" ],
+			[ "connotes" ],
+			[ "connote" ],
+			[ "connotemos" ],
+			[ "connotéis", "connoten" ],
+			[ "connoten" ]
+		],
+		"9" : [
+			[ "connotara" ],
+			[ "connotaras" ],
+			[ "connotara" ],
+			[ "connotáramos" ],
+			[ "connotarais", "connotaran" ],
+			[ "connotaran" ]
+		],
+		"10" : [
+			[ "connotase" ],
+			[ "connotases" ],
+			[ "connotase" ],
+			[ "connotásemos" ],
+			[ "connotaseis", "connotasen" ],
+			[ "connotasen" ]
+		],
+		"11" : [
+			[ "connotare" ],
+			[ "connotares" ],
+			[ "connotare" ],
+			[ "connotáremos" ],
+			[ "connotareis", "connotaren" ],
+			[ "connotaren" ]
+		],
+		"12" : {
+			"1" : [ "connota" ],
+			"2" : [ "connote" ],
+			"3" : [ "connotemos" ],
+			"4" : [ "connotad" ],
+			"5" : [ "connoten" ]
+		}
+	}
+}

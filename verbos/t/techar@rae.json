@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=techar",
+	"word" : "techar",
+	"infinitivo" : "techar",
+	"participio" : [ "techado" ],
+	"gerundio" : [ "techando" ],
+	"tenses" : {
+		"3" : [
+			[ "techo" ],
+			[ "techas", "techás" ],
+			[ "techa" ],
+			[ "techamos" ],
+			[ "techáis", "techan" ],
+			[ "techan" ]
+		],
+		"4" : [
+			[ "teché" ],
+			[ "techaste" ],
+			[ "techó" ],
+			[ "techamos" ],
+			[ "techasteis", "techaron" ],
+			[ "techaron" ]
+		],
+		"5" : [
+			[ "techaba" ],
+			[ "techabas" ],
+			[ "techaba" ],
+			[ "techábamos" ],
+			[ "techabais", "techaban" ],
+			[ "techaban" ]
+		],
+		"6" : [
+			[ "techaría" ],
+			[ "techarías" ],
+			[ "techaría" ],
+			[ "techaríamos" ],
+			[ "techaríais", "techarían" ],
+			[ "techarían" ]
+		],
+		"7" : [
+			[ "techaré" ],
+			[ "techarás" ],
+			[ "techará" ],
+			[ "techaremos" ],
+			[ "techaréis", "techarán" ],
+			[ "techarán" ]
+		],
+		"8" : [
+			[ "teche" ],
+			[ "teches" ],
+			[ "teche" ],
+			[ "techemos" ],
+			[ "techéis", "techen" ],
+			[ "techen" ]
+		],
+		"9" : [
+			[ "techara" ],
+			[ "techaras" ],
+			[ "techara" ],
+			[ "techáramos" ],
+			[ "techarais", "techaran" ],
+			[ "techaran" ]
+		],
+		"10" : [
+			[ "techase" ],
+			[ "techases" ],
+			[ "techase" ],
+			[ "techásemos" ],
+			[ "techaseis", "techasen" ],
+			[ "techasen" ]
+		],
+		"11" : [
+			[ "techare" ],
+			[ "techares" ],
+			[ "techare" ],
+			[ "techáremos" ],
+			[ "techareis", "techaren" ],
+			[ "techaren" ]
+		],
+		"12" : {
+			"1" : [ "techa" ],
+			"2" : [ "teche" ],
+			"3" : [ "techemos" ],
+			"4" : [ "techad" ],
+			"5" : [ "techen" ]
+		}
+	}
+}

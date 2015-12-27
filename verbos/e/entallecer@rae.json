@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entallecer",
+	"word" : "entallecer",
+	"infinitivo" : "entallecer",
+	"participio" : [ "entallecido" ],
+	"gerundio" : [ "entalleciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "entallezco" ],
+			[ "entalleces", "entallecés" ],
+			[ "entallece" ],
+			[ "entallecemos" ],
+			[ "entallecéis", "entallecen" ],
+			[ "entallecen" ]
+		],
+		"4" : [
+			[ "entallecí" ],
+			[ "entalleciste" ],
+			[ "entalleció" ],
+			[ "entallecimos" ],
+			[ "entallecisteis", "entallecieron" ],
+			[ "entallecieron" ]
+		],
+		"5" : [
+			[ "entallecía" ],
+			[ "entallecías" ],
+			[ "entallecía" ],
+			[ "entallecíamos" ],
+			[ "entallecíais", "entallecían" ],
+			[ "entallecían" ]
+		],
+		"6" : [
+			[ "entallecería" ],
+			[ "entallecerías" ],
+			[ "entallecería" ],
+			[ "entalleceríamos" ],
+			[ "entalleceríais", "entallecerían" ],
+			[ "entallecerían" ]
+		],
+		"7" : [
+			[ "entalleceré" ],
+			[ "entallecerás" ],
+			[ "entallecerá" ],
+			[ "entalleceremos" ],
+			[ "entalleceréis", "entallecerán" ],
+			[ "entallecerán" ]
+		],
+		"8" : [
+			[ "entallezca" ],
+			[ "entallezcas" ],
+			[ "entallezca" ],
+			[ "entallezcamos" ],
+			[ "entallezcáis", "entallezcan" ],
+			[ "entallezcan" ]
+		],
+		"9" : [
+			[ "entalleciera" ],
+			[ "entallecieras" ],
+			[ "entalleciera" ],
+			[ "entalleciéramos" ],
+			[ "entallecierais", "entallecieran" ],
+			[ "entallecieran" ]
+		],
+		"10" : [
+			[ "entalleciese" ],
+			[ "entallecieses" ],
+			[ "entalleciese" ],
+			[ "entalleciésemos" ],
+			[ "entallecieseis", "entalleciesen" ],
+			[ "entalleciesen" ]
+		],
+		"11" : [
+			[ "entalleciere" ],
+			[ "entallecieres" ],
+			[ "entalleciere" ],
+			[ "entalleciéremos" ],
+			[ "entalleciereis", "entallecieren" ],
+			[ "entallecieren" ]
+		],
+		"12" : {
+			"1" : [ "entallece" ],
+			"2" : [ "entallezca" ],
+			"3" : [ "entallezcamos" ],
+			"4" : [ "entalleced" ],
+			"5" : [ "entallezcan" ]
+		}
+	}
+}

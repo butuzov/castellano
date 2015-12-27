@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=medir",
+	"word" : "medir",
+	"infinitivo" : "medir",
+	"participio" : [ "medido" ],
+	"gerundio" : [ "midiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "mido" ],
+			[ "mides", "medís" ],
+			[ "mide" ],
+			[ "medimos" ],
+			[ "medís", "miden" ],
+			[ "miden" ]
+		],
+		"4" : [
+			[ "medí" ],
+			[ "mediste" ],
+			[ "midió" ],
+			[ "medimos" ],
+			[ "medisteis", "midieron" ],
+			[ "midieron" ]
+		],
+		"5" : [
+			[ "medía" ],
+			[ "medías" ],
+			[ "medía" ],
+			[ "medíamos" ],
+			[ "medíais", "medían" ],
+			[ "medían" ]
+		],
+		"6" : [
+			[ "mediría" ],
+			[ "medirías" ],
+			[ "mediría" ],
+			[ "mediríamos" ],
+			[ "mediríais", "medirían" ],
+			[ "medirían" ]
+		],
+		"7" : [
+			[ "mediré" ],
+			[ "medirás" ],
+			[ "medirá" ],
+			[ "mediremos" ],
+			[ "mediréis", "medirán" ],
+			[ "medirán" ]
+		],
+		"8" : [
+			[ "mida" ],
+			[ "midas" ],
+			[ "mida" ],
+			[ "midamos" ],
+			[ "midáis", "midan" ],
+			[ "midan" ]
+		],
+		"9" : [
+			[ "midiera" ],
+			[ "midieras" ],
+			[ "midiera" ],
+			[ "midiéramos" ],
+			[ "midierais", "midieran" ],
+			[ "midieran" ]
+		],
+		"10" : [
+			[ "midiese" ],
+			[ "midieses" ],
+			[ "midiese" ],
+			[ "midiésemos" ],
+			[ "midieseis", "midiesen" ],
+			[ "midiesen" ]
+		],
+		"11" : [
+			[ "midiere" ],
+			[ "midieres" ],
+			[ "midiere" ],
+			[ "midiéremos" ],
+			[ "midiereis", "midieren" ],
+			[ "midieren" ]
+		],
+		"12" : {
+			"1" : [ "mide" ],
+			"2" : [ "mida" ],
+			"3" : [ "midamos" ],
+			"4" : [ "medid" ],
+			"5" : [ "midan" ]
+		}
+	}
+}

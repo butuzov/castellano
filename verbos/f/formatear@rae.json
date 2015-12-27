@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=formatear",
+	"word" : "formatear",
+	"infinitivo" : "formatear",
+	"participio" : [ "formateado" ],
+	"gerundio" : [ "formateando" ],
+	"tenses" : {
+		"3" : [
+			[ "formateo" ],
+			[ "formateas", "formateás" ],
+			[ "formatea" ],
+			[ "formateamos" ],
+			[ "formateáis", "formatean" ],
+			[ "formatean" ]
+		],
+		"4" : [
+			[ "formateé" ],
+			[ "formateaste" ],
+			[ "formateó" ],
+			[ "formateamos" ],
+			[ "formateasteis", "formatearon" ],
+			[ "formatearon" ]
+		],
+		"5" : [
+			[ "formateaba" ],
+			[ "formateabas" ],
+			[ "formateaba" ],
+			[ "formateábamos" ],
+			[ "formateabais", "formateaban" ],
+			[ "formateaban" ]
+		],
+		"6" : [
+			[ "formatearía" ],
+			[ "formatearías" ],
+			[ "formatearía" ],
+			[ "formatearíamos" ],
+			[ "formatearíais", "formatearían" ],
+			[ "formatearían" ]
+		],
+		"7" : [
+			[ "formatearé" ],
+			[ "formatearás" ],
+			[ "formateará" ],
+			[ "formatearemos" ],
+			[ "formatearéis", "formatearán" ],
+			[ "formatearán" ]
+		],
+		"8" : [
+			[ "formatee" ],
+			[ "formatees" ],
+			[ "formatee" ],
+			[ "formateemos" ],
+			[ "formateéis", "formateen" ],
+			[ "formateen" ]
+		],
+		"9" : [
+			[ "formateara" ],
+			[ "formatearas" ],
+			[ "formateara" ],
+			[ "formateáramos" ],
+			[ "formatearais", "formatearan" ],
+			[ "formatearan" ]
+		],
+		"10" : [
+			[ "formatease" ],
+			[ "formateases" ],
+			[ "formatease" ],
+			[ "formateásemos" ],
+			[ "formateaseis", "formateasen" ],
+			[ "formateasen" ]
+		],
+		"11" : [
+			[ "formateare" ],
+			[ "formateares" ],
+			[ "formateare" ],
+			[ "formateáremos" ],
+			[ "formateareis", "formatearen" ],
+			[ "formatearen" ]
+		],
+		"12" : {
+			"1" : [ "formatea" ],
+			"2" : [ "formatee" ],
+			"3" : [ "formateemos" ],
+			"4" : [ "formatead" ],
+			"5" : [ "formateen" ]
+		}
+	}
+}

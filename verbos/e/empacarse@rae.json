@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empacarse",
+	"word" : "empacarse",
+	"infinitivo" : "empacarse",
+	"participio" : [ "empacado" ],
+	"gerundio" : [ "empacándome", "empacándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me empaco" ],
+			[ "te empacas", "te empacás" ],
+			[ "se empaca" ],
+			[ "nos empacamos" ],
+			[ "os empacáis", "se empacan" ],
+			[ "se empacan" ]
+		],
+		"4" : [
+			[ "me empaqué" ],
+			[ "te empacaste" ],
+			[ "se empacó" ],
+			[ "nos empacamos" ],
+			[ "os empacasteis", "se empacaron" ],
+			[ "se empacaron" ]
+		],
+		"5" : [
+			[ "me empacaba" ],
+			[ "te empacabas" ],
+			[ "se empacaba" ],
+			[ "nos empacábamos" ],
+			[ "os empacabais", "se empacaban" ],
+			[ "se empacaban" ]
+		],
+		"6" : [
+			[ "me empacaría" ],
+			[ "te empacarías" ],
+			[ "se empacaría" ],
+			[ "nos empacaríamos" ],
+			[ "os empacaríais", "se empacarían" ],
+			[ "se empacarían" ]
+		],
+		"7" : [
+			[ "me empacaré" ],
+			[ "te empacarás" ],
+			[ "se empacará" ],
+			[ "nos empacaremos" ],
+			[ "os empacaréis", "se empacarán" ],
+			[ "se empacarán" ]
+		],
+		"8" : [
+			[ "me empaque" ],
+			[ "te empaques" ],
+			[ "se empaque" ],
+			[ "nos empaquemos" ],
+			[ "os empaquéis", "se empaquen" ],
+			[ "se empaquen" ]
+		],
+		"9" : [
+			[ "me empacara" ],
+			[ "te empacaras" ],
+			[ "se empacara" ],
+			[ "nos empacáramos" ],
+			[ "os empacarais", "se empacaran" ],
+			[ "se empacaran" ]
+		],
+		"10" : [
+			[ "me empacase" ],
+			[ "te empacases" ],
+			[ "se empacase" ],
+			[ "nos empacásemos" ],
+			[ "os empacaseis", "se empacasen" ],
+			[ "se empacasen" ]
+		],
+		"11" : [
+			[ "me empacare" ],
+			[ "te empacares" ],
+			[ "se empacare" ],
+			[ "nos empacáremos" ],
+			[ "os empacareis", "se empacaren" ],
+			[ "se empacaren" ]
+		],
+		"12" : {
+			"1" : [ "empácate" ],
+			"2" : [ "empaque" ],
+			"3" : [ "empaquemos" ],
+			"4" : [ "empacaos" ],
+			"5" : [ "empáquense" ]
+		}
+	}
+}

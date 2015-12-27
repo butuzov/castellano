@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=azuzar",
+	"word" : "azuzar",
+	"infinitivo" : "azuzar",
+	"participio" : [ "azuzado" ],
+	"gerundio" : [ "azuzando" ],
+	"tenses" : {
+		"3" : [
+			[ "azuzo" ],
+			[ "azuzas", "azuzás" ],
+			[ "azuza" ],
+			[ "azuzamos" ],
+			[ "azuzáis", "azuzan" ],
+			[ "azuzan" ]
+		],
+		"4" : [
+			[ "azucé" ],
+			[ "azuzaste" ],
+			[ "azuzó" ],
+			[ "azuzamos" ],
+			[ "azuzasteis", "azuzaron" ],
+			[ "azuzaron" ]
+		],
+		"5" : [
+			[ "azuzaba" ],
+			[ "azuzabas" ],
+			[ "azuzaba" ],
+			[ "azuzábamos" ],
+			[ "azuzabais", "azuzaban" ],
+			[ "azuzaban" ]
+		],
+		"6" : [
+			[ "azuzaría" ],
+			[ "azuzarías" ],
+			[ "azuzaría" ],
+			[ "azuzaríamos" ],
+			[ "azuzaríais", "azuzarían" ],
+			[ "azuzarían" ]
+		],
+		"7" : [
+			[ "azuzaré" ],
+			[ "azuzarás" ],
+			[ "azuzará" ],
+			[ "azuzaremos" ],
+			[ "azuzaréis", "azuzarán" ],
+			[ "azuzarán" ]
+		],
+		"8" : [
+			[ "azuce" ],
+			[ "azuces" ],
+			[ "azuce" ],
+			[ "azucemos" ],
+			[ "azucéis", "azucen" ],
+			[ "azucen" ]
+		],
+		"9" : [
+			[ "azuzara" ],
+			[ "azuzaras" ],
+			[ "azuzara" ],
+			[ "azuzáramos" ],
+			[ "azuzarais", "azuzaran" ],
+			[ "azuzaran" ]
+		],
+		"10" : [
+			[ "azuzase" ],
+			[ "azuzases" ],
+			[ "azuzase" ],
+			[ "azuzásemos" ],
+			[ "azuzaseis", "azuzasen" ],
+			[ "azuzasen" ]
+		],
+		"11" : [
+			[ "azuzare" ],
+			[ "azuzares" ],
+			[ "azuzare" ],
+			[ "azuzáremos" ],
+			[ "azuzareis", "azuzaren" ],
+			[ "azuzaren" ]
+		],
+		"12" : {
+			"1" : [ "azuza" ],
+			"2" : [ "azuce" ],
+			"3" : [ "azucemos" ],
+			"4" : [ "azuzad" ],
+			"5" : [ "azucen" ]
+		}
+	}
+}

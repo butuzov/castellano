@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=restallar",
+	"word" : "restallar",
+	"infinitivo" : "restallar",
+	"participio" : [ "restallado" ],
+	"gerundio" : [ "restallando" ],
+	"tenses" : {
+		"3" : [
+			[ "restallo" ],
+			[ "restallas", "restallás" ],
+			[ "restalla" ],
+			[ "restallamos" ],
+			[ "restalláis", "restallan" ],
+			[ "restallan" ]
+		],
+		"4" : [
+			[ "restallé" ],
+			[ "restallaste" ],
+			[ "restalló" ],
+			[ "restallamos" ],
+			[ "restallasteis", "restallaron" ],
+			[ "restallaron" ]
+		],
+		"5" : [
+			[ "restallaba" ],
+			[ "restallabas" ],
+			[ "restallaba" ],
+			[ "restallábamos" ],
+			[ "restallabais", "restallaban" ],
+			[ "restallaban" ]
+		],
+		"6" : [
+			[ "restallaría" ],
+			[ "restallarías" ],
+			[ "restallaría" ],
+			[ "restallaríamos" ],
+			[ "restallaríais", "restallarían" ],
+			[ "restallarían" ]
+		],
+		"7" : [
+			[ "restallaré" ],
+			[ "restallarás" ],
+			[ "restallará" ],
+			[ "restallaremos" ],
+			[ "restallaréis", "restallarán" ],
+			[ "restallarán" ]
+		],
+		"8" : [
+			[ "restalle" ],
+			[ "restalles" ],
+			[ "restalle" ],
+			[ "restallemos" ],
+			[ "restalléis", "restallen" ],
+			[ "restallen" ]
+		],
+		"9" : [
+			[ "restallara" ],
+			[ "restallaras" ],
+			[ "restallara" ],
+			[ "restalláramos" ],
+			[ "restallarais", "restallaran" ],
+			[ "restallaran" ]
+		],
+		"10" : [
+			[ "restallase" ],
+			[ "restallases" ],
+			[ "restallase" ],
+			[ "restallásemos" ],
+			[ "restallaseis", "restallasen" ],
+			[ "restallasen" ]
+		],
+		"11" : [
+			[ "restallare" ],
+			[ "restallares" ],
+			[ "restallare" ],
+			[ "restalláremos" ],
+			[ "restallareis", "restallaren" ],
+			[ "restallaren" ]
+		],
+		"12" : {
+			"1" : [ "restalla" ],
+			"2" : [ "restalle" ],
+			"3" : [ "restallemos" ],
+			"4" : [ "restallad" ],
+			"5" : [ "restallen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=subyacer",
+	"word" : "subyacer",
+	"infinitivo" : "subyacer",
+	"participio" : [ "subyacido" ],
+	"gerundio" : [ "subyaciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "subyazco", "subyazgo", "subyago" ],
+			[ "subyaces", "subyacés" ],
+			[ "subyace" ],
+			[ "subyacemos" ],
+			[ "subyacéis", "subyacen" ],
+			[ "subyacen" ]
+		],
+		"4" : [
+			[ "subyací" ],
+			[ "subyaciste" ],
+			[ "subyació" ],
+			[ "subyacimos" ],
+			[ "subyacisteis", "subyacieron" ],
+			[ "subyacieron" ]
+		],
+		"5" : [
+			[ "subyacía" ],
+			[ "subyacías" ],
+			[ "subyacía" ],
+			[ "subyacíamos" ],
+			[ "subyacíais", "subyacían" ],
+			[ "subyacían" ]
+		],
+		"6" : [
+			[ "subyacería" ],
+			[ "subyacerías" ],
+			[ "subyacería" ],
+			[ "subyaceríamos" ],
+			[ "subyaceríais", "subyacerían" ],
+			[ "subyacerían" ]
+		],
+		"7" : [
+			[ "subyaceré" ],
+			[ "subyacerás" ],
+			[ "subyacerá" ],
+			[ "subyaceremos" ],
+			[ "subyaceréis", "subyacerán" ],
+			[ "subyacerán" ]
+		],
+		"8" : [
+			[ "subyazca", "subyazga", "subyaga" ],
+			[ "subyazcas", "subyazgas", "subyagas" ],
+			[ "subyazca", "subyazga" ],
+			[ "subyazcamos", "subyazgamos" ],
+			[ "subyazcáis", "subyazgáis", "subyagáis", "subyazcan", "subyazgan" ],
+			[ "subyazcan", "subyazgan", "subyagan" ]
+		],
+		"9" : [
+			[ "subyaciera" ],
+			[ "subyacieras" ],
+			[ "subyaciera" ],
+			[ "subyaciéramos" ],
+			[ "subyacierais", "subyacieran" ],
+			[ "subyacieran" ]
+		],
+		"10" : [
+			[ "subyaciese" ],
+			[ "subyacieses" ],
+			[ "subyaciese" ],
+			[ "subyaciésemos" ],
+			[ "subyacieseis", "subyaciesen" ],
+			[ "subyaciesen" ]
+		],
+		"11" : [
+			[ "subyaciere" ],
+			[ "subyacieres" ],
+			[ "subyaciere" ],
+			[ "subyaciéremos" ],
+			[ "subyaciereis", "subyacieren" ],
+			[ "subyacieren" ]
+		],
+		"12" : {
+			"1" : [ "subyace", "subyaz" ],
+			"2" : [ "subyazca", "subyazga" ],
+			"3" : [ "subyazcamos", "subyazgamos" ],
+			"4" : [ "subyaced" ],
+			"5" : [ "subyazcan", "subyazgan" ]
+		}
+	}
+}

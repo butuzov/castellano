@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vibrar",
+	"word" : "vibrar",
+	"infinitivo" : "vibrar",
+	"participio" : [ "vibrado" ],
+	"gerundio" : [ "vibrando" ],
+	"tenses" : {
+		"3" : [
+			[ "vibro" ],
+			[ "vibras", "vibrás" ],
+			[ "vibra" ],
+			[ "vibramos" ],
+			[ "vibráis", "vibran" ],
+			[ "vibran" ]
+		],
+		"4" : [
+			[ "vibré" ],
+			[ "vibraste" ],
+			[ "vibró" ],
+			[ "vibramos" ],
+			[ "vibrasteis", "vibraron" ],
+			[ "vibraron" ]
+		],
+		"5" : [
+			[ "vibraba" ],
+			[ "vibrabas" ],
+			[ "vibraba" ],
+			[ "vibrábamos" ],
+			[ "vibrabais", "vibraban" ],
+			[ "vibraban" ]
+		],
+		"6" : [
+			[ "vibraría" ],
+			[ "vibrarías" ],
+			[ "vibraría" ],
+			[ "vibraríamos" ],
+			[ "vibraríais", "vibrarían" ],
+			[ "vibrarían" ]
+		],
+		"7" : [
+			[ "vibraré" ],
+			[ "vibrarás" ],
+			[ "vibrará" ],
+			[ "vibraremos" ],
+			[ "vibraréis", "vibrarán" ],
+			[ "vibrarán" ]
+		],
+		"8" : [
+			[ "vibre" ],
+			[ "vibres" ],
+			[ "vibre" ],
+			[ "vibremos" ],
+			[ "vibréis", "vibren" ],
+			[ "vibren" ]
+		],
+		"9" : [
+			[ "vibrara" ],
+			[ "vibraras" ],
+			[ "vibrara" ],
+			[ "vibráramos" ],
+			[ "vibrarais", "vibraran" ],
+			[ "vibraran" ]
+		],
+		"10" : [
+			[ "vibrase" ],
+			[ "vibrases" ],
+			[ "vibrase" ],
+			[ "vibrásemos" ],
+			[ "vibraseis", "vibrasen" ],
+			[ "vibrasen" ]
+		],
+		"11" : [
+			[ "vibrare" ],
+			[ "vibrares" ],
+			[ "vibrare" ],
+			[ "vibráremos" ],
+			[ "vibrareis", "vibraren" ],
+			[ "vibraren" ]
+		],
+		"12" : {
+			"1" : [ "vibra" ],
+			"2" : [ "vibre" ],
+			"3" : [ "vibremos" ],
+			"4" : [ "vibrad" ],
+			"5" : [ "vibren" ]
+		}
+	}
+}

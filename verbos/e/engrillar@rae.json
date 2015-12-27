@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=engrillar",
+	"word" : "engrillar",
+	"infinitivo" : "engrillar",
+	"participio" : [ "engrillado" ],
+	"gerundio" : [ "engrillando" ],
+	"tenses" : {
+		"3" : [
+			[ "engrillo" ],
+			[ "engrillas", "engrillás" ],
+			[ "engrilla" ],
+			[ "engrillamos" ],
+			[ "engrilláis", "engrillan" ],
+			[ "engrillan" ]
+		],
+		"4" : [
+			[ "engrillé" ],
+			[ "engrillaste" ],
+			[ "engrilló" ],
+			[ "engrillamos" ],
+			[ "engrillasteis", "engrillaron" ],
+			[ "engrillaron" ]
+		],
+		"5" : [
+			[ "engrillaba" ],
+			[ "engrillabas" ],
+			[ "engrillaba" ],
+			[ "engrillábamos" ],
+			[ "engrillabais", "engrillaban" ],
+			[ "engrillaban" ]
+		],
+		"6" : [
+			[ "engrillaría" ],
+			[ "engrillarías" ],
+			[ "engrillaría" ],
+			[ "engrillaríamos" ],
+			[ "engrillaríais", "engrillarían" ],
+			[ "engrillarían" ]
+		],
+		"7" : [
+			[ "engrillaré" ],
+			[ "engrillarás" ],
+			[ "engrillará" ],
+			[ "engrillaremos" ],
+			[ "engrillaréis", "engrillarán" ],
+			[ "engrillarán" ]
+		],
+		"8" : [
+			[ "engrille" ],
+			[ "engrilles" ],
+			[ "engrille" ],
+			[ "engrillemos" ],
+			[ "engrilléis", "engrillen" ],
+			[ "engrillen" ]
+		],
+		"9" : [
+			[ "engrillara" ],
+			[ "engrillaras" ],
+			[ "engrillara" ],
+			[ "engrilláramos" ],
+			[ "engrillarais", "engrillaran" ],
+			[ "engrillaran" ]
+		],
+		"10" : [
+			[ "engrillase" ],
+			[ "engrillases" ],
+			[ "engrillase" ],
+			[ "engrillásemos" ],
+			[ "engrillaseis", "engrillasen" ],
+			[ "engrillasen" ]
+		],
+		"11" : [
+			[ "engrillare" ],
+			[ "engrillares" ],
+			[ "engrillare" ],
+			[ "engrilláremos" ],
+			[ "engrillareis", "engrillaren" ],
+			[ "engrillaren" ]
+		],
+		"12" : {
+			"1" : [ "engrilla" ],
+			"2" : [ "engrille" ],
+			"3" : [ "engrillemos" ],
+			"4" : [ "engrillad" ],
+			"5" : [ "engrillen" ]
+		}
+	}
+}

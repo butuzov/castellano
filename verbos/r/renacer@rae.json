@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=renacer",
+	"word" : "renacer",
+	"infinitivo" : "renacer",
+	"participio" : [ "renacido" ],
+	"gerundio" : [ "renaciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "renazco" ],
+			[ "renaces", "renacés" ],
+			[ "renace" ],
+			[ "renacemos" ],
+			[ "renacéis", "renacen" ],
+			[ "renacen" ]
+		],
+		"4" : [
+			[ "renací" ],
+			[ "renaciste" ],
+			[ "renació" ],
+			[ "renacimos" ],
+			[ "renacisteis", "renacieron" ],
+			[ "renacieron" ]
+		],
+		"5" : [
+			[ "renacía" ],
+			[ "renacías" ],
+			[ "renacía" ],
+			[ "renacíamos" ],
+			[ "renacíais", "renacían" ],
+			[ "renacían" ]
+		],
+		"6" : [
+			[ "renacería" ],
+			[ "renacerías" ],
+			[ "renacería" ],
+			[ "renaceríamos" ],
+			[ "renaceríais", "renacerían" ],
+			[ "renacerían" ]
+		],
+		"7" : [
+			[ "renaceré" ],
+			[ "renacerás" ],
+			[ "renacerá" ],
+			[ "renaceremos" ],
+			[ "renaceréis", "renacerán" ],
+			[ "renacerán" ]
+		],
+		"8" : [
+			[ "renazca" ],
+			[ "renazcas" ],
+			[ "renazca" ],
+			[ "renazcamos" ],
+			[ "renazcáis", "renazcan" ],
+			[ "renazcan" ]
+		],
+		"9" : [
+			[ "renaciera" ],
+			[ "renacieras" ],
+			[ "renaciera" ],
+			[ "renaciéramos" ],
+			[ "renacierais", "renacieran" ],
+			[ "renacieran" ]
+		],
+		"10" : [
+			[ "renaciese" ],
+			[ "renacieses" ],
+			[ "renaciese" ],
+			[ "renaciésemos" ],
+			[ "renacieseis", "renaciesen" ],
+			[ "renaciesen" ]
+		],
+		"11" : [
+			[ "renaciere" ],
+			[ "renacieres" ],
+			[ "renaciere" ],
+			[ "renaciéremos" ],
+			[ "renaciereis", "renacieren" ],
+			[ "renacieren" ]
+		],
+		"12" : {
+			"1" : [ "renace" ],
+			"2" : [ "renazca" ],
+			"3" : [ "renazcamos" ],
+			"4" : [ "renaced" ],
+			"5" : [ "renazcan" ]
+		}
+	}
+}

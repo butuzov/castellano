@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prescribir",
+	"word" : "prescribir",
+	"infinitivo" : "prescribir",
+	"participio" : [ "prescrito", "prescripto" ],
+	"gerundio" : [ "prescribiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "prescribo" ],
+			[ "prescribes", "prescribís" ],
+			[ "prescribe" ],
+			[ "prescribimos" ],
+			[ "prescribís", "prescriben" ],
+			[ "prescriben" ]
+		],
+		"4" : [
+			[ "prescribí" ],
+			[ "prescribiste" ],
+			[ "prescribió" ],
+			[ "prescribimos" ],
+			[ "prescribisteis", "prescribieron" ],
+			[ "prescribieron" ]
+		],
+		"5" : [
+			[ "prescribía" ],
+			[ "prescribías" ],
+			[ "prescribía" ],
+			[ "prescribíamos" ],
+			[ "prescribíais", "prescribían" ],
+			[ "prescribían" ]
+		],
+		"6" : [
+			[ "prescribiría" ],
+			[ "prescribirías" ],
+			[ "prescribiría" ],
+			[ "prescribiríamos" ],
+			[ "prescribiríais", "prescribirían" ],
+			[ "prescribirían" ]
+		],
+		"7" : [
+			[ "prescribiré" ],
+			[ "prescribirás" ],
+			[ "prescribirá" ],
+			[ "prescribiremos" ],
+			[ "prescribiréis", "prescribirán" ],
+			[ "prescribirán" ]
+		],
+		"8" : [
+			[ "prescriba" ],
+			[ "prescribas" ],
+			[ "prescriba" ],
+			[ "prescribamos" ],
+			[ "prescribáis", "prescriban" ],
+			[ "prescriban" ]
+		],
+		"9" : [
+			[ "prescribiera" ],
+			[ "prescribieras" ],
+			[ "prescribiera" ],
+			[ "prescribiéramos" ],
+			[ "prescribierais", "prescribieran" ],
+			[ "prescribieran" ]
+		],
+		"10" : [
+			[ "prescribiese" ],
+			[ "prescribieses" ],
+			[ "prescribiese" ],
+			[ "prescribiésemos" ],
+			[ "prescribieseis", "prescribiesen" ],
+			[ "prescribiesen" ]
+		],
+		"11" : [
+			[ "prescribiere" ],
+			[ "prescribieres" ],
+			[ "prescribiere" ],
+			[ "prescribiéremos" ],
+			[ "prescribiereis", "prescribieren" ],
+			[ "prescribieren" ]
+		],
+		"12" : {
+			"1" : [ "prescribe" ],
+			"2" : [ "prescriba" ],
+			"3" : [ "prescribamos" ],
+			"4" : [ "prescribid" ],
+			"5" : [ "prescriban" ]
+		}
+	}
+}

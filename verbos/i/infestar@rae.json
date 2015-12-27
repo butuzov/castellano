@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=infestar",
+	"word" : "infestar",
+	"infinitivo" : "infestar",
+	"participio" : [ "infestado" ],
+	"gerundio" : [ "infestando" ],
+	"tenses" : {
+		"3" : [
+			[ "infesto" ],
+			[ "infestas", "infestás" ],
+			[ "infesta" ],
+			[ "infestamos" ],
+			[ "infestáis", "infestan" ],
+			[ "infestan" ]
+		],
+		"4" : [
+			[ "infesté" ],
+			[ "infestaste" ],
+			[ "infestó" ],
+			[ "infestamos" ],
+			[ "infestasteis", "infestaron" ],
+			[ "infestaron" ]
+		],
+		"5" : [
+			[ "infestaba" ],
+			[ "infestabas" ],
+			[ "infestaba" ],
+			[ "infestábamos" ],
+			[ "infestabais", "infestaban" ],
+			[ "infestaban" ]
+		],
+		"6" : [
+			[ "infestaría" ],
+			[ "infestarías" ],
+			[ "infestaría" ],
+			[ "infestaríamos" ],
+			[ "infestaríais", "infestarían" ],
+			[ "infestarían" ]
+		],
+		"7" : [
+			[ "infestaré" ],
+			[ "infestarás" ],
+			[ "infestará" ],
+			[ "infestaremos" ],
+			[ "infestaréis", "infestarán" ],
+			[ "infestarán" ]
+		],
+		"8" : [
+			[ "infeste" ],
+			[ "infestes" ],
+			[ "infeste" ],
+			[ "infestemos" ],
+			[ "infestéis", "infesten" ],
+			[ "infesten" ]
+		],
+		"9" : [
+			[ "infestara" ],
+			[ "infestaras" ],
+			[ "infestara" ],
+			[ "infestáramos" ],
+			[ "infestarais", "infestaran" ],
+			[ "infestaran" ]
+		],
+		"10" : [
+			[ "infestase" ],
+			[ "infestases" ],
+			[ "infestase" ],
+			[ "infestásemos" ],
+			[ "infestaseis", "infestasen" ],
+			[ "infestasen" ]
+		],
+		"11" : [
+			[ "infestare" ],
+			[ "infestares" ],
+			[ "infestare" ],
+			[ "infestáremos" ],
+			[ "infestareis", "infestaren" ],
+			[ "infestaren" ]
+		],
+		"12" : {
+			"1" : [ "infesta" ],
+			"2" : [ "infeste" ],
+			"3" : [ "infestemos" ],
+			"4" : [ "infestad" ],
+			"5" : [ "infesten" ]
+		}
+	}
+}

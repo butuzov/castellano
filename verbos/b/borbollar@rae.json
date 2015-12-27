@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=borbollar",
+	"word" : "borbollar",
+	"infinitivo" : "borbollar",
+	"participio" : [ "borbollado" ],
+	"gerundio" : [ "borbollando" ],
+	"tenses" : {
+		"3" : [
+			[ "borbollo" ],
+			[ "borbollas", "borbollás" ],
+			[ "borbolla" ],
+			[ "borbollamos" ],
+			[ "borbolláis", "borbollan" ],
+			[ "borbollan" ]
+		],
+		"4" : [
+			[ "borbollé" ],
+			[ "borbollaste" ],
+			[ "borbolló" ],
+			[ "borbollamos" ],
+			[ "borbollasteis", "borbollaron" ],
+			[ "borbollaron" ]
+		],
+		"5" : [
+			[ "borbollaba" ],
+			[ "borbollabas" ],
+			[ "borbollaba" ],
+			[ "borbollábamos" ],
+			[ "borbollabais", "borbollaban" ],
+			[ "borbollaban" ]
+		],
+		"6" : [
+			[ "borbollaría" ],
+			[ "borbollarías" ],
+			[ "borbollaría" ],
+			[ "borbollaríamos" ],
+			[ "borbollaríais", "borbollarían" ],
+			[ "borbollarían" ]
+		],
+		"7" : [
+			[ "borbollaré" ],
+			[ "borbollarás" ],
+			[ "borbollará" ],
+			[ "borbollaremos" ],
+			[ "borbollaréis", "borbollarán" ],
+			[ "borbollarán" ]
+		],
+		"8" : [
+			[ "borbolle" ],
+			[ "borbolles" ],
+			[ "borbolle" ],
+			[ "borbollemos" ],
+			[ "borbolléis", "borbollen" ],
+			[ "borbollen" ]
+		],
+		"9" : [
+			[ "borbollara" ],
+			[ "borbollaras" ],
+			[ "borbollara" ],
+			[ "borbolláramos" ],
+			[ "borbollarais", "borbollaran" ],
+			[ "borbollaran" ]
+		],
+		"10" : [
+			[ "borbollase" ],
+			[ "borbollases" ],
+			[ "borbollase" ],
+			[ "borbollásemos" ],
+			[ "borbollaseis", "borbollasen" ],
+			[ "borbollasen" ]
+		],
+		"11" : [
+			[ "borbollare" ],
+			[ "borbollares" ],
+			[ "borbollare" ],
+			[ "borbolláremos" ],
+			[ "borbollareis", "borbollaren" ],
+			[ "borbollaren" ]
+		],
+		"12" : {
+			"1" : [ "borbolla" ],
+			"2" : [ "borbolle" ],
+			"3" : [ "borbollemos" ],
+			"4" : [ "borbollad" ],
+			"5" : [ "borbollen" ]
+		}
+	}
+}

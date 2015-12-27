@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=clasificar",
+	"word" : "clasificar",
+	"infinitivo" : "clasificar",
+	"participio" : [ "clasificado" ],
+	"gerundio" : [ "clasificando" ],
+	"tenses" : {
+		"3" : [
+			[ "clasifico" ],
+			[ "clasificas", "clasificás" ],
+			[ "clasifica" ],
+			[ "clasificamos" ],
+			[ "clasificáis", "clasifican" ],
+			[ "clasifican" ]
+		],
+		"4" : [
+			[ "clasifiqué" ],
+			[ "clasificaste" ],
+			[ "clasificó" ],
+			[ "clasificamos" ],
+			[ "clasificasteis", "clasificaron" ],
+			[ "clasificaron" ]
+		],
+		"5" : [
+			[ "clasificaba" ],
+			[ "clasificabas" ],
+			[ "clasificaba" ],
+			[ "clasificábamos" ],
+			[ "clasificabais", "clasificaban" ],
+			[ "clasificaban" ]
+		],
+		"6" : [
+			[ "clasificaría" ],
+			[ "clasificarías" ],
+			[ "clasificaría" ],
+			[ "clasificaríamos" ],
+			[ "clasificaríais", "clasificarían" ],
+			[ "clasificarían" ]
+		],
+		"7" : [
+			[ "clasificaré" ],
+			[ "clasificarás" ],
+			[ "clasificará" ],
+			[ "clasificaremos" ],
+			[ "clasificaréis", "clasificarán" ],
+			[ "clasificarán" ]
+		],
+		"8" : [
+			[ "clasifique" ],
+			[ "clasifiques" ],
+			[ "clasifique" ],
+			[ "clasifiquemos" ],
+			[ "clasifiquéis", "clasifiquen" ],
+			[ "clasifiquen" ]
+		],
+		"9" : [
+			[ "clasificara" ],
+			[ "clasificaras" ],
+			[ "clasificara" ],
+			[ "clasificáramos" ],
+			[ "clasificarais", "clasificaran" ],
+			[ "clasificaran" ]
+		],
+		"10" : [
+			[ "clasificase" ],
+			[ "clasificases" ],
+			[ "clasificase" ],
+			[ "clasificásemos" ],
+			[ "clasificaseis", "clasificasen" ],
+			[ "clasificasen" ]
+		],
+		"11" : [
+			[ "clasificare" ],
+			[ "clasificares" ],
+			[ "clasificare" ],
+			[ "clasificáremos" ],
+			[ "clasificareis", "clasificaren" ],
+			[ "clasificaren" ]
+		],
+		"12" : {
+			"1" : [ "clasifica" ],
+			"2" : [ "clasifique" ],
+			"3" : [ "clasifiquemos" ],
+			"4" : [ "clasificad" ],
+			"5" : [ "clasifiquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=engrapar",
+	"word" : "engrapar",
+	"infinitivo" : "engrapar",
+	"participio" : [ "engrapado" ],
+	"gerundio" : [ "engrapando" ],
+	"tenses" : {
+		"3" : [
+			[ "engrapo" ],
+			[ "engrapas", "engrapás" ],
+			[ "engrapa" ],
+			[ "engrapamos" ],
+			[ "engrapáis", "engrapan" ],
+			[ "engrapan" ]
+		],
+		"4" : [
+			[ "engrapé" ],
+			[ "engrapaste" ],
+			[ "engrapó" ],
+			[ "engrapamos" ],
+			[ "engrapasteis", "engraparon" ],
+			[ "engraparon" ]
+		],
+		"5" : [
+			[ "engrapaba" ],
+			[ "engrapabas" ],
+			[ "engrapaba" ],
+			[ "engrapábamos" ],
+			[ "engrapabais", "engrapaban" ],
+			[ "engrapaban" ]
+		],
+		"6" : [
+			[ "engraparía" ],
+			[ "engraparías" ],
+			[ "engraparía" ],
+			[ "engraparíamos" ],
+			[ "engraparíais", "engraparían" ],
+			[ "engraparían" ]
+		],
+		"7" : [
+			[ "engraparé" ],
+			[ "engraparás" ],
+			[ "engrapará" ],
+			[ "engraparemos" ],
+			[ "engraparéis", "engraparán" ],
+			[ "engraparán" ]
+		],
+		"8" : [
+			[ "engrape" ],
+			[ "engrapes" ],
+			[ "engrape" ],
+			[ "engrapemos" ],
+			[ "engrapéis", "engrapen" ],
+			[ "engrapen" ]
+		],
+		"9" : [
+			[ "engrapara" ],
+			[ "engraparas" ],
+			[ "engrapara" ],
+			[ "engrapáramos" ],
+			[ "engraparais", "engraparan" ],
+			[ "engraparan" ]
+		],
+		"10" : [
+			[ "engrapase" ],
+			[ "engrapases" ],
+			[ "engrapase" ],
+			[ "engrapásemos" ],
+			[ "engrapaseis", "engrapasen" ],
+			[ "engrapasen" ]
+		],
+		"11" : [
+			[ "engrapare" ],
+			[ "engrapares" ],
+			[ "engrapare" ],
+			[ "engrapáremos" ],
+			[ "engrapareis", "engraparen" ],
+			[ "engraparen" ]
+		],
+		"12" : {
+			"1" : [ "engrapa" ],
+			"2" : [ "engrape" ],
+			"3" : [ "engrapemos" ],
+			"4" : [ "engrapad" ],
+			"5" : [ "engrapen" ]
+		}
+	}
+}

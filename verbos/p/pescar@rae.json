@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pescar",
+	"word" : "pescar",
+	"infinitivo" : "pescar",
+	"participio" : [ "pescado" ],
+	"gerundio" : [ "pescando" ],
+	"tenses" : {
+		"3" : [
+			[ "pesco" ],
+			[ "pescas", "pescás" ],
+			[ "pesca" ],
+			[ "pescamos" ],
+			[ "pescáis", "pescan" ],
+			[ "pescan" ]
+		],
+		"4" : [
+			[ "pesqué" ],
+			[ "pescaste" ],
+			[ "pescó" ],
+			[ "pescamos" ],
+			[ "pescasteis", "pescaron" ],
+			[ "pescaron" ]
+		],
+		"5" : [
+			[ "pescaba" ],
+			[ "pescabas" ],
+			[ "pescaba" ],
+			[ "pescábamos" ],
+			[ "pescabais", "pescaban" ],
+			[ "pescaban" ]
+		],
+		"6" : [
+			[ "pescaría" ],
+			[ "pescarías" ],
+			[ "pescaría" ],
+			[ "pescaríamos" ],
+			[ "pescaríais", "pescarían" ],
+			[ "pescarían" ]
+		],
+		"7" : [
+			[ "pescaré" ],
+			[ "pescarás" ],
+			[ "pescará" ],
+			[ "pescaremos" ],
+			[ "pescaréis", "pescarán" ],
+			[ "pescarán" ]
+		],
+		"8" : [
+			[ "pesque" ],
+			[ "pesques" ],
+			[ "pesque" ],
+			[ "pesquemos" ],
+			[ "pesquéis", "pesquen" ],
+			[ "pesquen" ]
+		],
+		"9" : [
+			[ "pescara" ],
+			[ "pescaras" ],
+			[ "pescara" ],
+			[ "pescáramos" ],
+			[ "pescarais", "pescaran" ],
+			[ "pescaran" ]
+		],
+		"10" : [
+			[ "pescase" ],
+			[ "pescases" ],
+			[ "pescase" ],
+			[ "pescásemos" ],
+			[ "pescaseis", "pescasen" ],
+			[ "pescasen" ]
+		],
+		"11" : [
+			[ "pescare" ],
+			[ "pescares" ],
+			[ "pescare" ],
+			[ "pescáremos" ],
+			[ "pescareis", "pescaren" ],
+			[ "pescaren" ]
+		],
+		"12" : {
+			"1" : [ "pesca" ],
+			"2" : [ "pesque" ],
+			"3" : [ "pesquemos" ],
+			"4" : [ "pescad" ],
+			"5" : [ "pesquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conformar",
+	"word" : "conformar",
+	"infinitivo" : "conformar",
+	"participio" : [ "conformado" ],
+	"gerundio" : [ "conformando" ],
+	"tenses" : {
+		"3" : [
+			[ "conformo" ],
+			[ "conformas", "conformás" ],
+			[ "conforma" ],
+			[ "conformamos" ],
+			[ "conformáis", "conforman" ],
+			[ "conforman" ]
+		],
+		"4" : [
+			[ "conformé" ],
+			[ "conformaste" ],
+			[ "conformó" ],
+			[ "conformamos" ],
+			[ "conformasteis", "conformaron" ],
+			[ "conformaron" ]
+		],
+		"5" : [
+			[ "conformaba" ],
+			[ "conformabas" ],
+			[ "conformaba" ],
+			[ "conformábamos" ],
+			[ "conformabais", "conformaban" ],
+			[ "conformaban" ]
+		],
+		"6" : [
+			[ "conformaría" ],
+			[ "conformarías" ],
+			[ "conformaría" ],
+			[ "conformaríamos" ],
+			[ "conformaríais", "conformarían" ],
+			[ "conformarían" ]
+		],
+		"7" : [
+			[ "conformaré" ],
+			[ "conformarás" ],
+			[ "conformará" ],
+			[ "conformaremos" ],
+			[ "conformaréis", "conformarán" ],
+			[ "conformarán" ]
+		],
+		"8" : [
+			[ "conforme" ],
+			[ "conformes" ],
+			[ "conforme" ],
+			[ "conformemos" ],
+			[ "conforméis", "conformen" ],
+			[ "conformen" ]
+		],
+		"9" : [
+			[ "conformara" ],
+			[ "conformaras" ],
+			[ "conformara" ],
+			[ "conformáramos" ],
+			[ "conformarais", "conformaran" ],
+			[ "conformaran" ]
+		],
+		"10" : [
+			[ "conformase" ],
+			[ "conformases" ],
+			[ "conformase" ],
+			[ "conformásemos" ],
+			[ "conformaseis", "conformasen" ],
+			[ "conformasen" ]
+		],
+		"11" : [
+			[ "conformare" ],
+			[ "conformares" ],
+			[ "conformare" ],
+			[ "conformáremos" ],
+			[ "conformareis", "conformaren" ],
+			[ "conformaren" ]
+		],
+		"12" : {
+			"1" : [ "conforma" ],
+			"2" : [ "conforme" ],
+			"3" : [ "conformemos" ],
+			"4" : [ "conformad" ],
+			"5" : [ "conformen" ]
+		}
+	}
+}

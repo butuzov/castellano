@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ahormar",
+	"word" : "ahormar",
+	"infinitivo" : "ahormar",
+	"participio" : [ "ahormado" ],
+	"gerundio" : [ "ahormando" ],
+	"tenses" : {
+		"3" : [
+			[ "ahormo" ],
+			[ "ahormas", "ahormás" ],
+			[ "ahorma" ],
+			[ "ahormamos" ],
+			[ "ahormáis", "ahorman" ],
+			[ "ahorman" ]
+		],
+		"4" : [
+			[ "ahormé" ],
+			[ "ahormaste" ],
+			[ "ahormó" ],
+			[ "ahormamos" ],
+			[ "ahormasteis", "ahormaron" ],
+			[ "ahormaron" ]
+		],
+		"5" : [
+			[ "ahormaba" ],
+			[ "ahormabas" ],
+			[ "ahormaba" ],
+			[ "ahormábamos" ],
+			[ "ahormabais", "ahormaban" ],
+			[ "ahormaban" ]
+		],
+		"6" : [
+			[ "ahormaría" ],
+			[ "ahormarías" ],
+			[ "ahormaría" ],
+			[ "ahormaríamos" ],
+			[ "ahormaríais", "ahormarían" ],
+			[ "ahormarían" ]
+		],
+		"7" : [
+			[ "ahormaré" ],
+			[ "ahormarás" ],
+			[ "ahormará" ],
+			[ "ahormaremos" ],
+			[ "ahormaréis", "ahormarán" ],
+			[ "ahormarán" ]
+		],
+		"8" : [
+			[ "ahorme" ],
+			[ "ahormes" ],
+			[ "ahorme" ],
+			[ "ahormemos" ],
+			[ "ahorméis", "ahormen" ],
+			[ "ahormen" ]
+		],
+		"9" : [
+			[ "ahormara" ],
+			[ "ahormaras" ],
+			[ "ahormara" ],
+			[ "ahormáramos" ],
+			[ "ahormarais", "ahormaran" ],
+			[ "ahormaran" ]
+		],
+		"10" : [
+			[ "ahormase" ],
+			[ "ahormases" ],
+			[ "ahormase" ],
+			[ "ahormásemos" ],
+			[ "ahormaseis", "ahormasen" ],
+			[ "ahormasen" ]
+		],
+		"11" : [
+			[ "ahormare" ],
+			[ "ahormares" ],
+			[ "ahormare" ],
+			[ "ahormáremos" ],
+			[ "ahormareis", "ahormaren" ],
+			[ "ahormaren" ]
+		],
+		"12" : {
+			"1" : [ "ahorma" ],
+			"2" : [ "ahorme" ],
+			"3" : [ "ahormemos" ],
+			"4" : [ "ahormad" ],
+			"5" : [ "ahormen" ]
+		}
+	}
+}

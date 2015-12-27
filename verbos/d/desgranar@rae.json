@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desgranar",
+	"word" : "desgranar",
+	"infinitivo" : "desgranar",
+	"participio" : [ "desgranado" ],
+	"gerundio" : [ "desgranando" ],
+	"tenses" : {
+		"3" : [
+			[ "desgrano" ],
+			[ "desgranas", "desgranás" ],
+			[ "desgrana" ],
+			[ "desgranamos" ],
+			[ "desgranáis", "desgranan" ],
+			[ "desgranan" ]
+		],
+		"4" : [
+			[ "desgrané" ],
+			[ "desgranaste" ],
+			[ "desgranó" ],
+			[ "desgranamos" ],
+			[ "desgranasteis", "desgranaron" ],
+			[ "desgranaron" ]
+		],
+		"5" : [
+			[ "desgranaba" ],
+			[ "desgranabas" ],
+			[ "desgranaba" ],
+			[ "desgranábamos" ],
+			[ "desgranabais", "desgranaban" ],
+			[ "desgranaban" ]
+		],
+		"6" : [
+			[ "desgranaría" ],
+			[ "desgranarías" ],
+			[ "desgranaría" ],
+			[ "desgranaríamos" ],
+			[ "desgranaríais", "desgranarían" ],
+			[ "desgranarían" ]
+		],
+		"7" : [
+			[ "desgranaré" ],
+			[ "desgranarás" ],
+			[ "desgranará" ],
+			[ "desgranaremos" ],
+			[ "desgranaréis", "desgranarán" ],
+			[ "desgranarán" ]
+		],
+		"8" : [
+			[ "desgrane" ],
+			[ "desgranes" ],
+			[ "desgrane" ],
+			[ "desgranemos" ],
+			[ "desgranéis", "desgranen" ],
+			[ "desgranen" ]
+		],
+		"9" : [
+			[ "desgranara" ],
+			[ "desgranaras" ],
+			[ "desgranara" ],
+			[ "desgranáramos" ],
+			[ "desgranarais", "desgranaran" ],
+			[ "desgranaran" ]
+		],
+		"10" : [
+			[ "desgranase" ],
+			[ "desgranases" ],
+			[ "desgranase" ],
+			[ "desgranásemos" ],
+			[ "desgranaseis", "desgranasen" ],
+			[ "desgranasen" ]
+		],
+		"11" : [
+			[ "desgranare" ],
+			[ "desgranares" ],
+			[ "desgranare" ],
+			[ "desgranáremos" ],
+			[ "desgranareis", "desgranaren" ],
+			[ "desgranaren" ]
+		],
+		"12" : {
+			"1" : [ "desgrana" ],
+			"2" : [ "desgrane" ],
+			"3" : [ "desgranemos" ],
+			"4" : [ "desgranad" ],
+			"5" : [ "desgranen" ]
+		}
+	}
+}

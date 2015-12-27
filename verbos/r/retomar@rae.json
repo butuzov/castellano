@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=retomar",
+	"word" : "retomar",
+	"infinitivo" : "retomar",
+	"participio" : [ "retomado" ],
+	"gerundio" : [ "retomando" ],
+	"tenses" : {
+		"3" : [
+			[ "retomo" ],
+			[ "retomas", "retomás" ],
+			[ "retoma" ],
+			[ "retomamos" ],
+			[ "retomáis", "retoman" ],
+			[ "retoman" ]
+		],
+		"4" : [
+			[ "retomé" ],
+			[ "retomaste" ],
+			[ "retomó" ],
+			[ "retomamos" ],
+			[ "retomasteis", "retomaron" ],
+			[ "retomaron" ]
+		],
+		"5" : [
+			[ "retomaba" ],
+			[ "retomabas" ],
+			[ "retomaba" ],
+			[ "retomábamos" ],
+			[ "retomabais", "retomaban" ],
+			[ "retomaban" ]
+		],
+		"6" : [
+			[ "retomaría" ],
+			[ "retomarías" ],
+			[ "retomaría" ],
+			[ "retomaríamos" ],
+			[ "retomaríais", "retomarían" ],
+			[ "retomarían" ]
+		],
+		"7" : [
+			[ "retomaré" ],
+			[ "retomarás" ],
+			[ "retomará" ],
+			[ "retomaremos" ],
+			[ "retomaréis", "retomarán" ],
+			[ "retomarán" ]
+		],
+		"8" : [
+			[ "retome" ],
+			[ "retomes" ],
+			[ "retome" ],
+			[ "retomemos" ],
+			[ "retoméis", "retomen" ],
+			[ "retomen" ]
+		],
+		"9" : [
+			[ "retomara" ],
+			[ "retomaras" ],
+			[ "retomara" ],
+			[ "retomáramos" ],
+			[ "retomarais", "retomaran" ],
+			[ "retomaran" ]
+		],
+		"10" : [
+			[ "retomase" ],
+			[ "retomases" ],
+			[ "retomase" ],
+			[ "retomásemos" ],
+			[ "retomaseis", "retomasen" ],
+			[ "retomasen" ]
+		],
+		"11" : [
+			[ "retomare" ],
+			[ "retomares" ],
+			[ "retomare" ],
+			[ "retomáremos" ],
+			[ "retomareis", "retomaren" ],
+			[ "retomaren" ]
+		],
+		"12" : {
+			"1" : [ "retoma" ],
+			"2" : [ "retome" ],
+			"3" : [ "retomemos" ],
+			"4" : [ "retomad" ],
+			"5" : [ "retomen" ]
+		}
+	}
+}

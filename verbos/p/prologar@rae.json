@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prologar",
+	"word" : "prologar",
+	"infinitivo" : "prologar",
+	"participio" : [ "prologado" ],
+	"gerundio" : [ "prologando" ],
+	"tenses" : {
+		"3" : [
+			[ "prologo" ],
+			[ "prologas", "prologás" ],
+			[ "prologa" ],
+			[ "prologamos" ],
+			[ "prologáis", "prologan" ],
+			[ "prologan" ]
+		],
+		"4" : [
+			[ "prologué" ],
+			[ "prologaste" ],
+			[ "prologó" ],
+			[ "prologamos" ],
+			[ "prologasteis", "prologaron" ],
+			[ "prologaron" ]
+		],
+		"5" : [
+			[ "prologaba" ],
+			[ "prologabas" ],
+			[ "prologaba" ],
+			[ "prologábamos" ],
+			[ "prologabais", "prologaban" ],
+			[ "prologaban" ]
+		],
+		"6" : [
+			[ "prologaría" ],
+			[ "prologarías" ],
+			[ "prologaría" ],
+			[ "prologaríamos" ],
+			[ "prologaríais", "prologarían" ],
+			[ "prologarían" ]
+		],
+		"7" : [
+			[ "prologaré" ],
+			[ "prologarás" ],
+			[ "prologará" ],
+			[ "prologaremos" ],
+			[ "prologaréis", "prologarán" ],
+			[ "prologarán" ]
+		],
+		"8" : [
+			[ "prologue" ],
+			[ "prologues" ],
+			[ "prologue" ],
+			[ "prologuemos" ],
+			[ "prologuéis", "prologuen" ],
+			[ "prologuen" ]
+		],
+		"9" : [
+			[ "prologara" ],
+			[ "prologaras" ],
+			[ "prologara" ],
+			[ "prologáramos" ],
+			[ "prologarais", "prologaran" ],
+			[ "prologaran" ]
+		],
+		"10" : [
+			[ "prologase" ],
+			[ "prologases" ],
+			[ "prologase" ],
+			[ "prologásemos" ],
+			[ "prologaseis", "prologasen" ],
+			[ "prologasen" ]
+		],
+		"11" : [
+			[ "prologare" ],
+			[ "prologares" ],
+			[ "prologare" ],
+			[ "prologáremos" ],
+			[ "prologareis", "prologaren" ],
+			[ "prologaren" ]
+		],
+		"12" : {
+			"1" : [ "prologa" ],
+			"2" : [ "prologue" ],
+			"3" : [ "prologuemos" ],
+			"4" : [ "prologad" ],
+			"5" : [ "prologuen" ]
+		}
+	}
+}

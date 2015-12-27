@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entristecer",
+	"word" : "entristecer",
+	"infinitivo" : "entristecer",
+	"participio" : [ "entristecido" ],
+	"gerundio" : [ "entristeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "entristezco" ],
+			[ "entristeces", "entristecés" ],
+			[ "entristece" ],
+			[ "entristecemos" ],
+			[ "entristecéis", "entristecen" ],
+			[ "entristecen" ]
+		],
+		"4" : [
+			[ "entristecí" ],
+			[ "entristeciste" ],
+			[ "entristeció" ],
+			[ "entristecimos" ],
+			[ "entristecisteis", "entristecieron" ],
+			[ "entristecieron" ]
+		],
+		"5" : [
+			[ "entristecía" ],
+			[ "entristecías" ],
+			[ "entristecía" ],
+			[ "entristecíamos" ],
+			[ "entristecíais", "entristecían" ],
+			[ "entristecían" ]
+		],
+		"6" : [
+			[ "entristecería" ],
+			[ "entristecerías" ],
+			[ "entristecería" ],
+			[ "entristeceríamos" ],
+			[ "entristeceríais", "entristecerían" ],
+			[ "entristecerían" ]
+		],
+		"7" : [
+			[ "entristeceré" ],
+			[ "entristecerás" ],
+			[ "entristecerá" ],
+			[ "entristeceremos" ],
+			[ "entristeceréis", "entristecerán" ],
+			[ "entristecerán" ]
+		],
+		"8" : [
+			[ "entristezca" ],
+			[ "entristezcas" ],
+			[ "entristezca" ],
+			[ "entristezcamos" ],
+			[ "entristezcáis", "entristezcan" ],
+			[ "entristezcan" ]
+		],
+		"9" : [
+			[ "entristeciera" ],
+			[ "entristecieras" ],
+			[ "entristeciera" ],
+			[ "entristeciéramos" ],
+			[ "entristecierais", "entristecieran" ],
+			[ "entristecieran" ]
+		],
+		"10" : [
+			[ "entristeciese" ],
+			[ "entristecieses" ],
+			[ "entristeciese" ],
+			[ "entristeciésemos" ],
+			[ "entristecieseis", "entristeciesen" ],
+			[ "entristeciesen" ]
+		],
+		"11" : [
+			[ "entristeciere" ],
+			[ "entristecieres" ],
+			[ "entristeciere" ],
+			[ "entristeciéremos" ],
+			[ "entristeciereis", "entristecieren" ],
+			[ "entristecieren" ]
+		],
+		"12" : {
+			"1" : [ "entristece" ],
+			"2" : [ "entristezca" ],
+			"3" : [ "entristezcamos" ],
+			"4" : [ "entristeced" ],
+			"5" : [ "entristezcan" ]
+		}
+	}
+}

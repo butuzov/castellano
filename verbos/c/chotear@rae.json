@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chotear",
+	"word" : "chotear",
+	"infinitivo" : "chotear",
+	"participio" : [ "choteado" ],
+	"gerundio" : [ "choteando" ],
+	"tenses" : {
+		"3" : [
+			[ "choteo" ],
+			[ "choteas", "choteás" ],
+			[ "chotea" ],
+			[ "choteamos" ],
+			[ "choteáis", "chotean" ],
+			[ "chotean" ]
+		],
+		"4" : [
+			[ "choteé" ],
+			[ "choteaste" ],
+			[ "choteó" ],
+			[ "choteamos" ],
+			[ "choteasteis", "chotearon" ],
+			[ "chotearon" ]
+		],
+		"5" : [
+			[ "choteaba" ],
+			[ "choteabas" ],
+			[ "choteaba" ],
+			[ "choteábamos" ],
+			[ "choteabais", "choteaban" ],
+			[ "choteaban" ]
+		],
+		"6" : [
+			[ "chotearía" ],
+			[ "chotearías" ],
+			[ "chotearía" ],
+			[ "chotearíamos" ],
+			[ "chotearíais", "chotearían" ],
+			[ "chotearían" ]
+		],
+		"7" : [
+			[ "chotearé" ],
+			[ "chotearás" ],
+			[ "choteará" ],
+			[ "chotearemos" ],
+			[ "chotearéis", "chotearán" ],
+			[ "chotearán" ]
+		],
+		"8" : [
+			[ "chotee" ],
+			[ "chotees" ],
+			[ "chotee" ],
+			[ "choteemos" ],
+			[ "choteéis", "choteen" ],
+			[ "choteen" ]
+		],
+		"9" : [
+			[ "choteara" ],
+			[ "chotearas" ],
+			[ "choteara" ],
+			[ "choteáramos" ],
+			[ "chotearais", "chotearan" ],
+			[ "chotearan" ]
+		],
+		"10" : [
+			[ "chotease" ],
+			[ "choteases" ],
+			[ "chotease" ],
+			[ "choteásemos" ],
+			[ "choteaseis", "choteasen" ],
+			[ "choteasen" ]
+		],
+		"11" : [
+			[ "choteare" ],
+			[ "choteares" ],
+			[ "choteare" ],
+			[ "choteáremos" ],
+			[ "choteareis", "chotearen" ],
+			[ "chotearen" ]
+		],
+		"12" : {
+			"1" : [ "chotea" ],
+			"2" : [ "chotee" ],
+			"3" : [ "choteemos" ],
+			"4" : [ "chotead" ],
+			"5" : [ "choteen" ]
+		}
+	}
+}

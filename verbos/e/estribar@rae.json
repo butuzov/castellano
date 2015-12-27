@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estribar",
+	"word" : "estribar",
+	"infinitivo" : "estribar",
+	"participio" : [ "estribado" ],
+	"gerundio" : [ "estribando" ],
+	"tenses" : {
+		"3" : [
+			[ "estribo" ],
+			[ "estribas", "estribás" ],
+			[ "estriba" ],
+			[ "estribamos" ],
+			[ "estribáis", "estriban" ],
+			[ "estriban" ]
+		],
+		"4" : [
+			[ "estribé" ],
+			[ "estribaste" ],
+			[ "estribó" ],
+			[ "estribamos" ],
+			[ "estribasteis", "estribaron" ],
+			[ "estribaron" ]
+		],
+		"5" : [
+			[ "estribaba" ],
+			[ "estribabas" ],
+			[ "estribaba" ],
+			[ "estribábamos" ],
+			[ "estribabais", "estribaban" ],
+			[ "estribaban" ]
+		],
+		"6" : [
+			[ "estribaría" ],
+			[ "estribarías" ],
+			[ "estribaría" ],
+			[ "estribaríamos" ],
+			[ "estribaríais", "estribarían" ],
+			[ "estribarían" ]
+		],
+		"7" : [
+			[ "estribaré" ],
+			[ "estribarás" ],
+			[ "estribará" ],
+			[ "estribaremos" ],
+			[ "estribaréis", "estribarán" ],
+			[ "estribarán" ]
+		],
+		"8" : [
+			[ "estribe" ],
+			[ "estribes" ],
+			[ "estribe" ],
+			[ "estribemos" ],
+			[ "estribéis", "estriben" ],
+			[ "estriben" ]
+		],
+		"9" : [
+			[ "estribara" ],
+			[ "estribaras" ],
+			[ "estribara" ],
+			[ "estribáramos" ],
+			[ "estribarais", "estribaran" ],
+			[ "estribaran" ]
+		],
+		"10" : [
+			[ "estribase" ],
+			[ "estribases" ],
+			[ "estribase" ],
+			[ "estribásemos" ],
+			[ "estribaseis", "estribasen" ],
+			[ "estribasen" ]
+		],
+		"11" : [
+			[ "estribare" ],
+			[ "estribares" ],
+			[ "estribare" ],
+			[ "estribáremos" ],
+			[ "estribareis", "estribaren" ],
+			[ "estribaren" ]
+		],
+		"12" : {
+			"1" : [ "estriba" ],
+			"2" : [ "estribe" ],
+			"3" : [ "estribemos" ],
+			"4" : [ "estribad" ],
+			"5" : [ "estriben" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=visualizar",
+	"word" : "visualizar",
+	"infinitivo" : "visualizar",
+	"participio" : [ "visualizado" ],
+	"gerundio" : [ "visualizando" ],
+	"tenses" : {
+		"3" : [
+			[ "visualizo" ],
+			[ "visualizas", "visualizás" ],
+			[ "visualiza" ],
+			[ "visualizamos" ],
+			[ "visualizáis", "visualizan" ],
+			[ "visualizan" ]
+		],
+		"4" : [
+			[ "visualicé" ],
+			[ "visualizaste" ],
+			[ "visualizó" ],
+			[ "visualizamos" ],
+			[ "visualizasteis", "visualizaron" ],
+			[ "visualizaron" ]
+		],
+		"5" : [
+			[ "visualizaba" ],
+			[ "visualizabas" ],
+			[ "visualizaba" ],
+			[ "visualizábamos" ],
+			[ "visualizabais", "visualizaban" ],
+			[ "visualizaban" ]
+		],
+		"6" : [
+			[ "visualizaría" ],
+			[ "visualizarías" ],
+			[ "visualizaría" ],
+			[ "visualizaríamos" ],
+			[ "visualizaríais", "visualizarían" ],
+			[ "visualizarían" ]
+		],
+		"7" : [
+			[ "visualizaré" ],
+			[ "visualizarás" ],
+			[ "visualizará" ],
+			[ "visualizaremos" ],
+			[ "visualizaréis", "visualizarán" ],
+			[ "visualizarán" ]
+		],
+		"8" : [
+			[ "visualice" ],
+			[ "visualices" ],
+			[ "visualice" ],
+			[ "visualicemos" ],
+			[ "visualicéis", "visualicen" ],
+			[ "visualicen" ]
+		],
+		"9" : [
+			[ "visualizara" ],
+			[ "visualizaras" ],
+			[ "visualizara" ],
+			[ "visualizáramos" ],
+			[ "visualizarais", "visualizaran" ],
+			[ "visualizaran" ]
+		],
+		"10" : [
+			[ "visualizase" ],
+			[ "visualizases" ],
+			[ "visualizase" ],
+			[ "visualizásemos" ],
+			[ "visualizaseis", "visualizasen" ],
+			[ "visualizasen" ]
+		],
+		"11" : [
+			[ "visualizare" ],
+			[ "visualizares" ],
+			[ "visualizare" ],
+			[ "visualizáremos" ],
+			[ "visualizareis", "visualizaren" ],
+			[ "visualizaren" ]
+		],
+		"12" : {
+			"1" : [ "visualiza" ],
+			"2" : [ "visualice" ],
+			"3" : [ "visualicemos" ],
+			"4" : [ "visualizad" ],
+			"5" : [ "visualicen" ]
+		}
+	}
+}

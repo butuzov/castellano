@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=espiar",
+	"word" : "espiar",
+	"infinitivo" : "espiar",
+	"participio" : [ "espiado" ],
+	"gerundio" : [ "espiando" ],
+	"tenses" : {
+		"3" : [
+			[ "espío" ],
+			[ "espías", "espiás" ],
+			[ "espía" ],
+			[ "espiamos" ],
+			[ "espiáis", "espían" ],
+			[ "espían" ]
+		],
+		"4" : [
+			[ "espié" ],
+			[ "espiaste" ],
+			[ "espió" ],
+			[ "espiamos" ],
+			[ "espiasteis", "espiaron" ],
+			[ "espiaron" ]
+		],
+		"5" : [
+			[ "espiaba" ],
+			[ "espiabas" ],
+			[ "espiaba" ],
+			[ "espiábamos" ],
+			[ "espiabais", "espiaban" ],
+			[ "espiaban" ]
+		],
+		"6" : [
+			[ "espiaría" ],
+			[ "espiarías" ],
+			[ "espiaría" ],
+			[ "espiaríamos" ],
+			[ "espiaríais", "espiarían" ],
+			[ "espiarían" ]
+		],
+		"7" : [
+			[ "espiaré" ],
+			[ "espiarás" ],
+			[ "espiará" ],
+			[ "espiaremos" ],
+			[ "espiaréis", "espiarán" ],
+			[ "espiarán" ]
+		],
+		"8" : [
+			[ "espíe" ],
+			[ "espíes" ],
+			[ "espíe" ],
+			[ "espiemos" ],
+			[ "espiéis", "espíen" ],
+			[ "espíen" ]
+		],
+		"9" : [
+			[ "espiara" ],
+			[ "espiaras" ],
+			[ "espiara" ],
+			[ "espiáramos" ],
+			[ "espiarais", "espiaran" ],
+			[ "espiaran" ]
+		],
+		"10" : [
+			[ "espiase" ],
+			[ "espiases" ],
+			[ "espiase" ],
+			[ "espiásemos" ],
+			[ "espiaseis", "espiasen" ],
+			[ "espiasen" ]
+		],
+		"11" : [
+			[ "espiare" ],
+			[ "espiares" ],
+			[ "espiare" ],
+			[ "espiáremos" ],
+			[ "espiareis", "espiaren" ],
+			[ "espiaren" ]
+		],
+		"12" : {
+			"1" : [ "espía" ],
+			"2" : [ "espíe" ],
+			"3" : [ "espiemos" ],
+			"4" : [ "espiad" ],
+			"5" : [ "espíen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encoger",
+	"word" : "encoger",
+	"infinitivo" : "encoger",
+	"participio" : [ "encogido" ],
+	"gerundio" : [ "encogiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "encojo" ],
+			[ "encoges", "encogés" ],
+			[ "encoge" ],
+			[ "encogemos" ],
+			[ "encogéis", "encogen" ],
+			[ "encogen" ]
+		],
+		"4" : [
+			[ "encogí" ],
+			[ "encogiste" ],
+			[ "encogió" ],
+			[ "encogimos" ],
+			[ "encogisteis", "encogieron" ],
+			[ "encogieron" ]
+		],
+		"5" : [
+			[ "encogía" ],
+			[ "encogías" ],
+			[ "encogía" ],
+			[ "encogíamos" ],
+			[ "encogíais", "encogían" ],
+			[ "encogían" ]
+		],
+		"6" : [
+			[ "encogería" ],
+			[ "encogerías" ],
+			[ "encogería" ],
+			[ "encogeríamos" ],
+			[ "encogeríais", "encogerían" ],
+			[ "encogerían" ]
+		],
+		"7" : [
+			[ "encogeré" ],
+			[ "encogerás" ],
+			[ "encogerá" ],
+			[ "encogeremos" ],
+			[ "encogeréis", "encogerán" ],
+			[ "encogerán" ]
+		],
+		"8" : [
+			[ "encoja" ],
+			[ "encojas" ],
+			[ "encoja" ],
+			[ "encojamos" ],
+			[ "encojáis", "encojan" ],
+			[ "encojan" ]
+		],
+		"9" : [
+			[ "encogiera" ],
+			[ "encogieras" ],
+			[ "encogiera" ],
+			[ "encogiéramos" ],
+			[ "encogierais", "encogieran" ],
+			[ "encogieran" ]
+		],
+		"10" : [
+			[ "encogiese" ],
+			[ "encogieses" ],
+			[ "encogiese" ],
+			[ "encogiésemos" ],
+			[ "encogieseis", "encogiesen" ],
+			[ "encogiesen" ]
+		],
+		"11" : [
+			[ "encogiere" ],
+			[ "encogieres" ],
+			[ "encogiere" ],
+			[ "encogiéremos" ],
+			[ "encogiereis", "encogieren" ],
+			[ "encogieren" ]
+		],
+		"12" : {
+			"1" : [ "encoge" ],
+			"2" : [ "encoja" ],
+			"3" : [ "encojamos" ],
+			"4" : [ "encoged" ],
+			"5" : [ "encojan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emprender",
+	"word" : "emprender",
+	"infinitivo" : "emprender",
+	"participio" : [ "emprendido" ],
+	"gerundio" : [ "emprendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "emprendo" ],
+			[ "emprendes", "emprendés" ],
+			[ "emprende" ],
+			[ "emprendemos" ],
+			[ "emprendéis", "emprenden" ],
+			[ "emprenden" ]
+		],
+		"4" : [
+			[ "emprendí" ],
+			[ "emprendiste" ],
+			[ "emprendió" ],
+			[ "emprendimos" ],
+			[ "emprendisteis", "emprendieron" ],
+			[ "emprendieron" ]
+		],
+		"5" : [
+			[ "emprendía" ],
+			[ "emprendías" ],
+			[ "emprendía" ],
+			[ "emprendíamos" ],
+			[ "emprendíais", "emprendían" ],
+			[ "emprendían" ]
+		],
+		"6" : [
+			[ "emprendería" ],
+			[ "emprenderías" ],
+			[ "emprendería" ],
+			[ "emprenderíamos" ],
+			[ "emprenderíais", "emprenderían" ],
+			[ "emprenderían" ]
+		],
+		"7" : [
+			[ "emprenderé" ],
+			[ "emprenderás" ],
+			[ "emprenderá" ],
+			[ "emprenderemos" ],
+			[ "emprenderéis", "emprenderán" ],
+			[ "emprenderán" ]
+		],
+		"8" : [
+			[ "emprenda" ],
+			[ "emprendas" ],
+			[ "emprenda" ],
+			[ "emprendamos" ],
+			[ "emprendáis", "emprendan" ],
+			[ "emprendan" ]
+		],
+		"9" : [
+			[ "emprendiera" ],
+			[ "emprendieras" ],
+			[ "emprendiera" ],
+			[ "emprendiéramos" ],
+			[ "emprendierais", "emprendieran" ],
+			[ "emprendieran" ]
+		],
+		"10" : [
+			[ "emprendiese" ],
+			[ "emprendieses" ],
+			[ "emprendiese" ],
+			[ "emprendiésemos" ],
+			[ "emprendieseis", "emprendiesen" ],
+			[ "emprendiesen" ]
+		],
+		"11" : [
+			[ "emprendiere" ],
+			[ "emprendieres" ],
+			[ "emprendiere" ],
+			[ "emprendiéremos" ],
+			[ "emprendiereis", "emprendieren" ],
+			[ "emprendieren" ]
+		],
+		"12" : {
+			"1" : [ "emprende" ],
+			"2" : [ "emprenda" ],
+			"3" : [ "emprendamos" ],
+			"4" : [ "emprended" ],
+			"5" : [ "emprendan" ]
+		}
+	}
+}

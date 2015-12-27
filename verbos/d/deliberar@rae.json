@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deliberar",
+	"word" : "deliberar",
+	"infinitivo" : "deliberar",
+	"participio" : [ "deliberado" ],
+	"gerundio" : [ "deliberando" ],
+	"tenses" : {
+		"3" : [
+			[ "delibero" ],
+			[ "deliberas", "deliberás" ],
+			[ "delibera" ],
+			[ "deliberamos" ],
+			[ "deliberáis", "deliberan" ],
+			[ "deliberan" ]
+		],
+		"4" : [
+			[ "deliberé" ],
+			[ "deliberaste" ],
+			[ "deliberó" ],
+			[ "deliberamos" ],
+			[ "deliberasteis", "deliberaron" ],
+			[ "deliberaron" ]
+		],
+		"5" : [
+			[ "deliberaba" ],
+			[ "deliberabas" ],
+			[ "deliberaba" ],
+			[ "deliberábamos" ],
+			[ "deliberabais", "deliberaban" ],
+			[ "deliberaban" ]
+		],
+		"6" : [
+			[ "deliberaría" ],
+			[ "deliberarías" ],
+			[ "deliberaría" ],
+			[ "deliberaríamos" ],
+			[ "deliberaríais", "deliberarían" ],
+			[ "deliberarían" ]
+		],
+		"7" : [
+			[ "deliberaré" ],
+			[ "deliberarás" ],
+			[ "deliberará" ],
+			[ "deliberaremos" ],
+			[ "deliberaréis", "deliberarán" ],
+			[ "deliberarán" ]
+		],
+		"8" : [
+			[ "delibere" ],
+			[ "deliberes" ],
+			[ "delibere" ],
+			[ "deliberemos" ],
+			[ "deliberéis", "deliberen" ],
+			[ "deliberen" ]
+		],
+		"9" : [
+			[ "deliberara" ],
+			[ "deliberaras" ],
+			[ "deliberara" ],
+			[ "deliberáramos" ],
+			[ "deliberarais", "deliberaran" ],
+			[ "deliberaran" ]
+		],
+		"10" : [
+			[ "deliberase" ],
+			[ "deliberases" ],
+			[ "deliberase" ],
+			[ "deliberásemos" ],
+			[ "deliberaseis", "deliberasen" ],
+			[ "deliberasen" ]
+		],
+		"11" : [
+			[ "deliberare" ],
+			[ "deliberares" ],
+			[ "deliberare" ],
+			[ "deliberáremos" ],
+			[ "deliberareis", "deliberaren" ],
+			[ "deliberaren" ]
+		],
+		"12" : {
+			"1" : [ "delibera" ],
+			"2" : [ "delibere" ],
+			"3" : [ "deliberemos" ],
+			"4" : [ "deliberad" ],
+			"5" : [ "deliberen" ]
+		}
+	}
+}

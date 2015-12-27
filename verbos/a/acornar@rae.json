@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acornar",
+	"word" : "acornar",
+	"infinitivo" : "acornar",
+	"participio" : [ "acornado" ],
+	"gerundio" : [ "acornando" ],
+	"tenses" : {
+		"3" : [
+			[ "acuerno" ],
+			[ "acuernas", "acornás" ],
+			[ "acuerna" ],
+			[ "acornamos" ],
+			[ "acornáis", "acuernan" ],
+			[ "acuernan" ]
+		],
+		"4" : [
+			[ "acorné" ],
+			[ "acornaste" ],
+			[ "acornó" ],
+			[ "acornamos" ],
+			[ "acornasteis", "acornaron" ],
+			[ "acornaron" ]
+		],
+		"5" : [
+			[ "acornaba" ],
+			[ "acornabas" ],
+			[ "acornaba" ],
+			[ "acornábamos" ],
+			[ "acornabais", "acornaban" ],
+			[ "acornaban" ]
+		],
+		"6" : [
+			[ "acornaría" ],
+			[ "acornarías" ],
+			[ "acornaría" ],
+			[ "acornaríamos" ],
+			[ "acornaríais", "acornarían" ],
+			[ "acornarían" ]
+		],
+		"7" : [
+			[ "acornaré" ],
+			[ "acornarás" ],
+			[ "acornará" ],
+			[ "acornaremos" ],
+			[ "acornaréis", "acornarán" ],
+			[ "acornarán" ]
+		],
+		"8" : [
+			[ "acuerne" ],
+			[ "acuernes" ],
+			[ "acuerne" ],
+			[ "acornemos" ],
+			[ "acornéis", "acuernen" ],
+			[ "acuernen" ]
+		],
+		"9" : [
+			[ "acornara" ],
+			[ "acornaras" ],
+			[ "acornara" ],
+			[ "acornáramos" ],
+			[ "acornarais", "acornaran" ],
+			[ "acornaran" ]
+		],
+		"10" : [
+			[ "acornase" ],
+			[ "acornases" ],
+			[ "acornase" ],
+			[ "acornásemos" ],
+			[ "acornaseis", "acornasen" ],
+			[ "acornasen" ]
+		],
+		"11" : [
+			[ "acornare" ],
+			[ "acornares" ],
+			[ "acornare" ],
+			[ "acornáremos" ],
+			[ "acornareis", "acornaren" ],
+			[ "acornaren" ]
+		],
+		"12" : {
+			"1" : [ "acuerna" ],
+			"2" : [ "acuerne" ],
+			"3" : [ "acornemos" ],
+			"4" : [ "acornad" ],
+			"5" : [ "acuernen" ]
+		}
+	}
+}

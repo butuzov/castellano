@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=festinar",
+	"word" : "festinar",
+	"infinitivo" : "festinar",
+	"participio" : [ "festinado" ],
+	"gerundio" : [ "festinando" ],
+	"tenses" : {
+		"3" : [
+			[ "festino" ],
+			[ "festinas", "festinás" ],
+			[ "festina" ],
+			[ "festinamos" ],
+			[ "festináis", "festinan" ],
+			[ "festinan" ]
+		],
+		"4" : [
+			[ "festiné" ],
+			[ "festinaste" ],
+			[ "festinó" ],
+			[ "festinamos" ],
+			[ "festinasteis", "festinaron" ],
+			[ "festinaron" ]
+		],
+		"5" : [
+			[ "festinaba" ],
+			[ "festinabas" ],
+			[ "festinaba" ],
+			[ "festinábamos" ],
+			[ "festinabais", "festinaban" ],
+			[ "festinaban" ]
+		],
+		"6" : [
+			[ "festinaría" ],
+			[ "festinarías" ],
+			[ "festinaría" ],
+			[ "festinaríamos" ],
+			[ "festinaríais", "festinarían" ],
+			[ "festinarían" ]
+		],
+		"7" : [
+			[ "festinaré" ],
+			[ "festinarás" ],
+			[ "festinará" ],
+			[ "festinaremos" ],
+			[ "festinaréis", "festinarán" ],
+			[ "festinarán" ]
+		],
+		"8" : [
+			[ "festine" ],
+			[ "festines" ],
+			[ "festine" ],
+			[ "festinemos" ],
+			[ "festinéis", "festinen" ],
+			[ "festinen" ]
+		],
+		"9" : [
+			[ "festinara" ],
+			[ "festinaras" ],
+			[ "festinara" ],
+			[ "festináramos" ],
+			[ "festinarais", "festinaran" ],
+			[ "festinaran" ]
+		],
+		"10" : [
+			[ "festinase" ],
+			[ "festinases" ],
+			[ "festinase" ],
+			[ "festinásemos" ],
+			[ "festinaseis", "festinasen" ],
+			[ "festinasen" ]
+		],
+		"11" : [
+			[ "festinare" ],
+			[ "festinares" ],
+			[ "festinare" ],
+			[ "festináremos" ],
+			[ "festinareis", "festinaren" ],
+			[ "festinaren" ]
+		],
+		"12" : {
+			"1" : [ "festina" ],
+			"2" : [ "festine" ],
+			"3" : [ "festinemos" ],
+			"4" : [ "festinad" ],
+			"5" : [ "festinen" ]
+		}
+	}
+}

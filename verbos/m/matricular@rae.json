@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=matricular",
+	"word" : "matricular",
+	"infinitivo" : "matricular",
+	"participio" : [ "matriculado" ],
+	"gerundio" : [ "matriculando" ],
+	"tenses" : {
+		"3" : [
+			[ "matriculo" ],
+			[ "matriculas", "matriculás" ],
+			[ "matricula" ],
+			[ "matriculamos" ],
+			[ "matriculáis", "matriculan" ],
+			[ "matriculan" ]
+		],
+		"4" : [
+			[ "matriculé" ],
+			[ "matriculaste" ],
+			[ "matriculó" ],
+			[ "matriculamos" ],
+			[ "matriculasteis", "matricularon" ],
+			[ "matricularon" ]
+		],
+		"5" : [
+			[ "matriculaba" ],
+			[ "matriculabas" ],
+			[ "matriculaba" ],
+			[ "matriculábamos" ],
+			[ "matriculabais", "matriculaban" ],
+			[ "matriculaban" ]
+		],
+		"6" : [
+			[ "matricularía" ],
+			[ "matricularías" ],
+			[ "matricularía" ],
+			[ "matricularíamos" ],
+			[ "matricularíais", "matricularían" ],
+			[ "matricularían" ]
+		],
+		"7" : [
+			[ "matricularé" ],
+			[ "matricularás" ],
+			[ "matriculará" ],
+			[ "matricularemos" ],
+			[ "matricularéis", "matricularán" ],
+			[ "matricularán" ]
+		],
+		"8" : [
+			[ "matricule" ],
+			[ "matricules" ],
+			[ "matricule" ],
+			[ "matriculemos" ],
+			[ "matriculéis", "matriculen" ],
+			[ "matriculen" ]
+		],
+		"9" : [
+			[ "matriculara" ],
+			[ "matricularas" ],
+			[ "matriculara" ],
+			[ "matriculáramos" ],
+			[ "matricularais", "matricularan" ],
+			[ "matricularan" ]
+		],
+		"10" : [
+			[ "matriculase" ],
+			[ "matriculases" ],
+			[ "matriculase" ],
+			[ "matriculásemos" ],
+			[ "matriculaseis", "matriculasen" ],
+			[ "matriculasen" ]
+		],
+		"11" : [
+			[ "matriculare" ],
+			[ "matriculares" ],
+			[ "matriculare" ],
+			[ "matriculáremos" ],
+			[ "matriculareis", "matricularen" ],
+			[ "matricularen" ]
+		],
+		"12" : {
+			"1" : [ "matricula" ],
+			"2" : [ "matricule" ],
+			"3" : [ "matriculemos" ],
+			"4" : [ "matriculad" ],
+			"5" : [ "matriculen" ]
+		}
+	}
+}

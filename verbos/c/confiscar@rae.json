@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=confiscar",
+	"word" : "confiscar",
+	"infinitivo" : "confiscar",
+	"participio" : [ "confiscado" ],
+	"gerundio" : [ "confiscando" ],
+	"tenses" : {
+		"3" : [
+			[ "confisco" ],
+			[ "confiscas", "confiscás" ],
+			[ "confisca" ],
+			[ "confiscamos" ],
+			[ "confiscáis", "confiscan" ],
+			[ "confiscan" ]
+		],
+		"4" : [
+			[ "confisqué" ],
+			[ "confiscaste" ],
+			[ "confiscó" ],
+			[ "confiscamos" ],
+			[ "confiscasteis", "confiscaron" ],
+			[ "confiscaron" ]
+		],
+		"5" : [
+			[ "confiscaba" ],
+			[ "confiscabas" ],
+			[ "confiscaba" ],
+			[ "confiscábamos" ],
+			[ "confiscabais", "confiscaban" ],
+			[ "confiscaban" ]
+		],
+		"6" : [
+			[ "confiscaría" ],
+			[ "confiscarías" ],
+			[ "confiscaría" ],
+			[ "confiscaríamos" ],
+			[ "confiscaríais", "confiscarían" ],
+			[ "confiscarían" ]
+		],
+		"7" : [
+			[ "confiscaré" ],
+			[ "confiscarás" ],
+			[ "confiscará" ],
+			[ "confiscaremos" ],
+			[ "confiscaréis", "confiscarán" ],
+			[ "confiscarán" ]
+		],
+		"8" : [
+			[ "confisque" ],
+			[ "confisques" ],
+			[ "confisque" ],
+			[ "confisquemos" ],
+			[ "confisquéis", "confisquen" ],
+			[ "confisquen" ]
+		],
+		"9" : [
+			[ "confiscara" ],
+			[ "confiscaras" ],
+			[ "confiscara" ],
+			[ "confiscáramos" ],
+			[ "confiscarais", "confiscaran" ],
+			[ "confiscaran" ]
+		],
+		"10" : [
+			[ "confiscase" ],
+			[ "confiscases" ],
+			[ "confiscase" ],
+			[ "confiscásemos" ],
+			[ "confiscaseis", "confiscasen" ],
+			[ "confiscasen" ]
+		],
+		"11" : [
+			[ "confiscare" ],
+			[ "confiscares" ],
+			[ "confiscare" ],
+			[ "confiscáremos" ],
+			[ "confiscareis", "confiscaren" ],
+			[ "confiscaren" ]
+		],
+		"12" : {
+			"1" : [ "confisca" ],
+			"2" : [ "confisque" ],
+			"3" : [ "confisquemos" ],
+			"4" : [ "confiscad" ],
+			"5" : [ "confisquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ofuscar",
+	"word" : "ofuscar",
+	"infinitivo" : "ofuscar",
+	"participio" : [ "ofuscado" ],
+	"gerundio" : [ "ofuscando" ],
+	"tenses" : {
+		"3" : [
+			[ "ofusco" ],
+			[ "ofuscas", "ofuscás" ],
+			[ "ofusca" ],
+			[ "ofuscamos" ],
+			[ "ofuscáis", "ofuscan" ],
+			[ "ofuscan" ]
+		],
+		"4" : [
+			[ "ofusqué" ],
+			[ "ofuscaste" ],
+			[ "ofuscó" ],
+			[ "ofuscamos" ],
+			[ "ofuscasteis", "ofuscaron" ],
+			[ "ofuscaron" ]
+		],
+		"5" : [
+			[ "ofuscaba" ],
+			[ "ofuscabas" ],
+			[ "ofuscaba" ],
+			[ "ofuscábamos" ],
+			[ "ofuscabais", "ofuscaban" ],
+			[ "ofuscaban" ]
+		],
+		"6" : [
+			[ "ofuscaría" ],
+			[ "ofuscarías" ],
+			[ "ofuscaría" ],
+			[ "ofuscaríamos" ],
+			[ "ofuscaríais", "ofuscarían" ],
+			[ "ofuscarían" ]
+		],
+		"7" : [
+			[ "ofuscaré" ],
+			[ "ofuscarás" ],
+			[ "ofuscará" ],
+			[ "ofuscaremos" ],
+			[ "ofuscaréis", "ofuscarán" ],
+			[ "ofuscarán" ]
+		],
+		"8" : [
+			[ "ofusque" ],
+			[ "ofusques" ],
+			[ "ofusque" ],
+			[ "ofusquemos" ],
+			[ "ofusquéis", "ofusquen" ],
+			[ "ofusquen" ]
+		],
+		"9" : [
+			[ "ofuscara" ],
+			[ "ofuscaras" ],
+			[ "ofuscara" ],
+			[ "ofuscáramos" ],
+			[ "ofuscarais", "ofuscaran" ],
+			[ "ofuscaran" ]
+		],
+		"10" : [
+			[ "ofuscase" ],
+			[ "ofuscases" ],
+			[ "ofuscase" ],
+			[ "ofuscásemos" ],
+			[ "ofuscaseis", "ofuscasen" ],
+			[ "ofuscasen" ]
+		],
+		"11" : [
+			[ "ofuscare" ],
+			[ "ofuscares" ],
+			[ "ofuscare" ],
+			[ "ofuscáremos" ],
+			[ "ofuscareis", "ofuscaren" ],
+			[ "ofuscaren" ]
+		],
+		"12" : {
+			"1" : [ "ofusca" ],
+			"2" : [ "ofusque" ],
+			"3" : [ "ofusquemos" ],
+			"4" : [ "ofuscad" ],
+			"5" : [ "ofusquen" ]
+		}
+	}
+}

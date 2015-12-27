@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fallecer",
+	"word" : "fallecer",
+	"infinitivo" : "fallecer",
+	"participio" : [ "fallecido" ],
+	"gerundio" : [ "falleciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "fallezco" ],
+			[ "falleces", "fallecés" ],
+			[ "fallece" ],
+			[ "fallecemos" ],
+			[ "fallecéis", "fallecen" ],
+			[ "fallecen" ]
+		],
+		"4" : [
+			[ "fallecí" ],
+			[ "falleciste" ],
+			[ "falleció" ],
+			[ "fallecimos" ],
+			[ "fallecisteis", "fallecieron" ],
+			[ "fallecieron" ]
+		],
+		"5" : [
+			[ "fallecía" ],
+			[ "fallecías" ],
+			[ "fallecía" ],
+			[ "fallecíamos" ],
+			[ "fallecíais", "fallecían" ],
+			[ "fallecían" ]
+		],
+		"6" : [
+			[ "fallecería" ],
+			[ "fallecerías" ],
+			[ "fallecería" ],
+			[ "falleceríamos" ],
+			[ "falleceríais", "fallecerían" ],
+			[ "fallecerían" ]
+		],
+		"7" : [
+			[ "falleceré" ],
+			[ "fallecerás" ],
+			[ "fallecerá" ],
+			[ "falleceremos" ],
+			[ "falleceréis", "fallecerán" ],
+			[ "fallecerán" ]
+		],
+		"8" : [
+			[ "fallezca" ],
+			[ "fallezcas" ],
+			[ "fallezca" ],
+			[ "fallezcamos" ],
+			[ "fallezcáis", "fallezcan" ],
+			[ "fallezcan" ]
+		],
+		"9" : [
+			[ "falleciera" ],
+			[ "fallecieras" ],
+			[ "falleciera" ],
+			[ "falleciéramos" ],
+			[ "fallecierais", "fallecieran" ],
+			[ "fallecieran" ]
+		],
+		"10" : [
+			[ "falleciese" ],
+			[ "fallecieses" ],
+			[ "falleciese" ],
+			[ "falleciésemos" ],
+			[ "fallecieseis", "falleciesen" ],
+			[ "falleciesen" ]
+		],
+		"11" : [
+			[ "falleciere" ],
+			[ "fallecieres" ],
+			[ "falleciere" ],
+			[ "falleciéremos" ],
+			[ "falleciereis", "fallecieren" ],
+			[ "fallecieren" ]
+		],
+		"12" : {
+			"1" : [ "fallece" ],
+			"2" : [ "fallezca" ],
+			"3" : [ "fallezcamos" ],
+			"4" : [ "falleced" ],
+			"5" : [ "fallezcan" ]
+		}
+	}
+}

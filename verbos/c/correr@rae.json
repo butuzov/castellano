@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=correr",
+	"word" : "correr",
+	"infinitivo" : "correr",
+	"participio" : [ "corrido" ],
+	"gerundio" : [ "corriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "corro" ],
+			[ "corres", "corrés" ],
+			[ "corre" ],
+			[ "corremos" ],
+			[ "corréis", "corren" ],
+			[ "corren" ]
+		],
+		"4" : [
+			[ "corrí" ],
+			[ "corriste" ],
+			[ "corrió" ],
+			[ "corrimos" ],
+			[ "corristeis", "corrieron" ],
+			[ "corrieron" ]
+		],
+		"5" : [
+			[ "corría" ],
+			[ "corrías" ],
+			[ "corría" ],
+			[ "corríamos" ],
+			[ "corríais", "corrían" ],
+			[ "corrían" ]
+		],
+		"6" : [
+			[ "correría" ],
+			[ "correrías" ],
+			[ "correría" ],
+			[ "correríamos" ],
+			[ "correríais", "correrían" ],
+			[ "correrían" ]
+		],
+		"7" : [
+			[ "correré" ],
+			[ "correrás" ],
+			[ "correrá" ],
+			[ "correremos" ],
+			[ "correréis", "correrán" ],
+			[ "correrán" ]
+		],
+		"8" : [
+			[ "corra" ],
+			[ "corras" ],
+			[ "corra" ],
+			[ "corramos" ],
+			[ "corráis", "corran" ],
+			[ "corran" ]
+		],
+		"9" : [
+			[ "corriera" ],
+			[ "corrieras" ],
+			[ "corriera" ],
+			[ "corriéramos" ],
+			[ "corrierais", "corrieran" ],
+			[ "corrieran" ]
+		],
+		"10" : [
+			[ "corriese" ],
+			[ "corrieses" ],
+			[ "corriese" ],
+			[ "corriésemos" ],
+			[ "corrieseis", "corriesen" ],
+			[ "corriesen" ]
+		],
+		"11" : [
+			[ "corriere" ],
+			[ "corrieres" ],
+			[ "corriere" ],
+			[ "corriéremos" ],
+			[ "corriereis", "corrieren" ],
+			[ "corrieren" ]
+		],
+		"12" : {
+			"1" : [ "corre" ],
+			"2" : [ "corra" ],
+			"3" : [ "corramos" ],
+			"4" : [ "corred" ],
+			"5" : [ "corran" ]
+		}
+	}
+}

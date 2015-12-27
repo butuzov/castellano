@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adelantar",
+	"word" : "adelantar",
+	"infinitivo" : "adelantar",
+	"participio" : [ "adelantado" ],
+	"gerundio" : [ "adelantando" ],
+	"tenses" : {
+		"3" : [
+			[ "adelanto" ],
+			[ "adelantas", "adelantás" ],
+			[ "adelanta" ],
+			[ "adelantamos" ],
+			[ "adelantáis", "adelantan" ],
+			[ "adelantan" ]
+		],
+		"4" : [
+			[ "adelanté" ],
+			[ "adelantaste" ],
+			[ "adelantó" ],
+			[ "adelantamos" ],
+			[ "adelantasteis", "adelantaron" ],
+			[ "adelantaron" ]
+		],
+		"5" : [
+			[ "adelantaba" ],
+			[ "adelantabas" ],
+			[ "adelantaba" ],
+			[ "adelantábamos" ],
+			[ "adelantabais", "adelantaban" ],
+			[ "adelantaban" ]
+		],
+		"6" : [
+			[ "adelantaría" ],
+			[ "adelantarías" ],
+			[ "adelantaría" ],
+			[ "adelantaríamos" ],
+			[ "adelantaríais", "adelantarían" ],
+			[ "adelantarían" ]
+		],
+		"7" : [
+			[ "adelantaré" ],
+			[ "adelantarás" ],
+			[ "adelantará" ],
+			[ "adelantaremos" ],
+			[ "adelantaréis", "adelantarán" ],
+			[ "adelantarán" ]
+		],
+		"8" : [
+			[ "adelante" ],
+			[ "adelantes" ],
+			[ "adelante" ],
+			[ "adelantemos" ],
+			[ "adelantéis", "adelanten" ],
+			[ "adelanten" ]
+		],
+		"9" : [
+			[ "adelantara" ],
+			[ "adelantaras" ],
+			[ "adelantara" ],
+			[ "adelantáramos" ],
+			[ "adelantarais", "adelantaran" ],
+			[ "adelantaran" ]
+		],
+		"10" : [
+			[ "adelantase" ],
+			[ "adelantases" ],
+			[ "adelantase" ],
+			[ "adelantásemos" ],
+			[ "adelantaseis", "adelantasen" ],
+			[ "adelantasen" ]
+		],
+		"11" : [
+			[ "adelantare" ],
+			[ "adelantares" ],
+			[ "adelantare" ],
+			[ "adelantáremos" ],
+			[ "adelantareis", "adelantaren" ],
+			[ "adelantaren" ]
+		],
+		"12" : {
+			"1" : [ "adelanta" ],
+			"2" : [ "adelante" ],
+			"3" : [ "adelantemos" ],
+			"4" : [ "adelantad" ],
+			"5" : [ "adelanten" ]
+		}
+	}
+}

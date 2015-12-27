@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=infectar",
+	"word" : "infectar",
+	"infinitivo" : "infectar",
+	"participio" : [ "infectado" ],
+	"gerundio" : [ "infectando" ],
+	"tenses" : {
+		"3" : [
+			[ "infecto" ],
+			[ "infectas", "infectás" ],
+			[ "infecta" ],
+			[ "infectamos" ],
+			[ "infectáis", "infectan" ],
+			[ "infectan" ]
+		],
+		"4" : [
+			[ "infecté" ],
+			[ "infectaste" ],
+			[ "infectó" ],
+			[ "infectamos" ],
+			[ "infectasteis", "infectaron" ],
+			[ "infectaron" ]
+		],
+		"5" : [
+			[ "infectaba" ],
+			[ "infectabas" ],
+			[ "infectaba" ],
+			[ "infectábamos" ],
+			[ "infectabais", "infectaban" ],
+			[ "infectaban" ]
+		],
+		"6" : [
+			[ "infectaría" ],
+			[ "infectarías" ],
+			[ "infectaría" ],
+			[ "infectaríamos" ],
+			[ "infectaríais", "infectarían" ],
+			[ "infectarían" ]
+		],
+		"7" : [
+			[ "infectaré" ],
+			[ "infectarás" ],
+			[ "infectará" ],
+			[ "infectaremos" ],
+			[ "infectaréis", "infectarán" ],
+			[ "infectarán" ]
+		],
+		"8" : [
+			[ "infecte" ],
+			[ "infectes" ],
+			[ "infecte" ],
+			[ "infectemos" ],
+			[ "infectéis", "infecten" ],
+			[ "infecten" ]
+		],
+		"9" : [
+			[ "infectara" ],
+			[ "infectaras" ],
+			[ "infectara" ],
+			[ "infectáramos" ],
+			[ "infectarais", "infectaran" ],
+			[ "infectaran" ]
+		],
+		"10" : [
+			[ "infectase" ],
+			[ "infectases" ],
+			[ "infectase" ],
+			[ "infectásemos" ],
+			[ "infectaseis", "infectasen" ],
+			[ "infectasen" ]
+		],
+		"11" : [
+			[ "infectare" ],
+			[ "infectares" ],
+			[ "infectare" ],
+			[ "infectáremos" ],
+			[ "infectareis", "infectaren" ],
+			[ "infectaren" ]
+		],
+		"12" : {
+			"1" : [ "infecta" ],
+			"2" : [ "infecte" ],
+			"3" : [ "infectemos" ],
+			"4" : [ "infectad" ],
+			"5" : [ "infecten" ]
+		}
+	}
+}

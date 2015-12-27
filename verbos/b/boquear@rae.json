@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=boquear",
+	"word" : "boquear",
+	"infinitivo" : "boquear",
+	"participio" : [ "boqueado" ],
+	"gerundio" : [ "boqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "boqueo" ],
+			[ "boqueas", "boqueás" ],
+			[ "boquea" ],
+			[ "boqueamos" ],
+			[ "boqueáis", "boquean" ],
+			[ "boquean" ]
+		],
+		"4" : [
+			[ "boqueé" ],
+			[ "boqueaste" ],
+			[ "boqueó" ],
+			[ "boqueamos" ],
+			[ "boqueasteis", "boquearon" ],
+			[ "boquearon" ]
+		],
+		"5" : [
+			[ "boqueaba" ],
+			[ "boqueabas" ],
+			[ "boqueaba" ],
+			[ "boqueábamos" ],
+			[ "boqueabais", "boqueaban" ],
+			[ "boqueaban" ]
+		],
+		"6" : [
+			[ "boquearía" ],
+			[ "boquearías" ],
+			[ "boquearía" ],
+			[ "boquearíamos" ],
+			[ "boquearíais", "boquearían" ],
+			[ "boquearían" ]
+		],
+		"7" : [
+			[ "boquearé" ],
+			[ "boquearás" ],
+			[ "boqueará" ],
+			[ "boquearemos" ],
+			[ "boquearéis", "boquearán" ],
+			[ "boquearán" ]
+		],
+		"8" : [
+			[ "boquee" ],
+			[ "boquees" ],
+			[ "boquee" ],
+			[ "boqueemos" ],
+			[ "boqueéis", "boqueen" ],
+			[ "boqueen" ]
+		],
+		"9" : [
+			[ "boqueara" ],
+			[ "boquearas" ],
+			[ "boqueara" ],
+			[ "boqueáramos" ],
+			[ "boquearais", "boquearan" ],
+			[ "boquearan" ]
+		],
+		"10" : [
+			[ "boquease" ],
+			[ "boqueases" ],
+			[ "boquease" ],
+			[ "boqueásemos" ],
+			[ "boqueaseis", "boqueasen" ],
+			[ "boqueasen" ]
+		],
+		"11" : [
+			[ "boqueare" ],
+			[ "boqueares" ],
+			[ "boqueare" ],
+			[ "boqueáremos" ],
+			[ "boqueareis", "boquearen" ],
+			[ "boquearen" ]
+		],
+		"12" : {
+			"1" : [ "boquea" ],
+			"2" : [ "boquee" ],
+			"3" : [ "boqueemos" ],
+			"4" : [ "boquead" ],
+			"5" : [ "boqueen" ]
+		}
+	}
+}

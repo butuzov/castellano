@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lucir",
+	"word" : "lucir",
+	"infinitivo" : "lucir",
+	"participio" : [ "lucido" ],
+	"gerundio" : [ "luciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "luzco" ],
+			[ "luces", "lucís" ],
+			[ "luce" ],
+			[ "lucimos" ],
+			[ "lucís", "lucen" ],
+			[ "lucen" ]
+		],
+		"4" : [
+			[ "lucí" ],
+			[ "luciste" ],
+			[ "lució" ],
+			[ "lucimos" ],
+			[ "lucisteis", "lucieron" ],
+			[ "lucieron" ]
+		],
+		"5" : [
+			[ "lucía" ],
+			[ "lucías" ],
+			[ "lucía" ],
+			[ "lucíamos" ],
+			[ "lucíais", "lucían" ],
+			[ "lucían" ]
+		],
+		"6" : [
+			[ "luciría" ],
+			[ "lucirías" ],
+			[ "luciría" ],
+			[ "luciríamos" ],
+			[ "luciríais", "lucirían" ],
+			[ "lucirían" ]
+		],
+		"7" : [
+			[ "luciré" ],
+			[ "lucirás" ],
+			[ "lucirá" ],
+			[ "luciremos" ],
+			[ "luciréis", "lucirán" ],
+			[ "lucirán" ]
+		],
+		"8" : [
+			[ "luzca" ],
+			[ "luzcas" ],
+			[ "luzca" ],
+			[ "luzcamos" ],
+			[ "luzcáis", "luzcan" ],
+			[ "luzcan" ]
+		],
+		"9" : [
+			[ "luciera" ],
+			[ "lucieras" ],
+			[ "luciera" ],
+			[ "luciéramos" ],
+			[ "lucierais", "lucieran" ],
+			[ "lucieran" ]
+		],
+		"10" : [
+			[ "luciese" ],
+			[ "lucieses" ],
+			[ "luciese" ],
+			[ "luciésemos" ],
+			[ "lucieseis", "luciesen" ],
+			[ "luciesen" ]
+		],
+		"11" : [
+			[ "luciere" ],
+			[ "lucieres" ],
+			[ "luciere" ],
+			[ "luciéremos" ],
+			[ "luciereis", "lucieren" ],
+			[ "lucieren" ]
+		],
+		"12" : {
+			"1" : [ "luce" ],
+			"2" : [ "luzca" ],
+			"3" : [ "luzcamos" ],
+			"4" : [ "lucid" ],
+			"5" : [ "luzcan" ]
+		}
+	}
+}

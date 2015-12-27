@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desaconsejar",
+	"word" : "desaconsejar",
+	"infinitivo" : "desaconsejar",
+	"participio" : [ "desaconsejado" ],
+	"gerundio" : [ "desaconsejando" ],
+	"tenses" : {
+		"3" : [
+			[ "desaconsejo" ],
+			[ "desaconsejas", "desaconsejás" ],
+			[ "desaconseja" ],
+			[ "desaconsejamos" ],
+			[ "desaconsejáis", "desaconsejan" ],
+			[ "desaconsejan" ]
+		],
+		"4" : [
+			[ "desaconsejé" ],
+			[ "desaconsejaste" ],
+			[ "desaconsejó" ],
+			[ "desaconsejamos" ],
+			[ "desaconsejasteis", "desaconsejaron" ],
+			[ "desaconsejaron" ]
+		],
+		"5" : [
+			[ "desaconsejaba" ],
+			[ "desaconsejabas" ],
+			[ "desaconsejaba" ],
+			[ "desaconsejábamos" ],
+			[ "desaconsejabais", "desaconsejaban" ],
+			[ "desaconsejaban" ]
+		],
+		"6" : [
+			[ "desaconsejaría" ],
+			[ "desaconsejarías" ],
+			[ "desaconsejaría" ],
+			[ "desaconsejaríamos" ],
+			[ "desaconsejaríais", "desaconsejarían" ],
+			[ "desaconsejarían" ]
+		],
+		"7" : [
+			[ "desaconsejaré" ],
+			[ "desaconsejarás" ],
+			[ "desaconsejará" ],
+			[ "desaconsejaremos" ],
+			[ "desaconsejaréis", "desaconsejarán" ],
+			[ "desaconsejarán" ]
+		],
+		"8" : [
+			[ "desaconseje" ],
+			[ "desaconsejes" ],
+			[ "desaconseje" ],
+			[ "desaconsejemos" ],
+			[ "desaconsejéis", "desaconsejen" ],
+			[ "desaconsejen" ]
+		],
+		"9" : [
+			[ "desaconsejara" ],
+			[ "desaconsejaras" ],
+			[ "desaconsejara" ],
+			[ "desaconsejáramos" ],
+			[ "desaconsejarais", "desaconsejaran" ],
+			[ "desaconsejaran" ]
+		],
+		"10" : [
+			[ "desaconsejase" ],
+			[ "desaconsejases" ],
+			[ "desaconsejase" ],
+			[ "desaconsejásemos" ],
+			[ "desaconsejaseis", "desaconsejasen" ],
+			[ "desaconsejasen" ]
+		],
+		"11" : [
+			[ "desaconsejare" ],
+			[ "desaconsejares" ],
+			[ "desaconsejare" ],
+			[ "desaconsejáremos" ],
+			[ "desaconsejareis", "desaconsejaren" ],
+			[ "desaconsejaren" ]
+		],
+		"12" : {
+			"1" : [ "desaconseja" ],
+			"2" : [ "desaconseje" ],
+			"3" : [ "desaconsejemos" ],
+			"4" : [ "desaconsejad" ],
+			"5" : [ "desaconsejen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=suprimir",
+	"word" : "suprimir",
+	"infinitivo" : "suprimir",
+	"participio" : [ "suprimido" ],
+	"gerundio" : [ "suprimiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "suprimo" ],
+			[ "suprimes", "suprimís" ],
+			[ "suprime" ],
+			[ "suprimimos" ],
+			[ "suprimís", "suprimen" ],
+			[ "suprimen" ]
+		],
+		"4" : [
+			[ "suprimí" ],
+			[ "suprimiste" ],
+			[ "suprimió" ],
+			[ "suprimimos" ],
+			[ "suprimisteis", "suprimieron" ],
+			[ "suprimieron" ]
+		],
+		"5" : [
+			[ "suprimía" ],
+			[ "suprimías" ],
+			[ "suprimía" ],
+			[ "suprimíamos" ],
+			[ "suprimíais", "suprimían" ],
+			[ "suprimían" ]
+		],
+		"6" : [
+			[ "suprimiría" ],
+			[ "suprimirías" ],
+			[ "suprimiría" ],
+			[ "suprimiríamos" ],
+			[ "suprimiríais", "suprimirían" ],
+			[ "suprimirían" ]
+		],
+		"7" : [
+			[ "suprimiré" ],
+			[ "suprimirás" ],
+			[ "suprimirá" ],
+			[ "suprimiremos" ],
+			[ "suprimiréis", "suprimirán" ],
+			[ "suprimirán" ]
+		],
+		"8" : [
+			[ "suprima" ],
+			[ "suprimas" ],
+			[ "suprima" ],
+			[ "suprimamos" ],
+			[ "suprimáis", "supriman" ],
+			[ "supriman" ]
+		],
+		"9" : [
+			[ "suprimiera" ],
+			[ "suprimieras" ],
+			[ "suprimiera" ],
+			[ "suprimiéramos" ],
+			[ "suprimierais", "suprimieran" ],
+			[ "suprimieran" ]
+		],
+		"10" : [
+			[ "suprimiese" ],
+			[ "suprimieses" ],
+			[ "suprimiese" ],
+			[ "suprimiésemos" ],
+			[ "suprimieseis", "suprimiesen" ],
+			[ "suprimiesen" ]
+		],
+		"11" : [
+			[ "suprimiere" ],
+			[ "suprimieres" ],
+			[ "suprimiere" ],
+			[ "suprimiéremos" ],
+			[ "suprimiereis", "suprimieren" ],
+			[ "suprimieren" ]
+		],
+		"12" : {
+			"1" : [ "suprime" ],
+			"2" : [ "suprima" ],
+			"3" : [ "suprimamos" ],
+			"4" : [ "suprimid" ],
+			"5" : [ "supriman" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=procesar",
+	"word" : "procesar",
+	"infinitivo" : "procesar",
+	"participio" : [ "procesado" ],
+	"gerundio" : [ "procesando" ],
+	"tenses" : {
+		"3" : [
+			[ "proceso" ],
+			[ "procesas", "procesás" ],
+			[ "procesa" ],
+			[ "procesamos" ],
+			[ "procesáis", "procesan" ],
+			[ "procesan" ]
+		],
+		"4" : [
+			[ "procesé" ],
+			[ "procesaste" ],
+			[ "procesó" ],
+			[ "procesamos" ],
+			[ "procesasteis", "procesaron" ],
+			[ "procesaron" ]
+		],
+		"5" : [
+			[ "procesaba" ],
+			[ "procesabas" ],
+			[ "procesaba" ],
+			[ "procesábamos" ],
+			[ "procesabais", "procesaban" ],
+			[ "procesaban" ]
+		],
+		"6" : [
+			[ "procesaría" ],
+			[ "procesarías" ],
+			[ "procesaría" ],
+			[ "procesaríamos" ],
+			[ "procesaríais", "procesarían" ],
+			[ "procesarían" ]
+		],
+		"7" : [
+			[ "procesaré" ],
+			[ "procesarás" ],
+			[ "procesará" ],
+			[ "procesaremos" ],
+			[ "procesaréis", "procesarán" ],
+			[ "procesarán" ]
+		],
+		"8" : [
+			[ "procese" ],
+			[ "proceses" ],
+			[ "procese" ],
+			[ "procesemos" ],
+			[ "proceséis", "procesen" ],
+			[ "procesen" ]
+		],
+		"9" : [
+			[ "procesara" ],
+			[ "procesaras" ],
+			[ "procesara" ],
+			[ "procesáramos" ],
+			[ "procesarais", "procesaran" ],
+			[ "procesaran" ]
+		],
+		"10" : [
+			[ "procesase" ],
+			[ "procesases" ],
+			[ "procesase" ],
+			[ "procesásemos" ],
+			[ "procesaseis", "procesasen" ],
+			[ "procesasen" ]
+		],
+		"11" : [
+			[ "procesare" ],
+			[ "procesares" ],
+			[ "procesare" ],
+			[ "procesáremos" ],
+			[ "procesareis", "procesaren" ],
+			[ "procesaren" ]
+		],
+		"12" : {
+			"1" : [ "procesa" ],
+			"2" : [ "procese" ],
+			"3" : [ "procesemos" ],
+			"4" : [ "procesad" ],
+			"5" : [ "procesen" ]
+		}
+	}
+}

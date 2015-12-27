@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desfalcar",
+	"word" : "desfalcar",
+	"infinitivo" : "desfalcar",
+	"participio" : [ "desfalcado" ],
+	"gerundio" : [ "desfalcando" ],
+	"tenses" : {
+		"3" : [
+			[ "desfalco" ],
+			[ "desfalcas", "desfalcás" ],
+			[ "desfalca" ],
+			[ "desfalcamos" ],
+			[ "desfalcáis", "desfalcan" ],
+			[ "desfalcan" ]
+		],
+		"4" : [
+			[ "desfalqué" ],
+			[ "desfalcaste" ],
+			[ "desfalcó" ],
+			[ "desfalcamos" ],
+			[ "desfalcasteis", "desfalcaron" ],
+			[ "desfalcaron" ]
+		],
+		"5" : [
+			[ "desfalcaba" ],
+			[ "desfalcabas" ],
+			[ "desfalcaba" ],
+			[ "desfalcábamos" ],
+			[ "desfalcabais", "desfalcaban" ],
+			[ "desfalcaban" ]
+		],
+		"6" : [
+			[ "desfalcaría" ],
+			[ "desfalcarías" ],
+			[ "desfalcaría" ],
+			[ "desfalcaríamos" ],
+			[ "desfalcaríais", "desfalcarían" ],
+			[ "desfalcarían" ]
+		],
+		"7" : [
+			[ "desfalcaré" ],
+			[ "desfalcarás" ],
+			[ "desfalcará" ],
+			[ "desfalcaremos" ],
+			[ "desfalcaréis", "desfalcarán" ],
+			[ "desfalcarán" ]
+		],
+		"8" : [
+			[ "desfalque" ],
+			[ "desfalques" ],
+			[ "desfalque" ],
+			[ "desfalquemos" ],
+			[ "desfalquéis", "desfalquen" ],
+			[ "desfalquen" ]
+		],
+		"9" : [
+			[ "desfalcara" ],
+			[ "desfalcaras" ],
+			[ "desfalcara" ],
+			[ "desfalcáramos" ],
+			[ "desfalcarais", "desfalcaran" ],
+			[ "desfalcaran" ]
+		],
+		"10" : [
+			[ "desfalcase" ],
+			[ "desfalcases" ],
+			[ "desfalcase" ],
+			[ "desfalcásemos" ],
+			[ "desfalcaseis", "desfalcasen" ],
+			[ "desfalcasen" ]
+		],
+		"11" : [
+			[ "desfalcare" ],
+			[ "desfalcares" ],
+			[ "desfalcare" ],
+			[ "desfalcáremos" ],
+			[ "desfalcareis", "desfalcaren" ],
+			[ "desfalcaren" ]
+		],
+		"12" : {
+			"1" : [ "desfalca" ],
+			"2" : [ "desfalque" ],
+			"3" : [ "desfalquemos" ],
+			"4" : [ "desfalcad" ],
+			"5" : [ "desfalquen" ]
+		}
+	}
+}

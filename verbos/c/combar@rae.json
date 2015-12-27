@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=combar",
+	"word" : "combar",
+	"infinitivo" : "combar",
+	"participio" : [ "combado" ],
+	"gerundio" : [ "combando" ],
+	"tenses" : {
+		"3" : [
+			[ "combo" ],
+			[ "combas", "combás" ],
+			[ "comba" ],
+			[ "combamos" ],
+			[ "combáis", "comban" ],
+			[ "comban" ]
+		],
+		"4" : [
+			[ "combé" ],
+			[ "combaste" ],
+			[ "combó" ],
+			[ "combamos" ],
+			[ "combasteis", "combaron" ],
+			[ "combaron" ]
+		],
+		"5" : [
+			[ "combaba" ],
+			[ "combabas" ],
+			[ "combaba" ],
+			[ "combábamos" ],
+			[ "combabais", "combaban" ],
+			[ "combaban" ]
+		],
+		"6" : [
+			[ "combaría" ],
+			[ "combarías" ],
+			[ "combaría" ],
+			[ "combaríamos" ],
+			[ "combaríais", "combarían" ],
+			[ "combarían" ]
+		],
+		"7" : [
+			[ "combaré" ],
+			[ "combarás" ],
+			[ "combará" ],
+			[ "combaremos" ],
+			[ "combaréis", "combarán" ],
+			[ "combarán" ]
+		],
+		"8" : [
+			[ "combe" ],
+			[ "combes" ],
+			[ "combe" ],
+			[ "combemos" ],
+			[ "combéis", "comben" ],
+			[ "comben" ]
+		],
+		"9" : [
+			[ "combara" ],
+			[ "combaras" ],
+			[ "combara" ],
+			[ "combáramos" ],
+			[ "combarais", "combaran" ],
+			[ "combaran" ]
+		],
+		"10" : [
+			[ "combase" ],
+			[ "combases" ],
+			[ "combase" ],
+			[ "combásemos" ],
+			[ "combaseis", "combasen" ],
+			[ "combasen" ]
+		],
+		"11" : [
+			[ "combare" ],
+			[ "combares" ],
+			[ "combare" ],
+			[ "combáremos" ],
+			[ "combareis", "combaren" ],
+			[ "combaren" ]
+		],
+		"12" : {
+			"1" : [ "comba" ],
+			"2" : [ "combe" ],
+			"3" : [ "combemos" ],
+			"4" : [ "combad" ],
+			"5" : [ "comben" ]
+		}
+	}
+}

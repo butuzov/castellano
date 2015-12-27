@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asolear",
+	"word" : "asolear",
+	"infinitivo" : "asolear",
+	"participio" : [ "asoleado" ],
+	"gerundio" : [ "asoleando" ],
+	"tenses" : {
+		"3" : [
+			[ "asoleo" ],
+			[ "asoleas", "asoleás" ],
+			[ "asolea" ],
+			[ "asoleamos" ],
+			[ "asoleáis", "asolean" ],
+			[ "asolean" ]
+		],
+		"4" : [
+			[ "asoleé" ],
+			[ "asoleaste" ],
+			[ "asoleó" ],
+			[ "asoleamos" ],
+			[ "asoleasteis", "asolearon" ],
+			[ "asolearon" ]
+		],
+		"5" : [
+			[ "asoleaba" ],
+			[ "asoleabas" ],
+			[ "asoleaba" ],
+			[ "asoleábamos" ],
+			[ "asoleabais", "asoleaban" ],
+			[ "asoleaban" ]
+		],
+		"6" : [
+			[ "asolearía" ],
+			[ "asolearías" ],
+			[ "asolearía" ],
+			[ "asolearíamos" ],
+			[ "asolearíais", "asolearían" ],
+			[ "asolearían" ]
+		],
+		"7" : [
+			[ "asolearé" ],
+			[ "asolearás" ],
+			[ "asoleará" ],
+			[ "asolearemos" ],
+			[ "asolearéis", "asolearán" ],
+			[ "asolearán" ]
+		],
+		"8" : [
+			[ "asolee" ],
+			[ "asolees" ],
+			[ "asolee" ],
+			[ "asoleemos" ],
+			[ "asoleéis", "asoleen" ],
+			[ "asoleen" ]
+		],
+		"9" : [
+			[ "asoleara" ],
+			[ "asolearas" ],
+			[ "asoleara" ],
+			[ "asoleáramos" ],
+			[ "asolearais", "asolearan" ],
+			[ "asolearan" ]
+		],
+		"10" : [
+			[ "asolease" ],
+			[ "asoleases" ],
+			[ "asolease" ],
+			[ "asoleásemos" ],
+			[ "asoleaseis", "asoleasen" ],
+			[ "asoleasen" ]
+		],
+		"11" : [
+			[ "asoleare" ],
+			[ "asoleares" ],
+			[ "asoleare" ],
+			[ "asoleáremos" ],
+			[ "asoleareis", "asolearen" ],
+			[ "asolearen" ]
+		],
+		"12" : {
+			"1" : [ "asolea" ],
+			"2" : [ "asolee" ],
+			"3" : [ "asoleemos" ],
+			"4" : [ "asolead" ],
+			"5" : [ "asoleen" ]
+		}
+	}
+}

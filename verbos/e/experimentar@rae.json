@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=experimentar",
+	"word" : "experimentar",
+	"infinitivo" : "experimentar",
+	"participio" : [ "experimentado" ],
+	"gerundio" : [ "experimentando" ],
+	"tenses" : {
+		"3" : [
+			[ "experimento" ],
+			[ "experimentas", "experimentás" ],
+			[ "experimenta" ],
+			[ "experimentamos" ],
+			[ "experimentáis", "experimentan" ],
+			[ "experimentan" ]
+		],
+		"4" : [
+			[ "experimenté" ],
+			[ "experimentaste" ],
+			[ "experimentó" ],
+			[ "experimentamos" ],
+			[ "experimentasteis", "experimentaron" ],
+			[ "experimentaron" ]
+		],
+		"5" : [
+			[ "experimentaba" ],
+			[ "experimentabas" ],
+			[ "experimentaba" ],
+			[ "experimentábamos" ],
+			[ "experimentabais", "experimentaban" ],
+			[ "experimentaban" ]
+		],
+		"6" : [
+			[ "experimentaría" ],
+			[ "experimentarías" ],
+			[ "experimentaría" ],
+			[ "experimentaríamos" ],
+			[ "experimentaríais", "experimentarían" ],
+			[ "experimentarían" ]
+		],
+		"7" : [
+			[ "experimentaré" ],
+			[ "experimentarás" ],
+			[ "experimentará" ],
+			[ "experimentaremos" ],
+			[ "experimentaréis", "experimentarán" ],
+			[ "experimentarán" ]
+		],
+		"8" : [
+			[ "experimente" ],
+			[ "experimentes" ],
+			[ "experimente" ],
+			[ "experimentemos" ],
+			[ "experimentéis", "experimenten" ],
+			[ "experimenten" ]
+		],
+		"9" : [
+			[ "experimentara" ],
+			[ "experimentaras" ],
+			[ "experimentara" ],
+			[ "experimentáramos" ],
+			[ "experimentarais", "experimentaran" ],
+			[ "experimentaran" ]
+		],
+		"10" : [
+			[ "experimentase" ],
+			[ "experimentases" ],
+			[ "experimentase" ],
+			[ "experimentásemos" ],
+			[ "experimentaseis", "experimentasen" ],
+			[ "experimentasen" ]
+		],
+		"11" : [
+			[ "experimentare" ],
+			[ "experimentares" ],
+			[ "experimentare" ],
+			[ "experimentáremos" ],
+			[ "experimentareis", "experimentaren" ],
+			[ "experimentaren" ]
+		],
+		"12" : {
+			"1" : [ "experimenta" ],
+			"2" : [ "experimente" ],
+			"3" : [ "experimentemos" ],
+			"4" : [ "experimentad" ],
+			"5" : [ "experimenten" ]
+		}
+	}
+}

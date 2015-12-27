@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arbitrar",
+	"word" : "arbitrar",
+	"infinitivo" : "arbitrar",
+	"participio" : [ "arbitrado" ],
+	"gerundio" : [ "arbitrando" ],
+	"tenses" : {
+		"3" : [
+			[ "arbitro" ],
+			[ "arbitras", "arbitrás" ],
+			[ "arbitra" ],
+			[ "arbitramos" ],
+			[ "arbitráis", "arbitran" ],
+			[ "arbitran" ]
+		],
+		"4" : [
+			[ "arbitré" ],
+			[ "arbitraste" ],
+			[ "arbitró" ],
+			[ "arbitramos" ],
+			[ "arbitrasteis", "arbitraron" ],
+			[ "arbitraron" ]
+		],
+		"5" : [
+			[ "arbitraba" ],
+			[ "arbitrabas" ],
+			[ "arbitraba" ],
+			[ "arbitrábamos" ],
+			[ "arbitrabais", "arbitraban" ],
+			[ "arbitraban" ]
+		],
+		"6" : [
+			[ "arbitraría" ],
+			[ "arbitrarías" ],
+			[ "arbitraría" ],
+			[ "arbitraríamos" ],
+			[ "arbitraríais", "arbitrarían" ],
+			[ "arbitrarían" ]
+		],
+		"7" : [
+			[ "arbitraré" ],
+			[ "arbitrarás" ],
+			[ "arbitrará" ],
+			[ "arbitraremos" ],
+			[ "arbitraréis", "arbitrarán" ],
+			[ "arbitrarán" ]
+		],
+		"8" : [
+			[ "arbitre" ],
+			[ "arbitres" ],
+			[ "arbitre" ],
+			[ "arbitremos" ],
+			[ "arbitréis", "arbitren" ],
+			[ "arbitren" ]
+		],
+		"9" : [
+			[ "arbitrara" ],
+			[ "arbitraras" ],
+			[ "arbitrara" ],
+			[ "arbitráramos" ],
+			[ "arbitrarais", "arbitraran" ],
+			[ "arbitraran" ]
+		],
+		"10" : [
+			[ "arbitrase" ],
+			[ "arbitrases" ],
+			[ "arbitrase" ],
+			[ "arbitrásemos" ],
+			[ "arbitraseis", "arbitrasen" ],
+			[ "arbitrasen" ]
+		],
+		"11" : [
+			[ "arbitrare" ],
+			[ "arbitrares" ],
+			[ "arbitrare" ],
+			[ "arbitráremos" ],
+			[ "arbitrareis", "arbitraren" ],
+			[ "arbitraren" ]
+		],
+		"12" : {
+			"1" : [ "arbitra" ],
+			"2" : [ "arbitre" ],
+			"3" : [ "arbitremos" ],
+			"4" : [ "arbitrad" ],
+			"5" : [ "arbitren" ]
+		}
+	}
+}

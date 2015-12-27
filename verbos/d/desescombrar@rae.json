@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desescombrar",
+	"word" : "desescombrar",
+	"infinitivo" : "desescombrar",
+	"participio" : [ "desescombrado" ],
+	"gerundio" : [ "desescombrando" ],
+	"tenses" : {
+		"3" : [
+			[ "desescombro" ],
+			[ "desescombras", "desescombrás" ],
+			[ "desescombra" ],
+			[ "desescombramos" ],
+			[ "desescombráis", "desescombran" ],
+			[ "desescombran" ]
+		],
+		"4" : [
+			[ "desescombré" ],
+			[ "desescombraste" ],
+			[ "desescombró" ],
+			[ "desescombramos" ],
+			[ "desescombrasteis", "desescombraron" ],
+			[ "desescombraron" ]
+		],
+		"5" : [
+			[ "desescombraba" ],
+			[ "desescombrabas" ],
+			[ "desescombraba" ],
+			[ "desescombrábamos" ],
+			[ "desescombrabais", "desescombraban" ],
+			[ "desescombraban" ]
+		],
+		"6" : [
+			[ "desescombraría" ],
+			[ "desescombrarías" ],
+			[ "desescombraría" ],
+			[ "desescombraríamos" ],
+			[ "desescombraríais", "desescombrarían" ],
+			[ "desescombrarían" ]
+		],
+		"7" : [
+			[ "desescombraré" ],
+			[ "desescombrarás" ],
+			[ "desescombrará" ],
+			[ "desescombraremos" ],
+			[ "desescombraréis", "desescombrarán" ],
+			[ "desescombrarán" ]
+		],
+		"8" : [
+			[ "desescombre" ],
+			[ "desescombres" ],
+			[ "desescombre" ],
+			[ "desescombremos" ],
+			[ "desescombréis", "desescombren" ],
+			[ "desescombren" ]
+		],
+		"9" : [
+			[ "desescombrara" ],
+			[ "desescombraras" ],
+			[ "desescombrara" ],
+			[ "desescombráramos" ],
+			[ "desescombrarais", "desescombraran" ],
+			[ "desescombraran" ]
+		],
+		"10" : [
+			[ "desescombrase" ],
+			[ "desescombrases" ],
+			[ "desescombrase" ],
+			[ "desescombrásemos" ],
+			[ "desescombraseis", "desescombrasen" ],
+			[ "desescombrasen" ]
+		],
+		"11" : [
+			[ "desescombrare" ],
+			[ "desescombrares" ],
+			[ "desescombrare" ],
+			[ "desescombráremos" ],
+			[ "desescombrareis", "desescombraren" ],
+			[ "desescombraren" ]
+		],
+		"12" : {
+			"1" : [ "desescombra" ],
+			"2" : [ "desescombre" ],
+			"3" : [ "desescombremos" ],
+			"4" : [ "desescombrad" ],
+			"5" : [ "desescombren" ]
+		}
+	}
+}

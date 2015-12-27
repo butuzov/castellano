@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pretender",
+	"word" : "pretender",
+	"infinitivo" : "pretender",
+	"participio" : [ "pretendido" ],
+	"gerundio" : [ "pretendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "pretendo" ],
+			[ "pretendes", "pretendés" ],
+			[ "pretende" ],
+			[ "pretendemos" ],
+			[ "pretendéis", "pretenden" ],
+			[ "pretenden" ]
+		],
+		"4" : [
+			[ "pretendí" ],
+			[ "pretendiste" ],
+			[ "pretendió" ],
+			[ "pretendimos" ],
+			[ "pretendisteis", "pretendieron" ],
+			[ "pretendieron" ]
+		],
+		"5" : [
+			[ "pretendía" ],
+			[ "pretendías" ],
+			[ "pretendía" ],
+			[ "pretendíamos" ],
+			[ "pretendíais", "pretendían" ],
+			[ "pretendían" ]
+		],
+		"6" : [
+			[ "pretendería" ],
+			[ "pretenderías" ],
+			[ "pretendería" ],
+			[ "pretenderíamos" ],
+			[ "pretenderíais", "pretenderían" ],
+			[ "pretenderían" ]
+		],
+		"7" : [
+			[ "pretenderé" ],
+			[ "pretenderás" ],
+			[ "pretenderá" ],
+			[ "pretenderemos" ],
+			[ "pretenderéis", "pretenderán" ],
+			[ "pretenderán" ]
+		],
+		"8" : [
+			[ "pretenda" ],
+			[ "pretendas" ],
+			[ "pretenda" ],
+			[ "pretendamos" ],
+			[ "pretendáis", "pretendan" ],
+			[ "pretendan" ]
+		],
+		"9" : [
+			[ "pretendiera" ],
+			[ "pretendieras" ],
+			[ "pretendiera" ],
+			[ "pretendiéramos" ],
+			[ "pretendierais", "pretendieran" ],
+			[ "pretendieran" ]
+		],
+		"10" : [
+			[ "pretendiese" ],
+			[ "pretendieses" ],
+			[ "pretendiese" ],
+			[ "pretendiésemos" ],
+			[ "pretendieseis", "pretendiesen" ],
+			[ "pretendiesen" ]
+		],
+		"11" : [
+			[ "pretendiere" ],
+			[ "pretendieres" ],
+			[ "pretendiere" ],
+			[ "pretendiéremos" ],
+			[ "pretendiereis", "pretendieren" ],
+			[ "pretendieren" ]
+		],
+		"12" : {
+			"1" : [ "pretende" ],
+			"2" : [ "pretenda" ],
+			"3" : [ "pretendamos" ],
+			"4" : [ "pretended" ],
+			"5" : [ "pretendan" ]
+		}
+	}
+}

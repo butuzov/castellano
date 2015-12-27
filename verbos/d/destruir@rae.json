@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=destruir",
+	"word" : "destruir",
+	"infinitivo" : "destruir",
+	"participio" : [ "destruido" ],
+	"gerundio" : [ "destruyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "destruyo" ],
+			[ "destruyes", "destruís" ],
+			[ "destruye" ],
+			[ "destruimos" ],
+			[ "destruís", "destruyen" ],
+			[ "destruyen" ]
+		],
+		"4" : [
+			[ "destruí" ],
+			[ "destruiste" ],
+			[ "destruyó" ],
+			[ "destruimos" ],
+			[ "destruisteis", "destruyeron" ],
+			[ "destruyeron" ]
+		],
+		"5" : [
+			[ "destruía" ],
+			[ "destruías" ],
+			[ "destruía" ],
+			[ "destruíamos" ],
+			[ "destruíais", "destruían" ],
+			[ "destruían" ]
+		],
+		"6" : [
+			[ "destruiría" ],
+			[ "destruirías" ],
+			[ "destruiría" ],
+			[ "destruiríamos" ],
+			[ "destruiríais", "destruirían" ],
+			[ "destruirían" ]
+		],
+		"7" : [
+			[ "destruiré" ],
+			[ "destruirás" ],
+			[ "destruirá" ],
+			[ "destruiremos" ],
+			[ "destruiréis", "destruirán" ],
+			[ "destruirán" ]
+		],
+		"8" : [
+			[ "destruya" ],
+			[ "destruyas" ],
+			[ "destruya" ],
+			[ "destruyamos" ],
+			[ "destruyáis", "destruyan" ],
+			[ "destruyan" ]
+		],
+		"9" : [
+			[ "destruyera" ],
+			[ "destruyeras" ],
+			[ "destruyera" ],
+			[ "destruyéramos" ],
+			[ "destruyerais", "destruyeran" ],
+			[ "destruyeran" ]
+		],
+		"10" : [
+			[ "destruyese" ],
+			[ "destruyeses" ],
+			[ "destruyese" ],
+			[ "destruyésemos" ],
+			[ "destruyeseis", "destruyesen" ],
+			[ "destruyesen" ]
+		],
+		"11" : [
+			[ "destruyere" ],
+			[ "destruyeres" ],
+			[ "destruyere" ],
+			[ "destruyéremos" ],
+			[ "destruyereis", "destruyeren" ],
+			[ "destruyeren" ]
+		],
+		"12" : {
+			"1" : [ "destruye" ],
+			"2" : [ "destruya" ],
+			"3" : [ "destruyamos" ],
+			"4" : [ "destruid" ],
+			"5" : [ "destruyan" ]
+		}
+	}
+}

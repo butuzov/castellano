@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=musitar",
+	"word" : "musitar",
+	"infinitivo" : "musitar",
+	"participio" : [ "musitado" ],
+	"gerundio" : [ "musitando" ],
+	"tenses" : {
+		"3" : [
+			[ "musito" ],
+			[ "musitas", "musitás" ],
+			[ "musita" ],
+			[ "musitamos" ],
+			[ "musitáis", "musitan" ],
+			[ "musitan" ]
+		],
+		"4" : [
+			[ "musité" ],
+			[ "musitaste" ],
+			[ "musitó" ],
+			[ "musitamos" ],
+			[ "musitasteis", "musitaron" ],
+			[ "musitaron" ]
+		],
+		"5" : [
+			[ "musitaba" ],
+			[ "musitabas" ],
+			[ "musitaba" ],
+			[ "musitábamos" ],
+			[ "musitabais", "musitaban" ],
+			[ "musitaban" ]
+		],
+		"6" : [
+			[ "musitaría" ],
+			[ "musitarías" ],
+			[ "musitaría" ],
+			[ "musitaríamos" ],
+			[ "musitaríais", "musitarían" ],
+			[ "musitarían" ]
+		],
+		"7" : [
+			[ "musitaré" ],
+			[ "musitarás" ],
+			[ "musitará" ],
+			[ "musitaremos" ],
+			[ "musitaréis", "musitarán" ],
+			[ "musitarán" ]
+		],
+		"8" : [
+			[ "musite" ],
+			[ "musites" ],
+			[ "musite" ],
+			[ "musitemos" ],
+			[ "musitéis", "musiten" ],
+			[ "musiten" ]
+		],
+		"9" : [
+			[ "musitara" ],
+			[ "musitaras" ],
+			[ "musitara" ],
+			[ "musitáramos" ],
+			[ "musitarais", "musitaran" ],
+			[ "musitaran" ]
+		],
+		"10" : [
+			[ "musitase" ],
+			[ "musitases" ],
+			[ "musitase" ],
+			[ "musitásemos" ],
+			[ "musitaseis", "musitasen" ],
+			[ "musitasen" ]
+		],
+		"11" : [
+			[ "musitare" ],
+			[ "musitares" ],
+			[ "musitare" ],
+			[ "musitáremos" ],
+			[ "musitareis", "musitaren" ],
+			[ "musitaren" ]
+		],
+		"12" : {
+			"1" : [ "musita" ],
+			"2" : [ "musite" ],
+			"3" : [ "musitemos" ],
+			"4" : [ "musitad" ],
+			"5" : [ "musiten" ]
+		}
+	}
+}

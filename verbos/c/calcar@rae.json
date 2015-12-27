@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=calcar",
+	"word" : "calcar",
+	"infinitivo" : "calcar",
+	"participio" : [ "calcado" ],
+	"gerundio" : [ "calcando" ],
+	"tenses" : {
+		"3" : [
+			[ "calco" ],
+			[ "calcas", "calcás" ],
+			[ "calca" ],
+			[ "calcamos" ],
+			[ "calcáis", "calcan" ],
+			[ "calcan" ]
+		],
+		"4" : [
+			[ "calqué" ],
+			[ "calcaste" ],
+			[ "calcó" ],
+			[ "calcamos" ],
+			[ "calcasteis", "calcaron" ],
+			[ "calcaron" ]
+		],
+		"5" : [
+			[ "calcaba" ],
+			[ "calcabas" ],
+			[ "calcaba" ],
+			[ "calcábamos" ],
+			[ "calcabais", "calcaban" ],
+			[ "calcaban" ]
+		],
+		"6" : [
+			[ "calcaría" ],
+			[ "calcarías" ],
+			[ "calcaría" ],
+			[ "calcaríamos" ],
+			[ "calcaríais", "calcarían" ],
+			[ "calcarían" ]
+		],
+		"7" : [
+			[ "calcaré" ],
+			[ "calcarás" ],
+			[ "calcará" ],
+			[ "calcaremos" ],
+			[ "calcaréis", "calcarán" ],
+			[ "calcarán" ]
+		],
+		"8" : [
+			[ "calque" ],
+			[ "calques" ],
+			[ "calque" ],
+			[ "calquemos" ],
+			[ "calquéis", "calquen" ],
+			[ "calquen" ]
+		],
+		"9" : [
+			[ "calcara" ],
+			[ "calcaras" ],
+			[ "calcara" ],
+			[ "calcáramos" ],
+			[ "calcarais", "calcaran" ],
+			[ "calcaran" ]
+		],
+		"10" : [
+			[ "calcase" ],
+			[ "calcases" ],
+			[ "calcase" ],
+			[ "calcásemos" ],
+			[ "calcaseis", "calcasen" ],
+			[ "calcasen" ]
+		],
+		"11" : [
+			[ "calcare" ],
+			[ "calcares" ],
+			[ "calcare" ],
+			[ "calcáremos" ],
+			[ "calcareis", "calcaren" ],
+			[ "calcaren" ]
+		],
+		"12" : {
+			"1" : [ "calca" ],
+			"2" : [ "calque" ],
+			"3" : [ "calquemos" ],
+			"4" : [ "calcad" ],
+			"5" : [ "calquen" ]
+		}
+	}
+}

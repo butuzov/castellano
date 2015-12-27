@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embalsamar",
+	"word" : "embalsamar",
+	"infinitivo" : "embalsamar",
+	"participio" : [ "embalsamado" ],
+	"gerundio" : [ "embalsamando" ],
+	"tenses" : {
+		"3" : [
+			[ "embalsamo" ],
+			[ "embalsamas", "embalsamás" ],
+			[ "embalsama" ],
+			[ "embalsamamos" ],
+			[ "embalsamáis", "embalsaman" ],
+			[ "embalsaman" ]
+		],
+		"4" : [
+			[ "embalsamé" ],
+			[ "embalsamaste" ],
+			[ "embalsamó" ],
+			[ "embalsamamos" ],
+			[ "embalsamasteis", "embalsamaron" ],
+			[ "embalsamaron" ]
+		],
+		"5" : [
+			[ "embalsamaba" ],
+			[ "embalsamabas" ],
+			[ "embalsamaba" ],
+			[ "embalsamábamos" ],
+			[ "embalsamabais", "embalsamaban" ],
+			[ "embalsamaban" ]
+		],
+		"6" : [
+			[ "embalsamaría" ],
+			[ "embalsamarías" ],
+			[ "embalsamaría" ],
+			[ "embalsamaríamos" ],
+			[ "embalsamaríais", "embalsamarían" ],
+			[ "embalsamarían" ]
+		],
+		"7" : [
+			[ "embalsamaré" ],
+			[ "embalsamarás" ],
+			[ "embalsamará" ],
+			[ "embalsamaremos" ],
+			[ "embalsamaréis", "embalsamarán" ],
+			[ "embalsamarán" ]
+		],
+		"8" : [
+			[ "embalsame" ],
+			[ "embalsames" ],
+			[ "embalsame" ],
+			[ "embalsamemos" ],
+			[ "embalsaméis", "embalsamen" ],
+			[ "embalsamen" ]
+		],
+		"9" : [
+			[ "embalsamara" ],
+			[ "embalsamaras" ],
+			[ "embalsamara" ],
+			[ "embalsamáramos" ],
+			[ "embalsamarais", "embalsamaran" ],
+			[ "embalsamaran" ]
+		],
+		"10" : [
+			[ "embalsamase" ],
+			[ "embalsamases" ],
+			[ "embalsamase" ],
+			[ "embalsamásemos" ],
+			[ "embalsamaseis", "embalsamasen" ],
+			[ "embalsamasen" ]
+		],
+		"11" : [
+			[ "embalsamare" ],
+			[ "embalsamares" ],
+			[ "embalsamare" ],
+			[ "embalsamáremos" ],
+			[ "embalsamareis", "embalsamaren" ],
+			[ "embalsamaren" ]
+		],
+		"12" : {
+			"1" : [ "embalsama" ],
+			"2" : [ "embalsame" ],
+			"3" : [ "embalsamemos" ],
+			"4" : [ "embalsamad" ],
+			"5" : [ "embalsamen" ]
+		}
+	}
+}

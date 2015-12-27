@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comunicar",
+	"word" : "comunicar",
+	"infinitivo" : "comunicar",
+	"participio" : [ "comunicado" ],
+	"gerundio" : [ "comunicando" ],
+	"tenses" : {
+		"3" : [
+			[ "comunico" ],
+			[ "comunicas", "comunicás" ],
+			[ "comunica" ],
+			[ "comunicamos" ],
+			[ "comunicáis", "comunican" ],
+			[ "comunican" ]
+		],
+		"4" : [
+			[ "comuniqué" ],
+			[ "comunicaste" ],
+			[ "comunicó" ],
+			[ "comunicamos" ],
+			[ "comunicasteis", "comunicaron" ],
+			[ "comunicaron" ]
+		],
+		"5" : [
+			[ "comunicaba" ],
+			[ "comunicabas" ],
+			[ "comunicaba" ],
+			[ "comunicábamos" ],
+			[ "comunicabais", "comunicaban" ],
+			[ "comunicaban" ]
+		],
+		"6" : [
+			[ "comunicaría" ],
+			[ "comunicarías" ],
+			[ "comunicaría" ],
+			[ "comunicaríamos" ],
+			[ "comunicaríais", "comunicarían" ],
+			[ "comunicarían" ]
+		],
+		"7" : [
+			[ "comunicaré" ],
+			[ "comunicarás" ],
+			[ "comunicará" ],
+			[ "comunicaremos" ],
+			[ "comunicaréis", "comunicarán" ],
+			[ "comunicarán" ]
+		],
+		"8" : [
+			[ "comunique" ],
+			[ "comuniques" ],
+			[ "comunique" ],
+			[ "comuniquemos" ],
+			[ "comuniquéis", "comuniquen" ],
+			[ "comuniquen" ]
+		],
+		"9" : [
+			[ "comunicara" ],
+			[ "comunicaras" ],
+			[ "comunicara" ],
+			[ "comunicáramos" ],
+			[ "comunicarais", "comunicaran" ],
+			[ "comunicaran" ]
+		],
+		"10" : [
+			[ "comunicase" ],
+			[ "comunicases" ],
+			[ "comunicase" ],
+			[ "comunicásemos" ],
+			[ "comunicaseis", "comunicasen" ],
+			[ "comunicasen" ]
+		],
+		"11" : [
+			[ "comunicare" ],
+			[ "comunicares" ],
+			[ "comunicare" ],
+			[ "comunicáremos" ],
+			[ "comunicareis", "comunicaren" ],
+			[ "comunicaren" ]
+		],
+		"12" : {
+			"1" : [ "comunica" ],
+			"2" : [ "comunique" ],
+			"3" : [ "comuniquemos" ],
+			"4" : [ "comunicad" ],
+			"5" : [ "comuniquen" ]
+		}
+	}
+}

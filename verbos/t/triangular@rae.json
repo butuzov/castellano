@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=triangular",
+	"word" : "triangular",
+	"infinitivo" : "triangular",
+	"participio" : [ "triangulado" ],
+	"gerundio" : [ "triangulando" ],
+	"tenses" : {
+		"3" : [
+			[ "triangulo" ],
+			[ "triangulas", "triangulás" ],
+			[ "triangula" ],
+			[ "triangulamos" ],
+			[ "trianguláis", "triangulan" ],
+			[ "triangulan" ]
+		],
+		"4" : [
+			[ "triangulé" ],
+			[ "triangulaste" ],
+			[ "trianguló" ],
+			[ "triangulamos" ],
+			[ "triangulasteis", "triangularon" ],
+			[ "triangularon" ]
+		],
+		"5" : [
+			[ "triangulaba" ],
+			[ "triangulabas" ],
+			[ "triangulaba" ],
+			[ "triangulábamos" ],
+			[ "triangulabais", "triangulaban" ],
+			[ "triangulaban" ]
+		],
+		"6" : [
+			[ "triangularía" ],
+			[ "triangularías" ],
+			[ "triangularía" ],
+			[ "triangularíamos" ],
+			[ "triangularíais", "triangularían" ],
+			[ "triangularían" ]
+		],
+		"7" : [
+			[ "triangularé" ],
+			[ "triangularás" ],
+			[ "triangulará" ],
+			[ "triangularemos" ],
+			[ "triangularéis", "triangularán" ],
+			[ "triangularán" ]
+		],
+		"8" : [
+			[ "triangule" ],
+			[ "triangules" ],
+			[ "triangule" ],
+			[ "triangulemos" ],
+			[ "trianguléis", "triangulen" ],
+			[ "triangulen" ]
+		],
+		"9" : [
+			[ "triangulara" ],
+			[ "triangularas" ],
+			[ "triangulara" ],
+			[ "trianguláramos" ],
+			[ "triangularais", "triangularan" ],
+			[ "triangularan" ]
+		],
+		"10" : [
+			[ "triangulase" ],
+			[ "triangulases" ],
+			[ "triangulase" ],
+			[ "triangulásemos" ],
+			[ "triangulaseis", "triangulasen" ],
+			[ "triangulasen" ]
+		],
+		"11" : [
+			[ "triangulare" ],
+			[ "triangulares" ],
+			[ "triangulare" ],
+			[ "trianguláremos" ],
+			[ "triangulareis", "triangularen" ],
+			[ "triangularen" ]
+		],
+		"12" : {
+			"1" : [ "triangula" ],
+			"2" : [ "triangule" ],
+			"3" : [ "triangulemos" ],
+			"4" : [ "triangulad" ],
+			"5" : [ "triangulen" ]
+		}
+	}
+}

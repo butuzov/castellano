@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lotear",
+	"word" : "lotear",
+	"infinitivo" : "lotear",
+	"participio" : [ "loteado" ],
+	"gerundio" : [ "loteando" ],
+	"tenses" : {
+		"3" : [
+			[ "loteo" ],
+			[ "loteas", "loteás" ],
+			[ "lotea" ],
+			[ "loteamos" ],
+			[ "loteáis", "lotean" ],
+			[ "lotean" ]
+		],
+		"4" : [
+			[ "loteé" ],
+			[ "loteaste" ],
+			[ "loteó" ],
+			[ "loteamos" ],
+			[ "loteasteis", "lotearon" ],
+			[ "lotearon" ]
+		],
+		"5" : [
+			[ "loteaba" ],
+			[ "loteabas" ],
+			[ "loteaba" ],
+			[ "loteábamos" ],
+			[ "loteabais", "loteaban" ],
+			[ "loteaban" ]
+		],
+		"6" : [
+			[ "lotearía" ],
+			[ "lotearías" ],
+			[ "lotearía" ],
+			[ "lotearíamos" ],
+			[ "lotearíais", "lotearían" ],
+			[ "lotearían" ]
+		],
+		"7" : [
+			[ "lotearé" ],
+			[ "lotearás" ],
+			[ "loteará" ],
+			[ "lotearemos" ],
+			[ "lotearéis", "lotearán" ],
+			[ "lotearán" ]
+		],
+		"8" : [
+			[ "lotee" ],
+			[ "lotees" ],
+			[ "lotee" ],
+			[ "loteemos" ],
+			[ "loteéis", "loteen" ],
+			[ "loteen" ]
+		],
+		"9" : [
+			[ "loteara" ],
+			[ "lotearas" ],
+			[ "loteara" ],
+			[ "loteáramos" ],
+			[ "lotearais", "lotearan" ],
+			[ "lotearan" ]
+		],
+		"10" : [
+			[ "lotease" ],
+			[ "loteases" ],
+			[ "lotease" ],
+			[ "loteásemos" ],
+			[ "loteaseis", "loteasen" ],
+			[ "loteasen" ]
+		],
+		"11" : [
+			[ "loteare" ],
+			[ "loteares" ],
+			[ "loteare" ],
+			[ "loteáremos" ],
+			[ "loteareis", "lotearen" ],
+			[ "lotearen" ]
+		],
+		"12" : {
+			"1" : [ "lotea" ],
+			"2" : [ "lotee" ],
+			"3" : [ "loteemos" ],
+			"4" : [ "lotead" ],
+			"5" : [ "loteen" ]
+		}
+	}
+}

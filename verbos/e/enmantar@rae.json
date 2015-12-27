@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enmantar",
+	"word" : "enmantar",
+	"infinitivo" : "enmantar",
+	"participio" : [ "enmantado" ],
+	"gerundio" : [ "enmantando" ],
+	"tenses" : {
+		"3" : [
+			[ "enmanto" ],
+			[ "enmantas", "enmantás" ],
+			[ "enmanta" ],
+			[ "enmantamos" ],
+			[ "enmantáis", "enmantan" ],
+			[ "enmantan" ]
+		],
+		"4" : [
+			[ "enmanté" ],
+			[ "enmantaste" ],
+			[ "enmantó" ],
+			[ "enmantamos" ],
+			[ "enmantasteis", "enmantaron" ],
+			[ "enmantaron" ]
+		],
+		"5" : [
+			[ "enmantaba" ],
+			[ "enmantabas" ],
+			[ "enmantaba" ],
+			[ "enmantábamos" ],
+			[ "enmantabais", "enmantaban" ],
+			[ "enmantaban" ]
+		],
+		"6" : [
+			[ "enmantaría" ],
+			[ "enmantarías" ],
+			[ "enmantaría" ],
+			[ "enmantaríamos" ],
+			[ "enmantaríais", "enmantarían" ],
+			[ "enmantarían" ]
+		],
+		"7" : [
+			[ "enmantaré" ],
+			[ "enmantarás" ],
+			[ "enmantará" ],
+			[ "enmantaremos" ],
+			[ "enmantaréis", "enmantarán" ],
+			[ "enmantarán" ]
+		],
+		"8" : [
+			[ "enmante" ],
+			[ "enmantes" ],
+			[ "enmante" ],
+			[ "enmantemos" ],
+			[ "enmantéis", "enmanten" ],
+			[ "enmanten" ]
+		],
+		"9" : [
+			[ "enmantara" ],
+			[ "enmantaras" ],
+			[ "enmantara" ],
+			[ "enmantáramos" ],
+			[ "enmantarais", "enmantaran" ],
+			[ "enmantaran" ]
+		],
+		"10" : [
+			[ "enmantase" ],
+			[ "enmantases" ],
+			[ "enmantase" ],
+			[ "enmantásemos" ],
+			[ "enmantaseis", "enmantasen" ],
+			[ "enmantasen" ]
+		],
+		"11" : [
+			[ "enmantare" ],
+			[ "enmantares" ],
+			[ "enmantare" ],
+			[ "enmantáremos" ],
+			[ "enmantareis", "enmantaren" ],
+			[ "enmantaren" ]
+		],
+		"12" : {
+			"1" : [ "enmanta" ],
+			"2" : [ "enmante" ],
+			"3" : [ "enmantemos" ],
+			"4" : [ "enmantad" ],
+			"5" : [ "enmanten" ]
+		}
+	}
+}

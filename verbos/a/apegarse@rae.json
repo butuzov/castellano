@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apegarse",
+	"word" : "apegarse",
+	"infinitivo" : "apegarse",
+	"participio" : [ "apegado" ],
+	"gerundio" : [ "apegándome", "apegándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me apego" ],
+			[ "te apegas", "te apegás" ],
+			[ "se apega" ],
+			[ "nos apegamos" ],
+			[ "os apegáis", "se apegan" ],
+			[ "se apegan" ]
+		],
+		"4" : [
+			[ "me apegué" ],
+			[ "te apegaste" ],
+			[ "se apegó" ],
+			[ "nos apegamos" ],
+			[ "os apegasteis", "se apegaron" ],
+			[ "se apegaron" ]
+		],
+		"5" : [
+			[ "me apegaba" ],
+			[ "te apegabas" ],
+			[ "se apegaba" ],
+			[ "nos apegábamos" ],
+			[ "os apegabais", "se apegaban" ],
+			[ "se apegaban" ]
+		],
+		"6" : [
+			[ "me apegaría" ],
+			[ "te apegarías" ],
+			[ "se apegaría" ],
+			[ "nos apegaríamos" ],
+			[ "os apegaríais", "se apegarían" ],
+			[ "se apegarían" ]
+		],
+		"7" : [
+			[ "me apegaré" ],
+			[ "te apegarás" ],
+			[ "se apegará" ],
+			[ "nos apegaremos" ],
+			[ "os apegaréis", "se apegarán" ],
+			[ "se apegarán" ]
+		],
+		"8" : [
+			[ "me apegue" ],
+			[ "te apegues" ],
+			[ "se apegue" ],
+			[ "nos apeguemos" ],
+			[ "os apeguéis", "se apeguen" ],
+			[ "se apeguen" ]
+		],
+		"9" : [
+			[ "me apegara" ],
+			[ "te apegaras" ],
+			[ "se apegara" ],
+			[ "nos apegáramos" ],
+			[ "os apegarais", "se apegaran" ],
+			[ "se apegaran" ]
+		],
+		"10" : [
+			[ "me apegase" ],
+			[ "te apegases" ],
+			[ "se apegase" ],
+			[ "nos apegásemos" ],
+			[ "os apegaseis", "se apegasen" ],
+			[ "se apegasen" ]
+		],
+		"11" : [
+			[ "me apegare" ],
+			[ "te apegares" ],
+			[ "se apegare" ],
+			[ "nos apegáremos" ],
+			[ "os apegareis", "se apegaren" ],
+			[ "se apegaren" ]
+		],
+		"12" : {
+			"1" : [ "apégate" ],
+			"2" : [ "apegue" ],
+			"3" : [ "apeguemos" ],
+			"4" : [ "apegaos" ],
+			"5" : [ "apéguense" ]
+		}
+	}
+}

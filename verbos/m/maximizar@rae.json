@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=maximizar",
+	"word" : "maximizar",
+	"infinitivo" : "maximizar",
+	"participio" : [ "maximizado" ],
+	"gerundio" : [ "maximizando" ],
+	"tenses" : {
+		"3" : [
+			[ "maximizo" ],
+			[ "maximizas", "maximizás" ],
+			[ "maximiza" ],
+			[ "maximizamos" ],
+			[ "maximizáis", "maximizan" ],
+			[ "maximizan" ]
+		],
+		"4" : [
+			[ "maximicé" ],
+			[ "maximizaste" ],
+			[ "maximizó" ],
+			[ "maximizamos" ],
+			[ "maximizasteis", "maximizaron" ],
+			[ "maximizaron" ]
+		],
+		"5" : [
+			[ "maximizaba" ],
+			[ "maximizabas" ],
+			[ "maximizaba" ],
+			[ "maximizábamos" ],
+			[ "maximizabais", "maximizaban" ],
+			[ "maximizaban" ]
+		],
+		"6" : [
+			[ "maximizaría" ],
+			[ "maximizarías" ],
+			[ "maximizaría" ],
+			[ "maximizaríamos" ],
+			[ "maximizaríais", "maximizarían" ],
+			[ "maximizarían" ]
+		],
+		"7" : [
+			[ "maximizaré" ],
+			[ "maximizarás" ],
+			[ "maximizará" ],
+			[ "maximizaremos" ],
+			[ "maximizaréis", "maximizarán" ],
+			[ "maximizarán" ]
+		],
+		"8" : [
+			[ "maximice" ],
+			[ "maximices" ],
+			[ "maximice" ],
+			[ "maximicemos" ],
+			[ "maximicéis", "maximicen" ],
+			[ "maximicen" ]
+		],
+		"9" : [
+			[ "maximizara" ],
+			[ "maximizaras" ],
+			[ "maximizara" ],
+			[ "maximizáramos" ],
+			[ "maximizarais", "maximizaran" ],
+			[ "maximizaran" ]
+		],
+		"10" : [
+			[ "maximizase" ],
+			[ "maximizases" ],
+			[ "maximizase" ],
+			[ "maximizásemos" ],
+			[ "maximizaseis", "maximizasen" ],
+			[ "maximizasen" ]
+		],
+		"11" : [
+			[ "maximizare" ],
+			[ "maximizares" ],
+			[ "maximizare" ],
+			[ "maximizáremos" ],
+			[ "maximizareis", "maximizaren" ],
+			[ "maximizaren" ]
+		],
+		"12" : {
+			"1" : [ "maximiza" ],
+			"2" : [ "maximice" ],
+			"3" : [ "maximicemos" ],
+			"4" : [ "maximizad" ],
+			"5" : [ "maximicen" ]
+		}
+	}
+}

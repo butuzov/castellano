@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=derruir",
+	"word" : "derruir",
+	"infinitivo" : "derruir",
+	"participio" : [ "derruido" ],
+	"gerundio" : [ "derruyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "derruyo" ],
+			[ "derruyes", "derruís" ],
+			[ "derruye" ],
+			[ "derruimos" ],
+			[ "derruís", "derruyen" ],
+			[ "derruyen" ]
+		],
+		"4" : [
+			[ "derruí" ],
+			[ "derruiste" ],
+			[ "derruyó" ],
+			[ "derruimos" ],
+			[ "derruisteis", "derruyeron" ],
+			[ "derruyeron" ]
+		],
+		"5" : [
+			[ "derruía" ],
+			[ "derruías" ],
+			[ "derruía" ],
+			[ "derruíamos" ],
+			[ "derruíais", "derruían" ],
+			[ "derruían" ]
+		],
+		"6" : [
+			[ "derruiría" ],
+			[ "derruirías" ],
+			[ "derruiría" ],
+			[ "derruiríamos" ],
+			[ "derruiríais", "derruirían" ],
+			[ "derruirían" ]
+		],
+		"7" : [
+			[ "derruiré" ],
+			[ "derruirás" ],
+			[ "derruirá" ],
+			[ "derruiremos" ],
+			[ "derruiréis", "derruirán" ],
+			[ "derruirán" ]
+		],
+		"8" : [
+			[ "derruya" ],
+			[ "derruyas" ],
+			[ "derruya" ],
+			[ "derruyamos" ],
+			[ "derruyáis", "derruyan" ],
+			[ "derruyan" ]
+		],
+		"9" : [
+			[ "derruyera" ],
+			[ "derruyeras" ],
+			[ "derruyera" ],
+			[ "derruyéramos" ],
+			[ "derruyerais", "derruyeran" ],
+			[ "derruyeran" ]
+		],
+		"10" : [
+			[ "derruyese" ],
+			[ "derruyeses" ],
+			[ "derruyese" ],
+			[ "derruyésemos" ],
+			[ "derruyeseis", "derruyesen" ],
+			[ "derruyesen" ]
+		],
+		"11" : [
+			[ "derruyere" ],
+			[ "derruyeres" ],
+			[ "derruyere" ],
+			[ "derruyéremos" ],
+			[ "derruyereis", "derruyeren" ],
+			[ "derruyeren" ]
+		],
+		"12" : {
+			"1" : [ "derruye" ],
+			"2" : [ "derruya" ],
+			"3" : [ "derruyamos" ],
+			"4" : [ "derruid" ],
+			"5" : [ "derruyan" ]
+		}
+	}
+}

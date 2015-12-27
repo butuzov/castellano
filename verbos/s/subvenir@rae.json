@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=subvenir",
+	"word" : "subvenir",
+	"infinitivo" : "subvenir",
+	"participio" : [ "subvenido" ],
+	"gerundio" : [ "subviniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "subvengo" ],
+			[ "subvienes", "subvenís" ],
+			[ "subviene" ],
+			[ "subvenimos" ],
+			[ "subvenís", "subvienen" ],
+			[ "subvienen" ]
+		],
+		"4" : [
+			[ "subvine" ],
+			[ "subviniste" ],
+			[ "subvino" ],
+			[ "subvinimos" ],
+			[ "subvinisteis", "subvinieron" ],
+			[ "subvinieron" ]
+		],
+		"5" : [
+			[ "subvenía" ],
+			[ "subvenías" ],
+			[ "subvenía" ],
+			[ "subveníamos" ],
+			[ "subveníais", "subvenían" ],
+			[ "subvenían" ]
+		],
+		"6" : [
+			[ "subvendría" ],
+			[ "subvendrías" ],
+			[ "subvendría" ],
+			[ "subvendríamos" ],
+			[ "subvendríais", "subvendrían" ],
+			[ "subvendrían" ]
+		],
+		"7" : [
+			[ "subvendré" ],
+			[ "subvendrás" ],
+			[ "subvendrá" ],
+			[ "subvendremos" ],
+			[ "subvendréis", "subvendrán" ],
+			[ "subvendrán" ]
+		],
+		"8" : [
+			[ "subvenga" ],
+			[ "subvengas" ],
+			[ "subvenga" ],
+			[ "subvengamos" ],
+			[ "subvengáis", "subvengan" ],
+			[ "subvengan" ]
+		],
+		"9" : [
+			[ "subviniera" ],
+			[ "subvinieras" ],
+			[ "subviniera" ],
+			[ "subviniéramos" ],
+			[ "subvinierais", "subvinieran" ],
+			[ "subvinieran" ]
+		],
+		"10" : [
+			[ "subviniese" ],
+			[ "subvinieses" ],
+			[ "subviniese" ],
+			[ "subviniésemos" ],
+			[ "subvinieseis", "subviniesen" ],
+			[ "subviniesen" ]
+		],
+		"11" : [
+			[ "subviniere" ],
+			[ "subvinieres" ],
+			[ "subviniere" ],
+			[ "subviniéremos" ],
+			[ "subviniereis", "subvinieren" ],
+			[ "subvinieren" ]
+		],
+		"12" : {
+			"1" : [ "subvén" ],
+			"2" : [ "subvenga" ],
+			"3" : [ "subvengamos" ],
+			"4" : [ "subvenid" ],
+			"5" : [ "subvengan" ]
+		}
+	}
+}

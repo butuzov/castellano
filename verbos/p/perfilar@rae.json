@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=perfilar",
+	"word" : "perfilar",
+	"infinitivo" : "perfilar",
+	"participio" : [ "perfilado" ],
+	"gerundio" : [ "perfilando" ],
+	"tenses" : {
+		"3" : [
+			[ "perfilo" ],
+			[ "perfilas", "perfilás" ],
+			[ "perfila" ],
+			[ "perfilamos" ],
+			[ "perfiláis", "perfilan" ],
+			[ "perfilan" ]
+		],
+		"4" : [
+			[ "perfilé" ],
+			[ "perfilaste" ],
+			[ "perfiló" ],
+			[ "perfilamos" ],
+			[ "perfilasteis", "perfilaron" ],
+			[ "perfilaron" ]
+		],
+		"5" : [
+			[ "perfilaba" ],
+			[ "perfilabas" ],
+			[ "perfilaba" ],
+			[ "perfilábamos" ],
+			[ "perfilabais", "perfilaban" ],
+			[ "perfilaban" ]
+		],
+		"6" : [
+			[ "perfilaría" ],
+			[ "perfilarías" ],
+			[ "perfilaría" ],
+			[ "perfilaríamos" ],
+			[ "perfilaríais", "perfilarían" ],
+			[ "perfilarían" ]
+		],
+		"7" : [
+			[ "perfilaré" ],
+			[ "perfilarás" ],
+			[ "perfilará" ],
+			[ "perfilaremos" ],
+			[ "perfilaréis", "perfilarán" ],
+			[ "perfilarán" ]
+		],
+		"8" : [
+			[ "perfile" ],
+			[ "perfiles" ],
+			[ "perfile" ],
+			[ "perfilemos" ],
+			[ "perfiléis", "perfilen" ],
+			[ "perfilen" ]
+		],
+		"9" : [
+			[ "perfilara" ],
+			[ "perfilaras" ],
+			[ "perfilara" ],
+			[ "perfiláramos" ],
+			[ "perfilarais", "perfilaran" ],
+			[ "perfilaran" ]
+		],
+		"10" : [
+			[ "perfilase" ],
+			[ "perfilases" ],
+			[ "perfilase" ],
+			[ "perfilásemos" ],
+			[ "perfilaseis", "perfilasen" ],
+			[ "perfilasen" ]
+		],
+		"11" : [
+			[ "perfilare" ],
+			[ "perfilares" ],
+			[ "perfilare" ],
+			[ "perfiláremos" ],
+			[ "perfilareis", "perfilaren" ],
+			[ "perfilaren" ]
+		],
+		"12" : {
+			"1" : [ "perfila" ],
+			"2" : [ "perfile" ],
+			"3" : [ "perfilemos" ],
+			"4" : [ "perfilad" ],
+			"5" : [ "perfilen" ]
+		}
+	}
+}

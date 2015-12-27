@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reconvenir",
+	"word" : "reconvenir",
+	"infinitivo" : "reconvenir",
+	"participio" : [ "reconvenido" ],
+	"gerundio" : [ "reconviniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reconvengo" ],
+			[ "reconvienes", "reconvenís" ],
+			[ "reconviene" ],
+			[ "reconvenimos" ],
+			[ "reconvenís", "reconvienen" ],
+			[ "reconvienen" ]
+		],
+		"4" : [
+			[ "reconvine" ],
+			[ "reconviniste" ],
+			[ "reconvino" ],
+			[ "reconvinimos" ],
+			[ "reconvinisteis", "reconvinieron" ],
+			[ "reconvinieron" ]
+		],
+		"5" : [
+			[ "reconvenía" ],
+			[ "reconvenías" ],
+			[ "reconvenía" ],
+			[ "reconveníamos" ],
+			[ "reconveníais", "reconvenían" ],
+			[ "reconvenían" ]
+		],
+		"6" : [
+			[ "reconvendría" ],
+			[ "reconvendrías" ],
+			[ "reconvendría" ],
+			[ "reconvendríamos" ],
+			[ "reconvendríais", "reconvendrían" ],
+			[ "reconvendrían" ]
+		],
+		"7" : [
+			[ "reconvendré" ],
+			[ "reconvendrás" ],
+			[ "reconvendrá" ],
+			[ "reconvendremos" ],
+			[ "reconvendréis", "reconvendrán" ],
+			[ "reconvendrán" ]
+		],
+		"8" : [
+			[ "reconvenga" ],
+			[ "reconvengas" ],
+			[ "reconvenga" ],
+			[ "reconvengamos" ],
+			[ "reconvengáis", "reconvengan" ],
+			[ "reconvengan" ]
+		],
+		"9" : [
+			[ "reconviniera" ],
+			[ "reconvinieras" ],
+			[ "reconviniera" ],
+			[ "reconviniéramos" ],
+			[ "reconvinierais", "reconvinieran" ],
+			[ "reconvinieran" ]
+		],
+		"10" : [
+			[ "reconviniese" ],
+			[ "reconvinieses" ],
+			[ "reconviniese" ],
+			[ "reconviniésemos" ],
+			[ "reconvinieseis", "reconviniesen" ],
+			[ "reconviniesen" ]
+		],
+		"11" : [
+			[ "reconviniere" ],
+			[ "reconvinieres" ],
+			[ "reconviniere" ],
+			[ "reconviniéremos" ],
+			[ "reconviniereis", "reconvinieren" ],
+			[ "reconvinieren" ]
+		],
+		"12" : {
+			"1" : [ "reconvén" ],
+			"2" : [ "reconvenga" ],
+			"3" : [ "reconvengamos" ],
+			"4" : [ "reconvenid" ],
+			"5" : [ "reconvengan" ]
+		}
+	}
+}

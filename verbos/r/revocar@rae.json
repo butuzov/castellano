@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=revocar",
+	"word" : "revocar",
+	"infinitivo" : "revocar",
+	"participio" : [ "revocado" ],
+	"gerundio" : [ "revocando" ],
+	"tenses" : {
+		"3" : [
+			[ "revoco" ],
+			[ "revocas", "revocás" ],
+			[ "revoca" ],
+			[ "revocamos" ],
+			[ "revocáis", "revocan" ],
+			[ "revocan" ]
+		],
+		"4" : [
+			[ "revoqué" ],
+			[ "revocaste" ],
+			[ "revocó" ],
+			[ "revocamos" ],
+			[ "revocasteis", "revocaron" ],
+			[ "revocaron" ]
+		],
+		"5" : [
+			[ "revocaba" ],
+			[ "revocabas" ],
+			[ "revocaba" ],
+			[ "revocábamos" ],
+			[ "revocabais", "revocaban" ],
+			[ "revocaban" ]
+		],
+		"6" : [
+			[ "revocaría" ],
+			[ "revocarías" ],
+			[ "revocaría" ],
+			[ "revocaríamos" ],
+			[ "revocaríais", "revocarían" ],
+			[ "revocarían" ]
+		],
+		"7" : [
+			[ "revocaré" ],
+			[ "revocarás" ],
+			[ "revocará" ],
+			[ "revocaremos" ],
+			[ "revocaréis", "revocarán" ],
+			[ "revocarán" ]
+		],
+		"8" : [
+			[ "revoque" ],
+			[ "revoques" ],
+			[ "revoque" ],
+			[ "revoquemos" ],
+			[ "revoquéis", "revoquen" ],
+			[ "revoquen" ]
+		],
+		"9" : [
+			[ "revocara" ],
+			[ "revocaras" ],
+			[ "revocara" ],
+			[ "revocáramos" ],
+			[ "revocarais", "revocaran" ],
+			[ "revocaran" ]
+		],
+		"10" : [
+			[ "revocase" ],
+			[ "revocases" ],
+			[ "revocase" ],
+			[ "revocásemos" ],
+			[ "revocaseis", "revocasen" ],
+			[ "revocasen" ]
+		],
+		"11" : [
+			[ "revocare" ],
+			[ "revocares" ],
+			[ "revocare" ],
+			[ "revocáremos" ],
+			[ "revocareis", "revocaren" ],
+			[ "revocaren" ]
+		],
+		"12" : {
+			"1" : [ "revoca" ],
+			"2" : [ "revoque" ],
+			"3" : [ "revoquemos" ],
+			"4" : [ "revocad" ],
+			"5" : [ "revoquen" ]
+		}
+	}
+}

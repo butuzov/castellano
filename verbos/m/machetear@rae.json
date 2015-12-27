@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=machetear",
+	"word" : "machetear",
+	"infinitivo" : "machetear",
+	"participio" : [ "macheteado" ],
+	"gerundio" : [ "macheteando" ],
+	"tenses" : {
+		"3" : [
+			[ "macheteo" ],
+			[ "macheteas", "macheteás" ],
+			[ "machetea" ],
+			[ "macheteamos" ],
+			[ "macheteáis", "machetean" ],
+			[ "machetean" ]
+		],
+		"4" : [
+			[ "macheteé" ],
+			[ "macheteaste" ],
+			[ "macheteó" ],
+			[ "macheteamos" ],
+			[ "macheteasteis", "machetearon" ],
+			[ "machetearon" ]
+		],
+		"5" : [
+			[ "macheteaba" ],
+			[ "macheteabas" ],
+			[ "macheteaba" ],
+			[ "macheteábamos" ],
+			[ "macheteabais", "macheteaban" ],
+			[ "macheteaban" ]
+		],
+		"6" : [
+			[ "machetearía" ],
+			[ "machetearías" ],
+			[ "machetearía" ],
+			[ "machetearíamos" ],
+			[ "machetearíais", "machetearían" ],
+			[ "machetearían" ]
+		],
+		"7" : [
+			[ "machetearé" ],
+			[ "machetearás" ],
+			[ "macheteará" ],
+			[ "machetearemos" ],
+			[ "machetearéis", "machetearán" ],
+			[ "machetearán" ]
+		],
+		"8" : [
+			[ "machetee" ],
+			[ "machetees" ],
+			[ "machetee" ],
+			[ "macheteemos" ],
+			[ "macheteéis", "macheteen" ],
+			[ "macheteen" ]
+		],
+		"9" : [
+			[ "macheteara" ],
+			[ "machetearas" ],
+			[ "macheteara" ],
+			[ "macheteáramos" ],
+			[ "machetearais", "machetearan" ],
+			[ "machetearan" ]
+		],
+		"10" : [
+			[ "machetease" ],
+			[ "macheteases" ],
+			[ "machetease" ],
+			[ "macheteásemos" ],
+			[ "macheteaseis", "macheteasen" ],
+			[ "macheteasen" ]
+		],
+		"11" : [
+			[ "macheteare" ],
+			[ "macheteares" ],
+			[ "macheteare" ],
+			[ "macheteáremos" ],
+			[ "macheteareis", "machetearen" ],
+			[ "machetearen" ]
+		],
+		"12" : {
+			"1" : [ "machetea" ],
+			"2" : [ "machetee" ],
+			"3" : [ "macheteemos" ],
+			"4" : [ "machetead" ],
+			"5" : [ "macheteen" ]
+		}
+	}
+}

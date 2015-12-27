@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=impulsar",
+	"word" : "impulsar",
+	"infinitivo" : "impulsar",
+	"participio" : [ "impulsado" ],
+	"gerundio" : [ "impulsando" ],
+	"tenses" : {
+		"3" : [
+			[ "impulso" ],
+			[ "impulsas", "impulsás" ],
+			[ "impulsa" ],
+			[ "impulsamos" ],
+			[ "impulsáis", "impulsan" ],
+			[ "impulsan" ]
+		],
+		"4" : [
+			[ "impulsé" ],
+			[ "impulsaste" ],
+			[ "impulsó" ],
+			[ "impulsamos" ],
+			[ "impulsasteis", "impulsaron" ],
+			[ "impulsaron" ]
+		],
+		"5" : [
+			[ "impulsaba" ],
+			[ "impulsabas" ],
+			[ "impulsaba" ],
+			[ "impulsábamos" ],
+			[ "impulsabais", "impulsaban" ],
+			[ "impulsaban" ]
+		],
+		"6" : [
+			[ "impulsaría" ],
+			[ "impulsarías" ],
+			[ "impulsaría" ],
+			[ "impulsaríamos" ],
+			[ "impulsaríais", "impulsarían" ],
+			[ "impulsarían" ]
+		],
+		"7" : [
+			[ "impulsaré" ],
+			[ "impulsarás" ],
+			[ "impulsará" ],
+			[ "impulsaremos" ],
+			[ "impulsaréis", "impulsarán" ],
+			[ "impulsarán" ]
+		],
+		"8" : [
+			[ "impulse" ],
+			[ "impulses" ],
+			[ "impulse" ],
+			[ "impulsemos" ],
+			[ "impulséis", "impulsen" ],
+			[ "impulsen" ]
+		],
+		"9" : [
+			[ "impulsara" ],
+			[ "impulsaras" ],
+			[ "impulsara" ],
+			[ "impulsáramos" ],
+			[ "impulsarais", "impulsaran" ],
+			[ "impulsaran" ]
+		],
+		"10" : [
+			[ "impulsase" ],
+			[ "impulsases" ],
+			[ "impulsase" ],
+			[ "impulsásemos" ],
+			[ "impulsaseis", "impulsasen" ],
+			[ "impulsasen" ]
+		],
+		"11" : [
+			[ "impulsare" ],
+			[ "impulsares" ],
+			[ "impulsare" ],
+			[ "impulsáremos" ],
+			[ "impulsareis", "impulsaren" ],
+			[ "impulsaren" ]
+		],
+		"12" : {
+			"1" : [ "impulsa" ],
+			"2" : [ "impulse" ],
+			"3" : [ "impulsemos" ],
+			"4" : [ "impulsad" ],
+			"5" : [ "impulsen" ]
+		}
+	}
+}

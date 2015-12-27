@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asestar",
+	"word" : "asestar",
+	"infinitivo" : "asestar",
+	"participio" : [ "asestado" ],
+	"gerundio" : [ "asestando" ],
+	"tenses" : {
+		"3" : [
+			[ "asesto" ],
+			[ "asestas", "asestás" ],
+			[ "asesta" ],
+			[ "asestamos" ],
+			[ "asestáis", "asestan" ],
+			[ "asestan" ]
+		],
+		"4" : [
+			[ "asesté" ],
+			[ "asestaste" ],
+			[ "asestó" ],
+			[ "asestamos" ],
+			[ "asestasteis", "asestaron" ],
+			[ "asestaron" ]
+		],
+		"5" : [
+			[ "asestaba" ],
+			[ "asestabas" ],
+			[ "asestaba" ],
+			[ "asestábamos" ],
+			[ "asestabais", "asestaban" ],
+			[ "asestaban" ]
+		],
+		"6" : [
+			[ "asestaría" ],
+			[ "asestarías" ],
+			[ "asestaría" ],
+			[ "asestaríamos" ],
+			[ "asestaríais", "asestarían" ],
+			[ "asestarían" ]
+		],
+		"7" : [
+			[ "asestaré" ],
+			[ "asestarás" ],
+			[ "asestará" ],
+			[ "asestaremos" ],
+			[ "asestaréis", "asestarán" ],
+			[ "asestarán" ]
+		],
+		"8" : [
+			[ "aseste" ],
+			[ "asestes" ],
+			[ "aseste" ],
+			[ "asestemos" ],
+			[ "asestéis", "asesten" ],
+			[ "asesten" ]
+		],
+		"9" : [
+			[ "asestara" ],
+			[ "asestaras" ],
+			[ "asestara" ],
+			[ "asestáramos" ],
+			[ "asestarais", "asestaran" ],
+			[ "asestaran" ]
+		],
+		"10" : [
+			[ "asestase" ],
+			[ "asestases" ],
+			[ "asestase" ],
+			[ "asestásemos" ],
+			[ "asestaseis", "asestasen" ],
+			[ "asestasen" ]
+		],
+		"11" : [
+			[ "asestare" ],
+			[ "asestares" ],
+			[ "asestare" ],
+			[ "asestáremos" ],
+			[ "asestareis", "asestaren" ],
+			[ "asestaren" ]
+		],
+		"12" : {
+			"1" : [ "asesta" ],
+			"2" : [ "aseste" ],
+			"3" : [ "asestemos" ],
+			"4" : [ "asestad" ],
+			"5" : [ "asesten" ]
+		}
+	}
+}

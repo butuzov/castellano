@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=redactar",
+	"word" : "redactar",
+	"infinitivo" : "redactar",
+	"participio" : [ "redactado" ],
+	"gerundio" : [ "redactando" ],
+	"tenses" : {
+		"3" : [
+			[ "redacto" ],
+			[ "redactas", "redactás" ],
+			[ "redacta" ],
+			[ "redactamos" ],
+			[ "redactáis", "redactan" ],
+			[ "redactan" ]
+		],
+		"4" : [
+			[ "redacté" ],
+			[ "redactaste" ],
+			[ "redactó" ],
+			[ "redactamos" ],
+			[ "redactasteis", "redactaron" ],
+			[ "redactaron" ]
+		],
+		"5" : [
+			[ "redactaba" ],
+			[ "redactabas" ],
+			[ "redactaba" ],
+			[ "redactábamos" ],
+			[ "redactabais", "redactaban" ],
+			[ "redactaban" ]
+		],
+		"6" : [
+			[ "redactaría" ],
+			[ "redactarías" ],
+			[ "redactaría" ],
+			[ "redactaríamos" ],
+			[ "redactaríais", "redactarían" ],
+			[ "redactarían" ]
+		],
+		"7" : [
+			[ "redactaré" ],
+			[ "redactarás" ],
+			[ "redactará" ],
+			[ "redactaremos" ],
+			[ "redactaréis", "redactarán" ],
+			[ "redactarán" ]
+		],
+		"8" : [
+			[ "redacte" ],
+			[ "redactes" ],
+			[ "redacte" ],
+			[ "redactemos" ],
+			[ "redactéis", "redacten" ],
+			[ "redacten" ]
+		],
+		"9" : [
+			[ "redactara" ],
+			[ "redactaras" ],
+			[ "redactara" ],
+			[ "redactáramos" ],
+			[ "redactarais", "redactaran" ],
+			[ "redactaran" ]
+		],
+		"10" : [
+			[ "redactase" ],
+			[ "redactases" ],
+			[ "redactase" ],
+			[ "redactásemos" ],
+			[ "redactaseis", "redactasen" ],
+			[ "redactasen" ]
+		],
+		"11" : [
+			[ "redactare" ],
+			[ "redactares" ],
+			[ "redactare" ],
+			[ "redactáremos" ],
+			[ "redactareis", "redactaren" ],
+			[ "redactaren" ]
+		],
+		"12" : {
+			"1" : [ "redacta" ],
+			"2" : [ "redacte" ],
+			"3" : [ "redactemos" ],
+			"4" : [ "redactad" ],
+			"5" : [ "redacten" ]
+		}
+	}
+}

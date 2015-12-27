@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=agitar",
+	"word" : "agitar",
+	"infinitivo" : "agitar",
+	"participio" : [ "agitado" ],
+	"gerundio" : [ "agitando" ],
+	"tenses" : {
+		"3" : [
+			[ "agito" ],
+			[ "agitas", "agitás" ],
+			[ "agita" ],
+			[ "agitamos" ],
+			[ "agitáis", "agitan" ],
+			[ "agitan" ]
+		],
+		"4" : [
+			[ "agité" ],
+			[ "agitaste" ],
+			[ "agitó" ],
+			[ "agitamos" ],
+			[ "agitasteis", "agitaron" ],
+			[ "agitaron" ]
+		],
+		"5" : [
+			[ "agitaba" ],
+			[ "agitabas" ],
+			[ "agitaba" ],
+			[ "agitábamos" ],
+			[ "agitabais", "agitaban" ],
+			[ "agitaban" ]
+		],
+		"6" : [
+			[ "agitaría" ],
+			[ "agitarías" ],
+			[ "agitaría" ],
+			[ "agitaríamos" ],
+			[ "agitaríais", "agitarían" ],
+			[ "agitarían" ]
+		],
+		"7" : [
+			[ "agitaré" ],
+			[ "agitarás" ],
+			[ "agitará" ],
+			[ "agitaremos" ],
+			[ "agitaréis", "agitarán" ],
+			[ "agitarán" ]
+		],
+		"8" : [
+			[ "agite" ],
+			[ "agites" ],
+			[ "agite" ],
+			[ "agitemos" ],
+			[ "agitéis", "agiten" ],
+			[ "agiten" ]
+		],
+		"9" : [
+			[ "agitara" ],
+			[ "agitaras" ],
+			[ "agitara" ],
+			[ "agitáramos" ],
+			[ "agitarais", "agitaran" ],
+			[ "agitaran" ]
+		],
+		"10" : [
+			[ "agitase" ],
+			[ "agitases" ],
+			[ "agitase" ],
+			[ "agitásemos" ],
+			[ "agitaseis", "agitasen" ],
+			[ "agitasen" ]
+		],
+		"11" : [
+			[ "agitare" ],
+			[ "agitares" ],
+			[ "agitare" ],
+			[ "agitáremos" ],
+			[ "agitareis", "agitaren" ],
+			[ "agitaren" ]
+		],
+		"12" : {
+			"1" : [ "agita" ],
+			"2" : [ "agite" ],
+			"3" : [ "agitemos" ],
+			"4" : [ "agitad" ],
+			"5" : [ "agiten" ]
+		}
+	}
+}

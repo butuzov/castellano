@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pellizcar",
+	"word" : "pellizcar",
+	"infinitivo" : "pellizcar",
+	"participio" : [ "pellizcado" ],
+	"gerundio" : [ "pellizcando" ],
+	"tenses" : {
+		"3" : [
+			[ "pellizco" ],
+			[ "pellizcas", "pellizcás" ],
+			[ "pellizca" ],
+			[ "pellizcamos" ],
+			[ "pellizcáis", "pellizcan" ],
+			[ "pellizcan" ]
+		],
+		"4" : [
+			[ "pellizqué" ],
+			[ "pellizcaste" ],
+			[ "pellizcó" ],
+			[ "pellizcamos" ],
+			[ "pellizcasteis", "pellizcaron" ],
+			[ "pellizcaron" ]
+		],
+		"5" : [
+			[ "pellizcaba" ],
+			[ "pellizcabas" ],
+			[ "pellizcaba" ],
+			[ "pellizcábamos" ],
+			[ "pellizcabais", "pellizcaban" ],
+			[ "pellizcaban" ]
+		],
+		"6" : [
+			[ "pellizcaría" ],
+			[ "pellizcarías" ],
+			[ "pellizcaría" ],
+			[ "pellizcaríamos" ],
+			[ "pellizcaríais", "pellizcarían" ],
+			[ "pellizcarían" ]
+		],
+		"7" : [
+			[ "pellizcaré" ],
+			[ "pellizcarás" ],
+			[ "pellizcará" ],
+			[ "pellizcaremos" ],
+			[ "pellizcaréis", "pellizcarán" ],
+			[ "pellizcarán" ]
+		],
+		"8" : [
+			[ "pellizque" ],
+			[ "pellizques" ],
+			[ "pellizque" ],
+			[ "pellizquemos" ],
+			[ "pellizquéis", "pellizquen" ],
+			[ "pellizquen" ]
+		],
+		"9" : [
+			[ "pellizcara" ],
+			[ "pellizcaras" ],
+			[ "pellizcara" ],
+			[ "pellizcáramos" ],
+			[ "pellizcarais", "pellizcaran" ],
+			[ "pellizcaran" ]
+		],
+		"10" : [
+			[ "pellizcase" ],
+			[ "pellizcases" ],
+			[ "pellizcase" ],
+			[ "pellizcásemos" ],
+			[ "pellizcaseis", "pellizcasen" ],
+			[ "pellizcasen" ]
+		],
+		"11" : [
+			[ "pellizcare" ],
+			[ "pellizcares" ],
+			[ "pellizcare" ],
+			[ "pellizcáremos" ],
+			[ "pellizcareis", "pellizcaren" ],
+			[ "pellizcaren" ]
+		],
+		"12" : {
+			"1" : [ "pellizca" ],
+			"2" : [ "pellizque" ],
+			"3" : [ "pellizquemos" ],
+			"4" : [ "pellizcad" ],
+			"5" : [ "pellizquen" ]
+		}
+	}
+}

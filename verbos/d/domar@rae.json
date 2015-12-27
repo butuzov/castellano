@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=domar",
+	"word" : "domar",
+	"infinitivo" : "domar",
+	"participio" : [ "domado" ],
+	"gerundio" : [ "domando" ],
+	"tenses" : {
+		"3" : [
+			[ "domo" ],
+			[ "domas", "domás" ],
+			[ "doma" ],
+			[ "domamos" ],
+			[ "domáis", "doman" ],
+			[ "doman" ]
+		],
+		"4" : [
+			[ "domé" ],
+			[ "domaste" ],
+			[ "domó" ],
+			[ "domamos" ],
+			[ "domasteis", "domaron" ],
+			[ "domaron" ]
+		],
+		"5" : [
+			[ "domaba" ],
+			[ "domabas" ],
+			[ "domaba" ],
+			[ "domábamos" ],
+			[ "domabais", "domaban" ],
+			[ "domaban" ]
+		],
+		"6" : [
+			[ "domaría" ],
+			[ "domarías" ],
+			[ "domaría" ],
+			[ "domaríamos" ],
+			[ "domaríais", "domarían" ],
+			[ "domarían" ]
+		],
+		"7" : [
+			[ "domaré" ],
+			[ "domarás" ],
+			[ "domará" ],
+			[ "domaremos" ],
+			[ "domaréis", "domarán" ],
+			[ "domarán" ]
+		],
+		"8" : [
+			[ "dome" ],
+			[ "domes" ],
+			[ "dome" ],
+			[ "domemos" ],
+			[ "doméis", "domen" ],
+			[ "domen" ]
+		],
+		"9" : [
+			[ "domara" ],
+			[ "domaras" ],
+			[ "domara" ],
+			[ "domáramos" ],
+			[ "domarais", "domaran" ],
+			[ "domaran" ]
+		],
+		"10" : [
+			[ "domase" ],
+			[ "domases" ],
+			[ "domase" ],
+			[ "domásemos" ],
+			[ "domaseis", "domasen" ],
+			[ "domasen" ]
+		],
+		"11" : [
+			[ "domare" ],
+			[ "domares" ],
+			[ "domare" ],
+			[ "domáremos" ],
+			[ "domareis", "domaren" ],
+			[ "domaren" ]
+		],
+		"12" : {
+			"1" : [ "doma" ],
+			"2" : [ "dome" ],
+			"3" : [ "domemos" ],
+			"4" : [ "domad" ],
+			"5" : [ "domen" ]
+		}
+	}
+}

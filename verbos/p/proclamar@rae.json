@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=proclamar",
+	"word" : "proclamar",
+	"infinitivo" : "proclamar",
+	"participio" : [ "proclamado" ],
+	"gerundio" : [ "proclamando" ],
+	"tenses" : {
+		"3" : [
+			[ "proclamo" ],
+			[ "proclamas", "proclamás" ],
+			[ "proclama" ],
+			[ "proclamamos" ],
+			[ "proclamáis", "proclaman" ],
+			[ "proclaman" ]
+		],
+		"4" : [
+			[ "proclamé" ],
+			[ "proclamaste" ],
+			[ "proclamó" ],
+			[ "proclamamos" ],
+			[ "proclamasteis", "proclamaron" ],
+			[ "proclamaron" ]
+		],
+		"5" : [
+			[ "proclamaba" ],
+			[ "proclamabas" ],
+			[ "proclamaba" ],
+			[ "proclamábamos" ],
+			[ "proclamabais", "proclamaban" ],
+			[ "proclamaban" ]
+		],
+		"6" : [
+			[ "proclamaría" ],
+			[ "proclamarías" ],
+			[ "proclamaría" ],
+			[ "proclamaríamos" ],
+			[ "proclamaríais", "proclamarían" ],
+			[ "proclamarían" ]
+		],
+		"7" : [
+			[ "proclamaré" ],
+			[ "proclamarás" ],
+			[ "proclamará" ],
+			[ "proclamaremos" ],
+			[ "proclamaréis", "proclamarán" ],
+			[ "proclamarán" ]
+		],
+		"8" : [
+			[ "proclame" ],
+			[ "proclames" ],
+			[ "proclame" ],
+			[ "proclamemos" ],
+			[ "proclaméis", "proclamen" ],
+			[ "proclamen" ]
+		],
+		"9" : [
+			[ "proclamara" ],
+			[ "proclamaras" ],
+			[ "proclamara" ],
+			[ "proclamáramos" ],
+			[ "proclamarais", "proclamaran" ],
+			[ "proclamaran" ]
+		],
+		"10" : [
+			[ "proclamase" ],
+			[ "proclamases" ],
+			[ "proclamase" ],
+			[ "proclamásemos" ],
+			[ "proclamaseis", "proclamasen" ],
+			[ "proclamasen" ]
+		],
+		"11" : [
+			[ "proclamare" ],
+			[ "proclamares" ],
+			[ "proclamare" ],
+			[ "proclamáremos" ],
+			[ "proclamareis", "proclamaren" ],
+			[ "proclamaren" ]
+		],
+		"12" : {
+			"1" : [ "proclama" ],
+			"2" : [ "proclame" ],
+			"3" : [ "proclamemos" ],
+			"4" : [ "proclamad" ],
+			"5" : [ "proclamen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ensolver",
+	"word" : "ensolver",
+	"infinitivo" : "ensolver",
+	"participio" : [ "ensolvido" ],
+	"gerundio" : [ "ensolviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "ensuelvo" ],
+			[ "ensuelves", "ensolvés" ],
+			[ "ensuelve" ],
+			[ "ensolvemos" ],
+			[ "ensolvéis", "ensuelven" ],
+			[ "ensuelven" ]
+		],
+		"4" : [
+			[ "ensolví" ],
+			[ "ensolviste" ],
+			[ "ensolvió" ],
+			[ "ensolvimos" ],
+			[ "ensolvisteis", "ensolvieron" ],
+			[ "ensolvieron" ]
+		],
+		"5" : [
+			[ "ensolvía" ],
+			[ "ensolvías" ],
+			[ "ensolvía" ],
+			[ "ensolvíamos" ],
+			[ "ensolvíais", "ensolvían" ],
+			[ "ensolvían" ]
+		],
+		"6" : [
+			[ "ensolvería" ],
+			[ "ensolverías" ],
+			[ "ensolvería" ],
+			[ "ensolveríamos" ],
+			[ "ensolveríais", "ensolverían" ],
+			[ "ensolverían" ]
+		],
+		"7" : [
+			[ "ensolveré" ],
+			[ "ensolverás" ],
+			[ "ensolverá" ],
+			[ "ensolveremos" ],
+			[ "ensolveréis", "ensolverán" ],
+			[ "ensolverán" ]
+		],
+		"8" : [
+			[ "ensuelva" ],
+			[ "ensuelvas" ],
+			[ "ensuelva" ],
+			[ "ensolvamos" ],
+			[ "ensolváis", "ensuelvan" ],
+			[ "ensuelvan" ]
+		],
+		"9" : [
+			[ "ensolviera" ],
+			[ "ensolvieras" ],
+			[ "ensolviera" ],
+			[ "ensolviéramos" ],
+			[ "ensolvierais", "ensolvieran" ],
+			[ "ensolvieran" ]
+		],
+		"10" : [
+			[ "ensolviese" ],
+			[ "ensolvieses" ],
+			[ "ensolviese" ],
+			[ "ensolviésemos" ],
+			[ "ensolvieseis", "ensolviesen" ],
+			[ "ensolviesen" ]
+		],
+		"11" : [
+			[ "ensolviere" ],
+			[ "ensolvieres" ],
+			[ "ensolviere" ],
+			[ "ensolviéremos" ],
+			[ "ensolviereis", "ensolvieren" ],
+			[ "ensolvieren" ]
+		],
+		"12" : {
+			"1" : [ "ensuelve" ],
+			"2" : [ "ensuelva" ],
+			"3" : [ "ensolvamos" ],
+			"4" : [ "ensolved" ],
+			"5" : [ "ensuelvan" ]
+		}
+	}
+}

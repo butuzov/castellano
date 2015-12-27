@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=emboscar",
+	"word" : "emboscar",
+	"infinitivo" : "emboscar",
+	"participio" : [ "emboscado" ],
+	"gerundio" : [ "emboscando" ],
+	"tenses" : {
+		"3" : [
+			[ "embosco" ],
+			[ "emboscas", "emboscás" ],
+			[ "embosca" ],
+			[ "emboscamos" ],
+			[ "emboscáis", "emboscan" ],
+			[ "emboscan" ]
+		],
+		"4" : [
+			[ "embosqué" ],
+			[ "emboscaste" ],
+			[ "emboscó" ],
+			[ "emboscamos" ],
+			[ "emboscasteis", "emboscaron" ],
+			[ "emboscaron" ]
+		],
+		"5" : [
+			[ "emboscaba" ],
+			[ "emboscabas" ],
+			[ "emboscaba" ],
+			[ "emboscábamos" ],
+			[ "emboscabais", "emboscaban" ],
+			[ "emboscaban" ]
+		],
+		"6" : [
+			[ "emboscaría" ],
+			[ "emboscarías" ],
+			[ "emboscaría" ],
+			[ "emboscaríamos" ],
+			[ "emboscaríais", "emboscarían" ],
+			[ "emboscarían" ]
+		],
+		"7" : [
+			[ "emboscaré" ],
+			[ "emboscarás" ],
+			[ "emboscará" ],
+			[ "emboscaremos" ],
+			[ "emboscaréis", "emboscarán" ],
+			[ "emboscarán" ]
+		],
+		"8" : [
+			[ "embosque" ],
+			[ "embosques" ],
+			[ "embosque" ],
+			[ "embosquemos" ],
+			[ "embosquéis", "embosquen" ],
+			[ "embosquen" ]
+		],
+		"9" : [
+			[ "emboscara" ],
+			[ "emboscaras" ],
+			[ "emboscara" ],
+			[ "emboscáramos" ],
+			[ "emboscarais", "emboscaran" ],
+			[ "emboscaran" ]
+		],
+		"10" : [
+			[ "emboscase" ],
+			[ "emboscases" ],
+			[ "emboscase" ],
+			[ "emboscásemos" ],
+			[ "emboscaseis", "emboscasen" ],
+			[ "emboscasen" ]
+		],
+		"11" : [
+			[ "emboscare" ],
+			[ "emboscares" ],
+			[ "emboscare" ],
+			[ "emboscáremos" ],
+			[ "emboscareis", "emboscaren" ],
+			[ "emboscaren" ]
+		],
+		"12" : {
+			"1" : [ "embosca" ],
+			"2" : [ "embosque" ],
+			"3" : [ "embosquemos" ],
+			"4" : [ "emboscad" ],
+			"5" : [ "embosquen" ]
+		}
+	}
+}

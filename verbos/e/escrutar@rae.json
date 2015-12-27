@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escrutar",
+	"word" : "escrutar",
+	"infinitivo" : "escrutar",
+	"participio" : [ "escrutado" ],
+	"gerundio" : [ "escrutando" ],
+	"tenses" : {
+		"3" : [
+			[ "escruto" ],
+			[ "escrutas", "escrutás" ],
+			[ "escruta" ],
+			[ "escrutamos" ],
+			[ "escrutáis", "escrutan" ],
+			[ "escrutan" ]
+		],
+		"4" : [
+			[ "escruté" ],
+			[ "escrutaste" ],
+			[ "escrutó" ],
+			[ "escrutamos" ],
+			[ "escrutasteis", "escrutaron" ],
+			[ "escrutaron" ]
+		],
+		"5" : [
+			[ "escrutaba" ],
+			[ "escrutabas" ],
+			[ "escrutaba" ],
+			[ "escrutábamos" ],
+			[ "escrutabais", "escrutaban" ],
+			[ "escrutaban" ]
+		],
+		"6" : [
+			[ "escrutaría" ],
+			[ "escrutarías" ],
+			[ "escrutaría" ],
+			[ "escrutaríamos" ],
+			[ "escrutaríais", "escrutarían" ],
+			[ "escrutarían" ]
+		],
+		"7" : [
+			[ "escrutaré" ],
+			[ "escrutarás" ],
+			[ "escrutará" ],
+			[ "escrutaremos" ],
+			[ "escrutaréis", "escrutarán" ],
+			[ "escrutarán" ]
+		],
+		"8" : [
+			[ "escrute" ],
+			[ "escrutes" ],
+			[ "escrute" ],
+			[ "escrutemos" ],
+			[ "escrutéis", "escruten" ],
+			[ "escruten" ]
+		],
+		"9" : [
+			[ "escrutara" ],
+			[ "escrutaras" ],
+			[ "escrutara" ],
+			[ "escrutáramos" ],
+			[ "escrutarais", "escrutaran" ],
+			[ "escrutaran" ]
+		],
+		"10" : [
+			[ "escrutase" ],
+			[ "escrutases" ],
+			[ "escrutase" ],
+			[ "escrutásemos" ],
+			[ "escrutaseis", "escrutasen" ],
+			[ "escrutasen" ]
+		],
+		"11" : [
+			[ "escrutare" ],
+			[ "escrutares" ],
+			[ "escrutare" ],
+			[ "escrutáremos" ],
+			[ "escrutareis", "escrutaren" ],
+			[ "escrutaren" ]
+		],
+		"12" : {
+			"1" : [ "escruta" ],
+			"2" : [ "escrute" ],
+			"3" : [ "escrutemos" ],
+			"4" : [ "escrutad" ],
+			"5" : [ "escruten" ]
+		}
+	}
+}

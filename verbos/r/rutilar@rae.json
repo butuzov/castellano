@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rutilar",
+	"word" : "rutilar",
+	"infinitivo" : "rutilar",
+	"participio" : [ "rutilado" ],
+	"gerundio" : [ "rutilando" ],
+	"tenses" : {
+		"3" : [
+			[ "rutilo" ],
+			[ "rutilas", "rutilás" ],
+			[ "rutila" ],
+			[ "rutilamos" ],
+			[ "rutiláis", "rutilan" ],
+			[ "rutilan" ]
+		],
+		"4" : [
+			[ "rutilé" ],
+			[ "rutilaste" ],
+			[ "rutiló" ],
+			[ "rutilamos" ],
+			[ "rutilasteis", "rutilaron" ],
+			[ "rutilaron" ]
+		],
+		"5" : [
+			[ "rutilaba" ],
+			[ "rutilabas" ],
+			[ "rutilaba" ],
+			[ "rutilábamos" ],
+			[ "rutilabais", "rutilaban" ],
+			[ "rutilaban" ]
+		],
+		"6" : [
+			[ "rutilaría" ],
+			[ "rutilarías" ],
+			[ "rutilaría" ],
+			[ "rutilaríamos" ],
+			[ "rutilaríais", "rutilarían" ],
+			[ "rutilarían" ]
+		],
+		"7" : [
+			[ "rutilaré" ],
+			[ "rutilarás" ],
+			[ "rutilará" ],
+			[ "rutilaremos" ],
+			[ "rutilaréis", "rutilarán" ],
+			[ "rutilarán" ]
+		],
+		"8" : [
+			[ "rutile" ],
+			[ "rutiles" ],
+			[ "rutile" ],
+			[ "rutilemos" ],
+			[ "rutiléis", "rutilen" ],
+			[ "rutilen" ]
+		],
+		"9" : [
+			[ "rutilara" ],
+			[ "rutilaras" ],
+			[ "rutilara" ],
+			[ "rutiláramos" ],
+			[ "rutilarais", "rutilaran" ],
+			[ "rutilaran" ]
+		],
+		"10" : [
+			[ "rutilase" ],
+			[ "rutilases" ],
+			[ "rutilase" ],
+			[ "rutilásemos" ],
+			[ "rutilaseis", "rutilasen" ],
+			[ "rutilasen" ]
+		],
+		"11" : [
+			[ "rutilare" ],
+			[ "rutilares" ],
+			[ "rutilare" ],
+			[ "rutiláremos" ],
+			[ "rutilareis", "rutilaren" ],
+			[ "rutilaren" ]
+		],
+		"12" : {
+			"1" : [ "rutila" ],
+			"2" : [ "rutile" ],
+			"3" : [ "rutilemos" ],
+			"4" : [ "rutilad" ],
+			"5" : [ "rutilen" ]
+		}
+	}
+}

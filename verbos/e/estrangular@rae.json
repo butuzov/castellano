@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estrangular",
+	"word" : "estrangular",
+	"infinitivo" : "estrangular",
+	"participio" : [ "estrangulado" ],
+	"gerundio" : [ "estrangulando" ],
+	"tenses" : {
+		"3" : [
+			[ "estrangulo" ],
+			[ "estrangulas", "estrangulás" ],
+			[ "estrangula" ],
+			[ "estrangulamos" ],
+			[ "estranguláis", "estrangulan" ],
+			[ "estrangulan" ]
+		],
+		"4" : [
+			[ "estrangulé" ],
+			[ "estrangulaste" ],
+			[ "estranguló" ],
+			[ "estrangulamos" ],
+			[ "estrangulasteis", "estrangularon" ],
+			[ "estrangularon" ]
+		],
+		"5" : [
+			[ "estrangulaba" ],
+			[ "estrangulabas" ],
+			[ "estrangulaba" ],
+			[ "estrangulábamos" ],
+			[ "estrangulabais", "estrangulaban" ],
+			[ "estrangulaban" ]
+		],
+		"6" : [
+			[ "estrangularía" ],
+			[ "estrangularías" ],
+			[ "estrangularía" ],
+			[ "estrangularíamos" ],
+			[ "estrangularíais", "estrangularían" ],
+			[ "estrangularían" ]
+		],
+		"7" : [
+			[ "estrangularé" ],
+			[ "estrangularás" ],
+			[ "estrangulará" ],
+			[ "estrangularemos" ],
+			[ "estrangularéis", "estrangularán" ],
+			[ "estrangularán" ]
+		],
+		"8" : [
+			[ "estrangule" ],
+			[ "estrangules" ],
+			[ "estrangule" ],
+			[ "estrangulemos" ],
+			[ "estranguléis", "estrangulen" ],
+			[ "estrangulen" ]
+		],
+		"9" : [
+			[ "estrangulara" ],
+			[ "estrangularas" ],
+			[ "estrangulara" ],
+			[ "estranguláramos" ],
+			[ "estrangularais", "estrangularan" ],
+			[ "estrangularan" ]
+		],
+		"10" : [
+			[ "estrangulase" ],
+			[ "estrangulases" ],
+			[ "estrangulase" ],
+			[ "estrangulásemos" ],
+			[ "estrangulaseis", "estrangulasen" ],
+			[ "estrangulasen" ]
+		],
+		"11" : [
+			[ "estrangulare" ],
+			[ "estrangulares" ],
+			[ "estrangulare" ],
+			[ "estranguláremos" ],
+			[ "estrangulareis", "estrangularen" ],
+			[ "estrangularen" ]
+		],
+		"12" : {
+			"1" : [ "estrangula" ],
+			"2" : [ "estrangule" ],
+			"3" : [ "estrangulemos" ],
+			"4" : [ "estrangulad" ],
+			"5" : [ "estrangulen" ]
+		}
+	}
+}

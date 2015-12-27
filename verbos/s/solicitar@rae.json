@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=solicitar",
+	"word" : "solicitar",
+	"infinitivo" : "solicitar",
+	"participio" : [ "solicitado" ],
+	"gerundio" : [ "solicitando" ],
+	"tenses" : {
+		"3" : [
+			[ "solicito" ],
+			[ "solicitas", "solicitás" ],
+			[ "solicita" ],
+			[ "solicitamos" ],
+			[ "solicitáis", "solicitan" ],
+			[ "solicitan" ]
+		],
+		"4" : [
+			[ "solicité" ],
+			[ "solicitaste" ],
+			[ "solicitó" ],
+			[ "solicitamos" ],
+			[ "solicitasteis", "solicitaron" ],
+			[ "solicitaron" ]
+		],
+		"5" : [
+			[ "solicitaba" ],
+			[ "solicitabas" ],
+			[ "solicitaba" ],
+			[ "solicitábamos" ],
+			[ "solicitabais", "solicitaban" ],
+			[ "solicitaban" ]
+		],
+		"6" : [
+			[ "solicitaría" ],
+			[ "solicitarías" ],
+			[ "solicitaría" ],
+			[ "solicitaríamos" ],
+			[ "solicitaríais", "solicitarían" ],
+			[ "solicitarían" ]
+		],
+		"7" : [
+			[ "solicitaré" ],
+			[ "solicitarás" ],
+			[ "solicitará" ],
+			[ "solicitaremos" ],
+			[ "solicitaréis", "solicitarán" ],
+			[ "solicitarán" ]
+		],
+		"8" : [
+			[ "solicite" ],
+			[ "solicites" ],
+			[ "solicite" ],
+			[ "solicitemos" ],
+			[ "solicitéis", "soliciten" ],
+			[ "soliciten" ]
+		],
+		"9" : [
+			[ "solicitara" ],
+			[ "solicitaras" ],
+			[ "solicitara" ],
+			[ "solicitáramos" ],
+			[ "solicitarais", "solicitaran" ],
+			[ "solicitaran" ]
+		],
+		"10" : [
+			[ "solicitase" ],
+			[ "solicitases" ],
+			[ "solicitase" ],
+			[ "solicitásemos" ],
+			[ "solicitaseis", "solicitasen" ],
+			[ "solicitasen" ]
+		],
+		"11" : [
+			[ "solicitare" ],
+			[ "solicitares" ],
+			[ "solicitare" ],
+			[ "solicitáremos" ],
+			[ "solicitareis", "solicitaren" ],
+			[ "solicitaren" ]
+		],
+		"12" : {
+			"1" : [ "solicita" ],
+			"2" : [ "solicite" ],
+			"3" : [ "solicitemos" ],
+			"4" : [ "solicitad" ],
+			"5" : [ "soliciten" ]
+		}
+	}
+}

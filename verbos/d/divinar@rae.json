@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=divinar",
+	"word" : "divinar",
+	"infinitivo" : "divinar",
+	"participio" : [ "divinado" ],
+	"gerundio" : [ "divinando" ],
+	"tenses" : {
+		"3" : [
+			[ "divino" ],
+			[ "divinas", "divinás" ],
+			[ "divina" ],
+			[ "divinamos" ],
+			[ "divináis", "divinan" ],
+			[ "divinan" ]
+		],
+		"4" : [
+			[ "diviné" ],
+			[ "divinaste" ],
+			[ "divinó" ],
+			[ "divinamos" ],
+			[ "divinasteis", "divinaron" ],
+			[ "divinaron" ]
+		],
+		"5" : [
+			[ "divinaba" ],
+			[ "divinabas" ],
+			[ "divinaba" ],
+			[ "divinábamos" ],
+			[ "divinabais", "divinaban" ],
+			[ "divinaban" ]
+		],
+		"6" : [
+			[ "divinaría" ],
+			[ "divinarías" ],
+			[ "divinaría" ],
+			[ "divinaríamos" ],
+			[ "divinaríais", "divinarían" ],
+			[ "divinarían" ]
+		],
+		"7" : [
+			[ "divinaré" ],
+			[ "divinarás" ],
+			[ "divinará" ],
+			[ "divinaremos" ],
+			[ "divinaréis", "divinarán" ],
+			[ "divinarán" ]
+		],
+		"8" : [
+			[ "divine" ],
+			[ "divines" ],
+			[ "divine" ],
+			[ "divinemos" ],
+			[ "divinéis", "divinen" ],
+			[ "divinen" ]
+		],
+		"9" : [
+			[ "divinara" ],
+			[ "divinaras" ],
+			[ "divinara" ],
+			[ "divináramos" ],
+			[ "divinarais", "divinaran" ],
+			[ "divinaran" ]
+		],
+		"10" : [
+			[ "divinase" ],
+			[ "divinases" ],
+			[ "divinase" ],
+			[ "divinásemos" ],
+			[ "divinaseis", "divinasen" ],
+			[ "divinasen" ]
+		],
+		"11" : [
+			[ "divinare" ],
+			[ "divinares" ],
+			[ "divinare" ],
+			[ "divináremos" ],
+			[ "divinareis", "divinaren" ],
+			[ "divinaren" ]
+		],
+		"12" : {
+			"1" : [ "divina" ],
+			"2" : [ "divine" ],
+			"3" : [ "divinemos" ],
+			"4" : [ "divinad" ],
+			"5" : [ "divinen" ]
+		}
+	}
+}

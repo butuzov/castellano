@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lidiar",
+	"word" : "lidiar",
+	"infinitivo" : "lidiar",
+	"participio" : [ "lidiado" ],
+	"gerundio" : [ "lidiando" ],
+	"tenses" : {
+		"3" : [
+			[ "lidio" ],
+			[ "lidias", "lidiás" ],
+			[ "lidia" ],
+			[ "lidiamos" ],
+			[ "lidiáis", "lidian" ],
+			[ "lidian" ]
+		],
+		"4" : [
+			[ "lidié" ],
+			[ "lidiaste" ],
+			[ "lidió" ],
+			[ "lidiamos" ],
+			[ "lidiasteis", "lidiaron" ],
+			[ "lidiaron" ]
+		],
+		"5" : [
+			[ "lidiaba" ],
+			[ "lidiabas" ],
+			[ "lidiaba" ],
+			[ "lidiábamos" ],
+			[ "lidiabais", "lidiaban" ],
+			[ "lidiaban" ]
+		],
+		"6" : [
+			[ "lidiaría" ],
+			[ "lidiarías" ],
+			[ "lidiaría" ],
+			[ "lidiaríamos" ],
+			[ "lidiaríais", "lidiarían" ],
+			[ "lidiarían" ]
+		],
+		"7" : [
+			[ "lidiaré" ],
+			[ "lidiarás" ],
+			[ "lidiará" ],
+			[ "lidiaremos" ],
+			[ "lidiaréis", "lidiarán" ],
+			[ "lidiarán" ]
+		],
+		"8" : [
+			[ "lidie" ],
+			[ "lidies" ],
+			[ "lidie" ],
+			[ "lidiemos" ],
+			[ "lidiéis", "lidien" ],
+			[ "lidien" ]
+		],
+		"9" : [
+			[ "lidiara" ],
+			[ "lidiaras" ],
+			[ "lidiara" ],
+			[ "lidiáramos" ],
+			[ "lidiarais", "lidiaran" ],
+			[ "lidiaran" ]
+		],
+		"10" : [
+			[ "lidiase" ],
+			[ "lidiases" ],
+			[ "lidiase" ],
+			[ "lidiásemos" ],
+			[ "lidiaseis", "lidiasen" ],
+			[ "lidiasen" ]
+		],
+		"11" : [
+			[ "lidiare" ],
+			[ "lidiares" ],
+			[ "lidiare" ],
+			[ "lidiáremos" ],
+			[ "lidiareis", "lidiaren" ],
+			[ "lidiaren" ]
+		],
+		"12" : {
+			"1" : [ "lidia" ],
+			"2" : [ "lidie" ],
+			"3" : [ "lidiemos" ],
+			"4" : [ "lidiad" ],
+			"5" : [ "lidien" ]
+		}
+	}
+}

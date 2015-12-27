@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remarcar",
+	"word" : "remarcar",
+	"infinitivo" : "remarcar",
+	"participio" : [ "remarcado" ],
+	"gerundio" : [ "remarcando" ],
+	"tenses" : {
+		"3" : [
+			[ "remarco" ],
+			[ "remarcas", "remarcás" ],
+			[ "remarca" ],
+			[ "remarcamos" ],
+			[ "remarcáis", "remarcan" ],
+			[ "remarcan" ]
+		],
+		"4" : [
+			[ "remarqué" ],
+			[ "remarcaste" ],
+			[ "remarcó" ],
+			[ "remarcamos" ],
+			[ "remarcasteis", "remarcaron" ],
+			[ "remarcaron" ]
+		],
+		"5" : [
+			[ "remarcaba" ],
+			[ "remarcabas" ],
+			[ "remarcaba" ],
+			[ "remarcábamos" ],
+			[ "remarcabais", "remarcaban" ],
+			[ "remarcaban" ]
+		],
+		"6" : [
+			[ "remarcaría" ],
+			[ "remarcarías" ],
+			[ "remarcaría" ],
+			[ "remarcaríamos" ],
+			[ "remarcaríais", "remarcarían" ],
+			[ "remarcarían" ]
+		],
+		"7" : [
+			[ "remarcaré" ],
+			[ "remarcarás" ],
+			[ "remarcará" ],
+			[ "remarcaremos" ],
+			[ "remarcaréis", "remarcarán" ],
+			[ "remarcarán" ]
+		],
+		"8" : [
+			[ "remarque" ],
+			[ "remarques" ],
+			[ "remarque" ],
+			[ "remarquemos" ],
+			[ "remarquéis", "remarquen" ],
+			[ "remarquen" ]
+		],
+		"9" : [
+			[ "remarcara" ],
+			[ "remarcaras" ],
+			[ "remarcara" ],
+			[ "remarcáramos" ],
+			[ "remarcarais", "remarcaran" ],
+			[ "remarcaran" ]
+		],
+		"10" : [
+			[ "remarcase" ],
+			[ "remarcases" ],
+			[ "remarcase" ],
+			[ "remarcásemos" ],
+			[ "remarcaseis", "remarcasen" ],
+			[ "remarcasen" ]
+		],
+		"11" : [
+			[ "remarcare" ],
+			[ "remarcares" ],
+			[ "remarcare" ],
+			[ "remarcáremos" ],
+			[ "remarcareis", "remarcaren" ],
+			[ "remarcaren" ]
+		],
+		"12" : {
+			"1" : [ "remarca" ],
+			"2" : [ "remarque" ],
+			"3" : [ "remarquemos" ],
+			"4" : [ "remarcad" ],
+			"5" : [ "remarquen" ]
+		}
+	}
+}

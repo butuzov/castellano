@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=exhibir",
+	"word" : "exhibir",
+	"infinitivo" : "exhibir",
+	"participio" : [ "exhibido" ],
+	"gerundio" : [ "exhibiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "exhibo" ],
+			[ "exhibes", "exhibís" ],
+			[ "exhibe" ],
+			[ "exhibimos" ],
+			[ "exhibís", "exhiben" ],
+			[ "exhiben" ]
+		],
+		"4" : [
+			[ "exhibí" ],
+			[ "exhibiste" ],
+			[ "exhibió" ],
+			[ "exhibimos" ],
+			[ "exhibisteis", "exhibieron" ],
+			[ "exhibieron" ]
+		],
+		"5" : [
+			[ "exhibía" ],
+			[ "exhibías" ],
+			[ "exhibía" ],
+			[ "exhibíamos" ],
+			[ "exhibíais", "exhibían" ],
+			[ "exhibían" ]
+		],
+		"6" : [
+			[ "exhibiría" ],
+			[ "exhibirías" ],
+			[ "exhibiría" ],
+			[ "exhibiríamos" ],
+			[ "exhibiríais", "exhibirían" ],
+			[ "exhibirían" ]
+		],
+		"7" : [
+			[ "exhibiré" ],
+			[ "exhibirás" ],
+			[ "exhibirá" ],
+			[ "exhibiremos" ],
+			[ "exhibiréis", "exhibirán" ],
+			[ "exhibirán" ]
+		],
+		"8" : [
+			[ "exhiba" ],
+			[ "exhibas" ],
+			[ "exhiba" ],
+			[ "exhibamos" ],
+			[ "exhibáis", "exhiban" ],
+			[ "exhiban" ]
+		],
+		"9" : [
+			[ "exhibiera" ],
+			[ "exhibieras" ],
+			[ "exhibiera" ],
+			[ "exhibiéramos" ],
+			[ "exhibierais", "exhibieran" ],
+			[ "exhibieran" ]
+		],
+		"10" : [
+			[ "exhibiese" ],
+			[ "exhibieses" ],
+			[ "exhibiese" ],
+			[ "exhibiésemos" ],
+			[ "exhibieseis", "exhibiesen" ],
+			[ "exhibiesen" ]
+		],
+		"11" : [
+			[ "exhibiere" ],
+			[ "exhibieres" ],
+			[ "exhibiere" ],
+			[ "exhibiéremos" ],
+			[ "exhibiereis", "exhibieren" ],
+			[ "exhibieren" ]
+		],
+		"12" : {
+			"1" : [ "exhibe" ],
+			"2" : [ "exhiba" ],
+			"3" : [ "exhibamos" ],
+			"4" : [ "exhibid" ],
+			"5" : [ "exhiban" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=predecir",
+	"word" : "predecir",
+	"infinitivo" : "predecir",
+	"participio" : [ "predicho" ],
+	"gerundio" : [ "prediciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "predigo" ],
+			[ "predices", "predecís" ],
+			[ "predice" ],
+			[ "predecimos" ],
+			[ "predecís", "predicen" ],
+			[ "predicen" ]
+		],
+		"4" : [
+			[ "predije" ],
+			[ "predijiste" ],
+			[ "predijo" ],
+			[ "predijimos" ],
+			[ "predijisteis", "predijeron" ],
+			[ "predijeron" ]
+		],
+		"5" : [
+			[ "predecía" ],
+			[ "predecías" ],
+			[ "predecía" ],
+			[ "predecíamos" ],
+			[ "predecíais", "predecían" ],
+			[ "predecían" ]
+		],
+		"6" : [
+			[ "prediría" ],
+			[ "predirías" ],
+			[ "prediría" ],
+			[ "prediríamos" ],
+			[ "prediríais", "predirían" ],
+			[ "predirían" ]
+		],
+		"7" : [
+			[ "prediré" ],
+			[ "predirás" ],
+			[ "predirá" ],
+			[ "prediremos" ],
+			[ "prediréis", "predirán" ],
+			[ "predirán" ]
+		],
+		"8" : [
+			[ "prediga" ],
+			[ "predigas" ],
+			[ "prediga" ],
+			[ "predigamos" ],
+			[ "predigáis", "predigan" ],
+			[ "predigan" ]
+		],
+		"9" : [
+			[ "predijera" ],
+			[ "predijeras" ],
+			[ "predijera" ],
+			[ "predijéramos" ],
+			[ "predijerais", "predijeran" ],
+			[ "predijeran" ]
+		],
+		"10" : [
+			[ "predijese" ],
+			[ "predijeses" ],
+			[ "predijese" ],
+			[ "predijésemos" ],
+			[ "predijeseis", "predijesen" ],
+			[ "predijesen" ]
+		],
+		"11" : [
+			[ "predijere" ],
+			[ "predijeres" ],
+			[ "predijere" ],
+			[ "predijéremos" ],
+			[ "predijereis", "predijeren" ],
+			[ "predijeren" ]
+		],
+		"12" : {
+			"1" : [ "predice" ],
+			"2" : [ "prediga" ],
+			"3" : [ "predigamos" ],
+			"4" : [ "predecid" ],
+			"5" : [ "predigan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=instituir",
+	"word" : "instituir",
+	"infinitivo" : "instituir",
+	"participio" : [ "instituido" ],
+	"gerundio" : [ "instituyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "instituyo" ],
+			[ "instituyes", "instituís" ],
+			[ "instituye" ],
+			[ "instituimos" ],
+			[ "instituís", "instituyen" ],
+			[ "instituyen" ]
+		],
+		"4" : [
+			[ "instituí" ],
+			[ "instituiste" ],
+			[ "instituyó" ],
+			[ "instituimos" ],
+			[ "instituisteis", "instituyeron" ],
+			[ "instituyeron" ]
+		],
+		"5" : [
+			[ "instituía" ],
+			[ "instituías" ],
+			[ "instituía" ],
+			[ "instituíamos" ],
+			[ "instituíais", "instituían" ],
+			[ "instituían" ]
+		],
+		"6" : [
+			[ "instituiría" ],
+			[ "instituirías" ],
+			[ "instituiría" ],
+			[ "instituiríamos" ],
+			[ "instituiríais", "instituirían" ],
+			[ "instituirían" ]
+		],
+		"7" : [
+			[ "instituiré" ],
+			[ "instituirás" ],
+			[ "instituirá" ],
+			[ "instituiremos" ],
+			[ "instituiréis", "instituirán" ],
+			[ "instituirán" ]
+		],
+		"8" : [
+			[ "instituya" ],
+			[ "instituyas" ],
+			[ "instituya" ],
+			[ "instituyamos" ],
+			[ "instituyáis", "instituyan" ],
+			[ "instituyan" ]
+		],
+		"9" : [
+			[ "instituyera" ],
+			[ "instituyeras" ],
+			[ "instituyera" ],
+			[ "instituyéramos" ],
+			[ "instituyerais", "instituyeran" ],
+			[ "instituyeran" ]
+		],
+		"10" : [
+			[ "instituyese" ],
+			[ "instituyeses" ],
+			[ "instituyese" ],
+			[ "instituyésemos" ],
+			[ "instituyeseis", "instituyesen" ],
+			[ "instituyesen" ]
+		],
+		"11" : [
+			[ "instituyere" ],
+			[ "instituyeres" ],
+			[ "instituyere" ],
+			[ "instituyéremos" ],
+			[ "instituyereis", "instituyeren" ],
+			[ "instituyeren" ]
+		],
+		"12" : {
+			"1" : [ "instituye" ],
+			"2" : [ "instituya" ],
+			"3" : [ "instituyamos" ],
+			"4" : [ "instituid" ],
+			"5" : [ "instituyan" ]
+		}
+	}
+}

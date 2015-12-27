@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rearmar",
+	"word" : "rearmar",
+	"infinitivo" : "rearmar",
+	"participio" : [ "rearmado" ],
+	"gerundio" : [ "rearmando" ],
+	"tenses" : {
+		"3" : [
+			[ "rearmo" ],
+			[ "rearmas", "rearmás" ],
+			[ "rearma" ],
+			[ "rearmamos" ],
+			[ "rearmáis", "rearman" ],
+			[ "rearman" ]
+		],
+		"4" : [
+			[ "rearmé" ],
+			[ "rearmaste" ],
+			[ "rearmó" ],
+			[ "rearmamos" ],
+			[ "rearmasteis", "rearmaron" ],
+			[ "rearmaron" ]
+		],
+		"5" : [
+			[ "rearmaba" ],
+			[ "rearmabas" ],
+			[ "rearmaba" ],
+			[ "rearmábamos" ],
+			[ "rearmabais", "rearmaban" ],
+			[ "rearmaban" ]
+		],
+		"6" : [
+			[ "rearmaría" ],
+			[ "rearmarías" ],
+			[ "rearmaría" ],
+			[ "rearmaríamos" ],
+			[ "rearmaríais", "rearmarían" ],
+			[ "rearmarían" ]
+		],
+		"7" : [
+			[ "rearmaré" ],
+			[ "rearmarás" ],
+			[ "rearmará" ],
+			[ "rearmaremos" ],
+			[ "rearmaréis", "rearmarán" ],
+			[ "rearmarán" ]
+		],
+		"8" : [
+			[ "rearme" ],
+			[ "rearmes" ],
+			[ "rearme" ],
+			[ "rearmemos" ],
+			[ "rearméis", "rearmen" ],
+			[ "rearmen" ]
+		],
+		"9" : [
+			[ "rearmara" ],
+			[ "rearmaras" ],
+			[ "rearmara" ],
+			[ "rearmáramos" ],
+			[ "rearmarais", "rearmaran" ],
+			[ "rearmaran" ]
+		],
+		"10" : [
+			[ "rearmase" ],
+			[ "rearmases" ],
+			[ "rearmase" ],
+			[ "rearmásemos" ],
+			[ "rearmaseis", "rearmasen" ],
+			[ "rearmasen" ]
+		],
+		"11" : [
+			[ "rearmare" ],
+			[ "rearmares" ],
+			[ "rearmare" ],
+			[ "rearmáremos" ],
+			[ "rearmareis", "rearmaren" ],
+			[ "rearmaren" ]
+		],
+		"12" : {
+			"1" : [ "rearma" ],
+			"2" : [ "rearme" ],
+			"3" : [ "rearmemos" ],
+			"4" : [ "rearmad" ],
+			"5" : [ "rearmen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=poder",
+	"word" : "poder",
+	"infinitivo" : "poder",
+	"participio" : [ "podido" ],
+	"gerundio" : [ "pudiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "puedo" ],
+			[ "puedes", "podés" ],
+			[ "puede" ],
+			[ "podemos" ],
+			[ "podéis", "pueden" ],
+			[ "pueden" ]
+		],
+		"4" : [
+			[ "pude" ],
+			[ "pudiste" ],
+			[ "pudo" ],
+			[ "pudimos" ],
+			[ "pudisteis", "pudieron" ],
+			[ "pudieron" ]
+		],
+		"5" : [
+			[ "podía" ],
+			[ "podías" ],
+			[ "podía" ],
+			[ "podíamos" ],
+			[ "podíais", "podían" ],
+			[ "podían" ]
+		],
+		"6" : [
+			[ "podría" ],
+			[ "podrías" ],
+			[ "podría" ],
+			[ "podríamos" ],
+			[ "podríais", "podrían" ],
+			[ "podrían" ]
+		],
+		"7" : [
+			[ "podré" ],
+			[ "podrás" ],
+			[ "podrá" ],
+			[ "podremos" ],
+			[ "podréis", "podrán" ],
+			[ "podrán" ]
+		],
+		"8" : [
+			[ "pueda" ],
+			[ "puedas" ],
+			[ "pueda" ],
+			[ "podamos" ],
+			[ "podáis", "puedan" ],
+			[ "puedan" ]
+		],
+		"9" : [
+			[ "pudiera" ],
+			[ "pudieras" ],
+			[ "pudiera" ],
+			[ "pudiéramos" ],
+			[ "pudierais", "pudieran" ],
+			[ "pudieran" ]
+		],
+		"10" : [
+			[ "pudiese" ],
+			[ "pudieses" ],
+			[ "pudiese" ],
+			[ "pudiésemos" ],
+			[ "pudieseis", "pudiesen" ],
+			[ "pudiesen" ]
+		],
+		"11" : [
+			[ "pudiere" ],
+			[ "pudieres" ],
+			[ "pudiere" ],
+			[ "pudiéremos" ],
+			[ "pudiereis", "pudieren" ],
+			[ "pudieren" ]
+		],
+		"12" : {
+			"1" : [ "puede" ],
+			"2" : [ "pueda" ],
+			"3" : [ "podamos" ],
+			"4" : [ "poded" ],
+			"5" : [ "puedan" ]
+		}
+	}
+}

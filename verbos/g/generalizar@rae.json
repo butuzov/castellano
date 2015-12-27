@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=generalizar",
+	"word" : "generalizar",
+	"infinitivo" : "generalizar",
+	"participio" : [ "generalizado" ],
+	"gerundio" : [ "generalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "generalizo" ],
+			[ "generalizas", "generalizás" ],
+			[ "generaliza" ],
+			[ "generalizamos" ],
+			[ "generalizáis", "generalizan" ],
+			[ "generalizan" ]
+		],
+		"4" : [
+			[ "generalicé" ],
+			[ "generalizaste" ],
+			[ "generalizó" ],
+			[ "generalizamos" ],
+			[ "generalizasteis", "generalizaron" ],
+			[ "generalizaron" ]
+		],
+		"5" : [
+			[ "generalizaba" ],
+			[ "generalizabas" ],
+			[ "generalizaba" ],
+			[ "generalizábamos" ],
+			[ "generalizabais", "generalizaban" ],
+			[ "generalizaban" ]
+		],
+		"6" : [
+			[ "generalizaría" ],
+			[ "generalizarías" ],
+			[ "generalizaría" ],
+			[ "generalizaríamos" ],
+			[ "generalizaríais", "generalizarían" ],
+			[ "generalizarían" ]
+		],
+		"7" : [
+			[ "generalizaré" ],
+			[ "generalizarás" ],
+			[ "generalizará" ],
+			[ "generalizaremos" ],
+			[ "generalizaréis", "generalizarán" ],
+			[ "generalizarán" ]
+		],
+		"8" : [
+			[ "generalice" ],
+			[ "generalices" ],
+			[ "generalice" ],
+			[ "generalicemos" ],
+			[ "generalicéis", "generalicen" ],
+			[ "generalicen" ]
+		],
+		"9" : [
+			[ "generalizara" ],
+			[ "generalizaras" ],
+			[ "generalizara" ],
+			[ "generalizáramos" ],
+			[ "generalizarais", "generalizaran" ],
+			[ "generalizaran" ]
+		],
+		"10" : [
+			[ "generalizase" ],
+			[ "generalizases" ],
+			[ "generalizase" ],
+			[ "generalizásemos" ],
+			[ "generalizaseis", "generalizasen" ],
+			[ "generalizasen" ]
+		],
+		"11" : [
+			[ "generalizare" ],
+			[ "generalizares" ],
+			[ "generalizare" ],
+			[ "generalizáremos" ],
+			[ "generalizareis", "generalizaren" ],
+			[ "generalizaren" ]
+		],
+		"12" : {
+			"1" : [ "generaliza" ],
+			"2" : [ "generalice" ],
+			"3" : [ "generalicemos" ],
+			"4" : [ "generalizad" ],
+			"5" : [ "generalicen" ]
+		}
+	}
+}

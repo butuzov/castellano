@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mesar",
+	"word" : "mesar",
+	"infinitivo" : "mesar",
+	"participio" : [ "mesado" ],
+	"gerundio" : [ "mesando" ],
+	"tenses" : {
+		"3" : [
+			[ "meso" ],
+			[ "mesas", "mesás" ],
+			[ "mesa" ],
+			[ "mesamos" ],
+			[ "mesáis", "mesan" ],
+			[ "mesan" ]
+		],
+		"4" : [
+			[ "mesé" ],
+			[ "mesaste" ],
+			[ "mesó" ],
+			[ "mesamos" ],
+			[ "mesasteis", "mesaron" ],
+			[ "mesaron" ]
+		],
+		"5" : [
+			[ "mesaba" ],
+			[ "mesabas" ],
+			[ "mesaba" ],
+			[ "mesábamos" ],
+			[ "mesabais", "mesaban" ],
+			[ "mesaban" ]
+		],
+		"6" : [
+			[ "mesaría" ],
+			[ "mesarías" ],
+			[ "mesaría" ],
+			[ "mesaríamos" ],
+			[ "mesaríais", "mesarían" ],
+			[ "mesarían" ]
+		],
+		"7" : [
+			[ "mesaré" ],
+			[ "mesarás" ],
+			[ "mesará" ],
+			[ "mesaremos" ],
+			[ "mesaréis", "mesarán" ],
+			[ "mesarán" ]
+		],
+		"8" : [
+			[ "mese" ],
+			[ "meses" ],
+			[ "mese" ],
+			[ "mesemos" ],
+			[ "meséis", "mesen" ],
+			[ "mesen" ]
+		],
+		"9" : [
+			[ "mesara" ],
+			[ "mesaras" ],
+			[ "mesara" ],
+			[ "mesáramos" ],
+			[ "mesarais", "mesaran" ],
+			[ "mesaran" ]
+		],
+		"10" : [
+			[ "mesase" ],
+			[ "mesases" ],
+			[ "mesase" ],
+			[ "mesásemos" ],
+			[ "mesaseis", "mesasen" ],
+			[ "mesasen" ]
+		],
+		"11" : [
+			[ "mesare" ],
+			[ "mesares" ],
+			[ "mesare" ],
+			[ "mesáremos" ],
+			[ "mesareis", "mesaren" ],
+			[ "mesaren" ]
+		],
+		"12" : {
+			"1" : [ "mesa" ],
+			"2" : [ "mese" ],
+			"3" : [ "mesemos" ],
+			"4" : [ "mesad" ],
+			"5" : [ "mesen" ]
+		}
+	}
+}

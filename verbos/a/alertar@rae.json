@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alertar",
+	"word" : "alertar",
+	"infinitivo" : "alertar",
+	"participio" : [ "alertado" ],
+	"gerundio" : [ "alertando" ],
+	"tenses" : {
+		"3" : [
+			[ "alerto" ],
+			[ "alertas", "alertás" ],
+			[ "alerta" ],
+			[ "alertamos" ],
+			[ "alertáis", "alertan" ],
+			[ "alertan" ]
+		],
+		"4" : [
+			[ "alerté" ],
+			[ "alertaste" ],
+			[ "alertó" ],
+			[ "alertamos" ],
+			[ "alertasteis", "alertaron" ],
+			[ "alertaron" ]
+		],
+		"5" : [
+			[ "alertaba" ],
+			[ "alertabas" ],
+			[ "alertaba" ],
+			[ "alertábamos" ],
+			[ "alertabais", "alertaban" ],
+			[ "alertaban" ]
+		],
+		"6" : [
+			[ "alertaría" ],
+			[ "alertarías" ],
+			[ "alertaría" ],
+			[ "alertaríamos" ],
+			[ "alertaríais", "alertarían" ],
+			[ "alertarían" ]
+		],
+		"7" : [
+			[ "alertaré" ],
+			[ "alertarás" ],
+			[ "alertará" ],
+			[ "alertaremos" ],
+			[ "alertaréis", "alertarán" ],
+			[ "alertarán" ]
+		],
+		"8" : [
+			[ "alerte" ],
+			[ "alertes" ],
+			[ "alerte" ],
+			[ "alertemos" ],
+			[ "alertéis", "alerten" ],
+			[ "alerten" ]
+		],
+		"9" : [
+			[ "alertara" ],
+			[ "alertaras" ],
+			[ "alertara" ],
+			[ "alertáramos" ],
+			[ "alertarais", "alertaran" ],
+			[ "alertaran" ]
+		],
+		"10" : [
+			[ "alertase" ],
+			[ "alertases" ],
+			[ "alertase" ],
+			[ "alertásemos" ],
+			[ "alertaseis", "alertasen" ],
+			[ "alertasen" ]
+		],
+		"11" : [
+			[ "alertare" ],
+			[ "alertares" ],
+			[ "alertare" ],
+			[ "alertáremos" ],
+			[ "alertareis", "alertaren" ],
+			[ "alertaren" ]
+		],
+		"12" : {
+			"1" : [ "alerta" ],
+			"2" : [ "alerte" ],
+			"3" : [ "alertemos" ],
+			"4" : [ "alertad" ],
+			"5" : [ "alerten" ]
+		}
+	}
+}

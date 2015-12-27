@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vegetar",
+	"word" : "vegetar",
+	"infinitivo" : "vegetar",
+	"participio" : [ "vegetado" ],
+	"gerundio" : [ "vegetando" ],
+	"tenses" : {
+		"3" : [
+			[ "vegeto" ],
+			[ "vegetas", "vegetás" ],
+			[ "vegeta" ],
+			[ "vegetamos" ],
+			[ "vegetáis", "vegetan" ],
+			[ "vegetan" ]
+		],
+		"4" : [
+			[ "vegeté" ],
+			[ "vegetaste" ],
+			[ "vegetó" ],
+			[ "vegetamos" ],
+			[ "vegetasteis", "vegetaron" ],
+			[ "vegetaron" ]
+		],
+		"5" : [
+			[ "vegetaba" ],
+			[ "vegetabas" ],
+			[ "vegetaba" ],
+			[ "vegetábamos" ],
+			[ "vegetabais", "vegetaban" ],
+			[ "vegetaban" ]
+		],
+		"6" : [
+			[ "vegetaría" ],
+			[ "vegetarías" ],
+			[ "vegetaría" ],
+			[ "vegetaríamos" ],
+			[ "vegetaríais", "vegetarían" ],
+			[ "vegetarían" ]
+		],
+		"7" : [
+			[ "vegetaré" ],
+			[ "vegetarás" ],
+			[ "vegetará" ],
+			[ "vegetaremos" ],
+			[ "vegetaréis", "vegetarán" ],
+			[ "vegetarán" ]
+		],
+		"8" : [
+			[ "vegete" ],
+			[ "vegetes" ],
+			[ "vegete" ],
+			[ "vegetemos" ],
+			[ "vegetéis", "vegeten" ],
+			[ "vegeten" ]
+		],
+		"9" : [
+			[ "vegetara" ],
+			[ "vegetaras" ],
+			[ "vegetara" ],
+			[ "vegetáramos" ],
+			[ "vegetarais", "vegetaran" ],
+			[ "vegetaran" ]
+		],
+		"10" : [
+			[ "vegetase" ],
+			[ "vegetases" ],
+			[ "vegetase" ],
+			[ "vegetásemos" ],
+			[ "vegetaseis", "vegetasen" ],
+			[ "vegetasen" ]
+		],
+		"11" : [
+			[ "vegetare" ],
+			[ "vegetares" ],
+			[ "vegetare" ],
+			[ "vegetáremos" ],
+			[ "vegetareis", "vegetaren" ],
+			[ "vegetaren" ]
+		],
+		"12" : {
+			"1" : [ "vegeta" ],
+			"2" : [ "vegete" ],
+			"3" : [ "vegetemos" ],
+			"4" : [ "vegetad" ],
+			"5" : [ "vegeten" ]
+		}
+	}
+}

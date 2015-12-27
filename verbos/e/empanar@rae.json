@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empanar",
+	"word" : "empanar",
+	"infinitivo" : "empanar",
+	"participio" : [ "empanado" ],
+	"gerundio" : [ "empanando" ],
+	"tenses" : {
+		"3" : [
+			[ "empano" ],
+			[ "empanas", "empanás" ],
+			[ "empana" ],
+			[ "empanamos" ],
+			[ "empanáis", "empanan" ],
+			[ "empanan" ]
+		],
+		"4" : [
+			[ "empané" ],
+			[ "empanaste" ],
+			[ "empanó" ],
+			[ "empanamos" ],
+			[ "empanasteis", "empanaron" ],
+			[ "empanaron" ]
+		],
+		"5" : [
+			[ "empanaba" ],
+			[ "empanabas" ],
+			[ "empanaba" ],
+			[ "empanábamos" ],
+			[ "empanabais", "empanaban" ],
+			[ "empanaban" ]
+		],
+		"6" : [
+			[ "empanaría" ],
+			[ "empanarías" ],
+			[ "empanaría" ],
+			[ "empanaríamos" ],
+			[ "empanaríais", "empanarían" ],
+			[ "empanarían" ]
+		],
+		"7" : [
+			[ "empanaré" ],
+			[ "empanarás" ],
+			[ "empanará" ],
+			[ "empanaremos" ],
+			[ "empanaréis", "empanarán" ],
+			[ "empanarán" ]
+		],
+		"8" : [
+			[ "empane" ],
+			[ "empanes" ],
+			[ "empane" ],
+			[ "empanemos" ],
+			[ "empanéis", "empanen" ],
+			[ "empanen" ]
+		],
+		"9" : [
+			[ "empanara" ],
+			[ "empanaras" ],
+			[ "empanara" ],
+			[ "empanáramos" ],
+			[ "empanarais", "empanaran" ],
+			[ "empanaran" ]
+		],
+		"10" : [
+			[ "empanase" ],
+			[ "empanases" ],
+			[ "empanase" ],
+			[ "empanásemos" ],
+			[ "empanaseis", "empanasen" ],
+			[ "empanasen" ]
+		],
+		"11" : [
+			[ "empanare" ],
+			[ "empanares" ],
+			[ "empanare" ],
+			[ "empanáremos" ],
+			[ "empanareis", "empanaren" ],
+			[ "empanaren" ]
+		],
+		"12" : {
+			"1" : [ "empana" ],
+			"2" : [ "empane" ],
+			"3" : [ "empanemos" ],
+			"4" : [ "empanad" ],
+			"5" : [ "empanen" ]
+		}
+	}
+}

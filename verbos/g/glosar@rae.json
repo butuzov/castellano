@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=glosar",
+	"word" : "glosar",
+	"infinitivo" : "glosar",
+	"participio" : [ "glosado" ],
+	"gerundio" : [ "glosando" ],
+	"tenses" : {
+		"3" : [
+			[ "gloso" ],
+			[ "glosas", "glosás" ],
+			[ "glosa" ],
+			[ "glosamos" ],
+			[ "glosáis", "glosan" ],
+			[ "glosan" ]
+		],
+		"4" : [
+			[ "glosé" ],
+			[ "glosaste" ],
+			[ "glosó" ],
+			[ "glosamos" ],
+			[ "glosasteis", "glosaron" ],
+			[ "glosaron" ]
+		],
+		"5" : [
+			[ "glosaba" ],
+			[ "glosabas" ],
+			[ "glosaba" ],
+			[ "glosábamos" ],
+			[ "glosabais", "glosaban" ],
+			[ "glosaban" ]
+		],
+		"6" : [
+			[ "glosaría" ],
+			[ "glosarías" ],
+			[ "glosaría" ],
+			[ "glosaríamos" ],
+			[ "glosaríais", "glosarían" ],
+			[ "glosarían" ]
+		],
+		"7" : [
+			[ "glosaré" ],
+			[ "glosarás" ],
+			[ "glosará" ],
+			[ "glosaremos" ],
+			[ "glosaréis", "glosarán" ],
+			[ "glosarán" ]
+		],
+		"8" : [
+			[ "glose" ],
+			[ "gloses" ],
+			[ "glose" ],
+			[ "glosemos" ],
+			[ "gloséis", "glosen" ],
+			[ "glosen" ]
+		],
+		"9" : [
+			[ "glosara" ],
+			[ "glosaras" ],
+			[ "glosara" ],
+			[ "glosáramos" ],
+			[ "glosarais", "glosaran" ],
+			[ "glosaran" ]
+		],
+		"10" : [
+			[ "glosase" ],
+			[ "glosases" ],
+			[ "glosase" ],
+			[ "glosásemos" ],
+			[ "glosaseis", "glosasen" ],
+			[ "glosasen" ]
+		],
+		"11" : [
+			[ "glosare" ],
+			[ "glosares" ],
+			[ "glosare" ],
+			[ "glosáremos" ],
+			[ "glosareis", "glosaren" ],
+			[ "glosaren" ]
+		],
+		"12" : {
+			"1" : [ "glosa" ],
+			"2" : [ "glose" ],
+			"3" : [ "glosemos" ],
+			"4" : [ "glosad" ],
+			"5" : [ "glosen" ]
+		}
+	}
+}

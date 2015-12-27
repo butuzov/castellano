@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aneblarse",
+	"word" : "aneblarse",
+	"infinitivo" : "aneblarse",
+	"participio" : [ "aneblado" ],
+	"gerundio" : [ "aneblándome", "aneblándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me anieblo" ],
+			[ "te anieblas", "te aneblás" ],
+			[ "se aniebla" ],
+			[ "nos aneblamos" ],
+			[ "os anebláis", "se anieblan" ],
+			[ "se anieblan" ]
+		],
+		"4" : [
+			[ "me aneblé" ],
+			[ "te aneblaste" ],
+			[ "se anebló" ],
+			[ "nos aneblamos" ],
+			[ "os aneblasteis", "se aneblaron" ],
+			[ "se aneblaron" ]
+		],
+		"5" : [
+			[ "me aneblaba" ],
+			[ "te aneblabas" ],
+			[ "se aneblaba" ],
+			[ "nos aneblábamos" ],
+			[ "os aneblabais", "se aneblaban" ],
+			[ "se aneblaban" ]
+		],
+		"6" : [
+			[ "me aneblaría" ],
+			[ "te aneblarías" ],
+			[ "se aneblaría" ],
+			[ "nos aneblaríamos" ],
+			[ "os aneblaríais", "se aneblarían" ],
+			[ "se aneblarían" ]
+		],
+		"7" : [
+			[ "me aneblaré" ],
+			[ "te aneblarás" ],
+			[ "se aneblará" ],
+			[ "nos aneblaremos" ],
+			[ "os aneblaréis", "se aneblarán" ],
+			[ "se aneblarán" ]
+		],
+		"8" : [
+			[ "me anieble" ],
+			[ "te aniebles" ],
+			[ "se anieble" ],
+			[ "nos aneblemos" ],
+			[ "os anebléis", "se anieblen" ],
+			[ "se anieblen" ]
+		],
+		"9" : [
+			[ "me aneblara" ],
+			[ "te aneblaras" ],
+			[ "se aneblara" ],
+			[ "nos anebláramos" ],
+			[ "os aneblarais", "se aneblaran" ],
+			[ "se aneblaran" ]
+		],
+		"10" : [
+			[ "me aneblase" ],
+			[ "te aneblases" ],
+			[ "se aneblase" ],
+			[ "nos aneblásemos" ],
+			[ "os aneblaseis", "se aneblasen" ],
+			[ "se aneblasen" ]
+		],
+		"11" : [
+			[ "me aneblare" ],
+			[ "te aneblares" ],
+			[ "se aneblare" ],
+			[ "nos anebláremos" ],
+			[ "os aneblareis", "se aneblaren" ],
+			[ "se aneblaren" ]
+		],
+		"12" : {
+			"1" : [ "aniéblate" ],
+			"2" : [ "anieble" ],
+			"3" : [ "aneblemos" ],
+			"4" : [ "aneblaos" ],
+			"5" : [ "aniéblense" ]
+		}
+	}
+}

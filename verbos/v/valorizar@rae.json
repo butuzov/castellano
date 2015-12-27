@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=valorizar",
+	"word" : "valorizar",
+	"infinitivo" : "valorizar",
+	"participio" : [ "valorizado" ],
+	"gerundio" : [ "valorizando" ],
+	"tenses" : {
+		"3" : [
+			[ "valorizo" ],
+			[ "valorizas", "valorizás" ],
+			[ "valoriza" ],
+			[ "valorizamos" ],
+			[ "valorizáis", "valorizan" ],
+			[ "valorizan" ]
+		],
+		"4" : [
+			[ "valoricé" ],
+			[ "valorizaste" ],
+			[ "valorizó" ],
+			[ "valorizamos" ],
+			[ "valorizasteis", "valorizaron" ],
+			[ "valorizaron" ]
+		],
+		"5" : [
+			[ "valorizaba" ],
+			[ "valorizabas" ],
+			[ "valorizaba" ],
+			[ "valorizábamos" ],
+			[ "valorizabais", "valorizaban" ],
+			[ "valorizaban" ]
+		],
+		"6" : [
+			[ "valorizaría" ],
+			[ "valorizarías" ],
+			[ "valorizaría" ],
+			[ "valorizaríamos" ],
+			[ "valorizaríais", "valorizarían" ],
+			[ "valorizarían" ]
+		],
+		"7" : [
+			[ "valorizaré" ],
+			[ "valorizarás" ],
+			[ "valorizará" ],
+			[ "valorizaremos" ],
+			[ "valorizaréis", "valorizarán" ],
+			[ "valorizarán" ]
+		],
+		"8" : [
+			[ "valorice" ],
+			[ "valorices" ],
+			[ "valorice" ],
+			[ "valoricemos" ],
+			[ "valoricéis", "valoricen" ],
+			[ "valoricen" ]
+		],
+		"9" : [
+			[ "valorizara" ],
+			[ "valorizaras" ],
+			[ "valorizara" ],
+			[ "valorizáramos" ],
+			[ "valorizarais", "valorizaran" ],
+			[ "valorizaran" ]
+		],
+		"10" : [
+			[ "valorizase" ],
+			[ "valorizases" ],
+			[ "valorizase" ],
+			[ "valorizásemos" ],
+			[ "valorizaseis", "valorizasen" ],
+			[ "valorizasen" ]
+		],
+		"11" : [
+			[ "valorizare" ],
+			[ "valorizares" ],
+			[ "valorizare" ],
+			[ "valorizáremos" ],
+			[ "valorizareis", "valorizaren" ],
+			[ "valorizaren" ]
+		],
+		"12" : {
+			"1" : [ "valoriza" ],
+			"2" : [ "valorice" ],
+			"3" : [ "valoricemos" ],
+			"4" : [ "valorizad" ],
+			"5" : [ "valoricen" ]
+		}
+	}
+}

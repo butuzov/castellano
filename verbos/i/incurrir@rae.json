@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incurrir",
+	"word" : "incurrir",
+	"infinitivo" : "incurrir",
+	"participio" : [ "incurrido" ],
+	"gerundio" : [ "incurriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "incurro" ],
+			[ "incurres", "incurrís" ],
+			[ "incurre" ],
+			[ "incurrimos" ],
+			[ "incurrís", "incurren" ],
+			[ "incurren" ]
+		],
+		"4" : [
+			[ "incurrí" ],
+			[ "incurriste" ],
+			[ "incurrió" ],
+			[ "incurrimos" ],
+			[ "incurristeis", "incurrieron" ],
+			[ "incurrieron" ]
+		],
+		"5" : [
+			[ "incurría" ],
+			[ "incurrías" ],
+			[ "incurría" ],
+			[ "incurríamos" ],
+			[ "incurríais", "incurrían" ],
+			[ "incurrían" ]
+		],
+		"6" : [
+			[ "incurriría" ],
+			[ "incurrirías" ],
+			[ "incurriría" ],
+			[ "incurriríamos" ],
+			[ "incurriríais", "incurrirían" ],
+			[ "incurrirían" ]
+		],
+		"7" : [
+			[ "incurriré" ],
+			[ "incurrirás" ],
+			[ "incurrirá" ],
+			[ "incurriremos" ],
+			[ "incurriréis", "incurrirán" ],
+			[ "incurrirán" ]
+		],
+		"8" : [
+			[ "incurra" ],
+			[ "incurras" ],
+			[ "incurra" ],
+			[ "incurramos" ],
+			[ "incurráis", "incurran" ],
+			[ "incurran" ]
+		],
+		"9" : [
+			[ "incurriera" ],
+			[ "incurrieras" ],
+			[ "incurriera" ],
+			[ "incurriéramos" ],
+			[ "incurrierais", "incurrieran" ],
+			[ "incurrieran" ]
+		],
+		"10" : [
+			[ "incurriese" ],
+			[ "incurrieses" ],
+			[ "incurriese" ],
+			[ "incurriésemos" ],
+			[ "incurrieseis", "incurriesen" ],
+			[ "incurriesen" ]
+		],
+		"11" : [
+			[ "incurriere" ],
+			[ "incurrieres" ],
+			[ "incurriere" ],
+			[ "incurriéremos" ],
+			[ "incurriereis", "incurrieren" ],
+			[ "incurrieren" ]
+		],
+		"12" : {
+			"1" : [ "incurre" ],
+			"2" : [ "incurra" ],
+			"3" : [ "incurramos" ],
+			"4" : [ "incurrid" ],
+			"5" : [ "incurran" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desolar",
+	"word" : "desolar",
+	"infinitivo" : "desolar",
+	"participio" : [ "desolado" ],
+	"gerundio" : [ "desolando" ],
+	"tenses" : {
+		"3" : [
+			[ "desuelo" ],
+			[ "desuelas", "desolás" ],
+			[ "desuela" ],
+			[ "desolamos" ],
+			[ "desoláis", "desuelan" ],
+			[ "desuelan" ]
+		],
+		"4" : [
+			[ "desolé" ],
+			[ "desolaste" ],
+			[ "desoló" ],
+			[ "desolamos" ],
+			[ "desolasteis", "desolaron" ],
+			[ "desolaron" ]
+		],
+		"5" : [
+			[ "desolaba" ],
+			[ "desolabas" ],
+			[ "desolaba" ],
+			[ "desolábamos" ],
+			[ "desolabais", "desolaban" ],
+			[ "desolaban" ]
+		],
+		"6" : [
+			[ "desolaría" ],
+			[ "desolarías" ],
+			[ "desolaría" ],
+			[ "desolaríamos" ],
+			[ "desolaríais", "desolarían" ],
+			[ "desolarían" ]
+		],
+		"7" : [
+			[ "desolaré" ],
+			[ "desolarás" ],
+			[ "desolará" ],
+			[ "desolaremos" ],
+			[ "desolaréis", "desolarán" ],
+			[ "desolarán" ]
+		],
+		"8" : [
+			[ "desuele" ],
+			[ "desueles" ],
+			[ "desuele" ],
+			[ "desolemos" ],
+			[ "desoléis", "desuelen" ],
+			[ "desuelen" ]
+		],
+		"9" : [
+			[ "desolara" ],
+			[ "desolaras" ],
+			[ "desolara" ],
+			[ "desoláramos" ],
+			[ "desolarais", "desolaran" ],
+			[ "desolaran" ]
+		],
+		"10" : [
+			[ "desolase" ],
+			[ "desolases" ],
+			[ "desolase" ],
+			[ "desolásemos" ],
+			[ "desolaseis", "desolasen" ],
+			[ "desolasen" ]
+		],
+		"11" : [
+			[ "desolare" ],
+			[ "desolares" ],
+			[ "desolare" ],
+			[ "desoláremos" ],
+			[ "desolareis", "desolaren" ],
+			[ "desolaren" ]
+		],
+		"12" : {
+			"1" : [ "desuela" ],
+			"2" : [ "desuele" ],
+			"3" : [ "desolemos" ],
+			"4" : [ "desolad" ],
+			"5" : [ "desuelen" ]
+		}
+	}
+}

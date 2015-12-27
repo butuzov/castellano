@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atizar",
+	"word" : "atizar",
+	"infinitivo" : "atizar",
+	"participio" : [ "atizado" ],
+	"gerundio" : [ "atizando" ],
+	"tenses" : {
+		"3" : [
+			[ "atizo" ],
+			[ "atizas", "atizás" ],
+			[ "atiza" ],
+			[ "atizamos" ],
+			[ "atizáis", "atizan" ],
+			[ "atizan" ]
+		],
+		"4" : [
+			[ "aticé" ],
+			[ "atizaste" ],
+			[ "atizó" ],
+			[ "atizamos" ],
+			[ "atizasteis", "atizaron" ],
+			[ "atizaron" ]
+		],
+		"5" : [
+			[ "atizaba" ],
+			[ "atizabas" ],
+			[ "atizaba" ],
+			[ "atizábamos" ],
+			[ "atizabais", "atizaban" ],
+			[ "atizaban" ]
+		],
+		"6" : [
+			[ "atizaría" ],
+			[ "atizarías" ],
+			[ "atizaría" ],
+			[ "atizaríamos" ],
+			[ "atizaríais", "atizarían" ],
+			[ "atizarían" ]
+		],
+		"7" : [
+			[ "atizaré" ],
+			[ "atizarás" ],
+			[ "atizará" ],
+			[ "atizaremos" ],
+			[ "atizaréis", "atizarán" ],
+			[ "atizarán" ]
+		],
+		"8" : [
+			[ "atice" ],
+			[ "atices" ],
+			[ "atice" ],
+			[ "aticemos" ],
+			[ "aticéis", "aticen" ],
+			[ "aticen" ]
+		],
+		"9" : [
+			[ "atizara" ],
+			[ "atizaras" ],
+			[ "atizara" ],
+			[ "atizáramos" ],
+			[ "atizarais", "atizaran" ],
+			[ "atizaran" ]
+		],
+		"10" : [
+			[ "atizase" ],
+			[ "atizases" ],
+			[ "atizase" ],
+			[ "atizásemos" ],
+			[ "atizaseis", "atizasen" ],
+			[ "atizasen" ]
+		],
+		"11" : [
+			[ "atizare" ],
+			[ "atizares" ],
+			[ "atizare" ],
+			[ "atizáremos" ],
+			[ "atizareis", "atizaren" ],
+			[ "atizaren" ]
+		],
+		"12" : {
+			"1" : [ "atiza" ],
+			"2" : [ "atice" ],
+			"3" : [ "aticemos" ],
+			"4" : [ "atizad" ],
+			"5" : [ "aticen" ]
+		}
+	}
+}

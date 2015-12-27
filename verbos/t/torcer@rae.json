@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=torcer",
+	"word" : "torcer",
+	"infinitivo" : "torcer",
+	"participio" : [ "torcido" ],
+	"gerundio" : [ "torciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "tuerzo" ],
+			[ "tuerces", "torcés" ],
+			[ "tuerce" ],
+			[ "torcemos" ],
+			[ "torcéis", "tuercen" ],
+			[ "tuercen" ]
+		],
+		"4" : [
+			[ "torcí" ],
+			[ "torciste" ],
+			[ "torció" ],
+			[ "torcimos" ],
+			[ "torcisteis", "torcieron" ],
+			[ "torcieron" ]
+		],
+		"5" : [
+			[ "torcía" ],
+			[ "torcías" ],
+			[ "torcía" ],
+			[ "torcíamos" ],
+			[ "torcíais", "torcían" ],
+			[ "torcían" ]
+		],
+		"6" : [
+			[ "torcería" ],
+			[ "torcerías" ],
+			[ "torcería" ],
+			[ "torceríamos" ],
+			[ "torceríais", "torcerían" ],
+			[ "torcerían" ]
+		],
+		"7" : [
+			[ "torceré" ],
+			[ "torcerás" ],
+			[ "torcerá" ],
+			[ "torceremos" ],
+			[ "torceréis", "torcerán" ],
+			[ "torcerán" ]
+		],
+		"8" : [
+			[ "tuerza" ],
+			[ "tuerzas" ],
+			[ "tuerza" ],
+			[ "torzamos" ],
+			[ "torzáis", "tuerzan" ],
+			[ "tuerzan" ]
+		],
+		"9" : [
+			[ "torciera" ],
+			[ "torcieras" ],
+			[ "torciera" ],
+			[ "torciéramos" ],
+			[ "torcierais", "torcieran" ],
+			[ "torcieran" ]
+		],
+		"10" : [
+			[ "torciese" ],
+			[ "torcieses" ],
+			[ "torciese" ],
+			[ "torciésemos" ],
+			[ "torcieseis", "torciesen" ],
+			[ "torciesen" ]
+		],
+		"11" : [
+			[ "torciere" ],
+			[ "torcieres" ],
+			[ "torciere" ],
+			[ "torciéremos" ],
+			[ "torciereis", "torcieren" ],
+			[ "torcieren" ]
+		],
+		"12" : {
+			"1" : [ "tuerce" ],
+			"2" : [ "tuerza" ],
+			"3" : [ "torzamos" ],
+			"4" : [ "torced" ],
+			"5" : [ "tuerzan" ]
+		}
+	}
+}

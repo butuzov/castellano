@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trasladar",
+	"word" : "trasladar",
+	"infinitivo" : "trasladar",
+	"participio" : [ "trasladado" ],
+	"gerundio" : [ "trasladando" ],
+	"tenses" : {
+		"3" : [
+			[ "traslado" ],
+			[ "trasladas", "trasladás" ],
+			[ "traslada" ],
+			[ "trasladamos" ],
+			[ "trasladáis", "trasladan" ],
+			[ "trasladan" ]
+		],
+		"4" : [
+			[ "trasladé" ],
+			[ "trasladaste" ],
+			[ "trasladó" ],
+			[ "trasladamos" ],
+			[ "trasladasteis", "trasladaron" ],
+			[ "trasladaron" ]
+		],
+		"5" : [
+			[ "trasladaba" ],
+			[ "trasladabas" ],
+			[ "trasladaba" ],
+			[ "trasladábamos" ],
+			[ "trasladabais", "trasladaban" ],
+			[ "trasladaban" ]
+		],
+		"6" : [
+			[ "trasladaría" ],
+			[ "trasladarías" ],
+			[ "trasladaría" ],
+			[ "trasladaríamos" ],
+			[ "trasladaríais", "trasladarían" ],
+			[ "trasladarían" ]
+		],
+		"7" : [
+			[ "trasladaré" ],
+			[ "trasladarás" ],
+			[ "trasladará" ],
+			[ "trasladaremos" ],
+			[ "trasladaréis", "trasladarán" ],
+			[ "trasladarán" ]
+		],
+		"8" : [
+			[ "traslade" ],
+			[ "traslades" ],
+			[ "traslade" ],
+			[ "traslademos" ],
+			[ "trasladéis", "trasladen" ],
+			[ "trasladen" ]
+		],
+		"9" : [
+			[ "trasladara" ],
+			[ "trasladaras" ],
+			[ "trasladara" ],
+			[ "trasladáramos" ],
+			[ "trasladarais", "trasladaran" ],
+			[ "trasladaran" ]
+		],
+		"10" : [
+			[ "trasladase" ],
+			[ "trasladases" ],
+			[ "trasladase" ],
+			[ "trasladásemos" ],
+			[ "trasladaseis", "trasladasen" ],
+			[ "trasladasen" ]
+		],
+		"11" : [
+			[ "trasladare" ],
+			[ "trasladares" ],
+			[ "trasladare" ],
+			[ "trasladáremos" ],
+			[ "trasladareis", "trasladaren" ],
+			[ "trasladaren" ]
+		],
+		"12" : {
+			"1" : [ "traslada" ],
+			"2" : [ "traslade" ],
+			"3" : [ "traslademos" ],
+			"4" : [ "trasladad" ],
+			"5" : [ "trasladen" ]
+		}
+	}
+}

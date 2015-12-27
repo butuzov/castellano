@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=antedatar",
+	"word" : "antedatar",
+	"infinitivo" : "antedatar",
+	"participio" : [ "antedatado" ],
+	"gerundio" : [ "antedatando" ],
+	"tenses" : {
+		"3" : [
+			[ "antedato" ],
+			[ "antedatas", "antedatás" ],
+			[ "antedata" ],
+			[ "antedatamos" ],
+			[ "antedatáis", "antedatan" ],
+			[ "antedatan" ]
+		],
+		"4" : [
+			[ "antedaté" ],
+			[ "antedataste" ],
+			[ "antedató" ],
+			[ "antedatamos" ],
+			[ "antedatasteis", "antedataron" ],
+			[ "antedataron" ]
+		],
+		"5" : [
+			[ "antedataba" ],
+			[ "antedatabas" ],
+			[ "antedataba" ],
+			[ "antedatábamos" ],
+			[ "antedatabais", "antedataban" ],
+			[ "antedataban" ]
+		],
+		"6" : [
+			[ "antedataría" ],
+			[ "antedatarías" ],
+			[ "antedataría" ],
+			[ "antedataríamos" ],
+			[ "antedataríais", "antedatarían" ],
+			[ "antedatarían" ]
+		],
+		"7" : [
+			[ "antedataré" ],
+			[ "antedatarás" ],
+			[ "antedatará" ],
+			[ "antedataremos" ],
+			[ "antedataréis", "antedatarán" ],
+			[ "antedatarán" ]
+		],
+		"8" : [
+			[ "antedate" ],
+			[ "antedates" ],
+			[ "antedate" ],
+			[ "antedatemos" ],
+			[ "antedatéis", "antedaten" ],
+			[ "antedaten" ]
+		],
+		"9" : [
+			[ "antedatara" ],
+			[ "antedataras" ],
+			[ "antedatara" ],
+			[ "antedatáramos" ],
+			[ "antedatarais", "antedataran" ],
+			[ "antedataran" ]
+		],
+		"10" : [
+			[ "antedatase" ],
+			[ "antedatases" ],
+			[ "antedatase" ],
+			[ "antedatásemos" ],
+			[ "antedataseis", "antedatasen" ],
+			[ "antedatasen" ]
+		],
+		"11" : [
+			[ "antedatare" ],
+			[ "antedatares" ],
+			[ "antedatare" ],
+			[ "antedatáremos" ],
+			[ "antedatareis", "antedataren" ],
+			[ "antedataren" ]
+		],
+		"12" : {
+			"1" : [ "antedata" ],
+			"2" : [ "antedate" ],
+			"3" : [ "antedatemos" ],
+			"4" : [ "antedatad" ],
+			"5" : [ "antedaten" ]
+		}
+	}
+}

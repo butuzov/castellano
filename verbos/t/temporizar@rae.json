@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=temporizar",
+	"word" : "temporizar",
+	"infinitivo" : "temporizar",
+	"participio" : [ "temporizado" ],
+	"gerundio" : [ "temporizando" ],
+	"tenses" : {
+		"3" : [
+			[ "temporizo" ],
+			[ "temporizas", "temporizás" ],
+			[ "temporiza" ],
+			[ "temporizamos" ],
+			[ "temporizáis", "temporizan" ],
+			[ "temporizan" ]
+		],
+		"4" : [
+			[ "temporicé" ],
+			[ "temporizaste" ],
+			[ "temporizó" ],
+			[ "temporizamos" ],
+			[ "temporizasteis", "temporizaron" ],
+			[ "temporizaron" ]
+		],
+		"5" : [
+			[ "temporizaba" ],
+			[ "temporizabas" ],
+			[ "temporizaba" ],
+			[ "temporizábamos" ],
+			[ "temporizabais", "temporizaban" ],
+			[ "temporizaban" ]
+		],
+		"6" : [
+			[ "temporizaría" ],
+			[ "temporizarías" ],
+			[ "temporizaría" ],
+			[ "temporizaríamos" ],
+			[ "temporizaríais", "temporizarían" ],
+			[ "temporizarían" ]
+		],
+		"7" : [
+			[ "temporizaré" ],
+			[ "temporizarás" ],
+			[ "temporizará" ],
+			[ "temporizaremos" ],
+			[ "temporizaréis", "temporizarán" ],
+			[ "temporizarán" ]
+		],
+		"8" : [
+			[ "temporice" ],
+			[ "temporices" ],
+			[ "temporice" ],
+			[ "temporicemos" ],
+			[ "temporicéis", "temporicen" ],
+			[ "temporicen" ]
+		],
+		"9" : [
+			[ "temporizara" ],
+			[ "temporizaras" ],
+			[ "temporizara" ],
+			[ "temporizáramos" ],
+			[ "temporizarais", "temporizaran" ],
+			[ "temporizaran" ]
+		],
+		"10" : [
+			[ "temporizase" ],
+			[ "temporizases" ],
+			[ "temporizase" ],
+			[ "temporizásemos" ],
+			[ "temporizaseis", "temporizasen" ],
+			[ "temporizasen" ]
+		],
+		"11" : [
+			[ "temporizare" ],
+			[ "temporizares" ],
+			[ "temporizare" ],
+			[ "temporizáremos" ],
+			[ "temporizareis", "temporizaren" ],
+			[ "temporizaren" ]
+		],
+		"12" : {
+			"1" : [ "temporiza" ],
+			"2" : [ "temporice" ],
+			"3" : [ "temporicemos" ],
+			"4" : [ "temporizad" ],
+			"5" : [ "temporicen" ]
+		}
+	}
+}

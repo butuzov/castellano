@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=impacientar",
+	"word" : "impacientar",
+	"infinitivo" : "impacientar",
+	"participio" : [ "impacientado" ],
+	"gerundio" : [ "impacientando" ],
+	"tenses" : {
+		"3" : [
+			[ "impaciento" ],
+			[ "impacientas", "impacientás" ],
+			[ "impacienta" ],
+			[ "impacientamos" ],
+			[ "impacientáis", "impacientan" ],
+			[ "impacientan" ]
+		],
+		"4" : [
+			[ "impacienté" ],
+			[ "impacientaste" ],
+			[ "impacientó" ],
+			[ "impacientamos" ],
+			[ "impacientasteis", "impacientaron" ],
+			[ "impacientaron" ]
+		],
+		"5" : [
+			[ "impacientaba" ],
+			[ "impacientabas" ],
+			[ "impacientaba" ],
+			[ "impacientábamos" ],
+			[ "impacientabais", "impacientaban" ],
+			[ "impacientaban" ]
+		],
+		"6" : [
+			[ "impacientaría" ],
+			[ "impacientarías" ],
+			[ "impacientaría" ],
+			[ "impacientaríamos" ],
+			[ "impacientaríais", "impacientarían" ],
+			[ "impacientarían" ]
+		],
+		"7" : [
+			[ "impacientaré" ],
+			[ "impacientarás" ],
+			[ "impacientará" ],
+			[ "impacientaremos" ],
+			[ "impacientaréis", "impacientarán" ],
+			[ "impacientarán" ]
+		],
+		"8" : [
+			[ "impaciente" ],
+			[ "impacientes" ],
+			[ "impaciente" ],
+			[ "impacientemos" ],
+			[ "impacientéis", "impacienten" ],
+			[ "impacienten" ]
+		],
+		"9" : [
+			[ "impacientara" ],
+			[ "impacientaras" ],
+			[ "impacientara" ],
+			[ "impacientáramos" ],
+			[ "impacientarais", "impacientaran" ],
+			[ "impacientaran" ]
+		],
+		"10" : [
+			[ "impacientase" ],
+			[ "impacientases" ],
+			[ "impacientase" ],
+			[ "impacientásemos" ],
+			[ "impacientaseis", "impacientasen" ],
+			[ "impacientasen" ]
+		],
+		"11" : [
+			[ "impacientare" ],
+			[ "impacientares" ],
+			[ "impacientare" ],
+			[ "impacientáremos" ],
+			[ "impacientareis", "impacientaren" ],
+			[ "impacientaren" ]
+		],
+		"12" : {
+			"1" : [ "impacienta" ],
+			"2" : [ "impaciente" ],
+			"3" : [ "impacientemos" ],
+			"4" : [ "impacientad" ],
+			"5" : [ "impacienten" ]
+		}
+	}
+}

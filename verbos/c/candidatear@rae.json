@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=candidatear",
+	"word" : "candidatear",
+	"infinitivo" : "candidatear",
+	"participio" : [ "candidateado" ],
+	"gerundio" : [ "candidateando" ],
+	"tenses" : {
+		"3" : [
+			[ "candidateo" ],
+			[ "candidateas", "candidateás" ],
+			[ "candidatea" ],
+			[ "candidateamos" ],
+			[ "candidateáis", "candidatean" ],
+			[ "candidatean" ]
+		],
+		"4" : [
+			[ "candidateé" ],
+			[ "candidateaste" ],
+			[ "candidateó" ],
+			[ "candidateamos" ],
+			[ "candidateasteis", "candidatearon" ],
+			[ "candidatearon" ]
+		],
+		"5" : [
+			[ "candidateaba" ],
+			[ "candidateabas" ],
+			[ "candidateaba" ],
+			[ "candidateábamos" ],
+			[ "candidateabais", "candidateaban" ],
+			[ "candidateaban" ]
+		],
+		"6" : [
+			[ "candidatearía" ],
+			[ "candidatearías" ],
+			[ "candidatearía" ],
+			[ "candidatearíamos" ],
+			[ "candidatearíais", "candidatearían" ],
+			[ "candidatearían" ]
+		],
+		"7" : [
+			[ "candidatearé" ],
+			[ "candidatearás" ],
+			[ "candidateará" ],
+			[ "candidatearemos" ],
+			[ "candidatearéis", "candidatearán" ],
+			[ "candidatearán" ]
+		],
+		"8" : [
+			[ "candidatee" ],
+			[ "candidatees" ],
+			[ "candidatee" ],
+			[ "candidateemos" ],
+			[ "candidateéis", "candidateen" ],
+			[ "candidateen" ]
+		],
+		"9" : [
+			[ "candidateara" ],
+			[ "candidatearas" ],
+			[ "candidateara" ],
+			[ "candidateáramos" ],
+			[ "candidatearais", "candidatearan" ],
+			[ "candidatearan" ]
+		],
+		"10" : [
+			[ "candidatease" ],
+			[ "candidateases" ],
+			[ "candidatease" ],
+			[ "candidateásemos" ],
+			[ "candidateaseis", "candidateasen" ],
+			[ "candidateasen" ]
+		],
+		"11" : [
+			[ "candidateare" ],
+			[ "candidateares" ],
+			[ "candidateare" ],
+			[ "candidateáremos" ],
+			[ "candidateareis", "candidatearen" ],
+			[ "candidatearen" ]
+		],
+		"12" : {
+			"1" : [ "candidatea" ],
+			"2" : [ "candidatee" ],
+			"3" : [ "candidateemos" ],
+			"4" : [ "candidatead" ],
+			"5" : [ "candidateen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escalar",
+	"word" : "escalar",
+	"infinitivo" : "escalar",
+	"participio" : [ "escalado" ],
+	"gerundio" : [ "escalando" ],
+	"tenses" : {
+		"3" : [
+			[ "escalo" ],
+			[ "escalas", "escalás" ],
+			[ "escala" ],
+			[ "escalamos" ],
+			[ "escaláis", "escalan" ],
+			[ "escalan" ]
+		],
+		"4" : [
+			[ "escalé" ],
+			[ "escalaste" ],
+			[ "escaló" ],
+			[ "escalamos" ],
+			[ "escalasteis", "escalaron" ],
+			[ "escalaron" ]
+		],
+		"5" : [
+			[ "escalaba" ],
+			[ "escalabas" ],
+			[ "escalaba" ],
+			[ "escalábamos" ],
+			[ "escalabais", "escalaban" ],
+			[ "escalaban" ]
+		],
+		"6" : [
+			[ "escalaría" ],
+			[ "escalarías" ],
+			[ "escalaría" ],
+			[ "escalaríamos" ],
+			[ "escalaríais", "escalarían" ],
+			[ "escalarían" ]
+		],
+		"7" : [
+			[ "escalaré" ],
+			[ "escalarás" ],
+			[ "escalará" ],
+			[ "escalaremos" ],
+			[ "escalaréis", "escalarán" ],
+			[ "escalarán" ]
+		],
+		"8" : [
+			[ "escale" ],
+			[ "escales" ],
+			[ "escale" ],
+			[ "escalemos" ],
+			[ "escaléis", "escalen" ],
+			[ "escalen" ]
+		],
+		"9" : [
+			[ "escalara" ],
+			[ "escalaras" ],
+			[ "escalara" ],
+			[ "escaláramos" ],
+			[ "escalarais", "escalaran" ],
+			[ "escalaran" ]
+		],
+		"10" : [
+			[ "escalase" ],
+			[ "escalases" ],
+			[ "escalase" ],
+			[ "escalásemos" ],
+			[ "escalaseis", "escalasen" ],
+			[ "escalasen" ]
+		],
+		"11" : [
+			[ "escalare" ],
+			[ "escalares" ],
+			[ "escalare" ],
+			[ "escaláremos" ],
+			[ "escalareis", "escalaren" ],
+			[ "escalaren" ]
+		],
+		"12" : {
+			"1" : [ "escala" ],
+			"2" : [ "escale" ],
+			"3" : [ "escalemos" ],
+			"4" : [ "escalad" ],
+			"5" : [ "escalen" ]
+		}
+	}
+}

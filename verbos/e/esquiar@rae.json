@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esquiar",
+	"word" : "esquiar",
+	"infinitivo" : "esquiar",
+	"participio" : [ "esquiado" ],
+	"gerundio" : [ "esquiando" ],
+	"tenses" : {
+		"3" : [
+			[ "esquío" ],
+			[ "esquías", "esquiás" ],
+			[ "esquía" ],
+			[ "esquiamos" ],
+			[ "esquiáis", "esquían" ],
+			[ "esquían" ]
+		],
+		"4" : [
+			[ "esquié" ],
+			[ "esquiaste" ],
+			[ "esquió" ],
+			[ "esquiamos" ],
+			[ "esquiasteis", "esquiaron" ],
+			[ "esquiaron" ]
+		],
+		"5" : [
+			[ "esquiaba" ],
+			[ "esquiabas" ],
+			[ "esquiaba" ],
+			[ "esquiábamos" ],
+			[ "esquiabais", "esquiaban" ],
+			[ "esquiaban" ]
+		],
+		"6" : [
+			[ "esquiaría" ],
+			[ "esquiarías" ],
+			[ "esquiaría" ],
+			[ "esquiaríamos" ],
+			[ "esquiaríais", "esquiarían" ],
+			[ "esquiarían" ]
+		],
+		"7" : [
+			[ "esquiaré" ],
+			[ "esquiarás" ],
+			[ "esquiará" ],
+			[ "esquiaremos" ],
+			[ "esquiaréis", "esquiarán" ],
+			[ "esquiarán" ]
+		],
+		"8" : [
+			[ "esquíe" ],
+			[ "esquíes" ],
+			[ "esquíe" ],
+			[ "esquiemos" ],
+			[ "esquiéis", "esquíen" ],
+			[ "esquíen" ]
+		],
+		"9" : [
+			[ "esquiara" ],
+			[ "esquiaras" ],
+			[ "esquiara" ],
+			[ "esquiáramos" ],
+			[ "esquiarais", "esquiaran" ],
+			[ "esquiaran" ]
+		],
+		"10" : [
+			[ "esquiase" ],
+			[ "esquiases" ],
+			[ "esquiase" ],
+			[ "esquiásemos" ],
+			[ "esquiaseis", "esquiasen" ],
+			[ "esquiasen" ]
+		],
+		"11" : [
+			[ "esquiare" ],
+			[ "esquiares" ],
+			[ "esquiare" ],
+			[ "esquiáremos" ],
+			[ "esquiareis", "esquiaren" ],
+			[ "esquiaren" ]
+		],
+		"12" : {
+			"1" : [ "esquía" ],
+			"2" : [ "esquíe" ],
+			"3" : [ "esquiemos" ],
+			"4" : [ "esquiad" ],
+			"5" : [ "esquíen" ]
+		}
+	}
+}

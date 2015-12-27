@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abarracar",
+	"word" : "abarracar",
+	"infinitivo" : "abarracar",
+	"participio" : [ "abarracado" ],
+	"gerundio" : [ "abarracando" ],
+	"tenses" : {
+		"3" : [
+			[ "abarraco" ],
+			[ "abarracas", "abarracás" ],
+			[ "abarraca" ],
+			[ "abarracamos" ],
+			[ "abarracáis", "abarracan" ],
+			[ "abarracan" ]
+		],
+		"4" : [
+			[ "abarraqué" ],
+			[ "abarracaste" ],
+			[ "abarracó" ],
+			[ "abarracamos" ],
+			[ "abarracasteis", "abarracaron" ],
+			[ "abarracaron" ]
+		],
+		"5" : [
+			[ "abarracaba" ],
+			[ "abarracabas" ],
+			[ "abarracaba" ],
+			[ "abarracábamos" ],
+			[ "abarracabais", "abarracaban" ],
+			[ "abarracaban" ]
+		],
+		"6" : [
+			[ "abarracaría" ],
+			[ "abarracarías" ],
+			[ "abarracaría" ],
+			[ "abarracaríamos" ],
+			[ "abarracaríais", "abarracarían" ],
+			[ "abarracarían" ]
+		],
+		"7" : [
+			[ "abarracaré" ],
+			[ "abarracarás" ],
+			[ "abarracará" ],
+			[ "abarracaremos" ],
+			[ "abarracaréis", "abarracarán" ],
+			[ "abarracarán" ]
+		],
+		"8" : [
+			[ "abarraque" ],
+			[ "abarraques" ],
+			[ "abarraque" ],
+			[ "abarraquemos" ],
+			[ "abarraquéis", "abarraquen" ],
+			[ "abarraquen" ]
+		],
+		"9" : [
+			[ "abarracara" ],
+			[ "abarracaras" ],
+			[ "abarracara" ],
+			[ "abarracáramos" ],
+			[ "abarracarais", "abarracaran" ],
+			[ "abarracaran" ]
+		],
+		"10" : [
+			[ "abarracase" ],
+			[ "abarracases" ],
+			[ "abarracase" ],
+			[ "abarracásemos" ],
+			[ "abarracaseis", "abarracasen" ],
+			[ "abarracasen" ]
+		],
+		"11" : [
+			[ "abarracare" ],
+			[ "abarracares" ],
+			[ "abarracare" ],
+			[ "abarracáremos" ],
+			[ "abarracareis", "abarracaren" ],
+			[ "abarracaren" ]
+		],
+		"12" : {
+			"1" : [ "abarraca" ],
+			"2" : [ "abarraque" ],
+			"3" : [ "abarraquemos" ],
+			"4" : [ "abarracad" ],
+			"5" : [ "abarraquen" ]
+		}
+	}
+}

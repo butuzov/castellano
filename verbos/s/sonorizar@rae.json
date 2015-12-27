@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sonorizar",
+	"word" : "sonorizar",
+	"infinitivo" : "sonorizar",
+	"participio" : [ "sonorizado" ],
+	"gerundio" : [ "sonorizando" ],
+	"tenses" : {
+		"3" : [
+			[ "sonorizo" ],
+			[ "sonorizas", "sonorizás" ],
+			[ "sonoriza" ],
+			[ "sonorizamos" ],
+			[ "sonorizáis", "sonorizan" ],
+			[ "sonorizan" ]
+		],
+		"4" : [
+			[ "sonoricé" ],
+			[ "sonorizaste" ],
+			[ "sonorizó" ],
+			[ "sonorizamos" ],
+			[ "sonorizasteis", "sonorizaron" ],
+			[ "sonorizaron" ]
+		],
+		"5" : [
+			[ "sonorizaba" ],
+			[ "sonorizabas" ],
+			[ "sonorizaba" ],
+			[ "sonorizábamos" ],
+			[ "sonorizabais", "sonorizaban" ],
+			[ "sonorizaban" ]
+		],
+		"6" : [
+			[ "sonorizaría" ],
+			[ "sonorizarías" ],
+			[ "sonorizaría" ],
+			[ "sonorizaríamos" ],
+			[ "sonorizaríais", "sonorizarían" ],
+			[ "sonorizarían" ]
+		],
+		"7" : [
+			[ "sonorizaré" ],
+			[ "sonorizarás" ],
+			[ "sonorizará" ],
+			[ "sonorizaremos" ],
+			[ "sonorizaréis", "sonorizarán" ],
+			[ "sonorizarán" ]
+		],
+		"8" : [
+			[ "sonorice" ],
+			[ "sonorices" ],
+			[ "sonorice" ],
+			[ "sonoricemos" ],
+			[ "sonoricéis", "sonoricen" ],
+			[ "sonoricen" ]
+		],
+		"9" : [
+			[ "sonorizara" ],
+			[ "sonorizaras" ],
+			[ "sonorizara" ],
+			[ "sonorizáramos" ],
+			[ "sonorizarais", "sonorizaran" ],
+			[ "sonorizaran" ]
+		],
+		"10" : [
+			[ "sonorizase" ],
+			[ "sonorizases" ],
+			[ "sonorizase" ],
+			[ "sonorizásemos" ],
+			[ "sonorizaseis", "sonorizasen" ],
+			[ "sonorizasen" ]
+		],
+		"11" : [
+			[ "sonorizare" ],
+			[ "sonorizares" ],
+			[ "sonorizare" ],
+			[ "sonorizáremos" ],
+			[ "sonorizareis", "sonorizaren" ],
+			[ "sonorizaren" ]
+		],
+		"12" : {
+			"1" : [ "sonoriza" ],
+			"2" : [ "sonorice" ],
+			"3" : [ "sonoricemos" ],
+			"4" : [ "sonorizad" ],
+			"5" : [ "sonoricen" ]
+		}
+	}
+}

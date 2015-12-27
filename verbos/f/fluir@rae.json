@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fluir",
+	"word" : "fluir",
+	"infinitivo" : "fluir",
+	"participio" : [ "fluido" ],
+	"gerundio" : [ "fluyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "fluyo" ],
+			[ "fluyes", "fluis" ],
+			[ "fluye" ],
+			[ "fluimos" ],
+			[ "fluis", "fluyen" ],
+			[ "fluyen" ]
+		],
+		"4" : [
+			[ "flui" ],
+			[ "fluiste" ],
+			[ "fluyó" ],
+			[ "fluimos" ],
+			[ "fluisteis", "fluyeron" ],
+			[ "fluyeron" ]
+		],
+		"5" : [
+			[ "fluía" ],
+			[ "fluías" ],
+			[ "fluía" ],
+			[ "fluíamos" ],
+			[ "fluíais", "fluían" ],
+			[ "fluían" ]
+		],
+		"6" : [
+			[ "fluiría" ],
+			[ "fluirías" ],
+			[ "fluiría" ],
+			[ "fluiríamos" ],
+			[ "fluiríais", "fluirían" ],
+			[ "fluirían" ]
+		],
+		"7" : [
+			[ "fluiré" ],
+			[ "fluirás" ],
+			[ "fluirá" ],
+			[ "fluiremos" ],
+			[ "fluiréis", "fluirán" ],
+			[ "fluirán" ]
+		],
+		"8" : [
+			[ "fluya" ],
+			[ "fluyas" ],
+			[ "fluya" ],
+			[ "fluyamos" ],
+			[ "fluyáis", "fluyan" ],
+			[ "fluyan" ]
+		],
+		"9" : [
+			[ "fluyera" ],
+			[ "fluyeras" ],
+			[ "fluyera" ],
+			[ "fluyéramos" ],
+			[ "fluyerais", "fluyeran" ],
+			[ "fluyeran" ]
+		],
+		"10" : [
+			[ "fluyese" ],
+			[ "fluyeses" ],
+			[ "fluyese" ],
+			[ "fluyésemos" ],
+			[ "fluyeseis", "fluyesen" ],
+			[ "fluyesen" ]
+		],
+		"11" : [
+			[ "fluyere" ],
+			[ "fluyeres" ],
+			[ "fluyere" ],
+			[ "fluyéremos" ],
+			[ "fluyereis", "fluyeren" ],
+			[ "fluyeren" ]
+		],
+		"12" : {
+			"1" : [ "fluye" ],
+			"2" : [ "fluya" ],
+			"3" : [ "fluyamos" ],
+			"4" : [ "fluid" ],
+			"5" : [ "fluyan" ]
+		}
+	}
+}

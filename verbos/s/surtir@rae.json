@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=surtir",
+	"word" : "surtir",
+	"infinitivo" : "surtir",
+	"participio" : [ "surtido" ],
+	"gerundio" : [ "surtiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "surto" ],
+			[ "surtes", "surtís" ],
+			[ "surte" ],
+			[ "surtimos" ],
+			[ "surtís", "surten" ],
+			[ "surten" ]
+		],
+		"4" : [
+			[ "surtí" ],
+			[ "surtiste" ],
+			[ "surtió" ],
+			[ "surtimos" ],
+			[ "surtisteis", "surtieron" ],
+			[ "surtieron" ]
+		],
+		"5" : [
+			[ "surtía" ],
+			[ "surtías" ],
+			[ "surtía" ],
+			[ "surtíamos" ],
+			[ "surtíais", "surtían" ],
+			[ "surtían" ]
+		],
+		"6" : [
+			[ "surtiría" ],
+			[ "surtirías" ],
+			[ "surtiría" ],
+			[ "surtiríamos" ],
+			[ "surtiríais", "surtirían" ],
+			[ "surtirían" ]
+		],
+		"7" : [
+			[ "surtiré" ],
+			[ "surtirás" ],
+			[ "surtirá" ],
+			[ "surtiremos" ],
+			[ "surtiréis", "surtirán" ],
+			[ "surtirán" ]
+		],
+		"8" : [
+			[ "surta" ],
+			[ "surtas" ],
+			[ "surta" ],
+			[ "surtamos" ],
+			[ "surtáis", "surtan" ],
+			[ "surtan" ]
+		],
+		"9" : [
+			[ "surtiera" ],
+			[ "surtieras" ],
+			[ "surtiera" ],
+			[ "surtiéramos" ],
+			[ "surtierais", "surtieran" ],
+			[ "surtieran" ]
+		],
+		"10" : [
+			[ "surtiese" ],
+			[ "surtieses" ],
+			[ "surtiese" ],
+			[ "surtiésemos" ],
+			[ "surtieseis", "surtiesen" ],
+			[ "surtiesen" ]
+		],
+		"11" : [
+			[ "surtiere" ],
+			[ "surtieres" ],
+			[ "surtiere" ],
+			[ "surtiéremos" ],
+			[ "surtiereis", "surtieren" ],
+			[ "surtieren" ]
+		],
+		"12" : {
+			"1" : [ "surte" ],
+			"2" : [ "surta" ],
+			"3" : [ "surtamos" ],
+			"4" : [ "surtid" ],
+			"5" : [ "surtan" ]
+		}
+	}
+}

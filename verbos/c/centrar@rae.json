@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=centrar",
+	"word" : "centrar",
+	"infinitivo" : "centrar",
+	"participio" : [ "centrado" ],
+	"gerundio" : [ "centrando" ],
+	"tenses" : {
+		"3" : [
+			[ "centro" ],
+			[ "centras", "centrás" ],
+			[ "centra" ],
+			[ "centramos" ],
+			[ "centráis", "centran" ],
+			[ "centran" ]
+		],
+		"4" : [
+			[ "centré" ],
+			[ "centraste" ],
+			[ "centró" ],
+			[ "centramos" ],
+			[ "centrasteis", "centraron" ],
+			[ "centraron" ]
+		],
+		"5" : [
+			[ "centraba" ],
+			[ "centrabas" ],
+			[ "centraba" ],
+			[ "centrábamos" ],
+			[ "centrabais", "centraban" ],
+			[ "centraban" ]
+		],
+		"6" : [
+			[ "centraría" ],
+			[ "centrarías" ],
+			[ "centraría" ],
+			[ "centraríamos" ],
+			[ "centraríais", "centrarían" ],
+			[ "centrarían" ]
+		],
+		"7" : [
+			[ "centraré" ],
+			[ "centrarás" ],
+			[ "centrará" ],
+			[ "centraremos" ],
+			[ "centraréis", "centrarán" ],
+			[ "centrarán" ]
+		],
+		"8" : [
+			[ "centre" ],
+			[ "centres" ],
+			[ "centre" ],
+			[ "centremos" ],
+			[ "centréis", "centren" ],
+			[ "centren" ]
+		],
+		"9" : [
+			[ "centrara" ],
+			[ "centraras" ],
+			[ "centrara" ],
+			[ "centráramos" ],
+			[ "centrarais", "centraran" ],
+			[ "centraran" ]
+		],
+		"10" : [
+			[ "centrase" ],
+			[ "centrases" ],
+			[ "centrase" ],
+			[ "centrásemos" ],
+			[ "centraseis", "centrasen" ],
+			[ "centrasen" ]
+		],
+		"11" : [
+			[ "centrare" ],
+			[ "centrares" ],
+			[ "centrare" ],
+			[ "centráremos" ],
+			[ "centrareis", "centraren" ],
+			[ "centraren" ]
+		],
+		"12" : {
+			"1" : [ "centra" ],
+			"2" : [ "centre" ],
+			"3" : [ "centremos" ],
+			"4" : [ "centrad" ],
+			"5" : [ "centren" ]
+		}
+	}
+}

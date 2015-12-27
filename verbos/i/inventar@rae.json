@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inventar",
+	"word" : "inventar",
+	"infinitivo" : "inventar",
+	"participio" : [ "inventado" ],
+	"gerundio" : [ "inventando" ],
+	"tenses" : {
+		"3" : [
+			[ "invento" ],
+			[ "inventas", "inventás" ],
+			[ "inventa" ],
+			[ "inventamos" ],
+			[ "inventáis", "inventan" ],
+			[ "inventan" ]
+		],
+		"4" : [
+			[ "inventé" ],
+			[ "inventaste" ],
+			[ "inventó" ],
+			[ "inventamos" ],
+			[ "inventasteis", "inventaron" ],
+			[ "inventaron" ]
+		],
+		"5" : [
+			[ "inventaba" ],
+			[ "inventabas" ],
+			[ "inventaba" ],
+			[ "inventábamos" ],
+			[ "inventabais", "inventaban" ],
+			[ "inventaban" ]
+		],
+		"6" : [
+			[ "inventaría" ],
+			[ "inventarías" ],
+			[ "inventaría" ],
+			[ "inventaríamos" ],
+			[ "inventaríais", "inventarían" ],
+			[ "inventarían" ]
+		],
+		"7" : [
+			[ "inventaré" ],
+			[ "inventarás" ],
+			[ "inventará" ],
+			[ "inventaremos" ],
+			[ "inventaréis", "inventarán" ],
+			[ "inventarán" ]
+		],
+		"8" : [
+			[ "invente" ],
+			[ "inventes" ],
+			[ "invente" ],
+			[ "inventemos" ],
+			[ "inventéis", "inventen" ],
+			[ "inventen" ]
+		],
+		"9" : [
+			[ "inventara" ],
+			[ "inventaras" ],
+			[ "inventara" ],
+			[ "inventáramos" ],
+			[ "inventarais", "inventaran" ],
+			[ "inventaran" ]
+		],
+		"10" : [
+			[ "inventase" ],
+			[ "inventases" ],
+			[ "inventase" ],
+			[ "inventásemos" ],
+			[ "inventaseis", "inventasen" ],
+			[ "inventasen" ]
+		],
+		"11" : [
+			[ "inventare" ],
+			[ "inventares" ],
+			[ "inventare" ],
+			[ "inventáremos" ],
+			[ "inventareis", "inventaren" ],
+			[ "inventaren" ]
+		],
+		"12" : {
+			"1" : [ "inventa" ],
+			"2" : [ "invente" ],
+			"3" : [ "inventemos" ],
+			"4" : [ "inventad" ],
+			"5" : [ "inventen" ]
+		}
+	}
+}

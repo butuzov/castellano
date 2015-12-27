@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=influir",
+	"word" : "influir",
+	"infinitivo" : "influir",
+	"participio" : [ "influido" ],
+	"gerundio" : [ "influyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "influyo" ],
+			[ "influyes", "influís" ],
+			[ "influye" ],
+			[ "influimos" ],
+			[ "influís", "influyen" ],
+			[ "influyen" ]
+		],
+		"4" : [
+			[ "influí" ],
+			[ "influiste" ],
+			[ "influyó" ],
+			[ "influimos" ],
+			[ "influisteis", "influyeron" ],
+			[ "influyeron" ]
+		],
+		"5" : [
+			[ "influía" ],
+			[ "influías" ],
+			[ "influía" ],
+			[ "influíamos" ],
+			[ "influíais", "influían" ],
+			[ "influían" ]
+		],
+		"6" : [
+			[ "influiría" ],
+			[ "influirías" ],
+			[ "influiría" ],
+			[ "influiríamos" ],
+			[ "influiríais", "influirían" ],
+			[ "influirían" ]
+		],
+		"7" : [
+			[ "influiré" ],
+			[ "influirás" ],
+			[ "influirá" ],
+			[ "influiremos" ],
+			[ "influiréis", "influirán" ],
+			[ "influirán" ]
+		],
+		"8" : [
+			[ "influya" ],
+			[ "influyas" ],
+			[ "influya" ],
+			[ "influyamos" ],
+			[ "influyáis", "influyan" ],
+			[ "influyan" ]
+		],
+		"9" : [
+			[ "influyera" ],
+			[ "influyeras" ],
+			[ "influyera" ],
+			[ "influyéramos" ],
+			[ "influyerais", "influyeran" ],
+			[ "influyeran" ]
+		],
+		"10" : [
+			[ "influyese" ],
+			[ "influyeses" ],
+			[ "influyese" ],
+			[ "influyésemos" ],
+			[ "influyeseis", "influyesen" ],
+			[ "influyesen" ]
+		],
+		"11" : [
+			[ "influyere" ],
+			[ "influyeres" ],
+			[ "influyere" ],
+			[ "influyéremos" ],
+			[ "influyereis", "influyeren" ],
+			[ "influyeren" ]
+		],
+		"12" : {
+			"1" : [ "influye" ],
+			"2" : [ "influya" ],
+			"3" : [ "influyamos" ],
+			"4" : [ "influid" ],
+			"5" : [ "influyan" ]
+		}
+	}
+}

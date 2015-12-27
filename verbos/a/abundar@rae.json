@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abundar",
+	"word" : "abundar",
+	"infinitivo" : "abundar",
+	"participio" : [ "abundado" ],
+	"gerundio" : [ "abundando" ],
+	"tenses" : {
+		"3" : [
+			[ "abundo" ],
+			[ "abundas", "abundás" ],
+			[ "abunda" ],
+			[ "abundamos" ],
+			[ "abundáis", "abundan" ],
+			[ "abundan" ]
+		],
+		"4" : [
+			[ "abundé" ],
+			[ "abundaste" ],
+			[ "abundó" ],
+			[ "abundamos" ],
+			[ "abundasteis", "abundaron" ],
+			[ "abundaron" ]
+		],
+		"5" : [
+			[ "abundaba" ],
+			[ "abundabas" ],
+			[ "abundaba" ],
+			[ "abundábamos" ],
+			[ "abundabais", "abundaban" ],
+			[ "abundaban" ]
+		],
+		"6" : [
+			[ "abundaría" ],
+			[ "abundarías" ],
+			[ "abundaría" ],
+			[ "abundaríamos" ],
+			[ "abundaríais", "abundarían" ],
+			[ "abundarían" ]
+		],
+		"7" : [
+			[ "abundaré" ],
+			[ "abundarás" ],
+			[ "abundará" ],
+			[ "abundaremos" ],
+			[ "abundaréis", "abundarán" ],
+			[ "abundarán" ]
+		],
+		"8" : [
+			[ "abunde" ],
+			[ "abundes" ],
+			[ "abunde" ],
+			[ "abundemos" ],
+			[ "abundéis", "abunden" ],
+			[ "abunden" ]
+		],
+		"9" : [
+			[ "abundara" ],
+			[ "abundaras" ],
+			[ "abundara" ],
+			[ "abundáramos" ],
+			[ "abundarais", "abundaran" ],
+			[ "abundaran" ]
+		],
+		"10" : [
+			[ "abundase" ],
+			[ "abundases" ],
+			[ "abundase" ],
+			[ "abundásemos" ],
+			[ "abundaseis", "abundasen" ],
+			[ "abundasen" ]
+		],
+		"11" : [
+			[ "abundare" ],
+			[ "abundares" ],
+			[ "abundare" ],
+			[ "abundáremos" ],
+			[ "abundareis", "abundaren" ],
+			[ "abundaren" ]
+		],
+		"12" : {
+			"1" : [ "abunda" ],
+			"2" : [ "abunde" ],
+			"3" : [ "abundemos" ],
+			"4" : [ "abundad" ],
+			"5" : [ "abunden" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escaquear",
+	"word" : "escaquear",
+	"infinitivo" : "escaquear",
+	"participio" : [ "escaqueado" ],
+	"gerundio" : [ "escaqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "escaqueo" ],
+			[ "escaqueas", "escaqueás" ],
+			[ "escaquea" ],
+			[ "escaqueamos" ],
+			[ "escaqueáis", "escaquean" ],
+			[ "escaquean" ]
+		],
+		"4" : [
+			[ "escaqueé" ],
+			[ "escaqueaste" ],
+			[ "escaqueó" ],
+			[ "escaqueamos" ],
+			[ "escaqueasteis", "escaquearon" ],
+			[ "escaquearon" ]
+		],
+		"5" : [
+			[ "escaqueaba" ],
+			[ "escaqueabas" ],
+			[ "escaqueaba" ],
+			[ "escaqueábamos" ],
+			[ "escaqueabais", "escaqueaban" ],
+			[ "escaqueaban" ]
+		],
+		"6" : [
+			[ "escaquearía" ],
+			[ "escaquearías" ],
+			[ "escaquearía" ],
+			[ "escaquearíamos" ],
+			[ "escaquearíais", "escaquearían" ],
+			[ "escaquearían" ]
+		],
+		"7" : [
+			[ "escaquearé" ],
+			[ "escaquearás" ],
+			[ "escaqueará" ],
+			[ "escaquearemos" ],
+			[ "escaquearéis", "escaquearán" ],
+			[ "escaquearán" ]
+		],
+		"8" : [
+			[ "escaquee" ],
+			[ "escaquees" ],
+			[ "escaquee" ],
+			[ "escaqueemos" ],
+			[ "escaqueéis", "escaqueen" ],
+			[ "escaqueen" ]
+		],
+		"9" : [
+			[ "escaqueara" ],
+			[ "escaquearas" ],
+			[ "escaqueara" ],
+			[ "escaqueáramos" ],
+			[ "escaquearais", "escaquearan" ],
+			[ "escaquearan" ]
+		],
+		"10" : [
+			[ "escaquease" ],
+			[ "escaqueases" ],
+			[ "escaquease" ],
+			[ "escaqueásemos" ],
+			[ "escaqueaseis", "escaqueasen" ],
+			[ "escaqueasen" ]
+		],
+		"11" : [
+			[ "escaqueare" ],
+			[ "escaqueares" ],
+			[ "escaqueare" ],
+			[ "escaqueáremos" ],
+			[ "escaqueareis", "escaquearen" ],
+			[ "escaquearen" ]
+		],
+		"12" : {
+			"1" : [ "escaquea" ],
+			"2" : [ "escaquee" ],
+			"3" : [ "escaqueemos" ],
+			"4" : [ "escaquead" ],
+			"5" : [ "escaqueen" ]
+		}
+	}
+}

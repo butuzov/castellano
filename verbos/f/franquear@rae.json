@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=franquear",
+	"word" : "franquear",
+	"infinitivo" : "franquear",
+	"participio" : [ "franqueado" ],
+	"gerundio" : [ "franqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "franqueo" ],
+			[ "franqueas", "franqueás" ],
+			[ "franquea" ],
+			[ "franqueamos" ],
+			[ "franqueáis", "franquean" ],
+			[ "franquean" ]
+		],
+		"4" : [
+			[ "franqueé" ],
+			[ "franqueaste" ],
+			[ "franqueó" ],
+			[ "franqueamos" ],
+			[ "franqueasteis", "franquearon" ],
+			[ "franquearon" ]
+		],
+		"5" : [
+			[ "franqueaba" ],
+			[ "franqueabas" ],
+			[ "franqueaba" ],
+			[ "franqueábamos" ],
+			[ "franqueabais", "franqueaban" ],
+			[ "franqueaban" ]
+		],
+		"6" : [
+			[ "franquearía" ],
+			[ "franquearías" ],
+			[ "franquearía" ],
+			[ "franquearíamos" ],
+			[ "franquearíais", "franquearían" ],
+			[ "franquearían" ]
+		],
+		"7" : [
+			[ "franquearé" ],
+			[ "franquearás" ],
+			[ "franqueará" ],
+			[ "franquearemos" ],
+			[ "franquearéis", "franquearán" ],
+			[ "franquearán" ]
+		],
+		"8" : [
+			[ "franquee" ],
+			[ "franquees" ],
+			[ "franquee" ],
+			[ "franqueemos" ],
+			[ "franqueéis", "franqueen" ],
+			[ "franqueen" ]
+		],
+		"9" : [
+			[ "franqueara" ],
+			[ "franquearas" ],
+			[ "franqueara" ],
+			[ "franqueáramos" ],
+			[ "franquearais", "franquearan" ],
+			[ "franquearan" ]
+		],
+		"10" : [
+			[ "franquease" ],
+			[ "franqueases" ],
+			[ "franquease" ],
+			[ "franqueásemos" ],
+			[ "franqueaseis", "franqueasen" ],
+			[ "franqueasen" ]
+		],
+		"11" : [
+			[ "franqueare" ],
+			[ "franqueares" ],
+			[ "franqueare" ],
+			[ "franqueáremos" ],
+			[ "franqueareis", "franquearen" ],
+			[ "franquearen" ]
+		],
+		"12" : {
+			"1" : [ "franquea" ],
+			"2" : [ "franquee" ],
+			"3" : [ "franqueemos" ],
+			"4" : [ "franquead" ],
+			"5" : [ "franqueen" ]
+		}
+	}
+}

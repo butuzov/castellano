@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=curtir",
+	"word" : "curtir",
+	"infinitivo" : "curtir",
+	"participio" : [ "curtido" ],
+	"gerundio" : [ "curtiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "curto" ],
+			[ "curtes", "curtís" ],
+			[ "curte" ],
+			[ "curtimos" ],
+			[ "curtís", "curten" ],
+			[ "curten" ]
+		],
+		"4" : [
+			[ "curtí" ],
+			[ "curtiste" ],
+			[ "curtió" ],
+			[ "curtimos" ],
+			[ "curtisteis", "curtieron" ],
+			[ "curtieron" ]
+		],
+		"5" : [
+			[ "curtía" ],
+			[ "curtías" ],
+			[ "curtía" ],
+			[ "curtíamos" ],
+			[ "curtíais", "curtían" ],
+			[ "curtían" ]
+		],
+		"6" : [
+			[ "curtiría" ],
+			[ "curtirías" ],
+			[ "curtiría" ],
+			[ "curtiríamos" ],
+			[ "curtiríais", "curtirían" ],
+			[ "curtirían" ]
+		],
+		"7" : [
+			[ "curtiré" ],
+			[ "curtirás" ],
+			[ "curtirá" ],
+			[ "curtiremos" ],
+			[ "curtiréis", "curtirán" ],
+			[ "curtirán" ]
+		],
+		"8" : [
+			[ "curta" ],
+			[ "curtas" ],
+			[ "curta" ],
+			[ "curtamos" ],
+			[ "curtáis", "curtan" ],
+			[ "curtan" ]
+		],
+		"9" : [
+			[ "curtiera" ],
+			[ "curtieras" ],
+			[ "curtiera" ],
+			[ "curtiéramos" ],
+			[ "curtierais", "curtieran" ],
+			[ "curtieran" ]
+		],
+		"10" : [
+			[ "curtiese" ],
+			[ "curtieses" ],
+			[ "curtiese" ],
+			[ "curtiésemos" ],
+			[ "curtieseis", "curtiesen" ],
+			[ "curtiesen" ]
+		],
+		"11" : [
+			[ "curtiere" ],
+			[ "curtieres" ],
+			[ "curtiere" ],
+			[ "curtiéremos" ],
+			[ "curtiereis", "curtieren" ],
+			[ "curtieren" ]
+		],
+		"12" : {
+			"1" : [ "curte" ],
+			"2" : [ "curta" ],
+			"3" : [ "curtamos" ],
+			"4" : [ "curtid" ],
+			"5" : [ "curtan" ]
+		}
+	}
+}

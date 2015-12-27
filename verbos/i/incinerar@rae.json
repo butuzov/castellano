@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incinerar",
+	"word" : "incinerar",
+	"infinitivo" : "incinerar",
+	"participio" : [ "incinerado" ],
+	"gerundio" : [ "incinerando" ],
+	"tenses" : {
+		"3" : [
+			[ "incinero" ],
+			[ "incineras", "incinerás" ],
+			[ "incinera" ],
+			[ "incineramos" ],
+			[ "incineráis", "incineran" ],
+			[ "incineran" ]
+		],
+		"4" : [
+			[ "incineré" ],
+			[ "incineraste" ],
+			[ "incineró" ],
+			[ "incineramos" ],
+			[ "incinerasteis", "incineraron" ],
+			[ "incineraron" ]
+		],
+		"5" : [
+			[ "incineraba" ],
+			[ "incinerabas" ],
+			[ "incineraba" ],
+			[ "incinerábamos" ],
+			[ "incinerabais", "incineraban" ],
+			[ "incineraban" ]
+		],
+		"6" : [
+			[ "incineraría" ],
+			[ "incinerarías" ],
+			[ "incineraría" ],
+			[ "incineraríamos" ],
+			[ "incineraríais", "incinerarían" ],
+			[ "incinerarían" ]
+		],
+		"7" : [
+			[ "incineraré" ],
+			[ "incinerarás" ],
+			[ "incinerará" ],
+			[ "incineraremos" ],
+			[ "incineraréis", "incinerarán" ],
+			[ "incinerarán" ]
+		],
+		"8" : [
+			[ "incinere" ],
+			[ "incineres" ],
+			[ "incinere" ],
+			[ "incineremos" ],
+			[ "incineréis", "incineren" ],
+			[ "incineren" ]
+		],
+		"9" : [
+			[ "incinerara" ],
+			[ "incineraras" ],
+			[ "incinerara" ],
+			[ "incineráramos" ],
+			[ "incinerarais", "incineraran" ],
+			[ "incineraran" ]
+		],
+		"10" : [
+			[ "incinerase" ],
+			[ "incinerases" ],
+			[ "incinerase" ],
+			[ "incinerásemos" ],
+			[ "incineraseis", "incinerasen" ],
+			[ "incinerasen" ]
+		],
+		"11" : [
+			[ "incinerare" ],
+			[ "incinerares" ],
+			[ "incinerare" ],
+			[ "incineráremos" ],
+			[ "incinerareis", "incineraren" ],
+			[ "incineraren" ]
+		],
+		"12" : {
+			"1" : [ "incinera" ],
+			"2" : [ "incinere" ],
+			"3" : [ "incineremos" ],
+			"4" : [ "incinerad" ],
+			"5" : [ "incineren" ]
+		}
+	}
+}

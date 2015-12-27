@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sucumbir",
+	"word" : "sucumbir",
+	"infinitivo" : "sucumbir",
+	"participio" : [ "sucumbido" ],
+	"gerundio" : [ "sucumbiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sucumbo" ],
+			[ "sucumbes", "sucumbís" ],
+			[ "sucumbe" ],
+			[ "sucumbimos" ],
+			[ "sucumbís", "sucumben" ],
+			[ "sucumben" ]
+		],
+		"4" : [
+			[ "sucumbí" ],
+			[ "sucumbiste" ],
+			[ "sucumbió" ],
+			[ "sucumbimos" ],
+			[ "sucumbisteis", "sucumbieron" ],
+			[ "sucumbieron" ]
+		],
+		"5" : [
+			[ "sucumbía" ],
+			[ "sucumbías" ],
+			[ "sucumbía" ],
+			[ "sucumbíamos" ],
+			[ "sucumbíais", "sucumbían" ],
+			[ "sucumbían" ]
+		],
+		"6" : [
+			[ "sucumbiría" ],
+			[ "sucumbirías" ],
+			[ "sucumbiría" ],
+			[ "sucumbiríamos" ],
+			[ "sucumbiríais", "sucumbirían" ],
+			[ "sucumbirían" ]
+		],
+		"7" : [
+			[ "sucumbiré" ],
+			[ "sucumbirás" ],
+			[ "sucumbirá" ],
+			[ "sucumbiremos" ],
+			[ "sucumbiréis", "sucumbirán" ],
+			[ "sucumbirán" ]
+		],
+		"8" : [
+			[ "sucumba" ],
+			[ "sucumbas" ],
+			[ "sucumba" ],
+			[ "sucumbamos" ],
+			[ "sucumbáis", "sucumban" ],
+			[ "sucumban" ]
+		],
+		"9" : [
+			[ "sucumbiera" ],
+			[ "sucumbieras" ],
+			[ "sucumbiera" ],
+			[ "sucumbiéramos" ],
+			[ "sucumbierais", "sucumbieran" ],
+			[ "sucumbieran" ]
+		],
+		"10" : [
+			[ "sucumbiese" ],
+			[ "sucumbieses" ],
+			[ "sucumbiese" ],
+			[ "sucumbiésemos" ],
+			[ "sucumbieseis", "sucumbiesen" ],
+			[ "sucumbiesen" ]
+		],
+		"11" : [
+			[ "sucumbiere" ],
+			[ "sucumbieres" ],
+			[ "sucumbiere" ],
+			[ "sucumbiéremos" ],
+			[ "sucumbiereis", "sucumbieren" ],
+			[ "sucumbieren" ]
+		],
+		"12" : {
+			"1" : [ "sucumbe" ],
+			"2" : [ "sucumba" ],
+			"3" : [ "sucumbamos" ],
+			"4" : [ "sucumbid" ],
+			"5" : [ "sucumban" ]
+		}
+	}
+}

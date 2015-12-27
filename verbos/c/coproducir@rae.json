@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=coproducir",
+	"word" : "coproducir",
+	"infinitivo" : "coproducir",
+	"participio" : [ "coproducido" ],
+	"gerundio" : [ "coproduciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "coproduzco" ],
+			[ "coproduces", "coproducís" ],
+			[ "coproduce" ],
+			[ "coproducimos" ],
+			[ "coproducís", "coproducen" ],
+			[ "coproducen" ]
+		],
+		"4" : [
+			[ "coproduje" ],
+			[ "coprodujiste" ],
+			[ "coprodujo" ],
+			[ "coprodujimos" ],
+			[ "coprodujisteis", "coprodujeron" ],
+			[ "coprodujeron" ]
+		],
+		"5" : [
+			[ "coproducía" ],
+			[ "coproducías" ],
+			[ "coproducía" ],
+			[ "coproducíamos" ],
+			[ "coproducíais", "coproducían" ],
+			[ "coproducían" ]
+		],
+		"6" : [
+			[ "coproduciría" ],
+			[ "coproducirías" ],
+			[ "coproduciría" ],
+			[ "coproduciríamos" ],
+			[ "coproduciríais", "coproducirían" ],
+			[ "coproducirían" ]
+		],
+		"7" : [
+			[ "coproduciré" ],
+			[ "coproducirás" ],
+			[ "coproducirá" ],
+			[ "coproduciremos" ],
+			[ "coproduciréis", "coproducirán" ],
+			[ "coproducirán" ]
+		],
+		"8" : [
+			[ "coproduzca" ],
+			[ "coproduzcas" ],
+			[ "coproduzca" ],
+			[ "coproduzcamos" ],
+			[ "coproduzcáis", "coproduzcan" ],
+			[ "coproduzcan" ]
+		],
+		"9" : [
+			[ "coprodujera" ],
+			[ "coprodujeras" ],
+			[ "coprodujera" ],
+			[ "coprodujéramos" ],
+			[ "coprodujerais", "coprodujeran" ],
+			[ "coprodujeran" ]
+		],
+		"10" : [
+			[ "coprodujese" ],
+			[ "coprodujeses" ],
+			[ "coprodujese" ],
+			[ "coprodujésemos" ],
+			[ "coprodujeseis", "coprodujesen" ],
+			[ "coprodujesen" ]
+		],
+		"11" : [
+			[ "coprodujere" ],
+			[ "coprodujeres" ],
+			[ "coprodujere" ],
+			[ "coprodujéremos" ],
+			[ "coprodujereis", "coprodujeren" ],
+			[ "coprodujeren" ]
+		],
+		"12" : {
+			"1" : [ "coproduce" ],
+			"2" : [ "coproduzca" ],
+			"3" : [ "coproduzcamos" ],
+			"4" : [ "coproducid" ],
+			"5" : [ "coproduzcan" ]
+		}
+	}
+}

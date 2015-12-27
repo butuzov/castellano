@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vehicular",
+	"word" : "vehicular",
+	"infinitivo" : "vehicular",
+	"participio" : [ "vehiculado" ],
+	"gerundio" : [ "vehiculando" ],
+	"tenses" : {
+		"3" : [
+			[ "vehiculo" ],
+			[ "vehiculas", "vehiculás" ],
+			[ "vehicula" ],
+			[ "vehiculamos" ],
+			[ "vehiculáis", "vehiculan" ],
+			[ "vehiculan" ]
+		],
+		"4" : [
+			[ "vehiculé" ],
+			[ "vehiculaste" ],
+			[ "vehiculó" ],
+			[ "vehiculamos" ],
+			[ "vehiculasteis", "vehicularon" ],
+			[ "vehicularon" ]
+		],
+		"5" : [
+			[ "vehiculaba" ],
+			[ "vehiculabas" ],
+			[ "vehiculaba" ],
+			[ "vehiculábamos" ],
+			[ "vehiculabais", "vehiculaban" ],
+			[ "vehiculaban" ]
+		],
+		"6" : [
+			[ "vehicularía" ],
+			[ "vehicularías" ],
+			[ "vehicularía" ],
+			[ "vehicularíamos" ],
+			[ "vehicularíais", "vehicularían" ],
+			[ "vehicularían" ]
+		],
+		"7" : [
+			[ "vehicularé" ],
+			[ "vehicularás" ],
+			[ "vehiculará" ],
+			[ "vehicularemos" ],
+			[ "vehicularéis", "vehicularán" ],
+			[ "vehicularán" ]
+		],
+		"8" : [
+			[ "vehicule" ],
+			[ "vehicules" ],
+			[ "vehicule" ],
+			[ "vehiculemos" ],
+			[ "vehiculéis", "vehiculen" ],
+			[ "vehiculen" ]
+		],
+		"9" : [
+			[ "vehiculara" ],
+			[ "vehicularas" ],
+			[ "vehiculara" ],
+			[ "vehiculáramos" ],
+			[ "vehicularais", "vehicularan" ],
+			[ "vehicularan" ]
+		],
+		"10" : [
+			[ "vehiculase" ],
+			[ "vehiculases" ],
+			[ "vehiculase" ],
+			[ "vehiculásemos" ],
+			[ "vehiculaseis", "vehiculasen" ],
+			[ "vehiculasen" ]
+		],
+		"11" : [
+			[ "vehiculare" ],
+			[ "vehiculares" ],
+			[ "vehiculare" ],
+			[ "vehiculáremos" ],
+			[ "vehiculareis", "vehicularen" ],
+			[ "vehicularen" ]
+		],
+		"12" : {
+			"1" : [ "vehicula" ],
+			"2" : [ "vehicule" ],
+			"3" : [ "vehiculemos" ],
+			"4" : [ "vehiculad" ],
+			"5" : [ "vehiculen" ]
+		}
+	}
+}

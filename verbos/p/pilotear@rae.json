@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pilotear",
+	"word" : "pilotear",
+	"infinitivo" : "pilotear",
+	"participio" : [ "piloteado" ],
+	"gerundio" : [ "piloteando" ],
+	"tenses" : {
+		"3" : [
+			[ "piloteo" ],
+			[ "piloteas", "piloteás" ],
+			[ "pilotea" ],
+			[ "piloteamos" ],
+			[ "piloteáis", "pilotean" ],
+			[ "pilotean" ]
+		],
+		"4" : [
+			[ "piloteé" ],
+			[ "piloteaste" ],
+			[ "piloteó" ],
+			[ "piloteamos" ],
+			[ "piloteasteis", "pilotearon" ],
+			[ "pilotearon" ]
+		],
+		"5" : [
+			[ "piloteaba" ],
+			[ "piloteabas" ],
+			[ "piloteaba" ],
+			[ "piloteábamos" ],
+			[ "piloteabais", "piloteaban" ],
+			[ "piloteaban" ]
+		],
+		"6" : [
+			[ "pilotearía" ],
+			[ "pilotearías" ],
+			[ "pilotearía" ],
+			[ "pilotearíamos" ],
+			[ "pilotearíais", "pilotearían" ],
+			[ "pilotearían" ]
+		],
+		"7" : [
+			[ "pilotearé" ],
+			[ "pilotearás" ],
+			[ "piloteará" ],
+			[ "pilotearemos" ],
+			[ "pilotearéis", "pilotearán" ],
+			[ "pilotearán" ]
+		],
+		"8" : [
+			[ "pilotee" ],
+			[ "pilotees" ],
+			[ "pilotee" ],
+			[ "piloteemos" ],
+			[ "piloteéis", "piloteen" ],
+			[ "piloteen" ]
+		],
+		"9" : [
+			[ "piloteara" ],
+			[ "pilotearas" ],
+			[ "piloteara" ],
+			[ "piloteáramos" ],
+			[ "pilotearais", "pilotearan" ],
+			[ "pilotearan" ]
+		],
+		"10" : [
+			[ "pilotease" ],
+			[ "piloteases" ],
+			[ "pilotease" ],
+			[ "piloteásemos" ],
+			[ "piloteaseis", "piloteasen" ],
+			[ "piloteasen" ]
+		],
+		"11" : [
+			[ "piloteare" ],
+			[ "piloteares" ],
+			[ "piloteare" ],
+			[ "piloteáremos" ],
+			[ "piloteareis", "pilotearen" ],
+			[ "pilotearen" ]
+		],
+		"12" : {
+			"1" : [ "pilotea" ],
+			"2" : [ "pilotee" ],
+			"3" : [ "piloteemos" ],
+			"4" : [ "pilotead" ],
+			"5" : [ "piloteen" ]
+		}
+	}
+}

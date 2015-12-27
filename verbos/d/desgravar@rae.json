@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desgravar",
+	"word" : "desgravar",
+	"infinitivo" : "desgravar",
+	"participio" : [ "desgravado" ],
+	"gerundio" : [ "desgravando" ],
+	"tenses" : {
+		"3" : [
+			[ "desgravo" ],
+			[ "desgravas", "desgravás" ],
+			[ "desgrava" ],
+			[ "desgravamos" ],
+			[ "desgraváis", "desgravan" ],
+			[ "desgravan" ]
+		],
+		"4" : [
+			[ "desgravé" ],
+			[ "desgravaste" ],
+			[ "desgravó" ],
+			[ "desgravamos" ],
+			[ "desgravasteis", "desgravaron" ],
+			[ "desgravaron" ]
+		],
+		"5" : [
+			[ "desgravaba" ],
+			[ "desgravabas" ],
+			[ "desgravaba" ],
+			[ "desgravábamos" ],
+			[ "desgravabais", "desgravaban" ],
+			[ "desgravaban" ]
+		],
+		"6" : [
+			[ "desgravaría" ],
+			[ "desgravarías" ],
+			[ "desgravaría" ],
+			[ "desgravaríamos" ],
+			[ "desgravaríais", "desgravarían" ],
+			[ "desgravarían" ]
+		],
+		"7" : [
+			[ "desgravaré" ],
+			[ "desgravarás" ],
+			[ "desgravará" ],
+			[ "desgravaremos" ],
+			[ "desgravaréis", "desgravarán" ],
+			[ "desgravarán" ]
+		],
+		"8" : [
+			[ "desgrave" ],
+			[ "desgraves" ],
+			[ "desgrave" ],
+			[ "desgravemos" ],
+			[ "desgravéis", "desgraven" ],
+			[ "desgraven" ]
+		],
+		"9" : [
+			[ "desgravara" ],
+			[ "desgravaras" ],
+			[ "desgravara" ],
+			[ "desgraváramos" ],
+			[ "desgravarais", "desgravaran" ],
+			[ "desgravaran" ]
+		],
+		"10" : [
+			[ "desgravase" ],
+			[ "desgravases" ],
+			[ "desgravase" ],
+			[ "desgravásemos" ],
+			[ "desgravaseis", "desgravasen" ],
+			[ "desgravasen" ]
+		],
+		"11" : [
+			[ "desgravare" ],
+			[ "desgravares" ],
+			[ "desgravare" ],
+			[ "desgraváremos" ],
+			[ "desgravareis", "desgravaren" ],
+			[ "desgravaren" ]
+		],
+		"12" : {
+			"1" : [ "desgrava" ],
+			"2" : [ "desgrave" ],
+			"3" : [ "desgravemos" ],
+			"4" : [ "desgravad" ],
+			"5" : [ "desgraven" ]
+		}
+	}
+}

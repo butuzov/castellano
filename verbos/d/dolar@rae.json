@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dolar",
+	"word" : "dolar",
+	"infinitivo" : "dolar",
+	"participio" : [ "dolado" ],
+	"gerundio" : [ "dolando" ],
+	"tenses" : {
+		"3" : [
+			[ "duelo" ],
+			[ "duelas", "dolás" ],
+			[ "duela" ],
+			[ "dolamos" ],
+			[ "doláis", "duelan" ],
+			[ "duelan" ]
+		],
+		"4" : [
+			[ "dolé" ],
+			[ "dolaste" ],
+			[ "doló" ],
+			[ "dolamos" ],
+			[ "dolasteis", "dolaron" ],
+			[ "dolaron" ]
+		],
+		"5" : [
+			[ "dolaba" ],
+			[ "dolabas" ],
+			[ "dolaba" ],
+			[ "dolábamos" ],
+			[ "dolabais", "dolaban" ],
+			[ "dolaban" ]
+		],
+		"6" : [
+			[ "dolaría" ],
+			[ "dolarías" ],
+			[ "dolaría" ],
+			[ "dolaríamos" ],
+			[ "dolaríais", "dolarían" ],
+			[ "dolarían" ]
+		],
+		"7" : [
+			[ "dolaré" ],
+			[ "dolarás" ],
+			[ "dolará" ],
+			[ "dolaremos" ],
+			[ "dolaréis", "dolarán" ],
+			[ "dolarán" ]
+		],
+		"8" : [
+			[ "duele" ],
+			[ "dueles" ],
+			[ "duele" ],
+			[ "dolemos" ],
+			[ "doléis", "duelen" ],
+			[ "duelen" ]
+		],
+		"9" : [
+			[ "dolara" ],
+			[ "dolaras" ],
+			[ "dolara" ],
+			[ "doláramos" ],
+			[ "dolarais", "dolaran" ],
+			[ "dolaran" ]
+		],
+		"10" : [
+			[ "dolase" ],
+			[ "dolases" ],
+			[ "dolase" ],
+			[ "dolásemos" ],
+			[ "dolaseis", "dolasen" ],
+			[ "dolasen" ]
+		],
+		"11" : [
+			[ "dolare" ],
+			[ "dolares" ],
+			[ "dolare" ],
+			[ "doláremos" ],
+			[ "dolareis", "dolaren" ],
+			[ "dolaren" ]
+		],
+		"12" : {
+			"1" : [ "duela" ],
+			"2" : [ "duele" ],
+			"3" : [ "dolemos" ],
+			"4" : [ "dolad" ],
+			"5" : [ "duelen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=etiquetar",
+	"word" : "etiquetar",
+	"infinitivo" : "etiquetar",
+	"participio" : [ "etiquetado" ],
+	"gerundio" : [ "etiquetando" ],
+	"tenses" : {
+		"3" : [
+			[ "etiqueto" ],
+			[ "etiquetas", "etiquetás" ],
+			[ "etiqueta" ],
+			[ "etiquetamos" ],
+			[ "etiquetáis", "etiquetan" ],
+			[ "etiquetan" ]
+		],
+		"4" : [
+			[ "etiqueté" ],
+			[ "etiquetaste" ],
+			[ "etiquetó" ],
+			[ "etiquetamos" ],
+			[ "etiquetasteis", "etiquetaron" ],
+			[ "etiquetaron" ]
+		],
+		"5" : [
+			[ "etiquetaba" ],
+			[ "etiquetabas" ],
+			[ "etiquetaba" ],
+			[ "etiquetábamos" ],
+			[ "etiquetabais", "etiquetaban" ],
+			[ "etiquetaban" ]
+		],
+		"6" : [
+			[ "etiquetaría" ],
+			[ "etiquetarías" ],
+			[ "etiquetaría" ],
+			[ "etiquetaríamos" ],
+			[ "etiquetaríais", "etiquetarían" ],
+			[ "etiquetarían" ]
+		],
+		"7" : [
+			[ "etiquetaré" ],
+			[ "etiquetarás" ],
+			[ "etiquetará" ],
+			[ "etiquetaremos" ],
+			[ "etiquetaréis", "etiquetarán" ],
+			[ "etiquetarán" ]
+		],
+		"8" : [
+			[ "etiquete" ],
+			[ "etiquetes" ],
+			[ "etiquete" ],
+			[ "etiquetemos" ],
+			[ "etiquetéis", "etiqueten" ],
+			[ "etiqueten" ]
+		],
+		"9" : [
+			[ "etiquetara" ],
+			[ "etiquetaras" ],
+			[ "etiquetara" ],
+			[ "etiquetáramos" ],
+			[ "etiquetarais", "etiquetaran" ],
+			[ "etiquetaran" ]
+		],
+		"10" : [
+			[ "etiquetase" ],
+			[ "etiquetases" ],
+			[ "etiquetase" ],
+			[ "etiquetásemos" ],
+			[ "etiquetaseis", "etiquetasen" ],
+			[ "etiquetasen" ]
+		],
+		"11" : [
+			[ "etiquetare" ],
+			[ "etiquetares" ],
+			[ "etiquetare" ],
+			[ "etiquetáremos" ],
+			[ "etiquetareis", "etiquetaren" ],
+			[ "etiquetaren" ]
+		],
+		"12" : {
+			"1" : [ "etiqueta" ],
+			"2" : [ "etiquete" ],
+			"3" : [ "etiquetemos" ],
+			"4" : [ "etiquetad" ],
+			"5" : [ "etiqueten" ]
+		}
+	}
+}

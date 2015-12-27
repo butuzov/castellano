@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=blindar",
+	"word" : "blindar",
+	"infinitivo" : "blindar",
+	"participio" : [ "blindado" ],
+	"gerundio" : [ "blindando" ],
+	"tenses" : {
+		"3" : [
+			[ "blindo" ],
+			[ "blindas", "blindás" ],
+			[ "blinda" ],
+			[ "blindamos" ],
+			[ "blindáis", "blindan" ],
+			[ "blindan" ]
+		],
+		"4" : [
+			[ "blindé" ],
+			[ "blindaste" ],
+			[ "blindó" ],
+			[ "blindamos" ],
+			[ "blindasteis", "blindaron" ],
+			[ "blindaron" ]
+		],
+		"5" : [
+			[ "blindaba" ],
+			[ "blindabas" ],
+			[ "blindaba" ],
+			[ "blindábamos" ],
+			[ "blindabais", "blindaban" ],
+			[ "blindaban" ]
+		],
+		"6" : [
+			[ "blindaría" ],
+			[ "blindarías" ],
+			[ "blindaría" ],
+			[ "blindaríamos" ],
+			[ "blindaríais", "blindarían" ],
+			[ "blindarían" ]
+		],
+		"7" : [
+			[ "blindaré" ],
+			[ "blindarás" ],
+			[ "blindará" ],
+			[ "blindaremos" ],
+			[ "blindaréis", "blindarán" ],
+			[ "blindarán" ]
+		],
+		"8" : [
+			[ "blinde" ],
+			[ "blindes" ],
+			[ "blinde" ],
+			[ "blindemos" ],
+			[ "blindéis", "blinden" ],
+			[ "blinden" ]
+		],
+		"9" : [
+			[ "blindara" ],
+			[ "blindaras" ],
+			[ "blindara" ],
+			[ "blindáramos" ],
+			[ "blindarais", "blindaran" ],
+			[ "blindaran" ]
+		],
+		"10" : [
+			[ "blindase" ],
+			[ "blindases" ],
+			[ "blindase" ],
+			[ "blindásemos" ],
+			[ "blindaseis", "blindasen" ],
+			[ "blindasen" ]
+		],
+		"11" : [
+			[ "blindare" ],
+			[ "blindares" ],
+			[ "blindare" ],
+			[ "blindáremos" ],
+			[ "blindareis", "blindaren" ],
+			[ "blindaren" ]
+		],
+		"12" : {
+			"1" : [ "blinda" ],
+			"2" : [ "blinde" ],
+			"3" : [ "blindemos" ],
+			"4" : [ "blindad" ],
+			"5" : [ "blinden" ]
+		}
+	}
+}

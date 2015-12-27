@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aleccionar",
+	"word" : "aleccionar",
+	"infinitivo" : "aleccionar",
+	"participio" : [ "aleccionado" ],
+	"gerundio" : [ "aleccionando" ],
+	"tenses" : {
+		"3" : [
+			[ "alecciono" ],
+			[ "aleccionas", "aleccionás" ],
+			[ "alecciona" ],
+			[ "aleccionamos" ],
+			[ "aleccionáis", "aleccionan" ],
+			[ "aleccionan" ]
+		],
+		"4" : [
+			[ "aleccioné" ],
+			[ "aleccionaste" ],
+			[ "aleccionó" ],
+			[ "aleccionamos" ],
+			[ "aleccionasteis", "aleccionaron" ],
+			[ "aleccionaron" ]
+		],
+		"5" : [
+			[ "aleccionaba" ],
+			[ "aleccionabas" ],
+			[ "aleccionaba" ],
+			[ "aleccionábamos" ],
+			[ "aleccionabais", "aleccionaban" ],
+			[ "aleccionaban" ]
+		],
+		"6" : [
+			[ "aleccionaría" ],
+			[ "aleccionarías" ],
+			[ "aleccionaría" ],
+			[ "aleccionaríamos" ],
+			[ "aleccionaríais", "aleccionarían" ],
+			[ "aleccionarían" ]
+		],
+		"7" : [
+			[ "aleccionaré" ],
+			[ "aleccionarás" ],
+			[ "aleccionará" ],
+			[ "aleccionaremos" ],
+			[ "aleccionaréis", "aleccionarán" ],
+			[ "aleccionarán" ]
+		],
+		"8" : [
+			[ "aleccione" ],
+			[ "alecciones" ],
+			[ "aleccione" ],
+			[ "aleccionemos" ],
+			[ "aleccionéis", "aleccionen" ],
+			[ "aleccionen" ]
+		],
+		"9" : [
+			[ "aleccionara" ],
+			[ "aleccionaras" ],
+			[ "aleccionara" ],
+			[ "aleccionáramos" ],
+			[ "aleccionarais", "aleccionaran" ],
+			[ "aleccionaran" ]
+		],
+		"10" : [
+			[ "aleccionase" ],
+			[ "aleccionases" ],
+			[ "aleccionase" ],
+			[ "aleccionásemos" ],
+			[ "aleccionaseis", "aleccionasen" ],
+			[ "aleccionasen" ]
+		],
+		"11" : [
+			[ "aleccionare" ],
+			[ "aleccionares" ],
+			[ "aleccionare" ],
+			[ "aleccionáremos" ],
+			[ "aleccionareis", "aleccionaren" ],
+			[ "aleccionaren" ]
+		],
+		"12" : {
+			"1" : [ "alecciona" ],
+			"2" : [ "aleccione" ],
+			"3" : [ "aleccionemos" ],
+			"4" : [ "aleccionad" ],
+			"5" : [ "aleccionen" ]
+		}
+	}
+}

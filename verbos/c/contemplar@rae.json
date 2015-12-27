@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contemplar",
+	"word" : "contemplar",
+	"infinitivo" : "contemplar",
+	"participio" : [ "contemplado" ],
+	"gerundio" : [ "contemplando" ],
+	"tenses" : {
+		"3" : [
+			[ "contemplo" ],
+			[ "contemplas", "contemplás" ],
+			[ "contempla" ],
+			[ "contemplamos" ],
+			[ "contempláis", "contemplan" ],
+			[ "contemplan" ]
+		],
+		"4" : [
+			[ "contemplé" ],
+			[ "contemplaste" ],
+			[ "contempló" ],
+			[ "contemplamos" ],
+			[ "contemplasteis", "contemplaron" ],
+			[ "contemplaron" ]
+		],
+		"5" : [
+			[ "contemplaba" ],
+			[ "contemplabas" ],
+			[ "contemplaba" ],
+			[ "contemplábamos" ],
+			[ "contemplabais", "contemplaban" ],
+			[ "contemplaban" ]
+		],
+		"6" : [
+			[ "contemplaría" ],
+			[ "contemplarías" ],
+			[ "contemplaría" ],
+			[ "contemplaríamos" ],
+			[ "contemplaríais", "contemplarían" ],
+			[ "contemplarían" ]
+		],
+		"7" : [
+			[ "contemplaré" ],
+			[ "contemplarás" ],
+			[ "contemplará" ],
+			[ "contemplaremos" ],
+			[ "contemplaréis", "contemplarán" ],
+			[ "contemplarán" ]
+		],
+		"8" : [
+			[ "contemple" ],
+			[ "contemples" ],
+			[ "contemple" ],
+			[ "contemplemos" ],
+			[ "contempléis", "contemplen" ],
+			[ "contemplen" ]
+		],
+		"9" : [
+			[ "contemplara" ],
+			[ "contemplaras" ],
+			[ "contemplara" ],
+			[ "contempláramos" ],
+			[ "contemplarais", "contemplaran" ],
+			[ "contemplaran" ]
+		],
+		"10" : [
+			[ "contemplase" ],
+			[ "contemplases" ],
+			[ "contemplase" ],
+			[ "contemplásemos" ],
+			[ "contemplaseis", "contemplasen" ],
+			[ "contemplasen" ]
+		],
+		"11" : [
+			[ "contemplare" ],
+			[ "contemplares" ],
+			[ "contemplare" ],
+			[ "contempláremos" ],
+			[ "contemplareis", "contemplaren" ],
+			[ "contemplaren" ]
+		],
+		"12" : {
+			"1" : [ "contempla" ],
+			"2" : [ "contemple" ],
+			"3" : [ "contemplemos" ],
+			"4" : [ "contemplad" ],
+			"5" : [ "contemplen" ]
+		}
+	}
+}

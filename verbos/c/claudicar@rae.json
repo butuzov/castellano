@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=claudicar",
+	"word" : "claudicar",
+	"infinitivo" : "claudicar",
+	"participio" : [ "claudicado" ],
+	"gerundio" : [ "claudicando" ],
+	"tenses" : {
+		"3" : [
+			[ "claudico" ],
+			[ "claudicas", "claudicás" ],
+			[ "claudica" ],
+			[ "claudicamos" ],
+			[ "claudicáis", "claudican" ],
+			[ "claudican" ]
+		],
+		"4" : [
+			[ "claudiqué" ],
+			[ "claudicaste" ],
+			[ "claudicó" ],
+			[ "claudicamos" ],
+			[ "claudicasteis", "claudicaron" ],
+			[ "claudicaron" ]
+		],
+		"5" : [
+			[ "claudicaba" ],
+			[ "claudicabas" ],
+			[ "claudicaba" ],
+			[ "claudicábamos" ],
+			[ "claudicabais", "claudicaban" ],
+			[ "claudicaban" ]
+		],
+		"6" : [
+			[ "claudicaría" ],
+			[ "claudicarías" ],
+			[ "claudicaría" ],
+			[ "claudicaríamos" ],
+			[ "claudicaríais", "claudicarían" ],
+			[ "claudicarían" ]
+		],
+		"7" : [
+			[ "claudicaré" ],
+			[ "claudicarás" ],
+			[ "claudicará" ],
+			[ "claudicaremos" ],
+			[ "claudicaréis", "claudicarán" ],
+			[ "claudicarán" ]
+		],
+		"8" : [
+			[ "claudique" ],
+			[ "claudiques" ],
+			[ "claudique" ],
+			[ "claudiquemos" ],
+			[ "claudiquéis", "claudiquen" ],
+			[ "claudiquen" ]
+		],
+		"9" : [
+			[ "claudicara" ],
+			[ "claudicaras" ],
+			[ "claudicara" ],
+			[ "claudicáramos" ],
+			[ "claudicarais", "claudicaran" ],
+			[ "claudicaran" ]
+		],
+		"10" : [
+			[ "claudicase" ],
+			[ "claudicases" ],
+			[ "claudicase" ],
+			[ "claudicásemos" ],
+			[ "claudicaseis", "claudicasen" ],
+			[ "claudicasen" ]
+		],
+		"11" : [
+			[ "claudicare" ],
+			[ "claudicares" ],
+			[ "claudicare" ],
+			[ "claudicáremos" ],
+			[ "claudicareis", "claudicaren" ],
+			[ "claudicaren" ]
+		],
+		"12" : {
+			"1" : [ "claudica" ],
+			"2" : [ "claudique" ],
+			"3" : [ "claudiquemos" ],
+			"4" : [ "claudicad" ],
+			"5" : [ "claudiquen" ]
+		}
+	}
+}

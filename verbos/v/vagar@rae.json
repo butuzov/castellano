@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vagar",
+	"word" : "vagar",
+	"infinitivo" : "vagar",
+	"participio" : [ "vagado" ],
+	"gerundio" : [ "vagando" ],
+	"tenses" : {
+		"3" : [
+			[ "vago" ],
+			[ "vagas", "vagás" ],
+			[ "vaga" ],
+			[ "vagamos" ],
+			[ "vagáis", "vagan" ],
+			[ "vagan" ]
+		],
+		"4" : [
+			[ "vagué" ],
+			[ "vagaste" ],
+			[ "vagó" ],
+			[ "vagamos" ],
+			[ "vagasteis", "vagaron" ],
+			[ "vagaron" ]
+		],
+		"5" : [
+			[ "vagaba" ],
+			[ "vagabas" ],
+			[ "vagaba" ],
+			[ "vagábamos" ],
+			[ "vagabais", "vagaban" ],
+			[ "vagaban" ]
+		],
+		"6" : [
+			[ "vagaría" ],
+			[ "vagarías" ],
+			[ "vagaría" ],
+			[ "vagaríamos" ],
+			[ "vagaríais", "vagarían" ],
+			[ "vagarían" ]
+		],
+		"7" : [
+			[ "vagaré" ],
+			[ "vagarás" ],
+			[ "vagará" ],
+			[ "vagaremos" ],
+			[ "vagaréis", "vagarán" ],
+			[ "vagarán" ]
+		],
+		"8" : [
+			[ "vague" ],
+			[ "vagues" ],
+			[ "vague" ],
+			[ "vaguemos" ],
+			[ "vaguéis", "vaguen" ],
+			[ "vaguen" ]
+		],
+		"9" : [
+			[ "vagara" ],
+			[ "vagaras" ],
+			[ "vagara" ],
+			[ "vagáramos" ],
+			[ "vagarais", "vagaran" ],
+			[ "vagaran" ]
+		],
+		"10" : [
+			[ "vagase" ],
+			[ "vagases" ],
+			[ "vagase" ],
+			[ "vagásemos" ],
+			[ "vagaseis", "vagasen" ],
+			[ "vagasen" ]
+		],
+		"11" : [
+			[ "vagare" ],
+			[ "vagares" ],
+			[ "vagare" ],
+			[ "vagáremos" ],
+			[ "vagareis", "vagaren" ],
+			[ "vagaren" ]
+		],
+		"12" : {
+			"1" : [ "vaga" ],
+			"2" : [ "vague" ],
+			"3" : [ "vaguemos" ],
+			"4" : [ "vagad" ],
+			"5" : [ "vaguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=limar",
+	"word" : "limar",
+	"infinitivo" : "limar",
+	"participio" : [ "limado" ],
+	"gerundio" : [ "limando" ],
+	"tenses" : {
+		"3" : [
+			[ "limo" ],
+			[ "limas", "limás" ],
+			[ "lima" ],
+			[ "limamos" ],
+			[ "limáis", "liman" ],
+			[ "liman" ]
+		],
+		"4" : [
+			[ "limé" ],
+			[ "limaste" ],
+			[ "limó" ],
+			[ "limamos" ],
+			[ "limasteis", "limaron" ],
+			[ "limaron" ]
+		],
+		"5" : [
+			[ "limaba" ],
+			[ "limabas" ],
+			[ "limaba" ],
+			[ "limábamos" ],
+			[ "limabais", "limaban" ],
+			[ "limaban" ]
+		],
+		"6" : [
+			[ "limaría" ],
+			[ "limarías" ],
+			[ "limaría" ],
+			[ "limaríamos" ],
+			[ "limaríais", "limarían" ],
+			[ "limarían" ]
+		],
+		"7" : [
+			[ "limaré" ],
+			[ "limarás" ],
+			[ "limará" ],
+			[ "limaremos" ],
+			[ "limaréis", "limarán" ],
+			[ "limarán" ]
+		],
+		"8" : [
+			[ "lime" ],
+			[ "limes" ],
+			[ "lime" ],
+			[ "limemos" ],
+			[ "liméis", "limen" ],
+			[ "limen" ]
+		],
+		"9" : [
+			[ "limara" ],
+			[ "limaras" ],
+			[ "limara" ],
+			[ "limáramos" ],
+			[ "limarais", "limaran" ],
+			[ "limaran" ]
+		],
+		"10" : [
+			[ "limase" ],
+			[ "limases" ],
+			[ "limase" ],
+			[ "limásemos" ],
+			[ "limaseis", "limasen" ],
+			[ "limasen" ]
+		],
+		"11" : [
+			[ "limare" ],
+			[ "limares" ],
+			[ "limare" ],
+			[ "limáremos" ],
+			[ "limareis", "limaren" ],
+			[ "limaren" ]
+		],
+		"12" : {
+			"1" : [ "lima" ],
+			"2" : [ "lime" ],
+			"3" : [ "limemos" ],
+			"4" : [ "limad" ],
+			"5" : [ "limen" ]
+		}
+	}
+}

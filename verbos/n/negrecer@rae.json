@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=negrecer",
+	"word" : "negrecer",
+	"infinitivo" : "negrecer",
+	"participio" : [ "negrecido" ],
+	"gerundio" : [ "negreciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "negrezco" ],
+			[ "negreces", "negrecés" ],
+			[ "negrece" ],
+			[ "negrecemos" ],
+			[ "negrecéis", "negrecen" ],
+			[ "negrecen" ]
+		],
+		"4" : [
+			[ "negrecí" ],
+			[ "negreciste" ],
+			[ "negreció" ],
+			[ "negrecimos" ],
+			[ "negrecisteis", "negrecieron" ],
+			[ "negrecieron" ]
+		],
+		"5" : [
+			[ "negrecía" ],
+			[ "negrecías" ],
+			[ "negrecía" ],
+			[ "negrecíamos" ],
+			[ "negrecíais", "negrecían" ],
+			[ "negrecían" ]
+		],
+		"6" : [
+			[ "negrecería" ],
+			[ "negrecerías" ],
+			[ "negrecería" ],
+			[ "negreceríamos" ],
+			[ "negreceríais", "negrecerían" ],
+			[ "negrecerían" ]
+		],
+		"7" : [
+			[ "negreceré" ],
+			[ "negrecerás" ],
+			[ "negrecerá" ],
+			[ "negreceremos" ],
+			[ "negreceréis", "negrecerán" ],
+			[ "negrecerán" ]
+		],
+		"8" : [
+			[ "negrezca" ],
+			[ "negrezcas" ],
+			[ "negrezca" ],
+			[ "negrezcamos" ],
+			[ "negrezcáis", "negrezcan" ],
+			[ "negrezcan" ]
+		],
+		"9" : [
+			[ "negreciera" ],
+			[ "negrecieras" ],
+			[ "negreciera" ],
+			[ "negreciéramos" ],
+			[ "negrecierais", "negrecieran" ],
+			[ "negrecieran" ]
+		],
+		"10" : [
+			[ "negreciese" ],
+			[ "negrecieses" ],
+			[ "negreciese" ],
+			[ "negreciésemos" ],
+			[ "negrecieseis", "negreciesen" ],
+			[ "negreciesen" ]
+		],
+		"11" : [
+			[ "negreciere" ],
+			[ "negrecieres" ],
+			[ "negreciere" ],
+			[ "negreciéremos" ],
+			[ "negreciereis", "negrecieren" ],
+			[ "negrecieren" ]
+		],
+		"12" : {
+			"1" : [ "negrece" ],
+			"2" : [ "negrezca" ],
+			"3" : [ "negrezcamos" ],
+			"4" : [ "negreced" ],
+			"5" : [ "negrezcan" ]
+		}
+	}
+}

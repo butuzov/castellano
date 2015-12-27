@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cortar",
+	"word" : "cortar",
+	"infinitivo" : "cortar",
+	"participio" : [ "cortado" ],
+	"gerundio" : [ "cortando" ],
+	"tenses" : {
+		"3" : [
+			[ "corto" ],
+			[ "cortas", "cortás" ],
+			[ "corta" ],
+			[ "cortamos" ],
+			[ "cortáis", "cortan" ],
+			[ "cortan" ]
+		],
+		"4" : [
+			[ "corté" ],
+			[ "cortaste" ],
+			[ "cortó" ],
+			[ "cortamos" ],
+			[ "cortasteis", "cortaron" ],
+			[ "cortaron" ]
+		],
+		"5" : [
+			[ "cortaba" ],
+			[ "cortabas" ],
+			[ "cortaba" ],
+			[ "cortábamos" ],
+			[ "cortabais", "cortaban" ],
+			[ "cortaban" ]
+		],
+		"6" : [
+			[ "cortaría" ],
+			[ "cortarías" ],
+			[ "cortaría" ],
+			[ "cortaríamos" ],
+			[ "cortaríais", "cortarían" ],
+			[ "cortarían" ]
+		],
+		"7" : [
+			[ "cortaré" ],
+			[ "cortarás" ],
+			[ "cortará" ],
+			[ "cortaremos" ],
+			[ "cortaréis", "cortarán" ],
+			[ "cortarán" ]
+		],
+		"8" : [
+			[ "corte" ],
+			[ "cortes" ],
+			[ "corte" ],
+			[ "cortemos" ],
+			[ "cortéis", "corten" ],
+			[ "corten" ]
+		],
+		"9" : [
+			[ "cortara" ],
+			[ "cortaras" ],
+			[ "cortara" ],
+			[ "cortáramos" ],
+			[ "cortarais", "cortaran" ],
+			[ "cortaran" ]
+		],
+		"10" : [
+			[ "cortase" ],
+			[ "cortases" ],
+			[ "cortase" ],
+			[ "cortásemos" ],
+			[ "cortaseis", "cortasen" ],
+			[ "cortasen" ]
+		],
+		"11" : [
+			[ "cortare" ],
+			[ "cortares" ],
+			[ "cortare" ],
+			[ "cortáremos" ],
+			[ "cortareis", "cortaren" ],
+			[ "cortaren" ]
+		],
+		"12" : {
+			"1" : [ "corta" ],
+			"2" : [ "corte" ],
+			"3" : [ "cortemos" ],
+			"4" : [ "cortad" ],
+			"5" : [ "corten" ]
+		}
+	}
+}

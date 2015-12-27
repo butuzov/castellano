@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fijar",
+	"word" : "fijar",
+	"infinitivo" : "fijar",
+	"participio" : [ "fijado" ],
+	"gerundio" : [ "fijando" ],
+	"tenses" : {
+		"3" : [
+			[ "fijo" ],
+			[ "fijas", "fijás" ],
+			[ "fija" ],
+			[ "fijamos" ],
+			[ "fijáis", "fijan" ],
+			[ "fijan" ]
+		],
+		"4" : [
+			[ "fijé" ],
+			[ "fijaste" ],
+			[ "fijó" ],
+			[ "fijamos" ],
+			[ "fijasteis", "fijaron" ],
+			[ "fijaron" ]
+		],
+		"5" : [
+			[ "fijaba" ],
+			[ "fijabas" ],
+			[ "fijaba" ],
+			[ "fijábamos" ],
+			[ "fijabais", "fijaban" ],
+			[ "fijaban" ]
+		],
+		"6" : [
+			[ "fijaría" ],
+			[ "fijarías" ],
+			[ "fijaría" ],
+			[ "fijaríamos" ],
+			[ "fijaríais", "fijarían" ],
+			[ "fijarían" ]
+		],
+		"7" : [
+			[ "fijaré" ],
+			[ "fijarás" ],
+			[ "fijará" ],
+			[ "fijaremos" ],
+			[ "fijaréis", "fijarán" ],
+			[ "fijarán" ]
+		],
+		"8" : [
+			[ "fije" ],
+			[ "fijes" ],
+			[ "fije" ],
+			[ "fijemos" ],
+			[ "fijéis", "fijen" ],
+			[ "fijen" ]
+		],
+		"9" : [
+			[ "fijara" ],
+			[ "fijaras" ],
+			[ "fijara" ],
+			[ "fijáramos" ],
+			[ "fijarais", "fijaran" ],
+			[ "fijaran" ]
+		],
+		"10" : [
+			[ "fijase" ],
+			[ "fijases" ],
+			[ "fijase" ],
+			[ "fijásemos" ],
+			[ "fijaseis", "fijasen" ],
+			[ "fijasen" ]
+		],
+		"11" : [
+			[ "fijare" ],
+			[ "fijares" ],
+			[ "fijare" ],
+			[ "fijáremos" ],
+			[ "fijareis", "fijaren" ],
+			[ "fijaren" ]
+		],
+		"12" : {
+			"1" : [ "fija" ],
+			"2" : [ "fije" ],
+			"3" : [ "fijemos" ],
+			"4" : [ "fijad" ],
+			"5" : [ "fijen" ]
+		}
+	}
+}

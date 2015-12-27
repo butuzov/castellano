@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abajar",
+	"word" : "abajar",
+	"infinitivo" : "abajar",
+	"participio" : [ "abajado" ],
+	"gerundio" : [ "abajando" ],
+	"tenses" : {
+		"3" : [
+			[ "abajo" ],
+			[ "abajas", "abajás" ],
+			[ "abaja" ],
+			[ "abajamos" ],
+			[ "abajáis", "abajan" ],
+			[ "abajan" ]
+		],
+		"4" : [
+			[ "abajé" ],
+			[ "abajaste" ],
+			[ "abajó" ],
+			[ "abajamos" ],
+			[ "abajasteis", "abajaron" ],
+			[ "abajaron" ]
+		],
+		"5" : [
+			[ "abajaba" ],
+			[ "abajabas" ],
+			[ "abajaba" ],
+			[ "abajábamos" ],
+			[ "abajabais", "abajaban" ],
+			[ "abajaban" ]
+		],
+		"6" : [
+			[ "abajaría" ],
+			[ "abajarías" ],
+			[ "abajaría" ],
+			[ "abajaríamos" ],
+			[ "abajaríais", "abajarían" ],
+			[ "abajarían" ]
+		],
+		"7" : [
+			[ "abajaré" ],
+			[ "abajarás" ],
+			[ "abajará" ],
+			[ "abajaremos" ],
+			[ "abajaréis", "abajarán" ],
+			[ "abajarán" ]
+		],
+		"8" : [
+			[ "abaje" ],
+			[ "abajes" ],
+			[ "abaje" ],
+			[ "abajemos" ],
+			[ "abajéis", "abajen" ],
+			[ "abajen" ]
+		],
+		"9" : [
+			[ "abajara" ],
+			[ "abajaras" ],
+			[ "abajara" ],
+			[ "abajáramos" ],
+			[ "abajarais", "abajaran" ],
+			[ "abajaran" ]
+		],
+		"10" : [
+			[ "abajase" ],
+			[ "abajases" ],
+			[ "abajase" ],
+			[ "abajásemos" ],
+			[ "abajaseis", "abajasen" ],
+			[ "abajasen" ]
+		],
+		"11" : [
+			[ "abajare" ],
+			[ "abajares" ],
+			[ "abajare" ],
+			[ "abajáremos" ],
+			[ "abajareis", "abajaren" ],
+			[ "abajaren" ]
+		],
+		"12" : {
+			"1" : [ "abaja" ],
+			"2" : [ "abaje" ],
+			"3" : [ "abajemos" ],
+			"4" : [ "abajad" ],
+			"5" : [ "abajen" ]
+		}
+	}
+}

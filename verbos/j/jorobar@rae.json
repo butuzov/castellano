@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=jorobar",
+	"word" : "jorobar",
+	"infinitivo" : "jorobar",
+	"participio" : [ "jorobado" ],
+	"gerundio" : [ "jorobando" ],
+	"tenses" : {
+		"3" : [
+			[ "jorobo" ],
+			[ "jorobas", "jorobás" ],
+			[ "joroba" ],
+			[ "jorobamos" ],
+			[ "jorobáis", "joroban" ],
+			[ "joroban" ]
+		],
+		"4" : [
+			[ "jorobé" ],
+			[ "jorobaste" ],
+			[ "jorobó" ],
+			[ "jorobamos" ],
+			[ "jorobasteis", "jorobaron" ],
+			[ "jorobaron" ]
+		],
+		"5" : [
+			[ "jorobaba" ],
+			[ "jorobabas" ],
+			[ "jorobaba" ],
+			[ "jorobábamos" ],
+			[ "jorobabais", "jorobaban" ],
+			[ "jorobaban" ]
+		],
+		"6" : [
+			[ "jorobaría" ],
+			[ "jorobarías" ],
+			[ "jorobaría" ],
+			[ "jorobaríamos" ],
+			[ "jorobaríais", "jorobarían" ],
+			[ "jorobarían" ]
+		],
+		"7" : [
+			[ "jorobaré" ],
+			[ "jorobarás" ],
+			[ "jorobará" ],
+			[ "jorobaremos" ],
+			[ "jorobaréis", "jorobarán" ],
+			[ "jorobarán" ]
+		],
+		"8" : [
+			[ "jorobe" ],
+			[ "jorobes" ],
+			[ "jorobe" ],
+			[ "jorobemos" ],
+			[ "jorobéis", "joroben" ],
+			[ "joroben" ]
+		],
+		"9" : [
+			[ "jorobara" ],
+			[ "jorobaras" ],
+			[ "jorobara" ],
+			[ "jorobáramos" ],
+			[ "jorobarais", "jorobaran" ],
+			[ "jorobaran" ]
+		],
+		"10" : [
+			[ "jorobase" ],
+			[ "jorobases" ],
+			[ "jorobase" ],
+			[ "jorobásemos" ],
+			[ "jorobaseis", "jorobasen" ],
+			[ "jorobasen" ]
+		],
+		"11" : [
+			[ "jorobare" ],
+			[ "jorobares" ],
+			[ "jorobare" ],
+			[ "jorobáremos" ],
+			[ "jorobareis", "jorobaren" ],
+			[ "jorobaren" ]
+		],
+		"12" : {
+			"1" : [ "joroba" ],
+			"2" : [ "jorobe" ],
+			"3" : [ "jorobemos" ],
+			"4" : [ "jorobad" ],
+			"5" : [ "joroben" ]
+		}
+	}
+}

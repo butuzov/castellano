@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lamentar",
+	"word" : "lamentar",
+	"infinitivo" : "lamentar",
+	"participio" : [ "lamentado" ],
+	"gerundio" : [ "lamentando" ],
+	"tenses" : {
+		"3" : [
+			[ "lamento" ],
+			[ "lamentas", "lamentás" ],
+			[ "lamenta" ],
+			[ "lamentamos" ],
+			[ "lamentáis", "lamentan" ],
+			[ "lamentan" ]
+		],
+		"4" : [
+			[ "lamenté" ],
+			[ "lamentaste" ],
+			[ "lamentó" ],
+			[ "lamentamos" ],
+			[ "lamentasteis", "lamentaron" ],
+			[ "lamentaron" ]
+		],
+		"5" : [
+			[ "lamentaba" ],
+			[ "lamentabas" ],
+			[ "lamentaba" ],
+			[ "lamentábamos" ],
+			[ "lamentabais", "lamentaban" ],
+			[ "lamentaban" ]
+		],
+		"6" : [
+			[ "lamentaría" ],
+			[ "lamentarías" ],
+			[ "lamentaría" ],
+			[ "lamentaríamos" ],
+			[ "lamentaríais", "lamentarían" ],
+			[ "lamentarían" ]
+		],
+		"7" : [
+			[ "lamentaré" ],
+			[ "lamentarás" ],
+			[ "lamentará" ],
+			[ "lamentaremos" ],
+			[ "lamentaréis", "lamentarán" ],
+			[ "lamentarán" ]
+		],
+		"8" : [
+			[ "lamente" ],
+			[ "lamentes" ],
+			[ "lamente" ],
+			[ "lamentemos" ],
+			[ "lamentéis", "lamenten" ],
+			[ "lamenten" ]
+		],
+		"9" : [
+			[ "lamentara" ],
+			[ "lamentaras" ],
+			[ "lamentara" ],
+			[ "lamentáramos" ],
+			[ "lamentarais", "lamentaran" ],
+			[ "lamentaran" ]
+		],
+		"10" : [
+			[ "lamentase" ],
+			[ "lamentases" ],
+			[ "lamentase" ],
+			[ "lamentásemos" ],
+			[ "lamentaseis", "lamentasen" ],
+			[ "lamentasen" ]
+		],
+		"11" : [
+			[ "lamentare" ],
+			[ "lamentares" ],
+			[ "lamentare" ],
+			[ "lamentáremos" ],
+			[ "lamentareis", "lamentaren" ],
+			[ "lamentaren" ]
+		],
+		"12" : {
+			"1" : [ "lamenta" ],
+			"2" : [ "lamente" ],
+			"3" : [ "lamentemos" ],
+			"4" : [ "lamentad" ],
+			"5" : [ "lamenten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=perrear",
+	"word" : "perrear",
+	"infinitivo" : "perrear",
+	"participio" : [ "perreado" ],
+	"gerundio" : [ "perreando" ],
+	"tenses" : {
+		"3" : [
+			[ "perreo" ],
+			[ "perreas", "perreás" ],
+			[ "perrea" ],
+			[ "perreamos" ],
+			[ "perreáis", "perrean" ],
+			[ "perrean" ]
+		],
+		"4" : [
+			[ "perreé" ],
+			[ "perreaste" ],
+			[ "perreó" ],
+			[ "perreamos" ],
+			[ "perreasteis", "perrearon" ],
+			[ "perrearon" ]
+		],
+		"5" : [
+			[ "perreaba" ],
+			[ "perreabas" ],
+			[ "perreaba" ],
+			[ "perreábamos" ],
+			[ "perreabais", "perreaban" ],
+			[ "perreaban" ]
+		],
+		"6" : [
+			[ "perrearía" ],
+			[ "perrearías" ],
+			[ "perrearía" ],
+			[ "perrearíamos" ],
+			[ "perrearíais", "perrearían" ],
+			[ "perrearían" ]
+		],
+		"7" : [
+			[ "perrearé" ],
+			[ "perrearás" ],
+			[ "perreará" ],
+			[ "perrearemos" ],
+			[ "perrearéis", "perrearán" ],
+			[ "perrearán" ]
+		],
+		"8" : [
+			[ "perree" ],
+			[ "perrees" ],
+			[ "perree" ],
+			[ "perreemos" ],
+			[ "perreéis", "perreen" ],
+			[ "perreen" ]
+		],
+		"9" : [
+			[ "perreara" ],
+			[ "perrearas" ],
+			[ "perreara" ],
+			[ "perreáramos" ],
+			[ "perrearais", "perrearan" ],
+			[ "perrearan" ]
+		],
+		"10" : [
+			[ "perrease" ],
+			[ "perreases" ],
+			[ "perrease" ],
+			[ "perreásemos" ],
+			[ "perreaseis", "perreasen" ],
+			[ "perreasen" ]
+		],
+		"11" : [
+			[ "perreare" ],
+			[ "perreares" ],
+			[ "perreare" ],
+			[ "perreáremos" ],
+			[ "perreareis", "perrearen" ],
+			[ "perrearen" ]
+		],
+		"12" : {
+			"1" : [ "perrea" ],
+			"2" : [ "perree" ],
+			"3" : [ "perreemos" ],
+			"4" : [ "perread" ],
+			"5" : [ "perreen" ]
+		}
+	}
+}

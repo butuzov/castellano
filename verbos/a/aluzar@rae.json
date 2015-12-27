@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aluzar",
+	"word" : "aluzar",
+	"infinitivo" : "aluzar",
+	"participio" : [ "aluzado" ],
+	"gerundio" : [ "aluzando" ],
+	"tenses" : {
+		"3" : [
+			[ "aluzo" ],
+			[ "aluzas", "aluzás" ],
+			[ "aluza" ],
+			[ "aluzamos" ],
+			[ "aluzáis", "aluzan" ],
+			[ "aluzan" ]
+		],
+		"4" : [
+			[ "alucé" ],
+			[ "aluzaste" ],
+			[ "aluzó" ],
+			[ "aluzamos" ],
+			[ "aluzasteis", "aluzaron" ],
+			[ "aluzaron" ]
+		],
+		"5" : [
+			[ "aluzaba" ],
+			[ "aluzabas" ],
+			[ "aluzaba" ],
+			[ "aluzábamos" ],
+			[ "aluzabais", "aluzaban" ],
+			[ "aluzaban" ]
+		],
+		"6" : [
+			[ "aluzaría" ],
+			[ "aluzarías" ],
+			[ "aluzaría" ],
+			[ "aluzaríamos" ],
+			[ "aluzaríais", "aluzarían" ],
+			[ "aluzarían" ]
+		],
+		"7" : [
+			[ "aluzaré" ],
+			[ "aluzarás" ],
+			[ "aluzará" ],
+			[ "aluzaremos" ],
+			[ "aluzaréis", "aluzarán" ],
+			[ "aluzarán" ]
+		],
+		"8" : [
+			[ "aluce" ],
+			[ "aluces" ],
+			[ "aluce" ],
+			[ "alucemos" ],
+			[ "alucéis", "alucen" ],
+			[ "alucen" ]
+		],
+		"9" : [
+			[ "aluzara" ],
+			[ "aluzaras" ],
+			[ "aluzara" ],
+			[ "aluzáramos" ],
+			[ "aluzarais", "aluzaran" ],
+			[ "aluzaran" ]
+		],
+		"10" : [
+			[ "aluzase" ],
+			[ "aluzases" ],
+			[ "aluzase" ],
+			[ "aluzásemos" ],
+			[ "aluzaseis", "aluzasen" ],
+			[ "aluzasen" ]
+		],
+		"11" : [
+			[ "aluzare" ],
+			[ "aluzares" ],
+			[ "aluzare" ],
+			[ "aluzáremos" ],
+			[ "aluzareis", "aluzaren" ],
+			[ "aluzaren" ]
+		],
+		"12" : {
+			"1" : [ "aluza" ],
+			"2" : [ "aluce" ],
+			"3" : [ "alucemos" ],
+			"4" : [ "aluzad" ],
+			"5" : [ "alucen" ]
+		}
+	}
+}

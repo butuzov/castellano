@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=blanquecer",
+	"word" : "blanquecer",
+	"infinitivo" : "blanquecer",
+	"participio" : [ "blanquecido" ],
+	"gerundio" : [ "blanqueciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "blanquezco" ],
+			[ "blanqueces", "blanquecés" ],
+			[ "blanquece" ],
+			[ "blanquecemos" ],
+			[ "blanquecéis", "blanquecen" ],
+			[ "blanquecen" ]
+		],
+		"4" : [
+			[ "blanquecí" ],
+			[ "blanqueciste" ],
+			[ "blanqueció" ],
+			[ "blanquecimos" ],
+			[ "blanquecisteis", "blanquecieron" ],
+			[ "blanquecieron" ]
+		],
+		"5" : [
+			[ "blanquecía" ],
+			[ "blanquecías" ],
+			[ "blanquecía" ],
+			[ "blanquecíamos" ],
+			[ "blanquecíais", "blanquecían" ],
+			[ "blanquecían" ]
+		],
+		"6" : [
+			[ "blanquecería" ],
+			[ "blanquecerías" ],
+			[ "blanquecería" ],
+			[ "blanqueceríamos" ],
+			[ "blanqueceríais", "blanquecerían" ],
+			[ "blanquecerían" ]
+		],
+		"7" : [
+			[ "blanqueceré" ],
+			[ "blanquecerás" ],
+			[ "blanquecerá" ],
+			[ "blanqueceremos" ],
+			[ "blanqueceréis", "blanquecerán" ],
+			[ "blanquecerán" ]
+		],
+		"8" : [
+			[ "blanquezca" ],
+			[ "blanquezcas" ],
+			[ "blanquezca" ],
+			[ "blanquezcamos" ],
+			[ "blanquezcáis", "blanquezcan" ],
+			[ "blanquezcan" ]
+		],
+		"9" : [
+			[ "blanqueciera" ],
+			[ "blanquecieras" ],
+			[ "blanqueciera" ],
+			[ "blanqueciéramos" ],
+			[ "blanquecierais", "blanquecieran" ],
+			[ "blanquecieran" ]
+		],
+		"10" : [
+			[ "blanqueciese" ],
+			[ "blanquecieses" ],
+			[ "blanqueciese" ],
+			[ "blanqueciésemos" ],
+			[ "blanquecieseis", "blanqueciesen" ],
+			[ "blanqueciesen" ]
+		],
+		"11" : [
+			[ "blanqueciere" ],
+			[ "blanquecieres" ],
+			[ "blanqueciere" ],
+			[ "blanqueciéremos" ],
+			[ "blanqueciereis", "blanquecieren" ],
+			[ "blanquecieren" ]
+		],
+		"12" : {
+			"1" : [ "blanquece" ],
+			"2" : [ "blanquezca" ],
+			"3" : [ "blanquezcamos" ],
+			"4" : [ "blanqueced" ],
+			"5" : [ "blanquezcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ir",
+	"word" : "ir",
+	"infinitivo" : "ir",
+	"participio" : [ "ido" ],
+	"gerundio" : [ "yendo" ],
+	"tenses" : {
+		"3" : [
+			[ "voy" ],
+			[ "vas" ],
+			[ "va" ],
+			[ "vamos" ],
+			[ "vais", "van" ],
+			[ "van" ]
+		],
+		"4" : [
+			[ "fui" ],
+			[ "fuiste" ],
+			[ "fue" ],
+			[ "fuimos" ],
+			[ "fuisteis", "fueron" ],
+			[ "fueron" ]
+		],
+		"5" : [
+			[ "iba" ],
+			[ "ibas" ],
+			[ "iba" ],
+			[ "íbamos" ],
+			[ "ibais", "iban" ],
+			[ "iban" ]
+		],
+		"6" : [
+			[ "iría" ],
+			[ "irías" ],
+			[ "iría" ],
+			[ "iríamos" ],
+			[ "iríais", "irían" ],
+			[ "irían" ]
+		],
+		"7" : [
+			[ "iré" ],
+			[ "irás" ],
+			[ "irá" ],
+			[ "iremos" ],
+			[ "iréis", "irán" ],
+			[ "irán" ]
+		],
+		"8" : [
+			[ "vaya" ],
+			[ "vayas" ],
+			[ "vaya" ],
+			[ "vayamos" ],
+			[ "vayáis", "vayan" ],
+			[ "vayan" ]
+		],
+		"9" : [
+			[ "fuera" ],
+			[ "fueras" ],
+			[ "fuera" ],
+			[ "fuéramos" ],
+			[ "fuerais", "fueran" ],
+			[ "fueran" ]
+		],
+		"10" : [
+			[ "fuese" ],
+			[ "fueses" ],
+			[ "fuese" ],
+			[ "fuésemos" ],
+			[ "fueseis", "fuesen" ],
+			[ "fuesen" ]
+		],
+		"11" : [
+			[ "fuere" ],
+			[ "fueres" ],
+			[ "fuere" ],
+			[ "fuéremos" ],
+			[ "fuereis", "fueren" ],
+			[ "fueren" ]
+		],
+		"12" : {
+			"1" : [ "ve" ],
+			"2" : [ "vaya" ],
+			"3" : [ "vayamos" ],
+			"4" : [ "id" ],
+			"5" : [ "vayan" ]
+		}
+	}
+}

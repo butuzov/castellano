@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aborrecer",
+	"word" : "aborrecer",
+	"infinitivo" : "aborrecer",
+	"participio" : [ "aborrecido" ],
+	"gerundio" : [ "aborreciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aborrezco" ],
+			[ "aborreces", "aborrecés" ],
+			[ "aborrece" ],
+			[ "aborrecemos" ],
+			[ "aborrecéis", "aborrecen" ],
+			[ "aborrecen" ]
+		],
+		"4" : [
+			[ "aborrecí" ],
+			[ "aborreciste" ],
+			[ "aborreció" ],
+			[ "aborrecimos" ],
+			[ "aborrecisteis", "aborrecieron" ],
+			[ "aborrecieron" ]
+		],
+		"5" : [
+			[ "aborrecía" ],
+			[ "aborrecías" ],
+			[ "aborrecía" ],
+			[ "aborrecíamos" ],
+			[ "aborrecíais", "aborrecían" ],
+			[ "aborrecían" ]
+		],
+		"6" : [
+			[ "aborrecería" ],
+			[ "aborrecerías" ],
+			[ "aborrecería" ],
+			[ "aborreceríamos" ],
+			[ "aborreceríais", "aborrecerían" ],
+			[ "aborrecerían" ]
+		],
+		"7" : [
+			[ "aborreceré" ],
+			[ "aborrecerás" ],
+			[ "aborrecerá" ],
+			[ "aborreceremos" ],
+			[ "aborreceréis", "aborrecerán" ],
+			[ "aborrecerán" ]
+		],
+		"8" : [
+			[ "aborrezca" ],
+			[ "aborrezcas" ],
+			[ "aborrezca" ],
+			[ "aborrezcamos" ],
+			[ "aborrezcáis", "aborrezcan" ],
+			[ "aborrezcan" ]
+		],
+		"9" : [
+			[ "aborreciera" ],
+			[ "aborrecieras" ],
+			[ "aborreciera" ],
+			[ "aborreciéramos" ],
+			[ "aborrecierais", "aborrecieran" ],
+			[ "aborrecieran" ]
+		],
+		"10" : [
+			[ "aborreciese" ],
+			[ "aborrecieses" ],
+			[ "aborreciese" ],
+			[ "aborreciésemos" ],
+			[ "aborrecieseis", "aborreciesen" ],
+			[ "aborreciesen" ]
+		],
+		"11" : [
+			[ "aborreciere" ],
+			[ "aborrecieres" ],
+			[ "aborreciere" ],
+			[ "aborreciéremos" ],
+			[ "aborreciereis", "aborrecieren" ],
+			[ "aborrecieren" ]
+		],
+		"12" : {
+			"1" : [ "aborrece" ],
+			"2" : [ "aborrezca" ],
+			"3" : [ "aborrezcamos" ],
+			"4" : [ "aborreced" ],
+			"5" : [ "aborrezcan" ]
+		}
+	}
+}

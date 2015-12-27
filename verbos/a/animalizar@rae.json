@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=animalizar",
+	"word" : "animalizar",
+	"infinitivo" : "animalizar",
+	"participio" : [ "animalizado" ],
+	"gerundio" : [ "animalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "animalizo" ],
+			[ "animalizas", "animalizás" ],
+			[ "animaliza" ],
+			[ "animalizamos" ],
+			[ "animalizáis", "animalizan" ],
+			[ "animalizan" ]
+		],
+		"4" : [
+			[ "animalicé" ],
+			[ "animalizaste" ],
+			[ "animalizó" ],
+			[ "animalizamos" ],
+			[ "animalizasteis", "animalizaron" ],
+			[ "animalizaron" ]
+		],
+		"5" : [
+			[ "animalizaba" ],
+			[ "animalizabas" ],
+			[ "animalizaba" ],
+			[ "animalizábamos" ],
+			[ "animalizabais", "animalizaban" ],
+			[ "animalizaban" ]
+		],
+		"6" : [
+			[ "animalizaría" ],
+			[ "animalizarías" ],
+			[ "animalizaría" ],
+			[ "animalizaríamos" ],
+			[ "animalizaríais", "animalizarían" ],
+			[ "animalizarían" ]
+		],
+		"7" : [
+			[ "animalizaré" ],
+			[ "animalizarás" ],
+			[ "animalizará" ],
+			[ "animalizaremos" ],
+			[ "animalizaréis", "animalizarán" ],
+			[ "animalizarán" ]
+		],
+		"8" : [
+			[ "animalice" ],
+			[ "animalices" ],
+			[ "animalice" ],
+			[ "animalicemos" ],
+			[ "animalicéis", "animalicen" ],
+			[ "animalicen" ]
+		],
+		"9" : [
+			[ "animalizara" ],
+			[ "animalizaras" ],
+			[ "animalizara" ],
+			[ "animalizáramos" ],
+			[ "animalizarais", "animalizaran" ],
+			[ "animalizaran" ]
+		],
+		"10" : [
+			[ "animalizase" ],
+			[ "animalizases" ],
+			[ "animalizase" ],
+			[ "animalizásemos" ],
+			[ "animalizaseis", "animalizasen" ],
+			[ "animalizasen" ]
+		],
+		"11" : [
+			[ "animalizare" ],
+			[ "animalizares" ],
+			[ "animalizare" ],
+			[ "animalizáremos" ],
+			[ "animalizareis", "animalizaren" ],
+			[ "animalizaren" ]
+		],
+		"12" : {
+			"1" : [ "animaliza" ],
+			"2" : [ "animalice" ],
+			"3" : [ "animalicemos" ],
+			"4" : [ "animalizad" ],
+			"5" : [ "animalicen" ]
+		}
+	}
+}

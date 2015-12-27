@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=afincar",
+	"word" : "afincar",
+	"infinitivo" : "afincar",
+	"participio" : [ "afincado" ],
+	"gerundio" : [ "afincando" ],
+	"tenses" : {
+		"3" : [
+			[ "afinco" ],
+			[ "afincas", "afincás" ],
+			[ "afinca" ],
+			[ "afincamos" ],
+			[ "afincáis", "afincan" ],
+			[ "afincan" ]
+		],
+		"4" : [
+			[ "afinqué" ],
+			[ "afincaste" ],
+			[ "afincó" ],
+			[ "afincamos" ],
+			[ "afincasteis", "afincaron" ],
+			[ "afincaron" ]
+		],
+		"5" : [
+			[ "afincaba" ],
+			[ "afincabas" ],
+			[ "afincaba" ],
+			[ "afincábamos" ],
+			[ "afincabais", "afincaban" ],
+			[ "afincaban" ]
+		],
+		"6" : [
+			[ "afincaría" ],
+			[ "afincarías" ],
+			[ "afincaría" ],
+			[ "afincaríamos" ],
+			[ "afincaríais", "afincarían" ],
+			[ "afincarían" ]
+		],
+		"7" : [
+			[ "afincaré" ],
+			[ "afincarás" ],
+			[ "afincará" ],
+			[ "afincaremos" ],
+			[ "afincaréis", "afincarán" ],
+			[ "afincarán" ]
+		],
+		"8" : [
+			[ "afinque" ],
+			[ "afinques" ],
+			[ "afinque" ],
+			[ "afinquemos" ],
+			[ "afinquéis", "afinquen" ],
+			[ "afinquen" ]
+		],
+		"9" : [
+			[ "afincara" ],
+			[ "afincaras" ],
+			[ "afincara" ],
+			[ "afincáramos" ],
+			[ "afincarais", "afincaran" ],
+			[ "afincaran" ]
+		],
+		"10" : [
+			[ "afincase" ],
+			[ "afincases" ],
+			[ "afincase" ],
+			[ "afincásemos" ],
+			[ "afincaseis", "afincasen" ],
+			[ "afincasen" ]
+		],
+		"11" : [
+			[ "afincare" ],
+			[ "afincares" ],
+			[ "afincare" ],
+			[ "afincáremos" ],
+			[ "afincareis", "afincaren" ],
+			[ "afincaren" ]
+		],
+		"12" : {
+			"1" : [ "afinca" ],
+			"2" : [ "afinque" ],
+			"3" : [ "afinquemos" ],
+			"4" : [ "afincad" ],
+			"5" : [ "afinquen" ]
+		}
+	}
+}

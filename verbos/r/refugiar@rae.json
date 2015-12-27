@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=refugiar",
+	"word" : "refugiar",
+	"infinitivo" : "refugiar",
+	"participio" : [ "refugiado" ],
+	"gerundio" : [ "refugiando" ],
+	"tenses" : {
+		"3" : [
+			[ "refugio" ],
+			[ "refugias", "refugiás" ],
+			[ "refugia" ],
+			[ "refugiamos" ],
+			[ "refugiáis", "refugian" ],
+			[ "refugian" ]
+		],
+		"4" : [
+			[ "refugié" ],
+			[ "refugiaste" ],
+			[ "refugió" ],
+			[ "refugiamos" ],
+			[ "refugiasteis", "refugiaron" ],
+			[ "refugiaron" ]
+		],
+		"5" : [
+			[ "refugiaba" ],
+			[ "refugiabas" ],
+			[ "refugiaba" ],
+			[ "refugiábamos" ],
+			[ "refugiabais", "refugiaban" ],
+			[ "refugiaban" ]
+		],
+		"6" : [
+			[ "refugiaría" ],
+			[ "refugiarías" ],
+			[ "refugiaría" ],
+			[ "refugiaríamos" ],
+			[ "refugiaríais", "refugiarían" ],
+			[ "refugiarían" ]
+		],
+		"7" : [
+			[ "refugiaré" ],
+			[ "refugiarás" ],
+			[ "refugiará" ],
+			[ "refugiaremos" ],
+			[ "refugiaréis", "refugiarán" ],
+			[ "refugiarán" ]
+		],
+		"8" : [
+			[ "refugie" ],
+			[ "refugies" ],
+			[ "refugie" ],
+			[ "refugiemos" ],
+			[ "refugiéis", "refugien" ],
+			[ "refugien" ]
+		],
+		"9" : [
+			[ "refugiara" ],
+			[ "refugiaras" ],
+			[ "refugiara" ],
+			[ "refugiáramos" ],
+			[ "refugiarais", "refugiaran" ],
+			[ "refugiaran" ]
+		],
+		"10" : [
+			[ "refugiase" ],
+			[ "refugiases" ],
+			[ "refugiase" ],
+			[ "refugiásemos" ],
+			[ "refugiaseis", "refugiasen" ],
+			[ "refugiasen" ]
+		],
+		"11" : [
+			[ "refugiare" ],
+			[ "refugiares" ],
+			[ "refugiare" ],
+			[ "refugiáremos" ],
+			[ "refugiareis", "refugiaren" ],
+			[ "refugiaren" ]
+		],
+		"12" : {
+			"1" : [ "refugia" ],
+			"2" : [ "refugie" ],
+			"3" : [ "refugiemos" ],
+			"4" : [ "refugiad" ],
+			"5" : [ "refugien" ]
+		}
+	}
+}

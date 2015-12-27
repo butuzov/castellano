@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mudar",
+	"word" : "mudar",
+	"infinitivo" : "mudar",
+	"participio" : [ "mudado" ],
+	"gerundio" : [ "mudando" ],
+	"tenses" : {
+		"3" : [
+			[ "mudo" ],
+			[ "mudas", "mudás" ],
+			[ "muda" ],
+			[ "mudamos" ],
+			[ "mudáis", "mudan" ],
+			[ "mudan" ]
+		],
+		"4" : [
+			[ "mudé" ],
+			[ "mudaste" ],
+			[ "mudó" ],
+			[ "mudamos" ],
+			[ "mudasteis", "mudaron" ],
+			[ "mudaron" ]
+		],
+		"5" : [
+			[ "mudaba" ],
+			[ "mudabas" ],
+			[ "mudaba" ],
+			[ "mudábamos" ],
+			[ "mudabais", "mudaban" ],
+			[ "mudaban" ]
+		],
+		"6" : [
+			[ "mudaría" ],
+			[ "mudarías" ],
+			[ "mudaría" ],
+			[ "mudaríamos" ],
+			[ "mudaríais", "mudarían" ],
+			[ "mudarían" ]
+		],
+		"7" : [
+			[ "mudaré" ],
+			[ "mudarás" ],
+			[ "mudará" ],
+			[ "mudaremos" ],
+			[ "mudaréis", "mudarán" ],
+			[ "mudarán" ]
+		],
+		"8" : [
+			[ "mude" ],
+			[ "mudes" ],
+			[ "mude" ],
+			[ "mudemos" ],
+			[ "mudéis", "muden" ],
+			[ "muden" ]
+		],
+		"9" : [
+			[ "mudara" ],
+			[ "mudaras" ],
+			[ "mudara" ],
+			[ "mudáramos" ],
+			[ "mudarais", "mudaran" ],
+			[ "mudaran" ]
+		],
+		"10" : [
+			[ "mudase" ],
+			[ "mudases" ],
+			[ "mudase" ],
+			[ "mudásemos" ],
+			[ "mudaseis", "mudasen" ],
+			[ "mudasen" ]
+		],
+		"11" : [
+			[ "mudare" ],
+			[ "mudares" ],
+			[ "mudare" ],
+			[ "mudáremos" ],
+			[ "mudareis", "mudaren" ],
+			[ "mudaren" ]
+		],
+		"12" : {
+			"1" : [ "muda" ],
+			"2" : [ "mude" ],
+			"3" : [ "mudemos" ],
+			"4" : [ "mudad" ],
+			"5" : [ "muden" ]
+		}
+	}
+}

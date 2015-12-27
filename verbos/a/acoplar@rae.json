@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acoplar",
+	"word" : "acoplar",
+	"infinitivo" : "acoplar",
+	"participio" : [ "acoplado" ],
+	"gerundio" : [ "acoplando" ],
+	"tenses" : {
+		"3" : [
+			[ "acoplo" ],
+			[ "acoplas", "acoplás" ],
+			[ "acopla" ],
+			[ "acoplamos" ],
+			[ "acopláis", "acoplan" ],
+			[ "acoplan" ]
+		],
+		"4" : [
+			[ "acoplé" ],
+			[ "acoplaste" ],
+			[ "acopló" ],
+			[ "acoplamos" ],
+			[ "acoplasteis", "acoplaron" ],
+			[ "acoplaron" ]
+		],
+		"5" : [
+			[ "acoplaba" ],
+			[ "acoplabas" ],
+			[ "acoplaba" ],
+			[ "acoplábamos" ],
+			[ "acoplabais", "acoplaban" ],
+			[ "acoplaban" ]
+		],
+		"6" : [
+			[ "acoplaría" ],
+			[ "acoplarías" ],
+			[ "acoplaría" ],
+			[ "acoplaríamos" ],
+			[ "acoplaríais", "acoplarían" ],
+			[ "acoplarían" ]
+		],
+		"7" : [
+			[ "acoplaré" ],
+			[ "acoplarás" ],
+			[ "acoplará" ],
+			[ "acoplaremos" ],
+			[ "acoplaréis", "acoplarán" ],
+			[ "acoplarán" ]
+		],
+		"8" : [
+			[ "acople" ],
+			[ "acoples" ],
+			[ "acople" ],
+			[ "acoplemos" ],
+			[ "acopléis", "acoplen" ],
+			[ "acoplen" ]
+		],
+		"9" : [
+			[ "acoplara" ],
+			[ "acoplaras" ],
+			[ "acoplara" ],
+			[ "acopláramos" ],
+			[ "acoplarais", "acoplaran" ],
+			[ "acoplaran" ]
+		],
+		"10" : [
+			[ "acoplase" ],
+			[ "acoplases" ],
+			[ "acoplase" ],
+			[ "acoplásemos" ],
+			[ "acoplaseis", "acoplasen" ],
+			[ "acoplasen" ]
+		],
+		"11" : [
+			[ "acoplare" ],
+			[ "acoplares" ],
+			[ "acoplare" ],
+			[ "acopláremos" ],
+			[ "acoplareis", "acoplaren" ],
+			[ "acoplaren" ]
+		],
+		"12" : {
+			"1" : [ "acopla" ],
+			"2" : [ "acople" ],
+			"3" : [ "acoplemos" ],
+			"4" : [ "acoplad" ],
+			"5" : [ "acoplen" ]
+		}
+	}
+}

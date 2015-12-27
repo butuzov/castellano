@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=impedir",
+	"word" : "impedir",
+	"infinitivo" : "impedir",
+	"participio" : [ "impedido" ],
+	"gerundio" : [ "impidiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "impido" ],
+			[ "impides", "impedís" ],
+			[ "impide" ],
+			[ "impedimos" ],
+			[ "impedís", "impiden" ],
+			[ "impiden" ]
+		],
+		"4" : [
+			[ "impedí" ],
+			[ "impediste" ],
+			[ "impidió" ],
+			[ "impedimos" ],
+			[ "impedisteis", "impidieron" ],
+			[ "impidieron" ]
+		],
+		"5" : [
+			[ "impedía" ],
+			[ "impedías" ],
+			[ "impedía" ],
+			[ "impedíamos" ],
+			[ "impedíais", "impedían" ],
+			[ "impedían" ]
+		],
+		"6" : [
+			[ "impediría" ],
+			[ "impedirías" ],
+			[ "impediría" ],
+			[ "impediríamos" ],
+			[ "impediríais", "impedirían" ],
+			[ "impedirían" ]
+		],
+		"7" : [
+			[ "impediré" ],
+			[ "impedirás" ],
+			[ "impedirá" ],
+			[ "impediremos" ],
+			[ "impediréis", "impedirán" ],
+			[ "impedirán" ]
+		],
+		"8" : [
+			[ "impida" ],
+			[ "impidas" ],
+			[ "impida" ],
+			[ "impidamos" ],
+			[ "impidáis", "impidan" ],
+			[ "impidan" ]
+		],
+		"9" : [
+			[ "impidiera" ],
+			[ "impidieras" ],
+			[ "impidiera" ],
+			[ "impidiéramos" ],
+			[ "impidierais", "impidieran" ],
+			[ "impidieran" ]
+		],
+		"10" : [
+			[ "impidiese" ],
+			[ "impidieses" ],
+			[ "impidiese" ],
+			[ "impidiésemos" ],
+			[ "impidieseis", "impidiesen" ],
+			[ "impidiesen" ]
+		],
+		"11" : [
+			[ "impidiere" ],
+			[ "impidieres" ],
+			[ "impidiere" ],
+			[ "impidiéremos" ],
+			[ "impidiereis", "impidieren" ],
+			[ "impidieren" ]
+		],
+		"12" : {
+			"1" : [ "impide" ],
+			"2" : [ "impida" ],
+			"3" : [ "impidamos" ],
+			"4" : [ "impedid" ],
+			"5" : [ "impidan" ]
+		}
+	}
+}

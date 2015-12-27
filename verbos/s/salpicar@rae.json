@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=salpicar",
+	"word" : "salpicar",
+	"infinitivo" : "salpicar",
+	"participio" : [ "salpicado" ],
+	"gerundio" : [ "salpicando" ],
+	"tenses" : {
+		"3" : [
+			[ "salpico" ],
+			[ "salpicas", "salpicás" ],
+			[ "salpica" ],
+			[ "salpicamos" ],
+			[ "salpicáis", "salpican" ],
+			[ "salpican" ]
+		],
+		"4" : [
+			[ "salpiqué" ],
+			[ "salpicaste" ],
+			[ "salpicó" ],
+			[ "salpicamos" ],
+			[ "salpicasteis", "salpicaron" ],
+			[ "salpicaron" ]
+		],
+		"5" : [
+			[ "salpicaba" ],
+			[ "salpicabas" ],
+			[ "salpicaba" ],
+			[ "salpicábamos" ],
+			[ "salpicabais", "salpicaban" ],
+			[ "salpicaban" ]
+		],
+		"6" : [
+			[ "salpicaría" ],
+			[ "salpicarías" ],
+			[ "salpicaría" ],
+			[ "salpicaríamos" ],
+			[ "salpicaríais", "salpicarían" ],
+			[ "salpicarían" ]
+		],
+		"7" : [
+			[ "salpicaré" ],
+			[ "salpicarás" ],
+			[ "salpicará" ],
+			[ "salpicaremos" ],
+			[ "salpicaréis", "salpicarán" ],
+			[ "salpicarán" ]
+		],
+		"8" : [
+			[ "salpique" ],
+			[ "salpiques" ],
+			[ "salpique" ],
+			[ "salpiquemos" ],
+			[ "salpiquéis", "salpiquen" ],
+			[ "salpiquen" ]
+		],
+		"9" : [
+			[ "salpicara" ],
+			[ "salpicaras" ],
+			[ "salpicara" ],
+			[ "salpicáramos" ],
+			[ "salpicarais", "salpicaran" ],
+			[ "salpicaran" ]
+		],
+		"10" : [
+			[ "salpicase" ],
+			[ "salpicases" ],
+			[ "salpicase" ],
+			[ "salpicásemos" ],
+			[ "salpicaseis", "salpicasen" ],
+			[ "salpicasen" ]
+		],
+		"11" : [
+			[ "salpicare" ],
+			[ "salpicares" ],
+			[ "salpicare" ],
+			[ "salpicáremos" ],
+			[ "salpicareis", "salpicaren" ],
+			[ "salpicaren" ]
+		],
+		"12" : {
+			"1" : [ "salpica" ],
+			"2" : [ "salpique" ],
+			"3" : [ "salpiquemos" ],
+			"4" : [ "salpicad" ],
+			"5" : [ "salpiquen" ]
+		}
+	}
+}

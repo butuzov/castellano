@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=refulgir",
+	"word" : "refulgir",
+	"infinitivo" : "refulgir",
+	"participio" : [ "refulgido" ],
+	"gerundio" : [ "refulgiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "refuljo" ],
+			[ "refulges", "refulgís" ],
+			[ "refulge" ],
+			[ "refulgimos" ],
+			[ "refulgís", "refulgen" ],
+			[ "refulgen" ]
+		],
+		"4" : [
+			[ "refulgí" ],
+			[ "refulgiste" ],
+			[ "refulgió" ],
+			[ "refulgimos" ],
+			[ "refulgisteis", "refulgieron" ],
+			[ "refulgieron" ]
+		],
+		"5" : [
+			[ "refulgía" ],
+			[ "refulgías" ],
+			[ "refulgía" ],
+			[ "refulgíamos" ],
+			[ "refulgíais", "refulgían" ],
+			[ "refulgían" ]
+		],
+		"6" : [
+			[ "refulgiría" ],
+			[ "refulgirías" ],
+			[ "refulgiría" ],
+			[ "refulgiríamos" ],
+			[ "refulgiríais", "refulgirían" ],
+			[ "refulgirían" ]
+		],
+		"7" : [
+			[ "refulgiré" ],
+			[ "refulgirás" ],
+			[ "refulgirá" ],
+			[ "refulgiremos" ],
+			[ "refulgiréis", "refulgirán" ],
+			[ "refulgirán" ]
+		],
+		"8" : [
+			[ "refulja" ],
+			[ "refuljas" ],
+			[ "refulja" ],
+			[ "refuljamos" ],
+			[ "refuljáis", "refuljan" ],
+			[ "refuljan" ]
+		],
+		"9" : [
+			[ "refulgiera" ],
+			[ "refulgieras" ],
+			[ "refulgiera" ],
+			[ "refulgiéramos" ],
+			[ "refulgierais", "refulgieran" ],
+			[ "refulgieran" ]
+		],
+		"10" : [
+			[ "refulgiese" ],
+			[ "refulgieses" ],
+			[ "refulgiese" ],
+			[ "refulgiésemos" ],
+			[ "refulgieseis", "refulgiesen" ],
+			[ "refulgiesen" ]
+		],
+		"11" : [
+			[ "refulgiere" ],
+			[ "refulgieres" ],
+			[ "refulgiere" ],
+			[ "refulgiéremos" ],
+			[ "refulgiereis", "refulgieren" ],
+			[ "refulgieren" ]
+		],
+		"12" : {
+			"1" : [ "refulge" ],
+			"2" : [ "refulja" ],
+			"3" : [ "refuljamos" ],
+			"4" : [ "refulgid" ],
+			"5" : [ "refuljan" ]
+		}
+	}
+}

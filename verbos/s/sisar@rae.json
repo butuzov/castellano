@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sisar",
+	"word" : "sisar",
+	"infinitivo" : "sisar",
+	"participio" : [ "sisado" ],
+	"gerundio" : [ "sisando" ],
+	"tenses" : {
+		"3" : [
+			[ "siso" ],
+			[ "sisas", "sisás" ],
+			[ "sisa" ],
+			[ "sisamos" ],
+			[ "sisáis", "sisan" ],
+			[ "sisan" ]
+		],
+		"4" : [
+			[ "sisé" ],
+			[ "sisaste" ],
+			[ "sisó" ],
+			[ "sisamos" ],
+			[ "sisasteis", "sisaron" ],
+			[ "sisaron" ]
+		],
+		"5" : [
+			[ "sisaba" ],
+			[ "sisabas" ],
+			[ "sisaba" ],
+			[ "sisábamos" ],
+			[ "sisabais", "sisaban" ],
+			[ "sisaban" ]
+		],
+		"6" : [
+			[ "sisaría" ],
+			[ "sisarías" ],
+			[ "sisaría" ],
+			[ "sisaríamos" ],
+			[ "sisaríais", "sisarían" ],
+			[ "sisarían" ]
+		],
+		"7" : [
+			[ "sisaré" ],
+			[ "sisarás" ],
+			[ "sisará" ],
+			[ "sisaremos" ],
+			[ "sisaréis", "sisarán" ],
+			[ "sisarán" ]
+		],
+		"8" : [
+			[ "sise" ],
+			[ "sises" ],
+			[ "sise" ],
+			[ "sisemos" ],
+			[ "siséis", "sisen" ],
+			[ "sisen" ]
+		],
+		"9" : [
+			[ "sisara" ],
+			[ "sisaras" ],
+			[ "sisara" ],
+			[ "sisáramos" ],
+			[ "sisarais", "sisaran" ],
+			[ "sisaran" ]
+		],
+		"10" : [
+			[ "sisase" ],
+			[ "sisases" ],
+			[ "sisase" ],
+			[ "sisásemos" ],
+			[ "sisaseis", "sisasen" ],
+			[ "sisasen" ]
+		],
+		"11" : [
+			[ "sisare" ],
+			[ "sisares" ],
+			[ "sisare" ],
+			[ "sisáremos" ],
+			[ "sisareis", "sisaren" ],
+			[ "sisaren" ]
+		],
+		"12" : {
+			"1" : [ "sisa" ],
+			"2" : [ "sise" ],
+			"3" : [ "sisemos" ],
+			"4" : [ "sisad" ],
+			"5" : [ "sisen" ]
+		}
+	}
+}

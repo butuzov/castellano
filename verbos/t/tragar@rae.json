@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tragar",
+	"word" : "tragar",
+	"infinitivo" : "tragar",
+	"participio" : [ "tragado" ],
+	"gerundio" : [ "tragando" ],
+	"tenses" : {
+		"3" : [
+			[ "trago" ],
+			[ "tragas", "tragás" ],
+			[ "traga" ],
+			[ "tragamos" ],
+			[ "tragáis", "tragan" ],
+			[ "tragan" ]
+		],
+		"4" : [
+			[ "tragué" ],
+			[ "tragaste" ],
+			[ "tragó" ],
+			[ "tragamos" ],
+			[ "tragasteis", "tragaron" ],
+			[ "tragaron" ]
+		],
+		"5" : [
+			[ "tragaba" ],
+			[ "tragabas" ],
+			[ "tragaba" ],
+			[ "tragábamos" ],
+			[ "tragabais", "tragaban" ],
+			[ "tragaban" ]
+		],
+		"6" : [
+			[ "tragaría" ],
+			[ "tragarías" ],
+			[ "tragaría" ],
+			[ "tragaríamos" ],
+			[ "tragaríais", "tragarían" ],
+			[ "tragarían" ]
+		],
+		"7" : [
+			[ "tragaré" ],
+			[ "tragarás" ],
+			[ "tragará" ],
+			[ "tragaremos" ],
+			[ "tragaréis", "tragarán" ],
+			[ "tragarán" ]
+		],
+		"8" : [
+			[ "trague" ],
+			[ "tragues" ],
+			[ "trague" ],
+			[ "traguemos" ],
+			[ "traguéis", "traguen" ],
+			[ "traguen" ]
+		],
+		"9" : [
+			[ "tragara" ],
+			[ "tragaras" ],
+			[ "tragara" ],
+			[ "tragáramos" ],
+			[ "tragarais", "tragaran" ],
+			[ "tragaran" ]
+		],
+		"10" : [
+			[ "tragase" ],
+			[ "tragases" ],
+			[ "tragase" ],
+			[ "tragásemos" ],
+			[ "tragaseis", "tragasen" ],
+			[ "tragasen" ]
+		],
+		"11" : [
+			[ "tragare" ],
+			[ "tragares" ],
+			[ "tragare" ],
+			[ "tragáremos" ],
+			[ "tragareis", "tragaren" ],
+			[ "tragaren" ]
+		],
+		"12" : {
+			"1" : [ "traga" ],
+			"2" : [ "trague" ],
+			"3" : [ "traguemos" ],
+			"4" : [ "tragad" ],
+			"5" : [ "traguen" ]
+		}
+	}
+}

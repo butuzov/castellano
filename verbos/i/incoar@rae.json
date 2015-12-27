@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incoar",
+	"word" : "incoar",
+	"infinitivo" : "incoar",
+	"participio" : [ "incoado" ],
+	"gerundio" : [ "incoando" ],
+	"tenses" : {
+		"3" : [
+			[ "incoo" ],
+			[ "incoas", "incoás" ],
+			[ "incoa" ],
+			[ "incoamos" ],
+			[ "incoáis", "incoan" ],
+			[ "incoan" ]
+		],
+		"4" : [
+			[ "incoé" ],
+			[ "incoaste" ],
+			[ "incoó" ],
+			[ "incoamos" ],
+			[ "incoasteis", "incoaron" ],
+			[ "incoaron" ]
+		],
+		"5" : [
+			[ "incoaba" ],
+			[ "incoabas" ],
+			[ "incoaba" ],
+			[ "incoábamos" ],
+			[ "incoabais", "incoaban" ],
+			[ "incoaban" ]
+		],
+		"6" : [
+			[ "incoaría" ],
+			[ "incoarías" ],
+			[ "incoaría" ],
+			[ "incoaríamos" ],
+			[ "incoaríais", "incoarían" ],
+			[ "incoarían" ]
+		],
+		"7" : [
+			[ "incoaré" ],
+			[ "incoarás" ],
+			[ "incoará" ],
+			[ "incoaremos" ],
+			[ "incoaréis", "incoarán" ],
+			[ "incoarán" ]
+		],
+		"8" : [
+			[ "incoe" ],
+			[ "incoes" ],
+			[ "incoe" ],
+			[ "incoemos" ],
+			[ "incoéis", "incoen" ],
+			[ "incoen" ]
+		],
+		"9" : [
+			[ "incoara" ],
+			[ "incoaras" ],
+			[ "incoara" ],
+			[ "incoáramos" ],
+			[ "incoarais", "incoaran" ],
+			[ "incoaran" ]
+		],
+		"10" : [
+			[ "incoase" ],
+			[ "incoases" ],
+			[ "incoase" ],
+			[ "incoásemos" ],
+			[ "incoaseis", "incoasen" ],
+			[ "incoasen" ]
+		],
+		"11" : [
+			[ "incoare" ],
+			[ "incoares" ],
+			[ "incoare" ],
+			[ "incoáremos" ],
+			[ "incoareis", "incoaren" ],
+			[ "incoaren" ]
+		],
+		"12" : {
+			"1" : [ "incoa" ],
+			"2" : [ "incoe" ],
+			"3" : [ "incoemos" ],
+			"4" : [ "incoad" ],
+			"5" : [ "incoen" ]
+		}
+	}
+}

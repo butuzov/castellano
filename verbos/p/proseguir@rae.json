@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=proseguir",
+	"word" : "proseguir",
+	"infinitivo" : "proseguir",
+	"participio" : [ "proseguido" ],
+	"gerundio" : [ "prosiguiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "prosigo" ],
+			[ "prosigues", "proseguís" ],
+			[ "prosigue" ],
+			[ "proseguimos" ],
+			[ "proseguís", "prosiguen" ],
+			[ "prosiguen" ]
+		],
+		"4" : [
+			[ "proseguí" ],
+			[ "proseguiste" ],
+			[ "prosiguió" ],
+			[ "proseguimos" ],
+			[ "proseguisteis", "prosiguieron" ],
+			[ "prosiguieron" ]
+		],
+		"5" : [
+			[ "proseguía" ],
+			[ "proseguías" ],
+			[ "proseguía" ],
+			[ "proseguíamos" ],
+			[ "proseguíais", "proseguían" ],
+			[ "proseguían" ]
+		],
+		"6" : [
+			[ "proseguiría" ],
+			[ "proseguirías" ],
+			[ "proseguiría" ],
+			[ "proseguiríamos" ],
+			[ "proseguiríais", "proseguirían" ],
+			[ "proseguirían" ]
+		],
+		"7" : [
+			[ "proseguiré" ],
+			[ "proseguirás" ],
+			[ "proseguirá" ],
+			[ "proseguiremos" ],
+			[ "proseguiréis", "proseguirán" ],
+			[ "proseguirán" ]
+		],
+		"8" : [
+			[ "prosiga" ],
+			[ "prosigas" ],
+			[ "prosiga" ],
+			[ "prosigamos" ],
+			[ "prosigáis", "prosigan" ],
+			[ "prosigan" ]
+		],
+		"9" : [
+			[ "prosiguiera" ],
+			[ "prosiguieras" ],
+			[ "prosiguiera" ],
+			[ "prosiguiéramos" ],
+			[ "prosiguierais", "prosiguieran" ],
+			[ "prosiguieran" ]
+		],
+		"10" : [
+			[ "prosiguiese" ],
+			[ "prosiguieses" ],
+			[ "prosiguiese" ],
+			[ "prosiguiésemos" ],
+			[ "prosiguieseis", "prosiguiesen" ],
+			[ "prosiguiesen" ]
+		],
+		"11" : [
+			[ "prosiguiere" ],
+			[ "prosiguieres" ],
+			[ "prosiguiere" ],
+			[ "prosiguiéremos" ],
+			[ "prosiguiereis", "prosiguieren" ],
+			[ "prosiguieren" ]
+		],
+		"12" : {
+			"1" : [ "prosigue" ],
+			"2" : [ "prosiga" ],
+			"3" : [ "prosigamos" ],
+			"4" : [ "proseguid" ],
+			"5" : [ "prosigan" ]
+		}
+	}
+}

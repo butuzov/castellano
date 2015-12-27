@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ofrendar",
+	"word" : "ofrendar",
+	"infinitivo" : "ofrendar",
+	"participio" : [ "ofrendado" ],
+	"gerundio" : [ "ofrendando" ],
+	"tenses" : {
+		"3" : [
+			[ "ofrendo" ],
+			[ "ofrendas", "ofrendás" ],
+			[ "ofrenda" ],
+			[ "ofrendamos" ],
+			[ "ofrendáis", "ofrendan" ],
+			[ "ofrendan" ]
+		],
+		"4" : [
+			[ "ofrendé" ],
+			[ "ofrendaste" ],
+			[ "ofrendó" ],
+			[ "ofrendamos" ],
+			[ "ofrendasteis", "ofrendaron" ],
+			[ "ofrendaron" ]
+		],
+		"5" : [
+			[ "ofrendaba" ],
+			[ "ofrendabas" ],
+			[ "ofrendaba" ],
+			[ "ofrendábamos" ],
+			[ "ofrendabais", "ofrendaban" ],
+			[ "ofrendaban" ]
+		],
+		"6" : [
+			[ "ofrendaría" ],
+			[ "ofrendarías" ],
+			[ "ofrendaría" ],
+			[ "ofrendaríamos" ],
+			[ "ofrendaríais", "ofrendarían" ],
+			[ "ofrendarían" ]
+		],
+		"7" : [
+			[ "ofrendaré" ],
+			[ "ofrendarás" ],
+			[ "ofrendará" ],
+			[ "ofrendaremos" ],
+			[ "ofrendaréis", "ofrendarán" ],
+			[ "ofrendarán" ]
+		],
+		"8" : [
+			[ "ofrende" ],
+			[ "ofrendes" ],
+			[ "ofrende" ],
+			[ "ofrendemos" ],
+			[ "ofrendéis", "ofrenden" ],
+			[ "ofrenden" ]
+		],
+		"9" : [
+			[ "ofrendara" ],
+			[ "ofrendaras" ],
+			[ "ofrendara" ],
+			[ "ofrendáramos" ],
+			[ "ofrendarais", "ofrendaran" ],
+			[ "ofrendaran" ]
+		],
+		"10" : [
+			[ "ofrendase" ],
+			[ "ofrendases" ],
+			[ "ofrendase" ],
+			[ "ofrendásemos" ],
+			[ "ofrendaseis", "ofrendasen" ],
+			[ "ofrendasen" ]
+		],
+		"11" : [
+			[ "ofrendare" ],
+			[ "ofrendares" ],
+			[ "ofrendare" ],
+			[ "ofrendáremos" ],
+			[ "ofrendareis", "ofrendaren" ],
+			[ "ofrendaren" ]
+		],
+		"12" : {
+			"1" : [ "ofrenda" ],
+			"2" : [ "ofrende" ],
+			"3" : [ "ofrendemos" ],
+			"4" : [ "ofrendad" ],
+			"5" : [ "ofrenden" ]
+		}
+	}
+}

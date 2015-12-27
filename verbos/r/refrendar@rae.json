@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=refrendar",
+	"word" : "refrendar",
+	"infinitivo" : "refrendar",
+	"participio" : [ "refrendado" ],
+	"gerundio" : [ "refrendando" ],
+	"tenses" : {
+		"3" : [
+			[ "refrendo" ],
+			[ "refrendas", "refrendás" ],
+			[ "refrenda" ],
+			[ "refrendamos" ],
+			[ "refrendáis", "refrendan" ],
+			[ "refrendan" ]
+		],
+		"4" : [
+			[ "refrendé" ],
+			[ "refrendaste" ],
+			[ "refrendó" ],
+			[ "refrendamos" ],
+			[ "refrendasteis", "refrendaron" ],
+			[ "refrendaron" ]
+		],
+		"5" : [
+			[ "refrendaba" ],
+			[ "refrendabas" ],
+			[ "refrendaba" ],
+			[ "refrendábamos" ],
+			[ "refrendabais", "refrendaban" ],
+			[ "refrendaban" ]
+		],
+		"6" : [
+			[ "refrendaría" ],
+			[ "refrendarías" ],
+			[ "refrendaría" ],
+			[ "refrendaríamos" ],
+			[ "refrendaríais", "refrendarían" ],
+			[ "refrendarían" ]
+		],
+		"7" : [
+			[ "refrendaré" ],
+			[ "refrendarás" ],
+			[ "refrendará" ],
+			[ "refrendaremos" ],
+			[ "refrendaréis", "refrendarán" ],
+			[ "refrendarán" ]
+		],
+		"8" : [
+			[ "refrende" ],
+			[ "refrendes" ],
+			[ "refrende" ],
+			[ "refrendemos" ],
+			[ "refrendéis", "refrenden" ],
+			[ "refrenden" ]
+		],
+		"9" : [
+			[ "refrendara" ],
+			[ "refrendaras" ],
+			[ "refrendara" ],
+			[ "refrendáramos" ],
+			[ "refrendarais", "refrendaran" ],
+			[ "refrendaran" ]
+		],
+		"10" : [
+			[ "refrendase" ],
+			[ "refrendases" ],
+			[ "refrendase" ],
+			[ "refrendásemos" ],
+			[ "refrendaseis", "refrendasen" ],
+			[ "refrendasen" ]
+		],
+		"11" : [
+			[ "refrendare" ],
+			[ "refrendares" ],
+			[ "refrendare" ],
+			[ "refrendáremos" ],
+			[ "refrendareis", "refrendaren" ],
+			[ "refrendaren" ]
+		],
+		"12" : {
+			"1" : [ "refrenda" ],
+			"2" : [ "refrende" ],
+			"3" : [ "refrendemos" ],
+			"4" : [ "refrendad" ],
+			"5" : [ "refrenden" ]
+		}
+	}
+}

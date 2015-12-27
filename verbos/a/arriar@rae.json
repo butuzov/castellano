@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arriar",
+	"word" : "arriar",
+	"infinitivo" : "arriar",
+	"participio" : [ "arriado" ],
+	"gerundio" : [ "arriando" ],
+	"tenses" : {
+		"3" : [
+			[ "arrío" ],
+			[ "arrías", "arriás" ],
+			[ "arría" ],
+			[ "arriamos" ],
+			[ "arriáis", "arrían" ],
+			[ "arrían" ]
+		],
+		"4" : [
+			[ "arrié" ],
+			[ "arriaste" ],
+			[ "arrió" ],
+			[ "arriamos" ],
+			[ "arriasteis", "arriaron" ],
+			[ "arriaron" ]
+		],
+		"5" : [
+			[ "arriaba" ],
+			[ "arriabas" ],
+			[ "arriaba" ],
+			[ "arriábamos" ],
+			[ "arriabais", "arriaban" ],
+			[ "arriaban" ]
+		],
+		"6" : [
+			[ "arriaría" ],
+			[ "arriarías" ],
+			[ "arriaría" ],
+			[ "arriaríamos" ],
+			[ "arriaríais", "arriarían" ],
+			[ "arriarían" ]
+		],
+		"7" : [
+			[ "arriaré" ],
+			[ "arriarás" ],
+			[ "arriará" ],
+			[ "arriaremos" ],
+			[ "arriaréis", "arriarán" ],
+			[ "arriarán" ]
+		],
+		"8" : [
+			[ "arríe" ],
+			[ "arríes" ],
+			[ "arríe" ],
+			[ "arriemos" ],
+			[ "arriéis", "arríen" ],
+			[ "arríen" ]
+		],
+		"9" : [
+			[ "arriara" ],
+			[ "arriaras" ],
+			[ "arriara" ],
+			[ "arriáramos" ],
+			[ "arriarais", "arriaran" ],
+			[ "arriaran" ]
+		],
+		"10" : [
+			[ "arriase" ],
+			[ "arriases" ],
+			[ "arriase" ],
+			[ "arriásemos" ],
+			[ "arriaseis", "arriasen" ],
+			[ "arriasen" ]
+		],
+		"11" : [
+			[ "arriare" ],
+			[ "arriares" ],
+			[ "arriare" ],
+			[ "arriáremos" ],
+			[ "arriareis", "arriaren" ],
+			[ "arriaren" ]
+		],
+		"12" : {
+			"1" : [ "arría" ],
+			"2" : [ "arríe" ],
+			"3" : [ "arriemos" ],
+			"4" : [ "arriad" ],
+			"5" : [ "arríen" ]
+		}
+	}
+}

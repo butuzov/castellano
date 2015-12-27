@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=parcelar",
+	"word" : "parcelar",
+	"infinitivo" : "parcelar",
+	"participio" : [ "parcelado" ],
+	"gerundio" : [ "parcelando" ],
+	"tenses" : {
+		"3" : [
+			[ "parcelo" ],
+			[ "parcelas", "parcelás" ],
+			[ "parcela" ],
+			[ "parcelamos" ],
+			[ "parceláis", "parcelan" ],
+			[ "parcelan" ]
+		],
+		"4" : [
+			[ "parcelé" ],
+			[ "parcelaste" ],
+			[ "parceló" ],
+			[ "parcelamos" ],
+			[ "parcelasteis", "parcelaron" ],
+			[ "parcelaron" ]
+		],
+		"5" : [
+			[ "parcelaba" ],
+			[ "parcelabas" ],
+			[ "parcelaba" ],
+			[ "parcelábamos" ],
+			[ "parcelabais", "parcelaban" ],
+			[ "parcelaban" ]
+		],
+		"6" : [
+			[ "parcelaría" ],
+			[ "parcelarías" ],
+			[ "parcelaría" ],
+			[ "parcelaríamos" ],
+			[ "parcelaríais", "parcelarían" ],
+			[ "parcelarían" ]
+		],
+		"7" : [
+			[ "parcelaré" ],
+			[ "parcelarás" ],
+			[ "parcelará" ],
+			[ "parcelaremos" ],
+			[ "parcelaréis", "parcelarán" ],
+			[ "parcelarán" ]
+		],
+		"8" : [
+			[ "parcele" ],
+			[ "parceles" ],
+			[ "parcele" ],
+			[ "parcelemos" ],
+			[ "parceléis", "parcelen" ],
+			[ "parcelen" ]
+		],
+		"9" : [
+			[ "parcelara" ],
+			[ "parcelaras" ],
+			[ "parcelara" ],
+			[ "parceláramos" ],
+			[ "parcelarais", "parcelaran" ],
+			[ "parcelaran" ]
+		],
+		"10" : [
+			[ "parcelase" ],
+			[ "parcelases" ],
+			[ "parcelase" ],
+			[ "parcelásemos" ],
+			[ "parcelaseis", "parcelasen" ],
+			[ "parcelasen" ]
+		],
+		"11" : [
+			[ "parcelare" ],
+			[ "parcelares" ],
+			[ "parcelare" ],
+			[ "parceláremos" ],
+			[ "parcelareis", "parcelaren" ],
+			[ "parcelaren" ]
+		],
+		"12" : {
+			"1" : [ "parcela" ],
+			"2" : [ "parcele" ],
+			"3" : [ "parcelemos" ],
+			"4" : [ "parcelad" ],
+			"5" : [ "parcelen" ]
+		}
+	}
+}

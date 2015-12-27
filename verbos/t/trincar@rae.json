@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trincar",
+	"word" : "trincar",
+	"infinitivo" : "trincar",
+	"participio" : [ "trincado" ],
+	"gerundio" : [ "trincando" ],
+	"tenses" : {
+		"3" : [
+			[ "trinco" ],
+			[ "trincas", "trincás" ],
+			[ "trinca" ],
+			[ "trincamos" ],
+			[ "trincáis", "trincan" ],
+			[ "trincan" ]
+		],
+		"4" : [
+			[ "trinqué" ],
+			[ "trincaste" ],
+			[ "trincó" ],
+			[ "trincamos" ],
+			[ "trincasteis", "trincaron" ],
+			[ "trincaron" ]
+		],
+		"5" : [
+			[ "trincaba" ],
+			[ "trincabas" ],
+			[ "trincaba" ],
+			[ "trincábamos" ],
+			[ "trincabais", "trincaban" ],
+			[ "trincaban" ]
+		],
+		"6" : [
+			[ "trincaría" ],
+			[ "trincarías" ],
+			[ "trincaría" ],
+			[ "trincaríamos" ],
+			[ "trincaríais", "trincarían" ],
+			[ "trincarían" ]
+		],
+		"7" : [
+			[ "trincaré" ],
+			[ "trincarás" ],
+			[ "trincará" ],
+			[ "trincaremos" ],
+			[ "trincaréis", "trincarán" ],
+			[ "trincarán" ]
+		],
+		"8" : [
+			[ "trinque" ],
+			[ "trinques" ],
+			[ "trinque" ],
+			[ "trinquemos" ],
+			[ "trinquéis", "trinquen" ],
+			[ "trinquen" ]
+		],
+		"9" : [
+			[ "trincara" ],
+			[ "trincaras" ],
+			[ "trincara" ],
+			[ "trincáramos" ],
+			[ "trincarais", "trincaran" ],
+			[ "trincaran" ]
+		],
+		"10" : [
+			[ "trincase" ],
+			[ "trincases" ],
+			[ "trincase" ],
+			[ "trincásemos" ],
+			[ "trincaseis", "trincasen" ],
+			[ "trincasen" ]
+		],
+		"11" : [
+			[ "trincare" ],
+			[ "trincares" ],
+			[ "trincare" ],
+			[ "trincáremos" ],
+			[ "trincareis", "trincaren" ],
+			[ "trincaren" ]
+		],
+		"12" : {
+			"1" : [ "trinca" ],
+			"2" : [ "trinque" ],
+			"3" : [ "trinquemos" ],
+			"4" : [ "trincad" ],
+			"5" : [ "trinquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=requerir",
+	"word" : "requerir",
+	"infinitivo" : "requerir",
+	"participio" : [ "requerido" ],
+	"gerundio" : [ "requiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "requiero" ],
+			[ "requieres", "requerís" ],
+			[ "requiere" ],
+			[ "requerimos" ],
+			[ "requerís", "requieren" ],
+			[ "requieren" ]
+		],
+		"4" : [
+			[ "requerí" ],
+			[ "requeriste" ],
+			[ "requirió" ],
+			[ "requerimos" ],
+			[ "requeristeis", "requirieron" ],
+			[ "requirieron" ]
+		],
+		"5" : [
+			[ "requería" ],
+			[ "requerías" ],
+			[ "requería" ],
+			[ "requeríamos" ],
+			[ "requeríais", "requerían" ],
+			[ "requerían" ]
+		],
+		"6" : [
+			[ "requeriría" ],
+			[ "requerirías" ],
+			[ "requeriría" ],
+			[ "requeriríamos" ],
+			[ "requeriríais", "requerirían" ],
+			[ "requerirían" ]
+		],
+		"7" : [
+			[ "requeriré" ],
+			[ "requerirás" ],
+			[ "requerirá" ],
+			[ "requeriremos" ],
+			[ "requeriréis", "requerirán" ],
+			[ "requerirán" ]
+		],
+		"8" : [
+			[ "requiera" ],
+			[ "requieras" ],
+			[ "requiera" ],
+			[ "requiramos" ],
+			[ "requiráis", "requieran" ],
+			[ "requieran" ]
+		],
+		"9" : [
+			[ "requiriera" ],
+			[ "requirieras" ],
+			[ "requiriera" ],
+			[ "requiriéramos" ],
+			[ "requirierais", "requirieran" ],
+			[ "requirieran" ]
+		],
+		"10" : [
+			[ "requiriese" ],
+			[ "requirieses" ],
+			[ "requiriese" ],
+			[ "requiriésemos" ],
+			[ "requirieseis", "requiriesen" ],
+			[ "requiriesen" ]
+		],
+		"11" : [
+			[ "requiriere" ],
+			[ "requirieres" ],
+			[ "requiriere" ],
+			[ "requiriéremos" ],
+			[ "requiriereis", "requirieren" ],
+			[ "requirieren" ]
+		],
+		"12" : {
+			"1" : [ "requiere" ],
+			"2" : [ "requiera" ],
+			"3" : [ "requiramos" ],
+			"4" : [ "requerid" ],
+			"5" : [ "requieran" ]
+		}
+	}
+}

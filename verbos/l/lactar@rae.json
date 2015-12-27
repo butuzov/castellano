@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lactar",
+	"word" : "lactar",
+	"infinitivo" : "lactar",
+	"participio" : [ "lactado" ],
+	"gerundio" : [ "lactando" ],
+	"tenses" : {
+		"3" : [
+			[ "lacto" ],
+			[ "lactas", "lactás" ],
+			[ "lacta" ],
+			[ "lactamos" ],
+			[ "lactáis", "lactan" ],
+			[ "lactan" ]
+		],
+		"4" : [
+			[ "lacté" ],
+			[ "lactaste" ],
+			[ "lactó" ],
+			[ "lactamos" ],
+			[ "lactasteis", "lactaron" ],
+			[ "lactaron" ]
+		],
+		"5" : [
+			[ "lactaba" ],
+			[ "lactabas" ],
+			[ "lactaba" ],
+			[ "lactábamos" ],
+			[ "lactabais", "lactaban" ],
+			[ "lactaban" ]
+		],
+		"6" : [
+			[ "lactaría" ],
+			[ "lactarías" ],
+			[ "lactaría" ],
+			[ "lactaríamos" ],
+			[ "lactaríais", "lactarían" ],
+			[ "lactarían" ]
+		],
+		"7" : [
+			[ "lactaré" ],
+			[ "lactarás" ],
+			[ "lactará" ],
+			[ "lactaremos" ],
+			[ "lactaréis", "lactarán" ],
+			[ "lactarán" ]
+		],
+		"8" : [
+			[ "lacte" ],
+			[ "lactes" ],
+			[ "lacte" ],
+			[ "lactemos" ],
+			[ "lactéis", "lacten" ],
+			[ "lacten" ]
+		],
+		"9" : [
+			[ "lactara" ],
+			[ "lactaras" ],
+			[ "lactara" ],
+			[ "lactáramos" ],
+			[ "lactarais", "lactaran" ],
+			[ "lactaran" ]
+		],
+		"10" : [
+			[ "lactase" ],
+			[ "lactases" ],
+			[ "lactase" ],
+			[ "lactásemos" ],
+			[ "lactaseis", "lactasen" ],
+			[ "lactasen" ]
+		],
+		"11" : [
+			[ "lactare" ],
+			[ "lactares" ],
+			[ "lactare" ],
+			[ "lactáremos" ],
+			[ "lactareis", "lactaren" ],
+			[ "lactaren" ]
+		],
+		"12" : {
+			"1" : [ "lacta" ],
+			"2" : [ "lacte" ],
+			"3" : [ "lactemos" ],
+			"4" : [ "lactad" ],
+			"5" : [ "lacten" ]
+		}
+	}
+}

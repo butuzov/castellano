@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sermonear",
+	"word" : "sermonear",
+	"infinitivo" : "sermonear",
+	"participio" : [ "sermoneado" ],
+	"gerundio" : [ "sermoneando" ],
+	"tenses" : {
+		"3" : [
+			[ "sermoneo" ],
+			[ "sermoneas", "sermoneás" ],
+			[ "sermonea" ],
+			[ "sermoneamos" ],
+			[ "sermoneáis", "sermonean" ],
+			[ "sermonean" ]
+		],
+		"4" : [
+			[ "sermoneé" ],
+			[ "sermoneaste" ],
+			[ "sermoneó" ],
+			[ "sermoneamos" ],
+			[ "sermoneasteis", "sermonearon" ],
+			[ "sermonearon" ]
+		],
+		"5" : [
+			[ "sermoneaba" ],
+			[ "sermoneabas" ],
+			[ "sermoneaba" ],
+			[ "sermoneábamos" ],
+			[ "sermoneabais", "sermoneaban" ],
+			[ "sermoneaban" ]
+		],
+		"6" : [
+			[ "sermonearía" ],
+			[ "sermonearías" ],
+			[ "sermonearía" ],
+			[ "sermonearíamos" ],
+			[ "sermonearíais", "sermonearían" ],
+			[ "sermonearían" ]
+		],
+		"7" : [
+			[ "sermonearé" ],
+			[ "sermonearás" ],
+			[ "sermoneará" ],
+			[ "sermonearemos" ],
+			[ "sermonearéis", "sermonearán" ],
+			[ "sermonearán" ]
+		],
+		"8" : [
+			[ "sermonee" ],
+			[ "sermonees" ],
+			[ "sermonee" ],
+			[ "sermoneemos" ],
+			[ "sermoneéis", "sermoneen" ],
+			[ "sermoneen" ]
+		],
+		"9" : [
+			[ "sermoneara" ],
+			[ "sermonearas" ],
+			[ "sermoneara" ],
+			[ "sermoneáramos" ],
+			[ "sermonearais", "sermonearan" ],
+			[ "sermonearan" ]
+		],
+		"10" : [
+			[ "sermonease" ],
+			[ "sermoneases" ],
+			[ "sermonease" ],
+			[ "sermoneásemos" ],
+			[ "sermoneaseis", "sermoneasen" ],
+			[ "sermoneasen" ]
+		],
+		"11" : [
+			[ "sermoneare" ],
+			[ "sermoneares" ],
+			[ "sermoneare" ],
+			[ "sermoneáremos" ],
+			[ "sermoneareis", "sermonearen" ],
+			[ "sermonearen" ]
+		],
+		"12" : {
+			"1" : [ "sermonea" ],
+			"2" : [ "sermonee" ],
+			"3" : [ "sermoneemos" ],
+			"4" : [ "sermonead" ],
+			"5" : [ "sermoneen" ]
+		}
+	}
+}

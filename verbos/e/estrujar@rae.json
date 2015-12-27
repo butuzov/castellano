@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estrujar",
+	"word" : "estrujar",
+	"infinitivo" : "estrujar",
+	"participio" : [ "estrujado" ],
+	"gerundio" : [ "estrujando" ],
+	"tenses" : {
+		"3" : [
+			[ "estrujo" ],
+			[ "estrujas", "estrujás" ],
+			[ "estruja" ],
+			[ "estrujamos" ],
+			[ "estrujáis", "estrujan" ],
+			[ "estrujan" ]
+		],
+		"4" : [
+			[ "estrujé" ],
+			[ "estrujaste" ],
+			[ "estrujó" ],
+			[ "estrujamos" ],
+			[ "estrujasteis", "estrujaron" ],
+			[ "estrujaron" ]
+		],
+		"5" : [
+			[ "estrujaba" ],
+			[ "estrujabas" ],
+			[ "estrujaba" ],
+			[ "estrujábamos" ],
+			[ "estrujabais", "estrujaban" ],
+			[ "estrujaban" ]
+		],
+		"6" : [
+			[ "estrujaría" ],
+			[ "estrujarías" ],
+			[ "estrujaría" ],
+			[ "estrujaríamos" ],
+			[ "estrujaríais", "estrujarían" ],
+			[ "estrujarían" ]
+		],
+		"7" : [
+			[ "estrujaré" ],
+			[ "estrujarás" ],
+			[ "estrujará" ],
+			[ "estrujaremos" ],
+			[ "estrujaréis", "estrujarán" ],
+			[ "estrujarán" ]
+		],
+		"8" : [
+			[ "estruje" ],
+			[ "estrujes" ],
+			[ "estruje" ],
+			[ "estrujemos" ],
+			[ "estrujéis", "estrujen" ],
+			[ "estrujen" ]
+		],
+		"9" : [
+			[ "estrujara" ],
+			[ "estrujaras" ],
+			[ "estrujara" ],
+			[ "estrujáramos" ],
+			[ "estrujarais", "estrujaran" ],
+			[ "estrujaran" ]
+		],
+		"10" : [
+			[ "estrujase" ],
+			[ "estrujases" ],
+			[ "estrujase" ],
+			[ "estrujásemos" ],
+			[ "estrujaseis", "estrujasen" ],
+			[ "estrujasen" ]
+		],
+		"11" : [
+			[ "estrujare" ],
+			[ "estrujares" ],
+			[ "estrujare" ],
+			[ "estrujáremos" ],
+			[ "estrujareis", "estrujaren" ],
+			[ "estrujaren" ]
+		],
+		"12" : {
+			"1" : [ "estruja" ],
+			"2" : [ "estruje" ],
+			"3" : [ "estrujemos" ],
+			"4" : [ "estrujad" ],
+			"5" : [ "estrujen" ]
+		}
+	}
+}

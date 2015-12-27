@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=terminar",
+	"word" : "terminar",
+	"infinitivo" : "terminar",
+	"participio" : [ "terminado" ],
+	"gerundio" : [ "terminando" ],
+	"tenses" : {
+		"3" : [
+			[ "termino" ],
+			[ "terminas", "terminás" ],
+			[ "termina" ],
+			[ "terminamos" ],
+			[ "termináis", "terminan" ],
+			[ "terminan" ]
+		],
+		"4" : [
+			[ "terminé" ],
+			[ "terminaste" ],
+			[ "terminó" ],
+			[ "terminamos" ],
+			[ "terminasteis", "terminaron" ],
+			[ "terminaron" ]
+		],
+		"5" : [
+			[ "terminaba" ],
+			[ "terminabas" ],
+			[ "terminaba" ],
+			[ "terminábamos" ],
+			[ "terminabais", "terminaban" ],
+			[ "terminaban" ]
+		],
+		"6" : [
+			[ "terminaría" ],
+			[ "terminarías" ],
+			[ "terminaría" ],
+			[ "terminaríamos" ],
+			[ "terminaríais", "terminarían" ],
+			[ "terminarían" ]
+		],
+		"7" : [
+			[ "terminaré" ],
+			[ "terminarás" ],
+			[ "terminará" ],
+			[ "terminaremos" ],
+			[ "terminaréis", "terminarán" ],
+			[ "terminarán" ]
+		],
+		"8" : [
+			[ "termine" ],
+			[ "termines" ],
+			[ "termine" ],
+			[ "terminemos" ],
+			[ "terminéis", "terminen" ],
+			[ "terminen" ]
+		],
+		"9" : [
+			[ "terminara" ],
+			[ "terminaras" ],
+			[ "terminara" ],
+			[ "termináramos" ],
+			[ "terminarais", "terminaran" ],
+			[ "terminaran" ]
+		],
+		"10" : [
+			[ "terminase" ],
+			[ "terminases" ],
+			[ "terminase" ],
+			[ "terminásemos" ],
+			[ "terminaseis", "terminasen" ],
+			[ "terminasen" ]
+		],
+		"11" : [
+			[ "terminare" ],
+			[ "terminares" ],
+			[ "terminare" ],
+			[ "termináremos" ],
+			[ "terminareis", "terminaren" ],
+			[ "terminaren" ]
+		],
+		"12" : {
+			"1" : [ "termina" ],
+			"2" : [ "termine" ],
+			"3" : [ "terminemos" ],
+			"4" : [ "terminad" ],
+			"5" : [ "terminen" ]
+		}
+	}
+}

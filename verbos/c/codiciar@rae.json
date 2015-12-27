@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=codiciar",
+	"word" : "codiciar",
+	"infinitivo" : "codiciar",
+	"participio" : [ "codiciado" ],
+	"gerundio" : [ "codiciando" ],
+	"tenses" : {
+		"3" : [
+			[ "codicio" ],
+			[ "codicias", "codiciás" ],
+			[ "codicia" ],
+			[ "codiciamos" ],
+			[ "codiciáis", "codician" ],
+			[ "codician" ]
+		],
+		"4" : [
+			[ "codicié" ],
+			[ "codiciaste" ],
+			[ "codició" ],
+			[ "codiciamos" ],
+			[ "codiciasteis", "codiciaron" ],
+			[ "codiciaron" ]
+		],
+		"5" : [
+			[ "codiciaba" ],
+			[ "codiciabas" ],
+			[ "codiciaba" ],
+			[ "codiciábamos" ],
+			[ "codiciabais", "codiciaban" ],
+			[ "codiciaban" ]
+		],
+		"6" : [
+			[ "codiciaría" ],
+			[ "codiciarías" ],
+			[ "codiciaría" ],
+			[ "codiciaríamos" ],
+			[ "codiciaríais", "codiciarían" ],
+			[ "codiciarían" ]
+		],
+		"7" : [
+			[ "codiciaré" ],
+			[ "codiciarás" ],
+			[ "codiciará" ],
+			[ "codiciaremos" ],
+			[ "codiciaréis", "codiciarán" ],
+			[ "codiciarán" ]
+		],
+		"8" : [
+			[ "codicie" ],
+			[ "codicies" ],
+			[ "codicie" ],
+			[ "codiciemos" ],
+			[ "codiciéis", "codicien" ],
+			[ "codicien" ]
+		],
+		"9" : [
+			[ "codiciara" ],
+			[ "codiciaras" ],
+			[ "codiciara" ],
+			[ "codiciáramos" ],
+			[ "codiciarais", "codiciaran" ],
+			[ "codiciaran" ]
+		],
+		"10" : [
+			[ "codiciase" ],
+			[ "codiciases" ],
+			[ "codiciase" ],
+			[ "codiciásemos" ],
+			[ "codiciaseis", "codiciasen" ],
+			[ "codiciasen" ]
+		],
+		"11" : [
+			[ "codiciare" ],
+			[ "codiciares" ],
+			[ "codiciare" ],
+			[ "codiciáremos" ],
+			[ "codiciareis", "codiciaren" ],
+			[ "codiciaren" ]
+		],
+		"12" : {
+			"1" : [ "codicia" ],
+			"2" : [ "codicie" ],
+			"3" : [ "codiciemos" ],
+			"4" : [ "codiciad" ],
+			"5" : [ "codicien" ]
+		}
+	}
+}

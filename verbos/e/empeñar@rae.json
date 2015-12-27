@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empeñar",
+	"word" : "empeñar",
+	"infinitivo" : "empeñar",
+	"participio" : [ "empeñado" ],
+	"gerundio" : [ "empeñando" ],
+	"tenses" : {
+		"3" : [
+			[ "empeño" ],
+			[ "empeñas", "empeñás" ],
+			[ "empeña" ],
+			[ "empeñamos" ],
+			[ "empeñáis", "empeñan" ],
+			[ "empeñan" ]
+		],
+		"4" : [
+			[ "empeñé" ],
+			[ "empeñaste" ],
+			[ "empeñó" ],
+			[ "empeñamos" ],
+			[ "empeñasteis", "empeñaron" ],
+			[ "empeñaron" ]
+		],
+		"5" : [
+			[ "empeñaba" ],
+			[ "empeñabas" ],
+			[ "empeñaba" ],
+			[ "empeñábamos" ],
+			[ "empeñabais", "empeñaban" ],
+			[ "empeñaban" ]
+		],
+		"6" : [
+			[ "empeñaría" ],
+			[ "empeñarías" ],
+			[ "empeñaría" ],
+			[ "empeñaríamos" ],
+			[ "empeñaríais", "empeñarían" ],
+			[ "empeñarían" ]
+		],
+		"7" : [
+			[ "empeñaré" ],
+			[ "empeñarás" ],
+			[ "empeñará" ],
+			[ "empeñaremos" ],
+			[ "empeñaréis", "empeñarán" ],
+			[ "empeñarán" ]
+		],
+		"8" : [
+			[ "empeñe" ],
+			[ "empeñes" ],
+			[ "empeñe" ],
+			[ "empeñemos" ],
+			[ "empeñéis", "empeñen" ],
+			[ "empeñen" ]
+		],
+		"9" : [
+			[ "empeñara" ],
+			[ "empeñaras" ],
+			[ "empeñara" ],
+			[ "empeñáramos" ],
+			[ "empeñarais", "empeñaran" ],
+			[ "empeñaran" ]
+		],
+		"10" : [
+			[ "empeñase" ],
+			[ "empeñases" ],
+			[ "empeñase" ],
+			[ "empeñásemos" ],
+			[ "empeñaseis", "empeñasen" ],
+			[ "empeñasen" ]
+		],
+		"11" : [
+			[ "empeñare" ],
+			[ "empeñares" ],
+			[ "empeñare" ],
+			[ "empeñáremos" ],
+			[ "empeñareis", "empeñaren" ],
+			[ "empeñaren" ]
+		],
+		"12" : {
+			"1" : [ "empeña" ],
+			"2" : [ "empeñe" ],
+			"3" : [ "empeñemos" ],
+			"4" : [ "empeñad" ],
+			"5" : [ "empeñen" ]
+		}
+	}
+}

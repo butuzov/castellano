@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=testificar",
+	"word" : "testificar",
+	"infinitivo" : "testificar",
+	"participio" : [ "testificado" ],
+	"gerundio" : [ "testificando" ],
+	"tenses" : {
+		"3" : [
+			[ "testifico" ],
+			[ "testificas", "testificás" ],
+			[ "testifica" ],
+			[ "testificamos" ],
+			[ "testificáis", "testifican" ],
+			[ "testifican" ]
+		],
+		"4" : [
+			[ "testifiqué" ],
+			[ "testificaste" ],
+			[ "testificó" ],
+			[ "testificamos" ],
+			[ "testificasteis", "testificaron" ],
+			[ "testificaron" ]
+		],
+		"5" : [
+			[ "testificaba" ],
+			[ "testificabas" ],
+			[ "testificaba" ],
+			[ "testificábamos" ],
+			[ "testificabais", "testificaban" ],
+			[ "testificaban" ]
+		],
+		"6" : [
+			[ "testificaría" ],
+			[ "testificarías" ],
+			[ "testificaría" ],
+			[ "testificaríamos" ],
+			[ "testificaríais", "testificarían" ],
+			[ "testificarían" ]
+		],
+		"7" : [
+			[ "testificaré" ],
+			[ "testificarás" ],
+			[ "testificará" ],
+			[ "testificaremos" ],
+			[ "testificaréis", "testificarán" ],
+			[ "testificarán" ]
+		],
+		"8" : [
+			[ "testifique" ],
+			[ "testifiques" ],
+			[ "testifique" ],
+			[ "testifiquemos" ],
+			[ "testifiquéis", "testifiquen" ],
+			[ "testifiquen" ]
+		],
+		"9" : [
+			[ "testificara" ],
+			[ "testificaras" ],
+			[ "testificara" ],
+			[ "testificáramos" ],
+			[ "testificarais", "testificaran" ],
+			[ "testificaran" ]
+		],
+		"10" : [
+			[ "testificase" ],
+			[ "testificases" ],
+			[ "testificase" ],
+			[ "testificásemos" ],
+			[ "testificaseis", "testificasen" ],
+			[ "testificasen" ]
+		],
+		"11" : [
+			[ "testificare" ],
+			[ "testificares" ],
+			[ "testificare" ],
+			[ "testificáremos" ],
+			[ "testificareis", "testificaren" ],
+			[ "testificaren" ]
+		],
+		"12" : {
+			"1" : [ "testifica" ],
+			"2" : [ "testifique" ],
+			"3" : [ "testifiquemos" ],
+			"4" : [ "testificad" ],
+			"5" : [ "testifiquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=secuestrar",
+	"word" : "secuestrar",
+	"infinitivo" : "secuestrar",
+	"participio" : [ "secuestrado" ],
+	"gerundio" : [ "secuestrando" ],
+	"tenses" : {
+		"3" : [
+			[ "secuestro" ],
+			[ "secuestras", "secuestrás" ],
+			[ "secuestra" ],
+			[ "secuestramos" ],
+			[ "secuestráis", "secuestran" ],
+			[ "secuestran" ]
+		],
+		"4" : [
+			[ "secuestré" ],
+			[ "secuestraste" ],
+			[ "secuestró" ],
+			[ "secuestramos" ],
+			[ "secuestrasteis", "secuestraron" ],
+			[ "secuestraron" ]
+		],
+		"5" : [
+			[ "secuestraba" ],
+			[ "secuestrabas" ],
+			[ "secuestraba" ],
+			[ "secuestrábamos" ],
+			[ "secuestrabais", "secuestraban" ],
+			[ "secuestraban" ]
+		],
+		"6" : [
+			[ "secuestraría" ],
+			[ "secuestrarías" ],
+			[ "secuestraría" ],
+			[ "secuestraríamos" ],
+			[ "secuestraríais", "secuestrarían" ],
+			[ "secuestrarían" ]
+		],
+		"7" : [
+			[ "secuestraré" ],
+			[ "secuestrarás" ],
+			[ "secuestrará" ],
+			[ "secuestraremos" ],
+			[ "secuestraréis", "secuestrarán" ],
+			[ "secuestrarán" ]
+		],
+		"8" : [
+			[ "secuestre" ],
+			[ "secuestres" ],
+			[ "secuestre" ],
+			[ "secuestremos" ],
+			[ "secuestréis", "secuestren" ],
+			[ "secuestren" ]
+		],
+		"9" : [
+			[ "secuestrara" ],
+			[ "secuestraras" ],
+			[ "secuestrara" ],
+			[ "secuestráramos" ],
+			[ "secuestrarais", "secuestraran" ],
+			[ "secuestraran" ]
+		],
+		"10" : [
+			[ "secuestrase" ],
+			[ "secuestrases" ],
+			[ "secuestrase" ],
+			[ "secuestrásemos" ],
+			[ "secuestraseis", "secuestrasen" ],
+			[ "secuestrasen" ]
+		],
+		"11" : [
+			[ "secuestrare" ],
+			[ "secuestrares" ],
+			[ "secuestrare" ],
+			[ "secuestráremos" ],
+			[ "secuestrareis", "secuestraren" ],
+			[ "secuestraren" ]
+		],
+		"12" : {
+			"1" : [ "secuestra" ],
+			"2" : [ "secuestre" ],
+			"3" : [ "secuestremos" ],
+			"4" : [ "secuestrad" ],
+			"5" : [ "secuestren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=copetear",
+	"word" : "copetear",
+	"infinitivo" : "copetear",
+	"participio" : [ "copeteado" ],
+	"gerundio" : [ "copeteando" ],
+	"tenses" : {
+		"3" : [
+			[ "copeteo" ],
+			[ "copeteas", "copeteás" ],
+			[ "copetea" ],
+			[ "copeteamos" ],
+			[ "copeteáis", "copetean" ],
+			[ "copetean" ]
+		],
+		"4" : [
+			[ "copeteé" ],
+			[ "copeteaste" ],
+			[ "copeteó" ],
+			[ "copeteamos" ],
+			[ "copeteasteis", "copetearon" ],
+			[ "copetearon" ]
+		],
+		"5" : [
+			[ "copeteaba" ],
+			[ "copeteabas" ],
+			[ "copeteaba" ],
+			[ "copeteábamos" ],
+			[ "copeteabais", "copeteaban" ],
+			[ "copeteaban" ]
+		],
+		"6" : [
+			[ "copetearía" ],
+			[ "copetearías" ],
+			[ "copetearía" ],
+			[ "copetearíamos" ],
+			[ "copetearíais", "copetearían" ],
+			[ "copetearían" ]
+		],
+		"7" : [
+			[ "copetearé" ],
+			[ "copetearás" ],
+			[ "copeteará" ],
+			[ "copetearemos" ],
+			[ "copetearéis", "copetearán" ],
+			[ "copetearán" ]
+		],
+		"8" : [
+			[ "copetee" ],
+			[ "copetees" ],
+			[ "copetee" ],
+			[ "copeteemos" ],
+			[ "copeteéis", "copeteen" ],
+			[ "copeteen" ]
+		],
+		"9" : [
+			[ "copeteara" ],
+			[ "copetearas" ],
+			[ "copeteara" ],
+			[ "copeteáramos" ],
+			[ "copetearais", "copetearan" ],
+			[ "copetearan" ]
+		],
+		"10" : [
+			[ "copetease" ],
+			[ "copeteases" ],
+			[ "copetease" ],
+			[ "copeteásemos" ],
+			[ "copeteaseis", "copeteasen" ],
+			[ "copeteasen" ]
+		],
+		"11" : [
+			[ "copeteare" ],
+			[ "copeteares" ],
+			[ "copeteare" ],
+			[ "copeteáremos" ],
+			[ "copeteareis", "copetearen" ],
+			[ "copetearen" ]
+		],
+		"12" : {
+			"1" : [ "copetea" ],
+			"2" : [ "copetee" ],
+			"3" : [ "copeteemos" ],
+			"4" : [ "copetead" ],
+			"5" : [ "copeteen" ]
+		}
+	}
+}

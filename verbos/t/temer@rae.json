@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=temer",
+	"word" : "temer",
+	"infinitivo" : "temer",
+	"participio" : [ "temido" ],
+	"gerundio" : [ "temiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "temo" ],
+			[ "temes", "temés" ],
+			[ "teme" ],
+			[ "tememos" ],
+			[ "teméis", "temen" ],
+			[ "temen" ]
+		],
+		"4" : [
+			[ "temí" ],
+			[ "temiste" ],
+			[ "temió" ],
+			[ "temimos" ],
+			[ "temisteis", "temieron" ],
+			[ "temieron" ]
+		],
+		"5" : [
+			[ "temía" ],
+			[ "temías" ],
+			[ "temía" ],
+			[ "temíamos" ],
+			[ "temíais", "temían" ],
+			[ "temían" ]
+		],
+		"6" : [
+			[ "temería" ],
+			[ "temerías" ],
+			[ "temería" ],
+			[ "temeríamos" ],
+			[ "temeríais", "temerían" ],
+			[ "temerían" ]
+		],
+		"7" : [
+			[ "temeré" ],
+			[ "temerás" ],
+			[ "temerá" ],
+			[ "temeremos" ],
+			[ "temeréis", "temerán" ],
+			[ "temerán" ]
+		],
+		"8" : [
+			[ "tema" ],
+			[ "temas" ],
+			[ "tema" ],
+			[ "temamos" ],
+			[ "temáis", "teman" ],
+			[ "teman" ]
+		],
+		"9" : [
+			[ "temiera" ],
+			[ "temieras" ],
+			[ "temiera" ],
+			[ "temiéramos" ],
+			[ "temierais", "temieran" ],
+			[ "temieran" ]
+		],
+		"10" : [
+			[ "temiese" ],
+			[ "temieses" ],
+			[ "temiese" ],
+			[ "temiésemos" ],
+			[ "temieseis", "temiesen" ],
+			[ "temiesen" ]
+		],
+		"11" : [
+			[ "temiere" ],
+			[ "temieres" ],
+			[ "temiere" ],
+			[ "temiéremos" ],
+			[ "temiereis", "temieren" ],
+			[ "temieren" ]
+		],
+		"12" : {
+			"1" : [ "teme" ],
+			"2" : [ "tema" ],
+			"3" : [ "temamos" ],
+			"4" : [ "temed" ],
+			"5" : [ "teman" ]
+		}
+	}
+}

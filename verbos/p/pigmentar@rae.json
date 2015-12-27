@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pigmentar",
+	"word" : "pigmentar",
+	"infinitivo" : "pigmentar",
+	"participio" : [ "pigmentado" ],
+	"gerundio" : [ "pigmentando" ],
+	"tenses" : {
+		"3" : [
+			[ "pigmento" ],
+			[ "pigmentas", "pigmentás" ],
+			[ "pigmenta" ],
+			[ "pigmentamos" ],
+			[ "pigmentáis", "pigmentan" ],
+			[ "pigmentan" ]
+		],
+		"4" : [
+			[ "pigmenté" ],
+			[ "pigmentaste" ],
+			[ "pigmentó" ],
+			[ "pigmentamos" ],
+			[ "pigmentasteis", "pigmentaron" ],
+			[ "pigmentaron" ]
+		],
+		"5" : [
+			[ "pigmentaba" ],
+			[ "pigmentabas" ],
+			[ "pigmentaba" ],
+			[ "pigmentábamos" ],
+			[ "pigmentabais", "pigmentaban" ],
+			[ "pigmentaban" ]
+		],
+		"6" : [
+			[ "pigmentaría" ],
+			[ "pigmentarías" ],
+			[ "pigmentaría" ],
+			[ "pigmentaríamos" ],
+			[ "pigmentaríais", "pigmentarían" ],
+			[ "pigmentarían" ]
+		],
+		"7" : [
+			[ "pigmentaré" ],
+			[ "pigmentarás" ],
+			[ "pigmentará" ],
+			[ "pigmentaremos" ],
+			[ "pigmentaréis", "pigmentarán" ],
+			[ "pigmentarán" ]
+		],
+		"8" : [
+			[ "pigmente" ],
+			[ "pigmentes" ],
+			[ "pigmente" ],
+			[ "pigmentemos" ],
+			[ "pigmentéis", "pigmenten" ],
+			[ "pigmenten" ]
+		],
+		"9" : [
+			[ "pigmentara" ],
+			[ "pigmentaras" ],
+			[ "pigmentara" ],
+			[ "pigmentáramos" ],
+			[ "pigmentarais", "pigmentaran" ],
+			[ "pigmentaran" ]
+		],
+		"10" : [
+			[ "pigmentase" ],
+			[ "pigmentases" ],
+			[ "pigmentase" ],
+			[ "pigmentásemos" ],
+			[ "pigmentaseis", "pigmentasen" ],
+			[ "pigmentasen" ]
+		],
+		"11" : [
+			[ "pigmentare" ],
+			[ "pigmentares" ],
+			[ "pigmentare" ],
+			[ "pigmentáremos" ],
+			[ "pigmentareis", "pigmentaren" ],
+			[ "pigmentaren" ]
+		],
+		"12" : {
+			"1" : [ "pigmenta" ],
+			"2" : [ "pigmente" ],
+			"3" : [ "pigmentemos" ],
+			"4" : [ "pigmentad" ],
+			"5" : [ "pigmenten" ]
+		}
+	}
+}

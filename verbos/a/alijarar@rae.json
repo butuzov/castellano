@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alijarar",
+	"word" : "alijarar",
+	"infinitivo" : "alijarar",
+	"participio" : [ "alijarado" ],
+	"gerundio" : [ "alijarando" ],
+	"tenses" : {
+		"3" : [
+			[ "alijaro" ],
+			[ "alijaras", "alijarás" ],
+			[ "alijara" ],
+			[ "alijaramos" ],
+			[ "alijaráis", "alijaran" ],
+			[ "alijaran" ]
+		],
+		"4" : [
+			[ "alijaré" ],
+			[ "alijaraste" ],
+			[ "alijaró" ],
+			[ "alijaramos" ],
+			[ "alijarasteis", "alijararon" ],
+			[ "alijararon" ]
+		],
+		"5" : [
+			[ "alijaraba" ],
+			[ "alijarabas" ],
+			[ "alijaraba" ],
+			[ "alijarábamos" ],
+			[ "alijarabais", "alijaraban" ],
+			[ "alijaraban" ]
+		],
+		"6" : [
+			[ "alijararía" ],
+			[ "alijararías" ],
+			[ "alijararía" ],
+			[ "alijararíamos" ],
+			[ "alijararíais", "alijararían" ],
+			[ "alijararían" ]
+		],
+		"7" : [
+			[ "alijararé" ],
+			[ "alijararás" ],
+			[ "alijarará" ],
+			[ "alijararemos" ],
+			[ "alijararéis", "alijararán" ],
+			[ "alijararán" ]
+		],
+		"8" : [
+			[ "alijare" ],
+			[ "alijares" ],
+			[ "alijare" ],
+			[ "alijaremos" ],
+			[ "alijaréis", "alijaren" ],
+			[ "alijaren" ]
+		],
+		"9" : [
+			[ "alijarara" ],
+			[ "alijararas" ],
+			[ "alijarara" ],
+			[ "alijaráramos" ],
+			[ "alijararais", "alijararan" ],
+			[ "alijararan" ]
+		],
+		"10" : [
+			[ "alijarase" ],
+			[ "alijarases" ],
+			[ "alijarase" ],
+			[ "alijarásemos" ],
+			[ "alijaraseis", "alijarasen" ],
+			[ "alijarasen" ]
+		],
+		"11" : [
+			[ "alijarare" ],
+			[ "alijarares" ],
+			[ "alijarare" ],
+			[ "alijaráremos" ],
+			[ "alijarareis", "alijararen" ],
+			[ "alijararen" ]
+		],
+		"12" : {
+			"1" : [ "alijara" ],
+			"2" : [ "alijare" ],
+			"3" : [ "alijaremos" ],
+			"4" : [ "alijarad" ],
+			"5" : [ "alijaren" ]
+		}
+	}
+}

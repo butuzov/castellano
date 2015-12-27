@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atiesar",
+	"word" : "atiesar",
+	"infinitivo" : "atiesar",
+	"participio" : [ "atiesado" ],
+	"gerundio" : [ "atiesando" ],
+	"tenses" : {
+		"3" : [
+			[ "atieso" ],
+			[ "atiesas", "atiesás" ],
+			[ "atiesa" ],
+			[ "atiesamos" ],
+			[ "atiesáis", "atiesan" ],
+			[ "atiesan" ]
+		],
+		"4" : [
+			[ "atiesé" ],
+			[ "atiesaste" ],
+			[ "atiesó" ],
+			[ "atiesamos" ],
+			[ "atiesasteis", "atiesaron" ],
+			[ "atiesaron" ]
+		],
+		"5" : [
+			[ "atiesaba" ],
+			[ "atiesabas" ],
+			[ "atiesaba" ],
+			[ "atiesábamos" ],
+			[ "atiesabais", "atiesaban" ],
+			[ "atiesaban" ]
+		],
+		"6" : [
+			[ "atiesaría" ],
+			[ "atiesarías" ],
+			[ "atiesaría" ],
+			[ "atiesaríamos" ],
+			[ "atiesaríais", "atiesarían" ],
+			[ "atiesarían" ]
+		],
+		"7" : [
+			[ "atiesaré" ],
+			[ "atiesarás" ],
+			[ "atiesará" ],
+			[ "atiesaremos" ],
+			[ "atiesaréis", "atiesarán" ],
+			[ "atiesarán" ]
+		],
+		"8" : [
+			[ "atiese" ],
+			[ "atieses" ],
+			[ "atiese" ],
+			[ "atiesemos" ],
+			[ "atieséis", "atiesen" ],
+			[ "atiesen" ]
+		],
+		"9" : [
+			[ "atiesara" ],
+			[ "atiesaras" ],
+			[ "atiesara" ],
+			[ "atiesáramos" ],
+			[ "atiesarais", "atiesaran" ],
+			[ "atiesaran" ]
+		],
+		"10" : [
+			[ "atiesase" ],
+			[ "atiesases" ],
+			[ "atiesase" ],
+			[ "atiesásemos" ],
+			[ "atiesaseis", "atiesasen" ],
+			[ "atiesasen" ]
+		],
+		"11" : [
+			[ "atiesare" ],
+			[ "atiesares" ],
+			[ "atiesare" ],
+			[ "atiesáremos" ],
+			[ "atiesareis", "atiesaren" ],
+			[ "atiesaren" ]
+		],
+		"12" : {
+			"1" : [ "atiesa" ],
+			"2" : [ "atiese" ],
+			"3" : [ "atiesemos" ],
+			"4" : [ "atiesad" ],
+			"5" : [ "atiesen" ]
+		}
+	}
+}

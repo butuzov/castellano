@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=instar",
+	"word" : "instar",
+	"infinitivo" : "instar",
+	"participio" : [ "instado" ],
+	"gerundio" : [ "instando" ],
+	"tenses" : {
+		"3" : [
+			[ "insto" ],
+			[ "instas", "instás" ],
+			[ "insta" ],
+			[ "instamos" ],
+			[ "instáis", "instan" ],
+			[ "instan" ]
+		],
+		"4" : [
+			[ "insté" ],
+			[ "instaste" ],
+			[ "instó" ],
+			[ "instamos" ],
+			[ "instasteis", "instaron" ],
+			[ "instaron" ]
+		],
+		"5" : [
+			[ "instaba" ],
+			[ "instabas" ],
+			[ "instaba" ],
+			[ "instábamos" ],
+			[ "instabais", "instaban" ],
+			[ "instaban" ]
+		],
+		"6" : [
+			[ "instaría" ],
+			[ "instarías" ],
+			[ "instaría" ],
+			[ "instaríamos" ],
+			[ "instaríais", "instarían" ],
+			[ "instarían" ]
+		],
+		"7" : [
+			[ "instaré" ],
+			[ "instarás" ],
+			[ "instará" ],
+			[ "instaremos" ],
+			[ "instaréis", "instarán" ],
+			[ "instarán" ]
+		],
+		"8" : [
+			[ "inste" ],
+			[ "instes" ],
+			[ "inste" ],
+			[ "instemos" ],
+			[ "instéis", "insten" ],
+			[ "insten" ]
+		],
+		"9" : [
+			[ "instara" ],
+			[ "instaras" ],
+			[ "instara" ],
+			[ "instáramos" ],
+			[ "instarais", "instaran" ],
+			[ "instaran" ]
+		],
+		"10" : [
+			[ "instase" ],
+			[ "instases" ],
+			[ "instase" ],
+			[ "instásemos" ],
+			[ "instaseis", "instasen" ],
+			[ "instasen" ]
+		],
+		"11" : [
+			[ "instare" ],
+			[ "instares" ],
+			[ "instare" ],
+			[ "instáremos" ],
+			[ "instareis", "instaren" ],
+			[ "instaren" ]
+		],
+		"12" : {
+			"1" : [ "insta" ],
+			"2" : [ "inste" ],
+			"3" : [ "instemos" ],
+			"4" : [ "instad" ],
+			"5" : [ "insten" ]
+		}
+	}
+}

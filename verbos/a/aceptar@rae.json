@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aceptar",
+	"word" : "aceptar",
+	"infinitivo" : "aceptar",
+	"participio" : [ "aceptado" ],
+	"gerundio" : [ "aceptando" ],
+	"tenses" : {
+		"3" : [
+			[ "acepto" ],
+			[ "aceptas", "aceptás" ],
+			[ "acepta" ],
+			[ "aceptamos" ],
+			[ "aceptáis", "aceptan" ],
+			[ "aceptan" ]
+		],
+		"4" : [
+			[ "acepté" ],
+			[ "aceptaste" ],
+			[ "aceptó" ],
+			[ "aceptamos" ],
+			[ "aceptasteis", "aceptaron" ],
+			[ "aceptaron" ]
+		],
+		"5" : [
+			[ "aceptaba" ],
+			[ "aceptabas" ],
+			[ "aceptaba" ],
+			[ "aceptábamos" ],
+			[ "aceptabais", "aceptaban" ],
+			[ "aceptaban" ]
+		],
+		"6" : [
+			[ "aceptaría" ],
+			[ "aceptarías" ],
+			[ "aceptaría" ],
+			[ "aceptaríamos" ],
+			[ "aceptaríais", "aceptarían" ],
+			[ "aceptarían" ]
+		],
+		"7" : [
+			[ "aceptaré" ],
+			[ "aceptarás" ],
+			[ "aceptará" ],
+			[ "aceptaremos" ],
+			[ "aceptaréis", "aceptarán" ],
+			[ "aceptarán" ]
+		],
+		"8" : [
+			[ "acepte" ],
+			[ "aceptes" ],
+			[ "acepte" ],
+			[ "aceptemos" ],
+			[ "aceptéis", "acepten" ],
+			[ "acepten" ]
+		],
+		"9" : [
+			[ "aceptara" ],
+			[ "aceptaras" ],
+			[ "aceptara" ],
+			[ "aceptáramos" ],
+			[ "aceptarais", "aceptaran" ],
+			[ "aceptaran" ]
+		],
+		"10" : [
+			[ "aceptase" ],
+			[ "aceptases" ],
+			[ "aceptase" ],
+			[ "aceptásemos" ],
+			[ "aceptaseis", "aceptasen" ],
+			[ "aceptasen" ]
+		],
+		"11" : [
+			[ "aceptare" ],
+			[ "aceptares" ],
+			[ "aceptare" ],
+			[ "aceptáremos" ],
+			[ "aceptareis", "aceptaren" ],
+			[ "aceptaren" ]
+		],
+		"12" : {
+			"1" : [ "acepta" ],
+			"2" : [ "acepte" ],
+			"3" : [ "aceptemos" ],
+			"4" : [ "aceptad" ],
+			"5" : [ "acepten" ]
+		}
+	}
+}

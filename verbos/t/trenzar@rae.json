@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trenzar",
+	"word" : "trenzar",
+	"infinitivo" : "trenzar",
+	"participio" : [ "trenzado" ],
+	"gerundio" : [ "trenzando" ],
+	"tenses" : {
+		"3" : [
+			[ "trenzo" ],
+			[ "trenzas", "trenzás" ],
+			[ "trenza" ],
+			[ "trenzamos" ],
+			[ "trenzáis", "trenzan" ],
+			[ "trenzan" ]
+		],
+		"4" : [
+			[ "trencé" ],
+			[ "trenzaste" ],
+			[ "trenzó" ],
+			[ "trenzamos" ],
+			[ "trenzasteis", "trenzaron" ],
+			[ "trenzaron" ]
+		],
+		"5" : [
+			[ "trenzaba" ],
+			[ "trenzabas" ],
+			[ "trenzaba" ],
+			[ "trenzábamos" ],
+			[ "trenzabais", "trenzaban" ],
+			[ "trenzaban" ]
+		],
+		"6" : [
+			[ "trenzaría" ],
+			[ "trenzarías" ],
+			[ "trenzaría" ],
+			[ "trenzaríamos" ],
+			[ "trenzaríais", "trenzarían" ],
+			[ "trenzarían" ]
+		],
+		"7" : [
+			[ "trenzaré" ],
+			[ "trenzarás" ],
+			[ "trenzará" ],
+			[ "trenzaremos" ],
+			[ "trenzaréis", "trenzarán" ],
+			[ "trenzarán" ]
+		],
+		"8" : [
+			[ "trence" ],
+			[ "trences" ],
+			[ "trence" ],
+			[ "trencemos" ],
+			[ "trencéis", "trencen" ],
+			[ "trencen" ]
+		],
+		"9" : [
+			[ "trenzara" ],
+			[ "trenzaras" ],
+			[ "trenzara" ],
+			[ "trenzáramos" ],
+			[ "trenzarais", "trenzaran" ],
+			[ "trenzaran" ]
+		],
+		"10" : [
+			[ "trenzase" ],
+			[ "trenzases" ],
+			[ "trenzase" ],
+			[ "trenzásemos" ],
+			[ "trenzaseis", "trenzasen" ],
+			[ "trenzasen" ]
+		],
+		"11" : [
+			[ "trenzare" ],
+			[ "trenzares" ],
+			[ "trenzare" ],
+			[ "trenzáremos" ],
+			[ "trenzareis", "trenzaren" ],
+			[ "trenzaren" ]
+		],
+		"12" : {
+			"1" : [ "trenza" ],
+			"2" : [ "trence" ],
+			"3" : [ "trencemos" ],
+			"4" : [ "trenzad" ],
+			"5" : [ "trencen" ]
+		}
+	}
+}

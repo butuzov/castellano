@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ensalmar",
+	"word" : "ensalmar",
+	"infinitivo" : "ensalmar",
+	"participio" : [ "ensalmado" ],
+	"gerundio" : [ "ensalmando" ],
+	"tenses" : {
+		"3" : [
+			[ "ensalmo" ],
+			[ "ensalmas", "ensalmás" ],
+			[ "ensalma" ],
+			[ "ensalmamos" ],
+			[ "ensalmáis", "ensalman" ],
+			[ "ensalman" ]
+		],
+		"4" : [
+			[ "ensalmé" ],
+			[ "ensalmaste" ],
+			[ "ensalmó" ],
+			[ "ensalmamos" ],
+			[ "ensalmasteis", "ensalmaron" ],
+			[ "ensalmaron" ]
+		],
+		"5" : [
+			[ "ensalmaba" ],
+			[ "ensalmabas" ],
+			[ "ensalmaba" ],
+			[ "ensalmábamos" ],
+			[ "ensalmabais", "ensalmaban" ],
+			[ "ensalmaban" ]
+		],
+		"6" : [
+			[ "ensalmaría" ],
+			[ "ensalmarías" ],
+			[ "ensalmaría" ],
+			[ "ensalmaríamos" ],
+			[ "ensalmaríais", "ensalmarían" ],
+			[ "ensalmarían" ]
+		],
+		"7" : [
+			[ "ensalmaré" ],
+			[ "ensalmarás" ],
+			[ "ensalmará" ],
+			[ "ensalmaremos" ],
+			[ "ensalmaréis", "ensalmarán" ],
+			[ "ensalmarán" ]
+		],
+		"8" : [
+			[ "ensalme" ],
+			[ "ensalmes" ],
+			[ "ensalme" ],
+			[ "ensalmemos" ],
+			[ "ensalméis", "ensalmen" ],
+			[ "ensalmen" ]
+		],
+		"9" : [
+			[ "ensalmara" ],
+			[ "ensalmaras" ],
+			[ "ensalmara" ],
+			[ "ensalmáramos" ],
+			[ "ensalmarais", "ensalmaran" ],
+			[ "ensalmaran" ]
+		],
+		"10" : [
+			[ "ensalmase" ],
+			[ "ensalmases" ],
+			[ "ensalmase" ],
+			[ "ensalmásemos" ],
+			[ "ensalmaseis", "ensalmasen" ],
+			[ "ensalmasen" ]
+		],
+		"11" : [
+			[ "ensalmare" ],
+			[ "ensalmares" ],
+			[ "ensalmare" ],
+			[ "ensalmáremos" ],
+			[ "ensalmareis", "ensalmaren" ],
+			[ "ensalmaren" ]
+		],
+		"12" : {
+			"1" : [ "ensalma" ],
+			"2" : [ "ensalme" ],
+			"3" : [ "ensalmemos" ],
+			"4" : [ "ensalmad" ],
+			"5" : [ "ensalmen" ]
+		}
+	}
+}

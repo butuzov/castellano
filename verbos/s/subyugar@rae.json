@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=subyugar",
+	"word" : "subyugar",
+	"infinitivo" : "subyugar",
+	"participio" : [ "subyugado" ],
+	"gerundio" : [ "subyugando" ],
+	"tenses" : {
+		"3" : [
+			[ "subyugo" ],
+			[ "subyugas", "subyugás" ],
+			[ "subyuga" ],
+			[ "subyugamos" ],
+			[ "subyugáis", "subyugan" ],
+			[ "subyugan" ]
+		],
+		"4" : [
+			[ "subyugué" ],
+			[ "subyugaste" ],
+			[ "subyugó" ],
+			[ "subyugamos" ],
+			[ "subyugasteis", "subyugaron" ],
+			[ "subyugaron" ]
+		],
+		"5" : [
+			[ "subyugaba" ],
+			[ "subyugabas" ],
+			[ "subyugaba" ],
+			[ "subyugábamos" ],
+			[ "subyugabais", "subyugaban" ],
+			[ "subyugaban" ]
+		],
+		"6" : [
+			[ "subyugaría" ],
+			[ "subyugarías" ],
+			[ "subyugaría" ],
+			[ "subyugaríamos" ],
+			[ "subyugaríais", "subyugarían" ],
+			[ "subyugarían" ]
+		],
+		"7" : [
+			[ "subyugaré" ],
+			[ "subyugarás" ],
+			[ "subyugará" ],
+			[ "subyugaremos" ],
+			[ "subyugaréis", "subyugarán" ],
+			[ "subyugarán" ]
+		],
+		"8" : [
+			[ "subyugue" ],
+			[ "subyugues" ],
+			[ "subyugue" ],
+			[ "subyuguemos" ],
+			[ "subyuguéis", "subyuguen" ],
+			[ "subyuguen" ]
+		],
+		"9" : [
+			[ "subyugara" ],
+			[ "subyugaras" ],
+			[ "subyugara" ],
+			[ "subyugáramos" ],
+			[ "subyugarais", "subyugaran" ],
+			[ "subyugaran" ]
+		],
+		"10" : [
+			[ "subyugase" ],
+			[ "subyugases" ],
+			[ "subyugase" ],
+			[ "subyugásemos" ],
+			[ "subyugaseis", "subyugasen" ],
+			[ "subyugasen" ]
+		],
+		"11" : [
+			[ "subyugare" ],
+			[ "subyugares" ],
+			[ "subyugare" ],
+			[ "subyugáremos" ],
+			[ "subyugareis", "subyugaren" ],
+			[ "subyugaren" ]
+		],
+		"12" : {
+			"1" : [ "subyuga" ],
+			"2" : [ "subyugue" ],
+			"3" : [ "subyuguemos" ],
+			"4" : [ "subyugad" ],
+			"5" : [ "subyuguen" ]
+		}
+	}
+}

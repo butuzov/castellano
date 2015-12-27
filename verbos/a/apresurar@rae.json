@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apresurar",
+	"word" : "apresurar",
+	"infinitivo" : "apresurar",
+	"participio" : [ "apresurado" ],
+	"gerundio" : [ "apresurando" ],
+	"tenses" : {
+		"3" : [
+			[ "apresuro" ],
+			[ "apresuras", "apresurás" ],
+			[ "apresura" ],
+			[ "apresuramos" ],
+			[ "apresuráis", "apresuran" ],
+			[ "apresuran" ]
+		],
+		"4" : [
+			[ "apresuré" ],
+			[ "apresuraste" ],
+			[ "apresuró" ],
+			[ "apresuramos" ],
+			[ "apresurasteis", "apresuraron" ],
+			[ "apresuraron" ]
+		],
+		"5" : [
+			[ "apresuraba" ],
+			[ "apresurabas" ],
+			[ "apresuraba" ],
+			[ "apresurábamos" ],
+			[ "apresurabais", "apresuraban" ],
+			[ "apresuraban" ]
+		],
+		"6" : [
+			[ "apresuraría" ],
+			[ "apresurarías" ],
+			[ "apresuraría" ],
+			[ "apresuraríamos" ],
+			[ "apresuraríais", "apresurarían" ],
+			[ "apresurarían" ]
+		],
+		"7" : [
+			[ "apresuraré" ],
+			[ "apresurarás" ],
+			[ "apresurará" ],
+			[ "apresuraremos" ],
+			[ "apresuraréis", "apresurarán" ],
+			[ "apresurarán" ]
+		],
+		"8" : [
+			[ "apresure" ],
+			[ "apresures" ],
+			[ "apresure" ],
+			[ "apresuremos" ],
+			[ "apresuréis", "apresuren" ],
+			[ "apresuren" ]
+		],
+		"9" : [
+			[ "apresurara" ],
+			[ "apresuraras" ],
+			[ "apresurara" ],
+			[ "apresuráramos" ],
+			[ "apresurarais", "apresuraran" ],
+			[ "apresuraran" ]
+		],
+		"10" : [
+			[ "apresurase" ],
+			[ "apresurases" ],
+			[ "apresurase" ],
+			[ "apresurásemos" ],
+			[ "apresuraseis", "apresurasen" ],
+			[ "apresurasen" ]
+		],
+		"11" : [
+			[ "apresurare" ],
+			[ "apresurares" ],
+			[ "apresurare" ],
+			[ "apresuráremos" ],
+			[ "apresurareis", "apresuraren" ],
+			[ "apresuraren" ]
+		],
+		"12" : {
+			"1" : [ "apresura" ],
+			"2" : [ "apresure" ],
+			"3" : [ "apresuremos" ],
+			"4" : [ "apresurad" ],
+			"5" : [ "apresuren" ]
+		}
+	}
+}

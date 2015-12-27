@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=filmar",
+	"word" : "filmar",
+	"infinitivo" : "filmar",
+	"participio" : [ "filmado" ],
+	"gerundio" : [ "filmando" ],
+	"tenses" : {
+		"3" : [
+			[ "filmo" ],
+			[ "filmas", "filmás" ],
+			[ "filma" ],
+			[ "filmamos" ],
+			[ "filmáis", "filman" ],
+			[ "filman" ]
+		],
+		"4" : [
+			[ "filmé" ],
+			[ "filmaste" ],
+			[ "filmó" ],
+			[ "filmamos" ],
+			[ "filmasteis", "filmaron" ],
+			[ "filmaron" ]
+		],
+		"5" : [
+			[ "filmaba" ],
+			[ "filmabas" ],
+			[ "filmaba" ],
+			[ "filmábamos" ],
+			[ "filmabais", "filmaban" ],
+			[ "filmaban" ]
+		],
+		"6" : [
+			[ "filmaría" ],
+			[ "filmarías" ],
+			[ "filmaría" ],
+			[ "filmaríamos" ],
+			[ "filmaríais", "filmarían" ],
+			[ "filmarían" ]
+		],
+		"7" : [
+			[ "filmaré" ],
+			[ "filmarás" ],
+			[ "filmará" ],
+			[ "filmaremos" ],
+			[ "filmaréis", "filmarán" ],
+			[ "filmarán" ]
+		],
+		"8" : [
+			[ "filme" ],
+			[ "filmes" ],
+			[ "filme" ],
+			[ "filmemos" ],
+			[ "filméis", "filmen" ],
+			[ "filmen" ]
+		],
+		"9" : [
+			[ "filmara" ],
+			[ "filmaras" ],
+			[ "filmara" ],
+			[ "filmáramos" ],
+			[ "filmarais", "filmaran" ],
+			[ "filmaran" ]
+		],
+		"10" : [
+			[ "filmase" ],
+			[ "filmases" ],
+			[ "filmase" ],
+			[ "filmásemos" ],
+			[ "filmaseis", "filmasen" ],
+			[ "filmasen" ]
+		],
+		"11" : [
+			[ "filmare" ],
+			[ "filmares" ],
+			[ "filmare" ],
+			[ "filmáremos" ],
+			[ "filmareis", "filmaren" ],
+			[ "filmaren" ]
+		],
+		"12" : {
+			"1" : [ "filma" ],
+			"2" : [ "filme" ],
+			"3" : [ "filmemos" ],
+			"4" : [ "filmad" ],
+			"5" : [ "filmen" ]
+		}
+	}
+}

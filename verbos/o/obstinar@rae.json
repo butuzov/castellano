@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=obstinar",
+	"word" : "obstinar",
+	"infinitivo" : "obstinar",
+	"participio" : [ "obstinado" ],
+	"gerundio" : [ "obstinando" ],
+	"tenses" : {
+		"3" : [
+			[ "obstino" ],
+			[ "obstinas", "obstinás" ],
+			[ "obstina" ],
+			[ "obstinamos" ],
+			[ "obstináis", "obstinan" ],
+			[ "obstinan" ]
+		],
+		"4" : [
+			[ "obstiné" ],
+			[ "obstinaste" ],
+			[ "obstinó" ],
+			[ "obstinamos" ],
+			[ "obstinasteis", "obstinaron" ],
+			[ "obstinaron" ]
+		],
+		"5" : [
+			[ "obstinaba" ],
+			[ "obstinabas" ],
+			[ "obstinaba" ],
+			[ "obstinábamos" ],
+			[ "obstinabais", "obstinaban" ],
+			[ "obstinaban" ]
+		],
+		"6" : [
+			[ "obstinaría" ],
+			[ "obstinarías" ],
+			[ "obstinaría" ],
+			[ "obstinaríamos" ],
+			[ "obstinaríais", "obstinarían" ],
+			[ "obstinarían" ]
+		],
+		"7" : [
+			[ "obstinaré" ],
+			[ "obstinarás" ],
+			[ "obstinará" ],
+			[ "obstinaremos" ],
+			[ "obstinaréis", "obstinarán" ],
+			[ "obstinarán" ]
+		],
+		"8" : [
+			[ "obstine" ],
+			[ "obstines" ],
+			[ "obstine" ],
+			[ "obstinemos" ],
+			[ "obstinéis", "obstinen" ],
+			[ "obstinen" ]
+		],
+		"9" : [
+			[ "obstinara" ],
+			[ "obstinaras" ],
+			[ "obstinara" ],
+			[ "obstináramos" ],
+			[ "obstinarais", "obstinaran" ],
+			[ "obstinaran" ]
+		],
+		"10" : [
+			[ "obstinase" ],
+			[ "obstinases" ],
+			[ "obstinase" ],
+			[ "obstinásemos" ],
+			[ "obstinaseis", "obstinasen" ],
+			[ "obstinasen" ]
+		],
+		"11" : [
+			[ "obstinare" ],
+			[ "obstinares" ],
+			[ "obstinare" ],
+			[ "obstináremos" ],
+			[ "obstinareis", "obstinaren" ],
+			[ "obstinaren" ]
+		],
+		"12" : {
+			"1" : [ "obstina" ],
+			"2" : [ "obstine" ],
+			"3" : [ "obstinemos" ],
+			"4" : [ "obstinad" ],
+			"5" : [ "obstinen" ]
+		}
+	}
+}

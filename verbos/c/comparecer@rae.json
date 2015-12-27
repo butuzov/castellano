@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comparecer",
+	"word" : "comparecer",
+	"infinitivo" : "comparecer",
+	"participio" : [ "comparecido" ],
+	"gerundio" : [ "compareciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "comparezco" ],
+			[ "compareces", "comparecés" ],
+			[ "comparece" ],
+			[ "comparecemos" ],
+			[ "comparecéis", "comparecen" ],
+			[ "comparecen" ]
+		],
+		"4" : [
+			[ "comparecí" ],
+			[ "compareciste" ],
+			[ "compareció" ],
+			[ "comparecimos" ],
+			[ "comparecisteis", "comparecieron" ],
+			[ "comparecieron" ]
+		],
+		"5" : [
+			[ "comparecía" ],
+			[ "comparecías" ],
+			[ "comparecía" ],
+			[ "comparecíamos" ],
+			[ "comparecíais", "comparecían" ],
+			[ "comparecían" ]
+		],
+		"6" : [
+			[ "comparecería" ],
+			[ "comparecerías" ],
+			[ "comparecería" ],
+			[ "compareceríamos" ],
+			[ "compareceríais", "comparecerían" ],
+			[ "comparecerían" ]
+		],
+		"7" : [
+			[ "compareceré" ],
+			[ "comparecerás" ],
+			[ "comparecerá" ],
+			[ "compareceremos" ],
+			[ "compareceréis", "comparecerán" ],
+			[ "comparecerán" ]
+		],
+		"8" : [
+			[ "comparezca" ],
+			[ "comparezcas" ],
+			[ "comparezca" ],
+			[ "comparezcamos" ],
+			[ "comparezcáis", "comparezcan" ],
+			[ "comparezcan" ]
+		],
+		"9" : [
+			[ "compareciera" ],
+			[ "comparecieras" ],
+			[ "compareciera" ],
+			[ "compareciéramos" ],
+			[ "comparecierais", "comparecieran" ],
+			[ "comparecieran" ]
+		],
+		"10" : [
+			[ "compareciese" ],
+			[ "comparecieses" ],
+			[ "compareciese" ],
+			[ "compareciésemos" ],
+			[ "comparecieseis", "compareciesen" ],
+			[ "compareciesen" ]
+		],
+		"11" : [
+			[ "compareciere" ],
+			[ "comparecieres" ],
+			[ "compareciere" ],
+			[ "compareciéremos" ],
+			[ "compareciereis", "comparecieren" ],
+			[ "comparecieren" ]
+		],
+		"12" : {
+			"1" : [ "comparece" ],
+			"2" : [ "comparezca" ],
+			"3" : [ "comparezcamos" ],
+			"4" : [ "compareced" ],
+			"5" : [ "comparezcan" ]
+		}
+	}
+}

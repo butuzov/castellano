@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atar",
+	"word" : "atar",
+	"infinitivo" : "atar",
+	"participio" : [ "atado" ],
+	"gerundio" : [ "atando" ],
+	"tenses" : {
+		"3" : [
+			[ "ato" ],
+			[ "atas", "atás" ],
+			[ "ata" ],
+			[ "atamos" ],
+			[ "atáis", "atan" ],
+			[ "atan" ]
+		],
+		"4" : [
+			[ "até" ],
+			[ "ataste" ],
+			[ "ató" ],
+			[ "atamos" ],
+			[ "atasteis", "ataron" ],
+			[ "ataron" ]
+		],
+		"5" : [
+			[ "ataba" ],
+			[ "atabas" ],
+			[ "ataba" ],
+			[ "atábamos" ],
+			[ "atabais", "ataban" ],
+			[ "ataban" ]
+		],
+		"6" : [
+			[ "ataría" ],
+			[ "atarías" ],
+			[ "ataría" ],
+			[ "ataríamos" ],
+			[ "ataríais", "atarían" ],
+			[ "atarían" ]
+		],
+		"7" : [
+			[ "ataré" ],
+			[ "atarás" ],
+			[ "atará" ],
+			[ "ataremos" ],
+			[ "ataréis", "atarán" ],
+			[ "atarán" ]
+		],
+		"8" : [
+			[ "ate" ],
+			[ "ates" ],
+			[ "ate" ],
+			[ "atemos" ],
+			[ "atéis", "aten" ],
+			[ "aten" ]
+		],
+		"9" : [
+			[ "atara" ],
+			[ "ataras" ],
+			[ "atara" ],
+			[ "atáramos" ],
+			[ "atarais", "ataran" ],
+			[ "ataran" ]
+		],
+		"10" : [
+			[ "atase" ],
+			[ "atases" ],
+			[ "atase" ],
+			[ "atásemos" ],
+			[ "ataseis", "atasen" ],
+			[ "atasen" ]
+		],
+		"11" : [
+			[ "atare" ],
+			[ "atares" ],
+			[ "atare" ],
+			[ "atáremos" ],
+			[ "atareis", "ataren" ],
+			[ "ataren" ]
+		],
+		"12" : {
+			"1" : [ "ata" ],
+			"2" : [ "ate" ],
+			"3" : [ "atemos" ],
+			"4" : [ "atad" ],
+			"5" : [ "aten" ]
+		}
+	}
+}

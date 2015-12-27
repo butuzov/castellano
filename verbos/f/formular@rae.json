@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=formular",
+	"word" : "formular",
+	"infinitivo" : "formular",
+	"participio" : [ "formulado" ],
+	"gerundio" : [ "formulando" ],
+	"tenses" : {
+		"3" : [
+			[ "formulo" ],
+			[ "formulas", "formulás" ],
+			[ "formula" ],
+			[ "formulamos" ],
+			[ "formuláis", "formulan" ],
+			[ "formulan" ]
+		],
+		"4" : [
+			[ "formulé" ],
+			[ "formulaste" ],
+			[ "formuló" ],
+			[ "formulamos" ],
+			[ "formulasteis", "formularon" ],
+			[ "formularon" ]
+		],
+		"5" : [
+			[ "formulaba" ],
+			[ "formulabas" ],
+			[ "formulaba" ],
+			[ "formulábamos" ],
+			[ "formulabais", "formulaban" ],
+			[ "formulaban" ]
+		],
+		"6" : [
+			[ "formularía" ],
+			[ "formularías" ],
+			[ "formularía" ],
+			[ "formularíamos" ],
+			[ "formularíais", "formularían" ],
+			[ "formularían" ]
+		],
+		"7" : [
+			[ "formularé" ],
+			[ "formularás" ],
+			[ "formulará" ],
+			[ "formularemos" ],
+			[ "formularéis", "formularán" ],
+			[ "formularán" ]
+		],
+		"8" : [
+			[ "formule" ],
+			[ "formules" ],
+			[ "formule" ],
+			[ "formulemos" ],
+			[ "formuléis", "formulen" ],
+			[ "formulen" ]
+		],
+		"9" : [
+			[ "formulara" ],
+			[ "formularas" ],
+			[ "formulara" ],
+			[ "formuláramos" ],
+			[ "formularais", "formularan" ],
+			[ "formularan" ]
+		],
+		"10" : [
+			[ "formulase" ],
+			[ "formulases" ],
+			[ "formulase" ],
+			[ "formulásemos" ],
+			[ "formulaseis", "formulasen" ],
+			[ "formulasen" ]
+		],
+		"11" : [
+			[ "formulare" ],
+			[ "formulares" ],
+			[ "formulare" ],
+			[ "formuláremos" ],
+			[ "formulareis", "formularen" ],
+			[ "formularen" ]
+		],
+		"12" : {
+			"1" : [ "formula" ],
+			"2" : [ "formule" ],
+			"3" : [ "formulemos" ],
+			"4" : [ "formulad" ],
+			"5" : [ "formulen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sondear",
+	"word" : "sondear",
+	"infinitivo" : "sondear",
+	"participio" : [ "sondeado" ],
+	"gerundio" : [ "sondeando" ],
+	"tenses" : {
+		"3" : [
+			[ "sondeo" ],
+			[ "sondeas", "sondeás" ],
+			[ "sondea" ],
+			[ "sondeamos" ],
+			[ "sondeáis", "sondean" ],
+			[ "sondean" ]
+		],
+		"4" : [
+			[ "sondeé" ],
+			[ "sondeaste" ],
+			[ "sondeó" ],
+			[ "sondeamos" ],
+			[ "sondeasteis", "sondearon" ],
+			[ "sondearon" ]
+		],
+		"5" : [
+			[ "sondeaba" ],
+			[ "sondeabas" ],
+			[ "sondeaba" ],
+			[ "sondeábamos" ],
+			[ "sondeabais", "sondeaban" ],
+			[ "sondeaban" ]
+		],
+		"6" : [
+			[ "sondearía" ],
+			[ "sondearías" ],
+			[ "sondearía" ],
+			[ "sondearíamos" ],
+			[ "sondearíais", "sondearían" ],
+			[ "sondearían" ]
+		],
+		"7" : [
+			[ "sondearé" ],
+			[ "sondearás" ],
+			[ "sondeará" ],
+			[ "sondearemos" ],
+			[ "sondearéis", "sondearán" ],
+			[ "sondearán" ]
+		],
+		"8" : [
+			[ "sondee" ],
+			[ "sondees" ],
+			[ "sondee" ],
+			[ "sondeemos" ],
+			[ "sondeéis", "sondeen" ],
+			[ "sondeen" ]
+		],
+		"9" : [
+			[ "sondeara" ],
+			[ "sondearas" ],
+			[ "sondeara" ],
+			[ "sondeáramos" ],
+			[ "sondearais", "sondearan" ],
+			[ "sondearan" ]
+		],
+		"10" : [
+			[ "sondease" ],
+			[ "sondeases" ],
+			[ "sondease" ],
+			[ "sondeásemos" ],
+			[ "sondeaseis", "sondeasen" ],
+			[ "sondeasen" ]
+		],
+		"11" : [
+			[ "sondeare" ],
+			[ "sondeares" ],
+			[ "sondeare" ],
+			[ "sondeáremos" ],
+			[ "sondeareis", "sondearen" ],
+			[ "sondearen" ]
+		],
+		"12" : {
+			"1" : [ "sondea" ],
+			"2" : [ "sondee" ],
+			"3" : [ "sondeemos" ],
+			"4" : [ "sondead" ],
+			"5" : [ "sondeen" ]
+		}
+	}
+}

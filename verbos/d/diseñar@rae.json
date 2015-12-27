@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=diseñar",
+	"word" : "diseñar",
+	"infinitivo" : "diseñar",
+	"participio" : [ "diseñado" ],
+	"gerundio" : [ "diseñando" ],
+	"tenses" : {
+		"3" : [
+			[ "diseño" ],
+			[ "diseñas", "diseñás" ],
+			[ "diseña" ],
+			[ "diseñamos" ],
+			[ "diseñáis", "diseñan" ],
+			[ "diseñan" ]
+		],
+		"4" : [
+			[ "diseñé" ],
+			[ "diseñaste" ],
+			[ "diseñó" ],
+			[ "diseñamos" ],
+			[ "diseñasteis", "diseñaron" ],
+			[ "diseñaron" ]
+		],
+		"5" : [
+			[ "diseñaba" ],
+			[ "diseñabas" ],
+			[ "diseñaba" ],
+			[ "diseñábamos" ],
+			[ "diseñabais", "diseñaban" ],
+			[ "diseñaban" ]
+		],
+		"6" : [
+			[ "diseñaría" ],
+			[ "diseñarías" ],
+			[ "diseñaría" ],
+			[ "diseñaríamos" ],
+			[ "diseñaríais", "diseñarían" ],
+			[ "diseñarían" ]
+		],
+		"7" : [
+			[ "diseñaré" ],
+			[ "diseñarás" ],
+			[ "diseñará" ],
+			[ "diseñaremos" ],
+			[ "diseñaréis", "diseñarán" ],
+			[ "diseñarán" ]
+		],
+		"8" : [
+			[ "diseñe" ],
+			[ "diseñes" ],
+			[ "diseñe" ],
+			[ "diseñemos" ],
+			[ "diseñéis", "diseñen" ],
+			[ "diseñen" ]
+		],
+		"9" : [
+			[ "diseñara" ],
+			[ "diseñaras" ],
+			[ "diseñara" ],
+			[ "diseñáramos" ],
+			[ "diseñarais", "diseñaran" ],
+			[ "diseñaran" ]
+		],
+		"10" : [
+			[ "diseñase" ],
+			[ "diseñases" ],
+			[ "diseñase" ],
+			[ "diseñásemos" ],
+			[ "diseñaseis", "diseñasen" ],
+			[ "diseñasen" ]
+		],
+		"11" : [
+			[ "diseñare" ],
+			[ "diseñares" ],
+			[ "diseñare" ],
+			[ "diseñáremos" ],
+			[ "diseñareis", "diseñaren" ],
+			[ "diseñaren" ]
+		],
+		"12" : {
+			"1" : [ "diseña" ],
+			"2" : [ "diseñe" ],
+			"3" : [ "diseñemos" ],
+			"4" : [ "diseñad" ],
+			"5" : [ "diseñen" ]
+		}
+	}
+}

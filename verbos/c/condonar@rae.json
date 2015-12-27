@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=condonar",
+	"word" : "condonar",
+	"infinitivo" : "condonar",
+	"participio" : [ "condonado" ],
+	"gerundio" : [ "condonando" ],
+	"tenses" : {
+		"3" : [
+			[ "condono" ],
+			[ "condonas", "condonás" ],
+			[ "condona" ],
+			[ "condonamos" ],
+			[ "condonáis", "condonan" ],
+			[ "condonan" ]
+		],
+		"4" : [
+			[ "condoné" ],
+			[ "condonaste" ],
+			[ "condonó" ],
+			[ "condonamos" ],
+			[ "condonasteis", "condonaron" ],
+			[ "condonaron" ]
+		],
+		"5" : [
+			[ "condonaba" ],
+			[ "condonabas" ],
+			[ "condonaba" ],
+			[ "condonábamos" ],
+			[ "condonabais", "condonaban" ],
+			[ "condonaban" ]
+		],
+		"6" : [
+			[ "condonaría" ],
+			[ "condonarías" ],
+			[ "condonaría" ],
+			[ "condonaríamos" ],
+			[ "condonaríais", "condonarían" ],
+			[ "condonarían" ]
+		],
+		"7" : [
+			[ "condonaré" ],
+			[ "condonarás" ],
+			[ "condonará" ],
+			[ "condonaremos" ],
+			[ "condonaréis", "condonarán" ],
+			[ "condonarán" ]
+		],
+		"8" : [
+			[ "condone" ],
+			[ "condones" ],
+			[ "condone" ],
+			[ "condonemos" ],
+			[ "condonéis", "condonen" ],
+			[ "condonen" ]
+		],
+		"9" : [
+			[ "condonara" ],
+			[ "condonaras" ],
+			[ "condonara" ],
+			[ "condonáramos" ],
+			[ "condonarais", "condonaran" ],
+			[ "condonaran" ]
+		],
+		"10" : [
+			[ "condonase" ],
+			[ "condonases" ],
+			[ "condonase" ],
+			[ "condonásemos" ],
+			[ "condonaseis", "condonasen" ],
+			[ "condonasen" ]
+		],
+		"11" : [
+			[ "condonare" ],
+			[ "condonares" ],
+			[ "condonare" ],
+			[ "condonáremos" ],
+			[ "condonareis", "condonaren" ],
+			[ "condonaren" ]
+		],
+		"12" : {
+			"1" : [ "condona" ],
+			"2" : [ "condone" ],
+			"3" : [ "condonemos" ],
+			"4" : [ "condonad" ],
+			"5" : [ "condonen" ]
+		}
+	}
+}

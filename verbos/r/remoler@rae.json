@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remoler",
+	"word" : "remoler",
+	"infinitivo" : "remoler",
+	"participio" : [ "remolido" ],
+	"gerundio" : [ "remoliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "remuelo" ],
+			[ "remueles", "remolés" ],
+			[ "remuele" ],
+			[ "remolemos" ],
+			[ "remoléis", "remuelen" ],
+			[ "remuelen" ]
+		],
+		"4" : [
+			[ "remolí" ],
+			[ "remoliste" ],
+			[ "remolió" ],
+			[ "remolimos" ],
+			[ "remolisteis", "remolieron" ],
+			[ "remolieron" ]
+		],
+		"5" : [
+			[ "remolía" ],
+			[ "remolías" ],
+			[ "remolía" ],
+			[ "remolíamos" ],
+			[ "remolíais", "remolían" ],
+			[ "remolían" ]
+		],
+		"6" : [
+			[ "remolería" ],
+			[ "remolerías" ],
+			[ "remolería" ],
+			[ "remoleríamos" ],
+			[ "remoleríais", "remolerían" ],
+			[ "remolerían" ]
+		],
+		"7" : [
+			[ "remoleré" ],
+			[ "remolerás" ],
+			[ "remolerá" ],
+			[ "remoleremos" ],
+			[ "remoleréis", "remolerán" ],
+			[ "remolerán" ]
+		],
+		"8" : [
+			[ "remuela" ],
+			[ "remuelas" ],
+			[ "remuela" ],
+			[ "remolamos" ],
+			[ "remoláis", "remuelan" ],
+			[ "remuelan" ]
+		],
+		"9" : [
+			[ "remoliera" ],
+			[ "remolieras" ],
+			[ "remoliera" ],
+			[ "remoliéramos" ],
+			[ "remolierais", "remolieran" ],
+			[ "remolieran" ]
+		],
+		"10" : [
+			[ "remoliese" ],
+			[ "remolieses" ],
+			[ "remoliese" ],
+			[ "remoliésemos" ],
+			[ "remolieseis", "remoliesen" ],
+			[ "remoliesen" ]
+		],
+		"11" : [
+			[ "remoliere" ],
+			[ "remolieres" ],
+			[ "remoliere" ],
+			[ "remoliéremos" ],
+			[ "remoliereis", "remolieren" ],
+			[ "remolieren" ]
+		],
+		"12" : {
+			"1" : [ "remuele" ],
+			"2" : [ "remuela" ],
+			"3" : [ "remolamos" ],
+			"4" : [ "remoled" ],
+			"5" : [ "remuelan" ]
+		}
+	}
+}

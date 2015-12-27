@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=subsistir",
+	"word" : "subsistir",
+	"infinitivo" : "subsistir",
+	"participio" : [ "subsistido" ],
+	"gerundio" : [ "subsistiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "subsisto" ],
+			[ "subsistes", "subsistís" ],
+			[ "subsiste" ],
+			[ "subsistimos" ],
+			[ "subsistís", "subsisten" ],
+			[ "subsisten" ]
+		],
+		"4" : [
+			[ "subsistí" ],
+			[ "subsististe" ],
+			[ "subsistió" ],
+			[ "subsistimos" ],
+			[ "subsististeis", "subsistieron" ],
+			[ "subsistieron" ]
+		],
+		"5" : [
+			[ "subsistía" ],
+			[ "subsistías" ],
+			[ "subsistía" ],
+			[ "subsistíamos" ],
+			[ "subsistíais", "subsistían" ],
+			[ "subsistían" ]
+		],
+		"6" : [
+			[ "subsistiría" ],
+			[ "subsistirías" ],
+			[ "subsistiría" ],
+			[ "subsistiríamos" ],
+			[ "subsistiríais", "subsistirían" ],
+			[ "subsistirían" ]
+		],
+		"7" : [
+			[ "subsistiré" ],
+			[ "subsistirás" ],
+			[ "subsistirá" ],
+			[ "subsistiremos" ],
+			[ "subsistiréis", "subsistirán" ],
+			[ "subsistirán" ]
+		],
+		"8" : [
+			[ "subsista" ],
+			[ "subsistas" ],
+			[ "subsista" ],
+			[ "subsistamos" ],
+			[ "subsistáis", "subsistan" ],
+			[ "subsistan" ]
+		],
+		"9" : [
+			[ "subsistiera" ],
+			[ "subsistieras" ],
+			[ "subsistiera" ],
+			[ "subsistiéramos" ],
+			[ "subsistierais", "subsistieran" ],
+			[ "subsistieran" ]
+		],
+		"10" : [
+			[ "subsistiese" ],
+			[ "subsistieses" ],
+			[ "subsistiese" ],
+			[ "subsistiésemos" ],
+			[ "subsistieseis", "subsistiesen" ],
+			[ "subsistiesen" ]
+		],
+		"11" : [
+			[ "subsistiere" ],
+			[ "subsistieres" ],
+			[ "subsistiere" ],
+			[ "subsistiéremos" ],
+			[ "subsistiereis", "subsistieren" ],
+			[ "subsistieren" ]
+		],
+		"12" : {
+			"1" : [ "subsiste" ],
+			"2" : [ "subsista" ],
+			"3" : [ "subsistamos" ],
+			"4" : [ "subsistid" ],
+			"5" : [ "subsistan" ]
+		}
+	}
+}

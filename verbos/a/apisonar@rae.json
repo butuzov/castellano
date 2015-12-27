@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apisonar",
+	"word" : "apisonar",
+	"infinitivo" : "apisonar",
+	"participio" : [ "apisonado" ],
+	"gerundio" : [ "apisonando" ],
+	"tenses" : {
+		"3" : [
+			[ "apisono" ],
+			[ "apisonas", "apisonás" ],
+			[ "apisona" ],
+			[ "apisonamos" ],
+			[ "apisonáis", "apisonan" ],
+			[ "apisonan" ]
+		],
+		"4" : [
+			[ "apisoné" ],
+			[ "apisonaste" ],
+			[ "apisonó" ],
+			[ "apisonamos" ],
+			[ "apisonasteis", "apisonaron" ],
+			[ "apisonaron" ]
+		],
+		"5" : [
+			[ "apisonaba" ],
+			[ "apisonabas" ],
+			[ "apisonaba" ],
+			[ "apisonábamos" ],
+			[ "apisonabais", "apisonaban" ],
+			[ "apisonaban" ]
+		],
+		"6" : [
+			[ "apisonaría" ],
+			[ "apisonarías" ],
+			[ "apisonaría" ],
+			[ "apisonaríamos" ],
+			[ "apisonaríais", "apisonarían" ],
+			[ "apisonarían" ]
+		],
+		"7" : [
+			[ "apisonaré" ],
+			[ "apisonarás" ],
+			[ "apisonará" ],
+			[ "apisonaremos" ],
+			[ "apisonaréis", "apisonarán" ],
+			[ "apisonarán" ]
+		],
+		"8" : [
+			[ "apisone" ],
+			[ "apisones" ],
+			[ "apisone" ],
+			[ "apisonemos" ],
+			[ "apisonéis", "apisonen" ],
+			[ "apisonen" ]
+		],
+		"9" : [
+			[ "apisonara" ],
+			[ "apisonaras" ],
+			[ "apisonara" ],
+			[ "apisonáramos" ],
+			[ "apisonarais", "apisonaran" ],
+			[ "apisonaran" ]
+		],
+		"10" : [
+			[ "apisonase" ],
+			[ "apisonases" ],
+			[ "apisonase" ],
+			[ "apisonásemos" ],
+			[ "apisonaseis", "apisonasen" ],
+			[ "apisonasen" ]
+		],
+		"11" : [
+			[ "apisonare" ],
+			[ "apisonares" ],
+			[ "apisonare" ],
+			[ "apisonáremos" ],
+			[ "apisonareis", "apisonaren" ],
+			[ "apisonaren" ]
+		],
+		"12" : {
+			"1" : [ "apisona" ],
+			"2" : [ "apisone" ],
+			"3" : [ "apisonemos" ],
+			"4" : [ "apisonad" ],
+			"5" : [ "apisonen" ]
+		}
+	}
+}

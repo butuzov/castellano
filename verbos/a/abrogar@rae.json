@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abrogar",
+	"word" : "abrogar",
+	"infinitivo" : "abrogar",
+	"participio" : [ "abrogado" ],
+	"gerundio" : [ "abrogando" ],
+	"tenses" : {
+		"3" : [
+			[ "abrogo" ],
+			[ "abrogas", "abrogás" ],
+			[ "abroga" ],
+			[ "abrogamos" ],
+			[ "abrogáis", "abrogan" ],
+			[ "abrogan" ]
+		],
+		"4" : [
+			[ "abrogué" ],
+			[ "abrogaste" ],
+			[ "abrogó" ],
+			[ "abrogamos" ],
+			[ "abrogasteis", "abrogaron" ],
+			[ "abrogaron" ]
+		],
+		"5" : [
+			[ "abrogaba" ],
+			[ "abrogabas" ],
+			[ "abrogaba" ],
+			[ "abrogábamos" ],
+			[ "abrogabais", "abrogaban" ],
+			[ "abrogaban" ]
+		],
+		"6" : [
+			[ "abrogaría" ],
+			[ "abrogarías" ],
+			[ "abrogaría" ],
+			[ "abrogaríamos" ],
+			[ "abrogaríais", "abrogarían" ],
+			[ "abrogarían" ]
+		],
+		"7" : [
+			[ "abrogaré" ],
+			[ "abrogarás" ],
+			[ "abrogará" ],
+			[ "abrogaremos" ],
+			[ "abrogaréis", "abrogarán" ],
+			[ "abrogarán" ]
+		],
+		"8" : [
+			[ "abrogue" ],
+			[ "abrogues" ],
+			[ "abrogue" ],
+			[ "abroguemos" ],
+			[ "abroguéis", "abroguen" ],
+			[ "abroguen" ]
+		],
+		"9" : [
+			[ "abrogara" ],
+			[ "abrogaras" ],
+			[ "abrogara" ],
+			[ "abrogáramos" ],
+			[ "abrogarais", "abrogaran" ],
+			[ "abrogaran" ]
+		],
+		"10" : [
+			[ "abrogase" ],
+			[ "abrogases" ],
+			[ "abrogase" ],
+			[ "abrogásemos" ],
+			[ "abrogaseis", "abrogasen" ],
+			[ "abrogasen" ]
+		],
+		"11" : [
+			[ "abrogare" ],
+			[ "abrogares" ],
+			[ "abrogare" ],
+			[ "abrogáremos" ],
+			[ "abrogareis", "abrogaren" ],
+			[ "abrogaren" ]
+		],
+		"12" : {
+			"1" : [ "abroga" ],
+			"2" : [ "abrogue" ],
+			"3" : [ "abroguemos" ],
+			"4" : [ "abrogad" ],
+			"5" : [ "abroguen" ]
+		}
+	}
+}

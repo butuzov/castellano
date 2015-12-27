@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repujar",
+	"word" : "repujar",
+	"infinitivo" : "repujar",
+	"participio" : [ "repujado" ],
+	"gerundio" : [ "repujando" ],
+	"tenses" : {
+		"3" : [
+			[ "repujo" ],
+			[ "repujas", "repujás" ],
+			[ "repuja" ],
+			[ "repujamos" ],
+			[ "repujáis", "repujan" ],
+			[ "repujan" ]
+		],
+		"4" : [
+			[ "repujé" ],
+			[ "repujaste" ],
+			[ "repujó" ],
+			[ "repujamos" ],
+			[ "repujasteis", "repujaron" ],
+			[ "repujaron" ]
+		],
+		"5" : [
+			[ "repujaba" ],
+			[ "repujabas" ],
+			[ "repujaba" ],
+			[ "repujábamos" ],
+			[ "repujabais", "repujaban" ],
+			[ "repujaban" ]
+		],
+		"6" : [
+			[ "repujaría" ],
+			[ "repujarías" ],
+			[ "repujaría" ],
+			[ "repujaríamos" ],
+			[ "repujaríais", "repujarían" ],
+			[ "repujarían" ]
+		],
+		"7" : [
+			[ "repujaré" ],
+			[ "repujarás" ],
+			[ "repujará" ],
+			[ "repujaremos" ],
+			[ "repujaréis", "repujarán" ],
+			[ "repujarán" ]
+		],
+		"8" : [
+			[ "repuje" ],
+			[ "repujes" ],
+			[ "repuje" ],
+			[ "repujemos" ],
+			[ "repujéis", "repujen" ],
+			[ "repujen" ]
+		],
+		"9" : [
+			[ "repujara" ],
+			[ "repujaras" ],
+			[ "repujara" ],
+			[ "repujáramos" ],
+			[ "repujarais", "repujaran" ],
+			[ "repujaran" ]
+		],
+		"10" : [
+			[ "repujase" ],
+			[ "repujases" ],
+			[ "repujase" ],
+			[ "repujásemos" ],
+			[ "repujaseis", "repujasen" ],
+			[ "repujasen" ]
+		],
+		"11" : [
+			[ "repujare" ],
+			[ "repujares" ],
+			[ "repujare" ],
+			[ "repujáremos" ],
+			[ "repujareis", "repujaren" ],
+			[ "repujaren" ]
+		],
+		"12" : {
+			"1" : [ "repuja" ],
+			"2" : [ "repuje" ],
+			"3" : [ "repujemos" ],
+			"4" : [ "repujad" ],
+			"5" : [ "repujen" ]
+		}
+	}
+}

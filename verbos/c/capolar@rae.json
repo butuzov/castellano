@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=capolar",
+	"word" : "capolar",
+	"infinitivo" : "capolar",
+	"participio" : [ "capolado" ],
+	"gerundio" : [ "capolando" ],
+	"tenses" : {
+		"3" : [
+			[ "capolo" ],
+			[ "capolas", "capolás" ],
+			[ "capola" ],
+			[ "capolamos" ],
+			[ "capoláis", "capolan" ],
+			[ "capolan" ]
+		],
+		"4" : [
+			[ "capolé" ],
+			[ "capolaste" ],
+			[ "capoló" ],
+			[ "capolamos" ],
+			[ "capolasteis", "capolaron" ],
+			[ "capolaron" ]
+		],
+		"5" : [
+			[ "capolaba" ],
+			[ "capolabas" ],
+			[ "capolaba" ],
+			[ "capolábamos" ],
+			[ "capolabais", "capolaban" ],
+			[ "capolaban" ]
+		],
+		"6" : [
+			[ "capolaría" ],
+			[ "capolarías" ],
+			[ "capolaría" ],
+			[ "capolaríamos" ],
+			[ "capolaríais", "capolarían" ],
+			[ "capolarían" ]
+		],
+		"7" : [
+			[ "capolaré" ],
+			[ "capolarás" ],
+			[ "capolará" ],
+			[ "capolaremos" ],
+			[ "capolaréis", "capolarán" ],
+			[ "capolarán" ]
+		],
+		"8" : [
+			[ "capole" ],
+			[ "capoles" ],
+			[ "capole" ],
+			[ "capolemos" ],
+			[ "capoléis", "capolen" ],
+			[ "capolen" ]
+		],
+		"9" : [
+			[ "capolara" ],
+			[ "capolaras" ],
+			[ "capolara" ],
+			[ "capoláramos" ],
+			[ "capolarais", "capolaran" ],
+			[ "capolaran" ]
+		],
+		"10" : [
+			[ "capolase" ],
+			[ "capolases" ],
+			[ "capolase" ],
+			[ "capolásemos" ],
+			[ "capolaseis", "capolasen" ],
+			[ "capolasen" ]
+		],
+		"11" : [
+			[ "capolare" ],
+			[ "capolares" ],
+			[ "capolare" ],
+			[ "capoláremos" ],
+			[ "capolareis", "capolaren" ],
+			[ "capolaren" ]
+		],
+		"12" : {
+			"1" : [ "capola" ],
+			"2" : [ "capole" ],
+			"3" : [ "capolemos" ],
+			"4" : [ "capolad" ],
+			"5" : [ "capolen" ]
+		}
+	}
+}

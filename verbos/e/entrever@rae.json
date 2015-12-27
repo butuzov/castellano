@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entrever",
+	"word" : "entrever",
+	"infinitivo" : "entrever",
+	"participio" : [ "entrevisto" ],
+	"gerundio" : [ "entreviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "entreveo" ],
+			[ "entrevés" ],
+			[ "entrevé" ],
+			[ "entrevemos" ],
+			[ "entrevéis", "entrevén" ],
+			[ "entrevén" ]
+		],
+		"4" : [
+			[ "entreví" ],
+			[ "entreviste" ],
+			[ "entrevió" ],
+			[ "entrevimos" ],
+			[ "entrevisteis", "entrevieron" ],
+			[ "entrevieron" ]
+		],
+		"5" : [
+			[ "entreveía" ],
+			[ "entreveías" ],
+			[ "entreveía" ],
+			[ "entreveíamos" ],
+			[ "entreveíais", "entreveían" ],
+			[ "entreveían" ]
+		],
+		"6" : [
+			[ "entrevería" ],
+			[ "entreverías" ],
+			[ "entrevería" ],
+			[ "entreveríamos" ],
+			[ "entreveríais", "entreverían" ],
+			[ "entreverían" ]
+		],
+		"7" : [
+			[ "entreveré" ],
+			[ "entreverás" ],
+			[ "entreverá" ],
+			[ "entreveremos" ],
+			[ "entreveréis", "entreverán" ],
+			[ "entreverán" ]
+		],
+		"8" : [
+			[ "entrevea" ],
+			[ "entreveas" ],
+			[ "entrevea" ],
+			[ "entreveamos" ],
+			[ "entreveáis", "entrevean" ],
+			[ "entrevean" ]
+		],
+		"9" : [
+			[ "entreviera" ],
+			[ "entrevieras" ],
+			[ "entreviera" ],
+			[ "entreviéramos" ],
+			[ "entrevierais", "entrevieran" ],
+			[ "entrevieran" ]
+		],
+		"10" : [
+			[ "entreviese" ],
+			[ "entrevieses" ],
+			[ "entreviese" ],
+			[ "entreviésemos" ],
+			[ "entrevieseis", "entreviesen" ],
+			[ "entreviesen" ]
+		],
+		"11" : [
+			[ "entreviere" ],
+			[ "entrevieres" ],
+			[ "entreviere" ],
+			[ "entreviéremos" ],
+			[ "entreviereis", "entrevieren" ],
+			[ "entrevieren" ]
+		],
+		"12" : {
+			"1" : [ "entrevé" ],
+			"2" : [ "entrevea" ],
+			"3" : [ "entreveamos" ],
+			"4" : [ "entreved" ],
+			"5" : [ "entrevean" ]
+		}
+	}
+}

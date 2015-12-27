@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cocer",
+	"word" : "cocer",
+	"infinitivo" : "cocer",
+	"participio" : [ "cocido" ],
+	"gerundio" : [ "cociendo" ],
+	"tenses" : {
+		"3" : [
+			[ "cuezo" ],
+			[ "cueces", "cocés" ],
+			[ "cuece" ],
+			[ "cocemos" ],
+			[ "cocéis", "cuecen" ],
+			[ "cuecen" ]
+		],
+		"4" : [
+			[ "cocí" ],
+			[ "cociste" ],
+			[ "coció" ],
+			[ "cocimos" ],
+			[ "cocisteis", "cocieron" ],
+			[ "cocieron" ]
+		],
+		"5" : [
+			[ "cocía" ],
+			[ "cocías" ],
+			[ "cocía" ],
+			[ "cocíamos" ],
+			[ "cocíais", "cocían" ],
+			[ "cocían" ]
+		],
+		"6" : [
+			[ "cocería" ],
+			[ "cocerías" ],
+			[ "cocería" ],
+			[ "coceríamos" ],
+			[ "coceríais", "cocerían" ],
+			[ "cocerían" ]
+		],
+		"7" : [
+			[ "coceré" ],
+			[ "cocerás" ],
+			[ "cocerá" ],
+			[ "coceremos" ],
+			[ "coceréis", "cocerán" ],
+			[ "cocerán" ]
+		],
+		"8" : [
+			[ "cueza" ],
+			[ "cuezas" ],
+			[ "cueza" ],
+			[ "cozamos" ],
+			[ "cozáis", "cuezan" ],
+			[ "cuezan" ]
+		],
+		"9" : [
+			[ "cociera" ],
+			[ "cocieras" ],
+			[ "cociera" ],
+			[ "cociéramos" ],
+			[ "cocierais", "cocieran" ],
+			[ "cocieran" ]
+		],
+		"10" : [
+			[ "cociese" ],
+			[ "cocieses" ],
+			[ "cociese" ],
+			[ "cociésemos" ],
+			[ "cocieseis", "cociesen" ],
+			[ "cociesen" ]
+		],
+		"11" : [
+			[ "cociere" ],
+			[ "cocieres" ],
+			[ "cociere" ],
+			[ "cociéremos" ],
+			[ "cociereis", "cocieren" ],
+			[ "cocieren" ]
+		],
+		"12" : {
+			"1" : [ "cuece" ],
+			"2" : [ "cueza" ],
+			"3" : [ "cozamos" ],
+			"4" : [ "coced" ],
+			"5" : [ "cuezan" ]
+		}
+	}
+}

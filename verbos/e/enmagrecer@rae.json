@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enmagrecer",
+	"word" : "enmagrecer",
+	"infinitivo" : "enmagrecer",
+	"participio" : [ "enmagrecido" ],
+	"gerundio" : [ "enmagreciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "enmagrezco" ],
+			[ "enmagreces", "enmagrecés" ],
+			[ "enmagrece" ],
+			[ "enmagrecemos" ],
+			[ "enmagrecéis", "enmagrecen" ],
+			[ "enmagrecen" ]
+		],
+		"4" : [
+			[ "enmagrecí" ],
+			[ "enmagreciste" ],
+			[ "enmagreció" ],
+			[ "enmagrecimos" ],
+			[ "enmagrecisteis", "enmagrecieron" ],
+			[ "enmagrecieron" ]
+		],
+		"5" : [
+			[ "enmagrecía" ],
+			[ "enmagrecías" ],
+			[ "enmagrecía" ],
+			[ "enmagrecíamos" ],
+			[ "enmagrecíais", "enmagrecían" ],
+			[ "enmagrecían" ]
+		],
+		"6" : [
+			[ "enmagrecería" ],
+			[ "enmagrecerías" ],
+			[ "enmagrecería" ],
+			[ "enmagreceríamos" ],
+			[ "enmagreceríais", "enmagrecerían" ],
+			[ "enmagrecerían" ]
+		],
+		"7" : [
+			[ "enmagreceré" ],
+			[ "enmagrecerás" ],
+			[ "enmagrecerá" ],
+			[ "enmagreceremos" ],
+			[ "enmagreceréis", "enmagrecerán" ],
+			[ "enmagrecerán" ]
+		],
+		"8" : [
+			[ "enmagrezca" ],
+			[ "enmagrezcas" ],
+			[ "enmagrezca" ],
+			[ "enmagrezcamos" ],
+			[ "enmagrezcáis", "enmagrezcan" ],
+			[ "enmagrezcan" ]
+		],
+		"9" : [
+			[ "enmagreciera" ],
+			[ "enmagrecieras" ],
+			[ "enmagreciera" ],
+			[ "enmagreciéramos" ],
+			[ "enmagrecierais", "enmagrecieran" ],
+			[ "enmagrecieran" ]
+		],
+		"10" : [
+			[ "enmagreciese" ],
+			[ "enmagrecieses" ],
+			[ "enmagreciese" ],
+			[ "enmagreciésemos" ],
+			[ "enmagrecieseis", "enmagreciesen" ],
+			[ "enmagreciesen" ]
+		],
+		"11" : [
+			[ "enmagreciere" ],
+			[ "enmagrecieres" ],
+			[ "enmagreciere" ],
+			[ "enmagreciéremos" ],
+			[ "enmagreciereis", "enmagrecieren" ],
+			[ "enmagrecieren" ]
+		],
+		"12" : {
+			"1" : [ "enmagrece" ],
+			"2" : [ "enmagrezca" ],
+			"3" : [ "enmagrezcamos" ],
+			"4" : [ "enmagreced" ],
+			"5" : [ "enmagrezcan" ]
+		}
+	}
+}

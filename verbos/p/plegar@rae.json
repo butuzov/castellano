@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=plegar",
+	"word" : "plegar",
+	"infinitivo" : "plegar",
+	"participio" : [ "plegado" ],
+	"gerundio" : [ "plegando" ],
+	"tenses" : {
+		"3" : [
+			[ "pliego" ],
+			[ "pliegas", "plegás" ],
+			[ "pliega" ],
+			[ "plegamos" ],
+			[ "plegáis", "pliegan" ],
+			[ "pliegan" ]
+		],
+		"4" : [
+			[ "plegué" ],
+			[ "plegaste" ],
+			[ "plegó" ],
+			[ "plegamos" ],
+			[ "plegasteis", "plegaron" ],
+			[ "plegaron" ]
+		],
+		"5" : [
+			[ "plegaba" ],
+			[ "plegabas" ],
+			[ "plegaba" ],
+			[ "plegábamos" ],
+			[ "plegabais", "plegaban" ],
+			[ "plegaban" ]
+		],
+		"6" : [
+			[ "plegaría" ],
+			[ "plegarías" ],
+			[ "plegaría" ],
+			[ "plegaríamos" ],
+			[ "plegaríais", "plegarían" ],
+			[ "plegarían" ]
+		],
+		"7" : [
+			[ "plegaré" ],
+			[ "plegarás" ],
+			[ "plegará" ],
+			[ "plegaremos" ],
+			[ "plegaréis", "plegarán" ],
+			[ "plegarán" ]
+		],
+		"8" : [
+			[ "pliegue" ],
+			[ "pliegues" ],
+			[ "pliegue" ],
+			[ "pleguemos" ],
+			[ "pleguéis", "plieguen" ],
+			[ "plieguen" ]
+		],
+		"9" : [
+			[ "plegara" ],
+			[ "plegaras" ],
+			[ "plegara" ],
+			[ "plegáramos" ],
+			[ "plegarais", "plegaran" ],
+			[ "plegaran" ]
+		],
+		"10" : [
+			[ "plegase" ],
+			[ "plegases" ],
+			[ "plegase" ],
+			[ "plegásemos" ],
+			[ "plegaseis", "plegasen" ],
+			[ "plegasen" ]
+		],
+		"11" : [
+			[ "plegare" ],
+			[ "plegares" ],
+			[ "plegare" ],
+			[ "plegáremos" ],
+			[ "plegareis", "plegaren" ],
+			[ "plegaren" ]
+		],
+		"12" : {
+			"1" : [ "pliega" ],
+			"2" : [ "pliegue" ],
+			"3" : [ "pleguemos" ],
+			"4" : [ "plegad" ],
+			"5" : [ "plieguen" ]
+		}
+	}
+}

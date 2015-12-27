@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sustraer",
+	"word" : "sustraer",
+	"infinitivo" : "sustraer",
+	"participio" : [ "sustraído" ],
+	"gerundio" : [ "sustrayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sustraigo" ],
+			[ "sustraes", "sustraés" ],
+			[ "sustrae" ],
+			[ "sustraemos" ],
+			[ "sustraéis", "sustraen" ],
+			[ "sustraen" ]
+		],
+		"4" : [
+			[ "sustraje" ],
+			[ "sustrajiste" ],
+			[ "sustrajo" ],
+			[ "sustrajimos" ],
+			[ "sustrajisteis", "sustrajeron" ],
+			[ "sustrajeron" ]
+		],
+		"5" : [
+			[ "sustraía" ],
+			[ "sustraías" ],
+			[ "sustraía" ],
+			[ "sustraíamos" ],
+			[ "sustraíais", "sustraían" ],
+			[ "sustraían" ]
+		],
+		"6" : [
+			[ "sustraería" ],
+			[ "sustraerías" ],
+			[ "sustraería" ],
+			[ "sustraeríamos" ],
+			[ "sustraeríais", "sustraerían" ],
+			[ "sustraerían" ]
+		],
+		"7" : [
+			[ "sustraeré" ],
+			[ "sustraerás" ],
+			[ "sustraerá" ],
+			[ "sustraeremos" ],
+			[ "sustraeréis", "sustraerán" ],
+			[ "sustraerán" ]
+		],
+		"8" : [
+			[ "sustraiga" ],
+			[ "sustraigas" ],
+			[ "sustraiga" ],
+			[ "sustraigamos" ],
+			[ "sustraigáis", "sustraigan" ],
+			[ "sustraigan" ]
+		],
+		"9" : [
+			[ "sustrajera" ],
+			[ "sustrajeras" ],
+			[ "sustrajera" ],
+			[ "sustrajéramos" ],
+			[ "sustrajerais", "sustrajeran" ],
+			[ "sustrajeran" ]
+		],
+		"10" : [
+			[ "sustrajese" ],
+			[ "sustrajeses" ],
+			[ "sustrajese" ],
+			[ "sustrajésemos" ],
+			[ "sustrajeseis", "sustrajesen" ],
+			[ "sustrajesen" ]
+		],
+		"11" : [
+			[ "sustrajere" ],
+			[ "sustrajeres" ],
+			[ "sustrajere" ],
+			[ "sustrajéremos" ],
+			[ "sustrajereis", "sustrajeren" ],
+			[ "sustrajeren" ]
+		],
+		"12" : {
+			"1" : [ "sustrae" ],
+			"2" : [ "sustraiga" ],
+			"3" : [ "sustraigamos" ],
+			"4" : [ "sustraed" ],
+			"5" : [ "sustraigan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=roncar",
+	"word" : "roncar",
+	"infinitivo" : "roncar",
+	"participio" : [ "roncado" ],
+	"gerundio" : [ "roncando" ],
+	"tenses" : {
+		"3" : [
+			[ "ronco" ],
+			[ "roncas", "roncás" ],
+			[ "ronca" ],
+			[ "roncamos" ],
+			[ "roncáis", "roncan" ],
+			[ "roncan" ]
+		],
+		"4" : [
+			[ "ronqué" ],
+			[ "roncaste" ],
+			[ "roncó" ],
+			[ "roncamos" ],
+			[ "roncasteis", "roncaron" ],
+			[ "roncaron" ]
+		],
+		"5" : [
+			[ "roncaba" ],
+			[ "roncabas" ],
+			[ "roncaba" ],
+			[ "roncábamos" ],
+			[ "roncabais", "roncaban" ],
+			[ "roncaban" ]
+		],
+		"6" : [
+			[ "roncaría" ],
+			[ "roncarías" ],
+			[ "roncaría" ],
+			[ "roncaríamos" ],
+			[ "roncaríais", "roncarían" ],
+			[ "roncarían" ]
+		],
+		"7" : [
+			[ "roncaré" ],
+			[ "roncarás" ],
+			[ "roncará" ],
+			[ "roncaremos" ],
+			[ "roncaréis", "roncarán" ],
+			[ "roncarán" ]
+		],
+		"8" : [
+			[ "ronque" ],
+			[ "ronques" ],
+			[ "ronque" ],
+			[ "ronquemos" ],
+			[ "ronquéis", "ronquen" ],
+			[ "ronquen" ]
+		],
+		"9" : [
+			[ "roncara" ],
+			[ "roncaras" ],
+			[ "roncara" ],
+			[ "roncáramos" ],
+			[ "roncarais", "roncaran" ],
+			[ "roncaran" ]
+		],
+		"10" : [
+			[ "roncase" ],
+			[ "roncases" ],
+			[ "roncase" ],
+			[ "roncásemos" ],
+			[ "roncaseis", "roncasen" ],
+			[ "roncasen" ]
+		],
+		"11" : [
+			[ "roncare" ],
+			[ "roncares" ],
+			[ "roncare" ],
+			[ "roncáremos" ],
+			[ "roncareis", "roncaren" ],
+			[ "roncaren" ]
+		],
+		"12" : {
+			"1" : [ "ronca" ],
+			"2" : [ "ronque" ],
+			"3" : [ "ronquemos" ],
+			"4" : [ "roncad" ],
+			"5" : [ "ronquen" ]
+		}
+	}
+}

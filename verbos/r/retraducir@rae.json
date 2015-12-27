@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=retraducir",
+	"word" : "retraducir",
+	"infinitivo" : "retraducir",
+	"participio" : [ "retraducido" ],
+	"gerundio" : [ "retraduciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "retraduzco" ],
+			[ "retraduces", "retraducís" ],
+			[ "retraduce" ],
+			[ "retraducimos" ],
+			[ "retraducís", "retraducen" ],
+			[ "retraducen" ]
+		],
+		"4" : [
+			[ "retraduje" ],
+			[ "retradujiste" ],
+			[ "retradujo" ],
+			[ "retradujimos" ],
+			[ "retradujisteis", "retradujeron" ],
+			[ "retradujeron" ]
+		],
+		"5" : [
+			[ "retraducía" ],
+			[ "retraducías" ],
+			[ "retraducía" ],
+			[ "retraducíamos" ],
+			[ "retraducíais", "retraducían" ],
+			[ "retraducían" ]
+		],
+		"6" : [
+			[ "retraduciría" ],
+			[ "retraducirías" ],
+			[ "retraduciría" ],
+			[ "retraduciríamos" ],
+			[ "retraduciríais", "retraducirían" ],
+			[ "retraducirían" ]
+		],
+		"7" : [
+			[ "retraduciré" ],
+			[ "retraducirás" ],
+			[ "retraducirá" ],
+			[ "retraduciremos" ],
+			[ "retraduciréis", "retraducirán" ],
+			[ "retraducirán" ]
+		],
+		"8" : [
+			[ "retraduzca" ],
+			[ "retraduzcas" ],
+			[ "retraduzca" ],
+			[ "retraduzcamos" ],
+			[ "retraduzcáis", "retraduzcan" ],
+			[ "retraduzcan" ]
+		],
+		"9" : [
+			[ "retradujera" ],
+			[ "retradujeras" ],
+			[ "retradujera" ],
+			[ "retradujéramos" ],
+			[ "retradujerais", "retradujeran" ],
+			[ "retradujeran" ]
+		],
+		"10" : [
+			[ "retradujese" ],
+			[ "retradujeses" ],
+			[ "retradujese" ],
+			[ "retradujésemos" ],
+			[ "retradujeseis", "retradujesen" ],
+			[ "retradujesen" ]
+		],
+		"11" : [
+			[ "retradujere" ],
+			[ "retradujeres" ],
+			[ "retradujere" ],
+			[ "retradujéremos" ],
+			[ "retradujereis", "retradujeren" ],
+			[ "retradujeren" ]
+		],
+		"12" : {
+			"1" : [ "retraduce" ],
+			"2" : [ "retraduzca" ],
+			"3" : [ "retraduzcamos" ],
+			"4" : [ "retraducid" ],
+			"5" : [ "retraduzcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=procurar",
+	"word" : "procurar",
+	"infinitivo" : "procurar",
+	"participio" : [ "procurado" ],
+	"gerundio" : [ "procurando" ],
+	"tenses" : {
+		"3" : [
+			[ "procuro" ],
+			[ "procuras", "procurás" ],
+			[ "procura" ],
+			[ "procuramos" ],
+			[ "procuráis", "procuran" ],
+			[ "procuran" ]
+		],
+		"4" : [
+			[ "procuré" ],
+			[ "procuraste" ],
+			[ "procuró" ],
+			[ "procuramos" ],
+			[ "procurasteis", "procuraron" ],
+			[ "procuraron" ]
+		],
+		"5" : [
+			[ "procuraba" ],
+			[ "procurabas" ],
+			[ "procuraba" ],
+			[ "procurábamos" ],
+			[ "procurabais", "procuraban" ],
+			[ "procuraban" ]
+		],
+		"6" : [
+			[ "procuraría" ],
+			[ "procurarías" ],
+			[ "procuraría" ],
+			[ "procuraríamos" ],
+			[ "procuraríais", "procurarían" ],
+			[ "procurarían" ]
+		],
+		"7" : [
+			[ "procuraré" ],
+			[ "procurarás" ],
+			[ "procurará" ],
+			[ "procuraremos" ],
+			[ "procuraréis", "procurarán" ],
+			[ "procurarán" ]
+		],
+		"8" : [
+			[ "procure" ],
+			[ "procures" ],
+			[ "procure" ],
+			[ "procuremos" ],
+			[ "procuréis", "procuren" ],
+			[ "procuren" ]
+		],
+		"9" : [
+			[ "procurara" ],
+			[ "procuraras" ],
+			[ "procurara" ],
+			[ "procuráramos" ],
+			[ "procurarais", "procuraran" ],
+			[ "procuraran" ]
+		],
+		"10" : [
+			[ "procurase" ],
+			[ "procurases" ],
+			[ "procurase" ],
+			[ "procurásemos" ],
+			[ "procuraseis", "procurasen" ],
+			[ "procurasen" ]
+		],
+		"11" : [
+			[ "procurare" ],
+			[ "procurares" ],
+			[ "procurare" ],
+			[ "procuráremos" ],
+			[ "procurareis", "procuraren" ],
+			[ "procuraren" ]
+		],
+		"12" : {
+			"1" : [ "procura" ],
+			"2" : [ "procure" ],
+			"3" : [ "procuremos" ],
+			"4" : [ "procurad" ],
+			"5" : [ "procuren" ]
+		}
+	}
+}

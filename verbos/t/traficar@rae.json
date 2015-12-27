@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=traficar",
+	"word" : "traficar",
+	"infinitivo" : "traficar",
+	"participio" : [ "traficado" ],
+	"gerundio" : [ "traficando" ],
+	"tenses" : {
+		"3" : [
+			[ "trafico" ],
+			[ "traficas", "traficás" ],
+			[ "trafica" ],
+			[ "traficamos" ],
+			[ "traficáis", "trafican" ],
+			[ "trafican" ]
+		],
+		"4" : [
+			[ "trafiqué" ],
+			[ "traficaste" ],
+			[ "traficó" ],
+			[ "traficamos" ],
+			[ "traficasteis", "traficaron" ],
+			[ "traficaron" ]
+		],
+		"5" : [
+			[ "traficaba" ],
+			[ "traficabas" ],
+			[ "traficaba" ],
+			[ "traficábamos" ],
+			[ "traficabais", "traficaban" ],
+			[ "traficaban" ]
+		],
+		"6" : [
+			[ "traficaría" ],
+			[ "traficarías" ],
+			[ "traficaría" ],
+			[ "traficaríamos" ],
+			[ "traficaríais", "traficarían" ],
+			[ "traficarían" ]
+		],
+		"7" : [
+			[ "traficaré" ],
+			[ "traficarás" ],
+			[ "traficará" ],
+			[ "traficaremos" ],
+			[ "traficaréis", "traficarán" ],
+			[ "traficarán" ]
+		],
+		"8" : [
+			[ "trafique" ],
+			[ "trafiques" ],
+			[ "trafique" ],
+			[ "trafiquemos" ],
+			[ "trafiquéis", "trafiquen" ],
+			[ "trafiquen" ]
+		],
+		"9" : [
+			[ "traficara" ],
+			[ "traficaras" ],
+			[ "traficara" ],
+			[ "traficáramos" ],
+			[ "traficarais", "traficaran" ],
+			[ "traficaran" ]
+		],
+		"10" : [
+			[ "traficase" ],
+			[ "traficases" ],
+			[ "traficase" ],
+			[ "traficásemos" ],
+			[ "traficaseis", "traficasen" ],
+			[ "traficasen" ]
+		],
+		"11" : [
+			[ "traficare" ],
+			[ "traficares" ],
+			[ "traficare" ],
+			[ "traficáremos" ],
+			[ "traficareis", "traficaren" ],
+			[ "traficaren" ]
+		],
+		"12" : {
+			"1" : [ "trafica" ],
+			"2" : [ "trafique" ],
+			"3" : [ "trafiquemos" ],
+			"4" : [ "traficad" ],
+			"5" : [ "trafiquen" ]
+		}
+	}
+}

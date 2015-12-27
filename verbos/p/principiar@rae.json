@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=principiar",
+	"word" : "principiar",
+	"infinitivo" : "principiar",
+	"participio" : [ "principiado" ],
+	"gerundio" : [ "principiando" ],
+	"tenses" : {
+		"3" : [
+			[ "principio" ],
+			[ "principias", "principiás" ],
+			[ "principia" ],
+			[ "principiamos" ],
+			[ "principiáis", "principian" ],
+			[ "principian" ]
+		],
+		"4" : [
+			[ "principié" ],
+			[ "principiaste" ],
+			[ "principió" ],
+			[ "principiamos" ],
+			[ "principiasteis", "principiaron" ],
+			[ "principiaron" ]
+		],
+		"5" : [
+			[ "principiaba" ],
+			[ "principiabas" ],
+			[ "principiaba" ],
+			[ "principiábamos" ],
+			[ "principiabais", "principiaban" ],
+			[ "principiaban" ]
+		],
+		"6" : [
+			[ "principiaría" ],
+			[ "principiarías" ],
+			[ "principiaría" ],
+			[ "principiaríamos" ],
+			[ "principiaríais", "principiarían" ],
+			[ "principiarían" ]
+		],
+		"7" : [
+			[ "principiaré" ],
+			[ "principiarás" ],
+			[ "principiará" ],
+			[ "principiaremos" ],
+			[ "principiaréis", "principiarán" ],
+			[ "principiarán" ]
+		],
+		"8" : [
+			[ "principie" ],
+			[ "principies" ],
+			[ "principie" ],
+			[ "principiemos" ],
+			[ "principiéis", "principien" ],
+			[ "principien" ]
+		],
+		"9" : [
+			[ "principiara" ],
+			[ "principiaras" ],
+			[ "principiara" ],
+			[ "principiáramos" ],
+			[ "principiarais", "principiaran" ],
+			[ "principiaran" ]
+		],
+		"10" : [
+			[ "principiase" ],
+			[ "principiases" ],
+			[ "principiase" ],
+			[ "principiásemos" ],
+			[ "principiaseis", "principiasen" ],
+			[ "principiasen" ]
+		],
+		"11" : [
+			[ "principiare" ],
+			[ "principiares" ],
+			[ "principiare" ],
+			[ "principiáremos" ],
+			[ "principiareis", "principiaren" ],
+			[ "principiaren" ]
+		],
+		"12" : {
+			"1" : [ "principia" ],
+			"2" : [ "principie" ],
+			"3" : [ "principiemos" ],
+			"4" : [ "principiad" ],
+			"5" : [ "principien" ]
+		}
+	}
+}

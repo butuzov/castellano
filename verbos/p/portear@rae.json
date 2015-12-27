@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=portear",
+	"word" : "portear",
+	"infinitivo" : "portear",
+	"participio" : [ "porteado" ],
+	"gerundio" : [ "porteando" ],
+	"tenses" : {
+		"3" : [
+			[ "porteo" ],
+			[ "porteas", "porteás" ],
+			[ "portea" ],
+			[ "porteamos" ],
+			[ "porteáis", "portean" ],
+			[ "portean" ]
+		],
+		"4" : [
+			[ "porteé" ],
+			[ "porteaste" ],
+			[ "porteó" ],
+			[ "porteamos" ],
+			[ "porteasteis", "portearon" ],
+			[ "portearon" ]
+		],
+		"5" : [
+			[ "porteaba" ],
+			[ "porteabas" ],
+			[ "porteaba" ],
+			[ "porteábamos" ],
+			[ "porteabais", "porteaban" ],
+			[ "porteaban" ]
+		],
+		"6" : [
+			[ "portearía" ],
+			[ "portearías" ],
+			[ "portearía" ],
+			[ "portearíamos" ],
+			[ "portearíais", "portearían" ],
+			[ "portearían" ]
+		],
+		"7" : [
+			[ "portearé" ],
+			[ "portearás" ],
+			[ "porteará" ],
+			[ "portearemos" ],
+			[ "portearéis", "portearán" ],
+			[ "portearán" ]
+		],
+		"8" : [
+			[ "portee" ],
+			[ "portees" ],
+			[ "portee" ],
+			[ "porteemos" ],
+			[ "porteéis", "porteen" ],
+			[ "porteen" ]
+		],
+		"9" : [
+			[ "porteara" ],
+			[ "portearas" ],
+			[ "porteara" ],
+			[ "porteáramos" ],
+			[ "portearais", "portearan" ],
+			[ "portearan" ]
+		],
+		"10" : [
+			[ "portease" ],
+			[ "porteases" ],
+			[ "portease" ],
+			[ "porteásemos" ],
+			[ "porteaseis", "porteasen" ],
+			[ "porteasen" ]
+		],
+		"11" : [
+			[ "porteare" ],
+			[ "porteares" ],
+			[ "porteare" ],
+			[ "porteáremos" ],
+			[ "porteareis", "portearen" ],
+			[ "portearen" ]
+		],
+		"12" : {
+			"1" : [ "portea" ],
+			"2" : [ "portee" ],
+			"3" : [ "porteemos" ],
+			"4" : [ "portead" ],
+			"5" : [ "porteen" ]
+		}
+	}
+}

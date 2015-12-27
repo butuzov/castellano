@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=nacionalizar",
+	"word" : "nacionalizar",
+	"infinitivo" : "nacionalizar",
+	"participio" : [ "nacionalizado" ],
+	"gerundio" : [ "nacionalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "nacionalizo" ],
+			[ "nacionalizas", "nacionalizás" ],
+			[ "nacionaliza" ],
+			[ "nacionalizamos" ],
+			[ "nacionalizáis", "nacionalizan" ],
+			[ "nacionalizan" ]
+		],
+		"4" : [
+			[ "nacionalicé" ],
+			[ "nacionalizaste" ],
+			[ "nacionalizó" ],
+			[ "nacionalizamos" ],
+			[ "nacionalizasteis", "nacionalizaron" ],
+			[ "nacionalizaron" ]
+		],
+		"5" : [
+			[ "nacionalizaba" ],
+			[ "nacionalizabas" ],
+			[ "nacionalizaba" ],
+			[ "nacionalizábamos" ],
+			[ "nacionalizabais", "nacionalizaban" ],
+			[ "nacionalizaban" ]
+		],
+		"6" : [
+			[ "nacionalizaría" ],
+			[ "nacionalizarías" ],
+			[ "nacionalizaría" ],
+			[ "nacionalizaríamos" ],
+			[ "nacionalizaríais", "nacionalizarían" ],
+			[ "nacionalizarían" ]
+		],
+		"7" : [
+			[ "nacionalizaré" ],
+			[ "nacionalizarás" ],
+			[ "nacionalizará" ],
+			[ "nacionalizaremos" ],
+			[ "nacionalizaréis", "nacionalizarán" ],
+			[ "nacionalizarán" ]
+		],
+		"8" : [
+			[ "nacionalice" ],
+			[ "nacionalices" ],
+			[ "nacionalice" ],
+			[ "nacionalicemos" ],
+			[ "nacionalicéis", "nacionalicen" ],
+			[ "nacionalicen" ]
+		],
+		"9" : [
+			[ "nacionalizara" ],
+			[ "nacionalizaras" ],
+			[ "nacionalizara" ],
+			[ "nacionalizáramos" ],
+			[ "nacionalizarais", "nacionalizaran" ],
+			[ "nacionalizaran" ]
+		],
+		"10" : [
+			[ "nacionalizase" ],
+			[ "nacionalizases" ],
+			[ "nacionalizase" ],
+			[ "nacionalizásemos" ],
+			[ "nacionalizaseis", "nacionalizasen" ],
+			[ "nacionalizasen" ]
+		],
+		"11" : [
+			[ "nacionalizare" ],
+			[ "nacionalizares" ],
+			[ "nacionalizare" ],
+			[ "nacionalizáremos" ],
+			[ "nacionalizareis", "nacionalizaren" ],
+			[ "nacionalizaren" ]
+		],
+		"12" : {
+			"1" : [ "nacionaliza" ],
+			"2" : [ "nacionalice" ],
+			"3" : [ "nacionalicemos" ],
+			"4" : [ "nacionalizad" ],
+			"5" : [ "nacionalicen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hermosear",
+	"word" : "hermosear",
+	"infinitivo" : "hermosear",
+	"participio" : [ "hermoseado" ],
+	"gerundio" : [ "hermoseando" ],
+	"tenses" : {
+		"3" : [
+			[ "hermoseo" ],
+			[ "hermoseas", "hermoseás" ],
+			[ "hermosea" ],
+			[ "hermoseamos" ],
+			[ "hermoseáis", "hermosean" ],
+			[ "hermosean" ]
+		],
+		"4" : [
+			[ "hermoseé" ],
+			[ "hermoseaste" ],
+			[ "hermoseó" ],
+			[ "hermoseamos" ],
+			[ "hermoseasteis", "hermosearon" ],
+			[ "hermosearon" ]
+		],
+		"5" : [
+			[ "hermoseaba" ],
+			[ "hermoseabas" ],
+			[ "hermoseaba" ],
+			[ "hermoseábamos" ],
+			[ "hermoseabais", "hermoseaban" ],
+			[ "hermoseaban" ]
+		],
+		"6" : [
+			[ "hermosearía" ],
+			[ "hermosearías" ],
+			[ "hermosearía" ],
+			[ "hermosearíamos" ],
+			[ "hermosearíais", "hermosearían" ],
+			[ "hermosearían" ]
+		],
+		"7" : [
+			[ "hermosearé" ],
+			[ "hermosearás" ],
+			[ "hermoseará" ],
+			[ "hermosearemos" ],
+			[ "hermosearéis", "hermosearán" ],
+			[ "hermosearán" ]
+		],
+		"8" : [
+			[ "hermosee" ],
+			[ "hermosees" ],
+			[ "hermosee" ],
+			[ "hermoseemos" ],
+			[ "hermoseéis", "hermoseen" ],
+			[ "hermoseen" ]
+		],
+		"9" : [
+			[ "hermoseara" ],
+			[ "hermosearas" ],
+			[ "hermoseara" ],
+			[ "hermoseáramos" ],
+			[ "hermosearais", "hermosearan" ],
+			[ "hermosearan" ]
+		],
+		"10" : [
+			[ "hermosease" ],
+			[ "hermoseases" ],
+			[ "hermosease" ],
+			[ "hermoseásemos" ],
+			[ "hermoseaseis", "hermoseasen" ],
+			[ "hermoseasen" ]
+		],
+		"11" : [
+			[ "hermoseare" ],
+			[ "hermoseares" ],
+			[ "hermoseare" ],
+			[ "hermoseáremos" ],
+			[ "hermoseareis", "hermosearen" ],
+			[ "hermosearen" ]
+		],
+		"12" : {
+			"1" : [ "hermosea" ],
+			"2" : [ "hermosee" ],
+			"3" : [ "hermoseemos" ],
+			"4" : [ "hermosead" ],
+			"5" : [ "hermoseen" ]
+		}
+	}
+}

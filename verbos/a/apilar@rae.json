@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apilar",
+	"word" : "apilar",
+	"infinitivo" : "apilar",
+	"participio" : [ "apilado" ],
+	"gerundio" : [ "apilando" ],
+	"tenses" : {
+		"3" : [
+			[ "apilo" ],
+			[ "apilas", "apilás" ],
+			[ "apila" ],
+			[ "apilamos" ],
+			[ "apiláis", "apilan" ],
+			[ "apilan" ]
+		],
+		"4" : [
+			[ "apilé" ],
+			[ "apilaste" ],
+			[ "apiló" ],
+			[ "apilamos" ],
+			[ "apilasteis", "apilaron" ],
+			[ "apilaron" ]
+		],
+		"5" : [
+			[ "apilaba" ],
+			[ "apilabas" ],
+			[ "apilaba" ],
+			[ "apilábamos" ],
+			[ "apilabais", "apilaban" ],
+			[ "apilaban" ]
+		],
+		"6" : [
+			[ "apilaría" ],
+			[ "apilarías" ],
+			[ "apilaría" ],
+			[ "apilaríamos" ],
+			[ "apilaríais", "apilarían" ],
+			[ "apilarían" ]
+		],
+		"7" : [
+			[ "apilaré" ],
+			[ "apilarás" ],
+			[ "apilará" ],
+			[ "apilaremos" ],
+			[ "apilaréis", "apilarán" ],
+			[ "apilarán" ]
+		],
+		"8" : [
+			[ "apile" ],
+			[ "apiles" ],
+			[ "apile" ],
+			[ "apilemos" ],
+			[ "apiléis", "apilen" ],
+			[ "apilen" ]
+		],
+		"9" : [
+			[ "apilara" ],
+			[ "apilaras" ],
+			[ "apilara" ],
+			[ "apiláramos" ],
+			[ "apilarais", "apilaran" ],
+			[ "apilaran" ]
+		],
+		"10" : [
+			[ "apilase" ],
+			[ "apilases" ],
+			[ "apilase" ],
+			[ "apilásemos" ],
+			[ "apilaseis", "apilasen" ],
+			[ "apilasen" ]
+		],
+		"11" : [
+			[ "apilare" ],
+			[ "apilares" ],
+			[ "apilare" ],
+			[ "apiláremos" ],
+			[ "apilareis", "apilaren" ],
+			[ "apilaren" ]
+		],
+		"12" : {
+			"1" : [ "apila" ],
+			"2" : [ "apile" ],
+			"3" : [ "apilemos" ],
+			"4" : [ "apilad" ],
+			"5" : [ "apilen" ]
+		}
+	}
+}

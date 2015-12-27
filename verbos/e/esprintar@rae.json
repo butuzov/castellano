@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esprintar",
+	"word" : "esprintar",
+	"infinitivo" : "esprintar",
+	"participio" : [ "esprintado" ],
+	"gerundio" : [ "esprintando" ],
+	"tenses" : {
+		"3" : [
+			[ "esprinto" ],
+			[ "esprintas", "esprintás" ],
+			[ "esprinta" ],
+			[ "esprintamos" ],
+			[ "esprintáis", "esprintan" ],
+			[ "esprintan" ]
+		],
+		"4" : [
+			[ "esprinté" ],
+			[ "esprintaste" ],
+			[ "esprintó" ],
+			[ "esprintamos" ],
+			[ "esprintasteis", "esprintaron" ],
+			[ "esprintaron" ]
+		],
+		"5" : [
+			[ "esprintaba" ],
+			[ "esprintabas" ],
+			[ "esprintaba" ],
+			[ "esprintábamos" ],
+			[ "esprintabais", "esprintaban" ],
+			[ "esprintaban" ]
+		],
+		"6" : [
+			[ "esprintaría" ],
+			[ "esprintarías" ],
+			[ "esprintaría" ],
+			[ "esprintaríamos" ],
+			[ "esprintaríais", "esprintarían" ],
+			[ "esprintarían" ]
+		],
+		"7" : [
+			[ "esprintaré" ],
+			[ "esprintarás" ],
+			[ "esprintará" ],
+			[ "esprintaremos" ],
+			[ "esprintaréis", "esprintarán" ],
+			[ "esprintarán" ]
+		],
+		"8" : [
+			[ "esprinte" ],
+			[ "esprintes" ],
+			[ "esprinte" ],
+			[ "esprintemos" ],
+			[ "esprintéis", "esprinten" ],
+			[ "esprinten" ]
+		],
+		"9" : [
+			[ "esprintara" ],
+			[ "esprintaras" ],
+			[ "esprintara" ],
+			[ "esprintáramos" ],
+			[ "esprintarais", "esprintaran" ],
+			[ "esprintaran" ]
+		],
+		"10" : [
+			[ "esprintase" ],
+			[ "esprintases" ],
+			[ "esprintase" ],
+			[ "esprintásemos" ],
+			[ "esprintaseis", "esprintasen" ],
+			[ "esprintasen" ]
+		],
+		"11" : [
+			[ "esprintare" ],
+			[ "esprintares" ],
+			[ "esprintare" ],
+			[ "esprintáremos" ],
+			[ "esprintareis", "esprintaren" ],
+			[ "esprintaren" ]
+		],
+		"12" : {
+			"1" : [ "esprinta" ],
+			"2" : [ "esprinte" ],
+			"3" : [ "esprintemos" ],
+			"4" : [ "esprintad" ],
+			"5" : [ "esprinten" ]
+		}
+	}
+}

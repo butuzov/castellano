@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=frenar",
+	"word" : "frenar",
+	"infinitivo" : "frenar",
+	"participio" : [ "frenado" ],
+	"gerundio" : [ "frenando" ],
+	"tenses" : {
+		"3" : [
+			[ "freno" ],
+			[ "frenas", "frenás" ],
+			[ "frena" ],
+			[ "frenamos" ],
+			[ "frenáis", "frenan" ],
+			[ "frenan" ]
+		],
+		"4" : [
+			[ "frené" ],
+			[ "frenaste" ],
+			[ "frenó" ],
+			[ "frenamos" ],
+			[ "frenasteis", "frenaron" ],
+			[ "frenaron" ]
+		],
+		"5" : [
+			[ "frenaba" ],
+			[ "frenabas" ],
+			[ "frenaba" ],
+			[ "frenábamos" ],
+			[ "frenabais", "frenaban" ],
+			[ "frenaban" ]
+		],
+		"6" : [
+			[ "frenaría" ],
+			[ "frenarías" ],
+			[ "frenaría" ],
+			[ "frenaríamos" ],
+			[ "frenaríais", "frenarían" ],
+			[ "frenarían" ]
+		],
+		"7" : [
+			[ "frenaré" ],
+			[ "frenarás" ],
+			[ "frenará" ],
+			[ "frenaremos" ],
+			[ "frenaréis", "frenarán" ],
+			[ "frenarán" ]
+		],
+		"8" : [
+			[ "frene" ],
+			[ "frenes" ],
+			[ "frene" ],
+			[ "frenemos" ],
+			[ "frenéis", "frenen" ],
+			[ "frenen" ]
+		],
+		"9" : [
+			[ "frenara" ],
+			[ "frenaras" ],
+			[ "frenara" ],
+			[ "frenáramos" ],
+			[ "frenarais", "frenaran" ],
+			[ "frenaran" ]
+		],
+		"10" : [
+			[ "frenase" ],
+			[ "frenases" ],
+			[ "frenase" ],
+			[ "frenásemos" ],
+			[ "frenaseis", "frenasen" ],
+			[ "frenasen" ]
+		],
+		"11" : [
+			[ "frenare" ],
+			[ "frenares" ],
+			[ "frenare" ],
+			[ "frenáremos" ],
+			[ "frenareis", "frenaren" ],
+			[ "frenaren" ]
+		],
+		"12" : {
+			"1" : [ "frena" ],
+			"2" : [ "frene" ],
+			"3" : [ "frenemos" ],
+			"4" : [ "frenad" ],
+			"5" : [ "frenen" ]
+		}
+	}
+}

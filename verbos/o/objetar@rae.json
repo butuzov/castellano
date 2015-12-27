@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=objetar",
+	"word" : "objetar",
+	"infinitivo" : "objetar",
+	"participio" : [ "objetado" ],
+	"gerundio" : [ "objetando" ],
+	"tenses" : {
+		"3" : [
+			[ "objeto" ],
+			[ "objetas", "objetás" ],
+			[ "objeta" ],
+			[ "objetamos" ],
+			[ "objetáis", "objetan" ],
+			[ "objetan" ]
+		],
+		"4" : [
+			[ "objeté" ],
+			[ "objetaste" ],
+			[ "objetó" ],
+			[ "objetamos" ],
+			[ "objetasteis", "objetaron" ],
+			[ "objetaron" ]
+		],
+		"5" : [
+			[ "objetaba" ],
+			[ "objetabas" ],
+			[ "objetaba" ],
+			[ "objetábamos" ],
+			[ "objetabais", "objetaban" ],
+			[ "objetaban" ]
+		],
+		"6" : [
+			[ "objetaría" ],
+			[ "objetarías" ],
+			[ "objetaría" ],
+			[ "objetaríamos" ],
+			[ "objetaríais", "objetarían" ],
+			[ "objetarían" ]
+		],
+		"7" : [
+			[ "objetaré" ],
+			[ "objetarás" ],
+			[ "objetará" ],
+			[ "objetaremos" ],
+			[ "objetaréis", "objetarán" ],
+			[ "objetarán" ]
+		],
+		"8" : [
+			[ "objete" ],
+			[ "objetes" ],
+			[ "objete" ],
+			[ "objetemos" ],
+			[ "objetéis", "objeten" ],
+			[ "objeten" ]
+		],
+		"9" : [
+			[ "objetara" ],
+			[ "objetaras" ],
+			[ "objetara" ],
+			[ "objetáramos" ],
+			[ "objetarais", "objetaran" ],
+			[ "objetaran" ]
+		],
+		"10" : [
+			[ "objetase" ],
+			[ "objetases" ],
+			[ "objetase" ],
+			[ "objetásemos" ],
+			[ "objetaseis", "objetasen" ],
+			[ "objetasen" ]
+		],
+		"11" : [
+			[ "objetare" ],
+			[ "objetares" ],
+			[ "objetare" ],
+			[ "objetáremos" ],
+			[ "objetareis", "objetaren" ],
+			[ "objetaren" ]
+		],
+		"12" : {
+			"1" : [ "objeta" ],
+			"2" : [ "objete" ],
+			"3" : [ "objetemos" ],
+			"4" : [ "objetad" ],
+			"5" : [ "objeten" ]
+		}
+	}
+}

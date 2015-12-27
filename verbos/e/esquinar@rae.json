@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esquinar",
+	"word" : "esquinar",
+	"infinitivo" : "esquinar",
+	"participio" : [ "esquinado" ],
+	"gerundio" : [ "esquinando" ],
+	"tenses" : {
+		"3" : [
+			[ "esquino" ],
+			[ "esquinas", "esquinás" ],
+			[ "esquina" ],
+			[ "esquinamos" ],
+			[ "esquináis", "esquinan" ],
+			[ "esquinan" ]
+		],
+		"4" : [
+			[ "esquiné" ],
+			[ "esquinaste" ],
+			[ "esquinó" ],
+			[ "esquinamos" ],
+			[ "esquinasteis", "esquinaron" ],
+			[ "esquinaron" ]
+		],
+		"5" : [
+			[ "esquinaba" ],
+			[ "esquinabas" ],
+			[ "esquinaba" ],
+			[ "esquinábamos" ],
+			[ "esquinabais", "esquinaban" ],
+			[ "esquinaban" ]
+		],
+		"6" : [
+			[ "esquinaría" ],
+			[ "esquinarías" ],
+			[ "esquinaría" ],
+			[ "esquinaríamos" ],
+			[ "esquinaríais", "esquinarían" ],
+			[ "esquinarían" ]
+		],
+		"7" : [
+			[ "esquinaré" ],
+			[ "esquinarás" ],
+			[ "esquinará" ],
+			[ "esquinaremos" ],
+			[ "esquinaréis", "esquinarán" ],
+			[ "esquinarán" ]
+		],
+		"8" : [
+			[ "esquine" ],
+			[ "esquines" ],
+			[ "esquine" ],
+			[ "esquinemos" ],
+			[ "esquinéis", "esquinen" ],
+			[ "esquinen" ]
+		],
+		"9" : [
+			[ "esquinara" ],
+			[ "esquinaras" ],
+			[ "esquinara" ],
+			[ "esquináramos" ],
+			[ "esquinarais", "esquinaran" ],
+			[ "esquinaran" ]
+		],
+		"10" : [
+			[ "esquinase" ],
+			[ "esquinases" ],
+			[ "esquinase" ],
+			[ "esquinásemos" ],
+			[ "esquinaseis", "esquinasen" ],
+			[ "esquinasen" ]
+		],
+		"11" : [
+			[ "esquinare" ],
+			[ "esquinares" ],
+			[ "esquinare" ],
+			[ "esquináremos" ],
+			[ "esquinareis", "esquinaren" ],
+			[ "esquinaren" ]
+		],
+		"12" : {
+			"1" : [ "esquina" ],
+			"2" : [ "esquine" ],
+			"3" : [ "esquinemos" ],
+			"4" : [ "esquinad" ],
+			"5" : [ "esquinen" ]
+		}
+	}
+}

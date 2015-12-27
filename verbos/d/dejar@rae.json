@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dejar",
+	"word" : "dejar",
+	"infinitivo" : "dejar",
+	"participio" : [ "dejado" ],
+	"gerundio" : [ "dejando" ],
+	"tenses" : {
+		"3" : [
+			[ "dejo" ],
+			[ "dejas", "dejás" ],
+			[ "deja" ],
+			[ "dejamos" ],
+			[ "dejáis", "dejan" ],
+			[ "dejan" ]
+		],
+		"4" : [
+			[ "dejé" ],
+			[ "dejaste" ],
+			[ "dejó" ],
+			[ "dejamos" ],
+			[ "dejasteis", "dejaron" ],
+			[ "dejaron" ]
+		],
+		"5" : [
+			[ "dejaba" ],
+			[ "dejabas" ],
+			[ "dejaba" ],
+			[ "dejábamos" ],
+			[ "dejabais", "dejaban" ],
+			[ "dejaban" ]
+		],
+		"6" : [
+			[ "dejaría" ],
+			[ "dejarías" ],
+			[ "dejaría" ],
+			[ "dejaríamos" ],
+			[ "dejaríais", "dejarían" ],
+			[ "dejarían" ]
+		],
+		"7" : [
+			[ "dejaré" ],
+			[ "dejarás" ],
+			[ "dejará" ],
+			[ "dejaremos" ],
+			[ "dejaréis", "dejarán" ],
+			[ "dejarán" ]
+		],
+		"8" : [
+			[ "deje" ],
+			[ "dejes" ],
+			[ "deje" ],
+			[ "dejemos" ],
+			[ "dejéis", "dejen" ],
+			[ "dejen" ]
+		],
+		"9" : [
+			[ "dejara" ],
+			[ "dejaras" ],
+			[ "dejara" ],
+			[ "dejáramos" ],
+			[ "dejarais", "dejaran" ],
+			[ "dejaran" ]
+		],
+		"10" : [
+			[ "dejase" ],
+			[ "dejases" ],
+			[ "dejase" ],
+			[ "dejásemos" ],
+			[ "dejaseis", "dejasen" ],
+			[ "dejasen" ]
+		],
+		"11" : [
+			[ "dejare" ],
+			[ "dejares" ],
+			[ "dejare" ],
+			[ "dejáremos" ],
+			[ "dejareis", "dejaren" ],
+			[ "dejaren" ]
+		],
+		"12" : {
+			"1" : [ "deja" ],
+			"2" : [ "deje" ],
+			"3" : [ "dejemos" ],
+			"4" : [ "dejad" ],
+			"5" : [ "dejen" ]
+		}
+	}
+}

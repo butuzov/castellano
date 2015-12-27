@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tutelar",
+	"word" : "tutelar",
+	"infinitivo" : "tutelar",
+	"participio" : [ "tutelado" ],
+	"gerundio" : [ "tutelando" ],
+	"tenses" : {
+		"3" : [
+			[ "tutelo" ],
+			[ "tutelas", "tutelás" ],
+			[ "tutela" ],
+			[ "tutelamos" ],
+			[ "tuteláis", "tutelan" ],
+			[ "tutelan" ]
+		],
+		"4" : [
+			[ "tutelé" ],
+			[ "tutelaste" ],
+			[ "tuteló" ],
+			[ "tutelamos" ],
+			[ "tutelasteis", "tutelaron" ],
+			[ "tutelaron" ]
+		],
+		"5" : [
+			[ "tutelaba" ],
+			[ "tutelabas" ],
+			[ "tutelaba" ],
+			[ "tutelábamos" ],
+			[ "tutelabais", "tutelaban" ],
+			[ "tutelaban" ]
+		],
+		"6" : [
+			[ "tutelaría" ],
+			[ "tutelarías" ],
+			[ "tutelaría" ],
+			[ "tutelaríamos" ],
+			[ "tutelaríais", "tutelarían" ],
+			[ "tutelarían" ]
+		],
+		"7" : [
+			[ "tutelaré" ],
+			[ "tutelarás" ],
+			[ "tutelará" ],
+			[ "tutelaremos" ],
+			[ "tutelaréis", "tutelarán" ],
+			[ "tutelarán" ]
+		],
+		"8" : [
+			[ "tutele" ],
+			[ "tuteles" ],
+			[ "tutele" ],
+			[ "tutelemos" ],
+			[ "tuteléis", "tutelen" ],
+			[ "tutelen" ]
+		],
+		"9" : [
+			[ "tutelara" ],
+			[ "tutelaras" ],
+			[ "tutelara" ],
+			[ "tuteláramos" ],
+			[ "tutelarais", "tutelaran" ],
+			[ "tutelaran" ]
+		],
+		"10" : [
+			[ "tutelase" ],
+			[ "tutelases" ],
+			[ "tutelase" ],
+			[ "tutelásemos" ],
+			[ "tutelaseis", "tutelasen" ],
+			[ "tutelasen" ]
+		],
+		"11" : [
+			[ "tutelare" ],
+			[ "tutelares" ],
+			[ "tutelare" ],
+			[ "tuteláremos" ],
+			[ "tutelareis", "tutelaren" ],
+			[ "tutelaren" ]
+		],
+		"12" : {
+			"1" : [ "tutela" ],
+			"2" : [ "tutele" ],
+			"3" : [ "tutelemos" ],
+			"4" : [ "tutelad" ],
+			"5" : [ "tutelen" ]
+		}
+	}
+}

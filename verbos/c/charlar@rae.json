@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=charlar",
+	"word" : "charlar",
+	"infinitivo" : "charlar",
+	"participio" : [ "charlado" ],
+	"gerundio" : [ "charlando" ],
+	"tenses" : {
+		"3" : [
+			[ "charlo" ],
+			[ "charlas", "charlás" ],
+			[ "charla" ],
+			[ "charlamos" ],
+			[ "charláis", "charlan" ],
+			[ "charlan" ]
+		],
+		"4" : [
+			[ "charlé" ],
+			[ "charlaste" ],
+			[ "charló" ],
+			[ "charlamos" ],
+			[ "charlasteis", "charlaron" ],
+			[ "charlaron" ]
+		],
+		"5" : [
+			[ "charlaba" ],
+			[ "charlabas" ],
+			[ "charlaba" ],
+			[ "charlábamos" ],
+			[ "charlabais", "charlaban" ],
+			[ "charlaban" ]
+		],
+		"6" : [
+			[ "charlaría" ],
+			[ "charlarías" ],
+			[ "charlaría" ],
+			[ "charlaríamos" ],
+			[ "charlaríais", "charlarían" ],
+			[ "charlarían" ]
+		],
+		"7" : [
+			[ "charlaré" ],
+			[ "charlarás" ],
+			[ "charlará" ],
+			[ "charlaremos" ],
+			[ "charlaréis", "charlarán" ],
+			[ "charlarán" ]
+		],
+		"8" : [
+			[ "charle" ],
+			[ "charles" ],
+			[ "charle" ],
+			[ "charlemos" ],
+			[ "charléis", "charlen" ],
+			[ "charlen" ]
+		],
+		"9" : [
+			[ "charlara" ],
+			[ "charlaras" ],
+			[ "charlara" ],
+			[ "charláramos" ],
+			[ "charlarais", "charlaran" ],
+			[ "charlaran" ]
+		],
+		"10" : [
+			[ "charlase" ],
+			[ "charlases" ],
+			[ "charlase" ],
+			[ "charlásemos" ],
+			[ "charlaseis", "charlasen" ],
+			[ "charlasen" ]
+		],
+		"11" : [
+			[ "charlare" ],
+			[ "charlares" ],
+			[ "charlare" ],
+			[ "charláremos" ],
+			[ "charlareis", "charlaren" ],
+			[ "charlaren" ]
+		],
+		"12" : {
+			"1" : [ "charla" ],
+			"2" : [ "charle" ],
+			"3" : [ "charlemos" ],
+			"4" : [ "charlad" ],
+			"5" : [ "charlen" ]
+		}
+	}
+}

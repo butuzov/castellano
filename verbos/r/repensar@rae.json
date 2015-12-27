@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repensar",
+	"word" : "repensar",
+	"infinitivo" : "repensar",
+	"participio" : [ "repensado" ],
+	"gerundio" : [ "repensando" ],
+	"tenses" : {
+		"3" : [
+			[ "repienso" ],
+			[ "repiensas", "repensás" ],
+			[ "repiensa" ],
+			[ "repensamos" ],
+			[ "repensáis", "repiensan" ],
+			[ "repiensan" ]
+		],
+		"4" : [
+			[ "repensé" ],
+			[ "repensaste" ],
+			[ "repensó" ],
+			[ "repensamos" ],
+			[ "repensasteis", "repensaron" ],
+			[ "repensaron" ]
+		],
+		"5" : [
+			[ "repensaba" ],
+			[ "repensabas" ],
+			[ "repensaba" ],
+			[ "repensábamos" ],
+			[ "repensabais", "repensaban" ],
+			[ "repensaban" ]
+		],
+		"6" : [
+			[ "repensaría" ],
+			[ "repensarías" ],
+			[ "repensaría" ],
+			[ "repensaríamos" ],
+			[ "repensaríais", "repensarían" ],
+			[ "repensarían" ]
+		],
+		"7" : [
+			[ "repensaré" ],
+			[ "repensarás" ],
+			[ "repensará" ],
+			[ "repensaremos" ],
+			[ "repensaréis", "repensarán" ],
+			[ "repensarán" ]
+		],
+		"8" : [
+			[ "repiense" ],
+			[ "repienses" ],
+			[ "repiense" ],
+			[ "repensemos" ],
+			[ "repenséis", "repiensen" ],
+			[ "repiensen" ]
+		],
+		"9" : [
+			[ "repensara" ],
+			[ "repensaras" ],
+			[ "repensara" ],
+			[ "repensáramos" ],
+			[ "repensarais", "repensaran" ],
+			[ "repensaran" ]
+		],
+		"10" : [
+			[ "repensase" ],
+			[ "repensases" ],
+			[ "repensase" ],
+			[ "repensásemos" ],
+			[ "repensaseis", "repensasen" ],
+			[ "repensasen" ]
+		],
+		"11" : [
+			[ "repensare" ],
+			[ "repensares" ],
+			[ "repensare" ],
+			[ "repensáremos" ],
+			[ "repensareis", "repensaren" ],
+			[ "repensaren" ]
+		],
+		"12" : {
+			"1" : [ "repiensa" ],
+			"2" : [ "repiense" ],
+			"3" : [ "repensemos" ],
+			"4" : [ "repensad" ],
+			"5" : [ "repiensen" ]
+		}
+	}
+}

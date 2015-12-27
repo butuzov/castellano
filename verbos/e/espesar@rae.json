@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=espesar",
+	"word" : "espesar",
+	"infinitivo" : "espesar",
+	"participio" : [ "espesado" ],
+	"gerundio" : [ "espesando" ],
+	"tenses" : {
+		"3" : [
+			[ "espeso" ],
+			[ "espesas", "espesás" ],
+			[ "espesa" ],
+			[ "espesamos" ],
+			[ "espesáis", "espesan" ],
+			[ "espesan" ]
+		],
+		"4" : [
+			[ "espesé" ],
+			[ "espesaste" ],
+			[ "espesó" ],
+			[ "espesamos" ],
+			[ "espesasteis", "espesaron" ],
+			[ "espesaron" ]
+		],
+		"5" : [
+			[ "espesaba" ],
+			[ "espesabas" ],
+			[ "espesaba" ],
+			[ "espesábamos" ],
+			[ "espesabais", "espesaban" ],
+			[ "espesaban" ]
+		],
+		"6" : [
+			[ "espesaría" ],
+			[ "espesarías" ],
+			[ "espesaría" ],
+			[ "espesaríamos" ],
+			[ "espesaríais", "espesarían" ],
+			[ "espesarían" ]
+		],
+		"7" : [
+			[ "espesaré" ],
+			[ "espesarás" ],
+			[ "espesará" ],
+			[ "espesaremos" ],
+			[ "espesaréis", "espesarán" ],
+			[ "espesarán" ]
+		],
+		"8" : [
+			[ "espese" ],
+			[ "espeses" ],
+			[ "espese" ],
+			[ "espesemos" ],
+			[ "espeséis", "espesen" ],
+			[ "espesen" ]
+		],
+		"9" : [
+			[ "espesara" ],
+			[ "espesaras" ],
+			[ "espesara" ],
+			[ "espesáramos" ],
+			[ "espesarais", "espesaran" ],
+			[ "espesaran" ]
+		],
+		"10" : [
+			[ "espesase" ],
+			[ "espesases" ],
+			[ "espesase" ],
+			[ "espesásemos" ],
+			[ "espesaseis", "espesasen" ],
+			[ "espesasen" ]
+		],
+		"11" : [
+			[ "espesare" ],
+			[ "espesares" ],
+			[ "espesare" ],
+			[ "espesáremos" ],
+			[ "espesareis", "espesaren" ],
+			[ "espesaren" ]
+		],
+		"12" : {
+			"1" : [ "espesa" ],
+			"2" : [ "espese" ],
+			"3" : [ "espesemos" ],
+			"4" : [ "espesad" ],
+			"5" : [ "espesen" ]
+		}
+	}
+}

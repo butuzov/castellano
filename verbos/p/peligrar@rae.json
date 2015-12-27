@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=peligrar",
+	"word" : "peligrar",
+	"infinitivo" : "peligrar",
+	"participio" : [ "peligrado" ],
+	"gerundio" : [ "peligrando" ],
+	"tenses" : {
+		"3" : [
+			[ "peligro" ],
+			[ "peligras", "peligrás" ],
+			[ "peligra" ],
+			[ "peligramos" ],
+			[ "peligráis", "peligran" ],
+			[ "peligran" ]
+		],
+		"4" : [
+			[ "peligré" ],
+			[ "peligraste" ],
+			[ "peligró" ],
+			[ "peligramos" ],
+			[ "peligrasteis", "peligraron" ],
+			[ "peligraron" ]
+		],
+		"5" : [
+			[ "peligraba" ],
+			[ "peligrabas" ],
+			[ "peligraba" ],
+			[ "peligrábamos" ],
+			[ "peligrabais", "peligraban" ],
+			[ "peligraban" ]
+		],
+		"6" : [
+			[ "peligraría" ],
+			[ "peligrarías" ],
+			[ "peligraría" ],
+			[ "peligraríamos" ],
+			[ "peligraríais", "peligrarían" ],
+			[ "peligrarían" ]
+		],
+		"7" : [
+			[ "peligraré" ],
+			[ "peligrarás" ],
+			[ "peligrará" ],
+			[ "peligraremos" ],
+			[ "peligraréis", "peligrarán" ],
+			[ "peligrarán" ]
+		],
+		"8" : [
+			[ "peligre" ],
+			[ "peligres" ],
+			[ "peligre" ],
+			[ "peligremos" ],
+			[ "peligréis", "peligren" ],
+			[ "peligren" ]
+		],
+		"9" : [
+			[ "peligrara" ],
+			[ "peligraras" ],
+			[ "peligrara" ],
+			[ "peligráramos" ],
+			[ "peligrarais", "peligraran" ],
+			[ "peligraran" ]
+		],
+		"10" : [
+			[ "peligrase" ],
+			[ "peligrases" ],
+			[ "peligrase" ],
+			[ "peligrásemos" ],
+			[ "peligraseis", "peligrasen" ],
+			[ "peligrasen" ]
+		],
+		"11" : [
+			[ "peligrare" ],
+			[ "peligrares" ],
+			[ "peligrare" ],
+			[ "peligráremos" ],
+			[ "peligrareis", "peligraren" ],
+			[ "peligraren" ]
+		],
+		"12" : {
+			"1" : [ "peligra" ],
+			"2" : [ "peligre" ],
+			"3" : [ "peligremos" ],
+			"4" : [ "peligrad" ],
+			"5" : [ "peligren" ]
+		}
+	}
+}

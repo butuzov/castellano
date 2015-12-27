@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=versar",
+	"word" : "versar",
+	"infinitivo" : "versar",
+	"participio" : [ "versado" ],
+	"gerundio" : [ "versando" ],
+	"tenses" : {
+		"3" : [
+			[ "verso" ],
+			[ "versas", "versás" ],
+			[ "versa" ],
+			[ "versamos" ],
+			[ "versáis", "versan" ],
+			[ "versan" ]
+		],
+		"4" : [
+			[ "versé" ],
+			[ "versaste" ],
+			[ "versó" ],
+			[ "versamos" ],
+			[ "versasteis", "versaron" ],
+			[ "versaron" ]
+		],
+		"5" : [
+			[ "versaba" ],
+			[ "versabas" ],
+			[ "versaba" ],
+			[ "versábamos" ],
+			[ "versabais", "versaban" ],
+			[ "versaban" ]
+		],
+		"6" : [
+			[ "versaría" ],
+			[ "versarías" ],
+			[ "versaría" ],
+			[ "versaríamos" ],
+			[ "versaríais", "versarían" ],
+			[ "versarían" ]
+		],
+		"7" : [
+			[ "versaré" ],
+			[ "versarás" ],
+			[ "versará" ],
+			[ "versaremos" ],
+			[ "versaréis", "versarán" ],
+			[ "versarán" ]
+		],
+		"8" : [
+			[ "verse" ],
+			[ "verses" ],
+			[ "verse" ],
+			[ "versemos" ],
+			[ "verséis", "versen" ],
+			[ "versen" ]
+		],
+		"9" : [
+			[ "versara" ],
+			[ "versaras" ],
+			[ "versara" ],
+			[ "versáramos" ],
+			[ "versarais", "versaran" ],
+			[ "versaran" ]
+		],
+		"10" : [
+			[ "versase" ],
+			[ "versases" ],
+			[ "versase" ],
+			[ "versásemos" ],
+			[ "versaseis", "versasen" ],
+			[ "versasen" ]
+		],
+		"11" : [
+			[ "versare" ],
+			[ "versares" ],
+			[ "versare" ],
+			[ "versáremos" ],
+			[ "versareis", "versaren" ],
+			[ "versaren" ]
+		],
+		"12" : {
+			"1" : [ "versa" ],
+			"2" : [ "verse" ],
+			"3" : [ "versemos" ],
+			"4" : [ "versad" ],
+			"5" : [ "versen" ]
+		}
+	}
+}

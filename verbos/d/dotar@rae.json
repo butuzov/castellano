@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dotar",
+	"word" : "dotar",
+	"infinitivo" : "dotar",
+	"participio" : [ "dotado" ],
+	"gerundio" : [ "dotando" ],
+	"tenses" : {
+		"3" : [
+			[ "doto" ],
+			[ "dotas", "dotás" ],
+			[ "dota" ],
+			[ "dotamos" ],
+			[ "dotáis", "dotan" ],
+			[ "dotan" ]
+		],
+		"4" : [
+			[ "doté" ],
+			[ "dotaste" ],
+			[ "dotó" ],
+			[ "dotamos" ],
+			[ "dotasteis", "dotaron" ],
+			[ "dotaron" ]
+		],
+		"5" : [
+			[ "dotaba" ],
+			[ "dotabas" ],
+			[ "dotaba" ],
+			[ "dotábamos" ],
+			[ "dotabais", "dotaban" ],
+			[ "dotaban" ]
+		],
+		"6" : [
+			[ "dotaría" ],
+			[ "dotarías" ],
+			[ "dotaría" ],
+			[ "dotaríamos" ],
+			[ "dotaríais", "dotarían" ],
+			[ "dotarían" ]
+		],
+		"7" : [
+			[ "dotaré" ],
+			[ "dotarás" ],
+			[ "dotará" ],
+			[ "dotaremos" ],
+			[ "dotaréis", "dotarán" ],
+			[ "dotarán" ]
+		],
+		"8" : [
+			[ "dote" ],
+			[ "dotes" ],
+			[ "dote" ],
+			[ "dotemos" ],
+			[ "dotéis", "doten" ],
+			[ "doten" ]
+		],
+		"9" : [
+			[ "dotara" ],
+			[ "dotaras" ],
+			[ "dotara" ],
+			[ "dotáramos" ],
+			[ "dotarais", "dotaran" ],
+			[ "dotaran" ]
+		],
+		"10" : [
+			[ "dotase" ],
+			[ "dotases" ],
+			[ "dotase" ],
+			[ "dotásemos" ],
+			[ "dotaseis", "dotasen" ],
+			[ "dotasen" ]
+		],
+		"11" : [
+			[ "dotare" ],
+			[ "dotares" ],
+			[ "dotare" ],
+			[ "dotáremos" ],
+			[ "dotareis", "dotaren" ],
+			[ "dotaren" ]
+		],
+		"12" : {
+			"1" : [ "dota" ],
+			"2" : [ "dote" ],
+			"3" : [ "dotemos" ],
+			"4" : [ "dotad" ],
+			"5" : [ "doten" ]
+		}
+	}
+}

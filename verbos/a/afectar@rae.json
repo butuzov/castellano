@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=afectar",
+	"word" : "afectar",
+	"infinitivo" : "afectar",
+	"participio" : [ "afectado" ],
+	"gerundio" : [ "afectando" ],
+	"tenses" : {
+		"3" : [
+			[ "afecto" ],
+			[ "afectas", "afectás" ],
+			[ "afecta" ],
+			[ "afectamos" ],
+			[ "afectáis", "afectan" ],
+			[ "afectan" ]
+		],
+		"4" : [
+			[ "afecté" ],
+			[ "afectaste" ],
+			[ "afectó" ],
+			[ "afectamos" ],
+			[ "afectasteis", "afectaron" ],
+			[ "afectaron" ]
+		],
+		"5" : [
+			[ "afectaba" ],
+			[ "afectabas" ],
+			[ "afectaba" ],
+			[ "afectábamos" ],
+			[ "afectabais", "afectaban" ],
+			[ "afectaban" ]
+		],
+		"6" : [
+			[ "afectaría" ],
+			[ "afectarías" ],
+			[ "afectaría" ],
+			[ "afectaríamos" ],
+			[ "afectaríais", "afectarían" ],
+			[ "afectarían" ]
+		],
+		"7" : [
+			[ "afectaré" ],
+			[ "afectarás" ],
+			[ "afectará" ],
+			[ "afectaremos" ],
+			[ "afectaréis", "afectarán" ],
+			[ "afectarán" ]
+		],
+		"8" : [
+			[ "afecte" ],
+			[ "afectes" ],
+			[ "afecte" ],
+			[ "afectemos" ],
+			[ "afectéis", "afecten" ],
+			[ "afecten" ]
+		],
+		"9" : [
+			[ "afectara" ],
+			[ "afectaras" ],
+			[ "afectara" ],
+			[ "afectáramos" ],
+			[ "afectarais", "afectaran" ],
+			[ "afectaran" ]
+		],
+		"10" : [
+			[ "afectase" ],
+			[ "afectases" ],
+			[ "afectase" ],
+			[ "afectásemos" ],
+			[ "afectaseis", "afectasen" ],
+			[ "afectasen" ]
+		],
+		"11" : [
+			[ "afectare" ],
+			[ "afectares" ],
+			[ "afectare" ],
+			[ "afectáremos" ],
+			[ "afectareis", "afectaren" ],
+			[ "afectaren" ]
+		],
+		"12" : {
+			"1" : [ "afecta" ],
+			"2" : [ "afecte" ],
+			"3" : [ "afectemos" ],
+			"4" : [ "afectad" ],
+			"5" : [ "afecten" ]
+		}
+	}
+}

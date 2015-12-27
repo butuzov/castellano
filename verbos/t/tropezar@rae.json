@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tropezar",
+	"word" : "tropezar",
+	"infinitivo" : "tropezar",
+	"participio" : [ "tropezado" ],
+	"gerundio" : [ "tropezando" ],
+	"tenses" : {
+		"3" : [
+			[ "tropiezo" ],
+			[ "tropiezas", "tropezás" ],
+			[ "tropieza" ],
+			[ "tropezamos" ],
+			[ "tropezáis", "tropiezan" ],
+			[ "tropiezan" ]
+		],
+		"4" : [
+			[ "tropecé" ],
+			[ "tropezaste" ],
+			[ "tropezó" ],
+			[ "tropezamos" ],
+			[ "tropezasteis", "tropezaron" ],
+			[ "tropezaron" ]
+		],
+		"5" : [
+			[ "tropezaba" ],
+			[ "tropezabas" ],
+			[ "tropezaba" ],
+			[ "tropezábamos" ],
+			[ "tropezabais", "tropezaban" ],
+			[ "tropezaban" ]
+		],
+		"6" : [
+			[ "tropezaría" ],
+			[ "tropezarías" ],
+			[ "tropezaría" ],
+			[ "tropezaríamos" ],
+			[ "tropezaríais", "tropezarían" ],
+			[ "tropezarían" ]
+		],
+		"7" : [
+			[ "tropezaré" ],
+			[ "tropezarás" ],
+			[ "tropezará" ],
+			[ "tropezaremos" ],
+			[ "tropezaréis", "tropezarán" ],
+			[ "tropezarán" ]
+		],
+		"8" : [
+			[ "tropiece" ],
+			[ "tropieces" ],
+			[ "tropiece" ],
+			[ "tropecemos" ],
+			[ "tropecéis", "tropiecen" ],
+			[ "tropiecen" ]
+		],
+		"9" : [
+			[ "tropezara" ],
+			[ "tropezaras" ],
+			[ "tropezara" ],
+			[ "tropezáramos" ],
+			[ "tropezarais", "tropezaran" ],
+			[ "tropezaran" ]
+		],
+		"10" : [
+			[ "tropezase" ],
+			[ "tropezases" ],
+			[ "tropezase" ],
+			[ "tropezásemos" ],
+			[ "tropezaseis", "tropezasen" ],
+			[ "tropezasen" ]
+		],
+		"11" : [
+			[ "tropezare" ],
+			[ "tropezares" ],
+			[ "tropezare" ],
+			[ "tropezáremos" ],
+			[ "tropezareis", "tropezaren" ],
+			[ "tropezaren" ]
+		],
+		"12" : {
+			"1" : [ "tropieza" ],
+			"2" : [ "tropiece" ],
+			"3" : [ "tropecemos" ],
+			"4" : [ "tropezad" ],
+			"5" : [ "tropiecen" ]
+		}
+	}
+}

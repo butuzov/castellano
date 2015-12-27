@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gandujar",
+	"word" : "gandujar",
+	"infinitivo" : "gandujar",
+	"participio" : [ "gandujado" ],
+	"gerundio" : [ "gandujando" ],
+	"tenses" : {
+		"3" : [
+			[ "gandujo" ],
+			[ "gandujas", "gandujás" ],
+			[ "ganduja" ],
+			[ "gandujamos" ],
+			[ "gandujáis", "gandujan" ],
+			[ "gandujan" ]
+		],
+		"4" : [
+			[ "gandujé" ],
+			[ "gandujaste" ],
+			[ "gandujó" ],
+			[ "gandujamos" ],
+			[ "gandujasteis", "gandujaron" ],
+			[ "gandujaron" ]
+		],
+		"5" : [
+			[ "gandujaba" ],
+			[ "gandujabas" ],
+			[ "gandujaba" ],
+			[ "gandujábamos" ],
+			[ "gandujabais", "gandujaban" ],
+			[ "gandujaban" ]
+		],
+		"6" : [
+			[ "gandujaría" ],
+			[ "gandujarías" ],
+			[ "gandujaría" ],
+			[ "gandujaríamos" ],
+			[ "gandujaríais", "gandujarían" ],
+			[ "gandujarían" ]
+		],
+		"7" : [
+			[ "gandujaré" ],
+			[ "gandujarás" ],
+			[ "gandujará" ],
+			[ "gandujaremos" ],
+			[ "gandujaréis", "gandujarán" ],
+			[ "gandujarán" ]
+		],
+		"8" : [
+			[ "ganduje" ],
+			[ "gandujes" ],
+			[ "ganduje" ],
+			[ "gandujemos" ],
+			[ "gandujéis", "gandujen" ],
+			[ "gandujen" ]
+		],
+		"9" : [
+			[ "gandujara" ],
+			[ "gandujaras" ],
+			[ "gandujara" ],
+			[ "gandujáramos" ],
+			[ "gandujarais", "gandujaran" ],
+			[ "gandujaran" ]
+		],
+		"10" : [
+			[ "gandujase" ],
+			[ "gandujases" ],
+			[ "gandujase" ],
+			[ "gandujásemos" ],
+			[ "gandujaseis", "gandujasen" ],
+			[ "gandujasen" ]
+		],
+		"11" : [
+			[ "gandujare" ],
+			[ "gandujares" ],
+			[ "gandujare" ],
+			[ "gandujáremos" ],
+			[ "gandujareis", "gandujaren" ],
+			[ "gandujaren" ]
+		],
+		"12" : {
+			"1" : [ "ganduja" ],
+			"2" : [ "ganduje" ],
+			"3" : [ "gandujemos" ],
+			"4" : [ "gandujad" ],
+			"5" : [ "gandujen" ]
+		}
+	}
+}

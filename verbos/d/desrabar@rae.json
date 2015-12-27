@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desrabar",
+	"word" : "desrabar",
+	"infinitivo" : "desrabar",
+	"participio" : [ "desrabado" ],
+	"gerundio" : [ "desrabando" ],
+	"tenses" : {
+		"3" : [
+			[ "desrabo" ],
+			[ "desrabas", "desrabás" ],
+			[ "desraba" ],
+			[ "desrabamos" ],
+			[ "desrabáis", "desraban" ],
+			[ "desraban" ]
+		],
+		"4" : [
+			[ "desrabé" ],
+			[ "desrabaste" ],
+			[ "desrabó" ],
+			[ "desrabamos" ],
+			[ "desrabasteis", "desrabaron" ],
+			[ "desrabaron" ]
+		],
+		"5" : [
+			[ "desrababa" ],
+			[ "desrababas" ],
+			[ "desrababa" ],
+			[ "desrabábamos" ],
+			[ "desrababais", "desrababan" ],
+			[ "desrababan" ]
+		],
+		"6" : [
+			[ "desrabaría" ],
+			[ "desrabarías" ],
+			[ "desrabaría" ],
+			[ "desrabaríamos" ],
+			[ "desrabaríais", "desrabarían" ],
+			[ "desrabarían" ]
+		],
+		"7" : [
+			[ "desrabaré" ],
+			[ "desrabarás" ],
+			[ "desrabará" ],
+			[ "desrabaremos" ],
+			[ "desrabaréis", "desrabarán" ],
+			[ "desrabarán" ]
+		],
+		"8" : [
+			[ "desrabe" ],
+			[ "desrabes" ],
+			[ "desrabe" ],
+			[ "desrabemos" ],
+			[ "desrabéis", "desraben" ],
+			[ "desraben" ]
+		],
+		"9" : [
+			[ "desrabara" ],
+			[ "desrabaras" ],
+			[ "desrabara" ],
+			[ "desrabáramos" ],
+			[ "desrabarais", "desrabaran" ],
+			[ "desrabaran" ]
+		],
+		"10" : [
+			[ "desrabase" ],
+			[ "desrabases" ],
+			[ "desrabase" ],
+			[ "desrabásemos" ],
+			[ "desrabaseis", "desrabasen" ],
+			[ "desrabasen" ]
+		],
+		"11" : [
+			[ "desrabare" ],
+			[ "desrabares" ],
+			[ "desrabare" ],
+			[ "desrabáremos" ],
+			[ "desrabareis", "desrabaren" ],
+			[ "desrabaren" ]
+		],
+		"12" : {
+			"1" : [ "desraba" ],
+			"2" : [ "desrabe" ],
+			"3" : [ "desrabemos" ],
+			"4" : [ "desrabad" ],
+			"5" : [ "desraben" ]
+		}
+	}
+}

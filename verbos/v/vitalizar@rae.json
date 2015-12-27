@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vitalizar",
+	"word" : "vitalizar",
+	"infinitivo" : "vitalizar",
+	"participio" : [ "vitalizado" ],
+	"gerundio" : [ "vitalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "vitalizo" ],
+			[ "vitalizas", "vitalizás" ],
+			[ "vitaliza" ],
+			[ "vitalizamos" ],
+			[ "vitalizáis", "vitalizan" ],
+			[ "vitalizan" ]
+		],
+		"4" : [
+			[ "vitalicé" ],
+			[ "vitalizaste" ],
+			[ "vitalizó" ],
+			[ "vitalizamos" ],
+			[ "vitalizasteis", "vitalizaron" ],
+			[ "vitalizaron" ]
+		],
+		"5" : [
+			[ "vitalizaba" ],
+			[ "vitalizabas" ],
+			[ "vitalizaba" ],
+			[ "vitalizábamos" ],
+			[ "vitalizabais", "vitalizaban" ],
+			[ "vitalizaban" ]
+		],
+		"6" : [
+			[ "vitalizaría" ],
+			[ "vitalizarías" ],
+			[ "vitalizaría" ],
+			[ "vitalizaríamos" ],
+			[ "vitalizaríais", "vitalizarían" ],
+			[ "vitalizarían" ]
+		],
+		"7" : [
+			[ "vitalizaré" ],
+			[ "vitalizarás" ],
+			[ "vitalizará" ],
+			[ "vitalizaremos" ],
+			[ "vitalizaréis", "vitalizarán" ],
+			[ "vitalizarán" ]
+		],
+		"8" : [
+			[ "vitalice" ],
+			[ "vitalices" ],
+			[ "vitalice" ],
+			[ "vitalicemos" ],
+			[ "vitalicéis", "vitalicen" ],
+			[ "vitalicen" ]
+		],
+		"9" : [
+			[ "vitalizara" ],
+			[ "vitalizaras" ],
+			[ "vitalizara" ],
+			[ "vitalizáramos" ],
+			[ "vitalizarais", "vitalizaran" ],
+			[ "vitalizaran" ]
+		],
+		"10" : [
+			[ "vitalizase" ],
+			[ "vitalizases" ],
+			[ "vitalizase" ],
+			[ "vitalizásemos" ],
+			[ "vitalizaseis", "vitalizasen" ],
+			[ "vitalizasen" ]
+		],
+		"11" : [
+			[ "vitalizare" ],
+			[ "vitalizares" ],
+			[ "vitalizare" ],
+			[ "vitalizáremos" ],
+			[ "vitalizareis", "vitalizaren" ],
+			[ "vitalizaren" ]
+		],
+		"12" : {
+			"1" : [ "vitaliza" ],
+			"2" : [ "vitalice" ],
+			"3" : [ "vitalicemos" ],
+			"4" : [ "vitalizad" ],
+			"5" : [ "vitalicen" ]
+		}
+	}
+}

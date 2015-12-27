@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=herir",
+	"word" : "herir",
+	"infinitivo" : "herir",
+	"participio" : [ "herido" ],
+	"gerundio" : [ "hiriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "hiero" ],
+			[ "hieres", "herís" ],
+			[ "hiere" ],
+			[ "herimos" ],
+			[ "herís", "hieren" ],
+			[ "hieren" ]
+		],
+		"4" : [
+			[ "herí" ],
+			[ "heriste" ],
+			[ "hirió" ],
+			[ "herimos" ],
+			[ "heristeis", "hirieron" ],
+			[ "hirieron" ]
+		],
+		"5" : [
+			[ "hería" ],
+			[ "herías" ],
+			[ "hería" ],
+			[ "heríamos" ],
+			[ "heríais", "herían" ],
+			[ "herían" ]
+		],
+		"6" : [
+			[ "heriría" ],
+			[ "herirías" ],
+			[ "heriría" ],
+			[ "heriríamos" ],
+			[ "heriríais", "herirían" ],
+			[ "herirían" ]
+		],
+		"7" : [
+			[ "heriré" ],
+			[ "herirás" ],
+			[ "herirá" ],
+			[ "heriremos" ],
+			[ "heriréis", "herirán" ],
+			[ "herirán" ]
+		],
+		"8" : [
+			[ "hiera" ],
+			[ "hieras" ],
+			[ "hiera" ],
+			[ "hiramos" ],
+			[ "hiráis", "hieran" ],
+			[ "hieran" ]
+		],
+		"9" : [
+			[ "hiriera" ],
+			[ "hirieras" ],
+			[ "hiriera" ],
+			[ "hiriéramos" ],
+			[ "hirierais", "hirieran" ],
+			[ "hirieran" ]
+		],
+		"10" : [
+			[ "hiriese" ],
+			[ "hirieses" ],
+			[ "hiriese" ],
+			[ "hiriésemos" ],
+			[ "hirieseis", "hiriesen" ],
+			[ "hiriesen" ]
+		],
+		"11" : [
+			[ "hiriere" ],
+			[ "hirieres" ],
+			[ "hiriere" ],
+			[ "hiriéremos" ],
+			[ "hiriereis", "hirieren" ],
+			[ "hirieren" ]
+		],
+		"12" : {
+			"1" : [ "hiere" ],
+			"2" : [ "hiera" ],
+			"3" : [ "hiramos" ],
+			"4" : [ "herid" ],
+			"5" : [ "hieran" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recetar",
+	"word" : "recetar",
+	"infinitivo" : "recetar",
+	"participio" : [ "recetado" ],
+	"gerundio" : [ "recetando" ],
+	"tenses" : {
+		"3" : [
+			[ "receto" ],
+			[ "recetas", "recetás" ],
+			[ "receta" ],
+			[ "recetamos" ],
+			[ "recetáis", "recetan" ],
+			[ "recetan" ]
+		],
+		"4" : [
+			[ "receté" ],
+			[ "recetaste" ],
+			[ "recetó" ],
+			[ "recetamos" ],
+			[ "recetasteis", "recetaron" ],
+			[ "recetaron" ]
+		],
+		"5" : [
+			[ "recetaba" ],
+			[ "recetabas" ],
+			[ "recetaba" ],
+			[ "recetábamos" ],
+			[ "recetabais", "recetaban" ],
+			[ "recetaban" ]
+		],
+		"6" : [
+			[ "recetaría" ],
+			[ "recetarías" ],
+			[ "recetaría" ],
+			[ "recetaríamos" ],
+			[ "recetaríais", "recetarían" ],
+			[ "recetarían" ]
+		],
+		"7" : [
+			[ "recetaré" ],
+			[ "recetarás" ],
+			[ "recetará" ],
+			[ "recetaremos" ],
+			[ "recetaréis", "recetarán" ],
+			[ "recetarán" ]
+		],
+		"8" : [
+			[ "recete" ],
+			[ "recetes" ],
+			[ "recete" ],
+			[ "recetemos" ],
+			[ "recetéis", "receten" ],
+			[ "receten" ]
+		],
+		"9" : [
+			[ "recetara" ],
+			[ "recetaras" ],
+			[ "recetara" ],
+			[ "recetáramos" ],
+			[ "recetarais", "recetaran" ],
+			[ "recetaran" ]
+		],
+		"10" : [
+			[ "recetase" ],
+			[ "recetases" ],
+			[ "recetase" ],
+			[ "recetásemos" ],
+			[ "recetaseis", "recetasen" ],
+			[ "recetasen" ]
+		],
+		"11" : [
+			[ "recetare" ],
+			[ "recetares" ],
+			[ "recetare" ],
+			[ "recetáremos" ],
+			[ "recetareis", "recetaren" ],
+			[ "recetaren" ]
+		],
+		"12" : {
+			"1" : [ "receta" ],
+			"2" : [ "recete" ],
+			"3" : [ "recetemos" ],
+			"4" : [ "recetad" ],
+			"5" : [ "receten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=excluir",
+	"word" : "excluir",
+	"infinitivo" : "excluir",
+	"participio" : [ "excluido" ],
+	"gerundio" : [ "excluyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "excluyo" ],
+			[ "excluyes", "excluís" ],
+			[ "excluye" ],
+			[ "excluimos" ],
+			[ "excluís", "excluyen" ],
+			[ "excluyen" ]
+		],
+		"4" : [
+			[ "excluí" ],
+			[ "excluiste" ],
+			[ "excluyó" ],
+			[ "excluimos" ],
+			[ "excluisteis", "excluyeron" ],
+			[ "excluyeron" ]
+		],
+		"5" : [
+			[ "excluía" ],
+			[ "excluías" ],
+			[ "excluía" ],
+			[ "excluíamos" ],
+			[ "excluíais", "excluían" ],
+			[ "excluían" ]
+		],
+		"6" : [
+			[ "excluiría" ],
+			[ "excluirías" ],
+			[ "excluiría" ],
+			[ "excluiríamos" ],
+			[ "excluiríais", "excluirían" ],
+			[ "excluirían" ]
+		],
+		"7" : [
+			[ "excluiré" ],
+			[ "excluirás" ],
+			[ "excluirá" ],
+			[ "excluiremos" ],
+			[ "excluiréis", "excluirán" ],
+			[ "excluirán" ]
+		],
+		"8" : [
+			[ "excluya" ],
+			[ "excluyas" ],
+			[ "excluya" ],
+			[ "excluyamos" ],
+			[ "excluyáis", "excluyan" ],
+			[ "excluyan" ]
+		],
+		"9" : [
+			[ "excluyera" ],
+			[ "excluyeras" ],
+			[ "excluyera" ],
+			[ "excluyéramos" ],
+			[ "excluyerais", "excluyeran" ],
+			[ "excluyeran" ]
+		],
+		"10" : [
+			[ "excluyese" ],
+			[ "excluyeses" ],
+			[ "excluyese" ],
+			[ "excluyésemos" ],
+			[ "excluyeseis", "excluyesen" ],
+			[ "excluyesen" ]
+		],
+		"11" : [
+			[ "excluyere" ],
+			[ "excluyeres" ],
+			[ "excluyere" ],
+			[ "excluyéremos" ],
+			[ "excluyereis", "excluyeren" ],
+			[ "excluyeren" ]
+		],
+		"12" : {
+			"1" : [ "excluye" ],
+			"2" : [ "excluya" ],
+			"3" : [ "excluyamos" ],
+			"4" : [ "excluid" ],
+			"5" : [ "excluyan" ]
+		}
+	}
+}

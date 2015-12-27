@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ensuciar",
+	"word" : "ensuciar",
+	"infinitivo" : "ensuciar",
+	"participio" : [ "ensuciado" ],
+	"gerundio" : [ "ensuciando" ],
+	"tenses" : {
+		"3" : [
+			[ "ensucio" ],
+			[ "ensucias", "ensuciás" ],
+			[ "ensucia" ],
+			[ "ensuciamos" ],
+			[ "ensuciáis", "ensucian" ],
+			[ "ensucian" ]
+		],
+		"4" : [
+			[ "ensucié" ],
+			[ "ensuciaste" ],
+			[ "ensució" ],
+			[ "ensuciamos" ],
+			[ "ensuciasteis", "ensuciaron" ],
+			[ "ensuciaron" ]
+		],
+		"5" : [
+			[ "ensuciaba" ],
+			[ "ensuciabas" ],
+			[ "ensuciaba" ],
+			[ "ensuciábamos" ],
+			[ "ensuciabais", "ensuciaban" ],
+			[ "ensuciaban" ]
+		],
+		"6" : [
+			[ "ensuciaría" ],
+			[ "ensuciarías" ],
+			[ "ensuciaría" ],
+			[ "ensuciaríamos" ],
+			[ "ensuciaríais", "ensuciarían" ],
+			[ "ensuciarían" ]
+		],
+		"7" : [
+			[ "ensuciaré" ],
+			[ "ensuciarás" ],
+			[ "ensuciará" ],
+			[ "ensuciaremos" ],
+			[ "ensuciaréis", "ensuciarán" ],
+			[ "ensuciarán" ]
+		],
+		"8" : [
+			[ "ensucie" ],
+			[ "ensucies" ],
+			[ "ensucie" ],
+			[ "ensuciemos" ],
+			[ "ensuciéis", "ensucien" ],
+			[ "ensucien" ]
+		],
+		"9" : [
+			[ "ensuciara" ],
+			[ "ensuciaras" ],
+			[ "ensuciara" ],
+			[ "ensuciáramos" ],
+			[ "ensuciarais", "ensuciaran" ],
+			[ "ensuciaran" ]
+		],
+		"10" : [
+			[ "ensuciase" ],
+			[ "ensuciases" ],
+			[ "ensuciase" ],
+			[ "ensuciásemos" ],
+			[ "ensuciaseis", "ensuciasen" ],
+			[ "ensuciasen" ]
+		],
+		"11" : [
+			[ "ensuciare" ],
+			[ "ensuciares" ],
+			[ "ensuciare" ],
+			[ "ensuciáremos" ],
+			[ "ensuciareis", "ensuciaren" ],
+			[ "ensuciaren" ]
+		],
+		"12" : {
+			"1" : [ "ensucia" ],
+			"2" : [ "ensucie" ],
+			"3" : [ "ensuciemos" ],
+			"4" : [ "ensuciad" ],
+			"5" : [ "ensucien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=llover",
+	"word" : "llover",
+	"infinitivo" : "llover",
+	"participio" : [ "llovido" ],
+	"gerundio" : [ "lloviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "lluevo" ],
+			[ "llueves", "llovés" ],
+			[ "llueve" ],
+			[ "llovemos" ],
+			[ "llovéis", "llueven" ],
+			[ "llueven" ]
+		],
+		"4" : [
+			[ "lloví" ],
+			[ "lloviste" ],
+			[ "llovió" ],
+			[ "llovimos" ],
+			[ "llovisteis", "llovieron" ],
+			[ "llovieron" ]
+		],
+		"5" : [
+			[ "llovía" ],
+			[ "llovías" ],
+			[ "llovía" ],
+			[ "llovíamos" ],
+			[ "llovíais", "llovían" ],
+			[ "llovían" ]
+		],
+		"6" : [
+			[ "llovería" ],
+			[ "lloverías" ],
+			[ "llovería" ],
+			[ "lloveríamos" ],
+			[ "lloveríais", "lloverían" ],
+			[ "lloverían" ]
+		],
+		"7" : [
+			[ "lloveré" ],
+			[ "lloverás" ],
+			[ "lloverá" ],
+			[ "lloveremos" ],
+			[ "lloveréis", "lloverán" ],
+			[ "lloverán" ]
+		],
+		"8" : [
+			[ "llueva" ],
+			[ "lluevas" ],
+			[ "llueva" ],
+			[ "llovamos" ],
+			[ "llováis", "lluevan" ],
+			[ "lluevan" ]
+		],
+		"9" : [
+			[ "lloviera" ],
+			[ "llovieras" ],
+			[ "lloviera" ],
+			[ "lloviéramos" ],
+			[ "llovierais", "llovieran" ],
+			[ "llovieran" ]
+		],
+		"10" : [
+			[ "lloviese" ],
+			[ "llovieses" ],
+			[ "lloviese" ],
+			[ "lloviésemos" ],
+			[ "llovieseis", "lloviesen" ],
+			[ "lloviesen" ]
+		],
+		"11" : [
+			[ "lloviere" ],
+			[ "llovieres" ],
+			[ "lloviere" ],
+			[ "lloviéremos" ],
+			[ "lloviereis", "llovieren" ],
+			[ "llovieren" ]
+		],
+		"12" : {
+			"1" : [ "llueve" ],
+			"2" : [ "llueva" ],
+			"3" : [ "llovamos" ],
+			"4" : [ "lloved" ],
+			"5" : [ "lluevan" ]
+		}
+	}
+}

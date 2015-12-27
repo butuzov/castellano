@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rayar",
+	"word" : "rayar",
+	"infinitivo" : "rayar",
+	"participio" : [ "rayado" ],
+	"gerundio" : [ "rayando" ],
+	"tenses" : {
+		"3" : [
+			[ "rayo" ],
+			[ "rayas", "rayás" ],
+			[ "raya" ],
+			[ "rayamos" ],
+			[ "rayáis", "rayan" ],
+			[ "rayan" ]
+		],
+		"4" : [
+			[ "rayé" ],
+			[ "rayaste" ],
+			[ "rayó" ],
+			[ "rayamos" ],
+			[ "rayasteis", "rayaron" ],
+			[ "rayaron" ]
+		],
+		"5" : [
+			[ "rayaba" ],
+			[ "rayabas" ],
+			[ "rayaba" ],
+			[ "rayábamos" ],
+			[ "rayabais", "rayaban" ],
+			[ "rayaban" ]
+		],
+		"6" : [
+			[ "rayaría" ],
+			[ "rayarías" ],
+			[ "rayaría" ],
+			[ "rayaríamos" ],
+			[ "rayaríais", "rayarían" ],
+			[ "rayarían" ]
+		],
+		"7" : [
+			[ "rayaré" ],
+			[ "rayarás" ],
+			[ "rayará" ],
+			[ "rayaremos" ],
+			[ "rayaréis", "rayarán" ],
+			[ "rayarán" ]
+		],
+		"8" : [
+			[ "raye" ],
+			[ "rayes" ],
+			[ "raye" ],
+			[ "rayemos" ],
+			[ "rayéis", "rayen" ],
+			[ "rayen" ]
+		],
+		"9" : [
+			[ "rayara" ],
+			[ "rayaras" ],
+			[ "rayara" ],
+			[ "rayáramos" ],
+			[ "rayarais", "rayaran" ],
+			[ "rayaran" ]
+		],
+		"10" : [
+			[ "rayase" ],
+			[ "rayases" ],
+			[ "rayase" ],
+			[ "rayásemos" ],
+			[ "rayaseis", "rayasen" ],
+			[ "rayasen" ]
+		],
+		"11" : [
+			[ "rayare" ],
+			[ "rayares" ],
+			[ "rayare" ],
+			[ "rayáremos" ],
+			[ "rayareis", "rayaren" ],
+			[ "rayaren" ]
+		],
+		"12" : {
+			"1" : [ "raya" ],
+			"2" : [ "raye" ],
+			"3" : [ "rayemos" ],
+			"4" : [ "rayad" ],
+			"5" : [ "rayen" ]
+		}
+	}
+}

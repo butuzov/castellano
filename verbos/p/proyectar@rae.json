@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=proyectar",
+	"word" : "proyectar",
+	"infinitivo" : "proyectar",
+	"participio" : [ "proyectado" ],
+	"gerundio" : [ "proyectando" ],
+	"tenses" : {
+		"3" : [
+			[ "proyecto" ],
+			[ "proyectas", "proyectás" ],
+			[ "proyecta" ],
+			[ "proyectamos" ],
+			[ "proyectáis", "proyectan" ],
+			[ "proyectan" ]
+		],
+		"4" : [
+			[ "proyecté" ],
+			[ "proyectaste" ],
+			[ "proyectó" ],
+			[ "proyectamos" ],
+			[ "proyectasteis", "proyectaron" ],
+			[ "proyectaron" ]
+		],
+		"5" : [
+			[ "proyectaba" ],
+			[ "proyectabas" ],
+			[ "proyectaba" ],
+			[ "proyectábamos" ],
+			[ "proyectabais", "proyectaban" ],
+			[ "proyectaban" ]
+		],
+		"6" : [
+			[ "proyectaría" ],
+			[ "proyectarías" ],
+			[ "proyectaría" ],
+			[ "proyectaríamos" ],
+			[ "proyectaríais", "proyectarían" ],
+			[ "proyectarían" ]
+		],
+		"7" : [
+			[ "proyectaré" ],
+			[ "proyectarás" ],
+			[ "proyectará" ],
+			[ "proyectaremos" ],
+			[ "proyectaréis", "proyectarán" ],
+			[ "proyectarán" ]
+		],
+		"8" : [
+			[ "proyecte" ],
+			[ "proyectes" ],
+			[ "proyecte" ],
+			[ "proyectemos" ],
+			[ "proyectéis", "proyecten" ],
+			[ "proyecten" ]
+		],
+		"9" : [
+			[ "proyectara" ],
+			[ "proyectaras" ],
+			[ "proyectara" ],
+			[ "proyectáramos" ],
+			[ "proyectarais", "proyectaran" ],
+			[ "proyectaran" ]
+		],
+		"10" : [
+			[ "proyectase" ],
+			[ "proyectases" ],
+			[ "proyectase" ],
+			[ "proyectásemos" ],
+			[ "proyectaseis", "proyectasen" ],
+			[ "proyectasen" ]
+		],
+		"11" : [
+			[ "proyectare" ],
+			[ "proyectares" ],
+			[ "proyectare" ],
+			[ "proyectáremos" ],
+			[ "proyectareis", "proyectaren" ],
+			[ "proyectaren" ]
+		],
+		"12" : {
+			"1" : [ "proyecta" ],
+			"2" : [ "proyecte" ],
+			"3" : [ "proyectemos" ],
+			"4" : [ "proyectad" ],
+			"5" : [ "proyecten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enfrenar",
+	"word" : "enfrenar",
+	"infinitivo" : "enfrenar",
+	"participio" : [ "enfrenado" ],
+	"gerundio" : [ "enfrenando" ],
+	"tenses" : {
+		"3" : [
+			[ "enfreno" ],
+			[ "enfrenas", "enfrenás" ],
+			[ "enfrena" ],
+			[ "enfrenamos" ],
+			[ "enfrenáis", "enfrenan" ],
+			[ "enfrenan" ]
+		],
+		"4" : [
+			[ "enfrené" ],
+			[ "enfrenaste" ],
+			[ "enfrenó" ],
+			[ "enfrenamos" ],
+			[ "enfrenasteis", "enfrenaron" ],
+			[ "enfrenaron" ]
+		],
+		"5" : [
+			[ "enfrenaba" ],
+			[ "enfrenabas" ],
+			[ "enfrenaba" ],
+			[ "enfrenábamos" ],
+			[ "enfrenabais", "enfrenaban" ],
+			[ "enfrenaban" ]
+		],
+		"6" : [
+			[ "enfrenaría" ],
+			[ "enfrenarías" ],
+			[ "enfrenaría" ],
+			[ "enfrenaríamos" ],
+			[ "enfrenaríais", "enfrenarían" ],
+			[ "enfrenarían" ]
+		],
+		"7" : [
+			[ "enfrenaré" ],
+			[ "enfrenarás" ],
+			[ "enfrenará" ],
+			[ "enfrenaremos" ],
+			[ "enfrenaréis", "enfrenarán" ],
+			[ "enfrenarán" ]
+		],
+		"8" : [
+			[ "enfrene" ],
+			[ "enfrenes" ],
+			[ "enfrene" ],
+			[ "enfrenemos" ],
+			[ "enfrenéis", "enfrenen" ],
+			[ "enfrenen" ]
+		],
+		"9" : [
+			[ "enfrenara" ],
+			[ "enfrenaras" ],
+			[ "enfrenara" ],
+			[ "enfrenáramos" ],
+			[ "enfrenarais", "enfrenaran" ],
+			[ "enfrenaran" ]
+		],
+		"10" : [
+			[ "enfrenase" ],
+			[ "enfrenases" ],
+			[ "enfrenase" ],
+			[ "enfrenásemos" ],
+			[ "enfrenaseis", "enfrenasen" ],
+			[ "enfrenasen" ]
+		],
+		"11" : [
+			[ "enfrenare" ],
+			[ "enfrenares" ],
+			[ "enfrenare" ],
+			[ "enfrenáremos" ],
+			[ "enfrenareis", "enfrenaren" ],
+			[ "enfrenaren" ]
+		],
+		"12" : {
+			"1" : [ "enfrena" ],
+			"2" : [ "enfrene" ],
+			"3" : [ "enfrenemos" ],
+			"4" : [ "enfrenad" ],
+			"5" : [ "enfrenen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=retrotraer",
+	"word" : "retrotraer",
+	"infinitivo" : "retrotraer",
+	"participio" : [ "retrotraído" ],
+	"gerundio" : [ "retrotrayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "retrotraigo" ],
+			[ "retrotraes", "retrotraés" ],
+			[ "retrotrae" ],
+			[ "retrotraemos" ],
+			[ "retrotraéis", "retrotraen" ],
+			[ "retrotraen" ]
+		],
+		"4" : [
+			[ "retrotraje" ],
+			[ "retrotrajiste" ],
+			[ "retrotrajo" ],
+			[ "retrotrajimos" ],
+			[ "retrotrajisteis", "retrotrajeron" ],
+			[ "retrotrajeron" ]
+		],
+		"5" : [
+			[ "retrotraía" ],
+			[ "retrotraías" ],
+			[ "retrotraía" ],
+			[ "retrotraíamos" ],
+			[ "retrotraíais", "retrotraían" ],
+			[ "retrotraían" ]
+		],
+		"6" : [
+			[ "retrotraería" ],
+			[ "retrotraerías" ],
+			[ "retrotraería" ],
+			[ "retrotraeríamos" ],
+			[ "retrotraeríais", "retrotraerían" ],
+			[ "retrotraerían" ]
+		],
+		"7" : [
+			[ "retrotraeré" ],
+			[ "retrotraerás" ],
+			[ "retrotraerá" ],
+			[ "retrotraeremos" ],
+			[ "retrotraeréis", "retrotraerán" ],
+			[ "retrotraerán" ]
+		],
+		"8" : [
+			[ "retrotraiga" ],
+			[ "retrotraigas" ],
+			[ "retrotraiga" ],
+			[ "retrotraigamos" ],
+			[ "retrotraigáis", "retrotraigan" ],
+			[ "retrotraigan" ]
+		],
+		"9" : [
+			[ "retrotrajera" ],
+			[ "retrotrajeras" ],
+			[ "retrotrajera" ],
+			[ "retrotrajéramos" ],
+			[ "retrotrajerais", "retrotrajeran" ],
+			[ "retrotrajeran" ]
+		],
+		"10" : [
+			[ "retrotrajese" ],
+			[ "retrotrajeses" ],
+			[ "retrotrajese" ],
+			[ "retrotrajésemos" ],
+			[ "retrotrajeseis", "retrotrajesen" ],
+			[ "retrotrajesen" ]
+		],
+		"11" : [
+			[ "retrotrajere" ],
+			[ "retrotrajeres" ],
+			[ "retrotrajere" ],
+			[ "retrotrajéremos" ],
+			[ "retrotrajereis", "retrotrajeren" ],
+			[ "retrotrajeren" ]
+		],
+		"12" : {
+			"1" : [ "retrotrae" ],
+			"2" : [ "retrotraiga" ],
+			"3" : [ "retrotraigamos" ],
+			"4" : [ "retrotraed" ],
+			"5" : [ "retrotraigan" ]
+		}
+	}
+}

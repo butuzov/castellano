@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=castrar",
+	"word" : "castrar",
+	"infinitivo" : "castrar",
+	"participio" : [ "castrado" ],
+	"gerundio" : [ "castrando" ],
+	"tenses" : {
+		"3" : [
+			[ "castro" ],
+			[ "castras", "castrás" ],
+			[ "castra" ],
+			[ "castramos" ],
+			[ "castráis", "castran" ],
+			[ "castran" ]
+		],
+		"4" : [
+			[ "castré" ],
+			[ "castraste" ],
+			[ "castró" ],
+			[ "castramos" ],
+			[ "castrasteis", "castraron" ],
+			[ "castraron" ]
+		],
+		"5" : [
+			[ "castraba" ],
+			[ "castrabas" ],
+			[ "castraba" ],
+			[ "castrábamos" ],
+			[ "castrabais", "castraban" ],
+			[ "castraban" ]
+		],
+		"6" : [
+			[ "castraría" ],
+			[ "castrarías" ],
+			[ "castraría" ],
+			[ "castraríamos" ],
+			[ "castraríais", "castrarían" ],
+			[ "castrarían" ]
+		],
+		"7" : [
+			[ "castraré" ],
+			[ "castrarás" ],
+			[ "castrará" ],
+			[ "castraremos" ],
+			[ "castraréis", "castrarán" ],
+			[ "castrarán" ]
+		],
+		"8" : [
+			[ "castre" ],
+			[ "castres" ],
+			[ "castre" ],
+			[ "castremos" ],
+			[ "castréis", "castren" ],
+			[ "castren" ]
+		],
+		"9" : [
+			[ "castrara" ],
+			[ "castraras" ],
+			[ "castrara" ],
+			[ "castráramos" ],
+			[ "castrarais", "castraran" ],
+			[ "castraran" ]
+		],
+		"10" : [
+			[ "castrase" ],
+			[ "castrases" ],
+			[ "castrase" ],
+			[ "castrásemos" ],
+			[ "castraseis", "castrasen" ],
+			[ "castrasen" ]
+		],
+		"11" : [
+			[ "castrare" ],
+			[ "castrares" ],
+			[ "castrare" ],
+			[ "castráremos" ],
+			[ "castrareis", "castraren" ],
+			[ "castraren" ]
+		],
+		"12" : {
+			"1" : [ "castra" ],
+			"2" : [ "castre" ],
+			"3" : [ "castremos" ],
+			"4" : [ "castrad" ],
+			"5" : [ "castren" ]
+		}
+	}
+}

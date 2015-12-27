@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=disparatar",
+	"word" : "disparatar",
+	"infinitivo" : "disparatar",
+	"participio" : [ "disparatado" ],
+	"gerundio" : [ "disparatando" ],
+	"tenses" : {
+		"3" : [
+			[ "disparato" ],
+			[ "disparatas", "disparatás" ],
+			[ "disparata" ],
+			[ "disparatamos" ],
+			[ "disparatáis", "disparatan" ],
+			[ "disparatan" ]
+		],
+		"4" : [
+			[ "disparaté" ],
+			[ "disparataste" ],
+			[ "disparató" ],
+			[ "disparatamos" ],
+			[ "disparatasteis", "disparataron" ],
+			[ "disparataron" ]
+		],
+		"5" : [
+			[ "disparataba" ],
+			[ "disparatabas" ],
+			[ "disparataba" ],
+			[ "disparatábamos" ],
+			[ "disparatabais", "disparataban" ],
+			[ "disparataban" ]
+		],
+		"6" : [
+			[ "disparataría" ],
+			[ "disparatarías" ],
+			[ "disparataría" ],
+			[ "disparataríamos" ],
+			[ "disparataríais", "disparatarían" ],
+			[ "disparatarían" ]
+		],
+		"7" : [
+			[ "disparataré" ],
+			[ "disparatarás" ],
+			[ "disparatará" ],
+			[ "disparataremos" ],
+			[ "disparataréis", "disparatarán" ],
+			[ "disparatarán" ]
+		],
+		"8" : [
+			[ "disparate" ],
+			[ "disparates" ],
+			[ "disparate" ],
+			[ "disparatemos" ],
+			[ "disparatéis", "disparaten" ],
+			[ "disparaten" ]
+		],
+		"9" : [
+			[ "disparatara" ],
+			[ "disparataras" ],
+			[ "disparatara" ],
+			[ "disparatáramos" ],
+			[ "disparatarais", "disparataran" ],
+			[ "disparataran" ]
+		],
+		"10" : [
+			[ "disparatase" ],
+			[ "disparatases" ],
+			[ "disparatase" ],
+			[ "disparatásemos" ],
+			[ "disparataseis", "disparatasen" ],
+			[ "disparatasen" ]
+		],
+		"11" : [
+			[ "disparatare" ],
+			[ "disparatares" ],
+			[ "disparatare" ],
+			[ "disparatáremos" ],
+			[ "disparatareis", "disparataren" ],
+			[ "disparataren" ]
+		],
+		"12" : {
+			"1" : [ "disparata" ],
+			"2" : [ "disparate" ],
+			"3" : [ "disparatemos" ],
+			"4" : [ "disparatad" ],
+			"5" : [ "disparaten" ]
+		}
+	}
+}

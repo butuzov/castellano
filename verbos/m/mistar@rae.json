@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mistar",
+	"word" : "mistar",
+	"infinitivo" : "mistar",
+	"participio" : [ "mistado" ],
+	"gerundio" : [ "mistando" ],
+	"tenses" : {
+		"3" : [
+			[ "misto" ],
+			[ "mistas", "mistás" ],
+			[ "mista" ],
+			[ "mistamos" ],
+			[ "mistáis", "mistan" ],
+			[ "mistan" ]
+		],
+		"4" : [
+			[ "misté" ],
+			[ "mistaste" ],
+			[ "mistó" ],
+			[ "mistamos" ],
+			[ "mistasteis", "mistaron" ],
+			[ "mistaron" ]
+		],
+		"5" : [
+			[ "mistaba" ],
+			[ "mistabas" ],
+			[ "mistaba" ],
+			[ "mistábamos" ],
+			[ "mistabais", "mistaban" ],
+			[ "mistaban" ]
+		],
+		"6" : [
+			[ "mistaría" ],
+			[ "mistarías" ],
+			[ "mistaría" ],
+			[ "mistaríamos" ],
+			[ "mistaríais", "mistarían" ],
+			[ "mistarían" ]
+		],
+		"7" : [
+			[ "mistaré" ],
+			[ "mistarás" ],
+			[ "mistará" ],
+			[ "mistaremos" ],
+			[ "mistaréis", "mistarán" ],
+			[ "mistarán" ]
+		],
+		"8" : [
+			[ "miste" ],
+			[ "mistes" ],
+			[ "miste" ],
+			[ "mistemos" ],
+			[ "mistéis", "misten" ],
+			[ "misten" ]
+		],
+		"9" : [
+			[ "mistara" ],
+			[ "mistaras" ],
+			[ "mistara" ],
+			[ "mistáramos" ],
+			[ "mistarais", "mistaran" ],
+			[ "mistaran" ]
+		],
+		"10" : [
+			[ "mistase" ],
+			[ "mistases" ],
+			[ "mistase" ],
+			[ "mistásemos" ],
+			[ "mistaseis", "mistasen" ],
+			[ "mistasen" ]
+		],
+		"11" : [
+			[ "mistare" ],
+			[ "mistares" ],
+			[ "mistare" ],
+			[ "mistáremos" ],
+			[ "mistareis", "mistaren" ],
+			[ "mistaren" ]
+		],
+		"12" : {
+			"1" : [ "mista" ],
+			"2" : [ "miste" ],
+			"3" : [ "mistemos" ],
+			"4" : [ "mistad" ],
+			"5" : [ "misten" ]
+		}
+	}
+}

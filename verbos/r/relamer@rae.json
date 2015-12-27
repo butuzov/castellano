@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=relamer",
+	"word" : "relamer",
+	"infinitivo" : "relamer",
+	"participio" : [ "relamido" ],
+	"gerundio" : [ "relamiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "relamo" ],
+			[ "relames", "relamés" ],
+			[ "relame" ],
+			[ "relamemos" ],
+			[ "relaméis", "relamen" ],
+			[ "relamen" ]
+		],
+		"4" : [
+			[ "relamí" ],
+			[ "relamiste" ],
+			[ "relamió" ],
+			[ "relamimos" ],
+			[ "relamisteis", "relamieron" ],
+			[ "relamieron" ]
+		],
+		"5" : [
+			[ "relamía" ],
+			[ "relamías" ],
+			[ "relamía" ],
+			[ "relamíamos" ],
+			[ "relamíais", "relamían" ],
+			[ "relamían" ]
+		],
+		"6" : [
+			[ "relamería" ],
+			[ "relamerías" ],
+			[ "relamería" ],
+			[ "relameríamos" ],
+			[ "relameríais", "relamerían" ],
+			[ "relamerían" ]
+		],
+		"7" : [
+			[ "relameré" ],
+			[ "relamerás" ],
+			[ "relamerá" ],
+			[ "relameremos" ],
+			[ "relameréis", "relamerán" ],
+			[ "relamerán" ]
+		],
+		"8" : [
+			[ "relama" ],
+			[ "relamas" ],
+			[ "relama" ],
+			[ "relamamos" ],
+			[ "relamáis", "relaman" ],
+			[ "relaman" ]
+		],
+		"9" : [
+			[ "relamiera" ],
+			[ "relamieras" ],
+			[ "relamiera" ],
+			[ "relamiéramos" ],
+			[ "relamierais", "relamieran" ],
+			[ "relamieran" ]
+		],
+		"10" : [
+			[ "relamiese" ],
+			[ "relamieses" ],
+			[ "relamiese" ],
+			[ "relamiésemos" ],
+			[ "relamieseis", "relamiesen" ],
+			[ "relamiesen" ]
+		],
+		"11" : [
+			[ "relamiere" ],
+			[ "relamieres" ],
+			[ "relamiere" ],
+			[ "relamiéremos" ],
+			[ "relamiereis", "relamieren" ],
+			[ "relamieren" ]
+		],
+		"12" : {
+			"1" : [ "relame" ],
+			"2" : [ "relama" ],
+			"3" : [ "relamamos" ],
+			"4" : [ "relamed" ],
+			"5" : [ "relaman" ]
+		}
+	}
+}

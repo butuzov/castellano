@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vaticinar",
+	"word" : "vaticinar",
+	"infinitivo" : "vaticinar",
+	"participio" : [ "vaticinado" ],
+	"gerundio" : [ "vaticinando" ],
+	"tenses" : {
+		"3" : [
+			[ "vaticino" ],
+			[ "vaticinas", "vaticinás" ],
+			[ "vaticina" ],
+			[ "vaticinamos" ],
+			[ "vaticináis", "vaticinan" ],
+			[ "vaticinan" ]
+		],
+		"4" : [
+			[ "vaticiné" ],
+			[ "vaticinaste" ],
+			[ "vaticinó" ],
+			[ "vaticinamos" ],
+			[ "vaticinasteis", "vaticinaron" ],
+			[ "vaticinaron" ]
+		],
+		"5" : [
+			[ "vaticinaba" ],
+			[ "vaticinabas" ],
+			[ "vaticinaba" ],
+			[ "vaticinábamos" ],
+			[ "vaticinabais", "vaticinaban" ],
+			[ "vaticinaban" ]
+		],
+		"6" : [
+			[ "vaticinaría" ],
+			[ "vaticinarías" ],
+			[ "vaticinaría" ],
+			[ "vaticinaríamos" ],
+			[ "vaticinaríais", "vaticinarían" ],
+			[ "vaticinarían" ]
+		],
+		"7" : [
+			[ "vaticinaré" ],
+			[ "vaticinarás" ],
+			[ "vaticinará" ],
+			[ "vaticinaremos" ],
+			[ "vaticinaréis", "vaticinarán" ],
+			[ "vaticinarán" ]
+		],
+		"8" : [
+			[ "vaticine" ],
+			[ "vaticines" ],
+			[ "vaticine" ],
+			[ "vaticinemos" ],
+			[ "vaticinéis", "vaticinen" ],
+			[ "vaticinen" ]
+		],
+		"9" : [
+			[ "vaticinara" ],
+			[ "vaticinaras" ],
+			[ "vaticinara" ],
+			[ "vaticináramos" ],
+			[ "vaticinarais", "vaticinaran" ],
+			[ "vaticinaran" ]
+		],
+		"10" : [
+			[ "vaticinase" ],
+			[ "vaticinases" ],
+			[ "vaticinase" ],
+			[ "vaticinásemos" ],
+			[ "vaticinaseis", "vaticinasen" ],
+			[ "vaticinasen" ]
+		],
+		"11" : [
+			[ "vaticinare" ],
+			[ "vaticinares" ],
+			[ "vaticinare" ],
+			[ "vaticináremos" ],
+			[ "vaticinareis", "vaticinaren" ],
+			[ "vaticinaren" ]
+		],
+		"12" : {
+			"1" : [ "vaticina" ],
+			"2" : [ "vaticine" ],
+			"3" : [ "vaticinemos" ],
+			"4" : [ "vaticinad" ],
+			"5" : [ "vaticinen" ]
+		}
+	}
+}

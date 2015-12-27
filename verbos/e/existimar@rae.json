@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=existimar",
+	"word" : "existimar",
+	"infinitivo" : "existimar",
+	"participio" : [ "existimado" ],
+	"gerundio" : [ "existimando" ],
+	"tenses" : {
+		"3" : [
+			[ "existimo" ],
+			[ "existimas", "existimás" ],
+			[ "existima" ],
+			[ "existimamos" ],
+			[ "existimáis", "existiman" ],
+			[ "existiman" ]
+		],
+		"4" : [
+			[ "existimé" ],
+			[ "existimaste" ],
+			[ "existimó" ],
+			[ "existimamos" ],
+			[ "existimasteis", "existimaron" ],
+			[ "existimaron" ]
+		],
+		"5" : [
+			[ "existimaba" ],
+			[ "existimabas" ],
+			[ "existimaba" ],
+			[ "existimábamos" ],
+			[ "existimabais", "existimaban" ],
+			[ "existimaban" ]
+		],
+		"6" : [
+			[ "existimaría" ],
+			[ "existimarías" ],
+			[ "existimaría" ],
+			[ "existimaríamos" ],
+			[ "existimaríais", "existimarían" ],
+			[ "existimarían" ]
+		],
+		"7" : [
+			[ "existimaré" ],
+			[ "existimarás" ],
+			[ "existimará" ],
+			[ "existimaremos" ],
+			[ "existimaréis", "existimarán" ],
+			[ "existimarán" ]
+		],
+		"8" : [
+			[ "existime" ],
+			[ "existimes" ],
+			[ "existime" ],
+			[ "existimemos" ],
+			[ "existiméis", "existimen" ],
+			[ "existimen" ]
+		],
+		"9" : [
+			[ "existimara" ],
+			[ "existimaras" ],
+			[ "existimara" ],
+			[ "existimáramos" ],
+			[ "existimarais", "existimaran" ],
+			[ "existimaran" ]
+		],
+		"10" : [
+			[ "existimase" ],
+			[ "existimases" ],
+			[ "existimase" ],
+			[ "existimásemos" ],
+			[ "existimaseis", "existimasen" ],
+			[ "existimasen" ]
+		],
+		"11" : [
+			[ "existimare" ],
+			[ "existimares" ],
+			[ "existimare" ],
+			[ "existimáremos" ],
+			[ "existimareis", "existimaren" ],
+			[ "existimaren" ]
+		],
+		"12" : {
+			"1" : [ "existima" ],
+			"2" : [ "existime" ],
+			"3" : [ "existimemos" ],
+			"4" : [ "existimad" ],
+			"5" : [ "existimen" ]
+		}
+	}
+}

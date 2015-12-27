@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encadenar",
+	"word" : "encadenar",
+	"infinitivo" : "encadenar",
+	"participio" : [ "encadenado" ],
+	"gerundio" : [ "encadenando" ],
+	"tenses" : {
+		"3" : [
+			[ "encadeno" ],
+			[ "encadenas", "encadenás" ],
+			[ "encadena" ],
+			[ "encadenamos" ],
+			[ "encadenáis", "encadenan" ],
+			[ "encadenan" ]
+		],
+		"4" : [
+			[ "encadené" ],
+			[ "encadenaste" ],
+			[ "encadenó" ],
+			[ "encadenamos" ],
+			[ "encadenasteis", "encadenaron" ],
+			[ "encadenaron" ]
+		],
+		"5" : [
+			[ "encadenaba" ],
+			[ "encadenabas" ],
+			[ "encadenaba" ],
+			[ "encadenábamos" ],
+			[ "encadenabais", "encadenaban" ],
+			[ "encadenaban" ]
+		],
+		"6" : [
+			[ "encadenaría" ],
+			[ "encadenarías" ],
+			[ "encadenaría" ],
+			[ "encadenaríamos" ],
+			[ "encadenaríais", "encadenarían" ],
+			[ "encadenarían" ]
+		],
+		"7" : [
+			[ "encadenaré" ],
+			[ "encadenarás" ],
+			[ "encadenará" ],
+			[ "encadenaremos" ],
+			[ "encadenaréis", "encadenarán" ],
+			[ "encadenarán" ]
+		],
+		"8" : [
+			[ "encadene" ],
+			[ "encadenes" ],
+			[ "encadene" ],
+			[ "encadenemos" ],
+			[ "encadenéis", "encadenen" ],
+			[ "encadenen" ]
+		],
+		"9" : [
+			[ "encadenara" ],
+			[ "encadenaras" ],
+			[ "encadenara" ],
+			[ "encadenáramos" ],
+			[ "encadenarais", "encadenaran" ],
+			[ "encadenaran" ]
+		],
+		"10" : [
+			[ "encadenase" ],
+			[ "encadenases" ],
+			[ "encadenase" ],
+			[ "encadenásemos" ],
+			[ "encadenaseis", "encadenasen" ],
+			[ "encadenasen" ]
+		],
+		"11" : [
+			[ "encadenare" ],
+			[ "encadenares" ],
+			[ "encadenare" ],
+			[ "encadenáremos" ],
+			[ "encadenareis", "encadenaren" ],
+			[ "encadenaren" ]
+		],
+		"12" : {
+			"1" : [ "encadena" ],
+			"2" : [ "encadene" ],
+			"3" : [ "encadenemos" ],
+			"4" : [ "encadenad" ],
+			"5" : [ "encadenen" ]
+		}
+	}
+}

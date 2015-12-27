@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cercenar",
+	"word" : "cercenar",
+	"infinitivo" : "cercenar",
+	"participio" : [ "cercenado" ],
+	"gerundio" : [ "cercenando" ],
+	"tenses" : {
+		"3" : [
+			[ "cerceno" ],
+			[ "cercenas", "cercenás" ],
+			[ "cercena" ],
+			[ "cercenamos" ],
+			[ "cercenáis", "cercenan" ],
+			[ "cercenan" ]
+		],
+		"4" : [
+			[ "cercené" ],
+			[ "cercenaste" ],
+			[ "cercenó" ],
+			[ "cercenamos" ],
+			[ "cercenasteis", "cercenaron" ],
+			[ "cercenaron" ]
+		],
+		"5" : [
+			[ "cercenaba" ],
+			[ "cercenabas" ],
+			[ "cercenaba" ],
+			[ "cercenábamos" ],
+			[ "cercenabais", "cercenaban" ],
+			[ "cercenaban" ]
+		],
+		"6" : [
+			[ "cercenaría" ],
+			[ "cercenarías" ],
+			[ "cercenaría" ],
+			[ "cercenaríamos" ],
+			[ "cercenaríais", "cercenarían" ],
+			[ "cercenarían" ]
+		],
+		"7" : [
+			[ "cercenaré" ],
+			[ "cercenarás" ],
+			[ "cercenará" ],
+			[ "cercenaremos" ],
+			[ "cercenaréis", "cercenarán" ],
+			[ "cercenarán" ]
+		],
+		"8" : [
+			[ "cercene" ],
+			[ "cercenes" ],
+			[ "cercene" ],
+			[ "cercenemos" ],
+			[ "cercenéis", "cercenen" ],
+			[ "cercenen" ]
+		],
+		"9" : [
+			[ "cercenara" ],
+			[ "cercenaras" ],
+			[ "cercenara" ],
+			[ "cercenáramos" ],
+			[ "cercenarais", "cercenaran" ],
+			[ "cercenaran" ]
+		],
+		"10" : [
+			[ "cercenase" ],
+			[ "cercenases" ],
+			[ "cercenase" ],
+			[ "cercenásemos" ],
+			[ "cercenaseis", "cercenasen" ],
+			[ "cercenasen" ]
+		],
+		"11" : [
+			[ "cercenare" ],
+			[ "cercenares" ],
+			[ "cercenare" ],
+			[ "cercenáremos" ],
+			[ "cercenareis", "cercenaren" ],
+			[ "cercenaren" ]
+		],
+		"12" : {
+			"1" : [ "cercena" ],
+			"2" : [ "cercene" ],
+			"3" : [ "cercenemos" ],
+			"4" : [ "cercenad" ],
+			"5" : [ "cercenen" ]
+		}
+	}
+}

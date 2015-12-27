@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=silabar",
+	"word" : "silabar",
+	"infinitivo" : "silabar",
+	"participio" : [ "silabado" ],
+	"gerundio" : [ "silabando" ],
+	"tenses" : {
+		"3" : [
+			[ "silabo" ],
+			[ "silabas", "silabás" ],
+			[ "silaba" ],
+			[ "silabamos" ],
+			[ "silabáis", "silaban" ],
+			[ "silaban" ]
+		],
+		"4" : [
+			[ "silabé" ],
+			[ "silabaste" ],
+			[ "silabó" ],
+			[ "silabamos" ],
+			[ "silabasteis", "silabaron" ],
+			[ "silabaron" ]
+		],
+		"5" : [
+			[ "silababa" ],
+			[ "silababas" ],
+			[ "silababa" ],
+			[ "silabábamos" ],
+			[ "silababais", "silababan" ],
+			[ "silababan" ]
+		],
+		"6" : [
+			[ "silabaría" ],
+			[ "silabarías" ],
+			[ "silabaría" ],
+			[ "silabaríamos" ],
+			[ "silabaríais", "silabarían" ],
+			[ "silabarían" ]
+		],
+		"7" : [
+			[ "silabaré" ],
+			[ "silabarás" ],
+			[ "silabará" ],
+			[ "silabaremos" ],
+			[ "silabaréis", "silabarán" ],
+			[ "silabarán" ]
+		],
+		"8" : [
+			[ "silabe" ],
+			[ "silabes" ],
+			[ "silabe" ],
+			[ "silabemos" ],
+			[ "silabéis", "silaben" ],
+			[ "silaben" ]
+		],
+		"9" : [
+			[ "silabara" ],
+			[ "silabaras" ],
+			[ "silabara" ],
+			[ "silabáramos" ],
+			[ "silabarais", "silabaran" ],
+			[ "silabaran" ]
+		],
+		"10" : [
+			[ "silabase" ],
+			[ "silabases" ],
+			[ "silabase" ],
+			[ "silabásemos" ],
+			[ "silabaseis", "silabasen" ],
+			[ "silabasen" ]
+		],
+		"11" : [
+			[ "silabare" ],
+			[ "silabares" ],
+			[ "silabare" ],
+			[ "silabáremos" ],
+			[ "silabareis", "silabaren" ],
+			[ "silabaren" ]
+		],
+		"12" : {
+			"1" : [ "silaba" ],
+			"2" : [ "silabe" ],
+			"3" : [ "silabemos" ],
+			"4" : [ "silabad" ],
+			"5" : [ "silaben" ]
+		}
+	}
+}

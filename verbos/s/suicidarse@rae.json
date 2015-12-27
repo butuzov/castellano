@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=suicidarse",
+	"word" : "suicidarse",
+	"infinitivo" : "suicidarse",
+	"participio" : [ "suicidado" ],
+	"gerundio" : [ "suicidándome", "suicidándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me suicido" ],
+			[ "te suicidas", "te suicidás" ],
+			[ "se suicida" ],
+			[ "nos suicidamos" ],
+			[ "os suicidáis", "se suicidan" ],
+			[ "se suicidan" ]
+		],
+		"4" : [
+			[ "me suicidé" ],
+			[ "te suicidaste" ],
+			[ "se suicidó" ],
+			[ "nos suicidamos" ],
+			[ "os suicidasteis", "se suicidaron" ],
+			[ "se suicidaron" ]
+		],
+		"5" : [
+			[ "me suicidaba" ],
+			[ "te suicidabas" ],
+			[ "se suicidaba" ],
+			[ "nos suicidábamos" ],
+			[ "os suicidabais", "se suicidaban" ],
+			[ "se suicidaban" ]
+		],
+		"6" : [
+			[ "me suicidaría" ],
+			[ "te suicidarías" ],
+			[ "se suicidaría" ],
+			[ "nos suicidaríamos" ],
+			[ "os suicidaríais", "se suicidarían" ],
+			[ "se suicidarían" ]
+		],
+		"7" : [
+			[ "me suicidaré" ],
+			[ "te suicidarás" ],
+			[ "se suicidará" ],
+			[ "nos suicidaremos" ],
+			[ "os suicidaréis", "se suicidarán" ],
+			[ "se suicidarán" ]
+		],
+		"8" : [
+			[ "me suicide" ],
+			[ "te suicides" ],
+			[ "se suicide" ],
+			[ "nos suicidemos" ],
+			[ "os suicidéis", "se suiciden" ],
+			[ "se suiciden" ]
+		],
+		"9" : [
+			[ "me suicidara" ],
+			[ "te suicidaras" ],
+			[ "se suicidara" ],
+			[ "nos suicidáramos" ],
+			[ "os suicidarais", "se suicidaran" ],
+			[ "se suicidaran" ]
+		],
+		"10" : [
+			[ "me suicidase" ],
+			[ "te suicidases" ],
+			[ "se suicidase" ],
+			[ "nos suicidásemos" ],
+			[ "os suicidaseis", "se suicidasen" ],
+			[ "se suicidasen" ]
+		],
+		"11" : [
+			[ "me suicidare" ],
+			[ "te suicidares" ],
+			[ "se suicidare" ],
+			[ "nos suicidáremos" ],
+			[ "os suicidareis", "se suicidaren" ],
+			[ "se suicidaren" ]
+		],
+		"12" : {
+			"1" : [ "suicídate" ],
+			"2" : [ "suicide" ],
+			"3" : [ "suicidemos" ],
+			"4" : [ "suicidaos" ],
+			"5" : [ "suicídense" ]
+		}
+	}
+}

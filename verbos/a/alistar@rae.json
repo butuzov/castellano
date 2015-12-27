@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alistar",
+	"word" : "alistar",
+	"infinitivo" : "alistar",
+	"participio" : [ "alistado" ],
+	"gerundio" : [ "alistando" ],
+	"tenses" : {
+		"3" : [
+			[ "alisto" ],
+			[ "alistas", "alistás" ],
+			[ "alista" ],
+			[ "alistamos" ],
+			[ "alistáis", "alistan" ],
+			[ "alistan" ]
+		],
+		"4" : [
+			[ "alisté" ],
+			[ "alistaste" ],
+			[ "alistó" ],
+			[ "alistamos" ],
+			[ "alistasteis", "alistaron" ],
+			[ "alistaron" ]
+		],
+		"5" : [
+			[ "alistaba" ],
+			[ "alistabas" ],
+			[ "alistaba" ],
+			[ "alistábamos" ],
+			[ "alistabais", "alistaban" ],
+			[ "alistaban" ]
+		],
+		"6" : [
+			[ "alistaría" ],
+			[ "alistarías" ],
+			[ "alistaría" ],
+			[ "alistaríamos" ],
+			[ "alistaríais", "alistarían" ],
+			[ "alistarían" ]
+		],
+		"7" : [
+			[ "alistaré" ],
+			[ "alistarás" ],
+			[ "alistará" ],
+			[ "alistaremos" ],
+			[ "alistaréis", "alistarán" ],
+			[ "alistarán" ]
+		],
+		"8" : [
+			[ "aliste" ],
+			[ "alistes" ],
+			[ "aliste" ],
+			[ "alistemos" ],
+			[ "alistéis", "alisten" ],
+			[ "alisten" ]
+		],
+		"9" : [
+			[ "alistara" ],
+			[ "alistaras" ],
+			[ "alistara" ],
+			[ "alistáramos" ],
+			[ "alistarais", "alistaran" ],
+			[ "alistaran" ]
+		],
+		"10" : [
+			[ "alistase" ],
+			[ "alistases" ],
+			[ "alistase" ],
+			[ "alistásemos" ],
+			[ "alistaseis", "alistasen" ],
+			[ "alistasen" ]
+		],
+		"11" : [
+			[ "alistare" ],
+			[ "alistares" ],
+			[ "alistare" ],
+			[ "alistáremos" ],
+			[ "alistareis", "alistaren" ],
+			[ "alistaren" ]
+		],
+		"12" : {
+			"1" : [ "alista" ],
+			"2" : [ "aliste" ],
+			"3" : [ "alistemos" ],
+			"4" : [ "alistad" ],
+			"5" : [ "alisten" ]
+		}
+	}
+}

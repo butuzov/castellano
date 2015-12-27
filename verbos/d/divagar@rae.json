@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=divagar",
+	"word" : "divagar",
+	"infinitivo" : "divagar",
+	"participio" : [ "divagado" ],
+	"gerundio" : [ "divagando" ],
+	"tenses" : {
+		"3" : [
+			[ "divago" ],
+			[ "divagas", "divagás" ],
+			[ "divaga" ],
+			[ "divagamos" ],
+			[ "divagáis", "divagan" ],
+			[ "divagan" ]
+		],
+		"4" : [
+			[ "divagué" ],
+			[ "divagaste" ],
+			[ "divagó" ],
+			[ "divagamos" ],
+			[ "divagasteis", "divagaron" ],
+			[ "divagaron" ]
+		],
+		"5" : [
+			[ "divagaba" ],
+			[ "divagabas" ],
+			[ "divagaba" ],
+			[ "divagábamos" ],
+			[ "divagabais", "divagaban" ],
+			[ "divagaban" ]
+		],
+		"6" : [
+			[ "divagaría" ],
+			[ "divagarías" ],
+			[ "divagaría" ],
+			[ "divagaríamos" ],
+			[ "divagaríais", "divagarían" ],
+			[ "divagarían" ]
+		],
+		"7" : [
+			[ "divagaré" ],
+			[ "divagarás" ],
+			[ "divagará" ],
+			[ "divagaremos" ],
+			[ "divagaréis", "divagarán" ],
+			[ "divagarán" ]
+		],
+		"8" : [
+			[ "divague" ],
+			[ "divagues" ],
+			[ "divague" ],
+			[ "divaguemos" ],
+			[ "divaguéis", "divaguen" ],
+			[ "divaguen" ]
+		],
+		"9" : [
+			[ "divagara" ],
+			[ "divagaras" ],
+			[ "divagara" ],
+			[ "divagáramos" ],
+			[ "divagarais", "divagaran" ],
+			[ "divagaran" ]
+		],
+		"10" : [
+			[ "divagase" ],
+			[ "divagases" ],
+			[ "divagase" ],
+			[ "divagásemos" ],
+			[ "divagaseis", "divagasen" ],
+			[ "divagasen" ]
+		],
+		"11" : [
+			[ "divagare" ],
+			[ "divagares" ],
+			[ "divagare" ],
+			[ "divagáremos" ],
+			[ "divagareis", "divagaren" ],
+			[ "divagaren" ]
+		],
+		"12" : {
+			"1" : [ "divaga" ],
+			"2" : [ "divague" ],
+			"3" : [ "divaguemos" ],
+			"4" : [ "divagad" ],
+			"5" : [ "divaguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aguijar",
+	"word" : "aguijar",
+	"infinitivo" : "aguijar",
+	"participio" : [ "aguijado" ],
+	"gerundio" : [ "aguijando" ],
+	"tenses" : {
+		"3" : [
+			[ "aguijo" ],
+			[ "aguijas", "aguijás" ],
+			[ "aguija" ],
+			[ "aguijamos" ],
+			[ "aguijáis", "aguijan" ],
+			[ "aguijan" ]
+		],
+		"4" : [
+			[ "aguijé" ],
+			[ "aguijaste" ],
+			[ "aguijó" ],
+			[ "aguijamos" ],
+			[ "aguijasteis", "aguijaron" ],
+			[ "aguijaron" ]
+		],
+		"5" : [
+			[ "aguijaba" ],
+			[ "aguijabas" ],
+			[ "aguijaba" ],
+			[ "aguijábamos" ],
+			[ "aguijabais", "aguijaban" ],
+			[ "aguijaban" ]
+		],
+		"6" : [
+			[ "aguijaría" ],
+			[ "aguijarías" ],
+			[ "aguijaría" ],
+			[ "aguijaríamos" ],
+			[ "aguijaríais", "aguijarían" ],
+			[ "aguijarían" ]
+		],
+		"7" : [
+			[ "aguijaré" ],
+			[ "aguijarás" ],
+			[ "aguijará" ],
+			[ "aguijaremos" ],
+			[ "aguijaréis", "aguijarán" ],
+			[ "aguijarán" ]
+		],
+		"8" : [
+			[ "aguije" ],
+			[ "aguijes" ],
+			[ "aguije" ],
+			[ "aguijemos" ],
+			[ "aguijéis", "aguijen" ],
+			[ "aguijen" ]
+		],
+		"9" : [
+			[ "aguijara" ],
+			[ "aguijaras" ],
+			[ "aguijara" ],
+			[ "aguijáramos" ],
+			[ "aguijarais", "aguijaran" ],
+			[ "aguijaran" ]
+		],
+		"10" : [
+			[ "aguijase" ],
+			[ "aguijases" ],
+			[ "aguijase" ],
+			[ "aguijásemos" ],
+			[ "aguijaseis", "aguijasen" ],
+			[ "aguijasen" ]
+		],
+		"11" : [
+			[ "aguijare" ],
+			[ "aguijares" ],
+			[ "aguijare" ],
+			[ "aguijáremos" ],
+			[ "aguijareis", "aguijaren" ],
+			[ "aguijaren" ]
+		],
+		"12" : {
+			"1" : [ "aguija" ],
+			"2" : [ "aguije" ],
+			"3" : [ "aguijemos" ],
+			"4" : [ "aguijad" ],
+			"5" : [ "aguijen" ]
+		}
+	}
+}

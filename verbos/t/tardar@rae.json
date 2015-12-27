@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tardar",
+	"word" : "tardar",
+	"infinitivo" : "tardar",
+	"participio" : [ "tardado" ],
+	"gerundio" : [ "tardando" ],
+	"tenses" : {
+		"3" : [
+			[ "tardo" ],
+			[ "tardas", "tardás" ],
+			[ "tarda" ],
+			[ "tardamos" ],
+			[ "tardáis", "tardan" ],
+			[ "tardan" ]
+		],
+		"4" : [
+			[ "tardé" ],
+			[ "tardaste" ],
+			[ "tardó" ],
+			[ "tardamos" ],
+			[ "tardasteis", "tardaron" ],
+			[ "tardaron" ]
+		],
+		"5" : [
+			[ "tardaba" ],
+			[ "tardabas" ],
+			[ "tardaba" ],
+			[ "tardábamos" ],
+			[ "tardabais", "tardaban" ],
+			[ "tardaban" ]
+		],
+		"6" : [
+			[ "tardaría" ],
+			[ "tardarías" ],
+			[ "tardaría" ],
+			[ "tardaríamos" ],
+			[ "tardaríais", "tardarían" ],
+			[ "tardarían" ]
+		],
+		"7" : [
+			[ "tardaré" ],
+			[ "tardarás" ],
+			[ "tardará" ],
+			[ "tardaremos" ],
+			[ "tardaréis", "tardarán" ],
+			[ "tardarán" ]
+		],
+		"8" : [
+			[ "tarde" ],
+			[ "tardes" ],
+			[ "tarde" ],
+			[ "tardemos" ],
+			[ "tardéis", "tarden" ],
+			[ "tarden" ]
+		],
+		"9" : [
+			[ "tardara" ],
+			[ "tardaras" ],
+			[ "tardara" ],
+			[ "tardáramos" ],
+			[ "tardarais", "tardaran" ],
+			[ "tardaran" ]
+		],
+		"10" : [
+			[ "tardase" ],
+			[ "tardases" ],
+			[ "tardase" ],
+			[ "tardásemos" ],
+			[ "tardaseis", "tardasen" ],
+			[ "tardasen" ]
+		],
+		"11" : [
+			[ "tardare" ],
+			[ "tardares" ],
+			[ "tardare" ],
+			[ "tardáremos" ],
+			[ "tardareis", "tardaren" ],
+			[ "tardaren" ]
+		],
+		"12" : {
+			"1" : [ "tarda" ],
+			"2" : [ "tarde" ],
+			"3" : [ "tardemos" ],
+			"4" : [ "tardad" ],
+			"5" : [ "tarden" ]
+		}
+	}
+}

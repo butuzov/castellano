@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=caminar",
+	"word" : "caminar",
+	"infinitivo" : "caminar",
+	"participio" : [ "caminado" ],
+	"gerundio" : [ "caminando" ],
+	"tenses" : {
+		"3" : [
+			[ "camino" ],
+			[ "caminas", "caminás" ],
+			[ "camina" ],
+			[ "caminamos" ],
+			[ "camináis", "caminan" ],
+			[ "caminan" ]
+		],
+		"4" : [
+			[ "caminé" ],
+			[ "caminaste" ],
+			[ "caminó" ],
+			[ "caminamos" ],
+			[ "caminasteis", "caminaron" ],
+			[ "caminaron" ]
+		],
+		"5" : [
+			[ "caminaba" ],
+			[ "caminabas" ],
+			[ "caminaba" ],
+			[ "caminábamos" ],
+			[ "caminabais", "caminaban" ],
+			[ "caminaban" ]
+		],
+		"6" : [
+			[ "caminaría" ],
+			[ "caminarías" ],
+			[ "caminaría" ],
+			[ "caminaríamos" ],
+			[ "caminaríais", "caminarían" ],
+			[ "caminarían" ]
+		],
+		"7" : [
+			[ "caminaré" ],
+			[ "caminarás" ],
+			[ "caminará" ],
+			[ "caminaremos" ],
+			[ "caminaréis", "caminarán" ],
+			[ "caminarán" ]
+		],
+		"8" : [
+			[ "camine" ],
+			[ "camines" ],
+			[ "camine" ],
+			[ "caminemos" ],
+			[ "caminéis", "caminen" ],
+			[ "caminen" ]
+		],
+		"9" : [
+			[ "caminara" ],
+			[ "caminaras" ],
+			[ "caminara" ],
+			[ "camináramos" ],
+			[ "caminarais", "caminaran" ],
+			[ "caminaran" ]
+		],
+		"10" : [
+			[ "caminase" ],
+			[ "caminases" ],
+			[ "caminase" ],
+			[ "caminásemos" ],
+			[ "caminaseis", "caminasen" ],
+			[ "caminasen" ]
+		],
+		"11" : [
+			[ "caminare" ],
+			[ "caminares" ],
+			[ "caminare" ],
+			[ "camináremos" ],
+			[ "caminareis", "caminaren" ],
+			[ "caminaren" ]
+		],
+		"12" : {
+			"1" : [ "camina" ],
+			"2" : [ "camine" ],
+			"3" : [ "caminemos" ],
+			"4" : [ "caminad" ],
+			"5" : [ "caminen" ]
+		}
+	}
+}

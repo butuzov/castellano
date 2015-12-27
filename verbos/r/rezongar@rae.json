@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rezongar",
+	"word" : "rezongar",
+	"infinitivo" : "rezongar",
+	"participio" : [ "rezongado" ],
+	"gerundio" : [ "rezongando" ],
+	"tenses" : {
+		"3" : [
+			[ "rezongo" ],
+			[ "rezongas", "rezongás" ],
+			[ "rezonga" ],
+			[ "rezongamos" ],
+			[ "rezongáis", "rezongan" ],
+			[ "rezongan" ]
+		],
+		"4" : [
+			[ "rezongué" ],
+			[ "rezongaste" ],
+			[ "rezongó" ],
+			[ "rezongamos" ],
+			[ "rezongasteis", "rezongaron" ],
+			[ "rezongaron" ]
+		],
+		"5" : [
+			[ "rezongaba" ],
+			[ "rezongabas" ],
+			[ "rezongaba" ],
+			[ "rezongábamos" ],
+			[ "rezongabais", "rezongaban" ],
+			[ "rezongaban" ]
+		],
+		"6" : [
+			[ "rezongaría" ],
+			[ "rezongarías" ],
+			[ "rezongaría" ],
+			[ "rezongaríamos" ],
+			[ "rezongaríais", "rezongarían" ],
+			[ "rezongarían" ]
+		],
+		"7" : [
+			[ "rezongaré" ],
+			[ "rezongarás" ],
+			[ "rezongará" ],
+			[ "rezongaremos" ],
+			[ "rezongaréis", "rezongarán" ],
+			[ "rezongarán" ]
+		],
+		"8" : [
+			[ "rezongue" ],
+			[ "rezongues" ],
+			[ "rezongue" ],
+			[ "rezonguemos" ],
+			[ "rezonguéis", "rezonguen" ],
+			[ "rezonguen" ]
+		],
+		"9" : [
+			[ "rezongara" ],
+			[ "rezongaras" ],
+			[ "rezongara" ],
+			[ "rezongáramos" ],
+			[ "rezongarais", "rezongaran" ],
+			[ "rezongaran" ]
+		],
+		"10" : [
+			[ "rezongase" ],
+			[ "rezongases" ],
+			[ "rezongase" ],
+			[ "rezongásemos" ],
+			[ "rezongaseis", "rezongasen" ],
+			[ "rezongasen" ]
+		],
+		"11" : [
+			[ "rezongare" ],
+			[ "rezongares" ],
+			[ "rezongare" ],
+			[ "rezongáremos" ],
+			[ "rezongareis", "rezongaren" ],
+			[ "rezongaren" ]
+		],
+		"12" : {
+			"1" : [ "rezonga" ],
+			"2" : [ "rezongue" ],
+			"3" : [ "rezonguemos" ],
+			"4" : [ "rezongad" ],
+			"5" : [ "rezonguen" ]
+		}
+	}
+}

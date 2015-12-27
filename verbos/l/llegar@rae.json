@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=llegar",
+	"word" : "llegar",
+	"infinitivo" : "llegar",
+	"participio" : [ "llegado" ],
+	"gerundio" : [ "llegando" ],
+	"tenses" : {
+		"3" : [
+			[ "llego" ],
+			[ "llegas", "llegás" ],
+			[ "llega" ],
+			[ "llegamos" ],
+			[ "llegáis", "llegan" ],
+			[ "llegan" ]
+		],
+		"4" : [
+			[ "llegué" ],
+			[ "llegaste" ],
+			[ "llegó" ],
+			[ "llegamos" ],
+			[ "llegasteis", "llegaron" ],
+			[ "llegaron" ]
+		],
+		"5" : [
+			[ "llegaba" ],
+			[ "llegabas" ],
+			[ "llegaba" ],
+			[ "llegábamos" ],
+			[ "llegabais", "llegaban" ],
+			[ "llegaban" ]
+		],
+		"6" : [
+			[ "llegaría" ],
+			[ "llegarías" ],
+			[ "llegaría" ],
+			[ "llegaríamos" ],
+			[ "llegaríais", "llegarían" ],
+			[ "llegarían" ]
+		],
+		"7" : [
+			[ "llegaré" ],
+			[ "llegarás" ],
+			[ "llegará" ],
+			[ "llegaremos" ],
+			[ "llegaréis", "llegarán" ],
+			[ "llegarán" ]
+		],
+		"8" : [
+			[ "llegue" ],
+			[ "llegues" ],
+			[ "llegue" ],
+			[ "lleguemos" ],
+			[ "lleguéis", "lleguen" ],
+			[ "lleguen" ]
+		],
+		"9" : [
+			[ "llegara" ],
+			[ "llegaras" ],
+			[ "llegara" ],
+			[ "llegáramos" ],
+			[ "llegarais", "llegaran" ],
+			[ "llegaran" ]
+		],
+		"10" : [
+			[ "llegase" ],
+			[ "llegases" ],
+			[ "llegase" ],
+			[ "llegásemos" ],
+			[ "llegaseis", "llegasen" ],
+			[ "llegasen" ]
+		],
+		"11" : [
+			[ "llegare" ],
+			[ "llegares" ],
+			[ "llegare" ],
+			[ "llegáremos" ],
+			[ "llegareis", "llegaren" ],
+			[ "llegaren" ]
+		],
+		"12" : {
+			"1" : [ "llega" ],
+			"2" : [ "llegue" ],
+			"3" : [ "lleguemos" ],
+			"4" : [ "llegad" ],
+			"5" : [ "lleguen" ]
+		}
+	}
+}

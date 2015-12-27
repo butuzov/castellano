@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gesticular",
+	"word" : "gesticular",
+	"infinitivo" : "gesticular",
+	"participio" : [ "gesticulado" ],
+	"gerundio" : [ "gesticulando" ],
+	"tenses" : {
+		"3" : [
+			[ "gesticulo" ],
+			[ "gesticulas", "gesticulás" ],
+			[ "gesticula" ],
+			[ "gesticulamos" ],
+			[ "gesticuláis", "gesticulan" ],
+			[ "gesticulan" ]
+		],
+		"4" : [
+			[ "gesticulé" ],
+			[ "gesticulaste" ],
+			[ "gesticuló" ],
+			[ "gesticulamos" ],
+			[ "gesticulasteis", "gesticularon" ],
+			[ "gesticularon" ]
+		],
+		"5" : [
+			[ "gesticulaba" ],
+			[ "gesticulabas" ],
+			[ "gesticulaba" ],
+			[ "gesticulábamos" ],
+			[ "gesticulabais", "gesticulaban" ],
+			[ "gesticulaban" ]
+		],
+		"6" : [
+			[ "gesticularía" ],
+			[ "gesticularías" ],
+			[ "gesticularía" ],
+			[ "gesticularíamos" ],
+			[ "gesticularíais", "gesticularían" ],
+			[ "gesticularían" ]
+		],
+		"7" : [
+			[ "gesticularé" ],
+			[ "gesticularás" ],
+			[ "gesticulará" ],
+			[ "gesticularemos" ],
+			[ "gesticularéis", "gesticularán" ],
+			[ "gesticularán" ]
+		],
+		"8" : [
+			[ "gesticule" ],
+			[ "gesticules" ],
+			[ "gesticule" ],
+			[ "gesticulemos" ],
+			[ "gesticuléis", "gesticulen" ],
+			[ "gesticulen" ]
+		],
+		"9" : [
+			[ "gesticulara" ],
+			[ "gesticularas" ],
+			[ "gesticulara" ],
+			[ "gesticuláramos" ],
+			[ "gesticularais", "gesticularan" ],
+			[ "gesticularan" ]
+		],
+		"10" : [
+			[ "gesticulase" ],
+			[ "gesticulases" ],
+			[ "gesticulase" ],
+			[ "gesticulásemos" ],
+			[ "gesticulaseis", "gesticulasen" ],
+			[ "gesticulasen" ]
+		],
+		"11" : [
+			[ "gesticulare" ],
+			[ "gesticulares" ],
+			[ "gesticulare" ],
+			[ "gesticuláremos" ],
+			[ "gesticulareis", "gesticularen" ],
+			[ "gesticularen" ]
+		],
+		"12" : {
+			"1" : [ "gesticula" ],
+			"2" : [ "gesticule" ],
+			"3" : [ "gesticulemos" ],
+			"4" : [ "gesticulad" ],
+			"5" : [ "gesticulen" ]
+		}
+	}
+}

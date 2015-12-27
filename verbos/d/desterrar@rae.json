@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desterrar",
+	"word" : "desterrar",
+	"infinitivo" : "desterrar",
+	"participio" : [ "desterrado" ],
+	"gerundio" : [ "desterrando" ],
+	"tenses" : {
+		"3" : [
+			[ "destierro" ],
+			[ "destierras", "desterrás" ],
+			[ "destierra" ],
+			[ "desterramos" ],
+			[ "desterráis", "destierran" ],
+			[ "destierran" ]
+		],
+		"4" : [
+			[ "desterré" ],
+			[ "desterraste" ],
+			[ "desterró" ],
+			[ "desterramos" ],
+			[ "desterrasteis", "desterraron" ],
+			[ "desterraron" ]
+		],
+		"5" : [
+			[ "desterraba" ],
+			[ "desterrabas" ],
+			[ "desterraba" ],
+			[ "desterrábamos" ],
+			[ "desterrabais", "desterraban" ],
+			[ "desterraban" ]
+		],
+		"6" : [
+			[ "desterraría" ],
+			[ "desterrarías" ],
+			[ "desterraría" ],
+			[ "desterraríamos" ],
+			[ "desterraríais", "desterrarían" ],
+			[ "desterrarían" ]
+		],
+		"7" : [
+			[ "desterraré" ],
+			[ "desterrarás" ],
+			[ "desterrará" ],
+			[ "desterraremos" ],
+			[ "desterraréis", "desterrarán" ],
+			[ "desterrarán" ]
+		],
+		"8" : [
+			[ "destierre" ],
+			[ "destierres" ],
+			[ "destierre" ],
+			[ "desterremos" ],
+			[ "desterréis", "destierren" ],
+			[ "destierren" ]
+		],
+		"9" : [
+			[ "desterrara" ],
+			[ "desterraras" ],
+			[ "desterrara" ],
+			[ "desterráramos" ],
+			[ "desterrarais", "desterraran" ],
+			[ "desterraran" ]
+		],
+		"10" : [
+			[ "desterrase" ],
+			[ "desterrases" ],
+			[ "desterrase" ],
+			[ "desterrásemos" ],
+			[ "desterraseis", "desterrasen" ],
+			[ "desterrasen" ]
+		],
+		"11" : [
+			[ "desterrare" ],
+			[ "desterrares" ],
+			[ "desterrare" ],
+			[ "desterráremos" ],
+			[ "desterrareis", "desterraren" ],
+			[ "desterraren" ]
+		],
+		"12" : {
+			"1" : [ "destierra" ],
+			"2" : [ "destierre" ],
+			"3" : [ "desterremos" ],
+			"4" : [ "desterrad" ],
+			"5" : [ "destierren" ]
+		}
+	}
+}

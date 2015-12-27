@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=auditar",
+	"word" : "auditar",
+	"infinitivo" : "auditar",
+	"participio" : [ "auditado" ],
+	"gerundio" : [ "auditando" ],
+	"tenses" : {
+		"3" : [
+			[ "audito" ],
+			[ "auditas", "auditás" ],
+			[ "audita" ],
+			[ "auditamos" ],
+			[ "auditáis", "auditan" ],
+			[ "auditan" ]
+		],
+		"4" : [
+			[ "audité" ],
+			[ "auditaste" ],
+			[ "auditó" ],
+			[ "auditamos" ],
+			[ "auditasteis", "auditaron" ],
+			[ "auditaron" ]
+		],
+		"5" : [
+			[ "auditaba" ],
+			[ "auditabas" ],
+			[ "auditaba" ],
+			[ "auditábamos" ],
+			[ "auditabais", "auditaban" ],
+			[ "auditaban" ]
+		],
+		"6" : [
+			[ "auditaría" ],
+			[ "auditarías" ],
+			[ "auditaría" ],
+			[ "auditaríamos" ],
+			[ "auditaríais", "auditarían" ],
+			[ "auditarían" ]
+		],
+		"7" : [
+			[ "auditaré" ],
+			[ "auditarás" ],
+			[ "auditará" ],
+			[ "auditaremos" ],
+			[ "auditaréis", "auditarán" ],
+			[ "auditarán" ]
+		],
+		"8" : [
+			[ "audite" ],
+			[ "audites" ],
+			[ "audite" ],
+			[ "auditemos" ],
+			[ "auditéis", "auditen" ],
+			[ "auditen" ]
+		],
+		"9" : [
+			[ "auditara" ],
+			[ "auditaras" ],
+			[ "auditara" ],
+			[ "auditáramos" ],
+			[ "auditarais", "auditaran" ],
+			[ "auditaran" ]
+		],
+		"10" : [
+			[ "auditase" ],
+			[ "auditases" ],
+			[ "auditase" ],
+			[ "auditásemos" ],
+			[ "auditaseis", "auditasen" ],
+			[ "auditasen" ]
+		],
+		"11" : [
+			[ "auditare" ],
+			[ "auditares" ],
+			[ "auditare" ],
+			[ "auditáremos" ],
+			[ "auditareis", "auditaren" ],
+			[ "auditaren" ]
+		],
+		"12" : {
+			"1" : [ "audita" ],
+			"2" : [ "audite" ],
+			"3" : [ "auditemos" ],
+			"4" : [ "auditad" ],
+			"5" : [ "auditen" ]
+		}
+	}
+}

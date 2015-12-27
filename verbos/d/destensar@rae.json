@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=destensar",
+	"word" : "destensar",
+	"infinitivo" : "destensar",
+	"participio" : [ "destensado" ],
+	"gerundio" : [ "destensando" ],
+	"tenses" : {
+		"3" : [
+			[ "destenso" ],
+			[ "destensas", "destensás" ],
+			[ "destensa" ],
+			[ "destensamos" ],
+			[ "destensáis", "destensan" ],
+			[ "destensan" ]
+		],
+		"4" : [
+			[ "destensé" ],
+			[ "destensaste" ],
+			[ "destensó" ],
+			[ "destensamos" ],
+			[ "destensasteis", "destensaron" ],
+			[ "destensaron" ]
+		],
+		"5" : [
+			[ "destensaba" ],
+			[ "destensabas" ],
+			[ "destensaba" ],
+			[ "destensábamos" ],
+			[ "destensabais", "destensaban" ],
+			[ "destensaban" ]
+		],
+		"6" : [
+			[ "destensaría" ],
+			[ "destensarías" ],
+			[ "destensaría" ],
+			[ "destensaríamos" ],
+			[ "destensaríais", "destensarían" ],
+			[ "destensarían" ]
+		],
+		"7" : [
+			[ "destensaré" ],
+			[ "destensarás" ],
+			[ "destensará" ],
+			[ "destensaremos" ],
+			[ "destensaréis", "destensarán" ],
+			[ "destensarán" ]
+		],
+		"8" : [
+			[ "destense" ],
+			[ "destenses" ],
+			[ "destense" ],
+			[ "destensemos" ],
+			[ "destenséis", "destensen" ],
+			[ "destensen" ]
+		],
+		"9" : [
+			[ "destensara" ],
+			[ "destensaras" ],
+			[ "destensara" ],
+			[ "destensáramos" ],
+			[ "destensarais", "destensaran" ],
+			[ "destensaran" ]
+		],
+		"10" : [
+			[ "destensase" ],
+			[ "destensases" ],
+			[ "destensase" ],
+			[ "destensásemos" ],
+			[ "destensaseis", "destensasen" ],
+			[ "destensasen" ]
+		],
+		"11" : [
+			[ "destensare" ],
+			[ "destensares" ],
+			[ "destensare" ],
+			[ "destensáremos" ],
+			[ "destensareis", "destensaren" ],
+			[ "destensaren" ]
+		],
+		"12" : {
+			"1" : [ "destensa" ],
+			"2" : [ "destense" ],
+			"3" : [ "destensemos" ],
+			"4" : [ "destensad" ],
+			"5" : [ "destensen" ]
+		}
+	}
+}

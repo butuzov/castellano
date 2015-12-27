@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=demoler",
+	"word" : "demoler",
+	"infinitivo" : "demoler",
+	"participio" : [ "demolido" ],
+	"gerundio" : [ "demoliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "demuelo" ],
+			[ "demueles", "demolés" ],
+			[ "demuele" ],
+			[ "demolemos" ],
+			[ "demoléis", "demuelen" ],
+			[ "demuelen" ]
+		],
+		"4" : [
+			[ "demolí" ],
+			[ "demoliste" ],
+			[ "demolió" ],
+			[ "demolimos" ],
+			[ "demolisteis", "demolieron" ],
+			[ "demolieron" ]
+		],
+		"5" : [
+			[ "demolía" ],
+			[ "demolías" ],
+			[ "demolía" ],
+			[ "demolíamos" ],
+			[ "demolíais", "demolían" ],
+			[ "demolían" ]
+		],
+		"6" : [
+			[ "demolería" ],
+			[ "demolerías" ],
+			[ "demolería" ],
+			[ "demoleríamos" ],
+			[ "demoleríais", "demolerían" ],
+			[ "demolerían" ]
+		],
+		"7" : [
+			[ "demoleré" ],
+			[ "demolerás" ],
+			[ "demolerá" ],
+			[ "demoleremos" ],
+			[ "demoleréis", "demolerán" ],
+			[ "demolerán" ]
+		],
+		"8" : [
+			[ "demuela" ],
+			[ "demuelas" ],
+			[ "demuela" ],
+			[ "demolamos" ],
+			[ "demoláis", "demuelan" ],
+			[ "demuelan" ]
+		],
+		"9" : [
+			[ "demoliera" ],
+			[ "demolieras" ],
+			[ "demoliera" ],
+			[ "demoliéramos" ],
+			[ "demolierais", "demolieran" ],
+			[ "demolieran" ]
+		],
+		"10" : [
+			[ "demoliese" ],
+			[ "demolieses" ],
+			[ "demoliese" ],
+			[ "demoliésemos" ],
+			[ "demolieseis", "demoliesen" ],
+			[ "demoliesen" ]
+		],
+		"11" : [
+			[ "demoliere" ],
+			[ "demolieres" ],
+			[ "demoliere" ],
+			[ "demoliéremos" ],
+			[ "demoliereis", "demolieren" ],
+			[ "demolieren" ]
+		],
+		"12" : {
+			"1" : [ "demuele" ],
+			"2" : [ "demuela" ],
+			"3" : [ "demolamos" ],
+			"4" : [ "demoled" ],
+			"5" : [ "demuelan" ]
+		}
+	}
+}

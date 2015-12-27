@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=zarpar",
+	"word" : "zarpar",
+	"infinitivo" : "zarpar",
+	"participio" : [ "zarpado" ],
+	"gerundio" : [ "zarpando" ],
+	"tenses" : {
+		"3" : [
+			[ "zarpo" ],
+			[ "zarpas", "zarpás" ],
+			[ "zarpa" ],
+			[ "zarpamos" ],
+			[ "zarpáis", "zarpan" ],
+			[ "zarpan" ]
+		],
+		"4" : [
+			[ "zarpé" ],
+			[ "zarpaste" ],
+			[ "zarpó" ],
+			[ "zarpamos" ],
+			[ "zarpasteis", "zarparon" ],
+			[ "zarparon" ]
+		],
+		"5" : [
+			[ "zarpaba" ],
+			[ "zarpabas" ],
+			[ "zarpaba" ],
+			[ "zarpábamos" ],
+			[ "zarpabais", "zarpaban" ],
+			[ "zarpaban" ]
+		],
+		"6" : [
+			[ "zarparía" ],
+			[ "zarparías" ],
+			[ "zarparía" ],
+			[ "zarparíamos" ],
+			[ "zarparíais", "zarparían" ],
+			[ "zarparían" ]
+		],
+		"7" : [
+			[ "zarparé" ],
+			[ "zarparás" ],
+			[ "zarpará" ],
+			[ "zarparemos" ],
+			[ "zarparéis", "zarparán" ],
+			[ "zarparán" ]
+		],
+		"8" : [
+			[ "zarpe" ],
+			[ "zarpes" ],
+			[ "zarpe" ],
+			[ "zarpemos" ],
+			[ "zarpéis", "zarpen" ],
+			[ "zarpen" ]
+		],
+		"9" : [
+			[ "zarpara" ],
+			[ "zarparas" ],
+			[ "zarpara" ],
+			[ "zarpáramos" ],
+			[ "zarparais", "zarparan" ],
+			[ "zarparan" ]
+		],
+		"10" : [
+			[ "zarpase" ],
+			[ "zarpases" ],
+			[ "zarpase" ],
+			[ "zarpásemos" ],
+			[ "zarpaseis", "zarpasen" ],
+			[ "zarpasen" ]
+		],
+		"11" : [
+			[ "zarpare" ],
+			[ "zarpares" ],
+			[ "zarpare" ],
+			[ "zarpáremos" ],
+			[ "zarpareis", "zarparen" ],
+			[ "zarparen" ]
+		],
+		"12" : {
+			"1" : [ "zarpa" ],
+			"2" : [ "zarpe" ],
+			"3" : [ "zarpemos" ],
+			"4" : [ "zarpad" ],
+			"5" : [ "zarpen" ]
+		}
+	}
+}

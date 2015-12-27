@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recontar",
+	"word" : "recontar",
+	"infinitivo" : "recontar",
+	"participio" : [ "recontado" ],
+	"gerundio" : [ "recontando" ],
+	"tenses" : {
+		"3" : [
+			[ "recuento" ],
+			[ "recuentas", "recontás" ],
+			[ "recuenta" ],
+			[ "recontamos" ],
+			[ "recontáis", "recuentan" ],
+			[ "recuentan" ]
+		],
+		"4" : [
+			[ "reconté" ],
+			[ "recontaste" ],
+			[ "recontó" ],
+			[ "recontamos" ],
+			[ "recontasteis", "recontaron" ],
+			[ "recontaron" ]
+		],
+		"5" : [
+			[ "recontaba" ],
+			[ "recontabas" ],
+			[ "recontaba" ],
+			[ "recontábamos" ],
+			[ "recontabais", "recontaban" ],
+			[ "recontaban" ]
+		],
+		"6" : [
+			[ "recontaría" ],
+			[ "recontarías" ],
+			[ "recontaría" ],
+			[ "recontaríamos" ],
+			[ "recontaríais", "recontarían" ],
+			[ "recontarían" ]
+		],
+		"7" : [
+			[ "recontaré" ],
+			[ "recontarás" ],
+			[ "recontará" ],
+			[ "recontaremos" ],
+			[ "recontaréis", "recontarán" ],
+			[ "recontarán" ]
+		],
+		"8" : [
+			[ "recuente" ],
+			[ "recuentes" ],
+			[ "recuente" ],
+			[ "recontemos" ],
+			[ "recontéis", "recuenten" ],
+			[ "recuenten" ]
+		],
+		"9" : [
+			[ "recontara" ],
+			[ "recontaras" ],
+			[ "recontara" ],
+			[ "recontáramos" ],
+			[ "recontarais", "recontaran" ],
+			[ "recontaran" ]
+		],
+		"10" : [
+			[ "recontase" ],
+			[ "recontases" ],
+			[ "recontase" ],
+			[ "recontásemos" ],
+			[ "recontaseis", "recontasen" ],
+			[ "recontasen" ]
+		],
+		"11" : [
+			[ "recontare" ],
+			[ "recontares" ],
+			[ "recontare" ],
+			[ "recontáremos" ],
+			[ "recontareis", "recontaren" ],
+			[ "recontaren" ]
+		],
+		"12" : {
+			"1" : [ "recuenta" ],
+			"2" : [ "recuente" ],
+			"3" : [ "recontemos" ],
+			"4" : [ "recontad" ],
+			"5" : [ "recuenten" ]
+		}
+	}
+}

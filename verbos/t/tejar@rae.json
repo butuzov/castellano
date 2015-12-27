@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tejar",
+	"word" : "tejar",
+	"infinitivo" : "tejar",
+	"participio" : [ "tejado" ],
+	"gerundio" : [ "tejando" ],
+	"tenses" : {
+		"3" : [
+			[ "tejo" ],
+			[ "tejas", "tejás" ],
+			[ "teja" ],
+			[ "tejamos" ],
+			[ "tejáis", "tejan" ],
+			[ "tejan" ]
+		],
+		"4" : [
+			[ "tejé" ],
+			[ "tejaste" ],
+			[ "tejó" ],
+			[ "tejamos" ],
+			[ "tejasteis", "tejaron" ],
+			[ "tejaron" ]
+		],
+		"5" : [
+			[ "tejaba" ],
+			[ "tejabas" ],
+			[ "tejaba" ],
+			[ "tejábamos" ],
+			[ "tejabais", "tejaban" ],
+			[ "tejaban" ]
+		],
+		"6" : [
+			[ "tejaría" ],
+			[ "tejarías" ],
+			[ "tejaría" ],
+			[ "tejaríamos" ],
+			[ "tejaríais", "tejarían" ],
+			[ "tejarían" ]
+		],
+		"7" : [
+			[ "tejaré" ],
+			[ "tejarás" ],
+			[ "tejará" ],
+			[ "tejaremos" ],
+			[ "tejaréis", "tejarán" ],
+			[ "tejarán" ]
+		],
+		"8" : [
+			[ "teje" ],
+			[ "tejes" ],
+			[ "teje" ],
+			[ "tejemos" ],
+			[ "tejéis", "tejen" ],
+			[ "tejen" ]
+		],
+		"9" : [
+			[ "tejara" ],
+			[ "tejaras" ],
+			[ "tejara" ],
+			[ "tejáramos" ],
+			[ "tejarais", "tejaran" ],
+			[ "tejaran" ]
+		],
+		"10" : [
+			[ "tejase" ],
+			[ "tejases" ],
+			[ "tejase" ],
+			[ "tejásemos" ],
+			[ "tejaseis", "tejasen" ],
+			[ "tejasen" ]
+		],
+		"11" : [
+			[ "tejare" ],
+			[ "tejares" ],
+			[ "tejare" ],
+			[ "tejáremos" ],
+			[ "tejareis", "tejaren" ],
+			[ "tejaren" ]
+		],
+		"12" : {
+			"1" : [ "teja" ],
+			"2" : [ "teje" ],
+			"3" : [ "tejemos" ],
+			"4" : [ "tejad" ],
+			"5" : [ "tejen" ]
+		}
+	}
+}

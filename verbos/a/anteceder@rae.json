@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anteceder",
+	"word" : "anteceder",
+	"infinitivo" : "anteceder",
+	"participio" : [ "antecedido" ],
+	"gerundio" : [ "antecediendo" ],
+	"tenses" : {
+		"3" : [
+			[ "antecedo" ],
+			[ "antecedes", "antecedés" ],
+			[ "antecede" ],
+			[ "antecedemos" ],
+			[ "antecedéis", "anteceden" ],
+			[ "anteceden" ]
+		],
+		"4" : [
+			[ "antecedí" ],
+			[ "antecediste" ],
+			[ "antecedió" ],
+			[ "antecedimos" ],
+			[ "antecedisteis", "antecedieron" ],
+			[ "antecedieron" ]
+		],
+		"5" : [
+			[ "antecedía" ],
+			[ "antecedías" ],
+			[ "antecedía" ],
+			[ "antecedíamos" ],
+			[ "antecedíais", "antecedían" ],
+			[ "antecedían" ]
+		],
+		"6" : [
+			[ "antecedería" ],
+			[ "antecederías" ],
+			[ "antecedería" ],
+			[ "antecederíamos" ],
+			[ "antecederíais", "antecederían" ],
+			[ "antecederían" ]
+		],
+		"7" : [
+			[ "antecederé" ],
+			[ "antecederás" ],
+			[ "antecederá" ],
+			[ "antecederemos" ],
+			[ "antecederéis", "antecederán" ],
+			[ "antecederán" ]
+		],
+		"8" : [
+			[ "anteceda" ],
+			[ "antecedas" ],
+			[ "anteceda" ],
+			[ "antecedamos" ],
+			[ "antecedáis", "antecedan" ],
+			[ "antecedan" ]
+		],
+		"9" : [
+			[ "antecediera" ],
+			[ "antecedieras" ],
+			[ "antecediera" ],
+			[ "antecediéramos" ],
+			[ "antecedierais", "antecedieran" ],
+			[ "antecedieran" ]
+		],
+		"10" : [
+			[ "antecediese" ],
+			[ "antecedieses" ],
+			[ "antecediese" ],
+			[ "antecediésemos" ],
+			[ "antecedieseis", "antecediesen" ],
+			[ "antecediesen" ]
+		],
+		"11" : [
+			[ "antecediere" ],
+			[ "antecedieres" ],
+			[ "antecediere" ],
+			[ "antecediéremos" ],
+			[ "antecediereis", "antecedieren" ],
+			[ "antecedieren" ]
+		],
+		"12" : {
+			"1" : [ "antecede" ],
+			"2" : [ "anteceda" ],
+			"3" : [ "antecedamos" ],
+			"4" : [ "anteceded" ],
+			"5" : [ "antecedan" ]
+		}
+	}
+}

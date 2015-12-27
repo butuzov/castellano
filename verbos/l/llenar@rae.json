@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=llenar",
+	"word" : "llenar",
+	"infinitivo" : "llenar",
+	"participio" : [ "llenado" ],
+	"gerundio" : [ "llenando" ],
+	"tenses" : {
+		"3" : [
+			[ "lleno" ],
+			[ "llenas", "llenás" ],
+			[ "llena" ],
+			[ "llenamos" ],
+			[ "llenáis", "llenan" ],
+			[ "llenan" ]
+		],
+		"4" : [
+			[ "llené" ],
+			[ "llenaste" ],
+			[ "llenó" ],
+			[ "llenamos" ],
+			[ "llenasteis", "llenaron" ],
+			[ "llenaron" ]
+		],
+		"5" : [
+			[ "llenaba" ],
+			[ "llenabas" ],
+			[ "llenaba" ],
+			[ "llenábamos" ],
+			[ "llenabais", "llenaban" ],
+			[ "llenaban" ]
+		],
+		"6" : [
+			[ "llenaría" ],
+			[ "llenarías" ],
+			[ "llenaría" ],
+			[ "llenaríamos" ],
+			[ "llenaríais", "llenarían" ],
+			[ "llenarían" ]
+		],
+		"7" : [
+			[ "llenaré" ],
+			[ "llenarás" ],
+			[ "llenará" ],
+			[ "llenaremos" ],
+			[ "llenaréis", "llenarán" ],
+			[ "llenarán" ]
+		],
+		"8" : [
+			[ "llene" ],
+			[ "llenes" ],
+			[ "llene" ],
+			[ "llenemos" ],
+			[ "llenéis", "llenen" ],
+			[ "llenen" ]
+		],
+		"9" : [
+			[ "llenara" ],
+			[ "llenaras" ],
+			[ "llenara" ],
+			[ "llenáramos" ],
+			[ "llenarais", "llenaran" ],
+			[ "llenaran" ]
+		],
+		"10" : [
+			[ "llenase" ],
+			[ "llenases" ],
+			[ "llenase" ],
+			[ "llenásemos" ],
+			[ "llenaseis", "llenasen" ],
+			[ "llenasen" ]
+		],
+		"11" : [
+			[ "llenare" ],
+			[ "llenares" ],
+			[ "llenare" ],
+			[ "llenáremos" ],
+			[ "llenareis", "llenaren" ],
+			[ "llenaren" ]
+		],
+		"12" : {
+			"1" : [ "llena" ],
+			"2" : [ "llene" ],
+			"3" : [ "llenemos" ],
+			"4" : [ "llenad" ],
+			"5" : [ "llenen" ]
+		}
+	}
+}

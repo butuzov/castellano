@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=congelar",
+	"word" : "congelar",
+	"infinitivo" : "congelar",
+	"participio" : [ "congelado" ],
+	"gerundio" : [ "congelando" ],
+	"tenses" : {
+		"3" : [
+			[ "congelo" ],
+			[ "congelas", "congelás" ],
+			[ "congela" ],
+			[ "congelamos" ],
+			[ "congeláis", "congelan" ],
+			[ "congelan" ]
+		],
+		"4" : [
+			[ "congelé" ],
+			[ "congelaste" ],
+			[ "congeló" ],
+			[ "congelamos" ],
+			[ "congelasteis", "congelaron" ],
+			[ "congelaron" ]
+		],
+		"5" : [
+			[ "congelaba" ],
+			[ "congelabas" ],
+			[ "congelaba" ],
+			[ "congelábamos" ],
+			[ "congelabais", "congelaban" ],
+			[ "congelaban" ]
+		],
+		"6" : [
+			[ "congelaría" ],
+			[ "congelarías" ],
+			[ "congelaría" ],
+			[ "congelaríamos" ],
+			[ "congelaríais", "congelarían" ],
+			[ "congelarían" ]
+		],
+		"7" : [
+			[ "congelaré" ],
+			[ "congelarás" ],
+			[ "congelará" ],
+			[ "congelaremos" ],
+			[ "congelaréis", "congelarán" ],
+			[ "congelarán" ]
+		],
+		"8" : [
+			[ "congele" ],
+			[ "congeles" ],
+			[ "congele" ],
+			[ "congelemos" ],
+			[ "congeléis", "congelen" ],
+			[ "congelen" ]
+		],
+		"9" : [
+			[ "congelara" ],
+			[ "congelaras" ],
+			[ "congelara" ],
+			[ "congeláramos" ],
+			[ "congelarais", "congelaran" ],
+			[ "congelaran" ]
+		],
+		"10" : [
+			[ "congelase" ],
+			[ "congelases" ],
+			[ "congelase" ],
+			[ "congelásemos" ],
+			[ "congelaseis", "congelasen" ],
+			[ "congelasen" ]
+		],
+		"11" : [
+			[ "congelare" ],
+			[ "congelares" ],
+			[ "congelare" ],
+			[ "congeláremos" ],
+			[ "congelareis", "congelaren" ],
+			[ "congelaren" ]
+		],
+		"12" : {
+			"1" : [ "congela" ],
+			"2" : [ "congele" ],
+			"3" : [ "congelemos" ],
+			"4" : [ "congelad" ],
+			"5" : [ "congelen" ]
+		}
+	}
+}

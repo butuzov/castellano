@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=neutralizar",
+	"word" : "neutralizar",
+	"infinitivo" : "neutralizar",
+	"participio" : [ "neutralizado" ],
+	"gerundio" : [ "neutralizando" ],
+	"tenses" : {
+		"3" : [
+			[ "neutralizo" ],
+			[ "neutralizas", "neutralizás" ],
+			[ "neutraliza" ],
+			[ "neutralizamos" ],
+			[ "neutralizáis", "neutralizan" ],
+			[ "neutralizan" ]
+		],
+		"4" : [
+			[ "neutralicé" ],
+			[ "neutralizaste" ],
+			[ "neutralizó" ],
+			[ "neutralizamos" ],
+			[ "neutralizasteis", "neutralizaron" ],
+			[ "neutralizaron" ]
+		],
+		"5" : [
+			[ "neutralizaba" ],
+			[ "neutralizabas" ],
+			[ "neutralizaba" ],
+			[ "neutralizábamos" ],
+			[ "neutralizabais", "neutralizaban" ],
+			[ "neutralizaban" ]
+		],
+		"6" : [
+			[ "neutralizaría" ],
+			[ "neutralizarías" ],
+			[ "neutralizaría" ],
+			[ "neutralizaríamos" ],
+			[ "neutralizaríais", "neutralizarían" ],
+			[ "neutralizarían" ]
+		],
+		"7" : [
+			[ "neutralizaré" ],
+			[ "neutralizarás" ],
+			[ "neutralizará" ],
+			[ "neutralizaremos" ],
+			[ "neutralizaréis", "neutralizarán" ],
+			[ "neutralizarán" ]
+		],
+		"8" : [
+			[ "neutralice" ],
+			[ "neutralices" ],
+			[ "neutralice" ],
+			[ "neutralicemos" ],
+			[ "neutralicéis", "neutralicen" ],
+			[ "neutralicen" ]
+		],
+		"9" : [
+			[ "neutralizara" ],
+			[ "neutralizaras" ],
+			[ "neutralizara" ],
+			[ "neutralizáramos" ],
+			[ "neutralizarais", "neutralizaran" ],
+			[ "neutralizaran" ]
+		],
+		"10" : [
+			[ "neutralizase" ],
+			[ "neutralizases" ],
+			[ "neutralizase" ],
+			[ "neutralizásemos" ],
+			[ "neutralizaseis", "neutralizasen" ],
+			[ "neutralizasen" ]
+		],
+		"11" : [
+			[ "neutralizare" ],
+			[ "neutralizares" ],
+			[ "neutralizare" ],
+			[ "neutralizáremos" ],
+			[ "neutralizareis", "neutralizaren" ],
+			[ "neutralizaren" ]
+		],
+		"12" : {
+			"1" : [ "neutraliza" ],
+			"2" : [ "neutralice" ],
+			"3" : [ "neutralicemos" ],
+			"4" : [ "neutralizad" ],
+			"5" : [ "neutralicen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=avezar",
+	"word" : "avezar",
+	"infinitivo" : "avezar",
+	"participio" : [ "avezado" ],
+	"gerundio" : [ "avezando" ],
+	"tenses" : {
+		"3" : [
+			[ "avezo" ],
+			[ "avezas", "avezás" ],
+			[ "aveza" ],
+			[ "avezamos" ],
+			[ "avezáis", "avezan" ],
+			[ "avezan" ]
+		],
+		"4" : [
+			[ "avecé" ],
+			[ "avezaste" ],
+			[ "avezó" ],
+			[ "avezamos" ],
+			[ "avezasteis", "avezaron" ],
+			[ "avezaron" ]
+		],
+		"5" : [
+			[ "avezaba" ],
+			[ "avezabas" ],
+			[ "avezaba" ],
+			[ "avezábamos" ],
+			[ "avezabais", "avezaban" ],
+			[ "avezaban" ]
+		],
+		"6" : [
+			[ "avezaría" ],
+			[ "avezarías" ],
+			[ "avezaría" ],
+			[ "avezaríamos" ],
+			[ "avezaríais", "avezarían" ],
+			[ "avezarían" ]
+		],
+		"7" : [
+			[ "avezaré" ],
+			[ "avezarás" ],
+			[ "avezará" ],
+			[ "avezaremos" ],
+			[ "avezaréis", "avezarán" ],
+			[ "avezarán" ]
+		],
+		"8" : [
+			[ "avece" ],
+			[ "aveces" ],
+			[ "avece" ],
+			[ "avecemos" ],
+			[ "avecéis", "avecen" ],
+			[ "avecen" ]
+		],
+		"9" : [
+			[ "avezara" ],
+			[ "avezaras" ],
+			[ "avezara" ],
+			[ "avezáramos" ],
+			[ "avezarais", "avezaran" ],
+			[ "avezaran" ]
+		],
+		"10" : [
+			[ "avezase" ],
+			[ "avezases" ],
+			[ "avezase" ],
+			[ "avezásemos" ],
+			[ "avezaseis", "avezasen" ],
+			[ "avezasen" ]
+		],
+		"11" : [
+			[ "avezare" ],
+			[ "avezares" ],
+			[ "avezare" ],
+			[ "avezáremos" ],
+			[ "avezareis", "avezaren" ],
+			[ "avezaren" ]
+		],
+		"12" : {
+			"1" : [ "aveza" ],
+			"2" : [ "avece" ],
+			"3" : [ "avecemos" ],
+			"4" : [ "avezad" ],
+			"5" : [ "avecen" ]
+		}
+	}
+}

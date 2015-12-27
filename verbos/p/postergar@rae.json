@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=postergar",
+	"word" : "postergar",
+	"infinitivo" : "postergar",
+	"participio" : [ "postergado" ],
+	"gerundio" : [ "postergando" ],
+	"tenses" : {
+		"3" : [
+			[ "postergo" ],
+			[ "postergas", "postergás" ],
+			[ "posterga" ],
+			[ "postergamos" ],
+			[ "postergáis", "postergan" ],
+			[ "postergan" ]
+		],
+		"4" : [
+			[ "postergué" ],
+			[ "postergaste" ],
+			[ "postergó" ],
+			[ "postergamos" ],
+			[ "postergasteis", "postergaron" ],
+			[ "postergaron" ]
+		],
+		"5" : [
+			[ "postergaba" ],
+			[ "postergabas" ],
+			[ "postergaba" ],
+			[ "postergábamos" ],
+			[ "postergabais", "postergaban" ],
+			[ "postergaban" ]
+		],
+		"6" : [
+			[ "postergaría" ],
+			[ "postergarías" ],
+			[ "postergaría" ],
+			[ "postergaríamos" ],
+			[ "postergaríais", "postergarían" ],
+			[ "postergarían" ]
+		],
+		"7" : [
+			[ "postergaré" ],
+			[ "postergarás" ],
+			[ "postergará" ],
+			[ "postergaremos" ],
+			[ "postergaréis", "postergarán" ],
+			[ "postergarán" ]
+		],
+		"8" : [
+			[ "postergue" ],
+			[ "postergues" ],
+			[ "postergue" ],
+			[ "posterguemos" ],
+			[ "posterguéis", "posterguen" ],
+			[ "posterguen" ]
+		],
+		"9" : [
+			[ "postergara" ],
+			[ "postergaras" ],
+			[ "postergara" ],
+			[ "postergáramos" ],
+			[ "postergarais", "postergaran" ],
+			[ "postergaran" ]
+		],
+		"10" : [
+			[ "postergase" ],
+			[ "postergases" ],
+			[ "postergase" ],
+			[ "postergásemos" ],
+			[ "postergaseis", "postergasen" ],
+			[ "postergasen" ]
+		],
+		"11" : [
+			[ "postergare" ],
+			[ "postergares" ],
+			[ "postergare" ],
+			[ "postergáremos" ],
+			[ "postergareis", "postergaren" ],
+			[ "postergaren" ]
+		],
+		"12" : {
+			"1" : [ "posterga" ],
+			"2" : [ "postergue" ],
+			"3" : [ "posterguemos" ],
+			"4" : [ "postergad" ],
+			"5" : [ "posterguen" ]
+		}
+	}
+}

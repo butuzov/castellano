@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=redondear",
+	"word" : "redondear",
+	"infinitivo" : "redondear",
+	"participio" : [ "redondeado" ],
+	"gerundio" : [ "redondeando" ],
+	"tenses" : {
+		"3" : [
+			[ "redondeo" ],
+			[ "redondeas", "redondeás" ],
+			[ "redondea" ],
+			[ "redondeamos" ],
+			[ "redondeáis", "redondean" ],
+			[ "redondean" ]
+		],
+		"4" : [
+			[ "redondeé" ],
+			[ "redondeaste" ],
+			[ "redondeó" ],
+			[ "redondeamos" ],
+			[ "redondeasteis", "redondearon" ],
+			[ "redondearon" ]
+		],
+		"5" : [
+			[ "redondeaba" ],
+			[ "redondeabas" ],
+			[ "redondeaba" ],
+			[ "redondeábamos" ],
+			[ "redondeabais", "redondeaban" ],
+			[ "redondeaban" ]
+		],
+		"6" : [
+			[ "redondearía" ],
+			[ "redondearías" ],
+			[ "redondearía" ],
+			[ "redondearíamos" ],
+			[ "redondearíais", "redondearían" ],
+			[ "redondearían" ]
+		],
+		"7" : [
+			[ "redondearé" ],
+			[ "redondearás" ],
+			[ "redondeará" ],
+			[ "redondearemos" ],
+			[ "redondearéis", "redondearán" ],
+			[ "redondearán" ]
+		],
+		"8" : [
+			[ "redondee" ],
+			[ "redondees" ],
+			[ "redondee" ],
+			[ "redondeemos" ],
+			[ "redondeéis", "redondeen" ],
+			[ "redondeen" ]
+		],
+		"9" : [
+			[ "redondeara" ],
+			[ "redondearas" ],
+			[ "redondeara" ],
+			[ "redondeáramos" ],
+			[ "redondearais", "redondearan" ],
+			[ "redondearan" ]
+		],
+		"10" : [
+			[ "redondease" ],
+			[ "redondeases" ],
+			[ "redondease" ],
+			[ "redondeásemos" ],
+			[ "redondeaseis", "redondeasen" ],
+			[ "redondeasen" ]
+		],
+		"11" : [
+			[ "redondeare" ],
+			[ "redondeares" ],
+			[ "redondeare" ],
+			[ "redondeáremos" ],
+			[ "redondeareis", "redondearen" ],
+			[ "redondearen" ]
+		],
+		"12" : {
+			"1" : [ "redondea" ],
+			"2" : [ "redondee" ],
+			"3" : [ "redondeemos" ],
+			"4" : [ "redondead" ],
+			"5" : [ "redondeen" ]
+		}
+	}
+}

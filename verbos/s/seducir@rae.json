@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=seducir",
+	"word" : "seducir",
+	"infinitivo" : "seducir",
+	"participio" : [ "seducido" ],
+	"gerundio" : [ "seduciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "seduzco" ],
+			[ "seduces", "seducís" ],
+			[ "seduce" ],
+			[ "seducimos" ],
+			[ "seducís", "seducen" ],
+			[ "seducen" ]
+		],
+		"4" : [
+			[ "seduje" ],
+			[ "sedujiste" ],
+			[ "sedujo" ],
+			[ "sedujimos" ],
+			[ "sedujisteis", "sedujeron" ],
+			[ "sedujeron" ]
+		],
+		"5" : [
+			[ "seducía" ],
+			[ "seducías" ],
+			[ "seducía" ],
+			[ "seducíamos" ],
+			[ "seducíais", "seducían" ],
+			[ "seducían" ]
+		],
+		"6" : [
+			[ "seduciría" ],
+			[ "seducirías" ],
+			[ "seduciría" ],
+			[ "seduciríamos" ],
+			[ "seduciríais", "seducirían" ],
+			[ "seducirían" ]
+		],
+		"7" : [
+			[ "seduciré" ],
+			[ "seducirás" ],
+			[ "seducirá" ],
+			[ "seduciremos" ],
+			[ "seduciréis", "seducirán" ],
+			[ "seducirán" ]
+		],
+		"8" : [
+			[ "seduzca" ],
+			[ "seduzcas" ],
+			[ "seduzca" ],
+			[ "seduzcamos" ],
+			[ "seduzcáis", "seduzcan" ],
+			[ "seduzcan" ]
+		],
+		"9" : [
+			[ "sedujera" ],
+			[ "sedujeras" ],
+			[ "sedujera" ],
+			[ "sedujéramos" ],
+			[ "sedujerais", "sedujeran" ],
+			[ "sedujeran" ]
+		],
+		"10" : [
+			[ "sedujese" ],
+			[ "sedujeses" ],
+			[ "sedujese" ],
+			[ "sedujésemos" ],
+			[ "sedujeseis", "sedujesen" ],
+			[ "sedujesen" ]
+		],
+		"11" : [
+			[ "sedujere" ],
+			[ "sedujeres" ],
+			[ "sedujere" ],
+			[ "sedujéremos" ],
+			[ "sedujereis", "sedujeren" ],
+			[ "sedujeren" ]
+		],
+		"12" : {
+			"1" : [ "seduce" ],
+			"2" : [ "seduzca" ],
+			"3" : [ "seduzcamos" ],
+			"4" : [ "seducid" ],
+			"5" : [ "seduzcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aliñar",
+	"word" : "aliñar",
+	"infinitivo" : "aliñar",
+	"participio" : [ "aliñado" ],
+	"gerundio" : [ "aliñando" ],
+	"tenses" : {
+		"3" : [
+			[ "aliño" ],
+			[ "aliñas", "aliñás" ],
+			[ "aliña" ],
+			[ "aliñamos" ],
+			[ "aliñáis", "aliñan" ],
+			[ "aliñan" ]
+		],
+		"4" : [
+			[ "aliñé" ],
+			[ "aliñaste" ],
+			[ "aliñó" ],
+			[ "aliñamos" ],
+			[ "aliñasteis", "aliñaron" ],
+			[ "aliñaron" ]
+		],
+		"5" : [
+			[ "aliñaba" ],
+			[ "aliñabas" ],
+			[ "aliñaba" ],
+			[ "aliñábamos" ],
+			[ "aliñabais", "aliñaban" ],
+			[ "aliñaban" ]
+		],
+		"6" : [
+			[ "aliñaría" ],
+			[ "aliñarías" ],
+			[ "aliñaría" ],
+			[ "aliñaríamos" ],
+			[ "aliñaríais", "aliñarían" ],
+			[ "aliñarían" ]
+		],
+		"7" : [
+			[ "aliñaré" ],
+			[ "aliñarás" ],
+			[ "aliñará" ],
+			[ "aliñaremos" ],
+			[ "aliñaréis", "aliñarán" ],
+			[ "aliñarán" ]
+		],
+		"8" : [
+			[ "aliñe" ],
+			[ "aliñes" ],
+			[ "aliñe" ],
+			[ "aliñemos" ],
+			[ "aliñéis", "aliñen" ],
+			[ "aliñen" ]
+		],
+		"9" : [
+			[ "aliñara" ],
+			[ "aliñaras" ],
+			[ "aliñara" ],
+			[ "aliñáramos" ],
+			[ "aliñarais", "aliñaran" ],
+			[ "aliñaran" ]
+		],
+		"10" : [
+			[ "aliñase" ],
+			[ "aliñases" ],
+			[ "aliñase" ],
+			[ "aliñásemos" ],
+			[ "aliñaseis", "aliñasen" ],
+			[ "aliñasen" ]
+		],
+		"11" : [
+			[ "aliñare" ],
+			[ "aliñares" ],
+			[ "aliñare" ],
+			[ "aliñáremos" ],
+			[ "aliñareis", "aliñaren" ],
+			[ "aliñaren" ]
+		],
+		"12" : {
+			"1" : [ "aliña" ],
+			"2" : [ "aliñe" ],
+			"3" : [ "aliñemos" ],
+			"4" : [ "aliñad" ],
+			"5" : [ "aliñen" ]
+		}
+	}
+}

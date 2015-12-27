@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fincar",
+	"word" : "fincar",
+	"infinitivo" : "fincar",
+	"participio" : [ "fincado" ],
+	"gerundio" : [ "fincando" ],
+	"tenses" : {
+		"3" : [
+			[ "finco" ],
+			[ "fincas", "fincás" ],
+			[ "finca" ],
+			[ "fincamos" ],
+			[ "fincáis", "fincan" ],
+			[ "fincan" ]
+		],
+		"4" : [
+			[ "finqué" ],
+			[ "fincaste" ],
+			[ "fincó" ],
+			[ "fincamos" ],
+			[ "fincasteis", "fincaron" ],
+			[ "fincaron" ]
+		],
+		"5" : [
+			[ "fincaba" ],
+			[ "fincabas" ],
+			[ "fincaba" ],
+			[ "fincábamos" ],
+			[ "fincabais", "fincaban" ],
+			[ "fincaban" ]
+		],
+		"6" : [
+			[ "fincaría" ],
+			[ "fincarías" ],
+			[ "fincaría" ],
+			[ "fincaríamos" ],
+			[ "fincaríais", "fincarían" ],
+			[ "fincarían" ]
+		],
+		"7" : [
+			[ "fincaré" ],
+			[ "fincarás" ],
+			[ "fincará" ],
+			[ "fincaremos" ],
+			[ "fincaréis", "fincarán" ],
+			[ "fincarán" ]
+		],
+		"8" : [
+			[ "finque" ],
+			[ "finques" ],
+			[ "finque" ],
+			[ "finquemos" ],
+			[ "finquéis", "finquen" ],
+			[ "finquen" ]
+		],
+		"9" : [
+			[ "fincara" ],
+			[ "fincaras" ],
+			[ "fincara" ],
+			[ "fincáramos" ],
+			[ "fincarais", "fincaran" ],
+			[ "fincaran" ]
+		],
+		"10" : [
+			[ "fincase" ],
+			[ "fincases" ],
+			[ "fincase" ],
+			[ "fincásemos" ],
+			[ "fincaseis", "fincasen" ],
+			[ "fincasen" ]
+		],
+		"11" : [
+			[ "fincare" ],
+			[ "fincares" ],
+			[ "fincare" ],
+			[ "fincáremos" ],
+			[ "fincareis", "fincaren" ],
+			[ "fincaren" ]
+		],
+		"12" : {
+			"1" : [ "finca" ],
+			"2" : [ "finque" ],
+			"3" : [ "finquemos" ],
+			"4" : [ "fincad" ],
+			"5" : [ "finquen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encrespar",
+	"word" : "encrespar",
+	"infinitivo" : "encrespar",
+	"participio" : [ "encrespado" ],
+	"gerundio" : [ "encrespando" ],
+	"tenses" : {
+		"3" : [
+			[ "encrespo" ],
+			[ "encrespas", "encrespás" ],
+			[ "encrespa" ],
+			[ "encrespamos" ],
+			[ "encrespáis", "encrespan" ],
+			[ "encrespan" ]
+		],
+		"4" : [
+			[ "encrespé" ],
+			[ "encrespaste" ],
+			[ "encrespó" ],
+			[ "encrespamos" ],
+			[ "encrespasteis", "encresparon" ],
+			[ "encresparon" ]
+		],
+		"5" : [
+			[ "encrespaba" ],
+			[ "encrespabas" ],
+			[ "encrespaba" ],
+			[ "encrespábamos" ],
+			[ "encrespabais", "encrespaban" ],
+			[ "encrespaban" ]
+		],
+		"6" : [
+			[ "encresparía" ],
+			[ "encresparías" ],
+			[ "encresparía" ],
+			[ "encresparíamos" ],
+			[ "encresparíais", "encresparían" ],
+			[ "encresparían" ]
+		],
+		"7" : [
+			[ "encresparé" ],
+			[ "encresparás" ],
+			[ "encrespará" ],
+			[ "encresparemos" ],
+			[ "encresparéis", "encresparán" ],
+			[ "encresparán" ]
+		],
+		"8" : [
+			[ "encrespe" ],
+			[ "encrespes" ],
+			[ "encrespe" ],
+			[ "encrespemos" ],
+			[ "encrespéis", "encrespen" ],
+			[ "encrespen" ]
+		],
+		"9" : [
+			[ "encrespara" ],
+			[ "encresparas" ],
+			[ "encrespara" ],
+			[ "encrespáramos" ],
+			[ "encresparais", "encresparan" ],
+			[ "encresparan" ]
+		],
+		"10" : [
+			[ "encrespase" ],
+			[ "encrespases" ],
+			[ "encrespase" ],
+			[ "encrespásemos" ],
+			[ "encrespaseis", "encrespasen" ],
+			[ "encrespasen" ]
+		],
+		"11" : [
+			[ "encrespare" ],
+			[ "encrespares" ],
+			[ "encrespare" ],
+			[ "encrespáremos" ],
+			[ "encrespareis", "encresparen" ],
+			[ "encresparen" ]
+		],
+		"12" : {
+			"1" : [ "encrespa" ],
+			"2" : [ "encrespe" ],
+			"3" : [ "encrespemos" ],
+			"4" : [ "encrespad" ],
+			"5" : [ "encrespen" ]
+		}
+	}
+}

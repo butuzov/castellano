@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=decorar",
+	"word" : "decorar",
+	"infinitivo" : "decorar",
+	"participio" : [ "decorado" ],
+	"gerundio" : [ "decorando" ],
+	"tenses" : {
+		"3" : [
+			[ "decoro" ],
+			[ "decoras", "decorás" ],
+			[ "decora" ],
+			[ "decoramos" ],
+			[ "decoráis", "decoran" ],
+			[ "decoran" ]
+		],
+		"4" : [
+			[ "decoré" ],
+			[ "decoraste" ],
+			[ "decoró" ],
+			[ "decoramos" ],
+			[ "decorasteis", "decoraron" ],
+			[ "decoraron" ]
+		],
+		"5" : [
+			[ "decoraba" ],
+			[ "decorabas" ],
+			[ "decoraba" ],
+			[ "decorábamos" ],
+			[ "decorabais", "decoraban" ],
+			[ "decoraban" ]
+		],
+		"6" : [
+			[ "decoraría" ],
+			[ "decorarías" ],
+			[ "decoraría" ],
+			[ "decoraríamos" ],
+			[ "decoraríais", "decorarían" ],
+			[ "decorarían" ]
+		],
+		"7" : [
+			[ "decoraré" ],
+			[ "decorarás" ],
+			[ "decorará" ],
+			[ "decoraremos" ],
+			[ "decoraréis", "decorarán" ],
+			[ "decorarán" ]
+		],
+		"8" : [
+			[ "decore" ],
+			[ "decores" ],
+			[ "decore" ],
+			[ "decoremos" ],
+			[ "decoréis", "decoren" ],
+			[ "decoren" ]
+		],
+		"9" : [
+			[ "decorara" ],
+			[ "decoraras" ],
+			[ "decorara" ],
+			[ "decoráramos" ],
+			[ "decorarais", "decoraran" ],
+			[ "decoraran" ]
+		],
+		"10" : [
+			[ "decorase" ],
+			[ "decorases" ],
+			[ "decorase" ],
+			[ "decorásemos" ],
+			[ "decoraseis", "decorasen" ],
+			[ "decorasen" ]
+		],
+		"11" : [
+			[ "decorare" ],
+			[ "decorares" ],
+			[ "decorare" ],
+			[ "decoráremos" ],
+			[ "decorareis", "decoraren" ],
+			[ "decoraren" ]
+		],
+		"12" : {
+			"1" : [ "decora" ],
+			"2" : [ "decore" ],
+			"3" : [ "decoremos" ],
+			"4" : [ "decorad" ],
+			"5" : [ "decoren" ]
+		}
+	}
+}

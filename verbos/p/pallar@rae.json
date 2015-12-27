@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pallar",
+	"word" : "pallar",
+	"infinitivo" : "pallar",
+	"participio" : [ "pallado" ],
+	"gerundio" : [ "pallando" ],
+	"tenses" : {
+		"3" : [
+			[ "pallo" ],
+			[ "pallas", "pallás" ],
+			[ "palla" ],
+			[ "pallamos" ],
+			[ "palláis", "pallan" ],
+			[ "pallan" ]
+		],
+		"4" : [
+			[ "pallé" ],
+			[ "pallaste" ],
+			[ "palló" ],
+			[ "pallamos" ],
+			[ "pallasteis", "pallaron" ],
+			[ "pallaron" ]
+		],
+		"5" : [
+			[ "pallaba" ],
+			[ "pallabas" ],
+			[ "pallaba" ],
+			[ "pallábamos" ],
+			[ "pallabais", "pallaban" ],
+			[ "pallaban" ]
+		],
+		"6" : [
+			[ "pallaría" ],
+			[ "pallarías" ],
+			[ "pallaría" ],
+			[ "pallaríamos" ],
+			[ "pallaríais", "pallarían" ],
+			[ "pallarían" ]
+		],
+		"7" : [
+			[ "pallaré" ],
+			[ "pallarás" ],
+			[ "pallará" ],
+			[ "pallaremos" ],
+			[ "pallaréis", "pallarán" ],
+			[ "pallarán" ]
+		],
+		"8" : [
+			[ "palle" ],
+			[ "palles" ],
+			[ "palle" ],
+			[ "pallemos" ],
+			[ "palléis", "pallen" ],
+			[ "pallen" ]
+		],
+		"9" : [
+			[ "pallara" ],
+			[ "pallaras" ],
+			[ "pallara" ],
+			[ "palláramos" ],
+			[ "pallarais", "pallaran" ],
+			[ "pallaran" ]
+		],
+		"10" : [
+			[ "pallase" ],
+			[ "pallases" ],
+			[ "pallase" ],
+			[ "pallásemos" ],
+			[ "pallaseis", "pallasen" ],
+			[ "pallasen" ]
+		],
+		"11" : [
+			[ "pallare" ],
+			[ "pallares" ],
+			[ "pallare" ],
+			[ "palláremos" ],
+			[ "pallareis", "pallaren" ],
+			[ "pallaren" ]
+		],
+		"12" : {
+			"1" : [ "palla" ],
+			"2" : [ "palle" ],
+			"3" : [ "pallemos" ],
+			"4" : [ "pallad" ],
+			"5" : [ "pallen" ]
+		}
+	}
+}

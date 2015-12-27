@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cabildear",
+	"word" : "cabildear",
+	"infinitivo" : "cabildear",
+	"participio" : [ "cabildeado" ],
+	"gerundio" : [ "cabildeando" ],
+	"tenses" : {
+		"3" : [
+			[ "cabildeo" ],
+			[ "cabildeas", "cabildeás" ],
+			[ "cabildea" ],
+			[ "cabildeamos" ],
+			[ "cabildeáis", "cabildean" ],
+			[ "cabildean" ]
+		],
+		"4" : [
+			[ "cabildeé" ],
+			[ "cabildeaste" ],
+			[ "cabildeó" ],
+			[ "cabildeamos" ],
+			[ "cabildeasteis", "cabildearon" ],
+			[ "cabildearon" ]
+		],
+		"5" : [
+			[ "cabildeaba" ],
+			[ "cabildeabas" ],
+			[ "cabildeaba" ],
+			[ "cabildeábamos" ],
+			[ "cabildeabais", "cabildeaban" ],
+			[ "cabildeaban" ]
+		],
+		"6" : [
+			[ "cabildearía" ],
+			[ "cabildearías" ],
+			[ "cabildearía" ],
+			[ "cabildearíamos" ],
+			[ "cabildearíais", "cabildearían" ],
+			[ "cabildearían" ]
+		],
+		"7" : [
+			[ "cabildearé" ],
+			[ "cabildearás" ],
+			[ "cabildeará" ],
+			[ "cabildearemos" ],
+			[ "cabildearéis", "cabildearán" ],
+			[ "cabildearán" ]
+		],
+		"8" : [
+			[ "cabildee" ],
+			[ "cabildees" ],
+			[ "cabildee" ],
+			[ "cabildeemos" ],
+			[ "cabildeéis", "cabildeen" ],
+			[ "cabildeen" ]
+		],
+		"9" : [
+			[ "cabildeara" ],
+			[ "cabildearas" ],
+			[ "cabildeara" ],
+			[ "cabildeáramos" ],
+			[ "cabildearais", "cabildearan" ],
+			[ "cabildearan" ]
+		],
+		"10" : [
+			[ "cabildease" ],
+			[ "cabildeases" ],
+			[ "cabildease" ],
+			[ "cabildeásemos" ],
+			[ "cabildeaseis", "cabildeasen" ],
+			[ "cabildeasen" ]
+		],
+		"11" : [
+			[ "cabildeare" ],
+			[ "cabildeares" ],
+			[ "cabildeare" ],
+			[ "cabildeáremos" ],
+			[ "cabildeareis", "cabildearen" ],
+			[ "cabildearen" ]
+		],
+		"12" : {
+			"1" : [ "cabildea" ],
+			"2" : [ "cabildee" ],
+			"3" : [ "cabildeemos" ],
+			"4" : [ "cabildead" ],
+			"5" : [ "cabildeen" ]
+		}
+	}
+}

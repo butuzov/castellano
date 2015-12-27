@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=duplicar",
+	"word" : "duplicar",
+	"infinitivo" : "duplicar",
+	"participio" : [ "duplicado" ],
+	"gerundio" : [ "duplicando" ],
+	"tenses" : {
+		"3" : [
+			[ "duplico" ],
+			[ "duplicas", "duplicás" ],
+			[ "duplica" ],
+			[ "duplicamos" ],
+			[ "duplicáis", "duplican" ],
+			[ "duplican" ]
+		],
+		"4" : [
+			[ "dupliqué" ],
+			[ "duplicaste" ],
+			[ "duplicó" ],
+			[ "duplicamos" ],
+			[ "duplicasteis", "duplicaron" ],
+			[ "duplicaron" ]
+		],
+		"5" : [
+			[ "duplicaba" ],
+			[ "duplicabas" ],
+			[ "duplicaba" ],
+			[ "duplicábamos" ],
+			[ "duplicabais", "duplicaban" ],
+			[ "duplicaban" ]
+		],
+		"6" : [
+			[ "duplicaría" ],
+			[ "duplicarías" ],
+			[ "duplicaría" ],
+			[ "duplicaríamos" ],
+			[ "duplicaríais", "duplicarían" ],
+			[ "duplicarían" ]
+		],
+		"7" : [
+			[ "duplicaré" ],
+			[ "duplicarás" ],
+			[ "duplicará" ],
+			[ "duplicaremos" ],
+			[ "duplicaréis", "duplicarán" ],
+			[ "duplicarán" ]
+		],
+		"8" : [
+			[ "duplique" ],
+			[ "dupliques" ],
+			[ "duplique" ],
+			[ "dupliquemos" ],
+			[ "dupliquéis", "dupliquen" ],
+			[ "dupliquen" ]
+		],
+		"9" : [
+			[ "duplicara" ],
+			[ "duplicaras" ],
+			[ "duplicara" ],
+			[ "duplicáramos" ],
+			[ "duplicarais", "duplicaran" ],
+			[ "duplicaran" ]
+		],
+		"10" : [
+			[ "duplicase" ],
+			[ "duplicases" ],
+			[ "duplicase" ],
+			[ "duplicásemos" ],
+			[ "duplicaseis", "duplicasen" ],
+			[ "duplicasen" ]
+		],
+		"11" : [
+			[ "duplicare" ],
+			[ "duplicares" ],
+			[ "duplicare" ],
+			[ "duplicáremos" ],
+			[ "duplicareis", "duplicaren" ],
+			[ "duplicaren" ]
+		],
+		"12" : {
+			"1" : [ "duplica" ],
+			"2" : [ "duplique" ],
+			"3" : [ "dupliquemos" ],
+			"4" : [ "duplicad" ],
+			"5" : [ "dupliquen" ]
+		}
+	}
+}

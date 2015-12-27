@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=protagonizar",
+	"word" : "protagonizar",
+	"infinitivo" : "protagonizar",
+	"participio" : [ "protagonizado" ],
+	"gerundio" : [ "protagonizando" ],
+	"tenses" : {
+		"3" : [
+			[ "protagonizo" ],
+			[ "protagonizas", "protagonizás" ],
+			[ "protagoniza" ],
+			[ "protagonizamos" ],
+			[ "protagonizáis", "protagonizan" ],
+			[ "protagonizan" ]
+		],
+		"4" : [
+			[ "protagonicé" ],
+			[ "protagonizaste" ],
+			[ "protagonizó" ],
+			[ "protagonizamos" ],
+			[ "protagonizasteis", "protagonizaron" ],
+			[ "protagonizaron" ]
+		],
+		"5" : [
+			[ "protagonizaba" ],
+			[ "protagonizabas" ],
+			[ "protagonizaba" ],
+			[ "protagonizábamos" ],
+			[ "protagonizabais", "protagonizaban" ],
+			[ "protagonizaban" ]
+		],
+		"6" : [
+			[ "protagonizaría" ],
+			[ "protagonizarías" ],
+			[ "protagonizaría" ],
+			[ "protagonizaríamos" ],
+			[ "protagonizaríais", "protagonizarían" ],
+			[ "protagonizarían" ]
+		],
+		"7" : [
+			[ "protagonizaré" ],
+			[ "protagonizarás" ],
+			[ "protagonizará" ],
+			[ "protagonizaremos" ],
+			[ "protagonizaréis", "protagonizarán" ],
+			[ "protagonizarán" ]
+		],
+		"8" : [
+			[ "protagonice" ],
+			[ "protagonices" ],
+			[ "protagonice" ],
+			[ "protagonicemos" ],
+			[ "protagonicéis", "protagonicen" ],
+			[ "protagonicen" ]
+		],
+		"9" : [
+			[ "protagonizara" ],
+			[ "protagonizaras" ],
+			[ "protagonizara" ],
+			[ "protagonizáramos" ],
+			[ "protagonizarais", "protagonizaran" ],
+			[ "protagonizaran" ]
+		],
+		"10" : [
+			[ "protagonizase" ],
+			[ "protagonizases" ],
+			[ "protagonizase" ],
+			[ "protagonizásemos" ],
+			[ "protagonizaseis", "protagonizasen" ],
+			[ "protagonizasen" ]
+		],
+		"11" : [
+			[ "protagonizare" ],
+			[ "protagonizares" ],
+			[ "protagonizare" ],
+			[ "protagonizáremos" ],
+			[ "protagonizareis", "protagonizaren" ],
+			[ "protagonizaren" ]
+		],
+		"12" : {
+			"1" : [ "protagoniza" ],
+			"2" : [ "protagonice" ],
+			"3" : [ "protagonicemos" ],
+			"4" : [ "protagonizad" ],
+			"5" : [ "protagonicen" ]
+		}
+	}
+}

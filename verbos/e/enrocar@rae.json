@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enrocar",
+	"word" : "enrocar",
+	"infinitivo" : "enrocar",
+	"participio" : [ "enrocado" ],
+	"gerundio" : [ "enrocando" ],
+	"tenses" : {
+		"3" : [
+			[ "enroco" ],
+			[ "enrocas", "enrocás" ],
+			[ "enroca" ],
+			[ "enrocamos" ],
+			[ "enrocáis", "enrocan" ],
+			[ "enrocan" ]
+		],
+		"4" : [
+			[ "enroqué" ],
+			[ "enrocaste" ],
+			[ "enrocó" ],
+			[ "enrocamos" ],
+			[ "enrocasteis", "enrocaron" ],
+			[ "enrocaron" ]
+		],
+		"5" : [
+			[ "enrocaba" ],
+			[ "enrocabas" ],
+			[ "enrocaba" ],
+			[ "enrocábamos" ],
+			[ "enrocabais", "enrocaban" ],
+			[ "enrocaban" ]
+		],
+		"6" : [
+			[ "enrocaría" ],
+			[ "enrocarías" ],
+			[ "enrocaría" ],
+			[ "enrocaríamos" ],
+			[ "enrocaríais", "enrocarían" ],
+			[ "enrocarían" ]
+		],
+		"7" : [
+			[ "enrocaré" ],
+			[ "enrocarás" ],
+			[ "enrocará" ],
+			[ "enrocaremos" ],
+			[ "enrocaréis", "enrocarán" ],
+			[ "enrocarán" ]
+		],
+		"8" : [
+			[ "enroque" ],
+			[ "enroques" ],
+			[ "enroque" ],
+			[ "enroquemos" ],
+			[ "enroquéis", "enroquen" ],
+			[ "enroquen" ]
+		],
+		"9" : [
+			[ "enrocara" ],
+			[ "enrocaras" ],
+			[ "enrocara" ],
+			[ "enrocáramos" ],
+			[ "enrocarais", "enrocaran" ],
+			[ "enrocaran" ]
+		],
+		"10" : [
+			[ "enrocase" ],
+			[ "enrocases" ],
+			[ "enrocase" ],
+			[ "enrocásemos" ],
+			[ "enrocaseis", "enrocasen" ],
+			[ "enrocasen" ]
+		],
+		"11" : [
+			[ "enrocare" ],
+			[ "enrocares" ],
+			[ "enrocare" ],
+			[ "enrocáremos" ],
+			[ "enrocareis", "enrocaren" ],
+			[ "enrocaren" ]
+		],
+		"12" : {
+			"1" : [ "enroca" ],
+			"2" : [ "enroque" ],
+			"3" : [ "enroquemos" ],
+			"4" : [ "enrocad" ],
+			"5" : [ "enroquen" ]
+		}
+	}
+}

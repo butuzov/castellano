@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=engordar",
+	"word" : "engordar",
+	"infinitivo" : "engordar",
+	"participio" : [ "engordado" ],
+	"gerundio" : [ "engordando" ],
+	"tenses" : {
+		"3" : [
+			[ "engordo" ],
+			[ "engordas", "engordás" ],
+			[ "engorda" ],
+			[ "engordamos" ],
+			[ "engordáis", "engordan" ],
+			[ "engordan" ]
+		],
+		"4" : [
+			[ "engordé" ],
+			[ "engordaste" ],
+			[ "engordó" ],
+			[ "engordamos" ],
+			[ "engordasteis", "engordaron" ],
+			[ "engordaron" ]
+		],
+		"5" : [
+			[ "engordaba" ],
+			[ "engordabas" ],
+			[ "engordaba" ],
+			[ "engordábamos" ],
+			[ "engordabais", "engordaban" ],
+			[ "engordaban" ]
+		],
+		"6" : [
+			[ "engordaría" ],
+			[ "engordarías" ],
+			[ "engordaría" ],
+			[ "engordaríamos" ],
+			[ "engordaríais", "engordarían" ],
+			[ "engordarían" ]
+		],
+		"7" : [
+			[ "engordaré" ],
+			[ "engordarás" ],
+			[ "engordará" ],
+			[ "engordaremos" ],
+			[ "engordaréis", "engordarán" ],
+			[ "engordarán" ]
+		],
+		"8" : [
+			[ "engorde" ],
+			[ "engordes" ],
+			[ "engorde" ],
+			[ "engordemos" ],
+			[ "engordéis", "engorden" ],
+			[ "engorden" ]
+		],
+		"9" : [
+			[ "engordara" ],
+			[ "engordaras" ],
+			[ "engordara" ],
+			[ "engordáramos" ],
+			[ "engordarais", "engordaran" ],
+			[ "engordaran" ]
+		],
+		"10" : [
+			[ "engordase" ],
+			[ "engordases" ],
+			[ "engordase" ],
+			[ "engordásemos" ],
+			[ "engordaseis", "engordasen" ],
+			[ "engordasen" ]
+		],
+		"11" : [
+			[ "engordare" ],
+			[ "engordares" ],
+			[ "engordare" ],
+			[ "engordáremos" ],
+			[ "engordareis", "engordaren" ],
+			[ "engordaren" ]
+		],
+		"12" : {
+			"1" : [ "engorda" ],
+			"2" : [ "engorde" ],
+			"3" : [ "engordemos" ],
+			"4" : [ "engordad" ],
+			"5" : [ "engorden" ]
+		}
+	}
+}

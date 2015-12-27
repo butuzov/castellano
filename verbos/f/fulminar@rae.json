@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fulminar",
+	"word" : "fulminar",
+	"infinitivo" : "fulminar",
+	"participio" : [ "fulminado" ],
+	"gerundio" : [ "fulminando" ],
+	"tenses" : {
+		"3" : [
+			[ "fulmino" ],
+			[ "fulminas", "fulminás" ],
+			[ "fulmina" ],
+			[ "fulminamos" ],
+			[ "fulmináis", "fulminan" ],
+			[ "fulminan" ]
+		],
+		"4" : [
+			[ "fulminé" ],
+			[ "fulminaste" ],
+			[ "fulminó" ],
+			[ "fulminamos" ],
+			[ "fulminasteis", "fulminaron" ],
+			[ "fulminaron" ]
+		],
+		"5" : [
+			[ "fulminaba" ],
+			[ "fulminabas" ],
+			[ "fulminaba" ],
+			[ "fulminábamos" ],
+			[ "fulminabais", "fulminaban" ],
+			[ "fulminaban" ]
+		],
+		"6" : [
+			[ "fulminaría" ],
+			[ "fulminarías" ],
+			[ "fulminaría" ],
+			[ "fulminaríamos" ],
+			[ "fulminaríais", "fulminarían" ],
+			[ "fulminarían" ]
+		],
+		"7" : [
+			[ "fulminaré" ],
+			[ "fulminarás" ],
+			[ "fulminará" ],
+			[ "fulminaremos" ],
+			[ "fulminaréis", "fulminarán" ],
+			[ "fulminarán" ]
+		],
+		"8" : [
+			[ "fulmine" ],
+			[ "fulmines" ],
+			[ "fulmine" ],
+			[ "fulminemos" ],
+			[ "fulminéis", "fulminen" ],
+			[ "fulminen" ]
+		],
+		"9" : [
+			[ "fulminara" ],
+			[ "fulminaras" ],
+			[ "fulminara" ],
+			[ "fulmináramos" ],
+			[ "fulminarais", "fulminaran" ],
+			[ "fulminaran" ]
+		],
+		"10" : [
+			[ "fulminase" ],
+			[ "fulminases" ],
+			[ "fulminase" ],
+			[ "fulminásemos" ],
+			[ "fulminaseis", "fulminasen" ],
+			[ "fulminasen" ]
+		],
+		"11" : [
+			[ "fulminare" ],
+			[ "fulminares" ],
+			[ "fulminare" ],
+			[ "fulmináremos" ],
+			[ "fulminareis", "fulminaren" ],
+			[ "fulminaren" ]
+		],
+		"12" : {
+			"1" : [ "fulmina" ],
+			"2" : [ "fulmine" ],
+			"3" : [ "fulminemos" ],
+			"4" : [ "fulminad" ],
+			"5" : [ "fulminen" ]
+		}
+	}
+}

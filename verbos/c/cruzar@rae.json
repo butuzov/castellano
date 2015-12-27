@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cruzar",
+	"word" : "cruzar",
+	"infinitivo" : "cruzar",
+	"participio" : [ "cruzado" ],
+	"gerundio" : [ "cruzando" ],
+	"tenses" : {
+		"3" : [
+			[ "cruzo" ],
+			[ "cruzas", "cruzás" ],
+			[ "cruza" ],
+			[ "cruzamos" ],
+			[ "cruzáis", "cruzan" ],
+			[ "cruzan" ]
+		],
+		"4" : [
+			[ "crucé" ],
+			[ "cruzaste" ],
+			[ "cruzó" ],
+			[ "cruzamos" ],
+			[ "cruzasteis", "cruzaron" ],
+			[ "cruzaron" ]
+		],
+		"5" : [
+			[ "cruzaba" ],
+			[ "cruzabas" ],
+			[ "cruzaba" ],
+			[ "cruzábamos" ],
+			[ "cruzabais", "cruzaban" ],
+			[ "cruzaban" ]
+		],
+		"6" : [
+			[ "cruzaría" ],
+			[ "cruzarías" ],
+			[ "cruzaría" ],
+			[ "cruzaríamos" ],
+			[ "cruzaríais", "cruzarían" ],
+			[ "cruzarían" ]
+		],
+		"7" : [
+			[ "cruzaré" ],
+			[ "cruzarás" ],
+			[ "cruzará" ],
+			[ "cruzaremos" ],
+			[ "cruzaréis", "cruzarán" ],
+			[ "cruzarán" ]
+		],
+		"8" : [
+			[ "cruce" ],
+			[ "cruces" ],
+			[ "cruce" ],
+			[ "crucemos" ],
+			[ "crucéis", "crucen" ],
+			[ "crucen" ]
+		],
+		"9" : [
+			[ "cruzara" ],
+			[ "cruzaras" ],
+			[ "cruzara" ],
+			[ "cruzáramos" ],
+			[ "cruzarais", "cruzaran" ],
+			[ "cruzaran" ]
+		],
+		"10" : [
+			[ "cruzase" ],
+			[ "cruzases" ],
+			[ "cruzase" ],
+			[ "cruzásemos" ],
+			[ "cruzaseis", "cruzasen" ],
+			[ "cruzasen" ]
+		],
+		"11" : [
+			[ "cruzare" ],
+			[ "cruzares" ],
+			[ "cruzare" ],
+			[ "cruzáremos" ],
+			[ "cruzareis", "cruzaren" ],
+			[ "cruzaren" ]
+		],
+		"12" : {
+			"1" : [ "cruza" ],
+			"2" : [ "cruce" ],
+			"3" : [ "crucemos" ],
+			"4" : [ "cruzad" ],
+			"5" : [ "crucen" ]
+		}
+	}
+}

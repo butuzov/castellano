@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deprimir",
+	"word" : "deprimir",
+	"infinitivo" : "deprimir",
+	"participio" : [ "deprimido" ],
+	"gerundio" : [ "deprimiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "deprimo" ],
+			[ "deprimes", "deprimís" ],
+			[ "deprime" ],
+			[ "deprimimos" ],
+			[ "deprimís", "deprimen" ],
+			[ "deprimen" ]
+		],
+		"4" : [
+			[ "deprimí" ],
+			[ "deprimiste" ],
+			[ "deprimió" ],
+			[ "deprimimos" ],
+			[ "deprimisteis", "deprimieron" ],
+			[ "deprimieron" ]
+		],
+		"5" : [
+			[ "deprimía" ],
+			[ "deprimías" ],
+			[ "deprimía" ],
+			[ "deprimíamos" ],
+			[ "deprimíais", "deprimían" ],
+			[ "deprimían" ]
+		],
+		"6" : [
+			[ "deprimiría" ],
+			[ "deprimirías" ],
+			[ "deprimiría" ],
+			[ "deprimiríamos" ],
+			[ "deprimiríais", "deprimirían" ],
+			[ "deprimirían" ]
+		],
+		"7" : [
+			[ "deprimiré" ],
+			[ "deprimirás" ],
+			[ "deprimirá" ],
+			[ "deprimiremos" ],
+			[ "deprimiréis", "deprimirán" ],
+			[ "deprimirán" ]
+		],
+		"8" : [
+			[ "deprima" ],
+			[ "deprimas" ],
+			[ "deprima" ],
+			[ "deprimamos" ],
+			[ "deprimáis", "depriman" ],
+			[ "depriman" ]
+		],
+		"9" : [
+			[ "deprimiera" ],
+			[ "deprimieras" ],
+			[ "deprimiera" ],
+			[ "deprimiéramos" ],
+			[ "deprimierais", "deprimieran" ],
+			[ "deprimieran" ]
+		],
+		"10" : [
+			[ "deprimiese" ],
+			[ "deprimieses" ],
+			[ "deprimiese" ],
+			[ "deprimiésemos" ],
+			[ "deprimieseis", "deprimiesen" ],
+			[ "deprimiesen" ]
+		],
+		"11" : [
+			[ "deprimiere" ],
+			[ "deprimieres" ],
+			[ "deprimiere" ],
+			[ "deprimiéremos" ],
+			[ "deprimiereis", "deprimieren" ],
+			[ "deprimieren" ]
+		],
+		"12" : {
+			"1" : [ "deprime" ],
+			"2" : [ "deprima" ],
+			"3" : [ "deprimamos" ],
+			"4" : [ "deprimid" ],
+			"5" : [ "depriman" ]
+		}
+	}
+}

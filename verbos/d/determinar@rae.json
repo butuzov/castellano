@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=determinar",
+	"word" : "determinar",
+	"infinitivo" : "determinar",
+	"participio" : [ "determinado" ],
+	"gerundio" : [ "determinando" ],
+	"tenses" : {
+		"3" : [
+			[ "determino" ],
+			[ "determinas", "determinás" ],
+			[ "determina" ],
+			[ "determinamos" ],
+			[ "determináis", "determinan" ],
+			[ "determinan" ]
+		],
+		"4" : [
+			[ "determiné" ],
+			[ "determinaste" ],
+			[ "determinó" ],
+			[ "determinamos" ],
+			[ "determinasteis", "determinaron" ],
+			[ "determinaron" ]
+		],
+		"5" : [
+			[ "determinaba" ],
+			[ "determinabas" ],
+			[ "determinaba" ],
+			[ "determinábamos" ],
+			[ "determinabais", "determinaban" ],
+			[ "determinaban" ]
+		],
+		"6" : [
+			[ "determinaría" ],
+			[ "determinarías" ],
+			[ "determinaría" ],
+			[ "determinaríamos" ],
+			[ "determinaríais", "determinarían" ],
+			[ "determinarían" ]
+		],
+		"7" : [
+			[ "determinaré" ],
+			[ "determinarás" ],
+			[ "determinará" ],
+			[ "determinaremos" ],
+			[ "determinaréis", "determinarán" ],
+			[ "determinarán" ]
+		],
+		"8" : [
+			[ "determine" ],
+			[ "determines" ],
+			[ "determine" ],
+			[ "determinemos" ],
+			[ "determinéis", "determinen" ],
+			[ "determinen" ]
+		],
+		"9" : [
+			[ "determinara" ],
+			[ "determinaras" ],
+			[ "determinara" ],
+			[ "determináramos" ],
+			[ "determinarais", "determinaran" ],
+			[ "determinaran" ]
+		],
+		"10" : [
+			[ "determinase" ],
+			[ "determinases" ],
+			[ "determinase" ],
+			[ "determinásemos" ],
+			[ "determinaseis", "determinasen" ],
+			[ "determinasen" ]
+		],
+		"11" : [
+			[ "determinare" ],
+			[ "determinares" ],
+			[ "determinare" ],
+			[ "determináremos" ],
+			[ "determinareis", "determinaren" ],
+			[ "determinaren" ]
+		],
+		"12" : {
+			"1" : [ "determina" ],
+			"2" : [ "determine" ],
+			"3" : [ "determinemos" ],
+			"4" : [ "determinad" ],
+			"5" : [ "determinen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=retribuir",
+	"word" : "retribuir",
+	"infinitivo" : "retribuir",
+	"participio" : [ "retribuido" ],
+	"gerundio" : [ "retribuyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "retribuyo" ],
+			[ "retribuyes", "retribuís" ],
+			[ "retribuye" ],
+			[ "retribuimos" ],
+			[ "retribuís", "retribuyen" ],
+			[ "retribuyen" ]
+		],
+		"4" : [
+			[ "retribuí" ],
+			[ "retribuiste" ],
+			[ "retribuyó" ],
+			[ "retribuimos" ],
+			[ "retribuisteis", "retribuyeron" ],
+			[ "retribuyeron" ]
+		],
+		"5" : [
+			[ "retribuía" ],
+			[ "retribuías" ],
+			[ "retribuía" ],
+			[ "retribuíamos" ],
+			[ "retribuíais", "retribuían" ],
+			[ "retribuían" ]
+		],
+		"6" : [
+			[ "retribuiría" ],
+			[ "retribuirías" ],
+			[ "retribuiría" ],
+			[ "retribuiríamos" ],
+			[ "retribuiríais", "retribuirían" ],
+			[ "retribuirían" ]
+		],
+		"7" : [
+			[ "retribuiré" ],
+			[ "retribuirás" ],
+			[ "retribuirá" ],
+			[ "retribuiremos" ],
+			[ "retribuiréis", "retribuirán" ],
+			[ "retribuirán" ]
+		],
+		"8" : [
+			[ "retribuya" ],
+			[ "retribuyas" ],
+			[ "retribuya" ],
+			[ "retribuyamos" ],
+			[ "retribuyáis", "retribuyan" ],
+			[ "retribuyan" ]
+		],
+		"9" : [
+			[ "retribuyera" ],
+			[ "retribuyeras" ],
+			[ "retribuyera" ],
+			[ "retribuyéramos" ],
+			[ "retribuyerais", "retribuyeran" ],
+			[ "retribuyeran" ]
+		],
+		"10" : [
+			[ "retribuyese" ],
+			[ "retribuyeses" ],
+			[ "retribuyese" ],
+			[ "retribuyésemos" ],
+			[ "retribuyeseis", "retribuyesen" ],
+			[ "retribuyesen" ]
+		],
+		"11" : [
+			[ "retribuyere" ],
+			[ "retribuyeres" ],
+			[ "retribuyere" ],
+			[ "retribuyéremos" ],
+			[ "retribuyereis", "retribuyeren" ],
+			[ "retribuyeren" ]
+		],
+		"12" : {
+			"1" : [ "retribuye" ],
+			"2" : [ "retribuya" ],
+			"3" : [ "retribuyamos" ],
+			"4" : [ "retribuid" ],
+			"5" : [ "retribuyan" ]
+		}
+	}
+}

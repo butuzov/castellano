@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=travesear",
+	"word" : "travesear",
+	"infinitivo" : "travesear",
+	"participio" : [ "traveseado" ],
+	"gerundio" : [ "traveseando" ],
+	"tenses" : {
+		"3" : [
+			[ "traveseo" ],
+			[ "traveseas", "traveseás" ],
+			[ "travesea" ],
+			[ "traveseamos" ],
+			[ "traveseáis", "travesean" ],
+			[ "travesean" ]
+		],
+		"4" : [
+			[ "traveseé" ],
+			[ "traveseaste" ],
+			[ "traveseó" ],
+			[ "traveseamos" ],
+			[ "traveseasteis", "travesearon" ],
+			[ "travesearon" ]
+		],
+		"5" : [
+			[ "traveseaba" ],
+			[ "traveseabas" ],
+			[ "traveseaba" ],
+			[ "traveseábamos" ],
+			[ "traveseabais", "traveseaban" ],
+			[ "traveseaban" ]
+		],
+		"6" : [
+			[ "travesearía" ],
+			[ "travesearías" ],
+			[ "travesearía" ],
+			[ "travesearíamos" ],
+			[ "travesearíais", "travesearían" ],
+			[ "travesearían" ]
+		],
+		"7" : [
+			[ "travesearé" ],
+			[ "travesearás" ],
+			[ "traveseará" ],
+			[ "travesearemos" ],
+			[ "travesearéis", "travesearán" ],
+			[ "travesearán" ]
+		],
+		"8" : [
+			[ "travesee" ],
+			[ "travesees" ],
+			[ "travesee" ],
+			[ "traveseemos" ],
+			[ "traveseéis", "traveseen" ],
+			[ "traveseen" ]
+		],
+		"9" : [
+			[ "traveseara" ],
+			[ "travesearas" ],
+			[ "traveseara" ],
+			[ "traveseáramos" ],
+			[ "travesearais", "travesearan" ],
+			[ "travesearan" ]
+		],
+		"10" : [
+			[ "travesease" ],
+			[ "traveseases" ],
+			[ "travesease" ],
+			[ "traveseásemos" ],
+			[ "traveseaseis", "traveseasen" ],
+			[ "traveseasen" ]
+		],
+		"11" : [
+			[ "traveseare" ],
+			[ "traveseares" ],
+			[ "traveseare" ],
+			[ "traveseáremos" ],
+			[ "traveseareis", "travesearen" ],
+			[ "travesearen" ]
+		],
+		"12" : {
+			"1" : [ "travesea" ],
+			"2" : [ "travesee" ],
+			"3" : [ "traveseemos" ],
+			"4" : [ "travesead" ],
+			"5" : [ "traveseen" ]
+		}
+	}
+}

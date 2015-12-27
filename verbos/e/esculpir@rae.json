@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esculpir",
+	"word" : "esculpir",
+	"infinitivo" : "esculpir",
+	"participio" : [ "esculpido" ],
+	"gerundio" : [ "esculpiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "esculpo" ],
+			[ "esculpes", "esculpís" ],
+			[ "esculpe" ],
+			[ "esculpimos" ],
+			[ "esculpís", "esculpen" ],
+			[ "esculpen" ]
+		],
+		"4" : [
+			[ "esculpí" ],
+			[ "esculpiste" ],
+			[ "esculpió" ],
+			[ "esculpimos" ],
+			[ "esculpisteis", "esculpieron" ],
+			[ "esculpieron" ]
+		],
+		"5" : [
+			[ "esculpía" ],
+			[ "esculpías" ],
+			[ "esculpía" ],
+			[ "esculpíamos" ],
+			[ "esculpíais", "esculpían" ],
+			[ "esculpían" ]
+		],
+		"6" : [
+			[ "esculpiría" ],
+			[ "esculpirías" ],
+			[ "esculpiría" ],
+			[ "esculpiríamos" ],
+			[ "esculpiríais", "esculpirían" ],
+			[ "esculpirían" ]
+		],
+		"7" : [
+			[ "esculpiré" ],
+			[ "esculpirás" ],
+			[ "esculpirá" ],
+			[ "esculpiremos" ],
+			[ "esculpiréis", "esculpirán" ],
+			[ "esculpirán" ]
+		],
+		"8" : [
+			[ "esculpa" ],
+			[ "esculpas" ],
+			[ "esculpa" ],
+			[ "esculpamos" ],
+			[ "esculpáis", "esculpan" ],
+			[ "esculpan" ]
+		],
+		"9" : [
+			[ "esculpiera" ],
+			[ "esculpieras" ],
+			[ "esculpiera" ],
+			[ "esculpiéramos" ],
+			[ "esculpierais", "esculpieran" ],
+			[ "esculpieran" ]
+		],
+		"10" : [
+			[ "esculpiese" ],
+			[ "esculpieses" ],
+			[ "esculpiese" ],
+			[ "esculpiésemos" ],
+			[ "esculpieseis", "esculpiesen" ],
+			[ "esculpiesen" ]
+		],
+		"11" : [
+			[ "esculpiere" ],
+			[ "esculpieres" ],
+			[ "esculpiere" ],
+			[ "esculpiéremos" ],
+			[ "esculpiereis", "esculpieren" ],
+			[ "esculpieren" ]
+		],
+		"12" : {
+			"1" : [ "esculpe" ],
+			"2" : [ "esculpa" ],
+			"3" : [ "esculpamos" ],
+			"4" : [ "esculpid" ],
+			"5" : [ "esculpan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=maltraer",
+	"word" : "maltraer",
+	"infinitivo" : "maltraer",
+	"participio" : [ "maltraído" ],
+	"gerundio" : [ "maltrayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "maltraigo" ],
+			[ "maltraes", "maltraés" ],
+			[ "maltrae" ],
+			[ "maltraemos" ],
+			[ "maltraéis", "maltraen" ],
+			[ "maltraen" ]
+		],
+		"4" : [
+			[ "maltraje" ],
+			[ "maltrajiste" ],
+			[ "maltrajo" ],
+			[ "maltrajimos" ],
+			[ "maltrajisteis", "maltrajeron" ],
+			[ "maltrajeron" ]
+		],
+		"5" : [
+			[ "maltraía" ],
+			[ "maltraías" ],
+			[ "maltraía" ],
+			[ "maltraíamos" ],
+			[ "maltraíais", "maltraían" ],
+			[ "maltraían" ]
+		],
+		"6" : [
+			[ "maltraería" ],
+			[ "maltraerías" ],
+			[ "maltraería" ],
+			[ "maltraeríamos" ],
+			[ "maltraeríais", "maltraerían" ],
+			[ "maltraerían" ]
+		],
+		"7" : [
+			[ "maltraeré" ],
+			[ "maltraerás" ],
+			[ "maltraerá" ],
+			[ "maltraeremos" ],
+			[ "maltraeréis", "maltraerán" ],
+			[ "maltraerán" ]
+		],
+		"8" : [
+			[ "maltraiga" ],
+			[ "maltraigas" ],
+			[ "maltraiga" ],
+			[ "maltraigamos" ],
+			[ "maltraigáis", "maltraigan" ],
+			[ "maltraigan" ]
+		],
+		"9" : [
+			[ "maltrajera" ],
+			[ "maltrajeras" ],
+			[ "maltrajera" ],
+			[ "maltrajéramos" ],
+			[ "maltrajerais", "maltrajeran" ],
+			[ "maltrajeran" ]
+		],
+		"10" : [
+			[ "maltrajese" ],
+			[ "maltrajeses" ],
+			[ "maltrajese" ],
+			[ "maltrajésemos" ],
+			[ "maltrajeseis", "maltrajesen" ],
+			[ "maltrajesen" ]
+		],
+		"11" : [
+			[ "maltrajere" ],
+			[ "maltrajeres" ],
+			[ "maltrajere" ],
+			[ "maltrajéremos" ],
+			[ "maltrajereis", "maltrajeren" ],
+			[ "maltrajeren" ]
+		],
+		"12" : {
+			"1" : [ "maltrae" ],
+			"2" : [ "maltraiga" ],
+			"3" : [ "maltraigamos" ],
+			"4" : [ "maltraed" ],
+			"5" : [ "maltraigan" ]
+		}
+	}
+}

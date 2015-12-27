@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=devanar",
+	"word" : "devanar",
+	"infinitivo" : "devanar",
+	"participio" : [ "devanado" ],
+	"gerundio" : [ "devanando" ],
+	"tenses" : {
+		"3" : [
+			[ "devano" ],
+			[ "devanas", "devanás" ],
+			[ "devana" ],
+			[ "devanamos" ],
+			[ "devanáis", "devanan" ],
+			[ "devanan" ]
+		],
+		"4" : [
+			[ "devané" ],
+			[ "devanaste" ],
+			[ "devanó" ],
+			[ "devanamos" ],
+			[ "devanasteis", "devanaron" ],
+			[ "devanaron" ]
+		],
+		"5" : [
+			[ "devanaba" ],
+			[ "devanabas" ],
+			[ "devanaba" ],
+			[ "devanábamos" ],
+			[ "devanabais", "devanaban" ],
+			[ "devanaban" ]
+		],
+		"6" : [
+			[ "devanaría" ],
+			[ "devanarías" ],
+			[ "devanaría" ],
+			[ "devanaríamos" ],
+			[ "devanaríais", "devanarían" ],
+			[ "devanarían" ]
+		],
+		"7" : [
+			[ "devanaré" ],
+			[ "devanarás" ],
+			[ "devanará" ],
+			[ "devanaremos" ],
+			[ "devanaréis", "devanarán" ],
+			[ "devanarán" ]
+		],
+		"8" : [
+			[ "devane" ],
+			[ "devanes" ],
+			[ "devane" ],
+			[ "devanemos" ],
+			[ "devanéis", "devanen" ],
+			[ "devanen" ]
+		],
+		"9" : [
+			[ "devanara" ],
+			[ "devanaras" ],
+			[ "devanara" ],
+			[ "devanáramos" ],
+			[ "devanarais", "devanaran" ],
+			[ "devanaran" ]
+		],
+		"10" : [
+			[ "devanase" ],
+			[ "devanases" ],
+			[ "devanase" ],
+			[ "devanásemos" ],
+			[ "devanaseis", "devanasen" ],
+			[ "devanasen" ]
+		],
+		"11" : [
+			[ "devanare" ],
+			[ "devanares" ],
+			[ "devanare" ],
+			[ "devanáremos" ],
+			[ "devanareis", "devanaren" ],
+			[ "devanaren" ]
+		],
+		"12" : {
+			"1" : [ "devana" ],
+			"2" : [ "devane" ],
+			"3" : [ "devanemos" ],
+			"4" : [ "devanad" ],
+			"5" : [ "devanen" ]
+		}
+	}
+}

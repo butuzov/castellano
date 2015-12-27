@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enchilar",
+	"word" : "enchilar",
+	"infinitivo" : "enchilar",
+	"participio" : [ "enchilado" ],
+	"gerundio" : [ "enchilando" ],
+	"tenses" : {
+		"3" : [
+			[ "enchilo" ],
+			[ "enchilas", "enchilás" ],
+			[ "enchila" ],
+			[ "enchilamos" ],
+			[ "enchiláis", "enchilan" ],
+			[ "enchilan" ]
+		],
+		"4" : [
+			[ "enchilé" ],
+			[ "enchilaste" ],
+			[ "enchiló" ],
+			[ "enchilamos" ],
+			[ "enchilasteis", "enchilaron" ],
+			[ "enchilaron" ]
+		],
+		"5" : [
+			[ "enchilaba" ],
+			[ "enchilabas" ],
+			[ "enchilaba" ],
+			[ "enchilábamos" ],
+			[ "enchilabais", "enchilaban" ],
+			[ "enchilaban" ]
+		],
+		"6" : [
+			[ "enchilaría" ],
+			[ "enchilarías" ],
+			[ "enchilaría" ],
+			[ "enchilaríamos" ],
+			[ "enchilaríais", "enchilarían" ],
+			[ "enchilarían" ]
+		],
+		"7" : [
+			[ "enchilaré" ],
+			[ "enchilarás" ],
+			[ "enchilará" ],
+			[ "enchilaremos" ],
+			[ "enchilaréis", "enchilarán" ],
+			[ "enchilarán" ]
+		],
+		"8" : [
+			[ "enchile" ],
+			[ "enchiles" ],
+			[ "enchile" ],
+			[ "enchilemos" ],
+			[ "enchiléis", "enchilen" ],
+			[ "enchilen" ]
+		],
+		"9" : [
+			[ "enchilara" ],
+			[ "enchilaras" ],
+			[ "enchilara" ],
+			[ "enchiláramos" ],
+			[ "enchilarais", "enchilaran" ],
+			[ "enchilaran" ]
+		],
+		"10" : [
+			[ "enchilase" ],
+			[ "enchilases" ],
+			[ "enchilase" ],
+			[ "enchilásemos" ],
+			[ "enchilaseis", "enchilasen" ],
+			[ "enchilasen" ]
+		],
+		"11" : [
+			[ "enchilare" ],
+			[ "enchilares" ],
+			[ "enchilare" ],
+			[ "enchiláremos" ],
+			[ "enchilareis", "enchilaren" ],
+			[ "enchilaren" ]
+		],
+		"12" : {
+			"1" : [ "enchila" ],
+			"2" : [ "enchile" ],
+			"3" : [ "enchilemos" ],
+			"4" : [ "enchilad" ],
+			"5" : [ "enchilen" ]
+		}
+	}
+}

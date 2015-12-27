@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adornar",
+	"word" : "adornar",
+	"infinitivo" : "adornar",
+	"participio" : [ "adornado" ],
+	"gerundio" : [ "adornando" ],
+	"tenses" : {
+		"3" : [
+			[ "adorno" ],
+			[ "adornas", "adornás" ],
+			[ "adorna" ],
+			[ "adornamos" ],
+			[ "adornáis", "adornan" ],
+			[ "adornan" ]
+		],
+		"4" : [
+			[ "adorné" ],
+			[ "adornaste" ],
+			[ "adornó" ],
+			[ "adornamos" ],
+			[ "adornasteis", "adornaron" ],
+			[ "adornaron" ]
+		],
+		"5" : [
+			[ "adornaba" ],
+			[ "adornabas" ],
+			[ "adornaba" ],
+			[ "adornábamos" ],
+			[ "adornabais", "adornaban" ],
+			[ "adornaban" ]
+		],
+		"6" : [
+			[ "adornaría" ],
+			[ "adornarías" ],
+			[ "adornaría" ],
+			[ "adornaríamos" ],
+			[ "adornaríais", "adornarían" ],
+			[ "adornarían" ]
+		],
+		"7" : [
+			[ "adornaré" ],
+			[ "adornarás" ],
+			[ "adornará" ],
+			[ "adornaremos" ],
+			[ "adornaréis", "adornarán" ],
+			[ "adornarán" ]
+		],
+		"8" : [
+			[ "adorne" ],
+			[ "adornes" ],
+			[ "adorne" ],
+			[ "adornemos" ],
+			[ "adornéis", "adornen" ],
+			[ "adornen" ]
+		],
+		"9" : [
+			[ "adornara" ],
+			[ "adornaras" ],
+			[ "adornara" ],
+			[ "adornáramos" ],
+			[ "adornarais", "adornaran" ],
+			[ "adornaran" ]
+		],
+		"10" : [
+			[ "adornase" ],
+			[ "adornases" ],
+			[ "adornase" ],
+			[ "adornásemos" ],
+			[ "adornaseis", "adornasen" ],
+			[ "adornasen" ]
+		],
+		"11" : [
+			[ "adornare" ],
+			[ "adornares" ],
+			[ "adornare" ],
+			[ "adornáremos" ],
+			[ "adornareis", "adornaren" ],
+			[ "adornaren" ]
+		],
+		"12" : {
+			"1" : [ "adorna" ],
+			"2" : [ "adorne" ],
+			"3" : [ "adornemos" ],
+			"4" : [ "adornad" ],
+			"5" : [ "adornen" ]
+		}
+	}
+}

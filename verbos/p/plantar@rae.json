@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=plantar",
+	"word" : "plantar",
+	"infinitivo" : "plantar",
+	"participio" : [ "plantado" ],
+	"gerundio" : [ "plantando" ],
+	"tenses" : {
+		"3" : [
+			[ "planto" ],
+			[ "plantas", "plantás" ],
+			[ "planta" ],
+			[ "plantamos" ],
+			[ "plantáis", "plantan" ],
+			[ "plantan" ]
+		],
+		"4" : [
+			[ "planté" ],
+			[ "plantaste" ],
+			[ "plantó" ],
+			[ "plantamos" ],
+			[ "plantasteis", "plantaron" ],
+			[ "plantaron" ]
+		],
+		"5" : [
+			[ "plantaba" ],
+			[ "plantabas" ],
+			[ "plantaba" ],
+			[ "plantábamos" ],
+			[ "plantabais", "plantaban" ],
+			[ "plantaban" ]
+		],
+		"6" : [
+			[ "plantaría" ],
+			[ "plantarías" ],
+			[ "plantaría" ],
+			[ "plantaríamos" ],
+			[ "plantaríais", "plantarían" ],
+			[ "plantarían" ]
+		],
+		"7" : [
+			[ "plantaré" ],
+			[ "plantarás" ],
+			[ "plantará" ],
+			[ "plantaremos" ],
+			[ "plantaréis", "plantarán" ],
+			[ "plantarán" ]
+		],
+		"8" : [
+			[ "plante" ],
+			[ "plantes" ],
+			[ "plante" ],
+			[ "plantemos" ],
+			[ "plantéis", "planten" ],
+			[ "planten" ]
+		],
+		"9" : [
+			[ "plantara" ],
+			[ "plantaras" ],
+			[ "plantara" ],
+			[ "plantáramos" ],
+			[ "plantarais", "plantaran" ],
+			[ "plantaran" ]
+		],
+		"10" : [
+			[ "plantase" ],
+			[ "plantases" ],
+			[ "plantase" ],
+			[ "plantásemos" ],
+			[ "plantaseis", "plantasen" ],
+			[ "plantasen" ]
+		],
+		"11" : [
+			[ "plantare" ],
+			[ "plantares" ],
+			[ "plantare" ],
+			[ "plantáremos" ],
+			[ "plantareis", "plantaren" ],
+			[ "plantaren" ]
+		],
+		"12" : {
+			"1" : [ "planta" ],
+			"2" : [ "plante" ],
+			"3" : [ "plantemos" ],
+			"4" : [ "plantad" ],
+			"5" : [ "planten" ]
+		}
+	}
+}

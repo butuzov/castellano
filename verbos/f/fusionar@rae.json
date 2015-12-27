@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fusionar",
+	"word" : "fusionar",
+	"infinitivo" : "fusionar",
+	"participio" : [ "fusionado" ],
+	"gerundio" : [ "fusionando" ],
+	"tenses" : {
+		"3" : [
+			[ "fusiono" ],
+			[ "fusionas", "fusionás" ],
+			[ "fusiona" ],
+			[ "fusionamos" ],
+			[ "fusionáis", "fusionan" ],
+			[ "fusionan" ]
+		],
+		"4" : [
+			[ "fusioné" ],
+			[ "fusionaste" ],
+			[ "fusionó" ],
+			[ "fusionamos" ],
+			[ "fusionasteis", "fusionaron" ],
+			[ "fusionaron" ]
+		],
+		"5" : [
+			[ "fusionaba" ],
+			[ "fusionabas" ],
+			[ "fusionaba" ],
+			[ "fusionábamos" ],
+			[ "fusionabais", "fusionaban" ],
+			[ "fusionaban" ]
+		],
+		"6" : [
+			[ "fusionaría" ],
+			[ "fusionarías" ],
+			[ "fusionaría" ],
+			[ "fusionaríamos" ],
+			[ "fusionaríais", "fusionarían" ],
+			[ "fusionarían" ]
+		],
+		"7" : [
+			[ "fusionaré" ],
+			[ "fusionarás" ],
+			[ "fusionará" ],
+			[ "fusionaremos" ],
+			[ "fusionaréis", "fusionarán" ],
+			[ "fusionarán" ]
+		],
+		"8" : [
+			[ "fusione" ],
+			[ "fusiones" ],
+			[ "fusione" ],
+			[ "fusionemos" ],
+			[ "fusionéis", "fusionen" ],
+			[ "fusionen" ]
+		],
+		"9" : [
+			[ "fusionara" ],
+			[ "fusionaras" ],
+			[ "fusionara" ],
+			[ "fusionáramos" ],
+			[ "fusionarais", "fusionaran" ],
+			[ "fusionaran" ]
+		],
+		"10" : [
+			[ "fusionase" ],
+			[ "fusionases" ],
+			[ "fusionase" ],
+			[ "fusionásemos" ],
+			[ "fusionaseis", "fusionasen" ],
+			[ "fusionasen" ]
+		],
+		"11" : [
+			[ "fusionare" ],
+			[ "fusionares" ],
+			[ "fusionare" ],
+			[ "fusionáremos" ],
+			[ "fusionareis", "fusionaren" ],
+			[ "fusionaren" ]
+		],
+		"12" : {
+			"1" : [ "fusiona" ],
+			"2" : [ "fusione" ],
+			"3" : [ "fusionemos" ],
+			"4" : [ "fusionad" ],
+			"5" : [ "fusionen" ]
+		}
+	}
+}

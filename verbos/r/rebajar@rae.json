@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rebajar",
+	"word" : "rebajar",
+	"infinitivo" : "rebajar",
+	"participio" : [ "rebajado" ],
+	"gerundio" : [ "rebajando" ],
+	"tenses" : {
+		"3" : [
+			[ "rebajo" ],
+			[ "rebajas", "rebajás" ],
+			[ "rebaja" ],
+			[ "rebajamos" ],
+			[ "rebajáis", "rebajan" ],
+			[ "rebajan" ]
+		],
+		"4" : [
+			[ "rebajé" ],
+			[ "rebajaste" ],
+			[ "rebajó" ],
+			[ "rebajamos" ],
+			[ "rebajasteis", "rebajaron" ],
+			[ "rebajaron" ]
+		],
+		"5" : [
+			[ "rebajaba" ],
+			[ "rebajabas" ],
+			[ "rebajaba" ],
+			[ "rebajábamos" ],
+			[ "rebajabais", "rebajaban" ],
+			[ "rebajaban" ]
+		],
+		"6" : [
+			[ "rebajaría" ],
+			[ "rebajarías" ],
+			[ "rebajaría" ],
+			[ "rebajaríamos" ],
+			[ "rebajaríais", "rebajarían" ],
+			[ "rebajarían" ]
+		],
+		"7" : [
+			[ "rebajaré" ],
+			[ "rebajarás" ],
+			[ "rebajará" ],
+			[ "rebajaremos" ],
+			[ "rebajaréis", "rebajarán" ],
+			[ "rebajarán" ]
+		],
+		"8" : [
+			[ "rebaje" ],
+			[ "rebajes" ],
+			[ "rebaje" ],
+			[ "rebajemos" ],
+			[ "rebajéis", "rebajen" ],
+			[ "rebajen" ]
+		],
+		"9" : [
+			[ "rebajara" ],
+			[ "rebajaras" ],
+			[ "rebajara" ],
+			[ "rebajáramos" ],
+			[ "rebajarais", "rebajaran" ],
+			[ "rebajaran" ]
+		],
+		"10" : [
+			[ "rebajase" ],
+			[ "rebajases" ],
+			[ "rebajase" ],
+			[ "rebajásemos" ],
+			[ "rebajaseis", "rebajasen" ],
+			[ "rebajasen" ]
+		],
+		"11" : [
+			[ "rebajare" ],
+			[ "rebajares" ],
+			[ "rebajare" ],
+			[ "rebajáremos" ],
+			[ "rebajareis", "rebajaren" ],
+			[ "rebajaren" ]
+		],
+		"12" : {
+			"1" : [ "rebaja" ],
+			"2" : [ "rebaje" ],
+			"3" : [ "rebajemos" ],
+			"4" : [ "rebajad" ],
+			"5" : [ "rebajen" ]
+		}
+	}
+}

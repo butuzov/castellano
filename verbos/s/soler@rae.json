@@ -1,0 +1,47 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=soler",
+	"word" : "soler",
+	"infinitivo" : "soler",
+	"tenses" : {
+		"3" : [
+			[ "suelo" ],
+			[ "sueles", "solés" ],
+			[ "suele" ],
+			[ "solemos" ],
+			[ "soléis", "suelen" ],
+			[ "suelen" ]
+		],
+		"5" : [
+			[ "solía" ],
+			[ "solías" ],
+			[ "solía" ],
+			[ "solíamos" ],
+			[ "solíais", "solían" ],
+			[ "solían" ]
+		],
+		"8" : [
+			[ "suela" ],
+			[ "suelas" ],
+			[ "suela" ],
+			[ "solamos" ],
+			[ "soláis", "suelan" ],
+			[ "suelan" ]
+		],
+		"9" : [
+			[ "soliera" ],
+			[ "solieras" ],
+			[ "soliera" ],
+			[ "soliéramos" ],
+			[ "solierais", "solieran" ],
+			[ "solieran" ]
+		],
+		"10" : [
+			[ "soliese" ],
+			[ "solieses" ],
+			[ "soliese" ],
+			[ "soliésemos" ],
+			[ "solieseis", "soliesen" ],
+			[ "soliesen" ]
+		]
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=filar",
+	"word" : "filar",
+	"infinitivo" : "filar",
+	"participio" : [ "filado" ],
+	"gerundio" : [ "filando" ],
+	"tenses" : {
+		"3" : [
+			[ "filo" ],
+			[ "filas", "filás" ],
+			[ "fila" ],
+			[ "filamos" ],
+			[ "filáis", "filan" ],
+			[ "filan" ]
+		],
+		"4" : [
+			[ "filé" ],
+			[ "filaste" ],
+			[ "filó" ],
+			[ "filamos" ],
+			[ "filasteis", "filaron" ],
+			[ "filaron" ]
+		],
+		"5" : [
+			[ "filaba" ],
+			[ "filabas" ],
+			[ "filaba" ],
+			[ "filábamos" ],
+			[ "filabais", "filaban" ],
+			[ "filaban" ]
+		],
+		"6" : [
+			[ "filaría" ],
+			[ "filarías" ],
+			[ "filaría" ],
+			[ "filaríamos" ],
+			[ "filaríais", "filarían" ],
+			[ "filarían" ]
+		],
+		"7" : [
+			[ "filaré" ],
+			[ "filarás" ],
+			[ "filará" ],
+			[ "filaremos" ],
+			[ "filaréis", "filarán" ],
+			[ "filarán" ]
+		],
+		"8" : [
+			[ "file" ],
+			[ "files" ],
+			[ "file" ],
+			[ "filemos" ],
+			[ "filéis", "filen" ],
+			[ "filen" ]
+		],
+		"9" : [
+			[ "filara" ],
+			[ "filaras" ],
+			[ "filara" ],
+			[ "filáramos" ],
+			[ "filarais", "filaran" ],
+			[ "filaran" ]
+		],
+		"10" : [
+			[ "filase" ],
+			[ "filases" ],
+			[ "filase" ],
+			[ "filásemos" ],
+			[ "filaseis", "filasen" ],
+			[ "filasen" ]
+		],
+		"11" : [
+			[ "filare" ],
+			[ "filares" ],
+			[ "filare" ],
+			[ "filáremos" ],
+			[ "filareis", "filaren" ],
+			[ "filaren" ]
+		],
+		"12" : {
+			"1" : [ "fila" ],
+			"2" : [ "file" ],
+			"3" : [ "filemos" ],
+			"4" : [ "filad" ],
+			"5" : [ "filen" ]
+		}
+	}
+}

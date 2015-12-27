@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=luir",
+	"word" : "luir",
+	"infinitivo" : "luir",
+	"participio" : [ "luido" ],
+	"gerundio" : [ "luyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "luyo" ],
+			[ "luyes", "luis" ],
+			[ "luye" ],
+			[ "luimos" ],
+			[ "luis", "luyen" ],
+			[ "luyen" ]
+		],
+		"4" : [
+			[ "lui" ],
+			[ "luiste" ],
+			[ "luyó" ],
+			[ "luimos" ],
+			[ "luisteis", "luyeron" ],
+			[ "luyeron" ]
+		],
+		"5" : [
+			[ "luía" ],
+			[ "luías" ],
+			[ "luía" ],
+			[ "luíamos" ],
+			[ "luíais", "luían" ],
+			[ "luían" ]
+		],
+		"6" : [
+			[ "luiría" ],
+			[ "luirías" ],
+			[ "luiría" ],
+			[ "luiríamos" ],
+			[ "luiríais", "luirían" ],
+			[ "luirían" ]
+		],
+		"7" : [
+			[ "luiré" ],
+			[ "luirás" ],
+			[ "luirá" ],
+			[ "luiremos" ],
+			[ "luiréis", "luirán" ],
+			[ "luirán" ]
+		],
+		"8" : [
+			[ "luya" ],
+			[ "luyas" ],
+			[ "luya" ],
+			[ "luyamos" ],
+			[ "luyáis", "luyan" ],
+			[ "luyan" ]
+		],
+		"9" : [
+			[ "luyera" ],
+			[ "luyeras" ],
+			[ "luyera" ],
+			[ "luyéramos" ],
+			[ "luyerais", "luyeran" ],
+			[ "luyeran" ]
+		],
+		"10" : [
+			[ "luyese" ],
+			[ "luyeses" ],
+			[ "luyese" ],
+			[ "luyésemos" ],
+			[ "luyeseis", "luyesen" ],
+			[ "luyesen" ]
+		],
+		"11" : [
+			[ "luyere" ],
+			[ "luyeres" ],
+			[ "luyere" ],
+			[ "luyéremos" ],
+			[ "luyereis", "luyeren" ],
+			[ "luyeren" ]
+		],
+		"12" : {
+			"1" : [ "luye" ],
+			"2" : [ "luya" ],
+			"3" : [ "luyamos" ],
+			"4" : [ "luid" ],
+			"5" : [ "luyan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embestir",
+	"word" : "embestir",
+	"infinitivo" : "embestir",
+	"participio" : [ "embestido" ],
+	"gerundio" : [ "embistiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "embisto" ],
+			[ "embistes", "embestís" ],
+			[ "embiste" ],
+			[ "embestimos" ],
+			[ "embestís", "embisten" ],
+			[ "embisten" ]
+		],
+		"4" : [
+			[ "embestí" ],
+			[ "embestiste" ],
+			[ "embistió" ],
+			[ "embestimos" ],
+			[ "embestisteis", "embistieron" ],
+			[ "embistieron" ]
+		],
+		"5" : [
+			[ "embestía" ],
+			[ "embestías" ],
+			[ "embestía" ],
+			[ "embestíamos" ],
+			[ "embestíais", "embestían" ],
+			[ "embestían" ]
+		],
+		"6" : [
+			[ "embestiría" ],
+			[ "embestirías" ],
+			[ "embestiría" ],
+			[ "embestiríamos" ],
+			[ "embestiríais", "embestirían" ],
+			[ "embestirían" ]
+		],
+		"7" : [
+			[ "embestiré" ],
+			[ "embestirás" ],
+			[ "embestirá" ],
+			[ "embestiremos" ],
+			[ "embestiréis", "embestirán" ],
+			[ "embestirán" ]
+		],
+		"8" : [
+			[ "embista" ],
+			[ "embistas" ],
+			[ "embista" ],
+			[ "embistamos" ],
+			[ "embistáis", "embistan" ],
+			[ "embistan" ]
+		],
+		"9" : [
+			[ "embistiera" ],
+			[ "embistieras" ],
+			[ "embistiera" ],
+			[ "embistiéramos" ],
+			[ "embistierais", "embistieran" ],
+			[ "embistieran" ]
+		],
+		"10" : [
+			[ "embistiese" ],
+			[ "embistieses" ],
+			[ "embistiese" ],
+			[ "embistiésemos" ],
+			[ "embistieseis", "embistiesen" ],
+			[ "embistiesen" ]
+		],
+		"11" : [
+			[ "embistiere" ],
+			[ "embistieres" ],
+			[ "embistiere" ],
+			[ "embistiéremos" ],
+			[ "embistiereis", "embistieren" ],
+			[ "embistieren" ]
+		],
+		"12" : {
+			"1" : [ "embiste" ],
+			"2" : [ "embista" ],
+			"3" : [ "embistamos" ],
+			"4" : [ "embestid" ],
+			"5" : [ "embistan" ]
+		}
+	}
+}

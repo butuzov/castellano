@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=barrer",
+	"word" : "barrer",
+	"infinitivo" : "barrer",
+	"participio" : [ "barrido" ],
+	"gerundio" : [ "barriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "barro" ],
+			[ "barres", "barrés" ],
+			[ "barre" ],
+			[ "barremos" ],
+			[ "barréis", "barren" ],
+			[ "barren" ]
+		],
+		"4" : [
+			[ "barrí" ],
+			[ "barriste" ],
+			[ "barrió" ],
+			[ "barrimos" ],
+			[ "barristeis", "barrieron" ],
+			[ "barrieron" ]
+		],
+		"5" : [
+			[ "barría" ],
+			[ "barrías" ],
+			[ "barría" ],
+			[ "barríamos" ],
+			[ "barríais", "barrían" ],
+			[ "barrían" ]
+		],
+		"6" : [
+			[ "barrería" ],
+			[ "barrerías" ],
+			[ "barrería" ],
+			[ "barreríamos" ],
+			[ "barreríais", "barrerían" ],
+			[ "barrerían" ]
+		],
+		"7" : [
+			[ "barreré" ],
+			[ "barrerás" ],
+			[ "barrerá" ],
+			[ "barreremos" ],
+			[ "barreréis", "barrerán" ],
+			[ "barrerán" ]
+		],
+		"8" : [
+			[ "barra" ],
+			[ "barras" ],
+			[ "barra" ],
+			[ "barramos" ],
+			[ "barráis", "barran" ],
+			[ "barran" ]
+		],
+		"9" : [
+			[ "barriera" ],
+			[ "barrieras" ],
+			[ "barriera" ],
+			[ "barriéramos" ],
+			[ "barrierais", "barrieran" ],
+			[ "barrieran" ]
+		],
+		"10" : [
+			[ "barriese" ],
+			[ "barrieses" ],
+			[ "barriese" ],
+			[ "barriésemos" ],
+			[ "barrieseis", "barriesen" ],
+			[ "barriesen" ]
+		],
+		"11" : [
+			[ "barriere" ],
+			[ "barrieres" ],
+			[ "barriere" ],
+			[ "barriéremos" ],
+			[ "barriereis", "barrieren" ],
+			[ "barrieren" ]
+		],
+		"12" : {
+			"1" : [ "barre" ],
+			"2" : [ "barra" ],
+			"3" : [ "barramos" ],
+			"4" : [ "barred" ],
+			"5" : [ "barran" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estatizar",
+	"word" : "estatizar",
+	"infinitivo" : "estatizar",
+	"participio" : [ "estatizado" ],
+	"gerundio" : [ "estatizando" ],
+	"tenses" : {
+		"3" : [
+			[ "estatizo" ],
+			[ "estatizas", "estatizás" ],
+			[ "estatiza" ],
+			[ "estatizamos" ],
+			[ "estatizáis", "estatizan" ],
+			[ "estatizan" ]
+		],
+		"4" : [
+			[ "estaticé" ],
+			[ "estatizaste" ],
+			[ "estatizó" ],
+			[ "estatizamos" ],
+			[ "estatizasteis", "estatizaron" ],
+			[ "estatizaron" ]
+		],
+		"5" : [
+			[ "estatizaba" ],
+			[ "estatizabas" ],
+			[ "estatizaba" ],
+			[ "estatizábamos" ],
+			[ "estatizabais", "estatizaban" ],
+			[ "estatizaban" ]
+		],
+		"6" : [
+			[ "estatizaría" ],
+			[ "estatizarías" ],
+			[ "estatizaría" ],
+			[ "estatizaríamos" ],
+			[ "estatizaríais", "estatizarían" ],
+			[ "estatizarían" ]
+		],
+		"7" : [
+			[ "estatizaré" ],
+			[ "estatizarás" ],
+			[ "estatizará" ],
+			[ "estatizaremos" ],
+			[ "estatizaréis", "estatizarán" ],
+			[ "estatizarán" ]
+		],
+		"8" : [
+			[ "estatice" ],
+			[ "estatices" ],
+			[ "estatice" ],
+			[ "estaticemos" ],
+			[ "estaticéis", "estaticen" ],
+			[ "estaticen" ]
+		],
+		"9" : [
+			[ "estatizara" ],
+			[ "estatizaras" ],
+			[ "estatizara" ],
+			[ "estatizáramos" ],
+			[ "estatizarais", "estatizaran" ],
+			[ "estatizaran" ]
+		],
+		"10" : [
+			[ "estatizase" ],
+			[ "estatizases" ],
+			[ "estatizase" ],
+			[ "estatizásemos" ],
+			[ "estatizaseis", "estatizasen" ],
+			[ "estatizasen" ]
+		],
+		"11" : [
+			[ "estatizare" ],
+			[ "estatizares" ],
+			[ "estatizare" ],
+			[ "estatizáremos" ],
+			[ "estatizareis", "estatizaren" ],
+			[ "estatizaren" ]
+		],
+		"12" : {
+			"1" : [ "estatiza" ],
+			"2" : [ "estatice" ],
+			"3" : [ "estaticemos" ],
+			"4" : [ "estatizad" ],
+			"5" : [ "estaticen" ]
+		}
+	}
+}

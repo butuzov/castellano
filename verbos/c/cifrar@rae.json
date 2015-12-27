@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cifrar",
+	"word" : "cifrar",
+	"infinitivo" : "cifrar",
+	"participio" : [ "cifrado" ],
+	"gerundio" : [ "cifrando" ],
+	"tenses" : {
+		"3" : [
+			[ "cifro" ],
+			[ "cifras", "cifrás" ],
+			[ "cifra" ],
+			[ "ciframos" ],
+			[ "cifráis", "cifran" ],
+			[ "cifran" ]
+		],
+		"4" : [
+			[ "cifré" ],
+			[ "cifraste" ],
+			[ "cifró" ],
+			[ "ciframos" ],
+			[ "cifrasteis", "cifraron" ],
+			[ "cifraron" ]
+		],
+		"5" : [
+			[ "cifraba" ],
+			[ "cifrabas" ],
+			[ "cifraba" ],
+			[ "cifrábamos" ],
+			[ "cifrabais", "cifraban" ],
+			[ "cifraban" ]
+		],
+		"6" : [
+			[ "cifraría" ],
+			[ "cifrarías" ],
+			[ "cifraría" ],
+			[ "cifraríamos" ],
+			[ "cifraríais", "cifrarían" ],
+			[ "cifrarían" ]
+		],
+		"7" : [
+			[ "cifraré" ],
+			[ "cifrarás" ],
+			[ "cifrará" ],
+			[ "cifraremos" ],
+			[ "cifraréis", "cifrarán" ],
+			[ "cifrarán" ]
+		],
+		"8" : [
+			[ "cifre" ],
+			[ "cifres" ],
+			[ "cifre" ],
+			[ "cifremos" ],
+			[ "cifréis", "cifren" ],
+			[ "cifren" ]
+		],
+		"9" : [
+			[ "cifrara" ],
+			[ "cifraras" ],
+			[ "cifrara" ],
+			[ "cifráramos" ],
+			[ "cifrarais", "cifraran" ],
+			[ "cifraran" ]
+		],
+		"10" : [
+			[ "cifrase" ],
+			[ "cifrases" ],
+			[ "cifrase" ],
+			[ "cifrásemos" ],
+			[ "cifraseis", "cifrasen" ],
+			[ "cifrasen" ]
+		],
+		"11" : [
+			[ "cifrare" ],
+			[ "cifrares" ],
+			[ "cifrare" ],
+			[ "cifráremos" ],
+			[ "cifrareis", "cifraren" ],
+			[ "cifraren" ]
+		],
+		"12" : {
+			"1" : [ "cifra" ],
+			"2" : [ "cifre" ],
+			"3" : [ "cifremos" ],
+			"4" : [ "cifrad" ],
+			"5" : [ "cifren" ]
+		}
+	}
+}

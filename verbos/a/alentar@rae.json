@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alentar",
+	"word" : "alentar",
+	"infinitivo" : "alentar",
+	"participio" : [ "alentado" ],
+	"gerundio" : [ "alentando" ],
+	"tenses" : {
+		"3" : [
+			[ "aliento" ],
+			[ "alientas", "alentás" ],
+			[ "alienta" ],
+			[ "alentamos" ],
+			[ "alentáis", "alientan" ],
+			[ "alientan" ]
+		],
+		"4" : [
+			[ "alenté" ],
+			[ "alentaste" ],
+			[ "alentó" ],
+			[ "alentamos" ],
+			[ "alentasteis", "alentaron" ],
+			[ "alentaron" ]
+		],
+		"5" : [
+			[ "alentaba" ],
+			[ "alentabas" ],
+			[ "alentaba" ],
+			[ "alentábamos" ],
+			[ "alentabais", "alentaban" ],
+			[ "alentaban" ]
+		],
+		"6" : [
+			[ "alentaría" ],
+			[ "alentarías" ],
+			[ "alentaría" ],
+			[ "alentaríamos" ],
+			[ "alentaríais", "alentarían" ],
+			[ "alentarían" ]
+		],
+		"7" : [
+			[ "alentaré" ],
+			[ "alentarás" ],
+			[ "alentará" ],
+			[ "alentaremos" ],
+			[ "alentaréis", "alentarán" ],
+			[ "alentarán" ]
+		],
+		"8" : [
+			[ "aliente" ],
+			[ "alientes" ],
+			[ "aliente" ],
+			[ "alentemos" ],
+			[ "alentéis", "alienten" ],
+			[ "alienten" ]
+		],
+		"9" : [
+			[ "alentara" ],
+			[ "alentaras" ],
+			[ "alentara" ],
+			[ "alentáramos" ],
+			[ "alentarais", "alentaran" ],
+			[ "alentaran" ]
+		],
+		"10" : [
+			[ "alentase" ],
+			[ "alentases" ],
+			[ "alentase" ],
+			[ "alentásemos" ],
+			[ "alentaseis", "alentasen" ],
+			[ "alentasen" ]
+		],
+		"11" : [
+			[ "alentare" ],
+			[ "alentares" ],
+			[ "alentare" ],
+			[ "alentáremos" ],
+			[ "alentareis", "alentaren" ],
+			[ "alentaren" ]
+		],
+		"12" : {
+			"1" : [ "alienta" ],
+			"2" : [ "aliente" ],
+			"3" : [ "alentemos" ],
+			"4" : [ "alentad" ],
+			"5" : [ "alienten" ]
+		}
+	}
+}

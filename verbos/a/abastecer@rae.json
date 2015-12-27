@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abastecer",
+	"word" : "abastecer",
+	"infinitivo" : "abastecer",
+	"participio" : [ "abastecido" ],
+	"gerundio" : [ "abasteciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "abastezco" ],
+			[ "abasteces", "abastecés" ],
+			[ "abastece" ],
+			[ "abastecemos" ],
+			[ "abastecéis", "abastecen" ],
+			[ "abastecen" ]
+		],
+		"4" : [
+			[ "abastecí" ],
+			[ "abasteciste" ],
+			[ "abasteció" ],
+			[ "abastecimos" ],
+			[ "abastecisteis", "abastecieron" ],
+			[ "abastecieron" ]
+		],
+		"5" : [
+			[ "abastecía" ],
+			[ "abastecías" ],
+			[ "abastecía" ],
+			[ "abastecíamos" ],
+			[ "abastecíais", "abastecían" ],
+			[ "abastecían" ]
+		],
+		"6" : [
+			[ "abastecería" ],
+			[ "abastecerías" ],
+			[ "abastecería" ],
+			[ "abasteceríamos" ],
+			[ "abasteceríais", "abastecerían" ],
+			[ "abastecerían" ]
+		],
+		"7" : [
+			[ "abasteceré" ],
+			[ "abastecerás" ],
+			[ "abastecerá" ],
+			[ "abasteceremos" ],
+			[ "abasteceréis", "abastecerán" ],
+			[ "abastecerán" ]
+		],
+		"8" : [
+			[ "abastezca" ],
+			[ "abastezcas" ],
+			[ "abastezca" ],
+			[ "abastezcamos" ],
+			[ "abastezcáis", "abastezcan" ],
+			[ "abastezcan" ]
+		],
+		"9" : [
+			[ "abasteciera" ],
+			[ "abastecieras" ],
+			[ "abasteciera" ],
+			[ "abasteciéramos" ],
+			[ "abastecierais", "abastecieran" ],
+			[ "abastecieran" ]
+		],
+		"10" : [
+			[ "abasteciese" ],
+			[ "abastecieses" ],
+			[ "abasteciese" ],
+			[ "abasteciésemos" ],
+			[ "abastecieseis", "abasteciesen" ],
+			[ "abasteciesen" ]
+		],
+		"11" : [
+			[ "abasteciere" ],
+			[ "abastecieres" ],
+			[ "abasteciere" ],
+			[ "abasteciéremos" ],
+			[ "abasteciereis", "abastecieren" ],
+			[ "abastecieren" ]
+		],
+		"12" : {
+			"1" : [ "abastece" ],
+			"2" : [ "abastezca" ],
+			"3" : [ "abastezcamos" ],
+			"4" : [ "abasteced" ],
+			"5" : [ "abastezcan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acorzar",
+	"word" : "acorzar",
+	"infinitivo" : "acorzar",
+	"participio" : [ "acorzado" ],
+	"gerundio" : [ "acorzando" ],
+	"tenses" : {
+		"3" : [
+			[ "acorzo" ],
+			[ "acorzas", "acorzás" ],
+			[ "acorza" ],
+			[ "acorzamos" ],
+			[ "acorzáis", "acorzan" ],
+			[ "acorzan" ]
+		],
+		"4" : [
+			[ "acorcé" ],
+			[ "acorzaste" ],
+			[ "acorzó" ],
+			[ "acorzamos" ],
+			[ "acorzasteis", "acorzaron" ],
+			[ "acorzaron" ]
+		],
+		"5" : [
+			[ "acorzaba" ],
+			[ "acorzabas" ],
+			[ "acorzaba" ],
+			[ "acorzábamos" ],
+			[ "acorzabais", "acorzaban" ],
+			[ "acorzaban" ]
+		],
+		"6" : [
+			[ "acorzaría" ],
+			[ "acorzarías" ],
+			[ "acorzaría" ],
+			[ "acorzaríamos" ],
+			[ "acorzaríais", "acorzarían" ],
+			[ "acorzarían" ]
+		],
+		"7" : [
+			[ "acorzaré" ],
+			[ "acorzarás" ],
+			[ "acorzará" ],
+			[ "acorzaremos" ],
+			[ "acorzaréis", "acorzarán" ],
+			[ "acorzarán" ]
+		],
+		"8" : [
+			[ "acorce" ],
+			[ "acorces" ],
+			[ "acorce" ],
+			[ "acorcemos" ],
+			[ "acorcéis", "acorcen" ],
+			[ "acorcen" ]
+		],
+		"9" : [
+			[ "acorzara" ],
+			[ "acorzaras" ],
+			[ "acorzara" ],
+			[ "acorzáramos" ],
+			[ "acorzarais", "acorzaran" ],
+			[ "acorzaran" ]
+		],
+		"10" : [
+			[ "acorzase" ],
+			[ "acorzases" ],
+			[ "acorzase" ],
+			[ "acorzásemos" ],
+			[ "acorzaseis", "acorzasen" ],
+			[ "acorzasen" ]
+		],
+		"11" : [
+			[ "acorzare" ],
+			[ "acorzares" ],
+			[ "acorzare" ],
+			[ "acorzáremos" ],
+			[ "acorzareis", "acorzaren" ],
+			[ "acorzaren" ]
+		],
+		"12" : {
+			"1" : [ "acorza" ],
+			"2" : [ "acorce" ],
+			"3" : [ "acorcemos" ],
+			"4" : [ "acorzad" ],
+			"5" : [ "acorcen" ]
+		}
+	}
+}

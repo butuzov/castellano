@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resinar",
+	"word" : "resinar",
+	"infinitivo" : "resinar",
+	"participio" : [ "resinado" ],
+	"gerundio" : [ "resinando" ],
+	"tenses" : {
+		"3" : [
+			[ "resino" ],
+			[ "resinas", "resinás" ],
+			[ "resina" ],
+			[ "resinamos" ],
+			[ "resináis", "resinan" ],
+			[ "resinan" ]
+		],
+		"4" : [
+			[ "resiné" ],
+			[ "resinaste" ],
+			[ "resinó" ],
+			[ "resinamos" ],
+			[ "resinasteis", "resinaron" ],
+			[ "resinaron" ]
+		],
+		"5" : [
+			[ "resinaba" ],
+			[ "resinabas" ],
+			[ "resinaba" ],
+			[ "resinábamos" ],
+			[ "resinabais", "resinaban" ],
+			[ "resinaban" ]
+		],
+		"6" : [
+			[ "resinaría" ],
+			[ "resinarías" ],
+			[ "resinaría" ],
+			[ "resinaríamos" ],
+			[ "resinaríais", "resinarían" ],
+			[ "resinarían" ]
+		],
+		"7" : [
+			[ "resinaré" ],
+			[ "resinarás" ],
+			[ "resinará" ],
+			[ "resinaremos" ],
+			[ "resinaréis", "resinarán" ],
+			[ "resinarán" ]
+		],
+		"8" : [
+			[ "resine" ],
+			[ "resines" ],
+			[ "resine" ],
+			[ "resinemos" ],
+			[ "resinéis", "resinen" ],
+			[ "resinen" ]
+		],
+		"9" : [
+			[ "resinara" ],
+			[ "resinaras" ],
+			[ "resinara" ],
+			[ "resináramos" ],
+			[ "resinarais", "resinaran" ],
+			[ "resinaran" ]
+		],
+		"10" : [
+			[ "resinase" ],
+			[ "resinases" ],
+			[ "resinase" ],
+			[ "resinásemos" ],
+			[ "resinaseis", "resinasen" ],
+			[ "resinasen" ]
+		],
+		"11" : [
+			[ "resinare" ],
+			[ "resinares" ],
+			[ "resinare" ],
+			[ "resináremos" ],
+			[ "resinareis", "resinaren" ],
+			[ "resinaren" ]
+		],
+		"12" : {
+			"1" : [ "resina" ],
+			"2" : [ "resine" ],
+			"3" : [ "resinemos" ],
+			"4" : [ "resinad" ],
+			"5" : [ "resinen" ]
+		}
+	}
+}

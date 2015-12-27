@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sorber",
+	"word" : "sorber",
+	"infinitivo" : "sorber",
+	"participio" : [ "sorbido" ],
+	"gerundio" : [ "sorbiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sorbo" ],
+			[ "sorbes", "sorbés" ],
+			[ "sorbe" ],
+			[ "sorbemos" ],
+			[ "sorbéis", "sorben" ],
+			[ "sorben" ]
+		],
+		"4" : [
+			[ "sorbí" ],
+			[ "sorbiste" ],
+			[ "sorbió" ],
+			[ "sorbimos" ],
+			[ "sorbisteis", "sorbieron" ],
+			[ "sorbieron" ]
+		],
+		"5" : [
+			[ "sorbía" ],
+			[ "sorbías" ],
+			[ "sorbía" ],
+			[ "sorbíamos" ],
+			[ "sorbíais", "sorbían" ],
+			[ "sorbían" ]
+		],
+		"6" : [
+			[ "sorbería" ],
+			[ "sorberías" ],
+			[ "sorbería" ],
+			[ "sorberíamos" ],
+			[ "sorberíais", "sorberían" ],
+			[ "sorberían" ]
+		],
+		"7" : [
+			[ "sorberé" ],
+			[ "sorberás" ],
+			[ "sorberá" ],
+			[ "sorberemos" ],
+			[ "sorberéis", "sorberán" ],
+			[ "sorberán" ]
+		],
+		"8" : [
+			[ "sorba" ],
+			[ "sorbas" ],
+			[ "sorba" ],
+			[ "sorbamos" ],
+			[ "sorbáis", "sorban" ],
+			[ "sorban" ]
+		],
+		"9" : [
+			[ "sorbiera" ],
+			[ "sorbieras" ],
+			[ "sorbiera" ],
+			[ "sorbiéramos" ],
+			[ "sorbierais", "sorbieran" ],
+			[ "sorbieran" ]
+		],
+		"10" : [
+			[ "sorbiese" ],
+			[ "sorbieses" ],
+			[ "sorbiese" ],
+			[ "sorbiésemos" ],
+			[ "sorbieseis", "sorbiesen" ],
+			[ "sorbiesen" ]
+		],
+		"11" : [
+			[ "sorbiere" ],
+			[ "sorbieres" ],
+			[ "sorbiere" ],
+			[ "sorbiéremos" ],
+			[ "sorbiereis", "sorbieren" ],
+			[ "sorbieren" ]
+		],
+		"12" : {
+			"1" : [ "sorbe" ],
+			"2" : [ "sorba" ],
+			"3" : [ "sorbamos" ],
+			"4" : [ "sorbed" ],
+			"5" : [ "sorban" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=catalogar",
+	"word" : "catalogar",
+	"infinitivo" : "catalogar",
+	"participio" : [ "catalogado" ],
+	"gerundio" : [ "catalogando" ],
+	"tenses" : {
+		"3" : [
+			[ "catalogo" ],
+			[ "catalogas", "catalogás" ],
+			[ "cataloga" ],
+			[ "catalogamos" ],
+			[ "catalogáis", "catalogan" ],
+			[ "catalogan" ]
+		],
+		"4" : [
+			[ "catalogué" ],
+			[ "catalogaste" ],
+			[ "catalogó" ],
+			[ "catalogamos" ],
+			[ "catalogasteis", "catalogaron" ],
+			[ "catalogaron" ]
+		],
+		"5" : [
+			[ "catalogaba" ],
+			[ "catalogabas" ],
+			[ "catalogaba" ],
+			[ "catalogábamos" ],
+			[ "catalogabais", "catalogaban" ],
+			[ "catalogaban" ]
+		],
+		"6" : [
+			[ "catalogaría" ],
+			[ "catalogarías" ],
+			[ "catalogaría" ],
+			[ "catalogaríamos" ],
+			[ "catalogaríais", "catalogarían" ],
+			[ "catalogarían" ]
+		],
+		"7" : [
+			[ "catalogaré" ],
+			[ "catalogarás" ],
+			[ "catalogará" ],
+			[ "catalogaremos" ],
+			[ "catalogaréis", "catalogarán" ],
+			[ "catalogarán" ]
+		],
+		"8" : [
+			[ "catalogue" ],
+			[ "catalogues" ],
+			[ "catalogue" ],
+			[ "cataloguemos" ],
+			[ "cataloguéis", "cataloguen" ],
+			[ "cataloguen" ]
+		],
+		"9" : [
+			[ "catalogara" ],
+			[ "catalogaras" ],
+			[ "catalogara" ],
+			[ "catalogáramos" ],
+			[ "catalogarais", "catalogaran" ],
+			[ "catalogaran" ]
+		],
+		"10" : [
+			[ "catalogase" ],
+			[ "catalogases" ],
+			[ "catalogase" ],
+			[ "catalogásemos" ],
+			[ "catalogaseis", "catalogasen" ],
+			[ "catalogasen" ]
+		],
+		"11" : [
+			[ "catalogare" ],
+			[ "catalogares" ],
+			[ "catalogare" ],
+			[ "catalogáremos" ],
+			[ "catalogareis", "catalogaren" ],
+			[ "catalogaren" ]
+		],
+		"12" : {
+			"1" : [ "cataloga" ],
+			"2" : [ "catalogue" ],
+			"3" : [ "cataloguemos" ],
+			"4" : [ "catalogad" ],
+			"5" : [ "cataloguen" ]
+		}
+	}
+}

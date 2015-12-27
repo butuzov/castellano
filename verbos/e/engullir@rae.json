@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=engullir",
+	"word" : "engullir",
+	"infinitivo" : "engullir",
+	"participio" : [ "engullido" ],
+	"gerundio" : [ "engullendo" ],
+	"tenses" : {
+		"3" : [
+			[ "engullo" ],
+			[ "engulles", "engullís" ],
+			[ "engulle" ],
+			[ "engullimos" ],
+			[ "engullís", "engullen" ],
+			[ "engullen" ]
+		],
+		"4" : [
+			[ "engullí" ],
+			[ "engulliste" ],
+			[ "engulló" ],
+			[ "engullimos" ],
+			[ "engullisteis", "engulleron" ],
+			[ "engulleron" ]
+		],
+		"5" : [
+			[ "engullía" ],
+			[ "engullías" ],
+			[ "engullía" ],
+			[ "engullíamos" ],
+			[ "engullíais", "engullían" ],
+			[ "engullían" ]
+		],
+		"6" : [
+			[ "engulliría" ],
+			[ "engullirías" ],
+			[ "engulliría" ],
+			[ "engulliríamos" ],
+			[ "engulliríais", "engullirían" ],
+			[ "engullirían" ]
+		],
+		"7" : [
+			[ "engulliré" ],
+			[ "engullirás" ],
+			[ "engullirá" ],
+			[ "engulliremos" ],
+			[ "engulliréis", "engullirán" ],
+			[ "engullirán" ]
+		],
+		"8" : [
+			[ "engulla" ],
+			[ "engullas" ],
+			[ "engulla" ],
+			[ "engullamos" ],
+			[ "engulláis", "engullan" ],
+			[ "engullan" ]
+		],
+		"9" : [
+			[ "engullera" ],
+			[ "engulleras" ],
+			[ "engullera" ],
+			[ "engulléramos" ],
+			[ "engullerais", "engulleran" ],
+			[ "engulleran" ]
+		],
+		"10" : [
+			[ "engullese" ],
+			[ "engulleses" ],
+			[ "engullese" ],
+			[ "engullésemos" ],
+			[ "engulleseis", "engullesen" ],
+			[ "engullesen" ]
+		],
+		"11" : [
+			[ "engullere" ],
+			[ "engulleres" ],
+			[ "engullere" ],
+			[ "engulléremos" ],
+			[ "engullereis", "engulleren" ],
+			[ "engulleren" ]
+		],
+		"12" : {
+			"1" : [ "engulle" ],
+			"2" : [ "engulla" ],
+			"3" : [ "engullamos" ],
+			"4" : [ "engullid" ],
+			"5" : [ "engullan" ]
+		}
+	}
+}

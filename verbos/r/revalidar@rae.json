@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=revalidar",
+	"word" : "revalidar",
+	"infinitivo" : "revalidar",
+	"participio" : [ "revalidado" ],
+	"gerundio" : [ "revalidando" ],
+	"tenses" : {
+		"3" : [
+			[ "revalido" ],
+			[ "revalidas", "revalidás" ],
+			[ "revalida" ],
+			[ "revalidamos" ],
+			[ "revalidáis", "revalidan" ],
+			[ "revalidan" ]
+		],
+		"4" : [
+			[ "revalidé" ],
+			[ "revalidaste" ],
+			[ "revalidó" ],
+			[ "revalidamos" ],
+			[ "revalidasteis", "revalidaron" ],
+			[ "revalidaron" ]
+		],
+		"5" : [
+			[ "revalidaba" ],
+			[ "revalidabas" ],
+			[ "revalidaba" ],
+			[ "revalidábamos" ],
+			[ "revalidabais", "revalidaban" ],
+			[ "revalidaban" ]
+		],
+		"6" : [
+			[ "revalidaría" ],
+			[ "revalidarías" ],
+			[ "revalidaría" ],
+			[ "revalidaríamos" ],
+			[ "revalidaríais", "revalidarían" ],
+			[ "revalidarían" ]
+		],
+		"7" : [
+			[ "revalidaré" ],
+			[ "revalidarás" ],
+			[ "revalidará" ],
+			[ "revalidaremos" ],
+			[ "revalidaréis", "revalidarán" ],
+			[ "revalidarán" ]
+		],
+		"8" : [
+			[ "revalide" ],
+			[ "revalides" ],
+			[ "revalide" ],
+			[ "revalidemos" ],
+			[ "revalidéis", "revaliden" ],
+			[ "revaliden" ]
+		],
+		"9" : [
+			[ "revalidara" ],
+			[ "revalidaras" ],
+			[ "revalidara" ],
+			[ "revalidáramos" ],
+			[ "revalidarais", "revalidaran" ],
+			[ "revalidaran" ]
+		],
+		"10" : [
+			[ "revalidase" ],
+			[ "revalidases" ],
+			[ "revalidase" ],
+			[ "revalidásemos" ],
+			[ "revalidaseis", "revalidasen" ],
+			[ "revalidasen" ]
+		],
+		"11" : [
+			[ "revalidare" ],
+			[ "revalidares" ],
+			[ "revalidare" ],
+			[ "revalidáremos" ],
+			[ "revalidareis", "revalidaren" ],
+			[ "revalidaren" ]
+		],
+		"12" : {
+			"1" : [ "revalida" ],
+			"2" : [ "revalide" ],
+			"3" : [ "revalidemos" ],
+			"4" : [ "revalidad" ],
+			"5" : [ "revaliden" ]
+		}
+	}
+}

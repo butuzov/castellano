@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aciemar",
+	"word" : "aciemar",
+	"infinitivo" : "aciemar",
+	"participio" : [ "aciemado" ],
+	"gerundio" : [ "aciemando" ],
+	"tenses" : {
+		"3" : [
+			[ "aciemo" ],
+			[ "aciemas", "aciemás" ],
+			[ "aciema" ],
+			[ "aciemamos" ],
+			[ "aciemáis", "acieman" ],
+			[ "acieman" ]
+		],
+		"4" : [
+			[ "aciemé" ],
+			[ "aciemaste" ],
+			[ "aciemó" ],
+			[ "aciemamos" ],
+			[ "aciemasteis", "aciemaron" ],
+			[ "aciemaron" ]
+		],
+		"5" : [
+			[ "aciemaba" ],
+			[ "aciemabas" ],
+			[ "aciemaba" ],
+			[ "aciemábamos" ],
+			[ "aciemabais", "aciemaban" ],
+			[ "aciemaban" ]
+		],
+		"6" : [
+			[ "aciemaría" ],
+			[ "aciemarías" ],
+			[ "aciemaría" ],
+			[ "aciemaríamos" ],
+			[ "aciemaríais", "aciemarían" ],
+			[ "aciemarían" ]
+		],
+		"7" : [
+			[ "aciemaré" ],
+			[ "aciemarás" ],
+			[ "aciemará" ],
+			[ "aciemaremos" ],
+			[ "aciemaréis", "aciemarán" ],
+			[ "aciemarán" ]
+		],
+		"8" : [
+			[ "acieme" ],
+			[ "aciemes" ],
+			[ "acieme" ],
+			[ "aciememos" ],
+			[ "acieméis", "aciemen" ],
+			[ "aciemen" ]
+		],
+		"9" : [
+			[ "aciemara" ],
+			[ "aciemaras" ],
+			[ "aciemara" ],
+			[ "aciemáramos" ],
+			[ "aciemarais", "aciemaran" ],
+			[ "aciemaran" ]
+		],
+		"10" : [
+			[ "aciemase" ],
+			[ "aciemases" ],
+			[ "aciemase" ],
+			[ "aciemásemos" ],
+			[ "aciemaseis", "aciemasen" ],
+			[ "aciemasen" ]
+		],
+		"11" : [
+			[ "aciemare" ],
+			[ "aciemares" ],
+			[ "aciemare" ],
+			[ "aciemáremos" ],
+			[ "aciemareis", "aciemaren" ],
+			[ "aciemaren" ]
+		],
+		"12" : {
+			"1" : [ "aciema" ],
+			"2" : [ "acieme" ],
+			"3" : [ "aciememos" ],
+			"4" : [ "aciemad" ],
+			"5" : [ "aciemen" ]
+		}
+	}
+}

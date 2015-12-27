@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estremecer",
+	"word" : "estremecer",
+	"infinitivo" : "estremecer",
+	"participio" : [ "estremecido" ],
+	"gerundio" : [ "estremeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "estremezco" ],
+			[ "estremeces", "estremecés" ],
+			[ "estremece" ],
+			[ "estremecemos" ],
+			[ "estremecéis", "estremecen" ],
+			[ "estremecen" ]
+		],
+		"4" : [
+			[ "estremecí" ],
+			[ "estremeciste" ],
+			[ "estremeció" ],
+			[ "estremecimos" ],
+			[ "estremecisteis", "estremecieron" ],
+			[ "estremecieron" ]
+		],
+		"5" : [
+			[ "estremecía" ],
+			[ "estremecías" ],
+			[ "estremecía" ],
+			[ "estremecíamos" ],
+			[ "estremecíais", "estremecían" ],
+			[ "estremecían" ]
+		],
+		"6" : [
+			[ "estremecería" ],
+			[ "estremecerías" ],
+			[ "estremecería" ],
+			[ "estremeceríamos" ],
+			[ "estremeceríais", "estremecerían" ],
+			[ "estremecerían" ]
+		],
+		"7" : [
+			[ "estremeceré" ],
+			[ "estremecerás" ],
+			[ "estremecerá" ],
+			[ "estremeceremos" ],
+			[ "estremeceréis", "estremecerán" ],
+			[ "estremecerán" ]
+		],
+		"8" : [
+			[ "estremezca" ],
+			[ "estremezcas" ],
+			[ "estremezca" ],
+			[ "estremezcamos" ],
+			[ "estremezcáis", "estremezcan" ],
+			[ "estremezcan" ]
+		],
+		"9" : [
+			[ "estremeciera" ],
+			[ "estremecieras" ],
+			[ "estremeciera" ],
+			[ "estremeciéramos" ],
+			[ "estremecierais", "estremecieran" ],
+			[ "estremecieran" ]
+		],
+		"10" : [
+			[ "estremeciese" ],
+			[ "estremecieses" ],
+			[ "estremeciese" ],
+			[ "estremeciésemos" ],
+			[ "estremecieseis", "estremeciesen" ],
+			[ "estremeciesen" ]
+		],
+		"11" : [
+			[ "estremeciere" ],
+			[ "estremecieres" ],
+			[ "estremeciere" ],
+			[ "estremeciéremos" ],
+			[ "estremeciereis", "estremecieren" ],
+			[ "estremecieren" ]
+		],
+		"12" : {
+			"1" : [ "estremece" ],
+			"2" : [ "estremezca" ],
+			"3" : [ "estremezcamos" ],
+			"4" : [ "estremeced" ],
+			"5" : [ "estremezcan" ]
+		}
+	}
+}

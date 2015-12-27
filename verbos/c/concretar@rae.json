@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=concretar",
+	"word" : "concretar",
+	"infinitivo" : "concretar",
+	"participio" : [ "concretado" ],
+	"gerundio" : [ "concretando" ],
+	"tenses" : {
+		"3" : [
+			[ "concreto" ],
+			[ "concretas", "concretás" ],
+			[ "concreta" ],
+			[ "concretamos" ],
+			[ "concretáis", "concretan" ],
+			[ "concretan" ]
+		],
+		"4" : [
+			[ "concreté" ],
+			[ "concretaste" ],
+			[ "concretó" ],
+			[ "concretamos" ],
+			[ "concretasteis", "concretaron" ],
+			[ "concretaron" ]
+		],
+		"5" : [
+			[ "concretaba" ],
+			[ "concretabas" ],
+			[ "concretaba" ],
+			[ "concretábamos" ],
+			[ "concretabais", "concretaban" ],
+			[ "concretaban" ]
+		],
+		"6" : [
+			[ "concretaría" ],
+			[ "concretarías" ],
+			[ "concretaría" ],
+			[ "concretaríamos" ],
+			[ "concretaríais", "concretarían" ],
+			[ "concretarían" ]
+		],
+		"7" : [
+			[ "concretaré" ],
+			[ "concretarás" ],
+			[ "concretará" ],
+			[ "concretaremos" ],
+			[ "concretaréis", "concretarán" ],
+			[ "concretarán" ]
+		],
+		"8" : [
+			[ "concrete" ],
+			[ "concretes" ],
+			[ "concrete" ],
+			[ "concretemos" ],
+			[ "concretéis", "concreten" ],
+			[ "concreten" ]
+		],
+		"9" : [
+			[ "concretara" ],
+			[ "concretaras" ],
+			[ "concretara" ],
+			[ "concretáramos" ],
+			[ "concretarais", "concretaran" ],
+			[ "concretaran" ]
+		],
+		"10" : [
+			[ "concretase" ],
+			[ "concretases" ],
+			[ "concretase" ],
+			[ "concretásemos" ],
+			[ "concretaseis", "concretasen" ],
+			[ "concretasen" ]
+		],
+		"11" : [
+			[ "concretare" ],
+			[ "concretares" ],
+			[ "concretare" ],
+			[ "concretáremos" ],
+			[ "concretareis", "concretaren" ],
+			[ "concretaren" ]
+		],
+		"12" : {
+			"1" : [ "concreta" ],
+			"2" : [ "concrete" ],
+			"3" : [ "concretemos" ],
+			"4" : [ "concretad" ],
+			"5" : [ "concreten" ]
+		}
+	}
+}

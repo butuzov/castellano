@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recabar",
+	"word" : "recabar",
+	"infinitivo" : "recabar",
+	"participio" : [ "recabado" ],
+	"gerundio" : [ "recabando" ],
+	"tenses" : {
+		"3" : [
+			[ "recabo" ],
+			[ "recabas", "recabás" ],
+			[ "recaba" ],
+			[ "recabamos" ],
+			[ "recabáis", "recaban" ],
+			[ "recaban" ]
+		],
+		"4" : [
+			[ "recabé" ],
+			[ "recabaste" ],
+			[ "recabó" ],
+			[ "recabamos" ],
+			[ "recabasteis", "recabaron" ],
+			[ "recabaron" ]
+		],
+		"5" : [
+			[ "recababa" ],
+			[ "recababas" ],
+			[ "recababa" ],
+			[ "recabábamos" ],
+			[ "recababais", "recababan" ],
+			[ "recababan" ]
+		],
+		"6" : [
+			[ "recabaría" ],
+			[ "recabarías" ],
+			[ "recabaría" ],
+			[ "recabaríamos" ],
+			[ "recabaríais", "recabarían" ],
+			[ "recabarían" ]
+		],
+		"7" : [
+			[ "recabaré" ],
+			[ "recabarás" ],
+			[ "recabará" ],
+			[ "recabaremos" ],
+			[ "recabaréis", "recabarán" ],
+			[ "recabarán" ]
+		],
+		"8" : [
+			[ "recabe" ],
+			[ "recabes" ],
+			[ "recabe" ],
+			[ "recabemos" ],
+			[ "recabéis", "recaben" ],
+			[ "recaben" ]
+		],
+		"9" : [
+			[ "recabara" ],
+			[ "recabaras" ],
+			[ "recabara" ],
+			[ "recabáramos" ],
+			[ "recabarais", "recabaran" ],
+			[ "recabaran" ]
+		],
+		"10" : [
+			[ "recabase" ],
+			[ "recabases" ],
+			[ "recabase" ],
+			[ "recabásemos" ],
+			[ "recabaseis", "recabasen" ],
+			[ "recabasen" ]
+		],
+		"11" : [
+			[ "recabare" ],
+			[ "recabares" ],
+			[ "recabare" ],
+			[ "recabáremos" ],
+			[ "recabareis", "recabaren" ],
+			[ "recabaren" ]
+		],
+		"12" : {
+			"1" : [ "recaba" ],
+			"2" : [ "recabe" ],
+			"3" : [ "recabemos" ],
+			"4" : [ "recabad" ],
+			"5" : [ "recaben" ]
+		}
+	}
+}

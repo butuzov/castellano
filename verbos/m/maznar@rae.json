@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=maznar",
+	"word" : "maznar",
+	"infinitivo" : "maznar",
+	"participio" : [ "maznado" ],
+	"gerundio" : [ "maznando" ],
+	"tenses" : {
+		"3" : [
+			[ "mazno" ],
+			[ "maznas", "maznás" ],
+			[ "mazna" ],
+			[ "maznamos" ],
+			[ "maznáis", "maznan" ],
+			[ "maznan" ]
+		],
+		"4" : [
+			[ "mazné" ],
+			[ "maznaste" ],
+			[ "maznó" ],
+			[ "maznamos" ],
+			[ "maznasteis", "maznaron" ],
+			[ "maznaron" ]
+		],
+		"5" : [
+			[ "maznaba" ],
+			[ "maznabas" ],
+			[ "maznaba" ],
+			[ "maznábamos" ],
+			[ "maznabais", "maznaban" ],
+			[ "maznaban" ]
+		],
+		"6" : [
+			[ "maznaría" ],
+			[ "maznarías" ],
+			[ "maznaría" ],
+			[ "maznaríamos" ],
+			[ "maznaríais", "maznarían" ],
+			[ "maznarían" ]
+		],
+		"7" : [
+			[ "maznaré" ],
+			[ "maznarás" ],
+			[ "maznará" ],
+			[ "maznaremos" ],
+			[ "maznaréis", "maznarán" ],
+			[ "maznarán" ]
+		],
+		"8" : [
+			[ "mazne" ],
+			[ "maznes" ],
+			[ "mazne" ],
+			[ "maznemos" ],
+			[ "maznéis", "maznen" ],
+			[ "maznen" ]
+		],
+		"9" : [
+			[ "maznara" ],
+			[ "maznaras" ],
+			[ "maznara" ],
+			[ "maznáramos" ],
+			[ "maznarais", "maznaran" ],
+			[ "maznaran" ]
+		],
+		"10" : [
+			[ "maznase" ],
+			[ "maznases" ],
+			[ "maznase" ],
+			[ "maznásemos" ],
+			[ "maznaseis", "maznasen" ],
+			[ "maznasen" ]
+		],
+		"11" : [
+			[ "maznare" ],
+			[ "maznares" ],
+			[ "maznare" ],
+			[ "maznáremos" ],
+			[ "maznareis", "maznaren" ],
+			[ "maznaren" ]
+		],
+		"12" : {
+			"1" : [ "mazna" ],
+			"2" : [ "mazne" ],
+			"3" : [ "maznemos" ],
+			"4" : [ "maznad" ],
+			"5" : [ "maznen" ]
+		}
+	}
+}

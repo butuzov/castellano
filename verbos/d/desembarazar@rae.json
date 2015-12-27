@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desembarazar",
+	"word" : "desembarazar",
+	"infinitivo" : "desembarazar",
+	"participio" : [ "desembarazado" ],
+	"gerundio" : [ "desembarazando" ],
+	"tenses" : {
+		"3" : [
+			[ "desembarazo" ],
+			[ "desembarazas", "desembarazás" ],
+			[ "desembaraza" ],
+			[ "desembarazamos" ],
+			[ "desembarazáis", "desembarazan" ],
+			[ "desembarazan" ]
+		],
+		"4" : [
+			[ "desembaracé" ],
+			[ "desembarazaste" ],
+			[ "desembarazó" ],
+			[ "desembarazamos" ],
+			[ "desembarazasteis", "desembarazaron" ],
+			[ "desembarazaron" ]
+		],
+		"5" : [
+			[ "desembarazaba" ],
+			[ "desembarazabas" ],
+			[ "desembarazaba" ],
+			[ "desembarazábamos" ],
+			[ "desembarazabais", "desembarazaban" ],
+			[ "desembarazaban" ]
+		],
+		"6" : [
+			[ "desembarazaría" ],
+			[ "desembarazarías" ],
+			[ "desembarazaría" ],
+			[ "desembarazaríamos" ],
+			[ "desembarazaríais", "desembarazarían" ],
+			[ "desembarazarían" ]
+		],
+		"7" : [
+			[ "desembarazaré" ],
+			[ "desembarazarás" ],
+			[ "desembarazará" ],
+			[ "desembarazaremos" ],
+			[ "desembarazaréis", "desembarazarán" ],
+			[ "desembarazarán" ]
+		],
+		"8" : [
+			[ "desembarace" ],
+			[ "desembaraces" ],
+			[ "desembarace" ],
+			[ "desembaracemos" ],
+			[ "desembaracéis", "desembaracen" ],
+			[ "desembaracen" ]
+		],
+		"9" : [
+			[ "desembarazara" ],
+			[ "desembarazaras" ],
+			[ "desembarazara" ],
+			[ "desembarazáramos" ],
+			[ "desembarazarais", "desembarazaran" ],
+			[ "desembarazaran" ]
+		],
+		"10" : [
+			[ "desembarazase" ],
+			[ "desembarazases" ],
+			[ "desembarazase" ],
+			[ "desembarazásemos" ],
+			[ "desembarazaseis", "desembarazasen" ],
+			[ "desembarazasen" ]
+		],
+		"11" : [
+			[ "desembarazare" ],
+			[ "desembarazares" ],
+			[ "desembarazare" ],
+			[ "desembarazáremos" ],
+			[ "desembarazareis", "desembarazaren" ],
+			[ "desembarazaren" ]
+		],
+		"12" : {
+			"1" : [ "desembaraza" ],
+			"2" : [ "desembarace" ],
+			"3" : [ "desembaracemos" ],
+			"4" : [ "desembarazad" ],
+			"5" : [ "desembaracen" ]
+		}
+	}
+}

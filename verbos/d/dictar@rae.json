@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dictar",
+	"word" : "dictar",
+	"infinitivo" : "dictar",
+	"participio" : [ "dictado" ],
+	"gerundio" : [ "dictando" ],
+	"tenses" : {
+		"3" : [
+			[ "dicto" ],
+			[ "dictas", "dictás" ],
+			[ "dicta" ],
+			[ "dictamos" ],
+			[ "dictáis", "dictan" ],
+			[ "dictan" ]
+		],
+		"4" : [
+			[ "dicté" ],
+			[ "dictaste" ],
+			[ "dictó" ],
+			[ "dictamos" ],
+			[ "dictasteis", "dictaron" ],
+			[ "dictaron" ]
+		],
+		"5" : [
+			[ "dictaba" ],
+			[ "dictabas" ],
+			[ "dictaba" ],
+			[ "dictábamos" ],
+			[ "dictabais", "dictaban" ],
+			[ "dictaban" ]
+		],
+		"6" : [
+			[ "dictaría" ],
+			[ "dictarías" ],
+			[ "dictaría" ],
+			[ "dictaríamos" ],
+			[ "dictaríais", "dictarían" ],
+			[ "dictarían" ]
+		],
+		"7" : [
+			[ "dictaré" ],
+			[ "dictarás" ],
+			[ "dictará" ],
+			[ "dictaremos" ],
+			[ "dictaréis", "dictarán" ],
+			[ "dictarán" ]
+		],
+		"8" : [
+			[ "dicte" ],
+			[ "dictes" ],
+			[ "dicte" ],
+			[ "dictemos" ],
+			[ "dictéis", "dicten" ],
+			[ "dicten" ]
+		],
+		"9" : [
+			[ "dictara" ],
+			[ "dictaras" ],
+			[ "dictara" ],
+			[ "dictáramos" ],
+			[ "dictarais", "dictaran" ],
+			[ "dictaran" ]
+		],
+		"10" : [
+			[ "dictase" ],
+			[ "dictases" ],
+			[ "dictase" ],
+			[ "dictásemos" ],
+			[ "dictaseis", "dictasen" ],
+			[ "dictasen" ]
+		],
+		"11" : [
+			[ "dictare" ],
+			[ "dictares" ],
+			[ "dictare" ],
+			[ "dictáremos" ],
+			[ "dictareis", "dictaren" ],
+			[ "dictaren" ]
+		],
+		"12" : {
+			"1" : [ "dicta" ],
+			"2" : [ "dicte" ],
+			"3" : [ "dictemos" ],
+			"4" : [ "dictad" ],
+			"5" : [ "dicten" ]
+		}
+	}
+}

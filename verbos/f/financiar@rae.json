@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=financiar",
+	"word" : "financiar",
+	"infinitivo" : "financiar",
+	"participio" : [ "financiado" ],
+	"gerundio" : [ "financiando" ],
+	"tenses" : {
+		"3" : [
+			[ "financio" ],
+			[ "financias", "financiás" ],
+			[ "financia" ],
+			[ "financiamos" ],
+			[ "financiáis", "financian" ],
+			[ "financian" ]
+		],
+		"4" : [
+			[ "financié" ],
+			[ "financiaste" ],
+			[ "financió" ],
+			[ "financiamos" ],
+			[ "financiasteis", "financiaron" ],
+			[ "financiaron" ]
+		],
+		"5" : [
+			[ "financiaba" ],
+			[ "financiabas" ],
+			[ "financiaba" ],
+			[ "financiábamos" ],
+			[ "financiabais", "financiaban" ],
+			[ "financiaban" ]
+		],
+		"6" : [
+			[ "financiaría" ],
+			[ "financiarías" ],
+			[ "financiaría" ],
+			[ "financiaríamos" ],
+			[ "financiaríais", "financiarían" ],
+			[ "financiarían" ]
+		],
+		"7" : [
+			[ "financiaré" ],
+			[ "financiarás" ],
+			[ "financiará" ],
+			[ "financiaremos" ],
+			[ "financiaréis", "financiarán" ],
+			[ "financiarán" ]
+		],
+		"8" : [
+			[ "financie" ],
+			[ "financies" ],
+			[ "financie" ],
+			[ "financiemos" ],
+			[ "financiéis", "financien" ],
+			[ "financien" ]
+		],
+		"9" : [
+			[ "financiara" ],
+			[ "financiaras" ],
+			[ "financiara" ],
+			[ "financiáramos" ],
+			[ "financiarais", "financiaran" ],
+			[ "financiaran" ]
+		],
+		"10" : [
+			[ "financiase" ],
+			[ "financiases" ],
+			[ "financiase" ],
+			[ "financiásemos" ],
+			[ "financiaseis", "financiasen" ],
+			[ "financiasen" ]
+		],
+		"11" : [
+			[ "financiare" ],
+			[ "financiares" ],
+			[ "financiare" ],
+			[ "financiáremos" ],
+			[ "financiareis", "financiaren" ],
+			[ "financiaren" ]
+		],
+		"12" : {
+			"1" : [ "financia" ],
+			"2" : [ "financie" ],
+			"3" : [ "financiemos" ],
+			"4" : [ "financiad" ],
+			"5" : [ "financien" ]
+		}
+	}
+}

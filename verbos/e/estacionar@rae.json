@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estacionar",
+	"word" : "estacionar",
+	"infinitivo" : "estacionar",
+	"participio" : [ "estacionado" ],
+	"gerundio" : [ "estacionando" ],
+	"tenses" : {
+		"3" : [
+			[ "estaciono" ],
+			[ "estacionas", "estacionás" ],
+			[ "estaciona" ],
+			[ "estacionamos" ],
+			[ "estacionáis", "estacionan" ],
+			[ "estacionan" ]
+		],
+		"4" : [
+			[ "estacioné" ],
+			[ "estacionaste" ],
+			[ "estacionó" ],
+			[ "estacionamos" ],
+			[ "estacionasteis", "estacionaron" ],
+			[ "estacionaron" ]
+		],
+		"5" : [
+			[ "estacionaba" ],
+			[ "estacionabas" ],
+			[ "estacionaba" ],
+			[ "estacionábamos" ],
+			[ "estacionabais", "estacionaban" ],
+			[ "estacionaban" ]
+		],
+		"6" : [
+			[ "estacionaría" ],
+			[ "estacionarías" ],
+			[ "estacionaría" ],
+			[ "estacionaríamos" ],
+			[ "estacionaríais", "estacionarían" ],
+			[ "estacionarían" ]
+		],
+		"7" : [
+			[ "estacionaré" ],
+			[ "estacionarás" ],
+			[ "estacionará" ],
+			[ "estacionaremos" ],
+			[ "estacionaréis", "estacionarán" ],
+			[ "estacionarán" ]
+		],
+		"8" : [
+			[ "estacione" ],
+			[ "estaciones" ],
+			[ "estacione" ],
+			[ "estacionemos" ],
+			[ "estacionéis", "estacionen" ],
+			[ "estacionen" ]
+		],
+		"9" : [
+			[ "estacionara" ],
+			[ "estacionaras" ],
+			[ "estacionara" ],
+			[ "estacionáramos" ],
+			[ "estacionarais", "estacionaran" ],
+			[ "estacionaran" ]
+		],
+		"10" : [
+			[ "estacionase" ],
+			[ "estacionases" ],
+			[ "estacionase" ],
+			[ "estacionásemos" ],
+			[ "estacionaseis", "estacionasen" ],
+			[ "estacionasen" ]
+		],
+		"11" : [
+			[ "estacionare" ],
+			[ "estacionares" ],
+			[ "estacionare" ],
+			[ "estacionáremos" ],
+			[ "estacionareis", "estacionaren" ],
+			[ "estacionaren" ]
+		],
+		"12" : {
+			"1" : [ "estaciona" ],
+			"2" : [ "estacione" ],
+			"3" : [ "estacionemos" ],
+			"4" : [ "estacionad" ],
+			"5" : [ "estacionen" ]
+		}
+	}
+}

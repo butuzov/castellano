@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acampar",
+	"word" : "acampar",
+	"infinitivo" : "acampar",
+	"participio" : [ "acampado" ],
+	"gerundio" : [ "acampando" ],
+	"tenses" : {
+		"3" : [
+			[ "acampo" ],
+			[ "acampas", "acampás" ],
+			[ "acampa" ],
+			[ "acampamos" ],
+			[ "acampáis", "acampan" ],
+			[ "acampan" ]
+		],
+		"4" : [
+			[ "acampé" ],
+			[ "acampaste" ],
+			[ "acampó" ],
+			[ "acampamos" ],
+			[ "acampasteis", "acamparon" ],
+			[ "acamparon" ]
+		],
+		"5" : [
+			[ "acampaba" ],
+			[ "acampabas" ],
+			[ "acampaba" ],
+			[ "acampábamos" ],
+			[ "acampabais", "acampaban" ],
+			[ "acampaban" ]
+		],
+		"6" : [
+			[ "acamparía" ],
+			[ "acamparías" ],
+			[ "acamparía" ],
+			[ "acamparíamos" ],
+			[ "acamparíais", "acamparían" ],
+			[ "acamparían" ]
+		],
+		"7" : [
+			[ "acamparé" ],
+			[ "acamparás" ],
+			[ "acampará" ],
+			[ "acamparemos" ],
+			[ "acamparéis", "acamparán" ],
+			[ "acamparán" ]
+		],
+		"8" : [
+			[ "acampe" ],
+			[ "acampes" ],
+			[ "acampe" ],
+			[ "acampemos" ],
+			[ "acampéis", "acampen" ],
+			[ "acampen" ]
+		],
+		"9" : [
+			[ "acampara" ],
+			[ "acamparas" ],
+			[ "acampara" ],
+			[ "acampáramos" ],
+			[ "acamparais", "acamparan" ],
+			[ "acamparan" ]
+		],
+		"10" : [
+			[ "acampase" ],
+			[ "acampases" ],
+			[ "acampase" ],
+			[ "acampásemos" ],
+			[ "acampaseis", "acampasen" ],
+			[ "acampasen" ]
+		],
+		"11" : [
+			[ "acampare" ],
+			[ "acampares" ],
+			[ "acampare" ],
+			[ "acampáremos" ],
+			[ "acampareis", "acamparen" ],
+			[ "acamparen" ]
+		],
+		"12" : {
+			"1" : [ "acampa" ],
+			"2" : [ "acampe" ],
+			"3" : [ "acampemos" ],
+			"4" : [ "acampad" ],
+			"5" : [ "acampen" ]
+		}
+	}
+}

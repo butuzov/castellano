@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=triunfar",
+	"word" : "triunfar",
+	"infinitivo" : "triunfar",
+	"participio" : [ "triunfado" ],
+	"gerundio" : [ "triunfando" ],
+	"tenses" : {
+		"3" : [
+			[ "triunfo" ],
+			[ "triunfas", "triunfás" ],
+			[ "triunfa" ],
+			[ "triunfamos" ],
+			[ "triunfáis", "triunfan" ],
+			[ "triunfan" ]
+		],
+		"4" : [
+			[ "triunfé" ],
+			[ "triunfaste" ],
+			[ "triunfó" ],
+			[ "triunfamos" ],
+			[ "triunfasteis", "triunfaron" ],
+			[ "triunfaron" ]
+		],
+		"5" : [
+			[ "triunfaba" ],
+			[ "triunfabas" ],
+			[ "triunfaba" ],
+			[ "triunfábamos" ],
+			[ "triunfabais", "triunfaban" ],
+			[ "triunfaban" ]
+		],
+		"6" : [
+			[ "triunfaría" ],
+			[ "triunfarías" ],
+			[ "triunfaría" ],
+			[ "triunfaríamos" ],
+			[ "triunfaríais", "triunfarían" ],
+			[ "triunfarían" ]
+		],
+		"7" : [
+			[ "triunfaré" ],
+			[ "triunfarás" ],
+			[ "triunfará" ],
+			[ "triunfaremos" ],
+			[ "triunfaréis", "triunfarán" ],
+			[ "triunfarán" ]
+		],
+		"8" : [
+			[ "triunfe" ],
+			[ "triunfes" ],
+			[ "triunfe" ],
+			[ "triunfemos" ],
+			[ "triunféis", "triunfen" ],
+			[ "triunfen" ]
+		],
+		"9" : [
+			[ "triunfara" ],
+			[ "triunfaras" ],
+			[ "triunfara" ],
+			[ "triunfáramos" ],
+			[ "triunfarais", "triunfaran" ],
+			[ "triunfaran" ]
+		],
+		"10" : [
+			[ "triunfase" ],
+			[ "triunfases" ],
+			[ "triunfase" ],
+			[ "triunfásemos" ],
+			[ "triunfaseis", "triunfasen" ],
+			[ "triunfasen" ]
+		],
+		"11" : [
+			[ "triunfare" ],
+			[ "triunfares" ],
+			[ "triunfare" ],
+			[ "triunfáremos" ],
+			[ "triunfareis", "triunfaren" ],
+			[ "triunfaren" ]
+		],
+		"12" : {
+			"1" : [ "triunfa" ],
+			"2" : [ "triunfe" ],
+			"3" : [ "triunfemos" ],
+			"4" : [ "triunfad" ],
+			"5" : [ "triunfen" ]
+		}
+	}
+}

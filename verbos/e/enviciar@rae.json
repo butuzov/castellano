@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enviciar",
+	"word" : "enviciar",
+	"infinitivo" : "enviciar",
+	"participio" : [ "enviciado" ],
+	"gerundio" : [ "enviciando" ],
+	"tenses" : {
+		"3" : [
+			[ "envicio" ],
+			[ "envicias", "enviciás" ],
+			[ "envicia" ],
+			[ "enviciamos" ],
+			[ "enviciáis", "envician" ],
+			[ "envician" ]
+		],
+		"4" : [
+			[ "envicié" ],
+			[ "enviciaste" ],
+			[ "envició" ],
+			[ "enviciamos" ],
+			[ "enviciasteis", "enviciaron" ],
+			[ "enviciaron" ]
+		],
+		"5" : [
+			[ "enviciaba" ],
+			[ "enviciabas" ],
+			[ "enviciaba" ],
+			[ "enviciábamos" ],
+			[ "enviciabais", "enviciaban" ],
+			[ "enviciaban" ]
+		],
+		"6" : [
+			[ "enviciaría" ],
+			[ "enviciarías" ],
+			[ "enviciaría" ],
+			[ "enviciaríamos" ],
+			[ "enviciaríais", "enviciarían" ],
+			[ "enviciarían" ]
+		],
+		"7" : [
+			[ "enviciaré" ],
+			[ "enviciarás" ],
+			[ "enviciará" ],
+			[ "enviciaremos" ],
+			[ "enviciaréis", "enviciarán" ],
+			[ "enviciarán" ]
+		],
+		"8" : [
+			[ "envicie" ],
+			[ "envicies" ],
+			[ "envicie" ],
+			[ "enviciemos" ],
+			[ "enviciéis", "envicien" ],
+			[ "envicien" ]
+		],
+		"9" : [
+			[ "enviciara" ],
+			[ "enviciaras" ],
+			[ "enviciara" ],
+			[ "enviciáramos" ],
+			[ "enviciarais", "enviciaran" ],
+			[ "enviciaran" ]
+		],
+		"10" : [
+			[ "enviciase" ],
+			[ "enviciases" ],
+			[ "enviciase" ],
+			[ "enviciásemos" ],
+			[ "enviciaseis", "enviciasen" ],
+			[ "enviciasen" ]
+		],
+		"11" : [
+			[ "enviciare" ],
+			[ "enviciares" ],
+			[ "enviciare" ],
+			[ "enviciáremos" ],
+			[ "enviciareis", "enviciaren" ],
+			[ "enviciaren" ]
+		],
+		"12" : {
+			"1" : [ "envicia" ],
+			"2" : [ "envicie" ],
+			"3" : [ "enviciemos" ],
+			"4" : [ "enviciad" ],
+			"5" : [ "envicien" ]
+		}
+	}
+}

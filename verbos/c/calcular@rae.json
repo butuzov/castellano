@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=calcular",
+	"word" : "calcular",
+	"infinitivo" : "calcular",
+	"participio" : [ "calculado" ],
+	"gerundio" : [ "calculando" ],
+	"tenses" : {
+		"3" : [
+			[ "calculo" ],
+			[ "calculas", "calculás" ],
+			[ "calcula" ],
+			[ "calculamos" ],
+			[ "calculáis", "calculan" ],
+			[ "calculan" ]
+		],
+		"4" : [
+			[ "calculé" ],
+			[ "calculaste" ],
+			[ "calculó" ],
+			[ "calculamos" ],
+			[ "calculasteis", "calcularon" ],
+			[ "calcularon" ]
+		],
+		"5" : [
+			[ "calculaba" ],
+			[ "calculabas" ],
+			[ "calculaba" ],
+			[ "calculábamos" ],
+			[ "calculabais", "calculaban" ],
+			[ "calculaban" ]
+		],
+		"6" : [
+			[ "calcularía" ],
+			[ "calcularías" ],
+			[ "calcularía" ],
+			[ "calcularíamos" ],
+			[ "calcularíais", "calcularían" ],
+			[ "calcularían" ]
+		],
+		"7" : [
+			[ "calcularé" ],
+			[ "calcularás" ],
+			[ "calculará" ],
+			[ "calcularemos" ],
+			[ "calcularéis", "calcularán" ],
+			[ "calcularán" ]
+		],
+		"8" : [
+			[ "calcule" ],
+			[ "calcules" ],
+			[ "calcule" ],
+			[ "calculemos" ],
+			[ "calculéis", "calculen" ],
+			[ "calculen" ]
+		],
+		"9" : [
+			[ "calculara" ],
+			[ "calcularas" ],
+			[ "calculara" ],
+			[ "calculáramos" ],
+			[ "calcularais", "calcularan" ],
+			[ "calcularan" ]
+		],
+		"10" : [
+			[ "calculase" ],
+			[ "calculases" ],
+			[ "calculase" ],
+			[ "calculásemos" ],
+			[ "calculaseis", "calculasen" ],
+			[ "calculasen" ]
+		],
+		"11" : [
+			[ "calculare" ],
+			[ "calculares" ],
+			[ "calculare" ],
+			[ "calculáremos" ],
+			[ "calculareis", "calcularen" ],
+			[ "calcularen" ]
+		],
+		"12" : {
+			"1" : [ "calcula" ],
+			"2" : [ "calcule" ],
+			"3" : [ "calculemos" ],
+			"4" : [ "calculad" ],
+			"5" : [ "calculen" ]
+		}
+	}
+}

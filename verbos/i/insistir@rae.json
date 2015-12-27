@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=insistir",
+	"word" : "insistir",
+	"infinitivo" : "insistir",
+	"participio" : [ "insistido" ],
+	"gerundio" : [ "insistiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "insisto" ],
+			[ "insistes", "insistís" ],
+			[ "insiste" ],
+			[ "insistimos" ],
+			[ "insistís", "insisten" ],
+			[ "insisten" ]
+		],
+		"4" : [
+			[ "insistí" ],
+			[ "insististe" ],
+			[ "insistió" ],
+			[ "insistimos" ],
+			[ "insististeis", "insistieron" ],
+			[ "insistieron" ]
+		],
+		"5" : [
+			[ "insistía" ],
+			[ "insistías" ],
+			[ "insistía" ],
+			[ "insistíamos" ],
+			[ "insistíais", "insistían" ],
+			[ "insistían" ]
+		],
+		"6" : [
+			[ "insistiría" ],
+			[ "insistirías" ],
+			[ "insistiría" ],
+			[ "insistiríamos" ],
+			[ "insistiríais", "insistirían" ],
+			[ "insistirían" ]
+		],
+		"7" : [
+			[ "insistiré" ],
+			[ "insistirás" ],
+			[ "insistirá" ],
+			[ "insistiremos" ],
+			[ "insistiréis", "insistirán" ],
+			[ "insistirán" ]
+		],
+		"8" : [
+			[ "insista" ],
+			[ "insistas" ],
+			[ "insista" ],
+			[ "insistamos" ],
+			[ "insistáis", "insistan" ],
+			[ "insistan" ]
+		],
+		"9" : [
+			[ "insistiera" ],
+			[ "insistieras" ],
+			[ "insistiera" ],
+			[ "insistiéramos" ],
+			[ "insistierais", "insistieran" ],
+			[ "insistieran" ]
+		],
+		"10" : [
+			[ "insistiese" ],
+			[ "insistieses" ],
+			[ "insistiese" ],
+			[ "insistiésemos" ],
+			[ "insistieseis", "insistiesen" ],
+			[ "insistiesen" ]
+		],
+		"11" : [
+			[ "insistiere" ],
+			[ "insistieres" ],
+			[ "insistiere" ],
+			[ "insistiéremos" ],
+			[ "insistiereis", "insistieren" ],
+			[ "insistieren" ]
+		],
+		"12" : {
+			"1" : [ "insiste" ],
+			"2" : [ "insista" ],
+			"3" : [ "insistamos" ],
+			"4" : [ "insistid" ],
+			"5" : [ "insistan" ]
+		}
+	}
+}

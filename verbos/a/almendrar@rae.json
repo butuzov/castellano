@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=almendrar",
+	"word" : "almendrar",
+	"infinitivo" : "almendrar",
+	"participio" : [ "almendrado" ],
+	"gerundio" : [ "almendrando" ],
+	"tenses" : {
+		"3" : [
+			[ "almendro" ],
+			[ "almendras", "almendrás" ],
+			[ "almendra" ],
+			[ "almendramos" ],
+			[ "almendráis", "almendran" ],
+			[ "almendran" ]
+		],
+		"4" : [
+			[ "almendré" ],
+			[ "almendraste" ],
+			[ "almendró" ],
+			[ "almendramos" ],
+			[ "almendrasteis", "almendraron" ],
+			[ "almendraron" ]
+		],
+		"5" : [
+			[ "almendraba" ],
+			[ "almendrabas" ],
+			[ "almendraba" ],
+			[ "almendrábamos" ],
+			[ "almendrabais", "almendraban" ],
+			[ "almendraban" ]
+		],
+		"6" : [
+			[ "almendraría" ],
+			[ "almendrarías" ],
+			[ "almendraría" ],
+			[ "almendraríamos" ],
+			[ "almendraríais", "almendrarían" ],
+			[ "almendrarían" ]
+		],
+		"7" : [
+			[ "almendraré" ],
+			[ "almendrarás" ],
+			[ "almendrará" ],
+			[ "almendraremos" ],
+			[ "almendraréis", "almendrarán" ],
+			[ "almendrarán" ]
+		],
+		"8" : [
+			[ "almendre" ],
+			[ "almendres" ],
+			[ "almendre" ],
+			[ "almendremos" ],
+			[ "almendréis", "almendren" ],
+			[ "almendren" ]
+		],
+		"9" : [
+			[ "almendrara" ],
+			[ "almendraras" ],
+			[ "almendrara" ],
+			[ "almendráramos" ],
+			[ "almendrarais", "almendraran" ],
+			[ "almendraran" ]
+		],
+		"10" : [
+			[ "almendrase" ],
+			[ "almendrases" ],
+			[ "almendrase" ],
+			[ "almendrásemos" ],
+			[ "almendraseis", "almendrasen" ],
+			[ "almendrasen" ]
+		],
+		"11" : [
+			[ "almendrare" ],
+			[ "almendrares" ],
+			[ "almendrare" ],
+			[ "almendráremos" ],
+			[ "almendrareis", "almendraren" ],
+			[ "almendraren" ]
+		],
+		"12" : {
+			"1" : [ "almendra" ],
+			"2" : [ "almendre" ],
+			"3" : [ "almendremos" ],
+			"4" : [ "almendrad" ],
+			"5" : [ "almendren" ]
+		}
+	}
+}

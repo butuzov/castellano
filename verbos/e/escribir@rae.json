@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escribir",
+	"word" : "escribir",
+	"infinitivo" : "escribir",
+	"participio" : [ "escrito" ],
+	"gerundio" : [ "escribiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "escribo" ],
+			[ "escribes", "escribís" ],
+			[ "escribe" ],
+			[ "escribimos" ],
+			[ "escribís", "escriben" ],
+			[ "escriben" ]
+		],
+		"4" : [
+			[ "escribí" ],
+			[ "escribiste" ],
+			[ "escribió" ],
+			[ "escribimos" ],
+			[ "escribisteis", "escribieron" ],
+			[ "escribieron" ]
+		],
+		"5" : [
+			[ "escribía" ],
+			[ "escribías" ],
+			[ "escribía" ],
+			[ "escribíamos" ],
+			[ "escribíais", "escribían" ],
+			[ "escribían" ]
+		],
+		"6" : [
+			[ "escribiría" ],
+			[ "escribirías" ],
+			[ "escribiría" ],
+			[ "escribiríamos" ],
+			[ "escribiríais", "escribirían" ],
+			[ "escribirían" ]
+		],
+		"7" : [
+			[ "escribiré" ],
+			[ "escribirás" ],
+			[ "escribirá" ],
+			[ "escribiremos" ],
+			[ "escribiréis", "escribirán" ],
+			[ "escribirán" ]
+		],
+		"8" : [
+			[ "escriba" ],
+			[ "escribas" ],
+			[ "escriba" ],
+			[ "escribamos" ],
+			[ "escribáis", "escriban" ],
+			[ "escriban" ]
+		],
+		"9" : [
+			[ "escribiera" ],
+			[ "escribieras" ],
+			[ "escribiera" ],
+			[ "escribiéramos" ],
+			[ "escribierais", "escribieran" ],
+			[ "escribieran" ]
+		],
+		"10" : [
+			[ "escribiese" ],
+			[ "escribieses" ],
+			[ "escribiese" ],
+			[ "escribiésemos" ],
+			[ "escribieseis", "escribiesen" ],
+			[ "escribiesen" ]
+		],
+		"11" : [
+			[ "escribiere" ],
+			[ "escribieres" ],
+			[ "escribiere" ],
+			[ "escribiéremos" ],
+			[ "escribiereis", "escribieren" ],
+			[ "escribieren" ]
+		],
+		"12" : {
+			"1" : [ "escribe" ],
+			"2" : [ "escriba" ],
+			"3" : [ "escribamos" ],
+			"4" : [ "escribid" ],
+			"5" : [ "escriban" ]
+		}
+	}
+}

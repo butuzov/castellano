@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=botar",
+	"word" : "botar",
+	"infinitivo" : "botar",
+	"participio" : [ "botado" ],
+	"gerundio" : [ "botando" ],
+	"tenses" : {
+		"3" : [
+			[ "boto" ],
+			[ "botas", "botás" ],
+			[ "bota" ],
+			[ "botamos" ],
+			[ "botáis", "botan" ],
+			[ "botan" ]
+		],
+		"4" : [
+			[ "boté" ],
+			[ "botaste" ],
+			[ "botó" ],
+			[ "botamos" ],
+			[ "botasteis", "botaron" ],
+			[ "botaron" ]
+		],
+		"5" : [
+			[ "botaba" ],
+			[ "botabas" ],
+			[ "botaba" ],
+			[ "botábamos" ],
+			[ "botabais", "botaban" ],
+			[ "botaban" ]
+		],
+		"6" : [
+			[ "botaría" ],
+			[ "botarías" ],
+			[ "botaría" ],
+			[ "botaríamos" ],
+			[ "botaríais", "botarían" ],
+			[ "botarían" ]
+		],
+		"7" : [
+			[ "botaré" ],
+			[ "botarás" ],
+			[ "botará" ],
+			[ "botaremos" ],
+			[ "botaréis", "botarán" ],
+			[ "botarán" ]
+		],
+		"8" : [
+			[ "bote" ],
+			[ "botes" ],
+			[ "bote" ],
+			[ "botemos" ],
+			[ "botéis", "boten" ],
+			[ "boten" ]
+		],
+		"9" : [
+			[ "botara" ],
+			[ "botaras" ],
+			[ "botara" ],
+			[ "botáramos" ],
+			[ "botarais", "botaran" ],
+			[ "botaran" ]
+		],
+		"10" : [
+			[ "botase" ],
+			[ "botases" ],
+			[ "botase" ],
+			[ "botásemos" ],
+			[ "botaseis", "botasen" ],
+			[ "botasen" ]
+		],
+		"11" : [
+			[ "botare" ],
+			[ "botares" ],
+			[ "botare" ],
+			[ "botáremos" ],
+			[ "botareis", "botaren" ],
+			[ "botaren" ]
+		],
+		"12" : {
+			"1" : [ "bota" ],
+			"2" : [ "bote" ],
+			"3" : [ "botemos" ],
+			"4" : [ "botad" ],
+			"5" : [ "boten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=moler",
+	"word" : "moler",
+	"infinitivo" : "moler",
+	"participio" : [ "molido" ],
+	"gerundio" : [ "moliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "muelo" ],
+			[ "mueles", "molés" ],
+			[ "muele" ],
+			[ "molemos" ],
+			[ "moléis", "muelen" ],
+			[ "muelen" ]
+		],
+		"4" : [
+			[ "molí" ],
+			[ "moliste" ],
+			[ "molió" ],
+			[ "molimos" ],
+			[ "molisteis", "molieron" ],
+			[ "molieron" ]
+		],
+		"5" : [
+			[ "molía" ],
+			[ "molías" ],
+			[ "molía" ],
+			[ "molíamos" ],
+			[ "molíais", "molían" ],
+			[ "molían" ]
+		],
+		"6" : [
+			[ "molería" ],
+			[ "molerías" ],
+			[ "molería" ],
+			[ "moleríamos" ],
+			[ "moleríais", "molerían" ],
+			[ "molerían" ]
+		],
+		"7" : [
+			[ "moleré" ],
+			[ "molerás" ],
+			[ "molerá" ],
+			[ "moleremos" ],
+			[ "moleréis", "molerán" ],
+			[ "molerán" ]
+		],
+		"8" : [
+			[ "muela" ],
+			[ "muelas" ],
+			[ "muela" ],
+			[ "molamos" ],
+			[ "moláis", "muelan" ],
+			[ "muelan" ]
+		],
+		"9" : [
+			[ "moliera" ],
+			[ "molieras" ],
+			[ "moliera" ],
+			[ "moliéramos" ],
+			[ "molierais", "molieran" ],
+			[ "molieran" ]
+		],
+		"10" : [
+			[ "moliese" ],
+			[ "molieses" ],
+			[ "moliese" ],
+			[ "moliésemos" ],
+			[ "molieseis", "moliesen" ],
+			[ "moliesen" ]
+		],
+		"11" : [
+			[ "moliere" ],
+			[ "molieres" ],
+			[ "moliere" ],
+			[ "moliéremos" ],
+			[ "moliereis", "molieren" ],
+			[ "molieren" ]
+		],
+		"12" : {
+			"1" : [ "muele" ],
+			"2" : [ "muela" ],
+			"3" : [ "molamos" ],
+			"4" : [ "moled" ],
+			"5" : [ "muelan" ]
+		}
+	}
+}

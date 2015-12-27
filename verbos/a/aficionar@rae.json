@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aficionar",
+	"word" : "aficionar",
+	"infinitivo" : "aficionar",
+	"participio" : [ "aficionado" ],
+	"gerundio" : [ "aficionando" ],
+	"tenses" : {
+		"3" : [
+			[ "aficiono" ],
+			[ "aficionas", "aficionás" ],
+			[ "aficiona" ],
+			[ "aficionamos" ],
+			[ "aficionáis", "aficionan" ],
+			[ "aficionan" ]
+		],
+		"4" : [
+			[ "aficioné" ],
+			[ "aficionaste" ],
+			[ "aficionó" ],
+			[ "aficionamos" ],
+			[ "aficionasteis", "aficionaron" ],
+			[ "aficionaron" ]
+		],
+		"5" : [
+			[ "aficionaba" ],
+			[ "aficionabas" ],
+			[ "aficionaba" ],
+			[ "aficionábamos" ],
+			[ "aficionabais", "aficionaban" ],
+			[ "aficionaban" ]
+		],
+		"6" : [
+			[ "aficionaría" ],
+			[ "aficionarías" ],
+			[ "aficionaría" ],
+			[ "aficionaríamos" ],
+			[ "aficionaríais", "aficionarían" ],
+			[ "aficionarían" ]
+		],
+		"7" : [
+			[ "aficionaré" ],
+			[ "aficionarás" ],
+			[ "aficionará" ],
+			[ "aficionaremos" ],
+			[ "aficionaréis", "aficionarán" ],
+			[ "aficionarán" ]
+		],
+		"8" : [
+			[ "aficione" ],
+			[ "aficiones" ],
+			[ "aficione" ],
+			[ "aficionemos" ],
+			[ "aficionéis", "aficionen" ],
+			[ "aficionen" ]
+		],
+		"9" : [
+			[ "aficionara" ],
+			[ "aficionaras" ],
+			[ "aficionara" ],
+			[ "aficionáramos" ],
+			[ "aficionarais", "aficionaran" ],
+			[ "aficionaran" ]
+		],
+		"10" : [
+			[ "aficionase" ],
+			[ "aficionases" ],
+			[ "aficionase" ],
+			[ "aficionásemos" ],
+			[ "aficionaseis", "aficionasen" ],
+			[ "aficionasen" ]
+		],
+		"11" : [
+			[ "aficionare" ],
+			[ "aficionares" ],
+			[ "aficionare" ],
+			[ "aficionáremos" ],
+			[ "aficionareis", "aficionaren" ],
+			[ "aficionaren" ]
+		],
+		"12" : {
+			"1" : [ "aficiona" ],
+			"2" : [ "aficione" ],
+			"3" : [ "aficionemos" ],
+			"4" : [ "aficionad" ],
+			"5" : [ "aficionen" ]
+		}
+	}
+}

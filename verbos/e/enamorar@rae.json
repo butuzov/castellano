@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enamorar",
+	"word" : "enamorar",
+	"infinitivo" : "enamorar",
+	"participio" : [ "enamorado" ],
+	"gerundio" : [ "enamorando" ],
+	"tenses" : {
+		"3" : [
+			[ "enamoro" ],
+			[ "enamoras", "enamorás" ],
+			[ "enamora" ],
+			[ "enamoramos" ],
+			[ "enamoráis", "enamoran" ],
+			[ "enamoran" ]
+		],
+		"4" : [
+			[ "enamoré" ],
+			[ "enamoraste" ],
+			[ "enamoró" ],
+			[ "enamoramos" ],
+			[ "enamorasteis", "enamoraron" ],
+			[ "enamoraron" ]
+		],
+		"5" : [
+			[ "enamoraba" ],
+			[ "enamorabas" ],
+			[ "enamoraba" ],
+			[ "enamorábamos" ],
+			[ "enamorabais", "enamoraban" ],
+			[ "enamoraban" ]
+		],
+		"6" : [
+			[ "enamoraría" ],
+			[ "enamorarías" ],
+			[ "enamoraría" ],
+			[ "enamoraríamos" ],
+			[ "enamoraríais", "enamorarían" ],
+			[ "enamorarían" ]
+		],
+		"7" : [
+			[ "enamoraré" ],
+			[ "enamorarás" ],
+			[ "enamorará" ],
+			[ "enamoraremos" ],
+			[ "enamoraréis", "enamorarán" ],
+			[ "enamorarán" ]
+		],
+		"8" : [
+			[ "enamore" ],
+			[ "enamores" ],
+			[ "enamore" ],
+			[ "enamoremos" ],
+			[ "enamoréis", "enamoren" ],
+			[ "enamoren" ]
+		],
+		"9" : [
+			[ "enamorara" ],
+			[ "enamoraras" ],
+			[ "enamorara" ],
+			[ "enamoráramos" ],
+			[ "enamorarais", "enamoraran" ],
+			[ "enamoraran" ]
+		],
+		"10" : [
+			[ "enamorase" ],
+			[ "enamorases" ],
+			[ "enamorase" ],
+			[ "enamorásemos" ],
+			[ "enamoraseis", "enamorasen" ],
+			[ "enamorasen" ]
+		],
+		"11" : [
+			[ "enamorare" ],
+			[ "enamorares" ],
+			[ "enamorare" ],
+			[ "enamoráremos" ],
+			[ "enamorareis", "enamoraren" ],
+			[ "enamoraren" ]
+		],
+		"12" : {
+			"1" : [ "enamora" ],
+			"2" : [ "enamore" ],
+			"3" : [ "enamoremos" ],
+			"4" : [ "enamorad" ],
+			"5" : [ "enamoren" ]
+		}
+	}
+}

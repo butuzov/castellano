@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apalancar",
+	"word" : "apalancar",
+	"infinitivo" : "apalancar",
+	"participio" : [ "apalancado" ],
+	"gerundio" : [ "apalancando" ],
+	"tenses" : {
+		"3" : [
+			[ "apalanco" ],
+			[ "apalancas", "apalancás" ],
+			[ "apalanca" ],
+			[ "apalancamos" ],
+			[ "apalancáis", "apalancan" ],
+			[ "apalancan" ]
+		],
+		"4" : [
+			[ "apalanqué" ],
+			[ "apalancaste" ],
+			[ "apalancó" ],
+			[ "apalancamos" ],
+			[ "apalancasteis", "apalancaron" ],
+			[ "apalancaron" ]
+		],
+		"5" : [
+			[ "apalancaba" ],
+			[ "apalancabas" ],
+			[ "apalancaba" ],
+			[ "apalancábamos" ],
+			[ "apalancabais", "apalancaban" ],
+			[ "apalancaban" ]
+		],
+		"6" : [
+			[ "apalancaría" ],
+			[ "apalancarías" ],
+			[ "apalancaría" ],
+			[ "apalancaríamos" ],
+			[ "apalancaríais", "apalancarían" ],
+			[ "apalancarían" ]
+		],
+		"7" : [
+			[ "apalancaré" ],
+			[ "apalancarás" ],
+			[ "apalancará" ],
+			[ "apalancaremos" ],
+			[ "apalancaréis", "apalancarán" ],
+			[ "apalancarán" ]
+		],
+		"8" : [
+			[ "apalanque" ],
+			[ "apalanques" ],
+			[ "apalanque" ],
+			[ "apalanquemos" ],
+			[ "apalanquéis", "apalanquen" ],
+			[ "apalanquen" ]
+		],
+		"9" : [
+			[ "apalancara" ],
+			[ "apalancaras" ],
+			[ "apalancara" ],
+			[ "apalancáramos" ],
+			[ "apalancarais", "apalancaran" ],
+			[ "apalancaran" ]
+		],
+		"10" : [
+			[ "apalancase" ],
+			[ "apalancases" ],
+			[ "apalancase" ],
+			[ "apalancásemos" ],
+			[ "apalancaseis", "apalancasen" ],
+			[ "apalancasen" ]
+		],
+		"11" : [
+			[ "apalancare" ],
+			[ "apalancares" ],
+			[ "apalancare" ],
+			[ "apalancáremos" ],
+			[ "apalancareis", "apalancaren" ],
+			[ "apalancaren" ]
+		],
+		"12" : {
+			"1" : [ "apalanca" ],
+			"2" : [ "apalanque" ],
+			"3" : [ "apalanquemos" ],
+			"4" : [ "apalancad" ],
+			"5" : [ "apalanquen" ]
+		}
+	}
+}

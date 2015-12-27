@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=edificar",
+	"word" : "edificar",
+	"infinitivo" : "edificar",
+	"participio" : [ "edificado" ],
+	"gerundio" : [ "edificando" ],
+	"tenses" : {
+		"3" : [
+			[ "edifico" ],
+			[ "edificas", "edificás" ],
+			[ "edifica" ],
+			[ "edificamos" ],
+			[ "edificáis", "edifican" ],
+			[ "edifican" ]
+		],
+		"4" : [
+			[ "edifiqué" ],
+			[ "edificaste" ],
+			[ "edificó" ],
+			[ "edificamos" ],
+			[ "edificasteis", "edificaron" ],
+			[ "edificaron" ]
+		],
+		"5" : [
+			[ "edificaba" ],
+			[ "edificabas" ],
+			[ "edificaba" ],
+			[ "edificábamos" ],
+			[ "edificabais", "edificaban" ],
+			[ "edificaban" ]
+		],
+		"6" : [
+			[ "edificaría" ],
+			[ "edificarías" ],
+			[ "edificaría" ],
+			[ "edificaríamos" ],
+			[ "edificaríais", "edificarían" ],
+			[ "edificarían" ]
+		],
+		"7" : [
+			[ "edificaré" ],
+			[ "edificarás" ],
+			[ "edificará" ],
+			[ "edificaremos" ],
+			[ "edificaréis", "edificarán" ],
+			[ "edificarán" ]
+		],
+		"8" : [
+			[ "edifique" ],
+			[ "edifiques" ],
+			[ "edifique" ],
+			[ "edifiquemos" ],
+			[ "edifiquéis", "edifiquen" ],
+			[ "edifiquen" ]
+		],
+		"9" : [
+			[ "edificara" ],
+			[ "edificaras" ],
+			[ "edificara" ],
+			[ "edificáramos" ],
+			[ "edificarais", "edificaran" ],
+			[ "edificaran" ]
+		],
+		"10" : [
+			[ "edificase" ],
+			[ "edificases" ],
+			[ "edificase" ],
+			[ "edificásemos" ],
+			[ "edificaseis", "edificasen" ],
+			[ "edificasen" ]
+		],
+		"11" : [
+			[ "edificare" ],
+			[ "edificares" ],
+			[ "edificare" ],
+			[ "edificáremos" ],
+			[ "edificareis", "edificaren" ],
+			[ "edificaren" ]
+		],
+		"12" : {
+			"1" : [ "edifica" ],
+			"2" : [ "edifique" ],
+			"3" : [ "edifiquemos" ],
+			"4" : [ "edificad" ],
+			"5" : [ "edifiquen" ]
+		}
+	}
+}

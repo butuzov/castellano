@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=originar",
+	"word" : "originar",
+	"infinitivo" : "originar",
+	"participio" : [ "originado" ],
+	"gerundio" : [ "originando" ],
+	"tenses" : {
+		"3" : [
+			[ "origino" ],
+			[ "originas", "originás" ],
+			[ "origina" ],
+			[ "originamos" ],
+			[ "origináis", "originan" ],
+			[ "originan" ]
+		],
+		"4" : [
+			[ "originé" ],
+			[ "originaste" ],
+			[ "originó" ],
+			[ "originamos" ],
+			[ "originasteis", "originaron" ],
+			[ "originaron" ]
+		],
+		"5" : [
+			[ "originaba" ],
+			[ "originabas" ],
+			[ "originaba" ],
+			[ "originábamos" ],
+			[ "originabais", "originaban" ],
+			[ "originaban" ]
+		],
+		"6" : [
+			[ "originaría" ],
+			[ "originarías" ],
+			[ "originaría" ],
+			[ "originaríamos" ],
+			[ "originaríais", "originarían" ],
+			[ "originarían" ]
+		],
+		"7" : [
+			[ "originaré" ],
+			[ "originarás" ],
+			[ "originará" ],
+			[ "originaremos" ],
+			[ "originaréis", "originarán" ],
+			[ "originarán" ]
+		],
+		"8" : [
+			[ "origine" ],
+			[ "origines" ],
+			[ "origine" ],
+			[ "originemos" ],
+			[ "originéis", "originen" ],
+			[ "originen" ]
+		],
+		"9" : [
+			[ "originara" ],
+			[ "originaras" ],
+			[ "originara" ],
+			[ "origináramos" ],
+			[ "originarais", "originaran" ],
+			[ "originaran" ]
+		],
+		"10" : [
+			[ "originase" ],
+			[ "originases" ],
+			[ "originase" ],
+			[ "originásemos" ],
+			[ "originaseis", "originasen" ],
+			[ "originasen" ]
+		],
+		"11" : [
+			[ "originare" ],
+			[ "originares" ],
+			[ "originare" ],
+			[ "origináremos" ],
+			[ "originareis", "originaren" ],
+			[ "originaren" ]
+		],
+		"12" : {
+			"1" : [ "origina" ],
+			"2" : [ "origine" ],
+			"3" : [ "originemos" ],
+			"4" : [ "originad" ],
+			"5" : [ "originen" ]
+		}
+	}
+}

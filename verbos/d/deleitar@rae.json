@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deleitar",
+	"word" : "deleitar",
+	"infinitivo" : "deleitar",
+	"participio" : [ "deleitado" ],
+	"gerundio" : [ "deleitando" ],
+	"tenses" : {
+		"3" : [
+			[ "deleito" ],
+			[ "deleitas", "deleitás" ],
+			[ "deleita" ],
+			[ "deleitamos" ],
+			[ "deleitáis", "deleitan" ],
+			[ "deleitan" ]
+		],
+		"4" : [
+			[ "deleité" ],
+			[ "deleitaste" ],
+			[ "deleitó" ],
+			[ "deleitamos" ],
+			[ "deleitasteis", "deleitaron" ],
+			[ "deleitaron" ]
+		],
+		"5" : [
+			[ "deleitaba" ],
+			[ "deleitabas" ],
+			[ "deleitaba" ],
+			[ "deleitábamos" ],
+			[ "deleitabais", "deleitaban" ],
+			[ "deleitaban" ]
+		],
+		"6" : [
+			[ "deleitaría" ],
+			[ "deleitarías" ],
+			[ "deleitaría" ],
+			[ "deleitaríamos" ],
+			[ "deleitaríais", "deleitarían" ],
+			[ "deleitarían" ]
+		],
+		"7" : [
+			[ "deleitaré" ],
+			[ "deleitarás" ],
+			[ "deleitará" ],
+			[ "deleitaremos" ],
+			[ "deleitaréis", "deleitarán" ],
+			[ "deleitarán" ]
+		],
+		"8" : [
+			[ "deleite" ],
+			[ "deleites" ],
+			[ "deleite" ],
+			[ "deleitemos" ],
+			[ "deleitéis", "deleiten" ],
+			[ "deleiten" ]
+		],
+		"9" : [
+			[ "deleitara" ],
+			[ "deleitaras" ],
+			[ "deleitara" ],
+			[ "deleitáramos" ],
+			[ "deleitarais", "deleitaran" ],
+			[ "deleitaran" ]
+		],
+		"10" : [
+			[ "deleitase" ],
+			[ "deleitases" ],
+			[ "deleitase" ],
+			[ "deleitásemos" ],
+			[ "deleitaseis", "deleitasen" ],
+			[ "deleitasen" ]
+		],
+		"11" : [
+			[ "deleitare" ],
+			[ "deleitares" ],
+			[ "deleitare" ],
+			[ "deleitáremos" ],
+			[ "deleitareis", "deleitaren" ],
+			[ "deleitaren" ]
+		],
+		"12" : {
+			"1" : [ "deleita" ],
+			"2" : [ "deleite" ],
+			"3" : [ "deleitemos" ],
+			"4" : [ "deleitad" ],
+			"5" : [ "deleiten" ]
+		}
+	}
+}

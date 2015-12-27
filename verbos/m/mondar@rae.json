@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mondar",
+	"word" : "mondar",
+	"infinitivo" : "mondar",
+	"participio" : [ "mondado" ],
+	"gerundio" : [ "mondando" ],
+	"tenses" : {
+		"3" : [
+			[ "mondo" ],
+			[ "mondas", "mondás" ],
+			[ "monda" ],
+			[ "mondamos" ],
+			[ "mondáis", "mondan" ],
+			[ "mondan" ]
+		],
+		"4" : [
+			[ "mondé" ],
+			[ "mondaste" ],
+			[ "mondó" ],
+			[ "mondamos" ],
+			[ "mondasteis", "mondaron" ],
+			[ "mondaron" ]
+		],
+		"5" : [
+			[ "mondaba" ],
+			[ "mondabas" ],
+			[ "mondaba" ],
+			[ "mondábamos" ],
+			[ "mondabais", "mondaban" ],
+			[ "mondaban" ]
+		],
+		"6" : [
+			[ "mondaría" ],
+			[ "mondarías" ],
+			[ "mondaría" ],
+			[ "mondaríamos" ],
+			[ "mondaríais", "mondarían" ],
+			[ "mondarían" ]
+		],
+		"7" : [
+			[ "mondaré" ],
+			[ "mondarás" ],
+			[ "mondará" ],
+			[ "mondaremos" ],
+			[ "mondaréis", "mondarán" ],
+			[ "mondarán" ]
+		],
+		"8" : [
+			[ "monde" ],
+			[ "mondes" ],
+			[ "monde" ],
+			[ "mondemos" ],
+			[ "mondéis", "monden" ],
+			[ "monden" ]
+		],
+		"9" : [
+			[ "mondara" ],
+			[ "mondaras" ],
+			[ "mondara" ],
+			[ "mondáramos" ],
+			[ "mondarais", "mondaran" ],
+			[ "mondaran" ]
+		],
+		"10" : [
+			[ "mondase" ],
+			[ "mondases" ],
+			[ "mondase" ],
+			[ "mondásemos" ],
+			[ "mondaseis", "mondasen" ],
+			[ "mondasen" ]
+		],
+		"11" : [
+			[ "mondare" ],
+			[ "mondares" ],
+			[ "mondare" ],
+			[ "mondáremos" ],
+			[ "mondareis", "mondaren" ],
+			[ "mondaren" ]
+		],
+		"12" : {
+			"1" : [ "monda" ],
+			"2" : [ "monde" ],
+			"3" : [ "mondemos" ],
+			"4" : [ "mondad" ],
+			"5" : [ "monden" ]
+		}
+	}
+}

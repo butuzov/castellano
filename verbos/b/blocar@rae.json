@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=blocar",
+	"word" : "blocar",
+	"infinitivo" : "blocar",
+	"participio" : [ "blocado" ],
+	"gerundio" : [ "blocando" ],
+	"tenses" : {
+		"3" : [
+			[ "bloco" ],
+			[ "blocas", "blocás" ],
+			[ "bloca" ],
+			[ "blocamos" ],
+			[ "blocáis", "blocan" ],
+			[ "blocan" ]
+		],
+		"4" : [
+			[ "bloqué" ],
+			[ "blocaste" ],
+			[ "blocó" ],
+			[ "blocamos" ],
+			[ "blocasteis", "blocaron" ],
+			[ "blocaron" ]
+		],
+		"5" : [
+			[ "blocaba" ],
+			[ "blocabas" ],
+			[ "blocaba" ],
+			[ "blocábamos" ],
+			[ "blocabais", "blocaban" ],
+			[ "blocaban" ]
+		],
+		"6" : [
+			[ "blocaría" ],
+			[ "blocarías" ],
+			[ "blocaría" ],
+			[ "blocaríamos" ],
+			[ "blocaríais", "blocarían" ],
+			[ "blocarían" ]
+		],
+		"7" : [
+			[ "blocaré" ],
+			[ "blocarás" ],
+			[ "blocará" ],
+			[ "blocaremos" ],
+			[ "blocaréis", "blocarán" ],
+			[ "blocarán" ]
+		],
+		"8" : [
+			[ "bloque" ],
+			[ "bloques" ],
+			[ "bloque" ],
+			[ "bloquemos" ],
+			[ "bloquéis", "bloquen" ],
+			[ "bloquen" ]
+		],
+		"9" : [
+			[ "blocara" ],
+			[ "blocaras" ],
+			[ "blocara" ],
+			[ "blocáramos" ],
+			[ "blocarais", "blocaran" ],
+			[ "blocaran" ]
+		],
+		"10" : [
+			[ "blocase" ],
+			[ "blocases" ],
+			[ "blocase" ],
+			[ "blocásemos" ],
+			[ "blocaseis", "blocasen" ],
+			[ "blocasen" ]
+		],
+		"11" : [
+			[ "blocare" ],
+			[ "blocares" ],
+			[ "blocare" ],
+			[ "blocáremos" ],
+			[ "blocareis", "blocaren" ],
+			[ "blocaren" ]
+		],
+		"12" : {
+			"1" : [ "bloca" ],
+			"2" : [ "bloque" ],
+			"3" : [ "bloquemos" ],
+			"4" : [ "blocad" ],
+			"5" : [ "bloquen" ]
+		}
+	}
+}

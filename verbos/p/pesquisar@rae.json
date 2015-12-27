@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pesquisar",
+	"word" : "pesquisar",
+	"infinitivo" : "pesquisar",
+	"participio" : [ "pesquisado" ],
+	"gerundio" : [ "pesquisando" ],
+	"tenses" : {
+		"3" : [
+			[ "pesquiso" ],
+			[ "pesquisas", "pesquisás" ],
+			[ "pesquisa" ],
+			[ "pesquisamos" ],
+			[ "pesquisáis", "pesquisan" ],
+			[ "pesquisan" ]
+		],
+		"4" : [
+			[ "pesquisé" ],
+			[ "pesquisaste" ],
+			[ "pesquisó" ],
+			[ "pesquisamos" ],
+			[ "pesquisasteis", "pesquisaron" ],
+			[ "pesquisaron" ]
+		],
+		"5" : [
+			[ "pesquisaba" ],
+			[ "pesquisabas" ],
+			[ "pesquisaba" ],
+			[ "pesquisábamos" ],
+			[ "pesquisabais", "pesquisaban" ],
+			[ "pesquisaban" ]
+		],
+		"6" : [
+			[ "pesquisaría" ],
+			[ "pesquisarías" ],
+			[ "pesquisaría" ],
+			[ "pesquisaríamos" ],
+			[ "pesquisaríais", "pesquisarían" ],
+			[ "pesquisarían" ]
+		],
+		"7" : [
+			[ "pesquisaré" ],
+			[ "pesquisarás" ],
+			[ "pesquisará" ],
+			[ "pesquisaremos" ],
+			[ "pesquisaréis", "pesquisarán" ],
+			[ "pesquisarán" ]
+		],
+		"8" : [
+			[ "pesquise" ],
+			[ "pesquises" ],
+			[ "pesquise" ],
+			[ "pesquisemos" ],
+			[ "pesquiséis", "pesquisen" ],
+			[ "pesquisen" ]
+		],
+		"9" : [
+			[ "pesquisara" ],
+			[ "pesquisaras" ],
+			[ "pesquisara" ],
+			[ "pesquisáramos" ],
+			[ "pesquisarais", "pesquisaran" ],
+			[ "pesquisaran" ]
+		],
+		"10" : [
+			[ "pesquisase" ],
+			[ "pesquisases" ],
+			[ "pesquisase" ],
+			[ "pesquisásemos" ],
+			[ "pesquisaseis", "pesquisasen" ],
+			[ "pesquisasen" ]
+		],
+		"11" : [
+			[ "pesquisare" ],
+			[ "pesquisares" ],
+			[ "pesquisare" ],
+			[ "pesquisáremos" ],
+			[ "pesquisareis", "pesquisaren" ],
+			[ "pesquisaren" ]
+		],
+		"12" : {
+			"1" : [ "pesquisa" ],
+			"2" : [ "pesquise" ],
+			"3" : [ "pesquisemos" ],
+			"4" : [ "pesquisad" ],
+			"5" : [ "pesquisen" ]
+		}
+	}
+}

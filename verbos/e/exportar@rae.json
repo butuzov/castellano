@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=exportar",
+	"word" : "exportar",
+	"infinitivo" : "exportar",
+	"participio" : [ "exportado" ],
+	"gerundio" : [ "exportando" ],
+	"tenses" : {
+		"3" : [
+			[ "exporto" ],
+			[ "exportas", "exportás" ],
+			[ "exporta" ],
+			[ "exportamos" ],
+			[ "exportáis", "exportan" ],
+			[ "exportan" ]
+		],
+		"4" : [
+			[ "exporté" ],
+			[ "exportaste" ],
+			[ "exportó" ],
+			[ "exportamos" ],
+			[ "exportasteis", "exportaron" ],
+			[ "exportaron" ]
+		],
+		"5" : [
+			[ "exportaba" ],
+			[ "exportabas" ],
+			[ "exportaba" ],
+			[ "exportábamos" ],
+			[ "exportabais", "exportaban" ],
+			[ "exportaban" ]
+		],
+		"6" : [
+			[ "exportaría" ],
+			[ "exportarías" ],
+			[ "exportaría" ],
+			[ "exportaríamos" ],
+			[ "exportaríais", "exportarían" ],
+			[ "exportarían" ]
+		],
+		"7" : [
+			[ "exportaré" ],
+			[ "exportarás" ],
+			[ "exportará" ],
+			[ "exportaremos" ],
+			[ "exportaréis", "exportarán" ],
+			[ "exportarán" ]
+		],
+		"8" : [
+			[ "exporte" ],
+			[ "exportes" ],
+			[ "exporte" ],
+			[ "exportemos" ],
+			[ "exportéis", "exporten" ],
+			[ "exporten" ]
+		],
+		"9" : [
+			[ "exportara" ],
+			[ "exportaras" ],
+			[ "exportara" ],
+			[ "exportáramos" ],
+			[ "exportarais", "exportaran" ],
+			[ "exportaran" ]
+		],
+		"10" : [
+			[ "exportase" ],
+			[ "exportases" ],
+			[ "exportase" ],
+			[ "exportásemos" ],
+			[ "exportaseis", "exportasen" ],
+			[ "exportasen" ]
+		],
+		"11" : [
+			[ "exportare" ],
+			[ "exportares" ],
+			[ "exportare" ],
+			[ "exportáremos" ],
+			[ "exportareis", "exportaren" ],
+			[ "exportaren" ]
+		],
+		"12" : {
+			"1" : [ "exporta" ],
+			"2" : [ "exporte" ],
+			"3" : [ "exportemos" ],
+			"4" : [ "exportad" ],
+			"5" : [ "exporten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=negociar",
+	"word" : "negociar",
+	"infinitivo" : "negociar",
+	"participio" : [ "negociado" ],
+	"gerundio" : [ "negociando" ],
+	"tenses" : {
+		"3" : [
+			[ "negocio" ],
+			[ "negocias", "negociás" ],
+			[ "negocia" ],
+			[ "negociamos" ],
+			[ "negociáis", "negocian" ],
+			[ "negocian" ]
+		],
+		"4" : [
+			[ "negocié" ],
+			[ "negociaste" ],
+			[ "negoció" ],
+			[ "negociamos" ],
+			[ "negociasteis", "negociaron" ],
+			[ "negociaron" ]
+		],
+		"5" : [
+			[ "negociaba" ],
+			[ "negociabas" ],
+			[ "negociaba" ],
+			[ "negociábamos" ],
+			[ "negociabais", "negociaban" ],
+			[ "negociaban" ]
+		],
+		"6" : [
+			[ "negociaría" ],
+			[ "negociarías" ],
+			[ "negociaría" ],
+			[ "negociaríamos" ],
+			[ "negociaríais", "negociarían" ],
+			[ "negociarían" ]
+		],
+		"7" : [
+			[ "negociaré" ],
+			[ "negociarás" ],
+			[ "negociará" ],
+			[ "negociaremos" ],
+			[ "negociaréis", "negociarán" ],
+			[ "negociarán" ]
+		],
+		"8" : [
+			[ "negocie" ],
+			[ "negocies" ],
+			[ "negocie" ],
+			[ "negociemos" ],
+			[ "negociéis", "negocien" ],
+			[ "negocien" ]
+		],
+		"9" : [
+			[ "negociara" ],
+			[ "negociaras" ],
+			[ "negociara" ],
+			[ "negociáramos" ],
+			[ "negociarais", "negociaran" ],
+			[ "negociaran" ]
+		],
+		"10" : [
+			[ "negociase" ],
+			[ "negociases" ],
+			[ "negociase" ],
+			[ "negociásemos" ],
+			[ "negociaseis", "negociasen" ],
+			[ "negociasen" ]
+		],
+		"11" : [
+			[ "negociare" ],
+			[ "negociares" ],
+			[ "negociare" ],
+			[ "negociáremos" ],
+			[ "negociareis", "negociaren" ],
+			[ "negociaren" ]
+		],
+		"12" : {
+			"1" : [ "negocia" ],
+			"2" : [ "negocie" ],
+			"3" : [ "negociemos" ],
+			"4" : [ "negociad" ],
+			"5" : [ "negocien" ]
+		}
+	}
+}

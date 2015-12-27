@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=achinar",
+	"word" : "achinar",
+	"infinitivo" : "achinar",
+	"participio" : [ "achinado" ],
+	"gerundio" : [ "achinando" ],
+	"tenses" : {
+		"3" : [
+			[ "achino" ],
+			[ "achinas", "achinás" ],
+			[ "achina" ],
+			[ "achinamos" ],
+			[ "achináis", "achinan" ],
+			[ "achinan" ]
+		],
+		"4" : [
+			[ "achiné" ],
+			[ "achinaste" ],
+			[ "achinó" ],
+			[ "achinamos" ],
+			[ "achinasteis", "achinaron" ],
+			[ "achinaron" ]
+		],
+		"5" : [
+			[ "achinaba" ],
+			[ "achinabas" ],
+			[ "achinaba" ],
+			[ "achinábamos" ],
+			[ "achinabais", "achinaban" ],
+			[ "achinaban" ]
+		],
+		"6" : [
+			[ "achinaría" ],
+			[ "achinarías" ],
+			[ "achinaría" ],
+			[ "achinaríamos" ],
+			[ "achinaríais", "achinarían" ],
+			[ "achinarían" ]
+		],
+		"7" : [
+			[ "achinaré" ],
+			[ "achinarás" ],
+			[ "achinará" ],
+			[ "achinaremos" ],
+			[ "achinaréis", "achinarán" ],
+			[ "achinarán" ]
+		],
+		"8" : [
+			[ "achine" ],
+			[ "achines" ],
+			[ "achine" ],
+			[ "achinemos" ],
+			[ "achinéis", "achinen" ],
+			[ "achinen" ]
+		],
+		"9" : [
+			[ "achinara" ],
+			[ "achinaras" ],
+			[ "achinara" ],
+			[ "achináramos" ],
+			[ "achinarais", "achinaran" ],
+			[ "achinaran" ]
+		],
+		"10" : [
+			[ "achinase" ],
+			[ "achinases" ],
+			[ "achinase" ],
+			[ "achinásemos" ],
+			[ "achinaseis", "achinasen" ],
+			[ "achinasen" ]
+		],
+		"11" : [
+			[ "achinare" ],
+			[ "achinares" ],
+			[ "achinare" ],
+			[ "achináremos" ],
+			[ "achinareis", "achinaren" ],
+			[ "achinaren" ]
+		],
+		"12" : {
+			"1" : [ "achina" ],
+			"2" : [ "achine" ],
+			"3" : [ "achinemos" ],
+			"4" : [ "achinad" ],
+			"5" : [ "achinen" ]
+		}
+	}
+}

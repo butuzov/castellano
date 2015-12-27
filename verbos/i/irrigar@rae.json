@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=irrigar",
+	"word" : "irrigar",
+	"infinitivo" : "irrigar",
+	"participio" : [ "irrigado" ],
+	"gerundio" : [ "irrigando" ],
+	"tenses" : {
+		"3" : [
+			[ "irrigo" ],
+			[ "irrigas", "irrigás" ],
+			[ "irriga" ],
+			[ "irrigamos" ],
+			[ "irrigáis", "irrigan" ],
+			[ "irrigan" ]
+		],
+		"4" : [
+			[ "irrigué" ],
+			[ "irrigaste" ],
+			[ "irrigó" ],
+			[ "irrigamos" ],
+			[ "irrigasteis", "irrigaron" ],
+			[ "irrigaron" ]
+		],
+		"5" : [
+			[ "irrigaba" ],
+			[ "irrigabas" ],
+			[ "irrigaba" ],
+			[ "irrigábamos" ],
+			[ "irrigabais", "irrigaban" ],
+			[ "irrigaban" ]
+		],
+		"6" : [
+			[ "irrigaría" ],
+			[ "irrigarías" ],
+			[ "irrigaría" ],
+			[ "irrigaríamos" ],
+			[ "irrigaríais", "irrigarían" ],
+			[ "irrigarían" ]
+		],
+		"7" : [
+			[ "irrigaré" ],
+			[ "irrigarás" ],
+			[ "irrigará" ],
+			[ "irrigaremos" ],
+			[ "irrigaréis", "irrigarán" ],
+			[ "irrigarán" ]
+		],
+		"8" : [
+			[ "irrigue" ],
+			[ "irrigues" ],
+			[ "irrigue" ],
+			[ "irriguemos" ],
+			[ "irriguéis", "irriguen" ],
+			[ "irriguen" ]
+		],
+		"9" : [
+			[ "irrigara" ],
+			[ "irrigaras" ],
+			[ "irrigara" ],
+			[ "irrigáramos" ],
+			[ "irrigarais", "irrigaran" ],
+			[ "irrigaran" ]
+		],
+		"10" : [
+			[ "irrigase" ],
+			[ "irrigases" ],
+			[ "irrigase" ],
+			[ "irrigásemos" ],
+			[ "irrigaseis", "irrigasen" ],
+			[ "irrigasen" ]
+		],
+		"11" : [
+			[ "irrigare" ],
+			[ "irrigares" ],
+			[ "irrigare" ],
+			[ "irrigáremos" ],
+			[ "irrigareis", "irrigaren" ],
+			[ "irrigaren" ]
+		],
+		"12" : {
+			"1" : [ "irriga" ],
+			"2" : [ "irrigue" ],
+			"3" : [ "irriguemos" ],
+			"4" : [ "irrigad" ],
+			"5" : [ "irriguen" ]
+		}
+	}
+}

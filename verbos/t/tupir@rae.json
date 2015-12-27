@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tupir",
+	"word" : "tupir",
+	"infinitivo" : "tupir",
+	"participio" : [ "tupido" ],
+	"gerundio" : [ "tupiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "tupo" ],
+			[ "tupes", "tupís" ],
+			[ "tupe" ],
+			[ "tupimos" ],
+			[ "tupís", "tupen" ],
+			[ "tupen" ]
+		],
+		"4" : [
+			[ "tupí" ],
+			[ "tupiste" ],
+			[ "tupió" ],
+			[ "tupimos" ],
+			[ "tupisteis", "tupieron" ],
+			[ "tupieron" ]
+		],
+		"5" : [
+			[ "tupía" ],
+			[ "tupías" ],
+			[ "tupía" ],
+			[ "tupíamos" ],
+			[ "tupíais", "tupían" ],
+			[ "tupían" ]
+		],
+		"6" : [
+			[ "tupiría" ],
+			[ "tupirías" ],
+			[ "tupiría" ],
+			[ "tupiríamos" ],
+			[ "tupiríais", "tupirían" ],
+			[ "tupirían" ]
+		],
+		"7" : [
+			[ "tupiré" ],
+			[ "tupirás" ],
+			[ "tupirá" ],
+			[ "tupiremos" ],
+			[ "tupiréis", "tupirán" ],
+			[ "tupirán" ]
+		],
+		"8" : [
+			[ "tupa" ],
+			[ "tupas" ],
+			[ "tupa" ],
+			[ "tupamos" ],
+			[ "tupáis", "tupan" ],
+			[ "tupan" ]
+		],
+		"9" : [
+			[ "tupiera" ],
+			[ "tupieras" ],
+			[ "tupiera" ],
+			[ "tupiéramos" ],
+			[ "tupierais", "tupieran" ],
+			[ "tupieran" ]
+		],
+		"10" : [
+			[ "tupiese" ],
+			[ "tupieses" ],
+			[ "tupiese" ],
+			[ "tupiésemos" ],
+			[ "tupieseis", "tupiesen" ],
+			[ "tupiesen" ]
+		],
+		"11" : [
+			[ "tupiere" ],
+			[ "tupieres" ],
+			[ "tupiere" ],
+			[ "tupiéremos" ],
+			[ "tupiereis", "tupieren" ],
+			[ "tupieren" ]
+		],
+		"12" : {
+			"1" : [ "tupe" ],
+			"2" : [ "tupa" ],
+			"3" : [ "tupamos" ],
+			"4" : [ "tupid" ],
+			"5" : [ "tupan" ]
+		}
+	}
+}

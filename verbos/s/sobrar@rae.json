@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sobrar",
+	"word" : "sobrar",
+	"infinitivo" : "sobrar",
+	"participio" : [ "sobrado" ],
+	"gerundio" : [ "sobrando" ],
+	"tenses" : {
+		"3" : [
+			[ "sobro" ],
+			[ "sobras", "sobrás" ],
+			[ "sobra" ],
+			[ "sobramos" ],
+			[ "sobráis", "sobran" ],
+			[ "sobran" ]
+		],
+		"4" : [
+			[ "sobré" ],
+			[ "sobraste" ],
+			[ "sobró" ],
+			[ "sobramos" ],
+			[ "sobrasteis", "sobraron" ],
+			[ "sobraron" ]
+		],
+		"5" : [
+			[ "sobraba" ],
+			[ "sobrabas" ],
+			[ "sobraba" ],
+			[ "sobrábamos" ],
+			[ "sobrabais", "sobraban" ],
+			[ "sobraban" ]
+		],
+		"6" : [
+			[ "sobraría" ],
+			[ "sobrarías" ],
+			[ "sobraría" ],
+			[ "sobraríamos" ],
+			[ "sobraríais", "sobrarían" ],
+			[ "sobrarían" ]
+		],
+		"7" : [
+			[ "sobraré" ],
+			[ "sobrarás" ],
+			[ "sobrará" ],
+			[ "sobraremos" ],
+			[ "sobraréis", "sobrarán" ],
+			[ "sobrarán" ]
+		],
+		"8" : [
+			[ "sobre" ],
+			[ "sobres" ],
+			[ "sobre" ],
+			[ "sobremos" ],
+			[ "sobréis", "sobren" ],
+			[ "sobren" ]
+		],
+		"9" : [
+			[ "sobrara" ],
+			[ "sobraras" ],
+			[ "sobrara" ],
+			[ "sobráramos" ],
+			[ "sobrarais", "sobraran" ],
+			[ "sobraran" ]
+		],
+		"10" : [
+			[ "sobrase" ],
+			[ "sobrases" ],
+			[ "sobrase" ],
+			[ "sobrásemos" ],
+			[ "sobraseis", "sobrasen" ],
+			[ "sobrasen" ]
+		],
+		"11" : [
+			[ "sobrare" ],
+			[ "sobrares" ],
+			[ "sobrare" ],
+			[ "sobráremos" ],
+			[ "sobrareis", "sobraren" ],
+			[ "sobraren" ]
+		],
+		"12" : {
+			"1" : [ "sobra" ],
+			"2" : [ "sobre" ],
+			"3" : [ "sobremos" ],
+			"4" : [ "sobrad" ],
+			"5" : [ "sobren" ]
+		}
+	}
+}

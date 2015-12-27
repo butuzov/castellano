@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lapidar",
+	"word" : "lapidar",
+	"infinitivo" : "lapidar",
+	"participio" : [ "lapidado" ],
+	"gerundio" : [ "lapidando" ],
+	"tenses" : {
+		"3" : [
+			[ "lapido" ],
+			[ "lapidas", "lapidás" ],
+			[ "lapida" ],
+			[ "lapidamos" ],
+			[ "lapidáis", "lapidan" ],
+			[ "lapidan" ]
+		],
+		"4" : [
+			[ "lapidé" ],
+			[ "lapidaste" ],
+			[ "lapidó" ],
+			[ "lapidamos" ],
+			[ "lapidasteis", "lapidaron" ],
+			[ "lapidaron" ]
+		],
+		"5" : [
+			[ "lapidaba" ],
+			[ "lapidabas" ],
+			[ "lapidaba" ],
+			[ "lapidábamos" ],
+			[ "lapidabais", "lapidaban" ],
+			[ "lapidaban" ]
+		],
+		"6" : [
+			[ "lapidaría" ],
+			[ "lapidarías" ],
+			[ "lapidaría" ],
+			[ "lapidaríamos" ],
+			[ "lapidaríais", "lapidarían" ],
+			[ "lapidarían" ]
+		],
+		"7" : [
+			[ "lapidaré" ],
+			[ "lapidarás" ],
+			[ "lapidará" ],
+			[ "lapidaremos" ],
+			[ "lapidaréis", "lapidarán" ],
+			[ "lapidarán" ]
+		],
+		"8" : [
+			[ "lapide" ],
+			[ "lapides" ],
+			[ "lapide" ],
+			[ "lapidemos" ],
+			[ "lapidéis", "lapiden" ],
+			[ "lapiden" ]
+		],
+		"9" : [
+			[ "lapidara" ],
+			[ "lapidaras" ],
+			[ "lapidara" ],
+			[ "lapidáramos" ],
+			[ "lapidarais", "lapidaran" ],
+			[ "lapidaran" ]
+		],
+		"10" : [
+			[ "lapidase" ],
+			[ "lapidases" ],
+			[ "lapidase" ],
+			[ "lapidásemos" ],
+			[ "lapidaseis", "lapidasen" ],
+			[ "lapidasen" ]
+		],
+		"11" : [
+			[ "lapidare" ],
+			[ "lapidares" ],
+			[ "lapidare" ],
+			[ "lapidáremos" ],
+			[ "lapidareis", "lapidaren" ],
+			[ "lapidaren" ]
+		],
+		"12" : {
+			"1" : [ "lapida" ],
+			"2" : [ "lapide" ],
+			"3" : [ "lapidemos" ],
+			"4" : [ "lapidad" ],
+			"5" : [ "lapiden" ]
+		}
+	}
+}

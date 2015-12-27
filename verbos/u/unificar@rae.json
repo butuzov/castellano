@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=unificar",
+	"word" : "unificar",
+	"infinitivo" : "unificar",
+	"participio" : [ "unificado" ],
+	"gerundio" : [ "unificando" ],
+	"tenses" : {
+		"3" : [
+			[ "unifico" ],
+			[ "unificas", "unificás" ],
+			[ "unifica" ],
+			[ "unificamos" ],
+			[ "unificáis", "unifican" ],
+			[ "unifican" ]
+		],
+		"4" : [
+			[ "unifiqué" ],
+			[ "unificaste" ],
+			[ "unificó" ],
+			[ "unificamos" ],
+			[ "unificasteis", "unificaron" ],
+			[ "unificaron" ]
+		],
+		"5" : [
+			[ "unificaba" ],
+			[ "unificabas" ],
+			[ "unificaba" ],
+			[ "unificábamos" ],
+			[ "unificabais", "unificaban" ],
+			[ "unificaban" ]
+		],
+		"6" : [
+			[ "unificaría" ],
+			[ "unificarías" ],
+			[ "unificaría" ],
+			[ "unificaríamos" ],
+			[ "unificaríais", "unificarían" ],
+			[ "unificarían" ]
+		],
+		"7" : [
+			[ "unificaré" ],
+			[ "unificarás" ],
+			[ "unificará" ],
+			[ "unificaremos" ],
+			[ "unificaréis", "unificarán" ],
+			[ "unificarán" ]
+		],
+		"8" : [
+			[ "unifique" ],
+			[ "unifiques" ],
+			[ "unifique" ],
+			[ "unifiquemos" ],
+			[ "unifiquéis", "unifiquen" ],
+			[ "unifiquen" ]
+		],
+		"9" : [
+			[ "unificara" ],
+			[ "unificaras" ],
+			[ "unificara" ],
+			[ "unificáramos" ],
+			[ "unificarais", "unificaran" ],
+			[ "unificaran" ]
+		],
+		"10" : [
+			[ "unificase" ],
+			[ "unificases" ],
+			[ "unificase" ],
+			[ "unificásemos" ],
+			[ "unificaseis", "unificasen" ],
+			[ "unificasen" ]
+		],
+		"11" : [
+			[ "unificare" ],
+			[ "unificares" ],
+			[ "unificare" ],
+			[ "unificáremos" ],
+			[ "unificareis", "unificaren" ],
+			[ "unificaren" ]
+		],
+		"12" : {
+			"1" : [ "unifica" ],
+			"2" : [ "unifique" ],
+			"3" : [ "unifiquemos" ],
+			"4" : [ "unificad" ],
+			"5" : [ "unifiquen" ]
+		}
+	}
+}

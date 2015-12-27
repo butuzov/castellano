@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=revestir",
+	"word" : "revestir",
+	"infinitivo" : "revestir",
+	"participio" : [ "revestido" ],
+	"gerundio" : [ "revistiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "revisto" ],
+			[ "revistes", "revestís" ],
+			[ "reviste" ],
+			[ "revestimos" ],
+			[ "revestís", "revisten" ],
+			[ "revisten" ]
+		],
+		"4" : [
+			[ "revestí" ],
+			[ "revestiste" ],
+			[ "revistió" ],
+			[ "revestimos" ],
+			[ "revestisteis", "revistieron" ],
+			[ "revistieron" ]
+		],
+		"5" : [
+			[ "revestía" ],
+			[ "revestías" ],
+			[ "revestía" ],
+			[ "revestíamos" ],
+			[ "revestíais", "revestían" ],
+			[ "revestían" ]
+		],
+		"6" : [
+			[ "revestiría" ],
+			[ "revestirías" ],
+			[ "revestiría" ],
+			[ "revestiríamos" ],
+			[ "revestiríais", "revestirían" ],
+			[ "revestirían" ]
+		],
+		"7" : [
+			[ "revestiré" ],
+			[ "revestirás" ],
+			[ "revestirá" ],
+			[ "revestiremos" ],
+			[ "revestiréis", "revestirán" ],
+			[ "revestirán" ]
+		],
+		"8" : [
+			[ "revista" ],
+			[ "revistas" ],
+			[ "revista" ],
+			[ "revistamos" ],
+			[ "revistáis", "revistan" ],
+			[ "revistan" ]
+		],
+		"9" : [
+			[ "revistiera" ],
+			[ "revistieras" ],
+			[ "revistiera" ],
+			[ "revistiéramos" ],
+			[ "revistierais", "revistieran" ],
+			[ "revistieran" ]
+		],
+		"10" : [
+			[ "revistiese" ],
+			[ "revistieses" ],
+			[ "revistiese" ],
+			[ "revistiésemos" ],
+			[ "revistieseis", "revistiesen" ],
+			[ "revistiesen" ]
+		],
+		"11" : [
+			[ "revistiere" ],
+			[ "revistieres" ],
+			[ "revistiere" ],
+			[ "revistiéremos" ],
+			[ "revistiereis", "revistieren" ],
+			[ "revistieren" ]
+		],
+		"12" : {
+			"1" : [ "reviste" ],
+			"2" : [ "revista" ],
+			"3" : [ "revistamos" ],
+			"4" : [ "revestid" ],
+			"5" : [ "revistan" ]
+		}
+	}
+}

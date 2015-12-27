@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fingir",
+	"word" : "fingir",
+	"infinitivo" : "fingir",
+	"participio" : [ "fingido" ],
+	"gerundio" : [ "fingiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "finjo" ],
+			[ "finges", "fingís" ],
+			[ "finge" ],
+			[ "fingimos" ],
+			[ "fingís", "fingen" ],
+			[ "fingen" ]
+		],
+		"4" : [
+			[ "fingí" ],
+			[ "fingiste" ],
+			[ "fingió" ],
+			[ "fingimos" ],
+			[ "fingisteis", "fingieron" ],
+			[ "fingieron" ]
+		],
+		"5" : [
+			[ "fingía" ],
+			[ "fingías" ],
+			[ "fingía" ],
+			[ "fingíamos" ],
+			[ "fingíais", "fingían" ],
+			[ "fingían" ]
+		],
+		"6" : [
+			[ "fingiría" ],
+			[ "fingirías" ],
+			[ "fingiría" ],
+			[ "fingiríamos" ],
+			[ "fingiríais", "fingirían" ],
+			[ "fingirían" ]
+		],
+		"7" : [
+			[ "fingiré" ],
+			[ "fingirás" ],
+			[ "fingirá" ],
+			[ "fingiremos" ],
+			[ "fingiréis", "fingirán" ],
+			[ "fingirán" ]
+		],
+		"8" : [
+			[ "finja" ],
+			[ "finjas" ],
+			[ "finja" ],
+			[ "finjamos" ],
+			[ "finjáis", "finjan" ],
+			[ "finjan" ]
+		],
+		"9" : [
+			[ "fingiera" ],
+			[ "fingieras" ],
+			[ "fingiera" ],
+			[ "fingiéramos" ],
+			[ "fingierais", "fingieran" ],
+			[ "fingieran" ]
+		],
+		"10" : [
+			[ "fingiese" ],
+			[ "fingieses" ],
+			[ "fingiese" ],
+			[ "fingiésemos" ],
+			[ "fingieseis", "fingiesen" ],
+			[ "fingiesen" ]
+		],
+		"11" : [
+			[ "fingiere" ],
+			[ "fingieres" ],
+			[ "fingiere" ],
+			[ "fingiéremos" ],
+			[ "fingiereis", "fingieren" ],
+			[ "fingieren" ]
+		],
+		"12" : {
+			"1" : [ "finge" ],
+			"2" : [ "finja" ],
+			"3" : [ "finjamos" ],
+			"4" : [ "fingid" ],
+			"5" : [ "finjan" ]
+		}
+	}
+}

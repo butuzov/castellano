@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sarmentar",
+	"word" : "sarmentar",
+	"infinitivo" : "sarmentar",
+	"participio" : [ "sarmentado" ],
+	"gerundio" : [ "sarmentando" ],
+	"tenses" : {
+		"3" : [
+			[ "sarmiento" ],
+			[ "sarmientas", "sarmentás" ],
+			[ "sarmienta" ],
+			[ "sarmentamos" ],
+			[ "sarmentáis", "sarmientan" ],
+			[ "sarmientan" ]
+		],
+		"4" : [
+			[ "sarmenté" ],
+			[ "sarmentaste" ],
+			[ "sarmentó" ],
+			[ "sarmentamos" ],
+			[ "sarmentasteis", "sarmentaron" ],
+			[ "sarmentaron" ]
+		],
+		"5" : [
+			[ "sarmentaba" ],
+			[ "sarmentabas" ],
+			[ "sarmentaba" ],
+			[ "sarmentábamos" ],
+			[ "sarmentabais", "sarmentaban" ],
+			[ "sarmentaban" ]
+		],
+		"6" : [
+			[ "sarmentaría" ],
+			[ "sarmentarías" ],
+			[ "sarmentaría" ],
+			[ "sarmentaríamos" ],
+			[ "sarmentaríais", "sarmentarían" ],
+			[ "sarmentarían" ]
+		],
+		"7" : [
+			[ "sarmentaré" ],
+			[ "sarmentarás" ],
+			[ "sarmentará" ],
+			[ "sarmentaremos" ],
+			[ "sarmentaréis", "sarmentarán" ],
+			[ "sarmentarán" ]
+		],
+		"8" : [
+			[ "sarmiente" ],
+			[ "sarmientes" ],
+			[ "sarmiente" ],
+			[ "sarmentemos" ],
+			[ "sarmentéis", "sarmienten" ],
+			[ "sarmienten" ]
+		],
+		"9" : [
+			[ "sarmentara" ],
+			[ "sarmentaras" ],
+			[ "sarmentara" ],
+			[ "sarmentáramos" ],
+			[ "sarmentarais", "sarmentaran" ],
+			[ "sarmentaran" ]
+		],
+		"10" : [
+			[ "sarmentase" ],
+			[ "sarmentases" ],
+			[ "sarmentase" ],
+			[ "sarmentásemos" ],
+			[ "sarmentaseis", "sarmentasen" ],
+			[ "sarmentasen" ]
+		],
+		"11" : [
+			[ "sarmentare" ],
+			[ "sarmentares" ],
+			[ "sarmentare" ],
+			[ "sarmentáremos" ],
+			[ "sarmentareis", "sarmentaren" ],
+			[ "sarmentaren" ]
+		],
+		"12" : {
+			"1" : [ "sarmienta" ],
+			"2" : [ "sarmiente" ],
+			"3" : [ "sarmentemos" ],
+			"4" : [ "sarmentad" ],
+			"5" : [ "sarmienten" ]
+		}
+	}
+}

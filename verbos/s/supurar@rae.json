@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=supurar",
+	"word" : "supurar",
+	"infinitivo" : "supurar",
+	"participio" : [ "supurado" ],
+	"gerundio" : [ "supurando" ],
+	"tenses" : {
+		"3" : [
+			[ "supuro" ],
+			[ "supuras", "supurás" ],
+			[ "supura" ],
+			[ "supuramos" ],
+			[ "supuráis", "supuran" ],
+			[ "supuran" ]
+		],
+		"4" : [
+			[ "supuré" ],
+			[ "supuraste" ],
+			[ "supuró" ],
+			[ "supuramos" ],
+			[ "supurasteis", "supuraron" ],
+			[ "supuraron" ]
+		],
+		"5" : [
+			[ "supuraba" ],
+			[ "supurabas" ],
+			[ "supuraba" ],
+			[ "supurábamos" ],
+			[ "supurabais", "supuraban" ],
+			[ "supuraban" ]
+		],
+		"6" : [
+			[ "supuraría" ],
+			[ "supurarías" ],
+			[ "supuraría" ],
+			[ "supuraríamos" ],
+			[ "supuraríais", "supurarían" ],
+			[ "supurarían" ]
+		],
+		"7" : [
+			[ "supuraré" ],
+			[ "supurarás" ],
+			[ "supurará" ],
+			[ "supuraremos" ],
+			[ "supuraréis", "supurarán" ],
+			[ "supurarán" ]
+		],
+		"8" : [
+			[ "supure" ],
+			[ "supures" ],
+			[ "supure" ],
+			[ "supuremos" ],
+			[ "supuréis", "supuren" ],
+			[ "supuren" ]
+		],
+		"9" : [
+			[ "supurara" ],
+			[ "supuraras" ],
+			[ "supurara" ],
+			[ "supuráramos" ],
+			[ "supurarais", "supuraran" ],
+			[ "supuraran" ]
+		],
+		"10" : [
+			[ "supurase" ],
+			[ "supurases" ],
+			[ "supurase" ],
+			[ "supurásemos" ],
+			[ "supuraseis", "supurasen" ],
+			[ "supurasen" ]
+		],
+		"11" : [
+			[ "supurare" ],
+			[ "supurares" ],
+			[ "supurare" ],
+			[ "supuráremos" ],
+			[ "supurareis", "supuraren" ],
+			[ "supuraren" ]
+		],
+		"12" : {
+			"1" : [ "supura" ],
+			"2" : [ "supure" ],
+			"3" : [ "supuremos" ],
+			"4" : [ "supurad" ],
+			"5" : [ "supuren" ]
+		}
+	}
+}

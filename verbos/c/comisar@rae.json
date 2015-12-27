@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comisar",
+	"word" : "comisar",
+	"infinitivo" : "comisar",
+	"participio" : [ "comisado" ],
+	"gerundio" : [ "comisando" ],
+	"tenses" : {
+		"3" : [
+			[ "comiso" ],
+			[ "comisas", "comisás" ],
+			[ "comisa" ],
+			[ "comisamos" ],
+			[ "comisáis", "comisan" ],
+			[ "comisan" ]
+		],
+		"4" : [
+			[ "comisé" ],
+			[ "comisaste" ],
+			[ "comisó" ],
+			[ "comisamos" ],
+			[ "comisasteis", "comisaron" ],
+			[ "comisaron" ]
+		],
+		"5" : [
+			[ "comisaba" ],
+			[ "comisabas" ],
+			[ "comisaba" ],
+			[ "comisábamos" ],
+			[ "comisabais", "comisaban" ],
+			[ "comisaban" ]
+		],
+		"6" : [
+			[ "comisaría" ],
+			[ "comisarías" ],
+			[ "comisaría" ],
+			[ "comisaríamos" ],
+			[ "comisaríais", "comisarían" ],
+			[ "comisarían" ]
+		],
+		"7" : [
+			[ "comisaré" ],
+			[ "comisarás" ],
+			[ "comisará" ],
+			[ "comisaremos" ],
+			[ "comisaréis", "comisarán" ],
+			[ "comisarán" ]
+		],
+		"8" : [
+			[ "comise" ],
+			[ "comises" ],
+			[ "comise" ],
+			[ "comisemos" ],
+			[ "comiséis", "comisen" ],
+			[ "comisen" ]
+		],
+		"9" : [
+			[ "comisara" ],
+			[ "comisaras" ],
+			[ "comisara" ],
+			[ "comisáramos" ],
+			[ "comisarais", "comisaran" ],
+			[ "comisaran" ]
+		],
+		"10" : [
+			[ "comisase" ],
+			[ "comisases" ],
+			[ "comisase" ],
+			[ "comisásemos" ],
+			[ "comisaseis", "comisasen" ],
+			[ "comisasen" ]
+		],
+		"11" : [
+			[ "comisare" ],
+			[ "comisares" ],
+			[ "comisare" ],
+			[ "comisáremos" ],
+			[ "comisareis", "comisaren" ],
+			[ "comisaren" ]
+		],
+		"12" : {
+			"1" : [ "comisa" ],
+			"2" : [ "comise" ],
+			"3" : [ "comisemos" ],
+			"4" : [ "comisad" ],
+			"5" : [ "comisen" ]
+		}
+	}
+}

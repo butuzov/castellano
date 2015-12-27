@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=incrementar",
+	"word" : "incrementar",
+	"infinitivo" : "incrementar",
+	"participio" : [ "incrementado" ],
+	"gerundio" : [ "incrementando" ],
+	"tenses" : {
+		"3" : [
+			[ "incremento" ],
+			[ "incrementas", "incrementás" ],
+			[ "incrementa" ],
+			[ "incrementamos" ],
+			[ "incrementáis", "incrementan" ],
+			[ "incrementan" ]
+		],
+		"4" : [
+			[ "incrementé" ],
+			[ "incrementaste" ],
+			[ "incrementó" ],
+			[ "incrementamos" ],
+			[ "incrementasteis", "incrementaron" ],
+			[ "incrementaron" ]
+		],
+		"5" : [
+			[ "incrementaba" ],
+			[ "incrementabas" ],
+			[ "incrementaba" ],
+			[ "incrementábamos" ],
+			[ "incrementabais", "incrementaban" ],
+			[ "incrementaban" ]
+		],
+		"6" : [
+			[ "incrementaría" ],
+			[ "incrementarías" ],
+			[ "incrementaría" ],
+			[ "incrementaríamos" ],
+			[ "incrementaríais", "incrementarían" ],
+			[ "incrementarían" ]
+		],
+		"7" : [
+			[ "incrementaré" ],
+			[ "incrementarás" ],
+			[ "incrementará" ],
+			[ "incrementaremos" ],
+			[ "incrementaréis", "incrementarán" ],
+			[ "incrementarán" ]
+		],
+		"8" : [
+			[ "incremente" ],
+			[ "incrementes" ],
+			[ "incremente" ],
+			[ "incrementemos" ],
+			[ "incrementéis", "incrementen" ],
+			[ "incrementen" ]
+		],
+		"9" : [
+			[ "incrementara" ],
+			[ "incrementaras" ],
+			[ "incrementara" ],
+			[ "incrementáramos" ],
+			[ "incrementarais", "incrementaran" ],
+			[ "incrementaran" ]
+		],
+		"10" : [
+			[ "incrementase" ],
+			[ "incrementases" ],
+			[ "incrementase" ],
+			[ "incrementásemos" ],
+			[ "incrementaseis", "incrementasen" ],
+			[ "incrementasen" ]
+		],
+		"11" : [
+			[ "incrementare" ],
+			[ "incrementares" ],
+			[ "incrementare" ],
+			[ "incrementáremos" ],
+			[ "incrementareis", "incrementaren" ],
+			[ "incrementaren" ]
+		],
+		"12" : {
+			"1" : [ "incrementa" ],
+			"2" : [ "incremente" ],
+			"3" : [ "incrementemos" ],
+			"4" : [ "incrementad" ],
+			"5" : [ "incrementen" ]
+		}
+	}
+}

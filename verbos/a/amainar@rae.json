@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amainar",
+	"word" : "amainar",
+	"infinitivo" : "amainar",
+	"participio" : [ "amainado" ],
+	"gerundio" : [ "amainando" ],
+	"tenses" : {
+		"3" : [
+			[ "amaino" ],
+			[ "amainas", "amainás" ],
+			[ "amaina" ],
+			[ "amainamos" ],
+			[ "amaináis", "amainan" ],
+			[ "amainan" ]
+		],
+		"4" : [
+			[ "amainé" ],
+			[ "amainaste" ],
+			[ "amainó" ],
+			[ "amainamos" ],
+			[ "amainasteis", "amainaron" ],
+			[ "amainaron" ]
+		],
+		"5" : [
+			[ "amainaba" ],
+			[ "amainabas" ],
+			[ "amainaba" ],
+			[ "amainábamos" ],
+			[ "amainabais", "amainaban" ],
+			[ "amainaban" ]
+		],
+		"6" : [
+			[ "amainaría" ],
+			[ "amainarías" ],
+			[ "amainaría" ],
+			[ "amainaríamos" ],
+			[ "amainaríais", "amainarían" ],
+			[ "amainarían" ]
+		],
+		"7" : [
+			[ "amainaré" ],
+			[ "amainarás" ],
+			[ "amainará" ],
+			[ "amainaremos" ],
+			[ "amainaréis", "amainarán" ],
+			[ "amainarán" ]
+		],
+		"8" : [
+			[ "amaine" ],
+			[ "amaines" ],
+			[ "amaine" ],
+			[ "amainemos" ],
+			[ "amainéis", "amainen" ],
+			[ "amainen" ]
+		],
+		"9" : [
+			[ "amainara" ],
+			[ "amainaras" ],
+			[ "amainara" ],
+			[ "amaináramos" ],
+			[ "amainarais", "amainaran" ],
+			[ "amainaran" ]
+		],
+		"10" : [
+			[ "amainase" ],
+			[ "amainases" ],
+			[ "amainase" ],
+			[ "amainásemos" ],
+			[ "amainaseis", "amainasen" ],
+			[ "amainasen" ]
+		],
+		"11" : [
+			[ "amainare" ],
+			[ "amainares" ],
+			[ "amainare" ],
+			[ "amaináremos" ],
+			[ "amainareis", "amainaren" ],
+			[ "amainaren" ]
+		],
+		"12" : {
+			"1" : [ "amaina" ],
+			"2" : [ "amaine" ],
+			"3" : [ "amainemos" ],
+			"4" : [ "amainad" ],
+			"5" : [ "amainen" ]
+		}
+	}
+}

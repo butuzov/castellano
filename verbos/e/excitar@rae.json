@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=excitar",
+	"word" : "excitar",
+	"infinitivo" : "excitar",
+	"participio" : [ "excitado" ],
+	"gerundio" : [ "excitando" ],
+	"tenses" : {
+		"3" : [
+			[ "excito" ],
+			[ "excitas", "excitás" ],
+			[ "excita" ],
+			[ "excitamos" ],
+			[ "excitáis", "excitan" ],
+			[ "excitan" ]
+		],
+		"4" : [
+			[ "excité" ],
+			[ "excitaste" ],
+			[ "excitó" ],
+			[ "excitamos" ],
+			[ "excitasteis", "excitaron" ],
+			[ "excitaron" ]
+		],
+		"5" : [
+			[ "excitaba" ],
+			[ "excitabas" ],
+			[ "excitaba" ],
+			[ "excitábamos" ],
+			[ "excitabais", "excitaban" ],
+			[ "excitaban" ]
+		],
+		"6" : [
+			[ "excitaría" ],
+			[ "excitarías" ],
+			[ "excitaría" ],
+			[ "excitaríamos" ],
+			[ "excitaríais", "excitarían" ],
+			[ "excitarían" ]
+		],
+		"7" : [
+			[ "excitaré" ],
+			[ "excitarás" ],
+			[ "excitará" ],
+			[ "excitaremos" ],
+			[ "excitaréis", "excitarán" ],
+			[ "excitarán" ]
+		],
+		"8" : [
+			[ "excite" ],
+			[ "excites" ],
+			[ "excite" ],
+			[ "excitemos" ],
+			[ "excitéis", "exciten" ],
+			[ "exciten" ]
+		],
+		"9" : [
+			[ "excitara" ],
+			[ "excitaras" ],
+			[ "excitara" ],
+			[ "excitáramos" ],
+			[ "excitarais", "excitaran" ],
+			[ "excitaran" ]
+		],
+		"10" : [
+			[ "excitase" ],
+			[ "excitases" ],
+			[ "excitase" ],
+			[ "excitásemos" ],
+			[ "excitaseis", "excitasen" ],
+			[ "excitasen" ]
+		],
+		"11" : [
+			[ "excitare" ],
+			[ "excitares" ],
+			[ "excitare" ],
+			[ "excitáremos" ],
+			[ "excitareis", "excitaren" ],
+			[ "excitaren" ]
+		],
+		"12" : {
+			"1" : [ "excita" ],
+			"2" : [ "excite" ],
+			"3" : [ "excitemos" ],
+			"4" : [ "excitad" ],
+			"5" : [ "exciten" ]
+		}
+	}
+}

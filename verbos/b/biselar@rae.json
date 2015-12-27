@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=biselar",
+	"word" : "biselar",
+	"infinitivo" : "biselar",
+	"participio" : [ "biselado" ],
+	"gerundio" : [ "biselando" ],
+	"tenses" : {
+		"3" : [
+			[ "biselo" ],
+			[ "biselas", "biselás" ],
+			[ "bisela" ],
+			[ "biselamos" ],
+			[ "biseláis", "biselan" ],
+			[ "biselan" ]
+		],
+		"4" : [
+			[ "biselé" ],
+			[ "biselaste" ],
+			[ "biseló" ],
+			[ "biselamos" ],
+			[ "biselasteis", "biselaron" ],
+			[ "biselaron" ]
+		],
+		"5" : [
+			[ "biselaba" ],
+			[ "biselabas" ],
+			[ "biselaba" ],
+			[ "biselábamos" ],
+			[ "biselabais", "biselaban" ],
+			[ "biselaban" ]
+		],
+		"6" : [
+			[ "biselaría" ],
+			[ "biselarías" ],
+			[ "biselaría" ],
+			[ "biselaríamos" ],
+			[ "biselaríais", "biselarían" ],
+			[ "biselarían" ]
+		],
+		"7" : [
+			[ "biselaré" ],
+			[ "biselarás" ],
+			[ "biselará" ],
+			[ "biselaremos" ],
+			[ "biselaréis", "biselarán" ],
+			[ "biselarán" ]
+		],
+		"8" : [
+			[ "bisele" ],
+			[ "biseles" ],
+			[ "bisele" ],
+			[ "biselemos" ],
+			[ "biseléis", "biselen" ],
+			[ "biselen" ]
+		],
+		"9" : [
+			[ "biselara" ],
+			[ "biselaras" ],
+			[ "biselara" ],
+			[ "biseláramos" ],
+			[ "biselarais", "biselaran" ],
+			[ "biselaran" ]
+		],
+		"10" : [
+			[ "biselase" ],
+			[ "biselases" ],
+			[ "biselase" ],
+			[ "biselásemos" ],
+			[ "biselaseis", "biselasen" ],
+			[ "biselasen" ]
+		],
+		"11" : [
+			[ "biselare" ],
+			[ "biselares" ],
+			[ "biselare" ],
+			[ "biseláremos" ],
+			[ "biselareis", "biselaren" ],
+			[ "biselaren" ]
+		],
+		"12" : {
+			"1" : [ "bisela" ],
+			"2" : [ "bisele" ],
+			"3" : [ "biselemos" ],
+			"4" : [ "biselad" ],
+			"5" : [ "biselen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=suspirar",
+	"word" : "suspirar",
+	"infinitivo" : "suspirar",
+	"participio" : [ "suspirado" ],
+	"gerundio" : [ "suspirando" ],
+	"tenses" : {
+		"3" : [
+			[ "suspiro" ],
+			[ "suspiras", "suspirás" ],
+			[ "suspira" ],
+			[ "suspiramos" ],
+			[ "suspiráis", "suspiran" ],
+			[ "suspiran" ]
+		],
+		"4" : [
+			[ "suspiré" ],
+			[ "suspiraste" ],
+			[ "suspiró" ],
+			[ "suspiramos" ],
+			[ "suspirasteis", "suspiraron" ],
+			[ "suspiraron" ]
+		],
+		"5" : [
+			[ "suspiraba" ],
+			[ "suspirabas" ],
+			[ "suspiraba" ],
+			[ "suspirábamos" ],
+			[ "suspirabais", "suspiraban" ],
+			[ "suspiraban" ]
+		],
+		"6" : [
+			[ "suspiraría" ],
+			[ "suspirarías" ],
+			[ "suspiraría" ],
+			[ "suspiraríamos" ],
+			[ "suspiraríais", "suspirarían" ],
+			[ "suspirarían" ]
+		],
+		"7" : [
+			[ "suspiraré" ],
+			[ "suspirarás" ],
+			[ "suspirará" ],
+			[ "suspiraremos" ],
+			[ "suspiraréis", "suspirarán" ],
+			[ "suspirarán" ]
+		],
+		"8" : [
+			[ "suspire" ],
+			[ "suspires" ],
+			[ "suspire" ],
+			[ "suspiremos" ],
+			[ "suspiréis", "suspiren" ],
+			[ "suspiren" ]
+		],
+		"9" : [
+			[ "suspirara" ],
+			[ "suspiraras" ],
+			[ "suspirara" ],
+			[ "suspiráramos" ],
+			[ "suspirarais", "suspiraran" ],
+			[ "suspiraran" ]
+		],
+		"10" : [
+			[ "suspirase" ],
+			[ "suspirases" ],
+			[ "suspirase" ],
+			[ "suspirásemos" ],
+			[ "suspiraseis", "suspirasen" ],
+			[ "suspirasen" ]
+		],
+		"11" : [
+			[ "suspirare" ],
+			[ "suspirares" ],
+			[ "suspirare" ],
+			[ "suspiráremos" ],
+			[ "suspirareis", "suspiraren" ],
+			[ "suspiraren" ]
+		],
+		"12" : {
+			"1" : [ "suspira" ],
+			"2" : [ "suspire" ],
+			"3" : [ "suspiremos" ],
+			"4" : [ "suspirad" ],
+			"5" : [ "suspiren" ]
+		}
+	}
+}

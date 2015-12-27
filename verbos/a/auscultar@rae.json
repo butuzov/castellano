@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=auscultar",
+	"word" : "auscultar",
+	"infinitivo" : "auscultar",
+	"participio" : [ "auscultado" ],
+	"gerundio" : [ "auscultando" ],
+	"tenses" : {
+		"3" : [
+			[ "ausculto" ],
+			[ "auscultas", "auscultás" ],
+			[ "ausculta" ],
+			[ "auscultamos" ],
+			[ "auscultáis", "auscultan" ],
+			[ "auscultan" ]
+		],
+		"4" : [
+			[ "ausculté" ],
+			[ "auscultaste" ],
+			[ "auscultó" ],
+			[ "auscultamos" ],
+			[ "auscultasteis", "auscultaron" ],
+			[ "auscultaron" ]
+		],
+		"5" : [
+			[ "auscultaba" ],
+			[ "auscultabas" ],
+			[ "auscultaba" ],
+			[ "auscultábamos" ],
+			[ "auscultabais", "auscultaban" ],
+			[ "auscultaban" ]
+		],
+		"6" : [
+			[ "auscultaría" ],
+			[ "auscultarías" ],
+			[ "auscultaría" ],
+			[ "auscultaríamos" ],
+			[ "auscultaríais", "auscultarían" ],
+			[ "auscultarían" ]
+		],
+		"7" : [
+			[ "auscultaré" ],
+			[ "auscultarás" ],
+			[ "auscultará" ],
+			[ "auscultaremos" ],
+			[ "auscultaréis", "auscultarán" ],
+			[ "auscultarán" ]
+		],
+		"8" : [
+			[ "ausculte" ],
+			[ "auscultes" ],
+			[ "ausculte" ],
+			[ "auscultemos" ],
+			[ "auscultéis", "ausculten" ],
+			[ "ausculten" ]
+		],
+		"9" : [
+			[ "auscultara" ],
+			[ "auscultaras" ],
+			[ "auscultara" ],
+			[ "auscultáramos" ],
+			[ "auscultarais", "auscultaran" ],
+			[ "auscultaran" ]
+		],
+		"10" : [
+			[ "auscultase" ],
+			[ "auscultases" ],
+			[ "auscultase" ],
+			[ "auscultásemos" ],
+			[ "auscultaseis", "auscultasen" ],
+			[ "auscultasen" ]
+		],
+		"11" : [
+			[ "auscultare" ],
+			[ "auscultares" ],
+			[ "auscultare" ],
+			[ "auscultáremos" ],
+			[ "auscultareis", "auscultaren" ],
+			[ "auscultaren" ]
+		],
+		"12" : {
+			"1" : [ "ausculta" ],
+			"2" : [ "ausculte" ],
+			"3" : [ "auscultemos" ],
+			"4" : [ "auscultad" ],
+			"5" : [ "ausculten" ]
+		}
+	}
+}

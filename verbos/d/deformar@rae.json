@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deformar",
+	"word" : "deformar",
+	"infinitivo" : "deformar",
+	"participio" : [ "deformado" ],
+	"gerundio" : [ "deformando" ],
+	"tenses" : {
+		"3" : [
+			[ "deformo" ],
+			[ "deformas", "deformás" ],
+			[ "deforma" ],
+			[ "deformamos" ],
+			[ "deformáis", "deforman" ],
+			[ "deforman" ]
+		],
+		"4" : [
+			[ "deformé" ],
+			[ "deformaste" ],
+			[ "deformó" ],
+			[ "deformamos" ],
+			[ "deformasteis", "deformaron" ],
+			[ "deformaron" ]
+		],
+		"5" : [
+			[ "deformaba" ],
+			[ "deformabas" ],
+			[ "deformaba" ],
+			[ "deformábamos" ],
+			[ "deformabais", "deformaban" ],
+			[ "deformaban" ]
+		],
+		"6" : [
+			[ "deformaría" ],
+			[ "deformarías" ],
+			[ "deformaría" ],
+			[ "deformaríamos" ],
+			[ "deformaríais", "deformarían" ],
+			[ "deformarían" ]
+		],
+		"7" : [
+			[ "deformaré" ],
+			[ "deformarás" ],
+			[ "deformará" ],
+			[ "deformaremos" ],
+			[ "deformaréis", "deformarán" ],
+			[ "deformarán" ]
+		],
+		"8" : [
+			[ "deforme" ],
+			[ "deformes" ],
+			[ "deforme" ],
+			[ "deformemos" ],
+			[ "deforméis", "deformen" ],
+			[ "deformen" ]
+		],
+		"9" : [
+			[ "deformara" ],
+			[ "deformaras" ],
+			[ "deformara" ],
+			[ "deformáramos" ],
+			[ "deformarais", "deformaran" ],
+			[ "deformaran" ]
+		],
+		"10" : [
+			[ "deformase" ],
+			[ "deformases" ],
+			[ "deformase" ],
+			[ "deformásemos" ],
+			[ "deformaseis", "deformasen" ],
+			[ "deformasen" ]
+		],
+		"11" : [
+			[ "deformare" ],
+			[ "deformares" ],
+			[ "deformare" ],
+			[ "deformáremos" ],
+			[ "deformareis", "deformaren" ],
+			[ "deformaren" ]
+		],
+		"12" : {
+			"1" : [ "deforma" ],
+			"2" : [ "deforme" ],
+			"3" : [ "deformemos" ],
+			"4" : [ "deformad" ],
+			"5" : [ "deformen" ]
+		}
+	}
+}

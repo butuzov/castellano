@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=administrar",
+	"word" : "administrar",
+	"infinitivo" : "administrar",
+	"participio" : [ "administrado" ],
+	"gerundio" : [ "administrando" ],
+	"tenses" : {
+		"3" : [
+			[ "administro" ],
+			[ "administras", "administrás" ],
+			[ "administra" ],
+			[ "administramos" ],
+			[ "administráis", "administran" ],
+			[ "administran" ]
+		],
+		"4" : [
+			[ "administré" ],
+			[ "administraste" ],
+			[ "administró" ],
+			[ "administramos" ],
+			[ "administrasteis", "administraron" ],
+			[ "administraron" ]
+		],
+		"5" : [
+			[ "administraba" ],
+			[ "administrabas" ],
+			[ "administraba" ],
+			[ "administrábamos" ],
+			[ "administrabais", "administraban" ],
+			[ "administraban" ]
+		],
+		"6" : [
+			[ "administraría" ],
+			[ "administrarías" ],
+			[ "administraría" ],
+			[ "administraríamos" ],
+			[ "administraríais", "administrarían" ],
+			[ "administrarían" ]
+		],
+		"7" : [
+			[ "administraré" ],
+			[ "administrarás" ],
+			[ "administrará" ],
+			[ "administraremos" ],
+			[ "administraréis", "administrarán" ],
+			[ "administrarán" ]
+		],
+		"8" : [
+			[ "administre" ],
+			[ "administres" ],
+			[ "administre" ],
+			[ "administremos" ],
+			[ "administréis", "administren" ],
+			[ "administren" ]
+		],
+		"9" : [
+			[ "administrara" ],
+			[ "administraras" ],
+			[ "administrara" ],
+			[ "administráramos" ],
+			[ "administrarais", "administraran" ],
+			[ "administraran" ]
+		],
+		"10" : [
+			[ "administrase" ],
+			[ "administrases" ],
+			[ "administrase" ],
+			[ "administrásemos" ],
+			[ "administraseis", "administrasen" ],
+			[ "administrasen" ]
+		],
+		"11" : [
+			[ "administrare" ],
+			[ "administrares" ],
+			[ "administrare" ],
+			[ "administráremos" ],
+			[ "administrareis", "administraren" ],
+			[ "administraren" ]
+		],
+		"12" : {
+			"1" : [ "administra" ],
+			"2" : [ "administre" ],
+			"3" : [ "administremos" ],
+			"4" : [ "administrad" ],
+			"5" : [ "administren" ]
+		}
+	}
+}

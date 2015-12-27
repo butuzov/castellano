@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cebar",
+	"word" : "cebar",
+	"infinitivo" : "cebar",
+	"participio" : [ "cebado" ],
+	"gerundio" : [ "cebando" ],
+	"tenses" : {
+		"3" : [
+			[ "cebo" ],
+			[ "cebas", "cebás" ],
+			[ "ceba" ],
+			[ "cebamos" ],
+			[ "cebáis", "ceban" ],
+			[ "ceban" ]
+		],
+		"4" : [
+			[ "cebé" ],
+			[ "cebaste" ],
+			[ "cebó" ],
+			[ "cebamos" ],
+			[ "cebasteis", "cebaron" ],
+			[ "cebaron" ]
+		],
+		"5" : [
+			[ "cebaba" ],
+			[ "cebabas" ],
+			[ "cebaba" ],
+			[ "cebábamos" ],
+			[ "cebabais", "cebaban" ],
+			[ "cebaban" ]
+		],
+		"6" : [
+			[ "cebaría" ],
+			[ "cebarías" ],
+			[ "cebaría" ],
+			[ "cebaríamos" ],
+			[ "cebaríais", "cebarían" ],
+			[ "cebarían" ]
+		],
+		"7" : [
+			[ "cebaré" ],
+			[ "cebarás" ],
+			[ "cebará" ],
+			[ "cebaremos" ],
+			[ "cebaréis", "cebarán" ],
+			[ "cebarán" ]
+		],
+		"8" : [
+			[ "cebe" ],
+			[ "cebes" ],
+			[ "cebe" ],
+			[ "cebemos" ],
+			[ "cebéis", "ceben" ],
+			[ "ceben" ]
+		],
+		"9" : [
+			[ "cebara" ],
+			[ "cebaras" ],
+			[ "cebara" ],
+			[ "cebáramos" ],
+			[ "cebarais", "cebaran" ],
+			[ "cebaran" ]
+		],
+		"10" : [
+			[ "cebase" ],
+			[ "cebases" ],
+			[ "cebase" ],
+			[ "cebásemos" ],
+			[ "cebaseis", "cebasen" ],
+			[ "cebasen" ]
+		],
+		"11" : [
+			[ "cebare" ],
+			[ "cebares" ],
+			[ "cebare" ],
+			[ "cebáremos" ],
+			[ "cebareis", "cebaren" ],
+			[ "cebaren" ]
+		],
+		"12" : {
+			"1" : [ "ceba" ],
+			"2" : [ "cebe" ],
+			"3" : [ "cebemos" ],
+			"4" : [ "cebad" ],
+			"5" : [ "ceben" ]
+		}
+	}
+}

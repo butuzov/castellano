@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desordenar",
+	"word" : "desordenar",
+	"infinitivo" : "desordenar",
+	"participio" : [ "desordenado" ],
+	"gerundio" : [ "desordenando" ],
+	"tenses" : {
+		"3" : [
+			[ "desordeno" ],
+			[ "desordenas", "desordenás" ],
+			[ "desordena" ],
+			[ "desordenamos" ],
+			[ "desordenáis", "desordenan" ],
+			[ "desordenan" ]
+		],
+		"4" : [
+			[ "desordené" ],
+			[ "desordenaste" ],
+			[ "desordenó" ],
+			[ "desordenamos" ],
+			[ "desordenasteis", "desordenaron" ],
+			[ "desordenaron" ]
+		],
+		"5" : [
+			[ "desordenaba" ],
+			[ "desordenabas" ],
+			[ "desordenaba" ],
+			[ "desordenábamos" ],
+			[ "desordenabais", "desordenaban" ],
+			[ "desordenaban" ]
+		],
+		"6" : [
+			[ "desordenaría" ],
+			[ "desordenarías" ],
+			[ "desordenaría" ],
+			[ "desordenaríamos" ],
+			[ "desordenaríais", "desordenarían" ],
+			[ "desordenarían" ]
+		],
+		"7" : [
+			[ "desordenaré" ],
+			[ "desordenarás" ],
+			[ "desordenará" ],
+			[ "desordenaremos" ],
+			[ "desordenaréis", "desordenarán" ],
+			[ "desordenarán" ]
+		],
+		"8" : [
+			[ "desordene" ],
+			[ "desordenes" ],
+			[ "desordene" ],
+			[ "desordenemos" ],
+			[ "desordenéis", "desordenen" ],
+			[ "desordenen" ]
+		],
+		"9" : [
+			[ "desordenara" ],
+			[ "desordenaras" ],
+			[ "desordenara" ],
+			[ "desordenáramos" ],
+			[ "desordenarais", "desordenaran" ],
+			[ "desordenaran" ]
+		],
+		"10" : [
+			[ "desordenase" ],
+			[ "desordenases" ],
+			[ "desordenase" ],
+			[ "desordenásemos" ],
+			[ "desordenaseis", "desordenasen" ],
+			[ "desordenasen" ]
+		],
+		"11" : [
+			[ "desordenare" ],
+			[ "desordenares" ],
+			[ "desordenare" ],
+			[ "desordenáremos" ],
+			[ "desordenareis", "desordenaren" ],
+			[ "desordenaren" ]
+		],
+		"12" : {
+			"1" : [ "desordena" ],
+			"2" : [ "desordene" ],
+			"3" : [ "desordenemos" ],
+			"4" : [ "desordenad" ],
+			"5" : [ "desordenen" ]
+		}
+	}
+}

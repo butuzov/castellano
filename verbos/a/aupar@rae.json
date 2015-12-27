@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aupar",
+	"word" : "aupar",
+	"infinitivo" : "aupar",
+	"participio" : [ "aupado" ],
+	"gerundio" : [ "aupando" ],
+	"tenses" : {
+		"3" : [
+			[ "aúpo" ],
+			[ "aúpas", "aupás" ],
+			[ "aúpa" ],
+			[ "aupamos" ],
+			[ "aupáis", "aúpan" ],
+			[ "aúpan" ]
+		],
+		"4" : [
+			[ "aupé" ],
+			[ "aupaste" ],
+			[ "aupó" ],
+			[ "aupamos" ],
+			[ "aupasteis", "auparon" ],
+			[ "auparon" ]
+		],
+		"5" : [
+			[ "aupaba" ],
+			[ "aupabas" ],
+			[ "aupaba" ],
+			[ "aupábamos" ],
+			[ "aupabais", "aupaban" ],
+			[ "aupaban" ]
+		],
+		"6" : [
+			[ "auparía" ],
+			[ "auparías" ],
+			[ "auparía" ],
+			[ "auparíamos" ],
+			[ "auparíais", "auparían" ],
+			[ "auparían" ]
+		],
+		"7" : [
+			[ "auparé" ],
+			[ "auparás" ],
+			[ "aupará" ],
+			[ "auparemos" ],
+			[ "auparéis", "auparán" ],
+			[ "auparán" ]
+		],
+		"8" : [
+			[ "aúpe" ],
+			[ "aúpes" ],
+			[ "aúpe" ],
+			[ "aupemos" ],
+			[ "aupéis", "aúpen" ],
+			[ "aúpen" ]
+		],
+		"9" : [
+			[ "aupara" ],
+			[ "auparas" ],
+			[ "aupara" ],
+			[ "aupáramos" ],
+			[ "auparais", "auparan" ],
+			[ "auparan" ]
+		],
+		"10" : [
+			[ "aupase" ],
+			[ "aupases" ],
+			[ "aupase" ],
+			[ "aupásemos" ],
+			[ "aupaseis", "aupasen" ],
+			[ "aupasen" ]
+		],
+		"11" : [
+			[ "aupare" ],
+			[ "aupares" ],
+			[ "aupare" ],
+			[ "aupáremos" ],
+			[ "aupareis", "auparen" ],
+			[ "auparen" ]
+		],
+		"12" : {
+			"1" : [ "aúpa" ],
+			"2" : [ "aúpe" ],
+			"3" : [ "aupemos" ],
+			"4" : [ "aupad" ],
+			"5" : [ "aúpen" ]
+		}
+	}
+}

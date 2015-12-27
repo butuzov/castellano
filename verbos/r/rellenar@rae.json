@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rellenar",
+	"word" : "rellenar",
+	"infinitivo" : "rellenar",
+	"participio" : [ "rellenado" ],
+	"gerundio" : [ "rellenando" ],
+	"tenses" : {
+		"3" : [
+			[ "relleno" ],
+			[ "rellenas", "rellenás" ],
+			[ "rellena" ],
+			[ "rellenamos" ],
+			[ "rellenáis", "rellenan" ],
+			[ "rellenan" ]
+		],
+		"4" : [
+			[ "rellené" ],
+			[ "rellenaste" ],
+			[ "rellenó" ],
+			[ "rellenamos" ],
+			[ "rellenasteis", "rellenaron" ],
+			[ "rellenaron" ]
+		],
+		"5" : [
+			[ "rellenaba" ],
+			[ "rellenabas" ],
+			[ "rellenaba" ],
+			[ "rellenábamos" ],
+			[ "rellenabais", "rellenaban" ],
+			[ "rellenaban" ]
+		],
+		"6" : [
+			[ "rellenaría" ],
+			[ "rellenarías" ],
+			[ "rellenaría" ],
+			[ "rellenaríamos" ],
+			[ "rellenaríais", "rellenarían" ],
+			[ "rellenarían" ]
+		],
+		"7" : [
+			[ "rellenaré" ],
+			[ "rellenarás" ],
+			[ "rellenará" ],
+			[ "rellenaremos" ],
+			[ "rellenaréis", "rellenarán" ],
+			[ "rellenarán" ]
+		],
+		"8" : [
+			[ "rellene" ],
+			[ "rellenes" ],
+			[ "rellene" ],
+			[ "rellenemos" ],
+			[ "rellenéis", "rellenen" ],
+			[ "rellenen" ]
+		],
+		"9" : [
+			[ "rellenara" ],
+			[ "rellenaras" ],
+			[ "rellenara" ],
+			[ "rellenáramos" ],
+			[ "rellenarais", "rellenaran" ],
+			[ "rellenaran" ]
+		],
+		"10" : [
+			[ "rellenase" ],
+			[ "rellenases" ],
+			[ "rellenase" ],
+			[ "rellenásemos" ],
+			[ "rellenaseis", "rellenasen" ],
+			[ "rellenasen" ]
+		],
+		"11" : [
+			[ "rellenare" ],
+			[ "rellenares" ],
+			[ "rellenare" ],
+			[ "rellenáremos" ],
+			[ "rellenareis", "rellenaren" ],
+			[ "rellenaren" ]
+		],
+		"12" : {
+			"1" : [ "rellena" ],
+			"2" : [ "rellene" ],
+			"3" : [ "rellenemos" ],
+			"4" : [ "rellenad" ],
+			"5" : [ "rellenen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esbarar",
+	"word" : "esbarar",
+	"infinitivo" : "esbarar",
+	"participio" : [ "esbarado" ],
+	"gerundio" : [ "esbarando" ],
+	"tenses" : {
+		"3" : [
+			[ "esbaro" ],
+			[ "esbaras", "esbarás" ],
+			[ "esbara" ],
+			[ "esbaramos" ],
+			[ "esbaráis", "esbaran" ],
+			[ "esbaran" ]
+		],
+		"4" : [
+			[ "esbaré" ],
+			[ "esbaraste" ],
+			[ "esbaró" ],
+			[ "esbaramos" ],
+			[ "esbarasteis", "esbararon" ],
+			[ "esbararon" ]
+		],
+		"5" : [
+			[ "esbaraba" ],
+			[ "esbarabas" ],
+			[ "esbaraba" ],
+			[ "esbarábamos" ],
+			[ "esbarabais", "esbaraban" ],
+			[ "esbaraban" ]
+		],
+		"6" : [
+			[ "esbararía" ],
+			[ "esbararías" ],
+			[ "esbararía" ],
+			[ "esbararíamos" ],
+			[ "esbararíais", "esbararían" ],
+			[ "esbararían" ]
+		],
+		"7" : [
+			[ "esbararé" ],
+			[ "esbararás" ],
+			[ "esbarará" ],
+			[ "esbararemos" ],
+			[ "esbararéis", "esbararán" ],
+			[ "esbararán" ]
+		],
+		"8" : [
+			[ "esbare" ],
+			[ "esbares" ],
+			[ "esbare" ],
+			[ "esbaremos" ],
+			[ "esbaréis", "esbaren" ],
+			[ "esbaren" ]
+		],
+		"9" : [
+			[ "esbarara" ],
+			[ "esbararas" ],
+			[ "esbarara" ],
+			[ "esbaráramos" ],
+			[ "esbararais", "esbararan" ],
+			[ "esbararan" ]
+		],
+		"10" : [
+			[ "esbarase" ],
+			[ "esbarases" ],
+			[ "esbarase" ],
+			[ "esbarásemos" ],
+			[ "esbaraseis", "esbarasen" ],
+			[ "esbarasen" ]
+		],
+		"11" : [
+			[ "esbarare" ],
+			[ "esbarares" ],
+			[ "esbarare" ],
+			[ "esbaráremos" ],
+			[ "esbarareis", "esbararen" ],
+			[ "esbararen" ]
+		],
+		"12" : {
+			"1" : [ "esbara" ],
+			"2" : [ "esbare" ],
+			"3" : [ "esbaremos" ],
+			"4" : [ "esbarad" ],
+			"5" : [ "esbaren" ]
+		}
+	}
+}

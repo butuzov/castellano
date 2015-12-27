@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cincelar",
+	"word" : "cincelar",
+	"infinitivo" : "cincelar",
+	"participio" : [ "cincelado" ],
+	"gerundio" : [ "cincelando" ],
+	"tenses" : {
+		"3" : [
+			[ "cincelo" ],
+			[ "cincelas", "cincelás" ],
+			[ "cincela" ],
+			[ "cincelamos" ],
+			[ "cinceláis", "cincelan" ],
+			[ "cincelan" ]
+		],
+		"4" : [
+			[ "cincelé" ],
+			[ "cincelaste" ],
+			[ "cinceló" ],
+			[ "cincelamos" ],
+			[ "cincelasteis", "cincelaron" ],
+			[ "cincelaron" ]
+		],
+		"5" : [
+			[ "cincelaba" ],
+			[ "cincelabas" ],
+			[ "cincelaba" ],
+			[ "cincelábamos" ],
+			[ "cincelabais", "cincelaban" ],
+			[ "cincelaban" ]
+		],
+		"6" : [
+			[ "cincelaría" ],
+			[ "cincelarías" ],
+			[ "cincelaría" ],
+			[ "cincelaríamos" ],
+			[ "cincelaríais", "cincelarían" ],
+			[ "cincelarían" ]
+		],
+		"7" : [
+			[ "cincelaré" ],
+			[ "cincelarás" ],
+			[ "cincelará" ],
+			[ "cincelaremos" ],
+			[ "cincelaréis", "cincelarán" ],
+			[ "cincelarán" ]
+		],
+		"8" : [
+			[ "cincele" ],
+			[ "cinceles" ],
+			[ "cincele" ],
+			[ "cincelemos" ],
+			[ "cinceléis", "cincelen" ],
+			[ "cincelen" ]
+		],
+		"9" : [
+			[ "cincelara" ],
+			[ "cincelaras" ],
+			[ "cincelara" ],
+			[ "cinceláramos" ],
+			[ "cincelarais", "cincelaran" ],
+			[ "cincelaran" ]
+		],
+		"10" : [
+			[ "cincelase" ],
+			[ "cincelases" ],
+			[ "cincelase" ],
+			[ "cincelásemos" ],
+			[ "cincelaseis", "cincelasen" ],
+			[ "cincelasen" ]
+		],
+		"11" : [
+			[ "cincelare" ],
+			[ "cincelares" ],
+			[ "cincelare" ],
+			[ "cinceláremos" ],
+			[ "cincelareis", "cincelaren" ],
+			[ "cincelaren" ]
+		],
+		"12" : {
+			"1" : [ "cincela" ],
+			"2" : [ "cincele" ],
+			"3" : [ "cincelemos" ],
+			"4" : [ "cincelad" ],
+			"5" : [ "cincelen" ]
+		}
+	}
+}

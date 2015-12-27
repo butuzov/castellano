@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ocasionar",
+	"word" : "ocasionar",
+	"infinitivo" : "ocasionar",
+	"participio" : [ "ocasionado" ],
+	"gerundio" : [ "ocasionando" ],
+	"tenses" : {
+		"3" : [
+			[ "ocasiono" ],
+			[ "ocasionas", "ocasionás" ],
+			[ "ocasiona" ],
+			[ "ocasionamos" ],
+			[ "ocasionáis", "ocasionan" ],
+			[ "ocasionan" ]
+		],
+		"4" : [
+			[ "ocasioné" ],
+			[ "ocasionaste" ],
+			[ "ocasionó" ],
+			[ "ocasionamos" ],
+			[ "ocasionasteis", "ocasionaron" ],
+			[ "ocasionaron" ]
+		],
+		"5" : [
+			[ "ocasionaba" ],
+			[ "ocasionabas" ],
+			[ "ocasionaba" ],
+			[ "ocasionábamos" ],
+			[ "ocasionabais", "ocasionaban" ],
+			[ "ocasionaban" ]
+		],
+		"6" : [
+			[ "ocasionaría" ],
+			[ "ocasionarías" ],
+			[ "ocasionaría" ],
+			[ "ocasionaríamos" ],
+			[ "ocasionaríais", "ocasionarían" ],
+			[ "ocasionarían" ]
+		],
+		"7" : [
+			[ "ocasionaré" ],
+			[ "ocasionarás" ],
+			[ "ocasionará" ],
+			[ "ocasionaremos" ],
+			[ "ocasionaréis", "ocasionarán" ],
+			[ "ocasionarán" ]
+		],
+		"8" : [
+			[ "ocasione" ],
+			[ "ocasiones" ],
+			[ "ocasione" ],
+			[ "ocasionemos" ],
+			[ "ocasionéis", "ocasionen" ],
+			[ "ocasionen" ]
+		],
+		"9" : [
+			[ "ocasionara" ],
+			[ "ocasionaras" ],
+			[ "ocasionara" ],
+			[ "ocasionáramos" ],
+			[ "ocasionarais", "ocasionaran" ],
+			[ "ocasionaran" ]
+		],
+		"10" : [
+			[ "ocasionase" ],
+			[ "ocasionases" ],
+			[ "ocasionase" ],
+			[ "ocasionásemos" ],
+			[ "ocasionaseis", "ocasionasen" ],
+			[ "ocasionasen" ]
+		],
+		"11" : [
+			[ "ocasionare" ],
+			[ "ocasionares" ],
+			[ "ocasionare" ],
+			[ "ocasionáremos" ],
+			[ "ocasionareis", "ocasionaren" ],
+			[ "ocasionaren" ]
+		],
+		"12" : {
+			"1" : [ "ocasiona" ],
+			"2" : [ "ocasione" ],
+			"3" : [ "ocasionemos" ],
+			"4" : [ "ocasionad" ],
+			"5" : [ "ocasionen" ]
+		}
+	}
+}

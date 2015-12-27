@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=revistar",
+	"word" : "revistar",
+	"infinitivo" : "revistar",
+	"participio" : [ "revistado" ],
+	"gerundio" : [ "revistando" ],
+	"tenses" : {
+		"3" : [
+			[ "revisto" ],
+			[ "revistas", "revistás" ],
+			[ "revista" ],
+			[ "revistamos" ],
+			[ "revistáis", "revistan" ],
+			[ "revistan" ]
+		],
+		"4" : [
+			[ "revisté" ],
+			[ "revistaste" ],
+			[ "revistó" ],
+			[ "revistamos" ],
+			[ "revistasteis", "revistaron" ],
+			[ "revistaron" ]
+		],
+		"5" : [
+			[ "revistaba" ],
+			[ "revistabas" ],
+			[ "revistaba" ],
+			[ "revistábamos" ],
+			[ "revistabais", "revistaban" ],
+			[ "revistaban" ]
+		],
+		"6" : [
+			[ "revistaría" ],
+			[ "revistarías" ],
+			[ "revistaría" ],
+			[ "revistaríamos" ],
+			[ "revistaríais", "revistarían" ],
+			[ "revistarían" ]
+		],
+		"7" : [
+			[ "revistaré" ],
+			[ "revistarás" ],
+			[ "revistará" ],
+			[ "revistaremos" ],
+			[ "revistaréis", "revistarán" ],
+			[ "revistarán" ]
+		],
+		"8" : [
+			[ "reviste" ],
+			[ "revistes" ],
+			[ "reviste" ],
+			[ "revistemos" ],
+			[ "revistéis", "revisten" ],
+			[ "revisten" ]
+		],
+		"9" : [
+			[ "revistara" ],
+			[ "revistaras" ],
+			[ "revistara" ],
+			[ "revistáramos" ],
+			[ "revistarais", "revistaran" ],
+			[ "revistaran" ]
+		],
+		"10" : [
+			[ "revistase" ],
+			[ "revistases" ],
+			[ "revistase" ],
+			[ "revistásemos" ],
+			[ "revistaseis", "revistasen" ],
+			[ "revistasen" ]
+		],
+		"11" : [
+			[ "revistare" ],
+			[ "revistares" ],
+			[ "revistare" ],
+			[ "revistáremos" ],
+			[ "revistareis", "revistaren" ],
+			[ "revistaren" ]
+		],
+		"12" : {
+			"1" : [ "revista" ],
+			"2" : [ "reviste" ],
+			"3" : [ "revistemos" ],
+			"4" : [ "revistad" ],
+			"5" : [ "revisten" ]
+		}
+	}
+}

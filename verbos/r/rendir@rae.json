@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rendir",
+	"word" : "rendir",
+	"infinitivo" : "rendir",
+	"participio" : [ "rendido" ],
+	"gerundio" : [ "rindiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "rindo" ],
+			[ "rindes", "rendís" ],
+			[ "rinde" ],
+			[ "rendimos" ],
+			[ "rendís", "rinden" ],
+			[ "rinden" ]
+		],
+		"4" : [
+			[ "rendí" ],
+			[ "rendiste" ],
+			[ "rindió" ],
+			[ "rendimos" ],
+			[ "rendisteis", "rindieron" ],
+			[ "rindieron" ]
+		],
+		"5" : [
+			[ "rendía" ],
+			[ "rendías" ],
+			[ "rendía" ],
+			[ "rendíamos" ],
+			[ "rendíais", "rendían" ],
+			[ "rendían" ]
+		],
+		"6" : [
+			[ "rendiría" ],
+			[ "rendirías" ],
+			[ "rendiría" ],
+			[ "rendiríamos" ],
+			[ "rendiríais", "rendirían" ],
+			[ "rendirían" ]
+		],
+		"7" : [
+			[ "rendiré" ],
+			[ "rendirás" ],
+			[ "rendirá" ],
+			[ "rendiremos" ],
+			[ "rendiréis", "rendirán" ],
+			[ "rendirán" ]
+		],
+		"8" : [
+			[ "rinda" ],
+			[ "rindas" ],
+			[ "rinda" ],
+			[ "rindamos" ],
+			[ "rindáis", "rindan" ],
+			[ "rindan" ]
+		],
+		"9" : [
+			[ "rindiera" ],
+			[ "rindieras" ],
+			[ "rindiera" ],
+			[ "rindiéramos" ],
+			[ "rindierais", "rindieran" ],
+			[ "rindieran" ]
+		],
+		"10" : [
+			[ "rindiese" ],
+			[ "rindieses" ],
+			[ "rindiese" ],
+			[ "rindiésemos" ],
+			[ "rindieseis", "rindiesen" ],
+			[ "rindiesen" ]
+		],
+		"11" : [
+			[ "rindiere" ],
+			[ "rindieres" ],
+			[ "rindiere" ],
+			[ "rindiéremos" ],
+			[ "rindiereis", "rindieren" ],
+			[ "rindieren" ]
+		],
+		"12" : {
+			"1" : [ "rinde" ],
+			"2" : [ "rinda" ],
+			"3" : [ "rindamos" ],
+			"4" : [ "rendid" ],
+			"5" : [ "rindan" ]
+		}
+	}
+}

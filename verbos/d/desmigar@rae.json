@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmigar",
+	"word" : "desmigar",
+	"infinitivo" : "desmigar",
+	"participio" : [ "desmigado" ],
+	"gerundio" : [ "desmigando" ],
+	"tenses" : {
+		"3" : [
+			[ "desmigo" ],
+			[ "desmigas", "desmigás" ],
+			[ "desmiga" ],
+			[ "desmigamos" ],
+			[ "desmigáis", "desmigan" ],
+			[ "desmigan" ]
+		],
+		"4" : [
+			[ "desmigué" ],
+			[ "desmigaste" ],
+			[ "desmigó" ],
+			[ "desmigamos" ],
+			[ "desmigasteis", "desmigaron" ],
+			[ "desmigaron" ]
+		],
+		"5" : [
+			[ "desmigaba" ],
+			[ "desmigabas" ],
+			[ "desmigaba" ],
+			[ "desmigábamos" ],
+			[ "desmigabais", "desmigaban" ],
+			[ "desmigaban" ]
+		],
+		"6" : [
+			[ "desmigaría" ],
+			[ "desmigarías" ],
+			[ "desmigaría" ],
+			[ "desmigaríamos" ],
+			[ "desmigaríais", "desmigarían" ],
+			[ "desmigarían" ]
+		],
+		"7" : [
+			[ "desmigaré" ],
+			[ "desmigarás" ],
+			[ "desmigará" ],
+			[ "desmigaremos" ],
+			[ "desmigaréis", "desmigarán" ],
+			[ "desmigarán" ]
+		],
+		"8" : [
+			[ "desmigue" ],
+			[ "desmigues" ],
+			[ "desmigue" ],
+			[ "desmiguemos" ],
+			[ "desmiguéis", "desmiguen" ],
+			[ "desmiguen" ]
+		],
+		"9" : [
+			[ "desmigara" ],
+			[ "desmigaras" ],
+			[ "desmigara" ],
+			[ "desmigáramos" ],
+			[ "desmigarais", "desmigaran" ],
+			[ "desmigaran" ]
+		],
+		"10" : [
+			[ "desmigase" ],
+			[ "desmigases" ],
+			[ "desmigase" ],
+			[ "desmigásemos" ],
+			[ "desmigaseis", "desmigasen" ],
+			[ "desmigasen" ]
+		],
+		"11" : [
+			[ "desmigare" ],
+			[ "desmigares" ],
+			[ "desmigare" ],
+			[ "desmigáremos" ],
+			[ "desmigareis", "desmigaren" ],
+			[ "desmigaren" ]
+		],
+		"12" : {
+			"1" : [ "desmiga" ],
+			"2" : [ "desmigue" ],
+			"3" : [ "desmiguemos" ],
+			"4" : [ "desmigad" ],
+			"5" : [ "desmiguen" ]
+		}
+	}
+}

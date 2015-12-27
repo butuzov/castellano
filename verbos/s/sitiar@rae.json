@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sitiar",
+	"word" : "sitiar",
+	"infinitivo" : "sitiar",
+	"participio" : [ "sitiado" ],
+	"gerundio" : [ "sitiando" ],
+	"tenses" : {
+		"3" : [
+			[ "sitio" ],
+			[ "sitias", "sitiás" ],
+			[ "sitia" ],
+			[ "sitiamos" ],
+			[ "sitiáis", "sitian" ],
+			[ "sitian" ]
+		],
+		"4" : [
+			[ "sitié" ],
+			[ "sitiaste" ],
+			[ "sitió" ],
+			[ "sitiamos" ],
+			[ "sitiasteis", "sitiaron" ],
+			[ "sitiaron" ]
+		],
+		"5" : [
+			[ "sitiaba" ],
+			[ "sitiabas" ],
+			[ "sitiaba" ],
+			[ "sitiábamos" ],
+			[ "sitiabais", "sitiaban" ],
+			[ "sitiaban" ]
+		],
+		"6" : [
+			[ "sitiaría" ],
+			[ "sitiarías" ],
+			[ "sitiaría" ],
+			[ "sitiaríamos" ],
+			[ "sitiaríais", "sitiarían" ],
+			[ "sitiarían" ]
+		],
+		"7" : [
+			[ "sitiaré" ],
+			[ "sitiarás" ],
+			[ "sitiará" ],
+			[ "sitiaremos" ],
+			[ "sitiaréis", "sitiarán" ],
+			[ "sitiarán" ]
+		],
+		"8" : [
+			[ "sitie" ],
+			[ "sities" ],
+			[ "sitie" ],
+			[ "sitiemos" ],
+			[ "sitiéis", "sitien" ],
+			[ "sitien" ]
+		],
+		"9" : [
+			[ "sitiara" ],
+			[ "sitiaras" ],
+			[ "sitiara" ],
+			[ "sitiáramos" ],
+			[ "sitiarais", "sitiaran" ],
+			[ "sitiaran" ]
+		],
+		"10" : [
+			[ "sitiase" ],
+			[ "sitiases" ],
+			[ "sitiase" ],
+			[ "sitiásemos" ],
+			[ "sitiaseis", "sitiasen" ],
+			[ "sitiasen" ]
+		],
+		"11" : [
+			[ "sitiare" ],
+			[ "sitiares" ],
+			[ "sitiare" ],
+			[ "sitiáremos" ],
+			[ "sitiareis", "sitiaren" ],
+			[ "sitiaren" ]
+		],
+		"12" : {
+			"1" : [ "sitia" ],
+			"2" : [ "sitie" ],
+			"3" : [ "sitiemos" ],
+			"4" : [ "sitiad" ],
+			"5" : [ "sitien" ]
+		}
+	}
+}

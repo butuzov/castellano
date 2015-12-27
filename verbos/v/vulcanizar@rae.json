@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vulcanizar",
+	"word" : "vulcanizar",
+	"infinitivo" : "vulcanizar",
+	"participio" : [ "vulcanizado" ],
+	"gerundio" : [ "vulcanizando" ],
+	"tenses" : {
+		"3" : [
+			[ "vulcanizo" ],
+			[ "vulcanizas", "vulcanizás" ],
+			[ "vulcaniza" ],
+			[ "vulcanizamos" ],
+			[ "vulcanizáis", "vulcanizan" ],
+			[ "vulcanizan" ]
+		],
+		"4" : [
+			[ "vulcanicé" ],
+			[ "vulcanizaste" ],
+			[ "vulcanizó" ],
+			[ "vulcanizamos" ],
+			[ "vulcanizasteis", "vulcanizaron" ],
+			[ "vulcanizaron" ]
+		],
+		"5" : [
+			[ "vulcanizaba" ],
+			[ "vulcanizabas" ],
+			[ "vulcanizaba" ],
+			[ "vulcanizábamos" ],
+			[ "vulcanizabais", "vulcanizaban" ],
+			[ "vulcanizaban" ]
+		],
+		"6" : [
+			[ "vulcanizaría" ],
+			[ "vulcanizarías" ],
+			[ "vulcanizaría" ],
+			[ "vulcanizaríamos" ],
+			[ "vulcanizaríais", "vulcanizarían" ],
+			[ "vulcanizarían" ]
+		],
+		"7" : [
+			[ "vulcanizaré" ],
+			[ "vulcanizarás" ],
+			[ "vulcanizará" ],
+			[ "vulcanizaremos" ],
+			[ "vulcanizaréis", "vulcanizarán" ],
+			[ "vulcanizarán" ]
+		],
+		"8" : [
+			[ "vulcanice" ],
+			[ "vulcanices" ],
+			[ "vulcanice" ],
+			[ "vulcanicemos" ],
+			[ "vulcanicéis", "vulcanicen" ],
+			[ "vulcanicen" ]
+		],
+		"9" : [
+			[ "vulcanizara" ],
+			[ "vulcanizaras" ],
+			[ "vulcanizara" ],
+			[ "vulcanizáramos" ],
+			[ "vulcanizarais", "vulcanizaran" ],
+			[ "vulcanizaran" ]
+		],
+		"10" : [
+			[ "vulcanizase" ],
+			[ "vulcanizases" ],
+			[ "vulcanizase" ],
+			[ "vulcanizásemos" ],
+			[ "vulcanizaseis", "vulcanizasen" ],
+			[ "vulcanizasen" ]
+		],
+		"11" : [
+			[ "vulcanizare" ],
+			[ "vulcanizares" ],
+			[ "vulcanizare" ],
+			[ "vulcanizáremos" ],
+			[ "vulcanizareis", "vulcanizaren" ],
+			[ "vulcanizaren" ]
+		],
+		"12" : {
+			"1" : [ "vulcaniza" ],
+			"2" : [ "vulcanice" ],
+			"3" : [ "vulcanicemos" ],
+			"4" : [ "vulcanizad" ],
+			"5" : [ "vulcanicen" ]
+		}
+	}
+}

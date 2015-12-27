@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=revolver",
+	"word" : "revolver",
+	"infinitivo" : "revolver",
+	"participio" : [ "revuelto" ],
+	"gerundio" : [ "revolviendo" ],
+	"tenses" : {
+		"3" : [
+			[ "revuelvo" ],
+			[ "revuelves", "revolvés" ],
+			[ "revuelve" ],
+			[ "revolvemos" ],
+			[ "revolvéis", "revuelven" ],
+			[ "revuelven" ]
+		],
+		"4" : [
+			[ "revolví" ],
+			[ "revolviste" ],
+			[ "revolvió" ],
+			[ "revolvimos" ],
+			[ "revolvisteis", "revolvieron" ],
+			[ "revolvieron" ]
+		],
+		"5" : [
+			[ "revolvía" ],
+			[ "revolvías" ],
+			[ "revolvía" ],
+			[ "revolvíamos" ],
+			[ "revolvíais", "revolvían" ],
+			[ "revolvían" ]
+		],
+		"6" : [
+			[ "revolvería" ],
+			[ "revolverías" ],
+			[ "revolvería" ],
+			[ "revolveríamos" ],
+			[ "revolveríais", "revolverían" ],
+			[ "revolverían" ]
+		],
+		"7" : [
+			[ "revolveré" ],
+			[ "revolverás" ],
+			[ "revolverá" ],
+			[ "revolveremos" ],
+			[ "revolveréis", "revolverán" ],
+			[ "revolverán" ]
+		],
+		"8" : [
+			[ "revuelva" ],
+			[ "revuelvas" ],
+			[ "revuelva" ],
+			[ "revolvamos" ],
+			[ "revolváis", "revuelvan" ],
+			[ "revuelvan" ]
+		],
+		"9" : [
+			[ "revolviera" ],
+			[ "revolvieras" ],
+			[ "revolviera" ],
+			[ "revolviéramos" ],
+			[ "revolvierais", "revolvieran" ],
+			[ "revolvieran" ]
+		],
+		"10" : [
+			[ "revolviese" ],
+			[ "revolvieses" ],
+			[ "revolviese" ],
+			[ "revolviésemos" ],
+			[ "revolvieseis", "revolviesen" ],
+			[ "revolviesen" ]
+		],
+		"11" : [
+			[ "revolviere" ],
+			[ "revolvieres" ],
+			[ "revolviere" ],
+			[ "revolviéremos" ],
+			[ "revolviereis", "revolvieren" ],
+			[ "revolvieren" ]
+		],
+		"12" : {
+			"1" : [ "revuelve" ],
+			"2" : [ "revuelva" ],
+			"3" : [ "revolvamos" ],
+			"4" : [ "revolved" ],
+			"5" : [ "revuelvan" ]
+		}
+	}
+}

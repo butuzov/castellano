@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=lacrar",
+	"word" : "lacrar",
+	"infinitivo" : "lacrar",
+	"participio" : [ "lacrado" ],
+	"gerundio" : [ "lacrando" ],
+	"tenses" : {
+		"3" : [
+			[ "lacro" ],
+			[ "lacras", "lacrás" ],
+			[ "lacra" ],
+			[ "lacramos" ],
+			[ "lacráis", "lacran" ],
+			[ "lacran" ]
+		],
+		"4" : [
+			[ "lacré" ],
+			[ "lacraste" ],
+			[ "lacró" ],
+			[ "lacramos" ],
+			[ "lacrasteis", "lacraron" ],
+			[ "lacraron" ]
+		],
+		"5" : [
+			[ "lacraba" ],
+			[ "lacrabas" ],
+			[ "lacraba" ],
+			[ "lacrábamos" ],
+			[ "lacrabais", "lacraban" ],
+			[ "lacraban" ]
+		],
+		"6" : [
+			[ "lacraría" ],
+			[ "lacrarías" ],
+			[ "lacraría" ],
+			[ "lacraríamos" ],
+			[ "lacraríais", "lacrarían" ],
+			[ "lacrarían" ]
+		],
+		"7" : [
+			[ "lacraré" ],
+			[ "lacrarás" ],
+			[ "lacrará" ],
+			[ "lacraremos" ],
+			[ "lacraréis", "lacrarán" ],
+			[ "lacrarán" ]
+		],
+		"8" : [
+			[ "lacre" ],
+			[ "lacres" ],
+			[ "lacre" ],
+			[ "lacremos" ],
+			[ "lacréis", "lacren" ],
+			[ "lacren" ]
+		],
+		"9" : [
+			[ "lacrara" ],
+			[ "lacraras" ],
+			[ "lacrara" ],
+			[ "lacráramos" ],
+			[ "lacrarais", "lacraran" ],
+			[ "lacraran" ]
+		],
+		"10" : [
+			[ "lacrase" ],
+			[ "lacrases" ],
+			[ "lacrase" ],
+			[ "lacrásemos" ],
+			[ "lacraseis", "lacrasen" ],
+			[ "lacrasen" ]
+		],
+		"11" : [
+			[ "lacrare" ],
+			[ "lacrares" ],
+			[ "lacrare" ],
+			[ "lacráremos" ],
+			[ "lacrareis", "lacraren" ],
+			[ "lacraren" ]
+		],
+		"12" : {
+			"1" : [ "lacra" ],
+			"2" : [ "lacre" ],
+			"3" : [ "lacremos" ],
+			"4" : [ "lacrad" ],
+			"5" : [ "lacren" ]
+		}
+	}
+}

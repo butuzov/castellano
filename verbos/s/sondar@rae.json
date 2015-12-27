@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sondar",
+	"word" : "sondar",
+	"infinitivo" : "sondar",
+	"participio" : [ "sondado" ],
+	"gerundio" : [ "sondando" ],
+	"tenses" : {
+		"3" : [
+			[ "sondo" ],
+			[ "sondas", "sondás" ],
+			[ "sonda" ],
+			[ "sondamos" ],
+			[ "sondáis", "sondan" ],
+			[ "sondan" ]
+		],
+		"4" : [
+			[ "sondé" ],
+			[ "sondaste" ],
+			[ "sondó" ],
+			[ "sondamos" ],
+			[ "sondasteis", "sondaron" ],
+			[ "sondaron" ]
+		],
+		"5" : [
+			[ "sondaba" ],
+			[ "sondabas" ],
+			[ "sondaba" ],
+			[ "sondábamos" ],
+			[ "sondabais", "sondaban" ],
+			[ "sondaban" ]
+		],
+		"6" : [
+			[ "sondaría" ],
+			[ "sondarías" ],
+			[ "sondaría" ],
+			[ "sondaríamos" ],
+			[ "sondaríais", "sondarían" ],
+			[ "sondarían" ]
+		],
+		"7" : [
+			[ "sondaré" ],
+			[ "sondarás" ],
+			[ "sondará" ],
+			[ "sondaremos" ],
+			[ "sondaréis", "sondarán" ],
+			[ "sondarán" ]
+		],
+		"8" : [
+			[ "sonde" ],
+			[ "sondes" ],
+			[ "sonde" ],
+			[ "sondemos" ],
+			[ "sondéis", "sonden" ],
+			[ "sonden" ]
+		],
+		"9" : [
+			[ "sondara" ],
+			[ "sondaras" ],
+			[ "sondara" ],
+			[ "sondáramos" ],
+			[ "sondarais", "sondaran" ],
+			[ "sondaran" ]
+		],
+		"10" : [
+			[ "sondase" ],
+			[ "sondases" ],
+			[ "sondase" ],
+			[ "sondásemos" ],
+			[ "sondaseis", "sondasen" ],
+			[ "sondasen" ]
+		],
+		"11" : [
+			[ "sondare" ],
+			[ "sondares" ],
+			[ "sondare" ],
+			[ "sondáremos" ],
+			[ "sondareis", "sondaren" ],
+			[ "sondaren" ]
+		],
+		"12" : {
+			"1" : [ "sonda" ],
+			"2" : [ "sonde" ],
+			"3" : [ "sondemos" ],
+			"4" : [ "sondad" ],
+			"5" : [ "sonden" ]
+		}
+	}
+}

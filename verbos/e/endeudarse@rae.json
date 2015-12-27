@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=endeudarse",
+	"word" : "endeudarse",
+	"infinitivo" : "endeudarse",
+	"participio" : [ "endeudado" ],
+	"gerundio" : [ "endeudándome", "endeudándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me endeudo" ],
+			[ "te endeudas", "te endeudás" ],
+			[ "se endeuda" ],
+			[ "nos endeudamos" ],
+			[ "os endeudáis", "se endeudan" ],
+			[ "se endeudan" ]
+		],
+		"4" : [
+			[ "me endeudé" ],
+			[ "te endeudaste" ],
+			[ "se endeudó" ],
+			[ "nos endeudamos" ],
+			[ "os endeudasteis", "se endeudaron" ],
+			[ "se endeudaron" ]
+		],
+		"5" : [
+			[ "me endeudaba" ],
+			[ "te endeudabas" ],
+			[ "se endeudaba" ],
+			[ "nos endeudábamos" ],
+			[ "os endeudabais", "se endeudaban" ],
+			[ "se endeudaban" ]
+		],
+		"6" : [
+			[ "me endeudaría" ],
+			[ "te endeudarías" ],
+			[ "se endeudaría" ],
+			[ "nos endeudaríamos" ],
+			[ "os endeudaríais", "se endeudarían" ],
+			[ "se endeudarían" ]
+		],
+		"7" : [
+			[ "me endeudaré" ],
+			[ "te endeudarás" ],
+			[ "se endeudará" ],
+			[ "nos endeudaremos" ],
+			[ "os endeudaréis", "se endeudarán" ],
+			[ "se endeudarán" ]
+		],
+		"8" : [
+			[ "me endeude" ],
+			[ "te endeudes" ],
+			[ "se endeude" ],
+			[ "nos endeudemos" ],
+			[ "os endeudéis", "se endeuden" ],
+			[ "se endeuden" ]
+		],
+		"9" : [
+			[ "me endeudara" ],
+			[ "te endeudaras" ],
+			[ "se endeudara" ],
+			[ "nos endeudáramos" ],
+			[ "os endeudarais", "se endeudaran" ],
+			[ "se endeudaran" ]
+		],
+		"10" : [
+			[ "me endeudase" ],
+			[ "te endeudases" ],
+			[ "se endeudase" ],
+			[ "nos endeudásemos" ],
+			[ "os endeudaseis", "se endeudasen" ],
+			[ "se endeudasen" ]
+		],
+		"11" : [
+			[ "me endeudare" ],
+			[ "te endeudares" ],
+			[ "se endeudare" ],
+			[ "nos endeudáremos" ],
+			[ "os endeudareis", "se endeudaren" ],
+			[ "se endeudaren" ]
+		],
+		"12" : {
+			"1" : [ "endéudate" ],
+			"2" : [ "endeude" ],
+			"3" : [ "endeudemos" ],
+			"4" : [ "endeudaos" ],
+			"5" : [ "endéudense" ]
+		}
+	}
+}

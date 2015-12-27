@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desaprender",
+	"word" : "desaprender",
+	"infinitivo" : "desaprender",
+	"participio" : [ "desaprendido" ],
+	"gerundio" : [ "desaprendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desaprendo" ],
+			[ "desaprendes", "desaprendés" ],
+			[ "desaprende" ],
+			[ "desaprendemos" ],
+			[ "desaprendéis", "desaprenden" ],
+			[ "desaprenden" ]
+		],
+		"4" : [
+			[ "desaprendí" ],
+			[ "desaprendiste" ],
+			[ "desaprendió" ],
+			[ "desaprendimos" ],
+			[ "desaprendisteis", "desaprendieron" ],
+			[ "desaprendieron" ]
+		],
+		"5" : [
+			[ "desaprendía" ],
+			[ "desaprendías" ],
+			[ "desaprendía" ],
+			[ "desaprendíamos" ],
+			[ "desaprendíais", "desaprendían" ],
+			[ "desaprendían" ]
+		],
+		"6" : [
+			[ "desaprendería" ],
+			[ "desaprenderías" ],
+			[ "desaprendería" ],
+			[ "desaprenderíamos" ],
+			[ "desaprenderíais", "desaprenderían" ],
+			[ "desaprenderían" ]
+		],
+		"7" : [
+			[ "desaprenderé" ],
+			[ "desaprenderás" ],
+			[ "desaprenderá" ],
+			[ "desaprenderemos" ],
+			[ "desaprenderéis", "desaprenderán" ],
+			[ "desaprenderán" ]
+		],
+		"8" : [
+			[ "desaprenda" ],
+			[ "desaprendas" ],
+			[ "desaprenda" ],
+			[ "desaprendamos" ],
+			[ "desaprendáis", "desaprendan" ],
+			[ "desaprendan" ]
+		],
+		"9" : [
+			[ "desaprendiera" ],
+			[ "desaprendieras" ],
+			[ "desaprendiera" ],
+			[ "desaprendiéramos" ],
+			[ "desaprendierais", "desaprendieran" ],
+			[ "desaprendieran" ]
+		],
+		"10" : [
+			[ "desaprendiese" ],
+			[ "desaprendieses" ],
+			[ "desaprendiese" ],
+			[ "desaprendiésemos" ],
+			[ "desaprendieseis", "desaprendiesen" ],
+			[ "desaprendiesen" ]
+		],
+		"11" : [
+			[ "desaprendiere" ],
+			[ "desaprendieres" ],
+			[ "desaprendiere" ],
+			[ "desaprendiéremos" ],
+			[ "desaprendiereis", "desaprendieren" ],
+			[ "desaprendieren" ]
+		],
+		"12" : {
+			"1" : [ "desaprende" ],
+			"2" : [ "desaprenda" ],
+			"3" : [ "desaprendamos" ],
+			"4" : [ "desaprended" ],
+			"5" : [ "desaprendan" ]
+		}
+	}
+}

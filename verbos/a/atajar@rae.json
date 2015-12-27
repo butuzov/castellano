@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atajar",
+	"word" : "atajar",
+	"infinitivo" : "atajar",
+	"participio" : [ "atajado" ],
+	"gerundio" : [ "atajando" ],
+	"tenses" : {
+		"3" : [
+			[ "atajo" ],
+			[ "atajas", "atajás" ],
+			[ "ataja" ],
+			[ "atajamos" ],
+			[ "atajáis", "atajan" ],
+			[ "atajan" ]
+		],
+		"4" : [
+			[ "atajé" ],
+			[ "atajaste" ],
+			[ "atajó" ],
+			[ "atajamos" ],
+			[ "atajasteis", "atajaron" ],
+			[ "atajaron" ]
+		],
+		"5" : [
+			[ "atajaba" ],
+			[ "atajabas" ],
+			[ "atajaba" ],
+			[ "atajábamos" ],
+			[ "atajabais", "atajaban" ],
+			[ "atajaban" ]
+		],
+		"6" : [
+			[ "atajaría" ],
+			[ "atajarías" ],
+			[ "atajaría" ],
+			[ "atajaríamos" ],
+			[ "atajaríais", "atajarían" ],
+			[ "atajarían" ]
+		],
+		"7" : [
+			[ "atajaré" ],
+			[ "atajarás" ],
+			[ "atajará" ],
+			[ "atajaremos" ],
+			[ "atajaréis", "atajarán" ],
+			[ "atajarán" ]
+		],
+		"8" : [
+			[ "ataje" ],
+			[ "atajes" ],
+			[ "ataje" ],
+			[ "atajemos" ],
+			[ "atajéis", "atajen" ],
+			[ "atajen" ]
+		],
+		"9" : [
+			[ "atajara" ],
+			[ "atajaras" ],
+			[ "atajara" ],
+			[ "atajáramos" ],
+			[ "atajarais", "atajaran" ],
+			[ "atajaran" ]
+		],
+		"10" : [
+			[ "atajase" ],
+			[ "atajases" ],
+			[ "atajase" ],
+			[ "atajásemos" ],
+			[ "atajaseis", "atajasen" ],
+			[ "atajasen" ]
+		],
+		"11" : [
+			[ "atajare" ],
+			[ "atajares" ],
+			[ "atajare" ],
+			[ "atajáremos" ],
+			[ "atajareis", "atajaren" ],
+			[ "atajaren" ]
+		],
+		"12" : {
+			"1" : [ "ataja" ],
+			"2" : [ "ataje" ],
+			"3" : [ "atajemos" ],
+			"4" : [ "atajad" ],
+			"5" : [ "atajen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estropear",
+	"word" : "estropear",
+	"infinitivo" : "estropear",
+	"participio" : [ "estropeado" ],
+	"gerundio" : [ "estropeando" ],
+	"tenses" : {
+		"3" : [
+			[ "estropeo" ],
+			[ "estropeas", "estropeás" ],
+			[ "estropea" ],
+			[ "estropeamos" ],
+			[ "estropeáis", "estropean" ],
+			[ "estropean" ]
+		],
+		"4" : [
+			[ "estropeé" ],
+			[ "estropeaste" ],
+			[ "estropeó" ],
+			[ "estropeamos" ],
+			[ "estropeasteis", "estropearon" ],
+			[ "estropearon" ]
+		],
+		"5" : [
+			[ "estropeaba" ],
+			[ "estropeabas" ],
+			[ "estropeaba" ],
+			[ "estropeábamos" ],
+			[ "estropeabais", "estropeaban" ],
+			[ "estropeaban" ]
+		],
+		"6" : [
+			[ "estropearía" ],
+			[ "estropearías" ],
+			[ "estropearía" ],
+			[ "estropearíamos" ],
+			[ "estropearíais", "estropearían" ],
+			[ "estropearían" ]
+		],
+		"7" : [
+			[ "estropearé" ],
+			[ "estropearás" ],
+			[ "estropeará" ],
+			[ "estropearemos" ],
+			[ "estropearéis", "estropearán" ],
+			[ "estropearán" ]
+		],
+		"8" : [
+			[ "estropee" ],
+			[ "estropees" ],
+			[ "estropee" ],
+			[ "estropeemos" ],
+			[ "estropeéis", "estropeen" ],
+			[ "estropeen" ]
+		],
+		"9" : [
+			[ "estropeara" ],
+			[ "estropearas" ],
+			[ "estropeara" ],
+			[ "estropeáramos" ],
+			[ "estropearais", "estropearan" ],
+			[ "estropearan" ]
+		],
+		"10" : [
+			[ "estropease" ],
+			[ "estropeases" ],
+			[ "estropease" ],
+			[ "estropeásemos" ],
+			[ "estropeaseis", "estropeasen" ],
+			[ "estropeasen" ]
+		],
+		"11" : [
+			[ "estropeare" ],
+			[ "estropeares" ],
+			[ "estropeare" ],
+			[ "estropeáremos" ],
+			[ "estropeareis", "estropearen" ],
+			[ "estropearen" ]
+		],
+		"12" : {
+			"1" : [ "estropea" ],
+			"2" : [ "estropee" ],
+			"3" : [ "estropeemos" ],
+			"4" : [ "estropead" ],
+			"5" : [ "estropeen" ]
+		}
+	}
+}

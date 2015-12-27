@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=limitar",
+	"word" : "limitar",
+	"infinitivo" : "limitar",
+	"participio" : [ "limitado" ],
+	"gerundio" : [ "limitando" ],
+	"tenses" : {
+		"3" : [
+			[ "limito" ],
+			[ "limitas", "limitás" ],
+			[ "limita" ],
+			[ "limitamos" ],
+			[ "limitáis", "limitan" ],
+			[ "limitan" ]
+		],
+		"4" : [
+			[ "limité" ],
+			[ "limitaste" ],
+			[ "limitó" ],
+			[ "limitamos" ],
+			[ "limitasteis", "limitaron" ],
+			[ "limitaron" ]
+		],
+		"5" : [
+			[ "limitaba" ],
+			[ "limitabas" ],
+			[ "limitaba" ],
+			[ "limitábamos" ],
+			[ "limitabais", "limitaban" ],
+			[ "limitaban" ]
+		],
+		"6" : [
+			[ "limitaría" ],
+			[ "limitarías" ],
+			[ "limitaría" ],
+			[ "limitaríamos" ],
+			[ "limitaríais", "limitarían" ],
+			[ "limitarían" ]
+		],
+		"7" : [
+			[ "limitaré" ],
+			[ "limitarás" ],
+			[ "limitará" ],
+			[ "limitaremos" ],
+			[ "limitaréis", "limitarán" ],
+			[ "limitarán" ]
+		],
+		"8" : [
+			[ "limite" ],
+			[ "limites" ],
+			[ "limite" ],
+			[ "limitemos" ],
+			[ "limitéis", "limiten" ],
+			[ "limiten" ]
+		],
+		"9" : [
+			[ "limitara" ],
+			[ "limitaras" ],
+			[ "limitara" ],
+			[ "limitáramos" ],
+			[ "limitarais", "limitaran" ],
+			[ "limitaran" ]
+		],
+		"10" : [
+			[ "limitase" ],
+			[ "limitases" ],
+			[ "limitase" ],
+			[ "limitásemos" ],
+			[ "limitaseis", "limitasen" ],
+			[ "limitasen" ]
+		],
+		"11" : [
+			[ "limitare" ],
+			[ "limitares" ],
+			[ "limitare" ],
+			[ "limitáremos" ],
+			[ "limitareis", "limitaren" ],
+			[ "limitaren" ]
+		],
+		"12" : {
+			"1" : [ "limita" ],
+			"2" : [ "limite" ],
+			"3" : [ "limitemos" ],
+			"4" : [ "limitad" ],
+			"5" : [ "limiten" ]
+		}
+	}
+}

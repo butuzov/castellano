@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rubricar",
+	"word" : "rubricar",
+	"infinitivo" : "rubricar",
+	"participio" : [ "rubricado" ],
+	"gerundio" : [ "rubricando" ],
+	"tenses" : {
+		"3" : [
+			[ "rubrico" ],
+			[ "rubricas", "rubricás" ],
+			[ "rubrica" ],
+			[ "rubricamos" ],
+			[ "rubricáis", "rubrican" ],
+			[ "rubrican" ]
+		],
+		"4" : [
+			[ "rubriqué" ],
+			[ "rubricaste" ],
+			[ "rubricó" ],
+			[ "rubricamos" ],
+			[ "rubricasteis", "rubricaron" ],
+			[ "rubricaron" ]
+		],
+		"5" : [
+			[ "rubricaba" ],
+			[ "rubricabas" ],
+			[ "rubricaba" ],
+			[ "rubricábamos" ],
+			[ "rubricabais", "rubricaban" ],
+			[ "rubricaban" ]
+		],
+		"6" : [
+			[ "rubricaría" ],
+			[ "rubricarías" ],
+			[ "rubricaría" ],
+			[ "rubricaríamos" ],
+			[ "rubricaríais", "rubricarían" ],
+			[ "rubricarían" ]
+		],
+		"7" : [
+			[ "rubricaré" ],
+			[ "rubricarás" ],
+			[ "rubricará" ],
+			[ "rubricaremos" ],
+			[ "rubricaréis", "rubricarán" ],
+			[ "rubricarán" ]
+		],
+		"8" : [
+			[ "rubrique" ],
+			[ "rubriques" ],
+			[ "rubrique" ],
+			[ "rubriquemos" ],
+			[ "rubriquéis", "rubriquen" ],
+			[ "rubriquen" ]
+		],
+		"9" : [
+			[ "rubricara" ],
+			[ "rubricaras" ],
+			[ "rubricara" ],
+			[ "rubricáramos" ],
+			[ "rubricarais", "rubricaran" ],
+			[ "rubricaran" ]
+		],
+		"10" : [
+			[ "rubricase" ],
+			[ "rubricases" ],
+			[ "rubricase" ],
+			[ "rubricásemos" ],
+			[ "rubricaseis", "rubricasen" ],
+			[ "rubricasen" ]
+		],
+		"11" : [
+			[ "rubricare" ],
+			[ "rubricares" ],
+			[ "rubricare" ],
+			[ "rubricáremos" ],
+			[ "rubricareis", "rubricaren" ],
+			[ "rubricaren" ]
+		],
+		"12" : {
+			"1" : [ "rubrica" ],
+			"2" : [ "rubrique" ],
+			"3" : [ "rubriquemos" ],
+			"4" : [ "rubricad" ],
+			"5" : [ "rubriquen" ]
+		}
+	}
+}

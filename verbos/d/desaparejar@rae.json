@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desaparejar",
+	"word" : "desaparejar",
+	"infinitivo" : "desaparejar",
+	"participio" : [ "desaparejado" ],
+	"gerundio" : [ "desaparejando" ],
+	"tenses" : {
+		"3" : [
+			[ "desaparejo" ],
+			[ "desaparejas", "desaparejás" ],
+			[ "desapareja" ],
+			[ "desaparejamos" ],
+			[ "desaparejáis", "desaparejan" ],
+			[ "desaparejan" ]
+		],
+		"4" : [
+			[ "desaparejé" ],
+			[ "desaparejaste" ],
+			[ "desaparejó" ],
+			[ "desaparejamos" ],
+			[ "desaparejasteis", "desaparejaron" ],
+			[ "desaparejaron" ]
+		],
+		"5" : [
+			[ "desaparejaba" ],
+			[ "desaparejabas" ],
+			[ "desaparejaba" ],
+			[ "desaparejábamos" ],
+			[ "desaparejabais", "desaparejaban" ],
+			[ "desaparejaban" ]
+		],
+		"6" : [
+			[ "desaparejaría" ],
+			[ "desaparejarías" ],
+			[ "desaparejaría" ],
+			[ "desaparejaríamos" ],
+			[ "desaparejaríais", "desaparejarían" ],
+			[ "desaparejarían" ]
+		],
+		"7" : [
+			[ "desaparejaré" ],
+			[ "desaparejarás" ],
+			[ "desaparejará" ],
+			[ "desaparejaremos" ],
+			[ "desaparejaréis", "desaparejarán" ],
+			[ "desaparejarán" ]
+		],
+		"8" : [
+			[ "desapareje" ],
+			[ "desaparejes" ],
+			[ "desapareje" ],
+			[ "desaparejemos" ],
+			[ "desaparejéis", "desaparejen" ],
+			[ "desaparejen" ]
+		],
+		"9" : [
+			[ "desaparejara" ],
+			[ "desaparejaras" ],
+			[ "desaparejara" ],
+			[ "desaparejáramos" ],
+			[ "desaparejarais", "desaparejaran" ],
+			[ "desaparejaran" ]
+		],
+		"10" : [
+			[ "desaparejase" ],
+			[ "desaparejases" ],
+			[ "desaparejase" ],
+			[ "desaparejásemos" ],
+			[ "desaparejaseis", "desaparejasen" ],
+			[ "desaparejasen" ]
+		],
+		"11" : [
+			[ "desaparejare" ],
+			[ "desaparejares" ],
+			[ "desaparejare" ],
+			[ "desaparejáremos" ],
+			[ "desaparejareis", "desaparejaren" ],
+			[ "desaparejaren" ]
+		],
+		"12" : {
+			"1" : [ "desapareja" ],
+			"2" : [ "desapareje" ],
+			"3" : [ "desaparejemos" ],
+			"4" : [ "desaparejad" ],
+			"5" : [ "desaparejen" ]
+		}
+	}
+}

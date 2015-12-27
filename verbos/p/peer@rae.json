@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=peer",
+	"word" : "peer",
+	"infinitivo" : "peer",
+	"participio" : [ "peído" ],
+	"gerundio" : [ "peyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "peo" ],
+			[ "pees", "peés" ],
+			[ "pee" ],
+			[ "peemos" ],
+			[ "peéis", "peen" ],
+			[ "peen" ]
+		],
+		"4" : [
+			[ "peí" ],
+			[ "peíste" ],
+			[ "peyó" ],
+			[ "peímos" ],
+			[ "peísteis", "peyeron" ],
+			[ "peyeron" ]
+		],
+		"5" : [
+			[ "peía" ],
+			[ "peías" ],
+			[ "peía" ],
+			[ "peíamos" ],
+			[ "peíais", "peían" ],
+			[ "peían" ]
+		],
+		"6" : [
+			[ "peería" ],
+			[ "peerías" ],
+			[ "peería" ],
+			[ "peeríamos" ],
+			[ "peeríais", "peerían" ],
+			[ "peerían" ]
+		],
+		"7" : [
+			[ "peeré" ],
+			[ "peerás" ],
+			[ "peerá" ],
+			[ "peeremos" ],
+			[ "peeréis", "peerán" ],
+			[ "peerán" ]
+		],
+		"8" : [
+			[ "pea" ],
+			[ "peas" ],
+			[ "pea" ],
+			[ "peamos" ],
+			[ "peáis", "pean" ],
+			[ "pean" ]
+		],
+		"9" : [
+			[ "peyera" ],
+			[ "peyeras" ],
+			[ "peyera" ],
+			[ "peyéramos" ],
+			[ "peyerais", "peyeran" ],
+			[ "peyeran" ]
+		],
+		"10" : [
+			[ "peyese" ],
+			[ "peyeses" ],
+			[ "peyese" ],
+			[ "peyésemos" ],
+			[ "peyeseis", "peyesen" ],
+			[ "peyesen" ]
+		],
+		"11" : [
+			[ "peyere" ],
+			[ "peyeres" ],
+			[ "peyere" ],
+			[ "peyéremos" ],
+			[ "peyereis", "peyeren" ],
+			[ "peyeren" ]
+		],
+		"12" : {
+			"1" : [ "pee" ],
+			"2" : [ "pea" ],
+			"3" : [ "peamos" ],
+			"4" : [ "peed" ],
+			"5" : [ "pean" ]
+		}
+	}
+}

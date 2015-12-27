@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=regularizar",
+	"word" : "regularizar",
+	"infinitivo" : "regularizar",
+	"participio" : [ "regularizado" ],
+	"gerundio" : [ "regularizando" ],
+	"tenses" : {
+		"3" : [
+			[ "regularizo" ],
+			[ "regularizas", "regularizás" ],
+			[ "regulariza" ],
+			[ "regularizamos" ],
+			[ "regularizáis", "regularizan" ],
+			[ "regularizan" ]
+		],
+		"4" : [
+			[ "regularicé" ],
+			[ "regularizaste" ],
+			[ "regularizó" ],
+			[ "regularizamos" ],
+			[ "regularizasteis", "regularizaron" ],
+			[ "regularizaron" ]
+		],
+		"5" : [
+			[ "regularizaba" ],
+			[ "regularizabas" ],
+			[ "regularizaba" ],
+			[ "regularizábamos" ],
+			[ "regularizabais", "regularizaban" ],
+			[ "regularizaban" ]
+		],
+		"6" : [
+			[ "regularizaría" ],
+			[ "regularizarías" ],
+			[ "regularizaría" ],
+			[ "regularizaríamos" ],
+			[ "regularizaríais", "regularizarían" ],
+			[ "regularizarían" ]
+		],
+		"7" : [
+			[ "regularizaré" ],
+			[ "regularizarás" ],
+			[ "regularizará" ],
+			[ "regularizaremos" ],
+			[ "regularizaréis", "regularizarán" ],
+			[ "regularizarán" ]
+		],
+		"8" : [
+			[ "regularice" ],
+			[ "regularices" ],
+			[ "regularice" ],
+			[ "regularicemos" ],
+			[ "regularicéis", "regularicen" ],
+			[ "regularicen" ]
+		],
+		"9" : [
+			[ "regularizara" ],
+			[ "regularizaras" ],
+			[ "regularizara" ],
+			[ "regularizáramos" ],
+			[ "regularizarais", "regularizaran" ],
+			[ "regularizaran" ]
+		],
+		"10" : [
+			[ "regularizase" ],
+			[ "regularizases" ],
+			[ "regularizase" ],
+			[ "regularizásemos" ],
+			[ "regularizaseis", "regularizasen" ],
+			[ "regularizasen" ]
+		],
+		"11" : [
+			[ "regularizare" ],
+			[ "regularizares" ],
+			[ "regularizare" ],
+			[ "regularizáremos" ],
+			[ "regularizareis", "regularizaren" ],
+			[ "regularizaren" ]
+		],
+		"12" : {
+			"1" : [ "regulariza" ],
+			"2" : [ "regularice" ],
+			"3" : [ "regularicemos" ],
+			"4" : [ "regularizad" ],
+			"5" : [ "regularicen" ]
+		}
+	}
+}

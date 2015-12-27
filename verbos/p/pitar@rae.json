@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pitar",
+	"word" : "pitar",
+	"infinitivo" : "pitar",
+	"participio" : [ "pitado" ],
+	"gerundio" : [ "pitando" ],
+	"tenses" : {
+		"3" : [
+			[ "pito" ],
+			[ "pitas", "pitás" ],
+			[ "pita" ],
+			[ "pitamos" ],
+			[ "pitáis", "pitan" ],
+			[ "pitan" ]
+		],
+		"4" : [
+			[ "pité" ],
+			[ "pitaste" ],
+			[ "pitó" ],
+			[ "pitamos" ],
+			[ "pitasteis", "pitaron" ],
+			[ "pitaron" ]
+		],
+		"5" : [
+			[ "pitaba" ],
+			[ "pitabas" ],
+			[ "pitaba" ],
+			[ "pitábamos" ],
+			[ "pitabais", "pitaban" ],
+			[ "pitaban" ]
+		],
+		"6" : [
+			[ "pitaría" ],
+			[ "pitarías" ],
+			[ "pitaría" ],
+			[ "pitaríamos" ],
+			[ "pitaríais", "pitarían" ],
+			[ "pitarían" ]
+		],
+		"7" : [
+			[ "pitaré" ],
+			[ "pitarás" ],
+			[ "pitará" ],
+			[ "pitaremos" ],
+			[ "pitaréis", "pitarán" ],
+			[ "pitarán" ]
+		],
+		"8" : [
+			[ "pite" ],
+			[ "pites" ],
+			[ "pite" ],
+			[ "pitemos" ],
+			[ "pitéis", "piten" ],
+			[ "piten" ]
+		],
+		"9" : [
+			[ "pitara" ],
+			[ "pitaras" ],
+			[ "pitara" ],
+			[ "pitáramos" ],
+			[ "pitarais", "pitaran" ],
+			[ "pitaran" ]
+		],
+		"10" : [
+			[ "pitase" ],
+			[ "pitases" ],
+			[ "pitase" ],
+			[ "pitásemos" ],
+			[ "pitaseis", "pitasen" ],
+			[ "pitasen" ]
+		],
+		"11" : [
+			[ "pitare" ],
+			[ "pitares" ],
+			[ "pitare" ],
+			[ "pitáremos" ],
+			[ "pitareis", "pitaren" ],
+			[ "pitaren" ]
+		],
+		"12" : {
+			"1" : [ "pita" ],
+			"2" : [ "pite" ],
+			"3" : [ "pitemos" ],
+			"4" : [ "pitad" ],
+			"5" : [ "piten" ]
+		}
+	}
+}

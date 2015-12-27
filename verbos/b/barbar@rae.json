@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=barbar",
+	"word" : "barbar",
+	"infinitivo" : "barbar",
+	"participio" : [ "barbado" ],
+	"gerundio" : [ "barbando" ],
+	"tenses" : {
+		"3" : [
+			[ "barbo" ],
+			[ "barbas", "barbás" ],
+			[ "barba" ],
+			[ "barbamos" ],
+			[ "barbáis", "barban" ],
+			[ "barban" ]
+		],
+		"4" : [
+			[ "barbé" ],
+			[ "barbaste" ],
+			[ "barbó" ],
+			[ "barbamos" ],
+			[ "barbasteis", "barbaron" ],
+			[ "barbaron" ]
+		],
+		"5" : [
+			[ "barbaba" ],
+			[ "barbabas" ],
+			[ "barbaba" ],
+			[ "barbábamos" ],
+			[ "barbabais", "barbaban" ],
+			[ "barbaban" ]
+		],
+		"6" : [
+			[ "barbaría" ],
+			[ "barbarías" ],
+			[ "barbaría" ],
+			[ "barbaríamos" ],
+			[ "barbaríais", "barbarían" ],
+			[ "barbarían" ]
+		],
+		"7" : [
+			[ "barbaré" ],
+			[ "barbarás" ],
+			[ "barbará" ],
+			[ "barbaremos" ],
+			[ "barbaréis", "barbarán" ],
+			[ "barbarán" ]
+		],
+		"8" : [
+			[ "barbe" ],
+			[ "barbes" ],
+			[ "barbe" ],
+			[ "barbemos" ],
+			[ "barbéis", "barben" ],
+			[ "barben" ]
+		],
+		"9" : [
+			[ "barbara" ],
+			[ "barbaras" ],
+			[ "barbara" ],
+			[ "barbáramos" ],
+			[ "barbarais", "barbaran" ],
+			[ "barbaran" ]
+		],
+		"10" : [
+			[ "barbase" ],
+			[ "barbases" ],
+			[ "barbase" ],
+			[ "barbásemos" ],
+			[ "barbaseis", "barbasen" ],
+			[ "barbasen" ]
+		],
+		"11" : [
+			[ "barbare" ],
+			[ "barbares" ],
+			[ "barbare" ],
+			[ "barbáremos" ],
+			[ "barbareis", "barbaren" ],
+			[ "barbaren" ]
+		],
+		"12" : {
+			"1" : [ "barba" ],
+			"2" : [ "barbe" ],
+			"3" : [ "barbemos" ],
+			"4" : [ "barbad" ],
+			"5" : [ "barben" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ensopar",
+	"word" : "ensopar",
+	"infinitivo" : "ensopar",
+	"participio" : [ "ensopado" ],
+	"gerundio" : [ "ensopando" ],
+	"tenses" : {
+		"3" : [
+			[ "ensopo" ],
+			[ "ensopas", "ensopás" ],
+			[ "ensopa" ],
+			[ "ensopamos" ],
+			[ "ensopáis", "ensopan" ],
+			[ "ensopan" ]
+		],
+		"4" : [
+			[ "ensopé" ],
+			[ "ensopaste" ],
+			[ "ensopó" ],
+			[ "ensopamos" ],
+			[ "ensopasteis", "ensoparon" ],
+			[ "ensoparon" ]
+		],
+		"5" : [
+			[ "ensopaba" ],
+			[ "ensopabas" ],
+			[ "ensopaba" ],
+			[ "ensopábamos" ],
+			[ "ensopabais", "ensopaban" ],
+			[ "ensopaban" ]
+		],
+		"6" : [
+			[ "ensoparía" ],
+			[ "ensoparías" ],
+			[ "ensoparía" ],
+			[ "ensoparíamos" ],
+			[ "ensoparíais", "ensoparían" ],
+			[ "ensoparían" ]
+		],
+		"7" : [
+			[ "ensoparé" ],
+			[ "ensoparás" ],
+			[ "ensopará" ],
+			[ "ensoparemos" ],
+			[ "ensoparéis", "ensoparán" ],
+			[ "ensoparán" ]
+		],
+		"8" : [
+			[ "ensope" ],
+			[ "ensopes" ],
+			[ "ensope" ],
+			[ "ensopemos" ],
+			[ "ensopéis", "ensopen" ],
+			[ "ensopen" ]
+		],
+		"9" : [
+			[ "ensopara" ],
+			[ "ensoparas" ],
+			[ "ensopara" ],
+			[ "ensopáramos" ],
+			[ "ensoparais", "ensoparan" ],
+			[ "ensoparan" ]
+		],
+		"10" : [
+			[ "ensopase" ],
+			[ "ensopases" ],
+			[ "ensopase" ],
+			[ "ensopásemos" ],
+			[ "ensopaseis", "ensopasen" ],
+			[ "ensopasen" ]
+		],
+		"11" : [
+			[ "ensopare" ],
+			[ "ensopares" ],
+			[ "ensopare" ],
+			[ "ensopáremos" ],
+			[ "ensopareis", "ensoparen" ],
+			[ "ensoparen" ]
+		],
+		"12" : {
+			"1" : [ "ensopa" ],
+			"2" : [ "ensope" ],
+			"3" : [ "ensopemos" ],
+			"4" : [ "ensopad" ],
+			"5" : [ "ensopen" ]
+		}
+	}
+}

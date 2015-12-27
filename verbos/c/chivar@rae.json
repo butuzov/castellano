@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chivar",
+	"word" : "chivar",
+	"infinitivo" : "chivar",
+	"participio" : [ "chivado" ],
+	"gerundio" : [ "chivando" ],
+	"tenses" : {
+		"3" : [
+			[ "chivo" ],
+			[ "chivas", "chivás" ],
+			[ "chiva" ],
+			[ "chivamos" ],
+			[ "chiváis", "chivan" ],
+			[ "chivan" ]
+		],
+		"4" : [
+			[ "chivé" ],
+			[ "chivaste" ],
+			[ "chivó" ],
+			[ "chivamos" ],
+			[ "chivasteis", "chivaron" ],
+			[ "chivaron" ]
+		],
+		"5" : [
+			[ "chivaba" ],
+			[ "chivabas" ],
+			[ "chivaba" ],
+			[ "chivábamos" ],
+			[ "chivabais", "chivaban" ],
+			[ "chivaban" ]
+		],
+		"6" : [
+			[ "chivaría" ],
+			[ "chivarías" ],
+			[ "chivaría" ],
+			[ "chivaríamos" ],
+			[ "chivaríais", "chivarían" ],
+			[ "chivarían" ]
+		],
+		"7" : [
+			[ "chivaré" ],
+			[ "chivarás" ],
+			[ "chivará" ],
+			[ "chivaremos" ],
+			[ "chivaréis", "chivarán" ],
+			[ "chivarán" ]
+		],
+		"8" : [
+			[ "chive" ],
+			[ "chives" ],
+			[ "chive" ],
+			[ "chivemos" ],
+			[ "chivéis", "chiven" ],
+			[ "chiven" ]
+		],
+		"9" : [
+			[ "chivara" ],
+			[ "chivaras" ],
+			[ "chivara" ],
+			[ "chiváramos" ],
+			[ "chivarais", "chivaran" ],
+			[ "chivaran" ]
+		],
+		"10" : [
+			[ "chivase" ],
+			[ "chivases" ],
+			[ "chivase" ],
+			[ "chivásemos" ],
+			[ "chivaseis", "chivasen" ],
+			[ "chivasen" ]
+		],
+		"11" : [
+			[ "chivare" ],
+			[ "chivares" ],
+			[ "chivare" ],
+			[ "chiváremos" ],
+			[ "chivareis", "chivaren" ],
+			[ "chivaren" ]
+		],
+		"12" : {
+			"1" : [ "chiva" ],
+			"2" : [ "chive" ],
+			"3" : [ "chivemos" ],
+			"4" : [ "chivad" ],
+			"5" : [ "chiven" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=implorar",
+	"word" : "implorar",
+	"infinitivo" : "implorar",
+	"participio" : [ "implorado" ],
+	"gerundio" : [ "implorando" ],
+	"tenses" : {
+		"3" : [
+			[ "imploro" ],
+			[ "imploras", "implorás" ],
+			[ "implora" ],
+			[ "imploramos" ],
+			[ "imploráis", "imploran" ],
+			[ "imploran" ]
+		],
+		"4" : [
+			[ "imploré" ],
+			[ "imploraste" ],
+			[ "imploró" ],
+			[ "imploramos" ],
+			[ "implorasteis", "imploraron" ],
+			[ "imploraron" ]
+		],
+		"5" : [
+			[ "imploraba" ],
+			[ "implorabas" ],
+			[ "imploraba" ],
+			[ "implorábamos" ],
+			[ "implorabais", "imploraban" ],
+			[ "imploraban" ]
+		],
+		"6" : [
+			[ "imploraría" ],
+			[ "implorarías" ],
+			[ "imploraría" ],
+			[ "imploraríamos" ],
+			[ "imploraríais", "implorarían" ],
+			[ "implorarían" ]
+		],
+		"7" : [
+			[ "imploraré" ],
+			[ "implorarás" ],
+			[ "implorará" ],
+			[ "imploraremos" ],
+			[ "imploraréis", "implorarán" ],
+			[ "implorarán" ]
+		],
+		"8" : [
+			[ "implore" ],
+			[ "implores" ],
+			[ "implore" ],
+			[ "imploremos" ],
+			[ "imploréis", "imploren" ],
+			[ "imploren" ]
+		],
+		"9" : [
+			[ "implorara" ],
+			[ "imploraras" ],
+			[ "implorara" ],
+			[ "imploráramos" ],
+			[ "implorarais", "imploraran" ],
+			[ "imploraran" ]
+		],
+		"10" : [
+			[ "implorase" ],
+			[ "implorases" ],
+			[ "implorase" ],
+			[ "implorásemos" ],
+			[ "imploraseis", "implorasen" ],
+			[ "implorasen" ]
+		],
+		"11" : [
+			[ "implorare" ],
+			[ "implorares" ],
+			[ "implorare" ],
+			[ "imploráremos" ],
+			[ "implorareis", "imploraren" ],
+			[ "imploraren" ]
+		],
+		"12" : {
+			"1" : [ "implora" ],
+			"2" : [ "implore" ],
+			"3" : [ "imploremos" ],
+			"4" : [ "implorad" ],
+			"5" : [ "imploren" ]
+		}
+	}
+}

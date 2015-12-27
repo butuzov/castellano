@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=guindar",
+	"word" : "guindar",
+	"infinitivo" : "guindar",
+	"participio" : [ "guindado" ],
+	"gerundio" : [ "guindando" ],
+	"tenses" : {
+		"3" : [
+			[ "guindo" ],
+			[ "guindas", "guindás" ],
+			[ "guinda" ],
+			[ "guindamos" ],
+			[ "guindáis", "guindan" ],
+			[ "guindan" ]
+		],
+		"4" : [
+			[ "guindé" ],
+			[ "guindaste" ],
+			[ "guindó" ],
+			[ "guindamos" ],
+			[ "guindasteis", "guindaron" ],
+			[ "guindaron" ]
+		],
+		"5" : [
+			[ "guindaba" ],
+			[ "guindabas" ],
+			[ "guindaba" ],
+			[ "guindábamos" ],
+			[ "guindabais", "guindaban" ],
+			[ "guindaban" ]
+		],
+		"6" : [
+			[ "guindaría" ],
+			[ "guindarías" ],
+			[ "guindaría" ],
+			[ "guindaríamos" ],
+			[ "guindaríais", "guindarían" ],
+			[ "guindarían" ]
+		],
+		"7" : [
+			[ "guindaré" ],
+			[ "guindarás" ],
+			[ "guindará" ],
+			[ "guindaremos" ],
+			[ "guindaréis", "guindarán" ],
+			[ "guindarán" ]
+		],
+		"8" : [
+			[ "guinde" ],
+			[ "guindes" ],
+			[ "guinde" ],
+			[ "guindemos" ],
+			[ "guindéis", "guinden" ],
+			[ "guinden" ]
+		],
+		"9" : [
+			[ "guindara" ],
+			[ "guindaras" ],
+			[ "guindara" ],
+			[ "guindáramos" ],
+			[ "guindarais", "guindaran" ],
+			[ "guindaran" ]
+		],
+		"10" : [
+			[ "guindase" ],
+			[ "guindases" ],
+			[ "guindase" ],
+			[ "guindásemos" ],
+			[ "guindaseis", "guindasen" ],
+			[ "guindasen" ]
+		],
+		"11" : [
+			[ "guindare" ],
+			[ "guindares" ],
+			[ "guindare" ],
+			[ "guindáremos" ],
+			[ "guindareis", "guindaren" ],
+			[ "guindaren" ]
+		],
+		"12" : {
+			"1" : [ "guinda" ],
+			"2" : [ "guinde" ],
+			"3" : [ "guindemos" ],
+			"4" : [ "guindad" ],
+			"5" : [ "guinden" ]
+		}
+	}
+}

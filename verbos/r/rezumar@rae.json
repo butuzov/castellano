@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rezumar",
+	"word" : "rezumar",
+	"infinitivo" : "rezumar",
+	"participio" : [ "rezumado" ],
+	"gerundio" : [ "rezumando" ],
+	"tenses" : {
+		"3" : [
+			[ "rezumo" ],
+			[ "rezumas", "rezumás" ],
+			[ "rezuma" ],
+			[ "rezumamos" ],
+			[ "rezumáis", "rezuman" ],
+			[ "rezuman" ]
+		],
+		"4" : [
+			[ "rezumé" ],
+			[ "rezumaste" ],
+			[ "rezumó" ],
+			[ "rezumamos" ],
+			[ "rezumasteis", "rezumaron" ],
+			[ "rezumaron" ]
+		],
+		"5" : [
+			[ "rezumaba" ],
+			[ "rezumabas" ],
+			[ "rezumaba" ],
+			[ "rezumábamos" ],
+			[ "rezumabais", "rezumaban" ],
+			[ "rezumaban" ]
+		],
+		"6" : [
+			[ "rezumaría" ],
+			[ "rezumarías" ],
+			[ "rezumaría" ],
+			[ "rezumaríamos" ],
+			[ "rezumaríais", "rezumarían" ],
+			[ "rezumarían" ]
+		],
+		"7" : [
+			[ "rezumaré" ],
+			[ "rezumarás" ],
+			[ "rezumará" ],
+			[ "rezumaremos" ],
+			[ "rezumaréis", "rezumarán" ],
+			[ "rezumarán" ]
+		],
+		"8" : [
+			[ "rezume" ],
+			[ "rezumes" ],
+			[ "rezume" ],
+			[ "rezumemos" ],
+			[ "rezuméis", "rezumen" ],
+			[ "rezumen" ]
+		],
+		"9" : [
+			[ "rezumara" ],
+			[ "rezumaras" ],
+			[ "rezumara" ],
+			[ "rezumáramos" ],
+			[ "rezumarais", "rezumaran" ],
+			[ "rezumaran" ]
+		],
+		"10" : [
+			[ "rezumase" ],
+			[ "rezumases" ],
+			[ "rezumase" ],
+			[ "rezumásemos" ],
+			[ "rezumaseis", "rezumasen" ],
+			[ "rezumasen" ]
+		],
+		"11" : [
+			[ "rezumare" ],
+			[ "rezumares" ],
+			[ "rezumare" ],
+			[ "rezumáremos" ],
+			[ "rezumareis", "rezumaren" ],
+			[ "rezumaren" ]
+		],
+		"12" : {
+			"1" : [ "rezuma" ],
+			"2" : [ "rezume" ],
+			"3" : [ "rezumemos" ],
+			"4" : [ "rezumad" ],
+			"5" : [ "rezumen" ]
+		}
+	}
+}

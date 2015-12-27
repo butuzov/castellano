@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aguachar",
+	"word" : "aguachar",
+	"infinitivo" : "aguachar",
+	"participio" : [ "aguachado" ],
+	"gerundio" : [ "aguachando" ],
+	"tenses" : {
+		"3" : [
+			[ "aguacho" ],
+			[ "aguachas", "aguachás" ],
+			[ "aguacha" ],
+			[ "aguachamos" ],
+			[ "aguacháis", "aguachan" ],
+			[ "aguachan" ]
+		],
+		"4" : [
+			[ "aguaché" ],
+			[ "aguachaste" ],
+			[ "aguachó" ],
+			[ "aguachamos" ],
+			[ "aguachasteis", "aguacharon" ],
+			[ "aguacharon" ]
+		],
+		"5" : [
+			[ "aguachaba" ],
+			[ "aguachabas" ],
+			[ "aguachaba" ],
+			[ "aguachábamos" ],
+			[ "aguachabais", "aguachaban" ],
+			[ "aguachaban" ]
+		],
+		"6" : [
+			[ "aguacharía" ],
+			[ "aguacharías" ],
+			[ "aguacharía" ],
+			[ "aguacharíamos" ],
+			[ "aguacharíais", "aguacharían" ],
+			[ "aguacharían" ]
+		],
+		"7" : [
+			[ "aguacharé" ],
+			[ "aguacharás" ],
+			[ "aguachará" ],
+			[ "aguacharemos" ],
+			[ "aguacharéis", "aguacharán" ],
+			[ "aguacharán" ]
+		],
+		"8" : [
+			[ "aguache" ],
+			[ "aguaches" ],
+			[ "aguache" ],
+			[ "aguachemos" ],
+			[ "aguachéis", "aguachen" ],
+			[ "aguachen" ]
+		],
+		"9" : [
+			[ "aguachara" ],
+			[ "aguacharas" ],
+			[ "aguachara" ],
+			[ "aguacháramos" ],
+			[ "aguacharais", "aguacharan" ],
+			[ "aguacharan" ]
+		],
+		"10" : [
+			[ "aguachase" ],
+			[ "aguachases" ],
+			[ "aguachase" ],
+			[ "aguachásemos" ],
+			[ "aguachaseis", "aguachasen" ],
+			[ "aguachasen" ]
+		],
+		"11" : [
+			[ "aguachare" ],
+			[ "aguachares" ],
+			[ "aguachare" ],
+			[ "aguacháremos" ],
+			[ "aguachareis", "aguacharen" ],
+			[ "aguacharen" ]
+		],
+		"12" : {
+			"1" : [ "aguacha" ],
+			"2" : [ "aguache" ],
+			"3" : [ "aguachemos" ],
+			"4" : [ "aguachad" ],
+			"5" : [ "aguachen" ]
+		}
+	}
+}

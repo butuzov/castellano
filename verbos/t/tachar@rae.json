@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tachar",
+	"word" : "tachar",
+	"infinitivo" : "tachar",
+	"participio" : [ "tachado" ],
+	"gerundio" : [ "tachando" ],
+	"tenses" : {
+		"3" : [
+			[ "tacho" ],
+			[ "tachas", "tachás" ],
+			[ "tacha" ],
+			[ "tachamos" ],
+			[ "tacháis", "tachan" ],
+			[ "tachan" ]
+		],
+		"4" : [
+			[ "taché" ],
+			[ "tachaste" ],
+			[ "tachó" ],
+			[ "tachamos" ],
+			[ "tachasteis", "tacharon" ],
+			[ "tacharon" ]
+		],
+		"5" : [
+			[ "tachaba" ],
+			[ "tachabas" ],
+			[ "tachaba" ],
+			[ "tachábamos" ],
+			[ "tachabais", "tachaban" ],
+			[ "tachaban" ]
+		],
+		"6" : [
+			[ "tacharía" ],
+			[ "tacharías" ],
+			[ "tacharía" ],
+			[ "tacharíamos" ],
+			[ "tacharíais", "tacharían" ],
+			[ "tacharían" ]
+		],
+		"7" : [
+			[ "tacharé" ],
+			[ "tacharás" ],
+			[ "tachará" ],
+			[ "tacharemos" ],
+			[ "tacharéis", "tacharán" ],
+			[ "tacharán" ]
+		],
+		"8" : [
+			[ "tache" ],
+			[ "taches" ],
+			[ "tache" ],
+			[ "tachemos" ],
+			[ "tachéis", "tachen" ],
+			[ "tachen" ]
+		],
+		"9" : [
+			[ "tachara" ],
+			[ "tacharas" ],
+			[ "tachara" ],
+			[ "tacháramos" ],
+			[ "tacharais", "tacharan" ],
+			[ "tacharan" ]
+		],
+		"10" : [
+			[ "tachase" ],
+			[ "tachases" ],
+			[ "tachase" ],
+			[ "tachásemos" ],
+			[ "tachaseis", "tachasen" ],
+			[ "tachasen" ]
+		],
+		"11" : [
+			[ "tachare" ],
+			[ "tachares" ],
+			[ "tachare" ],
+			[ "tacháremos" ],
+			[ "tachareis", "tacharen" ],
+			[ "tacharen" ]
+		],
+		"12" : {
+			"1" : [ "tacha" ],
+			"2" : [ "tache" ],
+			"3" : [ "tachemos" ],
+			"4" : [ "tachad" ],
+			"5" : [ "tachen" ]
+		}
+	}
+}

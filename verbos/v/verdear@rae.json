@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=verdear",
+	"word" : "verdear",
+	"infinitivo" : "verdear",
+	"participio" : [ "verdeado" ],
+	"gerundio" : [ "verdeando" ],
+	"tenses" : {
+		"3" : [
+			[ "verdeo" ],
+			[ "verdeas", "verdeás" ],
+			[ "verdea" ],
+			[ "verdeamos" ],
+			[ "verdeáis", "verdean" ],
+			[ "verdean" ]
+		],
+		"4" : [
+			[ "verdeé" ],
+			[ "verdeaste" ],
+			[ "verdeó" ],
+			[ "verdeamos" ],
+			[ "verdeasteis", "verdearon" ],
+			[ "verdearon" ]
+		],
+		"5" : [
+			[ "verdeaba" ],
+			[ "verdeabas" ],
+			[ "verdeaba" ],
+			[ "verdeábamos" ],
+			[ "verdeabais", "verdeaban" ],
+			[ "verdeaban" ]
+		],
+		"6" : [
+			[ "verdearía" ],
+			[ "verdearías" ],
+			[ "verdearía" ],
+			[ "verdearíamos" ],
+			[ "verdearíais", "verdearían" ],
+			[ "verdearían" ]
+		],
+		"7" : [
+			[ "verdearé" ],
+			[ "verdearás" ],
+			[ "verdeará" ],
+			[ "verdearemos" ],
+			[ "verdearéis", "verdearán" ],
+			[ "verdearán" ]
+		],
+		"8" : [
+			[ "verdee" ],
+			[ "verdees" ],
+			[ "verdee" ],
+			[ "verdeemos" ],
+			[ "verdeéis", "verdeen" ],
+			[ "verdeen" ]
+		],
+		"9" : [
+			[ "verdeara" ],
+			[ "verdearas" ],
+			[ "verdeara" ],
+			[ "verdeáramos" ],
+			[ "verdearais", "verdearan" ],
+			[ "verdearan" ]
+		],
+		"10" : [
+			[ "verdease" ],
+			[ "verdeases" ],
+			[ "verdease" ],
+			[ "verdeásemos" ],
+			[ "verdeaseis", "verdeasen" ],
+			[ "verdeasen" ]
+		],
+		"11" : [
+			[ "verdeare" ],
+			[ "verdeares" ],
+			[ "verdeare" ],
+			[ "verdeáremos" ],
+			[ "verdeareis", "verdearen" ],
+			[ "verdearen" ]
+		],
+		"12" : {
+			"1" : [ "verdea" ],
+			"2" : [ "verdee" ],
+			"3" : [ "verdeemos" ],
+			"4" : [ "verdead" ],
+			"5" : [ "verdeen" ]
+		}
+	}
+}

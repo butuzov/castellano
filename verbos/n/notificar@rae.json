@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=notificar",
+	"word" : "notificar",
+	"infinitivo" : "notificar",
+	"participio" : [ "notificado" ],
+	"gerundio" : [ "notificando" ],
+	"tenses" : {
+		"3" : [
+			[ "notifico" ],
+			[ "notificas", "notificás" ],
+			[ "notifica" ],
+			[ "notificamos" ],
+			[ "notificáis", "notifican" ],
+			[ "notifican" ]
+		],
+		"4" : [
+			[ "notifiqué" ],
+			[ "notificaste" ],
+			[ "notificó" ],
+			[ "notificamos" ],
+			[ "notificasteis", "notificaron" ],
+			[ "notificaron" ]
+		],
+		"5" : [
+			[ "notificaba" ],
+			[ "notificabas" ],
+			[ "notificaba" ],
+			[ "notificábamos" ],
+			[ "notificabais", "notificaban" ],
+			[ "notificaban" ]
+		],
+		"6" : [
+			[ "notificaría" ],
+			[ "notificarías" ],
+			[ "notificaría" ],
+			[ "notificaríamos" ],
+			[ "notificaríais", "notificarían" ],
+			[ "notificarían" ]
+		],
+		"7" : [
+			[ "notificaré" ],
+			[ "notificarás" ],
+			[ "notificará" ],
+			[ "notificaremos" ],
+			[ "notificaréis", "notificarán" ],
+			[ "notificarán" ]
+		],
+		"8" : [
+			[ "notifique" ],
+			[ "notifiques" ],
+			[ "notifique" ],
+			[ "notifiquemos" ],
+			[ "notifiquéis", "notifiquen" ],
+			[ "notifiquen" ]
+		],
+		"9" : [
+			[ "notificara" ],
+			[ "notificaras" ],
+			[ "notificara" ],
+			[ "notificáramos" ],
+			[ "notificarais", "notificaran" ],
+			[ "notificaran" ]
+		],
+		"10" : [
+			[ "notificase" ],
+			[ "notificases" ],
+			[ "notificase" ],
+			[ "notificásemos" ],
+			[ "notificaseis", "notificasen" ],
+			[ "notificasen" ]
+		],
+		"11" : [
+			[ "notificare" ],
+			[ "notificares" ],
+			[ "notificare" ],
+			[ "notificáremos" ],
+			[ "notificareis", "notificaren" ],
+			[ "notificaren" ]
+		],
+		"12" : {
+			"1" : [ "notifica" ],
+			"2" : [ "notifique" ],
+			"3" : [ "notifiquemos" ],
+			"4" : [ "notificad" ],
+			"5" : [ "notifiquen" ]
+		}
+	}
+}

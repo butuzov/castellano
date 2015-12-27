@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=gravar",
+	"word" : "gravar",
+	"infinitivo" : "gravar",
+	"participio" : [ "gravado" ],
+	"gerundio" : [ "gravando" ],
+	"tenses" : {
+		"3" : [
+			[ "gravo" ],
+			[ "gravas", "gravás" ],
+			[ "grava" ],
+			[ "gravamos" ],
+			[ "graváis", "gravan" ],
+			[ "gravan" ]
+		],
+		"4" : [
+			[ "gravé" ],
+			[ "gravaste" ],
+			[ "gravó" ],
+			[ "gravamos" ],
+			[ "gravasteis", "gravaron" ],
+			[ "gravaron" ]
+		],
+		"5" : [
+			[ "gravaba" ],
+			[ "gravabas" ],
+			[ "gravaba" ],
+			[ "gravábamos" ],
+			[ "gravabais", "gravaban" ],
+			[ "gravaban" ]
+		],
+		"6" : [
+			[ "gravaría" ],
+			[ "gravarías" ],
+			[ "gravaría" ],
+			[ "gravaríamos" ],
+			[ "gravaríais", "gravarían" ],
+			[ "gravarían" ]
+		],
+		"7" : [
+			[ "gravaré" ],
+			[ "gravarás" ],
+			[ "gravará" ],
+			[ "gravaremos" ],
+			[ "gravaréis", "gravarán" ],
+			[ "gravarán" ]
+		],
+		"8" : [
+			[ "grave" ],
+			[ "graves" ],
+			[ "grave" ],
+			[ "gravemos" ],
+			[ "gravéis", "graven" ],
+			[ "graven" ]
+		],
+		"9" : [
+			[ "gravara" ],
+			[ "gravaras" ],
+			[ "gravara" ],
+			[ "graváramos" ],
+			[ "gravarais", "gravaran" ],
+			[ "gravaran" ]
+		],
+		"10" : [
+			[ "gravase" ],
+			[ "gravases" ],
+			[ "gravase" ],
+			[ "gravásemos" ],
+			[ "gravaseis", "gravasen" ],
+			[ "gravasen" ]
+		],
+		"11" : [
+			[ "gravare" ],
+			[ "gravares" ],
+			[ "gravare" ],
+			[ "graváremos" ],
+			[ "gravareis", "gravaren" ],
+			[ "gravaren" ]
+		],
+		"12" : {
+			"1" : [ "grava" ],
+			"2" : [ "grave" ],
+			"3" : [ "gravemos" ],
+			"4" : [ "gravad" ],
+			"5" : [ "graven" ]
+		}
+	}
+}

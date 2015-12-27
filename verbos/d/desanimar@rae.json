@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desanimar",
+	"word" : "desanimar",
+	"infinitivo" : "desanimar",
+	"participio" : [ "desanimado" ],
+	"gerundio" : [ "desanimando" ],
+	"tenses" : {
+		"3" : [
+			[ "desanimo" ],
+			[ "desanimas", "desanimás" ],
+			[ "desanima" ],
+			[ "desanimamos" ],
+			[ "desanimáis", "desaniman" ],
+			[ "desaniman" ]
+		],
+		"4" : [
+			[ "desanimé" ],
+			[ "desanimaste" ],
+			[ "desanimó" ],
+			[ "desanimamos" ],
+			[ "desanimasteis", "desanimaron" ],
+			[ "desanimaron" ]
+		],
+		"5" : [
+			[ "desanimaba" ],
+			[ "desanimabas" ],
+			[ "desanimaba" ],
+			[ "desanimábamos" ],
+			[ "desanimabais", "desanimaban" ],
+			[ "desanimaban" ]
+		],
+		"6" : [
+			[ "desanimaría" ],
+			[ "desanimarías" ],
+			[ "desanimaría" ],
+			[ "desanimaríamos" ],
+			[ "desanimaríais", "desanimarían" ],
+			[ "desanimarían" ]
+		],
+		"7" : [
+			[ "desanimaré" ],
+			[ "desanimarás" ],
+			[ "desanimará" ],
+			[ "desanimaremos" ],
+			[ "desanimaréis", "desanimarán" ],
+			[ "desanimarán" ]
+		],
+		"8" : [
+			[ "desanime" ],
+			[ "desanimes" ],
+			[ "desanime" ],
+			[ "desanimemos" ],
+			[ "desaniméis", "desanimen" ],
+			[ "desanimen" ]
+		],
+		"9" : [
+			[ "desanimara" ],
+			[ "desanimaras" ],
+			[ "desanimara" ],
+			[ "desanimáramos" ],
+			[ "desanimarais", "desanimaran" ],
+			[ "desanimaran" ]
+		],
+		"10" : [
+			[ "desanimase" ],
+			[ "desanimases" ],
+			[ "desanimase" ],
+			[ "desanimásemos" ],
+			[ "desanimaseis", "desanimasen" ],
+			[ "desanimasen" ]
+		],
+		"11" : [
+			[ "desanimare" ],
+			[ "desanimares" ],
+			[ "desanimare" ],
+			[ "desanimáremos" ],
+			[ "desanimareis", "desanimaren" ],
+			[ "desanimaren" ]
+		],
+		"12" : {
+			"1" : [ "desanima" ],
+			"2" : [ "desanime" ],
+			"3" : [ "desanimemos" ],
+			"4" : [ "desanimad" ],
+			"5" : [ "desanimen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=celar",
+	"word" : "celar",
+	"infinitivo" : "celar",
+	"participio" : [ "celado" ],
+	"gerundio" : [ "celando" ],
+	"tenses" : {
+		"3" : [
+			[ "celo" ],
+			[ "celas", "celás" ],
+			[ "cela" ],
+			[ "celamos" ],
+			[ "celáis", "celan" ],
+			[ "celan" ]
+		],
+		"4" : [
+			[ "celé" ],
+			[ "celaste" ],
+			[ "celó" ],
+			[ "celamos" ],
+			[ "celasteis", "celaron" ],
+			[ "celaron" ]
+		],
+		"5" : [
+			[ "celaba" ],
+			[ "celabas" ],
+			[ "celaba" ],
+			[ "celábamos" ],
+			[ "celabais", "celaban" ],
+			[ "celaban" ]
+		],
+		"6" : [
+			[ "celaría" ],
+			[ "celarías" ],
+			[ "celaría" ],
+			[ "celaríamos" ],
+			[ "celaríais", "celarían" ],
+			[ "celarían" ]
+		],
+		"7" : [
+			[ "celaré" ],
+			[ "celarás" ],
+			[ "celará" ],
+			[ "celaremos" ],
+			[ "celaréis", "celarán" ],
+			[ "celarán" ]
+		],
+		"8" : [
+			[ "cele" ],
+			[ "celes" ],
+			[ "cele" ],
+			[ "celemos" ],
+			[ "celéis", "celen" ],
+			[ "celen" ]
+		],
+		"9" : [
+			[ "celara" ],
+			[ "celaras" ],
+			[ "celara" ],
+			[ "celáramos" ],
+			[ "celarais", "celaran" ],
+			[ "celaran" ]
+		],
+		"10" : [
+			[ "celase" ],
+			[ "celases" ],
+			[ "celase" ],
+			[ "celásemos" ],
+			[ "celaseis", "celasen" ],
+			[ "celasen" ]
+		],
+		"11" : [
+			[ "celare" ],
+			[ "celares" ],
+			[ "celare" ],
+			[ "celáremos" ],
+			[ "celareis", "celaren" ],
+			[ "celaren" ]
+		],
+		"12" : {
+			"1" : [ "cela" ],
+			"2" : [ "cele" ],
+			"3" : [ "celemos" ],
+			"4" : [ "celad" ],
+			"5" : [ "celen" ]
+		}
+	}
+}

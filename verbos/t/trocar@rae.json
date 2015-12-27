@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trocar",
+	"word" : "trocar",
+	"infinitivo" : "trocar",
+	"participio" : [ "trocado" ],
+	"gerundio" : [ "trocando" ],
+	"tenses" : {
+		"3" : [
+			[ "trueco" ],
+			[ "truecas", "trocás" ],
+			[ "trueca" ],
+			[ "trocamos" ],
+			[ "trocáis", "truecan" ],
+			[ "truecan" ]
+		],
+		"4" : [
+			[ "troqué" ],
+			[ "trocaste" ],
+			[ "trocó" ],
+			[ "trocamos" ],
+			[ "trocasteis", "trocaron" ],
+			[ "trocaron" ]
+		],
+		"5" : [
+			[ "trocaba" ],
+			[ "trocabas" ],
+			[ "trocaba" ],
+			[ "trocábamos" ],
+			[ "trocabais", "trocaban" ],
+			[ "trocaban" ]
+		],
+		"6" : [
+			[ "trocaría" ],
+			[ "trocarías" ],
+			[ "trocaría" ],
+			[ "trocaríamos" ],
+			[ "trocaríais", "trocarían" ],
+			[ "trocarían" ]
+		],
+		"7" : [
+			[ "trocaré" ],
+			[ "trocarás" ],
+			[ "trocará" ],
+			[ "trocaremos" ],
+			[ "trocaréis", "trocarán" ],
+			[ "trocarán" ]
+		],
+		"8" : [
+			[ "trueque" ],
+			[ "trueques" ],
+			[ "trueque" ],
+			[ "troquemos" ],
+			[ "troquéis", "truequen" ],
+			[ "truequen" ]
+		],
+		"9" : [
+			[ "trocara" ],
+			[ "trocaras" ],
+			[ "trocara" ],
+			[ "trocáramos" ],
+			[ "trocarais", "trocaran" ],
+			[ "trocaran" ]
+		],
+		"10" : [
+			[ "trocase" ],
+			[ "trocases" ],
+			[ "trocase" ],
+			[ "trocásemos" ],
+			[ "trocaseis", "trocasen" ],
+			[ "trocasen" ]
+		],
+		"11" : [
+			[ "trocare" ],
+			[ "trocares" ],
+			[ "trocare" ],
+			[ "trocáremos" ],
+			[ "trocareis", "trocaren" ],
+			[ "trocaren" ]
+		],
+		"12" : {
+			"1" : [ "trueca" ],
+			"2" : [ "trueque" ],
+			"3" : [ "troquemos" ],
+			"4" : [ "trocad" ],
+			"5" : [ "truequen" ]
+		}
+	}
+}

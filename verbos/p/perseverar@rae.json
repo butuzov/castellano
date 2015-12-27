@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=perseverar",
+	"word" : "perseverar",
+	"infinitivo" : "perseverar",
+	"participio" : [ "perseverado" ],
+	"gerundio" : [ "perseverando" ],
+	"tenses" : {
+		"3" : [
+			[ "persevero" ],
+			[ "perseveras", "perseverás" ],
+			[ "persevera" ],
+			[ "perseveramos" ],
+			[ "perseveráis", "perseveran" ],
+			[ "perseveran" ]
+		],
+		"4" : [
+			[ "perseveré" ],
+			[ "perseveraste" ],
+			[ "perseveró" ],
+			[ "perseveramos" ],
+			[ "perseverasteis", "perseveraron" ],
+			[ "perseveraron" ]
+		],
+		"5" : [
+			[ "perseveraba" ],
+			[ "perseverabas" ],
+			[ "perseveraba" ],
+			[ "perseverábamos" ],
+			[ "perseverabais", "perseveraban" ],
+			[ "perseveraban" ]
+		],
+		"6" : [
+			[ "perseveraría" ],
+			[ "perseverarías" ],
+			[ "perseveraría" ],
+			[ "perseveraríamos" ],
+			[ "perseveraríais", "perseverarían" ],
+			[ "perseverarían" ]
+		],
+		"7" : [
+			[ "perseveraré" ],
+			[ "perseverarás" ],
+			[ "perseverará" ],
+			[ "perseveraremos" ],
+			[ "perseveraréis", "perseverarán" ],
+			[ "perseverarán" ]
+		],
+		"8" : [
+			[ "persevere" ],
+			[ "perseveres" ],
+			[ "persevere" ],
+			[ "perseveremos" ],
+			[ "perseveréis", "perseveren" ],
+			[ "perseveren" ]
+		],
+		"9" : [
+			[ "perseverara" ],
+			[ "perseveraras" ],
+			[ "perseverara" ],
+			[ "perseveráramos" ],
+			[ "perseverarais", "perseveraran" ],
+			[ "perseveraran" ]
+		],
+		"10" : [
+			[ "perseverase" ],
+			[ "perseverases" ],
+			[ "perseverase" ],
+			[ "perseverásemos" ],
+			[ "perseveraseis", "perseverasen" ],
+			[ "perseverasen" ]
+		],
+		"11" : [
+			[ "perseverare" ],
+			[ "perseverares" ],
+			[ "perseverare" ],
+			[ "perseveráremos" ],
+			[ "perseverareis", "perseveraren" ],
+			[ "perseveraren" ]
+		],
+		"12" : {
+			"1" : [ "persevera" ],
+			"2" : [ "persevere" ],
+			"3" : [ "perseveremos" ],
+			"4" : [ "perseverad" ],
+			"5" : [ "perseveren" ]
+		}
+	}
+}

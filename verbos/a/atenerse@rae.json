@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atenerse",
+	"word" : "atenerse",
+	"infinitivo" : "atenerse",
+	"participio" : [ "atenido" ],
+	"gerundio" : [ "ateniéndome", "ateniéndote" ],
+	"tenses" : {
+		"3" : [
+			[ "me atengo" ],
+			[ "te atienes", "te atenés" ],
+			[ "se atiene" ],
+			[ "nos atenemos" ],
+			[ "os atenéis", "se atienen" ],
+			[ "se atienen" ]
+		],
+		"4" : [
+			[ "me atuve" ],
+			[ "te atuviste" ],
+			[ "se atuvo" ],
+			[ "nos atuvimos" ],
+			[ "os atuvisteis", "se atuvieron" ],
+			[ "se atuvieron" ]
+		],
+		"5" : [
+			[ "me atenía" ],
+			[ "te atenías" ],
+			[ "se atenía" ],
+			[ "nos ateníamos" ],
+			[ "os ateníais", "se atenían" ],
+			[ "se atenían" ]
+		],
+		"6" : [
+			[ "me atendría" ],
+			[ "te atendrías" ],
+			[ "se atendría" ],
+			[ "nos atendríamos" ],
+			[ "os atendríais", "se atendrían" ],
+			[ "se atendrían" ]
+		],
+		"7" : [
+			[ "me atendré" ],
+			[ "te atendrás" ],
+			[ "se atendrá" ],
+			[ "nos atendremos" ],
+			[ "os atendréis", "se atendrán" ],
+			[ "se atendrán" ]
+		],
+		"8" : [
+			[ "me atenga" ],
+			[ "te atengas" ],
+			[ "se atenga" ],
+			[ "nos atengamos" ],
+			[ "os atengáis", "se atengan" ],
+			[ "se atengan" ]
+		],
+		"9" : [
+			[ "me atuviera" ],
+			[ "te atuvieras" ],
+			[ "se atuviera" ],
+			[ "nos atuviéramos" ],
+			[ "os atuvierais", "se atuvieran" ],
+			[ "se atuvieran" ]
+		],
+		"10" : [
+			[ "me atuviese" ],
+			[ "te atuvieses" ],
+			[ "se atuviese" ],
+			[ "nos atuviésemos" ],
+			[ "os atuvieseis", "se atuviesen" ],
+			[ "se atuviesen" ]
+		],
+		"11" : [
+			[ "me atuviere" ],
+			[ "te atuvieres" ],
+			[ "se atuviere" ],
+			[ "nos atuviéremos" ],
+			[ "os atuviereis", "se atuvieren" ],
+			[ "se atuvieren" ]
+		],
+		"12" : {
+			"1" : [ "atente" ],
+			"2" : [ "atenga" ],
+			"3" : [ "atengamos" ],
+			"4" : [ "ateneos" ],
+			"5" : [ "aténganse" ]
+		}
+	}
+}

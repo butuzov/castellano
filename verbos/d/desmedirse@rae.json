@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desmedirse",
+	"word" : "desmedirse",
+	"infinitivo" : "desmedirse",
+	"participio" : [ "desmedido" ],
+	"gerundio" : [ "desmidiéndome", "desmidiéndote" ],
+	"tenses" : {
+		"3" : [
+			[ "me desmido" ],
+			[ "te desmides", "te desmedís" ],
+			[ "se desmide" ],
+			[ "nos desmedimos" ],
+			[ "os desmedís", "se desmiden" ],
+			[ "se desmiden" ]
+		],
+		"4" : [
+			[ "me desmedí" ],
+			[ "te desmediste" ],
+			[ "se desmidió" ],
+			[ "nos desmedimos" ],
+			[ "os desmedisteis", "se desmidieron" ],
+			[ "se desmidieron" ]
+		],
+		"5" : [
+			[ "me desmedía" ],
+			[ "te desmedías" ],
+			[ "se desmedía" ],
+			[ "nos desmedíamos" ],
+			[ "os desmedíais", "se desmedían" ],
+			[ "se desmedían" ]
+		],
+		"6" : [
+			[ "me desmediría" ],
+			[ "te desmedirías" ],
+			[ "se desmediría" ],
+			[ "nos desmediríamos" ],
+			[ "os desmediríais", "se desmedirían" ],
+			[ "se desmedirían" ]
+		],
+		"7" : [
+			[ "me desmediré" ],
+			[ "te desmedirás" ],
+			[ "se desmedirá" ],
+			[ "nos desmediremos" ],
+			[ "os desmediréis", "se desmedirán" ],
+			[ "se desmedirán" ]
+		],
+		"8" : [
+			[ "me desmida" ],
+			[ "te desmidas" ],
+			[ "se desmida" ],
+			[ "nos desmidamos" ],
+			[ "os desmidáis", "se desmidan" ],
+			[ "se desmidan" ]
+		],
+		"9" : [
+			[ "me desmidiera" ],
+			[ "te desmidieras" ],
+			[ "se desmidiera" ],
+			[ "nos desmidiéramos" ],
+			[ "os desmidierais", "se desmidieran" ],
+			[ "se desmidieran" ]
+		],
+		"10" : [
+			[ "me desmidiese" ],
+			[ "te desmidieses" ],
+			[ "se desmidiese" ],
+			[ "nos desmidiésemos" ],
+			[ "os desmidieseis", "se desmidiesen" ],
+			[ "se desmidiesen" ]
+		],
+		"11" : [
+			[ "me desmidiere" ],
+			[ "te desmidieres" ],
+			[ "se desmidiere" ],
+			[ "nos desmidiéremos" ],
+			[ "os desmidiereis", "se desmidieren" ],
+			[ "se desmidieren" ]
+		],
+		"12" : {
+			"1" : [ "desmídete" ],
+			"2" : [ "desmida" ],
+			"3" : [ "desmidamos" ],
+			"4" : [ "desmedíos" ],
+			"5" : [ "desmídanse" ]
+		}
+	}
+}

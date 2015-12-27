@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ovillar",
+	"word" : "ovillar",
+	"infinitivo" : "ovillar",
+	"participio" : [ "ovillado" ],
+	"gerundio" : [ "ovillando" ],
+	"tenses" : {
+		"3" : [
+			[ "ovillo" ],
+			[ "ovillas", "ovillás" ],
+			[ "ovilla" ],
+			[ "ovillamos" ],
+			[ "ovilláis", "ovillan" ],
+			[ "ovillan" ]
+		],
+		"4" : [
+			[ "ovillé" ],
+			[ "ovillaste" ],
+			[ "ovilló" ],
+			[ "ovillamos" ],
+			[ "ovillasteis", "ovillaron" ],
+			[ "ovillaron" ]
+		],
+		"5" : [
+			[ "ovillaba" ],
+			[ "ovillabas" ],
+			[ "ovillaba" ],
+			[ "ovillábamos" ],
+			[ "ovillabais", "ovillaban" ],
+			[ "ovillaban" ]
+		],
+		"6" : [
+			[ "ovillaría" ],
+			[ "ovillarías" ],
+			[ "ovillaría" ],
+			[ "ovillaríamos" ],
+			[ "ovillaríais", "ovillarían" ],
+			[ "ovillarían" ]
+		],
+		"7" : [
+			[ "ovillaré" ],
+			[ "ovillarás" ],
+			[ "ovillará" ],
+			[ "ovillaremos" ],
+			[ "ovillaréis", "ovillarán" ],
+			[ "ovillarán" ]
+		],
+		"8" : [
+			[ "oville" ],
+			[ "ovilles" ],
+			[ "oville" ],
+			[ "ovillemos" ],
+			[ "ovilléis", "ovillen" ],
+			[ "ovillen" ]
+		],
+		"9" : [
+			[ "ovillara" ],
+			[ "ovillaras" ],
+			[ "ovillara" ],
+			[ "ovilláramos" ],
+			[ "ovillarais", "ovillaran" ],
+			[ "ovillaran" ]
+		],
+		"10" : [
+			[ "ovillase" ],
+			[ "ovillases" ],
+			[ "ovillase" ],
+			[ "ovillásemos" ],
+			[ "ovillaseis", "ovillasen" ],
+			[ "ovillasen" ]
+		],
+		"11" : [
+			[ "ovillare" ],
+			[ "ovillares" ],
+			[ "ovillare" ],
+			[ "ovilláremos" ],
+			[ "ovillareis", "ovillaren" ],
+			[ "ovillaren" ]
+		],
+		"12" : {
+			"1" : [ "ovilla" ],
+			"2" : [ "oville" ],
+			"3" : [ "ovillemos" ],
+			"4" : [ "ovillad" ],
+			"5" : [ "ovillen" ]
+		}
+	}
+}

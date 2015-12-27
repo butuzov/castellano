@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=constituir",
+	"word" : "constituir",
+	"infinitivo" : "constituir",
+	"participio" : [ "constituido" ],
+	"gerundio" : [ "constituyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "constituyo" ],
+			[ "constituyes", "constituís" ],
+			[ "constituye" ],
+			[ "constituimos" ],
+			[ "constituís", "constituyen" ],
+			[ "constituyen" ]
+		],
+		"4" : [
+			[ "constituí" ],
+			[ "constituiste" ],
+			[ "constituyó" ],
+			[ "constituimos" ],
+			[ "constituisteis", "constituyeron" ],
+			[ "constituyeron" ]
+		],
+		"5" : [
+			[ "constituía" ],
+			[ "constituías" ],
+			[ "constituía" ],
+			[ "constituíamos" ],
+			[ "constituíais", "constituían" ],
+			[ "constituían" ]
+		],
+		"6" : [
+			[ "constituiría" ],
+			[ "constituirías" ],
+			[ "constituiría" ],
+			[ "constituiríamos" ],
+			[ "constituiríais", "constituirían" ],
+			[ "constituirían" ]
+		],
+		"7" : [
+			[ "constituiré" ],
+			[ "constituirás" ],
+			[ "constituirá" ],
+			[ "constituiremos" ],
+			[ "constituiréis", "constituirán" ],
+			[ "constituirán" ]
+		],
+		"8" : [
+			[ "constituya" ],
+			[ "constituyas" ],
+			[ "constituya" ],
+			[ "constituyamos" ],
+			[ "constituyáis", "constituyan" ],
+			[ "constituyan" ]
+		],
+		"9" : [
+			[ "constituyera" ],
+			[ "constituyeras" ],
+			[ "constituyera" ],
+			[ "constituyéramos" ],
+			[ "constituyerais", "constituyeran" ],
+			[ "constituyeran" ]
+		],
+		"10" : [
+			[ "constituyese" ],
+			[ "constituyeses" ],
+			[ "constituyese" ],
+			[ "constituyésemos" ],
+			[ "constituyeseis", "constituyesen" ],
+			[ "constituyesen" ]
+		],
+		"11" : [
+			[ "constituyere" ],
+			[ "constituyeres" ],
+			[ "constituyere" ],
+			[ "constituyéremos" ],
+			[ "constituyereis", "constituyeren" ],
+			[ "constituyeren" ]
+		],
+		"12" : {
+			"1" : [ "constituye" ],
+			"2" : [ "constituya" ],
+			"3" : [ "constituyamos" ],
+			"4" : [ "constituid" ],
+			"5" : [ "constituyan" ]
+		}
+	}
+}

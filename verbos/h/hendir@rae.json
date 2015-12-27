@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hendir",
+	"word" : "hendir",
+	"infinitivo" : "hendir",
+	"participio" : [ "hendido" ],
+	"gerundio" : [ "hendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "hiendo" ],
+			[ "hiendes", "hendís" ],
+			[ "hiende" ],
+			[ "hendimos" ],
+			[ "hendís", "hienden" ],
+			[ "hienden" ]
+		],
+		"4" : [
+			[ "hendí" ],
+			[ "hendiste" ],
+			[ "hendió" ],
+			[ "hendimos" ],
+			[ "hendisteis", "hendieron" ],
+			[ "hendieron" ]
+		],
+		"5" : [
+			[ "hendía" ],
+			[ "hendías" ],
+			[ "hendía" ],
+			[ "hendíamos" ],
+			[ "hendíais", "hendían" ],
+			[ "hendían" ]
+		],
+		"6" : [
+			[ "hendiría" ],
+			[ "hendirías" ],
+			[ "hendiría" ],
+			[ "hendiríamos" ],
+			[ "hendiríais", "hendirían" ],
+			[ "hendirían" ]
+		],
+		"7" : [
+			[ "hendiré" ],
+			[ "hendirás" ],
+			[ "hendirá" ],
+			[ "hendiremos" ],
+			[ "hendiréis", "hendirán" ],
+			[ "hendirán" ]
+		],
+		"8" : [
+			[ "hienda" ],
+			[ "hiendas" ],
+			[ "hienda" ],
+			[ "hendamos" ],
+			[ "hendáis", "hiendan" ],
+			[ "hiendan" ]
+		],
+		"9" : [
+			[ "hendiera" ],
+			[ "hendieras" ],
+			[ "hendiera" ],
+			[ "hendiéramos" ],
+			[ "hendierais", "hendieran" ],
+			[ "hendieran" ]
+		],
+		"10" : [
+			[ "hendiese" ],
+			[ "hendieses" ],
+			[ "hendiese" ],
+			[ "hendiésemos" ],
+			[ "hendieseis", "hendiesen" ],
+			[ "hendiesen" ]
+		],
+		"11" : [
+			[ "hendiere" ],
+			[ "hendieres" ],
+			[ "hendiere" ],
+			[ "hendiéremos" ],
+			[ "hendiereis", "hendieren" ],
+			[ "hendieren" ]
+		],
+		"12" : {
+			"1" : [ "hiende" ],
+			"2" : [ "hienda" ],
+			"3" : [ "hendamos" ],
+			"4" : [ "hendid" ],
+			"5" : [ "hiendan" ]
+		}
+	}
+}

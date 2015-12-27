@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=marear",
+	"word" : "marear",
+	"infinitivo" : "marear",
+	"participio" : [ "mareado" ],
+	"gerundio" : [ "mareando" ],
+	"tenses" : {
+		"3" : [
+			[ "mareo" ],
+			[ "mareas", "mareás" ],
+			[ "marea" ],
+			[ "mareamos" ],
+			[ "mareáis", "marean" ],
+			[ "marean" ]
+		],
+		"4" : [
+			[ "mareé" ],
+			[ "mareaste" ],
+			[ "mareó" ],
+			[ "mareamos" ],
+			[ "mareasteis", "marearon" ],
+			[ "marearon" ]
+		],
+		"5" : [
+			[ "mareaba" ],
+			[ "mareabas" ],
+			[ "mareaba" ],
+			[ "mareábamos" ],
+			[ "mareabais", "mareaban" ],
+			[ "mareaban" ]
+		],
+		"6" : [
+			[ "marearía" ],
+			[ "marearías" ],
+			[ "marearía" ],
+			[ "marearíamos" ],
+			[ "marearíais", "marearían" ],
+			[ "marearían" ]
+		],
+		"7" : [
+			[ "marearé" ],
+			[ "marearás" ],
+			[ "mareará" ],
+			[ "marearemos" ],
+			[ "marearéis", "marearán" ],
+			[ "marearán" ]
+		],
+		"8" : [
+			[ "maree" ],
+			[ "marees" ],
+			[ "maree" ],
+			[ "mareemos" ],
+			[ "mareéis", "mareen" ],
+			[ "mareen" ]
+		],
+		"9" : [
+			[ "mareara" ],
+			[ "marearas" ],
+			[ "mareara" ],
+			[ "mareáramos" ],
+			[ "marearais", "marearan" ],
+			[ "marearan" ]
+		],
+		"10" : [
+			[ "marease" ],
+			[ "mareases" ],
+			[ "marease" ],
+			[ "mareásemos" ],
+			[ "mareaseis", "mareasen" ],
+			[ "mareasen" ]
+		],
+		"11" : [
+			[ "mareare" ],
+			[ "mareares" ],
+			[ "mareare" ],
+			[ "mareáremos" ],
+			[ "mareareis", "marearen" ],
+			[ "marearen" ]
+		],
+		"12" : {
+			"1" : [ "marea" ],
+			"2" : [ "maree" ],
+			"3" : [ "mareemos" ],
+			"4" : [ "maread" ],
+			"5" : [ "mareen" ]
+		}
+	}
+}

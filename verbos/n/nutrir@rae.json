@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=nutrir",
+	"word" : "nutrir",
+	"infinitivo" : "nutrir",
+	"participio" : [ "nutrido" ],
+	"gerundio" : [ "nutriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "nutro" ],
+			[ "nutres", "nutrís" ],
+			[ "nutre" ],
+			[ "nutrimos" ],
+			[ "nutrís", "nutren" ],
+			[ "nutren" ]
+		],
+		"4" : [
+			[ "nutrí" ],
+			[ "nutriste" ],
+			[ "nutrió" ],
+			[ "nutrimos" ],
+			[ "nutristeis", "nutrieron" ],
+			[ "nutrieron" ]
+		],
+		"5" : [
+			[ "nutría" ],
+			[ "nutrías" ],
+			[ "nutría" ],
+			[ "nutríamos" ],
+			[ "nutríais", "nutrían" ],
+			[ "nutrían" ]
+		],
+		"6" : [
+			[ "nutriría" ],
+			[ "nutrirías" ],
+			[ "nutriría" ],
+			[ "nutriríamos" ],
+			[ "nutriríais", "nutrirían" ],
+			[ "nutrirían" ]
+		],
+		"7" : [
+			[ "nutriré" ],
+			[ "nutrirás" ],
+			[ "nutrirá" ],
+			[ "nutriremos" ],
+			[ "nutriréis", "nutrirán" ],
+			[ "nutrirán" ]
+		],
+		"8" : [
+			[ "nutra" ],
+			[ "nutras" ],
+			[ "nutra" ],
+			[ "nutramos" ],
+			[ "nutráis", "nutran" ],
+			[ "nutran" ]
+		],
+		"9" : [
+			[ "nutriera" ],
+			[ "nutrieras" ],
+			[ "nutriera" ],
+			[ "nutriéramos" ],
+			[ "nutrierais", "nutrieran" ],
+			[ "nutrieran" ]
+		],
+		"10" : [
+			[ "nutriese" ],
+			[ "nutrieses" ],
+			[ "nutriese" ],
+			[ "nutriésemos" ],
+			[ "nutrieseis", "nutriesen" ],
+			[ "nutriesen" ]
+		],
+		"11" : [
+			[ "nutriere" ],
+			[ "nutrieres" ],
+			[ "nutriere" ],
+			[ "nutriéremos" ],
+			[ "nutriereis", "nutrieren" ],
+			[ "nutrieren" ]
+		],
+		"12" : {
+			"1" : [ "nutre" ],
+			"2" : [ "nutra" ],
+			"3" : [ "nutramos" ],
+			"4" : [ "nutrid" ],
+			"5" : [ "nutran" ]
+		}
+	}
+}

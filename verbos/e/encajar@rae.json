@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encajar",
+	"word" : "encajar",
+	"infinitivo" : "encajar",
+	"participio" : [ "encajado" ],
+	"gerundio" : [ "encajando" ],
+	"tenses" : {
+		"3" : [
+			[ "encajo" ],
+			[ "encajas", "encajás" ],
+			[ "encaja" ],
+			[ "encajamos" ],
+			[ "encajáis", "encajan" ],
+			[ "encajan" ]
+		],
+		"4" : [
+			[ "encajé" ],
+			[ "encajaste" ],
+			[ "encajó" ],
+			[ "encajamos" ],
+			[ "encajasteis", "encajaron" ],
+			[ "encajaron" ]
+		],
+		"5" : [
+			[ "encajaba" ],
+			[ "encajabas" ],
+			[ "encajaba" ],
+			[ "encajábamos" ],
+			[ "encajabais", "encajaban" ],
+			[ "encajaban" ]
+		],
+		"6" : [
+			[ "encajaría" ],
+			[ "encajarías" ],
+			[ "encajaría" ],
+			[ "encajaríamos" ],
+			[ "encajaríais", "encajarían" ],
+			[ "encajarían" ]
+		],
+		"7" : [
+			[ "encajaré" ],
+			[ "encajarás" ],
+			[ "encajará" ],
+			[ "encajaremos" ],
+			[ "encajaréis", "encajarán" ],
+			[ "encajarán" ]
+		],
+		"8" : [
+			[ "encaje" ],
+			[ "encajes" ],
+			[ "encaje" ],
+			[ "encajemos" ],
+			[ "encajéis", "encajen" ],
+			[ "encajen" ]
+		],
+		"9" : [
+			[ "encajara" ],
+			[ "encajaras" ],
+			[ "encajara" ],
+			[ "encajáramos" ],
+			[ "encajarais", "encajaran" ],
+			[ "encajaran" ]
+		],
+		"10" : [
+			[ "encajase" ],
+			[ "encajases" ],
+			[ "encajase" ],
+			[ "encajásemos" ],
+			[ "encajaseis", "encajasen" ],
+			[ "encajasen" ]
+		],
+		"11" : [
+			[ "encajare" ],
+			[ "encajares" ],
+			[ "encajare" ],
+			[ "encajáremos" ],
+			[ "encajareis", "encajaren" ],
+			[ "encajaren" ]
+		],
+		"12" : {
+			"1" : [ "encaja" ],
+			"2" : [ "encaje" ],
+			"3" : [ "encajemos" ],
+			"4" : [ "encajad" ],
+			"5" : [ "encajen" ]
+		}
+	}
+}

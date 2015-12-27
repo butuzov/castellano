@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=discordar",
+	"word" : "discordar",
+	"infinitivo" : "discordar",
+	"participio" : [ "discordado" ],
+	"gerundio" : [ "discordando" ],
+	"tenses" : {
+		"3" : [
+			[ "discuerdo" ],
+			[ "discuerdas", "discordás" ],
+			[ "discuerda" ],
+			[ "discordamos" ],
+			[ "discordáis", "discuerdan" ],
+			[ "discuerdan" ]
+		],
+		"4" : [
+			[ "discordé" ],
+			[ "discordaste" ],
+			[ "discordó" ],
+			[ "discordamos" ],
+			[ "discordasteis", "discordaron" ],
+			[ "discordaron" ]
+		],
+		"5" : [
+			[ "discordaba" ],
+			[ "discordabas" ],
+			[ "discordaba" ],
+			[ "discordábamos" ],
+			[ "discordabais", "discordaban" ],
+			[ "discordaban" ]
+		],
+		"6" : [
+			[ "discordaría" ],
+			[ "discordarías" ],
+			[ "discordaría" ],
+			[ "discordaríamos" ],
+			[ "discordaríais", "discordarían" ],
+			[ "discordarían" ]
+		],
+		"7" : [
+			[ "discordaré" ],
+			[ "discordarás" ],
+			[ "discordará" ],
+			[ "discordaremos" ],
+			[ "discordaréis", "discordarán" ],
+			[ "discordarán" ]
+		],
+		"8" : [
+			[ "discuerde" ],
+			[ "discuerdes" ],
+			[ "discuerde" ],
+			[ "discordemos" ],
+			[ "discordéis", "discuerden" ],
+			[ "discuerden" ]
+		],
+		"9" : [
+			[ "discordara" ],
+			[ "discordaras" ],
+			[ "discordara" ],
+			[ "discordáramos" ],
+			[ "discordarais", "discordaran" ],
+			[ "discordaran" ]
+		],
+		"10" : [
+			[ "discordase" ],
+			[ "discordases" ],
+			[ "discordase" ],
+			[ "discordásemos" ],
+			[ "discordaseis", "discordasen" ],
+			[ "discordasen" ]
+		],
+		"11" : [
+			[ "discordare" ],
+			[ "discordares" ],
+			[ "discordare" ],
+			[ "discordáremos" ],
+			[ "discordareis", "discordaren" ],
+			[ "discordaren" ]
+		],
+		"12" : {
+			"1" : [ "discuerda" ],
+			"2" : [ "discuerde" ],
+			"3" : [ "discordemos" ],
+			"4" : [ "discordad" ],
+			"5" : [ "discuerden" ]
+		}
+	}
+}

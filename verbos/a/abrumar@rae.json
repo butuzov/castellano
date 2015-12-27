@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=abrumar",
+	"word" : "abrumar",
+	"infinitivo" : "abrumar",
+	"participio" : [ "abrumado" ],
+	"gerundio" : [ "abrumando" ],
+	"tenses" : {
+		"3" : [
+			[ "abrumo" ],
+			[ "abrumas", "abrumás" ],
+			[ "abruma" ],
+			[ "abrumamos" ],
+			[ "abrumáis", "abruman" ],
+			[ "abruman" ]
+		],
+		"4" : [
+			[ "abrumé" ],
+			[ "abrumaste" ],
+			[ "abrumó" ],
+			[ "abrumamos" ],
+			[ "abrumasteis", "abrumaron" ],
+			[ "abrumaron" ]
+		],
+		"5" : [
+			[ "abrumaba" ],
+			[ "abrumabas" ],
+			[ "abrumaba" ],
+			[ "abrumábamos" ],
+			[ "abrumabais", "abrumaban" ],
+			[ "abrumaban" ]
+		],
+		"6" : [
+			[ "abrumaría" ],
+			[ "abrumarías" ],
+			[ "abrumaría" ],
+			[ "abrumaríamos" ],
+			[ "abrumaríais", "abrumarían" ],
+			[ "abrumarían" ]
+		],
+		"7" : [
+			[ "abrumaré" ],
+			[ "abrumarás" ],
+			[ "abrumará" ],
+			[ "abrumaremos" ],
+			[ "abrumaréis", "abrumarán" ],
+			[ "abrumarán" ]
+		],
+		"8" : [
+			[ "abrume" ],
+			[ "abrumes" ],
+			[ "abrume" ],
+			[ "abrumemos" ],
+			[ "abruméis", "abrumen" ],
+			[ "abrumen" ]
+		],
+		"9" : [
+			[ "abrumara" ],
+			[ "abrumaras" ],
+			[ "abrumara" ],
+			[ "abrumáramos" ],
+			[ "abrumarais", "abrumaran" ],
+			[ "abrumaran" ]
+		],
+		"10" : [
+			[ "abrumase" ],
+			[ "abrumases" ],
+			[ "abrumase" ],
+			[ "abrumásemos" ],
+			[ "abrumaseis", "abrumasen" ],
+			[ "abrumasen" ]
+		],
+		"11" : [
+			[ "abrumare" ],
+			[ "abrumares" ],
+			[ "abrumare" ],
+			[ "abrumáremos" ],
+			[ "abrumareis", "abrumaren" ],
+			[ "abrumaren" ]
+		],
+		"12" : {
+			"1" : [ "abruma" ],
+			"2" : [ "abrume" ],
+			"3" : [ "abrumemos" ],
+			"4" : [ "abrumad" ],
+			"5" : [ "abrumen" ]
+		}
+	}
+}

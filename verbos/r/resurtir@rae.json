@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resurtir",
+	"word" : "resurtir",
+	"infinitivo" : "resurtir",
+	"participio" : [ "resurtido" ],
+	"gerundio" : [ "resurtiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "resurto" ],
+			[ "resurtes", "resurtís" ],
+			[ "resurte" ],
+			[ "resurtimos" ],
+			[ "resurtís", "resurten" ],
+			[ "resurten" ]
+		],
+		"4" : [
+			[ "resurtí" ],
+			[ "resurtiste" ],
+			[ "resurtió" ],
+			[ "resurtimos" ],
+			[ "resurtisteis", "resurtieron" ],
+			[ "resurtieron" ]
+		],
+		"5" : [
+			[ "resurtía" ],
+			[ "resurtías" ],
+			[ "resurtía" ],
+			[ "resurtíamos" ],
+			[ "resurtíais", "resurtían" ],
+			[ "resurtían" ]
+		],
+		"6" : [
+			[ "resurtiría" ],
+			[ "resurtirías" ],
+			[ "resurtiría" ],
+			[ "resurtiríamos" ],
+			[ "resurtiríais", "resurtirían" ],
+			[ "resurtirían" ]
+		],
+		"7" : [
+			[ "resurtiré" ],
+			[ "resurtirás" ],
+			[ "resurtirá" ],
+			[ "resurtiremos" ],
+			[ "resurtiréis", "resurtirán" ],
+			[ "resurtirán" ]
+		],
+		"8" : [
+			[ "resurta" ],
+			[ "resurtas" ],
+			[ "resurta" ],
+			[ "resurtamos" ],
+			[ "resurtáis", "resurtan" ],
+			[ "resurtan" ]
+		],
+		"9" : [
+			[ "resurtiera" ],
+			[ "resurtieras" ],
+			[ "resurtiera" ],
+			[ "resurtiéramos" ],
+			[ "resurtierais", "resurtieran" ],
+			[ "resurtieran" ]
+		],
+		"10" : [
+			[ "resurtiese" ],
+			[ "resurtieses" ],
+			[ "resurtiese" ],
+			[ "resurtiésemos" ],
+			[ "resurtieseis", "resurtiesen" ],
+			[ "resurtiesen" ]
+		],
+		"11" : [
+			[ "resurtiere" ],
+			[ "resurtieres" ],
+			[ "resurtiere" ],
+			[ "resurtiéremos" ],
+			[ "resurtiereis", "resurtieren" ],
+			[ "resurtieren" ]
+		],
+		"12" : {
+			"1" : [ "resurte" ],
+			"2" : [ "resurta" ],
+			"3" : [ "resurtamos" ],
+			"4" : [ "resurtid" ],
+			"5" : [ "resurtan" ]
+		}
+	}
+}

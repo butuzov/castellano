@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=oprimir",
+	"word" : "oprimir",
+	"infinitivo" : "oprimir",
+	"participio" : [ "oprimido" ],
+	"gerundio" : [ "oprimiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "oprimo" ],
+			[ "oprimes", "oprimís" ],
+			[ "oprime" ],
+			[ "oprimimos" ],
+			[ "oprimís", "oprimen" ],
+			[ "oprimen" ]
+		],
+		"4" : [
+			[ "oprimí" ],
+			[ "oprimiste" ],
+			[ "oprimió" ],
+			[ "oprimimos" ],
+			[ "oprimisteis", "oprimieron" ],
+			[ "oprimieron" ]
+		],
+		"5" : [
+			[ "oprimía" ],
+			[ "oprimías" ],
+			[ "oprimía" ],
+			[ "oprimíamos" ],
+			[ "oprimíais", "oprimían" ],
+			[ "oprimían" ]
+		],
+		"6" : [
+			[ "oprimiría" ],
+			[ "oprimirías" ],
+			[ "oprimiría" ],
+			[ "oprimiríamos" ],
+			[ "oprimiríais", "oprimirían" ],
+			[ "oprimirían" ]
+		],
+		"7" : [
+			[ "oprimiré" ],
+			[ "oprimirás" ],
+			[ "oprimirá" ],
+			[ "oprimiremos" ],
+			[ "oprimiréis", "oprimirán" ],
+			[ "oprimirán" ]
+		],
+		"8" : [
+			[ "oprima" ],
+			[ "oprimas" ],
+			[ "oprima" ],
+			[ "oprimamos" ],
+			[ "oprimáis", "opriman" ],
+			[ "opriman" ]
+		],
+		"9" : [
+			[ "oprimiera" ],
+			[ "oprimieras" ],
+			[ "oprimiera" ],
+			[ "oprimiéramos" ],
+			[ "oprimierais", "oprimieran" ],
+			[ "oprimieran" ]
+		],
+		"10" : [
+			[ "oprimiese" ],
+			[ "oprimieses" ],
+			[ "oprimiese" ],
+			[ "oprimiésemos" ],
+			[ "oprimieseis", "oprimiesen" ],
+			[ "oprimiesen" ]
+		],
+		"11" : [
+			[ "oprimiere" ],
+			[ "oprimieres" ],
+			[ "oprimiere" ],
+			[ "oprimiéremos" ],
+			[ "oprimiereis", "oprimieren" ],
+			[ "oprimieren" ]
+		],
+		"12" : {
+			"1" : [ "oprime" ],
+			"2" : [ "oprima" ],
+			"3" : [ "oprimamos" ],
+			"4" : [ "oprimid" ],
+			"5" : [ "opriman" ]
+		}
+	}
+}

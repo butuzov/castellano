@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=turbar",
+	"word" : "turbar",
+	"infinitivo" : "turbar",
+	"participio" : [ "turbado" ],
+	"gerundio" : [ "turbando" ],
+	"tenses" : {
+		"3" : [
+			[ "turbo" ],
+			[ "turbas", "turbás" ],
+			[ "turba" ],
+			[ "turbamos" ],
+			[ "turbáis", "turban" ],
+			[ "turban" ]
+		],
+		"4" : [
+			[ "turbé" ],
+			[ "turbaste" ],
+			[ "turbó" ],
+			[ "turbamos" ],
+			[ "turbasteis", "turbaron" ],
+			[ "turbaron" ]
+		],
+		"5" : [
+			[ "turbaba" ],
+			[ "turbabas" ],
+			[ "turbaba" ],
+			[ "turbábamos" ],
+			[ "turbabais", "turbaban" ],
+			[ "turbaban" ]
+		],
+		"6" : [
+			[ "turbaría" ],
+			[ "turbarías" ],
+			[ "turbaría" ],
+			[ "turbaríamos" ],
+			[ "turbaríais", "turbarían" ],
+			[ "turbarían" ]
+		],
+		"7" : [
+			[ "turbaré" ],
+			[ "turbarás" ],
+			[ "turbará" ],
+			[ "turbaremos" ],
+			[ "turbaréis", "turbarán" ],
+			[ "turbarán" ]
+		],
+		"8" : [
+			[ "turbe" ],
+			[ "turbes" ],
+			[ "turbe" ],
+			[ "turbemos" ],
+			[ "turbéis", "turben" ],
+			[ "turben" ]
+		],
+		"9" : [
+			[ "turbara" ],
+			[ "turbaras" ],
+			[ "turbara" ],
+			[ "turbáramos" ],
+			[ "turbarais", "turbaran" ],
+			[ "turbaran" ]
+		],
+		"10" : [
+			[ "turbase" ],
+			[ "turbases" ],
+			[ "turbase" ],
+			[ "turbásemos" ],
+			[ "turbaseis", "turbasen" ],
+			[ "turbasen" ]
+		],
+		"11" : [
+			[ "turbare" ],
+			[ "turbares" ],
+			[ "turbare" ],
+			[ "turbáremos" ],
+			[ "turbareis", "turbaren" ],
+			[ "turbaren" ]
+		],
+		"12" : {
+			"1" : [ "turba" ],
+			"2" : [ "turbe" ],
+			"3" : [ "turbemos" ],
+			"4" : [ "turbad" ],
+			"5" : [ "turben" ]
+		}
+	}
+}

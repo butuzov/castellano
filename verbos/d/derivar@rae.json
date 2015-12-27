@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=derivar",
+	"word" : "derivar",
+	"infinitivo" : "derivar",
+	"participio" : [ "derivado" ],
+	"gerundio" : [ "derivando" ],
+	"tenses" : {
+		"3" : [
+			[ "derivo" ],
+			[ "derivas", "derivás" ],
+			[ "deriva" ],
+			[ "derivamos" ],
+			[ "deriváis", "derivan" ],
+			[ "derivan" ]
+		],
+		"4" : [
+			[ "derivé" ],
+			[ "derivaste" ],
+			[ "derivó" ],
+			[ "derivamos" ],
+			[ "derivasteis", "derivaron" ],
+			[ "derivaron" ]
+		],
+		"5" : [
+			[ "derivaba" ],
+			[ "derivabas" ],
+			[ "derivaba" ],
+			[ "derivábamos" ],
+			[ "derivabais", "derivaban" ],
+			[ "derivaban" ]
+		],
+		"6" : [
+			[ "derivaría" ],
+			[ "derivarías" ],
+			[ "derivaría" ],
+			[ "derivaríamos" ],
+			[ "derivaríais", "derivarían" ],
+			[ "derivarían" ]
+		],
+		"7" : [
+			[ "derivaré" ],
+			[ "derivarás" ],
+			[ "derivará" ],
+			[ "derivaremos" ],
+			[ "derivaréis", "derivarán" ],
+			[ "derivarán" ]
+		],
+		"8" : [
+			[ "derive" ],
+			[ "derives" ],
+			[ "derive" ],
+			[ "derivemos" ],
+			[ "derivéis", "deriven" ],
+			[ "deriven" ]
+		],
+		"9" : [
+			[ "derivara" ],
+			[ "derivaras" ],
+			[ "derivara" ],
+			[ "deriváramos" ],
+			[ "derivarais", "derivaran" ],
+			[ "derivaran" ]
+		],
+		"10" : [
+			[ "derivase" ],
+			[ "derivases" ],
+			[ "derivase" ],
+			[ "derivásemos" ],
+			[ "derivaseis", "derivasen" ],
+			[ "derivasen" ]
+		],
+		"11" : [
+			[ "derivare" ],
+			[ "derivares" ],
+			[ "derivare" ],
+			[ "deriváremos" ],
+			[ "derivareis", "derivaren" ],
+			[ "derivaren" ]
+		],
+		"12" : {
+			"1" : [ "deriva" ],
+			"2" : [ "derive" ],
+			"3" : [ "derivemos" ],
+			"4" : [ "derivad" ],
+			"5" : [ "deriven" ]
+		}
+	}
+}

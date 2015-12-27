@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=auxiliar",
+	"word" : "auxiliar",
+	"infinitivo" : "auxiliar",
+	"participio" : [ "auxiliado" ],
+	"gerundio" : [ "auxiliando" ],
+	"tenses" : {
+		"3" : [
+			[ "auxilío", "auxilio" ],
+			[ "auxilías", "auxilias", "auxiliás" ],
+			[ "auxilía", "auxilia" ],
+			[ "auxiliamos" ],
+			[ "auxiliáis", "auxilían", "auxilian" ],
+			[ "auxilían", "auxilian" ]
+		],
+		"4" : [
+			[ "auxilié" ],
+			[ "auxiliaste" ],
+			[ "auxilió" ],
+			[ "auxiliamos" ],
+			[ "auxiliasteis", "auxiliaron" ],
+			[ "auxiliaron" ]
+		],
+		"5" : [
+			[ "auxiliaba" ],
+			[ "auxiliabas" ],
+			[ "auxiliaba" ],
+			[ "auxiliábamos" ],
+			[ "auxiliabais", "auxiliaban" ],
+			[ "auxiliaban" ]
+		],
+		"6" : [
+			[ "auxiliaría" ],
+			[ "auxiliarías" ],
+			[ "auxiliaría" ],
+			[ "auxiliaríamos" ],
+			[ "auxiliaríais", "auxiliarían" ],
+			[ "auxiliarían" ]
+		],
+		"7" : [
+			[ "auxiliaré" ],
+			[ "auxiliarás" ],
+			[ "auxiliará" ],
+			[ "auxiliaremos" ],
+			[ "auxiliaréis", "auxiliarán" ],
+			[ "auxiliarán" ]
+		],
+		"8" : [
+			[ "auxilíe", "auxilie" ],
+			[ "auxilíes", "auxilies" ],
+			[ "auxilíe", "auxilie" ],
+			[ "auxiliemos" ],
+			[ "auxiliéis", "auxilíen", "auxilien" ],
+			[ "auxilíen", "auxilien" ]
+		],
+		"9" : [
+			[ "auxiliara" ],
+			[ "auxiliaras" ],
+			[ "auxiliara" ],
+			[ "auxiliáramos" ],
+			[ "auxiliarais", "auxiliaran" ],
+			[ "auxiliaran" ]
+		],
+		"10" : [
+			[ "auxiliase" ],
+			[ "auxiliases" ],
+			[ "auxiliase" ],
+			[ "auxiliásemos" ],
+			[ "auxiliaseis", "auxiliasen" ],
+			[ "auxiliasen" ]
+		],
+		"11" : [
+			[ "auxiliare" ],
+			[ "auxiliares" ],
+			[ "auxiliare" ],
+			[ "auxiliáremos" ],
+			[ "auxiliareis", "auxiliaren" ],
+			[ "auxiliaren" ]
+		],
+		"12" : {
+			"1" : [ "auxilía", "auxilia" ],
+			"2" : [ "auxilíe", "auxilie" ],
+			"3" : [ "auxiliemos" ],
+			"4" : [ "auxiliad" ],
+			"5" : [ "auxilíen", "auxilien" ]
+		}
+	}
+}

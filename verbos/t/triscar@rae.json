@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=triscar",
+	"word" : "triscar",
+	"infinitivo" : "triscar",
+	"participio" : [ "triscado" ],
+	"gerundio" : [ "triscando" ],
+	"tenses" : {
+		"3" : [
+			[ "trisco" ],
+			[ "triscas", "triscás" ],
+			[ "trisca" ],
+			[ "triscamos" ],
+			[ "triscáis", "triscan" ],
+			[ "triscan" ]
+		],
+		"4" : [
+			[ "trisqué" ],
+			[ "triscaste" ],
+			[ "triscó" ],
+			[ "triscamos" ],
+			[ "triscasteis", "triscaron" ],
+			[ "triscaron" ]
+		],
+		"5" : [
+			[ "triscaba" ],
+			[ "triscabas" ],
+			[ "triscaba" ],
+			[ "triscábamos" ],
+			[ "triscabais", "triscaban" ],
+			[ "triscaban" ]
+		],
+		"6" : [
+			[ "triscaría" ],
+			[ "triscarías" ],
+			[ "triscaría" ],
+			[ "triscaríamos" ],
+			[ "triscaríais", "triscarían" ],
+			[ "triscarían" ]
+		],
+		"7" : [
+			[ "triscaré" ],
+			[ "triscarás" ],
+			[ "triscará" ],
+			[ "triscaremos" ],
+			[ "triscaréis", "triscarán" ],
+			[ "triscarán" ]
+		],
+		"8" : [
+			[ "trisque" ],
+			[ "trisques" ],
+			[ "trisque" ],
+			[ "trisquemos" ],
+			[ "trisquéis", "trisquen" ],
+			[ "trisquen" ]
+		],
+		"9" : [
+			[ "triscara" ],
+			[ "triscaras" ],
+			[ "triscara" ],
+			[ "triscáramos" ],
+			[ "triscarais", "triscaran" ],
+			[ "triscaran" ]
+		],
+		"10" : [
+			[ "triscase" ],
+			[ "triscases" ],
+			[ "triscase" ],
+			[ "triscásemos" ],
+			[ "triscaseis", "triscasen" ],
+			[ "triscasen" ]
+		],
+		"11" : [
+			[ "triscare" ],
+			[ "triscares" ],
+			[ "triscare" ],
+			[ "triscáremos" ],
+			[ "triscareis", "triscaren" ],
+			[ "triscaren" ]
+		],
+		"12" : {
+			"1" : [ "trisca" ],
+			"2" : [ "trisque" ],
+			"3" : [ "trisquemos" ],
+			"4" : [ "triscad" ],
+			"5" : [ "trisquen" ]
+		}
+	}
+}

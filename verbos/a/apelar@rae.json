@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apelar",
+	"word" : "apelar",
+	"infinitivo" : "apelar",
+	"participio" : [ "apelado" ],
+	"gerundio" : [ "apelando" ],
+	"tenses" : {
+		"3" : [
+			[ "apelo" ],
+			[ "apelas", "apelás" ],
+			[ "apela" ],
+			[ "apelamos" ],
+			[ "apeláis", "apelan" ],
+			[ "apelan" ]
+		],
+		"4" : [
+			[ "apelé" ],
+			[ "apelaste" ],
+			[ "apeló" ],
+			[ "apelamos" ],
+			[ "apelasteis", "apelaron" ],
+			[ "apelaron" ]
+		],
+		"5" : [
+			[ "apelaba" ],
+			[ "apelabas" ],
+			[ "apelaba" ],
+			[ "apelábamos" ],
+			[ "apelabais", "apelaban" ],
+			[ "apelaban" ]
+		],
+		"6" : [
+			[ "apelaría" ],
+			[ "apelarías" ],
+			[ "apelaría" ],
+			[ "apelaríamos" ],
+			[ "apelaríais", "apelarían" ],
+			[ "apelarían" ]
+		],
+		"7" : [
+			[ "apelaré" ],
+			[ "apelarás" ],
+			[ "apelará" ],
+			[ "apelaremos" ],
+			[ "apelaréis", "apelarán" ],
+			[ "apelarán" ]
+		],
+		"8" : [
+			[ "apele" ],
+			[ "apeles" ],
+			[ "apele" ],
+			[ "apelemos" ],
+			[ "apeléis", "apelen" ],
+			[ "apelen" ]
+		],
+		"9" : [
+			[ "apelara" ],
+			[ "apelaras" ],
+			[ "apelara" ],
+			[ "apeláramos" ],
+			[ "apelarais", "apelaran" ],
+			[ "apelaran" ]
+		],
+		"10" : [
+			[ "apelase" ],
+			[ "apelases" ],
+			[ "apelase" ],
+			[ "apelásemos" ],
+			[ "apelaseis", "apelasen" ],
+			[ "apelasen" ]
+		],
+		"11" : [
+			[ "apelare" ],
+			[ "apelares" ],
+			[ "apelare" ],
+			[ "apeláremos" ],
+			[ "apelareis", "apelaren" ],
+			[ "apelaren" ]
+		],
+		"12" : {
+			"1" : [ "apela" ],
+			"2" : [ "apele" ],
+			"3" : [ "apelemos" ],
+			"4" : [ "apelad" ],
+			"5" : [ "apelen" ]
+		}
+	}
+}

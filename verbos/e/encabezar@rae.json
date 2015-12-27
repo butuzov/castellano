@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encabezar",
+	"word" : "encabezar",
+	"infinitivo" : "encabezar",
+	"participio" : [ "encabezado" ],
+	"gerundio" : [ "encabezando" ],
+	"tenses" : {
+		"3" : [
+			[ "encabezo" ],
+			[ "encabezas", "encabezás" ],
+			[ "encabeza" ],
+			[ "encabezamos" ],
+			[ "encabezáis", "encabezan" ],
+			[ "encabezan" ]
+		],
+		"4" : [
+			[ "encabecé" ],
+			[ "encabezaste" ],
+			[ "encabezó" ],
+			[ "encabezamos" ],
+			[ "encabezasteis", "encabezaron" ],
+			[ "encabezaron" ]
+		],
+		"5" : [
+			[ "encabezaba" ],
+			[ "encabezabas" ],
+			[ "encabezaba" ],
+			[ "encabezábamos" ],
+			[ "encabezabais", "encabezaban" ],
+			[ "encabezaban" ]
+		],
+		"6" : [
+			[ "encabezaría" ],
+			[ "encabezarías" ],
+			[ "encabezaría" ],
+			[ "encabezaríamos" ],
+			[ "encabezaríais", "encabezarían" ],
+			[ "encabezarían" ]
+		],
+		"7" : [
+			[ "encabezaré" ],
+			[ "encabezarás" ],
+			[ "encabezará" ],
+			[ "encabezaremos" ],
+			[ "encabezaréis", "encabezarán" ],
+			[ "encabezarán" ]
+		],
+		"8" : [
+			[ "encabece" ],
+			[ "encabeces" ],
+			[ "encabece" ],
+			[ "encabecemos" ],
+			[ "encabecéis", "encabecen" ],
+			[ "encabecen" ]
+		],
+		"9" : [
+			[ "encabezara" ],
+			[ "encabezaras" ],
+			[ "encabezara" ],
+			[ "encabezáramos" ],
+			[ "encabezarais", "encabezaran" ],
+			[ "encabezaran" ]
+		],
+		"10" : [
+			[ "encabezase" ],
+			[ "encabezases" ],
+			[ "encabezase" ],
+			[ "encabezásemos" ],
+			[ "encabezaseis", "encabezasen" ],
+			[ "encabezasen" ]
+		],
+		"11" : [
+			[ "encabezare" ],
+			[ "encabezares" ],
+			[ "encabezare" ],
+			[ "encabezáremos" ],
+			[ "encabezareis", "encabezaren" ],
+			[ "encabezaren" ]
+		],
+		"12" : {
+			"1" : [ "encabeza" ],
+			"2" : [ "encabece" ],
+			"3" : [ "encabecemos" ],
+			"4" : [ "encabezad" ],
+			"5" : [ "encabecen" ]
+		}
+	}
+}

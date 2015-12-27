@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reconquistar",
+	"word" : "reconquistar",
+	"infinitivo" : "reconquistar",
+	"participio" : [ "reconquistado" ],
+	"gerundio" : [ "reconquistando" ],
+	"tenses" : {
+		"3" : [
+			[ "reconquisto" ],
+			[ "reconquistas", "reconquistás" ],
+			[ "reconquista" ],
+			[ "reconquistamos" ],
+			[ "reconquistáis", "reconquistan" ],
+			[ "reconquistan" ]
+		],
+		"4" : [
+			[ "reconquisté" ],
+			[ "reconquistaste" ],
+			[ "reconquistó" ],
+			[ "reconquistamos" ],
+			[ "reconquistasteis", "reconquistaron" ],
+			[ "reconquistaron" ]
+		],
+		"5" : [
+			[ "reconquistaba" ],
+			[ "reconquistabas" ],
+			[ "reconquistaba" ],
+			[ "reconquistábamos" ],
+			[ "reconquistabais", "reconquistaban" ],
+			[ "reconquistaban" ]
+		],
+		"6" : [
+			[ "reconquistaría" ],
+			[ "reconquistarías" ],
+			[ "reconquistaría" ],
+			[ "reconquistaríamos" ],
+			[ "reconquistaríais", "reconquistarían" ],
+			[ "reconquistarían" ]
+		],
+		"7" : [
+			[ "reconquistaré" ],
+			[ "reconquistarás" ],
+			[ "reconquistará" ],
+			[ "reconquistaremos" ],
+			[ "reconquistaréis", "reconquistarán" ],
+			[ "reconquistarán" ]
+		],
+		"8" : [
+			[ "reconquiste" ],
+			[ "reconquistes" ],
+			[ "reconquiste" ],
+			[ "reconquistemos" ],
+			[ "reconquistéis", "reconquisten" ],
+			[ "reconquisten" ]
+		],
+		"9" : [
+			[ "reconquistara" ],
+			[ "reconquistaras" ],
+			[ "reconquistara" ],
+			[ "reconquistáramos" ],
+			[ "reconquistarais", "reconquistaran" ],
+			[ "reconquistaran" ]
+		],
+		"10" : [
+			[ "reconquistase" ],
+			[ "reconquistases" ],
+			[ "reconquistase" ],
+			[ "reconquistásemos" ],
+			[ "reconquistaseis", "reconquistasen" ],
+			[ "reconquistasen" ]
+		],
+		"11" : [
+			[ "reconquistare" ],
+			[ "reconquistares" ],
+			[ "reconquistare" ],
+			[ "reconquistáremos" ],
+			[ "reconquistareis", "reconquistaren" ],
+			[ "reconquistaren" ]
+		],
+		"12" : {
+			"1" : [ "reconquista" ],
+			"2" : [ "reconquiste" ],
+			"3" : [ "reconquistemos" ],
+			"4" : [ "reconquistad" ],
+			"5" : [ "reconquisten" ]
+		}
+	}
+}

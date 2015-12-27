@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=destetar",
+	"word" : "destetar",
+	"infinitivo" : "destetar",
+	"participio" : [ "destetado" ],
+	"gerundio" : [ "destetando" ],
+	"tenses" : {
+		"3" : [
+			[ "desteto" ],
+			[ "destetas", "destetás" ],
+			[ "desteta" ],
+			[ "destetamos" ],
+			[ "destetáis", "destetan" ],
+			[ "destetan" ]
+		],
+		"4" : [
+			[ "desteté" ],
+			[ "destetaste" ],
+			[ "destetó" ],
+			[ "destetamos" ],
+			[ "destetasteis", "destetaron" ],
+			[ "destetaron" ]
+		],
+		"5" : [
+			[ "destetaba" ],
+			[ "destetabas" ],
+			[ "destetaba" ],
+			[ "destetábamos" ],
+			[ "destetabais", "destetaban" ],
+			[ "destetaban" ]
+		],
+		"6" : [
+			[ "destetaría" ],
+			[ "destetarías" ],
+			[ "destetaría" ],
+			[ "destetaríamos" ],
+			[ "destetaríais", "destetarían" ],
+			[ "destetarían" ]
+		],
+		"7" : [
+			[ "destetaré" ],
+			[ "destetarás" ],
+			[ "destetará" ],
+			[ "destetaremos" ],
+			[ "destetaréis", "destetarán" ],
+			[ "destetarán" ]
+		],
+		"8" : [
+			[ "destete" ],
+			[ "destetes" ],
+			[ "destete" ],
+			[ "destetemos" ],
+			[ "destetéis", "desteten" ],
+			[ "desteten" ]
+		],
+		"9" : [
+			[ "destetara" ],
+			[ "destetaras" ],
+			[ "destetara" ],
+			[ "destetáramos" ],
+			[ "destetarais", "destetaran" ],
+			[ "destetaran" ]
+		],
+		"10" : [
+			[ "destetase" ],
+			[ "destetases" ],
+			[ "destetase" ],
+			[ "destetásemos" ],
+			[ "destetaseis", "destetasen" ],
+			[ "destetasen" ]
+		],
+		"11" : [
+			[ "destetare" ],
+			[ "destetares" ],
+			[ "destetare" ],
+			[ "destetáremos" ],
+			[ "destetareis", "destetaren" ],
+			[ "destetaren" ]
+		],
+		"12" : {
+			"1" : [ "desteta" ],
+			"2" : [ "destete" ],
+			"3" : [ "destetemos" ],
+			"4" : [ "destetad" ],
+			"5" : [ "desteten" ]
+		}
+	}
+}

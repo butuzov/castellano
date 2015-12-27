@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=narrar",
+	"word" : "narrar",
+	"infinitivo" : "narrar",
+	"participio" : [ "narrado" ],
+	"gerundio" : [ "narrando" ],
+	"tenses" : {
+		"3" : [
+			[ "narro" ],
+			[ "narras", "narrás" ],
+			[ "narra" ],
+			[ "narramos" ],
+			[ "narráis", "narran" ],
+			[ "narran" ]
+		],
+		"4" : [
+			[ "narré" ],
+			[ "narraste" ],
+			[ "narró" ],
+			[ "narramos" ],
+			[ "narrasteis", "narraron" ],
+			[ "narraron" ]
+		],
+		"5" : [
+			[ "narraba" ],
+			[ "narrabas" ],
+			[ "narraba" ],
+			[ "narrábamos" ],
+			[ "narrabais", "narraban" ],
+			[ "narraban" ]
+		],
+		"6" : [
+			[ "narraría" ],
+			[ "narrarías" ],
+			[ "narraría" ],
+			[ "narraríamos" ],
+			[ "narraríais", "narrarían" ],
+			[ "narrarían" ]
+		],
+		"7" : [
+			[ "narraré" ],
+			[ "narrarás" ],
+			[ "narrará" ],
+			[ "narraremos" ],
+			[ "narraréis", "narrarán" ],
+			[ "narrarán" ]
+		],
+		"8" : [
+			[ "narre" ],
+			[ "narres" ],
+			[ "narre" ],
+			[ "narremos" ],
+			[ "narréis", "narren" ],
+			[ "narren" ]
+		],
+		"9" : [
+			[ "narrara" ],
+			[ "narraras" ],
+			[ "narrara" ],
+			[ "narráramos" ],
+			[ "narrarais", "narraran" ],
+			[ "narraran" ]
+		],
+		"10" : [
+			[ "narrase" ],
+			[ "narrases" ],
+			[ "narrase" ],
+			[ "narrásemos" ],
+			[ "narraseis", "narrasen" ],
+			[ "narrasen" ]
+		],
+		"11" : [
+			[ "narrare" ],
+			[ "narrares" ],
+			[ "narrare" ],
+			[ "narráremos" ],
+			[ "narrareis", "narraren" ],
+			[ "narraren" ]
+		],
+		"12" : {
+			"1" : [ "narra" ],
+			"2" : [ "narre" ],
+			"3" : [ "narremos" ],
+			"4" : [ "narrad" ],
+			"5" : [ "narren" ]
+		}
+	}
+}

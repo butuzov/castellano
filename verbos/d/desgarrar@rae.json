@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desgarrar",
+	"word" : "desgarrar",
+	"infinitivo" : "desgarrar",
+	"participio" : [ "desgarrado" ],
+	"gerundio" : [ "desgarrando" ],
+	"tenses" : {
+		"3" : [
+			[ "desgarro" ],
+			[ "desgarras", "desgarrás" ],
+			[ "desgarra" ],
+			[ "desgarramos" ],
+			[ "desgarráis", "desgarran" ],
+			[ "desgarran" ]
+		],
+		"4" : [
+			[ "desgarré" ],
+			[ "desgarraste" ],
+			[ "desgarró" ],
+			[ "desgarramos" ],
+			[ "desgarrasteis", "desgarraron" ],
+			[ "desgarraron" ]
+		],
+		"5" : [
+			[ "desgarraba" ],
+			[ "desgarrabas" ],
+			[ "desgarraba" ],
+			[ "desgarrábamos" ],
+			[ "desgarrabais", "desgarraban" ],
+			[ "desgarraban" ]
+		],
+		"6" : [
+			[ "desgarraría" ],
+			[ "desgarrarías" ],
+			[ "desgarraría" ],
+			[ "desgarraríamos" ],
+			[ "desgarraríais", "desgarrarían" ],
+			[ "desgarrarían" ]
+		],
+		"7" : [
+			[ "desgarraré" ],
+			[ "desgarrarás" ],
+			[ "desgarrará" ],
+			[ "desgarraremos" ],
+			[ "desgarraréis", "desgarrarán" ],
+			[ "desgarrarán" ]
+		],
+		"8" : [
+			[ "desgarre" ],
+			[ "desgarres" ],
+			[ "desgarre" ],
+			[ "desgarremos" ],
+			[ "desgarréis", "desgarren" ],
+			[ "desgarren" ]
+		],
+		"9" : [
+			[ "desgarrara" ],
+			[ "desgarraras" ],
+			[ "desgarrara" ],
+			[ "desgarráramos" ],
+			[ "desgarrarais", "desgarraran" ],
+			[ "desgarraran" ]
+		],
+		"10" : [
+			[ "desgarrase" ],
+			[ "desgarrases" ],
+			[ "desgarrase" ],
+			[ "desgarrásemos" ],
+			[ "desgarraseis", "desgarrasen" ],
+			[ "desgarrasen" ]
+		],
+		"11" : [
+			[ "desgarrare" ],
+			[ "desgarrares" ],
+			[ "desgarrare" ],
+			[ "desgarráremos" ],
+			[ "desgarrareis", "desgarraren" ],
+			[ "desgarraren" ]
+		],
+		"12" : {
+			"1" : [ "desgarra" ],
+			"2" : [ "desgarre" ],
+			"3" : [ "desgarremos" ],
+			"4" : [ "desgarrad" ],
+			"5" : [ "desgarren" ]
+		}
+	}
+}

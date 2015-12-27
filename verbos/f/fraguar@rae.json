@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fraguar",
+	"word" : "fraguar",
+	"infinitivo" : "fraguar",
+	"participio" : [ "fraguado" ],
+	"gerundio" : [ "fraguando" ],
+	"tenses" : {
+		"3" : [
+			[ "fraguo" ],
+			[ "fraguas", "fraguás" ],
+			[ "fragua" ],
+			[ "fraguamos" ],
+			[ "fraguáis", "fraguan" ],
+			[ "fraguan" ]
+		],
+		"4" : [
+			[ "fragüé" ],
+			[ "fraguaste" ],
+			[ "fraguó" ],
+			[ "fraguamos" ],
+			[ "fraguasteis", "fraguaron" ],
+			[ "fraguaron" ]
+		],
+		"5" : [
+			[ "fraguaba" ],
+			[ "fraguabas" ],
+			[ "fraguaba" ],
+			[ "fraguábamos" ],
+			[ "fraguabais", "fraguaban" ],
+			[ "fraguaban" ]
+		],
+		"6" : [
+			[ "fraguaría" ],
+			[ "fraguarías" ],
+			[ "fraguaría" ],
+			[ "fraguaríamos" ],
+			[ "fraguaríais", "fraguarían" ],
+			[ "fraguarían" ]
+		],
+		"7" : [
+			[ "fraguaré" ],
+			[ "fraguarás" ],
+			[ "fraguará" ],
+			[ "fraguaremos" ],
+			[ "fraguaréis", "fraguarán" ],
+			[ "fraguarán" ]
+		],
+		"8" : [
+			[ "fragüe" ],
+			[ "fragües" ],
+			[ "fragüe" ],
+			[ "fragüemos" ],
+			[ "fragüéis", "fragüen" ],
+			[ "fragüen" ]
+		],
+		"9" : [
+			[ "fraguara" ],
+			[ "fraguaras" ],
+			[ "fraguara" ],
+			[ "fraguáramos" ],
+			[ "fraguarais", "fraguaran" ],
+			[ "fraguaran" ]
+		],
+		"10" : [
+			[ "fraguase" ],
+			[ "fraguases" ],
+			[ "fraguase" ],
+			[ "fraguásemos" ],
+			[ "fraguaseis", "fraguasen" ],
+			[ "fraguasen" ]
+		],
+		"11" : [
+			[ "fraguare" ],
+			[ "fraguares" ],
+			[ "fraguare" ],
+			[ "fraguáremos" ],
+			[ "fraguareis", "fraguaren" ],
+			[ "fraguaren" ]
+		],
+		"12" : {
+			"1" : [ "fragua" ],
+			"2" : [ "fragüe" ],
+			"3" : [ "fragüemos" ],
+			"4" : [ "fraguad" ],
+			"5" : [ "fragüen" ]
+		}
+	}
+}

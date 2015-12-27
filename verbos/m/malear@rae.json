@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=malear",
+	"word" : "malear",
+	"infinitivo" : "malear",
+	"participio" : [ "maleado" ],
+	"gerundio" : [ "maleando" ],
+	"tenses" : {
+		"3" : [
+			[ "maleo" ],
+			[ "maleas", "maleás" ],
+			[ "malea" ],
+			[ "maleamos" ],
+			[ "maleáis", "malean" ],
+			[ "malean" ]
+		],
+		"4" : [
+			[ "maleé" ],
+			[ "maleaste" ],
+			[ "maleó" ],
+			[ "maleamos" ],
+			[ "maleasteis", "malearon" ],
+			[ "malearon" ]
+		],
+		"5" : [
+			[ "maleaba" ],
+			[ "maleabas" ],
+			[ "maleaba" ],
+			[ "maleábamos" ],
+			[ "maleabais", "maleaban" ],
+			[ "maleaban" ]
+		],
+		"6" : [
+			[ "malearía" ],
+			[ "malearías" ],
+			[ "malearía" ],
+			[ "malearíamos" ],
+			[ "malearíais", "malearían" ],
+			[ "malearían" ]
+		],
+		"7" : [
+			[ "malearé" ],
+			[ "malearás" ],
+			[ "maleará" ],
+			[ "malearemos" ],
+			[ "malearéis", "malearán" ],
+			[ "malearán" ]
+		],
+		"8" : [
+			[ "malee" ],
+			[ "malees" ],
+			[ "malee" ],
+			[ "maleemos" ],
+			[ "maleéis", "maleen" ],
+			[ "maleen" ]
+		],
+		"9" : [
+			[ "maleara" ],
+			[ "malearas" ],
+			[ "maleara" ],
+			[ "maleáramos" ],
+			[ "malearais", "malearan" ],
+			[ "malearan" ]
+		],
+		"10" : [
+			[ "malease" ],
+			[ "maleases" ],
+			[ "malease" ],
+			[ "maleásemos" ],
+			[ "maleaseis", "maleasen" ],
+			[ "maleasen" ]
+		],
+		"11" : [
+			[ "maleare" ],
+			[ "maleares" ],
+			[ "maleare" ],
+			[ "maleáremos" ],
+			[ "maleareis", "malearen" ],
+			[ "malearen" ]
+		],
+		"12" : {
+			"1" : [ "malea" ],
+			"2" : [ "malee" ],
+			"3" : [ "maleemos" ],
+			"4" : [ "malead" ],
+			"5" : [ "maleen" ]
+		}
+	}
+}

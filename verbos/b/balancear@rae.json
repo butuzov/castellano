@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=balancear",
+	"word" : "balancear",
+	"infinitivo" : "balancear",
+	"participio" : [ "balanceado" ],
+	"gerundio" : [ "balanceando" ],
+	"tenses" : {
+		"3" : [
+			[ "balanceo" ],
+			[ "balanceas", "balanceás" ],
+			[ "balancea" ],
+			[ "balanceamos" ],
+			[ "balanceáis", "balancean" ],
+			[ "balancean" ]
+		],
+		"4" : [
+			[ "balanceé" ],
+			[ "balanceaste" ],
+			[ "balanceó" ],
+			[ "balanceamos" ],
+			[ "balanceasteis", "balancearon" ],
+			[ "balancearon" ]
+		],
+		"5" : [
+			[ "balanceaba" ],
+			[ "balanceabas" ],
+			[ "balanceaba" ],
+			[ "balanceábamos" ],
+			[ "balanceabais", "balanceaban" ],
+			[ "balanceaban" ]
+		],
+		"6" : [
+			[ "balancearía" ],
+			[ "balancearías" ],
+			[ "balancearía" ],
+			[ "balancearíamos" ],
+			[ "balancearíais", "balancearían" ],
+			[ "balancearían" ]
+		],
+		"7" : [
+			[ "balancearé" ],
+			[ "balancearás" ],
+			[ "balanceará" ],
+			[ "balancearemos" ],
+			[ "balancearéis", "balancearán" ],
+			[ "balancearán" ]
+		],
+		"8" : [
+			[ "balancee" ],
+			[ "balancees" ],
+			[ "balancee" ],
+			[ "balanceemos" ],
+			[ "balanceéis", "balanceen" ],
+			[ "balanceen" ]
+		],
+		"9" : [
+			[ "balanceara" ],
+			[ "balancearas" ],
+			[ "balanceara" ],
+			[ "balanceáramos" ],
+			[ "balancearais", "balancearan" ],
+			[ "balancearan" ]
+		],
+		"10" : [
+			[ "balancease" ],
+			[ "balanceases" ],
+			[ "balancease" ],
+			[ "balanceásemos" ],
+			[ "balanceaseis", "balanceasen" ],
+			[ "balanceasen" ]
+		],
+		"11" : [
+			[ "balanceare" ],
+			[ "balanceares" ],
+			[ "balanceare" ],
+			[ "balanceáremos" ],
+			[ "balanceareis", "balancearen" ],
+			[ "balancearen" ]
+		],
+		"12" : {
+			"1" : [ "balancea" ],
+			"2" : [ "balancee" ],
+			"3" : [ "balanceemos" ],
+			"4" : [ "balancead" ],
+			"5" : [ "balanceen" ]
+		}
+	}
+}

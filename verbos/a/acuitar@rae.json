@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acuitar",
+	"word" : "acuitar",
+	"infinitivo" : "acuitar",
+	"participio" : [ "acuitado" ],
+	"gerundio" : [ "acuitando" ],
+	"tenses" : {
+		"3" : [
+			[ "acuito" ],
+			[ "acuitas", "acuitás" ],
+			[ "acuita" ],
+			[ "acuitamos" ],
+			[ "acuitáis", "acuitan" ],
+			[ "acuitan" ]
+		],
+		"4" : [
+			[ "acuité" ],
+			[ "acuitaste" ],
+			[ "acuitó" ],
+			[ "acuitamos" ],
+			[ "acuitasteis", "acuitaron" ],
+			[ "acuitaron" ]
+		],
+		"5" : [
+			[ "acuitaba" ],
+			[ "acuitabas" ],
+			[ "acuitaba" ],
+			[ "acuitábamos" ],
+			[ "acuitabais", "acuitaban" ],
+			[ "acuitaban" ]
+		],
+		"6" : [
+			[ "acuitaría" ],
+			[ "acuitarías" ],
+			[ "acuitaría" ],
+			[ "acuitaríamos" ],
+			[ "acuitaríais", "acuitarían" ],
+			[ "acuitarían" ]
+		],
+		"7" : [
+			[ "acuitaré" ],
+			[ "acuitarás" ],
+			[ "acuitará" ],
+			[ "acuitaremos" ],
+			[ "acuitaréis", "acuitarán" ],
+			[ "acuitarán" ]
+		],
+		"8" : [
+			[ "acuite" ],
+			[ "acuites" ],
+			[ "acuite" ],
+			[ "acuitemos" ],
+			[ "acuitéis", "acuiten" ],
+			[ "acuiten" ]
+		],
+		"9" : [
+			[ "acuitara" ],
+			[ "acuitaras" ],
+			[ "acuitara" ],
+			[ "acuitáramos" ],
+			[ "acuitarais", "acuitaran" ],
+			[ "acuitaran" ]
+		],
+		"10" : [
+			[ "acuitase" ],
+			[ "acuitases" ],
+			[ "acuitase" ],
+			[ "acuitásemos" ],
+			[ "acuitaseis", "acuitasen" ],
+			[ "acuitasen" ]
+		],
+		"11" : [
+			[ "acuitare" ],
+			[ "acuitares" ],
+			[ "acuitare" ],
+			[ "acuitáremos" ],
+			[ "acuitareis", "acuitaren" ],
+			[ "acuitaren" ]
+		],
+		"12" : {
+			"1" : [ "acuita" ],
+			"2" : [ "acuite" ],
+			"3" : [ "acuitemos" ],
+			"4" : [ "acuitad" ],
+			"5" : [ "acuiten" ]
+		}
+	}
+}

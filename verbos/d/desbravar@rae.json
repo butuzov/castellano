@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desbravar",
+	"word" : "desbravar",
+	"infinitivo" : "desbravar",
+	"participio" : [ "desbravado" ],
+	"gerundio" : [ "desbravando" ],
+	"tenses" : {
+		"3" : [
+			[ "desbravo" ],
+			[ "desbravas", "desbravás" ],
+			[ "desbrava" ],
+			[ "desbravamos" ],
+			[ "desbraváis", "desbravan" ],
+			[ "desbravan" ]
+		],
+		"4" : [
+			[ "desbravé" ],
+			[ "desbravaste" ],
+			[ "desbravó" ],
+			[ "desbravamos" ],
+			[ "desbravasteis", "desbravaron" ],
+			[ "desbravaron" ]
+		],
+		"5" : [
+			[ "desbravaba" ],
+			[ "desbravabas" ],
+			[ "desbravaba" ],
+			[ "desbravábamos" ],
+			[ "desbravabais", "desbravaban" ],
+			[ "desbravaban" ]
+		],
+		"6" : [
+			[ "desbravaría" ],
+			[ "desbravarías" ],
+			[ "desbravaría" ],
+			[ "desbravaríamos" ],
+			[ "desbravaríais", "desbravarían" ],
+			[ "desbravarían" ]
+		],
+		"7" : [
+			[ "desbravaré" ],
+			[ "desbravarás" ],
+			[ "desbravará" ],
+			[ "desbravaremos" ],
+			[ "desbravaréis", "desbravarán" ],
+			[ "desbravarán" ]
+		],
+		"8" : [
+			[ "desbrave" ],
+			[ "desbraves" ],
+			[ "desbrave" ],
+			[ "desbravemos" ],
+			[ "desbravéis", "desbraven" ],
+			[ "desbraven" ]
+		],
+		"9" : [
+			[ "desbravara" ],
+			[ "desbravaras" ],
+			[ "desbravara" ],
+			[ "desbraváramos" ],
+			[ "desbravarais", "desbravaran" ],
+			[ "desbravaran" ]
+		],
+		"10" : [
+			[ "desbravase" ],
+			[ "desbravases" ],
+			[ "desbravase" ],
+			[ "desbravásemos" ],
+			[ "desbravaseis", "desbravasen" ],
+			[ "desbravasen" ]
+		],
+		"11" : [
+			[ "desbravare" ],
+			[ "desbravares" ],
+			[ "desbravare" ],
+			[ "desbraváremos" ],
+			[ "desbravareis", "desbravaren" ],
+			[ "desbravaren" ]
+		],
+		"12" : {
+			"1" : [ "desbrava" ],
+			"2" : [ "desbrave" ],
+			"3" : [ "desbravemos" ],
+			"4" : [ "desbravad" ],
+			"5" : [ "desbraven" ]
+		}
+	}
+}

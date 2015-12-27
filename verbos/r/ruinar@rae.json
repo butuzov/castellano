@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ruinar",
+	"word" : "ruinar",
+	"infinitivo" : "ruinar",
+	"participio" : [ "ruinado" ],
+	"gerundio" : [ "ruinando" ],
+	"tenses" : {
+		"3" : [
+			[ "ruino" ],
+			[ "ruinas", "ruinás" ],
+			[ "ruina" ],
+			[ "ruinamos" ],
+			[ "ruináis", "ruinan" ],
+			[ "ruinan" ]
+		],
+		"4" : [
+			[ "ruiné" ],
+			[ "ruinaste" ],
+			[ "ruinó" ],
+			[ "ruinamos" ],
+			[ "ruinasteis", "ruinaron" ],
+			[ "ruinaron" ]
+		],
+		"5" : [
+			[ "ruinaba" ],
+			[ "ruinabas" ],
+			[ "ruinaba" ],
+			[ "ruinábamos" ],
+			[ "ruinabais", "ruinaban" ],
+			[ "ruinaban" ]
+		],
+		"6" : [
+			[ "ruinaría" ],
+			[ "ruinarías" ],
+			[ "ruinaría" ],
+			[ "ruinaríamos" ],
+			[ "ruinaríais", "ruinarían" ],
+			[ "ruinarían" ]
+		],
+		"7" : [
+			[ "ruinaré" ],
+			[ "ruinarás" ],
+			[ "ruinará" ],
+			[ "ruinaremos" ],
+			[ "ruinaréis", "ruinarán" ],
+			[ "ruinarán" ]
+		],
+		"8" : [
+			[ "ruine" ],
+			[ "ruines" ],
+			[ "ruine" ],
+			[ "ruinemos" ],
+			[ "ruinéis", "ruinen" ],
+			[ "ruinen" ]
+		],
+		"9" : [
+			[ "ruinara" ],
+			[ "ruinaras" ],
+			[ "ruinara" ],
+			[ "ruináramos" ],
+			[ "ruinarais", "ruinaran" ],
+			[ "ruinaran" ]
+		],
+		"10" : [
+			[ "ruinase" ],
+			[ "ruinases" ],
+			[ "ruinase" ],
+			[ "ruinásemos" ],
+			[ "ruinaseis", "ruinasen" ],
+			[ "ruinasen" ]
+		],
+		"11" : [
+			[ "ruinare" ],
+			[ "ruinares" ],
+			[ "ruinare" ],
+			[ "ruináremos" ],
+			[ "ruinareis", "ruinaren" ],
+			[ "ruinaren" ]
+		],
+		"12" : {
+			"1" : [ "ruina" ],
+			"2" : [ "ruine" ],
+			"3" : [ "ruinemos" ],
+			"4" : [ "ruinad" ],
+			"5" : [ "ruinen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reincidir",
+	"word" : "reincidir",
+	"infinitivo" : "reincidir",
+	"participio" : [ "reincidido" ],
+	"gerundio" : [ "reincidiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reincido" ],
+			[ "reincides", "reincidís" ],
+			[ "reincide" ],
+			[ "reincidimos" ],
+			[ "reincidís", "reinciden" ],
+			[ "reinciden" ]
+		],
+		"4" : [
+			[ "reincidí" ],
+			[ "reincidiste" ],
+			[ "reincidió" ],
+			[ "reincidimos" ],
+			[ "reincidisteis", "reincidieron" ],
+			[ "reincidieron" ]
+		],
+		"5" : [
+			[ "reincidía" ],
+			[ "reincidías" ],
+			[ "reincidía" ],
+			[ "reincidíamos" ],
+			[ "reincidíais", "reincidían" ],
+			[ "reincidían" ]
+		],
+		"6" : [
+			[ "reincidiría" ],
+			[ "reincidirías" ],
+			[ "reincidiría" ],
+			[ "reincidiríamos" ],
+			[ "reincidiríais", "reincidirían" ],
+			[ "reincidirían" ]
+		],
+		"7" : [
+			[ "reincidiré" ],
+			[ "reincidirás" ],
+			[ "reincidirá" ],
+			[ "reincidiremos" ],
+			[ "reincidiréis", "reincidirán" ],
+			[ "reincidirán" ]
+		],
+		"8" : [
+			[ "reincida" ],
+			[ "reincidas" ],
+			[ "reincida" ],
+			[ "reincidamos" ],
+			[ "reincidáis", "reincidan" ],
+			[ "reincidan" ]
+		],
+		"9" : [
+			[ "reincidiera" ],
+			[ "reincidieras" ],
+			[ "reincidiera" ],
+			[ "reincidiéramos" ],
+			[ "reincidierais", "reincidieran" ],
+			[ "reincidieran" ]
+		],
+		"10" : [
+			[ "reincidiese" ],
+			[ "reincidieses" ],
+			[ "reincidiese" ],
+			[ "reincidiésemos" ],
+			[ "reincidieseis", "reincidiesen" ],
+			[ "reincidiesen" ]
+		],
+		"11" : [
+			[ "reincidiere" ],
+			[ "reincidieres" ],
+			[ "reincidiere" ],
+			[ "reincidiéremos" ],
+			[ "reincidiereis", "reincidieren" ],
+			[ "reincidieren" ]
+		],
+		"12" : {
+			"1" : [ "reincide" ],
+			"2" : [ "reincida" ],
+			"3" : [ "reincidamos" ],
+			"4" : [ "reincidid" ],
+			"5" : [ "reincidan" ]
+		}
+	}
+}

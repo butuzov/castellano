@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=votar",
+	"word" : "votar",
+	"infinitivo" : "votar",
+	"participio" : [ "votado" ],
+	"gerundio" : [ "votando" ],
+	"tenses" : {
+		"3" : [
+			[ "voto" ],
+			[ "votas", "votás" ],
+			[ "vota" ],
+			[ "votamos" ],
+			[ "votáis", "votan" ],
+			[ "votan" ]
+		],
+		"4" : [
+			[ "voté" ],
+			[ "votaste" ],
+			[ "votó" ],
+			[ "votamos" ],
+			[ "votasteis", "votaron" ],
+			[ "votaron" ]
+		],
+		"5" : [
+			[ "votaba" ],
+			[ "votabas" ],
+			[ "votaba" ],
+			[ "votábamos" ],
+			[ "votabais", "votaban" ],
+			[ "votaban" ]
+		],
+		"6" : [
+			[ "votaría" ],
+			[ "votarías" ],
+			[ "votaría" ],
+			[ "votaríamos" ],
+			[ "votaríais", "votarían" ],
+			[ "votarían" ]
+		],
+		"7" : [
+			[ "votaré" ],
+			[ "votarás" ],
+			[ "votará" ],
+			[ "votaremos" ],
+			[ "votaréis", "votarán" ],
+			[ "votarán" ]
+		],
+		"8" : [
+			[ "vote" ],
+			[ "votes" ],
+			[ "vote" ],
+			[ "votemos" ],
+			[ "votéis", "voten" ],
+			[ "voten" ]
+		],
+		"9" : [
+			[ "votara" ],
+			[ "votaras" ],
+			[ "votara" ],
+			[ "votáramos" ],
+			[ "votarais", "votaran" ],
+			[ "votaran" ]
+		],
+		"10" : [
+			[ "votase" ],
+			[ "votases" ],
+			[ "votase" ],
+			[ "votásemos" ],
+			[ "votaseis", "votasen" ],
+			[ "votasen" ]
+		],
+		"11" : [
+			[ "votare" ],
+			[ "votares" ],
+			[ "votare" ],
+			[ "votáremos" ],
+			[ "votareis", "votaren" ],
+			[ "votaren" ]
+		],
+		"12" : {
+			"1" : [ "vota" ],
+			"2" : [ "vote" ],
+			"3" : [ "votemos" ],
+			"4" : [ "votad" ],
+			"5" : [ "voten" ]
+		}
+	}
+}

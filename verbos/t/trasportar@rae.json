@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trasportar",
+	"word" : "trasportar",
+	"infinitivo" : "trasportar",
+	"participio" : [ "trasportado" ],
+	"gerundio" : [ "trasportando" ],
+	"tenses" : {
+		"3" : [
+			[ "trasporto" ],
+			[ "trasportas", "trasportás" ],
+			[ "trasporta" ],
+			[ "trasportamos" ],
+			[ "trasportáis", "trasportan" ],
+			[ "trasportan" ]
+		],
+		"4" : [
+			[ "trasporté" ],
+			[ "trasportaste" ],
+			[ "trasportó" ],
+			[ "trasportamos" ],
+			[ "trasportasteis", "trasportaron" ],
+			[ "trasportaron" ]
+		],
+		"5" : [
+			[ "trasportaba" ],
+			[ "trasportabas" ],
+			[ "trasportaba" ],
+			[ "trasportábamos" ],
+			[ "trasportabais", "trasportaban" ],
+			[ "trasportaban" ]
+		],
+		"6" : [
+			[ "trasportaría" ],
+			[ "trasportarías" ],
+			[ "trasportaría" ],
+			[ "trasportaríamos" ],
+			[ "trasportaríais", "trasportarían" ],
+			[ "trasportarían" ]
+		],
+		"7" : [
+			[ "trasportaré" ],
+			[ "trasportarás" ],
+			[ "trasportará" ],
+			[ "trasportaremos" ],
+			[ "trasportaréis", "trasportarán" ],
+			[ "trasportarán" ]
+		],
+		"8" : [
+			[ "trasporte" ],
+			[ "trasportes" ],
+			[ "trasporte" ],
+			[ "trasportemos" ],
+			[ "trasportéis", "trasporten" ],
+			[ "trasporten" ]
+		],
+		"9" : [
+			[ "trasportara" ],
+			[ "trasportaras" ],
+			[ "trasportara" ],
+			[ "trasportáramos" ],
+			[ "trasportarais", "trasportaran" ],
+			[ "trasportaran" ]
+		],
+		"10" : [
+			[ "trasportase" ],
+			[ "trasportases" ],
+			[ "trasportase" ],
+			[ "trasportásemos" ],
+			[ "trasportaseis", "trasportasen" ],
+			[ "trasportasen" ]
+		],
+		"11" : [
+			[ "trasportare" ],
+			[ "trasportares" ],
+			[ "trasportare" ],
+			[ "trasportáremos" ],
+			[ "trasportareis", "trasportaren" ],
+			[ "trasportaren" ]
+		],
+		"12" : {
+			"1" : [ "trasporta" ],
+			"2" : [ "trasporte" ],
+			"3" : [ "trasportemos" ],
+			"4" : [ "trasportad" ],
+			"5" : [ "trasporten" ]
+		}
+	}
+}

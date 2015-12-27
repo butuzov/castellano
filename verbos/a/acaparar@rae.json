@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acaparar",
+	"word" : "acaparar",
+	"infinitivo" : "acaparar",
+	"participio" : [ "acaparado" ],
+	"gerundio" : [ "acaparando" ],
+	"tenses" : {
+		"3" : [
+			[ "acaparo" ],
+			[ "acaparas", "acaparás" ],
+			[ "acapara" ],
+			[ "acaparamos" ],
+			[ "acaparáis", "acaparan" ],
+			[ "acaparan" ]
+		],
+		"4" : [
+			[ "acaparé" ],
+			[ "acaparaste" ],
+			[ "acaparó" ],
+			[ "acaparamos" ],
+			[ "acaparasteis", "acapararon" ],
+			[ "acapararon" ]
+		],
+		"5" : [
+			[ "acaparaba" ],
+			[ "acaparabas" ],
+			[ "acaparaba" ],
+			[ "acaparábamos" ],
+			[ "acaparabais", "acaparaban" ],
+			[ "acaparaban" ]
+		],
+		"6" : [
+			[ "acapararía" ],
+			[ "acapararías" ],
+			[ "acapararía" ],
+			[ "acapararíamos" ],
+			[ "acapararíais", "acapararían" ],
+			[ "acapararían" ]
+		],
+		"7" : [
+			[ "acapararé" ],
+			[ "acapararás" ],
+			[ "acaparará" ],
+			[ "acapararemos" ],
+			[ "acapararéis", "acapararán" ],
+			[ "acapararán" ]
+		],
+		"8" : [
+			[ "acapare" ],
+			[ "acapares" ],
+			[ "acapare" ],
+			[ "acaparemos" ],
+			[ "acaparéis", "acaparen" ],
+			[ "acaparen" ]
+		],
+		"9" : [
+			[ "acaparara" ],
+			[ "acapararas" ],
+			[ "acaparara" ],
+			[ "acaparáramos" ],
+			[ "acapararais", "acapararan" ],
+			[ "acapararan" ]
+		],
+		"10" : [
+			[ "acaparase" ],
+			[ "acaparases" ],
+			[ "acaparase" ],
+			[ "acaparásemos" ],
+			[ "acaparaseis", "acaparasen" ],
+			[ "acaparasen" ]
+		],
+		"11" : [
+			[ "acaparare" ],
+			[ "acaparares" ],
+			[ "acaparare" ],
+			[ "acaparáremos" ],
+			[ "acaparareis", "acapararen" ],
+			[ "acapararen" ]
+		],
+		"12" : {
+			"1" : [ "acapara" ],
+			"2" : [ "acapare" ],
+			"3" : [ "acaparemos" ],
+			"4" : [ "acaparad" ],
+			"5" : [ "acaparen" ]
+		}
+	}
+}

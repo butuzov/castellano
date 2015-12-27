@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hermanar",
+	"word" : "hermanar",
+	"infinitivo" : "hermanar",
+	"participio" : [ "hermanado" ],
+	"gerundio" : [ "hermanando" ],
+	"tenses" : {
+		"3" : [
+			[ "hermano" ],
+			[ "hermanas", "hermanás" ],
+			[ "hermana" ],
+			[ "hermanamos" ],
+			[ "hermanáis", "hermanan" ],
+			[ "hermanan" ]
+		],
+		"4" : [
+			[ "hermané" ],
+			[ "hermanaste" ],
+			[ "hermanó" ],
+			[ "hermanamos" ],
+			[ "hermanasteis", "hermanaron" ],
+			[ "hermanaron" ]
+		],
+		"5" : [
+			[ "hermanaba" ],
+			[ "hermanabas" ],
+			[ "hermanaba" ],
+			[ "hermanábamos" ],
+			[ "hermanabais", "hermanaban" ],
+			[ "hermanaban" ]
+		],
+		"6" : [
+			[ "hermanaría" ],
+			[ "hermanarías" ],
+			[ "hermanaría" ],
+			[ "hermanaríamos" ],
+			[ "hermanaríais", "hermanarían" ],
+			[ "hermanarían" ]
+		],
+		"7" : [
+			[ "hermanaré" ],
+			[ "hermanarás" ],
+			[ "hermanará" ],
+			[ "hermanaremos" ],
+			[ "hermanaréis", "hermanarán" ],
+			[ "hermanarán" ]
+		],
+		"8" : [
+			[ "hermane" ],
+			[ "hermanes" ],
+			[ "hermane" ],
+			[ "hermanemos" ],
+			[ "hermanéis", "hermanen" ],
+			[ "hermanen" ]
+		],
+		"9" : [
+			[ "hermanara" ],
+			[ "hermanaras" ],
+			[ "hermanara" ],
+			[ "hermanáramos" ],
+			[ "hermanarais", "hermanaran" ],
+			[ "hermanaran" ]
+		],
+		"10" : [
+			[ "hermanase" ],
+			[ "hermanases" ],
+			[ "hermanase" ],
+			[ "hermanásemos" ],
+			[ "hermanaseis", "hermanasen" ],
+			[ "hermanasen" ]
+		],
+		"11" : [
+			[ "hermanare" ],
+			[ "hermanares" ],
+			[ "hermanare" ],
+			[ "hermanáremos" ],
+			[ "hermanareis", "hermanaren" ],
+			[ "hermanaren" ]
+		],
+		"12" : {
+			"1" : [ "hermana" ],
+			"2" : [ "hermane" ],
+			"3" : [ "hermanemos" ],
+			"4" : [ "hermanad" ],
+			"5" : [ "hermanen" ]
+		}
+	}
+}

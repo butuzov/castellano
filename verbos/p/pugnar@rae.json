@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pugnar",
+	"word" : "pugnar",
+	"infinitivo" : "pugnar",
+	"participio" : [ "pugnado" ],
+	"gerundio" : [ "pugnando" ],
+	"tenses" : {
+		"3" : [
+			[ "pugno" ],
+			[ "pugnas", "pugnás" ],
+			[ "pugna" ],
+			[ "pugnamos" ],
+			[ "pugnáis", "pugnan" ],
+			[ "pugnan" ]
+		],
+		"4" : [
+			[ "pugné" ],
+			[ "pugnaste" ],
+			[ "pugnó" ],
+			[ "pugnamos" ],
+			[ "pugnasteis", "pugnaron" ],
+			[ "pugnaron" ]
+		],
+		"5" : [
+			[ "pugnaba" ],
+			[ "pugnabas" ],
+			[ "pugnaba" ],
+			[ "pugnábamos" ],
+			[ "pugnabais", "pugnaban" ],
+			[ "pugnaban" ]
+		],
+		"6" : [
+			[ "pugnaría" ],
+			[ "pugnarías" ],
+			[ "pugnaría" ],
+			[ "pugnaríamos" ],
+			[ "pugnaríais", "pugnarían" ],
+			[ "pugnarían" ]
+		],
+		"7" : [
+			[ "pugnaré" ],
+			[ "pugnarás" ],
+			[ "pugnará" ],
+			[ "pugnaremos" ],
+			[ "pugnaréis", "pugnarán" ],
+			[ "pugnarán" ]
+		],
+		"8" : [
+			[ "pugne" ],
+			[ "pugnes" ],
+			[ "pugne" ],
+			[ "pugnemos" ],
+			[ "pugnéis", "pugnen" ],
+			[ "pugnen" ]
+		],
+		"9" : [
+			[ "pugnara" ],
+			[ "pugnaras" ],
+			[ "pugnara" ],
+			[ "pugnáramos" ],
+			[ "pugnarais", "pugnaran" ],
+			[ "pugnaran" ]
+		],
+		"10" : [
+			[ "pugnase" ],
+			[ "pugnases" ],
+			[ "pugnase" ],
+			[ "pugnásemos" ],
+			[ "pugnaseis", "pugnasen" ],
+			[ "pugnasen" ]
+		],
+		"11" : [
+			[ "pugnare" ],
+			[ "pugnares" ],
+			[ "pugnare" ],
+			[ "pugnáremos" ],
+			[ "pugnareis", "pugnaren" ],
+			[ "pugnaren" ]
+		],
+		"12" : {
+			"1" : [ "pugna" ],
+			"2" : [ "pugne" ],
+			"3" : [ "pugnemos" ],
+			"4" : [ "pugnad" ],
+			"5" : [ "pugnen" ]
+		}
+	}
+}

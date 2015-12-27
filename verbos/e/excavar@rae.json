@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=excavar",
+	"word" : "excavar",
+	"infinitivo" : "excavar",
+	"participio" : [ "excavado" ],
+	"gerundio" : [ "excavando" ],
+	"tenses" : {
+		"3" : [
+			[ "excavo" ],
+			[ "excavas", "excavás" ],
+			[ "excava" ],
+			[ "excavamos" ],
+			[ "excaváis", "excavan" ],
+			[ "excavan" ]
+		],
+		"4" : [
+			[ "excavé" ],
+			[ "excavaste" ],
+			[ "excavó" ],
+			[ "excavamos" ],
+			[ "excavasteis", "excavaron" ],
+			[ "excavaron" ]
+		],
+		"5" : [
+			[ "excavaba" ],
+			[ "excavabas" ],
+			[ "excavaba" ],
+			[ "excavábamos" ],
+			[ "excavabais", "excavaban" ],
+			[ "excavaban" ]
+		],
+		"6" : [
+			[ "excavaría" ],
+			[ "excavarías" ],
+			[ "excavaría" ],
+			[ "excavaríamos" ],
+			[ "excavaríais", "excavarían" ],
+			[ "excavarían" ]
+		],
+		"7" : [
+			[ "excavaré" ],
+			[ "excavarás" ],
+			[ "excavará" ],
+			[ "excavaremos" ],
+			[ "excavaréis", "excavarán" ],
+			[ "excavarán" ]
+		],
+		"8" : [
+			[ "excave" ],
+			[ "excaves" ],
+			[ "excave" ],
+			[ "excavemos" ],
+			[ "excavéis", "excaven" ],
+			[ "excaven" ]
+		],
+		"9" : [
+			[ "excavara" ],
+			[ "excavaras" ],
+			[ "excavara" ],
+			[ "excaváramos" ],
+			[ "excavarais", "excavaran" ],
+			[ "excavaran" ]
+		],
+		"10" : [
+			[ "excavase" ],
+			[ "excavases" ],
+			[ "excavase" ],
+			[ "excavásemos" ],
+			[ "excavaseis", "excavasen" ],
+			[ "excavasen" ]
+		],
+		"11" : [
+			[ "excavare" ],
+			[ "excavares" ],
+			[ "excavare" ],
+			[ "excaváremos" ],
+			[ "excavareis", "excavaren" ],
+			[ "excavaren" ]
+		],
+		"12" : {
+			"1" : [ "excava" ],
+			"2" : [ "excave" ],
+			"3" : [ "excavemos" ],
+			"4" : [ "excavad" ],
+			"5" : [ "excaven" ]
+		}
+	}
+}

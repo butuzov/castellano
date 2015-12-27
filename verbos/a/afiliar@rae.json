@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=afiliar",
+	"word" : "afiliar",
+	"infinitivo" : "afiliar",
+	"participio" : [ "afiliado" ],
+	"gerundio" : [ "afiliando" ],
+	"tenses" : {
+		"3" : [
+			[ "afilio" ],
+			[ "afilias", "afiliás" ],
+			[ "afilia" ],
+			[ "afiliamos" ],
+			[ "afiliáis", "afilian" ],
+			[ "afilian" ]
+		],
+		"4" : [
+			[ "afilié" ],
+			[ "afiliaste" ],
+			[ "afilió" ],
+			[ "afiliamos" ],
+			[ "afiliasteis", "afiliaron" ],
+			[ "afiliaron" ]
+		],
+		"5" : [
+			[ "afiliaba" ],
+			[ "afiliabas" ],
+			[ "afiliaba" ],
+			[ "afiliábamos" ],
+			[ "afiliabais", "afiliaban" ],
+			[ "afiliaban" ]
+		],
+		"6" : [
+			[ "afiliaría" ],
+			[ "afiliarías" ],
+			[ "afiliaría" ],
+			[ "afiliaríamos" ],
+			[ "afiliaríais", "afiliarían" ],
+			[ "afiliarían" ]
+		],
+		"7" : [
+			[ "afiliaré" ],
+			[ "afiliarás" ],
+			[ "afiliará" ],
+			[ "afiliaremos" ],
+			[ "afiliaréis", "afiliarán" ],
+			[ "afiliarán" ]
+		],
+		"8" : [
+			[ "afilie" ],
+			[ "afilies" ],
+			[ "afilie" ],
+			[ "afiliemos" ],
+			[ "afiliéis", "afilien" ],
+			[ "afilien" ]
+		],
+		"9" : [
+			[ "afiliara" ],
+			[ "afiliaras" ],
+			[ "afiliara" ],
+			[ "afiliáramos" ],
+			[ "afiliarais", "afiliaran" ],
+			[ "afiliaran" ]
+		],
+		"10" : [
+			[ "afiliase" ],
+			[ "afiliases" ],
+			[ "afiliase" ],
+			[ "afiliásemos" ],
+			[ "afiliaseis", "afiliasen" ],
+			[ "afiliasen" ]
+		],
+		"11" : [
+			[ "afiliare" ],
+			[ "afiliares" ],
+			[ "afiliare" ],
+			[ "afiliáremos" ],
+			[ "afiliareis", "afiliaren" ],
+			[ "afiliaren" ]
+		],
+		"12" : {
+			"1" : [ "afilia" ],
+			"2" : [ "afilie" ],
+			"3" : [ "afiliemos" ],
+			"4" : [ "afiliad" ],
+			"5" : [ "afilien" ]
+		}
+	}
+}

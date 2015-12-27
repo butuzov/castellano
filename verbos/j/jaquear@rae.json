@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=jaquear",
+	"word" : "jaquear",
+	"infinitivo" : "jaquear",
+	"participio" : [ "jaqueado" ],
+	"gerundio" : [ "jaqueando" ],
+	"tenses" : {
+		"3" : [
+			[ "jaqueo" ],
+			[ "jaqueas", "jaqueás" ],
+			[ "jaquea" ],
+			[ "jaqueamos" ],
+			[ "jaqueáis", "jaquean" ],
+			[ "jaquean" ]
+		],
+		"4" : [
+			[ "jaqueé" ],
+			[ "jaqueaste" ],
+			[ "jaqueó" ],
+			[ "jaqueamos" ],
+			[ "jaqueasteis", "jaquearon" ],
+			[ "jaquearon" ]
+		],
+		"5" : [
+			[ "jaqueaba" ],
+			[ "jaqueabas" ],
+			[ "jaqueaba" ],
+			[ "jaqueábamos" ],
+			[ "jaqueabais", "jaqueaban" ],
+			[ "jaqueaban" ]
+		],
+		"6" : [
+			[ "jaquearía" ],
+			[ "jaquearías" ],
+			[ "jaquearía" ],
+			[ "jaquearíamos" ],
+			[ "jaquearíais", "jaquearían" ],
+			[ "jaquearían" ]
+		],
+		"7" : [
+			[ "jaquearé" ],
+			[ "jaquearás" ],
+			[ "jaqueará" ],
+			[ "jaquearemos" ],
+			[ "jaquearéis", "jaquearán" ],
+			[ "jaquearán" ]
+		],
+		"8" : [
+			[ "jaquee" ],
+			[ "jaquees" ],
+			[ "jaquee" ],
+			[ "jaqueemos" ],
+			[ "jaqueéis", "jaqueen" ],
+			[ "jaqueen" ]
+		],
+		"9" : [
+			[ "jaqueara" ],
+			[ "jaquearas" ],
+			[ "jaqueara" ],
+			[ "jaqueáramos" ],
+			[ "jaquearais", "jaquearan" ],
+			[ "jaquearan" ]
+		],
+		"10" : [
+			[ "jaquease" ],
+			[ "jaqueases" ],
+			[ "jaquease" ],
+			[ "jaqueásemos" ],
+			[ "jaqueaseis", "jaqueasen" ],
+			[ "jaqueasen" ]
+		],
+		"11" : [
+			[ "jaqueare" ],
+			[ "jaqueares" ],
+			[ "jaqueare" ],
+			[ "jaqueáremos" ],
+			[ "jaqueareis", "jaquearen" ],
+			[ "jaquearen" ]
+		],
+		"12" : {
+			"1" : [ "jaquea" ],
+			"2" : [ "jaquee" ],
+			"3" : [ "jaqueemos" ],
+			"4" : [ "jaquead" ],
+			"5" : [ "jaqueen" ]
+		}
+	}
+}

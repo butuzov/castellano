@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contaminar",
+	"word" : "contaminar",
+	"infinitivo" : "contaminar",
+	"participio" : [ "contaminado" ],
+	"gerundio" : [ "contaminando" ],
+	"tenses" : {
+		"3" : [
+			[ "contamino" ],
+			[ "contaminas", "contaminás" ],
+			[ "contamina" ],
+			[ "contaminamos" ],
+			[ "contamináis", "contaminan" ],
+			[ "contaminan" ]
+		],
+		"4" : [
+			[ "contaminé" ],
+			[ "contaminaste" ],
+			[ "contaminó" ],
+			[ "contaminamos" ],
+			[ "contaminasteis", "contaminaron" ],
+			[ "contaminaron" ]
+		],
+		"5" : [
+			[ "contaminaba" ],
+			[ "contaminabas" ],
+			[ "contaminaba" ],
+			[ "contaminábamos" ],
+			[ "contaminabais", "contaminaban" ],
+			[ "contaminaban" ]
+		],
+		"6" : [
+			[ "contaminaría" ],
+			[ "contaminarías" ],
+			[ "contaminaría" ],
+			[ "contaminaríamos" ],
+			[ "contaminaríais", "contaminarían" ],
+			[ "contaminarían" ]
+		],
+		"7" : [
+			[ "contaminaré" ],
+			[ "contaminarás" ],
+			[ "contaminará" ],
+			[ "contaminaremos" ],
+			[ "contaminaréis", "contaminarán" ],
+			[ "contaminarán" ]
+		],
+		"8" : [
+			[ "contamine" ],
+			[ "contamines" ],
+			[ "contamine" ],
+			[ "contaminemos" ],
+			[ "contaminéis", "contaminen" ],
+			[ "contaminen" ]
+		],
+		"9" : [
+			[ "contaminara" ],
+			[ "contaminaras" ],
+			[ "contaminara" ],
+			[ "contamináramos" ],
+			[ "contaminarais", "contaminaran" ],
+			[ "contaminaran" ]
+		],
+		"10" : [
+			[ "contaminase" ],
+			[ "contaminases" ],
+			[ "contaminase" ],
+			[ "contaminásemos" ],
+			[ "contaminaseis", "contaminasen" ],
+			[ "contaminasen" ]
+		],
+		"11" : [
+			[ "contaminare" ],
+			[ "contaminares" ],
+			[ "contaminare" ],
+			[ "contamináremos" ],
+			[ "contaminareis", "contaminaren" ],
+			[ "contaminaren" ]
+		],
+		"12" : {
+			"1" : [ "contamina" ],
+			"2" : [ "contamine" ],
+			"3" : [ "contaminemos" ],
+			"4" : [ "contaminad" ],
+			"5" : [ "contaminen" ]
+		}
+	}
+}

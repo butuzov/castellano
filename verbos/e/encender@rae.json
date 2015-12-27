@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encender",
+	"word" : "encender",
+	"infinitivo" : "encender",
+	"participio" : [ "encendido" ],
+	"gerundio" : [ "encendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "enciendo" ],
+			[ "enciendes", "encendés" ],
+			[ "enciende" ],
+			[ "encendemos" ],
+			[ "encendéis", "encienden" ],
+			[ "encienden" ]
+		],
+		"4" : [
+			[ "encendí" ],
+			[ "encendiste" ],
+			[ "encendió" ],
+			[ "encendimos" ],
+			[ "encendisteis", "encendieron" ],
+			[ "encendieron" ]
+		],
+		"5" : [
+			[ "encendía" ],
+			[ "encendías" ],
+			[ "encendía" ],
+			[ "encendíamos" ],
+			[ "encendíais", "encendían" ],
+			[ "encendían" ]
+		],
+		"6" : [
+			[ "encendería" ],
+			[ "encenderías" ],
+			[ "encendería" ],
+			[ "encenderíamos" ],
+			[ "encenderíais", "encenderían" ],
+			[ "encenderían" ]
+		],
+		"7" : [
+			[ "encenderé" ],
+			[ "encenderás" ],
+			[ "encenderá" ],
+			[ "encenderemos" ],
+			[ "encenderéis", "encenderán" ],
+			[ "encenderán" ]
+		],
+		"8" : [
+			[ "encienda" ],
+			[ "enciendas" ],
+			[ "encienda" ],
+			[ "encendamos" ],
+			[ "encendáis", "enciendan" ],
+			[ "enciendan" ]
+		],
+		"9" : [
+			[ "encendiera" ],
+			[ "encendieras" ],
+			[ "encendiera" ],
+			[ "encendiéramos" ],
+			[ "encendierais", "encendieran" ],
+			[ "encendieran" ]
+		],
+		"10" : [
+			[ "encendiese" ],
+			[ "encendieses" ],
+			[ "encendiese" ],
+			[ "encendiésemos" ],
+			[ "encendieseis", "encendiesen" ],
+			[ "encendiesen" ]
+		],
+		"11" : [
+			[ "encendiere" ],
+			[ "encendieres" ],
+			[ "encendiere" ],
+			[ "encendiéremos" ],
+			[ "encendiereis", "encendieren" ],
+			[ "encendieren" ]
+		],
+		"12" : {
+			"1" : [ "enciende" ],
+			"2" : [ "encienda" ],
+			"3" : [ "encendamos" ],
+			"4" : [ "encended" ],
+			"5" : [ "enciendan" ]
+		}
+	}
+}

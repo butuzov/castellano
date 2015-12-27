@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=vindicar",
+	"word" : "vindicar",
+	"infinitivo" : "vindicar",
+	"participio" : [ "vindicado" ],
+	"gerundio" : [ "vindicando" ],
+	"tenses" : {
+		"3" : [
+			[ "vindico" ],
+			[ "vindicas", "vindicás" ],
+			[ "vindica" ],
+			[ "vindicamos" ],
+			[ "vindicáis", "vindican" ],
+			[ "vindican" ]
+		],
+		"4" : [
+			[ "vindiqué" ],
+			[ "vindicaste" ],
+			[ "vindicó" ],
+			[ "vindicamos" ],
+			[ "vindicasteis", "vindicaron" ],
+			[ "vindicaron" ]
+		],
+		"5" : [
+			[ "vindicaba" ],
+			[ "vindicabas" ],
+			[ "vindicaba" ],
+			[ "vindicábamos" ],
+			[ "vindicabais", "vindicaban" ],
+			[ "vindicaban" ]
+		],
+		"6" : [
+			[ "vindicaría" ],
+			[ "vindicarías" ],
+			[ "vindicaría" ],
+			[ "vindicaríamos" ],
+			[ "vindicaríais", "vindicarían" ],
+			[ "vindicarían" ]
+		],
+		"7" : [
+			[ "vindicaré" ],
+			[ "vindicarás" ],
+			[ "vindicará" ],
+			[ "vindicaremos" ],
+			[ "vindicaréis", "vindicarán" ],
+			[ "vindicarán" ]
+		],
+		"8" : [
+			[ "vindique" ],
+			[ "vindiques" ],
+			[ "vindique" ],
+			[ "vindiquemos" ],
+			[ "vindiquéis", "vindiquen" ],
+			[ "vindiquen" ]
+		],
+		"9" : [
+			[ "vindicara" ],
+			[ "vindicaras" ],
+			[ "vindicara" ],
+			[ "vindicáramos" ],
+			[ "vindicarais", "vindicaran" ],
+			[ "vindicaran" ]
+		],
+		"10" : [
+			[ "vindicase" ],
+			[ "vindicases" ],
+			[ "vindicase" ],
+			[ "vindicásemos" ],
+			[ "vindicaseis", "vindicasen" ],
+			[ "vindicasen" ]
+		],
+		"11" : [
+			[ "vindicare" ],
+			[ "vindicares" ],
+			[ "vindicare" ],
+			[ "vindicáremos" ],
+			[ "vindicareis", "vindicaren" ],
+			[ "vindicaren" ]
+		],
+		"12" : {
+			"1" : [ "vindica" ],
+			"2" : [ "vindique" ],
+			"3" : [ "vindiquemos" ],
+			"4" : [ "vindicad" ],
+			"5" : [ "vindiquen" ]
+		}
+	}
+}

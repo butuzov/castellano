@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=recaer",
+	"word" : "recaer",
+	"infinitivo" : "recaer",
+	"participio" : [ "recaído" ],
+	"gerundio" : [ "recayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "recaigo" ],
+			[ "recaes", "recaés" ],
+			[ "recae" ],
+			[ "recaemos" ],
+			[ "recaéis", "recaen" ],
+			[ "recaen" ]
+		],
+		"4" : [
+			[ "recaí" ],
+			[ "recaíste" ],
+			[ "recayó" ],
+			[ "recaímos" ],
+			[ "recaísteis", "recayeron" ],
+			[ "recayeron" ]
+		],
+		"5" : [
+			[ "recaía" ],
+			[ "recaías" ],
+			[ "recaía" ],
+			[ "recaíamos" ],
+			[ "recaíais", "recaían" ],
+			[ "recaían" ]
+		],
+		"6" : [
+			[ "recaería" ],
+			[ "recaerías" ],
+			[ "recaería" ],
+			[ "recaeríamos" ],
+			[ "recaeríais", "recaerían" ],
+			[ "recaerían" ]
+		],
+		"7" : [
+			[ "recaeré" ],
+			[ "recaerás" ],
+			[ "recaerá" ],
+			[ "recaeremos" ],
+			[ "recaeréis", "recaerán" ],
+			[ "recaerán" ]
+		],
+		"8" : [
+			[ "recaiga" ],
+			[ "recaigas" ],
+			[ "recaiga" ],
+			[ "recaigamos" ],
+			[ "recaigáis", "recaigan" ],
+			[ "recaigan" ]
+		],
+		"9" : [
+			[ "recayera" ],
+			[ "recayeras" ],
+			[ "recayera" ],
+			[ "recayéramos" ],
+			[ "recayerais", "recayeran" ],
+			[ "recayeran" ]
+		],
+		"10" : [
+			[ "recayese" ],
+			[ "recayeses" ],
+			[ "recayese" ],
+			[ "recayésemos" ],
+			[ "recayeseis", "recayesen" ],
+			[ "recayesen" ]
+		],
+		"11" : [
+			[ "recayere" ],
+			[ "recayeres" ],
+			[ "recayere" ],
+			[ "recayéremos" ],
+			[ "recayereis", "recayeren" ],
+			[ "recayeren" ]
+		],
+		"12" : {
+			"1" : [ "recae" ],
+			"2" : [ "recaiga" ],
+			"3" : [ "recaigamos" ],
+			"4" : [ "recaed" ],
+			"5" : [ "recaigan" ]
+		}
+	}
+}

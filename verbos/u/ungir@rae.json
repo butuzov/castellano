@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ungir",
+	"word" : "ungir",
+	"infinitivo" : "ungir",
+	"participio" : [ "ungido" ],
+	"gerundio" : [ "ungiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "unjo" ],
+			[ "unges", "ungís" ],
+			[ "unge" ],
+			[ "ungimos" ],
+			[ "ungís", "ungen" ],
+			[ "ungen" ]
+		],
+		"4" : [
+			[ "ungí" ],
+			[ "ungiste" ],
+			[ "ungió" ],
+			[ "ungimos" ],
+			[ "ungisteis", "ungieron" ],
+			[ "ungieron" ]
+		],
+		"5" : [
+			[ "ungía" ],
+			[ "ungías" ],
+			[ "ungía" ],
+			[ "ungíamos" ],
+			[ "ungíais", "ungían" ],
+			[ "ungían" ]
+		],
+		"6" : [
+			[ "ungiría" ],
+			[ "ungirías" ],
+			[ "ungiría" ],
+			[ "ungiríamos" ],
+			[ "ungiríais", "ungirían" ],
+			[ "ungirían" ]
+		],
+		"7" : [
+			[ "ungiré" ],
+			[ "ungirás" ],
+			[ "ungirá" ],
+			[ "ungiremos" ],
+			[ "ungiréis", "ungirán" ],
+			[ "ungirán" ]
+		],
+		"8" : [
+			[ "unja" ],
+			[ "unjas" ],
+			[ "unja" ],
+			[ "unjamos" ],
+			[ "unjáis", "unjan" ],
+			[ "unjan" ]
+		],
+		"9" : [
+			[ "ungiera" ],
+			[ "ungieras" ],
+			[ "ungiera" ],
+			[ "ungiéramos" ],
+			[ "ungierais", "ungieran" ],
+			[ "ungieran" ]
+		],
+		"10" : [
+			[ "ungiese" ],
+			[ "ungieses" ],
+			[ "ungiese" ],
+			[ "ungiésemos" ],
+			[ "ungieseis", "ungiesen" ],
+			[ "ungiesen" ]
+		],
+		"11" : [
+			[ "ungiere" ],
+			[ "ungieres" ],
+			[ "ungiere" ],
+			[ "ungiéremos" ],
+			[ "ungiereis", "ungieren" ],
+			[ "ungieren" ]
+		],
+		"12" : {
+			"1" : [ "unge" ],
+			"2" : [ "unja" ],
+			"3" : [ "unjamos" ],
+			"4" : [ "ungid" ],
+			"5" : [ "unjan" ]
+		}
+	}
+}

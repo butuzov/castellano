@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=internar",
+	"word" : "internar",
+	"infinitivo" : "internar",
+	"participio" : [ "internado" ],
+	"gerundio" : [ "internando" ],
+	"tenses" : {
+		"3" : [
+			[ "interno" ],
+			[ "internas", "internás" ],
+			[ "interna" ],
+			[ "internamos" ],
+			[ "internáis", "internan" ],
+			[ "internan" ]
+		],
+		"4" : [
+			[ "interné" ],
+			[ "internaste" ],
+			[ "internó" ],
+			[ "internamos" ],
+			[ "internasteis", "internaron" ],
+			[ "internaron" ]
+		],
+		"5" : [
+			[ "internaba" ],
+			[ "internabas" ],
+			[ "internaba" ],
+			[ "internábamos" ],
+			[ "internabais", "internaban" ],
+			[ "internaban" ]
+		],
+		"6" : [
+			[ "internaría" ],
+			[ "internarías" ],
+			[ "internaría" ],
+			[ "internaríamos" ],
+			[ "internaríais", "internarían" ],
+			[ "internarían" ]
+		],
+		"7" : [
+			[ "internaré" ],
+			[ "internarás" ],
+			[ "internará" ],
+			[ "internaremos" ],
+			[ "internaréis", "internarán" ],
+			[ "internarán" ]
+		],
+		"8" : [
+			[ "interne" ],
+			[ "internes" ],
+			[ "interne" ],
+			[ "internemos" ],
+			[ "internéis", "internen" ],
+			[ "internen" ]
+		],
+		"9" : [
+			[ "internara" ],
+			[ "internaras" ],
+			[ "internara" ],
+			[ "internáramos" ],
+			[ "internarais", "internaran" ],
+			[ "internaran" ]
+		],
+		"10" : [
+			[ "internase" ],
+			[ "internases" ],
+			[ "internase" ],
+			[ "internásemos" ],
+			[ "internaseis", "internasen" ],
+			[ "internasen" ]
+		],
+		"11" : [
+			[ "internare" ],
+			[ "internares" ],
+			[ "internare" ],
+			[ "internáremos" ],
+			[ "internareis", "internaren" ],
+			[ "internaren" ]
+		],
+		"12" : {
+			"1" : [ "interna" ],
+			"2" : [ "interne" ],
+			"3" : [ "internemos" ],
+			"4" : [ "internad" ],
+			"5" : [ "internen" ]
+		}
+	}
+}

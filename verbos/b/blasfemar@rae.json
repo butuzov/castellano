@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=blasfemar",
+	"word" : "blasfemar",
+	"infinitivo" : "blasfemar",
+	"participio" : [ "blasfemado" ],
+	"gerundio" : [ "blasfemando" ],
+	"tenses" : {
+		"3" : [
+			[ "blasfemo" ],
+			[ "blasfemas", "blasfemás" ],
+			[ "blasfema" ],
+			[ "blasfemamos" ],
+			[ "blasfemáis", "blasfeman" ],
+			[ "blasfeman" ]
+		],
+		"4" : [
+			[ "blasfemé" ],
+			[ "blasfemaste" ],
+			[ "blasfemó" ],
+			[ "blasfemamos" ],
+			[ "blasfemasteis", "blasfemaron" ],
+			[ "blasfemaron" ]
+		],
+		"5" : [
+			[ "blasfemaba" ],
+			[ "blasfemabas" ],
+			[ "blasfemaba" ],
+			[ "blasfemábamos" ],
+			[ "blasfemabais", "blasfemaban" ],
+			[ "blasfemaban" ]
+		],
+		"6" : [
+			[ "blasfemaría" ],
+			[ "blasfemarías" ],
+			[ "blasfemaría" ],
+			[ "blasfemaríamos" ],
+			[ "blasfemaríais", "blasfemarían" ],
+			[ "blasfemarían" ]
+		],
+		"7" : [
+			[ "blasfemaré" ],
+			[ "blasfemarás" ],
+			[ "blasfemará" ],
+			[ "blasfemaremos" ],
+			[ "blasfemaréis", "blasfemarán" ],
+			[ "blasfemarán" ]
+		],
+		"8" : [
+			[ "blasfeme" ],
+			[ "blasfemes" ],
+			[ "blasfeme" ],
+			[ "blasfememos" ],
+			[ "blasfeméis", "blasfemen" ],
+			[ "blasfemen" ]
+		],
+		"9" : [
+			[ "blasfemara" ],
+			[ "blasfemaras" ],
+			[ "blasfemara" ],
+			[ "blasfemáramos" ],
+			[ "blasfemarais", "blasfemaran" ],
+			[ "blasfemaran" ]
+		],
+		"10" : [
+			[ "blasfemase" ],
+			[ "blasfemases" ],
+			[ "blasfemase" ],
+			[ "blasfemásemos" ],
+			[ "blasfemaseis", "blasfemasen" ],
+			[ "blasfemasen" ]
+		],
+		"11" : [
+			[ "blasfemare" ],
+			[ "blasfemares" ],
+			[ "blasfemare" ],
+			[ "blasfemáremos" ],
+			[ "blasfemareis", "blasfemaren" ],
+			[ "blasfemaren" ]
+		],
+		"12" : {
+			"1" : [ "blasfema" ],
+			"2" : [ "blasfeme" ],
+			"3" : [ "blasfememos" ],
+			"4" : [ "blasfemad" ],
+			"5" : [ "blasfemen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=comisionar",
+	"word" : "comisionar",
+	"infinitivo" : "comisionar",
+	"participio" : [ "comisionado" ],
+	"gerundio" : [ "comisionando" ],
+	"tenses" : {
+		"3" : [
+			[ "comisiono" ],
+			[ "comisionas", "comisionás" ],
+			[ "comisiona" ],
+			[ "comisionamos" ],
+			[ "comisionáis", "comisionan" ],
+			[ "comisionan" ]
+		],
+		"4" : [
+			[ "comisioné" ],
+			[ "comisionaste" ],
+			[ "comisionó" ],
+			[ "comisionamos" ],
+			[ "comisionasteis", "comisionaron" ],
+			[ "comisionaron" ]
+		],
+		"5" : [
+			[ "comisionaba" ],
+			[ "comisionabas" ],
+			[ "comisionaba" ],
+			[ "comisionábamos" ],
+			[ "comisionabais", "comisionaban" ],
+			[ "comisionaban" ]
+		],
+		"6" : [
+			[ "comisionaría" ],
+			[ "comisionarías" ],
+			[ "comisionaría" ],
+			[ "comisionaríamos" ],
+			[ "comisionaríais", "comisionarían" ],
+			[ "comisionarían" ]
+		],
+		"7" : [
+			[ "comisionaré" ],
+			[ "comisionarás" ],
+			[ "comisionará" ],
+			[ "comisionaremos" ],
+			[ "comisionaréis", "comisionarán" ],
+			[ "comisionarán" ]
+		],
+		"8" : [
+			[ "comisione" ],
+			[ "comisiones" ],
+			[ "comisione" ],
+			[ "comisionemos" ],
+			[ "comisionéis", "comisionen" ],
+			[ "comisionen" ]
+		],
+		"9" : [
+			[ "comisionara" ],
+			[ "comisionaras" ],
+			[ "comisionara" ],
+			[ "comisionáramos" ],
+			[ "comisionarais", "comisionaran" ],
+			[ "comisionaran" ]
+		],
+		"10" : [
+			[ "comisionase" ],
+			[ "comisionases" ],
+			[ "comisionase" ],
+			[ "comisionásemos" ],
+			[ "comisionaseis", "comisionasen" ],
+			[ "comisionasen" ]
+		],
+		"11" : [
+			[ "comisionare" ],
+			[ "comisionares" ],
+			[ "comisionare" ],
+			[ "comisionáremos" ],
+			[ "comisionareis", "comisionaren" ],
+			[ "comisionaren" ]
+		],
+		"12" : {
+			"1" : [ "comisiona" ],
+			"2" : [ "comisione" ],
+			"3" : [ "comisionemos" ],
+			"4" : [ "comisionad" ],
+			"5" : [ "comisionen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apurrir",
+	"word" : "apurrir",
+	"infinitivo" : "apurrir",
+	"participio" : [ "apurrido" ],
+	"gerundio" : [ "apurriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "apurro" ],
+			[ "apurres", "apurrís" ],
+			[ "apurre" ],
+			[ "apurrimos" ],
+			[ "apurrís", "apurren" ],
+			[ "apurren" ]
+		],
+		"4" : [
+			[ "apurrí" ],
+			[ "apurriste" ],
+			[ "apurrió" ],
+			[ "apurrimos" ],
+			[ "apurristeis", "apurrieron" ],
+			[ "apurrieron" ]
+		],
+		"5" : [
+			[ "apurría" ],
+			[ "apurrías" ],
+			[ "apurría" ],
+			[ "apurríamos" ],
+			[ "apurríais", "apurrían" ],
+			[ "apurrían" ]
+		],
+		"6" : [
+			[ "apurriría" ],
+			[ "apurrirías" ],
+			[ "apurriría" ],
+			[ "apurriríamos" ],
+			[ "apurriríais", "apurrirían" ],
+			[ "apurrirían" ]
+		],
+		"7" : [
+			[ "apurriré" ],
+			[ "apurrirás" ],
+			[ "apurrirá" ],
+			[ "apurriremos" ],
+			[ "apurriréis", "apurrirán" ],
+			[ "apurrirán" ]
+		],
+		"8" : [
+			[ "apurra" ],
+			[ "apurras" ],
+			[ "apurra" ],
+			[ "apurramos" ],
+			[ "apurráis", "apurran" ],
+			[ "apurran" ]
+		],
+		"9" : [
+			[ "apurriera" ],
+			[ "apurrieras" ],
+			[ "apurriera" ],
+			[ "apurriéramos" ],
+			[ "apurrierais", "apurrieran" ],
+			[ "apurrieran" ]
+		],
+		"10" : [
+			[ "apurriese" ],
+			[ "apurrieses" ],
+			[ "apurriese" ],
+			[ "apurriésemos" ],
+			[ "apurrieseis", "apurriesen" ],
+			[ "apurriesen" ]
+		],
+		"11" : [
+			[ "apurriere" ],
+			[ "apurrieres" ],
+			[ "apurriere" ],
+			[ "apurriéremos" ],
+			[ "apurriereis", "apurrieren" ],
+			[ "apurrieren" ]
+		],
+		"12" : {
+			"1" : [ "apurre" ],
+			"2" : [ "apurra" ],
+			"3" : [ "apurramos" ],
+			"4" : [ "apurrid" ],
+			"5" : [ "apurran" ]
+		}
+	}
+}

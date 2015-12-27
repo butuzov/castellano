@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=respaldar",
+	"word" : "respaldar",
+	"infinitivo" : "respaldar",
+	"participio" : [ "respaldado" ],
+	"gerundio" : [ "respaldando" ],
+	"tenses" : {
+		"3" : [
+			[ "respaldo" ],
+			[ "respaldas", "respaldás" ],
+			[ "respalda" ],
+			[ "respaldamos" ],
+			[ "respaldáis", "respaldan" ],
+			[ "respaldan" ]
+		],
+		"4" : [
+			[ "respaldé" ],
+			[ "respaldaste" ],
+			[ "respaldó" ],
+			[ "respaldamos" ],
+			[ "respaldasteis", "respaldaron" ],
+			[ "respaldaron" ]
+		],
+		"5" : [
+			[ "respaldaba" ],
+			[ "respaldabas" ],
+			[ "respaldaba" ],
+			[ "respaldábamos" ],
+			[ "respaldabais", "respaldaban" ],
+			[ "respaldaban" ]
+		],
+		"6" : [
+			[ "respaldaría" ],
+			[ "respaldarías" ],
+			[ "respaldaría" ],
+			[ "respaldaríamos" ],
+			[ "respaldaríais", "respaldarían" ],
+			[ "respaldarían" ]
+		],
+		"7" : [
+			[ "respaldaré" ],
+			[ "respaldarás" ],
+			[ "respaldará" ],
+			[ "respaldaremos" ],
+			[ "respaldaréis", "respaldarán" ],
+			[ "respaldarán" ]
+		],
+		"8" : [
+			[ "respalde" ],
+			[ "respaldes" ],
+			[ "respalde" ],
+			[ "respaldemos" ],
+			[ "respaldéis", "respalden" ],
+			[ "respalden" ]
+		],
+		"9" : [
+			[ "respaldara" ],
+			[ "respaldaras" ],
+			[ "respaldara" ],
+			[ "respaldáramos" ],
+			[ "respaldarais", "respaldaran" ],
+			[ "respaldaran" ]
+		],
+		"10" : [
+			[ "respaldase" ],
+			[ "respaldases" ],
+			[ "respaldase" ],
+			[ "respaldásemos" ],
+			[ "respaldaseis", "respaldasen" ],
+			[ "respaldasen" ]
+		],
+		"11" : [
+			[ "respaldare" ],
+			[ "respaldares" ],
+			[ "respaldare" ],
+			[ "respaldáremos" ],
+			[ "respaldareis", "respaldaren" ],
+			[ "respaldaren" ]
+		],
+		"12" : {
+			"1" : [ "respalda" ],
+			"2" : [ "respalde" ],
+			"3" : [ "respaldemos" ],
+			"4" : [ "respaldad" ],
+			"5" : [ "respalden" ]
+		}
+	}
+}

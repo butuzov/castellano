@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aparentar",
+	"word" : "aparentar",
+	"infinitivo" : "aparentar",
+	"participio" : [ "aparentado" ],
+	"gerundio" : [ "aparentando" ],
+	"tenses" : {
+		"3" : [
+			[ "aparento" ],
+			[ "aparentas", "aparentás" ],
+			[ "aparenta" ],
+			[ "aparentamos" ],
+			[ "aparentáis", "aparentan" ],
+			[ "aparentan" ]
+		],
+		"4" : [
+			[ "aparenté" ],
+			[ "aparentaste" ],
+			[ "aparentó" ],
+			[ "aparentamos" ],
+			[ "aparentasteis", "aparentaron" ],
+			[ "aparentaron" ]
+		],
+		"5" : [
+			[ "aparentaba" ],
+			[ "aparentabas" ],
+			[ "aparentaba" ],
+			[ "aparentábamos" ],
+			[ "aparentabais", "aparentaban" ],
+			[ "aparentaban" ]
+		],
+		"6" : [
+			[ "aparentaría" ],
+			[ "aparentarías" ],
+			[ "aparentaría" ],
+			[ "aparentaríamos" ],
+			[ "aparentaríais", "aparentarían" ],
+			[ "aparentarían" ]
+		],
+		"7" : [
+			[ "aparentaré" ],
+			[ "aparentarás" ],
+			[ "aparentará" ],
+			[ "aparentaremos" ],
+			[ "aparentaréis", "aparentarán" ],
+			[ "aparentarán" ]
+		],
+		"8" : [
+			[ "aparente" ],
+			[ "aparentes" ],
+			[ "aparente" ],
+			[ "aparentemos" ],
+			[ "aparentéis", "aparenten" ],
+			[ "aparenten" ]
+		],
+		"9" : [
+			[ "aparentara" ],
+			[ "aparentaras" ],
+			[ "aparentara" ],
+			[ "aparentáramos" ],
+			[ "aparentarais", "aparentaran" ],
+			[ "aparentaran" ]
+		],
+		"10" : [
+			[ "aparentase" ],
+			[ "aparentases" ],
+			[ "aparentase" ],
+			[ "aparentásemos" ],
+			[ "aparentaseis", "aparentasen" ],
+			[ "aparentasen" ]
+		],
+		"11" : [
+			[ "aparentare" ],
+			[ "aparentares" ],
+			[ "aparentare" ],
+			[ "aparentáremos" ],
+			[ "aparentareis", "aparentaren" ],
+			[ "aparentaren" ]
+		],
+		"12" : {
+			"1" : [ "aparenta" ],
+			"2" : [ "aparente" ],
+			"3" : [ "aparentemos" ],
+			"4" : [ "aparentad" ],
+			"5" : [ "aparenten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=videograbar",
+	"word" : "videograbar",
+	"infinitivo" : "videograbar",
+	"participio" : [ "videograbado" ],
+	"gerundio" : [ "videograbando" ],
+	"tenses" : {
+		"3" : [
+			[ "videograbo" ],
+			[ "videograbas", "videograbás" ],
+			[ "videograba" ],
+			[ "videograbamos" ],
+			[ "videograbáis", "videograban" ],
+			[ "videograban" ]
+		],
+		"4" : [
+			[ "videograbé" ],
+			[ "videograbaste" ],
+			[ "videograbó" ],
+			[ "videograbamos" ],
+			[ "videograbasteis", "videograbaron" ],
+			[ "videograbaron" ]
+		],
+		"5" : [
+			[ "videogrababa" ],
+			[ "videogrababas" ],
+			[ "videogrababa" ],
+			[ "videograbábamos" ],
+			[ "videogrababais", "videogrababan" ],
+			[ "videogrababan" ]
+		],
+		"6" : [
+			[ "videograbaría" ],
+			[ "videograbarías" ],
+			[ "videograbaría" ],
+			[ "videograbaríamos" ],
+			[ "videograbaríais", "videograbarían" ],
+			[ "videograbarían" ]
+		],
+		"7" : [
+			[ "videograbaré" ],
+			[ "videograbarás" ],
+			[ "videograbará" ],
+			[ "videograbaremos" ],
+			[ "videograbaréis", "videograbarán" ],
+			[ "videograbarán" ]
+		],
+		"8" : [
+			[ "videograbe" ],
+			[ "videograbes" ],
+			[ "videograbe" ],
+			[ "videograbemos" ],
+			[ "videograbéis", "videograben" ],
+			[ "videograben" ]
+		],
+		"9" : [
+			[ "videograbara" ],
+			[ "videograbaras" ],
+			[ "videograbara" ],
+			[ "videograbáramos" ],
+			[ "videograbarais", "videograbaran" ],
+			[ "videograbaran" ]
+		],
+		"10" : [
+			[ "videograbase" ],
+			[ "videograbases" ],
+			[ "videograbase" ],
+			[ "videograbásemos" ],
+			[ "videograbaseis", "videograbasen" ],
+			[ "videograbasen" ]
+		],
+		"11" : [
+			[ "videograbare" ],
+			[ "videograbares" ],
+			[ "videograbare" ],
+			[ "videograbáremos" ],
+			[ "videograbareis", "videograbaren" ],
+			[ "videograbaren" ]
+		],
+		"12" : {
+			"1" : [ "videograba" ],
+			"2" : [ "videograbe" ],
+			"3" : [ "videograbemos" ],
+			"4" : [ "videograbad" ],
+			"5" : [ "videograben" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sumar",
+	"word" : "sumar",
+	"infinitivo" : "sumar",
+	"participio" : [ "sumado" ],
+	"gerundio" : [ "sumando" ],
+	"tenses" : {
+		"3" : [
+			[ "sumo" ],
+			[ "sumas", "sumás" ],
+			[ "suma" ],
+			[ "sumamos" ],
+			[ "sumáis", "suman" ],
+			[ "suman" ]
+		],
+		"4" : [
+			[ "sumé" ],
+			[ "sumaste" ],
+			[ "sumó" ],
+			[ "sumamos" ],
+			[ "sumasteis", "sumaron" ],
+			[ "sumaron" ]
+		],
+		"5" : [
+			[ "sumaba" ],
+			[ "sumabas" ],
+			[ "sumaba" ],
+			[ "sumábamos" ],
+			[ "sumabais", "sumaban" ],
+			[ "sumaban" ]
+		],
+		"6" : [
+			[ "sumaría" ],
+			[ "sumarías" ],
+			[ "sumaría" ],
+			[ "sumaríamos" ],
+			[ "sumaríais", "sumarían" ],
+			[ "sumarían" ]
+		],
+		"7" : [
+			[ "sumaré" ],
+			[ "sumarás" ],
+			[ "sumará" ],
+			[ "sumaremos" ],
+			[ "sumaréis", "sumarán" ],
+			[ "sumarán" ]
+		],
+		"8" : [
+			[ "sume" ],
+			[ "sumes" ],
+			[ "sume" ],
+			[ "sumemos" ],
+			[ "suméis", "sumen" ],
+			[ "sumen" ]
+		],
+		"9" : [
+			[ "sumara" ],
+			[ "sumaras" ],
+			[ "sumara" ],
+			[ "sumáramos" ],
+			[ "sumarais", "sumaran" ],
+			[ "sumaran" ]
+		],
+		"10" : [
+			[ "sumase" ],
+			[ "sumases" ],
+			[ "sumase" ],
+			[ "sumásemos" ],
+			[ "sumaseis", "sumasen" ],
+			[ "sumasen" ]
+		],
+		"11" : [
+			[ "sumare" ],
+			[ "sumares" ],
+			[ "sumare" ],
+			[ "sumáremos" ],
+			[ "sumareis", "sumaren" ],
+			[ "sumaren" ]
+		],
+		"12" : {
+			"1" : [ "suma" ],
+			"2" : [ "sume" ],
+			"3" : [ "sumemos" ],
+			"4" : [ "sumad" ],
+			"5" : [ "sumen" ]
+		}
+	}
+}

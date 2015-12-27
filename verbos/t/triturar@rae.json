@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=triturar",
+	"word" : "triturar",
+	"infinitivo" : "triturar",
+	"participio" : [ "triturado" ],
+	"gerundio" : [ "triturando" ],
+	"tenses" : {
+		"3" : [
+			[ "trituro" ],
+			[ "trituras", "triturás" ],
+			[ "tritura" ],
+			[ "trituramos" ],
+			[ "trituráis", "trituran" ],
+			[ "trituran" ]
+		],
+		"4" : [
+			[ "trituré" ],
+			[ "trituraste" ],
+			[ "trituró" ],
+			[ "trituramos" ],
+			[ "triturasteis", "trituraron" ],
+			[ "trituraron" ]
+		],
+		"5" : [
+			[ "trituraba" ],
+			[ "triturabas" ],
+			[ "trituraba" ],
+			[ "triturábamos" ],
+			[ "triturabais", "trituraban" ],
+			[ "trituraban" ]
+		],
+		"6" : [
+			[ "trituraría" ],
+			[ "triturarías" ],
+			[ "trituraría" ],
+			[ "trituraríamos" ],
+			[ "trituraríais", "triturarían" ],
+			[ "triturarían" ]
+		],
+		"7" : [
+			[ "trituraré" ],
+			[ "triturarás" ],
+			[ "triturará" ],
+			[ "trituraremos" ],
+			[ "trituraréis", "triturarán" ],
+			[ "triturarán" ]
+		],
+		"8" : [
+			[ "triture" ],
+			[ "tritures" ],
+			[ "triture" ],
+			[ "trituremos" ],
+			[ "trituréis", "trituren" ],
+			[ "trituren" ]
+		],
+		"9" : [
+			[ "triturara" ],
+			[ "trituraras" ],
+			[ "triturara" ],
+			[ "trituráramos" ],
+			[ "triturarais", "trituraran" ],
+			[ "trituraran" ]
+		],
+		"10" : [
+			[ "triturase" ],
+			[ "triturases" ],
+			[ "triturase" ],
+			[ "triturásemos" ],
+			[ "trituraseis", "triturasen" ],
+			[ "triturasen" ]
+		],
+		"11" : [
+			[ "triturare" ],
+			[ "triturares" ],
+			[ "triturare" ],
+			[ "trituráremos" ],
+			[ "triturareis", "trituraren" ],
+			[ "trituraren" ]
+		],
+		"12" : {
+			"1" : [ "tritura" ],
+			"2" : [ "triture" ],
+			"3" : [ "trituremos" ],
+			"4" : [ "triturad" ],
+			"5" : [ "trituren" ]
+		}
+	}
+}

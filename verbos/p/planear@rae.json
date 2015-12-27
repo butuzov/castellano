@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=planear",
+	"word" : "planear",
+	"infinitivo" : "planear",
+	"participio" : [ "planeado" ],
+	"gerundio" : [ "planeando" ],
+	"tenses" : {
+		"3" : [
+			[ "planeo" ],
+			[ "planeas", "planeás" ],
+			[ "planea" ],
+			[ "planeamos" ],
+			[ "planeáis", "planean" ],
+			[ "planean" ]
+		],
+		"4" : [
+			[ "planeé" ],
+			[ "planeaste" ],
+			[ "planeó" ],
+			[ "planeamos" ],
+			[ "planeasteis", "planearon" ],
+			[ "planearon" ]
+		],
+		"5" : [
+			[ "planeaba" ],
+			[ "planeabas" ],
+			[ "planeaba" ],
+			[ "planeábamos" ],
+			[ "planeabais", "planeaban" ],
+			[ "planeaban" ]
+		],
+		"6" : [
+			[ "planearía" ],
+			[ "planearías" ],
+			[ "planearía" ],
+			[ "planearíamos" ],
+			[ "planearíais", "planearían" ],
+			[ "planearían" ]
+		],
+		"7" : [
+			[ "planearé" ],
+			[ "planearás" ],
+			[ "planeará" ],
+			[ "planearemos" ],
+			[ "planearéis", "planearán" ],
+			[ "planearán" ]
+		],
+		"8" : [
+			[ "planee" ],
+			[ "planees" ],
+			[ "planee" ],
+			[ "planeemos" ],
+			[ "planeéis", "planeen" ],
+			[ "planeen" ]
+		],
+		"9" : [
+			[ "planeara" ],
+			[ "planearas" ],
+			[ "planeara" ],
+			[ "planeáramos" ],
+			[ "planearais", "planearan" ],
+			[ "planearan" ]
+		],
+		"10" : [
+			[ "planease" ],
+			[ "planeases" ],
+			[ "planease" ],
+			[ "planeásemos" ],
+			[ "planeaseis", "planeasen" ],
+			[ "planeasen" ]
+		],
+		"11" : [
+			[ "planeare" ],
+			[ "planeares" ],
+			[ "planeare" ],
+			[ "planeáremos" ],
+			[ "planeareis", "planearen" ],
+			[ "planearen" ]
+		],
+		"12" : {
+			"1" : [ "planea" ],
+			"2" : [ "planee" ],
+			"3" : [ "planeemos" ],
+			"4" : [ "planead" ],
+			"5" : [ "planeen" ]
+		}
+	}
+}

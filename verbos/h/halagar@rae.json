@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=halagar",
+	"word" : "halagar",
+	"infinitivo" : "halagar",
+	"participio" : [ "halagado" ],
+	"gerundio" : [ "halagando" ],
+	"tenses" : {
+		"3" : [
+			[ "halago" ],
+			[ "halagas", "halagás" ],
+			[ "halaga" ],
+			[ "halagamos" ],
+			[ "halagáis", "halagan" ],
+			[ "halagan" ]
+		],
+		"4" : [
+			[ "halagué" ],
+			[ "halagaste" ],
+			[ "halagó" ],
+			[ "halagamos" ],
+			[ "halagasteis", "halagaron" ],
+			[ "halagaron" ]
+		],
+		"5" : [
+			[ "halagaba" ],
+			[ "halagabas" ],
+			[ "halagaba" ],
+			[ "halagábamos" ],
+			[ "halagabais", "halagaban" ],
+			[ "halagaban" ]
+		],
+		"6" : [
+			[ "halagaría" ],
+			[ "halagarías" ],
+			[ "halagaría" ],
+			[ "halagaríamos" ],
+			[ "halagaríais", "halagarían" ],
+			[ "halagarían" ]
+		],
+		"7" : [
+			[ "halagaré" ],
+			[ "halagarás" ],
+			[ "halagará" ],
+			[ "halagaremos" ],
+			[ "halagaréis", "halagarán" ],
+			[ "halagarán" ]
+		],
+		"8" : [
+			[ "halague" ],
+			[ "halagues" ],
+			[ "halague" ],
+			[ "halaguemos" ],
+			[ "halaguéis", "halaguen" ],
+			[ "halaguen" ]
+		],
+		"9" : [
+			[ "halagara" ],
+			[ "halagaras" ],
+			[ "halagara" ],
+			[ "halagáramos" ],
+			[ "halagarais", "halagaran" ],
+			[ "halagaran" ]
+		],
+		"10" : [
+			[ "halagase" ],
+			[ "halagases" ],
+			[ "halagase" ],
+			[ "halagásemos" ],
+			[ "halagaseis", "halagasen" ],
+			[ "halagasen" ]
+		],
+		"11" : [
+			[ "halagare" ],
+			[ "halagares" ],
+			[ "halagare" ],
+			[ "halagáremos" ],
+			[ "halagareis", "halagaren" ],
+			[ "halagaren" ]
+		],
+		"12" : {
+			"1" : [ "halaga" ],
+			"2" : [ "halague" ],
+			"3" : [ "halaguemos" ],
+			"4" : [ "halagad" ],
+			"5" : [ "halaguen" ]
+		}
+	}
+}

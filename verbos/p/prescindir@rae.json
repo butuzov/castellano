@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=prescindir",
+	"word" : "prescindir",
+	"infinitivo" : "prescindir",
+	"participio" : [ "prescindido" ],
+	"gerundio" : [ "prescindiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "prescindo" ],
+			[ "prescindes", "prescindís" ],
+			[ "prescinde" ],
+			[ "prescindimos" ],
+			[ "prescindís", "prescinden" ],
+			[ "prescinden" ]
+		],
+		"4" : [
+			[ "prescindí" ],
+			[ "prescindiste" ],
+			[ "prescindió" ],
+			[ "prescindimos" ],
+			[ "prescindisteis", "prescindieron" ],
+			[ "prescindieron" ]
+		],
+		"5" : [
+			[ "prescindía" ],
+			[ "prescindías" ],
+			[ "prescindía" ],
+			[ "prescindíamos" ],
+			[ "prescindíais", "prescindían" ],
+			[ "prescindían" ]
+		],
+		"6" : [
+			[ "prescindiría" ],
+			[ "prescindirías" ],
+			[ "prescindiría" ],
+			[ "prescindiríamos" ],
+			[ "prescindiríais", "prescindirían" ],
+			[ "prescindirían" ]
+		],
+		"7" : [
+			[ "prescindiré" ],
+			[ "prescindirás" ],
+			[ "prescindirá" ],
+			[ "prescindiremos" ],
+			[ "prescindiréis", "prescindirán" ],
+			[ "prescindirán" ]
+		],
+		"8" : [
+			[ "prescinda" ],
+			[ "prescindas" ],
+			[ "prescinda" ],
+			[ "prescindamos" ],
+			[ "prescindáis", "prescindan" ],
+			[ "prescindan" ]
+		],
+		"9" : [
+			[ "prescindiera" ],
+			[ "prescindieras" ],
+			[ "prescindiera" ],
+			[ "prescindiéramos" ],
+			[ "prescindierais", "prescindieran" ],
+			[ "prescindieran" ]
+		],
+		"10" : [
+			[ "prescindiese" ],
+			[ "prescindieses" ],
+			[ "prescindiese" ],
+			[ "prescindiésemos" ],
+			[ "prescindieseis", "prescindiesen" ],
+			[ "prescindiesen" ]
+		],
+		"11" : [
+			[ "prescindiere" ],
+			[ "prescindieres" ],
+			[ "prescindiere" ],
+			[ "prescindiéremos" ],
+			[ "prescindiereis", "prescindieren" ],
+			[ "prescindieren" ]
+		],
+		"12" : {
+			"1" : [ "prescinde" ],
+			"2" : [ "prescinda" ],
+			"3" : [ "prescindamos" ],
+			"4" : [ "prescindid" ],
+			"5" : [ "prescindan" ]
+		}
+	}
+}

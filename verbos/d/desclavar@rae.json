@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desclavar",
+	"word" : "desclavar",
+	"infinitivo" : "desclavar",
+	"participio" : [ "desclavado" ],
+	"gerundio" : [ "desclavando" ],
+	"tenses" : {
+		"3" : [
+			[ "desclavo" ],
+			[ "desclavas", "desclavás" ],
+			[ "desclava" ],
+			[ "desclavamos" ],
+			[ "desclaváis", "desclavan" ],
+			[ "desclavan" ]
+		],
+		"4" : [
+			[ "desclavé" ],
+			[ "desclavaste" ],
+			[ "desclavó" ],
+			[ "desclavamos" ],
+			[ "desclavasteis", "desclavaron" ],
+			[ "desclavaron" ]
+		],
+		"5" : [
+			[ "desclavaba" ],
+			[ "desclavabas" ],
+			[ "desclavaba" ],
+			[ "desclavábamos" ],
+			[ "desclavabais", "desclavaban" ],
+			[ "desclavaban" ]
+		],
+		"6" : [
+			[ "desclavaría" ],
+			[ "desclavarías" ],
+			[ "desclavaría" ],
+			[ "desclavaríamos" ],
+			[ "desclavaríais", "desclavarían" ],
+			[ "desclavarían" ]
+		],
+		"7" : [
+			[ "desclavaré" ],
+			[ "desclavarás" ],
+			[ "desclavará" ],
+			[ "desclavaremos" ],
+			[ "desclavaréis", "desclavarán" ],
+			[ "desclavarán" ]
+		],
+		"8" : [
+			[ "desclave" ],
+			[ "desclaves" ],
+			[ "desclave" ],
+			[ "desclavemos" ],
+			[ "desclavéis", "desclaven" ],
+			[ "desclaven" ]
+		],
+		"9" : [
+			[ "desclavara" ],
+			[ "desclavaras" ],
+			[ "desclavara" ],
+			[ "desclaváramos" ],
+			[ "desclavarais", "desclavaran" ],
+			[ "desclavaran" ]
+		],
+		"10" : [
+			[ "desclavase" ],
+			[ "desclavases" ],
+			[ "desclavase" ],
+			[ "desclavásemos" ],
+			[ "desclavaseis", "desclavasen" ],
+			[ "desclavasen" ]
+		],
+		"11" : [
+			[ "desclavare" ],
+			[ "desclavares" ],
+			[ "desclavare" ],
+			[ "desclaváremos" ],
+			[ "desclavareis", "desclavaren" ],
+			[ "desclavaren" ]
+		],
+		"12" : {
+			"1" : [ "desclava" ],
+			"2" : [ "desclave" ],
+			"3" : [ "desclavemos" ],
+			"4" : [ "desclavad" ],
+			"5" : [ "desclaven" ]
+		}
+	}
+}

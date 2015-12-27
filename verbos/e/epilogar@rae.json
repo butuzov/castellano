@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=epilogar",
+	"word" : "epilogar",
+	"infinitivo" : "epilogar",
+	"participio" : [ "epilogado" ],
+	"gerundio" : [ "epilogando" ],
+	"tenses" : {
+		"3" : [
+			[ "epilogo" ],
+			[ "epilogas", "epilogás" ],
+			[ "epiloga" ],
+			[ "epilogamos" ],
+			[ "epilogáis", "epilogan" ],
+			[ "epilogan" ]
+		],
+		"4" : [
+			[ "epilogué" ],
+			[ "epilogaste" ],
+			[ "epilogó" ],
+			[ "epilogamos" ],
+			[ "epilogasteis", "epilogaron" ],
+			[ "epilogaron" ]
+		],
+		"5" : [
+			[ "epilogaba" ],
+			[ "epilogabas" ],
+			[ "epilogaba" ],
+			[ "epilogábamos" ],
+			[ "epilogabais", "epilogaban" ],
+			[ "epilogaban" ]
+		],
+		"6" : [
+			[ "epilogaría" ],
+			[ "epilogarías" ],
+			[ "epilogaría" ],
+			[ "epilogaríamos" ],
+			[ "epilogaríais", "epilogarían" ],
+			[ "epilogarían" ]
+		],
+		"7" : [
+			[ "epilogaré" ],
+			[ "epilogarás" ],
+			[ "epilogará" ],
+			[ "epilogaremos" ],
+			[ "epilogaréis", "epilogarán" ],
+			[ "epilogarán" ]
+		],
+		"8" : [
+			[ "epilogue" ],
+			[ "epilogues" ],
+			[ "epilogue" ],
+			[ "epiloguemos" ],
+			[ "epiloguéis", "epiloguen" ],
+			[ "epiloguen" ]
+		],
+		"9" : [
+			[ "epilogara" ],
+			[ "epilogaras" ],
+			[ "epilogara" ],
+			[ "epilogáramos" ],
+			[ "epilogarais", "epilogaran" ],
+			[ "epilogaran" ]
+		],
+		"10" : [
+			[ "epilogase" ],
+			[ "epilogases" ],
+			[ "epilogase" ],
+			[ "epilogásemos" ],
+			[ "epilogaseis", "epilogasen" ],
+			[ "epilogasen" ]
+		],
+		"11" : [
+			[ "epilogare" ],
+			[ "epilogares" ],
+			[ "epilogare" ],
+			[ "epilogáremos" ],
+			[ "epilogareis", "epilogaren" ],
+			[ "epilogaren" ]
+		],
+		"12" : {
+			"1" : [ "epiloga" ],
+			"2" : [ "epilogue" ],
+			"3" : [ "epiloguemos" ],
+			"4" : [ "epilogad" ],
+			"5" : [ "epiloguen" ]
+		}
+	}
+}

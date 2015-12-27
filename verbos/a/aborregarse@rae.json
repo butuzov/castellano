@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aborregarse",
+	"word" : "aborregarse",
+	"infinitivo" : "aborregarse",
+	"participio" : [ "aborregado" ],
+	"gerundio" : [ "aborregándome", "aborregándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me aborrego" ],
+			[ "te aborregas", "te aborregás" ],
+			[ "se aborrega" ],
+			[ "nos aborregamos" ],
+			[ "os aborregáis", "se aborregan" ],
+			[ "se aborregan" ]
+		],
+		"4" : [
+			[ "me aborregué" ],
+			[ "te aborregaste" ],
+			[ "se aborregó" ],
+			[ "nos aborregamos" ],
+			[ "os aborregasteis", "se aborregaron" ],
+			[ "se aborregaron" ]
+		],
+		"5" : [
+			[ "me aborregaba" ],
+			[ "te aborregabas" ],
+			[ "se aborregaba" ],
+			[ "nos aborregábamos" ],
+			[ "os aborregabais", "se aborregaban" ],
+			[ "se aborregaban" ]
+		],
+		"6" : [
+			[ "me aborregaría" ],
+			[ "te aborregarías" ],
+			[ "se aborregaría" ],
+			[ "nos aborregaríamos" ],
+			[ "os aborregaríais", "se aborregarían" ],
+			[ "se aborregarían" ]
+		],
+		"7" : [
+			[ "me aborregaré" ],
+			[ "te aborregarás" ],
+			[ "se aborregará" ],
+			[ "nos aborregaremos" ],
+			[ "os aborregaréis", "se aborregarán" ],
+			[ "se aborregarán" ]
+		],
+		"8" : [
+			[ "me aborregue" ],
+			[ "te aborregues" ],
+			[ "se aborregue" ],
+			[ "nos aborreguemos" ],
+			[ "os aborreguéis", "se aborreguen" ],
+			[ "se aborreguen" ]
+		],
+		"9" : [
+			[ "me aborregara" ],
+			[ "te aborregaras" ],
+			[ "se aborregara" ],
+			[ "nos aborregáramos" ],
+			[ "os aborregarais", "se aborregaran" ],
+			[ "se aborregaran" ]
+		],
+		"10" : [
+			[ "me aborregase" ],
+			[ "te aborregases" ],
+			[ "se aborregase" ],
+			[ "nos aborregásemos" ],
+			[ "os aborregaseis", "se aborregasen" ],
+			[ "se aborregasen" ]
+		],
+		"11" : [
+			[ "me aborregare" ],
+			[ "te aborregares" ],
+			[ "se aborregare" ],
+			[ "nos aborregáremos" ],
+			[ "os aborregareis", "se aborregaren" ],
+			[ "se aborregaren" ]
+		],
+		"12" : {
+			"1" : [ "aborrégate" ],
+			"2" : [ "aborregue" ],
+			"3" : [ "aborreguemos" ],
+			"4" : [ "aborregaos" ],
+			"5" : [ "aborréguense" ]
+		}
+	}
+}

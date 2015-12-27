@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embrear",
+	"word" : "embrear",
+	"infinitivo" : "embrear",
+	"participio" : [ "embreado" ],
+	"gerundio" : [ "embreando" ],
+	"tenses" : {
+		"3" : [
+			[ "embreo" ],
+			[ "embreas", "embreás" ],
+			[ "embrea" ],
+			[ "embreamos" ],
+			[ "embreáis", "embrean" ],
+			[ "embrean" ]
+		],
+		"4" : [
+			[ "embreé" ],
+			[ "embreaste" ],
+			[ "embreó" ],
+			[ "embreamos" ],
+			[ "embreasteis", "embrearon" ],
+			[ "embrearon" ]
+		],
+		"5" : [
+			[ "embreaba" ],
+			[ "embreabas" ],
+			[ "embreaba" ],
+			[ "embreábamos" ],
+			[ "embreabais", "embreaban" ],
+			[ "embreaban" ]
+		],
+		"6" : [
+			[ "embrearía" ],
+			[ "embrearías" ],
+			[ "embrearía" ],
+			[ "embrearíamos" ],
+			[ "embrearíais", "embrearían" ],
+			[ "embrearían" ]
+		],
+		"7" : [
+			[ "embrearé" ],
+			[ "embrearás" ],
+			[ "embreará" ],
+			[ "embrearemos" ],
+			[ "embrearéis", "embrearán" ],
+			[ "embrearán" ]
+		],
+		"8" : [
+			[ "embree" ],
+			[ "embrees" ],
+			[ "embree" ],
+			[ "embreemos" ],
+			[ "embreéis", "embreen" ],
+			[ "embreen" ]
+		],
+		"9" : [
+			[ "embreara" ],
+			[ "embrearas" ],
+			[ "embreara" ],
+			[ "embreáramos" ],
+			[ "embrearais", "embrearan" ],
+			[ "embrearan" ]
+		],
+		"10" : [
+			[ "embrease" ],
+			[ "embreases" ],
+			[ "embrease" ],
+			[ "embreásemos" ],
+			[ "embreaseis", "embreasen" ],
+			[ "embreasen" ]
+		],
+		"11" : [
+			[ "embreare" ],
+			[ "embreares" ],
+			[ "embreare" ],
+			[ "embreáremos" ],
+			[ "embreareis", "embrearen" ],
+			[ "embrearen" ]
+		],
+		"12" : {
+			"1" : [ "embrea" ],
+			"2" : [ "embree" ],
+			"3" : [ "embreemos" ],
+			"4" : [ "embread" ],
+			"5" : [ "embreen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=novar",
+	"word" : "novar",
+	"infinitivo" : "novar",
+	"participio" : [ "novado" ],
+	"gerundio" : [ "novando" ],
+	"tenses" : {
+		"3" : [
+			[ "novo" ],
+			[ "novas", "novás" ],
+			[ "nova" ],
+			[ "novamos" ],
+			[ "nováis", "novan" ],
+			[ "novan" ]
+		],
+		"4" : [
+			[ "nové" ],
+			[ "novaste" ],
+			[ "novó" ],
+			[ "novamos" ],
+			[ "novasteis", "novaron" ],
+			[ "novaron" ]
+		],
+		"5" : [
+			[ "novaba" ],
+			[ "novabas" ],
+			[ "novaba" ],
+			[ "novábamos" ],
+			[ "novabais", "novaban" ],
+			[ "novaban" ]
+		],
+		"6" : [
+			[ "novaría" ],
+			[ "novarías" ],
+			[ "novaría" ],
+			[ "novaríamos" ],
+			[ "novaríais", "novarían" ],
+			[ "novarían" ]
+		],
+		"7" : [
+			[ "novaré" ],
+			[ "novarás" ],
+			[ "novará" ],
+			[ "novaremos" ],
+			[ "novaréis", "novarán" ],
+			[ "novarán" ]
+		],
+		"8" : [
+			[ "nove" ],
+			[ "noves" ],
+			[ "nove" ],
+			[ "novemos" ],
+			[ "novéis", "noven" ],
+			[ "noven" ]
+		],
+		"9" : [
+			[ "novara" ],
+			[ "novaras" ],
+			[ "novara" ],
+			[ "nováramos" ],
+			[ "novarais", "novaran" ],
+			[ "novaran" ]
+		],
+		"10" : [
+			[ "novase" ],
+			[ "novases" ],
+			[ "novase" ],
+			[ "novásemos" ],
+			[ "novaseis", "novasen" ],
+			[ "novasen" ]
+		],
+		"11" : [
+			[ "novare" ],
+			[ "novares" ],
+			[ "novare" ],
+			[ "nováremos" ],
+			[ "novareis", "novaren" ],
+			[ "novaren" ]
+		],
+		"12" : {
+			"1" : [ "nova" ],
+			"2" : [ "nove" ],
+			"3" : [ "novemos" ],
+			"4" : [ "novad" ],
+			"5" : [ "noven" ]
+		}
+	}
+}

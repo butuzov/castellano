@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cementar",
+	"word" : "cementar",
+	"infinitivo" : "cementar",
+	"participio" : [ "cementado" ],
+	"gerundio" : [ "cementando" ],
+	"tenses" : {
+		"3" : [
+			[ "cemento" ],
+			[ "cementas", "cementás" ],
+			[ "cementa" ],
+			[ "cementamos" ],
+			[ "cementáis", "cementan" ],
+			[ "cementan" ]
+		],
+		"4" : [
+			[ "cementé" ],
+			[ "cementaste" ],
+			[ "cementó" ],
+			[ "cementamos" ],
+			[ "cementasteis", "cementaron" ],
+			[ "cementaron" ]
+		],
+		"5" : [
+			[ "cementaba" ],
+			[ "cementabas" ],
+			[ "cementaba" ],
+			[ "cementábamos" ],
+			[ "cementabais", "cementaban" ],
+			[ "cementaban" ]
+		],
+		"6" : [
+			[ "cementaría" ],
+			[ "cementarías" ],
+			[ "cementaría" ],
+			[ "cementaríamos" ],
+			[ "cementaríais", "cementarían" ],
+			[ "cementarían" ]
+		],
+		"7" : [
+			[ "cementaré" ],
+			[ "cementarás" ],
+			[ "cementará" ],
+			[ "cementaremos" ],
+			[ "cementaréis", "cementarán" ],
+			[ "cementarán" ]
+		],
+		"8" : [
+			[ "cemente" ],
+			[ "cementes" ],
+			[ "cemente" ],
+			[ "cementemos" ],
+			[ "cementéis", "cementen" ],
+			[ "cementen" ]
+		],
+		"9" : [
+			[ "cementara" ],
+			[ "cementaras" ],
+			[ "cementara" ],
+			[ "cementáramos" ],
+			[ "cementarais", "cementaran" ],
+			[ "cementaran" ]
+		],
+		"10" : [
+			[ "cementase" ],
+			[ "cementases" ],
+			[ "cementase" ],
+			[ "cementásemos" ],
+			[ "cementaseis", "cementasen" ],
+			[ "cementasen" ]
+		],
+		"11" : [
+			[ "cementare" ],
+			[ "cementares" ],
+			[ "cementare" ],
+			[ "cementáremos" ],
+			[ "cementareis", "cementaren" ],
+			[ "cementaren" ]
+		],
+		"12" : {
+			"1" : [ "cementa" ],
+			"2" : [ "cemente" ],
+			"3" : [ "cementemos" ],
+			"4" : [ "cementad" ],
+			"5" : [ "cementen" ]
+		}
+	}
+}

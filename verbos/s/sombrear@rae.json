@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sombrear",
+	"word" : "sombrear",
+	"infinitivo" : "sombrear",
+	"participio" : [ "sombreado" ],
+	"gerundio" : [ "sombreando" ],
+	"tenses" : {
+		"3" : [
+			[ "sombreo" ],
+			[ "sombreas", "sombreás" ],
+			[ "sombrea" ],
+			[ "sombreamos" ],
+			[ "sombreáis", "sombrean" ],
+			[ "sombrean" ]
+		],
+		"4" : [
+			[ "sombreé" ],
+			[ "sombreaste" ],
+			[ "sombreó" ],
+			[ "sombreamos" ],
+			[ "sombreasteis", "sombrearon" ],
+			[ "sombrearon" ]
+		],
+		"5" : [
+			[ "sombreaba" ],
+			[ "sombreabas" ],
+			[ "sombreaba" ],
+			[ "sombreábamos" ],
+			[ "sombreabais", "sombreaban" ],
+			[ "sombreaban" ]
+		],
+		"6" : [
+			[ "sombrearía" ],
+			[ "sombrearías" ],
+			[ "sombrearía" ],
+			[ "sombrearíamos" ],
+			[ "sombrearíais", "sombrearían" ],
+			[ "sombrearían" ]
+		],
+		"7" : [
+			[ "sombrearé" ],
+			[ "sombrearás" ],
+			[ "sombreará" ],
+			[ "sombrearemos" ],
+			[ "sombrearéis", "sombrearán" ],
+			[ "sombrearán" ]
+		],
+		"8" : [
+			[ "sombree" ],
+			[ "sombrees" ],
+			[ "sombree" ],
+			[ "sombreemos" ],
+			[ "sombreéis", "sombreen" ],
+			[ "sombreen" ]
+		],
+		"9" : [
+			[ "sombreara" ],
+			[ "sombrearas" ],
+			[ "sombreara" ],
+			[ "sombreáramos" ],
+			[ "sombrearais", "sombrearan" ],
+			[ "sombrearan" ]
+		],
+		"10" : [
+			[ "sombrease" ],
+			[ "sombreases" ],
+			[ "sombrease" ],
+			[ "sombreásemos" ],
+			[ "sombreaseis", "sombreasen" ],
+			[ "sombreasen" ]
+		],
+		"11" : [
+			[ "sombreare" ],
+			[ "sombreares" ],
+			[ "sombreare" ],
+			[ "sombreáremos" ],
+			[ "sombreareis", "sombrearen" ],
+			[ "sombrearen" ]
+		],
+		"12" : {
+			"1" : [ "sombrea" ],
+			"2" : [ "sombree" ],
+			"3" : [ "sombreemos" ],
+			"4" : [ "sombread" ],
+			"5" : [ "sombreen" ]
+		}
+	}
+}

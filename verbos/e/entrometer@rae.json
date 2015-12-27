@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entrometer",
+	"word" : "entrometer",
+	"infinitivo" : "entrometer",
+	"participio" : [ "entrometido" ],
+	"gerundio" : [ "entrometiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "entrometo" ],
+			[ "entrometes", "entrometés" ],
+			[ "entromete" ],
+			[ "entrometemos" ],
+			[ "entrometéis", "entrometen" ],
+			[ "entrometen" ]
+		],
+		"4" : [
+			[ "entrometí" ],
+			[ "entrometiste" ],
+			[ "entrometió" ],
+			[ "entrometimos" ],
+			[ "entrometisteis", "entrometieron" ],
+			[ "entrometieron" ]
+		],
+		"5" : [
+			[ "entrometía" ],
+			[ "entrometías" ],
+			[ "entrometía" ],
+			[ "entrometíamos" ],
+			[ "entrometíais", "entrometían" ],
+			[ "entrometían" ]
+		],
+		"6" : [
+			[ "entrometería" ],
+			[ "entrometerías" ],
+			[ "entrometería" ],
+			[ "entrometeríamos" ],
+			[ "entrometeríais", "entrometerían" ],
+			[ "entrometerían" ]
+		],
+		"7" : [
+			[ "entrometeré" ],
+			[ "entrometerás" ],
+			[ "entrometerá" ],
+			[ "entrometeremos" ],
+			[ "entrometeréis", "entrometerán" ],
+			[ "entrometerán" ]
+		],
+		"8" : [
+			[ "entrometa" ],
+			[ "entrometas" ],
+			[ "entrometa" ],
+			[ "entrometamos" ],
+			[ "entrometáis", "entrometan" ],
+			[ "entrometan" ]
+		],
+		"9" : [
+			[ "entrometiera" ],
+			[ "entrometieras" ],
+			[ "entrometiera" ],
+			[ "entrometiéramos" ],
+			[ "entrometierais", "entrometieran" ],
+			[ "entrometieran" ]
+		],
+		"10" : [
+			[ "entrometiese" ],
+			[ "entrometieses" ],
+			[ "entrometiese" ],
+			[ "entrometiésemos" ],
+			[ "entrometieseis", "entrometiesen" ],
+			[ "entrometiesen" ]
+		],
+		"11" : [
+			[ "entrometiere" ],
+			[ "entrometieres" ],
+			[ "entrometiere" ],
+			[ "entrometiéremos" ],
+			[ "entrometiereis", "entrometieren" ],
+			[ "entrometieren" ]
+		],
+		"12" : {
+			"1" : [ "entromete" ],
+			"2" : [ "entrometa" ],
+			"3" : [ "entrometamos" ],
+			"4" : [ "entrometed" ],
+			"5" : [ "entrometan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reunir",
+	"word" : "reunir",
+	"infinitivo" : "reunir",
+	"participio" : [ "reunido" ],
+	"gerundio" : [ "reuniendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reúno" ],
+			[ "reúnes", "reunís" ],
+			[ "reúne" ],
+			[ "reunimos" ],
+			[ "reunís", "reúnen" ],
+			[ "reúnen" ]
+		],
+		"4" : [
+			[ "reuní" ],
+			[ "reuniste" ],
+			[ "reunió" ],
+			[ "reunimos" ],
+			[ "reunisteis", "reunieron" ],
+			[ "reunieron" ]
+		],
+		"5" : [
+			[ "reunía" ],
+			[ "reunías" ],
+			[ "reunía" ],
+			[ "reuníamos" ],
+			[ "reuníais", "reunían" ],
+			[ "reunían" ]
+		],
+		"6" : [
+			[ "reuniría" ],
+			[ "reunirías" ],
+			[ "reuniría" ],
+			[ "reuniríamos" ],
+			[ "reuniríais", "reunirían" ],
+			[ "reunirían" ]
+		],
+		"7" : [
+			[ "reuniré" ],
+			[ "reunirás" ],
+			[ "reunirá" ],
+			[ "reuniremos" ],
+			[ "reuniréis", "reunirán" ],
+			[ "reunirán" ]
+		],
+		"8" : [
+			[ "reúna" ],
+			[ "reúnas" ],
+			[ "reúna" ],
+			[ "reunamos" ],
+			[ "reunáis", "reúnan" ],
+			[ "reúnan" ]
+		],
+		"9" : [
+			[ "reuniera" ],
+			[ "reunieras" ],
+			[ "reuniera" ],
+			[ "reuniéramos" ],
+			[ "reunierais", "reunieran" ],
+			[ "reunieran" ]
+		],
+		"10" : [
+			[ "reuniese" ],
+			[ "reunieses" ],
+			[ "reuniese" ],
+			[ "reuniésemos" ],
+			[ "reunieseis", "reuniesen" ],
+			[ "reuniesen" ]
+		],
+		"11" : [
+			[ "reuniere" ],
+			[ "reunieres" ],
+			[ "reuniere" ],
+			[ "reuniéremos" ],
+			[ "reuniereis", "reunieren" ],
+			[ "reunieren" ]
+		],
+		"12" : {
+			"1" : [ "reúne" ],
+			"2" : [ "reúna" ],
+			"3" : [ "reunamos" ],
+			"4" : [ "reunid" ],
+			"5" : [ "reúnan" ]
+		}
+	}
+}

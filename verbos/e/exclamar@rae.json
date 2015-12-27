@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=exclamar",
+	"word" : "exclamar",
+	"infinitivo" : "exclamar",
+	"participio" : [ "exclamado" ],
+	"gerundio" : [ "exclamando" ],
+	"tenses" : {
+		"3" : [
+			[ "exclamo" ],
+			[ "exclamas", "exclamás" ],
+			[ "exclama" ],
+			[ "exclamamos" ],
+			[ "exclamáis", "exclaman" ],
+			[ "exclaman" ]
+		],
+		"4" : [
+			[ "exclamé" ],
+			[ "exclamaste" ],
+			[ "exclamó" ],
+			[ "exclamamos" ],
+			[ "exclamasteis", "exclamaron" ],
+			[ "exclamaron" ]
+		],
+		"5" : [
+			[ "exclamaba" ],
+			[ "exclamabas" ],
+			[ "exclamaba" ],
+			[ "exclamábamos" ],
+			[ "exclamabais", "exclamaban" ],
+			[ "exclamaban" ]
+		],
+		"6" : [
+			[ "exclamaría" ],
+			[ "exclamarías" ],
+			[ "exclamaría" ],
+			[ "exclamaríamos" ],
+			[ "exclamaríais", "exclamarían" ],
+			[ "exclamarían" ]
+		],
+		"7" : [
+			[ "exclamaré" ],
+			[ "exclamarás" ],
+			[ "exclamará" ],
+			[ "exclamaremos" ],
+			[ "exclamaréis", "exclamarán" ],
+			[ "exclamarán" ]
+		],
+		"8" : [
+			[ "exclame" ],
+			[ "exclames" ],
+			[ "exclame" ],
+			[ "exclamemos" ],
+			[ "exclaméis", "exclamen" ],
+			[ "exclamen" ]
+		],
+		"9" : [
+			[ "exclamara" ],
+			[ "exclamaras" ],
+			[ "exclamara" ],
+			[ "exclamáramos" ],
+			[ "exclamarais", "exclamaran" ],
+			[ "exclamaran" ]
+		],
+		"10" : [
+			[ "exclamase" ],
+			[ "exclamases" ],
+			[ "exclamase" ],
+			[ "exclamásemos" ],
+			[ "exclamaseis", "exclamasen" ],
+			[ "exclamasen" ]
+		],
+		"11" : [
+			[ "exclamare" ],
+			[ "exclamares" ],
+			[ "exclamare" ],
+			[ "exclamáremos" ],
+			[ "exclamareis", "exclamaren" ],
+			[ "exclamaren" ]
+		],
+		"12" : {
+			"1" : [ "exclama" ],
+			"2" : [ "exclame" ],
+			"3" : [ "exclamemos" ],
+			"4" : [ "exclamad" ],
+			"5" : [ "exclamen" ]
+		}
+	}
+}

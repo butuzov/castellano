@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=picotear",
+	"word" : "picotear",
+	"infinitivo" : "picotear",
+	"participio" : [ "picoteado" ],
+	"gerundio" : [ "picoteando" ],
+	"tenses" : {
+		"3" : [
+			[ "picoteo" ],
+			[ "picoteas", "picoteás" ],
+			[ "picotea" ],
+			[ "picoteamos" ],
+			[ "picoteáis", "picotean" ],
+			[ "picotean" ]
+		],
+		"4" : [
+			[ "picoteé" ],
+			[ "picoteaste" ],
+			[ "picoteó" ],
+			[ "picoteamos" ],
+			[ "picoteasteis", "picotearon" ],
+			[ "picotearon" ]
+		],
+		"5" : [
+			[ "picoteaba" ],
+			[ "picoteabas" ],
+			[ "picoteaba" ],
+			[ "picoteábamos" ],
+			[ "picoteabais", "picoteaban" ],
+			[ "picoteaban" ]
+		],
+		"6" : [
+			[ "picotearía" ],
+			[ "picotearías" ],
+			[ "picotearía" ],
+			[ "picotearíamos" ],
+			[ "picotearíais", "picotearían" ],
+			[ "picotearían" ]
+		],
+		"7" : [
+			[ "picotearé" ],
+			[ "picotearás" ],
+			[ "picoteará" ],
+			[ "picotearemos" ],
+			[ "picotearéis", "picotearán" ],
+			[ "picotearán" ]
+		],
+		"8" : [
+			[ "picotee" ],
+			[ "picotees" ],
+			[ "picotee" ],
+			[ "picoteemos" ],
+			[ "picoteéis", "picoteen" ],
+			[ "picoteen" ]
+		],
+		"9" : [
+			[ "picoteara" ],
+			[ "picotearas" ],
+			[ "picoteara" ],
+			[ "picoteáramos" ],
+			[ "picotearais", "picotearan" ],
+			[ "picotearan" ]
+		],
+		"10" : [
+			[ "picotease" ],
+			[ "picoteases" ],
+			[ "picotease" ],
+			[ "picoteásemos" ],
+			[ "picoteaseis", "picoteasen" ],
+			[ "picoteasen" ]
+		],
+		"11" : [
+			[ "picoteare" ],
+			[ "picoteares" ],
+			[ "picoteare" ],
+			[ "picoteáremos" ],
+			[ "picoteareis", "picotearen" ],
+			[ "picotearen" ]
+		],
+		"12" : {
+			"1" : [ "picotea" ],
+			"2" : [ "picotee" ],
+			"3" : [ "picoteemos" ],
+			"4" : [ "picotead" ],
+			"5" : [ "picoteen" ]
+		}
+	}
+}

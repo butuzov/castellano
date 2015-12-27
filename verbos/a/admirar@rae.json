@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=admirar",
+	"word" : "admirar",
+	"infinitivo" : "admirar",
+	"participio" : [ "admirado" ],
+	"gerundio" : [ "admirando" ],
+	"tenses" : {
+		"3" : [
+			[ "admiro" ],
+			[ "admiras", "admirás" ],
+			[ "admira" ],
+			[ "admiramos" ],
+			[ "admiráis", "admiran" ],
+			[ "admiran" ]
+		],
+		"4" : [
+			[ "admiré" ],
+			[ "admiraste" ],
+			[ "admiró" ],
+			[ "admiramos" ],
+			[ "admirasteis", "admiraron" ],
+			[ "admiraron" ]
+		],
+		"5" : [
+			[ "admiraba" ],
+			[ "admirabas" ],
+			[ "admiraba" ],
+			[ "admirábamos" ],
+			[ "admirabais", "admiraban" ],
+			[ "admiraban" ]
+		],
+		"6" : [
+			[ "admiraría" ],
+			[ "admirarías" ],
+			[ "admiraría" ],
+			[ "admiraríamos" ],
+			[ "admiraríais", "admirarían" ],
+			[ "admirarían" ]
+		],
+		"7" : [
+			[ "admiraré" ],
+			[ "admirarás" ],
+			[ "admirará" ],
+			[ "admiraremos" ],
+			[ "admiraréis", "admirarán" ],
+			[ "admirarán" ]
+		],
+		"8" : [
+			[ "admire" ],
+			[ "admires" ],
+			[ "admire" ],
+			[ "admiremos" ],
+			[ "admiréis", "admiren" ],
+			[ "admiren" ]
+		],
+		"9" : [
+			[ "admirara" ],
+			[ "admiraras" ],
+			[ "admirara" ],
+			[ "admiráramos" ],
+			[ "admirarais", "admiraran" ],
+			[ "admiraran" ]
+		],
+		"10" : [
+			[ "admirase" ],
+			[ "admirases" ],
+			[ "admirase" ],
+			[ "admirásemos" ],
+			[ "admiraseis", "admirasen" ],
+			[ "admirasen" ]
+		],
+		"11" : [
+			[ "admirare" ],
+			[ "admirares" ],
+			[ "admirare" ],
+			[ "admiráremos" ],
+			[ "admirareis", "admiraren" ],
+			[ "admiraren" ]
+		],
+		"12" : {
+			"1" : [ "admira" ],
+			"2" : [ "admire" ],
+			"3" : [ "admiremos" ],
+			"4" : [ "admirad" ],
+			"5" : [ "admiren" ]
+		}
+	}
+}

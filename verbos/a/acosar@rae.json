@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acosar",
+	"word" : "acosar",
+	"infinitivo" : "acosar",
+	"participio" : [ "acosado" ],
+	"gerundio" : [ "acosando" ],
+	"tenses" : {
+		"3" : [
+			[ "acoso" ],
+			[ "acosas", "acosás" ],
+			[ "acosa" ],
+			[ "acosamos" ],
+			[ "acosáis", "acosan" ],
+			[ "acosan" ]
+		],
+		"4" : [
+			[ "acosé" ],
+			[ "acosaste" ],
+			[ "acosó" ],
+			[ "acosamos" ],
+			[ "acosasteis", "acosaron" ],
+			[ "acosaron" ]
+		],
+		"5" : [
+			[ "acosaba" ],
+			[ "acosabas" ],
+			[ "acosaba" ],
+			[ "acosábamos" ],
+			[ "acosabais", "acosaban" ],
+			[ "acosaban" ]
+		],
+		"6" : [
+			[ "acosaría" ],
+			[ "acosarías" ],
+			[ "acosaría" ],
+			[ "acosaríamos" ],
+			[ "acosaríais", "acosarían" ],
+			[ "acosarían" ]
+		],
+		"7" : [
+			[ "acosaré" ],
+			[ "acosarás" ],
+			[ "acosará" ],
+			[ "acosaremos" ],
+			[ "acosaréis", "acosarán" ],
+			[ "acosarán" ]
+		],
+		"8" : [
+			[ "acose" ],
+			[ "acoses" ],
+			[ "acose" ],
+			[ "acosemos" ],
+			[ "acoséis", "acosen" ],
+			[ "acosen" ]
+		],
+		"9" : [
+			[ "acosara" ],
+			[ "acosaras" ],
+			[ "acosara" ],
+			[ "acosáramos" ],
+			[ "acosarais", "acosaran" ],
+			[ "acosaran" ]
+		],
+		"10" : [
+			[ "acosase" ],
+			[ "acosases" ],
+			[ "acosase" ],
+			[ "acosásemos" ],
+			[ "acosaseis", "acosasen" ],
+			[ "acosasen" ]
+		],
+		"11" : [
+			[ "acosare" ],
+			[ "acosares" ],
+			[ "acosare" ],
+			[ "acosáremos" ],
+			[ "acosareis", "acosaren" ],
+			[ "acosaren" ]
+		],
+		"12" : {
+			"1" : [ "acosa" ],
+			"2" : [ "acose" ],
+			"3" : [ "acosemos" ],
+			"4" : [ "acosad" ],
+			"5" : [ "acosen" ]
+		}
+	}
+}

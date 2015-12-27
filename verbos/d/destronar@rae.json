@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=destronar",
+	"word" : "destronar",
+	"infinitivo" : "destronar",
+	"participio" : [ "destronado" ],
+	"gerundio" : [ "destronando" ],
+	"tenses" : {
+		"3" : [
+			[ "destrono" ],
+			[ "destronas", "destronás" ],
+			[ "destrona" ],
+			[ "destronamos" ],
+			[ "destronáis", "destronan" ],
+			[ "destronan" ]
+		],
+		"4" : [
+			[ "destroné" ],
+			[ "destronaste" ],
+			[ "destronó" ],
+			[ "destronamos" ],
+			[ "destronasteis", "destronaron" ],
+			[ "destronaron" ]
+		],
+		"5" : [
+			[ "destronaba" ],
+			[ "destronabas" ],
+			[ "destronaba" ],
+			[ "destronábamos" ],
+			[ "destronabais", "destronaban" ],
+			[ "destronaban" ]
+		],
+		"6" : [
+			[ "destronaría" ],
+			[ "destronarías" ],
+			[ "destronaría" ],
+			[ "destronaríamos" ],
+			[ "destronaríais", "destronarían" ],
+			[ "destronarían" ]
+		],
+		"7" : [
+			[ "destronaré" ],
+			[ "destronarás" ],
+			[ "destronará" ],
+			[ "destronaremos" ],
+			[ "destronaréis", "destronarán" ],
+			[ "destronarán" ]
+		],
+		"8" : [
+			[ "destrone" ],
+			[ "destrones" ],
+			[ "destrone" ],
+			[ "destronemos" ],
+			[ "destronéis", "destronen" ],
+			[ "destronen" ]
+		],
+		"9" : [
+			[ "destronara" ],
+			[ "destronaras" ],
+			[ "destronara" ],
+			[ "destronáramos" ],
+			[ "destronarais", "destronaran" ],
+			[ "destronaran" ]
+		],
+		"10" : [
+			[ "destronase" ],
+			[ "destronases" ],
+			[ "destronase" ],
+			[ "destronásemos" ],
+			[ "destronaseis", "destronasen" ],
+			[ "destronasen" ]
+		],
+		"11" : [
+			[ "destronare" ],
+			[ "destronares" ],
+			[ "destronare" ],
+			[ "destronáremos" ],
+			[ "destronareis", "destronaren" ],
+			[ "destronaren" ]
+		],
+		"12" : {
+			"1" : [ "destrona" ],
+			"2" : [ "destrone" ],
+			"3" : [ "destronemos" ],
+			"4" : [ "destronad" ],
+			"5" : [ "destronen" ]
+		}
+	}
+}

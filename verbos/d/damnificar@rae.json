@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=damnificar",
+	"word" : "damnificar",
+	"infinitivo" : "damnificar",
+	"participio" : [ "damnificado" ],
+	"gerundio" : [ "damnificando" ],
+	"tenses" : {
+		"3" : [
+			[ "damnifico" ],
+			[ "damnificas", "damnificás" ],
+			[ "damnifica" ],
+			[ "damnificamos" ],
+			[ "damnificáis", "damnifican" ],
+			[ "damnifican" ]
+		],
+		"4" : [
+			[ "damnifiqué" ],
+			[ "damnificaste" ],
+			[ "damnificó" ],
+			[ "damnificamos" ],
+			[ "damnificasteis", "damnificaron" ],
+			[ "damnificaron" ]
+		],
+		"5" : [
+			[ "damnificaba" ],
+			[ "damnificabas" ],
+			[ "damnificaba" ],
+			[ "damnificábamos" ],
+			[ "damnificabais", "damnificaban" ],
+			[ "damnificaban" ]
+		],
+		"6" : [
+			[ "damnificaría" ],
+			[ "damnificarías" ],
+			[ "damnificaría" ],
+			[ "damnificaríamos" ],
+			[ "damnificaríais", "damnificarían" ],
+			[ "damnificarían" ]
+		],
+		"7" : [
+			[ "damnificaré" ],
+			[ "damnificarás" ],
+			[ "damnificará" ],
+			[ "damnificaremos" ],
+			[ "damnificaréis", "damnificarán" ],
+			[ "damnificarán" ]
+		],
+		"8" : [
+			[ "damnifique" ],
+			[ "damnifiques" ],
+			[ "damnifique" ],
+			[ "damnifiquemos" ],
+			[ "damnifiquéis", "damnifiquen" ],
+			[ "damnifiquen" ]
+		],
+		"9" : [
+			[ "damnificara" ],
+			[ "damnificaras" ],
+			[ "damnificara" ],
+			[ "damnificáramos" ],
+			[ "damnificarais", "damnificaran" ],
+			[ "damnificaran" ]
+		],
+		"10" : [
+			[ "damnificase" ],
+			[ "damnificases" ],
+			[ "damnificase" ],
+			[ "damnificásemos" ],
+			[ "damnificaseis", "damnificasen" ],
+			[ "damnificasen" ]
+		],
+		"11" : [
+			[ "damnificare" ],
+			[ "damnificares" ],
+			[ "damnificare" ],
+			[ "damnificáremos" ],
+			[ "damnificareis", "damnificaren" ],
+			[ "damnificaren" ]
+		],
+		"12" : {
+			"1" : [ "damnifica" ],
+			"2" : [ "damnifique" ],
+			"3" : [ "damnifiquemos" ],
+			"4" : [ "damnificad" ],
+			"5" : [ "damnifiquen" ]
+		}
+	}
+}

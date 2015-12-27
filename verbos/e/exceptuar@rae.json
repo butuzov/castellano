@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=exceptuar",
+	"word" : "exceptuar",
+	"infinitivo" : "exceptuar",
+	"participio" : [ "exceptuado" ],
+	"gerundio" : [ "exceptuando" ],
+	"tenses" : {
+		"3" : [
+			[ "exceptúo" ],
+			[ "exceptúas", "exceptuás" ],
+			[ "exceptúa" ],
+			[ "exceptuamos" ],
+			[ "exceptuáis", "exceptúan" ],
+			[ "exceptúan" ]
+		],
+		"4" : [
+			[ "exceptué" ],
+			[ "exceptuaste" ],
+			[ "exceptuó" ],
+			[ "exceptuamos" ],
+			[ "exceptuasteis", "exceptuaron" ],
+			[ "exceptuaron" ]
+		],
+		"5" : [
+			[ "exceptuaba" ],
+			[ "exceptuabas" ],
+			[ "exceptuaba" ],
+			[ "exceptuábamos" ],
+			[ "exceptuabais", "exceptuaban" ],
+			[ "exceptuaban" ]
+		],
+		"6" : [
+			[ "exceptuaría" ],
+			[ "exceptuarías" ],
+			[ "exceptuaría" ],
+			[ "exceptuaríamos" ],
+			[ "exceptuaríais", "exceptuarían" ],
+			[ "exceptuarían" ]
+		],
+		"7" : [
+			[ "exceptuaré" ],
+			[ "exceptuarás" ],
+			[ "exceptuará" ],
+			[ "exceptuaremos" ],
+			[ "exceptuaréis", "exceptuarán" ],
+			[ "exceptuarán" ]
+		],
+		"8" : [
+			[ "exceptúe" ],
+			[ "exceptúes" ],
+			[ "exceptúe" ],
+			[ "exceptuemos" ],
+			[ "exceptuéis", "exceptúen" ],
+			[ "exceptúen" ]
+		],
+		"9" : [
+			[ "exceptuara" ],
+			[ "exceptuaras" ],
+			[ "exceptuara" ],
+			[ "exceptuáramos" ],
+			[ "exceptuarais", "exceptuaran" ],
+			[ "exceptuaran" ]
+		],
+		"10" : [
+			[ "exceptuase" ],
+			[ "exceptuases" ],
+			[ "exceptuase" ],
+			[ "exceptuásemos" ],
+			[ "exceptuaseis", "exceptuasen" ],
+			[ "exceptuasen" ]
+		],
+		"11" : [
+			[ "exceptuare" ],
+			[ "exceptuares" ],
+			[ "exceptuare" ],
+			[ "exceptuáremos" ],
+			[ "exceptuareis", "exceptuaren" ],
+			[ "exceptuaren" ]
+		],
+		"12" : {
+			"1" : [ "exceptúa" ],
+			"2" : [ "exceptúe" ],
+			"3" : [ "exceptuemos" ],
+			"4" : [ "exceptuad" ],
+			"5" : [ "exceptúen" ]
+		}
+	}
+}

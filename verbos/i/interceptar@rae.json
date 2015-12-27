@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=interceptar",
+	"word" : "interceptar",
+	"infinitivo" : "interceptar",
+	"participio" : [ "interceptado" ],
+	"gerundio" : [ "interceptando" ],
+	"tenses" : {
+		"3" : [
+			[ "intercepto" ],
+			[ "interceptas", "interceptás" ],
+			[ "intercepta" ],
+			[ "interceptamos" ],
+			[ "interceptáis", "interceptan" ],
+			[ "interceptan" ]
+		],
+		"4" : [
+			[ "intercepté" ],
+			[ "interceptaste" ],
+			[ "interceptó" ],
+			[ "interceptamos" ],
+			[ "interceptasteis", "interceptaron" ],
+			[ "interceptaron" ]
+		],
+		"5" : [
+			[ "interceptaba" ],
+			[ "interceptabas" ],
+			[ "interceptaba" ],
+			[ "interceptábamos" ],
+			[ "interceptabais", "interceptaban" ],
+			[ "interceptaban" ]
+		],
+		"6" : [
+			[ "interceptaría" ],
+			[ "interceptarías" ],
+			[ "interceptaría" ],
+			[ "interceptaríamos" ],
+			[ "interceptaríais", "interceptarían" ],
+			[ "interceptarían" ]
+		],
+		"7" : [
+			[ "interceptaré" ],
+			[ "interceptarás" ],
+			[ "interceptará" ],
+			[ "interceptaremos" ],
+			[ "interceptaréis", "interceptarán" ],
+			[ "interceptarán" ]
+		],
+		"8" : [
+			[ "intercepte" ],
+			[ "interceptes" ],
+			[ "intercepte" ],
+			[ "interceptemos" ],
+			[ "interceptéis", "intercepten" ],
+			[ "intercepten" ]
+		],
+		"9" : [
+			[ "interceptara" ],
+			[ "interceptaras" ],
+			[ "interceptara" ],
+			[ "interceptáramos" ],
+			[ "interceptarais", "interceptaran" ],
+			[ "interceptaran" ]
+		],
+		"10" : [
+			[ "interceptase" ],
+			[ "interceptases" ],
+			[ "interceptase" ],
+			[ "interceptásemos" ],
+			[ "interceptaseis", "interceptasen" ],
+			[ "interceptasen" ]
+		],
+		"11" : [
+			[ "interceptare" ],
+			[ "interceptares" ],
+			[ "interceptare" ],
+			[ "interceptáremos" ],
+			[ "interceptareis", "interceptaren" ],
+			[ "interceptaren" ]
+		],
+		"12" : {
+			"1" : [ "intercepta" ],
+			"2" : [ "intercepte" ],
+			"3" : [ "interceptemos" ],
+			"4" : [ "interceptad" ],
+			"5" : [ "intercepten" ]
+		}
+	}
+}

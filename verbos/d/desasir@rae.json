@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desasir",
+	"word" : "desasir",
+	"infinitivo" : "desasir",
+	"participio" : [ "desasido" ],
+	"gerundio" : [ "desasiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "desasgo" ],
+			[ "desases", "desasís" ],
+			[ "desase" ],
+			[ "desasimos" ],
+			[ "desasís", "desasen" ],
+			[ "desasen" ]
+		],
+		"4" : [
+			[ "desasí" ],
+			[ "desasiste" ],
+			[ "desasió" ],
+			[ "desasimos" ],
+			[ "desasisteis", "desasieron" ],
+			[ "desasieron" ]
+		],
+		"5" : [
+			[ "desasía" ],
+			[ "desasías" ],
+			[ "desasía" ],
+			[ "desasíamos" ],
+			[ "desasíais", "desasían" ],
+			[ "desasían" ]
+		],
+		"6" : [
+			[ "desasiría" ],
+			[ "desasirías" ],
+			[ "desasiría" ],
+			[ "desasiríamos" ],
+			[ "desasiríais", "desasirían" ],
+			[ "desasirían" ]
+		],
+		"7" : [
+			[ "desasiré" ],
+			[ "desasirás" ],
+			[ "desasirá" ],
+			[ "desasiremos" ],
+			[ "desasiréis", "desasirán" ],
+			[ "desasirán" ]
+		],
+		"8" : [
+			[ "desasga" ],
+			[ "desasgas" ],
+			[ "desasga" ],
+			[ "desasgamos" ],
+			[ "desasgáis", "desasgan" ],
+			[ "desasgan" ]
+		],
+		"9" : [
+			[ "desasiera" ],
+			[ "desasieras" ],
+			[ "desasiera" ],
+			[ "desasiéramos" ],
+			[ "desasierais", "desasieran" ],
+			[ "desasieran" ]
+		],
+		"10" : [
+			[ "desasiese" ],
+			[ "desasieses" ],
+			[ "desasiese" ],
+			[ "desasiésemos" ],
+			[ "desasieseis", "desasiesen" ],
+			[ "desasiesen" ]
+		],
+		"11" : [
+			[ "desasiere" ],
+			[ "desasieres" ],
+			[ "desasiere" ],
+			[ "desasiéremos" ],
+			[ "desasiereis", "desasieren" ],
+			[ "desasieren" ]
+		],
+		"12" : {
+			"1" : [ "desase" ],
+			"2" : [ "desasga" ],
+			"3" : [ "desasgamos" ],
+			"4" : [ "desasid" ],
+			"5" : [ "desasgan" ]
+		}
+	}
+}

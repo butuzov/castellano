@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=denegar",
+	"word" : "denegar",
+	"infinitivo" : "denegar",
+	"participio" : [ "denegado" ],
+	"gerundio" : [ "denegando" ],
+	"tenses" : {
+		"3" : [
+			[ "deniego" ],
+			[ "deniegas", "denegás" ],
+			[ "deniega" ],
+			[ "denegamos" ],
+			[ "denegáis", "deniegan" ],
+			[ "deniegan" ]
+		],
+		"4" : [
+			[ "denegué" ],
+			[ "denegaste" ],
+			[ "denegó" ],
+			[ "denegamos" ],
+			[ "denegasteis", "denegaron" ],
+			[ "denegaron" ]
+		],
+		"5" : [
+			[ "denegaba" ],
+			[ "denegabas" ],
+			[ "denegaba" ],
+			[ "denegábamos" ],
+			[ "denegabais", "denegaban" ],
+			[ "denegaban" ]
+		],
+		"6" : [
+			[ "denegaría" ],
+			[ "denegarías" ],
+			[ "denegaría" ],
+			[ "denegaríamos" ],
+			[ "denegaríais", "denegarían" ],
+			[ "denegarían" ]
+		],
+		"7" : [
+			[ "denegaré" ],
+			[ "denegarás" ],
+			[ "denegará" ],
+			[ "denegaremos" ],
+			[ "denegaréis", "denegarán" ],
+			[ "denegarán" ]
+		],
+		"8" : [
+			[ "deniegue" ],
+			[ "deniegues" ],
+			[ "deniegue" ],
+			[ "deneguemos" ],
+			[ "deneguéis", "denieguen" ],
+			[ "denieguen" ]
+		],
+		"9" : [
+			[ "denegara" ],
+			[ "denegaras" ],
+			[ "denegara" ],
+			[ "denegáramos" ],
+			[ "denegarais", "denegaran" ],
+			[ "denegaran" ]
+		],
+		"10" : [
+			[ "denegase" ],
+			[ "denegases" ],
+			[ "denegase" ],
+			[ "denegásemos" ],
+			[ "denegaseis", "denegasen" ],
+			[ "denegasen" ]
+		],
+		"11" : [
+			[ "denegare" ],
+			[ "denegares" ],
+			[ "denegare" ],
+			[ "denegáremos" ],
+			[ "denegareis", "denegaren" ],
+			[ "denegaren" ]
+		],
+		"12" : {
+			"1" : [ "deniega" ],
+			"2" : [ "deniegue" ],
+			"3" : [ "deneguemos" ],
+			"4" : [ "denegad" ],
+			"5" : [ "denieguen" ]
+		}
+	}
+}

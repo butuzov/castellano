@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escardar",
+	"word" : "escardar",
+	"infinitivo" : "escardar",
+	"participio" : [ "escardado" ],
+	"gerundio" : [ "escardando" ],
+	"tenses" : {
+		"3" : [
+			[ "escardo" ],
+			[ "escardas", "escardás" ],
+			[ "escarda" ],
+			[ "escardamos" ],
+			[ "escardáis", "escardan" ],
+			[ "escardan" ]
+		],
+		"4" : [
+			[ "escardé" ],
+			[ "escardaste" ],
+			[ "escardó" ],
+			[ "escardamos" ],
+			[ "escardasteis", "escardaron" ],
+			[ "escardaron" ]
+		],
+		"5" : [
+			[ "escardaba" ],
+			[ "escardabas" ],
+			[ "escardaba" ],
+			[ "escardábamos" ],
+			[ "escardabais", "escardaban" ],
+			[ "escardaban" ]
+		],
+		"6" : [
+			[ "escardaría" ],
+			[ "escardarías" ],
+			[ "escardaría" ],
+			[ "escardaríamos" ],
+			[ "escardaríais", "escardarían" ],
+			[ "escardarían" ]
+		],
+		"7" : [
+			[ "escardaré" ],
+			[ "escardarás" ],
+			[ "escardará" ],
+			[ "escardaremos" ],
+			[ "escardaréis", "escardarán" ],
+			[ "escardarán" ]
+		],
+		"8" : [
+			[ "escarde" ],
+			[ "escardes" ],
+			[ "escarde" ],
+			[ "escardemos" ],
+			[ "escardéis", "escarden" ],
+			[ "escarden" ]
+		],
+		"9" : [
+			[ "escardara" ],
+			[ "escardaras" ],
+			[ "escardara" ],
+			[ "escardáramos" ],
+			[ "escardarais", "escardaran" ],
+			[ "escardaran" ]
+		],
+		"10" : [
+			[ "escardase" ],
+			[ "escardases" ],
+			[ "escardase" ],
+			[ "escardásemos" ],
+			[ "escardaseis", "escardasen" ],
+			[ "escardasen" ]
+		],
+		"11" : [
+			[ "escardare" ],
+			[ "escardares" ],
+			[ "escardare" ],
+			[ "escardáremos" ],
+			[ "escardareis", "escardaren" ],
+			[ "escardaren" ]
+		],
+		"12" : {
+			"1" : [ "escarda" ],
+			"2" : [ "escarde" ],
+			"3" : [ "escardemos" ],
+			"4" : [ "escardad" ],
+			"5" : [ "escarden" ]
+		}
+	}
+}

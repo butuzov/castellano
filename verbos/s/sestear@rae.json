@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sestear",
+	"word" : "sestear",
+	"infinitivo" : "sestear",
+	"participio" : [ "sesteado" ],
+	"gerundio" : [ "sesteando" ],
+	"tenses" : {
+		"3" : [
+			[ "sesteo" ],
+			[ "sesteas", "sesteás" ],
+			[ "sestea" ],
+			[ "sesteamos" ],
+			[ "sesteáis", "sestean" ],
+			[ "sestean" ]
+		],
+		"4" : [
+			[ "sesteé" ],
+			[ "sesteaste" ],
+			[ "sesteó" ],
+			[ "sesteamos" ],
+			[ "sesteasteis", "sestearon" ],
+			[ "sestearon" ]
+		],
+		"5" : [
+			[ "sesteaba" ],
+			[ "sesteabas" ],
+			[ "sesteaba" ],
+			[ "sesteábamos" ],
+			[ "sesteabais", "sesteaban" ],
+			[ "sesteaban" ]
+		],
+		"6" : [
+			[ "sestearía" ],
+			[ "sestearías" ],
+			[ "sestearía" ],
+			[ "sestearíamos" ],
+			[ "sestearíais", "sestearían" ],
+			[ "sestearían" ]
+		],
+		"7" : [
+			[ "sestearé" ],
+			[ "sestearás" ],
+			[ "sesteará" ],
+			[ "sestearemos" ],
+			[ "sestearéis", "sestearán" ],
+			[ "sestearán" ]
+		],
+		"8" : [
+			[ "sestee" ],
+			[ "sestees" ],
+			[ "sestee" ],
+			[ "sesteemos" ],
+			[ "sesteéis", "sesteen" ],
+			[ "sesteen" ]
+		],
+		"9" : [
+			[ "sesteara" ],
+			[ "sestearas" ],
+			[ "sesteara" ],
+			[ "sesteáramos" ],
+			[ "sestearais", "sestearan" ],
+			[ "sestearan" ]
+		],
+		"10" : [
+			[ "sestease" ],
+			[ "sesteases" ],
+			[ "sestease" ],
+			[ "sesteásemos" ],
+			[ "sesteaseis", "sesteasen" ],
+			[ "sesteasen" ]
+		],
+		"11" : [
+			[ "sesteare" ],
+			[ "sesteares" ],
+			[ "sesteare" ],
+			[ "sesteáremos" ],
+			[ "sesteareis", "sestearen" ],
+			[ "sestearen" ]
+		],
+		"12" : {
+			"1" : [ "sestea" ],
+			"2" : [ "sestee" ],
+			"3" : [ "sesteemos" ],
+			"4" : [ "sestead" ],
+			"5" : [ "sesteen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=balizar",
+	"word" : "balizar",
+	"infinitivo" : "balizar",
+	"participio" : [ "balizado" ],
+	"gerundio" : [ "balizando" ],
+	"tenses" : {
+		"3" : [
+			[ "balizo" ],
+			[ "balizas", "balizás" ],
+			[ "baliza" ],
+			[ "balizamos" ],
+			[ "balizáis", "balizan" ],
+			[ "balizan" ]
+		],
+		"4" : [
+			[ "balicé" ],
+			[ "balizaste" ],
+			[ "balizó" ],
+			[ "balizamos" ],
+			[ "balizasteis", "balizaron" ],
+			[ "balizaron" ]
+		],
+		"5" : [
+			[ "balizaba" ],
+			[ "balizabas" ],
+			[ "balizaba" ],
+			[ "balizábamos" ],
+			[ "balizabais", "balizaban" ],
+			[ "balizaban" ]
+		],
+		"6" : [
+			[ "balizaría" ],
+			[ "balizarías" ],
+			[ "balizaría" ],
+			[ "balizaríamos" ],
+			[ "balizaríais", "balizarían" ],
+			[ "balizarían" ]
+		],
+		"7" : [
+			[ "balizaré" ],
+			[ "balizarás" ],
+			[ "balizará" ],
+			[ "balizaremos" ],
+			[ "balizaréis", "balizarán" ],
+			[ "balizarán" ]
+		],
+		"8" : [
+			[ "balice" ],
+			[ "balices" ],
+			[ "balice" ],
+			[ "balicemos" ],
+			[ "balicéis", "balicen" ],
+			[ "balicen" ]
+		],
+		"9" : [
+			[ "balizara" ],
+			[ "balizaras" ],
+			[ "balizara" ],
+			[ "balizáramos" ],
+			[ "balizarais", "balizaran" ],
+			[ "balizaran" ]
+		],
+		"10" : [
+			[ "balizase" ],
+			[ "balizases" ],
+			[ "balizase" ],
+			[ "balizásemos" ],
+			[ "balizaseis", "balizasen" ],
+			[ "balizasen" ]
+		],
+		"11" : [
+			[ "balizare" ],
+			[ "balizares" ],
+			[ "balizare" ],
+			[ "balizáremos" ],
+			[ "balizareis", "balizaren" ],
+			[ "balizaren" ]
+		],
+		"12" : {
+			"1" : [ "baliza" ],
+			"2" : [ "balice" ],
+			"3" : [ "balicemos" ],
+			"4" : [ "balizad" ],
+			"5" : [ "balicen" ]
+		}
+	}
+}

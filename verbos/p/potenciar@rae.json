@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=potenciar",
+	"word" : "potenciar",
+	"infinitivo" : "potenciar",
+	"participio" : [ "potenciado" ],
+	"gerundio" : [ "potenciando" ],
+	"tenses" : {
+		"3" : [
+			[ "potencio" ],
+			[ "potencias", "potenciás" ],
+			[ "potencia" ],
+			[ "potenciamos" ],
+			[ "potenciáis", "potencian" ],
+			[ "potencian" ]
+		],
+		"4" : [
+			[ "potencié" ],
+			[ "potenciaste" ],
+			[ "potenció" ],
+			[ "potenciamos" ],
+			[ "potenciasteis", "potenciaron" ],
+			[ "potenciaron" ]
+		],
+		"5" : [
+			[ "potenciaba" ],
+			[ "potenciabas" ],
+			[ "potenciaba" ],
+			[ "potenciábamos" ],
+			[ "potenciabais", "potenciaban" ],
+			[ "potenciaban" ]
+		],
+		"6" : [
+			[ "potenciaría" ],
+			[ "potenciarías" ],
+			[ "potenciaría" ],
+			[ "potenciaríamos" ],
+			[ "potenciaríais", "potenciarían" ],
+			[ "potenciarían" ]
+		],
+		"7" : [
+			[ "potenciaré" ],
+			[ "potenciarás" ],
+			[ "potenciará" ],
+			[ "potenciaremos" ],
+			[ "potenciaréis", "potenciarán" ],
+			[ "potenciarán" ]
+		],
+		"8" : [
+			[ "potencie" ],
+			[ "potencies" ],
+			[ "potencie" ],
+			[ "potenciemos" ],
+			[ "potenciéis", "potencien" ],
+			[ "potencien" ]
+		],
+		"9" : [
+			[ "potenciara" ],
+			[ "potenciaras" ],
+			[ "potenciara" ],
+			[ "potenciáramos" ],
+			[ "potenciarais", "potenciaran" ],
+			[ "potenciaran" ]
+		],
+		"10" : [
+			[ "potenciase" ],
+			[ "potenciases" ],
+			[ "potenciase" ],
+			[ "potenciásemos" ],
+			[ "potenciaseis", "potenciasen" ],
+			[ "potenciasen" ]
+		],
+		"11" : [
+			[ "potenciare" ],
+			[ "potenciares" ],
+			[ "potenciare" ],
+			[ "potenciáremos" ],
+			[ "potenciareis", "potenciaren" ],
+			[ "potenciaren" ]
+		],
+		"12" : {
+			"1" : [ "potencia" ],
+			"2" : [ "potencie" ],
+			"3" : [ "potenciemos" ],
+			"4" : [ "potenciad" ],
+			"5" : [ "potencien" ]
+		}
+	}
+}

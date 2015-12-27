@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=marinar",
+	"word" : "marinar",
+	"infinitivo" : "marinar",
+	"participio" : [ "marinado" ],
+	"gerundio" : [ "marinando" ],
+	"tenses" : {
+		"3" : [
+			[ "marino" ],
+			[ "marinas", "marinás" ],
+			[ "marina" ],
+			[ "marinamos" ],
+			[ "marináis", "marinan" ],
+			[ "marinan" ]
+		],
+		"4" : [
+			[ "mariné" ],
+			[ "marinaste" ],
+			[ "marinó" ],
+			[ "marinamos" ],
+			[ "marinasteis", "marinaron" ],
+			[ "marinaron" ]
+		],
+		"5" : [
+			[ "marinaba" ],
+			[ "marinabas" ],
+			[ "marinaba" ],
+			[ "marinábamos" ],
+			[ "marinabais", "marinaban" ],
+			[ "marinaban" ]
+		],
+		"6" : [
+			[ "marinaría" ],
+			[ "marinarías" ],
+			[ "marinaría" ],
+			[ "marinaríamos" ],
+			[ "marinaríais", "marinarían" ],
+			[ "marinarían" ]
+		],
+		"7" : [
+			[ "marinaré" ],
+			[ "marinarás" ],
+			[ "marinará" ],
+			[ "marinaremos" ],
+			[ "marinaréis", "marinarán" ],
+			[ "marinarán" ]
+		],
+		"8" : [
+			[ "marine" ],
+			[ "marines" ],
+			[ "marine" ],
+			[ "marinemos" ],
+			[ "marinéis", "marinen" ],
+			[ "marinen" ]
+		],
+		"9" : [
+			[ "marinara" ],
+			[ "marinaras" ],
+			[ "marinara" ],
+			[ "marináramos" ],
+			[ "marinarais", "marinaran" ],
+			[ "marinaran" ]
+		],
+		"10" : [
+			[ "marinase" ],
+			[ "marinases" ],
+			[ "marinase" ],
+			[ "marinásemos" ],
+			[ "marinaseis", "marinasen" ],
+			[ "marinasen" ]
+		],
+		"11" : [
+			[ "marinare" ],
+			[ "marinares" ],
+			[ "marinare" ],
+			[ "marináremos" ],
+			[ "marinareis", "marinaren" ],
+			[ "marinaren" ]
+		],
+		"12" : {
+			"1" : [ "marina" ],
+			"2" : [ "marine" ],
+			"3" : [ "marinemos" ],
+			"4" : [ "marinad" ],
+			"5" : [ "marinen" ]
+		}
+	}
+}

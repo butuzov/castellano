@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entrar",
+	"word" : "entrar",
+	"infinitivo" : "entrar",
+	"participio" : [ "entrado" ],
+	"gerundio" : [ "entrando" ],
+	"tenses" : {
+		"3" : [
+			[ "entro" ],
+			[ "entras", "entrás" ],
+			[ "entra" ],
+			[ "entramos" ],
+			[ "entráis", "entran" ],
+			[ "entran" ]
+		],
+		"4" : [
+			[ "entré" ],
+			[ "entraste" ],
+			[ "entró" ],
+			[ "entramos" ],
+			[ "entrasteis", "entraron" ],
+			[ "entraron" ]
+		],
+		"5" : [
+			[ "entraba" ],
+			[ "entrabas" ],
+			[ "entraba" ],
+			[ "entrábamos" ],
+			[ "entrabais", "entraban" ],
+			[ "entraban" ]
+		],
+		"6" : [
+			[ "entraría" ],
+			[ "entrarías" ],
+			[ "entraría" ],
+			[ "entraríamos" ],
+			[ "entraríais", "entrarían" ],
+			[ "entrarían" ]
+		],
+		"7" : [
+			[ "entraré" ],
+			[ "entrarás" ],
+			[ "entrará" ],
+			[ "entraremos" ],
+			[ "entraréis", "entrarán" ],
+			[ "entrarán" ]
+		],
+		"8" : [
+			[ "entre" ],
+			[ "entres" ],
+			[ "entre" ],
+			[ "entremos" ],
+			[ "entréis", "entren" ],
+			[ "entren" ]
+		],
+		"9" : [
+			[ "entrara" ],
+			[ "entraras" ],
+			[ "entrara" ],
+			[ "entráramos" ],
+			[ "entrarais", "entraran" ],
+			[ "entraran" ]
+		],
+		"10" : [
+			[ "entrase" ],
+			[ "entrases" ],
+			[ "entrase" ],
+			[ "entrásemos" ],
+			[ "entraseis", "entrasen" ],
+			[ "entrasen" ]
+		],
+		"11" : [
+			[ "entrare" ],
+			[ "entrares" ],
+			[ "entrare" ],
+			[ "entráremos" ],
+			[ "entrareis", "entraren" ],
+			[ "entraren" ]
+		],
+		"12" : {
+			"1" : [ "entra" ],
+			"2" : [ "entre" ],
+			"3" : [ "entremos" ],
+			"4" : [ "entrad" ],
+			"5" : [ "entren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=figurar",
+	"word" : "figurar",
+	"infinitivo" : "figurar",
+	"participio" : [ "figurado" ],
+	"gerundio" : [ "figurando" ],
+	"tenses" : {
+		"3" : [
+			[ "figuro" ],
+			[ "figuras", "figurás" ],
+			[ "figura" ],
+			[ "figuramos" ],
+			[ "figuráis", "figuran" ],
+			[ "figuran" ]
+		],
+		"4" : [
+			[ "figuré" ],
+			[ "figuraste" ],
+			[ "figuró" ],
+			[ "figuramos" ],
+			[ "figurasteis", "figuraron" ],
+			[ "figuraron" ]
+		],
+		"5" : [
+			[ "figuraba" ],
+			[ "figurabas" ],
+			[ "figuraba" ],
+			[ "figurábamos" ],
+			[ "figurabais", "figuraban" ],
+			[ "figuraban" ]
+		],
+		"6" : [
+			[ "figuraría" ],
+			[ "figurarías" ],
+			[ "figuraría" ],
+			[ "figuraríamos" ],
+			[ "figuraríais", "figurarían" ],
+			[ "figurarían" ]
+		],
+		"7" : [
+			[ "figuraré" ],
+			[ "figurarás" ],
+			[ "figurará" ],
+			[ "figuraremos" ],
+			[ "figuraréis", "figurarán" ],
+			[ "figurarán" ]
+		],
+		"8" : [
+			[ "figure" ],
+			[ "figures" ],
+			[ "figure" ],
+			[ "figuremos" ],
+			[ "figuréis", "figuren" ],
+			[ "figuren" ]
+		],
+		"9" : [
+			[ "figurara" ],
+			[ "figuraras" ],
+			[ "figurara" ],
+			[ "figuráramos" ],
+			[ "figurarais", "figuraran" ],
+			[ "figuraran" ]
+		],
+		"10" : [
+			[ "figurase" ],
+			[ "figurases" ],
+			[ "figurase" ],
+			[ "figurásemos" ],
+			[ "figuraseis", "figurasen" ],
+			[ "figurasen" ]
+		],
+		"11" : [
+			[ "figurare" ],
+			[ "figurares" ],
+			[ "figurare" ],
+			[ "figuráremos" ],
+			[ "figurareis", "figuraren" ],
+			[ "figuraren" ]
+		],
+		"12" : {
+			"1" : [ "figura" ],
+			"2" : [ "figure" ],
+			"3" : [ "figuremos" ],
+			"4" : [ "figurad" ],
+			"5" : [ "figuren" ]
+		}
+	}
+}

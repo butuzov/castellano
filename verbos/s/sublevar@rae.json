@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sublevar",
+	"word" : "sublevar",
+	"infinitivo" : "sublevar",
+	"participio" : [ "sublevado" ],
+	"gerundio" : [ "sublevando" ],
+	"tenses" : {
+		"3" : [
+			[ "sublevo" ],
+			[ "sublevas", "sublevás" ],
+			[ "subleva" ],
+			[ "sublevamos" ],
+			[ "subleváis", "sublevan" ],
+			[ "sublevan" ]
+		],
+		"4" : [
+			[ "sublevé" ],
+			[ "sublevaste" ],
+			[ "sublevó" ],
+			[ "sublevamos" ],
+			[ "sublevasteis", "sublevaron" ],
+			[ "sublevaron" ]
+		],
+		"5" : [
+			[ "sublevaba" ],
+			[ "sublevabas" ],
+			[ "sublevaba" ],
+			[ "sublevábamos" ],
+			[ "sublevabais", "sublevaban" ],
+			[ "sublevaban" ]
+		],
+		"6" : [
+			[ "sublevaría" ],
+			[ "sublevarías" ],
+			[ "sublevaría" ],
+			[ "sublevaríamos" ],
+			[ "sublevaríais", "sublevarían" ],
+			[ "sublevarían" ]
+		],
+		"7" : [
+			[ "sublevaré" ],
+			[ "sublevarás" ],
+			[ "sublevará" ],
+			[ "sublevaremos" ],
+			[ "sublevaréis", "sublevarán" ],
+			[ "sublevarán" ]
+		],
+		"8" : [
+			[ "subleve" ],
+			[ "subleves" ],
+			[ "subleve" ],
+			[ "sublevemos" ],
+			[ "sublevéis", "subleven" ],
+			[ "subleven" ]
+		],
+		"9" : [
+			[ "sublevara" ],
+			[ "sublevaras" ],
+			[ "sublevara" ],
+			[ "subleváramos" ],
+			[ "sublevarais", "sublevaran" ],
+			[ "sublevaran" ]
+		],
+		"10" : [
+			[ "sublevase" ],
+			[ "sublevases" ],
+			[ "sublevase" ],
+			[ "sublevásemos" ],
+			[ "sublevaseis", "sublevasen" ],
+			[ "sublevasen" ]
+		],
+		"11" : [
+			[ "sublevare" ],
+			[ "sublevares" ],
+			[ "sublevare" ],
+			[ "subleváremos" ],
+			[ "sublevareis", "sublevaren" ],
+			[ "sublevaren" ]
+		],
+		"12" : {
+			"1" : [ "subleva" ],
+			"2" : [ "subleve" ],
+			"3" : [ "sublevemos" ],
+			"4" : [ "sublevad" ],
+			"5" : [ "subleven" ]
+		}
+	}
+}

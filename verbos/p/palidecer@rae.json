@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=palidecer",
+	"word" : "palidecer",
+	"infinitivo" : "palidecer",
+	"participio" : [ "palidecido" ],
+	"gerundio" : [ "palideciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "palidezco" ],
+			[ "palideces", "palidecés" ],
+			[ "palidece" ],
+			[ "palidecemos" ],
+			[ "palidecéis", "palidecen" ],
+			[ "palidecen" ]
+		],
+		"4" : [
+			[ "palidecí" ],
+			[ "palideciste" ],
+			[ "palideció" ],
+			[ "palidecimos" ],
+			[ "palidecisteis", "palidecieron" ],
+			[ "palidecieron" ]
+		],
+		"5" : [
+			[ "palidecía" ],
+			[ "palidecías" ],
+			[ "palidecía" ],
+			[ "palidecíamos" ],
+			[ "palidecíais", "palidecían" ],
+			[ "palidecían" ]
+		],
+		"6" : [
+			[ "palidecería" ],
+			[ "palidecerías" ],
+			[ "palidecería" ],
+			[ "palideceríamos" ],
+			[ "palideceríais", "palidecerían" ],
+			[ "palidecerían" ]
+		],
+		"7" : [
+			[ "palideceré" ],
+			[ "palidecerás" ],
+			[ "palidecerá" ],
+			[ "palideceremos" ],
+			[ "palideceréis", "palidecerán" ],
+			[ "palidecerán" ]
+		],
+		"8" : [
+			[ "palidezca" ],
+			[ "palidezcas" ],
+			[ "palidezca" ],
+			[ "palidezcamos" ],
+			[ "palidezcáis", "palidezcan" ],
+			[ "palidezcan" ]
+		],
+		"9" : [
+			[ "palideciera" ],
+			[ "palidecieras" ],
+			[ "palideciera" ],
+			[ "palideciéramos" ],
+			[ "palidecierais", "palidecieran" ],
+			[ "palidecieran" ]
+		],
+		"10" : [
+			[ "palideciese" ],
+			[ "palidecieses" ],
+			[ "palideciese" ],
+			[ "palideciésemos" ],
+			[ "palidecieseis", "palideciesen" ],
+			[ "palideciesen" ]
+		],
+		"11" : [
+			[ "palideciere" ],
+			[ "palidecieres" ],
+			[ "palideciere" ],
+			[ "palideciéremos" ],
+			[ "palideciereis", "palidecieren" ],
+			[ "palidecieren" ]
+		],
+		"12" : {
+			"1" : [ "palidece" ],
+			"2" : [ "palidezca" ],
+			"3" : [ "palidezcamos" ],
+			"4" : [ "palideced" ],
+			"5" : [ "palidezcan" ]
+		}
+	}
+}

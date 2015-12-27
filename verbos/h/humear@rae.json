@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=humear",
+	"word" : "humear",
+	"infinitivo" : "humear",
+	"participio" : [ "humeado" ],
+	"gerundio" : [ "humeando" ],
+	"tenses" : {
+		"3" : [
+			[ "humeo" ],
+			[ "humeas", "humeás" ],
+			[ "humea" ],
+			[ "humeamos" ],
+			[ "humeáis", "humean" ],
+			[ "humean" ]
+		],
+		"4" : [
+			[ "humeé" ],
+			[ "humeaste" ],
+			[ "humeó" ],
+			[ "humeamos" ],
+			[ "humeasteis", "humearon" ],
+			[ "humearon" ]
+		],
+		"5" : [
+			[ "humeaba" ],
+			[ "humeabas" ],
+			[ "humeaba" ],
+			[ "humeábamos" ],
+			[ "humeabais", "humeaban" ],
+			[ "humeaban" ]
+		],
+		"6" : [
+			[ "humearía" ],
+			[ "humearías" ],
+			[ "humearía" ],
+			[ "humearíamos" ],
+			[ "humearíais", "humearían" ],
+			[ "humearían" ]
+		],
+		"7" : [
+			[ "humearé" ],
+			[ "humearás" ],
+			[ "humeará" ],
+			[ "humearemos" ],
+			[ "humearéis", "humearán" ],
+			[ "humearán" ]
+		],
+		"8" : [
+			[ "humee" ],
+			[ "humees" ],
+			[ "humee" ],
+			[ "humeemos" ],
+			[ "humeéis", "humeen" ],
+			[ "humeen" ]
+		],
+		"9" : [
+			[ "humeara" ],
+			[ "humearas" ],
+			[ "humeara" ],
+			[ "humeáramos" ],
+			[ "humearais", "humearan" ],
+			[ "humearan" ]
+		],
+		"10" : [
+			[ "humease" ],
+			[ "humeases" ],
+			[ "humease" ],
+			[ "humeásemos" ],
+			[ "humeaseis", "humeasen" ],
+			[ "humeasen" ]
+		],
+		"11" : [
+			[ "humeare" ],
+			[ "humeares" ],
+			[ "humeare" ],
+			[ "humeáremos" ],
+			[ "humeareis", "humearen" ],
+			[ "humearen" ]
+		],
+		"12" : {
+			"1" : [ "humea" ],
+			"2" : [ "humee" ],
+			"3" : [ "humeemos" ],
+			"4" : [ "humead" ],
+			"5" : [ "humeen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sufrir",
+	"word" : "sufrir",
+	"infinitivo" : "sufrir",
+	"participio" : [ "sufrido" ],
+	"gerundio" : [ "sufriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "sufro" ],
+			[ "sufres", "sufrís" ],
+			[ "sufre" ],
+			[ "sufrimos" ],
+			[ "sufrís", "sufren" ],
+			[ "sufren" ]
+		],
+		"4" : [
+			[ "sufrí" ],
+			[ "sufriste" ],
+			[ "sufrió" ],
+			[ "sufrimos" ],
+			[ "sufristeis", "sufrieron" ],
+			[ "sufrieron" ]
+		],
+		"5" : [
+			[ "sufría" ],
+			[ "sufrías" ],
+			[ "sufría" ],
+			[ "sufríamos" ],
+			[ "sufríais", "sufrían" ],
+			[ "sufrían" ]
+		],
+		"6" : [
+			[ "sufriría" ],
+			[ "sufrirías" ],
+			[ "sufriría" ],
+			[ "sufriríamos" ],
+			[ "sufriríais", "sufrirían" ],
+			[ "sufrirían" ]
+		],
+		"7" : [
+			[ "sufriré" ],
+			[ "sufrirás" ],
+			[ "sufrirá" ],
+			[ "sufriremos" ],
+			[ "sufriréis", "sufrirán" ],
+			[ "sufrirán" ]
+		],
+		"8" : [
+			[ "sufra" ],
+			[ "sufras" ],
+			[ "sufra" ],
+			[ "suframos" ],
+			[ "sufráis", "sufran" ],
+			[ "sufran" ]
+		],
+		"9" : [
+			[ "sufriera" ],
+			[ "sufrieras" ],
+			[ "sufriera" ],
+			[ "sufriéramos" ],
+			[ "sufrierais", "sufrieran" ],
+			[ "sufrieran" ]
+		],
+		"10" : [
+			[ "sufriese" ],
+			[ "sufrieses" ],
+			[ "sufriese" ],
+			[ "sufriésemos" ],
+			[ "sufrieseis", "sufriesen" ],
+			[ "sufriesen" ]
+		],
+		"11" : [
+			[ "sufriere" ],
+			[ "sufrieres" ],
+			[ "sufriere" ],
+			[ "sufriéremos" ],
+			[ "sufriereis", "sufrieren" ],
+			[ "sufrieren" ]
+		],
+		"12" : {
+			"1" : [ "sufre" ],
+			"2" : [ "sufra" ],
+			"3" : [ "suframos" ],
+			"4" : [ "sufrid" ],
+			"5" : [ "sufran" ]
+		}
+	}
+}

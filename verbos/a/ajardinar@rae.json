@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ajardinar",
+	"word" : "ajardinar",
+	"infinitivo" : "ajardinar",
+	"participio" : [ "ajardinado" ],
+	"gerundio" : [ "ajardinando" ],
+	"tenses" : {
+		"3" : [
+			[ "ajardino" ],
+			[ "ajardinas", "ajardinás" ],
+			[ "ajardina" ],
+			[ "ajardinamos" ],
+			[ "ajardináis", "ajardinan" ],
+			[ "ajardinan" ]
+		],
+		"4" : [
+			[ "ajardiné" ],
+			[ "ajardinaste" ],
+			[ "ajardinó" ],
+			[ "ajardinamos" ],
+			[ "ajardinasteis", "ajardinaron" ],
+			[ "ajardinaron" ]
+		],
+		"5" : [
+			[ "ajardinaba" ],
+			[ "ajardinabas" ],
+			[ "ajardinaba" ],
+			[ "ajardinábamos" ],
+			[ "ajardinabais", "ajardinaban" ],
+			[ "ajardinaban" ]
+		],
+		"6" : [
+			[ "ajardinaría" ],
+			[ "ajardinarías" ],
+			[ "ajardinaría" ],
+			[ "ajardinaríamos" ],
+			[ "ajardinaríais", "ajardinarían" ],
+			[ "ajardinarían" ]
+		],
+		"7" : [
+			[ "ajardinaré" ],
+			[ "ajardinarás" ],
+			[ "ajardinará" ],
+			[ "ajardinaremos" ],
+			[ "ajardinaréis", "ajardinarán" ],
+			[ "ajardinarán" ]
+		],
+		"8" : [
+			[ "ajardine" ],
+			[ "ajardines" ],
+			[ "ajardine" ],
+			[ "ajardinemos" ],
+			[ "ajardinéis", "ajardinen" ],
+			[ "ajardinen" ]
+		],
+		"9" : [
+			[ "ajardinara" ],
+			[ "ajardinaras" ],
+			[ "ajardinara" ],
+			[ "ajardináramos" ],
+			[ "ajardinarais", "ajardinaran" ],
+			[ "ajardinaran" ]
+		],
+		"10" : [
+			[ "ajardinase" ],
+			[ "ajardinases" ],
+			[ "ajardinase" ],
+			[ "ajardinásemos" ],
+			[ "ajardinaseis", "ajardinasen" ],
+			[ "ajardinasen" ]
+		],
+		"11" : [
+			[ "ajardinare" ],
+			[ "ajardinares" ],
+			[ "ajardinare" ],
+			[ "ajardináremos" ],
+			[ "ajardinareis", "ajardinaren" ],
+			[ "ajardinaren" ]
+		],
+		"12" : {
+			"1" : [ "ajardina" ],
+			"2" : [ "ajardine" ],
+			"3" : [ "ajardinemos" ],
+			"4" : [ "ajardinad" ],
+			"5" : [ "ajardinen" ]
+		}
+	}
+}

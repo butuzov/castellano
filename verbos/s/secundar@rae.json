@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=secundar",
+	"word" : "secundar",
+	"infinitivo" : "secundar",
+	"participio" : [ "secundado" ],
+	"gerundio" : [ "secundando" ],
+	"tenses" : {
+		"3" : [
+			[ "secundo" ],
+			[ "secundas", "secundás" ],
+			[ "secunda" ],
+			[ "secundamos" ],
+			[ "secundáis", "secundan" ],
+			[ "secundan" ]
+		],
+		"4" : [
+			[ "secundé" ],
+			[ "secundaste" ],
+			[ "secundó" ],
+			[ "secundamos" ],
+			[ "secundasteis", "secundaron" ],
+			[ "secundaron" ]
+		],
+		"5" : [
+			[ "secundaba" ],
+			[ "secundabas" ],
+			[ "secundaba" ],
+			[ "secundábamos" ],
+			[ "secundabais", "secundaban" ],
+			[ "secundaban" ]
+		],
+		"6" : [
+			[ "secundaría" ],
+			[ "secundarías" ],
+			[ "secundaría" ],
+			[ "secundaríamos" ],
+			[ "secundaríais", "secundarían" ],
+			[ "secundarían" ]
+		],
+		"7" : [
+			[ "secundaré" ],
+			[ "secundarás" ],
+			[ "secundará" ],
+			[ "secundaremos" ],
+			[ "secundaréis", "secundarán" ],
+			[ "secundarán" ]
+		],
+		"8" : [
+			[ "secunde" ],
+			[ "secundes" ],
+			[ "secunde" ],
+			[ "secundemos" ],
+			[ "secundéis", "secunden" ],
+			[ "secunden" ]
+		],
+		"9" : [
+			[ "secundara" ],
+			[ "secundaras" ],
+			[ "secundara" ],
+			[ "secundáramos" ],
+			[ "secundarais", "secundaran" ],
+			[ "secundaran" ]
+		],
+		"10" : [
+			[ "secundase" ],
+			[ "secundases" ],
+			[ "secundase" ],
+			[ "secundásemos" ],
+			[ "secundaseis", "secundasen" ],
+			[ "secundasen" ]
+		],
+		"11" : [
+			[ "secundare" ],
+			[ "secundares" ],
+			[ "secundare" ],
+			[ "secundáremos" ],
+			[ "secundareis", "secundaren" ],
+			[ "secundaren" ]
+		],
+		"12" : {
+			"1" : [ "secunda" ],
+			"2" : [ "secunde" ],
+			"3" : [ "secundemos" ],
+			"4" : [ "secundad" ],
+			"5" : [ "secunden" ]
+		}
+	}
+}

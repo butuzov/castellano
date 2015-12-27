@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=decelerar",
+	"word" : "decelerar",
+	"infinitivo" : "decelerar",
+	"participio" : [ "decelerado" ],
+	"gerundio" : [ "decelerando" ],
+	"tenses" : {
+		"3" : [
+			[ "decelero" ],
+			[ "deceleras", "decelerás" ],
+			[ "decelera" ],
+			[ "deceleramos" ],
+			[ "deceleráis", "deceleran" ],
+			[ "deceleran" ]
+		],
+		"4" : [
+			[ "deceleré" ],
+			[ "deceleraste" ],
+			[ "deceleró" ],
+			[ "deceleramos" ],
+			[ "decelerasteis", "deceleraron" ],
+			[ "deceleraron" ]
+		],
+		"5" : [
+			[ "deceleraba" ],
+			[ "decelerabas" ],
+			[ "deceleraba" ],
+			[ "decelerábamos" ],
+			[ "decelerabais", "deceleraban" ],
+			[ "deceleraban" ]
+		],
+		"6" : [
+			[ "deceleraría" ],
+			[ "decelerarías" ],
+			[ "deceleraría" ],
+			[ "deceleraríamos" ],
+			[ "deceleraríais", "decelerarían" ],
+			[ "decelerarían" ]
+		],
+		"7" : [
+			[ "deceleraré" ],
+			[ "decelerarás" ],
+			[ "decelerará" ],
+			[ "deceleraremos" ],
+			[ "deceleraréis", "decelerarán" ],
+			[ "decelerarán" ]
+		],
+		"8" : [
+			[ "decelere" ],
+			[ "deceleres" ],
+			[ "decelere" ],
+			[ "deceleremos" ],
+			[ "deceleréis", "deceleren" ],
+			[ "deceleren" ]
+		],
+		"9" : [
+			[ "decelerara" ],
+			[ "deceleraras" ],
+			[ "decelerara" ],
+			[ "deceleráramos" ],
+			[ "decelerarais", "deceleraran" ],
+			[ "deceleraran" ]
+		],
+		"10" : [
+			[ "decelerase" ],
+			[ "decelerases" ],
+			[ "decelerase" ],
+			[ "decelerásemos" ],
+			[ "deceleraseis", "decelerasen" ],
+			[ "decelerasen" ]
+		],
+		"11" : [
+			[ "decelerare" ],
+			[ "decelerares" ],
+			[ "decelerare" ],
+			[ "deceleráremos" ],
+			[ "decelerareis", "deceleraren" ],
+			[ "deceleraren" ]
+		],
+		"12" : {
+			"1" : [ "decelera" ],
+			"2" : [ "decelere" ],
+			"3" : [ "deceleremos" ],
+			"4" : [ "decelerad" ],
+			"5" : [ "deceleren" ]
+		}
+	}
+}

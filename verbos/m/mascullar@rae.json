@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mascullar",
+	"word" : "mascullar",
+	"infinitivo" : "mascullar",
+	"participio" : [ "mascullado" ],
+	"gerundio" : [ "mascullando" ],
+	"tenses" : {
+		"3" : [
+			[ "mascullo" ],
+			[ "mascullas", "mascullás" ],
+			[ "masculla" ],
+			[ "mascullamos" ],
+			[ "masculláis", "mascullan" ],
+			[ "mascullan" ]
+		],
+		"4" : [
+			[ "mascullé" ],
+			[ "mascullaste" ],
+			[ "masculló" ],
+			[ "mascullamos" ],
+			[ "mascullasteis", "mascullaron" ],
+			[ "mascullaron" ]
+		],
+		"5" : [
+			[ "mascullaba" ],
+			[ "mascullabas" ],
+			[ "mascullaba" ],
+			[ "mascullábamos" ],
+			[ "mascullabais", "mascullaban" ],
+			[ "mascullaban" ]
+		],
+		"6" : [
+			[ "mascullaría" ],
+			[ "mascullarías" ],
+			[ "mascullaría" ],
+			[ "mascullaríamos" ],
+			[ "mascullaríais", "mascullarían" ],
+			[ "mascullarían" ]
+		],
+		"7" : [
+			[ "mascullaré" ],
+			[ "mascullarás" ],
+			[ "mascullará" ],
+			[ "mascullaremos" ],
+			[ "mascullaréis", "mascullarán" ],
+			[ "mascullarán" ]
+		],
+		"8" : [
+			[ "masculle" ],
+			[ "masculles" ],
+			[ "masculle" ],
+			[ "mascullemos" ],
+			[ "masculléis", "mascullen" ],
+			[ "mascullen" ]
+		],
+		"9" : [
+			[ "mascullara" ],
+			[ "mascullaras" ],
+			[ "mascullara" ],
+			[ "masculláramos" ],
+			[ "mascullarais", "mascullaran" ],
+			[ "mascullaran" ]
+		],
+		"10" : [
+			[ "mascullase" ],
+			[ "mascullases" ],
+			[ "mascullase" ],
+			[ "mascullásemos" ],
+			[ "mascullaseis", "mascullasen" ],
+			[ "mascullasen" ]
+		],
+		"11" : [
+			[ "mascullare" ],
+			[ "mascullares" ],
+			[ "mascullare" ],
+			[ "masculláremos" ],
+			[ "mascullareis", "mascullaren" ],
+			[ "mascullaren" ]
+		],
+		"12" : {
+			"1" : [ "masculla" ],
+			"2" : [ "masculle" ],
+			"3" : [ "mascullemos" ],
+			"4" : [ "mascullad" ],
+			"5" : [ "mascullen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=paralizar",
+	"word" : "paralizar",
+	"infinitivo" : "paralizar",
+	"participio" : [ "paralizado" ],
+	"gerundio" : [ "paralizando" ],
+	"tenses" : {
+		"3" : [
+			[ "paralizo" ],
+			[ "paralizas", "paralizás" ],
+			[ "paraliza" ],
+			[ "paralizamos" ],
+			[ "paralizáis", "paralizan" ],
+			[ "paralizan" ]
+		],
+		"4" : [
+			[ "paralicé" ],
+			[ "paralizaste" ],
+			[ "paralizó" ],
+			[ "paralizamos" ],
+			[ "paralizasteis", "paralizaron" ],
+			[ "paralizaron" ]
+		],
+		"5" : [
+			[ "paralizaba" ],
+			[ "paralizabas" ],
+			[ "paralizaba" ],
+			[ "paralizábamos" ],
+			[ "paralizabais", "paralizaban" ],
+			[ "paralizaban" ]
+		],
+		"6" : [
+			[ "paralizaría" ],
+			[ "paralizarías" ],
+			[ "paralizaría" ],
+			[ "paralizaríamos" ],
+			[ "paralizaríais", "paralizarían" ],
+			[ "paralizarían" ]
+		],
+		"7" : [
+			[ "paralizaré" ],
+			[ "paralizarás" ],
+			[ "paralizará" ],
+			[ "paralizaremos" ],
+			[ "paralizaréis", "paralizarán" ],
+			[ "paralizarán" ]
+		],
+		"8" : [
+			[ "paralice" ],
+			[ "paralices" ],
+			[ "paralice" ],
+			[ "paralicemos" ],
+			[ "paralicéis", "paralicen" ],
+			[ "paralicen" ]
+		],
+		"9" : [
+			[ "paralizara" ],
+			[ "paralizaras" ],
+			[ "paralizara" ],
+			[ "paralizáramos" ],
+			[ "paralizarais", "paralizaran" ],
+			[ "paralizaran" ]
+		],
+		"10" : [
+			[ "paralizase" ],
+			[ "paralizases" ],
+			[ "paralizase" ],
+			[ "paralizásemos" ],
+			[ "paralizaseis", "paralizasen" ],
+			[ "paralizasen" ]
+		],
+		"11" : [
+			[ "paralizare" ],
+			[ "paralizares" ],
+			[ "paralizare" ],
+			[ "paralizáremos" ],
+			[ "paralizareis", "paralizaren" ],
+			[ "paralizaren" ]
+		],
+		"12" : {
+			"1" : [ "paraliza" ],
+			"2" : [ "paralice" ],
+			"3" : [ "paralicemos" ],
+			"4" : [ "paralizad" ],
+			"5" : [ "paralicen" ]
+		}
+	}
+}

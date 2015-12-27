@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=eviscerar",
+	"word" : "eviscerar",
+	"infinitivo" : "eviscerar",
+	"participio" : [ "eviscerado" ],
+	"gerundio" : [ "eviscerando" ],
+	"tenses" : {
+		"3" : [
+			[ "eviscero" ],
+			[ "evisceras", "eviscerás" ],
+			[ "eviscera" ],
+			[ "evisceramos" ],
+			[ "evisceráis", "evisceran" ],
+			[ "evisceran" ]
+		],
+		"4" : [
+			[ "evisceré" ],
+			[ "evisceraste" ],
+			[ "evisceró" ],
+			[ "evisceramos" ],
+			[ "eviscerasteis", "evisceraron" ],
+			[ "evisceraron" ]
+		],
+		"5" : [
+			[ "evisceraba" ],
+			[ "eviscerabas" ],
+			[ "evisceraba" ],
+			[ "eviscerábamos" ],
+			[ "eviscerabais", "evisceraban" ],
+			[ "evisceraban" ]
+		],
+		"6" : [
+			[ "evisceraría" ],
+			[ "eviscerarías" ],
+			[ "evisceraría" ],
+			[ "evisceraríamos" ],
+			[ "evisceraríais", "eviscerarían" ],
+			[ "eviscerarían" ]
+		],
+		"7" : [
+			[ "evisceraré" ],
+			[ "eviscerarás" ],
+			[ "eviscerará" ],
+			[ "evisceraremos" ],
+			[ "evisceraréis", "eviscerarán" ],
+			[ "eviscerarán" ]
+		],
+		"8" : [
+			[ "eviscere" ],
+			[ "evisceres" ],
+			[ "eviscere" ],
+			[ "evisceremos" ],
+			[ "evisceréis", "evisceren" ],
+			[ "evisceren" ]
+		],
+		"9" : [
+			[ "eviscerara" ],
+			[ "evisceraras" ],
+			[ "eviscerara" ],
+			[ "evisceráramos" ],
+			[ "eviscerarais", "evisceraran" ],
+			[ "evisceraran" ]
+		],
+		"10" : [
+			[ "eviscerase" ],
+			[ "eviscerases" ],
+			[ "eviscerase" ],
+			[ "eviscerásemos" ],
+			[ "evisceraseis", "eviscerasen" ],
+			[ "eviscerasen" ]
+		],
+		"11" : [
+			[ "eviscerare" ],
+			[ "eviscerares" ],
+			[ "eviscerare" ],
+			[ "evisceráremos" ],
+			[ "eviscerareis", "evisceraren" ],
+			[ "evisceraren" ]
+		],
+		"12" : {
+			"1" : [ "eviscera" ],
+			"2" : [ "eviscere" ],
+			"3" : [ "evisceremos" ],
+			"4" : [ "eviscerad" ],
+			"5" : [ "evisceren" ]
+		}
+	}
+}

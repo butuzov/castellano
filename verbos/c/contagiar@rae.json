@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=contagiar",
+	"word" : "contagiar",
+	"infinitivo" : "contagiar",
+	"participio" : [ "contagiado" ],
+	"gerundio" : [ "contagiando" ],
+	"tenses" : {
+		"3" : [
+			[ "contagio" ],
+			[ "contagias", "contagiás" ],
+			[ "contagia" ],
+			[ "contagiamos" ],
+			[ "contagiáis", "contagian" ],
+			[ "contagian" ]
+		],
+		"4" : [
+			[ "contagié" ],
+			[ "contagiaste" ],
+			[ "contagió" ],
+			[ "contagiamos" ],
+			[ "contagiasteis", "contagiaron" ],
+			[ "contagiaron" ]
+		],
+		"5" : [
+			[ "contagiaba" ],
+			[ "contagiabas" ],
+			[ "contagiaba" ],
+			[ "contagiábamos" ],
+			[ "contagiabais", "contagiaban" ],
+			[ "contagiaban" ]
+		],
+		"6" : [
+			[ "contagiaría" ],
+			[ "contagiarías" ],
+			[ "contagiaría" ],
+			[ "contagiaríamos" ],
+			[ "contagiaríais", "contagiarían" ],
+			[ "contagiarían" ]
+		],
+		"7" : [
+			[ "contagiaré" ],
+			[ "contagiarás" ],
+			[ "contagiará" ],
+			[ "contagiaremos" ],
+			[ "contagiaréis", "contagiarán" ],
+			[ "contagiarán" ]
+		],
+		"8" : [
+			[ "contagie" ],
+			[ "contagies" ],
+			[ "contagie" ],
+			[ "contagiemos" ],
+			[ "contagiéis", "contagien" ],
+			[ "contagien" ]
+		],
+		"9" : [
+			[ "contagiara" ],
+			[ "contagiaras" ],
+			[ "contagiara" ],
+			[ "contagiáramos" ],
+			[ "contagiarais", "contagiaran" ],
+			[ "contagiaran" ]
+		],
+		"10" : [
+			[ "contagiase" ],
+			[ "contagiases" ],
+			[ "contagiase" ],
+			[ "contagiásemos" ],
+			[ "contagiaseis", "contagiasen" ],
+			[ "contagiasen" ]
+		],
+		"11" : [
+			[ "contagiare" ],
+			[ "contagiares" ],
+			[ "contagiare" ],
+			[ "contagiáremos" ],
+			[ "contagiareis", "contagiaren" ],
+			[ "contagiaren" ]
+		],
+		"12" : {
+			"1" : [ "contagia" ],
+			"2" : [ "contagie" ],
+			"3" : [ "contagiemos" ],
+			"4" : [ "contagiad" ],
+			"5" : [ "contagien" ]
+		}
+	}
+}

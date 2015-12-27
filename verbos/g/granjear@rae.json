@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=granjear",
+	"word" : "granjear",
+	"infinitivo" : "granjear",
+	"participio" : [ "granjeado" ],
+	"gerundio" : [ "granjeando" ],
+	"tenses" : {
+		"3" : [
+			[ "granjeo" ],
+			[ "granjeas", "granjeás" ],
+			[ "granjea" ],
+			[ "granjeamos" ],
+			[ "granjeáis", "granjean" ],
+			[ "granjean" ]
+		],
+		"4" : [
+			[ "granjeé" ],
+			[ "granjeaste" ],
+			[ "granjeó" ],
+			[ "granjeamos" ],
+			[ "granjeasteis", "granjearon" ],
+			[ "granjearon" ]
+		],
+		"5" : [
+			[ "granjeaba" ],
+			[ "granjeabas" ],
+			[ "granjeaba" ],
+			[ "granjeábamos" ],
+			[ "granjeabais", "granjeaban" ],
+			[ "granjeaban" ]
+		],
+		"6" : [
+			[ "granjearía" ],
+			[ "granjearías" ],
+			[ "granjearía" ],
+			[ "granjearíamos" ],
+			[ "granjearíais", "granjearían" ],
+			[ "granjearían" ]
+		],
+		"7" : [
+			[ "granjearé" ],
+			[ "granjearás" ],
+			[ "granjeará" ],
+			[ "granjearemos" ],
+			[ "granjearéis", "granjearán" ],
+			[ "granjearán" ]
+		],
+		"8" : [
+			[ "granjee" ],
+			[ "granjees" ],
+			[ "granjee" ],
+			[ "granjeemos" ],
+			[ "granjeéis", "granjeen" ],
+			[ "granjeen" ]
+		],
+		"9" : [
+			[ "granjeara" ],
+			[ "granjearas" ],
+			[ "granjeara" ],
+			[ "granjeáramos" ],
+			[ "granjearais", "granjearan" ],
+			[ "granjearan" ]
+		],
+		"10" : [
+			[ "granjease" ],
+			[ "granjeases" ],
+			[ "granjease" ],
+			[ "granjeásemos" ],
+			[ "granjeaseis", "granjeasen" ],
+			[ "granjeasen" ]
+		],
+		"11" : [
+			[ "granjeare" ],
+			[ "granjeares" ],
+			[ "granjeare" ],
+			[ "granjeáremos" ],
+			[ "granjeareis", "granjearen" ],
+			[ "granjearen" ]
+		],
+		"12" : {
+			"1" : [ "granjea" ],
+			"2" : [ "granjee" ],
+			"3" : [ "granjeemos" ],
+			"4" : [ "granjead" ],
+			"5" : [ "granjeen" ]
+		}
+	}
+}

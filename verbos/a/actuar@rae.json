@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=actuar",
+	"word" : "actuar",
+	"infinitivo" : "actuar",
+	"participio" : [ "actuado" ],
+	"gerundio" : [ "actuando" ],
+	"tenses" : {
+		"3" : [
+			[ "actúo" ],
+			[ "actúas", "actuás" ],
+			[ "actúa" ],
+			[ "actuamos" ],
+			[ "actuáis", "actúan" ],
+			[ "actúan" ]
+		],
+		"4" : [
+			[ "actué" ],
+			[ "actuaste" ],
+			[ "actuó" ],
+			[ "actuamos" ],
+			[ "actuasteis", "actuaron" ],
+			[ "actuaron" ]
+		],
+		"5" : [
+			[ "actuaba" ],
+			[ "actuabas" ],
+			[ "actuaba" ],
+			[ "actuábamos" ],
+			[ "actuabais", "actuaban" ],
+			[ "actuaban" ]
+		],
+		"6" : [
+			[ "actuaría" ],
+			[ "actuarías" ],
+			[ "actuaría" ],
+			[ "actuaríamos" ],
+			[ "actuaríais", "actuarían" ],
+			[ "actuarían" ]
+		],
+		"7" : [
+			[ "actuaré" ],
+			[ "actuarás" ],
+			[ "actuará" ],
+			[ "actuaremos" ],
+			[ "actuaréis", "actuarán" ],
+			[ "actuarán" ]
+		],
+		"8" : [
+			[ "actúe" ],
+			[ "actúes" ],
+			[ "actúe" ],
+			[ "actuemos" ],
+			[ "actuéis", "actúen" ],
+			[ "actúen" ]
+		],
+		"9" : [
+			[ "actuara" ],
+			[ "actuaras" ],
+			[ "actuara" ],
+			[ "actuáramos" ],
+			[ "actuarais", "actuaran" ],
+			[ "actuaran" ]
+		],
+		"10" : [
+			[ "actuase" ],
+			[ "actuases" ],
+			[ "actuase" ],
+			[ "actuásemos" ],
+			[ "actuaseis", "actuasen" ],
+			[ "actuasen" ]
+		],
+		"11" : [
+			[ "actuare" ],
+			[ "actuares" ],
+			[ "actuare" ],
+			[ "actuáremos" ],
+			[ "actuareis", "actuaren" ],
+			[ "actuaren" ]
+		],
+		"12" : {
+			"1" : [ "actúa" ],
+			"2" : [ "actúe" ],
+			"3" : [ "actuemos" ],
+			"4" : [ "actuad" ],
+			"5" : [ "actúen" ]
+		}
+	}
+}

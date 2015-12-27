@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=trinar",
+	"word" : "trinar",
+	"infinitivo" : "trinar",
+	"participio" : [ "trinado" ],
+	"gerundio" : [ "trinando" ],
+	"tenses" : {
+		"3" : [
+			[ "trino" ],
+			[ "trinas", "trinás" ],
+			[ "trina" ],
+			[ "trinamos" ],
+			[ "trináis", "trinan" ],
+			[ "trinan" ]
+		],
+		"4" : [
+			[ "triné" ],
+			[ "trinaste" ],
+			[ "trinó" ],
+			[ "trinamos" ],
+			[ "trinasteis", "trinaron" ],
+			[ "trinaron" ]
+		],
+		"5" : [
+			[ "trinaba" ],
+			[ "trinabas" ],
+			[ "trinaba" ],
+			[ "trinábamos" ],
+			[ "trinabais", "trinaban" ],
+			[ "trinaban" ]
+		],
+		"6" : [
+			[ "trinaría" ],
+			[ "trinarías" ],
+			[ "trinaría" ],
+			[ "trinaríamos" ],
+			[ "trinaríais", "trinarían" ],
+			[ "trinarían" ]
+		],
+		"7" : [
+			[ "trinaré" ],
+			[ "trinarás" ],
+			[ "trinará" ],
+			[ "trinaremos" ],
+			[ "trinaréis", "trinarán" ],
+			[ "trinarán" ]
+		],
+		"8" : [
+			[ "trine" ],
+			[ "trines" ],
+			[ "trine" ],
+			[ "trinemos" ],
+			[ "trinéis", "trinen" ],
+			[ "trinen" ]
+		],
+		"9" : [
+			[ "trinara" ],
+			[ "trinaras" ],
+			[ "trinara" ],
+			[ "trináramos" ],
+			[ "trinarais", "trinaran" ],
+			[ "trinaran" ]
+		],
+		"10" : [
+			[ "trinase" ],
+			[ "trinases" ],
+			[ "trinase" ],
+			[ "trinásemos" ],
+			[ "trinaseis", "trinasen" ],
+			[ "trinasen" ]
+		],
+		"11" : [
+			[ "trinare" ],
+			[ "trinares" ],
+			[ "trinare" ],
+			[ "trináremos" ],
+			[ "trinareis", "trinaren" ],
+			[ "trinaren" ]
+		],
+		"12" : {
+			"1" : [ "trina" ],
+			"2" : [ "trine" ],
+			"3" : [ "trinemos" ],
+			"4" : [ "trinad" ],
+			"5" : [ "trinen" ]
+		}
+	}
+}

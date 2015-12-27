@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=meditar",
+	"word" : "meditar",
+	"infinitivo" : "meditar",
+	"participio" : [ "meditado" ],
+	"gerundio" : [ "meditando" ],
+	"tenses" : {
+		"3" : [
+			[ "medito" ],
+			[ "meditas", "meditás" ],
+			[ "medita" ],
+			[ "meditamos" ],
+			[ "meditáis", "meditan" ],
+			[ "meditan" ]
+		],
+		"4" : [
+			[ "medité" ],
+			[ "meditaste" ],
+			[ "meditó" ],
+			[ "meditamos" ],
+			[ "meditasteis", "meditaron" ],
+			[ "meditaron" ]
+		],
+		"5" : [
+			[ "meditaba" ],
+			[ "meditabas" ],
+			[ "meditaba" ],
+			[ "meditábamos" ],
+			[ "meditabais", "meditaban" ],
+			[ "meditaban" ]
+		],
+		"6" : [
+			[ "meditaría" ],
+			[ "meditarías" ],
+			[ "meditaría" ],
+			[ "meditaríamos" ],
+			[ "meditaríais", "meditarían" ],
+			[ "meditarían" ]
+		],
+		"7" : [
+			[ "meditaré" ],
+			[ "meditarás" ],
+			[ "meditará" ],
+			[ "meditaremos" ],
+			[ "meditaréis", "meditarán" ],
+			[ "meditarán" ]
+		],
+		"8" : [
+			[ "medite" ],
+			[ "medites" ],
+			[ "medite" ],
+			[ "meditemos" ],
+			[ "meditéis", "mediten" ],
+			[ "mediten" ]
+		],
+		"9" : [
+			[ "meditara" ],
+			[ "meditaras" ],
+			[ "meditara" ],
+			[ "meditáramos" ],
+			[ "meditarais", "meditaran" ],
+			[ "meditaran" ]
+		],
+		"10" : [
+			[ "meditase" ],
+			[ "meditases" ],
+			[ "meditase" ],
+			[ "meditásemos" ],
+			[ "meditaseis", "meditasen" ],
+			[ "meditasen" ]
+		],
+		"11" : [
+			[ "meditare" ],
+			[ "meditares" ],
+			[ "meditare" ],
+			[ "meditáremos" ],
+			[ "meditareis", "meditaren" ],
+			[ "meditaren" ]
+		],
+		"12" : {
+			"1" : [ "medita" ],
+			"2" : [ "medite" ],
+			"3" : [ "meditemos" ],
+			"4" : [ "meditad" ],
+			"5" : [ "mediten" ]
+		}
+	}
+}

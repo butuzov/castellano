@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bucear",
+	"word" : "bucear",
+	"infinitivo" : "bucear",
+	"participio" : [ "buceado" ],
+	"gerundio" : [ "buceando" ],
+	"tenses" : {
+		"3" : [
+			[ "buceo" ],
+			[ "buceas", "buceás" ],
+			[ "bucea" ],
+			[ "buceamos" ],
+			[ "buceáis", "bucean" ],
+			[ "bucean" ]
+		],
+		"4" : [
+			[ "buceé" ],
+			[ "buceaste" ],
+			[ "buceó" ],
+			[ "buceamos" ],
+			[ "buceasteis", "bucearon" ],
+			[ "bucearon" ]
+		],
+		"5" : [
+			[ "buceaba" ],
+			[ "buceabas" ],
+			[ "buceaba" ],
+			[ "buceábamos" ],
+			[ "buceabais", "buceaban" ],
+			[ "buceaban" ]
+		],
+		"6" : [
+			[ "bucearía" ],
+			[ "bucearías" ],
+			[ "bucearía" ],
+			[ "bucearíamos" ],
+			[ "bucearíais", "bucearían" ],
+			[ "bucearían" ]
+		],
+		"7" : [
+			[ "bucearé" ],
+			[ "bucearás" ],
+			[ "buceará" ],
+			[ "bucearemos" ],
+			[ "bucearéis", "bucearán" ],
+			[ "bucearán" ]
+		],
+		"8" : [
+			[ "bucee" ],
+			[ "bucees" ],
+			[ "bucee" ],
+			[ "buceemos" ],
+			[ "buceéis", "buceen" ],
+			[ "buceen" ]
+		],
+		"9" : [
+			[ "buceara" ],
+			[ "bucearas" ],
+			[ "buceara" ],
+			[ "buceáramos" ],
+			[ "bucearais", "bucearan" ],
+			[ "bucearan" ]
+		],
+		"10" : [
+			[ "bucease" ],
+			[ "buceases" ],
+			[ "bucease" ],
+			[ "buceásemos" ],
+			[ "buceaseis", "buceasen" ],
+			[ "buceasen" ]
+		],
+		"11" : [
+			[ "buceare" ],
+			[ "buceares" ],
+			[ "buceare" ],
+			[ "buceáremos" ],
+			[ "buceareis", "bucearen" ],
+			[ "bucearen" ]
+		],
+		"12" : {
+			"1" : [ "bucea" ],
+			"2" : [ "bucee" ],
+			"3" : [ "buceemos" ],
+			"4" : [ "bucead" ],
+			"5" : [ "buceen" ]
+		}
+	}
+}

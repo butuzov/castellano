@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=extrañar",
+	"word" : "extrañar",
+	"infinitivo" : "extrañar",
+	"participio" : [ "extrañado" ],
+	"gerundio" : [ "extrañando" ],
+	"tenses" : {
+		"3" : [
+			[ "extraño" ],
+			[ "extrañas", "extrañás" ],
+			[ "extraña" ],
+			[ "extrañamos" ],
+			[ "extrañáis", "extrañan" ],
+			[ "extrañan" ]
+		],
+		"4" : [
+			[ "extrañé" ],
+			[ "extrañaste" ],
+			[ "extrañó" ],
+			[ "extrañamos" ],
+			[ "extrañasteis", "extrañaron" ],
+			[ "extrañaron" ]
+		],
+		"5" : [
+			[ "extrañaba" ],
+			[ "extrañabas" ],
+			[ "extrañaba" ],
+			[ "extrañábamos" ],
+			[ "extrañabais", "extrañaban" ],
+			[ "extrañaban" ]
+		],
+		"6" : [
+			[ "extrañaría" ],
+			[ "extrañarías" ],
+			[ "extrañaría" ],
+			[ "extrañaríamos" ],
+			[ "extrañaríais", "extrañarían" ],
+			[ "extrañarían" ]
+		],
+		"7" : [
+			[ "extrañaré" ],
+			[ "extrañarás" ],
+			[ "extrañará" ],
+			[ "extrañaremos" ],
+			[ "extrañaréis", "extrañarán" ],
+			[ "extrañarán" ]
+		],
+		"8" : [
+			[ "extrañe" ],
+			[ "extrañes" ],
+			[ "extrañe" ],
+			[ "extrañemos" ],
+			[ "extrañéis", "extrañen" ],
+			[ "extrañen" ]
+		],
+		"9" : [
+			[ "extrañara" ],
+			[ "extrañaras" ],
+			[ "extrañara" ],
+			[ "extrañáramos" ],
+			[ "extrañarais", "extrañaran" ],
+			[ "extrañaran" ]
+		],
+		"10" : [
+			[ "extrañase" ],
+			[ "extrañases" ],
+			[ "extrañase" ],
+			[ "extrañásemos" ],
+			[ "extrañaseis", "extrañasen" ],
+			[ "extrañasen" ]
+		],
+		"11" : [
+			[ "extrañare" ],
+			[ "extrañares" ],
+			[ "extrañare" ],
+			[ "extrañáremos" ],
+			[ "extrañareis", "extrañaren" ],
+			[ "extrañaren" ]
+		],
+		"12" : {
+			"1" : [ "extraña" ],
+			"2" : [ "extrañe" ],
+			"3" : [ "extrañemos" ],
+			"4" : [ "extrañad" ],
+			"5" : [ "extrañen" ]
+		}
+	}
+}

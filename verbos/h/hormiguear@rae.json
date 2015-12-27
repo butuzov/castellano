@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=hormiguear",
+	"word" : "hormiguear",
+	"infinitivo" : "hormiguear",
+	"participio" : [ "hormigueado" ],
+	"gerundio" : [ "hormigueando" ],
+	"tenses" : {
+		"3" : [
+			[ "hormigueo" ],
+			[ "hormigueas", "hormigueás" ],
+			[ "hormiguea" ],
+			[ "hormigueamos" ],
+			[ "hormigueáis", "hormiguean" ],
+			[ "hormiguean" ]
+		],
+		"4" : [
+			[ "hormigueé" ],
+			[ "hormigueaste" ],
+			[ "hormigueó" ],
+			[ "hormigueamos" ],
+			[ "hormigueasteis", "hormiguearon" ],
+			[ "hormiguearon" ]
+		],
+		"5" : [
+			[ "hormigueaba" ],
+			[ "hormigueabas" ],
+			[ "hormigueaba" ],
+			[ "hormigueábamos" ],
+			[ "hormigueabais", "hormigueaban" ],
+			[ "hormigueaban" ]
+		],
+		"6" : [
+			[ "hormiguearía" ],
+			[ "hormiguearías" ],
+			[ "hormiguearía" ],
+			[ "hormiguearíamos" ],
+			[ "hormiguearíais", "hormiguearían" ],
+			[ "hormiguearían" ]
+		],
+		"7" : [
+			[ "hormiguearé" ],
+			[ "hormiguearás" ],
+			[ "hormigueará" ],
+			[ "hormiguearemos" ],
+			[ "hormiguearéis", "hormiguearán" ],
+			[ "hormiguearán" ]
+		],
+		"8" : [
+			[ "hormiguee" ],
+			[ "hormiguees" ],
+			[ "hormiguee" ],
+			[ "hormigueemos" ],
+			[ "hormigueéis", "hormigueen" ],
+			[ "hormigueen" ]
+		],
+		"9" : [
+			[ "hormigueara" ],
+			[ "hormiguearas" ],
+			[ "hormigueara" ],
+			[ "hormigueáramos" ],
+			[ "hormiguearais", "hormiguearan" ],
+			[ "hormiguearan" ]
+		],
+		"10" : [
+			[ "hormiguease" ],
+			[ "hormigueases" ],
+			[ "hormiguease" ],
+			[ "hormigueásemos" ],
+			[ "hormigueaseis", "hormigueasen" ],
+			[ "hormigueasen" ]
+		],
+		"11" : [
+			[ "hormigueare" ],
+			[ "hormigueares" ],
+			[ "hormigueare" ],
+			[ "hormigueáremos" ],
+			[ "hormigueareis", "hormiguearen" ],
+			[ "hormiguearen" ]
+		],
+		"12" : {
+			"1" : [ "hormiguea" ],
+			"2" : [ "hormiguee" ],
+			"3" : [ "hormigueemos" ],
+			"4" : [ "hormiguead" ],
+			"5" : [ "hormigueen" ]
+		}
+	}
+}

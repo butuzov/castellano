@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=evidenciar",
+	"word" : "evidenciar",
+	"infinitivo" : "evidenciar",
+	"participio" : [ "evidenciado" ],
+	"gerundio" : [ "evidenciando" ],
+	"tenses" : {
+		"3" : [
+			[ "evidencio" ],
+			[ "evidencias", "evidenciás" ],
+			[ "evidencia" ],
+			[ "evidenciamos" ],
+			[ "evidenciáis", "evidencian" ],
+			[ "evidencian" ]
+		],
+		"4" : [
+			[ "evidencié" ],
+			[ "evidenciaste" ],
+			[ "evidenció" ],
+			[ "evidenciamos" ],
+			[ "evidenciasteis", "evidenciaron" ],
+			[ "evidenciaron" ]
+		],
+		"5" : [
+			[ "evidenciaba" ],
+			[ "evidenciabas" ],
+			[ "evidenciaba" ],
+			[ "evidenciábamos" ],
+			[ "evidenciabais", "evidenciaban" ],
+			[ "evidenciaban" ]
+		],
+		"6" : [
+			[ "evidenciaría" ],
+			[ "evidenciarías" ],
+			[ "evidenciaría" ],
+			[ "evidenciaríamos" ],
+			[ "evidenciaríais", "evidenciarían" ],
+			[ "evidenciarían" ]
+		],
+		"7" : [
+			[ "evidenciaré" ],
+			[ "evidenciarás" ],
+			[ "evidenciará" ],
+			[ "evidenciaremos" ],
+			[ "evidenciaréis", "evidenciarán" ],
+			[ "evidenciarán" ]
+		],
+		"8" : [
+			[ "evidencie" ],
+			[ "evidencies" ],
+			[ "evidencie" ],
+			[ "evidenciemos" ],
+			[ "evidenciéis", "evidencien" ],
+			[ "evidencien" ]
+		],
+		"9" : [
+			[ "evidenciara" ],
+			[ "evidenciaras" ],
+			[ "evidenciara" ],
+			[ "evidenciáramos" ],
+			[ "evidenciarais", "evidenciaran" ],
+			[ "evidenciaran" ]
+		],
+		"10" : [
+			[ "evidenciase" ],
+			[ "evidenciases" ],
+			[ "evidenciase" ],
+			[ "evidenciásemos" ],
+			[ "evidenciaseis", "evidenciasen" ],
+			[ "evidenciasen" ]
+		],
+		"11" : [
+			[ "evidenciare" ],
+			[ "evidenciares" ],
+			[ "evidenciare" ],
+			[ "evidenciáremos" ],
+			[ "evidenciareis", "evidenciaren" ],
+			[ "evidenciaren" ]
+		],
+		"12" : {
+			"1" : [ "evidencia" ],
+			"2" : [ "evidencie" ],
+			"3" : [ "evidenciemos" ],
+			"4" : [ "evidenciad" ],
+			"5" : [ "evidencien" ]
+		}
+	}
+}

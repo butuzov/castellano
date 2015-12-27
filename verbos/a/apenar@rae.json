@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apenar",
+	"word" : "apenar",
+	"infinitivo" : "apenar",
+	"participio" : [ "apenado" ],
+	"gerundio" : [ "apenando" ],
+	"tenses" : {
+		"3" : [
+			[ "apeno" ],
+			[ "apenas", "apenás" ],
+			[ "apena" ],
+			[ "apenamos" ],
+			[ "apenáis", "apenan" ],
+			[ "apenan" ]
+		],
+		"4" : [
+			[ "apené" ],
+			[ "apenaste" ],
+			[ "apenó" ],
+			[ "apenamos" ],
+			[ "apenasteis", "apenaron" ],
+			[ "apenaron" ]
+		],
+		"5" : [
+			[ "apenaba" ],
+			[ "apenabas" ],
+			[ "apenaba" ],
+			[ "apenábamos" ],
+			[ "apenabais", "apenaban" ],
+			[ "apenaban" ]
+		],
+		"6" : [
+			[ "apenaría" ],
+			[ "apenarías" ],
+			[ "apenaría" ],
+			[ "apenaríamos" ],
+			[ "apenaríais", "apenarían" ],
+			[ "apenarían" ]
+		],
+		"7" : [
+			[ "apenaré" ],
+			[ "apenarás" ],
+			[ "apenará" ],
+			[ "apenaremos" ],
+			[ "apenaréis", "apenarán" ],
+			[ "apenarán" ]
+		],
+		"8" : [
+			[ "apene" ],
+			[ "apenes" ],
+			[ "apene" ],
+			[ "apenemos" ],
+			[ "apenéis", "apenen" ],
+			[ "apenen" ]
+		],
+		"9" : [
+			[ "apenara" ],
+			[ "apenaras" ],
+			[ "apenara" ],
+			[ "apenáramos" ],
+			[ "apenarais", "apenaran" ],
+			[ "apenaran" ]
+		],
+		"10" : [
+			[ "apenase" ],
+			[ "apenases" ],
+			[ "apenase" ],
+			[ "apenásemos" ],
+			[ "apenaseis", "apenasen" ],
+			[ "apenasen" ]
+		],
+		"11" : [
+			[ "apenare" ],
+			[ "apenares" ],
+			[ "apenare" ],
+			[ "apenáremos" ],
+			[ "apenareis", "apenaren" ],
+			[ "apenaren" ]
+		],
+		"12" : {
+			"1" : [ "apena" ],
+			"2" : [ "apene" ],
+			"3" : [ "apenemos" ],
+			"4" : [ "apenad" ],
+			"5" : [ "apenen" ]
+		}
+	}
+}

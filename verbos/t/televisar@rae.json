@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=televisar",
+	"word" : "televisar",
+	"infinitivo" : "televisar",
+	"participio" : [ "televisado" ],
+	"gerundio" : [ "televisando" ],
+	"tenses" : {
+		"3" : [
+			[ "televiso" ],
+			[ "televisas", "televisás" ],
+			[ "televisa" ],
+			[ "televisamos" ],
+			[ "televisáis", "televisan" ],
+			[ "televisan" ]
+		],
+		"4" : [
+			[ "televisé" ],
+			[ "televisaste" ],
+			[ "televisó" ],
+			[ "televisamos" ],
+			[ "televisasteis", "televisaron" ],
+			[ "televisaron" ]
+		],
+		"5" : [
+			[ "televisaba" ],
+			[ "televisabas" ],
+			[ "televisaba" ],
+			[ "televisábamos" ],
+			[ "televisabais", "televisaban" ],
+			[ "televisaban" ]
+		],
+		"6" : [
+			[ "televisaría" ],
+			[ "televisarías" ],
+			[ "televisaría" ],
+			[ "televisaríamos" ],
+			[ "televisaríais", "televisarían" ],
+			[ "televisarían" ]
+		],
+		"7" : [
+			[ "televisaré" ],
+			[ "televisarás" ],
+			[ "televisará" ],
+			[ "televisaremos" ],
+			[ "televisaréis", "televisarán" ],
+			[ "televisarán" ]
+		],
+		"8" : [
+			[ "televise" ],
+			[ "televises" ],
+			[ "televise" ],
+			[ "televisemos" ],
+			[ "televiséis", "televisen" ],
+			[ "televisen" ]
+		],
+		"9" : [
+			[ "televisara" ],
+			[ "televisaras" ],
+			[ "televisara" ],
+			[ "televisáramos" ],
+			[ "televisarais", "televisaran" ],
+			[ "televisaran" ]
+		],
+		"10" : [
+			[ "televisase" ],
+			[ "televisases" ],
+			[ "televisase" ],
+			[ "televisásemos" ],
+			[ "televisaseis", "televisasen" ],
+			[ "televisasen" ]
+		],
+		"11" : [
+			[ "televisare" ],
+			[ "televisares" ],
+			[ "televisare" ],
+			[ "televisáremos" ],
+			[ "televisareis", "televisaren" ],
+			[ "televisaren" ]
+		],
+		"12" : {
+			"1" : [ "televisa" ],
+			"2" : [ "televise" ],
+			"3" : [ "televisemos" ],
+			"4" : [ "televisad" ],
+			"5" : [ "televisen" ]
+		}
+	}
+}

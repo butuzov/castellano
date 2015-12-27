@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cumplir",
+	"word" : "cumplir",
+	"infinitivo" : "cumplir",
+	"participio" : [ "cumplido" ],
+	"gerundio" : [ "cumpliendo" ],
+	"tenses" : {
+		"3" : [
+			[ "cumplo" ],
+			[ "cumples", "cumplís" ],
+			[ "cumple" ],
+			[ "cumplimos" ],
+			[ "cumplís", "cumplen" ],
+			[ "cumplen" ]
+		],
+		"4" : [
+			[ "cumplí" ],
+			[ "cumpliste" ],
+			[ "cumplió" ],
+			[ "cumplimos" ],
+			[ "cumplisteis", "cumplieron" ],
+			[ "cumplieron" ]
+		],
+		"5" : [
+			[ "cumplía" ],
+			[ "cumplías" ],
+			[ "cumplía" ],
+			[ "cumplíamos" ],
+			[ "cumplíais", "cumplían" ],
+			[ "cumplían" ]
+		],
+		"6" : [
+			[ "cumpliría" ],
+			[ "cumplirías" ],
+			[ "cumpliría" ],
+			[ "cumpliríamos" ],
+			[ "cumpliríais", "cumplirían" ],
+			[ "cumplirían" ]
+		],
+		"7" : [
+			[ "cumpliré" ],
+			[ "cumplirás" ],
+			[ "cumplirá" ],
+			[ "cumpliremos" ],
+			[ "cumpliréis", "cumplirán" ],
+			[ "cumplirán" ]
+		],
+		"8" : [
+			[ "cumpla" ],
+			[ "cumplas" ],
+			[ "cumpla" ],
+			[ "cumplamos" ],
+			[ "cumpláis", "cumplan" ],
+			[ "cumplan" ]
+		],
+		"9" : [
+			[ "cumpliera" ],
+			[ "cumplieras" ],
+			[ "cumpliera" ],
+			[ "cumpliéramos" ],
+			[ "cumplierais", "cumplieran" ],
+			[ "cumplieran" ]
+		],
+		"10" : [
+			[ "cumpliese" ],
+			[ "cumplieses" ],
+			[ "cumpliese" ],
+			[ "cumpliésemos" ],
+			[ "cumplieseis", "cumpliesen" ],
+			[ "cumpliesen" ]
+		],
+		"11" : [
+			[ "cumpliere" ],
+			[ "cumplieres" ],
+			[ "cumpliere" ],
+			[ "cumpliéremos" ],
+			[ "cumpliereis", "cumplieren" ],
+			[ "cumplieren" ]
+		],
+		"12" : {
+			"1" : [ "cumple" ],
+			"2" : [ "cumpla" ],
+			"3" : [ "cumplamos" ],
+			"4" : [ "cumplid" ],
+			"5" : [ "cumplan" ]
+		}
+	}
+}

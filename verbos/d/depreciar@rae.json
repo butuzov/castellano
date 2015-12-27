@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=depreciar",
+	"word" : "depreciar",
+	"infinitivo" : "depreciar",
+	"participio" : [ "depreciado" ],
+	"gerundio" : [ "depreciando" ],
+	"tenses" : {
+		"3" : [
+			[ "deprecio" ],
+			[ "deprecias", "depreciás" ],
+			[ "deprecia" ],
+			[ "depreciamos" ],
+			[ "depreciáis", "deprecian" ],
+			[ "deprecian" ]
+		],
+		"4" : [
+			[ "deprecié" ],
+			[ "depreciaste" ],
+			[ "depreció" ],
+			[ "depreciamos" ],
+			[ "depreciasteis", "depreciaron" ],
+			[ "depreciaron" ]
+		],
+		"5" : [
+			[ "depreciaba" ],
+			[ "depreciabas" ],
+			[ "depreciaba" ],
+			[ "depreciábamos" ],
+			[ "depreciabais", "depreciaban" ],
+			[ "depreciaban" ]
+		],
+		"6" : [
+			[ "depreciaría" ],
+			[ "depreciarías" ],
+			[ "depreciaría" ],
+			[ "depreciaríamos" ],
+			[ "depreciaríais", "depreciarían" ],
+			[ "depreciarían" ]
+		],
+		"7" : [
+			[ "depreciaré" ],
+			[ "depreciarás" ],
+			[ "depreciará" ],
+			[ "depreciaremos" ],
+			[ "depreciaréis", "depreciarán" ],
+			[ "depreciarán" ]
+		],
+		"8" : [
+			[ "deprecie" ],
+			[ "deprecies" ],
+			[ "deprecie" ],
+			[ "depreciemos" ],
+			[ "depreciéis", "deprecien" ],
+			[ "deprecien" ]
+		],
+		"9" : [
+			[ "depreciara" ],
+			[ "depreciaras" ],
+			[ "depreciara" ],
+			[ "depreciáramos" ],
+			[ "depreciarais", "depreciaran" ],
+			[ "depreciaran" ]
+		],
+		"10" : [
+			[ "depreciase" ],
+			[ "depreciases" ],
+			[ "depreciase" ],
+			[ "depreciásemos" ],
+			[ "depreciaseis", "depreciasen" ],
+			[ "depreciasen" ]
+		],
+		"11" : [
+			[ "depreciare" ],
+			[ "depreciares" ],
+			[ "depreciare" ],
+			[ "depreciáremos" ],
+			[ "depreciareis", "depreciaren" ],
+			[ "depreciaren" ]
+		],
+		"12" : {
+			"1" : [ "deprecia" ],
+			"2" : [ "deprecie" ],
+			"3" : [ "depreciemos" ],
+			"4" : [ "depreciad" ],
+			"5" : [ "deprecien" ]
+		}
+	}
+}

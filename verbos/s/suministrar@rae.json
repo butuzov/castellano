@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=suministrar",
+	"word" : "suministrar",
+	"infinitivo" : "suministrar",
+	"participio" : [ "suministrado" ],
+	"gerundio" : [ "suministrando" ],
+	"tenses" : {
+		"3" : [
+			[ "suministro" ],
+			[ "suministras", "suministrás" ],
+			[ "suministra" ],
+			[ "suministramos" ],
+			[ "suministráis", "suministran" ],
+			[ "suministran" ]
+		],
+		"4" : [
+			[ "suministré" ],
+			[ "suministraste" ],
+			[ "suministró" ],
+			[ "suministramos" ],
+			[ "suministrasteis", "suministraron" ],
+			[ "suministraron" ]
+		],
+		"5" : [
+			[ "suministraba" ],
+			[ "suministrabas" ],
+			[ "suministraba" ],
+			[ "suministrábamos" ],
+			[ "suministrabais", "suministraban" ],
+			[ "suministraban" ]
+		],
+		"6" : [
+			[ "suministraría" ],
+			[ "suministrarías" ],
+			[ "suministraría" ],
+			[ "suministraríamos" ],
+			[ "suministraríais", "suministrarían" ],
+			[ "suministrarían" ]
+		],
+		"7" : [
+			[ "suministraré" ],
+			[ "suministrarás" ],
+			[ "suministrará" ],
+			[ "suministraremos" ],
+			[ "suministraréis", "suministrarán" ],
+			[ "suministrarán" ]
+		],
+		"8" : [
+			[ "suministre" ],
+			[ "suministres" ],
+			[ "suministre" ],
+			[ "suministremos" ],
+			[ "suministréis", "suministren" ],
+			[ "suministren" ]
+		],
+		"9" : [
+			[ "suministrara" ],
+			[ "suministraras" ],
+			[ "suministrara" ],
+			[ "suministráramos" ],
+			[ "suministrarais", "suministraran" ],
+			[ "suministraran" ]
+		],
+		"10" : [
+			[ "suministrase" ],
+			[ "suministrases" ],
+			[ "suministrase" ],
+			[ "suministrásemos" ],
+			[ "suministraseis", "suministrasen" ],
+			[ "suministrasen" ]
+		],
+		"11" : [
+			[ "suministrare" ],
+			[ "suministrares" ],
+			[ "suministrare" ],
+			[ "suministráremos" ],
+			[ "suministrareis", "suministraren" ],
+			[ "suministraren" ]
+		],
+		"12" : {
+			"1" : [ "suministra" ],
+			"2" : [ "suministre" ],
+			"3" : [ "suministremos" ],
+			"4" : [ "suministrad" ],
+			"5" : [ "suministren" ]
+		}
+	}
+}

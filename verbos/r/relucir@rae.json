@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=relucir",
+	"word" : "relucir",
+	"infinitivo" : "relucir",
+	"participio" : [ "relucido" ],
+	"gerundio" : [ "reluciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "reluzco" ],
+			[ "reluces", "relucís" ],
+			[ "reluce" ],
+			[ "relucimos" ],
+			[ "relucís", "relucen" ],
+			[ "relucen" ]
+		],
+		"4" : [
+			[ "relucí" ],
+			[ "reluciste" ],
+			[ "relució" ],
+			[ "relucimos" ],
+			[ "relucisteis", "relucieron" ],
+			[ "relucieron" ]
+		],
+		"5" : [
+			[ "relucía" ],
+			[ "relucías" ],
+			[ "relucía" ],
+			[ "relucíamos" ],
+			[ "relucíais", "relucían" ],
+			[ "relucían" ]
+		],
+		"6" : [
+			[ "reluciría" ],
+			[ "relucirías" ],
+			[ "reluciría" ],
+			[ "reluciríamos" ],
+			[ "reluciríais", "relucirían" ],
+			[ "relucirían" ]
+		],
+		"7" : [
+			[ "reluciré" ],
+			[ "relucirás" ],
+			[ "relucirá" ],
+			[ "reluciremos" ],
+			[ "reluciréis", "relucirán" ],
+			[ "relucirán" ]
+		],
+		"8" : [
+			[ "reluzca" ],
+			[ "reluzcas" ],
+			[ "reluzca" ],
+			[ "reluzcamos" ],
+			[ "reluzcáis", "reluzcan" ],
+			[ "reluzcan" ]
+		],
+		"9" : [
+			[ "reluciera" ],
+			[ "relucieras" ],
+			[ "reluciera" ],
+			[ "reluciéramos" ],
+			[ "relucierais", "relucieran" ],
+			[ "relucieran" ]
+		],
+		"10" : [
+			[ "reluciese" ],
+			[ "relucieses" ],
+			[ "reluciese" ],
+			[ "reluciésemos" ],
+			[ "relucieseis", "reluciesen" ],
+			[ "reluciesen" ]
+		],
+		"11" : [
+			[ "reluciere" ],
+			[ "relucieres" ],
+			[ "reluciere" ],
+			[ "reluciéremos" ],
+			[ "reluciereis", "relucieren" ],
+			[ "relucieren" ]
+		],
+		"12" : {
+			"1" : [ "reluce" ],
+			"2" : [ "reluzca" ],
+			"3" : [ "reluzcamos" ],
+			"4" : [ "relucid" ],
+			"5" : [ "reluzcan" ]
+		}
+	}
+}

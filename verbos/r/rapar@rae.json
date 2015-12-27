@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rapar",
+	"word" : "rapar",
+	"infinitivo" : "rapar",
+	"participio" : [ "rapado" ],
+	"gerundio" : [ "rapando" ],
+	"tenses" : {
+		"3" : [
+			[ "rapo" ],
+			[ "rapas", "rapás" ],
+			[ "rapa" ],
+			[ "rapamos" ],
+			[ "rapáis", "rapan" ],
+			[ "rapan" ]
+		],
+		"4" : [
+			[ "rapé" ],
+			[ "rapaste" ],
+			[ "rapó" ],
+			[ "rapamos" ],
+			[ "rapasteis", "raparon" ],
+			[ "raparon" ]
+		],
+		"5" : [
+			[ "rapaba" ],
+			[ "rapabas" ],
+			[ "rapaba" ],
+			[ "rapábamos" ],
+			[ "rapabais", "rapaban" ],
+			[ "rapaban" ]
+		],
+		"6" : [
+			[ "raparía" ],
+			[ "raparías" ],
+			[ "raparía" ],
+			[ "raparíamos" ],
+			[ "raparíais", "raparían" ],
+			[ "raparían" ]
+		],
+		"7" : [
+			[ "raparé" ],
+			[ "raparás" ],
+			[ "rapará" ],
+			[ "raparemos" ],
+			[ "raparéis", "raparán" ],
+			[ "raparán" ]
+		],
+		"8" : [
+			[ "rape" ],
+			[ "rapes" ],
+			[ "rape" ],
+			[ "rapemos" ],
+			[ "rapéis", "rapen" ],
+			[ "rapen" ]
+		],
+		"9" : [
+			[ "rapara" ],
+			[ "raparas" ],
+			[ "rapara" ],
+			[ "rapáramos" ],
+			[ "raparais", "raparan" ],
+			[ "raparan" ]
+		],
+		"10" : [
+			[ "rapase" ],
+			[ "rapases" ],
+			[ "rapase" ],
+			[ "rapásemos" ],
+			[ "rapaseis", "rapasen" ],
+			[ "rapasen" ]
+		],
+		"11" : [
+			[ "rapare" ],
+			[ "rapares" ],
+			[ "rapare" ],
+			[ "rapáremos" ],
+			[ "rapareis", "raparen" ],
+			[ "raparen" ]
+		],
+		"12" : {
+			"1" : [ "rapa" ],
+			"2" : [ "rape" ],
+			"3" : [ "rapemos" ],
+			"4" : [ "rapad" ],
+			"5" : [ "rapen" ]
+		}
+	}
+}

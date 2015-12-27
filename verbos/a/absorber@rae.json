@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=absorber",
+	"word" : "absorber",
+	"infinitivo" : "absorber",
+	"participio" : [ "absorbido" ],
+	"gerundio" : [ "absorbiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "absorbo" ],
+			[ "absorbes", "absorbés" ],
+			[ "absorbe" ],
+			[ "absorbemos" ],
+			[ "absorbéis", "absorben" ],
+			[ "absorben" ]
+		],
+		"4" : [
+			[ "absorbí" ],
+			[ "absorbiste" ],
+			[ "absorbió" ],
+			[ "absorbimos" ],
+			[ "absorbisteis", "absorbieron" ],
+			[ "absorbieron" ]
+		],
+		"5" : [
+			[ "absorbía" ],
+			[ "absorbías" ],
+			[ "absorbía" ],
+			[ "absorbíamos" ],
+			[ "absorbíais", "absorbían" ],
+			[ "absorbían" ]
+		],
+		"6" : [
+			[ "absorbería" ],
+			[ "absorberías" ],
+			[ "absorbería" ],
+			[ "absorberíamos" ],
+			[ "absorberíais", "absorberían" ],
+			[ "absorberían" ]
+		],
+		"7" : [
+			[ "absorberé" ],
+			[ "absorberás" ],
+			[ "absorberá" ],
+			[ "absorberemos" ],
+			[ "absorberéis", "absorberán" ],
+			[ "absorberán" ]
+		],
+		"8" : [
+			[ "absorba" ],
+			[ "absorbas" ],
+			[ "absorba" ],
+			[ "absorbamos" ],
+			[ "absorbáis", "absorban" ],
+			[ "absorban" ]
+		],
+		"9" : [
+			[ "absorbiera" ],
+			[ "absorbieras" ],
+			[ "absorbiera" ],
+			[ "absorbiéramos" ],
+			[ "absorbierais", "absorbieran" ],
+			[ "absorbieran" ]
+		],
+		"10" : [
+			[ "absorbiese" ],
+			[ "absorbieses" ],
+			[ "absorbiese" ],
+			[ "absorbiésemos" ],
+			[ "absorbieseis", "absorbiesen" ],
+			[ "absorbiesen" ]
+		],
+		"11" : [
+			[ "absorbiere" ],
+			[ "absorbieres" ],
+			[ "absorbiere" ],
+			[ "absorbiéremos" ],
+			[ "absorbiereis", "absorbieren" ],
+			[ "absorbieren" ]
+		],
+		"12" : {
+			"1" : [ "absorbe" ],
+			"2" : [ "absorba" ],
+			"3" : [ "absorbamos" ],
+			"4" : [ "absorbed" ],
+			"5" : [ "absorban" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aviar",
+	"word" : "aviar",
+	"infinitivo" : "aviar",
+	"participio" : [ "aviado" ],
+	"gerundio" : [ "aviando" ],
+	"tenses" : {
+		"3" : [
+			[ "avío" ],
+			[ "avías", "aviás" ],
+			[ "avía" ],
+			[ "aviamos" ],
+			[ "aviáis", "avían" ],
+			[ "avían" ]
+		],
+		"4" : [
+			[ "avié" ],
+			[ "aviaste" ],
+			[ "avió" ],
+			[ "aviamos" ],
+			[ "aviasteis", "aviaron" ],
+			[ "aviaron" ]
+		],
+		"5" : [
+			[ "aviaba" ],
+			[ "aviabas" ],
+			[ "aviaba" ],
+			[ "aviábamos" ],
+			[ "aviabais", "aviaban" ],
+			[ "aviaban" ]
+		],
+		"6" : [
+			[ "aviaría" ],
+			[ "aviarías" ],
+			[ "aviaría" ],
+			[ "aviaríamos" ],
+			[ "aviaríais", "aviarían" ],
+			[ "aviarían" ]
+		],
+		"7" : [
+			[ "aviaré" ],
+			[ "aviarás" ],
+			[ "aviará" ],
+			[ "aviaremos" ],
+			[ "aviaréis", "aviarán" ],
+			[ "aviarán" ]
+		],
+		"8" : [
+			[ "avíe" ],
+			[ "avíes" ],
+			[ "avíe" ],
+			[ "aviemos" ],
+			[ "aviéis", "avíen" ],
+			[ "avíen" ]
+		],
+		"9" : [
+			[ "aviara" ],
+			[ "aviaras" ],
+			[ "aviara" ],
+			[ "aviáramos" ],
+			[ "aviarais", "aviaran" ],
+			[ "aviaran" ]
+		],
+		"10" : [
+			[ "aviase" ],
+			[ "aviases" ],
+			[ "aviase" ],
+			[ "aviásemos" ],
+			[ "aviaseis", "aviasen" ],
+			[ "aviasen" ]
+		],
+		"11" : [
+			[ "aviare" ],
+			[ "aviares" ],
+			[ "aviare" ],
+			[ "aviáremos" ],
+			[ "aviareis", "aviaren" ],
+			[ "aviaren" ]
+		],
+		"12" : {
+			"1" : [ "avía" ],
+			"2" : [ "avíe" ],
+			"3" : [ "aviemos" ],
+			"4" : [ "aviad" ],
+			"5" : [ "avíen" ]
+		}
+	}
+}

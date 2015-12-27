@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=presenciar",
+	"word" : "presenciar",
+	"infinitivo" : "presenciar",
+	"participio" : [ "presenciado" ],
+	"gerundio" : [ "presenciando" ],
+	"tenses" : {
+		"3" : [
+			[ "presencio" ],
+			[ "presencias", "presenciás" ],
+			[ "presencia" ],
+			[ "presenciamos" ],
+			[ "presenciáis", "presencian" ],
+			[ "presencian" ]
+		],
+		"4" : [
+			[ "presencié" ],
+			[ "presenciaste" ],
+			[ "presenció" ],
+			[ "presenciamos" ],
+			[ "presenciasteis", "presenciaron" ],
+			[ "presenciaron" ]
+		],
+		"5" : [
+			[ "presenciaba" ],
+			[ "presenciabas" ],
+			[ "presenciaba" ],
+			[ "presenciábamos" ],
+			[ "presenciabais", "presenciaban" ],
+			[ "presenciaban" ]
+		],
+		"6" : [
+			[ "presenciaría" ],
+			[ "presenciarías" ],
+			[ "presenciaría" ],
+			[ "presenciaríamos" ],
+			[ "presenciaríais", "presenciarían" ],
+			[ "presenciarían" ]
+		],
+		"7" : [
+			[ "presenciaré" ],
+			[ "presenciarás" ],
+			[ "presenciará" ],
+			[ "presenciaremos" ],
+			[ "presenciaréis", "presenciarán" ],
+			[ "presenciarán" ]
+		],
+		"8" : [
+			[ "presencie" ],
+			[ "presencies" ],
+			[ "presencie" ],
+			[ "presenciemos" ],
+			[ "presenciéis", "presencien" ],
+			[ "presencien" ]
+		],
+		"9" : [
+			[ "presenciara" ],
+			[ "presenciaras" ],
+			[ "presenciara" ],
+			[ "presenciáramos" ],
+			[ "presenciarais", "presenciaran" ],
+			[ "presenciaran" ]
+		],
+		"10" : [
+			[ "presenciase" ],
+			[ "presenciases" ],
+			[ "presenciase" ],
+			[ "presenciásemos" ],
+			[ "presenciaseis", "presenciasen" ],
+			[ "presenciasen" ]
+		],
+		"11" : [
+			[ "presenciare" ],
+			[ "presenciares" ],
+			[ "presenciare" ],
+			[ "presenciáremos" ],
+			[ "presenciareis", "presenciaren" ],
+			[ "presenciaren" ]
+		],
+		"12" : {
+			"1" : [ "presencia" ],
+			"2" : [ "presencie" ],
+			"3" : [ "presenciemos" ],
+			"4" : [ "presenciad" ],
+			"5" : [ "presencien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=envarar",
+	"word" : "envarar",
+	"infinitivo" : "envarar",
+	"participio" : [ "envarado" ],
+	"gerundio" : [ "envarando" ],
+	"tenses" : {
+		"3" : [
+			[ "envaro" ],
+			[ "envaras", "envarás" ],
+			[ "envara" ],
+			[ "envaramos" ],
+			[ "envaráis", "envaran" ],
+			[ "envaran" ]
+		],
+		"4" : [
+			[ "envaré" ],
+			[ "envaraste" ],
+			[ "envaró" ],
+			[ "envaramos" ],
+			[ "envarasteis", "envararon" ],
+			[ "envararon" ]
+		],
+		"5" : [
+			[ "envaraba" ],
+			[ "envarabas" ],
+			[ "envaraba" ],
+			[ "envarábamos" ],
+			[ "envarabais", "envaraban" ],
+			[ "envaraban" ]
+		],
+		"6" : [
+			[ "envararía" ],
+			[ "envararías" ],
+			[ "envararía" ],
+			[ "envararíamos" ],
+			[ "envararíais", "envararían" ],
+			[ "envararían" ]
+		],
+		"7" : [
+			[ "envararé" ],
+			[ "envararás" ],
+			[ "envarará" ],
+			[ "envararemos" ],
+			[ "envararéis", "envararán" ],
+			[ "envararán" ]
+		],
+		"8" : [
+			[ "envare" ],
+			[ "envares" ],
+			[ "envare" ],
+			[ "envaremos" ],
+			[ "envaréis", "envaren" ],
+			[ "envaren" ]
+		],
+		"9" : [
+			[ "envarara" ],
+			[ "envararas" ],
+			[ "envarara" ],
+			[ "envaráramos" ],
+			[ "envararais", "envararan" ],
+			[ "envararan" ]
+		],
+		"10" : [
+			[ "envarase" ],
+			[ "envarases" ],
+			[ "envarase" ],
+			[ "envarásemos" ],
+			[ "envaraseis", "envarasen" ],
+			[ "envarasen" ]
+		],
+		"11" : [
+			[ "envarare" ],
+			[ "envarares" ],
+			[ "envarare" ],
+			[ "envaráremos" ],
+			[ "envarareis", "envararen" ],
+			[ "envararen" ]
+		],
+		"12" : {
+			"1" : [ "envara" ],
+			"2" : [ "envare" ],
+			"3" : [ "envaremos" ],
+			"4" : [ "envarad" ],
+			"5" : [ "envaren" ]
+		}
+	}
+}

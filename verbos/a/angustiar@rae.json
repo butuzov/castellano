@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=angustiar",
+	"word" : "angustiar",
+	"infinitivo" : "angustiar",
+	"participio" : [ "angustiado" ],
+	"gerundio" : [ "angustiando" ],
+	"tenses" : {
+		"3" : [
+			[ "angustio" ],
+			[ "angustias", "angustiás" ],
+			[ "angustia" ],
+			[ "angustiamos" ],
+			[ "angustiáis", "angustian" ],
+			[ "angustian" ]
+		],
+		"4" : [
+			[ "angustié" ],
+			[ "angustiaste" ],
+			[ "angustió" ],
+			[ "angustiamos" ],
+			[ "angustiasteis", "angustiaron" ],
+			[ "angustiaron" ]
+		],
+		"5" : [
+			[ "angustiaba" ],
+			[ "angustiabas" ],
+			[ "angustiaba" ],
+			[ "angustiábamos" ],
+			[ "angustiabais", "angustiaban" ],
+			[ "angustiaban" ]
+		],
+		"6" : [
+			[ "angustiaría" ],
+			[ "angustiarías" ],
+			[ "angustiaría" ],
+			[ "angustiaríamos" ],
+			[ "angustiaríais", "angustiarían" ],
+			[ "angustiarían" ]
+		],
+		"7" : [
+			[ "angustiaré" ],
+			[ "angustiarás" ],
+			[ "angustiará" ],
+			[ "angustiaremos" ],
+			[ "angustiaréis", "angustiarán" ],
+			[ "angustiarán" ]
+		],
+		"8" : [
+			[ "angustie" ],
+			[ "angusties" ],
+			[ "angustie" ],
+			[ "angustiemos" ],
+			[ "angustiéis", "angustien" ],
+			[ "angustien" ]
+		],
+		"9" : [
+			[ "angustiara" ],
+			[ "angustiaras" ],
+			[ "angustiara" ],
+			[ "angustiáramos" ],
+			[ "angustiarais", "angustiaran" ],
+			[ "angustiaran" ]
+		],
+		"10" : [
+			[ "angustiase" ],
+			[ "angustiases" ],
+			[ "angustiase" ],
+			[ "angustiásemos" ],
+			[ "angustiaseis", "angustiasen" ],
+			[ "angustiasen" ]
+		],
+		"11" : [
+			[ "angustiare" ],
+			[ "angustiares" ],
+			[ "angustiare" ],
+			[ "angustiáremos" ],
+			[ "angustiareis", "angustiaren" ],
+			[ "angustiaren" ]
+		],
+		"12" : {
+			"1" : [ "angustia" ],
+			"2" : [ "angustie" ],
+			"3" : [ "angustiemos" ],
+			"4" : [ "angustiad" ],
+			"5" : [ "angustien" ]
+		}
+	}
+}

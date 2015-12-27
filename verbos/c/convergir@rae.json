@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=convergir",
+	"word" : "convergir",
+	"infinitivo" : "convergir",
+	"participio" : [ "convergido" ],
+	"gerundio" : [ "convergiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "converjo" ],
+			[ "converges", "convergís" ],
+			[ "converge" ],
+			[ "convergimos" ],
+			[ "convergís", "convergen" ],
+			[ "convergen" ]
+		],
+		"4" : [
+			[ "convergí" ],
+			[ "convergiste" ],
+			[ "convergió" ],
+			[ "convergimos" ],
+			[ "convergisteis", "convergieron" ],
+			[ "convergieron" ]
+		],
+		"5" : [
+			[ "convergía" ],
+			[ "convergías" ],
+			[ "convergía" ],
+			[ "convergíamos" ],
+			[ "convergíais", "convergían" ],
+			[ "convergían" ]
+		],
+		"6" : [
+			[ "convergiría" ],
+			[ "convergirías" ],
+			[ "convergiría" ],
+			[ "convergiríamos" ],
+			[ "convergiríais", "convergirían" ],
+			[ "convergirían" ]
+		],
+		"7" : [
+			[ "convergiré" ],
+			[ "convergirás" ],
+			[ "convergirá" ],
+			[ "convergiremos" ],
+			[ "convergiréis", "convergirán" ],
+			[ "convergirán" ]
+		],
+		"8" : [
+			[ "converja" ],
+			[ "converjas" ],
+			[ "converja" ],
+			[ "converjamos" ],
+			[ "converjáis", "converjan" ],
+			[ "converjan" ]
+		],
+		"9" : [
+			[ "convergiera" ],
+			[ "convergieras" ],
+			[ "convergiera" ],
+			[ "convergiéramos" ],
+			[ "convergierais", "convergieran" ],
+			[ "convergieran" ]
+		],
+		"10" : [
+			[ "convergiese" ],
+			[ "convergieses" ],
+			[ "convergiese" ],
+			[ "convergiésemos" ],
+			[ "convergieseis", "convergiesen" ],
+			[ "convergiesen" ]
+		],
+		"11" : [
+			[ "convergiere" ],
+			[ "convergieres" ],
+			[ "convergiere" ],
+			[ "convergiéremos" ],
+			[ "convergiereis", "convergieren" ],
+			[ "convergieren" ]
+		],
+		"12" : {
+			"1" : [ "converge" ],
+			"2" : [ "converja" ],
+			"3" : [ "converjamos" ],
+			"4" : [ "convergid" ],
+			"5" : [ "converjan" ]
+		}
+	}
+}

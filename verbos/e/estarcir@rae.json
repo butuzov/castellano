@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estarcir",
+	"word" : "estarcir",
+	"infinitivo" : "estarcir",
+	"participio" : [ "estarcido" ],
+	"gerundio" : [ "estarciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "estarzo" ],
+			[ "estarces", "estarcís" ],
+			[ "estarce" ],
+			[ "estarcimos" ],
+			[ "estarcís", "estarcen" ],
+			[ "estarcen" ]
+		],
+		"4" : [
+			[ "estarcí" ],
+			[ "estarciste" ],
+			[ "estarció" ],
+			[ "estarcimos" ],
+			[ "estarcisteis", "estarcieron" ],
+			[ "estarcieron" ]
+		],
+		"5" : [
+			[ "estarcía" ],
+			[ "estarcías" ],
+			[ "estarcía" ],
+			[ "estarcíamos" ],
+			[ "estarcíais", "estarcían" ],
+			[ "estarcían" ]
+		],
+		"6" : [
+			[ "estarciría" ],
+			[ "estarcirías" ],
+			[ "estarciría" ],
+			[ "estarciríamos" ],
+			[ "estarciríais", "estarcirían" ],
+			[ "estarcirían" ]
+		],
+		"7" : [
+			[ "estarciré" ],
+			[ "estarcirás" ],
+			[ "estarcirá" ],
+			[ "estarciremos" ],
+			[ "estarciréis", "estarcirán" ],
+			[ "estarcirán" ]
+		],
+		"8" : [
+			[ "estarza" ],
+			[ "estarzas" ],
+			[ "estarza" ],
+			[ "estarzamos" ],
+			[ "estarzáis", "estarzan" ],
+			[ "estarzan" ]
+		],
+		"9" : [
+			[ "estarciera" ],
+			[ "estarcieras" ],
+			[ "estarciera" ],
+			[ "estarciéramos" ],
+			[ "estarcierais", "estarcieran" ],
+			[ "estarcieran" ]
+		],
+		"10" : [
+			[ "estarciese" ],
+			[ "estarcieses" ],
+			[ "estarciese" ],
+			[ "estarciésemos" ],
+			[ "estarcieseis", "estarciesen" ],
+			[ "estarciesen" ]
+		],
+		"11" : [
+			[ "estarciere" ],
+			[ "estarcieres" ],
+			[ "estarciere" ],
+			[ "estarciéremos" ],
+			[ "estarciereis", "estarcieren" ],
+			[ "estarcieren" ]
+		],
+		"12" : {
+			"1" : [ "estarce" ],
+			"2" : [ "estarza" ],
+			"3" : [ "estarzamos" ],
+			"4" : [ "estarcid" ],
+			"5" : [ "estarzan" ]
+		}
+	}
+}

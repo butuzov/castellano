@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=extraviar",
+	"word" : "extraviar",
+	"infinitivo" : "extraviar",
+	"participio" : [ "extraviado" ],
+	"gerundio" : [ "extraviando" ],
+	"tenses" : {
+		"3" : [
+			[ "extravío" ],
+			[ "extravías", "extraviás" ],
+			[ "extravía" ],
+			[ "extraviamos" ],
+			[ "extraviáis", "extravían" ],
+			[ "extravían" ]
+		],
+		"4" : [
+			[ "extravié" ],
+			[ "extraviaste" ],
+			[ "extravió" ],
+			[ "extraviamos" ],
+			[ "extraviasteis", "extraviaron" ],
+			[ "extraviaron" ]
+		],
+		"5" : [
+			[ "extraviaba" ],
+			[ "extraviabas" ],
+			[ "extraviaba" ],
+			[ "extraviábamos" ],
+			[ "extraviabais", "extraviaban" ],
+			[ "extraviaban" ]
+		],
+		"6" : [
+			[ "extraviaría" ],
+			[ "extraviarías" ],
+			[ "extraviaría" ],
+			[ "extraviaríamos" ],
+			[ "extraviaríais", "extraviarían" ],
+			[ "extraviarían" ]
+		],
+		"7" : [
+			[ "extraviaré" ],
+			[ "extraviarás" ],
+			[ "extraviará" ],
+			[ "extraviaremos" ],
+			[ "extraviaréis", "extraviarán" ],
+			[ "extraviarán" ]
+		],
+		"8" : [
+			[ "extravíe" ],
+			[ "extravíes" ],
+			[ "extravíe" ],
+			[ "extraviemos" ],
+			[ "extraviéis", "extravíen" ],
+			[ "extravíen" ]
+		],
+		"9" : [
+			[ "extraviara" ],
+			[ "extraviaras" ],
+			[ "extraviara" ],
+			[ "extraviáramos" ],
+			[ "extraviarais", "extraviaran" ],
+			[ "extraviaran" ]
+		],
+		"10" : [
+			[ "extraviase" ],
+			[ "extraviases" ],
+			[ "extraviase" ],
+			[ "extraviásemos" ],
+			[ "extraviaseis", "extraviasen" ],
+			[ "extraviasen" ]
+		],
+		"11" : [
+			[ "extraviare" ],
+			[ "extraviares" ],
+			[ "extraviare" ],
+			[ "extraviáremos" ],
+			[ "extraviareis", "extraviaren" ],
+			[ "extraviaren" ]
+		],
+		"12" : {
+			"1" : [ "extravía" ],
+			"2" : [ "extravíe" ],
+			"3" : [ "extraviemos" ],
+			"4" : [ "extraviad" ],
+			"5" : [ "extravíen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cercar",
+	"word" : "cercar",
+	"infinitivo" : "cercar",
+	"participio" : [ "cercado" ],
+	"gerundio" : [ "cercando" ],
+	"tenses" : {
+		"3" : [
+			[ "cerco" ],
+			[ "cercas", "cercás" ],
+			[ "cerca" ],
+			[ "cercamos" ],
+			[ "cercáis", "cercan" ],
+			[ "cercan" ]
+		],
+		"4" : [
+			[ "cerqué" ],
+			[ "cercaste" ],
+			[ "cercó" ],
+			[ "cercamos" ],
+			[ "cercasteis", "cercaron" ],
+			[ "cercaron" ]
+		],
+		"5" : [
+			[ "cercaba" ],
+			[ "cercabas" ],
+			[ "cercaba" ],
+			[ "cercábamos" ],
+			[ "cercabais", "cercaban" ],
+			[ "cercaban" ]
+		],
+		"6" : [
+			[ "cercaría" ],
+			[ "cercarías" ],
+			[ "cercaría" ],
+			[ "cercaríamos" ],
+			[ "cercaríais", "cercarían" ],
+			[ "cercarían" ]
+		],
+		"7" : [
+			[ "cercaré" ],
+			[ "cercarás" ],
+			[ "cercará" ],
+			[ "cercaremos" ],
+			[ "cercaréis", "cercarán" ],
+			[ "cercarán" ]
+		],
+		"8" : [
+			[ "cerque" ],
+			[ "cerques" ],
+			[ "cerque" ],
+			[ "cerquemos" ],
+			[ "cerquéis", "cerquen" ],
+			[ "cerquen" ]
+		],
+		"9" : [
+			[ "cercara" ],
+			[ "cercaras" ],
+			[ "cercara" ],
+			[ "cercáramos" ],
+			[ "cercarais", "cercaran" ],
+			[ "cercaran" ]
+		],
+		"10" : [
+			[ "cercase" ],
+			[ "cercases" ],
+			[ "cercase" ],
+			[ "cercásemos" ],
+			[ "cercaseis", "cercasen" ],
+			[ "cercasen" ]
+		],
+		"11" : [
+			[ "cercare" ],
+			[ "cercares" ],
+			[ "cercare" ],
+			[ "cercáremos" ],
+			[ "cercareis", "cercaren" ],
+			[ "cercaren" ]
+		],
+		"12" : {
+			"1" : [ "cerca" ],
+			"2" : [ "cerque" ],
+			"3" : [ "cerquemos" ],
+			"4" : [ "cercad" ],
+			"5" : [ "cerquen" ]
+		}
+	}
+}

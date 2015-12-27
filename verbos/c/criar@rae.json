@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=criar",
+	"word" : "criar",
+	"infinitivo" : "criar",
+	"participio" : [ "criado" ],
+	"gerundio" : [ "criando" ],
+	"tenses" : {
+		"3" : [
+			[ "crío" ],
+			[ "crías", "crias" ],
+			[ "cría" ],
+			[ "criamos" ],
+			[ "criais", "crían" ],
+			[ "crían" ]
+		],
+		"4" : [
+			[ "crie" ],
+			[ "criaste" ],
+			[ "crio" ],
+			[ "criamos" ],
+			[ "criasteis", "criaron" ],
+			[ "criaron" ]
+		],
+		"5" : [
+			[ "criaba" ],
+			[ "criabas" ],
+			[ "criaba" ],
+			[ "criábamos" ],
+			[ "criabais", "criaban" ],
+			[ "criaban" ]
+		],
+		"6" : [
+			[ "criaría" ],
+			[ "criarías" ],
+			[ "criaría" ],
+			[ "criaríamos" ],
+			[ "criaríais", "criarían" ],
+			[ "criarían" ]
+		],
+		"7" : [
+			[ "criaré" ],
+			[ "criarás" ],
+			[ "criará" ],
+			[ "criaremos" ],
+			[ "criaréis", "criarán" ],
+			[ "criarán" ]
+		],
+		"8" : [
+			[ "críe" ],
+			[ "críes" ],
+			[ "críe" ],
+			[ "criemos" ],
+			[ "crieis", "críen" ],
+			[ "críen" ]
+		],
+		"9" : [
+			[ "criara" ],
+			[ "criaras" ],
+			[ "criara" ],
+			[ "criáramos" ],
+			[ "criarais", "criaran" ],
+			[ "criaran" ]
+		],
+		"10" : [
+			[ "criase" ],
+			[ "criases" ],
+			[ "criase" ],
+			[ "criásemos" ],
+			[ "criaseis", "criasen" ],
+			[ "criasen" ]
+		],
+		"11" : [
+			[ "criare" ],
+			[ "criares" ],
+			[ "criare" ],
+			[ "criáremos" ],
+			[ "criareis", "criaren" ],
+			[ "criaren" ]
+		],
+		"12" : {
+			"1" : [ "cría" ],
+			"2" : [ "críe" ],
+			"3" : [ "criemos" ],
+			"4" : [ "criad" ],
+			"5" : [ "críen" ]
+		}
+	}
+}

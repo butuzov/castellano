@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=quietar",
+	"word" : "quietar",
+	"infinitivo" : "quietar",
+	"participio" : [ "quietado" ],
+	"gerundio" : [ "quietando" ],
+	"tenses" : {
+		"3" : [
+			[ "quieto" ],
+			[ "quietas", "quietás" ],
+			[ "quieta" ],
+			[ "quietamos" ],
+			[ "quietáis", "quietan" ],
+			[ "quietan" ]
+		],
+		"4" : [
+			[ "quieté" ],
+			[ "quietaste" ],
+			[ "quietó" ],
+			[ "quietamos" ],
+			[ "quietasteis", "quietaron" ],
+			[ "quietaron" ]
+		],
+		"5" : [
+			[ "quietaba" ],
+			[ "quietabas" ],
+			[ "quietaba" ],
+			[ "quietábamos" ],
+			[ "quietabais", "quietaban" ],
+			[ "quietaban" ]
+		],
+		"6" : [
+			[ "quietaría" ],
+			[ "quietarías" ],
+			[ "quietaría" ],
+			[ "quietaríamos" ],
+			[ "quietaríais", "quietarían" ],
+			[ "quietarían" ]
+		],
+		"7" : [
+			[ "quietaré" ],
+			[ "quietarás" ],
+			[ "quietará" ],
+			[ "quietaremos" ],
+			[ "quietaréis", "quietarán" ],
+			[ "quietarán" ]
+		],
+		"8" : [
+			[ "quiete" ],
+			[ "quietes" ],
+			[ "quiete" ],
+			[ "quietemos" ],
+			[ "quietéis", "quieten" ],
+			[ "quieten" ]
+		],
+		"9" : [
+			[ "quietara" ],
+			[ "quietaras" ],
+			[ "quietara" ],
+			[ "quietáramos" ],
+			[ "quietarais", "quietaran" ],
+			[ "quietaran" ]
+		],
+		"10" : [
+			[ "quietase" ],
+			[ "quietases" ],
+			[ "quietase" ],
+			[ "quietásemos" ],
+			[ "quietaseis", "quietasen" ],
+			[ "quietasen" ]
+		],
+		"11" : [
+			[ "quietare" ],
+			[ "quietares" ],
+			[ "quietare" ],
+			[ "quietáremos" ],
+			[ "quietareis", "quietaren" ],
+			[ "quietaren" ]
+		],
+		"12" : {
+			"1" : [ "quieta" ],
+			"2" : [ "quiete" ],
+			"3" : [ "quietemos" ],
+			"4" : [ "quietad" ],
+			"5" : [ "quieten" ]
+		}
+	}
+}

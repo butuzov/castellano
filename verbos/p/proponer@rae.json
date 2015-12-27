@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=proponer",
+	"word" : "proponer",
+	"infinitivo" : "proponer",
+	"participio" : [ "propuesto" ],
+	"gerundio" : [ "proponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "propongo" ],
+			[ "propones", "proponés" ],
+			[ "propone" ],
+			[ "proponemos" ],
+			[ "proponéis", "proponen" ],
+			[ "proponen" ]
+		],
+		"4" : [
+			[ "propuse" ],
+			[ "propusiste" ],
+			[ "propuso" ],
+			[ "propusimos" ],
+			[ "propusisteis", "propusieron" ],
+			[ "propusieron" ]
+		],
+		"5" : [
+			[ "proponía" ],
+			[ "proponías" ],
+			[ "proponía" ],
+			[ "proponíamos" ],
+			[ "proponíais", "proponían" ],
+			[ "proponían" ]
+		],
+		"6" : [
+			[ "propondría" ],
+			[ "propondrías" ],
+			[ "propondría" ],
+			[ "propondríamos" ],
+			[ "propondríais", "propondrían" ],
+			[ "propondrían" ]
+		],
+		"7" : [
+			[ "propondré" ],
+			[ "propondrás" ],
+			[ "propondrá" ],
+			[ "propondremos" ],
+			[ "propondréis", "propondrán" ],
+			[ "propondrán" ]
+		],
+		"8" : [
+			[ "proponga" ],
+			[ "propongas" ],
+			[ "proponga" ],
+			[ "propongamos" ],
+			[ "propongáis", "propongan" ],
+			[ "propongan" ]
+		],
+		"9" : [
+			[ "propusiera" ],
+			[ "propusieras" ],
+			[ "propusiera" ],
+			[ "propusiéramos" ],
+			[ "propusierais", "propusieran" ],
+			[ "propusieran" ]
+		],
+		"10" : [
+			[ "propusiese" ],
+			[ "propusieses" ],
+			[ "propusiese" ],
+			[ "propusiésemos" ],
+			[ "propusieseis", "propusiesen" ],
+			[ "propusiesen" ]
+		],
+		"11" : [
+			[ "propusiere" ],
+			[ "propusieres" ],
+			[ "propusiere" ],
+			[ "propusiéremos" ],
+			[ "propusiereis", "propusieren" ],
+			[ "propusieren" ]
+		],
+		"12" : {
+			"1" : [ "propón" ],
+			"2" : [ "proponga" ],
+			"3" : [ "propongamos" ],
+			"4" : [ "proponed" ],
+			"5" : [ "propongan" ]
+		}
+	}
+}

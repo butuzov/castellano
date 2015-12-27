@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=embocar",
+	"word" : "embocar",
+	"infinitivo" : "embocar",
+	"participio" : [ "embocado" ],
+	"gerundio" : [ "embocando" ],
+	"tenses" : {
+		"3" : [
+			[ "emboco" ],
+			[ "embocas", "embocás" ],
+			[ "emboca" ],
+			[ "embocamos" ],
+			[ "embocáis", "embocan" ],
+			[ "embocan" ]
+		],
+		"4" : [
+			[ "emboqué" ],
+			[ "embocaste" ],
+			[ "embocó" ],
+			[ "embocamos" ],
+			[ "embocasteis", "embocaron" ],
+			[ "embocaron" ]
+		],
+		"5" : [
+			[ "embocaba" ],
+			[ "embocabas" ],
+			[ "embocaba" ],
+			[ "embocábamos" ],
+			[ "embocabais", "embocaban" ],
+			[ "embocaban" ]
+		],
+		"6" : [
+			[ "embocaría" ],
+			[ "embocarías" ],
+			[ "embocaría" ],
+			[ "embocaríamos" ],
+			[ "embocaríais", "embocarían" ],
+			[ "embocarían" ]
+		],
+		"7" : [
+			[ "embocaré" ],
+			[ "embocarás" ],
+			[ "embocará" ],
+			[ "embocaremos" ],
+			[ "embocaréis", "embocarán" ],
+			[ "embocarán" ]
+		],
+		"8" : [
+			[ "emboque" ],
+			[ "emboques" ],
+			[ "emboque" ],
+			[ "emboquemos" ],
+			[ "emboquéis", "emboquen" ],
+			[ "emboquen" ]
+		],
+		"9" : [
+			[ "embocara" ],
+			[ "embocaras" ],
+			[ "embocara" ],
+			[ "embocáramos" ],
+			[ "embocarais", "embocaran" ],
+			[ "embocaran" ]
+		],
+		"10" : [
+			[ "embocase" ],
+			[ "embocases" ],
+			[ "embocase" ],
+			[ "embocásemos" ],
+			[ "embocaseis", "embocasen" ],
+			[ "embocasen" ]
+		],
+		"11" : [
+			[ "embocare" ],
+			[ "embocares" ],
+			[ "embocare" ],
+			[ "embocáremos" ],
+			[ "embocareis", "embocaren" ],
+			[ "embocaren" ]
+		],
+		"12" : {
+			"1" : [ "emboca" ],
+			"2" : [ "emboque" ],
+			"3" : [ "emboquemos" ],
+			"4" : [ "embocad" ],
+			"5" : [ "emboquen" ]
+		}
+	}
+}

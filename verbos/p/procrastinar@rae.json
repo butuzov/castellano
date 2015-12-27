@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=procrastinar",
+	"word" : "procrastinar",
+	"infinitivo" : "procrastinar",
+	"participio" : [ "procrastinado" ],
+	"gerundio" : [ "procrastinando" ],
+	"tenses" : {
+		"3" : [
+			[ "procrastino" ],
+			[ "procrastinas", "procrastinás" ],
+			[ "procrastina" ],
+			[ "procrastinamos" ],
+			[ "procrastináis", "procrastinan" ],
+			[ "procrastinan" ]
+		],
+		"4" : [
+			[ "procrastiné" ],
+			[ "procrastinaste" ],
+			[ "procrastinó" ],
+			[ "procrastinamos" ],
+			[ "procrastinasteis", "procrastinaron" ],
+			[ "procrastinaron" ]
+		],
+		"5" : [
+			[ "procrastinaba" ],
+			[ "procrastinabas" ],
+			[ "procrastinaba" ],
+			[ "procrastinábamos" ],
+			[ "procrastinabais", "procrastinaban" ],
+			[ "procrastinaban" ]
+		],
+		"6" : [
+			[ "procrastinaría" ],
+			[ "procrastinarías" ],
+			[ "procrastinaría" ],
+			[ "procrastinaríamos" ],
+			[ "procrastinaríais", "procrastinarían" ],
+			[ "procrastinarían" ]
+		],
+		"7" : [
+			[ "procrastinaré" ],
+			[ "procrastinarás" ],
+			[ "procrastinará" ],
+			[ "procrastinaremos" ],
+			[ "procrastinaréis", "procrastinarán" ],
+			[ "procrastinarán" ]
+		],
+		"8" : [
+			[ "procrastine" ],
+			[ "procrastines" ],
+			[ "procrastine" ],
+			[ "procrastinemos" ],
+			[ "procrastinéis", "procrastinen" ],
+			[ "procrastinen" ]
+		],
+		"9" : [
+			[ "procrastinara" ],
+			[ "procrastinaras" ],
+			[ "procrastinara" ],
+			[ "procrastináramos" ],
+			[ "procrastinarais", "procrastinaran" ],
+			[ "procrastinaran" ]
+		],
+		"10" : [
+			[ "procrastinase" ],
+			[ "procrastinases" ],
+			[ "procrastinase" ],
+			[ "procrastinásemos" ],
+			[ "procrastinaseis", "procrastinasen" ],
+			[ "procrastinasen" ]
+		],
+		"11" : [
+			[ "procrastinare" ],
+			[ "procrastinares" ],
+			[ "procrastinare" ],
+			[ "procrastináremos" ],
+			[ "procrastinareis", "procrastinaren" ],
+			[ "procrastinaren" ]
+		],
+		"12" : {
+			"1" : [ "procrastina" ],
+			"2" : [ "procrastine" ],
+			"3" : [ "procrastinemos" ],
+			"4" : [ "procrastinad" ],
+			"5" : [ "procrastinen" ]
+		}
+	}
+}

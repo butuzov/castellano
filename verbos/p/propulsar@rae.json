@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=propulsar",
+	"word" : "propulsar",
+	"infinitivo" : "propulsar",
+	"participio" : [ "propulsado" ],
+	"gerundio" : [ "propulsando" ],
+	"tenses" : {
+		"3" : [
+			[ "propulso" ],
+			[ "propulsas", "propulsás" ],
+			[ "propulsa" ],
+			[ "propulsamos" ],
+			[ "propulsáis", "propulsan" ],
+			[ "propulsan" ]
+		],
+		"4" : [
+			[ "propulsé" ],
+			[ "propulsaste" ],
+			[ "propulsó" ],
+			[ "propulsamos" ],
+			[ "propulsasteis", "propulsaron" ],
+			[ "propulsaron" ]
+		],
+		"5" : [
+			[ "propulsaba" ],
+			[ "propulsabas" ],
+			[ "propulsaba" ],
+			[ "propulsábamos" ],
+			[ "propulsabais", "propulsaban" ],
+			[ "propulsaban" ]
+		],
+		"6" : [
+			[ "propulsaría" ],
+			[ "propulsarías" ],
+			[ "propulsaría" ],
+			[ "propulsaríamos" ],
+			[ "propulsaríais", "propulsarían" ],
+			[ "propulsarían" ]
+		],
+		"7" : [
+			[ "propulsaré" ],
+			[ "propulsarás" ],
+			[ "propulsará" ],
+			[ "propulsaremos" ],
+			[ "propulsaréis", "propulsarán" ],
+			[ "propulsarán" ]
+		],
+		"8" : [
+			[ "propulse" ],
+			[ "propulses" ],
+			[ "propulse" ],
+			[ "propulsemos" ],
+			[ "propulséis", "propulsen" ],
+			[ "propulsen" ]
+		],
+		"9" : [
+			[ "propulsara" ],
+			[ "propulsaras" ],
+			[ "propulsara" ],
+			[ "propulsáramos" ],
+			[ "propulsarais", "propulsaran" ],
+			[ "propulsaran" ]
+		],
+		"10" : [
+			[ "propulsase" ],
+			[ "propulsases" ],
+			[ "propulsase" ],
+			[ "propulsásemos" ],
+			[ "propulsaseis", "propulsasen" ],
+			[ "propulsasen" ]
+		],
+		"11" : [
+			[ "propulsare" ],
+			[ "propulsares" ],
+			[ "propulsare" ],
+			[ "propulsáremos" ],
+			[ "propulsareis", "propulsaren" ],
+			[ "propulsaren" ]
+		],
+		"12" : {
+			"1" : [ "propulsa" ],
+			"2" : [ "propulse" ],
+			"3" : [ "propulsemos" ],
+			"4" : [ "propulsad" ],
+			"5" : [ "propulsen" ]
+		}
+	}
+}

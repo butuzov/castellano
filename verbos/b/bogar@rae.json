@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bogar",
+	"word" : "bogar",
+	"infinitivo" : "bogar",
+	"participio" : [ "bogado" ],
+	"gerundio" : [ "bogando" ],
+	"tenses" : {
+		"3" : [
+			[ "bogo" ],
+			[ "bogas", "bogás" ],
+			[ "boga" ],
+			[ "bogamos" ],
+			[ "bogáis", "bogan" ],
+			[ "bogan" ]
+		],
+		"4" : [
+			[ "bogué" ],
+			[ "bogaste" ],
+			[ "bogó" ],
+			[ "bogamos" ],
+			[ "bogasteis", "bogaron" ],
+			[ "bogaron" ]
+		],
+		"5" : [
+			[ "bogaba" ],
+			[ "bogabas" ],
+			[ "bogaba" ],
+			[ "bogábamos" ],
+			[ "bogabais", "bogaban" ],
+			[ "bogaban" ]
+		],
+		"6" : [
+			[ "bogaría" ],
+			[ "bogarías" ],
+			[ "bogaría" ],
+			[ "bogaríamos" ],
+			[ "bogaríais", "bogarían" ],
+			[ "bogarían" ]
+		],
+		"7" : [
+			[ "bogaré" ],
+			[ "bogarás" ],
+			[ "bogará" ],
+			[ "bogaremos" ],
+			[ "bogaréis", "bogarán" ],
+			[ "bogarán" ]
+		],
+		"8" : [
+			[ "bogue" ],
+			[ "bogues" ],
+			[ "bogue" ],
+			[ "boguemos" ],
+			[ "boguéis", "boguen" ],
+			[ "boguen" ]
+		],
+		"9" : [
+			[ "bogara" ],
+			[ "bogaras" ],
+			[ "bogara" ],
+			[ "bogáramos" ],
+			[ "bogarais", "bogaran" ],
+			[ "bogaran" ]
+		],
+		"10" : [
+			[ "bogase" ],
+			[ "bogases" ],
+			[ "bogase" ],
+			[ "bogásemos" ],
+			[ "bogaseis", "bogasen" ],
+			[ "bogasen" ]
+		],
+		"11" : [
+			[ "bogare" ],
+			[ "bogares" ],
+			[ "bogare" ],
+			[ "bogáremos" ],
+			[ "bogareis", "bogaren" ],
+			[ "bogaren" ]
+		],
+		"12" : {
+			"1" : [ "boga" ],
+			"2" : [ "bogue" ],
+			"3" : [ "boguemos" ],
+			"4" : [ "bogad" ],
+			"5" : [ "boguen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desvelar",
+	"word" : "desvelar",
+	"infinitivo" : "desvelar",
+	"participio" : [ "desvelado" ],
+	"gerundio" : [ "desvelando" ],
+	"tenses" : {
+		"3" : [
+			[ "desvelo" ],
+			[ "desvelas", "desvelás" ],
+			[ "desvela" ],
+			[ "desvelamos" ],
+			[ "desveláis", "desvelan" ],
+			[ "desvelan" ]
+		],
+		"4" : [
+			[ "desvelé" ],
+			[ "desvelaste" ],
+			[ "desveló" ],
+			[ "desvelamos" ],
+			[ "desvelasteis", "desvelaron" ],
+			[ "desvelaron" ]
+		],
+		"5" : [
+			[ "desvelaba" ],
+			[ "desvelabas" ],
+			[ "desvelaba" ],
+			[ "desvelábamos" ],
+			[ "desvelabais", "desvelaban" ],
+			[ "desvelaban" ]
+		],
+		"6" : [
+			[ "desvelaría" ],
+			[ "desvelarías" ],
+			[ "desvelaría" ],
+			[ "desvelaríamos" ],
+			[ "desvelaríais", "desvelarían" ],
+			[ "desvelarían" ]
+		],
+		"7" : [
+			[ "desvelaré" ],
+			[ "desvelarás" ],
+			[ "desvelará" ],
+			[ "desvelaremos" ],
+			[ "desvelaréis", "desvelarán" ],
+			[ "desvelarán" ]
+		],
+		"8" : [
+			[ "desvele" ],
+			[ "desveles" ],
+			[ "desvele" ],
+			[ "desvelemos" ],
+			[ "desveléis", "desvelen" ],
+			[ "desvelen" ]
+		],
+		"9" : [
+			[ "desvelara" ],
+			[ "desvelaras" ],
+			[ "desvelara" ],
+			[ "desveláramos" ],
+			[ "desvelarais", "desvelaran" ],
+			[ "desvelaran" ]
+		],
+		"10" : [
+			[ "desvelase" ],
+			[ "desvelases" ],
+			[ "desvelase" ],
+			[ "desvelásemos" ],
+			[ "desvelaseis", "desvelasen" ],
+			[ "desvelasen" ]
+		],
+		"11" : [
+			[ "desvelare" ],
+			[ "desvelares" ],
+			[ "desvelare" ],
+			[ "desveláremos" ],
+			[ "desvelareis", "desvelaren" ],
+			[ "desvelaren" ]
+		],
+		"12" : {
+			"1" : [ "desvela" ],
+			"2" : [ "desvele" ],
+			"3" : [ "desvelemos" ],
+			"4" : [ "desvelad" ],
+			"5" : [ "desvelen" ]
+		}
+	}
+}

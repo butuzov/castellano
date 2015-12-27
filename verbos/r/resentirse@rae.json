@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=resentirse",
+	"word" : "resentirse",
+	"infinitivo" : "resentirse",
+	"participio" : [ "resentido" ],
+	"gerundio" : [ "resintiéndome", "resintiéndote" ],
+	"tenses" : {
+		"3" : [
+			[ "me resiento" ],
+			[ "te resientes", "te resentís" ],
+			[ "se resiente" ],
+			[ "nos resentimos" ],
+			[ "os resentís", "se resienten" ],
+			[ "se resienten" ]
+		],
+		"4" : [
+			[ "me resentí" ],
+			[ "te resentiste" ],
+			[ "se resintió" ],
+			[ "nos resentimos" ],
+			[ "os resentisteis", "se resintieron" ],
+			[ "se resintieron" ]
+		],
+		"5" : [
+			[ "me resentía" ],
+			[ "te resentías" ],
+			[ "se resentía" ],
+			[ "nos resentíamos" ],
+			[ "os resentíais", "se resentían" ],
+			[ "se resentían" ]
+		],
+		"6" : [
+			[ "me resentiría" ],
+			[ "te resentirías" ],
+			[ "se resentiría" ],
+			[ "nos resentiríamos" ],
+			[ "os resentiríais", "se resentirían" ],
+			[ "se resentirían" ]
+		],
+		"7" : [
+			[ "me resentiré" ],
+			[ "te resentirás" ],
+			[ "se resentirá" ],
+			[ "nos resentiremos" ],
+			[ "os resentiréis", "se resentirán" ],
+			[ "se resentirán" ]
+		],
+		"8" : [
+			[ "me resienta" ],
+			[ "te resientas" ],
+			[ "se resienta" ],
+			[ "nos resintamos" ],
+			[ "os resintáis", "se resientan" ],
+			[ "se resientan" ]
+		],
+		"9" : [
+			[ "me resintiera" ],
+			[ "te resintieras" ],
+			[ "se resintiera" ],
+			[ "nos resintiéramos" ],
+			[ "os resintierais", "se resintieran" ],
+			[ "se resintieran" ]
+		],
+		"10" : [
+			[ "me resintiese" ],
+			[ "te resintieses" ],
+			[ "se resintiese" ],
+			[ "nos resintiésemos" ],
+			[ "os resintieseis", "se resintiesen" ],
+			[ "se resintiesen" ]
+		],
+		"11" : [
+			[ "me resintiere" ],
+			[ "te resintieres" ],
+			[ "se resintiere" ],
+			[ "nos resintiéremos" ],
+			[ "os resintiereis", "se resintieren" ],
+			[ "se resintieren" ]
+		],
+		"12" : {
+			"1" : [ "resiéntete" ],
+			"2" : [ "resienta" ],
+			"3" : [ "resintamos" ],
+			"4" : [ "resentíos" ],
+			"5" : [ "resiéntanse" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entubar",
+	"word" : "entubar",
+	"infinitivo" : "entubar",
+	"participio" : [ "entubado" ],
+	"gerundio" : [ "entubando" ],
+	"tenses" : {
+		"3" : [
+			[ "entubo" ],
+			[ "entubas", "entubás" ],
+			[ "entuba" ],
+			[ "entubamos" ],
+			[ "entubáis", "entuban" ],
+			[ "entuban" ]
+		],
+		"4" : [
+			[ "entubé" ],
+			[ "entubaste" ],
+			[ "entubó" ],
+			[ "entubamos" ],
+			[ "entubasteis", "entubaron" ],
+			[ "entubaron" ]
+		],
+		"5" : [
+			[ "entubaba" ],
+			[ "entubabas" ],
+			[ "entubaba" ],
+			[ "entubábamos" ],
+			[ "entubabais", "entubaban" ],
+			[ "entubaban" ]
+		],
+		"6" : [
+			[ "entubaría" ],
+			[ "entubarías" ],
+			[ "entubaría" ],
+			[ "entubaríamos" ],
+			[ "entubaríais", "entubarían" ],
+			[ "entubarían" ]
+		],
+		"7" : [
+			[ "entubaré" ],
+			[ "entubarás" ],
+			[ "entubará" ],
+			[ "entubaremos" ],
+			[ "entubaréis", "entubarán" ],
+			[ "entubarán" ]
+		],
+		"8" : [
+			[ "entube" ],
+			[ "entubes" ],
+			[ "entube" ],
+			[ "entubemos" ],
+			[ "entubéis", "entuben" ],
+			[ "entuben" ]
+		],
+		"9" : [
+			[ "entubara" ],
+			[ "entubaras" ],
+			[ "entubara" ],
+			[ "entubáramos" ],
+			[ "entubarais", "entubaran" ],
+			[ "entubaran" ]
+		],
+		"10" : [
+			[ "entubase" ],
+			[ "entubases" ],
+			[ "entubase" ],
+			[ "entubásemos" ],
+			[ "entubaseis", "entubasen" ],
+			[ "entubasen" ]
+		],
+		"11" : [
+			[ "entubare" ],
+			[ "entubares" ],
+			[ "entubare" ],
+			[ "entubáremos" ],
+			[ "entubareis", "entubaren" ],
+			[ "entubaren" ]
+		],
+		"12" : {
+			"1" : [ "entuba" ],
+			"2" : [ "entube" ],
+			"3" : [ "entubemos" ],
+			"4" : [ "entubad" ],
+			"5" : [ "entuben" ]
+		}
+	}
+}

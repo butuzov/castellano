@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=amargar",
+	"word" : "amargar",
+	"infinitivo" : "amargar",
+	"participio" : [ "amargado" ],
+	"gerundio" : [ "amargando" ],
+	"tenses" : {
+		"3" : [
+			[ "amargo" ],
+			[ "amargas", "amargás" ],
+			[ "amarga" ],
+			[ "amargamos" ],
+			[ "amargáis", "amargan" ],
+			[ "amargan" ]
+		],
+		"4" : [
+			[ "amargué" ],
+			[ "amargaste" ],
+			[ "amargó" ],
+			[ "amargamos" ],
+			[ "amargasteis", "amargaron" ],
+			[ "amargaron" ]
+		],
+		"5" : [
+			[ "amargaba" ],
+			[ "amargabas" ],
+			[ "amargaba" ],
+			[ "amargábamos" ],
+			[ "amargabais", "amargaban" ],
+			[ "amargaban" ]
+		],
+		"6" : [
+			[ "amargaría" ],
+			[ "amargarías" ],
+			[ "amargaría" ],
+			[ "amargaríamos" ],
+			[ "amargaríais", "amargarían" ],
+			[ "amargarían" ]
+		],
+		"7" : [
+			[ "amargaré" ],
+			[ "amargarás" ],
+			[ "amargará" ],
+			[ "amargaremos" ],
+			[ "amargaréis", "amargarán" ],
+			[ "amargarán" ]
+		],
+		"8" : [
+			[ "amargue" ],
+			[ "amargues" ],
+			[ "amargue" ],
+			[ "amarguemos" ],
+			[ "amarguéis", "amarguen" ],
+			[ "amarguen" ]
+		],
+		"9" : [
+			[ "amargara" ],
+			[ "amargaras" ],
+			[ "amargara" ],
+			[ "amargáramos" ],
+			[ "amargarais", "amargaran" ],
+			[ "amargaran" ]
+		],
+		"10" : [
+			[ "amargase" ],
+			[ "amargases" ],
+			[ "amargase" ],
+			[ "amargásemos" ],
+			[ "amargaseis", "amargasen" ],
+			[ "amargasen" ]
+		],
+		"11" : [
+			[ "amargare" ],
+			[ "amargares" ],
+			[ "amargare" ],
+			[ "amargáremos" ],
+			[ "amargareis", "amargaren" ],
+			[ "amargaren" ]
+		],
+		"12" : {
+			"1" : [ "amarga" ],
+			"2" : [ "amargue" ],
+			"3" : [ "amarguemos" ],
+			"4" : [ "amargad" ],
+			"5" : [ "amarguen" ]
+		}
+	}
+}

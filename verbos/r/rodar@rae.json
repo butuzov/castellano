@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rodar",
+	"word" : "rodar",
+	"infinitivo" : "rodar",
+	"participio" : [ "rodado" ],
+	"gerundio" : [ "rodando" ],
+	"tenses" : {
+		"3" : [
+			[ "ruedo" ],
+			[ "ruedas", "rodás" ],
+			[ "rueda" ],
+			[ "rodamos" ],
+			[ "rodáis", "ruedan" ],
+			[ "ruedan" ]
+		],
+		"4" : [
+			[ "rodé" ],
+			[ "rodaste" ],
+			[ "rodó" ],
+			[ "rodamos" ],
+			[ "rodasteis", "rodaron" ],
+			[ "rodaron" ]
+		],
+		"5" : [
+			[ "rodaba" ],
+			[ "rodabas" ],
+			[ "rodaba" ],
+			[ "rodábamos" ],
+			[ "rodabais", "rodaban" ],
+			[ "rodaban" ]
+		],
+		"6" : [
+			[ "rodaría" ],
+			[ "rodarías" ],
+			[ "rodaría" ],
+			[ "rodaríamos" ],
+			[ "rodaríais", "rodarían" ],
+			[ "rodarían" ]
+		],
+		"7" : [
+			[ "rodaré" ],
+			[ "rodarás" ],
+			[ "rodará" ],
+			[ "rodaremos" ],
+			[ "rodaréis", "rodarán" ],
+			[ "rodarán" ]
+		],
+		"8" : [
+			[ "ruede" ],
+			[ "ruedes" ],
+			[ "ruede" ],
+			[ "rodemos" ],
+			[ "rodéis", "rueden" ],
+			[ "rueden" ]
+		],
+		"9" : [
+			[ "rodara" ],
+			[ "rodaras" ],
+			[ "rodara" ],
+			[ "rodáramos" ],
+			[ "rodarais", "rodaran" ],
+			[ "rodaran" ]
+		],
+		"10" : [
+			[ "rodase" ],
+			[ "rodases" ],
+			[ "rodase" ],
+			[ "rodásemos" ],
+			[ "rodaseis", "rodasen" ],
+			[ "rodasen" ]
+		],
+		"11" : [
+			[ "rodare" ],
+			[ "rodares" ],
+			[ "rodare" ],
+			[ "rodáremos" ],
+			[ "rodareis", "rodaren" ],
+			[ "rodaren" ]
+		],
+		"12" : {
+			"1" : [ "rueda" ],
+			"2" : [ "ruede" ],
+			"3" : [ "rodemos" ],
+			"4" : [ "rodad" ],
+			"5" : [ "rueden" ]
+		}
+	}
+}

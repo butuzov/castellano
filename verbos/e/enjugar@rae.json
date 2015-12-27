@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enjugar",
+	"word" : "enjugar",
+	"infinitivo" : "enjugar",
+	"participio" : [ "enjugado" ],
+	"gerundio" : [ "enjugando" ],
+	"tenses" : {
+		"3" : [
+			[ "enjugo" ],
+			[ "enjugas", "enjugás" ],
+			[ "enjuga" ],
+			[ "enjugamos" ],
+			[ "enjugáis", "enjugan" ],
+			[ "enjugan" ]
+		],
+		"4" : [
+			[ "enjugué" ],
+			[ "enjugaste" ],
+			[ "enjugó" ],
+			[ "enjugamos" ],
+			[ "enjugasteis", "enjugaron" ],
+			[ "enjugaron" ]
+		],
+		"5" : [
+			[ "enjugaba" ],
+			[ "enjugabas" ],
+			[ "enjugaba" ],
+			[ "enjugábamos" ],
+			[ "enjugabais", "enjugaban" ],
+			[ "enjugaban" ]
+		],
+		"6" : [
+			[ "enjugaría" ],
+			[ "enjugarías" ],
+			[ "enjugaría" ],
+			[ "enjugaríamos" ],
+			[ "enjugaríais", "enjugarían" ],
+			[ "enjugarían" ]
+		],
+		"7" : [
+			[ "enjugaré" ],
+			[ "enjugarás" ],
+			[ "enjugará" ],
+			[ "enjugaremos" ],
+			[ "enjugaréis", "enjugarán" ],
+			[ "enjugarán" ]
+		],
+		"8" : [
+			[ "enjugue" ],
+			[ "enjugues" ],
+			[ "enjugue" ],
+			[ "enjuguemos" ],
+			[ "enjuguéis", "enjuguen" ],
+			[ "enjuguen" ]
+		],
+		"9" : [
+			[ "enjugara" ],
+			[ "enjugaras" ],
+			[ "enjugara" ],
+			[ "enjugáramos" ],
+			[ "enjugarais", "enjugaran" ],
+			[ "enjugaran" ]
+		],
+		"10" : [
+			[ "enjugase" ],
+			[ "enjugases" ],
+			[ "enjugase" ],
+			[ "enjugásemos" ],
+			[ "enjugaseis", "enjugasen" ],
+			[ "enjugasen" ]
+		],
+		"11" : [
+			[ "enjugare" ],
+			[ "enjugares" ],
+			[ "enjugare" ],
+			[ "enjugáremos" ],
+			[ "enjugareis", "enjugaren" ],
+			[ "enjugaren" ]
+		],
+		"12" : {
+			"1" : [ "enjuga" ],
+			"2" : [ "enjugue" ],
+			"3" : [ "enjuguemos" ],
+			"4" : [ "enjugad" ],
+			"5" : [ "enjuguen" ]
+		}
+	}
+}

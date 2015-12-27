@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=relacionar",
+	"word" : "relacionar",
+	"infinitivo" : "relacionar",
+	"participio" : [ "relacionado" ],
+	"gerundio" : [ "relacionando" ],
+	"tenses" : {
+		"3" : [
+			[ "relaciono" ],
+			[ "relacionas", "relacionás" ],
+			[ "relaciona" ],
+			[ "relacionamos" ],
+			[ "relacionáis", "relacionan" ],
+			[ "relacionan" ]
+		],
+		"4" : [
+			[ "relacioné" ],
+			[ "relacionaste" ],
+			[ "relacionó" ],
+			[ "relacionamos" ],
+			[ "relacionasteis", "relacionaron" ],
+			[ "relacionaron" ]
+		],
+		"5" : [
+			[ "relacionaba" ],
+			[ "relacionabas" ],
+			[ "relacionaba" ],
+			[ "relacionábamos" ],
+			[ "relacionabais", "relacionaban" ],
+			[ "relacionaban" ]
+		],
+		"6" : [
+			[ "relacionaría" ],
+			[ "relacionarías" ],
+			[ "relacionaría" ],
+			[ "relacionaríamos" ],
+			[ "relacionaríais", "relacionarían" ],
+			[ "relacionarían" ]
+		],
+		"7" : [
+			[ "relacionaré" ],
+			[ "relacionarás" ],
+			[ "relacionará" ],
+			[ "relacionaremos" ],
+			[ "relacionaréis", "relacionarán" ],
+			[ "relacionarán" ]
+		],
+		"8" : [
+			[ "relacione" ],
+			[ "relaciones" ],
+			[ "relacione" ],
+			[ "relacionemos" ],
+			[ "relacionéis", "relacionen" ],
+			[ "relacionen" ]
+		],
+		"9" : [
+			[ "relacionara" ],
+			[ "relacionaras" ],
+			[ "relacionara" ],
+			[ "relacionáramos" ],
+			[ "relacionarais", "relacionaran" ],
+			[ "relacionaran" ]
+		],
+		"10" : [
+			[ "relacionase" ],
+			[ "relacionases" ],
+			[ "relacionase" ],
+			[ "relacionásemos" ],
+			[ "relacionaseis", "relacionasen" ],
+			[ "relacionasen" ]
+		],
+		"11" : [
+			[ "relacionare" ],
+			[ "relacionares" ],
+			[ "relacionare" ],
+			[ "relacionáremos" ],
+			[ "relacionareis", "relacionaren" ],
+			[ "relacionaren" ]
+		],
+		"12" : {
+			"1" : [ "relaciona" ],
+			"2" : [ "relacione" ],
+			"3" : [ "relacionemos" ],
+			"4" : [ "relacionad" ],
+			"5" : [ "relacionen" ]
+		}
+	}
+}

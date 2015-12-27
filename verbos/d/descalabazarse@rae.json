@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descalabazarse",
+	"word" : "descalabazarse",
+	"infinitivo" : "descalabazarse",
+	"participio" : [ "descalabazado" ],
+	"gerundio" : [ "descalabazándome", "descalabazándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me descalabazo" ],
+			[ "te descalabazas", "te descalabazás" ],
+			[ "se descalabaza" ],
+			[ "nos descalabazamos" ],
+			[ "os descalabazáis", "se descalabazan" ],
+			[ "se descalabazan" ]
+		],
+		"4" : [
+			[ "me descalabacé" ],
+			[ "te descalabazaste" ],
+			[ "se descalabazó" ],
+			[ "nos descalabazamos" ],
+			[ "os descalabazasteis", "se descalabazaron" ],
+			[ "se descalabazaron" ]
+		],
+		"5" : [
+			[ "me descalabazaba" ],
+			[ "te descalabazabas" ],
+			[ "se descalabazaba" ],
+			[ "nos descalabazábamos" ],
+			[ "os descalabazabais", "se descalabazaban" ],
+			[ "se descalabazaban" ]
+		],
+		"6" : [
+			[ "me descalabazaría" ],
+			[ "te descalabazarías" ],
+			[ "se descalabazaría" ],
+			[ "nos descalabazaríamos" ],
+			[ "os descalabazaríais", "se descalabazarían" ],
+			[ "se descalabazarían" ]
+		],
+		"7" : [
+			[ "me descalabazaré" ],
+			[ "te descalabazarás" ],
+			[ "se descalabazará" ],
+			[ "nos descalabazaremos" ],
+			[ "os descalabazaréis", "se descalabazarán" ],
+			[ "se descalabazarán" ]
+		],
+		"8" : [
+			[ "me descalabace" ],
+			[ "te descalabaces" ],
+			[ "se descalabace" ],
+			[ "nos descalabacemos" ],
+			[ "os descalabacéis", "se descalabacen" ],
+			[ "se descalabacen" ]
+		],
+		"9" : [
+			[ "me descalabazara" ],
+			[ "te descalabazaras" ],
+			[ "se descalabazara" ],
+			[ "nos descalabazáramos" ],
+			[ "os descalabazarais", "se descalabazaran" ],
+			[ "se descalabazaran" ]
+		],
+		"10" : [
+			[ "me descalabazase" ],
+			[ "te descalabazases" ],
+			[ "se descalabazase" ],
+			[ "nos descalabazásemos" ],
+			[ "os descalabazaseis", "se descalabazasen" ],
+			[ "se descalabazasen" ]
+		],
+		"11" : [
+			[ "me descalabazare" ],
+			[ "te descalabazares" ],
+			[ "se descalabazare" ],
+			[ "nos descalabazáremos" ],
+			[ "os descalabazareis", "se descalabazaren" ],
+			[ "se descalabazaren" ]
+		],
+		"12" : {
+			"1" : [ "descalabázate" ],
+			"2" : [ "descalabace" ],
+			"3" : [ "descalabacemos" ],
+			"4" : [ "descalabazaos" ],
+			"5" : [ "descalabácense" ]
+		}
+	}
+}

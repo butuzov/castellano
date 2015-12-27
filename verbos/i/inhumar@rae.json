@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inhumar",
+	"word" : "inhumar",
+	"infinitivo" : "inhumar",
+	"participio" : [ "inhumado" ],
+	"gerundio" : [ "inhumando" ],
+	"tenses" : {
+		"3" : [
+			[ "inhumo" ],
+			[ "inhumas", "inhumás" ],
+			[ "inhuma" ],
+			[ "inhumamos" ],
+			[ "inhumáis", "inhuman" ],
+			[ "inhuman" ]
+		],
+		"4" : [
+			[ "inhumé" ],
+			[ "inhumaste" ],
+			[ "inhumó" ],
+			[ "inhumamos" ],
+			[ "inhumasteis", "inhumaron" ],
+			[ "inhumaron" ]
+		],
+		"5" : [
+			[ "inhumaba" ],
+			[ "inhumabas" ],
+			[ "inhumaba" ],
+			[ "inhumábamos" ],
+			[ "inhumabais", "inhumaban" ],
+			[ "inhumaban" ]
+		],
+		"6" : [
+			[ "inhumaría" ],
+			[ "inhumarías" ],
+			[ "inhumaría" ],
+			[ "inhumaríamos" ],
+			[ "inhumaríais", "inhumarían" ],
+			[ "inhumarían" ]
+		],
+		"7" : [
+			[ "inhumaré" ],
+			[ "inhumarás" ],
+			[ "inhumará" ],
+			[ "inhumaremos" ],
+			[ "inhumaréis", "inhumarán" ],
+			[ "inhumarán" ]
+		],
+		"8" : [
+			[ "inhume" ],
+			[ "inhumes" ],
+			[ "inhume" ],
+			[ "inhumemos" ],
+			[ "inhuméis", "inhumen" ],
+			[ "inhumen" ]
+		],
+		"9" : [
+			[ "inhumara" ],
+			[ "inhumaras" ],
+			[ "inhumara" ],
+			[ "inhumáramos" ],
+			[ "inhumarais", "inhumaran" ],
+			[ "inhumaran" ]
+		],
+		"10" : [
+			[ "inhumase" ],
+			[ "inhumases" ],
+			[ "inhumase" ],
+			[ "inhumásemos" ],
+			[ "inhumaseis", "inhumasen" ],
+			[ "inhumasen" ]
+		],
+		"11" : [
+			[ "inhumare" ],
+			[ "inhumares" ],
+			[ "inhumare" ],
+			[ "inhumáremos" ],
+			[ "inhumareis", "inhumaren" ],
+			[ "inhumaren" ]
+		],
+		"12" : {
+			"1" : [ "inhuma" ],
+			"2" : [ "inhume" ],
+			"3" : [ "inhumemos" ],
+			"4" : [ "inhumad" ],
+			"5" : [ "inhumen" ]
+		}
+	}
+}

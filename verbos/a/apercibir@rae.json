@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apercibir",
+	"word" : "apercibir",
+	"infinitivo" : "apercibir",
+	"participio" : [ "apercibido" ],
+	"gerundio" : [ "apercibiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "apercibo" ],
+			[ "apercibes", "apercibís" ],
+			[ "apercibe" ],
+			[ "apercibimos" ],
+			[ "apercibís", "aperciben" ],
+			[ "aperciben" ]
+		],
+		"4" : [
+			[ "apercibí" ],
+			[ "apercibiste" ],
+			[ "apercibió" ],
+			[ "apercibimos" ],
+			[ "apercibisteis", "apercibieron" ],
+			[ "apercibieron" ]
+		],
+		"5" : [
+			[ "apercibía" ],
+			[ "apercibías" ],
+			[ "apercibía" ],
+			[ "apercibíamos" ],
+			[ "apercibíais", "apercibían" ],
+			[ "apercibían" ]
+		],
+		"6" : [
+			[ "apercibiría" ],
+			[ "apercibirías" ],
+			[ "apercibiría" ],
+			[ "apercibiríamos" ],
+			[ "apercibiríais", "apercibirían" ],
+			[ "apercibirían" ]
+		],
+		"7" : [
+			[ "apercibiré" ],
+			[ "apercibirás" ],
+			[ "apercibirá" ],
+			[ "apercibiremos" ],
+			[ "apercibiréis", "apercibirán" ],
+			[ "apercibirán" ]
+		],
+		"8" : [
+			[ "aperciba" ],
+			[ "apercibas" ],
+			[ "aperciba" ],
+			[ "apercibamos" ],
+			[ "apercibáis", "aperciban" ],
+			[ "aperciban" ]
+		],
+		"9" : [
+			[ "apercibiera" ],
+			[ "apercibieras" ],
+			[ "apercibiera" ],
+			[ "apercibiéramos" ],
+			[ "apercibierais", "apercibieran" ],
+			[ "apercibieran" ]
+		],
+		"10" : [
+			[ "apercibiese" ],
+			[ "apercibieses" ],
+			[ "apercibiese" ],
+			[ "apercibiésemos" ],
+			[ "apercibieseis", "apercibiesen" ],
+			[ "apercibiesen" ]
+		],
+		"11" : [
+			[ "apercibiere" ],
+			[ "apercibieres" ],
+			[ "apercibiere" ],
+			[ "apercibiéremos" ],
+			[ "apercibiereis", "apercibieren" ],
+			[ "apercibieren" ]
+		],
+		"12" : {
+			"1" : [ "apercibe" ],
+			"2" : [ "aperciba" ],
+			"3" : [ "apercibamos" ],
+			"4" : [ "apercibid" ],
+			"5" : [ "aperciban" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rasarse",
+	"word" : "rasarse",
+	"infinitivo" : "rasarse",
+	"participio" : [ "rasado" ],
+	"gerundio" : [ "rasándome", "rasándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me raso" ],
+			[ "te rasas", "te rasás" ],
+			[ "se rasa" ],
+			[ "nos rasamos" ],
+			[ "os rasáis", "se rasan" ],
+			[ "se rasan" ]
+		],
+		"4" : [
+			[ "me rasé" ],
+			[ "te rasaste" ],
+			[ "se rasó" ],
+			[ "nos rasamos" ],
+			[ "os rasasteis", "se rasaron" ],
+			[ "se rasaron" ]
+		],
+		"5" : [
+			[ "me rasaba" ],
+			[ "te rasabas" ],
+			[ "se rasaba" ],
+			[ "nos rasábamos" ],
+			[ "os rasabais", "se rasaban" ],
+			[ "se rasaban" ]
+		],
+		"6" : [
+			[ "me rasaría" ],
+			[ "te rasarías" ],
+			[ "se rasaría" ],
+			[ "nos rasaríamos" ],
+			[ "os rasaríais", "se rasarían" ],
+			[ "se rasarían" ]
+		],
+		"7" : [
+			[ "me rasaré" ],
+			[ "te rasarás" ],
+			[ "se rasará" ],
+			[ "nos rasaremos" ],
+			[ "os rasaréis", "se rasarán" ],
+			[ "se rasarán" ]
+		],
+		"8" : [
+			[ "me rase" ],
+			[ "te rases" ],
+			[ "se rase" ],
+			[ "nos rasemos" ],
+			[ "os raséis", "se rasen" ],
+			[ "se rasen" ]
+		],
+		"9" : [
+			[ "me rasara" ],
+			[ "te rasaras" ],
+			[ "se rasara" ],
+			[ "nos rasáramos" ],
+			[ "os rasarais", "se rasaran" ],
+			[ "se rasaran" ]
+		],
+		"10" : [
+			[ "me rasase" ],
+			[ "te rasases" ],
+			[ "se rasase" ],
+			[ "nos rasásemos" ],
+			[ "os rasaseis", "se rasasen" ],
+			[ "se rasasen" ]
+		],
+		"11" : [
+			[ "me rasare" ],
+			[ "te rasares" ],
+			[ "se rasare" ],
+			[ "nos rasáremos" ],
+			[ "os rasareis", "se rasaren" ],
+			[ "se rasaren" ]
+		],
+		"12" : {
+			"1" : [ "rásate" ],
+			"2" : [ "rase" ],
+			"3" : [ "rasemos" ],
+			"4" : [ "rasaos" ],
+			"5" : [ "rásense" ]
+		}
+	}
+}

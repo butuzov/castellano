@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=oponer",
+	"word" : "oponer",
+	"infinitivo" : "oponer",
+	"participio" : [ "opuesto" ],
+	"gerundio" : [ "oponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "opongo" ],
+			[ "opones", "oponés" ],
+			[ "opone" ],
+			[ "oponemos" ],
+			[ "oponéis", "oponen" ],
+			[ "oponen" ]
+		],
+		"4" : [
+			[ "opuse" ],
+			[ "opusiste" ],
+			[ "opuso" ],
+			[ "opusimos" ],
+			[ "opusisteis", "opusieron" ],
+			[ "opusieron" ]
+		],
+		"5" : [
+			[ "oponía" ],
+			[ "oponías" ],
+			[ "oponía" ],
+			[ "oponíamos" ],
+			[ "oponíais", "oponían" ],
+			[ "oponían" ]
+		],
+		"6" : [
+			[ "opondría" ],
+			[ "opondrías" ],
+			[ "opondría" ],
+			[ "opondríamos" ],
+			[ "opondríais", "opondrían" ],
+			[ "opondrían" ]
+		],
+		"7" : [
+			[ "opondré" ],
+			[ "opondrás" ],
+			[ "opondrá" ],
+			[ "opondremos" ],
+			[ "opondréis", "opondrán" ],
+			[ "opondrán" ]
+		],
+		"8" : [
+			[ "oponga" ],
+			[ "opongas" ],
+			[ "oponga" ],
+			[ "opongamos" ],
+			[ "opongáis", "opongan" ],
+			[ "opongan" ]
+		],
+		"9" : [
+			[ "opusiera" ],
+			[ "opusieras" ],
+			[ "opusiera" ],
+			[ "opusiéramos" ],
+			[ "opusierais", "opusieran" ],
+			[ "opusieran" ]
+		],
+		"10" : [
+			[ "opusiese" ],
+			[ "opusieses" ],
+			[ "opusiese" ],
+			[ "opusiésemos" ],
+			[ "opusieseis", "opusiesen" ],
+			[ "opusiesen" ]
+		],
+		"11" : [
+			[ "opusiere" ],
+			[ "opusieres" ],
+			[ "opusiere" ],
+			[ "opusiéremos" ],
+			[ "opusiereis", "opusieren" ],
+			[ "opusieren" ]
+		],
+		"12" : {
+			"1" : [ "opón" ],
+			"2" : [ "oponga" ],
+			"3" : [ "opongamos" ],
+			"4" : [ "oponed" ],
+			"5" : [ "opongan" ]
+		}
+	}
+}

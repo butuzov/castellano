@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=complicar",
+	"word" : "complicar",
+	"infinitivo" : "complicar",
+	"participio" : [ "complicado" ],
+	"gerundio" : [ "complicando" ],
+	"tenses" : {
+		"3" : [
+			[ "complico" ],
+			[ "complicas", "complicás" ],
+			[ "complica" ],
+			[ "complicamos" ],
+			[ "complicáis", "complican" ],
+			[ "complican" ]
+		],
+		"4" : [
+			[ "compliqué" ],
+			[ "complicaste" ],
+			[ "complicó" ],
+			[ "complicamos" ],
+			[ "complicasteis", "complicaron" ],
+			[ "complicaron" ]
+		],
+		"5" : [
+			[ "complicaba" ],
+			[ "complicabas" ],
+			[ "complicaba" ],
+			[ "complicábamos" ],
+			[ "complicabais", "complicaban" ],
+			[ "complicaban" ]
+		],
+		"6" : [
+			[ "complicaría" ],
+			[ "complicarías" ],
+			[ "complicaría" ],
+			[ "complicaríamos" ],
+			[ "complicaríais", "complicarían" ],
+			[ "complicarían" ]
+		],
+		"7" : [
+			[ "complicaré" ],
+			[ "complicarás" ],
+			[ "complicará" ],
+			[ "complicaremos" ],
+			[ "complicaréis", "complicarán" ],
+			[ "complicarán" ]
+		],
+		"8" : [
+			[ "complique" ],
+			[ "compliques" ],
+			[ "complique" ],
+			[ "compliquemos" ],
+			[ "compliquéis", "compliquen" ],
+			[ "compliquen" ]
+		],
+		"9" : [
+			[ "complicara" ],
+			[ "complicaras" ],
+			[ "complicara" ],
+			[ "complicáramos" ],
+			[ "complicarais", "complicaran" ],
+			[ "complicaran" ]
+		],
+		"10" : [
+			[ "complicase" ],
+			[ "complicases" ],
+			[ "complicase" ],
+			[ "complicásemos" ],
+			[ "complicaseis", "complicasen" ],
+			[ "complicasen" ]
+		],
+		"11" : [
+			[ "complicare" ],
+			[ "complicares" ],
+			[ "complicare" ],
+			[ "complicáremos" ],
+			[ "complicareis", "complicaren" ],
+			[ "complicaren" ]
+		],
+		"12" : {
+			"1" : [ "complica" ],
+			"2" : [ "complique" ],
+			"3" : [ "compliquemos" ],
+			"4" : [ "complicad" ],
+			"5" : [ "compliquen" ]
+		}
+	}
+}

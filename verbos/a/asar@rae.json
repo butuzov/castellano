@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asar",
+	"word" : "asar",
+	"infinitivo" : "asar",
+	"participio" : [ "asado" ],
+	"gerundio" : [ "asando" ],
+	"tenses" : {
+		"3" : [
+			[ "aso" ],
+			[ "asas", "asás" ],
+			[ "asa" ],
+			[ "asamos" ],
+			[ "asáis", "asan" ],
+			[ "asan" ]
+		],
+		"4" : [
+			[ "asé" ],
+			[ "asaste" ],
+			[ "asó" ],
+			[ "asamos" ],
+			[ "asasteis", "asaron" ],
+			[ "asaron" ]
+		],
+		"5" : [
+			[ "asaba" ],
+			[ "asabas" ],
+			[ "asaba" ],
+			[ "asábamos" ],
+			[ "asabais", "asaban" ],
+			[ "asaban" ]
+		],
+		"6" : [
+			[ "asaría" ],
+			[ "asarías" ],
+			[ "asaría" ],
+			[ "asaríamos" ],
+			[ "asaríais", "asarían" ],
+			[ "asarían" ]
+		],
+		"7" : [
+			[ "asaré" ],
+			[ "asarás" ],
+			[ "asará" ],
+			[ "asaremos" ],
+			[ "asaréis", "asarán" ],
+			[ "asarán" ]
+		],
+		"8" : [
+			[ "ase" ],
+			[ "ases" ],
+			[ "ase" ],
+			[ "asemos" ],
+			[ "aséis", "asen" ],
+			[ "asen" ]
+		],
+		"9" : [
+			[ "asara" ],
+			[ "asaras" ],
+			[ "asara" ],
+			[ "asáramos" ],
+			[ "asarais", "asaran" ],
+			[ "asaran" ]
+		],
+		"10" : [
+			[ "asase" ],
+			[ "asases" ],
+			[ "asase" ],
+			[ "asásemos" ],
+			[ "asaseis", "asasen" ],
+			[ "asasen" ]
+		],
+		"11" : [
+			[ "asare" ],
+			[ "asares" ],
+			[ "asare" ],
+			[ "asáremos" ],
+			[ "asareis", "asaren" ],
+			[ "asaren" ]
+		],
+		"12" : {
+			"1" : [ "asa" ],
+			"2" : [ "ase" ],
+			"3" : [ "asemos" ],
+			"4" : [ "asad" ],
+			"5" : [ "asen" ]
+		}
+	}
+}

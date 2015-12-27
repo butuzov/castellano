@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entreabrir",
+	"word" : "entreabrir",
+	"infinitivo" : "entreabrir",
+	"participio" : [ "entreabierto" ],
+	"gerundio" : [ "entreabriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "entreabro" ],
+			[ "entreabres", "entreabrís" ],
+			[ "entreabre" ],
+			[ "entreabrimos" ],
+			[ "entreabrís", "entreabren" ],
+			[ "entreabren" ]
+		],
+		"4" : [
+			[ "entreabrí" ],
+			[ "entreabriste" ],
+			[ "entreabrió" ],
+			[ "entreabrimos" ],
+			[ "entreabristeis", "entreabrieron" ],
+			[ "entreabrieron" ]
+		],
+		"5" : [
+			[ "entreabría" ],
+			[ "entreabrías" ],
+			[ "entreabría" ],
+			[ "entreabríamos" ],
+			[ "entreabríais", "entreabrían" ],
+			[ "entreabrían" ]
+		],
+		"6" : [
+			[ "entreabriría" ],
+			[ "entreabrirías" ],
+			[ "entreabriría" ],
+			[ "entreabriríamos" ],
+			[ "entreabriríais", "entreabrirían" ],
+			[ "entreabrirían" ]
+		],
+		"7" : [
+			[ "entreabriré" ],
+			[ "entreabrirás" ],
+			[ "entreabrirá" ],
+			[ "entreabriremos" ],
+			[ "entreabriréis", "entreabrirán" ],
+			[ "entreabrirán" ]
+		],
+		"8" : [
+			[ "entreabra" ],
+			[ "entreabras" ],
+			[ "entreabra" ],
+			[ "entreabramos" ],
+			[ "entreabráis", "entreabran" ],
+			[ "entreabran" ]
+		],
+		"9" : [
+			[ "entreabriera" ],
+			[ "entreabrieras" ],
+			[ "entreabriera" ],
+			[ "entreabriéramos" ],
+			[ "entreabrierais", "entreabrieran" ],
+			[ "entreabrieran" ]
+		],
+		"10" : [
+			[ "entreabriese" ],
+			[ "entreabrieses" ],
+			[ "entreabriese" ],
+			[ "entreabriésemos" ],
+			[ "entreabrieseis", "entreabriesen" ],
+			[ "entreabriesen" ]
+		],
+		"11" : [
+			[ "entreabriere" ],
+			[ "entreabrieres" ],
+			[ "entreabriere" ],
+			[ "entreabriéremos" ],
+			[ "entreabriereis", "entreabrieren" ],
+			[ "entreabrieren" ]
+		],
+		"12" : {
+			"1" : [ "entreabre" ],
+			"2" : [ "entreabra" ],
+			"3" : [ "entreabramos" ],
+			"4" : [ "entreabrid" ],
+			"5" : [ "entreabran" ]
+		}
+	}
+}

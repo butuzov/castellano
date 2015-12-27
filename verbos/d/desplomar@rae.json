@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=desplomar",
+	"word" : "desplomar",
+	"infinitivo" : "desplomar",
+	"participio" : [ "desplomado" ],
+	"gerundio" : [ "desplomando" ],
+	"tenses" : {
+		"3" : [
+			[ "desplomo" ],
+			[ "desplomas", "desplomás" ],
+			[ "desploma" ],
+			[ "desplomamos" ],
+			[ "desplomáis", "desploman" ],
+			[ "desploman" ]
+		],
+		"4" : [
+			[ "desplomé" ],
+			[ "desplomaste" ],
+			[ "desplomó" ],
+			[ "desplomamos" ],
+			[ "desplomasteis", "desplomaron" ],
+			[ "desplomaron" ]
+		],
+		"5" : [
+			[ "desplomaba" ],
+			[ "desplomabas" ],
+			[ "desplomaba" ],
+			[ "desplomábamos" ],
+			[ "desplomabais", "desplomaban" ],
+			[ "desplomaban" ]
+		],
+		"6" : [
+			[ "desplomaría" ],
+			[ "desplomarías" ],
+			[ "desplomaría" ],
+			[ "desplomaríamos" ],
+			[ "desplomaríais", "desplomarían" ],
+			[ "desplomarían" ]
+		],
+		"7" : [
+			[ "desplomaré" ],
+			[ "desplomarás" ],
+			[ "desplomará" ],
+			[ "desplomaremos" ],
+			[ "desplomaréis", "desplomarán" ],
+			[ "desplomarán" ]
+		],
+		"8" : [
+			[ "desplome" ],
+			[ "desplomes" ],
+			[ "desplome" ],
+			[ "desplomemos" ],
+			[ "desploméis", "desplomen" ],
+			[ "desplomen" ]
+		],
+		"9" : [
+			[ "desplomara" ],
+			[ "desplomaras" ],
+			[ "desplomara" ],
+			[ "desplomáramos" ],
+			[ "desplomarais", "desplomaran" ],
+			[ "desplomaran" ]
+		],
+		"10" : [
+			[ "desplomase" ],
+			[ "desplomases" ],
+			[ "desplomase" ],
+			[ "desplomásemos" ],
+			[ "desplomaseis", "desplomasen" ],
+			[ "desplomasen" ]
+		],
+		"11" : [
+			[ "desplomare" ],
+			[ "desplomares" ],
+			[ "desplomare" ],
+			[ "desplomáremos" ],
+			[ "desplomareis", "desplomaren" ],
+			[ "desplomaren" ]
+		],
+		"12" : {
+			"1" : [ "desploma" ],
+			"2" : [ "desplome" ],
+			"3" : [ "desplomemos" ],
+			"4" : [ "desplomad" ],
+			"5" : [ "desplomen" ]
+		}
+	}
+}

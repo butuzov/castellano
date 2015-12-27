@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=sacrificar",
+	"word" : "sacrificar",
+	"infinitivo" : "sacrificar",
+	"participio" : [ "sacrificado" ],
+	"gerundio" : [ "sacrificando" ],
+	"tenses" : {
+		"3" : [
+			[ "sacrifico" ],
+			[ "sacrificas", "sacrificás" ],
+			[ "sacrifica" ],
+			[ "sacrificamos" ],
+			[ "sacrificáis", "sacrifican" ],
+			[ "sacrifican" ]
+		],
+		"4" : [
+			[ "sacrifiqué" ],
+			[ "sacrificaste" ],
+			[ "sacrificó" ],
+			[ "sacrificamos" ],
+			[ "sacrificasteis", "sacrificaron" ],
+			[ "sacrificaron" ]
+		],
+		"5" : [
+			[ "sacrificaba" ],
+			[ "sacrificabas" ],
+			[ "sacrificaba" ],
+			[ "sacrificábamos" ],
+			[ "sacrificabais", "sacrificaban" ],
+			[ "sacrificaban" ]
+		],
+		"6" : [
+			[ "sacrificaría" ],
+			[ "sacrificarías" ],
+			[ "sacrificaría" ],
+			[ "sacrificaríamos" ],
+			[ "sacrificaríais", "sacrificarían" ],
+			[ "sacrificarían" ]
+		],
+		"7" : [
+			[ "sacrificaré" ],
+			[ "sacrificarás" ],
+			[ "sacrificará" ],
+			[ "sacrificaremos" ],
+			[ "sacrificaréis", "sacrificarán" ],
+			[ "sacrificarán" ]
+		],
+		"8" : [
+			[ "sacrifique" ],
+			[ "sacrifiques" ],
+			[ "sacrifique" ],
+			[ "sacrifiquemos" ],
+			[ "sacrifiquéis", "sacrifiquen" ],
+			[ "sacrifiquen" ]
+		],
+		"9" : [
+			[ "sacrificara" ],
+			[ "sacrificaras" ],
+			[ "sacrificara" ],
+			[ "sacrificáramos" ],
+			[ "sacrificarais", "sacrificaran" ],
+			[ "sacrificaran" ]
+		],
+		"10" : [
+			[ "sacrificase" ],
+			[ "sacrificases" ],
+			[ "sacrificase" ],
+			[ "sacrificásemos" ],
+			[ "sacrificaseis", "sacrificasen" ],
+			[ "sacrificasen" ]
+		],
+		"11" : [
+			[ "sacrificare" ],
+			[ "sacrificares" ],
+			[ "sacrificare" ],
+			[ "sacrificáremos" ],
+			[ "sacrificareis", "sacrificaren" ],
+			[ "sacrificaren" ]
+		],
+		"12" : {
+			"1" : [ "sacrifica" ],
+			"2" : [ "sacrifique" ],
+			"3" : [ "sacrifiquemos" ],
+			"4" : [ "sacrificad" ],
+			"5" : [ "sacrifiquen" ]
+		}
+	}
+}

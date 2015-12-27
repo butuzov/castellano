@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estatuir",
+	"word" : "estatuir",
+	"infinitivo" : "estatuir",
+	"participio" : [ "estatuido" ],
+	"gerundio" : [ "estatuyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "estatuyo" ],
+			[ "estatuyes", "estatuís" ],
+			[ "estatuye" ],
+			[ "estatuimos" ],
+			[ "estatuís", "estatuyen" ],
+			[ "estatuyen" ]
+		],
+		"4" : [
+			[ "estatuí" ],
+			[ "estatuiste" ],
+			[ "estatuyó" ],
+			[ "estatuimos" ],
+			[ "estatuisteis", "estatuyeron" ],
+			[ "estatuyeron" ]
+		],
+		"5" : [
+			[ "estatuía" ],
+			[ "estatuías" ],
+			[ "estatuía" ],
+			[ "estatuíamos" ],
+			[ "estatuíais", "estatuían" ],
+			[ "estatuían" ]
+		],
+		"6" : [
+			[ "estatuiría" ],
+			[ "estatuirías" ],
+			[ "estatuiría" ],
+			[ "estatuiríamos" ],
+			[ "estatuiríais", "estatuirían" ],
+			[ "estatuirían" ]
+		],
+		"7" : [
+			[ "estatuiré" ],
+			[ "estatuirás" ],
+			[ "estatuirá" ],
+			[ "estatuiremos" ],
+			[ "estatuiréis", "estatuirán" ],
+			[ "estatuirán" ]
+		],
+		"8" : [
+			[ "estatuya" ],
+			[ "estatuyas" ],
+			[ "estatuya" ],
+			[ "estatuyamos" ],
+			[ "estatuyáis", "estatuyan" ],
+			[ "estatuyan" ]
+		],
+		"9" : [
+			[ "estatuyera" ],
+			[ "estatuyeras" ],
+			[ "estatuyera" ],
+			[ "estatuyéramos" ],
+			[ "estatuyerais", "estatuyeran" ],
+			[ "estatuyeran" ]
+		],
+		"10" : [
+			[ "estatuyese" ],
+			[ "estatuyeses" ],
+			[ "estatuyese" ],
+			[ "estatuyésemos" ],
+			[ "estatuyeseis", "estatuyesen" ],
+			[ "estatuyesen" ]
+		],
+		"11" : [
+			[ "estatuyere" ],
+			[ "estatuyeres" ],
+			[ "estatuyere" ],
+			[ "estatuyéremos" ],
+			[ "estatuyereis", "estatuyeren" ],
+			[ "estatuyeren" ]
+		],
+		"12" : {
+			"1" : [ "estatuye" ],
+			"2" : [ "estatuya" ],
+			"3" : [ "estatuyamos" ],
+			"4" : [ "estatuid" ],
+			"5" : [ "estatuyan" ]
+		}
+	}
+}

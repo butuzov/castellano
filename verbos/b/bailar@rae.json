@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bailar",
+	"word" : "bailar",
+	"infinitivo" : "bailar",
+	"participio" : [ "bailado" ],
+	"gerundio" : [ "bailando" ],
+	"tenses" : {
+		"3" : [
+			[ "bailo" ],
+			[ "bailas", "bailás" ],
+			[ "baila" ],
+			[ "bailamos" ],
+			[ "bailáis", "bailan" ],
+			[ "bailan" ]
+		],
+		"4" : [
+			[ "bailé" ],
+			[ "bailaste" ],
+			[ "bailó" ],
+			[ "bailamos" ],
+			[ "bailasteis", "bailaron" ],
+			[ "bailaron" ]
+		],
+		"5" : [
+			[ "bailaba" ],
+			[ "bailabas" ],
+			[ "bailaba" ],
+			[ "bailábamos" ],
+			[ "bailabais", "bailaban" ],
+			[ "bailaban" ]
+		],
+		"6" : [
+			[ "bailaría" ],
+			[ "bailarías" ],
+			[ "bailaría" ],
+			[ "bailaríamos" ],
+			[ "bailaríais", "bailarían" ],
+			[ "bailarían" ]
+		],
+		"7" : [
+			[ "bailaré" ],
+			[ "bailarás" ],
+			[ "bailará" ],
+			[ "bailaremos" ],
+			[ "bailaréis", "bailarán" ],
+			[ "bailarán" ]
+		],
+		"8" : [
+			[ "baile" ],
+			[ "bailes" ],
+			[ "baile" ],
+			[ "bailemos" ],
+			[ "bailéis", "bailen" ],
+			[ "bailen" ]
+		],
+		"9" : [
+			[ "bailara" ],
+			[ "bailaras" ],
+			[ "bailara" ],
+			[ "bailáramos" ],
+			[ "bailarais", "bailaran" ],
+			[ "bailaran" ]
+		],
+		"10" : [
+			[ "bailase" ],
+			[ "bailases" ],
+			[ "bailase" ],
+			[ "bailásemos" ],
+			[ "bailaseis", "bailasen" ],
+			[ "bailasen" ]
+		],
+		"11" : [
+			[ "bailare" ],
+			[ "bailares" ],
+			[ "bailare" ],
+			[ "bailáremos" ],
+			[ "bailareis", "bailaren" ],
+			[ "bailaren" ]
+		],
+		"12" : {
+			"1" : [ "baila" ],
+			"2" : [ "baile" ],
+			"3" : [ "bailemos" ],
+			"4" : [ "bailad" ],
+			"5" : [ "bailen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=chiflar",
+	"word" : "chiflar",
+	"infinitivo" : "chiflar",
+	"participio" : [ "chiflado" ],
+	"gerundio" : [ "chiflando" ],
+	"tenses" : {
+		"3" : [
+			[ "chiflo" ],
+			[ "chiflas", "chiflás" ],
+			[ "chifla" ],
+			[ "chiflamos" ],
+			[ "chifláis", "chiflan" ],
+			[ "chiflan" ]
+		],
+		"4" : [
+			[ "chiflé" ],
+			[ "chiflaste" ],
+			[ "chifló" ],
+			[ "chiflamos" ],
+			[ "chiflasteis", "chiflaron" ],
+			[ "chiflaron" ]
+		],
+		"5" : [
+			[ "chiflaba" ],
+			[ "chiflabas" ],
+			[ "chiflaba" ],
+			[ "chiflábamos" ],
+			[ "chiflabais", "chiflaban" ],
+			[ "chiflaban" ]
+		],
+		"6" : [
+			[ "chiflaría" ],
+			[ "chiflarías" ],
+			[ "chiflaría" ],
+			[ "chiflaríamos" ],
+			[ "chiflaríais", "chiflarían" ],
+			[ "chiflarían" ]
+		],
+		"7" : [
+			[ "chiflaré" ],
+			[ "chiflarás" ],
+			[ "chiflará" ],
+			[ "chiflaremos" ],
+			[ "chiflaréis", "chiflarán" ],
+			[ "chiflarán" ]
+		],
+		"8" : [
+			[ "chifle" ],
+			[ "chifles" ],
+			[ "chifle" ],
+			[ "chiflemos" ],
+			[ "chifléis", "chiflen" ],
+			[ "chiflen" ]
+		],
+		"9" : [
+			[ "chiflara" ],
+			[ "chiflaras" ],
+			[ "chiflara" ],
+			[ "chifláramos" ],
+			[ "chiflarais", "chiflaran" ],
+			[ "chiflaran" ]
+		],
+		"10" : [
+			[ "chiflase" ],
+			[ "chiflases" ],
+			[ "chiflase" ],
+			[ "chiflásemos" ],
+			[ "chiflaseis", "chiflasen" ],
+			[ "chiflasen" ]
+		],
+		"11" : [
+			[ "chiflare" ],
+			[ "chiflares" ],
+			[ "chiflare" ],
+			[ "chifláremos" ],
+			[ "chiflareis", "chiflaren" ],
+			[ "chiflaren" ]
+		],
+		"12" : {
+			"1" : [ "chifla" ],
+			"2" : [ "chifle" ],
+			"3" : [ "chiflemos" ],
+			"4" : [ "chiflad" ],
+			"5" : [ "chiflen" ]
+		}
+	}
+}

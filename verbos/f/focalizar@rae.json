@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=focalizar",
+	"word" : "focalizar",
+	"infinitivo" : "focalizar",
+	"participio" : [ "focalizado" ],
+	"gerundio" : [ "focalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "focalizo" ],
+			[ "focalizas", "focalizás" ],
+			[ "focaliza" ],
+			[ "focalizamos" ],
+			[ "focalizáis", "focalizan" ],
+			[ "focalizan" ]
+		],
+		"4" : [
+			[ "focalicé" ],
+			[ "focalizaste" ],
+			[ "focalizó" ],
+			[ "focalizamos" ],
+			[ "focalizasteis", "focalizaron" ],
+			[ "focalizaron" ]
+		],
+		"5" : [
+			[ "focalizaba" ],
+			[ "focalizabas" ],
+			[ "focalizaba" ],
+			[ "focalizábamos" ],
+			[ "focalizabais", "focalizaban" ],
+			[ "focalizaban" ]
+		],
+		"6" : [
+			[ "focalizaría" ],
+			[ "focalizarías" ],
+			[ "focalizaría" ],
+			[ "focalizaríamos" ],
+			[ "focalizaríais", "focalizarían" ],
+			[ "focalizarían" ]
+		],
+		"7" : [
+			[ "focalizaré" ],
+			[ "focalizarás" ],
+			[ "focalizará" ],
+			[ "focalizaremos" ],
+			[ "focalizaréis", "focalizarán" ],
+			[ "focalizarán" ]
+		],
+		"8" : [
+			[ "focalice" ],
+			[ "focalices" ],
+			[ "focalice" ],
+			[ "focalicemos" ],
+			[ "focalicéis", "focalicen" ],
+			[ "focalicen" ]
+		],
+		"9" : [
+			[ "focalizara" ],
+			[ "focalizaras" ],
+			[ "focalizara" ],
+			[ "focalizáramos" ],
+			[ "focalizarais", "focalizaran" ],
+			[ "focalizaran" ]
+		],
+		"10" : [
+			[ "focalizase" ],
+			[ "focalizases" ],
+			[ "focalizase" ],
+			[ "focalizásemos" ],
+			[ "focalizaseis", "focalizasen" ],
+			[ "focalizasen" ]
+		],
+		"11" : [
+			[ "focalizare" ],
+			[ "focalizares" ],
+			[ "focalizare" ],
+			[ "focalizáremos" ],
+			[ "focalizareis", "focalizaren" ],
+			[ "focalizaren" ]
+		],
+		"12" : {
+			"1" : [ "focaliza" ],
+			"2" : [ "focalice" ],
+			"3" : [ "focalicemos" ],
+			"4" : [ "focalizad" ],
+			"5" : [ "focalicen" ]
+		}
+	}
+}

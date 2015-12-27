@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=descontar",
+	"word" : "descontar",
+	"infinitivo" : "descontar",
+	"participio" : [ "descontado" ],
+	"gerundio" : [ "descontando" ],
+	"tenses" : {
+		"3" : [
+			[ "descuento" ],
+			[ "descuentas", "descontás" ],
+			[ "descuenta" ],
+			[ "descontamos" ],
+			[ "descontáis", "descuentan" ],
+			[ "descuentan" ]
+		],
+		"4" : [
+			[ "desconté" ],
+			[ "descontaste" ],
+			[ "descontó" ],
+			[ "descontamos" ],
+			[ "descontasteis", "descontaron" ],
+			[ "descontaron" ]
+		],
+		"5" : [
+			[ "descontaba" ],
+			[ "descontabas" ],
+			[ "descontaba" ],
+			[ "descontábamos" ],
+			[ "descontabais", "descontaban" ],
+			[ "descontaban" ]
+		],
+		"6" : [
+			[ "descontaría" ],
+			[ "descontarías" ],
+			[ "descontaría" ],
+			[ "descontaríamos" ],
+			[ "descontaríais", "descontarían" ],
+			[ "descontarían" ]
+		],
+		"7" : [
+			[ "descontaré" ],
+			[ "descontarás" ],
+			[ "descontará" ],
+			[ "descontaremos" ],
+			[ "descontaréis", "descontarán" ],
+			[ "descontarán" ]
+		],
+		"8" : [
+			[ "descuente" ],
+			[ "descuentes" ],
+			[ "descuente" ],
+			[ "descontemos" ],
+			[ "descontéis", "descuenten" ],
+			[ "descuenten" ]
+		],
+		"9" : [
+			[ "descontara" ],
+			[ "descontaras" ],
+			[ "descontara" ],
+			[ "descontáramos" ],
+			[ "descontarais", "descontaran" ],
+			[ "descontaran" ]
+		],
+		"10" : [
+			[ "descontase" ],
+			[ "descontases" ],
+			[ "descontase" ],
+			[ "descontásemos" ],
+			[ "descontaseis", "descontasen" ],
+			[ "descontasen" ]
+		],
+		"11" : [
+			[ "descontare" ],
+			[ "descontares" ],
+			[ "descontare" ],
+			[ "descontáremos" ],
+			[ "descontareis", "descontaren" ],
+			[ "descontaren" ]
+		],
+		"12" : {
+			"1" : [ "descuenta" ],
+			"2" : [ "descuente" ],
+			"3" : [ "descontemos" ],
+			"4" : [ "descontad" ],
+			"5" : [ "descuenten" ]
+		}
+	}
+}

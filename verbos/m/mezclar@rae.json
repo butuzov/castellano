@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mezclar",
+	"word" : "mezclar",
+	"infinitivo" : "mezclar",
+	"participio" : [ "mezclado" ],
+	"gerundio" : [ "mezclando" ],
+	"tenses" : {
+		"3" : [
+			[ "mezclo" ],
+			[ "mezclas", "mezclás" ],
+			[ "mezcla" ],
+			[ "mezclamos" ],
+			[ "mezcláis", "mezclan" ],
+			[ "mezclan" ]
+		],
+		"4" : [
+			[ "mezclé" ],
+			[ "mezclaste" ],
+			[ "mezcló" ],
+			[ "mezclamos" ],
+			[ "mezclasteis", "mezclaron" ],
+			[ "mezclaron" ]
+		],
+		"5" : [
+			[ "mezclaba" ],
+			[ "mezclabas" ],
+			[ "mezclaba" ],
+			[ "mezclábamos" ],
+			[ "mezclabais", "mezclaban" ],
+			[ "mezclaban" ]
+		],
+		"6" : [
+			[ "mezclaría" ],
+			[ "mezclarías" ],
+			[ "mezclaría" ],
+			[ "mezclaríamos" ],
+			[ "mezclaríais", "mezclarían" ],
+			[ "mezclarían" ]
+		],
+		"7" : [
+			[ "mezclaré" ],
+			[ "mezclarás" ],
+			[ "mezclará" ],
+			[ "mezclaremos" ],
+			[ "mezclaréis", "mezclarán" ],
+			[ "mezclarán" ]
+		],
+		"8" : [
+			[ "mezcle" ],
+			[ "mezcles" ],
+			[ "mezcle" ],
+			[ "mezclemos" ],
+			[ "mezcléis", "mezclen" ],
+			[ "mezclen" ]
+		],
+		"9" : [
+			[ "mezclara" ],
+			[ "mezclaras" ],
+			[ "mezclara" ],
+			[ "mezcláramos" ],
+			[ "mezclarais", "mezclaran" ],
+			[ "mezclaran" ]
+		],
+		"10" : [
+			[ "mezclase" ],
+			[ "mezclases" ],
+			[ "mezclase" ],
+			[ "mezclásemos" ],
+			[ "mezclaseis", "mezclasen" ],
+			[ "mezclasen" ]
+		],
+		"11" : [
+			[ "mezclare" ],
+			[ "mezclares" ],
+			[ "mezclare" ],
+			[ "mezcláremos" ],
+			[ "mezclareis", "mezclaren" ],
+			[ "mezclaren" ]
+		],
+		"12" : {
+			"1" : [ "mezcla" ],
+			"2" : [ "mezcle" ],
+			"3" : [ "mezclemos" ],
+			"4" : [ "mezclad" ],
+			"5" : [ "mezclen" ]
+		}
+	}
+}

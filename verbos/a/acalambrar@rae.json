@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acalambrar",
+	"word" : "acalambrar",
+	"infinitivo" : "acalambrar",
+	"participio" : [ "acalambrado" ],
+	"gerundio" : [ "acalambrando" ],
+	"tenses" : {
+		"3" : [
+			[ "acalambro" ],
+			[ "acalambras", "acalambrás" ],
+			[ "acalambra" ],
+			[ "acalambramos" ],
+			[ "acalambráis", "acalambran" ],
+			[ "acalambran" ]
+		],
+		"4" : [
+			[ "acalambré" ],
+			[ "acalambraste" ],
+			[ "acalambró" ],
+			[ "acalambramos" ],
+			[ "acalambrasteis", "acalambraron" ],
+			[ "acalambraron" ]
+		],
+		"5" : [
+			[ "acalambraba" ],
+			[ "acalambrabas" ],
+			[ "acalambraba" ],
+			[ "acalambrábamos" ],
+			[ "acalambrabais", "acalambraban" ],
+			[ "acalambraban" ]
+		],
+		"6" : [
+			[ "acalambraría" ],
+			[ "acalambrarías" ],
+			[ "acalambraría" ],
+			[ "acalambraríamos" ],
+			[ "acalambraríais", "acalambrarían" ],
+			[ "acalambrarían" ]
+		],
+		"7" : [
+			[ "acalambraré" ],
+			[ "acalambrarás" ],
+			[ "acalambrará" ],
+			[ "acalambraremos" ],
+			[ "acalambraréis", "acalambrarán" ],
+			[ "acalambrarán" ]
+		],
+		"8" : [
+			[ "acalambre" ],
+			[ "acalambres" ],
+			[ "acalambre" ],
+			[ "acalambremos" ],
+			[ "acalambréis", "acalambren" ],
+			[ "acalambren" ]
+		],
+		"9" : [
+			[ "acalambrara" ],
+			[ "acalambraras" ],
+			[ "acalambrara" ],
+			[ "acalambráramos" ],
+			[ "acalambrarais", "acalambraran" ],
+			[ "acalambraran" ]
+		],
+		"10" : [
+			[ "acalambrase" ],
+			[ "acalambrases" ],
+			[ "acalambrase" ],
+			[ "acalambrásemos" ],
+			[ "acalambraseis", "acalambrasen" ],
+			[ "acalambrasen" ]
+		],
+		"11" : [
+			[ "acalambrare" ],
+			[ "acalambrares" ],
+			[ "acalambrare" ],
+			[ "acalambráremos" ],
+			[ "acalambrareis", "acalambraren" ],
+			[ "acalambraren" ]
+		],
+		"12" : {
+			"1" : [ "acalambra" ],
+			"2" : [ "acalambre" ],
+			"3" : [ "acalambremos" ],
+			"4" : [ "acalambrad" ],
+			"5" : [ "acalambren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=meteorizar",
+	"word" : "meteorizar",
+	"infinitivo" : "meteorizar",
+	"participio" : [ "meteorizado" ],
+	"gerundio" : [ "meteorizando" ],
+	"tenses" : {
+		"3" : [
+			[ "meteorizo" ],
+			[ "meteorizas", "meteorizás" ],
+			[ "meteoriza" ],
+			[ "meteorizamos" ],
+			[ "meteorizáis", "meteorizan" ],
+			[ "meteorizan" ]
+		],
+		"4" : [
+			[ "meteoricé" ],
+			[ "meteorizaste" ],
+			[ "meteorizó" ],
+			[ "meteorizamos" ],
+			[ "meteorizasteis", "meteorizaron" ],
+			[ "meteorizaron" ]
+		],
+		"5" : [
+			[ "meteorizaba" ],
+			[ "meteorizabas" ],
+			[ "meteorizaba" ],
+			[ "meteorizábamos" ],
+			[ "meteorizabais", "meteorizaban" ],
+			[ "meteorizaban" ]
+		],
+		"6" : [
+			[ "meteorizaría" ],
+			[ "meteorizarías" ],
+			[ "meteorizaría" ],
+			[ "meteorizaríamos" ],
+			[ "meteorizaríais", "meteorizarían" ],
+			[ "meteorizarían" ]
+		],
+		"7" : [
+			[ "meteorizaré" ],
+			[ "meteorizarás" ],
+			[ "meteorizará" ],
+			[ "meteorizaremos" ],
+			[ "meteorizaréis", "meteorizarán" ],
+			[ "meteorizarán" ]
+		],
+		"8" : [
+			[ "meteorice" ],
+			[ "meteorices" ],
+			[ "meteorice" ],
+			[ "meteoricemos" ],
+			[ "meteoricéis", "meteoricen" ],
+			[ "meteoricen" ]
+		],
+		"9" : [
+			[ "meteorizara" ],
+			[ "meteorizaras" ],
+			[ "meteorizara" ],
+			[ "meteorizáramos" ],
+			[ "meteorizarais", "meteorizaran" ],
+			[ "meteorizaran" ]
+		],
+		"10" : [
+			[ "meteorizase" ],
+			[ "meteorizases" ],
+			[ "meteorizase" ],
+			[ "meteorizásemos" ],
+			[ "meteorizaseis", "meteorizasen" ],
+			[ "meteorizasen" ]
+		],
+		"11" : [
+			[ "meteorizare" ],
+			[ "meteorizares" ],
+			[ "meteorizare" ],
+			[ "meteorizáremos" ],
+			[ "meteorizareis", "meteorizaren" ],
+			[ "meteorizaren" ]
+		],
+		"12" : {
+			"1" : [ "meteoriza" ],
+			"2" : [ "meteorice" ],
+			"3" : [ "meteoricemos" ],
+			"4" : [ "meteorizad" ],
+			"5" : [ "meteoricen" ]
+		}
+	}
+}

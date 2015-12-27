@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=afamar",
+	"word" : "afamar",
+	"infinitivo" : "afamar",
+	"participio" : [ "afamado" ],
+	"gerundio" : [ "afamando" ],
+	"tenses" : {
+		"3" : [
+			[ "afamo" ],
+			[ "afamas", "afamás" ],
+			[ "afama" ],
+			[ "afamamos" ],
+			[ "afamáis", "afaman" ],
+			[ "afaman" ]
+		],
+		"4" : [
+			[ "afamé" ],
+			[ "afamaste" ],
+			[ "afamó" ],
+			[ "afamamos" ],
+			[ "afamasteis", "afamaron" ],
+			[ "afamaron" ]
+		],
+		"5" : [
+			[ "afamaba" ],
+			[ "afamabas" ],
+			[ "afamaba" ],
+			[ "afamábamos" ],
+			[ "afamabais", "afamaban" ],
+			[ "afamaban" ]
+		],
+		"6" : [
+			[ "afamaría" ],
+			[ "afamarías" ],
+			[ "afamaría" ],
+			[ "afamaríamos" ],
+			[ "afamaríais", "afamarían" ],
+			[ "afamarían" ]
+		],
+		"7" : [
+			[ "afamaré" ],
+			[ "afamarás" ],
+			[ "afamará" ],
+			[ "afamaremos" ],
+			[ "afamaréis", "afamarán" ],
+			[ "afamarán" ]
+		],
+		"8" : [
+			[ "afame" ],
+			[ "afames" ],
+			[ "afame" ],
+			[ "afamemos" ],
+			[ "afaméis", "afamen" ],
+			[ "afamen" ]
+		],
+		"9" : [
+			[ "afamara" ],
+			[ "afamaras" ],
+			[ "afamara" ],
+			[ "afamáramos" ],
+			[ "afamarais", "afamaran" ],
+			[ "afamaran" ]
+		],
+		"10" : [
+			[ "afamase" ],
+			[ "afamases" ],
+			[ "afamase" ],
+			[ "afamásemos" ],
+			[ "afamaseis", "afamasen" ],
+			[ "afamasen" ]
+		],
+		"11" : [
+			[ "afamare" ],
+			[ "afamares" ],
+			[ "afamare" ],
+			[ "afamáremos" ],
+			[ "afamareis", "afamaren" ],
+			[ "afamaren" ]
+		],
+		"12" : {
+			"1" : [ "afama" ],
+			"2" : [ "afame" ],
+			"3" : [ "afamemos" ],
+			"4" : [ "afamad" ],
+			"5" : [ "afamen" ]
+		}
+	}
+}

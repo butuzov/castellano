@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=tasar",
+	"word" : "tasar",
+	"infinitivo" : "tasar",
+	"participio" : [ "tasado" ],
+	"gerundio" : [ "tasando" ],
+	"tenses" : {
+		"3" : [
+			[ "taso" ],
+			[ "tasas", "tasás" ],
+			[ "tasa" ],
+			[ "tasamos" ],
+			[ "tasáis", "tasan" ],
+			[ "tasan" ]
+		],
+		"4" : [
+			[ "tasé" ],
+			[ "tasaste" ],
+			[ "tasó" ],
+			[ "tasamos" ],
+			[ "tasasteis", "tasaron" ],
+			[ "tasaron" ]
+		],
+		"5" : [
+			[ "tasaba" ],
+			[ "tasabas" ],
+			[ "tasaba" ],
+			[ "tasábamos" ],
+			[ "tasabais", "tasaban" ],
+			[ "tasaban" ]
+		],
+		"6" : [
+			[ "tasaría" ],
+			[ "tasarías" ],
+			[ "tasaría" ],
+			[ "tasaríamos" ],
+			[ "tasaríais", "tasarían" ],
+			[ "tasarían" ]
+		],
+		"7" : [
+			[ "tasaré" ],
+			[ "tasarás" ],
+			[ "tasará" ],
+			[ "tasaremos" ],
+			[ "tasaréis", "tasarán" ],
+			[ "tasarán" ]
+		],
+		"8" : [
+			[ "tase" ],
+			[ "tases" ],
+			[ "tase" ],
+			[ "tasemos" ],
+			[ "taséis", "tasen" ],
+			[ "tasen" ]
+		],
+		"9" : [
+			[ "tasara" ],
+			[ "tasaras" ],
+			[ "tasara" ],
+			[ "tasáramos" ],
+			[ "tasarais", "tasaran" ],
+			[ "tasaran" ]
+		],
+		"10" : [
+			[ "tasase" ],
+			[ "tasases" ],
+			[ "tasase" ],
+			[ "tasásemos" ],
+			[ "tasaseis", "tasasen" ],
+			[ "tasasen" ]
+		],
+		"11" : [
+			[ "tasare" ],
+			[ "tasares" ],
+			[ "tasare" ],
+			[ "tasáremos" ],
+			[ "tasareis", "tasaren" ],
+			[ "tasaren" ]
+		],
+		"12" : {
+			"1" : [ "tasa" ],
+			"2" : [ "tase" ],
+			"3" : [ "tasemos" ],
+			"4" : [ "tasad" ],
+			"5" : [ "tasen" ]
+		}
+	}
+}

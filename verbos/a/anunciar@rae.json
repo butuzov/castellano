@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=anunciar",
+	"word" : "anunciar",
+	"infinitivo" : "anunciar",
+	"participio" : [ "anunciado" ],
+	"gerundio" : [ "anunciando" ],
+	"tenses" : {
+		"3" : [
+			[ "anuncio" ],
+			[ "anuncias", "anunciás" ],
+			[ "anuncia" ],
+			[ "anunciamos" ],
+			[ "anunciáis", "anuncian" ],
+			[ "anuncian" ]
+		],
+		"4" : [
+			[ "anuncié" ],
+			[ "anunciaste" ],
+			[ "anunció" ],
+			[ "anunciamos" ],
+			[ "anunciasteis", "anunciaron" ],
+			[ "anunciaron" ]
+		],
+		"5" : [
+			[ "anunciaba" ],
+			[ "anunciabas" ],
+			[ "anunciaba" ],
+			[ "anunciábamos" ],
+			[ "anunciabais", "anunciaban" ],
+			[ "anunciaban" ]
+		],
+		"6" : [
+			[ "anunciaría" ],
+			[ "anunciarías" ],
+			[ "anunciaría" ],
+			[ "anunciaríamos" ],
+			[ "anunciaríais", "anunciarían" ],
+			[ "anunciarían" ]
+		],
+		"7" : [
+			[ "anunciaré" ],
+			[ "anunciarás" ],
+			[ "anunciará" ],
+			[ "anunciaremos" ],
+			[ "anunciaréis", "anunciarán" ],
+			[ "anunciarán" ]
+		],
+		"8" : [
+			[ "anuncie" ],
+			[ "anuncies" ],
+			[ "anuncie" ],
+			[ "anunciemos" ],
+			[ "anunciéis", "anuncien" ],
+			[ "anuncien" ]
+		],
+		"9" : [
+			[ "anunciara" ],
+			[ "anunciaras" ],
+			[ "anunciara" ],
+			[ "anunciáramos" ],
+			[ "anunciarais", "anunciaran" ],
+			[ "anunciaran" ]
+		],
+		"10" : [
+			[ "anunciase" ],
+			[ "anunciases" ],
+			[ "anunciase" ],
+			[ "anunciásemos" ],
+			[ "anunciaseis", "anunciasen" ],
+			[ "anunciasen" ]
+		],
+		"11" : [
+			[ "anunciare" ],
+			[ "anunciares" ],
+			[ "anunciare" ],
+			[ "anunciáremos" ],
+			[ "anunciareis", "anunciaren" ],
+			[ "anunciaren" ]
+		],
+		"12" : {
+			"1" : [ "anuncia" ],
+			"2" : [ "anuncie" ],
+			"3" : [ "anunciemos" ],
+			"4" : [ "anunciad" ],
+			"5" : [ "anuncien" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=postrar",
+	"word" : "postrar",
+	"infinitivo" : "postrar",
+	"participio" : [ "postrado" ],
+	"gerundio" : [ "postrando" ],
+	"tenses" : {
+		"3" : [
+			[ "postro" ],
+			[ "postras", "postrás" ],
+			[ "postra" ],
+			[ "postramos" ],
+			[ "postráis", "postran" ],
+			[ "postran" ]
+		],
+		"4" : [
+			[ "postré" ],
+			[ "postraste" ],
+			[ "postró" ],
+			[ "postramos" ],
+			[ "postrasteis", "postraron" ],
+			[ "postraron" ]
+		],
+		"5" : [
+			[ "postraba" ],
+			[ "postrabas" ],
+			[ "postraba" ],
+			[ "postrábamos" ],
+			[ "postrabais", "postraban" ],
+			[ "postraban" ]
+		],
+		"6" : [
+			[ "postraría" ],
+			[ "postrarías" ],
+			[ "postraría" ],
+			[ "postraríamos" ],
+			[ "postraríais", "postrarían" ],
+			[ "postrarían" ]
+		],
+		"7" : [
+			[ "postraré" ],
+			[ "postrarás" ],
+			[ "postrará" ],
+			[ "postraremos" ],
+			[ "postraréis", "postrarán" ],
+			[ "postrarán" ]
+		],
+		"8" : [
+			[ "postre" ],
+			[ "postres" ],
+			[ "postre" ],
+			[ "postremos" ],
+			[ "postréis", "postren" ],
+			[ "postren" ]
+		],
+		"9" : [
+			[ "postrara" ],
+			[ "postraras" ],
+			[ "postrara" ],
+			[ "postráramos" ],
+			[ "postrarais", "postraran" ],
+			[ "postraran" ]
+		],
+		"10" : [
+			[ "postrase" ],
+			[ "postrases" ],
+			[ "postrase" ],
+			[ "postrásemos" ],
+			[ "postraseis", "postrasen" ],
+			[ "postrasen" ]
+		],
+		"11" : [
+			[ "postrare" ],
+			[ "postrares" ],
+			[ "postrare" ],
+			[ "postráremos" ],
+			[ "postrareis", "postraren" ],
+			[ "postraren" ]
+		],
+		"12" : {
+			"1" : [ "postra" ],
+			"2" : [ "postre" ],
+			"3" : [ "postremos" ],
+			"4" : [ "postrad" ],
+			"5" : [ "postren" ]
+		}
+	}
+}

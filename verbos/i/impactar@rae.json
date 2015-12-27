@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=impactar",
+	"word" : "impactar",
+	"infinitivo" : "impactar",
+	"participio" : [ "impactado" ],
+	"gerundio" : [ "impactando" ],
+	"tenses" : {
+		"3" : [
+			[ "impacto" ],
+			[ "impactas", "impactás" ],
+			[ "impacta" ],
+			[ "impactamos" ],
+			[ "impactáis", "impactan" ],
+			[ "impactan" ]
+		],
+		"4" : [
+			[ "impacté" ],
+			[ "impactaste" ],
+			[ "impactó" ],
+			[ "impactamos" ],
+			[ "impactasteis", "impactaron" ],
+			[ "impactaron" ]
+		],
+		"5" : [
+			[ "impactaba" ],
+			[ "impactabas" ],
+			[ "impactaba" ],
+			[ "impactábamos" ],
+			[ "impactabais", "impactaban" ],
+			[ "impactaban" ]
+		],
+		"6" : [
+			[ "impactaría" ],
+			[ "impactarías" ],
+			[ "impactaría" ],
+			[ "impactaríamos" ],
+			[ "impactaríais", "impactarían" ],
+			[ "impactarían" ]
+		],
+		"7" : [
+			[ "impactaré" ],
+			[ "impactarás" ],
+			[ "impactará" ],
+			[ "impactaremos" ],
+			[ "impactaréis", "impactarán" ],
+			[ "impactarán" ]
+		],
+		"8" : [
+			[ "impacte" ],
+			[ "impactes" ],
+			[ "impacte" ],
+			[ "impactemos" ],
+			[ "impactéis", "impacten" ],
+			[ "impacten" ]
+		],
+		"9" : [
+			[ "impactara" ],
+			[ "impactaras" ],
+			[ "impactara" ],
+			[ "impactáramos" ],
+			[ "impactarais", "impactaran" ],
+			[ "impactaran" ]
+		],
+		"10" : [
+			[ "impactase" ],
+			[ "impactases" ],
+			[ "impactase" ],
+			[ "impactásemos" ],
+			[ "impactaseis", "impactasen" ],
+			[ "impactasen" ]
+		],
+		"11" : [
+			[ "impactare" ],
+			[ "impactares" ],
+			[ "impactare" ],
+			[ "impactáremos" ],
+			[ "impactareis", "impactaren" ],
+			[ "impactaren" ]
+		],
+		"12" : {
+			"1" : [ "impacta" ],
+			"2" : [ "impacte" ],
+			"3" : [ "impactemos" ],
+			"4" : [ "impactad" ],
+			"5" : [ "impacten" ]
+		}
+	}
+}

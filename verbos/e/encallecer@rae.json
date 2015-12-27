@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=encallecer",
+	"word" : "encallecer",
+	"infinitivo" : "encallecer",
+	"participio" : [ "encallecido" ],
+	"gerundio" : [ "encalleciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "encallezco" ],
+			[ "encalleces", "encallecés" ],
+			[ "encallece" ],
+			[ "encallecemos" ],
+			[ "encallecéis", "encallecen" ],
+			[ "encallecen" ]
+		],
+		"4" : [
+			[ "encallecí" ],
+			[ "encalleciste" ],
+			[ "encalleció" ],
+			[ "encallecimos" ],
+			[ "encallecisteis", "encallecieron" ],
+			[ "encallecieron" ]
+		],
+		"5" : [
+			[ "encallecía" ],
+			[ "encallecías" ],
+			[ "encallecía" ],
+			[ "encallecíamos" ],
+			[ "encallecíais", "encallecían" ],
+			[ "encallecían" ]
+		],
+		"6" : [
+			[ "encallecería" ],
+			[ "encallecerías" ],
+			[ "encallecería" ],
+			[ "encalleceríamos" ],
+			[ "encalleceríais", "encallecerían" ],
+			[ "encallecerían" ]
+		],
+		"7" : [
+			[ "encalleceré" ],
+			[ "encallecerás" ],
+			[ "encallecerá" ],
+			[ "encalleceremos" ],
+			[ "encalleceréis", "encallecerán" ],
+			[ "encallecerán" ]
+		],
+		"8" : [
+			[ "encallezca" ],
+			[ "encallezcas" ],
+			[ "encallezca" ],
+			[ "encallezcamos" ],
+			[ "encallezcáis", "encallezcan" ],
+			[ "encallezcan" ]
+		],
+		"9" : [
+			[ "encalleciera" ],
+			[ "encallecieras" ],
+			[ "encalleciera" ],
+			[ "encalleciéramos" ],
+			[ "encallecierais", "encallecieran" ],
+			[ "encallecieran" ]
+		],
+		"10" : [
+			[ "encalleciese" ],
+			[ "encallecieses" ],
+			[ "encalleciese" ],
+			[ "encalleciésemos" ],
+			[ "encallecieseis", "encalleciesen" ],
+			[ "encalleciesen" ]
+		],
+		"11" : [
+			[ "encalleciere" ],
+			[ "encallecieres" ],
+			[ "encalleciere" ],
+			[ "encalleciéremos" ],
+			[ "encalleciereis", "encallecieren" ],
+			[ "encallecieren" ]
+		],
+		"12" : {
+			"1" : [ "encallece" ],
+			"2" : [ "encallezca" ],
+			"3" : [ "encallezcamos" ],
+			"4" : [ "encalleced" ],
+			"5" : [ "encallezcan" ]
+		}
+	}
+}

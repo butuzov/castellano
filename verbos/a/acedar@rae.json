@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=acedar",
+	"word" : "acedar",
+	"infinitivo" : "acedar",
+	"participio" : [ "acedado" ],
+	"gerundio" : [ "acedando" ],
+	"tenses" : {
+		"3" : [
+			[ "acedo" ],
+			[ "acedas", "acedás" ],
+			[ "aceda" ],
+			[ "acedamos" ],
+			[ "acedáis", "acedan" ],
+			[ "acedan" ]
+		],
+		"4" : [
+			[ "acedé" ],
+			[ "acedaste" ],
+			[ "acedó" ],
+			[ "acedamos" ],
+			[ "acedasteis", "acedaron" ],
+			[ "acedaron" ]
+		],
+		"5" : [
+			[ "acedaba" ],
+			[ "acedabas" ],
+			[ "acedaba" ],
+			[ "acedábamos" ],
+			[ "acedabais", "acedaban" ],
+			[ "acedaban" ]
+		],
+		"6" : [
+			[ "acedaría" ],
+			[ "acedarías" ],
+			[ "acedaría" ],
+			[ "acedaríamos" ],
+			[ "acedaríais", "acedarían" ],
+			[ "acedarían" ]
+		],
+		"7" : [
+			[ "acedaré" ],
+			[ "acedarás" ],
+			[ "acedará" ],
+			[ "acedaremos" ],
+			[ "acedaréis", "acedarán" ],
+			[ "acedarán" ]
+		],
+		"8" : [
+			[ "acede" ],
+			[ "acedes" ],
+			[ "acede" ],
+			[ "acedemos" ],
+			[ "acedéis", "aceden" ],
+			[ "aceden" ]
+		],
+		"9" : [
+			[ "acedara" ],
+			[ "acedaras" ],
+			[ "acedara" ],
+			[ "acedáramos" ],
+			[ "acedarais", "acedaran" ],
+			[ "acedaran" ]
+		],
+		"10" : [
+			[ "acedase" ],
+			[ "acedases" ],
+			[ "acedase" ],
+			[ "acedásemos" ],
+			[ "acedaseis", "acedasen" ],
+			[ "acedasen" ]
+		],
+		"11" : [
+			[ "acedare" ],
+			[ "acedares" ],
+			[ "acedare" ],
+			[ "acedáremos" ],
+			[ "acedareis", "acedaren" ],
+			[ "acedaren" ]
+		],
+		"12" : {
+			"1" : [ "aceda" ],
+			"2" : [ "acede" ],
+			"3" : [ "acedemos" ],
+			"4" : [ "acedad" ],
+			"5" : [ "aceden" ]
+		}
+	}
+}

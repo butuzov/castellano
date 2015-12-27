@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=libar",
+	"word" : "libar",
+	"infinitivo" : "libar",
+	"participio" : [ "libado" ],
+	"gerundio" : [ "libando" ],
+	"tenses" : {
+		"3" : [
+			[ "libo" ],
+			[ "libas", "libás" ],
+			[ "liba" ],
+			[ "libamos" ],
+			[ "libáis", "liban" ],
+			[ "liban" ]
+		],
+		"4" : [
+			[ "libé" ],
+			[ "libaste" ],
+			[ "libó" ],
+			[ "libamos" ],
+			[ "libasteis", "libaron" ],
+			[ "libaron" ]
+		],
+		"5" : [
+			[ "libaba" ],
+			[ "libabas" ],
+			[ "libaba" ],
+			[ "libábamos" ],
+			[ "libabais", "libaban" ],
+			[ "libaban" ]
+		],
+		"6" : [
+			[ "libaría" ],
+			[ "libarías" ],
+			[ "libaría" ],
+			[ "libaríamos" ],
+			[ "libaríais", "libarían" ],
+			[ "libarían" ]
+		],
+		"7" : [
+			[ "libaré" ],
+			[ "libarás" ],
+			[ "libará" ],
+			[ "libaremos" ],
+			[ "libaréis", "libarán" ],
+			[ "libarán" ]
+		],
+		"8" : [
+			[ "libe" ],
+			[ "libes" ],
+			[ "libe" ],
+			[ "libemos" ],
+			[ "libéis", "liben" ],
+			[ "liben" ]
+		],
+		"9" : [
+			[ "libara" ],
+			[ "libaras" ],
+			[ "libara" ],
+			[ "libáramos" ],
+			[ "libarais", "libaran" ],
+			[ "libaran" ]
+		],
+		"10" : [
+			[ "libase" ],
+			[ "libases" ],
+			[ "libase" ],
+			[ "libásemos" ],
+			[ "libaseis", "libasen" ],
+			[ "libasen" ]
+		],
+		"11" : [
+			[ "libare" ],
+			[ "libares" ],
+			[ "libare" ],
+			[ "libáremos" ],
+			[ "libareis", "libaren" ],
+			[ "libaren" ]
+		],
+		"12" : {
+			"1" : [ "liba" ],
+			"2" : [ "libe" ],
+			"3" : [ "libemos" ],
+			"4" : [ "libad" ],
+			"5" : [ "liben" ]
+		}
+	}
+}

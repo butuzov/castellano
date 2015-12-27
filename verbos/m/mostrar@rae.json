@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=mostrar",
+	"word" : "mostrar",
+	"infinitivo" : "mostrar",
+	"participio" : [ "mostrado" ],
+	"gerundio" : [ "mostrando" ],
+	"tenses" : {
+		"3" : [
+			[ "muestro" ],
+			[ "muestras", "mostrás" ],
+			[ "muestra" ],
+			[ "mostramos" ],
+			[ "mostráis", "muestran" ],
+			[ "muestran" ]
+		],
+		"4" : [
+			[ "mostré" ],
+			[ "mostraste" ],
+			[ "mostró" ],
+			[ "mostramos" ],
+			[ "mostrasteis", "mostraron" ],
+			[ "mostraron" ]
+		],
+		"5" : [
+			[ "mostraba" ],
+			[ "mostrabas" ],
+			[ "mostraba" ],
+			[ "mostrábamos" ],
+			[ "mostrabais", "mostraban" ],
+			[ "mostraban" ]
+		],
+		"6" : [
+			[ "mostraría" ],
+			[ "mostrarías" ],
+			[ "mostraría" ],
+			[ "mostraríamos" ],
+			[ "mostraríais", "mostrarían" ],
+			[ "mostrarían" ]
+		],
+		"7" : [
+			[ "mostraré" ],
+			[ "mostrarás" ],
+			[ "mostrará" ],
+			[ "mostraremos" ],
+			[ "mostraréis", "mostrarán" ],
+			[ "mostrarán" ]
+		],
+		"8" : [
+			[ "muestre" ],
+			[ "muestres" ],
+			[ "muestre" ],
+			[ "mostremos" ],
+			[ "mostréis", "muestren" ],
+			[ "muestren" ]
+		],
+		"9" : [
+			[ "mostrara" ],
+			[ "mostraras" ],
+			[ "mostrara" ],
+			[ "mostráramos" ],
+			[ "mostrarais", "mostraran" ],
+			[ "mostraran" ]
+		],
+		"10" : [
+			[ "mostrase" ],
+			[ "mostrases" ],
+			[ "mostrase" ],
+			[ "mostrásemos" ],
+			[ "mostraseis", "mostrasen" ],
+			[ "mostrasen" ]
+		],
+		"11" : [
+			[ "mostrare" ],
+			[ "mostrares" ],
+			[ "mostrare" ],
+			[ "mostráremos" ],
+			[ "mostrareis", "mostraren" ],
+			[ "mostraren" ]
+		],
+		"12" : {
+			"1" : [ "muestra" ],
+			"2" : [ "muestre" ],
+			"3" : [ "mostremos" ],
+			"4" : [ "mostrad" ],
+			"5" : [ "muestren" ]
+		}
+	}
+}

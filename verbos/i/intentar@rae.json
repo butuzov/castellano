@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=intentar",
+	"word" : "intentar",
+	"infinitivo" : "intentar",
+	"participio" : [ "intentado" ],
+	"gerundio" : [ "intentando" ],
+	"tenses" : {
+		"3" : [
+			[ "intento" ],
+			[ "intentas", "intentás" ],
+			[ "intenta" ],
+			[ "intentamos" ],
+			[ "intentáis", "intentan" ],
+			[ "intentan" ]
+		],
+		"4" : [
+			[ "intenté" ],
+			[ "intentaste" ],
+			[ "intentó" ],
+			[ "intentamos" ],
+			[ "intentasteis", "intentaron" ],
+			[ "intentaron" ]
+		],
+		"5" : [
+			[ "intentaba" ],
+			[ "intentabas" ],
+			[ "intentaba" ],
+			[ "intentábamos" ],
+			[ "intentabais", "intentaban" ],
+			[ "intentaban" ]
+		],
+		"6" : [
+			[ "intentaría" ],
+			[ "intentarías" ],
+			[ "intentaría" ],
+			[ "intentaríamos" ],
+			[ "intentaríais", "intentarían" ],
+			[ "intentarían" ]
+		],
+		"7" : [
+			[ "intentaré" ],
+			[ "intentarás" ],
+			[ "intentará" ],
+			[ "intentaremos" ],
+			[ "intentaréis", "intentarán" ],
+			[ "intentarán" ]
+		],
+		"8" : [
+			[ "intente" ],
+			[ "intentes" ],
+			[ "intente" ],
+			[ "intentemos" ],
+			[ "intentéis", "intenten" ],
+			[ "intenten" ]
+		],
+		"9" : [
+			[ "intentara" ],
+			[ "intentaras" ],
+			[ "intentara" ],
+			[ "intentáramos" ],
+			[ "intentarais", "intentaran" ],
+			[ "intentaran" ]
+		],
+		"10" : [
+			[ "intentase" ],
+			[ "intentases" ],
+			[ "intentase" ],
+			[ "intentásemos" ],
+			[ "intentaseis", "intentasen" ],
+			[ "intentasen" ]
+		],
+		"11" : [
+			[ "intentare" ],
+			[ "intentares" ],
+			[ "intentare" ],
+			[ "intentáremos" ],
+			[ "intentareis", "intentaren" ],
+			[ "intentaren" ]
+		],
+		"12" : {
+			"1" : [ "intenta" ],
+			"2" : [ "intente" ],
+			"3" : [ "intentemos" ],
+			"4" : [ "intentad" ],
+			"5" : [ "intenten" ]
+		}
+	}
+}

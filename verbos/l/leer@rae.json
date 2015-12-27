@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=leer",
+	"word" : "leer",
+	"infinitivo" : "leer",
+	"participio" : [ "leído" ],
+	"gerundio" : [ "leyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "leo" ],
+			[ "lees", "leés" ],
+			[ "lee" ],
+			[ "leemos" ],
+			[ "leéis", "leen" ],
+			[ "leen" ]
+		],
+		"4" : [
+			[ "leí" ],
+			[ "leíste" ],
+			[ "leyó" ],
+			[ "leímos" ],
+			[ "leísteis", "leyeron" ],
+			[ "leyeron" ]
+		],
+		"5" : [
+			[ "leía" ],
+			[ "leías" ],
+			[ "leía" ],
+			[ "leíamos" ],
+			[ "leíais", "leían" ],
+			[ "leían" ]
+		],
+		"6" : [
+			[ "leería" ],
+			[ "leerías" ],
+			[ "leería" ],
+			[ "leeríamos" ],
+			[ "leeríais", "leerían" ],
+			[ "leerían" ]
+		],
+		"7" : [
+			[ "leeré" ],
+			[ "leerás" ],
+			[ "leerá" ],
+			[ "leeremos" ],
+			[ "leeréis", "leerán" ],
+			[ "leerán" ]
+		],
+		"8" : [
+			[ "lea" ],
+			[ "leas" ],
+			[ "lea" ],
+			[ "leamos" ],
+			[ "leáis", "lean" ],
+			[ "lean" ]
+		],
+		"9" : [
+			[ "leyera" ],
+			[ "leyeras" ],
+			[ "leyera" ],
+			[ "leyéramos" ],
+			[ "leyerais", "leyeran" ],
+			[ "leyeran" ]
+		],
+		"10" : [
+			[ "leyese" ],
+			[ "leyeses" ],
+			[ "leyese" ],
+			[ "leyésemos" ],
+			[ "leyeseis", "leyesen" ],
+			[ "leyesen" ]
+		],
+		"11" : [
+			[ "leyere" ],
+			[ "leyeres" ],
+			[ "leyere" ],
+			[ "leyéremos" ],
+			[ "leyereis", "leyeren" ],
+			[ "leyeren" ]
+		],
+		"12" : {
+			"1" : [ "lee" ],
+			"2" : [ "lea" ],
+			"3" : [ "leamos" ],
+			"4" : [ "leed" ],
+			"5" : [ "lean" ]
+		}
+	}
+}

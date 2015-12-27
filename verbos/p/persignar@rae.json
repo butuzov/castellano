@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=persignar",
+	"word" : "persignar",
+	"infinitivo" : "persignar",
+	"participio" : [ "persignado" ],
+	"gerundio" : [ "persignando" ],
+	"tenses" : {
+		"3" : [
+			[ "persigno" ],
+			[ "persignas", "persignás" ],
+			[ "persigna" ],
+			[ "persignamos" ],
+			[ "persignáis", "persignan" ],
+			[ "persignan" ]
+		],
+		"4" : [
+			[ "persigné" ],
+			[ "persignaste" ],
+			[ "persignó" ],
+			[ "persignamos" ],
+			[ "persignasteis", "persignaron" ],
+			[ "persignaron" ]
+		],
+		"5" : [
+			[ "persignaba" ],
+			[ "persignabas" ],
+			[ "persignaba" ],
+			[ "persignábamos" ],
+			[ "persignabais", "persignaban" ],
+			[ "persignaban" ]
+		],
+		"6" : [
+			[ "persignaría" ],
+			[ "persignarías" ],
+			[ "persignaría" ],
+			[ "persignaríamos" ],
+			[ "persignaríais", "persignarían" ],
+			[ "persignarían" ]
+		],
+		"7" : [
+			[ "persignaré" ],
+			[ "persignarás" ],
+			[ "persignará" ],
+			[ "persignaremos" ],
+			[ "persignaréis", "persignarán" ],
+			[ "persignarán" ]
+		],
+		"8" : [
+			[ "persigne" ],
+			[ "persignes" ],
+			[ "persigne" ],
+			[ "persignemos" ],
+			[ "persignéis", "persignen" ],
+			[ "persignen" ]
+		],
+		"9" : [
+			[ "persignara" ],
+			[ "persignaras" ],
+			[ "persignara" ],
+			[ "persignáramos" ],
+			[ "persignarais", "persignaran" ],
+			[ "persignaran" ]
+		],
+		"10" : [
+			[ "persignase" ],
+			[ "persignases" ],
+			[ "persignase" ],
+			[ "persignásemos" ],
+			[ "persignaseis", "persignasen" ],
+			[ "persignasen" ]
+		],
+		"11" : [
+			[ "persignare" ],
+			[ "persignares" ],
+			[ "persignare" ],
+			[ "persignáremos" ],
+			[ "persignareis", "persignaren" ],
+			[ "persignaren" ]
+		],
+		"12" : {
+			"1" : [ "persigna" ],
+			"2" : [ "persigne" ],
+			"3" : [ "persignemos" ],
+			"4" : [ "persignad" ],
+			"5" : [ "persignen" ]
+		}
+	}
+}

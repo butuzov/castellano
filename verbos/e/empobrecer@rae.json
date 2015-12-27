@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=empobrecer",
+	"word" : "empobrecer",
+	"infinitivo" : "empobrecer",
+	"participio" : [ "empobrecido" ],
+	"gerundio" : [ "empobreciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "empobrezco" ],
+			[ "empobreces", "empobrecés" ],
+			[ "empobrece" ],
+			[ "empobrecemos" ],
+			[ "empobrecéis", "empobrecen" ],
+			[ "empobrecen" ]
+		],
+		"4" : [
+			[ "empobrecí" ],
+			[ "empobreciste" ],
+			[ "empobreció" ],
+			[ "empobrecimos" ],
+			[ "empobrecisteis", "empobrecieron" ],
+			[ "empobrecieron" ]
+		],
+		"5" : [
+			[ "empobrecía" ],
+			[ "empobrecías" ],
+			[ "empobrecía" ],
+			[ "empobrecíamos" ],
+			[ "empobrecíais", "empobrecían" ],
+			[ "empobrecían" ]
+		],
+		"6" : [
+			[ "empobrecería" ],
+			[ "empobrecerías" ],
+			[ "empobrecería" ],
+			[ "empobreceríamos" ],
+			[ "empobreceríais", "empobrecerían" ],
+			[ "empobrecerían" ]
+		],
+		"7" : [
+			[ "empobreceré" ],
+			[ "empobrecerás" ],
+			[ "empobrecerá" ],
+			[ "empobreceremos" ],
+			[ "empobreceréis", "empobrecerán" ],
+			[ "empobrecerán" ]
+		],
+		"8" : [
+			[ "empobrezca" ],
+			[ "empobrezcas" ],
+			[ "empobrezca" ],
+			[ "empobrezcamos" ],
+			[ "empobrezcáis", "empobrezcan" ],
+			[ "empobrezcan" ]
+		],
+		"9" : [
+			[ "empobreciera" ],
+			[ "empobrecieras" ],
+			[ "empobreciera" ],
+			[ "empobreciéramos" ],
+			[ "empobrecierais", "empobrecieran" ],
+			[ "empobrecieran" ]
+		],
+		"10" : [
+			[ "empobreciese" ],
+			[ "empobrecieses" ],
+			[ "empobreciese" ],
+			[ "empobreciésemos" ],
+			[ "empobrecieseis", "empobreciesen" ],
+			[ "empobreciesen" ]
+		],
+		"11" : [
+			[ "empobreciere" ],
+			[ "empobrecieres" ],
+			[ "empobreciere" ],
+			[ "empobreciéremos" ],
+			[ "empobreciereis", "empobrecieren" ],
+			[ "empobrecieren" ]
+		],
+		"12" : {
+			"1" : [ "empobrece" ],
+			"2" : [ "empobrezca" ],
+			"3" : [ "empobrezcamos" ],
+			"4" : [ "empobreced" ],
+			"5" : [ "empobrezcan" ]
+		}
+	}
+}

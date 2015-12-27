@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=enjalmar",
+	"word" : "enjalmar",
+	"infinitivo" : "enjalmar",
+	"participio" : [ "enjalmado" ],
+	"gerundio" : [ "enjalmando" ],
+	"tenses" : {
+		"3" : [
+			[ "enjalmo" ],
+			[ "enjalmas", "enjalmás" ],
+			[ "enjalma" ],
+			[ "enjalmamos" ],
+			[ "enjalmáis", "enjalman" ],
+			[ "enjalman" ]
+		],
+		"4" : [
+			[ "enjalmé" ],
+			[ "enjalmaste" ],
+			[ "enjalmó" ],
+			[ "enjalmamos" ],
+			[ "enjalmasteis", "enjalmaron" ],
+			[ "enjalmaron" ]
+		],
+		"5" : [
+			[ "enjalmaba" ],
+			[ "enjalmabas" ],
+			[ "enjalmaba" ],
+			[ "enjalmábamos" ],
+			[ "enjalmabais", "enjalmaban" ],
+			[ "enjalmaban" ]
+		],
+		"6" : [
+			[ "enjalmaría" ],
+			[ "enjalmarías" ],
+			[ "enjalmaría" ],
+			[ "enjalmaríamos" ],
+			[ "enjalmaríais", "enjalmarían" ],
+			[ "enjalmarían" ]
+		],
+		"7" : [
+			[ "enjalmaré" ],
+			[ "enjalmarás" ],
+			[ "enjalmará" ],
+			[ "enjalmaremos" ],
+			[ "enjalmaréis", "enjalmarán" ],
+			[ "enjalmarán" ]
+		],
+		"8" : [
+			[ "enjalme" ],
+			[ "enjalmes" ],
+			[ "enjalme" ],
+			[ "enjalmemos" ],
+			[ "enjalméis", "enjalmen" ],
+			[ "enjalmen" ]
+		],
+		"9" : [
+			[ "enjalmara" ],
+			[ "enjalmaras" ],
+			[ "enjalmara" ],
+			[ "enjalmáramos" ],
+			[ "enjalmarais", "enjalmaran" ],
+			[ "enjalmaran" ]
+		],
+		"10" : [
+			[ "enjalmase" ],
+			[ "enjalmases" ],
+			[ "enjalmase" ],
+			[ "enjalmásemos" ],
+			[ "enjalmaseis", "enjalmasen" ],
+			[ "enjalmasen" ]
+		],
+		"11" : [
+			[ "enjalmare" ],
+			[ "enjalmares" ],
+			[ "enjalmare" ],
+			[ "enjalmáremos" ],
+			[ "enjalmareis", "enjalmaren" ],
+			[ "enjalmaren" ]
+		],
+		"12" : {
+			"1" : [ "enjalma" ],
+			"2" : [ "enjalme" ],
+			"3" : [ "enjalmemos" ],
+			"4" : [ "enjalmad" ],
+			"5" : [ "enjalmen" ]
+		}
+	}
+}

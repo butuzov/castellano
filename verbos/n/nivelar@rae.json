@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=nivelar",
+	"word" : "nivelar",
+	"infinitivo" : "nivelar",
+	"participio" : [ "nivelado" ],
+	"gerundio" : [ "nivelando" ],
+	"tenses" : {
+		"3" : [
+			[ "nivelo" ],
+			[ "nivelas", "nivelás" ],
+			[ "nivela" ],
+			[ "nivelamos" ],
+			[ "niveláis", "nivelan" ],
+			[ "nivelan" ]
+		],
+		"4" : [
+			[ "nivelé" ],
+			[ "nivelaste" ],
+			[ "niveló" ],
+			[ "nivelamos" ],
+			[ "nivelasteis", "nivelaron" ],
+			[ "nivelaron" ]
+		],
+		"5" : [
+			[ "nivelaba" ],
+			[ "nivelabas" ],
+			[ "nivelaba" ],
+			[ "nivelábamos" ],
+			[ "nivelabais", "nivelaban" ],
+			[ "nivelaban" ]
+		],
+		"6" : [
+			[ "nivelaría" ],
+			[ "nivelarías" ],
+			[ "nivelaría" ],
+			[ "nivelaríamos" ],
+			[ "nivelaríais", "nivelarían" ],
+			[ "nivelarían" ]
+		],
+		"7" : [
+			[ "nivelaré" ],
+			[ "nivelarás" ],
+			[ "nivelará" ],
+			[ "nivelaremos" ],
+			[ "nivelaréis", "nivelarán" ],
+			[ "nivelarán" ]
+		],
+		"8" : [
+			[ "nivele" ],
+			[ "niveles" ],
+			[ "nivele" ],
+			[ "nivelemos" ],
+			[ "niveléis", "nivelen" ],
+			[ "nivelen" ]
+		],
+		"9" : [
+			[ "nivelara" ],
+			[ "nivelaras" ],
+			[ "nivelara" ],
+			[ "niveláramos" ],
+			[ "nivelarais", "nivelaran" ],
+			[ "nivelaran" ]
+		],
+		"10" : [
+			[ "nivelase" ],
+			[ "nivelases" ],
+			[ "nivelase" ],
+			[ "nivelásemos" ],
+			[ "nivelaseis", "nivelasen" ],
+			[ "nivelasen" ]
+		],
+		"11" : [
+			[ "nivelare" ],
+			[ "nivelares" ],
+			[ "nivelare" ],
+			[ "niveláremos" ],
+			[ "nivelareis", "nivelaren" ],
+			[ "nivelaren" ]
+		],
+		"12" : {
+			"1" : [ "nivela" ],
+			"2" : [ "nivele" ],
+			"3" : [ "nivelemos" ],
+			"4" : [ "nivelad" ],
+			"5" : [ "nivelen" ]
+		}
+	}
+}

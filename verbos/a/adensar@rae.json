@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adensar",
+	"word" : "adensar",
+	"infinitivo" : "adensar",
+	"participio" : [ "adensado" ],
+	"gerundio" : [ "adensando" ],
+	"tenses" : {
+		"3" : [
+			[ "adenso" ],
+			[ "adensas", "adensás" ],
+			[ "adensa" ],
+			[ "adensamos" ],
+			[ "adensáis", "adensan" ],
+			[ "adensan" ]
+		],
+		"4" : [
+			[ "adensé" ],
+			[ "adensaste" ],
+			[ "adensó" ],
+			[ "adensamos" ],
+			[ "adensasteis", "adensaron" ],
+			[ "adensaron" ]
+		],
+		"5" : [
+			[ "adensaba" ],
+			[ "adensabas" ],
+			[ "adensaba" ],
+			[ "adensábamos" ],
+			[ "adensabais", "adensaban" ],
+			[ "adensaban" ]
+		],
+		"6" : [
+			[ "adensaría" ],
+			[ "adensarías" ],
+			[ "adensaría" ],
+			[ "adensaríamos" ],
+			[ "adensaríais", "adensarían" ],
+			[ "adensarían" ]
+		],
+		"7" : [
+			[ "adensaré" ],
+			[ "adensarás" ],
+			[ "adensará" ],
+			[ "adensaremos" ],
+			[ "adensaréis", "adensarán" ],
+			[ "adensarán" ]
+		],
+		"8" : [
+			[ "adense" ],
+			[ "adenses" ],
+			[ "adense" ],
+			[ "adensemos" ],
+			[ "adenséis", "adensen" ],
+			[ "adensen" ]
+		],
+		"9" : [
+			[ "adensara" ],
+			[ "adensaras" ],
+			[ "adensara" ],
+			[ "adensáramos" ],
+			[ "adensarais", "adensaran" ],
+			[ "adensaran" ]
+		],
+		"10" : [
+			[ "adensase" ],
+			[ "adensases" ],
+			[ "adensase" ],
+			[ "adensásemos" ],
+			[ "adensaseis", "adensasen" ],
+			[ "adensasen" ]
+		],
+		"11" : [
+			[ "adensare" ],
+			[ "adensares" ],
+			[ "adensare" ],
+			[ "adensáremos" ],
+			[ "adensareis", "adensaren" ],
+			[ "adensaren" ]
+		],
+		"12" : {
+			"1" : [ "adensa" ],
+			"2" : [ "adense" ],
+			"3" : [ "adensemos" ],
+			"4" : [ "adensad" ],
+			"5" : [ "adensen" ]
+		}
+	}
+}

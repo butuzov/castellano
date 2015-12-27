@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reclutar",
+	"word" : "reclutar",
+	"infinitivo" : "reclutar",
+	"participio" : [ "reclutado" ],
+	"gerundio" : [ "reclutando" ],
+	"tenses" : {
+		"3" : [
+			[ "recluto" ],
+			[ "reclutas", "reclutás" ],
+			[ "recluta" ],
+			[ "reclutamos" ],
+			[ "reclutáis", "reclutan" ],
+			[ "reclutan" ]
+		],
+		"4" : [
+			[ "recluté" ],
+			[ "reclutaste" ],
+			[ "reclutó" ],
+			[ "reclutamos" ],
+			[ "reclutasteis", "reclutaron" ],
+			[ "reclutaron" ]
+		],
+		"5" : [
+			[ "reclutaba" ],
+			[ "reclutabas" ],
+			[ "reclutaba" ],
+			[ "reclutábamos" ],
+			[ "reclutabais", "reclutaban" ],
+			[ "reclutaban" ]
+		],
+		"6" : [
+			[ "reclutaría" ],
+			[ "reclutarías" ],
+			[ "reclutaría" ],
+			[ "reclutaríamos" ],
+			[ "reclutaríais", "reclutarían" ],
+			[ "reclutarían" ]
+		],
+		"7" : [
+			[ "reclutaré" ],
+			[ "reclutarás" ],
+			[ "reclutará" ],
+			[ "reclutaremos" ],
+			[ "reclutaréis", "reclutarán" ],
+			[ "reclutarán" ]
+		],
+		"8" : [
+			[ "reclute" ],
+			[ "reclutes" ],
+			[ "reclute" ],
+			[ "reclutemos" ],
+			[ "reclutéis", "recluten" ],
+			[ "recluten" ]
+		],
+		"9" : [
+			[ "reclutara" ],
+			[ "reclutaras" ],
+			[ "reclutara" ],
+			[ "reclutáramos" ],
+			[ "reclutarais", "reclutaran" ],
+			[ "reclutaran" ]
+		],
+		"10" : [
+			[ "reclutase" ],
+			[ "reclutases" ],
+			[ "reclutase" ],
+			[ "reclutásemos" ],
+			[ "reclutaseis", "reclutasen" ],
+			[ "reclutasen" ]
+		],
+		"11" : [
+			[ "reclutare" ],
+			[ "reclutares" ],
+			[ "reclutare" ],
+			[ "reclutáremos" ],
+			[ "reclutareis", "reclutaren" ],
+			[ "reclutaren" ]
+		],
+		"12" : {
+			"1" : [ "recluta" ],
+			"2" : [ "reclute" ],
+			"3" : [ "reclutemos" ],
+			"4" : [ "reclutad" ],
+			"5" : [ "recluten" ]
+		}
+	}
+}

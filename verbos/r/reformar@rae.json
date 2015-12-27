@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reformar",
+	"word" : "reformar",
+	"infinitivo" : "reformar",
+	"participio" : [ "reformado" ],
+	"gerundio" : [ "reformando" ],
+	"tenses" : {
+		"3" : [
+			[ "reformo" ],
+			[ "reformas", "reformás" ],
+			[ "reforma" ],
+			[ "reformamos" ],
+			[ "reformáis", "reforman" ],
+			[ "reforman" ]
+		],
+		"4" : [
+			[ "reformé" ],
+			[ "reformaste" ],
+			[ "reformó" ],
+			[ "reformamos" ],
+			[ "reformasteis", "reformaron" ],
+			[ "reformaron" ]
+		],
+		"5" : [
+			[ "reformaba" ],
+			[ "reformabas" ],
+			[ "reformaba" ],
+			[ "reformábamos" ],
+			[ "reformabais", "reformaban" ],
+			[ "reformaban" ]
+		],
+		"6" : [
+			[ "reformaría" ],
+			[ "reformarías" ],
+			[ "reformaría" ],
+			[ "reformaríamos" ],
+			[ "reformaríais", "reformarían" ],
+			[ "reformarían" ]
+		],
+		"7" : [
+			[ "reformaré" ],
+			[ "reformarás" ],
+			[ "reformará" ],
+			[ "reformaremos" ],
+			[ "reformaréis", "reformarán" ],
+			[ "reformarán" ]
+		],
+		"8" : [
+			[ "reforme" ],
+			[ "reformes" ],
+			[ "reforme" ],
+			[ "reformemos" ],
+			[ "reforméis", "reformen" ],
+			[ "reformen" ]
+		],
+		"9" : [
+			[ "reformara" ],
+			[ "reformaras" ],
+			[ "reformara" ],
+			[ "reformáramos" ],
+			[ "reformarais", "reformaran" ],
+			[ "reformaran" ]
+		],
+		"10" : [
+			[ "reformase" ],
+			[ "reformases" ],
+			[ "reformase" ],
+			[ "reformásemos" ],
+			[ "reformaseis", "reformasen" ],
+			[ "reformasen" ]
+		],
+		"11" : [
+			[ "reformare" ],
+			[ "reformares" ],
+			[ "reformare" ],
+			[ "reformáremos" ],
+			[ "reformareis", "reformaren" ],
+			[ "reformaren" ]
+		],
+		"12" : {
+			"1" : [ "reforma" ],
+			"2" : [ "reforme" ],
+			"3" : [ "reformemos" ],
+			"4" : [ "reformad" ],
+			"5" : [ "reformen" ]
+		}
+	}
+}

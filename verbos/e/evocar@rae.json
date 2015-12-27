@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=evocar",
+	"word" : "evocar",
+	"infinitivo" : "evocar",
+	"participio" : [ "evocado" ],
+	"gerundio" : [ "evocando" ],
+	"tenses" : {
+		"3" : [
+			[ "evoco" ],
+			[ "evocas", "evocás" ],
+			[ "evoca" ],
+			[ "evocamos" ],
+			[ "evocáis", "evocan" ],
+			[ "evocan" ]
+		],
+		"4" : [
+			[ "evoqué" ],
+			[ "evocaste" ],
+			[ "evocó" ],
+			[ "evocamos" ],
+			[ "evocasteis", "evocaron" ],
+			[ "evocaron" ]
+		],
+		"5" : [
+			[ "evocaba" ],
+			[ "evocabas" ],
+			[ "evocaba" ],
+			[ "evocábamos" ],
+			[ "evocabais", "evocaban" ],
+			[ "evocaban" ]
+		],
+		"6" : [
+			[ "evocaría" ],
+			[ "evocarías" ],
+			[ "evocaría" ],
+			[ "evocaríamos" ],
+			[ "evocaríais", "evocarían" ],
+			[ "evocarían" ]
+		],
+		"7" : [
+			[ "evocaré" ],
+			[ "evocarás" ],
+			[ "evocará" ],
+			[ "evocaremos" ],
+			[ "evocaréis", "evocarán" ],
+			[ "evocarán" ]
+		],
+		"8" : [
+			[ "evoque" ],
+			[ "evoques" ],
+			[ "evoque" ],
+			[ "evoquemos" ],
+			[ "evoquéis", "evoquen" ],
+			[ "evoquen" ]
+		],
+		"9" : [
+			[ "evocara" ],
+			[ "evocaras" ],
+			[ "evocara" ],
+			[ "evocáramos" ],
+			[ "evocarais", "evocaran" ],
+			[ "evocaran" ]
+		],
+		"10" : [
+			[ "evocase" ],
+			[ "evocases" ],
+			[ "evocase" ],
+			[ "evocásemos" ],
+			[ "evocaseis", "evocasen" ],
+			[ "evocasen" ]
+		],
+		"11" : [
+			[ "evocare" ],
+			[ "evocares" ],
+			[ "evocare" ],
+			[ "evocáremos" ],
+			[ "evocareis", "evocaren" ],
+			[ "evocaren" ]
+		],
+		"12" : {
+			"1" : [ "evoca" ],
+			"2" : [ "evoque" ],
+			"3" : [ "evoquemos" ],
+			"4" : [ "evocad" ],
+			"5" : [ "evoquen" ]
+		}
+	}
+}

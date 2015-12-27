@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=substraer",
+	"word" : "substraer",
+	"infinitivo" : "substraer",
+	"participio" : [ "substraído" ],
+	"gerundio" : [ "substrayendo" ],
+	"tenses" : {
+		"3" : [
+			[ "substraigo" ],
+			[ "substraes", "substraés" ],
+			[ "substrae" ],
+			[ "substraemos" ],
+			[ "substraéis", "substraen" ],
+			[ "substraen" ]
+		],
+		"4" : [
+			[ "substraje" ],
+			[ "substrajiste" ],
+			[ "substrajo" ],
+			[ "substrajimos" ],
+			[ "substrajisteis", "substrajeron" ],
+			[ "substrajeron" ]
+		],
+		"5" : [
+			[ "substraía" ],
+			[ "substraías" ],
+			[ "substraía" ],
+			[ "substraíamos" ],
+			[ "substraíais", "substraían" ],
+			[ "substraían" ]
+		],
+		"6" : [
+			[ "substraería" ],
+			[ "substraerías" ],
+			[ "substraería" ],
+			[ "substraeríamos" ],
+			[ "substraeríais", "substraerían" ],
+			[ "substraerían" ]
+		],
+		"7" : [
+			[ "substraeré" ],
+			[ "substraerás" ],
+			[ "substraerá" ],
+			[ "substraeremos" ],
+			[ "substraeréis", "substraerán" ],
+			[ "substraerán" ]
+		],
+		"8" : [
+			[ "substraiga" ],
+			[ "substraigas" ],
+			[ "substraiga" ],
+			[ "substraigamos" ],
+			[ "substraigáis", "substraigan" ],
+			[ "substraigan" ]
+		],
+		"9" : [
+			[ "substrajera" ],
+			[ "substrajeras" ],
+			[ "substrajera" ],
+			[ "substrajéramos" ],
+			[ "substrajerais", "substrajeran" ],
+			[ "substrajeran" ]
+		],
+		"10" : [
+			[ "substrajese" ],
+			[ "substrajeses" ],
+			[ "substrajese" ],
+			[ "substrajésemos" ],
+			[ "substrajeseis", "substrajesen" ],
+			[ "substrajesen" ]
+		],
+		"11" : [
+			[ "substrajere" ],
+			[ "substrajeres" ],
+			[ "substrajere" ],
+			[ "substrajéremos" ],
+			[ "substrajereis", "substrajeren" ],
+			[ "substrajeren" ]
+		],
+		"12" : {
+			"1" : [ "substrae" ],
+			"2" : [ "substraiga" ],
+			"3" : [ "substraigamos" ],
+			"4" : [ "substraed" ],
+			"5" : [ "substraigan" ]
+		}
+	}
+}

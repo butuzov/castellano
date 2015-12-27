@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ayustar",
+	"word" : "ayustar",
+	"infinitivo" : "ayustar",
+	"participio" : [ "ayustado" ],
+	"gerundio" : [ "ayustando" ],
+	"tenses" : {
+		"3" : [
+			[ "ayusto" ],
+			[ "ayustas", "ayustás" ],
+			[ "ayusta" ],
+			[ "ayustamos" ],
+			[ "ayustáis", "ayustan" ],
+			[ "ayustan" ]
+		],
+		"4" : [
+			[ "ayusté" ],
+			[ "ayustaste" ],
+			[ "ayustó" ],
+			[ "ayustamos" ],
+			[ "ayustasteis", "ayustaron" ],
+			[ "ayustaron" ]
+		],
+		"5" : [
+			[ "ayustaba" ],
+			[ "ayustabas" ],
+			[ "ayustaba" ],
+			[ "ayustábamos" ],
+			[ "ayustabais", "ayustaban" ],
+			[ "ayustaban" ]
+		],
+		"6" : [
+			[ "ayustaría" ],
+			[ "ayustarías" ],
+			[ "ayustaría" ],
+			[ "ayustaríamos" ],
+			[ "ayustaríais", "ayustarían" ],
+			[ "ayustarían" ]
+		],
+		"7" : [
+			[ "ayustaré" ],
+			[ "ayustarás" ],
+			[ "ayustará" ],
+			[ "ayustaremos" ],
+			[ "ayustaréis", "ayustarán" ],
+			[ "ayustarán" ]
+		],
+		"8" : [
+			[ "ayuste" ],
+			[ "ayustes" ],
+			[ "ayuste" ],
+			[ "ayustemos" ],
+			[ "ayustéis", "ayusten" ],
+			[ "ayusten" ]
+		],
+		"9" : [
+			[ "ayustara" ],
+			[ "ayustaras" ],
+			[ "ayustara" ],
+			[ "ayustáramos" ],
+			[ "ayustarais", "ayustaran" ],
+			[ "ayustaran" ]
+		],
+		"10" : [
+			[ "ayustase" ],
+			[ "ayustases" ],
+			[ "ayustase" ],
+			[ "ayustásemos" ],
+			[ "ayustaseis", "ayustasen" ],
+			[ "ayustasen" ]
+		],
+		"11" : [
+			[ "ayustare" ],
+			[ "ayustares" ],
+			[ "ayustare" ],
+			[ "ayustáremos" ],
+			[ "ayustareis", "ayustaren" ],
+			[ "ayustaren" ]
+		],
+		"12" : {
+			"1" : [ "ayusta" ],
+			"2" : [ "ayuste" ],
+			"3" : [ "ayustemos" ],
+			"4" : [ "ayustad" ],
+			"5" : [ "ayusten" ]
+		}
+	}
+}

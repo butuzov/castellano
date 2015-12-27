@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=repintar",
+	"word" : "repintar",
+	"infinitivo" : "repintar",
+	"participio" : [ "repintado" ],
+	"gerundio" : [ "repintando" ],
+	"tenses" : {
+		"3" : [
+			[ "repinto" ],
+			[ "repintas", "repintás" ],
+			[ "repinta" ],
+			[ "repintamos" ],
+			[ "repintáis", "repintan" ],
+			[ "repintan" ]
+		],
+		"4" : [
+			[ "repinté" ],
+			[ "repintaste" ],
+			[ "repintó" ],
+			[ "repintamos" ],
+			[ "repintasteis", "repintaron" ],
+			[ "repintaron" ]
+		],
+		"5" : [
+			[ "repintaba" ],
+			[ "repintabas" ],
+			[ "repintaba" ],
+			[ "repintábamos" ],
+			[ "repintabais", "repintaban" ],
+			[ "repintaban" ]
+		],
+		"6" : [
+			[ "repintaría" ],
+			[ "repintarías" ],
+			[ "repintaría" ],
+			[ "repintaríamos" ],
+			[ "repintaríais", "repintarían" ],
+			[ "repintarían" ]
+		],
+		"7" : [
+			[ "repintaré" ],
+			[ "repintarás" ],
+			[ "repintará" ],
+			[ "repintaremos" ],
+			[ "repintaréis", "repintarán" ],
+			[ "repintarán" ]
+		],
+		"8" : [
+			[ "repinte" ],
+			[ "repintes" ],
+			[ "repinte" ],
+			[ "repintemos" ],
+			[ "repintéis", "repinten" ],
+			[ "repinten" ]
+		],
+		"9" : [
+			[ "repintara" ],
+			[ "repintaras" ],
+			[ "repintara" ],
+			[ "repintáramos" ],
+			[ "repintarais", "repintaran" ],
+			[ "repintaran" ]
+		],
+		"10" : [
+			[ "repintase" ],
+			[ "repintases" ],
+			[ "repintase" ],
+			[ "repintásemos" ],
+			[ "repintaseis", "repintasen" ],
+			[ "repintasen" ]
+		],
+		"11" : [
+			[ "repintare" ],
+			[ "repintares" ],
+			[ "repintare" ],
+			[ "repintáremos" ],
+			[ "repintareis", "repintaren" ],
+			[ "repintaren" ]
+		],
+		"12" : {
+			"1" : [ "repinta" ],
+			"2" : [ "repinte" ],
+			"3" : [ "repintemos" ],
+			"4" : [ "repintad" ],
+			"5" : [ "repinten" ]
+		}
+	}
+}

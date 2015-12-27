@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rotular",
+	"word" : "rotular",
+	"infinitivo" : "rotular",
+	"participio" : [ "rotulado" ],
+	"gerundio" : [ "rotulando" ],
+	"tenses" : {
+		"3" : [
+			[ "rotulo" ],
+			[ "rotulas", "rotulás" ],
+			[ "rotula" ],
+			[ "rotulamos" ],
+			[ "rotuláis", "rotulan" ],
+			[ "rotulan" ]
+		],
+		"4" : [
+			[ "rotulé" ],
+			[ "rotulaste" ],
+			[ "rotuló" ],
+			[ "rotulamos" ],
+			[ "rotulasteis", "rotularon" ],
+			[ "rotularon" ]
+		],
+		"5" : [
+			[ "rotulaba" ],
+			[ "rotulabas" ],
+			[ "rotulaba" ],
+			[ "rotulábamos" ],
+			[ "rotulabais", "rotulaban" ],
+			[ "rotulaban" ]
+		],
+		"6" : [
+			[ "rotularía" ],
+			[ "rotularías" ],
+			[ "rotularía" ],
+			[ "rotularíamos" ],
+			[ "rotularíais", "rotularían" ],
+			[ "rotularían" ]
+		],
+		"7" : [
+			[ "rotularé" ],
+			[ "rotularás" ],
+			[ "rotulará" ],
+			[ "rotularemos" ],
+			[ "rotularéis", "rotularán" ],
+			[ "rotularán" ]
+		],
+		"8" : [
+			[ "rotule" ],
+			[ "rotules" ],
+			[ "rotule" ],
+			[ "rotulemos" ],
+			[ "rotuléis", "rotulen" ],
+			[ "rotulen" ]
+		],
+		"9" : [
+			[ "rotulara" ],
+			[ "rotularas" ],
+			[ "rotulara" ],
+			[ "rotuláramos" ],
+			[ "rotularais", "rotularan" ],
+			[ "rotularan" ]
+		],
+		"10" : [
+			[ "rotulase" ],
+			[ "rotulases" ],
+			[ "rotulase" ],
+			[ "rotulásemos" ],
+			[ "rotulaseis", "rotulasen" ],
+			[ "rotulasen" ]
+		],
+		"11" : [
+			[ "rotulare" ],
+			[ "rotulares" ],
+			[ "rotulare" ],
+			[ "rotuláremos" ],
+			[ "rotulareis", "rotularen" ],
+			[ "rotularen" ]
+		],
+		"12" : {
+			"1" : [ "rotula" ],
+			"2" : [ "rotule" ],
+			"3" : [ "rotulemos" ],
+			"4" : [ "rotulad" ],
+			"5" : [ "rotulen" ]
+		}
+	}
+}

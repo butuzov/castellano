@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esforzar",
+	"word" : "esforzar",
+	"infinitivo" : "esforzar",
+	"participio" : [ "esforzado" ],
+	"gerundio" : [ "esforzando" ],
+	"tenses" : {
+		"3" : [
+			[ "esfuerzo" ],
+			[ "esfuerzas", "esforzás" ],
+			[ "esfuerza" ],
+			[ "esforzamos" ],
+			[ "esforzáis", "esfuerzan" ],
+			[ "esfuerzan" ]
+		],
+		"4" : [
+			[ "esforcé" ],
+			[ "esforzaste" ],
+			[ "esforzó" ],
+			[ "esforzamos" ],
+			[ "esforzasteis", "esforzaron" ],
+			[ "esforzaron" ]
+		],
+		"5" : [
+			[ "esforzaba" ],
+			[ "esforzabas" ],
+			[ "esforzaba" ],
+			[ "esforzábamos" ],
+			[ "esforzabais", "esforzaban" ],
+			[ "esforzaban" ]
+		],
+		"6" : [
+			[ "esforzaría" ],
+			[ "esforzarías" ],
+			[ "esforzaría" ],
+			[ "esforzaríamos" ],
+			[ "esforzaríais", "esforzarían" ],
+			[ "esforzarían" ]
+		],
+		"7" : [
+			[ "esforzaré" ],
+			[ "esforzarás" ],
+			[ "esforzará" ],
+			[ "esforzaremos" ],
+			[ "esforzaréis", "esforzarán" ],
+			[ "esforzarán" ]
+		],
+		"8" : [
+			[ "esfuerce" ],
+			[ "esfuerces" ],
+			[ "esfuerce" ],
+			[ "esforcemos" ],
+			[ "esforcéis", "esfuercen" ],
+			[ "esfuercen" ]
+		],
+		"9" : [
+			[ "esforzara" ],
+			[ "esforzaras" ],
+			[ "esforzara" ],
+			[ "esforzáramos" ],
+			[ "esforzarais", "esforzaran" ],
+			[ "esforzaran" ]
+		],
+		"10" : [
+			[ "esforzase" ],
+			[ "esforzases" ],
+			[ "esforzase" ],
+			[ "esforzásemos" ],
+			[ "esforzaseis", "esforzasen" ],
+			[ "esforzasen" ]
+		],
+		"11" : [
+			[ "esforzare" ],
+			[ "esforzares" ],
+			[ "esforzare" ],
+			[ "esforzáremos" ],
+			[ "esforzareis", "esforzaren" ],
+			[ "esforzaren" ]
+		],
+		"12" : {
+			"1" : [ "esfuerza" ],
+			"2" : [ "esfuerce" ],
+			"3" : [ "esforcemos" ],
+			"4" : [ "esforzad" ],
+			"5" : [ "esfuercen" ]
+		}
+	}
+}

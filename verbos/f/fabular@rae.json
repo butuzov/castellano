@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fabular",
+	"word" : "fabular",
+	"infinitivo" : "fabular",
+	"participio" : [ "fabulado" ],
+	"gerundio" : [ "fabulando" ],
+	"tenses" : {
+		"3" : [
+			[ "fabulo" ],
+			[ "fabulas", "fabulás" ],
+			[ "fabula" ],
+			[ "fabulamos" ],
+			[ "fabuláis", "fabulan" ],
+			[ "fabulan" ]
+		],
+		"4" : [
+			[ "fabulé" ],
+			[ "fabulaste" ],
+			[ "fabuló" ],
+			[ "fabulamos" ],
+			[ "fabulasteis", "fabularon" ],
+			[ "fabularon" ]
+		],
+		"5" : [
+			[ "fabulaba" ],
+			[ "fabulabas" ],
+			[ "fabulaba" ],
+			[ "fabulábamos" ],
+			[ "fabulabais", "fabulaban" ],
+			[ "fabulaban" ]
+		],
+		"6" : [
+			[ "fabularía" ],
+			[ "fabularías" ],
+			[ "fabularía" ],
+			[ "fabularíamos" ],
+			[ "fabularíais", "fabularían" ],
+			[ "fabularían" ]
+		],
+		"7" : [
+			[ "fabularé" ],
+			[ "fabularás" ],
+			[ "fabulará" ],
+			[ "fabularemos" ],
+			[ "fabularéis", "fabularán" ],
+			[ "fabularán" ]
+		],
+		"8" : [
+			[ "fabule" ],
+			[ "fabules" ],
+			[ "fabule" ],
+			[ "fabulemos" ],
+			[ "fabuléis", "fabulen" ],
+			[ "fabulen" ]
+		],
+		"9" : [
+			[ "fabulara" ],
+			[ "fabularas" ],
+			[ "fabulara" ],
+			[ "fabuláramos" ],
+			[ "fabularais", "fabularan" ],
+			[ "fabularan" ]
+		],
+		"10" : [
+			[ "fabulase" ],
+			[ "fabulases" ],
+			[ "fabulase" ],
+			[ "fabulásemos" ],
+			[ "fabulaseis", "fabulasen" ],
+			[ "fabulasen" ]
+		],
+		"11" : [
+			[ "fabulare" ],
+			[ "fabulares" ],
+			[ "fabulare" ],
+			[ "fabuláremos" ],
+			[ "fabulareis", "fabularen" ],
+			[ "fabularen" ]
+		],
+		"12" : {
+			"1" : [ "fabula" ],
+			"2" : [ "fabule" ],
+			"3" : [ "fabulemos" ],
+			"4" : [ "fabulad" ],
+			"5" : [ "fabulen" ]
+		}
+	}
+}

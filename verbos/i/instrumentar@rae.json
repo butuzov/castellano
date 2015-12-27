@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=instrumentar",
+	"word" : "instrumentar",
+	"infinitivo" : "instrumentar",
+	"participio" : [ "instrumentado" ],
+	"gerundio" : [ "instrumentando" ],
+	"tenses" : {
+		"3" : [
+			[ "instrumento" ],
+			[ "instrumentas", "instrumentás" ],
+			[ "instrumenta" ],
+			[ "instrumentamos" ],
+			[ "instrumentáis", "instrumentan" ],
+			[ "instrumentan" ]
+		],
+		"4" : [
+			[ "instrumenté" ],
+			[ "instrumentaste" ],
+			[ "instrumentó" ],
+			[ "instrumentamos" ],
+			[ "instrumentasteis", "instrumentaron" ],
+			[ "instrumentaron" ]
+		],
+		"5" : [
+			[ "instrumentaba" ],
+			[ "instrumentabas" ],
+			[ "instrumentaba" ],
+			[ "instrumentábamos" ],
+			[ "instrumentabais", "instrumentaban" ],
+			[ "instrumentaban" ]
+		],
+		"6" : [
+			[ "instrumentaría" ],
+			[ "instrumentarías" ],
+			[ "instrumentaría" ],
+			[ "instrumentaríamos" ],
+			[ "instrumentaríais", "instrumentarían" ],
+			[ "instrumentarían" ]
+		],
+		"7" : [
+			[ "instrumentaré" ],
+			[ "instrumentarás" ],
+			[ "instrumentará" ],
+			[ "instrumentaremos" ],
+			[ "instrumentaréis", "instrumentarán" ],
+			[ "instrumentarán" ]
+		],
+		"8" : [
+			[ "instrumente" ],
+			[ "instrumentes" ],
+			[ "instrumente" ],
+			[ "instrumentemos" ],
+			[ "instrumentéis", "instrumenten" ],
+			[ "instrumenten" ]
+		],
+		"9" : [
+			[ "instrumentara" ],
+			[ "instrumentaras" ],
+			[ "instrumentara" ],
+			[ "instrumentáramos" ],
+			[ "instrumentarais", "instrumentaran" ],
+			[ "instrumentaran" ]
+		],
+		"10" : [
+			[ "instrumentase" ],
+			[ "instrumentases" ],
+			[ "instrumentase" ],
+			[ "instrumentásemos" ],
+			[ "instrumentaseis", "instrumentasen" ],
+			[ "instrumentasen" ]
+		],
+		"11" : [
+			[ "instrumentare" ],
+			[ "instrumentares" ],
+			[ "instrumentare" ],
+			[ "instrumentáremos" ],
+			[ "instrumentareis", "instrumentaren" ],
+			[ "instrumentaren" ]
+		],
+		"12" : {
+			"1" : [ "instrumenta" ],
+			"2" : [ "instrumente" ],
+			"3" : [ "instrumentemos" ],
+			"4" : [ "instrumentad" ],
+			"5" : [ "instrumenten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dedicar",
+	"word" : "dedicar",
+	"infinitivo" : "dedicar",
+	"participio" : [ "dedicado" ],
+	"gerundio" : [ "dedicando" ],
+	"tenses" : {
+		"3" : [
+			[ "dedico" ],
+			[ "dedicas", "dedicás" ],
+			[ "dedica" ],
+			[ "dedicamos" ],
+			[ "dedicáis", "dedican" ],
+			[ "dedican" ]
+		],
+		"4" : [
+			[ "dediqué" ],
+			[ "dedicaste" ],
+			[ "dedicó" ],
+			[ "dedicamos" ],
+			[ "dedicasteis", "dedicaron" ],
+			[ "dedicaron" ]
+		],
+		"5" : [
+			[ "dedicaba" ],
+			[ "dedicabas" ],
+			[ "dedicaba" ],
+			[ "dedicábamos" ],
+			[ "dedicabais", "dedicaban" ],
+			[ "dedicaban" ]
+		],
+		"6" : [
+			[ "dedicaría" ],
+			[ "dedicarías" ],
+			[ "dedicaría" ],
+			[ "dedicaríamos" ],
+			[ "dedicaríais", "dedicarían" ],
+			[ "dedicarían" ]
+		],
+		"7" : [
+			[ "dedicaré" ],
+			[ "dedicarás" ],
+			[ "dedicará" ],
+			[ "dedicaremos" ],
+			[ "dedicaréis", "dedicarán" ],
+			[ "dedicarán" ]
+		],
+		"8" : [
+			[ "dedique" ],
+			[ "dediques" ],
+			[ "dedique" ],
+			[ "dediquemos" ],
+			[ "dediquéis", "dediquen" ],
+			[ "dediquen" ]
+		],
+		"9" : [
+			[ "dedicara" ],
+			[ "dedicaras" ],
+			[ "dedicara" ],
+			[ "dedicáramos" ],
+			[ "dedicarais", "dedicaran" ],
+			[ "dedicaran" ]
+		],
+		"10" : [
+			[ "dedicase" ],
+			[ "dedicases" ],
+			[ "dedicase" ],
+			[ "dedicásemos" ],
+			[ "dedicaseis", "dedicasen" ],
+			[ "dedicasen" ]
+		],
+		"11" : [
+			[ "dedicare" ],
+			[ "dedicares" ],
+			[ "dedicare" ],
+			[ "dedicáremos" ],
+			[ "dedicareis", "dedicaren" ],
+			[ "dedicaren" ]
+		],
+		"12" : {
+			"1" : [ "dedica" ],
+			"2" : [ "dedique" ],
+			"3" : [ "dediquemos" ],
+			"4" : [ "dedicad" ],
+			"5" : [ "dediquen" ]
+		}
+	}
+}

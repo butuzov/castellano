@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=eternizar",
+	"word" : "eternizar",
+	"infinitivo" : "eternizar",
+	"participio" : [ "eternizado" ],
+	"gerundio" : [ "eternizando" ],
+	"tenses" : {
+		"3" : [
+			[ "eternizo" ],
+			[ "eternizas", "eternizás" ],
+			[ "eterniza" ],
+			[ "eternizamos" ],
+			[ "eternizáis", "eternizan" ],
+			[ "eternizan" ]
+		],
+		"4" : [
+			[ "eternicé" ],
+			[ "eternizaste" ],
+			[ "eternizó" ],
+			[ "eternizamos" ],
+			[ "eternizasteis", "eternizaron" ],
+			[ "eternizaron" ]
+		],
+		"5" : [
+			[ "eternizaba" ],
+			[ "eternizabas" ],
+			[ "eternizaba" ],
+			[ "eternizábamos" ],
+			[ "eternizabais", "eternizaban" ],
+			[ "eternizaban" ]
+		],
+		"6" : [
+			[ "eternizaría" ],
+			[ "eternizarías" ],
+			[ "eternizaría" ],
+			[ "eternizaríamos" ],
+			[ "eternizaríais", "eternizarían" ],
+			[ "eternizarían" ]
+		],
+		"7" : [
+			[ "eternizaré" ],
+			[ "eternizarás" ],
+			[ "eternizará" ],
+			[ "eternizaremos" ],
+			[ "eternizaréis", "eternizarán" ],
+			[ "eternizarán" ]
+		],
+		"8" : [
+			[ "eternice" ],
+			[ "eternices" ],
+			[ "eternice" ],
+			[ "eternicemos" ],
+			[ "eternicéis", "eternicen" ],
+			[ "eternicen" ]
+		],
+		"9" : [
+			[ "eternizara" ],
+			[ "eternizaras" ],
+			[ "eternizara" ],
+			[ "eternizáramos" ],
+			[ "eternizarais", "eternizaran" ],
+			[ "eternizaran" ]
+		],
+		"10" : [
+			[ "eternizase" ],
+			[ "eternizases" ],
+			[ "eternizase" ],
+			[ "eternizásemos" ],
+			[ "eternizaseis", "eternizasen" ],
+			[ "eternizasen" ]
+		],
+		"11" : [
+			[ "eternizare" ],
+			[ "eternizares" ],
+			[ "eternizare" ],
+			[ "eternizáremos" ],
+			[ "eternizareis", "eternizaren" ],
+			[ "eternizaren" ]
+		],
+		"12" : {
+			"1" : [ "eterniza" ],
+			"2" : [ "eternice" ],
+			"3" : [ "eternicemos" ],
+			"4" : [ "eternizad" ],
+			"5" : [ "eternicen" ]
+		}
+	}
+}

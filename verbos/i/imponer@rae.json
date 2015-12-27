@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=imponer",
+	"word" : "imponer",
+	"infinitivo" : "imponer",
+	"participio" : [ "impuesto" ],
+	"gerundio" : [ "imponiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "impongo" ],
+			[ "impones", "imponés" ],
+			[ "impone" ],
+			[ "imponemos" ],
+			[ "imponéis", "imponen" ],
+			[ "imponen" ]
+		],
+		"4" : [
+			[ "impuse" ],
+			[ "impusiste" ],
+			[ "impuso" ],
+			[ "impusimos" ],
+			[ "impusisteis", "impusieron" ],
+			[ "impusieron" ]
+		],
+		"5" : [
+			[ "imponía" ],
+			[ "imponías" ],
+			[ "imponía" ],
+			[ "imponíamos" ],
+			[ "imponíais", "imponían" ],
+			[ "imponían" ]
+		],
+		"6" : [
+			[ "impondría" ],
+			[ "impondrías" ],
+			[ "impondría" ],
+			[ "impondríamos" ],
+			[ "impondríais", "impondrían" ],
+			[ "impondrían" ]
+		],
+		"7" : [
+			[ "impondré" ],
+			[ "impondrás" ],
+			[ "impondrá" ],
+			[ "impondremos" ],
+			[ "impondréis", "impondrán" ],
+			[ "impondrán" ]
+		],
+		"8" : [
+			[ "imponga" ],
+			[ "impongas" ],
+			[ "imponga" ],
+			[ "impongamos" ],
+			[ "impongáis", "impongan" ],
+			[ "impongan" ]
+		],
+		"9" : [
+			[ "impusiera" ],
+			[ "impusieras" ],
+			[ "impusiera" ],
+			[ "impusiéramos" ],
+			[ "impusierais", "impusieran" ],
+			[ "impusieran" ]
+		],
+		"10" : [
+			[ "impusiese" ],
+			[ "impusieses" ],
+			[ "impusiese" ],
+			[ "impusiésemos" ],
+			[ "impusieseis", "impusiesen" ],
+			[ "impusiesen" ]
+		],
+		"11" : [
+			[ "impusiere" ],
+			[ "impusieres" ],
+			[ "impusiere" ],
+			[ "impusiéremos" ],
+			[ "impusiereis", "impusieren" ],
+			[ "impusieren" ]
+		],
+		"12" : {
+			"1" : [ "impón" ],
+			"2" : [ "imponga" ],
+			"3" : [ "impongamos" ],
+			"4" : [ "imponed" ],
+			"5" : [ "impongan" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deglutir",
+	"word" : "deglutir",
+	"infinitivo" : "deglutir",
+	"participio" : [ "deglutido" ],
+	"gerundio" : [ "deglutiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "degluto" ],
+			[ "deglutes", "deglutís" ],
+			[ "deglute" ],
+			[ "deglutimos" ],
+			[ "deglutís", "degluten" ],
+			[ "degluten" ]
+		],
+		"4" : [
+			[ "deglutí" ],
+			[ "deglutiste" ],
+			[ "deglutió" ],
+			[ "deglutimos" ],
+			[ "deglutisteis", "deglutieron" ],
+			[ "deglutieron" ]
+		],
+		"5" : [
+			[ "deglutía" ],
+			[ "deglutías" ],
+			[ "deglutía" ],
+			[ "deglutíamos" ],
+			[ "deglutíais", "deglutían" ],
+			[ "deglutían" ]
+		],
+		"6" : [
+			[ "deglutiría" ],
+			[ "deglutirías" ],
+			[ "deglutiría" ],
+			[ "deglutiríamos" ],
+			[ "deglutiríais", "deglutirían" ],
+			[ "deglutirían" ]
+		],
+		"7" : [
+			[ "deglutiré" ],
+			[ "deglutirás" ],
+			[ "deglutirá" ],
+			[ "deglutiremos" ],
+			[ "deglutiréis", "deglutirán" ],
+			[ "deglutirán" ]
+		],
+		"8" : [
+			[ "degluta" ],
+			[ "deglutas" ],
+			[ "degluta" ],
+			[ "deglutamos" ],
+			[ "deglutáis", "deglutan" ],
+			[ "deglutan" ]
+		],
+		"9" : [
+			[ "deglutiera" ],
+			[ "deglutieras" ],
+			[ "deglutiera" ],
+			[ "deglutiéramos" ],
+			[ "deglutierais", "deglutieran" ],
+			[ "deglutieran" ]
+		],
+		"10" : [
+			[ "deglutiese" ],
+			[ "deglutieses" ],
+			[ "deglutiese" ],
+			[ "deglutiésemos" ],
+			[ "deglutieseis", "deglutiesen" ],
+			[ "deglutiesen" ]
+		],
+		"11" : [
+			[ "deglutiere" ],
+			[ "deglutieres" ],
+			[ "deglutiere" ],
+			[ "deglutiéremos" ],
+			[ "deglutiereis", "deglutieren" ],
+			[ "deglutieren" ]
+		],
+		"12" : {
+			"1" : [ "deglute" ],
+			"2" : [ "degluta" ],
+			"3" : [ "deglutamos" ],
+			"4" : [ "deglutid" ],
+			"5" : [ "deglutan" ]
+		}
+	}
+}

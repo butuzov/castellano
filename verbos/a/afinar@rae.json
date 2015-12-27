@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=afinar",
+	"word" : "afinar",
+	"infinitivo" : "afinar",
+	"participio" : [ "afinado" ],
+	"gerundio" : [ "afinando" ],
+	"tenses" : {
+		"3" : [
+			[ "afino" ],
+			[ "afinas", "afinás" ],
+			[ "afina" ],
+			[ "afinamos" ],
+			[ "afináis", "afinan" ],
+			[ "afinan" ]
+		],
+		"4" : [
+			[ "afiné" ],
+			[ "afinaste" ],
+			[ "afinó" ],
+			[ "afinamos" ],
+			[ "afinasteis", "afinaron" ],
+			[ "afinaron" ]
+		],
+		"5" : [
+			[ "afinaba" ],
+			[ "afinabas" ],
+			[ "afinaba" ],
+			[ "afinábamos" ],
+			[ "afinabais", "afinaban" ],
+			[ "afinaban" ]
+		],
+		"6" : [
+			[ "afinaría" ],
+			[ "afinarías" ],
+			[ "afinaría" ],
+			[ "afinaríamos" ],
+			[ "afinaríais", "afinarían" ],
+			[ "afinarían" ]
+		],
+		"7" : [
+			[ "afinaré" ],
+			[ "afinarás" ],
+			[ "afinará" ],
+			[ "afinaremos" ],
+			[ "afinaréis", "afinarán" ],
+			[ "afinarán" ]
+		],
+		"8" : [
+			[ "afine" ],
+			[ "afines" ],
+			[ "afine" ],
+			[ "afinemos" ],
+			[ "afinéis", "afinen" ],
+			[ "afinen" ]
+		],
+		"9" : [
+			[ "afinara" ],
+			[ "afinaras" ],
+			[ "afinara" ],
+			[ "afináramos" ],
+			[ "afinarais", "afinaran" ],
+			[ "afinaran" ]
+		],
+		"10" : [
+			[ "afinase" ],
+			[ "afinases" ],
+			[ "afinase" ],
+			[ "afinásemos" ],
+			[ "afinaseis", "afinasen" ],
+			[ "afinasen" ]
+		],
+		"11" : [
+			[ "afinare" ],
+			[ "afinares" ],
+			[ "afinare" ],
+			[ "afináremos" ],
+			[ "afinareis", "afinaren" ],
+			[ "afinaren" ]
+		],
+		"12" : {
+			"1" : [ "afina" ],
+			"2" : [ "afine" ],
+			"3" : [ "afinemos" ],
+			"4" : [ "afinad" ],
+			"5" : [ "afinen" ]
+		}
+	}
+}

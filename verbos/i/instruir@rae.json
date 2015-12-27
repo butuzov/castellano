@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=instruir",
+	"word" : "instruir",
+	"infinitivo" : "instruir",
+	"participio" : [ "instruido" ],
+	"gerundio" : [ "instruyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "instruyo" ],
+			[ "instruyes", "instruís" ],
+			[ "instruye" ],
+			[ "instruimos" ],
+			[ "instruís", "instruyen" ],
+			[ "instruyen" ]
+		],
+		"4" : [
+			[ "instruí" ],
+			[ "instruiste" ],
+			[ "instruyó" ],
+			[ "instruimos" ],
+			[ "instruisteis", "instruyeron" ],
+			[ "instruyeron" ]
+		],
+		"5" : [
+			[ "instruía" ],
+			[ "instruías" ],
+			[ "instruía" ],
+			[ "instruíamos" ],
+			[ "instruíais", "instruían" ],
+			[ "instruían" ]
+		],
+		"6" : [
+			[ "instruiría" ],
+			[ "instruirías" ],
+			[ "instruiría" ],
+			[ "instruiríamos" ],
+			[ "instruiríais", "instruirían" ],
+			[ "instruirían" ]
+		],
+		"7" : [
+			[ "instruiré" ],
+			[ "instruirás" ],
+			[ "instruirá" ],
+			[ "instruiremos" ],
+			[ "instruiréis", "instruirán" ],
+			[ "instruirán" ]
+		],
+		"8" : [
+			[ "instruya" ],
+			[ "instruyas" ],
+			[ "instruya" ],
+			[ "instruyamos" ],
+			[ "instruyáis", "instruyan" ],
+			[ "instruyan" ]
+		],
+		"9" : [
+			[ "instruyera" ],
+			[ "instruyeras" ],
+			[ "instruyera" ],
+			[ "instruyéramos" ],
+			[ "instruyerais", "instruyeran" ],
+			[ "instruyeran" ]
+		],
+		"10" : [
+			[ "instruyese" ],
+			[ "instruyeses" ],
+			[ "instruyese" ],
+			[ "instruyésemos" ],
+			[ "instruyeseis", "instruyesen" ],
+			[ "instruyesen" ]
+		],
+		"11" : [
+			[ "instruyere" ],
+			[ "instruyeres" ],
+			[ "instruyere" ],
+			[ "instruyéremos" ],
+			[ "instruyereis", "instruyeren" ],
+			[ "instruyeren" ]
+		],
+		"12" : {
+			"1" : [ "instruye" ],
+			"2" : [ "instruya" ],
+			"3" : [ "instruyamos" ],
+			"4" : [ "instruid" ],
+			"5" : [ "instruyan" ]
+		}
+	}
+}

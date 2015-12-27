@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=querer",
+	"word" : "querer",
+	"infinitivo" : "querer",
+	"participio" : [ "querido" ],
+	"gerundio" : [ "queriendo" ],
+	"tenses" : {
+		"3" : [
+			[ "quiero" ],
+			[ "quieres", "querés" ],
+			[ "quiere" ],
+			[ "queremos" ],
+			[ "queréis", "quieren" ],
+			[ "quieren" ]
+		],
+		"4" : [
+			[ "quise" ],
+			[ "quisiste" ],
+			[ "quiso" ],
+			[ "quisimos" ],
+			[ "quisisteis", "quisieron" ],
+			[ "quisieron" ]
+		],
+		"5" : [
+			[ "quería" ],
+			[ "querías" ],
+			[ "quería" ],
+			[ "queríamos" ],
+			[ "queríais", "querían" ],
+			[ "querían" ]
+		],
+		"6" : [
+			[ "querría" ],
+			[ "querrías" ],
+			[ "querría" ],
+			[ "querríamos" ],
+			[ "querríais", "querrían" ],
+			[ "querrían" ]
+		],
+		"7" : [
+			[ "querré" ],
+			[ "querrás" ],
+			[ "querrá" ],
+			[ "querremos" ],
+			[ "querréis", "querrán" ],
+			[ "querrán" ]
+		],
+		"8" : [
+			[ "quiera" ],
+			[ "quieras" ],
+			[ "quiera" ],
+			[ "queramos" ],
+			[ "queráis", "quieran" ],
+			[ "quieran" ]
+		],
+		"9" : [
+			[ "quisiera" ],
+			[ "quisieras" ],
+			[ "quisiera" ],
+			[ "quisiéramos" ],
+			[ "quisierais", "quisieran" ],
+			[ "quisieran" ]
+		],
+		"10" : [
+			[ "quisiese" ],
+			[ "quisieses" ],
+			[ "quisiese" ],
+			[ "quisiésemos" ],
+			[ "quisieseis", "quisiesen" ],
+			[ "quisiesen" ]
+		],
+		"11" : [
+			[ "quisiere" ],
+			[ "quisieres" ],
+			[ "quisiere" ],
+			[ "quisiéremos" ],
+			[ "quisiereis", "quisieren" ],
+			[ "quisieren" ]
+		],
+		"12" : {
+			"1" : [ "quiere" ],
+			"2" : [ "quiera" ],
+			"3" : [ "queramos" ],
+			"4" : [ "quered" ],
+			"5" : [ "quieran" ]
+		}
+	}
+}

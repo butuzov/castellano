@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=permutar",
+	"word" : "permutar",
+	"infinitivo" : "permutar",
+	"participio" : [ "permutado" ],
+	"gerundio" : [ "permutando" ],
+	"tenses" : {
+		"3" : [
+			[ "permuto" ],
+			[ "permutas", "permutás" ],
+			[ "permuta" ],
+			[ "permutamos" ],
+			[ "permutáis", "permutan" ],
+			[ "permutan" ]
+		],
+		"4" : [
+			[ "permuté" ],
+			[ "permutaste" ],
+			[ "permutó" ],
+			[ "permutamos" ],
+			[ "permutasteis", "permutaron" ],
+			[ "permutaron" ]
+		],
+		"5" : [
+			[ "permutaba" ],
+			[ "permutabas" ],
+			[ "permutaba" ],
+			[ "permutábamos" ],
+			[ "permutabais", "permutaban" ],
+			[ "permutaban" ]
+		],
+		"6" : [
+			[ "permutaría" ],
+			[ "permutarías" ],
+			[ "permutaría" ],
+			[ "permutaríamos" ],
+			[ "permutaríais", "permutarían" ],
+			[ "permutarían" ]
+		],
+		"7" : [
+			[ "permutaré" ],
+			[ "permutarás" ],
+			[ "permutará" ],
+			[ "permutaremos" ],
+			[ "permutaréis", "permutarán" ],
+			[ "permutarán" ]
+		],
+		"8" : [
+			[ "permute" ],
+			[ "permutes" ],
+			[ "permute" ],
+			[ "permutemos" ],
+			[ "permutéis", "permuten" ],
+			[ "permuten" ]
+		],
+		"9" : [
+			[ "permutara" ],
+			[ "permutaras" ],
+			[ "permutara" ],
+			[ "permutáramos" ],
+			[ "permutarais", "permutaran" ],
+			[ "permutaran" ]
+		],
+		"10" : [
+			[ "permutase" ],
+			[ "permutases" ],
+			[ "permutase" ],
+			[ "permutásemos" ],
+			[ "permutaseis", "permutasen" ],
+			[ "permutasen" ]
+		],
+		"11" : [
+			[ "permutare" ],
+			[ "permutares" ],
+			[ "permutare" ],
+			[ "permutáremos" ],
+			[ "permutareis", "permutaren" ],
+			[ "permutaren" ]
+		],
+		"12" : {
+			"1" : [ "permuta" ],
+			"2" : [ "permute" ],
+			"3" : [ "permutemos" ],
+			"4" : [ "permutad" ],
+			"5" : [ "permuten" ]
+		}
+	}
+}

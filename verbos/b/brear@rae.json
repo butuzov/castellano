@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=brear",
+	"word" : "brear",
+	"infinitivo" : "brear",
+	"participio" : [ "breado" ],
+	"gerundio" : [ "breando" ],
+	"tenses" : {
+		"3" : [
+			[ "breo" ],
+			[ "breas", "breás" ],
+			[ "brea" ],
+			[ "breamos" ],
+			[ "breáis", "brean" ],
+			[ "brean" ]
+		],
+		"4" : [
+			[ "breé" ],
+			[ "breaste" ],
+			[ "breó" ],
+			[ "breamos" ],
+			[ "breasteis", "brearon" ],
+			[ "brearon" ]
+		],
+		"5" : [
+			[ "breaba" ],
+			[ "breabas" ],
+			[ "breaba" ],
+			[ "breábamos" ],
+			[ "breabais", "breaban" ],
+			[ "breaban" ]
+		],
+		"6" : [
+			[ "brearía" ],
+			[ "brearías" ],
+			[ "brearía" ],
+			[ "brearíamos" ],
+			[ "brearíais", "brearían" ],
+			[ "brearían" ]
+		],
+		"7" : [
+			[ "brearé" ],
+			[ "brearás" ],
+			[ "breará" ],
+			[ "brearemos" ],
+			[ "brearéis", "brearán" ],
+			[ "brearán" ]
+		],
+		"8" : [
+			[ "bree" ],
+			[ "brees" ],
+			[ "bree" ],
+			[ "breemos" ],
+			[ "breéis", "breen" ],
+			[ "breen" ]
+		],
+		"9" : [
+			[ "breara" ],
+			[ "brearas" ],
+			[ "breara" ],
+			[ "breáramos" ],
+			[ "brearais", "brearan" ],
+			[ "brearan" ]
+		],
+		"10" : [
+			[ "brease" ],
+			[ "breases" ],
+			[ "brease" ],
+			[ "breásemos" ],
+			[ "breaseis", "breasen" ],
+			[ "breasen" ]
+		],
+		"11" : [
+			[ "breare" ],
+			[ "breares" ],
+			[ "breare" ],
+			[ "breáremos" ],
+			[ "breareis", "brearen" ],
+			[ "brearen" ]
+		],
+		"12" : {
+			"1" : [ "brea" ],
+			"2" : [ "bree" ],
+			"3" : [ "breemos" ],
+			"4" : [ "bread" ],
+			"5" : [ "breen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bolear",
+	"word" : "bolear",
+	"infinitivo" : "bolear",
+	"participio" : [ "boleado" ],
+	"gerundio" : [ "boleando" ],
+	"tenses" : {
+		"3" : [
+			[ "boleo" ],
+			[ "boleas", "boleás" ],
+			[ "bolea" ],
+			[ "boleamos" ],
+			[ "boleáis", "bolean" ],
+			[ "bolean" ]
+		],
+		"4" : [
+			[ "boleé" ],
+			[ "boleaste" ],
+			[ "boleó" ],
+			[ "boleamos" ],
+			[ "boleasteis", "bolearon" ],
+			[ "bolearon" ]
+		],
+		"5" : [
+			[ "boleaba" ],
+			[ "boleabas" ],
+			[ "boleaba" ],
+			[ "boleábamos" ],
+			[ "boleabais", "boleaban" ],
+			[ "boleaban" ]
+		],
+		"6" : [
+			[ "bolearía" ],
+			[ "bolearías" ],
+			[ "bolearía" ],
+			[ "bolearíamos" ],
+			[ "bolearíais", "bolearían" ],
+			[ "bolearían" ]
+		],
+		"7" : [
+			[ "bolearé" ],
+			[ "bolearás" ],
+			[ "boleará" ],
+			[ "bolearemos" ],
+			[ "bolearéis", "bolearán" ],
+			[ "bolearán" ]
+		],
+		"8" : [
+			[ "bolee" ],
+			[ "bolees" ],
+			[ "bolee" ],
+			[ "boleemos" ],
+			[ "boleéis", "boleen" ],
+			[ "boleen" ]
+		],
+		"9" : [
+			[ "boleara" ],
+			[ "bolearas" ],
+			[ "boleara" ],
+			[ "boleáramos" ],
+			[ "bolearais", "bolearan" ],
+			[ "bolearan" ]
+		],
+		"10" : [
+			[ "bolease" ],
+			[ "boleases" ],
+			[ "bolease" ],
+			[ "boleásemos" ],
+			[ "boleaseis", "boleasen" ],
+			[ "boleasen" ]
+		],
+		"11" : [
+			[ "boleare" ],
+			[ "boleares" ],
+			[ "boleare" ],
+			[ "boleáremos" ],
+			[ "boleareis", "bolearen" ],
+			[ "bolearen" ]
+		],
+		"12" : {
+			"1" : [ "bolea" ],
+			"2" : [ "bolee" ],
+			"3" : [ "boleemos" ],
+			"4" : [ "bolead" ],
+			"5" : [ "boleen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=proporcionar",
+	"word" : "proporcionar",
+	"infinitivo" : "proporcionar",
+	"participio" : [ "proporcionado" ],
+	"gerundio" : [ "proporcionando" ],
+	"tenses" : {
+		"3" : [
+			[ "proporciono" ],
+			[ "proporcionas", "proporcionás" ],
+			[ "proporciona" ],
+			[ "proporcionamos" ],
+			[ "proporcionáis", "proporcionan" ],
+			[ "proporcionan" ]
+		],
+		"4" : [
+			[ "proporcioné" ],
+			[ "proporcionaste" ],
+			[ "proporcionó" ],
+			[ "proporcionamos" ],
+			[ "proporcionasteis", "proporcionaron" ],
+			[ "proporcionaron" ]
+		],
+		"5" : [
+			[ "proporcionaba" ],
+			[ "proporcionabas" ],
+			[ "proporcionaba" ],
+			[ "proporcionábamos" ],
+			[ "proporcionabais", "proporcionaban" ],
+			[ "proporcionaban" ]
+		],
+		"6" : [
+			[ "proporcionaría" ],
+			[ "proporcionarías" ],
+			[ "proporcionaría" ],
+			[ "proporcionaríamos" ],
+			[ "proporcionaríais", "proporcionarían" ],
+			[ "proporcionarían" ]
+		],
+		"7" : [
+			[ "proporcionaré" ],
+			[ "proporcionarás" ],
+			[ "proporcionará" ],
+			[ "proporcionaremos" ],
+			[ "proporcionaréis", "proporcionarán" ],
+			[ "proporcionarán" ]
+		],
+		"8" : [
+			[ "proporcione" ],
+			[ "proporciones" ],
+			[ "proporcione" ],
+			[ "proporcionemos" ],
+			[ "proporcionéis", "proporcionen" ],
+			[ "proporcionen" ]
+		],
+		"9" : [
+			[ "proporcionara" ],
+			[ "proporcionaras" ],
+			[ "proporcionara" ],
+			[ "proporcionáramos" ],
+			[ "proporcionarais", "proporcionaran" ],
+			[ "proporcionaran" ]
+		],
+		"10" : [
+			[ "proporcionase" ],
+			[ "proporcionases" ],
+			[ "proporcionase" ],
+			[ "proporcionásemos" ],
+			[ "proporcionaseis", "proporcionasen" ],
+			[ "proporcionasen" ]
+		],
+		"11" : [
+			[ "proporcionare" ],
+			[ "proporcionares" ],
+			[ "proporcionare" ],
+			[ "proporcionáremos" ],
+			[ "proporcionareis", "proporcionaren" ],
+			[ "proporcionaren" ]
+		],
+		"12" : {
+			"1" : [ "proporciona" ],
+			"2" : [ "proporcione" ],
+			"3" : [ "proporcionemos" ],
+			"4" : [ "proporcionad" ],
+			"5" : [ "proporcionen" ]
+		}
+	}
+}

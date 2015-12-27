@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=esperezarse",
+	"word" : "esperezarse",
+	"infinitivo" : "esperezarse",
+	"participio" : [ "esperezado" ],
+	"gerundio" : [ "esperezándome", "esperezándote" ],
+	"tenses" : {
+		"3" : [
+			[ "me esperezo" ],
+			[ "te esperezas", "te esperezás" ],
+			[ "se espereza" ],
+			[ "nos esperezamos" ],
+			[ "os esperezáis", "se esperezan" ],
+			[ "se esperezan" ]
+		],
+		"4" : [
+			[ "me esperecé" ],
+			[ "te esperezaste" ],
+			[ "se esperezó" ],
+			[ "nos esperezamos" ],
+			[ "os esperezasteis", "se esperezaron" ],
+			[ "se esperezaron" ]
+		],
+		"5" : [
+			[ "me esperezaba" ],
+			[ "te esperezabas" ],
+			[ "se esperezaba" ],
+			[ "nos esperezábamos" ],
+			[ "os esperezabais", "se esperezaban" ],
+			[ "se esperezaban" ]
+		],
+		"6" : [
+			[ "me esperezaría" ],
+			[ "te esperezarías" ],
+			[ "se esperezaría" ],
+			[ "nos esperezaríamos" ],
+			[ "os esperezaríais", "se esperezarían" ],
+			[ "se esperezarían" ]
+		],
+		"7" : [
+			[ "me esperezaré" ],
+			[ "te esperezarás" ],
+			[ "se esperezará" ],
+			[ "nos esperezaremos" ],
+			[ "os esperezaréis", "se esperezarán" ],
+			[ "se esperezarán" ]
+		],
+		"8" : [
+			[ "me esperece" ],
+			[ "te espereces" ],
+			[ "se esperece" ],
+			[ "nos esperecemos" ],
+			[ "os esperecéis", "se esperecen" ],
+			[ "se esperecen" ]
+		],
+		"9" : [
+			[ "me esperezara" ],
+			[ "te esperezaras" ],
+			[ "se esperezara" ],
+			[ "nos esperezáramos" ],
+			[ "os esperezarais", "se esperezaran" ],
+			[ "se esperezaran" ]
+		],
+		"10" : [
+			[ "me esperezase" ],
+			[ "te esperezases" ],
+			[ "se esperezase" ],
+			[ "nos esperezásemos" ],
+			[ "os esperezaseis", "se esperezasen" ],
+			[ "se esperezasen" ]
+		],
+		"11" : [
+			[ "me esperezare" ],
+			[ "te esperezares" ],
+			[ "se esperezare" ],
+			[ "nos esperezáremos" ],
+			[ "os esperezareis", "se esperezaren" ],
+			[ "se esperezaren" ]
+		],
+		"12" : {
+			"1" : [ "esperézate" ],
+			"2" : [ "esperece" ],
+			"3" : [ "esperecemos" ],
+			"4" : [ "esperezaos" ],
+			"5" : [ "esperécense" ]
+		}
+	}
+}

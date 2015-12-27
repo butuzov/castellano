@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=creer",
+	"word" : "creer",
+	"infinitivo" : "creer",
+	"participio" : [ "creído" ],
+	"gerundio" : [ "creyendo" ],
+	"tenses" : {
+		"3" : [
+			[ "creo" ],
+			[ "crees", "creés" ],
+			[ "cree" ],
+			[ "creemos" ],
+			[ "creéis", "creen" ],
+			[ "creen" ]
+		],
+		"4" : [
+			[ "creí" ],
+			[ "creíste" ],
+			[ "creyó" ],
+			[ "creímos" ],
+			[ "creísteis", "creyeron" ],
+			[ "creyeron" ]
+		],
+		"5" : [
+			[ "creía" ],
+			[ "creías" ],
+			[ "creía" ],
+			[ "creíamos" ],
+			[ "creíais", "creían" ],
+			[ "creían" ]
+		],
+		"6" : [
+			[ "creería" ],
+			[ "creerías" ],
+			[ "creería" ],
+			[ "creeríamos" ],
+			[ "creeríais", "creerían" ],
+			[ "creerían" ]
+		],
+		"7" : [
+			[ "creeré" ],
+			[ "creerás" ],
+			[ "creerá" ],
+			[ "creeremos" ],
+			[ "creeréis", "creerán" ],
+			[ "creerán" ]
+		],
+		"8" : [
+			[ "crea" ],
+			[ "creas" ],
+			[ "crea" ],
+			[ "creamos" ],
+			[ "creáis", "crean" ],
+			[ "crean" ]
+		],
+		"9" : [
+			[ "creyera" ],
+			[ "creyeras" ],
+			[ "creyera" ],
+			[ "creyéramos" ],
+			[ "creyerais", "creyeran" ],
+			[ "creyeran" ]
+		],
+		"10" : [
+			[ "creyese" ],
+			[ "creyeses" ],
+			[ "creyese" ],
+			[ "creyésemos" ],
+			[ "creyeseis", "creyesen" ],
+			[ "creyesen" ]
+		],
+		"11" : [
+			[ "creyere" ],
+			[ "creyeres" ],
+			[ "creyere" ],
+			[ "creyéremos" ],
+			[ "creyereis", "creyeren" ],
+			[ "creyeren" ]
+		],
+		"12" : {
+			"1" : [ "cree" ],
+			"2" : [ "crea" ],
+			"3" : [ "creamos" ],
+			"4" : [ "creed" ],
+			"5" : [ "crean" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=fintar",
+	"word" : "fintar",
+	"infinitivo" : "fintar",
+	"participio" : [ "fintado" ],
+	"gerundio" : [ "fintando" ],
+	"tenses" : {
+		"3" : [
+			[ "finto" ],
+			[ "fintas", "fintás" ],
+			[ "finta" ],
+			[ "fintamos" ],
+			[ "fintáis", "fintan" ],
+			[ "fintan" ]
+		],
+		"4" : [
+			[ "finté" ],
+			[ "fintaste" ],
+			[ "fintó" ],
+			[ "fintamos" ],
+			[ "fintasteis", "fintaron" ],
+			[ "fintaron" ]
+		],
+		"5" : [
+			[ "fintaba" ],
+			[ "fintabas" ],
+			[ "fintaba" ],
+			[ "fintábamos" ],
+			[ "fintabais", "fintaban" ],
+			[ "fintaban" ]
+		],
+		"6" : [
+			[ "fintaría" ],
+			[ "fintarías" ],
+			[ "fintaría" ],
+			[ "fintaríamos" ],
+			[ "fintaríais", "fintarían" ],
+			[ "fintarían" ]
+		],
+		"7" : [
+			[ "fintaré" ],
+			[ "fintarás" ],
+			[ "fintará" ],
+			[ "fintaremos" ],
+			[ "fintaréis", "fintarán" ],
+			[ "fintarán" ]
+		],
+		"8" : [
+			[ "finte" ],
+			[ "fintes" ],
+			[ "finte" ],
+			[ "fintemos" ],
+			[ "fintéis", "finten" ],
+			[ "finten" ]
+		],
+		"9" : [
+			[ "fintara" ],
+			[ "fintaras" ],
+			[ "fintara" ],
+			[ "fintáramos" ],
+			[ "fintarais", "fintaran" ],
+			[ "fintaran" ]
+		],
+		"10" : [
+			[ "fintase" ],
+			[ "fintases" ],
+			[ "fintase" ],
+			[ "fintásemos" ],
+			[ "fintaseis", "fintasen" ],
+			[ "fintasen" ]
+		],
+		"11" : [
+			[ "fintare" ],
+			[ "fintares" ],
+			[ "fintare" ],
+			[ "fintáremos" ],
+			[ "fintareis", "fintaren" ],
+			[ "fintaren" ]
+		],
+		"12" : {
+			"1" : [ "finta" ],
+			"2" : [ "finte" ],
+			"3" : [ "fintemos" ],
+			"4" : [ "fintad" ],
+			"5" : [ "finten" ]
+		}
+	}
+}

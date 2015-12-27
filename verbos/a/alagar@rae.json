@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=alagar",
+	"word" : "alagar",
+	"infinitivo" : "alagar",
+	"participio" : [ "alagado" ],
+	"gerundio" : [ "alagando" ],
+	"tenses" : {
+		"3" : [
+			[ "alago" ],
+			[ "alagas", "alagás" ],
+			[ "alaga" ],
+			[ "alagamos" ],
+			[ "alagáis", "alagan" ],
+			[ "alagan" ]
+		],
+		"4" : [
+			[ "alagué" ],
+			[ "alagaste" ],
+			[ "alagó" ],
+			[ "alagamos" ],
+			[ "alagasteis", "alagaron" ],
+			[ "alagaron" ]
+		],
+		"5" : [
+			[ "alagaba" ],
+			[ "alagabas" ],
+			[ "alagaba" ],
+			[ "alagábamos" ],
+			[ "alagabais", "alagaban" ],
+			[ "alagaban" ]
+		],
+		"6" : [
+			[ "alagaría" ],
+			[ "alagarías" ],
+			[ "alagaría" ],
+			[ "alagaríamos" ],
+			[ "alagaríais", "alagarían" ],
+			[ "alagarían" ]
+		],
+		"7" : [
+			[ "alagaré" ],
+			[ "alagarás" ],
+			[ "alagará" ],
+			[ "alagaremos" ],
+			[ "alagaréis", "alagarán" ],
+			[ "alagarán" ]
+		],
+		"8" : [
+			[ "alague" ],
+			[ "alagues" ],
+			[ "alague" ],
+			[ "alaguemos" ],
+			[ "alaguéis", "alaguen" ],
+			[ "alaguen" ]
+		],
+		"9" : [
+			[ "alagara" ],
+			[ "alagaras" ],
+			[ "alagara" ],
+			[ "alagáramos" ],
+			[ "alagarais", "alagaran" ],
+			[ "alagaran" ]
+		],
+		"10" : [
+			[ "alagase" ],
+			[ "alagases" ],
+			[ "alagase" ],
+			[ "alagásemos" ],
+			[ "alagaseis", "alagasen" ],
+			[ "alagasen" ]
+		],
+		"11" : [
+			[ "alagare" ],
+			[ "alagares" ],
+			[ "alagare" ],
+			[ "alagáremos" ],
+			[ "alagareis", "alagaren" ],
+			[ "alagaren" ]
+		],
+		"12" : {
+			"1" : [ "alaga" ],
+			"2" : [ "alague" ],
+			"3" : [ "alaguemos" ],
+			"4" : [ "alagad" ],
+			"5" : [ "alaguen" ]
+		}
+	}
+}

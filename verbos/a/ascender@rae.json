@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ascender",
+	"word" : "ascender",
+	"infinitivo" : "ascender",
+	"participio" : [ "ascendido" ],
+	"gerundio" : [ "ascendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "asciendo" ],
+			[ "asciendes", "ascendés" ],
+			[ "asciende" ],
+			[ "ascendemos" ],
+			[ "ascendéis", "ascienden" ],
+			[ "ascienden" ]
+		],
+		"4" : [
+			[ "ascendí" ],
+			[ "ascendiste" ],
+			[ "ascendió" ],
+			[ "ascendimos" ],
+			[ "ascendisteis", "ascendieron" ],
+			[ "ascendieron" ]
+		],
+		"5" : [
+			[ "ascendía" ],
+			[ "ascendías" ],
+			[ "ascendía" ],
+			[ "ascendíamos" ],
+			[ "ascendíais", "ascendían" ],
+			[ "ascendían" ]
+		],
+		"6" : [
+			[ "ascendería" ],
+			[ "ascenderías" ],
+			[ "ascendería" ],
+			[ "ascenderíamos" ],
+			[ "ascenderíais", "ascenderían" ],
+			[ "ascenderían" ]
+		],
+		"7" : [
+			[ "ascenderé" ],
+			[ "ascenderás" ],
+			[ "ascenderá" ],
+			[ "ascenderemos" ],
+			[ "ascenderéis", "ascenderán" ],
+			[ "ascenderán" ]
+		],
+		"8" : [
+			[ "ascienda" ],
+			[ "asciendas" ],
+			[ "ascienda" ],
+			[ "ascendamos" ],
+			[ "ascendáis", "asciendan" ],
+			[ "asciendan" ]
+		],
+		"9" : [
+			[ "ascendiera" ],
+			[ "ascendieras" ],
+			[ "ascendiera" ],
+			[ "ascendiéramos" ],
+			[ "ascendierais", "ascendieran" ],
+			[ "ascendieran" ]
+		],
+		"10" : [
+			[ "ascendiese" ],
+			[ "ascendieses" ],
+			[ "ascendiese" ],
+			[ "ascendiésemos" ],
+			[ "ascendieseis", "ascendiesen" ],
+			[ "ascendiesen" ]
+		],
+		"11" : [
+			[ "ascendiere" ],
+			[ "ascendieres" ],
+			[ "ascendiere" ],
+			[ "ascendiéremos" ],
+			[ "ascendiereis", "ascendieren" ],
+			[ "ascendieren" ]
+		],
+		"12" : {
+			"1" : [ "asciende" ],
+			"2" : [ "ascienda" ],
+			"3" : [ "ascendamos" ],
+			"4" : [ "ascended" ],
+			"5" : [ "asciendan" ]
+		}
+	}
+}

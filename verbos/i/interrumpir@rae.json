@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=interrumpir",
+	"word" : "interrumpir",
+	"infinitivo" : "interrumpir",
+	"participio" : [ "interrumpido" ],
+	"gerundio" : [ "interrumpiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "interrumpo" ],
+			[ "interrumpes", "interrumpís" ],
+			[ "interrumpe" ],
+			[ "interrumpimos" ],
+			[ "interrumpís", "interrumpen" ],
+			[ "interrumpen" ]
+		],
+		"4" : [
+			[ "interrumpí" ],
+			[ "interrumpiste" ],
+			[ "interrumpió" ],
+			[ "interrumpimos" ],
+			[ "interrumpisteis", "interrumpieron" ],
+			[ "interrumpieron" ]
+		],
+		"5" : [
+			[ "interrumpía" ],
+			[ "interrumpías" ],
+			[ "interrumpía" ],
+			[ "interrumpíamos" ],
+			[ "interrumpíais", "interrumpían" ],
+			[ "interrumpían" ]
+		],
+		"6" : [
+			[ "interrumpiría" ],
+			[ "interrumpirías" ],
+			[ "interrumpiría" ],
+			[ "interrumpiríamos" ],
+			[ "interrumpiríais", "interrumpirían" ],
+			[ "interrumpirían" ]
+		],
+		"7" : [
+			[ "interrumpiré" ],
+			[ "interrumpirás" ],
+			[ "interrumpirá" ],
+			[ "interrumpiremos" ],
+			[ "interrumpiréis", "interrumpirán" ],
+			[ "interrumpirán" ]
+		],
+		"8" : [
+			[ "interrumpa" ],
+			[ "interrumpas" ],
+			[ "interrumpa" ],
+			[ "interrumpamos" ],
+			[ "interrumpáis", "interrumpan" ],
+			[ "interrumpan" ]
+		],
+		"9" : [
+			[ "interrumpiera" ],
+			[ "interrumpieras" ],
+			[ "interrumpiera" ],
+			[ "interrumpiéramos" ],
+			[ "interrumpierais", "interrumpieran" ],
+			[ "interrumpieran" ]
+		],
+		"10" : [
+			[ "interrumpiese" ],
+			[ "interrumpieses" ],
+			[ "interrumpiese" ],
+			[ "interrumpiésemos" ],
+			[ "interrumpieseis", "interrumpiesen" ],
+			[ "interrumpiesen" ]
+		],
+		"11" : [
+			[ "interrumpiere" ],
+			[ "interrumpieres" ],
+			[ "interrumpiere" ],
+			[ "interrumpiéremos" ],
+			[ "interrumpiereis", "interrumpieren" ],
+			[ "interrumpieren" ]
+		],
+		"12" : {
+			"1" : [ "interrumpe" ],
+			"2" : [ "interrumpa" ],
+			"3" : [ "interrumpamos" ],
+			"4" : [ "interrumpid" ],
+			"5" : [ "interrumpan" ]
+		}
+	}
+}

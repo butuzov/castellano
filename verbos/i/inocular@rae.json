@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=inocular",
+	"word" : "inocular",
+	"infinitivo" : "inocular",
+	"participio" : [ "inoculado" ],
+	"gerundio" : [ "inoculando" ],
+	"tenses" : {
+		"3" : [
+			[ "inoculo" ],
+			[ "inoculas", "inoculás" ],
+			[ "inocula" ],
+			[ "inoculamos" ],
+			[ "inoculáis", "inoculan" ],
+			[ "inoculan" ]
+		],
+		"4" : [
+			[ "inoculé" ],
+			[ "inoculaste" ],
+			[ "inoculó" ],
+			[ "inoculamos" ],
+			[ "inoculasteis", "inocularon" ],
+			[ "inocularon" ]
+		],
+		"5" : [
+			[ "inoculaba" ],
+			[ "inoculabas" ],
+			[ "inoculaba" ],
+			[ "inoculábamos" ],
+			[ "inoculabais", "inoculaban" ],
+			[ "inoculaban" ]
+		],
+		"6" : [
+			[ "inocularía" ],
+			[ "inocularías" ],
+			[ "inocularía" ],
+			[ "inocularíamos" ],
+			[ "inocularíais", "inocularían" ],
+			[ "inocularían" ]
+		],
+		"7" : [
+			[ "inocularé" ],
+			[ "inocularás" ],
+			[ "inoculará" ],
+			[ "inocularemos" ],
+			[ "inocularéis", "inocularán" ],
+			[ "inocularán" ]
+		],
+		"8" : [
+			[ "inocule" ],
+			[ "inocules" ],
+			[ "inocule" ],
+			[ "inoculemos" ],
+			[ "inoculéis", "inoculen" ],
+			[ "inoculen" ]
+		],
+		"9" : [
+			[ "inoculara" ],
+			[ "inocularas" ],
+			[ "inoculara" ],
+			[ "inoculáramos" ],
+			[ "inocularais", "inocularan" ],
+			[ "inocularan" ]
+		],
+		"10" : [
+			[ "inoculase" ],
+			[ "inoculases" ],
+			[ "inoculase" ],
+			[ "inoculásemos" ],
+			[ "inoculaseis", "inoculasen" ],
+			[ "inoculasen" ]
+		],
+		"11" : [
+			[ "inoculare" ],
+			[ "inoculares" ],
+			[ "inoculare" ],
+			[ "inoculáremos" ],
+			[ "inoculareis", "inocularen" ],
+			[ "inocularen" ]
+		],
+		"12" : {
+			"1" : [ "inocula" ],
+			"2" : [ "inocule" ],
+			"3" : [ "inoculemos" ],
+			"4" : [ "inoculad" ],
+			"5" : [ "inoculen" ]
+		}
+	}
+}

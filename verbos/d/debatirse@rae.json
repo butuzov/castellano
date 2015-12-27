@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=debatirse",
+	"word" : "debatirse",
+	"infinitivo" : "debatirse",
+	"participio" : [ "debatido" ],
+	"gerundio" : [ "debatiéndome", "debatiéndote" ],
+	"tenses" : {
+		"3" : [
+			[ "me debato" ],
+			[ "te debates", "te debatís" ],
+			[ "se debate" ],
+			[ "nos debatimos" ],
+			[ "os debatís", "se debaten" ],
+			[ "se debaten" ]
+		],
+		"4" : [
+			[ "me debatí" ],
+			[ "te debatiste" ],
+			[ "se debatió" ],
+			[ "nos debatimos" ],
+			[ "os debatisteis", "se debatieron" ],
+			[ "se debatieron" ]
+		],
+		"5" : [
+			[ "me debatía" ],
+			[ "te debatías" ],
+			[ "se debatía" ],
+			[ "nos debatíamos" ],
+			[ "os debatíais", "se debatían" ],
+			[ "se debatían" ]
+		],
+		"6" : [
+			[ "me debatiría" ],
+			[ "te debatirías" ],
+			[ "se debatiría" ],
+			[ "nos debatiríamos" ],
+			[ "os debatiríais", "se debatirían" ],
+			[ "se debatirían" ]
+		],
+		"7" : [
+			[ "me debatiré" ],
+			[ "te debatirás" ],
+			[ "se debatirá" ],
+			[ "nos debatiremos" ],
+			[ "os debatiréis", "se debatirán" ],
+			[ "se debatirán" ]
+		],
+		"8" : [
+			[ "me debata" ],
+			[ "te debatas" ],
+			[ "se debata" ],
+			[ "nos debatamos" ],
+			[ "os debatáis", "se debatan" ],
+			[ "se debatan" ]
+		],
+		"9" : [
+			[ "me debatiera" ],
+			[ "te debatieras" ],
+			[ "se debatiera" ],
+			[ "nos debatiéramos" ],
+			[ "os debatierais", "se debatieran" ],
+			[ "se debatieran" ]
+		],
+		"10" : [
+			[ "me debatiese" ],
+			[ "te debatieses" ],
+			[ "se debatiese" ],
+			[ "nos debatiésemos" ],
+			[ "os debatieseis", "se debatiesen" ],
+			[ "se debatiesen" ]
+		],
+		"11" : [
+			[ "me debatiere" ],
+			[ "te debatieres" ],
+			[ "se debatiere" ],
+			[ "nos debatiéremos" ],
+			[ "os debatiereis", "se debatieren" ],
+			[ "se debatieren" ]
+		],
+		"12" : {
+			"1" : [ "debátete" ],
+			"2" : [ "debata" ],
+			"3" : [ "debatamos" ],
+			"4" : [ "debatíos" ],
+			"5" : [ "debátanse" ]
+		}
+	}
+}

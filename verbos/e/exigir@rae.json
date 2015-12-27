@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=exigir",
+	"word" : "exigir",
+	"infinitivo" : "exigir",
+	"participio" : [ "exigido" ],
+	"gerundio" : [ "exigiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "exijo" ],
+			[ "exiges", "exigís" ],
+			[ "exige" ],
+			[ "exigimos" ],
+			[ "exigís", "exigen" ],
+			[ "exigen" ]
+		],
+		"4" : [
+			[ "exigí" ],
+			[ "exigiste" ],
+			[ "exigió" ],
+			[ "exigimos" ],
+			[ "exigisteis", "exigieron" ],
+			[ "exigieron" ]
+		],
+		"5" : [
+			[ "exigía" ],
+			[ "exigías" ],
+			[ "exigía" ],
+			[ "exigíamos" ],
+			[ "exigíais", "exigían" ],
+			[ "exigían" ]
+		],
+		"6" : [
+			[ "exigiría" ],
+			[ "exigirías" ],
+			[ "exigiría" ],
+			[ "exigiríamos" ],
+			[ "exigiríais", "exigirían" ],
+			[ "exigirían" ]
+		],
+		"7" : [
+			[ "exigiré" ],
+			[ "exigirás" ],
+			[ "exigirá" ],
+			[ "exigiremos" ],
+			[ "exigiréis", "exigirán" ],
+			[ "exigirán" ]
+		],
+		"8" : [
+			[ "exija" ],
+			[ "exijas" ],
+			[ "exija" ],
+			[ "exijamos" ],
+			[ "exijáis", "exijan" ],
+			[ "exijan" ]
+		],
+		"9" : [
+			[ "exigiera" ],
+			[ "exigieras" ],
+			[ "exigiera" ],
+			[ "exigiéramos" ],
+			[ "exigierais", "exigieran" ],
+			[ "exigieran" ]
+		],
+		"10" : [
+			[ "exigiese" ],
+			[ "exigieses" ],
+			[ "exigiese" ],
+			[ "exigiésemos" ],
+			[ "exigieseis", "exigiesen" ],
+			[ "exigiesen" ]
+		],
+		"11" : [
+			[ "exigiere" ],
+			[ "exigieres" ],
+			[ "exigiere" ],
+			[ "exigiéremos" ],
+			[ "exigiereis", "exigieren" ],
+			[ "exigieren" ]
+		],
+		"12" : {
+			"1" : [ "exige" ],
+			"2" : [ "exija" ],
+			"3" : [ "exijamos" ],
+			"4" : [ "exigid" ],
+			"5" : [ "exijan" ]
+		}
+	}
+}

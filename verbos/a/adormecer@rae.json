@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adormecer",
+	"word" : "adormecer",
+	"infinitivo" : "adormecer",
+	"participio" : [ "adormecido" ],
+	"gerundio" : [ "adormeciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "adormezco" ],
+			[ "adormeces", "adormecés" ],
+			[ "adormece" ],
+			[ "adormecemos" ],
+			[ "adormecéis", "adormecen" ],
+			[ "adormecen" ]
+		],
+		"4" : [
+			[ "adormecí" ],
+			[ "adormeciste" ],
+			[ "adormeció" ],
+			[ "adormecimos" ],
+			[ "adormecisteis", "adormecieron" ],
+			[ "adormecieron" ]
+		],
+		"5" : [
+			[ "adormecía" ],
+			[ "adormecías" ],
+			[ "adormecía" ],
+			[ "adormecíamos" ],
+			[ "adormecíais", "adormecían" ],
+			[ "adormecían" ]
+		],
+		"6" : [
+			[ "adormecería" ],
+			[ "adormecerías" ],
+			[ "adormecería" ],
+			[ "adormeceríamos" ],
+			[ "adormeceríais", "adormecerían" ],
+			[ "adormecerían" ]
+		],
+		"7" : [
+			[ "adormeceré" ],
+			[ "adormecerás" ],
+			[ "adormecerá" ],
+			[ "adormeceremos" ],
+			[ "adormeceréis", "adormecerán" ],
+			[ "adormecerán" ]
+		],
+		"8" : [
+			[ "adormezca" ],
+			[ "adormezcas" ],
+			[ "adormezca" ],
+			[ "adormezcamos" ],
+			[ "adormezcáis", "adormezcan" ],
+			[ "adormezcan" ]
+		],
+		"9" : [
+			[ "adormeciera" ],
+			[ "adormecieras" ],
+			[ "adormeciera" ],
+			[ "adormeciéramos" ],
+			[ "adormecierais", "adormecieran" ],
+			[ "adormecieran" ]
+		],
+		"10" : [
+			[ "adormeciese" ],
+			[ "adormecieses" ],
+			[ "adormeciese" ],
+			[ "adormeciésemos" ],
+			[ "adormecieseis", "adormeciesen" ],
+			[ "adormeciesen" ]
+		],
+		"11" : [
+			[ "adormeciere" ],
+			[ "adormecieres" ],
+			[ "adormeciere" ],
+			[ "adormeciéremos" ],
+			[ "adormeciereis", "adormecieren" ],
+			[ "adormecieren" ]
+		],
+		"12" : {
+			"1" : [ "adormece" ],
+			"2" : [ "adormezca" ],
+			"3" : [ "adormezcamos" ],
+			"4" : [ "adormeced" ],
+			"5" : [ "adormezcan" ]
+		}
+	}
+}

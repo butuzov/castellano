@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=adeudar",
+	"word" : "adeudar",
+	"infinitivo" : "adeudar",
+	"participio" : [ "adeudado" ],
+	"gerundio" : [ "adeudando" ],
+	"tenses" : {
+		"3" : [
+			[ "adeudo" ],
+			[ "adeudas", "adeudás" ],
+			[ "adeuda" ],
+			[ "adeudamos" ],
+			[ "adeudáis", "adeudan" ],
+			[ "adeudan" ]
+		],
+		"4" : [
+			[ "adeudé" ],
+			[ "adeudaste" ],
+			[ "adeudó" ],
+			[ "adeudamos" ],
+			[ "adeudasteis", "adeudaron" ],
+			[ "adeudaron" ]
+		],
+		"5" : [
+			[ "adeudaba" ],
+			[ "adeudabas" ],
+			[ "adeudaba" ],
+			[ "adeudábamos" ],
+			[ "adeudabais", "adeudaban" ],
+			[ "adeudaban" ]
+		],
+		"6" : [
+			[ "adeudaría" ],
+			[ "adeudarías" ],
+			[ "adeudaría" ],
+			[ "adeudaríamos" ],
+			[ "adeudaríais", "adeudarían" ],
+			[ "adeudarían" ]
+		],
+		"7" : [
+			[ "adeudaré" ],
+			[ "adeudarás" ],
+			[ "adeudará" ],
+			[ "adeudaremos" ],
+			[ "adeudaréis", "adeudarán" ],
+			[ "adeudarán" ]
+		],
+		"8" : [
+			[ "adeude" ],
+			[ "adeudes" ],
+			[ "adeude" ],
+			[ "adeudemos" ],
+			[ "adeudéis", "adeuden" ],
+			[ "adeuden" ]
+		],
+		"9" : [
+			[ "adeudara" ],
+			[ "adeudaras" ],
+			[ "adeudara" ],
+			[ "adeudáramos" ],
+			[ "adeudarais", "adeudaran" ],
+			[ "adeudaran" ]
+		],
+		"10" : [
+			[ "adeudase" ],
+			[ "adeudases" ],
+			[ "adeudase" ],
+			[ "adeudásemos" ],
+			[ "adeudaseis", "adeudasen" ],
+			[ "adeudasen" ]
+		],
+		"11" : [
+			[ "adeudare" ],
+			[ "adeudares" ],
+			[ "adeudare" ],
+			[ "adeudáremos" ],
+			[ "adeudareis", "adeudaren" ],
+			[ "adeudaren" ]
+		],
+		"12" : {
+			"1" : [ "adeuda" ],
+			"2" : [ "adeude" ],
+			"3" : [ "adeudemos" ],
+			"4" : [ "adeudad" ],
+			"5" : [ "adeuden" ]
+		}
+	}
+}

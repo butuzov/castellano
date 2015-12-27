@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aventar",
+	"word" : "aventar",
+	"infinitivo" : "aventar",
+	"participio" : [ "aventado" ],
+	"gerundio" : [ "aventando" ],
+	"tenses" : {
+		"3" : [
+			[ "aviento" ],
+			[ "avientas", "aventás" ],
+			[ "avienta" ],
+			[ "aventamos" ],
+			[ "aventáis", "avientan" ],
+			[ "avientan" ]
+		],
+		"4" : [
+			[ "aventé" ],
+			[ "aventaste" ],
+			[ "aventó" ],
+			[ "aventamos" ],
+			[ "aventasteis", "aventaron" ],
+			[ "aventaron" ]
+		],
+		"5" : [
+			[ "aventaba" ],
+			[ "aventabas" ],
+			[ "aventaba" ],
+			[ "aventábamos" ],
+			[ "aventabais", "aventaban" ],
+			[ "aventaban" ]
+		],
+		"6" : [
+			[ "aventaría" ],
+			[ "aventarías" ],
+			[ "aventaría" ],
+			[ "aventaríamos" ],
+			[ "aventaríais", "aventarían" ],
+			[ "aventarían" ]
+		],
+		"7" : [
+			[ "aventaré" ],
+			[ "aventarás" ],
+			[ "aventará" ],
+			[ "aventaremos" ],
+			[ "aventaréis", "aventarán" ],
+			[ "aventarán" ]
+		],
+		"8" : [
+			[ "aviente" ],
+			[ "avientes" ],
+			[ "aviente" ],
+			[ "aventemos" ],
+			[ "aventéis", "avienten" ],
+			[ "avienten" ]
+		],
+		"9" : [
+			[ "aventara" ],
+			[ "aventaras" ],
+			[ "aventara" ],
+			[ "aventáramos" ],
+			[ "aventarais", "aventaran" ],
+			[ "aventaran" ]
+		],
+		"10" : [
+			[ "aventase" ],
+			[ "aventases" ],
+			[ "aventase" ],
+			[ "aventásemos" ],
+			[ "aventaseis", "aventasen" ],
+			[ "aventasen" ]
+		],
+		"11" : [
+			[ "aventare" ],
+			[ "aventares" ],
+			[ "aventare" ],
+			[ "aventáremos" ],
+			[ "aventareis", "aventaren" ],
+			[ "aventaren" ]
+		],
+		"12" : {
+			"1" : [ "avienta" ],
+			"2" : [ "aviente" ],
+			"3" : [ "aventemos" ],
+			"4" : [ "aventad" ],
+			"5" : [ "avienten" ]
+		}
+	}
+}

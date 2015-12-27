@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=opacar",
+	"word" : "opacar",
+	"infinitivo" : "opacar",
+	"participio" : [ "opacado" ],
+	"gerundio" : [ "opacando" ],
+	"tenses" : {
+		"3" : [
+			[ "opaco" ],
+			[ "opacas", "opacás" ],
+			[ "opaca" ],
+			[ "opacamos" ],
+			[ "opacáis", "opacan" ],
+			[ "opacan" ]
+		],
+		"4" : [
+			[ "opaqué" ],
+			[ "opacaste" ],
+			[ "opacó" ],
+			[ "opacamos" ],
+			[ "opacasteis", "opacaron" ],
+			[ "opacaron" ]
+		],
+		"5" : [
+			[ "opacaba" ],
+			[ "opacabas" ],
+			[ "opacaba" ],
+			[ "opacábamos" ],
+			[ "opacabais", "opacaban" ],
+			[ "opacaban" ]
+		],
+		"6" : [
+			[ "opacaría" ],
+			[ "opacarías" ],
+			[ "opacaría" ],
+			[ "opacaríamos" ],
+			[ "opacaríais", "opacarían" ],
+			[ "opacarían" ]
+		],
+		"7" : [
+			[ "opacaré" ],
+			[ "opacarás" ],
+			[ "opacará" ],
+			[ "opacaremos" ],
+			[ "opacaréis", "opacarán" ],
+			[ "opacarán" ]
+		],
+		"8" : [
+			[ "opaque" ],
+			[ "opaques" ],
+			[ "opaque" ],
+			[ "opaquemos" ],
+			[ "opaquéis", "opaquen" ],
+			[ "opaquen" ]
+		],
+		"9" : [
+			[ "opacara" ],
+			[ "opacaras" ],
+			[ "opacara" ],
+			[ "opacáramos" ],
+			[ "opacarais", "opacaran" ],
+			[ "opacaran" ]
+		],
+		"10" : [
+			[ "opacase" ],
+			[ "opacases" ],
+			[ "opacase" ],
+			[ "opacásemos" ],
+			[ "opacaseis", "opacasen" ],
+			[ "opacasen" ]
+		],
+		"11" : [
+			[ "opacare" ],
+			[ "opacares" ],
+			[ "opacare" ],
+			[ "opacáremos" ],
+			[ "opacareis", "opacaren" ],
+			[ "opacaren" ]
+		],
+		"12" : {
+			"1" : [ "opaca" ],
+			"2" : [ "opaque" ],
+			"3" : [ "opaquemos" ],
+			"4" : [ "opacad" ],
+			"5" : [ "opaquen" ]
+		}
+	}
+}

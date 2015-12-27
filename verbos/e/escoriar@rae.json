@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escoriar",
+	"word" : "escoriar",
+	"infinitivo" : "escoriar",
+	"participio" : [ "escoriado" ],
+	"gerundio" : [ "escoriando" ],
+	"tenses" : {
+		"3" : [
+			[ "escorio" ],
+			[ "escorias", "escoriás" ],
+			[ "escoria" ],
+			[ "escoriamos" ],
+			[ "escoriáis", "escorian" ],
+			[ "escorian" ]
+		],
+		"4" : [
+			[ "escorié" ],
+			[ "escoriaste" ],
+			[ "escorió" ],
+			[ "escoriamos" ],
+			[ "escoriasteis", "escoriaron" ],
+			[ "escoriaron" ]
+		],
+		"5" : [
+			[ "escoriaba" ],
+			[ "escoriabas" ],
+			[ "escoriaba" ],
+			[ "escoriábamos" ],
+			[ "escoriabais", "escoriaban" ],
+			[ "escoriaban" ]
+		],
+		"6" : [
+			[ "escoriaría" ],
+			[ "escoriarías" ],
+			[ "escoriaría" ],
+			[ "escoriaríamos" ],
+			[ "escoriaríais", "escoriarían" ],
+			[ "escoriarían" ]
+		],
+		"7" : [
+			[ "escoriaré" ],
+			[ "escoriarás" ],
+			[ "escoriará" ],
+			[ "escoriaremos" ],
+			[ "escoriaréis", "escoriarán" ],
+			[ "escoriarán" ]
+		],
+		"8" : [
+			[ "escorie" ],
+			[ "escories" ],
+			[ "escorie" ],
+			[ "escoriemos" ],
+			[ "escoriéis", "escorien" ],
+			[ "escorien" ]
+		],
+		"9" : [
+			[ "escoriara" ],
+			[ "escoriaras" ],
+			[ "escoriara" ],
+			[ "escoriáramos" ],
+			[ "escoriarais", "escoriaran" ],
+			[ "escoriaran" ]
+		],
+		"10" : [
+			[ "escoriase" ],
+			[ "escoriases" ],
+			[ "escoriase" ],
+			[ "escoriásemos" ],
+			[ "escoriaseis", "escoriasen" ],
+			[ "escoriasen" ]
+		],
+		"11" : [
+			[ "escoriare" ],
+			[ "escoriares" ],
+			[ "escoriare" ],
+			[ "escoriáremos" ],
+			[ "escoriareis", "escoriaren" ],
+			[ "escoriaren" ]
+		],
+		"12" : {
+			"1" : [ "escoria" ],
+			"2" : [ "escorie" ],
+			"3" : [ "escoriemos" ],
+			"4" : [ "escoriad" ],
+			"5" : [ "escorien" ]
+		}
+	}
+}

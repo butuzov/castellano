@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=guayar",
+	"word" : "guayar",
+	"infinitivo" : "guayar",
+	"participio" : [ "guayado" ],
+	"gerundio" : [ "guayando" ],
+	"tenses" : {
+		"3" : [
+			[ "guayo" ],
+			[ "guayas", "guayás" ],
+			[ "guaya" ],
+			[ "guayamos" ],
+			[ "guayáis", "guayan" ],
+			[ "guayan" ]
+		],
+		"4" : [
+			[ "guayé" ],
+			[ "guayaste" ],
+			[ "guayó" ],
+			[ "guayamos" ],
+			[ "guayasteis", "guayaron" ],
+			[ "guayaron" ]
+		],
+		"5" : [
+			[ "guayaba" ],
+			[ "guayabas" ],
+			[ "guayaba" ],
+			[ "guayábamos" ],
+			[ "guayabais", "guayaban" ],
+			[ "guayaban" ]
+		],
+		"6" : [
+			[ "guayaría" ],
+			[ "guayarías" ],
+			[ "guayaría" ],
+			[ "guayaríamos" ],
+			[ "guayaríais", "guayarían" ],
+			[ "guayarían" ]
+		],
+		"7" : [
+			[ "guayaré" ],
+			[ "guayarás" ],
+			[ "guayará" ],
+			[ "guayaremos" ],
+			[ "guayaréis", "guayarán" ],
+			[ "guayarán" ]
+		],
+		"8" : [
+			[ "guaye" ],
+			[ "guayes" ],
+			[ "guaye" ],
+			[ "guayemos" ],
+			[ "guayéis", "guayen" ],
+			[ "guayen" ]
+		],
+		"9" : [
+			[ "guayara" ],
+			[ "guayaras" ],
+			[ "guayara" ],
+			[ "guayáramos" ],
+			[ "guayarais", "guayaran" ],
+			[ "guayaran" ]
+		],
+		"10" : [
+			[ "guayase" ],
+			[ "guayases" ],
+			[ "guayase" ],
+			[ "guayásemos" ],
+			[ "guayaseis", "guayasen" ],
+			[ "guayasen" ]
+		],
+		"11" : [
+			[ "guayare" ],
+			[ "guayares" ],
+			[ "guayare" ],
+			[ "guayáremos" ],
+			[ "guayareis", "guayaren" ],
+			[ "guayaren" ]
+		],
+		"12" : {
+			"1" : [ "guaya" ],
+			"2" : [ "guaye" ],
+			"3" : [ "guayemos" ],
+			"4" : [ "guayad" ],
+			"5" : [ "guayen" ]
+		}
+	}
+}

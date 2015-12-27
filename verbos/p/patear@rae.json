@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=patear",
+	"word" : "patear",
+	"infinitivo" : "patear",
+	"participio" : [ "pateado" ],
+	"gerundio" : [ "pateando" ],
+	"tenses" : {
+		"3" : [
+			[ "pateo" ],
+			[ "pateas", "pateás" ],
+			[ "patea" ],
+			[ "pateamos" ],
+			[ "pateáis", "patean" ],
+			[ "patean" ]
+		],
+		"4" : [
+			[ "pateé" ],
+			[ "pateaste" ],
+			[ "pateó" ],
+			[ "pateamos" ],
+			[ "pateasteis", "patearon" ],
+			[ "patearon" ]
+		],
+		"5" : [
+			[ "pateaba" ],
+			[ "pateabas" ],
+			[ "pateaba" ],
+			[ "pateábamos" ],
+			[ "pateabais", "pateaban" ],
+			[ "pateaban" ]
+		],
+		"6" : [
+			[ "patearía" ],
+			[ "patearías" ],
+			[ "patearía" ],
+			[ "patearíamos" ],
+			[ "patearíais", "patearían" ],
+			[ "patearían" ]
+		],
+		"7" : [
+			[ "patearé" ],
+			[ "patearás" ],
+			[ "pateará" ],
+			[ "patearemos" ],
+			[ "patearéis", "patearán" ],
+			[ "patearán" ]
+		],
+		"8" : [
+			[ "patee" ],
+			[ "patees" ],
+			[ "patee" ],
+			[ "pateemos" ],
+			[ "pateéis", "pateen" ],
+			[ "pateen" ]
+		],
+		"9" : [
+			[ "pateara" ],
+			[ "patearas" ],
+			[ "pateara" ],
+			[ "pateáramos" ],
+			[ "patearais", "patearan" ],
+			[ "patearan" ]
+		],
+		"10" : [
+			[ "patease" ],
+			[ "pateases" ],
+			[ "patease" ],
+			[ "pateásemos" ],
+			[ "pateaseis", "pateasen" ],
+			[ "pateasen" ]
+		],
+		"11" : [
+			[ "pateare" ],
+			[ "pateares" ],
+			[ "pateare" ],
+			[ "pateáremos" ],
+			[ "pateareis", "patearen" ],
+			[ "patearen" ]
+		],
+		"12" : {
+			"1" : [ "patea" ],
+			"2" : [ "patee" ],
+			"3" : [ "pateemos" ],
+			"4" : [ "patead" ],
+			"5" : [ "pateen" ]
+		}
+	}
+}

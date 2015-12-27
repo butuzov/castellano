@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=conceder",
+	"word" : "conceder",
+	"infinitivo" : "conceder",
+	"participio" : [ "concedido" ],
+	"gerundio" : [ "concediendo" ],
+	"tenses" : {
+		"3" : [
+			[ "concedo" ],
+			[ "concedes", "concedés" ],
+			[ "concede" ],
+			[ "concedemos" ],
+			[ "concedéis", "conceden" ],
+			[ "conceden" ]
+		],
+		"4" : [
+			[ "concedí" ],
+			[ "concediste" ],
+			[ "concedió" ],
+			[ "concedimos" ],
+			[ "concedisteis", "concedieron" ],
+			[ "concedieron" ]
+		],
+		"5" : [
+			[ "concedía" ],
+			[ "concedías" ],
+			[ "concedía" ],
+			[ "concedíamos" ],
+			[ "concedíais", "concedían" ],
+			[ "concedían" ]
+		],
+		"6" : [
+			[ "concedería" ],
+			[ "concederías" ],
+			[ "concedería" ],
+			[ "concederíamos" ],
+			[ "concederíais", "concederían" ],
+			[ "concederían" ]
+		],
+		"7" : [
+			[ "concederé" ],
+			[ "concederás" ],
+			[ "concederá" ],
+			[ "concederemos" ],
+			[ "concederéis", "concederán" ],
+			[ "concederán" ]
+		],
+		"8" : [
+			[ "conceda" ],
+			[ "concedas" ],
+			[ "conceda" ],
+			[ "concedamos" ],
+			[ "concedáis", "concedan" ],
+			[ "concedan" ]
+		],
+		"9" : [
+			[ "concediera" ],
+			[ "concedieras" ],
+			[ "concediera" ],
+			[ "concediéramos" ],
+			[ "concedierais", "concedieran" ],
+			[ "concedieran" ]
+		],
+		"10" : [
+			[ "concediese" ],
+			[ "concedieses" ],
+			[ "concediese" ],
+			[ "concediésemos" ],
+			[ "concedieseis", "concediesen" ],
+			[ "concediesen" ]
+		],
+		"11" : [
+			[ "concediere" ],
+			[ "concedieres" ],
+			[ "concediere" ],
+			[ "concediéremos" ],
+			[ "concediereis", "concedieren" ],
+			[ "concedieren" ]
+		],
+		"12" : {
+			"1" : [ "concede" ],
+			"2" : [ "conceda" ],
+			"3" : [ "concedamos" ],
+			"4" : [ "conceded" ],
+			"5" : [ "concedan" ]
+		}
+	}
+}

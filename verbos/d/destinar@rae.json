@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=destinar",
+	"word" : "destinar",
+	"infinitivo" : "destinar",
+	"participio" : [ "destinado" ],
+	"gerundio" : [ "destinando" ],
+	"tenses" : {
+		"3" : [
+			[ "destino" ],
+			[ "destinas", "destinás" ],
+			[ "destina" ],
+			[ "destinamos" ],
+			[ "destináis", "destinan" ],
+			[ "destinan" ]
+		],
+		"4" : [
+			[ "destiné" ],
+			[ "destinaste" ],
+			[ "destinó" ],
+			[ "destinamos" ],
+			[ "destinasteis", "destinaron" ],
+			[ "destinaron" ]
+		],
+		"5" : [
+			[ "destinaba" ],
+			[ "destinabas" ],
+			[ "destinaba" ],
+			[ "destinábamos" ],
+			[ "destinabais", "destinaban" ],
+			[ "destinaban" ]
+		],
+		"6" : [
+			[ "destinaría" ],
+			[ "destinarías" ],
+			[ "destinaría" ],
+			[ "destinaríamos" ],
+			[ "destinaríais", "destinarían" ],
+			[ "destinarían" ]
+		],
+		"7" : [
+			[ "destinaré" ],
+			[ "destinarás" ],
+			[ "destinará" ],
+			[ "destinaremos" ],
+			[ "destinaréis", "destinarán" ],
+			[ "destinarán" ]
+		],
+		"8" : [
+			[ "destine" ],
+			[ "destines" ],
+			[ "destine" ],
+			[ "destinemos" ],
+			[ "destinéis", "destinen" ],
+			[ "destinen" ]
+		],
+		"9" : [
+			[ "destinara" ],
+			[ "destinaras" ],
+			[ "destinara" ],
+			[ "destináramos" ],
+			[ "destinarais", "destinaran" ],
+			[ "destinaran" ]
+		],
+		"10" : [
+			[ "destinase" ],
+			[ "destinases" ],
+			[ "destinase" ],
+			[ "destinásemos" ],
+			[ "destinaseis", "destinasen" ],
+			[ "destinasen" ]
+		],
+		"11" : [
+			[ "destinare" ],
+			[ "destinares" ],
+			[ "destinare" ],
+			[ "destináremos" ],
+			[ "destinareis", "destinaren" ],
+			[ "destinaren" ]
+		],
+		"12" : {
+			"1" : [ "destina" ],
+			"2" : [ "destine" ],
+			"3" : [ "destinemos" ],
+			"4" : [ "destinad" ],
+			"5" : [ "destinen" ]
+		}
+	}
+}

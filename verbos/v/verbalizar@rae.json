@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=verbalizar",
+	"word" : "verbalizar",
+	"infinitivo" : "verbalizar",
+	"participio" : [ "verbalizado" ],
+	"gerundio" : [ "verbalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "verbalizo" ],
+			[ "verbalizas", "verbalizás" ],
+			[ "verbaliza" ],
+			[ "verbalizamos" ],
+			[ "verbalizáis", "verbalizan" ],
+			[ "verbalizan" ]
+		],
+		"4" : [
+			[ "verbalicé" ],
+			[ "verbalizaste" ],
+			[ "verbalizó" ],
+			[ "verbalizamos" ],
+			[ "verbalizasteis", "verbalizaron" ],
+			[ "verbalizaron" ]
+		],
+		"5" : [
+			[ "verbalizaba" ],
+			[ "verbalizabas" ],
+			[ "verbalizaba" ],
+			[ "verbalizábamos" ],
+			[ "verbalizabais", "verbalizaban" ],
+			[ "verbalizaban" ]
+		],
+		"6" : [
+			[ "verbalizaría" ],
+			[ "verbalizarías" ],
+			[ "verbalizaría" ],
+			[ "verbalizaríamos" ],
+			[ "verbalizaríais", "verbalizarían" ],
+			[ "verbalizarían" ]
+		],
+		"7" : [
+			[ "verbalizaré" ],
+			[ "verbalizarás" ],
+			[ "verbalizará" ],
+			[ "verbalizaremos" ],
+			[ "verbalizaréis", "verbalizarán" ],
+			[ "verbalizarán" ]
+		],
+		"8" : [
+			[ "verbalice" ],
+			[ "verbalices" ],
+			[ "verbalice" ],
+			[ "verbalicemos" ],
+			[ "verbalicéis", "verbalicen" ],
+			[ "verbalicen" ]
+		],
+		"9" : [
+			[ "verbalizara" ],
+			[ "verbalizaras" ],
+			[ "verbalizara" ],
+			[ "verbalizáramos" ],
+			[ "verbalizarais", "verbalizaran" ],
+			[ "verbalizaran" ]
+		],
+		"10" : [
+			[ "verbalizase" ],
+			[ "verbalizases" ],
+			[ "verbalizase" ],
+			[ "verbalizásemos" ],
+			[ "verbalizaseis", "verbalizasen" ],
+			[ "verbalizasen" ]
+		],
+		"11" : [
+			[ "verbalizare" ],
+			[ "verbalizares" ],
+			[ "verbalizare" ],
+			[ "verbalizáremos" ],
+			[ "verbalizareis", "verbalizaren" ],
+			[ "verbalizaren" ]
+		],
+		"12" : {
+			"1" : [ "verbaliza" ],
+			"2" : [ "verbalice" ],
+			"3" : [ "verbalicemos" ],
+			"4" : [ "verbalizad" ],
+			"5" : [ "verbalicen" ]
+		}
+	}
+}

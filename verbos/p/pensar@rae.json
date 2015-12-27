@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=pensar",
+	"word" : "pensar",
+	"infinitivo" : "pensar",
+	"participio" : [ "pensado" ],
+	"gerundio" : [ "pensando" ],
+	"tenses" : {
+		"3" : [
+			[ "pienso" ],
+			[ "piensas", "pensás" ],
+			[ "piensa" ],
+			[ "pensamos" ],
+			[ "pensáis", "piensan" ],
+			[ "piensan" ]
+		],
+		"4" : [
+			[ "pensé" ],
+			[ "pensaste" ],
+			[ "pensó" ],
+			[ "pensamos" ],
+			[ "pensasteis", "pensaron" ],
+			[ "pensaron" ]
+		],
+		"5" : [
+			[ "pensaba" ],
+			[ "pensabas" ],
+			[ "pensaba" ],
+			[ "pensábamos" ],
+			[ "pensabais", "pensaban" ],
+			[ "pensaban" ]
+		],
+		"6" : [
+			[ "pensaría" ],
+			[ "pensarías" ],
+			[ "pensaría" ],
+			[ "pensaríamos" ],
+			[ "pensaríais", "pensarían" ],
+			[ "pensarían" ]
+		],
+		"7" : [
+			[ "pensaré" ],
+			[ "pensarás" ],
+			[ "pensará" ],
+			[ "pensaremos" ],
+			[ "pensaréis", "pensarán" ],
+			[ "pensarán" ]
+		],
+		"8" : [
+			[ "piense" ],
+			[ "pienses" ],
+			[ "piense" ],
+			[ "pensemos" ],
+			[ "penséis", "piensen" ],
+			[ "piensen" ]
+		],
+		"9" : [
+			[ "pensara" ],
+			[ "pensaras" ],
+			[ "pensara" ],
+			[ "pensáramos" ],
+			[ "pensarais", "pensaran" ],
+			[ "pensaran" ]
+		],
+		"10" : [
+			[ "pensase" ],
+			[ "pensases" ],
+			[ "pensase" ],
+			[ "pensásemos" ],
+			[ "pensaseis", "pensasen" ],
+			[ "pensasen" ]
+		],
+		"11" : [
+			[ "pensare" ],
+			[ "pensares" ],
+			[ "pensare" ],
+			[ "pensáremos" ],
+			[ "pensareis", "pensaren" ],
+			[ "pensaren" ]
+		],
+		"12" : {
+			"1" : [ "piensa" ],
+			"2" : [ "piense" ],
+			"3" : [ "pensemos" ],
+			"4" : [ "pensad" ],
+			"5" : [ "piensen" ]
+		}
+	}
+}

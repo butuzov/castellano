@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=arder",
+	"word" : "arder",
+	"infinitivo" : "arder",
+	"participio" : [ "ardido" ],
+	"gerundio" : [ "ardiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "ardo" ],
+			[ "ardes", "ardés" ],
+			[ "arde" ],
+			[ "ardemos" ],
+			[ "ardéis", "arden" ],
+			[ "arden" ]
+		],
+		"4" : [
+			[ "ardí" ],
+			[ "ardiste" ],
+			[ "ardió" ],
+			[ "ardimos" ],
+			[ "ardisteis", "ardieron" ],
+			[ "ardieron" ]
+		],
+		"5" : [
+			[ "ardía" ],
+			[ "ardías" ],
+			[ "ardía" ],
+			[ "ardíamos" ],
+			[ "ardíais", "ardían" ],
+			[ "ardían" ]
+		],
+		"6" : [
+			[ "ardería" ],
+			[ "arderías" ],
+			[ "ardería" ],
+			[ "arderíamos" ],
+			[ "arderíais", "arderían" ],
+			[ "arderían" ]
+		],
+		"7" : [
+			[ "arderé" ],
+			[ "arderás" ],
+			[ "arderá" ],
+			[ "arderemos" ],
+			[ "arderéis", "arderán" ],
+			[ "arderán" ]
+		],
+		"8" : [
+			[ "arda" ],
+			[ "ardas" ],
+			[ "arda" ],
+			[ "ardamos" ],
+			[ "ardáis", "ardan" ],
+			[ "ardan" ]
+		],
+		"9" : [
+			[ "ardiera" ],
+			[ "ardieras" ],
+			[ "ardiera" ],
+			[ "ardiéramos" ],
+			[ "ardierais", "ardieran" ],
+			[ "ardieran" ]
+		],
+		"10" : [
+			[ "ardiese" ],
+			[ "ardieses" ],
+			[ "ardiese" ],
+			[ "ardiésemos" ],
+			[ "ardieseis", "ardiesen" ],
+			[ "ardiesen" ]
+		],
+		"11" : [
+			[ "ardiere" ],
+			[ "ardieres" ],
+			[ "ardiere" ],
+			[ "ardiéremos" ],
+			[ "ardiereis", "ardieren" ],
+			[ "ardieren" ]
+		],
+		"12" : {
+			"1" : [ "arde" ],
+			"2" : [ "arda" ],
+			"3" : [ "ardamos" ],
+			"4" : [ "arded" ],
+			"5" : [ "ardan" ]
+		}
+	}
+}

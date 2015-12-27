@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=interpolar",
+	"word" : "interpolar",
+	"infinitivo" : "interpolar",
+	"participio" : [ "interpolado" ],
+	"gerundio" : [ "interpolando" ],
+	"tenses" : {
+		"3" : [
+			[ "interpolo" ],
+			[ "interpolas", "interpolás" ],
+			[ "interpola" ],
+			[ "interpolamos" ],
+			[ "interpoláis", "interpolan" ],
+			[ "interpolan" ]
+		],
+		"4" : [
+			[ "interpolé" ],
+			[ "interpolaste" ],
+			[ "interpoló" ],
+			[ "interpolamos" ],
+			[ "interpolasteis", "interpolaron" ],
+			[ "interpolaron" ]
+		],
+		"5" : [
+			[ "interpolaba" ],
+			[ "interpolabas" ],
+			[ "interpolaba" ],
+			[ "interpolábamos" ],
+			[ "interpolabais", "interpolaban" ],
+			[ "interpolaban" ]
+		],
+		"6" : [
+			[ "interpolaría" ],
+			[ "interpolarías" ],
+			[ "interpolaría" ],
+			[ "interpolaríamos" ],
+			[ "interpolaríais", "interpolarían" ],
+			[ "interpolarían" ]
+		],
+		"7" : [
+			[ "interpolaré" ],
+			[ "interpolarás" ],
+			[ "interpolará" ],
+			[ "interpolaremos" ],
+			[ "interpolaréis", "interpolarán" ],
+			[ "interpolarán" ]
+		],
+		"8" : [
+			[ "interpole" ],
+			[ "interpoles" ],
+			[ "interpole" ],
+			[ "interpolemos" ],
+			[ "interpoléis", "interpolen" ],
+			[ "interpolen" ]
+		],
+		"9" : [
+			[ "interpolara" ],
+			[ "interpolaras" ],
+			[ "interpolara" ],
+			[ "interpoláramos" ],
+			[ "interpolarais", "interpolaran" ],
+			[ "interpolaran" ]
+		],
+		"10" : [
+			[ "interpolase" ],
+			[ "interpolases" ],
+			[ "interpolase" ],
+			[ "interpolásemos" ],
+			[ "interpolaseis", "interpolasen" ],
+			[ "interpolasen" ]
+		],
+		"11" : [
+			[ "interpolare" ],
+			[ "interpolares" ],
+			[ "interpolare" ],
+			[ "interpoláremos" ],
+			[ "interpolareis", "interpolaren" ],
+			[ "interpolaren" ]
+		],
+		"12" : {
+			"1" : [ "interpola" ],
+			"2" : [ "interpole" ],
+			"3" : [ "interpolemos" ],
+			"4" : [ "interpolad" ],
+			"5" : [ "interpolen" ]
+		}
+	}
+}

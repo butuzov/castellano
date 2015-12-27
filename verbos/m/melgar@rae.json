@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=melgar",
+	"word" : "melgar",
+	"infinitivo" : "melgar",
+	"participio" : [ "melgado" ],
+	"gerundio" : [ "melgando" ],
+	"tenses" : {
+		"3" : [
+			[ "melgo" ],
+			[ "melgas", "melgás" ],
+			[ "melga" ],
+			[ "melgamos" ],
+			[ "melgáis", "melgan" ],
+			[ "melgan" ]
+		],
+		"4" : [
+			[ "melgué" ],
+			[ "melgaste" ],
+			[ "melgó" ],
+			[ "melgamos" ],
+			[ "melgasteis", "melgaron" ],
+			[ "melgaron" ]
+		],
+		"5" : [
+			[ "melgaba" ],
+			[ "melgabas" ],
+			[ "melgaba" ],
+			[ "melgábamos" ],
+			[ "melgabais", "melgaban" ],
+			[ "melgaban" ]
+		],
+		"6" : [
+			[ "melgaría" ],
+			[ "melgarías" ],
+			[ "melgaría" ],
+			[ "melgaríamos" ],
+			[ "melgaríais", "melgarían" ],
+			[ "melgarían" ]
+		],
+		"7" : [
+			[ "melgaré" ],
+			[ "melgarás" ],
+			[ "melgará" ],
+			[ "melgaremos" ],
+			[ "melgaréis", "melgarán" ],
+			[ "melgarán" ]
+		],
+		"8" : [
+			[ "melgue" ],
+			[ "melgues" ],
+			[ "melgue" ],
+			[ "melguemos" ],
+			[ "melguéis", "melguen" ],
+			[ "melguen" ]
+		],
+		"9" : [
+			[ "melgara" ],
+			[ "melgaras" ],
+			[ "melgara" ],
+			[ "melgáramos" ],
+			[ "melgarais", "melgaran" ],
+			[ "melgaran" ]
+		],
+		"10" : [
+			[ "melgase" ],
+			[ "melgases" ],
+			[ "melgase" ],
+			[ "melgásemos" ],
+			[ "melgaseis", "melgasen" ],
+			[ "melgasen" ]
+		],
+		"11" : [
+			[ "melgare" ],
+			[ "melgares" ],
+			[ "melgare" ],
+			[ "melgáremos" ],
+			[ "melgareis", "melgaren" ],
+			[ "melgaren" ]
+		],
+		"12" : {
+			"1" : [ "melga" ],
+			"2" : [ "melgue" ],
+			"3" : [ "melguemos" ],
+			"4" : [ "melgad" ],
+			"5" : [ "melguen" ]
+		}
+	}
+}

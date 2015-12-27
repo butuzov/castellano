@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=entusiasmar",
+	"word" : "entusiasmar",
+	"infinitivo" : "entusiasmar",
+	"participio" : [ "entusiasmado" ],
+	"gerundio" : [ "entusiasmando" ],
+	"tenses" : {
+		"3" : [
+			[ "entusiasmo" ],
+			[ "entusiasmas", "entusiasmás" ],
+			[ "entusiasma" ],
+			[ "entusiasmamos" ],
+			[ "entusiasmáis", "entusiasman" ],
+			[ "entusiasman" ]
+		],
+		"4" : [
+			[ "entusiasmé" ],
+			[ "entusiasmaste" ],
+			[ "entusiasmó" ],
+			[ "entusiasmamos" ],
+			[ "entusiasmasteis", "entusiasmaron" ],
+			[ "entusiasmaron" ]
+		],
+		"5" : [
+			[ "entusiasmaba" ],
+			[ "entusiasmabas" ],
+			[ "entusiasmaba" ],
+			[ "entusiasmábamos" ],
+			[ "entusiasmabais", "entusiasmaban" ],
+			[ "entusiasmaban" ]
+		],
+		"6" : [
+			[ "entusiasmaría" ],
+			[ "entusiasmarías" ],
+			[ "entusiasmaría" ],
+			[ "entusiasmaríamos" ],
+			[ "entusiasmaríais", "entusiasmarían" ],
+			[ "entusiasmarían" ]
+		],
+		"7" : [
+			[ "entusiasmaré" ],
+			[ "entusiasmarás" ],
+			[ "entusiasmará" ],
+			[ "entusiasmaremos" ],
+			[ "entusiasmaréis", "entusiasmarán" ],
+			[ "entusiasmarán" ]
+		],
+		"8" : [
+			[ "entusiasme" ],
+			[ "entusiasmes" ],
+			[ "entusiasme" ],
+			[ "entusiasmemos" ],
+			[ "entusiasméis", "entusiasmen" ],
+			[ "entusiasmen" ]
+		],
+		"9" : [
+			[ "entusiasmara" ],
+			[ "entusiasmaras" ],
+			[ "entusiasmara" ],
+			[ "entusiasmáramos" ],
+			[ "entusiasmarais", "entusiasmaran" ],
+			[ "entusiasmaran" ]
+		],
+		"10" : [
+			[ "entusiasmase" ],
+			[ "entusiasmases" ],
+			[ "entusiasmase" ],
+			[ "entusiasmásemos" ],
+			[ "entusiasmaseis", "entusiasmasen" ],
+			[ "entusiasmasen" ]
+		],
+		"11" : [
+			[ "entusiasmare" ],
+			[ "entusiasmares" ],
+			[ "entusiasmare" ],
+			[ "entusiasmáremos" ],
+			[ "entusiasmareis", "entusiasmaren" ],
+			[ "entusiasmaren" ]
+		],
+		"12" : {
+			"1" : [ "entusiasma" ],
+			"2" : [ "entusiasme" ],
+			"3" : [ "entusiasmemos" ],
+			"4" : [ "entusiasmad" ],
+			"5" : [ "entusiasmen" ]
+		}
+	}
+}

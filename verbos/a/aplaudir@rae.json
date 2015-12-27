@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aplaudir",
+	"word" : "aplaudir",
+	"infinitivo" : "aplaudir",
+	"participio" : [ "aplaudido" ],
+	"gerundio" : [ "aplaudiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aplaudo" ],
+			[ "aplaudes", "aplaudís" ],
+			[ "aplaude" ],
+			[ "aplaudimos" ],
+			[ "aplaudís", "aplauden" ],
+			[ "aplauden" ]
+		],
+		"4" : [
+			[ "aplaudí" ],
+			[ "aplaudiste" ],
+			[ "aplaudió" ],
+			[ "aplaudimos" ],
+			[ "aplaudisteis", "aplaudieron" ],
+			[ "aplaudieron" ]
+		],
+		"5" : [
+			[ "aplaudía" ],
+			[ "aplaudías" ],
+			[ "aplaudía" ],
+			[ "aplaudíamos" ],
+			[ "aplaudíais", "aplaudían" ],
+			[ "aplaudían" ]
+		],
+		"6" : [
+			[ "aplaudiría" ],
+			[ "aplaudirías" ],
+			[ "aplaudiría" ],
+			[ "aplaudiríamos" ],
+			[ "aplaudiríais", "aplaudirían" ],
+			[ "aplaudirían" ]
+		],
+		"7" : [
+			[ "aplaudiré" ],
+			[ "aplaudirás" ],
+			[ "aplaudirá" ],
+			[ "aplaudiremos" ],
+			[ "aplaudiréis", "aplaudirán" ],
+			[ "aplaudirán" ]
+		],
+		"8" : [
+			[ "aplauda" ],
+			[ "aplaudas" ],
+			[ "aplauda" ],
+			[ "aplaudamos" ],
+			[ "aplaudáis", "aplaudan" ],
+			[ "aplaudan" ]
+		],
+		"9" : [
+			[ "aplaudiera" ],
+			[ "aplaudieras" ],
+			[ "aplaudiera" ],
+			[ "aplaudiéramos" ],
+			[ "aplaudierais", "aplaudieran" ],
+			[ "aplaudieran" ]
+		],
+		"10" : [
+			[ "aplaudiese" ],
+			[ "aplaudieses" ],
+			[ "aplaudiese" ],
+			[ "aplaudiésemos" ],
+			[ "aplaudieseis", "aplaudiesen" ],
+			[ "aplaudiesen" ]
+		],
+		"11" : [
+			[ "aplaudiere" ],
+			[ "aplaudieres" ],
+			[ "aplaudiere" ],
+			[ "aplaudiéremos" ],
+			[ "aplaudiereis", "aplaudieren" ],
+			[ "aplaudieren" ]
+		],
+		"12" : {
+			"1" : [ "aplaude" ],
+			"2" : [ "aplauda" ],
+			"3" : [ "aplaudamos" ],
+			"4" : [ "aplaudid" ],
+			"5" : [ "aplaudan" ]
+		}
+	}
+}

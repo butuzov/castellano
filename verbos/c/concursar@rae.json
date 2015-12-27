@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=concursar",
+	"word" : "concursar",
+	"infinitivo" : "concursar",
+	"participio" : [ "concursado" ],
+	"gerundio" : [ "concursando" ],
+	"tenses" : {
+		"3" : [
+			[ "concurso" ],
+			[ "concursas", "concursás" ],
+			[ "concursa" ],
+			[ "concursamos" ],
+			[ "concursáis", "concursan" ],
+			[ "concursan" ]
+		],
+		"4" : [
+			[ "concursé" ],
+			[ "concursaste" ],
+			[ "concursó" ],
+			[ "concursamos" ],
+			[ "concursasteis", "concursaron" ],
+			[ "concursaron" ]
+		],
+		"5" : [
+			[ "concursaba" ],
+			[ "concursabas" ],
+			[ "concursaba" ],
+			[ "concursábamos" ],
+			[ "concursabais", "concursaban" ],
+			[ "concursaban" ]
+		],
+		"6" : [
+			[ "concursaría" ],
+			[ "concursarías" ],
+			[ "concursaría" ],
+			[ "concursaríamos" ],
+			[ "concursaríais", "concursarían" ],
+			[ "concursarían" ]
+		],
+		"7" : [
+			[ "concursaré" ],
+			[ "concursarás" ],
+			[ "concursará" ],
+			[ "concursaremos" ],
+			[ "concursaréis", "concursarán" ],
+			[ "concursarán" ]
+		],
+		"8" : [
+			[ "concurse" ],
+			[ "concurses" ],
+			[ "concurse" ],
+			[ "concursemos" ],
+			[ "concurséis", "concursen" ],
+			[ "concursen" ]
+		],
+		"9" : [
+			[ "concursara" ],
+			[ "concursaras" ],
+			[ "concursara" ],
+			[ "concursáramos" ],
+			[ "concursarais", "concursaran" ],
+			[ "concursaran" ]
+		],
+		"10" : [
+			[ "concursase" ],
+			[ "concursases" ],
+			[ "concursase" ],
+			[ "concursásemos" ],
+			[ "concursaseis", "concursasen" ],
+			[ "concursasen" ]
+		],
+		"11" : [
+			[ "concursare" ],
+			[ "concursares" ],
+			[ "concursare" ],
+			[ "concursáremos" ],
+			[ "concursareis", "concursaren" ],
+			[ "concursaren" ]
+		],
+		"12" : {
+			"1" : [ "concursa" ],
+			"2" : [ "concurse" ],
+			"3" : [ "concursemos" ],
+			"4" : [ "concursad" ],
+			"5" : [ "concursen" ]
+		}
+	}
+}

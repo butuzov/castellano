@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=reinstalar",
+	"word" : "reinstalar",
+	"infinitivo" : "reinstalar",
+	"participio" : [ "reinstalado" ],
+	"gerundio" : [ "reinstalando" ],
+	"tenses" : {
+		"3" : [
+			[ "reinstalo" ],
+			[ "reinstalas", "reinstalás" ],
+			[ "reinstala" ],
+			[ "reinstalamos" ],
+			[ "reinstaláis", "reinstalan" ],
+			[ "reinstalan" ]
+		],
+		"4" : [
+			[ "reinstalé" ],
+			[ "reinstalaste" ],
+			[ "reinstaló" ],
+			[ "reinstalamos" ],
+			[ "reinstalasteis", "reinstalaron" ],
+			[ "reinstalaron" ]
+		],
+		"5" : [
+			[ "reinstalaba" ],
+			[ "reinstalabas" ],
+			[ "reinstalaba" ],
+			[ "reinstalábamos" ],
+			[ "reinstalabais", "reinstalaban" ],
+			[ "reinstalaban" ]
+		],
+		"6" : [
+			[ "reinstalaría" ],
+			[ "reinstalarías" ],
+			[ "reinstalaría" ],
+			[ "reinstalaríamos" ],
+			[ "reinstalaríais", "reinstalarían" ],
+			[ "reinstalarían" ]
+		],
+		"7" : [
+			[ "reinstalaré" ],
+			[ "reinstalarás" ],
+			[ "reinstalará" ],
+			[ "reinstalaremos" ],
+			[ "reinstalaréis", "reinstalarán" ],
+			[ "reinstalarán" ]
+		],
+		"8" : [
+			[ "reinstale" ],
+			[ "reinstales" ],
+			[ "reinstale" ],
+			[ "reinstalemos" ],
+			[ "reinstaléis", "reinstalen" ],
+			[ "reinstalen" ]
+		],
+		"9" : [
+			[ "reinstalara" ],
+			[ "reinstalaras" ],
+			[ "reinstalara" ],
+			[ "reinstaláramos" ],
+			[ "reinstalarais", "reinstalaran" ],
+			[ "reinstalaran" ]
+		],
+		"10" : [
+			[ "reinstalase" ],
+			[ "reinstalases" ],
+			[ "reinstalase" ],
+			[ "reinstalásemos" ],
+			[ "reinstalaseis", "reinstalasen" ],
+			[ "reinstalasen" ]
+		],
+		"11" : [
+			[ "reinstalare" ],
+			[ "reinstalares" ],
+			[ "reinstalare" ],
+			[ "reinstaláremos" ],
+			[ "reinstalareis", "reinstalaren" ],
+			[ "reinstalaren" ]
+		],
+		"12" : {
+			"1" : [ "reinstala" ],
+			"2" : [ "reinstale" ],
+			"3" : [ "reinstalemos" ],
+			"4" : [ "reinstalad" ],
+			"5" : [ "reinstalen" ]
+		}
+	}
+}

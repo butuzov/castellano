@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=ajorar",
+	"word" : "ajorar",
+	"infinitivo" : "ajorar",
+	"participio" : [ "ajorado" ],
+	"gerundio" : [ "ajorando" ],
+	"tenses" : {
+		"3" : [
+			[ "ajoro" ],
+			[ "ajoras", "ajorás" ],
+			[ "ajora" ],
+			[ "ajoramos" ],
+			[ "ajoráis", "ajoran" ],
+			[ "ajoran" ]
+		],
+		"4" : [
+			[ "ajoré" ],
+			[ "ajoraste" ],
+			[ "ajoró" ],
+			[ "ajoramos" ],
+			[ "ajorasteis", "ajoraron" ],
+			[ "ajoraron" ]
+		],
+		"5" : [
+			[ "ajoraba" ],
+			[ "ajorabas" ],
+			[ "ajoraba" ],
+			[ "ajorábamos" ],
+			[ "ajorabais", "ajoraban" ],
+			[ "ajoraban" ]
+		],
+		"6" : [
+			[ "ajoraría" ],
+			[ "ajorarías" ],
+			[ "ajoraría" ],
+			[ "ajoraríamos" ],
+			[ "ajoraríais", "ajorarían" ],
+			[ "ajorarían" ]
+		],
+		"7" : [
+			[ "ajoraré" ],
+			[ "ajorarás" ],
+			[ "ajorará" ],
+			[ "ajoraremos" ],
+			[ "ajoraréis", "ajorarán" ],
+			[ "ajorarán" ]
+		],
+		"8" : [
+			[ "ajore" ],
+			[ "ajores" ],
+			[ "ajore" ],
+			[ "ajoremos" ],
+			[ "ajoréis", "ajoren" ],
+			[ "ajoren" ]
+		],
+		"9" : [
+			[ "ajorara" ],
+			[ "ajoraras" ],
+			[ "ajorara" ],
+			[ "ajoráramos" ],
+			[ "ajorarais", "ajoraran" ],
+			[ "ajoraran" ]
+		],
+		"10" : [
+			[ "ajorase" ],
+			[ "ajorases" ],
+			[ "ajorase" ],
+			[ "ajorásemos" ],
+			[ "ajoraseis", "ajorasen" ],
+			[ "ajorasen" ]
+		],
+		"11" : [
+			[ "ajorare" ],
+			[ "ajorares" ],
+			[ "ajorare" ],
+			[ "ajoráremos" ],
+			[ "ajorareis", "ajoraren" ],
+			[ "ajoraren" ]
+		],
+		"12" : {
+			"1" : [ "ajora" ],
+			"2" : [ "ajore" ],
+			"3" : [ "ajoremos" ],
+			"4" : [ "ajorad" ],
+			"5" : [ "ajoren" ]
+		}
+	}
+}

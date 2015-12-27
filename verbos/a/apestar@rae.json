@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=apestar",
+	"word" : "apestar",
+	"infinitivo" : "apestar",
+	"participio" : [ "apestado" ],
+	"gerundio" : [ "apestando" ],
+	"tenses" : {
+		"3" : [
+			[ "apesto" ],
+			[ "apestas", "apestás" ],
+			[ "apesta" ],
+			[ "apestamos" ],
+			[ "apestáis", "apestan" ],
+			[ "apestan" ]
+		],
+		"4" : [
+			[ "apesté" ],
+			[ "apestaste" ],
+			[ "apestó" ],
+			[ "apestamos" ],
+			[ "apestasteis", "apestaron" ],
+			[ "apestaron" ]
+		],
+		"5" : [
+			[ "apestaba" ],
+			[ "apestabas" ],
+			[ "apestaba" ],
+			[ "apestábamos" ],
+			[ "apestabais", "apestaban" ],
+			[ "apestaban" ]
+		],
+		"6" : [
+			[ "apestaría" ],
+			[ "apestarías" ],
+			[ "apestaría" ],
+			[ "apestaríamos" ],
+			[ "apestaríais", "apestarían" ],
+			[ "apestarían" ]
+		],
+		"7" : [
+			[ "apestaré" ],
+			[ "apestarás" ],
+			[ "apestará" ],
+			[ "apestaremos" ],
+			[ "apestaréis", "apestarán" ],
+			[ "apestarán" ]
+		],
+		"8" : [
+			[ "apeste" ],
+			[ "apestes" ],
+			[ "apeste" ],
+			[ "apestemos" ],
+			[ "apestéis", "apesten" ],
+			[ "apesten" ]
+		],
+		"9" : [
+			[ "apestara" ],
+			[ "apestaras" ],
+			[ "apestara" ],
+			[ "apestáramos" ],
+			[ "apestarais", "apestaran" ],
+			[ "apestaran" ]
+		],
+		"10" : [
+			[ "apestase" ],
+			[ "apestases" ],
+			[ "apestase" ],
+			[ "apestásemos" ],
+			[ "apestaseis", "apestasen" ],
+			[ "apestasen" ]
+		],
+		"11" : [
+			[ "apestare" ],
+			[ "apestares" ],
+			[ "apestare" ],
+			[ "apestáremos" ],
+			[ "apestareis", "apestaren" ],
+			[ "apestaren" ]
+		],
+		"12" : {
+			"1" : [ "apesta" ],
+			"2" : [ "apeste" ],
+			"3" : [ "apestemos" ],
+			"4" : [ "apestad" ],
+			"5" : [ "apesten" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=catar",
+	"word" : "catar",
+	"infinitivo" : "catar",
+	"participio" : [ "catado" ],
+	"gerundio" : [ "catando" ],
+	"tenses" : {
+		"3" : [
+			[ "cato" ],
+			[ "catas", "catás" ],
+			[ "cata" ],
+			[ "catamos" ],
+			[ "catáis", "catan" ],
+			[ "catan" ]
+		],
+		"4" : [
+			[ "caté" ],
+			[ "cataste" ],
+			[ "cató" ],
+			[ "catamos" ],
+			[ "catasteis", "cataron" ],
+			[ "cataron" ]
+		],
+		"5" : [
+			[ "cataba" ],
+			[ "catabas" ],
+			[ "cataba" ],
+			[ "catábamos" ],
+			[ "catabais", "cataban" ],
+			[ "cataban" ]
+		],
+		"6" : [
+			[ "cataría" ],
+			[ "catarías" ],
+			[ "cataría" ],
+			[ "cataríamos" ],
+			[ "cataríais", "catarían" ],
+			[ "catarían" ]
+		],
+		"7" : [
+			[ "cataré" ],
+			[ "catarás" ],
+			[ "catará" ],
+			[ "cataremos" ],
+			[ "cataréis", "catarán" ],
+			[ "catarán" ]
+		],
+		"8" : [
+			[ "cate" ],
+			[ "cates" ],
+			[ "cate" ],
+			[ "catemos" ],
+			[ "catéis", "caten" ],
+			[ "caten" ]
+		],
+		"9" : [
+			[ "catara" ],
+			[ "cataras" ],
+			[ "catara" ],
+			[ "catáramos" ],
+			[ "catarais", "cataran" ],
+			[ "cataran" ]
+		],
+		"10" : [
+			[ "catase" ],
+			[ "catases" ],
+			[ "catase" ],
+			[ "catásemos" ],
+			[ "cataseis", "catasen" ],
+			[ "catasen" ]
+		],
+		"11" : [
+			[ "catare" ],
+			[ "catares" ],
+			[ "catare" ],
+			[ "catáremos" ],
+			[ "catareis", "cataren" ],
+			[ "cataren" ]
+		],
+		"12" : {
+			"1" : [ "cata" ],
+			"2" : [ "cate" ],
+			"3" : [ "catemos" ],
+			"4" : [ "catad" ],
+			"5" : [ "caten" ]
+		}
+	}
+}

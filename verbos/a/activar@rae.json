@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=activar",
+	"word" : "activar",
+	"infinitivo" : "activar",
+	"participio" : [ "activado" ],
+	"gerundio" : [ "activando" ],
+	"tenses" : {
+		"3" : [
+			[ "activo" ],
+			[ "activas", "activás" ],
+			[ "activa" ],
+			[ "activamos" ],
+			[ "activáis", "activan" ],
+			[ "activan" ]
+		],
+		"4" : [
+			[ "activé" ],
+			[ "activaste" ],
+			[ "activó" ],
+			[ "activamos" ],
+			[ "activasteis", "activaron" ],
+			[ "activaron" ]
+		],
+		"5" : [
+			[ "activaba" ],
+			[ "activabas" ],
+			[ "activaba" ],
+			[ "activábamos" ],
+			[ "activabais", "activaban" ],
+			[ "activaban" ]
+		],
+		"6" : [
+			[ "activaría" ],
+			[ "activarías" ],
+			[ "activaría" ],
+			[ "activaríamos" ],
+			[ "activaríais", "activarían" ],
+			[ "activarían" ]
+		],
+		"7" : [
+			[ "activaré" ],
+			[ "activarás" ],
+			[ "activará" ],
+			[ "activaremos" ],
+			[ "activaréis", "activarán" ],
+			[ "activarán" ]
+		],
+		"8" : [
+			[ "active" ],
+			[ "actives" ],
+			[ "active" ],
+			[ "activemos" ],
+			[ "activéis", "activen" ],
+			[ "activen" ]
+		],
+		"9" : [
+			[ "activara" ],
+			[ "activaras" ],
+			[ "activara" ],
+			[ "activáramos" ],
+			[ "activarais", "activaran" ],
+			[ "activaran" ]
+		],
+		"10" : [
+			[ "activase" ],
+			[ "activases" ],
+			[ "activase" ],
+			[ "activásemos" ],
+			[ "activaseis", "activasen" ],
+			[ "activasen" ]
+		],
+		"11" : [
+			[ "activare" ],
+			[ "activares" ],
+			[ "activare" ],
+			[ "activáremos" ],
+			[ "activareis", "activaren" ],
+			[ "activaren" ]
+		],
+		"12" : {
+			"1" : [ "activa" ],
+			"2" : [ "active" ],
+			"3" : [ "activemos" ],
+			"4" : [ "activad" ],
+			"5" : [ "activen" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=azotar",
+	"word" : "azotar",
+	"infinitivo" : "azotar",
+	"participio" : [ "azotado" ],
+	"gerundio" : [ "azotando" ],
+	"tenses" : {
+		"3" : [
+			[ "azoto" ],
+			[ "azotas", "azotás" ],
+			[ "azota" ],
+			[ "azotamos" ],
+			[ "azotáis", "azotan" ],
+			[ "azotan" ]
+		],
+		"4" : [
+			[ "azoté" ],
+			[ "azotaste" ],
+			[ "azotó" ],
+			[ "azotamos" ],
+			[ "azotasteis", "azotaron" ],
+			[ "azotaron" ]
+		],
+		"5" : [
+			[ "azotaba" ],
+			[ "azotabas" ],
+			[ "azotaba" ],
+			[ "azotábamos" ],
+			[ "azotabais", "azotaban" ],
+			[ "azotaban" ]
+		],
+		"6" : [
+			[ "azotaría" ],
+			[ "azotarías" ],
+			[ "azotaría" ],
+			[ "azotaríamos" ],
+			[ "azotaríais", "azotarían" ],
+			[ "azotarían" ]
+		],
+		"7" : [
+			[ "azotaré" ],
+			[ "azotarás" ],
+			[ "azotará" ],
+			[ "azotaremos" ],
+			[ "azotaréis", "azotarán" ],
+			[ "azotarán" ]
+		],
+		"8" : [
+			[ "azote" ],
+			[ "azotes" ],
+			[ "azote" ],
+			[ "azotemos" ],
+			[ "azotéis", "azoten" ],
+			[ "azoten" ]
+		],
+		"9" : [
+			[ "azotara" ],
+			[ "azotaras" ],
+			[ "azotara" ],
+			[ "azotáramos" ],
+			[ "azotarais", "azotaran" ],
+			[ "azotaran" ]
+		],
+		"10" : [
+			[ "azotase" ],
+			[ "azotases" ],
+			[ "azotase" ],
+			[ "azotásemos" ],
+			[ "azotaseis", "azotasen" ],
+			[ "azotasen" ]
+		],
+		"11" : [
+			[ "azotare" ],
+			[ "azotares" ],
+			[ "azotare" ],
+			[ "azotáremos" ],
+			[ "azotareis", "azotaren" ],
+			[ "azotaren" ]
+		],
+		"12" : {
+			"1" : [ "azota" ],
+			"2" : [ "azote" ],
+			"3" : [ "azotemos" ],
+			"4" : [ "azotad" ],
+			"5" : [ "azoten" ]
+		}
+	}
+}

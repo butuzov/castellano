@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=asconder",
+	"word" : "asconder",
+	"infinitivo" : "asconder",
+	"participio" : [ "ascondido" ],
+	"gerundio" : [ "ascondiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "ascondo" ],
+			[ "ascondes", "ascondés" ],
+			[ "asconde" ],
+			[ "ascondemos" ],
+			[ "ascondéis", "asconden" ],
+			[ "asconden" ]
+		],
+		"4" : [
+			[ "ascondí" ],
+			[ "ascondiste" ],
+			[ "ascondió" ],
+			[ "ascondimos" ],
+			[ "ascondisteis", "ascondieron" ],
+			[ "ascondieron" ]
+		],
+		"5" : [
+			[ "ascondía" ],
+			[ "ascondías" ],
+			[ "ascondía" ],
+			[ "ascondíamos" ],
+			[ "ascondíais", "ascondían" ],
+			[ "ascondían" ]
+		],
+		"6" : [
+			[ "ascondería" ],
+			[ "asconderías" ],
+			[ "ascondería" ],
+			[ "asconderíamos" ],
+			[ "asconderíais", "asconderían" ],
+			[ "asconderían" ]
+		],
+		"7" : [
+			[ "asconderé" ],
+			[ "asconderás" ],
+			[ "asconderá" ],
+			[ "asconderemos" ],
+			[ "asconderéis", "asconderán" ],
+			[ "asconderán" ]
+		],
+		"8" : [
+			[ "asconda" ],
+			[ "ascondas" ],
+			[ "asconda" ],
+			[ "ascondamos" ],
+			[ "ascondáis", "ascondan" ],
+			[ "ascondan" ]
+		],
+		"9" : [
+			[ "ascondiera" ],
+			[ "ascondieras" ],
+			[ "ascondiera" ],
+			[ "ascondiéramos" ],
+			[ "ascondierais", "ascondieran" ],
+			[ "ascondieran" ]
+		],
+		"10" : [
+			[ "ascondiese" ],
+			[ "ascondieses" ],
+			[ "ascondiese" ],
+			[ "ascondiésemos" ],
+			[ "ascondieseis", "ascondiesen" ],
+			[ "ascondiesen" ]
+		],
+		"11" : [
+			[ "ascondiere" ],
+			[ "ascondieres" ],
+			[ "ascondiere" ],
+			[ "ascondiéremos" ],
+			[ "ascondiereis", "ascondieren" ],
+			[ "ascondieren" ]
+		],
+		"12" : {
+			"1" : [ "asconde" ],
+			"2" : [ "asconda" ],
+			"3" : [ "ascondamos" ],
+			"4" : [ "asconded" ],
+			"5" : [ "ascondan" ]
+		}
+	}
+}

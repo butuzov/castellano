@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=morder",
+	"word" : "morder",
+	"infinitivo" : "morder",
+	"participio" : [ "mordido" ],
+	"gerundio" : [ "mordiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "muerdo" ],
+			[ "muerdes", "mordés" ],
+			[ "muerde" ],
+			[ "mordemos" ],
+			[ "mordéis", "muerden" ],
+			[ "muerden" ]
+		],
+		"4" : [
+			[ "mordí" ],
+			[ "mordiste" ],
+			[ "mordió" ],
+			[ "mordimos" ],
+			[ "mordisteis", "mordieron" ],
+			[ "mordieron" ]
+		],
+		"5" : [
+			[ "mordía" ],
+			[ "mordías" ],
+			[ "mordía" ],
+			[ "mordíamos" ],
+			[ "mordíais", "mordían" ],
+			[ "mordían" ]
+		],
+		"6" : [
+			[ "mordería" ],
+			[ "morderías" ],
+			[ "mordería" ],
+			[ "morderíamos" ],
+			[ "morderíais", "morderían" ],
+			[ "morderían" ]
+		],
+		"7" : [
+			[ "morderé" ],
+			[ "morderás" ],
+			[ "morderá" ],
+			[ "morderemos" ],
+			[ "morderéis", "morderán" ],
+			[ "morderán" ]
+		],
+		"8" : [
+			[ "muerda" ],
+			[ "muerdas" ],
+			[ "muerda" ],
+			[ "mordamos" ],
+			[ "mordáis", "muerdan" ],
+			[ "muerdan" ]
+		],
+		"9" : [
+			[ "mordiera" ],
+			[ "mordieras" ],
+			[ "mordiera" ],
+			[ "mordiéramos" ],
+			[ "mordierais", "mordieran" ],
+			[ "mordieran" ]
+		],
+		"10" : [
+			[ "mordiese" ],
+			[ "mordieses" ],
+			[ "mordiese" ],
+			[ "mordiésemos" ],
+			[ "mordieseis", "mordiesen" ],
+			[ "mordiesen" ]
+		],
+		"11" : [
+			[ "mordiere" ],
+			[ "mordieres" ],
+			[ "mordiere" ],
+			[ "mordiéremos" ],
+			[ "mordiereis", "mordieren" ],
+			[ "mordieren" ]
+		],
+		"12" : {
+			"1" : [ "muerde" ],
+			"2" : [ "muerda" ],
+			"3" : [ "mordamos" ],
+			"4" : [ "morded" ],
+			"5" : [ "muerdan" ]
+		}
+	}
+}

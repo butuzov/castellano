@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=dormitar",
+	"word" : "dormitar",
+	"infinitivo" : "dormitar",
+	"participio" : [ "dormitado" ],
+	"gerundio" : [ "dormitando" ],
+	"tenses" : {
+		"3" : [
+			[ "dormito" ],
+			[ "dormitas", "dormitás" ],
+			[ "dormita" ],
+			[ "dormitamos" ],
+			[ "dormitáis", "dormitan" ],
+			[ "dormitan" ]
+		],
+		"4" : [
+			[ "dormité" ],
+			[ "dormitaste" ],
+			[ "dormitó" ],
+			[ "dormitamos" ],
+			[ "dormitasteis", "dormitaron" ],
+			[ "dormitaron" ]
+		],
+		"5" : [
+			[ "dormitaba" ],
+			[ "dormitabas" ],
+			[ "dormitaba" ],
+			[ "dormitábamos" ],
+			[ "dormitabais", "dormitaban" ],
+			[ "dormitaban" ]
+		],
+		"6" : [
+			[ "dormitaría" ],
+			[ "dormitarías" ],
+			[ "dormitaría" ],
+			[ "dormitaríamos" ],
+			[ "dormitaríais", "dormitarían" ],
+			[ "dormitarían" ]
+		],
+		"7" : [
+			[ "dormitaré" ],
+			[ "dormitarás" ],
+			[ "dormitará" ],
+			[ "dormitaremos" ],
+			[ "dormitaréis", "dormitarán" ],
+			[ "dormitarán" ]
+		],
+		"8" : [
+			[ "dormite" ],
+			[ "dormites" ],
+			[ "dormite" ],
+			[ "dormitemos" ],
+			[ "dormitéis", "dormiten" ],
+			[ "dormiten" ]
+		],
+		"9" : [
+			[ "dormitara" ],
+			[ "dormitaras" ],
+			[ "dormitara" ],
+			[ "dormitáramos" ],
+			[ "dormitarais", "dormitaran" ],
+			[ "dormitaran" ]
+		],
+		"10" : [
+			[ "dormitase" ],
+			[ "dormitases" ],
+			[ "dormitase" ],
+			[ "dormitásemos" ],
+			[ "dormitaseis", "dormitasen" ],
+			[ "dormitasen" ]
+		],
+		"11" : [
+			[ "dormitare" ],
+			[ "dormitares" ],
+			[ "dormitare" ],
+			[ "dormitáremos" ],
+			[ "dormitareis", "dormitaren" ],
+			[ "dormitaren" ]
+		],
+		"12" : {
+			"1" : [ "dormita" ],
+			"2" : [ "dormite" ],
+			"3" : [ "dormitemos" ],
+			"4" : [ "dormitad" ],
+			"5" : [ "dormiten" ]
+		}
+	}
+}

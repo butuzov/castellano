@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=cooperar",
+	"word" : "cooperar",
+	"infinitivo" : "cooperar",
+	"participio" : [ "cooperado" ],
+	"gerundio" : [ "cooperando" ],
+	"tenses" : {
+		"3" : [
+			[ "coopero" ],
+			[ "cooperas", "cooperás" ],
+			[ "coopera" ],
+			[ "cooperamos" ],
+			[ "cooperáis", "cooperan" ],
+			[ "cooperan" ]
+		],
+		"4" : [
+			[ "cooperé" ],
+			[ "cooperaste" ],
+			[ "cooperó" ],
+			[ "cooperamos" ],
+			[ "cooperasteis", "cooperaron" ],
+			[ "cooperaron" ]
+		],
+		"5" : [
+			[ "cooperaba" ],
+			[ "cooperabas" ],
+			[ "cooperaba" ],
+			[ "cooperábamos" ],
+			[ "cooperabais", "cooperaban" ],
+			[ "cooperaban" ]
+		],
+		"6" : [
+			[ "cooperaría" ],
+			[ "cooperarías" ],
+			[ "cooperaría" ],
+			[ "cooperaríamos" ],
+			[ "cooperaríais", "cooperarían" ],
+			[ "cooperarían" ]
+		],
+		"7" : [
+			[ "cooperaré" ],
+			[ "cooperarás" ],
+			[ "cooperará" ],
+			[ "cooperaremos" ],
+			[ "cooperaréis", "cooperarán" ],
+			[ "cooperarán" ]
+		],
+		"8" : [
+			[ "coopere" ],
+			[ "cooperes" ],
+			[ "coopere" ],
+			[ "cooperemos" ],
+			[ "cooperéis", "cooperen" ],
+			[ "cooperen" ]
+		],
+		"9" : [
+			[ "cooperara" ],
+			[ "cooperaras" ],
+			[ "cooperara" ],
+			[ "cooperáramos" ],
+			[ "cooperarais", "cooperaran" ],
+			[ "cooperaran" ]
+		],
+		"10" : [
+			[ "cooperase" ],
+			[ "cooperases" ],
+			[ "cooperase" ],
+			[ "cooperásemos" ],
+			[ "cooperaseis", "cooperasen" ],
+			[ "cooperasen" ]
+		],
+		"11" : [
+			[ "cooperare" ],
+			[ "cooperares" ],
+			[ "cooperare" ],
+			[ "cooperáremos" ],
+			[ "cooperareis", "cooperaren" ],
+			[ "cooperaren" ]
+		],
+		"12" : {
+			"1" : [ "coopera" ],
+			"2" : [ "coopere" ],
+			"3" : [ "cooperemos" ],
+			"4" : [ "cooperad" ],
+			"5" : [ "cooperen" ]
+		}
+	}
+}

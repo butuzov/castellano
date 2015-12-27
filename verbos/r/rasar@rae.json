@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=rasar",
+	"word" : "rasar",
+	"infinitivo" : "rasar",
+	"participio" : [ "rasado" ],
+	"gerundio" : [ "rasando" ],
+	"tenses" : {
+		"3" : [
+			[ "raso" ],
+			[ "rasas", "rasás" ],
+			[ "rasa" ],
+			[ "rasamos" ],
+			[ "rasáis", "rasan" ],
+			[ "rasan" ]
+		],
+		"4" : [
+			[ "rasé" ],
+			[ "rasaste" ],
+			[ "rasó" ],
+			[ "rasamos" ],
+			[ "rasasteis", "rasaron" ],
+			[ "rasaron" ]
+		],
+		"5" : [
+			[ "rasaba" ],
+			[ "rasabas" ],
+			[ "rasaba" ],
+			[ "rasábamos" ],
+			[ "rasabais", "rasaban" ],
+			[ "rasaban" ]
+		],
+		"6" : [
+			[ "rasaría" ],
+			[ "rasarías" ],
+			[ "rasaría" ],
+			[ "rasaríamos" ],
+			[ "rasaríais", "rasarían" ],
+			[ "rasarían" ]
+		],
+		"7" : [
+			[ "rasaré" ],
+			[ "rasarás" ],
+			[ "rasará" ],
+			[ "rasaremos" ],
+			[ "rasaréis", "rasarán" ],
+			[ "rasarán" ]
+		],
+		"8" : [
+			[ "rase" ],
+			[ "rases" ],
+			[ "rase" ],
+			[ "rasemos" ],
+			[ "raséis", "rasen" ],
+			[ "rasen" ]
+		],
+		"9" : [
+			[ "rasara" ],
+			[ "rasaras" ],
+			[ "rasara" ],
+			[ "rasáramos" ],
+			[ "rasarais", "rasaran" ],
+			[ "rasaran" ]
+		],
+		"10" : [
+			[ "rasase" ],
+			[ "rasases" ],
+			[ "rasase" ],
+			[ "rasásemos" ],
+			[ "rasaseis", "rasasen" ],
+			[ "rasasen" ]
+		],
+		"11" : [
+			[ "rasare" ],
+			[ "rasares" ],
+			[ "rasare" ],
+			[ "rasáremos" ],
+			[ "rasareis", "rasaren" ],
+			[ "rasaren" ]
+		],
+		"12" : {
+			"1" : [ "rasa" ],
+			"2" : [ "rase" ],
+			"3" : [ "rasemos" ],
+			"4" : [ "rasad" ],
+			"5" : [ "rasen" ]
+		}
+	}
+}

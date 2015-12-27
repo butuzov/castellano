@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=deparar",
+	"word" : "deparar",
+	"infinitivo" : "deparar",
+	"participio" : [ "deparado" ],
+	"gerundio" : [ "deparando" ],
+	"tenses" : {
+		"3" : [
+			[ "deparo" ],
+			[ "deparas", "deparás" ],
+			[ "depara" ],
+			[ "deparamos" ],
+			[ "deparáis", "deparan" ],
+			[ "deparan" ]
+		],
+		"4" : [
+			[ "deparé" ],
+			[ "deparaste" ],
+			[ "deparó" ],
+			[ "deparamos" ],
+			[ "deparasteis", "depararon" ],
+			[ "depararon" ]
+		],
+		"5" : [
+			[ "deparaba" ],
+			[ "deparabas" ],
+			[ "deparaba" ],
+			[ "deparábamos" ],
+			[ "deparabais", "deparaban" ],
+			[ "deparaban" ]
+		],
+		"6" : [
+			[ "depararía" ],
+			[ "depararías" ],
+			[ "depararía" ],
+			[ "depararíamos" ],
+			[ "depararíais", "depararían" ],
+			[ "depararían" ]
+		],
+		"7" : [
+			[ "depararé" ],
+			[ "depararás" ],
+			[ "deparará" ],
+			[ "depararemos" ],
+			[ "depararéis", "depararán" ],
+			[ "depararán" ]
+		],
+		"8" : [
+			[ "depare" ],
+			[ "depares" ],
+			[ "depare" ],
+			[ "deparemos" ],
+			[ "deparéis", "deparen" ],
+			[ "deparen" ]
+		],
+		"9" : [
+			[ "deparara" ],
+			[ "depararas" ],
+			[ "deparara" ],
+			[ "deparáramos" ],
+			[ "depararais", "depararan" ],
+			[ "depararan" ]
+		],
+		"10" : [
+			[ "deparase" ],
+			[ "deparases" ],
+			[ "deparase" ],
+			[ "deparásemos" ],
+			[ "deparaseis", "deparasen" ],
+			[ "deparasen" ]
+		],
+		"11" : [
+			[ "deparare" ],
+			[ "deparares" ],
+			[ "deparare" ],
+			[ "deparáremos" ],
+			[ "deparareis", "depararen" ],
+			[ "depararen" ]
+		],
+		"12" : {
+			"1" : [ "depara" ],
+			"2" : [ "depare" ],
+			"3" : [ "deparemos" ],
+			"4" : [ "deparad" ],
+			"5" : [ "deparen" ]
+		}
+	}
+}

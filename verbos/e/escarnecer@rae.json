@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=escarnecer",
+	"word" : "escarnecer",
+	"infinitivo" : "escarnecer",
+	"participio" : [ "escarnecido" ],
+	"gerundio" : [ "escarneciendo" ],
+	"tenses" : {
+		"3" : [
+			[ "escarnezco" ],
+			[ "escarneces", "escarnecés" ],
+			[ "escarnece" ],
+			[ "escarnecemos" ],
+			[ "escarnecéis", "escarnecen" ],
+			[ "escarnecen" ]
+		],
+		"4" : [
+			[ "escarnecí" ],
+			[ "escarneciste" ],
+			[ "escarneció" ],
+			[ "escarnecimos" ],
+			[ "escarnecisteis", "escarnecieron" ],
+			[ "escarnecieron" ]
+		],
+		"5" : [
+			[ "escarnecía" ],
+			[ "escarnecías" ],
+			[ "escarnecía" ],
+			[ "escarnecíamos" ],
+			[ "escarnecíais", "escarnecían" ],
+			[ "escarnecían" ]
+		],
+		"6" : [
+			[ "escarnecería" ],
+			[ "escarnecerías" ],
+			[ "escarnecería" ],
+			[ "escarneceríamos" ],
+			[ "escarneceríais", "escarnecerían" ],
+			[ "escarnecerían" ]
+		],
+		"7" : [
+			[ "escarneceré" ],
+			[ "escarnecerás" ],
+			[ "escarnecerá" ],
+			[ "escarneceremos" ],
+			[ "escarneceréis", "escarnecerán" ],
+			[ "escarnecerán" ]
+		],
+		"8" : [
+			[ "escarnezca" ],
+			[ "escarnezcas" ],
+			[ "escarnezca" ],
+			[ "escarnezcamos" ],
+			[ "escarnezcáis", "escarnezcan" ],
+			[ "escarnezcan" ]
+		],
+		"9" : [
+			[ "escarneciera" ],
+			[ "escarnecieras" ],
+			[ "escarneciera" ],
+			[ "escarneciéramos" ],
+			[ "escarnecierais", "escarnecieran" ],
+			[ "escarnecieran" ]
+		],
+		"10" : [
+			[ "escarneciese" ],
+			[ "escarnecieses" ],
+			[ "escarneciese" ],
+			[ "escarneciésemos" ],
+			[ "escarnecieseis", "escarneciesen" ],
+			[ "escarneciesen" ]
+		],
+		"11" : [
+			[ "escarneciere" ],
+			[ "escarnecieres" ],
+			[ "escarneciere" ],
+			[ "escarneciéremos" ],
+			[ "escarneciereis", "escarnecieren" ],
+			[ "escarnecieren" ]
+		],
+		"12" : {
+			"1" : [ "escarnece" ],
+			"2" : [ "escarnezca" ],
+			"3" : [ "escarnezcamos" ],
+			"4" : [ "escarneced" ],
+			"5" : [ "escarnezcan" ]
+		}
+	}
+}

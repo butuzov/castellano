@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=versear",
+	"word" : "versear",
+	"infinitivo" : "versear",
+	"participio" : [ "verseado" ],
+	"gerundio" : [ "verseando" ],
+	"tenses" : {
+		"3" : [
+			[ "verseo" ],
+			[ "verseas", "verseás" ],
+			[ "versea" ],
+			[ "verseamos" ],
+			[ "verseáis", "versean" ],
+			[ "versean" ]
+		],
+		"4" : [
+			[ "verseé" ],
+			[ "verseaste" ],
+			[ "verseó" ],
+			[ "verseamos" ],
+			[ "verseasteis", "versearon" ],
+			[ "versearon" ]
+		],
+		"5" : [
+			[ "verseaba" ],
+			[ "verseabas" ],
+			[ "verseaba" ],
+			[ "verseábamos" ],
+			[ "verseabais", "verseaban" ],
+			[ "verseaban" ]
+		],
+		"6" : [
+			[ "versearía" ],
+			[ "versearías" ],
+			[ "versearía" ],
+			[ "versearíamos" ],
+			[ "versearíais", "versearían" ],
+			[ "versearían" ]
+		],
+		"7" : [
+			[ "versearé" ],
+			[ "versearás" ],
+			[ "verseará" ],
+			[ "versearemos" ],
+			[ "versearéis", "versearán" ],
+			[ "versearán" ]
+		],
+		"8" : [
+			[ "versee" ],
+			[ "versees" ],
+			[ "versee" ],
+			[ "verseemos" ],
+			[ "verseéis", "verseen" ],
+			[ "verseen" ]
+		],
+		"9" : [
+			[ "verseara" ],
+			[ "versearas" ],
+			[ "verseara" ],
+			[ "verseáramos" ],
+			[ "versearais", "versearan" ],
+			[ "versearan" ]
+		],
+		"10" : [
+			[ "versease" ],
+			[ "verseases" ],
+			[ "versease" ],
+			[ "verseásemos" ],
+			[ "verseaseis", "verseasen" ],
+			[ "verseasen" ]
+		],
+		"11" : [
+			[ "verseare" ],
+			[ "verseares" ],
+			[ "verseare" ],
+			[ "verseáremos" ],
+			[ "verseareis", "versearen" ],
+			[ "versearen" ]
+		],
+		"12" : {
+			"1" : [ "versea" ],
+			"2" : [ "versee" ],
+			"3" : [ "verseemos" ],
+			"4" : [ "versead" ],
+			"5" : [ "verseen" ]
+		}
+	}
+}

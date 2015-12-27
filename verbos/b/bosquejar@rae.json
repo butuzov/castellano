@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=bosquejar",
+	"word" : "bosquejar",
+	"infinitivo" : "bosquejar",
+	"participio" : [ "bosquejado" ],
+	"gerundio" : [ "bosquejando" ],
+	"tenses" : {
+		"3" : [
+			[ "bosquejo" ],
+			[ "bosquejas", "bosquejás" ],
+			[ "bosqueja" ],
+			[ "bosquejamos" ],
+			[ "bosquejáis", "bosquejan" ],
+			[ "bosquejan" ]
+		],
+		"4" : [
+			[ "bosquejé" ],
+			[ "bosquejaste" ],
+			[ "bosquejó" ],
+			[ "bosquejamos" ],
+			[ "bosquejasteis", "bosquejaron" ],
+			[ "bosquejaron" ]
+		],
+		"5" : [
+			[ "bosquejaba" ],
+			[ "bosquejabas" ],
+			[ "bosquejaba" ],
+			[ "bosquejábamos" ],
+			[ "bosquejabais", "bosquejaban" ],
+			[ "bosquejaban" ]
+		],
+		"6" : [
+			[ "bosquejaría" ],
+			[ "bosquejarías" ],
+			[ "bosquejaría" ],
+			[ "bosquejaríamos" ],
+			[ "bosquejaríais", "bosquejarían" ],
+			[ "bosquejarían" ]
+		],
+		"7" : [
+			[ "bosquejaré" ],
+			[ "bosquejarás" ],
+			[ "bosquejará" ],
+			[ "bosquejaremos" ],
+			[ "bosquejaréis", "bosquejarán" ],
+			[ "bosquejarán" ]
+		],
+		"8" : [
+			[ "bosqueje" ],
+			[ "bosquejes" ],
+			[ "bosqueje" ],
+			[ "bosquejemos" ],
+			[ "bosquejéis", "bosquejen" ],
+			[ "bosquejen" ]
+		],
+		"9" : [
+			[ "bosquejara" ],
+			[ "bosquejaras" ],
+			[ "bosquejara" ],
+			[ "bosquejáramos" ],
+			[ "bosquejarais", "bosquejaran" ],
+			[ "bosquejaran" ]
+		],
+		"10" : [
+			[ "bosquejase" ],
+			[ "bosquejases" ],
+			[ "bosquejase" ],
+			[ "bosquejásemos" ],
+			[ "bosquejaseis", "bosquejasen" ],
+			[ "bosquejasen" ]
+		],
+		"11" : [
+			[ "bosquejare" ],
+			[ "bosquejares" ],
+			[ "bosquejare" ],
+			[ "bosquejáremos" ],
+			[ "bosquejareis", "bosquejaren" ],
+			[ "bosquejaren" ]
+		],
+		"12" : {
+			"1" : [ "bosqueja" ],
+			"2" : [ "bosqueje" ],
+			"3" : [ "bosquejemos" ],
+			"4" : [ "bosquejad" ],
+			"5" : [ "bosquejen" ]
+		}
+	}
+}

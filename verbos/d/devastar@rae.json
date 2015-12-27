@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=devastar",
+	"word" : "devastar",
+	"infinitivo" : "devastar",
+	"participio" : [ "devastado" ],
+	"gerundio" : [ "devastando" ],
+	"tenses" : {
+		"3" : [
+			[ "devasto" ],
+			[ "devastas", "devastás" ],
+			[ "devasta" ],
+			[ "devastamos" ],
+			[ "devastáis", "devastan" ],
+			[ "devastan" ]
+		],
+		"4" : [
+			[ "devasté" ],
+			[ "devastaste" ],
+			[ "devastó" ],
+			[ "devastamos" ],
+			[ "devastasteis", "devastaron" ],
+			[ "devastaron" ]
+		],
+		"5" : [
+			[ "devastaba" ],
+			[ "devastabas" ],
+			[ "devastaba" ],
+			[ "devastábamos" ],
+			[ "devastabais", "devastaban" ],
+			[ "devastaban" ]
+		],
+		"6" : [
+			[ "devastaría" ],
+			[ "devastarías" ],
+			[ "devastaría" ],
+			[ "devastaríamos" ],
+			[ "devastaríais", "devastarían" ],
+			[ "devastarían" ]
+		],
+		"7" : [
+			[ "devastaré" ],
+			[ "devastarás" ],
+			[ "devastará" ],
+			[ "devastaremos" ],
+			[ "devastaréis", "devastarán" ],
+			[ "devastarán" ]
+		],
+		"8" : [
+			[ "devaste" ],
+			[ "devastes" ],
+			[ "devaste" ],
+			[ "devastemos" ],
+			[ "devastéis", "devasten" ],
+			[ "devasten" ]
+		],
+		"9" : [
+			[ "devastara" ],
+			[ "devastaras" ],
+			[ "devastara" ],
+			[ "devastáramos" ],
+			[ "devastarais", "devastaran" ],
+			[ "devastaran" ]
+		],
+		"10" : [
+			[ "devastase" ],
+			[ "devastases" ],
+			[ "devastase" ],
+			[ "devastásemos" ],
+			[ "devastaseis", "devastasen" ],
+			[ "devastasen" ]
+		],
+		"11" : [
+			[ "devastare" ],
+			[ "devastares" ],
+			[ "devastare" ],
+			[ "devastáremos" ],
+			[ "devastareis", "devastaren" ],
+			[ "devastaren" ]
+		],
+		"12" : {
+			"1" : [ "devasta" ],
+			"2" : [ "devaste" ],
+			"3" : [ "devastemos" ],
+			"4" : [ "devastad" ],
+			"5" : [ "devasten" ]
+		}
+	}
+}

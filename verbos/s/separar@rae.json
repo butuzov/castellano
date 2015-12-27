@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=separar",
+	"word" : "separar",
+	"infinitivo" : "separar",
+	"participio" : [ "separado" ],
+	"gerundio" : [ "separando" ],
+	"tenses" : {
+		"3" : [
+			[ "separo" ],
+			[ "separas", "separás" ],
+			[ "separa" ],
+			[ "separamos" ],
+			[ "separáis", "separan" ],
+			[ "separan" ]
+		],
+		"4" : [
+			[ "separé" ],
+			[ "separaste" ],
+			[ "separó" ],
+			[ "separamos" ],
+			[ "separasteis", "separaron" ],
+			[ "separaron" ]
+		],
+		"5" : [
+			[ "separaba" ],
+			[ "separabas" ],
+			[ "separaba" ],
+			[ "separábamos" ],
+			[ "separabais", "separaban" ],
+			[ "separaban" ]
+		],
+		"6" : [
+			[ "separaría" ],
+			[ "separarías" ],
+			[ "separaría" ],
+			[ "separaríamos" ],
+			[ "separaríais", "separarían" ],
+			[ "separarían" ]
+		],
+		"7" : [
+			[ "separaré" ],
+			[ "separarás" ],
+			[ "separará" ],
+			[ "separaremos" ],
+			[ "separaréis", "separarán" ],
+			[ "separarán" ]
+		],
+		"8" : [
+			[ "separe" ],
+			[ "separes" ],
+			[ "separe" ],
+			[ "separemos" ],
+			[ "separéis", "separen" ],
+			[ "separen" ]
+		],
+		"9" : [
+			[ "separara" ],
+			[ "separaras" ],
+			[ "separara" ],
+			[ "separáramos" ],
+			[ "separarais", "separaran" ],
+			[ "separaran" ]
+		],
+		"10" : [
+			[ "separase" ],
+			[ "separases" ],
+			[ "separase" ],
+			[ "separásemos" ],
+			[ "separaseis", "separasen" ],
+			[ "separasen" ]
+		],
+		"11" : [
+			[ "separare" ],
+			[ "separares" ],
+			[ "separare" ],
+			[ "separáremos" ],
+			[ "separareis", "separaren" ],
+			[ "separaren" ]
+		],
+		"12" : {
+			"1" : [ "separa" ],
+			"2" : [ "separe" ],
+			"3" : [ "separemos" ],
+			"4" : [ "separad" ],
+			"5" : [ "separen" ]
+		}
+	}
+}

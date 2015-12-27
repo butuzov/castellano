@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=capitalizar",
+	"word" : "capitalizar",
+	"infinitivo" : "capitalizar",
+	"participio" : [ "capitalizado" ],
+	"gerundio" : [ "capitalizando" ],
+	"tenses" : {
+		"3" : [
+			[ "capitalizo" ],
+			[ "capitalizas", "capitalizás" ],
+			[ "capitaliza" ],
+			[ "capitalizamos" ],
+			[ "capitalizáis", "capitalizan" ],
+			[ "capitalizan" ]
+		],
+		"4" : [
+			[ "capitalicé" ],
+			[ "capitalizaste" ],
+			[ "capitalizó" ],
+			[ "capitalizamos" ],
+			[ "capitalizasteis", "capitalizaron" ],
+			[ "capitalizaron" ]
+		],
+		"5" : [
+			[ "capitalizaba" ],
+			[ "capitalizabas" ],
+			[ "capitalizaba" ],
+			[ "capitalizábamos" ],
+			[ "capitalizabais", "capitalizaban" ],
+			[ "capitalizaban" ]
+		],
+		"6" : [
+			[ "capitalizaría" ],
+			[ "capitalizarías" ],
+			[ "capitalizaría" ],
+			[ "capitalizaríamos" ],
+			[ "capitalizaríais", "capitalizarían" ],
+			[ "capitalizarían" ]
+		],
+		"7" : [
+			[ "capitalizaré" ],
+			[ "capitalizarás" ],
+			[ "capitalizará" ],
+			[ "capitalizaremos" ],
+			[ "capitalizaréis", "capitalizarán" ],
+			[ "capitalizarán" ]
+		],
+		"8" : [
+			[ "capitalice" ],
+			[ "capitalices" ],
+			[ "capitalice" ],
+			[ "capitalicemos" ],
+			[ "capitalicéis", "capitalicen" ],
+			[ "capitalicen" ]
+		],
+		"9" : [
+			[ "capitalizara" ],
+			[ "capitalizaras" ],
+			[ "capitalizara" ],
+			[ "capitalizáramos" ],
+			[ "capitalizarais", "capitalizaran" ],
+			[ "capitalizaran" ]
+		],
+		"10" : [
+			[ "capitalizase" ],
+			[ "capitalizases" ],
+			[ "capitalizase" ],
+			[ "capitalizásemos" ],
+			[ "capitalizaseis", "capitalizasen" ],
+			[ "capitalizasen" ]
+		],
+		"11" : [
+			[ "capitalizare" ],
+			[ "capitalizares" ],
+			[ "capitalizare" ],
+			[ "capitalizáremos" ],
+			[ "capitalizareis", "capitalizaren" ],
+			[ "capitalizaren" ]
+		],
+		"12" : {
+			"1" : [ "capitaliza" ],
+			"2" : [ "capitalice" ],
+			"3" : [ "capitalicemos" ],
+			"4" : [ "capitalizad" ],
+			"5" : [ "capitalicen" ]
+		}
+	}
+}

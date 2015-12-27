@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=estrenar",
+	"word" : "estrenar",
+	"infinitivo" : "estrenar",
+	"participio" : [ "estrenado" ],
+	"gerundio" : [ "estrenando" ],
+	"tenses" : {
+		"3" : [
+			[ "estreno" ],
+			[ "estrenas", "estrenás" ],
+			[ "estrena" ],
+			[ "estrenamos" ],
+			[ "estrenáis", "estrenan" ],
+			[ "estrenan" ]
+		],
+		"4" : [
+			[ "estrené" ],
+			[ "estrenaste" ],
+			[ "estrenó" ],
+			[ "estrenamos" ],
+			[ "estrenasteis", "estrenaron" ],
+			[ "estrenaron" ]
+		],
+		"5" : [
+			[ "estrenaba" ],
+			[ "estrenabas" ],
+			[ "estrenaba" ],
+			[ "estrenábamos" ],
+			[ "estrenabais", "estrenaban" ],
+			[ "estrenaban" ]
+		],
+		"6" : [
+			[ "estrenaría" ],
+			[ "estrenarías" ],
+			[ "estrenaría" ],
+			[ "estrenaríamos" ],
+			[ "estrenaríais", "estrenarían" ],
+			[ "estrenarían" ]
+		],
+		"7" : [
+			[ "estrenaré" ],
+			[ "estrenarás" ],
+			[ "estrenará" ],
+			[ "estrenaremos" ],
+			[ "estrenaréis", "estrenarán" ],
+			[ "estrenarán" ]
+		],
+		"8" : [
+			[ "estrene" ],
+			[ "estrenes" ],
+			[ "estrene" ],
+			[ "estrenemos" ],
+			[ "estrenéis", "estrenen" ],
+			[ "estrenen" ]
+		],
+		"9" : [
+			[ "estrenara" ],
+			[ "estrenaras" ],
+			[ "estrenara" ],
+			[ "estrenáramos" ],
+			[ "estrenarais", "estrenaran" ],
+			[ "estrenaran" ]
+		],
+		"10" : [
+			[ "estrenase" ],
+			[ "estrenases" ],
+			[ "estrenase" ],
+			[ "estrenásemos" ],
+			[ "estrenaseis", "estrenasen" ],
+			[ "estrenasen" ]
+		],
+		"11" : [
+			[ "estrenare" ],
+			[ "estrenares" ],
+			[ "estrenare" ],
+			[ "estrenáremos" ],
+			[ "estrenareis", "estrenaren" ],
+			[ "estrenaren" ]
+		],
+		"12" : {
+			"1" : [ "estrena" ],
+			"2" : [ "estrene" ],
+			"3" : [ "estrenemos" ],
+			"4" : [ "estrenad" ],
+			"5" : [ "estrenen" ]
+		}
+	}
+}

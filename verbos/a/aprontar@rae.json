@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aprontar",
+	"word" : "aprontar",
+	"infinitivo" : "aprontar",
+	"participio" : [ "aprontado" ],
+	"gerundio" : [ "aprontando" ],
+	"tenses" : {
+		"3" : [
+			[ "apronto" ],
+			[ "aprontas", "aprontás" ],
+			[ "apronta" ],
+			[ "aprontamos" ],
+			[ "aprontáis", "aprontan" ],
+			[ "aprontan" ]
+		],
+		"4" : [
+			[ "apronté" ],
+			[ "aprontaste" ],
+			[ "aprontó" ],
+			[ "aprontamos" ],
+			[ "aprontasteis", "aprontaron" ],
+			[ "aprontaron" ]
+		],
+		"5" : [
+			[ "aprontaba" ],
+			[ "aprontabas" ],
+			[ "aprontaba" ],
+			[ "aprontábamos" ],
+			[ "aprontabais", "aprontaban" ],
+			[ "aprontaban" ]
+		],
+		"6" : [
+			[ "aprontaría" ],
+			[ "aprontarías" ],
+			[ "aprontaría" ],
+			[ "aprontaríamos" ],
+			[ "aprontaríais", "aprontarían" ],
+			[ "aprontarían" ]
+		],
+		"7" : [
+			[ "aprontaré" ],
+			[ "aprontarás" ],
+			[ "aprontará" ],
+			[ "aprontaremos" ],
+			[ "aprontaréis", "aprontarán" ],
+			[ "aprontarán" ]
+		],
+		"8" : [
+			[ "apronte" ],
+			[ "aprontes" ],
+			[ "apronte" ],
+			[ "aprontemos" ],
+			[ "aprontéis", "apronten" ],
+			[ "apronten" ]
+		],
+		"9" : [
+			[ "aprontara" ],
+			[ "aprontaras" ],
+			[ "aprontara" ],
+			[ "aprontáramos" ],
+			[ "aprontarais", "aprontaran" ],
+			[ "aprontaran" ]
+		],
+		"10" : [
+			[ "aprontase" ],
+			[ "aprontases" ],
+			[ "aprontase" ],
+			[ "aprontásemos" ],
+			[ "aprontaseis", "aprontasen" ],
+			[ "aprontasen" ]
+		],
+		"11" : [
+			[ "aprontare" ],
+			[ "aprontares" ],
+			[ "aprontare" ],
+			[ "aprontáremos" ],
+			[ "aprontareis", "aprontaren" ],
+			[ "aprontaren" ]
+		],
+		"12" : {
+			"1" : [ "apronta" ],
+			"2" : [ "apronte" ],
+			"3" : [ "aprontemos" ],
+			"4" : [ "aprontad" ],
+			"5" : [ "apronten" ]
+		}
+	}
+}

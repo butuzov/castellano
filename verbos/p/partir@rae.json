@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=partir",
+	"word" : "partir",
+	"infinitivo" : "partir",
+	"participio" : [ "partido" ],
+	"gerundio" : [ "partiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "parto" ],
+			[ "partes", "partís" ],
+			[ "parte" ],
+			[ "partimos" ],
+			[ "partís", "parten" ],
+			[ "parten" ]
+		],
+		"4" : [
+			[ "partí" ],
+			[ "partiste" ],
+			[ "partió" ],
+			[ "partimos" ],
+			[ "partisteis", "partieron" ],
+			[ "partieron" ]
+		],
+		"5" : [
+			[ "partía" ],
+			[ "partías" ],
+			[ "partía" ],
+			[ "partíamos" ],
+			[ "partíais", "partían" ],
+			[ "partían" ]
+		],
+		"6" : [
+			[ "partiría" ],
+			[ "partirías" ],
+			[ "partiría" ],
+			[ "partiríamos" ],
+			[ "partiríais", "partirían" ],
+			[ "partirían" ]
+		],
+		"7" : [
+			[ "partiré" ],
+			[ "partirás" ],
+			[ "partirá" ],
+			[ "partiremos" ],
+			[ "partiréis", "partirán" ],
+			[ "partirán" ]
+		],
+		"8" : [
+			[ "parta" ],
+			[ "partas" ],
+			[ "parta" ],
+			[ "partamos" ],
+			[ "partáis", "partan" ],
+			[ "partan" ]
+		],
+		"9" : [
+			[ "partiera" ],
+			[ "partieras" ],
+			[ "partiera" ],
+			[ "partiéramos" ],
+			[ "partierais", "partieran" ],
+			[ "partieran" ]
+		],
+		"10" : [
+			[ "partiese" ],
+			[ "partieses" ],
+			[ "partiese" ],
+			[ "partiésemos" ],
+			[ "partieseis", "partiesen" ],
+			[ "partiesen" ]
+		],
+		"11" : [
+			[ "partiere" ],
+			[ "partieres" ],
+			[ "partiere" ],
+			[ "partiéremos" ],
+			[ "partiereis", "partieren" ],
+			[ "partieren" ]
+		],
+		"12" : {
+			"1" : [ "parte" ],
+			"2" : [ "parta" ],
+			"3" : [ "partamos" ],
+			"4" : [ "partid" ],
+			"5" : [ "partan" ]
+		}
+	}
+}

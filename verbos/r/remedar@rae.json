@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remedar",
+	"word" : "remedar",
+	"infinitivo" : "remedar",
+	"participio" : [ "remedado" ],
+	"gerundio" : [ "remedando" ],
+	"tenses" : {
+		"3" : [
+			[ "remedo" ],
+			[ "remedas", "remedás" ],
+			[ "remeda" ],
+			[ "remedamos" ],
+			[ "remedáis", "remedan" ],
+			[ "remedan" ]
+		],
+		"4" : [
+			[ "remedé" ],
+			[ "remedaste" ],
+			[ "remedó" ],
+			[ "remedamos" ],
+			[ "remedasteis", "remedaron" ],
+			[ "remedaron" ]
+		],
+		"5" : [
+			[ "remedaba" ],
+			[ "remedabas" ],
+			[ "remedaba" ],
+			[ "remedábamos" ],
+			[ "remedabais", "remedaban" ],
+			[ "remedaban" ]
+		],
+		"6" : [
+			[ "remedaría" ],
+			[ "remedarías" ],
+			[ "remedaría" ],
+			[ "remedaríamos" ],
+			[ "remedaríais", "remedarían" ],
+			[ "remedarían" ]
+		],
+		"7" : [
+			[ "remedaré" ],
+			[ "remedarás" ],
+			[ "remedará" ],
+			[ "remedaremos" ],
+			[ "remedaréis", "remedarán" ],
+			[ "remedarán" ]
+		],
+		"8" : [
+			[ "remede" ],
+			[ "remedes" ],
+			[ "remede" ],
+			[ "remedemos" ],
+			[ "remedéis", "remeden" ],
+			[ "remeden" ]
+		],
+		"9" : [
+			[ "remedara" ],
+			[ "remedaras" ],
+			[ "remedara" ],
+			[ "remedáramos" ],
+			[ "remedarais", "remedaran" ],
+			[ "remedaran" ]
+		],
+		"10" : [
+			[ "remedase" ],
+			[ "remedases" ],
+			[ "remedase" ],
+			[ "remedásemos" ],
+			[ "remedaseis", "remedasen" ],
+			[ "remedasen" ]
+		],
+		"11" : [
+			[ "remedare" ],
+			[ "remedares" ],
+			[ "remedare" ],
+			[ "remedáremos" ],
+			[ "remedareis", "remedaren" ],
+			[ "remedaren" ]
+		],
+		"12" : {
+			"1" : [ "remeda" ],
+			"2" : [ "remede" ],
+			"3" : [ "remedemos" ],
+			"4" : [ "remedad" ],
+			"5" : [ "remeden" ]
+		}
+	}
+}

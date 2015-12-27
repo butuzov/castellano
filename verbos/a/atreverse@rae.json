@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=atreverse",
+	"word" : "atreverse",
+	"infinitivo" : "atreverse",
+	"participio" : [ "atrevido" ],
+	"gerundio" : [ "atreviéndome", "atreviéndote" ],
+	"tenses" : {
+		"3" : [
+			[ "me atrevo" ],
+			[ "te atreves", "te atrevés" ],
+			[ "se atreve" ],
+			[ "nos atrevemos" ],
+			[ "os atrevéis", "se atreven" ],
+			[ "se atreven" ]
+		],
+		"4" : [
+			[ "me atreví" ],
+			[ "te atreviste" ],
+			[ "se atrevió" ],
+			[ "nos atrevimos" ],
+			[ "os atrevisteis", "se atrevieron" ],
+			[ "se atrevieron" ]
+		],
+		"5" : [
+			[ "me atrevía" ],
+			[ "te atrevías" ],
+			[ "se atrevía" ],
+			[ "nos atrevíamos" ],
+			[ "os atrevíais", "se atrevían" ],
+			[ "se atrevían" ]
+		],
+		"6" : [
+			[ "me atrevería" ],
+			[ "te atreverías" ],
+			[ "se atrevería" ],
+			[ "nos atreveríamos" ],
+			[ "os atreveríais", "se atreverían" ],
+			[ "se atreverían" ]
+		],
+		"7" : [
+			[ "me atreveré" ],
+			[ "te atreverás" ],
+			[ "se atreverá" ],
+			[ "nos atreveremos" ],
+			[ "os atreveréis", "se atreverán" ],
+			[ "se atreverán" ]
+		],
+		"8" : [
+			[ "me atreva" ],
+			[ "te atrevas" ],
+			[ "se atreva" ],
+			[ "nos atrevamos" ],
+			[ "os atreváis", "se atrevan" ],
+			[ "se atrevan" ]
+		],
+		"9" : [
+			[ "me atreviera" ],
+			[ "te atrevieras" ],
+			[ "se atreviera" ],
+			[ "nos atreviéramos" ],
+			[ "os atrevierais", "se atrevieran" ],
+			[ "se atrevieran" ]
+		],
+		"10" : [
+			[ "me atreviese" ],
+			[ "te atrevieses" ],
+			[ "se atreviese" ],
+			[ "nos atreviésemos" ],
+			[ "os atrevieseis", "se atreviesen" ],
+			[ "se atreviesen" ]
+		],
+		"11" : [
+			[ "me atreviere" ],
+			[ "te atrevieres" ],
+			[ "se atreviere" ],
+			[ "nos atreviéremos" ],
+			[ "os atreviereis", "se atrevieren" ],
+			[ "se atrevieren" ]
+		],
+		"12" : {
+			"1" : [ "atrévete" ],
+			"2" : [ "atreva" ],
+			"3" : [ "atrevamos" ],
+			"4" : [ "atreveos" ],
+			"5" : [ "atrévanse" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=remirar",
+	"word" : "remirar",
+	"infinitivo" : "remirar",
+	"participio" : [ "remirado" ],
+	"gerundio" : [ "remirando" ],
+	"tenses" : {
+		"3" : [
+			[ "remiro" ],
+			[ "remiras", "remirás" ],
+			[ "remira" ],
+			[ "remiramos" ],
+			[ "remiráis", "remiran" ],
+			[ "remiran" ]
+		],
+		"4" : [
+			[ "remiré" ],
+			[ "remiraste" ],
+			[ "remiró" ],
+			[ "remiramos" ],
+			[ "remirasteis", "remiraron" ],
+			[ "remiraron" ]
+		],
+		"5" : [
+			[ "remiraba" ],
+			[ "remirabas" ],
+			[ "remiraba" ],
+			[ "remirábamos" ],
+			[ "remirabais", "remiraban" ],
+			[ "remiraban" ]
+		],
+		"6" : [
+			[ "remiraría" ],
+			[ "remirarías" ],
+			[ "remiraría" ],
+			[ "remiraríamos" ],
+			[ "remiraríais", "remirarían" ],
+			[ "remirarían" ]
+		],
+		"7" : [
+			[ "remiraré" ],
+			[ "remirarás" ],
+			[ "remirará" ],
+			[ "remiraremos" ],
+			[ "remiraréis", "remirarán" ],
+			[ "remirarán" ]
+		],
+		"8" : [
+			[ "remire" ],
+			[ "remires" ],
+			[ "remire" ],
+			[ "remiremos" ],
+			[ "remiréis", "remiren" ],
+			[ "remiren" ]
+		],
+		"9" : [
+			[ "remirara" ],
+			[ "remiraras" ],
+			[ "remirara" ],
+			[ "remiráramos" ],
+			[ "remirarais", "remiraran" ],
+			[ "remiraran" ]
+		],
+		"10" : [
+			[ "remirase" ],
+			[ "remirases" ],
+			[ "remirase" ],
+			[ "remirásemos" ],
+			[ "remiraseis", "remirasen" ],
+			[ "remirasen" ]
+		],
+		"11" : [
+			[ "remirare" ],
+			[ "remirares" ],
+			[ "remirare" ],
+			[ "remiráremos" ],
+			[ "remirareis", "remiraren" ],
+			[ "remiraren" ]
+		],
+		"12" : {
+			"1" : [ "remira" ],
+			"2" : [ "remire" ],
+			"3" : [ "remiremos" ],
+			"4" : [ "remirad" ],
+			"5" : [ "remiren" ]
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"source" : "http:\/\/lema.rae.es\/drae\/srv\/search?val=aprehender",
+	"word" : "aprehender",
+	"infinitivo" : "aprehender",
+	"participio" : [ "aprehendido" ],
+	"gerundio" : [ "aprehendiendo" ],
+	"tenses" : {
+		"3" : [
+			[ "aprehendo" ],
+			[ "aprehendes", "aprehendés" ],
+			[ "aprehende" ],
+			[ "aprehendemos" ],
+			[ "aprehendéis", "aprehenden" ],
+			[ "aprehenden" ]
+		],
+		"4" : [
+			[ "aprehendí" ],
+			[ "aprehendiste" ],
+			[ "aprehendió" ],
+			[ "aprehendimos" ],
+			[ "aprehendisteis", "aprehendieron" ],
+			[ "aprehendieron" ]
+		],
+		"5" : [
+			[ "aprehendía" ],
+			[ "aprehendías" ],
+			[ "aprehendía" ],
+			[ "aprehendíamos" ],
+			[ "aprehendíais", "aprehendían" ],
+			[ "aprehendían" ]
+		],
+		"6" : [
+			[ "aprehendería" ],
+			[ "aprehenderías" ],
+			[ "aprehendería" ],
+			[ "aprehenderíamos" ],
+			[ "aprehenderíais", "aprehenderían" ],
+			[ "aprehenderían" ]
+		],
+		"7" : [
+			[ "aprehenderé" ],
+			[ "aprehenderás" ],
+			[ "aprehenderá" ],
+			[ "aprehenderemos" ],
+			[ "aprehenderéis", "aprehenderán" ],
+			[ "aprehenderán" ]
+		],
+		"8" : [
+			[ "aprehenda" ],
+			[ "aprehendas" ],
+			[ "aprehenda" ],
+			[ "aprehendamos" ],
+			[ "aprehendáis", "aprehendan" ],
+			[ "aprehendan" ]
+		],
+		"9" : [
+			[ "aprehendiera" ],
+			[ "aprehendieras" ],
+			[ "aprehendiera" ],
+			[ "aprehendiéramos" ],
+			[ "aprehendierais", "aprehendieran" ],
+			[ "aprehendieran" ]
+		],
+		"10" : [
+			[ "aprehendiese" ],
+			[ "aprehendieses" ],
+			[ "aprehendiese" ],
+			[ "aprehendiésemos" ],
+			[ "aprehendieseis", "aprehendiesen" ],
+			[ "aprehendiesen" ]
+		],
+		"11" : [
+			[ "aprehendiere" ],
+			[ "aprehendieres" ],
+			[ "aprehendiere" ],
+			[ "aprehendiéremos" ],
+			[ "aprehendiereis", "aprehendieren" ],
+			[ "aprehendieren" ]
+		],
+		"12" : {
+			"1" : [ "aprehende" ],
+			"2" : [ "aprehenda" ],
+			"3" : [ "aprehendamos" ],
+			"4" : [ "aprehended" ],
+			"5" : [ "aprehendan" ]
+		}
+	}
+}
